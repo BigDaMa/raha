@@ -1,0 +1,15 @@
+(dp0
+S'output'
+p1
+(lp2
+(I6001
+I1
+tp3
+asS'runtime'
+p4
+F0.006097078323364258
+sS'name'
+p5
+S'["regex", [["name", "[\\u00f3]", "OM"]]]'
+p6
+s.

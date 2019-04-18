@@ -1,0 +1,24 @@
+(dp0
+S'output'
+p1
+(lp2
+(I510
+I1
+tp3
+a(I163
+I1
+tp4
+a(I699
+I1
+tp5
+a(I327
+I1
+tp6
+asS'runtime'
+p7
+F0.0011701583862304688
+sS'name'
+p8
+S'["regex", [["article_title", "[;]", "OM"]]]'
+p9
+s.

@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I4002
+I15
+tp3
+a(I422
+I15
+tp4
+a(I2127
+I15
+tp5
+asS'runtime'
+p6
+F0.0061910152435302734
+sS'name'
+p7
+S'["regex", [["filming_locations", "[\\u00e4]", "OM"]]]'
+p8
+s.

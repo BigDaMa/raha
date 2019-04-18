@@ -1,0 +1,27 @@
+(dp0
+S'output'
+p1
+(lp2
+(I2217
+I8
+tp3
+a(I2216
+I8
+tp4
+a(I2215
+I8
+tp5
+a(I2214
+I8
+tp6
+a(I2213
+I8
+tp7
+asS'runtime'
+p8
+F0.0020771026611328125
+sS'name'
+p9
+S'["regex", [["brewery_name", "[\\u00f6]", "OM"]]]'
+p10
+s.

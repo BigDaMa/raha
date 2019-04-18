@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I256
+I6
+tp3
+a(I7304
+I6
+tp4
+a(I6488
+I6
+tp5
+asS'runtime'
+p6
+F0.006214141845703125
+sS'name'
+p7
+S'["regex", [["actors", "[5]", "OM"]]]'
+p8
+s.

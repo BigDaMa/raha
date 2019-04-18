@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I1401
+I37
+tp3
+a(I1017
+I37
+tp4
+a(I803
+I37
+tp5
+asS'runtime'
+p6
+F0.001953125
+sS'name'
+p7
+S'["regex", [["pri_staff_loc", "[j]", "OM"]]]'
+p8
+s.

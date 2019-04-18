@@ -1,0 +1,15 @@
+(dp0
+S'output'
+p1
+(lp2
+(I252
+I4
+tp3
+asS'runtime'
+p4
+F0.005908966064453125
+sS'name'
+p5
+S'["regex", [["director", "[\\u00fa]", "OM"]]]'
+p6
+s.

@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I1051
+I2
+tp3
+a(I1659
+I2
+tp4
+a(I1554
+I2
+tp5
+asS'runtime'
+p6
+F0.002480030059814453
+sS'name'
+p7
+S'["regex", [["beer_name", "[\\u2122]", "OM"]]]'
+p8
+s.

@@ -1,0 +1,27 @@
+(dp0
+S'output'
+p1
+(lp2
+(I1353
+I2
+tp3
+a(I2222
+I2
+tp4
+a(I550
+I2
+tp5
+a(I1293
+I2
+tp6
+a(I210
+I2
+tp7
+asS'runtime'
+p8
+F0.0025479793548583984
+sS'name'
+p9
+S'["regex", [["beer_name", "[X]", "OM"]]]'
+p10
+s.

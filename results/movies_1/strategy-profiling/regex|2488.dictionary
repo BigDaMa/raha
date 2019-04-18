@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I2248
+I6
+tp3
+a(I4123
+I6
+tp4
+a(I3923
+I6
+tp5
+asS'runtime'
+p6
+F0.006333112716674805
+sS'name'
+p7
+S'["regex", [["actors", "[\\u00fa]", "OM"]]]'
+p8
+s.

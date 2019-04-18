@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I276
+I45
+tp3
+a(I2057
+I45
+tp4
+a(I658
+I45
+tp5
+asS'runtime'
+p6
+F0.001775979995727539
+sS'name'
+p7
+S'["regex", [["ccard_data", "[a]", "OM"]]]'
+p8
+s.

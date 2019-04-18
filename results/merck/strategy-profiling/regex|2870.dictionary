@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I1054
+I27
+tp3
+a(I2031
+I27
+tp4
+a(I3
+I27
+tp5
+asS'runtime'
+p6
+F0.001856088638305664
+sS'name'
+p7
+S'["regex", [["alt_app_critical", "[Y]", "OM"]]]'
+p8
+s.

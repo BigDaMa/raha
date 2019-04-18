@@ -1,0 +1,124 @@
+===================== Dataset: beers =====================
+Building clustering model for column 0...
+Building clustering model for column 1...
+Building clustering model for column 2...
+Building clustering model for column 3...
+Building clustering model for column 4...
+Building clustering model for column 5...
+Building clustering model for column 6...
+Building clustering model for column 7...
+Building clustering model for column 8...
+Building clustering model for column 9...
+Building clustering model for column 10...
+Run 0...
+Run 1...
+Run 2...
+Run 3...
+Run 4...
+Run 5...
+Run 6...
+Run 7...
+Run 8...
+Run 9...
+Run 10...
+Run 11...
+Run 12...
+Run 13...
+Run 14...
+Run 15...
+Run 16...
+Run 17...
+Run 18...
+Run 19...
+beers Ours
+ED Precision, ED Recall, ED F1
+1, 0.82, 0.68, 0.72
+beers Ours
+ED Precision, ED Recall, ED F1
+2, 0.73, 0.77, 0.73
+beers Ours
+ED Precision, ED Recall, ED F1
+3, 0.70, 0.79, 0.72
+beers Ours
+ED Precision, ED Recall, ED F1
+4, 0.67, 0.82, 0.72
+beers Ours
+ED Precision, ED Recall, ED F1
+5, 0.68, 0.80, 0.72
+beers Ours
+ED Precision, ED Recall, ED F1
+6, 0.68, 0.81, 0.73
+beers Ours
+ED Precision, ED Recall, ED F1
+7, 0.71, 0.79, 0.74
+beers Ours
+ED Precision, ED Recall, ED F1
+8, 0.69, 0.81, 0.74
+beers Ours
+ED Precision, ED Recall, ED F1
+9, 0.71, 0.80, 0.75
+beers Ours
+ED Precision, ED Recall, ED F1
+10, 0.71, 0.80, 0.75
+beers Ours
+ED Precision, ED Recall, ED F1
+11, 0.71, 0.80, 0.75
+beers Ours
+ED Precision, ED Recall, ED F1
+12, 0.71, 0.81, 0.75
+beers Ours
+ED Precision, ED Recall, ED F1
+13, 0.72, 0.80, 0.75
+beers Ours
+ED Precision, ED Recall, ED F1
+14, 0.71, 0.80, 0.75
+beers Ours
+ED Precision, ED Recall, ED F1
+15, 0.70, 0.81, 0.75
+beers Ours
+ED Precision, ED Recall, ED F1
+16, 0.70, 0.81, 0.75
+beers Ours
+ED Precision, ED Recall, ED F1
+17, 0.71, 0.80, 0.75
+beers Ours
+ED Precision, ED Recall, ED F1
+18, 0.72, 0.80, 0.76
+beers Ours
+ED Precision, ED Recall, ED F1
+19, 0.72, 0.80, 0.76
+beers Ours
+ED Precision, ED Recall, ED F1
+20, 0.73, 0.80, 0.76
+beers Ours
+ED Precision, ED Recall, ED F1
+21, 0.73, 0.80, 0.76
+beers Ours
+ED Precision, ED Recall, ED F1
+22, 0.74, 0.80, 0.77
+beers Ours
+ED Precision, ED Recall, ED F1
+23, 0.74, 0.80, 0.77
+beers Ours
+ED Precision, ED Recall, ED F1
+24, 0.74, 0.80, 0.77
+beers Ours
+ED Precision, ED Recall, ED F1
+25, 0.75, 0.80, 0.77
+beers Ours
+ED Precision, ED Recall, ED F1
+26, 0.75, 0.80, 0.77
+beers Ours
+ED Precision, ED Recall, ED F1
+27, 0.75, 0.80, 0.78
+beers Ours
+ED Precision, ED Recall, ED F1
+28, 0.75, 0.80, 0.78
+beers Ours
+ED Precision, ED Recall, ED F1
+29, 0.75, 0.80, 0.78
+beers Ours
+ED Precision, ED Recall, ED F1
+30, 0.76, 0.79, 0.77
+\addplot coordinates{(0,0.0)(1,0.72)(2,0.73)(3,0.72)(4,0.72)(5,0.72)(6,0.73)(7,0.74)(8,0.74)(9,0.75)(10,0.75)(11,0.75)(12,0.75)(13,0.75)(14,0.75)(15,0.75)(16,0.75)(17,0.75)(18,0.76)(19,0.76)(20,0.76)(21,0.76)(22,0.77)(23,0.77)(24,0.77)(25,0.77)(26,0.77)(27,0.78)(28,0.78)(29,0.78)(30,0.77)}; \addlegendentry{Ours}
+===================== Dataset: address_10_capitalized =====================

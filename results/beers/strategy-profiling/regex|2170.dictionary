@@ -1,0 +1,15 @@
+(dp0
+S'output'
+p1
+(lp2
+(I239
+I2
+tp3
+asS'runtime'
+p4
+F0.0024950504302978516
+sS'name'
+p5
+S'["regex", [["beer_name", "[\\u00e8]", "OM"]]]'
+p6
+s.

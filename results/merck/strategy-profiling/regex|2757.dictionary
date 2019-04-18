@@ -1,0 +1,15 @@
+(dp0
+S'output'
+p1
+(lp2
+(I310
+I23
+tp3
+asS'runtime'
+p4
+F0.0019659996032714844
+sS'name'
+p5
+S'["regex", [["bus_hours", "[q]", "OM"]]]'
+p6
+s.

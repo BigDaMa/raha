@@ -1,0 +1,24 @@
+(dp0
+S'output'
+p1
+(lp2
+(I2159
+I4
+tp3
+a(I2664
+I4
+tp4
+a(I1883
+I4
+tp5
+a(I256
+I4
+tp6
+asS'runtime'
+p7
+F0.0058879852294921875
+sS'name'
+p8
+S'["regex", [["director", "[\\u00e5]", "OM"]]]'
+p9
+s.

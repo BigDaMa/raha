@@ -1,0 +1,15 @@
+(dp0
+S'output'
+p1
+(lp2
+(I5760
+I7
+tp3
+asS'runtime'
+p4
+F0.0070400238037109375
+sS'name'
+p5
+S'["regex", [["full_cast", "[\\u00ea]", "OM"]]]'
+p6
+s.

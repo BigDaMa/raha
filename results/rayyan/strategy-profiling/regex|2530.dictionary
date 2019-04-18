@@ -1,0 +1,15 @@
+(dp0
+S'output'
+p1
+(lp2
+(I180
+I9
+tp3
+asS'runtime'
+p4
+F0.000885009765625
+sS'name'
+p5
+S'["regex", [["article_pagination", "[I]", "OM"]]]'
+p6
+s.

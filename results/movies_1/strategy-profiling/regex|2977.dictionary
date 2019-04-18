@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I627
+I16
+tp3
+a(I5578
+I16
+tp4
+a(I2612
+I16
+tp5
+asS'runtime'
+p6
+F0.006973981857299805
+sS'name'
+p7
+S'["regex", [["description", "[\\u00e7]", "OM"]]]'
+p8
+s.

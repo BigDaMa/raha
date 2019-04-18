@@ -1,0 +1,338 @@
+(dp0
+S'values'
+p1
+(dp2
+V33700 hxghway 43
+p3
+F0.001
+sV2801 debarr road
+p4
+F0.018
+sV1108 ross clark circle
+p5
+F0.025
+sV4370xwestxmainxstreet
+p6
+F0.001
+sV126 hospital ave
+p7
+F0.023
+sV209 north main street
+p8
+F0.024
+sV1201 7th street se
+p9
+F0.001
+sV1300 south montgomery avenue
+p10
+F0.025
+sV1720 university blvd
+p11
+F0.024
+sV33700 highway x3
+p12
+F0.001
+sV315xwxhickoryxst
+p13
+F0.001
+sV810 st vincents drive
+p14
+F0.004
+sV1000 fixst stxeet noxth
+p15
+F0.001
+sV126xhospitalxave
+p16
+F0.001
+sV810 st vxncents drxve
+p17
+F0.001
+sV1725 pine street
+p18
+F0.025
+sV2505 u s highway 431 north
+p19
+F0.024
+sVpoxboxx287
+p20
+F0.001
+sV8000 alabama xigxway 69
+p21
+F0.001
+sV301 east 18th st
+p22
+F0.026
+sV1010 lay dam road
+p23
+F0.024
+sV124 s memorial dr
+p24
+F0.018
+sV600 south third street
+p25
+F0.027
+sV400 n edwards street
+p26
+F0.024
+sV150 gilbreath drive
+p27
+F0.019
+sV515 miranxa st
+p28
+F0.001
+sV1653 temple avenue north
+p29
+F0.025
+sV315 w hickory st
+p30
+F0.016
+sV849 south three notch street
+p31
+F0.025
+sV4370 west main street
+p32
+F0.016
+sV1720 univxrsity blvd
+p33
+F0.001
+sV2000 pepperell parkway
+p34
+F0.025
+sV201 pine sxreex norxhwesx
+p35
+F0.001
+sV702 n main st
+p36
+F0.023
+sV15155 highway 43
+p37
+F0.002
+sV124 s mxmorial dr
+p38
+F0.001
+sV400xnxedwardsxstreet
+p39
+F0.001
+sV124xsxmemorialxdr
+p40
+F0.001
+sV702 x maix st
+p41
+F0.001
+sV201 pine street northwest
+p42
+F0.024
+sV515 mirxndx st
+p43
+F0.001
+sV619 south 19th street
+p44
+F0.025
+sV1912 alabama highway 157
+p45
+F0.024
+sV101 sivley rd
+p46
+F0.028
+sV101 hospital circle
+p47
+F0.025
+sV301xeastx18thxst
+p48
+F0.001
+sV805 friendship road
+p49
+F0.025
+sV209 xorth maix street
+p50
+F0.001
+sV1x6 hospital ave
+p51
+F0.001
+sV702xnxmainxst
+p52
+F0.001
+sV1000 first street north
+p53
+F0.024
+sV205 marengo street
+p54
+F0.025
+sV200 med center drive
+p55
+F0.025
+sV2105 east south boulevard
+p56
+F0.025
+sV600 souxh xhird sxreex
+p57
+F0.001
+sV1530xuxsxhighwayx43
+p58
+F0.001
+sV1912xalabamaxhighwayx157
+p59
+F0.001
+sV4800 48th st
+p60
+F0.025
+sV400 northwood dr
+p61
+F0.025
+sV301 east 1xth st
+p62
+F0.001
+sV515 miranda sx
+p63
+F0.001
+sVx0x0 lay dam road
+p64
+F0.001
+sV2451 fillingim street
+p65
+F0.013
+sV33700 highway 43
+p66
+F0.023
+sVpo box 287
+p67
+F0.001
+sV1256 military street south
+p68
+F0.024
+sV987 drayton street
+p69
+F0.025
+sV8000 alabama highway 69
+p70
+F0.024
+sV515 miranda st
+p71
+F0.022
+sV150 gilxreath drive
+p72
+F0.001
+sV2505xuxsxhighwayx431xnorth
+p73
+F0.001
+sV1256 military street sxuth
+p74
+F0.001
+sV50 medical park east drive
+p75
+F0.025
+sV1530 u s highway 43
+p76
+F0.024
+sV1007 goodyear avenue
+p77
+F0.025
+sV315 w hickxry st
+p78
+F0.001
+ssS'characters'
+p79
+(dp80
+V 
+p81
+F0.989
+sV1
+p82
+F0.602
+sV0
+p83
+F0.72
+sV3
+p84
+F0.19
+sV2
+p85
+F0.378
+sV5
+p86
+F0.328
+sV4
+p87
+F0.226
+sV7
+p88
+F0.195
+sV6
+p89
+F0.153
+sV9
+p90
+F0.15
+sV8
+p91
+F0.202
+sVa
+p92
+F0.679
+sVc
+p93
+F0.148
+sVb
+p94
+F0.139
+sVe
+p95
+F0.726
+sVd
+p96
+F0.393
+sVg
+p97
+F0.235
+sVf
+p98
+F0.063
+sVi
+p99
+F0.624
+sVh
+p100
+F0.571
+sVk
+p101
+F0.093
+sVm
+p102
+F0.35
+sVl
+p103
+F0.381
+sVo
+p104
+F0.559
+sVn
+p105
+F0.483
+sVp
+p106
+F0.202
+sVs
+p107
+F0.733
+sVr
+p108
+F0.792
+sVu
+p109
+F0.278
+sVt
+p110
+F0.702
+sVw
+p111
+F0.262
+sVv
+p112
+F0.253
+sVy
+p113
+F0.348
+sVx
+p114
+F0.032
+ss.

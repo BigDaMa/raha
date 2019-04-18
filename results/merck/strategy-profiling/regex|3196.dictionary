@@ -1,0 +1,27 @@
+(dp0
+S'output'
+p1
+(lp2
+(I585
+I40
+tp3
+a(I584
+I40
+tp4
+a(I583
+I40
+tp5
+a(I582
+I40
+tp6
+a(I580
+I40
+tp7
+asS'runtime'
+p8
+F0.0017921924591064453
+sS'name'
+p9
+S'["regex", [["emp_dta", "[?]", "OM"]]]'
+p10
+s.

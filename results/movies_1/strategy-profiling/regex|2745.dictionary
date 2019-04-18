@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I1245
+I9
+tp3
+a(I1154
+I9
+tp4
+a(I1943
+I9
+tp5
+asS'runtime'
+p6
+F0.005959987640380859
+sS'name'
+p7
+S'["regex", [["country", "[Y]", "OM"]]]'
+p8
+s.

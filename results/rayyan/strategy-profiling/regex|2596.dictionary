@@ -1,0 +1,27 @@
+(dp0
+S'output'
+p1
+(lp2
+(I821
+I10
+tp3
+a(I643
+I10
+tp4
+a(I293
+I10
+tp5
+a(I96
+I10
+tp6
+a(I392
+I10
+tp7
+asS'runtime'
+p8
+F0.0009291172027587891
+sS'name'
+p9
+S'["regex", [["author_list", "[\\u0331]", "OM"]]]'
+p10
+s.

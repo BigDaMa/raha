@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I158
+I3
+tp3
+a(I392
+I3
+tp4
+a(I322
+I3
+tp5
+asS'runtime'
+p6
+F0.001068115234375
+sS'name'
+p7
+S'["regex", [["journal_title", "[_]", "OM"]]]'
+p8
+s.

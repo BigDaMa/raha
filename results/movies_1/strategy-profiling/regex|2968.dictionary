@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I5891
+I16
+tp3
+a(I3319
+I16
+tp4
+a(I7149
+I16
+tp5
+asS'runtime'
+p6
+F0.006587028503417969
+sS'name'
+p7
+S'["regex", [["description", "[\\u00bb]", "OM"]]]'
+p8
+s.

@@ -1,0 +1,21 @@
+(dp0
+S'output'
+p1
+(lp2
+(I131
+I7
+tp3
+a(I135
+I7
+tp4
+a(I7264
+I7
+tp5
+asS'runtime'
+p6
+F0.00690913200378418
+sS'name'
+p7
+S'["regex", [["full_cast", "[\\u00e2]", "OM"]]]'
+p8
+s.
