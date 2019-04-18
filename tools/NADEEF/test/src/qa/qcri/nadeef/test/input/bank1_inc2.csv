@@ -1,0 +1,5 @@
+FN varchar(255),LN varchar(255), St varchar(255), city varchar(255), CC varchar(255), country varchar(255), tel varchar(255), gd varchar(255)
+Akoen,Voorman,Konningen Straat,Amsterdam,31,NL,66700543,Male
+Cdpaul,Aman,25 Ratcliffe Terrace,London,44,UK,44944631,Female
+Orciman,Wang,Zuid WTC2,Amsterdam,31,NL,66700543,Female
+Papapa,Mohammad,16 Wonderful land,Lisben,45,BE,44944631,Man

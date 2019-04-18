@@ -1,0 +1,2504 @@
+Ben Nevis	parentPeak	none – Highest peak on island of Great Britain
+Mount Logan	parentPeak	Denali
+Mont Blanc	parentPeak	Mount Everest
+Half Dome	parentPeak	Clouds Rest
+Tödi	parentPeak	Finsteraarhorn
+Mount Shasta	parentPeak	North Palisade
+Annapurna Massif	parentPeak	Cho Oyu
+Mam Tor	parentPeak	Kinder Scout
+Crowborough	parentPeak	Leith Hill
+Scafell Pike	parentPeak	Snowdon
+Snowdon	parentPeak	Ben Nevis
+Mount Pilatus	parentPeak	Brienzer Rothorn
+Mount Whitney	parentPeak	Pico de Orizaba
+Mount Dana	parentPeak	Mount Lyell
+Weissenstein	parentPeak	Hasenmatt
+Ysgyryd Fawr	parentPeak	Sugar Loaf Mountain
+Jungfrau	parentPeak	Finsteraarhorn
+Matterhorn	parentPeak	Weisshorn
+Zugspitze	parentPeak	Finsteraarhorn / Mont Blanc
+Buachaille Etive Mòr	parentPeak	Bidean nam Bian
+Mount Ararat	parentPeak	Mount Damavand
+The Roaches	parentPeak	Shining Tor
+Ilkley Moor	parentPeak	Thorpe Fell Top
+Wetterhorn	parentPeak	Mittelhorn
+Dhaulagiri	parentPeak	K2
+Mount Chephren	parentPeak	Howse Peak
+Moel Famau	parentPeak	Moel y Gamelin
+Eiger	parentPeak	Mönch
+Goat Fell	parentPeak	none - HP Arran
+Kinder Scout	parentPeak	Cross Fell
+Finsteraarhorn	parentPeak	Mont Blanc
+Little Kennesaw Mountain	parentPeak	Kennesaw Mountain
+Piz Buin	parentPeak	Fluchthorn
+Sgùrr nan Gillean	parentPeak	Sgùrr Alasdair
+Sca Fell	parentPeak	Scafell Pike
+Wildspitze	parentPeak	Ortler
+Piz Linard	parentPeak	Piz Kesch
+Ingleborough	parentPeak	Whernside
+Pen-y-ghent	parentPeak	Whernside
+Diablerets	parentPeak	Finsteraarhorn
+Helvellyn	parentPeak	Scafell Pike
+Pico de Orizaba	parentPeak	Mount Logan
+San Jacinto Peak	parentPeak	San Gorgonio Mountain
+Ben Lomond	parentPeak	Ben More
+Mount Columbia	parentPeak	Mount Harvard
+Sgùrr Dearg	parentPeak	Sgùrr Alasdair
+Mount Steele	parentPeak	Mount Lucania
+Dent Blanche	parentPeak	Matterhorn
+Mönch	parentPeak	Finsteraarhorn
+Mount Clemenceau	parentPeak	Mount Columbia
+Breithorn	parentPeak	Dufourspitze
+Deltaform Mountain	parentPeak	Hungabee Mountain
+Mount Damavand	parentPeak	Mount Elbrus
+Dunstable Downs	parentPeak	Haddington Hill
+Lauberhorn	parentPeak	Tschuggen
+Männlichen	parentPeak	Tschuggen
+Schilthorn	parentPeak	Finsteraarhorn
+Mount Baxter	parentPeak	Acrodectes Peak
+Gong Peak	parentPeak	Mount Smythe
+San Gorgonio Mountain	parentPeak	Olancha Peak
+Mount Weiss	parentPeak	Gong Peak
+Mount Nelson	parentPeak	Mount Smythe
+Great Orme	parentPeak	Mwdwl-eithin
+Mount Gibbs	parentPeak	Mount Dana
+Beinn Alligin	parentPeak	Beinn Eighe
+Liathach	parentPeak	Càrn Eige
+Beinn Eighe	parentPeak	Liathach
+Sgùrr Alasdair	parentPeak	none - HP Skye
+Aonach Eagach	parentPeak	Ben Alder
+Dent	parentPeak	Pillar
+Pillar	parentPeak	Great Gable
+Y Llethr	parentPeak	Moel Siabod
+Blà Bheinn	parentPeak	Sgurr Alasdair
+Great Gable	parentPeak	Scafell Pike
+Raoul Island	parentPeak	Moumoukai Peak
+Cairn Gorm	parentPeak	Ben Macdui
+Plynlimon	parentPeak	Pen y Fan
+Ward's Stone	parentPeak	Ingleborough
+Fair Snape Fell	parentPeak	Ward's Stone
+Crib Goch	parentPeak	Garnedd Ugain
+Yr Aran	parentPeak	Snowdon
+Garnedd Ugain	parentPeak	Snowdon
+Y Lliwedd	parentPeak	Snowdon
+High Willhays	parentPeak	Cross Fell
+Hambledon Hill	parentPeak	Win Green
+The Storr	parentPeak	Sgurr Alasdair
+Garreg Lwyd	parentPeak	Fan Brycheiniog
+Tryfan	parentPeak	Glyder Fawr
+Ben More	parentPeak	none - HP Mull
+Mount Walter	parentPeak	Wheeler Peak
+Pendle Hill	parentPeak	Kinder Scout
+Mount Charleston	parentPeak	Mount Jefferson
+Gletscherhorn	parentPeak	Jungfrau
+Bowfell	parentPeak	Scafell Pike
+Fairfield	parentPeak	Helvellyn
+Nordend	parentPeak	Dufourspitze of Monte Rosa
+Siding Spring Observatory	parentPeak	Mount Exmouth
+Gannett Peak	parentPeak	Longs Peak
+Grand Teton	parentPeak	Gannett Peak
+Mount Foraker	parentPeak	Denali
+Ben Macdui	parentPeak	Ben Nevis
+Mount Madison	parentPeak	Mount Adams
+Minarets	parentPeak	Mount Ritter
+Lochnagar	parentPeak	Ben Macdui
+Bleaklow	parentPeak	Kinder Scout
+Golden Cap	parentPeak	Hardown Hill
+The Cobbler	parentPeak	Beinn Narnain
+Catstye Cam	parentPeak	Helvellyn
+Great End	parentPeak	Ill Crag
+Blencathra	parentPeak	Skiddaw
+Mount Ritter	parentPeak	Red Slate Mountain
+Skiddaw Little Man	parentPeak	Skiddaw
+The Devil's Point	parentPeak	Cairn Toul
+Cross Fell	parentPeak	Helvellyn
+Red Slate Mountain	parentPeak	Ruby Peak
+Crinkle Crags	parentPeak	Scafell Pike
+Stiperstones	parentPeak	Plynlimon
+El Capitan	parentPeak	Guadalupe Peak
+Ben Lawers	parentPeak	Ben Nevis
+White Mountain Peak	parentPeak	Mount Whitney
+Braeriach	parentPeak	Ben Macdui
+Dundry Hill	parentPeak	Beacon Batch
+Hard Knott	parentPeak	Scafell Pike
+Harter Fell	parentPeak	Scafell Pike
+Whitbarrow	parentPeak	High Street
+Hergest Ridge	parentPeak	Gwaunceste Hill
+Great Dodd	parentPeak	Helvellyn
+Brown Clee Hill	parentPeak	Plynlimon
+Schiehallion	parentPeak	Ben Lawers
+High Street	parentPeak	Helvellyn
+Glyder Fawr	parentPeak	Snowdon
+Carnedd Llewelyn	parentPeak	Snowdon
+White Hill	parentPeak	Ward's Stone
+Pavey Ark	parentPeak	Thunacar Knott
+Elidir Fawr	parentPeak	Y Garn
+Pen y Fan	parentPeak	Snowdon
+Aran Fawddwy	parentPeak	Snowdon
+Cadair Idris	parentPeak	Aran Fawddwy
+Mynydd Bodafon	parentPeak	none - HP Anglesey
+Holyhead Mountain	parentPeak	none - HP Holy Island
+Snaefell	parentPeak	none - HP Isle of Man
+Glyder Fach	parentPeak	Glyder Fawr
+Càrn Eige	parentPeak	Ben Nevis
+Dale Head	parentPeak	Great Gable
+Robinson	parentPeak	Dale Head
+Lhotse Shar	parentPeak	Lhotse
+Heart Mountain	parentPeak	Lung Peak
+Moel Hebog	parentPeak	Snowdon
+Moel Siabod	parentPeak	Glyder Fawr
+Black Mountain	parentPeak	Waun Fach
+Waun Fach	parentPeak	Pen y Fan
+Ben More	parentPeak	Ben Nevis
+Y Garn	parentPeak	Glyder Fawr
+Merrick	parentPeak	Helvellyn
+Càrn Mòr Dearg	parentPeak	Ben Nevis
+Yr Eifl	parentPeak	Moel Hebog
+Piz Bernina	parentPeak	Mont Blanc
+An Teallach	parentPeak	Sgurr Mor
+Cliffe Hill	parentPeak	Crowborough
+Place Fell	parentPeak	High Street
+The Cheviot	parentPeak	Broad Law
+Little Mell Fell	parentPeak	Helvellyn
+Grayrigg Forest	parentPeak	High Street
+Hallin Fell	parentPeak	High Street
+Dunkery Hill	parentPeak	High Willhays
+Sgùrr Mòr	parentPeak	Carn Eige
+Black Hill	parentPeak	Kinder Scout
+Grasmoor	parentPeak	Scafell Pike
+Ben Lui	parentPeak	Ben Lawers
+Cheriton Hill	parentPeak	Crowborough
+Detling Hill	parentPeak	Leith Hill
+Cold Pike	parentPeak	Crinkle Crags
+May Hill	parentPeak	Worcestershire Beacon
+Gummer's How	parentPeak	High Street
+Whitfell	parentPeak	Black Combe
+High Raise	parentPeak	Scafell Pike
+Kirkby Moor	parentPeak	Old Man of Coniston
+Worcestershire Beacon	parentPeak	Hergest Ridge
+Hutton Roof Crags	parentPeak	Grayrigg Forest
+Bredon Hill	parentPeak	The Wrekin
+Ruardean Hill	parentPeak	May Hill
+Mount Macdonald	parentPeak	Uto Peak
+Cat Bells	parentPeak	Dale Head
+Bidean nam Bian	parentPeak	Ben Nevis
+Nethermost Pike	parentPeak	Helvellyn
+Stob Coire Sgreamhach	parentPeak	Bidean nam Bian
+Esk Pike	parentPeak	Bowfell
+Buachaille Etive Beag	parentPeak	Buachaille Etive Mor
+Dreiländerspitze	parentPeak	Augstenberg
+Raise	parentPeak	Helvellyn
+Klein Matterhorn	parentPeak	Breithorn
+Staple Hill	parentPeak	Dunkery Beacon
+The Saddle	parentPeak	Aonach air Chrith
+Carnedd Dafydd	parentPeak	Carnedd Llewelyn
+Sugar Loaf, Monmouthshire	parentPeak	Waun Fach
+The Nab	parentPeak	Rest Dodd
+Aletschhorn	parentPeak	Finsteraarhorn
+Grünhorn	parentPeak	Gross Fiescherhorn
+Gross Fiescherhorn	parentPeak	Finsteraarhorn
+Fan Frynych	parentPeak	Fan Fawr
+Craig Cerrig-gleisiad	parentPeak	Fan Fawr
+Grauspitz	parentPeak	Schesaplana
+Ben Cruachan	parentPeak	Ben Lawers
+Little Trees Hill	parentPeak	Wandlebury Hill
+Wandlebury Hill	parentPeak	Great Wood Hill
+Burrow	parentPeak	Pegwn Mawr
+Pyramid Peak	parentPeak	Maroon Peak
+Butser Hill	parentPeak	Walbury Hill
+Crêt de la Neige	parentPeak	Mont Blanc
+Beinn a' Bheithir	parentPeak	Bidean nam Bian
+Walbury Hill	parentPeak	Beacon Batch
+Stob Binnein	parentPeak	Ben More
+Ortler	parentPeak	Piz Bernina
+Blue Cow Mountain	parentPeak	Mount Kosciuszko
+Titterstone Clee Hill	parentPeak	Brown Clee Hill
+Dom	parentPeak	Monte Rosa
+Great Shunner Fell	parentPeak	Cross Fell
+Mount Lafayette	parentPeak	Mount Monroe
+Lewesdon Hill	parentPeak	Staple Hill
+Blorenge	parentPeak	Coity Mountain
+Buckbarrow	parentPeak	Seatallan
+Troutbeck Tongue	parentPeak	Froswick
+Ben Wyvis	parentPeak	Beinn Dearg
+Carn Menyn	parentPeak	Foel Cwmcerwyn
+Mount Skylight	parentPeak	Mount Marcy
+Great Wood Hill	parentPeak	Therfield Hill
+Loft Crag	parentPeak	Pike of Stickle
+Fluchthorn	parentPeak	Piz Linard
+Mitre Peak	parentPeak	 Mount Cook
+Haddington Hill	parentPeak	Cleeve Hill
+High Seat	parentPeak	High Raise
+St Sunday Crag	parentPeak	Fairfield
+White Side	parentPeak	Raise
+Santa Fe Baldy	parentPeak	Truchas Peak
+Mount Lyell	parentPeak	Mount Ritter
+Winter Hill	parentPeak	Hail Storm Hill
+Dollywaggon Pike	parentPeak	Helvellyn
+Stybarrow Dodd	parentPeak	Great Dodd
+Clough Head	parentPeak	Great Dodd
+Crag Hill	parentPeak	Grasmoor
+High Stile	parentPeak	Great Gable
+Grand Combin	parentPeak	Monte Rosa
+Pike of Stickle	parentPeak	High Raise
+Kirk Fell	parentPeak	Great Gable
+Red Screes	parentPeak	Fairfield
+Monte Cristo Peak	parentPeak	Kyes Peak
+Mickle Fell	parentPeak	Cross Fell
+Stony Cove Pike	parentPeak	High Street
+Nevado de Toluca	parentPeak	Popocatépetl
+Crowsnest Mountain	parentPeak	Mount Erris
+Wetterhorn Peak	parentPeak	Uncompahgre Peak
+Cairn Toul	parentPeak	Braeriach
+Sharp Haw	parentPeak	Thorpe Fell Top
+Great Whernside	parentPeak	Whernside
+Thorpe Fell Top	parentPeak	Whernside
+Binsey	parentPeak	Knott
+Holme Fell	parentPeak	Old Man of Coniston
+Billinge Hill	parentPeak	Winter Hill
+Shining Tor	parentPeak	Kinder Scout
+Pike of Blisco	parentPeak	Scafell Pike
+Chanctonbury Ring	parentPeak	Leith Hill
+Pen yr Ole Wen	parentPeak	Carnedd Dafydd
+Broad Crag	parentPeak	Ill Crag
+Ill Crag	parentPeak	Scafell Pike
+Triple Divide Peak	parentPeak	Norris Mountain
+Silberhorn	parentPeak	Jungfrau
+Dreispitz	parentPeak	Finsteraarhorn
+Causey Pike	parentPeak	Scar Crags
+Watch Hill	parentPeak	Lord's Seat
+Loughrigg Fell	parentPeak	High Raise
+Swyre Head	parentPeak	Lewesdon Hill
+Nine Barrow Down	parentPeak	Lewesdon Hill
+Seatallan	parentPeak	Pillar
+Arenig Fawr	parentPeak	Moel Siabod
+Mount Cleveland	parentPeak	Mount Evans
+Shōwa-shinzan	parentPeak	Mount Usu
+Ben Lomond	parentPeak	Legges Tor
+Mount Tom	parentPeak	Mount Humphreys
+Corndon Hill	parentPeak	Stiperstones
+Knott	parentPeak	Skiddaw
+Harter Fell	parentPeak	High Street
+High Rigg	parentPeak	High Raise
+Foel-fras	parentPeak	Carnedd Llewelyn
+Beinn Ìme	parentPeak	Ben Lui
+Weißkugel	parentPeak	Wildspitze
+Ben Avon	parentPeak	Beinn a' Bhùird
+Great Mell Fell	parentPeak	Helvellyn
+Tosson Hill	parentPeak	The Cheviot
+Branstree	parentPeak	Harter Fell
+Castle Crag	parentPeak	High Spy
+Going-to-the-Sun Mountain	parentPeak	Cracker Benchmark
+Dumyat	parentPeak	West Lomond
+Great Dun Fell	parentPeak	Cross Fell
+Swinside	parentPeak	Dale Head
+Aonach Mòr	parentPeak	Aonach Beag
+Blake Fell	parentPeak	High Stile
+Ben Vorlich, Loch Earn	parentPeak	Ben More
+Üetliberg	parentPeak	Bürglen
+Garreg Lwyd	parentPeak	Pegwn Mawr
+Cleeve Hill	parentPeak	The Wrekin
+Y Garn	parentPeak	Y Llethr
+Harrison Stickle	parentPeak	High Raise
+Black Combe	parentPeak	Scafell Pike
+Beinn an Lochain	parentPeak	Beinn Ime
+Caisteal Abhail	parentPeak	Goat Fell
+Ben Vorlich, Loch Lomond	parentPeak	Beinn Ime
+Pen Llithrig y Wrach	parentPeak	Carnedd Llewelyn
+Caer Caradoc	parentPeak	Stiperstones
+Heath Mynd	parentPeak	Corndon Hill
+An Sgùrr	parentPeak	none - HP Eigg
+Beinn an Òir	parentPeak	none - HP Jura
+Beinn a' Chaolais	parentPeak	Beinn an Òir
+Yr Elen	parentPeak	Carnedd Llewelyn
+Annapurna III	parentPeak	Annapurna
+Annapurna South	parentPeak	Annapurna I Main
+Foel Cwmcerwyn	parentPeak	Plynlimon
+Foel Fenlli	parentPeak	Moel Famau
+Penycloddiau	parentPeak	Moel Famau
+Moel Gyw	parentPeak	Moel Famau
+Hindscarth	parentPeak	Dale Head
+Moel Eilio	parentPeak	Snowdon
+Moel Cynghorion	parentPeak	Snowdon
+Mount Muir	parentPeak	Mount Whitney
+Moelwyn Mawr	parentPeak	Moel Siabod
+Sgòr an Lochain Uaine	parentPeak	Cairn Toul
+Allt-fawr	parentPeak	Moelwyn Mawr
+Manod Mawr	parentPeak	Arenig Fach
+Wolds Top	parentPeak	Walton Hill
+Rhinog Fawr	parentPeak	Y Llethr
+Moel Ysgyfarnogod	parentPeak	Rhinog Fawr
+Mellbreak	parentPeak	High Stile
+Mynydd Mawr	parentPeak	Moel Hebog
+Mount Bonython	parentPeak	Mount Lofty
+Stuchd an Lochain	parentPeak	Schiehallion
+Meall Buidhe, Glen Lyon	parentPeak	Stuchd an Lochain
+Meall Buidhe	parentPeak	Meall Buidhe, Glen Lyon
+Brighstone Down	parentPeak	St Boniface Down
+Askival	parentPeak	none - HP Rùm
+Beinn Bhàn	parentPeak	Sgurr Mor
+Walton Hill	parentPeak	The Wrekin
+Foinaven	parentPeak	Ben Klibreck
+Broad Law	parentPeak	Merrick, Galloway
+Fan Brycheiniog	parentPeak	Pen y Fan
+Marsco	parentPeak	Blaven
+The Calf	parentPeak	Cross Fell
+Weissmies	parentPeak	Monte Rosa
+Housedon Hill	parentPeak	The Cheviot
+Long Crag	parentPeak	The Cheviot
+Burnhope Seat	parentPeak	Cross Fell
+Bulbarrow Hill	parentPeak	Lewesdon Hill
+Creag Meagaidh	parentPeak	Ben Nevis
+Fleetwith Pike	parentPeak	Great Gable
+Liberty Cap	parentPeak	Half Dome
+Rest Dodd	parentPeak	High Street
+Craigowl Hill	parentPeak	Lochnagar
+Ben Hope	parentPeak	Ben Klibreck
+Thunacar Knott	parentPeak	Harrison Stickle
+Telescope Peak	parentPeak	White Mountain Peak
+Blackdown, West Sussex	parentPeak	Leith Hill
+Barf	parentPeak	Lord's Seat
+Mount Apoi	parentPeak	Pinneshiri
+Glas Maol	parentPeak	Lochnagar
+Mount Nukabira	parentPeak	Mount Kitatottabetsu
+Mount Oshiki	parentPeak	Mount Fushimi
+Pirika Nupuri	parentPeak	Mount Petegari
+Mount Pisenai	parentPeak	Mount Pirigai
+Beinn Narnain	parentPeak	Beinn Ime
+Mount Wilbur	parentPeak	Mount Gould
+Walla Crag	parentPeak	Bleaberry Fell
+Carl Side	parentPeak	Skiddaw
+Mungrisdale Common	parentPeak	Atkinson Pike
+Latrigg	parentPeak	Skiddaw
+Rannerdale Knotts	parentPeak	Crag Hill
+Aonach Beag	parentPeak	Ben Nevis
+Ben Loyal	parentPeak	Ben Hope
+Sgùrr Dhòmhnuill	parentPeak	Carn Eige
+Base Brown	parentPeak	Green Gable
+Low Fell	parentPeak	High Stile
+Angletarn Pikes	parentPeak	Rest Dodd
+Sgùrr na Cìche	parentPeak	Carn Eige
+Mount Otofuke	parentPeak	Mount Ishikari
+Mount Yuniishikari	parentPeak	Mount Otofuke
+Meall a' Bhùiridh	parentPeak	Ben Lawers
+Piz Platta	parentPeak	Piz Kesch
+Beinn Dearg	parentPeak	Sgurr Mor
+Mount Pippu	parentPeak	Mount Hokuchin
+Mount Keigetsu	parentPeak	Mount Kuro
+Rombalds Moor	parentPeak	Thorpe Fell Top
+Dents du Midi	parentPeak	Mont Blanc
+Mynydd Carningli	parentPeak	Foel Cwmcerwyn
+Uri-Rotstock	parentPeak	Brunnistock
+Mount Pico	parentPeak	None - HP Pico
+Seathwaite Fell	parentPeak	Great End
+Sergeant Man	parentPeak	High Raise
+Quandary Peak	parentPeak	Mount Lincoln
+Drygarn Fawr	parentPeak	Plynlimon
+Brandy Hill, Wales	parentPeak	Foel Cwmcerwyn
+Black Down, Somerset	parentPeak	Dunkery Beacon
+Craig Cwm Silyn	parentPeak	Moel Hebog
+Barrow	parentPeak	Outerside
+Helm Crag	parentPeak	High Raise
+Grange Fell	parentPeak	Great Crag
+Rheinwaldhorn	parentPeak	Piz Kesch
+Ard Crags	parentPeak	Grasmoor
+Carnedd Gwenllian	parentPeak	Foel-fras
+Foel Grach	parentPeak	Carnedd Llewelyn
+Great Crag	parentPeak	Ullscarf
+Grisedale Pike	parentPeak	Grasmoor
+Challenger Point	parentPeak	Kit Carson Mountain
+Mount Williamson	parentPeak	Mount Whitney
+North Palisade	parentPeak	Mount Whitney
+Mount Baden-Powell	parentPeak	Pine Mountain
+Eagle Crag	parentPeak	Sergeant's Crag
+Dodd	parentPeak	Skiddaw
+Red Kaweah	parentPeak	Mount Kaweah
+Black Kaweah	parentPeak	Red Kaweah
+Mount Alverstone	parentPeak	Mount Hubbard
+Mount Sill	parentPeak	North Palisade
+Kaweah Queen	parentPeak	Red Kaweah
+Clisham	parentPeak	none - HP Lewis and Harris
+Nine Standards Rigg	parentPeak	Great Shunner Fell
+Outerside	parentPeak	Crag Hill
+Kintla Peak	parentPeak	Mount Cleveland
+Ladhar Bheinn	parentPeak	Carn Eige
+Bleaberry Fell	parentPeak	High Seat
+Sunshine Peak	parentPeak	Redcloud Peak
+El Diente Peak	parentPeak	Mount Wilson
+Rhobell Fawr	parentPeak	Arenig Fawr
+Hawk Mountain	parentPeak	The Pinnacle
+Carn Fadryn	parentPeak	Yr Eifl
+Kisdon	parentPeak	Great Shunner Fell
+Lovely Seat	parentPeak	Great Shunner Fell
+Dow Crag	parentPeak	The Old Man of Coniston
+Titlis	parentPeak	Dammastock
+Ben Alder	parentPeak	Ben Nevis
+Green Hill	parentPeak	Great Coum
+Great Knoutberry Hill	parentPeak	Great Whernside
+Mount Gould	parentPeak	Mount Siyeh
+Wild Boar Fell	parentPeak	Cross Fell
+Rogan's Seat	parentPeak	Great Shunner Fell
+Mount Langley	parentPeak	Mount Whitney
+Mount Russell	parentPeak	Mount Whitney
+Split Mountain	parentPeak	North Palisade
+Mount Tyndall	parentPeak	Mount Williamson
+Middle Palisade	parentPeak	North Palisade
+Thunderbolt Peak	parentPeak	North Palisade
+Ben Venue	parentPeak	Ben Lomond
+Yoke	parentPeak	Ill Bell
+Bietschhorn	parentPeak	Finsteraarhorn
+Shipman Knotts	parentPeak	Kentmere Pike
+Gray Crag	parentPeak	Thornthwaite Crag
+Mount Arthur Meighen	parentPeak	Mount Stanley Baldwin
+Presanella	parentPeak	Piz Bernina
+Gowbarrow Fell	parentPeak	Little Mell Fell
+Lägern	parentPeak	Tweralpspitz
+Glaramara	parentPeak	Scafell Pike
+Mount Conness	parentPeak	Mount Dana
+Sgorr Ruadh	parentPeak	Sgurr Mor
+Scar Crags	parentPeak	Crag Hill
+Low Rigg	parentPeak	High Rigg
+Fan y Big	parentPeak	Waun Rydd
+Whiteless Pike	parentPeak	Crag Hill
+Wandope	parentPeak	Crag Hill
+Whiteside	parentPeak	Hopegill Head
+Hopegill Head	parentPeak	Grisedale Pike
+Illgill Head	parentPeak	Scafell Pike
+Tighvein	parentPeak	A' Chruach
+Slioch	parentPeak	Sgurr Mor
+Scoat Fell	parentPeak	Pillar
+Lingmell	parentPeak	Scafell Pike
+Green Gable	parentPeak	Great Gable
+Gaor Bheinn	parentPeak	Carn Eige
+Ben Vane	parentPeak	Beinn Ime
+Allalinhorn	parentPeak	Dom
+Beinn Dorain	parentPeak	Beinn a' Chreachain
+Hogback Mountain	parentPeak	Catoctin Mountain
+Knockmealdown	parentPeak	Galteemore
+Maiden Moor	parentPeak	High Spy north top
+Long Knoll	parentPeak	Beacon Batch
+Sgùrr na Sgine	parentPeak	The Saddle
+Beinn a' Ghlò	parentPeak	Lochnagar
+Lyskamm	parentPeak	Monte Rosa
+Binnein an Fhidhleir	parentPeak	Beinn Ime
+Haycock	parentPeak	Pillar
+High Spy	parentPeak	Dale Head
+Little Bear Peak	parentPeak	Blanca Peak
+Mount Belford	parentPeak	Mount Harvard
+Ellingwood Point	parentPeak	Blanca Peak
+An Gearanach	parentPeak	Am Bodach
+Ullscarf	parentPeak	High Raise
+Mount Bross	parentPeak	Mount Cameron, Colorado
+Mount Democrat	parentPeak	Mount Cameron, Colorado
+High Tove	parentPeak	High Seat
+Armboth Fell	parentPeak	High Seat
+Waddon Hill	parentPeak	Lewesdon Hill
+Sergeant's Crag	parentPeak	High Raise
+Margery Hill	parentPeak	Kinder Scout
+Grey Knotts	parentPeak	Brandreth
+Raven Crag	parentPeak	High Seat
+Sgùrr a' Mhàim	parentPeak	Binnein Mòr
+Dove Crag	parentPeak	Hart Crag
+Steel Fell	parentPeak	High Raise
+Tarn Crag	parentPeak	Codale Head
+Low Pike	parentPeak	Dove Crag
+High Pike	parentPeak	Dove Crag
+East Spanish Peak	parentPeak	West Spanish Peak
+Seat Sandal	parentPeak	Fairfield
+Heron Pike	parentPeak	Great Rigg
+Blea Rigg	parentPeak	Harrison Stickle
+Little Hart Crag	parentPeak	Dove Crag
+Mount Dalrymple	parentPeak	Mount William
+Calf Crag	parentPeak	High Raise
+Gibson Knott	parentPeak	Calf Crag
+Silver How	parentPeak	Harrison Stickle
+Bakestall	parentPeak	Skiddaw
+Carrock Fell	parentPeak	Knott
+High Pike	parentPeak	Knott
+Longlands Fell	parentPeak	Lowthwaite Fell
+Arthur's Pike	parentPeak	Loadpot Hill
+Great Sca Fell	parentPeak	Knott
+Great Cockup	parentPeak	Knott
+Mount Lyell	parentPeak	Mount Forbes
+Meal Fell	parentPeak	Knott
+Bynack More	parentPeak	Ben Macdui
+Bonscale Pike	parentPeak	Loadpot Hill
+Loadpot Hill	parentPeak	High Raise
+Hoove	parentPeak	Rogan's Seat
+Wether Hill	parentPeak	High Raise
+Steel Knotts	parentPeak	High Raise
+Grey Friar	parentPeak	Swirl How
+High Raise	parentPeak	High Street
+Rampsgill Head	parentPeak	High Raise
+Boott Spur	parentPeak	Mount Washington
+The Knott	parentPeak	Rampsgill Head
+Allen Crags	parentPeak	Scafell Pike
+Columbia Point	parentPeak	Kit Carson Mountain
+Black Chew Head	parentPeak	Black Hill
+Am Bodach	parentPeak	Sgurr a' Mhàim
+Muncaster Fell	parentPeak	Illgill Head
+Bindon Hill	parentPeak	Lewesdon Hill
+Great Rigg	parentPeak	Fairfield
+Brock Crags	parentPeak	Rest Dodd
+Beda Fell	parentPeak	Angletarn Pikes
+Jakobshorn	parentPeak	Piz Vadret
+Ullock Pike	parentPeak	Long Side
+Kidsty Pike	parentPeak	Rampsgill Head
+Thornthwaite Crag	parentPeak	High Street
+Wansfell	parentPeak	Caudale Moor
+Hartsop Dodd	parentPeak	Stony Cove Pike
+Sour Howes	parentPeak	Sallows
+La Dôle	parentPeak	Crêt de la Neige
+Froswick	parentPeak	Ill Bell
+Ill Bell	parentPeak	High Street
+Beinn an Dòthaidh	parentPeak	Beinn a' Chreachain
+Beinn Tarsuinn	parentPeak	Caisteal Abhail
+Moelfre	parentPeak	Y Llethr
+Piz Kesch	parentPeak	Mont Blanc
+Stob Bàn	parentPeak	Sgurr a' Mhàim
+Schreckhorn	parentPeak	Finsteraarhorn
+Great Borne	parentPeak	High Stile
+Mardale Ill Bell	parentPeak	High Street
+Kentmere Pike	parentPeak	Harter Fell
+Lliwedd Bach	parentPeak	Y Lliwedd
+Càrn Dearg, Monadh Liath	parentPeak	Creag Meagaidh
+Sallows	parentPeak	Ill Bell
+Birks	parentPeak	St Sunday Crag
+Selside Pike	parentPeak	Branstree
+Tarn Crag	parentPeak	High Street
+Binnein Mòr	parentPeak	Ben Nevis
+Grey Crag	parentPeak	Tarn Crag
+Sail	parentPeak	Crag Hill
+Sale Fell	parentPeak	Lord's Seat
+Whin Rigg	parentPeak	Illgill Head
+Sgùrr na Lapaich	parentPeak	Càrn Eige
+Brae Fell	parentPeak	Knott
+Blüemlisalp	parentPeak	Finsteraarhorn
+Ben More Assynt	parentPeak	Sgurr Mor
+Rosthwaite Fell	parentPeak	Dovenest Top
+A' Chràlaig	parentPeak	Carn Eige
+Lingmoor Fell	parentPeak	Scafell Pike
+Broom Fell	parentPeak	Lord's Seat
+Whinlatter	parentPeak	Lord's Seat
+Watson's Dodd	parentPeak	Great Dodd
+Long Side	parentPeak	Skiddaw
+Slight Side	parentPeak	Sca Fell
+Hart Side	parentPeak	Green Side
+Knott Rigg	parentPeak	Ard Crags
+Hart Crag	parentPeak	Fairfield
+Beinn a' Chaorainn	parentPeak	Beinn a' Bhuird
+Birkhouse Moor	parentPeak	Helvellyn
+Sheffield Pike	parentPeak	Great Dodd
+Norman's Law	parentPeak	Innerdouny Hill
+Middle Dodd	parentPeak	Red Screes
+Wetherlam	parentPeak	Coniston Old Man
+Hartsop above How	parentPeak	Hart Crag
+Schesaplana	parentPeak	Piz Kesch
+Canisp	parentPeak	Ben More Assynt
+High Hartsop Dodd	parentPeak	Little Hart Crag
+Derry Cairngorm	parentPeak	Ben Macdui
+Baugh Fell	parentPeak	Wild Boar Fell
+Mullach nan Coirean	parentPeak	Stob Bàn
+Stone Arthur	parentPeak	Great Rigg
+Nab Scar	parentPeak	Heron Pike
+Glenridding Dodd	parentPeak	Sheffield Pike
+Arnison Crag	parentPeak	Birks
+Ling Fell	parentPeak	Lord's Seat
+Rossett Pike	parentPeak	Bowfell
+Clints Crags	parentPeak	Binsey
+Fellbarrow	parentPeak	Low Fell
+Burnbank Fell	parentPeak	Blake Fell
+Sgùrr Fhuaran	parentPeak	A' Chralaig
+Graig Syfyrddin	parentPeak	Ysgyryd Fawr
+Stob Coire a' Chàirn	parentPeak	An Gearanach
+Banner Peak	parentPeak	Mount Ritter
+Mount Siyeh	parentPeak	Mount Cleveland
+Ditchling Beacon	parentPeak	Leith Hill
+Needle Peak	parentPeak	The Solitario
+Jägerhorn	parentPeak	Monte Rosa
+Similaun	parentPeak	Hintere Schwärze
+Càrn a' Mhàim	parentPeak	Ben Macdui
+Niederhorn	parentPeak	Burgfeldstand
+Stùc a' Chroin	parentPeak	Ben Vorlich
+Tal y Fan	parentPeak	Carnedd Llewelyn
+Lauteraarhorn	parentPeak	Schreckhorn
+Nadelhorn	parentPeak	Dom
+Lenzspitze	parentPeak	Nadelhorn
+Ober Gabelhorn	parentPeak	Weisshorn
+Stecknadelhorn	parentPeak	Nadelhorn
+Hohberghorn	parentPeak	Nadelhorn
+Piz Palü	parentPeak	Piz Zupò
+Strahlhorn	parentPeak	Rimpfischhorn
+Black Fell	parentPeak	Top o'Selside
+Zinalrothorn	parentPeak	Weisshorn
+Mòruisg	parentPeak	Sgurr a' Choire Ghlais
+Brim Fell	parentPeak	The Old Man of Coniston
+Great Carrs	parentPeak	Swirl How
+Chasseral	parentPeak	Crêt de la Neige
+Ciste Dhubh	parentPeak	Sgurr Fhuaran
+Green Crag	parentPeak	Harter Fell
+West Lomond	parentPeak	Ben Cleuch
+Gun	parentPeak	Shining Tor
+Beinn Fhada	parentPeak	Carn Eige
+Great Calva	parentPeak	Knott
+Grike	parentPeak	Crag Fell
+Piz Badile	parentPeak	Piz Cengalo
+Stob Bàn	parentPeak	Stob Choire Claurigh
+Crag Fell	parentPeak	Pillar
+Gavel Fell	parentPeak	Blake Fell
+Brandreth	parentPeak	Great Gable
+Caw Fell	parentPeak	Haycock
+Lord's Seat	parentPeak	Grasmoor
+Bowscale Fell	parentPeak	Blencathra
+Bannerdale Crags	parentPeak	Bowscale Fell
+Lonscale Fell	parentPeak	Skiddaw Little Man
+Souther Fell	parentPeak	Blencathra
+Castor	parentPeak	Dufourspitze
+Sgùrr a' Choire Ghlais	parentPeak	Sgurr na Lapaich
+Dent d'Hérens	parentPeak	Matterhorn
+Rimpfischhorn	parentPeak	Dom
+Täschhorn	parentPeak	Dom
+Alphubel	parentPeak	Dom
+Stob Coire Easain	parentPeak	Ben Nevis
+Mount Barnard	parentPeak	Mount Tyndall
+Rochers de Naye	parentPeak	Tour d'Aï
+Monte Disgrazia	parentPeak	Piz Bernina
+Boulsworth Hill	parentPeak	Kinder Scout
+Piz Roseg	parentPeak	Piz Bernina
+Piz Zupò	parentPeak	Piz Bernina
+Piz Cengalo	parentPeak	Monte Disgrazia
+Beinn Dubhchraig	parentPeak	Ben Oss
+Cefn yr Ogof	parentPeak	Mwdwl-eithin
+Piz Scerscen	parentPeak	Piz Bernina
+Piz Morteratsch	parentPeak	Piz Bernina
+Wildstrubel	parentPeak	Wildhorn
+Storheia	parentPeak	Vassfjellet
+Gråkallen	parentPeak	Storheia
+Slievemore	parentPeak	Croaghaun
+Bishorn	parentPeak	Weisshorn
+Botley Hill	parentPeak	Leith Hill
+Dronningkrona	parentPeak	Vinnufjellet
+Kongskrona	parentPeak	Vinnufjellet
+Pollux	parentPeak	Dufourspitze
+Gairich	parentPeak	Sgurr na Ciche
+Aran Benllyn	parentPeak	Aran Fawddwy
+Waun Camddwr	parentPeak	Aran Fawddwy
+Erw y Ddafad-ddu	parentPeak	Aran Fawddwy
+Foel Hafod-fynydd	parentPeak	Aran Fawddwy
+Llechog	parentPeak	Snowdon
+Gwaun y Llwyni	parentPeak	Aran Fawddwy
+Gwaun Lydan	parentPeak	Aran Fawddwy
+Foel Meirch	parentPeak	Carnedd Dafydd
+Corn Du	parentPeak	Pen y Fan
+Y Garn	parentPeak	Pen Pumlumon Fawr
+Pumlumon Fach	parentPeak	Pen Pumlumon Fawr
+Pen Pumlumon Arwystli	parentPeak	Pen Pumlumon Fawr
+Pen Pumlumon Llygad-bychan	parentPeak	Pen Pumlumon Fawr
+Crib-y-rhiw	parentPeak	Y Llethr
+Foel Penolau	parentPeak	Moel Ysgyfarnogod
+Mynydd Moel	parentPeak	Cadair Idris
+Craig Cwm Amarch	parentPeak	Cadair Idris
+Gau Graig	parentPeak	Cadair Idris
+Tyrrau Mawr	parentPeak	Cadair Idris
+Cyfrwy	parentPeak	Cadair Idris
+Gorllwyn	parentPeak	Drygarn Fawr
+Pen y Gadair Fawr	parentPeak	Waun Fach
+Bache Hill	parentPeak	Rhos Fawr
+Black Mixen	parentPeak	Rhos Fawr
+Black Fell	parentPeak	Cross Fell
+Clouds Rest	parentPeak	Tresidder Peak
+Gornergrat	parentPeak	Monte Rosa
+Aiguille d'Argentière	parentPeak	Grandes Jorasses
+Piz Chavalatsch	parentPeak	Ortler
+Stanserhorn	parentPeak	Schluchberg
+Craiglwyn	parentPeak	Creigiau Gleision
+Craig Eigiau	parentPeak	Carnedd Llewelyn
+Llwytmor	parentPeak	Carnedd Llewelyn
+Drosgl	parentPeak	Foel-fras
+Snowmass Peak	parentPeak	Hagerman Peak
+Fletschhorn	parentPeak	Lagginhorn
+Iron Crag	parentPeak	Haycock
+Dunantspitze	parentPeak	Monte Rosa
+Parrotspitze	parentPeak	Monte Rosa
+Signalkuppe	parentPeak	Dufourspitze of Monte Rosa
+Grenzgipfel	parentPeak	Dufourspitze
+Zumsteinspitze	parentPeak	Dufourspitze of Monte Rosa
+Monte Cistella	parentPeak	Pizzo Diei
+Bellavista	parentPeak	Piz Argient
+Peel Fell	parentPeak	The Cheviot
+Sighty Crag	parentPeak	The Cheviot
+Shillhope Law	parentPeak	The Cheviot
+Ros Hill	parentPeak	The Cheviot
+An Caisteal	parentPeak	Cruach Ardrain
+Top o'Selside	parentPeak	Old Man of Coniston
+Hail Storm Hill	parentPeak	Boulsworth Hill
+Lambrigg Fell	parentPeak	Grayrigg Forest
+Calf Top	parentPeak	Whernside
+Creigiau Gleision	parentPeak	Carnedd Llewelyn
+Longridge Fell	parentPeak	Ward's Stone
+Beinn Achaladair	parentPeak	Beinn a' Chreachain
+Sròn a' Choire Ghairbh	parentPeak	Sgurr na Ciche
+Monte Leone	parentPeak	Dammastock
+Pic dels Aspres	parentPeak	Pic del Port Vell
+Furnace Mountain	parentPeak	Catoctin Mountain
+Cìr Mhòr	parentPeak	Caisteal Abhail
+Meall na Teanga	parentPeak	Sron a' Choire Ghairbh
+Grand Cornier	parentPeak	Dent Blanche
+Plover Hill	parentPeak	Pen-y-ghent
+Cruach Ardrain	parentPeak	Ben More
+Besso	parentPeak	Weisshorn
+Mont Collon	parentPeak	L'Evêque
+Mont Blanc de Cheilon	parentPeak	La Ruinette
+Rushup Edge	parentPeak	Kinder Scout
+Mount Harwood	parentPeak	Mount San Antonio
+Beinn Chùirn	parentPeak	Ben Lui
+Mount Agassiz	parentPeak	North Palisade
+Les Droites	parentPeak	Aiguille Verte
+Lagginhorn	parentPeak	Weissmies
+Pigne d'Arolla	parentPeak	La Ruinette
+Telegraph Peak	parentPeak	Mount San Antonio
+Fauscoum	parentPeak	Knockmealdown
+Piz da la Margna	parentPeak	Piz Bernina
+Dammastock	parentPeak	Finsteraarhorn
+Lavender Peak	parentPeak	Hesperus Mountain
+Sgùrr Eilde Mòr	parentPeak	Binnein Mòr
+Binnein Beag	parentPeak	Binnein Mòr
+Ben Chonzie	parentPeak	Ben More
+Ben Klibreck	parentPeak	Ben More Assynt
+Ben Oss	parentPeak	Ben Lui
+Fionn Bheinn	parentPeak	Sgurr Mor
+Gleouraich	parentPeak	A' Chralaig
+Mount Jackson	parentPeak	Mount Cleveland
+Castell y Gwynt	parentPeak	Glyder Fach
+Rising Wolf Mountain	parentPeak	Blackfoot Mountain
+Gragareth	parentPeak	Great Coum
+Mount Hoffmann	parentPeak	Cathedral Peak
+Piz Lunghin	parentPeak	Piz Lagrev
+Creise	parentPeak	Meall a' Bhuiridh
+Torre	parentPeak	Pico Almanzor
+Pegwn Mawr	parentPeak	Plynlimon
+Noyna Hill	parentPeak	Boulsworth Hill
+Weets Hill	parentPeak	Pendle Hill
+Pico da Esperança	parentPeak	None - HP São Jorge
+Mount Winchell	parentPeak	Mount Agassiz
+Beinn Sgritheall	parentPeak	Sgurr a' Mhaoraich
+Norman Clyde Peak	parentPeak	Middle Palisade
+Mount Le Conte	parentPeak	Mount Whitney
+Mont Dolent	parentPeak	Aiguille Verte
+Allen Mountain	parentPeak	Mount Skylight
+Cribyn	parentPeak	Pen y Fan
+Galenstock	parentPeak	Dammastock
+Balmhorn	parentPeak	Finsteraarhorn
+Druesberg	parentPeak	Mutteristock
+Meall Glas	parentPeak	Beinn Heasgarnich
+Grande Casse	parentPeak	Gran Paradiso
+Pico 31 de Março	parentPeak	Pico da Neblina
+Sgùrr a' Mhaoraich	parentPeak	Gleouraich
+Hugh Seat	parentPeak	Great Shunner Fell
+Swarth Fell	parentPeak	Wild Boar Fell
+Càrn Mairg	parentPeak	Schiehallion
+Càrn Gorm	parentPeak	Carn Mairg
+Gregory Chapel	parentPeak	Great Shunner Fell
+Weisshorn	parentPeak	Monte Rosa
+Wildhorn	parentPeak	Finsteraarhorn
+Gross Windgällen	parentPeak	Tödi
+Stob a' Choire Mheadhoin	parentPeak	Stob Coire Easain
+Plateau Mountain	parentPeak	Hunter Mountain
+Mount Starr King	parentPeak	Mount Clark
+Rouen Mountains	parentPeak	Mount Paris
+Sgòr Gaoith	parentPeak	Braeriach
+Beinn a' Bhùird	parentPeak	Ben Macdui
+Turret Peak	parentPeak	Pigeon Peak
+Niesen	parentPeak	Albristhorn
+Wills Neck	parentPeak	Dunkery Beacon
+Creag Ghlas Laggan	parentPeak	Caisteal Abhail
+Cefn yr Ystrad	parentPeak	Pen y Fan
+Piz Corvatsch	parentPeak	Piz Bernina
+Mount Pelion East	parentPeak	Mount Ossa
+Piz Tschierva	parentPeak	Finsteraarhorn
+Crast' Agüzza	parentPeak	Piz Zupò
+Piz Argient	parentPeak	Piz Zupò
+Moel yr Ogof	parentPeak	Moel Hebog
+Moel Lefn	parentPeak	Moel Hebog
+Y Foel Goch	parentPeak	Glyder Fawr
+Gallt yr Ogof	parentPeak	Glyder Fawr
+Brace Mountain	parentPeak	Mount Frissell
+Clach Glas	parentPeak	Blaven
+Rotstöckli	parentPeak	Titlis
+Mount Kamuiekuuchikaushi	parentPeak	Mount Poroshiri
+Mount Pankenūshi	parentPeak	Mount Memuro
+Staccato Peaks	parentPeak	Hageman Peak
+Walton Mountains	parentPeak	Mount McArthur
+Vanil Noir	parentPeak	Mont Blanc
+Packsaddle Mountain	parentPeak	Enchanted Rock
+Mount Meeker	parentPeak	Longs Peak
+Diavolezza	parentPeak	Munt Pers
+Bettmerhorn	parentPeak	Eggishorn
+Weissfluhjoch	parentPeak	Weissfluh
+Hintere Schwärze	parentPeak	Weißkugel
+Mount Pirigai	parentPeak	Mount Nakano
+Nakano Summit	parentPeak	Mount Idonmappu
+Glasgwm	parentPeak	Aran Fawddwy
+Foel-goch	parentPeak	Y Garn
+Carnedd y Filiast	parentPeak	Arenig Fawr
+Ebnefluh	parentPeak	Gletscherhorn
+Witenwasserenstock	parentPeak	Pizzo Rotondo
+Monte Forcola	parentPeak	Piz Umbrail
+Combin de Valsorey	parentPeak	Grand Combin
+Combin de la Tsessette	parentPeak	Grand Combin
+Western Lyskamm	parentPeak	Liskamm
+Hinter Fiescherhorn	parentPeak	Gross Fiescherhorn
+Central Breithorn	parentPeak	Breithorn
+Gendarm	parentPeak	Eastern Breithorn
+Eastern Breithorn	parentPeak	Breithorn
+Roccia Nera	parentPeak	Eastern Breithorn
+Waun Rydd	parentPeak	Pen y Fan
+Fan Fawr	parentPeak	Pen y Fan
+Pen Cerrig-calch	parentPeak	Waun Fach
+Dürrenhorn	parentPeak	Dom
+Nesthorn	parentPeak	Bietschhorn
+Balfrin	parentPeak	Dom
+Barrhorn	parentPeak	Weisshorn
+Mont Vélan	parentPeak	Grand Combin
+Gross Wannenhorn	parentPeak	Finsteraarhorn
+Gross Spannort	parentPeak	Titlis
+Sustenhorn	parentPeak	Dammastock
+Pizzo Campo Tencia	parentPeak	Basòdino
+Bifertenstock	parentPeak	Tödi
+Ringelspitz	parentPeak	Tödi
+Bös Fulen	parentPeak	Glärnisch
+Muttler	parentPeak	Piz Linard
+Basòdino	parentPeak	Dammastock
+Clariden	parentPeak	Schärhorn
+Oberalpstock	parentPeak	Tödi
+Aiguilles Rouges d'Arolla	parentPeak	Monte Rosa
+Petit Combin	parentPeak	Combin de Corbassière
+Dent de Morcles	parentPeak	Grand Muveran
+Mont Fort	parentPeak	Monte Rosa
+Hockenhorn	parentPeak	Finsteraarhorn
+Helsenhorn	parentPeak	Monte Leone
+Mettelhorn	parentPeak	Monte Rosa
+Grand Muveran	parentPeak	Finsteraarhorn
+Stockhorn	parentPeak	Monte Rosa
+Tournelon Blanc	parentPeak	Grand Combin
+Stockhorn	parentPeak	Schafberg
+Gspaltenhorn	parentPeak	Blüemlisalp
+Doldenhorn	parentPeak	Blüemlisalp
+Altels	parentPeak	Balmhorn
+Oeschinenhorn	parentPeak	Blüemlisalp
+Piz Ela	parentPeak	Piz Calderas
+Piz Terri	parentPeak	Rheinwaldhorn
+Piz Giuv	parentPeak	Tödi
+Piz Albris	parentPeak	Piz Languard
+Schwarzhorn	parentPeak	Piz Kesch
+Schärhorn	parentPeak	Tödi
+Krönten	parentPeak	Gross Spannort
+Gwächtenhorn	parentPeak	Dammastock
+Gross Ruchen	parentPeak	Gross Windgällen
+Pizol	parentPeak	Tödi
+Hausstock	parentPeak	Tödi
+Arpelistock	parentPeak	Geltenhorn
+Fründenhorn	parentPeak	Blüemlisalp
+Hangendgletscherhorn	parentPeak	Finsteraarhorn
+Blanc de Moming	parentPeak	Weisshorn
+Hillehorn	parentPeak	Bortelhorn
+Stellihorn	parentPeak	Weissmies
+Jegihorn	parentPeak	Weissmies
+Blinnenhorn	parentPeak	Dammastock
+Silvrettahorn	parentPeak	Piz Buin
+Aiguille de la Tsa	parentPeak	Dent de Perroc
+Steghorn	parentPeak	Wildstrubel
+Petit Mont Collon	parentPeak	L'Evêque
+Cornettes de Bise	parentPeak	Mont Blanc
+Rosablanche	parentPeak	La Ruinette
+Seetalhorn	parentPeak	Platthorn
+Mont Ruan	parentPeak	Tour Sallière
+Eggishorn	parentPeak	Finsteraarhorn
+Pizzo Rotondo	parentPeak	Blinnenhorn
+Le Pleureur	parentPeak	La Ruinette
+La Ruinette	parentPeak	Monte Rosa
+Becs de Bosson	parentPeak	Monte Rosa
+Dent de Perroc	parentPeak	Monte Rosa
+Sasseneire	parentPeak	Monte Rosa
+Garde de Bordon	parentPeak	Monte Rosa
+Oberrothorn	parentPeak	Monte Rosa
+Combin de Corbassière	parentPeak	Grand Combin
+Oberaarhorn	parentPeak	Finsteraarhorn
+Ewigschneehorn	parentPeak	Mittelhorn
+Bächlistock	parentPeak	Finsteraarhorn
+Hienderstock	parentPeak	Finsteraarhorn
+Bärglistock	parentPeak	Mittelhorn
+Piz Nair	parentPeak	Piz Ot
+Cùl Mòr	parentPeak	Beinn Dearg
+Garbh Bheinn	parentPeak	Sgurr Dhomhnuill
+Beinn Mhòr	parentPeak	Beinn Ime
+Creach Bheinn	parentPeak	Sgurr Dhomhnuill
+Fountains Fell	parentPeak	Pen-y-ghent
+Beinn a' Chreachain	parentPeak	Schiehallion
+Beinn Heasgarnich	parentPeak	Ben Lawers
+Hoye-Crest	parentPeak	Backbone Mountain
+Beinn Bhuidhe	parentPeak	Ben Lui
+Beinn Chabhair	parentPeak	An Caisteal
+Sgùrr Ghiubhsachain	parentPeak	Sgùrr Dhòmhnuill
+Twmpa	parentPeak	Waun Fach
+Petit Vélan	parentPeak	Mont Vélan
+Mont de la Gouille	parentPeak	Mont Vélan
+Grand Tavé	parentPeak	Tavé des Chasseurs
+Combin de Boveire	parentPeak	Grande Aiguille
+Tour de Boussine	parentPeak	Grand Combin
+Mont Rogneux	parentPeak	Grand Combin
+Pointe d'Otemma	parentPeak	Pigne d'Arolla
+La Luette	parentPeak	Le Pleureur
+Le Parrain	parentPeak	La Ruinette
+Bec des Rosses	parentPeak	Mont Fort
+Pointe de Vouasson	parentPeak	Aiguilles Rouges d'Arolla
+L'Evêque	parentPeak	Monte Rosa
+Grande Dent de Veisivi	parentPeak	Dent de Perroc
+Pointe du Tsaté	parentPeak	Sasseneire
+Tsa de l'Ano	parentPeak	Monte Rosa
+Pointe de Bricola	parentPeak	Grand Cornier
+Pointe de Zinal	parentPeak	Dent Blanche
+Trifthorn	parentPeak	Zinalrothorn
+Schalihorn	parentPeak	Weisshorn
+Unter Gabelhorn	parentPeak	Weisshorn
+Pointe d'Ar Pitetta	parentPeak	Weisshorn
+Le Boudri	parentPeak	Hirsihorn
+Tête de Milon	parentPeak	Weisshorn
+Brunegghorn	parentPeak	Weisshorn
+Schwarzhorn	parentPeak	Monte Rosa
+Färichhorn	parentPeak	Monte Rosa
+Mattwaldhorn	parentPeak	Weissmies
+Böshorn	parentPeak	Weissmies
+Oldenhorn	parentPeak	Diablerets
+Tällihorn	parentPeak	Weissmies
+Rinderhorn	parentPeak	Balmhorn
+Majinghorn	parentPeak	Balmhorn
+Wildi Frau	parentPeak	Blüemlisalp
+Ferdenrothorn	parentPeak	Balmhorn
+Sackhorn	parentPeak	Birghorn
+Bütlasse	parentPeak	Gspaltenhorn
+Grosshorn	parentPeak	Jungfrau
+Breithorn	parentPeak	Jungfrau
+Mittaghorn	parentPeak	Gletscherhorn
+Mettenberg	parentPeak	Finsteraarhorn
+Hiendertelltihorn	parentPeak	Bächlistock
+Steinlauihorn	parentPeak	Ritzlihorn
+Dossen	parentPeak	Finsteraarhorn
+Ritzlihorn	parentPeak	Finsteraarhorn
+Wellhorn	parentPeak	Finsteraarhorn
+Löffelhorn	parentPeak	Finsteraarhorn
+Scheuchzerhorn	parentPeak	Finsteraarhorn
+Oberaarrothorn	parentPeak	Galmihorn
+Agassizhorn	parentPeak	Finsteraarhorn
+Setzehorn	parentPeak	Finsteraarhorn
+Olmenhorn	parentPeak	Aletschhorn
+Dreieckhorn	parentPeak	Aletschhorn
+Wasenhorn	parentPeak	Finsteraarhorn
+Geisshorn	parentPeak	Aletschhorn
+Gross Fusshorn	parentPeak	Aletschhorn
+Schinhorn	parentPeak	Aletschhorn
+Sattelhorn	parentPeak	Aletschhorn
+Breithorn	parentPeak	Nesthorn
+Tieregghorn	parentPeak	Finsteraarhorn
+Wiwannihorn	parentPeak	Finsteraarhorn
+Wilerhorn	parentPeak	Finsteraarhorn
+Hogleifa	parentPeak	Wilerhorn
+Lorenzhorn	parentPeak	Fanellhorn
+Chilchalphorn	parentPeak	Fanellhorn
+Höhberghorn	parentPeak	Rheinwaldhorn
+Cima Rossa	parentPeak	Vogelberg
+Zapporthorn	parentPeak	Vogelberg
+Cima dei Cogn	parentPeak	Rheinwaldhorn
+Vogelberg	parentPeak	Rheinwaldhorn
+Furggeltihorn	parentPeak	Rheinwaldhorn
+Scopi	parentPeak	Piz Medel
+Zervreilahorn	parentPeak	Rheinwaldhorn
+Plattenberg	parentPeak	Vernokhörner
+Puntone dei Fraciòn	parentPeak	Vogelberg
+Piz Scharboda	parentPeak	Piz Terri
+Piz Vial	parentPeak	Piz Medel
+Piz Blas	parentPeak	Piz Gannaretsch
+Pizzo di Cassimoi	parentPeak	Rheinwaldhorn
+Chüebodenhorn	parentPeak	Pizzo Rotondo
+Pizzo Gallina	parentPeak	Pizzo Rotondo
+Leckihorn	parentPeak	Gross Muttenhorn
+Piz Medel	parentPeak	Rheinwaldhorn
+Piz Rondadura	parentPeak	Piz Blas
+Piz Gannaretsch	parentPeak	Finsteraarhorn
+Gemsstock	parentPeak	Chastelhorn
+Pizzo Centrale	parentPeak	Piz Gannaretsch
+Piz Ravetsch	parentPeak	Piz Blas
+Hübschhorn	parentPeak	Monte Leone
+Fanellhorn	parentPeak	Rheinwaldhorn
+Breithorn	parentPeak	Monte Leone
+Diechterhorn	parentPeak	Dammastock
+Gross Furkahorn	parentPeak	Dammastock
+Hinter Tierberg	parentPeak	Dammastock
+Fleckistock	parentPeak	Dammastock
+Grand Golliat	parentPeak	Grande Rochère
+Mont Avril	parentPeak	Grand Combin
+Grande Tête de By	parentPeak	Grand Combin
+Aouille Tseuque	parentPeak	L'Evêque
+Bec d'Epicoune	parentPeak	Aouille Tseuque
+La Singla	parentPeak	L'Evêque
+Tête Blanche	parentPeak	Dent d'Hérens
+Theodulhorn	parentPeak	Furgggrat
+Tête de Valpelline	parentPeak	Dent d'Hérens
+Cima di Jazzi	parentPeak	Monte Rosa
+Spechhorn	parentPeak	Weissmies
+Jazzihorn	parentPeak	Stellihorn
+Almagellhorn	parentPeak	Sonnighorn
+Sonnighorn	parentPeak	Weissmies
+Latelhorn	parentPeak	Weissmies
+Piz Üertsch	parentPeak	Piz Kesch
+Piz Vadret	parentPeak	Piz Kesch
+Lenzerhorn	parentPeak	Aroser Rothorn
+Älpliseehorn	parentPeak	Aroser Rothorn
+Piz Julier	parentPeak	Piz Calderas
+Wandfluhhorn	parentPeak	Basòdino
+Marchhorn	parentPeak	Basòdino
+Bortelhorn	parentPeak	Helsenhorn
+Hohsandhorn	parentPeak	Turbhorn
+Wasenhorn	parentPeak	Monte Leone
+Portjengrat	parentPeak	Weissmies
+Ofenhorn	parentPeak	Blinnenhorn
+Kastelhorn	parentPeak	Basòdino
+Scherbadung	parentPeak	Monte Leone
+Aroser Weisshorn	parentPeak	Aroser Rothorn
+Parpaner Rothorn	parentPeak	Aroser Rothorn
+Piz Ot	parentPeak	Piz Calderas
+Piz d'Err	parentPeak	Piz Calderas
+Tour Noir	parentPeak	Aiguille d'Argentière
+Grande Fourche	parentPeak	Aiguille du Chardonnet
+Tête de Balme	parentPeak	L'Arolette
+Dents Blanches	parentPeak	Dents du Midi
+Tête du Géant	parentPeak	Pointe de Chésery
+Le Linleu	parentPeak	Cornettes de Bise
+Le Cheval Blanc	parentPeak	Mont Buet
+Le Grammont	parentPeak	Les Jumelles
+Pointe de l'Au	parentPeak	Hauts-Forts
+Pointe de Bellevue	parentPeak	Cornettes de Bise
+Luisin	parentPeak	Dents du Midi
+Tour Sallière	parentPeak	Dents du Midi
+Pointe de Chésery	parentPeak	Hauts-Forts
+Dent du Salantin	parentPeak	Dents du Midi
+Fontanabran	parentPeak	Dents du Midi
+Piz Cazarauls	parentPeak	Heimstock
+Piz Urlaun	parentPeak	Tödi
+Piz Cavardiras	parentPeak	Oberalpstock
+Cavistrau	parentPeak	Tödi
+Selbsanft	parentPeak	Tödi
+Muttenstock	parentPeak	Ruchi
+Le Génépi	parentPeak	Mont Blanc
+Piz Segnas	parentPeak	Ringelspitz
+Bristen	parentPeak	Piz Giuv
+Piz Nair	parentPeak	Piz Giuv
+Witenalpstock	parentPeak	Oberalpstock
+Piz Ault	parentPeak	Oberalpstock
+Ruchi	parentPeak	Hausstock
+Vorab	parentPeak	Piz Segnas
+Piz Sardona	parentPeak	Piz Segnas
+Kärpf	parentPeak	Tödi
+Ortstock	parentPeak	Schächentaler Windgällen
+Wendenhorn	parentPeak	Gross Spannort
+Wendenstöcke	parentPeak	Titlis
+Steinhüshorn	parentPeak	Dammastock
+Hoch Horefellistock	parentPeak	Dammastock
+Winterstock	parentPeak	Dammastock
+Stucklistock	parentPeak	Fleckistock
+Hinterrugg	parentPeak	Gamsberg
+Alvier	parentPeak	Gamsberg
+Altmann	parentPeak	Säntis
+Hoher Kasten	parentPeak	Säntis
+Trugberg	parentPeak	Mönch
+Fiescher Gabelhorn	parentPeak	Gross Wannenhorn
+Güferhorn	parentPeak	Rheinwaldhorn
+Düssi	parentPeak	Schärhorn
+Gummfluh	parentPeak	Le Tarent
+L'Argentine	parentPeak	Finsteraarhorn
+Le Catogne	parentPeak	Mont Blanc
+Moléson	parentPeak	Rochers de Naye
+Hohtälli	parentPeak	Monte Rosa
+Scex Rouge	parentPeak	Diablerets
+Bella Lui	parentPeak	Wildstrubel
+Männliflue	parentPeak	Albristhorn
+Gantrisch	parentPeak	Ochsen
+Faulhorn	parentPeak	Reeti
+Tschuggen	parentPeak	Aroser Weisshorn
+Le Rubli	parentPeak	Gummfluh
+Cristallina	parentPeak	Basòdino
+Cima dell'Uomo	parentPeak	Finsteraarhorn
+Pizzo di Vogorno	parentPeak	Poncione del Vènn
+Gridone	parentPeak	Monte Togano
+Poncione Rosso	parentPeak	Cima di Bri
+Madom Gröss	parentPeak	Finsteraarhorn
+Pizzo Barone	parentPeak	Pizzo Campo Tencia
+Monte Zucchero	parentPeak	Dammastock
+Pizzo Cramalina	parentPeak	Rosso di Ribia
+Pizzo Malora	parentPeak	Basòdino
+Pizzo di Röd	parentPeak	Basòdino
+Poncione di Vespero	parentPeak	Il Madone
+Pizzo del Sole	parentPeak	Piz Gannaretsch
+Cima di Gana Bianca	parentPeak	Rheinwaldhorn
+Pizzo Campolungo	parentPeak	Pizzo Campo Tencia
+Matro	parentPeak	Piz Gannaretsch
+Piz di Strega	parentPeak	Pizzo del Ramulazz
+Pizzo di Claro	parentPeak	Torent Alto
+Torent Alto	parentPeak	Rheinwaldhorn
+Surettahorn	parentPeak	Piz Por
+Piz Timun	parentPeak	Piz Platta
+Piz Bles	parentPeak	Cima da Lägh
+Cima da Lägh	parentPeak	Pizzo Stella
+Pizz Gallagiun	parentPeak	Piz Duan
+Piz Miez	parentPeak	Piz dil Crot
+Tscheischhorn	parentPeak	Gletscherhorn
+Piz Duan	parentPeak	Pizzo Stella
+Piz Piot	parentPeak	Gletscherhorn
+Piz Scalotta	parentPeak	Piz Surparé
+Piz Arblatsch	parentPeak	Piz Forbesch
+Piz Forbesch	parentPeak	Piz Platta
+Piz Martegnas	parentPeak	Piz Curvér
+Piz Grisch	parentPeak	Piz Platta
+Piz Curvér	parentPeak	Piz Grisch
+Piz Grevasalvas	parentPeak	Piz Materdell
+Piz Lagrev	parentPeak	Piz Platta
+Piz Bever	parentPeak	Piz Calderas
+Piz d'Agnel	parentPeak	Tschima da Flix
+Piz Jenatsch	parentPeak	Piz Calderas
+Piz Bial	parentPeak	Piz Calderas
+Piz Bleis Marscha	parentPeak	Piz Calderas
+Corn da Tinizong	parentPeak	Piz Calderas
+Piz Mitgel	parentPeak	Corn da Tinizong
+Piz Val Müra	parentPeak	Piz Kesch
+Piz Forun	parentPeak	Piz Kesch
+Hoch Ducan	parentPeak	Chüealphorn
+Älplihorn	parentPeak	Piz Vadret
+Chüealphorn	parentPeak	Piz Vadret
+Piz Arpschella	parentPeak	Piz Vadret
+Piz Sarsura	parentPeak	Piz Vadret
+Piz dal Ras	parentPeak	Piz Vadret
+Bocktenhorn	parentPeak	Chüealphorn
+Piz Calderas	parentPeak	Piz Kesch
+Tschima da Flix	parentPeak	Piz Picuogl
+Piz Picuogl	parentPeak	Piz Calderas
+Flüela Wisshorn	parentPeak	Piz Linard
+Piz Murtera	parentPeak	Piz Linard
+Plattenhörner	parentPeak	Piz Linard
+Verstanclahorn	parentPeak	Piz Buin
+Piz Fliana	parentPeak	Piz Buin
+Piz Davo Lais	parentPeak	Fluchthorn
+Piz Cotschen	parentPeak	Piz Linard
+Piz Tasna	parentPeak	Fluchthorn
+Piz Minschun	parentPeak	Fluchthorn
+Pischahorn	parentPeak	Gorihorn
+Schildflue	parentPeak	Piz Linard
+Roggenhorn	parentPeak	Piz Linard
+Piz da las Clavigliadas	parentPeak	Piz Cotschen
+Chessler	parentPeak	Leidhorn
+Fil Spadla	parentPeak	Fluchthorn
+Rotbüelspitz	parentPeak	Isentällispitz
+Gross Litzner	parentPeak	Gross Seehorn
+Gross Seehorn	parentPeak	Piz Linard
+Augstenberg	parentPeak	Piz Buin
+Piz Rots	parentPeak	Muttler
+Grübelekopf	parentPeak	Ochsebnekopf
+Paraid Naira	parentPeak	Fluchthorn
+Bürkelkopf	parentPeak	Vesulspitze
+Piz Mundin	parentPeak	Muttler
+Piz Tschütta	parentPeak	Muttler
+Alexandra Peak	parentPeak	Mount Albert Edward
+Cima di Castello	parentPeak	Monte Disgrazia
+Cima della Bondasca	parentPeak	Piz Cengalo
+Monte Sissone	parentPeak	Cima di Rosso
+Cima di Rosso	parentPeak	Cima di Castello
+Monte del Forno	parentPeak	Monte Disgrazia
+Piz Fora	parentPeak	Piz Bernina
+Piz Tremoggia	parentPeak	Piz Bernina
+Piz Varuna	parentPeak	Piz Bernina
+Piz Glüschaint	parentPeak	Piz Bernina
+Corno Campascio	parentPeak	Piz Canfinal
+Piz Cancian	parentPeak	Pizzo Scalino
+Piz Combul	parentPeak	Pizzo Scalino
+Piz Trevisina	parentPeak	Cima da li Gandi Rossi
+Piz Sena	parentPeak	Cima Viola
+Piz dal Teo	parentPeak	Piz Sena
+Scima da Saoseo	parentPeak	Cima Viola
+Piz Paradisin	parentPeak	Cima Viola
+Piz la Stretta	parentPeak	Piz Languard
+Piz Lavirun	parentPeak	Munt Cotschen
+Munt Cotschen	parentPeak	Piz Languard
+Piz Chaschauna	parentPeak	Piz Quattervals
+Piz Saliente	parentPeak	Piz Serra
+Piz Serra	parentPeak	Piz Quattervals
+Piz da l'Acqua	parentPeak	Piz Quattervals
+Piz Murtaröl	parentPeak	Ortler
+Cima del Serraglio	parentPeak	Piz Turettas
+Piz Tea Fondada	parentPeak	Piz Murtaröl
+Piz Schumbraida	parentPeak	Piz Murtaröl
+Piz Minschuns	parentPeak	Ortler
+Piz Costainas	parentPeak	Piz Cotschen
+Piz Umbrail	parentPeak	Piz Murtaröl
+Ago di Sciora	parentPeak	Piz Cengalo
+Punta Pioda	parentPeak	Piz Cengalo
+Sciora Dadent	parentPeak	Cima della Bondasca
+Piz Cacciabella	parentPeak	Piz Cengalo
+Cima dal Cantun	parentPeak	Cima di Castello
+Piz Fedoz	parentPeak	Piz Fora
+Piz Bacun	parentPeak	Monte Disgrazia
+Il Chapütschin	parentPeak	Piz Bernina
+Piz Rosatsch	parentPeak	Piz Surlej
+Piz Surlej	parentPeak	Piz Bernina
+Piz Chalchagn	parentPeak	Piz Bernina
+Piz Boval	parentPeak	Piz Bernina
+Munt Pers	parentPeak	Piz Bernina
+Piz Terza	parentPeak	Piz Starlex
+Piz Lad	parentPeak	Piz S-chalembert
+Piz Starlex	parentPeak	Piz Sesvenna
+Drusenfluh	parentPeak	Drei Türme
+Sulzfluh	parentPeak	Drusenfluh
+Schijenflue	parentPeak	Wiss Platte
+Naafkopf	parentPeak	Grauspitz
+Falknis	parentPeak	Grauspitz
+Glegghorn	parentPeak	Schesaplana
+Sassauna	parentPeak	Girenspitz
+Madrisa	parentPeak	Drusenfluh
+Rätschenhorn	parentPeak	Madrisa
+Piz Sesvenna	parentPeak	Ortler
+Piz Cristanas	parentPeak	Piz Lischana
+Piz Madlain	parentPeak	Piz Lischana
+Piz Mingèr	parentPeak	Piz da la Crappa
+Piz Pisoc	parentPeak	Piz Sesvenna
+Piz Foraz	parentPeak	Piz Tavrü
+Piz Nair	parentPeak	Piz Tavrü
+Piz d'Arpiglias	parentPeak	Piz Nuna
+Piz Tavrü	parentPeak	Piz Pisoc
+Piz Macun	parentPeak	Piz Nuna
+Piz Laschadurella	parentPeak	Piz Plavna Dadaint
+Piz Nuna	parentPeak	Piz Tavrü
+Piz Plavna Dadaint	parentPeak	Piz Tavrü
+Piz dal Diavel	parentPeak	Piz da l'Acqua
+Piz d'Esan	parentPeak	Piz Languard
+Piz Quattervals	parentPeak	Piz Languard
+Piz S-chalambert	parentPeak	Piz Sesvenna
+Piz Minor	parentPeak	Piz Languard
+Piz Lagalb	parentPeak	Piz Languard
+Corn da Camp	parentPeak	Piz Paradisin
+Sassalb	parentPeak	Cima Viola
+Piz Vadret	parentPeak	Piz Languard
+Piz Languard	parentPeak	Cima Viola
+Piz Prüna	parentPeak	Piz Languard
+Piz Mezzaun	parentPeak	Munt Cotschen
+La Para	parentPeak	Le Tarent
+Piz Turettas	parentPeak	Piz Daint
+Piz Daint	parentPeak	Ortler
+Piz Cotschen	parentPeak	Ortler
+Piz Lad	parentPeak	Piz Umbrail
+Mount Ryōun	parentPeak	Mount Hokuchin
+Mount Nokogiri	parentPeak	Mount Hokuchin
+Mount Hokkai	parentPeak	Mount Hakuun
+Mount Matsuda	parentPeak	Mount Hokkai
+Mount Eboshi	parentPeak	Mount Hakuun
+Mount Aka	parentPeak	Mount Koizumi
+Mount Goshiki	parentPeak	Mount Hakuun
+Mount Midori	parentPeak	Mount Koizumi
+Mount Hakuun	parentPeak	Asahidake
+Mount Koizumi	parentPeak	Mount Hakuun
+Mount Aibetsu	parentPeak	Mount Pippu
+Mount Kuma	parentPeak	Asahidake
+Mount Nagayama	parentPeak	Mount Pippu
+Mount Morgan	parentPeak	North Palisade
+Vanil Carré	parentPeak	Vanil Noir
+Hochmatt	parentPeak	Dent de Savigny
+Dent de Brenleire	parentPeak	Vanil Noir
+Dent de Combette	parentPeak	Dent de Savigny
+Dent de Ruth	parentPeak	Dent de Savigny
+Wandflue	parentPeak	Dent de Savigny
+Schopfenspitz	parentPeak	Schafberg
+Kaiseregg	parentPeak	Schafberg
+Schafarnisch	parentPeak	Schafberg
+Märe	parentPeak	Schibe
+Ochsen	parentPeak	Stockhorn
+Pic Chaussy	parentPeak	Le Tarent
+Arnenhorn	parentPeak	Le Tarent
+Wittenberghorn	parentPeak	Le Tarent
+Rocher du Midi	parentPeak	Gummfluh
+Furggenspitz	parentPeak	Wittenberghorn
+Pointe des Savolaires	parentPeak	Grand Muveran
+Petit Muveran	parentPeak	Grand Muveran
+Grand Chavalard	parentPeak	Grand Muveran
+Tête du Portail	parentPeak	Grand Muveran
+Haut de Cry	parentPeak	Grand Muveran
+Tête à Pierre Grept	parentPeak	Grand Muveran
+Mont à Cavouère	parentPeak	Haut de Cry
+Culan	parentPeak	Diablerets
+Mont Gond	parentPeak	Diablerets
+Tête Ronde	parentPeak	Diablerets
+Sanetschhorn	parentPeak	Diablerets
+La Fava	parentPeak	Mont Gond
+Schluchhorn	parentPeak	Diablerets
+Spitzhorn	parentPeak	Wildhorn
+Sex Noir	parentPeak	Wildhorn
+Sex Rouge	parentPeak	Wildhorn
+Le Sérac	parentPeak	Wildhorn
+Schnidehorn	parentPeak	Wildhorn
+Mont Bonvin	parentPeak	Wildstrubel
+Mittaghorn	parentPeak	Wildhorn
+Rohrbachstein	parentPeak	Wildstrubel
+Niesehorn	parentPeak	Wildhorn
+Fromberghorn	parentPeak	Drunengalm
+Spillgerte	parentPeak	Albristhorn
+Seehore	parentPeak	Albristhorn
+Rauflihorn	parentPeak	Albristhorn
+Hohniesen	parentPeak	Albristhorn
+Wiriehorn	parentPeak	Albristhorn
+Elsighorn	parentPeak	Finsteraarhorn
+First	parentPeak	Chlyne Lohner
+Bunderspitz	parentPeak	First
+Tschingellochtighorn	parentPeak	Wildstrubel
+Gsür	parentPeak	Albristhorn
+Schneehorn	parentPeak	Wildstrubel
+Torrenthorn	parentPeak	Majinghorn
+Trubelstock	parentPeak	Wildstrubel
+Daubenhorn	parentPeak	Wildstrubel
+Reeti	parentPeak	Schwarzhorn
+Roteflue	parentPeak	Schwarzhorn
+Loucherhorn	parentPeak	Roteflue
+Bietenhorn	parentPeak	Schilthorn
+Hundshorn	parentPeak	Schilthorn
+Schwalmere	parentPeak	Drättehorn
+Dündenhorn	parentPeak	Finsteraarhorn
+Wildgärst	parentPeak	Schwarzhorn
+Risihorn	parentPeak	Finsteraarhorn
+Sidelhorn	parentPeak	Finsteraarhorn
+Brünberg	parentPeak	Finsteraarhorn
+Ritzihorn	parentPeak	Finsteraarhorn
+Alplistock	parentPeak	Finsteraarhorn
+Gallauistöck	parentPeak	Finsteraarhorn
+La Tsavre	parentPeak	Grand Rochère
+Monts Telliers	parentPeak	La Tsavre
+Gross Lohner	parentPeak	Wildstrubel
+Crêta de Vella	parentPeak	La Tsavre
+Mont de l'Etoile	parentPeak	Aiguilles Rouges d'Arolla
+La Maya	parentPeak	Becs de Bosson
+Brunnethorn	parentPeak	Bella Tola
+Augstbordhorn	parentPeak	Monte Rosa
+Balmahorn	parentPeak	Weissmies
+Tochuhorn	parentPeak	Spitzhorli
+Glishorn	parentPeak	Spitzhorli
+Camoscellahorn	parentPeak	Pizzo Giezza
+Tête de Ferret	parentPeak	Grande Rochère
+Pointe de Drône	parentPeak	Grande Rochère
+Berneuse	parentPeak	Tour d'Aï
+Punta Valgrande	parentPeak	Monte Leone
+Gross Schinhorn	parentPeak	Monte Leone
+Albrunhorn	parentPeak	Gross Schinhorn
+Pizzo Fiorèra	parentPeak	Basòdino
+Pizzo Quadro	parentPeak	Basòdino
+Martschenspitz	parentPeak	Wandfluhhorn
+Gazzirola	parentPeak	Vetta del Vallone
+Motto della Tappa	parentPeak	Pizzo di Gino
+Pizzo Campanile	parentPeak	Pizzo Paglia
+Piz de Cressim	parentPeak	Piz della Forcola
+Piz della Forcola	parentPeak	Pizzo Tambo
+Pizzo del Torto	parentPeak	Piz Corbet
+Piz de Setag	parentPeak	Piz della Forcola
+Piz Pombi	parentPeak	Piz Corbet
+Cima de Barna	parentPeak	Piz Corbet
+Piz Corbet	parentPeak	Pizzo Tambò
+Piz di Pian	parentPeak	Pizzo Tambo
+Camoghè	parentPeak	Pizzo di Gino
+Monte Lema	parentPeak	Monte Tamaro
+Mount Upepesanke	parentPeak	Mount Nipesotsu
+Mount Maru	parentPeak	Mount Nipesotsu
+Petite Pointe d'Orny	parentPeak	Pointe d'Orny
+Petit Darray	parentPeak	Grand Darray
+Giglistock	parentPeak	Dammastock
+Mährenhorn	parentPeak	Dammastock
+Mittagstock	parentPeak	Müeterlishorn
+Radlefshorn	parentPeak	Dammastock
+Salbitschijen	parentPeak	Fleckistock
+Rhonestock	parentPeak	Dammastock
+Eggstock	parentPeak	Dammastock
+Schneestock	parentPeak	Dammastock
+Tiefenstock	parentPeak	Dammastock
+Grassengrat	parentPeak	Wichelplanggstock
+Chli Spannort	parentPeak	Gross Spannort
+Piz Aul	parentPeak	Rheinwaldhorn
+Bruschghorn	parentPeak	Rheinwaldhorn
+Alperschällihorn	parentPeak	Bruschghorn
+Pizzas d'Anarosa	parentPeak	Bruschghorn
+Piz Beverin	parentPeak	Bruschghorn
+Pizzo Pesciora	parentPeak	Pizzo Rotondo
+Wellenkuppe	parentPeak	Ober Gabelhorn
+Ulrichshorn	parentPeak	Dom
+Egginer	parentPeak	Dom
+Senggchuppa	parentPeak	Lagginhorn
+Adlerhorn	parentPeak	Strahlhorn
+Bouquetins	parentPeak	Weisshorn
+Dents de Bertol	parentPeak	Bouquetins
+Pointe de Bertol	parentPeak	Dent de Perroc
+Pointe des Genevois	parentPeak	Dent de Perroc
+Wandfluehorn	parentPeak	Dent Blanche
+Mont Durand	parentPeak	Ober Gabelhorn
+Hohstock	parentPeak	Bietschhorn
+Mount Yoko	parentPeak	Mount Aka
+Unterrothorn	parentPeak	Monte Rosa
+Breithorn	parentPeak	Monte Leone
+Parpaner Schwarzhorn	parentPeak	Aroser Rothorn
+Schwarzhorn	parentPeak	Wildstrubel
+Grosser Diamantstock	parentPeak	Bächlistock
+Les Jumelles	parentPeak	Cornettes de Bise
+Ludwigshöhe	parentPeak	Monte Rosa
+Mount Yoko	parentPeak	Mount Tateshina
+Fronalpstock	parentPeak	Chlingenstock
+Planplatten	parentPeak	Glogghüs
+Rosenhorn	parentPeak	Mittelhorn
+Rottalhorn	parentPeak	Jungfrau
+Mittelhorn	parentPeak	Finsteraarhorn
+Kleines Schreckhorn	parentPeak	Schreckhorn
+Lonzahörner	parentPeak	Breithorn
+Birghorn	parentPeak	Finsteraarhorn
+Grosses Engelhorn	parentPeak	Gstellihorn
+Tschingelspitz	parentPeak	Gspaltenhorn
+Palisade Crest	parentPeak	North Palisade
+Meall nan Tarmachan	parentPeak	Ben Lawers
+Mount Minsi	parentPeak	Warren County, New Jersey high point, Kittatinny Mountain
+Sgùrr nan Eugallt	parentPeak	Ladhar Bheinn
+Sgùrr na Coinnich	parentPeak	Blaven
+Mount Raiden	parentPeak	Mount Mekunnai
+Mount Mekunnai	parentPeak	Niseko Annupuri
+Aiguille du Croissant	parentPeak	Grand Combin
+Pic Tyndall	parentPeak	Matterhorn
+Grand Gendarme	parentPeak	Weisshorn
+Wengen Jungfrau	parentPeak	Jungfrau
+La Spedla	parentPeak	Piz Bernina
+Pointe Burnaby	parentPeak	Bishorn
+Picco Muzio	parentPeak	Matterhorn
+Dent de Savigny	parentPeak	Vanil Noir
+Hohgant	parentPeak	Brienzer Rothorn
+Schrattenfluh	parentPeak	Brienzer Rothorn
+Brunnistock	parentPeak	Titlis
+Schächentaler Windgällen	parentPeak	Glärnisch
+Piz Por	parentPeak	Piz Platta
+Cima de Gagela	parentPeak	Rheinwaldhorn
+Gamsberg	parentPeak	Säntis
+Gemmenalphorn	parentPeak	Burgfeldstand
+Augstmatthorn	parentPeak	Brienzer Rothorn
+Tannhorn	parentPeak	Brienzer Rothorn
+Höch Gumme	parentPeak	Arnihaaggen
+Wissigstock	parentPeak	Brunnistock
+Engelberger Rotstock	parentPeak	Wissigstock
+Ruchstock	parentPeak	Wissigstock
+Rigidalstock	parentPeak	Gross Sättelistock
+Gross Walenstock	parentPeak	Rigidalstock
+Wissberg	parentPeak	Wissigstock
+Hahnen	parentPeak	Brunnistock
+Huetstock	parentPeak	Rotsandnollen
+Schilt	parentPeak	Siwellen
+Rautispitz	parentPeak	Mutteristock
+Schijen	parentPeak	Rautispitz
+Wissgandstöckli	parentPeak	Magerrain
+Magerrain	parentPeak	Tödi
+Spitzmeilen	parentPeak	Magerrain
+Bützistock	parentPeak	Magerrain
+Foostock	parentPeak	Tödi
+Il Madone	parentPeak	Basòdino
+Poncione di Valleggia	parentPeak	Basòdino
+Pizzo Castello	parentPeak	Basòdino
+Poncione di Braga	parentPeak	Basòdino
+Pizzo di Brünesc	parentPeak	Basòdino
+Pizzo Solögna	parentPeak	Basòdino
+Pizzo d'Orsalia	parentPeak	Wandfluhhorn
+Pizzo d'Orsalietta	parentPeak	Basòdino
+Madone di Càmedo	parentPeak	Madonino
+Pizzo Alzasca	parentPeak	Rosso di Ribia
+Pizzo Massari	parentPeak	Basòdino
+Pizzo Forno	parentPeak	Pizzo Campo Tencia
+Corona di Redorta	parentPeak	Pizzo Campo Tencia
+Pizzo delle Pecore	parentPeak	Cima di Broglio
+Cima di Broglio	parentPeak	Finsteraarhorn
+Poncione di Piotta	parentPeak	Poncione del Vènn
+Poncione dei Laghetti	parentPeak	Poncione del Vènn
+Cima di Bri	parentPeak	Madom Gröss
+Cima di Gagnone	parentPeak	Cima di Bri
+Cima Bianca	parentPeak	Madom Gröss
+Pizzo di Campedell	parentPeak	Pizzo di Claro
+Piz de Molinera	parentPeak	Torent Alto
+Cima della Bianca	parentPeak	Scopi
+Pizzo Taneda	parentPeak	Piz Gannaretsch
+Pizzo di Campello	parentPeak	Pizzo del Sole
+Schenadüi	parentPeak	Piz Gannaretsch
+Pizzo dell'Uomo	parentPeak	Pizzo del Sole
+Poncione Pro do Rodùc	parentPeak	Pizzo del Sole
+Pizzo di Cadrèigh	parentPeak	Scopi
+Pizzo Marumo	parentPeak	Piz Medel
+Pizzo Erra	parentPeak	Piz Gannaretsch
+Cima di Piancabella	parentPeak	Cima di Gana Bianca
+Pizzo Muncréch	parentPeak	Rheinwaldhorn
+Pizzo Magn	parentPeak	Mottone di Cava
+Masnàn	parentPeak	Cima di Biasca
+Ful Berg	parentPeak	Hochwang
+Hochwang	parentPeak	Aroser Rothorn
+Cunggel	parentPeak	Hochwang
+Glattwang	parentPeak	Hinteregg
+Mattjisch Horn	parentPeak	Chistenstein
+Chistenstein	parentPeak	Hochwang
+Casanna	parentPeak	Weissfluh
+Schiahorn	parentPeak	Weissfluh
+Chüpfenflue	parentPeak	Aroser Rothorn
+Weissfluh	parentPeak	Aroser Rothorn
+Tiejer Flue	parentPeak	Aroser Rothorn
+Valbellahorn	parentPeak	Aroser Rothorn
+Amselflue	parentPeak	Aroser Rothorn
+Sandhubel	parentPeak	Guggernellgrat
+Guggernell	parentPeak	Guggernellgrat
+Piz Scalottas	parentPeak	Stätzerhorn
+Fulhorn	parentPeak	Stätzer Horn
+Gürgaletsch	parentPeak	Aroser Rothorn
+Stelli	parentPeak	Weissfluh
+Fil de Cassons	parentPeak	Piz Segnas
+Crap Mats	parentPeak	Ringelspitz
+Piz Avat	parentPeak	Piz Glivers Dadens
+Piz Dado	parentPeak	Tödi
+Laaxer Stöckli	parentPeak	Piz Segnas
+Tschingelhörner	parentPeak	Piz Grisch
+Valserhorn	parentPeak	Bärenhorn
+Bärenhorn	parentPeak	Bruschghorn
+Piz Tomül	parentPeak	Rheinwaldhorn
+Frunthorn	parentPeak	Piz Aul
+Crap Grisch	parentPeak	Piz Tomül
+Schwarzhorn	parentPeak	Faltschonhorn
+Piz Serenastga	parentPeak	Piz Aul
+Stein	parentPeak	Piz Sezner
+Piz Sezner	parentPeak	Rheinwaldhorn
+Piz Canal	parentPeak	Rheinwaldhorn
+Piz Gren	parentPeak	Piz Cavel
+Piz Cavel	parentPeak	Rheinwaldhorn
+Piz Nadéls	parentPeak	Piz Gren
+Piz Caschleglia	parentPeak	Piz Miez
+Piz Muraun	parentPeak	Piz Miez
+Piz Alpetta	parentPeak	Piz Ravetsch
+Piz Cavradi	parentPeak	Piz Gannaretsch
+Piz Maler	parentPeak	Piz Gannaretsch
+Feechopf	parentPeak	Allalinhorn
+Piz Cambrena	parentPeak	Piz Bernina
+Gobba di Rollin	parentPeak	Breithorn
+Äschhorn	parentPeak	Weisshorn
+Pointe du Mountet	parentPeak	Zinalrothorn
+Bigerhorn	parentPeak	Balfrin
+Kinhorn	parentPeak	Dom
+Fluchthorn	parentPeak	Rimpfischhorn
+La Sâle	parentPeak	Le Pleureur
+Le Moine	parentPeak	Grand Combin
+Grande Aiguille	parentPeak	Combin de Corbassière
+Petite Aiguille	parentPeak	Le Moine
+Le Ritord	parentPeak	Grande Aiguille
+Piz de Groven	parentPeak	Cima de Gagela
+Piz de Trescolmen	parentPeak	Piz Pian Grand
+Piz Pian Grand	parentPeak	Cima de Gagela
+Fil de Dragiva	parentPeak	Cima de Gagela
+Piz Uccello	parentPeak	Einshorn
+Piz de Mucia	parentPeak	Rheinwaldhorn
+I Rodond	parentPeak	Rheinwaldhorn
+Piz de la Lumbreida	parentPeak	Pizzo Tambo
+Einshorn	parentPeak	Pizzo Tambo
+Marscholhorn	parentPeak	Rheinwaldhorn
+Guggernüll	parentPeak	Pizzo Tambo
+Cima di Pinadee	parentPeak	Rheinwaldhorn
+Piz Riein	parentPeak	Piz Fess
+Torrone di Nav	parentPeak	Rheinwaldhorn
+Pala da Tgiern	parentPeak	Rheinwaldhorn
+Piz Fess	parentPeak	Rheinwaldhorn
+Piz Radun	parentPeak	Piz Fess
+Schlüechtli	parentPeak	Rheinwaldhorn
+Teurihorn	parentPeak	Steilerhorn
+Tguma	parentPeak	Lüschgrat
+Präzer Höhi	parentPeak	Tguma
+Piz Bianco	parentPeak	Piz Bernina
+Klein Grünhorn	parentPeak	Gross Grünhorn
+Hinter Grauspitz	parentPeak	Grauspitz
+Mont Tendre	parentPeak	Crêt de la Neige
+Le Chasseron	parentPeak	Crêt de la Neige
+Dent de Jaman	parentPeak	Rochers de Naye
+Croix de Fer	parentPeak	Mont Blanc
+Le Châtelet	parentPeak	Mont Blanc
+Pointe Kurz	parentPeak	Aiguille d'Argentière
+Aiguille de l'A Neuve	parentPeak	Tour Noir
+The Pinnacle	parentPeak	Haycock Mountain
+Mount Cramer	parentPeak	Thompson Peak
+Mount Heyburn	parentPeak	Mount Iowa
+Widderfeld	parentPeak	Mount Pilatus
+Graustock	parentPeak	Rotsandnollen
+Piz da las Trais Linguas	parentPeak	Rötlspitz
+Jochstock	parentPeak	Titlis
+Grieshorn	parentPeak	Blinnenhorn
+Schijen	parentPeak	Ortstock
+Piz Alv	parentPeak	Pizzo Barbarera
+Klein Grieshorn	parentPeak	Grieshorn
+Cima di Cugn	parentPeak	Marmontana
+Schnebelhorn	parentPeak	Tweralpspitz
+Kleiner Mythen	parentPeak	Grosser Mythen
+Grassen	parentPeak	Wichelplanggstock
+Buckden Pike	parentPeak	Great Whernside
+Mount Mackenzie	parentPeak	Spook Peak
+Moel y Parc	parentPeak	Moel y Gamelin
+Mynydd Graig Goch	parentPeak	Craig Cwm Silyn
+Garnedd Goch	parentPeak	Craig Cwm Silyn
+Ontario Peak	parentPeak	Cucamonga Peak
+Arenig Fach	parentPeak	Arenig Fawr
+Moel Llyfnant	parentPeak	Arenig Fawr
+Gallt y Daren	parentPeak	Moel Llyfnant
+Callow Hill, Shropshire	parentPeak	Caer Caradoc
+Mwdwl-eithin	parentPeak	Carnedd y Filiast
+Yr Arddu	parentPeak	Moelwyn Mawr
+The Cupola	parentPeak	Frankland Peak
+Lotus Flower Tower	parentPeak	Mount Sir James MacBrien
+Beinn a' Chaorainn	parentPeak	Creag Meagaidh
+Mount Sir Donald	parentPeak	Mount Dawson
+Foel y Geifr	parentPeak	Esgeiriau Gwynion
+Foel Goch	parentPeak	Esgeiriau Gwynion
+Trum y Gwragedd	parentPeak	Foel y Geifr
+Mount Clarence King	parentPeak	Mount Gould
+Creigiau Gleision North Top	parentPeak	Creigiau Gleision
+Esgeiriau Gwynion	parentPeak	Aran Fawddwy
+Foel Goch	parentPeak	Arenig Fawr
+Tarren y Gesail	parentPeak	Aran Fawddwy
+Uto Peak	parentPeak	Mount Sir Donald
+Mount Tanzawa	parentPeak	Mount Hiru
+Grindslow Knoll	parentPeak	Kinder Scout
+Fan Nedd	parentPeak	Fan Gyhirych
+Fan Llia	parentPeak	Fan Fawr
+Fan Gyhirych	parentPeak	Pen y Fan
+Yarlside	parentPeak	The Calf
+Fan Hir	parentPeak	Fan Brycheiniog
+Moelwyn Mawr North Ridge Top	parentPeak	Moelwyn Mawr
+Carnedd Llechwedd-llyfn	parentPeak	Carnedd y Filiast
+Waun Garnedd-y-filiast	parentPeak	Carnedd y Filiast
+Arenig Fawr South Top	parentPeak	Arenig Fawr
+Foel Boeth	parentPeak	Moel Llyfnant
+Arenig Fawr South Ridge Top	parentPeak	Arenig Fawr
+Gallt y Wenallt	parentPeak	Y Lliwedd
+Y Lliwedd East Peak	parentPeak	Y Lliwedd
+Hasenmatt	parentPeak	Crêt de la Neige
+Pen yr Allt Uchaf	parentPeak	Aran Fawddwy
+Pen y Brynfforchog	parentPeak	Glasgwm
+Foel Rhudd	parentPeak	Esgeiriau Gwynion
+Llechwedd Du	parentPeak	Aran Fawddwy
+Moel y Cerrig Duon	parentPeak	Esgeiriau Gwynion
+Rhos Fawr	parentPeak	Plynlimon
+Pen y Garn	parentPeak	Plynlimon
+Craig-y-llyn	parentPeak	Cadair Idris
+Mount Goddard	parentPeak	Mount Darwin
+Fan Fraith	parentPeak	Fan Gyhirych
+Garreg Las	parentPeak	Fan Brycheiniog
+Junction Peak	parentPeak	Mount Stanford
+Waun Lefrith	parentPeak	Picws Du
+Picws Du	parentPeak	Fan Brycheiniog
+Foel Fraith	parentPeak	Garreg Lwyd
+Bwlch y Ddwyallt	parentPeak	Waun Rydd
+Mount Keith	parentPeak	Mount Whitney
+Y Gyrn	parentPeak	Pen y Fan
+Allt Lwyd	parentPeak	Waun Rydd
+Black Mountain South Top	parentPeak	Black Mountain
+Chwarel y Fan	parentPeak	Waun Fach
+Mynydd Llysiau	parentPeak	Waun Fach
+Pen Twyn Glas	parentPeak	Pen Allt-mawr
+Pen Twyn Mawr	parentPeak	Pen y Gadair Fawr
+Rhos Dirion	parentPeak	Waun Fach
+Pen Allt-mawr	parentPeak	Waun Fach
+Bachtel	parentPeak	Tweralpspitz
+Healabhal Bheag	parentPeak	Sgurr Alasdair
+Na Gruagaichean	parentPeak	Binnein Mor
+Ben Bhraggie	parentPeak	Beinn Lunndaidh
+Pen y Gaer	parentPeak	Carnedd Llewelyn
+Stob Coire an Laoigh	parentPeak	Stob Choire Claurigh
+Mount Shōkotsu	parentPeak	Mount Teshio
+Dammersfeldkuppe	parentPeak	Wasserkuppe
+Fineilspitze	parentPeak	Similaun
+Äußerer Bärenbartkogel	parentPeak	Weißkugel
+Hochwilde	parentPeak	Schalfkogel
+Karlesspitze	parentPeak	Schalfkogel
+Langtauferer Spitze	parentPeak	Weißkugel
+Lodner	parentPeak	Hohe Weiße
+Glockturm	parentPeak	Weißseespitze
+Ramolkogel	parentPeak	Hintere Schwärze
+Hochvernagtspitze	parentPeak	Hinterer Brochkogel
+Bliggspitze	parentPeak	Watzespitze
+Fluchtkogel	parentPeak	Hochvernagtspitze
+Firmisanschneide	parentPeak	Schalfkogel
+Fundusfeiler	parentPeak	Blockkogel
+Hinterer Seelenkogel	parentPeak	Hochwilde
+Hintereisspitzen	parentPeak	Fluchtkogel
+Hinterer Brochkogel	parentPeak	Wildspitze
+Hundstalkogel	parentPeak	Reiserkogel
+Spiegelkogel	parentPeak	Firmisanschneide
+Hohe Geige	parentPeak	Wildspitze
+Luibiskogel	parentPeak	Hohe Geige
+Puitkogel	parentPeak	Hohe Geige
+Kreuzspitze	parentPeak	Fineilspitze
+Rofelewand	parentPeak	Verpeilspitze
+Rostizkogel	parentPeak	Watzespitze
+Roteck	parentPeak	Hohe Weiße
+Schalfkogel	parentPeak	Grosser Ramolkogel
+Vorderer Brochkogel	parentPeak	Hinterer Brochkogel
+Löcherkogel	parentPeak	Eiskastenspitze
+Schwemser Spitze	parentPeak	Weißkugel
+Verpeilspitze	parentPeak	Watzespitze
+Schwabenkopf	parentPeak	Verpeilspitze
+Vordere Ölgrubenspitze	parentPeak	Bliggspitze
+Watzespitze	parentPeak	Hochvernagtspitze
+Weißseespitze	parentPeak	Hochvernagtspitze
+Wildgrat	parentPeak	Fundusfeiler
+Äussere Schwarze Schneid	parentPeak	Innere Schwarze Schneid
+Eiskastenspitze	parentPeak	Bliggspitze
+Gsallkopf	parentPeak	Rofelewand
+Hinterer Brunnenkogel	parentPeak	Wildspitze
+Innere Schwarze Schneid	parentPeak	Wildspitze
+Kolbenspitze	parentPeak	Lodner
+Mutmalspitze	parentPeak	Hintere Schwärze
+Hohe Weisse	parentPeak	Hochwilde
+Nederkogel	parentPeak	Ramolkogel
+Taschachwand	parentPeak	Petersenspitze
+Petersenspitze	parentPeak	Hinterer Brochkogel
+Seekarköpfe	parentPeak	Glockturm
+Saldurspitze	parentPeak	Lagaunspitze
+Seekogel	parentPeak	Rostizkogel
+Weißer Kogel	parentPeak	Wildspitze
+Wildnörderer	parentPeak	Seekarköpfe
+Texelspitze	parentPeak	Roteck
+Blockkogel	parentPeak	Luibiskogel
+Plattigkopf	parentPeak	Glockturm
+Wassertalkogel	parentPeak	Puitkogel
+Pfroslkopf	parentPeak	Plattigkopf
+Schermerspitze	parentPeak	Granatenkogel
+Liebenerspitze	parentPeak	Hochfirst
+Banker Kirchenkogel	parentPeak	Schermerspitze
+Hochfirst	parentPeak	Hinterer Seelenkogel
+Hintere Ölgrubenspitze	parentPeak	Nördliche Sexegertenspitze
+Sennkogel	parentPeak	Fineilspitze
+Talleitspitze	parentPeak	Kreuzspitze
+Rabenkopf	parentPeak	Äußerer Bärenbartkogel
+Valvelspitze	parentPeak	Rabenkopf
+Hochalt	parentPeak	Saldurspitze
+Lagaunspitze	parentPeak	Schwemser Spitze
+Mastaunspitze	parentPeak	Saldurspitze
+Ehrichspitze	parentPeak	Fluchtkogel
+Remsspitze	parentPeak	Saldurspitze
+Sonklarspitze	parentPeak	Zuckerhütl
+Mount Iō	parentPeak	Mount Kabuto
+Mount Karifuri	parentPeak	watchizu.aspx?b=430035&l=1424340
+University Peak	parentPeak	Mount Keith
+Benarty Hill	parentPeak	Dumglow
+Vermilion Peak	parentPeak	Gladstone Peak
+Mount Clague	parentPeak	Mount Madden
+Pfannenstiel	parentPeak	Tweralpspitz
+Buckner Mountain	parentPeak	Goode Mountain
+Seven Fingered Jack	parentPeak	Mount Fernow
+Sharktooth Peak	parentPeak	Mount LeConte
+Mount Cotter	parentPeak	Mount Clarence King
+Rainbow Mountain	parentPeak	Mount Callaghan
+Beinn Luibhean	parentPeak	Beinn Ime
+Zigzag Mountain	parentPeak	Mount Hood
+Williams Peak	parentPeak	Thompson Peak
+Stob Garbh	parentPeak	Cruach Ardrain
+Hohgrat	parentPeak	Hörnli
+Hagen	parentPeak	Hoher Randen
+Geissfluegrat	parentPeak	Geissflue
+Mount Mallory	parentPeak	Mount LeConte
+Roys Peak	parentPeak	Tititea
+Mount Stanford	parentPeak	Mount Keith
+Roineabhal	parentPeak	Beinn Dhubh
+Achtermannshöhe	parentPeak	Brocken
+Belchen	parentPeak	Feldberg
+Sigriswiler Rothorn	parentPeak	Burgfeldstand
+Gyrn Moelfre	parentPeak	Cadair Berwyn
+Great Coum	parentPeak	Whernside
+Mont Chaberton	parentPeak	Pic de Rochebrune
+Wurmberg	parentPeak	Brocken
+Rois-bheinn	parentPeak	Gaor Bheinn
+Llan Ddu Fawr	parentPeak	Pumlumon
+Mount Unabetsu	parentPeak	Mount Rausu
+Schneefernerkopf	parentPeak	Zugspitze
+Dreitorspitze	parentPeak	Hochwanner
+Hochkalter	parentPeak	Watzmann
+Walter Peak	parentPeak	Mount Lyell
+Chimney Peak	parentPeak	Mount Fay
+Allen Mountain	parentPeak	Mount Siyeh
+Claife Heights	parentPeak	Top o'Selside
+Almost-a-Dog Mountain	parentPeak	Little Chief Mountain
+Amphitheater Mountain	parentPeak	Mount James
+Apikuni Mountain	parentPeak	Gable Mountain
+Blackfoot Mountain	parentPeak	Mount Jackson
+Stonebarrow Hill	parentPeak	Hardown Hill
+Arnside Knott	parentPeak	Hutton Roof Crags
+Citadel Mountain	parentPeak	Little Chief Mountain
+Dodd Fell Hill	parentPeak	Great Knoutberry Hill
+Matterhorn Peak	parentPeak	Wetterhorn Peak
+Cold Fell	parentPeak	Cross Fell
+Birks Fell	parentPeak	Pen-y-ghent
+Dufton Pike	parentPeak	Cross Fell
+Crowfoot Mountain	parentPeak	Mount Olive
+North Hill, Malvern	parentPeak	Worcestershire Beacon
+Mianzimu	parentPeak	Kawagebo
+Sugarloaf Hill, Malvern	parentPeak	Table Hill
+Gable Mountain	parentPeak	Mount Wilbur
+Jubilee Hill	parentPeak	End Hill
+Table Hill	parentPeak	Worcestershire Beacon
+Mount Okutoppu	parentPeak	Mount Kunbetsu
+Monte Bisbino	parentPeak	Sasso Gordona
+Mount Kamuishiri	parentPeak	Pinneshiri
+Mount Machine	parentPeak	Pinneshiri
+Sasso Gordona	parentPeak	Monte Generoso
+Cima Piazzi	parentPeak	Piz Bernina
+Pizzo Scalino	parentPeak	Piz Bernina
+Pizzo Stella	parentPeak	Piz Platta
+Sighignola	parentPeak	Monte Generoso
+Pizzo Tambò	parentPeak	Piz Kesch
+Cima Viola	parentPeak	Cima Piazzi
+Pizzo Coca	parentPeak	Mont Blanc
+Rubers Law	parentPeak	Peel Fell
+Beacon Hill, Powys	parentPeak	Pegwn Mawr
+Little Chief Mountain	parentPeak	Blackfoot Mountain
+Mad Wolf Mountain	parentPeak	Red Mountain
+Schafberg	parentPeak	Dent de Savigny
+Mount James	parentPeak	Rising Wolf Mountain
+Red Mountain	parentPeak	Rising Wolf Mountain
+Angelburg	parentPeak	36600.0
+Seefingan	parentPeak	Kippure
+Chapman Peak	parentPeak	Kintla Peak
+Long Knife Peak	parentPeak	Kintla Peak
+Mount Carter	parentPeak	Rainbow Peak
+Mount Custer	parentPeak	Chapman Peak
+Mont d'Ambin	parentPeak	Rognosa d'Etiache
+Cerro Mohinora	parentPeak	Cerro Gordo
+Dent d'Oche	parentPeak	Cornettes de Bise
+Gibraltar Mountain	parentPeak	Mist Mountain
+Mont Buet	parentPeak	Dents du Midi
+Hauts-Forts	parentPeak	Dents du Midi
+Roc d'Enfer	parentPeak	Dents du Midi
+Creagan na Beinne	parentPeak	Ben Chonzie
+Myarth	parentPeak	Allt yr Esgair
+Aiguille de Scolette	parentPeak	Aiguilles d'Arves
+Tschuggen	parentPeak	Finsteraarhorn
+Càrn nan Gobhar	parentPeak	Sgurr a' Choire Ghlais
+Thompson Peak	parentPeak	Mount Eddy
+Beinn Fhionnlaidh	parentPeak	Càrn Eige
+Mount McAdie	parentPeak	Mount Whitney
+Piz Dolf	parentPeak	Piz Segnas
+Piz Badus	parentPeak	Piz Gannaretsch
+Mount Ashigara	parentPeak	Mount Hakone
+Dent Favre	parentPeak	Dent de Morcles
+Tweralpspitz	parentPeak	Säntis
+Speer	parentPeak	Gamsberg
+Speer	parentPeak	Chüemettler
+Brown Gelly	parentPeak	Brown Willy
+Chäserrugg	parentPeak	Hinterrugg
+Brisi	parentPeak	Hinterrugg
+Chli Windgällen	parentPeak	Gross Windgällen
+Pizzo del Ramulazz	parentPeak	Rheinwaldhorn
+Chastelhorn	parentPeak	Pizzo Centrale
+Pizzo Lucendro	parentPeak	Pizzo Rotondo
+Muttenhorn	parentPeak	Pizzo Rotondo
+High Crag	parentPeak	Nethermost Pike
+Beardown Tors	parentPeak	Cut Hill
+Eschenburg	parentPeak	Angelburg
+Piz Alv	parentPeak	Piz Grisch
+Piz Toissa	parentPeak	Piz Platta
+Tour de Mayen	parentPeak	Tour d'Aï
+Ruby Peak	parentPeak	Mount Mills
+Flat Fell	parentPeak	Dent
+Blakeley Raise	parentPeak	Crag Fell
+Whoap	parentPeak	Lank Rigg
+Momhil Sar	parentPeak	Trivor
+Meugher	parentPeak	Great Whernside
+Malchin Peak	parentPeak	Khüiten Peak
+Nairamdal Peak	parentPeak	Khüiten Peak
+Chrüzlistock	parentPeak	Piz Giuv
+Piz Cartas	parentPeak	Piz Curvér
+Sur Carungas	parentPeak	Piz digl Gurschus
+Altenalp Türm	parentPeak	Säntis
+Crest dil Cut	parentPeak	Lüschgrat
+Glaser Grat	parentPeak	Lüschgrat
+Schlossberg	parentPeak	Gross Spannort
+Piz Denter	parentPeak	Piz Blas
+Dùn da Ghaoithe	parentPeak	Ben More
+Silvertip Mountain	parentPeak	Mount Custer
+Pointe de Paumont	parentPeak	Aiguille de Scolette
+Punta Bagnà	parentPeak	Pointe de Paumont
+Punta Sommeiller	parentPeak	Rognosa d'Etiache
+Rognosa d'Etiache	parentPeak	Aiguille de Scolette
+Yellow Knolls	parentPeak	Jarvis Peak,
+Yellow Knolls	parentPeak	-Beaver Dam Mountains
+Belchenflue	parentPeak	Ruchen
+Cima de Pian Guarnei	parentPeak	Piz Corbet
+Pizzo Molare	parentPeak	Pizzo del Sole
+Turbhorn	parentPeak	Blinnenhorn
+Bättlihorn	parentPeak	Monte Leone
+Gletscherhorn	parentPeak	Piz Duan
+Gorihorn	parentPeak	Flüela Wisshorn
+Isentällispitz	parentPeak	Piz Linard
+Vesulspitze	parentPeak	Piz Linard
+Punta Ramiere	parentPeak	Pic de Rochebrune
+Sieben Hengste	parentPeak	Burgfeldstand
+Schwalmis	parentPeak	Hoh Brisen
+Brisen	parentPeak	Hoh Brisen
+Silberplatten	parentPeak	Säntis
+Kronberg	parentPeak	Säntis
+Rigi Hochflue	parentPeak	Rigi Kulm
+Heimstock	parentPeak	Clariden
+Leidhorn	parentPeak	Schildflue
+Piz Canfinal	parentPeak	Piz Bernina
+Drunengalm	parentPeak	Hohniesen
+Vetta del Vallone	parentPeak	Camoghè
+Hinteregg	parentPeak	Chistenstein
+Tavé des Chasseurs	parentPeak	Grand Combin
+Wichelplanggstock	parentPeak	Wendenhorn
+Rotsandnollen	parentPeak	Dammastock
+Gross Sättelistock	parentPeak	Brunnistock
+Grande Rochère	parentPeak	Mont Blanc
+Hirsihorn	parentPeak	Pointe de Tourtemagne
+Mount Samat	parentPeak	Mount Mariveles
+Madonino	parentPeak	Basòdino
+Schibe	parentPeak	Ochsen
+Cima di Biasca	parentPeak	Torent Alto
+Müeterlishorn	parentPeak	Dammastock
+Lochberg	parentPeak	Dammastock
+Poncione del Vènn	parentPeak	Cima di Bri
+Mottone di Cava	parentPeak	Torent Alto
+Vernokhörner	parentPeak	Piz Terri
+Pointes de Mourti	parentPeak	Dent Blanche
+Guggernellgrat	parentPeak	Aroser Rothorn
+Wiss Platte	parentPeak	Madrisa
+Faltschonhorn	parentPeak	Piz Aul
+Platthorn	parentPeak	Monte Rosa
+Geltenhorn	parentPeak	Wildhorn
+Stockhorn	parentPeak	Bietschhorn
+Piz digl Gurschus	parentPeak	Piz Curvér
+Steilerhorn	parentPeak	Alperschällihorn
+Six des Eaux Froides	parentPeak	Wildhorn
+Fürstein	parentPeak	Brienzer Rothorn
+Schimbrig	parentPeak	Brienzer Rothorn
+La Serpentine	parentPeak	Pigne d'Arolla
+Pointe d'Aveneyre	parentPeak	Rochers de Naye
+Teysachaux	parentPeak	Moléson
+La Berra	parentPeak	Dent de Savigny
+Vanil des Artses	parentPeak	Dent de Lys
+Dent de Broc	parentPeak	Dent du Chamois
+Dent du Chamois	parentPeak	Vanil Noir
+Dent du Bourgo	parentPeak	Vanil Noir
+Tour de Don	parentPeak	Cornettes de Bise
+Haut Sex	parentPeak	Tour de Don
+Schafmatt	parentPeak	Fürstein
+Dent de Folliéran	parentPeak	Dent de Brenleire
+Vanil des Cours	parentPeak	Vanil Noir
+Gros Van	parentPeak	Tour d'Aï
+Mont d'Or	parentPeak	Gros Van
+Gitschen	parentPeak	Brunnistock
+Silberen	parentPeak	Glärnisch
+Chaiserstock	parentPeak	Schächentaler Windgällen
+Höch Turm	parentPeak	Ortstock
+Pfannenstock	parentPeak	Glärnisch
+Wasserbergfirst	parentPeak	Schächentaler Windgällen
+Rossstock	parentPeak	Fulen
+Fulen	parentPeak	Chaiserstock
+Gemsfairenstock	parentPeak	Schärhorn
+Chammliberg	parentPeak	Clariden
+Hoch Fulen	parentPeak	Schwarz Stöckli
+Bälmeten	parentPeak	Hoch Fulen
+Piz Cambrialas	parentPeak	Düssi
+Federispitz	parentPeak	Speer
+Federispitz	parentPeak	Chüemettler
+Mattstock	parentPeak	Speer
+Studerhorn	parentPeak	Finsteraarhorn
+Reissend Nollen	parentPeak	Wendenstöcke
+Fluebrig	parentPeak	Druesberg
+Hochfinsler	parentPeak	Magerrain
+Gonzen	parentPeak	Gamsberg
+Sazmartinshorn	parentPeak	Pizol
+Fulfirst	parentPeak	Gamsberg
+Brünnelistock	parentPeak	Mutteristock
+Rorspitzli	parentPeak	Fleckistock
+Gärstenhörner	parentPeak	Dammastock
+Klein Lauteraarhorn	parentPeak	Schreckhorn
+Finsteraarrothorn	parentPeak	Finsteraarhorn
+Zindlenspitz	parentPeak	Brünnelistock
+Eggstock	parentPeak	Bös Fulen
+Rüchigrat	parentPeak	Glärnisch
+Brandlammhorn	parentPeak	Finsteraarhorn
+Tristelhorn	parentPeak	Ringelspitz
+Hangsackgrat	parentPeak	Ringelspitz
+Zanaihorn	parentPeak	Pizol
+Wildhuser Schafberg	parentPeak	Altmann
+Le Suchet	parentPeak	Le Chasseron
+Aiguilles de Baulmes	parentPeak	Le Suchet
+Schönbühlhorn	parentPeak	Fiescher Gabelhorn
+Sassal Mason	parentPeak	Piz Bernina
+Rosställispitz	parentPeak	Flüela Wisshorn
+Crasta Mora	parentPeak	Piz Calderas
+Piz Blaisun	parentPeak	Piz Üertsch
+Chrachenhorn	parentPeak	Chüealphorn
+Wuosthorn	parentPeak	Chüealphorn
+Sentischhorn	parentPeak	Flüela Schwarzhorn
+Pointe Sud de Moming	parentPeak	Zinalrothorn
+Pointe Nord de Moming	parentPeak	Zinalrothorn
+Chli Ruchen	parentPeak	Schärhorn
+Rienzenstock	parentPeak	Piz Giuv
+Hundstein	parentPeak	Säntis
+Marwees	parentPeak	Säntis
+Piz Materdell	parentPeak	Piz Lagrev
+Siwellen	parentPeak	Gufelstock
+Gstellihorn	parentPeak	Finsteraarhorn
+Breitlauihorn	parentPeak	Breithorn
+Piz da la Crappa	parentPeak	Piz Pisoc
+Pico Alto	parentPeak	None - HP Santa Maria
+Piz Miez	parentPeak	Piz Medel
+Piz Surparé	parentPeak	Piz Platta
+Mont de l'Arpille	parentPeak	Mont Blanc
+Le Soliat	parentPeak	Le Chasseron
+Treasure Mountain	parentPeak	Hagerman Peak
+South Bastion Mountain	parentPeak	Develin Peak
+North Bastion Mountain	parentPeak	The White Tower
+The White Tower	parentPeak	Fusilier Peak
+Fusilier Peak	parentPeak	Constable Peak
+Hermitage Peak	parentPeak	Constable Peak
+Tower Mountain	parentPeak	Hermitage Peak
+Constable Peak	parentPeak	King Peak
+King Peak	parentPeak	Normandy Mountain
+Peck NW2	parentPeak	Mount Peck
+Develin Peak	parentPeak	Peck NW2
+Normandy Mountain	parentPeak	Dieppe Mountain
+Dieppe Mountain	parentPeak	Tuchodi Peak
+Tuchodi Peak	parentPeak	Mount Lloyd George
+Mount Lloyd George	parentPeak	Mount Sylvia
+Mount Blaurock	parentPeak	La Plata Peak
+Fairchild Mountain	parentPeak	Ypsilon Mountain
+McCurdy Mountain	parentPeak	Bison Peak
+Firehorn	parentPeak	Finsteraarhorn
+Piz Malmurainza	parentPeak	Piz Mundin
+Mont Racine	parentPeak	Chasseral
+Grenchenberg	parentPeak	Hasenmatt
+Gäbris	parentPeak	Säntis
+Hochalp	parentPeak	Hinterfallenchopf
+Grenzchopf	parentPeak	Säntis
+Hundwiler Höhi	parentPeak	Säntis
+Palinkopf	parentPeak	Vesulspitze
+Greitspitz	parentPeak	Vesulspitze
+Flimspitz	parentPeak	Vesulspitze
+Krone	parentPeak	Fluchthorn
+Piz Arina	parentPeak	Muttler
+Piz Saluver	parentPeak	Piz Ot
+Piz Albana	parentPeak	Piz Calderas
+Piz Sarsura Pitschen	parentPeak	Piz Vadret
+Piz d'Urezza	parentPeak	Piz Vadret
+Piz Polaschin	parentPeak	Piz Lagrev
+Piz Surgonda	parentPeak	Piz d'Agnel
+Piz Griatschouls	parentPeak	Piz Kesch
+Piz Radönt	parentPeak	Flüela Schwarzhorn
+Piz Suvretta	parentPeak	Piz Bever
+Mazzaspitz	parentPeak	Piz Platta
+Piz Salteras	parentPeak	Piz Bleis Marscha
+Piz Grialetsch	parentPeak	Piz Vadret
+Piz San Jon	parentPeak	Piz Madlain
+Piz Plavna Dadora	parentPeak	Piz Pisoc
+Piz dal Fuorn	parentPeak	Piz Plavna Dadaint
+Piz Muragl	parentPeak	Piz Languard
+Piz Posta Biala	parentPeak	Tödi
+Piz Porchabella	parentPeak	Piz Kesch
+Munt Arlas	parentPeak	Piz Surlej
+Piz Neir	parentPeak	Piz Calderas
+Piz Triazza	parentPeak	Piz Lischana
+Piz Ajüz	parentPeak	Piz Sesvenna
+Unghürhörner	parentPeak	Piz Linard
+Piz Sampuoir	parentPeak	Piz Laschadurella
+Munt la Schera	parentPeak	Munt Buffalora
+Piz Dora	parentPeak	Piz Daint
+Piz Vallatscha	parentPeak	Piz Tavrü
+Munt Buffalora	parentPeak	Piz Daint
+Blistock	parentPeak	Tödi
+Cima de Nomnom	parentPeak	Piz de Groven
+Corno di Gesero	parentPeak	Marmontana
+Grauhorn	parentPeak	Rheinwaldhorn
+Schiben	parentPeak	Tödi
+Nüschenstock	parentPeak	Hausstock
+Monte Gambarogno	parentPeak	Monte Tamaro
+Rasiva	parentPeak	Monte Zucchero
+Poncione della Marcia	parentPeak	Monte Zucchero
+Poncione d'Arzo	parentPeak	Monte San Giorgio
+Monte Gradiccioli	parentPeak	Monte Tamaro
+Bocktschingel	parentPeak	Schärhorn
+Vorder Glärnisch	parentPeak	Glärnisch
+Gauschla	parentPeak	Alvier
+Lang Randen	parentPeak	Hoher Randen
+Wasserflue	parentPeak	Geissflue
+Vincent Pyramid	parentPeak	Dufourspitze
+Pizzo Bianco	parentPeak	Monte Rosa
+Piz Alv	parentPeak	Piz Minor
+Cima d'Asta	parentPeak	Vezzana
+Chasseral Ouest	parentPeak	Chasseral
+Schrammacher	parentPeak	Olperer
+Pizzo Ferrè	parentPeak	Piz di Pian
+Höhronen	parentPeak	Morgartenberg
+Mittaggüpfi	parentPeak	Stäfeliflue
+Stäfeliflue	parentPeak	Mount Pilatus
+Chingstuel	parentPeak	Glogghüs
+Hochstollen	parentPeak	Glogghüs
+Haupt	parentPeak	Glogghüs
+Wandelen	parentPeak	Heitlistock
+Schluchberg	parentPeak	Widderfeld Stock
+Hundsrügg	parentPeak	Dent de Savigny
+Fläschenspitz	parentPeak	Druesberg
+Alpler Horn	parentPeak	Schächentaler Windgällen
+Glatten	parentPeak	Ortstock
+Alpler Torstock	parentPeak	Schächentaler Windgällen
+Schiberg	parentPeak	Brünnelistock
+Planggenstock	parentPeak	Chöpfenberg
+Leistchamm	parentPeak	Hinterrugg
+Höhi Wispile	parentPeak	Wildhorn
+Bäderhorn	parentPeak	Schafberg
+Chörblispitz	parentPeak	Schopfenspitz
+Vanil d'Arpille	parentPeak	Schopfenspitz
+Widdersgrind	parentPeak	Ochsen
+Nünalphorn	parentPeak	Rotsandnollen
+Widderfeld Stock	parentPeak	Nünalphorn
+Schwidenegg	parentPeak	Ochsen
+Hohmädli	parentPeak	Ochsen
+Hugihorn	parentPeak	Klein Lauteraarhorn
+Kranzberg	parentPeak	Jungfrau
+Rotstock	parentPeak	Geisshorn
+Grand Som Martel	parentPeak	Mont Racine
+Crêt du Cervelet	parentPeak	Grand Som Martel
+Rocher des Tablettes	parentPeak	Mont Racine
+Mont d'Amin	parentPeak	Mont Racine
+Le Toûno	parentPeak	Pointe de Tourtemagne
+Poncione d'Alnasca	parentPeak	Cima di Gagnone
+Pizzo di Campel	parentPeak	Piz della Forcola
+Monte Salmone	parentPeak	Rosso di Ribia
+Gulderstock	parentPeak	Magerrain
+Piz d'Arbeola	parentPeak	Piz Pian Grand
+Saashörner	parentPeak	Muttenhorn
+Lauteraar Rothörner	parentPeak	Hugihorn
+Mont Terri	parentPeak	Montgremay
+Montgremay	parentPeak	Les Ordons
+Mont Soleil	parentPeak	Mont Racine
+Les Ordons	parentPeak	Mont Soleil
+Moron	parentPeak	Chasseral
+Riederhorn	parentPeak	Eggishorn
+Dosse	parentPeak	Rigi Kulm
+Mount Independence	parentPeak	Cache Peak
+Graham Peak	parentPeak	Cache Peak
+Smoky Mountain	parentPeak	Graham Peak
+Thunder Mountain	parentPeak	Cache Peak
+George Peak	parentPeak	Bull Mountain
+Crystal Peak	parentPeak	Bull Mountain
+Prairie Creek Peak	parentPeak	Norton Peak
+Black Pine Cone	parentPeak	Black Pine Peak
+Black Pine Peak	parentPeak	Black Pine Mountains High Point
+Pizzo Pianca	parentPeak	Pizzo Marumo
+Skillern Peak	parentPeak	Paradise Peak
+Kelly Mountain	parentPeak	Buttercup Mountain
+Bell Mountain	parentPeak	Diamond Peak
+Big Boy Peak	parentPeak	The Riddler
+The Riddler	parentPeak	Diamond Peak
+Big Creek Peak	parentPeak	Bell Mountain
+Little Diamond Peak	parentPeak	Big Boy Peak
+Shoshone John Peak	parentPeak	Big Boy Peak
+Nicholson Peak	parentPeak	Little Diamond Peak
+Flatiron Mountain	parentPeak	Big Creek Peak
+Leatherman Peak	parentPeak	Borah Peak
+Mount Church	parentPeak	Leatherman Peak
+Lost River Peak	parentPeak	Mount Breitenbach
+Mount Breitenbach	parentPeak	Mount Church
+Mount Idaho	parentPeak	Borah Peak
+Donaldson Peak	parentPeak	Mount Church
+USGS Peak	parentPeak	Mount Church
+No Regret Peak	parentPeak	Mount Breitenbach
+Decker Peak	parentPeak	Mount Cramer
+Mickey's Spire	parentPeak	Thompson Peak
+Snowyside Peak	parentPeak	Mount Cramer
+Mount Limbert	parentPeak	Mount Carter
+Mount Carter	parentPeak	Mickey's Spire
+Moolack Mountain	parentPeak	Mount Limbert
+Baron Peak	parentPeak	Moolack Mountain
+Elk Peak	parentPeak	Mount Cramer
+Payette Peak	parentPeak	Mount Cramer
+Horstmann Peak	parentPeak	Mickey's Spire
+Sevy Peak	parentPeak	Dave's Peak
+Braxon Peak	parentPeak	Horstmann Peak
+Warbonnet Peak	parentPeak	Cirque Lake Peak
+Cirque Lake Peak	parentPeak	Packrat Peak
+Packrat Peak	parentPeak	Elk Peak
+Mount Iowa	parentPeak	Horstmann Peak
+Dave's Peak	parentPeak	Mount Cramer
+Merritt Peak	parentPeak	Williams Peak
+Brown Willy	parentPeak	High Willhays
+Mount Regan	parentPeak	Merritt Peak
+McDonald Peak	parentPeak	Mount Cramer
+Parks Peak	parentPeak	Snowyside Peak
+Imogene Peak	parentPeak	Parks Peak
+McGown Peak	parentPeak	Alpine Peak
+Alpine Peak	parentPeak	Mount Regan
+Hochstuckli	parentPeak	Gross Mythen
+D. O. Lee Peak	parentPeak	Calkins Peak
+Lonesome Lake Peak	parentPeak	D. O. Lee Peak
+Washington Peak	parentPeak	Fourth of July Peak
+Patterson Peak	parentPeak	Castle Peak
+Chinese Wall	parentPeak	Calkins Peak
+Fourth of July Peak	parentPeak	Castle Peak
+Watson Peak	parentPeak	White Cloud Peak 5
+Ebony Peak	parentPeak	Washington Peak
+Blackmon Peak	parentPeak	Castle Peak
+Lookout Mountain	parentPeak	Blackmon Peak
+Bible Back Mountain	parentPeak	Croseus Peak
+White Cloud Peak 10	parentPeak	Calkins Peak
+White Cloud Peak 9	parentPeak	Calkins Peak
+White Cloud Peak 7	parentPeak	White Cloud Peak 9
+White Cloud Peak 4	parentPeak	Watson Peak
+White Cloud Peak 5	parentPeak	White Cloud Peak 7
+White Cloud Peak 6	parentPeak	White Cloud Peak 7
+White Cloud Peak 8	parentPeak	D. O. Lee Peak
+White Cloud Peak 3	parentPeak	White Cloud Peak 5
+White Cloud Peak 1	parentPeak	White Cloud Peak 3
+White Cloud Peak 2	parentPeak	White Cloud Peak 3
+Peak 11,272	parentPeak	D. O. Lee Peak
+Monte Cresto	parentPeak	Monte Mars
+Rochers de Gagnerie	parentPeak	Dents du Midi
+Chaux Ronde	parentPeak	Le Chamossaire
+Sex du Coeur	parentPeak	Le Linleu
+Bec du Corbeau	parentPeak	Pointe de Bellevue
+Pointe des Mossettes	parentPeak	Hauts-Forts
+Karjiang	parentPeak	Kula Kangri
+Poke-O-Moonshine Mountain	parentPeak	Old Rang Mountain
+Nufenenstock	parentPeak	Grieshorn
+Piz di Sassiglion	parentPeak	Cima Viola
+Kirchlispitzen	parentPeak	Schesaplana
+Schwarzberg	parentPeak	Piz Gannaretsch
+Corno di Dosdè	parentPeak	Scima da Saoseo
+Pizzo Nero	parentPeak	Pizzo Gallina
+Poncione di Manió	parentPeak	Pizzo Gallina
+Croker Hill	parentPeak	Shining Tor
+Cape au Moine	parentPeak	Vanil des Artses
+Haglere	parentPeak	Fürstein
+Hochmättli	parentPeak	Gufelstock
+Mättlenstöck	parentPeak	Hausstock
+Croix de Culet	parentPeak	Hauts-Forts
+Testa Grigia	parentPeak	Breithorn
+Honegg	parentPeak	Hohgant
+Farneren	parentPeak	Fürstein
+Beichle	parentPeak	Schrattenfluh
+Stockberg	parentPeak	Säntis
+Furgglenfirst	parentPeak	Säntis
+Schwändiblueme	parentPeak	Sigriswiler Rothorn
+Wachthubel	parentPeak	Schrattenfluh
+Höchhand	parentPeak	Tweralpspitz
+Walenmatt	parentPeak	Mont Raimeux
+Vogelberg	parentPeak	Walenmattweid
+Wilkethöchi	parentPeak	Hochalp
+Blasenflue	parentPeak	Hohgant
+Bantiger	parentPeak	Blasenflue
+Lindenberg	parentPeak	Napf
+Stierenberg	parentPeak	Napf
+Bürglen	parentPeak	Wildspitz
+Rooterberg	parentPeak	Rigi
+Rüdigenspitze	parentPeak	Dent de Savigny
+Hardown Hill	parentPeak	Lewesdon Hill
+Telegraph Hill, Dorset	parentPeak	Lewesdon Hill
+Lambert's Castle Hill	parentPeak	Lewesdon Hill
+Lyscombe Hill	parentPeak	Telegraph Hill, Dorset
+Ridgeway Hill	parentPeak	Swyre Head
+Moel y Gydros	parentPeak	Carnedd y Filiast
+Moel Emoel	parentPeak	Foel Goch
+Black Down, Dorset	parentPeak	Lewesdon Hill
+Melbury Hill	parentPeak	Win Green
+Bell Hill, Dorset	parentPeak	Lewesdon Hill
+Toller Down	parentPeak	Lewesdon Hill
+Ball Hill, Dorset	parentPeak	Lewesdon Hill
+Duncliffe Hill	parentPeak	Win Green
+Dogbury Hill	parentPeak	Watts Hill
+Chaldon Hill	parentPeak	Lewesdon Hill
+Watts Hill	parentPeak	Lewesdon Hill
+Sidown Hill	parentPeak	Walbury Hill
+Wheatham Hill	parentPeak	Lewesdon Hill
+War Down	parentPeak	Butser Hill
+Wether Down	parentPeak	Butser Hill
+Peters Dome	parentPeak	Denali
+Kahiltna Dome	parentPeak	Denali
+Kahiltna Peaks	parentPeak	Denali
+Mount Brooks	parentPeak	Denali
+Mount Dawson	parentPeak	Mount Sir Sandford
+Furggen	parentPeak	Monte Rosa
+Creech Barrow Hill	parentPeak	Swyre Head
+Punta Maria Cristina	parentPeak	Dent d'Hérens
+Testa del Leone	parentPeak	Matterhorn
+West Hill, Dorset	parentPeak	Lewesdon Hill
+Drackenorth	parentPeak	Lewesdon Hill
+Warren Hill, Hooke, Dorset	parentPeak	Lewesdon Hill
+Chardown Hill	parentPeak	Hardown Hill
+Selworthy Beacon	parentPeak	Dunkery Beacon
+Blackdown Hill, Dorset	parentPeak	Lewesdon Hill
+Conegar Hill	parentPeak	Lewesdon Hill
+Payne's Down	parentPeak	Lewesdon Hill
+Bookham Knoll	parentPeak	Lewesdon Hill
+Seaborough Hill	parentPeak	Lewesdon Hill
+Povington Hill	parentPeak	Swyre Head
+Sgùrr na h-Ulaidh	parentPeak	Bidean nam Bian
+Holybourne Hill	parentPeak	Butser Hill
+Pidham Hill	parentPeak	Butser Hill
+Red Hill, Hampshire	parentPeak	Butser Hill
+Goleigh Hill	parentPeak	Butser Hill
+King's Hill, Hampshire	parentPeak	Butser Hill
+Selborne Hill	parentPeak	Butser Hill
+Farleigh Hill	parentPeak	Butser Hill
+Head Down, Hampshire	parentPeak	Butser Hill
+Henwood Down	parentPeak	Butser Hill
+Oakham Hill	parentPeak	Butser Hill
+Tour de Famelon	parentPeak	Tour d'Aï
+Mullwharchar	parentPeak	Merrick
+Dallas Peak	parentPeak	Mount Sneffels
+Dolores Peak	parentPeak	Middle Peak
+Mount Oklahoma	parentPeak	Mount Massive
+Emerald Peak	parentPeak	Missouri Mountain
+Fletcher Mountain	parentPeak	Quandary Peak
+French Mountain	parentPeak	Mount Elbert
+Ice Mountain	parentPeak	Huron Peak
+Rowling End	parentPeak	Causey Pike
+Jagged Mountain	parentPeak	Pacific Peak
+Jones Mountain	parentPeak	Handies Peak
+Jupiter Mountain	parentPeak	Windom Peak
+Mount Edwards	parentPeak	Grays Peak
+Pacific Peak	parentPeak	Fletcher Mountain
+Rito Alto Peak	parentPeak	Mount Adams
+Mount Powell	parentPeak	Kings Peak
+Todd Crag	parentPeak	Loughrigg Fell
+Lone Pine Peak	parentPeak	Rosco Peak
+Mynydd Marchywel	parentPeak	Fan Gyhirych
+Hirfynydd	parentPeak	Fan Gyhirych
+Gwaunceste Hill	parentPeak	Great Rhos
+Mynydd-y-Gaer	parentPeak	Foel Fynyddau
+Piz d'Anschatscha	parentPeak	Piz Fliana
+Schibenstoll	parentPeak	Hinterrugg
+Zuestoll	parentPeak	Brisi
+Frümsel	parentPeak	Brisi
+Selun	parentPeak	Frümsel
+Mount Formidable	parentPeak	Dome Peak
+Noon Hill	parentPeak	Winter Hill
+Trabuco Peak	parentPeak	Santiago Peak
+Mount Irvine	parentPeak	Mount Mallory
+Engelmann Peak	parentPeak	Bard Peak
+Garfield Peak	parentPeak	Grizzly Peak
+Furggubäumhorn	parentPeak	Helsenhorn
+Piz Turba	parentPeak	Gletscherhorn
+Usser Wissberg	parentPeak	Piz Platta
+Piz Uffiern	parentPeak	Piz Blas
+Piz Buin Pitschen	parentPeak	Piz Buin
+Shah Kush	parentPeak	Hindu Kush
+Khar Kush	parentPeak	Hindu Kush
+Lolah-ye Gaw Kush	parentPeak	Hindu Kush
+Gilpin Peak	parentPeak	Mount Sneffels
+Koh-e Hindukush	parentPeak	Hindu Kush
+Kharkush	parentPeak	Hindu Kush
+Gaw Kush	parentPeak	Hindu Kush
+Kharkush	parentPeak	Hindu Kush
+Le Tâche	parentPeak	Cornettes de Bise
+Fil Kush	parentPeak	Hindu Kush
+Signalhorn	parentPeak	Silvrettahorn
+Pizzo di Zocca	parentPeak	Piz Cengalo
+Pointe de Boveire	parentPeak	Grand Combin
+Nasse Strahlegg	parentPeak	Schreckhorn
+Koh e Haj e Kushtah	parentPeak	Hindu Kush
+Gletscherchamm	parentPeak	Piz Buin
+Steitalhorn	parentPeak	Wyssegga
+Couronne de Bréona	parentPeak	Monte Rosa
+Chlein Seehorn	parentPeak	Gross Seehorn
+Biet	parentPeak	Druesberg
+Chli Aubrig	parentPeak	Gross Aubrig
+Kuh-e Hajji Koshteh	parentPeak	Alborz
+Resplendent Mountain	parentPeak	Mount Robson
+Scheidegg	parentPeak	Dosse
+Kushi	parentPeak	Hindu Kush
+Mount Mueller	parentPeak	Mount Baw Baw
+Silsilah ye Koh e Hindukush	parentPeak	Hindu Kush
+Weisshorn	parentPeak	Rohrbachstein
+Koh e Hindu	parentPeak	Hindu Kush
+Rotenfluh	parentPeak	Furggelenstock
+Tête aux Chamois	parentPeak	Diablerets
+Koh e Hindaki	parentPeak	Hindu Kush
+Koh e Alburz	parentPeak	Hindu Kush
+Koh e Alburz	parentPeak	Hindu Kush
+Planachaux	parentPeak	Dent de Corjon
+Le Noirmont	parentPeak	Mont Tendre
+Mont de Gourze	parentPeak	Montagne du Château
+Mont Risoux	parentPeak	Mont d'Or
+Cape au Moine	parentPeak	Le Tarent
+Mount Tupper	parentPeak	Swiss Peak
+Bush Mountain	parentPeak	Guadalupe Peak
+Mount Brunswick	parentPeak	Sky Pilot Mountain
+Mount Harvey	parentPeak	Brunswick Mountain
+Malatraix	parentPeak	Pointe d'Aveneyre
+Gimmigela Chuli	parentPeak	Kangchenjunga
+Pointe de Paray	parentPeak	Vanil Noir
+Siguang Ri	parentPeak	Cho Oyu
+Mount Bullock	parentPeak	Marion Peak
+Vanil de l'Ecri	parentPeak	Vanil Noir
+Jírova hill	parentPeak	Broumovská vrchovina
+Tievebaun Mountain	parentPeak	none - HP Ireland
+Mount Stephens	parentPeak	Thumb Peak
+Porong Ri	parentPeak	Shishapangma
+Yutmaru Sar	parentPeak	Yukshin Gardan Sar
+Kangpenqing	parentPeak	Shishapangma
+Apsarasas Kangri	parentPeak	Teram Kangri
+Kangphu Kang	parentPeak	Tongshanjiabu
+Khartaphu	parentPeak	Everest
+Langtang Ri	parentPeak	Shishapangma
+Strela	parentPeak	Aroser Rothorn
+Singhi Kangri	parentPeak	Teram Kangri III
+Arnihaaggen	parentPeak	Brienzer Rothorn
+Mullach Clach a' Bhlàir	parentPeak	Sgòr Gaoith
+Chüemettler	parentPeak	Speer and Federispitz
+Quille du Diable	parentPeak	Diablerets
+Sky Pilot Mountain	parentPeak	Mamquam Mountain
+Gaisspitze	parentPeak	Glatter Berg
+Hoher Riffler	parentPeak	Muttler
+Lingtren	parentPeak	Pumori
+Mount Hicks	parentPeak	Mount Dampier
+Kamor	parentPeak	Hoher Kasten
+Mount Bradley	parentPeak	Mount Keith
+Scheibler	parentPeak	Kuchenspitze
+Damülser Mittagsspitze	parentPeak	Glatthorn
+Selibüel	parentPeak	Schafberg
+Little Whernside	parentPeak	Great Whernside
+Tyneham Cap	parentPeak	Swyre Head
+Y Glog	parentPeak	Pumlumon Fawr
+Drei Türme	parentPeak	Piz Kesch
+Sugarloaf Mountain	parentPeak	Breakneck Ridge
+Broad Cairn	parentPeak	Cairn Bannoch
+Cairn Bannoch	parentPeak	Carn an t-Sagairt Mòr
+Cairn of Claise	parentPeak	Glas Maol
+Carn an Tuirc	parentPeak	Cairn of Claise
+Mont d'Or	parentPeak	Crêt de la Neige
+Pic de Tenneverge	parentPeak	Tour Sallière
+Piz Val Nera	parentPeak	Piz Paradisin
+Piz Vatgira	parentPeak	Piz Gannaretsch
+Calkins Peak	parentPeak	Castle Peak
+Annapurna I East	parentPeak	Annapurna
+South Summit	parentPeak	Mount Everest
+Annapurna I Middle Peak	parentPeak	Annapurna I Main
+Lhotse Middle	parentPeak	Lhotse
+Cosdon Hill	parentPeak	High Willhays
+North Yolla Bolly Mountain	parentPeak	Mount Linn
+Mount Fox	parentPeak	Mount Dawson
+Stately Pleasure Dome	parentPeak	Polly Dome
+Brown Knoll	parentPeak	Kinder Scout
+Featherbed Moss	parentPeak	Black Hill
+Featherbed Top	parentPeak	Kinder Scout
+Mill Hill	parentPeak	Kinder Scout
+Lost Lad	parentPeak	Back Tor
+Oliver Hill	parentPeak	Shining Tor
+Black Edge	parentPeak	Shining Tor
+Breithornzwillinge	parentPeak	Breithorn
+Mullach Fraoch-choire	parentPeak	A' Chràlaig
+Moel y Garnedd	parentPeak	Arenig Fawr
+Pen Ty-Nant	parentPeak	Arenig Fawr
+Timber Mountain	parentPeak	Telegraph Peak
+Hangingstone Hill	parentPeak	High Willhays
+Cut Hill	parentPeak	High Willhays
+Amicombe Hill	parentPeak	High Willhays

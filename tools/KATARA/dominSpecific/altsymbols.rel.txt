@@ -1,0 +1,676 @@
+Lactase	altsymbols	LAC; LPH; LPH1
+Superoxide dismutase	altsymbols	ALS, ALS1
+Superoxide dismutase	altsymbols	Mn-SOD; IPO-B; MVCD6
+Superoxide dismutase	altsymbols	EC-SOD; MGC20077
+Trypsin	altsymbols	1.0
+Trypsin	altsymbols	TRYP2
+Trypsin	altsymbols	PRSS4
+Chymosin	altsymbols	CPC
+Beta-galactosidase	altsymbols	ELNR1
+Alcohol dehydrogenase	altsymbols	ADH1
+Alcohol dehydrogenase	altsymbols	ADH2
+Alcohol dehydrogenase	altsymbols	ADH3
+Iodothyronine deiodinase	altsymbols	TXDI1
+Iodothyronine deiodinase	altsymbols	TXDI2, SelY
+Iodothyronine deiodinase	altsymbols	TXDI3
+CD32	altsymbols	FCG2, FCGR2A1, FCGR2
+CD32	altsymbols	FCG2, FCGR2
+Luteinizing hormone	altsymbols	HCG, GPHa, GPHA1
+Orexin	altsymbols	PPOX, OX
+Human chorionic gonadotropin	altsymbols	FSHA, GPHa, GPHA1, HCG, LHA, TSHA
+Human chorionic gonadotropin	altsymbols	CGB3
+Fructose 1,6-bisphosphatase	altsymbols	FBP
+Cyclooxygenase	altsymbols	COX-1
+Cyclooxygenase	altsymbols	COX-2
+Thyroid-stimulating hormone	altsymbols	HCG, GPHa, GPHA1
+Gamma-glutamyl transpeptidase	altsymbols	GGT
+Substance P	altsymbols	TAC2, NKNA
+BK channel	altsymbols	SLO
+BK channel	altsymbols	KCNMB2, KCNMBL
+BK channel	altsymbols	KCNMB2L, KCNMBLP
+Ferritin	altsymbols	FTHL6
+Protein disulfide-isomerase	altsymbols	PDIP
+Protein disulfide-isomerase	altsymbols	GRP58
+Protein disulfide-isomerase	altsymbols	TXNDC7
+Clathrin	altsymbols	CHC, CHC17, CLTCL2
+Clathrin	altsymbols	CLTCL
+SAR1A	altsymbols	SARA1
+Cytochrome C1	altsymbols	UQCR4, MC3DN6
+Bradykinin	altsymbols	KNG, BDK
+Cholinesterase	altsymbols	YT
+Cholinesterase	altsymbols	CHE1, CHE2, E1
+Galactokinase	altsymbols	GALK
+Cannabinoid receptor	altsymbols	CNR
+Peroxisome proliferator-activated receptor	altsymbols	PPAR
+Angiotensin receptor	altsymbols	AGTR1B
+Calcineurin	altsymbols	CALN, CALNA
+Calcineurin	altsymbols	CALNB
+Glycophorin C	altsymbols	GPC, GYPD, Ge, CD236, CD236R
+RecQ helicase	altsymbols	C9orf76
+Glutamate dehydrogenase	altsymbols	GLUD
+Glutamate dehydrogenase	altsymbols	GLUDP1
+High-molecular-weight kininogen	altsymbols	KNG, BDK
+Ferredoxin	altsymbols	FDX
+Epoxide hydrolase	altsymbols	ABHD9
+Epoxide hydrolase	altsymbols	ABHD7
+Internexin	altsymbols	NEF5
+Neurofilament	altsymbols	NEFM
+Neurofilament	altsymbols	NEF5
+Factor XIII	altsymbols	F13A
+Microcephalin	altsymbols	Microcephalin, BRIT1
+Estrogen receptor	altsymbols	ER-α, NR3A1
+Estrogen receptor	altsymbols	ER-β, NR3A2
+Glutamate decarboxylase	altsymbols	glutamate decarboxylase 1
+Glutamate decarboxylase	altsymbols	; GAD67
+Glutamate decarboxylase	altsymbols	GAD65
+Fibrillin	altsymbols	FBN, MFS1, WMS
+Fibrillin	altsymbols	CCA
+Ryanodine receptor	altsymbols	MHS, MHS1, CCO
+Amelogenin	altsymbols	AMG, AIH1
+Amelogenin	altsymbols	AMGL
+Interleukin 12	altsymbols	CLMF1, NKSF1, p35
+Interleukin 12	altsymbols	CLMF2, NKSF2, p40
+Aconitase	altsymbols	IREB1
+Aconitase	altsymbols	ACONM
+CGMP-dependent protein kinase	altsymbols	PRKGR1B, PRKG1B
+Amyloid beta	altsymbols	AD1
+Protease-activated receptor	altsymbols	PAR1
+Protease-activated receptor	altsymbols	PAR2, GPR11
+Protease-activated receptor	altsymbols	PAR3
+Protease-activated receptor	altsymbols	PAR4
+Caveolin	altsymbols	CAV
+T-cell receptor	altsymbols	TCRA
+T-cell receptor	altsymbols	TCRB
+GABAB receptor	altsymbols	GPR51
+Glycogenin	altsymbols	GYG
+CD1	altsymbols	CD1
+Hepatocyte nuclear factor 4	altsymbols	TCF14, MODY, MODY1
+CD8	altsymbols	CD8
+CD8	altsymbols	CD8B1
+Hypoxia-inducible factors	altsymbols	HIF1B, bHLHe2
+Hypoxia-inducible factors	altsymbols	HIF2A, MOP2, PASD2, HLF
+Hypoxia-inducible factors	altsymbols	HIF2B, KIAA0307, bHLHe1
+Glutamine synthetase	altsymbols	GLNS
+Growth hormone–releasing hormone	altsymbols	GRF, GHRF
+Relaxin	altsymbols	H1
+Relaxin	altsymbols	H2, RLXH2, bA12D24.1.1, bA12D24.1.2
+Relaxin	altsymbols	ZINS4, RXN3, H3
+Histone H3	altsymbols	H3F3
+Spermidine synthase	altsymbols	SRML1
+Androgen-binding protein	altsymbols	ABP
+GDP-fucose protein O-fucosyltransferase 2	altsymbols	C21orf80
+Collagen, type XI, alpha 2	altsymbols	DFNA13, DFNB53
+IKBKAP	altsymbols	FD, DYS, ELP1, IKAP, IKI3, TOT1, FLJ12497 and DKFZp781H1425
+Biliverdin reductase	altsymbols	BLVR
+Biliverdin reductase	altsymbols	FLR
+Methylmalonyl-CoA mutase deficiency	altsymbols	MCM
+Gonadotropin-releasing hormone receptor	altsymbols	GnRH-R; LRHR;
+IIIa	altsymbols	GP2B
+IIIa	altsymbols	GP3A
+4-Hydroxyphenylpyruvate dioxygenase	altsymbols	HPD; PPD
+Cytochrome b5	altsymbols	CYB5
+Cohesin	altsymbols	PDS3, RHC21, SCC1
+Cohesin	altsymbols	SCC3
+Cohesin	altsymbols	CHL10
+Cohesin	altsymbols	J1049
+Calbindin	altsymbols	CALB
+Fetuin	altsymbols	FETUA, A2HS, HSGA
+Fetuin	altsymbols	16
+KAL1 gene	altsymbols	KAL, ADMLX
+P300-CBP coactivator family	altsymbols	p300
+P300-CBP coactivator family	altsymbols	CBP, RSTS
+Ku	altsymbols	Ku80
+Ku	altsymbols	Ku70, G22P1
+Vasopressin receptor	altsymbols	Arginine vasopressin receptor 1A
+Vasopressin receptor	altsymbols	AVPR3
+Vasopressin receptor	altsymbols	DIR3, DIR
+Inositol monophosphatase	altsymbols	IMP; IMPA
+Inositol monophosphatase	altsymbols	IMPA3
+FCER1	altsymbols	FcεRIα, FCE1A
+FCER1	altsymbols	FcεRIβ, FCER1B, IGER, APY
+FCER1	altsymbols	FcεRIγ
+Agouti signalling peptide	altsymbols	AGTIL
+Guanylin	altsymbols	GUCA2
+Thyroid hormone receptor	altsymbols	THRA1, THRA2, ERBA1
+Thyroid hormone receptor	altsymbols	ERBA2
+Inositol oxygenase	altsymbols	ALDRL6
+Macrophage inflammatory protein	altsymbols	SCYA3, MIP-1α
+Macrophage inflammatory protein	altsymbols	SCYA4, MIP-1β, LAG1
+Deoxyribonuclease II	altsymbols	DNASE2A, DRN2, DNL, DNL2
+Kell antigen system	altsymbols	ECE3, CD238
+Ankyrin	altsymbols	AnkyrinR, Band2.1
+Ankyrin	altsymbols	AnkyrinB
+Ankyrin	altsymbols	AnkyrinG
+XK	altsymbols	XKR1, Kx, X1k
+Beta-glucosidase	altsymbols	CBGL1, KLRP
+Phosphoenolpyruvate carboxykinase	altsymbols	PEPCK-C
+Phosphoenolpyruvate carboxykinase	altsymbols	PEPCK-M, PEPCK2
+Cyclin A	altsymbols	CCNA, CCN1
+Cyclin E	altsymbols	CCNE
+Cyclin B	altsymbols	CCNB
+Arrestin	altsymbols	arrestin-1
+Arrestin	altsymbols	ARR1, arrestin-2
+Arrestin	altsymbols	ARR2, arrestin-3
+Arrestin	altsymbols	ARRX, arrestin-4
+Calcitonin gene-related peptide	altsymbols	CALC1
+Calcitonin gene-related peptide	altsymbols	CALC2
+Neuropeptide Y receptor	altsymbols	NPYR
+Neuropeptide Y receptor	altsymbols	NPY4R, Y4, PP1
+Phosphoglycerate mutase	altsymbols	PGAMA
+Casein kinase 1	altsymbols	HCKID; CSNK1D
+Casein kinase 1	altsymbols	HCKIE
+Flamingo	altsymbols	EGFL2
+Flamingo	altsymbols	EGFL1
+Lefty	altsymbols	LEFTB
+Lefty	altsymbols	TGFB4, EBAF
+Endothelin receptor	altsymbols	HSCR2, HSCR
+Alpha-Mannosidase	altsymbols	MANB
+Alpha-Mannosidase	altsymbols	KIAA0935
+Alpha-Mannosidase	altsymbols	MANA1, MANA
+Liver X receptor	altsymbols	UNR
+Hexosaminidase	altsymbols	FLJ23825
+Parathyroid hormone receptor	altsymbols	PTHR, PFE
+Platelet-derived growth factor receptor	altsymbols	PDGFR
+Vasoactive intestinal peptide receptor	altsymbols	RDC1, HVR1, VAPC1
+Vasoactive intestinal peptide receptor	altsymbols	VPAC2
+Vasoactive intestinal peptide receptor	altsymbols	PACAPR
+Tachykinin receptor	altsymbols	TAC1R
+Tachykinin receptor	altsymbols	TAC2R, NKNAR
+Archain	altsymbols	COPD
+Activin type 2 receptors	altsymbols	ACVR2
+CD98	altsymbols	MDU1, 4T2HC, 4F2, NACAE, CD98
+CD98	altsymbols	LAT1, E16, D16S469E, MPE16, CD98
+Sodium-glucose transport proteins	altsymbols	SGLT1
+Sodium-glucose transport proteins	altsymbols	SGLT2
+Sodium-glucose transport proteins	altsymbols	SGLT3, SAAT1, DJ90G24.4
+Factor D	altsymbols	DF, PFD
+C4b-binding protein	altsymbols	C4BP
+Na-K-Cl cotransporter	altsymbols	NKCC2
+Na-K-Cl cotransporter	altsymbols	NKCC1
+Neurturin	altsymbols	NTN
+IL-2 receptor	altsymbols	IL2R CD25
+IL-2 receptor	altsymbols	CD122
+IL-2 receptor	altsymbols	SCIDX1, IMD4, CD132
+Lysyl hydroxylase	altsymbols	LLH, PLOD
+Aryl hydrocarbon receptor repressor	altsymbols	AHH, AHHR
+Ataxin 7	altsymbols	SCA7
+Vitamin K epoxide reductase	altsymbols	VKCFD2
+Interleukin-3 receptor	altsymbols	CD123
+Interleukin-3 receptor	altsymbols	IL3RY, IL3RAY
+Villin	altsymbols	VIL
+Interleukin-1 receptor	altsymbols	IL1R, IL1RA
+Interleukin-1 receptor	altsymbols	IL1RB
+Interleukin-1 receptor	altsymbols	IL-1RAcP, IL1R3, C3orf13
+Estrogen-related receptor	altsymbols	ESRL1
+Estrogen-related receptor	altsymbols	ESRL2
+Duodenal cytochrome B	altsymbols	DCYTB
+CD3	altsymbols	T3D
+Diacylglycerol lipase	altsymbols	C11orf11
+Emopamil binding protein	altsymbols	CDPX2
+P14arf	altsymbols	CDKN2, MLM
+3beta-Hydroxysteroid dehydrogenase	altsymbols	HSDB3, HSD3B
+Extracellular signal–regulated kinases	altsymbols	PRKM2, PRKM1
+Extracellular signal–regulated kinases	altsymbols	PRKM3
+Azoospermia factor	altsymbols	AZF
+Transporter associated with antigen processing	altsymbols	ABCB2
+Transporter associated with antigen processing	altsymbols	ABCB3
+Calsequestrin	altsymbols	CASQ
+Sodium-calcium exchanger	altsymbols	NCX1
+Fel d 1	altsymbols	Fel d I, AG4, Allergen Cat-1
+Lymphotoxin	altsymbols	TNFB
+Lymphotoxin	altsymbols	TNFC
+Chimerin 1	altsymbols	CHN
+Apoptosis-inducing factor	altsymbols	PDCD8
+Son of Sevenless	altsymbols	GINGF
+Recoverin	altsymbols	RCV1
+Myelin-associated glycoprotein	altsymbols	GMA
+C-Jun N-terminal kinases	altsymbols	JNK1, PRKM8
+C-Jun N-terminal kinases	altsymbols	JNK2, PRKM9
+C-Jun N-terminal kinases	altsymbols	JNK3, PRKM10
+P38 mitogen-activated protein kinases	altsymbols	PRKM11
+P38 mitogen-activated protein kinases	altsymbols	SAPK3
+P38 mitogen-activated protein kinases	altsymbols	PRKM13
+P38 mitogen-activated protein kinases	altsymbols	CSPB1, CSBP1, CSBP2
+ATP-sensitive potassium channel	altsymbols	Kir6.1
+ATP-sensitive potassium channel	altsymbols	Kir6.2
+ATP-sensitive potassium channel	altsymbols	SUR1
+ATP-sensitive potassium channel	altsymbols	SUR2A, SUR2B
+Destrin	altsymbols	ADF
+CCL28	altsymbols	SCYA28, MEC, CCK1
+Presenilin	altsymbols	AD3
+Presenilin	altsymbols	AD4
+Interleukin 28	altsymbols	, IFNL2
+Interleukin 28	altsymbols	, IFNL3
+Interleukin 27	altsymbols	IL30, p28
+Interleukin 27	altsymbols	IL-27B
+Interleukin 17	altsymbols	IL17, CTLA8
+Interleukin 17	altsymbols	ZCOTO7
+Interleukin 17	altsymbols	, CX2
+Interleukin 17	altsymbols	Interleukin 25
+Interleukin 17	altsymbols	ML-1
+Tryptophan hydroxylase	altsymbols	TPRH, TPH
+Serum amyloid A	altsymbols	SAA3
+Serum amyloid A	altsymbols	C-SAA
+CCL1	altsymbols	SCYA1, I-309, TCA3, P500, SISe
+Clostridium perfringens alpha toxin	altsymbols	phospholipase C, CPE0036, Zn_dep_PLPC
+Enoyl-CoA hydratase	altsymbols	ECHD
+Inorganic pyrophosphatase	altsymbols	PP
+Pyruvate dehydrogenase	altsymbols	PDHA
+Pyruvate dehydrogenase	altsymbols	PDHAL
+Pyruvate dehydrogenase	altsymbols	PHE1B
+CCL13	altsymbols	SCYA13, MCP-4, NCC-1, SCYL1, CKb10
+CCL25	altsymbols	SCYA25, TECK, Ckb15
+Fibrocystin	altsymbols	TIGM1
+CCL14	altsymbols	SCYA14, HCC-1, HCC-3, NCC-2, SCYL2, CKb1, MCIF
+CCL16	altsymbols	SCYA16, NCC-4, SCYL4, LEC, HCC-4, LMC, LCC-1, CKb12, Mtn-1
+CCL15	altsymbols	-86400.0
+C1Q complex	altsymbols	C1QG
+CCL6	altsymbols	SCYA6, C10, MRP-1
+CCL23	altsymbols	SCYA23, Ckb-8, MPIF-1, MIP-3, CKb8
+CCL24	altsymbols	SCYA24, Ckb-6, MPIF-2, eotaxin-2
+CCL26	altsymbols	SCYA26, MIP-4alpha, eotaxin-3, IMAC, MIP-4a, TSC-1
+CCL27	altsymbols	SCYA27, ALP, ILC, CTACK, skinkine, ESkine, PESKY, CTAK
+CXCL2	altsymbols	SCYB2, GRO2, GROb, MIP-2a, MGSA-b, CINC-2a
+Heterochromatin protein 1	altsymbols	HP1-alpha
+Heterochromatin protein 1	altsymbols	HP1-beta
+Heterochromatin protein 1	altsymbols	HP1-gamma
+CXCL14	altsymbols	SCYB14, BRAK, NJAC, bolekine, Kec, MIP-2g, BMAC, KS1
+Procollagen peptidase	altsymbols	PRSM1
+Type II collagen	altsymbols	SEDC
+Type I collagen	altsymbols	OI4
+Neurokinin A	altsymbols	TAC2, NKNA
+Phenylethanolamine N-methyltransferase	altsymbols	PENT
+Neurotensin receptor	altsymbols	NTR
+Neurotensin receptor	altsymbols	NTR2
+Neurotensin receptor	altsymbols	Gp95, NT3
+Galanin receptor	altsymbols	GALNR1, GALNR
+Corticotropin-releasing hormone receptor	altsymbols	CRHR
+TGF beta receptor	altsymbols	ALK5
+TGF beta receptor	altsymbols	MFS2
+TGF beta receptor	altsymbols	β-Glycan
+Rhodopsin kinase	altsymbols	RHOK
+CAMP receptor protein	altsymbols	CAP
+Transferrin receptor	altsymbols	CD71, TFR1
+Transferrin receptor	altsymbols	HFE3, TFRC2
+Atrial natriuretic peptide receptor	altsymbols	ANPRA, NPRA
+Atrial natriuretic peptide receptor	altsymbols	ANPRB, NPRB
+Atrial natriuretic peptide receptor	altsymbols	ANPRC, NPRC
+Adenine nucleotide translocator	altsymbols	PEO3, PEO2, ANT1
+Adenine nucleotide translocator	altsymbols	ANT2
+Adenine nucleotide translocator	altsymbols	ANT3
+Neurophysin II	altsymbols	ARVP
+Oct-2	altsymbols	OTF2
+N-Acetylglucosamine receptor	altsymbols	NAGR1
+Sialoadhesin	altsymbols	SN, CD169
+beta receptor	altsymbols	IFNAR
+beta receptor	altsymbols	IFNABR
+Interferon-gamma receptor	altsymbols	IFNGR
+Interferon-gamma receptor	altsymbols	IFNGT1
+Formyl peptide receptor	altsymbols	FPR; FMLP
+Formyl peptide receptor	altsymbols	ALXR, FMLPX, FPR2/ALX, FPR2A, FPRH1, FPRL1, HM63, LXA4R, RFP
+Formyl peptide receptor	altsymbols	FPRH2, FPRL2, FMLPY
+Q-type calcium channel	altsymbols	CACNL1A4, SCA6, MHP1, MHP
+P-type calcium channel	altsymbols	Cav2.1, CACNL1A4, SCA6, MHP1, MHP
+Granin	altsymbols	CGA
+Granin	altsymbols	SCG1
+Granin	altsymbols	CHGC, SgII
+Granin	altsymbols	SGIII
+Granin	altsymbols	SGNE1
+OX40L	altsymbols	TXGP1, OX-40L, gp34, CD252
+CD70	altsymbols	CD27LG, TNFSF7
+CD153	altsymbols	CD30LG
+CXC chemokine receptors	altsymbols	RDC1
+Ras-GRF1	altsymbols	GRF1
+Odorant-binding protein	altsymbols	hOBPIIa, OBP
+Odorant-binding protein	altsymbols	hOBPIIb
+Low-molecular-weight kininogen	altsymbols	KNG, BDK
+Cyclin D	altsymbols	BCL1, D11S287E, PRAD1
+Transcription factor II H	altsymbols	BTF2
+Transcription factor II H	altsymbols	BTF2, TFIIH, BTF2P44, T-BTF2P44
+Transcription factor II H	altsymbols	BTF2, TFIIH
+Melanin-concentrating hormone receptor	altsymbols	GPR24
+Melanin-concentrating hormone receptor	altsymbols	GPR145
+LEM domain-containing protein 3	altsymbols	MAN1
+Zinc metalloproteinase STE24	altsymbols	FACE1, STE24, FACE-1, Ste24p, FLJ14968
+Long-chain-fatty-acid—CoA ligase	altsymbols	FACL2
+CXCL6	altsymbols	SCYB6, GCP-2, CKA-3
+CXCL16	altsymbols	SCYB16, SR-PSOX, CXCLG16
+CXCL17	altsymbols	SCYB17, VCC-1, DMC
+XCL1	altsymbols	SCYC1, LTN, LPTN, ATAC, SCM-1a, SCM-1
+XCL2	altsymbols	SCYC2, SCM-1b
+ERM transcription factor	altsymbols	ERM
+2-hydroxyphytanoyl-CoA lyase	altsymbols	HPCL
+STAT5	altsymbols	STAT5
+Mannose receptor	altsymbols	CD206
+Mannose receptor	altsymbols	CD280
+Sulfonylurea receptor	altsymbols	SUR1
+Sulfonylurea receptor	altsymbols	SUR2A, SUR2B
+Fascin	altsymbols	SNL
+CD79	altsymbols	IGA
+CD79	altsymbols	IGB
+PHLPP	altsymbols	PHLPP1, PLEKHE1
+PHLPP	altsymbols	PHLPP2
+VEGF receptor	altsymbols	FLT
+VEGF receptor	altsymbols	FLK1, VEGFR, VEGFR2, CD309
+VEGF receptor	altsymbols	VEGFR3, PCL
+Angiopoietin receptor	altsymbols	TIE, JTK14
+Angiopoietin receptor	altsymbols	TIE2, TIE-2, VMCM1, CD202b
+Lysosomal trafficking regulator	altsymbols	CHS1
+Talin protein	altsymbols	TLN
+CD16	altsymbols	FCGR3, FCG3
+KLRA1	altsymbols	KLRA1; Ly49; LY49L; Ly-49L
+NKG2	altsymbols	NKG2, NKG2-A, NKG2-B, CD159a
+CD58	altsymbols	LFA3
+Delta catenin	altsymbols	CTNND
+Potassium-dependent sodium-calcium exchanger	altsymbols	NCKX1
+Potassium-dependent sodium-calcium exchanger	altsymbols	NCKX2
+Potassium-dependent sodium-calcium exchanger	altsymbols	NCKX3
+Potassium-dependent sodium-calcium exchanger	altsymbols	NCKX4
+Potassium-dependent sodium-calcium exchanger	altsymbols	NCKX5
+Potassium-dependent sodium-calcium exchanger	altsymbols	NCKX6
+3-Hydroxyacyl ACP dehydrase	altsymbols	ECHD
+2,4 Dienoyl-CoA reductase	altsymbols	DECR
+Lanosterol 14 alpha-demethylase	altsymbols	CYP51, P45014DM
+Homogentisate 1,2-dioxygenase	altsymbols	AKU
+Ornithine translocase	altsymbols	ORNT1, HHH
+Carnitine-acylcarnitine translocase	altsymbols	CACT
+TRIF	altsymbols	TRIF
+Caspase 4	altsymbols	ICEII, ICH-2, TX
+Prostaglandin E synthase	altsymbols	MGST1L1
+Prostaglandin E synthase	altsymbols	C9orf15
+Prostaglandin E synthase	altsymbols	p23, TEBP, cPGES
+Caspase 5	altsymbols	ICEIII, ICH3
+Acyltransferase like 2	altsymbols	LPCAT
+Caspase 12	altsymbols	CASP12P1
+Hepatocyte nuclear factors	altsymbols	MODY3,HNF1, LFB1, HNF1A
+Hepatocyte nuclear factors	altsymbols	HNF1beta, LFB3 MODY5, VHNF1
+Hepatocyte nuclear factors	altsymbols	HNF3A
+Hepatocyte nuclear factors	altsymbols	HNF3B
+Hepatocyte nuclear factors	altsymbols	HNF3G
+Hepatocyte nuclear factors	altsymbols	MODY, MODY1, NR2A1, TCF14
+Hepatocyte nuclear factors	altsymbols	NR2A2
+Hepatocyte nuclear factors	altsymbols	HNF6, HNF6A
+Hepatocyte nuclear factors	altsymbols	HNF6B, OC-2
+Glutamyl aminopeptidase	altsymbols	gp160, CD249
+Leucyl aminopeptidase	altsymbols	PEPS
+IMP dehydrogenase	altsymbols	RP10
+IMP dehydrogenase	altsymbols	IMPD2
+CLEC4C	altsymbols	CLECSF11, CLECSF7
+Polynucleotide phosphorylase	altsymbols	PNPase, OLD35, old-35
+Collectin liver 1	altsymbols	CL-L1
+Surfactant protein C	altsymbols	SFTP2
+Surfactant protein A	altsymbols	SFTP1
+Branched chain aminotransferase	altsymbols	BCT
+SLC39A4	altsymbols	AEZ
+Phosphoribosylaminoimidazole carboxylase	altsymbols	PAIS
+Iron-responsive element-binding protein	altsymbols	IREB1
+SLC7A9	altsymbols	CSNU3
+N-acetylglucosamine-1-phosphate transferase	altsymbols	GNPTA
+N-acetylglucosamine-1-phosphate transferase	altsymbols	GNPTAG
+Citrin	altsymbols	CTLN2
+CD120	altsymbols	CD120a, TNFR1
+CD120	altsymbols	CD120a, TNFR2
+CSF2RB	altsymbols	IL3RB CD131
+Latent TGF-beta binding protein	altsymbols	TGF-beta1-BP-1
+Latent TGF-beta binding protein	altsymbols	LTBP3, C14orf141
+Latent TGF-beta binding protein	altsymbols	LTBP2
+Latent TGF-beta binding protein	altsymbols	LTBP-4, LTBP-4L
+Nuclear cap-binding protein complex	altsymbols	NCBP
+Polypyrimidine tract-binding protein	altsymbols	PTB
+Gremlin	altsymbols	CKTSF1B1
+BRN-3	altsymbols	BRN3A
+BRN-3	altsymbols	BRN3B
+BRN-3	altsymbols	BRN3C, DFNA15
+Gs alpha subunit	altsymbols	GNAS1
+TRPA	altsymbols	ANKTM1
+Gi alpha subunit	altsymbols	GNAI2B
+ATP2A2	altsymbols	ATP2B, DAR
+RAR-related orphan receptor	altsymbols	RZRA, ROR1, ROR2, ROR3, NR1F1
+RAR-related orphan receptor	altsymbols	RZRB, NR1F2, ROR-BETA
+RAR-related orphan receptor	altsymbols	RZRG, RORG, NR1F3, TOR
+Rev-ErbA	altsymbols	ear-1, hRev, Rev-ErbAalpha, THRA1
+Rev-ErbA	altsymbols	BD73, RVR, EAR-1r, HZF2, Hs.37288
+Testicular receptor	altsymbols	TR2
+Testicular receptor	altsymbols	TR4
+Chicken ovalbumin upstream promoter-transcription factor	altsymbols	ERBAL3, TFCOUP1, EAR-3, COUP-TFI, TCFCOUP1, SVP44
+Chicken ovalbumin upstream promoter-transcription factor	altsymbols	ARP1, TFCOUP2, COUP-TFII, COUPTFB, SVP40
+NSD1	altsymbols	STO
+GLUT8	altsymbols	GLUTX1, GLUT8
+Transcription factor II E	altsymbols	TF2E1
+Transcription factor II E	altsymbols	TF2E2
+Transcription factor II F	altsymbols	TFIIF, BTF4, RAP74
+Transcription factor II F	altsymbols	TFIIF, BTF4, RAP30
+Transcription factor II F	altsymbols	TFIIF
+Nucleoporin 210kDa	altsymbols	FLJ22389, GP210, KIAA0906, POM210
+Activating protein 2	altsymbols	TFAP2, AP2TF
+Activating protein 2	altsymbols	AP2-B
+Activating protein 2	altsymbols	TFAP2BL1
+Activating protein 2	altsymbols	AP2E
+Electron-transferring-flavoprotein dehydrogenase	altsymbols	ETF-QO
+P87PIKAP	altsymbols	p84,PIK3R6
+Group 1 CD1	altsymbols	CD1
+D-amino acid oxidase activator	altsymbols	G72, LG72, SG72
+EGF module-containing mucin-like hormone receptor	altsymbols	TM7LN3
+EGF module-containing mucin-like hormone receptor	altsymbols	GPR127
+Neuromedin U receptor	altsymbols	GPR66
+Neuromedin U receptor	altsymbols	NMU2R
+Prokineticin receptor	altsymbols	GPR73
+Prokineticin receptor	altsymbols	GPR73L1
+Free fatty acid receptor	altsymbols	GPR40
+Free fatty acid receptor	altsymbols	GPR43, FFA2R
+Free fatty acid receptor	altsymbols	GPR41, FFA3R
+Free fatty acid receptor	altsymbols	GPR41L, FFAR1L
+SREB	altsymbols	SREB1
+SREB	altsymbols	SREB2
+SREB	altsymbols	SREB3
+HMGA	altsymbols	HMGIY
+HMGA	altsymbols	HMGIC
+CDGSH iron sulfur domain	altsymbols	C10orf70, ZCD1
+CDGSH iron sulfur domain	altsymbols	ZCD1B
+CDGSH iron sulfur domain	altsymbols	ZCD2
+ICAM4	altsymbols	LW
+Formins	altsymbols	LD, FMN
+Retinoic acid-inducible orphan G protein-coupled receptor	altsymbols	RAIG1, RAI3
+Retinoic acid-inducible orphan G protein-coupled receptor	altsymbols	RAIG2
+Retinoic acid-inducible orphan G protein-coupled receptor	altsymbols	RAIG3
+Relaxin receptor	altsymbols	LGR7
+Relaxin receptor	altsymbols	LGR8, GREAT, GPR106, INSL3R
+Relaxin receptor	altsymbols	RLN3R1, SALPR, GPCR135
+Relaxin receptor	altsymbols	GPR100, GPCR142, RLN3R2
+VPS13B	altsymbols	CHS1, COH1
+IκB kinase	altsymbols	IKK-alpha, IKK1, TCF16
+IκB kinase	altsymbols	IKK-beta, IKK2
+IκB kinase	altsymbols	IKK-gamma, NEMO, IP2, IP1
+3-hydroxyacyl-CoA dehydrogenase	altsymbols	HADHSC
+DnaS	altsymbols	dnaS; ECK3630; JW3615; sof
+Phytanoyl-CoA dioxygenase	altsymbols	PhyH
+Neuropeptide FF receptor	altsymbols	GPR147
+Neuropeptide FF receptor	altsymbols	GPR74
+W receptor	altsymbols	GPR7
+W receptor	altsymbols	GPR8
+MT-RNR1	altsymbols	MTRNR1
+HLA-DO	altsymbols	HLA-DZA, HLA-DNA
+Interleukin-7 receptor	altsymbols	CD127
+Interleukin-7 receptor	altsymbols	SCIDX1, IMD4, CD132
+Membrane-bound transcription factor site-2 protease	altsymbols	S2P
+MT-TH	altsymbols	MTTH
+MT-TL1	altsymbols	MTTL1
+Hydroxymethylglutaryl-CoA synthase	altsymbols	HMGCS
+Serine C-palmitoyltransferase	altsymbols	HSN1
+Serine C-palmitoyltransferase	altsymbols	C20orf38, SPTLC2L
+Sterol O-acyltransferase	altsymbols	ACAT, SOAT, STAT
+Sterol O-acyltransferase	altsymbols	ACAT2
+Latrophilin	altsymbols	ETL
+Latrophilin	altsymbols	KIAA0821, CIRL1, LEC2
+Latrophilin	altsymbols	LPHH1, KIAA0786, LEC1
+Latrophilin	altsymbols	KIAA0768, LEC3
+Huntingtin-associated protein 1	altsymbols	HAP2
+Lactate dehydrogenase	altsymbols	LDHM
+Lactate dehydrogenase	altsymbols	LDHL
+Interleukin-18 receptor	altsymbols	IL1RRP, IL-1Rrp, CD218a
+Interleukin-18 receptor	altsymbols	AcPL, CD218b
+Palmitoyl protein thioesterase	altsymbols	PPT
+Palmitoyl protein thioesterase	altsymbols	G14
+Neurogenins	altsymbols	NEUROD3
+G protein-coupled inwardly-rectifying potassium channel	altsymbols	Kir3.1, GIRK1, KGA
+G protein-coupled inwardly-rectifying potassium channel	altsymbols	KCNJ7, Kir3.2, GIRK2, KATP2, BIR1, hiGIRK2
+G protein-coupled inwardly-rectifying potassium channel	altsymbols	Kir3.3, GIRK3
+G protein-coupled inwardly-rectifying potassium channel	altsymbols	Kir3.4, CIR, KATP1, GIRK4
+Interleukin-5 receptor	altsymbols	IL5R
+Interleukin-5 receptor	altsymbols	IL3RB
+Interleukin-12 receptor	altsymbols	IL12RB, CD212
+Interleukin-13 receptor	altsymbols	IL-13Ra, NR4, CD213a1
+Interleukin-13 receptor	altsymbols	IL-13R, IL13BP, CD213a2
+Interleukin-13 receptor	altsymbols	IL4RA; CD124
+Interleukin-15 receptor	altsymbols	CD122
+Interleukin-15 receptor	altsymbols	SCIDX1, IMD4
+Interleukin-27 receptor	altsymbols	WSX-1, TCCR, CRL1, WSX1, zcytor1, IL-27R
+Interleukin-27 receptor	altsymbols	GP130, CD130
+Interleukin-20 receptor	altsymbols	ZCYTOR7, IL-20R1
+Interleukin-20 receptor	altsymbols	FNDC6
+Interleukin-10 receptor	altsymbols	IL10R
+Interleukin-10 receptor	altsymbols	CRFB4, D21S58, D21S66
+Interleukin-22 receptor	altsymbols	IL22R
+Interleukin-28 receptor	altsymbols	CRF2/12, IFNLR, IL-28R1
+Interleukin-28 receptor	altsymbols	CRFB4, D21S58, D21S66
+Interleukin-8 receptor	altsymbols	CMKAR1, CXCR1, CKR-1, CDw128a, CD181
+Interleukin-8 receptor	altsymbols	CXCR2, CMKAR2, CD182
+MALT1	altsymbols	MLT
+Interleukin-17 receptor	altsymbols	IL17R, CDw217
+Interleukin-17 receptor	altsymbols	IL17BR
+Interleukin-17 receptor	altsymbols	IL17-RL
+Interleukin-17 receptor	altsymbols	SEF, IL17RLM, FLJ35755, IL-17RD
+Interleukin-17 receptor	altsymbols	FLJ23658
+TRIM50	altsymbols	TRIM50A; FLJ32804; MGC138357; MGC138359
+Paraoxonase	altsymbols	PON
+GRIK4	altsymbols	GRIK, KA1
+Repulsive guidance molecule	altsymbols	RGM
+Repulsive guidance molecule	altsymbols	DRAGON
+Repulsive guidance molecule	altsymbols	RGMC, HJV, hemojuvelin
+FKBP6	altsymbols	FKBP36; MGC87179
+AHSA2	altsymbols	Hch1
+HSP90AA2	altsymbols	HSPCAL3
+TFAP2E	altsymbols	AP2E
+TFAP2D	altsymbols	TFAP2BL1
+Major histocompatibility complex, class II, DP alpha 1	altsymbols	HLA-DP1A
+HLA-DQB3	altsymbols	HLA-DVB
+FAM123B	altsymbols	WTX
+TIE1	altsymbols	TIE, JTK14
+ELMO3	altsymbols	CED12, FLJ13824
+TOX3	altsymbols	TNRC9, CAGF9
+TOX2	altsymbols	C20orf100, GCX-1
+EID2	altsymbols	CRI2
+FGF11	altsymbols	FHF3, FLJ16061, MGC45269, MGC102953
+GPD1L	altsymbols	KIAA0089
+FANCM	altsymbols	KIAA1596
+DHH	altsymbols	HHG-3, MGC35145
+HHAT	altsymbols	FLJ10724, MART-2, MART2, GUP2
+MT-RNR2	altsymbols	MTRNR2
+MT-TA	altsymbols	MTTA
+MT-TV	altsymbols	MTTV
+Nucleoporin 188	altsymbols	KIAA0169
+Xg antigen system	altsymbols	PBDX
+GLIS2	altsymbols	NPHP7
+RPGRIP1L	altsymbols	NPHP8, KIAA1005, CORS3, JBTS7, MKS5, FTM
+SGEF	altsymbols	CSGEF, HMFN1864
+Cdc6	altsymbols	YJL194W
+Sic1	altsymbols	YLR079W, SDB25, SIC1_YEAST, CDK inhibitor p40
+CEACAM4	altsymbols	CGM7
+H1F0	altsymbols	H1FV
+H1FNT	altsymbols	HANP1, H1T2
+MDGA2	altsymbols	MAMDC1
+EIF4A	altsymbols	EIF4A
+EIF4A	altsymbols	EIF4F
+EIF4A	altsymbols	DDX48
+Patched	altsymbols	NBCCS, PTCH
+CKMT1A	altsymbols	CKMT1
+Pho4	altsymbols	YFR034C
+MT-TR	altsymbols	MTTR
+MT-TM	altsymbols	MTTM
+MT-TP	altsymbols	MTTP
+MT-TL2	altsymbols	MTTL2
+MT-TQ	altsymbols	MTTQ
+MT-TK	altsymbols	MERRF, MTTK
+MT-TF	altsymbols	MTTF
+MT-TE	altsymbols	MTTE
+MT-TG	altsymbols	MTTG
+MT-TI	altsymbols	MTTI
+MT-TN	altsymbols	MTTN
+MT-TS1	altsymbols	MTTS1
+MT-TS2	altsymbols	MTTS2
+MT-TY	altsymbols	MTTY
+MT-TT	altsymbols	MTTT
+MT-TW	altsymbols	MTTW
+MT-TC	altsymbols	MTTC
+MT-TD	altsymbols	MTTD
+40S ribosomal protein S4, Y isoform 2	altsymbols	RPS4Y2P
+Mu hemoglobin	altsymbols	HBAP2
+KRT77	altsymbols	KRT1B
+KRT25	altsymbols	KRT25A
+KRT27	altsymbols	KRT25C
+KRT28	altsymbols	KRT25D
+KRT26	altsymbols	KRT25B
+KRT84	altsymbols	KRTHB4
+KRT82	altsymbols	KRTHB2
+KRT38	altsymbols	KRTHA8
+KRT37	altsymbols	KRTHA7
+KRT35	altsymbols	KRTHA5
+FUT4	altsymbols	CD15, FCT3A, ELFT, SSEA-1, LeX
+Interferon gamma receptor 2	altsymbols	IFNGT1
+Wee1	altsymbols	wee1 dual specificity protein kinase Wee1
+Slit	altsymbols	SLIL1
+Slit	altsymbols	SLIL3
+Slit	altsymbols	SLIL2
+Activin and inhibin	altsymbols	activin A
+Activin and inhibin	altsymbols	activin B
+Activin and inhibin	altsymbols	activin C
+Activin and inhibin	altsymbols	activin E
+Transmembrane protein 53	altsymbols	FLJ22353, RP4-678E16.2
+Tuberous sclerosis protein	altsymbols	TSC
+Tuberous sclerosis protein	altsymbols	TSC4
+Senescence-associated beta-galactosidase	altsymbols	SA-β-Gal
+PXK	altsymbols	FLJ20335, MONaKA
+GPR137B	altsymbols	TM7SF1
+G protein-coupled receptor kinase 7	altsymbols	GPRK7
+CobB	altsymbols	cobB, ycfY
+DNA damage-binding protein	altsymbols	XPE
+DNA damage-binding protein	altsymbols	DBB, UV-DDB2, FLJ34321
+Gcn2	altsymbols	AAS1
+Cell division control protein 4	altsymbols	cell division control protein 4
+Cell division control protein 4	altsymbols	F-box and WD-40 domain-containing protein 7, F-box protein FBX30, Archipelago homolog , SEL-10, hCdc4
+Cell division control protein 4	altsymbols	Suppressor/enhancer of lin-12 protein 10\nEgg laying defective protein 41
+Rho-associated protein kinase	altsymbols	Rho-associated, coiled-coil-containing protein kinase
+MDia1	altsymbols	DRF1
+Chemerin peptide	altsymbols	Chemerin
+Receptor tyrosine kinase-like orphan receptor	altsymbols	NTRKR1
+Receptor tyrosine kinase-like orphan receptor	altsymbols	NTRKR2, BDB, BDB1
+DHDPSL	altsymbols	C10orf65
+EHHADH	altsymbols	ECHD
+Protein phosphatase 1	altsymbols	PP1, PP1a, MGC15877, MGC1674, PP-1A, PP1alpha, PPP1A
+Protein phosphatase 1	altsymbols	PP1, PP1b, PP1beta, PP-1B; PPP1CD; MGC3672; PP1beta; PPP1CB
+Protein phosphatase 1	altsymbols	3.15576E7
+TGM5	altsymbols	Transglutaminase X, TGX
+Transmembrane Protein 175	altsymbols	MGC4618
+Map44	altsymbols	CRARF, PRSS5
+C3orf14-Chromosome 3 open reading frame 14	altsymbols	LOC57415, FLJ94553 and FLJ17473
+Cubam	altsymbols	PRO1028
+Cubam	altsymbols	1.0
+N-Terminal peptide of proopiomelanocortin	altsymbols	NPP; pro-γ-MSH
+Relaxin family peptide hormones	altsymbols	H1
+Relaxin family peptide hormones	altsymbols	H2, RLXH2, bA12D24.1.1, bA12D24.1.2
+Relaxin family peptide hormones	altsymbols	ZINS4, RXN3, H3
+MTORC1	altsymbols	FRAP, FRAP2, FRAP1
+MTORC1	altsymbols	KOG1, Mip1
+MTORC2	altsymbols	FRAP, FRAP2, FRAP1
+ABCE1	altsymbols	RLI, OABP
+Cycle	altsymbols	bmal1
+Interleukin 23	altsymbols	CLMF2, NKSF2, p40
+Copeptin	altsymbols	copeptine
+Ceramide synthase 4	altsymbols	LASS4
+Ceramide synthase 5	altsymbols	LASS5
+Acyl-CoA:lysocardiolipin acyltransferase-1	altsymbols	LCLAT1, LYCAT
+Prp8	altsymbols	USA2, DBF3, DNA39, RNA8, SLT21
+Neuropeptide VF precursor	altsymbols	RPFP
+Intelectin	altsymbols	hIntL-1
+Mitochondrial calcium uniporter	altsymbols	C10orf42, CCDC109A, FLJ46135
+GPATCH11	altsymbols	CCDC75, CENPY

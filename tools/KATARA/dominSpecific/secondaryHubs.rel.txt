@@ -1,0 +1,444 @@
+Qantas	secondaryHubs	Adelaide Airport
+Qantas	secondaryHubs	Dubai International Airport
+Qantas	secondaryHubs	Perth Airport
+America West Airlines	secondaryHubs	*Port Columbus International Airport
+Avianca	secondaryHubs	* Juan Santamaría International Airport \n* Mariscal Sucre International Airport
+Aeroméxico	secondaryHubs	* General Mariano Escobedo International Airport
+Aerolíneas Argentinas	secondaryHubs	Ministro Pistarini International Airport
+Trans World Airlines	secondaryHubs	United States of America
+Trans World Airlines	secondaryHubs	Pittsburgh International Airport
+Malaysia Airlines	secondaryHubs	*
+Malaysia Airlines	secondaryHubs	Kota Kinabalu International Airport
+Malaysia Airlines	secondaryHubs	Kuching International Airport
+DAS Air Cargo	secondaryHubs	Jomo Kenyatta International Airport
+DAS Air Cargo	secondaryHubs	Dubai International Airport
+DAS Air Cargo	secondaryHubs	Entebbe International Airport
+DAS Air Cargo	secondaryHubs	Murtala Mohammed International Airport
+Ariana Afghan Airlines	secondaryHubs	Kandahar International Airport
+AirBaltic	secondaryHubs	* Tallinn Airport\n* Vilnius Airport
+Garuda Indonesia	secondaryHubs	*
+Garuda Indonesia	secondaryHubs	Juanda International Airport
+Garuda Indonesia	secondaryHubs	Sultan Aji Muhammad Sulaiman Airport
+SAM Colombia	secondaryHubs	Terminal Puente Aéreo
+SAM Colombia	secondaryHubs	José María Córdova International Airport
+Australian Airlines	secondaryHubs	Sydney Airport
+Japan Airlines	secondaryHubs	*
+Japan Airlines	secondaryHubs	Kansai International Airport
+Japan Airlines	secondaryHubs	Osaka International Airport
+All Nippon Airways	secondaryHubs	*
+All Nippon Airways	secondaryHubs	Kansai International Airport
+All Nippon Airways	secondaryHubs	Osaka International Airport
+Balkan Bulgarian Airlines	secondaryHubs	*
+Balkan Bulgarian Airlines	secondaryHubs	Varna Airport
+Balkan Bulgarian Airlines	secondaryHubs	Burgas Airport
+Balkan Bulgarian Airlines	secondaryHubs	Plovdiv Airport
+Envoy Air	secondaryHubs	* Miami International Airport\n* LaGuardia Airport\n* John F. Kennedy International Airport\n* Los Angeles International Airport
+Ansett Australia	secondaryHubs	*Perth Airport\n*Brisbane Airport
+Biman Bangladesh Airlines	secondaryHubs	Shah Amanat International Airport
+Biman Bangladesh Airlines	secondaryHubs	Osmani International Airport
+AirAsia	secondaryHubs	* Kota Kinabalu International Airport\n* Penang International Airport\n* Kuching International Airport\n* Senai International Airport\n* Langkawi International Airport
+Aloha Airlines	secondaryHubs	John Wayne Airport
+Philippine Airlines	secondaryHubs	Mactan-Cebu International Airport
+Air Georgian	secondaryHubs	Montréal-Pierre Elliott Trudeau International Airport
+British European Airways	secondaryHubs	Croydon Airport
+British European Airways	secondaryHubs	Liverpool John Lennon Airport
+British European Airways	secondaryHubs	Manchester Airport
+British European Airways	secondaryHubs	Renfrew Airport
+British European Airways	secondaryHubs	Glasgow International Airport
+British European Airways	secondaryHubs	Jersey Airport
+British European Airways	secondaryHubs	Guernsey Airport
+British European Airways	secondaryHubs	Berlin Tempelhof Airport
+Air Lithuania	secondaryHubs	Palanga International Airport
+Indian	secondaryHubs	* Chennai International Airport\n* Netaji Subhash Chandra Bose International Airport
+Vietnam Airlines	secondaryHubs	Da Nang International Airport
+China Southern Airlines	secondaryHubs	* Chongqing Jiangbei International Airport\n* Shanghai Pudong International Airport\n* Ürümqi Diwopu International Airport
+Líneas Aéreas Privadas Argentinas	secondaryHubs	Ministro Pistarini International Airport
+Air Namibia	secondaryHubs	Windhoek Eros Airport
+LATAM Chile	secondaryHubs	*El Dorado International Airport\n*Jorge Chávez International Airport\n*José Joaquín de Olmedo International Airport\n*Jorge Newbery Airfield
+JALways	secondaryHubs	Kansai International Airport
+Nok Air	secondaryHubs	Chiang Mai International Airport
+Bangkok Airways	secondaryHubs	*
+Bangkok Airways	secondaryHubs	Phuket International Airport
+Bangkok Airways	secondaryHubs	Chiang Mai International Airport
+Japan Air System	secondaryHubs	Fukuoka Airport
+Japan Air System	secondaryHubs	Chūbu Centrair International Airport
+Japan Air System	secondaryHubs	New Chitose Airport
+Jetstar Airways	secondaryHubs	*Auckland Airport\n*Brisbane Airport\n*Sydney Airport\n*Gold Coast Airport\n*Cairns Airport
+Fiji Airways	secondaryHubs	Nausori International Airport
+Transaero	secondaryHubs	* Sochi\n* Yekaterinburg
+Olympic Airlines	secondaryHubs	Thessaloniki International Airport, %22Macedonia%22
+Montenegro Airlines	secondaryHubs	Tivat Airport
+China Eastern Airlines	secondaryHubs	*Beijing Capital International Airport\n*Kunming Changshui International Airport\n*Xi'an Xianyang International Airport
+Jet Airways	secondaryHubs	* Amsterdam Airport Schiphol\n* Abu Dhabi International Airport\n* Chennai International Airport \n* Indira Gandhi International Airport \n* Kempegowda International Airport \n* Netaji Subhash Chandra Bose International Airport
+JetLite	secondaryHubs	*Chhatrapati Shivaji International Airport \n*Netaji Subhash Chandra Bose International Airport
+BWIA West Indies Airways	secondaryHubs	Grantley Adams International Airport
+BWIA West Indies Airways	secondaryHubs	Cheddi Jagan International Airport
+Frontier Flying Service	secondaryHubs	* Wiley Post–Will Rogers Memorial Airport\n* Ted Stevens Anchorage International Airport\n* Ralph Wien Memorial Airport\n* Bethel Airport
+Harbour Air Seaplanes	secondaryHubs	Vancouver International Water Airport
+Harbour Air Seaplanes	secondaryHubs	Nanaimo Harbour Water Airport
+SAHSA	secondaryHubs	Ramón Villeda Morales International Airport
+Kiwi International Air Lines	secondaryHubs	Atlanta International Airport
+Kiwi International Air Lines	secondaryHubs	Miami International Airport
+Singapore Airlines Cargo	secondaryHubs	Amsterdam Airport Schiphol
+Laker Airways	secondaryHubs	Manchester Airport
+Lion Air	secondaryHubs	*Adisumarmo International Airport
+Iran Air Tours	secondaryHubs	Mashhad International Airport
+Kish Air	secondaryHubs	Mashhad International Airport
+Lufthansa Cargo	secondaryHubs	*
+Lufthansa Cargo	secondaryHubs	Rajiv Gandhi International Airport
+Lufthansa Cargo	secondaryHubs	Yemelyanovo Airport
+Lufthansa Cargo	secondaryHubs	Tolmachevo Airport
+Lufthansa Cargo	secondaryHubs	
+Thai AirAsia	secondaryHubs	Chiang Mai International Airport
+Thai AirAsia	secondaryHubs	Phuket International Airport
+Thai AirAsia	secondaryHubs	Krabi International Airport
+Thai AirAsia	secondaryHubs	U-Tapao International Airport
+Thai AirAsia	secondaryHubs	Hat Yai International Airport
+Westcoast Air	secondaryHubs	Vancouver International Water Aerodrome
+Westcoast Air	secondaryHubs	Victoria Inner Harbour Airport
+Westcoast Air	secondaryHubs	Nanaimo Harbour Water Aerodrome
+Aero Asia International	secondaryHubs	Allama Iqbal International Airport
+Hellas Jet	secondaryHubs	Heraklion Airport
+Aeromar Líneas Aéreas Dominicanas	secondaryHubs	*Cibao International Airport\n*John F. Kennedy Int'l Airport
+Air Alps	secondaryHubs	Malpensa Airport
+Air Creebec	secondaryHubs	Victor M. Power Airport
+Indonesia AirAsia	secondaryHubs	*
+Indonesia AirAsia	secondaryHubs	Ngurah Rai International Airport
+Indonesia AirAsia	secondaryHubs	Husein Sastranegara International Airport
+Air Antilles Express	secondaryHubs	Martinique Aimé Césaire International Airport
+South African Express	secondaryHubs	Cape Town International Airport
+Blue Air	secondaryHubs	Turin Airport
+Ted	secondaryHubs	*Los Angeles International Airport\n*O'Hare International Airport\n*San Francisco International Airport\n*Washington Dulles International Airport
+Orenair	secondaryHubs	*Domodedovo International Airport \n*Simferopol International Airport
+Royal Phnom Penh Airways	secondaryHubs	Angkor International Airport
+Cobham Aviation Services Australia	secondaryHubs	Darwin International Airport
+Cobham Aviation Services Australia	secondaryHubs	Cairns International Airport
+Cobham Aviation Services Australia	secondaryHubs	Perth Airport
+Cobham Aviation Services Australia	secondaryHubs	Brisbane Airport
+Comores Aviation International	secondaryHubs	Ouani Airport
+Ural Airlines	secondaryHubs	*
+Ural Airlines	secondaryHubs	Domodedovo International Airport
+Ural Airlines	secondaryHubs	Pulkovo Airport
+Darwin Airline	secondaryHubs	Leonardo da Vinci-Fiumicino Airport
+Atlas Blue	secondaryHubs	*Agadir – Al Massira Airport\n*Nador International Airport
+Jubba Airways	secondaryHubs	Djibouti-Ambouli International Airport
+Somali Airlines	secondaryHubs	Hargeisa International Airport
+Siem Reap Airways International	secondaryHubs	Suvarnabhumi Airport
+Siem Reap Airways International	secondaryHubs	Angkor International Airport
+Aero Benin	secondaryHubs	Cotonou, Ouagadoudou
+Pelita Air Service	secondaryHubs	Halim Perdanakusuma International Airport
+Indonesian Airlines	secondaryHubs	Ngurah Rai Airport
+Sempati Air	secondaryHubs	Husein Sastranegara International Airport
+Sempati Air	secondaryHubs	Achmad Yani Airport
+Sempati Air	secondaryHubs	Adisucipto International Airport
+Phoenix Aviation	secondaryHubs	Manas International Airport
+Phoenix Aviation	secondaryHubs	Jinnah International Airport
+Pacific East Asia Cargo Airlines	secondaryHubs	Clark International Airport
+Kingfisher Airlines	secondaryHubs	*Chhatrapati Shivaji International Airport \n*Indira Gandhi International Airport
+Champion Air	secondaryHubs	Denver International Airport
+Champion Air	secondaryHubs	McCarran International Airport
+Fiji Link	secondaryHubs	Nausori International Airport
+LAN Dominicana	secondaryHubs	Comodoro Arturo Merino Benítez International Airport
+Dominair	secondaryHubs	San Juan-Luis Muñoz Marín International Airport
+Servicios Aéreos Profesionales	secondaryHubs	*Las Américas International Airport\n*Juan Gualberto Gómez Airport
+Avianca Honduras	secondaryHubs	Toncontin International Airport
+Mustique Airways	secondaryHubs	Mustique Airport
+SkyKing Limited	secondaryHubs	Grand Turk International Airport
+InterCaribbean Airways	secondaryHubs	JAGS McCartney International Airport
+Tobago Express	secondaryHubs	Piarco International Airport
+Xtra Airways	secondaryHubs	San Antonio International Airport
+USA Jet Airlines	secondaryHubs	Laredo, Texas
+Air Corsica	secondaryHubs	Bastia - Poretta Airport
+Mistral Air	secondaryHubs	Bologna Guglielmo Marconi Airport
+JeTran Air	secondaryHubs	Oradea International Airport
+Domodedovo Airlines	secondaryHubs	Elko Regional Airport
+Metrojet	secondaryHubs	*Kogalym International Airport\n*Pulkovo Airport
+KrasAir	secondaryHubs	Moscow
+KrasAir	secondaryHubs	Domodedovo International Airport
+Yamal Airlines	secondaryHubs	* Domodedovo Airport\n* Salekhard Airport
+Yakutia Airlines	secondaryHubs	* Khabarovsk Novy Airport\n* Vnukovo Airport\n* Tolmachevo Airport
+Hola Airlines	secondaryHubs	Madrid Barajas International Airport
+ASL Airlines Spain	secondaryHubs	Barcelona–El Prat Airport
+ASL Airlines Spain	secondaryHubs	Seville Airport
+ASL Airlines Spain	secondaryHubs	Valencia Airport
+ASL Airlines Spain	secondaryHubs	Vitoria Airport
+ASL Airlines Spain	secondaryHubs	Zaragoza Airport
+ASL Airlines Switzerland	secondaryHubs	Cologne Bonn Airport
+Sky Airlines	secondaryHubs	Dalaman Airport\nMilas-Bodrum Airport
+Dniproavia	secondaryHubs	Boryspil International Airport
+Donbassaero	secondaryHubs	Boryspil International Airport
+Atlantic Airlines	secondaryHubs	East Midlands Airport
+Atlantic Airlines	secondaryHubs	Bournemouth Airport
+Lebanese Air Transport	secondaryHubs	Beirut Rafic Hariri International Airport
+GoAir	secondaryHubs	*Indira Gandhi International Airport
+Air Afrique	secondaryHubs	Léopold Sédar Senghor International Airport
+Skymaster Airlines	secondaryHubs	São Paulo-Guarulhos International Airport
+CATA Línea Aérea	secondaryHubs	*Ministro Pistarini International Airport\n\n*Aeroparque Jorge Newbery\n\n*Almirante Marco Andrés Zar Airport\n\n*Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport
+Ak Bars Aero	secondaryHubs	Kazan International Airport
+Buffalo Airways	secondaryHubs	Merlyn Carter Airport
+Avioquintana	secondaryHubs	Chetumal International Airport
+Aviastar-TU	secondaryHubs	Domodedovo International Airport
+Aviastar-TU	secondaryHubs	Vnukovo International Airport
+ArubaExel	secondaryHubs	Flamingo International Airport
+AMC Airlines	secondaryHubs	Hurghada International Airport
+AMC Airlines	secondaryHubs	Sharm el-Sheikh International Airport
+AMC Airlines	secondaryHubs	Luxor International Airport
+Alberta Citylink	secondaryHubs	Calgary International Airport
+AirQuarius Aviation	secondaryHubs	Cape Town International Airport
+Air Link	secondaryHubs	Sydney
+Jeju Air	secondaryHubs	* Gimhae International Airport\n* Gimpo International Airport
+Air Regional	secondaryHubs	Nabire Airport
+Air Regional	secondaryHubs	Wamena Airport
+Air Regional	secondaryHubs	Manokwari Airport
+Air Regional	secondaryHubs	Merauke Airport
+Air Regional	secondaryHubs	Sorong Airport
+Air Regional	secondaryHubs	Kaimana
+Air Regional	secondaryHubs	Fakfak
+Air Regional	secondaryHubs	Ewer
+Air Kasaï	secondaryHubs	Mbandaka
+Air Kasaï	secondaryHubs	Tshikapa
+Air Kasaï	secondaryHubs	Kananga
+KF Cargo	secondaryHubs	John C. Munro Hamilton International Airport
+ABS Jets	secondaryHubs	M. R. Štefánik Airport
+Calm Air	secondaryHubs	Churchill, Manitoba
+Calm Air	secondaryHubs	Rankin Inlet
+Cargojet	secondaryHubs	Winnipeg James Armstrong Richardson International Airport
+Cargojet	secondaryHubs	Montréal-Mirabel Airport
+Caribair	secondaryHubs	*Cibao International Airport\n*Las Américas International Airport\n*Gregorio Luperón International Airport
+Air Vietnam	secondaryHubs	Da Nang International Airport
+Citilink	secondaryHubs	* Ngurah Rai International Airport \n* Sultan Mahmud Badaruddin II International Airport
+Contract Air Cargo	secondaryHubs	South Padre Island International Airport
+Corporate Air	secondaryHubs	Casper–Natrona County International Airport
+Corporate Air	secondaryHubs	Salt Lake City International Airport
+Corporate Air	secondaryHubs	Great Falls International Airport
+Corporate Air	secondaryHubs	Honolulu International Airport
+Corporate Air	secondaryHubs	Grand Forks International Airport
+Curaçao Express	secondaryHubs	Curaçao International Airport
+DHL Ecuador	secondaryHubs	José Joaquín de Olmedo International Airport
+Enkor	secondaryHubs	Moscow
+Enkor	secondaryHubs	Domodedovo International Airport
+Ravn Alaska	secondaryHubs	* Galena Airport\n* St. Mary's Airport
+Falcon Air Express	secondaryHubs	Mesa, Arizona
+Falcon Air Express	secondaryHubs	Arizona
+Falcon Air Express	secondaryHubs	United States
+Sunstate Airlines	secondaryHubs	Cairns Airport
+Sunwest Aviation	secondaryHubs	Edmonton International Airport
+Sunwest Aviation	secondaryHubs	Winnipeg International Airport
+Perimeter Aviation	secondaryHubs	Thompson Airport
+Kivalliq Air	secondaryHubs	Churchill Airport
+Kivalliq Air	secondaryHubs	Rankin Inlet Airport
+Keewatin Air	secondaryHubs	Churchill Airport
+Keewatin Air	secondaryHubs	Iqaluit Airport
+Keewatin Air	secondaryHubs	Winnipeg James Armstrong Richardson International Airport
+Morningstar Air Express	secondaryHubs	Calgary International Airport
+Morningstar Air Express	secondaryHubs	Lester B. Pearson International Airport
+Gorkha Airlines	secondaryHubs	Pokhara Airport
+IBC Airways	secondaryHubs	Palm Beach International Airport
+Nigeria Airways	secondaryHubs	Mallam Aminu Kano International Airport
+Magnicharters	secondaryHubs	Mariano Escobedo International Airport
+Royal Jet	secondaryHubs	Dubai International Airport
+Royal Jet	secondaryHubs	King Abdulaziz International Airport
+PMTair	secondaryHubs	Angkor International Airport
+Skybus Airlines	secondaryHubs	Piedmont Triad International Airport
+Airspeed Aviation	secondaryHubs	Victoria International Airport
+Tamir Airways	secondaryHubs	Rosh Pina Airport
+LATAM Argentina	secondaryHubs	Ministro Pistarini International Airport
+DayJet	secondaryHubs	Lakeland, Florida
+DayJet	secondaryHubs	Tallahassee, Florida
+DayJet	secondaryHubs	St. Petersburg, Florida
+DayJet	secondaryHubs	Orlando, Florida
+DayJet	secondaryHubs	Pensacola, Florida
+DayJet	secondaryHubs	Naples, Florida
+DayJet	secondaryHubs	Sarasota, Florida
+DayJet	secondaryHubs	Jacksonville, Florida
+DayJet	secondaryHubs	Savannah, Georgia
+DayJet	secondaryHubs	Opa-locka, Florida
+DayJet	secondaryHubs	Montgomery, Alabama
+DayJet	secondaryHubs	Macon, Georgia
+Piedmont Airlines	secondaryHubs	James M. Cox Dayton International Airport
+Piedmont Airlines	secondaryHubs	Syracuse Hancock International Airport
+Pawan Hans	secondaryHubs	SafdarJung Airport
+Pawan Hans	secondaryHubs	New Delhi
+Sol Líneas Aéreas	secondaryHubs	Aeroparque Jorge Newbery
+Norwegian Air Lines	secondaryHubs	Kristiansand Airport, Kjevik
+Norwegian Air Lines	secondaryHubs	Stavanger Airport, Sola
+Star Aviation	secondaryHubs	Houari Boumedienne Airport
+Sita Air	secondaryHubs	Pokhara Airport
+Sita Air	secondaryHubs	Nepalgunj Airport
+Agni Air	secondaryHubs	Tenzing-Hillary Airport
+Shree Airlines	secondaryHubs	Surkhet Airport
+Shree Airlines	secondaryHubs	Pokhara Airport
+Avianca Nicaragua	secondaryHubs	Bluefields Airport
+Navegacion y Servicios Aéreos Canarios	secondaryHubs	Tenerife North Airport
+Key Lime Air	secondaryHubs	*Denver International Airport\n*Rocky Mountain Metropolitan Airport\n*Grand Junction Regional Airport
+Merlin Airways	secondaryHubs	Miami International Airport
+Merlin Airways	secondaryHubs	Luis Muñoz Marín International Airport
+Sierra Pacific Airlines	secondaryHubs	Yuma International Airport
+Martinaire	secondaryHubs	Capital Region International Airport
+LATAM Cargo Mexico	secondaryHubs	*
+LATAM Cargo Mexico	secondaryHubs	Los Angeles International Airport
+LATAM Cargo Mexico	secondaryHubs	* Miami International Airport
+Passaredo Linhas Aéreas	secondaryHubs	Santa Genoveva Airport
+Pearl Aviation	secondaryHubs	Brisbane
+Pearl Aviation	secondaryHubs	Perth, Western Australia
+Pearl Aviation	secondaryHubs	Cairns
+Pearl Aviation	secondaryHubs	Melbourne
+Layang Layang Aerospace	secondaryHubs	Kota Kinabalu Airport
+Layang Layang Aerospace	secondaryHubs	Kuching International Airport
+Hornbill Skyways	secondaryHubs	Miri Airport
+Viva Air Dominicana	secondaryHubs	Santiago-Cibao International Airport
+Viva Air Dominicana	secondaryHubs	Santo Domingo-La Isabela International Airport
+Merlin Express	secondaryHubs	Santiago-Cibao International Airport
+Caribintair	secondaryHubs	Cibao International Airport
+Air Century	secondaryHubs	*Constanza Airport\n*Cibao International Airport\n*Arroyo Barril International Airport
+Firefly	secondaryHubs	Senai International Airport
+Firefly	secondaryHubs	Sultan Ismail Petra Airport
+Divi Divi Air	secondaryHubs	Bonaire
+Air Zaïre	secondaryHubs	Lubumbashi International Airport
+Andes Líneas Aéreas	secondaryHubs	Aeroparque Jorge Newbery
+Aladia Airlines	secondaryHubs	Cancun
+Northern Thunderbird Air	secondaryHubs	Vancouver
+Northern Thunderbird Air	secondaryHubs	Smithers, British Columbia
+Aircraft Transport and Travel	secondaryHubs	*Folkestone
+APA International Air	secondaryHubs	Miami International Airport
+Flair Airlines	secondaryHubs	John C. Munro Hamilton International Airport
+Flair Airlines	secondaryHubs	Halifax International Airport
+Tianjin Airlines	secondaryHubs	* Xi'an Xianyang International Airport\n* Hohhot Baita International Airport\n* Ürümqi Diwopu International Airport
+United Airways	secondaryHubs	Shah Amanat International Airport
+DAP Helicópteros	secondaryHubs	Antofagasta, Copiapo, Santiago,Posesion, Antarctica, Rio Gallegos
+Sol Dominicana Airlines	secondaryHubs	*Punta Cana International Airport
+MDLR Airlines	secondaryHubs	Birsa Munda Airport
+ImagineAir	secondaryHubs	Charleston, South Carolina
+ImagineAir	secondaryHubs	Raleigh, North Carolina
+ImagineAir	secondaryHubs	Allentown, Pennsylvania
+Safi Airways	secondaryHubs	Dubai International Airport
+VolAir	secondaryHubs	*Arroyo Barril International Airport
+Aeroamerica	secondaryHubs	Seattle-Tacoma International Airport
+Aeroamerica	secondaryHubs	Spokane International Airport
+Aeroamerica	secondaryHubs	Portland International Airport
+Aeroamerica	secondaryHubs	Logan International Airport
+Starline.kz	secondaryHubs	Astana International Airport
+Nile Air	secondaryHubs	Borg El Arab Airport
+Air India Cargo	secondaryHubs	* Chennai International Airport\n* Chhatrapati Shivaji International Airport
+Adlair Aviation	secondaryHubs	Yellowknife Airport
+PAL Express	secondaryHubs	*Mactan-Cebu International Airport\n*Francisco Bangoy International Airport \n*Zamboanga International Airport
+Atlantique Air Assistance	secondaryHubs	Paris - Le Bourget Airport
+Alitalia CityLiner	secondaryHubs	Linate Airport
+Roraima Airways	secondaryHubs	Cheddi Jagan International Airport
+XpressAir	secondaryHubs	Jakarta
+XpressAir	secondaryHubs	Soekarno-Hatta International Airport
+CemAir	secondaryHubs	Sir Seretse Khama International Airport
+CemAir	secondaryHubs	Juba International Airport
+CemAir	secondaryHubs	Kenneth Kaunda International Airport
+CemAir	secondaryHubs	Bamako–Sénou International Airport
+Regional Cargo	secondaryHubs	Mexico City
+Globus Airlines	secondaryHubs	Tolmachevo Airport
+Timor Air	secondaryHubs	Darwin International Airport
+Everts Air	secondaryHubs	Ted Stevens Anchorage International Airport
+Everts Air Cargo	secondaryHubs	Ted Stevens Anchorage International Airport
+Cargoair	secondaryHubs	Halle Airport
+Phoebus Apollo Aviation	secondaryHubs	Brazzaville
+Phoebus Apollo Aviation	secondaryHubs	Cotonou
+Blink	secondaryHubs	Paris
+Blink	secondaryHubs	Le Bourget
+Blink	secondaryHubs	Zurich
+Blink	secondaryHubs	Nice
+Jämtlands Flyg	secondaryHubs	Ljusnedal
+Jämtlands Flyg	secondaryHubs	Funäsdalen
+Jämtlands Flyg	secondaryHubs	Laisholm/Tarnaby
+SkyLink Arabia	secondaryHubs	Kuwait
+SkyLink Arabia	secondaryHubs	IRAQ
+SkyLink Arabia	secondaryHubs	Afghanistan
+IrAero	secondaryHubs	* Blagoveshchensk\n* Chita\n* Krasnoyarsk-Yemelyanovo\n* Novosibirsk-Tolmachevo \n* Ulan-Ude
+AlMasria Universal Airlines	secondaryHubs	Borg El Arab Airport
+Ándalus Líneas Aéreas	secondaryHubs	Madrid Airport
+Ándalus Líneas Aéreas	secondaryHubs	Nador Airport
+Ándalus Líneas Aéreas	secondaryHubs	Barcelona Airport
+Princess Air	secondaryHubs	Bournemouth Airport
+Alitalia	secondaryHubs	Linate Airport
+Avianova	secondaryHubs	Krasnodar
+Cambodia Angkor Air	secondaryHubs	* Siem Reap International Airport\n* Tan Son Nhat International Airport
+TAP Portugal	secondaryHubs	Porto Airport
+Air Choice One	secondaryHubs	O'Hare International Airport
+Olympic Air	secondaryHubs	Rhodes International Airport
+Fly Hellas	secondaryHubs	Manchester Airport
+Aerochaco	secondaryHubs	Ingeniero Ambrosio L.V. Taravella International Airport
+Air India	secondaryHubs	Chhatrapati Shivaji International Airport
+Silver Air	secondaryHubs	Marina di Campo Airport
+Whitejets	secondaryHubs	São Paulo–Guarulhos International Airport
+Nesma Airlines	secondaryHubs	Sharm el-Sheikh International Airport
+Nesma Airlines	secondaryHubs	Hurghada International Airport
+Regent Airways	secondaryHubs	Shah Amanat International Airport
+NordStar	secondaryHubs	Domodedovo International Airport
+NordStar	secondaryHubs	Tolmachevo Airport
+AeroLyon	secondaryHubs	Paris-Charles de Gaulle
+Saudi Red Crescent Authority	secondaryHubs	King Abdulaziz International Airport
+Petra Airlines	secondaryHubs	Marka International Airport
+Sky Aviation	secondaryHubs	*
+Sky Aviation	secondaryHubs	Soekarno-Hatta International Airport
+Sky Aviation	secondaryHubs	Halim Perdanakusuma Airport
+Sky Aviation	secondaryHubs	Depati Amir Airport
+Sky Aviation	secondaryHubs	Sultan Mahmud Badaruddin II Airport
+Sky Aviation	secondaryHubs	Juanda International Airport
+Sky Aviation	secondaryHubs	Buluh Tumbang Airport
+Sky Aviation	secondaryHubs	Raja Haji Fisabilillah Airport
+Royal Wings	secondaryHubs	Amman Civil Airport
+MAT Airways	secondaryHubs	Ohrid %22St. Paul the Apostle%22 Airport
+MHS Aviation	secondaryHubs	Kerteh Airport Kota Kinabalu Airport Labuan Airport Sultan Ismail Petra Airport
+Sky Regional Airlines	secondaryHubs	Montréal-Pierre Elliott Trudeau International Airport
+Thai Smile	secondaryHubs	Don Mueang International Airport
+Blue Sky Aviation Services	secondaryHubs	Wilson Airport
+Blue Sky Aviation Services	secondaryHubs	Nairobi
+Makalu Air	secondaryHubs	Nepalgunj Airport
+Syphax Airlines	secondaryHubs	Tunis–Carthage International Airport
+Air Onix	secondaryHubs	Kyiv Zhuliany International Airport
+Tulpar Air	secondaryHubs	Khabarovsk
+Tulpar Air	secondaryHubs	Norilsk
+Tulpar Air	secondaryHubs	Abakan
+Tulpar Air	secondaryHubs	Perm
+Center-South	secondaryHubs	*Baikal International Airport\n*
+Center-South	secondaryHubs	Simferopol International Airport
+Center-South	secondaryHubs	*Vnukovo International Airport
+Dexter Air Taxi	secondaryHubs	Novyi Urengoi
+Skol Airlines	secondaryHubs	Khanty-Mansiysk
+Simargl Air Company	secondaryHubs	Tyrnyauz
+Air Mantra	secondaryHubs	Amritsar
+Air Trust	secondaryHubs	Astana International Airport
+Malindo Air	secondaryHubs	Sultan Abdul Aziz Shah Airport
+Khozu Avia	secondaryHubs	Astana Airport
+Prime Aviation	secondaryHubs	Astana Airport
+Prime Aviation	secondaryHubs	Atyrau Airport
+AirAsia India	secondaryHubs	Indira Gandhi International Airport
+Glenorchy Air	secondaryHubs	Glenorchy, New Zealand
+Avianca Ecuador	secondaryHubs	*El Dorado International Airport \n*José Joaquín de Olmedo International Airport
+Air Manas	secondaryHubs	Osh Airport
+Auric Air	secondaryHubs	*JNIA\n*Arusha Airport
+Nova Airways	secondaryHubs	Juba Airport
+Línea Aérea de Entre Ríos	secondaryHubs	General Justo José de Urquiza Airport
+Toll Global Express	secondaryHubs	Adelaide International Airport
+City Airways	secondaryHubs	Phuket International Airport
+Airways International	secondaryHubs	Fort Lauderdale International Airport
+Monacair	secondaryHubs	Nice Airport
+Star Air	secondaryHubs	Ngurah Rai International Airport
+Simrik Airlines	secondaryHubs	Pokhara Airport
+Goma Air	secondaryHubs	Nepalgunj Airport
+Flymojo	secondaryHubs	Kota Kinabalu International Airport
+Royal Flight	secondaryHubs	Sheremetyevo International Airport
+Marco Island Airways	secondaryHubs	Marco Island
+Air Senok	secondaryHubs	*Bandaranaike International Airport
+Virgin Australia Airlines	secondaryHubs	Christchurch International Airport
+Air Spray	secondaryHubs	Chico Municipal Airport
+Hawa Air	secondaryHubs	Brussels International Airport
+Hawa Air	secondaryHubs	Ostend-Bruges International Airport
+Pobeda	secondaryHubs	*Anapa\n*Sochi
+Caicos Express Airways	secondaryHubs	JAGS McCartney International Airport
+Komiaviatrans	secondaryHubs	*Kaluga Airport \n*Ukhta Airport\n*Usinsk Airport
+Limitless Airways	secondaryHubs	Göteborg-Landvetter Airport
+KLM Helikopters	secondaryHubs	Den Helder Airport
+Pouya Cargo Air	secondaryHubs	Tehran Imam Khomeini International Airport
+Meraj Airlines	secondaryHubs	*Mashhad International Airport\n*Kish Island International Airport
+AtlasGlobal Ukraine	secondaryHubs	Odessa International Airport
+UVT Aero	secondaryHubs	Begishevo Airport
+Jonair	secondaryHubs	Luleå Airport
+Zoom Air	secondaryHubs	Indira Gandhi International Airport
+As Salaam Air	secondaryHubs	Julius Nyerere International Airport

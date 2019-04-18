@@ -1,0 +1,412 @@
+Burgundy wine	subRegions	* Côte d'Auxerre \n* Côte de Nuits\n* Côte de Beaune\n* Côte Chalonnaise\n* Mâconnais\n* Beaujolais
+Banyuls AOC	subRegions	Banyuls
+Banyuls AOC	subRegions	Cerbère
+Banyuls AOC	subRegions	Collioure
+Banyuls AOC	subRegions	Port-Vendres
+Châteauneuf-du-Pape AOC	subRegions	Châteauneuf-du-Pape
+Châteauneuf-du-Pape AOC	subRegions	Orange, Vaucluse
+Châteauneuf-du-Pape AOC	subRegions	Courthezon
+Châteauneuf-du-Pape AOC	subRegions	Bedarrides
+Châteauneuf-du-Pape AOC	subRegions	Sorgues
+Rasteau AOC	subRegions	Rasteau
+Rasteau AOC	subRegions	Orange, Vaucluse
+Rasteau AOC	subRegions	Courthezon
+Rasteau AOC	subRegions	Bedarrides
+Rasteau AOC	subRegions	Sorgues
+Missouri wine	subRegions	Augusta AVA
+Missouri wine	subRegions	Hermann AVA
+Missouri wine	subRegions	Ozark Highlands AVA
+Missouri wine	subRegions	Ozark Mountain AVA
+Sancerre	subRegions	Ménétréol-sous-Sancerre
+Sancerre	subRegions	Chavignol
+Sancerre	subRegions	Bué
+Yadkin Valley AVA	subRegions	Swan Creek AVA
+Pouilly-Fuissé	subRegions	Mâconnais
+Michigan wine	subRegions	Fennville AVA
+Michigan wine	subRegions	Lake Michigan Shore AVA
+Michigan wine	subRegions	Leelanau Peninsula AVA
+Michigan wine	subRegions	Old Mission Peninsula AVA
+Illinois wine	subRegions	Shawnee Hills AVA
+Washington wine	subRegions	Columbia Gorge AVA
+Washington wine	subRegions	Columbia Valley AVA
+Washington wine	subRegions	Ancient Lakes of the Columbia Valley AVA
+Washington wine	subRegions	Horse Heaven Hills AVA
+Washington wine	subRegions	Puget Sound AVA
+Washington wine	subRegions	Rattlesnake Hills AVA
+Washington wine	subRegions	Red Mountain AVA
+Washington wine	subRegions	Wahluke Slope AVA
+Washington wine	subRegions	Walla Walla Valley AVA
+Washington wine	subRegions	Yakima Valley AVA
+Washington wine	subRegions	Naches Heights AVA
+Washington wine	subRegions	Snipes Mountain AVA
+Lake Michigan Shore AVA	subRegions	Fennville AVA
+Oregon wine	subRegions	Applegate Valley AVA
+Oregon wine	subRegions	Chehalem Mountains AVA
+Oregon wine	subRegions	Columbia Gorge AVA
+Oregon wine	subRegions	Columbia Valley AVA
+Oregon wine	subRegions	Dundee Hills AVA
+Oregon wine	subRegions	Elkton Oregon AVA
+Oregon wine	subRegions	Eola-Amity Hills AVA
+Oregon wine	subRegions	McMinnville AVA
+Oregon wine	subRegions	Red Hill Douglas County, Oregon AVA
+Oregon wine	subRegions	Ribbon Ridge AVA
+Oregon wine	subRegions	The Rocks District of Milton-Freewater AVA
+Oregon wine	subRegions	Rogue Valley AVA
+Oregon wine	subRegions	Snake River Valley AVA
+Oregon wine	subRegions	Southern Oregon AVA
+Oregon wine	subRegions	Umpqua Valley AVA
+Oregon wine	subRegions	Walla Walla Valley AVA
+Oregon wine	subRegions	Willamette Valley AVA
+Oregon wine	subRegions	Yamhill-Carlton District AVA
+Willamette Valley AVA	subRegions	Chehalem Mountains AVA
+Willamette Valley AVA	subRegions	Dundee Hills AVA
+Willamette Valley AVA	subRegions	Eola-Amity Hills AVA
+Willamette Valley AVA	subRegions	McMinnville AVA
+Willamette Valley AVA	subRegions	Ribbon Ridge AVA
+Willamette Valley AVA	subRegions	Yamhill-Carlton District AVA
+Southern Oregon AVA	subRegions	Applegate Valley AVA
+Southern Oregon AVA	subRegions	Red Hill Douglas County, Oregon AVA
+Southern Oregon AVA	subRegions	Rogue Valley AVA
+Southern Oregon AVA	subRegions	Umpqua Valley AVA
+Umpqua Valley AVA	subRegions	Red Hill Douglas County, Oregon AVA
+Rogue Valley AVA	subRegions	Applegate Valley AVA
+Columbia Valley AVA	subRegions	Ancient Lakes of the Columbia Valley AVA
+Columbia Valley AVA	subRegions	Horse Heaven Hills AVA
+Columbia Valley AVA	subRegions	Rattlesnake Hills AVA
+Columbia Valley AVA	subRegions	Red Mountain AVA
+Columbia Valley AVA	subRegions	The Rocks AVA
+Columbia Valley AVA	subRegions	Wahluke Slope AVA
+Columbia Valley AVA	subRegions	Walla Walla Valley AVA
+Columbia Valley AVA	subRegions	Yakima Valley AVA
+Yakima Valley AVA	subRegions	Rattlesnake Hills AVA
+Yakima Valley AVA	subRegions	Red Mountain AVA
+Walla Walla Valley AVA	subRegions	The Rocks AVA
+Napa Valley AVA	subRegions	Los Carneros AVA, Howell Mountain AVA, Wild Horse Valley AVA, Stags Leap District AVA, Mt. Veeder AVA, Atlas Peak AVA, Spring Mountain District AVA, Oakville AVA, Rutherford AVA, St. Helena AVA, Chiles Valley AVA, Yountville AVA, Diamond Mountain District AVA, Coombsville AVA, Oak Knoll District of Napa Valley AVA, Calistoga AVA
+New York wine	subRegions	Cayuga Lake AVA
+New York wine	subRegions	Finger Lakes AVA
+New York wine	subRegions	Hudson River Region AVA
+New York wine	subRegions	Lake Erie AVA
+New York wine	subRegions	Long Island AVA
+New York wine	subRegions	Niagara Escarpment AVA
+New York wine	subRegions	North Fork of Long Island AVA
+New York wine	subRegions	Seneca Lake AVA
+New York wine	subRegions	The Hamptons, Long Island AVA
+Niagara Escarpment AVA	subRegions	Niagara County, New York
+Empordà	subRegions	Empordà county
+Alella	subRegions	Maresme and Vallès counties
+Barbera d'Asti	subRegions	Montferrat
+Barbera d'Asti	subRegions	Asti
+Barbera d'Asti	subRegions	Nizza
+Priorat	subRegions	Priorat county
+Texas wine	subRegions	Bell Mountain AVA
+Texas wine	subRegions	Escondido Valley AVA
+Texas wine	subRegions	Fredericksburg in the Texas Hill Country AVA
+Texas wine	subRegions	Mesilla Valley AVA
+Texas wine	subRegions	Texas Davis Mountains AVA
+Texas wine	subRegions	Texas High Plains AVA
+Texas wine	subRegions	Texas Hill Country AVA
+Texas wine	subRegions	Texoma AVA
+Idaho wine	subRegions	Snake River Valley AVA
+Sonoma County wine	subRegions	Alexander Valley AVA
+Sonoma County wine	subRegions	Bennett Valley AVA
+Sonoma County wine	subRegions	Chalk Hill AVA
+Sonoma County wine	subRegions	Dry Creek Valley AVA
+Sonoma County wine	subRegions	Fort Ross - Seaview AVA
+Sonoma County wine	subRegions	Green Valley of Russian River Valley AVA
+Sonoma County wine	subRegions	Knights Valley AVA
+Sonoma County wine	subRegions	Los Carneros AVA
+Sonoma County wine	subRegions	Northern Sonoma AVA
+Sonoma County wine	subRegions	Pine Mountain - Cloverdale Peak AVA
+Sonoma County wine	subRegions	Rockpile AVA
+Sonoma County wine	subRegions	Russian River Valley AVA
+Sonoma County wine	subRegions	Sonoma Coast AVA
+Sonoma County wine	subRegions	Sonoma Mountain AVA
+Sonoma County wine	subRegions	Sonoma Valley AVA
+Mendocino County wine	subRegions	Anderson Valley AVA
+Mendocino County wine	subRegions	Cole Ranch AVA
+Mendocino County wine	subRegions	Covelo AVA
+Mendocino County wine	subRegions	Dos Rios AVA
+Mendocino County wine	subRegions	Eagle Peak Mendocino County AVA
+Mendocino County wine	subRegions	McDowell Valley AVA
+Mendocino County wine	subRegions	Mendocino AVA
+Mendocino County wine	subRegions	Mendocino Ridge AVA
+Mendocino County wine	subRegions	Potter Valley AVA
+Mendocino County wine	subRegions	Redwood Valley AVA
+Mendocino County wine	subRegions	Yorkville Highlands AVA
+Lodi AVA	subRegions	Alta Mesa AVA
+Lodi AVA	subRegions	Borden Ranch AVA
+Lodi AVA	subRegions	Clements Hills AVA
+Lodi AVA	subRegions	Cosumnes River AVA
+Lodi AVA	subRegions	Jahant AVA
+Lodi AVA	subRegions	Mokelumne River AVA
+Lodi AVA	subRegions	Sloughhouse AVA
+Paso Robles AVA	subRegions	Adelaida District AVA, Creston District AVA, El Pomar District AVA, Paso Robles Estrella District AVA, Paso Robles Geneseo District AVA, Paso Robles Highlands District AVA, Paso Robles Willow Creek District AVA, San Juan Creek AVA, San Miguel District AVA, Santa Margarita Ranch AVA, Templeton Gap District AVA
+Ohio River Valley AVA	subRegions	Kanawha River Valley AVA
+Santa Clara Valley AVA	subRegions	Pacheco Pass AVA
+Santa Clara Valley AVA	subRegions	San Ysidro District AVA
+San Francisco Bay AVA	subRegions	Livermore Valley AVA
+San Francisco Bay AVA	subRegions	Pacheco Pass AVA
+San Francisco Bay AVA	subRegions	San Ysidro District AVA
+San Francisco Bay AVA	subRegions	Santa Clara Valley AVA
+Central Coast AVA	subRegions	Arroyo Grande Valley AVA
+Central Coast AVA	subRegions	Arroyo Seco AVA
+Central Coast AVA	subRegions	Carmel Valley AVA
+Central Coast AVA	subRegions	Chalone AVA
+Central Coast AVA	subRegions	Cienega Valley AVA
+Central Coast AVA	subRegions	Edna Valley AVA
+Central Coast AVA	subRegions	Hames Valley AVA
+Central Coast AVA	subRegions	Lime Kiln Valley AVA
+Central Coast AVA	subRegions	Livermore Valley AVA
+Central Coast AVA	subRegions	Monterey AVA
+Central Coast AVA	subRegions	Mt. Harlan AVA
+Central Coast AVA	subRegions	Pacheco Pass AVA
+Central Coast AVA	subRegions	Paicines AVA
+Central Coast AVA	subRegions	Paso Robles AVA
+Central Coast AVA	subRegions	San Antonio Valley AVA
+Central Coast AVA	subRegions	San Benito AVA
+Central Coast AVA	subRegions	San Bernabe AVA
+Central Coast AVA	subRegions	San Francisco Bay AVA
+Central Coast AVA	subRegions	San Lucas AVA
+Central Coast AVA	subRegions	San Ysidro District AVA
+Central Coast AVA	subRegions	Santa Clara Valley AVA
+Central Coast AVA	subRegions	Santa Cruz Mountains AVA
+Central Coast AVA	subRegions	Santa Lucia Highlands AVA
+Central Coast AVA	subRegions	Santa Maria Valley AVA
+Central Coast AVA	subRegions	Santa Ynez Valley AVA
+Central Coast AVA	subRegions	Sta. Rita Hills AVA
+Central Coast AVA	subRegions	York Mountain AVA
+Mendocino Ridge AVA	subRegions	Anderson Valley AVA
+Santa Cruz Mountains AVA	subRegions	Ben Lomond Mountain AVA
+Sierra Foothills AVA	subRegions	California Shenandoah Valley AVA
+Sierra Foothills AVA	subRegions	El Dorado AVA
+Sierra Foothills AVA	subRegions	Fair Play AVA
+Sierra Foothills AVA	subRegions	Fiddletown AVA
+Sierra Foothills AVA	subRegions	North Yuba AVA
+Dry Creek Valley AVA	subRegions	Rockpile AVA
+Northern Sonoma AVA	subRegions	Alexander Valley AVA
+Northern Sonoma AVA	subRegions	Chalk Hill AVA
+Northern Sonoma AVA	subRegions	Dry Creek Valley AVA
+Northern Sonoma AVA	subRegions	Green Valley of Russian River Valley AVA
+Northern Sonoma AVA	subRegions	Knights Valley AVA
+Northern Sonoma AVA	subRegions	Rockpile AVA
+Northern Sonoma AVA	subRegions	Russian River Valley AVA
+Northern Sonoma AVA	subRegions	Sonoma Coast AVA
+Sonoma Coast AVA	subRegions	Chalk Hill AVA
+Sonoma Coast AVA	subRegions	Green Valley of Russian River Valley AVA
+Sonoma Coast AVA	subRegions	Los Carneros AVA
+Sonoma Coast AVA	subRegions	Northern Sonoma AVA
+Sonoma Coast AVA	subRegions	Russian River Valley AVA
+Sonoma Coast AVA	subRegions	Sonoma Valley AVA
+Russian River Valley AVA	subRegions	Chalk Hill AVA
+Russian River Valley AVA	subRegions	Green Valley of Russian River Valley AVA
+Sonoma Valley AVA	subRegions	Bennett Valley AVA
+Sonoma Valley AVA	subRegions	Los Carneros AVA
+Sonoma Valley AVA	subRegions	Sonoma Mountain AVA
+Sonoma Valley AVA	subRegions	Moon Mountain District Sonoma County
+Mendocino AVA	subRegions	Anderson Valley AVA
+Mendocino AVA	subRegions	Cole Ranch AVA
+Mendocino AVA	subRegions	Dos Rios AVA
+Mendocino AVA	subRegions	McDowell Valley AVA
+Mendocino AVA	subRegions	Mendocino Ridge AVA
+Mendocino AVA	subRegions	Potter Valley AVA
+Mendocino AVA	subRegions	Redwood Valley AVA
+Mendocino AVA	subRegions	Yorkville Highlands AVA
+Chiles Valley AVA	subRegions	Vaca Mountains
+New Mexico wine	subRegions	Mesilla Valley AVA, Middle Rio Grande Valley AVA, Mimbres Valley AVA.
+Loire Valley	subRegions	Anjou
+Loire Valley	subRegions	Nantes
+Loire Valley	subRegions	Saumur
+Loire Valley	subRegions	Touraine
+Loire Valley	subRegions	Centre
+Texas Hill Country AVA	subRegions	Bell Mountain AVA
+Texas Hill Country AVA	subRegions	Fredericksburg in the Texas Hill Country AVA
+North Carolina wine	subRegions	Haw River Valley AVA
+North Carolina wine	subRegions	Swan Creek AVA
+North Carolina wine	subRegions	Upper Hiwassee Highlands AVA
+North Carolina wine	subRegions	Yadkin Valley AVA
+Virginia wine	subRegions	Middleburg AVA
+Virginia wine	subRegions	Monticello AVA
+Virginia wine	subRegions	North Fork of Roanoke AVA
+Virginia wine	subRegions	Northern Neck George Washington Birthplace AVA
+Virginia wine	subRegions	Rocky Knob AVA
+Virginia wine	subRegions	Shenandoah Valley AVA
+Virginia wine	subRegions	Virginia's Eastern Shore AVA
+Indiana wine	subRegions	Ohio River Valley AVA
+Ohio wine	subRegions	Grand River Valley AVA
+Ohio wine	subRegions	Isle St. George AVA
+Ohio wine	subRegions	Lake Erie AVA
+Ohio wine	subRegions	Loramie Creek AVA
+Ohio wine	subRegions	Ohio River Valley AVA
+Minnesota wine	subRegions	Alexandria Lakes AVA
+Minnesota wine	subRegions	Upper Mississippi Valley AVA
+Massachusetts wine	subRegions	Martha's Vineyard AVA
+Massachusetts wine	subRegions	Southeastern New England AVA
+Pennsylvania wine	subRegions	Central Delaware Valley AVA
+Pennsylvania wine	subRegions	Cumberland Valley AVA
+Pennsylvania wine	subRegions	Lake Erie AVA
+Pennsylvania wine	subRegions	Lancaster Valley AVA
+Pennsylvania wine	subRegions	Lehigh Valley AVA
+Wisconsin wine	subRegions	Lake Wisconsin AVA
+Wisconsin wine	subRegions	Wisconsin Ledge AVA
+West Virginia wine	subRegions	Kanawha River Valley AVA
+West Virginia wine	subRegions	Ohio River Valley AVA
+West Virginia wine	subRegions	Shenandoah Valley AVA
+Kentucky wine	subRegions	Ohio River Valley AVA
+Colorado wine	subRegions	Grand Valley AVA
+Colorado wine	subRegions	West Elks AVA
+Arizona wine	subRegions	Sonoita AVA
+Oklahoma wine	subRegions	Ozark Mountain AVA
+Georgia	subRegions	Upper Hiwassee Highlands AVA
+Arkansas wine	subRegions	Altus AVA
+Arkansas wine	subRegions	Arkansas Mountain AVA
+Arkansas wine	subRegions	Ozark Mountain AVA
+Louisiana wine	subRegions	Mississippi Delta AVA
+Connecticut wine	subRegions	Southeastern New England AVA
+Connecticut wine	subRegions	Western Connecticut Highlands AVA
+Tennessee wine	subRegions	Mississippi Delta AVA
+Mississippi wine	subRegions	Mississippi Delta AVA
+Rhode Island wine	subRegions	Southeastern New England AVA
+Maryland wine	subRegions	Catoctin AVA
+Maryland wine	subRegions	Cumberland Valley AVA
+Maryland wine	subRegions	Linganore AVA
+California wine	subRegions	American Viticultural Area
+El Dorado AVA	subRegions	Fair Play AVA
+Napa County wine	subRegions	Atlas Peak AVA
+Napa County wine	subRegions	Chiles Valley AVA
+Napa County wine	subRegions	Diamond Mountain District AVA
+Napa County wine	subRegions	Howell Mountain AVA
+Napa County wine	subRegions	Los Carneros AVA
+Napa County wine	subRegions	Mt. Veeder AVA
+Napa County wine	subRegions	Napa Valley AVA
+Napa County wine	subRegions	Oak Knoll District of Napa Valley AVA
+Napa County wine	subRegions	Oakville AVA
+Napa County wine	subRegions	Rutherford AVA
+Napa County wine	subRegions	Spring Mountain District AVA
+Napa County wine	subRegions	St. Helena AVA
+Napa County wine	subRegions	Stags Leap District AVA
+Napa County wine	subRegions	Wild Horse Valley AVA
+Napa County wine	subRegions	Yountville AVA
+South Coast AVA	subRegions	Ramona Valley AVA
+South Coast AVA	subRegions	San Pasqual Valley AVA
+South Coast AVA	subRegions	Temecula Valley AVA
+Clear Lake AVA	subRegions	Red Hills Lake County AVA
+Lake County wine	subRegions	Benmore Valley AVA
+Lake County wine	subRegions	Clear Lake AVA
+Lake County wine	subRegions	Guenoc Valley AVA
+Lake County wine	subRegions	High Valley AVA
+Lake County wine	subRegions	Red Hills Lake County AVA
+Monterey AVA	subRegions	Arroyo Seco AVA
+Monterey AVA	subRegions	Hames Valley AVA
+Monterey AVA	subRegions	San Bernabe AVA
+Monterey AVA	subRegions	San Lucas AVA
+Monterey AVA	subRegions	Santa Lucia Highlands AVA
+San Benito AVA	subRegions	Cienega Valley AVA
+San Benito AVA	subRegions	Lime Kiln Valley AVA
+San Benito AVA	subRegions	Paicines AVA
+Santa Ynez Valley AVA	subRegions	Happy Canyon of Santa Barbara AVA
+Santa Ynez Valley AVA	subRegions	Sta. Rita Hills AVA
+Santa Ynez Valley AVA	subRegions	Ballard Canyon AVA
+Santa Ynez Valley AVA	subRegions	Los Olivos District AVA
+Clarksburg AVA	subRegions	Merritt Island AVA
+Chehalem Mountains AVA	subRegions	Ribbon Ridge AVA
+Ozark Mountain American Viticultural Area	subRegions	Altus AVA
+Ozark Mountain American Viticultural Area	subRegions	Arkansas Mountain AVA
+Ozark Mountain American Viticultural Area	subRegions	Augusta AVA
+Ozark Mountain American Viticultural Area	subRegions	Hermann AVA
+Ozark Mountain American Viticultural Area	subRegions	Ozark Highlands AVA
+Arkansas Mountain AVA	subRegions	Altus AVA
+Lake Erie AVA	subRegions	Grand River Valley AVA
+Haut-Médoc AOC	subRegions	Margaux AOC
+Haut-Médoc AOC	subRegions	Listrac-Médoc AOC
+Haut-Médoc AOC	subRegions	Moulis-en-Médoc AOC
+Haut-Médoc AOC	subRegions	Saint-Julien AOC
+Haut-Médoc AOC	subRegions	Pauillac AOC
+Haut-Médoc AOC	subRegions	Saint-Estèphe AOC
+Médoc AOC	subRegions	Haut-Médoc AOC
+Médoc AOC	subRegions	Margaux AOC
+Médoc AOC	subRegions	Listrac-Médoc AOC
+Médoc AOC	subRegions	Moulis-en-Médoc AOC
+Médoc AOC	subRegions	Saint-Julien AOC
+Médoc AOC	subRegions	Pauillac AOC
+Médoc AOC	subRegions	Saint-Estèphe AOC
+Southeastern New England AVA	subRegions	Martha's Vineyard AVA
+Finger Lakes AVA	subRegions	Cayuga Lake AVA
+Finger Lakes AVA	subRegions	Seneca Lake AVA
+Long Island AVA	subRegions	North Fork of Long Island AVA
+Long Island AVA	subRegions	The Hamptons, Long Island AVA
+South West France	subRegions	Dordogne
+South West France	subRegions	Garonne
+South West France	subRegions	Gascony
+South West France	subRegions	Basque Country
+Quebec wine	subRegions	Laurentides
+Quebec wine	subRegions	Lanaudière
+Quebec wine	subRegions	Québec
+Quebec wine	subRegions	Montérégie
+Quebec wine	subRegions	Eastern Townships
+Quebec wine	subRegions	Centre-du-Québec
+Açores VR	subRegions	Pico IPR
+Açores VR	subRegions	Graciosa IPR
+Açores VR	subRegions	Biscoitos IPR
+Orléans AOC	subRegions	Loiret
+Marcillac AOC	subRegions	Aveyron
+Postup	subRegions	Dubrovnik-Neretva County
+Armenian wine	subRegions	Armavir Province
+Armenian wine	subRegions	Ararat Province
+Armenian wine	subRegions	Vayots Dzor
+Armenian wine	subRegions	Hadrut
+Montsant DO	subRegions	Priorat county
+Great Southern	subRegions	Porongurups, Mount Barker, Albany, Denmark and Frankland River
+Azerbaijani wine	subRegions	Kur-Araz Lowland
+Azerbaijani wine	subRegions	Caucasus Mountains
+Sierra Pelona Valley AVA	subRegions	Sierra Pelona Mountains
+Sierra Pelona Valley AVA	subRegions	Los Angeles County, California
+Dingač	subRegions	Dubrovnik-Neretva County
+Balaton wine region	subRegions	Badacsony wine region
+Balaton wine region	subRegions	Balatonboglár wine region
+Balaton wine region	subRegions	Balaton-felvidék wine region
+Balaton wine region	subRegions	Balatonfüred-Csopak wine region
+Balaton wine region	subRegions	Nagy-Somló wine region
+Balaton wine region	subRegions	Zala wine region
+Duna wine region	subRegions	Csongrád wine region
+Duna wine region	subRegions	Hajós-Baja wine region
+Duna wine region	subRegions	Kunság wine region
+Észak-Dunántúl wine region	subRegions	Etyek-Buda wine region
+Észak-Dunántúl wine region	subRegions	Neszmély wine region
+Észak-Dunántúl wine region	subRegions	Mór wine region
+Észak-Dunántúl wine region	subRegions	Pannonhalma wine region
+Pannon wine region	subRegions	Pécs wine region
+Pannon wine region	subRegions	Szekszárd wine region
+Pannon wine region	subRegions	Tolna wine region
+Pannon wine region	subRegions	Villány wine region
+Eden Valley wine region	subRegions	High Eden
+Fleurieu zone	subRegions	*
+Fleurieu zone	subRegions	Currency Creek
+Fleurieu zone	subRegions	Kangaroo Island wine region
+Fleurieu zone	subRegions	Langhorne Creek
+Fleurieu zone	subRegions	McLaren Vale
+Fleurieu zone	subRegions	Southern Fleurieu wine region
+Far North zone	subRegions	Southern Flinders Ranges
+Lower Murray zone	subRegions	Riverland
+Adelaide Hills wine region	subRegions	Lenswood wine sub-region
+Adelaide Hills wine region	subRegions	Piccadilly Valley wine sub-region
+Mount Lofty Ranges zone	subRegions	Adelaide Hills wine region
+Mount Lofty Ranges zone	subRegions	Adelaide Plains wine region
+Mount Lofty Ranges zone	subRegions	Clare Valley wine region
+Barossa zone	subRegions	Barossa Valley
+Barossa zone	subRegions	Eden Valley
+Western Victoria	subRegions	Grampians
+Western Victoria	subRegions	Henty
+Western Victoria	subRegions	Pyrenees
+Big Rivers	subRegions	Murray Darling wine region
+Big Rivers	subRegions	Perricoota
+Big Rivers	subRegions	Riverina wine region
+Big Rivers	subRegions	Swan Hill wine region
+Central Ranges	subRegions	Cowra wine region
+Central Ranges	subRegions	Mudgee wine region
+Central Ranges	subRegions	Orange wine region
+North East Victoria	subRegions	*
+North East Victoria	subRegions	Alpine Valleys
+North East Victoria	subRegions	Beechworth
+North East Victoria	subRegions	Glenrowan
+North East Victoria	subRegions	King Valley
+North East Victoria	subRegions	Rutherglen wine region

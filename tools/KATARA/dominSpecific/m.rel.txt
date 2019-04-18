@@ -1,0 +1,690 @@
+Black	m	0
+Cyan	m	0
+Cyan	m	22
+Indigo	m	100
+Indigo	m	81
+Indigo	m	51
+Yellow	m	0
+Violet	m	100
+Purple	m	100
+Brown	m	50
+Ultramarine	m	100
+Magenta	m	100
+Orange	m	50
+Jonquil	m	17
+Tyrian purple	m	100
+Pink	m	20
+Crimson	m	100
+Crimson	m	43
+Crimson	m	63
+Crimson	m	79
+Crimson	m	83
+Crimson	m	95
+Crimson	m	84
+Crimson	m	85
+Crimson	m	94
+Crimson	m	99
+Gold	m	16
+Gold	m	28
+Gold	m	12
+Gold	m	3
+Gold	m	32
+Gold	m	27.5
+Gold	m	5
+Gold	m	25
+Gold	m	34
+Gold	m	24
+Gold	m	13
+Gold	m	21
+Ochre	m	42
+Vermilion	m	84
+Vermilion	m	68
+Vermilion	m	73
+Vermilion	m	56
+Vermilion	m	67
+Coral	m	50
+Cadmium pigments	m	43
+Cadmium pigments	m	100
+Cadmium pigments	m	0
+Cadmium pigments	m	4
+Umber	m	18
+Umber	m	22
+Umber	m	63
+Navy blue	m	98
+Navy blue	m	45
+Navy blue	m	80
+Navy blue	m	37
+Navy blue	m	100
+Navy blue	m	49
+Powder blue	m	2
+Phthalocyanine Blue BN	m	98
+Grey	m	0
+Tan	m	14
+Tan	m	46
+Tan	m	26
+Mauve	m	31
+Mauve	m	48
+Mauve	m	46
+Mauve	m	27
+Mauve	m	34
+Mauve	m	52
+Beige	m	0
+Beige	m	2.7
+Beige	m	1
+Beige	m	3
+Beige	m	14
+Beige	m	8
+Beige	m	17
+Beige	m	26
+Beige	m	24
+Bistre	m	30
+Bistre	m	24
+Bistre	m	18
+Bistre	m	10
+Azure	m	14
+Azure	m	25
+Azure	m	23
+Azure	m	20
+Azure	m	24
+Azure	m	33
+Azure	m	37
+Azure	m	39
+Azure	m	44
+Azure	m	56
+Azure	m	53
+Azure	m	27
+Azure	m	26
+Azure	m	35
+Azure	m	38
+Azure	m	28
+Azure	m	66
+Teal	m	31
+Teal	m	14
+Salmon	m	45
+Salmon	m	54
+Salmon	m	36
+Olive	m	0
+Olive	m	60
+Olive	m	13
+Olive	m	9
+Fuchsia	m	34
+Fuchsia	m	75
+Fuchsia	m	100
+Fuchsia	m	66
+Fuchsia	m	72
+Fuchsia	m	87
+Fuchsia	m	37
+Peach	m	10
+Silver	m	11
+Silver	m	19
+Silver	m	27
+Silver	m	9
+Silver	m	0
+Cardinal	m	85
+Cardinal	m	100
+Lavender	m	8
+Lavender	m	6
+Lavender	m	17
+Lavender	m	16
+Lavender	m	21
+Lavender	m	0.2
+Lavender	m	40
+Lavender	m	18
+Lavender	m	31
+Lavender	m	28
+Lavender	m	55
+Lavender	m	43
+Lavender	m	50
+Lavender	m	58
+Lavender	m	34
+Lavender	m	27
+Lavender	m	33
+Lavender	m	44
+Venetian red	m	94
+Liver	m	26
+Liver	m	67
+Liver	m	27
+Liver	m	57
+Copper	m	32
+Copper	m	53
+Copper	m	46
+Copper	m	36
+Copper	m	33
+Persian red	m	95
+Dodger blue	m	44
+Lemon	m	5
+Lemon	m	0
+Lemon	m	22
+Lemon	m	19
+Persian blue	m	100
+Puce	m	59
+Puce	m	46
+Puce	m	72
+Puce	m	27
+Periwinkle	m	20
+Amber	m	25
+Amber	m	51
+Scarlet	m	86
+Scarlet	m	84
+Scarlet	m	61
+Cerulean	m	26
+Cerulean	m	75
+Cerulean	m	74
+Cerulean	m	21
+Orchid	m	49
+Orchid	m	22
+Orchid	m	48
+Orchid	m	76
+Sepia	m	41
+Viridian	m	30
+Viridian	m	5
+Viridian	m	13
+Viridian	m	0
+Turquoise	m	0
+Cerise	m	95
+Cerise	m	100
+Cerise	m	87
+Cerise	m	62
+Lilac	m	19
+Lilac	m	18
+Lilac	m	39
+Lilac	m	51
+Lilac	m	32
+Cream	m	1
+Maroon	m	83
+Maroon	m	100
+Verdigris	m	0
+Chartreuse	m	0
+British racing green	m	0
+Lime	m	0
+Red-violet	m	89
+Red-violet	m	31
+Red-violet	m	18
+Red-violet	m	33
+Red-violet	m	66
+Red-violet	m	100
+Red-violet	m	58
+Red-violet	m	68
+Red-violet	m	72
+Red-violet	m	59
+Red-violet	m	63
+School bus yellow	m	12
+Safety orange	m	55
+Cosmic latte	m	2.7
+Mahogany	m	67
+Mahogany	m	64
+Naples yellow	m	13
+Gamboge	m	35
+Rich black	m	50
+Rich black	m	35
+Rich black	m	60
+Rich black	m	100
+Rich black	m	79
+Rich black	m	70
+Seal brown	m	80
+Carmine	m	75
+Carmine	m	57
+Carmine	m	79
+Carmine	m	73
+Carmine	m	100
+Carmine	m	94
+Carmine	m	74
+Catawba	m	52
+Baby blue	m	14
+Baby blue	m	0
+Baby blue	m	8
+Baby blue	m	16
+Baby blue	m	27
+Champagne	m	6
+Champagne	m	14
+Champagne	m	8
+Old gold	m	13
+Burgundy	m	97
+Burgundy	m	28
+Wheat	m	9
+Goldenrod	m	24
+Goldenrod	m	0
+Goldenrod	m	8
+Goldenrod	m	27
+Seashell	m	3
+Midnight blue	m	78
+Midnight blue	m	80
+Robin egg blue	m	0
+Spring green	m	0
+Spring green	m	21
+Chocolate	m	50
+Cornflower blue	m	37
+Steel blue	m	28
+Steel blue	m	12
+Chestnut	m	54
+Chestnut	m	50
+Slate gray	m	43
+Gunmetal	m	5
+Royal blue	m	66
+Royal blue	m	53
+Royal blue	m	28
+Buff	m	8
+Flax	m	8
+Mustard	m	12
+Payne's grey	m	13
+Blue-green	m	18
+Blue-green	m	0
+Blue-green	m	7
+Blue-green	m	16
+Blue-green	m	44
+Navajo white	m	13
+Columbia blue	m	4
+Taupe	m	60
+Taupe	m	22
+Taupe	m	20
+Taupe	m	2
+Taupe	m	25
+Taupe	m	30
+Auburn hair	m	91
+Fire engine red	m	89
+Terra cotta	m	50
+Raspberry	m	95
+Raspberry	m	78
+Raspberry	m	62
+Raspberry	m	35
+Raspberry	m	72
+Rose	m	100
+Rose	m	11
+Rose	m	21
+Rose	m	46
+Rose	m	49
+Rose	m	60
+Rose	m	74
+Rose	m	66
+Rose	m	62
+Rose	m	70
+Rose	m	84
+Rose	m	80
+Rose	m	85
+Rose	m	52
+Rose	m	24
+Rose	m	33
+Rose	m	54
+Rose	m	35
+Rose	m	30
+Aqua	m	0
+Aqua	m	8
+Paris green	m	0
+Sapphire	m	56
+Sapphire	m	38
+Sapphire	m	42
+Sapphire	m	41
+Sapphire	m	24
+Magnolia	m	5
+Selective yellow	m	27
+New Hampshire Wildcats	m	75
+Saffron	m	23
+Saffron	m	32
+Saffron	m	50
+Sinopia	m	68
+Phthalocyanine Green G	m	51
+Rust	m	85
+Russet	m	45
+Heliotrope	m	55
+Heliotrope	m	11
+Heliotrope	m	35
+Rosso corsa	m	100
+Coquelicot	m	78
+Egyptian blue	m	69
+International orange	m	69
+International orange	m	88
+Maize	m	6
+Eggshell	m	2
+Ivory	m	0
+Zaffre	m	0.88
+Amaranth	m	35
+Amaranth	m	79
+Amaranth	m	77
+Amaranth	m	73
+Apricot	m	18
+Apricot	m	6
+Apricot	m	26
+Arylide yellow	m	8
+Fallow	m	14
+Forest green	m	21
+Shades of orange	m	50
+Shades of orange	m	35
+Shades of orange	m	45
+Shades of orange	m	65
+Shades of orange	m	54
+Shades of orange	m	6
+Shades of orange	m	10
+Shades of orange	m	18
+Shades of orange	m	26
+Shades of orange	m	40
+Shades of orange	m	47
+Shades of orange	m	39
+Shades of orange	m	38
+Shades of orange	m	61
+Shades of orange	m	58
+Shades of orange	m	71
+Shades of orange	m	56
+Shades of orange	m	63
+Shades of orange	m	34
+Shades of orange	m	59
+Bole	m	44
+Yale Blue	m	75
+Persian green	m	0
+Millettia laurentii	m	0.16
+NIVO	m	0
+Spring bud	m	0
+Jungle green	m	0
+Air Force blue	m	66
+Air Force blue	m	48
+Air Force blue	m	20
+Air Force blue	m	17
+Air Force blue	m	32
+Electric blue	m	2
+Electric blue	m	28
+Carolina blue	m	19
+Glaucous	m	29
+Cambridge Blue	m	0
+Electric green	m	0
+Shades of green	m	0
+Shades of green	m	32
+Shades of green	m	50
+Shades of green	m	36
+Shades of green	m	40
+Shades of green	m	15
+Shades of green	m	19
+Shades of green	m	21
+Shades of green	m	44
+Lava	m	17
+Ruby	m	92
+Ruby	m	100
+Ruby	m	66
+Ruby	m	62
+Ruby	m	89
+Ruby	m	76
+Ruby	m	80
+Ruby	m	52
+Shades of red	m	54
+Shades of red	m	50
+Shades of red	m	45
+Shades of red	m	100
+Shades of red	m	83
+Shades of red	m	87
+Shades of red	m	86
+Shades of red	m	82
+Shades of red	m	52
+Shades of red	m	74
+Shades of red	m	75
+Shades of red	m	92
+Shades of red	m	122
+Shades of red	m	80
+Shades of red	m	89
+Shades of red	m	85
+Shades of red	m	90
+Candy apple red	m	97
+Candy apple red	m	50
+Cordovan	m	54
+Fulvous	m	42
+Cinereous	m	15
+Wine	m	59
+Wine	m	6
+Wine	m	82
+White	m	0
+Duke blue	m	75
+Mikado yellow	m	23
+Shades of pink	m	20
+Shades of pink	m	8
+Shades of pink	m	16
+Shades of pink	m	13
+Shades of pink	m	18
+Shades of pink	m	25
+Shades of pink	m	22
+Shades of pink	m	30
+Shades of pink	m	31
+Shades of pink	m	26
+Shades of pink	m	43
+Shades of pink	m	46
+Shades of pink	m	35
+Shades of pink	m	38
+Shades of pink	m	50
+Shades of pink	m	15
+Shades of pink	m	47
+Shades of pink	m	39
+Shades of pink	m	59
+Shades of pink	m	11
+Shades of pink	m	12
+Shades of pink	m	67
+Shades of pink	m	92
+Shades of pink	m	63
+Shades of pink	m	73
+Shades of pink	m	100
+Shades of pink	m	57
+Shades of pink	m	49
+Shades of pink	m	64
+Shades of pink	m	94
+Shades of pink	m	48
+Shades of pink	m	75
+Turkey red	m	90
+Bronze	m	59
+Bronze	m	32
+Bronze	m	9
+Shades of magenta	m	100
+Shades of magenta	m	90
+Shades of magenta	m	77
+Shades of magenta	m	66
+Shades of magenta	m	80
+Shades of magenta	m	89
+Shades of magenta	m	69
+Shades of magenta	m	94
+Shades of magenta	m	49
+Shades of magenta	m	75
+Shades of magenta	m	45
+Shades of magenta	m	57
+Shades of magenta	m	59
+Shades of magenta	m	51
+Plum	m	51
+Plum	m	28
+Plum	m	75
+Tuscan red	m	61
+Tuscan red	m	14
+Tuscan red	m	20
+Tuscan red	m	26
+Tuscan red	m	44
+Tuscan red	m	30
+Desert sand	m	15
+Desert sand	m	33
+Desert sand	m	25
+Desert sand	m	8
+Desert sand	m	20
+Desert sand	m	24
+Desert sand	m	22
+Camel	m	20
+Byzantium	m	63
+Byzantium	m	73
+Byzantium	m	39
+Midnight green	m	15
+Blue-gray	m	25
+Blue-gray	m	29
+Blue-gray	m	28
+Blue-gray	m	74
+Blue-gray	m	16
+Blue-gray	m	9
+Blue-gray	m	21
+Blue-gray	m	13
+Straw	m	5
+Citrine	m	8
+Sunset	m	14
+Sunset	m	26
+Sunset	m	63
+Shades of yellow	m	0
+Shades of yellow	m	15
+Shades of yellow	m	12
+Shades of yellow	m	8
+Shades of yellow	m	11
+Shades of yellow	m	13
+Shades of yellow	m	16
+Shades of yellow	m	14
+Shades of yellow	m	24
+Alizarin crimson	m	83
+Stil de grain yellow	m	13
+Capri	m	25
+Cadet grey	m	29
+Cadet grey	m	1
+Cadet grey	m	33
+Cadet grey	m	9
+Cadet grey	m	49
+Tufts Blue	m	30
+UCLA Blue	m	35
+Vanilla	m	6
+Vanilla	m	11
+Vanilla	m	9
+Shades of blue	m	100
+Shades of blue	m	14
+Shades of blue	m	6
+Shades of blue	m	20
+Shades of blue	m	3
+Shades of blue	m	67
+Shades of blue	m	16
+Shades of blue	m	80
+Shades of blue	m	54
+Shades of blue	m	45
+Shades of blue	m	46
+Shades of blue	m	69
+Shades of blue	m	74
+Shades of blue	m	78
+Shades of blue	m	26
+Shades of blue	m	49
+Shades of white	m	0
+Shades of white	m	3
+Shades of white	m	2
+Shades of white	m	1
+Shades of white	m	4
+Shades of white	m	6
+Shades of white	m	7
+Shades of white	m	8
+Shades of white	m	13
+Jasmine	m	11
+Alice blue	m	2
+Shades of gray	m	0
+Shades of gray	m	5
+Shades of gray	m	13
+Shades of gray	m	7
+Shades of gray	m	25
+Shades of gray	m	29
+Shades of gray	m	43
+Shades of gray	m	14
+Shades of gray	m	80
+Shades of gray	m	15
+Shades of gray	m	10
+Shades of gray	m	60
+Coffee	m	30
+Coffee	m	26
+Coffee	m	28
+Lion	m	45
+Shades of violet	m	100
+Shades of violet	m	31
+Shades of violet	m	43
+Shades of violet	m	97
+Shades of violet	m	29
+Shades of violet	m	73
+Shades of violet	m	45
+Shades of violet	m	35
+Shades of violet	m	70
+Shades of cyan	m	0
+Shades of cyan	m	22
+Shades of cyan	m	18
+Shades of cyan	m	26
+Shades of cyan	m	2
+Shades of cyan	m	44
+Shades of cyan	m	15
+Shades of cyan	m	7
+Shades of cyan	m	30
+Shades of purple	m	100
+Shades of purple	m	98
+Shades of purple	m	52
+Shades of purple	m	89
+Shades of purple	m	87
+Shades of purple	m	94
+Shades of purple	m	58
+Shades of purple	m	27
+Shades of purple	m	31
+Shades of purple	m	49
+Shades of purple	m	55
+Shades of purple	m	69
+Shades of purple	m	50
+Shades of purple	m	43
+Shades of purple	m	32
+Shades of purple	m	63
+Shades of purple	m	62
+Sky blue	m	12
+Sky blue	m	0
+Sky blue	m	18
+Sky blue	m	7
+Sky blue	m	20
+Sky blue	m	25
+Sky blue	m	29
+Sky blue	m	5
+Sky blue	m	11
+Shades of brown	m	50
+Shades of brown	m	75
+Shades of brown	m	25
+Shades of brown	m	19
+Shades of brown	m	0
+Shades of brown	m	8
+Shades of brown	m	63
+Shades of brown	m	53
+Shades of brown	m	17
+Shades of brown	m	36
+Shades of brown	m	35
+Shades of brown	m	22
+Shades of brown	m	45
+Shades of brown	m	33
+Shades of brown	m	68
+Shades of brown	m	14
+Shades of brown	m	60
+Shades of brown	m	20
+Oxford Blue	m	80
+Shades of black	m	0
+Shades of black	m	78
+Shades of black	m	60
+Shades of black	m	13
+Shades of black	m	28
+Shades of black	m	80
+Shades of black	m	9
+Shades of black	m	51
+Shades of black	m	8
+Shades of black	m	35
+Baker-Miller Pink	m	43
+Indian red	m	52
+Indian red	m	94
+Indian red	m	50
+Indian red	m	54
+Indian red	m	67
+Citron	m	0
+National symbols of Nepal	m	91
+Coyote brown	m	25
+BISU Visual Identity	m	90
+BISU Visual Identity	m	0
+BISU Visual Identity	m	30
+Acid green	m	0
+Android green	m	0
+Kobicha	m	36
+Federal Standard 595 camouflage colours	m	40
+Federal Standard 595 camouflage colours	m	0
+Federal Standard 595 camouflage colours	m	50
+Federal Standard 595 camouflage colours	m	60
+Federal Standard 595 camouflage colours	m	70
+Federal Standard 595 camouflage colours	m	30
+Federal Standard 595 camouflage colours	m	100
+Federal Standard 595 camouflage colours	m	80
+Dark purple	m	52
+Marigold	m	31
+Marigold	m	16
+Marigold	m	14
+Marigold	m	24
+Dregs of wine	m	52
+Raisin black	m	8
+Cyclamen	m	55
+Marian blue	m	44
+Marengo	m	14
+Marengo	m	0
+Pantone 448 C	m	43

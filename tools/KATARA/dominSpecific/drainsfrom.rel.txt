@@ -1,0 +1,82 @@
+Portal vein	drainsfrom	Gastrointestinal tract
+Portal vein	drainsfrom	Spleen
+Portal vein	drainsfrom	Pancreas
+Pulmonary vein	drainsfrom	Lungs
+Great cerebral vein	drainsfrom	Telencephalon
+Jugular vein	drainsfrom	Head
+External jugular vein	drainsfrom	Human cranium
+External jugular vein	drainsfrom	Face
+Renal vein	drainsfrom	Kidney
+Common iliac vein	drainsfrom	Pelvis and lower limbs
+Splenic vein	drainsfrom	trabecular vein of spleen
+Axillary vein	drainsfrom	Axilla
+Diploic veins	drainsfrom	Diploë
+Inferior epigastric vein	drainsfrom	Superior epigastric vein
+Superior epigastric vein	drainsfrom	abdominal wall and some of the diaphragm
+Short gastric veins	drainsfrom	Stomach
+Suprarenal veins	drainsfrom	Adrenal gland
+Inferior phrenic vein	drainsfrom	Thoracic diaphragm
+Inferior thyroid veins	drainsfrom	Thyroid gland
+Middle thyroid vein	drainsfrom	Thyroid
+Lingual veins	drainsfrom	Tongue
+Pharyngeal veins	drainsfrom	Pharynx
+Occipital vein	drainsfrom	Scalp
+Occipital vein	drainsfrom	Occiput
+Posterior auricular vein	drainsfrom	Scalp
+Supraorbital vein	drainsfrom	Forehead
+Superficial temporal vein	drainsfrom	Temple
+Superficial temporal vein	drainsfrom	Scalp
+Inferior cerebral veins	drainsfrom	Cerebrum
+Oblique vein of the left atrium	drainsfrom	Left atrium
+Pancreatic veins	drainsfrom	Pancreas
+Pancreaticoduodenal veins	drainsfrom	Pancreas
+Pancreaticoduodenal veins	drainsfrom	Duodenum
+Right gastroepiploic vein	drainsfrom	Stomach
+Cerebellar veins	drainsfrom	Cerebellum
+Middle colic vein	drainsfrom	Transverse colon
+Ovarian vein	drainsfrom	Ovary
+Superior rectal vein	drainsfrom	Rectum
+Dorsal venous network of hand	drainsfrom	Hand
+Left marginal vein	drainsfrom	Left ventricle
+Superior phrenic vein	drainsfrom	Thoracic diaphragm
+Ascending lumbar vein	drainsfrom	Lateral sacral veins
+Dorsal veins of the penis	drainsfrom	Penis
+Axillary lymph nodes	drainsfrom	Axilla
+Pampiniform venous plexus	drainsfrom	Testicle
+Pampiniform venous plexus	drainsfrom	Epididymis
+Prostatic venous plexus	drainsfrom	Prostate
+Cystic vein	drainsfrom	Gallbladder
+Left gastric vein	drainsfrom	Lesser curvature of the stomach
+Middle rectal veins	drainsfrom	Rectum
+Inferior rectal veins	drainsfrom	Rectum
+Vesical venous plexus	drainsfrom	Urinary bladder
+Interlobular veins	drainsfrom	Efferent arteriole
+Stellate veins	drainsfrom	Interlobular arteries
+Trabecular veins	drainsfrom	Sinus
+Left colic vein	drainsfrom	Transverse colon
+Right gastric vein	drainsfrom	Lesser curvature of the stomach
+Central veins of liver	drainsfrom	Liver sinusoid
+Occipital lymph nodes	drainsfrom	Scalp
+Occipital lymph nodes	drainsfrom	Occiput
+Mastoid lymph nodes	drainsfrom	Scalp
+Sphenoparietal sinus	drainsfrom	superficial middle cerebral vein
+Intercostal veins	drainsfrom	Intercostal muscle
+Intercostal veins	drainsfrom	Intercostal space
+Superior labial vein	drainsfrom	Upper lip
+Inferior labial vein	drainsfrom	Lower lip
+Preauricular deep parotid lymph nodes	drainsfrom	Parotid gland
+Appendicular vein	drainsfrom	Vermiform appendix
+Jejunal veins	drainsfrom	Jejunum
+Ileal veins	drainsfrom	Ileum
+Uterine veins	drainsfrom	Uterus
+Vesical veins	drainsfrom	Urinary bladder
+Vein of bulb of penis	drainsfrom	Bulb of penis
+Superficial dorsal veins of clitoris	drainsfrom	Clitoris
+Deep dorsal vein of clitoris	drainsfrom	Clitoris
+Posterior scrotal veins	drainsfrom	Scrotum
+Posterior labial veins	drainsfrom	Labia
+Superior laryngeal vein	drainsfrom	Larynx
+Inferior laryngeal vein	drainsfrom	Larynx
+Intrascleral plexus	drainsfrom	Schlemm's canal
+Medial marginal vein	drainsfrom	Dorsal venous arch of the foot
+Lateral marginal vein	drainsfrom	Dorsal venous arch of the foot

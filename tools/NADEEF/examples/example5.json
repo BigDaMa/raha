@@ -1,0 +1,12 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : ["./examples/inctest.csv"]
+    },
+    "rule" : [
+        {
+            "type" : "udf",
+            "value" : ["qa.qcri.nadeef.test.udf.IncPairRule1"]
+        }
+    ]
+}

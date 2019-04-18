@@ -1,0 +1,95 @@
+Entorhinal cortex	ispartof	Temporal lobe
+Striatum	ispartof	Basal ganglia
+Striatum	ispartof	Reward system
+Putamen	ispartof	Dorsal striatum
+Broca's area	ispartof	Frontal lobe
+Substantia nigra	ispartof	Mesencephalon
+Substantia nigra	ispartof	Basal ganglia
+Cerebellum	ispartof	Hindbrain
+Hippocampus	ispartof	Temporal lobe
+Cerebral cortex	ispartof	Telencephalon
+Thalamus	ispartof	Diencephalon
+Basal ganglia	ispartof	Cerebrum
+Medulla oblongata	ispartof	Brain stem
+Pons	ispartof	Brain stem
+Brainstem	ispartof	Brain
+Dentate gyrus	ispartof	Temporal lobe
+Lateral geniculate nucleus	ispartof	Thalamus
+Cingulate cortex	ispartof	Cerebral cortex
+Caudate nucleus	ispartof	Dorsal striatum
+Parietal lobe	ispartof	Cerebrum
+Temporal lobe	ispartof	Cerebrum
+Frontal lobe	ispartof	Cerebrum
+Occipital lobe	ispartof	Cerebrum
+Mammillary body	ispartof	Midbrain
+Nucleus accumbens	ispartof	Mesolimbic pathway
+Nucleus accumbens	ispartof	Basal ganglia
+Pulvinar nuclei	ispartof	Thalamus
+Midbrain tegmentum	ispartof	Midbrain
+Arcuate nucleus	ispartof	Hypothalamus
+Optic tract	ispartof	Visual system
+Inferior frontal gyrus	ispartof	Frontal lobe
+Middle frontal gyrus	ispartof	Frontal lobe
+Superior frontal gyrus	ispartof	Frontal lobe
+Brodmann area 4	ispartof	Precentral gyrus
+Transverse temporal gyrus	ispartof	Temporal lobe
+Superior temporal gyrus	ispartof	Temporal lobe
+Inferior colliculus	ispartof	Tectum
+Superior colliculus	ispartof	Tectum
+Subthalamic nucleus	ispartof	Basal ganglia
+Midbrain tectum	ispartof	Midbrain
+Broca's region	ispartof	Frontal lobe
+Pretectal area	ispartof	Midbrain
+Olivary body	ispartof	Medulla oblongata
+Inferior olivary nucleus	ispartof	Olivary body
+Cerebellar vermis	ispartof	Cerebellum
+Interventricular foramina	ispartof	Ventricular system
+Thalamic reticular nucleus	ispartof	Thalamus
+Prefrontal cortex	ispartof	Frontal lobe
+Abducens nucleus	ispartof	Pons
+Subiculum	ispartof	Temporal lobe
+Dentate nucleus	ispartof	Cerebellum
+Deep cerebellar nuclei	ispartof	Cerebellum
+Falx cerebri	ispartof	Meninges
+Tentorium cerebelli	ispartof	Meninges
+Medial geniculate nucleus	ispartof	Thalamus
+Brodmann area 24	ispartof	Cingulate gyrus
+Arachnoid mater	ispartof	Meninges
+Accessory cuneate nucleus	ispartof	Medulla oblongata
+Ventromedial nucleus of the hypothalamus	ispartof	Hypothalamus
+Flocculus	ispartof	Cerebellum
+Hippocampal formation	ispartof	Temporal lobe
+Posterior nucleus of hypothalamus	ispartof	Hypothalamus
+Interthalamic adhesion	ispartof	Thalamus
+Falx cerebelli	ispartof	Meninges
+Middle temporal gyrus	ispartof	Temporal lobe
+Inferior temporal gyrus	ispartof	Temporal lobe
+Calcarine sulcus	ispartof	Occipital lobe
+Posterior cingulate	ispartof	Cingulate gyrus
+Facial motor nucleus	ispartof	Medulla oblongata
+Cochlear nucleus	ispartof	Brainstem
+Vestibular nuclei	ispartof	Medulla oblongata
+Inferior parietal lobule	ispartof	Parietal lobe
+Lingual gyrus	ispartof	Occipital lobe
+Intraparietal sulcus	ispartof	Parietal lobe
+Islands of Calleja	ispartof	Striatum
+Pars compacta	ispartof	Substantia nigra
+Anterior proper fasciculus	ispartof	Spinal cord
+Perirhinal cortex	ispartof	Cerebral cortex
+Frenulum of superior medullary velum	ispartof	Superior medullary velum
+Cerebellar tonsil	ispartof	Cerebellum
+Ventral posterior nucleus	ispartof	Thalamus
+Intermediolateral nucleus	ispartof	Spinal cord
+Tuberomammillary nucleus	ispartof	Hypothalamus
+Anterior nuclei of thalamus	ispartof	Thalamus
+Ventral posterolateral nucleus	ispartof	Ventral posterior nucleus
+Dyschronometria	ispartof	Metencephalon
+Superior temporal sulcus	ispartof	Temporal lobe
+Primary motor cortex	ispartof	Precentral gyrus
+Anatomy of the cerebellum	ispartof	Metencephalon
+Tentorial incisure	ispartof	Tentorium cerebelli
+Pacchionian foramen	ispartof	Meninges
+Parabrachial area	ispartof	Brainstem
+Paratenial nucleus	ispartof	Midline nuclear group
+Parafacial zone	ispartof	Brainstem
+Dorsomedial prefrontal cortex	ispartof	Prefrontal Cortex

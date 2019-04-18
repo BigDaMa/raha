@@ -1,0 +1,2700 @@
+Ampicillin	atcSuffix	CA01
+BCG vaccine	atcSuffix	AN01
+Chloramphenicol	atcSuffix	AX02
+Ciprofloxacin	atcSuffix	MA02
+Dehydroepiandrosterone	atcSuffix	AA07
+Erythromycin	atcSuffix	AF02
+Epinephrine	atcSuffix	AD01
+Flunitrazepam	atcSuffix	CD03
+Gamma-Hydroxybutyric acid	atcSuffix	AX11
+Heroin	atcSuffix	BC06
+Hydrocodone	atcSuffix	DA03
+Ketamine	atcSuffix	AX03
+Ketoprofen	atcSuffix	AE03
+Morphine	atcSuffix	AA01
+Methadone	atcSuffix	AC52
+Oxycodone	atcSuffix	AA05
+Hyoscine hydrobromide	atcSuffix	AD01
+Sodium thiopental	atcSuffix	AF03
+Tetracycline	atcSuffix	AB13
+Testosterone	atcSuffix	BA03
+Theobromine	atcSuffix	BD01
+Vitamin C	atcSuffix	11.0
+Sildenafil	atcSuffix	BE03
+Botulinum toxin	atcSuffix	AX01
+Darbepoetin alfa	atcSuffix	XA02
+Clozapine	atcSuffix	AH02
+Phenytoin	atcSuffix	AB02
+Thalidomide	atcSuffix	AX02
+Valproate	atcSuffix	AG01
+Theophylline	atcSuffix	DA04
+Progesterone	atcSuffix	DA04
+Pseudoephedrine	atcSuffix	BA02
+MMR vaccine	atcSuffix	BD52
+Ribavirin	atcSuffix	AB04
+Paracetamol	atcSuffix	BE01
+Inosine	atcSuffix	BB05
+Adenosine	atcSuffix	EB10
+Trimethoprim	atcSuffix	EA01
+Paroxetine	atcSuffix	AB05
+Fentanyl	atcSuffix	AH01
+Triprolidine	atcSuffix	AX07
+Trifluoperazine	atcSuffix	AB06
+Halothane	atcSuffix	AB01
+Naloxone	atcSuffix	AB15
+Atropine	atcSuffix	BA01
+Vancomycin	atcSuffix	AA09
+Chlorpromazine	atcSuffix	AA01
+Ciclosporin	atcSuffix	AD01
+Ibuprofen	atcSuffix	EB16
+Tacrolimus	atcSuffix	AH01
+Methaqualone	atcSuffix	CM01
+Pentamidine	atcSuffix	CX01
+Suxamethonium chloride	atcSuffix	AB01
+Mifepristone	atcSuffix	XB01
+Ephedrine	atcSuffix	CA26
+Thyrotropin-releasing hormone	atcSuffix	CJ02
+Fluphenazine	atcSuffix	AB02
+Haloperidol	atcSuffix	AD01
+Olanzapine	atcSuffix	AH03
+Ziprasidone	atcSuffix	AE04
+Risperidone	atcSuffix	AX08
+Benzatropine	atcSuffix	AC01
+Propranolol	atcSuffix	AA05
+Clarithromycin	atcSuffix	FA09
+Mefloquine	atcSuffix	BC02
+Diethylcarbamazine	atcSuffix	CB02
+Glutethimide	atcSuffix	CE01
+Polio vaccine	atcSuffix	BF01
+Zidovudine	atcSuffix	AF01
+Escitalopram	atcSuffix	AB10
+Citalopram	atcSuffix	AB04
+Enfuvirtide	atcSuffix	AX07
+Streptomycin	atcSuffix	AA04
+Oxytocin	atcSuffix	BB02
+Pancuronium bromide	atcSuffix	AC01
+Hyoscyamine	atcSuffix	BA03
+Isotretinoin	atcSuffix	AD04
+Diazepam	atcSuffix	BA01
+Warfarin	atcSuffix	AA03
+Heparin	atcSuffix	AB01
+Temazepam	atcSuffix	CD07
+Disulfiram	atcSuffix	BB01
+Alprazolam	atcSuffix	BA12
+Lorazepam	atcSuffix	BA06
+Minocycline	atcSuffix	AA08
+Tramadol	atcSuffix	AX02
+Glipizide	atcSuffix	BB07
+Glimepiride	atcSuffix	BB12
+Xylometazoline	atcSuffix	AA07
+Neomycin	atcSuffix	AB08
+Gentamicin	atcSuffix	AX07
+Ertapenem	atcSuffix	DH03
+Allopurinol	atcSuffix	AA01
+Carnitine	atcSuffix	AA01
+Melatonin	atcSuffix	CH01
+Methotrexate	atcSuffix	BA01
+Maprotiline	atcSuffix	AA21
+Topiramate	atcSuffix	AX11
+Loperamide	atcSuffix	DA03
+Diethylstilbestrol	atcSuffix	CB02
+Procaine	atcSuffix	BA02
+Human chorionic gonadotropin	atcSuffix	GA08
+Ethchlorvynol	atcSuffix	CM08
+Terbutaline	atcSuffix	AC03
+Pimozide	atcSuffix	AG02
+Perphenazine	atcSuffix	AB03
+Thioridazine	atcSuffix	AC02
+Phenelzine	atcSuffix	AF03
+Aripiprazole	atcSuffix	AX12
+Metronidazole	atcSuffix	AB17
+Hydromorphone	atcSuffix	AA03
+Infliximab	atcSuffix	AB02
+Sevoflurane	atcSuffix	AB08
+Isoflurane	atcSuffix	AB06
+Anastrozole	atcSuffix	BG03
+Dexamethasone	atcSuffix	AC02
+Digitoxin	atcSuffix	AA04
+Digoxin	atcSuffix	AA05
+Sertindole	atcSuffix	AE03
+Lamotrigine	atcSuffix	AX09
+Zolpidem	atcSuffix	CF02
+Diclofenac	atcSuffix	AX18
+Acetylcysteine	atcSuffix	CB01
+Colchicine	atcSuffix	AC01
+Acetazolamide	atcSuffix	EC01
+pseudoephedrine	atcSuffix	AB56
+Bupropion	atcSuffix	AX12
+Interferon beta-1a	atcSuffix	AB07
+Tadalafil	atcSuffix	BE08
+Metoclopramide	atcSuffix	FA01
+Orlistat	atcSuffix	AB01
+Diphenhydramine	atcSuffix	AA32
+Oxcarbazepine	atcSuffix	AF02
+Loratadine	atcSuffix	AX13
+Loxapine	atcSuffix	AH01
+Tranylcypromine	atcSuffix	AF04
+Methicillin	atcSuffix	CF03
+Linezolid	atcSuffix	XX08
+Minoxidil	atcSuffix	DC01
+Granisetron	atcSuffix	AA02
+Propafenone	atcSuffix	BC03
+Phenacetin	atcSuffix	BE03
+Salbutamol	atcSuffix	AC02
+Alpha-1 antitrypsin	atcSuffix	AB02
+Estrone	atcSuffix	CA07
+Dextroamphetamine	atcSuffix	BA02
+Syrup of ipecac	atcSuffix	CA04
+Furosemide	atcSuffix	CA01
+Pentazocine	atcSuffix	AD01
+Omeprazole	atcSuffix	BC01
+Propofol	atcSuffix	AX10
+Naproxen	atcSuffix	CC02
+Cyclopentolate	atcSuffix	FA04
+Azathioprine	atcSuffix	AX01
+Doxapram	atcSuffix	AB01
+Venlafaxine	atcSuffix	AX16
+Verapamil	atcSuffix	DA01
+Mirtazapine	atcSuffix	AX11
+Sirolimus	atcSuffix	AA10
+Everolimus	atcSuffix	XE10
+Basiliximab	atcSuffix	AC02
+Hydrocortisone	atcSuffix	AC03
+Daclizumab	atcSuffix	AC01
+Anti-thymocyte globulin	atcSuffix	AA03
+Benzocaine	atcSuffix	AD03
+Levofloxacin	atcSuffix	MA12
+Aminolevulinic acid	atcSuffix	XD04
+Lindane	atcSuffix	AB02
+Misoprostol	atcSuffix	BB01
+Oxytetracycline	atcSuffix	AA03
+Hydrochlorothiazide	atcSuffix	AA03
+Clonidine	atcSuffix	AC01
+Captopril	atcSuffix	AA01
+Imatinib	atcSuffix	XE01
+Filgrastim	atcSuffix	AA02
+Duloxetine	atcSuffix	AX21
+Triazolam	atcSuffix	CD05
+Brompheniramine	atcSuffix	AB01
+Amitriptyline	atcSuffix	AA09
+Clopidogrel	atcSuffix	AC04
+Itraconazole	atcSuffix	AC02
+Dihydrotestosterone	atcSuffix	AA01
+Troglitazone	atcSuffix	BG01
+Isoniazid	atcSuffix	AC01
+Sumatriptan	atcSuffix	CC01
+Rosiglitazone	atcSuffix	BG02
+Pioglitazone	atcSuffix	BG03
+Cathine	atcSuffix	AA07
+Trastuzumab	atcSuffix	XC03
+Pethidine	atcSuffix	AB02
+Aciclovir	atcSuffix	AB01
+Ergotamine	atcSuffix	CA02
+Pilocarpine	atcSuffix	AX01
+Bromocriptine	atcSuffix	CB01
+Pergolide	atcSuffix	BC02
+Dofetilide	atcSuffix	BD04
+Prednisolone	atcSuffix	EA01
+Simvastatin	atcSuffix	AA01
+Clindamycin	atcSuffix	FF01
+Rosuvastatin	atcSuffix	AA07
+Fluvastatin	atcSuffix	AA04
+Pravastatin	atcSuffix	AA03
+Lovastatin	atcSuffix	AA02
+Cerivastatin	atcSuffix	AA06
+Tretinoin	atcSuffix	AD01
+Quinidine	atcSuffix	BA01
+Amlodipine	atcSuffix	CA01
+Midazolam	atcSuffix	CD08
+Estriol	atcSuffix	CA04
+Rofecoxib	atcSuffix	AH02
+Celecoxib	atcSuffix	XX33
+Valdecoxib	atcSuffix	AH03
+Vardenafil	atcSuffix	BE09
+Pantoprazole	atcSuffix	BC02
+Dimenhydrinate	atcSuffix	AA52
+Amiodarone	atcSuffix	BD01
+Dapsone	atcSuffix	AX05
+Doxycycline	atcSuffix	AA02
+Chlorphenamine	atcSuffix	AB04
+Desflurane	atcSuffix	AB07
+Cytarabine	atcSuffix	BC01
+Levonorgestrel	atcSuffix	AC03
+Azithromycin	atcSuffix	FA10
+Levetiracetam	atcSuffix	AX14
+Piracetam	atcSuffix	BX03
+Fludrocortisone	atcSuffix	AA02
+Frovatriptan	atcSuffix	CC07
+Aztreonam	atcSuffix	DF01
+Carisoprodol	atcSuffix	BA02
+Enalapril	atcSuffix	AA02
+Atenolol	atcSuffix	AB03
+Nitrofurantoin	atcSuffix	XE01
+Nifedipine	atcSuffix	CA05
+Roxithromycin	atcSuffix	FA06
+Dantrolene	atcSuffix	CA01
+Telithromycin	atcSuffix	FA15
+Methyltestosterone	atcSuffix	BA02
+Diltiazem	atcSuffix	AE03
+Clonazepam	atcSuffix	AE01
+Indapamide	atcSuffix	BA11
+Gemfibrozil	atcSuffix	AB04
+Famotidine	atcSuffix	BA03
+Artemisinin	atcSuffix	BE01
+Fluticasone	atcSuffix	AC17
+Donepezil	atcSuffix	DA02
+Nandrolone	atcSuffix	AB01
+Etanercept	atcSuffix	AB01
+Nystatin	atcSuffix	AA02
+Spironolactone	atcSuffix	DA01
+Suramin	atcSuffix	CX02
+Hydroxyzine	atcSuffix	BB01
+Flecainide	atcSuffix	BC04
+Bethanechol	atcSuffix	AB02
+Carbachol	atcSuffix	AB01
+Physostigmine	atcSuffix	EB05
+Neostigmine	atcSuffix	AA01
+Teriparatide	atcSuffix	AA02
+Pyridostigmine	atcSuffix	AA02
+Echothiophate	atcSuffix	EB03
+Tacrine	atcSuffix	DA01
+Cisapride	atcSuffix	FA02
+Flavoxate	atcSuffix	BD02
+Dicycloverine	atcSuffix	AA07
+Ipratropium bromide	atcSuffix	AX03
+Fosinopril	atcSuffix	AA09
+Irbesartan	atcSuffix	CA04
+Phenylbutazone	atcSuffix	AA01
+Esomeprazole	atcSuffix	BC05
+Zalcitabine	atcSuffix	AF03
+Abacavir	atcSuffix	AF06
+Abciximab	atcSuffix	AC13
+Stanozolol	atcSuffix	AA02
+Ouabain	atcSuffix	AC01
+Buprenorphine	atcSuffix	AE01
+Yohimbine	atcSuffix	BE04
+Ketoconazole	atcSuffix	AB02
+Isosorbide dinitrate	atcSuffix	DA08
+Desmopressin	atcSuffix	BA02
+Desloratadine	atcSuffix	AX27
+Hydroxycarbamide	atcSuffix	XX05
+Rabeprazole	atcSuffix	BC04
+Fluconazole	atcSuffix	AC15
+Cefazolin	atcSuffix	DB04
+Metoprolol	atcSuffix	AB02
+Emtricitabine	atcSuffix	AF09
+salmeterol	atcSuffix	AK06
+Ergoloid	atcSuffix	AE01
+Reboxetine	atcSuffix	AX18
+Atazanavir	atcSuffix	AE08
+Buspirone	atcSuffix	BE01
+Amoxapine	atcSuffix	AA17
+Flumazenil	atcSuffix	AB25
+Praziquantel	atcSuffix	BA01
+Metyrapone	atcSuffix	CD01
+Ezetimibe	atcSuffix	AX09
+Dexmethylphenidate	atcSuffix	BA11
+Ritonavir	atcSuffix	AE03
+Technetium	atcSuffix	GA01
+Oxymorphone	atcSuffix	A
+Colistin	atcSuffix	AA10
+Bacitracin	atcSuffix	AX05
+Mupirocin	atcSuffix	AX09
+Prostacyclin	atcSuffix	AC09
+Chlorhexidine	atcSuffix	AB03
+Miconazole	atcSuffix	AB09
+Rizatriptan	atcSuffix	CC04
+Pimecrolimus	atcSuffix	AH02
+Guaifenesin	atcSuffix	CA03
+Adapalene	atcSuffix	AD03
+Rifampicin	atcSuffix	AB02
+Cyclobenzaprine	atcSuffix	BX08
+Fusidic acid	atcSuffix	AX01
+Sotalol	atcSuffix	AA07
+Eprosartan	atcSuffix	CA02
+Pramiracetam	atcSuffix	BX16
+Oxiracetam	atcSuffix	BX07
+Aniracetam	atcSuffix	BX11
+Pyritinol	atcSuffix	BX02
+Abamectin	atcSuffix	AA02
+Cetirizine	atcSuffix	AE07
+Zanamivir	atcSuffix	AH01
+Oseltamivir	atcSuffix	AH02
+Domperidone	atcSuffix	FA03
+Oxprenolol	atcSuffix	AA02
+Bumetanide	atcSuffix	CA02
+Cloxacillin	atcSuffix	CF02
+Fexofenadine	atcSuffix	AX26
+Gefitinib	atcSuffix	XE02
+Nadolol	atcSuffix	AA12
+Ceftriaxone	atcSuffix	DD04
+Fenfluramine	atcSuffix	AA02
+Metenolone	atcSuffix	AA04
+Alendronic acid	atcSuffix	BA04
+Rimantadine	atcSuffix	AC02
+Methyldopa	atcSuffix	AB01
+Promethazine	atcSuffix	AA10
+Teicoplanin	atcSuffix	XA02
+Folinic acid	atcSuffix	AF03
+clavulanic acid	atcSuffix	CR02
+sulfamethoxazole	atcSuffix	EE01
+Mesna	atcSuffix	CB05
+simvastatin	atcSuffix	BA02
+Dihydrocodeine	atcSuffix	AA08
+Bleomycin	atcSuffix	DC01
+Mannitol	atcSuffix	AD16
+Cimetidine	atcSuffix	BA01
+Imipramine	atcSuffix	AA02
+Ximelagatran	atcSuffix	AE05
+Sufentanil	atcSuffix	AH03
+Alfentanil	atcSuffix	AH02
+Clobetasol propionate	atcSuffix	AD01
+Zafirlukast	atcSuffix	DC01
+Influenza vaccine	atcSuffix	BB01
+Tetrahydrobiopterin	atcSuffix	AX07
+Ticlopidine	atcSuffix	AC05
+Dipyridamole	atcSuffix	AC07
+Griseofulvin	atcSuffix	AA08
+Live attenuated influenza vaccine	atcSuffix	BB03
+Dextropropoxyphene	atcSuffix	AC04
+Clomifene	atcSuffix	GB02
+Tolnaftate	atcSuffix	AE18
+Pentagastrin	atcSuffix	CG04
+Simethicone	atcSuffix	AX13
+Vincristine	atcSuffix	CA02
+Nitrazepam	atcSuffix	CD02
+Zopiclone	atcSuffix	CF01
+Mesalazine	atcSuffix	EC02
+Acepromazine	atcSuffix	AA04
+Esmolol	atcSuffix	AB09
+Ivermectin	atcSuffix	AX22
+Bromazepam	atcSuffix	BA08
+Amiloride	atcSuffix	DB01
+Amantadine	atcSuffix	BB01
+Acarbose	atcSuffix	BF01
+Chlortalidone	atcSuffix	BA04
+Chlorpropamide	atcSuffix	BB02
+MeNZB	atcSuffix	AH06
+Terbinafine	atcSuffix	AE15
+Ketanserin	atcSuffix	KD01
+Hyaluronidase	atcSuffix	AA03
+Zolmitriptan	atcSuffix	CC03
+Isosorbide mononitrate	atcSuffix	DA14
+Ondansetron	atcSuffix	AA01
+Baclofen	atcSuffix	BX01
+Procainamide	atcSuffix	BA02
+Cefuroxime	atcSuffix	DC02
+Tegaserod	atcSuffix	AX06
+Alosetron	atcSuffix	AE01
+Rimonabant	atcSuffix	AX01
+Bendroflumethiazide	atcSuffix	AA01
+Co-codamol	atcSuffix	BE51
+Papaverine	atcSuffix	AD01
+Naltrexone	atcSuffix	BB04
+Flurazepam	atcSuffix	CD01
+Indometacin	atcSuffix	EB03
+Sulfamethoxazole	atcSuffix	EC01
+Mefenamic acid	atcSuffix	AG01
+Rasburicase	atcSuffix	AF07
+Galantamine	atcSuffix	DA04
+Remifentanil	atcSuffix	AH06
+Sulfasalazine	atcSuffix	EC01
+Rituximab	atcSuffix	XC02
+Adrafinil	atcSuffix	BX17
+Triamcinolone	atcSuffix	AC01
+Finasteride	atcSuffix	CB01
+Premarin	atcSuffix	CA57
+Riluzole	atcSuffix	XX02
+Cefalexin	atcSuffix	DB01
+Omalizumab	atcSuffix	DX05
+Valaciclovir	atcSuffix	AB11
+Albendazole	atcSuffix	CA03
+Vecuronium bromide	atcSuffix	AC03
+Salmeterol	atcSuffix	AC12
+Ranitidine	atcSuffix	BA02
+Ramipril	atcSuffix	AA05
+Candesartan	atcSuffix	CA06
+formoterol	atcSuffix	AK07
+Felodipine	atcSuffix	CA02
+Nimodipine	atcSuffix	CA06
+Meropenem	atcSuffix	DH02
+Cefotetan	atcSuffix	DC05
+Bicalutamide	atcSuffix	BB03
+Fulvestrant	atcSuffix	BA03
+Tamoxifen	atcSuffix	BA01
+Goserelin	atcSuffix	AE03
+Selegiline	atcSuffix	BD01
+Sibutramine	atcSuffix	AA10
+Cidofovir	atcSuffix	AB12
+Adefovir	atcSuffix	AF08
+Memantine	atcSuffix	DX01
+Nizatidine	atcSuffix	BA04
+Urokinase	atcSuffix	AD04
+Cinchophen	atcSuffix	AC02
+Abarelix	atcSuffix	BX01
+Acitretin	atcSuffix	BB02
+Fluorouracil	atcSuffix	BC02
+Nelarabine	atcSuffix	BB07
+Idarubicin	atcSuffix	DB06
+Pralatrexate	atcSuffix	BA05
+Etoricoxib	atcSuffix	AH05
+Lumiracoxib	atcSuffix	AH06
+Conivaptan	atcSuffix	XA02
+Atosiban	atcSuffix	CX01
+Lactulose	atcSuffix	AD11
+Phenylephrine	atcSuffix	CA06
+Cromoglicic acid	atcSuffix	EB01
+Oxaprozin	atcSuffix	AE12
+Carboplatin	atcSuffix	XA02
+Ofloxacin	atcSuffix	MA01
+Enflurane	atcSuffix	AB04
+Leuprorelin	atcSuffix	AE02
+Melarsoprol	atcSuffix	CD01
+Nevirapine	atcSuffix	AG01
+Ziconotide	atcSuffix	BG08
+Demeclocycline	atcSuffix	AA01
+Ursodeoxycholic acid	atcSuffix	AA02
+Mepacrine	atcSuffix	AX05
+Meclofenoxate	atcSuffix	BX01
+Cefixime	atcSuffix	DD08
+Cisplatin	atcSuffix	XA01
+Obidoxime	atcSuffix	AB13
+Pemetrexed	atcSuffix	BA04
+Tuberculin	atcSuffix	CF01
+Artesunate	atcSuffix	BE03
+Artemether	atcSuffix	BE02
+Octreotide	atcSuffix	CB02
+Montelukast	atcSuffix	DC03
+Chlortetracycline	atcSuffix	AB21
+Lansoprazole	atcSuffix	BC03
+Piroxicam	atcSuffix	AC01
+Cabergoline	atcSuffix	CB03
+Nitrofural	atcSuffix	CA03
+Gramicidin	atcSuffix	AB30
+Eflornithine	atcSuffix	AX16
+Fingolimod	atcSuffix	AA27
+Pindolol	atcSuffix	AA03
+Reserpine	atcSuffix	AA02
+Nimesulide	atcSuffix	AX17
+Hexetidine	atcSuffix	AB12
+Amobarbital	atcSuffix	CA02
+Aprepitant	atcSuffix	AD12
+Desipramine	atcSuffix	AA01
+Betamethasone	atcSuffix	EA04
+Oxymetazoline	atcSuffix	AA05
+Eszopiclone	atcSuffix	CF04
+Bevacizumab	atcSuffix	XC07
+Amifostine	atcSuffix	AF05
+Oxibendazole	atcSuffix	AC07
+Oxazepam	atcSuffix	BA04
+Prochlorperazine	atcSuffix	AB04
+Doxylamine	atcSuffix	AA09
+Pancrelipase	atcSuffix	AA02
+Nalidixic acid	atcSuffix	MB02
+Chloroquine	atcSuffix	BA01
+Meloxicam	atcSuffix	AC06
+Levomepromazine	atcSuffix	AA02
+Silibinin	atcSuffix	BA03
+Cetuximab	atcSuffix	XC06
+Nortriptyline	atcSuffix	AA10
+Clomipramine	atcSuffix	AA04
+Xylazine	atcSuffix	CM92
+Gemcitabine	atcSuffix	BC05
+Diazoxide	atcSuffix	DA01
+Nelfinavir	atcSuffix	AE04
+Betaxolol	atcSuffix	AB05
+Idebenone	atcSuffix	BX13
+Vidarabine	atcSuffix	AB03
+Noscapine	atcSuffix	DA07
+Clemastine	atcSuffix	AA14
+Tiagabine	atcSuffix	AG06
+amlodipine	atcSuffix	BX03
+Quinapril	atcSuffix	AA06
+Meprobamate	atcSuffix	BC01
+Glycopyrronium bromide	atcSuffix	AB02
+Olopatadine	atcSuffix	GX09
+Ketorolac	atcSuffix	AB15
+Triclabendazole	atcSuffix	BX04
+Nabilone	atcSuffix	AD11
+Doxepin	atcSuffix	AA12
+Entecavir	atcSuffix	AF10
+Cyclophosphamide	atcSuffix	AA01
+Pentosan polysulfate	atcSuffix	BA04
+Ethylmorphine	atcSuffix	DA01
+Primaquine	atcSuffix	BA03
+Drotrecogin alfa	atcSuffix	AD10
+Thiothixene	atcSuffix	AF04
+Insulin glargine	atcSuffix	AE04
+Carbenicillin	atcSuffix	CA03
+Tazobactam	atcSuffix	CG02
+Clavulanic acid	atcSuffix	CR
+Daptomycin	atcSuffix	XX09
+Phenazopyridine	atcSuffix	BX06
+Pneumococcal polysaccharide vaccine	atcSuffix	AL01
+Silver sulfadiazine	atcSuffix	BA01
+Diphenoxylate	atcSuffix	DA01
+Benzonatate	atcSuffix	DB01
+Colestyramine	atcSuffix	AC01
+Doxorubicin	atcSuffix	DB01
+Caspofungin	atcSuffix	AX04
+Mercaptopurine	atcSuffix	BB02
+Povidone-iodine	atcSuffix	AG02
+Methylprednisolone	atcSuffix	AA01
+Adalimumab	atcSuffix	AB04
+Anakinra	atcSuffix	AC03
+Pemoline	atcSuffix	BA05
+Tricaine mesylate	atcSuffix	AX93
+Etorphine	atcSuffix	AE90
+Raloxifene	atcSuffix	XC01
+Zoledronic acid	atcSuffix	BA08
+Efavirenz	atcSuffix	AG03
+Ciclopirox	atcSuffix	AE14
+Tolbutamide	atcSuffix	BB03
+Fumagillin	atcSuffix	AX10
+Tetrabenazine	atcSuffix	XX06
+Tolterodine	atcSuffix	BD07
+Tinidazole	atcSuffix	XD02
+Doramectin	atcSuffix	AA03
+Ergometrine	atcSuffix	AB03
+Penicillamine	atcSuffix	CC01
+Lenalidomide	atcSuffix	AX04
+Granulocyte macrophage colony-stimulating factor	atcSuffix	AA09
+Furazolidone	atcSuffix	AX06
+Proguanil	atcSuffix	BB01
+Clioquinol	atcSuffix	AH30
+Cinacalcet	atcSuffix	BX01
+Tienilic acid	atcSuffix	CC02
+Telmisartan	atcSuffix	CA07
+Propylthiouracil	atcSuffix	BA02
+Prasugrel	atcSuffix	AC22
+Phenazone	atcSuffix	BB01
+Tranexamic acid	atcSuffix	AA02
+Daunorubicin	atcSuffix	DB02
+Desonide	atcSuffix	AB08
+Natalizumab	atcSuffix	AA23
+Orphenadrine	atcSuffix	BC01
+Bupivacaine	atcSuffix	BB01
+Ceftazidime	atcSuffix	DD02
+Zaleplon	atcSuffix	CF03
+Bortezomib	atcSuffix	XX32
+Ethacridine lactate	atcSuffix	CA08
+Trimetazidine	atcSuffix	EB15
+Selamectin	atcSuffix	AA05
+Fluticasone propionate	atcSuffix	AC17
+Capecitabine	atcSuffix	BC06
+Methocarbamol	atcSuffix	BA03
+Nabiximols	atcSuffix	BG10
+Azacitidine	atcSuffix	BC07
+Levocetirizine	atcSuffix	AE09
+Buserelin	atcSuffix	AE01
+Nafarelin	atcSuffix	CA02
+Cefaclor	atcSuffix	DC04
+Calcium carbimide	atcSuffix	BB02
+Dextromethorphan	atcSuffix	DA09
+Oxaliplatin	atcSuffix	XA03
+Talbutal	atcSuffix	CA07
+Cefprozil	atcSuffix	DC10
+Terconazole	atcSuffix	AG02
+Doxazosin	atcSuffix	CA04
+Policosanol	atcSuffix	AX08
+Dutasteride	atcSuffix	CB02
+Etodolac	atcSuffix	AB08
+Loracarbef	atcSuffix	DC08
+Pentoxifylline	atcSuffix	AD03
+Zimelidine	atcSuffix	AB02
+Epirubicin	atcSuffix	DB03
+Primidone	atcSuffix	AA03
+Terfenadine	atcSuffix	AX12
+Triamterene	atcSuffix	DB02
+Vigabatrin	atcSuffix	AG04
+Isocarboxazid	atcSuffix	AF01
+Betahistine	atcSuffix	CA01
+Viloxazine	atcSuffix	AX09
+misoprostol	atcSuffix	AB55
+Diminazen	atcSuffix	AF01
+Hyoscine butylbromide	atcSuffix	BB01
+Tiabendazole	atcSuffix	AC06
+Clobazam	atcSuffix	BA09
+Methoxsalen	atcSuffix	AD02
+Calcitriol	atcSuffix	CC04
+Ornidazole	atcSuffix	AF06
+Dimetridazole	atcSuffix	AA07
+Cilostazol	atcSuffix	AC23
+Mebendazole	atcSuffix	CA01
+Moxidectin	atcSuffix	AB02
+Ethosuximide	atcSuffix	AD01
+Procarbazine	atcSuffix	XB01
+Tazarotene	atcSuffix	AX05
+Docetaxel	atcSuffix	CD02
+Secobarbital	atcSuffix	CA06
+Pregabalin	atcSuffix	AX16
+Pentobarbital	atcSuffix	CA01
+salbutamol	atcSuffix	AK04
+Trimipramine	atcSuffix	AA10
+Benazepril	atcSuffix	AA07
+Naphazoline	atcSuffix	AA08
+Prazosin	atcSuffix	CA01
+Zonisamide	atcSuffix	AX15
+Latanoprost	atcSuffix	EE01
+Vinorelbine	atcSuffix	CA04
+Polidocanol	atcSuffix	BB02
+Clofarabine	atcSuffix	BB06
+Iotrolan	atcSuffix	AB06
+Terlipressin	atcSuffix	BA04
+Midodrine	atcSuffix	CA17
+Urofollitropin	atcSuffix	GA04
+Alfuzosin	atcSuffix	CA01
+Aminophylline	atcSuffix	DA05
+levodopa	atcSuffix	BA02
+Hydroxychloroquine	atcSuffix	BA02
+Losartan	atcSuffix	CA01
+Fosphenytoin	atcSuffix	AB05
+tazobactam	atcSuffix	CR05
+Piperacillin	atcSuffix	CA12
+Sitaxentan	atcSuffix	KX03
+Trazodone	atcSuffix	AX05
+Quinethazone	atcSuffix	BA02
+Pamidronic acid	atcSuffix	BA03
+Flunixin	atcSuffix	AG90
+Saquinavir	atcSuffix	AE01
+Isoprenaline	atcSuffix	CA02
+Polystyrene sulfonate	atcSuffix	AE01
+Ketotifen	atcSuffix	AX17
+Kanamycin A	atcSuffix	AA08
+Enoxaparin sodium	atcSuffix	AB05
+Etoposide	atcSuffix	CB01
+Nefazodone	atcSuffix	AX06
+Quazepam	atcSuffix	CD10
+Nalbuphine	atcSuffix	AF02
+Glibenclamide	atcSuffix	BB01
+dalfopristin	atcSuffix	FG02
+Valsartan	atcSuffix	CA03
+Ganciclovir	atcSuffix	AB06
+Valganciclovir	atcSuffix	AB14
+Pegfilgrastim	atcSuffix	AA13
+Timolol	atcSuffix	AA06
+Terazosin	atcSuffix	CA03
+Tigecycline	atcSuffix	AA12
+Milnacipran	atcSuffix	AX17
+Ethinyl estradiol	atcSuffix	CA01
+Estradiol acetate	atcSuffix	CA03
+Estradiol valerate	atcSuffix	CA03
+Vinblastine	atcSuffix	CA01
+Valrubicin	atcSuffix	DB09
+Mitoxantrone	atcSuffix	DB07
+Melphalan	atcSuffix	AA03
+Norgestrel	atcSuffix	AA06
+Norgestimate	atcSuffix	AA11
+Norelgestromin	atcSuffix	AA13
+Drospirenone	atcSuffix	AC10
+Desogestrel	atcSuffix	AC09
+Flunisolide	atcSuffix	AD04
+Voriconazole	atcSuffix	AC03
+Etacrynic acid	atcSuffix	CC01
+Dornase alfa	atcSuffix	CB13
+Tubocurarine chloride	atcSuffix	AA02
+Tianeptine	atcSuffix	AX14
+Ropinirole	atcSuffix	BC04
+Progabide	atcSuffix	AG05
+Chlorprothixene	atcSuffix	AF03
+Moclobemide	atcSuffix	AG02
+Verteporfin	atcSuffix	LA01
+Tobramycin	atcSuffix	GB01
+Hydralazine	atcSuffix	DB02
+Erlotinib	atcSuffix	XE03
+Pyrazinamide	atcSuffix	AK01
+Ticarcillin	atcSuffix	CA13
+Hetacillin	atcSuffix	CA18
+Ropivacaine	atcSuffix	BB09
+Nafcillin	atcSuffix	CF06
+Risedronic acid	atcSuffix	BA07
+Dosulepin	atcSuffix	AA16
+Nialamide	atcSuffix	AF02
+Sucralfate	atcSuffix	BX02
+Oxandrolone	atcSuffix	AA08
+Peginterferon alfa-2a	atcSuffix	AB11
+cilastatin	atcSuffix	DH51
+Fluocinonide	atcSuffix	AA11
+Sevelamer	atcSuffix	AE02
+Carprofen	atcSuffix	AE91
+Calcipotriol	atcSuffix	AX02
+Dolasetron	atcSuffix	AA04
+Fusafungine	atcSuffix	AB03
+Aceclidine	atcSuffix	EB08
+Argatroban	atcSuffix	AE03
+Estazolam	atcSuffix	CD04
+Dihydrotachysterol	atcSuffix	CC02
+Interferon gamma	atcSuffix	AB03
+Dactinomycin	atcSuffix	DA01
+Pramlintide	atcSuffix	BX05
+Amisulpride	atcSuffix	AL05
+Desoximetasone	atcSuffix	AC03
+4-Aminosalicylic acid	atcSuffix	AA01
+Ibritumomab tiuxetan	atcSuffix	XX02
+Phenoxybenzamine	atcSuffix	AX02
+Fondaparinux	atcSuffix	AX05
+Bazedoxifene	atcSuffix	XC02
+Dacarbazine	atcSuffix	AX04
+Acetohexamide	atcSuffix	BB31
+Irinotecan	atcSuffix	XX19
+Oxymetholone	atcSuffix	AA05
+Interferon beta-1b	atcSuffix	AB08
+Tizanidine	atcSuffix	BX02
+Dobutamine	atcSuffix	CA07
+Tolazoline	atcSuffix	AB02
+Phentolamine	atcSuffix	AB01
+Levocabastine	atcSuffix	AC02
+Atovaquone	atcSuffix	AX06
+Teniposide	atcSuffix	CB02
+Metandienone	atcSuffix	AA03
+Aminocaproic acid	atcSuffix	AA01
+Cladribine	atcSuffix	BB04
+Alemtuzumab	atcSuffix	AA34
+Letrozole	atcSuffix	BG04
+Fludarabine	atcSuffix	BB05
+Dyclonine	atcSuffix	BX02
+Bosentan	atcSuffix	KX01
+Podophyllotoxin	atcSuffix	BB04
+Clomethiazole	atcSuffix	CM02
+Busulfan	atcSuffix	AB01
+Gemtuzumab ozogamicin	atcSuffix	XC05
+Niclosamide	atcSuffix	DA01
+Barbital	atcSuffix	CA04
+Cefpodoxime	atcSuffix	DD13
+Dihydroergotamine	atcSuffix	CA01
+Cefepime	atcSuffix	DE01
+Cefotaxime	atcSuffix	DD01
+Imipenem	atcSuffix	DH51
+Cilastatin	atcSuffix	DH51
+Nordazepam	atcSuffix	BA16
+Tamsulosin	atcSuffix	CA02
+Tromantadine	atcSuffix	BB02
+Iproniazid	atcSuffix	AF05
+Novobiocin	atcSuffix	XX95
+Moxonidine	atcSuffix	AC05
+Trimetaphan camsilate	atcSuffix	BA01
+Asparaginase	atcSuffix	XX02
+Astemizole	atcSuffix	AX11
+Chlorambucil	atcSuffix	AA02
+Norfloxacin	atcSuffix	MA06
+Aminoglutethimide	atcSuffix	BG01
+Apomorphine	atcSuffix	BE07
+Bromhexine	atcSuffix	CB02
+Amineptine	atcSuffix	AA19
+Metamizole	atcSuffix	BB02
+Anagrelide	atcSuffix	XX35
+Quinbolone	atcSuffix	AA06
+Cefadroxil	atcSuffix	DB05
+Methimazole	atcSuffix	BB02
+Pentostatin	atcSuffix	XX08
+Perhexiline	atcSuffix	EX02
+Amikacin	atcSuffix	AX12
+Dithranol	atcSuffix	AC01
+Carbimazole	atcSuffix	BB01
+Trovafloxacin	atcSuffix	MA13
+Tioconazole	atcSuffix	AC07
+Copper gluconate	atcSuffix	AB20
+sulbactam	atcSuffix	CR01
+Sulbactam	atcSuffix	CG01
+Sultamicillin	atcSuffix	CR04
+Olmesartan	atcSuffix	CA08
+Anidulafungin	atcSuffix	AX06
+Chloropyramine	atcSuffix	AA09
+Fluorometholone	atcSuffix	AA06
+Exemestane	atcSuffix	BG06
+Clorazepate	atcSuffix	BA05
+Temocillin	atcSuffix	CA17
+Diisopropyl fluorophosphate	atcSuffix	EB07
+Entacapone	atcSuffix	BX02
+Probenecid	atcSuffix	AB01
+Flucloxacillin	atcSuffix	CF05
+Rocuronium bromide	atcSuffix	AC09
+Methohexital	atcSuffix	AF01
+Iloprost	atcSuffix	AC11
+Nikethamide	atcSuffix	AB02
+Methylergometrine	atcSuffix	AB01
+Aminophenazone	atcSuffix	BB03
+Nesiritide	atcSuffix	DX19
+Labetalol	atcSuffix	AG01
+Roxatidine acetate	atcSuffix	BA06
+Nomifensine	atcSuffix	AX04
+Fenofibrate	atcSuffix	AB05
+Tolcapone	atcSuffix	BX01
+Acetyldigitoxin	atcSuffix	AA01
+Polyestradiol phosphate	atcSuffix	AA02
+Exenatide	atcSuffix	BX04
+HPV vaccines	atcSuffix	BM01
+Flutamide	atcSuffix	BB01
+Diflunisal	atcSuffix	BA11
+Clofazimine	atcSuffix	BA01
+Dipivefrine	atcSuffix	EA02
+Cinnarizine	atcSuffix	CA02
+Methysergide	atcSuffix	CA04
+Beclamide	atcSuffix	AX30
+Toremifene	atcSuffix	BA02
+Taribavirin	atcSuffix	AB04
+Acebutolol	atcSuffix	AB04
+Diacerein	atcSuffix	AX21
+Tipranavir	atcSuffix	AE09
+Rho	atcSuffix	BB01
+Flucytosine	atcSuffix	AE21
+Ethotoin	atcSuffix	AB01
+Danazol	atcSuffix	XA01
+Triptorelin	atcSuffix	AE04
+Nilutamide	atcSuffix	BB02
+Dibenzepin	atcSuffix	AA08
+Palifermin	atcSuffix	AF08
+Samarium	atcSuffix	BX02
+Moxifloxacin	atcSuffix	MA14
+Thiobarbital	atcSuffix	?
+Bisoprolol	atcSuffix	AB07
+Nitroglycerin	atcSuffix	DA02
+chlorthalidone	atcSuffix	BB03
+Sodium oxybate	atcSuffix	XX04
+Armodafinil	atcSuffix	BA13
+Barbexaclone	atcSuffix	AA04
+Methylphenobarbital	atcSuffix	AA01
+Agomelatine	atcSuffix	AX22
+Imiquimod	atcSuffix	BB10
+Carvedilol	atcSuffix	AG02
+Pyrimethamine	atcSuffix	BD01
+zidovudine	atcSuffix	AR04
+Clenbuterol	atcSuffix	AC14
+Dextromoramide	atcSuffix	AC01
+Sulpiride	atcSuffix	AL01
+Cefacetrile	atcSuffix	DB10
+Practolol	atcSuffix	AB01
+Rivaroxaban	atcSuffix	AX06
+Sorafenib	atcSuffix	XE05
+Emylcamate	atcSuffix	BC03
+Alclometasone	atcSuffix	AB10
+Phenprobamate	atcSuffix	BA01
+Metharbital	atcSuffix	AA30
+Droperidol	atcSuffix	AD08
+Azlocillin	atcSuffix	CA09
+Tolazamide	atcSuffix	BB05
+Acamprosate	atcSuffix	BB03
+Cyclizine	atcSuffix	AE03
+Mepivacaine	atcSuffix	BB03
+Pristinamycin	atcSuffix	FG01
+Streptozotocin	atcSuffix	AD04
+Oxamniquine	atcSuffix	BA02
+Proxymetacaine	atcSuffix	HA04
+Oxybuprocaine	atcSuffix	AB03
+Tetracaine	atcSuffix	AD02
+Flupentixol	atcSuffix	AF01
+Repaglinide	atcSuffix	BX02
+Indinavir	atcSuffix	AE02
+Zotepine	atcSuffix	AX11
+Metolazone	atcSuffix	BA08
+Mitotane	atcSuffix	XX23
+timolol	atcSuffix	ED51
+Fenoldopam	atcSuffix	CA19
+flucloxacillin	atcSuffix	CR50
+Dicloxacillin	atcSuffix	CF01
+Leflunomide	atcSuffix	AA13
+Biperiden	atcSuffix	AA02
+Sunitinib	atcSuffix	XE04
+Almotriptan	atcSuffix	CC05
+Eletriptan	atcSuffix	CC06
+Lincomycin	atcSuffix	FF02
+Trimethadione	atcSuffix	AC02
+Prostaglandin E2	atcSuffix	AD02
+Articaine	atcSuffix	BB08
+Trihexyphenidyl	atcSuffix	AA01
+Faropenem	atcSuffix	DI03
+Mecamylamine	atcSuffix	BB01
+Ramelteon	atcSuffix	CH02
+Guanfacine	atcSuffix	AC02
+Pramipexole	atcSuffix	BC05
+emtricitabine	atcSuffix	AR03
+Medazepam	atcSuffix	BA03
+Loprazolam	atcSuffix	CD11
+Rifaximin	atcSuffix	AA11
+Eplerenone	atcSuffix	DA04
+Prazepam	atcSuffix	BA11
+Penbutolol	atcSuffix	AA23
+Altretamine	atcSuffix	XX03
+clindamycin	atcSuffix	AE51
+Brivudine	atcSuffix	AB15
+Tiaprofenic acid	atcSuffix	AE11
+Oxybutynin	atcSuffix	BD04
+Contraceptive vaginal ring	atcSuffix	BB01
+Dermatan sulfate	atcSuffix	AX04
+Mephenytoin	atcSuffix	AB04
+Cefradine	atcSuffix	DB09
+Liothyronine	atcSuffix	AA02
+Lymecycline	atcSuffix	AA04
+Adinazolam	atcSuffix	BA07
+Halazepam	atcSuffix	BA13
+Ketazolam	atcSuffix	BA10
+Pinazepam	atcSuffix	BA14
+Camazepam	atcSuffix	BA15
+ThioTEPA	atcSuffix	AC01
+Dichloralphenazone	atcSuffix	CC04
+Isometheptene	atcSuffix	AX10
+Gidazepam	atcSuffix	?
+Fludiazepam	atcSuffix	BA17
+Ethyl loflazepate	atcSuffix	BA18
+Clotiazepam	atcSuffix	BA21
+Etizolam	atcSuffix	BA19
+Cloxazolam	atcSuffix	BA22
+Tofisopam	atcSuffix	BA23
+Lormetazepam	atcSuffix	CD06
+Brotizolam	atcSuffix	CD09
+Cinolazepam	atcSuffix	CD13
+Doxefazepam	atcSuffix	CD12
+Vinylbital	atcSuffix	CA08
+Butobarbital	atcSuffix	CA03
+Alglucerase	atcSuffix	AB01
+Imiglucerase	atcSuffix	AB02
+Vinbarbital	atcSuffix	CA09
+Pralidoxime	atcSuffix	AB04
+Rifabutin	atcSuffix	AB04
+Rifapentine	atcSuffix	AB05
+Marbofloxacin	atcSuffix	MA93
+Dalteparin sodium	atcSuffix	AB04
+Ethenzamide	atcSuffix	BA07
+Gatifloxacin	atcSuffix	MA16
+Tirofiban	atcSuffix	AC17
+Famciclovir	atcSuffix	AB09
+zidovudine	atcSuffix	AR01
+Amfepramone	atcSuffix	AA03
+Disopyramide	atcSuffix	BA03
+Vinpocetine	atcSuffix	BX18
+Cyclobarbital	atcSuffix	CA10
+Ethallobarbital	atcSuffix	CA20
+Heptabarb	atcSuffix	CA11
+Flurbiprofen	atcSuffix	AE09
+Caffeine citrate	atcSuffix	BC01
+Deferasirox	atcSuffix	AC03
+Sulindac	atcSuffix	AB02
+Gadopentetic acid	atcSuffix	CA01
+Cefdinir	atcSuffix	DD15
+Capreomycin	atcSuffix	AB30
+Cycloserine	atcSuffix	AB01
+Eptifibatide	atcSuffix	AC16
+Apramycin	atcSuffix	AA92
+Trandolapril	atcSuffix	AA10
+Butorphanol	atcSuffix	AF01
+Danaparoid	atcSuffix	AB09
+Topotecan	atcSuffix	XX17
+Etidronic acid	atcSuffix	BA01
+Estramustine	atcSuffix	XX11
+Torasemide	atcSuffix	CA04
+Spirapril	atcSuffix	AA11
+Nedocromil	atcSuffix	AC07
+Oxacillin	atcSuffix	CF04
+Prilocaine	atcSuffix	BB04
+Etidocaine	atcSuffix	BB07
+Chloroprocaine	atcSuffix	BA04
+Trimethobenzamide	atcSuffix	AA10
+Sulfadiazine	atcSuffix	EC02
+Lisuride	atcSuffix	CB02
+Ifosfamide	atcSuffix	AA06
+Oxiconazole	atcSuffix	AC11
+Anecortave	atcSuffix	LA02
+Sodium phenylbutyrate	atcSuffix	AX03
+Paliperidone	atcSuffix	AX13
+Etomidate	atcSuffix	AX07
+Carglumic acid	atcSuffix	AA05
+Pancreatin	atcSuffix	AA02
+Aprotinin	atcSuffix	AB01
+Dexfenfluramine	atcSuffix	AA04
+Amprenavir	atcSuffix	AE05
+Delavirdine	atcSuffix	AG02
+Bisacodyl	atcSuffix	AB02
+Pirenzepine	atcSuffix	BX03
+Lapatinib	atcSuffix	XE07
+Rotigotine	atcSuffix	BC09
+pyrazinamide	atcSuffix	AM05
+Levobupivacaine	atcSuffix	BB10
+Emedastine	atcSuffix	GX06
+Levosalbutamol	atcSuffix	AC02
+Pranlukast	atcSuffix	DC02
+Nicorandil	atcSuffix	DX16
+Thioacetazone	atcSuffix	AM04
+MMRV vaccine	atcSuffix	BD54
+Epinastine	atcSuffix	AX24
+Profenamine	atcSuffix	AA05
+Econazole	atcSuffix	AC03
+Dexrazoxane	atcSuffix	AF02
+Sodium stibogluconate	atcSuffix	CB02
+Meglumine antimoniate	atcSuffix	CB01
+Tropicamide	atcSuffix	FA06
+Brimonidine	atcSuffix	AX21
+Diosmin	atcSuffix	CA03
+Cyproheptadine	atcSuffix	AX02
+Mesoridazine	atcSuffix	AC03
+Nilvadipine	atcSuffix	CA10
+lumefantrine	atcSuffix	BF01
+Milrinone	atcSuffix	CE02
+Fosamprenavir	atcSuffix	AE07
+Rimexolone	atcSuffix	AB12
+Benzydamine	atcSuffix	AD02
+Ritodrine	atcSuffix	CA01
+Reteplase	atcSuffix	AD07
+Rescinnamine	atcSuffix	AA01
+Demecarium bromide	atcSuffix	EB04
+Chlorothiazide	atcSuffix	AA04
+Guanethidine	atcSuffix	CC02
+Choline theophyllinate	atcSuffix	DA02
+Nicardipine	atcSuffix	CA04
+Parecoxib	atcSuffix	AH04
+Papaveretum	atcSuffix	AA10
+Sertaconazole	atcSuffix	AC14
+Bretylium	atcSuffix	BD02
+Mexiletine	atcSuffix	BB02
+Anistreplase	atcSuffix	AD03
+Varenicline	atcSuffix	BA03
+Dexchlorpheniramine	atcSuffix	AB02
+Dexbrompheniramine	atcSuffix	AB06
+Pheniramine	atcSuffix	AA16
+Sacrosidase	atcSuffix	AB06
+Spectinomycin	atcSuffix	XX04
+Mianserin	atcSuffix	AX03
+Perindopril	atcSuffix	AA04
+Methylcobalamin	atcSuffix	BA05
+Sulconazole	atcSuffix	AC09
+Anileridine	atcSuffix	AH05
+Enoxacin	atcSuffix	MA04
+Balsalazide	atcSuffix	EC04
+Olsalazine	atcSuffix	EC03
+Muromonab-CD3	atcSuffix	AA02
+Azelastine	atcSuffix	AC03
+Polymyxin B	atcSuffix	AA05
+Ivabradine	atcSuffix	EB17
+Tibolone	atcSuffix	CX01
+Cefalotin	atcSuffix	DB03
+Pneumococcal conjugate vaccine	atcSuffix	AL02
+Levosimendan	atcSuffix	CX08
+Bitolterol	atcSuffix	AC17
+Ethionamide	atcSuffix	AD03
+Thiamphenicol	atcSuffix	BA02
+Mumps vaccine	atcSuffix	BE01
+Homatropine	atcSuffix	BX03
+Sargramostim	atcSuffix	AA09
+Foscarnet	atcSuffix	AD01
+Ethylestrenol	atcSuffix	AB02
+Etretinate	atcSuffix	BB01
+Efalizumab	atcSuffix	AA21
+Etonogestrel	atcSuffix	AC08
+Darifenacin	atcSuffix	BD10
+Gemifloxacin	atcSuffix	MA15
+Grepafloxacin	atcSuffix	MA11
+Amylmetacresol	atcSuffix	AA20
+Pitavastatin	atcSuffix	AA08
+Posaconazole	atcSuffix	AC04
+Lopinavir	atcSuffix	AR10
+Sulfathiazole	atcSuffix	BA02
+Gliclazide	atcSuffix	BB09
+Atracurium besilate	atcSuffix	AC04
+Methoxyflurane	atcSuffix	BG09
+Gestrinone	atcSuffix	XA02
+Desvenlafaxine	atcSuffix	AX23
+Gallamine triethiodide	atcSuffix	AC02
+Procyclidine	atcSuffix	AA04
+Vildagliptin	atcSuffix	BH02
+Sitagliptin	atcSuffix	BH01
+Mivacurium chloride	atcSuffix	AC10
+Nateglinide	atcSuffix	BX03
+Mangafodipir	atcSuffix	CA05
+Phenibut	atcSuffix	BX22
+Nebivolol	atcSuffix	AB12
+Acrivastine	atcSuffix	AX18
+Tioguanine	atcSuffix	BB03
+Carbenoxolone	atcSuffix	BX01
+Gardasil	atcSuffix	BM01
+Menotropin	atcSuffix	GA02
+Carbinoxamine	atcSuffix	AA08
+Acetylcarnitine	atcSuffix	BX12
+Sitafloxacin	atcSuffix	MA21
+Benorilate	atcSuffix	BA10
+clidinium bromide	atcSuffix	CA02
+Nicergoline	atcSuffix	AE02
+Hexylresorcinol	atcSuffix	AA12
+Fenethylline	atcSuffix	BA10
+Sulfanilamide	atcSuffix	EB06
+Penciclovir	atcSuffix	BB06
+Loxoprofen	atcSuffix	AE
+Desiccated thyroid extract	atcSuffix	AA05
+Umifenovir	atcSuffix	AX
+Tolfenamic acid	atcSuffix	AG02
+Rasagiline	atcSuffix	BD02
+Bezafibrate	atcSuffix	AB02
+Lomustine	atcSuffix	AD02
+Cilansetron	atcSuffix	AE03
+Metipranolol	atcSuffix	ED04
+Methylscopolamine bromide	atcSuffix	BB03
+Mometasone furoate	atcSuffix	AC13
+Levamisole	atcSuffix	CE01
+Lomefloxacin	atcSuffix	MA07
+Bivalirudin	atcSuffix	AE06
+Alaproclate	atcSuffix	AB07
+Etoperidone	atcSuffix	AB09
+Dichlorvos	atcSuffix	AB03
+Epoetin alfa	atcSuffix	XA01
+Picamilon	atcSuffix	2
+Tyloxapol	atcSuffix	CA01
+Oxyphenbutazone	atcSuffix	AA03
+Oprelvekin	atcSuffix	AC02
+Nabumetone	atcSuffix	AX01
+Pholcodine	atcSuffix	DA08
+Propantheline bromide	atcSuffix	AB05
+Nadroparin calcium	atcSuffix	AB06
+Butriptyline	atcSuffix	AA15
+Lofepramine	atcSuffix	AA07
+Protriptyline	atcSuffix	AA11
+Opipramol	atcSuffix	AA05
+Iprindole	atcSuffix	AA13
+Mafenide	atcSuffix	BA03
+tenofovir	atcSuffix	AR06
+Trimetrexate	atcSuffix	AX07
+Carboprost	atcSuffix	AD04
+Enprostil	atcSuffix	BB02
+Ancrod	atcSuffix	AD09
+Tetrazepam	atcSuffix	BX07
+Aurothioglucose	atcSuffix	CB04
+Auranofin	atcSuffix	CB03
+Tenecteplase	atcSuffix	AD11
+Phenprocoumon	atcSuffix	AA04
+Phenindione	atcSuffix	AA02
+Lepirudin	atcSuffix	AE02
+Acenocoumarol	atcSuffix	AA07
+Dicoumarol	atcSuffix	AA01
+Paramethadione	atcSuffix	AC01
+Phensuximide	atcSuffix	AD02
+Phenacemide	atcSuffix	AX07
+Perflubron	atcSuffix	CX01
+Methazolamide	atcSuffix	EC05
+Lercanidipine	atcSuffix	CA13
+Isradipine	atcSuffix	CA03
+Mezlocillin	atcSuffix	CA10
+Cefpiramide	atcSuffix	DD11
+Nisoldipine	atcSuffix	CA07
+Cefmenoxime	atcSuffix	DD05
+Cefotiam	atcSuffix	DC07
+Cefapirin	atcSuffix	DB08
+Ceforanide	atcSuffix	DC11
+Cyclopentamine	atcSuffix	AA02
+Sulfacetamide	atcSuffix	AF06
+Sulfamethizole	atcSuffix	CA04
+Dirithromycin	atcSuffix	FA13
+Netilmicin	atcSuffix	GB07
+Idoxuridine	atcSuffix	BB01
+Trifluridine	atcSuffix	AD02
+Fomivirsen	atcSuffix	AD08
+Methyprylon	atcSuffix	CE02
+Hexobarbital	atcSuffix	AF02
+Methdilazine	atcSuffix	AD04
+Mequitazine	atcSuffix	AD07
+Diphenylpyraline	atcSuffix	AA07
+Buclizine	atcSuffix	AE01
+Azatadine	atcSuffix	AX09
+Nilotinib	atcSuffix	XE08
+Dasatinib	atcSuffix	XE06
+Flunarizine	atcSuffix	CA03
+Apraclonidine	atcSuffix	EA03
+Brinzolamide	atcSuffix	EC04
+Diclofenamide	atcSuffix	EC02
+Dorzolamide	atcSuffix	EC03
+Carteolol	atcSuffix	AA15
+Levobunolol	atcSuffix	ED03
+Bimatoprost	atcSuffix	EE03
+Sulbutiamine	atcSuffix	DA02
+Sparfloxacin	atcSuffix	MA09
+Sugammadex	atcSuffix	AB35
+Doxacurium chloride	atcSuffix	AC07
+Cisatracurium besilate	atcSuffix	AC11
+Chlormezanone	atcSuffix	BB02
+Chlorzoxazone	atcSuffix	BB03
+Mephenesin	atcSuffix	BX06
+Alcuronium chloride	atcSuffix	AA01
+Tolperisone	atcSuffix	AX06
+Remoxipride	atcSuffix	AL04
+Cinchocaine	atcSuffix	AD04
+Propanidid	atcSuffix	AX04
+Phenoperidine	atcSuffix	AH04
+Defibrotide	atcSuffix	AX01
+Pizotifen	atcSuffix	CX01
+Aldesulfone sodium	atcSuffix	BA03
+Alefacept	atcSuffix	AA15
+Tetracosactide	atcSuffix	AA02
+Dabigatran	atcSuffix	AE07
+Ranibizumab	atcSuffix	LA04
+Sincalide	atcSuffix	CC03
+Fibrinolysin	atcSuffix	AD05
+Pefloxacin	atcSuffix	MA03
+Cinoxacin	atcSuffix	MB06
+Naftidrofuryl	atcSuffix	AX21
+Chlordiazepoxide	atcSuffix	BA02
+Felbinac	atcSuffix	AA08
+Certolizumab pegol	atcSuffix	AB05
+Sultiame	atcSuffix	AX03
+Propiomazine	atcSuffix	CM06
+Fludroxycortide	atcSuffix	AC07
+Prostaglandin E1	atcSuffix	EA01
+Trospium chloride	atcSuffix	BD09
+Acetohydroxamic acid	atcSuffix	BX03
+Solifenacin	atcSuffix	BD08
+Raltegravir	atcSuffix	AX08
+Trilostane	atcSuffix	CA01
+Fenbendazole	atcSuffix	CA06
+Triflupromazine	atcSuffix	AA05
+Promazine	atcSuffix	AA03
+Acetophenazine	atcSuffix	AB07
+Dexmedetomidine	atcSuffix	CM18
+Ethadione	atcSuffix	AC03
+Rufinamide	atcSuffix	AF03
+Pheneturide	atcSuffix	AX13
+Mesuximide	atcSuffix	AD03
+Lofexidine	atcSuffix	BC04
+Sulfinpyrazone	atcSuffix	AB02
+Pipobroman	atcSuffix	AX02
+Fotemustine	atcSuffix	AD05
+Raltitrexed	atcSuffix	BA03
+Pegaspargase	atcSuffix	XX24
+Methyl aminolevulinate	atcSuffix	XD03
+Amsacrine	atcSuffix	XX01
+Porfimer sodium	atcSuffix	XD01
+Masoprocol	atcSuffix	XX10
+Vindesine	atcSuffix	CA03
+Denileukin diftitox	atcSuffix	XX29
+Alitretinoin	atcSuffix	AH04
+Bexarotene	atcSuffix	XX25
+Palivizumab	atcSuffix	BB16
+Tositumomab	atcSuffix	XA53
+Vincamine	atcSuffix	AX07
+Isoetarine	atcSuffix	AC07
+Fluocortolone	atcSuffix	AA08
+Norethandrolone	atcSuffix	AA09
+Oxabolone cipionate	atcSuffix	AB03
+Butenafine	atcSuffix	AE23
+Megestrol acetate	atcSuffix	AC05
+Etynodiol	atcSuffix	DC06
+Etynodiol diacetate	atcSuffix	DC06
+Norethisterone	atcSuffix	AC01
+Gestodene	atcSuffix	AA10
+Gestonorone caproate	atcSuffix	DA01
+Proscillaridin	atcSuffix	AB01
+Metildigoxin	atcSuffix	AA08
+Fosfestrol	atcSuffix	AA04
+Formestane	atcSuffix	BG02
+Vorozole	atcSuffix	BG05
+Ethisterone	atcSuffix	DC04
+Fluoxymesterone	atcSuffix	BA01
+Lynestrenol	atcSuffix	AC02
+Mesterolone	atcSuffix	BB01
+Norgestrienone	atcSuffix	AC07
+Dydrogesterone	atcSuffix	DB01
+Dienestrol	atcSuffix	CB01
+Chlorotrianisene	atcSuffix	CA06
+Clobenzorex	atcSuffix	AA08
+Medrysone	atcSuffix	BA08
+Clobetasone	atcSuffix	AB01
+Formocortal	atcSuffix	BA12
+Loteprednol	atcSuffix	BA14
+Fluocinolone acetonide	atcSuffix	AA10
+Tixocortol	atcSuffix	EA05
+Ciclesonide	atcSuffix	AD13
+Paramethasone	atcSuffix	AB05
+Prednylidene	atcSuffix	AB11
+Cloprednol	atcSuffix	AB14
+Meprednisone	atcSuffix	AB15
+Deflazacort	atcSuffix	AB13
+Cortivazol	atcSuffix	AB17
+Flumetasone	atcSuffix	AB03
+Fluocortin	atcSuffix	AB04
+Fluperolone acetate	atcSuffix	AB05
+Fluprednidene acetate	atcSuffix	AB07
+Methylprednisolone aceponate	atcSuffix	AC14
+Amcinonide	atcSuffix	AC11
+Difluocortolone	atcSuffix	AC06
+Clocortolone	atcSuffix	AB21
+Halometasone	atcSuffix	AC12
+Diflorasone	atcSuffix	AC10
+Fluclorolone acetonide	atcSuffix	AC02
+Hydrocortisone buteprate	atcSuffix	AB11
+Hydrocortisone aceponate	atcSuffix	AC16
+Difluprednate	atcSuffix	AC19
+Prednicarbate	atcSuffix	AC18
+Ulobetasol	atcSuffix	AC21
+Halcinonide	atcSuffix	AD02
+Cervarix	atcSuffix	BM02
+Doripenem	atcSuffix	DH04
+Miltefosine	atcSuffix	XX09
+Chlorcyclizine	atcSuffix	AE04
+Oxatomide	atcSuffix	AE06
+Almitrine	atcSuffix	AB07
+Lidoflazine	atcSuffix	EX01
+Piribedil	atcSuffix	BC08
+Thiethylperazine	atcSuffix	AD03
+Clopamide	atcSuffix	BA03
+Fluspirilene	atcSuffix	AG01
+Indoramin	atcSuffix	CA02
+Dexetimide	atcSuffix	AA08
+Penfluridol	atcSuffix	AG03
+Dihydralazine	atcSuffix	DB01
+Methapyrilene	atcSuffix	AC05
+Amrinone	atcSuffix	CE01
+Tripelennamine	atcSuffix	AA04
+Nitrendipine	atcSuffix	CA08
+Ketobemidone	atcSuffix	AB01
+Gemeprost	atcSuffix	AD03
+Melitracen	atcSuffix	AA14
+Toloxatone	atcSuffix	AG03
+Iproclozide	atcSuffix	AF06
+Prothrombin complex concentrate	atcSuffix	BD01
+Metirosine	atcSuffix	KB01
+Treprostinil	atcSuffix	AC21
+Magaldrate	atcSuffix	AD02
+Zoster-immune globulin	atcSuffix	BB03
+Encainide	atcSuffix	BC08
+Tocainide	atcSuffix	BB03
+Bunaftine	atcSuffix	BD03
+Aprindine	atcSuffix	BB04
+Ibutilide	atcSuffix	BD05
+Lorcainide	atcSuffix	BC07
+Lorajmine	atcSuffix	BA12
+Ajmaline	atcSuffix	BA05
+Sparteine	atcSuffix	BA04
+Prajmaline	atcSuffix	BA08
+Metaraminol	atcSuffix	CA09
+Eperisone	atcSuffix	BX09
+Ebastine	atcSuffix	AX22
+Gliquidone	atcSuffix	BB08
+Ibandronic acid	atcSuffix	BA06
+Eculizumab	atcSuffix	AA25
+Ormeloxifene	atcSuffix	XC04
+Dihydroergocryptine	atcSuffix	BC03
+Orciprenaline	atcSuffix	AB03
+Travoprost	atcSuffix	EE04
+Vorinostat	atcSuffix	XX38
+Cevimeline	atcSuffix	AX03
+Iohexol	atcSuffix	AB02
+Panitumumab	atcSuffix	XC08
+Enoximone	atcSuffix	CE03
+Bucladesine	atcSuffix	CE04
+Iodixanol	atcSuffix	AB09
+Miglitol	atcSuffix	BF02
+indapamide	atcSuffix	BA04
+Rilmenidine	atcSuffix	AC06
+Saxagliptin	atcSuffix	BH03
+Rupatadine	atcSuffix	AX28
+Pargyline	atcSuffix	KC01
+Asenapine	atcSuffix	AH05
+Crotamiton	atcSuffix	AX04
+Bepridil	atcSuffix	EA02
+Beraprost	atcSuffix	AC19
+Dronedarone	atcSuffix	BD07
+Belatacept	atcSuffix	AA28
+Mitiglinide	atcSuffix	BX08
+Propyphenazone	atcSuffix	BB04
+Diisopromine	atcSuffix	AX02
+Trifluperidol	atcSuffix	AD02
+Pipamperone	atcSuffix	AD05
+Piritramide	atcSuffix	AC03
+Benperidol	atcSuffix	AD07
+Bezitramide	atcSuffix	AC05
+Bromperidol	atcSuffix	AD06
+Tolvaptan	atcSuffix	XA01
+Bambuterol	atcSuffix	CC12
+Vandetanib	atcSuffix	XE12
+Edrecolomab	atcSuffix	XC01
+Mebeverine	atcSuffix	AA04
+Deracoxib	atcSuffix	AH94
+Zoster vaccine	atcSuffix	BK02
+Benznidazole	atcSuffix	CA02
+Melperone	atcSuffix	AD03
+Trabectedin	atcSuffix	CX01
+3,4-Diaminopyridine	atcSuffix	XX05
+Nitisinone	atcSuffix	AX04
+Pivampicillin	atcSuffix	CA02
+Buparvaquone	atcSuffix	AX22
+Decitabine	atcSuffix	BC08
+Nalmefene	atcSuffix	BB05
+Pegaptanib	atcSuffix	LA03
+Histrelin	atcSuffix	AE05
+Zomepirac	atcSuffix	AB04
+Phenformin	atcSuffix	BA01
+Triclofos	atcSuffix	CM07
+Glatiramer acetate	atcSuffix	AX13
+fluoxetine	atcSuffix	CA03
+Icodextrin	atcSuffix	DA
+Florfenicol	atcSuffix	BA90
+Activella	atcSuffix	FA01
+Lubiprostone	atcSuffix	AX03
+Varicella vaccine	atcSuffix	BK01
+Flibanserin	atcSuffix	CX02
+Salicylamide	atcSuffix	BA05
+Probucol	atcSuffix	AX02
+Peginterferon alfa-2b	atcSuffix	AB10
+Dirlotapide	atcSuffix	AB91
+Ambroxol	atcSuffix	CB06
+Thebacon	atcSuffix	DA10
+Halofantrine	atcSuffix	BX01
+Voglibose	atcSuffix	BF03
+Hydroxocobalamin	atcSuffix	BA03
+Dihydroartemisinin	atcSuffix	BE05
+Emodepside	atcSuffix	AX60
+Pneumococcal vaccine	atcSuffix	AL
+Buformin	atcSuffix	BA03
+Nifurtimox	atcSuffix	CC01
+Ustekinumab	atcSuffix	AC05
+metformin	atcSuffix	D05
+Zinc proteinate	atcSuffix	CB03
+Pramocaine	atcSuffix	AB07
+Pertuzumab	atcSuffix	XC13
+Technetium	atcSuffix	HA04
+Denosumab	atcSuffix	BX04
+Molindone	atcSuffix	AE02
+Suprofen	atcSuffix	AE07
+Catumaxomab	atcSuffix	XC09
+Afelimomab	atcSuffix	AB03
+Bismuth subgallate	atcSuffix	BB
+Fencamfamine	atcSuffix	BA06
+Technetium	atcSuffix	IA06
+Niaprazine	atcSuffix	CM16
+Belimumab	atcSuffix	AA26
+Fipexide	atcSuffix	BX05
+Ipilimumab	atcSuffix	XC11
+Golimumab	atcSuffix	AB06
+Reslizumab	atcSuffix	DX08
+Tocilizumab	atcSuffix	AC07
+Allobarbital	atcSuffix	CA21
+Aprobarbital	atcSuffix	CA05
+Chlorphentermine	atcSuffix	AA
+Nicomorphine	atcSuffix	AA04
+Acetyldihydrocodeine	atcSuffix	DA12
+Pipradrol	atcSuffix	BX15
+Bemegride	atcSuffix	AB05
+Ranolazine	atcSuffix	EB18
+Proxibarbital	atcSuffix	CA22
+Mepolizumab	atcSuffix	AC06
+Reposal	atcSuffix	CA12
+Dantron	atcSuffix	AB03
+Deferiprone	atcSuffix	AC02
+Abatacept	atcSuffix	AA24
+Ganirelix	atcSuffix	CC01
+Cetrorelix	atcSuffix	CC02
+Haloprogin	atcSuffix	AE11
+Ioxilan	atcSuffix	AB12
+Cicletanine	atcSuffix	BX03
+Gadodiamide	atcSuffix	CA03
+Nitazoxanide	atcSuffix	AX11
+paracetamol	atcSuffix	A08-
+Pentoxyverine	atcSuffix	DB05
+Motavizumab	atcSuffix	BB17
+Batroxobin	atcSuffix	BX03
+Ofatumumab	atcSuffix	XC10
+Raxibacumab	atcSuffix	BB18
+Indium	atcSuffix	IB04
+Minretumomab	atcSuffix	IX03
+Indium	atcSuffix	IB02
+Codeine	atcSuffix	DA04
+Insulin glulisine	atcSuffix	AB06
+Mebhydrolin	atcSuffix	AX15
+Maraviroc	atcSuffix	AX09
+Benfotiamine	atcSuffix	DA03
+Indium	atcSuffix	GX02
+Lanreotide	atcSuffix	CB03
+Plerixafor	atcSuffix	AX16
+Cefquinome	atcSuffix	AA07
+Enrofloxacin	atcSuffix	MA90
+Amodiaquine	atcSuffix	BA06
+Aliskiren	atcSuffix	XA02
+Carbetocin	atcSuffix	BB03
+Strontium ranelate	atcSuffix	BX03
+Dextrothyroxine	atcSuffix	AX01
+Hydroxyprogesterone caproate	atcSuffix	DA03
+Cediranib	atcSuffix	XE32
+Gadoversetamide	atcSuffix	CA06
+Oritavancin	atcSuffix	XA05
+Technetium	atcSuffix	BA02
+Mepyramine	atcSuffix	AC01
+hydrocortisone	atcSuffix	CA03
+noretynodrel	atcSuffix	FA09
+Sodium picosulfate	atcSuffix	AB08
+Hydroxyethyl starch	atcSuffix	AA07
+Tepoxalin	atcSuffix	AE92
+Ambrisentan	atcSuffix	KX02
+Narcobarbital	atcSuffix	AG01
+Thiamylal	atcSuffix	AF90
+Lobeline	atcSuffix	CV01
+Pleconaril	atcSuffix	AX06
+Carisbamate	atcSuffix	AX19
+Retapamulin	atcSuffix	AX13
+Clofedanol	atcSuffix	DB10
+Temafloxacin	atcSuffix	MA05
+Etilamfetamine	atcSuffix	AA06
+Metrifonate	atcSuffix	BB01
+Lasofoxifene	atcSuffix	XC03
+Cobamamide	atcSuffix	BA04
+Diprenorphine	atcSuffix	AB92
+Azaperone	atcSuffix	AX91
+Iloperidone	atcSuffix	AX14
+Icatibant	atcSuffix	AC02
+Artemotil	atcSuffix	BE04
+Mazindol	atcSuffix	AA05
+Cefoxitin	atcSuffix	DC01
+Cefoperazone	atcSuffix	DD12
+Insulin detemir	atcSuffix	AE05
+Silodosin	atcSuffix	CA04
+Tyrothricin	atcSuffix	AX08
+Palonosetron	atcSuffix	AA05
+Mecasermin rinfabate	atcSuffix	AC05
+Tropisetron	atcSuffix	AA03
+Tiazofurin	atcSuffix	XX18
+Febuxostat	atcSuffix	AA03
+Sermorelin	atcSuffix	AC04
+Hemin	atcSuffix	AB01
+Ancestim	atcSuffix	AA12
+Alvimopan	atcSuffix	AH02
+Methylnaltrexone	atcSuffix	AH01
+Liquid paraffin	atcSuffix	AA01
+Bedaquiline	atcSuffix	AK05
+Amorolfine	atcSuffix	AE16
+Gepirone	atcSuffix	AX19
+Pazopanib	atcSuffix	XE11
+Detomidine	atcSuffix	CM90
+Zuclopenthixol	atcSuffix	AF05
+Fenoterol	atcSuffix	AC04
+Tolmetin	atcSuffix	AB03
+Ixabepilone	atcSuffix	DC04
+valsartan	atcSuffix	DB01
+Nepafenac	atcSuffix	BC10
+Cefditoren	atcSuffix	DD16
+Ceftibuten	atcSuffix	DD14
+Satraplatin	atcSuffix	XA04
+Dopexamine	atcSuffix	CA14
+Tiludronic acid	atcSuffix	BA05
+Clodronic acid	atcSuffix	BA02
+Fenbufen	atcSuffix	AE05
+Polycarbophil calcium	atcSuffix	AC08
+Canakinumab	atcSuffix	AC08
+Nifuroxazide	atcSuffix	AX03
+Abiraterone acetate	atcSuffix	BX03
+Quinisocaine	atcSuffix	AB05
+Dimetindene	atcSuffix	AA13
+Tolpropamine	atcSuffix	AA12
+Bamipine	atcSuffix	AA15
+Isothipendyl	atcSuffix	AA22
+Chlorphenoxamine	atcSuffix	AA34
+Thenalidine	atcSuffix	AA03
+Thonzylamine	atcSuffix	AA01
+Dimethoxanate	atcSuffix	DB28
+Meprotixol	atcSuffix	DB22
+Morclofone	atcSuffix	DB25
+Tipepidine	atcSuffix	DB24
+Levodropropizine	atcSuffix	DB27
+Nepinalone	atcSuffix	DB26
+Prenoxdiazine	atcSuffix	DB18
+Piperidione	atcSuffix	DB23
+Droxypropine	atcSuffix	DB17
+Dibunate	atcSuffix	DB16
+Dropropizine	atcSuffix	DB19
+Cloperastine	atcSuffix	DB21
+Zipeprol	atcSuffix	DB15
+Fedrilate	atcSuffix	DB14
+Butamirate	atcSuffix	DB13
+Oxeladin	atcSuffix	DB09
+Isoaminile	atcSuffix	DB04
+Oxolamine	atcSuffix	DB07
+Pipazetate	atcSuffix	DB11
+Bibenzonium bromide	atcSuffix	DB12
+Clobutinol	atcSuffix	DB03
+Benproperine	atcSuffix	DB02
+Dimemorfan	atcSuffix	DA11
+Normethadone	atcSuffix	DA06
+Stepronin	atcSuffix	CB11
+Sobrerol	atcSuffix	CB07
+Domiodol	atcSuffix	CB08
+Erdosteine	atcSuffix	CB15
+Neltenexine	atcSuffix	CB14
+Levoverbenone	atcSuffix	CA11
+Letosteine	atcSuffix	CB09
+Guaiacolsulfonate	atcSuffix	CA09
+Eprazinone	atcSuffix	CB04
+Tetrachlorodecaoxide	atcSuffix	AX11
+Flumedroxone	atcSuffix	CB01
+Metopimazine	atcSuffix	AD05
+Bromopride	atcSuffix	FA04
+Miglustat	atcSuffix	AX06
+Idursulfase	atcSuffix	AB09
+Monobenzone	atcSuffix	AX13
+Temsirolimus	atcSuffix	XE09
+Citicoline	atcSuffix	BX06
+Prolintane	atcSuffix	BX14
+Nizofenone	atcSuffix	BX10
+Linopirdine	atcSuffix	BX09
+Pirisudanol	atcSuffix	BX08
+Fenozolone	atcSuffix	BA08
+Propentofylline	atcSuffix	BC02
+Distigmine	atcSuffix	AA03
+Ambenonium chloride	atcSuffix	AA30
+Levacetylmethadol	atcSuffix	BC03
+Tirilazad	atcSuffix	XX01
+Xaliproden	atcSuffix	XX03
+Flutrimazole	atcSuffix	AC16
+Miocamycin	atcSuffix	FA11
+Flurithromycin	atcSuffix	FA14
+Rokitamycin	atcSuffix	FA12
+Midecamycin	atcSuffix	FA03
+Josamycin	atcSuffix	FA07
+Oleandomycin	atcSuffix	FA05
+Virginiamycin	atcSuffix	AX10
+Troleandomycin	atcSuffix	FA08
+Spiramycin	atcSuffix	FA02
+Brinase	atcSuffix	AD06
+Saruplase	atcSuffix	AD08
+Penimepicycline	atcSuffix	AA10
+Metacycline	atcSuffix	AA05
+Rolitetracycline	atcSuffix	AA09
+Clomocycline	atcSuffix	AA11
+Cycloguanil	atcSuffix	BB02
+Lumefantrine	atcSuffix	BF01
+Remikiren	atcSuffix	XA01
+Tiratricol	atcSuffix	AA04
+Dibromotyrosine	atcSuffix	BX02
+Benzylthiouracil	atcSuffix	BA03
+Methylthiouracil	atcSuffix	BA01
+Tasosartan	atcSuffix	CA05
+Flosequinan	atcSuffix	DB01
+Pridinol	atcSuffix	BX03
+Fenyramidol	atcSuffix	BX30
+Febarbamate	atcSuffix	BA05
+Dimethyltubocurarinium chloride	atcSuffix	AA04
+Fazadinium bromide	atcSuffix	AC08
+Hexafluronium bromide	atcSuffix	AC05
+Thiocolchicoside	atcSuffix	BX05
+Styramate	atcSuffix	BA04
+Pipecuronium bromide	atcSuffix	AC06
+Digoxin immune fab	atcSuffix	AB24
+Nalorphine	atcSuffix	AB02
+Naratriptan	atcSuffix	CC02
+Nitroxoline	atcSuffix	XX07
+Xibornol	atcSuffix	XX02
+Nifurtoinol	atcSuffix	XE02
+Clofoctol	atcSuffix	XX03
+Fosfomycin	atcSuffix	XX01
+Etilevodopa	atcSuffix	BA06
+Melevodopa	atcSuffix	BA04
+Budipine	atcSuffix	BX03
+Mebutamate	atcSuffix	BC04
+Mephenoxalone	atcSuffix	BX01
+Gedocarnil	atcSuffix	BX02
+Captodiame	atcSuffix	BB02
+Benzoctamine	atcSuffix	BD01
+Etifoxine	atcSuffix	BX03
+Colextran	atcSuffix	AC03
+Colestipol	atcSuffix	AC02
+Colesevelam	atcSuffix	AC04
+Ronifibrate	atcSuffix	AB07
+Ciprofibrate	atcSuffix	AB08
+Clofibride	atcSuffix	AB10
+Simfibrate	atcSuffix	AB06
+Etofibrate	atcSuffix	AB09
+Acipimox	atcSuffix	AD06
+Clofibrate	atcSuffix	AB01
+Niceritrol	atcSuffix	AD01
+Nicofuranose	atcSuffix	AD03
+Nicotinyl alcohol	atcSuffix	AD05
+Aluminium nicotinate	atcSuffix	AD04
+Aluminium clofibrate	atcSuffix	AB03
+Tiadenol	atcSuffix	AX03
+Meglutol	atcSuffix	AX05
+Magnesium pyridoxal 5-phosphate glutamate	atcSuffix	AX07
+Benfluorex	atcSuffix	BX06
+Elcatonin	atcSuffix	BA04
+Cadexomer iodine	atcSuffix	AX01
+Crilanomer	atcSuffix	AX09
+Becaplermin	atcSuffix	AD08
+Dextranomer	atcSuffix	AX02
+Ibopamine	atcSuffix	CA16
+Moxaverine	atcSuffix	AD30
+Clebopride	atcSuffix	FA06
+Alizapride	atcSuffix	FA05
+Drotaverine	atcSuffix	AD02
+Terodiline	atcSuffix	BD05
+Moxisylyte	atcSuffix	BE06
+Emepronium bromide	atcSuffix	BD01
+Udenafil	atcSuffix	BE11
+Meladrazine	atcSuffix	BD03
+Propiverine	atcSuffix	BD06
+Avanafil	atcSuffix	BE10
+Etanautine	atcSuffix	AB01
+Etybenzatropine	atcSuffix	AC30
+Tropatepine	atcSuffix	AA12
+Metixene	atcSuffix	AA03
+Phenglutarimide	atcSuffix	AA09
+Mazaticol	atcSuffix	AA10
+Bornaprine	atcSuffix	AA11
+Esketamine	atcSuffix	AX14
+Vinyl ether	atcSuffix	AA02
+Alfaxalone	atcSuffix	AX05
+Policresulen	atcSuffix	AE02
+Euflavine	atcSuffix	AA03
+Morinamide	atcSuffix	AK04
+Prothionamide	atcSuffix	AD01
+Thiocarlide	atcSuffix	AD02
+Terizidone	atcSuffix	AK03
+Triflusal	atcSuffix	AC18
+Carbasalate calcium	atcSuffix	AC08
+Picotamide	atcSuffix	AC03
+Ditazole	atcSuffix	AC01
+Cloricromen	atcSuffix	AC02
+Indobufen	atcSuffix	AC10
+Aloxiprin	atcSuffix	AC15
+Xamoterol	atcSuffix	CX07
+Angiotensinamide	atcSuffix	CX06
+Cymarin	atcSuffix	AC03
+Gitoformate	atcSuffix	AA09
+Peruvoside	atcSuffix	AX02
+Deslanoside	atcSuffix	AA07
+Lanatoside C	atcSuffix	AA06
+Acetyldigoxin	atcSuffix	AA02
+Methoxamine	atcSuffix	CA10
+Technetium	atcSuffix	GA04
+Dapagliflozin	atcSuffix	BX09
+Hexapropymate	atcSuffix	CM10
+Methylpentynol	atcSuffix	CM15
+Apronal	atcSuffix	CM12
+Pyrithyldione	atcSuffix	CE03
+Chloralodol	atcSuffix	CC02
+Acetylglycinamide chloral hydrate	atcSuffix	CC03
+Aminomethylbenzoic acid	atcSuffix	AA03
+Bemiparin sodium	atcSuffix	AB12
+Parnaparin sodium	atcSuffix	AB07
+Tinzaparin sodium	atcSuffix	AB10
+Sulodexide	atcSuffix	AB11
+Reviparin sodium	atcSuffix	AB08
+Tioclomarol	atcSuffix	AA11
+Clorindione	atcSuffix	AA09
+Ethyl biscoumacetate	atcSuffix	AA08
+Insulin lispro	atcSuffix	AB04
+Insulin aspart	atcSuffix	AB05
+Naftifine	atcSuffix	AE22
+Butoconazole	atcSuffix	AF15
+Azanidazole	atcSuffix	AF13
+Propenidazole	atcSuffix	AF14
+Bifonazole	atcSuffix	AC10
+Chlormidazole	atcSuffix	AC04
+Isoconazole	atcSuffix	AC05
+Fenticonazole	atcSuffix	AC12
+Micafungin	atcSuffix	AX05
+Omoconazole	atcSuffix	AC13
+Lithium succinate	atcSuffix	AX04
+Oxaceprol	atcSuffix	AX09
+Mequinol	atcSuffix	AX06
+Colfosceril palmitate	atcSuffix	AA01
+Hepatitis B vaccine	atcSuffix	BC01
+Hepatitis A vaccine	atcSuffix	BC02
+Hib vaccine	atcSuffix	AG01
+Brodimoprim	atcSuffix	EA02
+Sulfamoxole	atcSuffix	EC03
+Sulfalene	atcSuffix	ED02
+Sulfisomidine	atcSuffix	EB01
+Sulfametoxydiazine	atcSuffix	ED04
+Sulfadimidine	atcSuffix	EB03
+Sulfathiourea	atcSuffix	EB08
+Sulfapyridine	atcSuffix	EB04
+Sulfadimethoxine	atcSuffix	ED02
+Sulfametomidine	atcSuffix	ED03
+Sulfamethoxypyridazine	atcSuffix	ED05
+Sulfamerazine	atcSuffix	BA06
+Sulfaperin	atcSuffix	ED06
+Sulfaphenazole	atcSuffix	ED08
+Tacalcitol	atcSuffix	AX04
+Plicamycin	atcSuffix	DC02
+Ceftizoxime	atcSuffix	DD07
+Cefetamet	atcSuffix	DD10
+Cefodizime	atcSuffix	DD09
+Cefpirome	atcSuffix	DE02
+Cefroxadine	atcSuffix	DB11
+Cefmetazole	atcSuffix	DC09
+Ceftezole	atcSuffix	DB12
+Latamoxef	atcSuffix	DD06
+Cefsulodin	atcSuffix	DD03
+Cefamandole	atcSuffix	DC03
+Cefazedone	atcSuffix	DB06
+Cephaloridine	atcSuffix	DB02
+Cefatrizine	atcSuffix	DB07
+Cefonicid	atcSuffix	DC06
+Clidinium bromide	atcSuffix	CA02
+Ipriflavone	atcSuffix	BX01
+Alglucosidase alfa	atcSuffix	AB07
+Emetine	atcSuffix	AX02
+Diloxanide	atcSuffix	AC01
+Talastine	atcSuffix	AB07
+Tridihexethyl	atcSuffix	AB08
+Lentinan	atcSuffix	AX01
+Alimemazine	atcSuffix	AD01
+Canrenone	atcSuffix	DA03
+Potassium canrenoate	atcSuffix	DA02
+Theodrenaline	atcSuffix	CA23
+Dimetofrine	atcSuffix	CA12
+Prenalterol	atcSuffix	CA13
+Gepefrine	atcSuffix	CA15
+Cafedrine	atcSuffix	CA21
+Arbutamine	atcSuffix	CA22
+Etilefrine	atcSuffix	CA01
+Mephentermine	atcSuffix	CA11
+Norfenefrine	atcSuffix	CA05
+Tilidine	atcSuffix	AX01
+Nalfurafine	atcSuffix	AX02
+Tapentadol	atcSuffix	AX06
+Anethole trithione	atcSuffix	AX02
+Calcium hexamine thiocyanate	atcSuffix	AX01
+Ritiometan	atcSuffix	AX05
+Antazoline	atcSuffix	AC04
+Fenoxazoline	atcSuffix	AA12
+Tymazoline	atcSuffix	AA13
+Tramazoline	atcSuffix	AA09
+Metizoline	atcSuffix	AA10
+Befunolol	atcSuffix	ED06
+Unoprostone	atcSuffix	EE02
+Paraoxon	atcSuffix	EB10
+Dapiprazole	atcSuffix	EX02
+Dezocine	atcSuffix	AX03
+Lacidipine	atcSuffix	CA09
+Metergoline	atcSuffix	CB05
+Medetomidine	atcSuffix	CM91
+Polynoxylin	atcSuffix	AB05
+Domiphen bromide	atcSuffix	AB06
+Tibezonium iodide	atcSuffix	AB15
+Adrenalone	atcSuffix	AD06
+Magnesium pidolate	atcSuffix	CC08
+Magnesium lactate	atcSuffix	CC06
+Amlexanox	atcSuffix	AD07
+Mepartricin	atcSuffix	AB16
+Magnesium aspartate	atcSuffix	CC05
+Olaflur	atcSuffix	AA03
+Calcium pangamate	atcSuffix	AA11
+Magnesium levulinate	atcSuffix	CC07
+Potassium gluconate	atcSuffix	BA05
+Calcium glucoheptonate	atcSuffix	AA10
+Magnesium orotate	atcSuffix	CC09
+Calcium glubionate	atcSuffix	AA02
+Pyrrobutamine	atcSuffix	AX08
+Mizolastine	atcSuffix	AX25
+Pimethixene	atcSuffix	AX23
+Hydroxyethylpromethazine	atcSuffix	AD05
+Phenindamine	atcSuffix	AX04
+Deptropine	atcSuffix	AX16
+Histapyrrodine	atcSuffix	AC02
+Oxomemazine	atcSuffix	AD08
+Bromazine	atcSuffix	AA01
+Calcium dobesilate	atcSuffix	BX01
+Hidrosmin	atcSuffix	CA05
+Troxerutin	atcSuffix	CA04
+Monoxerutin	atcSuffix	CA02
+Bisoxatin	atcSuffix	AB09
+Senna glycoside	atcSuffix	AB06
+Ethulose	atcSuffix	AC02
+Macrogol	atcSuffix	AD15
+Sodium apolate	atcSuffix	BA02
+Monoethanolamine oleate	atcSuffix	BB01
+Tribenoside	atcSuffix	AX05
+Oxetacaine	atcSuffix	AD06
+Sodium tetradecyl sulfate	atcSuffix	BB04
+Meclofenamic acid	atcSuffix	AG04
+Nifenazone	atcSuffix	AA24
+Feprazone	atcSuffix	AA16
+Suxibuzone	atcSuffix	AA22
+Fentiazac	atcSuffix	AA14
+Bufexamac	atcSuffix	AB17
+Niflumic acid	atcSuffix	AX02
+Bendazac	atcSuffix	AA11
+Etofenamate	atcSuffix	AA06
+Mofebutazone	atcSuffix	AA02
+Clofezone	atcSuffix	AA03
+Tenidap	atcSuffix	AX23
+Morniflumate	atcSuffix	AX22
+Proquazone	atcSuffix	AX13
+Azapropazone	atcSuffix	AX04
+Flunoxaprofen	atcSuffix	CC04
+Dexketoprofen	atcSuffix	AE17
+Alminoprofen	atcSuffix	AE16
+Flufenamic acid	atcSuffix	AG03
+Dexibuprofen	atcSuffix	AE14
+Benoxaprofen	atcSuffix	AE06
+Ibuproxam	atcSuffix	AE13
+Pirprofen	atcSuffix	AE08
+Oxametacin	atcSuffix	AB13
+Tenoxicam	atcSuffix	AC02
+Indoprofen	atcSuffix	AE10
+Difenpiramide	atcSuffix	AB12
+Droxicam	atcSuffix	AC04
+Aceclofenac	atcSuffix	AB16
+Lornoxicam	atcSuffix	AC05
+Fenoprofen	atcSuffix	AE04
+Proglumetacin	atcSuffix	AB14
+Acemetacin	atcSuffix	AB11
+Lonazolac	atcSuffix	AB09
+Alclofenac	atcSuffix	AB06
+Bumadizone	atcSuffix	AB07
+Sodium aurothiosulfate	atcSuffix	CB02
+Aurotioprol	atcSuffix	CB05
+Kebuzone	atcSuffix	AA06
+Oxycinchophen	atcSuffix	CA03
+Mefenorex	atcSuffix	AA09
+Etamsylate	atcSuffix	BX01
+Etamivan	atcSuffix	AB04
+Valnemulin	atcSuffix	XQ02
+Meptazinol	atcSuffix	AX05
+Epoetin beta	atcSuffix	XA01
+amodiaquine	atcSuffix	BF03
+Ceftobiprole	atcSuffix	DI01
+Co-amilofruse	atcSuffix	EB01
+Co-amilozide	atcSuffix	EA01
+Phenazocine	atcSuffix	AD02
+Fesoterodine	atcSuffix	BD11
+Difenoxin	atcSuffix	DA04
+Alprenolol	atcSuffix	AA01
+Sodium acetrizoate	atcSuffix	AA07
+Pidotimod	atcSuffix	AX05
+Lenograstim	atcSuffix	AA10
+Roquinimex	atcSuffix	AX02
+Molgramostim	atcSuffix	AA03
+Thymopentin	atcSuffix	AX09
+Poly ICLC	atcSuffix	AX08
+Polyinosinic:polycytidylic acid	atcSuffix	AX07
+Carazolol	atcSuffix	AA90
+Ceftiofur	atcSuffix	DD90
+Ioflupane	atcSuffix	AB03
+Amrubicin	atcSuffix	DB10
+Proglumide	atcSuffix	BX06
+Ibudilast	atcSuffix	DC04
+Treosulfan	atcSuffix	AB02
+dexamethasone	atcSuffix	CA01
+Eltrombopag	atcSuffix	BX05
+Etravirine	atcSuffix	AG04
+Lacosamide	atcSuffix	AX18
+Vitamin B12	atcSuffix	BA01
+Pegvisomant	atcSuffix	AX01
+Prostaglandin F2alpha	atcSuffix	AD01
+Pentamycin	atcSuffix	AA11
+Carfecillin	atcSuffix	AA08
+Candicidin	atcSuffix	AA04
+Hachimycin	atcSuffix	AA03
+Bibrocathol	atcSuffix	AX05
+Axitinib	atcSuffix	XE17
+Iobenguane	atcSuffix	IX01
+Telbivudine	atcSuffix	AF11
+Interferon alfa-2b	atcSuffix	AB05
+Elvitegravir	atcSuffix	AX11
+lamivudine	atcSuffix	AR02
+Rotavirus vaccine	atcSuffix	BH02
+Dalbavancin	atcSuffix	XA04
+Naproxcinod	atcSuffix	AE18
+Rosoxacin	atcSuffix	MB01
+Isopropamide	atcSuffix	AB09
+Alogliptin	atcSuffix	BH04
+Broxyquinoline	atcSuffix	AX01
+Sulfaguanidine	atcSuffix	AB03
+Phthalylsulfathiazole	atcSuffix	AB02
+Succinylsulfathiazole	atcSuffix	AB04
+Racecadotril	atcSuffix	XA04
+Nifurzide	atcSuffix	AX04
+Diosmectite	atcSuffix	BC05
+Albumin tannate	atcSuffix	XA01
+Dienogest	atcSuffix	DB08
+Celiprolol	atcSuffix	AB08
+Tertatolol	atcSuffix	AA16
+Bromfenac	atcSuffix	BC11
+Trichlormethiazide	atcSuffix	AA03
+Bendamustine	atcSuffix	AA09
+Oblimersen	atcSuffix	XX36
+Salsalate	atcSuffix	BA06
+Gadobutrol	atcSuffix	CA09
+Xipamide	atcSuffix	BA10
+Eribulin	atcSuffix	XX41
+Methoxy polyethylene glycol-epoetin beta	atcSuffix	XA03
+Clotrimazole	atcSuffix	AB18
+Nefopam	atcSuffix	BG06
+Viminol	atcSuffix	BG05
+Vi capsular polysaccharide vaccine	atcSuffix	AP03
+Sulfadoxine	atcSuffix	EQ13
+Telavancin	atcSuffix	XA03
+Sisomicin	atcSuffix	GB08
+Streptoduocin	atcSuffix	GA02
+Dibekacin	atcSuffix	GB09
+Ribostamycin	atcSuffix	GB10
+Isepamicin	atcSuffix	GB11
+Dihydrostreptomycin	atcSuffix	AA15
+Rabies vaccine	atcSuffix	BG01
+Rilonacept	atcSuffix	AC04
+Fosaprepitant	atcSuffix	AD12
+Tedisamil	atcSuffix	BD06
+Vernakalant	atcSuffix	BG11
+lovastatin	atcSuffix	BA01
+Metanx	atcSuffix	EA
+Pirbuterol	atcSuffix	AC08
+Piromidic acid	atcSuffix	MB03
+Pipemidic acid	atcSuffix	MB04
+Fleroxacin	atcSuffix	MA08
+Oxolinic acid	atcSuffix	MB05
+Flumequine	atcSuffix	MB07
+Rufloxacin	atcSuffix	MA10
+Prulifloxacin	atcSuffix	MA17
+Mibefradil	atcSuffix	CX01
+Garenoxacin	atcSuffix	MA19
+Iopamidol	atcSuffix	AB04
+Taranabant	atcSuffix	AX
+Ridaforolimus	atcSuffix	XE19
+Dimefline	atcSuffix	AB08
+Mepixanox	atcSuffix	AB09
+Prethcamide	atcSuffix	AB06
+Benidipine	atcSuffix	CA15
+Linsidomine	atcSuffix	DX18
+Cloridarol	atcSuffix	DX15
+Etafenone	atcSuffix	DX07
+Cinepazet	atcSuffix	DX14
+Efloxate	atcSuffix	DX13
+Dilazep	atcSuffix	DX10
+Trapidil	atcSuffix	DX11
+Hexobendine	atcSuffix	DX06
+Imolamine	atcSuffix	DX09
+Itramin tosilate	atcSuffix	DX01
+Carbocromen	atcSuffix	DX05
+Benziodarone	atcSuffix	DX04
+Prenylamine	atcSuffix	DX02
+Oxyfedrine	atcSuffix	DX03
+Propacetamol	atcSuffix	BE05
+Nadifloxacin	atcSuffix	AF05
+Maropitant	atcSuffix	AD90
+dexchlorpheniramine	atcSuffix	AB52
+Regadenoson	atcSuffix	EB21
+Tulathromycin	atcSuffix	FA94
+Atipamezole	atcSuffix	AB90
+Ipodate sodium	atcSuffix	AC08
+Mecasermin	atcSuffix	AC03
+Firocoxib	atcSuffix	AH90
+amlodipine	atcSuffix	DB02
+Zofenopril	atcSuffix	AA15
+Veralipride	atcSuffix	AL06
+Delapril	atcSuffix	AA12
+Imidapril	atcSuffix	AA16
+Moexipril	atcSuffix	AA13
+Temocapril	atcSuffix	AA14
+Technetium	atcSuffix	AA01
+Ponazuril	atcSuffix	AJ04
+Medifoxamine	atcSuffix	AX13
+Minaprine	atcSuffix	AX07
+Bosutinib	atcSuffix	XE14
+Indacaterol	atcSuffix	AC18
+Boceprevir	atcSuffix	AE12
+Procaterol	atcSuffix	AC16
+Ty21a	atcSuffix	AP01
+Rolofylline	atcSuffix	BD
+Isavuconazole	atcSuffix	AC05
+Carbutamide	atcSuffix	BB06
+Fenspiride	atcSuffix	BX01
+Secnidazole	atcSuffix	AB07
+Clevudine	atcSuffix	AF12
+Rimiterol	atcSuffix	AC05
+Carbuterol	atcSuffix	CC10
+Tulobuterol	atcSuffix	AC11
+Clevidipine	atcSuffix	CA16
+Bacampicillin	atcSuffix	CA06
+Flupirtine	atcSuffix	BG07
+Metampicillin	atcSuffix	CA14
+Epicillin	atcSuffix	CA07
+Telaprevir	atcSuffix	AE11
+Azidamfenicol	atcSuffix	AA25
+Vorapaxar	atcSuffix	AC26
+Droxidopa	atcSuffix	CA27
+Laropiprant	atcSuffix	AD52
+Aflibercept	atcSuffix	XX44
+Pirlimycin	atcSuffix	FF90
+Cyamemazine	atcSuffix	AA06
+Danofloxacin	atcSuffix	MA92
+Orbifloxacin	atcSuffix	MA95
+Difloxacin	atcSuffix	MA94
+Benzbromarone	atcSuffix	AB03
+Casopitant	atcSuffix	AD13
+Panipenem	atcSuffix	DH55
+Betamipron	atcSuffix	DH55
+Romifidine	atcSuffix	CM93
+Fenoverine	atcSuffix	AX05
+Cefozopran	atcSuffix	DE03
+Carumonam	atcSuffix	DF02
+Flomoxef	atcSuffix	DC14
+Benzylpenicillin	atcSuffix	CE01
+Kitasamycin	atcSuffix	FA93
+Gallopamil	atcSuffix	DA02
+Barnidipine	atcSuffix	CA12
+Cilnidipine	atcSuffix	CA14
+Manidipine	atcSuffix	CA11
+Tolrestat	atcSuffix	XA01
+Tiropramide	atcSuffix	AC05
+Afamelanotide	atcSuffix	BB02
+timolol	atcSuffix	ED51
+Azilsartan	atcSuffix	CA09
+Enzalutamide	atcSuffix	BB04
+Etofamide	atcSuffix	AC03
+Lafutidine	atcSuffix	BA08
+Pazufloxacin	atcSuffix	MA18
+Ibafloxacin	atcSuffix	MA96
+Pradofloxacin	atcSuffix	MA97
+Sulbenicillin	atcSuffix	CA16
+Pandemrix	atcSuffix	BB02
+Piretanide	atcSuffix	CA03
+Vinflunine	atcSuffix	CA05
+Timepidium bromide	atcSuffix	AB19
+Sulprostone	atcSuffix	AD05
+Mefruside	atcSuffix	BA05
+Pranoprofen	atcSuffix	BC09
+Ranimustine	atcSuffix	AD07
+Colestilan	atcSuffix	AE06
+Meticrane	atcSuffix	BA09
+Cefminox	atcSuffix	DC12
+Cefcapene	atcSuffix	DD17
+Cefalonium	atcSuffix	DB90
+Cefbuperazone	atcSuffix	DC13
+Periciazine	atcSuffix	AC01
+Dimetotiazine	atcSuffix	CX05
+Chlormadinone	atcSuffix	DB06
+Oxypertine	atcSuffix	AE01
+Tegafur	atcSuffix	BC03
+Nimustine	atcSuffix	AD06
+Acadesine	atcSuffix	EB13
+Hexoprenaline	atcSuffix	AC06
+Reproterol	atcSuffix	AC15
+Terguride	atcSuffix	CB06
+Buphenine	atcSuffix	AA02
+Quinagolide	atcSuffix	CB04
+Cefovecin	atcSuffix	DD91
+Meclocycline	atcSuffix	AF04
+Gadoteridol	atcSuffix	CA04
+Carindacillin	atcSuffix	CA05
+Seratrodast	atcSuffix	DX06
+Temoporfin	atcSuffix	XD05
+Zorubicin	atcSuffix	DB05
+Aclarubicin	atcSuffix	DB04
+Pirarubicin	atcSuffix	DB08
+Linagliptin	atcSuffix	BH05
+Trofosfamide	atcSuffix	AA07
+Efaproxiral	atcSuffix	XD06
+Mannosulfan	atcSuffix	AB03
+Guanoxan	atcSuffix	CC03
+Guanochlor	atcSuffix	CC05
+Guanazodine	atcSuffix	CC06
+Urapidil	atcSuffix	CA06
+Bethanidine	atcSuffix	CC01
+Endralazine	atcSuffix	DB03
+Trimazosin	atcSuffix	CA03
+Cadralazine	atcSuffix	DB04
+Clorexolone	atcSuffix	BA12
+Fenquizone	atcSuffix	BA13
+Clofenamide	atcSuffix	BA07
+Mebutizide	atcSuffix	AA13
+Methyclothiazide	atcSuffix	AA08
+Cyclopenthiazide	atcSuffix	AA07
+Cyclothiazide	atcSuffix	AA09
+Hydroflumethiazide	atcSuffix	AA02
+Polythiazide	atcSuffix	AA05
+Methoxyphenamine	atcSuffix	CB02
+Lorcaserin	atcSuffix	AA11
+Fasudil	atcSuffix	AX32
+Amperozide	atcSuffix	AX90
+Camostat	atcSuffix	AB04
+Perazine	atcSuffix	AB10
+Tiapride	atcSuffix	AL03
+Sultopride	atcSuffix	AL02
+Clopenthixol	atcSuffix	AF02
+Biapenem	atcSuffix	DH05
+Bekanamycin	atcSuffix	GB13
+Ecallantide	atcSuffix	AC03
+Amezinium metilsulfate	atcSuffix	CA25
+Mosapramine	atcSuffix	AX10
+Bopindolol	atcSuffix	AA17
+entacapone	atcSuffix	BA03
+Doxofylline	atcSuffix	DA11
+Oxidized cellulose	atcSuffix	BC02
+Tetragalacturonic acid hydroxymethylester	atcSuffix	BC03
+Romiplostim	atcSuffix	BX04
+Carbazochrome	atcSuffix	BX02
+Absorbable gelatin sponge	atcSuffix	BC01
+Pimobendan	atcSuffix	CE90
+Demoxytocin	atcSuffix	BB01
+Somatrem	atcSuffix	AC02
+Bevantolol	atcSuffix	AB06
+Micronomicin	atcSuffix	AA22
+Isobromindione	atcSuffix	AB04
+Tisopurine	atcSuffix	AA02
+Carbaldrate	atcSuffix	AB04
+Aluminium acetoacetate	atcSuffix	AB05
+Aloglutamol	atcSuffix	AB06
+Troxipide	atcSuffix	BX11
+Aluminium glycinate	atcSuffix	AB07
+Abetimus	atcSuffix	AA22
+Vilazodone	atcSuffix	AX24
+Blinatumomab	atcSuffix	XC19
+Nimorazole	atcSuffix	AB06
+Lurasidone	atcSuffix	AE05
+Mipomersen	atcSuffix	AX11
+Albinterferon	atcSuffix	AB12
+Ceruletide	atcSuffix	CC04
+Corticorelin	atcSuffix	CD04
+Somatorelin	atcSuffix	CD05
+Alsactide	atcSuffix	CH04
+Aminohippuric acid	atcSuffix	CH30
+Sulfametrole	atcSuffix	EE03
+Sulfafurazole	atcSuffix	EB05
+Tetroxoprim	atcSuffix	EE06
+Afatinib	atcSuffix	XE13
+Iclaprim	atcSuffix	EA03
+Sulfamazone	atcSuffix	ED09
+Ticagrelor	atcSuffix	AC24
+Fluvalinate	atcSuffix	AC10
+Pivmecillinam	atcSuffix	CA08
+Mecillinam	atcSuffix	CA11
+Gefarnate	atcSuffix	BX07
+Interferon alfa	atcSuffix	AB01
+Teriflunomide	atcSuffix	AA31
+Roflumilast	atcSuffix	DX07
+Paricalcitol	atcSuffix	BX02
+Bergapten	atcSuffix	BA03
+Rociverine	atcSuffix	AA06
+Dihexyverine	atcSuffix	AA08
+Difemerine	atcSuffix	AA09
+Trimebutine	atcSuffix	AA05
+Piperidolate	atcSuffix	AA30
+Camylofin	atcSuffix	AA03
+Oxyphencyclimine	atcSuffix	AA01
+Nebacumab	atcSuffix	BC01
+Technetium	atcSuffix	IA04
+Arbekacin	atcSuffix	GB12
+Ramucirumab	atcSuffix	XC21
+Obinutuzumab	atcSuffix	XC15
+Vedolizumab	atcSuffix	AA33
+Sarmazenil	atcSuffix	AB91
+Climazolam	atcSuffix	CD90
+Fenpiverinium	atcSuffix	AB21
+Mepenzolate	atcSuffix	AB12
+Tiemonium iodide	atcSuffix	AB17
+Hexocyclium	atcSuffix	AB10
+Poldine	atcSuffix	AB11
+Bevonium	atcSuffix	AB13
+Pipenzolate bromide	atcSuffix	AB14
+Methantheline	atcSuffix	AB07
+Diphemanil metilsulfate	atcSuffix	AB15
+Prifinium bromide	atcSuffix	AB18
+Penthienate	atcSuffix	AB04
+Oxyphenonium bromide	atcSuffix	AB03
+Otilonium bromide	atcSuffix	AB06
+Benzilone	atcSuffix	AB01
+Methylatropine	atcSuffix	BB02
+Cimetropium bromide	atcSuffix	BB05
+Fentonium	atcSuffix	BB04
+Tafluprost	atcSuffix	EE05
+Cyclofenil	atcSuffix	GB01
+Trimethyldiphenylpropylamine	atcSuffix	AX30
+Trepibutone	atcSuffix	AX09
+Idanpramine	atcSuffix	AX06
+Alverine	atcSuffix	AX08
+Pinaverium	atcSuffix	AX04
+Proxazole	atcSuffix	AX07
+Caroverine	atcSuffix	AX11
+Chlorbenzoxamine	atcSuffix	AX03
+Fenpiprane	atcSuffix	AX01
+Copper usnate	atcSuffix	AX15
+Protiofate	atcSuffix	AX13
+Sulfatolamide	atcSuffix	AE01
+Clodantoin	atcSuffix	AX01
+Nifuratel	atcSuffix	AX05
+Tritoqualine	atcSuffix	AX21
+Thiazinamium metilsulfate	atcSuffix	AD06
+Iprazochrome	atcSuffix	CX03
+Oxetorone	atcSuffix	CX06
+Chlorphenesin	atcSuffix	AE07
+Carmofur	atcSuffix	BC04
+Tylosin	atcSuffix	FA90
+tretinoin	atcSuffix	AD51
+Prucalopride	atcSuffix	AX05
+Bupranolol	atcSuffix	AA19
+Iodamide	atcSuffix	AA03
+Methiodal	atcSuffix	AA09
+Iomeprol	atcSuffix	AB10
+Metrizamide	atcSuffix	AB01
+Ioversol	atcSuffix	AB07
+Iopentol	atcSuffix	AB08
+Iopromide	atcSuffix	AB05
+Iobitridol	atcSuffix	AB11
+Iopydol	atcSuffix	AD02
+Iofendylate	atcSuffix	AD04
+Metrizoic acid	atcSuffix	AA02
+Propyliodone	atcSuffix	AD03
+Iotalamic acid	atcSuffix	AA04
+Adipiodone	atcSuffix	AC04
+Iobenzamic acid	atcSuffix	AC05
+Acetrizoic acid	atcSuffix	AA07
+Ioxaglic acid	atcSuffix	AB03
+Ioglicic acid	atcSuffix	AA06
+Iodoxamic acid	atcSuffix	AC01
+Ioxitalamic acid	atcSuffix	AA05
+Ioglycamic acid	atcSuffix	AC03
+Iocarmic acid	atcSuffix	AA08
+Iotroxic acid	atcSuffix	AC02
+Iopanoic acid	atcSuffix	AC06
+Iocetamic acid	atcSuffix	AC07
+Gadoteric acid	atcSuffix	CA02
+Gadoxetic acid	atcSuffix	CA10
+Gadobenic acid	atcSuffix	CA08
+Triaziquone	atcSuffix	AC02
+Carboquone	atcSuffix	AC03
+Semustine	atcSuffix	AD03
+Prednimustine	atcSuffix	AA08
+Etoglucid	atcSuffix	AG01
+Demecolcine	atcSuffix	CC01
+Lonidamine	atcSuffix	XX07
+Mitoguazone	atcSuffix	XX16
+Tasimelteon	atcSuffix	CH03
+W-135	atcSuffix	AH04
+Besifloxacin	atcSuffix	AE08
+Estradiol benzoate	atcSuffix	CA03
+Fendiline	atcSuffix	EA01
+Albiglutide	atcSuffix	BX13
+Azapetine	atcSuffix	AX30
+Suloctidil	atcSuffix	AX19
+Cinepazide	atcSuffix	AX27
+Cetiedil	atcSuffix	AX26
+Butalamine	atcSuffix	AX23
+Visnadine	atcSuffix	AX24
+Etofylline nicotinate	atcSuffix	AD04
+Inositol nicotinate	atcSuffix	AC03
+Ciclonicate	atcSuffix	AC07
+Bamethan	atcSuffix	AA31
+Vinburnine	atcSuffix	AX17
+Pentifylline	atcSuffix	AD01
+Cyclandelate	atcSuffix	AX01
+Panobinostat	atcSuffix	XX42
+Benzathine benzylpenicillin	atcSuffix	CE08
+Procaine benzylpenicillin	atcSuffix	CE09
+Clometocillin	atcSuffix	CE07
+Benzathine phenoxymethylpenicillin	atcSuffix	CE10
+Pheneticillin	atcSuffix	CE05
+Penamecillin	atcSuffix	CE06
+Talampicillin	atcSuffix	CA15
+Azidocillin	atcSuffix	CE04
+Propicillin	atcSuffix	CE03
+Epomediol	atcSuffix	BA05
+Ornithine oxoglutarate	atcSuffix	BA06
+Arginine glutamate	atcSuffix	BA01
+Citiolone	atcSuffix	BA04
+Cyclobutyrol	atcSuffix	AX03
+Hymecromone	atcSuffix	AX02
+Piprozolin	atcSuffix	AX01
+Degarelix	atcSuffix	BX02
+Deslorelin	atcSuffix	CA93
+Tidiacic	atcSuffix	BA07
+Diphtheria vaccine	atcSuffix	AF01
+Pertussis vaccine	atcSuffix	AJ01
+Brucellosis vaccine	atcSuffix	AD01
+Cholera vaccine	atcSuffix	AE01
+Plague vaccine	atcSuffix	AK01
+Typhoid vaccine	atcSuffix	AP01
+Typhus vaccine	atcSuffix	AR01
+Tick-borne encephalitis vaccine	atcSuffix	BA01
+Meningococcal vaccine	atcSuffix	AH01
+Rubella vaccine	atcSuffix	BJ01
+Yellow fever vaccine	atcSuffix	BL01
+Japanese encephalitis vaccine	atcSuffix	BA02
+Fluticasone furoate	atcSuffix	AD12
+Arprinocid	atcSuffix	AX11
+Decoquinate	atcSuffix	AX14
+Diclazuril	atcSuffix	AJ03
+Lasalocid	atcSuffix	AH02
+Halofuginone	atcSuffix	AX08
+Narasin	atcSuffix	AH04
+Robenidine	atcSuffix	AX13
+Toltrazuril	atcSuffix	AJ01
+Quinapyramine	atcSuffix	AX20
+Isometamidium chloride	atcSuffix	AX19
+Bifemelane	atcSuffix	AX08
+Dichlorophen	atcSuffix	DX02
+Niridazole	atcSuffix	BX02
+Bephenium hydroxynaphthoate	atcSuffix	CX02
+Ciclobendazole	atcSuffix	CA04
+Stibophen	atcSuffix	BX03
+Flubendazole	atcSuffix	CA05
+Pyrvinium	atcSuffix	CX01
+Oxantel	atcSuffix	CC02
+Desaspidin	atcSuffix	DX01
+Bithionol	atcSuffix	AB01
+Necitumumab	atcSuffix	XC22
+Siltuximab	atcSuffix	AC11
+Tenonitrozole	atcSuffix	AX08
+Difetarsone	atcSuffix	AR02
+Dehydroemetine	atcSuffix	AX09
+Phanquinone	atcSuffix	AX04
+Chiniofon	atcSuffix	AX01
+Clefamide	atcSuffix	AC02
+Teclozan	atcSuffix	AC04
+Tilbroquinol	atcSuffix	AA05
+Sodium cellulose phosphate	atcSuffix	AG01
+Muzolimine	atcSuffix	CD01
+Technetium	atcSuffix	GA02
+Maribavir	atcSuffix	AX10
+Pomalidomide	atcSuffix	AX06
+Lomitapide	atcSuffix	AX12
+Tolciclate	atcSuffix	AE19
+Bromochlorosalicylanilide	atcSuffix	AE01
+Tribromometacresol	atcSuffix	AE03
+Sulbentine	atcSuffix	AE09
+Dimazole	atcSuffix	AE17
+Ticlatone	atcSuffix	AE08
+Chlorophetanol	atcSuffix	AE06
+Dexlansoprazole	atcSuffix	BC06
+promethazine	atcSuffix	AB05
+Retigabine	atcSuffix	AX21
+Pegloticase	atcSuffix	AX02
+Bisulepine	atcSuffix	AX
+Tedizolid	atcSuffix	XX11
+Perampanel	atcSuffix	AX22
+Omacetaxine mepesuccinate	atcSuffix	XX40
+naltrexone	atcSuffix	AA62
+Fluanisone	atcSuffix	AD09
+Riociguat	atcSuffix	KX05
+Radium-223	atcSuffix	XX03
+Chlormadinone acetate	atcSuffix	DB06
+Hepatitis B immune globulin	atcSuffix	BB04
+Toceranib	atcSuffix	XE91
+Cangrelor	atcSuffix	AC25
+Glymidine sodium	atcSuffix	BC01
+Sulglicotide	atcSuffix	BX08
+Almagate	atcSuffix	AD03
+Moracizine	atcSuffix	BG01
+Mepindolol	atcSuffix	AA14
+Edoxudine	atcSuffix	BB09
+Mesulfen	atcSuffix	AB05
+Butaperazine	atcSuffix	AB09
+Thiopropazate	atcSuffix	AB05
+Pipotiazine	atcSuffix	AC04
+Quinupramine	atcSuffix	AA23
+Dimetacrine	atcSuffix	AA18
+Oxaflozane	atcSuffix	AX10
+Clotiapine	atcSuffix	AH06
+Dyphylline	atcSuffix	DA01
+naloxone	atcSuffix	AA55
+melitracen	atcSuffix	CA02
+Olaparib	atcSuffix	XX46
+Promegestone	atcSuffix	DB07
+Medroxyprogesterone acetate	atcSuffix	AC06
+Medrogestone	atcSuffix	DB03
+Eslicarbazepine acetate	atcSuffix	AF04
+Milbemycin oxime	atcSuffix	AB01
+loratadine	atcSuffix	BA52
+Chymopapain	atcSuffix	AB01
+Aclidinium bromide	atcSuffix	BB05
+Canagliflozin	atcSuffix	BX11
+Estradiol cypionate	atcSuffix	CA03
+Normethandrone	atcSuffix	DC31
+Lenvatinib	atcSuffix	XE29
+Regorafenib	atcSuffix	XE21
+Tiotropium bromide	atcSuffix	BB04
+Testosterone undecanoate	atcSuffix	BA03
+Ceftaroline fosamil	atcSuffix	DI02
+Fidaxomicin	atcSuffix	AA12
+Tiamulin	atcSuffix	XQ01
+Brentuximab vedotin	atcSuffix	XC12
+Mifamurtide	atcSuffix	AX15
+Histamine dihydrochloride	atcSuffix	AX14
+Ulipristal acetate	atcSuffix	AD02
+Fabomotizole	atcSuffix	BX04
+Pyriprole	atcSuffix	AX26
+Briakinumab	atcSuffix	AC09
+Liotrix	atcSuffix	AA03
+Acefylline	atcSuffix	DA09
+Imipraminoxide	atcSuffix	AA03
+magnesium carbonate	atcSuffix	AE04
+Lucinactant	atcSuffix	AA30
+Vortioxetine	atcSuffix	AX26
+Collagenase clostridium histolyticum	atcSuffix	AB02
+Velaglucerase alfa	atcSuffix	AB10
+dipyridamole	atcSuffix	AC30
+Denaverine	atcSuffix	CX90
+Nomegestrol	atcSuffix	DB04
+Quingestanol	atcSuffix	AC04
+Proligestone	atcSuffix	DA90
+Delmadinone	atcSuffix	DX91
+Altrenogest	atcSuffix	DX90
+Demegestone	atcSuffix	DB05
+Allylestrenol	atcSuffix	DC01
+Noretynodrel	atcSuffix	FA09
+Promestriene	atcSuffix	CA09
+Trimegestone	atcSuffix	FA16
+Aglepristone	atcSuffix	XB90
+Moxestrol	atcSuffix	CB04
+Epimestrol	atcSuffix	GB03
+Methallenestril	atcSuffix	CB03
+Nomegestrol acetate	atcSuffix	DB04
+Etozolin	atcSuffix	CX01
+Tiamenidine	atcSuffix	AC
+Ifetroban	atcSuffix	None
+Nitroscanate	atcSuffix	AX01
+Aluminium acetotartrate	atcSuffix	AA04
+Crizotinib	atcSuffix	XE16
+Cabazitaxel	atcSuffix	CD04
+Oxymorphol	atcSuffix	A
+Metaflumizone	atcSuffix	AX25
+Sulfiram	atcSuffix	QA02
+Sipuleucel-T	atcSuffix	AX17
+Tafamidis	atcSuffix	XX08
+Carfilzomib	atcSuffix	XX45
+Vemurafenib	atcSuffix	XE15
+Linaclotide	atcSuffix	AX04
+Lixisenatide	atcSuffix	BX10
+Meclizine	atcSuffix	AE05
+Cobicistat	atcSuffix	AX03
+Insulin degludec	atcSuffix	AE06
+Cariprazine	atcSuffix	AX15
+Dapoxetine	atcSuffix	BX14
+Trastuzumab emtansine	atcSuffix	XC14
+ibuprofen	atcSuffix	AE51
+proguanil	atcSuffix	BB51
+polymyxin	atcSuffix	AA30
+amlodipine	atcSuffix	XA53
+hydrochlorothiazide	atcSuffix	DA07
+hydrochlorothiazide	atcSuffix	DA03
+Taliglucerase alfa	atcSuffix	AB11
+Alcaftadine	atcSuffix	GX11
+Tofacitinib	atcSuffix	AA29
+Iofetamine	atcSuffix	AB01
+Ruxolitinib	atcSuffix	XE18
+Budesonide	atcSuffix	EA06
+Temozolomide	atcSuffix	AX03
+Rivastigmine	atcSuffix	DA03
+Pentylenetetrazol	atcSuffix	AB03
+ritonavir	atcSuffix	AR10
+Ivacaftor	atcSuffix	AX02
+Oxfendazole	atcSuffix	AC02
+disulfiram	atcSuffix	AA54
+Metomidate	atcSuffix	CM94
+hydrochlorothiazide	atcSuffix	XA54
+Methylhomatropine	atcSuffix	BX03
+fluanisone	atcSuffix	AB73
+metformin	atcSuffix	BD07
+hydrochlorothiazide	atcSuffix	DA01
+Dolutegravir	atcSuffix	AX12
+Nintedanib	atcSuffix	XE31
+Urea-containing cream	atcSuffix	AE01
+Pasireotide	atcSuffix	CB05
+Cabozantinib	atcSuffix	XE26
+Ponatinib	atcSuffix	XE24
+Vismodegib	atcSuffix	XX43
+formoterol	atcSuffix	AK09
+Alseroxylon	atcSuffix	AA03
+Interferon alfacon-1	atcSuffix	AB09
+Vapreotide	atcSuffix	CB04
+pyrimethamine	atcSuffix	BD51
+Idrocilamide	atcSuffix	AX05
+Zucapsaicin	atcSuffix	AB02
+Gadofosveset	atcSuffix	CA11
+Pirenoxine	atcSuffix	XA91
+Oxitropium bromide	atcSuffix	BB02
+Brodalumab	atcSuffix	AC12
+Secukinumab	atcSuffix	AC10
+Olodaterol	atcSuffix	AC19
+Mitratapide	atcSuffix	AB90
+Tenofovir alafenamide	atcSuffix	AR17
+Sofosbuvir	atcSuffix	AX15
+Apixaban	atcSuffix	AF02
+Tetanus vaccine	atcSuffix	AM01
+Peginesatide	atcSuffix	XA04
+Technetium	atcSuffix	DA04
+Floctafenine	atcSuffix	BG04
+Epicriptine	atcSuffix	BC03
+sacubitril	atcSuffix	DX04
+Brexpiprazole	atcSuffix	AX16
+timolol	atcSuffix	ED51
+Carnidazole	atcSuffix	AA09
+Ipronidazole	atcSuffix	AA10
+Nivolumab	atcSuffix	XC17
+Phenamidine	atcSuffix	AF03
+Maduramicin	atcSuffix	AX10
+Mavacoxib	atcSuffix	AH92
+Gemigliptin	atcSuffix	BH06
+Ingenol mebutate	atcSuffix	BX02
+Vintafolide	atcSuffix	CA06
+Naloxegol	atcSuffix	AH03
+Levomethadone	atcSuffix	BC05
+Estradiol undecylate	atcSuffix	CA03
+Cyproterone acetate	atcSuffix	HA01
+Quingestanol acetate	atcSuffix	AC04
+Delmadinone acetate	atcSuffix	DX91
+Chloroprednisone	atcSuffix	CA09
+Masitinib	atcSuffix	XE22
+Guacetisal	atcSuffix	BA14
+Dipyrocetyl	atcSuffix	BA09
+Bucetin	atcSuffix	BE04
+Rimazolium	atcSuffix	BG02
+Glafenine	atcSuffix	BG03
+Macitentan	atcSuffix	KX04
+Epsiprantel	atcSuffix	AA04
+Clazuril	atcSuffix	AJ02
+tenofovir	atcSuffix	AR09
+tipiracil	atcSuffix	BC59
+Apremilast	atcSuffix	AA32
+Diodone	atcSuffix	AA10
+Empagliflozin	atcSuffix	BX12
+Mirabegron	atcSuffix	BD12
+Drisapersen	atcSuffix	AX04
+Anthrax Vaccine Adsorbed	atcSuffix	AC01
+Simeprevir	atcSuffix	AE14
+Serelaxin	atcSuffix	DX21
+Levamlodipine	atcSuffix	CA01
+Alipogene tiparvovec	atcSuffix	AX10
+Trametinib	atcSuffix	XE25
+Teduglutide	atcSuffix	AX08
+Dabrafenib	atcSuffix	XE23
+Tesamorelin	atcSuffix	AC06
+TAS-108	atcSuffix	BA
+Ospemifene	atcSuffix	XC05
+Ledipasvir	atcSuffix	AX65
+Faldaprevir	atcSuffix	AE13
+Forasartan	atcSuffix	CA
+Delamanid	atcSuffix	AK06
+atorvastatin	atcSuffix	BA05
+Vilanterol	atcSuffix	AK10
+vilanterol	atcSuffix	AK10
+Palbociclib	atcSuffix	XE33
+Ipidacrine	atcSuffix	DA05
+Quifenadine	atcSuffix	AX31
+Evolocumab	atcSuffix	AX13
+Lithium	atcSuffix	AN01
+Ethacizine	atcSuffix	BC09
+conjugated estrogens	atcSuffix	CC07
+oteracil	atcSuffix	BC53
+VIR-576	atcSuffix	AX
+Idelalisib	atcSuffix	XX47
+Sodium nitroprusside	atcSuffix	DD01
+Technetium	atcSuffix	IA08
+Enramycin	atcSuffix	AA94
+naloxone	atcSuffix	BC51
+Eliglustat	atcSuffix	AX10
+Pentavalent vaccine	atcSuffix	CA11
+Imvanex	atcSuffix	BX
+Ceftolozane	atcSuffix	DI54
+glycopyrronium bromide	atcSuffix	AL04
+Filgotinib	atcSuffix	XE18
+sofosbuvir	atcSuffix	AX65
+ritonavir	atcSuffix	AX67
+Idarucizumab	atcSuffix	AB37
+avibactam	atcSuffix	DD52
+Hydroxyprogesterone heptanoate	atcSuffix	DA03
+Ixazomib	atcSuffix	XX50
+Norepinephrine	atcSuffix	CA03
+Elagolix	atcSuffix	CC02
+Relugolix	atcSuffix	CC02
+Sufugolix	atcSuffix	CC02
+Octopamine	atcSuffix	CA18
+Isoxicam	atcSuffix	AC03
+grazoprevir	atcSuffix	AX68
+17α-Dihydroequilin	atcSuffix	CA57
+Quingestrone	atcSuffix	A
+ACE inhibitor and thiazide combination	atcSuffix	BA06
+ACE inhibitor and thiazide combination	atcSuffix	BA03
+ACE inhibitor and thiazide combination	atcSuffix	BA09
+Dopamine	atcSuffix	CA04

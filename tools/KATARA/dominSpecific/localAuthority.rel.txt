@@ -1,0 +1,351 @@
+Iona	localAuthority	Argyll and Bute
+Hoy	localAuthority	Orkney
+Rousay	localAuthority	Orkney
+Orkney	localAuthority	Orkney Islands Council
+Soay, Skye	localAuthority	Highland
+Shetland	localAuthority	Shetland Islands Council
+Outer Hebrides	localAuthority	Comhairle nan Eilean Siar
+Gruinard Island	localAuthority	Highland Council
+Great Cumbrae	localAuthority	North Ayrshire
+Little Cumbrae	localAuthority	North Ayrshire
+North Uist	localAuthority	Na h-Eileanan Siar
+South Uist	localAuthority	Na h-Eileanan Siar
+Benbecula	localAuthority	Na h-Eileanan Siar
+Barra	localAuthority	Na h-Eileanan Siar
+Bass Rock	localAuthority	East Lothian
+St Kilda, Scotland	localAuthority	Comhairle nan Eilean Siar
+Staffa	localAuthority	Argyll and Bute
+Raasay	localAuthority	Highland
+Holy Isle, Firth of Clyde	localAuthority	North Ayrshire
+Lismore, Scotland	localAuthority	Argyll and Bute
+Eriskay	localAuthority	Outer Hebrides
+Foula	localAuthority	Shetland
+Mull	localAuthority	Argyll and Bute
+Rùm	localAuthority	Highland
+Taransay	localAuthority	Na h-Eileanan Siar
+Brough of Birsay	localAuthority	Orkney
+Gigha	localAuthority	Argyll and Bute
+Muck, Scotland	localAuthority	Highland
+Canna, Scotland	localAuthority	Highland
+North Rona	localAuthority	Comhairle nan Eilean Siar
+Oronsay, Inner Hebrides	localAuthority	Argyll and Bute
+Mainland, Shetland	localAuthority	Shetland
+Kerrera	localAuthority	Argyll and Bute
+Mainland, Orkney	localAuthority	Orkney Islands Council
+South Rona	localAuthority	Highland
+Eigg	localAuthority	Highland
+Sanday, Inner Hebrides	localAuthority	Highland
+Scalpay, Inner Hebrides	localAuthority	Highland
+Sanday, Orkney	localAuthority	Orkney
+Tiree	localAuthority	Argyll and Bute
+Coll	localAuthority	Argyll and Bute
+Yell, Shetland	localAuthority	Shetland
+Fetlar	localAuthority	Shetland
+Unst	localAuthority	Shetland
+Ulva	localAuthority	Argyll and Bute
+Papa Stour	localAuthority	Shetland
+Bressay	localAuthority	Shetland
+Mousa	localAuthority	Shetland
+Whalsay	localAuthority	Shetland
+Stronsay	localAuthority	Orkney
+Eday	localAuthority	Orkney
+Flotta	localAuthority	Orkney
+Westray	localAuthority	Orkney
+West Burra	localAuthority	Shetland
+Noss	localAuthority	Shetland
+East Burra	localAuthority	Shetland
+South Ronaldsay	localAuthority	Orkney
+Burray	localAuthority	Orkney
+Egilsay	localAuthority	Orkney
+Shapinsay	localAuthority	Orkney
+Wyre, Orkney	localAuthority	Orkney Islands
+Papa Westray	localAuthority	Orkney
+North Ronaldsay	localAuthority	Orkney
+Isle of Bute	localAuthority	Argyll and Bute
+Lamb Holm	localAuthority	Orkney
+Eynhallow	localAuthority	Orkney
+Vatersay	localAuthority	Comhairle nan Eilean Siar
+Grimsay	localAuthority	Outer Hebrides
+Scalpay, Outer Hebrides	localAuthority	Comhairle nan Eilean Siar
+Great Bernera	localAuthority	Outer Hebrides
+Baleshare	localAuthority	Na h-Eileanan Siar
+Berneray	localAuthority	Outer Hebrides
+Vallay	localAuthority	Comhairle nan Eilean Siar
+Muckle Roe	localAuthority	Shetland
+Sanda Island	localAuthority	Argyll and Bute
+Faray	localAuthority	Orkney
+Auskerry	localAuthority	Orkney
+Calf of Eday	localAuthority	Orkney
+Switha	localAuthority	Orkney
+Copinsay	localAuthority	Orkney
+Graemsay	localAuthority	Orkney
+Swona	localAuthority	Orkney
+Stroma, Scotland	localAuthority	Highland
+Scarp, Scotland	localAuthority	Western Isles
+Davaar Island	localAuthority	Argyll and Bute
+Seil	localAuthority	Argyll and Bute
+Easdale	localAuthority	Argyll and Bute
+Luing	localAuthority	Argyll and Bute
+Scarba	localAuthority	Argyll and Bute
+Belnahua	localAuthority	Argyll and Bute
+Treshnish Isles	localAuthority	Argyll and Bute
+Ailsa Craig	localAuthority	South Ayrshire
+Mingulay	localAuthority	Na h-Eileanan Siar
+Sandray	localAuthority	Na h-Eileanan Siar
+Pabbay, Barra Isles	localAuthority	Outer Hebrides
+Barra Head	localAuthority	Outer Hebrides
+Flannan Isles	localAuthority	Na h-Eileanan Siar
+Balta, Shetland	localAuthority	Shetland
+Hascosay	localAuthority	Shetland
+Hildasay	localAuthority	Shetland
+Inchcolm	localAuthority	Fife
+Vementry	localAuthority	Shetland
+Vaila	localAuthority	Shetland
+Uyea, Unst	localAuthority	Shetland
+Trondra	localAuthority	Shetland
+Papa Little	localAuthority	Shetland
+South Havra	localAuthority	Shetland
+Gometra	localAuthority	Argyll and Bute
+Oxna	localAuthority	Shetland
+Eilean Donan	localAuthority	Highland
+Out Stack	localAuthority	Shetland
+Papa Stronsay	localAuthority	Orkney
+Bound Skerry	localAuthority	Shetland
+Erraid	localAuthority	Argyll and Bute
+Torsa	localAuthority	Argyll and Bute
+Isle of May	localAuthority	Fife
+Huney	localAuthority	Shetland
+Soay, St Kilda	localAuthority	Outer Hebrides
+Housay	localAuthority	Shetland
+Eilean Chathastail	localAuthority	Highland
+St Ninian's Isle	localAuthority	Shetland Islands
+Cara Island	localAuthority	Argyll and Bute
+Ronay	localAuthority	Na h-Eileanan Siar
+Inchmarnock	localAuthority	Argyll and Bute
+Boreray	localAuthority	Outer Hebrides
+Inchkeith	localAuthority	Fife
+Fidra	localAuthority	East Lothian
+Inchgarvie	localAuthority	Edinburgh
+Lady Isle	localAuthority	South Ayrshire
+Brother Isle	localAuthority	Shetland
+Priest Island	localAuthority	Highland
+Sule Stack	localAuthority	Orkney
+Sule Skerry	localAuthority	Orkney
+Fladda	localAuthority	Argyll and Bute
+Skerryvore	localAuthority	Argyll and Bute
+Dubh Artach	localAuthority	Argyll and Bute
+Sgeotasaigh	localAuthority	Na h-Eileanan Siar
+Tahay	localAuthority	Na h-Eileanan Siar
+Inch Kenneth	localAuthority	Argyll and Bute
+Castle Tioram	localAuthority	Highland
+Little Colonsay	localAuthority	Argyll and Bute
+Inchmurrin	localAuthority	West Dunbartonshire
+Isay	localAuthority	Highland
+Wiay, Skye	localAuthority	Highland
+Eorsa	localAuthority	Argyll and Bute
+Garbh Eileach	localAuthority	Argyll and Bute
+Pabbay, Harris	localAuthority	Na h-Eileanan Siar
+Eileach an Naoimh	localAuthority	Argyll and Bute
+Eilean Rìgh	localAuthority	Argyll and Bute
+Eilean Bàn, Lochalsh	localAuthority	Highland
+Sula Sgeir	localAuthority	Comhairle nan Eilean Siar
+Mugdrum Island	localAuthority	Fife
+Orsay, Inner Hebrides	localAuthority	Argyll and Bute
+Eilean Dubh Mòr	localAuthority	Argyll and Bute
+Shillay	localAuthority	Na h-Eileanan Siar
+Bruray	localAuthority	Shetland
+Linga, Yell	localAuthority	Shetland Islands
+Eilean Mhic Coinnich	localAuthority	Argyll and Bute
+Seaforth Island	localAuthority	Outer Hebrides
+Isle of Ewe	localAuthority	Highland
+Gairsay	localAuthority	Orkney
+Inchconnachan	localAuthority	Argyll and Bute
+Holm of Papa	localAuthority	Orkney
+Lunga, Treshnish Isles	localAuthority	Argyll and Bute
+Samphrey	localAuthority	Shetland
+Ensay	localAuthority	Na h-Eileanan Siar
+St Serf's Inch	localAuthority	Perth and Kinross
+Muldoanich	localAuthority	Comhairle nan Eilean Siar
+Lunga	localAuthority	Argyll and Bute
+Stac Lee	localAuthority	Outer Hebrides
+Bac Mòr	localAuthority	Argyll and Bute
+Grimsay	localAuthority	Na h-Eileanan Siar
+Bac Beag	localAuthority	Argyll and Bute
+Stac an Armin	localAuthority	Outer Hebrides
+Cairn na Burgh Mòr	localAuthority	Argyll and Bute
+Fladda, Treshnish Isles	localAuthority	Argyll and Bute
+Tanera Mòr	localAuthority	Highland
+Gighay	localAuthority	Na h-Eileanan Siar
+Lamba, Shetland	localAuthority	Shetland
+Texa	localAuthority	Argyll and Bute
+Eilean nan Ròn	localAuthority	Highland Council
+Stac Biorach	localAuthority	Outer Hebrides
+Pabay	localAuthority	Highland Council
+Longay	localAuthority	Highland Council
+Killegray	localAuthority	Comhairle nan Eilean Siar
+Fuday	localAuthority	Na h-Eileanan Siar
+Eilean Mhealasta	localAuthority	Na h-Eileanan Siar
+Eilean Chaluim Chille	localAuthority	Na h-Eileanan Siar
+Eilean Chearstaidh	localAuthority	Outer Hebrides
+Lingeigh	localAuthority	Na h-Eileanan Siar
+Wiay, Uist	localAuthority	Na h-Eileanan Siar
+Eilean Mhuire	localAuthority	Comhairle nan Eilean Siar
+Tanera Beag	localAuthority	Highland
+Inchcailloch	localAuthority	Stirling
+Eilean Shona	localAuthority	Highland
+Flodaigh	localAuthority	Na h-Eileanan Siar
+Calve Island	localAuthority	Argyll and Bute
+Glims Holm	localAuthority	Orkney
+South Walls	localAuthority	Orkney
+Ornsay	localAuthority	Highland
+Oronsay, Outer Hebrides	localAuthority	Na h-Eileanan Siar
+Horse Island, Summer Isles	localAuthority	Highland
+Isle Martin	localAuthority	Highland
+Isle Ristol	localAuthority	Highland
+Oronsay, Loch Sunart	localAuthority	Highland
+Càrna	localAuthority	Highland
+Oronsay, Loch Bracadale	localAuthority	Highland
+Kirkibost	localAuthority	Outer Hebrides
+Eriska	localAuthority	Argyll and Bute
+Garbh Eilean	localAuthority	Comhairle nan Eilean Siar
+Longa Island	localAuthority	Highland Council
+Danna, Scotland	localAuthority	Argyll and Bute
+Little Bernera	localAuthority	Outer Hebrides
+Shuna, Loch Linnhe	localAuthority	Argyll and Bute
+Shuna	localAuthority	Argyll and Bute
+Dùn Channuill	localAuthority	Argyll and Bute
+Rysa Little	localAuthority	Orkney
+Cava, Orkney	localAuthority	Orkney
+Muckle Green Holm	localAuthority	Orkney
+Hunda	localAuthority	Orkney
+Damsay	localAuthority	Orkney
+Inchfad	localAuthority	Stirling
+Bigga, Shetland	localAuthority	Shetland
+Soay Mòr	localAuthority	Na h-Eileanan Siar
+Linga, Muckle Roe	localAuthority	Shetland
+Uyea, Northmavine	localAuthority	Shetland
+West Linga	localAuthority	Shetland
+Helliar Holm	localAuthority	Orkney
+Cairn na Burgh Beag	localAuthority	Argyll and Bute
+Arnamul	localAuthority	Na h-Eileanan Siar
+Ceann Ear	localAuthority	Comhairle nan Eilean Siar
+Ceann Iar	localAuthority	Comhairle nan Eilean Siar
+Shillay, Monach Islands	localAuthority	Comhairle nan Eilean Siar
+Kili Holm	localAuthority	Orkney
+Calf of Flotta	localAuthority	Orkney
+Sweyn Holm	localAuthority	Orkney
+Holm of Huip	localAuthority	Orkney
+Holm of Faray	localAuthority	Orkney
+Rusk Holm	localAuthority	Orkney
+Island Macaskin	localAuthority	Argyll and Bute
+Gunna	localAuthority	Argyll and Bute
+Calbha Beag	localAuthority	Highland
+Hermetray	localAuthority	Na h-Eileanan Siar
+Inchlonaig	localAuthority	Argyll and Bute
+Inchtavannach	localAuthority	Argyll and Bute
+Moncreiffe Island	localAuthority	Perth and Kinross
+Innis Chonain	localAuthority	Argyll and Bute
+Stockinish Island	localAuthority	Na h-Eileanan Siar
+Fuaigh Mòr	localAuthority	Comhairle nan Eilean Siar
+Vacsay	localAuthority	Outer Hebrides
+Pabaigh Mòr	localAuthority	Na h-Eileanan Siar
+Fiaraidh	localAuthority	Outer Hebrides
+Holm of Scockness	localAuthority	Orkney
+Holm of Houton	localAuthority	Orkney
+Stuley	localAuthority	Na h-Eileanan Siar
+Eilean Liubhaird	localAuthority	Na h-Eileanan Siar
+Thieves Holm	localAuthority	Orkney
+Oldany Island	localAuthority	Highland Council
+Hellisay	localAuthority	Na h-Eileanan Siar
+Fladda-chùain	localAuthority	Highland
+Barrel of Butter	localAuthority	Orkney
+Linga, Samphrey	localAuthority	Shetland
+East Linga	localAuthority	Shetland Islands
+Stocaigh	localAuthority	Comhairle nan Eilean Siar
+Eilean Aigas	localAuthority	Highland
+Eilean Mòr, Crowlin Islands	localAuthority	Highland
+Flodday	localAuthority	Na h-Eileanan Siar
+Nave Island	localAuthority	Argyll and Bute
+Eileanan Iasgaich	localAuthority	Na h-Eileanan Siar
+Eilean Sùbhainn	localAuthority	Highland
+Garbh Eilean, Loch Maree	localAuthority	Highland
+Eilean Ruairidh Mòr	localAuthority	Highland
+Fuiay	localAuthority	Comhairle nan Eilean Siar
+Flodaigh Mòr	localAuthority	Na h-Eileanan Siar
+Haskeir	localAuthority	Na h-Eileanan Siar
+Midgarth	localAuthority	Orkney
+Lingay, Fiaray	localAuthority	Outer Hebrides
+Maiden Island	localAuthority	Argyll and Bute
+Lady's Holm	localAuthority	Shetland Islands
+Little Holm, Scatness	localAuthority	Shetland Islands
+Forewick Holm	localAuthority	Shetland
+Bucinch	localAuthority	Stirling
+Clairinsh	localAuthority	Stirling
+Bernera, Lismore	localAuthority	Argyll and Bute
+Ceallasaigh Mòr	localAuthority	Na h-Eileanan Siar
+Flodday near Vatersay	localAuthority	Na h-Eileanan Siar
+Stac Levenish	localAuthority	Outer Hebrides
+Isle of Arran	localAuthority	North Ayrshire
+Jura, Scotland	localAuthority	Argyll and Bute
+Lewis and Harris	localAuthority	Na h-Eileanan Siar
+Colonsay	localAuthority	Argyll and Bute
+Islay	localAuthority	Argyll and Bute
+Skye	localAuthority	Highland
+Boreray, St Kilda	localAuthority	Na h-Eileanan Siar
+Stromay	localAuthority	Na h-Eileanan Siar
+Ceabhaigh	localAuthority	Western Isles
+Orosay	localAuthority	Western Isles
+Flodaigh, Lewis	localAuthority	Western Isles
+Fraoch-Eilean	localAuthority	Na h-Eileanan Siar
+Eilean Ceann na Creige	localAuthority	Argyll and Bute
+Ness of Burgi	localAuthority	Shetland
+Insh, Slate Islands	localAuthority	Argyll and Bute
+Eilean Mhic Chrion	localAuthority	Argyll and Bute
+Eilean Mòr, Loch Langavat	localAuthority	Na h-Eileanan Siar
+Eilean an Ròin Mòr	localAuthority	Highland
+Eilean Horrisdale	localAuthority	Highland
+Eilean Ighe	localAuthority	Highland
+Neave Island	localAuthority	Highland
+Eilean Hoan	localAuthority	Highland
+Eilean Choraidh	localAuthority	Highland
+Innis Mhòr	localAuthority	Highland
+Eilean Trodday	localAuthority	Highland
+South Ascrib	localAuthority	Highland
+Eilean Ornsay	localAuthority	Argyll and Bute
+Harlosh Island	localAuthority	Highland
+Tarner Island	localAuthority	Highland
+Eilean Tigh	localAuthority	Highland
+Torran Rocks	localAuthority	Argyll and Bute
+Eilean Mòr, Loch Dunvegan	localAuthority	Highland
+Preston Island	localAuthority	Fife
+Rainish Eilean Mòr	localAuthority	Outer Hebrides
+Dunglass Island	localAuthority	Highland
+Fraoch Eilean, Loch Awe	localAuthority	Argyll and Bute
+The Scares	localAuthority	Dumfries and Galloway
+Campaigh	localAuthority	Comhairle nan Eilean Siar
+Cealasaigh	localAuthority	Comhairle nan Eilean Siar
+Bearasaigh	localAuthority	Comhairle nan Eilean Siar
+Seanna Chnoc	localAuthority	Comhairle nan Eilean Siar
+Flodaigh	localAuthority	Comhairle nan Eilean Siar
+Law Ting Holm	localAuthority	Shetland Islands Council
+Tullibody Inch	localAuthority	Clackmannanshire
+Staffin Island	localAuthority	Highland council area
+Papa, Shetland	localAuthority	Shetland
+Eileanan Chearabhaigh	localAuthority	Comhairle nan Eilean Siar
+Calbha Mor	localAuthority	Highland
+Ceallasaigh Beag	localAuthority	Na h-Eileanan Siar
+Eilean Meadhonach	localAuthority	Highland
+Contin Island	localAuthority	Highland
+Inner Holm of Skaw	localAuthority	Shetland
+Outer Holm of Skaw	localAuthority	Shetland
+Holm of Skaw	localAuthority	Shetland
+Skate of Marrister	localAuthority	Shetland
+Eilean na Cille	localAuthority	Na h-Eileanan Siar
+Eilean Loain	localAuthority	Argyll and Bute
+Eilean dà Mhèinn	localAuthority	Argyll and Bute
+Eilean Mòr, Loch Sunart	localAuthority	Highland
+Lingeigh, North Uist	localAuthority	Na h-Eileanan Siar
+Eilean Dubh, Summer Isles	localAuthority	Highland
+Eilean Mòr, MacCormaig Isles	localAuthority	Argyll and Bute
+Nevi Skerry	localAuthority	Orkney
+Flodday, Loch Maddy	localAuthority	Na h-Eileanan Siar

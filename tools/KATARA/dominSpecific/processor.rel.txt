@@ -1,0 +1,215 @@
+Acorn Electron	processor	MOS Technology 6502A clocked at 2MHz when accessing ROM and 1 MHz/0.5897 MHz when accessing RAM
+Amstrad CPC	processor	Zilog Z80A @ 4 MHz
+Amiga 1000	processor	Motorola 68000
+Amiga 1000	processor	@ 7.16 MHz
+Amiga 1000	processor	7.09
+Amiga 500	processor	Motorola 68000
+Amiga 500	processor	7.16
+Amiga 500	processor	7.09
+Amiga 500 Plus	processor	Motorola 68000
+Amiga 500 Plus	processor	7.16
+Amiga 500 Plus	processor	7.09
+Jupiter Ace	processor	Zilog Z80
+Jupiter Ace	processor	3.25
+ZX80	processor	Z80 @ 3.25 MHz
+Commodore 128	processor	MOS Technology 8502
+Commodore 128	processor	@ 2 MHz
+Commodore 128	processor	Zilog Z80
+Commodore 128	processor	A @ 4 MHz
+Amiga 3000	processor	Motorola 68030
+Amiga 3000	processor	@ 16 or 25 MHz
+Amiga 2000	processor	Motorola 68000
+Amiga 2000	processor	@ 7.16 MHz
+Amiga 2000	processor	7.09
+IBook	processor	PowerPC G3, 300–466 MHz
+IBook	processor	PowerPC G3, 500–900 MHz
+IBook	processor	PowerPC G4, 800 MHz – 1.42 GHz
+MSX	processor	Zilog Z80
+MSX	processor	R800
+Amstrad PCW	processor	Zilog Z80; 4 MHz initially, speed increased in later models
+Electronika BK	processor	K1801VM1 @3MHz , @4.6MHz , @4MHz
+Phoebe	processor	Intel StrongARM SA110
+Power Macintosh G3 beige	processor	PowerPC G3
+Power Macintosh G3 beige	processor	233
+SAM Coupé	processor	Zilog Z80B @ 6 MHz
+Power Mac G5	processor	1.6
+Power Mac G5	processor	Single-processor
+Power Mac G5	processor	Dual-processors, single-core
+Power Mac G5	processor	Dual-core
+Power Mac G5	processor	Dual-processors, dual-core
+Mattel Aquarius	processor	Zilog Z80A @ 3.5 MHz
+Xserve	processor	Single or dual PowerPC G4,
+Xserve	processor	1
+Xserve	processor	Single or dual PowerPC G5,
+Xserve	processor	2
+Xserve	processor	Single or Dual Intel Xeon Dual or Quad Core CPUs, 2.0 GHz – 3.33 GHz
+Commodore 16	processor	MOS Technology 7501 or 8501
+Commodore 16	processor	@ 0.89 MHz or 1.76 MHz
+4	processor	MOS Technology 8501
+4	processor	@
+4	processor	1.76
+Commodore MAX Machine	processor	MOS Technology 6510
+Commodore MAX Machine	processor	@ 1.02 MHz
+EMac	processor	PowerPC G4, 700 MHz – 1.42 GHz
+Tandy 2000	processor	Intel 80186
+Timex Sinclair 1000	processor	Zilog Z80A @ 3.25 MHz
+Timex Sinclair 2068	processor	Zilog Z80A @ 3.5 MHz
+Loki	processor	Z80 @ 7 MHz and equivalent
+PC1512	processor	Intel 8086 @ 8 MHz
+PowerBook G4	processor	PowerPC G4, 400 MHz–1.67 GHz
+PowerBook G4	processor	PowerPC G4, 400 MHz–1 GHz
+PowerBook G4	processor	PowerPC G4, 867 MHz – 1.67 GHz
+Commodore 65	processor	CSG 4510 R3 @ 3.54 MHz
+Commodore SX-64	processor	MOS Technology 6510  @
+Commodore SX-64	processor	1.02
+Commodore SX-64	processor	@
+Commodore SX-64	processor	0.985
+Amiga 3000T	processor	Motorola 68030 @ 25 MHz or 68040 @ 25MHz
+Power Mac G4	processor	single or dual PowerPC G4,
+Power Mac G4	processor	350
+IBM Aptiva	processor	Intel 80486
+Commodore CBM-II	processor	MOS Technology 6509
+Commodore CBM-II	processor	@ 1 or 2 MHz
+Commodore CBM-II	processor	,
+Commodore CBM-II	processor	Intel 8088
+Commodore CBM-II	processor	or
+Commodore CBM-II	processor	Zilog Z80
+Commodore CBM-II	processor	A @ 4 MHz
+Commodore CBM-II	processor	option
+Hobbit	processor	clone of Zilog Z80 @ 3.5 MHz
+IMac G5	processor	PowerPC G5, 1.6–2.1 GHz
+EO Personal Communicator	processor	AT&T Hobbit
+Telmac 1800	processor	RCA 1802 (COSMAC) microprocessor CPU
+IMac G3	processor	PowerPC 750 (G3), 233 – 333 MHz
+IMac G3	processor	PowerPC G3, 350–700MHz
+Commodore 900	processor	Zilog Z8000
+TK90X	processor	Zilog Z80B @ 3.5 MHz
+Power Macintosh 6100	processor	PowerPC 601, 60 MHz – 66 MHz
+PC-9800 series	processor	8086
+SV-318	processor	Zilog Z80A @ 3.6 MHz
+SV-328	processor	Zilog Z80A @ 3.6 MHz
+Dubna 48K	processor	analogue of Zilog Z80 @ 1.875 MHz
+HP 9800 series	processor	Processor based on HP 2100 with stack
+Outbound laptop	processor	Motorola 68000, 15 MHz
+Replica 1	processor	6502
+TK95	processor	Zilog Z80B @ 3.5 MHz
+Apple Network Server	processor	PowerPC 604/PowerPC 604e, 132 - 200 MHz
+MacBook	processor	Intel Core 2
+MacBook	processor	Intel Core
+PowerBook 3400c	processor	PowerPC 603e, 180–240 MHz
+HP-75	processor	8
+Power Macintosh G3	processor	PowerPC G3
+Power Macintosh G3	processor	300
+IBM 3270 PC	processor	Intel 8088 @ 4.77 MHz
+Power Macintosh 6200	processor	PowerPC 603, 75 MHz
+Power Macintosh 6200	processor	PowerPC 603e, 100 and 120 MHz
+Power Macintosh 6200	processor	PowerPC 603e, 160 MHz
+PowerBook 1400	processor	PowerPC 603e
+Mac Pro	processor	Intel E5 Xeon
+Amiga 4000T	processor	Motorola 68040 @ 25 MHz or 68060 @ 50 MHz
+Timex Computer 2048	processor	Zilog Z80A @ 3.5 MHz
+PowerBook 180	processor	Motorola 68030 33 MHz
+Research Machines 380Z	processor	Z80 at 4 MHz
+SVI-728	processor	Zilog Z80A @ 3.6 MHz
+Comx-35	processor	RCA 1802
+Comx-35	processor	2.813
+Comx-35	processor	or
+Comx-35	processor	2.835
+1chipMSX	processor	Zilog Z80 implemented in VHDL on an FPGA
+Axiotron Modbook	processor	Intel Core 2 Duo, 2.1GHz
+PowerBook Duo 230	processor	Motorola 68030, 33 MHz
+PowerBook Duo 210	processor	Motorola 68030, 25 MHz
+HP 620LX	processor	75
+IMac	processor	Intel Core i5
+IMac	processor	Intel Core i7
+IMac	processor	Intel Core Duo
+RM Nimbus	processor	80186
+HTC Shift	processor	Intel A110 Stealey CPU 800 MHz
+Vector-06C	processor	KR580VM80A @3 MHz
+SVI-738	processor	Zilog Z80A @ 3.58 MHz
+PowerBook 150	processor	Motorola 68030, 33 MHz
+Philips :YES	processor	Intel 80186 @ 8 MHz
+AirPort Time Capsule	processor	Dual-Core Cortex-A9
+LINK 480Z	processor	Z80 at 4 MHz
+MSI Wind Netbook	processor	Intel Atom @ 1.60 / 1.66 GHz
+Komputer 2086	processor	Zilog Z80A @ 3.58 MHz
+Mera-Elzab Meritum	processor	U880DA @ 2.50 MHz
+HP 660LX	processor	75
+HP 300LX	processor	44
+Lenovo 3000	processor	Intel
+Lenovo 3000	processor	AMD
+Acer Aspire One	processor	Intel Atom
+Acer Aspire One	processor	AMD APU
+Sord M23P	processor	Zilog Z80A @ 4.00 MHz
+SVI-838	processor	Intel 8088 @ 4.77 MHz
+Canon V-20	processor	NEC 780C @ 3.25 MHz
+Hotbit	processor	Zilog Z80A @ 3.58 MHz
+Gradiente Expert	processor	Zilog Z80A/MSX Engine T7937A @ 3.58 MHz
+Everun Note	processor	1200
+Everun Note	processor	Amd Sempron 3600
+Amiga 1200	processor	Motorola 68EC020
+Amiga 1200	processor	@ 14 MHz
+Philips Nino	processor	75
+Voodoo Envy	processor	Intel Core 2 Duo 1.6 / 1.8 GHz
+HP Mini 1000	processor	1.6
+Samsung NC10	processor	1.6
+MSI Wind PC	processor	1.6
+Axiotron Modbook Pro	processor	Intel Core 2 Duo, 2.53GHz
+Dell Inspiron Mini Series	processor	Diamondville Intel Atom N270
+Acer AspireRevo	processor	1.6
+Grid GridCase 1535EXP	processor	Intel 80386
+Sony Vaio FW series	processor	Intel Core 2 Duo
+Sony Vaio W series	processor	Pentium 4
+Lenovo IdeaPad S12	processor	1.6
+Apricot Picobook Pro	processor	VIA C7
+HP 110	processor	Harris 80C86 at 5.33 MHz
+HP Mini 311	processor	Intel Atom N270 , or N280
+Litl	processor	1.86
+Motorola Devour	processor	600
+Samsung N130	processor	1.6
+Aamber Pegasus	processor	MC6809C CPU
+Dell Inspiron 1764	processor	2.26
+Power Macintosh 5000 series	processor	PowerPC 603, 75 MHz
+Power Macintosh 5000 series	processor	PowerPC 603e, 100 and 120 MHz
+Power Macintosh 5000 series	processor	PowerPC 603e, 120, 180 and 200 MHz
+Power Macintosh 5000 series	processor	PowerPC 603e, 225, 250 and 275 MHz
+ThinkPad E Series	processor	Intel
+ThinkPad E Series	processor	AMD
+Max-80	processor	Zilog Z80-B @ 5.07MHz
+ABC 1600	processor	Motorola 68008
+ABC 1600	processor	8.0
+Bandai RX-78	processor	SHARP LH0080A
+Bandai RX-78	processor	@
+Bandai RX-78	processor	4.1
+FM-11	processor	Intel 8088  and MBL 68B09E
+Toshiba Pasopia 7	processor	Zilog Z80A
+MicroDigital Omega	processor	Intel StrongARM SA110
+Lenovo IdeaPad S100	processor	1.33
+Compaq Portable 386	processor	Intel 80386
+Compaq Portable 386	processor	@ 20 MHz
+Compaq Portable 386	processor	,
+Compaq Portable 386	processor	Intel 80387
+Compaq Portable 386	processor	option
+Compaq Portable 486	processor	Intel 80486DX2
+Compaq Portable 486	processor	@ 66 MHz
+Acer Aspire 8920	processor	2.4
+Compaq Presario 2200	processor	180
+Versatile Laboratory Aid	processor	Motorola 6800
+Versatile Laboratory Aid	processor	1.0
+PlayStation 4	processor	Semi-custom 8-core AMD x86-64 Jaguar 1.6 GHz CPU
+PlayStation 4	processor	Secondary low power processor
+HP Envy	processor	AMD Accelerated Processing Unit
+HP Envy	processor	Intel Core i3
+HP Envy	processor	Intel Core i5
+HP Envy	processor	Intel Core i7
+Gateway netbooks	processor	1.2
+PlayStation TV	processor	Quad-core ARM Cortex-A9 MPCore
+CCE MC-1000	processor	Zilog Z80A @ 3.57 MHz
+Timex Computer 3256	processor	Zilog Z80A
+HP Pavilion x360	processor	Intel Pentium Processor
+HP Pavilion x360	processor	Intel Celeron N3060 2.16 GHz
+HP Pavilion x360	processor	Intel Core i3 and Core i5 processor
+CHIP	processor	1
+Dell Inspiron 11 3000 Series 2-in-1	processor	Intel Pentium N3530 Processor
+Google Home	processor	ARM architecture
+Siemens PC-D	processor	Intel 80186 @ 8 MHz

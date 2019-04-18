@@ -1,0 +1,163 @@
+Ariane 5	fail	2
+Space Shuttle	fail	2
+Space Shuttle	fail	Challenger ,
+Space Shuttle	fail	Columbia
+Buran programme	fail	0
+Energia	fail	0
+Jupiter-C	fail	1
+Juno I	fail	3
+Ariane 4	fail	3
+Europa	fail	7
+Europa	fail	1
+Europa	fail	2
+Europa	fail	3
+Diamant	fail	3
+Polar Satellite Launch Vehicle	fail	1
+SM-65 Atlas	fail	11
+Ariane 2	fail	1
+Ariane 3	fail	1
+Proton	fail	47
+HGM-25A Titan I	fail	17
+Ariane 1	fail	2
+Vostok	fail	Vostok-L: 1
+Vostok	fail	Vostok-K: 2
+Vostok	fail	Vostok-2: 5
+Vostok	fail	Vostok-2M: 2
+Voskhod	fail	13
+Delta II	fail	1
+Black Arrow	fail	2
+Saturn IB	fail	0
+McDonnell Douglas DC-X	fail	1
+Saturn I	fail	0
+Zenit	fail	10
+Zenit	fail	7
+Zenit	fail	3
+N1	fail	4
+Tsyklon	fail	1
+Shavit	fail	2
+Pegasus	fail	3
+Falcon 1	fail	3
+LGM-25C Titan II	fail	5
+Titan IV	fail	4
+Titan IIIB	fail	4
+Titan IIIC	fail	5
+Little Joe	fail	2
+M-V	fail	1
+Vanguard	fail	8
+Kosmos-3M	fail	20
+H-IIA	fail	1
+Delta III	fail	2
+Geosynchronous Satellite Launch Vehicle	fail	4
+Thor-Able	fail	6
+Atlas-Centaur	fail	13
+Dnepr	fail	1
+Falstaff	fail	1
+Saphir	fail	2
+Sparta	fail	1
+SSBS S1	fail	0
+Minotaur-C	fail	3
+Long March 3	fail	2
+Naro-1	fail	2
+Soyuz-U	fail	21
+Rokot	fail	2
+Falcon 9	fail	1
+Mesquito	fail	1
+Long March 1D	fail	1
+Long March 2C	fail	1
+Satellite Launch Vehicle	fail	1
+Zenit-3SL	fail	3
+Augmented Satellite Launch Vehicle	fail	2
+Athena	fail	2
+Atlas-Agena	fail	13
+SpaceLoft XL	fail	2
+VLS-1	fail	2
+H-II	fail	1
+Soyuz-2	fail	2
+Zenit-2	fail	7
+Long March 4B	fail	1
+Castor-Orbus	fail	1
+Proton-M	fail	9
+Antares	fail	1
+Molniya-M	fail	21
+Thorad-Agena	fail	2
+Atlas I	fail	3
+Thor-Burner	fail	2
+Tsyklon-2	fail	1
+Tsyklon-3	fail	8
+Safir	fail	2
+Juno II	fail	5
+Sputnik	fail	1
+Kosmos-2I	fail	63
+Long March 3B	fail	3
+Long March 2A	fail	1
+Long March 2E	fail	1
+VS-30	fail	1
+Titan 34D	fail	3
+SM-65A Atlas	fail	4
+SM-65B Atlas	fail	4
+SM-65C Atlas	fail	3
+Scout X-2	fail	1
+ALV X-1	fail	1
+Thor-Ablestar	fail	5
+Kosmos-1	fail	1
+Kosmos-3	fail	2
+Saturn V	fail	0
+Soyuz-U2	fail	0
+SM-65D Atlas	fail	32
+SM-65E Atlas	fail	15
+SM-65F Atlas	fail	17
+F	fail	9
+NOTS-EV-1 Pilot	fail	10
+Feng Bao 1	fail	4
+Titan IIIA	fail	1
+Titan IIIE	fail	1
+Atlas G	fail	2
+Atlas SLV-3	fail	2
+Atlas-Able	fail	3
+Thor DSV-2	fail	6
+Thor DSV-2U	fail	1
+Delta B	fail	1
+Thor-Delta	fail	1
+Delta C	fail	1
+Delta L	fail	1
+Delta M	fail	2
+Delta N	fail	1
+Delta 0100	fail	1
+Delta 2000	fail	1
+Delta 3000	fail	2
+Proton-K	fail	36
+R-7A Semyorka	fail	3
+Unha	fail	2
+Vostok-L	fail	1
+Vostok-K	fail	2
+Vostok-2	fail	5
+Vostok-2M	fail	1
+Soyuz	fail	2
+Mercury-Redstone Launch Vehicle	fail	1
+Titan 23G	fail	1
+Lambda 4S	fail	4
+Atlas LV-3B	fail	2
+NOTS-EV-2 Caleb	fail	1
+NOTS-EV-2 Caleb	fail	2
+Scout X	fail	1
+Scout X-1	fail	4
+RM-90 Blue Scout II	fail	1
+RM-89 Blue Scout I	fail	2
+Scout X-1A	fail	0
+Scout X-2M	fail	2
+Scout X-2B	fail	1
+VS-40	fail	1
+Athena I	fail	1
+Athena II	fail	1
+HEAT 1X Tycho Brahe	fail	1
+Terasca	fail	2
+Cajun	fail	33
+Troposphere	fail	0
+Troposphere	fail	1
+Falcon Heavy	fail	0
+SPARK	fail	1
+Falcon 9 v1.1	fail	1
+RM-86 Exos	fail	1
+Soyuz at the Guiana Space Centre	fail	0
+RLV-TD	fail	0
+Next Generation Launcher	fail	0

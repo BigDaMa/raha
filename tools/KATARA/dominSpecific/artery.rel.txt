@@ -1,0 +1,449 @@
+Adrenal gland	artery	Superior, middle and inferior suprarenal arteries
+Breast	artery	Internal thoracic artery
+Cervix	artery	Vaginal artery and uterine artery
+Clitoris	artery	Dorsal artery of clitoris
+Clitoris	artery	Deep artery of clitoris
+Entorhinal cortex	artery	Posterior cerebral artery
+Entorhinal cortex	artery	Choroid artery
+Foot	artery	Dorsalis pedis artery
+Foot	artery	Medial plantar artery
+Foot	artery	Lateral plantar artery
+Kidney	artery	Renal artery
+Labia majora	artery	Deep external pudendal artery
+Ovary	artery	Ovarian artery
+Ovary	artery	Uterine artery
+Thyroid	artery	Superior thyroid artery
+Thyroid	artery	Inferior thyroid artery
+Uterus	artery	Ovarian artery
+Uterus	artery	Uterine artery
+Urethra	artery	Inferior vesical artery
+Urethra	artery	Middle rectal artery
+Urethra	artery	Internal pudendal artery
+Urinary bladder	artery	Superior vesical artery
+Urinary bladder	artery	Inferior vesical artery
+Urinary bladder	artery	Umbilical artery
+Urinary bladder	artery	Vaginal artery
+Vagina	artery	superior part to uterine artery, middle and inferior parts to vaginal artery
+Heart	artery	Aorta, pulmonary trunk and right and left pulmonary arteries Right coronary artery, left main coronary artery
+Pancreas	artery	Inferior pancreaticoduodenal artery
+Pancreas	artery	Anterior superior pancreaticoduodenal artery
+Pancreas	artery	Posterior superior pancreaticoduodenal artery
+Pancreas	artery	Splenic artery
+Stomach	artery	Right gastric artery
+Stomach	artery	Left gastric artery
+Stomach	artery	Right gastro-omental artery
+Stomach	artery	Left gastro-omental artery
+Stomach	artery	Short gastric arteries
+Broca's area	artery	Middle cerebral artery
+Spleen	artery	Splenic artery
+Retina	artery	Central retinal artery
+Glans penis	artery	Urethral artery
+Cerebellum	artery	Superior cerebellar artery
+Cerebellum	artery	Anterior inferior cerebellar artery
+Cerebellum	artery	Posterior inferior cerebellar artery
+Arm	artery	Axillary artery
+Prostate	artery	Internal pudendal artery, inferior vesical artery, and middle rectal artery
+Inner ear	artery	Labyrinthine artery
+Tongue	artery	Lingual artery
+Tongue	artery	Tonsillar branch of the facial artery
+Tongue	artery	Ascending pharyngeal artery
+Pituitary gland	artery	superior hypophyseal artery, infundibular artery, prechiasmal artery, inferior hypophyseal artery, capsular artery, artery of the inferior cavernous sinus
+Large intestine	artery	Superior mesenteric, inferior mesenteric and iliac arteries
+Testicle	artery	Testicular artery
+Duodenum	artery	Inferior pancreaticoduodenal artery
+Duodenum	artery	Superior pancreaticoduodenal artery
+Trachea	artery	Tracheal branches of inferior thyroid artery
+Thalamus	artery	Posterior cerebral artery and branches
+Perineum	artery	Perineal artery, dorsal artery of the penis and deep artery of the penis
+Iris	artery	Long posterior ciliary arteries
+Ileum	artery	Ileal arteries
+Jejunum	artery	Jejunal arteries
+Appendix	artery	Appendicular artery
+Small intestine	artery	Superior mesenteric artery
+Molar	artery	Posterior superior alveolar artery
+Bartholin's gland	artery	Deep external pudendal artery
+Esophagus	artery	Esophageal arteries
+Bulbourethral gland	artery	Artery of the urethral bulb
+Ureter	artery	Superior vesical artery
+Ureter	artery	Vaginal artery
+Ureter	artery	Ureteral branches of renal artery
+Thumb	artery	Princeps pollicis artery
+Gallbladder	artery	Cystic artery
+Temporomandibular joint	artery	Superficial temporal artery
+Pons	artery	Pontine arteries
+Navel	artery	Umbilical artery
+Sclera	artery	Anterior ciliary arteries
+Sclera	artery	Long posterior ciliary arteries
+Sclera	artery	Short posterior ciliary arteries
+Anatomical snuffbox	artery	Radial artery
+Cauda equina	artery	Iliolumbar artery
+Brachiocephalic vein	artery	Brachiocephalic artery
+Inferior vena cava	artery	Abdominal aorta
+Pericardium	artery	Pericardiacophrenic artery
+Sigmoid colon	artery	Sigmoid arteries of inferior mesenteric artery
+Pineal gland	artery	Posterior cerebral artery
+Parathyroid gland	artery	Superior thyroid artery
+Parathyroid gland	artery	Inferior thyroid artery
+Soft palate	artery	Lesser palatine arteries
+Soft palate	artery	Ascending palatine artery
+Semicircular canals	artery	Stylomastoid artery
+Semicircular canals	artery	Labyrinthine artery
+Bronchus	artery	Bronchial artery
+Mammary gland	artery	Internal thoracic artery
+Mammary gland	artery	Lateral thoracic artery
+Thoracic diaphragm	artery	Pericardiacophrenic artery
+Thoracic diaphragm	artery	Musculophrenic artery
+Thoracic diaphragm	artery	Inferior phrenic arteries
+Palatine tonsil	artery	Tonsillar branch of the facial artery
+Parotid gland	artery	Transverse facial artery
+Seminal vesicle	artery	Inferior vesical artery
+Seminal vesicle	artery	Middle rectal artery
+Dentate gyrus	artery	Posterior cerebral artery
+Dentate gyrus	artery	Anterior choroidal artery
+Lateral geniculate nucleus	artery	Anterior choroidal and Posterior cerebral
+Meninges	artery	middle meningeal artery, meningeal branches of the ascending pharyngeal artery, accessory meningeal artery, branch of anterior ethmoidal artery, meningeal branches of vertebral artery
+Vas deferens	artery	Superior vesical artery
+Vas deferens	artery	Artery of the ductus deferens
+Forehead	artery	Supra-orbital artery
+Forehead	artery	Supratrochlear artery
+Cingulate cortex	artery	Anterior cerebral artery
+Hair follicle	artery	Relicollies artery
+Hair follicle	artery	Supraorbital artery
+Hair follicle	artery	Superficial temporal artery
+Hair follicle	artery	Occipital artery
+Parietal lobe	artery	Anterior cerebral artery
+Parietal lobe	artery	Middle cerebral
+Temporal lobe	artery	--12-16
+Temporal lobe	artery	--12-26
+Frontal lobe	artery	Anterior cerebral artery
+Frontal lobe	artery	Middle cerebral
+Adrenal medulla	artery	Superior suprarenal artery
+Adrenal medulla	artery	Middle suprarenal artery
+Adrenal medulla	artery	Inferior suprarenal artery
+Occipital lobe	artery	Posterior cerebral artery
+Cerebrum	artery	Anterior cerebral artery
+Cerebrum	artery	Middle cerebral artery
+Cerebrum	artery	Posterior cerebral artery
+Human brain	artery	Internal carotid artery
+Human brain	artery	Vertebral artery
+Posterior pituitary	artery	Inferior hypophyseal artery
+Middle finger	artery	Proper palmar digital arteries
+Middle finger	artery	Dorsal digital arteries of hand
+Choroid	artery	Short posterior ciliary arteries
+Choroid	artery	Long posterior ciliary arteries
+Scalp	artery	Supratrochlear artery
+Scalp	artery	Supraorbital artery
+Scalp	artery	Superficial temporal artery
+Scalp	artery	Occipital artery
+Umbilical vein	artery	Umbilical artery
+Atrioventricular node	artery	Atrioventricular nodal branch
+Sinoatrial node	artery	Sinuatrial nodal artery
+Pulmonary vein	artery	Pulmonary artery
+Hard palate	artery	Greater palatine artery
+Submandibular gland	artery	Glandular branches of facial artery
+Great cerebral vein	artery	Cerebral arteries
+Cheek	artery	Buccal artery
+Cystic duct	artery	Cystic artery
+Axilla	artery	Axillary artery
+Eyelid	artery	Lacrimal artery
+Eyelid	artery	Superior palpebral artery
+Eyelid	artery	Inferior palpebral artery
+Auricle	artery	Posterior auricular artery
+Auricle	artery	Anterior auricular branches of superficial temporal artery
+Conjunctiva	artery	Lacrimal artery
+Conjunctiva	artery	Anterior ciliary arteries
+Ring finger	artery	Proper palmar digital arteries
+Ring finger	artery	Dorsal digital arteries of hand
+Little finger	artery	Proper palmar digital arteries
+Little finger	artery	Dorsal digital arteries of hand
+Inferior frontal gyrus	artery	Middle cerebral artery
+Middle frontal gyrus	artery	Middle cerebral artery
+Superior frontal gyrus	artery	Anterior cerebral artery
+Transverse temporal gyrus	artery	Middle cerebral artery
+Superior temporal gyrus	artery	Middle cerebral artery
+Sublingual gland	artery	Sublingual artery
+Nasal septum	artery	Anterior ethmoidal artery
+Nasal septum	artery	Posterior ethmoidal artery
+Nasal septum	artery	Sphenopalatine artery
+Nasal septum	artery	Greater palatine artery
+Nasal septum	artery	branch of superior labial
+Urogenital diaphragm	artery	Branches of internal pudendal artery
+Ciliary body	artery	Long posterior ciliary arteries
+Subcutaneous tissue	artery	Posterior intercostal arteries
+Index finger	artery	Radial artery of index finger
+Index finger	artery	Proper palmar digital arteries
+Index finger	artery	Dorsal digital arteries of hand
+Lacrimal gland	artery	Lacrimal artery
+Papillary duct	artery	Vasa recta
+Rhytidectomy	artery	Facial artery
+Rhytidectomy	artery	Superficial temporal artery
+Rhytidectomy	artery	Arteria supratrochlearis
+Rhytidectomy	artery	Arteria infraorbitalis
+Insular cortex	artery	Middle cerebral artery
+Internal jugular vein	artery	Internal carotid artery
+Internal jugular vein	artery	Common carotid artery
+Renal vein	artery	Renal artery
+Ear canal	artery	anterior part: superficial temporal artery
+Ear canal	artery	posterior part: posterior auricular artery
+Anal canal	artery	superior rectal artery  and inferior rectal artery
+Prefrontal cortex	artery	Anterior cerebral artery
+Prefrontal cortex	artery	Middle cerebral
+Popliteal vein	artery	Popliteal artery
+Dental alveolus	artery	Anterior superior alveolar arteries
+Dental alveolus	artery	Posterior superior alveolar artery
+Dental alveolus	artery	Inferior alveolar artery
+Femoral vein	artery	Femoral artery
+Abducens nucleus	artery	Pontine branches of the Basilar artery
+Cephalic vein	artery	Deltoid branch of thoracoacromial artery
+Cephalic vein	artery	Thoracoacromial artery
+Lip	artery	Inferior labial artery
+Lip	artery	Superior labial artery
+Subclavian vein	artery	Subclavian artery
+Deep vein of the thigh	artery	Profunda femoris artery
+Common iliac vein	artery	Common iliac artery
+Dorsal venous arch of the foot	artery	Arcuate artery of the foot
+External iliac vein	artery	External iliac artery
+Brachial veins	artery	Brachial artery
+Posterior tibial vein	artery	Posterior tibial artery
+Anterior tibial vein	artery	Anterior tibial artery
+Fibular veins	artery	Peroneal artery
+Ductus venosus	artery	Ductus arteriosus
+Superior mesenteric vein	artery	Superior mesenteric artery
+Splenic vein	artery	Splenic artery
+Maxillary sinus	artery	Infraorbital artery
+Maxillary sinus	artery	Posterior superior alveolar artery
+Axillary vein	artery	Axillary artery
+Radial veins	artery	Radial artery
+Ulnar veins	artery	Ulnar artery
+Inferior mesenteric vein	artery	Inferior mesenteric artery
+Hepatic veins	artery	Hepatic artery
+Subiculum	artery	Posterior cerebral artery
+Subiculum	artery	Anterior choroidal
+Dentate nucleus	artery	Superior cerebellar artery
+Deep cerebellar nuclei	artery	Superior cerebellar artery
+Medial geniculate nucleus	artery	Striata artery
+Cuneus	artery	Posterior cerebral artery
+Tympanic cavity	artery	Stylomastoid artery
+Brodmann area 24	artery	Anterior cerebral artery
+Occiput	artery	Occipital artery
+Interventricular septum	artery	anterior interventricular branch of left coronary artery and Posterior interventricular artery
+Ascending colon	artery	Right colic artery
+Temple	artery	Superficial temporal artery
+Ventromedial nucleus of the hypothalamus	artery	Basilar artery
+Crus of clitoris	artery	Deep artery of clitoris
+Flocculus	artery	Anterior inferior cerebellar artery
+Bulb of vestibule	artery	Artery of bulb of vestibule
+Frontal sinus	artery	Supra-orbital artery
+Frontal sinus	artery	Anterior ethmoidal artery
+Gluteal muscles	artery	Superior and inferior gluteal arteries
+Inferior epigastric vein	artery	Inferior epigastric artery
+Internal thoracic vein	artery	Internal thoracic artery
+Superior epigastric vein	artery	Superior epigastric artery
+Ileocecal valve	artery	Ileocolic artery
+Round ligament of uterus	artery	Uterine artery
+Round ligament of uterus	artery	Artery of round ligament of uterus
+Superior ophthalmic vein	artery	Ophthalmic artery
+Middle temporal gyrus	artery	Middle cerebra and
+Middle temporal gyrus	artery	Posterior cerebral
+Inferior temporal gyrus	artery	Posterior cerebral artery
+Calcarine sulcus	artery	Calcarine branch of medial occipital artery
+Facial motor nucleus	artery	Anterior inferior cerebellar artery
+Cochlear nucleus	artery	Anterior inferior cerebellar artery
+Vestibular nuclei	artery	Anterior inferior cerebellar artery
+Adrenal adenoma	artery	Superior suprarenal artery
+Adrenal adenoma	artery	Middle suprarenal artery
+Adrenal adenoma	artery	Inferior suprarenal artery
+Lingual gyrus	artery	Posterior cerebral artery
+Gonadal vein	artery	Gonadal artery
+Vertebral vein	artery	Vertebral artery
+Facial vein	artery	Facial artery
+Middle cardiac vein	artery	Posterior interventricular artery
+Suprarenal veins	artery	Superior suprarenal artery
+Suprarenal veins	artery	Middle suprarenal artery
+Suprarenal veins	artery	Inferior suprarenal artery
+Inferior phrenic vein	artery	Inferior phrenic arteries
+Inferior thyroid veins	artery	Inferior thyroid artery
+Inferior ophthalmic vein	artery	Ophthalmic artery
+Left gastroepiploic vein	artery	Left gastro-omental artery
+Superior thyroid vein	artery	Superior thyroid artery
+Superior gluteal veins	artery	Superior gluteal artery
+Pterygoid plexus	artery	Maxillary artery
+Inferior gluteal veins	artery	Inferior gluteal artery
+Maxillary veins	artery	Maxillary artery
+Supreme intercostal vein	artery	Intercostal arteries
+Transverse colon	artery	Middle colic artery
+Lingual veins	artery	Lingual artery
+Internal pudendal veins	artery	Internal pudendal artery
+Pharyngeal veins	artery	Pharyngeal branches of inferior thyroid artery
+Deep cervical vein	artery	Deep cervical artery
+Retromandibular vein	artery	Facial artery
+Occipital vein	artery	Occipital artery
+Posterior auricular vein	artery	Posterior auricular artery
+Angular vein	artery	Angular artery
+Frontal vein	artery	Frontal branch of superficial temporal artery
+Supraorbital vein	artery	Supra-orbital artery
+Superficial temporal vein	artery	Superficial temporal artery
+Inferior cerebral veins	artery	Cerebral arteries
+Descending colon	artery	Left colic artery
+Sole	artery	Medial plantar artery
+Sole	artery	Lateral plantar artery
+Lacrimal sac	artery	Angular artery
+Pterygoid canal	artery	Artery of the pterygoid canal
+Superior cerebral veins	artery	Cerebral arteries
+Internal auditory veins	artery	Internal auditory artery
+White pulp	artery	Trabecular artery
+Internal iliac vein	artery	Internal iliac artery
+Ciliary processes	artery	Short posterior ciliary arteries
+Mastoid cells	artery	Stylomastoid artery
+Membranous labyrinth	artery	Labyrinthine artery
+Pancreaticoduodenal veins	artery	Inferior pancreaticoduodenal artery
+Pancreaticoduodenal veins	artery	Superior pancreaticoduodenal artery
+Right gastroepiploic vein	artery	Right gastroepiploic artery
+Obturator veins	artery	Obturator artery
+Cerebral veins	artery	Cerebral arteries
+Internal cerebral veins	artery	Cerebral arteries
+Cerebellar veins	artery	Anterior inferior cerebellar artery
+Cerebellar veins	artery	Posterior inferior cerebellar artery
+Chin	artery	Inferior alveolar artery
+Right colic vein	artery	Right colic artery
+Middle colic vein	artery	Middle colic artery
+Ovarian vein	artery	Ovarian artery
+Testicular vein	artery	Testicular artery
+Superior rectal vein	artery	Superior rectal artery
+Bronchial veins	artery	Bronchial artery
+Vorticose veins	artery	Short posterior ciliary arteries
+Superior intercostal vein	artery	Intercostal arteries
+Posterior intercostal veins	artery	Posterior intercostal arteries
+Right marginal vein	artery	Right marginal artery
+Left marginal vein	artery	Left marginal artery
+Superior phrenic vein	artery	Superior phrenic artery
+Lumbar veins	artery	Lumbar arteries
+Subcostal vein	artery	Subcostal artery
+Uncinate process of pancreas	artery	Superior mesenteric artery
+Deep perineal pouch	artery	branches of internal pudendal artery
+Superficial perineal pouch	artery	branches of internal pudendal artery
+Dorsal veins of the penis	artery	Dorsal artery of the penis
+Superficial epigastric vein	artery	Superficial epigastric artery
+Cystic vein	artery	Cystic artery
+Median sacral vein	artery	Median sacral artery
+Lateral sacral veins	artery	Lateral sacral arteries
+Middle rectal veins	artery	Middle rectal artery
+Inferior rectal veins	artery	Inferior rectal artery
+Esophageal veins	artery	Esophageal artery
+Deep circumflex iliac vein	artery	Deep circumflex iliac artery
+Vaginal venous plexus	artery	Vaginal artery
+Vesical venous plexus	artery	Superior vesical artery
+Vesical venous plexus	artery	Inferior vesical artery
+Bulb of penis	artery	Artery of bulb of penis
+Interlobular veins	artery	Interlobular arteries
+Renal lobe	artery	Interlobar arteries
+Cortical lobule	artery	Interlobular arteries
+Arcuate vein	artery	Arcuate arteries of the kidney
+Interlobar veins	artery	Interlobar arteries
+Trabecular veins	artery	Trabecular arteries
+Plantar venous arch	artery	Plantar arch
+Coccygeal glomus	artery	Median sacral artery
+Left colic vein	artery	Left colic artery
+Right gastric vein	artery	Right gastric artery
+Curvatures of the stomach	artery	Greater: short gastric , left gastroepiploic
+Curvatures of the stomach	artery	Lesser: Right gastric artery and left gastric artery
+Genu of the corpus callosum	artery	Anterior cerebral artery
+Cerebellar tonsil	artery	Posterior inferior cerebellar artery
+Intercostal veins	artery	Intercostal arteries
+Ala of nose	artery	Superior labial artery
+Labial glands	artery	Inferior labial artery
+Superior labial vein	artery	Superior labial artery
+Inferior labial vein	artery	Inferior labial artery
+Lateral thoracic vein	artery	Lateral thoracic artery
+Anterior compartment of the forearm	artery	Ulnar artery
+Posterior compartment of the forearm	artery	Radial artery
+Posterior compartment of the forearm	artery	Radial recurrent artery
+Posterior compartment of the forearm	artery	Profunda brachii
+Posterior compartment of the forearm	artery	Posterior interosseous artery
+Posterior compartment of leg	artery	Posterior tibial artery
+Lateral compartment of leg	artery	Fibular artery
+Anterior compartment of leg	artery	Anterior tibial artery
+Anterior compartment of thigh	artery	Femoral artery
+Medial compartment of thigh	artery	Obturator artery
+Posterior compartment of thigh	artery	Inferior gluteal artery
+Posterior compartment of thigh	artery	Profunda femoris artery
+Posterior compartment of thigh	artery	Perforating arteries
+Plantar metatarsal veins	artery	Plantar metatarsal arteries
+Human nose	artery	Sphenopalatine artery
+Human nose	artery	Greater palatine artery
+Human penis	artery	Dorsal artery of the penis
+Human penis	artery	Deep artery of the penis
+Human penis	artery	Artery of the urethral bulb
+Central retinal vein	artery	Central retinal artery
+External pudendal veins	artery	External pudendal artery
+Dorsal metacarpal veins	artery	Dorsal metacarpal arteries
+Palmar digital veins	artery	Common palmar digital arteries
+Palmar digital veins	artery	Proper palmar digital arteries
+Palmar metacarpal veins	artery	Palmar metacarpal arteries
+Superficial palmar venous arch	artery	Superficial palmar arch
+Deep palmar venous arch	artery	Deep palmar arch
+Dorsal metatarsal veins	artery	Dorsal metatarsal arteries
+Dorsal scapular vein	artery	Dorsal scapular artery
+Pericardiacophrenic veins	artery	Pericardiacophrenic artery
+Anterior auricular veins	artery	Anterior auricular branches of superficial temporal artery
+Anterior auricular veins	artery	Superficial temporal artery
+Appendicular vein	artery	Appendicular artery
+Ileocolic vein	artery	Ileocolic artery
+Posterior spinal veins	artery	Posterior spinal artery
+Anterior spinal veins	artery	Anterior spinal artery
+Anterior intercostal veins	artery	Anterior intercostal arteries
+Thymic veins	artery	Thymic arteries
+Buttocks	artery	Superior gluteal artery
+Buttocks	artery	Inferior gluteal artery
+Jejunal veins	artery	Jejunal arteries
+Ileal veins	artery	Ileal arteries
+Uterine veins	artery	Uterine artery
+Vesical veins	artery	Superior vesical artery
+Vesical veins	artery	Inferior vesical artery
+Vein of bulb of penis	artery	Artery of bulb of penis
+Superficial dorsal veins of clitoris	artery	Dorsal artery of clitoris
+Deep dorsal vein of clitoris	artery	Dorsal artery of clitoris
+Posterior scrotal veins	artery	Posterior scrotal arteries
+Posterior labial veins	artery	Posterior labial arteries
+Suprascapular vein	artery	Suprascapular artery
+Transverse cervical veins	artery	Transverse cervical artery
+Ethmoidal veins	artery	Anterior ethmoidal artery
+Ethmoidal veins	artery	Posterior ethmoidal artery
+Deep lingual vein	artery	Deep lingual artery
+Dorsal lingual veins	artery	Dorsal lingual branches of lingual artery
+Sublingual vein	artery	Sublingual artery
+Superior laryngeal vein	artery	Superior laryngeal artery
+Inferior laryngeal vein	artery	Inferior laryngeal artery
+Liver	artery	Hepatic artery proper
+Extensor digitorum brevis manus muscle	artery	Anterior interosseous artery
+Scrotum	artery	Anterior scrotal artery
+Scrotum	artery	Posterior scrotal artery
+Rectum	artery	Superior rectal artery
+Rectum	artery	Middle rectal artery
+Dyschronometria	artery	Superior cerebellar artery
+Dyschronometria	artery	Anterior inferior cerebellar artery
+Dyschronometria	artery	Posterior inferior cerebellar artery
+Pharynx	artery	Pharyngeal branches of ascending pharyngeal artery
+Pharynx	artery	Ascending palatine artery
+Pharynx	artery	Descending palatine artery
+Pharynx	artery	Pharyngeal branches of inferior thyroid artery
+Primary motor cortex	artery	Anterior cerebral artery
+Primary motor cortex	artery	Middle cerebral
+Fallopian tube	artery	tubal branches of ovarian artery, tubal branch of uterine artery via mesosalpinx
+Globe	artery	Anterior ciliary arteries
+Globe	artery	Long posterior ciliary arteries
+Globe	artery	Short posterior ciliary arteries
+Oropharyngeal cancer	artery	Ascending pharyngeal artery
+Oropharyngeal cancer	artery	Ascending palatine artery
+Oropharyngeal cancer	artery	Descending palatine artery
+Oropharyngeal cancer	artery	Pharyngeal branches of inferior thyroid artery
+Middle cerebral veins	artery	Middle cerebral artery
+Anatomy of the cerebellum	artery	Superior cerebellar artery
+Anatomy of the cerebellum	artery	Anterior inferior cerebellar artery
+Anatomy of the cerebellum	artery	Posterior inferior cerebellar artery
+Vulva	artery	Internal pudendal artery
+Foreskin	artery	Dorsal artery of the penis
+Acute haemorrhagic conjunctivitis in Ghana	artery	Lacrimal artery
+Acute haemorrhagic conjunctivitis in Ghana	artery	Anterior ciliary arteries
+Preorbital gland	artery	Lacrimal artery
+Anatomy of the human nose	artery	Sphenopalatine artery and greater palatine artery

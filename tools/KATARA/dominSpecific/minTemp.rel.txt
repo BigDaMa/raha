@@ -1,0 +1,38 @@
+Earth	minTemp	184.0
+Earth	minTemp	-89.2
+Moon	minTemp	100.0
+Mercury	minTemp	100.0
+Mercury	minTemp	80.0
+Europa	minTemp	≈&thinsp;50 K
+Uranus	minTemp	47.0
+Pluto	minTemp	33.0
+Rhea	minTemp	53.0
+Enceladus	minTemp	32.9
+Enceladus	minTemp	-240.0
+Titania	minTemp	60.0
+1862 Apollo	minTemp	171.0
+1862 Apollo	minTemp	-102.0
+2062 Aten	minTemp	242.0
+2062 Aten	minTemp	-31.0
+Io	minTemp	90.0
+307 Nike	minTemp	151.0
+307 Nike	minTemp	-122.0
+501 Urhixidur	minTemp	144.0
+501 Urhixidur	minTemp	-129.0
+465 Alekto	minTemp	142.0
+465 Alekto	minTemp	-131.0
+1001 Gaussia	minTemp	145.0
+1001 Gaussia	minTemp	-128.0
+Eris	minTemp	30.0
+3103 Eger	minTemp	156.0
+Mars	minTemp	130.0
+Mars	minTemp	-143.0
+6239 Minos	minTemp	177.0
+6239 Minos	minTemp	-96.0
+12923 Zephyr	minTemp	155.0
+Read	minTemp	142.0
+	minTemp	211.0
+	minTemp	202.0
+	minTemp	-71.0
+	minTemp	142.0
+	minTemp	-131.0

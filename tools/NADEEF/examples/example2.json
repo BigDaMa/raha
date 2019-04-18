@@ -1,0 +1,16 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : [
+            "./examples/bank1.csv",
+            "./examples/tran1.csv"
+        ]
+    },
+    "rule" : [
+        {
+            "type" : "udf",
+            "target" : ["bank1", "tran1"],
+            "value" : ["MyRule"]
+        }
+    ]
+}

@@ -1,0 +1,1353 @@
+Blue Angels	aircraftFighter	10
+Blue Angels	aircraftFighter	2
+Blue Angels	aircraftFighter	*Note – four aircraft are spares
+People's Liberation Army Navy	aircraftFighter	Shenyang J-8
+People's Liberation Army Navy	aircraftFighter	Chengdu J-10
+People's Liberation Army Navy	aircraftFighter	Shenyang J-11
+People's Liberation Army Navy	aircraftFighter	Sukhoi Su-30MKK
+People's Liberation Army Navy	aircraftFighter	Shenyang J-15
+Royal Air Force	aircraftFighter	Eurofighter Typhoon
+Royal Air Force	aircraftFighter	Lockheed Martin F-35B Lightning II
+Royal Navy	aircraftFighter	Lockheed Martin F-35 Lightning II
+Royal Australian Air Force	aircraftFighter	A-18 Hornet
+Royal Australian Air Force	aircraftFighter	A-18F Super Hornet
+Royal Australian Air Force	aircraftFighter	Lockheed Martin F-35 Lightning II
+United States Air Force	aircraftFighter	McDonnell Douglas F-15 Eagle
+United States Air Force	aircraftFighter	F-15E Strike Eagle
+United States Air Force	aircraftFighter	General Dynamics F-16 Fighting Falcon
+United States Air Force	aircraftFighter	Lockheed Martin F-22 Raptor
+United States Air Force	aircraftFighter	F-35 Lightning II
+Israeli Air Force	aircraftFighter	McDonnell Douglas F-15 Eagle
+Israeli Air Force	aircraftFighter	General Dynamics F-16 Fighting Falcon
+United States Air Force Thunderbirds	aircraftFighter	6
+United States Air Force Thunderbirds	aircraftFighter	2
+Air Combat Command	aircraftFighter	F-22A RaptorF-16C Fighting FalconF-15C EagleF-15E Strike Eagle
+Carrier Strike Group 9	aircraftFighter	F Super Hornet
+Air National Guard	aircraftFighter	F-22 Raptor
+Air National Guard	aircraftFighter	F-15 Eagle
+Air National Guard	aircraftFighter	F-16 Fighting Falcon
+Air Force of Zimbabwe	aircraftFighter	Chengdu J-7
+Air Force of Zimbabwe	aircraftFighter	Mikoyan-Gurevich MiG-23
+Hellenic Air Force	aircraftFighter	F-16 Fighting Falcon
+Swedish Air Force	aircraftFighter	Saab JAS 39 Gripen
+Bangladesh Air Force	aircraftFighter	Mikoyan MiG-29
+Bangladesh Air Force	aircraftFighter	Chengdu F-7
+Egyptian Air Force	aircraftFighter	Lockheed F-16 Fighting Falcon
+Egyptian Air Force	aircraftFighter	Dassault Mirage 2000
+Egyptian Air Force	aircraftFighter	Dassault Mirage 5
+Egyptian Air Force	aircraftFighter	Dassault Rafale
+Royal Jordanian Air Force	aircraftFighter	F-16 Fighting Falcon
+Royal Jordanian Air Force	aircraftFighter	Northrop F-5
+Syrian Arab Air Force	aircraftFighter	Mikoyan MiG-29
+Syrian Arab Air Force	aircraftFighter	MiG-23
+Syrian Arab Air Force	aircraftFighter	MiG-21
+People's Liberation Army Air Force	aircraftFighter	Shenyang J-16
+People's Liberation Army Air Force	aircraftFighter	Shenyang J-11
+People's Liberation Army Air Force	aircraftFighter	Chengdu J-10
+People's Liberation Army Air Force	aircraftFighter	Shenyang J-8
+People's Liberation Army Air Force	aircraftFighter	Chengdu J-7
+People's Liberation Army Air Force	aircraftFighter	Su-27
+People's Liberation Army Air Force	aircraftFighter	Su-30MKK
+French Navy	aircraftFighter	Rafale
+Indian Air Force	aircraftFighter	Su-30MKI
+Indian Air Force	aircraftFighter	Mirage 2000
+Indian Air Force	aircraftFighter	MiG-29
+Indian Air Force	aircraftFighter	HAL Tejas
+Indian Air Force	aircraftFighter	MiG-21
+Islamic Republic of Iran Air Force	aircraftFighter	F-14 Tomcat
+Islamic Republic of Iran Air Force	aircraftFighter	MiG-29
+Islamic Republic of Iran Air Force	aircraftFighter	Mirage F1
+Islamic Republic of Iran Air Force	aircraftFighter	Chengdu J-7
+RAF Fighter Command	aircraftFighter	Hawker Hurricane
+RAF Fighter Command	aircraftFighter	Supermarine Spitfire
+RAF Fighter Command	aircraftFighter	Gloster Meteor
+RAF Fighter Command	aircraftFighter	Hawker HunterEnglish Electric Lightning.
+Condor Legion	aircraftFighter	Heinkel He 51
+Condor Legion	aircraftFighter	Heinkel He 112
+Condor Legion	aircraftFighter	Messerschmitt Bf 109
+Frecce Tricolori	aircraftFighter	1961
+Frecce Tricolori	aircraftFighter	1964
+Royal Norwegian Air Force	aircraftFighter	Lockheed F-16 Fighting Falcon
+South African Air Force	aircraftFighter	JAS 39 Gripen
+Nigerian Air Force	aircraftFighter	Chengdu F-7
+Royal Danish Air Force	aircraftFighter	Lockheed F-16 Fighting Falcon
+15th Carrier Air Group	aircraftFighter	Vought F4U Corsair
+Royal Saudi Air Force	aircraftFighter	Eurofighter Typhoon
+Royal Saudi Air Force	aircraftFighter	F-15 Eagle
+Republic of Singapore Air Force	aircraftFighter	General Dynamics F-16 Fighting Falcon
+VMFA-212	aircraftFighter	Grumman F4F Wildcat
+VMFA-212	aircraftFighter	Vought F4U Corsair
+VMFA-212	aircraftFighter	McDonnell-Douglas F-4 Phantom II
+VMFA-212	aircraftFighter	A-18 Hornet
+Polish Air Force	aircraftFighter	F-16
+Polish Air Force	aircraftFighter	MiG-29
+Royal Netherlands Air Force	aircraftFighter	F-16
+Royal Netherlands Air Force	aircraftFighter	Lockheed Martin F-35 Lightning II
+No. 1321 Flight RAF	aircraftFighter	Hawker Hurricane Mk.IIc
+VC-9	aircraftFighter	Grumman F4F Wildcat
+Kampfgeschwader 200	aircraftFighter	captured: Lockheed P-38 Lightning, Polikarpov I-16, Supermarine Spitfire
+Botswana Defence Force Air Wing	aircraftFighter	Canadair CF-5
+Swiss Air Force	aircraftFighter	A-18 Hornet
+Swiss Air Force	aircraftFighter	F-5 Tiger
+Royal Canadian Air Force	aircraftFighter	McDonnell Douglas CF-18 Hornet
+Texas Air National Guard	aircraftFighter	D Fighting Falcon
+Kenya Air Force	aircraftFighter	Northrop F-5
+Alabama Air National Guard	aircraftFighter	General Dynamics F-16 Fighting Falcon
+835 Naval Air Squadron	aircraftFighter	Hawker Hurricane
+835 Naval Air Squadron	aircraftFighter	Grumman Wildcat
+VMFA-232	aircraftFighter	Vought VE-7
+VMFA-232	aircraftFighter	Boeing FB-1
+VMFA-232	aircraftFighter	Boeing FB-5
+VMFA-232	aircraftFighter	Curtiss F6C Hawk
+VMFA-232	aircraftFighter	Boeing F4B-4
+VMFA-232	aircraftFighter	Vought F4U Corsair
+VMFA-232	aircraftFighter	North American FJ Fury
+VMFA-232	aircraftFighter	Vought F-8 Crusader
+VMFA-232	aircraftFighter	McDonnell-Douglas F-4 Phantom II
+VMFA-232	aircraftFighter	A-18 Hornet
+441 Tactical Fighter Squadron	aircraftFighter	Supermarine Spitfire
+441 Tactical Fighter Squadron	aircraftFighter	North American P-51 Mustang
+441 Tactical Fighter Squadron	aircraftFighter	De Havilland Vampire
+441 Tactical Fighter Squadron	aircraftFighter	Canadair Sabre
+441 Tactical Fighter Squadron	aircraftFighter	Canadair CF-104 Starfighter
+441 Tactical Fighter Squadron	aircraftFighter	McDonnell Douglas CF-18 Hornet
+German Air Force	aircraftFighter	Eurofighter Typhoon
+Peruvian Air Force	aircraftFighter	MiG-29
+Peruvian Air Force	aircraftFighter	Dassault-Breguet Mirage 2000
+Brazilian Air Force	aircraftFighter	Saab JAS 39 Gripen
+Brazilian Air Force	aircraftFighter	F-5 Freedom Fighter
+RAF Advanced Air Striking Force	aircraftFighter	Hawker Hurricane
+No. 303 Polish Fighter Squadron	aircraftFighter	Hawker Hurricane
+No. 303 Polish Fighter Squadron	aircraftFighter	Supermarine Spitfire
+No. 303 Polish Fighter Squadron	aircraftFighter	Mustang IV
+No. 100 Group RAF	aircraftFighter	Bristol Beaufighter
+No. 100 Group RAF	aircraftFighter	De Havilland Mosquito
+Argentine Air Force	aircraftFighter	A-4AR Fightinghawk
+Ukrainian Air Force	aircraftFighter	Sukhoi Su-27
+Ukrainian Air Force	aircraftFighter	Mikoyan MiG-29
+Royal Malaysian Air Force	aircraftFighter	Sukhoi Su-30MKM
+Royal Malaysian Air Force	aircraftFighter	A-18 Hornet
+Royal Malaysian Air Force	aircraftFighter	Mikoyan MiG-29
+VFA-211	aircraftFighter	Grumman F9F Panther
+VFA-211	aircraftFighter	Grumman F-9 Cougar
+VFA-211	aircraftFighter	North American FJ-1 Fury
+VFA-211	aircraftFighter	-3 Fury
+VFA-211	aircraftFighter	McDonnell F3H Demon
+VFA-211	aircraftFighter	Grumman F-11 Tiger
+VFA-211	aircraftFighter	Vought F-8 Crusader
+VFA-211	aircraftFighter	Grumman F-14 Tomcat
+VFA-211	aircraftFighter	F/A-18F Super Hornet
+VFA-14	aircraftFighter	Boeing P-12
+VFA-14	aircraftFighter	Vought SB2U Vindicator
+VFA-14	aircraftFighter	Douglas SBD Dauntless
+VFA-14	aircraftFighter	Vought F4U Corsair
+VFA-14	aircraftFighter	Douglas F3D Skyknight
+VFA-14	aircraftFighter	McDonnell F3H Demon
+VFA-14	aircraftFighter	McDonnell-Douglas F-4 Phantom II
+VFA-14	aircraftFighter	Grumman F-14 Tomcat
+VFA-14	aircraftFighter	A-18E Super Hornet
+VFA-31	aircraftFighter	Grumman F3F
+VFA-31	aircraftFighter	Grumman F4F Wildcat
+VFA-31	aircraftFighter	Grumman F6F Hellcat
+VFA-31	aircraftFighter	Grumman F9F Panther
+VFA-31	aircraftFighter	McDonnell F2H Banshee
+VFA-31	aircraftFighter	F3H Demon
+VFA-31	aircraftFighter	McDonnell-Douglas F-4 Phantom II
+VFA-31	aircraftFighter	Grumman F-14 Tomcat
+VFA-31	aircraftFighter	F Super Hornet
+VFA-213	aircraftFighter	McDonnell F2H Banshee
+VFA-213	aircraftFighter	Douglas F4D Skyray
+VFA-213	aircraftFighter	McDonnell F3H Demon
+VFA-213	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VFA-213	aircraftFighter	Grumman F-14 Tomcat
+VFA-213	aircraftFighter	F Super Hornet
+VFA-25	aircraftFighter	A-18 Hornet
+VFA-25	aircraftFighter	F Super Hornet
+VFA-102	aircraftFighter	McDonnell F2H Banshee
+VFA-102	aircraftFighter	Douglas F4D Skyray
+VFA-102	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VFA-102	aircraftFighter	Grumman F-14 Tomcat
+VFA-102	aircraftFighter	F Super Hornet
+VFA-86	aircraftFighter	Vought F4U Corsair
+VFA-86	aircraftFighter	Grumman F8F Bearcat
+VFA-86	aircraftFighter	Grumman F9F Panther
+VFA-86	aircraftFighter	Vought F7U Cutlass
+VFA-86	aircraftFighter	A-18 Hornet
+VFA-86	aircraftFighter	F Super Hornet
+VFA-87	aircraftFighter	A-18 Hornet
+VFA-87	aircraftFighter	F Super Hornet
+Air Force Reserve Command	aircraftFighter	F-22 RaptorF-16 Fighting FalconF-15E Strike Eagle
+VF-41	aircraftFighter	Vought F4U Corsair
+VFA-41	aircraftFighter	McDonnell F2H Banshee
+VFA-41	aircraftFighter	McDonnell F3H Demon
+VFA-41	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VFA-41	aircraftFighter	Grumman F-14 Tomcat
+VFA-41	aircraftFighter	F Super Hornet
+VFA-32	aircraftFighter	Grumman F6F Hellcat
+VFA-32	aircraftFighter	Grumman F8F Bearcat
+VFA-32	aircraftFighter	Vought F4U Corsair
+VFA-32	aircraftFighter	Grumman F-9 Cougar
+VFA-32	aircraftFighter	Vought F-8 Crusader
+VFA-32	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VFA-32	aircraftFighter	Grumman F-14 Tomcat
+VFA-32	aircraftFighter	F Super Hornet
+VFA-37	aircraftFighter	A-18 Hornet
+Royal Bahraini Air Force	aircraftFighter	F-16 Fighting Falcon
+Royal Bahraini Air Force	aircraftFighter	Northrop F-5
+Golden Hawks	aircraftFighter	Canadair Sabre
+Siskins	aircraftFighter	Armstrong Whitworth Siskin
+Blue Devils	aircraftFighter	De Havilland Vampire
+Mexican Air Force	aircraftFighter	Northrop F-5
+VF-61	aircraftFighter	F4U Corsair
+VF-61	aircraftFighter	F6F Hellcat
+VF-61	aircraftFighter	-3 Fury
+VF-61	aircraftFighter	McDonnell F3H Demon
+VF-84	aircraftFighter	FJ Fury
+VF-84	aircraftFighter	F-8 Crusader
+VF-84	aircraftFighter	F-4 Phantom
+VF-84	aircraftFighter	F-14 Tomcat
+VFA-103	aircraftFighter	Vought F4U Corsair
+VFA-103	aircraftFighter	Grumman F9F Cougar
+VFA-103	aircraftFighter	Vought F-8 Crusader
+VFA-103	aircraftFighter	McDonnell-Douglas F-4 Phantom II
+VFA-103	aircraftFighter	Grumman F-14 Tomcat
+VFA-103	aircraftFighter	F Super Hornet
+Croatian Air Force and Air Defence	aircraftFighter	Mikoyan-Gurevich MiG-21
+Patrulla Águila	aircraftFighter	12
+Patrulla Águila	aircraftFighter	Only 7 fly in airshows
+Russian Knights	aircraftFighter	4
+Russian Knights	aircraftFighter	2
+Ukrainian Falcons	aircraftFighter	MiG-29
+Ukrainian Falcons	aircraftFighter	Sukhoi Su-27
+Patrouille Suisse	aircraftFighter	6
+Turkish Stars	aircraftFighter	10
+Turkish Stars	aircraftFighter	2
+August 1st	aircraftFighter	8
+Republic of China Air Force	aircraftFighter	F-16
+Republic of China Air Force	aircraftFighter	Dassault Mirage 2000
+Republic of China Air Force	aircraftFighter	F-CK-1
+Republic of China Air Force	aircraftFighter	Northrop F-5
+People's Liberation Army Naval Air Force	aircraftFighter	Chengdu J-7, Shenyang J-1, Shenyang J-15, Sukhoi Su-30MKK, Xian JH-7
+VMA-223	aircraftFighter	Brewster F2A Buffalo
+VMA-223	aircraftFighter	Grumman F4F Wildcat
+VMA-223	aircraftFighter	Vought F4U Corsair
+VMA-223	aircraftFighter	Grumman F9F Panther
+VMA-223	aircraftFighter	North American FJ-4 Fury
+Royal Thai Air Force	aircraftFighter	Saab JAS 39 Gripen
+Royal Thai Air Force	aircraftFighter	General Dynamics F-16 Fighting Falcon
+Royal Thai Air Force	aircraftFighter	F-5 Freedom Fighter
+VMFA-112	aircraftFighter	Grumman F4F Wildcat
+VMFA-112	aircraftFighter	Vought F4U Corsair
+VMFA-112	aircraftFighter	Grumman F9F Panther
+VMFA-112	aircraftFighter	Vought F-8 Crusader
+VMFA-112	aircraftFighter	McDonnell-Douglas F-4 Phantom II
+VMFA-112	aircraftFighter	A-18 Hornet
+Australian First Tactical Air Force	aircraftFighter	Curtiss P-40 Warhawk
+Australian First Tactical Air Force	aircraftFighter	Supermarine Spitfire
+Turkish Air Force	aircraftFighter	F-16 Fighting Falcon
+Iraqi Air Force	aircraftFighter	F-16IQ
+VMFA-323	aircraftFighter	F4U Corsair
+VMFA-323	aircraftFighter	F9F Panther
+VMFA-323	aircraftFighter	F9F Cougar
+VMFA-323	aircraftFighter	FJ Fury
+VMFA-323	aircraftFighter	F-8 Crusader
+VMFA-323	aircraftFighter	F-4 Phantom II
+VMFA-323	aircraftFighter	A-18 Hornet
+VMFA-122	aircraftFighter	F4F Wildcat
+VMFA-122	aircraftFighter	F4U Corsair
+VMFA-122	aircraftFighter	FH Phantom
+VMFA-122	aircraftFighter	F2H Banshee
+VMFA-122	aircraftFighter	F6F Hellcat
+VMFA-122	aircraftFighter	F9F Panther
+VMFA-122	aircraftFighter	FJ Fury
+VMFA-122	aircraftFighter	F-8 Crusader
+VMFA-122	aircraftFighter	F-4 Phantom
+VMFA-122	aircraftFighter	A-18 Hornet
+No. 488 Squadron RNZAF	aircraftFighter	Brewster Buffalo
+No. 488 Squadron RNZAF	aircraftFighter	Hawker Hurricane
+No. 488 Squadron RNZAF	aircraftFighter	Bristol Beaufighter
+No. 488 Squadron RNZAF	aircraftFighter	de Havilland Mosquito
+VMFA-333	aircraftFighter	F4U Corsair
+VMFA-333	aircraftFighter	F6F Hellcat
+VMFA-333	aircraftFighter	FJ Fury
+VMFA-333	aircraftFighter	F-8 Crusader
+VMFA-333	aircraftFighter	F-4 Phantom II
+VMFA-333	aircraftFighter	A-18 Hornet
+Romanian Air Force	aircraftFighter	MiG-21
+Romanian Air Force	aircraftFighter	General Dynamics F-16 Fighting Falcon
+Japan Air Self-Defense Force	aircraftFighter	F-4 Phantom II
+Japan Air Self-Defense Force	aircraftFighter	Mitsubishi F-15J
+Japan Air Self-Defense Force	aircraftFighter	Mitsubishi F-2
+Japan Air Self-Defense Force	aircraftFighter	F-35A
+Jagdgeschwader 52	aircraftFighter	Bf 109
+Organization of the Luftwaffe	aircraftFighter	Messerschmitt Bf 109
+Organization of the Luftwaffe	aircraftFighter	Messerschmitt Bf 110
+Organization of the Luftwaffe	aircraftFighter	Focke-Wulf Fw 190
+Serbian Air Force and Air Defence	aircraftFighter	Mikoyan MiG-29
+Serbian Air Force and Air Defence	aircraftFighter	Mikoyan-Gurevich MiG-21
+Polish Fighting Team	aircraftFighter	Supermarine Spitfire
+VMFA-211	aircraftFighter	Grumman F3F
+VMFA-211	aircraftFighter	Brewster Buffalo
+VMFA-211	aircraftFighter	F4F Wildcat
+VMFA-211	aircraftFighter	F4U Corsair
+VMFA-211	aircraftFighter	Lockheed Martin F-35 Lightning II
+VMA-311	aircraftFighter	T-6 Texan
+VMA-311	aircraftFighter	F4U Corsair
+VMA-311	aircraftFighter	TO-1 Shooting Star
+VMA-311	aircraftFighter	F9F Panther
+VMA-311	aircraftFighter	F9F Cougar
+VMA-311	aircraftFighter	A4 Skyhawk
+VMA-311	aircraftFighter	AV-8B Harrier II
+VMA-513	aircraftFighter	F6F Hellcat
+VMA-513	aircraftFighter	F4U Corsair
+VMA-513	aircraftFighter	F7F Tigercat
+VMA-513	aircraftFighter	F3D Skyknight
+VMA-513	aircraftFighter	F4D Skyray
+VMA-513	aircraftFighter	F-4 Phantom II
+VMA-214	aircraftFighter	F4F Wildcat
+VMA-214	aircraftFighter	F4U Corsair
+VMA-214	aircraftFighter	F9F Panther
+VMA-214	aircraftFighter	F2H Banshee
+VMA-214	aircraftFighter	FJ Fury
+Jagdgeschwader 27	aircraftFighter	Bf 109
+Austrian Air Force	aircraftFighter	Eurofighter Typhoon
+No. 35 Squadron IAF	aircraftFighter	Mig 21M, MR
+Oregon Air National Guard	aircraftFighter	McDonnell Douglas F-15 Eagle
+Colorado Air National Guard	aircraftFighter	D Fighting Falcon
+Jagdverband 44	aircraftFighter	Messerschmitt Me 262
+Jagdverband 44	aircraftFighter	Focke-Wulf Fw 190
+No. 75 Squadron RAAF	aircraftFighter	Curtiss P-40 Warhawk
+No. 75 Squadron RAAF	aircraftFighter	North American P-51 Mustang
+No. 75 Squadron RAAF	aircraftFighter	De Havilland Vampire
+No. 75 Squadron RAAF	aircraftFighter	Gloster Meteor
+No. 75 Squadron RAAF	aircraftFighter	CAC Sabre
+No. 75 Squadron RAAF	aircraftFighter	Dassault Mirage III
+No. 75 Squadron RAAF	aircraftFighter	A-18 Hornet
+Chadian Air Force	aircraftFighter	Mikoyan MiG-29
+No. 3 Squadron RAAF	aircraftFighter	A-18 Hornet
+No. 77 Squadron RAAF	aircraftFighter	A-18 Hornet
+Egyptian Navy	aircraftFighter	Rafale
+Egyptian Navy	aircraftFighter	General Dynamics F-16 Fighting Falcon
+No. 76 Squadron RAAF	aircraftFighter	Curtiss P-40 Warhawk
+No. 76 Squadron RAAF	aircraftFighter	P-51 Mustang 1945–51)
+No. 76 Squadron RAAF	aircraftFighter	De Havilland Vampire
+No. 76 Squadron RAAF	aircraftFighter	CAC Sabre
+No. 76 Squadron RAAF	aircraftFighter	Dassault Mirage III
+No. 79 Squadron RAAF	aircraftFighter	Supermarine Spitfire
+No. 79 Squadron RAAF	aircraftFighter	CAC Sabre
+No. 79 Squadron RAAF	aircraftFighter	Dassault Mirage III
+No. 2 Operational Conversion Unit RAAF	aircraftFighter	A-18 Hornet
+VMAQT-1	aircraftFighter	F-8 Crusader
+VMAQT-1	aircraftFighter	F-4 Phantom
+VFC-13	aircraftFighter	Vought F-8 Crusader
+VFC-13	aircraftFighter	Douglas A-4 Skyhawk
+VFC-13	aircraftFighter	A-18 Hornet
+VFC-13	aircraftFighter	Northrop F-5
+VFC-12	aircraftFighter	Douglas A-4 Skyhawk
+VFC-12	aircraftFighter	A-18 Hornet
+Portuguese Air Force	aircraftFighter	General Dynamics F-16 Fighting Falcon
+VMFA-115	aircraftFighter	F4U Corsair
+VMFA-115	aircraftFighter	F9F Panther
+VMFA-115	aircraftFighter	F4D Skyray
+VMFA-115	aircraftFighter	F-4 Phantom II
+VMFA-115	aircraftFighter	A-18 Hornet
+Imperial and Royal Aviation Troops	aircraftFighter	Aviatik D.I
+Imperial and Royal Aviation Troops	aircraftFighter	Phönix D.I
+No. 4 Squadron RAAF	aircraftFighter	Sopwith Camel
+No. 4 Squadron RAAF	aircraftFighter	Sopwith Snipe
+No. 4 Squadron RAAF	aircraftFighter	Hawker Demon
+No. 4 Squadron RAAF	aircraftFighter	CAC Wirraway
+No. 4 Squadron RAAF	aircraftFighter	CAC Boomerang
+No. 4 Squadron RAAF	aircraftFighter	Curtis P-40 Warhawk
+No. 4 Squadron RAAF	aircraftFighter	North American P-51 Mustang
+VMFA-134	aircraftFighter	Grumman F9F Cougar
+VMFA-134	aircraftFighter	McDonnell-Douglas F-4 Phantom II
+VMFA-134	aircraftFighter	A-18 Hornet
+VFA-147	aircraftFighter	A-18 Hornet
+VFA-147	aircraftFighter	F Super Hornet
+Czech Air Force	aircraftFighter	JAS 39 Gripen
+No. 120	aircraftFighter	Curtiss P-40 Warhawk
+Spanish Air Force	aircraftFighter	A-18 Hornet
+Spanish Air Force	aircraftFighter	Eurofighter Typhoon
+HMH-461	aircraftFighter	F4U Corsair
+VMA-231	aircraftFighter	Vought VE-7
+VMA-231	aircraftFighter	Airco DH.4
+VMA-231	aircraftFighter	Curtiss Falcon
+VMA-231	aircraftFighter	O2U Corsair
+VMA-231	aircraftFighter	SOC Seagull
+VMA-231	aircraftFighter	F4U Corsair
+VFA-2	aircraftFighter	Grumman F-14 Tomcat
+VFA-2	aircraftFighter	A-18F Super Hornet
+Congolese Air Force	aircraftFighter	Dassault Mirage F1
+Hungarian Air Force	aircraftFighter	JAS-39
+Hungarian Air Force	aircraftFighter	MiG-29
+Jagdgeschwader 54	aircraftFighter	Messerschmitt Bf 109
+Jagdgeschwader 54	aircraftFighter	Focke-Wulf Fw 190
+Jagdgeschwader 54	aircraftFighter	Messerschmitt Me 262
+No. 432 Squadron RCAF	aircraftFighter	Avro Canada CF-100 Canuck
+No. 5 Squadron RAAF	aircraftFighter	Farman Shorthorn
+No. 5 Squadron RAAF	aircraftFighter	Airco DH.6
+No. 5 Squadron RAAF	aircraftFighter	Avro 504
+No. 5 Squadron RAAF	aircraftFighter	Sopwith Pup
+No. 5 Squadron RAAF	aircraftFighter	Royal Aircraft Factory S.E.5
+No. 5 Squadron RAAF	aircraftFighter	Sopwith Camel
+No. 5 Squadron RAAF	aircraftFighter	Sopwith Snipe
+No. 5 Squadron RAAF	aircraftFighter	CAC Wirraway
+No. 5 Squadron RAAF	aircraftFighter	CAC Boomerang
+No. 5 Squadron RAAF	aircraftFighter	P-40 Kittyhawk
+VFA-151	aircraftFighter	Grumman F6F Hellcat
+VFA-151	aircraftFighter	Vought F4U Corsair
+VFA-151	aircraftFighter	Grumman F9F Panther
+VFA-151	aircraftFighter	McDonnell F2H Banshee
+VFA-151	aircraftFighter	Douglas F4D Skyray
+VFA-151	aircraftFighter	McDonnell F3H Demon
+VFA-151	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VFA-151	aircraftFighter	A-18 Hornet
+VFA-151	aircraftFighter	F Super Hornet
+No. 83 Squadron RAAF	aircraftFighter	P-39 Airacobra
+No. 83 Squadron RAAF	aircraftFighter	CAC Boomerang
+No. 84 Squadron RAAF	aircraftFighter	CAC Boomerang
+No. 84 Squadron RAAF	aircraftFighter	Curtiss P-40 Warhawk
+No. 84 Squadron RAAF	aircraftFighter	North American P-51 Mustang
+VFA-11	aircraftFighter	Vought F4U Corsair
+VFA-11	aircraftFighter	Grumman F-9 Cougar
+VFA-11	aircraftFighter	McDonnell F2H Banshee
+VFA-11	aircraftFighter	Vought F-8 Crusader
+VFA-11	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VFA-11	aircraftFighter	Grumman F-14 Tomcat
+VFA-11	aircraftFighter	A-18F Super Hornet
+VF-33	aircraftFighter	F4U Corsair
+VF-33	aircraftFighter	F9F Panther
+VF-33	aircraftFighter	FJ Fury
+VF-33	aircraftFighter	F11F Tiger
+VF-33	aircraftFighter	F-8 Crusader
+VF-33	aircraftFighter	F-4 Phantom II
+VF-33	aircraftFighter	F-14 Tomcat
+VF-74	aircraftFighter	F6F Hellcat
+VF-74	aircraftFighter	F8F Bearcat
+VF-74	aircraftFighter	F4U Corsair
+VF-74	aircraftFighter	F9F Cougar
+VF-74	aircraftFighter	F4D Skyray
+VF-74	aircraftFighter	F-4 Phantom
+VF-74	aircraftFighter	F-14 Tomcat
+No. 12 Squadron RAAF	aircraftFighter	Hawker Hart
+No. 452 Squadron RAAF	aircraftFighter	Supermarine Spitfire
+VFA-101	aircraftFighter	Vought F4U Corsair
+VFA-101	aircraftFighter	McDonnell F2H Banshee
+VFA-101	aircraftFighter	Douglas F4D Skyray
+VFA-101	aircraftFighter	McDonnell F3H Demon
+VFA-101	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VFA-101	aircraftFighter	Grumman F-14 Tomcat
+VFA-101	aircraftFighter	Lockheed Martin F-35 Lightning II
+Azerbaijani Air and Air Defence Force	aircraftFighter	MiG-21
+Azerbaijani Air and Air Defence Force	aircraftFighter	MiG-29
+VF-11	aircraftFighter	Curtiss P-1 Hawk
+VF-11	aircraftFighter	Boeing F3B
+VF-11	aircraftFighter	Boeing P-12
+VF-11	aircraftFighter	Grumman FF
+VF-11	aircraftFighter	F3F-1
+VF-11	aircraftFighter	Grumman F4F Wildcat
+VF-11	aircraftFighter	Grumman F6F Hellcat
+VF-11	aircraftFighter	Grumman F8F Bearcat
+VF-11	aircraftFighter	McDonnell F2H Banshee
+VF-11	aircraftFighter	Douglas F3D Skyknight
+VMA-542	aircraftFighter	F6F Hellcat
+VMA-542	aircraftFighter	F7F Tigercat
+VMA-542	aircraftFighter	F3D Skyknight
+VMA-542	aircraftFighter	F4D Skyray
+VMA-542	aircraftFighter	F-4 Phantom II
+VMFA-314	aircraftFighter	F4U Corsair
+VMFA-314	aircraftFighter	F9F Panther
+VMFA-314	aircraftFighter	F4D Skyray
+VMFA-314	aircraftFighter	F-4 Phantom II
+VMFA-314	aircraftFighter	A-18 Hornet
+VMFA	aircraftFighter	F4U Corsair
+VMFA	aircraftFighter	A-18 Hornet
+VMFA	aircraftFighter	Grumman F4F Wildcat
+VMFA	aircraftFighter	Vought F4U Corsair
+VMFA	aircraftFighter	McDonnell F2H Banshee
+VMFA	aircraftFighter	Grumman F9F Panther
+VMFA	aircraftFighter	A-18 Hornet
+VMFA-251	aircraftFighter	F4F Wildcat
+VMFA-251	aircraftFighter	F4U Corsair
+VMFA-251	aircraftFighter	FJ Fury
+VMFA-251	aircraftFighter	F-8 Crusader
+VMFA-251	aircraftFighter	F-4 Phantom II
+VMFA-251	aircraftFighter	A-18 Hornet
+No. 94 Squadron RAAF	aircraftFighter	De Havilland Mosquito
+VMFA-121	aircraftFighter	F4F Wildcat
+VMFA-121	aircraftFighter	F4U Corsair
+VMFA-121	aircraftFighter	F8F Bearcat
+VMFA-121	aircraftFighter	F-9 Cougar
+VMFA-121	aircraftFighter	A-18 Hornet
+VMFA-121	aircraftFighter	F-35 Lightning II
+Taktisches Luftwaffengeschwader 71 %22Richthofen%22	aircraftFighter	Formerly:
+Taktisches Luftwaffengeschwader 71 %22Richthofen%22	aircraftFighter	*
+Taktisches Luftwaffengeschwader 71 %22Richthofen%22	aircraftFighter	Canadair Sabre
+Taktisches Luftwaffengeschwader 71 %22Richthofen%22	aircraftFighter	F-104 Starfighter
+Taktisches Luftwaffengeschwader 71 %22Richthofen%22	aircraftFighter	F-4 Phantom II
+Taktisches Luftwaffengeschwader 71 %22Richthofen%22	aircraftFighter	Present:
+Taktisches Luftwaffengeschwader 71 %22Richthofen%22	aircraftFighter	Eurofighter Typhoon
+Chilean Air Force	aircraftFighter	F-16 Fighting Falcon
+Chilean Air Force	aircraftFighter	Northrop F-5
+No. 450 Squadron RAAF	aircraftFighter	Hawker Hurricane
+No. 450 Squadron RAAF	aircraftFighter	Curtiss P-40 Warhawk
+No. 450 Squadron RAAF	aircraftFighter	North American P-51 Mustang
+No. 451 Squadron RAAF	aircraftFighter	Hawker Hurricane
+No. 451 Squadron RAAF	aircraftFighter	Supermarine Spitfire
+No. 453 Squadron RAAF	aircraftFighter	Brewster F2A Buffalo
+No. 453 Squadron RAAF	aircraftFighter	Supermarine Spitfire
+VF-111	aircraftFighter	Grumman F4F Wildcat
+VF-111	aircraftFighter	Grumman F6F Hellcat
+VF-111	aircraftFighter	Grumman F8F Bearcat
+VF-111	aircraftFighter	Grumman F9F Panther
+VF-111	aircraftFighter	Grumman F9F Cougar
+VF-111	aircraftFighter	-3 Fury
+VF-114	aircraftFighter	F6F Hellcat
+VF-114	aircraftFighter	F4U Corsair
+VF-114	aircraftFighter	F9F Panther
+VF-114	aircraftFighter	F2H Banshee
+VF-114	aircraftFighter	F3H Demon
+VF-114	aircraftFighter	F-4 Phantom II
+VF-114	aircraftFighter	F-14 Tomcat
+VF-124	aircraftFighter	Vought F4U Corsair
+VF-124	aircraftFighter	Grumman F9F Panther
+VF-124	aircraftFighter	F-8 Crusader
+VF-124	aircraftFighter	F-14 Tomcat
+VFA-146	aircraftFighter	Grumman F-9 Cougar
+VFA-146	aircraftFighter	North American FJ-4 Fury
+VFA-146	aircraftFighter	A-18 Hornet
+VFA-146	aircraftFighter	F Super Hornet
+VF-142	aircraftFighter	F4U Corsair
+VF-142	aircraftFighter	F2H Banshee
+VF-142	aircraftFighter	F3H Demon
+VF-142	aircraftFighter	F-4 Phantom II
+VF-142	aircraftFighter	F-14 Tomcat
+419 Tactical Fighter Training Squadron	aircraftFighter	Avro Canada CF-100 Canuck
+Jagdgeschwader 50	aircraftFighter	Bf 109
+94th Aero Squadron	aircraftFighter	Nieuport 28, 1918
+94th Aero Squadron	aircraftFighter	Spad XIII, 1918–19
+VMFA-312	aircraftFighter	F4U Corsair
+VMFA-312	aircraftFighter	F7F Tigercat
+VMFA-312	aircraftFighter	F9F Panther
+VMFA-312	aircraftFighter	FJ Fury
+VMFA-312	aircraftFighter	F-8 Crusader
+VMFA-312	aircraftFighter	F-4 Phantom II
+VMFA-312	aircraftFighter	A-18 Hornet
+VFA-143	aircraftFighter	Vought F4U Corsair
+VFA-143	aircraftFighter	Grumman F9F Panther
+VFA-143	aircraftFighter	McDonnell F3H Demon
+VFA-143	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VFA-143	aircraftFighter	Grumman F-14 Tomcat
+VFA-143	aircraftFighter	F/A-18E Super Hornet
+VF-143	aircraftFighter	Vought F4U Corsair
+VF-143	aircraftFighter	Grumman F-9 Cougar
+VF-143	aircraftFighter	-3 Fury
+VFA-154	aircraftFighter	Grumman F6F Hellcat
+VFA-154	aircraftFighter	Vought F4U Corsair
+VFA-154	aircraftFighter	Grumman F9F Panther
+VFA-154	aircraftFighter	-3 Fury
+VFA-154	aircraftFighter	Vought F-8 Crusader
+VFA-154	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VFA-154	aircraftFighter	Grumman F-14 Tomcat
+VFA-154	aircraftFighter	F Super Hornet
+No. 330 Squadron RNoAF	aircraftFighter	Republic F-84G Thunderjet
+VMFA	aircraftFighter	A-18 Hornet
+Swifts	aircraftFighter	6
+No. 93 Squadron RAAF	aircraftFighter	Bristol Beaufighter
+No. 81 Wing RAAF	aircraftFighter	A-18 Hornet
+409 Tactical Fighter Squadron	aircraftFighter	CF-18 Hornet
+101 Squadron	aircraftFighter	F-16
+105 Squadron	aircraftFighter	F-16
+106 Squadron	aircraftFighter	F-15 Eagle
+107 Squadron	aircraftFighter	F-16I Sufa
+109 Squadron	aircraftFighter	F-16
+National Air Force of Angola	aircraftFighter	Sukhoi Su-27
+National Air Force of Angola	aircraftFighter	Mikoyan-Gurevich MiG-23
+National Air Force of Angola	aircraftFighter	Mikoyan-Gurevich MiG-21
+VMFA	aircraftFighter	F6F Hellcat
+VMFA	aircraftFighter	F7F Tigercat
+VMFA	aircraftFighter	F2H Banshee
+VMFA	aircraftFighter	F9F Cougar
+VMFA	aircraftFighter	A-18 Hornet
+VMFA	aircraftFighter	Grumman F6F Hellcat
+VMFA	aircraftFighter	Vought F4U Corsair
+VMFA	aircraftFighter	A-18 Hornet
+Kommando Nowotny	aircraftFighter	Messerschmitt Me 262
+VMFAT-501	aircraftFighter	F4U Corsair
+VMFAT-501	aircraftFighter	F6F Hellcat
+VMFAT-501	aircraftFighter	F9F Panther
+VMFAT-501	aircraftFighter	FJ Fury
+VMFAT-501	aircraftFighter	F-8 Crusader
+VMFAT-501	aircraftFighter	F-4 Phantom II
+VMFAT-501	aircraftFighter	A-18A Hornet
+VMFAT-501	aircraftFighter	F-35 Lightning II
+California Air National Guard	aircraftFighter	F-16C/D Fighting FalconF-15 Eagle
+Yugoslav Air Force	aircraftFighter	Mikoyan MiG-29
+Yugoslav Air Force	aircraftFighter	Mikoyan-Gurevich MiG-21
+95th Aero Squadron	aircraftFighter	Nieuport 28, 1918Spad XIII, 1918
+Korean People's Army Air Force	aircraftFighter	Chengdu F-7B
+Korean People's Army Air Force	aircraftFighter	Shenyang F-5
+Korean People's Army Air Force	aircraftFighter	Shenyang F-6
+Korean People's Army Air Force	aircraftFighter	MiG-21
+Korean People's Army Air Force	aircraftFighter	Mikoyan-Gurevich MiG-23
+Korean People's Army Air Force	aircraftFighter	MiG-29
+VMFA-531	aircraftFighter	Grumman F7F Tigercat
+VMFA-531	aircraftFighter	Douglas F3D Skynight
+VMFA-531	aircraftFighter	Douglas F4D Skyray
+VMFA-531	aircraftFighter	McDonnell-Douglas F-4 Phantom II
+VMFA-531	aircraftFighter	A-18 Hornet
+VMFT-401	aircraftFighter	IAI Kfir
+VMFT-401	aircraftFighter	F-5 Freedom Fighter
+VFA-97	aircraftFighter	A-18 Hornet
+VFA-97	aircraftFighter	F Super Hornet
+Jagdgeschwader 1	aircraftFighter	Bf 109
+Jagdgeschwader 1	aircraftFighter	Fw 190
+Jagdgeschwader 1	aircraftFighter	Heinkel He 162
+413 Transport and Rescue Squadron	aircraftFighter	Canadair Sabre
+413 Transport and Rescue Squadron	aircraftFighter	Avro CF-100
+VFA-115	aircraftFighter	A-18 Hornet
+VFA-115	aircraftFighter	F Super Hornet
+VFA-94	aircraftFighter	Vought F4U Corsair
+VFA-94	aircraftFighter	Grumman F9F Panther
+VFA-94	aircraftFighter	-3 Fury
+VFA-94	aircraftFighter	Grumman F9F Cougar
+VFA-94	aircraftFighter	A-18 Hornet
+VFA-94	aircraftFighter	F Super Hornet
+VFA-131	aircraftFighter	A-18 Hornet
+VF-53	aircraftFighter	Grumman F9F Panther
+VF-53	aircraftFighter	McDonnell F2H Banshee
+VF-53	aircraftFighter	Douglas F4D Skyray
+VF-53	aircraftFighter	McDonnell F3H Demon
+VF-53	aircraftFighter	Vought F-8 Crusader
+VFA-137	aircraftFighter	A-18 Hornet
+VFA-137	aircraftFighter	F Super Hornet
+VFA-22	aircraftFighter	Grumman F8F Bearcat
+VFA-22	aircraftFighter	Vought F4U Corsair
+VFA-22	aircraftFighter	Grumman F9F Panther
+VFA-22	aircraftFighter	Grumman F-9 Cougar
+VFA-22	aircraftFighter	North American FJ-4 Fury
+VFA-22	aircraftFighter	Douglas A-4 Skyhawk
+VFA-22	aircraftFighter	LTV A-7 Corsair II
+VFA-22	aircraftFighter	A-18 Hornet
+VFA-22	aircraftFighter	F Super Hornet
+VFA-195	aircraftFighter	A-18 Hornet
+VFA-195	aircraftFighter	F Super Hornet
+VFA-113	aircraftFighter	Grumman F8F Bearcat
+VFA-113	aircraftFighter	Vought F4U Corsair
+VFA-113	aircraftFighter	Grumman F9F Panther
+VFA-113	aircraftFighter	Grumman F-9 Cougar
+VFA-113	aircraftFighter	A-18 Hornet
+VFA-113	aircraftFighter	F Super Hornet
+VFA-27	aircraftFighter	A-18 Hornet
+VFA-27	aircraftFighter	F Super Hornet
+VFA-34	aircraftFighter	A-18 Hornet
+VFA-83	aircraftFighter	Vought F4U Corsair
+VFA-83	aircraftFighter	Grumman F8F Bearcat
+VFA-83	aircraftFighter	Grumman F9F Panther
+VFA-83	aircraftFighter	Vought F7U Cutlass
+VFA-83	aircraftFighter	F/A-18C Hornet
+VF-83	aircraftFighter	Grumman F6F Hellcat
+VFA-81	aircraftFighter	Grumman F9F Cougar
+VFA-81	aircraftFighter	A-18 Hornet
+VFA-81	aircraftFighter	F Super Hornet
+VF-62	aircraftFighter	-3 Fury
+VF-62	aircraftFighter	Vought F-8 Crusader
+VFA-106	aircraftFighter	A-18 Hornet
+VFA-106	aircraftFighter	F Super Hornet
+South Vietnam Air Force	aircraftFighter	F8F Bearcat
+South Vietnam Air Force	aircraftFighter	Northrop F-5
+VMA-124	aircraftFighter	F4U Corsair
+VMA-124	aircraftFighter	F-9 Cougar
+VMA-124	aircraftFighter	FJ-4 Fury
+VMF-111	aircraftFighter	Vought VE-7
+VMF-111	aircraftFighter	Boeing FB-1
+VMF-111	aircraftFighter	Curtiss F6C-4
+VMF-111	aircraftFighter	Curtiss F7C-1 Seahawk
+VMF-111	aircraftFighter	Boeing F4B-4
+VMF-111	aircraftFighter	Grumman F3F-2
+VMF-111	aircraftFighter	Grumman F4F Wildcat
+VMF-111	aircraftFighter	Vought F4U Corsair
+VMF-111	aircraftFighter	North American AF-1E Fury
+VMF-111	aircraftFighter	Vought F-8 Crusader
+Ohio Air National Guard	aircraftFighter	General Dynamics F-16 Fighting Falcon
+VMA-141	aircraftFighter	F4U Corsair
+VMF-422	aircraftFighter	Vought F4U Corsair
+Venezuelan Air Force	aircraftFighter	*
+Venezuelan Air Force	aircraftFighter	Sukhoi Su-30
+Venezuelan Air Force	aircraftFighter	F-16 Fighting Falcon
+VMFA-334	aircraftFighter	F9F Panther
+VMFA-334	aircraftFighter	FJ Fury
+VMFA-334	aircraftFighter	F-8 Crusader
+VMFA-334	aircraftFighter	F-4 Phantom II
+VF-202	aircraftFighter	Vought F-8 Crusader
+VF-202	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VF-202	aircraftFighter	Grumman F-14 Tomcat
+VF-301	aircraftFighter	Vought F-8 Crusader
+VF-301	aircraftFighter	McDonnell-Douglas F-4 Phantom II
+VF-301	aircraftFighter	Grumman F-14 Tomcat
+VF-302	aircraftFighter	Vought F-8 Crusader
+VF-302	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VF-302	aircraftFighter	Grumman F-14 Tomcat
+Yemeni Air Force	aircraftFighter	Mikoyan MiG-29
+Yemeni Air Force	aircraftFighter	Northrop F-5
+Yemeni Air Force	aircraftFighter	Mikoyan-Gurevich MiG-21
+Sri Lanka Air Force	aircraftFighter	IAI Kfir
+Sri Lanka Air Force	aircraftFighter	F-7 Skybolt
+Sri Lanka Air Force	aircraftFighter	Chengdu J-7
+Colombian Air Force	aircraftFighter	IAI Kfir
+Ecuadorian Air Force	aircraftFighter	Atlas Cheetah
+Ecuadorian Air Force	aircraftFighter	IAI Kfir
+Sagar Pawan	aircraftFighter	4
+Taktisches Luftwaffengeschwader 74	aircraftFighter	Formerly: F-86K Sabre, F-104G Starfighter, F-4F Phantom II
+Taktisches Luftwaffengeschwader 74	aircraftFighter	Present: Eurofighter Typhoon
+VMF	aircraftFighter	F4U Corsair
+VMF	aircraftFighter	F9F Cougar
+VMF	aircraftFighter	F2H Banshee
+VMF	aircraftFighter	F4D Skyray
+Jagdgeschwader 7	aircraftFighter	Messerschmitt Me 262
+Algerian Air Force	aircraftFighter	Sukhoi Su-30
+Algerian Air Force	aircraftFighter	Mikoyan MiG-29
+Algerian Air Force	aircraftFighter	Sukhoi Su-24
+Algerian Air Force	aircraftFighter	MiG-25
+Libyan Air Force	aircraftFighter	MiG-21
+Libyan Air Force	aircraftFighter	Dassault Mirage F1
+Libyan Air Force	aircraftFighter	MiG-23
+Royal Air Force of Oman	aircraftFighter	F-16
+Royal Air Force of Oman	aircraftFighter	British Aerospace Hawk 200
+Ethiopian Air Force	aircraftFighter	Mikoyan-Gurevich MiG-21
+Ethiopian Air Force	aircraftFighter	Mikoyan-Gurevich MiG-23
+Ethiopian Air Force	aircraftFighter	Sukhoi Su-27
+Arizona Air National Guard	aircraftFighter	General Dynamics F-16 Fighting Falcon
+Tunisian Air Force	aircraftFighter	F-5 Tiger
+Royal Moroccan Air Force	aircraftFighter	Dassault Mirage F1
+Royal Moroccan Air Force	aircraftFighter	Lockheed F-16 Fighting Falcon
+Royal Moroccan Air Force	aircraftFighter	Northrop F-5
+VFA-105	aircraftFighter	F Super Hornet
+VFA-125	aircraftFighter	A-18 Hornet
+VFA-192	aircraftFighter	Grumman F6F Hellcat
+VFA-192	aircraftFighter	Grumman F8F Bearcat
+VFA-192	aircraftFighter	Vought F4U Corsair
+VFA-192	aircraftFighter	Grumman F9F Panther
+VFA-192	aircraftFighter	Grumman F-9 Cougar
+VFA-192	aircraftFighter	A-18 Hornet
+VFA-192	aircraftFighter	F Super Hornet
+1 Canadian Air Division	aircraftFighter	CF-188 Hornet
+VFA-136	aircraftFighter	A-18 Hornet
+VFA-136	aircraftFighter	F Super Hornet
+Indonesian Air Force	aircraftFighter	F-16
+Indonesian Air Force	aircraftFighter	Su-30MKK
+Indonesian Air Force	aircraftFighter	Su-27
+VFP-62	aircraftFighter	F8F Bearcat
+VFP-62	aircraftFighter	F4U Corsair
+VFP-62	aircraftFighter	F2H Banshee
+VFP-62	aircraftFighter	F9F Cougar
+VFP-62	aircraftFighter	F-8 Crusader
+Belarusian Air Force	aircraftFighter	MiG-29
+Bulgarian Air Force	aircraftFighter	MiG-29
+Taktisches Luftwaffengeschwader 73	aircraftFighter	Formerly: Canadair Sabre, Mikoyan MiG-29, F-4 Phantom II
+Taktisches Luftwaffengeschwader 73	aircraftFighter	Present: Eurofighter Typhoon,
+Myanmar Air Force	aircraftFighter	Chengdu J-7
+Eritrean Air Force	aircraftFighter	MiG-29
+Eritrean Air Force	aircraftFighter	Su-27
+Eritrean Air Force	aircraftFighter	MiG-21
+419th Fighter Wing	aircraftFighter	F-16C Fighting Falcon
+27th Aero Squadron	aircraftFighter	Sopwith F-1 Camel, 1918Nieuport 28, 1918Spad XIII, 1918–1919
+Wisconsin Air National Guard	aircraftFighter	F-16 Fighting Falcon
+Arkansas Air National Guard	aircraftFighter	A-10A Thunderbolt II
+District of Columbia Air National Guard	aircraftFighter	General Dynamics F-16 Fighting Falcon
+VFC-111	aircraftFighter	Northrop F-5
+301st Fighter Wing	aircraftFighter	D Fighting Falcon
+Iowa Air National Guard	aircraftFighter	General Atomics MQ-9 Reaper
+144th Fighter Wing	aircraftFighter	21
+No. 457 Squadron RAAF	aircraftFighter	Supermarine Spitfire
+Air Force of Serbia and Montenegro	aircraftFighter	Mikoyan MiG-29
+Air Force of Serbia and Montenegro	aircraftFighter	Mikoyan-Gurevich MiG-21
+Royal Yugoslav Air Force	aircraftFighter	Hawker Hurricane
+Royal Yugoslav Air Force	aircraftFighter	Ikarus IK-2
+Royal Yugoslav Air Force	aircraftFighter	Hawker Fury Mk.II
+Royal Yugoslav Air Force	aircraftFighter	Messerschmitt Bf 109
+Royal Yugoslav Air Force	aircraftFighter	Rogožarski IK-3
+No. 78 Squadron RAAF	aircraftFighter	Curtiss P-40 Warhawk
+No. 78 Squadron RAAF	aircraftFighter	North American P-51 Mustang
+No. 456 Squadron RAAF	aircraftFighter	Boulton Paul Defiant
+No. 456 Squadron RAAF	aircraftFighter	Bristol Beaufighter
+No. 456 Squadron RAAF	aircraftFighter	De Havilland Mosquito
+Oklahoma Air National Guard	aircraftFighter	D Fighting Falcon
+Aviazione Legionaria	aircraftFighter	Fiat CR.32
+Aviazione Legionaria	aircraftFighter	Fiat G.50
+United Arab Emirates Air Force	aircraftFighter	General Dynamics F-16 Fighting Falcon variants
+United Arab Emirates Air Force	aircraftFighter	Dassault Mirage 2000
+Czechoslovak Air Force	aircraftFighter	Avia B-534
+Czechoslovak Air Force	aircraftFighter	Avia S-199
+Czechoslovak Air Force	aircraftFighter	MiG-15
+Czechoslovak Air Force	aircraftFighter	MiG-19
+Czechoslovak Air Force	aircraftFighter	MiG-29
+Slovak Air Force	aircraftFighter	MiG-29
+No. 80 Squadron RAAF	aircraftFighter	Curtiss P-40
+Spanish Republican Air Force	aircraftFighter	Hawker Fury
+Spanish Republican Air Force	aircraftFighter	Bristol Bulldog
+Spanish Republican Air Force	aircraftFighter	Blériot-SPAD S.51
+Spanish Republican Air Force	aircraftFighter	Blériot-SPAD S.91
+Spanish Republican Air Force	aircraftFighter	Dewoitine D.510
+Spanish Republican Air Force	aircraftFighter	Fokker D.XXI
+Spanish Republican Air Force	aircraftFighter	Martinsyde Buzzard
+Spanish Republican Air Force	aircraftFighter	Nieuport-Delage NiD 52
+Spanish Republican Air Force	aircraftFighter	Avia BH-33
+Spanish Republican Air Force	aircraftFighter	Dewoitine D.372
+Spanish Republican Air Force	aircraftFighter	Polikarpov I-15
+Spanish Republican Air Force	aircraftFighter	Polikarpov I-16
+Spanish Republican Air Force	aircraftFighter	Grumman FF
+Spanish Republican Air Force	aircraftFighter	Letov Š-31
+Spanish Republican Air Force	aircraftFighter	Letov Š-231
+Spanish Republican Air Force	aircraftFighter	Letov Š-331
+Spanish Republican Air Force	aircraftFighter	Loire 46
+Spanish Republican Air Force	aircraftFighter	Fw 56
+VFA-122	aircraftFighter	A-18 Hornet
+VFA-122	aircraftFighter	F Super Hornet
+482nd Fighter Wing	aircraftFighter	F-16C Fighting Falcon
+F 17 Kallinge	aircraftFighter	Saab 35 Draken
+F 17 Kallinge	aircraftFighter	Saab 37 Viggen
+F 17 Kallinge	aircraftFighter	JAS 39 Gripen
+No. 5 Operational Training Unit RAAF	aircraftFighter	Bristol Beaufighter
+No. 5 Operational Training Unit RAAF	aircraftFighter	North American P-51 Mustang
+No. 5 Operational Training Unit RAAF	aircraftFighter	CAC Sabre
+6th Air Army	aircraftFighter	Su-27
+No. 82 Squadron RAAF	aircraftFighter	Curtiss P-40 Warhawk
+No. 82 Squadron RAAF	aircraftFighter	Bell P-39 Airacobra
+No. 82 Squadron RAAF	aircraftFighter	North American P-51 Mustang
+10th Tactical Wing	aircraftFighter	F-16 Fighting Falcon
+2nd Tactical Wing	aircraftFighter	F-16 Fighting Falcon
+31st Squadron	aircraftFighter	F-16 Fighting Falcon
+1st Squadron	aircraftFighter	F-16 Fighting Falcon
+403 Helicopter Operational Training Squadron	aircraftFighter	Curtiss P-40 Warhawk
+403 Helicopter Operational Training Squadron	aircraftFighter	Supermarine Spitfire
+403 Helicopter Operational Training Squadron	aircraftFighter	North American P-51 Mustang
+154th Wing	aircraftFighter	F-22A Raptor
+137th Air Refueling Wing	aircraftFighter	F-51
+137th Air Refueling Wing	aircraftFighter	Lockheed P-80 Shooting Star
+137th Air Refueling Wing	aircraftFighter	F-84
+137th Air Refueling Wing	aircraftFighter	F-86
+No. 86 Squadron RAAF	aircraftFighter	Curtiss P-40 Warhawk
+No. 86 Squadron RAAF	aircraftFighter	North American P-51 Mustang
+414th Fighter Group	aircraftFighter	F-15E Strike Eagle
+F 16 Uppsala	aircraftFighter	FFVS J 22
+F 16 Uppsala	aircraftFighter	P-51 Mustang
+F 16 Uppsala	aircraftFighter	Saab Tunnan
+F 16 Uppsala	aircraftFighter	Saab 35 Draken
+F 16 Uppsala	aircraftFighter	Saab 37 Viggen
+F 13 Norrköping	aircraftFighter	Fiat CR.42
+F 13 Norrköping	aircraftFighter	FFVS J 22
+F 13 Norrköping	aircraftFighter	De Havilland Vampire
+F 13 Norrköping	aircraftFighter	Saab Tunnan
+F 13 Norrköping	aircraftFighter	Saab Lansen
+F 13 Norrköping	aircraftFighter	Saab 35 Draken
+F 13 Norrköping	aircraftFighter	Saab 37 Viggen
+No. 151 Wing RAF	aircraftFighter	Hawker Hurricane
+F 1 Hässlö	aircraftFighter	Phönix D.I
+F 1 Hässlö	aircraftFighter	Heinkel HD 19
+F 1 Hässlö	aircraftFighter	Svenska Aero Jaktfalken
+F 1 Hässlö	aircraftFighter	Bristol Bulldog
+F 1 Hässlö	aircraftFighter	Gloster Gladiator
+F 1 Hässlö	aircraftFighter	De Havilland Mosquito
+F 1 Hässlö	aircraftFighter	De Havilland Venom
+F 1 Hässlö	aircraftFighter	Saab 32 Lansen
+F 1 Hässlö	aircraftFighter	Saab 35 Draken
+No. 9 Operational Group RAAF	aircraftFighter	Curtiss P-40 Warhawk variants
+F 4 Frösön	aircraftFighter	P-51 Mustang
+F 4 Frösön	aircraftFighter	De Havilland Vampire
+F 4 Frösön	aircraftFighter	Saab Tunnan
+F 4 Frösön	aircraftFighter	Saab 32 Lansen
+F 4 Frösön	aircraftFighter	Saab 35 Draken
+F 4 Frösön	aircraftFighter	Saab 37 Viggen
+F 4 Frösön	aircraftFighter	JAS 39 Gripen
+Jagdgeschwader 11	aircraftFighter	Bf 109
+Jagdgeschwader 11	aircraftFighter	Fw 190
+Air Force of the Independent State of Croatia	aircraftFighter	Ikarus IK-2
+Air Force of the Independent State of Croatia	aircraftFighter	Fiat G.50
+Air Force of the Independent State of Croatia	aircraftFighter	Morane-Saulnier M.S.406
+Air Force of the Independent State of Croatia	aircraftFighter	Messerschmitt Bf 109
+Air Force of the Independent State of Croatia	aircraftFighter	Macchi C.202
+926th Wing	aircraftFighter	F-22 RaptorF-16 Fighting FalconF-15 Eagle
+F 5 Ljungbyhed	aircraftFighter	Phönix D.I
+F 5 Ljungbyhed	aircraftFighter	Nieuport-Delage NiD 29
+F 5 Ljungbyhed	aircraftFighter	Fokker C.V
+F 5 Ljungbyhed	aircraftFighter	Svenska Aero Jaktfalken
+F 5 Ljungbyhed	aircraftFighter	Bristol Bulldog
+F 5 Ljungbyhed	aircraftFighter	Seversky P-35
+F 5 Ljungbyhed	aircraftFighter	De Havilland Vampire
+F 7 Såtenäs	aircraftFighter	JAS 39 Gripen
+VMA-217	aircraftFighter	F4F Wildcat
+VMA-217	aircraftFighter	F4U Corsair
+VMA-217	aircraftFighter	F6F Hellcat
+VMF-215	aircraftFighter	F4F Wildcat
+VMF-215	aircraftFighter	F4U Corsair
+VMF-215	aircraftFighter	F6F Hellcat
+F 8 Barkarby	aircraftFighter	Svenska Aero Jaktfalken
+F 8 Barkarby	aircraftFighter	Bristol Bulldog
+F 8 Barkarby	aircraftFighter	Gloster Gladiator
+F 8 Barkarby	aircraftFighter	Seversky P-35
+F 8 Barkarby	aircraftFighter	Saab 21
+F 8 Barkarby	aircraftFighter	FFVS J 22
+F 8 Barkarby	aircraftFighter	North American P-51 Mustang
+F 8 Barkarby	aircraftFighter	De Havilland Vampire
+F 8 Barkarby	aircraftFighter	Saab Tunnan
+F 8 Barkarby	aircraftFighter	Hawker Hunter
+F 9 Säve	aircraftFighter	Gloster Gladiator
+F 9 Säve	aircraftFighter	Fiat CR.42
+F 9 Säve	aircraftFighter	Saab 21
+F 9 Säve	aircraftFighter	FFVS J 22
+F 9 Säve	aircraftFighter	De Havilland Vampire
+F 9 Säve	aircraftFighter	Saab Tunnan
+F 9 Säve	aircraftFighter	Hawker Hunter
+F 10 Ängelholm	aircraftFighter	Gloster Gladiator
+F 10 Ängelholm	aircraftFighter	Reggiane Re.2000
+F 10 Ängelholm	aircraftFighter	Saab 21R
+F 10 Ängelholm	aircraftFighter	FFVS J 22
+F 10 Ängelholm	aircraftFighter	De Havilland Vampire
+F 10 Ängelholm	aircraftFighter	Saab Tunnan
+F 10 Ängelholm	aircraftFighter	Hawker Hunter
+F 10 Ängelholm	aircraftFighter	Saab 35 Draken
+F 10 Ängelholm	aircraftFighter	Saab 37 Viggen
+F 10 Ängelholm	aircraftFighter	JAS 39 Gripen
+F 12 Kalmar	aircraftFighter	Saab 21
+F 12 Kalmar	aircraftFighter	Saab Tunnan
+F 12 Kalmar	aircraftFighter	Saab 32 Lansen
+F 12 Kalmar	aircraftFighter	Saab 35 Draken
+VMF-222	aircraftFighter	T-6 Texan
+VMF-222	aircraftFighter	F4U Corsair
+VMF-413	aircraftFighter	F-8 Crusader
+VMF-511	aircraftFighter	F4U Corsair
+VMF-511	aircraftFighter	F6F Hellcat
+VMF-511	aircraftFighter	F-8 Crusader
+VMF-441	aircraftFighter	T-6 Texan
+VMF-441	aircraftFighter	F4F Wildcat
+VMF-441	aircraftFighter	F4U Corsair
+VMA-233	aircraftFighter	F4U Corsair
+VMA-233	aircraftFighter	FH Phantom
+VMA-233	aircraftFighter	F-9 Cougar
+VMA-233	aircraftFighter	F2H Banshee
+477th Fighter Group	aircraftFighter	F-22A Raptor
+Jagdgeschwader 300	aircraftFighter	Bf 109
+Jagdgeschwader 300	aircraftFighter	Fw 190
+Massachusetts Air National Guard	aircraftFighter	McDonnell Douglas F-15 Eagle
+Vermont Air National Guard	aircraftFighter	General Dynamics F-16 Fighting Falcon
+Vermont Air National Guard	aircraftFighter	Lockheed Martin F-35 Lightning II
+RSAF Black Knights	aircraftFighter	Six F-16C Fighting Falcons
+410 Tactical Fighter Operational Training Squadron	aircraftFighter	CF-18 Hornet
+416 Tactical Fighter Squadron	aircraftFighter	CF-18 Hornet
+Hawaii Air National Guard	aircraftFighter	F-22 Raptor
+Indiana Air National Guard	aircraftFighter	Fairchild A-10 Thunderbolt II
+Florida Air National Guard	aircraftFighter	Lockheed Martin F-22 Raptor
+Florida Air National Guard	aircraftFighter	McDonnell Douglas F-15 Eagle
+South Carolina Air National Guard	aircraftFighter	General Dynamics F-16 Fighting Falcon
+Louisiana Air National Guard	aircraftFighter	D Eagle
+Minnesota Air National Guard	aircraftFighter	General Dynamics F-16 Fighting Falcon
+Virginia Air National Guard	aircraftFighter	F-22A Raptor
+South Dakota Air National Guard	aircraftFighter	F-16 Fighting Falcon
+Blue Diamonds	aircraftFighter	1953
+Blue Diamonds	aircraftFighter	North American P-51 Mustang
+Blue Diamonds	aircraftFighter	1957
+Blue Diamonds	aircraftFighter	North American F-86 Sabre
+Blue Diamonds	aircraftFighter	1968
+Blue Diamonds	aircraftFighter	Northrop F-5
+13th Aero Squadron	aircraftFighter	SPAD XIII, 1918
+Nachtjagdgeschwader 1	aircraftFighter	Messerschmitt Bf 109
+Nachtjagdgeschwader 1	aircraftFighter	Messerschmitt Bf 110
+Nachtjagdgeschwader 1	aircraftFighter	Junkers Ju 88
+Nachtjagdgeschwader 1	aircraftFighter	Heinkel He 219
+Nachtjagdgeschwader 2	aircraftFighter	Junkers Ju 88
+Nachtjagdgeschwader 2	aircraftFighter	Junkers Ju 388
+VMF-452	aircraftFighter	F4U Corsair
+01.002 Fighter Squadron %22Storks%22	aircraftFighter	Dassault Mirage 2000
+List of Syrian Air Force bases	aircraftFighter	Mikoyan MiG-29
+List of Syrian Air Force bases	aircraftFighter	Mikoyan-Gurevich MiG-23
+List of Syrian Air Force bases	aircraftFighter	MiG-21
+VA-46	aircraftFighter	F9F Panther
+VA-46	aircraftFighter	F-9 Cougar
+99th Aero Squadron	aircraftFighter	Sopwith 1½ Strutter, 1918
+736 Naval Air Squadron	aircraftFighter	Supermarine Seafire
+736 Naval Air Squadron	aircraftFighter	Fairey Firefly
+736 Naval Air Squadron	aircraftFighter	Supermarine Attacker
+736 Naval Air Squadron	aircraftFighter	Supermarine Scimitar
+VF-42	aircraftFighter	Vought SBU Corsair
+VF-42	aircraftFighter	F4F Wildcat
+VF-12	aircraftFighter	F6F Hellcat
+3rd Tactical Squadron	aircraftFighter	F-16
+1st Tactical Squadron	aircraftFighter	MiG-29
+10th Tactical Squadron	aircraftFighter	F-16
+41st Tactical Squadron	aircraftFighter	MiG-29
+31st Tactical Air Base	aircraftFighter	F-16
+201 Squadron	aircraftFighter	F-86 Sabre
+201 Squadron	aircraftFighter	Fiat G.91
+201 Squadron	aircraftFighter	F-16 Fighting Falcon
+301 Squadron	aircraftFighter	Fiat G.91
+301 Squadron	aircraftFighter	F-16 Fighting Falcon
+304 Squadron	aircraftFighter	A-7 Corsair II
+425 Tactical Fighter Squadron	aircraftFighter	*
+425 Tactical Fighter Squadron	aircraftFighter	Avro Canada CF-100 Canuck
+425 Tactical Fighter Squadron	aircraftFighter	McDonnell CF-101 Voodoo
+425 Tactical Fighter Squadron	aircraftFighter	McDonnell Douglas CF-18 Hornet
+VFA-204	aircraftFighter	A-18 Hornet
+110 Squadron	aircraftFighter	F-16
+117 Squadron	aircraftFighter	F-16
+119 Squadron	aircraftFighter	F-16 Fighting Falcon variants
+410th Flight Test Squadron	aircraftFighter	F-117 Nighthawk
+411th Flight Test Squadron	aircraftFighter	F-22 RaptorNorthrop YF-23
+No. 150 Squadron RAF	aircraftFighter	Bristol M.1c
+No. 150 Squadron RAF	aircraftFighter	Royal Aircraft Factory SE.5a
+No. 150 Squadron RAF	aircraftFighter	Sopwith Camel
+461st Flight Test Squadron	aircraftFighter	F-35 Lightning II
+514th Flight Test Squadron	aircraftFighter	F-16 Fighting Falcon
+No. 11 Group RAAF	aircraftFighter	Supermarine Spitfire
+No. 11 Group RAAF	aircraftFighter	Curtiss P-40
+Polish 9th Fighter Regiment	aircraftFighter	Mikoyan-Gurevich MiG-15
+Polish 9th Fighter Regiment	aircraftFighter	Mikoyan-Gurevich MiG-17
+Polish 9th Fighter Regiment	aircraftFighter	Mikoyan-Gurevich MiG-21
+Polish 9th Fighter Regiment	aircraftFighter	Yakovlev Yak-1
+Polish 9th Fighter Regiment	aircraftFighter	Yakovlev Yak-7
+Polish 9th Fighter Regiment	aircraftFighter	Yakovlev Yak-9
+Polish 9th Fighter Regiment	aircraftFighter	Yakovlev Yak-23
+VMF-218	aircraftFighter	F4U Corsair
+VMF-218	aircraftFighter	FJ Fury
+VMF-218	aircraftFighter	F9F Cougar
+No. 40 Wing RAF	aircraftFighter	Bristol F.2 Fighter
+No. 40 Wing RAF	aircraftFighter	Royal Aircraft Factory S.E.5
+VMF-236	aircraftFighter	F4U Corsair
+VMF-236	aircraftFighter	F-9 Cougar
+VMF-236	aircraftFighter	F2H Banshee
+VMA-543	aircraftFighter	F6F Hellcat
+VMA-543	aircraftFighter	F9F Cougar
+Zerstörergeschwader 76	aircraftFighter	Bf 109
+Zerstörergeschwader 76	aircraftFighter	Bf 110
+Zerstörergeschwader 26	aircraftFighter	Bf 109
+Zerstörergeschwader 26	aircraftFighter	Bf 110
+Zerstörergeschwader 26	aircraftFighter	Me 410
+53d Test and Evaluation Group	aircraftFighter	F-15 Eagle
+53d Test and Evaluation Group	aircraftFighter	F-16 Fighting Falcon
+53d Test and Evaluation Group	aircraftFighter	F-22 Raptor
+Second VA-75	aircraftFighter	F4U Corsair
+VF-73	aircraftFighter	Grumman F8F Bearcat
+VF-73	aircraftFighter	Chance Vought F4U Corsair
+VF-73	aircraftFighter	F9F Panther
+VF-73	aircraftFighter	Grumman F6F Hellcat
+VF-73	aircraftFighter	McDonnell F2H Banshee
+VF-73	aircraftFighter	Grumman F-9 Cougar
+VF-73	aircraftFighter	-3 Fury
+Jagdgeschwader 134	aircraftFighter	Arado Ar 65
+Jagdgeschwader 134	aircraftFighter	Arado Ar 68
+Jagdgeschwader 134	aircraftFighter	Messerschmitt Bf 109
+88th Aero Squadron	aircraftFighter	Sopwith 1½ Strutter, 1918
+Jagdgeschwader 301	aircraftFighter	Bf 109
+Jagdgeschwader 301	aircraftFighter	FW 190
+Jagdgeschwader 301	aircraftFighter	Ta 152
+F 21 Luleå	aircraftFighter	Saab 32 Lansen
+F 21 Luleå	aircraftFighter	J 35 Draken
+F 21 Luleå	aircraftFighter	JA 37
+F 21 Luleå	aircraftFighter	AJ 37, AJS 37, AJSF 37, AJSH 37, JAS 39
+Solo Display Team	aircraftFighter	General Dynamics F-16 Fighting Falcon
+No. 71 Wing RAAF	aircraftFighter	Curtiss P-40 Warhawk
+44th Fighter Group	aircraftFighter	F-22A Raptor
+301st Operations Group	aircraftFighter	D Fighting Falcon
+Jagdgeschwader 400	aircraftFighter	Me 163
+VMFA-124	aircraftFighter	F4U Corsair
+VMFA-124	aircraftFighter	F-9 Cougar
+VMFA-124	aircraftFighter	FJ-4 Fury
+201 Squadron	aircraftFighter	F-16 Fighting Falcon
+25th Aero Squadron	aircraftFighter	Royal Aircraft Factory SE-5A, 1918-1919
+49th Aero Squadron	aircraftFighter	SPAD S.XIII, 1918
+F 15 Söderhamn	aircraftFighter	Saab J21
+F 15 Söderhamn	aircraftFighter	De Havilland Vampire
+F 15 Söderhamn	aircraftFighter	Saab 29 Tunnan
+802 Naval Air Squadron	aircraftFighter	Hawker Nimrod
+802 Naval Air Squadron	aircraftFighter	Hawker Hart
+802 Naval Air Squadron	aircraftFighter	Gloster Gladiator
+802 Naval Air Squadron	aircraftFighter	Grumman F4F Wildcat
+802 Naval Air Squadron	aircraftFighter	Hawker Hurricane
+802 Naval Air Squadron	aircraftFighter	Supermarine Seafire
+802 Naval Air Squadron	aircraftFighter	Hawker Sea Fury
+802 Naval Air Squadron	aircraftFighter	Hawker Sea Hawk
+VF-66	aircraftFighter	Ryan FR Fireball
+No. 80 Wing RAAF	aircraftFighter	Supermarine Spitfire
+No. 96 Squadron RAF	aircraftFighter	December 1940 - March 1942: Hawker Hurricane
+No. 96 Squadron RAF	aircraftFighter	February 1941 - June 1942: Boulton Paul Defiant
+No. 96 Squadron RAF	aircraftFighter	May 1942 - June 1943: Bristol Beaufighter
+No. 96 Squadron RAF	aircraftFighter	June 1943 - December 1944: de Havilland Mosquito
+103d Aero Squadron	aircraftFighter	Spad VII, 1918
+103d Aero Squadron	aircraftFighter	Spad XIII, 1918
+9th Aero Squadron	aircraftFighter	Sopwith Camel, 1917Sopwith Scout, 1917
+17th Aero Squadron	aircraftFighter	Sopwith F-1 CamelSPAD S.XI
+24th Aero Squadron	aircraftFighter	Spad XIII, 1919
+28th Aero Squadron	aircraftFighter	SPAD S.VII, 1918–1919SPAD S.XIII, 1918–1919
+90th Aero Squadron	aircraftFighter	Sopwith 1½ Strutter, 1918SPAD S.XI, 1918-1919
+41st Aero Squadron	aircraftFighter	Sopwith Camel F.1, 1918–1919
+91st Aero Squadron	aircraftFighter	Spad XIII, 1918-1919
+148th Aero Squadron	aircraftFighter	Sopwith F-1 CamelSPAD S.XI
+No. 1422 Flight RAF	aircraftFighter	Douglas Havoc
+No. 1422 Flight RAF	aircraftFighter	Douglas Boston
+No. 1422 Flight RAF	aircraftFighter	de Havilland Mosquito Mk.II
+No. 1422 Flight RAF	aircraftFighter	Boulton Paul Defiant
+No. 1422 Flight RAF	aircraftFighter	Hawker Hurricane
+VF-121	aircraftFighter	5 Panther
+VF-121	aircraftFighter	-3 Fury
+VF-121	aircraftFighter	8 Cougar
+VF-121	aircraftFighter	McDonnell F2H-3 Banshee
+VF-121	aircraftFighter	Grumman F11F-1 Tiger
+VF-121	aircraftFighter	Douglas F3D-2T2 Skynight
+VF-121	aircraftFighter	McDonnell F3H Demon
+VF-121	aircraftFighter	McDonnell Douglas F-4 Phantom II
+93d Aero Squadron	aircraftFighter	SPAD VII, 1918SPAD XIII, 1918
+138th Aero Squadron	aircraftFighter	Sopwith Camel F.1, 1918–1919
+139th Aero Squadron	aircraftFighter	Nieuport 28, 1918SPAD VII, 1918SPAD XIII, 1918-1919
+147th Aero Squadron	aircraftFighter	Nieuport 28 Royal Aircraft Factory S.E.5Airco DH.4Spad XIII
+No. 73 Wing RAAF	aircraftFighter	Curtiss P-40 Warhawk
+No. 73 Wing RAAF	aircraftFighter	Supermarine Spitfire
+Jagdgeschwader 76	aircraftFighter	Bf 109
+439 Combat Support Squadron	aircraftFighter	Hawker Hurricane
+439 Combat Support Squadron	aircraftFighter	Hawker Typhoon
+439 Combat Support Squadron	aircraftFighter	North American F-86 Sabre
+439 Combat Support Squadron	aircraftFighter	Canadair CF-104 Starfighter
+439 Combat Support Squadron	aircraftFighter	McDonnell Douglas CF-18 Hornet
+No. 98 Squadron RAF	aircraftFighter	Hawker Hunter
+Zerstörergeschwader 1	aircraftFighter	Bf 109
+Zerstörergeschwader 1	aircraftFighter	Bf 110
+Zerstörergeschwader 1	aircraftFighter	Me 210
+Philippine Air Force	aircraftFighter	FA-50
+Patriots Jet Team	aircraftFighter	2
+Patriots Jet Team	aircraftFighter	*Note – aircraft not currently used in demonstrations
+115 Squadron	aircraftFighter	F-16 Fighting Falcon
+VX-30	aircraftFighter	F-4 Phantom
+VX-30	aircraftFighter	F-14 Tomcat
+VX-30	aircraftFighter	A-18 Hornet
+4477th Test and Evaluation Squadron	aircraftFighter	Mikoyan-Gurevich MiG-17, MiG-21 and MiG-23.
+253 Squadron	aircraftFighter	Lockheed Martin F-16I Sufa
+Carrier Strike Group 10	aircraftFighter	F Super Hornet
+Carrier Strike Group 10	aircraftFighter	A-18 Hornet
+Carrier Strike Group 11	aircraftFighter	F Super Hornet
+Carrier Strike Group 11	aircraftFighter	A-18 Hornet
+Carrier Strike Group 1	aircraftFighter	F Super Hornet
+Carrier Strike Group 1	aircraftFighter	A-18 Hornet
+Carrier Strike Group 2	aircraftFighter	F Super Hornet
+Carrier Strike Group 2	aircraftFighter	A-18 Hornet
+No. 127 Wing RCAF	aircraftFighter	Supermarine Spitfire Mk.IX
+Carrier Strike Group 3	aircraftFighter	F Super Hornet
+Carrier Strike Group 3	aircraftFighter	A-18 Hornet
+No. 131 Wing RAF	aircraftFighter	Supermarine Spitfire Mk.IX
+22d Aero Squadron	aircraftFighter	SPAD S.XIII, 1918&ndash;1919
+Blue Squadron	aircraftFighter	Focke-Wulf Fw 190
+Blue Squadron	aircraftFighter	Bf 109
+No. 79 Wing RAAF	aircraftFighter	Bristol Beaufighter
+No. 79 Wing RAAF	aircraftFighter	Curtiss P-40 variants
+No. 72 Wing RAAF	aircraftFighter	Curtiss P-40 Warhawk
+No. 72 Wing RAAF	aircraftFighter	CAC Boomerang
+No. 318 Polish Fighter-Reconnaissance Squadron	aircraftFighter	Hawker Hurricane
+No. 318 Polish Fighter-Reconnaissance Squadron	aircraftFighter	Supermarine Spitfire
+Vietnam People's Air Force	aircraftFighter	Sukhoi Su-30
+Vietnam People's Air Force	aircraftFighter	Sukhoi Su-27
+No. 9 Squadron	aircraftFighter	Hawker Hurricane
+No. 9 Squadron	aircraftFighter	Hawker Tempest II
+No. 9 Squadron	aircraftFighter	Hawker Fury
+No. 9 Squadron	aircraftFighter	F-104 Starfighter
+No. 9 Squadron	aircraftFighter	Dassault Mirage 5
+No. 9 Squadron	aircraftFighter	F-16 Fighting Falcon
+National Liberation Army	aircraftFighter	MiG-23
+National Liberation Army	aircraftFighter	MiG-21
+Free Libyan Air Force	aircraftFighter	MiG-23
+Free Libyan Air Force	aircraftFighter	MiG-21
+Free Libyan Air Force	aircraftFighter	Aero L-39 Albatros
+Free Libyan Air Force	aircraftFighter	Soko J-21 Jastreb
+No. 11 Squadron	aircraftFighter	Supermarine Attacker
+No. 11 Squadron	aircraftFighter	F-86F Sabre
+No. 11 Squadron	aircraftFighter	Shenyang F-6
+No. 11 Squadron	aircraftFighter	F-16 Fighting Falcon
+01.007 Fighter Squadron %22Provence%22	aircraftFighter	Dassault Rafale
+03.003 Fighter Squadron %22Ardennes%22	aircraftFighter	2000D
+No. 28 Squadron IAF	aircraftFighter	Mig-21
+No. 28 Squadron IAF	aircraftFighter	Mig-29
+120 Squadron Royal Netherlands Air Force	aircraftFighter	Curtiss P-40 Warhawk
+120 Squadron Royal Netherlands Air Force	aircraftFighter	North American P-51 Mustang
+No. 7 Squadron	aircraftFighter	Dassault Mirage III
+No. 7 Squadron	aircraftFighter	Project ROSE
+No. 5 Squadron	aircraftFighter	Hawker Tempest
+No. 5 Squadron	aircraftFighter	Hawker Fury
+No. 5 Squadron	aircraftFighter	F-86 Sabre
+No. 5 Squadron	aircraftFighter	Dassault Mirage III
+No. 5 Squadron	aircraftFighter	F-16C/D Block 52+
+No. 26 Squadron	aircraftFighter	Shenyang F-6
+No. 26 Squadron	aircraftFighter	JF-17 Thunder Block 1
+No. 16 Squadron	aircraftFighter	F-86 Sabre
+No. 16 Squadron	aircraftFighter	Shenyang F-6
+No. 16 Squadron	aircraftFighter	JF-17 Thunder Block 1
+Jagdgeschwader 302	aircraftFighter	Bf 109
+Chitose Air Group	aircraftFighter	Mitsubishi A5M Type 96
+VC-10 Challengers	aircraftFighter	F-8 Crusader
+254 Squadron	aircraftFighter	Dassault Mirage III
+254 Squadron	aircraftFighter	IAI Kfir
+Khmer Air Force	aircraftFighter	Shenyang J-5
+Khmer Air Force	aircraftFighter	MiG-17
+No. 2	aircraftFighter	Bristol Beaufighter
+Carrier Strike Group 12	aircraftFighter	F Super Hornet
+Carrier Strike Group 12	aircraftFighter	A-18 Hornet
+Golden Crown	aircraftFighter	4
+Golden Crown	aircraftFighter	6
+149 Squadron	aircraftFighter	A-4 Skyhawk
+149 Squadron	aircraftFighter	IAI Kfir
+Air Defense Weapons Center	aircraftFighter	F-100 Super SabreF-4 Phantom IIF-15 EagleF-16 Fighting Falcon
+495th Fighter Group	aircraftFighter	F-16 Fighting Falcon
+378th Fighter Squadron	aircraftFighter	F-16 Fighting Falcon
+379th Fighter Squadron	aircraftFighter	P-47D ThunderboltP-51H Mustang
+377th Fighter Squadron	aircraftFighter	P-47 ThunderboltP-51 MustangF-16 Fighting Falcon
+71a Squadriglia	aircraftFighter	Nieuport 10
+71a Squadriglia	aircraftFighter	Nieuport 11
+71a Squadriglia	aircraftFighter	Spad VII
+71a Squadriglia	aircraftFighter	Nieuport 17
+71a Squadriglia	aircraftFighter	Hanriot HD.1
+76a Squadriglia	aircraftFighter	Nieuport 11
+76a Squadriglia	aircraftFighter	Hanriot HD.1
+77a Squadriglia	aircraftFighter	Nieuport 10
+77a Squadriglia	aircraftFighter	Nieuport 17
+77a Squadriglia	aircraftFighter	Spad VII
+78a Squadriglia	aircraftFighter	Nieuport 10
+78a Squadriglia	aircraftFighter	Nieuport 11
+78a Squadriglia	aircraftFighter	Hanriot
+80a Squadriglia	aircraftFighter	Nieuport 11
+80a Squadriglia	aircraftFighter	Hanriot
+79a Squadriglia	aircraftFighter	Nieuport 11
+79a Squadriglia	aircraftFighter	Nieuport 17
+79a Squadriglia	aircraftFighter	Nieuport 27
+79a Squadriglia	aircraftFighter	Hanriot HD.1
+260a Squadriglia	aircraftFighter	Macchi M.5
+260a Squadriglia	aircraftFighter	Macchi M.7
+91a Squadriglia	aircraftFighter	Nieuport 11
+91a Squadriglia	aircraftFighter	Spad VII
+81a Squadriglia	aircraftFighter	Nieuport 11
+81a Squadriglia	aircraftFighter	Nieuport 17
+81a Squadriglia	aircraftFighter	Hanriot HD.1
+81a Squadriglia	aircraftFighter	Nieuport 27
+VF-92	aircraftFighter	Vought F4U Corsair
+VF-92	aircraftFighter	Grumman F9F Panther
+VF-92	aircraftFighter	McDonnell F2H Banshee
+VF-92	aircraftFighter	McDonnell F3H Demon
+VF-92	aircraftFighter	McDonnell Douglas F-4 Phantom II
+185th Aero Squadron	aircraftFighter	Sopwith Camel F.1, 1918
+213th Aero Squadron	aircraftFighter	SPAD VII, 1918SPAD XIII, 1918
+638th Aero Squadron	aircraftFighter	Sopwith Camel F.1, 1918-1919
+Tanzania Air Force Command	aircraftFighter	Chengdu J-7
+Tanzania Air Force Command	aircraftFighter	Shenyang J-5
+Tanzania Air Force Command	aircraftFighter	Shenyang J-6
+Tanzania Air Force Command	aircraftFighter	Mikoyan-Gurevich MiG-21
+89 Combat Flying School	aircraftFighter	Atlas Cheetah
+444 Combat Support Squadron	aircraftFighter	Canadair Sabre
+444 Combat Support Squadron	aircraftFighter	CF-104 Starfighter
+VFA-161	aircraftFighter	McDonnell F3H Demon
+VFA-161	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VFA-161	aircraftFighter	A-18 Hornet
+VA-72	aircraftFighter	Grumman F6F Hellcat
+VA-72	aircraftFighter	Grumman F8F Bearcat
+VA-72	aircraftFighter	Grumman F9F Panther
+No. 445 Squadron RCAF	aircraftFighter	CF-100 Canuck
+VA-12	aircraftFighter	F4U Corsair
+VA-12	aircraftFighter	F8F Bearcat
+VA-12	aircraftFighter	F2H Banshee
+VA-12	aircraftFighter	F7U Cutlass
+VMF-213	aircraftFighter	F4U Corsair
+VMF-213	aircraftFighter	F9F Panther
+02.005 Fighter Squadron %22Île-de-France%22	aircraftFighter	Mirage 2000C RDIMirage 2000B RDI
+Ala 12	aircraftFighter	B Hornet
+Cuban Revolutionary Air and Air Defense Force	aircraftFighter	MiG-21
+Cuban Revolutionary Air and Air Defense Force	aircraftFighter	MiG-23
+Cuban Revolutionary Air and Air Defense Force	aircraftFighter	MiG-29
+Dragões	aircraftFighter	F-84 Thunderjet
+Dragões	aircraftFighter	F-86 Sabre
+No. 91 Wing RAAF	aircraftFighter	North American P-51 Mustang
+No. 91 Wing RAAF	aircraftFighter	Gloster Meteor
+No. 337 Squadron RNoAF	aircraftFighter	De Havilland Vampire
+No. 337 Squadron RNoAF	aircraftFighter	North American F-86D Sabre
+INAS 300	aircraftFighter	*Hawker Sea Hawk\n*BAE Sea Harrier\n*MiG-29KUB
+INAS 303	aircraftFighter	Mikoyan MiG-29K
+INAS 552	aircraftFighter	BAE Sea Harrier
+Fighter Squadron RAAF	aircraftFighter	Bristol Bulldog
+137th Operations Group	aircraftFighter	F-51 Mustang
+137th Operations Group	aircraftFighter	P-80 Shooting Star
+137th Operations Group	aircraftFighter	F-84
+137th Operations Group	aircraftFighter	F-86
+Jagdgeschwader 25	aircraftFighter	Bf 109
+F 18 Tullinge	aircraftFighter	FFVS J 22
+F 18 Tullinge	aircraftFighter	De Havilland DH 100 Vampire
+F 18 Tullinge	aircraftFighter	Hawker Hunter
+F 18 Tullinge	aircraftFighter	Saab 35 Draken
+Fighter Squadron 1	aircraftFighter	F-14 Tomcat
+02.003 Fighter Squadron %22Champagne%22	aircraftFighter	2000D
+02.004 Fighter Squadron %22La Fayette%22	aircraftFighter	Dassault Rafale
+03.011 Fighter Squadron %22Corsica%22	aircraftFighter	Dassault Mirage 2000
+03.011 Fighter Squadron %22Corsica%22	aircraftFighter	2000D
+01.091 Fighter Squadron %22Gascogne%22	aircraftFighter	Dassault Rafale
+VF-96	aircraftFighter	Vought F4U Corsair
+VF-96	aircraftFighter	Grumman F-9 Cougar
+VF-96	aircraftFighter	Vought F-8 Crusader
+VF-96	aircraftFighter	McDonnell Douglas F-4 Phantom II
+VF-13	aircraftFighter	F6F Hellcat
+VF-162	aircraftFighter	Douglas F4D Skyray
+VF-162	aircraftFighter	Vought F-8 Crusader
+VF-132	aircraftFighter	Vought F-8 Crusader
+VF-52	aircraftFighter	Vought F4U Corsair
+VF-52	aircraftFighter	Lockheed P-80 Shooting Star
+VF-52	aircraftFighter	Grumman F9F Panther
+VF-52	aircraftFighter	McDonnell F2H Banshee
+VF-71	aircraftFighter	Grumman F9F Panther
+VF-71	aircraftFighter	McDonnell F2H Banshee
+VF-171	aircraftFighter	Grumman F8F Bearcat
+VF-171	aircraftFighter	McDonnell FH Phantom
+VF-171	aircraftFighter	McDonnell F2H Banshee
+VF-122	aircraftFighter	Vought F4U Corsair
+VF-122	aircraftFighter	Grumman F9F Panther
+VF-122	aircraftFighter	Grumman F-9 Cougar
+VF-122	aircraftFighter	McDonnell F3H Demon
+VF-173	aircraftFighter	Grumman F8F Bearcat
+VF-173	aircraftFighter	Vought F4U Corsair
+VF-173	aircraftFighter	Grumman F-9 Cougar
+VF-173	aircraftFighter	-3 Fury
+VF-22	aircraftFighter	Vought F4U Corsair
+VF-22	aircraftFighter	McDonnell F2H Banshee
+VF-1	aircraftFighter	F6F Hellcat
+VF-1	aircraftFighter	F6F Hellcat
+VF-1	aircraftFighter	Ryan FR Fireball
+VF-111	aircraftFighter	F11F Tiger
+VF-111	aircraftFighter	Vought F-8 Crusader
+VF-111	aircraftFighter	McDonnell F-4 Phantom II
+VF-111	aircraftFighter	Grumman F-14 Tomcat
+VF-124	aircraftFighter	Vought F4U Corsair
+VF-124	aircraftFighter	Vought F7U Cutlass
+VF-191	aircraftFighter	Grumman F-14 Tomcat
+VF-194	aircraftFighter	Grumman F-14 Tomcat
+VF-194	aircraftFighter	McDonnell F2H Banshee
+VF-82	aircraftFighter	Vought F4U Corsair
+VF-82	aircraftFighter	Grumman F9F Panther
+VF-82	aircraftFighter	McDonnell F2H Banshee
+VF-82	aircraftFighter	McDonnell F3H Demon
+VF-33	aircraftFighter	F6F Hellcat
+VF-2	aircraftFighter	Brewster F2A Buffalo
+VF-2	aircraftFighter	Grumman F4F Wildcat
+VF-2	aircraftFighter	Grumman F4F Wildcat
+VF-2	aircraftFighter	Grumman F6F Hellcat
+VF-6	aircraftFighter	Vought VE-7
+VF-6	aircraftFighter	Curtiss F6C Hawk
+VF-6	aircraftFighter	Vought FU
+VF-6	aircraftFighter	Boeing F2B
+VF-6	aircraftFighter	Boeing F3B
+VF-6	aircraftFighter	Grumman F2F
+VF-16	aircraftFighter	Grumman F6F Hellcat
+VF-15	aircraftFighter	Grumman F6F Hellcat
+VF-40	aircraftFighter	F6F Hellcat
+VF-38	aircraftFighter	F6F Hellcat
+VF-71	aircraftFighter	F4F Wildcat
+VF-84	aircraftFighter	Vought F4U Corsair
+VF-84	aircraftFighter	Grumman F6F Hellcat
+VF-45	aircraftFighter	Douglas A-4 Skyhawk
+VF-45	aircraftFighter	Northrop F-5
+VF-45	aircraftFighter	General Dynamics F-16 Fighting Falcon
+VF-80	aircraftFighter	Grumman F6F Hellcat
+VF-131	aircraftFighter	McDonnell F3H Demon
+No. 75 Wing RAAF	aircraftFighter	Curtiss P-40 Warhawk
+Commander in Chief Naval Fleet	aircraftFighter	Lockheed Martin F-35 Lightning II
+No. 9 Squadron IqAF	aircraftFighter	F-16 IQ

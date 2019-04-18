@@ -1,0 +1,2401 @@
+MV Virginian	shipDraft	maximum navigational draft
+American submarine NR-1	shipDraft	*\n*Box keel depth :
+Ohio-class submarine	shipDraft	maximum
+USS Indianapolis	shipDraft	* \n*
+USS City of Corpus Christi	shipDraft	9.7 m
+USS Constitution	shipDraft	* forward \n* aft
+SS Eastland	shipDraft	594.36
+Juliett-class submarine	shipDraft	7 m
+Japanese aircraft carrier Zuikaku	shipDraft	8.9 m
+USS Barbero	shipDraft	maximum
+German battleship Bismarck	shipDraft	standard
+Gato-class submarine	shipDraft	maximum
+USS Pampanito	shipDraft	maximum
+USS John F. Kennedy	shipDraft	maximum,  limit
+USS Thompson	shipDraft	299.71999999999997
+Vasa	shipDraft	4.8 m
+USS Texas	shipDraft	31.0
+USS Brooklyn	shipDraft	* \n*
+USS Phoenix	shipDraft	* \n*
+USS Bang	shipDraft	maximum
+USS Boise	shipDraft	* \n*
+USS Nevada	shipDraft	868.6800000000001
+USS San Marcos	shipDraft	* fwd,\n* aft ;\n*   fwd,\n* aft
+USS Salt Lake City	shipDraft	* \n*
+USS Biloxi	shipDraft	* \n*
+USS United States	shipDraft	aft
+USS Oriskany	shipDraft	*As built:\n* maximum
+Type 212 submarine	shipDraft	6 m
+USS Cole	shipDraft	9.0
+USS Tuscaloosa	shipDraft	* \n*
+USNS Watertown	shipDraft	1686.0
+Victory ship	shipDraft	28.0
+USS Gato	shipDraft	maximum
+USS Seawolf	shipDraft	23.0
+USS Abraham Lincoln	shipDraft	*Maximum navigational: 37 ft \n*Limit: 41 ft
+USS Langley	shipDraft	* \n*
+USS Baltimore	shipDraft	* \n*
+USS New Orleans	shipDraft	* \n*
+USS Duluth	shipDraft	* \n*
+USS Frank E. Evans	shipDraft	* mean \n* maximum
+USS Dace	shipDraft	maximum
+USS Houston	shipDraft	* \n*
+USS Vesuvius	shipDraft	664.0
+USS Youngstown	shipDraft	* \n*
+USS Newark	shipDraft	*  \n*
+USS Wyoming	shipDraft	* 28 ft 6 in \n* 29 ft 7 in
+USS Boston	shipDraft	* \n*
+USS Hornet	shipDraft	* design\n* full load
+USS Amsterdam	shipDraft	* \n*
+USS Quincy	shipDraft	* \n*
+USS Vincennes	shipDraft	* \n*
+USS Astoria	shipDraft	* \n*
+USS Astoria	shipDraft	* \n*
+USS Raritan	shipDraft	*Light :\n* forward\n* aft\n*Full load :\n* forward\n* aft
+USS New York	shipDraft	7 m
+SS Edmund Fitzgerald	shipDraft	typical
+USS Bonhomme Richard	shipDraft	* navigational\n* limit
+USS Topeka	shipDraft	* \n*
+USS Skate	shipDraft	maximum
+USS Vancouver	shipDraft	23.0
+USS Theodore Roosevelt	shipDraft	*Maximum navigational: \n*Limit:
+SS Savannah	shipDraft	14.0
+Austin-class amphibious transport dock	shipDraft	* navigational,\n* ballasted
+San Antonio-class amphibious transport dock	shipDraft	, full load
+USS La Salle	shipDraft	* maximum\n* limit
+USS Dubuque	shipDraft	maximum
+USS Green Bay	shipDraft	7 m
+USS Mesa Verde	shipDraft	7.0
+USS Juneau	shipDraft	* maximum,\n* limit
+USS Nashville	shipDraft	*Limit: \n*Ballasted:
+USS Ponce	shipDraft	* maximum\n* limit
+USS Hawaii	shipDraft	*\n*
+Iowa-class battleship	shipDraft	maximum
+USS Juneau	shipDraft	* \n*
+Motor Torpedo Boat PT-109	shipDraft	maximum
+USS Minneapolis–Saint Paul	shipDraft	9.7
+USS Shaw	shipDraft	327.66
+USS Ault	shipDraft	14.0
+USNS Bob Hope	shipDraft	maximum
+USS Jimmy Carter	shipDraft	10.9 m
+USS Cod	shipDraft	maximum
+USS Wahoo	shipDraft	maximum
+USS Chicago	shipDraft	* \n*
+USS America	shipDraft	,
+USS Philadelphia	shipDraft	* \n*
+USS Barracuda	shipDraft	mean
+USS Espada	shipDraft	maximum
+USS Goldring	shipDraft	maximum
+USS Garlopa	shipDraft	maximum
+USS Garrupa	shipDraft	maximum
+USS Unicorn	shipDraft	maximum
+USS Dorado	shipDraft	maximum
+USS Dorado	shipDraft	maximum
+USS Blueback	shipDraft	maximum
+USS Atlanta	shipDraft	* \n*
+USS Blueback	shipDraft	max
+USS Bonefish	shipDraft	maximum
+USS Bonefish	shipDraft	max
+USS Tunny	shipDraft	maximum
+USS Argonaut	shipDraft	maximum
+Lewis and Clark-class dry cargo ship	shipDraft	29.9
+USS Albacore	shipDraft	6.7
+USS Halibut	shipDraft	maximum
+USS Mackerel	shipDraft	13
+USS Amberjack	shipDraft	maximum
+USS Amberjack	shipDraft	maximum
+USS Amberjack	shipDraft	17.0
+USS Sealion	shipDraft	maximum
+USS Whale	shipDraft	maximum
+USS Corvina	shipDraft	maximum
+USS Ulua	shipDraft	maximum
+USS Runner	shipDraft	maximum
+USS Lancetfish	shipDraft	maximum
+USS Scorpion	shipDraft	maximum
+USS Barb	shipDraft	maximum
+USS Tirante	shipDraft	maximum
+USS Growler	shipDraft	maximum
+USS Carbonero	shipDraft	maximum
+USS Turbot	shipDraft	maximum
+USS Tang	shipDraft	maximum
+USS Cisco	shipDraft	maximum
+USS Stickleback	shipDraft	maximum
+USS Cochino	shipDraft	maximum
+USS Trigger	shipDraft	maximum
+USS Bullhead	shipDraft	maximum
+USS Nathan Hale	shipDraft	31.5
+USS Barbel	shipDraft	maximum
+USS Lagarto	shipDraft	maximum
+USS Capelin	shipDraft	maximum
+USS Golet	shipDraft	maximum
+USS Runner	shipDraft	maximum
+USS Bowfin	shipDraft	maximum
+USS Dayton	shipDraft	* \n*
+USS Kete	shipDraft	maximum
+USS Albacore	shipDraft	maximum
+USS Robalo	shipDraft	maximum
+USS Pensacola	shipDraft	* \n*
+USS Herring	shipDraft	maximum
+USS Fargo	shipDraft	* \n*
+USS Atlanta	shipDraft	* \n*
+USS Escolar	shipDraft	maximum
+USS Grunion	shipDraft	maximum
+USS Jawfish	shipDraft	maximum
+USS Eel	shipDraft	maximum
+USS Darter	shipDraft	maximum
+USS Shark	shipDraft	maximum
+Balao-class submarine	shipDraft	maximum
+USS Bonita	shipDraft	mean
+USS Bass	shipDraft	mean
+USS Chopper	shipDraft	maximum
+USS Redfish	shipDraft	maximum
+USS Houston	shipDraft	* \n*
+USS Tullibee	shipDraft	maximum
+USS Scamp	shipDraft	maximum
+USS Snook	shipDraft	maximum
+Tench-class submarine	shipDraft	maximum
+SS United States	shipDraft	;
+USS Volador	shipDraft	17.0
+USS Santa Fe	shipDraft	* \n*
+USCGC Eagle	shipDraft	Full load:
+USS Harder	shipDraft	maximum
+USS Atule	shipDraft	maximum
+USS Tilefish	shipDraft	maximum
+USS Flier	shipDraft	maximum
+USS Gridley	shipDraft	26.0
+USS Buchanan	shipDraft	9
+North Carolina-class battleship	shipDraft	*North Carolina:\n* maximum\n*Washington:\n* maximum
+Yorktown-class aircraft carrier	shipDraft	*\n*
+USS Marlin	shipDraft	13
+USS Cuttlefish	shipDraft	maximum
+USS Cachalot	shipDraft	maximum
+USS Comber	shipDraft	maximum
+USS Sea Panther	shipDraft	maximum
+USS Tiburon	shipDraft	maximum
+USS Somers	shipDraft	14.0
+USS Little	shipDraft	279.4
+USS Jacob Jones	shipDraft	264.16
+USS Dickerson	shipDraft	284.48
+USS Long	shipDraft	281.94
+USS Augusta	shipDraft	* \n*
+USS John Paul Jones	shipDraft	15.0
+USS Forrest Sherman	shipDraft	20
+USS John S. McCain	shipDraft	421.64
+USS Mitscher	shipDraft	1208.0
+USS Davis	shipDraft	21'
+USS J. Fred Talbott	shipDraft	264.16
+USS Herbert	shipDraft	284.48
+USS Schenck	shipDraft	284.48
+USS Bremerton	shipDraft	817.88
+USS Birmingham	shipDraft	* \n*
+Russian submarine Novomoskovsk	shipDraft	8.8 m
+USS Helena	shipDraft	* \n*
+USS Honolulu	shipDraft	* \n*
+USS Huntington	shipDraft	* \n*
+USS Northampton	shipDraft	* \n*
+USS Portland	shipDraft	* \n*
+USS Chester	shipDraft	* \n*
+USS Louisville	shipDraft	* \n*
+USS St. Louis	shipDraft	* \n*
+USS San Francisco	shipDraft	* \n*
+USS Miami	shipDraft	* \n*
+USS Montpelier	shipDraft	* \n*
+USS Vicksburg	shipDraft	* \n*
+USS Mobile	shipDraft	* \n*
+USS Manchester	shipDraft	* \n*
+USS Cleveland	shipDraft	* \n*
+USS Columbia	shipDraft	* \n*
+USS Denver	shipDraft	* \n*
+USS Flint	shipDraft	* \n*
+USS Fresno	shipDraft	* \n*
+USS Galveston	shipDraft	* \n*
+USS Juneau	shipDraft	* \n*
+USS Little Rock	shipDraft	* \n*
+USS Oakland	shipDraft	* \n*
+USS Nashville	shipDraft	* \n*
+USS Minneapolis	shipDraft	* \n*
+USS Roanoke	shipDraft	25.0
+USS Providence	shipDraft	* \n*
+USS Oklahoma City	shipDraft	* \n*
+USS Reno	shipDraft	* \n*
+USS Philadelphia	shipDraft	* \n*
+USS Pasadena	shipDraft	* \n*
+USS Portsmouth	shipDraft	* \n*
+Boston-class cruiser	shipDraft	817.88
+USS Silversides	shipDraft	maximum
+SS Gopher State	shipDraft	1021.08
+LCM-8	shipDraft	* light\n* loaded
+USS Blue Ridge	shipDraft	8.8 m
+USS Talladega	shipDraft	24.0
+USS Frank Knox	shipDraft	5.8 m
+USS Clamagore	shipDraft	maximum
+USS Cavalla	shipDraft	maximum
+USS Dentuda	shipDraft	maximum
+USS Gunnel	shipDraft	maximum
+USS Cummings	shipDraft	299.71999999999997
+USS Savannah	shipDraft	* \n*
+USS Spokane	shipDraft	* \n*
+USS San Diego	shipDraft	* \n*
+USS Tucson	shipDraft	* \n*
+USS Springfield	shipDraft	* \n*
+German cruiser Prinz Eugen	shipDraft	Full load:
+Sargo-class submarine	shipDraft	16
+Pamir	shipDraft	7.25 m
+USS Crane	shipDraft	259.08
+USS Gridley	shipDraft	279.4
+Royal Clipper	shipDraft	18.5
+USS Dale	shipDraft	281.94
+USS Benham	shipDraft	391.15999999999997
+USS Drum	shipDraft	maximum
+Cleveland-class cruiser	shipDraft	* \n*
+USS Wilkes-Barre	shipDraft	* \n*
+USS Finback	shipDraft	maximum
+USS Vincennes	shipDraft	* \n*
+USS Razorback	shipDraft	maximum
+USS Conger	shipDraft	maximum
+USS Dogfish	shipDraft	maximum
+USS San Juan	shipDraft	* \n*
+USS Torsk	shipDraft	maximum
+USS Worcester	shipDraft	26.0
+Portland-class cruiser	shipDraft	;
+USS Chandler	shipDraft	299.71999999999997
+USS T-1	shipDraft	mean
+USS T-3	shipDraft	mean
+USS Lamberton	shipDraft	264.16
+USS Barbel	shipDraft	max
+USS Lionfish	shipDraft	maximum
+USS Abercrombie	shipDraft	287.02
+USS Ability	shipDraft	* empty\n* flooded
+Virginia-class cruiser	shipDraft	max.
+USS Nitze	shipDraft	* maximum\n* limit
+USS Sterett	shipDraft	*  31 ft  maximum,\n*  22 ft  limit
+Barbel-class submarine	shipDraft	max
+USS Absecon	shipDraft	maximum in 1964
+Landing craft tank	shipDraft	* forward\n* aft
+USS Roper	shipDraft	299.71999999999997
+USS Insurgent	shipDraft	5.5
+Zara-class cruiser	shipDraft	full load
+USS Mount Whitney	shipDraft	full load
+USS Miller	shipDraft	541.02
+USS Hazelwood	shipDraft	541.02
+USS Trathen	shipDraft	541.02
+USS Dennis	shipDraft	287.02
+USS Broome	shipDraft	299.71999999999997
+USS McKean	shipDraft	259.08
+USS Harding	shipDraft	259.08
+USS Carter Hall	shipDraft	*     fwd,\n*   aft ;\n*   fwd,\n*   aft
+USS Billfish	shipDraft	maximum
+USS Helm	shipDraft	* light,\n* full
+USS Flounder	shipDraft	maximum
+SS Flickertail State	shipDraft	1021.08
+Allen M. Sumner-class destroyer	shipDraft	* normal\n* full load\n* full load
+USS Ralph Talbot	shipDraft	* full,\n* light
+USS Connecticut	shipDraft	10.9
+USNS Yukon	shipDraft	maximum
+USS Sand Lance	shipDraft	maximum
+USS Tautog	shipDraft	8.8 m
+USS Sturgeon	shipDraft	8.8 m
+USS Israel	shipDraft	259.08
+USS Luce	shipDraft	279.4
+USS Maury	shipDraft	279.4
+USS Bergall	shipDraft	maximum
+USS Ling	shipDraft	maximum
+USS Lansdale	shipDraft	259.08
+USS Chew	shipDraft	259.08
+USS Barry	shipDraft	299.71999999999997
+Japanese cruiser Ashigara	shipDraft	* \n*
+USS Pipefish	shipDraft	maximum
+USS Scabbardfish	shipDraft	maximum
+USS Nerka	shipDraft	maximum
+United States Porpoise-class submarine	shipDraft	maximum
+USNS Sacagawea	shipDraft	* maximum,\n* limit
+USS Archerfish	shipDraft	maximum
+USS Sarda	shipDraft	maximum
+USS Corsair	shipDraft	maximum
+ROCS Kee Lung	shipDraft	9.6 m
+ROCS Su Ao	shipDraft	9.6 m
+USS Scott	shipDraft	9.6 m
+USS Rathburne	shipDraft	12.0
+USS Talbot	shipDraft	299.71999999999997
+USS Bluegill	shipDraft	maximum
+USS Tench	shipDraft	maximum
+USS Sea Devil	shipDraft	maximum
+United States Barracuda-class submarine	shipDraft	mean
+USS Wolffish	shipDraft	maximum
+USS Needlefish	shipDraft	maximum
+USS Walrus	shipDraft	maximum
+USS Wahoo	shipDraft	maximum
+USS Pompano	shipDraft	maximum
+USS Wahoo	shipDraft	maximum
+USS Grayling	shipDraft	maximum
+USS Sculpin	shipDraft	maximum
+USS Spinax	shipDraft	maximum
+USS Thornback	shipDraft	maximum
+USS Thornback	shipDraft	17.0
+USS Picuda	shipDraft	maximum
+USS Pomodon	shipDraft	maximum
+USS Pomodon	shipDraft	17.0
+USS Dent	shipDraft	264.16
+USS Dorsey	shipDraft	264.16
+USS Sirago	shipDraft	maximum
+USS Sirago	shipDraft	17.0
+USS Sea Leopard	shipDraft	maximum
+USS Irex	shipDraft	maximum
+USS Cutlass	shipDraft	maximum
+USS Cutlass	shipDraft	17.0
+USS Medregal	shipDraft	maximum
+USS Odax	shipDraft	maximum
+USS Odax	shipDraft	17.0
+USS Remora	shipDraft	maximum
+USS Remora	shipDraft	17.0
+USS Toro	shipDraft	maximum
+USS Tigrone	shipDraft	maximum
+USS Trumpetfish	shipDraft	maximum
+USS Quillback	shipDraft	maximum
+USS Quillback	shipDraft	17.0
+USS Tusk	shipDraft	maximum
+USS Trutta	shipDraft	maximum
+USS Trutta	shipDraft	17.0
+USS Lea	shipDraft	9.0
+USS Requin	shipDraft	maximum
+USS Montgomery	shipDraft	264.16
+USS Breese	shipDraft	284.48
+USS Gamble	shipDraft	264.16
+USS Greenling	shipDraft	maximum
+USS Angler	shipDraft	maximum
+USS Grouper	shipDraft	maximum
+USS Ramsay	shipDraft	312.42
+USS Guardfish	shipDraft	maximum
+USS Blackfish	shipDraft	maximum
+USS Bluefish	shipDraft	maximum
+USS Badger	shipDraft	284.48
+USS Cero	shipDraft	maximum
+USS Flying Fish	shipDraft	maximum
+USS Haddock	shipDraft	maximum
+USS Kingfish	shipDraft	maximum
+USS Babbitt	shipDraft	264.16
+USS Shad	shipDraft	maximum
+USS Boggs	shipDraft	9.0
+USS Croaker	shipDraft	maximum
+USS Bream	shipDraft	maximum
+USS Kilty	shipDraft	259.08
+USS Bashaw	shipDraft	maximum
+USS Flasher	shipDraft	maximum
+USS Gabilan	shipDraft	maximum
+USS Gurnard	shipDraft	maximum
+USS Kennison	shipDraft	9.0
+USS Haddo	shipDraft	maximum
+USS Hake	shipDraft	maximum
+USS Hoe	shipDraft	maximum
+USS Jack	shipDraft	maximum
+USS Lapon	shipDraft	maximum
+USS Muskallunge	shipDraft	maximum
+USS Mingo	shipDraft	maximum
+USS Hamilton	shipDraft	264.16
+USS Paddle	shipDraft	maximum
+USS Pargo	shipDraft	maximum
+USS Peto	shipDraft	maximum
+USS Pogy	shipDraft	maximum
+USS Pompon	shipDraft	maximum
+USS Puffer	shipDraft	maximum
+USS Upshur	shipDraft	9
+USS Greer	shipDraft	9.0
+USS Elliot	shipDraft	264.16
+USS Breckinridge	shipDraft	9.0
+USS Asheville	shipDraft	31.0
+USS Barney	shipDraft	9.0
+USS Biddle	shipDraft	9.0
+USS Blakeley	shipDraft	9.0
+USS Rasher	shipDraft	maximum
+USS Du Pont	shipDraft	264.16
+USS Bernadou	shipDraft	9.0
+USS Ellis	shipDraft	264.16
+USS Raton	shipDraft	maximum
+USS Ray	shipDraft	maximum
+USS Redfin	shipDraft	maximum
+USS Crosby	shipDraft	264.16
+USS Rock	shipDraft	maximum
+USS Sawfish	shipDraft	maximum
+USS Steelhead	shipDraft	maximum
+USS Sunfish	shipDraft	maximum
+USS Tinosa	shipDraft	maximum
+USS Sea Dog	shipDraft	maximum
+USS Balao	shipDraft	maximum
+USS Cabrilla	shipDraft	maximum
+USS Trepang	shipDraft	maximum
+USS Crevalle	shipDraft	maximum
+USS Threadfin	shipDraft	maximum
+USS Devilfish	shipDraft	maximum
+USS Dragonet	shipDraft	maximum
+USS Hackleback	shipDraft	maximum
+USS Manta	shipDraft	maximum
+USS Moray	shipDraft	maximum
+USS Roncador	shipDraft	maximum
+USS Sabalo	shipDraft	maximum
+USS Sterlet	shipDraft	maximum
+USS Seahorse	shipDraft	maximum
+USS Apogon	shipDraft	maximum
+USS Aspro	shipDraft	maximum
+USS Foote	shipDraft	)
+USS Batfish	shipDraft	maximum
+USS Arthur Middleton	shipDraft	833.12
+USS Burrfish	shipDraft	maximum
+USS Perch	shipDraft	maximum
+USS Baya	shipDraft	maximum
+USS Rizal	shipDraft	299.71999999999997
+USS Howard	shipDraft	259.08
+USS Becuna	shipDraft	maximum
+USS Besugo	shipDraft	maximum
+USS Blackfin	shipDraft	maximum
+USS Blackfin	shipDraft	17.0
+USS Caiman	shipDraft	maximum
+USS Caiman	shipDraft	17.0
+USS Blenny	shipDraft	maximum
+USS Blenny	shipDraft	17.0
+USS Blower	shipDraft	maximum
+USS Boarfish	shipDraft	maximum
+USS Charr	shipDraft	maximum
+USS Chub	shipDraft	maximum
+USS Brill	shipDraft	maximum
+USS Bugara	shipDraft	maximum
+USS Bumper	shipDraft	maximum
+USS Cabezon	shipDraft	maximum
+USS Parche	shipDraft	maximum
+USS Capitaine	shipDraft	maximum
+USS Lizardfish	shipDraft	maximum
+USS Carp	shipDraft	maximum
+USS Catfish	shipDraft	maximum
+USS Catfish	shipDraft	17.0
+USS Entemedor	shipDraft	maximum
+USS Chivo	shipDraft	maximum
+USS Chivo	shipDraft	17.0
+USS Ono	shipDraft	maximum
+USS Guavina	shipDraft	maximum
+USS Corporal	shipDraft	maximum
+USS Corporal	shipDraft	17.0
+USS Halfbeak	shipDraft	maximum
+USS Halfbeak	shipDraft	17.0
+USS Diodon	shipDraft	maximum
+USS Diodon	shipDraft	17.0
+USS Hardhead	shipDraft	maximum
+USS Hardhead	shipDraft	17.0
+USS Spadefish	shipDraft	maximum
+USS Needlefish	shipDraft	maximum
+USS Sea Poacher	shipDraft	maximum
+USS Cubera	shipDraft	maximum
+USS Cubera	shipDraft	17.0
+USS Cusk	shipDraft	maximum
+USS Sablefish	shipDraft	maximum
+USS Cobbler	shipDraft	maximum
+USS Cobbler	shipDraft	17.0
+USS Greenfish	shipDraft	maximum
+USS Greenfish	shipDraft	17.0
+USS Hawkbill	shipDraft	maximum
+USS Guitarro	shipDraft	maximum
+USS Hammerhead	shipDraft	maximum
+USS Icefish	shipDraft	maximum
+USS Jallao	shipDraft	maximum
+USS Jallao	shipDraft	17.0
+RMS Republic	shipDraft	.
+USS Kraken	shipDraft	maximum
+USS Lamprey	shipDraft	maximum
+USS Loggerhead	shipDraft	maximum
+USS Pilotfish	shipDraft	maximum
+USS Menhaden	shipDraft	maximum
+USS Menhaden	shipDraft	17.0
+USS Sea Cat	shipDraft	maximum
+USS Segundo	shipDraft	maximum
+USS Macabi	shipDraft	maximum
+USS Sea Owl	shipDraft	maximum
+USS Sea Robin	shipDraft	maximum
+USS Pintado	shipDraft	maximum
+USS Sennet	shipDraft	maximum
+USS Piranha	shipDraft	maximum
+USS Lang	shipDraft	327.66
+Original six frigates of the United States Navy	shipDraft	* forward\n* aft
+USS Ellet	shipDraft	327.66
+USS Piper	shipDraft	maximum
+USS Spikefish	shipDraft	maximum
+USS Spot	shipDraft	maximum
+USS Springer	shipDraft	maximum
+USS LST-558	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+Red October	shipDraft	title|39.3 ft|12 m*
+USCGC Alex Haley	shipDraft	, max
+USS Plaice	shipDraft	maximum
+German cruiser Admiral Hipper	shipDraft	Full load:
+USS Mapiro	shipDraft	maximum
+USS Mero	shipDraft	maximum
+USS Sea Fox	shipDraft	maximum
+USS Pomfret	shipDraft	maximum
+USS Pomfret	shipDraft	17.0
+USS Ronquil	shipDraft	maximum
+USS Ronquil	shipDraft	17.0
+USS Queenfish	shipDraft	maximum
+MV Queen of Nanaimo	shipDraft	4.03 m
+HDMS Najaden	shipDraft	fore
+USS McGinty	shipDraft	287.02
+USS Sigourney	shipDraft	541.02
+USS Nicholas	shipDraft	541.02
+USS O'Bannon	shipDraft	541.02
+USS Owen	shipDraft	541.02
+USS Callaghan	shipDraft	13.8
+USS Stembel	shipDraft	541.02
+USS Wiley	shipDraft	541.02
+USS Braine	shipDraft	541.02
+USS Killen	shipDraft	541.02
+USS S-19	shipDraft	mean
+USS Stephen Potter	shipDraft	541.02
+Hercules	shipDraft	* aft\n* forward
+USS Wedderburn	shipDraft	13.8
+USS Pulaski County	shipDraft	aft
+USS K-1	shipDraft	398.78000000000003
+USS California	shipDraft	* maximum\n* limit
+SS France	shipDraft	10.8 m
+USS Makin Island	shipDraft	* navigational,\n* limit
+USS Hutchins	shipDraft	541.02
+USS Decatur	shipDraft	908.0
+USS Eaton	shipDraft	541.02
+USS Chevalier	shipDraft	541.02
+USS Saufley	shipDraft	541.02
+USS High Point	shipDraft	with foils down
+O'Brien-class destroyer	shipDraft	* \n*
+Type 091 submarine	shipDraft	7.4
+USS Waller	shipDraft	541.02
+USS Strong	shipDraft	541.02
+USS Taylor	shipDraft	541.02
+USS O'Brien	shipDraft	* \n* max
+USS Bache	shipDraft	541.02
+USS Winslow	shipDraft	* \n* max
+USS Nicholson	shipDraft	* \n* max
+USS Richard W. Suesens	shipDraft	287.02
+USS McDougal	shipDraft	* \n* max
+LCVP	shipDraft	* aft\n* forward
+USS O'Flaherty	shipDraft	287.02
+USS Stafford	shipDraft	287.02
+USS Cushing	shipDraft	* \n* max
+USS Ericsson	shipDraft	* \n* max
+Tucker-class destroyer	shipDraft	* [DD-60: 9 ft 2 in; DD-61: 9 ft 8 in] \n*
+USS Conyngham	shipDraft	* \n*
+USS Porter	shipDraft	* \n*
+SMS Von der Tann	shipDraft	* Designed: \n* Full load:
+USS Rowan	shipDraft	327.66
+USS Wilkes	shipDraft	327.66
+USS Halligan	shipDraft	541.02
+USS Craven	shipDraft	* \n* max
+Quebec-class submarine	shipDraft	3.8 m
+USS Hunt	shipDraft	284.48
+USS Cecil J. Doyle	shipDraft	287.02
+USS Dallas	shipDraft	299.71999999999997
+USS Hovey	shipDraft	281.94
+USS Tingey	shipDraft	541.02
+USS Borie	shipDraft	299.71999999999997
+USS John D. Edwards	shipDraft	284.48
+USS Parrott	shipDraft	411.48
+USS MacLeish	shipDraft	281.94
+Captain-class frigate	shipDraft	* \n*
+USS Bulmer	shipDraft	299.71999999999997
+USS McCormick	shipDraft	281.94
+USS San Diego	shipDraft	7 m
+USS Paul Jones	shipDraft	284.48
+USS John D. Ford	shipDraft	281.94
+USS Somerset	shipDraft	7 m
+USS Hatfield	shipDraft	281.94
+USS LST-712	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Brooks	shipDraft	299.71999999999997
+USS Gilmer	shipDraft	299.71999999999997
+USS Fox	shipDraft	284.48
+USS Kane	shipDraft	284.48
+USS Hart	shipDraft	541.02
+USS Erben	shipDraft	541.02
+USS Hale	shipDraft	*17 ft 9 in \n*13.8 ft
+USS Humphreys	shipDraft	281.94
+USS McFarland	shipDraft	281.94
+USS Wadleigh	shipDraft	13.8
+USS James K. Paulding	shipDraft	281.94
+USS Overton	shipDraft	299.71999999999997
+USS Cobia	shipDraft	maximum
+USS Fullam	shipDraft	541.02
+USS Spence	shipDraft	541.02
+USS Childs	shipDraft	299.71999999999997
+USS King	shipDraft	281.94
+USS Sands	shipDraft	10.0
+USS Williamson	shipDraft	281.94
+USS Bainbridge	shipDraft	299.71999999999997
+USS Goff	shipDraft	299.71999999999997
+USS Hopkins	shipDraft	281.94
+USS Lawrence	shipDraft	281.94
+USS Preston	shipDraft	17.8
+USS Irwin	shipDraft	17.9
+USS Metcalf	shipDraft	541.02
+USS Shields	shipDraft	541.02
+USS Twiggs	shipDraft	541.02
+USS Paul Hamilton	shipDraft	541.02
+USS Izard	shipDraft	541.02
+USS Belknap	shipDraft	299.71999999999997
+USS Bell	shipDraft	541.02
+USS Osmond Ingram	shipDraft	299.71999999999997
+USS Naifeh	shipDraft	287.02
+USS Turner	shipDraft	340.36
+USS Gillis	shipDraft	281.94
+USS Ammen	shipDraft	541.02
+USS Mullany	shipDraft	541.02
+Landing Craft Utility	shipDraft	* forward, full load\n* aft, full load
+Landing Craft Utility	shipDraft	* light\n* loaded\n* beaching draft at the bow
+USS Bush	shipDraft	541.02
+USS Delphy	shipDraft	281.94
+USS Warrington	shipDraft	844.0
+USS Stockham	shipDraft	541.02
+USS Ballard	shipDraft	299.71999999999997
+USS Beale	shipDraft	541.02
+PNS Ghazi	shipDraft	maximum
+Statsraad Lehmkuhl	shipDraft	5.20 m
+USS Guest	shipDraft	541.02
+USS Moody	shipDraft	284.48
+USS Bennett	shipDraft	541.02
+USS Hudson	shipDraft	541.02
+USS Pringle	shipDraft	541.02
+Benson-class destroyer	shipDraft	*   ,\n*
+USS Stanly	shipDraft	541.02
+USS Stevens	shipDraft	541.02
+USS Halford	shipDraft	541.02
+USS Henshaw	shipDraft	284.48
+USS Philip	shipDraft	541.02
+USS Renshaw	shipDraft	541.02
+USS Sigsbee	shipDraft	541.02
+USS Conway	shipDraft	541.02
+USS Cony	shipDraft	541.02
+USS Converse	shipDraft	541.02
+Saipem 7000	shipDraft	* \n* \n*
+USS Foote	shipDraft	541.02
+USS Breck	shipDraft	299.71999999999997
+Japanese cruiser Tenryū	shipDraft	Ship power=
+USS Terry	shipDraft	541.02
+USS Isherwood	shipDraft	299.71999999999997
+USS Ramapo	shipDraft	Max.
+Henry J. Kaiser-class oiler	shipDraft	maximum
+USS Preble	shipDraft	281.94
+USS Lardner	shipDraft	281.94
+USS Putnam	shipDraft	281.94
+Takao-class cruiser	shipDraft	*   \n*
+USS Reid	shipDraft	299.71999999999997
+USS Thatcher	shipDraft	541.02
+USCGC Edisto	shipDraft	28
+PacifiCat-class ferry	shipDraft	3.76m
+MV Queen of Coquitlam	shipDraft	5.331 m
+BRP Gregorio Velasquez	shipDraft	502.92
+Elissa	shipDraft	.
+USNS Rappahannock	shipDraft	maximum
+SS Lane Victory	shipDraft	868.6800000000001
+United States R-class submarine	shipDraft	*Group 1: \n*Group 2:
+USS Nicholas	shipDraft	281.94
+USS Walker	shipDraft	541.02
+USS LST-374	shipDraft	*Unloaded :\n* bow\n* stern\n*Loaded :\n* bow\n* stern
+USS Brownson	shipDraft	541.02
+USS Gendreau	shipDraft	* standard\n* full load
+USS Daly	shipDraft	541.02
+USS Charrette	shipDraft	*\n*with full load :
+USS Mahoning County	shipDraft	-1.0
+USS Isherwood	shipDraft	541.02
+Lightship Finngrundet	shipDraft	3.2 m
+USS Livermore	shipDraft	*  ,\n*   full load
+USS Bristol	shipDraft	* ,\n*
+USS Selfridge	shipDraft	299.71999999999997
+USS Luce	shipDraft	541.02
+USS Kimberly	shipDraft	541.02
+USS Robert Smith	shipDraft	299.71999999999997
+Caldwell-class destroyer	shipDraft	*\n* max
+USS Bruce	shipDraft	299.71999999999997
+USS Hull	shipDraft	281.94
+USS Farenholt	shipDraft	284.48
+USS Twining	shipDraft	541.02
+USS Corry	shipDraft	281.94
+USS Yarnall	shipDraft	541.02
+USS Sumner	shipDraft	299.71999999999997
+USS Decatur	shipDraft	299.71999999999997
+USS Perry	shipDraft	411.48
+USS Hulbert	shipDraft	281.94
+USS Noa	shipDraft	281.94
+USS William B. Preston	shipDraft	299.71999999999997
+USS LST-285	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+Gazela	shipDraft	approx. .
+USCGC Bibb	shipDraft	726.0
+USCGC Bramble	shipDraft	12
+USS Dewey	shipDraft	312.42
+USS Little	shipDraft	419.1
+USS Ross	shipDraft	541.02
+USS Wickes	shipDraft	541.02
+USS Young	shipDraft	541.02
+USS Robinson	shipDraft	541.02
+USS Melvin	shipDraft	541.02
+Ōsumi-class tank landing ship	shipDraft	6.0 m
+USS Cogswell	shipDraft	541.02
+USS John D. Henley	shipDraft	541.02
+USS Nantucket	shipDraft	388.62
+USS LST-982	shipDraft	* forward\n* aft
+USS Salish	shipDraft	401.32
+USS Drexler	shipDraft	477.52
+USS Knapp	shipDraft	541.02
+Rickmer Rickmers	shipDraft	6 m
+Type 206 submarine	shipDraft	4.5 m
+USS Hank	shipDraft	477.52
+USS Laws	shipDraft	541.02
+USS Hunt	shipDraft	419.1
+USS Meredith	shipDraft	477.52
+SS Leviathan	shipDraft	1150.62
+USS Mansfield	shipDraft	477.52
+USS Blue	shipDraft	* light,\n* full
+USS Alfred A. Cunningham	shipDraft	477.52
+Bagley-class destroyer	shipDraft	* light\n* full
+USS Bagley	shipDraft	* light\n*  full
+USS Drayton	shipDraft	299.71999999999997
+USS Lamson	shipDraft	276.86
+USS Henley	shipDraft	* full,\n* light
+USS Jarvis	shipDraft	* full,\n* light
+USS Patterson	shipDraft	* full,\n* light
+USS Flusser	shipDraft	299.71999999999997
+USS Reid	shipDraft	299.71999999999997
+USS Case	shipDraft	299.71999999999997
+USS Conyngham	shipDraft	299.71999999999997
+Admiral Hipper-class cruiser	shipDraft	Full load:
+USS Bates	shipDraft	* standard\n* full load
+USS Rich	shipDraft	* standard\n* full load
+USS Haggard	shipDraft	541.02
+USS Atlantis	shipDraft	max.
+USS Hailey	shipDraft	541.02
+USS Trippe	shipDraft	299.71999999999997
+USS Caperton	shipDraft	541.02
+USS Raby	shipDraft	* standard\n* full load
+Amphibious command ship	shipDraft	full load
+USS Schofield	shipDraft	441.96000000000004
+USS Talbot	shipDraft	441.96000000000004
+USS Dufilho	shipDraft	287.02
+USS William D. Porter	shipDraft	541.02
+USS Luzerne County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Cushing	shipDraft	299.71999999999997
+USS Gregory	shipDraft	541.02
+USS Longshaw	shipDraft	541.02
+USS Morrison	shipDraft	541.02
+USS Prichett	shipDraft	541.02
+German cruiser Seydlitz	shipDraft	Full load:
+SS Nascopie	shipDraft	*forward\n*aft
+USS Sproston	shipDraft	541.02
+USS Spangler	shipDraft	* standard\n* full load
+USS Ingersoll	shipDraft	541.02
+USS Rowe	shipDraft	541.02
+USS Smalley	shipDraft	541.02
+USS Stoddard	shipDraft	541.02
+USS Boyd	shipDraft	541.02
+USS LST-380	shipDraft	*Light :\n* forward\n* aft\n*Sea-going :\n* forward\n* aft\n*Landing :\n* forward\n* aft
+USS Bradford	shipDraft	541.02
+USS Holton	shipDraft	standard, = full load
+USS LST-1	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS Watts	shipDraft	541.02
+USS Wilson	shipDraft	391.15999999999997
+USS Wren	shipDraft	541.02
+USS Holt	shipDraft	full
+USS Preston	shipDraft	299.71999999999997
+USS Dunlap	shipDraft	299.71999999999997
+USS Harrison	shipDraft	541.02
+USS John Rodgers	shipDraft	541.02
+Moshulu	shipDraft	at 5,300 tons
+USS McKee	shipDraft	541.02
+USS Dortch	shipDraft	541.02
+One and All	shipDraft	* - no centerboard\n* - with centreboard
+Type 202 submarine	shipDraft	2.7 m
+USS Bearss	shipDraft	541.02
+USS John Hood	shipDraft	541.02
+USS Liddle	shipDraft	* standard\n* full load
+USS Osmus	shipDraft	* standard\n* full load
+USS Charles J. Badger	shipDraft	541.02
+Lütjens-class destroyer	shipDraft	6.1 m
+USS Colahan	shipDraft	541.02
+USS Cronin	shipDraft	* standard,\n* full load
+USS Bennion	shipDraft	541.02
+USS Black	shipDraft	541.02
+USS Frybarger	shipDraft	* standard\n* full load
+ARA Almirante Domecq Garcia	shipDraft	541.02
+USS Fanning	shipDraft	299.71999999999997
+USS Bryant	shipDraft	541.02
+USS Clarence K. Bronson	shipDraft	541.02
+USS Cotten	shipDraft	541.02
+MV Braer	shipDraft	14.15 m
+USS Healy	shipDraft	541.02
+MV Chenega	shipDraft	loaded
+MV Fairweather	shipDraft	486.0
+MV Columbia	shipDraft	24
+USS Lewis Hancock	shipDraft	541.02
+USS Marshall	shipDraft	541.02
+SS Rotterdam	shipDraft	9.04 m
+USS McGowan	shipDraft	541.02
+USS Carpellotti	shipDraft	287.02
+USS McNair	shipDraft	541.02
+USS LST-84	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS Walton	shipDraft	287.02
+USS LST-325	shipDraft	*Light:\n* forward\n* aft\n*Sea-going:\n* forward\n* aft\n*Landing :\n* forward\n* aft
+USS Rhind	shipDraft	436.88000000000005
+NOAAS Rainier	shipDraft	maximum
+USS Rowan	shipDraft	525.78
+John C. Butler-class destroyer escort	shipDraft	*Light: \n*Deep:
+USS Stack	shipDraft	436.88000000000005
+USS Pitt	shipDraft	24.0
+USS Tuscaloosa	shipDraft	forward
+USS Benson	shipDraft	*   ,\n*
+MV Golden Gate	shipDraft	.
+MV Napa	shipDraft	.
+USS Breeman	shipDraft	266.7
+USS San Francisco	shipDraft	* \n*
+USS LSM	shipDraft	* forward\n* aft
+USS SC-1012	shipDraft	full load
+USS Ashland	shipDraft	* fwd,\n* aft
+USS Geneva	shipDraft	16.0
+USS Grand Forks	shipDraft	416.56
+USNS Alan Shepard	shipDraft	* maximum,\n* limit
+Galveston-class cruiser	shipDraft	25.0
+Providence-class cruiser	shipDraft	716.28
+USCGC Cactus	shipDraft	* max \n*
+USS Charles Lawrence	shipDraft	* standard\n* full load
+USS Donnell	shipDraft	* standard\n* full load
+USS Fogg	shipDraft	* standard\n* full load
+USS Foss	shipDraft	* standard\n* full load
+USS Gantner	shipDraft	* standard\n* full load
+USS Daniel T. Griffin	shipDraft	* standard\n* full load
+USS John F. Kennedy	shipDraft	39.0
+USS George W. Ingram	shipDraft	* standard\n* full load
+USS Ira Jeffery	shipDraft	* standard\n* full load
+USCGC Bertholf	shipDraft	22.5
+USS Lee Fox	shipDraft	* standard\n* full load
+USS Amesbury	shipDraft	* standard\n* full load
+USS Blessman	shipDraft	* standard\n* full
+Japanese cruiser Atago	shipDraft	* \n*
+Japanese cruiser Maya	shipDraft	–
+USS Sims	shipDraft	* standard\n* full load
+USS Joseph E. Campbell	shipDraft	* standard\n* full load
+APD-51)	shipDraft	* standard\n* full load
+SAS Drakensberg	shipDraft	7.9 m
+USCGC Dauntless	shipDraft	max
+USS Barr	shipDraft	* standard\n* full load
+USS Reeves	shipDraft	* standard\n* full load
+USS Chase	shipDraft	* standard\n* full load
+USS Loy	shipDraft	* standard\n* full load
+USS Barber	shipDraft	* standard\n* full load
+USS Manning	shipDraft	* standard\n* full load
+USS Neuendorf	shipDraft	* standard\n* full load
+USS James E. Craig	shipDraft	* standard\n* full load
+USS Eichenberger	shipDraft	* standard\n* full load
+USS Jordan	shipDraft	* standard\n* full load
+USS Newman	shipDraft	* standard\n* full load
+USS Cofer	shipDraft	* standard\n* full load
+USS Lloyd	shipDraft	* standard\n* full load
+USS Otter	shipDraft	* standard\n* full load
+USS Hubbard	shipDraft	* standard\n* full load
+USS Hayter	shipDraft	* standard\n* full load
+DEV Arahura	shipDraft	5.47 m
+USS Whitehurst	shipDraft	* standard\n* full load
+USS William T. Powell	shipDraft	* standard\n* full load
+USS Scott	shipDraft	* standard\n* full load
+USS Burke	shipDraft	* standard\n* full load
+USS Enright	shipDraft	* standard\n* full load
+USS Coolbaugh	shipDraft	* standard\n* full load
+USS Darby	shipDraft	* standard\n* full load
+Protector-class offshore patrol vessel	shipDraft	3.6
+USS J. Douglas Blackwood	shipDraft	* standard\n* full load
+USS Sumter	shipDraft	* \n*
+SSCV Thialf	shipDraft	max
+DCV Balder	shipDraft	max
+USS Francis M. Robinson	shipDraft	* standard\n* full load
+USS Solar	shipDraft	* standard\n* full load
+USNS John Ericsson	shipDraft	maximum
+USS Fowler	shipDraft	* standard\n* full load
+USS Spangenberg	shipDraft	* standard\n* full load
+USS Ahrens	shipDraft	* standard\n* full load
+SS Meriwether Lewis	shipDraft	8.5 m
+USS Alexander J. Luke	shipDraft	9.5
+USS Robert I. Paine	shipDraft	* standard\n* full load
+SS Benjamin Harrison	shipDraft	27
+USS Foreman	shipDraft	* \n*
+USNS Mission Capistrano	shipDraft	914.4
+USNS Mission Loreto	shipDraft	30.0
+USNS Mission San Antonio	shipDraft	30.0
+USNS Mission San Jose	shipDraft	30.0
+USNS Mission San Luis Rey	shipDraft	30.0
+ORP Warszawa	shipDraft	4.8
+USNS Mission San Miguel	shipDraft	30.0
+USNS Mission Santa Barbara	shipDraft	30.0
+USNS Mission Santa Clara	shipDraft	30.0
+USNS Mission Soledad	shipDraft	30.0
+USNS Mission San Carlos	shipDraft	30.0
+USCGC Modoc	shipDraft	782.0
+USS England	shipDraft	* standard\n* full load
+USS Mackinaw	shipDraft	9.0
+USS Witter	shipDraft	* standard\n* full load
+USS Bowers	shipDraft	*9.5 ft  standard\n*11.25 ft full load
+USS Willmarth	shipDraft	* standard\n* full load
+Landing Craft Infantry	shipDraft	*\n* aft
+Japanese cruiser Kinugasa	shipDraft	* \n*
+USNS Guadalupe	shipDraft	maximum
+Star Legend	shipDraft	5.2 m
+German Type XVII submarine	shipDraft	*Type XVIIA Wa 201 & Type XVIIB : \n**\n*Type XVIIA Wk 202 :\n**
+USS Chimo	shipDraft	9.0
+New Carissa	shipDraft	full load
+USS Mount Olympus	shipDraft	25.0
+MV Caledonian Isles	shipDraft	3.2 m
+BAP Aguirre	shipDraft	11.65 m
+Brazilian battleship São Paulo	shipDraft	*  normal\n*  full load
+Type 039 submarine	shipDraft	5.3 m
+Russian battleship Rostislav	shipDraft	* \n*
+Type 039A submarine	shipDraft	6.7
+Tachikaze-class destroyer	shipDraft	*\n*
+MS Princess Seaways	shipDraft	6.2
+USS Major	shipDraft	545.0
+Koni-class frigate	shipDraft	5 m
+USS Laning	shipDraft	*\n* maximum
+RV Atlantis	shipDraft	19.0
+RV Oceanus	shipDraft	17.5
+RV Thomas G. Thompson	shipDraft	19'
+Cannon-class destroyer escort	shipDraft	full load
+HNLMS De Ruyter	shipDraft	5.18 m
+MS Dunnottar Castle	shipDraft	22.2
+Landing Ship Medium	shipDraft	*Landing :\n* forward\n* aft\n*Full load :\n* forward\n* aft
+Landing Ship Medium	shipDraft	* forward\n* aft
+USS LSM-397	shipDraft	*Light :\n* fwd,  aft\n*Full load :\n* fwd,  aft
+USS General A. W. Greely	shipDraft	807.72
+USS Caribou	shipDraft	863.6
+Shikishima	shipDraft	9.0m
+USNS Robert E. Peary	shipDraft	* maximum,\n* limit
+USNS Richard E. Byrd	shipDraft	* maximum,\n* limit
+Thomas W. Lawson	shipDraft	* at 7,400 ts\n* at 11,000 ts
+USS St. Mary's River	shipDraft	* light\n* attack\n* full
+USS St. Joseph's River	shipDraft	* light\n* attack\n* full
+USS Aquarius	shipDraft	802.64
+M-class cruiser	shipDraft	* '\n* '
+USLHT Warrington	shipDraft	726.0
+USS La Moure County	shipDraft	*Full load :\n* forward\n* aft
+USS Melville	shipDraft	Ship power=
+USS LST-512	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+Hatsuyuki-class destroyer	shipDraft	*\n*
+Aréthuse-class submarine	shipDraft	4 m
+French Narval-class submarine	shipDraft	5.2 m
+Yamagumo-class destroyer	shipDraft	*Yamagumo class\n*\n*Aokumo class\n*
+William Lyon Mackenzie	shipDraft	2.5m
+Half Moon	shipDraft	max.
+USS Pee Dee River	shipDraft	* light\n* attack\n* full
+Yaeyama-class minesweeper	shipDraft	3.1 m
+PH 75	shipDraft	6.5 m
+USS Targeteer	shipDraft	*Pre-conversion :\n** light\n** attack\n** full\n*Post-conversion :\n**
+MV Clansman	shipDraft	3.2 m
+Success	shipDraft	22' 5''
+Sailing Ship Columbia	shipDraft	45
+USS Mackinac	shipDraft	maximum in 1965
+Raketa	shipDraft	* displacement mode\n* foilborne
+Voskhod	shipDraft	* \n*
+ROCS Tso Ying	shipDraft	9.6 m
+ROCS Ma Kong	shipDraft	9.6 m
+USS Lavaca	shipDraft	24.0
+USS Trippe	shipDraft	754.38
+USS Vreeland	shipDraft	754.38
+USS Connole	shipDraft	754.38
+USS Nauset	shipDraft	16.0
+USCGC Diligence	shipDraft	max
+USCGC Vigilant	shipDraft	max
+USCGC Resolute	shipDraft	max
+USCGC Steadfast	shipDraft	max
+USS Thaddeus Parker	shipDraft	287.02
+NOAAS Fairweather	shipDraft	15.5
+SS Georgiana	shipDraft	forward,  aft also reported as
+USS Detroit	shipDraft	* \n*
+SS Delphine	shipDraft	14.6
+RFA Wave Ruler	shipDraft	9.97
+RFA Wave Knight	shipDraft	9.97
+SM U-14	shipDraft	, surfaced
+USS Isabel	shipDraft	or
+MV Lord of the Isles	shipDraft	3.18 m
+USS LST-353	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USCGC Eastwind	shipDraft	.
+USCGC Westwind	shipDraft	25
+SF Hydro	shipDraft	3.2 m
+Azamara Quest	shipDraft	5.95
+USS Flagstaff	shipDraft	* \n*
+St. Lawrence II	shipDraft	9.0
+MV Northern Adventure	shipDraft	4.7 m
+USCGC White Alder	shipDraft	maximum
+USS Wheeling	shipDraft	730.0
+USS LSM-60	shipDraft	* forward\n* aft\n*Fully loaded :\n* forward\n* aft
+RV Hugh R. Sharp	shipDraft	* \n*
+USNS Bold	shipDraft	15.0
+Type 062 gunboat	shipDraft	*Shanghai-I class : \n*Shanghai-II class :
+SS Abner Doubleday	shipDraft	8.5 m
+USS Mineral County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+Nanuchka-class corvette	shipDraft	2.7 m
+Texas Clipper	shipDraft	25.0
+USS Hampshire County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Calhoun County	shipDraft	* forward\n* aft
+USS Jefferson County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Lincoln County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Marion County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Morgan County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Forster	shipDraft	full load
+Soviet M-class submarine	shipDraft	*VI and VI-bis: \n*XII: \n*XV:
+USS LST-749	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Donner	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+HSwMS Visby	shipDraft	2.5m
+Italian ironclad Affondatore	shipDraft	6.35 m
+Sovereign of the Seas	shipDraft	29.2
+Type 074-class landing ship	shipDraft	2.7m
+RMS Empress of Asia	shipDraft	42.0
+Polnocny-class landing ship	shipDraft	23 m
+USS Savage	shipDraft	full load
+RMS Campania	shipDraft	29.9
+Motor Torpedo Boat PT 105	shipDraft	maximum
+USNS Point Barrow	shipDraft	589.28
+MV Capt. Steven L. Bennett	shipDraft	11.6 m
+USS LST-5	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LCI	shipDraft	*Light :\n* mean\n*Landing :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Eversole	shipDraft	287.02
+USS Oberrender	shipDraft	287.02
+USS Thomas	shipDraft	266.7
+Cape-class cutter	shipDraft	*Type A, \n*Type B, \n*Type C, as completed
+HM LST-413	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+BAP Islay	shipDraft	5.9 m
+BAP Arica	shipDraft	5.9 m
+BAP Angamos	shipDraft	5.9 m
+BAP Pisagua	shipDraft	5.9 m
+BAP Chipana	shipDraft	5.9 m
+USS Leopold	shipDraft	full load
+SS Karanja	shipDraft	236.22000000000003
+USCGC Bittersweet	shipDraft	*1945 : \n*1966 :
+Stockholm-class corvette	shipDraft	2.6m
+USS Orange County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+Paul Gauguin	shipDraft	16.9
+USS San Bernardino County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+MV Isle of Mull	shipDraft	3.19 m
+USNS Harris County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-511	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Chelan County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+Ropucha-class landing ship	shipDraft	3.7 m
+USS LST-31	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS Alameda County	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS Armstrong County	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-60	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS Bamberg County	shipDraft	* fwd,  aft \n* fwd,  aft
+USS LST-263	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-266	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-279	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-288	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-306	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS Blanco County	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-356	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-389	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-391	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-400	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-482	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-483	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-491	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-504	shipDraft	-1.0
+USS LST-510	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Bulloch County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Caddo Parish	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+JDS Mirai	shipDraft	20.3
+USS Calaveras County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-50	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS Oceanside	shipDraft	*Light :\n* forward\n* aft\n*Full load :\n* forward\n* aft
+USS LST-521	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+Leninets-class submarine	shipDraft	All Groups:
+BX	shipDraft	16
+NMS Smeul	shipDraft	1.5 m
+Silver Wind	shipDraft	4.5
+USNS Sea Lift	shipDraft	731.52
+USS LST-310	shipDraft	*Unloaded :\n* bow\n* stern\n*Loaded :\n* bow\n* stern
+USS LST-317	shipDraft	*Unloaded :\n* bow\n* stern\n*Loaded :\n* bow\n* stern
+USS LST-316	shipDraft	*Unloaded :\n* bow\n* stern\n*Loaded :\n* bow\n* stern
+USS LST-332	shipDraft	*Unloaded\n* bow\n* stern\n*Loaded\n* bow\n* stern
+USS LST-350	shipDraft	*Unloaded\n* bow\n* stern\n*Loaded\n* bow\n* stern
+USS Shoveler	shipDraft	609.0
+USS Caroline County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Cassia County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-528	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Cayuga County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Chase County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Cheboygan County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Gladiator	shipDraft	10'
+NOAAS Mount Mitchell	shipDraft	maximum
+USS Ardent	shipDraft	327.66
+USS Chesterfield County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Chittenden County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-1000	shipDraft	forward; aft
+USS Gunston Hall	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+Accentor-class minesweeper	shipDraft	&ndash;
+USS Tacoma	shipDraft	12.0
+Maid of Iowa	shipDraft	Less than
+MV Argyle	shipDraft	5 m
+USS Vandivier	shipDraft	287.02
+USS LST-1001	shipDraft	* forward\n* aft
+USS LSM	shipDraft	mean
+USS LST-999	shipDraft	* forward;\n* aft
+USS LST-998	shipDraft	* forward;\n*
+USS LST-997	shipDraft	* forward;\n*
+USS LST-996	shipDraft	* forward;\n* aft
+USS LST-995	shipDraft	* forward;\n* aft
+USS LST-993	shipDraft	* forward\n* aft
+USS LST-994	shipDraft	* forward;\n* aft
+USS LST-992	shipDraft	* forward\n* aft
+USS LST-990	shipDraft	* forward\n* aft
+USS LST-989	shipDraft	* forward\n* aft
+USS LST-987	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Middlesex County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Churchill County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-984	shipDraft	* forward\n* aft
+USS LST-985	shipDraft	* forward\n* aft
+USS LST-986	shipDraft	* forward\n* aft
+USS LST-981	shipDraft	* forward\n* aft
+USS Meeker County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-919	shipDraft	* forward;\n* aft
+USS LST-875	shipDraft	* forward\n* aft
+USS LST-869	shipDraft	* forward\n* aft
+USS LST-872	shipDraft	* forward;\n* aft
+USS LST-801	shipDraft	* forward;\n* aft
+USS LST-1108	shipDraft	* forward;\n* aft
+USS LST-1044	shipDraft	* forward;\n* aft
+USS LST-1104	shipDraft	* forward;\n* aft
+USS LST-734	shipDraft	* forward;\n* aft
+USNS Tippecanoe	shipDraft	maximum
+ARA Cabo San Antonio	shipDraft	forward;  aft
+USS LST-545	shipDraft	* forward\n* aft
+USS LST-661	shipDraft	* forward\n* aft
+USS LST-884	shipDraft	* forward\n* aft
+USS Clearwater County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Coconino County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Crook County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS DeKalb County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-896	shipDraft	* forward\n* aft
+USS LST-814	shipDraft	* forward\n* aft
+USS LST-828	shipDraft	* forward\n* aft
+USNS Amelia Earhart	shipDraft	* maximum,\n* limit
+USS LST-826	shipDraft	* forward\n* aft
+USS LST-906	shipDraft	fwd;  aft
+USS LST-851	shipDraft	* forward;\n* aft
+USS Curry County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Dodge County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Jerome County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-823	shipDraft	* forward\n* aft
+USS LST-767	shipDraft	* forward\n* aft
+USS LST-738	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-874	shipDraft	* forward\n* aft
+USS LST-842	shipDraft	* forward\n* aft
+USS LST-843	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-849	shipDraft	* forward;\n* aft
+USS LST-853	shipDraft	* forward;\n* aft
+USS LST-900	shipDraft	* forward;\n* aft
+USS Wassuc	shipDraft	max.
+USS Pender County	shipDraft	* forward;\n* aft
+USS Bold	shipDraft	401.32
+USS Biscayne	shipDraft	maximum in 1965
+USS Bullfinch	shipDraft	full
+USS Viking	shipDraft	9
+USS LST-689	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+BRP Benguet	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Dukes County	shipDraft	* forward\n* aft
+USS Douglas County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Dunn County	shipDraft	* forward\n* aft
+USS Duval County	shipDraft	* forward\n* aft
+USNS Albert J. Myer	shipDraft	5.5
+USS LST-761	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Floyd County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Greer County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-759	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Ford County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Garrett County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Garfield County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Harnett County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS King County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Hunterdon County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Sedgwick County	shipDraft	* forward;\n* aft
+USS New London County	shipDraft	* forward;\n* aft
+USS Nye County	shipDraft	* forward;\n* aft
+USS Outagamie County	shipDraft	* forward;\n* aft
+USS Pitkin County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Summit County	shipDraft	* forward;\n* aft
+USS LSM-135	shipDraft	*Light :\n* forward\n* aft\n*Full load :\n* forward\n* aft
+LSM-1-class landing ship medium	shipDraft	* forward\n* aft\n*Fully loaded'' :\n** forward\n** aft
+USS LST-472	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Maricopa County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-563	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-794	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Park County	shipDraft	* forward;\n* aft
+USS Hamilton County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Hampden County	shipDraft	-1.0
+USS Christopher	shipDraft	266.7
+USS Bostwick	shipDraft	266.7
+USS Burrows	shipDraft	266.7
+USS LST-546	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft\n*Landing with 500-ton load:  forward;  aft
+USS LST-566	shipDraft	* forward;\n* aft
+USS LST-607	shipDraft	* forward;\n* aft
+USS LST-393	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS San Bernardino	shipDraft	forward,  aft
+United States L-class submarine	shipDraft	*Group 1: \n*Group 2:
+United States N-class submarine	shipDraft	*N-1 to N-3: \n*N-4 to N-7:
+USS Topeka	shipDraft	aft
+USS Clarion River	shipDraft	* forward\n* aft
+USS Hurst	shipDraft	full load
+USNS Joshua Humphreys	shipDraft	maximum
+Yankee	shipDraft	8.0
+Swift of Ipswich	shipDraft	9.0
+USS Henry County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Hickman County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Hillsborough County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-119	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-835	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-19	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS Holmes County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-29	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS Iredell County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Iron County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Jennings County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-850	shipDraft	-1.0
+USS Kemper County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Kent County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Alvin C. Cockrell	shipDraft	287.02
+USS Raymond	shipDraft	287.02
+USS Robert Brazier	shipDraft	287.02
+USS Edwin A. Howard	shipDraft	287.02
+USS Key	shipDraft	287.02
+USS Gentry	shipDraft	287.02
+USS Traw	shipDraft	287.02
+USS Maurice J. Manuel	shipDraft	287.02
+USS Doyle C. Barnes	shipDraft	287.02
+USS Kenneth M. Willett	shipDraft	287.02
+USS Jaccard	shipDraft	287.02
+USS Lloyd E. Acree	shipDraft	287.02
+USS George E. Davis	shipDraft	287.02
+USS Mack	shipDraft	287.02
+USS Woodson	shipDraft	287.02
+USS Johnnie Hutchins	shipDraft	287.02
+USS Lake County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Rolf	shipDraft	287.02
+USS Lafayette County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Pratt	shipDraft	287.02
+USS Rombach	shipDraft	287.02
+USS Yosemite	shipDraft	777.24
+USS Sierra	shipDraft	777.24
+USS French	shipDraft	287.02
+USS John L. Williamson	shipDraft	287.02
+USS Presley	shipDraft	287.02
+Akademik Fyodorov	shipDraft	8.5
+USS Williams	shipDraft	287.02
+USS Jack Miller	shipDraft	287.02
+USS La Moure County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+Russian destroyer Leytenant Zatsarenni	shipDraft	2.74 m
+USS Straus	shipDraft	287.02
+USS La Prade	shipDraft	287.02
+USS LeRay Wilson	shipDraft	287.02
+USS Lawrence County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-888	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Westchester County	shipDraft	518.16
+USS Douglas A. Munro	shipDraft	maximum
+USS Litchfield County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Cross	shipDraft	maximum
+USS Formoe	shipDraft	maximum
+USS Edward H. Allen	shipDraft	maximum
+USS Sheehan	shipDraft	287.02
+USS Oswald A. Powers	shipDraft	287.02
+USS Groves	shipDraft	287.02
+USCGC Icarus	shipDraft	* trial\n*1945:
+Polar 8 Project	shipDraft	&ndash;
+USS Yakutat	shipDraft	at full load in 1966
+USS Coos Bay	shipDraft	at full load in 1965
+USS Bering Strait	shipDraft	maximum in 1964
+USS Unimak	shipDraft	full load, aft, maximum, in 1966
+USS Cook Inlet	shipDraft	at full load in 1966
+SS Munargo	shipDraft	*\n*
+USS LST-903	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-904	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Madera County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Mahnomen County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-953	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Gold Star	shipDraft	24.0
+Thomas Wilson	shipDraft	24.0
+USS Monmouth County	shipDraft	Unloaded: forward aftLoaded: forward aft
+Ruby Princess	shipDraft	8.5m
+USS LST-1038	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Seize	shipDraft	13
+USS Montgomery County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Epping Forest	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+SMS G39	shipDraft	224.4
+MV Hebridean Isles	shipDraft	3.11 m
+Brooke-class frigate	shipDraft	* \n*
+USS Yankton	shipDraft	13.1
+USS Mettawee	shipDraft	17.0
+USS Ouachita County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Kanawha	shipDraft	17.0
+Makassar-class landing platform dock	shipDraft	*4.9 meters\n*5 meters
+USS LST-701	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-70	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+SMS G38	shipDraft	* \n*
+USS LSM-216	shipDraft	* fwd,  aft\n*fully loaded,  fwd,  aft
+SMS G40	shipDraft	224.4
+USS Alacrity	shipDraft	*\n*
+SMS V45	shipDraft	;
+RV Atlantis	shipDraft	18.0
+USRC Naugatuck	shipDraft	* \n*
+USS St. Regis River	shipDraft	* light\n* attack\n* full
+USS LST-1074	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Page County	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USNS Mohawk	shipDraft	15.1
+Enterprise	shipDraft	, light ship
+MV Golden Nori	shipDraft	8.75
+USS LCI	shipDraft	*Light,  mean\n*Landing,  fwd,  aft\n*Loaded,  fwd,  aft
+USS Platte	shipDraft	max
+HSwMS Orion	shipDraft	3.8 m
+Sacramento-class fast combat support ship	shipDraft	39.0
+USS LST-662	shipDraft	* fwd;  aft \n* fwd;  aft
+USS Arletta	shipDraft	*depth of hold: 8 ft 6 in \n*draft: 10 ft 6 in
+USS General M. L. Hersey	shipDraft	24.0
+USS Brunswick	shipDraft	, max
+USS Wateree	shipDraft	17'
+USS Laertes	shipDraft	22.0
+USS Dionysus	shipDraft	22.0
+USS Garland	shipDraft	722.0
+SS Kristianiafjord	shipDraft	29.4
+Sea Witch	shipDraft	19
+USS Stiletto	shipDraft	5'
+Owasco-class cutter	shipDraft	max
+USCGC Owasco	shipDraft	3.0
+USCGC Winnebago	shipDraft	17
+USCGC Chautauqua	shipDraft	3.0
+USCGC Sebago	shipDraft	3.0
+USCGC Klamath	shipDraft	3.0
+USCGC Winona	shipDraft	3.0
+USCGC Escanaba	shipDraft	3.0
+USCGC Wachusett	shipDraft	3.0
+USCGC Iroquois	shipDraft	3.0
+USS LST-141	shipDraft	*fwd  ×  aft\n* ×  \n* ×  \n* ×
+USS Cape Cod	shipDraft	27.0
+Tallapoosa-class cutter	shipDraft	358.14000000000004
+USCGC Tallapoosa	shipDraft	358.14000000000004
+USS Briareus	shipDraft	* as SS Hawaiian Planter\n*
+USS LSM-149	shipDraft	* fwd,  aft\n*Fully loaded:\n* fwd,  aft
+USS LST-16	shipDraft	* fwd;  aft \n* fwd;  aft \n* fwd;  aft
+USS Cythera	shipDraft	365.76
+Ersatz Yorck-class battlecruiser	shipDraft	8.7 m
+USS St. Clair County	shipDraft	*8 ft  forward\n*14 ft 4 in  aft
+USS Winnipec	shipDraft	308.0
+USS Sunnadin	shipDraft	444.5
+Union	shipDraft	12.0
+USS LST-247	shipDraft	550.0
+Australian landing ship medium Harry Chauvel	shipDraft	light,  loaded
+Australian landing ship medium Brudenell White	shipDraft	light,  loaded
+Wichita-class replenishment oiler	shipDraft	35.0
+Sycamore-class buoy tender	shipDraft	*Sycamore & Dogwood :\n*\n*Forsythia :\n*
+USS LST-357	shipDraft	*Light :\n* forward\n* aft\n*Sea-going :\n* forward\n* aft\n*Landing :\n* forward\n* aft
+USS Hunting	shipDraft	*Light :\n* forward\n* aft\n*Full load :\n* forward\n* aft
+Small unit riverine craft	shipDraft	static
+USRC Active	shipDraft	198.12
+USRC Scammel	shipDraft	6.5
+First ten Revenue Service cutters	shipDraft	~ 6 ft 6 in
+USRC Eagle	shipDraft	203.2
+USRC Argus	shipDraft	187.96
+USRC Virginia	shipDraft	198.12
+USS Menard	shipDraft	855.98
+USS Menifee	shipDraft	24.0
+USS Meriwether	shipDraft	855.98
+USS Sarasota	shipDraft	855.98
+USS Sibley	shipDraft	24.0
+USS Tazewell	shipDraft	24.0
+USS Telfair	shipDraft	24.0
+USS Montrose	shipDraft	24.0
+USS Mountrail	shipDraft	24.0
+USS Natrona	shipDraft	855.98
+USS Okaloosa	shipDraft	24.0
+USS Oneida	shipDraft	24.0
+USS Rawlins	shipDraft	855.98
+USS San Saba	shipDraft	855.98
+USS Navarro	shipDraft	24.0
+USS Bronx	shipDraft	24.0
+USS Bowditch	shipDraft	1266.0
+USS Noble	shipDraft	24.0
+USS Varian	shipDraft	, maximum
+USS Okanogan	shipDraft	24.0
+USS Bingham	shipDraft	24.0
+USS Renville	shipDraft	24.0
+USS Rockwall	shipDraft	24.0
+USS Sevier	shipDraft	24.0
+USS Bollinger	shipDraft	24.0
+USS Bottineau	shipDraft	24.0
+USS Bexar	shipDraft	24.0
+USS Dane	shipDraft	24.0
+USS Glynn	shipDraft	24.0
+USS Satellite	shipDraft	300.0
+USS Arayat	shipDraft	1508.0
+USS Samar	shipDraft	228.60000000000002
+USS Carlinville	shipDraft	610.0
+USS Warren	shipDraft	708.66
+USS Wayne	shipDraft	708.66
+USS Baxter	shipDraft	708.66
+USS Mohave	shipDraft	730.0
+MV True North	shipDraft	2.2 m
+USCGC Northland	shipDraft	max
+Sumter-class attack transport	shipDraft	708.66
+USS Frederick Funston	shipDraft	807.72
+USS Leedstown	shipDraft	25.0
+USS Adair	shipDraft	25.0
+USS Dutchess	shipDraft	25.0
+USS Shelby	shipDraft	25.0
+USS Griggs	shipDraft	807.72
+USS Grundy	shipDraft	807.72
+USS Ormsby	shipDraft	24.0
+USS Pierce	shipDraft	24.0
+USS Charles Carroll	shipDraft	782.32
+USS Harris	shipDraft	952.5
+USS Leonard Wood	shipDraft	952.5
+SS President Roosevelt	shipDraft	952.5
+USS Hunter Liggett	shipDraft	952.5
+USS Henry T. Allen	shipDraft	952.5
+USS Kodiak	shipDraft	*Light :\n* forward\n* aft\n*Full load :\n* forward\n* aft
+USS Barnett	shipDraft	772.16
+Kwa-di Tabil-class ferry	shipDraft	11'
+USS Thomas F. Nickel	shipDraft	*\n* full load
+USS William P. Biddle	shipDraft	777.24
+McCawley-class attack transport	shipDraft	~25 ft 6 in
+Arthur Middleton-class attack transport	shipDraft	~
+USNS Kiska	shipDraft	28.0
+Motor Torpedo Boat PT-346	shipDraft	5.0
+Altona	shipDraft	as built;  as reconstructed.
+USS William Ward Burrows	shipDraft	289.56
+USS Mount Vernon	shipDraft	960.12
+SS Santa Teresa	shipDraft	744.22
+USS U. S. Grant	shipDraft	838.2
+USS LCI	shipDraft	*Light :\n* mean\n*Landing :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Chateau Thierry	shipDraft	28.0
+USS Hermitage	shipDraft	27.0
+USS Thurston	shipDraft	23.0
+USNS Fred C. Ainsworth	shipDraft	833.12
+USS Alpha	shipDraft	, aft
+USNS George W. Goethals	shipDraft	833.12
+USNS Henry Gibbins	shipDraft	26.0
+USS Belle Grove	shipDraft	*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+USNS Aiken Victory	shipDraft	889.0
+USNS Lt. Raymond O. Beaudoin	shipDraft	29.0
+USS LST-345	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS Mayflower	shipDraft	* \n*  \n*
+USAT John L. Clem	shipDraft	693.4200000000001
+USNS David C. Shanks	shipDraft	833.12
+USS Lindenwald	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+USS Oak Hill	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+USS White Marsh	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+USS Mizpah	shipDraft	10
+Pioneer	shipDraft	w/centerboard,  w/o
+USS Vixen	shipDraft	386.08
+USS Casa Grande	shipDraft	* fwd,\n* aft ;\n* fwd,\n* aft
+USS Hatteras	shipDraft	1390.0
+USS Hippocampus	shipDraft	126.0
+USS Zaca	shipDraft	mean
+USS Hurst	shipDraft	or
+Victory Chimes	shipDraft	* \n*
+Stephen Taber	shipDraft	*\n*
+Mercantile	shipDraft	*\n*
+USS Princess Matoika	shipDraft	1918
+USS Almax II	shipDraft	186.0
+USS Catamount	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+USS Colonial	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+Bob Hope-class vehicle cargo ship	shipDraft	maximum
+USS Comstock	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+Red Jacket	shipDraft	31
+USS Fort Mandan	shipDraft	*  fwd,\n* aft \n*  fwd,\n* aft
+SS Winona	shipDraft	27.0
+USS Fort Marion	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+USS Whetstone	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+Spanish cruiser Isla de Cuba	shipDraft	maximum
+Spanish cruiser Isla de Luzón	shipDraft	maximum
+Spanish gunboat Marques del Duero	shipDraft	maximum
+USS Rushmore	shipDraft	*    8 ft 2½ in  fwd,\n*  10 ft ½ in  aft ;\n*  15 ft 5½ in  fwd,\n*  16 ft 2 in  aft
+Spanish cruiser Vizcaya	shipDraft	maximum
+Spanish cruiser Almirante Oquendo	shipDraft	maximum
+Spanish cruiser Infanta Maria Teresa	shipDraft	maximum
+Spanish cruiser Cristóbal Colón	shipDraft	maximum
+USNS Carl Brashear	shipDraft	* maximum,\n* limit
+USNS Wally Schirra	shipDraft	* maximum,\n* limit
+Spanish cruiser Isabel II	shipDraft	maximum
+Spanish cruiser Don Antonio de Ulloa	shipDraft	maximum
+Spanish cruiser Gravina	shipDraft	maximum
+HSwMS Trossö	shipDraft	4.5m
+HSwMS Visborg	shipDraft	4m
+HSwMS Belos	shipDraft	5.1m
+Spanish cruiser Velasco	shipDraft	maximum
+Spanish cruiser Don Juan de Austria	shipDraft	maximum
+Spanish cruiser Castilla	shipDraft	maximum
+USNS Henry Eckford	shipDraft	maximum
+USS Walter B. Cobb	shipDraft	411.48
+BRP Datu Kalantiaw	shipDraft	8.75
+USS Sylph	shipDraft	228.60000000000002
+Spanish battleship Pelayo	shipDraft	maximum
+Velasco-class cruiser	shipDraft	maximum
+Spanish cruiser Cristobal Colon	shipDraft	maximum
+Spanish cruiser Infanta Isabel	shipDraft	maximum
+Spanish cruiser Conde del Venadito	shipDraft	maximum
+Spanish cruiser Emperador Carlos V	shipDraft	mean
+Olympia-class cruiser	shipDraft	655.32
+SS Stevens	shipDraft	25.0
+Infanta Maria Teresa-class cruiser	shipDraft	maximum
+Alfonso XII-class cruiser	shipDraft	maximum
+Aragon-class cruiser	shipDraft	maximum
+Spanish cruiser Aragon	shipDraft	maximum
+Spanish cruiser Navarra	shipDraft	maximum
+USS Don Juan de Austria	shipDraft	mean
+Spanish cruiser Alfonso XIII	shipDraft	mean
+BRP Datu Sikatuna	shipDraft	8.75
+SS Exochorda	shipDraft	25.0
+MV St Clare	shipDraft	8.56
+Marinefährprahm	shipDraft	84.0
+USS Wasp	shipDraft	mean
+USS Chincoteague	shipDraft	in 1965
+USS Vedette	shipDraft	720.0
+USS Sultana	shipDraft	13'
+USS Emeline	shipDraft	726.0
+USS Corona	shipDraft	12'
+USS Harvard	shipDraft	726.0
+USS Felicia	shipDraft	426.0
+USS Florence	shipDraft	303.0
+USS Fort Wayne	shipDraft	1442.0
+USS C. W. Morse	shipDraft	9.0
+USS Bab	shipDraft	124.0
+USS Bali	shipDraft	1743.0
+USS Halcyon II	shipDraft	5'
+USS Wacondah	shipDraft	423.0
+USS Ice King	shipDraft	1388.0
+USS Pontiac	shipDraft	546.0
+USS J. B. Walker	shipDraft	1569.0
+USS J. M. Guffey	shipDraft	22'
+USS Idealia	shipDraft	130.0
+SS Catalina	shipDraft	at 2,390 tons
+USS Castle Rock	shipDraft	maximum in 1966
+USS Acoma	shipDraft	131.0
+USS California	shipDraft	8'
+USS Inca	shipDraft	126.0
+USS Inca	shipDraft	429.0
+USS Ionita	shipDraft	122.0
+USS Idylease	shipDraft	126.0
+USS Lyndonia	shipDraft	429.0
+USS Lydonia	shipDraft	347.98
+USS Montauk	shipDraft	16'
+USS Montauk	shipDraft	10'
+USS Barnegat	shipDraft	18'
+USS Wenonah	shipDraft	606.0
+USS Wenonah	shipDraft	11'
+USS Joseph F. Bellows	shipDraft	14'
+USS Galatea	shipDraft	9'
+USS Concord	shipDraft	11'
+USS Arcturus	shipDraft	249.0
+USS Helenita	shipDraft	486.0
+USS Utowana	shipDraft	909.0
+Clipper City	shipDraft	w/ centerboard,  w/o
+USS Favorite	shipDraft	9'
+USS Snowbell	shipDraft	786.0
+USS ATA-214	shipDraft	841.0
+HSwMS Helsingborg	shipDraft	2.5 m
+USS Sarsi	shipDraft	904.0
+USS Spitfire	shipDraft	668.0
+USS Torch	shipDraft	669.0
+USS Viper	shipDraft	426.0
+USS Spark	shipDraft	728.0
+USS Maartensdijk	shipDraft	1686.0
+USS ATA-215	shipDraft	841.0
+USS Hoptree	shipDraft	786.0
+USS Chinaberry	shipDraft	786.0
+USS Terebinth	shipDraft	786.0
+USS Viburnum	shipDraft	668.0
+Spanish sloop Jorge Juan	shipDraft	maximum
+USS Arapaho	shipDraft	904.0
+USS Winterberry	shipDraft	668.0
+USS Manchineel	shipDraft	668.0
+USS Spicewood	shipDraft	668.0
+USS Papaya	shipDraft	786.0
+USS Mastic	shipDraft	786.0
+USS Corkwood	shipDraft	786.0
+USS Cornel	shipDraft	786.0
+USS Satinleaf	shipDraft	786.0
+USS Cliffrose	shipDraft	786.0
+USS Stagbush	shipDraft	786.0
+Cangarda	shipDraft	-6
+USS Baretta	shipDraft	786.0
+USS Bitterbush	shipDraft	786.0
+USCGC Mohawk	shipDraft	373.38
+USS Teak	shipDraft	668.0
+Stratford-class transport	shipDraft	474.98
+USS Teaberry	shipDraft	668.0
+USS Nutmeg	shipDraft	668.0
+USS Plumas County	shipDraft	* forward;\n* aft
+Spanish submarine C-3	shipDraft	5.3
+USS Redwood	shipDraft	668.0
+USS Hazel	shipDraft	183.0
+USS Hazel	shipDraft	668.0
+USS Palm	shipDraft	668.0
+USS Mango	shipDraft	668.0
+USS Mahogany	shipDraft	668.0
+Type C4-class ship	shipDraft	* \n*
+USS Larch	shipDraft	606.0
+USS Elder	shipDraft	606.0
+USS Holly	shipDraft	486.0
+USS Holly	shipDraft	668.0
+USS Gum Tree	shipDraft	606.0
+USS Buckeye	shipDraft	668.0
+USS Cinchona	shipDraft	668.0
+USS Chestnut	shipDraft	668.0
+USS Catalpa	shipDraft	668.0
+USS Boxwood	shipDraft	668.0
+USS Ash	shipDraft	320.04
+USS Niagara	shipDraft	at full load
+USS Aloe	shipDraft	668.0
+USS Pinon	shipDraft	786.0
+USS Passumpsic	shipDraft	*As built:\n*\n*After \
+USS Silverleaf	shipDraft	786.0
+USS ATA-216	shipDraft	841.0
+USS ATA-217	shipDraft	841.0
+USS ATA-218	shipDraft	841.0
+USS San Diego	shipDraft	27'
+SS James Eagan Layne	shipDraft	27
+USS Navasota	shipDraft	*As built:\n*\n*After \
+USS Menemsha	shipDraft	1203.0
+USS Midway	shipDraft	969.0
+SS Point Bonita	shipDraft	1262.0
+USS Majaba	shipDraft	1031.0
+USS Malanao	shipDraft	790.0
+USS Taganak	shipDraft	19'
+USS Tuluran	shipDraft	1087.0
+MV Mississippi	shipDraft	8.0
+USS Manhasset	shipDraft	968.0
+USS Muskeget	shipDraft	739.14
+USS Besboro	shipDraft	19'
+USS Antaeus	shipDraft	20'
+USNS Dahl	shipDraft	34.0
+USS Basilan	shipDraft	23'
+USS Burias	shipDraft	23'
+USS Belle Isle	shipDraft	23'
+USS Coasters Harbor	shipDraft	23'
+USS Cuttyhunk Island	shipDraft	23'
+USS Indian Island	shipDraft	23'
+USS Kent Island	shipDraft	23'
+USS Camano	shipDraft	10.0
+USS Deal	shipDraft	10'
+USS Elba	shipDraft	10'
+USS Errol	shipDraft	10'
+USS Jekyl	shipDraft	10'
+USS Humboldt	shipDraft	maximum
+USS Matagorda	shipDraft	maximum in 1967
+USS Rockaway	shipDraft	maximum aft at full load in 1967
+USS Metomkin	shipDraft	10'
+USS Roque	shipDraft	10'
+USS Ryer	shipDraft	10'
+USS Sharps	shipDraft	10'
+USS Whidbey	shipDraft	10'
+USS Nashawena	shipDraft	6'
+USS LST-507	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Hewell	shipDraft	14.0
+USS Electron	shipDraft	841.0
+USS Proton	shipDraft	841.0
+USS Colington	shipDraft	841.0
+USS League Island	shipDraft	841.0
+USS League Island	shipDraft	489.0
+USS Chimon	shipDraft	841.0
+USNS Range Tracker	shipDraft	1686.0
+USNS Range Recoverer	shipDraft	665.0
+USNS Huntsville	shipDraft	29'
+USNS Wheeling	shipDraft	1686.0
+USNS Rose Knot	shipDraft	1027.0
+USNS Timber Hitch	shipDraft	1027.0
+USNS Sampan Hitch	shipDraft	1027.0
+USNS Phoenix	shipDraft	1681.0
+USNS Provo	shipDraft	1681.0
+USNS Cheyenne	shipDraft	1685.0
+USNS Shearwater	shipDraft	434.34000000000003
+USNS Robert D. Conrad	shipDraft	16'
+USNS James M. Gilliss	shipDraft	16'
+USNS Sands	shipDraft	16'
+USNS Lynch	shipDraft	16'
+USS Mispillion	shipDraft	*As built:\n*\n*After \
+USS Lee	shipDraft	248.0
+USNS Eltanin	shipDraft	18'
+USS Pawcatuck	shipDraft	*As built: \n*After \
+USNS Thomas Washington	shipDraft	16'
+USNS De Steiguer	shipDraft	16'
+USNS Bartlett	shipDraft	16'
+USNS Hayes	shipDraft	22'
+USNS Gyre	shipDraft	15'
+RV Kilo Moana	shipDraft	,
+RV Pacific Escort I	shipDraft	14'
+USS Lookout	shipDraft	27'
+USS Skywatcher	shipDraft	27'
+USS Searcher	shipDraft	24'
+USS Locator	shipDraft	24'
+USS Interceptor	shipDraft	24'
+USS Investigator	shipDraft	24'
+USS Outpost	shipDraft	22'
+USS Protector	shipDraft	22'
+USS Beaufort	shipDraft	, max
+USS Vigil	shipDraft	22'
+USS Interdictor	shipDraft	22'
+USS Interpreter	shipDraft	22'
+USS Tracer	shipDraft	22'
+USS Watchman	shipDraft	22'
+USNS Effective	shipDraft	24'
+USNS Loyal	shipDraft	25'
+MV Cory Chouest	shipDraft	14'
+Maltese patrol boat P29	shipDraft	2.3
+USNS Courier	shipDraft	12.1
+USNS Sisler	shipDraft	34.0
+USNS Watson	shipDraft	34.0
+USNS Soderman	shipDraft	34.0
+USNS Pomeroy	shipDraft	34.0
+USNS Watkins	shipDraft	34.0
+USNS Charlton	shipDraft	34.0
+USNS Red Cloud	shipDraft	34.0
+Russian submarine Pochtovy	shipDraft	2.8 m
+USS Lancaster	shipDraft	1682.0
+USS Beaufort	shipDraft	487.0
+USS Kittaton	shipDraft	547.0
+USS Tensaw	shipDraft	547.0
+SS City of Peking	shipDraft	1173.48
+SS City of Tokio	shipDraft	1173.48
+USS Muscatine	shipDraft	23'
+USS Sussex	shipDraft	369.0
+USS Wakiva II	shipDraft	mean
+USS P. K. Bauman	shipDraft	mean
+USS Anderton	shipDraft	mean
+USS Zoraya	shipDraft	mean
+USS Kanawha	shipDraft	mean
+USNS Kanawha	shipDraft	maximum
+USS Zizania	shipDraft	mean
+USS Zita	shipDraft	mean
+USS Zircon	shipDraft	mean
+USS Zipalong	shipDraft	mean
+USS Zenith	shipDraft	aft
+USS Zigzag	shipDraft	mean
+USS Zenda	shipDraft	mean
+USS Zara	shipDraft	aft
+USS Yo Ho	shipDraft	mean
+USS Zirkel	shipDraft	mean
+USS Zaanland	shipDraft	mean
+Paddle steamer Genève	shipDraft	1.60 m
+USS Hisko	shipDraft	mean
+USNS Benjamin Isherwood	shipDraft	maximum
+USNS Henry J. Kaiser	shipDraft	maximum
+USNS John Lenthall	shipDraft	maximum
+USNS Andrew J. Higgins	shipDraft	maximum
+USNS Walter S. Diehl	shipDraft	maximum
+USNS Leroy Grumman	shipDraft	maximum
+USNS Big Horn	shipDraft	maximum
+USNS Patuxent	shipDraft	maximum
+USNS Laramie	shipDraft	maximum
+Maumee-class oiler	shipDraft	maximum
+USNS Potomac	shipDraft	maximum
+USS Yank	shipDraft	mean
+USS W. F. Babcock	shipDraft	* mean\n* dph
+USS W. L. Messick	shipDraft	mean
+USS W. L. Steed	shipDraft	mean
+USS Wabaquasset	shipDraft	dph
+USS Wachusett	shipDraft	aft
+USS Wachapreague	shipDraft	at full load in 1966
+USS Willoughby	shipDraft	aft
+USS Willoughby	shipDraft	dph
+USS Wachusetts	shipDraft	f.
+USS Half Moon	shipDraft	full load aft in 1967
+USS Wakulla	shipDraft	* mean\n* dph
+USS Wanderlust	shipDraft	aft
+USS Wanderer	shipDraft	mean
+USS Wanderer	shipDraft	aft
+USS Wando	shipDraft	mean
+Buyan-class corvette	shipDraft	* \n*
+USS Wave	shipDraft	mean
+USS War Bug	shipDraft	mean
+USS Walter A. Luckenbach	shipDraft	mean
+USS Walter Adams	shipDraft	mean
+USS Wandank	shipDraft	mean
+USS Wandena	shipDraft	mean
+USS Honolulu	shipDraft	mean
+USS Wassaic	shipDraft	mean
+L 20 α-class battleship	shipDraft	*Normal: \n*Full load:
+USS Watonwan	shipDraft	mean
+USS Barataria	shipDraft	maximum in 1964
+USS Rehoboth	shipDraft	mean
+Watson-class vehicle cargo ship	shipDraft	maximum
+T43-class minesweeper	shipDraft	2.3
+Komar-class missile boat	shipDraft	2m
+Shershen-class torpedo boat	shipDraft	1.5 m
+USS LST-517	shipDraft	*Unloaded :\n* bow\n* stern\n*Loaded :\n* bow\n* stern
+Barnegat-class seaplane tender	shipDraft	full
+USS Casco	shipDraft	mean
+USS LCI	shipDraft	*Light,  mean\n*Landing,  fwd,  aft\n*Loaded,  fwd,  aft
+RV Wecoma	shipDraft	18.5
+USS PC-1181	shipDraft	330.2
+USS PC-496	shipDraft	330.2
+Patrulleros de Zona Marítima	shipDraft	16.5
+BRP Mangyan	shipDraft	forward,  aft
+USS LCI	shipDraft	*Light,  mean\n*Landing,  fwd,  aft\n*Loaded,  fwd,  aft
+USS Chesapeake	shipDraft	mean
+SS Chesapeake	shipDraft	maximum
+PGM-1-class motor gunboat	shipDraft	330.2
+USS SC-521	shipDraft	198.12
+Providence	shipDraft	312.42
+USS Arawan II	shipDraft	at full load
+USS Lynx II	shipDraft	mean
+USS Patrol No. 10	shipDraft	or
+USS LST-59	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS Barracuda	shipDraft	mean
+USNS Matthew Perry	shipDraft	* maximum,\n* limit
+MV Bute	shipDraft	5 m
+USS LSM-236	shipDraft	*Light :\n* forward\n* aft\n*Fully loaded :\n* forward\n* aft
+Brazilian battleship Minas Geraes	shipDraft	25.0
+USS Bouker No. 2	shipDraft	aft
+STV Fair Jeanne	shipDraft	or
+HMS Turbulent	shipDraft	*Unladen:\n*Laden:
+USS Mistletoe	shipDraft	205.74
+USS Mistletoe	shipDraft	11.0
+SS El Capitan	shipDraft	loaded mean
+USS Fort Worth	shipDraft	13.0
+USCGC Citrus	shipDraft	* \n*
+USS Day	shipDraft	294.64
+USCGC Cobb	shipDraft	19.0
+SS Governor Cobb	shipDraft	14.0
+USS Chaffee	shipDraft	294.64
+USS Hodges	shipDraft	294.64
+USS Riley	shipDraft	294.64
+USS Leslie L.B. Knox	shipDraft	294.64
+USS McNulty	shipDraft	294.64
+USS Elf	shipDraft	mean
+USS Whippet	shipDraft	aft
+USS Metivier	shipDraft	294.64
+USS George A. Johnson	shipDraft	294.64
+USS Lough	shipDraft	294.64
+USS Peiffer	shipDraft	294.64
+SS Arlington	shipDraft	17.0
+USNS Charles Drew	shipDraft	* maximum,\n* limit
+USS Tinsman	shipDraft	294.64
+USS Coates	shipDraft	294.64
+USS Aphrodite	shipDraft	Approximately
+USS Eugene E. Elmore	shipDraft	294.64
+HMS Oceanway	shipDraft	*     fwd,\n*   aft ;\n*   fwd,\n*   aft
+USS Nina	shipDraft	299.71999999999997
+MV Del Norte	shipDraft	.
+MV Mendocino	shipDraft	.
+USS Steuben County	shipDraft	* forward;\n* aft
+USS LST-1022	shipDraft	Unloaded: forward aftLoaded: forward aft
+USS LST-480	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+Japanese seaplane tender Kamikawa Maru	shipDraft	30
+USS LST-543	shipDraft	*Unloaded  bow;  stern\n*Full load:  forward;  aft
+USS LST-544	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft\n*Landing with 500-ton load:  forward;  aft
+USS LST-547	shipDraft	*Unloaded  bow;  stern\n*Full load:  forward;  aft
+USS LST-548	shipDraft	*Unloaded  bow;  stern\n*Full load:  forward;  aft
+USS LST-549	shipDraft	*Unloaded  bow;  stern\n*Full load:  forward;  aft
+USS LST-550	shipDraft	*Unloaded  bow;  stern\n*Full load:  forward;  aft
+USS LST-552	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft\n*Landing with 500-ton load:  forward;  aft
+USS LST-553	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft
+USS LST-554	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft
+USS LST-555	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft\n*Landing with 500-ton load:  forward;  aft
+USS LST-556	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft\n*Landing with 500-ton load:  forward;  aft
+USS LST-557	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft\n*Landing with 500-ton load:  forward;  aft
+BRP Laguna	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+Ashland-class dock landing ship	shipDraft	* fwd,\n* aft
+USS LST-559	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft\n*Landing with 500-ton load:  forward;  aft
+USS LST-560	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft\n*Landing with 500-ton load:  forward;  aft
+USS LST-562	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft\n*Landing with 500-ton load:  forward;  aft
+USS LST-564	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft\n*Landing with 500-ton load:  forward;  aft
+São Gabriel	shipDraft	2.3 m
+Caribbean Sailing Yachts	shipDraft	300.0
+USS Antelope	shipDraft	162.56
+USS Ready	shipDraft	162.56
+USS Canon	shipDraft	162.56
+USS Welch	shipDraft	162.56
+USS LST-565	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft
+USS LST-567	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft
+USS LST-568	shipDraft	*Unloaded  forward;  aft\n*Full load:  forward;  aft\n*Landing with 500-ton load:  forward;  aft
+USS Grand Rapids	shipDraft	162.56
+USS Beacon	shipDraft	162.56
+Japanese seaplane tender Kiyokawa Maru	shipDraft	30
+MV Seabourn Sojourn	shipDraft	6.4
+Bouvines-class coast defense ship	shipDraft	forward,
+USAT J. W. McAndrew	shipDraft	maximum
+RV Vantuna	shipDraft	6.0
+Loaloat Al Behar	shipDraft	5.0
+USS LST-469	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+French submarine Espadon	shipDraft	5.2 m
+USS Harold J. Ellison	shipDraft	287.02
+USS Myles C. Fox	shipDraft	287.02
+USS Charles R. Ware	shipDraft	287.02
+INS Gharial	shipDraft	4 m
+SS Sagamo	shipDraft	9.0
+USS Benner	shipDraft	287.02
+USS Dennis J. Buckley	shipDraft	287.02
+USS Everett F. Larson	shipDraft	287.02
+USS Rogers Blood	shipDraft	287.02
+USS William R. Rush	shipDraft	287.02
+USS William M. Wood	shipDraft	287.02
+MV Nella Dan	shipDraft	6.268 m
+USS LSM	shipDraft	* forward\n* aft
+USCGC Woodrush	shipDraft	.
+USS LSM	shipDraft	* forward\n* aft
+USNS Washington Chambers	shipDraft	* maximum,\n* limit
+USS LSM	shipDraft	* forward\n* aft
+USS LSM	shipDraft	* forward\n* aft
+USS LSM-45	shipDraft	*Landing :\n* forward\n* aft\n*Full load :\n* forward\n* aft
+USS LSM	shipDraft	* forward\n* aft
+USS LSM	shipDraft	* forward\n* aft
+USS White Sands	shipDraft	*\n* submerged
+USS LSM	shipDraft	* forward\n* aft
+USS LSM	shipDraft	* forward\n* aft
+USS LSM	shipDraft	* forward\n* aft
+USS LSM	shipDraft	* forward\n* aft
+USS John P. Gray	shipDraft	maximum
+USS Bassett	shipDraft	maximum
+Brazilian cruiser Bahia	shipDraft	* forward\n* amidships\n* aft
+USS Jack C. Robinson	shipDraft	maximum
+USS Odum	shipDraft	maximum
+USS Pavlic	shipDraft	maximum
+USS Yokes	shipDraft	maximum
+Miura-class landing ship tank	shipDraft	3.0 m
+USS Apache	shipDraft	mean
+USS Sovereign	shipDraft	aft
+USS Emerald	shipDraft	aft
+T.991-class patrol boat	shipDraft	1.813m
+USS LSM	shipDraft	* light\n* attack\n* fully loaded
+USRC Moccasin	shipDraft	9'
+USS Wilrose II	shipDraft	aft
+USS Arroyo	shipDraft	mean
+USS Wemootah	shipDraft	aft
+USS Volunteer	shipDraft	aft
+USS Whirlwind	shipDraft	mean
+USS Sabalo	shipDraft	mean
+USNS William McLean	shipDraft	* maximum,\n* limit
+USS Pirate	shipDraft	mean
+USS Wiwoka	shipDraft	aft
+USS Sunbeam III	shipDraft	mean
+USS Hobcaw	shipDraft	mean
+USNS Medgar Evers	shipDraft	* maximum,\n* limit
+USS Wistaria	shipDraft	aft
+MV Coruisk	shipDraft	3.05m
+SS Sea Marlin	shipDraft	868.6800000000001
+USS Olympic	shipDraft	mean
+USC&GS Dailhache	shipDraft	mean
+USS Tillamook	shipDraft	mean
+USRC Wissahickon	shipDraft	9'
+USCGC Winnisimmet	shipDraft	9'
+USRC James C. Dobbin	shipDraft	549.0
+USRC William H. Seward	shipDraft	7'
+Bahia-class cruiser	shipDraft	* forward\n* amidships\n* aft
+Spanish seaplane carrier Dédalo	shipDraft	7.4 m
+USS Spray II	shipDraft	mean
+USS Spray	shipDraft	mean
+USS Ripple	shipDraft	mean
+USS Onward II	shipDraft	mean
+USS Wilbert A. Edwards	shipDraft	mean
+Dutch 1913 battleship proposal	shipDraft	maximum
+Casco-class cutter	shipDraft	full
+Mystic	shipDraft	18.0
+USS Triton	shipDraft	mean
+USS A. Brook Taylor	shipDraft	aft
+MV Loch Alainn	shipDraft	1.73m
+USRC James Guthrie	shipDraft	487.0
+USRC Rush	shipDraft	726.0
+USRC Hamilton	shipDraft	8'
+SS Bergensfjord	shipDraft	29.4
+USRC Scammel	shipDraft	9.0
+USRC Manhattan	shipDraft	486.0
+Russian battleship Andrei Pervozvanny	shipDraft	at standard displacement
+SS Meredith Victory	shipDraft	28.0
+USS SC-1316	shipDraft	full load
+Australian landing ship medium Vernon Sturdee	shipDraft	light,  loaded
+Australian landing ship medium Clive Steele	shipDraft	light,  loaded
+SS Carolina	shipDraft	33.0
+USCGC Gentian	shipDraft	*\n* max
+Sutil	shipDraft	* forward\n* aft
+Mexicana	shipDraft	* forward\n* aft
+USS LCI	shipDraft	*Light,  mean\n*Landing,  fwd,  aft\n*Loaded,  fwd,  aft
+USS LCI	shipDraft	*Light,  mean\n*Landing,  fwd,  aft\n*Loaded,  fwd,  aft
+USCGC Comanche	shipDraft	mean
+Engin de débarquement amphibie rapide	shipDraft	* \n*
+NOAAS Henry B. Bigelow	shipDraft	543.0
+USNS Fisher	shipDraft	maximum
+USNS Mendonca	shipDraft	maximum
+USNS Brittin	shipDraft	maximum
+USNS Benavidez	shipDraft	maximum
+USS Adept	shipDraft	,
+LSM	shipDraft	* light\n* attack\n* fully loaded
+Inca	shipDraft	16
+USS Ahdeek	shipDraft	aft
+Sweepstakes	shipDraft	6
+Rainbow	shipDraft	18
+USS LST-167	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+Surprise	shipDraft	22
+USS LST-291	shipDraft	*Unloaded:\n*Bow: \n*Stern: \n*Loaded :\n*Bow: \n*Stern:
+USS LST-939	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USCGC Laurel	shipDraft	* \n*
+USCGC Sorrel	shipDraft	*  \n*
+USCGC Clover	shipDraft	12
+USCGC Tupelo	shipDraft	12
+Young America	shipDraft	26
+Sea Witch	shipDraft	35.0
+Kingfisher	shipDraft	24
+Russian yacht Livadia	shipDraft	2.1 m
+Thatcher Magoun	shipDraft	24
+Witchcraft	shipDraft	22
+Carrier Dove	shipDraft	,
+USS Grinnell	shipDraft	10
+Memnon	shipDraft	21
+Memnon	shipDraft	22
+Mary Robinson	shipDraft	22
+Hornet	shipDraft	22
+Lookout	shipDraft	21
+Race Horse	shipDraft	16
+Antelope of Boston	shipDraft	.
+USS LST-740	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LSM-115	shipDraft	*Light :\n* forward\n* aft\n*Fully loaded :\n* forward\n* aft
+SSV Tabor Boy	shipDraft	314.96000000000004
+MS Lord Selkirk II	shipDraft	251.46
+MV Avenue Star	shipDraft	8.48m
+Necker Belle	shipDraft	1.80m
+John Gilpin	shipDraft	22
+Westward Ho!	shipDraft	23
+Blue Jacket	shipDraft	.
+Japanese submarine I-12	shipDraft	5.89 m
+USS LST-459	shipDraft	*Light :\n* forward\n* aft\n*Sea-going :\n* forward\n* aft\n*Landing  :\n* forward\n* aft
+NOAAS Bell M. Shimada	shipDraft	* \n*
+Witch of the Wave	shipDraft	21
+Andrew Jackson	shipDraft	. 3 in.
+Bismarck-class battleship	shipDraft	standard
+Son of Town Hall	shipDraft	20.0
+Jacob Meindert	shipDraft	2.5
+Syren	shipDraft	22
+USS Spartan	shipDraft	aft
+USS Nemesis	shipDraft	aft
+USS LSM-217	shipDraft	*Light :\n* forward\n* aft\n*Full load :\n* forward\n* aft
+USS Wyandance	shipDraft	forward
+USS Avis	shipDraft	aft
+USS Kajeruna	shipDraft	aft
+USS Thetis	shipDraft	aft
+USS Legonia II	shipDraft	aft
+USS Vidofner	shipDraft	mean
+USS Helen Euphane	shipDraft	mean
+USS Weepoose	shipDraft	mean
+USAV MG Winfield Scott	shipDraft	;
+USS Vigilant	shipDraft	mean
+USS Speedway	shipDraft	aft
+USS Marija	shipDraft	aft
+USS Susanne	shipDraft	aft
+USS Kemah	shipDraft	aft
+USS Eclipse	shipDraft	aft
+USS Suzanne	shipDraft	aft
+USS Beaumere II	shipDraft	mean
+USS Wendy	shipDraft	aft
+USS Anado	shipDraft	aft
+USS Aurore II	shipDraft	mean
+USS Blue Bird	shipDraft	mean
+USS Tangier	shipDraft	mean
+SS Richmond P. Hobson	shipDraft	8.5 m
+USS Tasco	shipDraft	aft
+USS Charles Mann	shipDraft	aft
+USS Valiant	shipDraft	mean
+USS Beluga	shipDraft	aft
+USS Bonita	shipDraft	forward
+USS LST-622	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft\n*Landing:\n* forward\n* aft
+USS Astrea	shipDraft	forward
+USS Tamarack	shipDraft	mean
+King Philip	shipDraft	24
+USS Arcady	shipDraft	forward
+USS Enaj	shipDraft	forward
+USS Vivace	shipDraft	aft
+USS Dreadnought	shipDraft	aft
+USS Dreadnaught	shipDraft	aft
+USS Valeda	shipDraft	mean
+USS Juniata	shipDraft	*\n*
+USS Whistler	shipDraft	mean
+USS Kiowa	shipDraft	*\n*
+USS Moosehead	shipDraft	mean
+USS Saxis	shipDraft	mean
+USS Betty M. II	shipDraft	aft
+USS Welcome	shipDraft	mean
+USS Tramp	shipDraft	mean
+Minas Geraes-class battleship	shipDraft	*  mean\n*  max
+USS Tuna	shipDraft	mean
+USS Vencedor	shipDraft	mean
+USS Trilby	shipDraft	forward
+USS Breakwater	shipDraft	mean
+USS McKeever Brothers	shipDraft	mean
+USS Edward J. McKeever Jr.	shipDraft	or
+USS Vester	shipDraft	mean
+USS Ibis	shipDraft	mean
+USS Amagansett	shipDraft	aft
+USS Barbara	shipDraft	aft
+USS Lexington II	shipDraft	aft
+USS Jimetta	shipDraft	aft
+USS Rush	shipDraft	forward
+USS Linta	shipDraft	aft
+SS Cumberland	shipDraft	10.5
+USS Comet	shipDraft	limiting
+USS Toxaway	shipDraft	mean
+USS Vision	shipDraft	mean
+USS Vision	shipDraft	mean
+USS James H. Clark	shipDraft	or
+USS Arcadia	shipDraft	mean
+USS Arcadia	shipDraft	mean
+USS Teaser	shipDraft	aft
+USS Terrier	shipDraft	forward
+USS Bagheera	shipDraft	mean
+USS Yarrow	shipDraft	forward
+USS Talofa	shipDraft	mean
+USS Arval	shipDraft	forward
+USS Tech III	shipDraft	aft
+USS Tech Jr.	shipDraft	aft
+USS Thistle	shipDraft	aft
+USS LCI	shipDraft	*Light,  mean\n*Landing,  fwd,  aft\n*Loaded,  fwd,  aft
+USS Marjorie M.	shipDraft	mean
+USS Regis II	shipDraft	mean
+MV Anton Dohrn	shipDraft	*\n*\n* aft
+USS Verna & Esther	shipDraft	mean
+USS Vitesse	shipDraft	mean
+HSwMS Ulla Fersen	shipDraft	4.0
+USS Wego	shipDraft	aft
+USS Margaret Anderson	shipDraft	mean
+SS Quinault Victory	shipDraft	868.6800000000001
+USS Annabelle	shipDraft	aft
+USS Mirna	shipDraft	aft
+PS Murray Princess	shipDraft	1.2
+H-class battleship proposals	shipDraft	* H39: \n* H41: \n* H42: \n* H43: \n* H44:
+USS Velocipede	shipDraft	mean
+USS Anemone IV	shipDraft	aft
+USS St. Mary's	shipDraft	mean
+USS Berwind	shipDraft	mean
+Serviola-class patrol boat	shipDraft	3.36 m
+USS Snapper	shipDraft	mean
+Humboldt	shipDraft	15
+Sunny South	shipDraft	16
+USS Vaud J.	shipDraft	mean
+USS Betty Jane I	shipDraft	aft
+USS Avalon	shipDraft	mean
+USS Tocsam	shipDraft	mean
+USS Tommy Traddles	shipDraft	mean
+USS Alpaco	shipDraft	mean
+USS Arabian	shipDraft	aft
+USS Arabia	shipDraft	aft
+MCP Altona	shipDraft	6.45 m
+USS Westport	shipDraft	24
+USS Willimantic	shipDraft	aft
+USS West Mead	shipDraft	mean
+USS Western Belle	shipDraft	mean
+USS Bellingham	shipDraft	mean
+USCGC Southwind	shipDraft	max
+Type 093 submarine	shipDraft	7.5 m
+USS Western Comet	shipDraft	mean
+USS SC-49	shipDraft	* normal\n* full load
+USS SC-1	shipDraft	* normal\n* full load
+USS SC-2	shipDraft	* normal\n* full load
+USS SC-3	shipDraft	* normal\n* full load
+USS SC-4	shipDraft	* normal\n* full load
+USS SC-6	shipDraft	* normal\n* full load
+USS SC-19	shipDraft	* normal\n* full load
+USS SC-18	shipDraft	* normal\n* full load
+USS SC-17	shipDraft	* normal\n* full load
+HMS Protector	shipDraft	* \n*
+USS SC-20	shipDraft	* normal\n* full load
+USS SC-21	shipDraft	* normal\n* full load
+USS SC-23	shipDraft	* normal\n* full load
+USS SC-24	shipDraft	* normal\n* full load
+USS SC-25	shipDraft	* normal\n* full load
+Italian destroyer Caio Duilio	shipDraft	7.6 m
+Keystone State-class crane ship	shipDraft	32.0
+USS SC-26	shipDraft	* normal\n* full load
+USS SC-22	shipDraft	* normal\n* full load
+USS SC-27	shipDraft	* normal\n* full load
+USS SC-34	shipDraft	* normal\n* full load
+USS SC-35	shipDraft	* normal\n* full load
+USS SC-36	shipDraft	* normal\n* full load
+USS SC-37	shipDraft	* normal\n* full load
+USS SC-38	shipDraft	* normal\n* full load
+USS SC-39	shipDraft	* normal\n* full load
+USS SC-40	shipDraft	* normal\n* full load
+USS SC-41	shipDraft	* normal\n* full load
+USS SC-44	shipDraft	* normal\n* full load
+USS SC-43	shipDraft	* normal\n* full load
+USS SC-42	shipDraft	* normal\n* full load
+German battleship Tirpitz	shipDraft	standard
+Cimarron-class fleet replenishment oiler	shipDraft	max
+DCV Aegir	shipDraft	max
+USNS New Bedford	shipDraft	10.0
+USS LST-766	shipDraft	* forward\n* aft
+USS Challenger	shipDraft	30'
+USS LCI	shipDraft	*Light,  mean\n*Landing,  fwd,  aft\n*Loaded,  fwd,  aft
+Xanthus-class repair ship	shipDraft	22.0
+Simón Bolívar	shipDraft	full load
+HSC Leonora Christina	shipDraft	4.85 m
+NOAAS Reuben Lasker	shipDraft	* \n*
+TIV MPI Adventure	shipDraft	* \n*
+RV Zeeleeuw	shipDraft	3.65
+MV Argyll Flyer	shipDraft	2.0m
+German cruiser Lützow	shipDraft	Full load:
+German cruiser Blücher	shipDraft	Full load:
+Orkan-class fast attack craft	shipDraft	2.15 m
+Jade-class aircraft carrier	shipDraft	Full load:
+Runnymede-class large landing craft	shipDraft	* light\n* loaded\n*
+USS Milwaukee	shipDraft	*  \n*
+USS Detroit	shipDraft	13.0
+Mahlon Williamson	shipDraft	13
+Thomas Winsmore	shipDraft	10
+Swordfish	shipDraft	20
+Italian destroyer Andrea Doria	shipDraft	7.6 m
+Patrol Ship Multi-Mission	shipDraft	3.05 m
+USS LSM-17	shipDraft	*Landing :\n* forward\n* aft\n*Full load :\n* forward\n* aft
+S.V. Cynthia Woods	shipDraft	422.0
+Tategami-class salvage tugboat	shipDraft	*Tategami\n* \n*Nagaura\n*
+Swiftships Model 35PB1208 E-1455	shipDraft	2.59
+USCGC Cahoone	shipDraft	7.5
+Shinas	shipDraft	2.1m
+MSC Bruxelles	shipDraft	15m
+Kyoto Express	shipDraft	12.1 m
+Marchen Maersk	shipDraft	16m
+Chicago Express	shipDraft	,
+USCGC Vigilant	shipDraft	7.5
+Type 216 submarine	shipDraft	6.6 m
+Neptune	shipDraft	2.2 m
+USAHS Marigold	shipDraft	967.74
+MV Gwendoline Steers	shipDraft	fwd  aft
+USCGC Alert	shipDraft	7.5
+MSC Fabiola	shipDraft	maximum
+USNS Pililaau	shipDraft	maximum
+USNS Seay	shipDraft	maximum
+USNS John McDonnell	shipDraft	maximum
+SS Cape May	shipDraft	40.0
+SS Cape Island	shipDraft	32'
+SS Cape Intrepid	shipDraft	32'
+SS Cape Isabel	shipDraft	32.0
+SS Cape Inscription	shipDraft	32.0
+MV Cape Orlando	shipDraft	30.0
+MV Cape Wrath	shipDraft	38.0
+MV Cape Race	shipDraft	33.0
+SAS Manthatisi	shipDraft	5.8 m
+Type 032 submarine	shipDraft	6.85 m
+Albatroz-class patrol boat	shipDraft	1.6m
+USS Chariton River	shipDraft	* forward\n* aft
+LCM	shipDraft	mean
+Azio-class minelayer	shipDraft	-
+USS LST-471	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-473	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+Brazilian cruiser Rio Grande do Sul	shipDraft	* forward\n* amidships\n* aft
+Landing Barge, Kitchen	shipDraft	approximately
+ATLS-9701	shipDraft	maximum
+USNS Schuyler Otis Bland	shipDraft	27
+MT Vulcanus	shipDraft	364.20000000000005
+MT Vulcanus	shipDraft	363.59999999999997
+Japanese aircraft transport Goshū Maru	shipDraft	40.0
+Type C6 ship	shipDraft	* \n* \n*
+Regina Maris	shipDraft	330.2
+Russian submarine Orel	shipDraft	9.0 m
+RV Neil Armstrong	shipDraft	15.0
+USS Enterprise	shipDraft	39.0
+SSV Oliver Hazard Perry	shipDraft	13.0
+USS Clifton	shipDraft	full load
+Japanese Type 6 submarine	shipDraft	* \n*
+RRS Discovery II	shipDraft	6 m
+SS Mormachawk	shipDraft	27.5
+MV Emsstrom	shipDraft	max.
+USS LCI-90	shipDraft	*Light,  mean\n*Landing,  fwd,  aft\n*Loaded,  fwd,  aft
+Walton	shipDraft	17
+GNS Stephen Otu	shipDraft	1.7 m
+SS Platano	shipDraft	fulll laden
+Haijian 50	shipDraft	5.0
+USS St. Francis River	shipDraft	* \n* \n*
+Cosco Glory	shipDraft	15.5m
+Thor Heyerdahl	shipDraft	2.90 m
+Margaret Todd	shipDraft	* \n*
+USS Portland	shipDraft	7 m
+JS Izumo	shipDraft	7.5 m
+MV Britannia	shipDraft	8.3 m
+USCG 65' Small harbor tug	shipDraft	max
+USNS Pecos	shipDraft	maximum
+USS LST-713	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS Phenakite	shipDraft	*\n*
+SS Antilles	shipDraft	mean:
+J. B. Ford	shipDraft	28.0
+Huntington	shipDraft	aft
+Shikishima-class patrol vessel	shipDraft	9.0m
+Sa'ar 72-class corvette	shipDraft	less than
+MV Cape Ray	shipDraft	1926.0
+MV Cape Rise	shipDraft	32'
+Soviet submarine K-21	shipDraft	4.51m
+SS Melville E. Stone	shipDraft	8.5 m
+MV Etretat	shipDraft	6m
+RMS Orizaba	shipDraft	24'
+NOAAS Whiting	shipDraft	* \n*
+NOAAS Peirce	shipDraft	* \n*
+NOAAS Miller Freeman	shipDraft	* \n*
+NOAAS Oscar Dyson	shipDraft	* \n*
+NOAAS Pisces	shipDraft	* \n*
+Soviet submarine K-1	shipDraft	4.51m
+RMS Parthia	shipDraft	46.0
+Kusong class torpedo boat	shipDraft	1 m
+German submarine U-33	shipDraft	6 m
+MV Nelcebee	shipDraft	2.79
+German training ship Hugo Zeye	shipDraft	Standard
+v Yankee Clipper	shipDraft	17.0
+Russian replenishment ship Berezina	shipDraft	7.7 m
+USS LST-666	shipDraft	* fwd;  aft \n* fwd;  aft \n* fwd;  aft
+USS Douglas	shipDraft	162.56
+SS Claymont Victory	shipDraft	1680.0
+MF Vis	shipDraft	10.8 m
+USS LST-487	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+USS LST-484	shipDraft	*Unloaded :\n* forward\n* aft\n*Loaded :\n* forward\n* aft
+Luna	shipDraft	6.50m
+HMS Destiny	shipDraft	401.32
+HMS Eminent	shipDraft	401.32
+HMS Emphatic	shipDraft	401.32
+USRC Grant	shipDraft	664.0
+Grahamona	shipDraft	when fully loaded with 300 tons cargo;   with no cargo
+USS LST-355	shipDraft	*Light :\n* forward\n* aft\n*Sea-going :\n* forward\n* aft\n*Landing :\n* forward\n* aft
+Velero III	shipDraft	mean
+USS Sparrow	shipDraft	*Light  mean\n*Landing  forward,
+USS Sparrow	shipDraft	4.0
+USS Sparrow	shipDraft	aft
+USS Sparrow	shipDraft	*Loaded  forward,
+USS Sparrow	shipDraft	5.0
+Type 079-class landing ship	shipDraft	2.6m
+Elwood	shipDraft	when fully loaded;   with no cargo
+SS G. P. Griffith	shipDraft	with no cargo;  with full cargo
+Type 079 landing ship medium	shipDraft	2.36m
+Type 271 landing craft	shipDraft	1.7m
+Type 271 landing craft	shipDraft	2.28m
+Type 074A landing ship	shipDraft	2.7 m
+Type 072A landing ship	shipDraft	2.8m
+Essex-class aircraft carrier	shipDraft	std;  fl
+RV Gloria Michelle	shipDraft	* forward\n* aft
+HMS Favourite	shipDraft	401.32
+USS Endeavor	shipDraft	1864.0
+USS Silenus	shipDraft	340.36
+French submarine Mariotte	shipDraft	, surfaced
+USS Waukegan	shipDraft	12.0
+USS Antigone	shipDraft	340.36
+USS Brontes	shipDraft	340.36
+Modoc YT-16	shipDraft	259.08
+SS Tivives	shipDraft	mean
+USS Okisko	shipDraft	228.60000000000002
+USS Chiron	shipDraft	11
+USS John Blish	shipDraft	261.62
+USNS Marine Fiddler	shipDraft	33.0
+USS Hooper Island	shipDraft	23.0
+Beiqi 346-class crane ship	shipDraft	*standard\n* full load
+USS Natchaug	shipDraft	477.52
+USS Pecatonica	shipDraft	477.52
+USS Romain	shipDraft	9.0
+USS Torry	shipDraft	10.0
+S Carolinian	shipDraft	8.5
+Winema	shipDraft	Less than
+Almak	shipDraft	3.10m
+Unio	shipDraft	about  when loaded
+Soviet submarine K-3	shipDraft	4.51m
+USS Venetia	shipDraft	15'
+USS Coral	shipDraft	*\n*
+USS Fort Lauderdale	shipDraft	7 m
+Type Long March cargo ship, medical evacuation	shipDraft	6.0
+Rescuerunner	shipDraft	0.3
+MV Alucia	shipDraft	4.43
+USS PGM-32	shipDraft	10
+H45 Battleship Proposal	shipDraft	* H45:
+Donbas	shipDraft	4.63 m
+Parola-class patrol vessel	shipDraft	approx.
+Karakut-class corvette	shipDraft	*
+Robert Young	shipDraft	About
+Yuri Olefirenko	shipDraft	2.3 m

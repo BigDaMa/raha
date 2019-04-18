@@ -1,0 +1,1893 @@
+Hume Highway	exits	*
+Hume Highway	exits	A3
+Hume Highway	exits	A6
+Hume Highway	exits	Cumberland Highway
+Hume Highway	exits	M5 South Western Motorway
+Hume Highway	exits	Westlink M7
+Hume Highway	exits	Metroad 9
+Hume Highway	exits	Illawarra Highway
+Hume Highway	exits	Federal Highway
+Hume Highway	exits	Barton Highway
+Hume Highway	exits	Sturt Highway
+Hume Highway	exits	Olympic Highway
+Hume Highway	exits	Midland Highway
+Hume Highway	exits	Goulburn Valley Freeway
+Hume Highway	exits	Sydney Road, Melbourne
+Princes Highway	exits	*
+Princes Highway	exits	M5 South Western Motorway
+Princes Highway	exits	President Avenue\n*
+Princes Highway	exits	A3
+Princes Highway	exits	A6
+Princes Highway	exits	Princes Motorway
+Princes Highway	exits	Illawarra Highway
+Princes Highway	exits	South Gippsland Highway
+Princes Highway	exits	Princes Freeway
+Princes Highway	exits	South Gippsland Freeway
+Princes Highway	exits	Henty Highway
+Princes Highway	exits	Riddoch Highway
+Princes Highway	exits	Dukes Highway
+CityLink	exits	West Gate Freeway
+EastLink	exits	*
+EastLink	exits	'''
+EastLink	exits	Springvale Road
+EastLink	exits	'''\n*
+EastLink	exits	Ringwood Bypass
+EastLink	exits	Burwood Highway
+EastLink	exits	Monash Freeway
+EastLink	exits	Princes Highway
+EastLink	exits	Dandenong Bypass
+EastLink	exits	Peninsula Link
+Newell Highway	exits	*
+Newell Highway	exits	Barwon Highway
+Newell Highway	exits	Cunningham Highway
+Newell Highway	exits	Bruxner Highway
+Newell Highway	exits	Carnarvon Highway
+Newell Highway	exits	Gwydir Highway
+Newell Highway	exits	Kamilaroi Highway
+Newell Highway	exits	Oxley Highway
+Newell Highway	exits	Castlereagh Highway
+Newell Highway	exits	Golden Highway
+Newell Highway	exits	Mitchell Highway
+Newell Highway	exits	Escort Way
+Newell Highway	exits	Lachlan Valley Way
+Newell Highway	exits	Henry Lawson Way
+Newell Highway	exits	Mid-Western Highway
+Newell Highway	exits	Goldfields Way
+Newell Highway	exits	Burley Griffin Way
+Newell Highway	exits	Irrigation Way
+Newell Highway	exits	Sturt Highway
+Newell Highway	exits	Kidman Way
+Newell Highway	exits	Riverina Highway
+Mitchell Highway	exits	*
+Mitchell Highway	exits	Warrego Highway
+Mitchell Highway	exits	Balonne Highway
+Mitchell Highway	exits	Kamilaroi Highway
+Mitchell Highway	exits	Kidman Way
+Mitchell Highway	exits	Barrier Highway
+Mitchell Highway	exits	Oxley Highway
+Mitchell Highway	exits	Newell Highway
+Mitchell Highway	exits	Golden Highway
+Mitchell Highway	exits	Peabody Road
+Mitchell Highway	exits	Escort Way
+Mitchell Highway	exits	Mid-Western Highway
+Oxley Highway	exits	*
+Oxley Highway	exits	Newell Highway
+Oxley Highway	exits	Castlereagh Highway
+Oxley Highway	exits	Kamilaroi Highway
+Oxley Highway	exits	New England Highway
+Oxley Highway	exits	Fossickers Way
+Oxley Highway	exits	Thunderbolts Way
+Oxley Highway	exits	Pacific Highway
+Bruce Highway	exits	*
+Bruce Highway	exits	Palmerston Highway
+Bruce Highway	exits	Flinders Highway, Queensland
+Bruce Highway	exits	Peak Downs Highway
+Bruce Highway	exits	Capricorn Highway
+Bruce Highway	exits	Burnett Highway
+Bruce Highway	exits	Dawson Highway
+Bruce Highway	exits	Isis Highway
+Bruce Highway	exits	Wide Bay Highway
+Bruce Highway	exits	D'Aguilar Highway
+Bruce Highway	exits	Gympie Arterial Road
+Gwydir Highway	exits	Newell Highway
+Gwydir Highway	exits	Fossickers Way
+Gwydir Highway	exits	New England Highway
+Gwydir Highway	exits	Summerland Way
+New England Highway	exits	*
+New England Highway	exits	Esk-Hampton Road
+New England Highway	exits	Warrego Highway
+New England Highway	exits	Gore Highway
+New England Highway	exits	Cunningham Highway
+New England Highway	exits	Bruxner Highway
+New England Highway	exits	Gwydir Highway
+New England Highway	exits	Waterfall Way
+New England Highway	exits	Oxley Highway
+New England Highway	exits	Fossickers Way
+New England Highway	exits	Kamilaroi Highway
+New England Highway	exits	Putty Road
+New England Highway	exits	Golden Highway
+New England Highway	exits	Hunter Expressway
+New England Highway	exits	John Renshaw Drive
+Golden Highway	exits	*
+Golden Highway	exits	Putty Road
+Golden Highway	exits	Bylong Valley Way
+Golden Highway	exits	Castlereagh Highway
+Golden Highway	exits	'''
+Great Western Highway	exits	*
+Great Western Highway	exits	Hume Highway
+Great Western Highway	exits	M4 Western Motorway
+Great Western Highway	exits	Metroad 3
+Great Western Highway	exits	Woodville Road\n*
+Great Western Highway	exits	Church Street,
+Great Western Highway	exits	Parramatta
+Great Western Highway	exits	Cumberland Highway
+Great Western Highway	exits	Westlink M7
+Great Western Highway	exits	Wallgrove Road\n*
+Great Western Highway	exits	Rooty Hill Road South\n*
+Great Western Highway	exits	Metroad 9
+Great Western Highway	exits	Bells Line of Road
+Great Western Highway	exits	Castlereagh Highway
+Great Western Highway	exits	O'Connell Road
+Great Western Highway	exits	Bathurst-Ilford Road
+Great Western Highway	exits	Mid-Western Highway
+Bruxner Highway	exits	*
+Bruxner Highway	exits	New England Highway
+Bruxner Highway	exits	Summerland Way
+Bruxner Highway	exits	*''for full list see [[#Major Intersections and Towns
+Bruxner Highway	exits	major intersections]]
+Silver City Highway	exits	*
+Silver City Highway	exits	Calder Highway
+Silver City Highway	exits	Barrier Highway
+Sturt Highway	exits	Barrier Highway
+Sturt Highway	exits	Barossa Valley Way
+Sturt Highway	exits	Calder Highway
+Sturt Highway	exits	Silver City Highway
+Sturt Highway	exits	Murray Valley Highway
+Sturt Highway	exits	Mid-Western Highway  via  Cobb Highway
+Sturt Highway	exits	Kidman Way
+Sturt Highway	exits	Newell Highway
+Sturt Highway	exits	Olympic Highway
+Cobb Highway	exits	Mid-Western Highway
+Cobb Highway	exits	Sturt Highway
+Cobb Highway	exits	Riverina Highway \n\n''for full list see major intersections
+Barrier Highway	exits	*
+Barrier Highway	exits	Goyder Highway
+Barrier Highway	exits	Wilmington–Ucolta Road
+Barrier Highway	exits	Silver City Highway
+Barrier Highway	exits	Cobb Highway
+Barrier Highway	exits	Kidman Way
+Federal Highway	exits	*Sutton Road\n*
+Federal Highway	exits	Majura Road
+Federal Highway	exits	/
+Federal Highway	exits	Horse Park Drive
+Monaro Highway	exits	*
+Monaro Highway	exits	Snowy Mountains Highway
+Monaro Highway	exits	Hindmarsh Drive
+Monaro Highway	exits	Canberra Avenue
+Midland Highway	exits	*
+Midland Highway	exits	Boyer Road\n*
+Midland Highway	exits	East Derwent Highway
+Midland Highway	exits	Esk Highway
+Midland Highway	exits	Lake Highway
+Midland Highway	exits	Illawarra Main Road
+A6	exits	*
+A6	exits	Victoria Road
+A6	exits	M4 Western Motorway
+A6	exits	Parramatta Road
+A6	exits	Hume Highway
+A6	exits	Canterbury Road\n*
+A6	exits	M5 South Western Motorway
+A6	exits	Henry Lawson Drive\n*
+A6	exits	Bangor Bypass
+M4	exits	*
+M4	exits	Victoria Road
+M4	exits	Parramatta Road
+M4	exits	A3
+M4	exits	Metroad 6
+M4	exits	James Ruse Drive
+M4	exits	Great Western Highway
+M4	exits	Woodville Road\n*
+M4	exits	Cumberland Highway
+M4	exits	Prospect Highway, Sydney
+M4	exits	Westlink M7
+M4	exits	Wallgrove Road\n*
+M4	exits	Metroad 9
+M4	exits	Russell Street\n*
+St Kilda Road, Melbourne	exits	* Southbank Boulevard / Linlithgow Avenue\n* Park Street\n* Kings Way\n*
+St Kilda Road, Melbourne	exits	Toorak Road, Melbourne
+St Kilda Road, Melbourne	exits	* Commercial Road\n*
+St Kilda Road, Melbourne	exits	High Street, Melbourne
+St Kilda Road, Melbourne	exits	*
+St Kilda Road, Melbourne	exits	Hoddle Highway
+St Kilda Road, Melbourne	exits	Princes Highway
+St Kilda Road, Melbourne	exits	* Fitzroy Street\n*
+St Kilda Road, Melbourne	exits	Barkly Street, Melbourne
+Nepean Highway	exits	*
+Nepean Highway	exits	Princes Highway
+Nepean Highway	exits	Hoddle Highway
+Nepean Highway	exits	Beach Road, Melbourne
+Nepean Highway	exits	Mornington Peninsula Freeway
+South Gippsland Highway	exits	*
+South Gippsland Highway	exits	South Gippsland Freeway
+South Gippsland Highway	exits	Western Port Highway
+South Gippsland Highway	exits	Bass Highway
+South Gippsland Highway	exits	Strzelecki Highway
+South Gippsland Highway	exits	Hyland Highway
+South Gippsland Highway	exits	*''for full list see
+South Gippsland Highway	exits	South Gippsland Highway
+South Gippsland Highway	exits	''
+Bass Highway	exits	*
+Bass Highway	exits	'''
+Bass Highway	exits	Phillip Island Road
+Bass Highway	exits	'''\n*
+Bass Highway	exits	South Gippsland Highway
+Bass Highway	exits	'\nfor full list see [[#Major Intersections and Towns
+Bass Highway	exits	major intersections]]''
+Capricorn Highway	exits	Gregory Highway
+Capricorn Highway	exits	Leichhardt Highway
+Eyre Highway	exits	*
+Eyre Highway	exits	Flinders Highway, South Australia
+Eyre Highway	exits	Tod Highway
+Eyre Highway	exits	Lincoln Highway
+Eyre Highway	exits	Stuart Highway
+Bass Highway, Tasmania	exits	*
+Bass Highway, Tasmania	exits	Meander Valley Highway\n*
+Bass Highway, Tasmania	exits	Illawarra Main Road
+Bass Highway, Tasmania	exits	Biralee Road\n*
+Bass Highway, Tasmania	exits	Lake Highway
+Bass Highway, Tasmania	exits	Mole Creek Road\n*
+Bass Highway, Tasmania	exits	Gilbert Street\n*
+Bass Highway, Tasmania	exits	Stony Rise Road\n*
+Bass Highway, Tasmania	exits	Turners Beach Road\n*
+Bass Highway, Tasmania	exits	Gawler Road\n*
+Bass Highway, Tasmania	exits	Pine Road\n*
+Bass Highway, Tasmania	exits	Mission Hill Road\n*
+Bass Highway, Tasmania	exits	Ridgley Highway\n*
+Bass Highway, Tasmania	exits	Murchison Highway
+Brooker Highway	exits	Domain Highway
+Brooker Highway	exits	Goodwood Road
+Brooker Highway	exits	Lyell Highway'\n\nfor full list see Exits''
+Tasman Highway	exits	*
+Tasman Highway	exits	Domain Highway
+Tasman Highway	exits	East Derwent Highway
+Tasman Highway	exits	South Arm Highway
+Tasman Highway	exits	Cambridge Road \n*
+Tasman Highway	exits	Arthur Highway
+Tasman Highway	exits	Lake Leake Highway \n*
+Tasman Highway	exits	Esk Highway
+Mid-Western Highway	exits	Kidman Way
+Mid-Western Highway	exits	Newell Highway
+Mid-Western Highway	exits	Goldfields Way
+Mid-Western Highway	exits	Henry Lawson Way
+Mid-Western Highway	exits	Olympic Highway
+Mid-Western Highway	exits	Lachlan Valley Way
+Mid-Western Highway	exits	Mitchell Highway
+Castlereagh Highway	exits	*
+Castlereagh Highway	exits	Gwydir Highway
+Castlereagh Highway	exits	Kamilaroi Highway
+Castlereagh Highway	exits	Newell Highway
+Castlereagh Highway	exits	Golden Highway
+Castlereagh Highway	exits	*''for full list see [[#Major intersections and towns
+Castlereagh Highway	exits	major intersections]]''
+Mount Lindesay Highway	exits	Granard / Riawena Roads
+Mount Lindesay Highway	exits	Learoyd Road
+Mount Lindesay Highway	exits	Compton Road
+Mount Lindesay Highway	exits	Logan Motorway
+Mount Lindesay Highway	exits	Browns Plains Road
+Mount Lindesay Highway	exits	Stockleigh Road
+Mount Lindesay Highway	exits	Beaudesert-Nerang Road
+Mount Lindesay Highway	exits	Beaudesert-Boonah Road
+Kamilaroi Highway	exits	*
+Kamilaroi Highway	exits	Castlereagh Highway
+Kamilaroi Highway	exits	Newell Highway
+Kamilaroi Highway	exits	Oxley Highway
+Summerland Way	exits	Bruxner Highway
+Olympic Highway	exits	Sturt Highway
+A3	exits	Forest Way\n*
+A3	exits	Pacific Highway
+A3	exits	*
+A3	exits	M2 Hills Motorway
+A3	exits	Epping Road
+A3	exits	Victoria Road\n*
+A3	exits	Concord Road\n*
+A3	exits	M4 Western Motorway
+A3	exits	Great Western Highway
+A3	exits	Hume Highway
+A3	exits	Punchbowl Road\n*
+A3	exits	Canterbury Road\n*
+A3	exits	M5 South Western Motorway
+A3	exits	Stoney Creek Road \n*
+A3	exits	Forest Road
+M2	exits	*
+M2	exits	Pacific Highway
+M2	exits	Epping Road\n*
+M2	exits	Delhi Road\n*
+M2	exits	Metroad 3
+M2	exits	Cumberland Highway
+A9	exits	*
+A9	exits	Richmond Road \n*
+A9	exits	Hawkesbury Valley Way\n*
+A9	exits	Great Western Highway
+A9	exits	M4 Western Motorway
+A9	exits	Western Sydney Airport Motorway
+A9	exits	Old Hume Highway
+A9	exits	Camden Bypass
+Cumberland Highway	exits	*
+Cumberland Highway	exits	M2 Hills Motorway
+Cumberland Highway	exits	A6
+Cumberland Highway	exits	James Ruse Drive
+Cumberland Highway	exits	Windsor Road
+Cumberland Highway	exits	Old Windsor Road
+Cumberland Highway	exits	Great Western Highway
+Cumberland Highway	exits	M4 Western Motorway
+Westlink M7	exits	*
+Westlink M7	exits	M4 Western Motorway
+Westlink M7	exits	,
+Westlink M7	exits	New South Wales
+Stuart Highway	exits	*
+Stuart Highway	exits	Arnhem Highway
+Stuart Highway	exits	Kakadu Highway
+Stuart Highway	exits	Victoria Highway
+Stuart Highway	exits	Roper Highway
+Stuart Highway	exits	Carpentaria Highway
+Stuart Highway	exits	Buchanan Highway
+Stuart Highway	exits	Barkly Highway
+Stuart Highway	exits	Sandover Highway
+Stuart Highway	exits	Plenty Highway
+Stuart Highway	exits	Tanami Road
+Stuart Highway	exits	Lasseter Highway
+Stuart Highway	exits	Oodnadatta Track
+Stuart Highway	exits	Anne Beadell Highway
+Hoddle Highway	exits	*
+Hoddle Highway	exits	Heidelberg Road, Melbourne
+Hoddle Highway	exits	Eastern Freeway, Melbourne
+Hoddle Highway	exits	Eastern Highway
+Hoddle Highway	exits	Johnston Street \n*
+Hoddle Highway	exits	Victoria Street, Melbourne
+Hoddle Highway	exits	Wellington Parade, Melbourne
+Hoddle Highway	exits	/
+Hoddle Highway	exits	Bridge Road, Melbourne
+Hoddle Highway	exits	Swan Street, Melbourne
+Hoddle Highway	exits	CityLink
+Hoddle Highway	exits	Toorak Road \n*
+Hoddle Highway	exits	Commercial Road\n*
+Hoddle Highway	exits	High Street, Melbourne
+Hoddle Highway	exits	Princes Highway
+Hoddle Highway	exits	St. Kilda Road, Melbourne
+Hoddle Highway	exits	Fitzroy Street\n*
+Hoddle Highway	exits	Nepean Highway
+Hoddle Highway	exits	Carlisle Street\n*
+Hoddle Highway	exits	Glen Huntly Road
+West Gate Freeway	exits	*
+West Gate Freeway	exits	Western Ring Road, Melbourne
+West Gate Freeway	exits	CityLink
+West Gate Freeway	exits	''for full list see [[#Exits and Interchanges
+West Gate Freeway	exits	exits and interchanges]]''
+Tullamarine Freeway	exits	*
+Tullamarine Freeway	exits	Western Ring Road
+Tullamarine Freeway	exits	Calder Freeway
+Monash Freeway	exits	*
+Monash Freeway	exits	EastLink, Melbourne
+Monash Freeway	exits	South Gippsland Freeway
+Monash Freeway	exits	for full list see exits and interchanges
+South Gippsland Freeway	exits	*
+South Gippsland Freeway	exits	Princes Highway
+South Gippsland Freeway	exits	South Gippsland Highway
+South Gippsland Freeway	exits	''for full list see
+South Gippsland Freeway	exits	South Gippsland Freeway
+South Gippsland Freeway	exits	''
+Western Freeway	exits	*
+Western Freeway	exits	'''
+Western Freeway	exits	Sunraysia Highway
+Western Freeway	exits	'''\n*
+Western Freeway	exits	Midland Highway
+Western Freeway	exits	Melton Highway
+Western Freeway	exits	'\nfor full list see
+Western Freeway	exits	Western Freeway
+Western Freeway	exits	.''
+Calder Freeway	exits	*
+Calder Freeway	exits	Midland Highway
+Calder Freeway	exits	Pyrenees Highway
+Calder Freeway	exits	Melton Highway
+Calder Freeway	exits	Western Ring Road, Melbourne
+Calder Freeway	exits	''for full list see
+Calder Freeway	exits	Calder Freeway
+Calder Freeway	exits	''
+Brunswick Street, Melbourne	exits	*
+Brunswick Street, Melbourne	exits	Eastern Highway
+Brunswick Street, Melbourne	exits	Johnston Street\n*Gertrude Street
+Flinders Street, Melbourne	exits	*
+Flinders Street, Melbourne	exits	Spencer Street, Melbourne
+Flinders Street, Melbourne	exits	King Street, Melbourne
+Flinders Street, Melbourne	exits	/
+Flinders Street, Melbourne	exits	Princes Highway, Melbourne
+Flinders Street, Melbourne	exits	William Street, Melbourne
+Flinders Street, Melbourne	exits	Queen Street, Melbourne
+Flinders Street, Melbourne	exits	Elizabeth Street, Melbourne
+Flinders Street, Melbourne	exits	Swanston Street, Melbourne
+Flinders Street, Melbourne	exits	Russell Street, Melbourne
+Flinders Street, Melbourne	exits	Exhibition Street, Melbourne
+Flinders Street, Melbourne	exits	*Batman Avenue Toll Road\n*
+Flinders Street, Melbourne	exits	Spring Street, Melbourne
+Parramatta Road	exits	*
+Parramatta Road	exits	M4 Western Motorway
+Parramatta Road	exits	A3
+Parramatta Road	exits	A6
+Eastern Freeway	exits	*
+Eastern Freeway	exits	'''
+Eastern Freeway	exits	Hoddle Highway
+Eastern Freeway	exits	'''\n*
+Eastern Freeway	exits	Chandler Highway
+Eastern Freeway	exits	Springvale Road
+Eastern Freeway	exits	'\nfor full list see [[#Exits and Interchanges
+Eastern Freeway	exits	exits and interchanges]]''
+Calder Highway	exits	*
+Calder Highway	exits	'''
+Calder Highway	exits	Sturt Highway
+Calder Highway	exits	'''\n*
+Calder Highway	exits	Mallee Highway
+Calder Highway	exits	Sunraysia Highway
+Calder Highway	exits	Borung Highway
+Calder Highway	exits	Midland Highway
+Calder Highway	exits	'\nfor full list see [[#Major Intersections and Towns
+Calder Highway	exits	major intersections]]''
+Princes Freeway	exits	*
+Princes Freeway	exits	Princes Highway, Geelong
+Princes Freeway	exits	Western Ring Road
+Princes Freeway	exits	Old Princes Highway, Victoria
+Princes Freeway	exits	Strzelecki Highway
+Princes Freeway	exits	*''for full list see
+Princes Freeway	exits	Princes Freeway
+Princes Freeway	exits	or
+Princes Freeway	exits	''
+Mornington Peninsula Freeway	exits	*
+Mornington Peninsula Freeway	exits	'''
+Mornington Peninsula Freeway	exits	EastLink
+Mornington Peninsula Freeway	exits	''' \n*
+Mornington Peninsula Freeway	exits	Frankston Freeway
+Mornington Peninsula Freeway	exits	Nepean Highway
+Mornington Peninsula Freeway	exits	'\nfor full list see [[#Exits and intersections
+Mornington Peninsula Freeway	exits	exits and intersections]]''
+Maroondah Highway	exits	*
+Maroondah Highway	exits	EastLink, Melbourne
+Maroondah Highway	exits	Warburton Highway
+Maroondah Highway	exits	Melba Highway
+Maroondah Highway	exits	Goulburn Valley Highway
+Maroondah Highway	exits	Midland Highway
+Sydney Road, Melbourne	exits	Craigieburn Road, Somerton Road, Cooper Street, Camp/Mahoneys Roads,  Western Ring Road, Bell Street, Brunswick Road
+South Eastern Freeway	exits	*
+South Eastern Freeway	exits	Mount Barker Road
+South Eastern Freeway	exits	Onkaparinga Valley Road
+South Eastern Freeway	exits	Adelaide Road
+Princes Motorway	exits	*
+Princes Motorway	exits	Appin Road
+Princes Motorway	exits	Picton Road
+Princes Motorway	exits	Princes Highway
+Princes Motorway	exits	Memorial Drive
+Dukes Highway	exits	*
+Dukes Highway	exits	Mallee Highway
+Dukes Highway	exits	Riddoch Highway
+Dukes Highway	exits	Ngarkat Highway
+Southern Expressway	exits	*
+Southern Expressway	exits	Marion Road
+Davey Street, Hobart	exits	Sandy Bay Road /
+Davey Street, Hobart	exits	Southern Outlet
+Western Highway	exits	*
+Western Highway	exits	Borung Highway
+Western Highway	exits	Henty Highway
+Western Highway	exits	Wimmera Highway
+Western Highway	exits	Pyrenees Highway
+Spencer Street, Melbourne	exits	*
+Spencer Street, Melbourne	exits	Dudley Street
+Spencer Street, Melbourne	exits	La Trobe Street, Melbourne
+Spencer Street, Melbourne	exits	Lonsdale Street, Melbourne
+Spencer Street, Melbourne	exits	Bourke Street, Melbourne
+Spencer Street, Melbourne	exits	Collins Street, Melbourne
+Spencer Street, Melbourne	exits	Flinders Street, Melbourne
+Warrego Highway	exits	''' Landsborough Highway
+Warrego Highway	exits	Carnarvon Highway
+Warrego Highway	exits	Leichhardt Highway
+Warrego Highway	exits	Moonie Highway
+Warrego Highway	exits	Bunya Highway
+Warrego Highway	exits	Gore Highway
+Warrego Highway	exits	New England Highway
+Warrego Highway	exits	Brisbane Valley Highway'''
+Barossa Valley Way	exits	*
+Barossa Valley Way	exits	Gorge Road, South Australia
+Barossa Valley Way	exits	Angaston Road
+Riddoch Highway	exits	*
+Riddoch Highway	exits	B57 Bordertown-Naracoorte Road\n*
+Riddoch Highway	exits	Wimmera Highway
+Riddoch Highway	exits	*Edenhope-Penola Road\n*
+Riddoch Highway	exits	Princes Highway
+Mallee Highway	exits	*
+Mallee Highway	exits	'''
+Mallee Highway	exits	Calder Highway
+Mallee Highway	exits	'\nfor full list see [[#Major Intersections and Towns
+Mallee Highway	exits	major intersections]]''
+Flinders Highway, South Australia	exits	*
+Flinders Highway, South Australia	exits	Birdseye Highway
+Flinders Highway, South Australia	exits	Tod Highway
+Hamilton Highway	exits	*
+Hamilton Highway	exits	Hopkins Highway
+Hamilton Highway	exits	Geelong Ring Road
+Hamilton Highway	exits	''for full list see [[#Major Intersections and Towns
+Hamilton Highway	exits	major intersections]]''
+Flinders Highway, Queensland	exits	*
+Flinders Highway, Queensland	exits	Landsborough Highway
+Flinders Highway, Queensland	exits	, east of
+Flinders Highway, Queensland	exits	Cloncurry, Queensland
+Flinders Highway, Queensland	exits	Kennedy Highway
+Flinders Highway, Queensland	exits	Gregory Highway
+Albany Highway	exits	*
+Albany Highway	exits	Leach Highway
+Albany Highway	exits	Tonkin Highway
+Albany Highway	exits	Brookton Highway
+Albany Highway	exits	Armadale Road
+Albany Highway	exits	South Western Highway
+Albany Highway	exits	Coalfields Road
+Albany Highway	exits	Great Southern Highway
+Albany Highway	exits	Muirs Highway
+Albany Highway	exits	South Coast Highway
+Brand Highway	exits	*
+Brand Highway	exits	Indian Ocean Drive
+Brand Highway	exits	Midlands Road
+Great Southern Highway	exits	*
+Great Southern Highway	exits	Northam–York Road \n* Westdale Road\n*
+Great Southern Highway	exits	Brookton–Corrigin Road \n*
+Great Southern Highway	exits	Brookton Highway
+Great Southern Highway	exits	Wagin-Dumbleyung Road \n*
+Great Southern Highway	exits	Arthur Road
+Great Northern Highway	exits	*
+Great Northern Highway	exits	Reid Highway
+Great Northern Highway	exits	Roe Highway
+Great Northern Highway	exits	Brand Highway
+Great Northern Highway	exits	Geraldton-Mount Magnet Road
+Great Northern Highway	exits	Goldfields Highway
+Great Northern Highway	exits	North West Coastal Highway
+Great Northern Highway	exits	Victoria Highway
+North West Coastal Highway	exits	*
+North West Coastal Highway	exits	Geraldton–Mount Magnet Road
+North West Coastal Highway	exits	Shark Bay Road
+North West Coastal Highway	exits	Nanutarra Munjina Road
+Carnarvon Highway	exits	''' Warrego Highway
+Carnarvon Highway	exits	Moonie Highway
+Carnarvon Highway	exits	Balonne Highway
+Carnarvon Highway	exits	Castlereagh Highway
+Carnarvon Highway	exits	Barwon Highway'''
+Great Eastern Highway	exits	*
+Great Eastern Highway	exits	Albany Highway
+Great Eastern Highway	exits	Graham Farmer Freeway
+Great Eastern Highway	exits	Tonkin Highway
+Great Eastern Highway	exits	Great Eastern Highway Bypass
+Great Eastern Highway	exits	Roe Highway
+Great Eastern Highway	exits	21
+Great Eastern Highway	exits	Great Southern Highway
+Great Eastern Highway	exits	Northam–Toodyay Road
+Great Eastern Highway	exits	Northam–Pithara Road
+Great Eastern Highway	exits	Coolgardie–Esperance Highway
+Moonie Highway	exits	Leichhardt Highway
+Dawson Highway	exits	*
+Dawson Highway	exits	Carnarvon Highway
+Dawson Highway	exits	Leichhardt Highway
+Dawson Highway	exits	Burnett Highway
+Dawson Highway	exits	Bruce Highway
+Cunningham Highway	exits	*
+Cunningham Highway	exits	New England Highway
+Cunningham Highway	exits	Boonah-Fassifern Road
+Gregory Highway	exits	Flinders Highway
+Gregory Highway	exits	Peak Downs Highway
+Gregory Highway	exits	Capricorn Highway'''
+Barkly Highway	exits	*
+Barkly Highway	exits	Tablelands Highway
+Barkly Highway	exits	*Diamantina Developmental Road\n*
+Barkly Highway	exits	Burke Developmental Road
+Brisbane Valley Highway	exits	Esk-Hampton Road
+Burnett Highway	exits	Leichhardt Highway
+Burnett Highway	exits	Dawson Highway
+Burnett Highway	exits	Isis Highway
+Burnett Highway	exits	Wide Bay Highway
+Burnett Highway	exits	Bunya Highway'''
+Northern Highway	exits	*
+Northern Highway	exits	Murray Valley Highway
+Northern Highway	exits	Midland Highway
+Northern Highway	exits	McIvor Highway
+Kwinana Freeway	exits	*
+Kwinana Freeway	exits	Canning Highway
+Kwinana Freeway	exits	Leach Highway
+Kwinana Freeway	exits	Roe Highway
+Kwinana Freeway	exits	Mandjoogoordap Drive
+Landsborough Highway	exits	Flinders Highway
+Landsborough Highway	exits	Kennedy Developmental Road
+Landsborough Highway	exits	Capricorn Highway
+Landsborough Highway	exits	Mitchell Highway'''
+Port Wakefield Road	exits	*
+Port Wakefield Road	exits	Max Fatchen Expressway
+Port Wakefield Road	exits	Salisbury Highway
+Port Wakefield Road	exits	Grand Junction Road
+Sunraysia Highway	exits	*
+Sunraysia Highway	exits	Henty Highway
+Sunraysia Highway	exits	Borung Highway
+Sunraysia Highway	exits	Wimmera Highway
+Sunraysia Highway	exits	Pyrenees Highway
+Goulburn Valley Highway	exits	*
+Goulburn Valley Highway	exits	'''
+Goulburn Valley Highway	exits	Murray Valley Highway
+Goulburn Valley Highway	exits	'''\n*
+Goulburn Valley Highway	exits	Midland Highway
+Goulburn Valley Highway	exits	Hume Freeway
+Goulburn Valley Highway	exits	Melba Highway
+Goulburn Valley Highway	exits	Maroondah Highway
+Goulburn Valley Highway	exits	'\nfor full list see
+Goulburn Valley Highway	exits	Goulburn Valley Highway
+Murray Valley Highway	exits	*
+Murray Valley Highway	exits	Mallee Highway
+Murray Valley Highway	exits	Loddon Valley Highway
+Murray Valley Highway	exits	Northern Highway, Victoria
+Murray Valley Highway	exits	Goulburn Valley Highway
+Murray Valley Highway	exits	Hume Freeway
+Murray Valley Highway	exits	Kiewa Valley Highway
+Murray Valley Highway	exits	Omeo Highway
+Murray Valley Highway	exits	''for full list see [[#Major Intersections & Towns
+Victoria Highway	exits	*
+Victoria Highway	exits	Duncan Road
+Victoria Highway	exits	Buchanan Highway
+Victoria Highway	exits	Buntine Highway
+Tod Highway	exits	Birdseye Highway
+Frankston Freeway	exits	*
+Frankston Freeway	exits	Mornington Peninsula Freeway
+Frankston Freeway	exits	Dandenong Valley Highway
+Borung Highway	exits	*
+Borung Highway	exits	Henty Highway
+Borung Highway	exits	Sunraysia Highway
+Borung Highway	exits	''for full list see [[#Major Intersections and Towns
+Borung Highway	exits	major intersections]]''
+Leichhardt Highway	exits	Burnett Highway
+Leichhardt Highway	exits	Dawson Highway
+Leichhardt Highway	exits	Warrego Highway
+Leichhardt Highway	exits	Moonie Highway
+Leichhardt Highway	exits	Gore Highway
+Leichhardt Highway	exits	Cunningham Highway
+Bunya Highway	exits	D'Aguilar Highway
+Pacific Motorway	exits	Gateway Motorway
+Pacific Motorway	exits	Logan Motorway
+Pacific Motorway	exits	Gold Coast Highway'''
+Pacific Motorway	exits	''for full list see [[#Exits
+Sunshine Motorway	exits	*
+Sunshine Motorway	exits	,
+Sunshine Motorway	exits	Maroochydore
+Sunshine Motorway	exits	,\n*
+Graham Farmer Freeway	exits	*
+Graham Farmer Freeway	exits	Loftus Street
+Graham Farmer Freeway	exits	Lord Street \n*
+Graham Farmer Freeway	exits	East Parade
+Victoria Street, Melbourne	exits	*Dryburgh Street\n*
+Victoria Street, Melbourne	exits	Curzon /
+Victoria Street, Melbourne	exits	King Street, Melbourne
+Victoria Street, Melbourne	exits	*
+Victoria Street, Melbourne	exits	Peel Street\n*
+Victoria Street, Melbourne	exits	Elizabeth Street, Melbourne
+Victoria Street, Melbourne	exits	Swanston Street, Melbourne
+Victoria Street, Melbourne	exits	Lygon Street, Melbourne
+Victoria Street, Melbourne	exits	Russell Street, Melbourne
+Victoria Street, Melbourne	exits	Rathdowne Street\n*
+Victoria Street, Melbourne	exits	Exhibition Street, Melbourne
+Victoria Street, Melbourne	exits	La Trobe Street, Melbourne
+Victoria Street, Melbourne	exits	Nicholson Street, Melbourne
+Victoria Street, Melbourne	exits	Brunswick Street, Melbourne
+Victoria Street, Melbourne	exits	*Lansdowne Street\n*
+Victoria Street, Melbourne	exits	Smith Street, Melbourne
+Victoria Street, Melbourne	exits	Hoddle Highway
+Victoria Street, Melbourne	exits	*Church Street\n*Burnley Street
+Dandenong Valley Highway	exits	*
+Dandenong Valley Highway	exits	Monash Freeway
+Dandenong Valley Highway	exits	Princes Highway
+Dandenong Valley Highway	exits	Dandenong Bypass
+Dandenong Valley Highway	exits	Peninsula Link
+Dandenong Valley Highway	exits	Frankston Freeway
+Geelong Ring Road	exits	*
+Geelong Ring Road	exits	Midland Highway
+Geelong Ring Road	exits	Hamilton Highway
+Geelong Ring Road	exits	''for full list see
+Geelong Ring Road	exits	Geelong Ring Road
+Geelong Ring Road	exits	''
+Lyell Highway	exits	Zeehan Highway
+Lyell Highway	exits	Boyer Road
+Lyell Highway	exits	Marlborough Highway
+Lyell Highway	exits	Gordon River Road'''
+Coolgardie–Esperance Highway	exits	*
+Coolgardie–Esperance Highway	exits	Goldfields Highway
+Coolgardie–Esperance Highway	exits	Eyre Highway
+Coolgardie–Esperance Highway	exits	South Coast Highway
+Burley Griffin Way	exits	Olympic Highway
+Burley Griffin Way	exits	Goldfields Way
+Burley Griffin Way	exits	Newell Highway
+Burley Griffin Way	exits	Irrigation Way
+Mitchell Freeway	exits	*
+Mitchell Freeway	exits	Graham Farmer Freeway
+Mitchell Freeway	exits	Reid Highway
+Captain Cook Highway	exits	Mossman-Mt Molloy Rd (  )
+Captain Cook Highway	exits	Kennedy Highway
+Captain Cook Highway	exits	Kamerunga Road
+Kidman Way	exits	Barrier Highway
+Kidman Way	exits	Lachlan Valley Way
+Kidman Way	exits	Mid-Western Highway
+Kidman Way	exits	Burley Griffin Way
+Kidman Way	exits	Sturt Highway
+Main North Road	exits	*
+Main North Road	exits	Horrocks Highway
+Main North Road	exits	Wilmington-Ucolta Road
+Main North Road	exits	Goyder Highway
+Main North Road	exits	Gulnare-Spalding Road\n*
+Main North Road	exits	Clare-Peterborough Road\n*
+Main North Road	exits	City Ring Route, Adelaide
+Main North Road	exits	North Adelaide, South Australia
+Lake Highway	exits	*
+Lake Highway	exits	Meander Valley Highway
+Lake Highway	exits	East Barrack Street\n*
+Lake Highway	exits	Long Ridge Road\n*
+Lake Highway	exits	Meander Road\n*
+Lake Highway	exits	Marlborough Highway
+Lake Highway	exits	Waddamana Road\n*
+Lake Highway	exits	Poatina Road\n*
+Lake Highway	exits	Interlaken Road\n*
+Lake Highway	exits	Meadsfield Road\n*
+Lake Highway	exits	Dennistoun Road\n*
+Lake Highway	exits	Hollow Tree Road\n*
+Lake Highway	exits	Lower Marshes Road
+Bridge Road, Melbourne	exits	* Church Street\n* Burnley Street\n*
+Bridge Road, Melbourne	exits	Route 2, Melbourne
+Northbourne Avenue	exits	*
+Northbourne Avenue	exits	London Circuit, Canberra
+Northbourne Avenue	exits	*Barry Drive / Cooyong Street\n*Macarthur Avenue / Wakefield Avenue\n*Mouat Street / Antill Street
+Commonwealth Avenue	exits	*
+Commonwealth Avenue	exits	London Circuit
+Commonwealth Avenue	exits	Parkes Way
+Commonwealth Avenue	exits	State Circle
+Commonwealth Avenue	exits	Capital Circle
+London Circuit	exits	*
+London Circuit	exits	Northbourne Avenue
+London Circuit	exits	Constitution Avenue
+London Circuit	exits	Commonwealth Avenue, Canberra
+London Circuit	exits	Edinburgh Avenue
+Parkes Way	exits	*Coranderrk Street\n*
+Parkes Way	exits	Commonwealth Avenue, Canberra
+Parkes Way	exits	*Edinburgh Avenue
+Bucketts Way	exits	Thunderbolts Way
+Tuggeranong Parkway	exits	*
+Tuggeranong Parkway	exits	Cotter Road
+Tuggeranong Parkway	exits	Hindmarsh Drive
+Pacific Motorway	exits	*
+Pacific Motorway	exits	Pacific Highway
+Pacific Motorway	exits	Bobbin Head Road\n*
+Pacific Motorway	exits	Central Coast Highway
+Pacific Motorway	exits	Doyalson Link Road \n*
+Pacific Motorway	exits	Hunter Expressway
+Pacific Motorway	exits	Newcastle Link Road
+Gore Hill Freeway	exits	Lane Cove Tunnel
+Gore Hill Freeway	exits	for full list see Exits and Interchanges
+Riverina Highway	exits	Hume Highway
+Riverina Highway	exits	Old Hume Highway
+Riverina Highway	exits	Newell Highway
+Ipswich Motorway	exits	*
+Ipswich Motorway	exits	Logan Motorway
+Ipswich Motorway	exits	Centenary Motorway
+Ipswich Motorway	exits	*Granard Road
+Logan Motorway	exits	*
+Logan Motorway	exits	Centenary Motorway
+Logan Motorway	exits	Mount Lindesay Highway
+Logan Motorway	exits	Gateway Motorway
+Logan Motorway	exits	*''for full list see
+Logan Motorway	exits	Logan Motorway
+Logan Motorway	exits	.
+Gateway Motorway	exits	*
+Gateway Motorway	exits	Gympie Arterial Road
+Gateway Motorway	exits	Deagon Deviation
+Gateway Motorway	exits	Port of Brisbane Motorway
+Gateway Motorway	exits	Pacific Motorway
+South Coast Highway	exits	*
+South Coast Highway	exits	Albany Highway
+South Coast Highway	exits	Newdegate–Ravensthorpe Road \n* Hopetoun-Ravensthorpe Road
+Arnhem Highway	exits	*
+Arnhem Highway	exits	Jim Jim Road\n*
+Arnhem Highway	exits	Kakadu Highway
+Hyland Highway	exits	*
+Hyland Highway	exits	Bank Street
+Hyland Highway	exits	Mattingley Hill Road
+Hyland Highway	exits	Traralgon Creek Road
+Hyland Highway	exits	Grand Ridge Road
+Hyland Highway	exits	Carrajung–Woodside Road
+South Western Highway	exits	*
+South Western Highway	exits	Thomas Road, Perth
+South Western Highway	exits	Pinjarra Road
+South Western Highway	exits	Coalfields Highway
+South Western Highway	exits	Robertson Drive
+South Western Highway	exits	Brockman Highway
+South Western Highway	exits	Muirs Highway
+South Western Highway	exits	Vasse Highway
+Roe Highway	exits	*
+Roe Highway	exits	Great Northern Highway
+Roe Highway	exits	Great Eastern Highway
+Roe Highway	exits	Great Eastern Highway Bypass
+Roe Highway	exits	Tonkin Highway
+Roe Highway	exits	Kenwick Link
+Wanneroo Road	exits	*
+Wanneroo Road	exits	London Street \n*
+Wanneroo Road	exits	Morley Drive
+Wanneroo Road	exits	Reid Highway
+Wanneroo Road	exits	Hepburn Avenue
+Wanneroo Road	exits	Ocean Reef Road
+Wanneroo Road	exits	Joondalup Drive
+Wanneroo Road	exits	Yanchep Beach Road
+Reid Highway	exits	*
+Reid Highway	exits	Mitchell Freeway
+Reid Highway	exits	Tonkin Highway
+Reid Highway	exits	Great Northern Highway
+Fossickers Way	exits	New England Highway
+Fossickers Way	exits	Oxley Highway
+Eastern Distributor	exits	'''William Street
+Eastern Distributor	exits	Anzac Parade, Sydney
+Eastern Distributor	exits	Cross City Tunnel
+King Street, Melbourne	exits	*
+King Street, Melbourne	exits	Victoria Street, Melbourne
+King Street, Melbourne	exits	Dudley Street
+King Street, Melbourne	exits	La Trobe Street, Melbourne
+King Street, Melbourne	exits	Lonsdale Street, Melbourne
+King Street, Melbourne	exits	Bourke Street, Melbourne
+King Street, Melbourne	exits	Collins Street, Melbourne
+King Street, Melbourne	exits	Flinders Street, Melbourne
+Greenhill Road, Adelaide	exits	*
+Greenhill Road, Adelaide	exits	Portrush Road, Adelaide
+Greenhill Road, Adelaide	exits	Fullarton Road, Adelaide
+Canning Highway	exits	*
+Canning Highway	exits	The Causeway
+Canning Highway	exits	Kwinana Freeway
+Canning Highway	exits	Stirling Highway
+Tonkin Highway	exits	*
+Tonkin Highway	exits	Great Eastern Highway
+Tonkin Highway	exits	Leach Highway
+Tonkin Highway	exits	Roe Highway
+Tonkin Highway	exits	Albany Highway
+Stirling Highway	exits	*
+Stirling Highway	exits	Eric Street \n*
+Stirling Highway	exits	Queen Victoria Street, Fremantle
+Leach Highway	exits	*
+Leach Highway	exits	Tonkin Highway
+Leach Highway	exits	Orrong Road, Perth
+Leach Highway	exits	Albany Highway
+Leach Highway	exits	Manning Road, Perth
+Leach Highway	exits	High Road, Perth
+Leach Highway	exits	Kwinana Freeway
+Leach Highway	exits	Stock Road, Perth
+South Road, Adelaide	exits	*
+South Road, Adelaide	exits	Grand Junction Road, Adelaide
+South Road, Adelaide	exits	Port Road, Adelaide
+South Road, Adelaide	exits	Sir Donald Bradman Drive
+South Road, Adelaide	exits	Anzac Highway
+South Road, Adelaide	exits	Cross Road, Adelaide
+South Road, Adelaide	exits	Southern Expressway
+South Road, Adelaide	exits	Victor Harbor Road
+South Road, Adelaide	exits	Yankalilla-Victor Harbor Road
+Portrush Road, Adelaide	exits	*Hampstead Road\n*
+Portrush Road, Adelaide	exits	Regency Road
+Portrush Road, Adelaide	exits	/ Muller Road\nTaunton Road\n*
+Portrush Road, Adelaide	exits	Adelaide-Mannum Road
+Portrush Road, Adelaide	exits	*Ascot Avenue\n*
+Portrush Road, Adelaide	exits	River Torrens
+Portrush Road, Adelaide	exits	*Lower Portrush Road\n*
+Portrush Road, Adelaide	exits	Payneham Road, Adelaide
+Portrush Road, Adelaide	exits	*
+Portrush Road, Adelaide	exits	Magill Road, Adelaide
+Portrush Road, Adelaide	exits	The Parade, Adelaide
+Portrush Road, Adelaide	exits	Kensington Road, Adelaide
+Portrush Road, Adelaide	exits	Greenhill Road, Adelaide
+Glenferrie Road	exits	*
+Glenferrie Road	exits	Barkers Road, Melbourne
+Glenferrie Road	exits	Burwood Road, Melbourne
+Glenferrie Road	exits	Riversdale Road, Melbourne
+Glenferrie Road	exits	Toorak Road, Melbourne
+Glenferrie Road	exits	Malvern Road\n*
+Glenferrie Road	exits	High Street, Melbourne
+Glenferrie Road	exits	Wattletree Road
+Burke Road, Melbourne	exits	*
+Burke Road, Melbourne	exits	Eastern Freeway, Melbourne
+Burke Road, Melbourne	exits	, Citybound Only\n*
+Burke Road, Melbourne	exits	High Street / Doncaster Road\n*
+Burke Road, Melbourne	exits	Maroondah Highway
+Burke Road, Melbourne	exits	Barkers Road\n*
+Burke Road, Melbourne	exits	Canterbury Road\n*
+Burke Road, Melbourne	exits	Camberwell Road, Melbourne
+Burke Road, Melbourne	exits	Riversdale Road, Melbourne
+Burke Road, Melbourne	exits	''at
+Burke Road, Melbourne	exits	Camberwell Junction
+Burke Road, Melbourne	exits	''\n*
+Burke Road, Melbourne	exits	Burwood Highway
+Burke Road, Melbourne	exits	Monash Freeway
+Burke Road, Melbourne	exits	*Malvern Road\n*
+Burke Road, Melbourne	exits	High Street
+Burke Road, Melbourne	exits	*Waverley Road
+Putty Road	exits	Golden Highway
+West Coast Highway, Perth	exits	*
+West Coast Highway, Perth	exits	Rochdale Road \n*
+West Coast Highway, Perth	exits	Oceanic Drive \n*
+West Coast Highway, Perth	exits	The Boulevard \n*
+West Coast Highway, Perth	exits	Scarborough Beach Road
+West Coast Highway, Perth	exits	Karrinyup Road
+Marmion Avenue	exits	*
+Marmion Avenue	exits	Karrinyup Road
+Marmion Avenue	exits	Reid Highway
+Marmion Avenue	exits	Warwick Road
+Marmion Avenue	exits	Hepburn Avenue
+Marmion Avenue	exits	Whitfords Avenue
+Marmion Avenue	exits	Ocean Reef Road
+Marmion Avenue	exits	Burns Beach Road
+Brockman Highway	exits	Vasse Highway
+Appin Road	exits	Hume Motorway
+City Road, Sydney	exits	Cleveland Street, Sydney
+Mountain Highway	exits	*
+Mountain Highway	exits	Wantirna Road\n*
+Mountain Highway	exits	Boronia Road\n*
+Mountain Highway	exits	Dandenong Valley Highway
+Mountain Highway	exits	Bayswater Road\n*
+Mountain Highway	exits	Dorset Road\n*
+Mountain Highway	exits	Forest Road
+Pennant Hills Road	exits	*
+Pennant Hills Road	exits	Pacific Motorway
+Pennant Hills Road	exits	Beecroft Road\n*
+Pennant Hills Road	exits	Castle Hill Road\n*
+Pennant Hills Road	exits	M2 Hills Motorway
+Pennant Hills Road	exits	Carlingford Road\n*
+Pennant Hills Road	exits	Marsden Road\n*
+Pennant Hills Road	exits	James Ruse Drive
+Flemington Road, Melbourne	exits	*
+Flemington Road, Melbourne	exits	Harker Street \n*
+Flemington Road, Melbourne	exits	Princes Highway, Melbourne
+Flemington Road, Melbourne	exits	Eastern Highway
+Great Alpine Road	exits	*
+Great Alpine Road	exits	Hume Freeway
+Great Alpine Road	exits	Omeo Highway
+Great Alpine Road	exits	''for full list see [[#Major Intersections, Towns and Resorts
+Macquarie Street, Hobart	exits	Southern Outlet
+Picton Road, New South Wales	exits	Hume Motorway
+D'Aguilar Highway	exits	Burnett Highway
+D'Aguilar Highway	exits	New England Highway
+D'Aguilar Highway	exits	Brisbane Valley Highway
+D'Aguilar Highway	exits	Beerburrum Road
+Kennedy Highway	exits	Mulligan Highway
+Kennedy Highway	exits	Malanda-Atherton Road
+Kennedy Highway	exits	Gulf Developmental Road
+Kennedy Highway	exits	Gregory Developmental Road
+Kennedy Highway	exits	Flinders Highway
+Kennedy Highway	exits	Landsborough Highway
+Warringah Freeway	exits	*
+Warringah Freeway	exits	Miller Street\nFalcon St \n*
+Warringah Freeway	exits	A8
+Warringah Freeway	exits	Sydney Harbour Tunnel
+Warringah Freeway	exits	Pacific Highway
+Warringah Freeway	exits	*''for full list see
+Warringah Freeway	exits	Warringah Freeway
+Warringah Freeway	exits	''
+Midland Highway	exits	*
+Midland Highway	exits	Hume Freeway
+Midland Highway	exits	Goulburn Valley Highway
+Midland Highway	exits	Northern Highway, Victoria
+Midland Highway	exits	McIvor Highway
+Midland Highway	exits	Calder Highway
+Midland Highway	exits	Calder Freeway
+Midland Highway	exits	Pyrenees Highway
+Midland Highway	exits	Western Freeway
+Midland Highway	exits	Glenelg Highway
+Midland Highway	exits	Geelong Ring Road
+Midland Highway	exits	*''for full list see [[#Major intersections and towns
+Midland Highway	exits	major intersections]]''
+Mickleham Road, Melbourne	exits	Tullamarine Freeway
+Mickleham Road, Melbourne	exits	Broadmeadows Road
+Mickleham Road, Melbourne	exits	Somerton Road
+Mickleham Road, Melbourne	exits	Craigieburn Road
+Mickleham Road, Melbourne	exits	Mount Ridley Road
+Elizabeth Street, Sydney	exits	Market, Park, Liverpool. Goulburn Streets, Sydney; Wentworth Avenue, Albion Street and Eddy Avenue, Surry Hills; Cleveland, Redfern, Phillip Streets, Redfern; McEvoy and Bourke Streets, Waterloo.
+Nicholson Road	exits	*
+Nicholson Road	exits	High Road, Perth
+Nicholson Road	exits	Roe Highway
+Nicholson Road	exits	Ranford Road
+Nicholson Road	exits	Armadale Road
+Isis Highway	exits	Bruce Highway
+Kensington Road, Adelaide	exits	Portrush Road
+Barrack Street	exits	*
+Barrack Street	exits	The Esplanade \n*
+Barrack Street	exits	St Georges Terrace
+Barrack Street	exits	Hay Street, Perth
+Barrack Street	exits	Murray Street, Perth
+Kingsford Smith Drive, Canberra	exits	Ginninderra Drive, Canberra
+Kingsford Smith Drive, Canberra	exits	Southern Cross Drive, Canberra
+Kingsford Smith Drive, Canberra	exits	Belconnen Way, Canberra
+Gungahlin Drive Extension	exits	*
+Gungahlin Drive Extension	exits	Ginninderra Drive
+Gungahlin Drive Extension	exits	Belconnen Way
+Fullarton Road, Adelaide	exits	*
+Fullarton Road, Adelaide	exits	The Parade, Adelaide
+Fullarton Road, Adelaide	exits	Kensington Road, Adelaide
+Fullarton Road, Adelaide	exits	Wakefield Street, Adelaide
+Fullarton Road, Adelaide	exits	Dequetteville Terrace, Adelaide
+Fullarton Road, Adelaide	exits	Greenhill Road, Adelaide
+Fullarton Road, Adelaide	exits	Glen Osmond Road, Adelaide
+Fullarton Road, Adelaide	exits	Cross Road, Adelaide
+Cross Road, Adelaide	exits	*
+Cross Road, Adelaide	exits	Portrush Road, Adelaide
+Cross Road, Adelaide	exits	Glen Osmond Road, Adelaide
+Cross Road, Adelaide	exits	South Road, Adelaide
+Cross Road, Adelaide	exits	Marion Road
+Derby Highway	exits	Gibb River Road
+Anzac Highway, Adelaide	exits	*
+Anzac Highway, Adelaide	exits	South Road, Adelaide
+Anzac Highway, Adelaide	exits	Cross Road, Adelaide
+Anzac Highway, Adelaide	exits	Marion Road
+Anzac Highway, Adelaide	exits	Tapleys Hill Road, Adelaide
+Great Eastern Highway Bypass	exits	*
+Great Eastern Highway Bypass	exits	Kalamunda Road
+Great Eastern Highway Bypass	exits	Abernethy Road, Perth
+College Street, Sydney	exits	Park Street, Sydney
+College Street, Sydney	exits	William Street, Sydney
+Grand Junction Road	exits	*
+Grand Junction Road	exits	North East Road\n*
+Grand Junction Road	exits	Hampstead Road\n*
+Grand Junction Road	exits	Main North Road\n*
+Grand Junction Road	exits	Port Wakefield Road\n*
+Grand Junction Road	exits	Cavan Road\n*
+Grand Junction Road	exits	South Road\n*
+Grand Junction Road	exits	Port Road
+Port River Expressway	exits	*
+Port River Expressway	exits	North-South Motorway
+Port River Expressway	exits	Nelson Street\n*''for full list see
+Port River Expressway	exits	Port River Expressway
+Port River Expressway	exits	.
+Dandenong Bypass	exits	*
+Dandenong Bypass	exits	Route 40, Melbourne
+Dandenong Bypass	exits	EastLink, Melbourne
+Dandenong Bypass	exits	Dandenong Valley Highway
+Healesville Freeway	exits	*
+Healesville Freeway	exits	Boronia Road \n*
+Healesville Freeway	exits	EastLink, Melbourne
+Healesville Freeway	exits	Wantirna Road \n*
+Healesville Freeway	exits	Canterbury Road \n*
+Healesville Freeway	exits	Dorset Road \n* Colchester Road\n*Cambridge Road
+Westall Road	exits	*
+Westall Road	exits	Centre Road\n*
+Westall Road	exits	Heatherton Road\n*
+Westall Road	exits	Route 40, Melbourne
+Airport Link, Brisbane	exits	Gympie Road
+Airport Link, Brisbane	exits	Stafford Road
+Airport Link, Brisbane	exits	Windsor
+Centenary Motorway	exits	*
+Centenary Motorway	exits	Ipswich Motorway
+Centenary Motorway	exits	Logan Motorway
+Cahill Expressway	exits	Sydney Harbour Tunnel
+M2 Hills Motorway	exits	*
+M2 Hills Motorway	exits	A38
+M2 Hills Motorway	exits	A3
+M2 Hills Motorway	exits	Cumberland Highway
+M4 Western Motorway	exits	Concord Rd\n*
+M4 Western Motorway	exits	A3
+M4 Western Motorway	exits	*
+M4 Western Motorway	exits	A6
+M4 Western Motorway	exits	Cumberland Highway
+M4 Western Motorway	exits	Westlink M7
+M4 Western Motorway	exits	A9
+M5 Motorway	exits	*
+M5 Motorway	exits	Hume Highway
+M5 Motorway	exits	Metroad 6
+M5 Motorway	exits	Metroad 3
+Buchanan Highway	exits	Buntine Highway
+Port Road, Adelaide	exits	*
+Port Road, Adelaide	exits	City Ring Route, Adelaide
+Port Road, Adelaide	exits	South Road, Adelaide
+Port Road, Adelaide	exits	East Avenue\n*
+Port Road, Adelaide	exits	Tapleys Hill Road, Adelaide
+M1	exits	see exits.''
+Cleveland Street, Sydney	exits	Abercrombie Street, Regent Street, Chalmers Street, Elizabeth Street, Crown Street, South Darling Street / Eastern Distributor
+Crown Street, Sydney	exits	William, Oxford, Albion, Forveaux Streets
+Greensborough Highway	exits	*
+Greensborough Highway	exits	Banksia Street\n*
+Greensborough Highway	exits	Heidelberg Road, Melbourne
+Greensborough Highway	exits	Lower Plenty Road\n*
+Greensborough Highway	exits	Grimshaw Street\n*
+Greensborough Highway	exits	Western Ring Road
+Greensborough Highway	exits	*Diamond Creek Road
+Glen Osmond Road, Adelaide	exits	Fullarton Road
+Joondalup Drive	exits	*
+Joondalup Drive	exits	Hodges Drive
+Joondalup Drive	exits	* Grand Boulevard\n*
+Joondalup Drive	exits	Shenton Avenue
+Joondalup Drive	exits	* Moore Drive\n*
+Joondalup Drive	exits	Burns Beach Road
+Joondalup Drive	exits	Wanneroo Road
+Joondalup Drive	exits	Pinjar Road
+Main Road, Hobart	exits	Brooker Highway, Derwent Park Road, Elwick Road, Lampton Avenue, Risdon Road
+Max Fatchen Expressway	exits	*
+Max Fatchen Expressway	exits	Gawler Bypass\n*
+Max Fatchen Expressway	exits	Port Wakefield Road
+Adelaide–Mannum Road	exits	*
+Adelaide–Mannum Road	exits	Portrush Road, Adelaide
+Adelaide–Mannum Road	exits	Grand Junction Road
+Adelaide–Mannum Road	exits	McIntyre Road, Adelaide
+Adelaide–Mannum Road	exits	Lower North East Road
+Adelaide–Mannum Road	exits	Gorge Road, South Australia
+Adelaide–Mannum Road	exits	Onkaparinga Valley Road, South Australia
+Adelaide–Mannum Road	exits	Reedy Creek Road\n*
+Adelaide–Mannum Road	exits	Mannum Road
+Swan Street, Melbourne	exits	*Batman Avenue Toll Road\n*
+Swan Street, Melbourne	exits	CityLink
+Swan Street, Melbourne	exits	via Batman Avenue\n*
+Swan Street, Melbourne	exits	Hoddle Highway
+Swan Street, Melbourne	exits	*Church Street\n*Burnley Street\n*
+Swan Street, Melbourne	exits	Madden Avenue\n*Yarra Boulevard link road
+Mulligan Highway	exits	Peninsula Developmental Road
+Mulligan Highway	exits	Mossman-Mount Molloy Road
+Mulligan Highway	exits	Mareeba-Dimbulah Road
+Plenty Highway	exits	Sandover Highway
+Bussell Highway	exits	*
+Bussell Highway	exits	Robertson Drive
+Bussell Highway	exits	Vasse Highway
+Bussell Highway	exits	Brockman Highway
+Goulburn Valley Freeway	exits	*
+Goulburn Valley Freeway	exits	'''
+Goulburn Valley Freeway	exits	Goulburn Valley Highway
+Goulburn Valley Freeway	exits	' \nfor full list see
+Goulburn Valley Freeway	exits	Goulburn Valley Freeway
+Goulburn Valley Freeway	exits	''
+Pyrenees Highway, Victoria	exits	*
+Pyrenees Highway, Victoria	exits	Midland Highway
+Pyrenees Highway, Victoria	exits	Sunraysia Highway
+Pyrenees Highway, Victoria	exits	Western Highway, Victoria
+Central Coast Highway	exits	*
+Central Coast Highway	exits	Main Road\n*
+Central Coast Highway	exits	Wyong Road\n*
+Central Coast Highway	exits	Riou Street
+Burwood Highway	exits	*
+Burwood Highway	exits	Monash Freeway
+Burwood Highway	exits	EastLink, Melbourne
+Burwood Highway	exits	Mount Dandenong Tourist Road\n*''for full list see [[#Major intersections and suburbs
+Burwood Highway	exits	major intersections]]
+Kalamunda Road	exits	*
+Kalamunda Road	exits	Great Eastern Highway Bypass
+Kalamunda Road	exits	Roe Highway
+Western Distributor	exits	*
+Western Distributor	exits	King Street, Sydney
+Western Distributor	exits	Cross City Tunnel
+Western Distributor	exits	Bathurst Street, Sydney
+Western Distributor	exits	*Pyrmont Bridge Road
+Buntine Highway	exits	Buchanan Highway
+Carpentaria Highway	exits	Tablelands Highway
+Glenelg Highway	exits	*
+Glenelg Highway	exits	Henty Highway
+Glenelg Highway	exits	Hamilton Highway
+Glenelg Highway	exits	''for full list see [[#Major Intersections and Towns
+Glenelg Highway	exits	major intersections]]''
+Vasse Highway	exits	*
+Vasse Highway	exits	Brockman Highway
+Vasse Highway	exits	Pemberton–Northcliffe Road
+Goulburn-Oberon Road	exits	Wombeyan Caves Road
+Thomas Road	exits	*
+Thomas Road	exits	Kwinana Freeway
+Thomas Road	exits	Nicholson Road
+Thomas Road	exits	Tonkin Highway
+Toodyay Road	exits	*
+Toodyay Road	exits	Roe Highway
+Toodyay Road	exits	* Clackline-Toodyay Road\n*
+Toodyay Road	exits	Northam-Toodyay Road
+Pinjar Road	exits	Joondalup Drive
+Chandler Highway	exits	Eastern Freeway
+Warburton Highway	exits	for full list see major intersections
+St Georges Road, Melbourne	exits	*
+St Georges Road, Melbourne	exits	Springvale) Highway
+St Georges Road, Melbourne	exits	*Normanby Avenue\n*
+St Georges Road, Melbourne	exits	Merri Parade\n*
+St Georges Road, Melbourne	exits	Holden Street
+Alexander Drive	exits	*
+Alexander Drive	exits	Morley Drive
+Alexander Drive	exits	Reid Highway
+Alexander Drive	exits	Gnangara Road
+Salisbury Highway	exits	*
+Salisbury Highway	exits	Philip Highway
+Salisbury Highway	exits	*Commercial Road\n*Ryans Road\n*
+Salisbury Highway	exits	Kings Road\n*
+Salisbury Highway	exits	Port Wakefield Road
+Salisbury Highway	exits	*''for full list see
+Salisbury Highway	exits	Salisbury Highway
+Salisbury Highway	exits	.
+Erindale Road	exits	*
+Erindale Road	exits	Reid Highway
+Erindale Road	exits	Balcatta Road \n*
+Erindale Road	exits	Mitchell Freeway
+Tapleys Hill Road	exits	Sir Donald Bradman Drive, Adelaide
+Beach Road, Perth	exits	*
+Beach Road, Perth	exits	Marmion Avenue
+Beach Road, Perth	exits	Erindale Road
+Beach Road, Perth	exits	Wanneroo Road
+Beach Road, Perth	exits	Alexander Drive
+Karrinyup Road	exits	*
+Karrinyup Road	exits	Marmion Avenue
+Karrinyup Road	exits	West Coast Highway
+Karrinyup Road	exits	Mitchell Freeway
+Karrinyup Road	exits	Cedric Street, Perth
+West Coast Drive, Perth	exits	*
+West Coast Drive, Perth	exits	Karrinyup Road
+West Coast Drive, Perth	exits	North Beach Road, Perth
+West Coast Drive, Perth	exits	Beach Road, Perth
+Safety Bay Road	exits	*
+Safety Bay Road	exits	Read Street
+Safety Bay Road	exits	Warnbro Sound Avenue
+Safety Bay Road	exits	Ennis Avenue
+Safety Bay Road	exits	Mandurah Road
+Wellington Street, Perth	exits	*
+Wellington Street, Perth	exits	Lord Street, Perth
+Wellington Street, Perth	exits	Beaufort Street
+Wellington Street, Perth	exits	William Street, Perth
+Wellington Street, Perth	exits	Mitchell Freeway
+William Street, Perth	exits	* Vincent Street\n*
+William Street, Perth	exits	Wellington Street, Perth
+William Street, Perth	exits	*
+William Street, Perth	exits	St Georges Terrace, Perth
+Patterson Road	exits	* Kwinana Beach Road\n*
+Patterson Road	exits	Ennis Avenue
+Patterson Road	exits	*
+Patterson Road	exits	Read Street
+Ennis Avenue	exits	*
+Ennis Avenue	exits	Dixon Road \n*
+Ennis Avenue	exits	Safety Bay Road
+Ennis Avenue	exits	* Port Kennedy Drive
+Mandurah Road	exits	*
+Mandurah Road	exits	Dixon Road \n*
+Mandurah Road	exits	Kulija Road \n*
+Mandurah Road	exits	Safety Bay Road
+Mandurah Road	exits	Ennis Avenue
+Mandurah Road	exits	Mandjoogoordap Drive
+Mandurah Road	exits	Pinjarra Road
+Hepburn Avenue	exits	*
+Hepburn Avenue	exits	Marmion Avenue
+Hepburn Avenue	exits	Mitchell Freeway
+Hepburn Avenue	exits	Wanneroo Road
+Hepburn Avenue	exits	Alexander Drive
+Hepburn Avenue	exits	Beechboro Road North
+Whitfords Avenue	exits	*
+Whitfords Avenue	exits	Northshore Drive \n*
+Whitfords Avenue	exits	Marmion Avenue
+Whitfords Avenue	exits	Mitchell Freeway
+Beaufort Street	exits	*
+Beaufort Street	exits	Walcott Street
+Beaufort Street	exits	Grand Promenade, Perth
+Beaufort Street	exits	Broun Avenue
+Burns Beach Road	exits	*
+Burns Beach Road	exits	Mitchell Freeway
+Burns Beach Road	exits	Connolly Drive
+Burns Beach Road	exits	Marmion Avenue
+Rockingham Road, Perth	exits	*
+Rockingham Road, Perth	exits	Stock Road, Perth
+Rockingham Road, Perth	exits	Thomas Road
+Queen Victoria Street, Fremantle	exits	*
+Queen Victoria Street, Fremantle	exits	Tydeman Road
+Queen Victoria Street, Fremantle	exits	Canning Highway
+Queen Victoria Street, Fremantle	exits	James Street
+Hampton Road	exits	*
+Hampton Road	exits	South Street \n*
+Hampton Road	exits	Rockingham Road, Perth
+Grand Boulevard, Joondalup	exits	*
+Grand Boulevard, Joondalup	exits	Shenton Avenue
+Grand Boulevard, Joondalup	exits	* Boas Avenue\n* Collier Pass
+Ocean Reef Road	exits	*
+Ocean Reef Road	exits	Marmion Avenue
+Ocean Reef Road	exits	Mitchell Freeway
+Ocean Reef Road	exits	Joondalup Drive
+Ocean Reef Road	exits	Wanneroo Road
+Warwick Road	exits	*
+Warwick Road	exits	Mitchell Freeway
+Warwick Road	exits	Erindale Road
+North Beach Road, Perth	exits	*
+North Beach Road, Perth	exits	Marmion Avenue
+North Beach Road, Perth	exits	Reid Highway
+North Beach Road, Perth	exits	Erindale Road
+Shenton Avenue	exits	*
+Shenton Avenue	exits	Grand Boulevard, Joondalup
+Shenton Avenue	exits	Joondalup Drive
+Shenton Avenue	exits	Mitchell Freeway
+Shenton Avenue	exits	Connolly Drive
+Shenton Avenue	exits	Marmion Avenue
+Scarborough Beach Road	exits	*
+Scarborough Beach Road	exits	Loftus Street
+Scarborough Beach Road	exits	Green Street, Perth
+Scarborough Beach Road	exits	Hutton Street
+Scarborough Beach Road	exits	Stephenson Avenue
+Scarborough Beach Road	exits	Odin Road
+West Swan Road	exits	*
+West Swan Road	exits	Benara Road
+West Swan Road	exits	Reid Highway
+West Swan Road	exits	Gnangara Road
+Ann Street, Brisbane	exits	*
+Ann Street, Brisbane	exits	North Quay, Brisbane
+Ann Street, Brisbane	exits	George Street, Brisbane
+Ann Street, Brisbane	exits	* Roma Street\n*
+Ann Street, Brisbane	exits	Albert Street, Brisbane
+Ann Street, Brisbane	exits	Edward Street, Brisbane
+Ann Street, Brisbane	exits	Creek Street, Brisbane
+Ann Street, Brisbane	exits	* Wharf Street\n*
+Ann Street, Brisbane	exits	Queen Street, Brisbane
+Ann Street, Brisbane	exits	* Boundary Street\n* Gipps Street / Kemp Place\n*
+Ann Street, Brisbane	exits	Brunswick Street, Brisbane
+Ann Street, Brisbane	exits	* East Street / James Street\n* Murri Way / Commercial Road
+Hodges Drive	exits	*
+Hodges Drive	exits	Marmion Avenue
+Hodges Drive	exits	Mitchell Freeway
+Pascoe Vale Road, Melbourne	exits	*Barry Road\n*
+Pascoe Vale Road, Melbourne	exits	Johnstone Street \n*
+Pascoe Vale Road, Melbourne	exits	Camp Road \n*
+Pascoe Vale Road, Melbourne	exits	Western Ring Road
+Pascoe Vale Road, Melbourne	exits	*Glenroy Road\n*Gaffney Street via Stewart & Park Streets\n*
+Pascoe Vale Road, Melbourne	exits	CityLink
+Pascoe Vale Road, Melbourne	exits	/
+Pascoe Vale Road, Melbourne	exits	Tullamarine Freeway
+Pascoe Vale Road, Melbourne	exits	*
+Pascoe Vale Road, Melbourne	exits	Bell Street \n*Woodland Street\n*Moreland Road\n*Buckley Street
+East Derwent Highway	exits	Goodwood Road\n\nfor full list see Exits
+Hunter Street	exits	* Darby St\n* Union St\n*
+Hunter Street	exits	Pacific Highway
+Hunter Street	exits	* Tudor St
+West Tamar Highway	exits	Batman Highway
+East Tamar Highway	exits	Batman Highway
+Mount Alexander Road, Melbourne	exits	*
+Mount Alexander Road, Melbourne	exits	Pascoe Vale Road, Melbourne
+Mount Alexander Road, Melbourne	exits	Ascot Vale Road
+Mount Alexander Road, Melbourne	exits	Ormond Road
+Mount Alexander Road, Melbourne	exits	CityLink
+Channel Highway	exits	Southern Outlet
+Channel Highway	exits	Huon Highway
+Channel Highway	exits	Algona Road
+Lampton Avenue, Hobart	exits	Brooker Highway
+Lampton Avenue, Hobart	exits	Main Road, Hobart
+Derwent Park Road	exits	Brooker Highway
+Derwent Park Road	exits	Main Road, Hobart
+General Holmes Drive	exits	Southern Cross Drive
+General Holmes Drive	exits	M5 East Motorway
+James Ruse Drive	exits	*
+James Ruse Drive	exits	M4 Western Motorway
+James Ruse Drive	exits	Kissing Point Road\n*
+James Ruse Drive	exits	Victoria Road
+James Ruse Drive	exits	Pennant Hills Road
+Elwick Road	exits	*
+Elwick Road	exits	Brooker Highway
+Elwick Road	exits	Main Road, Hobart
+Brighton Bypass	exits	Tea Tree Road\n\nfor full list see Exits
+Algona Road	exits	Channel Highway
+Lane Cove Road	exits	*
+Lane Cove Road	exits	M2 Hills Motorway
+Lane Cove Road	exits	Epping Road
+Lane Cove Road	exits	Blaxland Road
+Epping Road	exits	*
+Epping Road	exits	A3
+Epping Road	exits	M2 Hills Motorway
+Epping Road	exits	Pittwater Road\n*
+Epping Road	exits	Lane Cove Tunnel
+Connolly Drive	exits	* Moore Drive\n*
+Connolly Drive	exits	Burns Beach Road
+Connolly Drive	exits	* Selkirk Drive\n* Neerabup Road\n*
+Connolly Drive	exits	Hester Avenue
+Connolly Drive	exits	* Lukin Drive
+Riversdale Road, Melbourne	exits	Power Street
+Riversdale Road, Melbourne	exits	Glenferrie Road
+Riversdale Road, Melbourne	exits	Auburn Road
+Riversdale Road, Melbourne	exits	Burke Road
+Riversdale Road, Melbourne	exits	Camberwell Road
+Riversdale Road, Melbourne	exits	Warrigal Road
+Gympie Road, Brisbane	exits	Gympie Arterial Road
+A8	exits	*
+A8	exits	Wakehurst Parkway\n*
+A8	exits	A38
+A8	exits	Sydney Road
+Thompsons Road, Melbourne	exits	*
+Thompsons Road, Melbourne	exits	Mornington Peninsula Freeway
+Thompsons Road, Melbourne	exits	EastLink, Melbourne
+Thompsons Road, Melbourne	exits	Western Port Highway
+Thompsons Road, Melbourne	exits	*''for full list see
+Thompsons Road, Melbourne	exits	Thompsons Road, Melbourne
+Thompsons Road, Melbourne	exits	''
+Western Port Highway	exits	*
+Western Port Highway	exits	'''
+Western Port Highway	exits	South Gippsland Highway
+Western Port Highway	exits	'''\n*
+Western Port Highway	exits	Thompsons Road, Melbourne
+Western Port Highway	exits	Cranbourne-Frankston Road\n*
+Western Port Highway	exits	Baxter-Tooradin Road\n''for full list see [[#Major Intersections
+Western Port Highway	exits	major intersections]]''
+Omeo Highway	exits	for full list see major intersections
+Armadale Road	exits	*
+Armadale Road	exits	Tonkin Highway
+Armadale Road	exits	Nicholson Road
+Mounts Bay Road	exits	*
+Mounts Bay Road	exits	Winthrop Avenue
+Mounts Bay Road	exits	Riverside Drive, Perth
+Mounts Bay Road	exits	Mitchell Freeway
+Mounts Bay Road	exits	/
+Mounts Bay Road	exits	Kwinana Freeway
+Mounts Bay Road	exits	freeways \n*
+Mounts Bay Road	exits	William Street, Perth
+Ranford Road	exits	* Bannister Road\n*
+Ranford Road	exits	Nicholson Road
+Ranford Road	exits	*
+Ranford Road	exits	Tonkin Highway
+Ringwood Bypass	exits	Maroondah Highway
+Warrigal Road	exits	*
+Warrigal Road	exits	Nepean Highway
+Warrigal Road	exits	*Centre Dandenong Road\n*
+Warrigal Road	exits	Kingston Road\n*
+Warrigal Road	exits	Dingley Freeway
+Warrigal Road	exits	Centre Road\n*
+Warrigal Road	exits	North Road\n*
+Warrigal Road	exits	Princes Highway
+Warrigal Road	exits	Monash Freeway
+Warrigal Road	exits	*Waverley Road\n*
+Warrigal Road	exits	High Street Road\n*Highbury Road\n*
+Warrigal Road	exits	Toorak Road/
+Warrigal Road	exits	Burwood Highway
+Warrigal Road	exits	Riversdale Road
+Henty Highway	exits	*
+Henty Highway	exits	Borung Highway
+Henty Highway	exits	Wimmera Highway
+Henty Highway	exits	Western Highway, Victoria
+Henty Highway	exits	Glenelg Highway
+Henty Highway	exits	Princes Highway
+Wimmera Highway	exits	*
+Wimmera Highway	exits	Sunraysia Highway
+Wimmera Highway	exits	Henty Highway
+Wimmera Highway	exits	Western Highway, Victoria
+Docklands Highway	exits	*
+Docklands Highway	exits	Flinders Street, Melbourne
+Docklands Highway	exits	*Bourke Street West\n*
+Docklands Highway	exits	Dudley Street\n*Docklands Drive / Harbour Esplanade\n*
+Docklands Highway	exits	CityLink
+Docklands Highway	exits	*Dock Link Road\n*
+Docklands Highway	exits	Napier Street\n*
+Docklands Highway	exits	Whitehall Street\n*
+Docklands Highway	exits	Somerville Road\n*
+Docklands Highway	exits	Hyde Street\n*
+Docklands Highway	exits	Williamstown Road
+Eastern Highway	exits	*
+Eastern Highway	exits	Hoddle Street, Melbourne
+Eastern Highway	exits	Queens Parade \n*
+Eastern Highway	exits	Brunswick Street, Melbourne
+Eastern Highway	exits	Nicholson Street, Melbourne
+Eastern Highway	exits	Rathdowne Street \n*
+Eastern Highway	exits	Lygon Street, Melbourne
+Eastern Highway	exits	Swanston Street, Melbourne
+Eastern Highway	exits	Royal Parade \n*
+Eastern Highway	exits	Flemington Road, Melbourne
+Yarra Bank Highway	exits	* Linlithgow Avenue\n* Sturt Street\n*
+Yarra Bank Highway	exits	St. Kilda Road, Melbourne
+Yarra Bank Highway	exits	( via Southbank Boulevard)
+Bulleen Road	exits	Eastern Freeway\n\nfor full list see major intersections
+Cheltenham)	exits	* Hammond Road\n* Bennet Street\n*
+Cheltenham)	exits	EastLink, Melbourne
+Cheltenham)	exits	* Chandler Road\n* Perry Road\n* Corrigan Road\n*
+Cheltenham)	exits	Springvale Road
+Cheltenham)	exits	* Centre Dandenong Road\n*
+Cheltenham)	exits	Boundary Road
+Springvale) Highway	exits	*
+Springvale) Highway	exits	Sydney Road, Melbourne
+Springvale) Highway	exits	Greensborough Highway
+Springvale) Highway	exits	Eastern Freeway, Melbourne
+Springvale) Highway	exits	/
+Springvale) Highway	exits	EastLink, Melbourne
+Springvale) Highway	exits	Maroondah Highway
+Springvale) Highway	exits	Burwood Highway
+Springvale) Highway	exits	Monash Freeway
+Springvale) Highway	exits	Princes Highway
+Springvale) Highway	exits	Westall Road
+Springvale) Highway	exits	Mornington Peninsula Freeway
+Springvale) Highway	exits	*''for full list see [[#Major intersections and suburbs
+Springvale) Highway	exits	major intersections]]''
+Goldfields Way	exits	Burley Griffin Way
+Henry Lawson Way	exits	Mid-Western Highway
+Lachlan Valley Way	exits	Kidman Way
+Lachlan Valley Way	exits	Condobolin-Wyalong Road
+Lachlan Valley Way	exits	Newell Highway
+Lachlan Valley Way	exits	Henry Lawson Way
+Lachlan Valley Way	exits	Mid-Western Highway
+Lachlan Valley Way	exits	Olympic Highway
+Duncan Road	exits	Buntine Highway
+Goldfields Highway	exits	Great Eastern Highway
+Beach Road, Melbourne	exits	*
+Beach Road, Melbourne	exits	Bay Street \n*
+Beach Road, Melbourne	exits	Kerferd Road \n*
+Beach Road, Melbourne	exits	Fitzroy Street\n*
+Beach Road, Melbourne	exits	Barkly Street \n*
+Beach Road, Melbourne	exits	Glen Huntly Road\n*
+Beach Road, Melbourne	exits	North Road \n*
+Beach Road, Melbourne	exits	South Road \n*
+Beach Road, Melbourne	exits	Bluff Road \n*
+Beach Road, Melbourne	exits	Balcombe Road \n*
+Beach Road, Melbourne	exits	Warrigal Road
+Southern Outlet, Hobart	exits	Huon Highway\n\nfor full list see Exits
+Peninsula Link	exits	*
+Peninsula Link	exits	Frankston-Flinders Road\n*
+Peninsula Link	exits	'''
+Peninsula Link	exits	Moorooduc Highway
+Peninsula Link	exits	'\nfor full list see
+Peninsula Link	exits	Peninsula Link
+Peninsula Link	exits	''
+East West Link	exits	CityLink
+Scotts Peak Dam Road	exits	Edgar Dam
+Yass Valley Way	exits	Barton Highway
+Ballarat Road, Melbourne	exits	Western Ring Road
+Gawler bypass road	exits	*
+Gawler bypass road	exits	Max Fatchen Expressway
+Gawler bypass road	exits	Main North Road
+Forrest Highway	exits	*
+Forrest Highway	exits	Pinjarra Road
+Forrest Highway	exits	Old Coast Road (, Lake Clifton)\n*
+Forrest Highway	exits	Old Coast Road
+Victoria Road	exits	*
+Victoria Road	exits	Metroad 4
+Victoria Road	exits	Lyons Road\n*
+Victoria Road	exits	Burns Bay Road\n*
+Victoria Road	exits	Metroad 3
+Victoria Road	exits	Marsden Road\n*
+Victoria Road	exits	Metroad 6
+Victoria Road	exits	James Ruse Drive
+Victoria Road	exits	Church Street
+Montague Road, Adelaide	exits	*
+Montague Road, Adelaide	exits	Main North Road
+Montague Road, Adelaide	exits	McIntyre Road
+Anzac Avenue	exits	*
+Anzac Avenue	exits	Bruce Highway
+Anzac Avenue	exits	Deception Bay Road
+Anzac Avenue	exits	Elizabeth Avenue
+Anzac Avenue	exits	Oxley Avenue
+Highway 1	exits	*
+Highway 1	exits	Riddoch Highway
+Highway 1	exits	Dukes Highway
+Highway 1	exits	Portrush Road
+Highway 1	exits	Salisbury Highway
+Highway 1	exits	Northern Expressway
+Highway 1	exits	Stuart Highway
+Highway 1	exits	Lincoln Highway
+Highway 1	exits	9
+Highway 1	exits	Tod Highway
+Highway 1	exits	Flinders Highway, South Australia
+Bermuda Street	exits	*
+Bermuda Street	exits	Nerang–Broadbeach Road
+Bermuda Street	exits	Reedy Creek Road
+City Ring Route, Adelaide	exits	*
+City Ring Route, Adelaide	exits	North Terrace\n*
+City Ring Route, Adelaide	exits	Fullarton Road, Adelaide
+City Ring Route, Adelaide	exits	Anzac Highway
+City Ring Route, Adelaide	exits	Sir Donald Bradman Drive
+City Ring Route, Adelaide	exits	Port Road, Adelaide
+City Ring Route, Adelaide	exits	Torrens Road
+Onkaparinga Valley Road	exits	*
+Onkaparinga Valley Road	exits	South Eastern Freeway
+Onkaparinga Valley Road	exits	Macclesfield Road, South Australia
+Strathalbyn–Goolwa Road	exits	*
+Strathalbyn–Goolwa Road	exits	Macclesfield Road, South Australia
+Strathalbyn–Goolwa Road	exits	Victor Harbor Road
+Wellington Road, South Australia	exits	Wistow-Strathalbyn Road
+Gorge Road, South Australia	exits	Adelaide-Mannum Road
+M80 Ring Road, Melbourne	exits	*
+M80 Ring Road, Melbourne	exits	Western Freeway
+M80 Ring Road, Melbourne	exits	Calder Freeway
+M80 Ring Road, Melbourne	exits	Tullamarine Freeway
+M80 Ring Road, Melbourne	exits	Hume Freeway
+M80 Ring Road, Melbourne	exits	''for full list see [[#Exits and Interchanges
+M80 Ring Road, Melbourne	exits	exits and interchanges]]''.
+Robina Parkway	exits	*
+Robina Parkway	exits	Gooding Drive
+Robina Parkway	exits	* Markeri Street\n* Cheltenham Drive\n* Scottsdale Drive
+Pinjarra Road	exits	Mandurah Road
+Pinjarra Road	exits	Kwinana Freeway
+Pinjarra Road	exits	Forrest Highway
+Pinjarra Road	exits	South Yunderup Road
+Camden Valley Way	exits	*
+Camden Valley Way	exits	M5 South Western Motorway
+Camden Valley Way	exits	Metroad 9
+Remembrance Drive	exits	Picton Road
+North-South Motorway	exits	*
+North-South Motorway	exits	Port River Expressway
+North-South Motorway	exits	Grand Junction Road
+Bondi Road	exits	*
+Bondi Road	exits	Old South Head Road, Sydney
+Bondi Road	exits	* Council Street
+Marion Road	exits	*
+Marion Road	exits	Sir Donald Bradman Drive
+Marion Road	exits	Anzac Highway
+Marion Road	exits	Cross Road, Adelaide
+Marion Road	exits	Southern Expressway
+Northern Connector	exits	*Waterloo Corner Road\n*
+Northern Connector	exits	Kings Road, Adelaide
+Magill Road, Adelaide	exits	Portrush Road
+Regency Road, Adelaide	exits	*
+Regency Road, Adelaide	exits	South Road, Adelaide
+Regency Road, Adelaide	exits	Churchill Road, Adelaide
+Regency Road, Adelaide	exits	Prospect Road
+Regency Road, Adelaide	exits	Main North Road
+Regency Road, Adelaide	exits	Hampstead Road, Adelaide
+The Parade, Adelaide	exits	*
+The Parade, Adelaide	exits	Fullarton Road, Adelaide
+The Parade, Adelaide	exits	Portrush Road, Adelaide
+Hester Avenue	exits	Connolly Drive
+Panalatinga Road, Adelaide	exits	Main South Road &
+Panalatinga Road, Adelaide	exits	Southern Expressway,
+Panalatinga Road, Adelaide	exits	Kenihans Road,
+Panalatinga Road, Adelaide	exits	Reynell Road,
+Panalatinga Road, Adelaide	exits	Pimpala Road,
+Panalatinga Road, Adelaide	exits	Bains Road,
+Panalatinga Road, Adelaide	exits	Wheatsheaf Road
+Morley Drive	exits	*
+Morley Drive	exits	Wanneroo Road
+Morley Drive	exits	Grand Promenade
+Morley Drive	exits	Alexander Drive
+Gnangara Road	exits	*
+Gnangara Road	exits	Mirrabooka Avenue
+Gnangara Road	exits	Ocean Reef Road
+Gnangara Road	exits	Alexander Drive
+Gnangara Road	exits	Beechboro Road
+Gnangara Road	exits	* Lord Street
+High Street, Fremantle	exits	* Carrington Street\n*
+High Street, Fremantle	exits	Stirling Highway
+High Street, Fremantle	exits	*
+High Street, Fremantle	exits	Ord Street
+South Terrace, Fremantle	exits	*
+South Terrace, Fremantle	exits	Parry Street, Fremantle
+South Terrace, Fremantle	exits	South Street, Fremantle
+South Terrace, Fremantle	exits	Marine Terrace, Fremantle
+Adelaide Street, Fremantle	exits	Parry Street, Fremantle
+Adelaide Street, Fremantle	exits	Queen Street, Fremantle
+Market Street, Fremantle	exits	High Street, Fremantle
+Market Street, Fremantle	exits	South Terrace, Fremantle
+Parry Street, Fremantle	exits	*
+Parry Street, Fremantle	exits	Queen Victoria Street, Fremantle
+Parry Street, Fremantle	exits	,\n*
+Parry Street, Fremantle	exits	High Street, Fremantle
+Dorat Road	exits	Daly River Road
+Larapinta Drive	exits	Namatjira Drive
+Thomas Street, Perth	exits	*
+Thomas Street, Perth	exits	Rokeby Road
+Thomas Street, Perth	exits	Kings Park Road \n*
+Thomas Street, Perth	exits	Hay Street, Perth
+Thomas Street, Perth	exits	Roberts Road, Perth
+Thomas Street, Perth	exits	Wellington Street, Perth
+Loftus Street	exits	*
+Loftus Street	exits	Graham Farmer Freeway
+Loftus Street	exits	Vincent Street, North Perth
+Loftus Street	exits	Scarborough Beach Road
+Peninsula Developmental Road	exits	Bamaga Road
+Bamaga Road	exits	Peninsula Developmental Road
+Majura Parkway	exits	*
+Majura Parkway	exits	Fairbairn Avenue
+Highway 1	exits	*
+Highway 1	exits	Coolgardie-Esperance Highway
+Highway 1	exits	Newdegate-Ravensthorpe Road
+Highway 1	exits	Albany Highway
+Highway 1	exits	South Western Highway
+Highway 1	exits	Forrest Highway
+Highway 1	exits	Great Northern Highway
+Highway 1	exits	Indian Ocean Drive
+Highway 1	exits	Midlands Road
+Highway 1	exits	Geraldton-Mount Magnet Road
+Highway 1	exits	Marble Bar Road
+Highway 1	exits	WA to QLD:
+Highway 1	exits	*
+Highway 1	exits	Buchanan Highway
+Highway 1	exits	File:Australian Route 96.png
+Highway 1	exits	Buntine Highway
+Highway 1	exits	Central Arnhem Road
+Highway 1	exits	Roper Highway
+Highway 1	exits	Stuart Highway
+Highway 1	exits	Darwin spur:
+Highway 1	exits	Kakadu Highway
+Highway 1	exits	Dorat Road
+Highway 1	exits	Cox Peninsula Road
+Highway 1	exits	Arnhem Highway
+Highway 1	exits	Tiger Brennan Drive
+Highway 1	exits	*
+Highway 1	exits	Kennedy Developmental Road
+Highway 1	exits	Mulligan Highway
+Highway 1	exits	Captain Cook Highway
+Highway 1	exits	Gillies Highway
+Highway 1	exits	Palmerston Highway
+Highway 1	exits	Flinders Highway, Queensland
+Highway 1	exits	Peak Downs Highway
+Highway 1	exits	Capricorn Highway
+Highway 1	exits	Burnett Highway
+Highway 1	exits	Dawson Highway
+Highway 1	exits	Isis Highway
+Highway 1	exits	Wide Bay Highway
+Highway 1	exits	Gateway Motorway
+Highway 1	exits	*
+Highway 1	exits	Bruxner Highway
+Highway 1	exits	Gwydir Highway
+Highway 1	exits	Oxley Highway
+Highway 1	exits	New England Highway
+Highway 1	exits	Hunter Expressway
+Highway 1	exits	Newcastle Link Road
+Highway 1	exits	Central Coast Highway
+Highway 1	exits	Metroad 3
+Highway 1	exits	A8
+Highway 1	exits	Bradfield Highway
+Highway 1	exits	M5 South Western Motorway
+Highway 1	exits	Metroad 6
+Highway 1	exits	Illawarra Highway
+Highway 1	exits	Kings Highway, Australia
+Highway 1	exits	Snowy Mountains Highway
+Highway 1	exits	yes
+Highway 1	exits	*
+Highway 1	exits	Lyell Highway
+Highway 1	exits	Lake Highway
+Highway 1	exits	Esk Highway
+Highway 1	exits	West Tamar Highway
+Highway 1	exits	*
+Highway 1	exits	Monaro Highway
+Highway 1	exits	Great Alpine Road
+Highway 1	exits	South Gippsland Highway
+Highway 1	exits	Strzelecki Highway
+Highway 1	exits	Princes Highway
+Highway 1	exits	CityLink
+Highway 1	exits	Western Ring Road
+Highway 1	exits	Midland Highway
+Highway 1	exits	Hamilton Highway
+Highway 1	exits	Hopkins Highway
+Highway 1	exits	Henty Highway
+Abernethy Road, Perth	exits	*
+Abernethy Road, Perth	exits	Fairbrother Street \n*
+Abernethy Road, Perth	exits	Leach Highway
+Abernethy Road, Perth	exits	Kewdale Road
+Abernethy Road, Perth	exits	Kalamunda Road
+Dudley Street	exits	*
+Dudley Street	exits	King Street, Melbourne
+Dudley Street	exits	Spencer Street, Melbourne
+Ginninderra Drive	exits	*
+Ginninderra Drive	exits	Gungahlin Drive
+Ginninderra Drive	exits	,\n* Haydon Drive,\n* Coulter Drive,\n*
+Ginninderra Drive	exits	Kingsford Smith Drive, Canberra
+Pialligo Avenue	exits	Canberra Airport, Fairbairn Avenue
+Hindmarsh Drive	exits	Monaro Highway,
+Hindmarsh Drive	exits	Yamba Drive,
+Hindmarsh Drive	exits	Athllon Drive,
+Hindmarsh Drive	exits	'''Tuggeranong Parkway
+Fairbairn Avenue	exits	Majura Road, Morshead Drive
+Canberra Avenue	exits	*
+Canberra Avenue	exits	State Circle
+Canberra Avenue	exits	*Wentworth Avenue\n*
+Canberra Avenue	exits	Monaro Highway
+Canberra Avenue	exits	Hindmarsh Drive, Canberra
+Canberra Avenue	exits	*Lanyon Drive
+State Circle	exits	*
+State Circle	exits	Kings Avenue, Canberra
+State Circle	exits	Canberra Avenue
+State Circle	exits	Melbourne Avenue\n*
+State Circle	exits	Adelaide Avenue
+State Circle	exits	Flynn Drive
+Drakeford Drive	exits	Athllon Drive
+Tharwa Drive	exits	Drakeford Drive
+Mouat Street	exits	*
+Mouat Street	exits	High Street, Fremantle
+Mouat Street	exits	* Croke Street
+Henry Street, Fremantle	exits	*
+Henry Street, Fremantle	exits	High Street, Fremantle
+Henry Street, Fremantle	exits	* Croke Street
+South Street, Perth	exits	*
+South Street, Perth	exits	Roe Highway
+South Street, Perth	exits	Kwinana Freeway
+South Street, Perth	exits	Stock Road, Perth
+South Street, Perth	exits	Hampton Road
+Stock Road, Perth	exits	*
+Stock Road, Perth	exits	Canning Highway
+Stock Road, Perth	exits	Leach Highway
+Stock Road, Perth	exits	Spearwood Avenue \n* Beeliar Drive
+Wurundjeri Way	exits	*
+Wurundjeri Way	exits	Dudley Street
+Wurundjeri Way	exits	Bourke Street, Melbourne
+Wurundjeri Way	exits	Flinders Street, Melbourne
+Churchill Road	exits	Regency Road, Adelaide
+Windsor Road	exits	*
+Windsor Road	exits	Groves Avenue  \n*
+Windsor Road	exits	Garfield Road East\n*
+Windsor Road	exits	Old Windsor Road
+Windsor Road	exits	Burns Road\n*
+Windsor Road	exits	Showground Road\n*
+Windsor Road	exits	Old Northern Road\n*
+Windsor Road	exits	Seven Hills Road\n*
+Windsor Road	exits	M2 Hills Motorway
+Old Windsor Road	exits	*
+Old Windsor Road	exits	Burns Road\n*
+Old Windsor Road	exits	Sunnyholt Road\nNorwest BLVD\n*
+Old Windsor Road	exits	Westlink M7
+Old Windsor Road	exits	Seven Hills Road\n*
+Old Windsor Road	exits	M2 Hills Motorway
+Old Windsor Road	exits	Hart Drive
+A38	exits	Pacific Highway\nForest Way
+Memorial Drive	exits	Princes Highway
+Guildford Road	exits	*
+Guildford Road	exits	Walcott Street
+Guildford Road	exits	East Parade
+Guildford Road	exits	Garratt Road
+Guildford Road	exits	Tonkin Highway
+Outram Street, West Perth	exits	* Ord Street\n*
+Outram Street, West Perth	exits	Hay Street, Perth
+Outram Street, West Perth	exits	*
+Outram Street, West Perth	exits	Murray Street, Perth
+Midlands Road	exits	*
+Midlands Road	exits	Bindoon Moora Road
+Midlands Road	exits	Mingenew Morawa Road
+Heathcote Road, Sydney	exits	*
+Heathcote Road, Sydney	exits	M5 South Western Motorway
+Heathcote Road, Sydney	exits	A6
+Toowoomba Second Range Crossing	exits	* Mort Street, Cranley\n* Boundary Street, Cranley\n*
+Toowoomba Second Range Crossing	exits	Warrego Highway
+Mackay Ring Road	exits	*
+Mackay Ring Road	exits	Peak Downs Highway  \n*
+Mackay Ring Road	exits	Bruce Highway
+Mackay Ring Road	exits	, Glenella
+Yamba Drive	exits	Hindmarsh Drive
+Goyder Highway	exits	*
+Goyder Highway	exits	Main North Road
+Goyder Highway	exits	RM Williams Way
+Goyder Highway	exits	Barrier Highway
+Goyder Highway	exits	Worlds End Highway
+Goyder Highway	exits	Thiele Highway
+Augusta Highway	exits	*
+Augusta Highway	exits	Port Wakefield–Auburn Road
+Augusta Highway	exits	Copper Coast Highway
+Augusta Highway	exits	Goyder Highway
+Augusta Highway	exits	Wilkins Highway
+Augusta Highway	exits	Spencer Highway
+Augusta Highway	exits	Main North Road
+Augusta Highway	exits	Flinders Ranges Way
+Manning Road, Perth	exits	*
+Manning Road, Perth	exits	Leach Highway
+Manning Road, Perth	exits	* Centenary Avenue\n* Kent Street
+Thiele Highway	exits	*
+Thiele Highway	exits	Marrabel–Eudunda Road
+Thiele Highway	exits	Worlds End Highway
+Kenwick Link	exits	*
+Kenwick Link	exits	Roe Highway
+Kenwick Link	exits	* Royal Street
+RM Williams Way	exits	*
+RM Williams Way	exits	Goyder Highway
+RM Williams Way	exits	Wilmington–Ucolta Road
+Flinders Ranges Way	exits	*
+Flinders Ranges Way	exits	RM Williams Way
+Flinders Ranges Way	exits	Barndioota Road
+Copper Coast Highway	exits	*
+Copper Coast Highway	exits	Yorke Highway
+Copper Coast Highway	exits	Port Broughton Road / Mines Road
+Spencer Highway	exits	*
+Spencer Highway	exits	Upper Yorke Road\n*
+Spencer Highway	exits	Port Broughton Road
+Spencer Highway	exits	Copper Coast Highway
+Spencer Highway	exits	Mines Road
+Spencer Highway	exits	Kulpara-Maitland Road
+Yorke Highway	exits	*
+Yorke Highway	exits	St Vincent Highway
+Yorke Highway	exits	Spencer Highway
+Yorke Highway	exits	Yorketown-Warooka Road
+Birdseye Highway	exits	Tod Highway
+Robertson Drive	exits	*
+Robertson Drive	exits	South Western Highway
+Robertson Drive	exits	South Western Highway
+Browns Well Highway	exits	Cameron Highway
+Barndioota Road	exits	Strzelecki Track
+Mount Barker Road	exits	* Mount Osmond Road\n* Devil's Elbow\n* Measday's Hill\n* Mount Lofty Summit Road\n*
+Mount Barker Road	exits	Strathalbyn Road
+Mount Barker Road	exits	*
+Mount Barker Road	exits	Onkaparinga Valley Road
+Mount Barker Road	exits	Echunga Road
+NorthLink WA	exits	*
+NorthLink WA	exits	Hepburn Avenue
+NorthLink WA	exits	Gnangara Road
+NorthLink WA	exits	*The Promenade\n*Neaves Road
+Prospect Road, Adelaide	exits	*
+Prospect Road, Adelaide	exits	City Ring Route, Adelaide
+Prospect Road, Adelaide	exits	Regency Road, Adelaide
+Prospect Road, Adelaide	exits	Grand Junction Road
+Kilcoy-Murgon Road	exits	Manumbar Road
+McIntyre Road, Adelaide	exits	Main North Road
+Bowen Developmental Road	exits	*
+Bowen Developmental Road	exits	Collinsville Elphinstone Road\n*
+Bowen Developmental Road	exits	Suttor Developmental Road

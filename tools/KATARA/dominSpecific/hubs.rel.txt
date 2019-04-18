@@ -1,0 +1,2850 @@
+American Airlines	hubs	* Charlotte Douglas International Airport \n* Dallas/Fort Worth International Airport\n*
+American Airlines	hubs	John F. Kennedy International Airport
+American Airlines	hubs	* LaGuardia Airport \n* Los Angeles International Airport\n* Miami International Airport\n* O'Hare International Airport \n* Philadelphia International Airport\n* Phoenix Sky Harbor International Airport\n*
+American Airlines	hubs	Ronald Reagan Washington National Airport
+British Airways	hubs	* Gatwick Airport \n* Heathrow Airport
+KLM	hubs	Amsterdam Airport Schiphol
+Qantas	hubs	Brisbane Airport
+Qantas	hubs	Melbourne Airport
+Qantas	hubs	Sydney Airport
+United Airlines	hubs	*
+United Airlines	hubs	Antonio B. Won Pat International Airport
+United Airlines	hubs	* Denver International Airport\n* George Bush Intercontinental Airport \n* Los Angeles International Airport\n* Narita International Airport \n* Newark Liberty International Airport\n* O'Hare International Airport \n* San Francisco International Airport\n* Washington Dulles International Airport
+Go	hubs	London Stansted Airport
+Delta Air Lines	hubs	* Amsterdam Airport Schiphol \n* Charles de Gaulle Airport \n* Cincinnati/Northern Kentucky International Airport\n* Detroit Metropolitan Airport\n* Hartsfield–Jackson Atlanta International Airport\n*
+Delta Air Lines	hubs	John F. Kennedy International Airport
+Delta Air Lines	hubs	*
+Delta Air Lines	hubs	LaGuardia Airport
+Delta Air Lines	hubs	* Logan International Airport \n* Los Angeles International Airport\n* Minneapolis–Saint Paul International Airport\n* Narita International Airport \n* Salt Lake City International Airport\n* Seattle–Tacoma International Airport
+America West Airlines	hubs	*Las Vegas McCarran International Airport \n*Phoenix Sky Harbor International Airport
+Pan American World Airways	hubs	*
+Pan American World Airways	hubs	Frankfurt Airport
+Pan American World Airways	hubs	John F. Kennedy International Airport
+Pan American World Airways	hubs	Heathrow Airport
+Pan American World Airways	hubs	Miami International Airport
+Pan American World Airways	hubs	Haneda Airport
+Pan American World Airways	hubs	Narita International Airport
+Martinair	hubs	Amsterdam Airport Schiphol
+Avianca	hubs	*El Dorado International Airport\n* El Salvador International Airport \n* Jorge Chávez International Airport
+Aeroméxico	hubs	*New Mexico City International Airport  \n*Mexico City International Airport
+Aerolíneas Argentinas	hubs	Aeroparque Jorge Newbery
+Prinair	hubs	Ponce, Puerto Rico
+LOT Polish Airlines	hubs	Warsaw Chopin Airport
+Aeroflot	hubs	Sheremetyevo International Airport
+Eastern Air Lines	hubs	* Charlotte/Douglas International Airport\n* Hartsfield Atlanta International Airport\n* John F. Kennedy International Airport
+Eastern Air Lines	hubs	* Kansas City International Airport\n* LaGuardia Airport
+Eastern Air Lines	hubs	* Luis Muñoz Marín International Airport
+Lufthansa	hubs	* Frankfurt Airport\n* Munich Airport
+Mexicana de Aviación	hubs	* Cancún International Airport\n* Guadalajara International Airport\n* Mexico City International Airport
+Iberia	hubs	Adolfo Suárez Madrid–Barajas Airport
+El Al	hubs	Ben Gurion Airport
+PLUNA	hubs	Carrasco International Airport
+Saudia	hubs	*
+Saudia	hubs	King Abdulaziz International Airport
+Saudia	hubs	King Khalid International Airport
+Saudia	hubs	King Fahd International Airport
+South African Airways	hubs	OR Tambo International Airport
+Vieques Air Link	hubs	Antonio Rivera Rodríguez Airport
+Royal Jordanian	hubs	Queen Alia International Airport
+Emery Worldwide	hubs	*Dayton International Airport\n*Amsterdam Airport Schiphol
+Polar Air Cargo	hubs	Incheon International Airport
+Polar Air Cargo	hubs	Northern Kentucky International Airport
+Polar Air Cargo	hubs	Ted Stevens Anchorage International Airport
+Continental Airlines	hubs	*
+Continental Airlines	hubs	Antonio B. Won Pat International Airport
+Continental Airlines	hubs	* Cleveland Hopkins International Airport\n* George Bush Intercontinental Airport \n* Newark Liberty International Airport
+China Airlines	hubs	* Taoyuan International Airport \n* Kaohsiung International Airport
+Cargolux	hubs	Luxembourg Findel Airport
+Cargolux	hubs	Zhengzhou Xinzheng International Airport
+Aer Lingus	hubs	Dublin Airport
+Air New Zealand	hubs	*Auckland Airport\n*
+Air New Zealand	hubs	Wellington International Airport
+Air New Zealand	hubs	*
+Air New Zealand	hubs	Christchurch International Airport
+Nippon Cargo Airlines	hubs	*Kansai International Airport \n*Naha Airport \n*Narita International Airport
+Emirates	hubs	Dubai International Airport
+Midwest Airlines	hubs	General Mitchell International Airport
+Midwest Airlines	hubs	Kansas City International Airport
+Hapag-Lloyd Flug	hubs	*Hanover/Langenhagen International Airport \n*Frankfurt Airport\n*Düsseldorf International Airport
+Finnair	hubs	* Helsinki Airport\n* Brussels Airport \n* London Heathrow Airport
+Atlas Air	hubs	Miami International Airport
+Atlas Air	hubs	John F. Kennedy International Airport
+Atlas Air	hubs	Los Angeles International Airport
+Atlas Air	hubs	Northern Kentucky International Airport
+Atlas Air	hubs	Anchorage International Airport
+Atlas Air	hubs	George Bush Intercontinental Airport
+Atlas Air	hubs	Huntsville International Airport
+Kenya Airways	hubs	Jomo Kenyatta International Airport
+Air Canada	hubs	* Calgary International Airport\n* Montréal–Pierre Elliott Trudeau International Airport\n* Toronto Pearson International Airport\n* Vancouver International Airport
+Northwest Airlines	hubs	*
+Northwest Airlines	hubs	Minneapolis–Saint Paul International Airport
+Northwest Airlines	hubs	*Tokyo\n**Haneda \n**Narita \n*Detroit \n*Memphis \n*Amsterdam \n*Anchorage
+Croatia Airlines	hubs	Zagreb International Airport
+Air Florida	hubs	Miami International Airport
+Western Airlines	hubs	* Los Angeles International Airport\n* Salt Lake City International Airport\n* Stapleton International Airport
+Royal Brunei Airlines	hubs	Brunei International Airport
+ATA Airlines	hubs	*
+ATA Airlines	hubs	Chicago Midway International Airport
+ATA Airlines	hubs	Indianapolis International Airport
+Alitalia-Linee Aeree Italiane	hubs	* Leonardo da Vinci-Fiumicino Airport\n* Malpensa Airport
+Braathens	hubs	Oslo Airport, Gardermoen
+Braathens	hubs	Oslo Airport, Fornebu
+Braathens	hubs	Stockholm-Arlanda Airport
+Cathay Pacific	hubs	*Hong Kong International Airport
+Hawaiian Airlines	hubs	*Honolulu International Airport\n*Kahului Airport
+Trans World Airlines	hubs	United States of America,
+Malaysia Airlines	hubs	Kuala Lumpur International Airport
+WestJet	hubs	*Calgary International Airport\n*Vancouver International Airport\n*Toronto Pearson International Airport
+Air Malta	hubs	Malta International Airport
+DAS Air Cargo	hubs	London Gatwick Airport
+Icelandair	hubs	Keflavík International Airport
+Fine Air	hubs	Miami International Airport
+LATAM Brasil	hubs	* São Paulo-Guarulhos International Airport\n*
+LATAM Brasil	hubs	Rio de Janeiro-Galeão International Airport
+LATAM Brasil	hubs	* Brasília International Airport
+Ariana Afghan Airlines	hubs	Kabul International Airport
+Air Atlanta Icelandic	hubs	Keflavík International Airport
+Air Mauritius	hubs	Sir Seewoosagur Ramgoolam International Airport
+Singapore Airlines	hubs	Singapore Changi Airport
+Cubana de Aviación	hubs	José Martí International Airport
+Lloyd Aéreo Boliviano	hubs	Jorge Wilstermann International Airport
+Lloyd Aéreo Boliviano	hubs	El Trompillo Airport
+Lloyd Aéreo Boliviano	hubs	Viru Viru International Airport
+Swissair	hubs	* Zürich\n* Geneva\n* Basel/Mulhouse/Freiburg
+Swiss International Air Lines	hubs	Zürich Airport
+Sabena	hubs	Brussels Airport
+Crossair	hubs	Euro-Airport Basel-Mulhouse-Freiburg
+Scandinavian Airlines	hubs	*Copenhagen Airport\n*
+Scandinavian Airlines	hubs	Stockholm Arlanda Airport
+Scandinavian Airlines	hubs	*Oslo Gardermoen Airport
+Air Jamaica	hubs	* Norman Manley International Airport\n* Sangster International Airport
+Frontier Airlines	hubs	*Denver International Airport
+TAROM	hubs	*
+TAROM	hubs	Henri Coandă International Airport
+AirBaltic	hubs	Riga International Airport
+Viasa	hubs	Simón Bolívar International Airport
+Turkish Airlines	hubs	*
+Turkish Airlines	hubs	Istanbul Atatürk Airport
+Turkish Airlines	hubs	Esenboğa International Airport
+Turkish Airlines	hubs	Sabiha Gökçen International Airport
+Bahamasair	hubs	Lynden Pindling International Airport
+Iran Air	hubs	*
+Iran Air	hubs	Mehrabad International Airport
+Iran Air	hubs	Tehran Imam Khomeini International Airport
+Dominicana de Aviación	hubs	Las Américas International Airport
+Garuda Indonesia	hubs	*
+Garuda Indonesia	hubs	Kualanamu International Airport
+Garuda Indonesia	hubs	Ngurah Rai International Airport
+Garuda Indonesia	hubs	Soekarno–Hatta International Airport
+Garuda Indonesia	hubs	Sultan Hasanuddin International Airport
+SAM Colombia	hubs	El Dorado International Airport
+Trans Australia Airlines	hubs	Melbourne Airport
+Australian Airlines	hubs	Cairns International Airport
+Pakistan International Airlines	hubs	*Jinnah International Airport \n* Allama Iqbal International Airport \n* Islamabad International Airport
+Japan Airlines	hubs	* Tokyo Haneda Airport \n*
+Japan Airlines	hubs	Tokyo Narita Airport
+Widerøe	hubs	Bergen-Flesland
+Widerøe	hubs	Bodø
+Widerøe	hubs	Oslo-Gardermoen
+Widerøe	hubs	Oslo-Torp (Sandefjord)
+Widerøe	hubs	Tromsø-Langnes
+Libyan Airlines	hubs	Tripoli International Airport
+Sterling Airlines	hubs	Copenhagen Airport
+Austral Líneas Aéreas	hubs	Aeroparque Jorge Newbery
+Aero Airlines	hubs	Lennart Meri Tallinn Airport
+Futura International Airways	hubs	Palma de Mallorca Airport
+Air Vanuatu	hubs	Bauerfield International Airport
+Dragonair	hubs	Hong Kong International Airport
+Court Line	hubs	London Luton Airport
+Kalitta Air	hubs	John F. Kennedy International Airport
+Kalitta Air	hubs	Ted Stevens Anchorage International Airport
+Kalitta Air	hubs	Hong Kong International Airport
+Kalitta Air	hubs	Bahrain International Airport
+All Nippon Airways	hubs	* Tokyo Haneda Airport \n*
+All Nippon Airways	hubs	Tokyo Narita Airport
+Comair	hubs	*Cincinnati/Northern Kentucky International Airport\n*John F. Kennedy International Airport\n*Orlando International Airport
+Balkan Bulgarian Airlines	hubs	Sofia Airport
+Aeroperú	hubs	Jorge Chavez International Airport
+Horizon Air	hubs	*Portland International Airport\n*Seattle–Tacoma International Airport
+Alaska Airlines	hubs	* Los Angeles International Airport\n* Portland International Airport\n* Seattle–Tacoma International Airport\n*
+Alaska Airlines	hubs	Ted Stevens Anchorage International Airport
+Flying Finn	hubs	Helsinki-Vantaa Airport
+Continental Connection	hubs	*Cleveland Hopkins International Airport\n*George Bush Intercontinental Airport\n*Newark Liberty International Airport
+Silver Airways	hubs	* Fort Lauderdale-Hollywood International Airport\n* Tampa International Airport\n* Orlando International Airport\n* Washington Dulles International Airport
+Atlantic Southeast Airlines	hubs	As Delta Connection\n*Detroit Metropolitan Wayne County Airport\n*Hartsfield-Jackson Atlanta International Airport\n\nAs United Express \n*O'Hare International Airport\n*Washington-Dulles International Airport
+Independence Air	hubs	Washington Dulles International Airport
+Endeavor Air	hubs	As Delta Connection:
+Endeavor Air	hubs	*Detroit Metropolitan Airport\n*Minneapolis-Saint Paul International Airport\n*John F. Kennedy International Airport\n*LaGuardia Airport
+Cape Air	hubs	As Cape Air\n*Barnstable Municipal Airport\n*
+Cape Air	hubs	Luis Muñoz Marín International Airport
+Cape Air	hubs	*Boston Logan International Airport\n*Lambert-St. Louis International Airport\n*Billings Logan International Airport\n*Nantucket Memorial Airport\nAs United Express\n*Antonio B. Won Pat International Airport
+Mesaba Airlines	hubs	*
+Mesaba Airlines	hubs	Detroit Metropolitan Wayne County Airport
+Mesaba Airlines	hubs	*Memphis International Airport\n*Minneapolis/St. Paul International Airport\n*
+Mesaba Airlines	hubs	LaGuardia Airport
+CommutAir	hubs	As United Express:
+CommutAir	hubs	Newark Liberty International Airport
+CommutAir	hubs	Washington Dulles International Airport
+SkyWest Airlines	hubs	As American Eagle:\n*Los Angeles International Airport\n*O'Hare International Airport\n*Phoenix Sky Harbor International Airport\n\nAs Alaska Airlines:\n*Portland International Airport\n*Seattle-Tacoma International Airport\n\nAs Delta Connection:\n*Cincinnati/Northern Kentucky International Airport\n*Detroit Metropolitan Wayne County Airport\n*Hartsfield–Jackson Atlanta International Airport\n*Los Angeles International Airport\n*Minneapolis-St. Paul International Airport\n*Salt Lake City International Airport\n*Seattle-Tacoma International Airport\n\nAs United Express:\n*O'Hare International Airport\n*Denver International Airport\n*George Bush Intercontinental Airport\n*Los Angeles International Airport\n*San Francisco International Airport
+Air Wisconsin	hubs	As American Eagle:\n\n*
+Air Wisconsin	hubs	Philadelphia International Airport
+Air Wisconsin	hubs	* Norfolk International Airport\n* LaGuardia International Airport\n* Ronald Reagan Washington National Airport
+United Express	hubs	* Antonio B. Won Pat International Airport\n* Denver International Airport\n*
+United Express	hubs	George Bush Intercontinental Airport
+United Express	hubs	* Los Angeles International Airport\n* Newark Liberty International Airport\n* O'Hare International Airport \n* San Francisco International Airport\n* Washington Dulles International Airport
+Envoy Air	hubs	*
+Envoy Air	hubs	Fort Worth International Airport
+Envoy Air	hubs	* O'Hare International Airport
+Continental Express	hubs	*Cleveland Hopkins International Airport\n*George Bush Intercontinental Airport\n*Newark Liberty International Airport
+Continental Micronesia	hubs	Antonio B. Won Pat International Airport
+O'Connor Airlines	hubs	Formerly:
+O'Connor Airlines	hubs	Mount Gambier Airport
+America West Express	hubs	*Las Vegas McCarran International Airport\n*Phoenix Sky Harbor International Airport
+Tofino Air	hubs	Nanaimo Harbour Water Airport
+Tofino Air	hubs	Sechelt Water Aerodrome
+Ansett Australia	hubs	*Melbourne Airport\n*Sydney Airport
+Arrow Air	hubs	Miami International Airport
+British Midland International	hubs	London Heathrow Airport
+Canadian Airlines	hubs	*Calgary International Airport\n*Montréal-Dorval International Airport\n*Toronto Pearson International Airport\n*Vancouver International Airport
+LTU International	hubs	*Berlin Tegel Airport  \n*Düsseldorf Airport\n*Munich Airport
+Biman Bangladesh Airlines	hubs	Shahjalal International Airport
+AirAsia	hubs	Kuala Lumpur International Airport
+Aloha Airlines	hubs	Honolulu International Airport
+US Airways	hubs	* Charlotte Douglas International Airport\n* Philadelphia International Airport\n* Phoenix Sky Harbor International Airport\n* Ronald Reagan Washington National Airport
+SN Brussels Airlines	hubs	Brussels Airport
+US Airways Express	hubs	*Charlotte Douglas International Airport\n*Philadelphia International Airport\n*Phoenix Sky Harbor International Airport\n*
+US Airways Express	hubs	Ronald Reagan Washington National Airport
+Flybe	hubs	*Birmingham\n*Manchester
+KLM Cityhopper	hubs	Amsterdam Airport Schiphol
+Air Midwest	hubs	Kansas City International Airport
+Mesa Airlines	hubs	As American Eagle\n\n*Phoenix Sky Harbor International Airport\n*Dallas/Fort Worth International Airport\n\nAs United Express:\n\n*George Bush Intercontinental Airport\n*Washington Dulles International Airport
+Piedmont Airlines	hubs	As American Eagle:\n* Charlotte Douglas International Airport\n* Philadelphia International Airport
+Philippine Airlines	hubs	Ninoy Aquino International Airport
+Air China	hubs	*Beijing Capital International Airport\n*
+Air China	hubs	Chengdu Shuangliu International Airport
+Air China	hubs	*Shanghai Pudong International Airport
+Copa Airlines	hubs	*
+Copa Airlines	hubs	Tocumen International Airport
+Thai Airways	hubs	Suvarnabhumi Airport
+Jazz	hubs	* Halifax Stanfield International Airport\n* Calgary International Airport\n* Montréal–Pierre Elliott Trudeau International Airport\n* Toronto Pearson International Airport\n* Vancouver International Airport
+Great Lakes Airlines	hubs	*
+Great Lakes Airlines	hubs	Denver International Airport
+TAME	hubs	*Mariscal Sucre International Airport
+Adria Airways	hubs	Ljubljana Jože Pučnik Airport
+Air North	hubs	Erik Nielsen Whitehorse International Airport
+Air Georgian	hubs	Toronto Pearson International Airport
+Air Georgian	hubs	Calgary International Airport
+Thai Airways Company	hubs	Don Mueang International Airport
+Korean Air	hubs	* Gimpo International Airport\n* Incheon International Airport
+EgyptAir	hubs	Cairo International Airport
+AirTran Airways	hubs	* Baltimore-Washington International Thurgood Marshall Airport\n*
+AirTran Airways	hubs	General Mitchell International Airport
+AirTran Airways	hubs	* Hartsfield-Jackson Atlanta International Airport\n* Orlando International Airport
+Reeve Aleutian Airways	hubs	Anchorage International Airport
+Kavminvodyavia	hubs	Mineralnye Vody Airport
+Kavminvodyavia	hubs	Vnukovo International Airport
+Kavminvodyavia	hubs	Stavropol Shpakovskoye Airport
+British European Airways	hubs	RAF Northolt
+British European Airways	hubs	London Heathrow Airport
+Asiana Airlines	hubs	* Gimpo International Airport\n* Incheon International Airport
+Jat Airways	hubs	Belgrade Nikola Tesla Airport
+Air Lithuania	hubs	Kaunas International Airport
+Czech Airlines	hubs	Václav Havel Airport Prague
+Canadian Pacific Air Lines	hubs	Vancouver
+Canadian Pacific Air Lines	hubs	Toronto
+Canadian Pacific Air Lines	hubs	Montreal
+Club Air	hubs	Venice Marco Polo Airport
+Air Moldova	hubs	Chișinău International Airport
+Virgin Australia	hubs	*Auckland Airport\n*Brisbane Airport\n*Melbourne Airport\n*Sydney Airport
+Pacific Southwest Airlines	hubs	* Los Angeles International Airport\n* San Diego International Airport\n* San Francisco International Airport
+PSA Airlines	hubs	As American Eagle:
+PSA Airlines	hubs	Charlotte Douglas International Airport
+Air Caraïbes	hubs	Pointe-à-Pitre International Airport
+Aerosvit Airlines	hubs	Boryspil International Airport
+First Air	hubs	Yellowknife Airport
+First Air	hubs	Iqaluit Airport
+First Air	hubs	Rankin Inlet Airport
+Avensa	hubs	Simón Bolívar International Airport
+Palmair	hubs	Bournemouth Airport
+Southern Airways	hubs	Hartsfield-Jackson International Airport
+Antonov Airlines	hubs	Gostomel Airport
+Luxair	hubs	Luxembourg Findel Airport
+Tunisair	hubs	Tunis-Carthage International Airport
+Indian	hubs	* Chhatrapati Shivaji International Airport\n* Indira Gandhi International Airport
+Jetstar Pacific	hubs	Tan Son Nhat International Airport
+Vietnam Airlines	hubs	* Noi Bai International Airport \n* Tan Son Nhat International Airport
+Gulf Air	hubs	Bahrain International Airport
+Kuwait Airways	hubs	Kuwait International Airport
+Syrian Air	hubs	*
+Syrian Air	hubs	Damascus International Airport
+Syrian Air	hubs	* Aleppo International Airport
+JMC Air	hubs	*London Gatwick\n*Manchester
+Air California	hubs	John Wayne Airport
+Cebu Pacific	hubs	*Mactan-Cebu International Airport \n*Ninoy Aquino International Airport \n*Kalibo International Airport\n*Clark International Airport\n*Francisco Bangoy International Airport \n*Iloilo International Airport
+China Southern Airlines	hubs	* Beijing Capital International Airport\n* Guangzhou Baiyun International Airport
+Líneas Aéreas Privadas Argentinas	hubs	Aeroparque Jorge Newbery
+Atlantic Coast Airlines	hubs	Dulles International Airport
+Braniff International Airways	hubs	* Dallas Love Field Airport\n* Dallas-Fort Worth International Airport\n* Logan International Airport\n* Los Angeles International Airport\n* Miami International Airport\n* Washington Dulles International Airport
+Sudan Airways	hubs	Khartoum International Airport
+Air Srpska	hubs	Banja Luka International Airport
+Volga-Dnepr Airlines	hubs	Ulyanovsk Vostochny Airport
+Air Koryo	hubs	Pyongyang Sunan International Airport
+EVA Air	hubs	Taiwan Taoyuan International Airport
+Ethiopian Airlines	hubs	Bole International Airport
+Finncomm Airlines	hubs	Helsinki-Vantaa Airport
+Cayman Airways	hubs	Owen Roberts International Airport
+Air Namibia	hubs	Windhoek Hosea Kutako International Airport
+SilkAir	hubs	Singapore Changi Airport
+VASP	hubs	Congonhas-São Paulo International Airport
+VASP	hubs	Guarulhos International Airport
+TACA Airlines	hubs	* Monseñor Óscar Arnulfo Romero International Airport
+Avianca Costa Rica	hubs	Juan Santamaría International Airport
+British Caledonian	hubs	London Gatwick Airport
+Nuevo Continente	hubs	Jorge Chavez International Airport
+LATAM Chile	hubs	Comodoro Arturo Merino Benítez International Airport
+Skymark Airlines	hubs	Haneda Airport
+Japan Asia Airways	hubs	Taiwan Taoyuan International Airport
+Japan Asia Airways	hubs	Narita International Airport
+Japan Asia Airways	hubs	Kansai International Airport
+Japan Asia Airways	hubs	Chubu Centrair International Airport
+JALways	hubs	Narita International Airport
+Japan Transocean Air	hubs	Naha Airport
+Hokkaido Air System	hubs	Okadama Airport
+Carnival Air Lines	hubs	Fort Lauderdale-Hollywood International Airport
+Carnival Air Lines	hubs	Miami International Airport
+Air Calédonie	hubs	Nouméa Magenta Airport
+Air Algérie	hubs	Houari Boumediene Airport
+Royal Air Maroc	hubs	Mohammed V International Airport
+Mandarin Airlines	hubs	Taipei Songshan Airport
+Mandarin Airlines	hubs	Taichung Airport
+Air Hong Kong	hubs	Hong Kong International Airport
+Qatar Airways	hubs	Hamad International Airport
+Spanair	hubs	Barcelona El Prat Airport
+Air Berlin	hubs	* Berlin Tegel Airport\n* Düsseldorf Airport
+ALM Antillean Airlines	hubs	Hato International Airport
+Nok Air	hubs	Don Mueang International Airport
+Bangkok Airways	hubs	Suvarnabhumi Airport
+Orient Thai Airlines	hubs	Don Mueang International Airport
+Olympic Aviation	hubs	Athens International Airport, %22Eleftherios Venizelos%22
+Olympic Aviation	hubs	Ellinikon International Airport
+Japan Air System	hubs	Haneda Airport
+Japan Air System	hubs	Osaka International Airport
+Malév Hungarian Airlines	hubs	Budapest Liszt Ferenc International Airport
+Ghana Airways	hubs	Kotoka International Airport
+SriLankan Airlines	hubs	Bandaranaike International Airport
+Air Gabon	hubs	Libreville International Airport
+ACES Colombia	hubs	José María Córdova International Airport
+ACES Colombia	hubs	Olaya Herrera Airport
+Jetstar Airways	hubs	Melbourne Airport
+Linjeflyg	hubs	Bromma Airport ( 1957-1983 )
+Linjeflyg	hubs	Arlanda Airport ( 1983-1993 )
+Aeromar	hubs	* Mexico City International Airport
+Tower Air	hubs	John F. Kennedy International Airport
+OLT Express Germany	hubs	* Bremen Airport\n* Saarbrücken Airport
+Loganair	hubs	Glasgow International Airport
+Chicago Express Airlines	hubs	*Chicago Midway Airport\n*Indianapolis International Airport
+Fiji Airways	hubs	Nadi International Airport
+Air Europa	hubs	Madrid Barajas Airport
+Kendell Airlines	hubs	Adelaide Airport
+Kendell Airlines	hubs	Sydney Airport
+Transaero	hubs	* Moscow-Vnukovo\n* Saint Petersburg
+Dalavia	hubs	Khabarovsk Novy Airport
+Vladivostok Air	hubs	*Vladivostok-Vladivostok International Airport\n*Khabarovsk-Novy International Airport\n*Moscow-Sheremetyevo International Airport
+VG Airlines	hubs	Brussels Airport
+Etihad Airways	hubs	Abu Dhabi International Airport
+Estonian Air	hubs	Tallinn Airport
+Olympic Airlines	hubs	Athens International Airport
+Capitol Air	hubs	John F. Kennedy International Airport, Brussels, Belgium and San Juan, Puerto Rico.
+Precision Air	hubs	Julius Nyerere International Airport
+Air Tanzania	hubs	Julius Nyerere International Airport
+Air Atlanta	hubs	Hartsfield-Jackson Atlanta International Airport
+Texas International Airlines	hubs	* Dallas/Fort Worth International Airport\n* George Bush Intercontinental Airport
+Caledonian Airways	hubs	London Gatwick Airport
+Caledonian Airways	hubs	Glasgow Prestwick Airport,
+Caledonian Airways	hubs	Manchester Airport
+J-Air	hubs	* Osaka International Airport\n* New Chitose Airport
+Interflug	hubs	Berlin Schönefeld Airport
+Montenegro Airlines	hubs	Podgorica Airport
+Turkmenistan Airlines	hubs	Ashgabat International Airport
+Di Air	hubs	Podgorica Airport
+Di Air	hubs	Tivat Airport
+Aircalin	hubs	La Tontouta International Airport
+China Eastern Airlines	hubs	*Shanghai Hongqiao International Airport\n*Shanghai Pudong International Airport
+Chalk's International Airlines	hubs	*Miami Seaplane Base\n*Fort Lauderdale-Hollywood International Airport
+Miami Air International	hubs	Miami International Airport
+Air Sinai	hubs	Cairo International Airport
+Jet Airways	hubs	Chhatrapati Shivaji International Airport
+JetLite	hubs	*Indira Gandhi International Airport
+Air Anatolia	hubs	Istanbul Atatürk Airport
+Jetsgo	hubs	Montréal-Pierre Elliott Trudeau International Airport
+Jetsgo	hubs	Toronto Pearson International Airport
+Air Aruba	hubs	Aruba
+Air Aruba	hubs	Queen Beatrix International Airport
+Air Tahiti Nui	hubs	Faa'a International Airport
+BWIA West Indies Airways	hubs	Piarco International Airport
+British Mediterranean Airways	hubs	London Heathrow Airport
+Air Seychelles	hubs	Seychelles International Airport
+MIAT Mongolian Airlines	hubs	Chinggis Khaan International Airport
+CityJet	hubs	*London-City\n*Paris-Charles de Gaulle
+CityJet	hubs	*Helsinki Airport
+SCADTA	hubs	Ernesto Cortissoz International Airport
+Valuair	hubs	Singapore Changi Airport
+Hapag-Lloyd Express	hubs	Cologne Bonn Airport
+Hapag-Lloyd Express	hubs	Langenhagen International Airport
+Hapag-Lloyd Express	hubs	Stuttgart Airport
+Hapag-Lloyd Express	hubs	Halle Airport
+Scenic Airlines	hubs	Boulder City Airport
+Trans States Airlines	hubs	As American Eagle: LaGuardia Airport
+Trans States Airlines	hubs	John F. Kennedy International Airport \nAs United Express:
+Trans States Airlines	hubs	O'Hare International Airport
+Trans States Airlines	hubs	Washington Dulles International Airport
+Trans States Airlines	hubs	Denver International Airport
+Iceland Express	hubs	Keflavík International Airport
+Allegheny Airlines	hubs	* Allegheny County Airport
+Allegheny Airlines	hubs	* Pittsburgh International Airport
+Island Air	hubs	Honolulu International Airport
+Island Air	hubs	Kahului Airport
+East African Safari Air	hubs	Jomo Kenyatta International Airport
+Royal Tongan Airlines	hubs	Fuaʻamotu International Airport
+Armenian Airlines	hubs	Zvartnots International Airport
+Shuttle America	hubs	As United Express:
+Shuttle America	hubs	O'Hare International Airport
+Shuttle America	hubs	Newark Liberty Airport
+Shuttle America	hubs	Delta Connection:
+Shuttle America	hubs	New York LaGuardia
+Shuttle America	hubs	''
+Virgin America	hubs	* Los Angeles International Airport\n*
+Virgin America	hubs	San Francisco International Airport
+ABX Air	hubs	*Cincinnati/Northern Kentucky International Airport\n* Miami International Airport
+Dan-Air	hubs	*
+Dan-Air	hubs	London Gatwick Airport
+Dan-Air	hubs	Manchester Airport
+Dan-Air	hubs	Berlin-Tegel Airport
+Meridiana	hubs	Olbia Costa Smeralda Airport
+Belavia	hubs	Minsk National Airport
+Uzbekistan Airways	hubs	Tashkent International Airport
+Air Niagara	hubs	Niagara Falls International Airport
+Lao Airlines	hubs	Wattay International Airport
+Frontier Flying Service	hubs	Fairbanks International Airport
+Middle East Airlines	hubs	Beirut Rafic Hariri International Airport
+Helijet	hubs	Vancouver International Airport
+Cirrus Airlines	hubs	Dresden Airport
+Harbour Air Seaplanes	hubs	Vancouver Harbour Water Airport
+Harbour Air Seaplanes	hubs	Victoria Inner Harbour Airport
+SAHSA	hubs	Toncontín International Airport
+S7 Airlines	hubs	*
+S7 Airlines	hubs	Moscow Domodedovo Airport
+S7 Airlines	hubs	* Tolmachevo Airport
+Republic Airlines	hubs	As American Eagle: \n*Charlotte/Douglas International Airport\n*Miami International Airport\n*O'Hare International Airport\n*Philadelphia International Airport\n*Ronald Reagan Washington National Airport\nAs United Express\n*Denver International Airport\n*O'Hare International Airport\n*Washington Dulles International Airport\n*Newark Liberty International Airport
+Vueling	hubs	*Barcelona-El Prat\n*Rome-Fiumicino
+Air Rhodesia	hubs	Salisbury
+Bearskin Airlines	hubs	*Sioux Lookout Airport \n*Thunder Bay International Airport
+Kiwi International Air Lines	hubs	Newark International Airport
+Hemus Air	hubs	Sofia Airport
+Bulgaria Air	hubs	Sofia Airport
+Tyrolean Airways	hubs	Vienna International Airport
+Air Madagascar	hubs	Ivato International Airport
+Tigerair	hubs	Singapore Changi Airport
+Air Burkina	hubs	Ouagadougou Airport
+Air Southwest	hubs	*Plymouth\n*Newquay\n*Bristol
+Singapore Airlines Cargo	hubs	* Singapore Changi Airport\n* Sharjah International Airport\n* Brussels Airport
+Air Botswana	hubs	Sir Seretse Khama International Airport
+Faucett Perú	hubs	Jorge Chávez International Airport
+Air Kiribati	hubs	Bonriki International Airport
+Air Next	hubs	Fukuoka Airport
+JAL Express	hubs	Haneda Airport
+Virgin Express	hubs	Brussels Airport
+Capital Airlines	hubs	* Washington National Airport\n* Allegheny County Airport
+DBA	hubs	* Munich Airport\n* Berlin-Tegel Airport
+EUjet	hubs	Kent International Airport
+Skyway Airlines	hubs	General Mitchell International Airport
+Colgan Air	hubs	As United Express:\n*
+Colgan Air	hubs	Washington Dulles International Airport
+Colgan Air	hubs	* Newark Liberty International Airport
+British Airtours	hubs	* London Gatwick Airport\n* Manchester Airport
+CityFlyer Express	hubs	London City Airport
+CityFlyer Express	hubs	London Gatwick Airport
+Portugália	hubs	Lisbon Humberto Delgado Airport
+Kosova Airlines	hubs	Pristina International Airport
+Air Nostrum	hubs	*Barcelona Airport\n*Madrid-Barajas Airport\n*Valencia Airport
+Modern Air Transport	hubs	Miami International Airport
+Modern Air Transport	hubs	Newark Liberty International Airport
+Modern Air Transport	hubs	Berlin-Tegel Airport
+Jetstar Asia Airways	hubs	Singapore Changi Airport
+Régional Compagnie Aérienne Européenne	hubs	Nantes Atlantique Airport
+Nepal Airlines	hubs	Tribhuvan International Airport
+Aeroméxico Connect	hubs	* Benito Juárez International Airport \n* Federal de Bachigualato International Airport \n* Gen. M. Escobedo Int'l Airport \n* Miguel Hidalgo Int'l Airport
+Air Paradise International	hubs	Ngurah Rai International Airport
+Sun Country Airlines	hubs	Minneapolis–Saint Paul International Airport
+Air Panama	hubs	Albrook %22Marcos A. Gelabert%22 International Airport
+Debonair	hubs	London Luton Airport
+Laker Airways	hubs	London Gatwick Airport
+Laker Airways	hubs	Berlin-Tegel Airport
+Niki	hubs	Vienna International Airport
+Lion Air	hubs	*Soekarno–Hatta International Airport \n*Juanda International Airport \n*Hang Nadim Airport \n*Sultan Hasanuddin International Airport
+KNILM	hubs	Halim Perdanakusuma International Airport
+Transbrasil	hubs	São Paulo
+Transbrasil	hubs	Brazil
+Angel Air	hubs	Don Mueang International Airport
+Iran Air Tours	hubs	Mehrabad Airport
+Caspian Airlines	hubs	Mehrabad International Airport
+Kish Air	hubs	*
+Kish Air	hubs	Mehrabad International Airport
+Kish Air	hubs	* Kish International Airport
+President Airlines	hubs	Phnom Penh International Airport
+XiamenAir	hubs	* Xiamen Gaoqi International Airport\n* Fuzhou Changle International Airport\n* Hangzhou Xiaoshan International Airport
+Air Niugini	hubs	Jacksons International Airport
+Lufthansa Cargo	hubs	Frankfurt Airport
+Merpati Nusantara Airlines	hubs	Soekarno-Hatta International Airport
+Merpati Nusantara Airlines	hubs	Ngurah Rai International Airport
+Merpati Nusantara Airlines	hubs	Juanda International Airport
+Bouraq Indonesia Airlines	hubs	Soekarno-Hatta International Airport
+Bouraq Indonesia Airlines	hubs	Sultan Aji Muhammad Sulaiman Airport
+Thai AirAsia	hubs	Don Mueang International Airport
+Air Macau	hubs	Macau International Airport
+Hawkair	hubs	Northwest Regional Airport
+Hawkair	hubs	Vancouver International Airport
+Eastern Provincial Airways	hubs	Gander International Airport
+Harmony Airways	hubs	Vancouver International Airport
+Canada 3000	hubs	Toronto Pearson International Airport
+Canada 3000	hubs	Vancouver International Airport
+Arnoro	hubs	Sarajevo International Airport
+Kosmas Air	hubs	Belgrade Nikola Tesla Airport
+Trans Maldivian Airways	hubs	Ibrahim Nasir International Airport
+TAAG Angola Airlines	hubs	Quatro de Fevereiro Airport
+Icelandic Airlines	hubs	Reykjavík Airport
+Aerolíneas Internacionales	hubs	General Mariano Matamoros Airport
+Big Sky Airlines	hubs	Billings Logan International Airport
+Air Tindi	hubs	Yellowknife Airport
+Air Tindi	hubs	Fort Simpson Airport
+MacAir Airlines	hubs	Brisbane Airport
+MacAir Airlines	hubs	Cairns Airport
+MacAir Airlines	hubs	Townsville International Airport
+Westcoast Air	hubs	Vancouver Harbour Water Aerodrome
+Aviateca	hubs	La Aurora International Airport
+China Northern Airlines	hubs	Shenyang Taoxian International Airport
+Far Eastern Air Transport	hubs	Taipei Songshan Airport
+UM Airlines	hubs	Boryspil International Airport
+GB Airways	hubs	London Gatwick Airport
+Sun d'Or	hubs	Ben Gurion Airport
+Khalifa Airways	hubs	Houari Boumedienne Airport
+Hong Kong Airlines	hubs	Hong Kong International Airport
+Aero Asia International	hubs	Jinnah International Airport
+Aeronica	hubs	Augusto C. Sandino International Airport
+Nicaragüense de Aviación	hubs	Managua International Airport
+ADC Airlines	hubs	Lagos
+ADC Airlines	hubs	Nigeria
+EAS Airlines	hubs	Murtala Mohammed International Airport
+Benin Golf Air	hubs	Cadjehoun Airport
+Itek Air	hubs	Manas International Airport
+Kyrgyzstan Airlines	hubs	Manas International Airport
+AeroSur	hubs	Viru Viru International Airport
+Air Kyrgyzstan	hubs	Manas International AirportOsh Airport
+Kyrgyz Air	hubs	Manas International Airport
+Daallo Airlines	hubs	Djibouti-Ambouli International Airport
+Eritrean Airlines	hubs	Asmara International Airport
+Cameroon Airlines	hubs	Douala International Airport
+Air Djibouti	hubs	Djibouti-Ambouli International Airport
+Ada Air	hubs	Tirana International Airport Nënë Tereza
+Aegean Airlines	hubs	Athens International Airport
+Aegean Airlines	hubs	Larnaca International Airport
+Aegean Airlines	hubs	Thessaloniki International Airport
+Líneas Aéreas Azteca	hubs	Mexico City International Airport
+Líneas Aéreas Azteca	hubs	Don Miguel Hidalgo y Costilla International Airport
+Aero California	hubs	Mexico City International Airport
+Brit Air	hubs	Lyon-Saint Exupéry Airport
+Brit Air	hubs	Orly Airport
+Brit Air	hubs	Charles de Gaulle Airport
+Chanchangi Airlines	hubs	* Murtala Mohammed Airport
+Albanian Airlines	hubs	Tirana International Airport Nënë Tereza
+Albatros Airways	hubs	Rinas Mother Teresa Airport
+TACV	hubs	*Amílcar Cabral International Airport\n*Praia International Airport
+Air Ivoire	hubs	Port Bouet Airport
+Trans Air Congo	hubs	Pointe Noire Airport
+Trans Air Congo	hubs	Brazzaville Airport
+FlyNordic	hubs	Stockholm-Arlanda Airport
+Regional Air	hubs	Jomo Kenyatta International Airport
+Tropic Air	hubs	Philip S. W. Goldson International Airport, San Pedro, Ambergris Caye
+Kenn Borek Air	hubs	Calgary International Airport
+Helios Airways	hubs	Larnaca International Airport
+Helios Airways	hubs	Paphos International Airport
+Aero Cóndor	hubs	Jorge Chávez International Airport
+Aero Ejecutivos	hubs	Simón Bolívar International Airport
+Aero Mongolia	hubs	Chinggis Khaan International Airport
+Air Greenland	hubs	* Kangerlussuaq Airport
+Aerocaribe	hubs	Merida Manuel Crescencio Rejón International Airport
+Donavia	hubs	Rostov-on-Don Airport
+Aeromar Líneas Aéreas Dominicanas	hubs	*Las Américas Int'l Airport
+Aero-Tropics Air Services	hubs	Horn Island Airport
+Aeroperlas	hubs	Albrook %22Marcos A. Gelabert%22 International Airport
+Aeroperlas	hubs	Enrique Malek Int'l Airport
+African Safari Airways	hubs	Moi International Airport
+Afriqiyah Airways	hubs	*
+Afriqiyah Airways	hubs	Tripoli International Airport
+Afriqiyah Airways	hubs	Benina International Airport
+Afriqiyah Airways	hubs	*Misrata Airport\n*Sebha Airport
+Aigle Azur	hubs	Orly Airport
+Air Alps	hubs	Bolzano Airport
+Air Burundi	hubs	Bujumbura International Airport
+Nouvelle Air Affaires Gabon	hubs	Libreville International Airport
+Air Arabia	hubs	Sharjah International Airport
+Air Arabia	hubs	Ras Al Khaimah International Airport
+Air Arabia	hubs	Borg El Arab Airport
+Air Arabia	hubs	Mohammed V International Airport
+Air Astana	hubs	* Almaty International Airport\n*
+Air Astana	hubs	Astana International Airport
+XL Airways UK	hubs	London Gatwick Airport
+XL Airways UK	hubs	Manchester Airport
+XL Airways UK	hubs	Glasgow International Airport
+New York Air	hubs	LaGuardia Airport
+Aeropostal Alas de Venezuela	hubs	Simón Bolívar International Airport
+ItAli Airlines	hubs	Leonardo da Vinci-Fiumicino International Airport
+City Airline	hubs	Gothenburg-Landvetter Airport
+B&H Airlines	hubs	Sarajevo International Airport
+MyAir	hubs	Orio al Serio Airport
+MyAir	hubs	Marco Polo International Airport
+Air Austral	hubs	Roland Garros Airport
+Avanti Air	hubs	Siegerland Airport
+Air Bourbon	hubs	Roland Garros Airport
+Air Creebec	hubs	Val-d'Or Airport
+Air Creebec	hubs	Montréal-Pierre Elliott Trudeau International Airport
+Air Creebec	hubs	Waskaganish Airport
+Volare Airlines	hubs	Boryspil International Airport
+Volare Airlines	hubs	Rivne International Airport
+Indonesia AirAsia	hubs	*
+Indonesia AirAsia	hubs	Soekarno-Hatta International Airport
+Indonesia AirAsia	hubs	Juanda International Airport
+Indonesia AirAsia	hubs	Kuala Namu International Airport
+Air Guyane Express	hubs	Cayenne-Rochambeau Airport
+Air Antilles Express	hubs	Pointe-à-Pitre International Airport
+Omskavia	hubs	Tsentralny Airport
+Air Iceland	hubs	Reykjavík Airport
+Air Jamaica Express	hubs	Norman Manley International Airport
+Air Labrador	hubs	CFB Goose Bay
+Air Luxor	hubs	Portela Airport
+Air Mauritanie	hubs	Nouakchott International Airport
+Caribbean Star Airlines	hubs	VC Bird International Airport
+Malaysia–Singapore Airlines	hubs	Paya Lebar Airbase
+Malaysia–Singapore Airlines	hubs	Sultan Abdul Aziz Shah Airport
+MyTravel Airways	hubs	Belfast International Airport
+MyTravel Airways	hubs	Birmingham Airport
+MyTravel Airways	hubs	Bristol Airport
+MyTravel Airways	hubs	Cardiff International Airport
+MyTravel Airways	hubs	Glasgow International Airport
+MyTravel Airways	hubs	London Gatwick Airport
+MyTravel Airways	hubs	Manchester Airport
+MyTravel Airways	hubs	Newcastle Airport
+MyTravel Airways	hubs	East Midlands Airport
+Ecuatoriana de Aviación	hubs	Mariscal Sucre International Airport
+Air Nova	hubs	Halifax Regional Municipality
+Air Nova	hubs	Nova Scotia
+Inter-Canadien	hubs	Halifax, Montreal, Toronto
+Air Comet	hubs	Madrid Barajas Airport
+Air Rarotonga	hubs	Rarotonga International Airport
+Air India Express	hubs	*Cochin International Airport \n*Calicut International Airport \n*Chhatrapati Shivaji International Airport \n*Trivandrum International Airport
+Air Sénégal International	hubs	Dakar-Yoff-Léopold Sédar Senghor International Airport
+Air Tahiti	hubs	Faa'a International Airport
+Pacific Coastal Airlines	hubs	Vancouver International Airport
+Pacific Coastal Airlines	hubs	Port Hardy Airport
+Canadian North	hubs	Yellowknife Airport
+Canadian North	hubs	Edmonton Airport
+Canadian North	hubs	Iqaluit Airport
+Affretair	hubs	Harare International Airport
+Zimbabwe Express Airlines	hubs	Harare
+Airfast Indonesia	hubs	Soekarno-Hatta International Airport
+Airkenya Express	hubs	Wilson Airport
+Emu Airways	hubs	Adelaide Airport
+Sansa Airlines	hubs	Juan Santamaría International Airport
+Airnorth	hubs	Darwin International Airport
+VLM Airlines	hubs	* Antwerp Airport\n* Friedrichshafen Airport
+Swaziland Airlink	hubs	Matsapha Airport
+Swaziland Airlink	hubs	Manzini, Swaziland
+South African Express	hubs	O.R. Tambo International Airport
+Blue Air	hubs	Henri Coandă International Airport
+Alidaunia	hubs	Gino Lisa Airport
+Ted	hubs	*Denver International Airport
+Aviacsa	hubs	Mexico City International Airport
+Orenair	hubs	Orenburg Tsentralny Airport
+KD Avia	hubs	Khrabrovo Airport
+Fly Air	hubs	Atatürk International Airport
+Aerolimousine	hubs	Domodedovo International Airport
+Sichuan Airlines	hubs	*Chengdu Shuangliu International Airport\n*Chongqing Jiangbei International Airport\n*Kunming Changshui International Airport
+Cambodia Airlines	hubs	Phnom Penh International Airport
+Royal Phnom Penh Airways	hubs	Phnom Penh International Airport
+Air Corridor	hubs	Nampula Airport
+Tajik Air	hubs	*Dushanbe International Airport,\n*Khujand Airport
+Tikal Jets Airlines	hubs	La Aurora International Airport
+Oman Air	hubs	* Muscat International Airport\n* Salalah Airport
+Welcome Air	hubs	Innsbruck Airport
+Civair	hubs	Cape Town International Airport
+New Axis Airways	hubs	Paris-Charles de Gaulle Airport
+New Axis Airways	hubs	Marseille Provence Airport
+China Postal Airlines	hubs	Nanjing Lukou International Airport
+Batavia Air	hubs	Soekarno-Hatta International Airport and Juanda International Airport
+Hainan Airlines	hubs	*
+Hainan Airlines	hubs	Beijing Capital International Airport
+Hainan Airlines	hubs	Haikou Meilan International Airport
+Hainan Airlines	hubs	Xi'an Xianyang International Airport
+Interair South Africa	hubs	O. R. Tambo International Airport
+Avianca Brazil	hubs	São Paulo-Congonhas
+Yeti Airlines	hubs	Tribhuvan International Airport, Kathmandu
+Cobham Aviation Services Australia	hubs	Adelaide Airport
+Ocean Airlines	hubs	Brescia Airport
+Comores Aviation International	hubs	Prince Said Ibrahim International Airport
+Armavia	hubs	Zvartnots International Airport
+Jatayu Airlines	hubs	Soekarno-Hatta International Airport
+Mid Airlines	hubs	Khartoum International Airport
+Air Armenia	hubs	Zvartnots International Airport
+Armenian International Airways	hubs	Zvartnots International Airport
+Okay Airways	hubs	Tianjin Binhai International Airport
+Jupiter-Avia	hubs	Erebuni Airport
+Yerevan-Avia	hubs	Zvartnots International Airport
+Trade Air	hubs	Zagreb International Airport
+Overland Airways	hubs	Nnamdi Azikiwe International Airport
+Nolinor Aviation	hubs	Montréal-Mirabel International Airport
+Ural Airlines	hubs	Koltsovo International Airport
+Buddha Air	hubs	Tribhuvan International Airport
+Izhavia	hubs	Izhevsk Airport
+MNG Airlines	hubs	Istanbul Atatürk Airport
+SunExpress	hubs	*
+SunExpress	hubs	Adnan Menderes Airport
+SunExpress	hubs	*Antalya Airport
+Pegasus Airlines	hubs	*
+Pegasus Airlines	hubs	Sabiha Gökçen International Airport
+Darwin Airline	hubs	* Geneva Airport\n* Lugano Airport
+Aero Contractors	hubs	Murtala Mohammed International Airport
+Cosmic Air	hubs	Tribhuvan International Airport
+Safair	hubs	O.R. Tambo International Airport
+Pearl Air	hubs	Jinnah International Airport
+Nationwide Airlines	hubs	OR Tambo International Airport
+Nationwide Airlines	hubs	Johannesburg
+Samara Airlines	hubs	Kurumoch International Airport
+Khyber Afghan Airlines	hubs	Jalalabad Airport
+Pamir Airways	hubs	Kabul International Airport
+RusAir	hubs	Sheremetyevo International Airport
+Uganda Airlines	hubs	Entebbe International Airport
+Bellview Airlines	hubs	Murtala Mohammed International Airport
+Associated Aviation	hubs	Murtala Mohammed International Airport
+Afrijet Airlines	hubs	Murtala Muhammed International Airport
+Nationwide Airlines	hubs	Kenneth Kaunda International Airport
+Business Aviation	hubs	N'Dolo Airport
+Comair	hubs	OR Tambo International Airport
+Eagle Air	hubs	Entebbe International Airport
+Hewa Bora Airways	hubs	N'djili Airport
+Wimbi Dira Airways	hubs	N'djili Airport
+Jet Express	hubs	Libreville International Airport
+Air Service Gabon	hubs	Libreville International Airport
+CTK – CiTylinK	hubs	Kotoka International Airport
+Astral Aviation	hubs	Jomo Kenyatta International Airport
+Centralwings	hubs	Warsaw Frederic Chopin Airport
+Centralwings	hubs	John Paul II International Airport Kraków-Balice
+Air Liberia	hubs	Roberts International Airport & Spriggs Payne Airport
+Mali Airways	hubs	Senou International Airport
+Atlas Blue	hubs	*Marrakech-Menara Airport\n*Tangier-Boukhalef Airport
+IRS Airlines	hubs	Nnamdi Azikiwe International Airport
+Skyline	hubs	Port Harcourt Airport
+Executive Aerospace	hubs	OR Tambo International Airport
+Jubba Airways	hubs	Aden Adde International Airport
+Jubba Airways	hubs	Hargeisa Egal International Airport
+Somali Airlines	hubs	Aden Adde International Airport
+Royal Swazi National Airways	hubs	Matsapha Airport
+Royal Swazi National Airways	hubs	Manzini, Swaziland
+African International Airways	hubs	*OR Tambo International Airport\n*Kent International Airport\n*Ostend-Bruges International Airport
+Swazi Express Airways	hubs	Matsapha Airport
+Nouvelair	hubs	Monastir – Habib Bourguiba International Airport
+Tunisair Express	hubs	Tunis-Carthage International Airport
+Aero Zambia	hubs	Kenneth Kaunda International Airport
+Turan Air	hubs	Heydar Aliyev International Airport
+Zambian Airways	hubs	Lusaka International Airport
+Azerbaijan Airlines	hubs	Heydar Aliyev International Airport
+Silk Way Airlines	hubs	Heydar Aliyev International Airport
+Bismillah Airlines	hubs	Shahjalal International Airport
+Bismillah Airlines	hubs	Shah Amanat International Airport
+Bismillah Airlines	hubs	Osmani International Airport
+GMG Airlines	hubs	Netaji Subhas Chandra Bose International Airport
+Siem Reap Airways International	hubs	Phnom Penh International Airport
+China Cargo Airlines	hubs	Shanghai Hongqiao International Airport
+China Cargo Airlines	hubs	Shanghai Pudong International Airport
+Shandong Airlines	hubs	Jinan Yaoqiang International Airport
+Shanghai Airlines	hubs	* Shanghai Pudong International Airport\n* Shanghai Hongqiao International Airport
+TransAsia Airways	hubs	*Taipei Songshan Airport  \n*Taiwan Taoyuan International Airport\n*Kaohsiung International Airport
+Uni Air	hubs	*Taiwan Taoyuan International Airport\n*Taipei Songshan Airport\n*Kaohsiung International Airport
+Djibouti Airlines	hubs	Djibouti-Ambouli International Airport
+Aero Benin	hubs	Brazzaville  - Maya-Maya airport
+Adam Air	hubs	Soekarno-Hatta International Airport
+Deraya Air Taxi	hubs	Husein Sastranegara International Airport
+Dirgantara Air Service	hubs	*Halim Perdanakusuma International Airport\n*Samarinda Airport
+Royal Aviation	hubs	Montreal, Toronto
+Roots Air	hubs	Toronto
+Pelita Air Service	hubs	Pondok Cabe Airport
+Star Air Aviation	hubs	Jinnah International Airport
+Sabang Merauke Raya Air Charter	hubs	Polonia International Airport
+Indonesian Airlines	hubs	Achmad Yani Airport
+Indonesia Air Transport	hubs	Halim Perdanakusuma Airport
+Tigerair Mandala	hubs	Soekarno–Hatta International Airport
+Tigerair Mandala	hubs	Sultan Syarif Kasim II International Airport
+Tigerair Mandala	hubs	Juanda International Airport
+Air Japan	hubs	Narita International Airport
+Air Japan	hubs	Tokyo International Airport
+Japan Air Commuter	hubs	Kagoshima Airport
+Japan Air Commuter	hubs	Osaka International Airport
+XL Airways France	hubs	Charles de Gaulle Airport
+China Northwest Airlines	hubs	Xi'an Xianyang International Airport
+Air Kokshetau	hubs	Kokshetau Airport
+Kazair West	hubs	Atyrau Airport
+China Yunnan Airlines	hubs	Kunming Changshui International Airport
+Sempati Air	hubs	Ngurah Rai Airport
+Sempati Air	hubs	Singapore Changi Airport
+Air Nunavut	hubs	Iqaluit Airport
+Air Nunavut	hubs	Oshawa Airport
+Provincial Airlines	hubs	St. John's International Airport
+Provincial Airlines	hubs	CFB Goose Bay
+Provincial Airlines	hubs	Montréal-Pierre Elliott Trudeau International Airport
+Provincial Airlines	hubs	Halifax Stanfield International Airport
+Almaty Aviation	hubs	Almaty International Airport
+Sayakhat Airlines	hubs	Almaty International Airport
+SCAT Airlines	hubs	Shymkent Airport
+Aerovista	hubs	UAE
+Berjaya Air	hubs	Sultan Abdul Aziz Shah Airport
+Raya Airways	hubs	Sultan Abdul Aziz Shah Airport
+Yangon Airways	hubs	Yangon International Airport
+AirAsia Zest	hubs	* Ninoy Aquino International Airport \n* Kalibo International Airport \n* Mactan-Cebu International Airport
+Inter Trans Avia	hubs	Manas International Airport
+Botir-Avia	hubs	Manas International Airport
+Kyrgyz International Airlines	hubs	Manas International Airport
+KAS Air Company	hubs	Manas International Airport
+Manas Air	hubs	Manas International Airport
+Phoenix Aviation	hubs	Sharjah International Airport
+Airblue	hubs	Jinnah International Airport
+Laoag International Airlines	hubs	Laoag International Airport
+Pacificair	hubs	Ninoy Aquino International Airport
+Pacific East Asia Cargo Airlines	hubs	Ninoy Aquino International Airport
+Cebgo	hubs	*
+Cebgo	hubs	Mactan–Cebu International Airport
+Cebgo	hubs	Ninoy Aquino International Airport
+Phuket Air	hubs	Bangkok - International Phuket International Airport
+Kingfisher Airlines	hubs	*Bengaluru International Airport
+Champion Air	hubs	Minneapolis-Saint Paul International Airport
+TransMeridian Airlines	hubs	Orlando Sanford International Airport
+Kulula.com	hubs	*
+Kulula.com	hubs	OR Tambo International Airport
+Kulula.com	hubs	Lanseria International Airport
+Western Pacific Airlines	hubs	Colorado Springs Airport
+Western Pacific Airlines	hubs	Denver International Airport
+Celestair	hubs	Ouagadougou Airport
+Celestair	hubs	Bamako Airport
+Celestair	hubs	Entebbe Airport
+FitsAir	hubs	*Bandaranaike International Airport\n*Ratmalana Airport
+Sky Cabs	hubs	Bandaranaike International Airport
+Avialeasing	hubs	Tashkent International Airport
+Australian airExpress	hubs	Melbourne Airport
+Australia Asia Airlines	hubs	Sydney Airport
+Australia Asia Airlines	hubs	Taiwan Taoyuan International Airport
+Skippers Aviation	hubs	Perth Airport
+Skytrans Airlines	hubs	Cairns Airport
+Airwaves Airlink	hubs	Lusaka
+ASL Airlines Belgium	hubs	Liège Airport
+Emirates SkyCargo	hubs	Al Maktoum International Airport
+FedEx Express	hubs	\
+Spantax	hubs	Gran Canaria Airport
+Anikay Air	hubs	Manas International Airport
+SpiceJet	hubs	*
+SpiceJet	hubs	Indira Gandhi International Airport
+SpiceJet	hubs	*Rajiv Gandhi International Airport \n*Netaji Subhas Chandra Bose International Airport
+TAESA Lineas Aéreas	hubs	Mexico City International Airport
+Wan Air	hubs	Fa'a'ā International Airport
+Wan Air	hubs	Tahiti
+Air Marshall Islands	hubs	Marshall Islands International Airport
+Origin Pacific Airways	hubs	Nelson Airport
+Vanair	hubs	Bauerfield International Airport
+Pacific Island Aviation	hubs	Saipan International Airport
+Freedom Air	hubs	Antonio B. Won Pat International Airport
+Freedom Air	hubs	Saipan International Airport
+Fiji Link	hubs	Nadi International Airport
+Carib Aviation	hubs	VC Bird International Airport
+Maya Island Air	hubs	Philip S. W. Goldson International Airport
+Aero Continente Dominicana	hubs	Las Américas International Airport
+Aero Caribbean	hubs	José Martí International Airport
+LAN Dominicana	hubs	Punta Cana International Airport
+LAN Dominicana	hubs	Punta Caucedo
+Dominair	hubs	Santiago-Cibao International Airport
+Servicios Aéreos Profesionales	hubs	*La Isabela International Airport\n*Gregorio Luperón International Airport\n*Punta Cana International Airport
+Avianca Honduras	hubs	Ramón Villeda Morales International Airport
+Winair	hubs	Princess Juliana International Airport
+Mustique Airways	hubs	E. T. Joshua Airport
+SkyKing Limited	hubs	Providenciales International Airport
+InterCaribbean Airways	hubs	Providenciales International Airport
+Dutch Caribbean Airlines	hubs	Hato International Airport
+Panavia	hubs	Tocumen International Airport
+Seaborne Airlines	hubs	* Luis Munoz Marin International Airport
+Tobago Express	hubs	Arthur Napoleon Raymond Robinson International Airport
+Air Central	hubs	Chubu Centrair International Airport
+Xtra Airways	hubs	Miami International Airport
+International AirLink	hubs	Sangster International Airport
+ModiLuft	hubs	Delhi International Airport
+Amerer Air	hubs	Linz Airport
+LTU Austria	hubs	Vienna International Airport
+Styrian Spirit	hubs	Graz Airport
+Gomelavia	hubs	Gomel Airport
+TransAVIAexport Airlines	hubs	Minsk International Airport
+TransAVIAexport Airlines	hubs	Sharjah International Airport
+European Air Transport	hubs	Halle Airport
+Delta Air Transport	hubs	Antwerp International Airport
+Viaggio Air	hubs	Sofia Airport
+USA Jet Airlines	hubs	Willow Run Airport
+Avies	hubs	Tallinn Airport
+Sun-Air of Scandinavia	hubs	Billund Airport
+Atlantic Airways	hubs	Vágar Airport
+Copterline Oy	hubs	Hernesaari Heliport
+Air Méditerranée	hubs	Charles de Gaulle Airport
+Air Corsica	hubs	Ajaccio - Campo dell'Oro Airport
+Augsburg Airways	hubs	Augsburg Airport
+Augsburg Airways	hubs	Munich Airport
+European Air Express	hubs	* Cologne Bonn Airport\n*Münster Osnabrück International Airport\n*Stuttgart Airport
+Air Alsie	hubs	Sønderborg Airport
+Hex'Air	hubs	Le Puy – Loudes Airport
+Arcus-Air	hubs	Mannheim City Airport
+Lufthansa CityLine	hubs	* Frankfurt Airport\n* Munich Airport
+Caucasus Airlines	hubs	Batumi International Airport
+Private Wings	hubs	Berlin Schönefeld Airport
+Manchuria Aviation Company	hubs	Changchun
+EuroAir	hubs	Athens International Airport
+ASL Airlines Hungary	hubs	Budapest Ferihegy International Airport
+Imperial Japanese Airways	hubs	Haneda Airport
+Imperial Japanese Airways	hubs	Osaka International Airport
+Imperial Japanese Airways	hubs	Fukuoka No. 1 Airport
+Imperial Japanese Airways	hubs	Taipei Songshan Airport
+Imperial Japanese Airways	hubs	Seoul
+Islandsflug	hubs	Keflavik Airport
+ASL Airlines Ireland	hubs	*Dublin \n*Paris Charles de Gaulle\n*Shannon
+Eirjet	hubs	Cork Airport
+Eirjet	hubs	Dublin Airport
+Eirjet	hubs	Shannon Airport
+Bluebird Cargo	hubs	Keflavík International Airport
+Alpi Eagles	hubs	Marco Polo International Airport
+Alpi Eagles	hubs	Venice
+Mediterranean Air Freight	hubs	Athens International Airport
+Maldivian Air Taxi	hubs	Ibrahim Nasir International Airport
+Ozark Air Lines	hubs	Lambert–St. Louis International Airport
+Slok Air International	hubs	Banjul International Airport
+Bar Harbor Airlines	hubs	Logan International Airport
+HK Express	hubs	Hong Kong International Airport
+Mistral Air	hubs	Leonardo da Vinci-Fiumicino Airport
+Wind Jet	hubs	*Catania
+Italy First	hubs	Miramare Airport
+Aurela	hubs	Vilnius International Airport
+Ryukyu Air Commuter	hubs	Naha Airport
+Medavia	hubs	Malta International Airport
+Tandem Aero	hubs	Chişinău International Airport
+Heli Air Monaco	hubs	Monaco Heliport
+Air Exel	hubs	Eindhoven Airport
+Air Exel	hubs	Maastricht Aachen Airport
+Coast Air	hubs	Haugesund Airport, Karmøy
+Bergen Air Transport	hubs	Bergen Airport, Flesland
+Lufthansa Regional	hubs	* Frankfurt Airport\n* Munich Airport
+White Eagle Aviation	hubs	Warsaw Frederic Chopin Airport
+Aerocondor	hubs	Cascais Aerodrome
+JeTran Air	hubs	Henri Coandă International Airport
+Airstars	hubs	Domodedovo International Airport
+Astrakhan Airlines	hubs	Narimanovo Airport
+Atlant-Soyuz Airlines	hubs	Vnukovo International Airport
+Aviacon Zitotrans	hubs	Koltsovo International Airport
+ATRAN	hubs	Domodedovo International Airport
+Aviaenergo	hubs	Vnukovo Airport
+Aviaenergo	hubs	Sheremetyevo Airport
+Centre-Avia	hubs	Bykovo Airport
+Russian Sky Airlines	hubs	Domodedovo International Airport
+Domodedovo Airlines	hubs	Sheremetyevo International Airport
+Karat	hubs	Vnukovo International Airport
+Karat	hubs	Kazan International Airport
+Continental Airways	hubs	Sheremetyevo International Airport
+Gazpromavia	hubs	Vnukovo Airport
+Metrojet	hubs	Domodedovo International Airport
+UTair Express	hubs	Syktyvkar Airport
+KrasAir	hubs	Krasnoyarsk
+KrasAir	hubs	Krasnoyarsk Yemelyanovo Airport
+Perm Airlines	hubs	Bolshoye Savino Airport
+Petropavlovsk-Kamchatsky Air Enterprise	hubs	Petropavlovsk-Kamchatsky Airport
+Polet Airlines	hubs	Ulyanovsk Vostochny Airport
+Polet Airlines	hubs	Voronezh Airport
+SAT Airlines	hubs	Yuzhno-Sakhalinsk Airport
+Sibaviatrans	hubs	Yemelyanovo Airport
+VIM Airlines	hubs	Domodedovo International Airport
+UTair Aviation	hubs	* Khanty-Mansiysk Airport\n* Surgut Airport\n* Syktyvkar Airport\n*
+UTair Aviation	hubs	Vnukovo International Airport
+UTair Aviation	hubs	*
+UTair Aviation	hubs	Domodedovo International Airport
+UTair Aviation	hubs	* Roschino International Airport\n* Noyabrsk Airport
+Yamal Airlines	hubs	* Roschino Airport
+Yakutia Airlines	hubs	Yakutsk Airport
+Vostok Aviation Company	hubs	Khabarovsk Novy Airport
+Vologda Aviation Enterprise	hubs	Vologda
+Tomsk Avia	hubs	Tomsk, Russia
+TESIS Aviation Enterprise	hubs	Domodedovo International AirportIrkutsk Airport
+Saratov Airlines	hubs	Saratov Tsentralny Airport
+Slovak Airlines	hubs	M. R. Štefánik Airport
+Binter Canarias	hubs	*Gran Canaria Airport\n*La Palma Airport\n*Tenerife North Airport
+Hola Airlines	hubs	Son Sant Joan Airport
+Ibertrans Aérea	hubs	Madrid Barajas International Airport
+Islas Airways	hubs	Tenerife North Airport
+LagunAir	hubs	León Airport
+Executive Airlines	hubs	Luis Munoz Marin International Airport
+ASL Airlines Spain	hubs	Adolfo Suárez Madrid–Barajas Airport
+Bravo Air Congo	hubs	N'Djili Airport
+Bravo Air Congo	hubs	Madrid Barajas International Airport
+Air Max Africa	hubs	Libreville International Airport
+Evolavia	hubs	Ancona
+FlyMe	hubs	Gothenburg-Landvetter Airport
+Braathens Regional Aviation	hubs	Stockholm-Bromma Airport
+Braathens Regional Airways	hubs	Stockholm-Bromma Airport
+Kabo Air	hubs	Mallam Aminu Kano International Airport
+TUIfly Nordic	hubs	* Copenhagen Airport\n*
+TUIfly Nordic	hubs	Gothenburg Landvetter Airport
+TUIfly Nordic	hubs	* Helsinki Airport\n* Malmö Airport\n* Oslo Gardermoen Airport\n* Stockholm Arlanda Airport
+Falcon Air	hubs	Malmö Airport
+International Business Air	hubs	Stockholm-Arlanda Airport
+International Business Air	hubs	Stockholm-Bromma Airport
+Amber Air	hubs	Palanga International Airport
+Airmark Indonesia	hubs	Jakarta
+Nordic Airways	hubs	Stockholm-Arlanda Airport
+Barents AirLink	hubs	Luleå Airport
+ValuJet Airlines	hubs	*
+ValuJet Airlines	hubs	Hartsfield-Jackson Atlanta International Airport
+ValuJet Airlines	hubs	*Logan International Airport \n*Miami International Airport\n*Orlando International Airport\n*Philadelphia International Airport\n*Washington Dulles International Airport
+MetroJet	hubs	Baltimore-Washington International Thurgood Marshall Airport
+Skyways	hubs	Stockholm-Arlanda Airport
+Skyways	hubs	Gothenburg-Landvetter Airport
+West Air Sweden	hubs	Malmö Airport
+Belair	hubs	* Basel/Mulhouse\n* Zürich
+ASL Airlines Switzerland	hubs	EuroAirport Basel-Mulhouse-Freiburg
+Baboo	hubs	Geneva International Airport
+Helvetic Airways	hubs	*Bern Airport\n*Zürich Airport
+Jet Aviation	hubs	*Zürich Airport\n*Teterboro Airport
+Inter Airlines	hubs	Antalya International Airport
+ULS Airlines Cargo	hubs	Istanbul Atatürk Airport
+Cyprus Turkish Airlines	hubs	Ercan International Airport
+Orbit Express Airlines	hubs	*Istanbul, Turkey\n* Shanghai Pudong, china
+Sky Airlines	hubs	Antalya Airport
+Air Ukraine	hubs	Boryspil International Airport
+Ghana International Airlines	hubs	Kotoka International Airport
+Crimea Air	hubs	Simferopol International Airport
+Dniproavia	hubs	Dnipro International Airport
+Donbassaero	hubs	Donetsk International Airport
+Lviv Airlines	hubs	Lviv International Airport
+Motor Sich Airlines	hubs	Zaporizhia International Airport
+Tavrey Airlines	hubs	Odessa Airport
+Tavrey Airlines	hubs	Simferopol Airport
+Ukraine Air Enterprise	hubs	Boryspil International Airport
+Ukraine Air Alliance	hubs	Boryspil International Airport
+Ukraine Air Alliance	hubs	Kiev-Zhulyany Airport
+Air Hokkaido	hubs	Hakodate Airport
+Ukrainian Cargo Airways	hubs	Boryspil International Airport
+Ukrainian Cargo Airways	hubs	Zaporizhia International Airport
+Ukraine International Airlines	hubs	Boryspil International Airport
+Air Atlanta Europe	hubs	London Gatwick Airport
+Air Atlanta Europe	hubs	Manchester Airport
+Air Atlanta Europe	hubs	Glasgow International Airport
+Air Atlanta Europe	hubs	Cardiff International Airport
+Air Scandic	hubs	Manchester Airport
+Aurigny	hubs	*Guernsey
+Civil Aviation Administration of China	hubs	Beijing Capital International Airport
+Civil Aviation Administration of China	hubs	Shanghai Hongqiao International Airport
+Civil Aviation Administration of China	hubs	Guangzhou Baiyun International Airport
+Civil Aviation Administration of China	hubs	Chengdu Shuangliu International Airport
+Civil Aviation Administration of China	hubs	Xi'an Xiguan Airport
+Civil Aviation Administration of China	hubs	Shenyang Taoxian International Airport
+Channel Express	hubs	Bournemouth Airport
+DHL Air UK	hubs	*Cincinnati/Northern Kentucky International Airport\n*East Midlands Airport
+LATAM Perú	hubs	Jorge Chávez International Airport
+European Aviation Air Charter	hubs	Bournemouth Airport
+European Executive	hubs	Shoreham Airport
+Flightline	hubs	London Southend Airport
+Freedom Air Services	hubs	Mallam Aminu International Airport
+Freedom Air Services	hubs	Murtala Mohammed International Airport
+Flyjet	hubs	Manchester Airport
+Flyjet	hubs	Newcastle International Airport
+Global Supply Systems	hubs	London Stansted Airport
+Iranian Naft Airlines	hubs	Ahwaz Airport
+Iranian Naft Airlines	hubs	Mehrabad Airport
+Payam Air	hubs	Payam Airport
+Safiran Airlines	hubs	Mehrabad International Airport
+CAL Cargo Air Lines	hubs	* Ben Gurion International Airport, Tel Aviv   \n* Liège Airport, Belgium
+Jordan Aviation	hubs	Queen Alia International Airport
+Teebah Airlines	hubs	Queen Alia International Airport
+Jazeera Airways	hubs	Kuwait International Airport
+Lebanese Air Transport	hubs	Beirut
+TMA Cargo	hubs	Beirut Rafic Hariri International Airport
+Gulf Traveller	hubs	Bahrain International Airport
+Gulf Traveller	hubs	Seeb International Airport
+MenaJet	hubs	Beirut Rafic Hariri International Airport
+Yemenia	hubs	Sana'a International Airport
+Venezolana	hubs	La Chinita International Airport
+Vensecar Internacional	hubs	Simón Bolívar International Airport
+Transcarga	hubs	Simón Bolívar International Airport
+Sundance Air Venezuela	hubs	Simón Bolívar International Airport
+Sundance Air Venezuela	hubs	Luis Muñoz Marín International Airport
+Aserca Airlines	hubs	Simón Bolívar International Airport
+Aserca Airlines	hubs	Arturo Michelena International Airport
+Conviasa	hubs	Simón Bolívar International Airport
+LAI – Línea Aérea IAACA	hubs	Barinas Airport
+Línea Turística Aereotuy	hubs	Simón Bolívar International Airport
+LASER Airlines	hubs	Simón Bolívar International Airport
+RUTACA Airlines	hubs	Tomás de Heres Airport
+Sol América	hubs	Simón Bolívar International Airport
+Sol América	hubs	Josefa Camejo International Airport
+Air Class Líneas Aéreas	hubs	Carrasco International Airport
+Uair	hubs	Carrasco International Airport
+Cielos Airlines	hubs	Jorge Chávez International Airport  Miami International Airport
+Aerolíneas Paraguayas	hubs	Silvio Pettirossi International Airport
+Greyhound Air	hubs	Winnipeg, Manitoba
+Universal Airlines	hubs	Georgetown, Guyana
+Trans Guyana Airways	hubs	Eugene F. Correia International Airport
+SAEREO	hubs	Mariscal Sucre International Airport
+LATAM Ecuador	hubs	Mariscal Sucre International Airport
+LATAM Ecuador	hubs	Jose Joaquin de Olmedo International Airport
+Icaro Air	hubs	Quito
+Icaro Air	hubs	Mariscal Sucre International Airport
+AeroTACA	hubs	El Dorado International Airport
+Aerosucre	hubs	El Dorado International Airport
+Intercontinental de Aviación	hubs	El Dorado International Airport
+SATENA	hubs	El Dorado International AirportOlaya Herrera Airport
+West Caribbean Airways	hubs	José María Córdova International Airport
+West Caribbean Airways	hubs	El Dorado International Airport
+Aerovías DAP	hubs	Presidente Carlos Ibáñez del Campo International Airport
+LATAM Cargo Chile	hubs	* Miami International Airport \n*
+LATAM Cargo Chile	hubs	Comodoro Arturo Merino Benítez International Airport
+Sky Airline	hubs	Comodoro Arturo Merino Benítez International Airport
+LATAM Cargo Brasil	hubs	Viracopos International Airport
+Air Minas Linhas Aéreas	hubs	Pampulha - Carlos Drummond de Andrade Airport
+ATA Brasil	hubs	Guararapes International Airport
+BETA Cargo	hubs	Guarulhos International Airport
+GoAir	hubs	*Chhatrapati Shivaji International Airport
+Air Afrique	hubs	Port Bouet Airport
+Pantanal Linhas Aéreas	hubs	Congonhas-São Paulo Airport
+Rico Linhas Aéreas	hubs	Eduardo Gomes International Airport
+Rio Sul Serviços Aéreos Regionais	hubs	Congonhas Domestic Airport
+Rio Sul Serviços Aéreos Regionais	hubs	Salgado Filho International Airport
+Rio Sul Serviços Aéreos Regionais	hubs	Santos Dumont Airport
+Skymaster Airlines	hubs	Eduardo Gomes International Airport
+TAF Linhas Aéreas	hubs	Pinto Martins International Airport
+Total Linhas Aéreas	hubs	Tancredo Neves International Airport
+Total Linhas Aéreas	hubs	Eduardo Gomes International Airport
+TRIP Linhas Aéreas	hubs	Tancredo Neves International Airport
+Air Mali	hubs	Senou International Airport
+TAM – Transporte Aéreo Militar	hubs	El Alto International Airport
+TAM – Transporte Aéreo Militar	hubs	Teniente Jorge Henrich Arauz Airport
+TAM – Transporte Aéreo Militar	hubs	El Trompillo Airport
+Aero VIP	hubs	Ezeiza International Airport
+CATA Línea Aérea	hubs	Morón Airport and Air Base
+LADE	hubs	General Enrique Mosconi International Airport
+LADE	hubs	Aeroparque Jorge Newbery
+LADE	hubs	Comandante Armando Tola International Airport
+Air Cargo Carriers	hubs	*Cincinnati/Northern Kentucky International Airport\n*General Mitchell International Airport
+AirNet Express	hubs	Rickenbacker International Airport
+AirNow	hubs	William H. Morse State Airport
+Air Sunshine	hubs	Luis Muñoz Marín International Airport
+Air Tahoma	hubs	Rickenbacker International Airport
+Air Tahoma	hubs	Miami International Airport
+Air Tahoma	hubs	Luis Muñoz Marín International Airport
+Air Tahoma	hubs	Subic Bay International Airport
+Alpine Air Express	hubs	Billings Logan International Airport
+Alpine Air Express	hubs	Provo Municipal Airport
+Alpine Air Express	hubs	Sioux Falls Regional Airport
+Bural	hubs	Ulan-Ude Airport
+Boston-Maine Airways	hubs	Bedford, Massachusetts
+Ak Bars Aero	hubs	Bugulma Airport
+Buffalo Airways	hubs	Yellowknife Airport
+British Gulf International Airlines	hubs	Sharjah International Airport
+Bookajet	hubs	United Kingdom - Farnborough
+Bookajet	hubs	Stansted
+Bookajet	hubs	Blackpool
+Bookajet	hubs	Netherlands - Amsterdam
+Bookajet	hubs	Italy-Milan Linate
+Blue Line	hubs	Paris-Charles de Gaulle Airport
+Bighorn Airways	hubs	Sheridan County Airport
+Berry Aviation	hubs	San Marcos Municipal Airport
+Bering Air	hubs	* Nome\n* Kotzebue\n* Unalakleet
+Bemidji Airlines	hubs	Minneapolis-St. Paul International Airport
+Baron Aviation Services	hubs	Rolla National Airport
+Badr Airlines	hubs	Khartoum International Airport
+Azal Avia Cargo	hubs	Heydar Aliev International Airport
+Avioquintana	hubs	Cancún International Airport
+Aviavilsa	hubs	Vilnius International Airport
+Aviastar-TU	hubs	Ramenskoye Airport
+Aviaprad	hubs	Koltsovo International Airport
+Focus Air Cargo	hubs	Fort Lauderdale-Hollywood International Airport
+AV8 Air	hubs	Manchester, England
+Atlantis European Airways	hubs	Zvartnots, Yerevan
+Atlantic Airlines	hubs	Managua International Airport
+Aspiring Air	hubs	Wanaka Airport
+Aspiring Air	hubs	Wanaka
+Aspiring Air	hubs	New Zealand
+Astar Air Cargo	hubs	Northern Kentucky International Airport
+Asia Pacific Airlines	hubs	Antonio B. Won Pat International Airport
+Asia Pacific Airlines	hubs	Honolulu International Airport
+ArubaExel	hubs	Queen Beatrix International Airport
+Aria	hubs	Paris - Le Bourget Airport
+Apatas Air	hubs	Kaunas Airport
+Antrak Air	hubs	Kotoka International Airport
+Angola Air Charter	hubs	Quatro de Fevereiro Airport
+Angara Airlines	hubs	Irkutsk International Airport
+Amerijet International	hubs	*Miami International Airport\n*Piarco International Airport
+AMC Airlines	hubs	Cairo International Airport
+Amapola Flyg	hubs	Stockholm-Arlanda Airport
+Alta Flights	hubs	Edmonton International Airport
+Alrosa-Avia	hubs	Vnukovo International Airport
+Al-Dawood Air	hubs	Murtala Mohammed International Airport
+Al-Dawood Air	hubs	Ostend-Bruges International Airport
+Alberta Citylink	hubs	Medicine Hat Airport
+Alada	hubs	Quatro de Fevereiro Airport
+AirQuarius Aviation	hubs	Lanseria Airport
+Air Link	hubs	Dubbo
+Airlink	hubs	*
+Airlink	hubs	Rabaul Airport
+Airlink	hubs	Kavieng Airport
+Airlink	hubs	Wewak International Airport
+Airlink	hubs	Mount Hagen Airport
+PNG Air	hubs	Jacksons International Airport
+Aircruising Australia	hubs	Sydney Airport
+Air Yugoslavia	hubs	Belgrade Nikola Tesla Airport
+Air West	hubs	Khartoum International Airport
+Castle Aviation	hubs	Akron-Canton Regional Airport
+Air Saint-Pierre	hubs	Saint-Pierre Airport
+Air Universal	hubs	Queen Alia International Airport
+Air Tropiques	hubs	N'Dolo Airport
+Airtransse	hubs	Hakodate Airport
+Air – Transport Europe	hubs	Poprad-Tatry Airport
+Archana Airways	hubs	Delhi
+Oasis Hong Kong Airlines	hubs	Hong Kong International Airport
+Alexandair	hubs	Heraklion International Airport
+Spring Airlines	hubs	Shanghai Pudong International Airport
+Spring Airlines	hubs	Shanghai Hongqiao International Airport
+Jeju Air	hubs	* Incheon International Airport\n* Jeju International Airport
+Air São Tomé and Príncipe	hubs	São Tomé International Airport
+Air Satellite	hubs	Baie-Comeau Airport
+Air Rum	hubs	Queen Alia International Airport
+Wamos Air	hubs	Adolfo Suárez Madrid–Barajas Airport
+Wings of Alaska	hubs	Juneau International Airport
+1time Airline	hubs	OR Tambo International Airport
+Kenmore Air	hubs	* Kenmore Air Harbor\n* Seattle Lake Union\n* Boeing Field/King County International Airport
+Air Nelson	hubs	Auckland Airport
+Air Nelson	hubs	Christchurch Airport
+Air Nelson	hubs	Wellington Airport
+SAS Braathens	hubs	Oslo Airport, Gardermoen
+Air Moorea	hubs	Faa'a International Airport
+Air Mikisew	hubs	Fort McMurray Airport
+Air Memphis	hubs	Cairo International Airport
+GoJet Airlines	hubs	As United Express:
+GoJet Airlines	hubs	*O'Hare International Airport\n*Denver International Airport\nAs Delta Connection:
+GoJet Airlines	hubs	*Cincinnati/Northern Kentucky International Airport\n*Detroit Metropolitan Airport\n*John F. Kennedy International Airport\n*LaGuardia Airport
+Air Libya	hubs	Benina International Airport
+Mount Cook Airline	hubs	*Auckland International Airport\n*Christchurch International Airport\n*Wellington International Airport
+Air Kasaï	hubs	N'Dolo Airport
+Air Guinée	hubs	Conakry International Airport
+Air Guinée	hubs	Guinea
+Air Gemini	hubs	Quatro de Fevereiro Airport
+Air Excellence	hubs	Libreville International Airport
+MAXjet Airways	hubs	London Stansted
+Air East	hubs	Johnstown–Cambria County Airport
+Air Equator	hubs	Gan International Airport
+KF Cargo	hubs	Kelowna International Airport
+Air China Cargo	hubs	*Beijing Capital International Airport\n*Shanghai Pudong International Airport\n*Guangzhou Baiyun International Airport
+Air Cairo	hubs	Cairo International Airport
+African Express Airways	hubs	Jomo Kenyatta International Airport
+AeroUnion	hubs	Mexico City International Airport
+Aerostar Airlines	hubs	Kiev International Airport
+Aéro-Service	hubs	Pointe Noire Airport
+Aeronáutica	hubs	Quatro de Fevereiro Airport
+Quantum Air	hubs	Palma de Mallorca Airport
+Quantum Air	hubs	Barajas Airport
+Aerogem Aviation	hubs	Kotoka International Airport
+Aerogem Aviation	hubs	Sharjah International Airport
+Aerogaviota	hubs	Playa Baracoa Airport
+AeroBratsk	hubs	Bratsk Airport
+Aero Cuahonte	hubs	Don Miguel Hidalgo y Costilla International Airport
+Pro Air	hubs	Detroit City Airport
+Abu Dhabi Aviation	hubs	Abu Dhabi International Airport
+ABS Jets	hubs	Václav Havel Airport Prague
+Abakan-Avia	hubs	Abakan Airport
+Abelag Aviation	hubs	Brussels Airport
+Calm Air	hubs	Thompson Airport
+Calm Air	hubs	Winnipeg Airport
+Capital Cargo International Airlines	hubs	*Toledo Express Airport\n*Miami International Airport
+Cargojet	hubs	John C Munro Hamilton International Airport
+Caribair	hubs	*La Isabela International Airport
+Tasair	hubs	Hobart International Airport
+Tasair	hubs	Devonport Airport
+Kiwi Travel International Airlines	hubs	Hamilton Airport
+Air Vietnam	hubs	Tan Son Nhut International Airport
+LATAM Paraguay	hubs	Silvio Pettirossi International Airport
+Centurion Air Cargo	hubs	Miami International Airport
+SkyLink Aviation	hubs	Toronto Pearson International Airport
+SkyLink Aviation	hubs	Canada
+China Flying Dragon Aviation	hubs	Harbin Taiping International Airport
+China United Airlines	hubs	Beijing Nanyuan Airport
+Chukotavia	hubs	Anadyr Ugolny Airport
+Citilink	hubs	* Hang Nadim Airport \n* Soekarno-Hatta International Airport \n* Halim Perdanakusuma Airport \n* Juanda International Airport
+City Star Airlines	hubs	Aberdeen Airport
+Club 328	hubs	Southampton Airport
+Concors	hubs	Riga International Airport
+Constanta Airline	hubs	Zaporizhia International Airport
+Dornier Aviation Nigeria	hubs	Kaduna Airport
+Contract Air Cargo	hubs	Oakland County International Airport
+Corporate Air	hubs	Billings Logan International Airport
+Crescent Air Cargo	hubs	Chennai International Airport
+CSA Air	hubs	Ford Airport
+Curaçao Express	hubs	Flamingo International Airport
+Dagestan Airlines	hubs	Uytash Airport
+Daily Air	hubs	Taipei Songshan Airport
+Daily Air	hubs	Kaohsiung International Airport
+Avolar	hubs	General Abelardo L. Rodríguez International Airport
+Deccan Charters	hubs	*Kempegowda International Airport \n*HAL Bangalore International Airport \n*Jakkur Airfield
+DHL Aero Expreso	hubs	Tocumen International Airport
+EuroManx	hubs	Isle of Man Airport
+Indus Air	hubs	Delhi
+DHL de Guatemala	hubs	La Aurora International Airport
+DHL Ecuador	hubs	Mariscal Sucre International Airport
+DHL International Aviation ME	hubs	Bahrain International Airport
+DutchCaribbeanExel	hubs	Amsterdam Airport Schiphol
+Chengdu Airlines	hubs	Chengdu Shuangliu International Airport
+East African Airlines	hubs	Entebbe International Airport
+British United Airways	hubs	London Gatwick Airport
+British United Airways	hubs	London Stansted Airport
+Vanguard Airlines	hubs	Kansas City International Airport
+Cascade Airways	hubs	Seattle
+Cascade Airways	hubs	Washington
+RegionsAir	hubs	As AmericanConnection:
+RegionsAir	hubs	Lambert-Saint Louis International Airport
+RegionsAir	hubs	As Continental Connection:
+RegionsAir	hubs	Cleveland Hopkins International Airport
+RegionsAir	hubs	As Corporate Airlines:
+RegionsAir	hubs	Nashville International Airport
+RegionsAir	hubs	As Midway Airlines:
+RegionsAir	hubs	Raleigh Durham International Airport
+Egoli Air	hubs	OR Tambo International Airport
+Air Harrods	hubs	London Stansted Airport
+SonAir	hubs	Quatro de Fevereiro Airport
+Enkor	hubs	Chelyabinsk
+Enkor	hubs	Chelyabinsk Airport
+Ravn Alaska	hubs	* Aniak Airport\n* Bethel Airport\n*
+Ravn Alaska	hubs	Deadhorse Airport
+Ravn Alaska	hubs	*
+Ravn Alaska	hubs	Fairbanks International Airport
+Ravn Alaska	hubs	Nome Airport
+Ravn Alaska	hubs	Ralph Wien Memorial Airport
+Ravn Alaska	hubs	Ted Stevens Anchorage International Airport
+Ravn Alaska	hubs	Unalakleet Airport
+Ravn Alaska	hubs	Wiley Post–Will Rogers Memorial Airport
+TAM Air	hubs	Tbilisi International Airport
+Eos Airlines	hubs	* John F. Kennedy International Airport\n* London Stansted Airport
+Slovenian Spirit	hubs	Maribor Airport
+Tatarstan Airlines	hubs	Kazan International Airport
+Estafeta Carga Aérea	hubs	Ponciano Arriaga International Airport
+Euro-Asia Air	hubs	Atyrau Airport
+ASL Airlines France	hubs	Charles de Gaulle Airport
+Evergreen International Airlines	hubs	John F. Kennedy International Airport
+Evergreen International Airlines	hubs	Hong Kong International Airport
+Express One International	hubs	Orlando Sanford International Airport
+Aviajet	hubs	Dublin Airport
+Fairline	hubs	Graz Airport
+Falkland Islands Government Air Service	hubs	Port Stanley Airport
+Flight Alaska	hubs	Bethel, Alaska
+Flight Alaska	hubs	Alaska
+Four Star Air Cargo	hubs	Luis Muñoz Marín International Airport
+Freedom Airlines	hubs	Northern Kentucky International Airport
+Freight Runners Express	hubs	General Mitchell International Airport
+Gemini Air Cargo	hubs	Miami International Airport
+Gemini Air Cargo	hubs	John F. Kennedy International Airport
+Sunstate Airlines	hubs	Brisbane Airport
+Girjet	hubs	Barcelona International Airport
+Travira Air	hubs	Halim Perdanakusuma Airport
+Metrojet Ltd.	hubs	Hong Kong International Airport
+Yangtze River Express	hubs	Shanghai Pudong International Airport
+Paramount Airways	hubs	*Chennai International Airport
+Air Ceylon	hubs	Ratmalana Airport( )
+Air Ceylon	hubs	Bandaranaike International Airport( )
+CityBird	hubs	Brussels Airport
+Quadro-Aero	hubs	Manas International Airport
+Cougar Helicopters	hubs	St. John's, Newfoundland
+Cougar Helicopters	hubs	Halifax, Nova Scotia
+Avient Aviation	hubs	Liège Airport
+Avient Aviation	hubs	Sharjah International Airport
+OLT Express	hubs	*Warsaw Chopin Airport
+Transwest Air	hubs	Prince Albert
+Transwest Air	hubs	John G. Diefenbaker International Airport
+Brymon Airways	hubs	Plymouth Airport
+Brymon Airways	hubs	Newcastle Airport
+West Wind Aviation	hubs	John G. Diefenbaker International Airport
+Sunwest Aviation	hubs	Calgary International Airport
+Vancouver Island Air	hubs	Campbell River Airport
+Perimeter Aviation	hubs	Winnipeg James Armstrong Richardson International Airport
+Keystone Air Service	hubs	St. Andrews Airport
+Air Southwest	hubs	Chilliwack Airport
+Morningstar Air Express	hubs	Edmonton International Airport
+Rio Airways	hubs	Dallas Love Field
+Rio Airways	hubs	Fort Worth International Airport
+Gorkha Airlines	hubs	Tribhuvan International Airport
+Guinea Ecuatorial Airlines	hubs	Malabo International Airport
+Grand Aire Express	hubs	Toledo Express Airport
+Grand Canyon Airlines	hubs	Grand Canyon, Boulder City
+Guizhou Airlines	hubs	Guiyang Longdongbao Airport
+Jaro International	hubs	Aurel Vlaicu International Airport
+Jade Cargo International	hubs	Shenzhen Bao'an International Airport
+MASkargo	hubs	*
+MASkargo	hubs	Kuala Lumpur International Airport
+MASkargo	hubs	* Penang International Airport
+Gama Aviation	hubs	Farnborough Airfield
+Gama Aviation	hubs	Dubai International Airport
+Gama Aviation	hubs	Sikorsky Memorial Airport
+TUI fly Belgium	hubs	Brussels Airport
+Helicol	hubs	El Dorado International Airport
+Transeast Airlines	hubs	Riga International Airport
+IBC Airways	hubs	Miami International Airport
+IBC Airways	hubs	Fort Lauderdale-Hollywood International Airport
+SAETA	hubs	Mariscal Sucre International Airport
+SAETA	hubs	Jose Joaquin de Olmedo International Airport
+Jagson Airlines	hubs	Indira Gandhi International Airport
+Jagson Airlines	hubs	New Delhi
+San Juan Airlines	hubs	Bellingham Airport
+Austrian Airlines	hubs	Vienna International Airport
+Central Airlines	hubs	Dallas
+Central Airlines	hubs	Denver
+Central Airlines	hubs	Fort Smith, AR
+Central Airlines	hubs	Fort Worth
+Central Airlines	hubs	Kansas City
+Central Airlines	hubs	Oklahoma City
+Central Airlines	hubs	Tulsa
+Midway Airlines	hubs	Raleigh-Durham International Airport
+Midway Airlines	hubs	Chicago Midway International Airport
+Club One Air	hubs	Juhu Aerodrome
+Interisland Airlines	hubs	Ninoy Aquino International Airport
+Inversija	hubs	Riga International Airport
+Interjet	hubs	* Mexico City International Airport
+Maldivian	hubs	Ibrahim Nasir International Airport
+Galaxy Airlines	hubs	Tokyo International Airport
+Ladeco	hubs	El Loa International Airport
+Ladeco	hubs	Los Cerrillos Airport
+Ladeco	hubs	Comodoro Arturo Merino Benítez International Airport
+Nigeria Airways	hubs	Murtala Muhammed International Airport
+Myanmar Airways International	hubs	Yangon International Airport
+North-Wright Airways	hubs	Norman Wells
+Lynden Air Cargo	hubs	Ted Stevens Anchorage International Airport
+Air Queensland	hubs	Cairns International Airport
+Volaris	hubs	* Mexico City International Airport\n*
+Volaris	hubs	Guadalajara International Airport
+Volaris	hubs	*
+Volaris	hubs	Tijuana International Airport
+Volaris	hubs	* Monterrey International Airport
+Royal Jet	hubs	Abu Dhabi International Airport
+British International Helicopters	hubs	Coventry Airport
+British International Helicopters	hubs	Newquay Cornwall Airport
+British International Helicopters	hubs	RAF Mount Pleasant, Falkland Islands
+Presidential Airways	hubs	Washington Dulles International Airport
+Great Plains Airlines	hubs	* Will Rogers World Airport  \n* Tulsa International Airport
+Mid Pacific Air	hubs	Honolulu International Airport
+Mid Pacific Air	hubs	Indianapolis International Airport
+Reno Air	hubs	* Reno/Tahoe International Airport\n* San Jose International Airport\n* Las Vegas International Airport
+Midwest Connect	hubs	General Mitchell International Airport
+Ransome Airlines	hubs	*Berlin-Tegel
+Ransome Airlines	hubs	*New York-JFK
+Ransome Airlines	hubs	*Miami International
+Ransome Airlines	hubs	*Pittsburgh International
+Air2there	hubs	Kapiti Coast Airport
+Golden Bay Air	hubs	Takaka Aerodrome
+Golden Bay Air	hubs	Takaka, New Zealand
+Sounds Air	hubs	Wellington International Airport
+Swiss Global Air Lines	hubs	Zurich Airport
+British United Island Airways	hubs	Southampton Airport
+British United Island Airways	hubs	Blackpool,
+British United Island Airways	hubs	London Gatwick Airport
+Porter Airlines	hubs	Billy Bishop Toronto City Airport
+Corendon Airlines	hubs	Antalya International Airport
+Mahalo Air	hubs	Honolulu International Airport
+Centavia	hubs	Belgrade Nikola Tesla Airport
+Conair Group	hubs	Abbotsford International Airport
+Dynamic Airlines	hubs	Rotterdam Airport
+Wiggins Airways	hubs	Manchester-Boston Regional Airport
+PMTair	hubs	Phnom Penh International Airport
+SGA Airlines	hubs	Don Mueang International Airport
+Brussels Airlines	hubs	*Brussels Airport
+VivaAerobús	hubs	* Mexico City International Airport\n* Monterrey International Airport\n* Guadalajara International Airport\n* Cancún International Airport
+Compass Airlines	hubs	As American Eagle:\n*Los Angeles International Airport\nAs Delta Connection:\n*Minneapolis−Saint Paul International Airport\n*Seattle-Tacoma International Airport\n*Los Angeles International Airport
+Peau Vavaʻu	hubs	*
+Peau Vavaʻu	hubs	Lifuka Island Airport
+Peau Vavaʻu	hubs	Vava'u International Airport
+LC Perú	hubs	Jorge Chávez International Airport
+Air Madrid	hubs	Madrid Barajas Airport
+Skybus Airlines	hubs	Port Columbus International Airport
+British NorthWest Airlines	hubs	Blackpool International Airport
+Go!	hubs	Honolulu International Airport
+Integra Air	hubs	Lethbridge, Calgary, Medicine Hat
+Airspeed Aviation	hubs	Abbotsford International Airport
+Canadian Affair	hubs	* Gatwick\n* Glasgow
+Prince Aviation	hubs	Belgrade Nikola Tesla Airport
+Sverigeflyg	hubs	Stockholm-Bromma Airport
+Eastwind Airlines	hubs	*Trenton, NJ\n*Greensboro, NC
+TUI Airlines Netherlands	hubs	Amsterdam Airport Schiphol
+Belle Air	hubs	Tirana International Airport Nënë Tereza
+Aeris	hubs	Toulouse-Blagnac Airport
+Tiara Air	hubs	Aruba
+Tiara Air	hubs	Queen Beatrix International Airport
+Pace Airlines	hubs	Smith Reynolds Airport
+Maestro	hubs	Jean Lesage International Airport
+Royal Airlines	hubs	Jinnah International Airport
+Tamir Airways	hubs	Sde Dov Airport
+Pronto Airways	hubs	Prince Albert
+Riau Airlines	hubs	Sultan Syarif Kasim II International Airport
+Air Maldives	hubs	Male' International Airport
+Kartika Airlines	hubs	Halim Perdanakusuma Airport
+Kartika Airlines	hubs	Minangkabau International Airport
+Atlantic Express	hubs	Exeter International Airport
+Bestair	hubs	Atatürk International Airport
+Bestair	hubs	Antalya Airport
+Airlink	hubs	OR Tambo International Airport
+Wayraperú	hubs	Jorge Chávez International Airport
+VIP Ecuador	hubs	Mariscal Sucre International Airport
+LATAM Argentina	hubs	Aeroparque Jorge Newbery
+ALMA de México	hubs	Don Miguel Hidalgo y Costilla International Airport
+Fly My Sky	hubs	Auckland International Airport
+Barrier Air	hubs	Great Barrier Aerodrome
+Avianca Cargo	hubs	* José María Córdova International Airport
+Eagle Air	hubs	Reykjavik Airport
+Lamb Air	hubs	Gillam, Norway House, Wabowden, Rankin Inlet
+AeroCóndor	hubs	Ernesto Cortissoz International Airport
+Janet	hubs	McCarran International Airport
+Winnport	hubs	Winnipeg James Armstrong Richardson International Airport
+Air Åland	hubs	Mariehamn Airport
+Nextjet	hubs	Stockholm-Arlanda Airport
+Nextjet	hubs	Mariehamn Airport
+Lynx Air International	hubs	Fort Lauderdale-Hollywood International Airport
+AviaSelva	hubs	Crnl. FAP Francisco Secada Vignetta International Airport
+Med Airways	hubs	Beirut Rafic Hariri International Airport
+PenAir	hubs	*
+PenAir	hubs	Boston Logan International Airport
+PenAir	hubs	Denver International Airport
+PenAir	hubs	Portland International Airport
+PenAir	hubs	Ted Stevens Anchorage International Airport
+All American Aviation	hubs	Pittsburgh, Pennsylvania
+Arik Air	hubs	* Kotoka International Airport\n*
+Arik Air	hubs	Murtala Muhammed International Airport
+Arik Air	hubs	* Nnamdi Azikiwe International Airport
+Halcyonair	hubs	Amílcar Cabral International Airport
+Luzair	hubs	Portela Airport
+White Airways	hubs	Lisbon Humberto Delgado Airport
+Macedonian Airlines	hubs	Athens International Airport, %22Eleftherios Venizelos%22
+Manx Airlines	hubs	IOM Isle of Man Airport
+Aer Turas	hubs	Dublin Airport
+Aer Turas	hubs	Dublin
+Color Air	hubs	Oslo Airport, Gardermoen
+Guyana Airways	hubs	Cheddi Jagan International Airport
+Vildanden	hubs	Skien Airport, Geiteryggen
+Air Norway	hubs	Ørland Airport
+CHC Helikopter Service	hubs	Stavanger Airport, Sola
+Dutch Antilles Express	hubs	Hato International Airport
+Hangard Airlines	hubs	Chinggis Khaan International Airport
+Shanghai Airlines Cargo	hubs	Shanghai Pudong International Airport
+Great Wall Airlines	hubs	Shanghai Pudong International Airport
+Northern Air Cargo	hubs	Ted Stevens Anchorage International Airport
+Bristow Norway	hubs	Stavanger Airport, Sola
+Lufttransport	hubs	Tromsø Airport
+DayJet	hubs	DayBases: Boca Raton, Gainesville
+Galaxy Air	hubs	Manas International Airport
+Coastal Aviation	hubs	Julius Nyerere International Airport
+AOM French Airlines	hubs	Orly Airport
+FaroeJet	hubs	Vágar Airport
+Air One Nine Company	hubs	Tripoli International Airport
+Royale Airlines	hubs	Houston Intercontinental Airport
+Royale Airlines	hubs	Louis Armstrong New Orleans International Airport
+TajAir	hubs	Chhatrapati Shivaji International Airport
+Tarhan Tower Airlines	hubs	Atatürk International Airport
+Bravo Airlines	hubs	Madrid Barajas International Airport
+Air Hawaii	hubs	Honolulu International Airport
+Frontier Airlines	hubs	Stapleton International Airport
+Pacific Air Lines	hubs	San Francisco International Airport
+West Coast Airlines	hubs	Seattle, Washington
+Air New England	hubs	LaGuardia Airport
+Air New England	hubs	Edward F. Knapp State Airport
+Air New England	hubs	Logan International Airport
+Air New England	hubs	Portland International Jetport
+Arizona Airways	hubs	Tucson International Airport
+Thomas Cook Airlines Scandinavia	hubs	* Copenhagen Airport\n* Stockholm Arlanda Airport\n* Oslo Airport, Gardermoen
+Braniff	hubs	* Dallas-Fort Worth International Airport\n* Kansas City International Airport\n* Orlando International Airport
+Republic Airlines	hubs	* Atlanta Hartsfield International Airport\n* Detroit Metropolitan Wayne County Airport\n* Memphis International Airport\n* Minneapolis-Saint Paul International Airport
+Piedmont Airlines	hubs	Douglas International Airport
+Piedmont Airlines	hubs	Washington International Airport
+Eznis Airways	hubs	Chinggis Khaan International Airport
+Atlantic Island Air	hubs	Keflavík International Airport
+WinAir Airlines	hubs	Long Beach Municipal Airport
+Air UK Leisure	hubs	London Stansted Airport
+Lignes Aériennes Congolaises	hubs	N'djili Airport
+Tortug' Air	hubs	Toussaint Louverture International Airport
+Deutsche Luft Hansa	hubs	Berlin Tempelhof Airport
+Aexpa	hubs	Matecaña International Airport
+Vertical de Aviación	hubs	El Dorado International Airport
+SARPA	hubs	Olaya Herrera Airport
+Central Charter de Colombia	hubs	El Dorado International Airport
+XL Airways Germany	hubs	Frankfurt Airport
+Caribbean Airlines	hubs	Piarco International Airport
+Caribbean Airlines	hubs	Norman Manley International Airport
+Pawan Hans	hubs	Juhu Aerodrome
+Pawan Hans	hubs	Mumbai
+748 Air Services	hubs	Jomo Kenyatta International Airport
+Cosmos Air Cargo	hubs	El Dorado International Airport
+SADELCA	hubs	El Dorado International Airport
+TAC Colombia	hubs	*Alfonso Bonilla Aragón International Airport\n*El Dorado International Airport\n*Olaya Herrera Airport
+Morris Air	hubs	Salt Lake City International Airport
+Midstate Airlines	hubs	Marshfield, Wisconsin
+Midstate Airlines	hubs	Central Wisconsin Airport
+Cargoitalia	hubs	Malpensa Airport
+Silverjet	hubs	London Luton Airport
+Vincent Aviation	hubs	Wellington International Airport
+Trans Service Airlift	hubs	N'djili Airport
+Kayala Airline	hubs	*Jeddah-King Abdulaziz International Airport\n*Riyadh-King Khalid International Airport
+Sol Líneas Aéreas	hubs	Islas Malvinas International Airport
+Mokulele Airlines	hubs	Kahului Airport
+Mokulele Airlines	hubs	Kona International Airport
+Leisure International Airways	hubs	London Stansted Airport
+Orion Airways	hubs	East Midlands Airport
+NAC Air	hubs	Thunder Bay International Airport
+SkyValue	hubs	Chicago International Airport
+National Airlines	hubs	McCarran International Airport
+National Airlines	hubs	Miami International Airport
+Antinea Airlines	hubs	Houari Boumedienne Airport
+British United Air Ferries	hubs	London Southend Airport
+British United Air Ferries	hubs	London Ashford Airport
+British United Air Ferries	hubs	Bournemouth Airport
+British United Air Ferries	hubs	Southampton Airport
+British United Air Ferries	hubs	London Stansted Airport
+British United Air Ferries	hubs	Aberdeen Airport
+British United Air Ferries	hubs	Sumburgh Airport
+Jat Airways AVIO taxi	hubs	Belgrade Nikola Tesla Airport
+Jat Airways AVIO taxi	hubs	Vršac Airport
+Norwegian Air Lines	hubs	Gressholmen Airport
+Norwegian Air Lines	hubs	Oslo Airport, Fornebu
+Tri-MG Intra Asia Airlines	hubs	Soekarno-Hatta International Airport
+Fly540	hubs	Jomo Kenyatta International Airport
+Air Manila	hubs	Manila International Airport
+Filipinas Orient Airways	hubs	Ninoy Aquino International Airport
+Kurdistan Airlines	hubs	Erbil International Airport
+Star Aviation	hubs	Oued Irara–Krim Belkacem Airport
+Royal Air Maroc Express	hubs	Mohammed V International Airport
+Sita Air	hubs	Tribhuvan International Airport
+Agni Air	hubs	Tribhuvan International Airport
+Shree Airlines	hubs	Tribhuvan International Airport
+Lotus Air	hubs	Cairo International Airport
+Lotus Air	hubs	Sharm el-Sheikh International Airport
+Lotus Air	hubs	Hurghada International Airport
+Kivu Air	hubs	Goma International Airport
+Kivu Air	hubs	Bukavu Airport
+Juba Air Cargo	hubs	Khartoum International Airport
+Insel Air	hubs	*Hato International Airport
+Insel Air	hubs	*
+Insel Air	hubs	Queen Beatrix International Airport
+Japan Airlines Domestic	hubs	Tokyo International Airport
+Lionair	hubs	*Bandaranaike International Airport \n*Ratmalana Airport
+Kampuchea Airlines	hubs	Phnom Penh International Airport
+Avianca Nicaragua	hubs	Augusto C. Sandino International Airport
+SVG Air	hubs	E. T. Joshua Airport
+Jetalliance	hubs	Vienna International Airport
+Landsflug	hubs	Reykjavik Airport
+PGA Express	hubs	Lisbon Portela Airport
+Kazan Air Enterprise	hubs	Kazan International Airport
+Kazan Air Enterprise	hubs	Kurkachi Airport
+Rossiya Airlines	hubs	*Pulkovo Airport \n*Rostov-on-Don Airport\n*Vnukovo International Airport\n*Orenburg Tsentralny Airport
+Navegacion y Servicios Aéreos Canarios	hubs	Gran Canaria Airport
+Sky Gate International Aviation	hubs	Queen Alia International Airport
+Kinshasa Airways	hubs	Sharjah International Airport
+Key Lime Air	hubs	Centennial Airport
+Kalitta Charters	hubs	Willow Run Airport
+Kitty Hawk Aircargo	hubs	Fort Wayne International Airport
+Merlin Airways	hubs	San Antonio International Airport
+National Airlines	hubs	Orlando-Sanford International Airport
+Sierra Pacific Airlines	hubs	Tucson International Airport
+Southern Air	hubs	*Cincinnati/Northern Kentucky International Airport\n*Leipzig/Halle Airport\n*Ted Stevens Anchorage International Airport
+AccessAir	hubs	Des Moines International Airport
+Swift Air	hubs	Phoenix Sky Harbor International Airport
+Trans-Florida Airlines	hubs	Daytona Beach International Airport
+West Air	hubs	* McCarran International Airport\n* LA/Ontario International Airport\n* Oakland International Airport\n* Sacramento International Airport\n* San Diego International Airport
+Helitrans	hubs	Trondheim Airport, Værnes
+Malift Air	hubs	N'Dolo Airport
+Manunggal Air Service	hubs	Halim Perdanakusuma Airport
+Martinaire	hubs	Addison Airport
+LATAM Cargo Mexico	hubs	Mexico City International Airport
+Midwest Airlines	hubs	Cairo International Airport
+MiniLiner	hubs	Orio al Serio Airport
+Empire Airlines	hubs	Oneida County Airport
+Command Airways	hubs	Dutchess County Airport
+Eram Air	hubs	Tabriz International Airport
+Moçambique Expresso	hubs	Maputo International Airport
+National Airways Cameroon	hubs	Yaoundé Nsimalen International Airport
+Nature Air	hubs	Juan Santamaría International Airport
+Network Aviation	hubs	Perth Airport
+Red Wings Airlines	hubs	Moscow
+Red Wings Airlines	hubs	Domodedovo Airport
+Airwork Services	hubs	Blackbushe Airport
+Novosibirsk Air Enterprise	hubs	Severny Airport
+Nurman Avia	hubs	Soekarno-Hatta International Airport
+OKI Air International	hubs	Podgorica Airport
+Pan Européenne Air Service	hubs	Chambéry Airport
+Pan Européenne Air Service	hubs	Lyon-Bron Airport
+Passaredo Linhas Aéreas	hubs	Leite Lopes Airport
+Western Airlines	hubs	Bellingham International Airport
+Pearl Aviation	hubs	Darwin International Airport
+Pelican Air Services	hubs	O.R. Tambo International Airport
+Mihin Lanka	hubs	Bandaranaike International Airport
+Falcon Aviation Services	hubs	Al Bateen Executive Airport
+AirSea Lines	hubs	Gouvia Marina
+Wondair	hubs	Valencia Airport
+Big Island Air	hubs	Kona International Airport
+Pskovavia	hubs	Pskov
+Queensland Regional Airlines	hubs	Cairns International Airport
+RAF-Avia	hubs	Riga International Airport
+Marsland Aviation	hubs	Khartoum International AirportJuba Airport
+Rivne Universal Avia	hubs	Rivne Airport
+RMA Gold Airways	hubs	* Melbourne Airport \n* Sydney Airport \n* Brisbane Airport
+Air Bashkortostan	hubs	Ufa International Airport
+Business Express Airlines	hubs	*
+Business Express Airlines	hubs	Boston Logan International Airport
+Business Express Airlines	hubs	LaGuardia Airport
+Business Express Airlines	hubs	John F. Kennedy International Airport
+Lucky Air	hubs	Kunming Changshui International Airport
+Sierra National Airlines	hubs	Lungi International Airport
+Songbird Airways	hubs	Miami International Airport
+British Eagle	hubs	RAF Aldermaston
+British Eagle	hubs	,
+British Eagle	hubs	London Luton Airport
+British Eagle	hubs	Blackbushe Airport
+British Eagle	hubs	London Heathrow Airport
+Lloyd International Airways	hubs	Cambridge Airport
+Lloyd International Airways	hubs	London Gatwick Airport
+Lloyd International Airways	hubs	London Stansted Airport
+Lloyd International Airways	hubs	Berlin-Tegel Airport
+AirAsia X	hubs	Kuala Lumpur International Airport
+South Pacific Island Airways	hubs	Pago Pago International Airport
+South Pacific Island Airways	hubs	Honolulu International Airport
+Westward Airways	hubs	Land's End Airport
+Layang Layang Aerospace	hubs	Miri International Airport
+Hornbill Skyways	hubs	Kuching International Airport
+Borneo Airways	hubs	Miri Airport
+Orionair	hubs	Madrid Barajas International Airport
+Loch Lomond Seaplanes	hubs	Glasgow Seaplane Terminal
+Loch Lomond Seaplanes	hubs	Loch Lomond
+Sky Srpska	hubs	Banja Luka International Airport
+Scandjet	hubs	Gothenburg-Landvetter Airport
+Nasair	hubs	Asmara International Airport
+Norfolk Air	hubs	Norfolk Island Airport
+Iona National Airways	hubs	Finglas
+Iona National Airways	hubs	Dublin
+UPS Airlines	hubs	;Worldport\n* Louisville International Airport\n;Asia/Pacific\n* Hong Kong International Airport\n* Kuala Lumpur International Airport\n* Shanghai Pudong International Airport\n* Shenzhen Bao'an International Airport\n;United States\n* Philadelphia International Airport\n* LA/Ontario International Airport\n* Dallas/Fort Worth International Airport\n* Chicago Rockford International Airport\n* Miami International Airport\n;Europe\n* Cologne Bonn Airport\n;Canada\n* John C. Munro Hamilton International Airport
+Zambia Airways	hubs	Lusaka International Airport
+Cargo B Airlines	hubs	Brussels Airport
+Royal Bengal Airline	hubs	Dhaka
+Trans Anguilla Airways	hubs	Anguilla Wallblake Airport
+Viva Air Dominicana	hubs	Santo Domingo-Las Américas International Airport
+Merlin Express	hubs	Aguadilla-Rafael Hernandez International Airport
+PAWA Dominicana	hubs	Las Américas International Airport
+Caribintair	hubs	Toussaint Louverture International Airport
+Air Century	hubs	*La Isabela International Airport\n*Las Americas International Airport
+Aeronaves Dominicanas	hubs	*La Isabela International Airport\n*El Portillo Airport
+Firefly	hubs	Sultan Abdul Aziz Shah Airport
+Firefly	hubs	Penang International Airport
+Aeropro	hubs	Québec City Jean Lesage International Airport
+Pascan Aviation	hubs	Saint-Hubert Airport
+Pelangi Air	hubs	Sultan Abdul Aziz Shah Airport
+Saeaga Airlines	hubs	Kota Kinabalu International Airport
+Divi Divi Air	hubs	Curaçao
+TimAir	hubs	Sangster International Airport
+Air Zaïre	hubs	N'djili Airport
+Heartland Airlines	hubs	Dayton International Airport
+Andes Líneas Aéreas	hubs	Martín Miguel de Güemes Airport
+Aerodavinci	hubs	General Lucio Blanco International Airport
+Aladia Airlines	hubs	Monterrey
+Republicair	hubs	Toluca International Airport
+Bluebird Aviation	hubs	Wilson Airport
+Air Dominicana	hubs	Las Américas International Airport
+Axis Lines International	hubs	Douala International Airport
+Avitrans	hubs	Växjö Airport
+North Central Airlines	hubs	* Chicago (O'Hare)\n* Minneapolis-St. Paul\n* Detroit\n* Milwaukee
+Arctic Sunwest Charters	hubs	Yellowknife Airport
+Interavia Airlines	hubs	Domodedovo International Airport
+ANA & JP Express	hubs	Narita International Airport
+Ameristar Jet Charter	hubs	Addison Airport and Willow Run Airport
+Al Rais Cargo	hubs	Dubai International Airport
+Tepper Aviation	hubs	Bob Sikes Airport
+AirClass Airways	hubs	Gran Canaria Airport
+Juneyao Airlines	hubs	*Shanghai Hongqiao International Airport\n*Shanghai Pudong International Airport
+Chalair Aviation	hubs	Caen - Carpiquet Airport
+Northern Thunderbird Air	hubs	Prince George, British Columbia
+Air Horizon	hubs	Lomé-Tokoin Airport
+Aerocardal	hubs	Comodoro Arturo Merino Benítez International Airport
+Air Comet Chile	hubs	Comodoro Arturo Merino Benítez International Airport
+LATAM Express	hubs	Comodoro Arturo Merino Benítez International Airport
+Aircraft Transport and Travel	hubs	*Hounslow Heath Aerodrome\n*Croydon Airport
+2nd Sverdlovsk Air Enterprise	hubs	Yekaterinburg Aramil Airport
+New Mexico Airlines	hubs	*Albuquerque International Sunport
+LUKoil-Avia	hubs	Sheremetyevo Airport
+LUKoil-Avia	hubs	Narimanovo Airport
+LUKoil-Avia	hubs	Khrabrovo Airport
+LUKoil-Avia	hubs	Makhachkala airport
+MyCargo Airlines	hubs	Sabiha Gökçen International Airport
+Jetstream Express	hubs	Blackpool International Airport
+2nd Arkhangelsk United Aviation Division	hubs	Vaskovo Airport
+2GO	hubs	Ninoy Aquino International Airport
+Air Perú	hubs	Jorge Chávez International Airport
+Cairo Aviation	hubs	Cairo International Airport
+Eagle Air	hubs	Conakry International Airport
+Komiinteravia	hubs	Syktyvkar Airport
+ACE Freighters	hubs	London Gatwick Airport
+Eurolot	hubs	* John Paul II International Airport Kraków-Balice\n* Gdańsk Lech Wałęsa Airport\n* Warsaw Chopin Airport
+Trans European Airways	hubs	Brussels Airport
+APA International Air	hubs	Santo Domingo-Las Américas International Airport
+Central Connect Airlines	hubs	Leoš Janáček Airport Ostrava
+Zoom Airlines Limited	hubs	London Gatwick Airport
+CHC Airways	hubs	Amsterdam Airport Schiphol
+CHC Airways	hubs	De Kooy
+West Air	hubs	Chongqing Jiangbei International Airport
+Click Airways	hubs	Sharjah International Airport
+EgyptAir Cargo	hubs	Cairo International Airport
+Direct Air	hubs	*Myrtle Beach International Airport
+AirTran JetConnect	hubs	*Hartsfield-Jackson Atlanta International Airport\n*Baltimore-Washington International Thurgood Marshall Airport\n*
+AirTran JetConnect	hubs	General Mitchell International Airport
+Millennium Airlines	hubs	*Bandaranaike International Airport\n*Ratmalana Airport
+Destination Air Shuttle	hubs	Phi Phi Island Airport, Thailand
+Superior Airways	hubs	Red Lake, Ontario
+Superior Airways	hubs	Ontario
+Donghai Airlines	hubs	Shenzhen Bao'an International Airport
+Nicon Airways	hubs	Murtala Muhammed International Airport
+Allied Air	hubs	Murtala Mohammed International Airport
+Wings Aviation	hubs	Murtala Mohammed International Airport
+Empire Airways	hubs	Republic Airport
+Esen Air	hubs	Manas International Airport
+European 2000 Airlines	hubs	Malta International Airport
+Aeroflot-Cargo	hubs	Sheremetyevo International Airport
+Federal Air	hubs	OR Tambo International Airport
+Federal Air	hubs	Kruger Mpumalanga International Airport
+Federal Air	hubs	Jomo Kenyatta International Airport
+Federal Air	hubs	Harare International Airport
+Federal Air	hubs	Lusaka International Airport
+Maldives Airways	hubs	Malé International Airport
+Qantas Freight	hubs	Sydney Airport
+Qantas Freight	hubs	Melbourne Airport
+Qantas Freight	hubs	Brisbane Airport
+Flair Airlines	hubs	Kelowna International Airport
+Flair Airlines	hubs	Calgary International Airport
+Cardig Air	hubs	Soekarno-Hatta International Airport
+Fly Wex	hubs	Brescia Airport
+Flyant	hubs	Madrid Barajas International Airport
+Avia Traffic Company	hubs	Manas International Airport
+Upali Air	hubs	Ratmalana Airport
+Gabon Airlines	hubs	Libreville International Airport
+Gadair European Airlines	hubs	Madrid Barajas International Airport
+Globe Jet	hubs	Beirut Rafic Hariri International Airport
+Tianjin Airlines	hubs	* Tianjin Binhai International Airport\n* Haikou Meilan International Airport
+Myanmar National Airlines	hubs	* Yangon International Airport
+Sky Express	hubs	Heraklion International Airport
+Alajnihah Airways	hubs	Tripoli International Airport
+Hageland Aviation Services	hubs	*Ted Stevens Anchorage International Airport\n*Wiley Post–Will Rogers Memorial Airport
+China Express Airlines	hubs	Chongqing Jiangbei International Airport
+Imperial Air Cargo	hubs	OR Tambo International Airport
+Exin	hubs	Katowice International Airport
+United Airways	hubs	Shahjalal International Airport
+Jett8 Airlines	hubs	Singapore Changi Airport
+Chim-Nir Aviation	hubs	Herzliya Airport
+MyTravelLite Airlines	hubs	Birmingham International Airport
+Pacific Pearl Airways	hubs	Subic Bay International Airport
+DAP Helicópteros	hubs	Carlos Ibáñez Del Campo International Airport
+Sol Dominicana Airlines	hubs	*La Romana International Airport\n*Cibao International Airport
+Link Air Express	hubs	Linate Airport
+Maximus Air Cargo	hubs	Abu Dhabi International Airport
+MDLR Airlines	hubs	Indira Gandhi International Airport
+Mosphil Aero	hubs	Zamboanga International Airport
+Gryphon Airlines	hubs	Kuwait International Airport
+Nordic Regional	hubs	Stockholm-Arlanda Airport
+Norse Air	hubs	Lanseria Airport
+Northeast Airlines	hubs	Shenyang Taoxian International Airport
+Nova Air	hubs	Mexico City International Airport
+Smart Aviation Company	hubs	Cairo International Airport
+Aéreo Calafia	hubs	Cabo San Lucas International Airport
+Transportes Aéreos Cielos Andinos	hubs	Jorge Chávez International Airport
+Nobil Air	hubs	Chişinău International Airport
+Aéreo Servicio Guerrero	hubs	Hermosillo International Airport
+Lesotho Airways	hubs	Moshoeshoe International Airport
+V Australia	hubs	Sydney Airport
+Central African Airways	hubs	Belvedere Airport
+Central African Airways	hubs	Harare International Airport
+Alania Airlines	hubs	Beslan Airport
+Plaza Servicios Aéreos	hubs	Zaragoza
+De Kroonduif	hubs	Biak-Mokmer Airport
+United International Airlines	hubs	Belgrade Nikola Tesla Airport
+Princely Jets	hubs	Jinnah International Airport
+Pakistan Airways	hubs	Jinnah International Airport
+Robin Hood Aviation	hubs	Graz Airport
+Karair	hubs	Helsinki Airport
+CityJet	hubs	Wellington
+CityJet	hubs	New Zealand
+Global Aviation	hubs	OR Tambo International Airport
+Community Express Airlines	hubs	Birmingham Airport, West Midlands
+Community Express Airlines	hubs	East Midlands Airport
+Community Express Airlines	hubs	London Gatwick Airport
+Southeastern Airlines	hubs	Hartsfield-Jackson Atlanta International Airport
+Osh-Avia	hubs	Osh Airport
+Flugfélag Vestmannaeyja	hubs	Vestmannaeyjar airport
+Orca Airways	hubs	Vancouver International Airport
+MASwings	hubs	* Kota Kinabalu International Airport\n* Miri Airport\n* Kuching International Airport
+L'Express Airlines	hubs	Louis Armstrong New Orleans International Airport
+L'Express Airlines	hubs	William P. Hobby Airport
+Air New Orleans	hubs	Louis Armstrong New Orleans International Airport
+Air New Orleans	hubs	Birmingham International Airport
+Wolverine Air	hubs	Fort Simpson Island Airport
+Tennessee Airways	hubs	McGhee Tyson Airport
+Henan Airlines	hubs	Zhengzhou Xinzheng International Airport
+Línea Aérea Amaszonas	hubs	El Alto International Airport
+Air New Zealand Link	hubs	Auckland Airport
+Air New Zealand Link	hubs	Christchurch International Airport
+Air New Zealand Link	hubs	Wellington Airport
+Free Airlines	hubs	N'Dolo Airport
+Great Lakes Business Company	hubs	Kinshasa
+Aeroquetzal	hubs	La Aurora International Airport
+Aerovías	hubs	La Aurora International Airport
+Transportes Aéreos Guatemaltecos	hubs	La Aurora International Airport
+Air Greece	hubs	Heraklion International Airport
+Sky Wings Airlines	hubs	Athens International Airport
+Lynx Aviation	hubs	Denver International Airport
+VolAir	hubs	*La Isabela International Airport\n*Cibao International Airport
+Aerolíneas Mas	hubs	*La Isabela International Airport\n*Cibao International Airport
+Casa Air Service	hubs	Mohammed V International Airport
+Western Air	hubs	Grand Bahama International Airport
+Western Air	hubs	Lynden Pindling International Airport
+PLUS Expressways	hubs	Sultan Abdul Aziz Shah Airport
+PLUS Expressways	hubs	Subang, Indonesia
+PLUS Expressways	hubs	Selangor
+PLUS Expressways	hubs	Malaysia
+Cretan Airlines	hubs	Heraklion International Airport, %22Nikos Kazantzakis%22
+Channel Airways	hubs	London Southend Airport
+Channel Airways	hubs	Ipswich Airport
+Channel Airways	hubs	London Stansted Airport
+Channel Airways	hubs	Bournemouth Airport
+Channel Airways	hubs	Bristol Airport
+Channel Airways	hubs	Cardiff Airport
+Channel Airways	hubs	Norwich International Airport
+Channel Airways	hubs	East Midlands Airport
+Channel Airways	hubs	Manchester Airport
+Channel Airways	hubs	Durham Tees Valley Airport
+Channel Airways	hubs	Berlin Tegel Airport
+Jin Air	hubs	Incheon International Airport
+Mauritania Airways	hubs	Nouakchott International Airport
+Air Ferry Limited	hubs	RAF Manston
+VietJet Air	hubs	* Tan Son Nhat International Airport\n* Noi Bai International Airport\n* Da Nang International Airport \n* Cat Bi International Airport
+Helitours	hubs	*Ratmalana Airport\n*Mattala Rajapaksa International Airport
+Vietnam Air Services Company	hubs	Tan Son Nhat International Airport
+Daimler Airway	hubs	Croydon Airport, London, England
+Aeroamerica	hubs	Boeing Field
+Aeroamerica	hubs	Berlin-Tegel Airport
+Airaia	hubs	Peretola Airport
+Starline.kz	hubs	Aktobe Airport
+Air France	hubs	*
+Air France	hubs	Charles de Gaulle Airport
+Air France	hubs	* Orly Airport
+Höga Kusten Flyg	hubs	Örnsköldsvik Airport
+Pan Am Express	hubs	Miami International Airport
+Pan Am Express	hubs	Berlin Tegel Airport
+Pan Am Express	hubs	John F. Kennedy International Airport
+Avioimpex	hubs	Skopje Airport
+Air Illinois	hubs	* Abraham Lincoln Capital Airport\n* Southern Illinois Airport\n* St. Louis International Airport
+Lone Star Airlines	hubs	Fort Worth International Airport
+Key Airlines	hubs	*Friedman Memorial Airport\n*McCarran International Airport\n*Savannah/Hilton Head International Airport
+Trans-Colorado Airlines	hubs	Stapleton International Airport
+Nile Air	hubs	Cairo International Airport
+Eastar Jet	hubs	* Gimpo International Airport\n* Incheon International Airport
+Ayit Aviation and Tourism	hubs	Be'er Sheva
+Ayit Aviation and Tourism	hubs	Sde Dov Airport
+Illich-Avia	hubs	Mariupol International Airport
+Red Baron Airlines	hubs	Palm Beach International Airport
+Asia Continental Airlines	hubs	Almaty International Airport
+OpenSkies	hubs	Orly Airport
+Skytraders	hubs	Tullamarine Airport, Melbourne
+Air 26	hubs	Quatro de Fevereiro Airport
+MAP Jet	hubs	Vienna International Airport
+Air India Cargo	hubs	* Indira Gandhi International Airport
+ZanAir	hubs	Abeid Amani Karume International Airport
+Florida Commuter Airlines	hubs	Palm Beach International Airport
+Azmar Airlines	hubs	Sulaymaniyah International Airport
+MAXavia	hubs	Manas International Airport
+Air Express Sweden	hubs	Stockholm-Arlanda Airport
+Avion Express	hubs	Vilnius Airport
+Eastern SkyJets	hubs	Dubai International Airport and Ras Al Khaima Airport ,
+Alas Nacionales	hubs	Las Américas International Airport
+Dubai Royal Air Wing	hubs	Dubai International Airport
+BCWest Air	hubs	Abbotsford International Airport
+Ankair	hubs	Atatürk International Airport
+Cham Wings Airlines	hubs	Damascus International Airport
+Air Bee	hubs	Brescia Airport
+Fly Lappeenranta	hubs	Lappeenranta Airport
+Airpink	hubs	Belgrade Nikola Tesla Airport
+Adlair Aviation	hubs	Cambridge Bay Airport
+Air Bremen	hubs	Bremen Airport
+Aerocancun	hubs	Cancún International Airport
+Fly Yeti	hubs	Tribhuvan International Airport
+Los Angeles Airways	hubs	Westchester, Los Angeles
+Los Angeles Airways	hubs	Los Angeles, California
+Líneas Aéreas Nacionales S. A.	hubs	Jorge Chavez International Airport
+Air Atlantis	hubs	Faro Airport
+Air Charter International	hubs	Paris-Orly Airport
+Aurora Airlines	hubs	Pristina International Airport
+Aurora Airlines	hubs	Maribor Edvard Rusjan Airport
+Air Commerz	hubs	Hamburg Airport
+Alyemda	hubs	Aden International Airport
+King Air Charter	hubs	Lanseria Airport
+Bavaria Fluggesellschaft	hubs	Munich-Riem Airport
+Zambia Skyways	hubs	Lusaka International Airport
+Air Guinea	hubs	Malabo International Airport
+German Cargo	hubs	Frankfurt Airport
+Mars RK	hubs	Kyiv Zhuliany International Airport
+NetherLines	hubs	Amsterdam Airport Schiphol
+Northeast Airlines	hubs	Newcastle International Airport
+Luhansk Airlines	hubs	Luhansk International Airport
+Kyrgyz Trans Avia	hubs	Manas International Airport
+Somon Air	hubs	Dushanbe International Airport
+East Air	hubs	Kulob Airport
+Silver Sky Airlines	hubs	Aeroparque Jorge Newbery
+ALROSA	hubs	Mirny Airport
+ALROSA	hubs	Polyarny Airport
+Qatar Amiri Flight	hubs	Doha International Airport
+Airtex Aviation	hubs	Bankstown Airport
+Airtex Aviation	hubs	Sydney, NSW
+West African Airways Corporation	hubs	Murtala Muhammed International Airport
+PAL Express	hubs	Ninoy Aquino International Airport
+AnadoluJet	hubs	*
+AnadoluJet	hubs	Esenboğa International Airport
+AnadoluJet	hubs	Sabiha Gökçen International Airport
+Sunways	hubs	Stockholm-Arlanda Airport
+Sunways	hubs	Antalya Airport
+Sunways	hubs	Atatürk International Airport
+Al Anwa Aviation	hubs	King Khalid International Airport
+Privilege Style	hubs	Barajas Airport
+Nex Aviation	hubs	*Galway\n*Waterford
+Heli Holland	hubs	Amsterdam Heliport
+Heli Holland	hubs	Lelystad Airport
+Swiss World Airways	hubs	Geneva Cointrin International Airport
+Atlantique Air Assistance	hubs	Nantes Atlantique Airport
+Mega Aircompany	hubs	Almaty International Airport
+Amsterdam Airlines	hubs	Amsterdam Schiphol Airport
+Amsterdam Airlines	hubs	Maastricht Aachen Airport
+Discovery Airways	hubs	Honolulu International Airport
+Azul Brazilian Airlines	hubs	*Belo Horizonte–Confins\n*Campinas
+Wataniya Airways	hubs	Kuwait International Airport
+Janes Aviation	hubs	London Southend Airport
+Astra Airlines	hubs	Thessaloniki International Airport
+Nationale Regionale Transport	hubs	Libreville International Airport
+CEIBA Intercontinental	hubs	Malabo International Airport
+Mali Air Express	hubs	Senou International Airport
+Mali Air Transport	hubs	Senou International Airport
+Slovak Government Flying Service	hubs	Bratislava Airport
+TAE – Trabajos Aéreos y Enlaces	hubs	Bilbao
+TAE – Trabajos Aéreos y Enlaces	hubs	Düsseldorf
+Air Sweden	hubs	Stockholm-Arlanda Airport
+Austrojet	hubs	Salzburg Airport
+Aerolift Philippines	hubs	* Ninoy Aquino International Airport\n* Mactan Cebu International Airport
+Royal Daisy Airlines	hubs	Entebbe International Airport
+Grandstar Cargo	hubs	Tianjin Binhai International Airport
+Regional Paraguaya	hubs	Silvio Pettirossi International Airport
+Aérolíneas Peruanas	hubs	Jorge Chávez International Airport
+SkyBahamas Airlines	hubs	Lynden Pindling International Airport
+GainJet Aviation	hubs	Athens International Airport
+InterJet	hubs	Athens International Airport
+Aeroland Airways	hubs	Athens International Airport
+TransGlobal Airways	hubs	Clark International Airport
+Kang Pacific Airlines	hubs	Fujairah International Airport
+Elrom Airways	hubs	Sde Dov Airport
+Aloha Air Cargo	hubs	Honolulu International Airport
+Grossmann Jet Service	hubs	Václav Havel Airport Prague
+Alitalia CityLiner	hubs	Leonardo da Vinci–Fiumicino Airport
+Maritime Air Charter	hubs	Halifax International Airport
+Wings West Airlines	hubs	Los Angeles International Airport
+Grand Air International	hubs	Ninoy Aquino International Airport
+Líneas Aéreas Allegro	hubs	General Mariano Escobedo International Airport
+Aeroméxico Travel	hubs	Cancún International Airport
+Costa Rica Skies	hubs	Juan Santamaría International Airport
+Filair	hubs	N'Dolo Airport
+Roraima Airways	hubs	Eugene F. Correia International Airport
+Command Airways	hubs	* JNB-OR Tambo International Airport * HCS-Sandton City Heliport * HPR-Pretoria Central Heliport
+Laker Airways	hubs	Fort Lauderdale – Hollywood International Airport
+TAE Greek National Airlines	hubs	Ellinikon International Airport
+Susi Air	hubs	*Sultan Syarif Kasim II International Airport, Pekanbaru\n*Samarinda Airport\n*Sultan Iskandar Muda International Airport, Banda Aceh\n*Kuala Namu International Airport, Medan\n*Minangkabau International Airport, Padang\n*Sultan Thaha Airport, Jambi\n*Halim Perdanakusuma International Airport, East Jakarta\n*Nusawiru Airport, Pangandaran\n*Juwata Airport, Tarakan\n*Robert Atty Bessing Airport, Malinau\n*El Tari Airport, Kupang\n*Sultan Hasanuddin International Airport, Makassar\n*Babullah Airport, Ternate\n*Rendani Airport, Manokwari\n*Frans Kaisiepo Airport, Biak\n*Nabire Airport, Nabire\n*Mozes Kilangin Airport, Timika\n*Wamena Airport, Wamena\n*Sentani Airport, Jayapura
+Silverback Cargo Freighters	hubs	Kigali International Airport
+Wizz Air Bulgaria	hubs	Sofia Airport
+XpressAir	hubs	Makassar
+XpressAir	hubs	Sultan Hasanuddin International Airport
+CemAir	hubs	OR Tambo International Airport
+Syrian Pearl Airlines	hubs	Damascus International Airport
+SW Business Aviation	hubs	Heydar Aliyev International Airport
+Royal Falcon	hubs	Queen Alia International Airport
+Grenadine Airways	hubs	E. T. Joshua Airport
+Binter Mediterraneo	hubs	Málaga Airport
+Linus Airways	hubs	Soekarno-Hatta International Airport
+SkyTaxi	hubs	Copernicus Airport Wrocław
+Pronair	hubs	Albacete Airport
+Aerofan	hubs	Madrid Cuatro Vientos Airport
+Heli Air Services	hubs	Sofia Airport
+SkyWork Airlines	hubs	Bern Airport
+Wings of Lebanon	hubs	Beirut International Airport
+Technical and Aeronautical Holdings	hubs	Tatoi Airport
+Technical and Aeronautical Holdings	hubs	Athens Hellenikon Airport
+Kalstar Aviation	hubs	Supadio Airport
+Gading Sari	hubs	Kuala Lumpur International Airport
+Taquan Air	hubs	Ketchikan
+Proflight Zambia	hubs	Lusaka International Airport
+Servant Air	hubs	Kodiak Airport
+GeorgiaSkies	hubs	Hartsfield-Jackson Atlanta International Airport
+STP Airways	hubs	São Tomé International Airport
+Elysian Airlines	hubs	Nsimalen International Airport
+Elysian Airlines	hubs	Conakry International Airport
+Air Leasing Cameroon	hubs	Douala International Airport
+Budapest Aircraft Service	hubs	Budapest
+Budapest Aircraft Service	hubs	Liszt Ferenc Airport
+Warbelow's Air Ventures	hubs	East Ramp of Fairbanks International Airport
+Meelad Air	hubs	Marka International Airport
+Jordan International Air Cargo	hubs	Marka International Airport
+Transwestern Airlines	hubs	Logan-Cache Airport
+Air Ecosse	hubs	Aberdeen Airport
+Felix Airways	hubs	Sana'a International Airport
+AeroLogic	hubs	* Leipzig/Halle Airport \n* Frankfurt Airport
+Regional Cargo	hubs	Querétaro International Airport
+Joy Air	hubs	Xi'an Xianyang International Airport
+Ukrvozdukhput	hubs	Kharkiv Airport
+Indochina Airlines	hubs	Tan Son Nhat International Airport
+Timor Air	hubs	Presidente Nicolau Lobato International Airport
+Sundsvallsflyg	hubs	Sundsvall-Härnösand Airport
+Everts Air	hubs	Fairbanks International Airport
+Everts Air Cargo	hubs	Fairbanks International Airport
+Jes Air	hubs	Sofia Airport
+Baikal Airlines	hubs	Irkutsk Airport
+EastIndo	hubs	Halim Perdanakusuma International Airport
+Cargoair	hubs	Sofia Airport
+Veritair	hubs	Cardiff Heliport
+Air Hamburg	hubs	* Uetersen Airfield\n* Hamburg Airport
+Boliviana de Aviación	hubs	Viru Viru International  Airport
+SAN Ecuador	hubs	Guayaquil
+Phoebus Apollo Aviation	hubs	Johannesburg
+Dana Air	hubs	Murtala Muhammed International Airport
+Med-View Airline	hubs	Murtala Muhammed International Airport
+Mahfooz Aviation	hubs	King Abdulaziz International Airport
+Air Charter Africa	hubs	Banjul International Airport
+Starlink Aviation	hubs	Montréal-Pierre Elliott Trudeau International Airport
+Starlink Aviation	hubs	Yarmouth Int'l Airport
+Linxair	hubs	Ljubljana Jože Pučnik Airport
+Athens Airways	hubs	Athens International Airport
+SaxonAir	hubs	Norwich International Airport
+SaxonAir	hubs	London Luton Airport
+JetLink Express	hubs	Jomo Kenyatta International Airport
+Blink	hubs	London
+Blink	hubs	Geneva
+Blink	hubs	Channel Islands
+Teddy Air	hubs	Skien Airport, Geiteryggen
+Nor-Alta Aviation	hubs	Fort Vermilion Airport
+Nor-Alta Aviation	hubs	High Level Airport
+Nor-Alta Aviation	hubs	Fort McMurray Airport
+Tailwind Airlines	hubs	*
+Tailwind Airlines	hubs	Sabiha Gökçen International Airport
+Tailwind Airlines	hubs	*Antalya Airport
+MexicanaLink	hubs	Cancún International Airport
+MexicanaLink	hubs	Mexico City International Airport
+Jämtlands Flyg	hubs	Göviken Heliport
+Jämtlands Flyg	hubs	Östersund
+Simmons Airlines	hubs	*Dallas/Fort Worth International Airport\n*O'Hare International Airport \n*Miami International Airport
+Swiss Private Aviation	hubs	Zurich International Airport
+Fuji Dream Airlines	hubs	Shizuoka Airport
+Fuji Dream Airlines	hubs	Nagoya Airfield
+Lao Skyway	hubs	Wattay International Airport
+Channel Air Bridge	hubs	London Southend Airport
+Air Charter Limited	hubs	London Southend Airport
+Air Charter Limited	hubs	London Stansted Airport
+Locair	hubs	Ft. Lauderdale, Florida;
+Chabahar Airlines	hubs	Mehrabad Airport
+Bukovyna Airlines	hubs	Chernivtsi International Airport
+Caribbean Air Sign	hubs	Punta Cana International Airport
+Aerovías Quisqueyana	hubs	Las Américas International Airport
+Vision Air International	hubs	Jinnah International Airport
+Interivoire	hubs	Port Bouet Airport
+MCA Airlines	hubs	Stockholm-Arlanda Airport
+SkyLink Arabia	hubs	Dubai International Airport
+Avant Airlines	hubs	*Comodoro Arturo Merino Benítez International Airport
+Compañía Aeronáutica Uruguaya	hubs	Carrasco International Airport
+IrAero	hubs	Irkutsk Airport
+Aero Rent	hubs	Vnukovo International Airport
+SkyStar Airways	hubs	Suvarnabhumi Airport
+AlMasria Universal Airlines	hubs	Cairo International Airport
+Belau Air	hubs	Roman Tmetuchl International Airport
+Zambezi Airlines	hubs	Kenneth Kaunda International Airport
+Ándalus Líneas Aéreas	hubs	Málaga Airport
+Master Top Airlines	hubs	São Paulo-Guarulhos International Airport
+Midex Airlines	hubs	OMSJ - Sharjah International Airport
+Megantara Air	hubs	Soekarno-Hatta International Airport
+Princess Air	hubs	Southend Airport
+Hellenic Airlines	hubs	Ellinikon International Airport
+K-Mile Air	hubs	Suvarnabhumi Airport
+Alitalia	hubs	Leonardo da Vinci–Fiumicino Airport
+SprintAir	hubs	Warsaw Chopin Airport
+Nord-Flyg	hubs	Eskilstuna Airport
+Yellow Air Taxi	hubs	Fort Lauderdale – Hollywood International Airport
+LATAM Cargo Colombia	hubs	El Dorado International Airport
+Hunting-Clan Air Transport	hubs	RAF Bovingdon
+Hunting-Clan Air Transport	hubs	London Airport
+Jet America Airlines	hubs	Las Vegas McCarran International Airport
+Jet America Airlines	hubs	Long Beach Airport
+British Aviation Services	hubs	Blackbushe Airport
+Transair	hubs	Croydon Airport
+Transair	hubs	London Gatwick Airport
+Skyways Limited	hubs	Langley, Berkshire
+Skyways Limited	hubs	Dunsfold Aerodrome
+Skyways Limited	hubs	RAF Bovingdon
+Skyways Limited	hubs	London Stansted Airport
+Skyways Limited	hubs	London Heathrow Airport
+Skyways Limited	hubs	London Gatwick Airport
+Air Italy Egypt	hubs	Sharm el-Sheikh International Airport
+Morton Air Services	hubs	Croydon Airport
+Morton Air Services	hubs	London Gatwick Airport
+Jersey Airlines	hubs	Jersey Airport
+Jersey Airlines	hubs	Croydon Airport
+Jersey Airlines	hubs	London Gatwick Airport
+Intra Airways	hubs	Jersey Airport
+Tristar Air	hubs	Cairo International Airport
+Aircraft Sales and Services Limited	hubs	Jinnah International Airport
+Petro Air	hubs	Tripoli International Airport
+Feeder Airlines	hubs	Juba Airport
+Safarilink Aviation	hubs	Wilson Airport
+Mid Express Tchad	hubs	N'Djamena International Airport
+Dove Air Services	hubs	Khartoum International Airport
+ALS – Aircraft Leasing Services	hubs	Wilson Airport
+CMC Aviation	hubs	Wilson Airport
+Delta Connection	hubs	Wilson Airport
+Scottish Airlines	hubs	Glasgow Prestwick Airport
+Scottish Airlines	hubs	London Stansted Airport
+PBair	hubs	Suvarnabhumi Airport
+Arik Niger	hubs	Diori Hamani International Airport
+Escadrille Nationale du Niger	hubs	Diori Hamani International Airport
+Air Niamey	hubs	Diori Hamani International Airport
+SAM Intercontinental	hubs	Senou International Airport
+Royal Air	hubs	Cadjehoun Airport
+Nayzak Air Transport	hubs	Tripoli International Airport
+Norlandair	hubs	Akureyri Airport
+Grozny Avia	hubs	Grozny Airport
+Cambodia Angkor Air	hubs	* Phnom Penh International Airport
+Air Kazakhstan	hubs	Almaty International Airport
+Cabo Verde Express	hubs	Amílcar Cabral International Airport
+Líneas Aéreas La Urraca	hubs	La Vanguardia Airport
+Líneas Aéreas La Urraca	hubs	El Dorado International Airport
+Condor Syndikat	hubs	Rio de Janeiro
+Condor Syndikat	hubs	Porto Alegre
+TAP Portugal	hubs	Lisbon Portela Airport
+Section Liaison Air Yaoundé	hubs	Yaoundé Nsimalen International Airport
+Turku Air	hubs	Turku Airport
+Groupement Aérien Sénégalais	hubs	Dakar-Yoff-Léopold Sédar Senghor International Airport
+Deccan 360	hubs	Bengaluru International Airport
+Deccan 360	hubs	Bangalore
+Air Choice One	hubs	Lambert-St. Louis International Airport
+Coral Sun Airways	hubs	Bonriki International Airport
+Powell Air	hubs	Powell River Airport
+Air Grand Canyon	hubs	Grand Canyon National Park Airport
+Seair Pacific	hubs	Gold Coast Airport
+Air Tungaru	hubs	Bonriki International Airport
+Olympic Air	hubs	Athens International Airport
+Madina Air	hubs	Tripoli International Airport
+Go!Express	hubs	Honolulu International Airport
+Go!Express	hubs	Kahului Airport
+Feel Air	hubs	Oslo Airport, Gardermoen
+Feel Air	hubs	Stockholm-Arlanda Airport
+Salsa d'Haïti	hubs	Toussaint Louverture International Airport
+Salsa d'Haïti	hubs	Hugo Chávez International Airport
+Uganda Air Cargo	hubs	Entebbe International Airport
+Ryan Air Services	hubs	Aniak Airport
+Ryan Air Services	hubs	Bethel Airport
+Ryan Air Services	hubs	Emmonak Airport
+Ryan Air Services	hubs	Kotzebue Airport
+Ryan Air Services	hubs	Nome Airport
+Ryan Air Services	hubs	St. Mary's Airport
+Ryan Air Services	hubs	Unalakleet Airport
+Go! Mokulele	hubs	Honolulu International Airport
+Go! Mokulele	hubs	Kona International Airport
+Qatar Executive	hubs	Hamad International Airport
+Florida Coastal Airlines	hubs	Fort Lauderdale Hollywood International Airport
+Al Jaber Aviation	hubs	Al Bateen Executive Airport
+Seair Seaplanes	hubs	Vancouver International Water Airport
+Blue Sky Airlines	hubs	Yerevan, Armenia
+DETA Air	hubs	Almaty International Airport
+Nakina Air Service	hubs	Nakina Airport
+Island Express Air	hubs	Abbotsford International Airport
+Royal Air Freight	hubs	Oakland County International Airport
+TransNusa Air Services	hubs	* El Tari Airport\n* Ngurah Rai International Airport
+Nusantara Buana Air	hubs	*Polonia International Airport, Medan\n*Banda Aceh Airport, Aceh
+ASKY Airlines	hubs	Lomé-Tokoin Airport
+Air Rwanda	hubs	Kigali International Airport
+Meridian Airways	hubs	Ostend airport
+West Atlantic	hubs	*Malmö Airport\n*Coventry Airport \n*Marseille Airport \n*East Midlands Airport\n*Oslo Airport
+Medallion Air	hubs	Mihail Kogălniceanu International Airport
+Varig	hubs	Rio de Janeiro-Galeão International Airport
+BQB Líneas Aéreas	hubs	Carrasco International Airport
+Aerochaco	hubs	Resistencia International Airport
+Air Go Airlines	hubs	Athens International Airport
+EZAir	hubs	Hato International Airport
+EZAir	hubs	Flamingo International Airport
+Branson Air Express	hubs	Branson Airport
+CareFlight	hubs	Darwin International Airport
+Air India	hubs	Indira Gandhi International Airport
+Hesnes Air	hubs	Sandefjord Airport, Torp
+Neptune Air	hubs	Kuala Lumpur International Airport
+Twin Cities Air Service	hubs	Lewiston Municipal Airport
+Mountain Air	hubs	Chateau Airfield
+Mountain Air	hubs	Mount Ruapehu
+Silver Air	hubs	Prague Ruzyně Airport
+Aero	hubs	Poznań
+Aerotarg	hubs	Poznań
+Tahoe Air	hubs	South Lake Tahoe Airport
+South Phoenix Airlines	hubs	Ninoy Aquino International Airport
+South Phoenix Airlines	hubs	Metro Manila
+Tunisavia	hubs	Tunis-Carthage International Airport
+Regional Airlines	hubs	Bordeaux-Merignac
+Regional Airlines	hubs	Clermont-Ferrand Auvergne Airport
+Regional Airlines	hubs	Le Havre – Octeville Airport
+Whitejets	hubs	Viracopos International Airport
+Direct Aero Services	hubs	Aurel Vlaicu International Airport
+Opera Jet	hubs	M. R. Štefánik Airport
+Irtysh Air	hubs	Almaty International Airport
+Asia Wings	hubs	Sary-Arka Airport
+Asia Wings	hubs	Almaty International Airport
+Intair	hubs	Montréal-Pierre Elliott Trudeau International Airport
+Intair	hubs	Quebec City
+Kosmos Airlines	hubs	Moscow-Vnukovo, Russia
+Air Batumi	hubs	Batumi International Airport
+COTAIR	hubs	Cotonou
+COTAIR	hubs	Cadjehoun Airport
+Zhetysu	hubs	Taldykorgan Airport
+Sky Service	hubs	Boraldai Airport
+Nesma Airlines	hubs	Cairo International Airport
+Sky Pasada	hubs	Ninoy Aquino International Airport
+SkyAir	hubs	Shahjalal International Airport
+Regent Airways	hubs	Hazrat Shahjalal International Airport
+Air Mekong	hubs	* Tan Son Nhat International Airport\n* Noi Bai International Airport
+Thai Tiger Airways	hubs	Don Mueang International Airport
+Azur Air	hubs	Domodedovo International Airport
+Genex	hubs	Minsk National Airport
+Tibet Airlines	hubs	Lhasa Gonggar Airport
+Tibet Airlines	hubs	Chengdu Shuangliu International Airport
+Exploits Valley Air Services	hubs	Gander International Airport
+Exploits Valley Air Services	hubs	Greater Moncton International Airport
+Sparrow Aviation	hubs	Stockholm Arlanda
+Avia Express	hubs	Stockholm-Arlanda Airport
+SAPSAN	hubs	Almaty International Airport
+TMK Air Commuter	hubs	Goma International Airport
+Keyway Air Transport	hubs	Rhein-Main Air Base
+PRiMA Aero Trasporti Italiani	hubs	Guglielmo Marconi Airport
+FlyOristano	hubs	Oristano-Fenosu Airport
+Aermediterranea	hubs	Leonardo da Vinci–Fiumicino Airport
+Aerolíneas Ejecutivas	hubs	Toluca
+Aerolíneas Ejecutivas	hubs	Estado de México
+Asia Airways	hubs	Dushanbe Airport
+Ford Air Transport Service	hubs	Detroit, Michigan
+NordStar	hubs	Alykel Airport
+NordStar	hubs	Yemelyanovo Airport
+REDjet	hubs	Grantley Adams International Airport
+Copa Airlines Colombia	hubs	*El Dorado International Airport
+ANA Wings	hubs	Fukuoka Airport
+Tara Air	hubs	Tribhuvan International Airport, Kathmandu
+North Pacific Airlines	hubs	Seattle–Tacoma International Airport
+Guna Airlines	hubs	Tribhuvan International Airport
+AeroLyon	hubs	Lyon Airport
+RegionAir	hubs	Port-Gentil International Airport
+Jamaica Air Shuttle	hubs	Tinson Pen Aerodrome
+I-Fly	hubs	Vnukovo International Airport
+Cronus Airlines	hubs	Athens International Airport
+Belle Air Europe	hubs	Pristina International Airport
+Saudi Red Crescent Authority	hubs	King Khaled International Airport
+Solar Air	hubs	Don Mueang International Airport
+Equaflight	hubs	Pointe Noire Airport
+BVI Airways	hubs	Terrance B. Lettsome International Airport
+Comlux Kazakhstan	hubs	Almaty International Airport
+AlbaStar	hubs	*Tarbes–Lourdes–Pyrénées Airport\n*Milan–Malpensa Airport
+Corendon Dutch Airlines	hubs	Amsterdam Airport Schiphol
+Sky Aviation	hubs	*
+Sky Aviation	hubs	Hang Nadim Airport
+Sky Aviation	hubs	Sultan Syarif Kasim II Airport
+Med Airlines	hubs	Mohammed V International Airport
+Mauritania Airlines International	hubs	Nouakchott–Oumtounsy International Airport
+Senegal Airlines	hubs	Léopold Sédar Senghor International Airport
+Mega Maldives	hubs	Ibrahim Nasir International Airport
+Groninger Luchtvaart Maatschappij	hubs	Groningen Airport Eelde
+Rio Linhas Aéreas	hubs	São Paulo-Guarulhos International Airport
+Rio Linhas Aéreas	hubs	Eduardo Gomes Int'l Airport,
+Rio Linhas Aéreas	hubs	Brasília-Juscelino Kubitschek International Airport
+Rio Linhas Aéreas	hubs	Salvador-Deputado Luís Eduardo Magalhães International Airport
+TonleSap Airlines	hubs	Siem Reap International Airport
+North Cyprus Airlines	hubs	Ercan International Airport
+Era Aviation	hubs	Ted Stevens Anchorage International Airport
+Jal Hans	hubs	Veer Savarkar International Airport
+Artsakh Air	hubs	Stepanakert Air Base
+Pentastar Aviation	hubs	Oakland County International Airport
+Sunrise Airways	hubs	Toussaint Louverture International Airport
+Djibouti Air	hubs	Djibouti-Ambouli International Airport
+Royal Wings	hubs	Queen Alia International Airport
+APSA Colombia	hubs	El Dorado International Airport
+Aerolínea de Antioquia	hubs	Enrique Olaya Herrera Airport
+Toumaï Air Tchad	hubs	N'Djamena International Airport
+Líneas Aéreas Suramericanas	hubs	El Dorado International Airport
+Shaheen Air	hubs	Jinnah International Airport
+Shaheen Air	hubs	Allama Iqbal International Airport
+Shaheen Air	hubs	Benazir Bhutto International Airport
+Shaheen Air	hubs	Bacha Khan International Airport
+Wasaya Airways	hubs	Thunder Bay International Airport
+Wasaya Airways	hubs	Sioux Lookout Airport
+HD Air Ltd	hubs	Birmingham
+Virgin Australia Regional Airlines	hubs	Perth Airport
+Union de Transports Aériens	hubs	Paris Le Bourget Airport
+Union de Transports Aériens	hubs	Charles de Gaulle Airport
+Weststar Aviation	hubs	Sultan Abdul Aziz Shah Airport
+MAT Airways	hubs	Skopje %22Alexander the Great%22 Airport
+MHS Aviation	hubs	Sultan Abdul Aziz Shah Airport
+Air Safaris	hubs	London Gatwick Airport
+Sky Regional Airlines	hubs	Toronto Pearson International Airport
+Air Canada Express	hubs	*Calgary International Airport\n*Montréal-Trudeau International Airport\n*Toronto Pearson International Airport\n*Vancouver International Airport
+Czech Connect Airlines	hubs	Brno-Tuřany Airport
+Vision Air Malaysia	hubs	Miri Airport
+Flyme	hubs	Maamigilli International Airport
+Velvet Sky	hubs	King Shaka International Airport
+Camair-Co	hubs	Douala International Airport
+Cargo Airways International	hubs	Douala International Airport
+Charter Air Transport	hubs	Burke Lakefront Airport
+First Nation Airways	hubs	Murtala Mohammed International Airport
+Aerochile	hubs	*Comodoro Arturo Merino Benítez International Airport
+Hebridean Air Services	hubs	Oban Airport
+Chautauqua Airlines	hubs	As AmericanConnection:
+Chautauqua Airlines	hubs	O'Hare International Airport
+Chautauqua Airlines	hubs	As Delta Connection:
+Chautauqua Airlines	hubs	LaGuardia Airport
+Chautauqua Airlines	hubs	John F. Kennedy International Airport
+Skynet	hubs	Krasnoyarsk Airport
+Air Timor	hubs	Presidente Nicolau Lobato International Airport
+Longtail Aviation	hubs	L.F. Wade International Airport
+Ligne Aérienne du Roi Albert	hubs	Kinshasa
+Fly 6ix	hubs	Lungi International Airport
+Air Caribbean	hubs	Piarco International Airport
+Air Nicaragua	hubs	Augusto C. Sandino International Airport
+European Air Transport Leipzig	hubs	Halle Airport
+Philippines AirAsia	hubs	* Ninoy Aquino International Airport \n* Kalibo International Airport \n* Mactan-Cebu International Airport
+Peach	hubs	*Kansai International Airport \n*Naha Airport\n*Narita International Airport
+Air Panamá Internacional	hubs	Tocumen International Airport
+Continent	hubs	Vnukovo International Airport
+Latavio	hubs	Riga International Airport
+Sunny Airways	hubs	Suvarnabhumi Airport
+Hebei Airlines	hubs	Shijiazhuang Zhengding International Airport
+Veteran Avia	hubs	Sharjah
+Skyways Coach-Air Limited	hubs	Lympne Airport
+Skyways Coach-Air Limited	hubs	Gatwick Airport
+Awan Inspirasi	hubs	Miri Airport
+Awan Inspirasi	hubs	Miri, Malaysia
+Awan Inspirasi	hubs	Sarawak
+Nordic Regional Airlines	hubs	Helsinki Airport
+Aero Continente Chile	hubs	Comodoro Arturo Merino Benítez International Airport
+Al Wafeer Air	hubs	King Abdul Aziz International Airport
+Jetstar Japan	hubs	* Narita International Airport \n* Kansai International Airport
+Kaltim Airlines	hubs	Samarinda International Airport
+Nordic Global Airlines	hubs	* Helsinki Airport\n* Liège Airport
+Thai Smile	hubs	Suvarnabhumi Airport
+Kan Air	hubs	Chiang Mai International Airport
+Maverick Aviation Group	hubs	* Henderson Executive Airport\n* Grand Canyon West Airport\n* Grand Canyon National Park Airport\n* Kahului Heliport
+Aero Majestic Airways	hubs	*Zamboanga International Airport
+Southern Star Airlines	hubs	Juba Airport
+Bluebird Airways	hubs	Heraklion International Airport
+Blue Sky Aviation Services	hubs	Moi International Airport
+Blue Sky Aviation Services	hubs	Mombassa
+Comtel Air	hubs	Vienna International Airport
+Iberia Express	hubs	Adolfo Suárez Madrid–Barajas Airport
+Scoot	hubs	Singapore Changi Airport
+Damania Airways	hubs	Chhatrapati Shivaji International Airport
+Pacific Royale Airways	hubs	Juanda International Airport
+Pacific Royale Airways	hubs	Sultan Syarif Kasim II International Airport
+Pacific Royale Airways	hubs	Hang Nadim International Airport
+Island Airlines	hubs	* \n* Nantucket Memorial Airport
+Hinterland Aviation	hubs	Cairns
+Aeroasis	hubs	El Dorado International Airport
+Flight Express, Inc.	hubs	* Nashville International Airport\n* Orlando Executive Airport\n* Birmingham-Shuttlesworth International Airport\n* Addison Airport\n* Tampa International Airport\n* Opa-locka Airport\n* Fort Lauderdale Executive Airport\n* Little Rock National Airport\n* Fulton County Airport\n* Charles B. Wheeler Downtown Airport\n* St. Louis Downtown Airport
+Lignes Aériennes Congolaises	hubs	N'djili Airport
+LATAM Colombia	hubs	El Dorado International Airport
+MAYAir	hubs	Cancún International Airport
+U-Land Airlines	hubs	Taipei Sungshan Airport
+Hunnu Air	hubs	Chinggis Khaan International Airport
+Ultimate Air Shuttle	hubs	Cincinnati Municipal Lunken Airport
+American Trans-Oceanic Company	hubs	Port Washington, New York
+American Trans-Oceanic Company	hubs	Palm Beach, Florida
+ATA Airlines	hubs	*Tabriz International Airport\n*Mehrabad Airport
+Bek Air	hubs	Oral Ak Zhol Airport
+Trinidad and Tobago Air Services	hubs	Piarco International Airport
+Tuva Airlines	hubs	Kyzyl Airport
+Seabird Airlines	hubs	İstanbul and Alaçatı
+People Express Airlines	hubs	Williamsburg International Airport
+Parks College Airline	hubs	Cahokia, Illinois
+VIF Airways	hubs	Begumpet Airport
+Alliance Air	hubs	Entebbe International Airport
+Palau Airways	hubs	Roman Tmetuchl International Airport
+Samair	hubs	*M. R. Štefánik Airport
+Fly Georgia	hubs	Tbilisi International Airport
+Makalu Air	hubs	Surkhet Airport
+Minoan Air	hubs	Heraklion International Airport
+Syphax Airlines	hubs	Sfax–Thyna International Airport
+SkyLink Express	hubs	CYVR - Vancouver\nCYWG - Winnipeg\nCYHM - Hamilton\nCYMX - Montréal-Mirabel
+Air Vega	hubs	Belgrade Nikola Tesla Airport
+Cronos Airlines	hubs	Malabo International Airport
+Sky Gabon	hubs	Libreville International Airport
+Afric Aviation	hubs	Port-Gentil International Airport
+Swiftair Bahrain	hubs	Bahrain International Airport
+Sky Angkor Airlines	hubs	Siem Reap International Airport
+Aeolian Airlines	hubs	Athens International Airport
+Al Sayegh Airlines	hubs	Sharjah International Airport
+Air Safaris	hubs	Lake Tekapo
+Gambia Bird	hubs	Banjul International Airport
+Air Indus	hubs	Jinnah International Airport
+Max Air	hubs	Aminu Kano International Airport
+Jet Asia Airways	hubs	Suvarnabhumi Airport
+Batik Air	hubs	*Jakarta - Soekarno-Hatta International Airport\n*Jakarta - Halim Perdanakusuma Airport
+Air Onix	hubs	Simferopol Airport
+BidAir Cargo	hubs	OR Tambo International Airport
+Gatari Air Service	hubs	Halim Perdanakusuma International Airport
+Gatari Air Service	hubs	Sultan Aji Muhammad Sulaiman Airport
+Gatari Air Service	hubs	Wamena Airport
+Zapolyariye	hubs	Alykel Airport
+Zapolyariye	hubs	Norilsk
+Uraiavia	hubs	Tyumen
+UTair Cargo	hubs	Plekhanov, Tyumen
+Transair-Gyraintiee	hubs	Arkhangelsk
+Transair-Gyraintiee	hubs	Russia
+Tulpar Air	hubs	Krasnoyarsk
+Tambov-Avia	hubs	Tambov Donskoye Airport
+Tambov-Avia	hubs	Tambov
+Specavia Air Company	hubs	Volgograd
+Spark+	hubs	St Petersburg
+Smolenskaerotrans	hubs	Tikhvinka
+Smolenskaerotrans	hubs	Smolensk
+Aeroflot-Plus	hubs	Sheremetyevo
+Aeroflot-Plus	hubs	Moscow
+Aerofreight Airlines	hubs	Moscow
+Dauria	hubs	Chita, Zabaykalsky Krai
+Dauria	hubs	Russia
+Center-South	hubs	Belgorod International Airport
+Rosneft-Baltika	hubs	Rzhevka Airport
+Rosneft-Baltika	hubs	St Petersburg
+Lukiaviatrans	hubs	Maksimovo Airport
+Lukiaviatrans	hubs	Velikie
+Lukiaviatrans	hubs	Pskov
+KrasAvia	hubs	Krasnoyarsk, Russia
+Specair	hubs	Moscow
+Specair	hubs	Russia
+Dexter Air Taxi	hubs	Moscow
+Dexter Air Taxi	hubs	Russia
+Koryak Air Enterprise	hubs	Kamchatka
+Koryak Air Enterprise	hubs	Russia
+Artel Staratelei %22Amur%22 Airlines	hubs	Mar Kyuel
+Artel Staratelei %22Amur%22 Airlines	hubs	Khabarovsk
+Annushka	hubs	Shumakova, Stavropol
+Skol Airlines	hubs	Surgut
+Sirius-Aero	hubs	Shturmanskaya, Russia
+Simargl Air Company	hubs	Nalchik
+Simargl Air Company	hubs	Khabez
+Sibia	hubs	Kurgan Airport
+Shar Ink	hubs	Ostafyevo
+Shar Ink	hubs	Moscow
+Lao Central Airlines	hubs	Wattay International Airport
+Barkol Airlines	hubs	Moscow  \n• Khabarovsk  \n• Yaroslavl  \n• Leningrad Region  \n• Velikie Luki  \n• Saratov  \n• Lipetsk \n• Samara  \n• Penza  \n• Volgograd  \n• Briansk \n• Ryazan  \n• Tyumen  \n• Tobolsk \n• Tyumen Region  \n• Dalnerechensk
+Moscow Aircraft Overhaul Plant	hubs	Moscow
+KAPO Avia	hubs	Moscow
+KAPO Avia	hubs	Kazan
+Northwest Air Base	hubs	Petrozavodsk
+Northwest Air Base	hubs	Republic of Karelia
+Pegas Fly	hubs	Yemelyanovo International Airport
+Novoair	hubs	Shahjalal International Airport
+Cinnamon Air	hubs	Bandaranaike International Airport
+Air Côte d'Ivoire	hubs	Port Bouet Airport
+Quassar	hubs	Mexico City International Airport
+ASTA Linhas Aéreas	hubs	Marechal Rondon International Airport
+Thai Regional Airlines	hubs	Suvarnabhumi Airport
+Abu Dhabi Amiri Flight	hubs	Abu Dhabi International Airport
+Air Trust	hubs	Almaty International Airport
+Transwede Airways	hubs	Gothenburg-Landvetter Airport
+Malindo Air	hubs	Kuala Lumpur International Airport
+Rotana Jet	hubs	*Abu Dhabi International Airport
+U Airlines	hubs	Suvarnabhumi International Airport
+Korea Express Air	hubs	Yangyang International Airport
+Air Kerala	hubs	Cochin International Airport
+WestJet Encore	hubs	*Calgary International Airport\n*
+WestJet Encore	hubs	Toronto Pearson International Airport
+Zhezkazgan Air	hubs	Zhezkazgan Airport
+Khozu Avia	hubs	Almaty Airport
+Prime Aviation	hubs	Almaty Airport
+Aerovias Guest	hubs	Mexico City International Airport
+Konvers Avia	hubs	Tver
+AirAsia India	hubs	Kempegowda International Airport
+Cimber	hubs	Copenhagen Airport
+Cal Jet Air	hubs	*San Antonio International Airport\n*General Rafael Buelna International Airport
+Iloilo-Negros Air Express	hubs	* Iloilo Airport  \n* Manila International Airport
+Air Canada Rouge	hubs	*Montréal-Pierre Elliott Trudeau International Airport\n*Toronto Pearson International Airport\n*Vancouver International Airport
+Glenorchy Air	hubs	Queenstown, New Zealand
+Avianca Ecuador	hubs	*Mariscal Sucre International Airport
+TAT Nigeria	hubs	Murtala Muhammed International Airport
+Westair Benin	hubs	Cadjehoun Airport
+Golden Myanmar Airlines	hubs	Mandalay International Airport
+BB Airways	hubs	Tribhuvan International Airport
+Tarco Airlines	hubs	Khartoum International Airport
+Fly Jamaica Airways	hubs	Norman Manley International Airport
+Sky Bishkek	hubs	Manas International Airport
+Air Manas	hubs	Manas International Airport
+R Airlines	hubs	Don Mueang International Airport
+AirTanker Services	hubs	RAF Brize Norton
+Regional Air	hubs	Arusha Airport
+Fil-Asian Airways	hubs	* Mactan-Cebu International Airport\n* Zamboanga International Airport \n* Ninoy Aquino International Airport
+Tropical Air	hubs	Abeid Amani Karume International Airport
+Tanzanair	hubs	Julius Nyerere International Airport
+Flightlink	hubs	Julius Nyerere International Airport
+Air Excel	hubs	Arusha Airport
+Auric Air	hubs	* Mwanza Airport
+Safari Plus	hubs	Julius Nyerere International Airport
+Maastricht Airlines	hubs	Maastricht Aachen Airport
+P.C. Air	hubs	Suvarnabhumi Airport
+Deutsche Lufthansa	hubs	Berlin Schönefeld Airport
+Kazaviaspas	hubs	Almaty International Airport
+Diamond Executive Aviation	hubs	Gamston Airport
+Diamond Executive Aviation	hubs	Padua Airport
+Diamond Executive Aviation	hubs	Wick Airport
+Aviatrans Kiev	hubs	Kyiv Zhuliany International Airport
+Cargolux Italia	hubs	Milan-Malpensa Airport
+Nova Airways	hubs	Khartoum International Airport
+SriLankan AirTaxi	hubs	Kelani River-Peliyagoda Waterdrome
+HOP!	hubs	*
+HOP!	hubs	Lyon-Saint Exupéry Airport
+HOP!	hubs	*Paris-Orly Airport
+Samoa Air	hubs	Faleolo International Airport
+Air Odisha	hubs	*Biju Patnaik International Airport Bhubaneswar
+Línea Aérea de Entre Ríos	hubs	Aeroparque Jorge Newbery
+Línea Aérea Cuencana	hubs	Cotopaxi International Airport
+Air Lituanica	hubs	Vilnius Airport
+PANH	hubs	Ulan-Ude
+PANH	hubs	Baikal International Airport
+Toll Global Express	hubs	Brisbane Airport
+Toll Global Express	hubs	Bankstown Airport
+Southern Airways Express	hubs	*Destin Executive Airport\n*Memphis International Airport\n*Pittsburgh International Airport\n*Washington-Dulles International Airport
+Punto Azul	hubs	Malabo International Airport
+Macau Air Transport Company	hubs	Macau, Hong Kong
+Hi Fly Malta	hubs	Malta International Airport
+Delta Private Jets	hubs	Northern Kentucky International Airport
+Air Serbia	hubs	Belgrade Nikola Tesla Airport
+First Flying	hubs	Yao Airport
+First Flying	hubs	Hiroshima-Nishi Airport
+First Flying	hubs	Naha Airport
+Malawian Airlines	hubs	Lilongwe International Airport
+Link Airs	hubs	*Fukuoka Airport\n*Kitakyushu Airport
+Canaryfly	hubs	Gran Canaria Airport
+Sólyom Hungarian Airways	hubs	Budapest Liszt Ferenc International Airport
+Rediske Air	hubs	* Soldotna Airport
+Jhonlin Air Transport	hubs	Syamsudin Noor Airport
+Jhonlin Air Transport	hubs	Banjarbaru
+Fly-SAX	hubs	Jomo Kenyatta International Airport
+Fly-SAX	hubs	Wilson Airport
+Karinou Airlines	hubs	Bangui M'Poko International Airport
+Karinou Airlines	hubs	Central African Republic
+Northern Air	hubs	Peace River Airport
+Asia Atlantic Airlines	hubs	Suvarnabhumi Airport
+Palestinian Airlines	hubs	El Arish International Airport
+LANICA	hubs	Augusto C. Sandino International Airport
+Delta Connection	hubs	* Cincinnati/Northern Kentucky International Airport\n* Detroit Metropolitan Airport\n* Hartsfield–Jackson Atlanta International Airport\n*
+Delta Connection	hubs	John F. Kennedy International Airport
+Delta Connection	hubs	*
+Delta Connection	hubs	LaGuardia Airport
+Delta Connection	hubs	* Logan International Airport \n* Los Angeles International Airport\n* Minneapolis–Saint Paul International Airport\n* Salt Lake City International Airport\n* Seattle–Tacoma International Airport
+Delta Express	hubs	Orlando International Airport
+Song	hubs	Orlando International Airport
+Song	hubs	John F. Kennedy International Airport
+City Airways	hubs	Don Mueang International Airport
+AV Cargo	hubs	Liège Airport
+FlySafair	hubs	Cape Town International Airport
+FlySafair	hubs	OR Tambo International Airport
+Thai Lion Air	hubs	Don Mueang International Airport
+Small Planet Airlines	hubs	Katowice International Airport
+Wat Phnom Airlines	hubs	Siem Reap International Airport
+Air Costa	hubs	* Chennai International Airport\n* Vijayawada Airport
+Ticos Air	hubs	Juan Santamaría International Airport
+Air Republiq	hubs	Ninoy Aquino International Airport, Metro Manila and Basco Airport, Basco
+Aurora	hubs	*
+Aurora	hubs	Vladivostok International Airport
+Rossair	hubs	Adelaide International Airport
+Griffing Flying Service	hubs	Erie-Ottawa International Airport
+ABM Air	hubs	V. C. Bird International Airport
+One Airlines	hubs	Comodoro Arturo Merino Benítez International Airport
+Ewa Air	hubs	Dzaoudzi Pamandzi International Airport
+Tigerair Taiwan	hubs	Taiwan Taoyuan International Airport
+NokScoot	hubs	Don Mueang International Airport
+Airways International	hubs	Miami International Airport
+Aeronaves TSM	hubs	Plan de Guadalupe International Airport
+EcoJet	hubs	Jorge Wilstermann International Airport
+American Eagle	hubs	* Charlotte Douglas International Airport\n*
+American Eagle	hubs	Fort Worth International Airport
+American Eagle	hubs	* John F. Kennedy International Airport\n* LaGuardia Airport\n* Logan International Airport\n* Los Angeles International Airport\n* Miami International Airport\n* O'Hare International Airport\n* Philadelphia International Airport\n* Phoenix Sky Harbor International Airport\n* Ronald Reagan Washington National Airport
+US-Bangla Airlines	hubs	Shahjalal International Airport
+V Air	hubs	Taoyuan International Airport
+Monacair	hubs	Monaco Heliport
+Makani Kai Air	hubs	Honolulu International Airport
+Star Air	hubs	Soekarno-Hatta International Airport
+Simrik Airlines	hubs	Tribhuvan International Airport
+Goma Air	hubs	Surkhet Airport
+Jambojet	hubs	Jomo Kenyatta International Airport
+Tradewind Aviation	hubs	*Westchester County Airport\n*Teterboro Airport\n*Luis Muñoz Marín International Airport\n*Nantucket Memorial Airport\n*Gustaf III Airport
+Air Cargo Mongolia	hubs	Chinggis Khaan International Airport
+AvWest	hubs	Perth Airport
+Veca Airlines	hubs	Comalapa International Airport
+TAR Aerolineas	hubs	* Querétaro Intercontinental Airport
+South East Asian Airlines International	hubs	* Clark International Airport
+Elite Airways	hubs	*Orlando Melbourne International Airport
+Douniah Airlines	hubs	Bamako–Sénou International Airport
+Eagle Atlantic Airlines	hubs	Kotoka International Airport
+Africa's Connection STP	hubs	São Tomé International Airport
+Thai AirAsia X	hubs	Don Mueang International Airport
+Tailwind Air Service	hubs	New York Skyports Inc. Seaplane Base
+Tailwind Air Service	hubs	Sikorsky Memorial Airport
+Air Caucasus	hubs	Tbilisi International Airport
+East Horizon Airlines	hubs	Herat Airport
+East Horizon Airlines	hubs	Kabul Airport
+South Supreme Airlines	hubs	Juba Airport
+Azman Air	hubs	Mallam Aminu Kano International Airport
+Fishtail Air	hubs	Tribhuvan International Airport
+Manang Air	hubs	Tribhuvan International Airport
+Vistara	hubs	Indira Gandhi International Airport
+People Express Airlines	hubs	* Newark International Airport\n* Stapleton International Airport
+National Airways Ethiopia	hubs	Addis Ababa Bole International Airport
+Flymojo	hubs	Senai International Airport
+FlyEasy	hubs	Kempegowda International Airport
+Phoenix Airways	hubs	Robert L. Bradshaw International Airport
+AirExplore	hubs	Bratislava Airport
+Sepahan Airlines	hubs	Isfahan International Airport
+Eastern Air Lines	hubs	Miami International Airport
+TruJet	hubs	Rajiv Gandhi International Airport
+Chhattisgarh Air Link	hubs	Swami Vivekananda Airport
+Marco Island Airways	hubs	Miami International Airport
+Air Senok	hubs	*Ratmalana Airport
+Deccan Airways Limited	hubs	Begumpet Airport
+Zav Airways	hubs	Netaji Subhas Chandra Bose International Airport
+Zav Airways	hubs	Kolkata
+Himalaya Airlines	hubs	Tribhuvan International Airport
+Aerolot	hubs	*
+Aerolot	hubs	Gdańsk
+Aerolot	hubs	Warsaw
+Virgin Australia Airlines	hubs	Auckland International Airport
+Air Andorra	hubs	La Seu d'Urgell Airport
+Pineapple Air	hubs	Lynden Pindling International Airport
+9 Air	hubs	Guangzhou Baiyun International Airport
+Indonesia AirAsia X	hubs	Soekarno Hatta International Airport
+Air Spray	hubs	Red Deer Regional Airport
+Apsara International Air	hubs	Siem Reap International Airport
+Bassaka Air	hubs	Phnom Penh International Airport
+Urumqi Air	hubs	Ürümqi Diwopu International Airport
+Hawa Air	hubs	Antwerp International Airport
+Saurya Airlines	hubs	Tribhuvan International Airport
+Air Croatia	hubs	Zagreb International Airport
+Canada Jetlines	hubs	*Vancouver International Airport\n*John C. Munro Hamilton International Airport\n*Winnipeg James Armstrong Richardson International Airport
+Choice Airways	hubs	Fort Lauderdale Executive Airport
+Caicos Express Airways	hubs	Providenciales International Airport
+British Overseas Airways Corporation	hubs	London Heathrow Airport
+Bosnian Wand Airlines	hubs	Sarajevo International Airport
+Flyvista	hubs	Tbilisi International Airport
+Alas Uruguay	hubs	Carrasco International Airport
+Alas Uruguay	hubs	Capitán de Corbeta Carlos A. Curbelo International Airport
+Ad Astral Aviation	hubs	Perth Airport
+Air Carnival	hubs	Chennai International Airport
+New Gen Airways	hubs	Don Mueang International Airport
+New Gen Airways	hubs	Krabi Airport
+Thai Vietjet Air	hubs	Suvarnabhumi Airport
+Ruili Airlines	hubs	Kunming Changshui International Airport
+Skywise	hubs	OR Tambo International Airport
+Air Pegasus	hubs	Kempegowda International Airport
+Ellinair	hubs	Thessaloniki International Airport
+Quikjet Airlines	hubs	Indira Gandhi International Airport
+Sakha Avia	hubs	Yakutsk Airport
+Servicios Aéreos de los Andes	hubs	Jorge Chávez International Airport
+East Wing	hubs	Almaty International Airport
+Al Maha Airways	hubs	*King Abdulaziz International Airport
+Great Lakes Air	hubs	Mackinac County Airport
+Limitless Airways	hubs	Rijeka Airport
+Saudigulf	hubs	*King Fahd International Airport
+Tus Airways	hubs	Larnaca International Airport
+Woodgate Aviation	hubs	*Belfast International Airport\n*Isle of Man Airport\n*Newtownards Airport
+Qazaq Air	hubs	Almaty International Airport
+Air Leisure	hubs	Cairo International Airport
+KLM Helikopters	hubs	Amsterdam Airport Schiphol
+Congo Airways	hubs	N'djili Airport
+Atrak Air	hubs	Mehrabad Airport
+Pouya Cargo Air	hubs	Mehrabad International Airport
+NAM Air	hubs	Soekarno-Hatta International Airport
+NAM Air	hubs	Juanda International Airport
+NAM Air	hubs	Supadio Airport
+Meraj Airlines	hubs	*
+Meraj Airlines	hubs	Mehrabad Airport
+Meraj Airlines	hubs	*Tehran-IKA International Airport
+Air Costa Rica	hubs	Juan Santamaría International Airport
+Air Costa Rica	hubs	San José, Costa Rica
+Asian Express Airline	hubs	Dushanbe International Airport
+Orenburzhye	hubs	Orenburg Tsentralny Airport
+Blue Dart Aviation	hubs	Chennai International Airport
+Sunday Airlines	hubs	Shymkent Airport
+Fly Blue Crane	hubs	O. R. Tambo International Airport
+Colorful Guizhou Airlines	hubs	Guiyang Longdongbao International Airport
+North Shore Air	hubs	* North Shore Aerodrome
+West Wing Aviation	hubs	Townsville Airport
+Free Spirit Airlines	hubs	Essendon Airport
+FlyEgypt	hubs	Cairo International Airport
+FlyEgypt	hubs	Kuwait International Airport
+Siam Air	hubs	Don Mueang International Airport
+Sayany Airlines	hubs	*International Airport Irkutsk \n*Kadala Airport
+Rayani Air	hubs	Kuala Lumpur International Airport
+Pasargad Airline	hubs	Isfahan International Airport
+Flyways Linhas Aéreas	hubs	Pampulha – Carlos Drummond de Andrade Airport
+Suburban Air Freight	hubs	*Cincinnati/Northern Kentucky International Airport\n*Eppley Airfield
+Virgin Atlantic Little Red	hubs	London Heathrow Airport
+Tropic Ocean Airways	hubs	* Fort Lauderdale International Airport\n* New York Skyports Inc. Seaplane Base – seasonal
+Albatros Airlines	hubs	Maracay Mariscal Sucre Airport
+Utah Airways	hubs	Ogden-Hinckley Airport
+Air Europa Express	hubs	Palma de Mallorca Airport
+Air Europa Express	hubs	*Madrid Barajas Airport\n*Palma de Mallorca Airport
+Air Guilin	hubs	Guilin Liangjiang International Airport
+Ying'an Airlines	hubs	Guiyang Longdongbao International Airport
+Jiangxi Air	hubs	Nanchang Changbei International Airport
+Hongtu Airlines	hubs	Kunming Changshui International Airport
+Fly All Ways	hubs	Johan Adolf Pengel International Airport
+Swazi Airways	hubs	King Mswati III International Airport
+Royal Fly-GH	hubs	Kotoka International Airport
+Fly540 Angola	hubs	* Quatro de Fevereiro Airport\n* Cabinda Airport
+My Indo Airlines	hubs	Halim Perdanakusuma Airport
+Jonair	hubs	Umeå Airport
+Baracuda Airways	hubs	Wilson Airport
+Smile Air	hubs	Kotoka International Airport
+Goldstar Air	hubs	Kotoka International Airport
+Summit Helicopters	hubs	Yellowknife Airport
+Armenia Aircompany	hubs	Zvartnots International Airport
+AZALJet	hubs	Heydar Aliyev International Airport
+Andorra Airlines	hubs	Andorra–La Seu d'Urgell Airport
+French Blue	hubs	Orly Airport
+Maluti Sky	hubs	Moshoeshoe I International Airport
+Enterprise Airlines	hubs	Northern Kentucky International Airport
+Bravo Airways	hubs	Boryspil International Airport
+Havana Air	hubs	Miami International Airport
+Aviator Airlines	hubs	Cairo International Airport
+Hevilift	hubs	Mount Hagen Airport
+Airlink Cargo	hubs	OR Tambo International Airport
+Macair Jet	hubs	Aeroparque Jorge Newbery
+Zoom Air	hubs	Netaji Subhas Chandra Bose International Airport
+Star Airways	hubs	Rinas Mother Teresa Airport
+ALK Airlines	hubs	Sofia Airport
+Shoreline Aviation	hubs	Tweed New Haven Airport
+BRA Braathens Regional Airlines	hubs	Stockholm-Bromma Airport
+Afra Airways	hubs	Bujumbura International Airport
+Serene Air	hubs	Islamabad
+As Salaam Air	hubs	Zanzibar Airport
+Rayyan Air	hubs	Jinnah International Airport
+Rayyan Air	hubs	Allama Iqbal International Airport
+Rayyan Air	hubs	Benazir Bhutto International Airport
+Rayyan Air	hubs	Bacha Khan International Airport
+Pakistan Aviators & Aviation	hubs	Allama Iqbal International Airport

@@ -1,0 +1,510 @@
+Azores	border	Corvo Island
+Madeira	border	Madeira
+Siberia	border	West: Ural Mountains
+Siberia	border	North: Arctic Ocean
+Siberia	border	East: Pacific Ocean
+Siberia	border	South: Kazakhstan, Mongolia, PRC
+Labrador	border	Quebec
+Labrador	border	Nunavut
+Fort George G. Meade	border	E: Severn, Maryland
+Painted Desert	border	Little Colorado and Puerco rivers
+Courland	border	Semigallia
+Gettysburg National Cemetery	border	N: Steinwehr Avenue
+Mojave Desert	border	Great Basin Desert
+Mojave Desert	border	Sonoran Desert
+Mojave Desert	border	Colorado Plateau
+Mojave Desert	border	Colorado Desert
+Korean Peninsula	border	China
+Sonoran Desert	border	Mojave Desert
+Sonoran Desert	border	Colorado Plateau
+Sonoran Desert	border	Peninsular Ranges
+White Mountains	border	Mogollon Rim-W
+White Mountains	border	San Francisco Mountains--SE
+White Mountains	border	Painted Desert&ndash;Navajo Nation
+White Mountains	border	& Petrified Forest National Park-N
+White Mountains	border	Fort Apache Indian Reservation-SW
+Green River	border	W: Great Basin Divide
+Green River	border	E: Continental Divide of the Americas
+Bonneville Salt Flats	border	Interstate 80 in Utah
+Bonneville Salt Flats	border	West Wendover, Nevada
+Carson Sink	border	N: West Humboldt Range
+Carson Sink	border	E: Stillwater Range
+Carson Sink	border	SW: Carson Desert
+Carson Sink	border	W: Forty Mile Desert
+Central Washington	border	British Columbia
+Cache Valley	border	west: Bannock Range ,
+Cache Valley	border	Wellsville Mountains
+Cache Valley	border	east: Bear River Mountains
+Cache Valley	border	south: Wasatch Range
+Tualatin Valley	border	Northern Oregon Coast Range
+Prince of Wales Island	border	Ketchikan Gateway Borough, Alaska
+Alvord Desert	border	Steens Mountain
+Alvord Desert	border	Mickey Butte
+Alvord Desert	border	Pueblo Valley
+Alvord Desert	border	Tule Springs Rim
+Avra Valley	border	West S. B. & Silver Bell Mountains-NW
+Avra Valley	border	Waterman Mountains-W
+Avra Valley	border	Roskruge Mountains-SW
+Avra Valley	border	Sierrita Mountains-S
+Avra Valley	border	Tucson Mountains-E & I-10-NE
+Chernobyl Exclusion Zone	border	Belarus
+Brazilian Highlands	border	Amazon Basin
+Brazilian Highlands	border	Amazon Rainforest
+Brazilian Highlands	border	Coastal strip
+Rush Valley	border	Stansbury Mountains-W
+Rush Valley	border	South Mountain-N
+Rush Valley	border	Oquirrh Mountains-NE
+Rush Valley	border	Cedar Valley-SE
+Rush Valley	border	East Tintic Mountains-SSE
+Rush Valley	border	Sheeprock Mountains-S & SSW
+Rush Valley	border	Onaqui Mountains-SW
+Great Salt Lake Desert	border	Cedar Mountains
+Great Salt Lake Desert	border	Silver Island Range, Utah
+Great Salt Lake Desert	border	Hogup, Newfoundland Mountains,
+Great Salt Lake Desert	border	& Lakeside Range
+Great Salt Lake Desert	border	West : Pilot Range.
+Mohave Valley	border	Colorado River-W
+Mohave Valley	border	Black Mesa (western Arizona)-E
+Mohave Valley	border	Black Mountains (Arizona)-NE
+Mohave Valley	border	Mohave Mountains-S
+Mohave Valley	border	Newberry Mountains (Nevada)-NW
+Mohave Valley	border	Dead Mountains-W & NW
+Mohave Valley	border	Sacramento Mountains (California)-SW
+Port of Anchorage	border	Kenai Peninsula Borough, Alaska
+Guadalupe Mountains	border	Sacramento Mountains
+Semigallia	border	Courland
+Lutheran Theological Seminary at Gettysburg	border	Gettysburg National Military Park
+Amargosa Desert	border	west: Funeral Mountains & Yucca Mountain
+Amargosa Desert	border	east: Nellis Air Force Range
+Lanfair Valley	border	New York & Castle Mtns-N
+Lanfair Valley	border	Piute Range-E
+Lanfair Valley	border	Woods Mountains-S
+Lanfair Valley	border	Pinto Valley-W
+Richardson Bay	border	Raccoon Strait
+Alto Trás-os-Montes	border	Ave Subregion
+Surprise Valley, Modoc County	border	Warner Mountains-NW, W & SW
+Surprise Valley, Modoc County	border	Hays Canyon Range-E & SE
+Livanjsko field	border	Dinara
+Evergreen Cemetery	border	E: Baltimore Pike
+Nevada Test and Training Range	border	Tonopah Bombing Range
+Nevada Test and Training Range	border	Nellis \
+San Rafael Valley	border	Canelo Hills-N
+San Rafael Valley	border	Huachuca Mountains-E
+San Rafael Valley	border	Patagonia Mountains-W
+High Desert	border	Cascade Range
+High Desert	border	Blue Mountains
+High Desert	border	Idaho border
+High Desert	border	Nevada border
+Brian Farm	border	N & E: Zieglers Woods
+Growler Valley	border	Granite Mountains (Arizona)-W
+Growler Valley	border	Growler Mountains-E
+Pinacate Peaks	border	Gran Desierto de Altar
+Pinacate Peaks	border	Mexican Federal Highway 8-SE
+Tyson Wash	border	La Posa Plain
+Fish Lake Valley	border	White Mountains-W, SW & S
+Fish Lake Valley	border	Silver Peak Range-E & SE
+Fish Lake Valley	border	Monte Cristo Range-NE
+Fish Lake Valley	border	Nev Rte 773 & Excelsior Mountains-NW
+Caja del Rio	border	Rio Grande-NW
+Caja del Rio	border	Canada Ancha-E
+Caja del Rio	border	Santa Fe River-S
+Maria fold and thrust belt	border	Mojave Desert-Colorado Desert-W
+Maria fold and thrust belt	border	Mojave Desert-AZ-
+Maria fold and thrust belt	border	Sonoran Desert-AZ-
+Antelope Valley	border	Pine Grove Hills-E
+Antelope Valley	border	Pine Nut Mountains-NW & N
+Antelope Valley	border	Sierra Nevada (U.S.)-SW & S
+Upper Neretva	border	Bjelašnica
+Virgin Valley	border	Beaver Dam Mountains & Wilderness-NE
+Virgin Valley	border	Virgin Mountains-E & S
+Virgin Valley	border	Mormon Mesa-SW
+Warner Valley	border	Hart Mountain
+Warner Valley	border	Warner Mountains
+Beaver Valley	border	Niagara Escarpment
+Beaver Valley	border	Georgian Bay
+Sacramento Wash	border	Black Mtns-NW & W
+Sacramento Wash	border	Cerbat Mountains-NE
+Sacramento Wash	border	Kingman, AZ-NE
+Sacramento Wash	border	Hualapai Mountains-E & SE
+Sacramento Wash	border	Mohave Mountains&ndash;Dutch Flat-S
+Goose Lake Valley	border	Fremont Mountains
+Goose Lake Valley	border	Warner Mountains
+Goose Lake Valley	border	Modoc Plateau
+Round Top, Pennsylvania	border	Gettysburg National Military Park
+Altar Valley	border	Quinlan Mountains-NW
+Altar Valley	border	Baboquivari Mountains-SW
+San Simon Valley	border	San Simon, AZ–Peloncillo Mountains-NE
+San Simon Valley	border	Dos Cabezas Mtns–Chiricahua Mtns-W & SW
+San Simon Valley	border	Bowie, Arizona-NW
+San Simon Valley	border	Road Forks, NM–Lordsburg-E
+San Simon Valley	border	Rodeo, NM-S
+San Bernardino Valley	border	Chiricahua Mountains-NW
+San Bernardino Valley	border	San Simon Valley-N
+San Bernardino Valley	border	Peloncillo Mountains (Hidalgo County)-E
+San Bernardino Valley	border	Guadalupe Mountains (Hidalgo County)-SE
+San Bernardino Valley	border	San Bernardino National Wildlife Refuge-S
+San Bernardino Valley	border	Sierra del Tigre--S
+San Bernardino Valley	border	Perilla Mountains-SW
+San Bernardino Valley	border	Pedrogosa Mountains-W
+Sulphur Springs Valley	border	Dos Cabezas Mountains-NE
+Sulphur Springs Valley	border	Chiricahua Mountains-E
+Sulphur Springs Valley	border	Dragoon Mountains-W
+Sulphur Springs Valley	border	Little Dragoon Mountains-NW
+Sulphur Springs Valley	border	Mule Mountains-SW
+Lonesome Valley	border	Chino Valley (Arizona)-NNW
+Lonesome Valley	border	Little Black Mesa &
+Lonesome Valley	border	Verde River-N
+Lonesome Valley	border	Black Hills (Yavapai County)-E & SE
+Lonesome Valley	border	Prescott Valley, AZ & Agua Fria River-S
+Lonesome Valley	border	Prescott, AZ & Granite Dells-SW
+Lonesome Valley	border	Granite Mountain (Arizona)-WSW
+Lonesome Valley	border	Sullivan Buttes-NW
+Butler Valley	border	Buckskin Mountains-NW
+Butler Valley	border	Harcuvar Mountains-SE
+Eldorado Valley	border	McCullough Range-W
+Eldorado Valley	border	River Mountains-NNE
+Eldorado Valley	border	Eldorado Mountains-E
+Eldorado Valley	border	Piute Valley-S
+Eldorado Valley	border	Highland Range-SSW
+Piute Wash	border	Piute Valley
+Piute Valley	border	Piute Range-W
+Piute Valley	border	Newberry Mountains (Nevada)-NE
+Piute Valley	border	Dead Mountains-SE
+Centennial Wash	border	Aubrey Peak Wilderness-NW
+Centennial Wash	border	Bill Williams River-S
+Gila Valley	border	Laguna Mountains (Arizona)-N
+Gila Valley	border	Yuma Mesa-S
+Gila Valley	border	-Gila Mountains-NE, E & SE
+Gila Valley	border	Yuma-SW
+Gila Valley	border	Gila Mountains (Graham County)-NE
+Gila Valley	border	Santa Teresa Mountains
+Gila Valley	border	Pinaleno Mountains-SW
+Childs Valley	border	Sentinel Plain-NE
+Childs Valley	border	San Cristobal Valley & Growler Valley SW
+San Pedro Valley	border	Rincon, Whetstone & Huachuca Mtns-W
+San Pedro Valley	border	Little Dragoon, Dragoon & Mule Mtns-E
+Park Valley	border	Hyder Valley-NE
+Park Valley	border	Palomas Mountains-NW
+Park Valley	border	San Cristobal Valley-SW
+Park Valley	border	Sentinel Plain-SE
+Dendora Valley	border	Gila Bend Mountains-N
+Dendora Valley	border	Painted Rock Reservoir-E
+Dendora Valley	border	Painted Rock Mountains-S
+Dendora Valley	border	Hyder Valley-W
+Dutch Flat	border	Sacramento Valley (Arizona)-N & NE
+Dutch Flat	border	Hualapai Mountains-NE
+Dutch Flat	border	McCracken Mountains-SE
+Dutch Flat	border	Aubrey Peak Wilderness&ndash;Rawhide Mtns-S
+Dutch Flat	border	Mohave Mountains-SW
+Chemehuevi Wash	border	Sacramento & Chemehuevi Mountains-NE
+Chemehuevi Wash	border	Turtle Mountains-SW
+Chemehuevi Wash	border	Lake Havasu-E
+Chemehuevi Wash	border	Whipple Mountains-S
+Vidal Valley	border	Whipple Mountains-E & NE
+Vidal Valley	border	Turtle Mountains-W
+Vidal Valley	border	West Riverside & Riverside Mountains-SW
+Vidal Valley	border	Rice Valley-SW
+Vidal Valley	border	Chemehuevi Wash & Valley-N
+Pahrump Valley	border	Spring Mountains-NE
+Pahrump Valley	border	Nopah Range-SW
+Pahrump Valley	border	Resting Spring Range-W & WNW
+Whitlock Valley	border	Whitlock Mountains-W
+Whitlock Valley	border	Black Hills (Greenlee County)-N
+Whitlock Valley	border	Peloncillo Mountains-E
+Whitlock Valley	border	San Simon Valley-SW & S
+Playas Valley	border	Continental Divide-W
+Playas Valley	border	Animas Mountains-W & SW
+Playas Valley	border	Little & Big Hatchet Mountains-E & SE
+Tonopah Desert	border	Belmont Mountains
+Tonopah Desert	border	Hassayampa Plain-NE
+Tonopah Desert	border	Big Horn Mountains (Arizona)-NW
+Tonopah Desert	border	Interstate 10 in Arizona-S
+Tonopah Desert	border	Palo Verde Hills&ndash;Gila Bend Mtns-S
+Tonopah Desert	border	Harquahala Plain-SW
+Animas Valley	border	Continental Divide-E
+Animas Valley	border	Peloncillo Mountains (Hidalgo County)-W & NW
+Animas Valley	border	Guadalupe Mountains
+Animas Valley	border	-
+Antelope Valley	border	Augusta Mountains-W
+Antelope Valley	border	Fish Creek Mountains-N
+Antelope Valley	border	New Pass Range-SW
+Antelope Valley	border	Ravenswood Mountain-SE
+Antelope Valley	border	-Shoshone Range-E
+Goshute Valley	border	N: TBD
+Goshute Valley	border	E: Toano Range
+Goshute Valley	border	SW: Cherry Creek Range
+Goshute Valley	border	SE: Antelope Valley
+Goshute Valley	border	SE: Dolly Varden Mountains
+Goshute Valley	border	SE: Currie Hills
+Goshute Valley	border	S: Steptoe Valley
+Goshute Valley	border	SW & W: Pequop Mountains
+Three Lakes Valley	border	Pintwater Range-W
+Three Lakes Valley	border	East Desert Range-NE
+Three Lakes Valley	border	Desert Range-SE
+Three Lakes Valley	border	Las Vegas Valley-S & SW
+Three Lakes Valley	border	Spring Mountains-S & SW
+Antelope Valley	border	Dolly Varden Mountains-W & NW
+Antelope Valley	border	Goshute Mountains- & E
+Antelope Valley	border	Kern Mountains-SE
+Antelope Valley	border	Spring Valley (Nevada)-SSW
+Antelope Valley	border	Antelope Range-SW
+Pahute Mesa	border	Gold Flat-NE
+Pahute Mesa	border	Pahute Mesa (test region)-SE
+Pahute Mesa	border	Eleana Range-SE
+Pahute Mesa	border	Bare Mountain (Nevada)-SSE
+Pahute Mesa	border	Sarcobatus Flat-SW & S
+Pahute Mesa	border	Bullfrog Hills-SSW
+Carson Desert	border	N: Humboldt Basin
+Carson Desert	border	E: Central Nevada Desert Basins
+Carson Desert	border	S: Walker River Basin
+Carson Desert	border	W: Middle Carson Watershed
+Carson Desert	border	NW: northern Lahontan subregion
+Sevier Desert	border	Ferguson Desert-W
+Sevier Desert	border	Great Salt Lake Desert-NW & NNW
+Sevier Desert	border	Gilson & Canyon Mountains, and
+Sevier Desert	border	Pavant Range-E
+Sevier Desert	border	Escalante Desert-SW
+Lake Valley	border	Schell Creek Range-W
+Lake Valley	border	Fortification Range-NE
+Lake Valley	border	Wilson Creek Range-E & SE
+Lake Valley	border	Fairview Range-SW & SSW
+Lake Valley	border	Bristol Range-SSW
+Indian Springs Pass	border	Pahrump Valley-S
+Indian Springs Pass	border	Spring Mountains-SSE
+Indian Springs Pass	border	Indian Springs Valley-N
+Indian Springs Pass	border	-Pintwater Range-ENE
+Indian Springs Pass	border	Three Lakes Valley-NE
+Indian Springs Pass	border	-Las Vegas Valley-ESE
+Antelope Valley	border	Burbank Hills-NW
+Antelope Valley	border	Ferguson Desert-NE
+Antelope Valley	border	Tunnel Springs Mountains-SE
+Antelope Valley	border	Desert Range Experimental Station-SE
+Antelope Valley	border	Mountain Home Range-SW
+Simpson Park	border	W: Toiyabe Range
+Simpson Park	border	E: Simpson Park Mountains
+Las Vegas Valley	border	Spring Mountains-NW, W & SW
+Las Vegas Valley	border	Bird Spring Range-SW
+Las Vegas Valley	border	Las Vegas Range-N
+Las Vegas Valley	border	Lake Mead-ENE & NE
+Las Vegas Valley	border	McCullough Range-SE
+Las Vegas Valley	border	Ivanpah Valley-SSW
+Cactus Flat	border	W: Cactus Range
+Cactus Flat	border	E: Kawich Range
+Hamlin Valley	border	Mountain Home Range–NE & E
+Hamlin Valley	border	Indian Peak Range–E, SE & S
+Hamlin Valley	border	Needle Mountains–SSW
+Hamlin Valley	border	White Rock Mountains–SW
+Hamlin Valley	border	Limestone Hills–W
+Hamlin Valley	border	Snake Range-NNW
+Hamlin Valley	border	Snake Valley–NNE
+Chino Valley	border	North
+Chino Valley	border	Aubrey Valley & Cliffs-W
+Chino Valley	border	-Coconino Plateau-NE & E
+Chino Valley	border	South
+Chino Valley	border	Juniper Mountains-W & SW
+Chino Valley	border	Santa Maria Mountains-SW
+Chino Valley	border	Williamson Valley-S
+Chino Valley	border	Big Black Mesa-NW
+Chino Valley	border	Black Hills (Yavapai County)-NE, E & SE
+Hachita Valley	border	Howell's Ridge-NNW
+Hachita Valley	border	Little Hatchet Mountains-W & NW
+Hachita Valley	border	Big Hatchet Mountains-SW
+Hachita Valley	border	Apache Hills-E & SE
+Hachita Valley	border	Chihuahua state, Mexico-SSE
+Willamette Valley	border	Cascade Range
+Willamette Valley	border	Oregon Coast Range
+Willamette Valley	border	Calapooya Mountains
+Curlew Valley	border	Great Salt Lake-S
+Curlew Valley	border	Raft River Mountains-W
+Curlew Valley	border	Curlew National Grassland-NNE
+Curlew Valley	border	Hansel Mountains-E & SE
+Curlew Valley	border	Locomotive Springs Wildlife Management Area
+Curlew Valley	border	Management Area-SSW
+Blue Creek Valley	border	Pocatello Valley--N
+Blue Creek Valley	border	West Hills-NE & E
+Blue Creek Valley	border	Blue Spring Hills-SE
+Blue Creek Valley	border	Promontory Mountains-S
+Blue Creek Valley	border	North Promontory Mountains-W
+Blue Creek Valley	border	North Hansel Mountains--NW
+Goshen Valley	border	Utah Lake-N & NE
+Goshen Valley	border	West Mountain-NE
+Goshen Valley	border	Juab Valley-SSE
+Goshen Valley	border	East Tintic Mtns-W & SW
+Juab Valley	border	East Tintic Mountains-W & NW
+Juab Valley	border	Goshen Valley-NNW
+Juab Valley	border	West Mountain (Utah)-N
+Juab Valley	border	Utah Valley-NNE
+Juab Valley	border	Wasatch Range-NE
+Juab Valley	border	& E
+Juab Valley	border	San Pitch Mountains-E-
+Juab Valley	border	Valley Mountains-S
+Juab Valley	border	Sevier River
+Juab Valley	border	& Little Valley-SW
+Juab Valley	border	Yuba State Park-SW
+Juab Valley	border	West Hills -W-
+Skull Valley	border	Cedar Mountains—W
+Skull Valley	border	Lakeside Mountains—NNW
+Skull Valley	border	Stansbury Bay, Great Salt
+Skull Valley	border	Lake—NE
+Skull Valley	border	Stansbury Mountains—E
+Skull Valley	border	Onaqui Mountains—SSE
+Skull Valley	border	Dugway, —S
+Skull Valley	border	Great Salt Lake Desert—SW
+Deep Creek Valley	border	Great Salt Lake Desert-NNE
+Deep Creek Valley	border	Gold Hill, Utah--NE
+Deep Creek Valley	border	Deep Creek Mountains-E, S, & SW
+Deep Creek Valley	border	Antelope Valley-W
+Deep Creek Valley	border	Ferber Hills-NW
+Clover Valley	border	East Humboldt Range-W
+Clover Valley	border	Wells, NV-N
+Clover Valley	border	Wood Hills-NE
+Clover Valley	border	Independence Valley-ESE
+Clover Valley	border	Spruce Mountain (Nevada)-SSE
+Clover Valley	border	U.S. 93 & Valley Mountain-SSW
+Buena Vista Valley	border	Humboldt Range-W
+Buena Vista Valley	border	East Range-E
+Buena Vista Valley	border	Stillwater Range-S
+Grass Valley	border	East Range-W & SW
+Grass Valley	border	Winnemucca, Nevada-N
+Grass Valley	border	Sonoma Range-ENE & E
+Grass Valley	border	Tobin Range-SE
+Cedar Valley	border	Iron Springs, Utah
+Cedar Valley	border	and hills-W
+Cedar Valley	border	Escalante Desert-WNW & NW
+Cedar Valley	border	Black Mountains (Utah)-N & NE
+Cedar Valley	border	Cedar Mountains
+Cedar Valley	border	County)-E & SE
+Hurricane Cliffs	border	Interstate 15-W & NW
+Beaver Valley	border	Mineral Mountains-W & N
+Beaver Valley	border	Tushar Mountains-E
+Beaver Valley	border	Black Mountains (Utah)-S
+Pine Valley	border	Antelope Valley (Millard County)-NW
+Pine Valley	border	Tunnel Springs Mountains-NNW
+Pine Valley	border	Ferguson Desert-N
+Pine Valley	border	Confusion Range-ENE
+Pine Valley	border	Wah Wah Mountains-NE, E & SE
+Pine Valley	border	Indian Peak Range-SW & SSW
+Pine Valley	border	Mountain Home Range-W & SW
+Kanab Plateau	border	Antelope Valley-W
+Kanab Plateau	border	Vermilion Cliffs & Kanab, UT-N
+Kanab Plateau	border	Kaibab Plateau-E
+Kanab Plateau	border	Snake Gulch-SE
+Kanab Plateau	border	Kanab Creek-S
+Kanab Plateau	border	Kanab Creek Wilderness-S & SE
+Kanab Plateau	border	Colorado River & Grand Canyon-S
+Chinle Valley	border	Black Mesa-W
+Chinle Valley	border	Monument Valley-NW
+Chinle Valley	border	Carrizo Mountains-E
+Chinle Valley	border	Lukachukai Mountains-SE
+Chinle Valley	border	Chuska Mountains-SSE
+Chinle Valley	border	Canyon de Chelly
+Chinle Valley	border	Defiance Plateau-S & SSE
+Defiance Plateau	border	Black Mesa-NW
+Defiance Plateau	border	Chinle Valley & Creek-N
+Defiance Plateau	border	Lukachukai Mountains
+Defiance Plateau	border	Red Rock Valley
+Defiance Plateau	border	New Mexico)-NNE
+Defiance Plateau	border	Chuska Mountains-E & SE
+Defiance Plateau	border	Puerco River-S & SE
+Defiance Plateau	border	Painted Desert-SW, W, & WNW
+Bitter Spring Valley	border	Muddy Mountains-W, NW & N
+Bitter Spring Valley	border	Lake Mead--E
+Bitter Spring Valley	border	Black Mountains
+Bitter Spring Valley	border	& Lake Mead-S
+Aubrey Valley	border	Laguna Valley-N
+Aubrey Valley	border	Aubrey Cliffs-E & SE
+Aubrey Valley	border	Juniper Mountains-S
+Aubrey Valley	border	Seventyfour Plains-SW
+Aubrey Valley	border	Yampai Divide-SW
+Aubrey Valley	border	Blue Mountain region-W
+Sind Valley	border	Zojila
+Sind Valley	border	Kashmir Valley
+Lidder Valley	border	Sind Valley
+Lidder Valley	border	Kashmir Valley
+Lolab Valley	border	Neelum River
+Lolab Valley	border	Kashmir Valley
+Shimōsa Plateau	border	Tone River-N
+Shimōsa Plateau	border	Kujūkuri Beach and Pacific Ocean-E
+Shimōsa Plateau	border	Bōsō Hill Range-S
+Shimōsa Plateau	border	Edo River-W
+Betaab Valley	border	Sind Valley
+Betaab Valley	border	Lidder Valley
+Long Valley	border	Hays Canyon Range-N & W
+Nellis Air Force Base Complex	border	SW: R-2508 Special Use Airspace Complex
+Nellis Air Force Base Complex	border	NW: Fallon Range Training Complex
+Nellis Air Force Base Complex	border	NE: Utah Test and Training Range
+Nellis Air Force Base Complex	border	SE: Barry Goldwater Range
+Catlow Valley	border	Hart Mountain
+Catlow Valley	border	Steens Mountain/Catlow Rim
+Cienega Valley	border	Rincon Mountains-N
+Cienega Valley	border	Empire Mountains-NW
+Cienega Valley	border	Whetstone Mountains-E
+Cienega Valley	border	Canelo Hills-S
+Cienega Valley	border	Mustang Mountains-SE
+Cienega Valley	border	Santa Rita Mountains-W
+Nevada)	border	Black Canyon of the Colorado-N
+Nevada)	border	Black Mountains (Arizona)-NE, E, & SE
+Nevada)	border	Newberry Mountains (Nevada)-SW
+Nevada)	border	Searchlight, Nevada
+Nevada)	border	Eldorado Mountains-NW
+Rice Valley	border	Little Maria Mountains-SW
+Rice Valley	border	Arica Mountains-W
+Rice Valley	border	Danby Dry Lake &
+Rice Valley	border	Ward Valley (California)-NNW
+Rice Valley	border	Turtle Mountains CA-N
+Rice Valley	border	West Riverside Mountains-NE & E
+Rice Valley	border	\
+Rice Valley	border	Big Maria Mountains-SE & S
+Ward Valley	border	Old Woman Mountains-W
+Ward Valley	border	Piute Mountains-W & NW
+Ward Valley	border	Sacramento Wash (California)-N
+Ward Valley	border	Bigelow Cholla Garden Wilderness-NE
+Ward Valley	border	Sacramento Mountains (California)-ENE
+Ward Valley	border	Stepladder Mountains-E
+Ward Valley	border	Turtle Mountains (California)-E & SE
+Ward Valley	border	Rice Valley & Arica Mountains-SSE
+Ward Valley	border	Granite Mountains (California)-S & SSW
+Ward Valley	border	Iron Mountains (California)-SW
+Ward Valley	border	Cadiz Dunes Wilderness-SW & W
+Sacramento Wash	border	New York Mountains-NW
+Sacramento Wash	border	Castle Mountains-N
+Sacramento Wash	border	Piute Range-E
+Sacramento Wash	border	Bigelow Cholla Garden Wilderness-S & SE
+Sacramento Wash	border	-Piute Mountains-S
+Sacramento Wash	border	-Fenner Valley
+Sacramento Wash	border	Woods Mountains
+Sacramento Wash	border	Vontrigger Hills
+Sacramento Wash	border	Hills-W
+Detrital Valley	border	Black Mountains (Arizona)-SW, W & NW
+Detrital Valley	border	Lake Mead-N
+Detrital Valley	border	White Hills (Arizona)-NNE, E & SE
+Detrital Valley	border	Cerbat Mountains-SSE
+Detrital Valley	border	Sacramento Valley (Arizona)-S
+Chuckwalla Valley	border	Palen Lake & Palen Valley-NNW
+Chuckwalla Valley	border	Palen Mountains-N
+Chuckwalla Valley	border	McCoy Mountains-NE
+Chuckwalla Valley	border	Palo Verde Mesa &
+Chuckwalla Valley	border	Palo Verde Valley-E
+Chuckwalla Valley	border	Little Chuckwalla Mountains
+Chuckwalla Valley	border	Mule Mountains-SE
+Chuckwalla Valley	border	Chuckwalla Mountains-SW & S
+Chuckwalla Valley	border	Eagle Mountains-W
+Chuckwalla Valley	border	Desert Lily Preserve
+Chuckwalla Valley	border	Coxcomb Mountains-NW
+Shivwits Plateau	border	Hurricane Cliffs-E
+Shivwits Plateau	border	Colorado River & Aubrey Cliffs-E & SE
+Shivwits Plateau	border	Colorado River & Peach Springs Rd
+Shivwits Plateau	border	from Peach Springs, Arizona-S
+Shivwits Plateau	border	-
+Shivwits Plateau	border	Colorado River & -
+Shivwits Plateau	border	Hualapai Indian Reservation-SW
+Shivwits Plateau	border	Grand Wash Cliffs-W & NW
+Shivwits Plateau	border	Grand Wash Cliffs Wilderness-WNW
+Shivwits Plateau	border	Virgin Mountains-NNW
+Shivwits Plateau	border	Black Rock Mountain
+Shivwits Plateau	border	Paiute Wilderness
+Shivwits Plateau	border	Wilderness-N
+Grand Wash Cliffs	border	Basin and Range-NW, W & SW
+Grand Wash Cliffs	border	Hualapai Plateau -E & SE
+Grand Wash Cliffs	border	Grand Canyon-Parashant National Monument
+Grand Wash Cliffs	border	Monument-NE & E

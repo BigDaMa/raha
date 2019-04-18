@@ -1,0 +1,310 @@
+Algeria	timeZone	Central European Time
+Andorra	timeZone	Central European Time
+Aruba	timeZone	Atlantic Standard Time
+Angola	timeZone	West Africa Time
+Albania	timeZone	Central European Time
+Azerbaijan	timeZone	AZT
+Antigua and Barbuda	timeZone	Atlantic Time Zone
+Belgium	timeZone	Central European Time
+Brazil	timeZone	Time in Brazil
+Bulgaria	timeZone	Eastern European Time
+The Bahamas	timeZone	Eastern Time Zone
+Bangladesh	timeZone	Bangladesh Standard Time
+Barbados	timeZone	Eastern Caribbean Time Zone
+Benin	timeZone	West Africa Time
+Belize	timeZone	Central Time Zone
+Belarus	timeZone	Further-eastern European Time
+Bolivia	timeZone	UTC−4:00
+Brunei	timeZone	Time in Brunei
+Bermuda	timeZone	Atlantic Standard Time Zone
+Bosnia and Herzegovina	timeZone	Central European Time
+Burkina Faso	timeZone	GMT
+British Virgin Islands	timeZone	Atlantic Standard Time
+Colombia	timeZone	Time in Colombia
+Czech Republic	timeZone	Central European Time
+Comoros	timeZone	East Africa Time
+China	timeZone	China Standard Time
+Cameroon	timeZone	West Africa Time
+Cayman Islands	timeZone	Eastern Time Zone
+Central African Republic	timeZone	West Africa Time
+Chad	timeZone	West Africa Time
+Chile	timeZone	Time in Chile
+Chile	timeZone	c
+Costa Rica	timeZone	Central Time Zone
+Croatia	timeZone	Central European Time
+Cyprus	timeZone	Eastern European Time
+Ecuador	timeZone	ECTGALT
+European Union	timeZone	WET
+European Union	timeZone	Central European Time
+European Union	timeZone	EET
+El Salvador	timeZone	Central Time Zone
+Equatorial Guinea	timeZone	West Africa Time
+European Free Trade Association	timeZone	Western European Time
+European Free Trade Association	timeZone	Central European Time
+Finland	timeZone	Eastern European Time
+Guam	timeZone	Chamorro Standard Time
+Gabon	timeZone	West Africa Time
+Ghana	timeZone	GMT
+Greece	timeZone	Eastern European Time
+Guinea	timeZone	Greenwich Mean Time
+Guinea-Bissau	timeZone	GMT
+Guernsey	timeZone	GMT
+Hungary	timeZone	Central European Time
+Honduras	timeZone	Central Time Zone
+Haiti	timeZone	Eastern Time Zone
+Iceland	timeZone	Western European Time
+Italy	timeZone	Central European Time
+Republic of Ireland	timeZone	Greenwich Mean Time
+Republic of Ireland	timeZone	Western European Time
+India	timeZone	Indian Standard Time
+Indonesia	timeZone	Time in Indonesia
+Iran	timeZone	Iran Standard Time
+Isle of Man	timeZone	GMT
+Japan	timeZone	Japan Standard Time
+Jersey	timeZone	GMTe
+Kazakhstan	timeZone	Time in Kazakhstan
+Kosovo	timeZone	Central European Time
+Luxembourg	timeZone	Central European Time
+Latvia	timeZone	Eastern European Time
+Libya	timeZone	Eastern European Time
+Lithuania	timeZone	Eastern European Time
+Laos	timeZone	UTC+07:00
+Lebanon	timeZone	Eastern European Time
+Lesotho	timeZone	South African Standard Time
+Liberia	timeZone	Greenwich Mean Time
+Liechtenstein	timeZone	Central European Time
+Madagascar	timeZone	East Africa Time
+Macau	timeZone	Macau Standard Time
+Malawi	timeZone	Central Africa Time
+Mali	timeZone	Greenwich Mean Time
+Maldives	timeZone	Time in the Maldives
+Malta	timeZone	Central European Time
+Mauritius	timeZone	Mauritius Time
+Moldova	timeZone	Eastern European Time
+Monaco	timeZone	Central European Time
+Morocco	timeZone	Western European Time
+Mozambique	timeZone	Central Africa Time
+Myanmar	timeZone	Myanmar Standard Time
+Montenegro	timeZone	Central European Time
+Netherlands	timeZone	CET
+Netherlands	timeZone	Atlantic Standard Time
+Norway	timeZone	Central European Time
+North Korea	timeZone	Pyongyang Time
+Namibia	timeZone	West Africa Time
+New Caledonia	timeZone	UTC+11
+Nicaragua	timeZone	Central Time Zone
+Niger	timeZone	West Africa Time
+Nigeria	timeZone	West Africa Time
+Northern Mariana Islands	timeZone	Chamorro Time Zone
+Oman	timeZone	Gulf Standard Time
+Papua New Guinea	timeZone	Australian Eastern Standard Time
+Poland	timeZone	Central European Time
+Panama	timeZone	Eastern Time
+Puerto Rico	timeZone	Atlantic Time Zone
+Portugal	timeZone	Western European Time
+Portugal	timeZone	Azores
+Pakistan	timeZone	Pakistan Standard Time
+Paraguay	timeZone	UTC–4
+Philippines	timeZone	Philippine Standard Time
+Pitcairn Islands	timeZone	UTC-8
+Palestinian National Authority	timeZone	Eastern European Time
+Romania	timeZone	Eastern European Time
+Rwanda	timeZone	Central Africa Time
+Taiwan	timeZone	National Standard Time
+Spain	timeZone	Central European Time
+Spain	timeZone	Western European Time
+Sri Lanka	timeZone	Sri Lanka Standard Time
+Switzerland	timeZone	Central European Time
+Slovakia	timeZone	Central European Time
+Saint Helena	timeZone	Greenwich Mean Time
+South Korea	timeZone	Korea Standard Time
+Samoa	timeZone	780.0
+San Marino	timeZone	Central European Time
+Senegal	timeZone	Greenwich Mean Time
+Seychelles	timeZone	Seychelles Time
+Sierra Leone	timeZone	Greenwich Mean Time
+Singapore	timeZone	Singapore Standard Time
+Somalia	timeZone	East Africa Time
+Slovenia	timeZone	Central European Time
+South Georgia and the South Sandwich Islands	timeZone	UTC−2:00
+Sudan	timeZone	East Africa Time
+Svalbard	timeZone	Central European Time
+Swaziland	timeZone	South African Standard Time
+Savoy	timeZone	Central European Time
+Principality of Sealand	timeZone	Greenwich Mean Time
+Serbia	timeZone	Central European Time
+Tajikistan	timeZone	Tajikistan Time
+Tanzania	timeZone	East Africa Time
+Thailand	timeZone	UTC+07:00
+Togo	timeZone	Greenwich Mean Time
+Tunisia	timeZone	Central European Time
+Turks and Caicos Islands	timeZone	Atlantic time zone
+Tristan da Cunha	timeZone	Greenwich Mean Time
+United Kingdom	timeZone	Greenwich Mean Time
+Ukraine	timeZone	Eastern European Time
+Uruguay	timeZone	Montevideo
+Uzbekistan	timeZone	Uzbekistan Time
+United States Virgin Islands	timeZone	Atlantic Standard Time
+Venezuela	timeZone	Time in Venezuela
+Vatican City	timeZone	Central European Time
+Zimbabwe	timeZone	Central Africa Time
+Zanzibar	timeZone	East Africa Time
+Zambia	timeZone	Central Africa Time
+Adjara	timeZone	UTC
+Somaliland	timeZone	East Africa Time
+Ivory Coast	timeZone	Greenwich Mean Time
+Curaçao	timeZone	Atlantic Standard Time
+The Gambia	timeZone	Greenwich Mean Time
+United Arab Emirates	timeZone	Gulf Standard Time
+Herm	timeZone	GMT
+Tooele County, Utah	timeZone	Mountain Time Zone
+Democratic Republic of the Congo	timeZone	WAT and CAT
+Denmark	timeZone	Central European Time
+Hawaii County, Hawaii	timeZone	Hawaii
+Kalawao County, Hawaii	timeZone	Hawaii
+Maui County, Hawaii	timeZone	Hawaii
+Kauai County, Hawaii	timeZone	Hawaii
+Aleutians East Borough, Alaska	timeZone	Alaska
+Bristol Bay Borough, Alaska	timeZone	Alaska
+Haines Borough, Alaska	timeZone	Alaska
+Ketchikan Gateway Borough, Alaska	timeZone	Alaska
+Fairbanks North Star Borough, Alaska	timeZone	Alaska
+Denali Borough, Alaska	timeZone	Alaska
+Kenai Peninsula Borough, Alaska	timeZone	Alaska
+Kodiak Island Borough, Alaska	timeZone	Alaska
+Matanuska-Susitna Borough, Alaska	timeZone	Alaska
+Petersburg Borough, Alaska	timeZone	Alaska
+Lake and Peninsula Borough, Alaska	timeZone	Alaska
+Northwest Arctic Borough, Alaska	timeZone	Alaska
+North Slope Borough, Alaska	timeZone	Alaska
+Pierce County, Washington	timeZone	Pacific
+King County, Washington	timeZone	Pacific
+Sark	timeZone	GMT
+Oklahoma County, Oklahoma	timeZone	Central
+Cleveland County, Oklahoma	timeZone	Central
+Knox County, Nebraska	timeZone	Central
+Merrick County, Nebraska	timeZone	Central
+Perry County, Missouri	timeZone	Central
+Barton County, Missouri	timeZone	Central
+Koochiching County, Minnesota	timeZone	Central
+Presque Isle County, Michigan	timeZone	Eastern Time Zone
+Shawnee County, Kansas	timeZone	Central
+Atchison County, Kansas	timeZone	Central
+Anderson County, Kansas	timeZone	Central
+Bond County, Illinois	timeZone	Central
+Palestinian territories	timeZone	Eastern European Time
+Association of Southeast Asian Nations	timeZone	ASEAN Common Time
+Ross Dependency	timeZone	Time in New Zealand
+Principality of Hutt River	timeZone	480.0
+Kyrgyzstan	timeZone	Kyrgyzstan Time
+Peru	timeZone	Time in Peru
+Nepal	timeZone	Nepal Standard Time
+Alderney	timeZone	GMT
+Vojvodina	timeZone	Central European Time
+Anjouan	timeZone	East Africa Time
+Ethiopia	timeZone	East Africa Time
+Kenya	timeZone	East Africa Time
+Vietnam	timeZone	Indochina Time
+Puntland	timeZone	East Africa Time
+State of Palestine	timeZone	Eastern European Time
+Freetown Christiania	timeZone	UTC+1
+South Ossetia	timeZone	Moscow Time
+Republika Srpska	timeZone	Central European Time
+Saudi Arabia	timeZone	Arabia Standard Time
+Yemen	timeZone	Arabia Standard Time
+Herzegovina-Neretva Canton	timeZone	Central European Time
+Transnistria	timeZone	Eastern European Time
+Bailiwick of Guernsey	timeZone	GMT
+Federation of Bosnia and Herzegovina	timeZone	Central European Time
+Nakhchivan Autonomous Republic	timeZone	Azerbaijan Time
+Posavina Canton	timeZone	Central European Time
+Canton 10	timeZone	Central European Time
+Iraqi Kurdistan	timeZone	GMT
+Una-Sana Canton	timeZone	Central European Time
+West Herzegovina Canton	timeZone	Central European Time
+Central Bosnia Canton	timeZone	Central European Time
+Mohéli	timeZone	East Africa Time
+Grande Comore	timeZone	East Africa Time
+Nagorno-Karabakh Republic	timeZone	Armenia Time
+Akrotiri and Dhekelia	timeZone	Eastern European Time
+Twente	timeZone	GMT+1
+Wa State	timeZone	Myanmar Standard Time
+Bhutan	timeZone	Bhutan Time
+Unorganized Borough, Alaska	timeZone	Alaska
+Trinidad and Tobago	timeZone	Atlantic Standard Time
+Malaysia	timeZone	Malaysian Standard Time
+Mexico	timeZone	See Time in Mexico
+Îles des Saintes	timeZone	Atlantic Standard Time
+Australia	timeZone	Time in Australia
+New Zealand	timeZone	NZST
+Cuba	timeZone	Cuba Time
+Sweden	timeZone	Central European Time
+Republic of Molossia	timeZone	Molossian Standard Time
+Republic of Molossia	timeZone	Molossian Daylight Time
+Syria	timeZone	Eastern European Time
+Kuwait	timeZone	Arabia Standard Time
+Iraq	timeZone	Arabia Standard Time
+Jordan	timeZone	Eastern European Time
+Falkland Islands	timeZone	FKST
+Gibraltar	timeZone	Central European Time
+Egypt	timeZone	Eastern European Time
+Republic of Saugeais	timeZone	Central European Time
+Qatar	timeZone	Arabia Standard Time
+Galmudug	timeZone	East Africa Time
+Talossa	timeZone	TST
+Israel	timeZone	Israel Standard Time
+Sint Maarten	timeZone	Atlantic Standard Time
+Third Hellenic Republic	timeZone	Eastern European Time
+Armenia	timeZone	Armenia Time
+Gold Coast	timeZone	GMT
+Danish Realm	timeZone	CET a
+Danish Realm	timeZone	Western European Time
+Danish Realm	timeZone	Time in Denmark
+Danish Realm	timeZone	West Greenland Time
+Dominica	timeZone	Eastern Caribbean Time Zone
+Autonomous Province of Kosovo and Metohija	timeZone	Central European Time
+Djibouti	timeZone	East Africa Time
+Faroe Islands	timeZone	Western European Time
+Eritrea	timeZone	East Africa Time
+Guatemala	timeZone	Central Time Zone
+South Africa	timeZone	South African Standard Time
+Grand Duchy of the Lagoan Isles	timeZone	Greenwich Mean Time
+Akhzivland	timeZone	Israel Standard Time
+Mauritania	timeZone	Greenwich Mean Time
+Bahrain	timeZone	Arabia Standard Time
+Kingdom of the Netherlands	timeZone	Central European Time
+Kingdom of the Netherlands	timeZone	Atlantic Standard Time
+Argentina	timeZone	Time in Argentina
+Ascension Island	timeZone	Greenwich Mean Time
+Cape Verde	timeZone	Cape Verde Time
+Republic of the Congo	timeZone	West Africa Time
+Cabeça do Cachorro	timeZone	UTC-4
+São Tomé and Príncipe	timeZone	Greenwich Mean Time
+Kingdom of Wallachia	timeZone	Central European Time
+Subanon people	timeZone	Philippine Standard Time
+Burundi	timeZone	Central Africa Time
+Republic of Macedonia	timeZone	Central European Time
+Seneca Nation of Indians	timeZone	North American Eastern Time Zone
+Åland Islands	timeZone	Eastern European Time
+Saint Helena, Ascension and Tristan da Cunha	timeZone	Greenwich Mean Time
+Zhedna	timeZone	Eastern European Time
+Austria	timeZone	Central European Time
+Estonia	timeZone	Eastern European Time
+Principality of Wy	timeZone	600.0
+Awdalland	timeZone	East Africa Time
+Saint Barthélemy	timeZone	Atlantic Standard Time
+Mohegan Indian Tribe	timeZone	North American Eastern Time Zone
+Khatumo State	timeZone	East Africa Time
+South Sudan	timeZone	East Africa Time
+Grand Duchy of Flandrensis	timeZone	Greenwich Mean Time
+Himan and Heeb	timeZone	East Africa Time
+Jubaland	timeZone	East Africa Time
+Sahrawi Arab Democratic Republic	timeZone	Coordinated Universal Time
+Zeila & Lughaya State	timeZone	East Africa Time
+Murrawarri Republic	timeZone	480.0
+Donetsk People's Republic	timeZone	Moscow Time
+Luhansk People's Republic	timeZone	Moscow Time
+Central Regions State	timeZone	East Africa Time
+ISIL territorial claims	timeZone	Eastern European Time
+Kingdom of Dagbon	timeZone	GMT
+Princedom of Ongal	timeZone	Central European Time

@@ -1,0 +1,977 @@
+Columbia River	watershedImperial	258000
+Detroit River	watershedImperial	700
+Mississippi River	watershedImperial	1151000
+Missouri River	watershedImperial	529350
+Ohio River	watershedImperial	189422
+Puget Sound	watershedImperial	12138
+Sabine River	watershedImperial	9756
+Snake River	watershedImperial	107510
+Sacramento River	watershedImperial	27580
+Rio Grande	watershedImperial	182200
+Hudson River	watershedImperial	14000
+Delaware River	watershedImperial	14119
+Yakima River	watershedImperial	6150
+River Parrett	watershedImperial	643
+Potomac River	watershedImperial	14700
+Chesapeake Bay	watershedImperial	64299
+Illinois River	watershedImperial	28070
+Willamette River	watershedImperial	11478
+River Shannon	watershedImperial	6060
+Milk River	watershedImperial	23800
+River Waveney	watershedImperial	339
+Charles River	watershedImperial	308
+River Nene	watershedImperial	631
+Red River of the North	watershedImperial	111004
+Kansas River	watershedImperial	60114
+Republican River	watershedImperial	24900
+Smoky Hill River	watershedImperial	19260
+Merrimack River	watershedImperial	4635
+Los Angeles River	watershedImperial	827
+Colorado River	watershedImperial	246000
+Colorado River	watershedImperial	39900
+Altamaha River	watershedImperial	14000
+Red River of the South	watershedImperial	65595
+Pecos River	watershedImperial	44402
+Monongahela River	watershedImperial	7340
+Muskegon River	watershedImperial	2350
+James River	watershedImperial	10432
+Susquehanna River	watershedImperial	27500
+Raritan River	watershedImperial	1100
+Savannah River	watershedImperial	9850
+River Medway	watershedImperial	930
+Mojave River	watershedImperial	4580
+Connecticut River	watershedImperial	11250
+Minnesota River	watershedImperial	17000
+Santiam River	watershedImperial	1830
+Arkansas River	watershedImperial	168002
+Platte River	watershedImperial	84910
+Chattahoochee River	watershedImperial	8770
+Mohawk River	watershedImperial	3412
+San Joaquin River	watershedImperial	31800
+River Arun	watershedImperial	376
+Tennessee River	watershedImperial	40876
+Patuxent River	watershedImperial	927
+Chehalis River	watershedImperial	2660
+Cowlitz River	watershedImperial	2586
+White River	watershedImperial	27765
+Deschutes River	watershedImperial	10500
+Meramec River	watershedImperial	3980
+Wenatchee River	watershedImperial	1333
+Bruneau River	watershedImperial	3305
+Kings River	watershedImperial	1693
+Tanana River	watershedImperial	44000
+Tongue River	watershedImperial	5397
+Little Colorado River	watershedImperial	26500
+Molalla River	watershedImperial	874
+Pudding River	watershedImperial	528
+St. Johns River	watershedImperial	8840
+Genesee River	watershedImperial	2500
+Des Moines River	watershedImperial	14802
+Mystic River	watershedImperial	76
+Schuylkill River	watershedImperial	2000
+Chenango River	watershedImperial	1582
+Housatonic River	watershedImperial	1948
+Santa Clara River	watershedImperial	1600
+Rogue River	watershedImperial	234
+Klamath River	watershedImperial	15688
+Merced River	watershedImperial	1726
+Tuolumne River	watershedImperial	1958
+Rogue River	watershedImperial	5156
+Bighorn River	watershedImperial	22885
+Yellowstone River	watershedImperial	70000
+Red Cedar River	watershedImperial	472
+North Platte River	watershedImperial	30900
+Green River	watershedImperial	440
+Green River	watershedImperial	48100
+Little Missouri River	watershedImperial	8310
+Fox River	watershedImperial	6429
+Jordan River	watershedImperial	791
+Tualatin River	watershedImperial	712
+Flat River	watershedImperial	560
+Powder River	watershedImperial	21875
+Hoosic River	watershedImperial	720
+Thornton Creek	watershedImperial	12.1
+Gila River	watershedImperial	58200
+San Juan River	watershedImperial	24600
+Gunnison River	watershedImperial	7928
+Virgin River	watershedImperial	12250
+Wissahickon Creek	watershedImperial	64
+Yampa River	watershedImperial	7660
+Dolores River	watershedImperial	4574
+Fryingpan River	watershedImperial	237
+Roaring Fork River	watershedImperial	1453
+Blue River	watershedImperial	680
+White River	watershedImperial	5120
+Uncompahgre River	watershedImperial	1114
+Sweetwater River	watershedImperial	2880
+Tonawanda Creek	watershedImperial	650
+Aroostook River	watershedImperial	2442.7
+Beaverhead River	watershedImperial	4778
+Jefferson River	watershedImperial	9532
+Sun River	watershedImperial	1875
+Heart River	watershedImperial	3370
+White River	watershedImperial	10200
+Niobrara River	watershedImperial	11580
+Keya Paha River	watershedImperial	1710
+Laramie River	watershedImperial	4564
+Souris River	watershedImperial	23600
+Bronx River	watershedImperial	38.4
+Little Tennessee River	watershedImperial	2627
+Cumberland River	watershedImperial	17728
+Walla Walla River	watershedImperial	1758
+Truckee River	watershedImperial	3060
+Sandy River	watershedImperial	508
+Passaic River	watershedImperial	935
+Cedar River	watershedImperial	184
+Haw River	watershedImperial	1707
+French Broad River	watershedImperial	5124
+James River	watershedImperial	20942
+Chemung River	watershedImperial	2506
+Kanawha River	watershedImperial	12236
+White River	watershedImperial	494
+Clackamas River	watershedImperial	940
+Canadian River	watershedImperial	47576
+Lehigh River	watershedImperial	1345
+Umpqua River	watershedImperial	4640
+Willimantic River	watershedImperial	225
+Juniata River	watershedImperial	3400
+Salmon River	watershedImperial	14000
+Wind River	watershedImperial	7730
+Deschutes River	watershedImperial	162
+Puyallup River	watershedImperial	948
+Lackawaxen River	watershedImperial	598
+Anacostia River	watershedImperial	176
+Maurice River	watershedImperial	386
+Salem River	watershedImperial	110
+Current River	watershedImperial	2641
+St. Francis River	watershedImperial	7550
+Christina River	watershedImperial	565
+Murderkill River	watershedImperial	106
+Appoquinimink River	watershedImperial	47
+Brandywine Creek	watershedImperial	300
+White Clay Creek	watershedImperial	107
+Mispillion River	watershedImperial	76
+St. Jones River	watershedImperial	36
+Broadkill River	watershedImperial	110
+Cohocton River	watershedImperial	474.3
+East Branch Delaware River	watershedImperial	828
+Beaver Kill	watershedImperial	300
+Neversink River	watershedImperial	435
+Hood River	watershedImperial	279
+Loup River	watershedImperial	15000
+Osage River	watershedImperial	15300
+Roanoke River	watershedImperial	9680
+Calapooia River	watershedImperial	374
+Marys River	watershedImperial	310
+Santa Ana River	watershedImperial	2650
+Youghiogheny River	watershedImperial	1715
+Yamhill River	watershedImperial	837
+Humboldt River	watershedImperial	16600
+Carson River	watershedImperial	3930
+Meadow Valley Wash	watershedImperial	2840
+Shenandoah River	watershedImperial	2937
+John Day River	watershedImperial	8000
+Pembina River	watershedImperial	3282
+Owyhee River	watershedImperial	11049
+McKenzie River	watershedImperial	1300
+Teton River	watershedImperial	1130
+Henrys Fork	watershedImperial	3212
+Clark Fork River	watershedImperial	22905
+Spokane River	watershedImperial	6020
+Pend Oreille River	watershedImperial	25792
+Okanogan River	watershedImperial	8200
+Malheur River	watershedImperial	4700
+Illinois River	watershedImperial	983
+Quinn River	watershedImperial	6720
+Coquille River	watershedImperial	1059
+Yaquina River	watershedImperial	252
+Elk River	watershedImperial	92
+Coos River	watershedImperial	730
+Smith River	watershedImperial	352
+Siletz River	watershedImperial	373
+Siuslaw River	watershedImperial	773
+North Yamhill River	watershedImperial	177
+Chetco River	watershedImperial	352
+South Yamhill River	watershedImperial	492
+Luckiamute River	watershedImperial	315
+Salmon River	watershedImperial	75
+Nestucca River	watershedImperial	255
+Alsea River	watershedImperial	466
+Sixes River	watershedImperial	134
+Grande Ronde River	watershedImperial	4130
+Long Tom River	watershedImperial	410
+Coast Fork Willamette River	watershedImperial	666
+Powder River	watershedImperial	1603
+White River	watershedImperial	409
+River Raisin	watershedImperial	1072
+Kuskokwim River	watershedImperial	48000
+Koyukuk River	watershedImperial	32000
+Matanuska River	watershedImperial	2100
+Appomattox River	watershedImperial	1344
+Wallowa River	watershedImperial	950
+Kankakee River	watershedImperial	5150
+West Branch Susquehanna River	watershedImperial	6847
+Black Warrior River	watershedImperial	6275
+Paria River	watershedImperial	1410
+Bear River	watershedImperial	7026
+Sevier River	watershedImperial	11574
+Weiser River	watershedImperial	1660
+Nooksack River	watershedImperial	786
+Holston River	watershedImperial	3776
+Montreal River	watershedImperial	270
+Trask River	watershedImperial	175
+Wilson River	watershedImperial	194
+Kilchis River	watershedImperial	65
+Miami River	watershedImperial	36.7
+Tillamook River	watershedImperial	61
+Walker River	watershedImperial	3134
+East Walker River	watershedImperial	1230
+West Walker River	watershedImperial	964
+Susan River	watershedImperial	1170
+Newaukum River	watershedImperial	173
+North Santiam River	watershedImperial	766
+Middle Santiam River	watershedImperial	104
+South Santiam River	watershedImperial	1040
+Pit River	watershedImperial	7064
+Kern River	watershedImperial	3612
+Feather River	watershedImperial	6113
+McCloud River	watershedImperial	673
+Napa River	watershedImperial	426
+Shasta River	watershedImperial	800
+Trinity River	watershedImperial	2853
+Rio Hondo	watershedImperial	143
+Amargosa River	watershedImperial	5500
+Owens River	watershedImperial	2604
+Eel River	watershedImperial	3684
+Tijuana River	watershedImperial	1750
+Santa Margarita River	watershedImperial	723
+Smith River	watershedImperial	719
+Williamson River	watershedImperial	3000
+Skookumchuck River	watershedImperial	181
+Sprague River	watershedImperial	1565
+Elwha River	watershedImperial	318
+Sycan River	watershedImperial	559
+Lost River	watershedImperial	3010
+Clearwater River	watershedImperial	61.5
+Nehalem River	watershedImperial	855
+Skagit River	watershedImperial	2656
+Sauk River	watershedImperial	714
+Queets River	watershedImperial	204
+Hoh River	watershedImperial	299
+Salmonberry River	watershedImperial	66
+Lewis and Clark River	watershedImperial	62
+Verde River	watershedImperial	6615
+Stillaguamish River	watershedImperial	700
+Necanicum River	watershedImperial	83.7
+Grays River	watershedImperial	124
+Nisqually River	watershedImperial	517
+North Umpqua River	watershedImperial	1356
+South Umpqua River	watershedImperial	1800
+Little River	watershedImperial	206
+Portneuf River	watershedImperial	1329
+Mohawk River	watershedImperial	180
+Lewis River	watershedImperial	1046
+Colville River	watershedImperial	20500
+Salinas River	watershedImperial	4160
+Conejos River	watershedImperial	887
+Boise River	watershedImperial	4100
+Hillsborough River	watershedImperial	740
+Coginchaug River	watershedImperial	39
+Tellico River	watershedImperial	285
+Calfkiller River	watershedImperial	175
+Little Pigeon River	watershedImperial	373
+Patapsco River	watershedImperial	632
+Allagash River	watershedImperial	1479
+Little River	watershedImperial	380
+Popple River	watershedImperial	148000
+Collins River	watershedImperial	811
+Rocky River	watershedImperial	111
+Emory River	watershedImperial	872
+Watauga River	watershedImperial	867.849
+Sequatchie River	watershedImperial	602
+Caney Fork River	watershedImperial	1771
+Obed River	watershedImperial	520
+Nolichucky River	watershedImperial	1744
+Chena River	watershedImperial	1980
+Cattaraugus Creek	watershedImperial	559
+Hiwassee River	watershedImperial	2700
+Clinch River	watershedImperial	4413
+Pigeon River	watershedImperial	704
+Sligo Creek	watershedImperial	11.6
+River Suir	watershedImperial	1394
+Tuscarawas River	watershedImperial	2590
+Kenai River	watershedImperial	2010
+Noatak River	watershedImperial	12600
+Oatka Creek	watershedImperial	215
+Nushagak River	watershedImperial	13400
+North Fork Toutle River	watershedImperial	302
+Cheat River	watershedImperial	1423
+Buffalo River	watershedImperial	447
+Black River	watershedImperial	1920
+Oswego River	watershedImperial	5122
+Monocacy River	watershedImperial	744
+Powell River	watershedImperial	954
+River Towy	watershedImperial	1335
+San Gabriel River	watershedImperial	713
+Farmington River	watershedImperial	602
+Breitenbush River	watershedImperial	108
+Choptank River	watershedImperial	1004
+Cahaba River	watershedImperial	1870
+Klickitat River	watershedImperial	1350
+Coosa River	watershedImperial	10100
+Snohomish River	watershedImperial	1856
+Skykomish River	watershedImperial	834
+Seneca River	watershedImperial	3468
+Cosumnes River	watershedImperial	724
+Kissimmee River	watershedImperial	3000
+Comal River	watershedImperial	130
+River Feale	watershedImperial	445.2
+Fremont River	watershedImperial	751
+Flathead River	watershedImperial	8795
+Bad River	watershedImperial	1061
+Chandalar River	watershedImperial	9330
+Fortymile River	watershedImperial	6600
+Gulkana River	watershedImperial	2140
+Androscoggin River	watershedImperial	3450
+Tlikakila River	watershedImperial	622
+Palouse River	watershedImperial	3303
+Yellow Medicine River	watershedImperial	665
+French Creek	watershedImperial	1270
+Coal Creek	watershedImperial	7.11
+Big Sandy River	watershedImperial	1988
+Cimarron River	watershedImperial	18950
+Redwood River	watershedImperial	705
+Arroyo Seco	watershedImperial	46.7
+North Fork Gunnison River	watershedImperial	741
+Lac qui Parle River	watershedImperial	1156
+Navarro River	watershedImperial	315
+Bitterroot River	watershedImperial	2814
+Payette River	watershedImperial	3240
+Washougal River	watershedImperial	212
+Eagle River	watershedImperial	181.7
+Chagres River	watershedImperial	1259.5
+Greenbrier River	watershedImperial	1656
+Little Deschutes River	watershedImperial	1020
+Minam River	watershedImperial	239
+Mokelumne River	watershedImperial	2143
+Cobbs Creek	watershedImperial	100
+Swan River	watershedImperial	671
+Wallkill River	watershedImperial	785
+Hanford Reach	watershedImperial	96000
+Rondout Creek	watershedImperial	1100
+San Marcos River	watershedImperial	522
+West Fork River	watershedImperial	881
+Shade River	watershedImperial	221
+Blue Earth River	watershedImperial	3486
+Middle Island Creek	watershedImperial	565
+Wild Rice River	watershedImperial	2233
+Butte Creek	watershedImperial	560
+Tygart Valley River	watershedImperial	1329
+Sac River	watershedImperial	1981
+Black Fork	watershedImperial	500
+Blackwater River	watershedImperial	142
+Shavers Fork	watershedImperial	214
+Clear Creek	watershedImperial	249
+Stanislaus River	watershedImperial	1075
+Yuba River	watershedImperial	1339
+Buckhannon River	watershedImperial	309
+East River	watershedImperial	76.4
+Williams River	watershedImperial	132
+Santa Ynez River	watershedImperial	896
+Arikaree River	watershedImperial	1743
+San Diego River	watershedImperial	420
+Tule River	watershedImperial	400
+Neosho River	watershedImperial	11534
+Mullet River	watershedImperial	88.19
+Methow River	watershedImperial	1825
+Stehekin River	watershedImperial	321
+Weber River	watershedImperial	1627
+Cranberry River	watershedImperial	74
+Catoctin Creek	watershedImperial	92.54
+Paulins Kill	watershedImperial	177
+Link River	watershedImperial	3810
+Redeye River	watershedImperial	222
+Papakating Creek	watershedImperial	60.6
+Bluestone Lake	watershedImperial	4565
+Bull Run River	watershedImperial	140
+Le Sueur River	watershedImperial	1089
+Watonwan River	watershedImperial	878
+Coeur d'Alene River	watershedImperial	1453
+Blackfoot River	watershedImperial	1097
+Chalakudy River	watershedImperial	666
+Halifax River	watershedImperial	1009
+West Canada Creek	watershedImperial	569
+Munster Blackwater	watershedImperial	1200
+Kelsey Creek	watershedImperial	17
+Toutle River	watershedImperial	511
+Pomme de Terre River	watershedImperial	840
+Niangua River	watershedImperial	1040
+Little Niangua River	watershedImperial	320
+Yahara River	watershedImperial	536
+Larrys Creek	watershedImperial	89.1
+Saline River	watershedImperial	1762
+Carbon River	watershedImperial	78.9
+Esopus Creek	watershedImperial	425
+White Deer Hole Creek	watershedImperial	67.2
+Tumalo Creek	watershedImperial	59
+Nescopeck Creek	watershedImperial	143
+Jarbidge River	watershedImperial	660
+Sespe Creek	watershedImperial	260
+Nacimiento River	watershedImperial	350
+Santa Maria River	watershedImperial	1760
+San Luis Rey River	watershedImperial	557
+Kaweah River	watershedImperial	828
+Cache Creek	watershedImperial	1139
+Calaveras River	watershedImperial	470
+Pajaro River	watershedImperial	1300
+Otay River	watershedImperial	145
+Whitewater River	watershedImperial	1500
+Albion River	watershedImperial	43
+San Jacinto River	watershedImperial	780
+Sweetwater River	watershedImperial	230
+Ventura River	watershedImperial	226
+Garcia River	watershedImperial	144
+Gualala River	watershedImperial	298
+Lagunitas Creek	watershedImperial	103
+Salmon River	watershedImperial	751
+Noyo River	watershedImperial	113
+Mattole River	watershedImperial	304
+Mad River	watershedImperial	497
+Redwood Creek	watershedImperial	279
+Big River	watershedImperial	181
+Van Duzen River	watershedImperial	429
+Scott River	watershedImperial	804
+Magothy River	watershedImperial	44
+Chowchilla River	watershedImperial	254
+Piru Creek	watershedImperial	497
+Baker River	watershedImperial	297
+Samish River	watershedImperial	139
+St. Marks River	watershedImperial	1150
+Brokenstraw Creek	watershedImperial	338
+Ridley Creek	watershedImperial	37.9
+Love River	watershedImperial	21.62
+Putah Creek	watershedImperial	638
+Conneaut Creek	watershedImperial	152
+Pithole Creek	watershedImperial	41.8
+Ochlockonee River	watershedImperial	2450
+Symmes Creek	watershedImperial	357
+Quinault River	watershedImperial	188
+Anclote River	watershedImperial	98
+Fishkill Creek	watershedImperial	193
+White Salmon River	watershedImperial	400
+Sonoma Creek	watershedImperial	170
+Tuckasegee River	watershedImperial	655
+Bear Creek	watershedImperial	361
+Rock Creek	watershedImperial	65
+Kanektok River	watershedImperial	752
+Kiwalik River	watershedImperial	800
+Kuparuk River	watershedImperial	3130
+Sagavanirktok River	watershedImperial	5750
+Saw Mill River	watershedImperial	26.5
+Chama River	watershedImperial	3144
+Collawash River	watershedImperial	150
+Silvies River	watershedImperial	1273
+Salmon River	watershedImperial	115
+New River	watershedImperial	126
+Oil Creek	watershedImperial	319
+Warm Springs River	watershedImperial	107
+Donner und Blitzen River	watershedImperial	791
+Russian River	watershedImperial	1485
+Santa Fe River	watershedImperial	1380
+Touchet River	watershedImperial	740
+Jordan Creek	watershedImperial	75.8
+Elk Creek	watershedImperial	99.4
+Tucannon River	watershedImperial	502
+Fossil Creek	watershedImperial	135
+Provo River	watershedImperial	673
+Lake River	watershedImperial	100
+Fishing Creek	watershedImperial	385
+Kinzua Creek	watershedImperial	86
+Shawangunk Kill	watershedImperial	147
+Abiqua Creek	watershedImperial	78
+Crab Creek	watershedImperial	5097
+Westfield River	watershedImperial	517
+Laguna de Santa Rosa	watershedImperial	254
+Yulupa Creek	watershedImperial	5
+Straight River	watershedImperial	450
+Imnaha River	watershedImperial	855
+Wekiva River	watershedImperial	351.113
+Arroyo Seco Creek	watershedImperial	11.4
+Lochsa River	watershedImperial	1180
+Paxton Creek	watershedImperial	27.4
+Americano Creek	watershedImperial	49
+Redwood Creek	watershedImperial	7
+Salcha River	watershedImperial	2170
+Selway River	watershedImperial	2013
+Sopchoppy River	watershedImperial	330
+Kettle River	watershedImperial	4200
+Santa Fe River	watershedImperial	285
+Rio Puerco	watershedImperial	7350
+Umatilla River	watershedImperial	2450
+Sandy Creek	watershedImperial	504
+Applegate River	watershedImperial	698
+Arroyo Corte Madera del Presidio	watershedImperial	8
+Piner Creek	watershedImperial	6.3
+Laurel Fork	watershedImperial	60
+Glady Fork	watershedImperial	64
+Calabazas Creek	watershedImperial	7.7
+Middle Fork River	watershedImperial	152
+Wolf River	watershedImperial	247.8
+Sugar Creek	watershedImperial	356
+Tomoka River	watershedImperial	110
+Milliken Creek	watershedImperial	11.3
+Hackers Creek	watershedImperial	58
+Elk Creek	watershedImperial	121
+Stonecoal Creek	watershedImperial	41
+Simpson Creek	watershedImperial	73
+Tenmile Creek	watershedImperial	126
+Huff Run	watershedImperial	13.9
+Tionesta Creek	watershedImperial	480
+Wheeling Creek	watershedImperial	108
+Wheeling Creek	watershedImperial	300
+Issaquah Creek	watershedImperial	61
+Johnson Creek	watershedImperial	54
+Mill Creek	watershedImperial	234
+Sandy Creek	watershedImperial	124
+Entiat River	watershedImperial	466
+Lacamas Creek	watershedImperial	67
+Solomon River	watershedImperial	6835
+Saline River	watershedImperial	3419
+Cow Creek	watershedImperial	859.5
+Ninnescah River	watershedImperial	2129
+Salt River	watershedImperial	890
+Yellow River	watershedImperial	427
+Colville River	watershedImperial	1010
+Malad River	watershedImperial	3000
+Lemhi River	watershedImperial	1216
+Pahsimeroi River	watershedImperial	827
+Sol Duc River	watershedImperial	219
+Sanpoil River	watershedImperial	981
+Rockcastle River	watershedImperial	4100
+Yaak River	watershedImperial	766
+Moyie River	watershedImperial	208
+Fisher River	watershedImperial	838
+Sand Hill River	watershedImperial	475
+Crooked River	watershedImperial	4500
+Chiwawa River	watershedImperial	183
+Nespelem River	watershedImperial	224
+Cottonwood River	watershedImperial	1313
+Little Cottonwood River	watershedImperial	230
+Butte Creek	watershedImperial	69
+Tryon Creek	watershedImperial	6.5
+Shoshone River	watershedImperial	2989
+Pomme de Terre River	watershedImperial	875
+Slab Fork	watershedImperial	35.36
+Middle Fork Willamette River	watershedImperial	1340
+Credit River	watershedImperial	46.3
+Yellow Bank River	watershedImperial	460
+Long Prairie River	watershedImperial	892
+Valley Creek	watershedImperial	23.4
+Straight River	watershedImperial	60
+Moodna Creek	watershedImperial	187.2
+Salmon River	watershedImperial	150
+Mount Hope River	watershedImperial	28
+Chelan River	watershedImperial	924
+Calfpasture River	watershedImperial	144
+San Pablo Creek	watershedImperial	41
+Plunketts Creek	watershedImperial	23.6
+North Fork Feather River	watershedImperial	2100
+Homochitto River	watershedImperial	1200
+Alamosa River	watershedImperial	148
+Broad Run	watershedImperial	91.3
+San Juan Creek	watershedImperial	133.9
+Big Timber Creek	watershedImperial	63
+Lyre River	watershedImperial	67.5
+Batten Kill	watershedImperial	407
+Pescadero Creek	watershedImperial	170
+Bear River	watershedImperial	295
+Sager Creek	watershedImperial	19.1
+Smotrych River	watershedImperial	694
+Burnt River	watershedImperial	1090
+Scajaquada Creek	watershedImperial	29
+Presque Isle Bay	watershedImperial	25
+Estero de San Antonio	watershedImperial	50
+Watts Branch	watershedImperial	22
+Salmon River	watershedImperial	56
+Aliso Creek	watershedImperial	35.5
+Juanita Creek	watershedImperial	6.6
+Eighteen Mile Creek	watershedImperial	90.7
+Adobe Creek	watershedImperial	10
+Big Sulphur Creek	watershedImperial	60
+West Branch Feather River	watershedImperial	282
+Middle Fork Feather River	watershedImperial	1062
+East Branch North Fork Feather River	watershedImperial	1010
+Pere Marquette River	watershedImperial	740
+South Fork Kern River	watershedImperial	982
+Barton River, Vermont	watershedImperial	174
+Oso Creek	watershedImperial	20
+Succor Creek	watershedImperial	494
+Mill Creek	watershedImperial	111
+Gales Creek	watershedImperial	77.9
+North Fork Republican River	watershedImperial	5086
+South Fork Republican River	watershedImperial	2778
+Tin Brook	watershedImperial	19.2
+Bill Williams River	watershedImperial	5373
+Rush Creek	watershedImperial	131
+Chewaucan River	watershedImperial	651
+Manada Creek	watershedImperial	32.2
+Fanno Creek	watershedImperial	31.7
+Balch Creek	watershedImperial	3.5
+Columbia Slough	watershedImperial	51
+Salt Creek	watershedImperial	6.1
+Santiago Creek	watershedImperial	100.6
+Black River	watershedImperial	1314
+East Verde River	watershedImperial	331
+Clyde River	watershedImperial	146
+Quartzville Creek	watershedImperial	171
+Red Willow Creek	watershedImperial	783
+Black River	watershedImperial	134
+Hylebos Creek	watershedImperial	16.8
+Oak Grove Fork Clackamas River	watershedImperial	124
+Medicine Creek	watershedImperial	916
+Culebrinas River	watershedImperial	105
+LeBoeuf Creek	watershedImperial	63.6
+Saint Joe River	watershedImperial	1850
+Ash Creek	watershedImperial	36
+Kayaderosseras	watershedImperial	195
+Laguna Canyon	watershedImperial	10.5
+Blue River	watershedImperial	87
+Tilton River	watershedImperial	154
+Kalama River	watershedImperial	205
+Wind River	watershedImperial	224
+Coweeman River	watershedImperial	200
+Priest River	watershedImperial	980
+Coffee Creek	watershedImperial	25.2
+North Fork John Day River	watershedImperial	1800
+Pilchuck River	watershedImperial	127
+Chewuch River	watershedImperial	525
+South Fork John Day River	watershedImperial	606
+Matilija Creek	watershedImperial	54.6
+Bridge Creek	watershedImperial	267
+Trabuco Creek	watershedImperial	54
+Middle Fork John Day River	watershedImperial	806
+Northkill Creek	watershedImperial	42
+Dairy Creek	watershedImperial	226
+Gardner River	watershedImperial	202
+Catherine Creek	watershedImperial	489
+San Diego Creek	watershedImperial	112.2
+Broad Creek	watershedImperial	40.6
+Aliso Creek	watershedImperial	21
+Little White Salmon River	watershedImperial	136
+Sultan River	watershedImperial	80
+Willow Creek	watershedImperial	181
+Walnut Creek	watershedImperial	38.1
+West Branch Schuylkill River	watershedImperial	21
+Wenaha River	watershedImperial	296
+Mashel River	watershedImperial	80.7
+Dwaar Kill	watershedImperial	28
+North Fork Clackamas River	watershedImperial	47
+Boeing Creek	watershedImperial	11.74
+Swamp Creek	watershedImperial	25
+Anambra River	watershedImperial	2751
+Silver Creek	watershedImperial	54.4
+North Yuba River	watershedImperial	489
+Rifle River	watershedImperial	385
+Elochoman River	watershedImperial	73
+Course of the Rogue River	watershedImperial	5175
+Moclips River	watershedImperial	22
+Sulphur Creek	watershedImperial	6
+Fourmile Creek	watershedImperial	11.93
+Coyote Creek	watershedImperial	41.3
+Grave Creek	watershedImperial	163
+Clallam River	watershedImperial	31.1
+Brea Creek	watershedImperial	23.6
+American River	watershedImperial	2150
+South Fork Eel River	watershedImperial	689
+East Branch South Fork Eel River	watershedImperial	59
+Hoquiam River	watershedImperial	98
+Satsop River	watershedImperial	291
+Clearwater River	watershedImperial	1385
+Pinconning River	watershedImperial	26.6
+Clear Fork Brazos River	watershedImperial	3350
+Dog River	watershedImperial	78
+Pleasant River	watershedImperial	29
+Latah Creek	watershedImperial	673
+Calawah River	watershedImperial	160
+Tye River	watershedImperial	81
+South Fork Trinity River	watershedImperial	980
+Mad River	watershedImperial	92.4
+Beckler River	watershedImperial	60
+Little Applegate River	watershedImperial	113
+North Fork Clearwater River	watershedImperial	2462
+Icicle Creek	watershedImperial	212.7
+Cache Creek	watershedImperial	796
+Rex River	watershedImperial	13.4
+Clearwater River	watershedImperial	9645
+Back River	watershedImperial	61
+North Fork Flathead River	watershedImperial	1560
+Middle Fork Flathead River	watershedImperial	1160
+Northwest Branch Anacostia River	watershedImperial	53.5
+Pysht River	watershedImperial	54
+Birch Creek	watershedImperial	291
+San Mateo Creek	watershedImperial	139
+Little Butte Creek	watershedImperial	373
+Tambre	watershedImperial	1531
+Falls Creek	watershedImperial	100
+Salmon Falls Creek	watershedImperial	2103
+Poesten Kill	watershedImperial	89.4
+Adyar River	watershedImperial	204
+Brislington Brook	watershedImperial	4.6
+San Dieguito River	watershedImperial	346
+Sand Canyon Wash	watershedImperial	4
+Little Sandy River	watershedImperial	22.3
+Northeast Branch Anacostia River	watershedImperial	75.6
+South Fork Bull Run River	watershedImperial	15.4
+Tetbury Avon	watershedImperial	28.5
+Red River	watershedImperial	187
+Conotton Creek	watershedImperial	286
+Still Fork	watershedImperial	71.4
+Puerco River	watershedImperial	2654
+Little Salmon River	watershedImperial	576
+North Fork Bull Run River	watershedImperial	8.32
+Potlatch River	watershedImperial	594
+Duchesne River	watershedImperial	3790
+Pequonnock River	watershedImperial	0.125
+Big Butte Creek	watershedImperial	245
+South Fork Clackamas River	watershedImperial	27.6
+Big Annemessex River	watershedImperial	34.6
+Fall Kill	watershedImperial	19.5
+Battle Creek	watershedImperial	365
+Little River	watershedImperial	315
+Usal Creek	watershedImperial	28
+Chehalem Creek	watershedImperial	67.8
+Fir Creek	watershedImperial	5.46
+Platte River	watershedImperial	197.74
+Little Cottonwood Creek	watershedImperial	46
+Big Cottonwood Creek	watershedImperial	43
+Red Butte Creek	watershedImperial	7.25
+Middle Fork Eel River	watershedImperial	745
+North Fork Eel River	watershedImperial	286
+City Creek	watershedImperial	19.6
+Course of the Willamette River	watershedImperial	11100
+Catskill Creek	watershedImperial	394
+Little Hocking River	watershedImperial	102
+Salmon Creek	watershedImperial	89
+Patroon Creek	watershedImperial	13.1
+Jemez River	watershedImperial	1038
+Rio Pueblo de Taos	watershedImperial	380
+Santa Anita Creek	watershedImperial	15
+Cow Creek	watershedImperial	456
+South Yuba River	watershedImperial	340
+Middle Yuba River	watershedImperial	198
+Mill Creek	watershedImperial	12.2
+Muddy River	watershedImperial	351
+Stony Creek	watershedImperial	773
+Dry River	watershedImperial	752
+Silver Creek	watershedImperial	1670
+Jordan Creek	watershedImperial	1305
+Trout Creek	watershedImperial	692
+Fifteenmile Creek	watershedImperial	373
+North Fork Coquille River	watershedImperial	154
+Willow Creek	watershedImperial	880
+Bully Creek	watershedImperial	601
+South Fork Coquille River	watershedImperial	288
+North Fork Malheur River	watershedImperial	550
+South Fork Crooked River	watershedImperial	1530
+Butter Creek	watershedImperial	465
+Rock Creek	watershedImperial	507
+Cow Creek	watershedImperial	330
+Willow Creek	watershedImperial	787
+Crooked Creek	watershedImperial	1340
+Dry Creek	watershedImperial	299
+Rock Creek	watershedImperial	269
+Rattlesnake Creek	watershedImperial	298
+West Little Owyhee River	watershedImperial	310
+South Fork Feather River	watershedImperial	116
+North Fork American River	watershedImperial	996
+Normans Kill	watershedImperial	170
+Beaver River	watershedImperial	2466
+San Pitch River	watershedImperial	480
+North Fork Payette River	watershedImperial	912
+Pawnee River	watershedImperial	2701
+Big Lost River	watershedImperial	1867
+Little Lost River	watershedImperial	963
+Stephens Creek	watershedImperial	1.2
+Chino Creek	watershedImperial	218
+North Fork Kings River	watershedImperial	390
+Hayfork Creek	watershedImperial	379
+Sams River	watershedImperial	30.8
+Snahapish River	watershedImperial	20
+Solleks River	watershedImperial	15.9
+North Fork Trinity River	watershedImperial	151
+South Fork Kings River	watershedImperial	460
+Scoggins Creek	watershedImperial	45.1
+Mill Creek	watershedImperial	24.7
+Tumtum River	watershedImperial	19.1
+North Fork Double Mountain Fork Brazos River	watershedImperial	1050
+Goose Creek	watershedImperial	40
+Chinit River	watershedImperial	1739
+Kwango River	watershedImperial	101700
+Ladder Creek	watershedImperial	1407
+Lee Vining Creek	watershedImperial	36
+North Fork Smoky Hill River	watershedImperial	759
+Calamus Creek	watershedImperial	30.18
+West Branch Sugar River	watershedImperial	66.74
+Big Tujunga Creek	watershedImperial	130
+Copper Creek	watershedImperial	118
+Johnson Creek	watershedImperial	45.22
+Maple River	watershedImperial	944
+Green River	watershedImperial	131
+Bharathappuzha	watershedImperial	2420
+Pine River	watershedImperial	265
+Holly River	watershedImperial	148
+Congost	watershedImperial	86.87
+Captina Creek	watershedImperial	227
+Thompson River	watershedImperial	1850
+Union Creek	watershedImperial	26
+Pistol River	watershedImperial	105.1
+Millicoma River	watershedImperial	149
+Winchuck River	watershedImperial	71.3
+Arroyo Seco	watershedImperial	275
+San Antonio Creek	watershedImperial	36.6
+Middle Fork American River	watershedImperial	616
+New Fork River	watershedImperial	1230
+Ohanapecosh River	watershedImperial	68.5
+Five Rivers	watershedImperial	119
+Whychus Creek	watershedImperial	253
+Rock Creek	watershedImperial	430
+Swabia Creek	watershedImperial	12.37
+West Fork Little Kanawha River	watershedImperial	246
+Henry Fork	watershedImperial	91
+Cedar Creek	watershedImperial	81
+Spring Creek	watershedImperial	89
+Tygart Creek	watershedImperial	51
+Steer Creek	watershedImperial	184
+Reedy Creek	watershedImperial	133
+Sand Fork	watershedImperial	80
+Leading Creek	watershedImperial	147
+Leading Creek	watershedImperial	61
+Leading Creek	watershedImperial	150
+Walker Creek	watershedImperial	32
+Worthington Creek	watershedImperial	35
+Saltlick Creek	watershedImperial	49
+Right Fork Little Kanawha River	watershedImperial	37.6
+Buffalo Creek	watershedImperial	125
+Buffalo Creek	watershedImperial	45
+Little North Santiam River	watershedImperial	113
+Barkers Creek	watershedImperial	36.85
+Huff Creek	watershedImperial	52
+Copperas Mine Fork	watershedImperial	45.4
+Island Creek	watershedImperial	105
+Little Luckiamute River	watershedImperial	54
+Wildcat Creek	watershedImperial	54.5
+Onondaga Creek	watershedImperial	111
+Winding Gulf	watershedImperial	21.63
+Piney Run	watershedImperial	15.2
+Limestone Creek	watershedImperial	144.3
+Salt River	watershedImperial	2518
+Spanish Fork River	watershedImperial	675
+Pringle Creek	watershedImperial	15
+Cottonwood River	watershedImperial	1912
+Sweetwater Creek	watershedImperial	60.69
+South Fork Salmon River	watershedImperial	1309
+Middle Fork Clearwater River	watershedImperial	3420
+South Fork Clearwater River	watershedImperial	1175
+Orange Creek	watershedImperial	600
+Carneros Creek	watershedImperial	170
+Carneros Creek	watershedImperial	170
+Salt River	watershedImperial	17.03
+Bull Creek	watershedImperial	41
+South Fork McKenzie River	watershedImperial	213
+Burnt Bridge Creek	watershedImperial	28
+Goose Creek	watershedImperial	1120
+Bannock Creek	watershedImperial	475
+Indian Creek	watershedImperial	295
+Camas Creek	watershedImperial	1011
+Camas Creek	watershedImperial	698
+Amon Creek	watershedImperial	62.24
+Indian Creek	watershedImperial	43
+Pinnacle Creek	watershedImperial	57.23
+Clear Fork	watershedImperial	129
+Laurel Fork	watershedImperial	56.4
+Chadakoin River	watershedImperial	192
+Pond Creek	watershedImperial	43
+Rio Brazos	watershedImperial	150
+Ashland Creek	watershedImperial	30.6
+Wolf Creek	watershedImperial	78
+Granite Creek	watershedImperial	359
+Pequabuck River	watershedImperial	58.4
+Penny River	watershedImperial	36
+San Timoteo Creek	watershedImperial	125
+Little Wekiva River	watershedImperial	42
+Paint Creek	watershedImperial	123
+White River	watershedImperial	632
+Leatherwood Creek	watershedImperial	91.6
+Sycamore Creek	watershedImperial	56.5
+Ganargua Creek	watershedImperial	118
+Canandaigua Outlet	watershedImperial	188
+Clyde River	watershedImperial	191
+Cinque Hommes Creek	watershedImperial	70.1
+Brazeau Creek	watershedImperial	30
+Saline Creek	watershedImperial	75
+River aux Vases	watershedImperial	47.8
+Cabin Creek	watershedImperial	73
+Loop Creek	watershedImperial	49.6
+Armstrong Creek	watershedImperial	22.8
+Smithers Creek	watershedImperial	18.1
+Kellys Creek	watershedImperial	24.7
+Witcher Creek	watershedImperial	20.8
+Lens Creek	watershedImperial	19.9
+Campbells Creek	watershedImperial	39.3
+Davis Creek	watershedImperial	47.1
+Twomile Creek	watershedImperial	24.4
+Eagle River	watershedImperial	192
+Buckeye Creek	watershedImperial	39.1
+Toms Fork	watershedImperial	15.5
+Meathouse Fork	watershedImperial	64.6
+Flint Run	watershedImperial	25.6
+Arnold Creek	watershedImperial	34.7
+McElroy Creek	watershedImperial	106.2
+Indian Creek	watershedImperial	32.3
+Elk Fork	watershedImperial	21.1
+Point Pleasant Creek	watershedImperial	60.5
+Sancho Creek	watershedImperial	22.2
+Sugar Creek	watershedImperial	22.1
+McKim Creek	watershedImperial	37.3
+North Fork Salmon River	watershedImperial	211
+Yankee Fork Salmon River	watershedImperial	189
+Kellogg Creek	watershedImperial	15
+Big Creek	watershedImperial	862
+Sucker Brook	watershedImperial	6.9
+North Powder River	watershedImperial	118
+Little Malheur River	watershedImperial	135
+East Fork Salmon River	watershedImperial	541
+Thomas Creek	watershedImperial	117
+North Fork Crooked River	watershedImperial	323
+Deadwood River	watershedImperial	109
+South Sauty Creek	watershedImperial	125.8
+Dead Indian Creek	watershedImperial	22.4
+Willamina Creek	watershedImperial	81.6
+Roaring River	watershedImperial	44
+Chester Creek	watershedImperial	30.5
+Tenmile Creek	watershedImperial	200
+Little Blackfoot River	watershedImperial	413
+Misteguay Creek	watershedImperial	174.4
+Sycamore Creek	watershedImperial	106.1
+North Fork Ninnescah River	watershedImperial	930
+North Fork Siuslaw River	watershedImperial	64
+Crabtree Creek	watershedImperial	156
+Cottonwood Creek	watershedImperial	938
+North Fork Smith River	watershedImperial	69
+Spring River	watershedImperial	25.5
+North Fork Smith River	watershedImperial	158
+Eagle Creek	watershedImperial	196
+Agua Chinon Creek	watershedImperial	11.01
+Mad River	watershedImperial	20.35
+Lake Creek	watershedImperial	223
+Oak Creek	watershedImperial	13
+Lost Creek	watershedImperial	17.2
+Evans Creek	watershedImperial	224
+Middle Fork Coquille River	watershedImperial	310
+East Fork Coquille River	watershedImperial	135
+Elk Creek	watershedImperial	290
+Calapooya Creek	watershedImperial	246
+Cow Creek	watershedImperial	430
+Little Salmon River	watershedImperial	85
+Wahweap Creek	watershedImperial	453
+Canaseraga Creek	watershedImperial	334

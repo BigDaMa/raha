@@ -1,0 +1,873 @@
+Detroit Dam	plantCapacity	100.0
+Mansfield Dam	plantCapacity	102.0
+W. A. C. Bennett Dam	plantCapacity	2916.4
+Max Starcke Dam	plantCapacity	32.0
+Tom Miller Dam	plantCapacity	17.3
+Wirtz Dam	plantCapacity	56.0
+Inks Dam	plantCapacity	15.0
+Buchanan Dam	plantCapacity	47.8
+Glen Canyon Dam	plantCapacity	1320.0
+Rocky Reach Dam	plantCapacity	1299.6
+Wells Dam	plantCapacity	851.4
+Rock Island Dam	plantCapacity	623.7
+Priest Rapids Dam	plantCapacity	955.6
+Bonneville Dam	plantCapacity	1242.0
+Shannon hydroelectric scheme	plantCapacity	86.0
+Clyde Dam	plantCapacity	464.0
+Garrison Dam	plantCapacity	583.3
+La Grande-3 generating station	plantCapacity	2418.0
+Pak Mun Dam	plantCapacity	136.0
+Warragamba Dam	plantCapacity	50.0
+Edersee Dam	plantCapacity	21.0
+Gardiner Dam	plantCapacity	186.0
+Chief Joseph Dam	plantCapacity	2620.0
+McNary Dam	plantCapacity	1127.0
+John Day Dam	plantCapacity	2160.0
+Mica Dam	plantCapacity	2805.0
+Keenleyside Dam	plantCapacity	185.0
+Kelly Barnes Dam	plantCapacity	0.2
+Grande Dixence Dam	plantCapacity	2069.0
+Norris Dam	plantCapacity	132.0
+Bakun Dam	plantCapacity	2400.0
+Vidraru Dam	plantCapacity	220.0
+Gezhouba Dam	plantCapacity	2715.0
+Davis Dam	plantCapacity	251.0
+Eufaula Lake	plantCapacity	90.0
+Yali Falls Dam	plantCapacity	720.0
+Fort Peck Dam	plantCapacity	185.0
+Oahe Dam	plantCapacity	786.0
+Kerr Dam	plantCapacity	208.0
+Mactaquac Dam	plantCapacity	653.0
+Parker Dam	plantCapacity	120.0
+Dez Dam	plantCapacity	520.0
+Enguri Dam	plantCapacity	1320.0
+Sélingué Dam	plantCapacity	44.0
+Watts Bar Dam	plantCapacity	190.0
+Fort Loudoun Dam	plantCapacity	144.0
+Melton Hill Dam	plantCapacity	72.0
+Bay d'Espoir Hydroelectric Power Station	plantCapacity	604.0
+New Melones Dam	plantCapacity	300.0
+New Bullards Bar Dam	plantCapacity	340.0
+Elephant Butte Dam	plantCapacity	27.95
+Atatürk Dam	plantCapacity	2400.0
+Mulshi Dam	plantCapacity	300.0
+Bhakra Dam	plantCapacity	1325.0
+Rogun Dam	plantCapacity	3600.0
+Don Pedro Dam	plantCapacity	30.0
+Karun-3 Dam	plantCapacity	2280.0
+Friant Dam	plantCapacity	25.0
+Castaic Dam	plantCapacity	11.0
+Wolf Creek Dam	plantCapacity	270.0
+McAlpine Locks and Dam	plantCapacity	80.0
+Fontana Dam	plantCapacity	238.5
+Pine Flat Dam	plantCapacity	165.0
+San Luis Dam	plantCapacity	424.0
+Lower Granite Dam	plantCapacity	810.0
+Tabqa Dam	plantCapacity	824.0
+Trinity Dam	plantCapacity	140.0
+Libby Dam	plantCapacity	600.0
+Balimela Reservoir	plantCapacity	510.0
+Jalaput Dam	plantCapacity	120.0
+Batman Dam	plantCapacity	160.0
+Birecik Dam	plantCapacity	672.0
+Karakaya Dam	plantCapacity	1800.0
+Dicle Dam	plantCapacity	110.0
+Karkamış Dam	plantCapacity	189.0
+Kralkızı Dam	plantCapacity	94.0
+Ilısu Dam	plantCapacity	1200.0
+Link River Dam	plantCapacity	151.0
+Bull Run Hydroelectric Project	plantCapacity	22.0
+Minidoka Dam	plantCapacity	28.0
+Idukki Dam	plantCapacity	780.0
+Pathfinder Dam	plantCapacity	66.8
+Saluda Dam	plantCapacity	207.0
+American Falls Dam	plantCapacity	112.0
+Palisades Dam	plantCapacity	176.6
+Dnieper Hydroelectric Station	plantCapacity	1569.0
+Novosibirsk Reservoir	plantCapacity	460.0
+Gavins Point Dam	plantCapacity	132.0
+Geheyan Dam	plantCapacity	1240.0
+Longtan Dam	plantCapacity	6426.0
+Flaming Gorge Dam	plantCapacity	151.95
+Indirasagar Dam	plantCapacity	1000.0
+Gomal Zam Dam	plantCapacity	17.4
+Contra Dam	plantCapacity	105.0
+Bureya Dam	plantCapacity	2010.0
+Stewart Mountain Dam	plantCapacity	13.0
+Kardzhali Reservoir	plantCapacity	106.0
+Chashma Barrage	plantCapacity	184.0
+Hartwell Dam	plantCapacity	421.0
+King Talal Dam	plantCapacity	4.0
+Brisay generating station	plantCapacity	469.0
+Laforge-1 generating station	plantCapacity	878.0
+La Grande-4 generating station	plantCapacity	2779.0
+La Grande-2-A generating station	plantCapacity	2106.0
+Laforge-2 generating station	plantCapacity	319.0
+Krasnoyarsk Dam	plantCapacity	6000.0
+Mtera Dam	plantCapacity	80.0
+Satpara Dam	plantCapacity	17.366
+Rance Tidal Power Station	plantCapacity	240.0
+Falcon Dam	plantCapacity	63.0
+Diamer-Bhasha Dam	plantCapacity	4500.0
+Isabella Dam	plantCapacity	12.0
+Haditha Dam	plantCapacity	660.0
+Blue Mesa Dam	plantCapacity	86.4
+Morrow Point Dam	plantCapacity	173.3
+Crystal Dam	plantCapacity	31.5
+Kidatu Dam	plantCapacity	200.0
+Kihansi Dam	plantCapacity	180
+Kajaki Dam	plantCapacity	33.0
+Monticello Dam	plantCapacity	11.5
+Mratinje Dam	plantCapacity	360.0
+Quebrada de Ullúm Dam	plantCapacity	45.0
+El Chocón Dam	plantCapacity	1260.0
+Rheidol Power Station	plantCapacity	56.0
+Coolidge Dam	plantCapacity	10.0
+Foster Dam	plantCapacity	20.0
+Latyan Dam	plantCapacity	45.0
+Elwha Dam	plantCapacity	14.8
+Sultan Mahmud Power Station	plantCapacity	400.0
+Cwm Dyli	plantCapacity	9.8
+Ghazi-Barotha Hydropower Project	plantCapacity	1450.0
+Nathpa Jhakri Dam	plantCapacity	1500.0
+Hàm Thuận – Đa Mi hydroelectric power stations	plantCapacity	300.0
+Hàm Thuận – Đa Mi hydroelectric power stations	plantCapacity	175.0
+Ross Dam	plantCapacity	460.0
+Diablo Dam	plantCapacity	129.0
+Gökçekaya Dam	plantCapacity	278.0
+Sarıyar Dam	plantCapacity	160.0
+Almus Dam	plantCapacity	27.0
+Sır Dam	plantCapacity	285.0
+Berke Dam	plantCapacity	510.0
+Douglas Dam	plantCapacity	146.0
+Nimbus Dam	plantCapacity	13.5
+Batang Ai Dam	plantCapacity	100.0
+Hungry Horse Dam	plantCapacity	428.0
+Silvan Dam	plantCapacity	160.0
+Yonki Dam	plantCapacity	plus  under construction
+Los Reyunos Dam	plantCapacity	224.0
+Vulcan Street Plant	plantCapacity	12.5
+Folsom Dam	plantCapacity	198.7
+Solina Dam	plantCapacity	200.0
+Toktogul Dam	plantCapacity	1200.0
+Hells Canyon Dam	plantCapacity	391.0
+Brownlee Dam	plantCapacity	585.4
+Kurpsai Dam	plantCapacity	800.0
+Yellowtail Dam	plantCapacity	250.0
+Box Canyon Dam	plantCapacity	90.0
+Boundary Dam	plantCapacity	1070.0
+Gem State Dam	plantCapacity	22.6
+Pa Sak Jolasid Dam	plantCapacity	6.7
+Terminus Dam	plantCapacity	20.09
+Péligre Dam	plantCapacity	51.0
+Denison Dam	plantCapacity	80.0
+Tokuyama Dam	plantCapacity	153.0
+Rappbode Dam	plantCapacity	5.5
+Kenney Dam	plantCapacity	890.0
+Volkhov Hydroelectric Station	plantCapacity	86.0
+Croton Dam	plantCapacity	8.85
+Ambuklao Dam	plantCapacity	75
+Horse Mesa Dam	plantCapacity	129.0
+Alcántara Dam	plantCapacity	915.0
+Sayano–Shushenskaya Dam	plantCapacity	6400.0
+Șugag Dam	plantCapacity	150.0
+Cheboksary Dam	plantCapacity	1404.0
+Koombooloomba Dam	plantCapacity	/
+Xiluodu Dam	plantCapacity	13860.0
+Red Sea Dam	plantCapacity	50000.0
+Yusufeli Dam	plantCapacity	540.0
+Xiaolangdi Dam	plantCapacity	1836.0
+Vajiralongkorn Dam	plantCapacity	300.0
+Xiangjiaba Dam	plantCapacity	6448.0
+Laxiwa Dam	plantCapacity	4200.0
+Nuozhadu Dam	plantCapacity	5850.0
+Pubugou Dam	plantCapacity	3300.0
+Goupitan Dam	plantCapacity	3000.0
+Xiaowan Dam	plantCapacity	4200.0
+Guandi Dam	plantCapacity	2400.0
+Wudongde Dam	plantCapacity	8700.0
+Baihetan Dam	plantCapacity	16000.0
+Ertan Dam	plantCapacity	3300.0
+El Cajón Dam	plantCapacity	750.0
+Glines Canyon Dam	plantCapacity	13.3
+Sorpe Dam	plantCapacity	7.44
+Bakhtiari Dam	plantCapacity	1500.0
+Magat Dam	plantCapacity	360.0
+Carillon Generating Station	plantCapacity	752.0
+Karun-4 Dam	plantCapacity	1020.0
+Almendra Dam	plantCapacity	810.0
+Bicaz-Stejaru Hydroelectric Power Station	plantCapacity	210.0
+Dubăsari Dam	plantCapacity	48.0
+Dniester Hydroelectric Station	plantCapacity	702.0
+Seyhan Dam	plantCapacity	59.0
+Eufaula Dam	plantCapacity	90.0
+Tismana Hydroelectric Power Station	plantCapacity	106
+Kaligandaki A Hydroelectric Power Station	plantCapacity	144.0
+Jean-Lesage generating station	plantCapacity	1145.0
+Vatnsfell Power Station	plantCapacity	90.0
+Manwan Dam	plantCapacity	1750.0
+Ranjit Sagar Dam	plantCapacity	600.0
+Merwin Dam	plantCapacity	136.0
+Swift Dam	plantCapacity	240.0
+Round Butte Dam	plantCapacity	367.0
+Anderson Ranch Dam	plantCapacity	40.0
+Waneta Dam	plantCapacity	450.0
+Seven Mile Dam	plantCapacity	848.0
+Aburagi Dam	plantCapacity	780.0
+Asahi Dam	plantCapacity	20.5
+Miboro Dam	plantCapacity	256.0
+Agigawa Dam	plantCapacity	Agigawa River Generation Plant: 2,600 kW
+Sakaigawa Dam	plantCapacity	27.0
+Fujiwara Dam	plantCapacity	23.0
+Honna Dam	plantCapacity	78.0
+Tadami Dam	plantCapacity	65.0
+Uwada Dam	plantCapacity	63.9
+Miyashita Dam	plantCapacity	94.0
+Taki Dam	plantCapacity	92.0
+Yanaizu Dam	plantCapacity	75.0
+Katakado Dam	plantCapacity	57.0
+Biggesee	plantCapacity	17.6
+Site C dam	plantCapacity	1100
+Fierza Hydroelectric Power Station	plantCapacity	500.0
+Koman Hydroelectric Power Station	plantCapacity	600.0
+Banjë Hydro Power Plant	plantCapacity	70.0
+Čapljina Hydroelectric Power Station	plantCapacity	430.0
+Vau i Dejës Hydroelectric Power Station	plantCapacity	260.0
+Trị An Dam	plantCapacity	400.0
+Tsankov Kamak Hydro Power Plant	plantCapacity	80.0
+Khudoni Hydro Power Plant	plantCapacity	700.0
+Ladzhanuri Hydro Power Plant	plantCapacity	113.0
+Kozjak Hydro Power Plant	plantCapacity	82.0
+Canyon Ferry Dam	plantCapacity	50.0
+Rihand Dam	plantCapacity	300.0
+Pardee Dam	plantCapacity	23.6
+Hardy Dam	plantCapacity	31.5
+Karapiro Power Station	plantCapacity	90.0
+Darbandikhan Dam	plantCapacity	249.0
+Dukan Dam	plantCapacity	400.0
+Cherokee Dam	plantCapacity	136.0
+Susitna Hydroelectric Project	plantCapacity	600.0
+Rampart Dam	plantCapacity	5872.0
+Hiwassee Dam	plantCapacity	185.0
+Mammoth Pool Dam	plantCapacity	190.0
+Zhinvali Dam	plantCapacity	130.0
+South Holston Dam	plantCapacity	38.5
+Zipingpu Dam	plantCapacity	760.0
+Ponmudi Dam	plantCapacity	50.0
+Sylvenstein Dam	plantCapacity	7.0
+Salime Reservoir	plantCapacity	128.0
+Tasang Dam	plantCapacity	7110.0
+Glendoe Hydro Scheme	plantCapacity	100.0
+Chulabhorn Dam	plantCapacity	40.0
+Kambarata-1 Dam	plantCapacity	1940.0
+Fontenelle Dam	plantCapacity	10.0
+Alder Dam	plantCapacity	50.0
+Fortuna Dam	plantCapacity	300.0
+Rengali Dam	plantCapacity	250.0
+Murum Dam	plantCapacity	944.0
+Boise River Diversion Dam	plantCapacity	3.45
+New Hogan Dam	plantCapacity	3.15
+Peace Canyon Dam	plantCapacity	736.0
+Whakamaru Dam	plantCapacity	100.0
+Sihwa Lake Tidal Power Station	plantCapacity	254.0
+Tipaimukh Dam	plantCapacity	1500.0
+Victoria Dam	plantCapacity	210.0
+Glendo Reservoir	plantCapacity	38.0
+Abitibi Canyon Generating Station	plantCapacity	349.0
+Otter Rapids Generating Station	plantCapacity	182.0
+New Exchequer Dam	plantCapacity	94.5
+El Cajón Dam	plantCapacity	300.0
+Sangtuda 1 Hydroelectric Power Plant	plantCapacity	670.0
+Gilgel Gibe I Dam	plantCapacity	184.0
+Sangtuda 2 Hydroelectric Power Plant	plantCapacity	220.0
+Dul Hasti Hydroelectric Plant	plantCapacity	390.0
+Akhori Dam	plantCapacity	600.0
+Whiskeytown Dam	plantCapacity	180.0
+Angat Dam	plantCapacity	256000
+Hemrin Dam	plantCapacity	50.0
+Samarra Barrage	plantCapacity	84.0
+Badush Dam	plantCapacity	170.0
+Bekhme Dam	plantCapacity	1500.0
+Adhaim Dam	plantCapacity	27.0
+Cizre Dam	plantCapacity	240.0
+Adıgüzel Dam	plantCapacity	62.0
+Gilgel Gibe III Dam	plantCapacity	1870.0
+Söse Dam	plantCapacity	1.44
+Karkheh Dam	plantCapacity	420.0
+Ahai Dam	plantCapacity	2000.0
+Binga Dam	plantCapacity	140.0
+Akköprü Dam	plantCapacity	115.0
+Atasu Dam	plantCapacity	5.0
+Alpaslan-1 Dam	plantCapacity	160.0
+Bahçelik Dam	plantCapacity	7.0
+Narva Hydroelectric Station	plantCapacity	125.0
+Berdan Dam	plantCapacity	10.0
+Feitsui Dam	plantCapacity	70.0
+John H. Kerr Dam	plantCapacity	227.0
+Borçka Dam	plantCapacity	300.0
+Zernek Dam	plantCapacity	5.0
+Cindere Dam	plantCapacity	29.0
+Çamlıgöze Dam	plantCapacity	33.0
+Çatalan Dam	plantCapacity	169.0
+Çine Dam	plantCapacity	47.0
+Demirköprü Dam	plantCapacity	69.0
+Hirfanlı Dam	plantCapacity	128.0
+İvriz Dam	plantCapacity	1.2
+Gürsöğüt Dam	plantCapacity	242.0
+Hasanlar Dam	plantCapacity	9.0
+Gönen Dam	plantCapacity	11.0
+Deriner Dam	plantCapacity	670.0
+Gezende Dam	plantCapacity	159.0
+Dim Dam	plantCapacity	38.0
+Ermenek Dam	plantCapacity	300.0
+Derbent Dam	plantCapacity	58.0
+Çınarcık Dam	plantCapacity	100.0
+Karacaören-1 Dam	plantCapacity	32.0
+Kapulukaya Dam	plantCapacity	54.0
+Karacaören-2 Dam	plantCapacity	47.0
+Kargı Dam	plantCapacity	194.0
+Kemer Dam	plantCapacity	48.0
+Kirazlıköprü Dam	plantCapacity	12.0
+Kesikköprü Dam	plantCapacity	76.0
+Kızılcapınar Dam	plantCapacity	2.0
+Kılavuzlu Dam	plantCapacity	54.0
+Kığı Dam	plantCapacity	180.0
+Köprübaşı Dam	plantCapacity	80.88
+Kürtün Dam	plantCapacity	80.0
+Kuzgun Dam	plantCapacity	23.0
+Menzelet Dam	plantCapacity	124.0
+Muratlı Dam	plantCapacity	115.0
+Obruk Dam	plantCapacity	202.0
+Özlüce Dam	plantCapacity	200.0
+Torul Dam	plantCapacity	121.5
+Yenice Dam	plantCapacity	38.0
+Uzunçayır Dam	plantCapacity	84.0
+Tercan Dam	plantCapacity	15.0
+Tortum Dam	plantCapacity	26.0
+Süreyyabey Dam	plantCapacity	14.0
+Baath Dam	plantCapacity	81.0
+Tishrin Dam	plantCapacity	630.0
+Tianshengqiao-I Dam	plantCapacity	1200.0
+Iran–Turkmenistan Friendship Dam	plantCapacity	16.0
+J. Strom Thurmond Dam	plantCapacity	380.0
+Oker Dam	plantCapacity	4.14
+Oder Dam	plantCapacity	6.2
+Lower Baker Dam	plantCapacity	79.0
+Shuibuya Dam	plantCapacity	1840.0
+New Savannah Bluff Lock and Dam	plantCapacity	0.0
+Salma Dam	plantCapacity	42.0
+Green Peter Dam	plantCapacity	80.0
+Peñitas Dam	plantCapacity	420.0
+Masjed Soleyman Dam	plantCapacity	2000.0
+E.B. Campbell Hydroelectric Station	plantCapacity	288.0
+Guaicaramo Dam	plantCapacity	1750.0
+Amir Kabir Dam	plantCapacity	90.0
+Hòa Bình Dam	plantCapacity	1920.0
+Dibang Dam	plantCapacity	3000.0
+Shahid Rajaee Dam	plantCapacity	13.5
+Kouhrang 2 Hydroelectric Power Station	plantCapacity	33.3
+Piran Dam	plantCapacity	8.4
+Rudbar Lorestan Dam	plantCapacity	450.0
+Seimare Dam	plantCapacity	480.0
+Rais Ali Dilavari Dam	plantCapacity	70.0
+Zayanderud Dam	plantCapacity	55.0
+Sefidrud Dam	plantCapacity	87.0
+Marun Dam	plantCapacity	150.0
+Khersan-3 Dam	plantCapacity	400.0
+Gavoshan Dam	plantCapacity	11.0
+Tarik Dam	plantCapacity	2.8
+Oyan River Dam	plantCapacity	9.0
+Spremberg Dam	plantCapacity	1.0
+Junghua Dam	plantCapacity	40.0
+Isimba Hydroelectric Power Station	plantCapacity	183.2
+Rangit Dam	plantCapacity	60.0
+Tilaiya Dam	plantCapacity	4.0
+Beauharnois Hydroelectric Generating Station	plantCapacity	1903.0
+Ukai Dam	plantCapacity	300.0
+La Grange Dam	plantCapacity	4.0
+Salmon Creek Dam	plantCapacity	6.7
+Delhi Dam	plantCapacity	1.5
+Hannibal Locks and Dam	plantCapacity	37.4
+Upper Kotmale Dam	plantCapacity	150.0
+San Gabriel Dam	plantCapacity	3.0
+Gileppe Dam	plantCapacity	0.633
+Outardes-3	plantCapacity	1026.0
+Outardes-4	plantCapacity	785.0
+Ranganadi Dam	plantCapacity	405.0
+Zangmu Dam	plantCapacity	510.0
+Ust-Ilimsk Hydroelectric Power Station	plantCapacity	3840.0
+Irkutsk Hydroelectric Power Station	plantCapacity	662.4
+Xingó Dam	plantCapacity	MW
+Luiz Gonzaga Dam	plantCapacity	MW
+Churchill Falls Generating Station	plantCapacity	5428.0
+Bersimis-1 generating station	plantCapacity	1178.0
+Isawa Dam	plantCapacity	15.7
+Bersimis-2 generating station	plantCapacity	869.0
+Totladoh Dam	plantCapacity	160.0
+Thokarwadi Dam	plantCapacity	72.0
+Polavaram Project	plantCapacity	960.0
+New Don Pedro Dam	plantCapacity	203.0
+Loch Sloy Hydro-Electric Scheme	plantCapacity	152.5
+Lower Churchill Project	plantCapacity	824.0
+Gongboxia Dam	plantCapacity	1500.0
+Dickson Dam	plantCapacity	15.0
+Idamalayar Dam	plantCapacity	75.0
+Kaniv Hydroelectric Power Plant	plantCapacity	444.0
+Sơn La Dam	plantCapacity	2400.0
+Nimoo Bazgo Hydroelectric Plant	plantCapacity	45.0
+Yele Dam	plantCapacity	240.0
+El Vado Dam	plantCapacity	8.0
+Shuangjiangkou Dam	plantCapacity	2000.0
+Shuikou Dam	plantCapacity	1400.0
+Shapai Dam	plantCapacity	36.0
+Sirindhorn Dam	plantCapacity	36.0
+Mianhuatan Dam	plantCapacity	600.0
+Hongjiadu Dam	plantCapacity	600.0
+Liuxihe Dam	plantCapacity	48.0
+Guangzhao Dam	plantCapacity	1040.0
+Dahuashui Dam	plantCapacity	200.0
+Ankang Dam	plantCapacity	800.0
+Dachaoshan Dam	plantCapacity	1350.0
+Jinghong Dam	plantCapacity	1750.0
+Lijiaxia Dam	plantCapacity	2000.0
+Sanbanxi Dam	plantCapacity	1000.0
+Dagangshan Dam	plantCapacity	2600.0
+Jiangpinghe Dam	plantCapacity	500.0
+Jishixia Dam	plantCapacity	1020.0
+Guanyinyan Dam	plantCapacity	3000.0
+Changheba Dam	plantCapacity	2600.0
+Jinanqiao Dam	plantCapacity	2400.0
+Liyuan Dam	plantCapacity	2400.0
+Ludila Dam	plantCapacity	2160.0
+Pengshui Dam	plantCapacity	1750.0
+Silin Dam	plantCapacity	1080.0
+Yantan Dam	plantCapacity	1210.0
+Wuqiangxi Dam	plantCapacity	1200.0
+Wanjiazhai Dam	plantCapacity	1080.0
+Wujiangdu Dam	plantCapacity	1130.0
+Chirkey Dam	plantCapacity	1000.0
+Nizhnekamsk Hydroelectric Station	plantCapacity	1248.0
+Votkinsk Hydroelectric Station	plantCapacity	1020.0
+Pavlovka Hydroelectric Station	plantCapacity	201.6
+Ivaylovgrad Dam	plantCapacity	104.0
+Krasnoklutchevskaya Dam	plantCapacity	0.2
+Martin Dam	plantCapacity	182.5
+Upper Baker Dam	plantCapacity	91.0
+Huai Kum Dam	plantCapacity	1.2
+Stung Treng Dam	plantCapacity	980.0
+Lam Takhong Dam	plantCapacity	500.0
+Nam Pung Dam	plantCapacity	6.3
+Ubol Ratana Dam	plantCapacity	25.2
+Bridge Canyon Dam	plantCapacity	1500.0
+Amistad Dam	plantCapacity	132.0
+Chicoasén Dam	plantCapacity	2430.0
+Malpaso Dam	plantCapacity	1080.0
+Infiernillo Dam	plantCapacity	1120.0
+Lianghekou Dam	plantCapacity	3000.0
+Angostura Dam	plantCapacity	900.0
+Danjiangkou Dam	plantCapacity	900.0
+Baksan Hydroelectric Power Station	plantCapacity	27.0
+Don Sahong Dam	plantCapacity	260.0
+Longkaikou Dam	plantCapacity	1800.0
+Houziyan Dam	plantCapacity	1700.0
+Shatuo Dam	plantCapacity	1120.0
+Tingzikou Dam	plantCapacity	1100.0
+Zengwen Dam	plantCapacity	50.0
+Seminoe Dam	plantCapacity	45.0
+Álvaro Obregón Dam	plantCapacity	19.0
+Bhumibol Dam	plantCapacity	749.0
+Sirikit Dam	plantCapacity	500.0
+Cochrane Dam	plantCapacity	64.0
+Bugoye Hydroelectric Power Station	plantCapacity	13.0
+Gleno Dam	plantCapacity	3728.0
+Craig Goch Dam	plantCapacity	480.0
+Castelo de Bode Dam	plantCapacity	138.0
+Pensacola Dam	plantCapacity	120.0
+Green Mountain Reservoir	plantCapacity	25.0
+Boysen Dam	plantCapacity	15.0
+Roseires Dam	plantCapacity	1800.0
+Grand Ethiopian Renaissance Dam	plantCapacity	6000.0
+Kotmale Dam	plantCapacity	201.0
+Sanmenxia Dam	plantCapacity	400.0
+Alcova Dam	plantCapacity	36.0
+Glacier View Dam	plantCapacity	210.0
+Bull Shoals Dam	plantCapacity	380.0
+Ayago Hydroelectric Power Station	plantCapacity	600.0
+Zimapán Dam	plantCapacity	292.0
+Aguamilpa Dam	plantCapacity	960.0
+Ruskin Dam and Powerhouse	plantCapacity	105.0
+Jinping-I Dam	plantCapacity	3600.0
+Jinping-II Dam	plantCapacity	4800.0
+Alpe Gera Dam	plantCapacity	35.0
+Kootenay Canal	plantCapacity	583.0
+La Yesca Dam	plantCapacity	750.0
+Ramganga Dam	plantCapacity	198.0
+Pulichinthala Project	plantCapacity	120.0
+Barber Dam	plantCapacity	4.14
+Imha Dam	plantCapacity	50.0
+Andong Dam	plantCapacity	80.0
+Daecheong Dam	plantCapacity	90.0
+Soyang Dam	plantCapacity	200.0
+Chungju Dam	plantCapacity	400.0
+Hwacheon Dam	plantCapacity	108.0
+Zillergründl Dam	plantCapacity	360.0
+Rapel Dam	plantCapacity	377.0
+Ōmachi Dam	plantCapacity	13.0
+Five Channels Dam	plantCapacity	6.0
+Alcona Dam	plantCapacity	8.0
+Warsak Dam	plantCapacity	243.0
+Koteshwar Dam	plantCapacity	400.0
+Okutadami Dam	plantCapacity	560.0
+Otori Dam	plantCapacity	182.0
+Munda Dam	plantCapacity	740.0
+Bratsberg Hydroelectric Power Station	plantCapacity	124.0
+Vinje Hydroelectric Power Station	plantCapacity	300.0
+Mohamed V Dam	plantCapacity	23.0
+Hassan I Dam	plantCapacity	67.2
+Jinshuitan Dam	plantCapacity	300.0
+Dongjiang Dam	plantCapacity	500.0
+Nierji Dam	plantCapacity	250.0
+Jilintai I Dam	plantCapacity	460.0
+Tankeng Dam	plantCapacity	600.0
+Saigawa Dam	plantCapacity	1700.0
+Baise Dam	plantCapacity	540.0
+Chengbihe Dam	plantCapacity	30.0
+Tengzigou Dam	plantCapacity	70.0
+Baozhusi Dam	plantCapacity	700.0
+Bikou Dam	plantCapacity	300.0
+Bashan Dam	plantCapacity	140.0
+Dongfeng Dam	plantCapacity	570.0
+Dongqing Dam	plantCapacity	880.0
+Dongping Dam	plantCapacity	110.0
+Fengshuba Dam	plantCapacity	150.0
+Guxian Dam	plantCapacity	60.0
+Hongkou Dam	plantCapacity	200.0
+Jiangya Dam	plantCapacity	300.0
+Jiudianxia Dam	plantCapacity	300.0
+Longma Dam	plantCapacity	240.0
+Shiyazi Dam	plantCapacity	140.0
+Shimenkan Dam	plantCapacity	130.0
+Suofengying Dam	plantCapacity	600.0
+Wawushan Dam	plantCapacity	260.0
+Wudu Dam	plantCapacity	150.0
+Wuluwati Dam	plantCapacity	60.0
+Yunfeng Dam	plantCapacity	400.0
+Fort Gibson Dam	plantCapacity	48.0
+Agusan Dam	plantCapacity	1.6
+Camanche Dam	plantCapacity	10.7
+Pit 6 Dam	plantCapacity	79.0
+Iron Gate Dam	plantCapacity	18.0
+Tulloch Dam	plantCapacity	18.0
+Long Lake Dam	plantCapacity	71.0
+Keswick Dam	plantCapacity	117.0
+Pulangi Dam	plantCapacity	255.0
+Canyon Dam	plantCapacity	41.0
+Alkumru Dam	plantCapacity	265.5
+Koldam Dam	plantCapacity	800.0
+Pong Dam	plantCapacity	360.0
+Neelum–Jhelum Hydropower Plant	plantCapacity	999.0
+Kishanganga Hydroelectric Plant	plantCapacity	330.0
+West Seti Dam	plantCapacity	750.0
+Yayangshan Dam	plantCapacity	120.0
+Tukahe Dam	plantCapacity	165.0
+Jufudu Dam	plantCapacity	285.0
+Sardasht Dam	plantCapacity	120.0
+Daguangba Dam	plantCapacity	240.0
+Gezhen Dam	plantCapacity	80.0
+Niululing Dam	plantCapacity	80.0
+Saguling Dam	plantCapacity	700.0
+Cirata Dam	plantCapacity	1008.0
+Jatiluhur Dam	plantCapacity	186.5
+Jatigede Dam	plantCapacity	110.0
+Yulongyan Dam	plantCapacity	25.0
+Hongshi Dam	plantCapacity	200.0
+Kremasta Dam	plantCapacity	437.2
+Köprü Dam	plantCapacity	148.0
+Boyabat Dam	plantCapacity	513.0
+Roselend Dam	plantCapacity	546.0
+Mahabad Dam	plantCapacity	6.0
+Marèges Dam	plantCapacity	272.0
+Xiaonanhai Dam	plantCapacity	1760.0
+Baram Dam	plantCapacity	1200.0
+Denis-Perron Dam	plantCapacity	882.0
+Dhauliganga Dam	plantCapacity	280.0
+Huites Dam	plantCapacity	422.0
+Inniscarra Dam	plantCapacity	19.0
+Barro Blanco Dam	plantCapacity	28.56
+Foote Dam	plantCapacity	9.0
+Cooke Dam	plantCapacity	9.0
+Hingol Dam	plantCapacity	3.5
+Naulong Dam	plantCapacity	4.4
+Sukleji Dam	plantCapacity	0.16
+Winder Dam	plantCapacity	0.3
+Kurram Tangi Dam	plantCapacity	83.4
+Bara Dam	plantCapacity	5.8
+Bunji Dam	plantCapacity	7100.0
+Misicuni Dam	plantCapacity	80.0
+Tuirial Dam	plantCapacity	60.0
+Serlui B Dam	plantCapacity	12.0
+Shah wa Arus Dam	plantCapacity	1.2
+Bairabi Dam	plantCapacity	80.0
+Tlawng Dam	plantCapacity	55.0
+Casecnan Dam	plantCapacity	140.0
+Harsprånget hydroelectric power station	plantCapacity	977.0
+Skelton Dam	plantCapacity	16.8
+La Jourdanie	plantCapacity	18.0
+Donnells Dam	plantCapacity	72.0
+Le Truel	plantCapacity	22.0
+Kirazlık Dam	plantCapacity	45.0
+Alaköprü Dam	plantCapacity	26.0
+Çetin Dam	plantCapacity	405.0
+Trung Sơn Dam	plantCapacity	260.0
+Upper Svir Hydroelectric Station	plantCapacity	160.0
+Lower Svir Hydroelectric Station	plantCapacity	99.0
+Great Works Dam	plantCapacity	8.0
+Veazie Dam	plantCapacity	8.4
+Milford Dam	plantCapacity	8.0
+Stillwater Dam	plantCapacity	1.95
+Orono Dam	plantCapacity	2.78
+West Enfield Dam	plantCapacity	22.8
+Mauá Hydroelectric Plant	plantCapacity	361.0
+Đa Nhim Hydroelectric Power Station	plantCapacity	160.0
+Na Hang Dam	plantCapacity	342.0
+Vilyuy Dam	plantCapacity	650.0
+Agbinika Power Station	plantCapacity	20.0
+Dharoi dam	plantCapacity	1.4
+Sykia Dam	plantCapacity	120.0
+Mesochora Dam	plantCapacity	162.0
+Kastraki Dam	plantCapacity	320.0
+Artvin Dam	plantCapacity	340.0
+Aksu Dam	plantCapacity	120.0
+Güllübağ Dam	plantCapacity	96.0
+Laleli Dam	plantCapacity	99.0
+Daryan Dam	plantCapacity	210.0
+Garzan Dam	plantCapacity	49.0
+Sırımtaş Dam	plantCapacity	28.0
+Alpaslan-2 Dam	plantCapacity	280.0
+Yedigöze Dam	plantCapacity	320.0
+Kavşak Bendi Dam	plantCapacity	177.0
+Jinnah Barrage	plantCapacity	96.0
+Karcham Wangtoo Hydroelectric Plant	plantCapacity	1000.0
+Poe Dam	plantCapacity	143.0
+Taipingwan Dam	plantCapacity	190.0
+Weiyuan Dam	plantCapacity	390.0
+Chardara Dam	plantCapacity	100.0
+Génissiat Dam	plantCapacity	420.0
+El Kansera Dam	plantCapacity	8.3
+Wadagawa Dam	plantCapacity	7.4
+Komaki Dam	plantCapacity	90.2
+Toga Dam	plantCapacity	17.6
+Senzoku Dam	plantCapacity	32.7
+Togagawa Dam	plantCapacity	16.1
+Donzère-Mondragon Dam	plantCapacity	354.0
+Akao Dam	plantCapacity	34.0
+Hatogaya Dam	plantCapacity	43.0
+Okurodani Dam	plantCapacity	21.2
+Oshirakawa Dam	plantCapacity	66.3
+Şırnak Dam	plantCapacity	5.0
+Silopi Dam	plantCapacity	2.4
+Uludere Dam	plantCapacity	3.5
+Balli Dam	plantCapacity	8.36
+Kavşaktepe Dam	plantCapacity	1.57
+Musatepe Dam	plantCapacity	9.0
+Çetintepe Dam	plantCapacity	2.0
+Merikoski Power Plant	plantCapacity	39.0
+Saint Marys Falls Hydropower Plant	plantCapacity	18.0
+Big Cliff Dam	plantCapacity	18.0
+Kiev Hydroelectric Power Plant	plantCapacity	418.8
+Canelles Reservoir	plantCapacity	108.0
+Project 635 Dam	plantCapacity	32.0
+Burqin Shankou Dam	plantCapacity	220.0
+Allai Khwar Hydropower Plant	plantCapacity	121.0
+Bonyic Dam	plantCapacity	32.64
+Chalillo Dam	plantCapacity	7.0
+Grodno Hydroelectric Power Station	plantCapacity	17.0
+Kremenchuk Hydroelectric Power Plant	plantCapacity	624.0
+Kakhovka Hydroelectric Power Plant	plantCapacity	357.0
+Dniprodzerzhynsk Hydroelectric Power Plant	plantCapacity	352.0
+Conemaugh Dam	plantCapacity	14.0
+Chonghu'er Dam	plantCapacity	110.0
+Jilebulake Dam	plantCapacity	160.0
+Haba River Shankou Dam	plantCapacity	25.2
+Shimokotori Dam	plantCapacity	142.0
+Martinsville Dam	plantCapacity	1.3
+Ratle Hydroelectric Plant	plantCapacity	850.0
+Mahi Bajaj Sagar Dam	plantCapacity	140.0
+Ghatghar Dam	plantCapacity	250.0
+Duber Khwar Hydroelectric Plant	plantCapacity	130.0
+Esch-sur-Sûre Dam	plantCapacity	11.0
+Golen Gol Hydropower Project	plantCapacity	106.0
+Chichonki Malian Hydropower Plant	plantCapacity	13.2
+Nandipur Hydropower Plant	plantCapacity	13.8
+Shadiwal Hydropower Plant	plantCapacity	13.5
+Kurram Garhi Hydropower Plant	plantCapacity	4.0
+Petit-Saut Dam	plantCapacity	116.0
+Afobaka Dam	plantCapacity	180.0
+Gulpur Hydropower Project	plantCapacity	102.0
+Devecikonağı Dam	plantCapacity	29.0
+Gura Apelor Dam	plantCapacity	335.0
+Tangir Hydropower Project	plantCapacity	15.0
+Nai Gaj Dam	plantCapacity	4.2
+Yaté Dam	plantCapacity	68.0
+Chute-Allard Generating Station	plantCapacity	62.0
+Rapide-Blanc Generating Station	plantCapacity	204.0
+Monción Dam	plantCapacity	52.0
+Jigüey Dam	plantCapacity	98.0
+Bao-Tavera Dams	plantCapacity	96.0
+Hatillo Dam	plantCapacity	8.0
+Zaza Dam	plantCapacity	2.7
+Jorge Cepernic Dam	plantCapacity	600.0
+Mancotal Dam	plantCapacity	50.0
+Tumarín Dam	plantCapacity	253.0
+Nuevo Mundo Dam	plantCapacity	2.0
+Hanabanilla Dam	plantCapacity	43.0
+Hatgyi Dam	plantCapacity	1365.0
+Trängslet Dam	plantCapacity	330.0
+Lakhwar Dam	plantCapacity	300.0
+Sempor Dam	plantCapacity	1.0
+Kishau Dam	plantCapacity	660.0
+Pakal Dul Dam	plantCapacity	1000.0
+Claytor Dam	plantCapacity	75.0
+Gazivoda Dam	plantCapacity	35.0
+Marble Canyon Dam	plantCapacity	600.0
+Echo Park Dam	plantCapacity	200.0
+Tisza Dam	plantCapacity	28.0
+Grančarevo Dam	plantCapacity	180.0
+Chilime Hydropower Plant	plantCapacity	22.1
+Lubuge Dam	plantCapacity	600.0
+Shitouhe Dam	plantCapacity	20.0
+Jinpen Dam	plantCapacity	25.0
+Zhexi Dam	plantCapacity	947.5
+Baiyun Dam	plantCapacity	54.0
+Gudongkou Dam	plantCapacity	45.0
+Maerdang Dam	plantCapacity	2200.0
+Yangqu Dam	plantCapacity	1200.0
+Huangdeng Dam	plantCapacity	1900.0
+Miaowei Dam	plantCapacity	1400.0
+Kajiwa Dam	plantCapacity	452.4
+Quxue Dam	plantCapacity	246.0
+Lizhou Dam	plantCapacity	355.0
+Qiaoqi Dam	plantCapacity	240.0
+Dahuaqiao Dam	plantCapacity	900.0
+Gongguoqiao Dam	plantCapacity	900.0
+Wunonglong Dam	plantCapacity	990.0
+Kohala Hydropower Project	plantCapacity	1100.0
+Poyang Lake Dam	plantCapacity	92.0
+Mphanda Nkuwa Dam	plantCapacity	1500.0
+Jiemian Dam	plantCapacity	300.0
+Yinpan Dam	plantCapacity	600.0
+Maoergai Dam	plantCapacity	420.0
+Pankou Dam	plantCapacity	513.0
+Yingzidu Dam	plantCapacity	360.0
+Sinanjiang Dam	plantCapacity	201.0
+Bang Lang Dam	plantCapacity	72.0
+Kaeng Krachan Dam	plantCapacity	19.0
+Longjiang Dam	plantCapacity	240.0
+Madushan Dam	plantCapacity	300.0
+Tianhuaban Dam	plantCapacity	180.0
+Tha Thung Na Dam	plantCapacity	38.0
+Mae Ngat Somboon Chon Dam	plantCapacity	9.0
+Lianhua Dam	plantCapacity	550.0
+Santa Luzia Dam	plantCapacity	32.0
+Okere Falls Power Station	plantCapacity	200.0
+Upper Karnali Hydropower Project	plantCapacity	900.0
+Mai Hydropower Station	plantCapacity	22.0
+Eklutna Dam	plantCapacity	47.0
+Reventazón Dam	plantCapacity	305.5
+Colíder Dam	plantCapacity	306.9
+Rogers Dam	plantCapacity	6.8
+Tuyamuyun Hydro Complex	plantCapacity	150.0
+Alarcón Dam	plantCapacity	56.0
+Kayrakkum Dam	plantCapacity	126.0
+Baipaza Dam	plantCapacity	600.0
+Golovnaya Dam	plantCapacity	240.0
+Tangevaerket Dam	plantCapacity	3.3
+Rama Dam	plantCapacity	160.0
+Jablanica Dam	plantCapacity	180.0
+Pangduo Hydro Power Station	plantCapacity	160.0
+Zhikong Hydro Power Station	plantCapacity	100.0
+Aguieira Dam	plantCapacity	336.0
+Cabril Dam	plantCapacity	108.0
+Carrapatelo Dam	plantCapacity	201.0
+Entrepeñas Reservoir	plantCapacity	37.0
+Alto Lindoso Dam	plantCapacity	630.0
+Alto Rabagão Dam	plantCapacity	68.0
+Omkareshwar Dam	plantCapacity	520.0
+Masinga Hydroelectric Power Station	plantCapacity	40.0
+Fratel Dam	plantCapacity	132.0
+Bouçã Dam	plantCapacity	44.0
+Caniçada Dam	plantCapacity	62.0
+Pocinho Dam	plantCapacity	186.0
+Valeira Dam	plantCapacity	240.0
+Régua Dam	plantCapacity	180.0
+Crestuma-Lever Dam	plantCapacity	117.0
+El Salto Dam	plantCapacity	8.4
+Touvedo Dam	plantCapacity	22.0
+Raiva Dam	plantCapacity	24.0
+Pracana Dam	plantCapacity	41.0
+Vilar Dam	plantCapacity	58.0
+Barekese Dam	plantCapacity	400.0
+Bagre Dam	plantCapacity	16.0
+Seyrantepe Dam	plantCapacity	58.78
+Pepperell Hydro Power Plant	plantCapacity	2.207
+Denawaka Ganga Mini Hydro Power Project	plantCapacity	7.2
+Koma Kulshan Project	plantCapacity	13.3
+Kemano Generating Station	plantCapacity	890.0
+Moglicë Hydro Power Plant	plantCapacity	172.0
+Cushaw Hydroelectric Project	plantCapacity	7.5
+Bedford Hydropower Project	plantCapacity	1.0
+Reusens Dam	plantCapacity	12.5
+Lower Salmon Falls Dam	plantCapacity	60.0
+Upper Tamakoshi Hydroelectric Project	plantCapacity	456
+Nilambe Dam	plantCapacity	3.2
+Mai Cascade Hydropower Plant	plantCapacity	7.0
+Sunkoshi Small Hydropower Plant	plantCapacity	2.5
+Sevan–Hrazdan Cascade	plantCapacity	560.0
+Sevan–Hrazdan Cascade	plantCapacity	34.2
+Sevan–Hrazdan Cascade	plantCapacity	81.6
+Sevan–Hrazdan Cascade	plantCapacity	224.0
+Sevan–Hrazdan Cascade	plantCapacity	70.6
+Sevan–Hrazdan Cascade	plantCapacity	44.0
+Sevan–Hrazdan Cascade	plantCapacity	5.0
+Vorotan Cascade	plantCapacity	76.0
+Vorotan Cascade	plantCapacity	171.0
+Vorotan Cascade	plantCapacity	157.2
+Dzoraget Hydroelectric Power Station	plantCapacity	26.2
+Indravati Dam	plantCapacity	600.0
+New Bong Escape Hydropower Project	plantCapacity	84.0
+Belleville Lock and Dam	plantCapacity	42.0
+Racine Lock and Dam	plantCapacity	24.0
+Greenup Lock and Dam	plantCapacity	70.0
+Azad Pattan Hydropower Project	plantCapacity	640.0
+Beyhan I Dam	plantCapacity	582.0
+Upper Kaleköy Dam	plantCapacity	636.6
+Bağıştaş 1 Dam	plantCapacity	140.4
+Bağıştaş 2 Dam	plantCapacity	48.6
+Yedisu Dam	plantCapacity	24.0
+Pembelik Dam	plantCapacity	127.0
+Tatar Dam	plantCapacity	128.0
+Burç Bendi Dam	plantCapacity	27.9
+Waipapa Power Station	plantCapacity	54.0
+Egglfing-Obernberg Hydropower Plant	plantCapacity	84.0
+Suki Kinari Hydropower Project	plantCapacity	870.0
+Karot Hydropower Project	plantCapacity	720.0
+Tapovan Vishnugad Hydropower Plant	plantCapacity	520.0
+Shahpurkandi dam project	plantCapacity	206.0
+Deralok Dam	plantCapacity	37.6
+Bawanur Dam	plantCapacity	32.0
+Bastora Dam	plantCapacity	2.4
+Mequinenza Dam	plantCapacity	384.0
+Ribarroja Dam	plantCapacity	262.8
+Samuel Hydroelectric Dam	plantCapacity	216.0
+Moforsen Hydroelectric Power Station	plantCapacity	135.0
+Krångede Hydroelectric Power Station	plantCapacity	248.4
+Vargfors Hydroelectric Power Station	plantCapacity	122.0
+Höljes Hydroelectric Power Station	plantCapacity	127.8
+Stornorrfors Hydroelectric Power Station	plantCapacity	599.4
+Storfinnforsen Hydroelectric Power Station	plantCapacity	112.0
+Búðarháls Power Plant	plantCapacity	95.0
+Moore Dam	plantCapacity	140.4
+Manso Dam	plantCapacity	212.0
+La Boquilla Dam	plantCapacity	25.0
+Beyhan II Dam	plantCapacity	264.0
+Lower Kaleköy Dam	plantCapacity	500.0

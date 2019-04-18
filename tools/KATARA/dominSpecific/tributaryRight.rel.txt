@@ -1,0 +1,3981 @@
+Amazon River	tributaryRight	Ucayali River
+Amazon River	tributaryRight	Purús River
+Amazon River	tributaryRight	Madeira River
+Amazon River	tributaryRight	Tapajós River
+Amazon River	tributaryRight	Xingu River
+Amu Darya	tributaryRight	Vakhsh River
+Amu Darya	tributaryRight	Surkhan Darya
+Amu Darya	tributaryRight	Sherabad River
+Amu Darya	tributaryRight	Zeravshan River
+Columbia River	tributaryRight	Canoe River
+Columbia River	tributaryRight	Kettle River
+Columbia River	tributaryRight	Okanogan River
+Columbia River	tributaryRight	Wenatchee River
+Columbia River	tributaryRight	Yakima River
+Columbia River	tributaryRight	Lewis River
+Columbia River	tributaryRight	Cowlitz River
+Yangtze	tributaryRight	Wu River
+Yangtze	tributaryRight	Yuan River
+Yangtze	tributaryRight	Zi River
+Yangtze	tributaryRight	Xiang River
+Yangtze	tributaryRight	Gan River
+Yangtze	tributaryRight	Huangpu River
+Detroit River	tributaryRight	River Rouge
+Detroit River	tributaryRight	Ecorse River
+East River	tributaryRight	Westchester Creek
+East River	tributaryRight	Bronx River
+East River	tributaryRight	Bronx Kill
+East River	tributaryRight	Harlem River
+Euphrates	tributaryRight	Sajur River
+Ganges	tributaryRight	Yamuna
+Ganges	tributaryRight	Tamsa River
+Ganges	tributaryRight	Son River
+Ganges	tributaryRight	Punpun River
+Ganges	tributaryRight	Tons River
+Ganges	tributaryRight	Hindon River
+Ganges	tributaryRight	Sasur Khaderi
+Indus River	tributaryRight	Shyok River
+Indus River	tributaryRight	Hunza River
+Indus River	tributaryRight	Gilgit River
+Indus River	tributaryRight	Swat River
+Indus River	tributaryRight	Kunar River
+Indus River	tributaryRight	Kabul River
+Indus River	tributaryRight	Kurram River
+Indus River	tributaryRight	Gomal River
+Indus River	tributaryRight	Zhob River
+Mississippi River	tributaryRight	Minnesota River
+Mississippi River	tributaryRight	Des Moines River
+Mississippi River	tributaryRight	Missouri River
+Mississippi River	tributaryRight	White River
+Mississippi River	tributaryRight	Arkansas River
+Mississippi River	tributaryRight	Red River of the South
+Missouri River	tributaryRight	Madison River
+Missouri River	tributaryRight	Gallatin River
+Missouri River	tributaryRight	Yellowstone River
+Missouri River	tributaryRight	Little Missouri River
+Missouri River	tributaryRight	Cheyenne River
+Missouri River	tributaryRight	White River
+Missouri River	tributaryRight	Niobrara River
+Missouri River	tributaryRight	Platte River
+Missouri River	tributaryRight	Kansas River
+Missouri River	tributaryRight	Osage River
+Missouri River	tributaryRight	Gasconade River
+Murray River	tributaryRight	Swampy Plains River
+Murray River	tributaryRight	Murrumbidgee River
+Murray River	tributaryRight	Darling River
+Madeira River	tributaryRight	Aripuanã River
+Neva River	tributaryRight	Okhta River, Neva basin
+Niger River	tributaryRight	Bani River
+Napo River	tributaryRight	Yasuní River
+Napo River	tributaryRight	Tiputini River
+Ohio River	tributaryRight	Beaver River
+Ohio River	tributaryRight	Muskingum River
+Ohio River	tributaryRight	Scioto River
+Ohio River	tributaryRight	Great Miami River
+Ohio River	tributaryRight	Wabash River
+Snake River	tributaryRight	Henrys Fork
+Snake River	tributaryRight	Malad River
+Snake River	tributaryRight	Boise River
+Snake River	tributaryRight	Payette River
+Snake River	tributaryRight	Salmon River
+Snake River	tributaryRight	Clearwater River
+Snake River	tributaryRight	Palouse River
+Trombetas River	tributaryRight	Mapuera River
+Trombetas River	tributaryRight	Cachorro River
+Tigris	tributaryRight	Lake Tharthar
+Sacramento River	tributaryRight	Clear Creek
+Sacramento River	tributaryRight	Cottonwood Creek
+Sacramento River	tributaryRight	Stony Creek
+Sacramento River	tributaryRight	Cache Creek
+Sacramento River	tributaryRight	Putah Creek
+Weser	tributaryRight	Aller
+Weser	tributaryRight	Lesum
+Rio Grande	tributaryRight	Conejos River
+Rio Grande	tributaryRight	Rio Chama
+Rio Grande	tributaryRight	Rio Conchos
+Rio Grande	tributaryRight	Rio Salado
+Rio Grande	tributaryRight	Rio Alamo
+Rio Grande	tributaryRight	San Juan River
+Vltava	tributaryRight	Lužnice
+Vltava	tributaryRight	Sázava
+Jordan River	tributaryRight	Hasbani or Snir River
+Jordan River	tributaryRight	Iyyon Stream
+Krishna River	tributaryRight	Venna River
+Krishna River	tributaryRight	Koyna River
+Krishna River	tributaryRight	Panchganga River
+Krishna River	tributaryRight	Dudhaganga
+Krishna River	tributaryRight	Ghataprabha River
+Krishna River	tributaryRight	Malaprabha River
+Krishna River	tributaryRight	Tungabhadra River
+Hudson River	tributaryRight	Cedar River
+Hudson River	tributaryRight	Indian River
+Hudson River	tributaryRight	Sacandaga River
+Hudson River	tributaryRight	Mohawk River
+Hudson River	tributaryRight	Normans Kill
+Hudson River	tributaryRight	Catskill Creek
+Hudson River	tributaryRight	Esopus Creek
+Hudson River	tributaryRight	Rondout Creek
+Hudson River	tributaryRight	Wallkill River
+Godavari River	tributaryRight	Nasardi River
+Godavari River	tributaryRight	Darna River
+Godavari River	tributaryRight	Pravara River
+Godavari River	tributaryRight	Sindphana River
+Godavari River	tributaryRight	Manjira River
+Godavari River	tributaryRight	Maner River
+Godavari River	tributaryRight	Kinnerasani River
+Elbe	tributaryRight	Jizera
+Elbe	tributaryRight	Schwarze Elster
+Elbe	tributaryRight	Havel
+Elbe	tributaryRight	Elde
+Elbe	tributaryRight	Bille
+Elbe	tributaryRight	Alster
+River Severn	tributaryRight	River Teme
+River Severn	tributaryRight	River Leadon
+River Severn	tributaryRight	River Wye
+Yellow River	tributaryRight	Tao River
+Yellow River	tributaryRight	Wei River
+Delaware River	tributaryRight	Lehigh River
+Delaware River	tributaryRight	Schuylkill River
+Seine	tributaryRight	Ource
+Seine	tributaryRight	Aube
+Seine	tributaryRight	Marne
+Seine	tributaryRight	Oise
+Seine	tributaryRight	Epte
+Tisza	tributaryRight	Bodrog
+Yenisei River	tributaryRight	Angara River
+Yenisei River	tributaryRight	Lower Tunguska
+Yenisei River	tributaryRight	Stony Tunguska River
+Ob River	tributaryRight	Biya River
+Ob River	tributaryRight	Berd River
+Ob River	tributaryRight	Inya River
+Ob River	tributaryRight	Tom River
+Ob River	tributaryRight	Chulym River
+Ob River	tributaryRight	Ket River
+Ob River	tributaryRight	Tym River
+Ob River	tributaryRight	Vakh River
+Ob River	tributaryRight	Pim River
+Ob River	tributaryRight	Kazim River
+Waal	tributaryRight	Linge
+Brisbane River	tributaryRight	Lockyer Creek
+Brisbane River	tributaryRight	Bremer River
+Brisbane River	tributaryRight	Oxley Creek
+Brisbane River	tributaryRight	Norman Creek
+Brisbane River	tributaryRight	Bulimba Creek
+Amur River	tributaryRight	Argun River
+Amur River	tributaryRight	Huma River
+Amur River	tributaryRight	Songhua River
+Amur River	tributaryRight	Ussuri River
+River Parrett	tributaryRight	Bridgwater and Taunton Canal
+River Parrett	tributaryRight	River Tone
+River Parrett	tributaryRight	River Isle
+Potomac River	tributaryRight	Shenandoah River
+Potomac River	tributaryRight	Occoquan River
+Chesapeake Bay	tributaryRight	Patapsco River
+Chesapeake Bay	tributaryRight	Patuxent River
+Chesapeake Bay	tributaryRight	Potomac River
+Chesapeake Bay	tributaryRight	Rappahannock River
+Chesapeake Bay	tributaryRight	York River
+Chesapeake Bay	tributaryRight	James River
+Volga River	tributaryRight	Oka
+Tagus	tributaryRight	Gallo River
+Tagus	tributaryRight	Jarama
+Tagus	tributaryRight	Guadarrama
+Tagus	tributaryRight	Alberche
+Tagus	tributaryRight	Tiétar
+Tagus	tributaryRight	Alagón
+Tagus	tributaryRight	Zêzere River
+IJssel	tributaryRight	Oude IJssel
+IJssel	tributaryRight	Berkel
+IJssel	tributaryRight	Schipbeek
+Gran Valira	tributaryRight	Valira del Nord
+Guadalquivir	tributaryRight	Guadalimar
+Guadalquivir	tributaryRight	Jándula
+Guadalquivir	tributaryRight	Yeguas
+Guadalquivir	tributaryRight	Guadalmellato
+Guadalquivir	tributaryRight	Guadiato
+Guadalquivir	tributaryRight	Bembézar
+Guadalquivir	tributaryRight	Viar River
+Guadalquivir	tributaryRight	Rivera de Huelva
+Guadalquivir	tributaryRight	Guadiamar
+Guadiana	tributaryRight	* Cigüela / Záncara\n* Bullaque\n*Estena\n* Degebe\n* Ribeira do Vascão
+Mekong	tributaryRight	Mun River
+Mekong	tributaryRight	Tonle Sap
+Mekong	tributaryRight	Kok River
+Mekong	tributaryRight	Ruak River
+Syr Darya	tributaryRight	Naryn River
+Syr Darya	tributaryRight	Chirciq River
+Syr Darya	tributaryRight	Arys River
+Syr Darya	tributaryRight	Chu River
+Syr Darya	tributaryRight	Sarysu River
+Saône	tributaryRight	Azergues
+Saône	tributaryRight	Morgon
+Swan River	tributaryRight	Ellen Brook
+Swan River	tributaryRight	Helena River
+Swan River	tributaryRight	Bennett Brook
+Swan River	tributaryRight	Canning River
+Han River	tributaryRight	Seom River
+Han River	tributaryRight	Bukhan River
+Han River	tributaryRight	Jungnangcheon
+Han River	tributaryRight	Gongneungcheon
+Han River	tributaryRight	Rimjin River
+Humber	tributaryRight	River Trent
+Humber	tributaryRight	River Ancholme
+Humber	tributaryRight	River Freshney
+Ems	tributaryRight	Leda River
+Ems	tributaryRight	Hase
+River Wensum	tributaryRight	River Tud
+River Aire	tributaryRight	River Worth
+River Aire	tributaryRight	Bradford Beck
+River Aire	tributaryRight	River Calder, West Yorkshire
+River Welland	tributaryRight	River Jordan, Northamptonshire
+River Witham	tributaryRight	River Brant
+Red River of the North	tributaryRight	Buffalo River
+Red River of the North	tributaryRight	Roseau River
+River Little Ouse	tributaryRight	River Thet
+River Avon, Hampshire	tributaryRight	River Nadder
+River Avon, Hampshire	tributaryRight	River Ebble
+River Avon, Warwickshire	tributaryRight	River Swift
+River Avon, Warwickshire	tributaryRight	River Sowe
+River Avon, Warwickshire	tributaryRight	River Arrow, Worcestershire
+River Avon	tributaryRight	River Trym
+River Avon	tributaryRight	River Frome, Bristol
+River Avon	tributaryRight	Siston Brook
+River Avon	tributaryRight	River Boyd
+River Avon	tributaryRight	Lam Brook
+River Avon	tributaryRight	Bybrook River
+River Avon	tributaryRight	Gauze Brook
+Avon River	tributaryRight	Mackie River
+Avon River	tributaryRight	Mortlock River
+Avon River	tributaryRight	Brockman River
+River Derwent, Cumbria	tributaryRight	River Greta, Cumbria
+River Derwent, Derbyshire	tributaryRight	River Westend
+River Derwent, Derbyshire	tributaryRight	River Ashop
+River Derwent, Derbyshire	tributaryRight	River Noe
+River Derwent, Derbyshire	tributaryRight	River Wye, Derbyshire
+River Derwent, Derbyshire	tributaryRight	River Ecclesbourne
+River Derwent, Yorkshire	tributaryRight	Pocklington Canal
+River Derwent, Yorkshire	tributaryRight	River Hertford
+River Derwent	tributaryRight	Styx River
+River Derwent	tributaryRight	Plenty River
+River Derwent	tributaryRight	Lachlan River
+Kansas River	tributaryRight	Smoky Hill River
+Kansas River	tributaryRight	Wakarusa River
+Cagayan River	tributaryRight	Ilagan River
+Cagayan River	tributaryRight	Pinacanauan River
+Republican River	tributaryRight	Arikaree River
+Republican River	tributaryRight	South Fork Republican River
+Republican River	tributaryRight	Sappa Creek
+Republican River	tributaryRight	Prairie Dog Creek
+Smoky Hill River	tributaryRight	Ladder Creek
+Chao Phraya River	tributaryRight	Sakae Krang River
+River Douglas	tributaryRight	River Yarrow
+River Tay	tributaryRight	River Almond, Perth and Kinross
+River Tay	tributaryRight	River Earn
+River Tay	tributaryRight	River Braan
+Glomma	tributaryRight	Rena
+Merrimack River	tributaryRight	Contoocook River
+Merrimack River	tributaryRight	Piscataquog River
+Merrimack River	tributaryRight	Souhegan River
+Merrimack River	tributaryRight	Nashua River
+Merrimack River	tributaryRight	Concord River
+Kaveri	tributaryRight	Kabini River
+Kaveri	tributaryRight	Bhavani River
+Kaveri	tributaryRight	Noyyal
+Kaveri	tributaryRight	Amaravati River
+Orange River	tributaryRight	Caledon River
+Orange River	tributaryRight	Vaal River
+Los Angeles River	tributaryRight	Arroyo Calabasas
+Los Angeles River	tributaryRight	Compton Creek
+Colorado River	tributaryRight	Kanab River
+Colorado River	tributaryRight	Virgin River
+Colorado River	tributaryRight	Hardy River
+Brahmaputra River	tributaryRight	Kameng River
+Brahmaputra River	tributaryRight	Manas River
+Brahmaputra River	tributaryRight	Teesta River
+Río de la Plata	tributaryRight	Paraná River
+Río de la Plata	tributaryRight	Salado River
+Red River	tributaryRight	Đà River
+Monongahela River	tributaryRight	Cheat River
+Monongahela River	tributaryRight	Youghiogheny River
+Monongahela River	tributaryRight	Turtle Creek
+River Kennet	tributaryRight	River Dun
+River Kennet	tributaryRight	River Enborne
+River Kennet	tributaryRight	Clayhill Brook
+River Kennet	tributaryRight	Foudry Brook
+River Usk	tributaryRight	Afon Hydfer
+River Usk	tributaryRight	Afon Crai
+River Usk	tributaryRight	Afon Senni
+River Usk	tributaryRight	Afon Tarell
+River Usk	tributaryRight	Afon Cynrig
+River Usk	tributaryRight	Afon Menasgin
+River Usk	tributaryRight	Caerfanell
+River Usk	tributaryRight	Afon Crawnon
+River Usk	tributaryRight	Afon Llwyd
+River Usk	tributaryRight	Ebbw River
+River Trent	tributaryRight	River Sow
+River Trent	tributaryRight	River Mease
+River Trent	tributaryRight	River Tame, West Midlands
+River Trent	tributaryRight	River Soar
+River Trent	tributaryRight	River Devon, Nottinghamshire
+River Trent	tributaryRight	River Eau
+James River	tributaryRight	Appomattox River
+Eider	tributaryRight	Treene, Sorge
+St. Croix River	tributaryRight	Apple River
+St. Croix River	tributaryRight	Namekagon River
+St. Croix River	tributaryRight	Kinnickinnic River
+Susquehanna River	tributaryRight	Unadilla River
+Susquehanna River	tributaryRight	Chenango River
+Susquehanna River	tributaryRight	Chemung River
+Susquehanna River	tributaryRight	West Branch Susquehanna River
+Susquehanna River	tributaryRight	Juniata River
+Raritan River	tributaryRight	Dukes Brook
+Raritan River	tributaryRight	Millstone River
+Raritan River	tributaryRight	Fox Creek
+Raritan River	tributaryRight	Mile Run
+Raritan River	tributaryRight	Lawrence Brook
+Raritan River	tributaryRight	South River
+Yarra River	tributaryRight	Gardiners Creek
+Yarra River	tributaryRight	Koonung Creek
+Yarra River	tributaryRight	Mullum Mullum Creek
+Yarra River	tributaryRight	Olinda Creek
+Yarra River	tributaryRight	Woori Yallock Creek
+Yarra River	tributaryRight	Little Yarra River
+Savannah River	tributaryRight	Tugaloo River
+River Boyne	tributaryRight	Enfield Blackwater
+River Medway	tributaryRight	River Teise
+River Medway	tributaryRight	River Beult
+River Medway	tributaryRight	Loose Stream
+River Medway	tributaryRight	River Len
+River Wye	tributaryRight	River Trothy
+River Wye	tributaryRight	River Monnow
+River Wye	tributaryRight	Dulas Brook, more
+Mackenzie River	tributaryRight	Great Bear River
+Connecticut River	tributaryRight	White River
+Georges River	tributaryRight	O'Hares Creek
+Georges River	tributaryRight	Woronora River
+Pasig River	tributaryRight	Marikina River
+Snoqualmie River	tributaryRight	Tolt River
+Jiu River	tributaryRight	Jiul de Vest
+Jiu River	tributaryRight	Motru River
+Arkansas River	tributaryRight	Cimarron River
+Arkansas River	tributaryRight	Salt Fork Arkansas River
+Arkansas River	tributaryRight	Canadian River
+Arkansas River	tributaryRight	Poteau River
+Platte River	tributaryRight	South Platte River
+Crișul Repede	tributaryRight	Barcău
+Mohawk River	tributaryRight	Oriskany Creek
+Mohawk River	tributaryRight	Schoharie Creek
+Mohawk River	tributaryRight	Plotter Kill
+San Joaquin River	tributaryRight	Merced River
+San Joaquin River	tributaryRight	Tuolumne River
+San Joaquin River	tributaryRight	Stanislaus River
+San Joaquin River	tributaryRight	Mokelumne River
+River Arun	tributaryRight	River Rother, West Sussex
+Chehalis River	tributaryRight	Newaukum River
+Chehalis River	tributaryRight	Skookumchuck River
+Chehalis River	tributaryRight	Satsop River
+Chehalis River	tributaryRight	Wynoochee River
+Chehalis River	tributaryRight	Wishkah River
+Cowlitz River	tributaryRight	Tilton River
+White River	tributaryRight	Buffalo National River
+White River	tributaryRight	Little Red River
+White River	tributaryRight	Bayou des Arc
+Rio Negro	tributaryRight	Vaupés River
+River Soar	tributaryRight	River Sence
+River Soar	tributaryRight	River Wreake
+River Soar	tributaryRight	Kingston Brook
+Murrumbidgee River	tributaryRight	Bredbo River
+Murrumbidgee River	tributaryRight	Molonglo River
+Murrumbidgee River	tributaryRight	Yass River
+Murrumbidgee River	tributaryRight	Lachlan River
+Darling River	tributaryRight	Culgoa River
+Darling River	tributaryRight	Warrego River
+Darling River	tributaryRight	Paroo River
+Don River	tributaryRight	German Mills Creek
+River Wye, Derbyshire	tributaryRight	River Lathkill
+River Noe	tributaryRight	Peakshole Water
+Ouachita River	tributaryRight	Caddo River
+Ouachita River	tributaryRight	Little River
+Cache River	tributaryRight	Bayou De View
+Meramec River	tributaryRight	Big River
+Kura River	tributaryRight	Algeti
+Kura River	tributaryRight	Khrami River
+Kura River	tributaryRight	Tartarchay
+Kura River	tributaryRight	Aras River
+Yamuna	tributaryRight	Chambal River
+Yamuna	tributaryRight	Betwa River
+Yamuna	tributaryRight	Ken River
+Yamuna	tributaryRight	Sindh River
+Yamuna	tributaryRight	Tons River
+River Camel	tributaryRight	De Lank River
+River Camel	tributaryRight	River Allen, Cornwall
+River Exe	tributaryRight	River Barle
+Lena River	tributaryRight	Vitim River
+Lena River	tributaryRight	Olyokma River
+Lena River	tributaryRight	Aldan River
+Dnieper	tributaryRight	Drut River
+Dnieper	tributaryRight	Berezina River
+Dnieper	tributaryRight	Pripyat River
+Dnieper	tributaryRight	Teteriv River
+Dnieper	tributaryRight	Irpin River
+Dnieper	tributaryRight	Stuhna River
+Dnieper	tributaryRight	Ros River
+Dnieper	tributaryRight	Tiasmyn River
+Dnieper	tributaryRight	Bazavluk River
+Dnieper	tributaryRight	Inhulets River
+River Teign	tributaryRight	River Bovey
+River Teign	tributaryRight	River Lemon
+Kings River	tributaryRight	Middle Fork Kings River
+Kings River	tributaryRight	North Fork Kings River
+Noteć	tributaryRight	Gwda
+Noteć	tributaryRight	Drawa
+Kızılırmak River	tributaryRight	Delice River
+Parramatta River	tributaryRight	Duck River
+Parramatta River	tributaryRight	Haslams Creek
+Parramatta River	tributaryRight	Powells Creek
+Parramatta River	tributaryRight	Iron Cove Creek
+Parramatta River	tributaryRight	Hawthorne Canal
+Tongue River	tributaryRight	Goose Creek
+River Tame, West Midlands	tributaryRight	River Rea
+River Tame, West Midlands	tributaryRight	River Blythe
+River Tame, West Midlands	tributaryRight	River Bourne, Warwickshire
+River Tame, West Midlands	tributaryRight	River Anker
+River Dee, Wales	tributaryRight	Afon Ceiriog
+River Dee, Wales	tributaryRight	Wych Brook
+River Dee, Galloway	tributaryRight	Water of Ken
+River Lugg	tributaryRight	River Arrow
+Bagmati River	tributaryRight	Manohara
+Bagmati River	tributaryRight	Marin khola
+Bagmati River	tributaryRight	Adhwara
+Bagmati River	tributaryRight	Kamala
+Little Colorado River	tributaryRight	Zuni River
+Little Colorado River	tributaryRight	Puerco River
+St. Johns River	tributaryRight	Julington Creek
+St. Johns River	tributaryRight	Intracoastal Waterway/Sisters Creek
+Condamine River	tributaryRight	Oakey, Queensland
+Condamine River	tributaryRight	Dalby, Queensland
+Condamine River	tributaryRight	Macalister, Queensland
+Orkhon River	tributaryRight	Tuul River
+Orkhon River	tributaryRight	Kharaa River
+River Maun	tributaryRight	Vicar Water
+River Maun	tributaryRight	Rainworth Water
+Franklin River	tributaryRight	Andrew River
+Schuylkill River	tributaryRight	Tulpehocken Creek
+Schuylkill River	tributaryRight	French Creek
+Chenango River	tributaryRight	Tioughnioga River
+Housatonic River	tributaryRight	West Branch Housatonic River
+Housatonic River	tributaryRight	Williams River, Housatonic River
+Housatonic River	tributaryRight	Green River, Housatonic River
+Housatonic River	tributaryRight	Salmon Creek
+Housatonic River	tributaryRight	Ten Mile River
+Housatonic River	tributaryRight	Still River
+Suwannee River	tributaryRight	Alapaha River
+Suwannee River	tributaryRight	Withlacoochee River
+Santa Clara River	tributaryRight	San Francisquito Creek
+Santa Clara River	tributaryRight	Castaic Creek
+Santa Clara River	tributaryRight	Piru Creek
+Santa Clara River	tributaryRight	Sespe Creek
+Tuolumne River	tributaryRight	Cherry Creek
+Tuolumne River	tributaryRight	Clavey River
+Tuolumne River	tributaryRight	North Fork Tuolumne River
+Bighorn River	tributaryRight	Little Wind River
+Bighorn River	tributaryRight	Little Bighorn River
+Yellowstone River	tributaryRight	Boulder River
+Yellowstone River	tributaryRight	Stillwater River
+Yellowstone River	tributaryRight	Tongue River
+Yellowstone River	tributaryRight	Powder River
+North Platte River	tributaryRight	Medicine Bow River
+North Platte River	tributaryRight	Laramie River
+Green River	tributaryRight	Yampa River
+Green River	tributaryRight	White River
+Big Thompson River	tributaryRight	Little Thompson River
+Madawaska River	tributaryRight	York River
+Mureș	tributaryRight	Arieș River
+Tom River	tributaryRight	Ushayka River
+Tura River	tributaryRight	Tagil River
+Tura River	tributaryRight	Nitsa River
+Tura River	tributaryRight	Pyshma River
+Hoosic River	tributaryRight	North Branch Hoosic River, Walloomsac River
+Piscataqua River	tributaryRight	Cochecho River
+Piscataqua River	tributaryRight	Great Bay
+Rouge River	tributaryRight	Beaver Creek
+Gila River	tributaryRight	San Francisco River
+Gila River	tributaryRight	Salt River
+San Juan River	tributaryRight	Piedra River
+San Juan River	tributaryRight	Animas River
+Gunnison River	tributaryRight	Smith Fork
+Gunnison River	tributaryRight	Kannah Creek
+Virgin River	tributaryRight	Ash Creek
+Virgin River	tributaryRight	Santa Clara River
+Virgin River	tributaryRight	Beaver Dam Wash
+New River	tributaryRight	Little River
+New River	tributaryRight	Indian Creek
+New River	tributaryRight	Greenbrier River
+Yampa River	tributaryRight	Elk River
+Yampa River	tributaryRight	Little Snake River
+Dolores River	tributaryRight	West Dolores River
+Selenga River	tributaryRight	Uda River
+Roaring Fork River	tributaryRight	Fryingpan River
+Blue River	tributaryRight	Snake River
+Balonne River	tributaryRight	Maranoa River
+Saint John River	tributaryRight	Allagash River
+Saint John River	tributaryRight	Aroostook River
+Saint John River	tributaryRight	Nerepis River
+Beaverhead River	tributaryRight	Red Rock River
+Jefferson River	tributaryRight	Big Hole River
+Sun River	tributaryRight	Willow Creek
+Mun River	tributaryRight	Dom Noi River
+Lamar River	tributaryRight	Slough Creek
+River Cherwell	tributaryRight	Sor Brook
+River Cherwell	tributaryRight	Mill Lane brook
+Laramie River	tributaryRight	Chugwater Creek
+Souris River	tributaryRight	Gainsborough Creek
+Bronx River	tributaryRight	Troublesome Brook
+Bronx River	tributaryRight	Grassy Sprain Brook
+Danube–Black Sea Canal	tributaryRight	Main Branch
+Danube–Black Sea Canal	tributaryRight	Popa Nica River
+Danube–Black Sea Canal	tributaryRight	Medgidia River
+Danube–Black Sea Canal	tributaryRight	Siminoc River
+Danube–Black Sea Canal	tributaryRight	Șerplea River
+Danube–Black Sea Canal	tributaryRight	Agigea Canal
+Danube–Black Sea Canal	tributaryRight	Agigea River
+Little Tennessee River	tributaryRight	Tuckasegee River
+Little Tennessee River	tributaryRight	Hazel Creek
+Little Tennessee River	tributaryRight	Abrams Creek
+Cumberland River	tributaryRight	Clover Fork
+Cumberland River	tributaryRight	Poor Fork
+Cumberland River	tributaryRight	Red River
+Cumberland River	tributaryRight	Little River
+Passaic River	tributaryRight	Dead River
+Haw River	tributaryRight	Great Alamance Creek
+Sava	tributaryRight	Ljubljanica
+Sava	tributaryRight	Krka
+Sava	tributaryRight	Kupa
+Sava	tributaryRight	Una
+Sava	tributaryRight	Vrbas
+Sava	tributaryRight	Ukrina
+Sava	tributaryRight	Bosna
+Sava	tributaryRight	Tinja
+Sava	tributaryRight	Drina
+Sava	tributaryRight	Kolubara
+French Broad River	tributaryRight	Swannanoa River
+French Broad River	tributaryRight	Nolichucky River
+Talbragar River	tributaryRight	Coolaburragundy River
+Macquarie River	tributaryRight	Turon River
+Macquarie River	tributaryRight	Cudgegong River
+Macquarie River	tributaryRight	Talbragar River
+Gwydir River	tributaryRight	Moredun Creek
+Gordon River	tributaryRight	Smith River
+Gordon River	tributaryRight	Denison River
+Gordon River	tributaryRight	Spence River
+Mattawa River	tributaryRight	Kaibuskong River
+Mattawa River	tributaryRight	Amable du Fond River
+Narva River	tributaryRight	Plyussa, Rosson
+Tapajós	tributaryRight	Teles Pires
+Tapajós	tributaryRight	Cururu River
+Tapajós	tributaryRight	Das Tropas River
+Tapajós	tributaryRight	Crepori River
+Tapajós	tributaryRight	Jamanxim River
+Narmada River	tributaryRight	Choral river
+Narmada River	tributaryRight	Kolar River
+Chemung River	tributaryRight	Tioga River
+Kanawha River	tributaryRight	Elk River
+Kanawha River	tributaryRight	Pocatalico River
+White River	tributaryRight	Greenwater River
+Hunter River	tributaryRight	Goulburn River
+Goulburn River	tributaryRight	Seven Creeks
+Goulburn River	tributaryRight	Broken River
+Macleay River	tributaryRight	Apsley River
+Macleay River	tributaryRight	Stockyard Creek
+Cooper Creek	tributaryRight	Barcoo River
+Abitibi River	tributaryRight	Little Abitibi River
+River Barrow	tributaryRight	River Nore
+River Barrow	tributaryRight	River Suir
+Lehigh River	tributaryRight	Black Creek
+Lehigh River	tributaryRight	Mauch Chunk Creek
+Lehigh River	tributaryRight	Mahoning Creek
+Lehigh River	tributaryRight	Lizard Creek
+Lehigh River	tributaryRight	Little Lehigh Creek
+Nervión	tributaryRight	Ibaizabal
+Buller River	tributaryRight	Hope River
+Buller River	tributaryRight	Owen River
+Buller River	tributaryRight	Matiri River
+Connoquenessing Creek	tributaryRight	Sullivan Run
+Connoquenessing Creek	tributaryRight	Little Connoquenessing Creek
+Connoquenessing Creek	tributaryRight	Slippery Rock Creek
+Juniata River	tributaryRight	Raystown Branch Juniata River
+Juniata River	tributaryRight	Aughwick Creek
+Juniata River	tributaryRight	Tuscarora Creek
+Waitaki River	tributaryRight	Hakataramea River
+Desna River	tributaryRight	Sudost River
+Salmon River	tributaryRight	Pahsimeroi River
+Salmon River	tributaryRight	Lemhi River
+Wind River	tributaryRight	Little Wind River
+Puyallup River	tributaryRight	Mowich River
+Puyallup River	tributaryRight	Carbon River
+Puyallup River	tributaryRight	White River
+Lackawaxen River	tributaryRight	Wallenpaupack Creek
+Anacostia River	tributaryRight	Northwest Branch Anacostia River
+Maurice River	tributaryRight	Green Branch
+Maurice River	tributaryRight	Muddy Run
+Maurice River	tributaryRight	Mill Creek
+Current River	tributaryRight	Big Creek
+Current River	tributaryRight	Jacks Fork
+Current River	tributaryRight	Big Spring
+St. Francis River	tributaryRight	Stouts Creek
+St. Francis River	tributaryRight	Marble Creek
+St. Francis River	tributaryRight	Big Creek
+St. Francis River	tributaryRight	Otter Creek
+St. Francis River	tributaryRight	L'Anguille River
+Tappan Zee	tributaryRight	Sparkill Creek
+Tug Fork	tributaryRight	Elkhorn Creek
+Tug Fork	tributaryRight	Pigeon Creek
+Tug Fork	tributaryRight	Marrowbone Creek
+Osage River	tributaryRight	Little Osage River
+Osage River	tributaryRight	Sac River
+Osage River	tributaryRight	Pomme de Terre River
+Osage River	tributaryRight	Niangua River
+Santa Ana River	tributaryRight	Bear Creek
+Santa Ana River	tributaryRight	City Creek
+Santa Ana River	tributaryRight	Lytle Creek
+Santa Ana River	tributaryRight	Chino Creek
+Youghiogheny River	tributaryRight	Casselman River
+John Day River	tributaryRight	North Fork John Day River
+Clark Fork River	tributaryRight	Blackfoot River
+Clark Fork River	tributaryRight	Flathead River
+Pend Oreille River	tributaryRight	Clark Fork
+Pend Oreille River	tributaryRight	Pack River
+Pend Oreille River	tributaryRight	Priest River
+Okanogan River	tributaryRight	Similkameen River
+Kootenay River	tributaryRight	St. Mary River
+Kootenay River	tributaryRight	Yaak River
+Kootenay River	tributaryRight	Moyie River
+Kootenay River	tributaryRight	Goat River
+Kootenay River	tributaryRight	Duncan River
+Kootenay River	tributaryRight	Slocan River
+River Wandle	tributaryRight	Norbury Brook
+Malheur River	tributaryRight	South Fork Malheur River
+Quinn River	tributaryRight	Kings River
+Grande Ronde River	tributaryRight	Catherine Creek
+Grande Ronde River	tributaryRight	Wallowa River
+Grande Ronde River	tributaryRight	Joseph Creek
+Coast Fork Willamette River	tributaryRight	Row River
+Kobuk River	tributaryRight	Salmon River
+Colo River	tributaryRight	Wollangambe River
+Hawkesbury River	tributaryRight	South Creek
+Hawkesbury River	tributaryRight	Berowra Creek
+Paw Paw River	tributaryRight	Paw Paw Lake
+Kankakee River	tributaryRight	Little Kankakee River
+Kankakee River	tributaryRight	Crooked Creek
+St. Joseph River	tributaryRight	Nottawa Creek
+St. Joseph River	tributaryRight	St. Joseph Counties)
+St. Joseph River	tributaryRight	Rocky River
+St. Joseph River	tributaryRight	Dowagiac River
+St. Joseph River	tributaryRight	Paw Paw River
+West Branch Susquehanna River	tributaryRight	Chest Creek
+West Branch Susquehanna River	tributaryRight	Anderson Creek
+West Branch Susquehanna River	tributaryRight	Clearfield Creek
+West Branch Susquehanna River	tributaryRight	Bald Eagle Creek
+West Branch Susquehanna River	tributaryRight	White Deer Hole Creek
+Dirty Devil River	tributaryRight	Fremont River
+Sevier River	tributaryRight	East Fork Sevier River
+Sevier River	tributaryRight	San Pitch River
+Petitcodiac River	tributaryRight	Turtle Creek, New Brunswick
+Pit River	tributaryRight	Squaw Creek
+Pit River	tributaryRight	McCloud River
+Magdalena River	tributaryRight	Rio Negro
+Peace River	tributaryRight	Parsnip River
+Peace River	tributaryRight	Pine River
+Peace River	tributaryRight	Kiskatinaw River
+Peace River	tributaryRight	Smoky River
+Peace River	tributaryRight	Wabasca River
+Peace River	tributaryRight	Mikkwa River
+Feather River	tributaryRight	Sutter Basin
+Napa River	tributaryRight	Dry Creek
+Napa River	tributaryRight	Carneros Creek
+Trinity River	tributaryRight	New River
+Rio Hondo	tributaryRight	Santa Anita Creek
+Rio Hondo	tributaryRight	Eaton Canyon
+Animas River	tributaryRight	Lime Creek
+Owens River	tributaryRight	Hot Creek
+Owens River	tributaryRight	Rock Creek
+Owens River	tributaryRight	Bishop Creek
+Owens River	tributaryRight	Big Pine Creek
+Owens River	tributaryRight	Birch Creek
+Eel River	tributaryRight	Middle Fork Eel River
+Eel River	tributaryRight	North Fork Eel River
+Eel River	tributaryRight	Van Duzen River
+Santa Margarita River	tributaryRight	Murrieta Creek
+Santa Margarita River	tributaryRight	Sandia Creek
+Santa Margarita River	tributaryRight	De Luz Creek
+Santa Margarita River	tributaryRight	Wood Canyon
+Santa Margarita River	tributaryRight	Newton Canyon
+Smith River	tributaryRight	North Fork Smith River
+River Ogmore	tributaryRight	River Llynfi
+River Ogmore	tributaryRight	River Garw
+Clearwater River	tributaryRight	Snahapish River
+Skagit River	tributaryRight	Baker River
+Queets River	tributaryRight	Clearwater River
+Verde River	tributaryRight	Granite Creek
+Nisqually River	tributaryRight	Mashel River
+Salinas River	tributaryRight	Estrella River
+Mahanadi	tributaryRight	Ong River
+Mahanadi	tributaryRight	Jonk River
+Mahanadi	tributaryRight	Telen River
+Tellico River	tributaryRight	North River
+Meander River	tributaryRight	Liffey River
+Jarama	tributaryRight	Manzanares River
+Macintyre River	tributaryRight	Severn River
+Macintyre River	tributaryRight	Dumaresq River
+Mississagi River	tributaryRight	Bolton River
+Emory River	tributaryRight	Obed River
+Doe River	tributaryRight	Little Doe River
+Sequatchie River	tributaryRight	Little Sequatchie River
+Caney Fork River	tributaryRight	Calfkiller River
+Caney Fork River	tributaryRight	Falling Water River
+Obed River	tributaryRight	Little Obed River
+Skeena River	tributaryRight	Kitwanga River
+Skeena River	tributaryRight	Kitsumkalum River
+Lesum	tributaryRight	Hamme
+Hiwassee River	tributaryRight	Valley River
+Clinch River	tributaryRight	Guest River
+Clinch River	tributaryRight	North Fork Clinch River
+Clinch River	tributaryRight	Powell River
+Clinch River	tributaryRight	Coal Creek
+Clinch River	tributaryRight	Poplar Creek
+Clinch River	tributaryRight	Emory River
+River Bollin	tributaryRight	River Dean
+River Irwell	tributaryRight	River Roch
+River Irwell	tributaryRight	River Irk
+River Irwell	tributaryRight	River Medlock
+River Roch	tributaryRight	Parr Brook
+River Roch	tributaryRight	Hollins Brook
+River Roch	tributaryRight	Wrigley Brook
+River Roch	tributaryRight	Millers Brook
+River Roch	tributaryRight	Sudden Brook
+River Roch	tributaryRight	Moss Brook
+River Roch	tributaryRight	Stanney Brook
+River Roch	tributaryRight	River Beal
+River Roch	tributaryRight	Ealees Brook
+River Roch	tributaryRight	Greenvale Brook
+Siret	tributaryRight	Suceava River
+Siret	tributaryRight	Moldova River
+Siret	tributaryRight	Bistrița
+Siret	tributaryRight	Trotuș River
+Siret	tributaryRight	Putna River
+Siret	tributaryRight	Buzău River
+River Eden, Cumbria	tributaryRight	River Irthing
+River Brent	tributaryRight	Mutton Brook
+Nizhnyaya Tunguska River	tributaryRight	Kochechum River
+Logan River	tributaryRight	Running Creek
+Logan River	tributaryRight	Albert River
+Seine River	tributaryRight	Firesteel River
+River Colne, Hertfordshire	tributaryRight	Ellen Brook
+River Colne, Hertfordshire	tributaryRight	River Ver
+River Colne, Hertfordshire	tributaryRight	River Gade
+River Colne, Hertfordshire	tributaryRight	River Chess
+River Colne, Hertfordshire	tributaryRight	River Misbourne
+Kenogami River	tributaryRight	Kabinakagami River
+Kenogami River	tributaryRight	Flint River
+River Taff	tributaryRight	River Cynon
+River Taff	tributaryRight	Nant Clydach
+River Taff	tributaryRight	River Rhondda
+Volkhov River	tributaryRight	Vishera River
+Liard River	tributaryRight	Meister River
+Liard River	tributaryRight	Rancheria River
+Liard River	tributaryRight	Dease River
+Liard River	tributaryRight	Kechika River
+Liard River	tributaryRight	Rabbit River
+Liard River	tributaryRight	Vents River
+Liard River	tributaryRight	Trout River
+Liard River	tributaryRight	Toad River
+Liard River	tributaryRight	Fort Nelson River
+River Lagan	tributaryRight	Carryduff River
+Morava	tributaryRight	Mírovka
+Morava	tributaryRight	Haná
+Morava	tributaryRight	Thaya
+River Clun, Shropshire	tributaryRight	River Redlake
+Petawawa River	tributaryRight	Barron River
+Petawawa River	tributaryRight	Crow River
+Petawawa River	tributaryRight	Little Madawaska River
+Oatka Creek	tributaryRight	Mud Creek
+Muskrat River	tributaryRight	Buttermilk Creek
+Timiș River	tributaryRight	Bistra River
+Cheat River	tributaryRight	Big Sandy Creek
+Paraguay River	tributaryRight	Jauru River
+Paraguay River	tributaryRight	Pilcomayo River
+Paraguay River	tributaryRight	Bermejo River
+Buffalo River	tributaryRight	Cazenovia Creek
+Han River	tributaryRight	Du River
+Han River	tributaryRight	Chi River
+Han River	tributaryRight	Nan River
+Han River	tributaryRight	Muma River
+Black River	tributaryRight	Moose River
+Black River	tributaryRight	Independence River
+Black River	tributaryRight	Beaver River
+Murg	tributaryRight	Forbach
+River Nore	tributaryRight	River Barrow
+Oswego River	tributaryRight	Oneida River
+Burnett River	tributaryRight	Nogo River
+Burnett River	tributaryRight	Auburn River
+Burnett River	tributaryRight	Boyne River
+Bistrița	tributaryRight	Dorna River
+Bistrița	tributaryRight	Bistricioara River
+Bistrița	tributaryRight	Bicaz River
+Bistrița River	tributaryRight	Bârgău River
+Monocacy River	tributaryRight	Toms Creek
+Monocacy River	tributaryRight	Tuscarora Creek
+Monocacy River	tributaryRight	Carroll Creek
+Monocacy River	tributaryRight	Ballenger Creek
+River Dove, Central England	tributaryRight	River Manifold
+River Dove, Central England	tributaryRight	River Churnet
+Körös	tributaryRight	Crișul Negru
+Körös	tributaryRight	Crișul Repede
+Olt River	tributaryRight	Cormoș River
+Olt River	tributaryRight	Cibin
+Olt River	tributaryRight	Lotru
+Olt River	tributaryRight	Olteț
+San Gabriel River	tributaryRight	West Fork San Gabriel River
+San Gabriel River	tributaryRight	Rio Hondo
+Mitchell River	tributaryRight	Alice River
+River Axe	tributaryRight	Cheddar Yeo
+Blind River	tributaryRight	Potomac River
+Pechora River	tributaryRight	Ilych River
+Pechora River	tributaryRight	Schugor River
+Pechora River	tributaryRight	Usa River
+Skootamatta River	tributaryRight	Rainy Creek
+Skootamatta River	tributaryRight	Killer Creek
+Skootamatta River	tributaryRight	Partridge Creek
+Skootamatta River	tributaryRight	Elzevir Creek
+River Lathkill	tributaryRight	River Bradford
+Choptank River	tributaryRight	Tuckahoe Creek
+Nakdong River	tributaryRight	Nam River
+Lymington River	tributaryRight	Warwickslade Cutting Railway
+Bayfield River	tributaryRight	Silver Creek
+Argeș	tributaryRight	Neajlov River
+Crowe River	tributaryRight	North River
+River Teifi	tributaryRight	River Dulas
+River Kent	tributaryRight	River Gowan, Cumbria
+River Kent	tributaryRight	River Gilpin
+River Kent	tributaryRight	River Winster
+Warrego River	tributaryRight	Nive River
+Wolseley River	tributaryRight	Wolf River
+Târnava River	tributaryRight	Târnava Mică
+Seneca River	tributaryRight	Cayuga Lake
+Seneca River	tributaryRight	Onondaga Lake
+Chu River	tributaryRight	Chong-Kemin River
+Chu River	tributaryRight	Kichi-Kemin River
+Moldova River	tributaryRight	Neamț River
+Alster	tributaryRight	Tarpenbek
+Alster	tributaryRight	Isebek
+Fawn River	tributaryRight	Pitticow River
+Fawn River	tributaryRight	Fat River
+Fawn River	tributaryRight	Otter River
+Fawn River	tributaryRight	Little Otter River
+Urubamba River	tributaryRight	Ch'illkamayu
+Eleven Point River	tributaryRight	Middle Creek
+Eleven Point River	tributaryRight	Greer Spring
+Eleven Point River	tributaryRight	Frederick Creek
+Eleven Point River	tributaryRight	Blue Spring
+Beverley Brook	tributaryRight	Cannizaro Park stream
+Beverley Brook	tributaryRight	Pyl Brook
+Sutlej	tributaryRight	Spiti River
+Sutlej	tributaryRight	Beas River
+Crasna	tributaryRight	Zalău River
+Chaliyar	tributaryRight	Cherupuzha
+Chaliyar	tributaryRight	Nilambur
+Alaknanda River	tributaryRight	Mandakini River
+River Neath	tributaryRight	River Dulais
+River Neath	tributaryRight	River Clydach
+Penna River	tributaryRight	Chitravathi River
+Penna River	tributaryRight	Papagni River
+Penna River	tributaryRight	Cheyyeru River
+Ponnaiyar River	tributaryRight	Pambar River
+Jock River	tributaryRight	Kings Creek
+Katun River	tributaryRight	Chuya River
+Androscoggin River	tributaryRight	Magalloway River
+Androscoggin River	tributaryRight	Peabody River
+Androscoggin River	tributaryRight	Wild River
+Balikh River	tributaryRight	Wadi Qaramogh
+River Ayr	tributaryRight	Greenock Water
+Tungabhadra River	tributaryRight	Bhadra River
+Olifants River	tributaryRight	Steelpoort River
+South Creek	tributaryRight	Kemps Creek
+South Creek	tributaryRight	Eastern Creek
+Hayes River	tributaryRight	Gods River
+Wollondilly River	tributaryRight	Mulwaree River
+Wollondilly River	tributaryRight	Wingecarribee River
+Kickapoo River	tributaryRight	Weister Creek
+Ghaghara	tributaryRight	Seti River
+Ghaghara	tributaryRight	Dahawar River
+Ghaghara	tributaryRight	Sarda River
+Ghaghara	tributaryRight	Budhi Ganga River
+Albany River	tributaryRight	Cheepay River
+Albany River	tributaryRight	Streatfeild River
+Albany River	tributaryRight	Kenogami River
+Albany River	tributaryRight	Ogoki River
+Nambucca River	tributaryRight	Taylors Arm
+Pic River	tributaryRight	Kagiano River
+Richmond River	tributaryRight	Back Creek
+Agusan River	tributaryRight	Wawa River
+Agusan River	tributaryRight	Adanan River
+Agusan River	tributaryRight	Gibong River
+Agusan River	tributaryRight	Choco River in Compostela
+Agusan River	tributaryRight	Ulip River
+Great Kei River	tributaryRight	Kubusi River
+Yuna River	tributaryRight	Maimón River
+Yuna River	tributaryRight	Maguaca River
+Yuna River	tributaryRight	Chacuey River
+Yuna River	tributaryRight	Payabo River
+Juruena River	tributaryRight	São Tomé River
+Juruena River	tributaryRight	São João da Barra River
+Juruena River	tributaryRight	Arinos River
+Juruena River	tributaryRight	Do Sangue River
+Juruena River	tributaryRight	Papagaio River
+Mahananda River	tributaryRight	Mechi River
+Putumayo River	tributaryRight	Cara Paraná River
+Paranapanema River	tributaryRight	Itapetininga River
+Paranapanema River	tributaryRight	Pardo River
+Ouham River	tributaryRight	Fafa River
+Paranaíba River	tributaryRight	Verde River
+Paranaíba River	tributaryRight	Piracanjuba River
+Paranaíba River	tributaryRight	Dos Bois River
+Paranaíba River	tributaryRight	Preto River
+Paranaíba River	tributaryRight	Alegre River
+Paranaíba River	tributaryRight	Claro River
+Paranaíba River	tributaryRight	Verde River
+Paranaíba River	tributaryRight	Corrente River
+Feni River	tributaryRight	Muhuri River
+Pelly River	tributaryRight	Ross River
+Pelly River	tributaryRight	Macmillan River
+Komoé River	tributaryRight	Léraba River
+River Tern	tributaryRight	River Meese
+River Tern	tributaryRight	River Roden, Shropshire
+Red Volta	tributaryRight	White Volta
+Greenbrier River	tributaryRight	Knapp Creek
+Bhima River	tributaryRight	Bhama River
+Bhima River	tributaryRight	Indrayani River
+Bhima River	tributaryRight	Mula-Mutha River
+Bhima River	tributaryRight	Nira River
+Broad River	tributaryRight	Pacolet River
+Broad River	tributaryRight	Enoree River
+Chambal River	tributaryRight	Parbati River
+Chambal River	tributaryRight	Kali Sindh River
+Chambal River	tributaryRight	Shipra River
+Rio Grande de Mindanao	tributaryRight	Pulangi River
+Rio Grande de Mindanao	tributaryRight	M'lang River
+Rio Grande de Mindanao	tributaryRight	Simuay River
+Arieș River	tributaryRight	Arieșul Mic
+Arieș River	tributaryRight	Abrud
+Moorabool River	tributaryRight	Lal Lal Creek
+Crișul Negru	tributaryRight	Holod River
+Hase	tributaryRight	Südradde
+Hase	tributaryRight	Mittelradde
+River Trym	tributaryRight	Hazel Brook
+Emajõgi	tributaryRight	Elva River
+Emajõgi	tributaryRight	Porijõgi
+Emajõgi	tributaryRight	Ahja River
+Periyar	tributaryRight	Perinjankutti River
+Periyar	tributaryRight	Muthirapuzha River
+Periyar	tributaryRight	Edamala River
+Wallkill River	tributaryRight	Papakating Creek
+Yalong River	tributaryRight	Muli River
+Waiau River	tributaryRight	Hope River
+Rondout Creek	tributaryRight	Coxing Kill
+Rondout Creek	tributaryRight	Wallkill River
+Pukaskwa River	tributaryRight	Fox River
+Naryn River	tributaryRight	On Archa River
+Naryn River	tributaryRight	Kara-Suu River
+Naryn River	tributaryRight	Kökömeren River
+Viskan	tributaryRight	Munkån
+Viskan	tributaryRight	Surteån
+Huon River	tributaryRight	Anne River
+Huon River	tributaryRight	Picton River
+Huon River	tributaryRight	Arve River
+Ponoy River	tributaryRight	Acheryok
+Neajlov River	tributaryRight	Dâmbovnic River
+Neajlov River	tributaryRight	Câlniștea River
+Elk River	tributaryRight	Holly River
+Thamirabarani River	tributaryRight	Manimutharu
+Thamirabarani River	tributaryRight	Pachaiyar
+Săsar River	tributaryRight	Firiza River
+Blue Earth River	tributaryRight	Le Sueur River
+Middle Island Creek	tributaryRight	Buckeye Creek
+Middle Island Creek	tributaryRight	McElroy Creek
+Middle Island Creek	tributaryRight	Indian Creek
+Middle Island Creek	tributaryRight	Point Pleasant Creek
+Subarnarekha River	tributaryRight	Kharkai River
+Sac River	tributaryRight	Little Sac River
+Rigolets	tributaryRight	Sawmill Pass
+Dry Fork	tributaryRight	Red Creek
+Clear Creek	tributaryRight	Crystal Creek
+Yuba River	tributaryRight	North Yuba River
+Wolli Creek	tributaryRight	Bardwell Creek
+Timok	tributaryRight	Beli Timok
+Clarence River	tributaryRight	Timbarra River
+Río Negro	tributaryRight	Limay River
+Numeralla River	tributaryRight	Rock Flat Creek
+Cooks River	tributaryRight	Cup and Saucer Creek
+Cooks River	tributaryRight	Alexandra Canal
+Gandaki River	tributaryRight	Kali Gandaki River
+Gandaki River	tributaryRight	Daraundi River
+Purna River	tributaryRight	Chandrabhaga River
+Purna River	tributaryRight	Shahanur River
+Mula River	tributaryRight	Mutha River
+Verdigris River	tributaryRight	Fall River
+Verdigris River	tributaryRight	Elk River
+Verdigris River	tributaryRight	Caney River
+Apurímac River	tributaryRight	Hatun Wayq'u
+Apurímac River	tributaryRight	Aqumayu
+Buzău	tributaryRight	Bâsca Chiojdului
+Methow River	tributaryRight	Twisp River
+Abercrombie River	tributaryRight	Isabella River
+Nera	tributaryRight	Miniș River
+Assunpink Creek	tributaryRight	Bridegroom Run, Shabakunk Creek
+Twelvepole Creek	tributaryRight	Beech Fork Lake
+Lillooet River	tributaryRight	Ryan River
+Lillooet River	tributaryRight	Green River
+Cibin	tributaryRight	Sadu
+Chilko River	tributaryRight	Taseko River
+Harrison River	tributaryRight	Chehalis River
+Harrison River	tributaryRight	Morris Creek
+Santa River	tributaryRight	Manta, Kitaraqsa, Allpamayu,
+Santa River	tributaryRight	Yuraqmayu, Qillqay, Llikllamayu
+Sydney River	tributaryRight	Sydney Tar Ponds
+South Esk River	tributaryRight	Nile River
+South Esk River	tributaryRight	Macquarie River
+South Esk River	tributaryRight	North Esk River
+North Esk River	tributaryRight	Ford River
+North Esk River	tributaryRight	St Patricks River
+Little River	tributaryRight	Big Branch
+Little River	tributaryRight	Brush Creek
+Little River	tributaryRight	Camp Creek
+Little River	tributaryRight	Dodd Creek
+Turon River	tributaryRight	Crudine River
+Little Osage River	tributaryRight	Marmaton River
+Pas	tributaryRight	Pisueña River
+Kidepo River	tributaryRight	Narus River, Uganda
+Milcov River	tributaryRight	Mera River
+Milcov River	tributaryRight	Dilcov River
+Milcov River	tributaryRight	Valea Neagră River
+Milcov River	tributaryRight	Argintul River
+Halifax River	tributaryRight	Tomoka River
+Mills Lake	tributaryRight	(Bear Creek Spire drainage)
+Camú River	tributaryRight	Jima River
+Someșul Mic River	tributaryRight	Someșul Rece
+Someșul Mic River	tributaryRight	Fizeș River
+Jijia River	tributaryRight	Sitna River
+Jijia River	tributaryRight	Miletin River
+Jijia River	tributaryRight	Bahlui
+Saluda River	tributaryRight	Little Saluda River
+Munster Blackwater	tributaryRight	Bride
+River Sow	tributaryRight	River Penk
+Petaluma River	tributaryRight	San Antonio Creek
+Gomal River	tributaryRight	Zhob River
+Richardson Bay	tributaryRight	Arroyo Corte Madera del Presidio
+Richardson Bay	tributaryRight	Coyote Creek
+Nanticoke River	tributaryRight	Chapel Branch
+Nanticoke River	tributaryRight	Wright Creek
+Nanticoke River	tributaryRight	Marshyhope Creek
+Nanticoke River	tributaryRight	Chicone Creek
+Nanticoke River	tributaryRight	Jacks Creek
+Nanticoke River	tributaryRight	Cow Creek
+River Alyn	tributaryRight	River Terrig
+River Alyn	tributaryRight	River Cegidog
+Kurram River	tributaryRight	Gambila River
+Topolog River	tributaryRight	Valea Dulgherului River
+Topolog River	tributaryRight	Râul Cișmelei
+Topolog River	tributaryRight	Bentu River
+Gurghiu River	tributaryRight	Lăpușna River
+Gurghiu River	tributaryRight	Fâncel River
+Gurghiu River	tributaryRight	Isticeu River
+Gurghiu River	tributaryRight	Cașva River
+Dumaresq River	tributaryRight	Pike Creek
+Dumaresq River	tributaryRight	Severn River
+Esopus Creek	tributaryRight	Woodland Creek
+White Deer Hole Creek	tributaryRight	Beartrap Hollow
+Chama River	tributaryRight	Albarregas
+Tarlac River	tributaryRight	O'Donnel River
+Elk River	tributaryRight	Hanging Rock Creek, Shawneehaw Creek
+Banica River	tributaryRight	Okoy River
+Herbert River	tributaryRight	Stone River
+Pliva	tributaryRight	Janj
+Gascoyne River	tributaryRight	Thomas River
+Zulia River	tributaryRight	Táchira River
+Zulia River	tributaryRight	Pamplonita River
+Karasjohka	tributaryRight	Bávttajohka
+Pajaro River	tributaryRight	Llagas Creek
+Pajaro River	tributaryRight	Uvas Creek
+Pajaro River	tributaryRight	Carnaderas Creek
+Pajaro River	tributaryRight	Salsipuedes Creek
+Whitewater River	tributaryRight	South Fork Whitewater River
+Whitewater River	tributaryRight	San Gorgonio River
+Whitewater River	tributaryRight	Chino Canyon
+Whitewater River	tributaryRight	Palm Canyon Wash
+Whitewater River	tributaryRight	Cathedral Canyon
+Kunar River	tributaryRight	Lotkoh River
+Kunar River	tributaryRight	Pech River
+San Jacinto River	tributaryRight	North Fork San Jacinto River
+Sweetwater River	tributaryRight	North Fork Sweetwater River
+Ventura River	tributaryRight	Matilija Creek, North Fork Matilija Creek
+Ventura River	tributaryRight	Coyote Creek
+Thredbo River	tributaryRight	Little Thredbo River
+Lagunitas Creek	tributaryRight	San Geronimo Creek
+Lagunitas Creek	tributaryRight	Nicasio Creek
+Mad River	tributaryRight	Graham Creek
+Mad River	tributaryRight	Boulder Creek
+Mad River	tributaryRight	Maple Creek
+Mad River	tributaryRight	Lindsay Creek
+Mad River	tributaryRight	Mill Creek
+Redwood Creek	tributaryRight	Minor Creek
+Alameda Creek	tributaryRight	San Antonio Creek
+Alameda Creek	tributaryRight	Arroyo de la Laguna
+Van Duzen River	tributaryRight	Yager Creek
+Fresno River	tributaryRight	Peterson Creek
+St. Marks River	tributaryRight	Lafayette Creek
+St. Marks River	tributaryRight	Wakulla River
+Brokenstraw Creek	tributaryRight	Coffee Creek
+Love River	tributaryRight	Ta Kang Creek
+Ochlockonee River	tributaryRight	Little River
+Ochlockonee River	tributaryRight	Telogia Creek
+Ochlockonee River	tributaryRight	Crooked River
+Clyde River	tributaryRight	Little Clyde River
+Afon Lledr	tributaryRight	Afon Penamnen
+Dâmbovnic	tributaryRight	Rața River
+Dâmbovnic	tributaryRight	Gliganu River
+Dâmbovnic	tributaryRight	Berivoaia River
+Dâmbovnic	tributaryRight	Șelaru River
+Sinești River	tributaryRight	Gâmboasa River
+Sinești River	tributaryRight	Iazul între Văi River
+Fishkill Creek	tributaryRight	Whortlekill Creek
+Fishkill Creek	tributaryRight	Sprout Creek
+Sonoma Creek	tributaryRight	Yulupa Creek
+Sonoma Creek	tributaryRight	Asbury Creek
+Sonoma Creek	tributaryRight	Dowdall Creek
+Sonoma Creek	tributaryRight	Fowler Creek
+Sonoma Creek	tributaryRight	Graham Creek
+Sonoma Creek	tributaryRight	Bear Creek
+Bistrița River	tributaryRight	Valea Rece River
+Bistrița River	tributaryRight	Cuca River
+Bistrița River	tributaryRight	Gurgui River
+Bistrița River	tributaryRight	Iazul Morților River
+Upper Truckee River	tributaryRight	Trout Creek
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:1016014
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:982605
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:996884
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:989920
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:1015335
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:1010808
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:1009952
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:1014073
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:1010473
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:1010726
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:1012675
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:984175
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:1013970
+Tuckasegee River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:1011340
+Arun River, China-Nepal	tributaryRight	Barun River
+Ping River	tributaryRight	Taeng River
+Ping River	tributaryRight	Chaem River
+Nan River	tributaryRight	Yom River
+Dowagiac River	tributaryRight	Silver Creek
+Yom River	tributaryRight	Ngao River
+Black River	tributaryRight	One Eye River ,Smith River, Broad River
+Moei River	tributaryRight	Yuam River
+Georgina River	tributaryRight	Ranken River, Sandover River
+Kok River	tributaryRight	Fang River
+Kok River	tributaryRight	Lao River, Thailand
+Guaporé River	tributaryRight	Guatire River
+Guaporé River	tributaryRight	Branco River
+Guaporé River	tributaryRight	Corumbiara River
+Guaporé River	tributaryRight	Colorado River
+Guaporé River	tributaryRight	Massaco River
+Guaporé River	tributaryRight	Cabixi River
+River Crouch	tributaryRight	River Roach
+Rubicon River	tributaryRight	Royston River
+North Saskatchewan River	tributaryRight	Clearwater River
+North Saskatchewan River	tributaryRight	Vermilion River
+North Saskatchewan River	tributaryRight	Battle River
+Tuul River	tributaryRight	Terelch River
+River Westend	tributaryRight	Ravens Clough
+River Westend	tributaryRight	Black Clough
+Putna River	tributaryRight	Zăbala River
+Putna River	tributaryRight	Milcov River
+Putna River	tributaryRight	Râmna River
+Tișița River	tributaryRight	Tișița Mare River
+Gurguiata River	tributaryRight	Valea Nucului River
+Gungarlin River	tributaryRight	Burrungubugge River
+Bayou des Arc	tributaryRight	Long Branch
+Bayou des Arc	tributaryRight	White Oak Creek
+Bayou des Arc	tributaryRight	Dogwood Creek
+River Glass, Isle of Man	tributaryRight	Baldwin River
+Middle Harbour Creek	tributaryRight	Two Creeks
+Matawan Creek	tributaryRight	Birch Swamp Brook
+Matawan Creek	tributaryRight	Gravelly Brook
+Matawan Creek	tributaryRight	Mohingson Creek
+Russian River	tributaryRight	Dry Creek
+Russian River	tributaryRight	Austin Creek
+Kander	tributaryRight	Öschibach
+Kander	tributaryRight	Chiene
+Kander	tributaryRight	Suld
+River Caldew	tributaryRight	River Ive
+Broad Run	tributaryRight	Walnut Run
+Wellow Brook	tributaryRight	River Somer
+Myall River	tributaryRight	Crawford River
+Fishing Creek	tributaryRight	West Branch Fishing Creek
+Fishing Creek	tributaryRight	West Creek
+Fishing Creek	tributaryRight	Culley Run
+Fishing Creek	tributaryRight	Green Creek
+Fishing Creek	tributaryRight	Little Fishing Creek
+Fishing Creek	tributaryRight	Hemlock Creek, Montour Run
+Cutler River	tributaryRight	Outlet stream from Tuckerman Ravine, New Hampshire
+Los Gatos Creek	tributaryRight	Dry Creek
+King River	tributaryRight	Dry River
+Matanzas Creek	tributaryRight	Spring Creek
+Santa Rosa Creek	tributaryRight	Piner Creek
+Santa Rosa Creek	tributaryRight	Brush Creek
+Mackintosh River	tributaryRight	Southwell River
+Westfield River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:608613
+Westfield River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:608520
+Westfield River	tributaryRight	f?p=gnispq:3:::NO::P3 FID:608892
+Westfield River	tributaryRight	map.html
+Laguna de Santa Rosa	tributaryRight	Santa Rosa Creek
+Laguna de Santa Rosa	tributaryRight	Hinebaugh Creek
+Laguna de Santa Rosa	tributaryRight	Five Creek
+Afon Crafnant	tributaryRight	River Geirionydd
+Ostravice	tributaryRight	Morávka River
+Umba River	tributaryRight	Kana River
+Wekiva River	tributaryRight	Sweetwater Creek
+Wekiva River	tributaryRight	Little Wekiva River
+Berens River	tributaryRight	Whitefish River
+Paxton Creek	tributaryRight	Asylum Run
+San Francisquito Creek	tributaryRight	Corte Madera Creek
+San Francisquito Creek	tributaryRight	Los Trancos Creek
+Gods River	tributaryRight	Echoing River
+Gilbert River	tributaryRight	Styx River
+Gilbert River	tributaryRight	Robertson River
+Cares	tributaryRight	Duje River
+Cares	tributaryRight	Bulnes River
+Bramble Bay	tributaryRight	Pine River
+Sopchoppy River	tributaryRight	Monkey Creek
+Kettle River	tributaryRight	West Kettle River
+Kettle River	tributaryRight	Rock Creek
+San Leandro Creek	tributaryRight	Redwood Creek,
+Sandy Creek	tributaryRight	Nimishillen Creek
+San Mateo Creek	tributaryRight	Laguna Creek
+Mayurakshi River	tributaryRight	Kopai River
+Mayurakshi River	tributaryRight	Brahmani River
+Mayurakshi River	tributaryRight	Dwarka River
+Mayurakshi River	tributaryRight	Bakreshwar River
+Nine Mile River, Wiltshire	tributaryRight	Damson Brook
+Kara Darya	tributaryRight	Jazy River
+Kara Darya	tributaryRight	Kegart River
+Kara Darya	tributaryRight	Kara-Unkur River
+Cerna	tributaryRight	Belareca
+Pilarcitos Creek	tributaryRight	Nuff Creek
+Pilarcitos Creek	tributaryRight	Corinda Los Trancos Creek
+Pilarcitos Creek	tributaryRight	Apanolio Creek
+Davao River	tributaryRight	Salug River
+Barakar River	tributaryRight	Barsoti River
+Betsiboka River	tributaryRight	Kamoro River
+Radbuza	tributaryRight	Úhlava
+Crati	tributaryRight	Arente, Mucone, Duglia
+Cerrito Creek	tributaryRight	Middle Creek
+Tuloma River	tributaryRight	Pecha
+Tuloma River	tributaryRight	Ulita
+Abita River	tributaryRight	Abita Creek
+Casimcea River	tributaryRight	Cartal River
+Casimcea River	tributaryRight	Pantelimon River
+Casimcea River	tributaryRight	Valea Seacă River
+Casimcea River	tributaryRight	Gura Dobrogei River
+Casimcea River	tributaryRight	Sitorman River
+Turkey River	tributaryRight	Volga River, Little Turkey River
+Smith Creek	tributaryRight	Sulphur Creek
+Sefīd-Rūd	tributaryRight	Shahrood River
+Galien River	tributaryRight	East Branch Galien River
+Galien River	tributaryRight	Kirktown Creek
+Solomon River	tributaryRight	South Fork Solomon River
+Ninnescah River	tributaryRight	South Fork Ninnescah River
+Naches River	tributaryRight	Bumping River
+Naches River	tributaryRight	Tieton River
+Malad River	tributaryRight	Big Wood River
+Fisher River	tributaryRight	Wolf Creek, Montana
+Crooked River	tributaryRight	Beaver Creek
+Crooked River	tributaryRight	North Fork Crooked River
+Crooked River	tributaryRight	Ochoco Creek
+Whitefish River	tributaryRight	West River
+Mark West Creek	tributaryRight	Laguna de Santa Rosa
+Mark West Creek	tributaryRight	Porter Creek
+Nea River	tributaryRight	Tya
+Mantaro River	tributaryRight	Ichhu River
+Mantaro River	tributaryRight	Kachimayu
+Middle Fork Willamette River	tributaryRight	Salt Creek
+Middle Fork Willamette River	tributaryRight	North Fork Middle Fork Willamette River
+Saja	tributaryRight	Argoza, Bayones, Besaya
+Shell River	tributaryRight	Blueberry River
+Fish Hook River	tributaryRight	Straight River
+Blueberry River	tributaryRight	Kettle River
+Vișeu River	tributaryRight	Vaser River
+Vișeu River	tributaryRight	Ruscova River
+Moodna Creek	tributaryRight	Woodbury Creek
+Abrud	tributaryRight	Valea Albă River
+Abrud	tributaryRight	Pârâul Buciumanilor
+Abrud	tributaryRight	Abruzel River
+Abrud	tributaryRight	Roșia Montană
+Acmariu	tributaryRight	Valea Băieșilor River
+Agriș River	tributaryRight	Pârâul Pietros
+Agrij River	tributaryRight	Răstolț River
+Aiud River	tributaryRight	Izvoarele River
+Aiud River	tributaryRight	Inzel River
+Aiud River	tributaryRight	Neau River
+Aiud River	tributaryRight	Valea Gropilor River
+Aiud River	tributaryRight	Feredeu River
+Aiud River	tributaryRight	Valea Lupului River
+Agapia River	tributaryRight	Arșița Închisă River
+Agapia River	tributaryRight	Arșița Lungă River
+Agapia River	tributaryRight	Protur River
+Agapia River	tributaryRight	Filioara River
+Agârcia River	tributaryRight	Sabău River
+Alba River	tributaryRight	Andra River
+Alba River	tributaryRight	Limpejioara River
+Albac River	tributaryRight	Valea Rorii River
+Albești River	tributaryRight	Goești River
+Albioara River	tributaryRight	Birchii River
+Drăgoteni River	tributaryRight	Arini River
+Drăgoteni River	tributaryRight	Săucani River
+Săucani River	tributaryRight	Valea Cerii River
+Strâmtura River	tributaryRight	Pârâul Uşorilor
+Meziad River	tributaryRight	Dumbrăvița River
+Meziad River	tributaryRight	Râul Peșterii
+Șoimuș River	tributaryRight	Toplicioara River
+Șoimuș River	tributaryRight	Stugariu River
+Cusuiuș River	tributaryRight	Valea Mare River
+Cusuiuș River	tributaryRight	Vranița River
+Albuia River	tributaryRight	Pârâul Mare
+Albuia River	tributaryRight	Arinoasa River
+Albuia River	tributaryRight	Rediu River
+Almaș River	tributaryRight	Valea Mare River
+Aleu River	tributaryRight	Valea Șerpilor River
+Aleu River	tributaryRight	Valea Boii River
+Aleu River	tributaryRight	Valea Mare River
+Almaș River	tributaryRight	Pârâul Rădăcinii
+Almășel River	tributaryRight	Balșa River
+Alun	tributaryRight	Valea Stânișoarei River
+Valea Boului River	tributaryRight	Mierea River
+Cerna River	tributaryRight	Glămana
+Scurtu River	tributaryRight	Gârdomanu River
+Valea lui Iovan River	tributaryRight	Godeanu River
+Balmez River	tributaryRight	Groapa Balmezului River
+Olănelul River	tributaryRight	Mihocul River
+Olanu River	tributaryRight	Olănelul River
+Rădoteasa River	tributaryRight	Bulzu River
+Vlăsia River	tributaryRight	Vlăsia Mică River
+Cărbunele River	tributaryRight	Rădoteasa River
+Straja River	tributaryRight	Valea Boului River
+Straja River	tributaryRight	Cârligu River
+Straja River	tributaryRight	Frasin River
+Ampoi River	tributaryRight	Vâltori River
+Ampoi River	tributaryRight	Feneș River
+Ampoi River	tributaryRight	Ampoița River
+Ampoi River	tributaryRight	Ighiu River
+Anieșul Mare River	tributaryRight	Izvorul Mare River
+Anieșul Mare River	tributaryRight	Izvorul Mihăiasa River
+Albac River	tributaryRight	Fericet River
+Anieșul Mic River	tributaryRight	Valea Ursului River
+Anieșul Mic River	tributaryRight	Valea Cucului River
+Anieș River	tributaryRight	Anieșul Mic River
+Anieș River	tributaryRight	Blidăreasa River
+Anieș River	tributaryRight	Runcu River
+Anieș River	tributaryRight	Muncelul River
+Gârliște River	tributaryRight	Celnicu Mare River
+Gârliște River	tributaryRight	Celnicu Mic River
+Gârliște River	tributaryRight	Jelnița River
+Apa Caldă River	tributaryRight	Pârâul Negru
+Apa Caldă River	tributaryRight	Petreasa River
+Aniniș River	tributaryRight	Ciocazeaua Radoșului River
+Apa Lazului River	tributaryRight	Râul Preotesei
+Apa Roșie River	tributaryRight	Românul River
+Apa Roșie River	tributaryRight	Valea Mare River
+Apa Mare River	tributaryRight	Apa Lină River
+Apa Mare	tributaryRight	Slatina River
+Apa Mare	tributaryRight	Sicșa River
+Apa Mare	tributaryRight	Pământ Alb
+Apold River	tributaryRight	Amnaș River
+Arcuș River	tributaryRight	Pârâul Mare
+Arcuș River	tributaryRight	Șugaș River
+Argel River	tributaryRight	Porcescu River
+Argel River	tributaryRight	Turculețu River
+Aranca River	tributaryRight	Igriș River
+Slava River	tributaryRight	Slava Cercheză River
+Slava River	tributaryRight	Camena River
+Cerna River	tributaryRight	Iaila River
+Greci River	tributaryRight	Valea Adâncă River
+Greci River	tributaryRight	Negoiu River
+Telița River	tributaryRight	Cilik Dere River
+Luncavița River	tributaryRight	Valea Glonțului River
+Argeșel River	tributaryRight	Huluba River
+Limbășelu River	tributaryRight	Limbăşelu Mare River
+Arieșul Mare	tributaryRight	Neagra River
+Arinoasa River	tributaryRight	Doljești River
+Arpaș River	tributaryRight	Podragu River
+Costești River	tributaryRight	Pârâul lui Ignat
+Desaguadero River	tributaryRight	Qullpa Jawira
+Valea Beliei	tributaryRight	Talea River
+Delgermörön	tributaryRight	Sharga River
+Delgermörön	tributaryRight	Bügsiin River
+Ider River	tributaryRight	Chuluut River
+Pârâul Bradului	tributaryRight	Pârâul Stâna lui Rusu
+Pârâul Bradului	tributaryRight	Pârâul lui Bușilă
+Iuhod River	tributaryRight	Sebeș River
+Nadeș River	tributaryRight	Ciortosu River
+Ghegheș River	tributaryRight	Neaua River
+Șicasău River	tributaryRight	Soboșa River
+Șicasău River	tributaryRight	Hotaru River
+Colca River	tributaryRight	P'ikumayu ,
+Colca River	tributaryRight	Qantumayu, Pirwamayu
+Colca River	tributaryRight	,
+Colca River	tributaryRight	Pirwa , Qullpa Pallqa Mayu
+Colca River	tributaryRight	Kunturuma , Pilluni,
+Colca River	tributaryRight	Qallumayu, Antamayu
+Cuejdiu River	tributaryRight	Chiroaiu River
+Mociaru River	tributaryRight	Pădurile River
+Păiușu River	tributaryRight	Păiuşu Mare River
+Lotru	tributaryRight	Latorița
+Mălaia River	tributaryRight	Iezer River
+Mălaia River	tributaryRight	Mălăiţa River
+Mălaia River	tributaryRight	Cârpănoasa River
+Mălaia River	tributaryRight	Păiuşu River
+Voineșița River	tributaryRight	Rânjeu River
+Bucureasa Mare River	tributaryRight	Bucureasa Mică River
+Latorița de Jos River	tributaryRight	Dengheru River
+Latorița de Jos River	tributaryRight	Cioara River
+Latorița de Jos River	tributaryRight	Bălescu
+Repedea River	tributaryRight	Groapa River
+Repedea River	tributaryRight	Coșeana River
+Repedea River	tributaryRight	Izvoru Mare,
+Repedea River	tributaryRight	Groşetu River
+Repedea River	tributaryRight	Iezer River
+Coșeana River	tributaryRight	Funicel River
+Năruja River	tributaryRight	Bălosu River
+Năruja River	tributaryRight	Mișina River
+Năruja River	tributaryRight	Secătura River
+Ilișua River	tributaryRight	Lunca River
+Ilișua River	tributaryRight	Dobric River
+Dumbrăvița River	tributaryRight	Păltineasa River
+Bratoșa River	tributaryRight	Tăul River
+Zmeu River	tributaryRight	Izvorul Corbului River
+Măria River	tributaryRight	Măria Mare River
+Părăginosu River	tributaryRight	Urzicari River
+Cârțibașu Mare River	tributaryRight	Cârțibașu River
+Ilva River	tributaryRight	Silhoasa River
+Ilva River	tributaryRight	Bolovanul River
+Ilva River	tributaryRight	Ursoaia River
+Ilva River	tributaryRight	Cucureasa River
+Șieu River	tributaryRight	Bistrița River
+Tureacu River	tributaryRight	Talpoșu River
+Bârgău River	tributaryRight	Corca River
+Bârgău River	tributaryRight	Șendroaia River
+Bârgău River	tributaryRight	Tomnatecu River
+Bârgău River	tributaryRight	Blaju River
+Izvorul Lung River	tributaryRight	Buba River
+Izvorul Lung River	tributaryRight	Valea lui Mihai River
+Cușma River	tributaryRight	Tănase River
+Muncelu River	tributaryRight	Cărbunari River
+Meleș River	tributaryRight	Pleșa River
+Meleș River	tributaryRight	Sărata River
+Pintic River	tributaryRight	Posmuș River
+Lechința River	tributaryRight	Brăteni River
+Lechința River	tributaryRight	Dipșa River
+Dipșa River	tributaryRight	Teaca River
+Dipșa River	tributaryRight	Pintic River
+Dipșa River	tributaryRight	Valea Mică River
+Budac River	tributaryRight	Bolovanul River
+Budac River	tributaryRight	Bârzetea River
+Budac River	tributaryRight	Budușelu River
+Rosua River	tributaryRight	Râul Cățelii
+Rosua River	tributaryRight	Cepari River
+Rosua River	tributaryRight	Vilișoanca River
+Rosua River	tributaryRight	Pleș River
+Cerchez River	tributaryRight	Măgura River
+Almălău River	tributaryRight	Canora River
+Almălău River	tributaryRight	Esechioi River
+Almălău River	tributaryRight	Ceair River
+Urluia River	tributaryRight	Valea Baciului River
+Valea Mare River	tributaryRight	Corvin River
+Valea Mare River	tributaryRight	Valea Floriilor River
+Țibrin River	tributaryRight	Dorobanțu River
+Țibrin River	tributaryRight	Siliștea River
+Dunărea River	tributaryRight	Crucea River
+Canaraua Fetei River	tributaryRight	Chici River
+Asod River	tributaryRight	Tisaș River
+Ața River	tributaryRight	Icoana River
+Ața River	tributaryRight	Toroglej River
+Oarța River	tributaryRight	Stânjaru River
+Horoat	tributaryRight	Biușa River
+Bora River	tributaryRight	Ogaşu Bora
+Ațel River	tributaryRight	Dupuș River
+Aușel River	tributaryRight	Dobroaia River
+Gilort	tributaryRight	Ciocadia River
+Gilort	tributaryRight	Blahnița River
+Tumurel River	tributaryRight	Pârâul Florilor
+Hoteagu River	tributaryRight	Gateru River
+Goațele River	tributaryRight	Izvorul Băluţu River
+Goațele River	tributaryRight	Izvorul Doamnei River
+Pârâul Ștreaurilor	tributaryRight	Jangu Bradului River
+Ialomicioara River	tributaryRight	Marginea Domnească River
+Ialomicioara River	tributaryRight	Pârâul Stroiei
+Ialomicioara River	tributaryRight	Negrița River
+Ialomicioara River	tributaryRight	Homoriciu River
+Telcișor River	tributaryRight	Izvorul Pietrei River
+Telcișor River	tributaryRight	Poiana River
+Telcișor River	tributaryRight	Ceița River
+Ceița River	tributaryRight	Valea Stejarului River
+Izvorul Nistorului River	tributaryRight	Pârâul Căţelei
+Strâmba River	tributaryRight	Izvorul Nistorului River
+Ștefănița River	tributaryRight	Laz River
+Fiezel River	tributaryRight	Radomil River
+Fiad River	tributaryRight	Mesteacănu River
+Fiad River	tributaryRight	Șeradia River
+Fiad River	tributaryRight	Valea Brebului River
+Fiad River	tributaryRight	Valea Calului River
+Priboiașa River	tributaryRight	Mlaca Fântânii River
+Priboiașa River	tributaryRight	Căprioara River
+Priboiașa River	tributaryRight	Totușca Mare River
+Priboiașa River	tributaryRight	Totușca Mică River
+Priboiașa River	tributaryRight	Bradu River
+Priboiașa River	tributaryRight	Clăbuceasa River
+Priboiașa River	tributaryRight	Poarta River
+Priboiașa River	tributaryRight	Pleșu River
+Valea Largă River	tributaryRight	Pleșa River
+Cormoș River	tributaryRight	Vârghiș River
+Ghimbav River	tributaryRight	Cumpărata Mică River
+Ghimbav River	tributaryRight	Secăruia River
+Ghimbav River	tributaryRight	Valea Andoliei River
+Ghimbav River	tributaryRight	Pârâul Stânei
+Ghimbav River	tributaryRight	Pârâul Verde
+Ghimbav River	tributaryRight	Pârâul Rău
+Ghimbav River	tributaryRight	Bechet River
+Secăruia River	tributaryRight	Secăruia Mare River
+Pita River	tributaryRight	Valea Stânei River
+Valea Albă River	tributaryRight	Valea Seacă a Caraimanului River
+Valea Albă River	tributaryRight	Valea de sub Portița River
+Valea Albă River	tributaryRight	Valea lui Moiș River
+Gersa River	tributaryRight	Valea Luschii River
+Gersa River	tributaryRight	Valea Scrăzii River
+Păltinoasa River	tributaryRight	Păltinoasa Mică River
+Luț	tributaryRight	Uila River
+Luț	tributaryRight	Fleț River
+Luț	tributaryRight	Agriș River
+Moravița	tributaryRight	Corniș River
+Moravița	tributaryRight	Agriș River
+Moravița	tributaryRight	Măureni River
+Moravița	tributaryRight	Văița River
+Chioara River	tributaryRight	Pârâul Ţapului
+Drauț River	tributaryRight	Valea Mare River
+Ilieni River	tributaryRight	Pârâul Noroios
+Baciu	tributaryRight	Agriș River
+Baciu	tributaryRight	Pârâul Pietros
+Vâlcele	tributaryRight	Araci River
+Cracăul Negru River	tributaryRight	Șoimu River
+Cracăul Negru River	tributaryRight	Pârâul Răchitelor
+Cracăul Negru River	tributaryRight	Pârâul Gradului
+Cracăul Negru River	tributaryRight	Bălmuș River
+Cracăul Alb River	tributaryRight	Alunul River
+Cracăul Alb River	tributaryRight	Pârâul Popii
+Cracăul Alb River	tributaryRight	Frasinu River
+Cracăul Alb River	tributaryRight	Bouleț River
+Cracăul Alb River	tributaryRight	Ploștina River
+Jaidon River	tributaryRight	Almaș River
+Jaidon River	tributaryRight	Pârâul cu Ciuperci
+Valea Borcutului River	tributaryRight	Frumușeaua River
+Baia River	tributaryRight	Izvorul Roşu River
+Baia River	tributaryRight	Secu River
+Izvorul Roșu River	tributaryRight	Izvorul Lăzilor River
+Cormaia River	tributaryRight	Izvorul Craiului River
+Cormaia River	tributaryRight	Măgura River
+Valea Vinului River	tributaryRight	Izvorul Bârledelor River
+Măgura River	tributaryRight	Cuțitura River
+Vedița River	tributaryRight	Izvorul River
+Vedița River	tributaryRight	Darul River
+Vedița River	tributaryRight	Lupoaia River
+Vedița River	tributaryRight	Sava River
+Vițău River	tributaryRight	Aluniș River
+Bătrâna River	tributaryRight	Iezerul Mare River
+Bătrâna River	tributaryRight	Iezerul River
+Valea Neagră River	tributaryRight	Creanga River
+Valea Neagră River	tributaryRight	Trestia River
+Valea Neagră River	tributaryRight	Rostoșuica River
+Valea Neagră River	tributaryRight	Polomestru River
+Valea Șturului River	tributaryRight	Izvorul Tăului River
+Valea Șturului River	tributaryRight	Valea Ciungului River
+Valea Șturului River	tributaryRight	Valea Poienii River
+Valea Șturului River	tributaryRight	Valea Prisăcii River
+Valea Șturului River	tributaryRight	Biloaia River
+Preluci River	tributaryRight	Corbu River
+Feldrișel River	tributaryRight	Dumni River
+Mateiașul River	tributaryRight	Mateiașul Mic River
+Cocoșul River	tributaryRight	Câmpul Mare River
+Pârâul Sec	tributaryRight	Alunișu River
+Sadu	tributaryRight	Alunul River
+Sadu	tributaryRight	Sadul lui Sân River
+Tecșe River	tributaryRight	Nireş River
+Tecșe River	tributaryRight	Catrina River
+Tecșe River	tributaryRight	Izvorul Bogat River
+Anaș River	tributaryRight	Pârâul Cerbului
+Nireș River	tributaryRight	Cărpiniș River
+Nireș River	tributaryRight	Poiana River
+Uiloc River	tributaryRight	Uilocul Mic River
+Castro Creek	tributaryRight	Wildcat Creek
+Bărzăuța River	tributaryRight	Apa Roșie River
+Bărzăuța River	tributaryRight	Țiganca River
+Bărzăuța River	tributaryRight	Chilișca River
+Bozolnicu River	tributaryRight	Arghiș River
+Dragu River	tributaryRight	Adalin River
+Dragu River	tributaryRight	Voivodeni River
+Băbiu River	tributaryRight	Cutiș River
+Valea Dreaptă River	tributaryRight	Păduriş River
+Valea Dreaptă River	tributaryRight	Strâmba
+Stupini River	tributaryRight	Valea Dreaptă River
+Valea Brusturetului River	tributaryRight	Vâlceaua Găinii River
+Valea Brusturetului River	tributaryRight	Cheia de sub Grind,
+Valea Brusturetului River	tributaryRight	Valea Căpăţânelor,
+Valea Brusturetului River	tributaryRight	Valea Lespezilor,
+Valea Brusturetului River	tributaryRight	Valea lui Stinghie,
+Valea Brusturetului River	tributaryRight	Valea cu Apă,
+Valea Brusturetului River	tributaryRight	Valea Muierii,
+Valea Brusturetului River	tributaryRight	Valea Peşterii,
+Valea Brusturetului River	tributaryRight	Valea Popii,
+Valea Brusturetului River	tributaryRight	Valea Gangului River
+Lăptici River	tributaryRight	Vâlcelul Cocora River
+Valea Neagră River	tributaryRight	Pârâul Mic
+Valea Neagră River	tributaryRight	Pârâul Rece
+Valea Neagră River	tributaryRight	Pârâul Cabanei
+Brătei River	tributaryRight	Duda Mare River
+Brătei River	tributaryRight	Duda Mică River
+Brătei River	tributaryRight	Valea Neagră River
+Brătei River	tributaryRight	Mitarca River
+Brătei River	tributaryRight	Pârâul Sec
+Brătei River	tributaryRight	Șutila River
+Cărpeniș River	tributaryRight	Dichiu River
+Horoaba River	tributaryRight	Valea Gârbelor River
+Horoaba River	tributaryRight	Leşniţa River
+Lotrișoara Mare River	tributaryRight	Pârâul lui Albu
+Valea Cailor River	tributaryRight	Pârâul Alb
+Valea lui Manole River	tributaryRight	Valea Caldă River
+Valea Caldă Mare River	tributaryRight	Cheiţa River
+Mușița River	tributaryRight	Pâraie River
+Mușița River	tributaryRight	Valea lui Manole
+Florei River	tributaryRight	Drăgan River
+Florei River	tributaryRight	Coțofana River
+Florei River	tributaryRight	Valea Mierlelor River
+Florei River	tributaryRight	Vornicu River
+Florei River	tributaryRight	Zănoaga River
+Prislop River	tributaryRight	Băiuțu River
+Prislop River	tributaryRight	Baiu Mare River
+Prislop River	tributaryRight	Porcăreața River
+Valea Neagră River	tributaryRight	Secuianca River
+Valea Neagră River	tributaryRight	Dințeasa River
+Urlățelu River	tributaryRight	Richeiu River
+Brebu River	tributaryRight	Valea Rea River
+Vlădeț River	tributaryRight	Vlădețul Mijlociu River
+Vlădeț River	tributaryRight	Vlădețul Mic River
+Pojaru River	tributaryRight	Pojărel River
+Chiva River	tributaryRight	Pojaru River
+Larga Mare River	tributaryRight	Larga Mică River
+Timișul Sec de Jos River	tributaryRight	Valea Pietrei Mici River
+Gârbău River	tributaryRight	Gârbăul Mic River
+Gârbăul Mare River	tributaryRight	Valea Morii River
+Șcheiu River	tributaryRight	Valea cu Apă River
+Șcheiu River	tributaryRight	Valea Putredă River
+Șcheiu River	tributaryRight	Valea Tei River
+Valea Cetății River	tributaryRight	Valea Șindilei River
+Valea Cetății River	tributaryRight	Valea Rece River
+Valea Cetății River	tributaryRight	Răcădău River
+Jidovoaia River	tributaryRight	Valea Plopilor River
+Jidovoaia River	tributaryRight	Limpedea River
+Jidovoaia River	tributaryRight	Glodişor River
+Valea Roșie River	tributaryRight	Valea Trei Crai River
+Pistruia River	tributaryRight	Pistruia Mare River
+Bârsău River	tributaryRight	Cioltu River
+Bârsău River	tributaryRight	Berchezoaia River
+Bârsău River	tributaryRight	Finteușu Mic River
+Valea Morarului River	tributaryRight	Râpa Zăpezii River
+Valea Morarului River	tributaryRight	Vâlcelul Înflorit River
+Valea Morarului River	tributaryRight	Valea Bujorilor River
+Valea Cerbului River	tributaryRight	Valea Căldărilor River
+Valea Cerbului River	tributaryRight	Valea Priponului River
+Valea Cerbului River	tributaryRight	Valea Caprelor River
+Valea Cerbului River	tributaryRight	Valea Urzicii River
+Valea Cerbului River	tributaryRight	Valea Țapului River
+Valea Cerbului River	tributaryRight	Valea Seacă River
+Valea Cerbului River	tributaryRight	Valea Scorușilor River
+Valea Cerbului River	tributaryRight	Valea Coștilei River
+Valea Cerbului River	tributaryRight	Valea Gâlmei River
+Gârbou River	tributaryRight	Bezded River
+Gârbou River	tributaryRight	Cernuc River
+Gârbou River	tributaryRight	Titireag River
+Gârbou River	tributaryRight	Brâglez River
+Cristolțel River	tributaryRight	Solona River, Romania
+Valea Mare River	tributaryRight	Valea Pietricelei River
+Cheia River	tributaryRight	Urdărița River
+Cheia River	tributaryRight	Valea Furneciului
+Valea Chiliilor River	tributaryRight	Valea Glodului River
+Bădeni River	tributaryRight	Valea Hotarului River
+Bădeni River	tributaryRight	Valea Făgețelului River
+Bădeni River	tributaryRight	Valea Babei River
+Bădeni River	tributaryRight	Valea Rea River
+Bădeni River	tributaryRight	Valea lui Brusture River
+Bădeni River	tributaryRight	Valea lui Dăniș River
+Amite River	tributaryRight	Comite River
+Amite River	tributaryRight	Bayou Manchac
+Neportoc River	tributaryRight	Valea Negrii River
+Poicu River	tributaryRight	Gâdești River
+Poicu River	tributaryRight	Dude River
+Arghiș River	tributaryRight	Ticu River
+Valea Copilului River	tributaryRight	Urzicaru River
+Valea Cornetului River	tributaryRight	Valea Fântânii River
+Cristur River	tributaryRight	Băieșu River
+Cristur River	tributaryRight	Valea Bisericii
+Valea cu Apă River	tributaryRight	Valea Copilului River
+Valea Rea River	tributaryRight	Târșolț River
+Valea Rea River	tributaryRight	Bixad
+Podriga River	tributaryRight	Izvoarele River
+Valea Satului River	tributaryRight	Pârâul Arsurii
+Valea Neagră River	tributaryRight	Valea Seacă River
+Valea Neagră River	tributaryRight	Valea Lungă River
+Valea Uliului River	tributaryRight	Nemeși River
+Lozna River	tributaryRight	Lozna Mare River
+Lozna River	tributaryRight	Glăvan River
+Lozna River	tributaryRight	Valea Alunului
+Sodol	tributaryRight	Sodolu Mare River
+Jacobs Creek	tributaryRight	Barren Run
+Târgului River	tributaryRight	Bratia River
+Moneasa River	tributaryRight	Târsu River
+Moneasa River	tributaryRight	Vlad River
+Moneasa River	tributaryRight	Boroaia River
+Moneasa River	tributaryRight	Valea Rugii River
+Moneasa River	tributaryRight	Megheş,
+Moneasa River	tributaryRight	Valea Băilor River
+Moneasa River	tributaryRight	Pârâul Pinilor
+Cârligate River	tributaryRight	Muncelu River
+Cârligate River	tributaryRight	Gruiu Ursului River
+Valea de Pești River	tributaryRight	Ștevioara River
+Gârcin River	tributaryRight	Gârcinul Mare River
+Gârcin River	tributaryRight	Valea Ursului
+Rătei River	tributaryRight	Valea lui Ștefănică River
+Ialomicioara River	tributaryRight	Cărpeniș River
+Ialomicioara River	tributaryRight	Mușchiu River
+Ialomicioara River	tributaryRight	Glodu River
+Inzel River	tributaryRight	Drăgoi River
+Valea Vladului River	tributaryRight	Călțunu River
+Tămașul River	tributaryRight	Valea Păișului River
+Poiana River	tributaryRight	Valea Drăgușei River
+Gilorțel River	tributaryRight	Gilorţelul Mic River
+Setea Mică River	tributaryRight	Gruiu River
+Brădețel River	tributaryRight	Valea Vagonului River
+Brădețel River	tributaryRight	Valea Cazanului River
+Leuca River	tributaryRight	Valea Iadului River
+Leuca River	tributaryRight	Râul Stânei Mari
+Leuca River	tributaryRight	Râul Stânei Mici
+Râșnoava River	tributaryRight	Brădețel River
+Râșnoava River	tributaryRight	Brădetul River
+Râșnoava River	tributaryRight	Ghebanul River
+Râșnoava River	tributaryRight	Leuca River
+Telejenel River	tributaryRight	Pârâul Alb
+Telejenel River	tributaryRight	Șipotele River
+Pârâul Alb	tributaryRight	Pârâul Sterp
+Șipotele River	tributaryRight	Buzăianu River
+Selhiș River	tributaryRight	Zimbrul River
+Valea Izvorului River	tributaryRight	Valea Ploscarilor River
+Pârâul lui Coman	tributaryRight	Valea Găinii River
+Novăț River	tributaryRight	Izvorul Cailor River
+Novăț River	tributaryRight	Pârâul Roşu
+Valea Fetei River	tributaryRight	Duțca River
+Mara River	tributaryRight	Cosău River
+Râușor	tributaryRight	Izvorul Negru River
+Valea Podului River	tributaryRight	Valea Seacă River
+Cosău River	tributaryRight	Izvorul Negru River
+Cosău River	tributaryRight	Râpa River
+Cosău River	tributaryRight	Valea Popii River
+Oanța River	tributaryRight	Valea Merchiului River
+Oanța River	tributaryRight	Valea Pietrelor River
+Sâva River	tributaryRight	Prislop River
+Valea Grecului River	tributaryRight	Oarzele River
+Cascue River	tributaryRight	Rătei River
+Cascue River	tributaryRight	Puturosu River
+Runcu River	tributaryRight	Valea cu Arini River
+Runcu River	tributaryRight	Izvorul cu Scări River
+Gugu River	tributaryRight	Valea Cerbului River
+Pleșcoaia River	tributaryRight	Groapa River
+Cricovul Sărat	tributaryRight	Chiojdeanca River
+Cricovul Sărat	tributaryRight	Lopatna River
+Cricovul Sărat	tributaryRight	Vărbila River
+Lopatna River	tributaryRight	Matița River
+Urlătoarea River	tributaryRight	Urlătoarea Mare River
+Peleș River	tributaryRight	Valea cu Genune River
+Peleș River	tributaryRight	Valea Zadelor River
+Peleș River	tributaryRight	Peleşel River
+Peleș River	tributaryRight	Sfânta Ana River
+Valea Jepilor River	tributaryRight	Valea Spumoasă River
+Valea Seacă a Jepilor River	tributaryRight	Bolovanul River
+Uileac River	tributaryRight	La Arini River
+Sărand River	tributaryRight	Valea Domnilor River
+Drăghiciul River	tributaryRight	Valea Îndărăt River
+Someșul Cald	tributaryRight	Beliș River
+Valea Hotarului River	tributaryRight	Valea Răchitișului River
+Vouga River	tributaryRight	Caima River
+Daia River	tributaryRight	Valea Janului River
+Hinebaugh Creek	tributaryRight	Crane Creek
+Bistra River	tributaryRight	Rusca River
+Bistra River	tributaryRight	Vârciorova
+Râușorul River	tributaryRight	Bugheanu River
+Râușorul River	tributaryRight	Măra,
+Râușorul River	tributaryRight	Purdel,
+Râușorul River	tributaryRight	Strâmba,
+Râușorul River	tributaryRight	Orzea,
+Râușorul River	tributaryRight	Grozea River
+Râușorul River	tributaryRight	Valea Râsului,
+Râușorul River	tributaryRight	Cămârzanu,
+Râușorul River	tributaryRight	Râul Podurilor,
+Râușorul River	tributaryRight	Valea Andreiaşului
+Nădrag River	tributaryRight	Valea Padeșului River
+Nădrag River	tributaryRight	Nădrăgel River
+Dâmbovicioara River	tributaryRight	Valea Brusturetului River
+Valea Peșterii River	tributaryRight	Valea Vopselelor River
+Valea Muierii River	tributaryRight	Valea Trăznită River
+Valea Muierii River	tributaryRight	Valea Ursului River
+Padina Dâncioarei River	tributaryRight	Padina Şirnii River
+Râul Podurilor	tributaryRight	Râul Iezerului
+Colții lui Andrei Mari River	tributaryRight	Valea Colților River
+Colții lui Andrei River	tributaryRight	Colții lui Andrei Mici River
+Olăneasca River	tributaryRight	Pârâul Stânei
+Cârcinov	tributaryRight	Izvor River
+Buda River	tributaryRight	Râiosu River
+Buda River	tributaryRight	Mușeteica River
+Buda River	tributaryRight	Cornea River
+Bratia River	tributaryRight	Năvrap River
+Bratia River	tributaryRight	Râușor
+Bratia River	tributaryRight	Slănic River
+Bratia River	tributaryRight	Valea lui Băj River
+Vâlsan River	tributaryRight	Izvorul Dimei River
+Vâlsan River	tributaryRight	Izvorul Popii River
+Vâlsan River	tributaryRight	Robaia River
+Vâlsan River	tributaryRight	Toplița River
+Vâlsan River	tributaryRight	Bunești River
+Borșa River	tributaryRight	Cristorel River
+Borșa River	tributaryRight	Buda River
+Borșa River	tributaryRight	Giula River
+Dezna River	tributaryRight	Valea Strâmbă River
+Sibiel River	tributaryRight	Sibelaș River
+Sibiel River	tributaryRight	Valea Cetății River
+Sibiel River	tributaryRight	Pârâul lui Toderaș
+Sibiel River	tributaryRight	Zăvoaie River
+Măgheruș River	tributaryRight	Giuroc River
+Măgheruș River	tributaryRight	Luda Bara River
+Măgheruș River	tributaryRight	Valea Lacului River
+Moieciul Cald River	tributaryRight	Valea Lacului River
+Toplicioara cu Apă River	tributaryRight	Valea Lacului River
+Slănic River	tributaryRight	Mânăstirea River
+Bughea River	tributaryRight	Izvorul Dragoşu River
+Vulcănița River	tributaryRight	Crepeș River
+Valea Largă River	tributaryRight	Bolduț River
+Valea Largă River	tributaryRight	Valea Lată River
+Lazăr River	tributaryRight	Valea Măriii River
+Pianu River	tributaryRight	Pârâul Tonii
+Valea Roșie River	tributaryRight	Lăpușna Mică River
+Valea Roșie River	tributaryRight	Târșa River
+Valea Roșie River	tributaryRight	Lapoşa River
+Mintoasa River	tributaryRight	Tincuța River
+Nistru River	tributaryRight	Jidovia River
+Cicârlău River	tributaryRight	Cicârlăuț River
+Valea Cireșului River	tributaryRight	Izvorul de sub Piatră River
+Colbu River	tributaryRight	Valea Cireșului River
+Băița River	tributaryRight	Colbu River
+Băița River	tributaryRight	Valea Limpede River
+Băița River	tributaryRight	Valea Roșie River
+Băița River	tributaryRight	Nistru River
+Olteț	tributaryRight	Geamărtălui River
+Pârlita River	tributaryRight	Gârliţa River
+Provița River	tributaryRight	Purcăreața River
+Provița River	tributaryRight	Drăgăneasa River
+Jijila River	tributaryRight	Valea lui Bran River
+Șteaza River	tributaryRight	Șanta River
+Șteaza River	tributaryRight	Valea Izvorului River
+Șteaza River	tributaryRight	Buru River
+Cuca River	tributaryRight	Tambura River
+Cuca River	tributaryRight	Frăcea River
+Chiuzbaia River	tributaryRight	Măgura River
+San Pedro Creek	tributaryRight	North Fork, San Pedro Creek
+Vadăș River	tributaryRight	Ghepiu River
+Pârâul Mijlociu	tributaryRight	Almaş River
+Valea Crișului River	tributaryRight	Pârâul Mijlociu
+Valea Crișului River	tributaryRight	Almașul Mic River
+Valea Crișului River	tributaryRight	Vadăș River
+Valea Crișului River	tributaryRight	Ivan River
+Gereb River	tributaryRight	Pârâul lui Pal
+Debren River	tributaryRight	Nadăş River
+Calnic River	tributaryRight	Pârâul Noroios
+Usturoiu River	tributaryRight	Valea Roșie River
+Valea Roșie River	tributaryRight	Pârâul Timișoarei
+Valea Roșie River	tributaryRight	Valea Pietroasă River, Usturoiu
+Valea Roșie River	tributaryRight	Valea Îngustă River
+Valea Roșie River	tributaryRight	Valea Întunecoasă River
+Zăvoi	tributaryRight	Valea Lungă River
+Valea lui Iacob River	tributaryRight	Izvorul Muntenilor River
+Valea lui Iacob River	tributaryRight	Răvașu River
+Uria River	tributaryRight	Sașa Mândrei River
+Uria River	tributaryRight	Valea Danului River
+Uria River	tributaryRight	Murgaşu River
+Uria River	tributaryRight	Fericea River
+Tinoasa River	tributaryRight	Burnaia River
+Râul Câinelui	tributaryRight	Valea lui Ion River
+Râul Câinelui	tributaryRight	Barza River
+Râul Câinelui	tributaryRight	Tinoasa River
+Valea Limpede River	tributaryRight	Chiuzoșa River
+Ilba River	tributaryRight	Mesteacănu River
+Ilba River	tributaryRight	Valea Colbului River
+Seini River	tributaryRight	Valea Cetății River
+Căpuș River	tributaryRight	Valea Mare River
+Sebeșel River	tributaryRight	Măgura Roşianului River
+Sebeșel River	tributaryRight	Nieşu River
+Sebeșel River	tributaryRight	Valea Făgeților River
+Sebeș River	tributaryRight	Valea lui Fătu River
+Sebeș River	tributaryRight	Moașa River
+Bega Luncanilor River	tributaryRight	Valea Stâlpului River
+Bega Luncanilor River	tributaryRight	Valea lui Liman River
+Bega Luncanilor River	tributaryRight	Druiu River
+Bega Luncanilor River	tributaryRight	Cornetu River
+Valea Mare River	tributaryRight	Mudavița Seacă River
+Valea Mare River	tributaryRight	Apele Albe River
+Zârna River	tributaryRight	Jgheburoasa River
+Zârna River	tributaryRight	Leaota River
+Zârna River	tributaryRight	Căpățâna River
+Valea Rea River	tributaryRight	Pojarna River
+Valea Rea River	tributaryRight	Furfuescu River
+Valea Rea River	tributaryRight	Șipotoaia River
+Văsălatu River	tributaryRight	Izvorul Cremenei River
+San Pedro River	tributaryRight	Aravaipa Creek
+Cioiana River	tributaryRight	Brătuia River
+Cioiana River	tributaryRight	Valea Mare River
+Cladova River	tributaryRight	Cersca River
+Cladova River	tributaryRight	Sfinsca River
+Cladova River	tributaryRight	Jerbelova River
+Petriș	tributaryRight	Sânteasca, Corbeasca
+Valea Seacă River	tributaryRight	Valea Cetății River
+Valea Lungă River	tributaryRight	Valea Morii River
+Valea Mare River	tributaryRight	Valea Runcului River
+Holbav River	tributaryRight	Valea Lupului River
+Holbav River	tributaryRight	Găunoasa River
+Holbav River	tributaryRight	Paltinu River
+Găunoasa River	tributaryRight	Găunoşiţa River
+Strei	tributaryRight	Luncani River
+Valea Mare River	tributaryRight	Feneș River
+Valea Mare River	tributaryRight	Mocioaia
+Covasna River	tributaryRight	Valea Zânelor River
+Râul Negru	tributaryRight	Cașin River
+Valea Mare River	tributaryRight	Groapa Văii River
+Iaz River	tributaryRight	Țiganu River
+Iaz River	tributaryRight	Bredicel River
+Sirețel River	tributaryRight	Valea Mare River
+Bâlta River	tributaryRight	Zăpodia River
+Bâlta River	tributaryRight	Dobârcina River
+Bâlta River	tributaryRight	Viteazu River
+Bâlta River	tributaryRight	Padeş River
+Cernatu River	tributaryRight	Valea Maliței River
+Cernatu River	tributaryRight	Gruişoru River
+Cernatu River	tributaryRight	Basa River
+Micești River	tributaryRight	Porcărețu River
+Micești River	tributaryRight	Păuleasca River
+Bega	tributaryRight	Bega Poieni River
+Bega	tributaryRight	Chizdia River
+Toplița River	tributaryRight	Râul Boului
+Valea Mare River	tributaryRight	Șardu River
+Nadăș River	tributaryRight	Leghia River
+Nadăș River	tributaryRight	Inuc River
+Sâmbotin River	tributaryRight	Viezuroiu River
+Sâmbotin River	tributaryRight	Hărăbor River
+Sâmbotin River	tributaryRight	Valea Mare River
+Valea Mare River	tributaryRight	Valea Mică River
+Valea Mare River	tributaryRight	Valea Mică River
+Valea Mică River	tributaryRight	Râul Socilor
+Valea Mare River	tributaryRight	Bejna River
+Șercăița River	tributaryRight	Creața River
+Șercăița River	tributaryRight	Crețu River
+Pârâul Mic	tributaryRight	Valea Seacă River
+Valea Mare River	tributaryRight	Pârâul Mic
+Valea Roșie River	tributaryRight	Jimboru River
+Valea Roșie River	tributaryRight	Pârâul Negru
+Valea Roșie River	tributaryRight	Pârâul Cărbunarilor
+Valea Roșie River	tributaryRight	Pârâul lui Vereș
+Bănești River	tributaryRight	Valea Calului River
+Crăciunu River	tributaryRight	Nimăiasa River
+Crăciunu River	tributaryRight	Valea Cerbului River
+Crăciunu River	tributaryRight	Vârfurașu River
+Valea Lupului River	tributaryRight	Pârâul Moale
+Valea Lupului River	tributaryRight	Trestia River
+Pârâul Moale	tributaryRight	Valea Rogojinii River
+Pârâul Moale	tributaryRight	Valea Veche River
+Surdu River	tributaryRight	Cotorești River
+Surdu River	tributaryRight	Dăneasa River
+Râul Mare	tributaryRight	Iezerul Mare River
+Râul Mare	tributaryRight	Niculeşti,
+Râul Mare	tributaryRight	Beşineu,
+Râul Mare	tributaryRight	Crăciuneasa River
+Râul Mare	tributaryRight	Surdu,
+Râul Mare	tributaryRight	Păltiniş
+Foltea River	tributaryRight	Bobeșu River
+Valea Mare River	tributaryRight	Valea Mică River
+Râul Mic	tributaryRight	Valea Rudarilor River
+Râul Mic	tributaryRight	Foltea River
+Râul Mic	tributaryRight	Valea Porcarului River
+Sadu	tributaryRight	Sădurel River
+Lăpuș River	tributaryRight	Cavnic River
+Lăpuș River	tributaryRight	Săsar River
+Strâmbu-Băiuț River	tributaryRight	Pleșca River
+Strâmbu-Băiuț River	tributaryRight	Deluț River
+Strâmbu-Băiuț River	tributaryRight	Valea Roții River
+Strâmbu-Băiuț River	tributaryRight	Covăcia River
+Strâmbu-Băiuț River	tributaryRight	Sibila River
+Strâmbu-Băiuț River	tributaryRight	Mesteacănu River
+Pleșcuța River	tributaryRight	Valea Morii River
+Valea Mare River	tributaryRight	Șoimaș River
+Rușchița River	tributaryRight	Pârâul Padeșului
+Rușchița River	tributaryRight	Pârâul Cracul Lung
+Rusca River	tributaryRight	Lozna River
+Bloaja River	tributaryRight	Valea Pietrei River
+Bloaja River	tributaryRight	Blojița River
+Bloaja River	tributaryRight	Izvorul Roșu River
+Rohia River	tributaryRight	Valea Mare River
+San Juan Creek	tributaryRight	Lion Canyon Creek
+San Juan Creek	tributaryRight	Cañada Gobernadora
+San Juan Creek	tributaryRight	Cañada Chiquita
+San Juan Creek	tributaryRight	Trabuco Creek
+Veneția River	tributaryRight	Venețioara River
+Valea Tigăi River	tributaryRight	Purcaru River
+Comana River	tributaryRight	Valea Tigăi River
+Rotunda River	tributaryRight	Șatra River
+Rotunda River	tributaryRight	Purul River
+Bradu River	tributaryRight	Hudin River
+Bradu River	tributaryRight	Râul Subțire
+Bradu River	tributaryRight	Valea Mare River
+Bradu River	tributaryRight	Hudeasa River
+Bradu River	tributaryRight	Râul Ciutei
+Jilț River	tributaryRight	Jilț Slivilești River
+Jilț River	tributaryRight	Jilțul Mic River
+Jilț River	tributaryRight	Borăscu River
+Mag River	tributaryRight	Valea Merelor River
+Mag River	tributaryRight	Cerna Vodă River
+Gladna River	tributaryRight	Zoldiana River
+Gladna River	tributaryRight	Munișel River
+Gladna River	tributaryRight	Surduc River
+Valea Satului River	tributaryRight	Valea Șerbări River
+Valea Satului River	tributaryRight	Brădișor River
+Ezăreni River	tributaryRight	Cornet River
+Bucureșci River	tributaryRight	Valea Șteitorilor River
+Bucureșci River	tributaryRight	Cornet River
+Țebea River	tributaryRight	Valea Mare River
+Ribița River	tributaryRight	Uibărești River
+Luncoiu River	tributaryRight	Ruda River
+Mălina River	tributaryRight	Jorea River
+Mălina River	tributaryRight	Valea Manolache River
+Birtin River	tributaryRight	Valea Pietrelor River
+Birtin River	tributaryRight	Valea Mică River
+Vața River	tributaryRight	Ponoru River
+Vața River	tributaryRight	Cerboaia River
+Obârșa	tributaryRight	Târnăvița River
+Olănești River	tributaryRight	Izvoarele River
+Olănești River	tributaryRight	Cheia River
+Cheia River	tributaryRight	Valea Rece River
+Cheia River	tributaryRight	Comarnicele River
+Cheia River	tributaryRight	Ionaş River
+Cheia River	tributaryRight	Valea Neagră,
+Cheia River	tributaryRight	Comarnicele din Cheia River
+Cheia River	tributaryRight	Cracu Tisei River
+Cheia River	tributaryRight	Lunga,
+Cheia River	tributaryRight	Capu.
+Sebiș River	tributaryRight	Moneasa River
+Sebiș River	tributaryRight	Slătioara River
+Sebiș River	tributaryRight	Negrișoara River
+Sebiș River	tributaryRight	Minezel River
+Valea Nimăieștilor River	tributaryRight	Plaiu River
+Valea Nimăieștilor River	tributaryRight	Burău River
+Valea Nimăieștilor River	tributaryRight	Beiușele River
+Beiușele River	tributaryRight	Valea Luncii River
+Beiușele River	tributaryRight	Drăgoiești River
+Zeldiș River	tributaryRight	Valea Omeagului River
+Sighișoara River	tributaryRight	Dălșești River
+Sighișoara River	tributaryRight	Măreasca River
+Honțiș River	tributaryRight	Honțișor River
+Cașin River	tributaryRight	Carpenul River
+Cașin River	tributaryRight	Râul Primejdios
+Cașin River	tributaryRight	Bella River
+Cașin River	tributaryRight	Valea Seacă River
+Cașin River	tributaryRight	Petriceni River
+Cașin River	tributaryRight	Turia River
+Corozel River	tributaryRight	Tăploani River
+Corozel River	tributaryRight	Valea Seacă River
+Corozel River	tributaryRight	Corozelul Sec River
+Șișești River	tributaryRight	Sasca River
+Chechișel River	tributaryRight	Șișești River
+Chechișel River	tributaryRight	Șindrești River
+Costeni River	tributaryRight	Runc River
+Costeni River	tributaryRight	Stoiceni River
+Ungureni River	tributaryRight	Izvorul Coşului River
+Botizu River	tributaryRight	Izvorul Roşu River
+Botizu River	tributaryRight	Cizma Mare River
+Motru River	tributaryRight	Coșuștea River
+Pleșu River	tributaryRight	Măcrişu River
+Pleșu River	tributaryRight	Bârlogeaua River
+Plescioara River	tributaryRight	Scărișoara River
+Plescioara River	tributaryRight	Râul Sărăturii
+Băleasa River	tributaryRight	Bogleasa River
+Baicu River	tributaryRight	Idișor River
+Șugău River	tributaryRight	Țurcatele River
+Valea Rea River	tributaryRight	Apele Vii River
+Sighiștel River	tributaryRight	Cheia Rea River
+Sighiștel River	tributaryRight	Măgura River
+Sighiștel River	tributaryRight	Pârâul Laurului
+Tăcașele River	tributaryRight	Valea Preotesei River
+Tăcașele River	tributaryRight	Pârâul Satului
+Zimbru River	tributaryRight	Luștiu River
+Zimbru River	tributaryRight	Dulcele River
+Rușor River	tributaryRight	Pârâul Spuros
+Valea Rea River	tributaryRight	Ducinu Sec River
+Valea Rea River	tributaryRight	Tișia River
+Tecucel River	tributaryRight	Valea Rea River
+Tutova River	tributaryRight	Lipova River
+Tutova River	tributaryRight	Cetățuia River
+Tutova River	tributaryRight	Cârjoani River
+Tilișca River	tributaryRight	Tilișcuța River
+Orlat River	tributaryRight	Orlăţel River
+Pârâul lui Toderaș	tributaryRight	Valea Utii River
+Rusciori River	tributaryRight	Valea Sălcii River
+Sădurel River	tributaryRight	Izvorul Negovanului River
+Sădurel River	tributaryRight	Izvorul Vacii River
+Sădurel River	tributaryRight	Tarnița River
+Sădurel River	tributaryRight	Țiganu River
+Sădurel River	tributaryRight	Porcu River
+Țiganu River	tributaryRight	Păntuţa River
+Porcu River	tributaryRight	Porcovița River
+Cânaia River	tributaryRight	Iujbea River
+Buhalnița River	tributaryRight	Împuțita River
+Buhalnița River	tributaryRight	Zlodica River
+Buhalnița River	tributaryRight	Cârjoaia River
+Valea Padeșului River	tributaryRight	Bordul River
+Valea Padeșului River	tributaryRight	Sălășele River
+Tărățel	tributaryRight	Valea Rea River
+Blahnița River	tributaryRight	Sunătoarea River
+Blahnița River	tributaryRight	Turbați River
+Blahnița River	tributaryRight	Bobu River
+Blahnița River	tributaryRight	Tărățel
+Valea Plopilor River	tributaryRight	Valea Adâncă River
+Valea Plopilor River	tributaryRight	Negoiu River
+Valea Plopilor River	tributaryRight	Dilcova River
+Valea Plopilor River	tributaryRight	Caraba River
+Valea Plopilor River	tributaryRight	Pricopanul River
+Bârsa River	tributaryRight	Turcu River
+Bârsa River	tributaryRight	Ghimbășel
+Jigureasa River	tributaryRight	Strâmbu River
+Mancu River	tributaryRight	Măncuţa River
+Râul Lacului	tributaryRight	Valea Luntrei River
+Doftana River	tributaryRight	Valea Rece River
+Tigăile River	tributaryRight	Cracul Stâng River
+Tigăile River	tributaryRight	Nanul River
+Răcădău River	tributaryRight	Valea cu Apă River
+Ponor River	tributaryRight	Valea Bucurului River
+Ponor River	tributaryRight	Valea Poienii River
+Valea Rece River	tributaryRight	Aprieș River
+Valea Rece River	tributaryRight	Pârâul cu Fagi
+Valea Rece River	tributaryRight	Iavardi River
+Valea Rece River	tributaryRight	Sălămaș River
+Pârâul cu Fagi	tributaryRight	Biucavăș River
+Taița River	tributaryRight	Curături River
+Taița River	tributaryRight	Valea Purcăreți River
+Taița River	tributaryRight	Valea Vinului River
+Taița River	tributaryRight	Crapcea River
+Valea Pinului River	tributaryRight	Tomnatecu River
+Valea Pinului River	tributaryRight	Nanu River
+Valea lui Ivan River	tributaryRight	Valea Rece River
+Tălmăcuța River	tributaryRight	Plopul River
+Tălmăcuța River	tributaryRight	Brădetul River
+Lungșoara River	tributaryRight	Strungarul River
+Lungșoara River	tributaryRight	Ștefănița River
+Lungșoara River	tributaryRight	Râușorul
+Valea Porumbenilor River	tributaryRight	Siliștea River
+Govăjdia River	tributaryRight	Mărgineu River
+Govăjdia River	tributaryRight	Nădrab River
+Nădrab River	tributaryRight	Hilişoara River
+Rândibou River	tributaryRight	Valea Răchițele River
+Sasul River	tributaryRight	Titianul River
+Bărușoru River	tributaryRight	Izvoru River
+Paroș River	tributaryRight	Paroşul Mic River
+Râul Alb	tributaryRight	Gorova River
+Râul Alb	tributaryRight	Râul Șerenilor
+Râul Alb	tributaryRight	Vaidei River
+Perișani River	tributaryRight	Valea Seacă River
+Suhurlui River	tributaryRight	Valea Rea River
+Suhurlui River	tributaryRight	Grajdu River
+Suhurlui River	tributaryRight	Brena River
+Sterpu River	tributaryRight	Voineagu River
+Sterpu River	tributaryRight	Pârâul Afinelor
+Brăneasa River	tributaryRight	Dudurugu River
+Danca River	tributaryRight	Măcica River
+Sfârcașu River	tributaryRight	Râul Jnepenişului
+Sfârcașu River	tributaryRight	Stâna River
+Gârcu River	tributaryRight	Gârcu Mare River
+Gârcu River	tributaryRight	Gârculeţul River
+Dârjov River	tributaryRight	Gota River
+Dârjov River	tributaryRight	Jid River
+Laslea River	tributaryRight	Mălâncrav River
+Laslea River	tributaryRight	Felța River
+Vorumloc River	tributaryRight	Motiș River
+Luncavăț River	tributaryRight	Valea Curpenei River
+Urșani River	tributaryRight	Măcriş River
+Horezu River	tributaryRight	Ponoru River
+Horezu River	tributaryRight	Ludeasa River
+Horezu River	tributaryRight	Pleșa River
+Horezu River	tributaryRight	Lunga River
+Megieșul River	tributaryRight	Megieşul Mic River
+Mogoșu River	tributaryRight	Stroiești River
+Valea Satului River	tributaryRight	Văruțu River
+Valea Satului River	tributaryRight	Ieruga River
+Calva River	tributaryRight	Valea Satului River
+Vișa River	tributaryRight	Calva River
+Valea Strâmbă River	tributaryRight	Joagăru River
+Moașa River	tributaryRight	Osetul River
+Racovița River	tributaryRight	Valea Lupului River
+Racovița River	tributaryRight	Pârâul Lomului
+Runcu River	tributaryRight	Valea Bozii River
+Repedea	tributaryRight	Izvorul Repede River
+Repedea	tributaryRight	Valea Feții River
+Buhăescu River	tributaryRight	Preluci River
+Porumbacu River	tributaryRight	Râul Sărății
+Porumbacu River	tributaryRight	Tunsu River
+Moașa River	tributaryRight	Izvorul Găvozului River
+Moașa River	tributaryRight	Izvorul Surpat River
+Moașa River	tributaryRight	Izvorul Florii River
+Moașa River	tributaryRight	Jibra River
+Moașa River	tributaryRight	Clăbucet River
+Ploștina River	tributaryRight	Roșiuța River
+Ploștina River	tributaryRight	Știrbeț River
+Coșuștea River	tributaryRight	Criva River
+Coșuștea River	tributaryRight	Racovăț River
+Coșuștea River	tributaryRight	Coșuștea Mică River
+Coșuștea River	tributaryRight	Ilovu River
+Cârțișoara River	tributaryRight	Bâlea River
+Cârțișoara River	tributaryRight	Laița River
+Pinole Creek	tributaryRight	North Creek
+Cumpănița River	tributaryRight	Peneuş River
+Ucea River	tributaryRight	Ucișoara River
+Viștea River	tributaryRight	Viștișoara River
+Racovița River	tributaryRight	Berivoi River
+Bătrâna River	tributaryRight	Valea Gropii River
+Dragoș River	tributaryRight	Bătrâna River
+Dragoș River	tributaryRight	Purcăreț River
+Beliș River	tributaryRight	Apa Caldă River
+Beliș River	tributaryRight	Valea Vijanului River
+Beliș River	tributaryRight	Olteanu River
+Beliș River	tributaryRight	Monoșel River
+Lisa River	tributaryRight	Valea Pleșii River
+Lisa River	tributaryRight	Dumbrăvița River
+Lisa River	tributaryRight	Seaca Lisei River
+Sâmbăta River	tributaryRight	Piatra Caprei River
+Sâmbăta River	tributaryRight	Pârâul Izvor
+Sâmbăta River	tributaryRight	Lisa River
+Brescioara River	tributaryRight	Muşuleţi River
+Breaza River	tributaryRight	Pojorta River
+Pojorta River	tributaryRight	Scărișoara River
+Pănade River	tributaryRight	Ocnișoara River
+Pănade River	tributaryRight	Valea Spinului River
+Pănade River	tributaryRight	Valea Valezărului River
+Jidanul River	tributaryRight	Danciu River
+Jidanul River	tributaryRight	Pârâul Radului
+Jidanul River	tributaryRight	Pârâul Toșorogului
+Jidanul River	tributaryRight	Telec River
+Berivoi River	tributaryRight	Drăculea River
+Berivoi River	tributaryRight	Râulețu
+Berivoi River	tributaryRight	Copăcioasa River
+Părău River	tributaryRight	Valea Lungă River
+Părău River	tributaryRight	Grid River
+Părău River	tributaryRight	Valea Comorilor River
+Strâmba River	tributaryRight	Strâmbișoara River
+Strâmba River	tributaryRight	Pârâul lui Dumitru
+San Gregorio Creek	tributaryRight	La Honda Creek
+San Gregorio Creek	tributaryRight	Harrington Creek
+San Gregorio Creek	tributaryRight	Bogess Creek
+San Gregorio Creek	tributaryRight	El Corte de Madera Creek
+San Gregorio Creek	tributaryRight	Clear Creek
+San Gregorio Creek	tributaryRight	Coyote Creek
+Pescadero Creek	tributaryRight	Peters Creek
+Bârsa Groșetului River	tributaryRight	Cenușa River
+Bârsa Groșetului River	tributaryRight	Ciocânea River
+Bârsa Groșetului River	tributaryRight	Valea Țânțărenilor River
+Bârsa Groșetului River	tributaryRight	Valea Ursului River
+Sebeș River	tributaryRight	Strâmba River
+Sebeș River	tributaryRight	Sibișel River
+Sebeș River	tributaryRight	Valea Stupului River
+Bega Poieni River	tributaryRight	Șasa River
+Bega Poieni River	tributaryRight	Izvorașu River
+Bega Poieni River	tributaryRight	Valea Mare River
+Topa River	tributaryRight	Râturi River
+Topa River	tributaryRight	Valea Codrului River
+Topa River	tributaryRight	Pietroasa River
+Topa River	tributaryRight	Valea Mare River
+Topa River	tributaryRight	Cârpeștii Mici River
+Topa River	tributaryRight	Flonti River
+Serăstrău River	tributaryRight	Dudița River
+Dudița River	tributaryRight	Lugoj River
+Bârsa Tămașului River	tributaryRight	Șpirla Tămașului River
+Bârsa Tămașului River	tributaryRight	Vlăduşca
+Moieciul Rece River	tributaryRight	Șipotu River
+Lisnău River	tributaryRight	Pârâul Adânc
+Șoimaș River	tributaryRight	Highiș River
+Sodom River	tributaryRight	Valea Fântânilor River
+Chișer River	tributaryRight	Veljul River
+Ciorânga Mare River	tributaryRight	Padina Popii River
+Bârsa Fierului River	tributaryRight	Valea Strâmbelor River
+Bârsa Fierului River	tributaryRight	Plaiu River
+Cenușa River	tributaryRight	Valea Mărului River
+Turia River	tributaryRight	Pârâul Sărat
+Turia River	tributaryRight	Pârâul Adânc,
+Turia River	tributaryRight	Pârâul Mărului,
+Turia River	tributaryRight	Pârâul Auriu,
+Turia River	tributaryRight	Jaidon,
+Turia River	tributaryRight	Pârâul Întunecat,
+Turia River	tributaryRight	Vențel River
+Turia River	tributaryRight	Pârâul Lutos,
+Turia River	tributaryRight	Cica
+Balvanyos River	tributaryRight	Budoș River
+Muncaciu River	tributaryRight	Pârâul Brazilor
+Muncaciu River	tributaryRight	Comloş
+Pârâul Întunecat	tributaryRight	Pârâul Pietros
+Râul Mare	tributaryRight	Valea Cheii River
+Râul Mare	tributaryRight	Vlădușca River
+Brebina River	tributaryRight	Brebina Mică River
+Ciuma River	tributaryRight	Vruseasca River
+Valea Cheii River	tributaryRight	Brusturetul River
+Horincea River	tributaryRight	Mălușteni River
+Horincea River	tributaryRight	Zoiteana,
+Horincea River	tributaryRight	Lişcov,
+Horincea River	tributaryRight	Oarba
+Perișani River	tributaryRight	Valea Dosului River
+Șasa River	tributaryRight	Izvorul Lespezi River
+Șasa River	tributaryRight	Izvorul Stânei River
+Șasa River	tributaryRight	Urloiu River
+Feneș	tributaryRight	Leordiș River
+Feneș	tributaryRight	Cioara River
+Feneș	tributaryRight	Corbu River
+Brusturetul River	tributaryRight	Mărtoiu River
+Vlădușca River	tributaryRight	Șiștoaca Vlădușca River
+Vlădușca River	tributaryRight	Șiștoaca Baca River
+Cisnădie	tributaryRight	Pârâul Ursului
+Miniș River	tributaryRight	Lighidia River
+Mândrișag River	tributaryRight	Padina Seacă River
+Pârâul Ursului	tributaryRight	Pârâul Popii
+Bănița River	tributaryRight	Pârâul Babei
+Jupâneasa River	tributaryRight	Valea Drugului River
+Pârâul Băilor Mari	tributaryRight	Negrilovăț River
+Pârâul Beldii	tributaryRight	Cornetul River
+Boul River	tributaryRight	Vițelul River
+Boul River	tributaryRight	Cochirleanca River
+Poarta River	tributaryRight	Urlătoarea Mică River
+Poarta River	tributaryRight	Urlătoarea Clincii River
+Poarta River	tributaryRight	Padina cu Apă River
+Poarta River	tributaryRight	Rudărița River
+Poarta River	tributaryRight	Oprişul River
+Poarta River	tributaryRight	Cărbunarea River
+Urlătoarea Mare River	tributaryRight	Valea Șteioarei River
+Obârșia River	tributaryRight	Vădastra River
+Crușov River	tributaryRight	Obârşia River
+Toplița River	tributaryRight	Padina Seacă River
+Comarnic River	tributaryRight	Toplița River
+Recoltiaș River	tributaryRight	Pârâul Bradului
+Recoltiaș River	tributaryRight	Pârâul lui Hant
+Recoltiaș River	tributaryRight	Pârâul lui Iovan
+Mereni River	tributaryRight	Prăpastia River
+Măgura River	tributaryRight	Valea cu Apă River
+Valea Coacăzei River	tributaryRight	Valea Strâmbă River
+Polatiștea River	tributaryRight	Surpata River
+Polatiștea River	tributaryRight	Curteasa River
+Izvorul River	tributaryRight	Pârâul Caprelor
+Izvorul River	tributaryRight	Lăpuşel River
+Izvorul River	tributaryRight	Largul River
+Izvorul River	tributaryRight	Sasul River
+Brusturi River	tributaryRight	Slatina River
+Târzia River	tributaryRight	Pârâul Rău
+Târzia River	tributaryRight	Slutin River
+Domesnic River	tributaryRight	Pârâul Rău
+Domesnic River	tributaryRight	Pârâul Ruginilor
+Secu River	tributaryRight	Pârâul Alb
+Secu River	tributaryRight	Arșița Mare River
+Secu River	tributaryRight	Pârâul Rupturilor
+Pluton-Dolhești River	tributaryRight	Tărâțeni River
+Pluton-Dolhești River	tributaryRight	Petru Vodă,
+Pluton-Dolhești River	tributaryRight	Mihăeț River
+Bârlui River	tributaryRight	Printre Câmpuri River
+Bârlui River	tributaryRight	Gengea River
+Voineasa Mare River	tributaryRight	Lunca Oamenilor River
+Oltișor River	tributaryRight	Valea Adâncă River
+Oltișor River	tributaryRight	Voinicești River
+Oltișor River	tributaryRight	Vaslui River
+Oltișor River	tributaryRight	Enoșești River
+Oltișor River	tributaryRight	Jugălia River
+Vaslui River	tributaryRight	Lazăr River
+Vaslui River	tributaryRight	Giugastra River
+Vaslui River	tributaryRight	Porcu River
+Vaslui River	tributaryRight	Fleștenoaga River
+Târâia	tributaryRight	Valea Seacă River
+Pasărea River	tributaryRight	Șindrilița River
+Pădureni River	tributaryRight	Pârâul Ursului
+Pădureni River	tributaryRight	Pârâul lui Orban
+Pădureni River	tributaryRight	Pârâul Cărbunarilor
+Pădureni River	tributaryRight	Techere River
+Pădureni River	tributaryRight	Ticoș River
+Pădureni River	tributaryRight	Budoș River
+Jigărea River	tributaryRight	Pârâul Cârlanilor
+Jigărea River	tributaryRight	Stăncioaia River
+Vârghiș River	tributaryRight	Pârâul Cepii
+Vârghiș River	tributaryRight	Pârâul Fierului
+Belcina River	tributaryRight	Prișca River
+Belcina River	tributaryRight	Ceahod River
+Belcina River	tributaryRight	Pârâul Cetăţii
+Saciova River	tributaryRight	Pârâul Cetăţii
+Saciova River	tributaryRight	Culcuşu Ursului,
+Saciova River	tributaryRight	Lapoş,
+Saciova River	tributaryRight	Nadăş,
+Saciova River	tributaryRight	Cărbunari
+Pârâul Cetății	tributaryRight	Leurda River
+Breazova River	tributaryRight	Zeicani River
+Breazova River	tributaryRight	Zlatina River
+Breazova River	tributaryRight	Râușor
+Breazova River	tributaryRight	Peşteana River
+Breazova River	tributaryRight	Odorojniţa River
+Râul Mare	tributaryRight	Lăpușnicul Mare River
+Râul Mare	tributaryRight	Râușor
+Râul Mare	tributaryRight	Sibișel River
+Galbena River	tributaryRight	Poieni River
+Galbena River	tributaryRight	Breazova River
+Galbena River	tributaryRight	Pârâul de Câmp
+Galbena River	tributaryRight	Dunăreana River
+Ciorani River	tributaryRight	Clopotiva River
+Ciorani River	tributaryRight	Valea cu Apă River
+Ocoliș River	tributaryRight	Pociovaliștea River
+Ocoliș River	tributaryRight	Craca River
+Braia River	tributaryRight	Pârâul Crucii
+Braia River	tributaryRight	Izvorul Ciurgău River
+Bradu River	tributaryRight	Choveș River
+Bradu River	tributaryRight	Ulmul River
+Șugău River	tributaryRight	Șugăul Mare River
+Șugău River	tributaryRight	Pârâul Şarpelui
+Șugău River	tributaryRight	Hosu River
+Șugău River	tributaryRight	Pârâul Căruţei
+Galaț River	tributaryRight	Fierarul River
+Bistra Mare River	tributaryRight	Largu River
+Bistra Mare River	tributaryRight	Frasin River
+Bistra Mare River	tributaryRight	Pârâul cu Strung
+Bistricioara River	tributaryRight	Putna River
+Pârâul Noroios	tributaryRight	Șaroș River
+Telciu River	tributaryRight	Pârâul Noroios
+Zagon River	tributaryRight	Zagonul Mic River
+Veleșchia River	tributaryRight	Calul River
+Crișul Poienii River	tributaryRight	Valea cu Cale River
+Crișul Poienii River	tributaryRight	Crișul Nou River
+Crișul Nou River	tributaryRight	Vărzari River
+Crișul Băiței River	tributaryRight	Hoanca Moțului River
+Crișul Băiței River	tributaryRight	Bulzu River
+Crișul Băiței River	tributaryRight	Sighiștel River
+Bulzu River	tributaryRight	Sohodolul Gheţarului River
+Bălăteasa River	tributaryRight	Hula River
+Finiș River	tributaryRight	Valea Ursului River
+Finiș River	tributaryRight	Halaș River
+Finiș River	tributaryRight	Mărul River
+Finiș River	tributaryRight	Jigău River
+Finiș River	tributaryRight	Valea Iermarului River
+Crăiasa River	tributaryRight	Fagu River
+Hoanca Moțului River	tributaryRight	Corlatu River
+Jinsha River	tributaryRight	Xiaojiang River
+Poneasca River	tributaryRight	Gusec River
+Gusec River	tributaryRight	Valăul Coziei River
+Beu River	tributaryRight	Seleștiuța River
+Beu River	tributaryRight	Chichiregu River
+Ducin River	tributaryRight	Ducinoiu River
+Ducin River	tributaryRight	Ogașu Odăilor
+Bunea River	tributaryRight	Pădurani River
+Bunea River	tributaryRight	Topla River
+Pârâul Întors	tributaryRight	Dintievici River
+Pârâul Întors	tributaryRight	Canapiștea River
+Pârâul Întors	tributaryRight	Ghilea River
+Buhai River	tributaryRight	Bahna River
+Buhai River	tributaryRight	Pârâul Întors
+Căldările River	tributaryRight	Călimănești River
+Căldările River	tributaryRight	Stupina River
+Lotrișor	tributaryRight	Galbenu River
+Prigor River	tributaryRight	Brezovița River
+Brezovița River	tributaryRight	Putna River
+Schitu River	tributaryRight	Pârâul lui Martin
+Schitu River	tributaryRight	Durău River
+Schitu River	tributaryRight	Durăoaș River
+Schitu River	tributaryRight	Ursu River
+Schitu River	tributaryRight	Gheorghe River
+Pârâul lui Martin	tributaryRight	Pârâul Rupturii
+Durău River	tributaryRight	Nican River
+Rezu Mare River	tributaryRight	Râul Vacii
+Rezu Mare River	tributaryRight	Râul Roșu Mare
+Rezu Mare River	tributaryRight	Pârâul lui Grigore
+Rezu Mare River	tributaryRight	Beneș River
+Rezu Mare River	tributaryRight	Jang River
+Slătioara River	tributaryRight	Pârâul lui Ion
+Ghelința River	tributaryRight	Ghelința Mică River
+Ojdula River	tributaryRight	Orbaiul Mic River
+Ghelința Mare River	tributaryRight	Baba River
+Tișița Mare River	tributaryRight	Hanciu Mare River
+Tișița Mare River	tributaryRight	Hanciu Mic River
+Tișița Mare River	tributaryRight	Cristianul Mic River
+Tișița Mică River	tributaryRight	Condratul River
+Stogu River	tributaryRight	Pârâul Stânei
+Coza River	tributaryRight	Pârâul Mioarele
+Coasa River	tributaryRight	Lepușul River
+Lepșa River	tributaryRight	Corimbat River
+Lepșa River	tributaryRight	Strâmba River
+Râmna River	tributaryRight	Rașcuța
+Dragomirna River	tributaryRight	Heleșteu River
+Dragomirna River	tributaryRight	Valea Sărată River
+Chiua River	tributaryRight	Chiua Mică River
+Chiua River	tributaryRight	Chiulicea River
+Chiua River	tributaryRight	Chiulug River
+Ogașu Baranului	tributaryRight	Ogașu Tătarului
+Râul Rece	tributaryRight	Visa River
+Păiș River	tributaryRight	Barboșica River
+Jijioara River	tributaryRight	Boroșoaia River
+Jijioara River	tributaryRight	Amara River
+Pârâul Lung	tributaryRight	Sava River
+Sasca River	tributaryRight	Orășanul River
+Sasca River	tributaryRight	Pârâul Lung
+Izvoru Muntelui River	tributaryRight	Pârâul Maicilor
+Izvoru Muntelui River	tributaryRight	Pârâul Furciturii
+Nicolina River	tributaryRight	Bârnova River
+Ciocadia River	tributaryRight	Țiganu River
+Ciocadia River	tributaryRight	Capra River
+Ciocadia River	tributaryRight	Ghia River
+Bulz River	tributaryRight	Pârâul Rău
+Valea Mare River	tributaryRight	Sirca River
+Valea Mare River	tributaryRight	Valea Mineii River
+Sirca River	tributaryRight	Râul Roșu
+Prisaca River	tributaryRight	Unguroaia River
+Horoghiuca River	tributaryRight	Prisaca River
+Mitaci River	tributaryRight	Mitaciul Mic River
+Brețcu River	tributaryRight	Dumbrava River
+Ciudion River	tributaryRight	Cetatea Melcului River
+Pârâul Satului	tributaryRight	Ciudion River
+Muereasca River	tributaryRight	Pârâul Câinelui
+Muereasca River	tributaryRight	Dosu River
+Muereasca River	tributaryRight	Fântâna Tulbure River
+Valea Ursului River	tributaryRight	Brusturel River
+Râul Mare	tributaryRight	Cârpa River
+Râul Mare	tributaryRight	Zănoaga,
+Râul Mare	tributaryRight	Boșorogu River
+Râul Mare	tributaryRight	Preluca,
+Râul Mare	tributaryRight	Molivișu River
+Râul Mare	tributaryRight	Chicera,
+Râul Mare	tributaryRight	Răchita River
+Râul Mare	tributaryRight	Afinetul River
+Cugir River	tributaryRight	Râul Mare
+Cugir River	tributaryRight	Ghișag River
+Peștiș River	tributaryRight	Vârciorog River
+Oituz River	tributaryRight	Haloș River
+Oituz River	tributaryRight	Lupchianu River
+Oituz River	tributaryRight	Leșunțul Mare
+Oituz River	tributaryRight	Manciuc River
+Pârâul Morii	tributaryRight	Recea River
+Pârâul Morii	tributaryRight	Valea Mare River
+Răcătău River	tributaryRight	Răchițaua River
+Slănic River	tributaryRight	Dobru River
+Ciunget River	tributaryRight	Argintărie River
+Dofteana River	tributaryRight	Sărărie River
+Tazlău River	tributaryRight	Tazlăul Sărat
+Pârâul Negru	tributaryRight	Cracu River
+Bombala River	tributaryRight	Undowah River
+Cârlibaba River	tributaryRight	Râul Pucios
+Cârlibaba River	tributaryRight	Țaia River
+Lala River	tributaryRight	Izvorul Prelucii River
+Lala River	tributaryRight	Păltiniș River
+Valea Stânei River	tributaryRight	Sunătoru Mare River
+Valea Stânei River	tributaryRight	Sunătoru Mic River
+Pârâul Nou	tributaryRight	Toarcla River
+Pârâul Nou	tributaryRight	Veseud River
+Pârâul Nou	tributaryRight	Săseuș River
+Pământ Alb	tributaryRight	Valea Apei River
+Hăghimaș River	tributaryRight	Manole River
+Hăghimaș River	tributaryRight	Ghilcoş River
+Fembediu River	tributaryRight	Teleșau River
+Negrișoara River	tributaryRight	Pârâul Pintii
+Negrișoara River	tributaryRight	Gligul River
+Negrișoara River	tributaryRight	Piatra River
+Aksu River	tributaryRight	Keolyu River
+Aksu River	tributaryRight	Uch-Kol River
+Aksu River	tributaryRight	Ak-Shiyrak River
+Tâmpu River	tributaryRight	Șesul River
+Timișul Mort River	tributaryRight	Vâna Roșie River
+Sager Creek	tributaryRight	Cimarron River
+Sager Creek	tributaryRight	Salt Fork Arkansas River
+Sager Creek	tributaryRight	Canadian River
+Sager Creek	tributaryRight	Poteau River
+Șucu River	tributaryRight	Olteana River
+Șucu River	tributaryRight	Vâlsan
+Pârâul Mic	tributaryRight	Trei Brazi River
+Pârâul Mic	tributaryRight	Tocila Mare River
+Pârâul Mic	tributaryRight	Valea Cheii River
+Pârâul Mic	tributaryRight	Lerint River
+Pârâul Mare	tributaryRight	Beuca River
+Pârâul Mare	tributaryRight	Valea lui Dobre River
+Pârâul Mare	tributaryRight	Năjila River
+Valea Cheii River	tributaryRight	Valea Șoimului River
+Valea Cheii River	tributaryRight	Pârâul cu Fagi
+Valea Cheii River	tributaryRight	Valea Poienii River
+Valea Poienii River	tributaryRight	Valea Sticlăriei River
+Valea Poienii River	tributaryRight	Valea Boaru River
+Romanu River	tributaryRight	Mohoru cu Apă River
+Romanu River	tributaryRight	Mioarele River
+Romanu River	tributaryRight	Pârâul Romii
+Râul Putred	tributaryRight	Chirui River
+Varnița River	tributaryRight	Cordun River
+Pârâul Sărat	tributaryRight	Gorom River
+Râul Tocilelor	tributaryRight	Tocila Mică River
+Frasin River	tributaryRight	Optoceni River
+Lișava River	tributaryRight	Dobra River
+Lișava River	tributaryRight	Gladie River
+Jitin River	tributaryRight	Izvor River
+Feernic River	tributaryRight	Gada River
+Feernic River	tributaryRight	Salon River
+Feernic River	tributaryRight	Femeș River
+Eliseni River	tributaryRight	Vidăcut River
+Prașca River	tributaryRight	Pârâul Străjii
+Tocila Mare River	tributaryRight	Tocila Mică River
+Valea Boaru River	tributaryRight	Valea Neagră River
+Valea Boaru River	tributaryRight	Valea Barbului River
+Valea Lungă River	tributaryRight	Vanga Mică River
+Gârda Seacă River	tributaryRight	Pojaru River
+Ordâncușa River	tributaryRight	Valea Țiganilor River
+Valea Glăjăriei River	tributaryRight	Armăsarul River
+Valea Glăjăriei River	tributaryRight	Vâlcelul Dihamului River
+Valea Glăjăriei River	tributaryRight	Nisipu River
+Mogheruș River	tributaryRight	Aluniș River
+Sebeș River	tributaryRight	Valea Craiului River
+Sebeș River	tributaryRight	Sebeșel River
+Sebeș River	tributaryRight	Borlova River
+Sebeș River	tributaryRight	Slatina River
+Sebeș River	tributaryRight	Pârâul Turnului
+Sebeș River	tributaryRight	Mâloasa River
+Lăpușel River	tributaryRight	Pârâul Urşilor
+Sohodol River	tributaryRight	Pârgavu River
+Sângeriș River	tributaryRight	Vezieș River
+Pârgavu River	tributaryRight	Piscuri River
+Mehadica River	tributaryRight	Beletin River
+Mehadica River	tributaryRight	Craiova River
+Craiova River	tributaryRight	Lăpușnicel River
+Craiova River	tributaryRight	Săliște River
+Belareca	tributaryRight	Mehadica River
+Belareca	tributaryRight	Sverdinul Mare
+Dealu River	tributaryRight	Scărișoara River
+Chițiu River	tributaryRight	Corbu River
+Chițiu River	tributaryRight	Strâmbele River
+Boșorogu River	tributaryRight	Pârva River
+Boșorogu River	tributaryRight	Corcodanu River
+Boșorogu River	tributaryRight	Negovanu River
+Lonea River	tributaryRight	Groapa River
+Ocna River	tributaryRight	Chiejd
+Feneș River	tributaryRight	Racoș River
+Fizeș River	tributaryRight	Râtul River
+Fizeș River	tributaryRight	Diviciori River
+Pesceana River	tributaryRight	Gușoeni River
+Bătătura Cailor River	tributaryRight	Mohoi River
+Căpățâna River	tributaryRight	Ghidionul River
+Căpățâna River	tributaryRight	Frăsinișu River
+Gepiu River	tributaryRight	Varieș River
+Veljul Negreștilor River	tributaryRight	Veljul Pustei River
+Bozani River	tributaryRight	Valea Lupului River
+Cârpeștii Mici River	tributaryRight	Valea Peșterii River
+Hidișel River	tributaryRight	Dicănești River
+Hidișel River	tributaryRight	Bicăcel River
+Pusta River	tributaryRight	Pârâul Dumbrăvilor
+Vâja River	tributaryRight	Galbenu River
+Lespezel River	tributaryRight	Leurdele River
+Băncușorul River	tributaryRight	Silvestru River
+Coșna River	tributaryRight	Zimbroaia River
+Coșna River	tributaryRight	Netedu River
+Coșna River	tributaryRight	Teșna River
+Marchington River	tributaryRight	North River
+Marchington River	tributaryRight	Runway Creek
+Fonău River	tributaryRight	Rovine River
+Săuzeni River	tributaryRight	Căsuța Mare River
+Dobrovăț River	tributaryRight	Tăcuta River
+Simila River	tributaryRight	Ibana River
+Simila River	tributaryRight	Similișoara River
+Pilugul River	tributaryRight	Văcăria River
+Pintic River	tributaryRight	Târșoasa River
+Pintic River	tributaryRight	Suricu River
+Pintic River	tributaryRight	Arșița River
+Răchitișul Mare River	tributaryRight	Ciobota River
+Izvorul Cătunului River	tributaryRight	Salcia River
+Iezerul River	tributaryRight	Izvorul Cătunului River
+Groșeni River	tributaryRight	Oșoiu River
+Groșeni River	tributaryRight	Râul Alb
+Groșeni River	tributaryRight	Ursoiu River
+Groșeni River	tributaryRight	Archișel River
+Bârzești River	tributaryRight	Bluhoaie River
+Ciornovăț	tributaryRight	Osiac River
+Rimetea River	tributaryRight	Pârâul Muntelui
+Rimetea River	tributaryRight	Valea Albă River
+Plapcea Mare River	tributaryRight	Mogoşanca River
+Plapcea River	tributaryRight	Plapcea Mare River
+Plapcea River	tributaryRight	Mogoșanca River
+Dorofei River	tributaryRight	Ivăneasa River
+Teleorman River	tributaryRight	Mareș River
+Grosul River	tributaryRight	Oșoiu River
+Grosul River	tributaryRight	Plișca River
+Scorota River	tributaryRight	Scorota Seacă River
+Gârbovul River	tributaryRight	Nedeia River
+Gârbovul River	tributaryRight	Prisloapele River
+Beliu River	tributaryRight	Urviș River
+Beliu River	tributaryRight	Botfei River
+Beliu River	tributaryRight	Mideș River
+Sartiș River	tributaryRight	Renișel River
+Sartiș River	tributaryRight	Teudiaș River
+Ploștini River	tributaryRight	Mătișești River
+Homorod River	tributaryRight	Homorodul Mare River
+Homorod River	tributaryRight	Cozd
+Homorodul Mare	tributaryRight	Ghipeș River
+Homorodul Mare	tributaryRight	Daia River
+Homorodul Mare	tributaryRight	Paloșul River
+Paloșul River	tributaryRight	Râul Bucinilor
+Kaladan River	tributaryRight	Mat River
+Herța River	tributaryRight	Baranca River
+Vorona River	tributaryRight	Poiana River
+Vorona River	tributaryRight	Pârâul Roșu
+Bâlca	tributaryRight	Bilca Tulbure River
+Popeni River	tributaryRight	Secu River
+Ciobănuș River	tributaryRight	Lovaș River
+Ciobănuș River	tributaryRight	Tulburea River
+Ciobănuș River	tributaryRight	Lapoș River
+Lovaș River	tributaryRight	Balondos River
+Ciugheș River	tributaryRight	Voica River
+Ciugheș River	tributaryRight	Arșița River
+Camenca	tributaryRight	Râul Luncii
+Camenca	tributaryRight	Făgețel River
+Izvorul Alb River	tributaryRight	Cracul Mare River
+Izvorul Alb River	tributaryRight	Făget River
+Tărhăuș River	tributaryRight	Ciudomir River
+Sugura River	tributaryRight	Târsecu Mic River
+Topolnița River	tributaryRight	Clisavăț River
+Agăstin River	tributaryRight	Cracul Mare River
+Cracul Mic River	tributaryRight	Merișor River
+Macquarie River	tributaryRight	Elizabeth River
+Morișca River	tributaryRight	Cotârgaci River
+Loose Stream	tributaryRight	tributary at Loose
+Secu River	tributaryRight	Porcu River
+Secu River	tributaryRight	Zăpodia River
+Bradu River	tributaryRight	Creanga River
+Răstolița River	tributaryRight	Secu River
+Răstolița River	tributaryRight	Valcălița River
+Largu River	tributaryRight	Căprioru River
+Pietrosu River	tributaryRight	Batiste River
+Coacăza River	tributaryRight	Tăciuni River
+Ariniș River	tributaryRight	Bârlogu River
+Șoimu River	tributaryRight	Pârâul Verde
+Șoimu River	tributaryRight	Pârâul Tulbure
+Schit River	tributaryRight	Coman, Sărățaua, Căpăţâna
+Tooma River	tributaryRight	Tumbarumba Creek
+Tumut River	tributaryRight	Doubtful Creek
+Tumut River	tributaryRight	Happy Jacks Creek
+Tumut River	tributaryRight	Goobarragandra River
+Slănic	tributaryRight	Ocnița River
+Șuța River	tributaryRight	Bai River
+Vulcana River	tributaryRight	Râul Sticlăriei
+Vulcana River	tributaryRight	Glod River
+Râul Alb	tributaryRight	Bărbulețu River
+Raciu River	tributaryRight	Valea Brădetului River
+Șaru River	tributaryRight	Deluganul River
+Șaru River	tributaryRight	Călimănel River
+Șaru River	tributaryRight	Chirileni River
+Solca River	tributaryRight	Solcuța River
+Solca River	tributaryRight	Crevec River
+Soloneț River	tributaryRight	Cajvana River
+Sucevița River	tributaryRight	Volovăț River
+Clit River	tributaryRight	Saca River
+Solcuța River	tributaryRight	Ardeluța River
+Pozen River	tributaryRight	Horodnic River
+Bilca Mare River	tributaryRight	Bilca Mică River
+Vorova River	tributaryRight	Prislop River
+Molivișu River	tributaryRight	Valea Groșilor River
+Sebeș	tributaryRight	Ciban River
+Sebeș	tributaryRight	Dobra River
+Sebeș	tributaryRight	Secaș River
+Cucuteni River	tributaryRight	Ordea River
+Ciunca River	tributaryRight	Bahna River
+Pustnic River	tributaryRight	Oraciu River
+Fitod River	tributaryRight	Şumuleu River
+Bradu River	tributaryRight	Silaș River
+Râul Fânețelor	tributaryRight	Misentea River
+Fișag River	tributaryRight	Bradu River
+Sipoș River	tributaryRight	Vârgău River
+Frumoasa River	tributaryRight	Paloșul River
+Frumoasa River	tributaryRight	Fata River
+Lunca River	tributaryRight	Rața River
+Lunca Mare River	tributaryRight	Sadocuțu River
+Groapa Apei River	tributaryRight	Urașag River
+Fruntești River	tributaryRight	Valea Boțului River
+Pruteț River	tributaryRight	Duda River
+Pruteț River	tributaryRight	Huși River
+Putna River	tributaryRight	Hașca River
+Putna River	tributaryRight	Putnișoara River
+Putna River	tributaryRight	Vițău River
+Putna Întunecoasă River	tributaryRight	Figheș River
+Figheș River	tributaryRight	Hagota River
+Putna Noroioasă River	tributaryRight	Arama Caprelor River
+Putna Noroioasă River	tributaryRight	Râul Scurt
+Putna Noroioasă River	tributaryRight	Tătaru River
+Râul Roșu Mare	tributaryRight	Râul Roșu
+Șoimu River	tributaryRight	Zărzag River
+Hăigaș	tributaryRight	Valea Luncii River
+Ighiu River	tributaryRight	Iezer River
+Ighiu River	tributaryRight	Ighiel River
+Ibăneasa River	tributaryRight	Grivița River
+Rusaia River	tributaryRight	Pârâul Jneapănului
+Râul Șes	tributaryRight	Mostil River
+Mulkear River	tributaryRight	River Slievenohera
+Coțatcu River	tributaryRight	Viroaga River
+Martin River	tributaryRight	Curcubata River
+Sărățel River	tributaryRight	Furu River
+Sărățel River	tributaryRight	Ursoaia River
+Sărățel River	tributaryRight	Argintari River
+Motnău River	tributaryRight	Arșița River
+Motnău River	tributaryRight	Motnăul Puturos River
+Motnău River	tributaryRight	Vulturu River
+Motnău River	tributaryRight	Viforâta River
+Cătăuți River	tributaryRight	Spidele River
+Grebănu River	tributaryRight	Funduri River
+Râmnicel River	tributaryRight	Palanca River
+Râmnicel River	tributaryRight	Pârâul Mare
+Valea Fânețelor River	tributaryRight	Varasău River
+Valea Fânețelor River	tributaryRight	Corbeni River
+Valea Fânețelor River	tributaryRight	Derna River
+Barcău	tributaryRight	Ier
+Temecula Creek	tributaryRight	Chihuahua Creek
+Temecula Creek	tributaryRight	Tule Creek
+Temecula Creek	tributaryRight	Wilson Creek
+Chineja River	tributaryRight	Băneasa River
+Chineja River	tributaryRight	Bujoru River
+Chineja River	tributaryRight	Covurlui River
+Chineja River	tributaryRight	Frumușița River
+Chineja River	tributaryRight	Ijdileni River
+Haita	tributaryRight	Tarnița River
+Haita	tributaryRight	Tămău River
+Haita	tributaryRight	Panacul River
+Sărișorul Mic River	tributaryRight	Țancuri River
+Rica River	tributaryRight	Nadăş River
+Nadăș River	tributaryRight	Silvaș River
+Sic River	tributaryRight	Seolemai River
+Râul Înfundăturii	tributaryRight	Ruja River
+Movile River	tributaryRight	Seliștat River
+Zlagna River	tributaryRight	Dosu Pădurii River
+Crivaia River	tributaryRight	Frăsinelu River
+Crivaia River	tributaryRight	Râul Jghiabului
+Crivaia River	tributaryRight	Pârâul lui Băloi
+Crivaia River	tributaryRight	Batmoș River
+Tărcuța River	tributaryRight	Hanu River
+Tărcuța River	tributaryRight	Tărhăuș River
+Bolovăniș River	tributaryRight	Vancea River
+Bolovăniș River	tributaryRight	Gonțu River
+Brateș River	tributaryRight	Meleiuș River
+Bahrin River	tributaryRight	Jgheab River
+Secu-Vaduri River	tributaryRight	Ciungi River
+Secu-Vaduri River	tributaryRight	Câmpu River
+Secu-Vaduri River	tributaryRight	Glodu River
+Doamna River	tributaryRight	Bahrin River
+Doamna River	tributaryRight	Gliguța River
+Frăsinet River	tributaryRight	Râul Lungenilor
+Teslui River	tributaryRight	Frăsinet River
+Râul Mic	tributaryRight	Coliba River
+Râul Mic	tributaryRight	Runcu River
+Râul Mic	tributaryRight	Frasinu River
+Râul Mic	tributaryRight	Răfăin River
+Râul Mic	tributaryRight	Răchita River
+Râul Mic	tributaryRight	Râul Italienilor
+Râul Mic	tributaryRight	Râul Cătunului
+Râul Mic	tributaryRight	Râul Cotoarelor,
+Râul Mic	tributaryRight	Gruiu River
+Scârna River	tributaryRight	Scârna Mică River
+Arieș River	tributaryRight	Lupul River
+Gelug River	tributaryRight	Țiganca River
+Gelug River	tributaryRight	Vodnic River
+Gelug River	tributaryRight	Rafnic River
+Gelug River	tributaryRight	Jupalnic River
+Durăceasa River	tributaryRight	Grind River
+Seaca River	tributaryRight	Râul Popii
+Ramura Mică River	tributaryRight	Babarunca River
+Zizin River	tributaryRight	Dobromiru River
+Zizin River	tributaryRight	Zizinaș River
+Berzunțiul Negru River	tributaryRight	Bâșca River
+Bârsănești River	tributaryRight	Râul Rău
+Butucari River	tributaryRight	Bradu River
+Lupul River	tributaryRight	Pârâul Calului
+Moreni River	tributaryRight	Dragomir River
+Moreni River	tributaryRight	Butucari River
+Moreni River	tributaryRight	Pușcașu River
+Helegiu River	tributaryRight	Turcu River
+Grivele River	tributaryRight	Iradia River
+Verehia River	tributaryRight	Pârâul Mare
+Austin Creek	tributaryRight	Kidd Creek
+Pranhita River	tributaryRight	Nagulvagu River
+Pranhita River	tributaryRight	Peddawagu River
+Rasnic River	tributaryRight	Merețel River
+Grigorești River	tributaryRight	Fetești River
+Pârâul Boului	tributaryRight	Boul Mic River
+Pârâul Boului	tributaryRight	Trif River
+Barcheș River	tributaryRight	Sârbul River
+Buhui River	tributaryRight	Glăvan River
+Buhui River	tributaryRight	Certeț River
+Viteazu River	tributaryRight	Râul Sârbului
+Ier	tributaryRight	Salcia River
+Santău River	tributaryRight	Orbău River
+Santău River	tributaryRight	Valea Neagră River
+Salcia River	tributaryRight	Șilindru River
+Green Valley Creek	tributaryRight	Atascadero Creek
+Green Valley Creek	tributaryRight	Purrington Creek
+Someșul Rece	tributaryRight	Irișoara River
+Someșul Rece	tributaryRight	Dumitreasa River
+Someșul Rece	tributaryRight	Negruța River
+Someșul Rece	tributaryRight	Râșca Mare River
+Râșca Mare River	tributaryRight	Muntele Rece River
+Răcătău River	tributaryRight	Dobruș River
+Găldița River	tributaryRight	Drogul River
+Găldița River	tributaryRight	Râul Turcului
+Galda River	tributaryRight	Mlaca River
+Galda River	tributaryRight	Găldița River
+Galda River	tributaryRight	Tibru River
+Galda River	tributaryRight	Cricău River
+Cricău River	tributaryRight	Craiva River
+Lacuri River	tributaryRight	Ciumița River
+Lacuri River	tributaryRight	Valea Fierului River
+Valea Neagră River	tributaryRight	Românești River
+Valea Neagră River	tributaryRight	Sârb River
+Valea Neagră River	tributaryRight	Valea Morilor River
+Călmățui River	tributaryRight	Herătău River
+Călmățui River	tributaryRight	Valea Ciorii River
+Highland Creek	tributaryRight	West Highland Creek
+Groapa Seacă River	tributaryRight	Scovarda River
+Behela River	tributaryRight	Unu River
+Sohodol River	tributaryRight	Râșnov River
+Sohodol River	tributaryRight	Pănicerul River
+Șimon River	tributaryRight	Gaura River
+Șimon River	tributaryRight	Valea Bisericii River
+Șimon River	tributaryRight	Valea Vlădoiu River
+Șimon River	tributaryRight	Valea Nițoiu River
+Șimon River	tributaryRight	Valea Sasului River
+Șimon River	tributaryRight	Tisa River
+Ștevioara River	tributaryRight	Valea Noaghiei River
+Tisa River	tributaryRight	Ștevioara River
+Tisa River	tributaryRight	Vulturul River
+Tisa River	tributaryRight	Calul Bălan River
+Guțan River	tributaryRight	Pietrele Albe River
+Mighindoala River	tributaryRight	Râpa River
+Ruscova River	tributaryRight	Socolău
+Ruscova River	tributaryRight	Repedea River
+Lemnia River	tributaryRight	Lutoasa River
+Socolău	tributaryRight	Roșușul Mic River
+Cisla	tributaryRight	Valea Păzăciunii River
+Chizdia River	tributaryRight	Repaș River
+Chizdia River	tributaryRight	Hodoș River
+Râiosu River	tributaryRight	Cășăria River
+Milcovăț River	tributaryRight	Coșoaia River
+Sericu River	tributaryRight	Sericel River
+Sărata River	tributaryRight	Sărata-Monteoru River
+Sărata River	tributaryRight	Râiosu River
+Sărata River	tributaryRight	Ghighiu River
+Ghighiu River	tributaryRight	Tohăneanca River
+Ghighiu River	tributaryRight	Fulga River
+Turdaș River	tributaryRight	Feredău River
+Sibișel River	tributaryRight	Cucuiș River
+Sterminos River	tributaryRight	Voievodu River
+Brodina River	tributaryRight	Sludnica
+Brodina River	tributaryRight	Cununschi River
+Brodina River	tributaryRight	Brodinișoara River
+Boul River	tributaryRight	Sihastru River
+Boul River	tributaryRight	Jijia River
+Râșca River	tributaryRight	Râșcuța River
+Râșca River	tributaryRight	Pârâul Moișii
+Râșca River	tributaryRight	Moișa River
+Moișa River	tributaryRight	Mihăileasa River
+Boura River	tributaryRight	Bârgău River
+Valea Mare River	tributaryRight	Comoara River
+Valea Mare River	tributaryRight	Ghindăoani River
+Topolița River	tributaryRight	Netezi River
+Topolița River	tributaryRight	Țolici River
+Topolița River	tributaryRight	Urecheni River
+Netezi River	tributaryRight	Pârâul Sărat
+Netezi River	tributaryRight	Valea Mare River
+Filioara River	tributaryRight	Secătura Mare River
+Crevedia River	tributaryRight	Zănoaga River
+Crevedia River	tributaryRight	Corbu River
+Buta River	tributaryRight	Buta Mică River
+Mărcușa River	tributaryRight	Pârâul Întunecat
+Mărcușa River	tributaryRight	Groapa Pietroasă River
+Bortofălău River	tributaryRight	Balașca River
+Cernat River	tributaryRight	Mărcuşa River
+Cernat River	tributaryRight	Pârâul Rupt
+Cernat River	tributaryRight	Bortofălău River
+Cernat River	tributaryRight	Pârâul Mic
+Cernat River	tributaryRight	Albiș River
+Călimănelul cel Limpede River	tributaryRight	Călimănuțul River
+Călimănel River	tributaryRight	Călimănelul cel Limpede River
+Călimănel River	tributaryRight	Ghioriști River
+Chindeni River	tributaryRight	Loc River
+Aliso Creek	tributaryRight	Wood Canyon Creek
+Runc River	tributaryRight	Tulnic River
+Ciurgău River	tributaryRight	Valea Ursului River
+Chiril River	tributaryRight	Valea Toancei River
+Călmățui River	tributaryRight	Strâmbeanu River
+Călmățui River	tributaryRight	Puturosu River
+Mitocu River	tributaryRight	Dragomirna River
+Sărăceaua River	tributaryRight	Fântâna Fătului River
+Desnățui River	tributaryRight	Banagui River
+Desnățui River	tributaryRight	Baldal River
+Desnățui River	tributaryRight	Baboia River
+Drincea River	tributaryRight	Valea Teiului River
+Bistra River	tributaryRight	Cuzap River
+Bistra River	tributaryRight	Varvizel River
+Inot River	tributaryRight	Pățălușa River
+Gologan River	tributaryRight	Dioști River
+Gologan River	tributaryRight	Aleșteu River
+Balta River	tributaryRight	Prejna River
+Balta River	tributaryRight	Gornoviţa River
+Balta River	tributaryRight	Costești River
+Timișaț	tributaryRight	Begheiu Mic River
+Nergana River	tributaryRight	Beg River
+Coșava River	tributaryRight	Coșava Mică River
+Lanca Birda River	tributaryRight	Vâna Mare River
+Vâna Mică River	tributaryRight	Băloanea River
+Geoagiu River	tributaryRight	Valea Porcului River
+Geoagiu River	tributaryRight	Gura Voii River
+Geoagiu River	tributaryRight	Valea Roșie River
+Boz River	tributaryRight	Furcșoara River
+Boz River	tributaryRight	Bărăști River
+Sand River	tributaryRight	Diep River
+Sand River	tributaryRight	Koperspruit
+Sand River	tributaryRight	Dwars River
+Bistra River	tributaryRight	Cofu River
+Bistra River	tributaryRight	Doncea River
+Bistra River	tributaryRight	Bidireasa River
+Valea din Mijloc River	tributaryRight	Pârâul Cald
+Gălăoaia River	tributaryRight	Gălăoaia Mare River
+Sebeș River	tributaryRight	Corlățeni River
+Sălard River	tributaryRight	Jirca River
+Gudea River	tributaryRight	Gudea Mare River
+Borlova River	tributaryRight	Borlovița River
+Bolvașnița River	tributaryRight	Vârciorova, Bolvașnița Mare
+Spaia	tributaryRight	Slăveni River
+Gurasada River	tributaryRight	Vica River
+Valea Malului River	tributaryRight	Valea Tisei River
+Sârbi River	tributaryRight	Valea Malului River
+Sârbi River	tributaryRight	Băgara River
+Sârbi River	tributaryRight	Homorod River
+Big Sulphur Creek	tributaryRight	Squaw Creek
+Ohaba River	tributaryRight	Valea Lăpugilor River
+Dornetul River	tributaryRight	Ciorman River
+Pine Gulch Creek	tributaryRight	Copper Mine Gulch
+Pine Gulch Creek	tributaryRight	McCormick Creek
+Izvor River	tributaryRight	Birchiș River
+Middle Fork Feather River	tributaryRight	Bear Creek
+Crivaia Mare River	tributaryRight	Crivaia Mică River
+Lișcovu Mare River	tributaryRight	Lișcovu Mic River
+Bistra River	tributaryRight	Bistra Mare River
+Bistra River	tributaryRight	Stănina River
+Miraș River	tributaryRight	Gotu River
+Nedeiu River	tributaryRight	Pravăț River
+Ciban River	tributaryRight	Rușinosu River
+Dobra River	tributaryRight	Valea Dușilor River
+Curpătu River	tributaryRight	Curpătul Mic River
+Curpătu River	tributaryRight	Pârâul Vacii
+Pere Marquette River	tributaryRight	Baldwin River
+Dresleuca River	tributaryRight	Ipotești River
+Dresleuca River	tributaryRight	Băiceni River
+Dresleuca River	tributaryRight	Ionașcu River
+Cozancea River	tributaryRight	Zlătunoaia River
+Urechioiu River	tributaryRight	Burduja River
+Burdea River	tributaryRight	Bălăcel River
+Cotmeana River	tributaryRight	Mârghia River
+Șugag River	tributaryRight	Mocirlele River
+Șugag River	tributaryRight	Pârâul Sălcii
+Larga Mare River	tributaryRight	Cerbu River
+Diudiu River	tributaryRight	Costișa River
+Beregsău River	tributaryRight	Măgheruș River
+Beregsău River	tributaryRight	Apa Mare
+Clopodia River	tributaryRight	Boculundia River
+Becaș River	tributaryRight	Murători River
+Gădălin River	tributaryRight	Căianu River
+Gădălin River	tributaryRight	Săratul River
+Ghindăoani River	tributaryRight	Hotarul River
+Horăița River	tributaryRight	Măngălaru River
+Horăița River	tributaryRight	Călugărul River
+Horăița River	tributaryRight	Botolia River
+Horăița River	tributaryRight	Horăiciorul River
+Bârnărel River	tributaryRight	Dranița River
+Ortoaia River	tributaryRight	Bădărini River
+Falcău River	tributaryRight	Rareșu River
+Stăunoiu River	tributaryRight	Dosățel River
+Stăunoiu River	tributaryRight	Colinele River
+Calul River	tributaryRight	Dragu River
+Dragova River	tributaryRight	Cândești River
+Dragova River	tributaryRight	Valea lui Ion River
+Câlneș River	tributaryRight	Văleni River
+Săvescu River	tributaryRight	Vorniceasa River
+Vizăuți River	tributaryRight	Păcura, Găurile, Coarna
+Dilcov River	tributaryRight	Bonțești River
+Dilcov River	tributaryRight	Dălhăuți River
+Bohotin River	tributaryRight	Bazga River
+Boișoara River	tributaryRight	Găujani River
+Boia Mare	tributaryRight	Grohotișul River
+Boia Mare	tributaryRight	Izvorul Olanului River
+Boia Mare	tributaryRight	Boia Mică River
+Boia Mică River	tributaryRight	Suru River
+Boia Mică River	tributaryRight	Corbu River
+Boia Mică River	tributaryRight	Valea Sterminoasă River
+Râul Sec	tributaryRight	Bumbuești River
+Senetea River	tributaryRight	Fagu Roșu River
+Belciugatele River	tributaryRight	Valea Bisericii River
+Milotina River	tributaryRight	Vânăta River
+Bârnaru River	tributaryRight	Cocaz River
+Bârnaru River	tributaryRight	Higa River
+Bârnaru River	tributaryRight	Tomnatecu River
+Bârnaru River	tributaryRight	Secu River
+Neagra Broșteni River	tributaryRight	Ortoloaia River
+Florișoru River	tributaryRight	Brăneasa River
+Cornet River	tributaryRight	Pârâul Ţigăniei
+Robești River	tributaryRight	Padinile River
+Robești River	tributaryRight	Bârlogu River
+Robești River	tributaryRight	Jangu River
+Ursa River	tributaryRight	Gârcov River
+Bolovan River	tributaryRight	Valea Mare River
+Surdui River	tributaryRight	Poganu River
+Dâlga River	tributaryRight	Băzăvan River
+Oporelu Canal	tributaryRight	Dâlga River
+Oporelu Canal	tributaryRight	Mamu River
+Oporelu Canal	tributaryRight	Beica River
+Mamu River	tributaryRight	Cernișoru River
+Strehareți River	tributaryRight	Ștreangul River
+Călmățui River	tributaryRight	Sohodol River
+Suhatul River	tributaryRight	Grădinile River
+Călui River	tributaryRight	Căluiețul Mic River
+Călui River	tributaryRight	Căluieț River
+Călui River	tributaryRight	Vârnava River
+Horezu River	tributaryRight	Valea Mare River
+Horezu River	tributaryRight	Valea Boului River
+Comanca River	tributaryRight	Comăncuța River
+Neau River	tributaryRight	Batei River
+Rachiș River	tributaryRight	Valea lui Mihai River
+Iarcoș River	tributaryRight	Bazoșina River
+Buda River	tributaryRight	Fâstâci River
+Sohodol River	tributaryRight	Râul fără Apă
+Sohodol River	tributaryRight	Ogașu Pepinierii
+Barton River, Vermont	tributaryRight	Crystal Lake
+Grohotișul River	tributaryRight	Valea Prăvalelor River
+Grohotișul River	tributaryRight	Merezu River
+Grohotișul River	tributaryRight	Valea Rea River
+Bângăleasa River	tributaryRight	Grohotişul River
+Bângăleasa River	tributaryRight	Seciu River
+Bângăleasa River	tributaryRight	Pârâul lui Mânjină
+Crasna River	tributaryRight	Urlătoarea River
+Crasna River	tributaryRight	Manea River
+Ghiurca River	tributaryRight	Ghiurca Mică River
+Harțag River	tributaryRight	Pascu River
+Harțag River	tributaryRight	Harţagu Mare River
+Titimoiu River	tributaryRight	Ceapa River
+Cașoca River	tributaryRight	Vâlcu River
+Cașoca River	tributaryRight	Cașocuța River
+Patacu River	tributaryRight	Husăuș River
+Patacu River	tributaryRight	Pârâul Popii
+Patacu River	tributaryRight	Pârâul cu Scoc
+Porcu River	tributaryRight	Schindufu River
+Izvorul lui Aurel River	tributaryRight	Izvorul lui Ştefan River
+Tămășoiu River	tributaryRight	Pârâul Stânei
+Cernat River	tributaryRight	Vâna Mare River
+Cernat River	tributaryRight	Pasărea River
+Bătrâna River	tributaryRight	Călineasa River
+Câlnic River	tributaryRight	Călugăreasa River
+Câlnic River	tributaryRight	Giovria River
+Câlnic River	tributaryRight	Valea Călugărească River
+Măcăria River	tributaryRight	Cătina River
+Ursita River	tributaryRight	Brustureț River
+Gârboveta River	tributaryRight	Dagâța River
+Gârboveta River	tributaryRight	Ciurea River
+Bozieni River	tributaryRight	Crăiești River
+Mortăuța River	tributaryRight	Corhani River
+Mortăuța River	tributaryRight	Ratova River
+Sas River	tributaryRight	Comori River
+Sas River	tributaryRight	Lespezi River
+Sas River	tributaryRight	Derzanul River
+Bouleț River	tributaryRight	Boulețul Mic River
+Pârâul Șerpuit	tributaryRight	Valea Fânațelor River
+Pârâul Șerpuit	tributaryRight	Haghiotul River
+Valea Leleiului River	tributaryRight	Hodod River
+Maja River	tributaryRight	Pârâul Şerpuit
+Cerna River	tributaryRight	Nanda River
+Cioara River	tributaryRight	Freman River
+Terebici River	tributaryRight	Valea cu Nuci River
+Miniș River	tributaryRight	Stanovit River
+Miniș River	tributaryRight	Vizma River
+Miniș River	tributaryRight	Crivobara River
+Miniș River	tributaryRight	Gutuna River
+Miniș River	tributaryRight	Secășița River
+Mociur River	tributaryRight	Lipari River
+Mociur River	tributaryRight	Cureșița River
+Teregova River	tributaryRight	Teregovița River
+Teregova River	tributaryRight	Lazul River
+Măgura River	tributaryRight	Șendroaia River
+Bicăjel River	tributaryRight	Tarvez River
+Bicăjel River	tributaryRight	Vete River
+Bicăjel River	tributaryRight	Pârâul lui Tita
+Bicăjel River	tributaryRight	Făgețel River
+Bicăjel River	tributaryRight	Pârâul Cighenilor
+Neagra River	tributaryRight	Neagra Mică River
+Izvorul Alb River	tributaryRight	Limpedea River
+Humor River	tributaryRight	Larga River
+Coștei River	tributaryRight	Biniș River
+Homorod River	tributaryRight	Râul Lupului
+Pârâul Nou	tributaryRight	Medişa River
+Crasna River	tributaryRight	Crăsnuța River
+Khava River	tributaryRight	Right Khava
+Milea River	tributaryRight	Viforâta River
+Șapte Izvoare River	tributaryRight	Trei Izvoare River
+Păltiniș River	tributaryRight	Păltinișul Mic River
+Gologanu River	tributaryRight	Ciungi River
+Vameș River	tributaryRight	Baraboi River
+Puru River	tributaryRight	Ștevioara River
+Valea Iepei River	tributaryRight	Ungureasca River
+Săpânța River	tributaryRight	Săpâncioara River
+Săpânța River	tributaryRight	Runcu River
+Runcu River	tributaryRight	Izvorul cu Trei Măguri River
+Runcu River	tributaryRight	Valea Covătarului River
+Mireș River	tributaryRight	Ruginoasa River
+Nadoșa River	tributaryRight	Mireş River
+Nadoșa River	tributaryRight	Rugșoru River
+Nadoșa River	tributaryRight	Runcu River
+Nadoșa River	tributaryRight	Paltinu River
+Pârâul Muntelui	tributaryRight	Valea Cioncașele River
+Gorova River	tributaryRight	Balota River
+Talna Mică River	tributaryRight	Săscura River
+Pleșca River	tributaryRight	Tincușa River
+Racșa River	tributaryRight	Adrian River
+Cimpoiașa River	tributaryRight	Piatra Rea River
+Fehéres River	tributaryRight	Sos River
+Hodoș River	tributaryRight	Pârâul Mare
+Sovata River	tributaryRight	Săcădat River
+Fleț River	tributaryRight	Băița River
+Scroafa	tributaryRight	Archita River
+Căian River	tributaryRight	Răcaș River
+Căian River	tributaryRight	Carpen River
+Căian River	tributaryRight	Ormindea River
+Căian River	tributaryRight	Peștera River
+Căian River	tributaryRight	Fornădia River
+Velicanul River	tributaryRight	Valea Țigănești River
+Pănicerul River	tributaryRight	Roșchii River
+Pănicerul River	tributaryRight	Urlătoarea River
+Năjila River	tributaryRight	Pârâul Sticlăriei
+Năjila River	tributaryRight	Bratu River
+Blidul River	tributaryRight	Valea Seacă River
+Blidul River	tributaryRight	Lespezi River
+Lespezi River	tributaryRight	Valea Săriturii River
+Nuntași River	tributaryRight	Cogealac River
+Pulangi River	tributaryRight	Tigwa River
+Pulangi River	tributaryRight	Kabacan River
+Pulangi River	tributaryRight	Dampilasan River
+Pulangi River	tributaryRight	Maapag River
+Pulangi River	tributaryRight	Laligan River
+Pulangi River	tributaryRight	Kalabugao River
+Pulangi River	tributaryRight	Tinanan River
+Pulangi River	tributaryRight	Kulaman River
+Pulangi River	tributaryRight	Arakan River
+Strâmbu River	tributaryRight	Șibot River
+Strâmbu River	tributaryRight	Chirușca Seacă River
+Strâmbu River	tributaryRight	Pârâul Laptelui
+Strâmbu River	tributaryRight	Albele
+Pârâul Laptelui	tributaryRight	Pârâul Hoţilor
+Dălghiu River	tributaryRight	Prundu River
+Dălghiu River	tributaryRight	Pârâul Porcului
+Acriș	tributaryRight	Valea Pietrei River
+Buzăiel River	tributaryRight	Chichișul River
+Buzăiel River	tributaryRight	Tătaru River
+Buzăiel River	tributaryRight	Târsa River
+Buzăiel River	tributaryRight	Cremenea River
+Buzăiel River	tributaryRight	Pârâul Mare
+Cremenea River	tributaryRight	Cremenuța River
+Ciclova River	tributaryRight	Valea Lungă River
+Vicinic	tributaryRight	Moșcăneasca River
+Ilișoara Mică River	tributaryRight	Sihla River
+Ilișoara River	tributaryRight	Ilişoara Mică River
+Ilișoara Mare River	tributaryRight	Curcubeul River
+Ilișoara Mare River	tributaryRight	Păsărica River
+Ilișoara Mare River	tributaryRight	Pârâul Rău
+Ilișoara Mare River	tributaryRight	Ursu River
+Ursu River	tributaryRight	Ursul Mare River
+Pietrosu River	tributaryRight	Pârâul Repede
+Tihul River	tributaryRight	Tihuleț River
+Nirajul Mare River	tributaryRight	Ţigla River
+Tâmpa River	tributaryRight	Veța River
+Tâmpa River	tributaryRight	Pârâul Rece
+Milășelu River	tributaryRight	Drăculea River
+Chilbucuț River	tributaryRight	Fântânița River
+Măhăceni River	tributaryRight	Stejeriș River
+Ciugud River	tributaryRight	Valea Cânepiștilor River
+Ciugud River	tributaryRight	Groapa Beclani River
+Gârbova River	tributaryRight	Valea Fânețelor River
+Pârâul Mare	tributaryRight	Bedeni River
+Valea River	tributaryRight	Moșuni River
+Crasna River	tributaryRight	Cetățuia River
+Crasna River	tributaryRight	Hrușca River
+Crasna River	tributaryRight	Brădicești River
+Grasu River	tributaryRight	Grăsuțu River
+Vinul Mare River	tributaryRight	Mândra River
+Vinul River	tributaryRight	Vinul Mare River
+Vinul River	tributaryRight	Malnaş River
+Vinul River	tributaryRight	Andraş Filip River
+Zam River	tributaryRight	Dobrița River
+Zam River	tributaryRight	Tămășești River
+Almaș River	tributaryRight	Codru River
+Almaș River	tributaryRight	Cireș River
+Almaș River	tributaryRight	Valea Mare River
+Cotumba River	tributaryRight	Fălțuian River
+Sărata	tributaryRight	Mușata River
+Urlătoarea River	tributaryRight	Urlătoarea Mică River
+Siriu River	tributaryRight	Siriu Mic River
+Siriu River	tributaryRight	Roșia Mare River
+Siriu River	tributaryRight	Molidu River
+Siriu River	tributaryRight	Monteoru River
+Siriu River	tributaryRight	Valea Popii River
+Siriu River	tributaryRight	Vaca Mare River
+Siriu River	tributaryRight	Vaca Mică River
+Siriu Mare River	tributaryRight	Morcovoaia River
+Siriu Mic River	tributaryRight	Condrea River
+Tâmpa River	tributaryRight	Pârâul lui Ilie
+Cheița River	tributaryRight	Tigăile Mari River
+Cheița River	tributaryRight	Tigăile Mici River
+Cheița River	tributaryRight	Izvorul lui Manole River
+Cheița River	tributaryRight	Bratocea River
+Cheița River	tributaryRight	Babeș River
+Gropșoarele River	tributaryRight	Pârâul Fugarilor
+Bobu River	tributaryRight	Valea Grohotișului River
+Peleaga River	tributaryRight	Peleguţa River
+Lăpușnicul Mic River	tributaryRight	Scurtele River
+Lăpușnicul Mic River	tributaryRight	Borăscu River
+Lăpușnicul Mic River	tributaryRight	Stâna Mare River
+Berhina River	tributaryRight	Galbena de Sud River
+Scărișoara River	tributaryRight	Micuşa River
+Judele River	tributaryRight	Zănoaga River
+Judele River	tributaryRight	Zănoguța River
+Zlata River	tributaryRight	Dobrunu River
+Zlata River	tributaryRight	Cârligu River
+Drighiu River	tributaryRight	Turea River
+Lucșoara River	tributaryRight	Racovița River
+Valea Mare River	tributaryRight	Lucșoara River
+Valea Iazului River	tributaryRight	Valea Șesii River
+Zeicu River	tributaryRight	Gropiţa River
+Netiș River	tributaryRight	Tarnița River
+Netiș River	tributaryRight	Strâmba River
+Prundu Lănciței River	tributaryRight	Giful River
+Dobrunu River	tributaryRight	Rovine River
+Dobrunu River	tributaryRight	Scoaba Retezatului River
+Bertea River	tributaryRight	Călmâiasa River
+Bertea River	tributaryRight	Aluniș River
+Mislea River	tributaryRight	Mislea Seacă River
+Mâtnic River	tributaryRight	Vâna Secănească River
+Maciovița River	tributaryRight	Sineva River
+Tincova River	tributaryRight	Tincovița River
+Șurgani River	tributaryRight	Salcia River
+Șurgani River	tributaryRight	Vâna River
+Fântâna Albă River	tributaryRight	Raherna River
+Măieruș River	tributaryRight	Fântâna Albă River
+Bozom River	tributaryRight	Hotaru River
+Râul Căldărilor	tributaryRight	Valea Căcurelelor River
+Sibișel River	tributaryRight	Pietrele River
+Sibișel River	tributaryRight	Galeșu River
+Sibișel River	tributaryRight	Obârșia Nucșorii River
+Sibișel River	tributaryRight	Clanțu River
+Sibișel River	tributaryRight	Seciu River
+Lăzarea River	tributaryRight	Chiuruțul Mic River
+Lăzarea River	tributaryRight	Chiuruțul de Mijloc River
+Lăzarea River	tributaryRight	Chiuruțul Mare River
+Lăzarea River	tributaryRight	Cianod River
+Jolotca River	tributaryRight	Turcu River
+Jolotca River	tributaryRight	Holoșag River
+Zebracu River	tributaryRight	Pârâul Tocii
+Zebracu River	tributaryRight	Leurda River
+Dobârlău River	tributaryRight	Valea Neagră River
+Obârșia Nucșorii River	tributaryRight	Nedeuţa River
+Obârșia Nucșorii River	tributaryRight	Benguț River
+Hârboca River	tributaryRight	Şchiopeni River
+Hârboca River	tributaryRight	Şicoi River
+Hârboca River	tributaryRight	Clociţi River
+Vălișorul River	tributaryRight	Merișor River
+Aluniș River	tributaryRight	Stufu River
+Zoldiana River	tributaryRight	Zolt River
+River Tiddy	tributaryRight	Hay Lake
+Jgheab River	tributaryRight	Meledic River
+Cuieșd River	tributaryRight	Berghia River
+Vii	tributaryRight	Buduroi River
+Iordana River	tributaryRight	Câmpul Ascuns River
+Iordana River	tributaryRight	Bujonescu River
+Șopârleni River	tributaryRight	Arsura River
+Fântâna lui Gal River	tributaryRight	Sabo River
+Bălășița River	tributaryRight	Râul Satului
+Ungureni River	tributaryRight	Vârtopu River
+Ungureni River	tributaryRight	Valea lui Dan River
+Ungureni River	tributaryRight	Valea lui Tucă River
+Ungureni River	tributaryRight	Negurici River
+Valea Rea River	tributaryRight	Arsura River
+Anineș River	tributaryRight	Valea Mică River
+Valea Muții River	tributaryRight	Valea Dosului River
+Pârâul Moișii	tributaryRight	Cartanul River
+Pârâul Moișii	tributaryRight	Alunul River
+Aporliget	tributaryRight	Horea River
+Bucovăț River	tributaryRight	Bălăcoaia River
+Sâmnic River	tributaryRight	Sâmnicel River
+Bran River	tributaryRight	Fântâna River
+Pârâul Alb	tributaryRight	Trapezoaia River
+Glodul Mare River	tributaryRight	Chița Mare River
+Pietroasa River	tributaryRight	Imre River
+Rât	tributaryRight	Gorgan River
+Rât	tributaryRight	Băgău River
+Valea Dosului River	tributaryRight	Begiu River
+Coisca River	tributaryRight	Brădișor River
+Coisca River	tributaryRight	Seaca River
+Șpring River	tributaryRight	Valea Carpenilor River
+Boz	tributaryRight	Șpring River
+Drahura River	tributaryRight	Căldarea River
+Drahura River	tributaryRight	Drehuța River
+Eufrosia River	tributaryRight	Pârâul de la Cruce
+Slatina River	tributaryRight	Izvorul Rusului River
+Ploștina River	tributaryRight	Moraru River
+Boulețul Mic River	tributaryRight	Pârâul Fundurilor
+Pârâul Cuților	tributaryRight	Valea Pietrei Negre River
+Bălmuș River	tributaryRight	Bălmușel River
+Călugărul River	tributaryRight	Călugărița River
+Fall River	tributaryRight	Bear Creek
+Parapanca River	tributaryRight	Pasărea River
+Valea Rea River	tributaryRight	Copăcioasa River
+Queich	tributaryRight	Wellbach
+Queich	tributaryRight	Eisbach
+Queich	tributaryRight	Fuchsbach
+Balciu River	tributaryRight	Valea Adâncă River
+Criva River	tributaryRight	Strunga River
+Recea River	tributaryRight	Broscăria River
+Todirești River	tributaryRight	Cotocu River
+Pârâul Crucii	tributaryRight	Brăița River
+Chiojdul River	tributaryRight	Chiojdul Mare River
+Chiojdul River	tributaryRight	Valea Anei River
+Chiojdul Mare River	tributaryRight	Valea Plopului River
+Chiojdul Mare River	tributaryRight	Valea Screzii River
+Zeletin River	tributaryRight	Stupina River
+Medișa River	tributaryRight	Valea Picurelei River
+Slimnic River	tributaryRight	Șarba River
+Fântâneaua Rece River	tributaryRight	Blidul Popii River
+Dănești River	tributaryRight	Ferești River
+Uvas Creek	tributaryRight	Eastman Canyon Creek
+Uvas Creek	tributaryRight	Tar Creek
+Jones Falls	tributaryRight	Western Run
+Jones Falls	tributaryRight	Moores Branch
+Jgheabul Cherecului River	tributaryRight	Oniga River
+Inglis River	tributaryRight	Calder River
+Inglis River	tributaryRight	Big Creek, Tasmania
+Nymboida River	tributaryRight	Little Murray River
+Nymboida River	tributaryRight	Boundary Creek
+Coatzacoalcos River	tributaryRight	El Corte River
+Coatzacoalcos River	tributaryRight	Uspanapa River
+Mula-Mutha River	tributaryRight	Mutha River
+Johnstons Creek	tributaryRight	Orphan School Creek
+Khabur	tributaryRight	Hezil Suyu
+River Wey	tributaryRight	River Tillingbourne
+River Wey	tributaryRight	Cranleigh Waters
+River Wey	tributaryRight	River Ock, Surrey
+Santiago Creek	tributaryRight	Black Star Canyon
+Clyde River	tributaryRight	Stumpf Brook, Echo Lake discharge, Lang Brook, Mud Ponds, Pherrins River, Vermont.
+Mușuleți River	tributaryRight	Curmătura River
+Sadocuțu River	tributaryRight	Gheorghe Matei River
+Bemarivo River	tributaryRight	Androranga River
+Valea Castanului River	tributaryRight	Valea Dracului River
+Valea Castanului River	tributaryRight	Valea Tâclului River
+Feredeu River	tributaryRight	Valea Mierezului River
+Feredeu River	tributaryRight	Valea Chichizii River
+Unirea River	tributaryRight	Stejeriș River
+Unirea River	tributaryRight	Măhăceni River
+Iriri River	tributaryRight	Novo River
+Iriri River	tributaryRight	Carajarí River
+Iriri River	tributaryRight	Xinxim River
+Iriri River	tributaryRight	Iriri Novo River
+Bicol River	tributaryRight	Naga City River
+Bicol River	tributaryRight	Yabu River
+Tagoloan River	tributaryRight	Amusig River
+Tagoloan River	tributaryRight	Siloo River
+Tagoloan River	tributaryRight	Malitbog River
+Abra River	tributaryRight	Tineg River
+Apsley River	tributaryRight	Tia River
+Apsley River	tributaryRight	Yarrowitch River
+Wilsons River	tributaryRight	Coopers Creek
+Wilsons River	tributaryRight	Leycester Creek
+Gull River	tributaryRight	Redstone River
+Attawapiskat River	tributaryRight	Missisa River
+Attawapiskat River	tributaryRight	Streatfeild River
+Kovik River	tributaryRight	Durouvray River
+Kovik River	tributaryRight	Derville River
+Trabuco Creek	tributaryRight	Oso Creek
+Calaveras Creek	tributaryRight	Arroyo Hondo
+Hennops River	tributaryRight	Rietvlei River
+Dreisam	tributaryRight	Eschbach
+Dreisam	tributaryRight	Glotter
+Tred Avon River	tributaryRight	Dixon Creek
+Tred Avon River	tributaryRight	Shipshead Creek
+Tred Avon River	tributaryRight	Maxmore Creek
+Tred Avon River	tributaryRight	Plaindealing Creek
+Tred Avon River	tributaryRight	Fox Hole Creek
+Red River	tributaryRight	Tehidy Country Park
+Sandvikselva	tributaryRight	Isielva
+A'Becketts Creek	tributaryRight	Duck Creek
+San Diego Creek	tributaryRight	Bee Canyon Wash
+San Diego Creek	tributaryRight	Peters Canyon Wash
+Water politics in the Jordan River basin	tributaryRight	Yarmouk River
+Sabie River	tributaryRight	Mac Mac
+Sabie River	tributaryRight	Marite River
+West Branch Schuylkill River	tributaryRight	Indian Run
+West Branch Schuylkill River	tributaryRight	Panther Creek
+Cariboo River	tributaryRight	Isaac River
+Doda River	tributaryRight	Tsarap River
+Riet River	tributaryRight	Modder River
+Tomahawk River	tributaryRight	Squirrel River
+Tomahawk River	tributaryRight	Willow River
+Tomahawk River	tributaryRight	Little Rice River
+Morača	tributaryRight	Zeta
+Morača	tributaryRight	Sitnica
+Otter Kill	tributaryRight	Black Meadow Creek
+Mulgrave River	tributaryRight	Russell River
+Chatkal River	tributaryRight	Sandalysh River
+Chatkal River	tributaryRight	Kara-Korum River
+Órbigo	tributaryRight	Duerna, Tuerto, Jamuz and Eria
+Maués Açu River	tributaryRight	Urupadi River
+Aripuanã River	tributaryRight	Arauá River
+South Fork Eel River	tributaryRight	East Branch South Fork Eel River
+River Brit	tributaryRight	River Simene
+Paru River	tributaryRight	Citaré River
+Jamari River	tributaryRight	Preto do Crespo River
+Jamari River	tributaryRight	Guaiamã River
+Jamari River	tributaryRight	Branco River
+Palena River	tributaryRight	Rio Frio, Chile
+Redstone Lake	tributaryRight	Redstone River
+Irondequoit Creek	tributaryRight	f?p=gnispq:3:::NO::P3 FID:970724
+Irondequoit Creek	tributaryRight	f?p=gnispq:3:::NO::P3 FID:967396
+Bendoc River	tributaryRight	Little Plains River
+Bemboka River	tributaryRight	Nunnock River
+Bredbo River	tributaryRight	Strike-a-Light River
+Gloucester River	tributaryRight	Avon River
+Delegate River	tributaryRight	Little Plains River
+Delegate River	tributaryRight	Bombala River
+Leycester Creek	tributaryRight	Back Creek
+Sara River	tributaryRight	Oban River
+Sara River	tributaryRight	Bobs Creek
+Nattai River	tributaryRight	Little River
+Munmurra River	tributaryRight	Cattle Creek
+Mann River	tributaryRight	Nymboida River
+Mann River	tributaryRight	Henry River
+Mann River	tributaryRight	Yarrow River
+Mammy Johnsons River	tributaryRight	Wards River
+Wadbilliga River	tributaryRight	Queens Pound River
+Wadbilliga River	tributaryRight	Yowrie River
+Towamba River	tributaryRight	Wog Wog River
+Yarrowitch River	tributaryRight	Warnes River
+Galena River	tributaryRight	Spring Creek
+Ebro	tributaryRight	Oca
+Ebro	tributaryRight	Oja
+Ebro	tributaryRight	Tirón
+Ebro	tributaryRight	Najerilla
+Ebro	tributaryRight	Iregua
+Ebro	tributaryRight	Cidacos
+Ebro	tributaryRight	Alhama
+Ebro	tributaryRight	Jalón
+Ebro	tributaryRight	Huerva River
+Ebro	tributaryRight	Martín River
+Ebro	tributaryRight	Guadalope
+Ebro	tributaryRight	Matarranya River
+Upper Neretva	tributaryRight	Jesenica
+Upper Neretva	tributaryRight	Bjelimićka Rijeka
+Upper Neretva	tributaryRight	Slatinica
+Upper Neretva	tributaryRight	Račica
+Upper Neretva	tributaryRight	Rakitnica
+Upper Neretva	tributaryRight	Konjička Ljuta
+Upper Neretva	tributaryRight	Trešanica
+Upper Neretva	tributaryRight	Neretvica
+Latah Creek	tributaryRight	Rock Creek
+South Fork Trinity River	tributaryRight	Hayfork Creek
+San Pedro River	tributaryRight	Chayanta River, Río Exaltación
+Rocha River	tributaryRight	Tapacari River, Ch'aki Mayu,
+Rocha River	tributaryRight	Wiluma, Chilla, Tupuraya
+Tumusla River	tributaryRight	Wayrani, Tocla Vichacla,
+Tumusla River	tributaryRight	Cotagaita, Río Chico
+Dwarka River	tributaryRight	Brahmani River
+Bay of Plenty	tributaryRight	Waiotahi River
+Bay of Plenty	tributaryRight	Whakatane River
+Bay of Plenty	tributaryRight	Rangitaiki River
+Bay of Plenty	tributaryRight	Tarawera River
+Bay of Plenty	tributaryRight	Kaituna River
+Bay of Plenty	tributaryRight	Wairoa River
+Bay of Plenty	tributaryRight	Wainui River
+Bay of Plenty	tributaryRight	Aongatete River
+Bay of Plenty	tributaryRight	Otahu River
+Bay of Plenty	tributaryRight	Wentworth River
+Bay of Plenty	tributaryRight	Wharekawa River
+Clearwater River	tributaryRight	North Fork Clearwater River
+Clearwater River	tributaryRight	Potlatch River
+Back River	tributaryRight	Herring Run
+Northwest Branch Anacostia River	tributaryRight	Sligo Creek
+Žukovska	tributaryRight	Pojalska River
+Žukovska	tributaryRight	Adlinska River
+Žukovska	tributaryRight	Balinačka River
+Crni Timok	tributaryRight	Velika Suvaja River
+Crni Timok	tributaryRight	Mirovska River
+Crni Timok	tributaryRight	Arnauta River
+Crni Timok	tributaryRight	Osnička River
+San Mateo Creek	tributaryRight	Bluewater Canyon Creek
+San Mateo Creek	tributaryRight	Nickel Canyon Creek
+San Mateo Creek	tributaryRight	Cristianitos Creek
+Mostil River	tributaryRight	Fântânele River
+Râul Mare	tributaryRight	Mândra River
+Salmon Falls Creek	tributaryRight	China Creek
+Whitesand River	tributaryRight	Blackett Creek
+Jalón	tributaryRight	Piedra
+Jalón	tributaryRight	Jiloca
+San Dieguito River	tributaryRight	Temescal Creek, San Diego CountyTemescal Creek
+Kharaa River	tributaryRight	Tünkhel River
+Levubu River	tributaryRight	Dzindi River
+Levubu River	tributaryRight	Mutshindudi River
+Levubu River	tributaryRight	Mutale River
+Vistula	tributaryRight	Dunajec
+Vistula	tributaryRight	Wisłoka
+Vistula	tributaryRight	San
+Vistula	tributaryRight	Wieprz
+Vistula	tributaryRight	Narew
+Vistula	tributaryRight	Drwęca
+Klein Letaba River	tributaryRight	Middle Letaba River
+Klein Letaba River	tributaryRight	Koedoes River
+Klein Letaba River	tributaryRight	Soeketse River
+Braamfontein Spruit	tributaryRight	Sand Spruit
+Enoggera Creek	tributaryRight	Ithaca Creek
+Rapid River	tributaryRight	Little Rapid River
+Ekwan River	tributaryRight	Crooked River
+Matadero Creek	tributaryRight	Deer Creek
+Little Salmon River	tributaryRight	Goose Creek
+Duchesne River	tributaryRight	Strawberry River
+Kraai River	tributaryRight	Bell River
+Blue Jay Creek	tributaryRight	Black Creek
+Diep River	tributaryRight	Turfloop
+Drive Creek	tributaryRight	Tripoli Creek
+Black Kei River	tributaryRight	Klipplaat River
+Letaba River	tributaryRight	Groot Letaba River
+Letaba River	tributaryRight	Nwanedzi River
+Letaba River	tributaryRight	Makhadzi River
+Kabinakagami River	tributaryRight	Fox River
+Ala-Archa River	tributaryRight	Kashka-Suu River
+Tar River	tributaryRight	Terek River
+Tar River	tributaryRight	Kulun River
+Clare River	tributaryRight	Goose Creek
+Big Annemessex River	tributaryRight	Jones Creek
+Big Annemessex River	tributaryRight	Gales Creek
+Ysyk-Ata River	tributaryRight	Byty River
+Konar River	tributaryRight	Bokaro River
+North Fork Eel River	tributaryRight	Wilson Creek
+Big Piney River	tributaryRight	Arthur Creek
+Big Piney River	tributaryRight	Spring Creek
+Cobleș River	tributaryRight	Valea Gojii River
+Cobleș River	tributaryRight	Scroafa River
+Jaleș River	tributaryRight	Albele River
+Jaleș River	tributaryRight	Turbanu River
+Jaleș River	tributaryRight	Pleşu River
+Jaleș River	tributaryRight	Fusteica River
+Jaleș River	tributaryRight	Plescioara River
+Jaleș River	tributaryRight	Căldări River
+Jaleș River	tributaryRight	Runcu River
+Jaleș River	tributaryRight	Rasova River
+Plăiești River	tributaryRight	Căpăstru River
+Pârâul Florilor	tributaryRight	Valea Lungă Mare River
+Pârâul Florilor	tributaryRight	Borzoș River
+Sohodol River	tributaryRight	Poiana River
+Valea Mare River	tributaryRight	Denei River
+Swampy Plain River	tributaryRight	Geehi River
+Montreal River	tributaryRight	Lady Evelyn River
+Norsälven	tributaryRight	Ljusnan River
+Ergene	tributaryRight	Çorlu creek
+Ergene	tributaryRight	Lüleburgaz creek
+Ergene	tributaryRight	Sulucak creek
+Ergene	tributaryRight	Teke creek
+Ergene	tributaryRight	Babaeski creek
+Chico River	tributaryRight	Bunog River
+Chico River	tributaryRight	Tanudan River
+Chico River	tributaryRight	Biga River
+Firesteel River	tributaryRight	Beaver River
+Sorraia River	tributaryRight	Sor River
+Bârnat River	tributaryRight	Hemeiuș River
+Râul Grădinii	tributaryRight	Ponor River
+Coca River	tributaryRight	Coca Seacă River
+Pecineaga River	tributaryRight	Drăgan River
+Ursu River	tributaryRight	Bulerca River
+Poiana Boului River	tributaryRight	Bulerca River
+Mușa River	tributaryRight	Boul River
+Bicaci River	tributaryRight	Valea cea Mare River
+Bicaci River	tributaryRight	Dumbrăvița River
+Corte Madera Creek	tributaryRight	Ross Creek
+Corte Madera Creek	tributaryRight	Tamalpais Creek
+Corte Madera Creek	tributaryRight	Larkspur Creek
+Coltităt River	tributaryRight	On River
+Eumeralla River	tributaryRight	Shaw River
+Rock Creek	tributaryRight	Witcher & Pine Creeks
+Macalister River	tributaryRight	Barkly River
+Weld Valley	tributaryRight	Snake River
+Howqua River	tributaryRight	Stockyard Creek
+Dargo River	tributaryRight	Little Dargo River
+South Fork Coquille River	tributaryRight	Coal Creek
+South Fork Coquille River	tributaryRight	Middle Fork Coquille River
+Yea River	tributaryRight	Murrindindi River
+Normans Kill	tributaryRight	Bozen Kill, Vly Creek
+Valea Mare River	tributaryRight	Fagu River
+Tartar	tributaryRight	Turağayçay
+Râoaia Mare River	tributaryRight	Pripor River
+Călănești River	tributaryRight	Ciolpani River
+Valea Albă River	tributaryRight	Puțul lui Andrei River
+Valea Albă River	tributaryRight	Manița River
+Valea Albă River	tributaryRight	Puțul Butii River
+Puțul Butii River	tributaryRight	Singureni River
+Beaver River	tributaryRight	Indian Creek
+Periac River	tributaryRight	Trestia River
+Kampar River	tributaryRight	Kampar Kanan River
+Balaura River	tributaryRight	Balaura Mare River
+Lăcăuți River	tributaryRight	Carp River
+Samur River	tributaryRight	Usuxçay
+Taudor River	tributaryRight	Cornetu River
+Balta Lungă River	tributaryRight	Balta Cucului River
+Gubandru River	tributaryRight	Drăchicova River
+Râul Satului	tributaryRight	Padina River
+Râul Satului	tributaryRight	Râul Țigăncii
+Toplița River	tributaryRight	Mahoș River
+Toplița River	tributaryRight	Rojdaș River
+Pawnee River	tributaryRight	Buckner Creek
+Cornet River	tributaryRight	Pârâul Ţigăniei
+Cireșu River	tributaryRight	Valea Frumoasă River
+Gruița River	tributaryRight	Brașovu River
+Gruița River	tributaryRight	Gardu River
+Gruița River	tributaryRight	Comurnic River
+Surducul Mare River	tributaryRight	Surducel River
+Albele River	tributaryRight	Ciolanu River
+Albele River	tributaryRight	Căpitanu River
+Râcu River	tributaryRight	Ogarca River
+Câmpul Ascuns River	tributaryRight	Găvanu River
+San Lorenzo Creek	tributaryRight	Sulphur Creek
+Big Tujunga Creek	tributaryRight	Alder Creek
+Big Tujunga Creek	tributaryRight	Mill Creek
+Big Tujunga Creek	tributaryRight	Fox Creek
+Târnava Mare	tributaryRight	Feernic River
+Bega River	tributaryRight	Sandy Creek
+Prut	tributaryRight	Cheremosh River
+Prut	tributaryRight	Jijia River
+Valea Salciei River	tributaryRight	Valea BMerilor River
+Godinești River	tributaryRight	Valea Salciei River
+Echoing River	tributaryRight	Sturgeon River
+Vermilion River	tributaryRight	Nelson River
+Vermilion River	tributaryRight	Rapid River
+Clam River	tributaryRight	Dody Brook
+Sachigo River	tributaryRight	Morrison River
+Loire	tributaryRight	Maine
+Loire	tributaryRight	Nièvre
+Loire	tributaryRight	Erdre
+Big River	tributaryRight	Bundara River
+Trail Creek	tributaryRight	Otter Creek
+Oakhanger Stream	tributaryRight	Kingsley Stream
+Oakhanger Stream	tributaryRight	Oxney Stream
+Ak-Suu River	tributaryRight	Temen-Suu River
+Rozelle Bay	tributaryRight	Whites Creek
+Toms Creek	tributaryRight	Miney Branch
+Toms Creek	tributaryRight	Friends Creek
+Toms Creek	tributaryRight	Turkey Creek
+Nive River	tributaryRight	Nivelle River
+Cedar River	tributaryRight	Ord River
+Blanche River	tributaryRight	Englehart River
+Kökömeren River	tributaryRight	Kebyuk Suu
+Kapuskasing River	tributaryRight	Nemegosenda River
+Swabia Creek	tributaryRight	Mountain Creek
+Osterbek	tributaryRight	Seebek
+Wandse	tributaryRight	Berner Au
+Groundhog River	tributaryRight	Nat River
+West Fork Little Kanawha River	tributaryRight	Henry Fork
+Henry Fork	tributaryRight	Beech Fork
+Laguna Creek	tributaryRight	Hetch Hetchy Aqueduct
+Coldwater River	tributaryRight	North River
+Big East River	tributaryRight	Tonawanda Creek
+Yager Creek	tributaryRight	Lawrence Creek
+Yager Creek	tributaryRight	Cooper Mill Creek
+Spanish Fork River	tributaryRight	Soldier Creek
+Vet River	tributaryRight	Sand River
+Wakool River	tributaryRight	Niemur River
+Nzhelele River	tributaryRight	Mufungudi River
+Nzhelele River	tributaryRight	Tshishiru River
+Hout River	tributaryRight	Brakspruit River
+Mzimvubu River	tributaryRight	Mzintlava River
+Keiskamma River	tributaryRight	Tyhume River
+Nwanedi River	tributaryRight	Luphephe River
+Elands River	tributaryRight	Koster River
+Elands River	tributaryRight	Selons River
+Elands River	tributaryRight	Hex River
+Wilge River	tributaryRight	Meul River
+Wilge River	tributaryRight	Cornelis River
+Vals River	tributaryRight	Liebenbergstroom
+Tsitsa River	tributaryRight	Pot River
+Tsitsa River	tributaryRight	Mooi River
+Tsitsa River	tributaryRight	Inxu River
+Tlawng	tributaryRight	Teirei River
+South Fork Salmon River	tributaryRight	East Fork South Fork Salmon River
+Middle Fork Clearwater River	tributaryRight	Lochsa River
+Pacheco Creek	tributaryRight	North Fork Pacheco Creek
+Jach'a Jawira	tributaryRight	Chuñu Jawira, Titiri, Chuqi Q'awa,
+Jach'a Jawira	tributaryRight	Qura Jawira, Qupa Jaqhi Jawira,
+Jach'a Jawira	tributaryRight	Chuqi Q'awa
+Salt River	tributaryRight	Black River
+Salt River	tributaryRight	Elsieskraal River
+Little River	tributaryRight	Reilly Creek
+Sambirano River	tributaryRight	Ramena River
+Kachi Mayu	tributaryRight	Castilla Chita, Qullpa Jawira
+Moroka River	tributaryRight	Little River
+Rivière des Envies	tributaryRight	Little Mékinac North River
+Llagas Creek	tributaryRight	Hayes Creek
+Kangaroo River	tributaryRight	Towallum River
+Maria River	tributaryRight	Wilson River
+Maria River	tributaryRight	Pipers Creek
+Mangoro River	tributaryRight	Nosivolo River
+Earl's Sluice	tributaryRight	River Peck
+Podobitu River	tributaryRight	Munteanul River
+Ciurba Mare River	tributaryRight	Ciurba Mică River
+Mandrare River	tributaryRight	Andratina River
+San Timoteo Creek	tributaryRight	Noble Creek
+San Timoteo Creek	tributaryRight	Little San Gorgonio Creek
+San Timoteo Creek	tributaryRight	Yucaipa Creek
+Little Wekiva River	tributaryRight	Sanlando Springs
+Morrell Canyon Creek	tributaryRight	Bear Canyon Creek
+Los Alamos Canyon Creek	tributaryRight	unnamed arroyo from Elsinore Mountains, below Elsinore Peak.
+Los Alamos Canyon Creek	tributaryRight	Wildhorse Canyon Creek
+Los Alamos Canyon Creek	tributaryRight	unnamed arroyo from San Mateo Peak
+Sinești River	tributaryRight	Comisoaia River
+Cochirleanca River	tributaryRight	Măslina River
+Tenaja Canyon Creek	tributaryRight	unnamed arroyo from Squaw Mountain highlands
+Alamitos Creek	tributaryRight	Arroyo Calero
+Devil Canyon Creek	tributaryRight	Cold Spring Canyon Creek
+Șicoi River	tributaryRight	Pachet River
+Saharenana River	tributaryRight	Andranotsimisiamalona River
+Furu River	tributaryRight	Pescaru River
+Pârâul Mare	tributaryRight	Râul Bisericii
+Pietrele River	tributaryRight	Leşu River
+Leșu River	tributaryRight	Băbeanca River
+Muncelu River	tributaryRight	Bălţatu River
+Valea Adâncă River	tributaryRight	Cocoru River
+Storhașu River	tributaryRight	Cristeasa River
+Valea Calului River	tributaryRight	Valea Ursului River
+Buianu River	tributaryRight	Balota River
+Valea Lungă Mare River	tributaryRight	Drăculești River
+Valea Morii River	tributaryRight	Izvor River
+Valea Morii River	tributaryRight	Secătura River
+Răchita River	tributaryRight	Dobra River
+Valea Vițeilor River	tributaryRight	Pârâul Înstelat
+Valea Vițeilor River	tributaryRight	Șișterea River
+Valea Vițeilor River	tributaryRight	Danța River
+Almaș River	tributaryRight	Sarcău River
+Yanamayu	tributaryRight	Tinkuq, San Nicolás
+Luq'umayu	tributaryRight	Allpamayu, Ch'akimayu, Inkatampu,
+Luq'umayu	tributaryRight	Sirinayuq, Wamanmarka
+Devil Canyon	tributaryRight	West Fork Devil Canyon
+Nazko River	tributaryRight	Snaking River
+Canandaigua Outlet	tributaryRight	Flint Creek
+Araluen Creek	tributaryRight	Majors Creek
+Tooloom Creek	tributaryRight	Beaury Creek
+Widden Brook	tributaryRight	Blackwater Creek
+Rancheros Creek	tributaryRight	Elm Creek
+Webbs Creek	tributaryRight	Rush Creek
+Eastern Creek	tributaryRight	Breakfast Creek
+Combienbar River	tributaryRight	Fourteen Mile Creek
+Errinundra River	tributaryRight	Ada River
+Arte River	tributaryRight	Little Arte River
+Wonnangatta River	tributaryRight	Dry River
+Tarago River	tributaryRight	Bunyip River
+Pench River	tributaryRight	Kulbehra River
+Kanhan River	tributaryRight	Bel River
+Kanhan River	tributaryRight	Jam River
+Kanhan River	tributaryRight	Kolar River
+Kanhan River	tributaryRight	Nag River
+Kapiskau River	tributaryRight	Otadaonanis River
+Kapiskau River	tributaryRight	Atikameg River
+Kapiskau River	tributaryRight	Noluskatsi River
+Pocantico River	tributaryRight	Caney Brook, Gory Brook
+Mistik Creek	tributaryRight	Holt Lake, Manitoba
+Kesagami River	tributaryRight	Seal River
+Kesagami River	tributaryRight	Little Seal River
+Bodell River	tributaryRight	Black River
+Partridge River	tributaryRight	Little Partridge River
+Shashiskau River	tributaryRight	Little Shashiskau River
+Veshaw River	tributaryRight	Jhelum River
+Rambi Ara	tributaryRight	Veshaw River
+Oxney Stream	tributaryRight	Oakhanger Stream
+Oxney Stream	tributaryRight	Kingsley Stream
+Kingsley Stream	tributaryRight	Oakhanger Stream
+Kingsley Stream	tributaryRight	Oxney Stream
+Steavenson River	tributaryRight	Taggerty River
+Onaping River	tributaryRight	Carhess Creek
+Matawin River	tributaryRight	Wiegand River
+Trebeș	tributaryRight	Slatina River
+Trebeș	tributaryRight	Cârligați River
+Trebeș	tributaryRight	Negel River
+Boyne River	tributaryRight	Stuart River
+Richardson River	tributaryRight	Avon River
+Slătioara River	tributaryRight	Neagra River
+Frăsinișu River	tributaryRight	Cenușăreasa River
+Orășa River	tributaryRight	Lărguța River
+Amburayan River	tributaryRight	Bakun River
+Balili River	tributaryRight	Sagudin River
+Balili River	tributaryRight	Tuel River
+Miniss River	tributaryRight	De Lesseps River
+River Hart	tributaryRight	River Whitewater
+River Hart	tributaryRight	River Blackwater
+Kabacan River	tributaryRight	Marble River
+Kabacan River	tributaryRight	Matingao River
+Murrieta Creek	tributaryRight	North Fork Murrieta Creek
+Murrieta Creek	tributaryRight	Warm Springs Creek
+Murrieta Creek	tributaryRight	Santa Gertrudis Creek
+Murrieta Creek	tributaryRight	Waddel Wash
+Murrieta Creek	tributaryRight	Empire Creek
+Murrieta Creek	tributaryRight	Arroyo Santiago
+Keep River	tributaryRight	Alligator Creek
+Lynd River	tributaryRight	Tate River
+Holroyd River	tributaryRight	Kendall River
+Figueroa River	tributaryRight	Pico River
+Pravara River	tributaryRight	Mula river,Ahmednagar
+Sindphana River	tributaryRight	Bindusara River
+Cottonwood Creek	tributaryRight	Little Dry Creek
+Namewaminikan River	tributaryRight	Roslyn River
+Cow Creek	tributaryRight	Clover Creek
+Cow Creek	tributaryRight	Oak Run
+Atikameg River	tributaryRight	North Wabassie River
+Atikameg River	tributaryRight	Little Swan River
+Atikameg River	tributaryRight	Sagesigan River
+Șimișna	tributaryRight	Valea Ciurenilor River
+Șimișna	tributaryRight	Valea Hranei River
+Coyote Wash	tributaryRight	Palm Canyon Wash
+Coyote Wash	tributaryRight	Myer Creek
+Ringarooma River	tributaryRight	Cascade River
+Dunrankin River	tributaryRight	East Dunrankin River
+Dunrankin River	tributaryRight	Kirkwall River
+Swanson River	tributaryRight	Little Swanson River
+Saganash River	tributaryRight	Little Saganash River
+Willoughby River	tributaryRight	Brownington Branch
+North Canyon Creek	tributaryRight	Secret Harbor Creek
+Geamăna River	tributaryRight	Râul Fântânii
+Geamăna River	tributaryRight	Râul Dâlg

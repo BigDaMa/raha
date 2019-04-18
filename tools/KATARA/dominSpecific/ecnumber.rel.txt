@@ -1,0 +1,237 @@
+Chymotrypsin	ecnumber	3.3
+Lactase	ecnumber	3.2
+Superoxide dismutase	ecnumber	1.15
+Trypsin	ecnumber	3.4
+Alcohol dehydrogenase	ecnumber	1.1
+Xanthine oxidase	ecnumber	1.17
+Iodothyronine deiodinase	ecnumber	1.21
+Iodothyronine deiodinase	ecnumber	1.97
+Ornithine decarboxylase	ecnumber	4.1
+Pepsin	ecnumber	3.4
+Alanine transaminase	ecnumber	2.6
+Fructose 1,6-bisphosphatase	ecnumber	3.1
+Cyclooxygenase	ecnumber	1.14
+Gamma-glutamyl transpeptidase	ecnumber	2.3
+Aspartate carbamoyltransferase	ecnumber	2.1
+Protein disulfide-isomerase	ecnumber	5.3
+DnaB helicase	ecnumber	3.6
+Cholinesterase	ecnumber	3.1
+Galactokinase	ecnumber	2.7
+Arginase	ecnumber	3.5
+Enoyl CoA isomerase	ecnumber	5.3
+Ribonucleotide reductase	ecnumber	1.17
+Ribonucleotide reductase	ecnumber	EC:1.17.4.1
+Aromatic L-amino acid decarboxylase	ecnumber	4.1
+Streptokinase	ecnumber	3.4
+Calcineurin	ecnumber	3.1
+Thioredoxin reductase	ecnumber	1.8
+Glutamate dehydrogenase	ecnumber	1.4
+GSK-3	ecnumber	2.7
+Malate dehydrogenase	ecnumber	1.1
+Epoxide hydrolase	ecnumber	3.3
+Isocitrate dehydrogenase	ecnumber	1.1
+5-alpha reductase	ecnumber	1.3
+Urokinase	ecnumber	3.4
+Thymidine kinase	ecnumber	2.7
+Cysteine dioxygenase	ecnumber	1.13
+Glutamate decarboxylase	ecnumber	4.1
+Glycogen phosphorylase	ecnumber	2.4
+Lingual lipase	ecnumber	3.1
+Trehalase	ecnumber	3.2
+Aconitase	ecnumber	4.2
+Pyruvate carboxylase	ecnumber	6.4
+Glycogenin	ecnumber	2.4
+Cyclophilin	ecnumber	5.2
+Beta-glucuronidase	ecnumber	3.2
+Glutamine synthetase	ecnumber	6.3
+Transketolase	ecnumber	2.2
+Glycogen synthase	ecnumber	2.4
+Thyroid peroxidase	ecnumber	1.11
+Spermidine synthase	ecnumber	2.5
+GDP-fucose protein O-fucosyltransferase 1	ecnumber	2.4
+Argininosuccinate synthase	ecnumber	6.3
+Argininosuccinate lyase	ecnumber	4.3
+Holocarboxylase synthetase	ecnumber	6.3
+Glycogen branching enzyme	ecnumber	2.4
+Biliverdin reductase	ecnumber	1.3
+Methylmalonyl-CoA mutase deficiency	ecnumber	5.4
+4-Hydroxyphenylpyruvate dioxygenase	ecnumber	1.13
+Telokin	ecnumber	2.7
+Sphingosine kinase	ecnumber	2.7
+Myosin light-chain kinase	ecnumber	2.7
+Porphobilinogen synthase	ecnumber	4.2
+Hydrogen potassium ATPase	ecnumber	3.6
+P300-CBP coactivator family	ecnumber	2.3
+N-Acetylglutamate synthase	ecnumber	2.3
+Inositol monophosphatase	ecnumber	3.1
+Carbamoyl phosphate synthetase I	ecnumber	6.3
+Phospholipase D	ecnumber	3.1
+Inositol oxygenase	ecnumber	1.13
+Deoxyribonuclease II	ecnumber	3.1
+Collagenase	ecnumber	3.4
+Beta-glucosidase	ecnumber	3.2
+Phosphoenolpyruvate carboxykinase	ecnumber	4.1
+Phosphoglycerate kinase	ecnumber	2.7
+Bisphosphoglycerate mutase	ecnumber	5.4
+Phosphoglycerate mutase	ecnumber	5.4
+Uroporphyrinogen III synthase	ecnumber	4.2
+Casein kinase 2	ecnumber	2.7
+Alpha-Mannosidase	ecnumber	3.2
+Hexosaminidase	ecnumber	3.2
+Complement component 1R	ecnumber	3.4
+Complement component 1s	ecnumber	3.4
+Lysyl hydroxylase	ecnumber	1.14
+Iduronidase	ecnumber	3.2
+Dihydropyrimidine dehydrogenase	ecnumber	1.3
+Malonyl-CoA decarboxylase	ecnumber	4.1
+Barnase	ecnumber	3.1
+Geranylgeranyltransferase type 1	ecnumber	2.5
+Rab geranylgeranyltransferase	ecnumber	2.5
+Subtilisin	ecnumber	3.4
+DNA clamp	ecnumber	2.7
+D-amino acid oxidase	ecnumber	1.4
+Monoacylglycerol lipase	ecnumber	3.1
+Diacylglycerol lipase	ecnumber	3.1
+Arylsulfatase B	ecnumber	3.1
+Glyceronephosphate O-acyltransferase	ecnumber	2.3
+Alkylglycerone phosphate synthase	ecnumber	2.5
+3beta-Hydroxysteroid dehydrogenase	ecnumber	1.1
+P38 mitogen-activated protein kinases	ecnumber	2.7
+HindIII	ecnumber	3.1
+Presenilin	ecnumber	3.4
+Tryptophan hydroxylase	ecnumber	1.14
+Clostridium perfringens alpha toxin	ecnumber	3.1
+Enoyl-CoA hydratase	ecnumber	4.2
+ATP citrate lyase	ecnumber	2.3
+Inorganic pyrophosphatase	ecnumber	3.6
+Propionyl-CoA carboxylase	ecnumber	6.4
+Pyruvate dehydrogenase	ecnumber	1.2
+Glutathione synthetase	ecnumber	6.3
+Myophosphorylase	ecnumber	2.4
+Methylcrotonyl-CoA carboxylase	ecnumber	6.4
+Procollagen peptidase	ecnumber	3.4
+Phenylethanolamine N-methyltransferase	ecnumber	2.1
+Rhodopsin kinase	ecnumber	2.7
+Aralkylamine N-acetyltransferase	ecnumber	2.3
+Sucrase-isomaltase	ecnumber	3.2
+CAD	ecnumber	2.1
+Dihydroorotate dehydrogenase	ecnumber	1.3
+Sorbitol dehydrogenase	ecnumber	1.1
+Chymase	ecnumber	3.4
+Acetolactate synthase	ecnumber	2.2
+Glycerol kinase	ecnumber	2.7
+Ribonuclease T1	ecnumber	3.1
+3-hydroxy-3-methylglutaryl-CoA lyase	ecnumber	4.1
+Long-chain-fatty-acid—CoA ligase	ecnumber	6.2
+Phospholipase A1	ecnumber	3.1
+Aldehyde oxidase	ecnumber	1.2
+PHLPP	ecnumber	3.1
+Glutaminase	ecnumber	3.5
+Lysosomal lipase	ecnumber	3.1
+VEGF receptor	ecnumber	2.7
+Angiopoietin receptor	ecnumber	2.7
+Phosphogluconate dehydrogenase	ecnumber	1.1
+Transaldolase	ecnumber	2.2
+UTP—glucose-1-phosphate uridylyltransferase	ecnumber	2.7
+6-phosphogluconolactonase	ecnumber	3.1
+ITCH	ecnumber	6.3
+Biotinidase	ecnumber	3.5
+Beta-ketoacyl-ACP synthase	ecnumber	2.3
+3-Hydroxyacyl ACP dehydrase	ecnumber	4.2
+2,4 Dienoyl-CoA reductase	ecnumber	1.3
+Farnesyl-diphosphate farnesyltransferase	ecnumber	2.5
+Lanosterol 14 alpha-demethylase	ecnumber	1.14
+Isopentenyl-diphosphate delta isomerase	ecnumber	5.3
+Phosphomevalonate kinase	ecnumber	2.7
+Pyrophosphomevalonate decarboxylase	ecnumber	4.1
+L-xylulose reductase	ecnumber	1.1
+Homogentisate 1,2-dioxygenase	ecnumber	1.13
+Glycerol-3-phosphate dehydrogenase	ecnumber	1.1
+Methylmalonyl CoA epimerase	ecnumber	5.1
+Caspase 4	ecnumber	3.4
+Caspase 5	ecnumber	3.4
+Acyltransferase like 2	ecnumber	2.3
+Alpha-N-acetylglucosaminidase	ecnumber	3.2
+Hepatic fructokinase	ecnumber	2.7
+Dimethylallyltranstransferase	ecnumber	2.5
+Carboxypeptidase B	ecnumber	3.4
+Glutamyl aminopeptidase	ecnumber	3.4
+Leucyl aminopeptidase	ecnumber	3.4
+Dihydroorotase	ecnumber	3.5
+IMP dehydrogenase	ecnumber	1.1
+GMP reductase	ecnumber	1.7
+Adenylosuccinate synthase	ecnumber	6.3
+Polynucleotide phosphorylase	ecnumber	2.7
+Serine dehydratase	ecnumber	4.3
+Ornithine aminotransferase	ecnumber	2.6
+Branched chain aminotransferase	ecnumber	2.6
+Ribose-phosphate diphosphokinase	ecnumber	2.7
+Adenosylhomocysteinase	ecnumber	3.3
+Cystathionine gamma-lyase	ecnumber	4.4
+Adenosylmethionine decarboxylase	ecnumber	4.1
+Phosphoribosylaminoimidazole carboxylase	ecnumber	4.1
+Tyrosylprotein sulfotransferase	ecnumber	2.8
+Iron-responsive element-binding protein	ecnumber	4.2
+Formimidoyltransferase cyclodeaminase	ecnumber	4.3
+Asparagine synthetase	ecnumber	6.3
+DCMP deaminase	ecnumber	3.5
+Aminomethyltransferase	ecnumber	2.1
+ATP2A2	ecnumber	3.6
+CARM1	ecnumber	2.1
+RNase PH	ecnumber	2.7
+RNase D	ecnumber	3.1
+Electron-transferring-flavoprotein dehydrogenase	ecnumber	1.5
+IκB kinase	ecnumber	2.7
+Cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase	ecnumber	1.1
+3-hydroxyacyl-CoA dehydrogenase	ecnumber	1.1
+DnaH	ecnumber	2.7
+DnaS	ecnumber	3.6
+Gastric lipase	ecnumber	3.1
+Betaine—homocysteine S-methyltransferase	ecnumber	2.1
+UDP-glucose 4-epimerase	ecnumber	5.1
+Leukotriene-A4 hydrolase	ecnumber	3.3
+Membrane-bound transcription factor site-2 protease	ecnumber	3.4
+Kexin	ecnumber	3.4
+Acylphosphatase	ecnumber	3.6
+USP26	ecnumber	3.1
+Thiamine-triphosphatase	ecnumber	3.6
+Dimethylargininase	ecnumber	3.5
+Acetyl-CoA C-acetyltransferase	ecnumber	2.3
+Hydroxymethylglutaryl-CoA synthase	ecnumber	2.3
+Serine C-palmitoyltransferase	ecnumber	2.3
+Sterol O-acyltransferase	ecnumber	2.3
+Lactate dehydrogenase	ecnumber	1.1
+Palmitoyl protein thioesterase	ecnumber	3.1
+ZMPSTE24	ecnumber	3.4
+Serratiopeptidase	ecnumber	3.4
+Paraoxonase	ecnumber	3.1
+L-threonine dehydrogenase	ecnumber	1.1
+TIE1	ecnumber	2.7
+GPD1L	ecnumber	1.1
+FANCM	ecnumber	3.6
+HHAT	ecnumber	2.3
+Dipeptidase 2	ecnumber	3.4
+Protein phosphatase 2	ecnumber	3.1
+EIF4A	ecnumber	3.6
+N-acyl phosphatidylethanolamine-specific phospholipase D	ecnumber	3.1
+CKMT1A	ecnumber	2.7
+C1GALT1	ecnumber	2.4
+MYLK4	ecnumber	2.7
+FUT4	ecnumber	2.4
+Wee1	ecnumber	2.7
+ULK2	ecnumber	2.7
+Senescence-associated beta-galactosidase	ecnumber	3.2
+G protein-coupled receptor kinase 7	ecnumber	2.7
+MAG1	ecnumber	3.2
+Rho-associated protein kinase	ecnumber	2.7
+Receptor tyrosine kinase-like orphan receptor	ecnumber	2.7
+EHHADH	ecnumber	4.2
+CyaA	ecnumber	4.6
+Protein phosphatase 1	ecnumber	3.1
+TGM5	ecnumber	2.3
+Meprin A	ecnumber	3.4
+MTORC1	ecnumber	2.7
+MTORC2	ecnumber	2.7
+Doubletime	ecnumber	2.7
+Ceramide synthase 4	ecnumber	2.3
+Ceramide synthase 5	ecnumber	2.3

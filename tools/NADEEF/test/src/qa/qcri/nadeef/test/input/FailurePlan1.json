@@ -1,0 +1,16 @@
+{
+    "source" : {
+        "url" : "localhost/unittest",
+        "username" : "tester",
+        "password" : "tester",
+        "type" : "postgres"
+    },
+    "rule" : [
+        {
+            "type" : "fd",
+            "table" : ["location"],
+            "target" : ["location_copy"],
+            "value" : ["unknown|city, state"]
+        }
+    ]
+}

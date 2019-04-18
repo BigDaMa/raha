@@ -1,0 +1,639 @@
+Great Ocean Road	roadName	Great Ocean Road
+Birdsville Track	roadName	Birdsville Track
+Connie Sue Highway	roadName	Connie Sue Highway
+Hume Highway	roadName	Hume Highway
+Gunbarrel Highway	roadName	Gunbarrel Highway
+Highway 1	roadName	Highway 1
+Princes Highway	roadName	Princes Highway
+CityLink	roadName	CityLink
+EastLink	roadName	EastLink
+Pacific Highway	roadName	Pacific Highway
+Newell Highway	roadName	Newell Highway
+Mitchell Highway	roadName	Mitchell Highway
+Oxley Highway	roadName	Oxley Highway
+Bruce Highway	roadName	Bruce Highway
+Gwydir Highway	roadName	Gwydir Highway
+New England Highway	roadName	New England Highway
+Golden Highway	roadName	Golden Highway
+Great Western Highway	roadName	Great Western Highway
+Bruxner Highway	roadName	Bruxner Highway
+Silver City Highway	roadName	Silver City Highway
+Sturt Highway	roadName	Sturt Highway
+Cobb Highway	roadName	Cobb Highway
+Barrier Highway	roadName	Barrier Highway
+Barton Highway	roadName	Barton Highway
+Federal Highway	roadName	Federal Highway
+Alpine Way	roadName	Alpine Way
+Monaro Highway	roadName	Monaro Highway
+Midland Highway	roadName	Midland Highway
+A6	roadName	A6
+M4	roadName	A4/M4
+Snowy Mountains Highway	roadName	Snowy Mountains Highway
+Bourke Street, Melbourne	roadName	Bourke Street
+St Kilda Road, Melbourne	roadName	St Kilda Road
+Nepean Highway	roadName	Nepean Highway
+South Gippsland Highway	roadName	South Gippsland Highway
+Bass Highway	roadName	Bass Highway
+Capricorn Highway	roadName	Capricorn Highway
+Eyre Highway	roadName	Eyre Highway
+Bass Highway, Tasmania	roadName	Bass Highway
+Brooker Highway	roadName	Brooker Highway
+Tasman Highway	roadName	Tasman Highway
+Oodnadatta Track	roadName	Oodnadatta Track
+Mid-Western Highway	roadName	Mid-Western Highway
+Castlereagh Highway	roadName	Castlereagh Highway
+Mount Lindesay Highway	roadName	Mount Lindesay Highway
+Kamilaroi Highway	roadName	Kamilaroi Highway
+Summerland Way	roadName	Summerland Way
+Illawarra Highway	roadName	Illawarra Highway
+Olympic Highway	roadName	Olympic Highway
+Kings Highway	roadName	Kings Highway
+A3	roadName	A3
+M2	roadName	M2
+A9	roadName	A9
+Cumberland Highway	roadName	Cumberland Highway
+Westlink M7	roadName	Westlink M7
+Stuart Highway	roadName	Stuart Highway
+Melton Highway	roadName	Melton Highway
+Hoddle Highway	roadName	Hoddle Highway
+West Gate Freeway	roadName	West Gate Freeway
+Tullamarine Freeway	roadName	Tullamarine Freeway
+Monash Freeway	roadName	Monash Freeway
+South Gippsland Freeway	roadName	South Gippsland Freeway
+Western Freeway	roadName	Western Freeway
+Calder Freeway	roadName	Calder Freeway
+Brunswick Street, Melbourne	roadName	Brunswick Street
+Flinders Street, Melbourne	roadName	Flinders Street
+Parramatta Road	roadName	Parramatta Road
+Eastern Freeway	roadName	Eastern Freeway
+Calder Highway	roadName	Calder Highway
+Princes Freeway	roadName	Princes Freeway
+Mornington Peninsula Freeway	roadName	Mornington Peninsula Freeway
+Maroondah Highway	roadName	Maroondah Highway
+Sydney Road, Melbourne	roadName	Sydney Road
+South Eastern Freeway	roadName	South Eastern Freeway
+Princes Motorway	roadName	Princes Motorway
+Dukes Highway	roadName	Dukes Highway
+Southern Expressway	roadName	Southern Expressway
+Broadway, Sydney	roadName	Broadway
+Davey Street, Hobart	roadName	Davey Street
+Western Highway	roadName	Western Highway
+Spencer Street, Melbourne	roadName	Spencer Street
+Anne Beadell Highway	roadName	Anne Beadell Highway
+Warrego Highway	roadName	Warrego Highway
+Barossa Valley Way	roadName	Barossa Valley Way
+Riddoch Highway	roadName	Riddoch Highway
+Mallee Highway	roadName	Mallee Highway
+Lincoln Highway	roadName	Lincoln Highway
+Flinders Highway, South Australia	roadName	Flinders Highway
+Hamilton Highway	roadName	Hamilton Highway
+Flinders Highway, Queensland	roadName	Flinders Highway
+Albany Highway	roadName	Albany Highway
+Brand Highway	roadName	Brand Highway
+Great Southern Highway	roadName	Great Southern Highway
+Great Northern Highway	roadName	Great Northern Highway
+North West Coastal Highway	roadName	North West Coastal Highway
+Carnarvon Highway	roadName	Carnarvon Highway
+Balonne Highway	roadName	Balonne Highway
+Great Eastern Highway	roadName	Great Eastern Highway
+Moonie Highway	roadName	Moonie Highway
+Dawson Highway	roadName	Dawson Highway
+Cunningham Highway	roadName	Cunningham Highway
+Barwon Highway	roadName	Barwon Highway
+Gregory Highway	roadName	Gregory Highway
+Barkly Highway	roadName	Barkly Highway
+Brisbane Valley Highway	roadName	Brisbane Valley Highway
+Yarra Scenic Drive	roadName	Yarra Scenic Drive
+Burnett Highway	roadName	Burnett Highway
+Loddon Valley Highway	roadName	Loddon Valley Highway
+Northern Highway	roadName	Northern Highway
+Kwinana Freeway	roadName	Kwinana Freeway
+Landsborough Highway	roadName	Landsborough Highway
+Port Wakefield Road	roadName	Port Wakefield Road
+Sunraysia Highway	roadName	Sunraysia Highway
+Goulburn Valley Highway	roadName	Goulburn Valley Highway
+Murray Valley Highway	roadName	Murray Valley Highway
+Victoria Highway	roadName	Victoria Highway
+McIvor Highway	roadName	McIvor Highway
+Tod Highway	roadName	Tod Highway
+Muirs Highway	roadName	Muirs Highway
+Gore Highway	roadName	Gore Highway
+Frankston Freeway	roadName	Frankston Freeway
+Borung Highway	roadName	Borung Highway
+Leichhardt Highway	roadName	Leichhardt Highway
+Bunya Highway	roadName	Bunya Highway
+Anzac Parade, Canberra	roadName	Anzac Parade
+Gympie Arterial Road	roadName	Gympie Arterial Road
+Pacific Motorway	roadName	Pacific Motorway
+Sunshine Motorway	roadName	Sunshine Motorway
+Moorooduc Highway	roadName	Moorooduc Highway
+Graham Farmer Freeway	roadName	Graham Farmer Freeway
+Victoria Street, Melbourne	roadName	Victoria Street
+Dandenong Valley Highway	roadName	Dandenong Valley Highway
+Lasseter Highway	roadName	Lasseter Highway
+Geelong Ring Road	roadName	Geelong Ring Road
+Lyell Highway	roadName	Lyell Highway
+Coolgardie–Esperance Highway	roadName	Coolgardie–Esperance Highway
+Burley Griffin Way	roadName	Burley Griffin Way
+Mitchell Freeway	roadName	Mitchell Freeway
+Marlborough Highway	roadName	Marlborough Highway
+Captain Cook Highway	roadName	Captain Cook Highway
+Kidman Way	roadName	Kidman Way
+Murchison Highway	roadName	Murchison Highway
+Bellarine Highway	roadName	Bellarine Highway
+Main North Road	roadName	Main North Road
+Lake Highway	roadName	Lake Highway
+Waterfall Way	roadName	Waterfall Way
+Bridge Road, Melbourne	roadName	Bridge Road
+Northbourne Avenue	roadName	Northbourne Avenue
+Commonwealth Avenue	roadName	Commonwealth Avenue
+London Circuit	roadName	London Circuit
+Parkes Way	roadName	Parkes Way
+Bucketts Way	roadName	Bucketts Way
+Thunderbolts Way	roadName	Thunderbolts Way
+Tuggeranong Parkway	roadName	Tuggeranong Parkway
+City West Link	roadName	City West Link
+Pacific Motorway	roadName	M1 Pacific Motorway
+The Causeway	roadName	The Causeway
+Bells Line of Road	roadName	Bells Line of Road
+Gore Hill Freeway	roadName	Gore Hill Freeway
+Riverina Highway	roadName	Riverina Highway
+Ipswich Motorway	roadName	Ipswich Motorway
+Logan Motorway	roadName	Logan Motorway
+Gateway Motorway	roadName	Gateway Motorway
+South Coast Highway	roadName	South Coast Highway
+Arnhem Highway	roadName	Arnhem Highway
+Hyland Highway	roadName	Hyland Highway
+Irrigation Way	roadName	Irrigation Way
+South Western Highway	roadName	South Western Highway
+Roe Highway	roadName	Roe Highway
+Wanneroo Road	roadName	Wanneroo Road
+Reid Highway	roadName	Reid Highway
+Fossickers Way	roadName	Fossickers Way
+Eastern Distributor	roadName	Eastern Distributor Motorway
+King Street, Melbourne	roadName	King Street
+Riverside Expressway	roadName	Riverside Expressway
+Greenhill Road, Adelaide	roadName	Greenhill Road
+Canning Highway	roadName	Canning Highway
+Tonkin Highway	roadName	Tonkin Highway
+Stirling Highway	roadName	Stirling Highway
+Leach Highway	roadName	Leach Highway
+South Road, Adelaide	roadName	South Road
+Portrush Road, Adelaide	roadName	National Highway A17
+Glenferrie Road	roadName	Glenferrie Road
+Burke Road, Melbourne	roadName	Burke Road
+Maling Road, Melbourne	roadName	Maling Road
+Putty Road	roadName	Putty Road
+West Coast Highway, Perth	roadName	West Coast Highway
+Marmion Avenue	roadName	Marmion Avenue
+Brockman Highway	roadName	Brockman Highway
+Appin Road	roadName	Appin Road
+City Road, Sydney	roadName	City Road
+Mountain Highway	roadName	Mountain Highway
+Bradfield Highway	roadName	Bradfield Highway
+Southern Ports Highway	roadName	Southern Ports Highway
+Tanami Road	roadName	Tanami Road
+Pennant Hills Road	roadName	Pennant Hills Road
+Flemington Road, Melbourne	roadName	Flemington Road
+Great Alpine Road	roadName	Great Alpine Road
+Goodwood Road, Adelaide	roadName	Goodwood Road
+Macquarie Street, Hobart	roadName	Macquarie Street
+Picton Road, New South Wales	roadName	Picton Road
+Western Freeway, Brisbane	roadName	Western Freeway
+Arthur Highway	roadName	Arthur Highway
+D'Aguilar Highway	roadName	D'Aguilar Highway
+Kennedy Highway	roadName	Kennedy Highway
+Peak Downs Highway	roadName	Peak Downs Highway
+Warringah Freeway	roadName	Warringah Freeway
+Midland Highway	roadName	Midland Highway
+Mickleham Road, Melbourne	roadName	Mickleham Road
+High Road, Perth	roadName	High Road
+Elizabeth Street, Sydney	roadName	Elizabeth Street
+Nicholson Road	roadName	Nicholson Road
+Isis Highway	roadName	Isis Highway
+Kensington Road, Adelaide	roadName	Kensington Road
+Brookton Highway	roadName	Brookton Highway
+Barrack Street	roadName	Barrack Street
+Kingsford Smith Drive, Canberra	roadName	Kingsford Smith Drive
+Gungahlin Drive Extension	roadName	Gungahlin Drive Extension
+Fullarton Road, Adelaide	roadName	Fullarton Road
+Tugun Bypass	roadName	Tugun Bypass
+Great Central Road	roadName	Great Central Road
+Cross Road, Adelaide	roadName	Cross Road
+Bangor Bypass	roadName	Bangor Bypass
+Derby Highway	roadName	Derby Highway
+Anzac Highway, Adelaide	roadName	Anzac Highway
+Great Eastern Highway Bypass	roadName	Great Eastern Highway Bypass
+College Street, Sydney	roadName	College Street
+Castlereagh Street	roadName	Castlereagh Street
+Hunter Street, Sydney	roadName	Hunter Street
+Daws Road, Adelaide	roadName	Daws Road
+Grand Junction Road	roadName	Grand Junction Road
+Port River Expressway	roadName	Port River Expressway
+Dandenong Bypass	roadName	Dandenong Bypass
+Healesville Freeway	roadName	Healesville Freeway
+Westall Road	roadName	Westall Road
+Airport Link, Brisbane	roadName	Airport Link
+Centenary Motorway	roadName	Centenary Motorway
+Kakadu Highway	roadName	Kakadu Highway
+Cahill Expressway	roadName	Cahill Expressway
+M2 Hills Motorway	roadName	M2 Hills Motorway
+M4 Western Motorway	roadName	M4 Western Motorway
+M5 Motorway	roadName	M5 Motorway
+Buchanan Highway	roadName	Buchanan Highway
+Roper Highway	roadName	Roper Highway
+Port Road, Adelaide	roadName	Port Road
+Palmerston Highway	roadName	Palmerston Highway
+M1	roadName	M1
+Cleveland Street, Sydney	roadName	Cleveland Street
+Crown Street, Sydney	roadName	Crown Street
+Lawrence Hargrave Drive	roadName	Lawrence Hargrave Drive
+Greensborough Highway	roadName	Greensborough Highway
+Glen Osmond Road, Adelaide	roadName	Glen Osmond Road
+George Street, Brisbane	roadName	George Street
+Joondalup Drive	roadName	Joondalup Drive
+Main Road, Hobart	roadName	Main Road
+Southern Cross Drive	roadName	Southern Cross Drive
+Max Fatchen Expressway	roadName	Max Fatchen Expressway
+Adelaide–Mannum Road	roadName	Adelaide-Mannum Road
+Prospect Highway	roadName	Prospect Highway
+Coronation Drive, Brisbane	roadName	Coronation Drive
+Swan Street, Melbourne	roadName	Swan Street
+Mulligan Highway	roadName	Mulligan Highway
+Strzelecki Track	roadName	Strzelecki Track
+Plenty Highway	roadName	Plenty Highway
+Sandover Highway	roadName	Sandover Highway
+Bussell Highway	roadName	Bussell Highway
+Wide Bay Highway	roadName	Wide Bay Highway
+Anzac Parade, Sydney	roadName	Anzac Parade
+Wilmington–Ucolta Road	roadName	Wilmington-Ucolta Road
+Goulburn Valley Freeway	roadName	Goulburn Valley Freeway
+Black Spur	roadName	The Black Spur
+Hopkins Highway	roadName	Hopkins Highway
+Pyrenees Highway, Victoria	roadName	Pyrenees Highway
+Logan Road, Brisbane	roadName	Logan Road
+Inner City Bypass, Brisbane	roadName	Inner City Bypass
+Smith Street Motorway, Gold Coast	roadName	Smith Street Motorway
+Central Coast Highway	roadName	Central Coast Highway
+Brunswick Street, Brisbane	roadName	Brunswick Street
+Nicklin Way	roadName	Nicklin Way
+Barrenjoey Road	roadName	Barrenjoey Road
+Burwood Highway	roadName	Burwood Highway
+Kalamunda Road	roadName	Kalamunda Road
+Gulf Developmental Road	roadName	Gulf Developmental Road
+Western Distributor	roadName	Western Distributor
+Buntine Highway	roadName	Buntine Highway
+Carpentaria Highway	roadName	Carpentaria Highway
+Tablelands Highway	roadName	Tablelands Highway
+Burnt Bridge Creek Deviation	roadName	Burnt Bridge Creek Deviation
+Caxton Street, Brisbane	roadName	Caxton Street
+Glenelg Highway	roadName	Glenelg Highway
+Vasse Highway	roadName	Vasse Highway
+Bylong Valley Way	roadName	Bylong Valley Way
+Bathurst-Ilford Road	roadName	Bathurst-Ilford Road
+O'Connell Road	roadName	O'Connell Road
+Goulburn-Oberon Road	roadName	Goulburn-Oberon Road
+Wombeyan Caves Road	roadName	Wombeyan Caves Road
+Adelaide Street, Brisbane	roadName	Adelaide Street
+Thomas Road	roadName	Thomas Road
+Toodyay Road	roadName	Toodyay Road
+Pinjar Road	roadName	Pinjar Road
+Elizabeth Street, Hobart	roadName	Elizabeth Street
+Adelaide Terrace	roadName	Adelaide Terrace
+Chandler Highway	roadName	Chandler Highway
+Warburton Highway	roadName	Warburton Highway
+Melba Highway	roadName	Melba Highway
+St Georges Road, Melbourne	roadName	St Georges Road
+Alexander Drive	roadName	Alexander Drive
+Salisbury Highway	roadName	Salisbury Highway
+Erindale Road	roadName	Erindale Road
+Torrens Road, Adelaide	roadName	Torrens Road
+Sir Donald Bradman Drive, Adelaide	roadName	Sir Donald Bradman Drive
+Beechboro Road	roadName	Beechboro Road
+Tapleys Hill Road	roadName	Tapleys Hill Road
+Pittwater Road	roadName	Pittwater Road
+Beach Road, Perth	roadName	Beach Road
+Kingston Bypass	roadName	Kingston Bypass
+Karrinyup Road	roadName	Karrinyup Road
+West Coast Drive, Perth	roadName	West Coast Drive
+Safety Bay Road	roadName	Safety Bay Road
+Wellington Street, Perth	roadName	Wellington Street
+Yanchep Beach Road	roadName	Yanchep Beach Road
+William Street, Perth	roadName	William Street
+Patterson Road	roadName	Patterson Road
+Ennis Avenue	roadName	Ennis Avenue
+Read Street	roadName	Read Street
+Warnbro Sound Avenue	roadName	Warnbro Sound Avenue
+Mandurah Road	roadName	Mandurah Road
+Gilmore Avenue	roadName	Gilmore Avenue
+Hepburn Avenue	roadName	Hepburn Avenue
+Whitfords Avenue	roadName	Whitfords Avenue
+Beaufort Street	roadName	Beaufort Street
+Burns Beach Road	roadName	Burns Beach Road
+Rockingham Road, Perth	roadName	Rockingham Road
+Queen Victoria Street, Fremantle	roadName	Queen Victoria Street
+Hampton Road	roadName	Hampton Road
+Cockburn Road	roadName	Cockburn Road
+Old Northam Road	roadName	Old Northam Road
+Grand Boulevard, Joondalup	roadName	Grand Boulevard
+Ocean Reef Road	roadName	Ocean Reef Road
+Warwick Road	roadName	Warwick Road
+North Beach Road, Perth	roadName	North Beach Road
+Shenton Avenue	roadName	Shenton Avenue
+Scarborough Beach Road	roadName	Scarborough Beach Road
+Mundaring Weir Road	roadName	Mundaring Weir Road
+West Swan Road	roadName	West Swan Road
+Huon Highway	roadName	Huon Highway
+Adelaide Avenue	roadName	Adelaide Avenue
+Ann Street, Brisbane	roadName	Ann Street
+Hodges Drive	roadName	Hodges Drive
+Pascoe Vale Road, Melbourne	roadName	Pascoe Vale Road
+Kent Street, Perth	roadName	Kent Street
+East Derwent Highway	roadName	East Derwent Highway
+Bathurst Street, Sydney	roadName	Bathurst Street
+Ipswich Road, Brisbane	roadName	Ipswich Road
+Cape Leveque Road	roadName	Cape Leveque Road
+South Arm Highway	roadName	South Arm Highway
+Hunter Street	roadName	Hunter Street
+Victoria Avenue, Perth	roadName	Victoria Avenue
+Domain Highway	roadName	Domain Highway
+West Tamar Highway	roadName	West Tamar Highway
+East Tamar Highway	roadName	East Tamar Highway
+Esk Highway	roadName	Esk Highway
+Welshpool Road, Perth	roadName	Welshpool Road
+Mount Alexander Road, Melbourne	roadName	Mount Alexander Road
+Goodwood Road, Hobart	roadName	Goodwood Road
+Channel Highway	roadName	Channel Highway
+New Town Road	roadName	New Town Road
+Lampton Avenue, Hobart	roadName	Lampton Avenue
+Derwent Park Road	roadName	Derwent Park Road
+General Holmes Drive	roadName	General Holmes Drive
+Port of Brisbane Motorway	roadName	Port of Brisbane Motorway
+New South Head Road, Sydney	roadName	New South Head Road
+James Ruse Drive	roadName	James Ruse Drive
+Elwick Road	roadName	Elwick Road
+Brighton Bypass	roadName	Brighton Bypass
+Victor Harbor Road	roadName	Victor Harbor Road
+Algona Road	roadName	Algona Road
+Quaid Road	roadName	Quaid Road
+Lane Cove Road	roadName	City Highway
+Epping Road	roadName	Epping Road
+Brougham Place	roadName	Brougham Place
+Connolly Drive	roadName	Connolly Drive
+Stanley Street, Brisbane	roadName	Stanley Street
+Hunter Expressway	roadName	Hunter Expressway
+Riversdale Road, Melbourne	roadName	Riversdale Road
+Geraldton–Mount Magnet Road	roadName	Geraldton–Mount Magnet Road
+Gympie Road, Brisbane	roadName	Gympie Road
+A8	roadName	A8
+Bore Track	roadName	Bore Track
+Thompsons Road, Melbourne	roadName	Thompsons Road
+Albert Street, Brisbane	roadName	Albert Street
+Western Port Highway	roadName	Western Port Highway
+Capital Circle	roadName	Capital Circle
+Omeo Highway	roadName	Omeo Highway
+Appian Way, Burwood	roadName	Appian Way
+Armadale Road	roadName	Armadale Road
+Mounts Bay Road	roadName	Mounts Bay Road
+West Terrace, Adelaide	roadName	West Terrace
+Ranford Road	roadName	Ranford Road
+Ringwood Bypass	roadName	Ringwood Bypass
+Sandy Bay Road	roadName	Sandy Bay Road
+Glenloch Interchange	roadName	Glenloch Interchange
+Warrigal Road	roadName	Warrigal Road
+Phillip Island Road	roadName	Phillip Island Road
+Strzelecki Highway	roadName	Strzelecki Highway
+Henty Highway	roadName	Henty Highway
+Kiewa Valley Highway	roadName	Kiewa Valley Highway
+Wimmera Highway	roadName	Wimmera Highway
+Docklands Highway	roadName	Docklands Highway
+Eastern Highway	roadName	Eastern Highway
+Yarra Bank Highway	roadName	Yarra Bank Highway
+Bulleen Road	roadName	Bulleen Road
+Plenty Valley Highway	roadName	Plenty Valley Highway
+Cheltenham)	roadName	State Highway
+Springvale) Highway	roadName	State  Highway
+Goldfields Way	roadName	Goldfields Way
+Escort Way	roadName	Escort Way
+Henry Lawson Way	roadName	Henry Lawson Way
+Lachlan Valley Way	roadName	Lachlan Valley Way
+Savannah Way	roadName	Savannah Way
+William Street, Brisbane	roadName	William Street
+Elizabeth Street, Brisbane	roadName	Elizabeth Street
+Alice Street, Brisbane	roadName	Alice Street
+Duncan Road	roadName	Duncan Road
+Goldfields Highway	roadName	Goldfields Highway
+Beach Road, Melbourne	roadName	Beach Road
+Rokeby Bypass	roadName	Rokeby Bypass
+Southern Outlet, Hobart	roadName	Southern Outlet
+Batman Highway	roadName	Batman Highway
+Kingsford Smith Drive, Brisbane	roadName	Kingsford Smith Drive
+Gordon River Road	roadName	Gordon River Road
+Peninsula Link	roadName	Peninsula Link
+Sandgate Road	roadName	Sandgate Road
+East West Link	roadName	East West Link
+Tiger Brennan Drive	roadName	Tiger Brennan Drive
+Amy Johnson Avenue	roadName	Amy Johnson Avenue
+Scotts Peak Dam Road	roadName	Scotts Peak Dam Road
+Yass Valley Way	roadName	Yass Valley Way
+Barry Way	roadName	Barry Way
+Victoria Road, Adelaide	roadName	Victoria Road
+Ballarat Road, Melbourne	roadName	Ballarat Road
+Gawler bypass road	roadName	Gawler Bypass Road
+Forrest Highway	roadName	Forrest Highway
+Gold Coast Highway	roadName	Gold Coast Highway
+Victoria Road	roadName	Victoria Road
+Margaret Street, Brisbane	roadName	Margaret Street
+Montague Road, Adelaide	roadName	Montague Road
+Mary Street, Brisbane	roadName	Mary Street
+Anzac Avenue	roadName	Anzac Avenue
+Milton Road	roadName	Milton Road
+Gary Highway	roadName	Gary Highway
+Highway 1	roadName	Highway 1
+Bermuda Street	roadName	Bermuda Street
+Bundall Road	roadName	Bundall Road
+Nerang–Broadbeach Road	roadName	Nerang–Broadbeach Road
+Airport Drive	roadName	Airport Drive
+Ferry Road, Gold Coast	roadName	Ferry Road
+Belconnen Way	roadName	Belconnen Way
+Newcastle Inner City Bypass	roadName	Newcastle Inner City Bypass
+City Ring Route, Adelaide	roadName	City Ring Route
+Onkaparinga Valley Road	roadName	Onkaparinga Valley Road
+Strathalbyn Road	roadName	Strathalbyn Road
+Strathalbyn–Goolwa Road	roadName	B37
+Wellington Road, South Australia	roadName	Wellington Road
+Gorge Road, South Australia	roadName	B31
+M80 Ring Road, Melbourne	roadName	M80 Ring Road
+Esk–Hampton Road	roadName	Esk-Hampton Road
+Creek Street, Brisbane	roadName	Creek Street
+Moggill Road	roadName	Moggill Road
+Old Princes Highway, Victoria	roadName	Old Princes Highway
+Sturt Street, Adelaide	roadName	Sturt Street
+Bloomfield Track	roadName	Bloomfield Track
+Brindabella Road	roadName	Brindabella Road
+Neale Junction	roadName	Neale Junction
+Gooding Drive	roadName	Gooding Drive
+Robina Parkway	roadName	Robina Parkway
+Pinjarra Road	roadName	Pinjarra Road
+Mandjoogoordap Drive	roadName	Mandjoogoordap Drive
+Jeffrey Street	roadName	Jeffreys Street
+Camden Valley Way	roadName	Camden Valley Way
+Remembrance Drive	roadName	Remembrance Drive
+North-South Motorway	roadName	North-South Motorway
+Angas Street, Adelaide	roadName	Angas Street
+Burke Developmental Road	roadName	Burke Developmental Road
+Indian Ocean Drive	roadName	Indian Ocean Drive
+Bondi Road	roadName	Bondi Road
+Anthony Road	roadName	Anthony Road
+Enoggera Road, Brisbane	roadName	Enoggera Road
+Marion Road	roadName	Marion Road
+Northern Connector	roadName	Northern Connector
+Magill Road, Adelaide	roadName	Magill Road
+Bridge Street, Sydney	roadName	Bridge Street
+Regency Road, Adelaide	roadName	Regency Road
+The Parade, Adelaide	roadName	The Parade
+Bonang Highway	roadName	Bonang Highway
+Albion Street, Surry Hills	roadName	Albion Street
+Donohue Highway	roadName	Donohue Highway
+Bagdad Bypass	roadName	Bagdad Bypass
+Hester Avenue	roadName	Hester Avenue
+Riverside Drive, Perth	roadName	Riverside Drive
+North–South Corridor, Adelaide	roadName	North–South Connector
+Collins Street, Hobart	roadName	Collins Street
+Panalatinga Road, Adelaide	roadName	Panalatinga Road
+Morley Drive	roadName	Morley Drive
+Gnangara Road	roadName	Gnangara Road
+Beaumont Street	roadName	Beaumont Street
+Kosciuszko Road	roadName	Kosciuszko Road
+Old Cleveland Road, Brisbane	roadName	Old Cleveland Road
+Berrimah Road	roadName	Berrimah Road
+Winthrop Avenue	roadName	Winthrop Avenue
+Bagot Road	roadName	Bagot Road
+McMillans Road	roadName	McMillans Road
+Royal Parade, Melbourne	roadName	Royal Parade
+High Street, Fremantle	roadName	High Street
+Cox Peninsula Road	roadName	Cox Peninsula Road
+Queen Street, Fremantle	roadName	Queen Street
+South Terrace, Fremantle	roadName	South Terrace
+Adelaide Street, Fremantle	roadName	Adelaide Street
+Market Street, Fremantle	roadName	Market Street
+Parry Street, Fremantle	roadName	Parry Street
+Daly River Road	roadName	Daly River Road
+Dorat Road	roadName	Dorat Road
+Larapinta Drive	roadName	Larapinta Drive
+Thomas Street, Perth	roadName	Thomas Street
+Loftus Street	roadName	Loftus Street
+Peninsula Developmental Road	roadName	Peninsula Developmental Road
+Bamaga Road	roadName	Bamaga Road and Telegraph Road
+Ryde Road	roadName	Ryde Road
+Majura Parkway	roadName	Majura Parkway
+WestConnex	roadName	WestConnex
+Sandy Blight Junction Road	roadName	Sandy Blight Junction Road
+Highway 1	roadName	Highway 1
+Highway 1	roadName	Highway 1
+Highway 1	roadName	Highway 1
+Highway 1	roadName	Highway 1
+Highway 1	roadName	Highway 1
+Highway 1	roadName	Highway 1
+Abernethy Road, Perth	roadName	Abernethy Road
+Gary Junction Road	roadName	Gary Junction Road
+Dudley Street	roadName	Dudley Street
+Majura Road	roadName	Majura Road
+Barry Drive, Canberra	roadName	Barry Drive
+Ginninderra Drive	roadName	Ginninderra Drive
+Pialligo Avenue	roadName	Pialligo Avenue
+Hindmarsh Drive	roadName	Hindmarsh Drive
+Fairbairn Avenue	roadName	Fairbairn Avenue
+Canberra Avenue	roadName	Canberra Avenue
+State Circle	roadName	State Circle
+Drakeford Drive	roadName	Drakeford Drive
+Tharwa Drive	roadName	Tharwa Drive
+Light Horse Interchange	roadName	Light Horse Interchange
+Talawana Track	roadName	Talawana Track
+Sir Roden Cutler VC Memorial Interchange	roadName	Roden Cutler Interchange
+Yarra Glen	roadName	Yarra Glen
+Mount Davies Road	roadName	Mount Davies Road
+Mouat Street	roadName	Mouat Street
+Karoonda Highway	roadName	Karoonda Highway
+Henry Street, Fremantle	roadName	Henry Street
+South Street, Perth	roadName	South Street
+Scott's Crossing Road	roadName	Scott's Crossing Road
+Stock Road, Perth	roadName	Stock Road
+Wurundjeri Way	roadName	Wurundjeri Way
+Churchill Road	roadName	Churchill Road
+Windsor Road	roadName	Windsor Road
+Old Windsor Road	roadName	Old Windsor Road
+A38	roadName	A38
+Memorial Drive	roadName	Memorial Drive
+Guildford Road	roadName	Guildford Road
+Caves Road	roadName	Caves Road
+Racecourse Road, Brisbane	roadName	Racecourse Road
+Outram Street, West Perth	roadName	Outram Street
+Stirling Terrace, Toodyay	roadName	Stirling Terrace
+Midlands Road	roadName	Midlands Road
+Heathcote Road, Sydney	roadName	Heathcote Road
+Limestone Avenue, Canberra	roadName	Limestone Avenue
+Toowoomba Second Range Crossing	roadName	Toowoomba Second Range Crossing
+Liverpool Street, Hobart	roadName	Liverpool Street
+Vincent Street, North Perth	roadName	Vincent Street
+NorthConnex	roadName	NorthConnex
+Newcastle Link Road	roadName	Newcastle Link Road
+Diamantina Developmental Road	roadName	Diamantina Developmental Road
+Western Sydney Airport Motorway	roadName	Western Sydney Airport Motorway
+Bulloo Developmental Road	roadName	Bulloo Developmental Road
+Milligan Street, Perth	roadName	Milligan Street
+Mackay Ring Road	roadName	Mackay Ring Road
+Yamba Drive	roadName	Yamba Drive
+Rosny Hill Road	roadName	Rosny Hill Road
+Goyder Highway	roadName	Goyder Highway
+Augusta Highway	roadName	Augusta Highway
+Manning Road, Perth	roadName	Manning Road
+Thiele Highway	roadName	Thiele Highway
+Kenwick Link	roadName	Kenwick Link
+RM Williams Way	roadName	RM Williams Way
+Worlds End Highway	roadName	Worlds End Highway
+Flinders Ranges Way	roadName	Flinders Ranges Way
+Copper Coast Highway	roadName	Copper Coast Highway
+Spencer Highway	roadName	Spencer Highway
+Wilkins Highway	roadName	Wilkins Highway
+Yorke Highway	roadName	Yorke Highway
+St Vincent Highway	roadName	St Vincent Highway
+Birdseye Highway	roadName	Birdseye Highway
+Cavendish Road, Brisbane	roadName	Cavendish Road
+Stott Highway	roadName	Stott Highway
+Robertson Drive	roadName	Robertson Drive
+Browns Well Highway	roadName	Browns Well Highway
+Ngarkat Highway	roadName	Ngarkat Highway
+Playford Highway	roadName	Playford Highway
+Barndioota Road	roadName	Barndioota Road
+Cameron Highway	roadName	Cameron Highway
+Margaret River Perimeter Road	roadName	Margaret River Perimeter Road
+Cairns Western Arterial Road	roadName	Cairns Western Arterial Road
+Central Arnhem Road	roadName	Central Arnhem Road
+Vulture Street, Brisbane	roadName	Vulture Street
+Mount Barker Road	roadName	Mt Barker Road
+Horse Park Drive	roadName	Horse Park Drive
+NorthLink WA	roadName	Swan Valley Bypass
+St John Street, Launceston	roadName	St John Street
+Mount Cotton Road	roadName	Mount Cotton Road
+Western Distributor	roadName	Western Distributor
+Philip Highway	roadName	Philip Highway
+Lady Carrington Drive	roadName	Lady Carrington Drive
+David Low Way	roadName	David Low Way
+Prospect Road, Adelaide	roadName	Prospect Road
+Perth Freight Link	roadName	Perth Freight Link
+Kilcoy-Murgon Road	roadName	Kilcoy-Murgon Road Highway
+Jackie Junction	roadName	Jackie Junction
+Wills Developmental Road	roadName	Wills Developmental Road
+Pier Street, Perth	roadName	Pier Street
+Colson Track	roadName	Colson Track
+Murray Street, Hobart	roadName	Murray Street
+Argyle Street, Hobart	roadName	Argyle Street
+McIntyre Road, Adelaide	roadName	McIntyre Road
+Bowen Developmental Road	roadName	Bowen Developmental Road
+Suttor Developmental Road	roadName	Suttor Developmental Road
+Eyre Developmental Road	roadName	Eyre Developmental Road
+Zeehan Highway	roadName	Zeehan Highway
+Queenstown to Strahan road	roadName	Queenstown to Strahan Road
+Zeehan-Strahan Road	roadName	Zeehan-Strahan Road
+Meccano Set	roadName	Meccano Set

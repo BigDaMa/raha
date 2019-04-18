@@ -1,0 +1,483 @@
+Burgundy wine	varietals	Pinot noir
+Burgundy wine	varietals	Gamay
+Burgundy wine	varietals	Chardonnay
+Burgundy wine	varietals	Bourgogne Aligoté
+Coonawarra wine region	varietals	Cabernet Sauvignon
+Coonawarra wine region	varietals	Shiraz
+Coonawarra wine region	varietals	Merlot
+Coonawarra wine region	varietals	Chardonnay
+Tokaj	varietals	Tokaji
+Tokaj wine region	varietals	Tokaji
+Wrattonbully	varietals	Shiraz
+Wrattonbully	varietals	Cabernet Sauvignon
+Wrattonbully	varietals	Merlot
+Wrattonbully	varietals	Chardonnay
+Clare Valley wine region	varietals	Shiraz
+Clare Valley wine region	varietals	Cabernet Sauvignon
+Clare Valley wine region	varietals	Riesling
+Clare Valley wine region	varietals	Merlot
+Sancerre	varietals	Sauvignon blanc
+Sancerre	varietals	Pinot noir
+Mount Benson wine region	varietals	Shiraz
+Mount Benson wine region	varietals	Cabernet Sauvignon
+Mount Benson wine region	varietals	Sauvignon Blanc
+Mount Benson wine region	varietals	Merlot
+Southern Flinders Ranges	varietals	Shiraz, Cabernet Sauvignon, Merlot, Riesling
+Ticino	varietals	Merlot
+Napa Valley AVA	varietals	Cabernet Sauvignon, Merlot, Cabernet Franc, Pinot noir, Zinfandel, Chardonnay, Sauvignon blanc, and more
+New York wine	varietals	Aurore
+New York wine	varietals	Baco noir
+New York wine	varietals	Cabernet Franc
+New York wine	varietals	Cabernet Sauvignon
+New York wine	varietals	Catawba
+New York wine	varietals	Cayuga White
+New York wine	varietals	Chambourcin
+New York wine	varietals	Chancellor
+New York wine	varietals	Chardonnay
+New York wine	varietals	Chelois
+New York wine	varietals	Chenin blanc
+New York wine	varietals	Colobel
+New York wine	varietals	Concord
+New York wine	varietals	De Chaunac
+New York wine	varietals	Delaware
+New York wine	varietals	Diamond
+New York wine	varietals	Elvira
+New York wine	varietals	Frontenac
+New York wine	varietals	Gewürztraminer
+New York wine	varietals	Isabella
+New York wine	varietals	Ives noir
+New York wine	varietals	Leon Millot
+New York wine	varietals	Marechal Foch
+New York wine	varietals	Melody
+New York wine	varietals	Merlot
+New York wine	varietals	Niagara
+New York wine	varietals	Pinot blanc
+New York wine	varietals	Pinot gris
+New York wine	varietals	Pinot noir
+New York wine	varietals	Riesling
+New York wine	varietals	Rougeon
+New York wine	varietals	Sauvignon blanc
+New York wine	varietals	Seyval blanc
+New York wine	varietals	St. Vincent
+New York wine	varietals	Steuben
+New York wine	varietals	Traminette
+New York wine	varietals	Vidal blanc
+New York wine	varietals	Vignoles
+New York wine	varietals	Vincent
+Pouilly-Fumé	varietals	Sauvignon blanc
+Catalunya	varietals	Chardonnay, Garnatxa , Macabeo , Moscatell
+Rías Baixas	varietals	Albariño
+Rías Baixas	varietals	Loureira blanca
+Rías Baixas	varietals	Treixadura
+Rías Baixas	varietals	Caiño blanca
+Rías Baixas	varietals	Torrontés
+Rías Baixas	varietals	Godello
+Rías Baixas	varietals	Caiño tinto
+Rías Baixas	varietals	Camaraou noir
+Rías Baixas	varietals	Loureira tinta
+Rías Baixas	varietals	Sousón
+Rías Baixas	varietals	Mencía
+Rías Baixas	varietals	Brancellao
+Monticello AVA	varietals	Cabernet Franc
+Monticello AVA	varietals	Cabernet Sauvignon
+Monticello AVA	varietals	Chambourcin
+Monticello AVA	varietals	Chardonnay
+Monticello AVA	varietals	Gewurztraminer
+Monticello AVA	varietals	Malbec
+Monticello AVA	varietals	Merlot
+Monticello AVA	varietals	Muscat Canelli
+Monticello AVA	varietals	Muscat of Alexandria
+Monticello AVA	varietals	Norton
+Monticello AVA	varietals	Orange Muscat
+Monticello AVA	varietals	Petit Manseng
+Monticello AVA	varietals	Petit Verdot
+Monticello AVA	varietals	Pinot gris
+Monticello AVA	varietals	Pinot noir
+Monticello AVA	varietals	Riesling
+Monticello AVA	varietals	Rkatsiteli
+Monticello AVA	varietals	Sauvignon blanc
+Monticello AVA	varietals	Seyval blanc
+Monticello AVA	varietals	Syrah
+Monticello AVA	varietals	Tannat
+Monticello AVA	varietals	Touriga Nacional
+Monticello AVA	varietals	Traminette
+Monticello AVA	varietals	Vidal blanc
+Monticello AVA	varietals	Viognier
+Monticello AVA	varietals	Zinfandel
+Northern Neck George Washington Birthplace AVA	varietals	Cabernet Franc
+Northern Neck George Washington Birthplace AVA	varietals	Cabernet Sauvignon
+Northern Neck George Washington Birthplace AVA	varietals	Chambourcin
+Northern Neck George Washington Birthplace AVA	varietals	Chardonnay
+Northern Neck George Washington Birthplace AVA	varietals	Seyval blanc
+Northern Neck George Washington Birthplace AVA	varietals	Vidal blanc
+Los Carneros AVA	varietals	Albarino
+Los Carneros AVA	varietals	Barbera
+Los Carneros AVA	varietals	Cabernet Franc
+Los Carneros AVA	varietals	Cabernet Sauvignon
+Los Carneros AVA	varietals	Chardonnay
+Los Carneros AVA	varietals	Dolcetto
+Los Carneros AVA	varietals	Gewurztraminer
+Los Carneros AVA	varietals	Grenache
+Los Carneros AVA	varietals	Malbec
+Los Carneros AVA	varietals	Marsanne
+Los Carneros AVA	varietals	Merlot
+Los Carneros AVA	varietals	Muscat Canelli
+Los Carneros AVA	varietals	Nebbiolo
+Los Carneros AVA	varietals	Pinot blanc
+Los Carneros AVA	varietals	Pinot gris
+Los Carneros AVA	varietals	Pinot Meunier
+Los Carneros AVA	varietals	Pinot noir
+Los Carneros AVA	varietals	Riesling
+Los Carneros AVA	varietals	Roussanne
+Los Carneros AVA	varietals	Sauvignon blanc
+Los Carneros AVA	varietals	Syrah
+Los Carneros AVA	varietals	Tempranillo
+Los Carneros AVA	varietals	Tocai Friulano
+Los Carneros AVA	varietals	Vermentino
+Los Carneros AVA	varietals	Vernaccia
+Los Carneros AVA	varietals	Viognier
+Los Carneros AVA	varietals	Zinfandel
+Atlas Peak AVA	varietals	Cabernet Franc
+Atlas Peak AVA	varietals	Cabernet Sauvignon
+Atlas Peak AVA	varietals	Chardonnay
+Atlas Peak AVA	varietals	Merlot
+Atlas Peak AVA	varietals	Petit Verdot
+Atlas Peak AVA	varietals	Sangiovese
+Atlas Peak AVA	varietals	Syrah
+Atlas Peak AVA	varietals	Zinfandel
+Mount Veeder AVA	varietals	Cabernet Franc
+Mount Veeder AVA	varietals	Cabernet Sauvignon
+Mount Veeder AVA	varietals	Chardonnay
+Mount Veeder AVA	varietals	Malbec
+Mount Veeder AVA	varietals	Merlot
+Mount Veeder AVA	varietals	Petite Sirah
+Mount Veeder AVA	varietals	Syrah
+Mount Veeder AVA	varietals	Viognier
+Mount Veeder AVA	varietals	Zinfandel
+Yountville AVA	varietals	Cabernet Franc
+Yountville AVA	varietals	Cabernet Sauvignon
+Yountville AVA	varietals	Chardonnay
+Yountville AVA	varietals	Gewurztraminer
+Yountville AVA	varietals	Malbec
+Yountville AVA	varietals	Merlot
+Yountville AVA	varietals	Petit Verdot
+Yountville AVA	varietals	Petite Sirah
+Yountville AVA	varietals	Pinot blanc
+Yountville AVA	varietals	Pinot noir
+Yountville AVA	varietals	Sangiovese
+Yountville AVA	varietals	Sauvignon blanc
+Yountville AVA	varietals	Syrah
+Yountville AVA	varietals	Zinfandel
+Rutherford AVA	varietals	Cabernet Franc
+Rutherford AVA	varietals	Cabernet Sauvignon
+Rutherford AVA	varietals	Chardonnay
+Rutherford AVA	varietals	Malbec
+Rutherford AVA	varietals	Merlot
+Rutherford AVA	varietals	Nebbiolo
+Rutherford AVA	varietals	Petit Verdot
+Rutherford AVA	varietals	Petite Sirah
+Rutherford AVA	varietals	Pinot noir
+Rutherford AVA	varietals	Sangiovese
+Rutherford AVA	varietals	Sauvignon blanc
+Rutherford AVA	varietals	Syrah
+Rutherford AVA	varietals	Zinfandel
+St. Helena AVA	varietals	Zinfandel
+St. Helena AVA	varietals	Cabernet Sauvignon
+St. Helena AVA	varietals	Chardonnay
+St. Helena AVA	varietals	Sangiovese
+St. Helena AVA	varietals	Merlot
+St. Helena AVA	varietals	Cabernet Franc
+St. Helena AVA	varietals	Syrah
+St. Helena AVA	varietals	Petit Verdot
+Stags Leap District AVA	varietals	Cabernet Franc
+Stags Leap District AVA	varietals	Cabernet Sauvignon
+Stags Leap District AVA	varietals	Chardonnay
+Stags Leap District AVA	varietals	Malbec
+Stags Leap District AVA	varietals	Merlot
+Stags Leap District AVA	varietals	Petit Verdot
+Stags Leap District AVA	varietals	Zinfandel
+Oak Knoll District of Napa Valley AVA	varietals	Cabernet Franc
+Oak Knoll District of Napa Valley AVA	varietals	Cabernet Sauvignon
+Oak Knoll District of Napa Valley AVA	varietals	Chardonnay
+Oak Knoll District of Napa Valley AVA	varietals	Malbec
+Oak Knoll District of Napa Valley AVA	varietals	Merlot
+Oak Knoll District of Napa Valley AVA	varietals	Pinot noir
+Oak Knoll District of Napa Valley AVA	varietals	Riesling
+Oak Knoll District of Napa Valley AVA	varietals	Syrah
+Oak Knoll District of Napa Valley AVA	varietals	Viognier
+Oak Knoll District of Napa Valley AVA	varietals	Zinfandel
+Chiles Valley AVA	varietals	Cabernet Franc
+Chiles Valley AVA	varietals	Cabernet Sauvignon
+Chiles Valley AVA	varietals	Chardonnay
+Chiles Valley AVA	varietals	Merlot
+Chiles Valley AVA	varietals	Sauvignon blanc
+Chiles Valley AVA	varietals	Semillon
+Chiles Valley AVA	varietals	Zinfandel
+Diamond Mountain District AVA	varietals	Cabernet Franc
+Diamond Mountain District AVA	varietals	Cabernet Sauvignon
+Diamond Mountain District AVA	varietals	Malbec
+Diamond Mountain District AVA	varietals	Merlot
+Diamond Mountain District AVA	varietals	Petit Verdot
+Diamond Mountain District AVA	varietals	Sauvignon blanc
+Howell Mountain AVA	varietals	Cabernet Franc
+Howell Mountain AVA	varietals	Cabernet Sauvignon
+Howell Mountain AVA	varietals	Chardonnay
+Howell Mountain AVA	varietals	Grenache
+Howell Mountain AVA	varietals	Malbec
+Howell Mountain AVA	varietals	Merlot
+Howell Mountain AVA	varietals	Petit Verdot
+Howell Mountain AVA	varietals	Petite Sirah
+Howell Mountain AVA	varietals	Sauvignon blanc
+Howell Mountain AVA	varietals	Zinfandel
+Wild Horse Valley AVA	varietals	Chardonnay
+Wild Horse Valley AVA	varietals	Pinot noir
+Spring Mountain District AVA	varietals	Cabernet Sauvignon
+Spring Mountain District AVA	varietals	Merlot
+Spring Mountain District AVA	varietals	Cabernet Franc
+Spring Mountain District AVA	varietals	Zinfandel
+Spring Mountain District AVA	varietals	Petit Verdot
+Spring Mountain District AVA	varietals	Syrah
+Spring Mountain District AVA	varietals	Petite Sirah
+Spring Mountain District AVA	varietals	Pinot noir
+Spring Mountain District AVA	varietals	Chardonnay
+Spring Mountain District AVA	varietals	Sauvignon blanc
+Spring Mountain District AVA	varietals	Riesling
+High Eden	varietals	Shiraz
+High Eden	varietals	Riesling
+South Carolina wine	varietals	Blanc du Bois
+South Carolina wine	varietals	Cabernet Sauvignon
+South Carolina wine	varietals	Catawba
+South Carolina wine	varietals	Cayuga White
+South Carolina wine	varietals	Chambourcin
+South Carolina wine	varietals	Chardonnay
+South Carolina wine	varietals	De Chaunac
+South Carolina wine	varietals	Melody
+South Carolina wine	varietals	Merlot
+South Carolina wine	varietals	Muscadine
+South Carolina wine	varietals	Pinot gris
+South Carolina wine	varietals	Seyval blanc
+South Carolina wine	varietals	Suwannee
+South Carolina wine	varietals	Vidal blanc
+South Carolina wine	varietals	Vignoles
+Florida wine	varietals	Blanc du Bois
+Florida wine	varietals	Muscadine
+Florida wine	varietals	International variety
+Florida wine	varietals	Mango
+Florida wine	varietals	Key Lime
+Florida wine	varietals	Orange
+Florida wine	varietals	Strawberry
+Florida wine	varietals	Blueberry
+Florida wine	varietals	Stover
+Ahr	varietals	Riesling, Silvaner, Ruländer , Kerner, Weißer Burgunder , Chardonnay, Ortega, Dornfelder, Spätburgunder (Pinot noir), Portugieser, Regent, Merlot, Dunkelfelder, Cabernet Sauvignon, Frühburgunder, Acolon, Cabernet Mitos
+Red Hills Lake County AVA	varietals	Cabernet Franc
+Red Hills Lake County AVA	varietals	Cabernet Sauvignon
+Red Hills Lake County AVA	varietals	Grenache
+Red Hills Lake County AVA	varietals	Mourvedre
+Red Hills Lake County AVA	varietals	Zinfandel
+Red Hills Lake County AVA	varietals	Petite Sirah
+Red Hills Lake County AVA	varietals	Cinsault
+Red Hills Lake County AVA	varietals	Counoise
+Red Hills Lake County AVA	varietals	Syrah
+Seiad Valley AVA	varietals	Riesling
+Médoc AOC	varietals	Cabernet Sauvignon
+Médoc AOC	varietals	Merlot
+Médoc AOC	varietals	Petit Verdot
+Médoc AOC	varietals	Malbec
+Médoc AOC	varietals	Cabernet Franc
+Médoc AOC	varietals	Carménère
+Cayuga Lake AVA	varietals	Baco noir
+Cayuga Lake AVA	varietals	Cabernet Franc
+Cayuga Lake AVA	varietals	Cabernet Sauvignon
+Cayuga Lake AVA	varietals	Catawba
+Cayuga Lake AVA	varietals	Cayuga White
+Cayuga Lake AVA	varietals	Chambourcin
+Cayuga Lake AVA	varietals	Chancellor
+Cayuga Lake AVA	varietals	Chardonnay
+Cayuga Lake AVA	varietals	Concord
+Cayuga Lake AVA	varietals	Delaware
+Cayuga Lake AVA	varietals	Diamond
+Cayuga Lake AVA	varietals	Gewurztraminer
+Cayuga Lake AVA	varietals	Isabella
+Cayuga Lake AVA	varietals	Ives noir
+Cayuga Lake AVA	varietals	Blaufränkisch
+Cayuga Lake AVA	varietals	Marechal Foch
+Cayuga Lake AVA	varietals	Melody
+Cayuga Lake AVA	varietals	Merlot
+Cayuga Lake AVA	varietals	Niagara
+Cayuga Lake AVA	varietals	Pinot gris
+Cayuga Lake AVA	varietals	Pinot noir
+Cayuga Lake AVA	varietals	Riesling
+Cayuga Lake AVA	varietals	Sangiovese
+Cayuga Lake AVA	varietals	Seyval blanc
+Cayuga Lake AVA	varietals	Syrah
+Cayuga Lake AVA	varietals	Traminette
+Cayuga Lake AVA	varietals	Vidal blanc
+Cayuga Lake AVA	varietals	Vignoles
+Cayuga Lake AVA	varietals	Viognier
+Seneca Lake AVA	varietals	Baco noir
+Seneca Lake AVA	varietals	Cabernet Franc
+Seneca Lake AVA	varietals	Cabernet Sauvignon
+Seneca Lake AVA	varietals	Catawba
+Seneca Lake AVA	varietals	Cayuga White
+Seneca Lake AVA	varietals	Chardonnay
+Seneca Lake AVA	varietals	Delaware
+Seneca Lake AVA	varietals	Gewurztraminer
+Seneca Lake AVA	varietals	Melody
+Seneca Lake AVA	varietals	Merlot
+Seneca Lake AVA	varietals	Niagara
+Seneca Lake AVA	varietals	Pinot noir
+Seneca Lake AVA	varietals	Riesling
+Seneca Lake AVA	varietals	Sangiovese
+Lehigh Valley AVA	varietals	Cabernet Sauvignon
+Lehigh Valley AVA	varietals	Chambourcin
+Lehigh Valley AVA	varietals	Chardonnay
+Lehigh Valley AVA	varietals	Pinot noir
+Lehigh Valley AVA	varietals	Riesling
+Lehigh Valley AVA	varietals	Vidal blanc
+Quebec wine	varietals	white: Adalmiina, Cayuga, Chardonnay, Delisle, Eona, Geisenheim, Hibernal, Kay Gray, Muscat, New York Muscat, Prairie Star, Riesling, Saint-Pépin, Seyval blanc, Vandal-Cliche, Vidal
+Quebec wine	varietals	Red: Baco noir, Cabernet Franc, Cabernet Sauvignon Severnyi, Chambaudière, Chambourcin, Chancellor, De Chaunac, Frontenac, Gamay, Landal noir, Landot noir, Léon-Millot, Lucie Kuhlmann, Maréchal Foch, Merlot, Mitchurinetz, Pinot noir, Pionnier, Radisson, Sabrevois, Sainte-Croix, Seyval noir
+Margaret River	varietals	Riesling
+Margaret River	varietals	Sauvignon blanc
+Margaret River	varietals	Sémillon
+Margaret River	varietals	Chardonnay
+Margaret River	varietals	Cabernet Sauvignon
+Margaret River	varietals	Shiraz wine
+Margaret River	varietals	Carnelian
+Margaret River	varietals	Rosé
+Margaret River	varietals	Muscat
+Margaret River	varietals	Tempranillo
+Margaret River	varietals	Petit Verdot
+Margaret River	varietals	Merlot
+Margaret River	varietals	Cabernet Franc
+Penedès	varietals	Parellada, Macabeo, Xarel·lo, Garnacha, Tempranillo, Merlot
+Barossa Valley	varietals	*
+Barossa Valley	varietals	Syrah
+Barossa Valley	varietals	Grenache
+Barossa Valley	varietals	Mourvedre
+Barossa Valley	varietals	Cabernet Sauvignon
+Barossa Valley	varietals	Riesling
+Barossa Valley	varietals	Chardonnay
+Barossa Valley	varietals	Semillon
+Postup	varietals	Plavac Mali
+Armenian wine	varietals	Areni, Kangun, Voskehat, Vitis vinifera, Pinot noir, Rkatsiteli, Pinot blanc, Aligoté, Madrasa (grape)
+Hunter Valley wine	varietals	Semillon
+Hunter Valley wine	varietals	Shiraz
+Hunter Valley wine	varietals	Chardonnay
+Hunter Valley wine	varietals	Cabernet Sauvignon
+Hunter Valley wine	varietals	Verdelho
+Hunter Valley wine	varietals	Semillon, Chardonnay, Shiraz
+Happy Canyon of Santa Barbara AVA	varietals	Cabernet Franc
+Happy Canyon of Santa Barbara AVA	varietals	Cabernet Sauvignon
+Happy Canyon of Santa Barbara AVA	varietals	Malbec
+Happy Canyon of Santa Barbara AVA	varietals	Merlot
+Happy Canyon of Santa Barbara AVA	varietals	Petit Verdot
+Happy Canyon of Santa Barbara AVA	varietals	Rosé
+Happy Canyon of Santa Barbara AVA	varietals	Sangiovese
+Happy Canyon of Santa Barbara AVA	varietals	Sauvignon blanc
+Happy Canyon of Santa Barbara AVA	varietals	Syrah
+Happy Canyon of Santa Barbara AVA	varietals	Viognier
+Great Southern	varietals	Riesling, Chardonnay, Cabernet Sauvignon, Pinot noir, Shiraz, Merlot, Malbec, Cabernet Franc and Verdelho.
+Azerbaijani wine	varietals	Vitis vinifera
+Azerbaijani wine	varietals	Pinot noir
+Azerbaijani wine	varietals	Rkatsiteli
+Azerbaijani wine	varietals	Pinot blanc
+Azerbaijani wine	varietals	Aligoté
+Azerbaijani wine	varietals	Madrasa
+Okanagan Valley	varietals	Pinot Noir, Chardonnay & others
+Calistoga AVA	varietals	Cabernet Sauvignon
+Calistoga AVA	varietals	Petite Sirah
+Calistoga AVA	varietals	Syrah
+Calistoga AVA	varietals	Zinfandel
+Calistoga AVA	varietals	Cabernet Franc
+Swan Creek AVA	varietals	Chambourcin
+Swan Creek AVA	varietals	Petit Verdot
+Swan Creek AVA	varietals	Traminette
+Swan Creek AVA	varietals	Viognier
+Swan Creek AVA	varietals	Montepulciano
+Swan Creek AVA	varietals	Sangiovese
+Swan Creek AVA	varietals	Pinot Grigio
+Swan Creek AVA	varietals	Vermentino
+Dingač	varietals	Plavac Mali
+Coombsville AVA	varietals	Cabernet Sauvignon
+Coombsville AVA	varietals	Chardonnay
+Coombsville AVA	varietals	Pinot noir
+Coombsville AVA	varietals	Syrah
+Rutherglen wine region	varietals	Cabernet Sauvignon
+Rutherglen wine region	varietals	Carignan
+Rutherglen wine region	varietals	Durif
+Rutherglen wine region	varietals	Gewurtztraminer
+Rutherglen wine region	varietals	Muscat Rouge à Petits Grains
+Rutherglen wine region	varietals	Semillon
+Rutherglen wine region	varietals	Syrah
+Rutherglen wine region	varietals	Muscadelle
+Naches Heights AVA	varietals	Cabernet Franc, Cabernet Sauvignon, Malbec, Merlot, Petite Verdot, Semillon, Sauvignon blanc, Syrah, Mourvedre, Viognier, Barbera, Nebbiolo, Sangiovese, Sagrantino, Pinot grigio, White Muscat, Souzao, Tinta Cao, Touriga Nacional, and Tinta Roriz
+Pine Mountain-Cloverdale AVA	varietals	Cabernet Sauvignon, Merlot, Cabernet Franc, Pinot Noir, Zinfandel, Chardonnay, Sauvignon Blanc, and more
+Balaton wine region	varietals	Olaszrizling
+Sopron wine region	varietals	Kékfrankos
+Middleburg AVA	varietals	Merlot
+Middleburg AVA	varietals	Chardonnay
+Middleburg AVA	varietals	Cabernet Franc
+Middleburg AVA	varietals	Nebbiolo
+Middleburg AVA	varietals	Cabernet Sauvignon
+Middleburg AVA	varietals	Riesling
+Niagara Peninsula VQA	varietals	Riesling
+Niagara Peninsula VQA	varietals	Chardonnay
+Niagara Peninsula VQA	varietals	Vidal Blanc
+Niagara Peninsula VQA	varietals	Pinot Gris
+Niagara Peninsula VQA	varietals	Sauvignon blanc
+Niagara Peninsula VQA	varietals	Gewurztraminer
+Niagara Peninsula VQA	varietals	Cabernet franc
+Niagara Peninsula VQA	varietals	Baco noir
+Niagara Peninsula VQA	varietals	Cabernet Sauvignon
+Niagara Peninsula VQA	varietals	Merlot
+Niagara Peninsula VQA	varietals	Pinot Noir
+Niagara Peninsula VQA	varietals	Gamay Noir
+Eden Valley wine region	varietals	Shiraz
+Eden Valley wine region	varietals	Riesling
+Eden Valley wine region	varietals	Cabernet Sauvignon
+Eden Valley wine region	varietals	Chardonnay
+Kangaroo Island wine region	varietals	Cabernet Sauvignon
+Kangaroo Island wine region	varietals	Shiraz
+Kangaroo Island wine region	varietals	Chardonnay
+Adelaide Plains wine region	varietals	Shiraz
+Adelaide Plains wine region	varietals	Chardonnay
+Adelaide Plains wine region	varietals	Cabernet Sauvignon
+Adelaide Plains wine region	varietals	Sauvignon Blanc
+Adelaide Hills wine region	varietals	Sauvignon Blanc
+Adelaide Hills wine region	varietals	Chardonnay
+Adelaide Hills wine region	varietals	Pinot Noir
+Adelaide Hills wine region	varietals	Pinot Gris
+Robe wine region	varietals	Cabernet Sauvignon
+Robe wine region	varietals	Shiraz
+Robe wine region	varietals	Chardonnay
+Robe wine region	varietals	Merlot
+Padthaway wine region	varietals	Shiraz
+Padthaway wine region	varietals	Chardonnay
+Padthaway wine region	varietals	Cabernet Sauvignon
+Padthaway wine region	varietals	Riesling
+Langhorne Creek wine region	varietals	Shiraz
+Langhorne Creek wine region	varietals	Cabernet Sauvignon
+Langhorne Creek wine region	varietals	Chardonnay
+Langhorne Creek wine region	varietals	Merlot
+Currency Creek wine region	varietals	Shiraz
+Currency Creek wine region	varietals	Cabernet Sauvignon
+Currency Creek wine region	varietals	Chardonnay
+Currency Creek wine region	varietals	Merlot
+Creston District AVA	varietals	Cabernet Sauvignon, Syrah, Zinfandel, Merlot, Petite Sirah.
+Eagle Peak Mendocino County AVA	varietals	Pinot noir
+Henty	varietals	Chardonnay
+Henty	varietals	Pinot noir
+Henty	varietals	Sauvignon blanc
+Henty	varietals	Riesling
+Henty	varietals	Cabernet Sauvignon
+Henty	varietals	Merlot
+Shoalhaven Coast	varietals	Chambourcin
+Shoalhaven Coast	varietals	Verdelho
+Hastings River wine region	varietals	Chambourcin
+Hastings River wine region	varietals	Verdelho
+Hastings River wine region	varietals	Chardonnay
+Riverina wine region	varietals	Botrytis Semillon and other warm climate table wines
+Cowra wine region	varietals	Chardonnay
+Mudgee wine region	varietals	Shiraz
+Mudgee wine region	varietals	Cabernet Sauvignon
+Mudgee wine region	varietals	Merlot

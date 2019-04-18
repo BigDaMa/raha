@@ -1,0 +1,12 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : ["test/src/qa/qcri/nadeef/test/input/hospital_10k.csv"]
+    },
+    "rule" : [
+        {
+            "type" : "udf",
+            "value" : ["qa.qcri.nadeef.test.udf.MyRule3"]
+        }
+    ]
+}

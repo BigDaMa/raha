@@ -1,0 +1,306 @@
+DNA ligase	locussupplementarydata	-q12
+DNA ligase	locussupplementarydata	-q34
+Monoamine oxidase	locussupplementarydata	0.4
+Superoxide dismutase	locussupplementarydata	-q21
+Trypsin	locussupplementarydata	-qter
+Chitinase	locussupplementarydata	-q32
+Alcohol dehydrogenase	locussupplementarydata	-q24
+Iodothyronine deiodinase	locussupplementarydata	-p33
+Iodothyronine deiodinase	locussupplementarydata	-24.3
+Pepsin	locussupplementarydata	-p21.1
+Growth hormone	locussupplementarydata	-q24
+Thyrotropin-releasing hormone	locussupplementarydata	-q21
+Luteinizing hormone	locussupplementarydata	-q21
+Alanine transaminase	locussupplementarydata	-qter
+Human chorionic gonadotropin	locussupplementarydata	-q21
+Cyclooxygenase	locussupplementarydata	-q33.3
+Cyclooxygenase	locussupplementarydata	-25.3
+Follicle-stimulating hormone	locussupplementarydata	-q21
+Thyroid-stimulating hormone	locussupplementarydata	-q21
+Signal recognition particle	locussupplementarydata	-q22
+Substance P	locussupplementarydata	-q22
+BK channel	locussupplementarydata	-q27
+Aspartate carbamoyltransferase	locussupplementarydata	-p21
+Clathrin	locussupplementarydata	-qter
+Bradykinin	locussupplementarydata	-qter
+Cholinesterase	locussupplementarydata	-26.2
+Galactokinase	locussupplementarydata	-q25
+Alpha-2-Macroglobulin	locussupplementarydata	0.31
+Cannabinoid receptor	locussupplementarydata	-q15
+Peroxisome proliferator-activated receptor	locussupplementarydata	-q13.1
+Dynorphin	locussupplementarydata	-p12.2
+Angiotensin receptor	locussupplementarydata	-q25
+Angiotensin receptor	locussupplementarydata	-q23
+Cholecystokinin receptor	locussupplementarydata	-p15.1
+Ribonucleotide reductase	locussupplementarydata	-p24
+Glycophorin C	locussupplementarydata	-q21
+Thioredoxin reductase	locussupplementarydata	-q24.1
+Thioredoxin reductase	locussupplementarydata	-q13.33
+Glutamate dehydrogenase	locussupplementarydata	-24.3
+High-molecular-weight kininogen	locussupplementarydata	-qter
+Malate dehydrogenase	locussupplementarydata	cen-q22
+Enkephalin	locussupplementarydata	-q24
+Isocitrate dehydrogenase	locussupplementarydata	-qter
+Isocitrate dehydrogenase	locussupplementarydata	-25.2
+Neurofilament	locussupplementarydata	-13.1
+Thymidine kinase	locussupplementarydata	-25.3
+Factor XIII	locussupplementarydata	0.2
+Factor XIII	locussupplementarydata	-q32.1
+Estrogen receptor	locussupplementarydata	-q27
+Estrogen receptor	locussupplementarydata	-q22
+Glycogen phosphorylase	locussupplementarydata	-q13.2
+Glycogen phosphorylase	locussupplementarydata	-24.3
+Glycogen phosphorylase	locussupplementarydata	-p11.1
+Gastric inhibitory polypeptide	locussupplementarydata	0.3
+Fibrillin	locussupplementarydata	-q31
+Protein kinase B	locussupplementarydata	-32.33
+Protein kinase B	locussupplementarydata	-13.2
+Protein kinase B	locussupplementarydata	-44
+Motilin	locussupplementarydata	0.3
+Ryanodine receptor	locussupplementarydata	-q43
+Ryanodine receptor	locussupplementarydata	-q15
+Amelogenin	locussupplementarydata	-p22.1
+Nitrilase	locussupplementarydata	pter-qter
+Interleukin 12	locussupplementarydata	-q13.2
+Interleukin 12	locussupplementarydata	-33.1
+Pyruvate carboxylase	locussupplementarydata	-q13.1
+GABAB receptor	locussupplementarydata	-22.3
+Glycogenin	locussupplementarydata	-q25.1
+CD1	locussupplementarydata	-q23
+Hepatocyte nuclear factor 4	locussupplementarydata	-20
+Hepatocyte nuclear factor 4	locussupplementarydata	-q22
+NF-κB	locussupplementarydata	-19
+NF-κB	locussupplementarydata	-p12
+GABAA-rho receptor	locussupplementarydata	-q21
+Hypoxia-inducible factors	locussupplementarydata	-q24
+Hypoxia-inducible factors	locussupplementarydata	-p16
+Endothelin	locussupplementarydata	-p24
+Endothelin	locussupplementarydata	-q13.3
+Glycogen synthase	locussupplementarydata	-11.2
+Thyroid peroxidase	locussupplementarydata	pter-p24
+Growth hormone–releasing hormone	locussupplementarydata	12
+Obestatin	locussupplementarydata	-p25
+Relaxin	locussupplementarydata	-q12
+Spermidine synthase	locussupplementarydata	-p22
+Androgen-binding protein	locussupplementarydata	-p12
+Argininosuccinate lyase	locussupplementarydata	ter-q22
+MuSK protein	locussupplementarydata	-q32
+Biliverdin reductase	locussupplementarydata	-cen
+Biliverdin reductase	locussupplementarydata	-13.2
+Prolactin receptor	locussupplementarydata	-p12
+Human placental lactogen	locussupplementarydata	-q24
+Pancreatic polypeptide	locussupplementarydata	-qter
+Myosin light-chain kinase	locussupplementarydata	-q21
+Myosin light-chain kinase	locussupplementarydata	25.2
+Ku	locussupplementarydata	-q13
+Vasopressin receptor	locussupplementarydata	-q15
+Inositol monophosphatase	locussupplementarydata	-q21.3
+Frzb	locussupplementarydata	-q33
+Agouti signalling peptide	locussupplementarydata	-q12
+Guanylin	locussupplementarydata	-p34
+Thyroid hormone receptor	locussupplementarydata	-17
+Thyroid hormone receptor	locussupplementarydata	-p22
+Macrophage inflammatory protein	locussupplementarydata	-q23
+Collagenase	locussupplementarydata	-q22
+Ankyrin	locussupplementarydata	-11.2
+Ankyrin	locussupplementarydata	-q27
+XK	locussupplementarydata	-p21.1
+Cyclin A	locussupplementarydata	-q13
+Calcitonin gene-related peptide	locussupplementarydata	-p12
+Neuropeptide Y receptor	locussupplementarydata	-q32
+Phosphoglycerate kinase	locussupplementarydata	-q12
+Bisphosphoglycerate mutase	locussupplementarydata	-q34
+Phosphoglycerate mutase	locussupplementarydata	-p12
+Angiopoietin	locussupplementarydata	0.3
+Bradykinin receptor	locussupplementarydata	-32.2
+Alpha-Mannosidase	locussupplementarydata	cen-q13.1
+Alpha-Mannosidase	locussupplementarydata	-qter
+Retinoid X receptor	locussupplementarydata	-q23
+Parathyroid hormone receptor	locussupplementarydata	-p21.1
+Platelet-derived growth factor receptor	locussupplementarydata	-q32
+Tachykinin receptor	locussupplementarydata	-p12
+Activin type 2 receptors	locussupplementarydata	-23.3
+Ribosome Recycling Factor	locussupplementarydata	-q34.1
+CD98	locussupplementarydata	-q22
+Transcobalamin	locussupplementarydata	-q12
+Transcobalamin	locussupplementarydata	-qter
+Asialoglycoprotein receptor	locussupplementarydata	-p11
+Lysyl hydroxylase	locussupplementarydata	-36.2
+Ataxin 7	locussupplementarydata	-p12
+Malonyl-CoA decarboxylase	locussupplementarydata	-q24
+Villin	locussupplementarydata	-q36
+Villin	locussupplementarydata	-q27
+DNA clamp	locussupplementarydata	-p12
+Monoacylglycerol lipase	locussupplementarydata	-q13.33
+Arylsulfatase B	locussupplementarydata	-q13
+Emopamil binding protein	locussupplementarydata	-p11.22
+3beta-Hydroxysteroid dehydrogenase	locussupplementarydata	-p11
+Cation channels of sperm	locussupplementarydata	-q15
+Calsequestrin	locussupplementarydata	-p11
+Sodium-calcium exchanger	locussupplementarydata	-p21
+Chimerin 1	locussupplementarydata	-q32.1
+Apoptosis-inducing factor	locussupplementarydata	-q26
+Neurocalcin	locussupplementarydata	-q23
+Olfactory marker protein	locussupplementarydata	-q21
+C-Jun N-terminal kinases	locussupplementarydata	-q23
+Calponin	locussupplementarydata	-p21
+Orosomucoid	locussupplementarydata	-qter
+Pannexin	locussupplementarydata	-q21
+Presenilin	locussupplementarydata	-q42
+Tryptophan hydroxylase	locussupplementarydata	-p14
+Melatonin receptor	locussupplementarydata	-q22
+Enoyl-CoA hydratase	locussupplementarydata	-q28
+Inorganic pyrophosphatase	locussupplementarydata	-q24
+Propionyl-CoA carboxylase	locussupplementarydata	-q22
+Pyruvate dehydrogenase	locussupplementarydata	-q23
+Pyruvate dehydrogenase	locussupplementarydata	-14.2
+Podocin	locussupplementarydata	-q31
+Complement receptor of the immunoglobulin family	locussupplementarydata	-q13.3
+Fibrocystin	locussupplementarydata	-p12
+C1Q complex	locussupplementarydata	-34.1
+Myophosphorylase	locussupplementarydata	-q13.2
+Methylcrotonyl-CoA carboxylase	locussupplementarydata	-q13
+Type II collagen	locussupplementarydata	-q13.2
+Type I collagen	locussupplementarydata	-q22
+Neurokinin A	locussupplementarydata	-q22
+Phenylethanolamine N-methyltransferase	locussupplementarydata	-q22
+Neurotensin receptor	locussupplementarydata	-20
+Neurotensin receptor	locussupplementarydata	-1
+Galanin receptor	locussupplementarydata	-13.1
+Corticotropin-releasing hormone receptor	locussupplementarydata	-q22
+Corticotropin-releasing hormone receptor	locussupplementarydata	-p15
+TGF beta receptor	locussupplementarydata	-p32
+Parvalbumin	locussupplementarydata	-q13.1
+Sucrase-isomaltase	locussupplementarydata	-26.2
+Atrial natriuretic peptide receptor	locussupplementarydata	-p1
+Adenine nucleotide translocator	locussupplementarydata	-q26
+Growth hormone-binding protein	locussupplementarydata	-p12
+Sorbitol dehydrogenase	locussupplementarydata	-q21.1
+Timeless	locussupplementarydata	-q13
+Interferon-gamma receptor	locussupplementarydata	-q24
+Apolipoprotein A2	locussupplementarydata	-q23
+Granin	locussupplementarydata	-p12
+Granin	locussupplementarydata	-q36
+Granin	locussupplementarydata	-q14
+Low-molecular-weight kininogen	locussupplementarydata	-qter
+Transcription factor II H	locussupplementarydata	-p14
+Transcription factor II H	locussupplementarydata	-13.3
+3-hydroxy-3-methylglutaryl-CoA lyase	locussupplementarydata	-p35
+Neuromedin B	locussupplementarydata	-qter
+Phospholipase A1	locussupplementarydata	-13.2
+APH-1	locussupplementarydata	-q31.3
+Glutaminase	locussupplementarydata	-q34
+Lysosomal lipase	locussupplementarydata	-23.3
+VEGF receptor	locussupplementarydata	-q12
+VEGF receptor	locussupplementarydata	-q35
+Angiopoietin receptor	locussupplementarydata	-p33
+Lysosomal trafficking regulator	locussupplementarydata	-42.2
+Phosphogluconate dehydrogenase	locussupplementarydata	-36.13
+Transaldolase	locussupplementarydata	-15.4
+C8 complex	locussupplementarydata	-22.1
+Talin protein	locussupplementarydata	-p21
+Talin protein	locussupplementarydata	-q21
+UTP—glucose-1-phosphate uridylyltransferase	locussupplementarydata	-q22
+UTP—glucose-1-phosphate uridylyltransferase	locussupplementarydata	-p13
+CD64	locussupplementarydata	-21.3
+Peroxin-7	locussupplementarydata	-q22.2
+ITCH	locussupplementarydata	-23
+KLRA1	locussupplementarydata	-p13
+STARD3	locussupplementarydata	-q12
+Alpha catenin	locussupplementarydata	-p11.1
+Potassium-dependent sodium-calcium exchanger	locussupplementarydata	-p13
+3-Hydroxyacyl ACP dehydrase	locussupplementarydata	-q28
+Farnesyl-diphosphate farnesyltransferase	locussupplementarydata	-p22
+Lanosterol 14 alpha-demethylase	locussupplementarydata	-21.3
+Phosphomevalonate kinase	locussupplementarydata	-q23
+WS2B	locussupplementarydata	-1
+Homogentisate 1,2-dioxygenase	locussupplementarydata	-q23
+Glycerol-3-phosphate dehydrogenase	locussupplementarydata	-q13
+Mannose 6-phosphate receptor	locussupplementarydata	q27
+Alpha-N-acetylglucosaminidase	locussupplementarydata	-q21
+Hepatic fructokinase	locussupplementarydata	-23.2
+Receptor activity-modifying protein	locussupplementarydata	-37.1
+Receptor activity-modifying protein	locussupplementarydata	-21.1
+Receptor activity-modifying protein	locussupplementarydata	-p12
+Hepatocyte nuclear factors	locussupplementarydata	-12
+Hepatocyte nuclear factors	locussupplementarydata	-17
+Hepatocyte nuclear factors	locussupplementarydata	-q13
+Hepatocyte nuclear factors	locussupplementarydata	20
+Hepatocyte nuclear factors	locussupplementarydata	-q13.4
+Hepatocyte nuclear factors	locussupplementarydata	-20
+Hepatocyte nuclear factors	locussupplementarydata	-q22
+Hepatocyte nuclear factors	locussupplementarydata	-q21.2
+Hepatocyte nuclear factors	locussupplementarydata	-21.2
+Dihydroorotase	locussupplementarydata	-p21
+IMP dehydrogenase	locussupplementarydata	-q32
+CLEC4C	locussupplementarydata	-12.3
+Collectin liver 1	locussupplementarydata	-q24.1
+Ribose-phosphate diphosphokinase	locussupplementarydata	-q27
+Ribose-phosphate diphosphokinase	locussupplementarydata	-q21
+Adenosylmethionine decarboxylase	locussupplementarydata	-q22
+Phosphoribosylaminoimidazole carboxylase	locussupplementarydata	-q21
+Asparagine synthetase	locussupplementarydata	-q31
+ETM2	locussupplementarydata	-2
+Aminomethyltransferase	locussupplementarydata	-21.1
+Cardiotrophin 1	locussupplementarydata	-16
+CSF2RB	locussupplementarydata	-13.1
+Latent TGF-beta binding protein	locussupplementarydata	-p21
+Latent TGF-beta binding protein	locussupplementarydata	-13.2
+Polypyrimidine tract-binding protein	locussupplementarydata	-22.1
+Gremlin	locussupplementarydata	-13
+Gs alpha subunit	locussupplementarydata	-13.3
+Gi alpha subunit	locussupplementarydata	-q22
+NPAS1	locussupplementarydata	-13.3
+ATP2A2	locussupplementarydata	-q24
+RAR-related orphan receptor	locussupplementarydata	-q22
+Syncoilin	locussupplementarydata	-p33
+HPLH1	locussupplementarydata	-q22
+Keratin 6B	locussupplementarydata	-q21
+Transcription factor II E	locussupplementarydata	-q24
+Electron-transferring-flavoprotein dehydrogenase	locussupplementarydata	4
+Group 1 CD1	locussupplementarydata	-q23
+IL22RA2	locussupplementarydata	-24.2
+Orexin receptor	locussupplementarydata	-q11
+SREB	locussupplementarydata	-p14
+ICAM4	locussupplementarydata	-cen
+Formins	locussupplementarydata	-q14
+Retinoic acid-inducible orphan G protein-coupled receptor	locussupplementarydata	-p12.3
+Relaxin receptor	locussupplementarydata	-p14
+VPS13B	locussupplementarydata	-q23
+IκB kinase	locussupplementarydata	-q25
+3-hydroxyacyl-CoA dehydrogenase	locussupplementarydata	-q26
+MAS1 oncogene	locussupplementarydata	-q27
+Betaine—homocysteine S-methyltransferase	locussupplementarydata	-q15
+Phytanoyl-CoA dioxygenase	locussupplementarydata	-10
+UDP-glucose 4-epimerase	locussupplementarydata	-p35
+Membrane-bound transcription factor site-2 protease	locussupplementarydata	-p22.2
+Acetyl-CoA C-acetyltransferase	locussupplementarydata	-q26
+Hydroxymethylglutaryl-CoA synthase	locussupplementarydata	-p13
+Hydroxymethylglutaryl-CoA synthase	locussupplementarydata	-p12
+Neurogenins	locussupplementarydata	-q31
+Interleukin-5 receptor	locussupplementarydata	-p24
+Interleukin-13 receptor	locussupplementarydata	-q28
+Interleukin-15 receptor	locussupplementarydata	-10
+Interleukin-22 receptor	locussupplementarydata	-24.2
+PARK11	locussupplementarydata	-q37
+TIE1	locussupplementarydata	-p33
+Protein phosphatase 2	locussupplementarydata	-q31
+SURF2	locussupplementarydata	-q34
+Patched	locussupplementarydata	q31
+KRT38	locussupplementarydata	-q21
+KRT37	locussupplementarydata	-q21
+Wee1	locussupplementarydata	-q32
+Slit	locussupplementarydata	-q24
+Activin and inhibin	locussupplementarydata	15
+Activin and inhibin	locussupplementarydata	cen-q13
+GPR137B	locussupplementarydata	-q43
+DNA damage-binding protein	locussupplementarydata	-q13
+DNA damage-binding protein	locussupplementarydata	-p11
+Rho-associated protein kinase	locussupplementarydata	-q32
+Receptor tyrosine kinase-like orphan receptor	locussupplementarydata	-p31
+EHHADH	locussupplementarydata	-q28
+Meprin A	locussupplementarydata	-p11
+Map44	locussupplementarydata	-q28
+Uroguanylin	locussupplementarydata	-p33
+Relaxin family peptide hormones	locussupplementarydata	-q12
+Interleukin 23	locussupplementarydata	-33.1

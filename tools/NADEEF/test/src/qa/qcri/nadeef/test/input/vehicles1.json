@@ -1,0 +1,19 @@
+{
+    "source" : {
+        "url" : "localhost:5433/unittest",
+        "username" : "tester",
+        "password" : "tester",
+        "type" : "postgres"
+    },
+    "rule" : [
+        {
+            "type" : "er",
+            "table" : ["vehicles"],
+            "target" : ["vehicles_copy"],
+            "value" : [
+                "EQ(vehicles.title, vehicles.title) == 1.0",
+                "EQ(vehicles.username, vehicles.username) == 1.0"
+            ]
+        }
+    ]
+}

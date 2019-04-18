@@ -1,0 +1,3145 @@
+Earth	epoch	J2000.0
+Mercury	epoch	J2000
+Nereid	epoch	J2000
+Naiad	epoch	1989-08-18
+Venus	epoch	J2000
+433 Eros	epoch	2004-10-22
+Jupiter	epoch	J2000
+Europa	epoch	2004-01-08
+Uranus	epoch	J2000
+Saturn	epoch	J2000.0
+Pluto	epoch	J2000
+Halley's Comet	epoch	2449400.5
+52 Europa	epoch	2005-11-26
+3753 Cruithne	epoch	2016-01-13
+4769 Castalia	epoch	2016-01-13
+253 Mathilde	epoch	2016-07-31
+4179 Toutatis	epoch	2016-01-13
+16 Psyche	epoch	JD 2453300.5
+243 Ida	epoch	2016-07-31
+4 Vesta	epoch	2014
+2 Pallas	epoch	2014
+Atlas	epoch	2003-12-31
+588 Achilles	epoch	2016-07-31
+Phobos	epoch	J2000
+2060 Chiron	epoch	2016-01-13
+Deimos	epoch	2012
+3 Juno	epoch	JD 2457000.5
+Comet Hyakutake	epoch	2450400.5
+Janus	epoch	2003-12-31
+Epimetheus	epoch	2003-12-31
+Proteus	epoch	1989-08-18
+Pandora	epoch	2003-12-31
+5145 Pholus	epoch	2016-01-13
+	epoch	2010-07-17
+141 Lumen	epoch	2016-07-31
+65 Cybele	epoch	2006-12-31
+24 Themis	epoch	2010-07-23
+Prometheus	epoch	2003-12-31
+	epoch	2016-01-13
+28978 Ixion	epoch	2016-01-13
+624 Hektor	epoch	2004-10-22
+Larissa	epoch	1989-08-18
+20000 Varuna	epoch	2016-01-13
+5 Astraea	epoch	2014-12-09
+90482 Orcus	epoch	2016-01-13
+Churyumov–Gerasimenko	epoch	2014-08-10
+944 Hidalgo	epoch	2016-01-13
+1620 Geographos	epoch	2016-01-13
+1998 KY26	epoch	2016-01-13
+2063 Bacchus	epoch	2016-01-13
+90377 Sedna	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+2004 FH	epoch	2016-01-13
+51826 Kalpanachawla	epoch	2016-01-13
+21 Lutetia	epoch	2005-01-30
+Borrelly	epoch	2001-09-08
+Thalassa	epoch	1989-08-18
+Galatea	epoch	1989-08-18
+Despina	epoch	1989-08-18
+1862 Apollo	epoch	2009-12-29
+2867 Šteins	epoch	2016-01-13
+9969 Braille	epoch	2016-01-13
+6 Hebe	epoch	2005-11-26
+4015 Wilson–Harrington	epoch	2016-01-13
+7968 Elst–Pizarro	epoch	2016-01-13
+Tempel 1	epoch	2009-05-01
+90 Antiope	epoch	2010-07-23
+139 Juewa	epoch	2016-07-31
+2685 Masursky	epoch	2016-01-13
+45 Eugenia	epoch	2005-11-26
+1566 Icarus	epoch	2016-07-31
+216 Kleopatra	epoch	2005-01-30
+511 Davida	epoch	2011-08-27
+762 Pulcova	epoch	2016-07-31
+1036 Ganymed	epoch	2016-07-31
+3908 Nyx	epoch	2005-07-27
+4183 Cuno	epoch	2016-07-31
+Erriapus	epoch	2000
+Albiorix	epoch	2000
+Paaliaq	epoch	2000
+Siarnaq	epoch	2000
+Kiviuq	epoch	2000
+Tarvos	epoch	2000
+4197 Morpheus	epoch	2016-07-31
+4486 Mithra	epoch	2016-07-31
+719 Albert	epoch	2016-07-31
+25143 Itokawa	epoch	2005-08-18
+4660 Nereus	epoch	2016-01-13
+5535 Annefrank	epoch	2016-01-13
+6489 Golevka	epoch	2001-11-06
+8405 Asbolus	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-01-13
+51 Nemausa	epoch	2006-12-31
+1373 Cincinnati	epoch	2016-07-31
+69230 Hermes	epoch	2016-01-13
+2002 AA29	epoch	2016-01-13
+2003 YN107	epoch	2016-01-13
+3200 Phaethon	epoch	2016-01-13
+18610 Arthurdent	epoch	2016-07-31
+3728 IRAS	epoch	2016-07-31
+3568 ASCII	epoch	2016-01-13
+3412 Kafka	epoch	2015-06-27
+3494 Purple Mountain	epoch	2016-01-13
+3552 Don Quixote	epoch	2016-01-13
+3325 TARDIS	epoch	2016-07-31
+3318 Blixen	epoch	2016-01-13
+2985 Shakespeare	epoch	2016-01-13
+2934 Aristophanes	epoch	2016-01-13
+2984 Chaucer	epoch	2016-01-13
+1981 Midas	epoch	2016-07-31
+1983 Bok	epoch	2016-01-13
+1982 Cline	epoch	2016-01-13
+1516 Henry	epoch	2016-07-31
+2830 Greenwich	epoch	2016-07-31
+2807 Karl Marx	epoch	2016-01-13
+2865 Laurel	epoch	2016-07-31
+2747 Český Krumlov	epoch	2016-01-13
+2709 Sagan	epoch	2016-01-13
+2675 Tolkien	epoch	2016-01-13
+2578 Saint-Exupéry	epoch	2016-01-13
+7 Iris	epoch	2005-11-26
+2575 Bulgaria	epoch	2016-01-13
+2436 Hatshepsut	epoch	2016-01-13
+288 Glauke	epoch	2016-07-31
+323 Brucia	epoch	2016-07-31
+	epoch	2016-01-13
+4065 Meinel	epoch	2015-06-27
+11754 Herbig	epoch	2016-01-13
+1810 Epimetheus	epoch	2016-01-13
+4659 Roddenberry	epoch	2015-06-27
+1500 Jyväskylä	epoch	2016-07-31
+11 Parthenope	epoch	2016-01-13
+8 Flora	epoch	2005-11-26
+13 Egeria	epoch	2016-01-13
+9 Metis	epoch	2004-07-14
+14 Irene	epoch	2004-07-14
+12 Victoria	epoch	2016-01-13
+10 Hygiea	epoch	2015-06-27
+17 Thetis	epoch	2004-10-22
+15 Eunomia	epoch	2006-06-14
+18 Melpomene	epoch	2004-10-22
+19 Fortuna	epoch	2004-10-22
+20 Massalia	epoch	2004-10-22
+23 Thalia	epoch	2006-06-14
+2001 QR322	epoch	2016-01-13
+25 Phocaea	epoch	2006-06-14
+26 Proserpina	epoch	2006-06-14
+27 Euterpe	epoch	2006-06-14
+28 Bellona	epoch	Sept 30, 2012
+29 Amphitrite	epoch	2006-06-14
+30 Urania	epoch	2006-06-14
+31 Euphrosyne	epoch	2006-12-31
+32 Pomona	epoch	2006-12-31
+33 Polyhymnia	epoch	2013-04-18
+35 Leukothea	epoch	2006-12-31
+36 Atalante	epoch	2006-12-31
+34 Circe	epoch	2013-11-04
+37 Fides	epoch	2006-12-31
+40 Harmonia	epoch	2006-12-31
+38 Leda	epoch	2006-12-31
+39 Laetitia	epoch	2006-12-31
+41 Daphne	epoch	2006-12-31
+42 Isis	epoch	2006-12-31
+43 Ariadne	epoch	2005-11-26
+44 Nysa	epoch	2008-05-14
+46 Hestia	epoch	2006-12-31
+47 Aglaja	epoch	2006-12-31
+48 Doris	epoch	2006-12-31
+49 Pales	epoch	2008-11-30
+50 Virginia	epoch	2006-12-31
+53 Kalypso	epoch	2006-12-31
+54 Alexandra	epoch	2006-12-31
+56 Melete	epoch	2006-12-31
+55 Pandora	epoch	2015-06-27
+57 Mnemosyne	epoch	2006-12-31
+58 Concordia	epoch	2006-12-31
+59 Elpis	epoch	2006-12-31
+60 Echo	epoch	2006-12-31
+63 Ausonia	epoch	2006-12-31
+62 Erato	epoch	2006-12-31
+64 Angelina	epoch	2006-12-31
+61 Danaë	epoch	2006-06-14
+66 Maja	epoch	2006-12-31
+67 Asia	epoch	2006-12-31
+68 Leto	epoch	2016-07-31
+70 Panopaea	epoch	2008-11-30
+71 Niobe	epoch	2006-12-31
+73 Klytia	epoch	2006-12-31
+72 Feronia	epoch	2006-12-31
+74 Galatea	epoch	2006-12-31
+75 Eurydike	epoch	2006-12-31
+77 Frigga	epoch	2006-12-31
+76 Freia	epoch	2006-12-31
+78 Diana	epoch	2006-12-31
+79 Eurynome	epoch	2006-12-31
+80 Sappho	epoch	2006-12-31
+81 Terpsichore	epoch	2006-12-31
+82 Alkmene	epoch	2014
+83 Beatrix	epoch	2006-12-31
+84 Klio	epoch	2006-12-31
+86 Semele	epoch	2006-12-31
+85 Io	epoch	2006-03-06
+87 Sylvia	epoch	2004-07-14
+88 Thisbe	epoch	2006-12-31
+89 Julia	epoch	2016-07-31
+91 Aegina	epoch	2006-12-31
+92 Undina	epoch	2016-07-31
+93 Minerva	epoch	2016-07-31
+94 Aurora	epoch	2016-07-31
+95 Arethusa	epoch	2016-07-31
+98 Ianthe	epoch	2016-07-31
+99 Dike	epoch	2016-07-31
+100 Hekate	epoch	2016-07-31
+96 Aegle	epoch	2006-12-31
+97 Klotho	epoch	2016-07-31
+102 Miriam	epoch	2016-07-31
+101 Helena	epoch	2016-07-31
+104 Klymene	epoch	2016-07-31
+103 Hera	epoch	2016-07-31
+105 Artemis	epoch	2016-07-31
+106 Dione	epoch	2016-07-31
+109 Felicitas	epoch	2016-07-31
+108 Hecuba	epoch	2016-07-31
+110 Lydia	epoch	2016-07-31
+113 Amalthea	epoch	2016-07-31
+116 Sirona	epoch	2016-07-31
+107 Camilla	epoch	2016-07-31
+114 Kassandra	epoch	2016-07-31
+115 Thyra	epoch	2016-07-31
+112 Iphigenia	epoch	2016-07-31
+111 Ate	epoch	2016-07-31
+117 Lomia	epoch	2016-07-31
+118 Peitho	epoch	2016-07-31
+119 Althaea	epoch	2016-07-31
+120 Lachesis	epoch	2016-07-31
+121 Hermione	epoch	2006-12-31
+122 Gerda	epoch	2016-07-31
+125 Liberatrix	epoch	2016-07-31
+124 Alkeste	epoch	2016-07-31
+123 Brunhild	epoch	2016-07-31
+126 Velleda	epoch	2006-12-31
+128 Nemesis	epoch	2016-07-31
+127 Johanna	epoch	2016-07-31
+129 Antigone	epoch	2016-07-31
+131 Vala	epoch	2016-07-31
+130 Elektra	epoch	2016-07-31
+132 Aethra	epoch	2016-07-31
+134 Sophrosyne	epoch	2016-07-31
+133 Cyrene	epoch	2016-07-31
+136 Austria	epoch	2016-07-31
+137 Meliboea	epoch	2016-07-31
+138 Tolosa	epoch	2016-07-31
+135 Hertha	epoch	2008-05-14
+140 Siwa	epoch	2016-07-31
+2069 Hubble	epoch	2016-01-13
+148 Gallia	epoch	2016-07-31
+147 Protogeneia	epoch	2016-07-31
+145 Adeona	epoch	2016-07-31
+146 Lucina	epoch	2016-07-31
+144 Vibilia	epoch	2016-07-31
+143 Adria	epoch	2016-07-31
+142 Polana	epoch	2016-07-31
+149 Medusa	epoch	2016-07-31
+150 Nuwa	epoch	2016-07-31
+22 Kalliope	epoch	2010
+151 Abundantia	epoch	2016-07-31
+153 Hilda	epoch	2016-07-31
+152 Atala	epoch	2016-07-31
+154 Bertha	epoch	2016-07-31
+155 Scylla	epoch	2016-07-31
+157 Dejanira	epoch	2016-07-31
+156 Xanthippe	epoch	2016-07-31
+158 Koronis	epoch	2016-07-31
+162 Laurentia	epoch	2016-07-31
+163 Erigone	epoch	2016-07-31
+161 Athor	epoch	2016-07-31
+159 Aemilia	epoch	2016-07-31
+160 Una	epoch	2016-07-31
+164 Eva	epoch	2016-07-31
+165 Loreley	epoch	2016-07-31
+169 Zelia	epoch	2016-07-31
+167 Urda	epoch	2016-07-31
+166 Rhodope	epoch	2016-07-31
+168 Sibylla	epoch	2016-07-31
+170 Maria	epoch	2016-07-31
+172 Baucis	epoch	2016-07-31
+171 Ophelia	epoch	2016-07-31
+174 Phaedra	epoch	2016-07-31
+173 Ino	epoch	2016-07-31
+175 Andromache	epoch	2016-07-31
+177 Irma	epoch	2016-07-31
+176 Iduna	epoch	2016-07-31
+178 Belisana	epoch	2016-07-31
+180 Garumna	epoch	2016-07-31
+179 Klytaemnestra	epoch	2016-07-31
+181 Eucharis	epoch	2016-07-31
+182 Elsa	epoch	2016-07-31
+183 Istria	epoch	2016-07-31
+184 Dejopeja	epoch	2016-07-31
+186 Celuta	epoch	2016-07-31
+185 Eunike	epoch	2016-07-31
+188 Menippe	epoch	2016-07-31
+187 Lamberta	epoch	2016-07-31
+189 Phthia	epoch	2016-07-31
+190 Ismene	epoch	2016-07-31
+191 Kolga	epoch	2016-07-31
+193 Ambrosia	epoch	2016-07-31
+192 Nausikaa	epoch	2016-07-31
+194 Prokne	epoch	2016-07-31
+198 Ampella	epoch	2016-07-31
+196 Philomela	epoch	2016-07-31
+195 Eurykleia	epoch	2016-07-31
+199 Byblis	epoch	2016-07-31
+197 Arete	epoch	2016-07-31
+200 Dynamene	epoch	2016-07-31
+704 Interamnia	epoch	2016-07-31
+2062 Aten	epoch	2011-12-31
+	epoch	2016-01-13
+	epoch	2016-01-13
+15017 Cuppy	epoch	2016-07-31
+1221 Amor	epoch	2016-07-31
+5261 Eureka	epoch	2016-01-13
+5261 Eureka	epoch	2014-12-09
+516 Amherstia	epoch	2016-07-31
+3554 Amun	epoch	2016-01-13
+	epoch	2016-07-31
+201 Penelope	epoch	2016-07-31
+Methone	epoch	2004-06-20
+Pallene	epoch	2004-06-20
+366 Vincentina	epoch	2016-07-31
+2001 Einstein	epoch	2016-07-31
+2000 SG344	epoch	2016-01-13
+	epoch	2016-01-13
+39382 Opportunity	epoch	2016-01-13
+2159 Kukkamäki	epoch	2016-01-13
+2072 Kosmodemyanskaya	epoch	2016-01-13
+4923 Clarke	epoch	2016-01-13
+1695 Walbeck	epoch	2016-01-13
+1604 Tombaugh	epoch	2016-07-31
+99942 Apophis	epoch	2007-12-07
+6223 Dahl	epoch	2016-07-31
+532 Herculina	epoch	2016-07-31
+26858 Misterrogers	epoch	2016-01-13
+2101 Adonis	epoch	2016-07-31
+2004 S 6	epoch	2005-04-13
+25924 Douglasadams	epoch	2016-01-13
+202 Chryseïs	epoch	2016-07-31
+203 Pompeja	epoch	2016-07-31
+205 Martha	epoch	2016-07-31
+206 Hersilia	epoch	2016-07-31
+204 Kallisto	epoch	2016-07-31
+208 Lacrimosa	epoch	2016-07-31
+207 Hedda	epoch	2016-07-31
+209 Dido	epoch	2016-07-31
+210 Isabella	epoch	2016-07-31
+211 Isolda	epoch	2016-07-31
+212 Medea	epoch	2016-07-31
+213 Lilaea	epoch	2016-07-31
+215 Oenone	epoch	2016-07-31
+214 Aschera	epoch	2016-07-31
+217 Eudora	epoch	2016-07-31
+219 Thusnelda	epoch	2016-07-31
+220 Stephania	epoch	2016-07-31
+218 Bianca	epoch	2016-07-31
+230 Athamantis	epoch	2016-07-31
+227 Philosophia	epoch	2016-07-31
+224 Oceana	epoch	2016-07-31
+226 Weringia	epoch	2016-07-31
+223 Rosa	epoch	2016-07-31
+228 Agathe	epoch	2016-07-31
+229 Adelinda	epoch	2016-07-31
+221 Eos	epoch	2016-07-31
+225 Henrietta	epoch	2016-07-31
+222 Lucia	epoch	2016-07-31
+231 Vindobona	epoch	2016-07-31
+232 Russia	epoch	2016-07-31
+233 Asterope	epoch	2016-07-31
+235 Carolina	epoch	2016-07-31
+234 Barbara	epoch	2016-07-31
+236 Honoria	epoch	2016-07-31
+237 Coelestina	epoch	2016-07-31
+239 Adrastea	epoch	2016-07-31
+238 Hypatia	epoch	2016-07-31
+240 Vanadis	epoch	2016-07-31
+242 Kriemhild	epoch	2016-07-31
+241 Germania	epoch	2016-07-31
+245 Vera	epoch	2016-07-31
+244 Sita	epoch	2016-07-31
+246 Asporina	epoch	2016-07-31
+247 Eukrate	epoch	2016-07-31
+248 Lameia	epoch	2016-07-31
+249 Ilse	epoch	2016-07-31
+250 Bettina	epoch	2016-07-31
+252 Clementina	epoch	2016-07-31
+251 Sophia	epoch	2016-07-31
+254 Augusta	epoch	2016-07-31
+256 Walpurga	epoch	2016-07-31
+257 Silesia	epoch	2016-07-31
+260 Huberta	epoch	2016-07-31
+259 Aletheia	epoch	2015-06-27
+258 Tyche	epoch	2016-07-31
+255 Oppavia	epoch	2016-07-31
+264 Libussa	epoch	2016-07-31
+262 Valda	epoch	2016-07-31
+261 Prymno	epoch	2016-07-31
+269 Justitia	epoch	2016-07-31
+263 Dresda	epoch	2016-07-31
+271 Penthesilea	epoch	2016-07-31
+270 Anahita	epoch	2016-07-31
+267 Tirza	epoch	2016-07-31
+265 Anna	epoch	2016-07-31
+272 Antonia	epoch	2016-07-31
+266 Aline	epoch	2016-07-31
+268 Adorea	epoch	2016-07-31
+276 Adelheid	epoch	2016-07-31
+277 Elvira	epoch	2016-07-31
+275 Sapientia	epoch	2016-07-31
+274 Philagoria	epoch	2016-07-31
+278 Paulina	epoch	2016-07-31
+273 Atropos	epoch	2016-07-31
+279 Thule	epoch	2016-07-31
+280 Philia	epoch	2016-07-31
+285 Regina	epoch	2016-07-31
+282 Clorinde	epoch	2016-07-31
+298 Baptistina	epoch	2016-07-31
+300 Geraldina	epoch	2016-07-31
+296 Phaëtusa	epoch	2016-07-31
+294 Felicia	epoch	2016-07-31
+297 Caecilia	epoch	2016-07-31
+299 Thora	epoch	2016-07-31
+293 Brasilia	epoch	2016-07-31
+295 Theresia	epoch	2016-07-31
+292 Ludovica	epoch	2016-07-31
+283 Emma	epoch	2016-07-31
+281 Lucretia	epoch	2016-07-31
+291 Alice	epoch	2016-07-31
+290 Bruna	epoch	2016-07-31
+289 Nenetta	epoch	2016-07-31
+286 Iclea	epoch	2016-07-31
+284 Amalia	epoch	2016-07-31
+287 Nephthys	epoch	2016-07-31
+303 Josephina	epoch	2016-07-31
+301 Bavaria	epoch	2016-07-31
+302 Clarissa	epoch	2016-07-31
+304 Olga	epoch	2016-07-31
+306 Unitas	epoch	2016-07-31
+308 Polyxo	epoch	2016-07-31
+305 Gordonia	epoch	2016-07-31
+309 Fraternitas	epoch	2016-07-31
+310 Margarita	epoch	2016-07-31
+307 Nike	epoch	2016-07-31
+317 Roxane	epoch	2016-07-31
+314 Rosalia	epoch	2016-07-31
+311 Claudia	epoch	2016-07-31
+313 Chaldaea	epoch	2016-07-31
+316 Goberta	epoch	2016-07-31
+315 Constantia	epoch	2016-07-31
+318 Magdalena	epoch	2016-07-31
+312 Pierretta	epoch	2016-07-31
+319 Leona	epoch	2016-07-31
+322 Phaeo	epoch	2016-07-31
+325 Heidelberga	epoch	2016-07-31
+321 Florentina	epoch	2016-07-31
+320 Katharina	epoch	2016-07-31
+328 Gudrun	epoch	2016-07-31
+326 Tamara	epoch	2016-07-31
+329 Svea	epoch	2016-07-31
+330 Adalberta	epoch	2016-07-31
+324 Bamberga	epoch	2016-07-31
+327 Columbia	epoch	2016-07-31
+332 Siri	epoch	2016-07-31
+331 Etheridgea	epoch	2016-07-31
+334 Chicago	epoch	2016-07-31
+339 Dorothea	epoch	2016-07-31
+336 Lacadiera	epoch	2016-07-31
+335 Roberta	epoch	2016-07-31
+338 Budrosa	epoch	2016-07-31
+347 Pariana	epoch	2016-07-31
+346 Hermentaria	epoch	2016-07-31
+343 Ostara	epoch	2016-07-31
+360 Carlova	epoch	2016-07-31
+355 Gabriella	epoch	2016-07-31
+356 Liguria	epoch	2016-07-31
+351 Yrsa	epoch	2016-07-31
+345 Tercidina	epoch	2016-07-31
+341 California	epoch	2016-07-31
+348 May	epoch	2016-07-31
+344 Desiderata	epoch	2016-07-31
+358 Apollonia	epoch	2016-07-31
+333 Badenia	epoch	2016-07-31
+342 Endymion	epoch	2016-07-31
+340 Eduarda	epoch	2016-07-31
+337 Devosa	epoch	2016-07-31
+350 Ornamenta	epoch	2016-07-31
+349 Dembowska	epoch	2016-07-31
+354 Eleonora	epoch	2016-07-31
+353 Ruperto-Carola	epoch	2016-07-31
+352 Gisela	epoch	2016-07-31
+357 Ninina	epoch	2016-07-31
+359 Georgia	epoch	2016-07-31
+363 Padua	epoch	2016-07-31
+365 Corduba	epoch	2016-07-31
+367 Amicitia	epoch	2016-07-31
+368 Haidea	epoch	2016-07-31
+362 Havnia	epoch	2016-07-31
+361 Bononia	epoch	2016-07-31
+369 Aëria	epoch	2016-07-31
+373 Melusina	epoch	2016-07-31
+370 Modestia	epoch	2016-07-31
+371 Bohemia	epoch	2016-07-31
+374 Burgundia	epoch	2016-07-31
+372 Palma	epoch	2016-07-31
+375 Ursula	epoch	2005-01-30
+377 Campania	epoch	2016-07-31
+376 Geometria	epoch	2016-07-31
+378 Holmia	epoch	2016-07-31
+379 Huenna	epoch	2016-07-31
+380 Fiducia	epoch	2016-07-31
+383 Janina	epoch	2016-07-31
+382 Dodona	epoch	2016-07-31
+384 Burdigala	epoch	2016-07-31
+387 Aquitania	epoch	2016-07-31
+385 Ilmatar	epoch	2016-07-31
+388 Charybdis	epoch	2016-07-31
+381 Myrrha	epoch	2016-07-31
+391 Ingeborg	epoch	2016-07-31
+395 Delia	epoch	2016-07-31
+394 Arduina	epoch	2016-07-31
+392 Wilhelmina	epoch	2016-07-31
+393 Lampetia	epoch	2016-07-31
+390 Alma	epoch	2016-07-31
+397 Vienna	epoch	2016-07-31
+396 Aeolia	epoch	2016-07-31
+389 Industria	epoch	2016-07-31
+386 Siegena	epoch	2016-07-31
+399 Persephone	epoch	2016-07-31
+398 Admete	epoch	2016-07-31
+400 Ducrosa	epoch	2016-07-31
+10979 Fristephenson	epoch	2016-01-13
+401 Ottilia	epoch	2016-07-31
+402 Chloë	epoch	2016-07-31
+403 Cyane	epoch	2016-07-31
+406 Erna	epoch	2016-07-31
+405 Thia	epoch	2016-07-31
+404 Arsinoë	epoch	2016-07-31
+407 Arachne	epoch	2016-07-31
+408 Fama	epoch	2016-07-31
+410 Chloris	epoch	2016-07-31
+412 Elisabetha	epoch	2016-07-31
+409 Aspasia	epoch	2016-07-31
+411 Xanthe	epoch	2016-07-31
+413 Edburga	epoch	2016-07-31
+417 Suevia	epoch	2016-07-31
+416 Vaticana	epoch	2016-07-31
+414 Liriope	epoch	2016-07-31
+415 Palatia	epoch	2016-07-31
+418 Alemannia	epoch	2016-07-31
+419 Aurelia	epoch	2016-07-31
+422 Berolina	epoch	2016-07-31
+424 Gratia	epoch	2016-07-31
+425 Cornelia	epoch	2016-07-31
+429 Lotis	epoch	2016-07-31
+420 Bertholda	epoch	2016-07-31
+423 Diotima	epoch	2016-07-31
+427 Galene	epoch	2016-07-31
+421 Zähringia	epoch	2016-07-31
+434 Hungaria	epoch	2016-07-31
+432 Pythia	epoch	2016-07-31
+437 Rhodia	epoch	2016-07-31
+430 Hybris	epoch	2016-07-31
+426 Hippo	epoch	2016-07-31
+435 Ella	epoch	2016-07-31
+428 Monachia	epoch	2016-07-31
+431 Nephele	epoch	2016-07-31
+439 Ohio	epoch	2016-07-31
+436 Patricia	epoch	2016-07-31
+440 Theodora	epoch	2016-07-31
+438 Zeuxo	epoch	2016-07-31
+441 Bathilde	epoch	2016-07-31
+443 Photographica	epoch	2016-07-31
+446 Aeternitas	epoch	2016-07-31
+444 Gyptis	epoch	2016-07-31
+450 Brigitta	epoch	2016-07-31
+442 Eichsfeldia	epoch	2016-07-31
+445 Edna	epoch	2016-07-31
+447 Valentine	epoch	2016-07-31
+449 Hamburga	epoch	2016-07-31
+448 Natalie	epoch	2016-07-31
+1578 Kirkwood	epoch	2016-07-31
+1992 Galvarino	epoch	2016-01-13
+34351 Decatur	epoch	2016-07-31
+945 Barcelona	epoch	2016-07-31
+501 Urhixidur	epoch	2016-07-31
+	epoch	2016-01-13
+2127 Tanya	epoch	2016-01-13
+36446 Cinodapistoia	epoch	2016-01-13
+3043 San Diego	epoch	2016-07-31
+7166 Kennedy	epoch	2016-01-13
+1685 Toro	epoch	2016-01-13
+Haumea	epoch	2014-12-09
+Makemake	epoch	JD 2457000.5
+	epoch	2016-01-13
+19521 Chaos	epoch	2016-01-13
+	epoch	2016-01-13
+1998 WW31	epoch	2016-01-13
+	epoch	2016-01-13
+38083 Rhadamanthus	epoch	2016-01-13
+53311 Deucalion	epoch	2016-01-13
+38628 Huya	epoch	2016-01-13
+2100 Ra-Shalom	epoch	2004-04-14
+	epoch	2016-01-13
+11264 Claudiomaccone	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+1108 Demeter	epoch	2016-07-31
+4581 Asclepius	epoch	2013-12-20
+385571 Otrera	epoch	2016-01-13
+2002 Euler	epoch	2016-01-13
+703 Noëmi	epoch	2016-07-31
+	epoch	2016-01-13
+617 Patroclus	epoch	2016-07-31
+11020 Orwell	epoch	2016-01-13
+2002 AT4	epoch	2016-01-13
+2000	epoch	2002-01-26
+	epoch	2005-10-24
+457 Alleghenia	epoch	2016-07-31
+463 Lola	epoch	2016-07-31
+459 Signe	epoch	2016-07-31
+451 Patientia	epoch	2016-07-31
+454 Mathesis	epoch	2016-07-31
+455 Bruchsalia	epoch	2016-07-31
+453 Tea	epoch	2016-07-31
+452 Hamiltonia	epoch	2016-07-31
+475 Ocllo	epoch	2016-07-31
+471 Papagena	epoch	2016-07-31
+469 Argentina	epoch	2016-07-31
+470 Kilia	epoch	2016-07-31
+466 Tisiphone	epoch	2016-07-31
+472 Roma	epoch	2016-07-31
+465 Alekto	epoch	2016-07-31
+473 Nolli	epoch	2016-07-31
+474 Prudentia	epoch	2016-07-31
+468 Lina	epoch	2016-07-31
+467 Laura	epoch	2016-07-31
+477 Italia	epoch	2016-07-31
+476 Hedwig	epoch	2016-07-31
+1761 Edmondson	epoch	2016-01-13
+4349 Tibúrcio	epoch	2016-07-31
+20461 Dioretsa	epoch	2016-07-31
+1743 Schmidt	epoch	2016-01-13
+479 Caprera	epoch	2016-07-31
+481 Emita	epoch	2016-07-31
+483 Seppina	epoch	2016-07-31
+482 Petrina	epoch	2016-07-31
+480 Hansa	epoch	2016-07-31
+485 Genua	epoch	2016-07-31
+484 Pittsburghia	epoch	2016-07-31
+478 Tergeste	epoch	2016-07-31
+489 Comacina	epoch	2016-07-31
+490 Veritas	epoch	2016-07-31
+486 Cremona	epoch	2016-07-31
+487 Venetia	epoch	2016-07-31
+488 Kreusa	epoch	2016-07-31
+491 Carina	epoch	2016-07-31
+492 Gismonda	epoch	2016-07-31
+498 Tokio	epoch	2016-07-31
+495 Eulalia	epoch	2016-07-31
+493 Griseldis	epoch	2016-07-31
+494 Virtus	epoch	2016-07-31
+496 Gryphia	epoch	2016-07-31
+500 Selinur	epoch	2016-07-31
+499 Venusia	epoch	2016-07-31
+502 Sigune	epoch	2016-07-31
+497 Iva	epoch	2016-07-31
+507 Laodica	epoch	2016-07-31
+503 Evelyn	epoch	2016-07-31
+508 Princetonia	epoch	2016-07-31
+513 Centesima	epoch	2016-07-31
+512 Taurinensis	epoch	2005-08-18
+509 Iolanda	epoch	2016-07-31
+506 Marion	epoch	2016-07-31
+505 Cava	epoch	2016-07-31
+520 Franziska	epoch	2016-07-31
+514 Armida	epoch	2016-07-31
+521 Brixia	epoch	2016-07-31
+517 Edith	epoch	2016-07-31
+515 Athalia	epoch	2016-07-31
+518 Halawe	epoch	2016-07-31
+522 Helga	epoch	2016-07-31
+510 Mabella	epoch	2016-07-31
+504 Cora	epoch	2016-07-31
+519 Sylvania	epoch	2016-07-31
+523 Ada	epoch	2016-07-31
+524 Fidelio	epoch	2016-07-31
+526 Jena	epoch	2016-07-31
+525 Adelaide	epoch	2016-07-31
+527 Euryanthe	epoch	2016-07-31
+537 Pauly	epoch	2016-07-31
+529 Preziosa	epoch	2016-07-31
+533 Sara	epoch	2016-07-31
+534 Nassovia	epoch	2016-07-31
+528 Rezia	epoch	2016-07-31
+531 Zerlina	epoch	2016-07-31
+530 Turandot	epoch	2016-07-31
+535 Montague	epoch	2016-07-31
+536 Merapi	epoch	2016-07-31
+539 Pamina	epoch	2016-07-31
+540 Rosamunde	epoch	2016-07-31
+538 Friederike	epoch	2016-07-31
+545 Messalina	epoch	2016-07-31
+541 Deborah	epoch	2016-07-31
+544 Jetta	epoch	2016-07-31
+542 Susanna	epoch	2016-07-31
+543 Charlotte	epoch	2016-07-31
+549 Jessonda	epoch	2016-07-31
+548 Kressida	epoch	2016-07-31
+547 Praxedis	epoch	2016-07-31
+550 Senta	epoch	2016-07-31
+546 Herodias	epoch	2016-07-31
+551 Ortrud	epoch	2016-07-31
+554 Peraga	epoch	2016-07-31
+552 Sigelinde	epoch	2016-07-31
+553 Kundry	epoch	2016-07-31
+555 Norma	epoch	2016-07-31
+556 Phyllis	epoch	2016-07-31
+557 Violetta	epoch	2016-07-31
+558 Carmen	epoch	2016-07-31
+559 Nanon	epoch	2016-07-31
+560 Delila	epoch	2016-07-31
+562 Salome	epoch	2016-07-31
+565 Marbachia	epoch	2016-07-31
+566 Stereoskopia	epoch	2016-07-31
+563 Suleika	epoch	2016-07-31
+567 Eleutheria	epoch	2016-07-31
+570 Kythera	epoch	2016-07-31
+569 Misa	epoch	2016-07-31
+575 Renate	epoch	2016-07-31
+571 Dulcinea	epoch	2016-07-31
+572 Rebekka	epoch	2016-07-31
+568 Cheruskia	epoch	2016-07-31
+574 Reginhild	epoch	2016-07-31
+577 Rhea	epoch	2016-07-31
+561 Ingwelde	epoch	2016-07-31
+573 Recha	epoch	2016-07-31
+579 Sidonia	epoch	2016-07-31
+576 Emanuela	epoch	2016-07-31
+581 Tauntonia	epoch	2016-07-31
+564 Dudu	epoch	2016-07-31
+578 Happelia	epoch	2016-07-31
+583 Klotilde	epoch	2016-07-31
+582 Olympia	epoch	2016-07-31
+585 Bilkis	epoch	2016-07-31
+580 Selene	epoch	2016-07-31
+587 Hypsipyle	epoch	2016-07-31
+584 Semiramis	epoch	2016-07-31
+586 Thekla	epoch	2016-07-31
+590 Tomyris	epoch	2016-07-31
+592 Bathseba	epoch	2016-07-31
+589 Croatia	epoch	2016-07-31
+594 Mireille	epoch	2016-07-31
+593 Titania	epoch	2016-07-31
+597 Bandusia	epoch	2016-07-31
+608 Adolfine	epoch	2016-07-31
+595 Polyxena	epoch	2016-07-31
+591 Irmgard	epoch	2016-07-31
+599 Luisa	epoch	2016-07-31
+604 Tekmessa	epoch	2016-07-31
+603 Timandra	epoch	2016-07-31
+609 Fulvia	epoch	2016-07-31
+601 Nerthus	epoch	2016-07-31
+600 Musa	epoch	2016-07-31
+596 Scheila	epoch	2016-07-31
+596 Scheila	epoch	T_jup = 3.209
+613 Ginevra	epoch	2016-07-31
+620 Drakonia	epoch	2016-07-31
+602 Marianna	epoch	2016-07-31
+611 Valeria	epoch	2016-07-31
+615 Roswitha	epoch	2016-07-31
+614 Pia	epoch	2016-07-31
+610 Valeska	epoch	2016-07-31
+612 Veronika	epoch	2016-07-31
+621 Werdandi	epoch	2016-07-31
+616 Elly	epoch	2016-07-31
+598 Octavia	epoch	2016-07-31
+625 Xenia	epoch	2016-07-31
+622 Esther	epoch	2016-07-31
+623 Chimaera	epoch	2016-07-31
+627 Charis	epoch	2016-07-31
+619 Triberga	epoch	2016-07-31
+605 Juvisia	epoch	2016-07-31
+618 Elfriede	epoch	2016-07-31
+607 Jenny	epoch	2016-07-31
+628 Christine	epoch	2016-07-31
+636 Erika	epoch	2016-07-31
+635 Vundtia	epoch	2016-07-31
+637 Chrysothemis	epoch	2016-07-31
+633 Zelima	epoch	2016-07-31
+631 Philippina	epoch	2016-07-31
+629 Bernardina	epoch	2016-07-31
+638 Moira	epoch	2016-07-31
+632 Pyrrha	epoch	2016-07-31
+626 Notburga	epoch	2016-07-31
+642 Clara	epoch	2016-07-31
+639 Latona	epoch	2016-07-31
+643 Scheherezade	epoch	2016-07-31
+630 Euphemia	epoch	2016-07-31
+640 Brambilla	epoch	2016-07-31
+644 Cosima	epoch	2016-07-31
+649 Josefa	epoch	2016-07-31
+650 Amalasuntha	epoch	2016-07-31
+648 Pippa	epoch	2016-07-31
+641 Agnes	epoch	2016-07-31
+646 Kastalia	epoch	2016-07-31
+634 Ute	epoch	2016-07-31
+645 Agrippina	epoch	2016-07-31
+656 Beagle	epoch	2016-07-31
+652 Jubilatrix	epoch	2016-07-31
+658 Asteria	epoch	2016-07-31
+661 Cloelia	epoch	2016-07-31
+662 Newtonia	epoch	2016-07-31
+647 Adelgunde	epoch	2016-07-31
+651 Antikleia	epoch	2008-11-30
+653 Berenike	epoch	2016-07-31
+660 Crescentia	epoch	2016-07-31
+654 Zelinda	epoch	2016-07-31
+657 Gunlöd	epoch	2016-07-31
+663 Gerlinde	epoch	2016-07-31
+669 Kypria	epoch	2016-07-31
+668 Dora	epoch	2016-07-31
+671 Carnegia	epoch	2016-07-31
+673 Edda	epoch	2016-07-31
+664 Judith	epoch	2016-07-31
+674 Rachele	epoch	2016-07-31
+672 Astarte	epoch	2016-07-31
+667 Denise	epoch	2016-07-31
+665 Sabine	epoch	2016-07-31
+677 Aaltje	epoch	2016-07-31
+675 Ludmilla	epoch	2016-07-31
+666 Desdemona	epoch	2016-07-31
+676 Melitta	epoch	2016-07-31
+681 Gorgo	epoch	2016-07-31
+684 Hildburg	epoch	2016-07-31
+679 Pax	epoch	2016-07-31
+686 Gersuind	epoch	2016-07-31
+678 Fredegundis	epoch	2016-07-31
+683 Lanzia	epoch	2016-07-31
+685 Hermia	epoch	2016-07-31
+680 Genoveva	epoch	2016-07-31
+682 Hagar	epoch	2016-07-31
+689 Zita	epoch	2016-07-31
+687 Tinette	epoch	2016-07-31
+688 Melanie	epoch	2016-07-31
+691 Lehigh	epoch	2016-07-31
+694 Ekard	epoch	2016-07-31
+697 Galilea	epoch	2016-07-31
+696 Leonora	epoch	2016-07-31
+695 Bella	epoch	2016-07-31
+690 Wratislavia	epoch	2016-07-31
+693 Zerbinetta	epoch	2016-01-13
+692 Hippodamia	epoch	2016-07-31
+698 Ernestina	epoch	2016-07-31
+699 Hela	epoch	2016-07-31
+670 Ottegebe	epoch	2016-07-31
+700 Auravictrix	epoch	2016-07-31
+659 Nestor	epoch	2016-07-31
+606 Brangäne	epoch	2016-07-31
+701 Oriola	epoch	2016-07-31
+737 Arequipa	epoch	2016-07-31
+749 Malzovia	epoch	2016-07-31
+748 Simeïsa	epoch	2016-07-31
+747 Winchester	epoch	2016-07-31
+744 Aguntina	epoch	2016-07-31
+741 Botolphia	epoch	2016-07-31
+746 Marlu	epoch	2016-07-31
+745 Mauritia	epoch	2016-07-31
+743 Eugenisis	epoch	2016-07-31
+734 Benda	epoch	2016-07-31
+739 Mandeville	epoch	2016-07-31
+735 Marghanna	epoch	2016-07-31
+742 Edisona	epoch	2016-07-31
+740 Cantabia	epoch	2016-07-31
+733 Mocia	epoch	2016-07-31
+730 Athanasia	epoch	2016-07-31
+736 Harvard	epoch	2016-07-31
+738 Alagasta	epoch	2016-07-31
+729 Watsonia	epoch	2016-07-31
+728 Leonisis	epoch	2016-07-31
+732 Tjilaki	epoch	2016-07-31
+727 Nipponia	epoch	2016-07-31
+731 Sorga	epoch	2016-07-31
+724 Hapag	epoch	2016-07-31
+726 Joëlla	epoch	2016-07-31
+720 Bohlinia	epoch	2016-07-31
+723 Hammonia	epoch	2016-07-31
+721 Tabora	epoch	2016-07-31
+718 Erida	epoch	2016-07-31
+722 Frieda	epoch	2016-07-31
+712 Boliviana	epoch	2016-07-31
+713 Luscinia	epoch	2016-07-31
+717 Wisibada	epoch	2016-07-31
+714 Ulula	epoch	2016-07-31
+710 Gertrud	epoch	2016-07-31
+715 Transvaalia	epoch	2016-07-31
+716 Berkeley	epoch	2016-07-31
+711 Marmulla	epoch	2016-07-31
+709 Fringilla	epoch	2016-07-31
+705 Erminia	epoch	2016-07-31
+708 Raphaela	epoch	2016-07-31
+707 Steina	epoch	2016-07-31
+702 Alauda	epoch	2016-07-31
+706 Hirundo	epoch	2016-07-31
+725 Amanda	epoch	2016-07-31
+752 Sulamitis	epoch	2016-07-31
+751 Faïna	epoch	2016-07-31
+750 Oskar	epoch	2016-07-31
+797 Montana	epoch	2016-07-31
+800 Kressmannia	epoch	2016-07-31
+784 Pickeringia	epoch	2016-07-31
+799 Gudula	epoch	2016-07-31
+790 Pretoria	epoch	2016-07-31
+793 Arizona	epoch	2016-07-31
+795 Fini	epoch	2016-07-31
+794 Irenaea	epoch	2016-07-31
+798 Ruth	epoch	2016-07-31
+773 Irmintraud	epoch	2016-07-31
+783 Nora	epoch	2016-07-31
+796 Sarita	epoch	2016-07-31
+788 Hohensteina	epoch	2016-07-31
+789 Lena	epoch	2016-07-31
+792 Metcalfia	epoch	2016-07-31
+791 Ani	epoch	2016-07-31
+771 Libera	epoch	2016-07-31
+786 Bredichina	epoch	2016-07-31
+787 Moskva	epoch	2016-07-31
+776 Berbericia	epoch	2016-07-31
+785 Zwetana	epoch	2016-07-31
+779 Nina	epoch	2016-07-31
+778 Theobalda	epoch	2016-07-31
+781 Kartvelia	epoch	2016-07-31
+777 Gutemberga	epoch	2016-07-31
+780 Armenia	epoch	2016-07-31
+769 Tatjana	epoch	2016-07-31
+774 Armor	epoch	2016-07-31
+775 Lumière	epoch	2016-07-31
+782 Montefiore	epoch	2016-07-31
+770 Bali	epoch	2016-07-31
+772 Tanete	epoch	2016-07-31
+763 Cupido	epoch	2016-07-31
+765 Mattiaca	epoch	2016-07-31
+760 Massinga	epoch	2016-07-31
+767 Bondia	epoch	2016-07-31
+766 Moguntia	epoch	2016-07-31
+756 Lilliana	epoch	2016-07-31
+764 Gedania	epoch	2016-07-31
+768 Struveana	epoch	2016-07-31
+755 Quintilla	epoch	2016-07-31
+761 Brendelia	epoch	2016-07-31
+753 Tiflis	epoch	2016-07-31
+757 Portlandia	epoch	2016-07-31
+754 Malabar	epoch	2016-07-31
+759 Vinifera	epoch	2016-07-31
+758 Mancunia	epoch	2016-07-31
+805 Hormuthia	epoch	2016-07-31
+807 Ceraskia	epoch	2016-07-31
+803 Picka	epoch	2016-07-31
+801 Helwerthia	epoch	2016-07-31
+804 Hispania	epoch	2016-07-31
+802 Epyaxa	epoch	2016-07-31
+806 Gyldénia	epoch	2016-07-31
+813 Baumeia	epoch	2016-07-31
+811 Nauheima	epoch	2016-07-31
+810 Atossa	epoch	2016-07-31
+808 Merxia	epoch	2016-07-31
+821 Fanny	epoch	2016-07-31
+819 Barnardiana	epoch	2016-07-31
+814 Tauris	epoch	2016-07-31
+815 Coppelia	epoch	2016-07-31
+816 Juliana	epoch	2016-07-31
+826 Henrika	epoch	2016-07-31
+827 Wolfiana	epoch	2016-07-31
+825 Tanina	epoch	2016-07-31
+809 Lundia	epoch	2016-07-31
+817 Annika	epoch	2016-07-31
+822 Lalage	epoch	2016-07-31
+818 Kapteynia	epoch	2016-07-31
+823 Sisigambis	epoch	2016-07-31
+820 Adriana	epoch	2016-07-31
+835 Olivia	epoch	2016-07-31
+828 Lindemannia	epoch	2016-07-31
+830 Petropolitana	epoch	2016-07-31
+831 Stateira	epoch	2016-07-31
+833 Monica	epoch	2016-07-31
+834 Burnhamia	epoch	2016-07-31
+832 Karin	epoch	2016-07-31
+838 Seraphina	epoch	2016-07-31
+836 Jole	epoch	2016-07-31
+837 Schwarzschilda	epoch	2016-07-31
+842 Kerstin	epoch	2016-07-31
+839 Valborg	epoch	2016-07-31
+843 Nicolaia	epoch	2016-07-31
+840 Zenobia	epoch	2016-07-31
+841 Arabella	epoch	2016-07-31
+846 Lipperta	epoch	2016-07-31
+848 Inna	epoch	2016-07-31
+850 Altona	epoch	2016-07-31
+847 Agnia	epoch	2016-07-31
+853 Nansenia	epoch	2016-07-31
+852 Wladilena	epoch	2016-07-31
+849 Ara	epoch	2016-07-31
+844 Leontina	epoch	2016-07-31
+851 Zeissia	epoch	2016-07-31
+856 Backlunda	epoch	2016-07-31
+859 Bouzaréah	epoch	2016-07-31
+862 Franzia	epoch	2016-07-31
+857 Glasenappia	epoch	2016-07-31
+858 El Djezaïr	epoch	2016-07-31
+860 Ursina	epoch	2016-07-31
+855 Newcombia	epoch	2016-07-31
+865 Zubaida	epoch	2016-07-31
+864 Aase	epoch	2016-07-31
+866 Fatme	epoch	2016-07-31
+863 Benkoela	epoch	2016-07-31
+868 Lova	epoch	2016-07-31
+869 Mellena	epoch	2016-07-31
+871 Amneris	epoch	2016-07-31
+874 Rotraut	epoch	2016-07-31
+876 Scott	epoch	2016-07-31
+854 Frostia	epoch	2016-07-31
+872 Holda	epoch	2016-07-31
+873 Mechthild	epoch	2016-07-31
+870 Manto	epoch	2016-07-31
+867 Kovacia	epoch	2016-07-31
+875 Nymphe	epoch	2016-07-31
+877 Walküre	epoch	2016-07-31
+878 Mildred	epoch	2016-07-31
+879 Ricarda	epoch	2016-07-31
+880 Herba	epoch	2016-07-31
+904 Rockefellia	epoch	2016-07-31
+909 Ulla	epoch	2016-07-31
+903 Nealley	epoch	2016-07-31
+906 Repsolda	epoch	2016-07-31
+901 Brunsia	epoch	2016-07-31
+905 Universitas	epoch	2016-07-31
+907 Rhoda	epoch	2016-07-31
+895 Helio	epoch	2016-07-31
+902 Probitas	epoch	2016-07-31
+898 Hildegard	epoch	2016-07-31
+845 Naëma	epoch	2016-07-31
+908 Buda	epoch	2016-07-31
+897 Lysistrata	epoch	2016-07-31
+829 Academia	epoch	2016-07-31
+887 Alinda	epoch	2016-07-31
+894 Erda	epoch	2016-07-31
+892 Seeligeria	epoch	2016-07-31
+890 Waltraut	epoch	2016-07-31
+899 Jokaste	epoch	2016-07-31
+900 Rosalinde	epoch	2016-07-31
+886 Washingtonia	epoch	2016-07-31
+812 Adele	epoch	2016-07-31
+891 Gunhild	epoch	2016-07-31
+888 Parysatis	epoch	2016-07-31
+893 Leopoldina	epoch	2016-07-31
+883 Matterania	epoch	2016-07-31
+884 Priamus	epoch	2016-07-31
+889 Erynia	epoch	2016-07-31
+885 Ulrike	epoch	2016-07-31
+824 Anastasia	epoch	2016-07-31
+911 Agamemnon	epoch	2016-07-31
+882 Swetlana	epoch	2016-07-31
+881 Athene	epoch	2016-07-31
+910 Anneliese	epoch	2016-07-31
+916 America	epoch	2016-07-31
+913 Otila	epoch	2016-07-31
+917 Lyka	epoch	2016-07-31
+915 Cosette	epoch	2016-07-31
+922 Schlutia	epoch	2016-07-31
+918 Itha	epoch	2016-07-31
+896 Sphinx	epoch	2016-07-31
+919 Ilsebill	epoch	2016-07-31
+928 Hildrun	epoch	2016-07-31
+930 Westphalia	epoch	2016-07-31
+920 Rogeria	epoch	2016-07-31
+921 Jovita	epoch	2016-07-31
+912 Maritima	epoch	2016-07-31
+923 Herluga	epoch	2016-07-31
+929 Algunde	epoch	2016-07-31
+927 Ratisbona	epoch	2016-07-31
+926 Imhilde	epoch	2016-07-31
+931 Whittemora	epoch	2016-07-31
+924 Toni	epoch	2016-07-31
+914 Palisana	epoch	2016-07-31
+932 Hooveria	epoch	2016-07-31
+937 Bethgea	epoch	2016-07-31
+938 Chlosinde	epoch	2016-07-31
+935 Clivia	epoch	2016-07-31
+940 Kordula	epoch	2016-07-31
+936 Kunigunde	epoch	2016-07-31
+939 Isberga	epoch	2016-07-31
+942 Romilda	epoch	2016-07-31
+943 Begonia	epoch	2016-07-31
+948 Jucunda	epoch	2016-07-31
+933 Susi	epoch	2016-07-31
+947 Monterosa	epoch	2016-07-31
+925 Alphonsina	epoch	2016-07-31
+949 Hel	epoch	2016-07-31
+941 Murray	epoch	2016-07-31
+946 Poësia	epoch	2016-07-31
+950 Ahrensa	epoch	2016-07-31
+954 Li	epoch	2016-07-31
+955 Alstede	epoch	2016-07-31
+953 Painleva	epoch	2016-07-31
+960 Birgit	epoch	2016-07-31
+958 Asplinda	epoch	2016-07-31
+961 Gunnie	epoch	2016-07-31
+956 Elisa	epoch	2016-07-31
+957 Camelia	epoch	2016-07-31
+964 Subamara	epoch	2016-07-31
+970 Primula	epoch	2016-07-31
+966 Muschi	epoch	2016-07-31
+968 Petunia	epoch	2016-07-31
+969 Leocadia	epoch	2016-07-31
+952 Caia	epoch	2016-07-31
+972 Cohnia	epoch	2016-07-31
+977 Philippa	epoch	2016-07-31
+963 Iduberga	epoch	2016-07-31
+967 Helionape	epoch	2016-07-31
+974 Lioba	epoch	2016-07-31
+976 Benjamina	epoch	2016-07-31
+973 Aralia	epoch	2016-07-31
+975 Perseverantia	epoch	2016-07-31
+959 Arne	epoch	2016-07-31
+979 Ilsewa	epoch	2016-07-31
+980 Anacostia	epoch	2016-07-31
+965 Angelica	epoch	2016-07-31
+987 Wallia	epoch	2016-07-31
+986 Amelia	epoch	2016-07-31
+982 Franklina	epoch	2016-07-31
+985 Rosina	epoch	2016-07-31
+981 Martina	epoch	2016-07-31
+993 Moultona	epoch	2016-07-31
+992 Swasey	epoch	2016-07-31
+996 Hilaritas	epoch	2016-07-31
+983 Gunila	epoch	2016-07-31
+971 Alsatia	epoch	2016-07-31
+984 Gretia	epoch	2016-07-31
+997 Priska	epoch	2016-07-31
+994 Otthild	epoch	2016-07-31
+995 Sternberga	epoch	2016-07-31
+998 Bodea	epoch	2016-07-31
+991 McDonalda	epoch	2016-07-31
+990 Yerkes	epoch	2016-07-31
+978 Aidamina	epoch	2016-07-31
+989 Schwassmannia	epoch	2016-07-31
+999 Zachia	epoch	2016-07-31
+962 Aslög	epoch	2016-07-31
+1000 Piazzia	epoch	2016-07-31
+934 Thüringia	epoch	2016-07-31
+1958 Chandra	epoch	2016-07-31
+46610 Bésixdouze	epoch	2016-01-13
+1089 Tama	epoch	2016-07-31
+1313 Berna	epoch	2016-07-31
+3529 Dowling	epoch	2016-01-13
+	epoch	2016-01-13
+2005 TN74	epoch	2016-01-13
+2005 TN53	epoch	2016-01-13
+3749 Balam	epoch	2016-01-13
+1866 Sisyphus	epoch	2016-01-13
+8991 Solidarity	epoch	2016-07-31
+8992 Magnanimity	epoch	2016-07-31
+19367 Pink Floyd	epoch	2016-01-13
+1627 Ivar	epoch	2016-01-13
+1657 Roemera	epoch	2016-01-13
+2009 Voloshina	epoch	2016-01-13
+3360 Syrinx	epoch	2016-01-13
+2004 XR190	epoch	2016-01-13
+2002 VE68	epoch	2016-01-13
+5335 Damocles	epoch	2016-01-13
+1863 Antinous	epoch	2016-01-13
+1865 Cerberus	epoch	2016-01-13
+	epoch	2016-01-13
+1130 Skuld	epoch	2016-07-31
+3551 Verenia	epoch	2016-01-13
+1834 Palach	epoch	2016-01-13
+1840 Hus	epoch	2016-01-13
+30564 Olomouc	epoch	2016-01-13
+7796 Járacimrman	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+7066 Nessus	epoch	2016-07-31
+10199 Chariklo	epoch	2016-01-13
+9617 Grahamchapman	epoch	2016-07-31
+110393 Rammstein	epoch	2016-01-13
+10370 Hylonome	epoch	2016-07-31
+21751 Jennytaylor	epoch	2016-01-13
+60558 Echeclus	epoch	2016-01-13
+	epoch	2016-01-13
+5264 Telephus	epoch	2016-07-31
+2099 Öpik	epoch	2016-07-31
+54598 Bienor	epoch	2016-01-13
+1001 Gaussia	epoch	2016-07-31
+2730 Barks	epoch	2016-01-13
+Namaka	epoch	JD 2454615.0
+1322 Coppernicus	epoch	2016-01-13
+2202 Pele	epoch	2016-01-13
+6267 Rozhen	epoch	2016-07-31
+2644 Victor Jara	epoch	2016-01-13
+113390 Helvetia	epoch	2016-01-13
+100268 Rosenthal	epoch	2016-01-13
+99906 Uofalberta	epoch	2016-01-13
+Ceres	epoch	2014
+132524 APL	epoch	2016-01-13
+1002 Olbersia	epoch	2016-07-31
+58534 Logos	epoch	2016-01-13
+2000 Herschel	epoch	2016-01-13
+1998 Titius	epoch	2016-01-13
+1997 Leverrier	epoch	2016-01-13
+1999 Hirayama	epoch	2016-01-13
+2004 XP14	epoch	2016-01-13
+1575 Winifred	epoch	2016-01-13
+1602 Indiana	epoch	2016-01-13
+1721 Wells	epoch	2016-01-13
+1615 Bardwell	epoch	2016-07-31
+1729 Beryl	epoch	2016-01-13
+1728 Goethe Link	epoch	2016-01-13
+1762 Russell	epoch	2016-01-13
+1741 Giclas	epoch	2016-01-13
+1746 Brouwer	epoch	2016-01-13
+1763 Williams	epoch	2016-01-13
+1751 Herget	epoch	2016-01-13
+1766 Slipher	epoch	2016-01-13
+1764 Cogshall	epoch	2016-01-13
+1765 Wrubel	epoch	2016-01-13
+1767 Lampland	epoch	2016-01-13
+1788 Kiess	epoch	2016-01-13
+1799 Koussevitzky	epoch	2016-01-13
+1822 Waterman	epoch	2016-01-13
+1798 Watts	epoch	2016-01-13
+1824 Haworth	epoch	2016-01-13
+1827 Atkinson	epoch	2016-01-13
+1826 Miller	epoch	2016-01-13
+1953 Rupertwildt	epoch	2016-07-31
+1852 Carpenter	epoch	2016-01-13
+1971 Hagihara	epoch	2016-07-31
+1988 Delores	epoch	2016-01-13
+1952 Hesburgh	epoch	2016-01-13
+2024 McLaughlin	epoch	2016-01-13
+1996 Adams	epoch	2016-01-13
+1853 McElroy	epoch	2016-01-13
+1994 Shane	epoch	2016-01-13
+2007 McCuskey	epoch	2016-01-13
+2023 Asaph	epoch	2016-01-13
+1955 McMath	epoch	2016-07-31
+77185 Cherryh	epoch	2016-01-13
+2059 Baboquivari	epoch	2016-01-13
+2227 Otto Struve	epoch	2016-01-13
+2065 Spicer	epoch	2016-01-13
+1143 Odysseus	epoch	2016-01-13
+8371 Goven	epoch	2016-01-13
+12373 Lancearmstrong	epoch	2016-07-31
+12374 Rakhat	epoch	2016-07-31
+1005 Arago	epoch	2016-07-31
+1004 Belopolskya	epoch	2016-07-31
+1003 Lilofee	epoch	2016-07-31
+1007 Pawlowia	epoch	2016-07-31
+1006 Lagrangea	epoch	2016-07-31
+Eris	epoch	2014-12-09
+4276 Clifford	epoch	2016-01-13
+1008 La Paz	epoch	2016-07-31
+1993 RP	epoch	1993-09-16
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+1009 Sirene	epoch	2016-07-31
+1010 Marlene	epoch	2016-07-31
+1011 Laodamia	epoch	2016-07-31
+1012 Sarema	epoch	2016-07-31
+1013 Tombecka	epoch	2016-07-31
+1014 Semphyra	epoch	2016-07-31
+1388 Aphrodite	epoch	2016-07-31
+1017 Jacqueline	epoch	2016-07-31
+1018 Arnolda	epoch	2016-07-31
+1019 Strackea	epoch	2016-07-31
+1020 Arcadia	epoch	2016-07-31
+1035 Amata	epoch	2016-07-31
+1015 Christa	epoch	2016-07-31
+1016 Anitra	epoch	2016-07-31
+1022 Olympiada	epoch	2016-07-31
+1021 Flammario	epoch	2016-07-31
+1024 Hale	epoch	2016-07-31
+1053 Vigdis	epoch	2016-07-31
+1073 Gellivara	epoch	2016-01-13
+1038 Tuckia	epoch	2016-07-31
+1134 Kepler	epoch	2016-07-31
+1069 Planckia	epoch	2016-07-31
+1039 Sonneberga	epoch	2016-07-31
+1169 Alwine	epoch	2016-07-31
+1141 Bohmia	epoch	2016-07-31
+1179 Mally	epoch	2016-07-31
+1214 Richilde	epoch	2016-07-31
+1219 Britta	epoch	2016-07-31
+1203 Nanna	epoch	2016-07-31
+3671 Dionysus	epoch	2016-01-13
+5381 Sekhmet	epoch	2015-06-27
+2006 Polonskaya	epoch	2016-01-13
+1042 Amazone	epoch	2016-07-31
+1040 Klumpkea	epoch	2016-07-31
+1031 Arctica	epoch	2016-07-31
+1041 Asta	epoch	2016-07-31
+1030 Vitja	epoch	2016-07-31
+1032 Pafuri	epoch	2016-07-31
+1029 La Plata	epoch	2016-07-31
+1027 Aesculapia	epoch	2016-07-31
+1028 Lydina	epoch	2016-07-31
+1026 Ingrid	epoch	2016-07-31
+4492 Debussy	epoch	2016-01-13
+1045 Michela	epoch	J2000
+1047 Geisha	epoch	2016-07-31
+1046 Edwin	epoch	2016-07-31
+1048 Feodosia	epoch	2016-07-31
+1050 Meta	epoch	2016-07-31
+1051 Merope	epoch	2016-07-31
+1052 Belgica	epoch	2016-07-31
+3782 Celle	epoch	2016-01-13
+1181 Lilith	epoch	2016-07-31
+	epoch	2016-01-13
+4674 Pauling	epoch	2016-07-31
+3204 Lindgren	epoch	2016-01-13
+51825 Davidbrown	epoch	2016-01-13
+51823 Rickhusband	epoch	2016-01-13
+51824 Mikeanderson	epoch	2016-01-13
+51827 Laurelclark	epoch	2016-01-13
+51828 Ilanramon	epoch	2016-01-13
+51829 Williemccool	epoch	2016-01-13
+2114 Wallenquist	epoch	2016-07-31
+118401 LINEAR	epoch	2016-01-13
+118401 LINEAR	epoch	T_jup = 3.166
+3103 Eger	epoch	2016-01-13
+5011 Ptah	epoch	2016-07-31
+	epoch	2016-01-13
+1054 Forsytia	epoch	2016-01-13
+	epoch	2016-01-13
+2340 Hathor	epoch	2004-08-11
+4354 Euclides	epoch	2016-01-13
+	epoch	2016-01-13
+1116 Catriona	epoch	2016-07-31
+1365 Henyey	epoch	2016-07-31
+1661 Granule	epoch	2016-01-13
+1514 Ricouxa	epoch	2016-07-31
+1703 Barry	epoch	2016-01-13
+1967 Menzel	epoch	2016-07-31
+4150 Starr	epoch	2016-07-31
+1056 Azalea	epoch	2016-07-31
+1462 Zamenhof	epoch	2016-07-31
+1058 Grubba	epoch	2016-01-13
+1057 Wanda	epoch	2016-01-13
+1059 Mussorgskia	epoch	2016-01-13
+1060 Magnolia	epoch	2016-01-13
+1061 Paeonia	epoch	2016-01-13
+1062 Ljuba	epoch	2016-01-13
+1063 Aquilegia	epoch	2016-01-13
+1064 Aethusa	epoch	2016-07-31
+1065 Amundsenia	epoch	2016-01-13
+1066 Lobelia	epoch	2016-01-13
+1067 Lunaria	epoch	2016-01-13
+1068 Nofretete	epoch	2016-01-13
+1070 Tunica	epoch	2016-01-13
+1071 Brita	epoch	2016-01-13
+1072 Malva	epoch	2016-01-13
+1076 Viola	epoch	2016-01-13
+1075 Helina	epoch	2016-01-13
+1074 Beljawskya	epoch	2016-07-31
+1077 Campanula	epoch	2016-07-31
+1085 Amaryllis	epoch	2016-01-13
+1083 Salvia	epoch	2016-01-13
+1084 Tamariwa	epoch	2016-01-13
+1081 Reseda	epoch	2016-01-13
+1082 Pirola	epoch	2016-01-13
+1080 Orchis	epoch	2016-01-13
+1079 Mimosa	epoch	2016-01-13
+1078 Mentha	epoch	2016-01-13
+1086 Nata	epoch	2016-01-13
+1087 Arabis	epoch	2016-01-13
+1088 Mitaka	epoch	2016-01-13
+1091 Spiraea	epoch	2016-01-13
+1092 Lilium	epoch	2016-07-31
+1093 Freda	epoch	2016-01-13
+1094 Siberia	epoch	2016-01-13
+1095 Tulipa	epoch	2016-01-13
+3596 Meriones	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+79360 Sila–Nunam	epoch	2016-01-13
+174567 Varda	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+52872 Okyrhoe	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+6433 Enya	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+1997 SZ10	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-01-13
+1096 Reunerta	epoch	2016-01-13
+	epoch	2016-07-31
+3054 Strugatskia	epoch	2016-01-13
+1101 Clematis	epoch	2016-07-31
+1099 Figneria	epoch	2016-01-13
+1100 Arnica	epoch	2016-07-31
+1097 Vicia	epoch	2016-01-13
+120347 Salacia	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+42355 Typhon	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+2006 RJ103	epoch	2016-01-13
+6980 Kyusakamoto	epoch	2016-07-31
+1142 Aetolia	epoch	2016-07-31
+2244 Tesla	epoch	2016-01-13
+1809 Prometheus	epoch	2016-01-13
+	epoch	2016-01-13
+2007 CA19	epoch	2016-01-13
+9941 Iguanodon	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+13070 Seanconnery	epoch	2016-07-31
+	epoch	2016-01-13
+1102 Pepita	epoch	2016-07-31
+2006 QH181	epoch	2016-01-13
+1675 Simonida	epoch	2016-01-13
+1517 Beograd	epoch	2016-07-31
+1550 Tito	epoch	2016-07-31
+1554 Yugoslavia	epoch	2016-07-31
+1564 Srbija	epoch	2016-07-31
+2348 Michkovitch	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-01-13
+6235 Burney	epoch	2016-01-13
+10252 Heidigraf	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+Tarqeq	epoch	2007
+2002 MN	epoch	2016-01-13
+4954 Eric	epoch	2016-01-13
+2006 RH120	epoch	2007-01-15
+1223 Neckar	epoch	2016-07-31
+57424 Caelumnoctu	epoch	2016-01-13
+1103 Sequoia	epoch	2016-01-13
+10000 Myriostos	epoch	2016-01-13
+9902 Kirkpatrick	epoch	2016-01-13
+9903 Leonhardt	epoch	2016-01-13
+3673 Levy	epoch	2015-06-27
+1104 Syringa	epoch	2016-07-31
+88611 Teharonhiawako	epoch	2016-01-13
+9965 GNU	epoch	2016-01-13
+1740 Paavo Nurmi	epoch	2016-01-13
+1105 Fragaria	epoch	2016-07-31
+1995 GJ	epoch	1995-04-04
+1135 Colchis	epoch	2016-07-31
+6344 P-L	epoch	2016-01-13
+7307 Takei	epoch	2016-01-13
+1106 Cydonia	epoch	2016-07-31
+1107 Lictoria	epoch	2016-07-31
+1109 Tata	epoch	2016-07-31
+1110 Jaroslawa	epoch	2016-07-31
+1111 Reinmuthia	epoch	2016-07-31
+1112 Polonia	epoch	2016-07-31
+1113 Katja	epoch	2016-07-31
+1114 Lorraine	epoch	2016-07-31
+1115 Sabauda	epoch	2016-07-31
+1117 Reginita	epoch	2016-07-31
+1118 Hanskya	epoch	2016-07-31
+1119 Euboea	epoch	2016-07-31
+1120 Cannonia	epoch	2016-07-31
+1121 Natascha	epoch	2016-07-31
+1122 Neith	epoch	2016-07-31
+4149 Harrison	epoch	2016-07-31
+	epoch	2016-07-31
+3757 Anagolay	epoch	2016-07-31
+3988 Huma	epoch	2016-07-31
+4034 Vishnu	epoch	2011-01-26
+	epoch	2016-07-31
+1123 Shapleya	epoch	2016-07-31
+1127 Mimi	epoch	2016-07-31
+1125 China	epoch	2016-07-31
+1124 Stroobantia	epoch	2016-07-31
+1128 Astrid	epoch	2016-07-31
+1126 Otero	epoch	2016-07-31
+1129 Neujmina	epoch	2016-07-31
+1133 Lugduna	epoch	2016-07-31
+1137 Raïssa	epoch	2016-07-31
+1138 Attica	epoch	2016-07-31
+1131 Porzia	epoch	2016-07-31
+1132 Hollandia	epoch	2016-07-31
+1136 Mercedes	epoch	2016-07-31
+1167 Dubiago	epoch	2016-07-31
+1158 Luda	epoch	2016-07-31
+1163 Saga	epoch	2016-07-31
+1165 Imprinetta	epoch	2016-07-31
+1166 Sakuntala	epoch	2016-07-31
+1161 Thessalia	epoch	2016-07-31
+1162 Larissa	epoch	2016-07-31
+1160 Illyria	epoch	2016-07-31
+1164 Kobolda	epoch	2016-07-31
+1148 Rarahu	epoch	2016-07-31
+1139 Atami	epoch	2016-07-31
+1150 Achaia	epoch	2016-07-31
+1146 Biarmia	epoch	2016-07-31
+1151 Ithaka	epoch	2016-07-31
+1153 Wallenbergia	epoch	2016-07-31
+1152 Pawona	epoch	2016-07-31
+1154 Astronomia	epoch	2016-07-31
+1156 Kira	epoch	2016-07-31
+1155 Aënna	epoch	2016-07-31
+1159 Granada	epoch	2016-07-31
+1140 Crimea	epoch	2016-07-31
+1144 Oda	epoch	2016-07-31
+1145 Robelmonte	epoch	2016-07-31
+1147 Stavropolis	epoch	2016-07-31
+1168 Brandia	epoch	2016-07-31
+5318 Dientzenhofer	epoch	2016-01-13
+3362 Khufu	epoch	2016-01-13
+	epoch	2016-01-13
+2007 NC7	epoch	2016-01-13
+7317 Cabot	epoch	2016-01-13
+2997 Cabrera	epoch	2016-01-13
+9934 Caccioppoli	epoch	2016-01-13
+7092 Cadmus	epoch	2016-01-13
+3225 Hoag	epoch	2016-01-13
+6377 Cagney	epoch	2016-07-31
+4587 Rees	epoch	2016-01-13
+7167 Laupheim	epoch	2016-01-13
+Mars	epoch	J2000
+12359 Cajigal	epoch	2016-07-31
+10001 Palermo	epoch	2016-01-13
+9999 Wiles	epoch	2016-01-13
+9998 ISO	epoch	2016-01-13
+9996 ANS	epoch	2016-01-13
+9995 Alouette	epoch	2016-01-13
+2007 VK184	epoch	2014
+9994 Grotius	epoch	2016-01-13
+2007 WD5	epoch	2016-01-13
+	epoch	2016-07-31
+9991 Anežka	epoch	2016-07-31
+8967 Calandra	epoch	2016-07-31
+9986 Hirokun	epoch	2016-01-13
+1404 Ajax	epoch	2016-07-31
+1437 Diomedes	epoch	2016-07-31
+1647 Menelaus	epoch	2016-01-13
+1749 Telamon	epoch	2016-01-13
+1583 Antilochus	epoch	2016-01-13
+1869 Philoctetes	epoch	2016-01-13
+1868 Thersites	epoch	2016-07-31
+2146 Stentor	epoch	2016-01-13
+2148 Epeios	epoch	2016-01-13
+9983 Rickfienberg	epoch	2016-07-31
+2456 Palamedes	epoch	2016-01-13
+2260 Neoptolemus	epoch	2016-01-13
+2759 Idomeneus	epoch	2016-01-13
+2920 Automedon	epoch	2016-01-13
+2797 Teucer	epoch	2016-01-13
+3063 Makhaon	epoch	2016-01-13
+3391 Sinon	epoch	2016-01-13
+3540 Protesilaos	epoch	2016-07-31
+3548 Eurybates	epoch	2016-01-13
+3564 Talthybius	epoch	2016-01-13
+3709 Polypoites	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-01-13
+19738 Calinger	epoch	2016-01-13
+9972 Minoruoda	epoch	2016-01-13
+9971 Ishihara	epoch	2016-01-13
+19741 Callahan	epoch	2016-07-31
+9968 Serpe	epoch	2016-01-13
+	epoch	2016-01-13
+2542 Calpurnia	epoch	2016-01-13
+2906 Caltech	epoch	2016-01-13
+9963 Sandage	epoch	2016-07-31
+9964 Hideyonoguchi	epoch	2007-10-27
+9962 Pfau	epoch	2016-01-13
+1245 Calvinia	epoch	2016-07-31
+5653 Camarillo	epoch	2016-07-31
+2531 Cambridge	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+9957 Raffaellosanti	epoch	2016-01-13
+	epoch	2016-01-13
+9954 Brachiosaurus	epoch	2016-01-13
+2980 Cameron	epoch	2016-01-13
+	epoch	2016-01-13
+9951 Tyrannosaurus	epoch	2016-01-13
+9950 ESA	epoch	2016-01-13
+9949 Brontosaurus	epoch	2016-01-13
+	epoch	2016-01-13
+9947 Takaishuji	epoch	2016-01-13
+3752 Camillo	epoch	2016-01-13
+5160 Camoes	epoch	2016-07-31
+16879 Campai	epoch	2016-07-31
+2007 TU24	epoch	2016-01-13
+2751 Campbell	epoch	2016-01-13
+8776 Campestris	epoch	2016-01-13
+9945 Karinaxavier	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-01-13
+9938 Kretlow	epoch	2016-01-13
+9936 Al-Biruni	epoch	2016-07-31
+	epoch	2016-01-13
+9932 Kopylov	epoch	2016-01-13
+9931 Herbhauptman	epoch	2016-01-13
+9930 Billburrows	epoch	2016-01-13
+9929 McConnell	epoch	2016-01-13
+	epoch	2016-01-13
+9927 Tyutchev	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+9922 Catcheller	epoch	2016-01-13
+6398 Timhunter	epoch	2016-01-13
+	epoch	2016-01-13
+9921 Rubincam	epoch	2016-01-13
+6216 San Jose	epoch	2016-01-13
+9920 Bagnulo	epoch	2016-01-13
+	epoch	2016-01-13
+9917 Keynes	epoch	2016-01-13
+9916 Kibirev	epoch	2016-01-13
+9915 Potanin	epoch	2016-01-13
+9914 Obukhova	epoch	2016-01-13
+9913 Humperdinck	epoch	2016-01-13
+9912 Donizetti	epoch	2016-01-13
+9911 Quantz	epoch	2016-01-13
+9910 Vogelweide	epoch	2016-01-13
+9909 Eschenbach	epoch	2016-01-13
+9908 Aue	epoch	2016-01-13
+9906 Tintoretto	epoch	2016-01-13
+9905 Tiziano	epoch	2016-01-13
+9904 Mauratombelli	epoch	2016-01-13
+	epoch	2016-01-13
+14827 Hypnos	epoch	2016-01-13
+	epoch	2016-01-13
+12696 Camus	epoch	2016-07-31
+4899 Candace	epoch	2016-01-13
+3015 Candy	epoch	2016-01-13
+21711 Wilfredwong	epoch	2016-01-13
+1652 Hergé	epoch	2016-01-13
+3351 Smith	epoch	2016-01-13
+1677 Tycho Brahe	epoch	2016-01-13
+3563 Canterbury	epoch	2016-01-13
+1931 Čapek	epoch	2016-01-13
+2004 VN112	epoch	2016-01-13
+49777 Cappi	epoch	2016-07-31
+1391 Carelia	epoch	2016-07-31
+3578 Carestia	epoch	2016-07-31
+	epoch	2016-01-13
+78816 Caripito	epoch	2016-07-31
+1268 Libya	epoch	2016-07-31
+21387 Wafakhalil	epoch	2016-01-13
+1213 Algeria	epoch	2016-07-31
+3277 Aaronson	epoch	2016-07-31
+2678 Aavasaksa	epoch	2016-07-31
+8900 AAVSO	epoch	2016-07-31
+1581 Abanderada	epoch	2016-07-31
+4263 Abashiri	epoch	2016-07-31
+1390 Abastumani	epoch	2016-07-31
+15262 Abderhalden	epoch	2016-07-31
+5677 Aberdonia	epoch	2016-07-31
+6805 Abstracta	epoch	2016-07-31
+3409 Abramov	epoch	2016-07-31
+5175 Ables	epoch	2016-07-31
+9423 Abt	epoch	2016-07-31
+5144 Achates	epoch	2016-01-13
+9084 Achristou	epoch	2016-07-31
+6522 Aci	epoch	2016-07-31
+6349 Acapulco	epoch	2016-07-31
+2098 Zyskin	epoch	2016-01-13
+7803 Adachi	epoch	2016-07-31
+1858 Lobachevskij	epoch	2016-01-13
+1859 Kovalevskaya	epoch	2016-07-31
+1909 Alekhin	epoch	2016-01-13
+1910 Mikhailov	epoch	2016-01-13
+1170 Siva	epoch	2016-07-31
+1470 Carla	epoch	2016-07-31
+4401 Aditi	epoch	2016-07-31
+6537 Adamovich	epoch	2016-07-31
+7655 Adamries	epoch	2016-07-31
+3917 Franz Schubert	epoch	2016-01-13
+4450 Pan	epoch	2016-07-31
+4362 Carlisle	epoch	2016-07-31
+1171 Rusthawelia	epoch	2016-07-31
+1193 Africa	epoch	2016-07-31
+1187 Afra	epoch	2016-07-31
+4722 Agelaos	epoch	2016-01-13
+5023 Agapenor	epoch	2016-07-31
+16765 Agnesi	epoch	2016-07-31
+1873 Agenor	epoch	2016-01-13
+1800 Aguilar	epoch	2015-06-27
+12848 Agostino	epoch	2016-07-31
+3212 Agricola	epoch	2016-07-31
+3192 A'Hearn	epoch	2016-07-31
+31192 Aigoual	epoch	2016-07-31
+1918 Aiguillon	epoch	2015-06-27
+2826 Ahti	epoch	2016-07-31
+4585 Ainonai	epoch	2016-07-31
+3181 Ahnert	epoch	2016-07-31
+1568 Aisleen	epoch	2015-06-27
+3070 Aitken	epoch	2016-07-31
+3787 Aivazovskij	epoch	2016-07-31
+8187 Akiramisawa	epoch	2016-07-31
+3067 Akhmatova	epoch	2016-07-31
+5101 Akhmerov	epoch	2016-07-31
+2153 Akiyama	epoch	2016-07-31
+8034 Akka	epoch	2016-07-31
+4797 Ako	epoch	2016-07-31
+3872 Akirafujii	epoch	2016-07-31
+9549 Akplatonov	epoch	2016-07-31
+7385 Aktsynovia	epoch	2016-07-31
+2927 Alamosa	epoch	2016-07-31
+2500 Alascattalo	epoch	2016-07-31
+2067 Aksnes	epoch	2016-07-31
+4151 Alanhale	epoch	2016-07-31
+1783 Albitskij	epoch	2016-01-13
+8549 Alcide	epoch	2016-07-31
+2241 Alcathous	epoch	2016-01-13
+2697 Albina	epoch	2016-07-31
+10656 Albrecht	epoch	2016-07-31
+6470 Aldrin	epoch	2016-07-31
+14832 Alechinsky	epoch	2016-07-31
+3174 Alcock	epoch	2016-07-31
+5185 Alerossi	epoch	2016-07-31
+17119 Alexisrodrz	epoch	2016-07-31
+3771 Alexejtolstoj	epoch	2016-07-31
+14335 Alexosipov	epoch	2016-07-31
+1194 Aletta	epoch	2016-07-31
+3367 Alex	epoch	2016-07-31
+1191 Alfaterna	epoch	2016-07-31
+1394 Algoa	epoch	2016-07-31
+15258 Alfilipenko	epoch	2016-07-31
+5951 Alicemonet	epoch	2016-07-31
+3851 Alhambra	epoch	2016-07-31
+58097 Alimov	epoch	2016-07-31
+11824 Alpaidze	epoch	2016-07-31
+21558 Alisonliu	epoch	2016-07-31
+3581 Alvarez	epoch	2016-01-13
+7742 Altamira	epoch	2016-07-31
+3037 Alku	epoch	2016-07-31
+1567 Alikoski	epoch	2016-07-31
+3045 Alois	epoch	2016-07-31
+3567 Alvema	epoch	2016-07-31
+1617 Alschmitt	epoch	2016-01-13
+6247 Amanogawa	epoch	2016-01-13
+8121 Altdorfer	epoch	2016-07-31
+10247 Amphiaraos	epoch	2016-01-13
+1905 Ambartsumian	epoch	2016-01-13
+55576 Amycus	epoch	2016-01-13
+1173 Anchises	epoch	2016-07-31
+2175 Andrea Doria	epoch	2016-01-13
+5027 Androgeos	epoch	2016-01-13
+1457 Ankara	epoch	2016-07-31
+1957 Angara	epoch	2016-01-13
+2572 Annschnell	epoch	2016-01-13
+2839 Annette	epoch	2016-01-13
+3724 Annenskij	epoch	2016-01-13
+1712 Angola	epoch	2016-01-13
+1294 Antwerpia	epoch	2016-07-31
+19139 Apian	epoch	2016-01-13
+2061 Anza	epoch	2016-01-13
+2207 Antenor	epoch	2016-07-31
+5806 Archieroy	epoch	2016-01-13
+1943 Anteros	epoch	2016-01-13
+1912 Anubis	epoch	2016-01-13
+1768 Appenzella	epoch	2016-07-31
+1225 Ariane	epoch	2016-07-31
+2135 Aristaeus	epoch	2016-01-13
+1551 Argelander	epoch	2016-07-31
+10502 Armaghobs	epoch	2016-07-31
+6469 Armstrong	epoch	2016-07-31
+1304 Arosa	epoch	2016-07-31
+1717 Arlon	epoch	2016-01-13
+1956 Artek	epoch	2016-07-31
+1218 Aster	epoch	2016-07-31
+4946 Askalaphus	epoch	2016-01-13
+24626 Astrowizard	epoch	2016-01-13
+4805 Asteropaios	epoch	2016-01-13
+25000 Astrometria	epoch	2016-01-13
+1216 Askania	epoch	2016-07-31
+5171 Augustesen	epoch	2016-01-13
+1198 Atlantis	epoch	2016-07-31
+1231 Auricula	epoch	2016-07-31
+8318 Averroes	epoch	2016-01-13
+3290 Azabu	epoch	2016-01-13
+2940 Bacon	epoch	2016-01-13
+1280 Baillauda	epoch	2016-07-31
+131245 Bakich	epoch	2016-01-13
+2031 BAM	epoch	2016-01-13
+1286 Banachiewicza	epoch	2016-07-31
+1713 Bancilhon	epoch	2016-01-13
+4391 Balodis	epoch	2016-07-31
+6695 Barrettduff	epoch	2016-01-13
+5655 Barney	epoch	2016-01-13
+19982 Barbaradoore	epoch	2016-07-31
+6084 Bascom	epoch	2016-01-13
+4524 Barklajdetolli	epoch	2016-07-31
+1553 Bauersfelda	epoch	2016-07-31
+6460 Bassano	epoch	2016-07-31
+1349 Bechuana	epoch	2016-07-31
+157640 Baumeler	epoch	2016-01-13
+9115 Battisti	epoch	2016-07-31
+3737 Beckman	epoch	2016-01-13
+15092 Beegees	epoch	2016-01-13
+151997 Bauhinia	epoch	2016-01-13
+3691 Bede	epoch	2016-01-13
+1815 Beethoven	epoch	2016-01-13
+17102 Begzhigitova	epoch	2016-01-13
+45737 Benita	epoch	2016-01-13
+1651 Behrens	epoch	2016-01-13
+5682 Beresford	epoch	2016-01-13
+1846 Bengt	epoch	2016-01-13
+1784 Benguella	epoch	2016-01-13
+2368 Beltrovata	epoch	2016-07-31
+2034 Bernoulli	epoch	2016-07-31
+1611 Beyer	epoch	2016-01-13
+4175 Billbaum	epoch	2016-01-13
+5120 Bitias	epoch	2016-01-13
+1580 Betulia	epoch	2016-01-13
+2145 Blaauw	epoch	2016-01-13
+6708 Bobbievaile	epoch	2016-01-13
+63305 Bobkepple	epoch	2016-01-13
+2637 Bobrovnikoff	epoch	2016-01-13
+5642 Bobbywilliams	epoch	2016-07-31
+3710 Bogoslovskij	epoch	2016-01-13
+1441 Bolyai	epoch	2016-07-31
+1477 Bonsdorffia	epoch	2016-07-31
+1635 Bohrmann	epoch	2016-07-31
+3544 Borodino	epoch	2016-01-13
+1916 Boreas	epoch	2016-01-13
+7346 Boulanger	epoch	2016-01-13
+1354 Botha	epoch	2016-07-31
+1543 Bourgeois	epoch	2016-07-31
+3430 Bradfield	epoch	2016-01-13
+1411 Brauna	epoch	2016-07-31
+1215 Boyer	epoch	2016-07-31
+1818 Brahms	epoch	2016-01-13
+2246 Bowell	epoch	2016-07-31
+4029 Bridges	epoch	2016-01-13
+1609 Brenda	epoch	2016-07-31
+1879 Broederstroom	epoch	2016-01-13
+24105 Broughton	epoch	2016-07-31
+4957 Brucemurray	epoch	2016-01-13
+4209 Briggs	epoch	2016-07-31
+1570 Brunonia	epoch	2016-07-31
+2430 Bruce Helin	epoch	2016-07-31
+7553 Buie	epoch	2016-07-31
+5196 Bustelli	epoch	2016-01-13
+2490 Bussolini	epoch	2016-01-13
+26074 Carlwirtz	epoch	2016-01-13
+4936 Butakov	epoch	2016-07-31
+10974 Carolalbert	epoch	2016-01-13
+1683 Castafiore	epoch	2016-01-13
+24101 Cassini	epoch	2016-07-31
+2363 Cebriones	epoch	2016-01-13
+1240 Centenaria	epoch	2016-07-31
+1252 Celestia	epoch	2016-07-31
+133528 Ceragioli	epoch	2016-01-13
+3960 Chaliubieju	epoch	2016-01-13
+2981 Chagall	epoch	2016-01-13
+65489 Ceto	epoch	2016-01-13
+1246 Chaka	epoch	2016-07-31
+21436 Chaoyichi	epoch	2016-01-13
+1707 Chantal	epoch	2016-01-13
+1333 Cevenola	epoch	2016-07-31
+1671 Chaika	epoch	2016-01-13
+1622 Chacornac	epoch	2016-07-31
+7268 Chigorin	epoch	2016-01-13
+2010 Chebyshev	epoch	2016-01-13
+1804 Chebotarev	epoch	2016-01-13
+4429 Chinmoy	epoch	2016-01-13
+1510 Charlois	epoch	2016-07-31
+1633 Chimay	epoch	2016-07-31
+1307 Cimmeria	epoch	2016-07-31
+1275 Cimbria	epoch	2016-07-31
+6296 Cleveland	epoch	2016-01-13
+5635 Cole	epoch	2016-01-13
+3034 Climenhaga	epoch	2016-01-13
+2939 Coconino	epoch	2016-01-13
+1919 Clemence	epoch	2016-01-13
+2442 Corbett	epoch	2016-01-13
+2942 Cordie	epoch	2016-01-13
+83982 Crantor	epoch	2016-01-13
+29292 Conniewalker	epoch	2016-07-31
+4008 Corbin	epoch	2016-07-31
+1220 Crocus	epoch	2016-07-31
+1232 Cortusa	epoch	2016-07-31
+1917 Cuyo	epoch	2016-01-13
+1754 Cunningham	epoch	2016-01-13
+52975 Cyllarus	epoch	2016-01-13
+1864 Daedalus	epoch	2016-01-13
+4827 Dares	epoch	2016-01-13
+5748 Davebrin	epoch	2016-01-13
+1419 Danzig	epoch	2016-07-31
+22838 Darcyhampton	epoch	2016-01-13
+1270 Datura	epoch	2016-07-31
+4205 David Hughes	epoch	2016-01-13
+1669 Dagmar	epoch	2016-01-13
+1991 Darwin	epoch	2016-01-13
+5638 Deikoon	epoch	2016-01-13
+1555 Dejan	epoch	2016-07-31
+1295 Deflotte	epoch	2016-07-31
+1244 Deira	epoch	2016-07-31
+3893 DeLaeter	epoch	2016-01-13
+4057 Demophon	epoch	2016-01-13
+1335 Demoulina	epoch	2016-07-31
+2134 Dennispalm	epoch	2016-01-13
+1867 Deiphobus	epoch	2016-01-13
+1848 Delvaux	epoch	2016-01-13
+4340 Dence	epoch	2016-01-13
+1588 Descamisada	epoch	2016-01-13
+3841 Dicicco	epoch	2016-01-13
+10830 Desforges	epoch	2016-01-13
+1328 Devota	epoch	2016-07-31
+3247 Di Martino	epoch	2016-01-13
+11665 Dirichlet	epoch	2016-01-13
+1806 Derice	epoch	2016-07-31
+65803 Didymos	epoch	2016-01-13
+1319 Disa	epoch	2016-07-31
+3905 Doppler	epoch	2016-01-13
+1805 Dirikis	epoch	2016-01-13
+1789 Dobrovolsky	epoch	2016-01-13
+4009 Drobyshevskij	epoch	2016-01-13
+1338 Duponta	epoch	2016-07-31
+6141 Durda	epoch	2016-01-13
+2312 Duboshin	epoch	2016-01-13
+1961 Dufour	epoch	2016-07-31
+1205 Ebella	epoch	2016-07-31
+1621 Druzhba	epoch	2016-01-13
+1241 Dysona	epoch	2016-07-31
+3687 Dzus	epoch	2016-01-13
+2591 Dworetsky	epoch	2016-01-13
+1750 Eckert	epoch	2016-01-13
+2754 Efimov	epoch	2016-01-13
+9260 Edwardolson	epoch	2016-07-31
+9826 Ehrenfreund	epoch	2016-07-31
+2311 El Leoncito	epoch	2016-01-13
+17795 Elysiasegal	epoch	2016-01-13
+1234 Elyna	epoch	2016-07-31
+1329 Eliane	epoch	2016-07-31
+5391 Emmons	epoch	2016-01-13
+4709 Ennomos	epoch	2016-01-13
+9134 Encke	epoch	2016-01-13
+14627 Emilkowalski	epoch	2016-07-31
+5259 Epeigeus	epoch	2016-01-13
+5331 Erimomisaki	epoch	2016-01-13
+1541 Estonia	epoch	2016-07-31
+11694 Esterhuysen	epoch	2016-01-13
+1421 Esperanto	epoch	2016-07-31
+6696 Eubanks	epoch	2016-01-13
+4063 Euforbo	epoch	2016-01-13
+2032 Ethel	epoch	2016-01-13
+2253 Espinette	epoch	2016-07-31
+13963 Euphrates	epoch	2016-07-31
+4007 Euryalos	epoch	2016-01-13
+1569 Evita	epoch	2016-07-31
+1576 Fabiola	epoch	2016-07-31
+1589 Fanatica	epoch	2016-07-31
+3927 Feliciaplatt	epoch	2016-01-13
+5256 Farquhar	epoch	2016-07-31
+1453 Fennia	epoch	2016-07-31
+2892 Filipenko	epoch	2016-01-13
+2181 Fogelin	epoch	2016-01-13
+3122 Florence	epoch	2016-01-13
+1212 Francette	epoch	2016-07-31
+10246 Frankenwald	epoch	2016-01-13
+1736 Floirac	epoch	2016-01-13
+1253 Frisia	epoch	2016-07-31
+3642 Frieden	epoch	2016-01-13
+1184 Gaea	epoch	2016-07-31
+3915 Fukushima	epoch	2016-07-31
+7505 Furusho	epoch	2016-01-13
+1665 Gaby	epoch	2016-01-13
+1250 Galanthus	epoch	2016-07-31
+1772 Gagarin	epoch	2016-01-13
+7369 Gavrilin	epoch	2016-01-13
+1835 Gajdariya	epoch	2016-01-13
+1267 Geertruida	epoch	2016-07-31
+1272 Gefion	epoch	2016-07-31
+2054 Gawain	epoch	2016-01-13
+1199 Geldonia	epoch	2016-07-31
+3854 George	epoch	2016-01-13
+2571 Geisei	epoch	2016-07-31
+2093 Genichesk	epoch	2016-01-13
+1777 Gehrels	epoch	2016-07-31
+1227 Geranium	epoch	2016-07-31
+1337 Gerarda	epoch	2016-07-31
+2126 Gerasimovich	epoch	2016-01-13
+3700 Geowilliams	epoch	2016-01-13
+1433 Geramtina	epoch	2016-07-31
+1382 Gerti	epoch	2016-07-31
+2937 Gibbs	epoch	2016-01-13
+1672 Gezelle	epoch	2016-01-13
+2658 Gingerich	epoch	2016-01-13
+5474 Gingasen	epoch	2016-01-13
+5148 Giordano	epoch	2016-01-13
+2537 Gilmore	epoch	2016-07-31
+5805 Glasgow	epoch	2016-01-13
+1870 Glaukos	epoch	2016-01-13
+3267 Glo	epoch	2016-01-13
+1687 Glarona	epoch	2016-07-31
+3047 Goethe	epoch	2016-01-13
+1823 Gliese	epoch	2016-07-31
+1722 Goffin	epoch	2016-01-13
+1226 Golia	epoch	2016-07-31
+1177 Gonnessia	epoch	2016-07-31
+1346 Gotha	epoch	2016-07-31
+3640 Gostin	epoch	2016-01-13
+17198 Gorjup	epoch	2016-07-31
+1710 Gothard	epoch	2016-01-13
+8013 Gordonmoore	epoch	2016-07-31
+1188 Gothlandia	epoch	2016-07-31
+9708 Gouka	epoch	2016-01-13
+3202 Graff	epoch	2016-07-31
+9175 Graun	epoch	2016-07-31
+4451 Grieve	epoch	2016-01-13
+1362 Griqua	epoch	2016-07-31
+27270 Guidotti	epoch	2016-01-13
+2483 Guinevere	epoch	2016-01-13
+3697 Guyhurst	epoch	2016-01-13
+1960 Guisan	epoch	2016-01-13
+2151 Hadwiger	epoch	2016-01-13
+1995 Hajek	epoch	2016-01-13
+1308 Halleria	epoch	2016-07-31
+5028 Halaesus	epoch	2016-01-13
+1460 Haltia	epoch	2016-07-31
+7816 Hanoi	epoch	2016-07-31
+7345 Happer	epoch	2016-01-13
+1372 Haremari	epoch	2016-07-31
+2003 Harding	epoch	2016-01-13
+10249 Harz	epoch	2016-01-13
+1251 Hedera	epoch	2016-07-31
+1650 Heckmann	epoch	2016-01-13
+1370 Hella	epoch	2016-07-31
+11573 Helmholtz	epoch	2016-01-13
+1732 Heike	epoch	2016-01-13
+1845 Helewalda	epoch	2016-07-31
+2005 Hencke	epoch	2016-07-31
+5143 Heracles	epoch	2016-01-13
+2212 Hephaistos	epoch	2016-01-13
+1693 Hertzsprung	epoch	2016-07-31
+7119 Hiera	epoch	2016-07-31
+1897 Hind	epoch	2016-07-31
+6709 Hiromiyuki	epoch	2016-01-13
+4435 Holt	epoch	2016-07-31
+23718 Horgos	epoch	2016-01-13
+1726 Hoffmeister	epoch	2016-01-13
+11132 Horne	epoch	2016-01-13
+11409 Horkheimer	epoch	2016-01-13
+1985 Hopmann	epoch	2016-01-13
+3137 Horky	epoch	2016-01-13
+1924 Horus	epoch	2016-01-13
+3031 Houston	epoch	2016-01-13
+9069 Hovland	epoch	2016-07-31
+1452 Hunnia	epoch	2016-07-31
+7225 Huntress	epoch	2016-01-13
+3425 Hurukawa	epoch	2016-07-31
+1309 Hyperborea	epoch	2016-07-31
+1842 Hynek	epoch	2016-01-13
+21062 Iasky	epoch	2016-01-13
+2423 Ibarruri	epoch	2016-01-13
+37655 Illapa	epoch	2016-01-13
+5130 Ilioneus	epoch	2016-01-13
+1182 Ilona	epoch	2016-07-31
+1479 Inkeri	epoch	2016-07-31
+1532 Inari	epoch	2016-07-31
+10245 Inselsberg	epoch	2016-01-13
+1325 Inanda	epoch	2016-07-31
+5222 Ioffe	epoch	2016-01-13
+1658 Innes	epoch	2016-01-13
+1520 Imatra	epoch	2016-07-31
+4791 Iphidamas	epoch	2016-01-13
+1409 Isko	epoch	2016-07-31
+7088 Ishtar	epoch	2016-01-13
+7187 Isobe	epoch	2016-01-13
+95008 Ivanobertini	epoch	2016-01-13
+1374 Isora	epoch	2016-07-31
+1735 ITA	epoch	2016-01-13
+4951 Iwamoto	epoch	2016-01-13
+2324 Janice	epoch	2016-01-13
+4336 Jasniewicz	epoch	2016-01-13
+6063 Jason	epoch	2016-01-13
+3353 Jarvis	epoch	2016-01-13
+1281 Jeanne	epoch	2016-07-31
+5899 Jedicke	epoch	2016-01-13
+2143 Jimarnold	epoch	2016-01-13
+8116 Jeanperrin	epoch	2016-01-13
+2080 Jihlava	epoch	2016-01-13
+9564 Jeffwynn	epoch	2016-07-31
+145534 Jhongda	epoch	2016-07-31
+2874 Jim Young	epoch	2016-07-31
+21617 Johnhagen	epoch	2016-01-13
+4525 Johnbauer	epoch	2016-01-13
+1524 Joensuu	epoch	2016-07-31
+5905 Johnson	epoch	2016-01-13
+18117 Jonhodge	epoch	2016-01-13
+1248 Jugurtha	epoch	2016-07-31
+1423 Jose	epoch	2016-07-31
+1183 Jutta	epoch	2016-07-31
+11949 Kagayayutaka	epoch	2016-07-31
+1694 Kaiser	epoch	2016-01-13
+5385 Kamenka	epoch	2016-01-13
+4822 Karge	epoch	2016-01-13
+3800 Karayusuf	epoch	2016-01-13
+17683 Kanagawa	epoch	2016-07-31
+1316 Kasan	epoch	2016-07-31
+5333 Kanaya	epoch	2016-07-31
+4265 Kani	epoch	2016-07-31
+1682 Karel	epoch	2016-01-13
+3754 Kathleen	epoch	2016-01-13
+1900 Katyusha	epoch	2016-01-13
+1817 Katanga	epoch	2016-01-13
+6546 Kaye	epoch	2015-06-27
+2156 Kate	epoch	2016-07-31
+78431 Kemble	epoch	2016-07-31
+2140 Kemerovo	epoch	2016-07-31
+1508 Kemi	epoch	2016-07-31
+2449 Kenos	epoch	2016-01-13
+1540 Kevola	epoch	2016-07-31
+1759 Kienle	epoch	2016-01-13
+5481 Kiuchi	epoch	2016-01-13
+3785 Kitami	epoch	2016-07-31
+1780 Kippes	epoch	2016-01-13
+4868 Knushevia	epoch	2016-01-13
+1233 Kobresia	epoch	2016-07-31
+9344 Klopstock	epoch	2016-01-13
+1384 Kniertje	epoch	2016-07-31
+1825 Klare	epoch	2016-01-13
+19763 Klimesh	epoch	2016-07-31
+4177 Kohman	epoch	2016-01-13
+1283 Komsomolia	epoch	2016-07-31
+1836 Komarov	epoch	2016-01-13
+1522 Kokkola	epoch	2016-07-31
+1559 Kustaanheimo	epoch	2016-07-31
+3073 Kursk	epoch	2016-01-13
+1503 Kuopio	epoch	2016-07-31
+2349 Kurchenko	epoch	2016-01-13
+2296 Kugultinov	epoch	2016-07-31
+6255 Kuma	epoch	2016-07-31
+1954 Kukarkin	epoch	2016-07-31
+1776 Kuiper	epoch	2016-07-31
+4997 Ksana	epoch	2016-01-13
+3102 Krok	epoch	2016-01-13
+7604 Kridsadaporn	epoch	2016-01-13
+3040 Kozai	epoch	2016-01-13
+2726 Kotelnikov	epoch	2016-01-13
+2008 Konstitutsiya	epoch	2016-01-13
+3635 Kreutz	epoch	2016-01-13
+1855 Korolev	epoch	2016-01-13
+1631 Kopff	epoch	2016-01-13
+1929 Kollaa	epoch	2016-07-31
+6500 Kodaira	epoch	2016-07-31
+1850 Kohoutek	epoch	2016-07-31
+39741 Komm	epoch	2016-01-13
+1505 Koranna	epoch	2016-07-31
+2173 Maresjev	epoch	2016-01-13
+2187 La Silla	epoch	2016-01-13
+1412 Lagrula	epoch	2016-07-31
+1851 Lacroute	epoch	2016-01-13
+1504 Lappeenranta	epoch	2016-07-31
+8441 Lapponica	epoch	2016-01-13
+3240 Laocoon	epoch	2016-07-31
+1597 Laugier	epoch	2016-07-31
+1284 Latvia	epoch	2016-07-31
+7958 Leakey	epoch	2016-01-13
+1261 Legia	epoch	2016-07-31
+1378 Leonce	epoch	2016-07-31
+4147 Lennon	epoch	2016-07-31
+6170 Levasseur	epoch	2016-01-13
+1264 Letaba	epoch	2016-07-31
+1361 Leuschneria	epoch	2016-07-31
+3793 Leonteus	epoch	2016-07-31
+3322 Lidiya	epoch	2016-01-13
+1951 Lick	epoch	2016-01-13
+1383 Limburgia	epoch	2016-07-31
+1490 Limpopo	epoch	2016-07-31
+1469 Linzia	epoch	2016-07-31
+2577 Litva	epoch	2016-01-13
+1379 Lomonosowa	epoch	2016-07-31
+1287 Lorcia	epoch	2016-07-31
+1755 Lorbach	epoch	2016-01-13
+4045 Lowengrub	epoch	2016-01-13
+1431 Luanda	epoch	2016-07-31
+1939 Loretta	epoch	2016-01-13
+15817 Lucianotesi	epoch	2016-01-13
+21509 Lucascavin	epoch	2016-01-13
+1176 Lucidor	epoch	2016-07-31
+1930 Lucifer	epoch	2016-01-13
+145523 Lulin	epoch	2016-07-31
+1936 Lugano	epoch	2016-07-31
+4776 Luyi	epoch	2016-01-13
+1303 Luthera	epoch	2016-07-31
+1334 Lundmarka	epoch	2016-07-31
+5430 Luu	epoch	2016-07-31
+1353 Maartje	epoch	2016-07-31
+4358 Lynn	epoch	2016-07-31
+2204 Lyyli	epoch	2016-01-13
+2696 Magion	epoch	2016-01-13
+1459 Magnya	epoch	2016-07-31
+7387 Malbil	epoch	2016-01-13
+2139 Makharadze	epoch	2016-01-13
+2094 Magnitka	epoch	2016-01-13
+1527 Malmquista	epoch	2016-07-31
+4055 Magellan	epoch	2016-07-31
+1355 Magoeba	epoch	2016-07-31
+4904 Makio	epoch	2016-07-31
+1771 Makover	epoch	2016-01-13
+1300 Marcelle	epoch	2016-07-31
+1410 Margret	epoch	2016-07-31
+1434 Margot	epoch	2016-07-31
+1175 Margo	epoch	2016-07-31
+1486 Marilyn	epoch	2016-07-31
+1202 Marina	epoch	2016-07-31
+1174 Marmara	epoch	2016-07-31
+5026 Martes	epoch	2016-01-13
+1877 Marsden	epoch	2016-01-13
+1582 Martir	epoch	2016-07-31
+4547 Massachusetts	epoch	2016-01-13
+21561 Masterman	epoch	2016-01-13
+1904 Massevitch	epoch	2016-01-13
+1841 Masaryk	epoch	2016-01-13
+7687 Matthias	epoch	2016-01-13
+3281 Maupertuis	epoch	2016-01-13
+5644 Maureenbell	epoch	2016-01-13
+1217 Maximiliana	epoch	2016-07-31
+2131 Mayall	epoch	2016-01-13
+1748 Mauderli	epoch	2016-01-13
+5641 McCleese	epoch	2016-01-13
+1607 Mavis	epoch	2016-01-13
+1690 Mayrhofer	epoch	2016-01-13
+1428 Mombasa	epoch	2016-07-31
+11118 Modra	epoch	2016-07-31
+152188 Morricone	epoch	2016-01-13
+3868 Mendoza	epoch	2016-01-13
+1832 Mrkos	epoch	2016-01-13
+4836 Medon	epoch	2016-01-13
+3451 Mentor	epoch	2016-01-13
+1299 Mertona	epoch	2016-07-31
+1574 Meyer	epoch	2016-07-31
+1376 Michelle	epoch	2016-07-31
+3553 Mera	epoch	2016-01-13
+2895 Memnon	epoch	2016-01-13
+1247 Memoria	epoch	2016-07-31
+1739 Meyermann	epoch	2016-01-13
+4833 Meges	epoch	2016-01-13
+3066 McFadden	epoch	2016-01-13
+1753 Mieke	epoch	2016-01-13
+1727 Mette	epoch	2016-01-13
+11714 Mikebrown	epoch	2016-01-13
+9767 Midsomer Norton	epoch	2016-01-13
+7389 Michelcombes	epoch	2016-01-13
+1605 Milankovitch	epoch	2016-07-31
+4332 Milton	epoch	2016-01-13
+1455 Mitchella	epoch	2016-07-31
+2090 Mizuho	epoch	2016-01-13
+4828 Misenus	epoch	2016-01-13
+6239 Minos	epoch	2016-01-13
+5542 Moffatt	epoch	2016-01-13
+1906 Naef	epoch	2016-01-13
+15350 Naganuma	epoch	2016-01-13
+68109 Naomipasachoff	epoch	2016-01-13
+4222 Nancita	epoch	2016-07-31
+6025 Naotosato	epoch	2016-07-31
+3688 Navajo	epoch	2016-01-13
+3343 Nedzel	epoch	2016-01-13
+1318 Nerina	epoch	2016-07-31
+3199 Nefertiti	epoch	2016-01-13
+1831 Nicholson	epoch	2016-01-13
+4959 Niinoama	epoch	2016-01-13
+1720 Niels	epoch	2016-01-13
+19007 Nirajnathan	epoch	2016-01-13
+1356 Nyanza	epoch	2016-07-31
+1696 Nurmela	epoch	2016-01-13
+1206 Numerowia	epoch	2016-07-31
+1368 Numidia	epoch	2016-07-31
+1256 Normannia	epoch	2016-07-31
+1298 Nocturna	epoch	2016-07-31
+4022 Nonna	epoch	2016-01-13
+4947 Ninkasi	epoch	2016-01-13
+2124 Nissen	epoch	2016-01-13
+2606 Odessa	epoch	2016-01-13
+7476 Ogilsbie	epoch	2016-07-31
+5080 Oja	epoch	2016-01-13
+6244 Okamoto	epoch	2016-01-13
+5656 Oldfield	epoch	2016-01-13
+3406 Omsk	epoch	2016-01-13
+2201 Oljato	epoch	2016-01-13
+1389 Onnie	epoch	2016-07-31
+1195 Orangia	epoch	2016-07-31
+3361 Orpheus	epoch	2008-06-13
+1691 Oort	epoch	2016-01-13
+1923 Osiris	epoch	2016-01-13
+1837 Osita	epoch	2016-01-13
+1369 Ostanina	epoch	2016-07-31
+1207 Ostenia	epoch	2016-07-31
+3169 Ostro	epoch	2016-01-13
+1473 Ounas	epoch	2016-07-31
+9844 Otani	epoch	2016-07-31
+1529 Oterma	epoch	2016-07-31
+2648 Owa	epoch	2016-01-13
+1512 Oulu	epoch	2016-07-31
+1921 Pala	epoch	2016-01-13
+11755 Paczynski	epoch	2016-01-13
+6793 Palazzolo	epoch	2016-07-31
+12482 Pajka	epoch	2016-07-31
+1889 Pakhmutova	epoch	2016-01-13
+4832 Palinurus	epoch	2016-01-13
+1243 Pamela	epoch	2016-07-31
+3963 Paradzhanov	epoch	2016-01-13
+4241 Pappalardo	epoch	2016-01-13
+2674 Pandarus	epoch	2016-01-13
+3317 Paris	epoch	2016-01-13
+4754 Panthoos	epoch	2016-01-13
+1444 Pannonia	epoch	2016-07-31
+3176 Paolicchi	epoch	2016-01-13
+1857 Parchomenko	epoch	2016-01-13
+1347 Patria	epoch	2016-07-31
+1791 Patsayev	epoch	2016-01-13
+1429 Pemba	epoch	2016-07-31
+1190 Pelagia	epoch	2016-07-31
+3953 Perth	epoch	2016-01-13
+13154 Petermrva	epoch	2016-07-31
+4543 Phoinix	epoch	2016-01-13
+1680 Per Brahe	epoch	2016-01-13
+4185 Phystech	epoch	2016-01-13
+1291 Phryne	epoch	2016-07-31
+1366 Piccolo	epoch	2016-07-31
+1536 Pielinen	epoch	2016-07-31
+2357 Phereclos	epoch	2016-01-13
+2905 Plaskett	epoch	2016-01-13
+1392 Pierre	epoch	2016-07-31
+4086 Podalirius	epoch	2016-01-13
+6615 Plutarchos	epoch	2016-01-13
+13062 Podarkes	epoch	2016-07-31
+1830 Pogson	epoch	2016-01-13
+1305 Pongola	epoch	2016-07-31
+1499 Pori	epoch	2016-07-31
+3074 Popov	epoch	2016-01-13
+1484 Postrema	epoch	2016-07-31
+1757 Porvoo	epoch	2016-01-13
+4341 Poseidon	epoch	2016-01-13
+1345 Potomac	epoch	2016-07-31
+1238 Predappia	epoch	2016-07-31
+1192 Prisma	epoch	2016-07-31
+4348 Poulydamas	epoch	2015-06-27
+4001 Ptolemaeus	epoch	2016-01-13
+1359 Prieska	epoch	2016-07-31
+1209 Pumma	epoch	2016-07-31
+1659 Punkaharju	epoch	2016-01-13
+2122 Pyatiletka	epoch	2016-01-13
+14871 Pyramus	epoch	2016-07-31
+5283 Pyrrhus	epoch	2016-01-13
+1297 Quadea	epoch	2016-07-31
+1239 Queteleta	epoch	2016-07-31
+3184 Raab	epoch	2016-01-13
+5040 Rabinowitz	epoch	2016-07-31
+1450 Raimonda	epoch	2016-07-31
+145558 Raiatea	epoch	2016-01-13
+8661 Ratzinger	epoch	2016-07-31
+22740 Rayleigh	epoch	2016-01-13
+1644 Rafita	epoch	2016-01-13
+3790 Raywilson	epoch	2016-01-13
+9165 Raup	epoch	2016-07-31
+1204 Renzia	epoch	2016-07-31
+1416 Renauxa	epoch	2016-07-31
+1230 Riceia	epoch	2016-07-31
+15415 Rika	epoch	2016-01-13
+1426 Riviera	epoch	2016-07-31
+6312 Robheinlein	epoch	2016-01-13
+2328 Robeson	epoch	2016-01-13
+3428 Roberts	epoch	2016-01-13
+37022 Robertovittori	epoch	2016-01-13
+19383 Rolling Stones	epoch	2016-01-13
+1269 Rollandia	epoch	2016-07-31
+1796 Riga	epoch	2016-01-13
+2285 Ron Helin	epoch	2016-01-13
+1350 Rosselia	epoch	2016-07-31
+5208 Royer	epoch	2016-01-13
+1646 Rosseland	epoch	2016-01-13
+3873 Roddy	epoch	2016-07-31
+2629 Rudra	epoch	2016-01-13
+1249 Rutherfordia	epoch	2016-07-31
+1443 Ruppina	epoch	2016-07-31
+1907 Rudneva	epoch	2016-01-13
+2518 Rutllant	epoch	2016-07-31
+1172 Äneas	epoch	2016-07-31
+163693 Atira	epoch	2016-01-13
+3350 Scobee	epoch	2016-01-13
+153298 Paulmyers	epoch	2016-01-13
+1364 Safara	epoch	2016-07-31
+13260 Sabadell	epoch	2016-07-31
+1533 Saimaa	epoch	2016-07-31
+1626 Sadeya	epoch	2016-01-13
+1436 Salonta	epoch	2016-07-31
+4606 Saheki	epoch	2016-07-31
+1979 Sakharov	epoch	2016-07-31
+1760 Sandra	epoch	2016-01-13
+7794 Sanvito	epoch	2016-01-13
+1711 Sandrine	epoch	2016-01-13
+2091 Sampo	epoch	2016-01-13
+2223 Sarpedon	epoch	2016-01-13
+1494 Savo	epoch	2016-07-31
+1525 Savonlinna	epoch	2016-07-31
+7336 Saunders	epoch	2016-07-31
+3333 Schaber	epoch	2016-01-13
+1255 Schilowa	epoch	2016-07-31
+6376 Schamp	epoch	2016-01-13
+2308 Schilt	epoch	2016-07-31
+2959 Scholl	epoch	2016-01-13
+1235 Schorria	epoch	2016-07-31
+1911 Schubart	epoch	2016-01-13
+13006 Schwaar	epoch	2016-07-31
+4003 Schumann	epoch	2016-07-31
+2384 Schulhof	epoch	2016-07-31
+1306 Scythia	epoch	2016-07-31
+3822 Segovia	epoch	2016-07-31
+4607 Seilandfarm	epoch	2016-07-31
+3288 Seleucus	epoch	2016-01-13
+2691 Sersic	epoch	2016-01-13
+3133 Sendai	epoch	2016-07-31
+2608 Seneca	epoch	2016-01-13
+2121 Sevastopol	epoch	2016-01-13
+1196 Sheba	epoch	2016-07-31
+1737 Severny	epoch	2016-01-13
+1902 Shaposhnikov	epoch	2016-01-13
+1648 Shajna	epoch	2016-01-13
+2197 Shanghai	epoch	2016-07-31
+8306 Shoko	epoch	2016-01-13
+16525 Shumarinaiko	epoch	2016-01-13
+1258 Sicilia	epoch	2016-07-31
+5692 Shirao	epoch	2016-07-31
+1493 Sigrid	epoch	2016-07-31
+11066 Sigurd	epoch	2016-01-13
+1405 Sibelius	epoch	2016-07-31
+1977 Shura	epoch	2016-07-31
+3201 Sijthoff	epoch	2016-01-13
+1854 Skvortsov	epoch	2016-01-13
+2554 Skiff	epoch	2016-07-31
+2047 Smetana	epoch	2016-01-13
+1262 Sniadeckia	epoch	2016-07-31
+1393 Sofala	epoch	2016-07-31
+1807 Slovakia	epoch	2016-01-13
+1430 Somalia	epoch	2016-07-31
+1731 Smuts	epoch	2016-01-13
+2815 Soma	epoch	2016-01-13
+1293 Sonja	epoch	2016-07-31
+1330 Spiridonia	epoch	2016-07-31
+4789 Sprattia	epoch	2016-01-13
+2433 Sootiyo	epoch	2016-07-31
+4713 Steel	epoch	2016-07-31
+3794 Sthenelos	epoch	2016-01-13
+8373 Stephengould	epoch	2016-01-13
+1681 Steinmetz	epoch	2016-01-13
+4176 Sudek	epoch	2016-01-13
+1928 Summa	epoch	2016-01-13
+1847 Stobbe	epoch	2016-07-31
+1628 Strobel	epoch	2016-01-13
+1692 Subbotina	epoch	2016-07-31
+4082 Swann	epoch	2016-01-13
+4383 Suruga	epoch	2016-01-13
+1927 Suvanto	epoch	2016-01-13
+4118 Sveta	epoch	2016-01-13
+84882 Table Mountain	epoch	2016-07-31
+4647 Syuji	epoch	2016-01-13
+7776 Takeishi	epoch	2016-01-13
+1637 Swings	epoch	2016-01-13
+5786 Talos	epoch	2016-01-13
+1656 Suomi	epoch	2016-01-13
+4672 Takuboku	epoch	2016-01-13
+5370 Taranis	epoch	2016-01-13
+5088 Tancredi	epoch	2016-07-31
+4786 Tatianina	epoch	2016-01-13
+2102 Tantalus	epoch	2016-01-13
+3345 Tarkovskij	epoch	2016-01-13
+1989 Tatry	epoch	2016-01-13
+2995 Taratuta	epoch	2016-01-13
+79912 Terrell	epoch	2016-01-13
+15374 Teta	epoch	2016-07-31
+1189 Terentia	epoch	2016-07-31
+11509 Thersilochos	epoch	2016-01-13
+4902 Thessandrus	epoch	2016-07-31
+1980 Tezcatlipoca	epoch	2016-07-31
+1625 The NORC	epoch	2016-01-13
+45300 Thewrewk	epoch	2016-01-13
+6257 Thorvaldsen	epoch	2016-01-13
+3255 Tholen	epoch	2016-07-31
+1229 Tilia	epoch	2016-07-31
+1400 Tirela	epoch	2016-07-31
+18880 Toddblumberg	epoch	2016-01-13
+2064 Thomsen	epoch	2016-01-13
+1933 Tinchen	epoch	2016-01-13
+1222 Tina	epoch	2016-07-31
+2478 Tokai	epoch	2016-01-13
+1266 Tone	epoch	2016-07-31
+2443 Tomeileen	epoch	2016-01-13
+1801 Titicaca	epoch	2016-01-13
+2104 Toronto	epoch	2016-01-13
+1537 Transylvania	epoch	2016-07-31
+7266 Trefftz	epoch	2016-01-13
+2391 Tomita	epoch	2016-07-31
+2111 Tselina	epoch	2016-01-13
+79254 Tsuda	epoch	2016-01-13
+1208 Troilus	epoch	2016-07-31
+1496 Turku	epoch	2016-07-31
+1425 Tuorla	epoch	2016-07-31
+6229 Tursachan	epoch	2016-01-13
+1323 Tugela	epoch	2016-07-31
+1590 Tsiolkovskaja	epoch	2016-07-31
+2013 Tucapel	epoch	2016-01-13
+4257 Ubasti	epoch	2016-01-13
+1186 Turnera	epoch	2016-07-31
+55701 Ukalegon	epoch	2016-01-13
+13123 Tyson	epoch	2016-07-31
+2120 Tyumenia	epoch	2016-01-13
+1397 Umtata	epoch	2016-07-31
+1709 Ukraina	epoch	2016-01-13
+1276 Ucclia	epoch	2016-07-31
+1619 Ueta	epoch	2016-01-13
+150145 Uvic	epoch	2016-01-13
+5254 Ulysses	epoch	2016-07-31
+1282 Utopia	epoch	2016-07-31
+1585 Union	epoch	2016-07-31
+1447 Utra	epoch	2016-07-31
+7529 Vagnozzi	epoch	2016-01-13
+2741 Valdivia	epoch	2016-01-13
+2019 van Albada	epoch	2016-01-13
+1781 Van Biesbroeck	epoch	2016-07-31
+1965 van de Kamp	epoch	2016-01-13
+3962 Valyaev	epoch	2016-07-31
+4230 van den Bergh	epoch	2016-01-13
+3401 Vanphilos	epoch	2016-01-13
+1663 van den Bos	epoch	2016-01-13
+2862 Vavilov	epoch	2016-01-13
+17163 Vasifedoseev	epoch	2016-07-31
+17035 Velichko	epoch	2016-07-31
+3669 Vertinskij	epoch	2016-01-13
+2014 Vasilevskis	epoch	2016-07-31
+1263 Varsavia	epoch	2016-07-31
+1312 Vassar	epoch	2016-07-31
+3198 Wallonia	epoch	2016-01-13
+4085 Weir	epoch	2016-01-13
+5756 Wassenbergh	epoch	2016-01-13
+4765 Wasserburg	epoch	2016-01-13
+1946 Walraven	epoch	2016-01-13
+1704 Wachmann	epoch	2016-07-31
+3682 Welther	epoch	2016-01-13
+1302 Werra	epoch	2016-07-31
+2017 Wesson	epoch	2016-01-13
+2301 Whitford	epoch	2016-01-13
+1941 Wild	epoch	2016-01-13
+1688 Wilkens	epoch	2016-01-13
+6473 Winkler	epoch	2016-01-13
+4608 Wodehouse	epoch	2016-01-13
+3402 Wisdom	epoch	2016-01-13
+1940 Whipple	epoch	2016-07-31
+1556 Wingolfia	epoch	2016-07-31
+13732 Woodall	epoch	2016-07-31
+23712 Willpatrick	epoch	2016-07-31
+2752 Wu Chien-Shiung	epoch	2016-01-13
+1660 Wood	epoch	2016-01-13
+2044 Wirt	epoch	2016-01-13
+4544 Xanthus	epoch	2016-01-13
+1506 Xosa	epoch	2016-07-31
+1747 Wright	epoch	2016-01-13
+3689 Yeates	epoch	2016-01-13
+2956 Yeomans	epoch	2016-01-13
+5176 Yoichi	epoch	2016-01-13
+19848 Yeungchuchiu	epoch	2016-07-31
+54509 YORP	epoch	2003-03-20
+5855 Yukitsuna	epoch	2016-01-13
+1340 Yvette	epoch	2016-07-31
+1242 Zambesia	epoch	2016-07-31
+5751 Zao	epoch	2016-01-13
+1301 Yvonne	epoch	2016-07-31
+2623 Zech	epoch	2016-01-13
+1336 Zeelandia	epoch	2016-07-31
+12923 Zephyr	epoch	2016-01-13
+2903 Zhuhai	epoch	2016-01-13
+3789 Zhongguo	epoch	2016-01-13
+3951 Zichichi	epoch	2016-01-13
+5731 Zeus	epoch	2016-01-13
+145562 Zurbriggen	epoch	2016-01-13
+1468 Zomba	epoch	2016-07-31
+1922 Zulu	epoch	2016-01-13
+1803 Zwicky	epoch	2016-01-13
+1793 Zoya	epoch	2016-01-13
+1700 Zvezdara	epoch	2016-01-13
+1778 Alfvén	epoch	2016-01-13
+1296 Andrée	epoch	2016-01-13
+5010 Amenemhêt	epoch	2016-07-31
+43954 Chýnov	epoch	2016-01-13
+2420 Čiurlionis	epoch	2016-01-13
+1655 Comas Solà	epoch	2016-01-13
+2661 Bydžovský	epoch	2016-01-13
+10645 Brač	epoch	2016-07-31
+13390 Bouška	epoch	2016-07-31
+2513 Baetslé	epoch	2016-01-13
+3628 Božněmcová	epoch	2016-01-13
+4318 Baťa	epoch	2016-01-13
+95179 Berkó	epoch	2016-07-31
+128065 Bartbenjamin	epoch	2016-01-13
+1339 Désagneauxa	epoch	2016-07-31
+1341 Edmée	epoch	2016-07-31
+1511 Daléra	epoch	2016-07-31
+3674 Erbisbühl	epoch	2016-07-31
+39428 Emilybrontë	epoch	2016-01-13
+4142 Dersu-Uzala	epoch	2016-01-13
+7548 Engström	epoch	2016-07-31
+9641 Demazière	epoch	2016-07-31
+10254 Hunsrück	epoch	2016-01-13
+10551 Göteborg	epoch	2016-07-31
+1237 Geneviève	epoch	2016-07-31
+1451 Granö	epoch	2016-07-31
+1689 Floris-Jan	epoch	2016-01-13
+1925 Franklin-Adams	epoch	2016-01-13
+1944 Günter	epoch	2016-01-13
+11948 Justinehénin	epoch	2016-07-31
+5201 Ferraz-Mello	epoch	2016-01-13
+1289 Kutaïssi	epoch	2016-07-31
+1414 Jérôme	epoch	2016-07-31
+1461 Jean-Jacques	epoch	2016-07-31
+1546 Izsák	epoch	2016-07-31
+14968 Kubáček	epoch	2016-07-31
+1558 Järnefelt	epoch	2016-07-31
+1849 Kresák	epoch	2016-01-13
+1684 Iguassú	epoch	2016-01-13
+1861 Komenský	epoch	2016-07-31
+1719 Jens	epoch	2016-01-13
+1947 Iso-Heikkilä	epoch	2016-01-13
+21873 Jindřichůvhradec	epoch	2016-07-31
+24260 Kriváň	epoch	2016-07-31
+3537 Jürgen	epoch	2016-07-31
+6498 Ko	epoch	2016-07-31
+10251 Mulisch	epoch	2016-01-13
+10241 Miličević	epoch	2016-01-13
+10415 Mali Lošinj	epoch	2016-07-31
+11252 Laërtes	epoch	2016-07-31
+2008 HQ3	epoch	2016-01-13
+2008 HR3	epoch	2016-01-13
+2008 HS3	epoch	2016-01-13
+2008 HO3	epoch	2016-01-13
+2007 VL305	epoch	2016-01-13
+1257 Móra	epoch	2016-07-31
+1407 Lindelöf	epoch	2016-07-31
+1466 Mündleria	epoch	2016-07-31
+1608 Muñoz	epoch	2016-07-31
+1565 Lemaître	epoch	2016-07-31
+1513 Mátra	epoch	2016-07-31
+15811 Nüsslein-Volhard	epoch	2016-07-31
+1563 Noël	epoch	2016-07-31
+1534 Näsi	epoch	2016-07-31
+21785 Méchain	epoch	2016-01-13
+2590 Mourão	epoch	2016-01-13
+2486 Metsähovi	epoch	2016-01-13
+3131 Mason-Dixon	epoch	2016-01-13
+4432 McGraw-Hill	epoch	2016-01-13
+1259 Ógyalla	epoch	2016-07-31
+1523 Pieksämäki	epoch	2016-07-31
+14974 Počátky	epoch	2016-07-31
+1535 Päijänne	epoch	2016-07-31
+1779 Paraná	epoch	2016-01-13
+1856 Růžena	epoch	2016-01-13
+1708 Pólit	epoch	2016-01-13
+1915 Quetzálcoatl	epoch	2016-01-13
+2613 Plzeň	epoch	2016-01-13
+37432 Piszkéstető	epoch	2016-01-13
+2228 Soyuz-Apollo	epoch	2016-01-13
+1632 Sieböhme	epoch	2016-01-13
+2429 Schürer	epoch	2016-01-13
+1542 Schalén	epoch	2016-07-31
+1446 Sillanpää	epoch	2016-07-31
+1521 Seinäjoki	epoch	2016-07-31
+7204 Ondřejov	epoch	2016-07-31
+1422 Strömgrenia	epoch	2016-07-31
+1844 Susilva	epoch	2016-01-13
+10244 Thüringer Wald	epoch	2016-01-13
+1236 Thaïs	epoch	2016-07-31
+1714 Sy	epoch	2016-01-13
+1481 Tübingia	epoch	2016-07-31
+1573 Väisälä	epoch	2016-07-31
+2011 Veteraniya	epoch	2016-07-31
+10140 Villon	epoch	2016-01-13
+1478 Vihuri	epoch	2016-07-31
+1310 Villigera	epoch	2016-07-31
+1544 Vinterhansenia	epoch	2016-07-31
+1887 Virton	epoch	2016-01-13
+1449 Virtanen	epoch	2016-07-31
+1623 Vivian	epoch	2016-01-13
+19822 Vonzielonka	epoch	2016-01-13
+1380 Volodia	epoch	2016-07-31
+1790 Volkov	epoch	2016-01-13
+1439 Vogtia	epoch	2016-07-31
+2123 Vltava	epoch	2016-07-31
+1724 Vladimir	epoch	2016-01-13
+13474 V'yus	epoch	2016-01-13
+7846 Setvák	epoch	2016-01-13
+7545 Smaklösa	epoch	2016-07-31
+4440 Tchantchès	epoch	2016-01-13
+6102 Visby	epoch	2016-07-31
+3703 Volkonskaya	epoch	2016-01-13
+6189 Völk	epoch	2016-07-31
+7440 Závist	epoch	2016-07-31
+13025 Zürich	epoch	2016-07-31
+1600 Vyssotsky	epoch	2016-07-31
+6181 Bobweber	epoch	2016-07-31
+10121 Arzamas	epoch	2016-07-31
+12621 Alsufi	epoch	2016-07-31
+12999 Toruń	epoch	2016-07-31
+12838 Adamsmith	epoch	2016-07-31
+2008 HJ	epoch	2016-01-13
+23131 Debenedictis	epoch	2016-01-13
+23327 Luchernandez	epoch	2016-01-13
+23436 Alekfursenko	epoch	2016-07-31
+30718 Records	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-07-31
+7835 Myroncope	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-01-13
+164589 La Sagra	epoch	2016-01-13
+Neptune	epoch	J2000
+98127 Vilgusová	epoch	2016-01-13
+90525 Karijanberg	epoch	2016-01-13
+116903 Jeromeapt	epoch	2016-07-31
+2008 KV42	epoch	2016
+951 Gaspra	epoch	2006-03-06
+	epoch	2016-01-13
+2008 TC3	epoch	2008-10-07
+	epoch	2016-01-13
+	epoch	2016-01-13
+2001 QW322	epoch	2016-01-13
+1995 SN55	epoch	1995-10-07
+	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+101955 Bennu	epoch	2016-07-31
+50000 Quaoar	epoch	2016-01-13
+	epoch	2016-01-13
+2009 DD45	epoch	2016-01-13
+Aegaeon	epoch	JD 2454467.00075444 TDB
+1994 WR12	epoch	1994-12-27
+	epoch	2016-01-13
+2003 LA7	epoch	2016-01-13
+2003 QX113	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+66652 Borasisi	epoch	2016-01-13
+74503 Madola	epoch	2016-01-13
+100000 Astronautica	epoch	2016-07-31
+	epoch	2016-01-13
+99949 Miepgies	epoch	2016-01-13
+4897 Tomhamilton	epoch	2016-07-31
+	epoch	2016-01-13
+1991 VG	epoch	2016-01-13
+2003 SM84	epoch	2016-01-13
+2009 VA	epoch	2009-11-06
+11433 Gemmafrisius	epoch	2016-01-13
+	epoch	2016-07-31
+2008 ST291	epoch	2016-01-13
+	epoch	2016-01-13
+10046 Creighton	epoch	2016-07-31
+	epoch	2016-01-13
+2010 AL30	epoch	2016-01-13
+2010 A2	epoch	2010
+2010 AA15	epoch	2016-01-13
+7985 Nedelcu	epoch	2016-01-13
+2000 YH2	epoch	2016-01-13
+9524 O'Rourke	epoch	2016-01-13
+4942 Munroe	epoch	2016-01-13
+4949 Akasofu	epoch	2016-07-31
+	epoch	2016-07-31
+25109 Hofving	epoch	2016-01-13
+25108 Boström	epoch	2016-01-13
+3982 Kastel	epoch	2016-01-13
+25088 Yoshimura	epoch	2016-01-13
+2010 GA6	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-07-31
+5357 Sekiguchi	epoch	2016-07-31
+	epoch	2016-01-13
+5477 Holmes	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-07-31
+	epoch	2016-07-31
+	epoch	2016-07-31
+	epoch	2016-07-31
+	epoch	2016-07-31
+1999 XS35	epoch	2016-01-13
+1999 XS35	epoch	T_jup = 1.407
+	epoch	2016-07-31
+6144 Kondojiro	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-07-31
+6566 Shafter	epoch	2015-06-27
+6726 Suthers	epoch	2016-01-13
+7449 Döllen	epoch	2016-01-13
+7648 Tomboles	epoch	2016-01-13
+7959 Alysecherri	epoch	2016-07-31
+9321 Alexkonopliv	epoch	2016-07-31
+10988 Feinstein	epoch	2016-01-13
+13003 Dickbeasley	epoch	2016-07-31
+13058 Alfredstevens	epoch	2016-07-31
+15268 Wendelinefroger	epoch	2016-01-13
+21501 Acevedo	epoch	2016-07-31
+22577 Alfiuccio	epoch	2016-07-31
+24988 Alainmilsztajn	epoch	2016-07-31
+52266 Van Flandern	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+2002 XV93	epoch	2016-01-13
+2008 LC18	epoch	2016-01-13
+2010 RF12	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+162173 Ryugu	epoch	2016-01-13
+	epoch	2016-07-31
+2010 KZ39	epoch	2016-01-13
+2010 RE64	epoch	2016-01-13
+Read	epoch	2006-01-07
+Read	epoch	T_jup = 3.153
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+2007 TG422	epoch	2016-01-13
+	epoch	2016-01-13
+655 Briseïs	epoch	2016-07-31
+861 Aïda	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+2011 MD	epoch	2011-07-11
+1999 LE31	epoch	2016-01-13
+2011 CQ1	epoch	2016-01-13
+8148 Golding	epoch	2016-01-13
+8815 Deanregas	epoch	2016-01-13
+2010 TK7	epoch	2016-01-13
+2004 KV18	epoch	2016-01-13
+	epoch	2016-07-31
+2006 HH123	epoch	2006-04-15
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2010-06-22
+	epoch	2016-01-13
+	epoch	2016-01-13
+2009 WM1	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-07-31
+2001 YB5	epoch	2016-01-13
+2004 BX159	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+11351 Leucus	epoch	2016-07-31
+	epoch	2016-01-13
+133243 Essen	epoch	2016-01-13
+2010 XC15	epoch	2016-01-13
+	epoch	2016-01-13
+2002 JE9	epoch	2016-01-13
+2005 WY55	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-01-13
+8026 Johnmckay	epoch	2016-07-31
+	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-07-31
+148780 Altjira	epoch	2016-01-13
+	epoch	2016-01-13
+11441 Anadiego	epoch	2016-07-31
+2012 BX34	epoch	2016-01-13
+367943 Duende	epoch	2016-01-13
+2010 AU118	epoch	2010
+	epoch	2016-01-13
+	epoch	2016-01-13
+2012 KT42	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2013-03-26
+2012 LZ1	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+2010 RF43	epoch	2016-01-13
+	epoch	2016-01-13
+2010 FX86	epoch	2016-01-13
+2010 VR11	epoch	2016-01-13
+2002 CY248	epoch	2016-01-13
+40463 Frankkameny	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+2011 FW62	epoch	2011-04-15
+2010 TJ	epoch	2016-01-13
+	epoch	2016-01-13
+2010 TY53	epoch	2016-01-13
+	epoch	2016-07-31
+1999 TR11	epoch	2016-01-13
+	epoch	2016-01-13
+2011 HM102	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-07-31
+2012 GX17	epoch	2016-01-13
+2010 EU65	epoch	2016-01-13
+	epoch	2016-01-13
+2011 SC191	epoch	2016-01-13
+2011 SL25	epoch	2016-01-13
+2011 UN63	epoch	2016-01-13
+2011 BT15	epoch	2016-01-13
+	epoch	2016-01-13
+274301 Wikipedia	epoch	2016-01-13
+2012 YQ1	epoch	2016-01-13
+2012 XE133	epoch	2016-01-13
+2012 KP24	epoch	2016-01-13
+2003 BR47	epoch	2016-01-13
+	epoch	2016-01-13
+2011 QF99	epoch	2016-01-13
+2013 BS45	epoch	2016-01-13
+2006 JY26	epoch	2016-01-13
+2012 FC71	epoch	2016-01-13
+2007 EB26	epoch	2007-03-11
+	epoch	2016-01-13
+2010 GB174	epoch	2016
+216433 Milianleo	epoch	2016-01-13
+2013 MZ5	epoch	2016-01-13
+2012 DR30	epoch	2016-01-13
+2013 BL76	epoch	2016-01-13
+2013 AZ60	epoch	2016-01-13
+	epoch	2016-01-13
+2011 EO40	epoch	2016-01-13
+2008 CK70	epoch	2016-01-13
+2008 AO112	epoch	2013
+2012 MU2	epoch	2016-01-13
+161989 Cacus	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-07-31
+17246 Christophedumas	epoch	2016-01-13
+	epoch	2016-01-13
+1999 OJ4	epoch	2016-01-13
+2013 TV135	epoch	2016-01-13
+PANSTARRS	epoch	2013
+	epoch	2016-07-31
+	epoch	2016-01-13
+2010 JL88	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+2014 AA	epoch	2014-01-01
+2013 YP139	epoch	2016-01-13
+2009 RR	epoch	2016-01-13
+2013 ND15	epoch	2016-01-13
+2014 AF5	epoch	2016-01-13
+	epoch	2016-01-13
+2013 JX28	epoch	2016-01-13
+2000 EM26	epoch	2016-01-13
+2011 XC2	epoch	2016-01-13
+	epoch	2016-01-13
+2014 DX110	epoch	2016-01-13
+2008 FF5	epoch	2008-03-31
+2005 HC4	epoch	2005-05-03
+2005 VX3	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-01-13
+2002 RN109	epoch	2016-01-13
+	epoch	2016-07-31
+2012 VP113	epoch	2016-01-13
+28439 Miguelreyes	epoch	2016-07-31
+2013 FY27	epoch	2016-01-13
+2013 FZ27	epoch	2016-01-13
+2010 VK201	epoch	2016-01-13
+385446 Manwë	epoch	2016-01-13
+2014 HQ124	epoch	2016-01-13
+	epoch	2016-01-13
+2014 LY21	epoch	2014-06-02
+2010 XG11	epoch	2016-01-13
+2014 RC	epoch	2016-01-13
+2014 OL339	epoch	2016-01-13
+2013 LX28	epoch	2016-01-13
+	epoch	2016-01-13
+2014 SC324	epoch	2016-01-13
+2014 MU69	epoch	--07-31
+2011 KW48	epoch	2011-06-08
+2012 TC4	epoch	2016-01-13
+2012 FN	epoch	2012-03-17
+2000 DG8	epoch	2016-01-13
+1996 PW	epoch	2016-01-13
+2013 RH74	epoch	2016-01-13
+2004 TN1	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-07-31
+	epoch	2016-01-13
+4324 Bickel	epoch	2016-07-31
+6250 Saekohayashi	epoch	2016-07-31
+2013 LA2	epoch	2013-06-05
+2014 OO6	epoch	2016-01-13
+2007 VE191	epoch	2016-01-13
+2014 XL7	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-07-31
+420356 Praamzius	epoch	2016-07-31
+2015 BP513	epoch	2016-01-13
+2015 AZ43	epoch	2016-01-13
+2014 YB35	epoch	2016-01-13
+	epoch	2016-01-13
+1999 CW8	epoch	2016-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+2008 OG19	epoch	2016-01-13
+2001 GO2	epoch	2016-01-13
+	epoch	2016-01-13
+2011 GA	epoch	2016-01-13
+	epoch	2016-01-13
+2009 BD	epoch	2010-01-04
+2014 PN70	epoch	2016-01-13
+2014 OS393	epoch	2014-09-10
+2012 FP35	epoch	2016-01-13
+2014 MT69	epoch	2014-07-21
+2012 UE34	epoch	2016-01-13
+2007 UW1	epoch	2016-01-13
+2011 WL2	epoch	2016-01-13
+2001 AV43	epoch	2016-01-13
+1993 DA	epoch	2016-01-13
+	epoch	2016-01-13
+11885 Summanus	epoch	2016-01-13
+	epoch	2016-01-13
+2015 ER61	epoch	2015
+2015 TB145	epoch	2016-01-13
+21900 Orus	epoch	2016-07-31
+52246 Donaldjohanson	epoch	2016-01-13
+WT1190F	epoch	2015
+2014 FC69	epoch	2016-01-13
+	epoch	2016-01-13
+2015 SO2	epoch	2016-07-31
+2015 YU9	epoch	2016-01-13
+988 Appella	epoch	2016-07-31
+2013 TX68	epoch	2013-10-05
+31179 Gongju	epoch	2015-06-27
+	epoch	2016-01-13
+342843 Davidbowie	epoch	2016-07-31
+2013 RF98	epoch	2016
+20936 Nemrut Dagi	epoch	2016-01-13
+21088 Chelyabinsk	epoch	2016-07-31
+31641 Cevasco	epoch	2016-01-13
+2010 BK118	epoch	2016-01-13
+7784 Watterson	epoch	2016-01-13
+7517 Alisondoane	epoch	2016-01-13
+7526 Ohtsuka	epoch	2016-01-13
+24827 Maryphil	epoch	2016-01-13
+	epoch	2016-01-13
+12564 Ikeller	epoch	2016-07-31
+15224 Penttilä	epoch	2016-07-31
+2003 SQ317	epoch	2016-01-13
+	epoch	2016
+2015 KH162	epoch	2016
+	epoch	2016
+341520 Mors–Somnus	epoch	2016
+2002 VT130	epoch	2013-01-13
+	epoch	2016-01-13
+	epoch	2016-01-13
+2001 XR254	epoch	2013-01-13
+2015 XX169	epoch	2016-01-13
+2015 YQ1	epoch	2016-01-13
+2015 YA	epoch	2016-01-13
+	epoch	2013-01-13
+2013 GP136	epoch	JD 2457400.5
+57868 Pupin	epoch	2016-01-13
+32145 Katberman	epoch	2016-07-31
+32226 Vikulgupta	epoch	2016-07-31
+	epoch	2016-07-31
+32008 Adriángalád	epoch	2016-07-31
+22899 Alconrad	epoch	2016-07-31
+2014 LM28	epoch	2016
+2014 OE394	epoch	2016-07-31
+	epoch	JD 2457600.5
+2016 PQ	epoch	2016-07-31
+2014 FE72	epoch	2016-07-31
+	epoch	2016-07-31
+17473 Freddiemercury	epoch	2016-07-31
+	epoch	2016-07-31
+	epoch	2016-07-31
+	epoch	2016-07-31
+2014 UZ224	epoch	2016-07-31
+2014 SR349	epoch	2016-07-31

@@ -1,0 +1,238 @@
+Vauxhall Slant-4 engine	valvetrain	SOHC
+Volvo B4B engine	valvetrain	Overhead valve
+Rover K-series engine	valvetrain	SOHC and DOHC
+Ford CVH engine	valvetrain	SOHC
+Ford Essex V4 engine	valvetrain	OHV, two valves per cylinder
+Ford Essex V4 engine	valvetrain	1.6
+Ford Essex V4 engine	valvetrain	1.4
+Ford Boss 302 engine	valvetrain	Overhead valve
+Chrysler B engine	valvetrain	OHV
+Chrysler A engine	valvetrain	OHV
+Chrysler LA engine	valvetrain	OHV
+Chrysler Slant-6 engine	valvetrain	Pushrod engine
+Ford Taunus V4 engine	valvetrain	OHV 2 valves per cylinder
+W8 engine	valvetrain	DOHC/4 valves per cylinder
+VR6 engine	valvetrain	DOHC/2 valves per cylinder/4 valves per cylinder
+VR6 engine	valvetrain	DOHC/4 valves per cylinder
+VR6 engine	valvetrain	DOHC/2 valves per cylinder
+LS based GM small-block engine	valvetrain	OHV
+Chevrolet small-block engine	valvetrain	Overhead valve
+Chevrolet small-block engine	valvetrain	OHV
+Chevrolet small-block engine	valvetrain	DOHC
+Chevrolet straight-6 engine	valvetrain	OHV
+Jaguar AJ-V6 engine	valvetrain	DOHC
+Toyota A engine	valvetrain	SOHC
+Toyota A engine	valvetrain	SOHC
+Toyota A engine	valvetrain	SOHC & DOHC
+Toyota A engine	valvetrain	DOHC
+Ford Essex V6 engine	valvetrain	OHV 12 valve
+Ford Essex V6 engine	valvetrain	Solid flat tappet lifters
+Ford Essex V6 engine	valvetrain	inlet valves
+Ford Essex V6 engine	valvetrain	exhaust valves
+Ford Essex V6 engine	valvetrain	SA 3.4 L:
+Ford Essex V6 engine	valvetrain	Capri X pack:
+Ford Essex V6 engine	valvetrain	DOHC 24 valve  - Cosworth GAA
+Ford Vulcan engine	valvetrain	OHV
+Mazda Z engine	valvetrain	DOHC
+Ford SHO V8 engine	valvetrain	32
+Ford Essex V6 engine	valvetrain	Overhead valve
+Nissan VK engine	valvetrain	DOHC
+Nissan VH engine	valvetrain	DOHC
+Nissan RB engine	valvetrain	SOHC
+Nissan RB engine	valvetrain	DOHC
+Nissan VQ engine	valvetrain	DOHC
+Nissan QR engine	valvetrain	DOHC
+Nissan VG engine	valvetrain	SOHC
+Nissan VG engine	valvetrain	DOHC
+Ford Power Stroke engine	valvetrain	OHV
+Nissan SR engine	valvetrain	DOHC
+Nissan KA engine	valvetrain	SOHC
+Nissan KA engine	valvetrain	DOHC
+Ford SHO V6 engine	valvetrain	DOHC
+Ford HSC engine	valvetrain	OHV
+General Motors Atlas engine	valvetrain	DOHC
+Ford Model T engine	valvetrain	side valve
+Cadillac V16 engine	valvetrain	Overhead valve
+Nissan CA engine	valvetrain	SOHC & DOHC
+Ford straight-six engine	valvetrain	Overhead valve
+Mitsubishi 6G7 engine	valvetrain	SOHC
+Mitsubishi 6G7 engine	valvetrain	DOHC
+Powertec RPA	valvetrain	32
+BMW M67	valvetrain	DOHC
+BMW M57	valvetrain	DOHC
+BMC A-Series engine	valvetrain	OHV
+Chevrolet Inline-4 engine	valvetrain	OHV
+Hyundai Beta engine	valvetrain	DOHC
+Hyundai Alpha engine	valvetrain	SOHC 12V
+Hyundai Alpha engine	valvetrain	DOHC 16V
+Ford Zeta engine	valvetrain	DOHC
+Circle L engine	valvetrain	DOHC
+Hyundai Theta engine	valvetrain	DOHC
+Nissan Z engine	valvetrain	SOHC
+Nissan G engine	valvetrain	OHV
+Prince G engine	valvetrain	OHV
+Prince G engine	valvetrain	SOHC
+Prince G engine	valvetrain	DOHC
+Opel OHV engine	valvetrain	OHV
+Mercedes-Benz OM617	valvetrain	SOHC 10 valve
+Mercedes-Benz M104 engine	valvetrain	DOHC, 4 valves per cylinder
+Willys Go Devil engine	valvetrain	L-head
+Chrysler Hemi engine	valvetrain	OHV
+Honda K engine	valvetrain	DOHC
+JTD engine	valvetrain	DOHC with roller finger followers
+Suzuki G engine	valvetrain	SOHC
+Volvo SI6 engine	valvetrain	DOHC
+Nissan J engine	valvetrain	OHV
+Nissan MR engine	valvetrain	DOHC
+Nissan MR engine	valvetrain	DOHC/4 valves per cylinder
+Nissan S20 engine	valvetrain	DOHC
+List of VM Motori engines	valvetrain	DOHC
+Rover T-Series engine	valvetrain	DOHC
+BMW S85	valvetrain	DOHC, double-VANOS
+Volkswagen G60 engine	valvetrain	2
+Ford Duratec V6 engine	valvetrain	DOHC
+Ford Cyclone engine	valvetrain	DOHC with Direct Acting Mechanical Buckets
+Jeep Tornado engine	valvetrain	Overhead cam
+Armstrong Siddeley Sapphire	valvetrain	OHV
+Armstrong Siddeley Sapphire	valvetrain	pushrod OHV
+Nissan HR engine	valvetrain	DOHC
+Nissan CG engine	valvetrain	DOHC
+Detroit Diesel V8 engine	valvetrain	16
+Morris Cowley	valvetrain	side valve L-head, helical timing gears
+Morris Cowley	valvetrain	side valve L-head, helical timing gears, camshaft in two plain bearings operating valves by mushroom head tappets, single valve springs
+Subaru EJ engine	valvetrain	DOHC
+Subaru EJ engine	valvetrain	Overhead camshaft
+Ford Barra engine	valvetrain	DOHC
+Ford Barra engine	valvetrain	Variable cam timing
+Nissan MA engine	valvetrain	SOHC
+Volvo Modular engine	valvetrain	DOHC
+Toyota V engine	valvetrain	OHV
+Subaru EA engine	valvetrain	Overhead valve
+Subaru EA engine	valvetrain	Overhead camshaft
+Subaru EA engine	valvetrain	SOHC
+Wasserboxer	valvetrain	Overhead-valve
+Daimler V8 engines	valvetrain	OHV by pushrods and rockers from a single camshaft, two valves per cylinder, hemispherical head
+Daimler Majestic Major	valvetrain	2
+Honda G engine	valvetrain	20
+Alfa Romeo V6 engine	valvetrain	S/DOHC 60° 2/4-valve
+Renault K-Type engine	valvetrain	SOHC/2 valves per cylinder
+Renault R-Type engine	valvetrain	DOHC/4 valves per cylinder
+Sofim 8140 engine	valvetrain	SOHC 8v
+Renault G-Type engine	valvetrain	Single overhead camshaft
+Renault G-Type engine	valvetrain	Multivalve
+Renault G-Type engine	valvetrain	DOHC 4 valves per cylinder
+Mitsubishi 3B2 engine	valvetrain	Direct acting DOHC, 12 valves, continuously variable MIVEC intake valve timing
+Mitsubishi 4A9 engine	valvetrain	Direct acting DOHC, 16 valves, continuously variable MIVEC intake valve timing
+Daimler Majestic	valvetrain	OHV pushrod cam-in-block
+Mitsubishi 4B1 engine	valvetrain	Direct acting DOHC, 16 valves, continuously variable MIVEC intake and exhaust  valve timing
+Mitsubishi 6B3 engine	valvetrain	Roller rocker arm, SOHC, 24 valves MIVEC , auto lash adjuster
+Volkswagen air-cooled engine	valvetrain	Overhead valve
+AMC straight-4 engine	valvetrain	Overhead valve
+Nissan P engine	valvetrain	OHV
+Lotus-Ford Twin Cam	valvetrain	DOHC, 2 valves / cyl., chain driven
+Tatra 813	valvetrain	Overhead valve
+Tatra 148	valvetrain	Overhead valve
+Toyota GZ engine	valvetrain	DOHC
+Toyota B engine	valvetrain	OHV
+Daimler DR450	valvetrain	OHV by pushrods and rockers
+Daimler DR450	valvetrain	Two valves per cylinder
+Daimler DR450	valvetrain	hemispherical head
+BMW S65	valvetrain	DOHC
+Mazda FE-DOHC engine	valvetrain	DOHC
+Mazda FE-DOHC engine	valvetrain	16-valve
+Mercedes-Benz M116 engine	valvetrain	SOHC
+Volvo B8444S engine	valvetrain	DOHC
+Suzuki M engine	valvetrain	DOHC
+Toyota Type A engine	valvetrain	Overhead valve
+Nissan CR engine	valvetrain	DOHC
+Volkswagen D24TIC engine	valvetrain	12
+Volkswagen D24T engine	valvetrain	12
+Volkswagen D24 engine	valvetrain	12
+Nissan VR engine	valvetrain	DOHC
+Tatra 111	valvetrain	Overhead valve
+Tatra 603	valvetrain	OHV
+Tatra 138	valvetrain	Overhead valve
+Holden straight-six motor	valvetrain	OHV
+Volvo FE	valvetrain	Overhead valve
+Daimler Regency	valvetrain	OHV pushrod cam-in-block
+BMW OHV V8 engine	valvetrain	Overhead valve
+Daimler DK400	valvetrain	OHV pushrod cam-in-block
+Mercedes-Benz OM642	valvetrain	DOHC
+Mercedes-Benz OM642	valvetrain	Multi-valve
+Ferrari F136 engine	valvetrain	DOHC, 32-valve
+Mitsubishi 4N1 engine	valvetrain	DOHC, 16 valves, variable valve timing MIVEC
+Ford GAA engine	valvetrain	Overhead camshaft
+Toyota C engine	valvetrain	SOHC
+General Motors 90° V6 engine	valvetrain	OHV
+Toyota AR engine	valvetrain	DOHC
+Mercedes-Benz OM611 engine	valvetrain	DOHC
+Mercedes-Benz OM612 engine	valvetrain	DOHC
+Mercedes-Benz OM647 engine	valvetrain	DOHC
+International Harvester IDI	valvetrain	OHV
+Duesenberg Straight-8 engine	valvetrain	DOHC, 4 valves per cylinder
+Ford EcoBoost engine	valvetrain	DOHC with Direct Acting Mechanical Buckets
+Ford EcoBoost engine	valvetrain	Variable camshaft timing
+Daimler Consort	valvetrain	OHV, pushrod cam-in-block   valves canted 15 degrees in special combustion chambers
+Hyundai Kappa engine	valvetrain	DOHC 12-valve
+Hyundai Kappa engine	valvetrain	16
+Mazda L engine	valvetrain	DOHC
+BMW N57	valvetrain	DOHC
+BMW N57	valvetrain	4
+Polyspheric	valvetrain	OHV
+Toyota FZ engine	valvetrain	Overhead cam
+IKCO EF Engines	valvetrain	DOHC
+V9X engine	valvetrain	DOHC
+Mercedes-Benz OM606 engine	valvetrain	DOHC
+Mercedes-Benz OM606 engine	valvetrain	Multi-valve
+Mercedes-Benz OM605 engine	valvetrain	DOHC
+Mercedes-Benz OM605 engine	valvetrain	Multi-valve
+Mercedes-Benz OM604 engine	valvetrain	DOHC
+Mercedes-Benz OM604 engine	valvetrain	Multi-valve
+Daimler New Fifteen	valvetrain	OHV pushrod cam-in-block
+Hyundai Gamma engine	valvetrain	DOHC 16V
+Hyundai Nu engine	valvetrain	DOHC 16V D-CVVT
+SkyActiv	valvetrain	DOHC
+Fiat E.torQ engine	valvetrain	SOHC
+GM small gasoline engine	valvetrain	DOHC
+GM Medium Gasoline Engine	valvetrain	DOHC
+Daimler Fifteen	valvetrain	OHV operated by pushrods from chain-driven camshaft
+Daimler Fifteen	valvetrain	OHV pushrod cam-in-block
+Lanchester Ten	valvetrain	ohv operated by pushrods from a chain-driven camshaft
+18	valvetrain	ohv operated by pushrods from a chain-driven camshaft
+Lanchester Light Six	valvetrain	ohv operated by pushrods from a chain-driven camshaft
+BSA Light Six	valvetrain	ohv operated by pushrods from a chain-driven camshaft
+Lanchester Fourteen	valvetrain	OHV pushrod cam-in-block
+Mercedes-Benz OM651 engine	valvetrain	DOHC 16-valve
+GM Family Z engine	valvetrain	DOHC
+Toyota W engine	valvetrain	OHV
+Vauxhall Cadet	valvetrain	ohv, operated by pushrods and rockers, valves have single springs
+Nissan VRT35	valvetrain	DOHC 4 valves per cylinder
+Nissan W64 engine	valvetrain	Overhead valve
+Mercedes-Benz OM668	valvetrain	DOHC
+Mercedes-Benz OM636	valvetrain	Over head valve
+Daimler Straight-Eight engines	valvetrain	OHV worked by pushrods from a nine-bearing camshaft-in-block,
+Daimler Straight-Eight engines	valvetrain	timing is mounted at the back of the block
+Daimler Straight-Eight engines	valvetrain	OHV worked by pushrods from a nine-bearing camshaft-in-block
+Mercedes-Benz OM457 engine	valvetrain	OHV
+Duesenberg Model J	valvetrain	DOHC, 4 valves per cylinder
+GM Medium Diesel engine	valvetrain	DOHC
+Duesenberg Model A	valvetrain	Shaft-driven SOHC, 2 valves/cyl.
+Indian Powerplus	valvetrain	Flathead engine
+Honda Indy V8	valvetrain	32
+Zytek ZRS03	valvetrain	DOHC
+List of Volvo Trucks engines	valvetrain	Overhead-valve
+Isuzu V engine	valvetrain	SOHC
+Isuzu V engine	valvetrain	DOHC
+Ferrari F140 engine	valvetrain	Overhead camshaft
+Daimler DE	valvetrain	Overhead valve
+Chevrolet Indy V6	valvetrain	24
+Ferrari F154 engine	valvetrain	DOHC, 32-valve
+Morris Oxford bullnose	valvetrain	side valve L-head, helical timing gears, camshaft in two plain bearings operating valves by mushroom head tappets, single valve springs
+F133 engine	valvetrain	DOHC, 48-valve
+Ferrari flat-12 engine	valvetrain	Overhead camshaft
+FCA F160 engine	valvetrain	DOHC, 24-valve
+Volvo Engine Architecture	valvetrain	DOHC
+Mercedes-Benz OM654 engine	valvetrain	DOHC 16-valve
+MWM AKD 112 Z	valvetrain	OHV
+Mitsubishi 4J1 engine	valvetrain	Direct acting SOHC, 16 valves, continuously variable MIVEC intake valve timing
+12-1 SRW	valvetrain	OHV

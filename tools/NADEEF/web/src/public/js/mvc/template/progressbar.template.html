@@ -1,0 +1,15 @@
+<div id="progressbar-content">
+<% if (_.isEmpty(progress)) { %>
+<div class="well well-small"><span>No job is running.</span></div>
+<% } else {
+    _.each(progress, function(item) { %>
+    <div class='well well-small'>
+      <span>  
+	    <%= item.name %>
+      </span>
+      <div class="progress">
+	    <div class="bar" style="width: <%= item.value %>%;"></div>
+      </div>
+    </div>
+    <% });} %>
+</div>

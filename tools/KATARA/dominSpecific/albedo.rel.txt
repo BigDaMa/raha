@@ -1,0 +1,1405 @@
+Carme	albedo	0.04
+Lysithea	albedo	0.04
+Moon	albedo	0.136
+Miranda	albedo	0.32
+Nereid	albedo	0.155
+Naiad	albedo	0.07
+433 Eros	albedo	0.25
+Jupiter	albedo	0.343
+Jupiter	albedo	0.52
+Callisto	albedo	0.22
+Europa	albedo	0.67
+Triton	albedo	0.76
+Uranus	albedo	0.3
+Uranus	albedo	0.51
+Pluto	albedo	0.49
+Halley's Comet	albedo	0.04
+52 Europa	albedo	0.058
+4179 Toutatis	albedo	0.13
+16 Psyche	albedo	0.12
+243 Ida	albedo	0.2383
+4 Vesta	albedo	0.423
+2 Pallas	albedo	0.159
+Titan	albedo	0.22
+Atlas	albedo	0.4
+Charon	albedo	0.2
+Phobos	albedo	0.071
+Puck	albedo	* 0.11 ± 0.015 \n* 0.035 ± 0.006  at 0.55 μm
+Deimos	albedo	0.068
+Juliet	albedo	0.08
+Belinda	albedo	0.08
+Rosalind	albedo	0.08
+Pan	albedo	0.5
+3 Juno	albedo	0.238
+Iapetus	albedo	0.05
+Leda	albedo	0.04
+Proteus	albedo	0.096
+Pandora	albedo	0.6
+5145 Pholus	albedo	0.044
+	albedo	0.07
+Hyperion	albedo	0.3
+141 Lumen	albedo	&thinsp;
+141 Lumen	albedo	0.054
+Caliban	albedo	0.04
+65 Cybele	albedo	0.05
+65 Cybele	albedo	0.071
+Pasiphae	albedo	0.04
+Pasiphae	albedo	0.1
+Ananke	albedo	0.04
+Himalia	albedo	0.04
+Elara	albedo	0.04
+Sinope	albedo	0.04
+Enceladus	albedo	or 0.99
+24 Themis	albedo	0.067
+Phoebe	albedo	0.06
+Prometheus	albedo	0.6
+624 Hektor	albedo	0.025
+Larissa	albedo	0.09
+5 Astraea	albedo	0.227
+Churyumov–Gerasimenko	albedo	0.06
+944 Hidalgo	albedo	0.06
+1620 Geographos	albedo	0.3258
+	albedo	0.2
+51826 Kalpanachawla	albedo	--04-10
+Themisto	albedo	0.04
+Setebos	albedo	0.04
+21 Lutetia	albedo	0.19
+21 Lutetia	albedo	0.073
+Callirrhoe	albedo	0.04
+Portia	albedo	0.08
+Portia	albedo	0.07
+Prospero	albedo	0.04
+Thalassa	albedo	0.09
+Galatea	albedo	0.08
+Despina	albedo	0.09
+1862 Apollo	albedo	0.25
+2867 Šteins	albedo	0.34
+9969 Braille	albedo	0.18
+6 Hebe	albedo	0.268
+4015 Wilson–Harrington	albedo	0.05
+7968 Elst–Pizarro	albedo	0.05
+90 Antiope	albedo	0.06
+2685 Masursky	albedo	0.06
+45 Eugenia	albedo	0.04
+1566 Icarus	albedo	0.4
+216 Kleopatra	albedo	0.1068
+511 Davida	albedo	0.054
+1036 Ganymed	albedo	0.17
+3908 Nyx	albedo	0.23
+4183 Cuno	albedo	0.2
+Erriapus	albedo	0.04
+Albiorix	albedo	0.04
+Paaliaq	albedo	0.04
+Siarnaq	albedo	0.04
+Kiviuq	albedo	0.04
+Tarvos	albedo	0.04
+Ymir	albedo	0.06
+Stephano	albedo	0.04
+Trinculo	albedo	0.04
+4197 Morpheus	albedo	0.37
+4486 Mithra	albedo	0.2
+719 Albert	albedo	assumed 0.15 or 0.12
+25143 Itokawa	albedo	0.53
+4660 Nereus	albedo	0.54
+5535 Annefrank	albedo	0.18
+6489 Golevka	albedo	0.151
+8405 Asbolus	albedo	0.05
+8405 Asbolus	albedo	0.057
+	albedo	0.15
+51 Nemausa	albedo	0.093
+2002 AA29	albedo	0.2
+3728 IRAS	albedo	0.0815
+3552 Don Quixote	albedo	0.03
+3318 Blixen	albedo	0.1275
+2985 Shakespeare	albedo	0.24
+2934 Aristophanes	albedo	0.0761
+2984 Chaucer	albedo	--10-10
+1981 Midas	albedo	0.2661
+1983 Bok	albedo	0.1
+1982 Cline	albedo	0.2
+1516 Henry	albedo	0.0536
+1516 Henry	albedo	0.0767
+2865 Laurel	albedo	0.2438
+2747 Český Krumlov	albedo	0.038
+2747 Český Krumlov	albedo	0.0405
+2709 Sagan	albedo	0.24
+2675 Tolkien	albedo	0.24
+7 Iris	albedo	0.277
+2575 Bulgaria	albedo	0.24
+	albedo	0.1
+11754 Herbig	albedo	0.1
+1810 Epimetheus	albedo	0.24
+4659 Roddenberry	albedo	0.2
+11 Parthenope	albedo	0.1803
+8 Flora	albedo	0.243
+13 Egeria	albedo	0.0825
+9 Metis	albedo	0.118
+14 Irene	albedo	0.159
+12 Victoria	albedo	0.1765
+10 Hygiea	albedo	0.0717
+17 Thetis	albedo	0.1715
+15 Eunomia	albedo	0.209
+18 Melpomene	albedo	0.223
+19 Fortuna	albedo	0.037
+20 Massalia	albedo	0.21
+23 Thalia	albedo	0.2536
+25 Phocaea	albedo	0.231
+26 Proserpina	albedo	0.1966
+27 Euterpe	albedo	0.162
+28 Bellona	albedo	0.1763
+29 Amphitrite	albedo	0.1793
+30 Urania	albedo	0.1714
+31 Euphrosyne	albedo	0.0543
+32 Pomona	albedo	0.2564
+35 Leukothea	albedo	0.066
+36 Atalante	albedo	0.065
+34 Circe	albedo	0.0541
+37 Fides	albedo	0.183
+40 Harmonia	albedo	0.242
+38 Leda	albedo	0.0618
+39 Laetitia	albedo	0.287
+41 Daphne	albedo	0.083
+42 Isis	albedo	0.171
+43 Ariadne	albedo	0.274
+44 Nysa	albedo	0.44
+44 Nysa	albedo	0.19
+46 Hestia	albedo	0.052
+47 Aglaja	albedo	0.08
+48 Doris	albedo	0.062
+49 Pales	albedo	0.0597
+50 Virginia	albedo	0.036
+53 Kalypso	albedo	0.04
+54 Alexandra	albedo	0.056
+56 Melete	albedo	0.065
+55 Pandora	albedo	0.301
+57 Mnemosyne	albedo	0.215
+58 Concordia	albedo	0.058
+59 Elpis	albedo	0.044
+60 Echo	albedo	0.254
+63 Ausonia	albedo	0.159
+62 Erato	albedo	0.061
+64 Angelina	albedo	0.28
+64 Angelina	albedo	0.157
+61 Danaë	albedo	0.2224
+66 Maja	albedo	0.06
+67 Asia	albedo	0.255
+69 Hesperia	albedo	0.14
+68 Leto	albedo	0.228
+70 Panopaea	albedo	0.0675
+71 Niobe	albedo	0.305
+73 Klytia	albedo	0.225
+72 Feronia	albedo	0.063
+74 Galatea	albedo	0.043
+75 Eurydike	albedo	0.149
+77 Frigga	albedo	0.144
+76 Freia	albedo	0.036
+78 Diana	albedo	0.071
+79 Eurynome	albedo	0.262
+80 Sappho	albedo	0.185
+81 Terpsichore	albedo	0.051
+82 Alkmene	albedo	0.208
+83 Beatrix	albedo	0.092
+84 Klio	albedo	0.053
+86 Semele	albedo	0.047
+85 Io	albedo	0.067
+87 Sylvia	albedo	0.0435
+88 Thisbe	albedo	0.067
+89 Julia	albedo	0.176
+91 Aegina	albedo	0.043
+92 Undina	albedo	0.251
+94 Aurora	albedo	0.0395
+95 Arethusa	albedo	&thinsp;
+95 Arethusa	albedo	0.07
+98 Ianthe	albedo	0.047
+99 Dike	albedo	0.058
+100 Hekate	albedo	0.192
+96 Aegle	albedo	0.052
+97 Klotho	albedo	0.229
+109 Felicitas	albedo	0.07
+110 Lydia	albedo	0.181
+107 Camilla	albedo	0.0525
+114 Kassandra	albedo	0.0868
+115 Thyra	albedo	0.275
+117 Lomia	albedo	0.053
+121 Hermione	albedo	0.0482
+125 Liberatrix	albedo	0.1305
+126 Velleda	albedo	0.1723
+127 Johanna	albedo	0.0557
+129 Antigone	albedo	0.164
+130 Elektra	albedo	0.076
+134 Sophrosyne	albedo	0.0436
+133 Cyrene	albedo	0.2563
+136 Austria	albedo	0.1459
+137 Meliboea	albedo	0.0492
+135 Hertha	albedo	0.1436
+2069 Hubble	albedo	0.0538
+145 Adeona	albedo	0.0467
+Perdita	albedo	0.08
+146 Lucina	albedo	0.0496
+142 Polana	albedo	0.045
+22 Kalliope	albedo	0.17
+151 Abundantia	albedo	0.173
+152 Atala	albedo	0.054
+154 Bertha	albedo	0.0483
+157 Dejanira	albedo	0.1
+156 Xanthippe	albedo	0.0687
+163 Erigone	albedo	0.0428
+159 Aemilia	albedo	0.0627
+160 Una	albedo	&thinsp;
+160 Una	albedo	0.063
+Cupid	albedo	0.07
+Mab	albedo	0.103
+Margaret	albedo	0.04
+Francisco	albedo	0.04
+Ferdinand	albedo	0.04
+169 Zelia	albedo	0.178
+166 Rhodope	albedo	0.0747
+181 Eucharis	albedo	4
+187 Lamberta	albedo	0.0647
+189 Phthia	albedo	0.1566
+190 Ismene	albedo	0.066
+193 Ambrosia	albedo	0.1
+197 Arete	albedo	0.442
+2062 Aten	albedo	0.26
+	albedo	0.098
+	albedo	0.247
+1221 Amor	albedo	0.15
+5261 Eureka	albedo	0.39
+516 Amherstia	albedo	0.163
+516 Amherstia	albedo	&thinsp;
+3554 Amun	albedo	0.1284
+	albedo	0.15
+201 Penelope	albedo	0.0881
+2001 Einstein	albedo	0.4
+	albedo	0.3718
+2072 Kosmodemyanskaya	albedo	0.2
+1695 Walbeck	albedo	0.0504
+1695 Walbeck	albedo	0.0503
+1604 Tombaugh	albedo	0.1038
+1604 Tombaugh	albedo	0.0933
+99942 Apophis	albedo	0.23
+6223 Dahl	albedo	0.057
+26858 Misterrogers	albedo	0.2
+25924 Douglasadams	albedo	0.1
+206 Hersilia	albedo	0.055
+211 Isolda	albedo	0.0598
+219 Thusnelda	albedo	0.2214
+218 Bianca	albedo	0.1979
+244 Sita	albedo	&thinsp;
+244 Sita	albedo	0.194
+259 Aletheia	albedo	0.0436
+258 Tyche	albedo	&thinsp;
+258 Tyche	albedo	0.168
+276 Adelheid	albedo	0.045
+277 Elvira	albedo	0.277
+275 Sapientia	albedo	0.036
+292 Ludovica	albedo	&thinsp;
+292 Ludovica	albedo	0.265
+281 Lucretia	albedo	&thinsp;
+281 Lucretia	albedo	0.199
+291 Alice	albedo	&thinsp;
+291 Alice	albedo	0.208
+306 Unitas	albedo	0.211
+320 Katharina	albedo	0.3207
+330 Adalberta	albedo	0.2
+324 Bamberga	albedo	0.0628
+335 Roberta	albedo	0.058
+341 California	albedo	&thinsp;
+341 California	albedo	0.495
+333 Badenia	albedo	0.0475
+349 Dembowska	albedo	0.384
+382 Dodona	albedo	0.161
+398 Admete	albedo	0.0555
+10979 Fristephenson	albedo	0.1
+434 Hungaria	albedo	0.428
+428 Monachia	albedo	0.114
+1578 Kirkwood	albedo	0.0517
+1992 Galvarino	albedo	0.14
+	albedo	0.04
+2127 Tanya	albedo	0.0601
+Fenrir	albedo	0.04
+36446 Cinodapistoia	albedo	0.04
+Daphnis	albedo	≈&thinsp;0.5
+3043 San Diego	albedo	0.3
+1685 Toro	albedo	0.31
+Haumea	albedo	&thinsp;
+Haumea	albedo	0.7
+	albedo	0.7
+1998 WW31	albedo	0.05
+	albedo	0.06
+38628 Huya	albedo	0.083
+11264 Claudiomaccone	albedo	0.1
+4581 Asclepius	albedo	0.1
+2002 Euler	albedo	0.0839
+11020 Orwell	albedo	0.1
+2000	albedo	0.06
+	albedo	0.1
+457 Alleghenia	albedo	0.057
+466 Tisiphone	albedo	0.056
+468 Lina	albedo	0.058
+4349 Tibúrcio	albedo	0.0493
+1743 Schmidt	albedo	0.0603
+505 Cava	albedo	0.04
+504 Cora	albedo	0.1908
+538 Friederike	albedo	0.0641
+538 Friederike	albedo	&thinsp;
+546 Herodias	albedo	0.0534
+645 Agrippina	albedo	0.2283
+647 Adelgunde	albedo	0.2
+651 Antikleia	albedo	0.1603
+666 Desdemona	albedo	0.1372
+694 Ekard	albedo	0.046
+693 Zerbinetta	albedo	0.0683
+720 Bohlinia	albedo	0.203
+797 Montana	albedo	0.2
+773 Irmintraud	albedo	0.044
+788 Hohensteina	albedo	0.0787
+789 Lena	albedo	0.1
+771 Libera	albedo	&thinsp;
+771 Libera	albedo	0.1226
+756 Lilliana	albedo	0.05
+802 Epyaxa	albedo	0.24
+806 Gyldénia	albedo	0.0373
+854 Frostia	albedo	0.33
+867 Kovacia	albedo	0.0923
+887 Alinda	albedo	0.31
+884 Priamus	albedo	0.057
+950 Ahrensa	albedo	0.2727
+952 Caia	albedo	0.0506
+1000 Piazzia	albedo	0.0457
+Hydra	albedo	0.83
+Nix	albedo	0.56
+1958 Chandra	albedo	0.0511
+1313 Berna	albedo	0.21
+3749 Balam	albedo	0.16
+3749 Balam	albedo	0.15
+1866 Sisyphus	albedo	0.15
+8991 Solidarity	albedo	0.057
+8992 Magnanimity	albedo	0.2
+19367 Pink Floyd	albedo	0.1
+1627 Ivar	albedo	0.15
+1627 Ivar	albedo	0.151
+1657 Roemera	albedo	0.2
+2009 Voloshina	albedo	0.0698
+3360 Syrinx	albedo	0.17
+1863 Antinous	albedo	0.24
+1863 Antinous	albedo	0.29
+1865 Cerberus	albedo	0.22
+1130 Skuld	albedo	0.24
+3551 Verenia	albedo	0.37
+1834 Palach	albedo	0.14
+1840 Hus	albedo	0.057
+7796 Járacimrman	albedo	0.0408
+	albedo	0.09
+	albedo	0.09
+	albedo	0.09
+7066 Nessus	albedo	0.06
+10199 Chariklo	albedo	0.045
+10370 Hylonome	albedo	0.057
+21751 Jennytaylor	albedo	0.1
+60558 Echeclus	albedo	0.04
+5264 Telephus	albedo	0.0624
+2099 Öpik	albedo	0.057
+54598 Bienor	albedo	0.03
+1322 Coppernicus	albedo	0.16
+6267 Rozhen	albedo	0.24
+2644 Victor Jara	albedo	0.15
+99906 Uofalberta	albedo	0.1
+1002 Olbersia	albedo	0.0621
+58534 Logos	albedo	0.39
+2000 Herschel	albedo	0.2
+1998 Titius	albedo	0.2
+1997 Leverrier	albedo	0.1662
+1999 Hirayama	albedo	0.0882
+1999 Hirayama	albedo	0.0675
+1575 Winifred	albedo	0.3134
+1602 Indiana	albedo	0.24
+1721 Wells	albedo	0.0528
+1615 Bardwell	albedo	0.0642
+1728 Goethe Link	albedo	&thinsp;
+1728 Goethe Link	albedo	0.2
+1741 Giclas	albedo	&thinsp;
+1741 Giclas	albedo	0.24
+1746 Brouwer	albedo	0.0448
+1746 Brouwer	albedo	&thinsp;
+1766 Slipher	albedo	0.057
+1764 Cogshall	albedo	0.0852
+1765 Wrubel	albedo	0.1061
+1788 Kiess	albedo	0.08
+1799 Koussevitzky	albedo	0.1426
+1822 Waterman	albedo	0.2
+1798 Watts	albedo	0.24
+1826 Miller	albedo	0.1294
+1826 Miller	albedo	0.1085
+1852 Carpenter	albedo	0.1224
+1988 Delores	albedo	0.24
+1952 Hesburgh	albedo	0.1041
+1996 Adams	albedo	0.21
+1853 McElroy	albedo	0.2494
+1853 McElroy	albedo	0.1937
+1994 Shane	albedo	0.064
+1994 Shane	albedo	0.0372
+2007 McCuskey	albedo	0.0703
+2023 Asaph	albedo	0.057
+1955 McMath	albedo	0.24
+2065 Spicer	albedo	0.057
+Skoll	albedo	0.04
+1143 Odysseus	albedo	0.0753
+8371 Goven	albedo	0.1
+12374 Rakhat	albedo	0.2
+4276 Clifford	albedo	--10-15
+1993 RP	albedo	0.1
+	albedo	0.022
+	albedo	0.09
+1035 Amata	albedo	0.0571
+1073 Gellivara	albedo	0.0241
+1039 Sonneberga	albedo	0.0363
+1203 Nanna	albedo	0.0473
+1203 Nanna	albedo	0.0329
+3671 Dionysus	albedo	0.16
+2006 Polonskaya	albedo	--10-10
+2006 Polonskaya	albedo	0.35
+1042 Amazone	albedo	0.0358
+1031 Arctica	albedo	0.0465
+1027 Aesculapia	albedo	0.0981
+1027 Aesculapia	albedo	0.0821
+1045 Michela	albedo	0.328
+1052 Belgica	albedo	0.2
+1181 Lilith	albedo	0.1
+51825 Davidbrown	albedo	--04-10
+51823 Rickhusband	albedo	--04-10
+51824 Mikeanderson	albedo	--04-10
+51827 Laurelclark	albedo	--04-10
+51828 Ilanramon	albedo	--04-10
+51829 Williemccool	albedo	--04-10
+2114 Wallenquist	albedo	0.0447
+118401 LINEAR	albedo	0.06
+3103 Eger	albedo	0.64
+5011 Ptah	albedo	0.2
+1054 Forsytia	albedo	0.0648
+	albedo	0.1
+2340 Hathor	albedo	0.15
+	albedo	0.09
+1365 Henyey	albedo	0.24
+1661 Granule	albedo	0.24
+1514 Ricouxa	albedo	0.24
+1703 Barry	albedo	0.2187
+1703 Barry	albedo	0.2805
+4150 Starr	albedo	0.24
+1056 Azalea	albedo	0.1
+1058 Grubba	albedo	0.15
+1057 Wanda	albedo	0.0446
+1059 Mussorgskia	albedo	0.15
+1060 Magnolia	albedo	0.15
+1061 Paeonia	albedo	0.15
+1062 Ljuba	albedo	0.0668
+1063 Aquilegia	albedo	0.1572
+1066 Lobelia	albedo	0.15
+1067 Lunaria	albedo	0.15
+1068 Nofretete	albedo	0.15
+1070 Tunica	albedo	0.0768
+1071 Brita	albedo	0.0637
+1072 Malva	albedo	0.0549
+1076 Viola	albedo	0.0415
+1075 Helina	albedo	0.122
+1074 Beljawskya	albedo	0.0646
+1085 Amaryllis	albedo	0.0628
+1083 Salvia	albedo	0.15
+1084 Tamariwa	albedo	0.1165
+1081 Reseda	albedo	0.0372
+1082 Pirola	albedo	0.0655
+1080 Orchis	albedo	0.043
+1079 Mimosa	albedo	0.1367
+1078 Mentha	albedo	0.15
+1086 Nata	albedo	0.0767
+1087 Arabis	albedo	0.2248
+1088 Mitaka	albedo	0.15
+1091 Spiraea	albedo	0.0994
+1093 Freda	albedo	0.0381
+1094 Siberia	albedo	0.0943
+1095 Tulipa	albedo	0.1208
+3596 Meriones	albedo	0.15
+	albedo	0.07
+	albedo	0.1
+79360 Sila–Nunam	albedo	0.086
+	albedo	0.071
+52872 Okyrhoe	albedo	0.03
+	albedo	0.1
+	albedo	0.1
+	albedo	0.15
+	albedo	0.09
+	albedo	0.09
+	albedo	0.09
+	albedo	0.1
+	albedo	0.09
+	albedo	0.1
+	albedo	0.09
+	albedo	0.09
+1997 SZ10	albedo	0.09
+	albedo	0.7
+	albedo	0.1
+	albedo	0.09
+	albedo	0.1
+	albedo	0.1
+	albedo	0.09
+	albedo	0.09
+	albedo	0.1
+	albedo	0.1
+	albedo	0.09
+	albedo	0.7
+1096 Reunerta	albedo	0.0638
+	albedo	--08-10
+3054 Strugatskia	albedo	0.0845
+1099 Figneria	albedo	0.1415
+1097 Vicia	albedo	0.0831
+	albedo	0.09
+42355 Typhon	albedo	0.044
+42355 Typhon	albedo	0.1
+	albedo	0.09
+6980 Kyusakamoto	albedo	0.24
+	albedo	0.09
+	albedo	0.09
+	albedo	0.09
+	albedo	0.09
+	albedo	0.09
+	albedo	0.09
+	albedo	0.09
+	albedo	0.09
+13070 Seanconnery	albedo	0.2
+	albedo	0.079
+1675 Simonida	albedo	0.248
+1675 Simonida	albedo	0.2501
+1517 Beograd	albedo	0.0491
+1550 Tito	albedo	0.2
+1554 Yugoslavia	albedo	0.21
+1564 Srbija	albedo	0.057
+2348 Michkovitch	albedo	0.057
+	albedo	0.09
+	albedo	0.04
+	albedo	0.1
+	albedo	0.09
+	albedo	0.7
+2006 RH120	albedo	0.1
+1103 Sequoia	albedo	0.1
+4149 Harrison	albedo	0.21
+	albedo	0.0581
+3757 Anagolay	albedo	0.18
+3757 Anagolay	albedo	0.26
+3988 Huma	albedo	0.2
+4034 Vishnu	albedo	0.52
+	albedo	0.06
+1131 Porzia	albedo	0.2
+1132 Hollandia	albedo	0.1
+1167 Dubiago	albedo	0.0509
+1139 Atami	albedo	0.2
+3362 Khufu	albedo	0.21
+6377 Cagney	albedo	0.21
+Mars	albedo	0.17
+Mars	albedo	0.25
+12359 Cajigal	albedo	0.08
+	albedo	0.2
+9991 Anežka	albedo	0.08
+8967 Calandra	albedo	0.057
+1404 Ajax	albedo	0.0665
+1404 Ajax	albedo	0.0508
+1647 Menelaus	albedo	0.057
+1749 Telamon	albedo	0.0562
+1749 Telamon	albedo	0.0469
+1583 Antilochus	albedo	0.0633
+1868 Thersites	albedo	0.057
+2146 Stentor	albedo	0.1
+2148 Epeios	albedo	0.1
+9983 Rickfienberg	albedo	0.057
+2456 Palamedes	albedo	0.0304
+2260 Neoptolemus	albedo	0.065
+2759 Idomeneus	albedo	0.0571
+2920 Automedon	albedo	0.0433
+2797 Teucer	albedo	0.0624
+3063 Makhaon	albedo	0.0476
+3391 Sinon	albedo	0.1
+3540 Protesilaos	albedo	0.057
+3548 Eurybates	albedo	0.0538
+3564 Talthybius	albedo	0.0934
+19741 Callahan	albedo	0.2
+2542 Calpurnia	albedo	0.0639
+2906 Caltech	albedo	0.0526
+9963 Sandage	albedo	0.23
+2531 Cambridge	albedo	0.2104
+3752 Camillo	albedo	0.22
+16879 Campai	albedo	0.057
+2007 TU24	albedo	0.24
+8776 Campestris	albedo	0.1
+	albedo	0.2
+9936 Al-Biruni	albedo	0.057
+6398 Timhunter	albedo	0.1
+9920 Bagnulo	albedo	0.027
+	albedo	0.05
+12696 Camus	albedo	0.057
+1652 Hergé	albedo	0.24
+1677 Tycho Brahe	albedo	0.21
+2004 VN112	albedo	0.04
+49777 Cappi	albedo	0.2
+3578 Carestia	albedo	0.02
+1213 Algeria	albedo	0.0586
+3277 Aaronson	albedo	0.057
+2678 Aavasaksa	albedo	0.24
+8900 AAVSO	albedo	0.2
+1581 Abanderada	albedo	0.0523
+4263 Abashiri	albedo	0.24
+15262 Abderhalden	albedo	0.08
+5677 Aberdonia	albedo	0.24
+6805 Abstracta	albedo	0.08
+3409 Abramov	albedo	0.24
+5175 Ables	albedo	0.3
+9423 Abt	albedo	0.1
+5144 Achates	albedo	0.0576
+9084 Achristou	albedo	0.3
+6522 Aci	albedo	0.23
+6349 Acapulco	albedo	0.1
+2098 Zyskin	albedo	0.2
+7803 Adachi	albedo	0.057
+1858 Lobachevskij	albedo	0.18
+1859 Kovalevskaya	albedo	0.057
+1909 Alekhin	albedo	0.07
+1909 Alekhin	albedo	0.0488
+1910 Mikhailov	albedo	0.057
+1910 Mikhailov	albedo	0.05
+1170 Siva	albedo	0.1751
+4401 Aditi	albedo	0.2
+6537 Adamovich	albedo	0.24
+7655 Adamries	albedo	0.21
+4450 Pan	albedo	0.2
+4362 Carlisle	albedo	0.24
+5023 Agapenor	albedo	0.057
+16765 Agnesi	albedo	0.21
+1873 Agenor	albedo	0.0386
+1873 Agenor	albedo	0.0554
+1800 Aguilar	albedo	0.2
+12848 Agostino	albedo	0.21
+3212 Agricola	albedo	0.24
+3192 A'Hearn	albedo	0.2
+31192 Aigoual	albedo	0.057
+2826 Ahti	albedo	0.0479
+4585 Ainonai	albedo	0.057
+3181 Ahnert	albedo	0.24
+1568 Aisleen	albedo	0.23
+3070 Aitken	albedo	0.24
+3787 Aivazovskij	albedo	0.2
+8187 Akiramisawa	albedo	0.057
+3067 Akhmatova	albedo	0.24
+5101 Akhmerov	albedo	0.14
+2153 Akiyama	albedo	0.08
+8034 Akka	albedo	0.2
+4797 Ako	albedo	0.21
+3872 Akirafujii	albedo	0.0697
+9549 Akplatonov	albedo	0.21
+7385 Aktsynovia	albedo	0.2
+2927 Alamosa	albedo	0.2
+2500 Alascattalo	albedo	0.24
+2067 Aksnes	albedo	0.0562
+4151 Alanhale	albedo	0.08
+1783 Albitskij	albedo	0.0738
+1783 Albitskij	albedo	0.0706
+8549 Alcide	albedo	0.21
+2241 Alcathous	albedo	0.0471
+2697 Albina	albedo	0.0385
+10656 Albrecht	albedo	0.057
+6470 Aldrin	albedo	0.24
+14832 Alechinsky	albedo	0.24
+3174 Alcock	albedo	0.08
+17119 Alexisrodrz	albedo	0.1
+3771 Alexejtolstoj	albedo	0.24
+14335 Alexosipov	albedo	0.24
+1194 Aletta	albedo	0.0333
+3367 Alex	albedo	0.057
+1191 Alfaterna	albedo	0.0479
+1394 Algoa	albedo	0.2
+15258 Alfilipenko	albedo	0.057
+5951 Alicemonet	albedo	0.24
+3851 Alhambra	albedo	0.24
+58097 Alimov	albedo	0.2
+11824 Alpaidze	albedo	0.1
+21558 Alisonliu	albedo	0.21
+7742 Altamira	albedo	0.057
+3037 Alku	albedo	0.0949
+1567 Alikoski	albedo	0.0626
+3045 Alois	albedo	0.057
+3567 Alvema	albedo	0.057
+1617 Alschmitt	albedo	0.057
+8121 Altdorfer	albedo	0.24
+5027 Androgeos	albedo	0.0917
+1957 Angara	albedo	0.14
+3724 Annenskij	albedo	0.2022
+1712 Angola	albedo	0.06
+1712 Angola	albedo	0.0458
+1943 Anteros	albedo	0.17
+1943 Anteros	albedo	0.18
+1912 Anubis	albedo	0.24
+10502 Armaghobs	albedo	0.2
+6469 Armstrong	albedo	0.24
+1956 Artek	albedo	0.08
+25000 Astrometria	albedo	0.0311
+4391 Balodis	albedo	0.057
+19982 Barbaradoore	albedo	0.2
+4524 Barklajdetolli	albedo	0.24
+6460 Bassano	albedo	0.24
+9115 Battisti	albedo	0.2
+3691 Bede	albedo	0.15
+1815 Beethoven	albedo	0.0548
+1651 Behrens	albedo	0.24
+1846 Bengt	albedo	0.0781
+1784 Benguella	albedo	0.0763
+2368 Beltrovata	albedo	0.2
+2368 Beltrovata	albedo	0.27
+2034 Bernoulli	albedo	0.2
+1611 Beyer	albedo	0.057
+1580 Betulia	albedo	0.077
+2145 Blaauw	albedo	0.0869
+5642 Bobbywilliams	albedo	0.2
+1441 Bolyai	albedo	0.0467
+1635 Bohrmann	albedo	0.24
+1916 Boreas	albedo	0.2
+1609 Brenda	albedo	0.1147
+1609 Brenda	albedo	0.1078
+1879 Broederstroom	albedo	0.24
+24105 Broughton	albedo	0.24
+4209 Briggs	albedo	0.0827
+2430 Bruce Helin	albedo	0.23
+7553 Buie	albedo	0.2
+2490 Bussolini	albedo	0.2268
+4936 Butakov	albedo	0.24
+1683 Castafiore	albedo	0.057
+24101 Cassini	albedo	0.1
+2363 Cebriones	albedo	0.0599
+1333 Cevenola	albedo	0.21
+1622 Chacornac	albedo	0.24
+1804 Chebotarev	albedo	0.2
+1510 Charlois	albedo	0.0791
+1633 Chimay	albedo	0.0781
+1919 Clemence	albedo	0.3
+4008 Corbin	albedo	0.23
+1754 Cunningham	albedo	0.0345
+52975 Cyllarus	albedo	0.07
+1864 Daedalus	albedo	0.2
+1669 Dagmar	albedo	0.0565
+1867 Deiphobus	albedo	0.0422
+1867 Deiphobus	albedo	0.0396
+1848 Delvaux	albedo	0.24
+3247 Di Martino	albedo	0.0647
+1319 Disa	albedo	0.057
+1805 Dirikis	albedo	0.1065
+1805 Dirikis	albedo	0.0816
+1789 Dobrovolsky	albedo	0.24
+4009 Drobyshevskij	albedo	0.0542
+2312 Duboshin	albedo	0.0496
+1961 Dufour	albedo	0.0335
+1621 Druzhba	albedo	0.2373
+1621 Druzhba	albedo	0.243
+3687 Dzus	albedo	0.0542
+2591 Dworetsky	albedo	0.2
+1750 Eckert	albedo	0.2
+9826 Ehrenfreund	albedo	0.14
+2311 El Leoncito	albedo	0.0388
+1329 Eliane	albedo	0.2
+4709 Ennomos	albedo	0.0744
+14627 Emilkowalski	albedo	0.057
+5259 Epeigeus	albedo	0.0739
+4063 Euforbo	albedo	0.0611
+2032 Ethel	albedo	0.0233
+2253 Espinette	albedo	0.2
+1569 Evita	albedo	0.0558
+1576 Fabiola	albedo	0.0913
+1589 Fanatica	albedo	0.2
+5256 Farquhar	albedo	0.21
+2892 Filipenko	albedo	0.0466
+3642 Frieden	albedo	0.0475
+7505 Furusho	albedo	0.3732
+1772 Gagarin	albedo	0.2
+1835 Gajdariya	albedo	0.24
+2054 Gawain	albedo	0.0697
+2571 Geisei	albedo	0.24
+2093 Genichesk	albedo	0.057
+1672 Gezelle	albedo	0.057
+5474 Gingasen	albedo	0.2
+2537 Gilmore	albedo	0.21
+1870 Glaukos	albedo	0.057
+3267 Glo	albedo	0.0607
+1823 Gliese	albedo	0.24
+1226 Golia	albedo	0.2388
+1226 Golia	albedo	0.1007
+17198 Gorjup	albedo	0.24
+1710 Gothard	albedo	0.2
+8013 Gordonmoore	albedo	0.2
+3202 Graff	albedo	0.057
+9175 Graun	albedo	0.21
+2483 Guinevere	albedo	0.0433
+1960 Guisan	albedo	0.0496
+1995 Hajek	albedo	0.2
+7816 Hanoi	albedo	0.2
+1650 Heckmann	albedo	0.0497
+1732 Heike	albedo	0.1108
+1732 Heike	albedo	&thinsp;
+1732 Heike	albedo	0.132
+1845 Helewalda	albedo	0.057
+2005 Hencke	albedo	0.21
+7119 Hiera	albedo	0.0398
+1897 Hind	albedo	0.24
+4435 Holt	albedo	0.2
+1726 Hoffmeister	albedo	0.037
+1726 Hoffmeister	albedo	0.057
+1985 Hopmann	albedo	0.0671
+1924 Horus	albedo	0.0888
+3031 Houston	albedo	0.1
+9069 Hovland	albedo	0.3
+3425 Hurukawa	albedo	0.1103
+3425 Hurukawa	albedo	0.1315
+1842 Hynek	albedo	0.2
+2423 Ibarruri	albedo	0.2
+5130 Ilioneus	albedo	0.0602
+5222 Ioffe	albedo	0.1463
+1658 Innes	albedo	0.2
+1520 Imatra	albedo	0.0615
+1520 Imatra	albedo	0.0469
+4791 Iphidamas	albedo	0.0579
+1374 Isora	albedo	0.2
+1735 ITA	albedo	0.079
+1735 ITA	albedo	&thinsp;
+1735 ITA	albedo	0.0504
+6063 Jason	albedo	0.21
+3353 Jarvis	albedo	0.0744
+2080 Jihlava	albedo	0.24
+9564 Jeffwynn	albedo	0.2
+145534 Jhongda	albedo	0.057
+2874 Jim Young	albedo	0.24
+1524 Joensuu	albedo	0.0462
+1524 Joensuu	albedo	0.0553
+11949 Kagayayutaka	albedo	0.057
+11949 Kagayayutaka	albedo	0.708
+1694 Kaiser	albedo	0.057
+17683 Kanagawa	albedo	0.033
+5333 Kanaya	albedo	0.057
+4265 Kani	albedo	0.2
+1682 Karel	albedo	0.24
+3754 Kathleen	albedo	0.0624
+1900 Katyusha	albedo	0.29
+1817 Katanga	albedo	0.1331
+1817 Katanga	albedo	0.2632
+6546 Kaye	albedo	0.057
+2156 Kate	albedo	0.2
+2140 Kemerovo	albedo	0.062
+2449 Kenos	albedo	0.4
+3785 Kitami	albedo	0.08
+1780 Kippes	albedo	0.1212
+9344 Klopstock	albedo	0.0116
+1825 Klare	albedo	0.1
+1522 Kokkola	albedo	0.2
+2349 Kurchenko	albedo	0.0663
+2296 Kugultinov	albedo	0.08
+6255 Kuma	albedo	0.0238
+1954 Kukarkin	albedo	0.057
+2008 Konstitutsiya	albedo	0.0531
+1855 Korolev	albedo	0.24
+1631 Kopff	albedo	0.2497
+1631 Kopff	albedo	0.271
+1929 Kollaa	albedo	0.4
+6500 Kodaira	albedo	0.057
+39741 Komm	albedo	0.2
+1412 Lagrula	albedo	0.058
+1851 Lacroute	albedo	0.0745
+3240 Laocoon	albedo	0.057
+1597 Laugier	albedo	0.057
+1284 Latvia	albedo	0.1045
+7958 Leakey	albedo	0.3
+4147 Lennon	albedo	0.2
+3793 Leonteus	albedo	0.0784
+1951 Lick	albedo	0.0895
+1951 Lick	albedo	0.1028
+1383 Limburgia	albedo	0.0569
+1490 Limpopo	albedo	0.0811
+1490 Limpopo	albedo	0.0742
+2577 Litva	albedo	0.4
+1755 Lorbach	albedo	0.1117
+1939 Loretta	albedo	0.0942
+1939 Loretta	albedo	0.0788
+1930 Lucifer	albedo	0.1058
+1936 Lugano	albedo	0.0558
+1334 Lundmarka	albedo	0.1455
+5430 Luu	albedo	0.23
+4358 Lynn	albedo	0.21
+2204 Lyyli	albedo	0.0232
+2204 Lyyli	albedo	0.0537
+2696 Magion	albedo	0.0687
+2094 Magnitka	albedo	0.1739
+4055 Magellan	albedo	0.31
+1355 Magoeba	albedo	0.3
+4904 Makio	albedo	0.2
+1771 Makover	albedo	0.0501
+1771 Makover	albedo	0.0418
+1300 Marcelle	albedo	0.0637
+1877 Marsden	albedo	0.057
+1582 Martir	albedo	0.057
+4547 Massachusetts	albedo	0.1184
+1904 Massevitch	albedo	0.1613
+1904 Massevitch	albedo	0.1914
+1841 Masaryk	albedo	0.0398
+1841 Masaryk	albedo	0.0364
+2131 Mayall	albedo	0.2391
+1748 Mauderli	albedo	&thinsp;
+1748 Mauderli	albedo	0.057
+5641 McCleese	albedo	0.4552
+1607 Mavis	albedo	0.2826
+1607 Mavis	albedo	0.3598
+1690 Mayrhofer	albedo	0.0767
+1690 Mayrhofer	albedo	0.0641
+1428 Mombasa	albedo	0.024
+1428 Mombasa	albedo	0.0415
+11118 Modra	albedo	0.24
+1832 Mrkos	albedo	0.0742
+1832 Mrkos	albedo	0.062
+4836 Medon	albedo	0.061
+1299 Mertona	albedo	0.057
+1574 Meyer	albedo	0.0389
+1574 Meyer	albedo	0.0611
+1739 Meyermann	albedo	&thinsp;
+1739 Meyermann	albedo	0.24
+4833 Meges	albedo	0.0531
+1753 Mieke	albedo	0.14
+1727 Mette	albedo	0.2
+1605 Milankovitch	albedo	0.1401
+4332 Milton	albedo	0.2306
+2090 Mizuho	albedo	0.057
+6239 Minos	albedo	0.57
+1906 Naef	albedo	0.4
+6025 Naotosato	albedo	0.14
+3199 Nefertiti	albedo	0.42
+4959 Niinoama	albedo	0.1082
+1720 Niels	albedo	0.2
+1696 Nurmela	albedo	0.057
+1696 Nurmela	albedo	0.125
+1206 Numerowia	albedo	0.057
+7476 Ogilsbie	albedo	0.057
+3406 Omsk	albedo	0.2476
+2201 Oljato	albedo	0.4328
+1389 Onnie	albedo	0.24
+1691 Oort	albedo	0.1
+1923 Osiris	albedo	0.0591
+1837 Osita	albedo	0.24
+1369 Ostanina	albedo	0.0545
+1369 Ostanina	albedo	0.0596
+1207 Ostenia	albedo	0.1338
+1207 Ostenia	albedo	0.1591
+1473 Ounas	albedo	0.1189
+9844 Otani	albedo	0.21
+1529 Oterma	albedo	0.057
+6793 Palazzolo	albedo	0.1
+12482 Pajka	albedo	0.2
+1889 Pakhmutova	albedo	0.0752
+1889 Pakhmutova	albedo	0.0629
+2674 Pandarus	albedo	0.0461
+3317 Paris	albedo	0.0626
+4754 Panthoos	albedo	0.0571
+1444 Pannonia	albedo	0.4748
+1444 Pannonia	albedo	0.0501
+3176 Paolicchi	albedo	0.0511
+1857 Parchomenko	albedo	0.2
+1791 Patsayev	albedo	0.0509
+4543 Phoinix	albedo	0.0591
+1680 Per Brahe	albedo	0.2903
+1680 Per Brahe	albedo	0.3409
+1536 Pielinen	albedo	0.24
+2357 Phereclos	albedo	0.0521
+4086 Podalirius	albedo	0.0536
+1757 Porvoo	albedo	0.2
+4348 Poulydamas	albedo	0.057
+1359 Prieska	albedo	0.0494
+1209 Pumma	albedo	0.057
+1659 Punkaharju	albedo	0.1654
+1659 Punkaharju	albedo	0.2136
+5283 Pyrrhus	albedo	0.0807
+3184 Raab	albedo	0.05
+5040 Rabinowitz	albedo	0.23
+9165 Raup	albedo	0.3
+2328 Robeson	albedo	0.1281
+37022 Robertovittori	albedo	0.25
+1796 Riga	albedo	0.0376
+1646 Rosseland	albedo	0.2
+3873 Roddy	albedo	0.2
+1443 Ruppina	albedo	0.057
+1907 Rudneva	albedo	0.232
+1907 Rudneva	albedo	0.2009
+2518 Rutllant	albedo	0.24
+163693 Atira	albedo	0.2
+13260 Sabadell	albedo	0.21
+1626 Sadeya	albedo	0.23
+4606 Saheki	albedo	0.24
+1760 Sandra	albedo	0.0345
+2091 Sampo	albedo	0.1582
+2091 Sampo	albedo	0.1329
+2223 Sarpedon	albedo	0.034
+1525 Savonlinna	albedo	0.084
+7336 Saunders	albedo	0.2
+2308 Schilt	albedo	0.1001
+2959 Scholl	albedo	0.0503
+1235 Schorria	albedo	0.4
+1911 Schubart	albedo	0.0249
+13006 Schwaar	albedo	0.23
+4003 Schumann	albedo	0.057
+2384 Schulhof	albedo	0.21
+3822 Segovia	albedo	0.24
+4607 Seilandfarm	albedo	0.2
+3288 Seleucus	albedo	0.22
+3133 Sendai	albedo	0.24
+2608 Seneca	albedo	0.21
+1737 Severny	albedo	0.1811
+1737 Severny	albedo	&thinsp;
+1737 Severny	albedo	0.14
+1902 Shaposhnikov	albedo	0.0296
+1648 Shajna	albedo	0.2
+2197 Shanghai	albedo	0.0898
+5692 Shirao	albedo	0.21
+1405 Sibelius	albedo	0.1432
+1977 Shura	albedo	0.2
+1854 Skvortsov	albedo	0.2
+2554 Skiff	albedo	0.24
+1807 Slovakia	albedo	0.2
+1731 Smuts	albedo	0.0604
+1731 Smuts	albedo	&thinsp;
+1731 Smuts	albedo	0.0421
+1293 Sonja	albedo	0.4598
+1293 Sonja	albedo	0.1339
+2433 Sootiyo	albedo	0.2
+4713 Steel	albedo	0.18
+1681 Steinmetz	albedo	0.1
+4176 Sudek	albedo	0.0341
+1847 Stobbe	albedo	0.1128
+1628 Strobel	albedo	0.0532
+1628 Strobel	albedo	0.0504
+1692 Subbotina	albedo	0.04
+1637 Swings	albedo	0.0415
+1656 Suomi	albedo	0.1556
+4672 Takuboku	albedo	0.0609
+5370 Taranis	albedo	0.037
+5088 Tancredi	albedo	0.08
+3345 Tarkovskij	albedo	0.0688
+1989 Tatry	albedo	0.057
+2995 Taratuta	albedo	0.0704
+2995 Taratuta	albedo	0.092
+15374 Teta	albedo	0.3
+4902 Thessandrus	albedo	0.057
+1980 Tezcatlipoca	albedo	0.25
+1625 The NORC	albedo	0.057
+3255 Tholen	albedo	0.2
+2064 Thomsen	albedo	0.0549
+2064 Thomsen	albedo	0.0644
+1933 Tinchen	albedo	0.4
+1222 Tina	albedo	0.3086
+1222 Tina	albedo	0.1445
+2443 Tomeileen	albedo	0.1541
+1801 Titicaca	albedo	0.1309
+1801 Titicaca	albedo	0.1199
+2391 Tomita	albedo	0.21
+2111 Tselina	albedo	0.1938
+1208 Troilus	albedo	0.0419
+1208 Troilus	albedo	0.0397
+1590 Tsiolkovskaja	albedo	0.2096
+2013 Tucapel	albedo	0.24
+13123 Tyson	albedo	0.23
+2120 Tyumenia	albedo	0.0721
+1709 Ukraina	albedo	0.2
+1276 Ucclia	albedo	0.0837
+1619 Ueta	albedo	0.2
+5254 Ulysses	albedo	0.0665
+1585 Union	albedo	0.0378
+1447 Utra	albedo	0.2
+1965 van de Kamp	albedo	0.2
+3962 Valyaev	albedo	0.08
+4230 van den Bergh	albedo	0.0259
+1663 van den Bos	albedo	0.1584
+1663 van den Bos	albedo	0.2045
+17163 Vasifedoseev	albedo	0.24
+17035 Velichko	albedo	0.4
+2014 Vasilevskis	albedo	0.23
+1263 Varsavia	albedo	0.0459
+1263 Varsavia	albedo	0.0874
+1312 Vassar	albedo	0.0703
+1946 Walraven	albedo	0.2
+1704 Wachmann	albedo	0.2
+3682 Welther	albedo	0.1189
+2017 Wesson	albedo	0.2
+1941 Wild	albedo	0.057
+1688 Wilkens	albedo	0.1
+1940 Whipple	albedo	0.056
+1556 Wingolfia	albedo	0.1297
+13732 Woodall	albedo	0.2
+23712 Willpatrick	albedo	0.23
+1660 Wood	albedo	0.23
+2044 Wirt	albedo	0.1907
+2044 Wirt	albedo	0.23
+1506 Xosa	albedo	0.2
+1747 Wright	albedo	0.2005
+1747 Wright	albedo	&thinsp;
+5176 Yoichi	albedo	0.0849
+19848 Yeungchuchiu	albedo	0.14
+54509 YORP	albedo	0.1
+5751 Zao	albedo	0.36
+12923 Zephyr	albedo	0.176
+1803 Zwicky	albedo	0.23
+1793 Zoya	albedo	0.24
+1700 Zvezdara	albedo	0.0425
+1778 Alfvén	albedo	0.08
+1296 Andrée	albedo	0.0849
+5010 Amenemhêt	albedo	0.2
+1655 Comas Solà	albedo	0.0726
+10645 Brač	albedo	0.21
+13390 Bouška	albedo	0.21
+2513 Baetslé	albedo	0.0278
+2513 Baetslé	albedo	0.0333
+1339 Désagneauxa	albedo	0.1589
+1339 Désagneauxa	albedo	0.1747
+1341 Edmée	albedo	0.1371
+1511 Daléra	albedo	0.2
+3674 Erbisbühl	albedo	0.2
+7548 Engström	albedo	0.08
+9641 Demazière	albedo	0.2
+10551 Göteborg	albedo	0.14
+1237 Geneviève	albedo	0.0585
+1237 Geneviève	albedo	0.0484
+1451 Granö	albedo	0.2
+1289 Kutaïssi	albedo	0.1374
+1289 Kutaïssi	albedo	0.1216
+1414 Jérôme	albedo	0.0652
+1461 Jean-Jacques	albedo	0.1613
+14968 Kubáček	albedo	0.2
+1558 Järnefelt	albedo	0.0317
+1849 Kresák	albedo	0.057
+1684 Iguassú	albedo	0.1202
+1684 Iguassú	albedo	0.057
+1719 Jens	albedo	0.1489
+1719 Jens	albedo	0.1145
+1947 Iso-Heikkilä	albedo	0.0976
+1947 Iso-Heikkilä	albedo	0.0571
+21873 Jindřichůvhradec	albedo	0.057
+24260 Kriváň	albedo	0.21
+3537 Jürgen	albedo	0.21
+6498 Ko	albedo	0.24
+10415 Mali Lošinj	albedo	0.057
+11252 Laërtes	albedo	0.057
+1257 Móra	albedo	0.2
+1407 Lindelöf	albedo	0.2309
+1407 Lindelöf	albedo	0.1791
+1466 Mündleria	albedo	0.0554
+1565 Lemaître	albedo	0.23
+1513 Mátra	albedo	0.24
+1563 Noël	albedo	0.24
+1534 Näsi	albedo	0.0754
+1534 Näsi	albedo	0.0721
+2590 Mourão	albedo	0.4
+1259 Ógyalla	albedo	0.0641
+1259 Ógyalla	albedo	0.1001
+1523 Pieksämäki	albedo	0.24
+14974 Počátky	albedo	0.1
+1535 Päijänne	albedo	0.1299
+1535 Päijänne	albedo	0.0764
+1708 Pólit	albedo	0.0392
+1708 Pólit	albedo	0.0429
+1915 Quetzálcoatl	albedo	0.21
+2613 Plzeň	albedo	0.0737
+2228 Soyuz-Apollo	albedo	0.08
+1632 Sieböhme	albedo	0.0748
+1632 Sieböhme	albedo	0.0522
+2429 Schürer	albedo	0.21
+1542 Schalén	albedo	0.0548
+1446 Sillanpää	albedo	0.24
+1521 Seinäjoki	albedo	0.057
+7204 Ondřejov	albedo	0.1
+1422 Strömgrenia	albedo	0.24
+1844 Susilva	albedo	0.14
+1236 Thaïs	albedo	0.0599
+1714 Sy	albedo	0.1088
+1481 Tübingia	albedo	0.1167
+1481 Tübingia	albedo	0.1168
+1573 Väisälä	albedo	0.2226
+2011 Veteraniya	albedo	0.2
+1478 Vihuri	albedo	0.2
+1310 Villigera	albedo	0.2
+1544 Vinterhansenia	albedo	0.0784
+1544 Vinterhansenia	albedo	0.0655
+1887 Virton	albedo	0.14
+1449 Virtanen	albedo	0.24
+1623 Vivian	albedo	0.08
+1380 Volodia	albedo	0.058
+1790 Volkov	albedo	0.24
+1439 Vogtia	albedo	0.0509
+1439 Vogtia	albedo	0.0425
+1724 Vladimir	albedo	0.0441
+7846 Setvák	albedo	0.24
+7545 Smaklösa	albedo	0.2
+6102 Visby	albedo	0.2
+6189 Völk	albedo	0.24
+7440 Závist	albedo	0.2
+13025 Zürich	albedo	0.23
+1600 Vyssotsky	albedo	0.3
+6181 Bobweber	albedo	0.2
+10121 Arzamas	albedo	0.08
+12621 Alsufi	albedo	0.08
+12999 Toruń	albedo	0.057
+12838 Adamsmith	albedo	0.24
+23436 Alekfursenko	albedo	0.057
+	albedo	0.24
+7835 Myroncope	albedo	0.2
+	albedo	0.2
+Neptune	albedo	0.29
+Neptune	albedo	0.41
+951 Gaspra	albedo	0.22
+	albedo	0.09
+2008 TC3	albedo	0.1
+	albedo	0.04
+	albedo	0.05
+1995 SN55	albedo	0.08
+	albedo	0.12
+	albedo	0.09
+	albedo	0.09
+	albedo	0.09
+101955 Bennu	albedo	0.046
+	albedo	0.09
+	albedo	0.02
+2003 LA7	albedo	0.09
+2003 QX113	albedo	0.09
+	albedo	0.09
+Vanth	albedo	≈&thinsp;0.12
+	albedo	1.637
+	albedo	0.0469
+10046 Creighton	albedo	0.0417
+	albedo	0.7
+4949 Akasofu	albedo	0.24
+	albedo	0.057
+	albedo	0.057
+	albedo	0.0404
+5357 Sekiguchi	albedo	0.057
+	albedo	0.16
+	albedo	0.057
+	albedo	0.2
+	albedo	0.48
+	albedo	0.057
+	albedo	0.1
+	albedo	0.25
+	albedo	0.2
+	albedo	0.057
+	albedo	0.075
+	albedo	0.2
+	albedo	0.0553
+	albedo	0.3
+	albedo	0.2
+7959 Alysecherri	albedo	0.3
+9321 Alexkonopliv	albedo	0.057
+13003 Dickbeasley	albedo	0.2
+13058 Alfredstevens	albedo	0.2
+15268 Wendelinefroger	albedo	0.2
+21501 Acevedo	albedo	0.24
+22577 Alfiuccio	albedo	0.24
+24988 Alainmilsztajn	albedo	0.2
+52266 Van Flandern	albedo	0.23
+	albedo	0.06
+	albedo	0.05
+2002 XV93	albedo	0.04
+Read	albedo	0.04
+2007 TG422	albedo	0.04
+861 Aïda	albedo	0.0522
+	albedo	0.042
+Actaea	albedo	≈&thinsp;0,035 +0,010/−0,007
+2011 MD	albedo	0.3
+1999 LE31	albedo	0.056
+Kerberos	albedo	0.56
+	albedo	0.057
+	albedo	0.48
+	albedo	0.15
+	albedo	0.18
+	albedo	0.2
+11351 Leucus	albedo	0.0524
+	albedo	0.2
+8026 Johnmckay	albedo	0.3
+	albedo	0.2
+148780 Altjira	albedo	0.06
+11441 Anadiego	albedo	0.2
+367943 Duende	albedo	0.44
+	albedo	0.136
+	albedo	0.01
+2012 LZ1	albedo	0.02
+2010 FX86	albedo	0.09
+2010 VR11	albedo	0.08
+2002 CY248	albedo	0.08
+Styx	albedo	0.65
+40463 Frankkameny	albedo	0.057
+2011 FW62	albedo	0.07
+2010 TJ	albedo	0.07
+	albedo	0.06
+2010 TY53	albedo	0.08
+	albedo	0.07
+	albedo	0.1
+1999 TR11	albedo	0.09
+2012 GX17	albedo	0.5
+2010 EU65	albedo	0.5
+	albedo	0.5
+2011 SC191	albedo	0.5
+2011 SL25	albedo	0.5
+2011 UN63	albedo	0.5
+2011 QF99	albedo	0.05
+	albedo	0.06
+2010 GB174	albedo	0.08
+2013 AZ60	albedo	0.029
+161989 Cacus	albedo	0.09
+	albedo	0.16
+	albedo	0.0707
+	albedo	0.09
+1999 OJ4	albedo	0.21
+	albedo	0.14
+2010 JL88	albedo	0.1
+	albedo	0.2
+	albedo	0.16
+	albedo	0.2
+	albedo	0.2
+2012 VP113	albedo	0.15
+2012 VP113	albedo	0.1
+2013 FY27	albedo	0.1
+2013 FY27	albedo	0.15
+2013 FZ27	albedo	0.08
+2010 VK201	albedo	0.08
+2014 HQ124	albedo	0.35
+2014 MU69	albedo	0.04
+2000 DG8	albedo	0.053
+	albedo	0.1
+4324 Bickel	albedo	0.2
+6250 Saekohayashi	albedo	0.3
+	albedo	0.12
+2014 PN70	albedo	0.04
+2014 OS393	albedo	0.04
+2014 MT69	albedo	0.04
+2015 TB145	albedo	0.06
+21900 Orus	albedo	0.057
+	albedo	0.0743
+	albedo	0.2
+988 Appella	albedo	0.0667
+31179 Gongju	albedo	0.21
+20936 Nemrut Dagi	albedo	0.2
+21088 Chelyabinsk	albedo	0.206
+31641 Cevasco	albedo	0.2
+7784 Watterson	albedo	0.23
+7517 Alisondoane	albedo	0.2
+7526 Ohtsuka	albedo	0.2
+24827 Maryphil	albedo	0.23
+12564 Ikeller	albedo	0.24
+15224 Penttilä	albedo	0.2
+2003 SQ317	albedo	0.05
+	albedo	0.04
+	albedo	0.1
+	albedo	0.08
+57868 Pupin	albedo	0.2
+32145 Katberman	albedo	0.2
+32226 Vikulgupta	albedo	0.24
+32008 Adriángalád	albedo	0.24
+22899 Alconrad	albedo	0.24
+2014 FE72	albedo	0.08
+	albedo	0.21
+	albedo	0.2
+	albedo	0.057
+	albedo	0.2

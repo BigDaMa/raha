@@ -1,0 +1,4052 @@
+Ada	influencedBy	ALGOL 68
+Ada	influencedBy	Pascal
+Ada	influencedBy	C++
+Ada	influencedBy	Smalltalk
+Ada	influencedBy	Java
+Ada	influencedBy	Eiffel
+AWK	influencedBy	C, SNOBOL4, Bourne shell
+APL	influencedBy	Mathematical notation
+Antonio Canova	influencedBy	Michelangelo
+AMOS	influencedBy	STOS BASIC
+BASIC	influencedBy	ALGOL 60
+BASIC	influencedBy	Fortran
+BASIC	influencedBy	JOSS
+BCPL	influencedBy	CPL
+Brainfuck	influencedBy	P′′
+Brainfuck	influencedBy	Esoteric programming language
+B	influencedBy	BCPL
+B	influencedBy	I
+Common Lisp	influencedBy	Lisp
+Common Lisp	influencedBy	Lisp Machine Lisp
+Common Lisp	influencedBy	Maclisp
+Common Lisp	influencedBy	Scheme
+Common Lisp	influencedBy	Interlisp
+C	influencedBy	B , ALGOL 68, Assembly, PL/I, FORTRAN
+Claude Monet	influencedBy	Eugène Boudin
+Claude Monet	influencedBy	Johan Jongkind
+Claude Monet	influencedBy	Gustave Courbet
+COBOL	influencedBy	AIMACO, C++, COMTRAN, Eiffel, FACT, FLOW-MATIC,  Smalltalk
+Charles Alston	influencedBy	Aaron Douglas
+Coral 66	influencedBy	ALGOL
+Coral 66	influencedBy	JOVIAL
+Camille Pissarro	influencedBy	Eugène Delacroix
+Camille Pissarro	influencedBy	Édouard Manet
+Camille Pissarro	influencedBy	Camille Corot
+Camille Pissarro	influencedBy	Charles-François Daubigny
+CLU	influencedBy	ALGOL 60
+CLU	influencedBy	Lisp
+CLU	influencedBy	Simula
+Cyclone	influencedBy	C
+Dylan	influencedBy	Common Lisp Object System
+Dylan	influencedBy	ALGOL
+Dylan	influencedBy	Scheme
+Dylan	influencedBy	EuLisp
+Eiffel	influencedBy	Ada
+Eiffel	influencedBy	Simula
+Eiffel	influencedBy	Z notation
+JavaScript	influencedBy	Lua
+JavaScript	influencedBy	Scheme
+JavaScript	influencedBy	Perl
+JavaScript	influencedBy	Self
+JavaScript	influencedBy	Java
+JavaScript	influencedBy	C
+JavaScript	influencedBy	Python
+JavaScript	influencedBy	AWK
+JavaScript	influencedBy	HyperTalk
+Emacs Lisp	influencedBy	Common Lisp
+Emacs Lisp	influencedBy	Maclisp
+Forth	influencedBy	Burroughs large systems
+Forth	influencedBy	Lisp
+Forth	influencedBy	APL
+Fortran	influencedBy	Speedcoding
+Georges Braque	influencedBy	Paul Cézanne
+Georges Braque	influencedBy	André Derain
+Georges Braque	influencedBy	Raoul Dufy
+Georges Braque	influencedBy	Othon Friesz
+Georges Braque	influencedBy	Henri Matisse
+Georges Braque	influencedBy	Pablo Picasso
+Georges Braque	influencedBy	Paul Gauguin
+GW-BASIC	influencedBy	IBM Cassette BASIC
+GW-BASIC	influencedBy	IBM Disk BASIC
+GW-BASIC	influencedBy	IBM BASICA
+Icon	influencedBy	SNOBOL, SL5, ALGOL
+Java	influencedBy	Ada
+Java	influencedBy	C++
+Java	influencedBy	C Sharp
+Java	influencedBy	Eiffel
+Java	influencedBy	Generic Java
+Java	influencedBy	Mesa
+Java	influencedBy	Modula-3
+Java	influencedBy	Oberon
+Java	influencedBy	Objective-C
+Java	influencedBy	UCSD Pascal
+Java	influencedBy	Object Pascal
+Jackson Pollock	influencedBy	Thomas Hart Benton
+Jackson Pollock	influencedBy	Pablo Picasso
+Jackson Pollock	influencedBy	Joan Miró
+Kenneth Noland	influencedBy	Helen Frankenthaler
+Kenneth Noland	influencedBy	Ilya Bolotowsky
+Kenneth Noland	influencedBy	Paul Klee
+Kenneth Noland	influencedBy	Jackson Pollock
+Kenneth Noland	influencedBy	Morris Louis
+Kenneth Noland	influencedBy	Josef Albers
+Kent Recursive Calculator	influencedBy	SASL
+LiveScript	influencedBy	JavaScript
+LiveScript	influencedBy	Haskell
+LiveScript	influencedBy	CoffeeScript
+LiveScript	influencedBy	F Sharp
+Lisp	influencedBy	Information Processing Language
+Logo	influencedBy	Lisp programming language
+MUMPS	influencedBy	JOSS
+Mercury	influencedBy	Prolog
+Mercury	influencedBy	Hope
+Mercury	influencedBy	Haskell
+Mesa	influencedBy	ALGOL
+M. C. Escher	influencedBy	Giovanni Battista Piranesi
+Mary	influencedBy	ALGOL 68
+ML	influencedBy	ISWIM
+Modula	influencedBy	Pascal
+Nial	influencedBy	APL programming language
+Nial	influencedBy	Lisp programming language
+Oberon	influencedBy	Modula-2
+Occam	influencedBy	Communicating Sequential Processes
+Prolog	influencedBy	PLANNER
+I	influencedBy	COBOL
+I	influencedBy	Fortran
+I	influencedBy	ALGOL
+Pascal	influencedBy	ALGOL W
+Python	influencedBy	ABC
+Python	influencedBy	ALGOL 68
+Python	influencedBy	C
+Python	influencedBy	C++
+Python	influencedBy	Dylan
+Python	influencedBy	Haskell
+Python	influencedBy	Icon
+Python	influencedBy	Java
+Python	influencedBy	Lisp
+Python	influencedBy	Modula-3
+Python	influencedBy	Perl
+Perl	influencedBy	AWK
+Perl	influencedBy	Smalltalk 80
+Perl	influencedBy	Lisp
+Perl	influencedBy	C
+Perl	influencedBy	C++
+Perl	influencedBy	Sed
+Perl	influencedBy	Unix shell
+Perl	influencedBy	Pascal
+PostScript	influencedBy	Interpress
+PostScript	influencedBy	Lisp
+PHP	influencedBy	C
+PHP	influencedBy	C++
+PHP	influencedBy	Java
+PHP	influencedBy	Perl
+PHP	influencedBy	Tcl
+Paul Cézanne	influencedBy	Eugène Delacroix
+Paul Cézanne	influencedBy	Édouard Manet
+Paul Cézanne	influencedBy	Camille Pissarro
+QuakeC	influencedBy	C
+Ruby	influencedBy	Ada
+Ruby	influencedBy	C++
+Ruby	influencedBy	CLU
+Ruby	influencedBy	Dylan
+Ruby	influencedBy	Eiffel
+Ruby	influencedBy	Lua
+Ruby	influencedBy	Lisp
+Ruby	influencedBy	Perl
+Ruby	influencedBy	Python
+Ruby	influencedBy	Smalltalk
+Rebol	influencedBy	Self
+Rebol	influencedBy	Forth
+Rebol	influencedBy	Lisp
+Rebol	influencedBy	Logo
+Sed	influencedBy	Ed
+Scheme	influencedBy	Lisp programming language
+Scheme	influencedBy	Racket
+Scheme	influencedBy	ALGOL
+Scheme	influencedBy	MDL
+Smalltalk	influencedBy	Lisp
+Smalltalk	influencedBy	Simula
+Smalltalk	influencedBy	Euler
+Smalltalk	influencedBy	IMP
+Smalltalk	influencedBy	Planner
+Smalltalk	influencedBy	Logo
+Smalltalk	influencedBy	Sketchpad
+Smalltalk	influencedBy	ARPAnet
+Smalltalk	influencedBy	Burroughs B5000
+Smalltalk	influencedBy	Cell
+Sather	influencedBy	Eiffel
+Sather	influencedBy	CLU
+Sather	influencedBy	Common Lisp
+Sather	influencedBy	Scheme
+SQL	influencedBy	Datalog
+Simula	influencedBy	ALGOL 60
+Masaccio	influencedBy	Giotto
+Masaccio	influencedBy	Filippo Brunelleschi
+Masaccio	influencedBy	Donatello
+Masaccio	influencedBy	Masolino
+Turing	influencedBy	Euclid
+Turing	influencedBy	Pascal
+Turing	influencedBy	k
+True BASIC	influencedBy	BASIC
+VBScript	influencedBy	Visual Basic
+Visual Basic for Applications	influencedBy	QuickBASIC
+Visual Basic for Applications	influencedBy	Visual Basic
+XSLT	influencedBy	DSSSL
+Squeak	influencedBy	Smalltalk
+Squeak	influencedBy	Lisp
+Squeak	influencedBy	Logo
+Squeak	influencedBy	Sketchpad
+Squeak	influencedBy	Simula
+Squeak	influencedBy	Self
+Bill Viola	influencedBy	Alberto Giacometti
+Bill Viola	influencedBy	Joseph Beuys
+Bill Viola	influencedBy	Mark Rothko
+OCaml	influencedBy	Caml Light
+OCaml	influencedBy	Cool
+OCaml	influencedBy	Standard ML
+Curl	influencedBy	HTML
+Curl	influencedBy	JavaScript
+Curl	influencedBy	Lisp
+Johannes Vermeer	influencedBy	Carel Fabritius
+Johannes Vermeer	influencedBy	Leonaert Bramer,
+Johannes Vermeer	influencedBy	Dirck van Baburen?
+Hokusai	influencedBy	Katsukawa Shunshō
+Hokusai	influencedBy	Kanō Masanobu
+VHDL	influencedBy	Ada
+VHDL	influencedBy	Pascal
+Lua	influencedBy	C++
+Lua	influencedBy	CLU
+Lua	influencedBy	Modula-2
+Lua	influencedBy	Scheme
+Lua	influencedBy	SNOBOL
+Dick Bruna	influencedBy	Henri Matisse
+Dick Bruna	influencedBy	Pablo Picasso
+Dick Bruna	influencedBy	Gerrit Rietveld
+Dick Bruna	influencedBy	Vincent van Gogh
+Dick Bruna	influencedBy	De Stijl
+Dick Bruna	influencedBy	Walt Disney
+Hans Holbein the Younger	influencedBy	Hans Holbein the Elder
+Egon Schiele	influencedBy	Gustav Klimt, Oskar Kokoschka, Ludwig Karl Strauch
+Liberty BASIC	influencedBy	QuickBASIC
+Liberty BASIC	influencedBy	V
+Befunge	influencedBy	Forth
+Befunge	influencedBy	FALSE
+MAD	influencedBy	ALGOL 58
+BBC BASIC	influencedBy	BASIC
+BBC BASIC	influencedBy	Atom BASIC
+BBC BASIC	influencedBy	BCPL
+SISAL	influencedBy	VAL, Pascal, C, Fortran
+Friedensreich Hundertwasser	influencedBy	Gaudi
+Eadweard Muybridge	influencedBy	Étienne-Jules Marey
+Henri Matisse	influencedBy	John Peter Russell
+Henri Matisse	influencedBy	Paul Cézanne
+Henri Matisse	influencedBy	Paul Gauguin
+Henri Matisse	influencedBy	Vincent van Gogh
+Henri Matisse	influencedBy	Paul Signac
+Self	influencedBy	Smalltalk
+NewtonScript	influencedBy	Self
+NewtonScript	influencedBy	Dylan programming language
+PureBasic	influencedBy	BASIC
+Hyacinthe Rigaud	influencedBy	Anthony van Dyck
+Hyacinthe Rigaud	influencedBy	Rubens
+Hyacinthe Rigaud	influencedBy	Rembrandt
+Chaim Soutine	influencedBy	Rembrandt, Chardin and Courbet
+Joan Miró	influencedBy	André Masson, Pablo Picasso, Tristan Tzara and André Breton
+PowerBASIC	influencedBy	Turbo Basic
+Plankalkül	influencedBy	Begriffsschrift
+Gustave Moreau	influencedBy	Théodore Chassériau
+Bill Reid	influencedBy	Charles Edenshaw
+C++	influencedBy	C
+C++	influencedBy	Simula
+C++	influencedBy	ALGOL 68
+C++	influencedBy	Ada
+C++	influencedBy	CLU
+C++	influencedBy	ML
+J	influencedBy	APL
+J	influencedBy	FP
+J	influencedBy	FL
+Sandro Botticelli	influencedBy	Filippo Lippi
+James Abbott McNeill Whistler	influencedBy	Robert W. Weir
+HyperTalk	influencedBy	Natural language programming
+HyperTalk	influencedBy	Pascal
+XBasic	influencedBy	BASIC
+XBasic	influencedBy	C
+Charles-François Daubigny	influencedBy	Gustave Courbet
+Claude Lorrain	influencedBy	Agostino Tassi
+Pike	influencedBy	LPC
+Pike	influencedBy	C
+Pike	influencedBy	C++
+CWEB	influencedBy	WEB
+CWEB	influencedBy	TeX
+Edward Gorey	influencedBy	Edward Lear
+Edward Gorey	influencedBy	Lewis Carroll
+Edward Gorey	influencedBy	Agatha Christie
+Edward Gorey	influencedBy	Charles Dickens
+Edward Gorey	influencedBy	Eugène Ionesco
+Edward Gorey	influencedBy	Vermeer
+Edward Gorey	influencedBy	Balthus
+AppleScript	influencedBy	Natural language programming
+AppleScript	influencedBy	HyperCard
+Margaret Macdonald Mackintosh	influencedBy	Aubrey Beardsley
+Margaret Macdonald Mackintosh	influencedBy	Dante Gabriel Rossetti
+Margaret Macdonald Mackintosh	influencedBy	Walter Crane
+Margaret Macdonald Mackintosh	influencedBy	Pre-Raphaelitism
+Miranda	influencedBy	Kent Recursive Calculator
+Miranda	influencedBy	ML
+Miranda	influencedBy	SASL programming language
+Miranda	influencedBy	Hope
+COWSEL	influencedBy	Combined Programming Language
+COWSEL	influencedBy	Lisp
+Standard ML	influencedBy	ML programming language
+Standard ML	influencedBy	Hope
+Auseklis Ozols	influencedBy	Thomas Eakins
+Alphonse Mucha	influencedBy	Neoclassicism
+Francis Picabia	influencedBy	Henri Matisse
+Francis Picabia	influencedBy	Marcel Duchamp
+John Singer Sargent	influencedBy	Carolus-Duran
+John Singer Sargent	influencedBy	Léon Bonnat
+John Singer Sargent	influencedBy	Diego Velázquez
+John Singer Sargent	influencedBy	Frans Hals
+John Singer Sargent	influencedBy	Antonio Mancini
+BETA	influencedBy	Simula
+JOSS	influencedBy	ALGOL 58
+XUL	influencedBy	HTML
+XUL	influencedBy	XML
+Edward Hodges Baily	influencedBy	John Flaxman
+ABC	influencedBy	SETL
+ABC	influencedBy	ALGOL 68
+Robert Smithson	influencedBy	Frederick Law Olmsted
+Clean	influencedBy	Lean
+Clean	influencedBy	Miranda
+Clean	influencedBy	Haskell
+ACL2	influencedBy	Nqthm
+ACL2	influencedBy	Common Lisp
+Paul Signac	influencedBy	Georges Seurat
+Peter Scheemakers	influencedBy	Baroque
+Carl Andre	influencedBy	Hollis Frampton
+Carl Andre	influencedBy	Frank Stella
+Rc	influencedBy	Bourne shell
+Juan O'Gorman	influencedBy	Le Corbusier
+Juan O'Gorman	influencedBy	Diego Rivera
+Juan O'Gorman	influencedBy	Villagrán
+Frank Stella	influencedBy	Caravaggio
+Frank Stella	influencedBy	Jackson Pollock
+Frank Stella	influencedBy	Franz Kline
+Frank Stella	influencedBy	Barnett Newman
+Frank Stella	influencedBy	Jasper Johns
+Maya Deren	influencedBy	Jean Cocteau
+Maya Deren	influencedBy	Marcel Duchamp
+Maya Deren	influencedBy	Katherine Dunham
+Maya Deren	influencedBy	Alexander Hammid
+Maya Deren	influencedBy	Gregory Bateson
+Maya Deren	influencedBy	Teiji Itō
+Osho	influencedBy	Zen Buddhism
+Osho	influencedBy	Tantra
+Osho	influencedBy	Sufism
+Osho	influencedBy	Samkhya
+Osho	influencedBy	Western mysticism
+Osho	influencedBy	Krishna
+Osho	influencedBy	Gautama Buddha
+Osho	influencedBy	Mahavira
+Osho	influencedBy	Bodhidharma
+Osho	influencedBy	Lao Tzu
+Osho	influencedBy	Gorakhnath
+Osho	influencedBy	Guru Nanak
+Osho	influencedBy	Kabir
+Osho	influencedBy	G. I. Gurdjieff
+Osho	influencedBy	Jiddu Krishnamurti
+Osho	influencedBy	Human Potential Movement
+Howard Hodgkin	influencedBy	Edgar Degas
+Howard Hodgkin	influencedBy	Édouard Vuillard
+ECMAScript	influencedBy	Self
+ECMAScript	influencedBy	HyperTalk
+ECMAScript	influencedBy	AWK
+ECMAScript	influencedBy	C
+ECMAScript	influencedBy	Perl
+ECMAScript	influencedBy	Python
+ECMAScript	influencedBy	Java
+ECMAScript	influencedBy	Scheme
+COMAL	influencedBy	BASIC
+COMAL	influencedBy	Pascal
+Stan Brakhage	influencedBy	Isidore Isou
+Stan Brakhage	influencedBy	Jean Cocteau
+Stan Brakhage	influencedBy	Ezra Pound
+Stan Brakhage	influencedBy	Gertrude Stein
+Stan Brakhage	influencedBy	Charles Olson
+Stan Brakhage	influencedBy	Maya Deren
+Stan Brakhage	influencedBy	Joseph Cornell
+Stan Brakhage	influencedBy	Marie Menken
+Wilhelm von Gloeden	influencedBy	Guglielmo Plüschow
+Wilhelm von Gloeden	influencedBy	Giovanni Crupi
+Hasegawa Tōhaku	influencedBy	Sesshū Tōyō
+Hasegawa Tōhaku	influencedBy	Mu Qi
+Hasegawa Tōhaku	influencedBy	Kanō Shōei
+Hasegawa Tōhaku	influencedBy	Sen no Rikyū
+MATH-MATIC	influencedBy	FLOW-MATIC
+Patrick Caulfield	influencedBy	Juan Gris
+Patrick Caulfield	influencedBy	Georges Braque
+Lucian Freud	influencedBy	Jean Auguste Dominique Ingres
+Austin Osman Spare	influencedBy	Charles Ricketts, Edmund Sullivan, George Frederick Watts and Aubrey Beardsley
+Mizar system	influencedBy	Automath
+ALGOL W	influencedBy	ALGOL 60
+Canaletto	influencedBy	Giovanni Paolo Pannini
+Gambas	influencedBy	Visual Basic
+Gambas	influencedBy	Java
+Joseph Cornell	influencedBy	Transcendentalists
+Joseph Cornell	influencedBy	Symbolists
+Joseph Cornell	influencedBy	Stéphane Mallarmé
+Joseph Cornell	influencedBy	Gérard de Nerval
+Joseph Cornell	influencedBy	Marie Taglioni
+Duccio	influencedBy	Byzantine Art
+Duccio	influencedBy	Cimabue
+Masolino da Panicale	influencedBy	Lorenzo Monaco
+Masolino da Panicale	influencedBy	Lorenzo Ghiberti
+Masolino da Panicale	influencedBy	Massacio
+JOVIAL	influencedBy	ALGOL
+JOVIAL	influencedBy	Semi Automatic Ground Environment
+Inform	influencedBy	Natural language
+ISWIM	influencedBy	ALGOL 60
+ISWIM	influencedBy	Lisp
+Rockwell Kent	influencedBy	Transcendentalism
+Rockwell Kent	influencedBy	Symbolism
+Rockwell Kent	influencedBy	Modernism
+Limbo	influencedBy	C
+Limbo	influencedBy	Pascal
+Limbo	influencedBy	Communicating sequential processes
+Limbo	influencedBy	Alef
+Limbo	influencedBy	Newsqueak
+Malbolge	influencedBy	Brainfuck
+Malbolge	influencedBy	INTERCAL
+Malbolge	influencedBy	Befunge
+Helen Frankenthaler	influencedBy	Jackson Pollock
+Helen Frankenthaler	influencedBy	Hans Hofmann
+David Hockney	influencedBy	Julian Trevelyan
+F Sharp	influencedBy	ML
+F Sharp	influencedBy	OCaml
+F Sharp	influencedBy	C Sharp
+F Sharp	influencedBy	Python
+F Sharp	influencedBy	Haskell
+F Sharp	influencedBy	Scala
+F Sharp	influencedBy	Erlang
+Modula-3	influencedBy	Modula-2+
+Modula-3	influencedBy	Modula-2
+Modula-3	influencedBy	Pascal
+Modula-3	influencedBy	ALGOL
+Modula-3	influencedBy	Oberon
+Grant Wood	influencedBy	Jan van Eyck
+D	influencedBy	C
+D	influencedBy	C++
+D	influencedBy	C Sharp
+D	influencedBy	Eiffel
+D	influencedBy	Java
+Karel Appel	influencedBy	Pablo Picasso
+Karel Appel	influencedBy	Henri Matisse
+Karel Appel	influencedBy	Jean Dubuffet
+Oz	influencedBy	Erlang
+Oz	influencedBy	Lisp
+Oz	influencedBy	Prolog
+Umberto Boccioni	influencedBy	Giacomo Balla
+Wifredo Lam	influencedBy	Henri Matisse
+Wifredo Lam	influencedBy	Pablo Picasso
+ABAP	influencedBy	Objective-C, COBOL, SQL
+Grayson Perry	influencedBy	*
+Grayson Perry	influencedBy	Boy George
+Grayson Perry	influencedBy	Early Renaissance painting
+Jean Dubuffet	influencedBy	Chaim Soutine
+MetaPost	influencedBy	Metafont
+SPARK	influencedBy	Ada
+SPARK	influencedBy	Eiffel
+Anthony van Dyck	influencedBy	Paolo Veronese
+Anthony van Dyck	influencedBy	Peter Paul Rubens,
+Anthony van Dyck	influencedBy	Titian
+Brett Whiteley	influencedBy	Arthur Boyd and John Passmore
+Curry	influencedBy	Haskell
+Keith Haring	influencedBy	Dr. Seuss, Walt Disney, Allen Haring , William S. Burroughs, Pierre Alechinsky,
+Govert Flinck	influencedBy	Rembrandt van Rijn
+C	influencedBy	I
+Judy Chicago	influencedBy	Gerda Lerner
+Georgia O'Keeffe	influencedBy	Arthur Wesley Dow
+Robert Mapplethorpe	influencedBy	George Dureau
+Io	influencedBy	Smalltalk
+Io	influencedBy	NewtonScript
+Io	influencedBy	Self
+Io	influencedBy	Lua
+Io	influencedBy	Lisp
+Io	influencedBy	Python
+Io	influencedBy	Actor model middle history
+Ben Vautier	influencedBy	Jacques Villeglé
+Fan Kuan	influencedBy	Li Cheng
+MSX BASIC	influencedBy	GW-BASIC
+Milton Avery	influencedBy	Henri Matisse
+Robert Delaunay	influencedBy	Pont-Aven School
+Nancy Nicholson	influencedBy	Ben Nicholson
+Nancy Nicholson	influencedBy	Barbara Hepworth
+Nancy Nicholson	influencedBy	EQ Nicholson
+William Nicholson	influencedBy	Joseph Crawhall
+William Nicholson	influencedBy	William Cubley
+William Bloye	influencedBy	Eric Gill
+Paul-Émile Borduas	influencedBy	Joan Miró
+Giacomo Balla	influencedBy	Filippo Tommaso Marinetti
+Programming Language for Business	influencedBy	COBOL
+Oswald Achenbach	influencedBy	Andreas Achenbach
+Oswald Achenbach	influencedBy	Johann Wilhelm Schirmer
+Oswald Achenbach	influencedBy	Gustave Courbet
+Component Pascal	influencedBy	Oberon-2
+Alfred Stieglitz	influencedBy	Paul Strand
+Alfred Stieglitz	influencedBy	Charles Sheeler
+R	influencedBy	S
+R	influencedBy	Scheme
+R	influencedBy	Common Lisp
+R	influencedBy	XLispStat
+Pico	influencedBy	Scheme
+Edward Steichen	influencedBy	Eugène Carrière
+Ratfor	influencedBy	Fortran
+Ratfor	influencedBy	C
+BLISS	influencedBy	ALGOL
+Tom of Finland	influencedBy	George Quaintance
+Tom of Finland	influencedBy	Etienne
+Dulah Marie Evans	influencedBy	Frederick Richardson, John Vanderpoel, John Christen Johansen, Walter Appleton Clark, Charles Webster Hawthorne, William Merritt Chase
+Unreal Engine	influencedBy	C++
+Unreal Engine	influencedBy	Java
+J Sharp	influencedBy	Java and Visual J++
+Frederic Remington	influencedBy	Eadweard Muybridge
+Frederic Remington	influencedBy	Winslow Homer
+Frederic Remington	influencedBy	Rufus Fairchild Zogbaum
+Käthe Kollwitz	influencedBy	Max Klinger
+Käthe Kollwitz	influencedBy	Frans Masereel
+Andy Goldsworthy	influencedBy	Constantin Brâncuși
+Andy Goldsworthy	influencedBy	Richard Long
+Andy Goldsworthy	influencedBy	Robert Smithson
+Andy Goldsworthy	influencedBy	Joseph Beuys
+Andy Goldsworthy	influencedBy	Ben Nicholson
+Andy Goldsworthy	influencedBy	Paul Nash
+Andy Goldsworthy	influencedBy	David Nash
+IBM i Control Language	influencedBy	Job Control Language
+IBM i Control Language	influencedBy	I
+ColorForth	influencedBy	Forth
+Yayoi Kusama	influencedBy	Georgia O'Keeffe
+Ben Shahn	influencedBy	Henri Matisse, Raoul Dufy, Georges Rouault, Pablo Picasso, Paul Klee, Walker Evans, Diego Rivera and Jean Charlot
+Oberon-2	influencedBy	Oberon
+Oberon-2	influencedBy	Modula-2
+Oberon-2	influencedBy	Pascal
+Thomas Struth	influencedBy	Bernd and Hilla Becher
+Dosso Dossi	influencedBy	Giorgione
+Dosso Dossi	influencedBy	Titian
+Dosso Dossi	influencedBy	Francesco del Cossa
+Dosso Dossi	influencedBy	Cosimo Tura
+Dosso Dossi	influencedBy	Antonio da Correggio
+Bill Brandt	influencedBy	Man Ray
+Kay Sage	influencedBy	Giorgio de Chirico
+Kay Sage	influencedBy	Yves Tanguy
+Pure Data	influencedBy	Patcher
+Rembrandt Peale	influencedBy	Charles Willson Peale
+Rembrandt Peale	influencedBy	Jacques Louis-David
+Peter Hurd	influencedBy	N.C. Wyeth
+Mark Tobey	influencedBy	Teng Kuei
+Trenton Doyle Hancock	influencedBy	Henry Darger
+Berenice Abbott	influencedBy	Man Ray
+Berenice Abbott	influencedBy	Eugène Atget
+Joule	influencedBy	Logic Programming
+Joule	influencedBy	Actor model
+Groovy	influencedBy	Java
+Groovy	influencedBy	Python
+Groovy	influencedBy	Ruby
+Groovy	influencedBy	Perl
+Groovy	influencedBy	Smalltalk
+Groovy	influencedBy	Objective-C
+Pizza	influencedBy	Java
+Generic Java	influencedBy	Java
+Generic Java	influencedBy	Pizza
+RPL	influencedBy	Reverse Polish Notation
+RPL	influencedBy	Forth
+RPL	influencedBy	Lisp
+Alexandra Nechita	influencedBy	Pablo Picasso
+Dartmouth BASIC	influencedBy	FORTRAN
+Dartmouth BASIC	influencedBy	ALGOL
+ActionScript	influencedBy	JavaScript
+ActionScript	influencedBy	Java
+Prograph	influencedBy	functional programming, dataflow diagrams
+Lasso	influencedBy	Dylan
+Lasso	influencedBy	Smalltalk
+Lasso	influencedBy	Scala
+KM programming language	influencedBy	KRL
+Yvonne Georgi	influencedBy	Mary Wigman and Robert Gergi
+M	influencedBy	ALGOL
+M	influencedBy	I
+M	influencedBy	XPL
+Processing	influencedBy	Design By Numbers
+Processing	influencedBy	Java
+Processing	influencedBy	Logo
+Processing	influencedBy	OpenGL
+Processing	influencedBy	PostScript
+Processing	influencedBy	C
+XOTcl	influencedBy	Tcl
+XOTcl	influencedBy	OTcl
+John Steuart Curry	influencedBy	Peter Paul Rubens
+N. C. Wyeth	influencedBy	Howard Pyle
+Rufino Tamayo	influencedBy	María Izquierdo, José Vasconcelos, Carlos Chávez
+Coq	influencedBy	ML , LCF , Automath , System F and intuitionistic type theory
+Eamon Grennan	influencedBy	Robert Frost
+Eamon Grennan	influencedBy	Elizabeth Bishop
+Polyphonic C Sharp	influencedBy	C Sharp
+Polyphonic C Sharp	influencedBy	Join calculus
+NetLogo	influencedBy	StarLogo
+NetLogo	influencedBy	Logo
+DIBOL	influencedBy	BASIC
+DIBOL	influencedBy	Fortran
+DIBOL	influencedBy	COBOL
+Obliq	influencedBy	Modula-3
+Obliq	influencedBy	Self
+Obliq	influencedBy	Oberon
+José de Mora	influencedBy	Alonzo Cano
+Terence Cuneo	influencedBy	Cyrus Cuneo
+Mike Krahulik	influencedBy	Stephen Silver
+Titian Peale	influencedBy	Charles Willson Peale
+Object Pascal	influencedBy	Pascal
+Object Pascal	influencedBy	Simula
+Object Pascal	influencedBy	Smalltalk
+IBM RPG	influencedBy	9
+Graham Sutherland	influencedBy	Samuel Palmer
+Graham Sutherland	influencedBy	F.L. Griggs
+Robert Irwin	influencedBy	John McLaughlin
+Robert Irwin	influencedBy	Barnett Newman
+Francisco de Zurbarán	influencedBy	Caravaggio
+Francisco de Zurbarán	influencedBy	Juan Sánchez Cotán
+Francisco de Zurbarán	influencedBy	Juan Martínez Montañés
+Robert Williams	influencedBy	Kustom Kulture
+Richard Anuszkiewicz	influencedBy	Joseph Plavcan
+Ilya Repin	influencedBy	Gustave Courbet
+Ilya Repin	influencedBy	Ivan Kramskoi
+Ilya Repin	influencedBy	Vasily Perov
+Vasily Surikov	influencedBy	Ilya Repin
+Franz Kline	influencedBy	Willem de Kooning
+Franz Kline	influencedBy	Japanese calligraphy
+Anthony Caro	influencedBy	Henry Moore
+Anthony Caro	influencedBy	David Smith
+Richard Diebenkorn	influencedBy	Edward Hopper
+Richard Diebenkorn	influencedBy	Willem de Kooning
+Richard Diebenkorn	influencedBy	Clyfford Still
+Richard Diebenkorn	influencedBy	Arshile Gorky
+Richard Diebenkorn	influencedBy	Henri Matisse
+Tomás Batista	influencedBy	Angel Botello
+CMS Pipelines	influencedBy	Pipeline
+ALGOL 60	influencedBy	ALGOL 58
+ALGOL 68	influencedBy	ALGOL 60
+ALGOL 68	influencedBy	ALGOL Y
+Joy	influencedBy	Scheme
+Joy	influencedBy	FP
+Elaine de Kooning	influencedBy	Willem de Kooning
+Elaine de Kooning	influencedBy	Lee Krasner
+Elaine de Kooning	influencedBy	Harold Rosenberg
+Elaine de Kooning	influencedBy	Mark Rothko
+Elaine de Kooning	influencedBy	Joan Mitchell
+Elaine de Kooning	influencedBy	Rudy Burkhardt
+Elaine de Kooning	influencedBy	Aristidemus Kaldis
+Elaine de Kooning	influencedBy	Stuart Davis
+Elaine de Kooning	influencedBy	Robert Jonas
+Elaine de Kooning	influencedBy	Milton Resnick
+Elaine de Kooning	influencedBy	Josef Albers
+Aaron Douglas	influencedBy	Henry Ossawa Tanner
+Mitsuru Adachi	influencedBy	Tsutomu Adachi
+Mitsuru Adachi	influencedBy	Shinji Nagashima
+Ernest Ludvig Ipsen	influencedBy	Frederic Porter Vinton
+Raoul Dufy	influencedBy	Claude Monet
+Raoul Dufy	influencedBy	Camille Pissarro
+Raoul Dufy	influencedBy	Henri Matisse
+Raoul Dufy	influencedBy	Paul Cézanne
+StarLogo	influencedBy	Logo
+Vasily Vereshchagin	influencedBy	Jean-Léon Gérôme
+Morris Louis	influencedBy	Clement Greenberg
+Morris Louis	influencedBy	Helen Frankenthaler
+Morris Louis	influencedBy	Jackson Pollock
+Bernard van Orley	influencedBy	Jan van Eyck
+Bernard van Orley	influencedBy	Raphael
+Benjamin Waterhouse Hawkins	influencedBy	William Behnes
+CHILL	influencedBy	COBOL
+CHILL	influencedBy	1
+Augustus Saint-Gaudens	influencedBy	François Jouffroy
+Maurice Prendergast	influencedBy	James Morrice, Walter Sickert and Aubrey Beardsley
+Simon Vouet	influencedBy	Annibale Carracci
+Simon Vouet	influencedBy	Michelangelo Merisi
+Simon Vouet	influencedBy	Mannerism
+Simon Vouet	influencedBy	Paolo Veronese
+Simon Vouet	influencedBy	Guercino
+Simon Vouet	influencedBy	Guido Reni
+k	influencedBy	I
+Euclid	influencedBy	Pascal
+CPL	influencedBy	ALGOL 60
+Nicolas Coustou	influencedBy	Michelangelo
+Nicolas Coustou	influencedBy	Alessandro Algardi
+JScript .NET	influencedBy	JScript
+JScript .NET	influencedBy	ECMAScript
+James Wilson Morrice	influencedBy	James McNeill Whistler
+Jules Chéret	influencedBy	Jean-Honoré Fragonard
+Jules Chéret	influencedBy	Antoine Watteau
+Linden Scripting Language	influencedBy	C
+Ludovico Carracci	influencedBy	Annibale Carracci
+MIVA Script	influencedBy	C
+MIVA Script	influencedBy	Perl
+MIVA Script	influencedBy	Java
+MIVA Script	influencedBy	C++
+Alfred Kubin	influencedBy	Max Klinger
+Alfred Kubin	influencedBy	Francisco Goya
+NWScript	influencedBy	C
+NWScript	influencedBy	Java
+Maarten van Heemskerck	influencedBy	Jan van Scorel
+Maarten van Heemskerck	influencedBy	Giorgio Vasari
+Karel van Mander	influencedBy	Giorgio Vasari
+Slava Raškaj	influencedBy	Bela Čikoš Sesija
+George Rickey	influencedBy	Alexander Calder
+George Rickey	influencedBy	David Smith
+Alexander Milne Calder	influencedBy	J. Massey Rhind
+Alexander Milne Calder	influencedBy	Thomas Eakins
+T	influencedBy	Scheme
+Roch Thériault	influencedBy	Seventh-day Adventist Church
+ZPL	influencedBy	C
+Minor White	influencedBy	Alfred Stieglitz
+Minor White	influencedBy	Nancy Newhall
+Minor White	influencedBy	Edward Weston
+Factor	influencedBy	Joy
+Factor	influencedBy	Forth
+Factor	influencedBy	Lisp
+Factor	influencedBy	Self
+K	influencedBy	A+
+K	influencedBy	APL programming language
+K	influencedBy	Scheme
+A+	influencedBy	APL
+Nicolas de Largillière	influencedBy	Sir Peter Lely
+Nicolas de Largillière	influencedBy	Adam Frans van der Meulen
+FP	influencedBy	APL
+Coarray Fortran	influencedBy	Fortran
+F-Script	influencedBy	Smalltalk
+F-Script	influencedBy	APL
+Blue	influencedBy	Eiffel
+Unicon	influencedBy	Icon programming language
+Alfred Pellan	influencedBy	Fauvism
+Alfred Pellan	influencedBy	Cubism
+Alfred Pellan	influencedBy	Surrealism
+LPC	influencedBy	C
+LPC	influencedBy	C++
+LPC	influencedBy	Lisp
+LPC	influencedBy	Perl
+Euler	influencedBy	ALGOL 60
+Perl Data Language	influencedBy	APL
+Perl Data Language	influencedBy	IDL
+Perl Data Language	influencedBy	Perl
+Willard Metcalf	influencedBy	John Henry Twatchtman
+Ivan Kramskoi	influencedBy	Karl Bryullov
+Ivan Kramskoi	influencedBy	Alexander Andreyevich Ivanov
+Ivan Kramskoi	influencedBy	Vasily Perov
+SETL	influencedBy	ALGOL 60
+George Bellows	influencedBy	Robert Henri
+Claire	influencedBy	Smalltalk, SETL, OPS5, Lisp, ML, C, LORE, LAURE
+Arkhip Kuindzhi	influencedBy	Ivan Shishkin
+Arkhip Kuindzhi	influencedBy	Alexei Savrasov
+ALGOL 58	influencedBy	FORTRAN, IT, \nPlankalkül, \nSequentielle Formelübersetzung
+Cilk	influencedBy	C
+Aldor	influencedBy	A Sharp
+Aldor	influencedBy	Pascal
+Aldor	influencedBy	Haskell
+Homer Watson	influencedBy	Barbizon School
+Homer Watson	influencedBy	Hudson River School
+TELCOMP	influencedBy	JOSS
+Lawren Harris	influencedBy	Tom Thomson, Wassily Kandinsky
+Byron Galvez	influencedBy	Picasso, Braque, Rembrandt, Prehispanic and African art
+Oton Gliha	influencedBy	Cézanne
+Ubermorgen	influencedBy	Alberto Giacometti, Lawrence Weiner, Madonna, Jean Tinguely, Nouveau réalisme, John Heartfield, Viennese Actionism, On Kawara, Joseph Beuys, Mario Merz, Mark Rothko, Richard Serra, Peter Weibel, Andy Warhol, Günter Brus, Rudolf Schwarzkogler, Lawrence Weiner, Michelangelo Pistoletto, Marcel Duchamp, La Monte Young, and Archigram.
+Cω	influencedBy	C Sharp
+Cω	influencedBy	Polyphonic C sharp
+Jack Levine	influencedBy	Hyman Bloom
+Jack Levine	influencedBy	Chaim Soutine
+Jack Levine	influencedBy	Georges Rouault
+Jack Levine	influencedBy	Oskar Kokoschka
+Jack Levine	influencedBy	El Greco
+Jack Levine	influencedBy	Ashcan School
+Allan Kaprow	influencedBy	Dada, Theater
+Unified Parallel C	influencedBy	C, AC, Split-C, Parallel C Preprocessor
+Julio Rosado del Valle	influencedBy	painter Mario Carreño and the muralist Camilo Egas
+Gerald Brom	influencedBy	Frank Frazetta
+Gerald Brom	influencedBy	N.C. Wyeth
+Gerald Brom	influencedBy	Norman Rockwell
+Oaklisp	influencedBy	Scheme
+Oaklisp	influencedBy	T programming language
+Oaklisp	influencedBy	Smalltalk
+Object Oberon	influencedBy	Oberon
+Object-Oriented Turing	influencedBy	Turing
+C*	influencedBy	Parallel C
+C*	influencedBy	ANSI C
+David Shrigley	influencedBy	Jean Tinguely
+AMPL	influencedBy	AWK
+AMPL	influencedBy	C
+Luis Royo	influencedBy	Enki Bilal
+Luis Royo	influencedBy	Jean Giraud
+Lugné-Poe	influencedBy	*
+Lugné-Poe	influencedBy	André Antoine
+Lugné-Poe	influencedBy	Paul Fort
+Perl 6	influencedBy	Haskell
+Perl 6	influencedBy	JavaScript
+Perl 6	influencedBy	Perl
+Perl 6	influencedBy	Ruby
+Perl 6	influencedBy	Smalltalk
+Boo	influencedBy	Python
+Boo	influencedBy	C Sharp
+Alexis Rockman	influencedBy	Hudson River School
+Alexis Rockman	influencedBy	Technical illustration
+Alexis Rockman	influencedBy	List of science fiction visual artists
+Albert Gleizes	influencedBy	Post-Impressionism
+Albert Gleizes	influencedBy	Symbolism
+Albert Gleizes	influencedBy	Paul Cézanne
+Vilnius BASIC	influencedBy	MSX BASIC
+ELAN	influencedBy	ALGOL 68
+CMS-2	influencedBy	CS-1, Fortran, JOVIAL and PL/I
+Jules Breton	influencedBy	François Bonvin, Gustave Brion, Louis Léopold Robert
+John Quidor	influencedBy	William Hogarth
+John Quidor	influencedBy	Isaac Cruikshank
+John Quidor	influencedBy	James Gillray
+John Quidor	influencedBy	Joseph Wright of Derby
+John Quidor	influencedBy	George Morland
+Mark Wilkinson	influencedBy	Hapshash and the Coloured Coat
+Mark Wilkinson	influencedBy	Rick Griffin
+Li Tang	influencedBy	Guo Xi
+Li Tang	influencedBy	Fan Kuan
+Li Tang	influencedBy	Li Cheng
+F	influencedBy	Fortran 95
+Józef Brandt	influencedBy	Juliusz Kossak
+SASL	influencedBy	ISWIM
+Tom Wesselmann	influencedBy	Henri Matisse
+Vija Celmins	influencedBy	Chuck Close
+Vija Celmins	influencedBy	Giorgio Morandi
+Vija Celmins	influencedBy	Jasper Johns
+Vija Celmins	influencedBy	Gerhard Richter
+Rebecca Guay	influencedBy	Arthur Rackham
+Rebecca Guay	influencedBy	Solomon Joseph Solomon
+Rebecca Guay	influencedBy	John William Waterhouse
+Object REXX	influencedBy	REXX
+Object REXX	influencedBy	Smalltalk
+John Bauer	influencedBy	Albert Engström, Carl Larsson, Anders Zorn, Gustaf Cedreström
+James Warhola	influencedBy	Andy Warhol, Jack Faragasso, Michael Aviano
+STOS BASIC	influencedBy	BASIC
+E	influencedBy	Joule, Original-E, Java
+James Turrell	influencedBy	John McLaughlin
+Maurycy Gottlieb	influencedBy	Jan Matejko
+Domenico Fetti	influencedBy	Caravaggio
+Domenico Fetti	influencedBy	Peter Paul Rubens
+Marisol Escobar	influencedBy	Abstract expressionism
+Marisol Escobar	influencedBy	Neo-Dada
+Marisol Escobar	influencedBy	Pop art
+William Merritt Chase	influencedBy	James Abbott McNeill Whistler
+William Merritt Chase	influencedBy	Frank Duveneck
+William Merritt Chase	influencedBy	Alfred Stevens
+William Merritt Chase	influencedBy	Diego Velázquez
+Kara Walker	influencedBy	Van Gogh, Andy Warhol
+Mikhail Vrubel	influencedBy	Pavel Chistyakov
+Mikhail Vrubel	influencedBy	Ilya Repin
+Mikhail Vrubel	influencedBy	Marià Fortuny
+Mikhail Vrubel	influencedBy	Francisco Goya
+Mikhail Vrubel	influencedBy	Russian icons
+James Earle Fraser	influencedBy	Augustus Saint Gaudens
+C--	influencedBy	C
+Konstantin Makovsky	influencedBy	Karl Bryullov
+Karel	influencedBy	Pascal
+Franklin Carmichael	influencedBy	Arthur Lismer ,Tom Thomson
+Xawery Dunikowski	influencedBy	Alfred Daun
+Xawery Dunikowski	influencedBy	Konstanty Laszczka
+FreeBASIC	influencedBy	QuickBASIC
+FreeBASIC	influencedBy	C
+Peter Hide	influencedBy	David Smith
+Peter Hide	influencedBy	Anthony Caro
+Evelyn Beatrice Longman	influencedBy	Daniel Chester French
+Evelyn Beatrice Longman	influencedBy	Lorado Taft
+Evelyn Beatrice Longman	influencedBy	Hermon Atkins MacNeil
+Bronzino	influencedBy	Raffaellino del Garbo
+Lucid	influencedBy	ISWIM
+Joseph DeCamp	influencedBy	Frank Duveneck
+Jean Leon Gerome Ferris	influencedBy	Christian Schussele
+Jean Leon Gerome Ferris	influencedBy	Jean-Léon Gérôme
+Frederick Carl Frieseke	influencedBy	Pierre-Auguste Renoir
+Helen Berman	influencedBy	Paul Klee
+Helen Berman	influencedBy	Paul Cézanne
+Helen Berman	influencedBy	Nicolas de Staël
+Helen Berman	influencedBy	Georges-Pierre Seurat
+Helen Berman	influencedBy	J. M. W. Turner
+Rex Whistler	influencedBy	Henry Tonks
+Carlo Cignani	influencedBy	Francesco Albani
+pgSQL	influencedBy	SQL
+pgSQL	influencedBy	Ada
+André Antoine	influencedBy	Émile Zola
+André Antoine	influencedBy	Georg II, Duke of Saxe-Meiningen
+Irving Amen	influencedBy	Judaica
+Jervis McEntee	influencedBy	Frederic Edwin Church
+Nicolae Tonitza	influencedBy	Honoré Daumier
+Nicolae Tonitza	influencedBy	Käthe Kollwitz
+Nicolae Tonitza	influencedBy	Ştefan Luchian
+Nicolae Tonitza	influencedBy	Frans Masereel
+BeanShell	influencedBy	Java
+BeanShell	influencedBy	JavaScript
+BeanShell	influencedBy	Perl
+Peter Voulkos	influencedBy	Franz Kline
+George Peter Alexander Healy	influencedBy	Antoine-Jean Gros
+Mór Than	influencedBy	Miklós Barabás
+Mór Than	influencedBy	Károly Lotz
+Mór Than	influencedBy	Karl Rahl
+Deesel	influencedBy	Java
+William Laurel Harris	influencedBy	John LaFarge
+William Laurel Harris	influencedBy	John White Alexander
+William Laurel Harris	influencedBy	Thomas Wilmer Dewing
+William Laurel Harris	influencedBy	Augustus St. Gaudens
+William Laurel Harris	influencedBy	Eugène Henri Paul Gauguin
+Kay Nielsen	influencedBy	Asian art
+Kay Nielsen	influencedBy	Persian art
+Kay Nielsen	influencedBy	Aubrey Beardsley
+Justine Kurland	influencedBy	Gregory Crewdson
+Justine Kurland	influencedBy	Philip-Lorca diCorcia
+LOOM	influencedBy	Knowledge Interchange Format
+Arman	influencedBy	Kurt Schwitters
+Arman	influencedBy	Vincent van Gogh
+Arman	influencedBy	Surrealism
+Arman	influencedBy	Dada
+Arman	influencedBy	Serge Poliakoff
+Arman	influencedBy	Nicolas de Staël
+Akemi Takada	influencedBy	Alfons Mucha
+Converge	influencedBy	Icon
+Converge	influencedBy	Python
+Charles Sheeler	influencedBy	Georges Braque
+Charles Sheeler	influencedBy	Pablo Picasso
+Charles Sheeler	influencedBy	Marcel Duchamp
+John Quincy Adams Ward	influencedBy	Henry Kirke Brown
+Jacopo Bassano	influencedBy	Titian
+Frank Schoonover	influencedBy	Howard Pyle
+Xia Gui	influencedBy	Li Tang
+David Smith	influencedBy	Pablo Picasso
+David Smith	influencedBy	Julio González
+Faith Ringgold	influencedBy	Robert Gwathmey
+Faith Ringgold	influencedBy	Yasuo Kuniyoshi
+Faith Ringgold	influencedBy	Robert Blackburn
+Anton Graff	influencedBy	Johann Ulrich Schellenberg, Antoine Pesne, Ján Kupecký, Hyacinthe Rigaud, George Desmarées
+Paul Laffoley	influencedBy	Frederick Kiesler
+George Morland	influencedBy	Henry Robert Morland
+George Morland	influencedBy	George Romney
+Martin Johnson Heade	influencedBy	Edward Hicks
+Martin Johnson Heade	influencedBy	Thomas Hicks ;
+Martin Johnson Heade	influencedBy	John Frederick Kensett
+Martin Johnson Heade	influencedBy	Benjamin Champney
+Joseph Clement Coll	influencedBy	Daniel Vierge
+Lucius Richard O'Brien	influencedBy	Luminism
+Lucius Richard O'Brien	influencedBy	Fitz Hugh Lane
+Lucius Richard O'Brien	influencedBy	Martin Johnson Heade
+Lucius Richard O'Brien	influencedBy	John F. Kensett
+Hans Hofmann	influencedBy	Henri Matisse
+Hans Hofmann	influencedBy	Robert Delaunay
+Jamie Wyeth	influencedBy	N. C. Wyeth
+Jamie Wyeth	influencedBy	Andrew Wyeth
+Jamie Wyeth	influencedBy	Carolyn Wyeth
+Anton Mauve	influencedBy	Jean-François Millet
+Constraint Handling Rules	influencedBy	Prolog
+Bertram Brooker	influencedBy	LeMoine Fitzgerald
+Fortress	influencedBy	Fortran
+Fortress	influencedBy	Scala
+Fortress	influencedBy	Haskell
+Edward Bawden	influencedBy	Aubrey Beardsley
+Edward Bawden	influencedBy	Richard Doyle
+Edward Bawden	influencedBy	William Morris
+Edward Bawden	influencedBy	Paul Nash
+Victor Bregeda	influencedBy	Leonardo da Vinci
+Victor Bregeda	influencedBy	Hieronymus Bosch
+Victor Bregeda	influencedBy	Pieter Brueghel the Elder
+Victor Bregeda	influencedBy	Max Ernst
+Victor Bregeda	influencedBy	Nicholas Roerich
+Will Cotton	influencedBy	Hudson River School, Vintage Pinup Art
+Marsden Hartley	influencedBy	Albert Pinkham Ryder
+Jesse Richards	influencedBy	Die Brücke
+Jesse Richards	influencedBy	Wabi-sabi
+Jesse Richards	influencedBy	Mono no aware
+Harbour	influencedBy	dBase, Clipper
+Stanhope Forbes	influencedBy	Jean-François Millet
+Stanhope Forbes	influencedBy	Jules Bastien-Lepage
+Standard ML of New Jersey	influencedBy	Standard ML
+Bartholomeus van der Helst	influencedBy	early Rembrandt
+Bartholomeus van der Helst	influencedBy	Anthony van Dyck
+Henrietta Johnston	influencedBy	Godfrey Kneller
+Edward Wadsworth	influencedBy	Wyndham Lewis
+Kresilas	influencedBy	Myron
+Vasily Perov	influencedBy	Pavel Fedotov
+Linda Montano	influencedBy	Michelangelo
+Linda Montano	influencedBy	Teresa of Avila
+Linda Montano	influencedBy	Yoga
+Linda Montano	influencedBy	Pio of Pietrelcina
+Linda Montano	influencedBy	Allan Kaprow
+Linda Montano	influencedBy	Lena Kelly
+Linda Montano	influencedBy	Lily Tomlin
+Linda Montano	influencedBy	Eva Hesse
+Linda Montano	influencedBy	Bob Dylan
+X10	influencedBy	C++
+X10	influencedBy	Java
+Epigram	influencedBy	ALF
+Alef	influencedBy	C
+Alef	influencedBy	Newsqueak
+Mary Fraser Tytler	influencedBy	Julia Margaret Cameron
+Mary Fraser Tytler	influencedBy	Freshwater, Isle of Wight
+Mary Fraser Tytler	influencedBy	George Frederic Watts
+Elihu Vedder	influencedBy	Tompkins Harrison Matteson
+Elihu Vedder	influencedBy	François-Édouard Picot
+Samuel Colman	influencedBy	Asher Durand
+David Hayes	influencedBy	David Smith, Henri Matisse, Alexander Calder, Robert Laurent and Alton Pickens
+Donato Giancola	influencedBy	Caravaggio, Peter Paul Rubens, Jusepe Ribera, J.W. Waterhouse, Hans Memling, Velazquez, Ingres and Vincent Desiderio
+Roderic O'Conor	influencedBy	Impressionism
+Roderic O'Conor	influencedBy	Pont-Aven School
+ThinBasic	influencedBy	Powerbasic
+Elisabet Ney	influencedBy	Christian Daniel Rauch
+Qiu Ying	influencedBy	Zhou Chen
+Anke Eißmann	influencedBy	Ted Nasmith
+Anke Eißmann	influencedBy	Arthur Rackham
+Anke Eißmann	influencedBy	Alan Lee
+René Auberjonois	influencedBy	Cézanne
+*Lisp	influencedBy	Lisp
+Jacek Yerka	influencedBy	Hieronymus Bosch
+Jacek Yerka	influencedBy	Pieter Bruegel the Elder
+Jacek Yerka	influencedBy	Cagliostro
+Jacek Yerka	influencedBy	Jan van Eyck
+Jacek Yerka	influencedBy	Hugo van der Goes
+William Glackens	influencedBy	Renoir
+Alexander Helwig Wyant	influencedBy	George Inness
+SAC programming language	influencedBy	APL programming language
+SAC programming language	influencedBy	SISAL
+SAC programming language	influencedBy	C
+Fred Machetanz	influencedBy	Maxfield Parrish
+Fred Machetanz	influencedBy	Will Barnet
+Fred Machetanz	influencedBy	Norman Rockwell
+Fred Machetanz	influencedBy	N.C. Wyeth
+Fred Machetanz	influencedBy	Frederick Remington
+Dwight William Tryon	influencedBy	James McNeill Whistler
+Horatio Walker	influencedBy	Barbizon School
+Join Java	influencedBy	Java
+Oswald Bruce Cooper	influencedBy	Frederic Goudy
+Caché ObjectScript	influencedBy	MUMPS
+Robert Ryman	influencedBy	Mark Rothko, Willem de Kooning, John McLaughlin, Clyfford Still, Jackson Pollock and Barnett Newman
+R. C. Gorman	influencedBy	Diego Rivera
+R. C. Gorman	influencedBy	David Siqueiros
+R. C. Gorman	influencedBy	Rufino Tamayo
+Yoix	influencedBy	C
+Yoix	influencedBy	Java
+Yoix	influencedBy	PostScript
+Richard Tuttle	influencedBy	Agnes Martin
+J. C. Leyendecker	influencedBy	Henri de Toulouse-Lautrec
+J. C. Leyendecker	influencedBy	Jules Chéret
+J. C. Leyendecker	influencedBy	Alfons Mucha
+ProvideX	influencedBy	Business Basic
+Yoshifumi Kondō	influencedBy	Hayao Miyazaki
+Yoshifumi Kondō	influencedBy	Isao Takahata
+Gabriël Metsu	influencedBy	Jan Steen
+Gabriël Metsu	influencedBy	Frans van Mieris the Elder
+Gabriël Metsu	influencedBy	Jan Vermeer
+Bistro	influencedBy	Java
+Bistro	influencedBy	Smalltalk
+Roland Penrose	influencedBy	Picasso
+Roland Penrose	influencedBy	Max Ernst
+C Sharp	influencedBy	C++
+C Sharp	influencedBy	Eiffel
+C Sharp	influencedBy	Java
+C Sharp	influencedBy	Modula-3
+C Sharp	influencedBy	Object Pascal
+C Sharp	influencedBy	ML
+C Sharp	influencedBy	Icon
+C Sharp	influencedBy	Haskell
+C Sharp	influencedBy	Rust
+C Sharp	influencedBy	Cω
+C Sharp	influencedBy	F Sharp
+Yasuo Kuniyoshi	influencedBy	Kenneth Hayes Miller
+Pietro Annigoni	influencedBy	Italian Renaissance
+Caml	influencedBy	ML
+Charles Comfort	influencedBy	Charles Sheeler
+Charles Comfort	influencedBy	Robert Henri
+Helen Bradley	influencedBy	L. S. Lowry
+Lorenzo Costa	influencedBy	Cosimo Tura
+Lorenzo Costa	influencedBy	Ercole de' Roberti
+Rodney Graham	influencedBy	Ian Wallace
+Rodney Graham	influencedBy	Jeff Wall
+Ștefan Luchian	influencedBy	Edgar Degas
+Ștefan Luchian	influencedBy	Édouard Manet
+Albert Marquet	influencedBy	Henri Matisse
+Rita Angus	influencedBy	Byzantine art and cubism
+Rita Angus	influencedBy	Christopher Perkins
+Eamon Everall	influencedBy	Cubism
+SystemVerilog	influencedBy	Verilog
+SystemVerilog	influencedBy	OpenVera
+John Glover	influencedBy	William Payne
+John Glover	influencedBy	John Warwick Smith
+Ellsworth Kelly	influencedBy	Henri Matisse
+Ellsworth Kelly	influencedBy	Pablo Picasso
+Ellsworth Kelly	influencedBy	Romanesque and Byzantine art
+Ellsworth Kelly	influencedBy	Surrealism
+Ellsworth Kelly	influencedBy	Neo-Plasticism
+Frederic Porter Vinton	influencedBy	Leon Bonnat
+Frederic Porter Vinton	influencedBy	Frank Duveneck
+Frederic Porter Vinton	influencedBy	William Merritt Chase
+Charles Robert Leslie	influencedBy	Benjamin West
+Charles Robert Leslie	influencedBy	William Beechey
+Hendrick ter Brugghen	influencedBy	Caravaggio
+Guillaume Geefs	influencedBy	Étienne-Jules Ramey
+Holly Randall	influencedBy	Suze Randall
+Holly Randall	influencedBy	Annie Leibovitz
+Holly Randall	influencedBy	Herb Ritts
+Holly Randall	influencedBy	Ellen von Unwerth
+Holly Randall	influencedBy	Helmut Newton
+Clifton Pugh	influencedBy	Wassily Kandinsky
+Clifton Pugh	influencedBy	Pablo Picasso
+Piet Zwart	influencedBy	De Stijl, Constructivism, Dada
+Thomas Ruff	influencedBy	Bernd and Hilla Becher
+Lucio Fontana	influencedBy	Spatialism
+Shen Zhou	influencedBy	Huang Tingjian
+Shen Zhou	influencedBy	Dong Yuan
+Shen Zhou	influencedBy	Juran
+Squirrel	influencedBy	Lua
+Squirrel	influencedBy	Python
+Squirrel	influencedBy	C++
+Squirrel	influencedBy	JavaScript
+Mary Early	influencedBy	Wolfgang Laib
+Mary Early	influencedBy	Martin Puryear
+XL	influencedBy	Ada
+XL	influencedBy	C++
+FL	influencedBy	FP
+George Henry Bogert	influencedBy	Thomas Eakins
+Paul César Helleu	influencedBy	Giovanni Boldini
+Paul César Helleu	influencedBy	John Singer Sargent
+Paul César Helleu	influencedBy	Claude Monet
+Hermon Atkins MacNeil	influencedBy	Henri Chapu
+Hermon Atkins MacNeil	influencedBy	Alexandre Falguière
+Hermon Atkins MacNeil	influencedBy	Philip Martiny
+Fril	influencedBy	Micro-Prolog
+Anita Malfatti	influencedBy	Expressionism
+Anita Malfatti	influencedBy	Cubism
+Konstantin Korovin	influencedBy	Karl Bryullov
+Konstantin Korovin	influencedBy	Alexander Andreyevich Ivanov
+Konstantin Korovin	influencedBy	Vasily Perov
+Gordon Bennett	influencedBy	Jackson Pollock
+Gordon Bennett	influencedBy	Piet Mondrian
+Gordon Bennett	influencedBy	Basquiat
+A♯	influencedBy	Pascal
+A♯	influencedBy	Haskell
+François Pompon	influencedBy	Pierre Louis Rouillard
+Nadezhda Udaltsova	influencedBy	Vladimir_Tatlin,Kazimir_Malevich
+Frederick Hart	influencedBy	Renaissance
+Arthur Ganson	influencedBy	Jean Tinguely
+Arthur Ganson	influencedBy	Paul Klee
+Arthur Ganson	influencedBy	Alexander Calder
+Sybil Andrews	influencedBy	Claude Flight
+Sybil Andrews	influencedBy	Cyril Power
+Sybil Andrews	influencedBy	Rose Mead
+Spec Sharp	influencedBy	C Sharp
+Spec Sharp	influencedBy	Eiffel
+Charmion Von Wiegand	influencedBy	Piet Mondrian
+Achilles Painter	influencedBy	Berlin Painter
+Clement Hurd	influencedBy	Fernand Léger
+Scala	influencedBy	Eiffel
+Scala	influencedBy	Erlang
+Scala	influencedBy	Haskell
+Scala	influencedBy	Java
+Scala	influencedBy	Lisp
+Scala	influencedBy	Pizza
+Scala	influencedBy	Standard ML
+Scala	influencedBy	OCaml
+Scala	influencedBy	Scheme
+Scala	influencedBy	Smalltalk
+Scala	influencedBy	Oz
+Judith Leyster	influencedBy	Frans Hals
+Judith Leyster	influencedBy	Dirck Hals
+William Bliss Baker	influencedBy	Hudson River school
+William Bliss Baker	influencedBy	Albert Bierstadt
+William Bliss Baker	influencedBy	Mauritz F. H. de Haas
+Charles E. Burchfield	influencedBy	Frederick Gottwald
+Louis Legrand	influencedBy	Félicien Rops
+Racket	influencedBy	Scheme
+Racket	influencedBy	Eiffel
+Tea	influencedBy	Tcl
+Tea	influencedBy	Java
+Tea	influencedBy	Scheme
+Loretta Lux	influencedBy	Agnolo Bronzino
+Loretta Lux	influencedBy	Diego Velázquez
+Loretta Lux	influencedBy	Phillip Otto Runge
+Loretta Lux	influencedBy	Julia Margaret Cameron
+Loretta Lux	influencedBy	Lewis Carroll
+Battistello Caracciolo	influencedBy	Caravaggio
+Asymptote	influencedBy	Metapost
+Nyquist	influencedBy	Lisp
+VisSim	influencedBy	C
+VisSim	influencedBy	MASSCOMP
+VisSim	influencedBy	Stardent Computer
+Brian Jungen	influencedBy	Andy Warhol
+Brian Jungen	influencedBy	Marcel Duchamp
+Brice Marden	influencedBy	Jasper Johns
+Brice Marden	influencedBy	Robert Rauschenberg
+Alessandro Tiarini	influencedBy	Ludovico Carracci
+Francesco Solimena	influencedBy	Mattia Preti
+BitC	influencedBy	Haskell
+BitC	influencedBy	ML
+Isaac Israëls	influencedBy	George Hendrik Breitner
+Isaac Israëls	influencedBy	Willem de Zwart
+Isaac Israëls	influencedBy	Max Liebermann
+Isaac Israëls	influencedBy	Edgar Degas
+Isaac Israëls	influencedBy	Henri de Toulouse-Lautrec
+Marie-Denise Villers	influencedBy	Anne-Louis Girodet de Roussy-Trioson
+Jessie M. King	influencedBy	Aubrey Beardsley
+Jessie M. King	influencedBy	Dante Gabriel Rossetti
+Jessie M. King	influencedBy	Walter Crane
+Jessie M. King	influencedBy	Pre-Raphaelitism
+Mladen Josić	influencedBy	Cézanne
+Mladen Josić	influencedBy	Gauguin
+Mladen Josić	influencedBy	Cubism
+Mladen Josić	influencedBy	Realism
+Gene Davis	influencedBy	Paul Klee
+Robin Tanner	influencedBy	Samuel Palmer
+Robin Tanner	influencedBy	F.L. Griggs
+Arthur Quartley	influencedBy	Frederick William Quartley
+Soraida Martinez	influencedBy	Pablo Picasso
+Soraida Martinez	influencedBy	Hans Hofmann
+Soraida Martinez	influencedBy	Robert Indiana
+Đorđe Andrejević-Kun	influencedBy	George Grosz
+Đorđe Andrejević-Kun	influencedBy	Frans Masereel
+Charles Umlauf	influencedBy	Albin Polasek
+Charles Umlauf	influencedBy	Lorado Taft
+Arthur Frank Mathews	influencedBy	Virgil Macey Williams
+Miodrag B. Protić	influencedBy	Mladen Josić
+Miodrag B. Protić	influencedBy	Jovan Bijelić
+Miodrag B. Protić	influencedBy	Zora Petrović
+Matija Vuković	influencedBy	Michelangelo
+Matija Vuković	influencedBy	Toma Rosandić
+Matija Vuković	influencedBy	Mladen Josić
+Matija Vuković	influencedBy	Sreten Stojanović
+Matija Vuković	influencedBy	Ilija Kolarević
+Matija Vuković	influencedBy	Ivan Meštrović
+Gwendolyn Knight	influencedBy	Augusta Savage
+Gwendolyn Knight	influencedBy	Jacob Lawrence
+Lyn Ott	influencedBy	Rembrandt
+Lyn Ott	influencedBy	Willem de Kooning
+Stanley William Hayter	influencedBy	Józef Hecht
+Etoys	influencedBy	Logo
+Etoys	influencedBy	Smalltalk
+Etoys	influencedBy	HyperCard
+Etoys	influencedBy	StarLogo
+Etoys	influencedBy	AgentSheets
+ToonTalk	influencedBy	Janus
+ToonTalk	influencedBy	Actor model
+Nickle	influencedBy	C
+Nickle	influencedBy	Lisp
+Nickle	influencedBy	Modula-3
+Nickle	influencedBy	ML
+Nickle	influencedBy	Java
+Alejandro Obregón	influencedBy	Picasso, Goya, Graham Sutherland
+EuLisp	influencedBy	Common Lisp, InterLisp, LeLisp, Lisp/VM, Scheme, T, CLOS, ObjVlisp, Oaklisp, MicroCeyx, MCS, Standard ML, Haskell
+Mario Prassinos	influencedBy	Salvador Dalí
+Mario Prassinos	influencedBy	Pablo Picasso
+Fernando de Szyszlo	influencedBy	Adolf Winternitz
+Edwin Dickinson	influencedBy	Charles Webster Hawthorne
+Handel-C	influencedBy	C
+Handel-C	influencedBy	Communicating sequential processes
+Handel-C	influencedBy	Occam
+Oxygene	influencedBy	Object Pascal
+Oxygene	influencedBy	C Sharp
+COMTRAN	influencedBy	FLOW-MATIC
+Jacques Villeglé	influencedBy	Yves Klein
+Kaihō Yūshō	influencedBy	Kanō Motonobu
+Kaihō Yūshō	influencedBy	Liang K'ai
+FpgaC	influencedBy	C Programming Language, Streams-C
+Keith Parkinson	influencedBy	Frank Frazetta
+Keith Parkinson	influencedBy	Roger Dean
+Agda	influencedBy	Coq
+Agda	influencedBy	Epigram
+Agda	influencedBy	Haskell
+John D. Graham	influencedBy	Paul Cézanne
+John D. Graham	influencedBy	Pablo Picasso
+John D. Graham	influencedBy	Wilhelmina Weber Furlong
+Louis Davis	influencedBy	William Morris
+Louis Davis	influencedBy	Edward Burne-Jones
+Louis Davis	influencedBy	Dante Gabriel Rossetti
+Louis Davis	influencedBy	Christopher Whall
+David Milne	influencedBy	Impressionism
+Dick Ket	influencedBy	Neue Sachlichkeit
+Julian Trevelyan	influencedBy	Stanley William Hayter
+Roland Brener	influencedBy	Anthony Caro
+Roland Brener	influencedBy	Peter Hide
+Bob Carlos Clarke	influencedBy	Patrick Lichfield, Helmut Newton, Allen Jones
+Julian Opie	influencedBy	Michael Craig-Martin
+Interactive C	influencedBy	C
+Joseph Gandy	influencedBy	Piranesi
+XSB	influencedBy	Prolog
+XSB	influencedBy	PSB-Prolog
+XSB	influencedBy	SB-Prolog
+Zao Wou-Ki	influencedBy	Lin Fengmian
+William McTaggart	influencedBy	John Constable
+William McTaggart	influencedBy	J. M. W. Turner
+Little b	influencedBy	Lisp
+André Lhote	influencedBy	Paul Gauguin
+André Lhote	influencedBy	Paul Cézanne
+Oscar Florianus Bluemner	influencedBy	Alfred Stieglitz
+Wojciech Gerson	influencedBy	Léon Cogniet
+Phil Hale	influencedBy	John Singer Sargent
+Liu Kang	influencedBy	Liu Haisu
+Liu Kang	influencedBy	Matisse
+Liu Kang	influencedBy	Gauguin
+Franciszek Ksawery Lampi	influencedBy	Johann Baptist von Lampi the Elder
+Verónica Ruiz de Velasco	influencedBy	Rufino Tamayo
+Verónica Ruiz de Velasco	influencedBy	Jean Dubuffet
+Verónica Ruiz de Velasco	influencedBy	Gilberto Aceves Navarro
+Henryk Siemiradzki	influencedBy	Karl Bryullov
+Henryk Siemiradzki	influencedBy	Konstantin Makovsky
+CorVision	influencedBy	Inform
+Władysław Podkowiński	influencedBy	Claude Monet
+Frederic Warde	influencedBy	Bruce Rogers
+Max Shertz	influencedBy	Picasso
+Max Shertz	influencedBy	Wassily Kandinsky
+Max Shertz	influencedBy	André Masson
+Thomas Canty	influencedBy	Alphonse Mucha
+Thomas Canty	influencedBy	Gustav Klimt
+Thomas Canty	influencedBy	Pre-Raphaelites
+Alma Thomas	influencedBy	Lois Mailou Jones
+Alma Thomas	influencedBy	James V. Herring
+Ursula Mommens	influencedBy	William Staite Murray
+Ursula Mommens	influencedBy	Michael Cardew
+Lee Wen	influencedBy	Tang Da Wu
+Lee Wen	influencedBy	The Artists Village
+Johann Halbig	influencedBy	Ernst Mayer
+Henryk Rodakowski	influencedBy	Léon Cogniet
+Todd Lockwood	influencedBy	Frank Frazetta
+Todd Lockwood	influencedBy	Michael Whelan
+Louis Tussaud	influencedBy	Madame Tussaud
+Fritz Scholder	influencedBy	Wayne Thiebaud
+T. C. Cannon	influencedBy	Friedensreich Hundertwasser
+T. C. Cannon	influencedBy	Stephen Mopope
+T. C. Cannon	influencedBy	Lee Tsatoke Sr.
+Myfanwy Pavelic	influencedBy	Cleeve Horne
+Alejandro Otero	influencedBy	Piet Mondrian
+Short Code	influencedBy	ENIAC Short Code
+Emilio Pettoruti	influencedBy	Cubism
+Emilio Pettoruti	influencedBy	Futurism
+Emilio Pettoruti	influencedBy	Constructivism
+Emilio Pettoruti	influencedBy	Abstract art
+Graham Bell	influencedBy	Duncan Grant
+Graham Bell	influencedBy	Geoffrey Tibble
+Glennray Tutor	influencedBy	Ralph Goings
+Glennray Tutor	influencedBy	Charles Bell
+Cleeve Horne	influencedBy	Emanuel Hahn, Dorothy Dick, John Russell
+Marcello Bacciarelli	influencedBy	Marco Benefial
+Robert S. Duncanson	influencedBy	Thomas Cole
+Haxe	influencedBy	ActionScript
+Haxe	influencedBy	OCaml
+Haxe	influencedBy	Java
+Elemore Morgan Jr.	influencedBy	Caroline Durieux
+Elemore Morgan Jr.	influencedBy	Ralston Crawford
+Nevin Çokay	influencedBy	Bedri Rahmi Eyüboğlu
+Mark Vallen	influencedBy	Charles Wilbert White
+Mark Vallen	influencedBy	Goya
+Mark Vallen	influencedBy	Daumier
+Mark Vallen	influencedBy	Expressionism
+Mark Vallen	influencedBy	Mural
+Frank Holliday	influencedBy	Philip Guston
+Frank Holliday	influencedBy	Cy Twombly
+Frank Holliday	influencedBy	Andy Warhol
+Christian Cardell Corbet	influencedBy	Elizabeth Bradford Holbrook
+Christian Cardell Corbet	influencedBy	Emanuel Hahn
+Christian Cardell Corbet	influencedBy	Isabel McLaughlin
+Split-C	influencedBy	C
+L. Frank	influencedBy	Sister Corita, Immaculate Heart College
+Ronnie Landfield	influencedBy	Pablo Picasso
+Ronnie Landfield	influencedBy	Henri Matisse
+Ronnie Landfield	influencedBy	Jackson Pollock
+Ronnie Landfield	influencedBy	Hans Hofmann
+Ronnie Landfield	influencedBy	Willem de Kooning
+Ronnie Landfield	influencedBy	René Magritte
+Ronnie Landfield	influencedBy	Franz Kline
+Roy Ascott	influencedBy	Victor Pasmore
+Roy Ascott	influencedBy	Jackson Pollock
+Roy Ascott	influencedBy	Marcel Duchamp
+Roy Ascott	influencedBy	William Ross Ashby
+Roy Ascott	influencedBy	I Ching
+Roy Ascott	influencedBy	Henri Bergson
+Chantal Joffe	influencedBy	Diane Arbus
+Azlan McLennan	influencedBy	Marxism
+Bertram Mackennal	influencedBy	Auguste Rodin
+Mabel Alvarez	influencedBy	Will Levington Comfort
+William Baziotes	influencedBy	Surrealism
+Charles Codman	influencedBy	John Ritto Penniman
+Louis Kronberg	influencedBy	Edmund C. Tarbell
+Louis Kronberg	influencedBy	Frank Weston Benson
+Louis Kronberg	influencedBy	Jean-Paul Laurens
+Louis Kronberg	influencedBy	Jean-Joseph Benjamin-Constant
+Katsuya Kondō	influencedBy	Osamu Dezaki
+Katsuya Kondō	influencedBy	Shinji Ōtsuka
+Katsuya Kondō	influencedBy	Akio Sugino
+Ion Andreescu	influencedBy	Nicolae Grigorescu
+Albert Dorne	influencedBy	Saul Tepper, Alexander Rice
+Dash Snow	influencedBy	Nan Goldin
+Dash Snow	influencedBy	Larry Clark
+Selma Burke	influencedBy	Aristide Maillol
+Mary Fedden	influencedBy	Matisse
+Mary Fedden	influencedBy	Braque;
+Mary Fedden	influencedBy	Ben Nicholson;
+Mary Fedden	influencedBy	Winifred Nicholson;
+Mary Fedden	influencedBy	Anne Redpath;
+Mary Fedden	influencedBy	Henri Hayden
+Visual Basic	influencedBy	BASIC
+Elaine Hamilton-O'Neal	influencedBy	José Clemente Orozco
+Elaine Hamilton-O'Neal	influencedBy	Michel Tapié
+Elaine Hamilton-O'Neal	influencedBy	Giotto di Bondone
+Ben Enwonwu	influencedBy	Aina Onabolu
+Peter Campus	influencedBy	Bruce Nauman, Michael Powell, Robert Smithson, Nancy Holt, Yvonne Rainer and Joan Jonas
+Ilya Bolotowsky	influencedBy	Piet Mondrian
+Affecter	influencedBy	Possibly the Amasis Painter
+János Tornyai	influencedBy	Mihály Munkácsy
+János Tornyai	influencedBy	Bertalan Székely
+Frederick John Kiesler	influencedBy	Adolf Loos
+Frederick John Kiesler	influencedBy	De Stijl
+Dorothy Dehner	influencedBy	Jan Matulka, Mark Rothko, David Smith
+Lisaac	influencedBy	Smalltalk
+Lisaac	influencedBy	Self
+Lisaac	influencedBy	Eiffel
+Emil Carlsen	influencedBy	Jean-Baptiste-Siméon Chardin
+Speedcoding	influencedBy	Assembly language
+Speedcoding	influencedBy	Machine code
+Roger Brown	influencedBy	The Prinzhorn Collection, Jesse Howard, Joseph Yoakum
+Cadence SKILL	influencedBy	Scheme
+Cadence SKILL	influencedBy	Common Lisp
+Cadence SKILL	influencedBy	Common Lisp Object System
+Antun Augustinčić	influencedBy	Auguste Rodin
+Mathieu Kessels	influencedBy	Joseph Camberlain
+Mathieu Kessels	influencedBy	Girodet
+Mathieu Kessels	influencedBy	Bertel Thorvaldsen
+Mathieu Kessels	influencedBy	Antonio Canova
+Chapel	influencedBy	Ada, C, Fortran, C++, Java, C#, HPF, ZPL, Cray MTA / XMT extensions to C and Fortran.
+Solidity	influencedBy	JavaScript
+Solidity	influencedBy	C++
+Elizabeth McGrath	influencedBy	Religion / Music Video / Edward Gorey
+Extensible Embeddable Language	influencedBy	Lua
+Extensible Embeddable Language	influencedBy	C
+Extensible Embeddable Language	influencedBy	Pascal
+Carol Brooks MacNeil	influencedBy	Lorado Taft
+Carol Brooks MacNeil	influencedBy	Frederick William MacMonnies
+Carol Brooks MacNeil	influencedBy	Jean Antoine Injalbert
+Bernardino Poccetti	influencedBy	Santi di Tito
+Arkady Plastov	influencedBy	Peredvizhniki
+Arkady Plastov	influencedBy	Ilya Repin
+Arkady Plastov	influencedBy	Vasily Surikov
+Arkady Plastov	influencedBy	Mikhail Nesterov
+Arkady Plastov	influencedBy	Abram Arkhipov
+Thomas Hill	influencedBy	Peter Frederick Rothermel
+AgentSheets	influencedBy	Lisp
+AgentSheets	influencedBy	Logo
+AgentSheets	influencedBy	Smalltalk
+Vittorio Miele	influencedBy	Impressionism
+Emanuel Hahn	influencedBy	Walter Seymour Allward
+Paul du Toit	influencedBy	Automatic drawing
+Paul du Toit	influencedBy	Joan Miró
+Paul du Toit	influencedBy	Jean Dubuffet
+Joseph Southall	influencedBy	*
+Joseph Southall	influencedBy	Edward Burne-Jones
+Joseph Southall	influencedBy	John Ruskin
+Joseph Southall	influencedBy	William Morris
+Joseph Southall	influencedBy	Benozzo Gozzoli
+Josiah McElheny	influencedBy	Ronald Wilkins;
+Josiah McElheny	influencedBy	Jan-Erik Ritzman;
+Josiah McElheny	influencedBy	Sven-Ake Caarlson;
+Josiah McElheny	influencedBy	Lino Tagliapietra
+George Bridgman	influencedBy	Jean-Léon Gérôme
+George Bridgman	influencedBy	Gustave Boulanger
+John Raimondi	influencedBy	Alexander Calder
+Thomas Schütte	influencedBy	Gerhard Richter
+Thomas Schütte	influencedBy	Fritz Schwegler
+William Perehudoff	influencedBy	Diego Rivera
+William Perehudoff	influencedBy	Amédée Ozenfant
+William Perehudoff	influencedBy	Kenneth Noland
+Concurrent Euclid	influencedBy	Euclid
+Concurrent Euclid	influencedBy	Communicating Sequential Processes
+James Ensor	influencedBy	Hieronymus Bosch
+Padraig Marrinan	influencedBy	William Orpen, John Lavery, Bud Fisher
+Modula-2+	influencedBy	Pascal
+Modula-2+	influencedBy	ALGOL
+Modula-2+	influencedBy	Modula-2
+César Martínez	influencedBy	Richard Avedon
+Augusta Savage	influencedBy	Hermon Atkins MacNeil
+Augusta Savage	influencedBy	Charles Despiau
+Peter Lely	influencedBy	Anthony van Dyck
+Robert William Wood	influencedBy	Victorian painters, Hudson River School, American Impressionism
+Logtalk	influencedBy	Prolog
+Logtalk	influencedBy	Smalltalk
+Logtalk	influencedBy	Objective-C
+Logtalk	influencedBy	Logic programming
+Logtalk	influencedBy	Object-oriented programming
+Logtalk	influencedBy	Prototype-based programming
+Turing+	influencedBy	Concurrent Euclid
+Turing+	influencedBy	Turing
+Maria Yakunchikova	influencedBy	Anna Ostroumova-Lebedeva
+Maria Yakunchikova	influencedBy	Konstantin Korovin
+Maria Yakunchikova	influencedBy	Vasily Polenov
+Maria Yakunchikova	influencedBy	Elena Polenova
+Christopher Whall	influencedBy	Botticelli, Giotto and Burne-Jones; Quattrocento art
+Leonaert Bramer	influencedBy	Adam Elsheimer
+John McCracken	influencedBy	John McLaughlin
+Ralph Gibson	influencedBy	Walker Evans
+Ralph Gibson	influencedBy	Diane Arbus
+Ralph Gibson	influencedBy	Manuel Álvarez Bravo
+John Alan Maxwell	influencedBy	George Luks, Frank Vincent Dumond
+Luca Carlevarijs	influencedBy	Caspar van Wittel
+Emma Lampert Cooper	influencedBy	William Merritt Chase
+Arshak Fetvadjian	influencedBy	Cesare Maccari
+TypeScript	influencedBy	JavaScript
+TypeScript	influencedBy	Java
+TypeScript	influencedBy	C Sharp
+Gemstone	influencedBy	Smalltalk
+Johnny Tiger Jr.	influencedBy	Dick West
+Alexander Boghossian	influencedBy	Coptic art, West African art, Paul Klee, Max Ernst, Wifredo Lam, Roberto Matta
+Andrea Locatelli	influencedBy	Paolo Anesi and Salvator Rosa
+Ma Yuan	influencedBy	Li Tang
+Diego Romero	influencedBy	Mimbres pottery, Greek pottery
+Ralph Eugene Meatyard	influencedBy	Van Deren Coke
+Ralph Eugene Meatyard	influencedBy	Minor White
+Ralph Eugene Meatyard	influencedBy	The Beats
+Shiba Kōkan	influencedBy	Suzuki Harunobu
+Shiba Kōkan	influencedBy	Hiraga Gennai
+Shiba Kōkan	influencedBy	Dutch art
+Larry Bell	influencedBy	John McLaughlin
+Robert Colescott	influencedBy	Fernand Léger
+Iain Baxter&	influencedBy	Marshall McLuhan
+Richard Murrian	influencedBy	David Hamilton
+Richard Murrian	influencedBy	Bruno Bisang
+Richard Murrian	influencedBy	Robert Farber
+Fateh Moudarres	influencedBy	Wahbi Al-Hariri
+Tom Gauld	influencedBy	Edward Gorey
+Tom Gauld	influencedBy	Chris Ware
+EasyLanguage	influencedBy	Pascal
+Mark Powell	influencedBy	Walker Evans
+Mark Powell	influencedBy	Diane Arbus
+Mark Powell	influencedBy	Manuel Álvarez Bravo
+Impulse C	influencedBy	C Programming Language, Streams-C
+Brutus2D	influencedBy	QuickBASIC
+Brutus2D	influencedBy	GW BASIC
+Mario Martinez	influencedBy	Yaqui culture,
+Mario Martinez	influencedBy	Abstract Expressionism
+Basic4GL	influencedBy	QuickBASIC
+Basic4GL	influencedBy	GW BASIC
+Débora Arango	influencedBy	Pedro nel Gomez, Jose Orozco, Mexican Muralism
+Lucienne Bloch	influencedBy	Antoine Bourdelle
+Lucienne Bloch	influencedBy	Andre Lhote
+Lucienne Bloch	influencedBy	Beniamino Bufano
+Lucienne Bloch	influencedBy	Diego Rivera
+Lucienne Bloch	influencedBy	Frida Kahlo
+John Roddam Spencer Stanhope	influencedBy	Edward Burne-Jones
+John Roddam Spencer Stanhope	influencedBy	George Frederic Watts
+Christopher d'Amboise	influencedBy	George Balanchine and Jerome Robbins
+Michael Kabotie	influencedBy	Fred Kabotie
+Michael Kabotie	influencedBy	Joe Hererra
+Run BASIC	influencedBy	Liberty BASIC
+Artus Quellinus the Elder	influencedBy	François Duquesnoy
+Geoffrey Burnand	influencedBy	George Grosz
+Geoffrey Burnand	influencedBy	Franz Marc
+Geoffrey Burnand	influencedBy	Max Beckmann
+Scratch	influencedBy	Logo
+Scratch	influencedBy	Smalltalk
+Scratch	influencedBy	HyperCard
+Scratch	influencedBy	StarLogo
+Scratch	influencedBy	AgentSheets
+Scratch	influencedBy	Etoys
+Domenico Fiasella	influencedBy	Aurelio Lomi and Giovanni Battista Paggi.
+Lattanzio Gambara	influencedBy	Giulio Campi
+Kazuo Nakamura	influencedBy	László Moholy-Nagy
+Kazuo Nakamura	influencedBy	Jock Macdonald
+Quark Framework	influencedBy	Haskell
+Quark Framework	influencedBy	Clean
+Quark Framework	influencedBy	Java
+Nikos Nikolaou	influencedBy	Konstantinos Parthenis
+Nikos Nikolaou	influencedBy	Umbertos Argyros
+Patrick Smith	influencedBy	Bill Plympton
+Patrick Smith	influencedBy	Hisko Hulsing
+Roger Medearis	influencedBy	Thomas Hart Benton
+Roger Medearis	influencedBy	Philip Desind
+WebMethods Flow	influencedBy	Java, flow charts
+Padovanino	influencedBy	Titian
+Joan Glass	influencedBy	Graham Sutherland
+Joan Glass	influencedBy	Pablo Picasso
+Joan Glass	influencedBy	Vincent van Gogh
+Chet Zar	influencedBy	M. C. Escher
+Chet Zar	influencedBy	Salvador Dalí
+Chet Zar	influencedBy	Hieronymus Bosch
+Rezia Wahid	influencedBy	Sufism
+Rezia Wahid	influencedBy	Islamic art
+Rezia Wahid	influencedBy	Islamic architecture
+Rezia Wahid	influencedBy	Bangladesh textile industry
+Juan T. Vázquez Martín	influencedBy	Paul Cézanne, Joan Miró, Paul Klee, Jackson Pollock,  Antoni Tàpies y Millares, Juan Tapia Ruano y Hugo Consuegra.
+Francesco Bissolo	influencedBy	Giovanni Bellini
+F. L. Griggs	influencedBy	Samuel Palmer
+F. L. Griggs	influencedBy	J.M.W. Turner
+F. L. Griggs	influencedBy	Edward Calvert
+Giacomo Boni	influencedBy	Carlo Cignani
+David Gordon	influencedBy	James Waring
+Howard Arkley	influencedBy	Patrick Caulfield
+Howard Arkley	influencedBy	Sidney Nolan
+Doris Salcedo	influencedBy	La Violencia and life in Colombia
+Purvis Young	influencedBy	Vincent van Gogh
+Purvis Young	influencedBy	El Greco
+Purvis Young	influencedBy	Eugène Delacroix
+Purvis Young	influencedBy	Rembrandt
+Nagasawa Rosetsu	influencedBy	Maruyama Ōkyo
+Nagasawa Rosetsu	influencedBy	Yosa Buson
+Helen Hyde	influencedBy	Franz Skarbina, Raphaël Collin, Emil Carlsen, Kano Tomonobu, Emil Orlik
+MiniD	influencedBy	D
+MiniD	influencedBy	Lua
+MiniD	influencedBy	Squirrel
+MiniD	influencedBy	Python
+MiniD	influencedBy	Io
+MiniD	influencedBy	ECMAScript
+Józef Gosławski	influencedBy	Stanisław Szukalski
+Józef Gosławski	influencedBy	Xawery Dunikowski
+Józef Gosławski	influencedBy	Tadeusz Breyer
+Józef Gosławski	influencedBy	Angelo Zanelli
+Sargent Claude Johnson	influencedBy	Harlem Renaissance
+Sargent Claude Johnson	influencedBy	Mexican muralism
+TOM	influencedBy	Objective-C
+Isaiah Zagar	influencedBy	Clarence Schmidt
+Ganesh Pyne	influencedBy	Abanindranath Tagore
+Ganesh Pyne	influencedBy	Rembrandt
+Ganesh Pyne	influencedBy	Frans Hals
+Ganesh Pyne	influencedBy	Paul Klee
+Girolamo da Treviso	influencedBy	Giorgione
+Lippo Memmi	influencedBy	Guido da Siena
+Lippo Memmi	influencedBy	Simone Martini
+Solomon Joseph Solomon	influencedBy	Alexandre Cabanel
+Solomon Joseph Solomon	influencedBy	Frederic Leighton, 1st Baron Leighton
+Solomon Joseph Solomon	influencedBy	Lawrence Alma-Tadema
+Lucas Faydherbe	influencedBy	Peter Paul Rubens
+Robert Juniper	influencedBy	Paul Klee
+Robert Juniper	influencedBy	Sam Fullbrook
+Les Edwards	influencedBy	Frank Bellamy, Bruce Pennington, William Blake, John Singer Sargent, John Everett Millais
+Károly Doncsecz	influencedBy	Balázs Badár and other potters
+James Augustus Suydam	influencedBy	Minor C. Kellogg
+Clyde Connell	influencedBy	Jackson Pollock, Willem de Kooning, Franz Kline, and Frederick Kiesler
+Raymond Salvatore Harmon	influencedBy	Hans Hartung
+Raymond Salvatore Harmon	influencedBy	Harry Everett Smith
+Raymond Salvatore Harmon	influencedBy	Thomas Vaughan
+Raymond Salvatore Harmon	influencedBy	William Gibson
+Raymond Salvatore Harmon	influencedBy	Nam June Paik
+Raymond Salvatore Harmon	influencedBy	Joseph Cornell
+S3	influencedBy	ALGOL 68
+Kevin Wasden	influencedBy	John William Waterhouse
+Kevin Wasden	influencedBy	Alfons Mucha
+Kevin Wasden	influencedBy	Gerald Brom
+Kevin Wasden	influencedBy	Gustav Klimt
+Kevin Wasden	influencedBy	Edgar Degas
+.QL	influencedBy	Datalog
+Ralf Metzenmacher	influencedBy	Francisco de Zurbarán
+Ralf Metzenmacher	influencedBy	Giorgio Morandi
+PSM	influencedBy	Ada
+Demas Nwoko	influencedBy	Nok culture
+NetRexx	influencedBy	I
+NetRexx	influencedBy	REXX
+NetRexx	influencedBy	Object REXX
+NetRexx	influencedBy	Java
+Sara Shamma	influencedBy	Bob Dylan
+Cesare Dandini	influencedBy	Vincenzo Dandini
+Cesare Dandini	influencedBy	Carlo Dolci
+Thomas Pollock Anshutz	influencedBy	Thomas Eakins
+Incr Tcl	influencedBy	Tcl
+Incr Tcl	influencedBy	C++
+Itk	influencedBy	Tcl
+Itk	influencedBy	C++
+TJ Norris	influencedBy	Dada
+TJ Norris	influencedBy	Modernism
+AmbientTalk	influencedBy	Smalltalk
+AmbientTalk	influencedBy	Self
+AmbientTalk	influencedBy	Scheme
+AmbientTalk	influencedBy	E
+AmbientTalk	influencedBy	Actor-Based Concurrent Language
+Charles Sargeant Jagger	influencedBy	New Sculpture
+Chen Chong Swee	influencedBy	Adrien-Jean Le Mayeur
+Chen Wen Hsi	influencedBy	Fauvism
+Chen Wen Hsi	influencedBy	Cubism
+Nicolae Vermont	influencedBy	Nicolae Grigorescu
+Php4delphi	influencedBy	PHP
+Php4delphi	influencedBy	Delphi
+Gavin Spielman	influencedBy	Camille Pissarro
+Gavin Spielman	influencedBy	Odd Nerdrum
+Gavin Spielman	influencedBy	Rembrandt
+Gavin Spielman	influencedBy	George Inness
+Bryten Goss	influencedBy	Balthus
+Bryten Goss	influencedBy	Caravaggio
+Bryten Goss	influencedBy	Edgar Degas
+Bryten Goss	influencedBy	Lucian Freud
+Bryten Goss	influencedBy	Egon Schiele
+J. J. Lankes	influencedBy	William Morris
+Theodore Lukits	influencedBy	Frank Brangwyn, Alphonse Mucha, Karl H. Buehr
+Hedda Sterne	influencedBy	Victor Brauner
+Claudio Bravo	influencedBy	Pablo Picasso, Salvador Dalí, Henri Matisse, Francis Bacon, Giorgio Morandi, Lucian Freud, Antonio López-Garcia, Diego Velázquez, Francisco de Zurbarán, Juan Sánchez Cotán, Juan van der Hamen, and Luis de Meléndez.
+Carlos Cruz-Diez	influencedBy	Georges Seurat
+Carlos Cruz-Diez	influencedBy	Josef Albers
+Pete McKee	influencedBy	Sheffield, his working class roots, the Waltzers and Henderson's Relish
+Ronald Francis	influencedBy	Rembrandt
+Ronald Francis	influencedBy	Titian
+Ronald Francis	influencedBy	Salvador Dalí
+Vala	influencedBy	C
+Vala	influencedBy	C++
+Vala	influencedBy	C Sharp
+Vala	influencedBy	D
+Vala	influencedBy	Java
+Black Hawk	influencedBy	Lakota people
+Barbara Morgan	influencedBy	Arthur Wesley Dow
+Mirko Virius	influencedBy	Ivan Generalić
+Mirko Virius	influencedBy	Franjo Mraz
+Mary Louise McLaughlin	influencedBy	Maria Longworth Nichols Storer
+Mary Louise McLaughlin	influencedBy	Haviland & Co.
+Heiko Daxl	influencedBy	experimental film,  contemporary music,  timebased art in general
+Ingeborg Fülepp	influencedBy	experimental film,  contemporary music,  timebased art in general
+James Michalopoulos	influencedBy	New Orleans
+Alexander Weygers	influencedBy	Lorado Taft
+Alexander Weygers	influencedBy	Avarde Fairbanks
+Mildred Anne Butler	influencedBy	Walter Osborne
+Mildred Anne Butler	influencedBy	Sir John Lavery
+Mildred Anne Butler	influencedBy	Luke Fildes
+Mildred Anne Butler	influencedBy	Stanhope Forbes
+Mildred Anne Butler	influencedBy	Rose Barton
+Li Cheng	influencedBy	Jing Hao
+Li Cheng	influencedBy	Juran
+Katrin Fridriks	influencedBy	Jackson Pollock
+Katrin Fridriks	influencedBy	Andy Warhol
+Katrin Fridriks	influencedBy	Anish Kapoor
+Katrin Fridriks	influencedBy	Damien Hirst
+Katrin Fridriks	influencedBy	Matthew Barney
+Katrin Fridriks	influencedBy	Banksy
+Neil Shawcross	influencedBy	Howard Hodgkin
+Orc	influencedBy	Haskell, ML, Oz, Smalltalk, Pict
+Andrea Bolgi	influencedBy	Gian Lorenzo Bernini
+Patrice Stellest	influencedBy	Jean Tinguely
+Patrice Stellest	influencedBy	Max Ernst
+Patrice Stellest	influencedBy	Joseph Beuys
+Henry Payne	influencedBy	Christopher Whall
+Henry Payne	influencedBy	Arts and Crafts movement
+Hop	influencedBy	Scheme
+Fred Sandback	influencedBy	Donald Judd
+Fred Sandback	influencedBy	Robert Morris
+Charles Courtney Curran	influencedBy	Benjamin Constant, Jules-Joseph Lefebvre and Henri Lucien Doucet
+Judoscript	influencedBy	Python
+Judoscript	influencedBy	Ruby
+Judoscript	influencedBy	Perl
+Judoscript	influencedBy	Smalltalk
+Judoscript	influencedBy	Java
+Eugene Savage	influencedBy	Thomas Hart Benton
+Pompeo Aldrovandini	influencedBy	Tommaso Aldrovandini
+John Lewis Krimmel	influencedBy	David Wilkie
+John Lewis Krimmel	influencedBy	William Hogarth
+John Lewis Krimmel	influencedBy	Benjamin West
+Jürgen Ovens	influencedBy	Rembrandt
+Jürgen Ovens	influencedBy	Anthony van Dyck
+Language Integrated Query	influencedBy	SQL
+Language Integrated Query	influencedBy	Haskell
+Rodolfo Nieto	influencedBy	Diego Rivera
+Rodolfo Nieto	influencedBy	Pablo Picasso
+Rodolfo Nieto	influencedBy	Rufino Tamayo
+Akiko Hatsu	influencedBy	Moto Hagio, Yukiko Kai
+George Baloghy	influencedBy	Colin McCahon
+George Baloghy	influencedBy	Don Binney
+George Baloghy	influencedBy	Rita Angus
+George Baloghy	influencedBy	Bill Hammond
+Adelaide Hanscom Leeson	influencedBy	Anne Brigman, Emily Pitchford, Laura Adams, Blanche Cummings, Gertrude Wilson
+Betsy Eby	influencedBy	Cy Twombly
+Betsy Eby	influencedBy	Anselm Kiefer
+Betsy Eby	influencedBy	Antoni Tàpies
+Betsy Eby	influencedBy	Brice Marden
+Betsy Eby	influencedBy	Mark Tobey
+Betsy Eby	influencedBy	Joan Mitchell
+Bo Bartlett	influencedBy	Andrew Wyeth
+Bo Bartlett	influencedBy	Thomas Eakins
+Bo Bartlett	influencedBy	Edward Hopper
+Bo Bartlett	influencedBy	Winslow Homer
+Bo Bartlett	influencedBy	Balthus
+Bo Bartlett	influencedBy	Norman Rockwell
+Script.NET	influencedBy	JavaScript
+Lisa Nankivil	influencedBy	Eva Hesse
+Lisa Nankivil	influencedBy	Joan Mitchell
+Lisa Nankivil	influencedBy	Mark Rothko
+Cobra	influencedBy	Python
+Cobra	influencedBy	Eiffel
+Cobra	influencedBy	C Sharp
+Cobra	influencedBy	Objective-C
+Arne Groh	influencedBy	Survival Research Laboratories
+Arne Groh	influencedBy	Flaming Lotus Girls
+Anna Chromý	influencedBy	Salvador Dalí
+Anna Chromý	influencedBy	Surrealism
+Anna Chromý	influencedBy	Vienna School of Fantastic Realism
+Anna Chromý	influencedBy	J. M. W. Turner
+Dick Termes	influencedBy	M. C. Escher
+Dick Termes	influencedBy	Buckminster Fuller
+Andrew Dasburg	influencedBy	Paul Cézanne
+CGOL	influencedBy	ALGOL
+CGOL	influencedBy	FORTRAN
+CGOL	influencedBy	MLisp
+Antoni Taulé	influencedBy	Velázquez
+Antoni Taulé	influencedBy	Goya
+Zilia Sánchez Domínguez	influencedBy	Lolo Soldevilla
+Zilia Sánchez Domínguez	influencedBy	Amelia Peláez
+Zilia Sánchez Domínguez	influencedBy	Carmen Herrera
+Helgi Tómasson	influencedBy	Jerome Robbins
+Richard Caton Woodville, Jr.	influencedBy	Wilhelm Camphausen
+Richard Caton Woodville, Jr.	influencedBy	Eduard von Gebhardt
+Richard Caton Woodville, Jr.	influencedBy	Jean-Léon Gérôme
+WordBASIC	influencedBy	QuickBASIC
+Federico Castellón	influencedBy	Old Masters, Giorgio de Chirico, Pablo Picasso, Salvador Dalí, Georges Rouault
+Philip Haas	influencedBy	Arcimboldo
+PowerShell	influencedBy	Korn shell
+PowerShell	influencedBy	Perl
+PowerShell	influencedBy	C Sharp
+PowerShell	influencedBy	400 Control Language
+PowerShell	influencedBy	DIGITAL Command Language
+PowerShell	influencedBy	SQL
+PowerShell	influencedBy	Tcl
+PowerShell	influencedBy	Tk
+PowerShell	influencedBy	Chef
+PowerShell	influencedBy	Puppet
+Laura Theresa Alma-Tadema	influencedBy	Dutch School
+Robert Murray	influencedBy	Barnett Newman and David Smith
+Thornton Oakley	influencedBy	Howard Pyle
+Charles McGee	influencedBy	Jean Dubuffet
+John Neagle	influencedBy	Thomas Sully
+John LeKay	influencedBy	Francis Bacon
+John LeKay	influencedBy	Rembrandt
+Joseph-Benoît Suvée	influencedBy	Jacques-Louis David
+Quinton Hoover	influencedBy	Bernie Wrightson, Frank Frazetta, Michael Kaluta, Neal Adams, Don Newton, John Buscema and Barry Windsor-Smith.
+Cool	influencedBy	Sather164, Java, ML, Pascal
+Richard Harned	influencedBy	Dale Chihuly
+Petre Hârtopeanu	influencedBy	Nicolae Tonitza
+Lawrence James Beck	influencedBy	David Smith (sculptor), Mark di Suvero, Gabriel Kohn, Inuit art
+H. Chalton Bradshaw	influencedBy	Edwin Lutyens
+Jerry Avenaim	influencedBy	Richard Avedon
+Escher	influencedBy	Simple theory of types
+Orwell	influencedBy	Miranda
+Mary Fairchild MacMonnies Low	influencedBy	Carolus-Duran
+Ong Kim Seng	influencedBy	Lim Cheng Hoe
+Ong Kim Seng	influencedBy	Gog Sing Hooi
+Edward Seago	influencedBy	Sir Alfred Munnings
+Lygia Pape	influencedBy	Lygia Clark, Helio Oiticica
+Paul Sepuya	influencedBy	Hilton Als
+LOLCODE	influencedBy	Lolcats
+Henry Keller	influencedBy	Frederick Gottwald
+Julio Correa	influencedBy	Manuel Ortiz Guerrero
+Barthélemy Menn	influencedBy	Jean Auguste Dominique Ingres and Camille Corot
+Ricardo Migliorisi	influencedBy	Livio Abramo
+Ricardo Migliorisi	influencedBy	Cira Moscarda
+Adam Kossowski	influencedBy	Italian Renaissance art, Polish wayside shrines, Book of Revelation, Luca della Robbia, Blaise Pascal, Paul Cézanne, Wojciech Weiss, Felicjan Kowarski, Leonard Pekalski, Pierre Teilhard de Chardin
+Guido van Robot	influencedBy	Python
+Guido van Robot	influencedBy	Karel
+Fletcher Sibthorp	influencedBy	Francis Bacon
+Fletcher Sibthorp	influencedBy	Edgar Degas
+Fletcher Sibthorp	influencedBy	Gustav Klimt
+Leo Marchutz	influencedBy	Cézanne, Van Gogh
+Alfred Jensen	influencedBy	Mark Rothko
+Alfred Jensen	influencedBy	Paul Klee
+Alfred Jensen	influencedBy	Wassily Kandinsky
+Alfred Jensen	influencedBy	Sam Francis
+Alfred Jensen	influencedBy	Theo van Doesburg
+Alfred Jensen	influencedBy	Goethe
+Gene Severens	influencedBy	The Clash
+Gene Severens	influencedBy	The Dead Boys
+Gene Severens	influencedBy	Rancid
+Martin Schoeller	influencedBy	August Sander, Bernd Becher, and Hilla Becher
+Del Kathryn Barton	influencedBy	Kiki Smith
+Del Kathryn Barton	influencedBy	Louise Bourgeois
+Del Kathryn Barton	influencedBy	John Currin
+Del Kathryn Barton	influencedBy	Shirin Neshat
+Del Kathryn Barton	influencedBy	Henry Darger
+Armand Gautier	influencedBy	Léon Cogniet
+Antonio Jose Guzman	influencedBy	Bas Jan Ader
+Antonio Jose Guzman	influencedBy	Joseph Beuys
+Antonio Jose Guzman	influencedBy	Jean-Michel Basquiat
+Antonio Jose Guzman	influencedBy	Richard Avedon
+Antonio Jose Guzman	influencedBy	Richard Buckminster %22Bucky%22 Fuller
+Antonio Jose Guzman	influencedBy	Constant Anton Nieuwenhuys
+Choy Weng Yang	influencedBy	Cézanne
+Choy Weng Yang	influencedBy	Monet
+Choy Weng Yang	influencedBy	Piet Mondrian
+Choy Weng Yang	influencedBy	Ink and wash painting
+Ho Ho Ying	influencedBy	Jackson Pollock
+Ho Ho Ying	influencedBy	Surrealism
+Ho Ho Ying	influencedBy	Fauvism
+Gordon Herickx	influencedBy	William Bloye
+Gordon Herickx	influencedBy	Constantin Brâncuși
+Gordon Herickx	influencedBy	Eric Gill
+Abdul Vas	influencedBy	DC
+Abdul Vas	influencedBy	MLB
+Abdul Vas	influencedBy	Marc Chagall
+Abdul Vas	influencedBy	Mike Kelley
+Abdul Vas	influencedBy	James Ensor
+Abdul Vas	influencedBy	Al Feldstein
+Abdul Vas	influencedBy	Brian Johnson
+Abdul Vas	influencedBy	Hieronymus Bosch
+Abdul Vas	influencedBy	Angus Young
+Clojure	influencedBy	C++
+Clojure	influencedBy	C Sharp
+Clojure	influencedBy	Common Lisp
+Clojure	influencedBy	Erlang
+Clojure	influencedBy	Haskell
+Clojure	influencedBy	Mathematica
+Clojure	influencedBy	ML
+Clojure	influencedBy	Prolog
+Clojure	influencedBy	Scheme
+Clojure	influencedBy	Java
+Clojure	influencedBy	Racket
+Clojure	influencedBy	Ruby
+Josias Joesler	influencedBy	George Washington Smith
+Josias Joesler	influencedBy	Wallace Neff
+Johann Sperl	influencedBy	Arthur von Ramberg
+Pnuts	influencedBy	Java
+Gojmir Anton Kos	influencedBy	Ferdinand Hodler
+Gojmir Anton Kos	influencedBy	Georges Braque
+Boris Kalin	influencedBy	Ivan Meštrović
+Boris Kalin	influencedBy	Lojze Dolinar
+Božidar Jakac	influencedBy	Rihard Jakopič
+Božidar Jakac	influencedBy	Edvard Munch
+Yvonne Chouteau	influencedBy	Alexandra Danilova
+Donray	influencedBy	Expressionists
+Donray	influencedBy	Futurists
+Donray	influencedBy	Fauvism
+Vvvv	influencedBy	APL
+Vvvv	influencedBy	MSP
+Vvvv	influencedBy	DirectShow
+Vvvv	influencedBy	Pure Data
+Vvvv	influencedBy	DirectX
+Hunt Slonem	influencedBy	German Expressionism
+Hunt Slonem	influencedBy	Pop art
+Ng Eng Teng	influencedBy	Georgette Chen
+Ng Eng Teng	influencedBy	Jean Bullock
+Rick Bartow	influencedBy	Marc Chagall, Francis Bacon, Odilon Redon, Horst Janssen, Māori art, Native American culture
+Elenore Abbott	influencedBy	Howard Pyle
+Nu	influencedBy	Lisp
+Nu	influencedBy	Objective-C
+Nu	influencedBy	Ruby
+Frances Lennon	influencedBy	L. S. Lowry
+Frances Lennon	influencedBy	Harold Riley
+Frans Post	influencedBy	Jan van Goyen
+Frans Post	influencedBy	Pieter Post
+Ian Miller	influencedBy	Albrecht Dürer
+Ian Miller	influencedBy	Leonardo da Vinci
+Ian Miller	influencedBy	Alfred Bester
+Eucharides Painter	influencedBy	Nikoxenos painter
+Alicia Austin	influencedBy	Edmund Dulac
+Alicia Austin	influencedBy	Arthur Rackham
+Alicia Austin	influencedBy	N. C. Wyeth
+Charles Kerins	influencedBy	Cyrus Dallin
+Juan Cancio Barreto	influencedBy	Efrén Echeverría
+Wang Yuanqi	influencedBy	Wang Shimin
+Wang Yuanqi	influencedBy	Huang Gongwang
+Paul Rusconi	influencedBy	Chuck Close
+Paul Rusconi	influencedBy	Gilbert & George
+Paul Rusconi	influencedBy	Andy Warhol
+Paul Rusconi	influencedBy	Robert Rauschenberg
+Kees Bol	influencedBy	Paul Citroen
+Kees Bol	influencedBy	Han van Dam
+Kees Bol	influencedBy	Jan Heesters
+Kees Bol	influencedBy	Henk Meijer
+Profile Scripting Language	influencedBy	MUMPS
+Frank Dekkers	influencedBy	Kees Bol
+OpenCL	influencedBy	C99
+OpenCL	influencedBy	CUDA
+OpenCL	influencedBy	C++14
+Josef Moroder-Lusenberg	influencedBy	Franz Defregger
+PCASTL	influencedBy	C
+PCASTL	influencedBy	R
+Jan-Hein Arens	influencedBy	Karel Appel
+Jan-Hein Arens	influencedBy	Jackson Pollock
+Jan-Hein Arens	influencedBy	Pop Art
+Christian McGrath	influencedBy	Frank Frazetta
+Sam Wagstaff	influencedBy	Robert Mapplethorpe
+Li Hua	influencedBy	Lu Xun
+Angna Enters	influencedBy	Michio Itō
+Clara Elsene Peck	influencedBy	Pre-Raphaelites
+Cuno Amiet	influencedBy	Ferdinand Hodler
+Frank Stephens	influencedBy	Henry George
+Frank Stephens	influencedBy	William Morris
+Don O'Neill	influencedBy	Milford Zornes
+Félix Toranzos	influencedBy	Livio Abramo
+Félix Toranzos	influencedBy	Cira Moscarda
+Charles Bolsius	influencedBy	Gestel, Thoroop, Kees van Dongen, and Emil Nolde
+Alfonso Iannelli	influencedBy	Gutzon Borglum
+Alfonso Iannelli	influencedBy	Frank Lloyd Wright
+Oluf Braren	influencedBy	Johann Heinrich Wilhelm Tischbein
+QB64	influencedBy	QuickBASIC
+QB64	influencedBy	QBASIC
+Howard Terpning	influencedBy	Winslow Homer
+Howard Terpning	influencedBy	Howard Pyle
+Miroslav Kraljević	influencedBy	Édouard Manet
+Stian Heimlund Skjæveland	influencedBy	Rembrandt, Diego Velázquez and Lucian Freud
+Horatio Greenough	influencedBy	Washington Allston
+Eleanore Mikus	influencedBy	Ben Nicholson, Paul Klee, Dominique Ingres - drawings
+John Goodwin Lyman	influencedBy	Henri Matisse
+Émile Lessore	influencedBy	Jean Auguste Dominique Ingres
+Batu Siharulidze	influencedBy	Michelangelo
+Batu Siharulidze	influencedBy	Henry Moore
+Batu Siharulidze	influencedBy	Pre-Columbian art
+Donald Baechler	influencedBy	Cy Twombly
+Donald Baechler	influencedBy	Giotto di Bondone
+Donald Baechler	influencedBy	Robert Rauschenberg
+Q	influencedBy	A+
+Q	influencedBy	APL programming language
+Q	influencedBy	Scheme
+Q	influencedBy	K
+Jenaro Pindú	influencedBy	Hermann Guggiari
+Cleve Gray	influencedBy	André Lhote
+Cleve Gray	influencedBy	Jacques Villon
+Cleve Gray	influencedBy	Chinese art
+Cleve Gray	influencedBy	Landscape painting
+Cleve Gray	influencedBy	Jackson Pollock
+Cleve Gray	influencedBy	Clyfford Still
+Cleve Gray	influencedBy	Mark Rothko
+Cleve Gray	influencedBy	Helen Frankenthaler
+Dennis Ashbaugh	influencedBy	William Gibson
+XBLite	influencedBy	XBasic
+XBLite	influencedBy	QuickBASIC
+Robert Bevan	influencedBy	Paul Gauguin
+Chomski	influencedBy	Sed
+Chomski	influencedBy	Awk
+Leopold Gottlieb	influencedBy	Jacek Malczewski
+Carl Rungius	influencedBy	Rungius’s experience in the field and his ability to survive in the wild distinguished him other European painters at the time. It is said that he was not majorly influenced by nineteenth century precursors like Cézanne and Monet.
+Edouard Wah	influencedBy	Petion Savain, Dieudonne Cedor, Wilson Jolicoeur, Luckner Lazard
+Jean Joseph Vaudechamp	influencedBy	Anne-Louis Girodet de Roussy-Trioson
+Michael David	influencedBy	Francisco Goya
+Michael David	influencedBy	Jackson Pollock
+Michael David	influencedBy	Frank Stella
+Michael David	influencedBy	Jasper Johns
+Werner Tübke	influencedBy	Albrecht Dürer
+Dod Procter	influencedBy	Impressionism
+Dod Procter	influencedBy	Post-Impressionism
+Roberto Cueva del Río	influencedBy	Diego Rivera
+Roberto Cueva del Río	influencedBy	Pablo Picasso
+Roberto Cueva del Río	influencedBy	Georges Braque
+Roberto Cueva del Río	influencedBy	Paul Cézanne
+Subhash Awchat	influencedBy	Vincent van Gogh
+Fantom	influencedBy	C Sharp
+Fantom	influencedBy	Java
+Fantom	influencedBy	Scala
+Fantom	influencedBy	Ruby
+Fantom	influencedBy	Erlang
+XPath	influencedBy	XSLT
+XPath	influencedBy	XPointer
+Olga Albizu	influencedBy	Esteban Vicente
+Olga Albizu	influencedBy	Hans Hofmann
+Objective-J	influencedBy	Objective-C
+Objective-J	influencedBy	JavaScript
+Paul Troger	influencedBy	Caracci, Luca Giordano, and Giuseppe Maria Crespi
+Olga Sacharoff	influencedBy	Paul Cézanne
+Olga Sacharoff	influencedBy	Henri Rousseau
+Georgette Chen	influencedBy	Maurice Utrillo
+Georgette Chen	influencedBy	Matisse
+Georgette Chen	influencedBy	Impressionists
+Georgette Chen	influencedBy	Post-Impressionists
+Fritz Haeg	influencedBy	Buckminster Fuller
+Fritz Haeg	influencedBy	Gordon Matta-Clark
+Fritz Haeg	influencedBy	Ant Farm
+Fritz Haeg	influencedBy	Anna Halprin
+Charlie Grosso	influencedBy	Diane Arbus
+Charlie Grosso	influencedBy	Richard Avedon
+Charlie Grosso	influencedBy	Sebastiao Salgado
+Charlie Grosso	influencedBy	Sylvia Plath
+John Blanche	influencedBy	Arthur Rackham
+John Blanche	influencedBy	Kay Nielsen
+John Blanche	influencedBy	J.R.R. Tolkien
+John Blanche	influencedBy	Rembrandt
+John Blanche	influencedBy	Hieronymus Bosch
+John Blanche	influencedBy	Albrecht Dürer
+John Blanche	influencedBy	Isaac Grünewald
+John Blanche	influencedBy	Ivan Shishkin
+John Blanche	influencedBy	Pre-Raphaelite Brotherhood
+John Blanche	influencedBy	Caspar David Freidrich
+John Blanche	influencedBy	Géricault
+John Blanche	influencedBy	Gérôme
+Zhang Jingna	influencedBy	something-beautiful.html#.UyMMwvmSw41
+Phil Solomon	influencedBy	Stan Brakhage
+Phil Solomon	influencedBy	Albert Pinkham Ryder
+Phil Solomon	influencedBy	Francis Bacon
+Phil Solomon	influencedBy	Emily Dickinson
+Phil Solomon	influencedBy	John Ashbery
+Phil Solomon	influencedBy	Wallace Stevens
+Phil Solomon	influencedBy	Jorie Graham
+Phil Solomon	influencedBy	Charles Ives
+Phil Solomon	influencedBy	Rod Serling
+Phil Solomon	influencedBy	Peter Kubelka
+Henry Gales	influencedBy	John Gilbert
+Béla Iványi-Grünwald	influencedBy	Jules Bastien-Lepage
+Béla Iványi-Grünwald	influencedBy	Paul Gauguin
+Paul Citroen	influencedBy	Johannes Itten
+Paul Citroen	influencedBy	Paul Klee
+Paul Citroen	influencedBy	Wassily Kandinsky
+Stephen Conroy	influencedBy	Francis Bacon
+John Banovich	influencedBy	Carl Rungius
+ATS	influencedBy	Dependent ML
+ATS	influencedBy	ML
+ATS	influencedBy	OCaml
+Henry Villierme	influencedBy	Edward Munch
+Henry Villierme	influencedBy	Pierre Bonnard
+Henry Villierme	influencedBy	Richard Diebenkorn
+Henry Villierme	influencedBy	Harry Krell
+Henry Villierme	influencedBy	David Park
+Henry Villierme	influencedBy	Elmer Bischoff
+Henry Villierme	influencedBy	Saburō Hasegawa
+Ida Bagus Made	influencedBy	Walter Spies and Rudolf Bonnet
+Frederick Gore	influencedBy	Mark Gertler
+Item Idem	influencedBy	Billy Apple
+Item Idem	influencedBy	General Idea
+Item Idem	influencedBy	Elaine Sturtevant
+Francis Criss	influencedBy	Jan Matulka
+Anak Agung Gde Sobrat	influencedBy	Walter Spies
+Jean Brenner	influencedBy	Paul Cézanne
+Jean Brenner	influencedBy	Claude Monet
+Ioke	influencedBy	Io
+Ioke	influencedBy	Smalltalk
+Ioke	influencedBy	Lisp
+Ioke	influencedBy	Ruby
+Microsoft Small Basic	influencedBy	Logo
+Microsoft Small Basic	influencedBy	QBasic
+Microsoft Small Basic	influencedBy	Visual Basic .NET
+Francisco Guevara	influencedBy	Felix Gonzalez Torres, Alfredo Jaar, Kirsten P. Buick
+Craig Kauffman	influencedBy	Marcel Duchamp
+Craig Kauffman	influencedBy	John McLaughlin
+Ryszard Wasko	influencedBy	Marcel Duchamp
+Ryszard Wasko	influencedBy	Joseph Beuys
+Ryszard Wasko	influencedBy	Barnett Newman
+Ryszard Wasko	influencedBy	Sol LeWitt
+Ryszard Wasko	influencedBy	Emmett Williams
+Ryszard Wasko	influencedBy	Ad Reinhardt
+Reia	influencedBy	Erlang
+Reia	influencedBy	Ruby
+Reia	influencedBy	Python
+Frank Bramley	influencedBy	Post-Impressionism
+Léon Gard	influencedBy	Impressionism
+Léon Gard	influencedBy	Titian
+Léon Gard	influencedBy	Michelangelo
+James William Hackett	influencedBy	Reginald Horace Blyth
+James William Hackett	influencedBy	Harold Henderson
+Bernhard Plockhorst	influencedBy	Pre-Raphaelite Brotherhood
+Pure	influencedBy	Q, Haskell, Lisp, Alice, MATLAB
+William J. Higginson	influencedBy	William Carlos Williams
+William J. Higginson	influencedBy	Makoto Ueda
+Jorge González Camarena	influencedBy	Dr. Atl
+Jim Connolly	influencedBy	Paul Grist
+Jim Connolly	influencedBy	Brian Bolland
+Jim Connolly	influencedBy	Jamie Hewlett
+Jim Connolly	influencedBy	Jarvis Cocker
+Jim Connolly	influencedBy	George Fullard
+Mark Zug	influencedBy	Fiction art, Dinosaurs, Jules Verne, Star Trek etc
+Kas Oosterhuis	influencedBy	Theo van Doesburg, Ilona Lénárd
+Edmund Teske	influencedBy	Vedanta
+Frederick Gottwald	influencedBy	Archibald Willard
+Randall Packer	influencedBy	Richard Wagner, John Cage, et al.
+Leon Dabo	influencedBy	John LaFarge
+Leon Dabo	influencedBy	Pierre Puvis de Chavannes
+Leon Dabo	influencedBy	James Abbott McNeill Whistler
+Maxwell Armfield	influencedBy	Joseph Southall
+Maxwell Armfield	influencedBy	Edward Burne-Jones
+Solamalay Namasivayam	influencedBy	Lim Cheng Hoe
+Solamalay Namasivayam	influencedBy	Yong Mun Sen
+Tim Palen	influencedBy	Mark Kessell, David LaChepelle, and Joel Peter Witkin
+Sass	influencedBy	CSS
+Sass	influencedBy	YAML
+Sass	influencedBy	Haml
+Jacob Burck	influencedBy	Albert Sterner
+Jacob Burck	influencedBy	Boardman Robinson
+Jacob Burck	influencedBy	Thomas Hart Benton
+Ignace Schott	influencedBy	Eugène Delacroix
+Ignace Schott	influencedBy	Paul Delaroche
+Ignace Schott	influencedBy	Charles Gleyre
+Ignace Schott	influencedBy	Ary Scheffer
+Steve Cox	influencedBy	R.B. Kitaj
+Steve Cox	influencedBy	David Hockney
+Steve Cox	influencedBy	Francis Bacon
+Steve Cox	influencedBy	Peter Blake
+Richard Shilling	influencedBy	Andy Goldsworthy
+Richard Shilling	influencedBy	Nils Udo
+Mark Lindquist	influencedBy	Brâncuși
+Mark Lindquist	influencedBy	Isamu Noguchi
+Mark Lindquist	influencedBy	David Smith
+Mark Lindquist	influencedBy	Peter Voulkos
+Walter Marsden	influencedBy	Edouard Lanteri, Royal College of Art
+Martyn Jones	influencedBy	Adrian Heath
+Martyn Jones	influencedBy	Patrick Heron
+Philip Lindsey Clark	influencedBy	His father, Robert Lindsey Clark
+Boomerang	influencedBy	OCaml
+Yazmany Arboleda	influencedBy	Jean Baudrillard
+Yazmany Arboleda	influencedBy	Richard Prince
+Yazmany Arboleda	influencedBy	Guy Debord
+Timothy App	influencedBy	Karl Benjamin
+Timothy App	influencedBy	Frank Stella
+Timothy App	influencedBy	Josef Albers
+Ilya Nikkolai	influencedBy	Alexander Scriabin, Oskar Fischinger, Turner, Goethe
+Jean-Baptiste Wicar	influencedBy	Jacques-Louis David
+Jacques Stella	influencedBy	Nicolas Poussin
+Jacques Stella	influencedBy	Florentine art
+Gareth Sansom	influencedBy	Francis Bacon
+Gareth Sansom	influencedBy	Peter Blake
+Gareth Sansom	influencedBy	Derek Boshier
+Stephen Etnier	influencedBy	Winslow Homer
+Stephen Etnier	influencedBy	Fitz Hugh Lane
+Stephen Etnier	influencedBy	Edward Hopper
+Stephen Etnier	influencedBy	Rockwell Kent
+Ellen Stagg	influencedBy	Helmut Newton
+Ellen Stagg	influencedBy	Bettina Reims
+Ellen Stagg	influencedBy	David Lynch
+Ellen Stagg	influencedBy	Adrian Lyne
+Ellen Stagg	influencedBy	Salvador Dalí
+Ellen Stagg	influencedBy	Walton Ford
+Ellen Stagg	influencedBy	Kukula
+Herbert William Weekes	influencedBy	Sir Edwin Henry Landseer
+Steve Diet Goedde	influencedBy	Richard Avedon
+Steve Diet Goedde	influencedBy	Lillian Bassman
+Steve Diet Goedde	influencedBy	Diane Arbus
+Poh Siew Wah	influencedBy	Antoni Tàpies
+Poh Siew Wah	influencedBy	S. Namasivayam
+Albert Maignan	influencedBy	Évariste Vital Luminais
+Albert Maignan	influencedBy	Henri Regnault
+Edward J. Fraughton	influencedBy	James Earle Fraser
+Edward J. Fraughton	influencedBy	Avard Fairbanks
+Edward J. Fraughton	influencedBy	Augustus Saint Gaudens
+Edward J. Fraughton	influencedBy	Henry Shrady
+Abel de Pujol	influencedBy	Jacques-Louis David
+COLA	influencedBy	Smalltalk
+COLA	influencedBy	Haskell
+Alfredo Ramos Martínez	influencedBy	French Impressionists
+Alfredo Ramos Martínez	influencedBy	Post-Impressionists
+George Condo	influencedBy	Bruce Nauman, Michael Powell, Robert Smithson, Nancy Holt, Yvonne Rainer and Joan Jonas
+Impromptu	influencedBy	Lisp programming language
+Impromptu	influencedBy	Scheme
+Falcon	influencedBy	C++
+Falcon	influencedBy	Perl
+Falcon	influencedBy	Lua
+Falcon	influencedBy	Smalltalk
+Falcon	influencedBy	PHP
+Falcon	influencedBy	Lisp
+Falcon	influencedBy	Python
+Falcon	influencedBy	Ruby
+Java Persistence Query Language	influencedBy	SQL
+Java Persistence Query Language	influencedBy	Hibernate
+Vincent Castiglia	influencedBy	Elito Circa
+Preston Singletary	influencedBy	Joe David
+Alexis Preller	influencedBy	Vincent van Gogh
+Alexis Preller	influencedBy	Paul Gauguin
+Jan Matulka	influencedBy	Pablo Picasso
+VSXu	influencedBy	Pure Data
+VSXu	influencedBy	OpenGL
+VSXu	influencedBy	C++
+Karl Ballmer	influencedBy	Rudolf Steiner
+Karl Ballmer	influencedBy	Louis-Claude de Saint-Martin
+Anna Whelan Betts	influencedBy	Howard Pyle
+José Luis Zorrilla de San Martín	influencedBy	Baroque sculpture
+José Luis Zorrilla de San Martín	influencedBy	Realist visual arts
+José Luis Zorrilla de San Martín	influencedBy	Mannerism
+Ylla	influencedBy	Ergy Landau
+Martha Berry	influencedBy	Southeastern tribes
+Kelly Church	influencedBy	Norval Morrisseau
+Pranava Prakash	influencedBy	Andy Warhol
+Pranava Prakash	influencedBy	Roy Lichtenstein
+GScript	influencedBy	ECMAScript
+Eric de Kolb	influencedBy	Otto Koening and Ferdinand Schmutzer
+Tim White-Sobieski	influencedBy	Federico Fellini
+Tim White-Sobieski	influencedBy	Andrei Tarkovsky
+Tim White-Sobieski	influencedBy	Pier Paolo Pasolini
+Tim White-Sobieski	influencedBy	J.S. Bach
+Tim White-Sobieski	influencedBy	Brian Eno
+Tim White-Sobieski	influencedBy	Max Frisch
+Tim White-Sobieski	influencedBy	Jean-Paul Sartre
+Tim White-Sobieski	influencedBy	William Faulkner
+Tim White-Sobieski	influencedBy	Samuel Beckett
+Harry Carmean	influencedBy	Lorser Feitelson
+Harry Carmean	influencedBy	Jean-Baptiste-Camille Corot
+Harry Carmean	influencedBy	Daumier
+Harry Carmean	influencedBy	Degas
+Harry Carmean	influencedBy	Millet
+Harry Carmean	influencedBy	Pontormo
+Harry Carmean	influencedBy	Auguste Rodin
+Richard Artschwager	influencedBy	Amédée Ozenfant
+Jacques Pellegrin	influencedBy	Henri Matisse
+Jacques Pellegrin	influencedBy	Kees van Dongen
+Richard Gordon	influencedBy	Helen Levitt
+Richard Gordon	influencedBy	Henri Cartier-Bresson
+Richard Gordon	influencedBy	Eugène Atget
+Matt Glass	influencedBy	Gregory Crewdson
+Matt Glass	influencedBy	Charlie White
+Matt Glass	influencedBy	Robert ParkeHarrison
+Constant Detré	influencedBy	Henri de Toulouse-Lautrec
+James Verbicky	influencedBy	Gerhard Richter
+James Verbicky	influencedBy	Frank Gehry
+Albert Charpin	influencedBy	Charles-François Daubigny
+Jack Van Ryder	influencedBy	Charles Marion Russell and Frederic Remington
+René de Girardin	influencedBy	Jean-Jacques Rousseau
+Ramón Sagredo	influencedBy	Pelegrín Clavé
+Teri Greeves	influencedBy	Jeri Ah-be-hill, Zeedora Enos, Calvin Magpie, Kiowa culture
+Marcus Amerman	influencedBy	Choctaw history, Mississippian culture, pop culture
+Liu Dao	influencedBy	Jon Kessler
+Liu Dao	influencedBy	Garry Hill
+Liu Dao	influencedBy	Jenny Holzer
+Liu Dao	influencedBy	Ken Rinaldo
+Horace Day	influencedBy	Nicolas Poussin
+Horace Day	influencedBy	Claude Lorrain
+Horace Day	influencedBy	Jacob Isaakszoon van Ruisdael
+Horace Day	influencedBy	Paul Cézanne
+Horace Day	influencedBy	Édouard Manet
+Horace Day	influencedBy	Claude Monet
+Andrew Stock	influencedBy	Sir Peter Scott
+Rolland Golden	influencedBy	John McCrady
+Rolland Golden	influencedBy	Noel Rockmore
+Marie-Suzanne Giroust	influencedBy	Maurice-Quentin de la Tour
+ISO C Specification Language	influencedBy	Java Modeling Language
+Heinz Goll	influencedBy	Pre-Columbian art
+Lois Smoky	influencedBy	Oscar Jacobson
+Aunia Kahn	influencedBy	Religion
+Aunia Kahn	influencedBy	Domestic violence
+Aunia Kahn	influencedBy	Animal abuse
+Robert Schade	influencedBy	Henry Vianden
+Susan Stuart Frackelton	influencedBy	Chinese painting
+Rafael Yela Günther	influencedBy	Antonio Doninelli, Carlos Mauricio Valenti Perrillat and Jaime Sabartés
+Robert Bero	influencedBy	Gabor Peterdi
+Jeremiah Theus	influencedBy	various, most notably John Wollaston
+Amanda Dunbar	influencedBy	Renaissance art
+Amanda Dunbar	influencedBy	Impressionists
+Marion Greenwood	influencedBy	Alexander Archipenko
+Federico Cantú Garza	influencedBy	Alfredo Ramos Martinez
+Federico Cantú Garza	influencedBy	Pablo Picasso
+Babbage	influencedBy	BCPL
+CLACL	influencedBy	Prolog
+CLACL	influencedBy	C
+Ángel Zárraga	influencedBy	Paul Cézanne
+Ángel Zárraga	influencedBy	Giotto di Bondone
+Waltraut Cooper	influencedBy	Dan Flavin
+Waltraut Cooper	influencedBy	Mathematical art
+Cornelis Huysmans	influencedBy	Gaspar de Witte
+Cornelis Huysmans	influencedBy	Jacques d'Arthois
+Arturo Estrada Hernández	influencedBy	Frida Kahlo
+Arturo Estrada Hernández	influencedBy	Diego Rivera
+Antonio M. Ruíz	influencedBy	Saturnino Herrán
+Antonio M. Ruíz	influencedBy	Germán Gedovius
+Antonio M. Ruíz	influencedBy	Flemish art
+Antonio M. Ruíz	influencedBy	Miguel Covarrubias
+Agustín Lazo Adalid	influencedBy	European painting
+Julio Castellanos	influencedBy	Manuel Rodríguez Lozano
+Ben F. Laposky	influencedBy	Naum Gabo
+Ben F. Laposky	influencedBy	Joan Miró
+Ben F. Laposky	influencedBy	Piet Mondrian
+Ben F. Laposky	influencedBy	Victor Vasarely
+Ben F. Laposky	influencedBy	Kazimir Malevich
+Ben F. Laposky	influencedBy	Fernand Léger
+Ben F. Laposky	influencedBy	Marcel Duchamp
+Ben F. Laposky	influencedBy	Alexander Calder
+Louay Kayali	influencedBy	Wahbi Al-Hariri
+Facebook Query Language	influencedBy	SQL
+Michel Trinquier	influencedBy	Pierre Soulages
+Michel Trinquier	influencedBy	Hans Hartung
+Ramón Alva de la Canal	influencedBy	Alfredo Ramos Martinez
+Jessie Traill	influencedBy	Frederick McCubbin
+Jessie Traill	influencedBy	Frank Brangwyn
+Francisco Cornejo	influencedBy	Pre-Columbian art
+Philip Southern	influencedBy	W. Eugene Smith, C. S. Lewis, Gandhi, Diego Rivera, etc.
+Friedrich August von Kaulbach	influencedBy	Hans Holbein the Younger
+Wouter Crabeth II	influencedBy	Caravaggio
+Hâfiz Osman	influencedBy	Seyh Hamdullah
+Israel Levitan	influencedBy	Ossip Zadkine
+Pharo	influencedBy	Smalltalk
+Basic4ppc	influencedBy	Visual Basic
+Hippolyte Boulenger	influencedBy	Barbizon school
+QBasic	influencedBy	QuickBASIC
+QBasic	influencedBy	GW-BASIC
+XQuery	influencedBy	XPath
+XQuery	influencedBy	SQL
+XQuery	influencedBy	XSLT
+William Willet	influencedBy	John La Farge, the Pre-Raphaelites
+Ernesto Basile	influencedBy	Roman architecture
+Ernesto Basile	influencedBy	Arab Architecture
+Ernesto Basile	influencedBy	Norman architecture
+Ernesto Basile	influencedBy	Arab-Norman culture
+Monique Mayère	influencedBy	Jacques Villeglé
+Monique Mayère	influencedBy	Niki de Saint Phalle
+Adolfo Hohenstein	influencedBy	Alfons Mucha
+John William Hill	influencedBy	John Ruskin
+Natalie Holland	influencedBy	Rembrandt and Velasquez
+Modula-2	influencedBy	Modula
+Modula-2	influencedBy	Mesa
+Modula-2	influencedBy	Pascal
+Modula-2	influencedBy	Algol-W
+Hans Unger	influencedBy	Pierre Puvis de Chavannes
+Hans Unger	influencedBy	Gustave MoreauJosephin Péladan
+Hans Unger	influencedBy	Fernand Khnopff
+Hans Unger	influencedBy	William Strang
+Hans Unger	influencedBy	Dante Gabriel Rossetti
+Hans Unger	influencedBy	Edward Burne-Jones
+Hans Unger	influencedBy	Arnold Böcklin
+Hans Unger	influencedBy	Max Klinger
+Christopher Hills	influencedBy	Christ
+Christopher Hills	influencedBy	Gautama Buddha
+Christopher Hills	influencedBy	Lao Tzu
+Christopher Hills	influencedBy	Einstein
+Christopher Hills	influencedBy	Albert Schweitzer
+Christopher Hills	influencedBy	Patañjali
+Christopher Hills	influencedBy	G. I. Gurdjieff
+Christopher Hills	influencedBy	Rabindranath Tagore
+Christopher Hills	influencedBy	Sri Aurobindo
+Len Fox	influencedBy	Emanuel Phillips Fox
+Kinji Akagawa	influencedBy	Artistic traditions of Japan; French philosopher Maurice Merleau-Ponty
+Juran	influencedBy	Dong Yuan
+Newspeak	influencedBy	Smalltalk
+Newspeak	influencedBy	Self
+Newspeak	influencedBy	BETA
+Newspeak	influencedBy	Nineteen Eighty-Four
+Thomas Lanigan-Schmidt	influencedBy	Florine Stettheimer
+Angela Gregory	influencedBy	Antoine Bourdelle
+Paul Flora	influencedBy	Olaf Gulbransson
+Paul Flora	influencedBy	Adolf Schinnerer
+Paul Flora	influencedBy	Alfred Kubin
+Alexandre-Jacques Chantron	influencedBy	Tony Robert-Fleury
+Alexandre-Jacques Chantron	influencedBy	William-Adolphe Bouguereau
+Alexandre-Jacques Chantron	influencedBy	François-Édouard Picot
+Lucien Whiting Powell	influencedBy	Thomas Moran
+Lucien Whiting Powell	influencedBy	Joseph M.W. Turner
+Lucien Whiting Powell	influencedBy	Thomas Cole
+Joseph Nash	influencedBy	Joseph Strutt
+Freydoon Rassouli	influencedBy	Hafez
+Freydoon Rassouli	influencedBy	Rumi
+Freydoon Rassouli	influencedBy	Gustave Moreau
+Freydoon Rassouli	influencedBy	William Blake
+Fidelia Bridges	influencedBy	William Trost Richards
+Bill Sutton	influencedBy	Rita Angus
+Roger Ing	influencedBy	Pablo Picasso
+Roger Ing	influencedBy	Jackson Pollock
+Roger Ing	influencedBy	Chinese painting
+Roger Ing	influencedBy	Vincent Van Gogh
+Roger Ing	influencedBy	Leonardo Da Vinci
+Peter Andrew Jones	influencedBy	Salvador Dalí, Norman Rockwell, James Bama, Andrew Wyeth
+Theodore Earl Butler	influencedBy	Claude Monet
+Robert Cottingham	influencedBy	Pop Art
+Robert Cottingham	influencedBy	Piet Mondrian
+Robert Cottingham	influencedBy	Edward Hopper
+Robert Cottingham	influencedBy	Charles Demuth
+Nathan Greene	influencedBy	Harry Anderson
+Eduardo Úrculo	influencedBy	Francisco Goya
+Eduardo Úrculo	influencedBy	Salvador Dalí
+Eduardo Úrculo	influencedBy	Juan Gris
+Eduardo Úrculo	influencedBy	Andy Warhol
+Eduardo Úrculo	influencedBy	Roy Lichtenstein
+Eduardo Úrculo	influencedBy	Robert Rauschenberg
+Fern Coppedge	influencedBy	Emma Fordyce MacRae
+Herb Aach	influencedBy	Color theory
+Herb Aach	influencedBy	Impressionism
+Herb Aach	influencedBy	Expressionism
+Herb Aach	influencedBy	Giotto di Bondone
+Russ Warren	influencedBy	Pablo Picasso Mexican Folk Art Francesco Goya
+François Brochet	influencedBy	Fernand Py
+Thomas Derrick	influencedBy	William Richard Lethaby
+Thomas Derrick	influencedBy	Edward Johnston
+Go	influencedBy	Alef
+Go	influencedBy	APL
+Go	influencedBy	BCPL
+Go	influencedBy	C
+Go	influencedBy	Communicating sequential processes
+Go	influencedBy	Limbo
+Go	influencedBy	Modula
+Go	influencedBy	Newsqueak
+Go	influencedBy	Oberon
+Go	influencedBy	Occam
+Go	influencedBy	Pascal
+Go	influencedBy	Python
+Go	influencedBy	Smalltalk
+Go!	influencedBy	Prolog
+Newsqueak	influencedBy	C
+Newsqueak	influencedBy	Communicating sequential processes
+Charles Jay Connick	influencedBy	Christopher Whall
+Steven Whyte	influencedBy	Auguste Rodin
+Steven Whyte	influencedBy	Jacob Epstein
+Steven Whyte	influencedBy	Malvina Hoffman
+Steven Whyte	influencedBy	Daniel Chester French
+Steven Whyte	influencedBy	Charles Sargeant Jagger
+Steven Whyte	influencedBy	Robert Graham
+XC	influencedBy	C
+XC	influencedBy	Occam
+XC	influencedBy	Communicating Sequential Processes
+Unity Bainbridge	influencedBy	Frederick Varley, Emily Carr
+Gonzalo Fonseca	influencedBy	Joaquín Torres García
+Pedro Sandoval	influencedBy	Jackson Pollock
+Pedro Sandoval	influencedBy	Cy Twombly
+Pedro Sandoval	influencedBy	Hans Hofmann
+Gevorg Bashinjaghian	influencedBy	Mikhail Clodt
+Gevorg Bashinjaghian	influencedBy	Arkhip Kuindzhi
+Gevorg Bashinjaghian	influencedBy	Ivan Aivazovsky
+Gevorg Bashinjaghian	influencedBy	Jean-Baptiste-Camille Corot
+Mym Tuma	influencedBy	Georgia O'Keeffe
+Walter S. Arnold	influencedBy	Medieval Art and Architecture
+Joe-E	influencedBy	Java
+Joe-E	influencedBy	E
+James Lavadour	influencedBy	Chinese painting
+James Lavadour	influencedBy	Abstract expressionism
+James Lavadour	influencedBy	Jazz music
+Paul Mason	influencedBy	Henry Moore
+Paul Mason	influencedBy	Barbara Hepworth
+Edward Woore	influencedBy	Christopher Whall
+Steven Shearer	influencedBy	Vancouver School
+Atom	influencedBy	Bluespec, Confluence, Haskell
+Genie	influencedBy	Python
+Genie	influencedBy	Boo
+Genie	influencedBy	D
+Genie	influencedBy	Object Pascal
+SuperPascal	influencedBy	Communicating Sequential Processes
+SuperPascal	influencedBy	Pascal
+SuperPascal	influencedBy	Concurrent Pascal
+SuperPascal	influencedBy	Joyce
+SuperPascal	influencedBy	Occam
+Antonio Lopez	influencedBy	Francisco de Goya
+Antonio Lopez	influencedBy	Georges Braque
+Antonio Lopez	influencedBy	Roy Lichtenstein
+Antonio Lopez	influencedBy	Jean Auguste Ingres
+Antonio Lopez	influencedBy	Egon Schiele
+Antonio Lopez	influencedBy	Giambattista Tiepolo
+Antonio Lopez	influencedBy	Salvador Dalí
+Antonio Lopez	influencedBy	Edward Hopper
+Antonio Lopez	influencedBy	David Hockney
+Antonio Lopez	influencedBy	Tom of Finland
+Antonio Lopez	influencedBy	J. C. Leyendecker
+Antonio Lopez	influencedBy	Norman Rockwell
+William Edouard Scott	influencedBy	Henry Ossawa Tanner
+William Walker	influencedBy	Jacob Lawrence, Charles Wilbert White, William McBride
+Louis René Vialy	influencedBy	Hyacinthe Rigaud
+Joseph André Cellony	influencedBy	Hyacinthe Rigaud
+Duane Pasco	influencedBy	Bill Holm
+Eugenia Berlin	influencedBy	Elizabeth Wyn Wood
+Boaz Vaadia	influencedBy	Michelangelo
+Kan Chun	influencedBy	Win Maung
+Kan Chun	influencedBy	Ba Thet
+Kan Chun	influencedBy	Kan Nyunt
+Kan Chun	influencedBy	Chit Mye
+Kan Chun	influencedBy	Aye Kyaw
+Rexx	influencedBy	I
+Rexx	influencedBy	ALGOL
+Rexx	influencedBy	CMS EXEC
+Rexx	influencedBy	EXEC 2
+Alfred Garth Jones	influencedBy	Anthony Frederick Augustus Sandys
+Micha Cárdenas	influencedBy	Stelarc
+Micha Cárdenas	influencedBy	Orlan
+Micha Cárdenas	influencedBy	Ricardo Dominguez
+Julian Hatton	influencedBy	Fernando Zóbel de Ayala y Montojo
+Rolf Brem	influencedBy	Karl Geiser
+Richard Aitson	influencedBy	Pablo Neruda
+Richard Aitson	influencedBy	Kiowa beadwork
+Jean-Baptiste Stahl	influencedBy	Art Nouveau
+Szabolcs Kókay	influencedBy	Róbert Muray
+Szabolcs Kókay	influencedBy	Lars Jonsson
+Fritz Bultman	influencedBy	Hans Hofmann
+Fritz Bultman	influencedBy	Henri Matisse
+Arthur Amiotte	influencedBy	Oscar Howe
+Man Arenas	influencedBy	Yōichi Kotabe
+Man Arenas	influencedBy	Hugo Pratt
+Man Arenas	influencedBy	Hayao Miyazaki
+Man Arenas	influencedBy	Hergé
+Man Arenas	influencedBy	Leiji Matsumoto
+Sadik Kaceli	influencedBy	Henri Matisse
+Sadik Kaceli	influencedBy	André Lhote
+Jonathan Savoie	influencedBy	Ernst Haas, David Hilliard, Gregory Crewdson, Julius Shulman  and Wolfgang Tillmans
+Luc Leestemaker	influencedBy	Johannes Vermeer, Rembrandt, John Constable, William Turner, Ruysdael, Hans Hoffman, Mark Rothko, Willem de Kooning, Frans Kline, Anselm Kiefer, Paul Klee.
+Zsuzsa Szikra	influencedBy	Victor Servranckx
+Hayley Lever	influencedBy	Vincent van Gogh
+Pablo O'Higgins	influencedBy	Diego Rivera
+Stefan Kanchev	influencedBy	Dechko Uzunov
+Carol M. Highsmith	influencedBy	Frances Benjamin Johnston
+Carol M. Highsmith	influencedBy	Dorothea Lange
+Frano Kršinić	influencedBy	Josef Václav Myslbek
+Frano Kršinić	influencedBy	Jan Štursa
+Amy Sarkisian	influencedBy	Constantin Brâncuși
+Amy Sarkisian	influencedBy	Eva Hesse
+Amy Sarkisian	influencedBy	Louise Bourgeois
+Shinji Nagashima	influencedBy	Osamu Tezuka
+Fidelio Ponce de León	influencedBy	Amedeo Modigliani
+Fidelio Ponce de León	influencedBy	El Greco
+Fidelio Ponce de León	influencedBy	Rembrandt
+Fidelio Ponce de León	influencedBy	Bartolomé Esteban Murillo
+Mildred Valley Thornton	influencedBy	Evelyn Beatrice Longman
+Jeff Wassmann	influencedBy	Joseph Cornell
+Jeff Wassmann	influencedBy	Marcel Duchamp
+Jeff Wassmann	influencedBy	Le Corbusier
+Jeff Wassmann	influencedBy	Eugène Atget
+Noel Rockmore	influencedBy	Rembrandt
+Noel Rockmore	influencedBy	Miro
+Noel Rockmore	influencedBy	Picasso
+Egbert van der Poel	influencedBy	Esaias van de Velde
+Egbert van der Poel	influencedBy	Aert van der Neer
+C. Cameron Macauley	influencedBy	Ansel Adams
+C. Cameron Macauley	influencedBy	Dorothea Lange
+C. Cameron Macauley	influencedBy	Alfred Stieglitz
+C. Cameron Macauley	influencedBy	Edward Weston
+C. Cameron Macauley	influencedBy	Imogen Cunningham
+C. Cameron Macauley	influencedBy	Man Ray
+RAPID	influencedBy	ARLA
+RAPID	influencedBy	C
+Charles Deas	influencedBy	George Catlin
+Petah Coyne	influencedBy	Flannery O'Connor, Eva Hesse, Louise Bourgeois
+Sitt Nyein Aye	influencedBy	Aye Kyaw
+Sitt Nyein Aye	influencedBy	Kin Maung
+Tadeusz Breyer	influencedBy	Alfred Daun
+Krystyna Dąbrowska	influencedBy	Tadeusz Breyer
+Htein Lin	influencedBy	Sitt Nyein Aye
+Jessie Newbery	influencedBy	William Morris
+Shirley Purdie	influencedBy	Queenie McKenzie
+Shirley Purdie	influencedBy	Rover Thomas
+Gertrude Abercrombie	influencedBy	Jazz
+Veronica Varlow	influencedBy	Bettie Page, Marlene Dietrich
+Gladys Rockmore Davis	influencedBy	John W. Norton
+Gladys Rockmore Davis	influencedBy	George Bellows
+Floyd MacMillan Davis	influencedBy	Daumier, Goya, and Toulouse-Lautrec
+Johannes van Haensbergen	influencedBy	Caspar Netscher and Cornelius van Poelenburgh
+Peter Fraser	influencedBy	William Eggleston
+Georges Lemmen	influencedBy	Edgar Degas
+Georges Lemmen	influencedBy	Henri de Toulouse-Lautrec
+Georges Lemmen	influencedBy	Théo van Rysselberghe
+Georges Lemmen	influencedBy	Georges Seurat
+Herb Roe	influencedBy	Caravaggio
+Herb Roe	influencedBy	Peter Paul Rubens
+Bruce B. Jefferson	influencedBy	Henry Ossawa Tanner
+Bruce B. Jefferson	influencedBy	Edgar Degas
+Bruce B. Jefferson	influencedBy	Gustav Klimt
+Bruce B. Jefferson	influencedBy	Henri de Toulouse-Lautrec
+Bruce B. Jefferson	influencedBy	Paul Gauguin
+Bruce B. Jefferson	influencedBy	Vincent van Gogh
+Ernest Thoen	influencedBy	Henri Cartier-Bresson
+Ernest Thoen	influencedBy	Robert Frank
+Ernest Thoen	influencedBy	Duane Michals
+Sarah Seager	influencedBy	Louise Bourgeois
+Sarah Seager	influencedBy	Lawrence Weiner
+Sarah Seager	influencedBy	Marcel Duchamp
+R. Hunter Middleton	influencedBy	Douglas Crawford McMurtrie
+Ethel Franklin Betts	influencedBy	Howard Pyle
+Amalia Amaki	influencedBy	Nancy Elizabeth Prophet
+Amalia Amaki	influencedBy	Georgia O'Keeffe
+Amalia Amaki	influencedBy	Joseph Cornell
+Amalia Amaki	influencedBy	Man Ray
+Amalia Amaki	influencedBy	Betty Hahn
+Amalia Amaki	influencedBy	Hale Woodruff
+Marjorie Acker Phillips	influencedBy	Boardman Robinson, Paul Cézanne, Pierre-Auguste Renoir
+Robert Talbot Kelly	influencedBy	Robert George Kelly
+Robert Hitchcock	influencedBy	Auguste Rodin
+Robert Hitchcock	influencedBy	Frederic Remington
+Robert Hitchcock	influencedBy	Marino Marini
+Roland Khoury	influencedBy	Rembrandt
+John Spaulding	influencedBy	Jazz
+Elizabeth Forbes	influencedBy	James Abbott McNeill Whistler
+Elizabeth Forbes	influencedBy	Walter Sickert
+Timur Novikov	influencedBy	Mikhail Larionov
+Timur Novikov	influencedBy	John Cage
+Timur Novikov	influencedBy	Robert Rauschenberg
+Timur Novikov	influencedBy	Andy Warhol
+Timur Novikov	influencedBy	Daniel Burin
+Susan Philipsz	influencedBy	Modernism
+John McLaughlin	influencedBy	Kazimir Malevich
+John McLaughlin	influencedBy	Piet Mondrian
+Guan Tong	influencedBy	Jing Hao
+David Edward Byrd	influencedBy	Art Nouveau:
+David Edward Byrd	influencedBy	- Mucha
+David Edward Byrd	influencedBy	- Parrish
+David Edward Byrd	influencedBy	Vienna Secession:
+David Edward Byrd	influencedBy	- Klimt
+David Edward Byrd	influencedBy	Art Deco and Plakatstil:
+David Edward Byrd	influencedBy	- Lucien Bernhard
+David Edward Byrd	influencedBy	- Ludwig Hohlwein
+David Edward Byrd	influencedBy	- Joe Leyendecker
+David Edward Byrd	influencedBy	West Coast Poster Designers
+David Edward Byrd	influencedBy	- Victor Moscoso
+David Edward Byrd	influencedBy	- David Singer
+David Edward Byrd	influencedBy	Contemporary artists:
+David Edward Byrd	influencedBy	- Richard Amsel
+David Edward Byrd	influencedBy	- Francis Bacon
+David Edward Byrd	influencedBy	- Jim McMullen
+David Edward Byrd	influencedBy	- Bob Peak
+David Edward Byrd	influencedBy	- Andy Warhol
+Joyce	influencedBy	Communicating Sequential Processes
+Joyce	influencedBy	Pascal
+Joyce	influencedBy	Concurrent Pascal
+James Kay	influencedBy	Impressionism
+Remo Rossi	influencedBy	Charles Despiau
+Remo Rossi	influencedBy	Aristide Maillol
+Remo Rossi	influencedBy	Alberto Giacometti
+Gabriel Flores	influencedBy	Diego Rivera
+Gabriel Flores	influencedBy	José Clemente Orozco
+Gabriel Flores	influencedBy	David Alfaro Siqueiros
+Peter Seitz Adams	influencedBy	Theodore Lukits
+Peter Seitz Adams	influencedBy	Frank Brangwyn
+Alfredo Wiechers Pieretti	influencedBy	Enric Sagnier
+CoffeeScript	influencedBy	Haskell, JavaScript, Perl, Python, Ruby, YAML
+Haskell	influencedBy	Clean, FP, Gofer, Hope and Hope+, Id, ISWIM, KRC, Lisp, Miranda, ML and Standard ML, Orwell, SASL,\n Scheme, SISAL
+Paul Dougherty	influencedBy	Winslow Homer
+Deborah Remington	influencedBy	Clyfford Still
+Virginia Stroud	influencedBy	Dick West
+Virginia Stroud	influencedBy	Pictographs
+Virginia Stroud	influencedBy	Ledger art
+Neil Williams	influencedBy	John Chamberlain
+Neil Williams	influencedBy	Frank Stella
+Neil Williams	influencedBy	Larry Bell
+Christian von Schneidau	influencedBy	Richard E. Miller, Charles W. Hawthorne, Karl H. Buehr
+Tim Solliday	influencedBy	Theodore Lukits
+J. K. Ralston	influencedBy	Frederic Remington
+J. K. Ralston	influencedBy	Charles Marion Russell
+José Albi	influencedBy	Rafael Alberti
+Josip Račić	influencedBy	Anton Ažbe
+Josip Račić	influencedBy	Wilhelm Leibl
+Josip Račić	influencedBy	Édouard Manet
+Ralf Brück	influencedBy	Bernd and Hilla Becher
+Vladimir Becić	influencedBy	Édouard Manet
+Catherine Wiley	influencedBy	Frank DuMond
+Catherine Wiley	influencedBy	William Merritt Chase
+Catherine Wiley	influencedBy	Lloyd Branson
+Humberto Calzada	influencedBy	Amelia Peláez
+Ilya Chashnik	influencedBy	Kazimir Malevich
+Oskar Herman	influencedBy	Anton Ažbe
+Oskar Herman	influencedBy	Julius Meier-Graefe
+Oskar Herman	influencedBy	Giorgione
+Oskar Herman	influencedBy	Tintoretto
+Oskar Herman	influencedBy	Palma Vecchio
+Oskar Herman	influencedBy	Hans von Marées
+Plus	influencedBy	SUE, Pascal
+Philipp Grot Johann	influencedBy	Karl Ferdinand Sohn
+William Quigley	influencedBy	Andy Warhol, Rembrandt and Jackson Pollock
+Mirah	influencedBy	Ruby
+Mirah	influencedBy	Java
+Mirah	influencedBy	Boo
+Antonio Liozzi	influencedBy	Marco Benefial
+Barbara Weir	influencedBy	Minnie Pwerle
+Barbara Weir	influencedBy	Emily Kngwarreye
+Joseph Hirsch	influencedBy	George Luks
+2	influencedBy	Algol 68
+Edward Laning	influencedBy	Max Weber
+Edward Laning	influencedBy	Boardman Robinson
+Edward Laning	influencedBy	John Sloan
+Edward Laning	influencedBy	Kenneth Hayes Miller
+Felipe Dulzaides	influencedBy	Gordon Matta Clark
+Felipe Dulzaides	influencedBy	Conceptual Art
+Boris Korolyov	influencedBy	I. Mashkóv
+Boris Korolyov	influencedBy	S. Volnúkhin
+Boris Korolyov	influencedBy	O. Rodin
+Eric Daigh	influencedBy	Chuck Close
+Eric Daigh	influencedBy	Martin Schoeller
+JoFF Rae	influencedBy	John Forbes Nash, Jr.
+JoFF Rae	influencedBy	Ha-Ha
+JoFF Rae	influencedBy	Douglas Adams
+JoFF Rae	influencedBy	Michael Jackson
+JoFF Rae	influencedBy	John Lydon
+JoFF Rae	influencedBy	Malcolm McLaren
+JoFF Rae	influencedBy	Brian Eno
+QML	influencedBy	XAML
+QML	influencedBy	JSON
+QML	influencedBy	JavaScript
+QML	influencedBy	Qt
+Pierre Emmanuel Damoye	influencedBy	Jean-Baptiste-Camille Corot
+Pierre Emmanuel Damoye	influencedBy	Charles-François Daubigny
+Brian Rutenberg	influencedBy	Glenn Gould
+Brian Rutenberg	influencedBy	Celtic Art
+Brian Rutenberg	influencedBy	South Carolina
+Richard Erdman	influencedBy	Michelangelo
+Richard Erdman	influencedBy	Henry Moore
+Maria Rusescu	influencedBy	Constantin Daniel Stahi
+Maria Rusescu	influencedBy	Theodor Aman
+Eric Peters	influencedBy	Symbolism, Surrealism, Viennese School in Fantasia realism
+Ruthe Blalock Jones	influencedBy	Charles Banks Wilson
+John Harris	influencedBy	John Martin
+John Harris	influencedBy	J M W Turner
+John Harris	influencedBy	Graham Sutherland
+John Harris	influencedBy	Max Ernst
+John Harris	influencedBy	English Romantic Landscape
+John Harris	influencedBy	Surrealism
+Vito D'Anna	influencedBy	Sebastiano Conca
+Vito D'Anna	influencedBy	Corrado Giaquinto
+Vito D'Anna	influencedBy	Pietro Paolo Vasta
+Francesco Sozzi	influencedBy	Vito D'Anna
+Francesco Sozzi	influencedBy	Corrado Giaquinto
+Francesco Sozzi	influencedBy	Olivo Sozzi
+Frank Day	influencedBy	Maidu traditional narratives
+Ateji PX	influencedBy	Java
+Michał Kulesza	influencedBy	Jonas Damelis, Jan Rustem, Józef Oziębłowski
+Stewart MacFarlane	influencedBy	David Dridan, David Dallwitz, Alex Katz, Janet Fish, Jeffrey Smart, Alfred Hitchcock
+Leonid Yanush	influencedBy	Arkhip Kuindzhi
+Frank Hodgkinson	influencedBy	Stanley William Hayter
+Hilda Belcher	influencedBy	Robert Henri
+Hilda Belcher	influencedBy	George Luks
+Hilda Belcher	influencedBy	George Bellows
+Intel Parallel Building Blocks	influencedBy	Cilk Plus
+Intel Parallel Building Blocks	influencedBy	Threading Building Blocks
+Intel Parallel Building Blocks	influencedBy	Intel Array Building Blocks
+Richard Schmid	influencedBy	William H. Mosby
+OptimJ	influencedBy	Java
+Ad Snijders	influencedBy	COBRA
+Pieter Stoop	influencedBy	Willem de Kooning
+Pieter Stoop	influencedBy	Bram van Velde
+Michael Kmit	influencedBy	Byzantine icons
+Rose Maynard Barton	influencedBy	Henri Gervex
+Rose Maynard Barton	influencedBy	Paul Jacob Naftel
+Jefferson Wood	influencedBy	Bo Hampton
+Jefferson Wood	influencedBy	Will Eisner
+Jefferson Wood	influencedBy	Al Williamson
+Jefferson Wood	influencedBy	Frank Frazetta
+Eva Henrietta Hamilton	influencedBy	William Orpen
+Eva Henrietta Hamilton	influencedBy	Henry Tonks
+Herbert Abrams	influencedBy	Frank DuMond
+Herbert Abrams	influencedBy	Rembrandt
+Herbert Abrams	influencedBy	Dutch Golden Age painting
+Henry Sandham	influencedBy	William Notman
+Henry Sandham	influencedBy	John Arthur Fraser
+Ma Jir Bo	influencedBy	Rembrandt van Rijn, John Constable, Jean-François Millet, John Singer Sargent, Li Tie-fu
+Abraham Lishinsky	influencedBy	Jean Charlot
+Abraham Lishinsky	influencedBy	John Sloan
+Rust	influencedBy	Alef
+Rust	influencedBy	C Sharp
+Rust	influencedBy	C++
+Rust	influencedBy	Cyclone
+Rust	influencedBy	Erlang
+Rust	influencedBy	Haskell
+Rust	influencedBy	Hermes
+Rust	influencedBy	Limbo
+Rust	influencedBy	Newsqueak
+Rust	influencedBy	NIL
+Rust	influencedBy	Ocaml
+Rust	influencedBy	Ruby
+Rust	influencedBy	Scheme
+Rust	influencedBy	Standard ML
+Rust	influencedBy	Swift
+Keith Albarn	influencedBy	Islamic Art
+Keith Albarn	influencedBy	Fibonacci Series
+John Noble	influencedBy	Impressionism
+Ernst Mayer	influencedBy	Antonio Isopi
+Gosu	influencedBy	Java
+Gosu	influencedBy	C Sharp
+Bert Andrews	influencedBy	Chuck Stewart
+Johan Lennarts	influencedBy	CoBrA, Pop Art
+Yei Myint	influencedBy	Win Pe
+Ba Nyan	influencedBy	Frank Spenlove-Spenlove
+Ba Nyan	influencedBy	Frank Brangwyn
+Ba Kyi	influencedBy	Ba Nyan and modern Western painters, possibly Frank Brangwyn, Traditional Burmese Painting
+Ngwe Gaing	influencedBy	Ba Ohn, Po Aung, Ba Sein, Ba Nyan
+Mya Thaung	influencedBy	Thein Han
+Mya Thaung	influencedBy	Lun Gywe
+Aung Khin	influencedBy	Ba Nyan, Van Gogh, Picasso, Traditional Burmese Painting
+Paw Oo Thet	influencedBy	Ba Thet, Kin Maung , Dong Kingman, Norman Rockwell, Traditional Burmese Painting
+Win Pe Myint	influencedBy	Paw Oo Thet, Thein Han , Lun Gywe, Shwe Oung Thame
+Ba Thet	influencedBy	Maung Maung Gyi
+Ba Thet	influencedBy	Ba Zaw
+Ba Thet	influencedBy	Saya Saung
+Lu Tin	influencedBy	Ba Thet
+Lu Tin	influencedBy	Kan Nyunt
+Lu Tin	influencedBy	Chit Mye
+Kyaw Hlaing	influencedBy	Ba Nyan
+Kyaw Hlaing	influencedBy	Ba Kyi
+San Win	influencedBy	Martin Ward, Ba Nyan, Ngwe Gaing
+Aung Soe	influencedBy	Hla Baw, Ba Nyan, Ba Kyi, Ba Gyan, Nandalal Bose, Affandi, a wide range of European modernist painters such as Picasso and Matisse, Traditional Burmese Painting
+Lun Gywe	influencedBy	Thein Han
+Lun Gywe	influencedBy	San Win
+Lun Gywe	influencedBy	Ngwe Gaing
+Saw Maung	influencedBy	Saya Aye (painter), Traditional Burmese Painting
+Aung Myint	influencedBy	Aung Soe, Jackson Pollock, Willem de Kooning, other New York School painters, and Traditional Burmese Painting
+Mato Celestin Medović	influencedBy	Vlaho Bukovac
+Porfirio Salinas	influencedBy	Robert William Wood, José Arpa y Perea, Dawson Dawson-Watson
+Josignacio	influencedBy	Wassily Kandinsky, Abstract Expressionism and all action painting
+Menci Clement Crnčić	influencedBy	William Unger, Vlaho Bukovac
+Gilbert Brown Wilson	influencedBy	Eugene Francis Savage
+Gilbert Brown Wilson	influencedBy	Diego Rivera
+Gilbert Brown Wilson	influencedBy	José Clemente Orozco
+Gilbert Brown Wilson	influencedBy	David Alfaro Siqueiros
+George Burroughs Torrey	influencedBy	Carolus Duran
+George Burroughs Torrey	influencedBy	Puvis de Chavannes
+George Burroughs Torrey	influencedBy	Léon Bonnat
+George Burroughs Torrey	influencedBy	Jean-Joseph Benjamin-Constant
+George Burroughs Torrey	influencedBy	Alfred Philippe Roll
+Maria Zambaco	influencedBy	Edward Burne-Jones
+Maria Zambaco	influencedBy	Dante Gabriel Rossetti
+Jan Martens	influencedBy	Abstract Expressionism
+Jan Martens	influencedBy	Pop Art
+Brose Partington	influencedBy	Jean Tinguely
+Brose Partington	influencedBy	Arthur Ganson
+Sanzi	influencedBy	Taoism
+Sanzi	influencedBy	Cubism
+Sanzi	influencedBy	Surrealism
+GNU E	influencedBy	C++
+Alan Pollack	influencedBy	Frank Frazetta
+Alan Pollack	influencedBy	Boris Vallejo
+Alan Pollack	influencedBy	Brothers Hildebrandt
+Alan Pollack	influencedBy	Michael Whelan
+William Matthew Prior	influencedBy	Charles Codman
+Antoine Vollon	influencedBy	Jean-Baptiste-Siméon Chardin
+Antoine Vollon	influencedBy	Jean-François Millet
+Antoine Vollon	influencedBy	Octave Tassaert
+Antoine Vollon	influencedBy	Camille Corot
+Antoine Vollon	influencedBy	François Bonvin
+Erwin Puchinger	influencedBy	Franz von Matsch, Josef Hoffmann, Gustav Klimt
+Florence Wyle	influencedBy	Walter Seymour Allward
+Carey Morris	influencedBy	Henry Tonks
+Hermann Lungkwitz	influencedBy	Adrian Ludwig Richter
+Friedrich Richard Petri	influencedBy	Adrian Ludwig Richter
+Friedrich Richard Petri	influencedBy	Julius Hübner
+Nicoletta Ceccoli	influencedBy	Remedios Varo
+Nicoletta Ceccoli	influencedBy	Domenico Gnoli
+Nicoletta Ceccoli	influencedBy	Paolo Uccello
+Nicoletta Ceccoli	influencedBy	Stasys Eidrigevicious
+Nicoletta Ceccoli	influencedBy	Mark Ryden
+Nicoletta Ceccoli	influencedBy	Edward Gorey
+Nicoletta Ceccoli	influencedBy	Winsor McCay
+Nicoletta Ceccoli	influencedBy	Ray Caesar
+Andrew Bell	influencedBy	Jim Phillips, Berkeley Breathed
+AMBIT	influencedBy	ALGOL 60
+Wendy MacNaughton	influencedBy	Christoph Niemann
+Wendy MacNaughton	influencedBy	Maira Kalman
+Courtney Adams	influencedBy	Gustav Klimt
+Courtney Adams	influencedBy	Egon Schiele
+Jay Batlle	influencedBy	Gordon Matta-Clark, Yves Klein, Francis Picabia, Meg Cranston, Rita McBride, Charles Ray, John Baldessari, Mike Kelley, Jeff Koons, Sigmar Polke, Martin Kippenberger, Bruce Nauman, Chris Burden, Goya
+Denis Juneau	influencedBy	Alfred Pellan
+Denis Juneau	influencedBy	Piet Mondrian
+Kojo	influencedBy	Logo
+Kojo	influencedBy	Processing
+Kojo	influencedBy	The Geometer's Sketchpad
+Kim Douglas Wiggins	influencedBy	Winslow Homer
+Kim Douglas Wiggins	influencedBy	Howard Pyle
+Frenetic	influencedBy	OCaml
+Alice	influencedBy	ML
+Alice	influencedBy	Oz
+Nemerle	influencedBy	C Sharp
+Nemerle	influencedBy	ML
+Nemerle	influencedBy	Lisp
+Melinda Bordelon	influencedBy	Don Ivan Punchatz
+LiveCode	influencedBy	HyperTalk
+Andrew Cornell Robinson	influencedBy	Robert Gober
+Andrew Cornell Robinson	influencedBy	Jack Smith
+Andrew Cornell Robinson	influencedBy	Nayland Blake
+Andrew Cornell Robinson	influencedBy	Joseph Beuys
+Andrew Cornell Robinson	influencedBy	Grayson Perry
+Andrew Cornell Robinson	influencedBy	Nicolas Bourriaud
+Andrew Cornell Robinson	influencedBy	Dave Hickey
+Georg Muche	influencedBy	Marc Chagall
+Georg Muche	influencedBy	Paul Klee
+Georg Muche	influencedBy	Wassily Kandinsky
+Georg Muche	influencedBy	Max Ernst
+Simon Perry	influencedBy	Henry Moore
+Simon Perry	influencedBy	Barbara Hepworth
+Simon Perry	influencedBy	Jacob Epstein
+Claude Bonin-Pissarro	influencedBy	Paul Gauguin
+Goddy Leye	influencedBy	Pascal Kenfack
+Petri Kaverma	influencedBy	Robert Smithson
+Ljubo Babić	influencedBy	Menci Clement Crnčić
+Ljubo Babić	influencedBy	Bela Čikoš Sesija
+Truman Lowe	influencedBy	Ho-Chunk Basketry, minimalism, installation art, nature, George Morrison, Larry Bell.
+Corwin Clairmont	influencedBy	Joseph Beuys
+Corwin Clairmont	influencedBy	John Baldessari
+Philip R. Goodwin	influencedBy	Howard Pyle
+Philip R. Goodwin	influencedBy	Charles Marion Russell
+Philip R. Goodwin	influencedBy	Frederic Remington
+Philip R. Goodwin	influencedBy	Carl Rungius
+Dadara	influencedBy	Ron English
+Dadara	influencedBy	Todd Schorr
+Nora Sumberg	influencedBy	J. M. W. Turner, Caspar David Friedrich, Odilon Redon, Mark Rothko, Ken Whisson
+Ryan Singer	influencedBy	Punk music
+Ryan Singer	influencedBy	Comics
+Ryan Singer	influencedBy	Andy Warhol
+Ryan Singer	influencedBy	Pushead
+Ryan Singer	influencedBy	Surrealism
+Joe Feddersen	influencedBy	Glen Alps
+ECL	influencedBy	Prolog
+ECL	influencedBy	Pascal
+ECL	influencedBy	SQL
+ECL	influencedBy	Snobol4
+ECL	influencedBy	C++
+ECL	influencedBy	Clarion
+Peter Alexander	influencedBy	John McLaughlin
+Monkey X	influencedBy	Blitz BASIC
+Monkey X	influencedBy	C
+Monkey X	influencedBy	C++
+Monkey X	influencedBy	C Sharp
+Monkey X	influencedBy	JavaScript
+Monkey X	influencedBy	Java
+Leroy Lamis	influencedBy	Naum Gabo
+Leroy Lamis	influencedBy	Antoine Pevsner
+Leroy Lamis	influencedBy	Richard Lippold
+Nicole Bartelme	influencedBy	Berenice Abbott, Kurt Schwitters, Sebastião Salgado, Romulo A. Yanes, John Law
+Mary Schepisi	influencedBy	Francis Bacon
+Mary Schepisi	influencedBy	Willem de Kooning
+Mary Schepisi	influencedBy	Joan Mitchell
+Mary Schepisi	influencedBy	Elaine de Kooning
+Emanuel Vidović	influencedBy	Giovanni Segantini
+OpenMx	influencedBy	Mx
+OpenMx	influencedBy	R
+Charles Archibald MacLellan	influencedBy	Howard Pyle
+Jerolim Miše	influencedBy	Cézanne
+Jerolim Miše	influencedBy	Renoir
+Marino Tartaglia	influencedBy	Cézanne
+James Kelsey	influencedBy	Pablo Picasso
+James Kelsey	influencedBy	David Smith
+James Kelsey	influencedBy	Joan Miró
+Moussa Sene Absa	influencedBy	Art : Rufino Tamayo and Joan Miró.
+Less	influencedBy	CSS
+Less	influencedBy	Sass
+Ivan Tišov	influencedBy	Vlaho Bukovac
+Grete Margaret Schüller	influencedBy	William Zorach
+Merton Simpson	influencedBy	William Melton Halsey, Willem de Kooning, Romare Bearden, Robert Motherwell, Pablo Picasso, Hale Woodruff, African sculpture
+Alfred Turner	influencedBy	His father sculptor C.E. Halsey-Turner, William Silver Frith, George Frederic Watts, Harry Bates (sculptor)
+Stephen Bradbury	influencedBy	Pre-Raphaelite Brotherhood
+Douglas Miles	influencedBy	Anime
+Douglas Miles	influencedBy	Punk visual art
+Zlatko Šulentić	influencedBy	Vladimir Becić
+Zlatko Šulentić	influencedBy	Josip Račić
+Zlatko Šulentić	influencedBy	Miroslav Kraljević
+Zlatko Šulentić	influencedBy	Oskar Herman
+Melinda Camber Porter	influencedBy	Freud
+Melinda Camber Porter	influencedBy	William Blake
+Kay Buena	influencedBy	Charles Umlauf
+Kay Buena	influencedBy	Roky Ericson
+Herman Bailey	influencedBy	Francisco Goya
+Herman Bailey	influencedBy	Jacob Lawrence
+Herman Bailey	influencedBy	Rico Lebrun
+Herman Bailey	influencedBy	Charlie White
+Ceylon	influencedBy	Java
+Ceylon	influencedBy	Scala
+Ceylon	influencedBy	Smalltalk
+Ceylon	influencedBy	ML
+Ceylon	influencedBy	Lisp
+Zebra	influencedBy	BASIC
+Barton Rubenstein	influencedBy	George Rickey and Henry Moore
+Josip Seissel	influencedBy	Ljubomir Micić
+Josip Seissel	influencedBy	Marijan Mikac
+Bob Timberlake	influencedBy	Andrew Wyeth
+Dudley Hardy	influencedBy	Jules Chéret
+Ciao	influencedBy	Prolog
+Wadsworth Jarrell	influencedBy	Culture of Africa
+Wadsworth Jarrell	influencedBy	Horse racing
+Wadsworth Jarrell	influencedBy	Black power
+Wadsworth Jarrell	influencedBy	Jazz
+Jeff Roland	influencedBy	Hieronymus Bosch
+Jeff Roland	influencedBy	Dubuffet
+Jeff Roland	influencedBy	Robert Crumb
+Tim Scott	influencedBy	David Smith
+Gustav Bläser	influencedBy	Christian Daniel Rauch
+Lawrence Lee	influencedBy	John Thornton
+Lawrence Lee	influencedBy	Martin Travers
+Leona Wood	influencedBy	Ingres
+Leona Wood	influencedBy	Diego Velázquez
+Leona Wood	influencedBy	Balthus
+Leona Wood	influencedBy	De Chirico
+Leona Wood	influencedBy	Caravaggio
+Leona Wood	influencedBy	Pietro Longhi
+Franz van Stampart	influencedBy	Anthony van Dyck
+Colony Framework	influencedBy	OSGi
+Colony Framework	influencedBy	Managed Extensibility Framework
+Jakob Erbar	influencedBy	Fritz Helmut Ehmcke
+Jakob Erbar	influencedBy	Anna Simons
+EQ Nicholson	influencedBy	Nancy Nicholson
+Robert Adams	influencedBy	Pasmore
+Robert Adams	influencedBy	Picasso
+Robert Adams	influencedBy	Giacometti
+William Trethewey	influencedBy	Gian Lorenzo Bernini
+William Trethewey	influencedBy	Michelangelo
+William Trethewey	influencedBy	Auguste Rodin
+Walter Baum	influencedBy	Konrad Friedrich Bauer
+Zamor	influencedBy	Mannerism
+Zamor	influencedBy	Trompe-l'oeil,
+Zamor	influencedBy	Visual art
+Zamor	influencedBy	Italian Renaissance,
+Charm	influencedBy	2
+Charm	influencedBy	C
+Charm	influencedBy	Pascal
+Albert Looking Elk	influencedBy	Oscar Berninghaus
+Alfred Gerrard	influencedBy	Henry Tonks
+Frederick James	influencedBy	Jean-Léon Gérôme
+Barbara Longhi	influencedBy	Raphael
+Barbara Longhi	influencedBy	Antonio da Correggio
+Barbara Longhi	influencedBy	Parmigianino
+Barbara Longhi	influencedBy	Marcantonio Raimondi
+Barbara Longhi	influencedBy	Agostino Veneziano
+Luis Perlotti	influencedBy	Mannerism
+Luis Perlotti	influencedBy	Realist visual arts
+Eduardo Barnes	influencedBy	Gothic art
+Eduardo Barnes	influencedBy	Sacred art
+Eduardo Barnes	influencedBy	Mannerism
+José Fioravanti	influencedBy	Hellenic art
+José Fioravanti	influencedBy	Art of Ancient Egypt
+José Fioravanti	influencedBy	Gothic art
+José Fioravanti	influencedBy	Realist visual arts
+Juan Carlos Colombres	influencedBy	Naïve art
+Juan Carlos Colombres	influencedBy	Surreal humor
+Rupert Deese	influencedBy	Richard Petterson, Albert Stewart
+Donald Lipski	influencedBy	Don Reitz, Richard DeVore, Michael Hall
+Branislav Dešković	influencedBy	Paolo Troubetzkoy
+Ingrid Baxter	influencedBy	Marshall McLuhan
+Ingrid Baxter	influencedBy	Marcel Duchamp
+Dmitri Matheny	influencedBy	Art Farmer
+Antonino Gandolfo	influencedBy	Giuseppe Gandolfo
+Antonino Gandolfo	influencedBy	Stefano Ussi
+Emerald	influencedBy	Pascal
+Emerald	influencedBy	Simula
+Emerald	influencedBy	Smalltalk
+Tom Christopher	influencedBy	David Park
+Tom Christopher	influencedBy	Ernst Ludwig Kirchner
+Tom Christopher	influencedBy	Andy Warhol
+Maxine Albro	influencedBy	Diego Rivera
+Ginger Riley Munduwalawala	influencedBy	Albert Namatjira
+Carl Rohl-Smith	influencedBy	Herman Wilhelm Bissen
+Carl Rohl-Smith	influencedBy	Albert Wolff
+Nobuo Sekine	influencedBy	Yoshishige Saito, Jiro Takamatsu, Lee Ufan
+Helmut Kolle	influencedBy	Pablo Picasso
+Helmut Kolle	influencedBy	Georges Braque
+Robert Breer	influencedBy	Neo-Plasticism
+Robert Breer	influencedBy	Constructivism
+Sylvana Lorenz	influencedBy	Fred Forest
+William Lamson	influencedBy	Francis Alÿs
+Altina Schinasi	influencedBy	René Bensussan
+Altina Schinasi	influencedBy	Samuel Halpert
+Altina Schinasi	influencedBy	George Grosz
+Marijan Trepše	influencedBy	Miroslav Kraljević
+Marijan Trepše	influencedBy	Max Švabinský
+Ralf Henricksen	influencedBy	Boris Anisfeld
+Bernhard Bleeker	influencedBy	Adolf von Hildebrand
+Manon Cleary	influencedBy	Caravaggio
+Léon Riesener	influencedBy	Rubens
+Gayane Khachaturian	influencedBy	Sergei Parajanov
+Nathan Wyburn	influencedBy	Andy Warhol
+Nathan Wyburn	influencedBy	Chuck Close
+Marsia Alexander-Clarke	influencedBy	Ethel Schwabacher
+Scott Campbell	influencedBy	Dash Snow
+Kate Polin	influencedBy	Sarah Moon
+Kate Polin	influencedBy	Antoine d'Agata
+Kate Polin	influencedBy	Michael Ackermann
+Kate Polin	influencedBy	Miroslav Tichý
+Kate Polin	influencedBy	Gottfried Helnwein
+Kate Polin	influencedBy	Julia Margaret Cameron
+Kelly McCallum	influencedBy	Eva Hesse
+Kelly McCallum	influencedBy	Louise Bourgeois
+Kelly McCallum	influencedBy	Magdalena Abakanowicz
+Kelly McCallum	influencedBy	Mark Ryden
+Kelly McCallum	influencedBy	Frida Kahlo
+Kelly McCallum	influencedBy	David Wojnarowicz
+Kelly McCallum	influencedBy	Annette Messager
+Kelly McCallum	influencedBy	Joel-Peter Witkin
+Saya Aye	influencedBy	Saya Chone, Saya Sar, Kyar Nyunt, Maung Maung Gyi
+Manuel Azadigian	influencedBy	Robert Vonnoh
+Manuel Azadigian	influencedBy	Daniel Garber
+Opa	influencedBy	OCaml
+Opa	influencedBy	Erlang
+Opa	influencedBy	JavaScript
+Jacob George Strutt	influencedBy	Constable
+Joseph W. Phinney	influencedBy	William Morris
+Joseph W. Phinney	influencedBy	Theodore Low De Vinne
+Wadsworth A. Parker	influencedBy	Joseph W. Phinney
+Jason Munn	influencedBy	Jeff Kleinsmith, Saul Bass, Peter Saville
+Dart	influencedBy	JavaScript
+Dart	influencedBy	Smalltalk
+Dart	influencedBy	Erlang
+Dart	influencedBy	Strongtalk
+Dart	influencedBy	C Sharp
+Justice Howard	influencedBy	Helmut Newton
+Justice Howard	influencedBy	Robert Mapplethorpe
+Justice Howard	influencedBy	Mark Seliger
+Urbiscript	influencedBy	C++
+Urbiscript	influencedBy	Self
+Urbiscript	influencedBy	Io
+Paul Ayshford Methuen, 4th Baron Methuen	influencedBy	Walter Sickert
+Enrico Coleman	influencedBy	Charles Coleman
+Enrico Coleman	influencedBy	Mariano Fortuny
+Enrico Coleman	influencedBy	Giovanni Costa
+Francesco Coleman	influencedBy	Charles Coleman, Enrico Coleman
+Ben Aronson	influencedBy	Franz Kline, Philip Guston, Edward Hopper, Richard Diebenkorn, Wayne Thiebaud, Willem de Kooning
+Adolph Artz	influencedBy	Jozef Israëls
+Eugenio de Arriba	influencedBy	Pierre Bonnard
+Eugenio de Arriba	influencedBy	Claude Monet
+Clara Isabella Harris	influencedBy	Archibald Barnes, Group of Seven
+Robert Cannon	influencedBy	Antoni Gaudí
+Robert Cannon	influencedBy	Tom Luckey
+Robert Cannon	influencedBy	Camille Paglia
+Frances Senska	influencedBy	László Moholy-Nagy
+Frances Senska	influencedBy	Edith Heath
+Frances Senska	influencedBy	Maija Grotell
+Gorgon Painter	influencedBy	Corinthian pottery, Nessos Painter
+George Weissbort	influencedBy	Johannes Vermeer, Jean-Baptiste-Siméon Chardin, Diego Velázquez, Jean-Baptiste-Camille Corot, Andrea Mantegna and Titian
+Babette Mangolte	influencedBy	New Wave
+Maung Maung Gyi	influencedBy	Saya Aye
+QUEL query languages	influencedBy	Alpha
+David Larible	influencedBy	Charlie Chaplin
+David Fairrington	influencedBy	artist John Singer Sargent and famed illustrator Norman Rockwell
+Carl Eytel	influencedBy	Claude Monet
+Carl Eytel	influencedBy	Alexander von Humboldt
+Carl Eytel	influencedBy	Charles Fletcher Lummis
+Gary Noffke	influencedBy	Brent Kington
+Chul Hyun Ahn	influencedBy	Dan Flavin
+Chul Hyun Ahn	influencedBy	Donald Judd
+Chul Hyun Ahn	influencedBy	James Turrell
+Ion Theodorescu-Sion	influencedBy	Georges Braque
+Ion Theodorescu-Sion	influencedBy	Paul Cézanne
+Ion Theodorescu-Sion	influencedBy	André Derain
+Ion Theodorescu-Sion	influencedBy	Henri Fantin-Latour
+Ion Theodorescu-Sion	influencedBy	Jean-Paul Laurens
+Ion Theodorescu-Sion	influencedBy	Ștefan Luchian
+Ion Theodorescu-Sion	influencedBy	Luc-Olivier Merson
+Ion Theodorescu-Sion	influencedBy	Pierre Puvis de Chavannes
+Ion Theodorescu-Sion	influencedBy	Camil Ressu
+Gremlin	influencedBy	Regular expression, XPath, Ripple, SPARQL, SQL, Java/JVM
+Thein Han	influencedBy	Ba Nyan
+Qore	influencedBy	Perl
+Qore	influencedBy	D language
+Qore	influencedBy	C++
+Qore	influencedBy	Java
+Byron Randall	influencedBy	Georges Rouault
+Byron Randall	influencedBy	Oskar Kokoschka
+Byron Randall	influencedBy	Chaim Soutine
+Gary Komarin	influencedBy	Philip Guston
+Gary Komarin	influencedBy	Giorgio Morandi
+Gary Komarin	influencedBy	Pablo Picasso
+Gary Komarin	influencedBy	Henri Matisse
+Gary Komarin	influencedBy	Giotto
+Gary Komarin	influencedBy	Cimabue
+Gary Komarin	influencedBy	Piero Della Francesca
+Vilko Gecan	influencedBy	Miroslav Kraljević
+Vilko Gecan	influencedBy	Ljubomir Micić
+Alexander Nikolaevich Volkov	influencedBy	Nicholas Roerich
+Alexander Nikolaevich Volkov	influencedBy	Mikhail Vrubel
+Stephan Koplowitz	influencedBy	Meredith Monk
+Stephan Koplowitz	influencedBy	Trisha Brown
+Kyra Markham	influencedBy	Alexander Abels
+Letterio Calapai	influencedBy	Atelier 17
+Abraham Harriton	influencedBy	Albert Pinkham Ryder
+Blanche Grambs	influencedBy	Käthe Kollwitz, José Clemente Orozco and George Grosz
+Alexander Finta	influencedBy	Auguste Rodin
+Milivoj Uzelac	influencedBy	Miroslav Kraljević
+Milivoj Uzelac	influencedBy	Matisse
+Milivoj Uzelac	influencedBy	Derain
+Maggie Laubser	influencedBy	Karl Schmidt-Rotluff
+Maggie Laubser	influencedBy	Emil Nolde
+Maggie Laubser	influencedBy	Max Pechstein
+Maggie Laubser	influencedBy	Franz Marc
+Maggie Laubser	influencedBy	Henri Matisse
+Maggie Laubser	influencedBy	Vincent van Gogh
+Antony Penrose	influencedBy	Lee Miller
+Cesare Stea	influencedBy	Antoine Bourdelle
+Cesare Stea	influencedBy	Hermon Atkins MacNeil
+Cesare Stea	influencedBy	Alexander Stirling Calder
+Cesare Stea	influencedBy	Solon Borglum
+David Karfunkle	influencedBy	Ludwig von Herterich
+David Karfunkle	influencedBy	Antoine Bourdelle
+David Karfunkle	influencedBy	William Glackens
+David Margolis	influencedBy	Willem de Kooning
+Eugenie Gershoy	influencedBy	Alexander Stirling Calder, Kenneth Hayes Miller, and Boardman Robinson
+George Pearse Ennis	influencedBy	William M. Chase
+Ilene Meyer	influencedBy	Pablo Picasso
+Ilene Meyer	influencedBy	Salvador Dalí
+Carl Ludwig Jessen	influencedBy	Niels Laurits Høyen
+Eric Sanicola	influencedBy	Ric Wake, Red One, Dr. Luke
+George Clarkson Stanfield	influencedBy	Clarkson Frederick Stanfield
+Snap!	influencedBy	Scratch
+Snap!	influencedBy	Scheme
+Snap!	influencedBy	Logo
+Snap!	influencedBy	Smalltalk
+Wolf Kibel	influencedBy	Marc Chagall
+Wolf Kibel	influencedBy	Henri Matisse
+Wolf Kibel	influencedBy	Oskar Kokoschka
+Wolf Kibel	influencedBy	Chaim Soutine
+Aseem Trivedi	influencedBy	Anna Hazare
+Wichie Torres	influencedBy	Miguel Pou
+Ted Noten	influencedBy	Marcel Duchamp
+Ted Noten	influencedBy	Francis Bacon
+Ted Noten	influencedBy	Damien Hurst
+Ted Noten	influencedBy	Marilyn Monroe
+Louis Boekhout	influencedBy	Floris de Cuyper
+Jules Halfant	influencedBy	Rembrandt
+Jules Halfant	influencedBy	Francisco Goya
+Jules Halfant	influencedBy	Pablo Picasso
+Jules Halfant	influencedBy	Henri Matisse
+Blanche Lazzell	influencedBy	Albert Gleizes
+Blanche Lazzell	influencedBy	Fernand Léger
+Blanche Lazzell	influencedBy	André Lhote
+Blanche Lazzell	influencedBy	Hans Hofmann
+Kelli Connell	influencedBy	Roni Horn
+Kelli Connell	influencedBy	Francesca Woodman
+Kelli Connell	influencedBy	James Turrell
+Kelli Connell	influencedBy	Seiichi Furuya
+Dorothy Knowles	influencedBy	Kenneth Noland
+Tinca Stegovec	influencedBy	Božidar Jakac
+Tinca Stegovec	influencedBy	Stanley William Hayter
+Paul Vanstone	influencedBy	Henry Moore
+Paul Vanstone	influencedBy	Zaha Hadid
+Paul Vanstone	influencedBy	Anish Kapoor
+Elba Lightfoot	influencedBy	Augusta Savage
+Elba Lightfoot	influencedBy	Charles Alston
+Frans Luycx	influencedBy	Peter Paul Rubens
+Erik Niedling	influencedBy	Ernst Jünger
+Erik Niedling	influencedBy	Albert Renger-Patzsch
+Alfred Smith	influencedBy	Jean-Baptiste-Camille Corot
+Alfred Smith	influencedBy	Gustave Courbet
+Richard T. Scott	influencedBy	Rembrandt, Andrew Wyeth, Odd Nerdrum and Goya
+Ellen Gallagher	influencedBy	*
+Ellen Gallagher	influencedBy	Agnes Martin
+Ellen Gallagher	influencedBy	Gertrude Stein
+John J. O'Connor	influencedBy	John Cage
+John J. O'Connor	influencedBy	M.C.Escher
+Joseph Pace	influencedBy	Antonio Cardile
+Vladimir Varlaj	influencedBy	Miroslav Kraljević
+Vladimir Varlaj	influencedBy	André Derain
+Giovanni Battista Sassi	influencedBy	Francesco Solimena
+Dolk	influencedBy	Banksy
+Dolk	influencedBy	Prism
+Dolk	influencedBy	Sync
+Joseph Flüggen	influencedBy	Karl Theodor von Piloty
+Joseph Flüggen	influencedBy	Hendrik Leys
+Đuro Tiljak	influencedBy	Kandinsky
+William Cubley	influencedBy	William Beechey
+William Cubley	influencedBy	Richard Rothwell
+Nicole Cohen	influencedBy	Dennis Oppenheim
+Nicole Cohen	influencedBy	R. Buckminster Fuller
+Nicole Cohen	influencedBy	Tony Oursler
+Nicole Cohen	influencedBy	Laurie Anderson
+Nicole Cohen	influencedBy	Laurie Simmons
+Nicole Cohen	influencedBy	Dan Graham
+Sense	influencedBy	Scratch
+Christo Coetzee	influencedBy	Antoni Gaudí
+Christo Coetzee	influencedBy	Alberto Burri
+Christo Coetzee	influencedBy	Michel Tapié
+Christo Coetzee	influencedBy	Lucio Fontana
+Christo Coetzee	influencedBy	Gutai group
+Christo Coetzee	influencedBy	Pablo Picasso
+Christo Coetzee	influencedBy	Salvador Dalí
+Frege	influencedBy	Haskell
+Rosemary Disney	influencedBy	Peter Carl Fabergé
+Dorothy Annan	influencedBy	Picasso
+John Gerrard	influencedBy	Pierre Huyghe
+John Gerrard	influencedBy	James Coleman
+John Gerrard	influencedBy	Sharon Lockhart
+John Gerrard	influencedBy	Bruce Nauman
+John Gerrard	influencedBy	Roni Horn
+John Gerrard	influencedBy	Felix Gonzalez-Torres
+Fayga Ostrower	influencedBy	Käthe Kollwitz
+Israel Tsvaygenbaum	influencedBy	Marc Chagall, Vincent van Gogh and Paul Gauguin
+Sanell Aggenbach	influencedBy	Brett Murray
+Sanell Aggenbach	influencedBy	Kevin Brand
+Marcello Dudovich	influencedBy	Alfons Mucha
+Anna Banana	influencedBy	Ed Varney, Ray Johnson, Fluxus artists
+Anita Steckel	influencedBy	Edwin Dickinson
+James Rannie Swinton	influencedBy	William Allan
+James Rannie Swinton	influencedBy	John Watson Gordon
+James Rannie Swinton	influencedBy	David Wilkie
+James Rannie Swinton	influencedBy	Francis Grant
+Asoka Handagama	influencedBy	Ingmar Bergman
+Nexhmedin Zajmi	influencedBy	Odhise Paskali
+Sidney Waugh	influencedBy	Antoine Bourdelle
+Sidney Waugh	influencedBy	Henri Bouchard
+Red	influencedBy	Rebol
+Red	influencedBy	Scala
+Red	influencedBy	Lua
+Benton C Bainbridge	influencedBy	Stan Brakhage, Nam June Paik, The Kitchen
+Lee H. Letts	influencedBy	Donald Harcourt De Lue, Bruno Liljefors, et al
+Praspel	influencedBy	Java Modeling Language
+Praspel	influencedBy	ISO C Specification Language
+Frederick Spratt	influencedBy	Josef Albers
+Frederick Spratt	influencedBy	Barnett Newman
+Frederick Spratt	influencedBy	Ellsworth Kelly
+Frederick Spratt	influencedBy	Ad Reinhardt
+Caroline Townshend	influencedBy	Christopher Whall
+Caroline Townshend	influencedBy	Arts and Crafts movement
+Arnold Wathen Robinson	influencedBy	Christopher Whall
+Arnold Wathen Robinson	influencedBy	Arts and Crafts movement
+Frederick J. Brown	influencedBy	Willem de Kooning
+Franz Eisenhut	influencedBy	Telepy Károly
+Franz Eisenhut	influencedBy	Paja Jovanović
+Joseph Webb	influencedBy	Rembrandt
+Joseph Webb	influencedBy	Samuel Palmer
+Joseph Webb	influencedBy	F.L. Griggs
+Joseph Webb	influencedBy	William Blake
+Bronwyn Oliver	influencedBy	*
+Bronwyn Oliver	influencedBy	Richard Deacon
+Bronwyn Oliver	influencedBy	Antony Gormley
+Bronwyn Oliver	influencedBy	Martin Puryear
+Bronwyn Oliver	influencedBy	Rosalie Gascoigne
+Genco Gulan	influencedBy	Salvador Dalí
+Genco Gulan	influencedBy	Andy Warhol
+Genco Gulan	influencedBy	Pablo Picasso
+Évariste Carpentier	influencedBy	Jules Bastien-Lepage
+Althea Wynne	influencedBy	Etruscan art
+Nick Saglimbeni	influencedBy	Herb Ritts
+Nick Saglimbeni	influencedBy	Todd McFarlane
+Nick Saglimbeni	influencedBy	James Cameron
+Matilda Browne	influencedBy	Thomas Moran
+M.T. Hla	influencedBy	Gerald Kelly
+M.T. Hla	influencedBy	Ba Nyan
+Lippy Lipshitz	influencedBy	Moses Kottler
+Lippy Lipshitz	influencedBy	Herbert Vladimir Meyerowitz
+Moses Kottler	influencedBy	Auguste Rodin
+Moses Kottler	influencedBy	Aristide Maillol
+Moses Kottler	influencedBy	Jacob Epstein
+Mall Nukke	influencedBy	Pop art
+Mall Nukke	influencedBy	Medieval art
+Matthias Zimmermann	influencedBy	M. C. Escher
+Matthias Zimmermann	influencedBy	Japanese garden
+Matthias Zimmermann	influencedBy	Japanese painting
+Matthias Zimmermann	influencedBy	PC game
+Matthias Zimmermann	influencedBy	Toy block
+Edris Eckhardt	influencedBy	Studied alongside Viktor Schreckengost
+Piers Maxwell Dudley-Bateman	influencedBy	John Perceval
+Piers Maxwell Dudley-Bateman	influencedBy	Arthur Boyd
+Piers Maxwell Dudley-Bateman	influencedBy	Clifton Pugh
+Jalal Garyaghdi	influencedBy	Iakob Nikoladze
+Alex Randall	influencedBy	Rebecca Horn
+Alex Randall	influencedBy	Salvador Dalí
+Alex Randall	influencedBy	René Magritte
+Lilian Josephine Pocock	influencedBy	Christopher Whall
+Lilian Josephine Pocock	influencedBy	Arts and Crafts movement
+Georgiana Burne-Jones	influencedBy	John Ruskin
+Georgiana Burne-Jones	influencedBy	Dante Gabriel Rossetti
+Mommie Schwarz	influencedBy	Leo Gestel
+Mommie Schwarz	influencedBy	Charley Toorop
+Seed7	influencedBy	Pascal
+Seed7	influencedBy	Modula-2
+Seed7	influencedBy	Ada
+Seed7	influencedBy	ALGOL 68
+Seed7	influencedBy	C
+Seed7	influencedBy	C++
+Seed7	influencedBy	Java
+Rosemarie Beck	influencedBy	Philip Guston
+Rosemarie Beck	influencedBy	Bradley Walker Tomlin
+Rosemarie Beck	influencedBy	Robert Motherwell
+Pedro Adolfo de Castro	influencedBy	Antonin Nechodoma
+Anders Osterlind	influencedBy	Paul Cézanne
+Xtend	influencedBy	Java, Scala, Groovy, Smalltalk, Xpand
+Eugen Ciucă	influencedBy	Constantin Brâncuși
+Mabel Esplin	influencedBy	Christopher Whall and the Arts and Crafts movement.
+Hugh Arnold	influencedBy	Christopher Whall and the Arts and Crafts movement.
+ParaSail	influencedBy	Modula
+ParaSail	influencedBy	Ada
+ParaSail	influencedBy	Pascal
+ParaSail	influencedBy	ML
+Adolf Behrman	influencedBy	Gabriel von Hackl
+Kurt Oscar Weber	influencedBy	Jean-Paul Sartre
+Kurt Oscar Weber	influencedBy	Pablo Picasso
+Kurt Oscar Weber	influencedBy	Fernand Léger
+Kurt Oscar Weber	influencedBy	Alberto Giacometti
+Joan Howson	influencedBy	Arts and Crafts movement
+Jazzamoart	influencedBy	Picasso
+Jazzamoart	influencedBy	Rufino Tamayo
+Jazzamoart	influencedBy	José Clemente Orozco
+Wilhelmina Weber Furlong	influencedBy	Paul Cézanne
+Wilhelmina Weber Furlong	influencedBy	Henri Matisse
+Wilhelmina Weber Furlong	influencedBy	Emil Carlsen
+Wilhelmina Weber Furlong	influencedBy	William Merritt Chase
+Wilhelmina Weber Furlong	influencedBy	Edmund H. Wuerpel
+Wilhelmina Weber Furlong	influencedBy	Pablo Picasso
+Thomas Furlong	influencedBy	Paul Cézanne
+Thomas Furlong	influencedBy	Henri Matisse
+Thomas Furlong	influencedBy	Edmund H. Wuerpel
+Thomas Furlong	influencedBy	Wilhelmina Weber Furlong
+Saya Myit	influencedBy	M.T. Hla
+Rigoberto Soler	influencedBy	Joaquín Sorolla
+Rigoberto Soler	influencedBy	José Mongrell
+Rigoberto Soler	influencedBy	Julio Cebrián Mosque
+Rigoberto Soler	influencedBy	Garnelo Isidoro
+Rigoberto Soler	influencedBy	Narcís Puget i Riquer
+Minóy	influencedBy	Joan Miró, La Monte Young, The Beatles Magical Mystery Tour , Andrei Tarkovsky, Pierre Schaeffer’s Cinq études de bruits , Edgard Varèse’s Poème électronique , John Cage’s Imaginary Landscape No. 1
+Edward Liddall Armitage	influencedBy	Karl Parsons
+Edward Liddall Armitage	influencedBy	Henry Holiday
+Arild Rosenkrantz	influencedBy	Italian masters, Pre-Raphaelites, French salon, Romantic artists J.M.W. Turner and William Blake and Impressionist artist Claude Monet, Art Nouveau
+Hossein Nassim	influencedBy	Mark Spitz
+Hossein Nassim	influencedBy	Bahman Nassim
+Saya Saung	influencedBy	Maung Maung Gyi
+Saya Saung	influencedBy	Ba Zaw
+Saya Saung	influencedBy	J J Hilder
+Paul Maze	influencedBy	Raoul Dufy
+Paul Maze	influencedBy	Camille Pissarro
+Paul Maze	influencedBy	Édouard Vuillard
+Molly Bobak	influencedBy	Jack Shadbolt
+Molly Bobak	influencedBy	Cézanne
+Molly Bobak	influencedBy	Matisse
+Molly Bobak	influencedBy	Bruno Bobak
+Constance Stokes	influencedBy	George Bell
+Dom Duff	influencedBy	Alan Stivell
+Ralph Heimans	influencedBy	Caravaggio and Rembrandt
+Annie Walke	influencedBy	Newlyn School
+Pieter Wenning	influencedBy	George Hendrik Breitner
+Pieter Wenning	influencedBy	Paul Cézanne
+Pieter Wenning	influencedBy	Anton Mauve
+Pieter Wenning	influencedBy	Jozef Israëls
+Pieter Wenning	influencedBy	Jacob Maris
+Pieter Wenning	influencedBy	Willem Maris
+Ernest Procter	influencedBy	Post-impressionism, Impressionism, Eastern art
+Yahel Chirinian	influencedBy	Jacques Tati
+Yahel Chirinian	influencedBy	Jean Cocteau
+Yahel Chirinian	influencedBy	Pina Bausch
+Yahel Chirinian	influencedBy	Contemporary Dance
+Carlos de Haes	influencedBy	Joseph Quinaux
+Annette P. Jimerson	influencedBy	Rembrandt, Michelangelo and Van Gogh
+Harrington Mann	influencedBy	James McNeill Whistler
+Harrington Mann	influencedBy	John Singer Sargent
+Suhaimi Yusof	influencedBy	Bill Cosby
+Suhaimi Yusof	influencedBy	Robin Williams
+Suhaimi Yusof	influencedBy	David Letterman
+Norman Gorbaty	influencedBy	Josef Albers, Alexi Brodovitch, Leo Leonni, Herbert Matter, Bernard Chaet, Gabor Peterdi, Louis Kahn
+Richard Gibson	influencedBy	Peter Lely
+Jason Freeny	influencedBy	Robert Williams
+David Blackburn	influencedBy	Gerhart Frankl
+David Blackburn	influencedBy	Fred Williams
+David Blackburn	influencedBy	Prunella Clough
+Ba Zaw	influencedBy	Ba Ohn, Burma Art Club, Saya Chone, J.J. Hilder, Royal College of Art
+Alexander Bazhbeuk-Melikyan	influencedBy	Antoine Watteau
+Alexander Bazhbeuk-Melikyan	influencedBy	Arnold Böcklin
+Elm	influencedBy	Haskell
+Elm	influencedBy	Standard ML
+Elm	influencedBy	OCaml
+Elm	influencedBy	F Sharp
+Ignacio Baz	influencedBy	Carlos Morel
+Bogdan Willewalde	influencedBy	Peter von Hess
+Bogdan Willewalde	influencedBy	Horace Vernet
+Marcin Bogusławski	influencedBy	Leon Tarasewicz
+Marcin Bogusławski	influencedBy	Stanisław Baj
+Marcin Bogusławski	influencedBy	Edward Tarkowski
+Jean-Charles Tardieu	influencedBy	Jean-Baptiste Regnault
+Giorgio De Vincenzi	influencedBy	Van Gogh
+Giorgio De Vincenzi	influencedBy	Utrillo
+Giorgio De Vincenzi	influencedBy	Gauguin
+Marianne Loir	influencedBy	Jean François de Troy
+Roberto Melli	influencedBy	Expressionism
+Peter Fishman	influencedBy	Sergey Konenkov
+Peter Fishman	influencedBy	Albert Sergeev
+Guglielmo Pizzirani	influencedBy	Expressionism
+Louis Grell	influencedBy	Franz von Stuck, Carl von Marr, Angelo Jank, Prof. Switz
+Cora Kelley Ward	influencedBy	Josef Albers
+Cora Kelley Ward	influencedBy	Clement Greenberg
+Julie Speidel	influencedBy	European megaliths, Native American art, George Tsutakawa, Henry Moore
+Diet Sayler	influencedBy	Malevich
+Diet Sayler	influencedBy	Brâncuși
+Harold Tishler	influencedBy	Edward Winter
+François de Poilly	influencedBy	Raphael
+François de Poilly	influencedBy	Guido Reni
+François de Poilly	influencedBy	Annibale Carracci
+François de Poilly	influencedBy	Pierre Mignard
+François de Poilly	influencedBy	Charles Le Brun
+François de Poilly	influencedBy	Nicolas Poussin
+François de Poilly	influencedBy	Sébastien Bourdon
+François de Poilly	influencedBy	Eustache Lesueur
+Jan Hoynck van Papendrecht	influencedBy	Charles Rochussen
+TTM	influencedBy	TRAC programming language
+Axel Törneman	influencedBy	Art Nouveau and symbolism
+Axel Törneman	influencedBy	movements; Arnold Böcklin, Franz Stuck,
+Axel Törneman	influencedBy	Vincent van Gogh
+Axel Törneman	influencedBy	Paul Gauguin
+Bryce Hudson	influencedBy	Piet Mondrian
+John Van Alstine	influencedBy	David Smith
+John Van Alstine	influencedBy	Isamu Noguchi
+John Van Alstine	influencedBy	Buckminster Fuller
+John Van Alstine	influencedBy	Richard Serra
+John Van Alstine	influencedBy	Kenneth Snelson
+John Van Alstine	influencedBy	Richard Stankiewicz
+Andrew Guenther	influencedBy	Arte Povera
+Andrew Guenther	influencedBy	Primitivism
+Andrew Guenther	influencedBy	Fauvism
+Andrew Guenther	influencedBy	Minimalism
+Andrew Guenther	influencedBy	Counterculture
+Kaja Norum	influencedBy	Rembrandt
+Kaja Norum	influencedBy	Leonardo Da Vinci
+Kaja Norum	influencedBy	Caravaggio
+Joseph Carlier	influencedBy	René Fache
+Joseph Carlier	influencedBy	François Jouffroy
+Joseph Carlier	influencedBy	Henri Chapu
+Paul Shapiro	influencedBy	Hermon di Giovanno
+Paul Shapiro	influencedBy	Fauvism
+Elixir	influencedBy	Erlang
+Elixir	influencedBy	LFE
+Elixir	influencedBy	Ruby
+Elixir	influencedBy	Clojure
+Harvey Quaytman	influencedBy	Malevich
+Harvey Quaytman	influencedBy	Piet Mondrian
+Stylus	influencedBy	CSS
+Stylus	influencedBy	Sass
+Stylus	influencedBy	LESS
+Raymond Rochette	influencedBy	Louis Charlot
+Said Atabekov	influencedBy	International modernism
+Basic For Qt	influencedBy	Visual Basic
+Petra Collins	influencedBy	Richard Kern
+Petra Collins	influencedBy	Tavi Gevinson
+F*	influencedBy	F#, OCaml, Standard ML, Fine, F7, F5, FX, HTT, Trellys, Zombie, Dafny
+Camille Hilaire	influencedBy	Albrecht Dürer
+Charles-Auguste Lebourg	influencedBy	François Rude
+Qalb	influencedBy	Scheme
+Julia	influencedBy	MATLAB, Lisp,  C, Fortran, Mathematica , Python, Perl, R, Ruby, Lua
+Clive Hicks-Jenkins	influencedBy	Giotto
+Clive Hicks-Jenkins	influencedBy	Keith Vaughan
+Clive Hicks-Jenkins	influencedBy	Paul Klee
+Clive Hicks-Jenkins	influencedBy	Christopher Wood
+Clive Hicks-Jenkins	influencedBy	Winifred Nicholson
+Jesús Álvarez Amaya	influencedBy	Diego Rivera, David Alfaro Siqueiros
+Caroline Ramersdorfer	influencedBy	Fausto Melotti, Isamu Noguchi
+Harry Harrison	influencedBy	Carl Giles
+Harry Harrison	influencedBy	Ronald Searle
+Michael Enn Sirvet	influencedBy	Martin Puryear
+Michael Enn Sirvet	influencedBy	Andy Goldsworthy
+Gustavo Arias Murueta	influencedBy	José Clemente Orozco
+Jakob Huwyler	influencedBy	Friedrich Fehr
+John McCrady	influencedBy	Thomas Hart Benton, Caroline Durieux and Kenneth Hayes Miller
+Gertrud Arndt	influencedBy	László Moholy-Nagy
+Gertrud Arndt	influencedBy	Georg Muche
+James Kelly	influencedBy	Piet Mondrian
+James Kelly	influencedBy	Picasso
+James Kelly	influencedBy	Van Gogh
+Sonia Gechtoff	influencedBy	Ben Shahn
+Sonia Gechtoff	influencedBy	Henri Matisse
+Sonia Gechtoff	influencedBy	Clyfford Still
+Sonia Gechtoff	influencedBy	Max Beckmann
+Lars Physant	influencedBy	Christen Købke, J.Th. Lundbye, Wilhelm Hammershoi, Vermeer van Delft, Claude Monet and Geoges Seurat.
+Steven Parrino	influencedBy	Lucio Fontana
+Steven Parrino	influencedBy	Andy Warhol
+Steven Parrino	influencedBy	John Chamberlain
+Steven Parrino	influencedBy	Richard Prince
+Steven Parrino	influencedBy	Yves Klein
+Steven Parrino	influencedBy	Frank Stella
+Steven Parrino	influencedBy	Kenneth Anger
+Lluïsa Vidal	influencedBy	Santiago Rusiñol
+Lluïsa Vidal	influencedBy	Ramon Casas i Carbó
+Claude Raguet Hirst	influencedBy	Charles Courtney Curran
+Claude Raguet Hirst	influencedBy	John Noble
+Claude Raguet Hirst	influencedBy	George Henry Smillie
+Claude Raguet Hirst	influencedBy	Aestheticism
+Emily Newton Barto	influencedBy	Charles Webster Hawthorne
+Emily Newton Barto	influencedBy	George Bridgman
+Asm.js	influencedBy	JavaScript
+Michael Cummings	influencedBy	Romare Bearden
+Michael Cummings	influencedBy	Jacob Lawrence
+Idris	influencedBy	Agda
+Idris	influencedBy	Coq
+Idris	influencedBy	Epigram
+Idris	influencedBy	Haskell
+Idris	influencedBy	ML
+Idris	influencedBy	Rust
+Ans Wortel	influencedBy	Various artists, such as Willem de Kooning, Marc Chagall, Pablo Picasso, Wifredo Lam and Karel Appel
+Alice Mason	influencedBy	Arshile Gorky
+Alice Mason	influencedBy	Charles Webster Hawthorne
+Alberto Valenzuela Llanos	influencedBy	Impressionism
+Alberto Valenzuela Llanos	influencedBy	Expressionism
+Philip Sutton	influencedBy	Henri Matisse
+William Caparne	influencedBy	William Cubley
+Edward Pramuk	influencedBy	James Brooks, John Ferren
+Tristram Hillier	influencedBy	Max Ernst
+Tristram Hillier	influencedBy	Giorgio de Chirico
+Laurent Casimir	influencedBy	Dieudonné Cedor
+Jean-Louis	influencedBy	Laurent Casimir
+Austin M. Purves, Jr.	influencedBy	Maxfield Parrish
+Henry Haig	influencedBy	Lawrence Lee
+Chafil Cheucarama	influencedBy	Hector Osorio Gallegos
+Edward Bowring Stephens	influencedBy	Edward Hodges Baily
+Stephen Albair	influencedBy	Ken Botto, Ray Johnson, Marcel Duchamp, Man Ray
+Oliver Kilbourn	influencedBy	Paul Cézanne
+SAMPL	influencedBy	AMPL
+Pierre Paulin	influencedBy	Charles Eames
+Pierre Paulin	influencedBy	Ray Eames
+Pierre Paulin	influencedBy	Florence Knoll
+Pierre Paulin	influencedBy	Herman Miller
+Pierre Paulin	influencedBy	George Nelson
+Ben Dearnley	influencedBy	Auguste Rodin
+Ben Dearnley	influencedBy	Michelangelo
+Ben Dearnley	influencedBy	Antonio Canova
+Wilfred Fairclough	influencedBy	Malcolm Osborne
+Wilfred Fairclough	influencedBy	Robert Austin
+Wilfred Fairclough	influencedBy	J. M. W. Turner
+Emilio Boggio	influencedBy	Vincent van Gogh
+Lukáš Dvořák	influencedBy	Helmut Newton
+Lukáš Dvořák	influencedBy	Peter Lindbergh
+AngelScript	influencedBy	C++
+George Walker	influencedBy	Frans Masereel, Lynd Ward, Laurence Hyde
+Jean Dufy	influencedBy	Claude Monet
+Jean Dufy	influencedBy	Camille Pissarro
+Jean Dufy	influencedBy	Henri Matisse
+Jean Dufy	influencedBy	Paul Cézanne
+Dinorah de Jesús Rodriguez	influencedBy	Barbara Hammer
+Dinorah de Jesús Rodriguez	influencedBy	Warren Sonbert
+Dinorah de Jesús Rodriguez	influencedBy	Trinh T. Minh-ha
+Dinorah de Jesús Rodriguez	influencedBy	Marlon Riggs
+Carla Morrow	influencedBy	Stephanie Pui-Mun Law
+Programming with Big Data in R	influencedBy	R, C, Fortran, MPI, and ØMQ
+Objective-C	influencedBy	C
+Objective-C	influencedBy	Smalltalk
+Nikki McClure	influencedBy	Maurice Sendak, Tove Jansson, Kathe Kollowitz, Frans Masreel, Lynd Ward
+Mohammed Ali	influencedBy	Subway Art
+Mohammed Ali	influencedBy	Graffiti in New York City
+Mohammed Ali	influencedBy	Islamic art
+Mohammed Ali	influencedBy	Islamic calligraphy
+Mohammed Ali	influencedBy	Henry Chalfant
+Mohammed Ali	influencedBy	William Morris
+Nakkaş Sinan Bey	influencedBy	Renaissance painting
+Nicholas Whitman	influencedBy	Aaron Siskind
+Nicholas Whitman	influencedBy	Wynn Bullock
+Ezhil	influencedBy	Logo
+Ezhil	influencedBy	BASIC
+Ezhil	influencedBy	Python
+Jules Benoit-Lévy	influencedBy	* ''
+Jules Benoit-Lévy	influencedBy	Jean-François Millet
+Jules Benoit-Lévy	influencedBy	*
+Jules Benoit-Lévy	influencedBy	Diego Velázquez
+Jules Benoit-Lévy	influencedBy	Jehan Georges Vibert
+Jules Benoit-Lévy	influencedBy	''
+Herbert Crowley	influencedBy	Aubrey Beardsley
+Umple	influencedBy	Java
+Umple	influencedBy	C++
+Umple	influencedBy	Unified Modeling Language
+Umple	influencedBy	Ruby
+Umple	influencedBy	PHP
+Tcl	influencedBy	AWK
+Tcl	influencedBy	Lisp
+UCBLogo	influencedBy	Lisp programming language
+Yves Gaucher	influencedBy	Anton Webern
+Yves Gaucher	influencedBy	Barnett Newman
+Yves Gaucher	influencedBy	Mark Rothko
+Tritium	influencedBy	XSLT
+Tritium	influencedBy	Sass
+Jesus Maria Espinosa	influencedBy	Impressionism
+Glenys Cour	influencedBy	Rothko, Turner, Caspar David Friedrich, the Mabinogion.
+Frank Armitage	influencedBy	David Alfaro Siqueiros
+Louise Cox	influencedBy	Jean-Léon Gérôme
+Louise Cox	influencedBy	Kenyon Cox
+Louise Cox	influencedBy	William Merritt Chase
+Louise Cox	influencedBy	J. Alden Weir
+Howard Kottler	influencedBy	*
+Howard Kottler	influencedBy	Maija Grotell
+Howard Kottler	influencedBy	Kyllikki Salmenhaara
+Jules Edouard Roiné	influencedBy	Léopold Morice
+Stephen Robson	influencedBy	Edward Hopper
+Stephen Robson	influencedBy	Rembrandt
+Stephen Robson	influencedBy	Paul Nash
+Stephen Robson	influencedBy	Richard Diebenkorn
+Jason Yates	influencedBy	Mike Kelley
+Jason Yates	influencedBy	Kurt Schwitters
+Jason Yates	influencedBy	Robert Smithson
+Jason Yates	influencedBy	Jim Shaw
+Wolfram Language	influencedBy	Mathematica
+JSONiq	influencedBy	XQuery
+JSONiq	influencedBy	SQL
+Sidney Lawton Smith	influencedBy	John LaFarge
+Kat Mon Dieu	influencedBy	Marilyn Monroe
+Kat Mon Dieu	influencedBy	Julie Newmar
+Laurent Jiménez-Balaguer	influencedBy	El Greco
+Dorothea Sharp	influencedBy	David Murray
+Dorothea Sharp	influencedBy	Claude Monet
+Joseph-André Motte	influencedBy	Mies van der Rohe
+Joseph-André Motte	influencedBy	Bauhaus
+Kue King	influencedBy	Ruth Asawa
+Sharron Ahtone Harjo	influencedBy	Dick West
+Oliver Sin	influencedBy	Paul Erdos
+Oliver Sin	influencedBy	Endre Szemeredi
+Dolittle	influencedBy	Logo
+Michele Tripisciano	influencedBy	Francesco Fabi Altini and Luigi Belli
+Vincent J.F. Huang	influencedBy	Damien Hirst
+Vincent J.F. Huang	influencedBy	Maurizio Cattelan
+Vincent J.F. Huang	influencedBy	Mike Kelley
+Vincent J.F. Huang	influencedBy	Bruce Nauman
+Daan Samson	influencedBy	Marcel Duchamp
+Daan Samson	influencedBy	Michel Houellebecq
+Abby Williams Hill	influencedBy	William Merritt Chase
+Dust La Rock	influencedBy	Peter Blake
+Dust La Rock	influencedBy	Ralph Bakshi
+Dust La Rock	influencedBy	Salvador Dalí
+Louis Monzies	influencedBy	Jean-Louis-Ernest Meissonier
+Florence Fuller	influencedBy	Jane Sutherland
+AdvPL	influencedBy	XBase
+Peter Liddle	influencedBy	Georges Seurat
+Peter Liddle	influencedBy	Mark Rothko
+P*	influencedBy	C
+P*	influencedBy	PHP
+P*	influencedBy	Perl
+P*	influencedBy	C++
+C. Yarnall Abbott	influencedBy	Thomas Anshutz, Gustave Courtois, Raphael Collin
+Giuseppe Maraschini	influencedBy	Pollastrini
+Narciso Abeyta	influencedBy	Raymond Jonson, Dorothy Dunn
+David Cantine	influencedBy	*
+David Cantine	influencedBy	Cézanne
+David Cantine	influencedBy	Picasso
+David Cantine	influencedBy	Morandi
+David Cantine	influencedBy	Photography
+Anthony C. George	influencedBy	Leonardo da Vinci
+Anthony C. George	influencedBy	Michelangelo
+Anthony C. George	influencedBy	Rembrandt
+Robert Willms	influencedBy	Anthony Caro
+Robert Willms	influencedBy	David Smith
+Robert Willms	influencedBy	Peter Hide
+Lin Tianmiao	influencedBy	Ann Hamilton, Barbara Kruger, and Kiki Smith
+ELI	influencedBy	APL
+ELI	influencedBy	Q
+Eric Orr	influencedBy	Marcel Duchamp
+Lucy Madox Brown	influencedBy	Ford Madox Brown
+Lucy Madox Brown	influencedBy	Dante Gabriel Rossetti
+Catherine Madox Brown	influencedBy	Ford Madox Brown
+Catherine Madox Brown	influencedBy	Dante Gabriel Rossetti
+Kotlin	influencedBy	Java
+Kotlin	influencedBy	Scala
+Kotlin	influencedBy	Groovy
+Kotlin	influencedBy	C Sharp
+Kotlin	influencedBy	Gosu
+Mary Corse	influencedBy	Wassily Kandinsky
+Mary Corse	influencedBy	Josef Albers
+Chien-Ying Chang	influencedBy	Xu Beihong
+David Stromeyer	influencedBy	David Smith
+David Stromeyer	influencedBy	Mark di Suvero
+Bernardo Rivero	influencedBy	Daniel Hernández
+DADiSP	influencedBy	APL
+DADiSP	influencedBy	C
+DADiSP	influencedBy	C++
+Dick Wray	influencedBy	Jackson Pollock
+Dick Wray	influencedBy	Willem de Kooning
+Dick Wray	influencedBy	COBRA
+Jahan Loh	influencedBy	Jean-Michel Basquiat
+Jahan Loh	influencedBy	Andy Warhol
+Jahan Loh	influencedBy	Jasper Johns
+Jahan Loh	influencedBy	Joseph Beuys
+Izzat Klychev	influencedBy	Boris Ioganson
+Izzat Klychev	influencedBy	Aleksandr Gerasimov
+Izzat Klychev	influencedBy	Joseph Serebriany
+Hilda Rix Nicholas	influencedBy	Frederick McCubbin
+Hilda Rix Nicholas	influencedBy	John Hassall
+Hilda Rix Nicholas	influencedBy	Richard Emil Miller
+Rafael Ríos Rey	influencedBy	Ismael D'Alzina
+Rafael Ríos Rey	influencedBy	Miguel Pou
+Hack	influencedBy	PHP
+Hack	influencedBy	OCaml
+Hack	influencedBy	Java
+Hack	influencedBy	C Sharp
+Hack	influencedBy	Scala
+Hack	influencedBy	Haskell
+Artus Quellinus II	influencedBy	Lucas Faydherbe
+Elmer Borlongan	influencedBy	Fernando Sena, Victorio Edades
+Luigi Gregori	influencedBy	Caracci
+Luigi Gregori	influencedBy	Guido Reni
+Luigi Gregori	influencedBy	Perugino
+Luigi Gregori	influencedBy	Fra Angelico
+Alyce Frank	influencedBy	fauvism and German expressionism
+George Dureau	influencedBy	Robert Motherwell
+Sérgio Valle Duarte	influencedBy	Joseph Mallord William Turner
+Sérgio Valle Duarte	influencedBy	Gustave Courbet
+Sérgio Valle Duarte	influencedBy	Giorgio de Chirico
+Ann-Sophie Qvarnström	influencedBy	Einar Jolin
+Ann-Sophie Qvarnström	influencedBy	John Bauer
+Cameleon	influencedBy	YAWL
+Einar Jolin	influencedBy	Paul Cézanne
+Einar Jolin	influencedBy	Georges Seurat
+Einar Jolin	influencedBy	Henri Matisse
+Rick Rivet	influencedBy	German Expressionism
+Rick Rivet	influencedBy	Abstract Expressionism
+Rick Rivet	influencedBy	Art Povera
+Rick Rivet	influencedBy	Art Informel
+Jean Bellette	influencedBy	Thea Proctor
+Jean Bellette	influencedBy	George Bell
+James Dean Pruner	influencedBy	William S. Burroughs
+James Dean Pruner	influencedBy	Joseph Cornell
+James Dean Pruner	influencedBy	Pablo Picasso
+James Dean Pruner	influencedBy	Robert Rauschenberg
+Polly Morgan	influencedBy	Jake and Dinos Chapman
+Polly Morgan	influencedBy	Tim Noble and Sue Webster
+Polly Morgan	influencedBy	Walter Potter
+Henri Vincent-Anglade	influencedBy	Gustave Moreau
+Bernardo Bobić	influencedBy	Titian
+Bernardo Bobić	influencedBy	Palma il Giovane
+Swift	influencedBy	C Sharp
+Swift	influencedBy	CLU
+Swift	influencedBy	D
+Swift	influencedBy	Haskell
+Swift	influencedBy	Objective-C
+Swift	influencedBy	Python
+Swift	influencedBy	Rust
+Swift	influencedBy	Ruby
+Swift	influencedBy	C syntax, functional programming
+Dadamaino	influencedBy	Lucio Fontana
+John Passmore	influencedBy	Cezanne
+John Passmore	influencedBy	Mark Gertler
+John Passmore	influencedBy	Bernard Meninsky
+Alex Dodge	influencedBy	Isamu Noguchi
+Alex Dodge	influencedBy	Brice Marden
+Alex Dodge	influencedBy	Marcel Duchamp
+Oleg Tselkov	influencedBy	Jack of Diamonds
+Oleg Tselkov	influencedBy	Fernando Botero
+Gershon Benjamin	influencedBy	Henri Matisse
+Mikhail Odnoralov	influencedBy	Robert Falk
+Mikhail Odnoralov	influencedBy	Giorgio Morandi
+Flowgorithm	influencedBy	Flowcharts
+Michele O'Marah	influencedBy	Andy Warhol
+Alexander Kosolapov	influencedBy	Dmitry Prigov
+Alexander Kosolapov	influencedBy	Andy Warhol
+Alexander Kosolapov	influencedBy	Alexander Ney
+Andy Gotts	influencedBy	Alfred Hitchcock
+Andy Gotts	influencedBy	David Lean
+Andy Gotts	influencedBy	Ealing Comedies
+Andy Gotts	influencedBy	Caravaggio
+Andy Gotts	influencedBy	Rembrandt
+John Miller	influencedBy	Conceptual Art
+John Miller	influencedBy	Minimalism
+John Miller	influencedBy	Dan Graham
+John Miller	influencedBy	Mike Kelley
+John Miller	influencedBy	Tony Oursler
+Sun Liangang	influencedBy	Friedrich Nietzsche
+Visual Logic	influencedBy	Flowcharts
+Raptor	influencedBy	Flowcharts
+Robert Hamblin	influencedBy	Misha Gordon, Jacki McInnes, Nel Erasmus
+Karl Dempwolf	influencedBy	Early American Impressionism
+Pierre Sabatier	influencedBy	Le Corbusier
+Jawshing Arthur Liou	influencedBy	Jerry Uelsmann
+Rosa Brett	influencedBy	John Brett
+Jacobo Montvelisky	influencedBy	Ansel Adams
+Charles Buckles Falls	influencedBy	William Nicholson
+Christian von Mechel	influencedBy	Johann Georg Wille;  Johann Georg Pintz; \nJohann Friedrich ReiffensteinGeorg Daniel Heumann
+Ferenc Csentery	influencedBy	Johann Wolfgang von Goethe
+Ferenc Csentery	influencedBy	Carl Jung
+Victor Forsythe	influencedBy	Frank DuMond
+Alison Duff	influencedBy	Frances Shurrock
+Kishio Suga	influencedBy	Jiro Takamatsu
+Kishio Suga	influencedBy	Yoshishige Saito
+Koji Enokura	influencedBy	Jiro Takamatsu
+Koji Enokura	influencedBy	Yoshishige Saito
+Lyonel Grant	influencedBy	Hone Taiapa
+James Greig	influencedBy	Len Castle
+Ur	influencedBy	Haskell
+Ur	influencedBy	ML
+Shinzaburo Takeda	influencedBy	Luis Nishizawa
+Kohai Grace	influencedBy	Kataraina Hetet-Winiata, Rangi Hetet, Erenora Puketapu-Hetet
+Natalia Anciso	influencedBy	Santa Barraza
+Natalia Anciso	influencedBy	Yolanda Lopez
+Natalia Anciso	influencedBy	John Jota Leanos
+Pakaariki Harrison	influencedBy	Pine Taiapa
+Pyomo	influencedBy	Python
+Pyomo	influencedBy	AMPL
+Pyomo	influencedBy	General Algebraic Modeling System
+Veranoa Hetet	influencedBy	Erenora Puketapu-Hetet
+Veranoa Hetet	influencedBy	Rangi Hetet
+Nim	influencedBy	Ada
+Nim	influencedBy	Modula-3
+Nim	influencedBy	Lisp
+Nim	influencedBy	C++
+Nim	influencedBy	Object Pascal
+Nim	influencedBy	Python
+Nim	influencedBy	Oberon
+Arthur Ted Powell	influencedBy	Roy Ascott
+Arthur Ted Powell	influencedBy	Gustav Metzger
+Arthur Ted Powell	influencedBy	Fred Williams
+Arthur Ted Powell	influencedBy	Clifton Pugh
+Nancy Youdelman	influencedBy	Judy Chicago
+Clyde O. DeLand	influencedBy	Howard Pyle
+Audrey Capel Doray	influencedBy	Viktor Lowenfeld
+Audrey Capel Doray	influencedBy	Marshall McLuhan
+Jessica Diamond	influencedBy	Yayoi Kusama
+Dora De Larios	influencedBy	Otto and Vivika Heino, Susan Peterson
+Margaret Agnes Rope	influencedBy	Christopher Whall
+Margaret Agnes Rope	influencedBy	Henry Payne
+Margaret Agnes Rope	influencedBy	Arts and Crafts movement
+Will Blake	influencedBy	Winslow Homer
+Albert Demuyser	influencedBy	Christine Picavet
+Gwenda Morgan	influencedBy	Iain Macnab
+Gwenda Morgan	influencedBy	Douglas Bliss
+Gwenda Morgan	influencedBy	Eric Ravilious
+Oscar Tuazon	influencedBy	Vito Acconci
+Extempore	influencedBy	Lisp programming language
+Extempore	influencedBy	Impromptu
+Extempore	influencedBy	Scheme
+M. E. Aldrich Rope	influencedBy	Christopher Whall,  Karl Parsons, Alfred Drury (stained glass artist) and Margaret Agnes Rope; Arts and Crafts movement
+Alfred Dubucand	influencedBy	Antoine-Louis Barye
+Miguel Robles-Durán	influencedBy	MarxHarveyLefebvreLuxemburgDebord
+WebAssembly	influencedBy	Asm.js
+WebAssembly	influencedBy	Google Native Client
+Adrien Étienne Gaudez	influencedBy	Francois Jouffroy
+Fanny Sanín	influencedBy	David Manzur
+Heidrun Huwyler	influencedBy	Jackson Pollock
+Sam Easterson	influencedBy	Tony Oursler
+Sam Easterson	influencedBy	Hans Haacke
+Serge Segay	influencedBy	Kazimir Malevich
+Serge Segay	influencedBy	Filippo Tommaso Marinetti
+Serge Segay	influencedBy	Futurism
+Serge Segay	influencedBy	Ry Nikonova
+Ry Nikonova	influencedBy	Vasilisk Gnedov
+Ry Nikonova	influencedBy	Serge Segay
+Keith Godwin	influencedBy	Frank Dobson
+Victor Matthews	influencedBy	Keith Haring
+Victor Matthews	influencedBy	Francesco Clemente
+Victor Matthews	influencedBy	Donald Baechler
+Victor Matthews	influencedBy	Brice Marden
+Albatross	influencedBy	Eiffel
+Albatross	influencedBy	Coq
+Natalie Frank	influencedBy	Edgar Degas
+Natalie Frank	influencedBy	Diego Velazquez
+Natalie Frank	influencedBy	Kathe Kollwitz
+Natalie Frank	influencedBy	Francisco Goya
+Natalie Frank	influencedBy	Robert Gober
+Rob Day	influencedBy	Norman Rockwell
+Valeriu Pantazi	influencedBy	Odysseas Elytis
+Valeriu Pantazi	influencedBy	Nichita Stănescu
+Valeriu Pantazi	influencedBy	Gheorghe Petrașcu
+Valeriu Pantazi	influencedBy	Theodor Pallady
+Valeriu Pantazi	influencedBy	Nicolae Dărăscu
+Valeriu Pantazi	influencedBy	Gheorghe Pantelie
+Arnout de Muyser	influencedBy	Joachim Beuckelaer, Hans Vredeman de Vries and Maerten de Vos
+Daniel Parker	influencedBy	Charles Marion Russell
+Felix Maria Diogg	influencedBy	Johann Melchior Wyrsch
+Open Roberta	influencedBy	Scratch
+Open Roberta	influencedBy	Blockly
+Pixie	influencedBy	Clojure
+Pixie	influencedBy	Lisp
+Eva Raboso	influencedBy	Jackson Pollock
+Eva Raboso	influencedBy	Jean Michel Basquiat
+Michael Murphy	influencedBy	James Turrell
+Albert Robert Valentien	influencedBy	Frank Duveneck
+H. Lyman Saÿen	influencedBy	Thomas Anshutz, Henri Matisse
+Rex	influencedBy	Tom of Finland
+Rex	influencedBy	Etienne
+Giuseppe Balbo	influencedBy	Adolfo Wildt
+Biagio Bellotti	influencedBy	Giambattista Tiepolo
+David Suter	influencedBy	M. C. Escher
+Whiley	influencedBy	Java
+Whiley	influencedBy	C
+Whiley	influencedBy	Python
+Whiley	influencedBy	Rust
+Lee Jinjoon	influencedBy	Namjune Paik
+EC	influencedBy	C
+EC	influencedBy	C++
+EC	influencedBy	Python
+Rukia Begum	influencedBy	Alexander McQueen
+Rukia Begum	influencedBy	Mary Katrantzou
+Crystal	influencedBy	Ruby
+Crystal	influencedBy	C
+Crystal	influencedBy	Rust
+Crystal	influencedBy	Go
+Crystal	influencedBy	C Sharp
+Crystal	influencedBy	Python
+Grégoire Guillemin	influencedBy	Roy Lichtenstein
+Grégoire Guillemin	influencedBy	Andy Warhol
+Johannes Holt-Iversen	influencedBy	Asger Jorn
+Johannes Holt-Iversen	influencedBy	Edvard Munch
+Citrine	influencedBy	Smalltalk
+Citrine	influencedBy	Self
+Margaret Paraskos	influencedBy	Expressionism
+Nikolai Shulpinov	influencedBy	Nicolai Fechin
+STELLA	influencedBy	DYNAMO
+Ebda3	influencedBy	C Sharp
+Ebda3	influencedBy	Java
+Ebda3	influencedBy	MATLAB
+Ebda3	influencedBy	C++
+Ebda3	influencedBy	Visual Basic
+Ebda3	influencedBy	F Sharp
+Ebda3	influencedBy	Jeem
+Ebda3	influencedBy	Fortran
+Ebda3	influencedBy	Ada
+Ebda3	influencedBy	Pascal
+Ebda3	influencedBy	Python
+Ebda3	influencedBy	Eiffel
+Ebda3	influencedBy	C
+Andy Wilf	influencedBy	Franz Gertsch, Malcolm Morley
+Chen Ke	influencedBy	Vincent Van Gogh
+PascalABC.NET	influencedBy	Delphi
+PascalABC.NET	influencedBy	Pascal
+PascalABC.NET	influencedBy	C Sharp
+PascalABC.NET	influencedBy	Python
+Henri Beau	influencedBy	Claude Monet
+Pat Andrea	influencedBy	Co Westerik
+Ryan McCourt	influencedBy	Anthony Caro
+Ryan McCourt	influencedBy	Peter Hide
+Ryan McCourt	influencedBy	Sculpture in South Asia
+Epifanio “Fano” Irizarry	influencedBy	Miguel Pou
+Epifanio “Fano” Irizarry	influencedBy	Librado Net
+Andrew French	influencedBy	Classicism
+Andrew French	influencedBy	Modernism
+KUKA Robot Language	influencedBy	Pascal
+Corneliu Ionescu	influencedBy	Corneliu Baba
+Corneliu Ionescu	influencedBy	Edgar Degas
+Corneliu Ionescu	influencedBy	Paul Cézanne
+Philip Surrey	influencedBy	Frederick Varley
+Gerry Peirce	influencedBy	George Albert Burr
+Mark Voris	influencedBy	Paul Dougherty
+Harvey Lloyd	influencedBy	Alexey Brodovitch
+Ron Linden	influencedBy	Richard Diebenkorn, [Willem de Kooning]], Jasper Johns, Phillip Guston, Walter Abish, John CageClyfford Still, Arshile Gorky, Henri Matisse
+Domenic Cretara	influencedBy	Caravaggio
+Domenic Cretara	influencedBy	Rembrandt
+Domenic Cretara	influencedBy	Commedia dell’arte
+AntLang	influencedBy	Haskell
+AntLang	influencedBy	Erlang
+AntLang	influencedBy	C

@@ -1,0 +1,680 @@
+Athens	elevationMax	338
+Corinth	elevationMax	10
+Chios	elevationMax	1297
+Corfu	elevationMax	906
+Heraklion	elevationMax	33
+Chania	elevationMax	5
+Eleusis	elevationMax	5
+Patmos	elevationMax	269
+Messene	elevationMax	800
+Samothrace	elevationMax	1611
+Lemnos	elevationMax	470
+Piraeus	elevationMax	87
+Chalcis	elevationMax	5
+Paros	elevationMax	724
+Milos	elevationMax	748
+Ios	elevationMax	713
+Laurium	elevationMax	11
+Kavala	elevationMax	53
+Kos	elevationMax	843
+Folegandros	elevationMax	455
+Kastellorizo	elevationMax	273
+Lindos	elevationMax	5
+Hersonissos	elevationMax	12
+Symi	elevationMax	617
+Malia, Crete	elevationMax	10
+Skyros	elevationMax	792
+Volos	elevationMax	5
+Karpathos	elevationMax	1215
+Patras	elevationMax	10
+Elliniko	elevationMax	20
+Vrilissia	elevationMax	310
+Sitia	elevationMax	5
+Aigio	elevationMax	40
+Glyfada	elevationMax	200
+Vouliagmeni	elevationMax	350
+Psara	elevationMax	512
+Nafpaktos	elevationMax	3
+Olympiada, Kozani	elevationMax	680
+Kalamata	elevationMax	21
+Argostoli	elevationMax	10
+Gavdos	elevationMax	345
+Nisyros	elevationMax	698
+Kalymnos	elevationMax	700
+Pyrgos, Elis	elevationMax	3
+Nafplio	elevationMax	10
+Leros	elevationMax	320
+Ierapetra	elevationMax	18
+Kapeli	elevationMax	15
+Aigeira	elevationMax	5
+Zacharo	elevationMax	1345
+Examilia	elevationMax	84
+Missolonghi	elevationMax	9
+Kaminia, Achaea	elevationMax	5
+Farres	elevationMax	100
+Skiathos	elevationMax	433
+Tsoukalaiika, Achaea	elevationMax	10
+Ampelakia	elevationMax	18
+Panorama, Thessaloniki	elevationMax	340
+Kea	elevationMax	560
+Agios Nikolaos, Crete	elevationMax	10
+Palaiochora	elevationMax	20
+Araxos	elevationMax	289
+Kefalovryso, Ioannina	elevationMax	700
+Kondariotissa	elevationMax	80
+Parga	elevationMax	910
+Itea, Phocis	elevationMax	10
+Kamatero	elevationMax	160
+Kentro, Elis	elevationMax	85
+Sifnos	elevationMax	679
+Arachovitika	elevationMax	10
+Palaio Faliro	elevationMax	10
+Aroania	elevationMax	220
+Mati, Greece	elevationMax	10
+Amorgos	elevationMax	823
+Davleia	elevationMax	410
+Skopelos	elevationMax	681
+Tilos	elevationMax	654
+Alonnisos	elevationMax	476
+Gerakas	elevationMax	374
+Alimos	elevationMax	10
+Siatista	elevationMax	980
+Alexandroupoli	elevationMax	11
+Falaisia	elevationMax	1522
+Serifos	elevationMax	585
+Nea Anchialos	elevationMax	5
+Komotini	elevationMax	19
+Paralia, Pieria	elevationMax	20
+Nea Ionia, Magnesia	elevationMax	5
+Skoutari, Laconia	elevationMax	90
+Parasyros	elevationMax	165
+Papingo	elevationMax	980
+Stoupa	elevationMax	46
+Georgioupoli	elevationMax	5
+Kalamaria	elevationMax	35
+Rafina	elevationMax	10
+Elafonisos	elevationMax	276
+Halki	elevationMax	601
+Donousa	elevationMax	385
+Kalamos	elevationMax	754
+Kato Vermio	elevationMax	1540
+Artemida, Attica	elevationMax	204
+Velventos	elevationMax	520
+Igoumenitsa	elevationMax	10
+Rhodes	elevationMax	25
+Menidi, Aetolia-Acarnania	elevationMax	798
+Platy, Imathia	elevationMax	10
+Elatochori	elevationMax	780
+Kimolos	elevationMax	364
+Trikorfo, Grevena	elevationMax	1015
+Agios Thomas, Boeotia	elevationMax	61
+Elassona	elevationMax	311
+Nea Palatia	elevationMax	7
+Skala Oropou	elevationMax	8
+Mavrodendri	elevationMax	740
+Platanias	elevationMax	10
+Avdella	elevationMax	1350
+Zakynthos	elevationMax	10
+Corfu	elevationMax	10
+Kythnos	elevationMax	297
+Stratos, Greece	elevationMax	65
+Vathy, Samos	elevationMax	10
+Ermoupoli	elevationMax	10
+Chios	elevationMax	10
+Ampelokipoi, Thessaloniki	elevationMax	20
+Laganas	elevationMax	10
+Stomio, Larissa	elevationMax	65
+Kopanaki	elevationMax	195
+Stalida	elevationMax	10
+Kalamos, Attica	elevationMax	156
+Astypalaia	elevationMax	506
+Koufalia	elevationMax	65
+Agiasos	elevationMax	475
+Tsaritsani	elevationMax	355
+Othonoi	elevationMax	393
+Meganisi	elevationMax	309
+Mathraki	elevationMax	152
+Kastos	elevationMax	142
+Anafi	elevationMax	584
+Sikinos	elevationMax	552
+Kasos	elevationMax	550
+Examili	elevationMax	270
+Diakopto	elevationMax	60
+Paion	elevationMax	1808
+Tritaia	elevationMax	60
+Leontio	elevationMax	1400
+Aliartos	elevationMax	195
+Kyriaki	elevationMax	800
+Deskati	elevationMax	930
+Agios Kosmas	elevationMax	960
+Dotsiko	elevationMax	1080
+Mesolouri	elevationMax	1120
+Samarina	elevationMax	1500
+Smixi	elevationMax	1300
+Feres, Evros	elevationMax	30
+Zaros	elevationMax	350
+Agios Pavlos, Thessaloniki	elevationMax	140
+Assiros	elevationMax	215
+Vertiskos	elevationMax	790
+Vasilika, Thessaloniki	elevationMax	75
+Kallindoia	elevationMax	525
+Sochos	elevationMax	680
+Menemeni	elevationMax	20
+Langadas	elevationMax	110
+Aetomilitsa	elevationMax	1485
+Milea, Ioannina	elevationMax	1215
+Nestorio	elevationMax	1700
+Tsotyli	elevationMax	860
+Vlasti	elevationMax	1215
+Koufonisia	elevationMax	114
+Ampelonas	elevationMax	75
+Gonnoi	elevationMax	90
+Krannonas	elevationMax	533
+Livadi	elevationMax	1245
+Olympos, Larissa	elevationMax	2911
+Ampelakia, Larissa	elevationMax	450
+Verdikousa	elevationMax	955
+Karya, Larissa	elevationMax	940
+Afetes	elevationMax	800
+Karla, Greece	elevationMax	5
+Mouresi	elevationMax	800
+Lefktro	elevationMax	1300
+Aridaea	elevationMax	98
+Thesprotiko	elevationMax	60
+Gravia	elevationMax	1700
+Leptokarya	elevationMax	40
+Gardiki, Trikala	elevationMax	1130
+Glossa, Skopelos	elevationMax	300
+Nea Santa	elevationMax	534
+Ano Vlasia	elevationMax	800
+Eliki	elevationMax	30
+Temeni	elevationMax	20
+Kallithea Elassonos	elevationMax	535
+Flampouro, Larissa	elevationMax	525
+Sykia, Larissa	elevationMax	195
+Trilofo, Thessaloniki	elevationMax	180
+Prodromi	elevationMax	538
+Agios Stefanos, Achaea	elevationMax	30
+Isoma, Achaea	elevationMax	120
+Steiri	elevationMax	1000
+Arla, Greece	elevationMax	150
+Fostaina	elevationMax	90
+Koniskos	elevationMax	1600
+Echinos	elevationMax	370
+Arravonitsa	elevationMax	500
+Achaiko	elevationMax	20
+Syrna	elevationMax	1400
+Kremasti, Laconia	elevationMax	870
+Zachloritika	elevationMax	400
+Skiathos	elevationMax	436
+Skopelos	elevationMax	681
+Naxos	elevationMax	11
+Paparis	elevationMax	1280
+Alpochori, Achaea	elevationMax	570
+Zachlorou	elevationMax	660
+Kalousi	elevationMax	835
+Katarraktis	elevationMax	120
+Salamina	elevationMax	375
+Yerakini	elevationMax	100
+Palaio Loutro	elevationMax	540
+Milea, Larissa	elevationMax	605
+Milea, Grevena	elevationMax	675
+Ano Scholari	elevationMax	175
+Graikas	elevationMax	320
+Agia Varvara, Akrata	elevationMax	1092
+Meliti	elevationMax	680
+Agrampela, Achaea	elevationMax	840
+Emporio, Kozani	elevationMax	720
+Agios Theodoros, Kozani	elevationMax	770
+Akrini	elevationMax	865
+Anatoliko	elevationMax	650
+Ano Komi	elevationMax	470
+Avles	elevationMax	375
+Chorigos	elevationMax	700
+Damaskinia	elevationMax	1025
+Dasyllio	elevationMax	1020
+Eratyra	elevationMax	805
+Vathylakkos, Kozani	elevationMax	420
+Galateia, Kozani	elevationMax	655
+Foufas	elevationMax	695
+Nemea	elevationMax	346
+Avramiou	elevationMax	80
+Agridi, Achaea	elevationMax	1600
+Alestaina	elevationMax	1118
+Kamenianoi	elevationMax	940
+Divarata	elevationMax	222
+Drepano, Achaea	elevationMax	450
+Itea, Florina	elevationMax	610
+Valira, Greece	elevationMax	55
+Kalloni, Grevena	elevationMax	1020
+Monodendri, Achaea	elevationMax	5
+Mavranaioi	elevationMax	785
+Choristi	elevationMax	96
+Athamania, Trikala	elevationMax	990
+Loutro, Messenia	elevationMax	105
+Rhodes	elevationMax	1216
+Nea Vrasna	elevationMax	5
+Parori, Boeotia	elevationMax	165
+Samos	elevationMax	10
+Loutrochori, Pella	elevationMax	90
+Agioi Theodoroi, Kozani	elevationMax	785
+Argyropouli	elevationMax	150
+Asprochoma, Larissa	elevationMax	610
+Neoi Poroi	elevationMax	5
+Metaxochori	elevationMax	335
+Potamia, Agia	elevationMax	180
+Karitsa, Pieria	elevationMax	30
+Rethymno	elevationMax	15
+Kalyvia Analipseos	elevationMax	260
+Rethymno	elevationMax	15
+Telendos	elevationMax	450
+Sparmos	elevationMax	595
+Akontio	elevationMax	165
+Moschochori, Pieria	elevationMax	140
+Katalonia	elevationMax	395
+Agios Dimitrios, Pieria	elevationMax	830
+Ritini	elevationMax	640
+Vria	elevationMax	360
+Palaio Keramidi	elevationMax	160
+Trilofos, Pieria	elevationMax	315
+Neokaisareia, Pieria	elevationMax	110
+Kato Agios Ioannis	elevationMax	90
+Meliadi	elevationMax	370
+Foteina	elevationMax	380
+Koukkos, Pieria	elevationMax	240
+Panteleimonas, Pieria	elevationMax	485
+Ano Agios Ioannis	elevationMax	100
+Nea Trapezounta, Pieria	elevationMax	140
+Sevasti	elevationMax	170
+Exochi, Pieria	elevationMax	290
+Makrygialos, Pieria	elevationMax	55
+Alimia	elevationMax	274
+Nimos	elevationMax	617
+Kalchas, Rhodope	elevationMax	100
+Lianovergi	elevationMax	10
+Palaio Eleftherochori	elevationMax	145
+Sfendami	elevationMax	190
+Alonia, Pieria	elevationMax	195
+Ryakia	elevationMax	450
+Nea Agathoupoli	elevationMax	27
+Palaiostani	elevationMax	345
+Neo Keramidi	elevationMax	75
+Anatoliko, Kozani	elevationMax	700
+Kapnochori	elevationMax	705
+Perdikkas, Kozani	elevationMax	600
+Mesovouno	elevationMax	900
+Pyrgoi	elevationMax	765
+Katafygio, Kozani	elevationMax	1460
+Galatini	elevationMax	1040
+Namata, Kozani	elevationMax	1160
+Sisani	elevationMax	870
+Mikrokastro	elevationMax	680
+Dryovouno	elevationMax	830
+Peponia, Kozani	elevationMax	630
+Mesolongos	elevationMax	785
+Lefkothea, Kozani	elevationMax	805
+Roditis, Kozani	elevationMax	400
+Mikrovalto	elevationMax	750
+Polyfyto	elevationMax	345
+Molocha, Kozani	elevationMax	715
+Peristera, Kozani	elevationMax	710
+Platania, Kozani	elevationMax	685
+Polylakko	elevationMax	640
+Pylorio	elevationMax	640
+Simantro	elevationMax	785
+Skalochori	elevationMax	885
+Vouchorina	elevationMax	765
+Kleisoreia	elevationMax	880
+Stavrodromi, Kozani	elevationMax	1025
+Omali, Kozani	elevationMax	790
+Polykastano	elevationMax	1095
+Louvri	elevationMax	755
+Loukomi	elevationMax	725
+Plakida	elevationMax	840
+Morfi, Kozani	elevationMax	875
+Agiasma, Kozani	elevationMax	875
+Velanidia, Kozani	elevationMax	720
+Vronti	elevationMax	790
+Trapezitsa	elevationMax	560
+Palaiokastro, Kozani	elevationMax	925
+Megali Gefyra	elevationMax	55
+Rachi, Pieria	elevationMax	265
+Poroi	elevationMax	565
+Paliampela, Pieria	elevationMax	65
+Nea Chrani	elevationMax	50
+Fteri, Pieria	elevationMax	1320
+Andromachi	elevationMax	45
+Petra, Boeotia	elevationMax	195
+Livera, Kozani	elevationMax	975
+Kato Komi	elevationMax	420
+Milea, Kozani	elevationMax	455
+Sparto, Kozani	elevationMax	385
+Exochi, Kozani	elevationMax	665
+Tetralofo	elevationMax	750
+Ryaki, Kozani	elevationMax	790
+Voskochori	elevationMax	785
+Kastri, Preveza	elevationMax	35
+Dolichi	elevationMax	600
+Toxo, Pieria	elevationMax	315
+Karyes, Pieria	elevationMax	495
+Mikri Milia, Pieria	elevationMax	387
+Prosilio, Pieria	elevationMax	75
+Plaka, Pieria	elevationMax	25
+Kontovouni	elevationMax	360
+Kaisareia, Kozani	elevationMax	350
+Polymylos	elevationMax	925
+Sideras	elevationMax	945
+Koilada, Kozani	elevationMax	685
+Lefkara, Kozani	elevationMax	480
+Kleitos, Kozani	elevationMax	765
+Gerakarou	elevationMax	165
+Vasiloudi	elevationMax	170
+Agios Vasileios, Thessaloniki	elevationMax	105
+Ossa, Thessaloniki	elevationMax	655
+Adam, Thessaloniki	elevationMax	270
+Zagliveri	elevationMax	210
+Palioi Poroi	elevationMax	565
+Skoteina	elevationMax	705
+Alyki, Pieria	elevationMax	10
+Kitros	elevationMax	95
+Irakleio, Thessaloniki	elevationMax	102
+Kavallari, Thessaloniki	elevationMax	85
+Kavallari, Ioannina	elevationMax	665
+Perivolaki, Thessaloniki	elevationMax	98
+Chrysavgi, Thessaloniki	elevationMax	125
+Lagyna	elevationMax	210
+Analipsi, Thessaloniki	elevationMax	120
+Krithia, Thessaloniki	elevationMax	220
+Petrokerasa	elevationMax	530
+Nea Kallindoia	elevationMax	240
+Kalyvia Varikou	elevationMax	5
+Mesokomo	elevationMax	240
+Kalamoto	elevationMax	220
+Kryoneri, Thessaloniki	elevationMax	640
+Paralia Korinou	elevationMax	3
+Karteres	elevationMax	645
+Kolchiko	elevationMax	175
+Anilio, Ioannina	elevationMax	1115
+Ossa, Larissa	elevationMax	140
+Lofiskos, Thessaloniki	elevationMax	490
+Exalofos, Thessaloniki	elevationMax	465
+Agia Varvara, Pieria	elevationMax	60
+Pente Vryses	elevationMax	465
+Polydendri, Thessaloniki	elevationMax	415
+Sarakina, Thessaloniki	elevationMax	270
+Agios Charalambos, Thessaloniki	elevationMax	295
+Avgi, Thessaloniki	elevationMax	650
+Nikopoli, Thessaloniki	elevationMax	585
+Agiannis, Pieria	elevationMax	25
+Kato Milia	elevationMax	220
+Xylopoli	elevationMax	575
+Plagiari, Thessaloniki	elevationMax	160
+Lefkochori, Thessaloniki	elevationMax	620
+Kardia, Thessaloniki	elevationMax	210
+Kato Scholari	elevationMax	230
+Tagarades	elevationMax	85
+Neo Rysio	elevationMax	70
+Peristera, Thessaloniki	elevationMax	605
+Agia Paraskevi, Thessaloniki	elevationMax	110
+Agios Antonios, Thessaloniki	elevationMax	230
+Monopigado	elevationMax	435
+Nea Raidestos	elevationMax	65
+Filothei, Thessaloniki	elevationMax	140
+Lakkia, Thessaloniki	elevationMax	120
+Drakontio	elevationMax	165
+Melissourgos	elevationMax	115
+Nikomidino	elevationMax	160
+Stivos	elevationMax	175
+Evangelismos, Thessaloniki	elevationMax	110
+Stavros, Thessaloniki	elevationMax	25
+Ano Stavros	elevationMax	115
+Scholari	elevationMax	90
+Pothia	elevationMax	700
+Nea Madytos	elevationMax	120
+Mavrouda	elevationMax	375
+Ano Milia, Pieria	elevationMax	975
+Nymfopetra	elevationMax	60
+Modi, Thessaloniki	elevationMax	140
+Profitis	elevationMax	150
+Skepasto, Thessaloniki	elevationMax	445
+Nea Karvali	elevationMax	10
+Makrino	elevationMax	1025
+Flambourari	elevationMax	1045
+Greveniti	elevationMax	1080
+Tristeno	elevationMax	980
+Kastanonas	elevationMax	1040
+Elatochori, Ioannina	elevationMax	1055
+Dilakko	elevationMax	1010
+Doliani	elevationMax	940
+Limenas Litochorou	elevationMax	6
+Ochthia, Aetolia-Acarnania	elevationMax	45
+Gouriotissa	elevationMax	100
+Palaiomanina	elevationMax	120
+Agrampela, Aetolia-Acarnania	elevationMax	240
+Strongylovouni	elevationMax	125
+Manina Vlizianon	elevationMax	90
+Stefanina, Thessaloniki	elevationMax	510
+Filadelfio	elevationMax	420
+Apollonia, Madytos	elevationMax	55
+Volvi, Thessaloniki	elevationMax	145
+Agios Dimitrios, Dio-Olympos	elevationMax	50
+Agia Paraskevi, Aspropotamos	elevationMax	1000
+Stefani, Trikala	elevationMax	1420
+Polythea, Trikala	elevationMax	1105
+Nea Apollonia	elevationMax	110
+Peristerona, Thessaloniki	elevationMax	125
+Koumaria, Imathia	elevationMax	810
+Pentalofos, Thessaloniki	elevationMax	130
+Nea Filadelfeia, Thessaloniki	elevationMax	95
+Melissochori, Thessaloniki	elevationMax	300
+Mesaio	elevationMax	165
+Drymos, Thessaloniki	elevationMax	220
+Kalochori, Thessaloniki	elevationMax	5
+Kymina	elevationMax	5
+Nea Malgara	elevationMax	5
+Vrachia	elevationMax	5
+Anatoliko, Thessaloniki	elevationMax	8
+Nea Magnisia	elevationMax	18
+Diavata	elevationMax	35
+Exochi, Thessaloniki	elevationMax	515
+Asvestochori, Thessaloniki	elevationMax	430
+Gefyra, Thessaloniki	elevationMax	50
+Anchialos, Thessaloniki	elevationMax	25
+Vathylakkos, Thessaloniki	elevationMax	115
+Partheni, Thessaloniki	elevationMax	8
+Valtochori	elevationMax	8
+Eleousa, Thessaloniki	elevationMax	11
+Prochoma	elevationMax	110
+Agia Triada, Thessaloniki	elevationMax	20
+Mikro Monastiri	elevationMax	8
+Nea Kerasia	elevationMax	65
+Mesimeri, Thessaloniki	elevationMax	130
+Katakali, Grevena	elevationMax	550
+Paraskevi, Grevena	elevationMax	790
+Karpero	elevationMax	510
+Panagia, Grevena	elevationMax	450
+Trikokkia	elevationMax	590
+Dimitra, Grevena	elevationMax	500
+Trifylli, Grevena	elevationMax	500
+Anoixi, Grevena	elevationMax	575
+Gilofos	elevationMax	1070
+Kranea, Grevena	elevationMax	1015
+Kallithea, Grevena	elevationMax	1040
+Prionia, Grevena	elevationMax	775
+Kipoureio	elevationMax	860
+Pigaditsa	elevationMax	760
+Mikrolivado	elevationMax	830
+Sitaras	elevationMax	770
+Polyneri, Grevena	elevationMax	1020
+Lavdas	elevationMax	1060
+Panorama, Grevena	elevationMax	1100
+Monachiti	elevationMax	1050
+Prosvorro	elevationMax	985
+Spilaio, Grevena	elevationMax	985
+Alatopetra	elevationMax	980
+Kosmati	elevationMax	750
+Anavryta, Grevena	elevationMax	880
+Perivolaki, Grevena	elevationMax	980
+Zakas	elevationMax	970
+Stavros, Grevena	elevationMax	765
+Mavronoros, Grevena	elevationMax	780
+Mavronoros, Ioannina	elevationMax	585
+Exarchos, Grevena	elevationMax	750
+Varis, Grevena	elevationMax	735
+Kentro, Grevena	elevationMax	660
+Agalaioi	elevationMax	730
+Nisi, Grevena	elevationMax	625
+Knidi	elevationMax	715
+Itea, Grevena	elevationMax	650
+Mikrokleisoura, Grevena	elevationMax	570
+Pistiko	elevationMax	630
+Poros, Grevena	elevationMax	635
+Palaiochori, Grevena	elevationMax	810
+Pontini	elevationMax	840
+Pyloroi	elevationMax	725
+Sarakina, Grevena	elevationMax	760
+Diporo, Grevena	elevationMax	650
+Neochori, Grevena	elevationMax	575
+Agios Georgios, Grevena	elevationMax	800
+Kivotos	elevationMax	690
+Taxiarchis, Grevena	elevationMax	650
+Polydendro, Grevena	elevationMax	660
+Klimataki	elevationMax	720
+Kokkinia, Grevena	elevationMax	660
+Vrasna	elevationMax	135
+Nea Trapezounta, Grevena	elevationMax	655
+Aidonia, Grevena	elevationMax	770
+Dasaki	elevationMax	755
+Kalirachi, Grevena	elevationMax	890
+Megaro	elevationMax	1005
+Kyparissi, Grevena	elevationMax	960
+Oropedio, Grevena	elevationMax	890
+Leipsi	elevationMax	865
+Kydonies, Grevena	elevationMax	910
+Ekklisia, Grevena	elevationMax	945
+Ano Ekklisia	elevationMax	1110
+Vatolakkos, Grevena	elevationMax	595
+Kyrakali	elevationMax	615
+Rodia, Grevena	elevationMax	880
+Syndendro	elevationMax	780
+Felli, Grevena	elevationMax	645
+Eleftherochori, Grevena	elevationMax	630
+Megalo Seirini	elevationMax	650
+Mikro Seirini	elevationMax	645
+Elefthero, Grevena	elevationMax	660
+Elefthero Prosfygon	elevationMax	670
+Myrsina, Grevena	elevationMax	620
+Asprokampos, Grevena	elevationMax	595
+Aimilianos, Grevena	elevationMax	850
+Despotis, Grevena	elevationMax	670
+Anthrakia	elevationMax	740
+Agioi Theodoroi, Grevena	elevationMax	810
+Eptalofos, Phocis	elevationMax	900
+Kastro, Grevena	elevationMax	830
+Elatos, Grevena	elevationMax	735
+Amygdalies, Grevena	elevationMax	875
+Polydrosos	elevationMax	470
+Alyki, Boeotia	elevationMax	120
+Kalochi	elevationMax	590
+Agios Georgios, Deskati	elevationMax	780
+Diasellaki	elevationMax	750
+Agapi, Grevena	elevationMax	500
+Mesolakkos	elevationMax	615
+Doxaras	elevationMax	590
+Kalamitsi, Grevena	elevationMax	600
+Galini, Thessaloniki	elevationMax	585
+Loudias, Thessaloniki	elevationMax	6
+Dorkada, Thessaloniki	elevationMax	560
+Mavrorrachi, Thessaloniki	elevationMax	475
+Stefania, Thessaloniki	elevationMax	500
+Mikri Volvi	elevationMax	65
+Megali Volvi	elevationMax	55
+Vamvakia, Thessaloniki	elevationMax	155
+Limni, Thessaloniki	elevationMax	380
+Anoixia	elevationMax	420
+Xiropotamos, Thessaloniki	elevationMax	380
+Mesopotamo, Thessaloniki	elevationMax	115
+Loutra Volvis	elevationMax	60
+Spitakia, Thessaloniki	elevationMax	110
+Plateia, Thessaloniki	elevationMax	495
+Petroto, Thessaloniki	elevationMax	105
+Monolofo	elevationMax	190
+Kokkalou	elevationMax	80
+Chorouda	elevationMax	685
+Areti, Thessaloniki	elevationMax	435
+Akropotamos, Thessaloniki	elevationMax	50
+Kastanas	elevationMax	40
+Kato Stefanina	elevationMax	420
+Mikrokomi	elevationMax	295
+Vaiochori	elevationMax	130
+Tsoukalades, Boeotia	elevationMax	240
+Drymos, Larissa	elevationMax	490
+Evangelismos, Elassona	elevationMax	220
+Galanovrysi	elevationMax	300
+Kefalovryso, Larissa	elevationMax	280
+Palaiokastro, Larissa	elevationMax	225
+Stefanovouno	elevationMax	290
+Lefki, Larissa	elevationMax	445
+Krania, Elassona	elevationMax	805
+Akri, Larissa	elevationMax	935
+Kleisoura, Larissa	elevationMax	530
+Valanida	elevationMax	340
+Loutro, Elassona	elevationMax	760
+Kryovrysi, Larissa	elevationMax	1070
+Sykaminea, Larissa	elevationMax	935
+Kokkinopilos	elevationMax	1195
+Kalyvia, Larissa	elevationMax	615
+Pythio, Larissa	elevationMax	750
+Kokkinogeio	elevationMax	550
+Olympiada, Larissa	elevationMax	580
+Lofos, Elassona	elevationMax	575
+Petroto, Larissa	elevationMax	470
+Skopia, Elassona	elevationMax	560
+Vlachogianni	elevationMax	155
+Praitori, Larissa	elevationMax	180
+Domeniko	elevationMax	315
+Amouri, Larissa	elevationMax	170
+Amouri, Pthiotis	elevationMax	45
+Magoula, Larissa	elevationMax	180
+Megalo Eleftherochori	elevationMax	420
+Mesochori, Larissa	elevationMax	170
+Azoros	elevationMax	525
+Giannota	elevationMax	580
+Gerania, Larissa	elevationMax	465
+Lykoudi	elevationMax	420
+Tsapournia, Larissa	elevationMax	950
+Farmaki	elevationMax	685
+Varkos	elevationMax	165
+Paliaskia	elevationMax	280
+Paliampela, Larissa	elevationMax	410
+Paliampela, Thessaloniki	elevationMax	45
+Koutsoufliani, Larissa	elevationMax	365
+Kalyves Polygyrou	elevationMax	30
+Agios Mamas, Chalkidiki	elevationMax	20
+Psakoudia	elevationMax	20
+Damasi, Larissa	elevationMax	150
+Deleria	elevationMax	85
+Rodia, Larissa	elevationMax	80
+Vryotopos	elevationMax	70
+Mikrolithos	elevationMax	85
+Ampelia, Larissa	elevationMax	270
+Dendra Tyrnavou	elevationMax	84
+Platanoulia	elevationMax	90
+Agia Sophia, Larissa	elevationMax	87
+Damasouli	elevationMax	140
+Kritiri	elevationMax	100
+Lygaria, Larissa	elevationMax	115
+Aetolofos, Larissa	elevationMax	120
+Gerakari, Larissa	elevationMax	110
+Elafos, Larissa	elevationMax	505
+Elafos, Pieria	elevationMax	360
+Megalovryso	elevationMax	645
+Neromyloi, Larissa	elevationMax	220
+Anavra, Larissa	elevationMax	90
+Prinias, Larissa	elevationMax	105
+Omolio	elevationMax	40
+Palaiopyrgos, Larissa	elevationMax	3
+Alexandrini	elevationMax	2
+Karitsa, Larissa	elevationMax	370
+Strintzios	elevationMax	2
+Kallirachi, Thasos	elevationMax	220

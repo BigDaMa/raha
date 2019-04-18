@@ -1,0 +1,867 @@
+Waterloo & City line	linelengthKm	2.37
+Central line	linelengthKm	74
+Metropolitan line	linelengthKm	67
+Bakerloo line	linelengthKm	23.2
+Circle line	linelengthKm	27
+District line	linelengthKm	64
+Hammersmith & City line	linelengthKm	25.5
+Jubilee line	linelengthKm	36.2
+Victoria line	linelengthKm	21
+Northern line	linelengthKm	58
+High Speed 1	linelengthKm	108
+Orlyval	linelengthKm	7.3
+Hankyū Kōbe Main Line	linelengthKm	32.3
+Osaka Loop Line	linelengthKm	21.7
+Hankyu Kyoto Main Line	linelengthKm	45.3
+Epping to Chatswood rail link	linelengthKm	13
+Gyeongin Line	linelengthKm	27
+Honam Line	linelengthKm	252.5
+Jeolla Line	linelengthKm	180.4
+Dublin Area Rapid Transit	linelengthKm	53
+Yamatoji Line	linelengthKm	54
+Betuweroute	linelengthKm	159
+Hanwa Line	linelengthKm	63
+Osaka Line	linelengthKm	108.9
+Nagoya Line	linelengthKm	78.8
+Kyoto Line	linelengthKm	34.6
+Biwako Line	linelengthKm	75.4
+Tōhoku Main Line	linelengthKm	575.7
+Chungbuk Line	linelengthKm	115
+Jungang Line	linelengthKm	373.8
+Gyeongbuk Line	linelengthKm	115.2
+Donghae Nambu Line	linelengthKm	143.2
+Janghang Line	linelengthKm	154.4
+Daegu Line	linelengthKm	29
+JR Kyoto Line	linelengthKm	42.8
+U6	linelengthKm	19.9
+U1	linelengthKm	9
+KLIA Transit	linelengthKm	57
+Fukuchiyama Line	linelengthKm	106.5
+Trambesòs	linelengthKm	14.097
+Katamachi Line	linelengthKm	55.4
+Osaka Higashi Line	linelengthKm	20.3
+Gyeongjeon Line	linelengthKm	289.5
+Hankyū Minoo Line	linelengthKm	4
+Hankyu Takarazuka Main Line	linelengthKm	24.5
+Kansai Main Line	linelengthKm	179.6
+O-Bahn Busway	linelengthKm	12
+Minami Osaka Line	linelengthKm	39.7
+Kintetsu Namba Line	linelengthKm	2
+Chūō Line	linelengthKm	17.9
+Nagano Line	linelengthKm	12.5
+Hankai Uemachi Line	linelengthKm	4.4
+Sassi–Superga tramway	linelengthKm	3.1
+Kansai Airport Line	linelengthKm	11.1
+Joondalup railway line	linelengthKm	40.7
+Glenelg tram	linelengthKm	15
+Expo Express	linelengthKm	5.7
+Benguela railway	linelengthKm	1344
+Trans-Gabon Railway	linelengthKm	669
+Hanshin Namba Line	linelengthKm	10.1
+Hanshin Main Line	linelengthKm	32.1
+Hankyu Arashiyama Line	linelengthKm	4.1
+Hankyū Itami Line	linelengthKm	3.1
+Alishan Forest Railway	linelengthKm	86
+Mandurah railway line	linelengthKm	70.1
+Wutach Valley Railway	linelengthKm	61.5
+Melba Line	linelengthKm	130
+Filyovskaya Line	linelengthKm	14.9
+Koltsevaya Line	linelengthKm	19.4
+Donghae Bukbu Line	linelengthKm	11.1
+Yeongdong Line	linelengthKm	192.7
+Belmont railway line	linelengthKm	15.51
+Bantan Line	linelengthKm	65.7
+Saitama Rapid Railway Line	linelengthKm	14.6
+Tagansko-Krasnopresnenskaya Line	linelengthKm	42
+Kakhovskaya Line	linelengthKm	3.3
+Ligne de Cerdagne	linelengthKm	63
+Saltsjöbanan	linelengthKm	18.6
+Grange railway line	linelengthKm	13
+Gawler Central railway line	linelengthKm	42.2
+Belair railway line	linelengthKm	21.5
+Outer Harbor railway line	linelengthKm	21.9
+Seaford railway line	linelengthKm	35.9
+Tonsley railway line	linelengthKm	13
+Salsette-Trombay Railway	linelengthKm	12
+CDGVAL	linelengthKm	3.5
+RER A	linelengthKm	108.5
+RER B	linelengthKm	80
+RER C	linelengthKm	185.6
+RER D	linelengthKm	190
+RER E	linelengthKm	52.3
+JR Tōzai Line	linelengthKm	12.5
+Beijing–Kowloon Railway	linelengthKm	2311
+Paris Métro Line 7bis	linelengthKm	3.1
+Paris Métro Line 8	linelengthKm	23.4
+Paris Métro Line 10	linelengthKm	11.7
+Sydney Monorail	linelengthKm	3.6
+Shin-Keisei Line	linelengthKm	26.5
+Finsbury railway line	linelengthKm	9.5
+Strahan–Zeehan Railway	linelengthKm	51
+Arbatsko-Pokrovskaya Line	linelengthKm	45.1
+Köln–Frankfurt high-speed rail line	linelengthKm	180
+Hankyū Imazu Line	linelengthKm	9.3
+Mariazell Railway	linelengthKm	91.3
+Budapest Cog-wheel Railway	linelengthKm	3.7
+Linimo	linelengthKm	8.9
+Keifuku Electric Railroad	linelengthKm	7.2
+Keifuku Electric Railroad	linelengthKm	3.8
+Hanover–Würzburg high-speed railway	linelengthKm	327
+Beijing–Shanghai Railway	linelengthKm	1462
+Cologne–Aachen high-speed railway	linelengthKm	70
+Liverpool–Parramatta T-way	linelengthKm	30
+Kosei Line	linelengthKm	74.1
+Kolkata Circular Railway	linelengthKm	38.8
+Kishigawa Line	linelengthKm	14.3
+Beijing–Guangzhou Railway	linelengthKm	2324
+Nankai Main Line	linelengthKm	64.2
+Domyoji Line	linelengthKm	2.2
+Nankai Airport Line	linelengthKm	8.8
+Weisseritz Valley Railway	linelengthKm	26.335
+JR Kobe Line	linelengthKm	87.9
+Laupheim–Schwendi railway	linelengthKm	16.02
+Cumana railway	linelengthKm	19.81
+Main Western railway line, New South Wales	linelengthKm	825
+Kabe Line	linelengthKm	14
+North-West T-way	linelengthKm	24
+Bridgewater railway line	linelengthKm	37.3
+Unanderra – Moss Vale railway line	linelengthKm	57
+Nankō Port Town Line	linelengthKm	7.9
+Imazatosuji Line	linelengthKm	11.9
+Midōsuji Line	linelengthKm	24.5
+South West Rail Link	linelengthKm	11.4
+Sagano Line	linelengthKm	34.2
+Suryeo Line	linelengthKm	73.4
+Keihanna Line	linelengthKm	18.8
+Nishitetsu Kaizuka Line	linelengthKm	11
+Hisatsu Line	linelengthKm	124.2
+Henley Beach railway line	linelengthKm	15.3
+Northfield railway line	linelengthKm	14.3
+Shin'etsu Main Line	linelengthKm	181.5
+Montmartre Funicular	linelengthKm	0.108
+Kure Line	linelengthKm	87
+Hanover–Berlin high-speed railway	linelengthKm	258
+Tamsui Line	linelengthKm	21.2
+Hokusō Line	linelengthKm	32.3
+Akō Line	linelengthKm	57.4
+West Rhine Railway	linelengthKm	152
+Hankyu Senri Line	linelengthKm	13.6
+U4	linelengthKm	11.3
+Wadamisaki Line	linelengthKm	2.7
+Arlberg railway	linelengthKm	136.7
+San'in Main Line	linelengthKm	676
+Wakayama Line	linelengthKm	87.5
+Sakurai Line	linelengthKm	29.4
+Silom Line	linelengthKm	14.5
+Sukhumvit Line	linelengthKm	22.25
+Ohmi Railway Yōkaichi Line	linelengthKm	9.3
+Île-de-France tramway Line 3	linelengthKm	22.4
+Tenri Line	linelengthKm	4.5
+Île-de-France tramway Line 1	linelengthKm	17
+Île-de-France tramway Line 2	linelengthKm	17.9
+Mannheim–Stuttgart high-speed railway	linelengthKm	99
+Mannheim–Frankfurt railway	linelengthKm	74.8
+East Rhine Railway	linelengthKm	179
+Taunus Railway	linelengthKm	41.2
+General Urquiza Railway	linelengthKm	2765
+Prussian Eastern Railway	linelengthKm	724.3
+Fils Valley Railway	linelengthKm	94
+Wendlingen–Ulm high-speed railway	linelengthKm	59.575
+Ulm–Augsburg railway	linelengthKm	85
+Santa Fe Western Railway	linelengthKm	120
+Nuremberg–Erfurt high-speed railway	linelengthKm	107
+Nuremberg–Erfurt high-speed railway	linelengthKm	83
+Villa María and Rufino Railway	linelengthKm	227
+Oulu–Kontiomäki railway	linelengthKm	166.1
+Dosan Line	linelengthKm	198.7
+Buenos Aires Northern Railway	linelengthKm	30
+Tōkai Transport Service Jōhoku Line	linelengthKm	11.2
+Black Forest Railway	linelengthKm	149.1
+Yoshino Line	linelengthKm	25.2
+Entre Ríos Railway	linelengthKm	1300
+Ohmi Railway Taga Line	linelengthKm	2.5
+Genoa–Ventimiglia railway	linelengthKm	147
+Yōrō Railway Yōrō Line	linelengthKm	57.5
+Miyafuku Line	linelengthKm	30.4
+Miyazu Line	linelengthKm	83.6
+Córdoba and Rosario Railway	linelengthKm	290
+Minamiaso Railway Takamori Line	linelengthKm	17.7
+Shimabara Railway Line	linelengthKm	78.5
+Kishū Railway Line	linelengthKm	2.7
+Córdoba North Western Railway	linelengthKm	152
+Keiyō Rinkai Railway Rinkai Main Line	linelengthKm	19.9
+Argentine North Eastern Railway	linelengthKm	1212
+Hendon railway line	linelengthKm	10.2
+North Argentine Railway	linelengthKm	2539
+Central Entre Ríos Railway	linelengthKm	697
+Province of Buenos Aires Railway	linelengthKm	902
+Kozani–Amyntaio railway	linelengthKm	59.4
+Rome–Lido railway	linelengthKm	28
+Silverton Tramway	linelengthKm	58
+Sangi Railway Hokusei Line	linelengthKm	20.4
+Dill Railway	linelengthKm	73
+Ethio-Djibouti Railways	linelengthKm	784
+Berlin Northern Railway	linelengthKm	222.6
+Dammam–Riyadh Line	linelengthKm	449
+Western FastRail	linelengthKm	26
+Kinuura Rinkai Railway Handa Line	linelengthKm	3.4
+Kinuura Rinkai Railway Hekinan Line	linelengthKm	8.2
+Fukuen Line	linelengthKm	85.1
+Onoda Line	linelengthKm	11.6
+Ube Line	linelengthKm	33.2
+Kishin Line	linelengthKm	158.1
+Mannheim–Saarbrücken railway	linelengthKm	130.5
+Kochelsee Railway	linelengthKm	35.5
+Delhi Suburban Railway	linelengthKm	35
+Cooyar railway line	linelengthKm	63
+Mount Pleasant railway line	linelengthKm	33.8
+Keihan Nakanoshima Line	linelengthKm	3
+Frankfurt City Link Line	linelengthKm	7.7
+Line 1	linelengthKm	18
+Line 6	linelengthKm	2.2
+Leipzig–Dresden railway	linelengthKm	116.098
+Beaudesert railway line	linelengthKm	43
+Showground Central railway line	linelengthKm	4.4
+Bavarian Forest Railway	linelengthKm	71.7
+Deggendorf–Kalteneck railway	linelengthKm	54
+Porte de Clichy	linelengthKm	22.4
+Passau–Freyung railway	linelengthKm	49.5
+Căile Ferate Române Line 300	linelengthKm	647
+Căile Ferate Române Line 1000	linelengthKm	59
+Eyre Peninsula Railway	linelengthKm	600
+Waldkirchen–Haidmühle railway	linelengthKm	25.3
+Main-Lahn Railway	linelengthKm	66.5
+Ansan Line	linelengthKm	26
+Florence–Rome high-speed railway	linelengthKm	254
+Adelaide-Wolseley railway line	linelengthKm	313
+Crystal Brook-Broken Hill railway line	linelengthKm	371
+Turin–Milan railway	linelengthKm	153
+Western railway elevated corridor	linelengthKm	63.27
+Senne Railway	linelengthKm	40
+Senne Railway	linelengthKm	7.4
+North–South Express Railway	linelengthKm	1570
+Rome–Formia–Naples railway	linelengthKm	214
+Sernftal tramway	linelengthKm	13.8
+Circumflegrea railway	linelengthKm	27.042
+Stuttgart–Hattingen railway	linelengthKm	171.62
+Mühldorf–Simbach am Inn railway	linelengthKm	40.286
+Baden main line	linelengthKm	412.7
+Odenwald Railway	linelengthKm	159.2
+Main-Neckar Railway	linelengthKm	87.5
+Wiese Valley Railway	linelengthKm	28.75
+Württemberg Western Railway	linelengthKm	52.529
+Tauber Valley Railway	linelengthKm	100.3
+Murg Valley Railway	linelengthKm	58.2
+Odenwald Railway	linelengthKm	88.1
+Odenwald Railway	linelengthKm	31.9
+Alb Valley Railway	linelengthKm	41.5
+Kraichgau Railway	linelengthKm	64.8
+Franconian Forest Railway	linelengthKm	88
+Danube Valley Railway	linelengthKm	171.4
+Lötschberg railway line	linelengthKm	74
+Danube Valley Railway	linelengthKm	164
+Black Forest Railway	linelengthKm	48.5
+Central Funicular	linelengthKm	1.234
+Rhine-Main Railway	linelengthKm	77.7
+Main–Weser Railway	linelengthKm	199.8
+Upper Rhine Railway	linelengthKm	144.3
+Neu-Ulm–Kempten railway	linelengthKm	86.65
+Brenz Railway	linelengthKm	72.476
+Reutlingen–Schelklingen railway	linelengthKm	58.25
+Děčín–Dresden-Neustadt railway	linelengthKm	65.785
+Berlin–Halle railway	linelengthKm	161.6
+Elsenz Valley Railway	linelengthKm	58
+Franconia Railway	linelengthKm	179.7
+Regensburg–Hof railway	linelengthKm	173.6
+Stuttgart-Bad Cannstatt–Aalen railway	linelengthKm	72.2
+Rench Valley Railway	linelengthKm	29.1
+Zabergäu Railway	linelengthKm	20.3
+Enz Valley Railway	linelengthKm	23.7
+Waldenburg railway	linelengthKm	13.1
+Marsh Railway	linelengthKm	211.1
+Wanne-Eickel–Hamburg railway	linelengthKm	355
+Badner Bahn	linelengthKm	30.4
+Central Swabian Railway	linelengthKm	55.124
+Berlin–Hamburg Railway	linelengthKm	284.1
+Mannheim–Karlsruhe–Basel railway	linelengthKm	270.7
+Istanbul–Ankara railway	linelengthKm	576.6
+Pelion railway	linelengthKm	28.2
+Piraeus-Perama light railway	linelengthKm	9.7
+Gyooe Line	linelengthKm	31.8
+Kiel–Flensburg railway	linelengthKm	80.7
+Milan Passante railway	linelengthKm	13
+Chiaia Funicular	linelengthKm	0.5
+Mergellina Funicular	linelengthKm	0.55
+Montesanto Funicular	linelengthKm	0.824
+Werra Railway	linelengthKm	151
+Viareggio–Florence railway	linelengthKm	100
+Pisa–Lucca railway	linelengthKm	24
+Moçâmedes Railway	linelengthKm	860
+Madrid–Leon high-speed rail line	linelengthKm	342.3
+S1	linelengthKm	72.1
+Halle–Hann. Münden railway	linelengthKm	218
+Bell Bay Line	linelengthKm	57.3
+Brenner Railway	linelengthKm	275.4
+Line 1	linelengthKm	31
+Lower Inn Valley Railway	linelengthKm	75.13
+New Lower Inn Valley railway	linelengthKm	40.236
+Rosenheim–Kufstein railway	linelengthKm	31.9
+Munich–Rosenheim railway	linelengthKm	64.9
+Saal Railway	linelengthKm	74.83
+Frankfurt Airport loop	linelengthKm	15.8
+Halle–Bebra railway	linelengthKm	210.36
+Bebra–Fulda railway	linelengthKm	66
+S2	linelengthKm	54.7
+S4	linelengthKm	33.5
+S3	linelengthKm	49
+S5	linelengthKm	28.9
+S6	linelengthKm	39.1
+S7	linelengthKm	35.2
+S8	linelengthKm	70.3
+S9	linelengthKm	66.1
+Cologne Airport loop	linelengthKm	15.2
+Cologne–Duisburg railway	linelengthKm	64
+Busan Metro Line 4	linelengthKm	10.8
+Duisburg–Dortmund railway	linelengthKm	56
+Dortmund–Hamm railway	linelengthKm	31
+Hamm–Minden railway	linelengthKm	112
+Hanover–Minden railway	linelengthKm	64.4
+Nuremberg–Bamberg railway	linelengthKm	62.4
+Nuremberg–Würzburg railway	linelengthKm	102.2
+Nantenbach Curve	linelengthKm	11.3
+Frankfurt–Hanau	linelengthKm	23
+Gruiten–Köln-Deutz railway	linelengthKm	35
+MRT Blue Line	linelengthKm	21
+Line 1	linelengthKm	10.81
+Düsseldorf–Elberfeld railway	linelengthKm	27
+Magdeburg-Leipzig railway	linelengthKm	119.2
+Rodgau Railway	linelengthKm	21.9
+Munich–Augsburg railway	linelengthKm	61.9
+Shanghai–Kunming Railway	linelengthKm	2690
+Berlin–Magdeburg railway	linelengthKm	141.9
+Brunswick–Magdeburg railway	linelengthKm	83
+Hanover–Brunswick railway	linelengthKm	61
+Hanoverian Southern Railway	linelengthKm	166
+Sieg Railway	linelengthKm	100
+Lehrte–Nordstemmen railway	linelengthKm	27
+Hildesheim loop	linelengthKm	3.7
+Weddel loop	linelengthKm	24.8
+Berlin–Lehrte railway	linelengthKm	239.3
+Berlin–Szczecin railway	linelengthKm	134.5
+Berlin North–South mainline	linelengthKm	9.053
+Berlin–Wrocław railway	linelengthKm	329.5
+Berlin–Görlitz railway	linelengthKm	207.9
+Line 2	linelengthKm	20
+Berlin–Dresden railway	linelengthKm	174.2
+Berlin-Blankenheim railway	linelengthKm	188.1
+Wannsee Railway	linelengthKm	27.8
+Anhalt Suburban Line	linelengthKm	14.9
+Kremmen Railway	linelengthKm	33.4
+Berlin outer ring	linelengthKm	125
+Baumschulenweg–Neukölln link line	linelengthKm	5.3
+Bebra–Göttingen railway	linelengthKm	80.5
+Flieden–Gemünden railway	linelengthKm	56.3
+Leipzig–Hof railway	linelengthKm	164.7
+Leipzig Hbf–Leipzig-Connewitz railway	linelengthKm	9.36
+Trebnitz–Leipzig railway	linelengthKm	81.268
+Leipzig–Großkorbetha railway	linelengthKm	32.21
+Western Railway	linelengthKm	312.2
+Magdeburg–Thale railway	linelengthKm	86.8
+Bremen–Hanover railway	linelengthKm	122.3
+Hamburg-Altona–Kiel railway	linelengthKm	105.6
+Bebra–Baunatal-Guntershausen railway	linelengthKm	44.3
+Kronberg Railway	linelengthKm	9.5
+Limes Railway	linelengthKm	5.2
+Offenbach City Tunnel	linelengthKm	3.7
+Soden Railway	linelengthKm	6.6
+Frankfurt-Hanau Railway	linelengthKm	20
+Mainz–Ludwigshafen railway	linelengthKm	67.3
+Węgliniec–Roßlau railway	linelengthKm	233.2
+Jüterbog–Röderau railway	linelengthKm	142.04
+Nuremberg–Augsburg railway	linelengthKm	137.1
+Ries Railway	linelengthKm	68.6
+Treuchtlingen–Würzburg railway	linelengthKm	140.2
+Augsburg–Buchloe railway	linelengthKm	39.895
+Allgäu Railway	linelengthKm	220.9
+Munich–Garmisch-Partenkirchen railway	linelengthKm	100.6
+Nuremberg–Regensburg railway	linelengthKm	100.6
+Görlitz–Dresden railway	linelengthKm	102.1
+Oldenburg–Bremen railway	linelengthKm	44.4
+Köthen–Aschersleben railway	linelengthKm	43.7
+Ludwigslust–Wismar railway	linelengthKm	67.7
+Maceió Urban Rail	linelengthKm	32.1
+Riesa–Chemnitz railway	linelengthKm	66.03
+Carl's Railway	linelengthKm	16.5
+Incheon Airport Maglev	linelengthKm	6.1
+Hamm–Warburg railway	linelengthKm	131
+Münster–Hamm railway	linelengthKm	36
+Dortmund–Enschede railway	linelengthKm	103
+Dortmund–Soest railway	linelengthKm	54
+Septemvri-Dobrinishte narrow gauge line	linelengthKm	125
+Friedrichroda Railway	linelengthKm	18.8
+Magdeburg-Wittenberge railway	linelengthKm	112.5
+Duisburg-Ruhrort–Mönchengladbach railway	linelengthKm	42
+Lower Left Rhine Railway	linelengthKm	120
+Spyck–Welle train ferry	linelengthKm	18.8
+Cross River Rail	linelengthKm	10.2
+Oberhausen–Arnhem railway	linelengthKm	92
+Ruhr Valley Railway	linelengthKm	80
+Essen-Werden–Essen railway	linelengthKm	8.8
+Oatlands Railway	linelengthKm	0.7
+Bützow–Szczecin railway	linelengthKm	195.6
+Lübeck–Lüneburg railway	linelengthKm	77.3
+Lübeck–Hamburg railway	linelengthKm	62.8
+Hamburg City S-Bahn	linelengthKm	5.38
+Altona–Blankenese railway	linelengthKm	18
+Alster Valley Railway	linelengthKm	5.7
+Harburg S-Bahn	linelengthKm	22
+Würzburg–Bamberg railway	linelengthKm	92.2
+Bayreuth–Neuenmarkt-Wirsberg railway	linelengthKm	21
+Husum–Bad St. Peter-Ording railway	linelengthKm	44
+Löhne–Rheine railway	linelengthKm	124
+Oldenburg–Leer railway	linelengthKm	55
+Münster–Rheine railway	linelengthKm	39
+Dresden–Werdau railway	linelengthKm	136.304
+Dresden–Werdau railway	linelengthKm	8.25
+Löbau–Zittau railway	linelengthKm	33.95
+Glauchau–Gößnitz railway	linelengthKm	12.373
+Zwickau–Schwarzenberg railway	linelengthKm	38.132
+Nuremberg–Cheb railway	linelengthKm	151.4
+Lahn Valley Railway	linelengthKm	104
+Paris–Bordeaux railway	linelengthKm	584
+Koblenz–Trier railway	linelengthKm	113
+Lollar–Wetzlar railway	linelengthKm	18
+Gotha–Leinefelde railway	linelengthKm	67.1
+Leinefelde–Treysa railway	linelengthKm	130
+Hindenburg Bridge	linelengthKm	6.7
+Khunjerab Railway	linelengthKm	682
+Nahe Valley Railway	linelengthKm	141.8
+Coburg–Sonneberg railway	linelengthKm	19.5
+Line 6	linelengthKm	15.9
+Nuremberg–Schwandorf railway	linelengthKm	93.7
+Halle–Vienenburg railway	linelengthKm	123.2
+Karlsruhe–Mühlacker railway	linelengthKm	43.5
+Neckarelz–Osterburken railway	linelengthKm	30.9
+Steinsfurt–Eppingen railway	linelengthKm	12.9
+Betzdorf–Haiger railway	linelengthKm	36.4
+Orléans–Montauban railway	linelengthKm	544
+Ruhr–Sieg railway	linelengthKm	106
+Buenos Aires Great Southern Railway	linelengthKm	8149
+Nagahori Tsurumi-ryokuchi Line	linelengthKm	15
+Sennichimae Line	linelengthKm	12.6
+Sakaisuji Line	linelengthKm	8.1
+Tanimachi Line	linelengthKm	28.1
+Leipzig–Probstzella railway	linelengthKm	159.97
+Gera–Gößnitz railway	linelengthKm	35.042
+Weimar–Gera railway	linelengthKm	68
+U1	linelengthKm	12.3
+U2	linelengthKm	16.6
+U3	linelengthKm	19.3
+U5	linelengthKm	7.6
+U6	linelengthKm	8.7
+U7	linelengthKm	11.8
+U8	linelengthKm	12.1
+Neudietendorf–Ritschenhausen railway	linelengthKm	75
+Naples–Aversa railway	linelengthKm	10.5
+Turgi–Koblenz–Waldshut railway line	linelengthKm	16.65
+Basel Connecting Line	linelengthKm	4.4
+Siegburg–Olpe railway	linelengthKm	73.6
+Plochingen–Tübingen railway	linelengthKm	71
+Bruhrain Railway	linelengthKm	25.62
+Kraich Valley Railway	linelengthKm	19.2
+Katzbach Railway	linelengthKm	27.3
+Crailsheim–Heilbronn railway	linelengthKm	88.1
+Eutingen im Gäu–Freudenstadt railway	linelengthKm	29.9
+Tübingen–Horb railway	linelengthKm	31.5
+Teck Railway	linelengthKm	17.422
+Freiburg–Colmar railway	linelengthKm	44.1
+Bruchsal Rollenberg junction	linelengthKm	2.8
+Bruchsal Rollenberg junction	linelengthKm	2.1
+Nürtingen–Neuffen railway	linelengthKm	8.9
+Waiblingen–Schwäbisch Hall railway	linelengthKm	60.696
+Rankbach Railway	linelengthKm	14.253
+Nuremberg–Crailsheim railway	linelengthKm	90.4
+Borsdorf–Coswig railway	linelengthKm	102.649
+Kunming–Singapore railway	linelengthKm	3900
+Pünderich–Traben-Trarbach railway	linelengthKm	10.4
+Rhein-Express	linelengthKm	226
+Hurontario LRT	linelengthKm	20
+NRW-Express	linelengthKm	296
+Koralm Railway	linelengthKm	127
+Ningbo–Taizhou–Wenzhou Railway	linelengthKm	275
+Line 1, Kolkata Metro	linelengthKm	27.39
+Shanghai–Kunming High-Speed Railway	linelengthKm	2066
+Pink Line	linelengthKm	12.067
+Orange Line	linelengthKm	23.099
+M2	linelengthKm	23.5
+Rhein-Sieg-Express	linelengthKm	171
+M4	linelengthKm	26.5
+Jinhua–Wenzhou Railway	linelengthKm	252
+Hanover–Altenbeken railway	linelengthKm	110.9
+Xiaoshan–Ningbo Railway	linelengthKm	147.32
+Deister Railway	linelengthKm	25.4
+Beijing–Qinhuangdao Railway	linelengthKm	294
+Eifel Railway	linelengthKm	163.5
+Rhein-Erft-Express	linelengthKm	156
+Westfalen-Express	linelengthKm	220
+Düsseldorf-Derendorf–Dortmund Süd railway	linelengthKm	78
+Rhein-Münsterland-Express	linelengthKm	248
+Wupper-Express	linelengthKm	171
+Edirne cut-off	linelengthKm	80
+Maas-Wupper-Express	linelengthKm	160
+Rhein-Hellweg-Express	linelengthKm	186
+Furusato Ginga Line	linelengthKm	140
+Rhein-Haard-Express	linelengthKm	144
+Rhein-Haard-Express	linelengthKm	123
+Rhein-Emscher-Express	linelengthKm	109
+Pau–Canfranc railway	linelengthKm	93
+Cologne–Lindlar railway	linelengthKm	447
+Mumbai–Ahmedabad high-speed rail corridor	linelengthKm	508
+Osterath–Dortmund Süd railway	linelengthKm	76
+Western line	linelengthKm	123.78
+Wuppertal-Oberbarmen–Solingen railway	linelengthKm	35
+Rhein-Wupper-Bahn	linelengthKm	97
+San'yō Main Line	linelengthKm	537.1
+Mainz rail bypass	linelengthKm	15.1
+Thiruvananthapuram–Mangalore high-speed passenger corridor	linelengthKm	630
+Ancona–Orte railway	linelengthKm	212
+Lübeck–Puttgarden railway	linelengthKm	88.6
+VnK Railway	linelengthKm	7.8
+Eberswalde–Frankfurt	linelengthKm	86
+Wriezen Railway	linelengthKm	95.1
+Schöneweide–Spindlersfeld branch line	linelengthKm	4.1
+Little Ring of the Moscow Railway	linelengthKm	54
+Heimbach	linelengthKm	9
+Vejprty–Annaberg-Buchholz railway	linelengthKm	19.016
+Wilhelmshaven–Oldenburg railway	linelengthKm	52.4
+Wuppertal-Oberbarmen–Opladen railway	linelengthKm	41.3
+Rheinfall railway	linelengthKm	29.92
+Tübingen–Sigmaringen railway	linelengthKm	87.5
+Pakchon Line	linelengthKm	9.3
+Tasado Line	linelengthKm	24.1
+Tŏkhyŏn Line	linelengthKm	37.3
+Songrim Line	linelengthKm	13.1
+Changyon Line	linelengthKm	17.7
+Sohae Kammun Line	linelengthKm	26.7
+Taean Line	linelengthKm	12
+Ryonggang Line	linelengthKm	15.2
+Northern Line	linelengthKm	339
+Biessenhofen–Füssen railway	linelengthKm	37.133
+Mittenwald Railway	linelengthKm	63.7
+Ŭnsan Line	linelengthKm	41.7
+Kowŏn T'an'gwang Line	linelengthKm	17.6
+Sinhung Line	linelengthKm	91.6
+Changjin Line	linelengthKm	58.6
+Mandŏk Line	linelengthKm	10.3
+Kangdŏk Line	linelengthKm	15.2
+Allgäu Railway	linelengthKm	40.6
+Hoeryŏng T'an'gwang Line	linelengthKm	10.6
+Hoeam Line	linelengthKm	10.4
+Kogŏnwŏn Line	linelengthKm	9.8
+Hongŭi Line	linelengthKm	9.5
+Wolkramshausen–Erfurt railway	linelengthKm	71
+Trincomalee Line	linelengthKm	70
+Batticaloa Line	linelengthKm	212
+Mannar Line	linelengthKm	106
+Ingolstadt–Treuchtlingen railway	linelengthKm	55.8
+West Dalarna Line	linelengthKm	129
+Vogelsberg Railway	linelengthKm	105.9
+Tua line	linelengthKm	133.8
+Gießen–Gelnhausen railway	linelengthKm	67.9
+Haltern–Venlo railway	linelengthKm	90.2
+Limburg–Altenkirchen railway	linelengthKm	65.1
+Großenhain–Cottbus railway	linelengthKm	79.7
+Winterthur–Etzwilen railway line	linelengthKm	31.81
+Upper Ruhr Valley Railway	linelengthKm	138
+Bilaspur–Mandi–Leh railway	linelengthKm	500
+Jammu–Poonch railway line	linelengthKm	234
+Marecka Kolej Dojazdowa	linelengthKm	20
+Salta–Antofagasta railway	linelengthKm	941
+Busenbach–Ittersbach railway	linelengthKm	14.4
+Weil am Rhein–Lörrach railway	linelengthKm	4.836
+Freiburg freight bypass railway	linelengthKm	11.1
+Offenbach-Bieber–Dietzenbach railway	linelengthKm	9.6
+CST–Panvel fast corridor	linelengthKm	48.3
+Aarhus Letbane	linelengthKm	107
+The Maharaja Railways of India	linelengthKm	199
+Hunsrück Railway	linelengthKm	53.5
+Saarbrücken–Sarreguemines railway	linelengthKm	18
+Biebermühl Railway	linelengthKm	35.9
+Coastal Line	linelengthKm	157.88
+Main-Sieg-Express	linelengthKm	139
+Hagen–Dieringhausen railway	linelengthKm	61
+Breckenheim–Wiesbaden railway	linelengthKm	13
+Assensbanen	linelengthKm	29.2
+Bairabi Sairang Railway	linelengthKm	84.25
+Mendrisio–Stabio railway	linelengthKm	5.148
+Valmorea railway	linelengthKm	31.194
+Luino–Oleggio railway	linelengthKm	51
+Radolfzell–Mengen railway	linelengthKm	56.78
+M5	linelengthKm	20
+Sütlaç-Çivril railway	linelengthKm	30
+FL1	linelengthKm	118
+Stuttgart-Untertürkheim–Kornwestheim railway	linelengthKm	11.5
+FL7	linelengthKm	137.4
+FL8	linelengthKm	60
+FL6	linelengthKm	137
+FL2	linelengthKm	40
+Suzhou–Jiaxing Railway	linelengthKm	74.44
+Rome–Civitacastellana–Viterbo railway	linelengthKm	102
+Line S1	linelengthKm	55
+Sassari-Tempio-Palau railway	linelengthKm	150
+Line S2	linelengthKm	34
+Line S3	linelengthKm	21
+Line S4	linelengthKm	23
+Line S5	linelengthKm	93
+Line S6	linelengthKm	84
+Line S8	linelengthKm	50
+Line S13	linelengthKm	32
+Lake Constance Belt Railway	linelengthKm	74.355
+Confederation Line	linelengthKm	12.5
+Milan–Asso railway	linelengthKm	50
+Buchloe–Memmingen railway	linelengthKm	46.1
+Immenstadt–Oberstdorf railway	linelengthKm	20.704
+Kißlegg–Hergatz railway	linelengthKm	18.589
+Leutkirch–Memmingen railway	linelengthKm	31.54
+Vorarlberg Railway	linelengthKm	67.746
+Wels–Passau railway	linelengthKm	83
+Rosenheim–Salzburg railway	linelengthKm	88.6
+Freilassing–Berchtesgaden railway	linelengthKm	33.671
+Munich–Mühldorf railway	linelengthKm	84.676
+Markt Schwaben–Erding railway	linelengthKm	13.6
+Mühldorf–Freilassing railway	linelengthKm	65.6
+Grafing–Wasserburg railway	linelengthKm	29.1
+Munich-Giesing–Kreuzstraße railway	linelengthKm	27.9
+Isar Valley Railway	linelengthKm	51.1
+Balranald railway line	linelengthKm	193.53
+Munich North Ring	linelengthKm	30.4
+Dachau–Altomünster railway	linelengthKm	29.9
+Liepāja–Ventspils Railway	linelengthKm	121
+Nuremberg–Roth railway	linelengthKm	25.5
+Feucht–Altdorf railway	linelengthKm	11.6
+Nuremberg Ring Railway	linelengthKm	30
+Diamond Valley Railway	linelengthKm	1.95
+Worms–Bingen Stadt railway	linelengthKm	62.9
+Matale Line	linelengthKm	33.8
+Lauter Valley Railway	linelengthKm	34.5
+Landstuhl–Kusel railway	linelengthKm	28.7
+Valšov–Rýmařov railway	linelengthKm	14.083
+Štúrovo–Čata–Levice railway	linelengthKm	52
+Zvolen–Čata railway	linelengthKm	106
+Thionville–Trier railway	linelengthKm	70.1
+Trier West Railway	linelengthKm	14
+Ahr Valley Railway	linelengthKm	42.4
+Dümpelfeld–Lissendorf railway	linelengthKm	44
+Düren–Neuss railway	linelengthKm	49
+Limburg-Staffel–Siershahn railway	linelengthKm	29.8
+Sevnica–Trebnje Railway	linelengthKm	31.2
+Voreifel Railway	linelengthKm	34.2
+Lecco–Milan railway	linelengthKm	50
+Lecco–Brescia railway	linelengthKm	82
+Como–Lecco railway	linelengthKm	39
+Monza–Molteno–Lecco railway	linelengthKm	41
+Seregno–Bergamo railway	linelengthKm	40
+Pavia–Mantua railway	linelengthKm	136
+Brescia–Cremona railway	linelengthKm	50
+Duisburg-Ruhrort–Dortmund railway	linelengthKm	61
+Tirano–Lecco railway	linelengthKm	105
+Colico–Chiavenna railway	linelengthKm	26
+Calalzo–Padua railway	linelengthKm	155
+Treviglio–Cremona railway	linelengthKm	65
+Pavia–Stradella railway	linelengthKm	35
+Bochum–Gelsenkirchen railway	linelengthKm	17.8
+Arona–Novara railway	linelengthKm	105
+Gelsenkirchen-Bismarck–Winterswijk railway	linelengthKm	59
+Duisburg–Quakenbrück railway	linelengthKm	173
+Duisburg–Quakenbrück railway	linelengthKm	35
+Vercelli–Pavia railway	linelengthKm	67
+Lower Ruhr Valley Railway	linelengthKm	14.7
+Letmathe–Fröndenberg railway	linelengthKm	25
+Ruhr-Sieg-Express	linelengthKm	153
+Sauerland-Express	linelengthKm	209
+Line 1, Nanchang Metro	linelengthKm	28.737
+Line 2, Nanchang Metro	linelengthKm	23.3
+Cremona–Fidenza railway	linelengthKm	34
+Piacenza–Cremona railway	linelengthKm	31
+Termoli–Venafro railway	linelengthKm	169
+Pavia–Alessandria railway	linelengthKm	63
+Novara–Alessandria railway	linelengthKm	67
+Battipaglia–Reggio di Calabria railway	linelengthKm	374
+Venice–Trieste railway	linelengthKm	153
+Budapest–Murakeresztúr railway	linelengthKm	235
+Cancello–Benevento railway	linelengthKm	103
+Borjomi-Bakuriani railway %22Kukushka%22	linelengthKm	38
+Line 1	linelengthKm	23.4
+Florence–Faenza railway	linelengthKm	101
+Barcelona–Cerbère railway	linelengthKm	168.1
+Northern Line	linelengthKm	751
+Oberbergische Bahn	linelengthKm	67
+Brügge–Lüdenscheid railway	linelengthKm	7
+Mangu Line	linelengthKm	4.9
+Casarsa–Portogruaro railway	linelengthKm	21
+Sydbanen	linelengthKm	142.3
+M3	linelengthKm	15.9
+Chiang Mai Main Line	linelengthKm	751.42
+Sawankhalok Line	linelengthKm	29
+Herford–Himmighausen railway	linelengthKm	47.3
+Ubon Ratchathani Main Line	linelengthKm	575.1
+Faenza–Lavezzola railway	linelengthKm	39
+Nocera Inferiore–Mercato San Severino railway	linelengthKm	12
+Suphan Buri Line	linelengthKm	78
+Bassum–Herford railway	linelengthKm	101
+Warendorf Railway	linelengthKm	50
+Warendorf Railway	linelengthKm	24
+Osnabrück–Brackwede railway	linelengthKm	53
+Ems-Leine-Express	linelengthKm	270.4
+M7	linelengthKm	24.5
+Weser-Leine-Express	linelengthKm	109.4
+Western Dedicated Freight Corridor	linelengthKm	1483
+Eastern Dedicated Freight Corridor	linelengthKm	1839
+Line 3	linelengthKm	33.05
+Echigo Tokimeki Railway	linelengthKm	37.7
+Echigo Tokimeki Railway	linelengthKm	59.3
+Southern Line	linelengthKm	1144.29
+Eastern Line	linelengthKm	255
+Lopburi Line	linelengthKm	132.81
+Kaeng Khoi Line	linelengthKm	125.1
+Göttingen–Bodenfelde railway	linelengthKm	36.78
+Hildesheim–Goslar railway	linelengthKm	53.4
+Ferrocarril Económico Correntino	linelengthKm	220
+Weser-Bahn	linelengthKm	110
+Panay Railways	linelengthKm	117
+Hamburg freight rail bypass	linelengthKm	61.1
+International Rhine Regulation Railway	linelengthKm	25
+Hamburg-Altona–Neumünster railway	linelengthKm	75
+Heide–Büsum railway	linelengthKm	24
+Neumünster–Bad Oldesloe railway	linelengthKm	63
+Lübeck–Lübeck-Travemünde Strand railway	linelengthKm	20.6
+Pinnaroo railway line, South Australia	linelengthKm	265.2
+Loxton railway line	linelengthKm	271
+Moorook railway line	linelengthKm	49.6
+Bari–Martina Franca–Taranto railway	linelengthKm	113
+Environmentally Friendly Linkage System	linelengthKm	9
+Odense Letbane	linelengthKm	21
+Stralsund–Rostock railway	linelengthKm	72
+Halle–Cottbus railway	linelengthKm	176
+Leipzig–Eilenburg railway	linelengthKm	24.66
+Île-de-France tramway Line 5	linelengthKm	6.6
+Morgan railway line	linelengthKm	129
+Bari–Taranto railway	linelengthKm	104
+Martina Franca–Lecce railway	linelengthKm	103
+Uda Pussellawa railway	linelengthKm	31
+Battipaglia–Metaponto railway	linelengthKm	198
+Bari-Casamassima-Putignano railway	linelengthKm	43
+Peebinga railway line	linelengthKm	106.2
+Apeldoorn–Zwolle railway	linelengthKm	36.7
+Jonica railway	linelengthKm	472
+Lübbenau–Kamenz railway	linelengthKm	70.8
+Sarajevo-Ploče railway	linelengthKm	194
+Cottbus–Guben railway	linelengthKm	37.7
+Gyeongui–Jungang Line	linelengthKm	124.5
+Île-de-France tramway Line 6	linelengthKm	40
+BaT Tunnel	linelengthKm	4
+Rome–Sulmona–Pescara railway	linelengthKm	240
+Waikerie railway line	linelengthKm	119
+Novoli-Gagliano del Capo railway	linelengthKm	75
+Gallipoli–Casarano railway	linelengthKm	22
+Zollino–Gallipoli railway	linelengthKm	34
+Lecce–Otranto railway	linelengthKm	47
+Maglie–Gagliano del Capo railway	linelengthKm	37
+Milang railway line	linelengthKm	13.1
+Jüterbog–Nauen railway	linelengthKm	90.1
+Sedan railway line	linelengthKm	69.7
+Fisherman Islands railway line	linelengthKm	24
+Michendorf–Großbeeren railway	linelengthKm	20.3
+Tren de los Pueblos Libres	linelengthKm	813
+Berlin-Lichterfelde Süd–Teltow Stadt railway	linelengthKm	2.8
+Comodoro Rivadavia Railway	linelengthKm	208
+Puerto Deseado Railway	linelengthKm	286
+Península Valdés Railway	linelengthKm	32
+Sahel Metro	linelengthKm	73
+Heuberg Railway	linelengthKm	17.9
+Hunsrückquerbahn	linelengthKm	110.4
+Zeithain–Elsterwerda railway	linelengthKm	20.05
+SkyLine	linelengthKm	3.8
+Weißig–Böhla railway	linelengthKm	7.425
+Addis Ababa–Djibouti Railway	linelengthKm	756
+Großenhain–Priestewitz railway	linelengthKm	5.034
+Green Line	linelengthKm	22
+Santhià–Biella railway	linelengthKm	27
+Very Fast Train Joint Venture	linelengthKm	854
+Epsom Salts Monorail	linelengthKm	45
+Mount Gambier railway line	linelengthKm	183.2
+Île-de-France tramway Line 8	linelengthKm	8.46
+Donghae Line	linelengthKm	35.1
+Khanewal–Wazirabad railway line	linelengthKm	325
+Shahdara Bagh–Chak Amru railway line	linelengthKm	91
+Shahdara Bagh–Sangla Hill railway line	linelengthKm	91
+Mombasa-Nairobi Standard Gauge Railway	linelengthKm	485
+Biella–Novara railway	linelengthKm	51
+Novara–Varallo railway	linelengthKm	54
+Bobingen–Landsberg am Lech railway	linelengthKm	27.4
+Fox Valley railway	linelengthKm	28.7
+Tarrawingee Tramway	linelengthKm	64.37
+Busan Metro Line 5	linelengthKm	6.9
+U4	linelengthKm	11.9
+Pamban–Dhanushkodi branch line	linelengthKm	30
+Spalding railway line	linelengthKm	83.8
+U3	linelengthKm	20.68
+Chernihiv–Ovruch railway	linelengthKm	1775
+Roseworthy-Peterborough railway line	linelengthKm	199.1
+Hamley Bridge-Gladstone railway line	linelengthKm	147.7
+Oldenburg–Osnabrück railway	linelengthKm	113
+Delmenhorst–Hesepe railway	linelengthKm	88
+Santhià–Arona railway	linelengthKm	65
+Chivasso–Ivrea–Aosta railway	linelengthKm	100
+Milan–Verona high-speed railway	linelengthKm	165
+Dresden-Klotzsche–Dresden Airport railway	linelengthKm	4.12
+Poznań–Szczecin railway	linelengthKm	213
+Western Entrance to the Riedbahn	linelengthKm	9.5
+Darmstadt–Worms railway	linelengthKm	43.5
+Weinheim–Worms railway	linelengthKm	30.8
+Robertstown railway line	linelengthKm	21.6
+Peterborough–Quorn railway line	linelengthKm	130.2
+Worms–Rosengarten train ferry	linelengthKm	11
+Balaklava-Moonta railway line	linelengthKm	109.4
+Wilmington railway line	linelengthKm	87.5
+Kadina-Brinkworth railway line	linelengthKm	95.3
+Waghäusel Saalbach–Graben-Neudorf railway	linelengthKm	7.94
+M8	linelengthKm	14.2
+Karlsruhe–Basel high-speed railway	linelengthKm	182
+Müllheim–Mulhouse railway	linelengthKm	22.14
+Sulechów–Luboń railway line	linelengthKm	112
+U2	linelengthKm	24.543
+U1	linelengthKm	55.383
+Poznań–Skandawa railway	linelengthKm	389.875
+Heilbronn Stadtbahn	linelengthKm	6
+Semmering Base Tunnel	linelengthKm	27.3
+L202 railway	linelengthKm	10.823
+M9	linelengthKm	13
+Erms Valley Railway	linelengthKm	12260
+Rottweil–Villingen railway	linelengthKm	26.787
+Trossingen Railway	linelengthKm	3.9
+Hohenzollerische Landesbahn	linelengthKm	27.9
+Hohenzollerische Landesbahn	linelengthKm	27
+Hohenzollerische Landesbahn	linelengthKm	42.9
+Hohenzollerische Landesbahn	linelengthKm	9.7
+Ammer Valley Railway	linelengthKm	21.4
+Line 7	linelengthKm	16.5
+Terni–Sulmona railway	linelengthKm	164
+Warsaw–Kunowice railway	linelengthKm	475
+Warsaw–Grodzisk Mazowiecki railway	linelengthKm	32
+Depietri Railways and Elevators	linelengthKm	68
+Karachi–Peshawar Railway Line	linelengthKm	1687
+Quetta–Taftan Railway Line	linelengthKm	523
+Rohri–Chaman Railway Line	linelengthKm	523
+Moscow Central Circle	linelengthKm	54
+Kotri–Attock Railway Line	linelengthKm	1519
+East Coast Dedicated Freight Corridor	linelengthKm	1100
+Lodhran–Raiwind Branch Line	linelengthKm	125
+Lahore–Wagah Branch Line	linelengthKm	25
+Reda–Hel railway	linelengthKm	62
+Rigi–Scheidegg railway	linelengthKm	6.7
+Warsaw–Gdańsk railway	linelengthKm	323.393
+Ceva–Ormea railway	linelengthKm	35
+Trafford Park Line	linelengthKm	5.5
+Hyderabad–Khokhrapar Branch Line	linelengthKm	211
+Hyderabad–Badin Branch Line	linelengthKm	109

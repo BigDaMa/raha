@@ -1,0 +1,201 @@
+Erie Canal	join	Champlain Canal
+Erie Canal	join	Welland Canal
+Grand Canal	join	Hai River
+Grand Canal	join	Yellow River
+Grand Canal	join	Huai River
+Grand Canal	join	Yangzi River
+Grand Canal	join	Qiantang River
+Lancaster Canal	join	River Lune
+Lancaster Canal	join	Ribble Link
+River Gipping	join	River Orwell
+New Bedford River	join	River Great Ouse
+Kennet and Avon Canal	join	Somerset Coal Canal
+Kennet and Avon Canal	join	Wilts and Berks Canal
+Stratford-upon-Avon Canal	join	Worcester and Birmingham Canal
+Stratford-upon-Avon Canal	join	Grand Union Canal
+Stratford-upon-Avon Canal	join	River Avon
+Trent and Mersey Canal	join	Bridgewater Canal
+Birmingham and Fazeley Canal	join	BCN Main Line
+Birmingham and Fazeley Canal	join	Coventry Canal
+Birmingham and Fazeley Canal	join	Grand Union Canal
+Birmingham and Fazeley Canal	join	Tame Valley Canal
+Thames and Severn Canal	join	River Thames
+Thames and Severn Canal	join	Stroudwater Navigation
+Thames and Severn Canal	join	Wilts & Berks Canal
+Herefordshire and Gloucestershire Canal	join	River Severn
+Sheffield and South Yorkshire Navigation	join	River Trent
+Sheffield and South Yorkshire Navigation	join	Aire and Calder Navigation
+Liskeard and Looe Union Canal	join	River Looe
+Chesapeake and Ohio Canal	join	Alexandria Canal (Virginia), Goose Creek & Little River Navigation
+Foss Dyke	join	River Trent
+Foss Dyke	join	River Witham
+Manchester Ship Canal	join	River Bollin
+Manchester Ship Canal	join	Glaze Brook
+Manchester Ship Canal	join	River Mersey
+Manchester Ship Canal	join	River Irwell
+Manchester Ship Canal	join	Bridgewater Canal
+Manchester Ship Canal	join	Shropshire Union Canal
+Manchester Ship Canal	join	Weaver Navigation
+Bergse Maas	join	River Donge, river Oude Maasje
+Basingstoke Canal	join	Wey Navigation
+Bridgewater Canal	join	Rochdale Canal
+Bridgewater Canal	join	Trent and Mersey Canal
+Bridgewater Canal	join	Leeds and Liverpool Canal
+Bridgewater Canal	join	Manchester Ship Canal
+Shropshire Union Canal	join	Llangollen Canal
+Grand Canal	join	River Shannon
+Limehouse Cut	join	Lee Navigation
+Royal Canal	join	River Shannon
+Grantham Canal	join	River Trent
+Morris Canal	join	--10-01
+Ashton Canal	join	Huddersfield Narrow Canal, Peak Forest Canal, Rochdale Canal
+Croydon Canal	join	Grand Surrey Canal
+Sankey Canal	join	River Mersey
+Union Canal	join	Schuylkill Canal
+Union Canal	join	Main Line of Public Works
+Baybridge Canal	join	River Adur
+Bentley Canal	join	Wyrley and Essington Canal
+Bentley Canal	join	Anson Branch
+Bow Back Rivers	join	Lee Navigation
+Bow Back Rivers	join	River Lea
+Bow Back Rivers	join	Bow Creek
+Huddersfield Broad Canal	join	Calder and Hebble Navigation
+Huddersfield Broad Canal	join	Huddersfield Narrow Canal
+Stort Navigation	join	River Lee Navigation
+Cromford Canal	join	Erewash Canal, Nottingham Canal
+Dearne and Dove Canal	join	River Don Navigation, Barnsley Canal
+Derby Canal	join	Trent and Mersey Canal
+Derby Canal	join	Erewash Canal
+Droitwich Canal	join	Worcester and Birmingham Canal, River Severn
+Peak Forest Canal	join	Ashton Canal
+Peak Forest Canal	join	Macclesfield Canal
+Hatherton Canal	join	Staffordshire and Worcestershire Canal
+Hatherton Canal	join	Cannock Extension Canal
+Grand Surrey Canal	join	River Thames
+Nottingham Canal	join	River Trent
+Somerset Coal Canal	join	Kennet and Avon Canal
+Macclesfield Canal	join	Peak Forest Canal
+Macclesfield Canal	join	Trent and Mersey Canal
+Main Line of Public Works	join	Delaware River
+Main Line of Public Works	join	Schuylkill Canal
+Main Line of Public Works	join	Transportation in Lancaster County, Pennsylvania
+Main Line of Public Works	join	Susquehanna and Tidewater Canal
+Main Line of Public Works	join	Codorus Navigation
+Main Line of Public Works	join	Union Canal
+Main Line of Public Works	join	Pennsylvania Canal
+Main Line of Public Works	join	Allegheny River
+Main Line of Public Works	join	Monongahela River
+Main Line of Public Works	join	Ohio River
+Main Line of Public Works	join	Ashley Planes
+Main Line of Public Works	join	Lehigh and Susquehanna Railroad
+Main Line of Public Works	join	Lehigh Canal
+Main Line of Public Works	join	Delaware Canal
+Shrewsbury Canal	join	Shropshire Union Canal
+Shrewsbury Canal	join	Shropshire Canal
+Shrewsbury Canal	join	Donnington Wood Canal
+Stockport Branch Canal	join	Ashton Canal
+Beat Bank Branch Canal	join	Stockport Branch Canal
+Driffield Navigation	join	River Hull
+Sheffield Canal	join	River Don Navigation
+New Junction Canal	join	Aire and Calder Navigation
+New Junction Canal	join	River Don Navigation
+Market Weighton Canal	join	River Humber
+Coombe Hill Canal	join	River Severn
+Oswego Canal	join	Erie Canal
+Junction Canal	join	Chemung Canal
+Junction Canal	join	Pennsylvania Canal
+Black River Canal	join	Erie Canal
+Buckingham Arm	join	Grand Union Canal
+Stourbridge Canal	join	Staffordshire and Worcestershire Canal
+Stourbridge Canal	join	Dudley Canal
+Aike Beck	join	River Hull
+Ketley Canal	join	Shropshire Canal
+Stainforth and Keadby Canal	join	River Don Navigation
+Stainforth and Keadby Canal	join	River Trent
+Pocklington Canal	join	River Derwent, Yorkshire
+Dudley Canal	join	Birmingham Canal Navigations
+Coalisland Canal	join	River Blackwater, Northern Ireland
+Strabane Canal	join	River Foyle
+Prescott Channel	join	Bow Back Rivers
+Oakham Canal	join	Melton Mowbray Navigation
+Pennsylvania and Ohio Canal	join	Beaver and Erie Canal
+Pennsylvania and Ohio Canal	join	Ohio and Erie Canal
+Stamford Canal	join	River Welland
+Nutbrook Canal	join	Erewash Canal
+Grosvenor Canal	join	River Thames
+Greasbrough Canal	join	River Don Navigation
+Wey and Godalming Navigations	join	Basingstoke Canal
+Wey and Godalming Navigations	join	Wey and Arun Junction Canal
+Dukart's Canal	join	Coalisland Canal
+Stover Canal	join	River Teign
+Augustów Canal	join	Bystry Canal
+Manchester and Salford Junction Canal	join	Rochdale Canal
+Dingwall Canal	join	Cromarty Firth
+Melton Mowbray Navigation	join	Grand Union Canal
+Middle Level Navigations	join	River Nene, River Great Ouse
+Forth and Cart Canal	join	Forth and Clyde Canal
+Forth and Cart Canal	join	River Clyde
+Cannock Extension Canal	join	Wyrley and Essington Canal
+Stroudwater Navigation	join	River Severn
+Stroudwater Navigation	join	Thames and Severn Canal
+Salisbury and Southampton Canal	join	Andover Canal
+Salisbury and Southampton Canal	join	River Test
+Salisbury and Southampton Canal	join	River Itchen, Hampshire
+Selby Canal	join	Aire and Calder Navigation
+Selby Canal	join	River Ouse
+Shropshire Canal	join	Donnington Wood Canal
+Shropshire Canal	join	Ketley Canal
+Shropshire Canal	join	Wombridge Canal
+Ripon Canal	join	River Ure
+Shannon–Erne Waterway	join	River Shannon
+Rother Link	join	Chesterfield Canal
+Rother Link	join	River Don Navigation
+Aberdare Canal	join	Glamorganshire Canal
+City Canal	join	River Thames
+Middlewich Branch	join	Trent and Mersey Canal
+Bald Eagle and Spring Creek Navigation	join	Pennsylvania Canal
+River Don Navigation	join	New Junction Canal, Stainforth and Keadby Canal, Sheffield Canal
+Pidcock's Canal	join	originally Lydney Pill; Lydney Canal from 1813
+Galton's Canal	join	River Brue
+Donnington Wood Canal	join	Wombridge Canal
+Donnington Wood Canal	join	Shropshire Canal
+Ridgacre Branch	join	Wednesbury Old Canal
+Wombridge Canal	join	Shrewsbury Canal
+Wombridge Canal	join	Donnington Wood Canal
+Beaver and Erie Canal	join	Ohio River, Sandy and Beaver Canal, Pennsylvania and Ohio Canal, French Creek Feeder, Lake Erie
+Pennsylvania Canal	join	Pennsylvania Canal
+Pennsylvania Canal	join	Pennsylvania Canal
+Pennsylvania Canal	join	Main Line of Public Works
+Pennsylvania Canal	join	Wiconisco Canal
+Leiper Canal	join	Delaware River
+Codorus Navigation	join	Susquehanna River
+Thanet Canal	join	Leeds and Liverpool Canal
+Wisbech Canal	join	River Nene
+Wisbech Canal	join	Middle Level Navigations
+Susquehanna and Tidewater Canal	join	Main Line of Public Works
+Susquehanna and Tidewater Canal	join	Chesapeake Bay
+Birmingham and Liverpool Junction Canal	join	Chester Canal
+Birmingham and Liverpool Junction Canal	join	Staffordshire and Worcestershire Canal
+Stourbridge Extension Canal	join	Stourbridge Canal feeder
+Slough Arm	join	Grand Union Canal
+Heywood Branch Canal	join	Rochdale Canal
+Rochdale Branch Canal	join	Rochdale Canal
+Sleaford Navigation	join	River Witham
+Runcorn and Weston Canal	join	Bridgewater Canal
+Runcorn and Weston Canal	join	Weaver Navigation
+Hackney Cut	join	Lee Navigation
+Ivelchester and Langport Navigation	join	River Parrett
+Arbury Canals	join	Coventry Canal
+Newport Pagnell Canal	join	Grand Union Canal
+Cambridgeshire Lodes	join	River Cam, River Great Ouse
+Hulme Locks Branch Canal	join	Mersey and Irwell Navigation
+Alamo Canal	join	Alamo River
+Bystry Canal	join	Augustów Canal
+River Sow Navigation	join	Staffordshire and Worcestershire Canal
+Pensnett Canal	join	Dudley Canal
+North Crimean Canal	join	Dnieper River
+Tralee Ship Canal	join	Tralee Bay
+Nallah Mar	join	Khushal Sar
+Tsoont Kol	join	Dal Lake
+Canal Age	join	Champlain Canal
+Canal Age	join	Welland Canal

@@ -1,0 +1,39 @@
+InstallRule(name) ::= <<
+create table $name$ (
+   name varchar(255) primary key not null,
+   type int,
+   code text not null,
+   java_code text,
+   table1 varchar(255) not null,
+   table2 varchar(255),
+   last_edit_timestamp timestamp)
+>>
+
+InstallProject(name) ::= <<
+create table $name$ (
+    id serial,
+    dbname varchar(255) NOT NULL UNIQUE,
+    name varchar(255) UNIQUE
+)
+>>
+
+InstallRuleType(name) ::= <<
+create table $name$ (
+    type integer primary key not null,
+    name varchar(255) not null,
+    enabled boolean not null)
+>>
+
+InsertRule(type, code, table1, table2, name) ::= <<
+insert into RULE (name, type, code, table1, table2, last_edit_timestamp)
+  select '$name$', x.type, '$code$', '$table1$', '$table2$', current_timestamp from
+  ruletype x where x.name = '$type$'
+>>
+
+match(column, filter) ::= <<
+    $column$ like "%%"
+>>
+
+QueryTable(tablename, start, interval, filter, order) ::= <<
+    select * from $tablename$ where $filter$ $order$ limit $interval$ offset $start$
+>>

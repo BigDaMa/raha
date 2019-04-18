@@ -1,0 +1,1027 @@
+Black	hex	0
+Blue	hex	0
+Cyan	hex	0
+Green	hex	0
+Indigo	hex	4
+Indigo	hex	6
+Indigo	hex	8
+Indigo	hex	9683
+Red	hex	FF0000
+Sienna	hex	882
+Sienna	hex	965434
+Sienna	hex	623034
+Sienna	hex	E97451
+Sienna	hex	3
+Sienna	hex	A0522D
+Yellow	hex	FFFF00
+Violet	hex	7
+Purple	hex	800080
+Purple	hex	8
+Brown	hex	964
+Ultramarine	hex	3
+Magenta	hex	FF00FF
+Magenta	hex	FF0090
+Orange	hex	FF7F00
+Jonquil	hex	F4CA16
+Tyrian purple	hex	66023C
+Khaki	hex	F0E68C
+Khaki	hex	C3B091
+Khaki	hex	BDB76B
+Pink	hex	FFC0DB
+Crimson	hex	DC143C
+Crimson	hex	FF003F
+Crimson	hex	FFC0CB
+Crimson	hex	FF91AF
+Crimson	hex	DE5285
+Crimson	hex	FF355E
+Crimson	hex	FF004F
+Crimson	hex	E32636
+Crimson	hex	E51A4C
+Crimson	hex	E3256B
+Crimson	hex	7
+Crimson	hex	E8000D
+Crimson	hex	CC0000
+Crimson	hex	C41E3A
+Crimson	hex	BE0032
+Crimson	hex	841617
+Crimson	hex	90
+Crimson	hex	A51C30
+Crimson	hex	860111
+Gold	hex	FFD700
+Gold	hex	D4AF37
+Gold	hex	E6BE8A
+Gold	hex	FFDF00
+Gold	hex	FFCC33
+Gold	hex	FCC200
+Gold	hex	F2A900
+Gold	hex	C6930A
+Gold	hex	FFE800
+Gold	hex	F1B82D
+Gold	hex	DA9100
+Gold	hex	DAA520
+Gold	hex	CFB53B
+Gold	hex	C5B358
+Gold	hex	CBA135
+Gold	hex	996515
+Ochre	hex	CC7722
+Vermilion	hex	E34234
+Vermilion	hex	FF5349
+Vermilion	hex	FF4500
+Vermilion	hex	D9381E
+Vermilion	hex	AA381E
+Coral	hex	FF7F50
+Coral	hex	F88379
+Coral	hex	F08080
+Cadmium pigments	hex	ED872D
+Cadmium pigments	hex	E30022
+Cadmium pigments	hex	6
+Cadmium pigments	hex	FFF600
+Umber	hex	635147
+Umber	hex	826644
+Umber	hex	8
+Navy blue	hex	80
+Navy blue	hex	1974
+Navy blue	hex	91
+Navy blue	hex	Infinity
+Navy blue	hex	32127.0
+Navy blue	hex	1
+Powder blue	hex	B0E0E6
+Phthalocyanine Blue BN	hex	0
+Grey	hex	808080
+Tan	hex	D2B48C
+Tan	hex	FDD9B5
+Tan	hex	FAA76C
+Tan	hex	AE6838
+Tan	hex	A67B5B
+Mauve	hex	E0B0FF
+Mauve	hex	E285FF
+Mauve	hex	D473D4
+Mauve	hex	B784A7
+Mauve	hex	915
+Mauve	hex	673147
+Beige	hex	F5F5DC
+Beige	hex	FFF8E7
+Beige	hex	FFFDD0
+Beige	hex	FFDDCA
+Beige	hex	FAD6A5
+Beige	hex	F0DC82
+Beige	hex	EDC9AF
+Beige	hex	C2B280
+Beige	hex	C3B091
+Beige	hex	A67B5B
+Beige	hex	967117
+Bistre	hex	3
+Bistre	hex	967117
+Bistre	hex	856
+Bistre	hex	80755.0
+Azure	hex	7
+Azure	hex	F0FFFF
+Azure	hex	F0F8FF
+Azure	hex	87
+Azure	hex	89
+Azure	hex	0
+Azure	hex	73
+Azure	hex	8
+Azure	hex	75
+Azure	hex	45
+Azure	hex	4
+Azure	hex	6495
+Azure	hex	318
+Azure	hex	9223372036854775807
+Azure	hex	70
+Azure	hex	41690
+Azure	hex	4997
+Azure	hex	5
+Azure	hex	417
+Azure	hex	6
+Azure	hex	4682
+Azure	hex	72
+Azure	hex	26619C
+Azure	hex	2366
+Teal	hex	8080
+Teal	hex	367588
+Salmon	hex	FA8072
+Salmon	hex	FFA07A
+Salmon	hex	FF91A4
+Salmon	hex	E9967A
+Olive	hex	808000
+Olive	hex	9
+Olive	hex	6
+Olive	hex	544
+Olive	hex	3
+Olive	hex	556
+Fuchsia	hex	FF00FF
+Fuchsia	hex	FFC0EB
+Fuchsia	hex	FD3F92
+Fuchsia	hex	F400A1
+Fuchsia	hex	74375.0
+Fuchsia	hex	E40078
+Fuchsia	hex	CC397B
+Fuchsia	hex	C154C1
+Fuchsia	hex	B53389
+Fuchsia	hex	915
+Fuchsia	hex	9223372036854775807
+Peach	hex	FFE5B4
+Peach	hex	FFDAB9
+Peach	hex	FFCBA4
+Silver	hex	C0C0C0
+Silver	hex	C9C0BB
+Silver	hex	C4AEAD
+Silver	hex	BFC1C2
+Silver	hex	ACACAC
+Silver	hex	838996
+Silver	hex	848482
+Silver	hex	757575
+Cardinal	hex	C41E3A
+Cardinal	hex	8
+Cardinal	hex	41230.0
+Lavender	hex	E6E6FA
+Lavender	hex	FFF0F5
+Lavender	hex	D6CADD
+Lavender	hex	C4C3D0
+Lavender	hex	CEC8EF
+Lavender	hex	DCD0FF
+Lavender	hex	CCCCFF
+Lavender	hex	C9A0DC
+Lavender	hex	D8B2D1
+Lavender	hex	FBAED2
+Lavender	hex	DDA0DD
+Lavender	hex	DF73FF
+Lavender	hex	B57EDC
+Lavender	hex	9966.0
+Lavender	hex	9370
+Lavender	hex	9678
+Lavender	hex	B48395
+Lavender	hex	8
+Lavender	hex	796878
+Venetian red	hex	80815.0
+Liver	hex	674
+Liver	hex	5
+Liver	hex	543
+Liver	hex	6
+Copper	hex	B87333
+Copper	hex	DA8A67
+Copper	hex	CB6D51
+Copper	hex	AD6F69
+Copper	hex	996666
+Persian red	hex	C81D11
+Dodger blue	hex	9223372036854775807
+Lemon	hex	FFFACD
+Lemon	hex	F6EABE
+Lemon	hex	FDFF00
+Lemon	hex	E9FF36
+Lemon	hex	FFFF66
+Lemon	hex	FFF44F
+Lemon	hex	CAE00D
+Lemon	hex	9
+Lemon	hex	CCA01D
+Lemon	hex	F5C71A
+Persian blue	hex	1
+Persian blue	hex	67
+Persian blue	hex	32127.0
+Puce	hex	722
+Puce	hex	A95C68
+Puce	hex	Infinity
+Puce	hex	4
+Periwinkle	hex	CCCCFF
+Amber	hex	FFBF00
+Amber	hex	FF7E00
+Scarlet	hex	FF2400
+Scarlet	hex	FF3300
+Scarlet	hex	FC2847
+Scarlet	hex	E25822
+Scarlet	hex	B22222
+Cerulean	hex	7
+Cerulean	hex	3
+Cerulean	hex	2
+Cerulean	hex	98
+Cerulean	hex	1
+Cerulean	hex	6
+Orchid	hex	DA70D6
+Orchid	hex	F2BDCD
+Orchid	hex	D470A2
+Orchid	hex	9932.0
+Sepia	hex	704214
+Viridian	hex	40826.0
+Viridian	hex	9
+Viridian	hex	9698
+Viridian	hex	7
+Cobalt blue	hex	47
+Turquoise	hex	40
+Turquoise	hex	B2FFFF
+Turquoise	hex	AFEEEE
+Turquoise	hex	0
+Turquoise	hex	48
+Turquoise	hex	32
+Cerise	hex	DE3163
+Cerise	hex	F400A1
+Cerise	hex	DA3287
+Cerise	hex	B3446C
+Lilac	hex	C8A2C8
+Lilac	hex	DCD0FF
+Lilac	hex	D891EF
+Lilac	hex	B666D2
+Lilac	hex	86608
+Cream	hex	FFFDD0
+Maroon	hex	800000
+Maroon	hex	32148.0
+Maroon	hex	B03060
+Maroon	hex	8
+Verdigris	hex	43
+Chartreuse	hex	7
+Chartreuse	hex	DFFF00
+Chartreuse	hex	E9FFDB
+Chartreuse	hex	E3F988
+Chartreuse	hex	D1E231
+Chartreuse	hex	E3FF00
+Chartreuse	hex	BFFF00
+Chartreuse	hex	ADFF2F
+Chartreuse	hex	A7FC00
+Chartreuse	hex	93
+Chartreuse	hex	9
+Chartreuse	hex	8
+Chartreuse	hex	568203
+Chartreuse	hex	808000
+Chartreuse	hex	354230
+British racing green	hex	4225
+Lime	hex	BFFF00
+Lime	hex	E3FF00
+Lime	hex	D0FF14
+Lime	hex	CEFF00
+Lime	hex	CCFF00
+Lime	hex	9
+Lime	hex	0
+Lime	hex	32
+Red-violet	hex	71585.0
+Red-violet	hex	E79FC4
+Red-violet	hex	D8B2D1
+Red-violet	hex	CC8899
+Red-violet	hex	DB7093
+Red-violet	hex	F75394
+Red-violet	hex	E40078
+Red-violet	hex	DE5D83
+Red-violet	hex	84186.0
+Red-violet	hex	BB3385
+Red-violet	hex	B53389
+Red-violet	hex	A2006D
+Red-violet	hex	BE4F62
+Red-violet	hex	A50B5E
+Red-violet	hex	722
+Red-violet	hex	702963
+Red-violet	hex	614051
+School bus yellow	hex	FFD800
+Safety orange	hex	FF7900
+Cosmic latte	hex	FFF8E7
+Mahogany	hex	4000.0
+Mahogany	hex	CD4A4C
+Naples yellow	hex	FADA5E
+Gamboge	hex	E49B0F
+Indian yellow	hex	E3A857
+Aquamarine	hex	7
+Aquamarine	hex	0
+Aquamarine	hex	66
+Seal brown	hex	59260.0
+Carmine	hex	960018
+Carmine	hex	FC6C85
+Carmine	hex	FF355E
+Carmine	hex	E63E62
+Carmine	hex	D70040
+Carmine	hex	D10047
+Carmine	hex	C30B4E
+Carmine	hex	9
+Catawba	hex	703642
+Baby blue	hex	89
+Baby blue	hex	E7FEFF
+Baby blue	hex	BCD4E6
+Baby blue	hex	A1CAF1
+Baby blue	hex	6
+Feldgrau	hex	4
+Champagne	hex	F7E7CE
+Champagne	hex	F3E5AB
+Champagne	hex	FAD6A5
+Champagne	hex	C2B280
+Old gold	hex	CFB53B
+Burgundy	hex	900020
+Burgundy	hex	9
+Burgundy	hex	43302
+Eggplant	hex	614051
+Wheat	hex	F5DEB3
+Goldenrod	hex	DAA520
+Goldenrod	hex	FAFAD2
+Goldenrod	hex	EEE8AA
+Goldenrod	hex	B8860B
+Lemon chiffon	hex	FFFACD
+Seashell	hex	FFF5EE
+Midnight blue	hex	191970
+Midnight blue	hex	3366
+Robin egg blue	hex	0
+Robin egg blue	hex	96
+Robin egg blue	hex	81
+Spring green	hex	0
+Spring green	hex	F5FFFA
+Spring green	hex	F0FFF0
+Spring green	hex	7
+Spring green	hex	AAF0D1
+Spring green	hex	A3C1AD
+Spring green	hex	30
+Spring green	hex	3
+Spring green	hex	29
+Spring green	hex	39
+Spring green	hex	200000000
+Spring green	hex	9
+Spring green	hex	8080
+Spring green	hex	1796.0
+Spring green	hex	40826.0
+Spring green	hex	177245
+Chocolate	hex	7
+Chocolate	hex	D2691E
+Cornflower blue	hex	6495
+Cornflower blue	hex	93
+Steel blue	hex	4682
+Steel blue	hex	B0C4DE
+Chestnut	hex	954535
+Chestnut	hex	B94E48
+Slate gray	hex	708090
+Slate gray	hex	778899
+Slate gray	hex	2
+Gunmetal	hex	536267
+Royal blue	hex	2366
+Royal blue	hex	41690
+Royal blue	hex	436
+Buff	hex	F0DC82
+Flax	hex	EEDC82
+Mustard	hex	FFDB58
+Payne's grey	hex	536878
+Blue-green	hex	0
+Blue-green	hex	40
+Blue-green	hex	36747.0
+Blue-green	hex	1
+Blue-green	hex	1164
+Blue-green	hex	8080
+Navajo white	hex	FFDEAD
+Columbia blue	hex	C4D8E2
+Taupe	hex	483
+Taupe	hex	B38B6D
+Taupe	hex	915
+Taupe	hex	905
+Taupe	hex	967117
+Taupe	hex	8
+Taupe	hex	700000
+Taupe	hex	674
+Auburn hair	hex	A52A2A
+Non-photo blue	hex	A4DDED
+Fire engine red	hex	CE2029
+Terra cotta	hex	E2725B
+Raspberry	hex	E30B5C
+Raspberry	hex	C72C48
+Raspberry	hex	B3446C
+Raspberry	hex	915
+Raspberry	hex	872657
+Rose	hex	FF007F
+Rose	hex	FFE4E1
+Rose	hex	F4C2C2
+Rose	hex	FC89AC
+Rose	hex	F77FBE
+Rose	hex	FF66CC
+Rose	hex	F9429E
+Rose	hex	F653A6
+Rose	hex	DE6FA1
+Rose	hex	FB607F
+Rose	hex	F64A8A
+Rose	hex	E3256B
+Rose	hex	FF33CC
+Rose	hex	FE28A2
+Rose	hex	74375.0
+Rose	hex	C21E56
+Rose	hex	B3446C
+Rose	hex	A8516E
+Rose	hex	AA98A9
+Rose	hex	BC8F8F
+Rose	hex	8081.0
+Rose	hex	AB4E52
+Rose	hex	893
+Rose	hex	905
+Rose	hex	674846
+Rose	hex	65000.0
+Aqua	hex	0
+Aqua	hex	BCD4E6
+Paris green	hex	50
+Sapphire	hex	0
+Sapphire	hex	67
+Sapphire	hex	2
+Sapphire	hex	Infinity
+Sapphire	hex	126180
+Sapphire	hex	82567
+Magnolia	hex	F4E9D8
+Selective yellow	hex	FFBA00
+New Hampshire Wildcats	hex	3591
+Saffron	hex	F4C430
+Saffron	hex	FBAB60
+Saffron	hex	FF9933
+Sinopia	hex	CB410B
+Phthalocyanine Green G	hex	123524
+Rust	hex	B7410E
+Russet	hex	80461.0
+Heliotrope	hex	DF73FF
+Heliotrope	hex	AA98A9
+Heliotrope	hex	563
+Rosso corsa	hex	CC0000
+Tiffany Blue	hex	81
+Coquelicot	hex	FF3800
+Oxblood	hex	800020
+Egyptian blue	hex	1034
+Ecru	hex	C2B280
+International orange	hex	FF4F00
+International orange	hex	F04A00
+International orange	hex	BA160C
+Maize	hex	FBEC5D
+Eggshell	hex	F0EAD6
+Ivory	hex	FFFFF0
+Zaffre	hex	14
+Aureolin	hex	FDEE00
+Amaranth	hex	F19CBB
+Amaranth	hex	FF355E
+Amaranth	hex	AB274F
+Amaranth	hex	9
+Apricot	hex	FBCEB1
+Apricot	hex	FDD5B1
+Apricot	hex	F8B878
+Arylide yellow	hex	E9D66B
+Fallow	hex	C19A6B
+Forest green	hex	228
+Shades of orange	hex	FF7F00
+Shades of orange	hex	FFA500
+Shades of orange	hex	FF8C00
+Shades of orange	hex	FF5800
+Shades of orange	hex	FF7538
+Shades of orange	hex	FFEFD5
+Shades of orange	hex	FFE5B4
+Shades of orange	hex	FBCEB1
+Shades of orange	hex	FDBCB4
+Shades of orange	hex	FF9966
+Shades of orange	hex	F88379
+Shades of orange	hex	ED9121
+Shades of orange	hex	FF9F00
+Shades of orange	hex	EE7F2D
+Shades of orange	hex	FF8200
+Shades of orange	hex	E86100
+Shades of orange	hex	FF7518
+Shades of orange	hex	FE5A1D
+Shades of orange	hex	E34234
+Shades of orange	hex	FF6347
+Shades of orange	hex	FE6F5E
+Shades of orange	hex	EC5800
+Shades of orange	hex	D99058
+Shades of orange	hex	46210.0
+Shades of orange	hex	BF5700
+Shades of orange	hex	BF4F51
+Shades of orange	hex	964
+Bole	hex	79443.0
+Yale Blue	hex	356.0
+Fawn	hex	E5AA70
+Persian green	hex	0
+Maya blue	hex	73
+Millettia laurentii	hex	645452
+NIVO	hex	414
+Spring bud	hex	A7FC00
+Spring bud	hex	ECEBBD
+Spring bud	hex	C9DC87
+Spring bud	hex	BDDA57
+Spring bud	hex	7
+Spring bud	hex	4
+Jungle green	hex	29
+Jungle green	hex	755
+Jungle green	hex	3
+Jungle green	hex	4
+Jungle green	hex	1
+Air Force blue	hex	5
+Air Force blue	hex	308.0
+Air Force blue	hex	4
+Air Force blue	hex	87
+Air Force blue	hex	7
+Air Force blue	hex	A2ADD0
+Air Force blue	hex	72
+Air Force blue	hex	5072
+Electric blue	hex	7
+Electric blue	hex	2
+Electric blue	hex	3137
+Electric blue	hex	35096
+Electric blue	hex	536878
+Electric blue	hex	3
+Carolina blue	hex	7
+Glaucous	hex	6082
+Eton blue	hex	96
+Cambridge Blue	hex	A3C1AD
+Electric green	hex	0
+Shades of green	hex	0
+Shades of green	hex	8
+Shades of green	hex	4
+Shades of green	hex	87
+Shades of green	hex	568203
+Shades of green	hex	13220
+Shades of green	hex	71
+Shades of green	hex	228
+Shades of green	hex	49796.0
+Shades of green	hex	29
+Shades of green	hex	A9BA9D
+Shades of green	hex	90
+Shades of green	hex	74
+Shades of green	hex	317873
+Shades of green	hex	98
+Shades of green	hex	1796.0
+Shades of green	hex	9223372036854775807
+Shades of green	hex	D0F0C0
+Shades of green	hex	8080
+Shades of green	hex	8000
+Shades of green	hex	6400
+Shades of green	hex	9
+Shades of green	hex	1
+Shades of green	hex	6
+Shades of green	hex	66
+Shades of green	hex	10000
+Shades of green	hex	563.0
+Shades of green	hex	ACE1AF
+Shades of green	hex	2
+Shades of green	hex	3
+Shades of green	hex	693
+Shades of green	hex	50
+Shades of green	hex	ADFF2F
+Shades of green	hex	355000
+Shades of green	hex	138808
+Shades of green	hex	9000
+Shades of green	hex	4953
+Shades of green	hex	18453.0
+Shades of green	hex	39
+Shades of green	hex	6600
+Shades of green	hex	444
+Shades of green	hex	679267
+Shades of green	hex	43927
+Shades of green	hex	76
+Shades of green	hex	200000000
+Shades of green	hex	9150
+Shades of green	hex	14421
+Lava	hex	483
+Ruby	hex	E0115F
+Ruby	hex	D10056
+Ruby	hex	CE4676
+Ruby	hex	AA4069
+Ruby	hex	9
+Ruby	hex	841
+Ruby	hex	843
+Shades of red	hex	FF0000
+Shades of red	hex	FFC0CB
+Shades of red	hex	FF91A4
+Shades of red	hex	F88379
+Shades of red	hex	FA8072
+Shades of red	hex	ED1C24
+Shades of red	hex	40233.0
+Shades of red	hex	F2003C
+Shades of red	hex	ED2939
+Shades of red	hex	EE204D
+Shades of red	hex	FF2400
+Shades of red	hex	CD5C5C
+Shades of red	hex	E60026
+Shades of red	hex	EA3C53
+Shades of red	hex	E62020
+Shades of red	hex	960018
+Shades of red	hex	E0115F
+Shades of red	hex	DC143C
+Shades of red	hex	DA2C43
+Shades of red	hex	CE2029
+Shades of red	hex	C41E3A
+Shades of red	hex	E23D28
+Shades of red	hex	B31B1B
+Shades of red	hex	B22222
+Shades of red	hex	A45A52
+Shades of red	hex	990000
+Shades of red	hex	8
+Shades of red	hex	800000
+Shades of red	hex	7
+Shades of red	hex	A91101
+Candy apple red	hex	FF0800
+Candy apple red	hex	E4717A
+Cordovan	hex	893
+Fulvous	hex	E48400
+Cinereous	hex	98817.0
+Wine	hex	722
+Wine	hex	F7E7CE
+Wine	hex	7
+Wine	hex	800020
+Wine	hex	673147
+White	hex	FFFFFF
+Duke blue	hex	1
+Mikado yellow	hex	FFC40C
+Carnelian	hex	B31B1B
+Shades of pink	hex	FFC0CB
+Shades of pink	hex	FFB6C1
+Shades of pink	hex	FF69B4
+Shades of pink	hex	FF1493
+Shades of pink	hex	F1DDCF
+Shades of pink	hex	FFDDF4
+Shades of pink	hex	FDDDE6
+Shades of pink	hex	F9CCCA
+Shades of pink	hex	F4C2C2
+Shades of pink	hex	F7BFBE
+Shades of pink	hex	EFBBCC
+Shades of pink	hex	F2BDCD
+Shades of pink	hex	FFB7C5
+Shades of pink	hex	FFB3DE
+Shades of pink	hex	FBAED2
+Shades of pink	hex	FFBCD9
+Shades of pink	hex	FFA6C9
+Shades of pink	hex	FF91AF
+Shades of pink	hex	FC89AC
+Shades of pink	hex	F19CBB
+Shades of pink	hex	E68FAC
+Shades of pink	hex	DE6FA1
+Shades of pink	hex	FFDAE9
+Shades of pink	hex	E4717A
+Shades of pink	hex	F88379
+Shades of pink	hex	DEA5A4
+Shades of pink	hex	D7837F
+Shades of pink	hex	893843
+Shades of pink	hex	C4AEAD
+Shades of pink	hex	E8CCD7
+Shades of pink	hex	D8B2D1
+Shades of pink	hex	D74894
+Shades of pink	hex	DA1884
+Shades of pink	hex	DE5285
+Shades of pink	hex	E63E62
+Shades of pink	hex	FB607F
+Shades of pink	hex	FD6C9E
+Shades of pink	hex	F77FBE
+Shades of pink	hex	FF5CCD
+Shades of pink	hex	FF6FFF
+Shades of pink	hex	FC0FC0
+Shades of pink	hex	CF6BA9
+Shades of pink	hex	CC33CC
+Turkey red	hex	A91101
+Portland Orange	hex	FF5A36
+Bronze	hex	CD7F32
+Bronze	hex	A57164
+Bronze	hex	665
+Shades of magenta	hex	FF00FF
+Shades of magenta	hex	CA1F7B
+Shades of magenta	hex	FF0090
+Shades of magenta	hex	AB274F
+Shades of magenta	hex	F653A6
+Shades of magenta	hex	FF6FFF
+Shades of magenta	hex	FF33CC
+Shades of magenta	hex	FF1DCE
+Shades of magenta	hex	FE4EDA
+Shades of magenta	hex	FC0FC0
+Shades of magenta	hex	DA70D6
+Shades of magenta	hex	D0417E
+Shades of magenta	hex	CF3476
+Shades of magenta	hex	CF71AF
+Shades of magenta	hex	CC33CC
+Shades of magenta	hex	9
+Shades of magenta	hex	8000
+Shades of magenta	hex	Infinity
+Shades of magenta	hex	8
+Plum	hex	Infinity
+Plum	hex	DDA0DD
+Plum	hex	701
+Tuscan red	hex	7
+Tuscan red	hex	FAD6A5
+Tuscan red	hex	9999.0
+Tuscan red	hex	A67B5B
+Tuscan red	hex	79443.0
+Tuscan red	hex	6
+Desert sand	hex	EDC9AF
+Desert sand	hex	F4A460
+Desert sand	hex	E1A95F
+Desert sand	hex	C2B280
+Desert sand	hex	C19A6B
+Desert sand	hex	967117
+Desert sand	hex	6
+Camel	hex	C19A6B
+Byzantium	hex	702963
+Byzantium	hex	BD33A4
+Byzantium	hex	5
+Midnight green	hex	4953
+Blue-gray	hex	6699.0
+Blue-gray	hex	71
+Blue-gray	hex	6
+Blue-gray	hex	A2A2D0
+Blue-gray	hex	6082
+Blue-gray	hex	4682
+Blue-gray	hex	91
+Blue-gray	hex	8
+Blue-gray	hex	5
+Blue-gray	hex	778
+Blue-gray	hex	666699
+Blue-gray	hex	838996
+Blue-gray	hex	777696
+Blue-gray	hex	536878
+Straw	hex	E4D96F
+Citrine	hex	E4D00A
+Platinum	hex	E5E4E2
+Sunset	hex	FAD6A5
+Sunset	hex	FFCC33
+Sunset	hex	E3A857
+Sunset	hex	FD5E53
+Isabelline	hex	F4F0EC
+Shades of yellow	hex	FFFF00
+Shades of yellow	hex	FFFFE0
+Shades of yellow	hex	FFFFCC
+Shades of yellow	hex	FFFACD
+Shades of yellow	hex	FFEF00
+Shades of yellow	hex	FFD300
+Shades of yellow	hex	EFCC00
+Shades of yellow	hex	FEDF00
+Shades of yellow	hex	FCE883
+Shades of yellow	hex	FFFF66
+Shades of yellow	hex	FDFF00
+Shades of yellow	hex	FAFA37
+Shades of yellow	hex	F8DE7E
+Shades of yellow	hex	FADA5E
+Shades of yellow	hex	FFD700
+Shades of yellow	hex	EED202
+Shades of yellow	hex	D2B55B
+Shades of yellow	hex	C3B091
+Shades of yellow	hex	DAA520
+Shades of yellow	hex	808000
+Tawny	hex	CD5700
+Alizarin crimson	hex	E32636
+Stil de grain yellow	hex	FADA5E
+Capri	hex	0
+Cadet grey	hex	91
+Cadet grey	hex	5
+Cadet grey	hex	7
+Cadet grey	hex	536872
+Cadet grey	hex	1
+Tufts Blue	hex	300000000
+UCLA Blue	hex	3284
+Vanilla	hex	F3E5AB
+Vanilla	hex	F3D9DF
+Vanilla	hex	D1BEA8
+Shades of blue	hex	0
+Shades of blue	hex	89
+Shades of blue	hex	ADD8E6
+Shades of blue	hex	CCCCFF
+Shades of blue	hex	B0E0E6
+Shades of blue	hex	333399
+Shades of blue	hex	87
+Shades of blue	hex	93
+Shades of blue	hex	18
+Shades of blue	hex	1
+Shades of blue	hex	70
+Shades of blue	hex	545
+Shades of blue	hex	1034
+Shades of blue	hex	3
+Shades of blue	hex	8.0
+Shades of blue	hex	2387
+Shades of blue	hex	80
+Shades of blue	hex	191970
+Shades of blue	hex	4
+True Blue	hex	73
+Shades of white	hex	FFFFFF
+Shades of white	hex	F8F8FF
+Shades of white	hex	F5F5F5
+Shades of white	hex	FEFEFA
+Shades of white	hex	FFFAFA
+Shades of white	hex	FFFFF0
+Shades of white	hex	FFFAF0
+Shades of white	hex	FFF5EE
+Shades of white	hex	FFF8DC
+Shades of white	hex	FDF5E6
+Shades of white	hex	FFFDD0
+Shades of white	hex	F5F5DC
+Shades of white	hex	FAF0E6
+Shades of white	hex	FAEBD7
+Shades of white	hex	F7E7CE
+Shades of white	hex	F0EAD6
+Shades of white	hex	EFDFBB
+Shades of white	hex	E3DAC9
+Shades of white	hex	F3E5AB
+Shades of white	hex	EEDC82
+Shades of white	hex	FFDEAD
+Shades of white	hex	C2B280
+Jasmine	hex	F8DE7E
+Alice blue	hex	F0F8FF
+Shades of gray	hex	808080
+Shades of gray	hex	FFFFFF
+Shades of gray	hex	0
+Shades of gray	hex	DCDCDC
+Shades of gray	hex	D3D3D3
+Shades of gray	hex	C0C0C0
+Shades of gray	hex	BEBEBE
+Shades of gray	hex	A9A9A9
+Shades of gray	hex	989898
+Shades of gray	hex	696969
+Shades of gray	hex	2
+Shades of gray	hex	555555
+Shades of gray	hex	343434
+Shades of gray	hex	E5E4E2
+Shades of gray	hex	B2BEB5
+Shades of gray	hex	848482
+Shades of gray	hex	727472
+Shades of gray	hex	36454.0
+Shades of gray	hex	8
+Shades of gray	hex	91
+Shades of gray	hex	6699.0
+Shades of gray	hex	6082
+Shades of gray	hex	708090
+Shades of gray	hex	Infinity
+Shades of gray	hex	4
+Shades of gray	hex	AA98A9
+Shades of gray	hex	98817.0
+Shades of gray	hex	483
+Coffee	hex	6
+Coffee	hex	A67B5B
+Coffee	hex	4
+Lion	hex	C19A6B
+Shades of violet	hex	8
+Shades of violet	hex	7
+Shades of violet	hex	9
+Shades of violet	hex	EE82EE
+Shades of violet	hex	9400
+Shades of violet	hex	E0B0FF
+Shades of violet	hex	B57EDC
+Shades of violet	hex	8806
+Shades of violet	hex	B284BE
+Shades of violet	hex	856088
+Shades of violet	hex	6
+Shades of violet	hex	4
+Shades of violet	hex	5
+Shades of violet	hex	563
+Shades of violet	hex	32174.0
+Shades of cyan	hex	0
+Shades of cyan	hex	C9FFE5
+Shades of cyan	hex	7
+Shades of cyan	hex	B2FFFF
+Shades of cyan	hex	232
+Shades of cyan	hex	8
+Shades of cyan	hex	1164
+Shades of cyan	hex	3
+Shades of cyan	hex	E0FFFF
+Shades of cyan	hex	20
+Shades of cyan	hex	4953
+Shades of cyan	hex	80
+Shades of cyan	hex	8080
+Shades of cyan	hex	81
+Shades of cyan	hex	40
+Shades of cyan	hex	43
+Shades of cyan	hex	40826.0
+Shades of purple	hex	800080
+Shades of purple	hex	66023C
+Shades of purple	hex	7851
+Shades of purple	hex	71585.0
+Shades of purple	hex	A020F0
+Shades of purple	hex	9370
+Shades of purple	hex	9
+Shades of purple	hex	D8BFD8
+Shades of purple	hex	E0B0FF
+Shades of purple	hex	DA70D6
+Shades of purple	hex	DF73FF
+Shades of purple	hex	DF00FF
+Shades of purple	hex	FE4EDA
+Shades of purple	hex	DE6FA1
+Shades of purple	hex	C54B8C
+Shades of purple	hex	B768A2
+Shades of purple	hex	400
+Shades of purple	hex	512888
+Shades of purple	hex	86608
+Shades of purple	hex	880085
+Shades of purple	hex	6
+Shades of purple	hex	702963
+Shades of purple	hex	78184.0
+Shades of purple	hex	682860
+Shades of purple	hex	301934
+Sky blue	hex	87
+Sky blue	hex	B2FFFF
+Sky blue	hex	80
+Sky blue	hex	0
+Sky blue	hex	77
+Sky blue	hex	8
+Shades of brown	hex	964
+Shades of brown	hex	A52A2A
+Shades of brown	hex	FFBF00
+Shades of brown	hex	9
+Shades of brown	hex	F5F5DC
+Shades of brown	hex	F0DC82
+Shades of brown	hex	8
+Shades of brown	hex	954535
+Shades of brown	hex	7
+Shades of brown	hex	D2691E
+Shades of brown	hex	EDC9AF
+Shades of brown	hex	C3B091
+Shades of brown	hex	6
+Shades of brown	hex	CD853F
+Shades of brown	hex	826644
+Shades of brown	hex	BC8F8F
+Shades of brown	hex	80461.0
+Shades of brown	hex	F4A460
+Shades of brown	hex	832
+Shades of brown	hex	D2B48C
+Shades of brown	hex	483
+Shades of brown	hex	C19A6B
+Harvest gold	hex	E6A817
+Oxford Blue	hex	2147
+Shades of black	hex	0
+Shades of black	hex	191970
+Shades of black	hex	696969
+Shades of black	hex	555
+Shades of black	hex	483
+Shades of black	hex	555555
+Shades of black	hex	36454.0
+Shades of black	hex	414
+Shades of black	hex	4
+Shades of black	hex	3
+Shades of black	hex	353839
+Shades of black	hex	123524
+Shades of black	hex	343434
+Shades of black	hex	253529
+Shades of black	hex	242124
+Shades of black	hex	232
+Shades of black	hex	1
+Baker-Miller Pink	hex	FF91AF
+Indian red	hex	CD5C5C
+Indian red	hex	80815.0
+Indian red	hex	B94E48
+Indian red	hex	AB4E52
+Indian red	hex	882
+Citron	hex	9
+National symbols of Nepal	hex	DC143C
+Coyote brown	hex	81613
+Mulberry	hex	C54B8C
+BISU Visual Identity	hex	A8392A
+BISU Visual Identity	hex	DCDDDE
+BISU Visual Identity	hex	8
+BISU Visual Identity	hex	9
+Acid green	hex	B0BF1A
+Android green	hex	A4C639
+Kobicha	hex	6
+Federal Standard 595 camouflage colours	hex	92989.0
+Federal Standard 595 camouflage colours	hex	6
+Federal Standard 595 camouflage colours	hex	9223372036854775807
+Federal Standard 595 camouflage colours	hex	Infinity
+Federal Standard 595 camouflage colours	hex	5
+Federal Standard 595 camouflage colours	hex	45433.0
+Federal Standard 595 camouflage colours	hex	474742
+Federal Standard 595 camouflage colours	hex	B49D80
+Federal Standard 595 camouflage colours	hex	9
+Federal Standard 595 camouflage colours	hex	A27C52
+Federal Standard 595 camouflage colours	hex	363738
+Federal Standard 595 camouflage colours	hex	555
+Federal Standard 595 camouflage colours	hex	AB9381
+Federal Standard 595 camouflage colours	hex	76543C
+Federal Standard 595 camouflage colours	hex	594
+Federal Standard 595 camouflage colours	hex	604
+Federal Standard 595 camouflage colours	hex	600000
+Federal Standard 595 camouflage colours	hex	544
+Dark purple	hex	301934
+Marigold	hex	EAA221
+Marigold	hex	FFD700
+Marigold	hex	F8D568
+Marigold	hex	DAA520
+Dregs of wine	hex	673147
+Raisin black	hex	242124
+Cyclamen	hex	F56FA1
+Mango	hex	FFC800
+Reseda green	hex	6
+Marian blue	hex	E1EBEE
+Marengo	hex	4
+Marengo	hex	D7D7D7
+Pantone 448 C	hex	4

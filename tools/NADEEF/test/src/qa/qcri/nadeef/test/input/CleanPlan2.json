@@ -1,0 +1,13 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : ["test/src/qa/qcri/nadeef/test/input/dumptest.csv"]
+    },
+    "rule" : [
+        {
+			"name" : "myFd",
+            "type" : "fd",
+            "value" : ["B|A, C"]
+        }
+    ]
+}

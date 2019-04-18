@@ -1,0 +1,676 @@
+Aarhus	areaUrbanKm	91
+Acapulco	areaUrbanKm	85
+Copenhagen	areaUrbanKm	615.7
+Cardiff	areaUrbanKm	75.72
+Cairo	areaUrbanKm	6740
+Dublin	areaUrbanKm	318
+Damascus	areaUrbanKm	77
+Gothenburg	areaUrbanKm	203.67
+Guangzhou	areaUrbanKm	3843.43
+Hamilton, Ontario	areaUrbanKm	227.7
+Islamabad Capital Territory	areaUrbanKm	906
+Kaohsiung	areaUrbanKm	363
+Kansas City, Missouri	areaUrbanKm	1513.59
+Lincoln, Nebraska	areaUrbanKm	232.09
+Liverpool	areaUrbanKm	199.6
+Lansing, Michigan	areaUrbanKm	354.4
+Malmö	areaUrbanKm	77
+Moncton	areaUrbanKm	146
+Manchester	areaUrbanKm	630.3
+Mecca	areaUrbanKm	850
+Ottawa	areaUrbanKm	501.92
+Prague	areaUrbanKm	496
+Stockholm	areaUrbanKm	381.63
+Sarajevo	areaUrbanKm	141.5
+St. Louis	areaUrbanKm	2392.2
+Saint John, New Brunswick	areaUrbanKm	209.68
+Skopje	areaUrbanKm	337.8
+Tel Aviv	areaUrbanKm	176
+Windsor, Ontario	areaUrbanKm	175.77
+Wellington	areaUrbanKm	442
+Medina	areaUrbanKm	293
+Budapest	areaUrbanKm	2538
+Bucharest	areaUrbanKm	285
+Beirut	areaUrbanKm	100
+Trondheim	areaUrbanKm	342.3
+London, Ontario	areaUrbanKm	218.04
+Thessaloniki	areaUrbanKm	111.703
+La Paz	areaUrbanKm	3240
+Kinshasa	areaUrbanKm	583
+Havana	areaUrbanKm	987.2546
+Lexington, Kentucky	areaUrbanKm	226.7
+Philadelphia	areaUrbanKm	4660.5
+Tianjin	areaUrbanKm	174.9
+Islamabad	areaUrbanKm	906
+San Jose, California	areaUrbanKm	741.03
+Hartford, Connecticut	areaUrbanKm	1216
+Belgrade	areaUrbanKm	1035
+Zagreb	areaUrbanKm	162.2
+Bergen	areaUrbanKm	94.03
+Hanoi	areaUrbanKm	233.56
+Apia	areaUrbanKm	51.8
+Accra	areaUrbanKm	894
+Managua	areaUrbanKm	173.7
+Yangon	areaUrbanKm	598.75
+Sofia	areaUrbanKm	1344
+Taipei	areaUrbanKm	1140
+Tehran	areaUrbanKm	730
+Oklahoma City	areaUrbanKm	1063.5
+Harrisburg, Pennsylvania	areaUrbanKm	539.7
+Mogadishu	areaUrbanKm	96878
+Toronto	areaUrbanKm	1751.49
+Bilbao	areaUrbanKm	18.22
+Brighton and Hove	areaUrbanKm	89.4
+Banjul	areaUrbanKm	93
+St. John's, Newfoundland and Labrador	areaUrbanKm	182.62
+Homs	areaUrbanKm	76
+Xi'an	areaUrbanKm	2420.7
+Belo Horizonte	areaUrbanKm	282.3
+Shenzhen	areaUrbanKm	1991.64
+Lagos	areaUrbanKm	907
+Lima	areaUrbanKm	800
+Hamilton, New Zealand	areaUrbanKm	877.1
+Sitka, Alaska	areaUrbanKm	5
+Yakutat, Alaska	areaUrbanKm	269.6
+São Carlos	areaUrbanKm	67.25
+New London, Connecticut	areaUrbanKm	318.66
+Kitchener, Ontario	areaUrbanKm	313.85
+Yellowknife	areaUrbanKm	13.09
+Rogers, Arkansas	areaUrbanKm	108.81
+Eureka, California	areaUrbanKm	47.908
+The Pas	areaUrbanKm	14.15
+Boonsboro, Maryland	areaUrbanKm	3.43
+Bay City, Michigan	areaUrbanKm	103.034
+Niagara Falls, New York	areaUrbanKm	949.7
+Glens Falls, New York	areaUrbanKm	91.55
+Burlington, North Carolina	areaUrbanKm	103
+Jacksonville, North Carolina	areaUrbanKm	103
+Greenville, North Carolina	areaUrbanKm	72.3
+Allentown, Pennsylvania	areaUrbanKm	749.79
+Greenville, South Carolina	areaUrbanKm	830
+Sherman, Texas	areaUrbanKm	93.1
+Wenatchee, Washington	areaUrbanKm	81.256
+Okanogan, Washington	areaUrbanKm	12.267
+Harbin	areaUrbanKm	4640.4
+Xiamen	areaUrbanKm	281.6
+Hefei	areaUrbanKm	838.5
+Danbury, Connecticut	areaUrbanKm	320.1
+Midland, Michigan	areaUrbanKm	79.48
+Albany, Oregon	areaUrbanKm	56
+Bethlehem, Pennsylvania	areaUrbanKm	749.79
+Hangzhou	areaUrbanKm	4899
+Qinhuangdao	areaUrbanKm	506.7
+Luoyang	areaUrbanKm	810.4
+Chengdu	areaUrbanKm	3679.9
+Edmundston	areaUrbanKm	38.07
+Bathurst, New Brunswick	areaUrbanKm	69.85
+Campbellton, New Brunswick	areaUrbanKm	25.41
+Dieppe, New Brunswick	areaUrbanKm	98.388
+Chongqing	areaUrbanKm	5472.8
+Stratford, New Zealand	areaUrbanKm	8.54
+Napier, New Zealand	areaUrbanKm	140.28
+Stavanger	areaUrbanKm	77.98
+Xaibe	areaUrbanKm	5.01
+Queenstown, New Zealand	areaUrbanKm	25.55
+Stoke-on-Trent	areaUrbanKm	103.9
+Anshan	areaUrbanKm	624
+Puebla City	areaUrbanKm	68987
+Leamington, Ontario	areaUrbanKm	25.64
+Kristiansand	areaUrbanKm	25.03
+Guelph	areaUrbanKm	78.39
+Barrie	areaUrbanKm	171.53
+Kenora	areaUrbanKm	30.81
+Niagara Falls, Ontario	areaUrbanKm	382.68
+Shenyang	areaUrbanKm	3464
+Owen Sound	areaUrbanKm	25.98
+Guanajuato City	areaUrbanKm	72.54
+Swords, Dublin	areaUrbanKm	11.35
+Manila	areaUrbanKm	1474.82
+Málaga	areaUrbanKm	827
+Taupo	areaUrbanKm	132.57
+Alma, Quebec	areaUrbanKm	41.1
+Saguenay, Quebec	areaUrbanKm	131.9
+Kunming	areaUrbanKm	4615
+Ürümqi	areaUrbanKm	9575.7
+Changsha	areaUrbanKm	1917
+Dundalk	areaUrbanKm	25.19
+Bogotá	areaUrbanKm	307.36
+Dubai	areaUrbanKm	1287.4
+Sherbrooke	areaUrbanKm	171.04
+Thunder Bay	areaUrbanKm	179.38
+St. Catharines	areaUrbanKm	378.68
+Isfahan	areaUrbanKm	493.82
+Peterborough, Ontario	areaUrbanKm	70.82
+Lhasa	areaUrbanKm	60
+Kaifeng	areaUrbanKm	546.4
+Trois-Rivières	areaUrbanKm	177.25
+New Glasgow, Nova Scotia	areaUrbanKm	39.52
+Bridgewater, Nova Scotia	areaUrbanKm	13.79
+Kentville	areaUrbanKm	33.37
+Huntsville, Ontario	areaUrbanKm	13.78
+Brandon, Manitoba	areaUrbanKm	76.89
+Amherstburg	areaUrbanKm	15.57
+Port Hope, Ontario	areaUrbanKm	12.97
+Lanzhou	areaUrbanKm	1088
+Jinan	areaUrbanKm	3304
+Changchun	areaUrbanKm	4738
+Qingdao	areaUrbanKm	3239
+Liverpool, Nova Scotia	areaUrbanKm	3.48
+Stamford, Connecticut	areaUrbanKm	1205
+Norwich, Connecticut	areaUrbanKm	318.7
+Hohhot	areaUrbanKm	2065.1
+Invercargill	areaUrbanKm	115
+Zhuhai	areaUrbanKm	1724.32
+Saint-Jean-sur-Richelieu	areaUrbanKm	86.77
+Jeddah	areaUrbanKm	1686
+Gjakova	areaUrbanKm	13.189
+Mitrovica, Kosovo	areaUrbanKm	15.983
+Jagodina	areaUrbanKm	470
+Peć	areaUrbanKm	14008
+Prizren	areaUrbanKm	22.39
+Anuradhapura	areaUrbanKm	36
+Zhengzhou	areaUrbanKm	1024
+Suzhou	areaUrbanKm	2743
+Rijeka	areaUrbanKm	825
+Taichung	areaUrbanKm	492
+Jinzhou	areaUrbanKm	535
+Bozhou	areaUrbanKm	2262.9
+Greater Houston	areaUrbanKm	4299.4
+Arnprior	areaUrbanKm	18.07
+Dallas–Fort Worth metroplex	areaUrbanKm	3644.2
+Granby, Quebec	areaUrbanKm	90.53
+Châteauguay	areaUrbanKm	91.44
+Rimouski	areaUrbanKm	40.82
+Rotorua	areaUrbanKm	89.28
+New Taipei City	areaUrbanKm	1140
+Aylmer, Ontario	areaUrbanKm	6.23
+Greater Tokyo Area	areaUrbanKm	3925
+Ibadan	areaUrbanKm	6800
+Bulawayo	areaUrbanKm	993.5
+Guiyang	areaUrbanKm	2403.4
+Antalya	areaUrbanKm	1417
+Sept-Îles, Quebec	areaUrbanKm	19.69
+Saint-Tite, Quebec	areaUrbanKm	2.58
+Kaikoura	areaUrbanKm	6.78
+Halton Hills	areaUrbanKm	39.52
+Erin, Ontario	areaUrbanKm	4.77
+Levin, New Zealand	areaUrbanKm	109.02
+Foča	areaUrbanKm	113458
+Piastów	areaUrbanKm	5.76
+Nanchang	areaUrbanKm	617
+Isaccea	areaUrbanKm	3.69
+Jiaxing	areaUrbanKm	986.9
+Cuajimalpa	areaUrbanKm	16.22
+Jiangmen	areaUrbanKm	1692
+Shijiazhuang	areaUrbanKm	15848
+Delaware Valley	areaUrbanKm	5131.7
+Huai'an	areaUrbanKm	3130
+Jiangyin	areaUrbanKm	987.53
+Pukekohe	areaUrbanKm	87.09
+Zhenjiang	areaUrbanKm	1059
+Curitiba	areaUrbanKm	319.4
+Tabriz	areaUrbanKm	2356
+Teresina	areaUrbanKm	1755
+São José do Rio Preto	areaUrbanKm	117.43
+Nanyang, Henan	areaUrbanKm	1987.6
+Zhumadian	areaUrbanKm	770
+Yinchuan	areaUrbanKm	2045
+Anyang	areaUrbanKm	543.5
+Tangshan	areaUrbanKm	3874
+Lijiang	areaUrbanKm	1127
+Wenzhou	areaUrbanKm	1243.4
+Haikou	areaUrbanKm	2237
+Davao City	areaUrbanKm	293.78
+Datong	areaUrbanKm	2080
+Nuwara Eliya	areaUrbanKm	13
+Quanzhou	areaUrbanKm	872.4
+Xining	areaUrbanKm	343
+Pinar del Río	areaUrbanKm	70.7
+Baie-Saint-Paul	areaUrbanKm	5.99
+Port Harcourt	areaUrbanKm	158
+Kano	areaUrbanKm	251
+Rivière-du-Loup	areaUrbanKm	17.77
+Bizerte	areaUrbanKm	34
+Kincardine, Ontario	areaUrbanKm	9.99
+Bălți	areaUrbanKm	41.43
+Bihać	areaUrbanKm	900
+Santa Marta	areaUrbanKm	55.1
+Ma'anshan	areaUrbanKm	340
+Shawinigan	areaUrbanKm	109.93
+Zaprešić	areaUrbanKm	18.96
+Baoding	areaUrbanKm	326
+Carterton, New Zealand	areaUrbanKm	5.12
+Phoenix metropolitan area	areaUrbanKm	2969.6
+Yueyang	areaUrbanKm	1344
+Zhanjiang	areaUrbanKm	1360
+Weifang	areaUrbanKm	2646.1
+Onitsha	areaUrbanKm	25.45
+Dandong	areaUrbanKm	830
+Dunedin	areaUrbanKm	255
+Christchurch	areaUrbanKm	607.73
+The Battlefords	areaUrbanKm	56.88
+Daqing	areaUrbanKm	5107
+Dongying	areaUrbanKm	1155.6
+Baie-Comeau	areaUrbanKm	11.3
+Randstad	areaUrbanKm	4300
+Ensenada, Baja California	areaUrbanKm	61.08
+La Tuque, Quebec	areaUrbanKm	25.84
+Jiamusi	areaUrbanKm	882.5
+Meizhou	areaUrbanKm	3047.5
+Varaždin	areaUrbanKm	34.22
+Xinxiang	areaUrbanKm	346
+Campo Grande	areaUrbanKm	154.5
+Masterton	areaUrbanKm	100.66
+Konibodom	areaUrbanKm	829
+Dongguan	areaUrbanKm	2465
+Taoyuan, Taiwan	areaUrbanKm	1140
+Yibin	areaUrbanKm	1131
+Halifax, Nova Scotia	areaUrbanKm	262.65
+Beloeil, Quebec	areaUrbanKm	47.58
+Jiujiang	areaUrbanKm	598
+Antigonish, Nova Scotia	areaUrbanKm	6.01
+Qiqihar	areaUrbanKm	4039.3
+Winton, New Zealand	areaUrbanKm	61
+São José dos Campos	areaUrbanKm	298.99
+Podujevo	areaUrbanKm	10
+Zhaoqing	areaUrbanKm	706.4
+Amos, Quebec	areaUrbanKm	7.91
+Yancheng	areaUrbanKm	1914
+Pasto, Colombia	areaUrbanKm	26.4
+Zhangzhou	areaUrbanKm	366
+Cochabamba	areaUrbanKm	111
+Chengde	areaUrbanKm	709
+Bengbu	areaUrbanKm	613.7
+Jingzhou	areaUrbanKm	1562.2
+Jilin City	areaUrbanKm	3663.9
+Chapecó	areaUrbanKm	113.24
+Lianyungang	areaUrbanKm	880
+Liaoyang	areaUrbanKm	210
+Djibouti	areaUrbanKm	23
+Xuzhou	areaUrbanKm	3037
+Ganzhou	areaUrbanKm	2323.7
+Shaoguan	areaUrbanKm	2870.7
+Xuchang	areaUrbanKm	1088.2
+Chaguanas	areaUrbanKm	59
+Foshan	areaUrbanKm	3848.49
+Cambridge Bay	areaUrbanKm	0.49
+Nantong	areaUrbanKm	1692
+Tongxiang	areaUrbanKm	727.49
+Baotou	areaUrbanKm	2662
+Opunake	areaUrbanKm	3.73
+Yichang	areaUrbanKm	4232.4
+Orangeville, Ontario	areaUrbanKm	31.16
+Weihai	areaUrbanKm	731
+Yiwu	areaUrbanKm	1105.48
+Tunja	areaUrbanKm	13
+Benxi	areaUrbanKm	907
+Hengyang	areaUrbanKm	722
+Zipaquirá	areaUrbanKm	8
+Corumbá	areaUrbanKm	21
+Yingkou	areaUrbanKm	664
+Duitama	areaUrbanKm	8.86
+Handan	areaUrbanKm	142
+Mörön	areaUrbanKm	16.04
+Baker Lake, Nunavut	areaUrbanKm	0.4
+Fuxin	areaUrbanKm	459
+Fushun	areaUrbanKm	1416
+Mianyang	areaUrbanKm	1571.7
+Embrun, Ontario	areaUrbanKm	9.05
+São Bernardo do Campo	areaUrbanKm	118.74
+Xianyang	areaUrbanKm	523
+Cangzhou	areaUrbanKm	206.2
+Huizhou	areaUrbanKm	2672
+Pavlodar	areaUrbanKm	100
+Tehuacán	areaUrbanKm	27.83
+Zaozhuang	areaUrbanKm	3069
+Zibo	areaUrbanKm	2972
+Poços de Caldas	areaUrbanKm	85
+Chifeng	areaUrbanKm	7012
+Soacha	areaUrbanKm	19
+Teófilo Otoni	areaUrbanKm	19.62
+Pasca	areaUrbanKm	0.27
+Tai'an	areaUrbanKm	2086.8
+Chhapra	areaUrbanKm	38.26
+Zvornik	areaUrbanKm	37614
+Hengshui	areaUrbanKm	602.5
+Langfang	areaUrbanKm	961.8
+Malerkotla	areaUrbanKm	457
+Linfen	areaUrbanKm	1304
+Huzhou	areaUrbanKm	1566.8
+Changzhou	areaUrbanKm	1872.1
+Luohe	areaUrbanKm	1020
+Heze	areaUrbanKm	1416
+Taizhou, Zhejiang	areaUrbanKm	1536
+Fuyang	areaUrbanKm	1844
+Fusagasugá	areaUrbanKm	13.02
+Zigong	areaUrbanKm	1441
+Xiaogan	areaUrbanKm	1034.8
+Pingdingshan	areaUrbanKm	384
+Jinzhong	areaUrbanKm	1327
+Sariaya	areaUrbanKm	0.631
+Jining	areaUrbanKm	1534.2
+Cowansville	areaUrbanKm	29.42
+Linyi	areaUrbanKm	2293.3
+Anqing	areaUrbanKm	821
+Tieling	areaUrbanKm	203
+Chuzhou	areaUrbanKm	1404.3
+Mudanjiang	areaUrbanKm	2495
+Xilinhot	areaUrbanKm	34
+Huaibei	areaUrbanKm	748.4
+Huainan	areaUrbanKm	1492.3
+Ji'an	areaUrbanKm	1340
+Nanping	areaUrbanKm	2660
+Liaoyuan	areaUrbanKm	429
+Sanmenxia	areaUrbanKm	204.6
+Jiaozuo	areaUrbanKm	413.8
+Maoming	areaUrbanKm	2714
+Qingyuan	areaUrbanKm	3652.3
+Nanchong	areaUrbanKm	2527.8
+Boac, Marinduque	areaUrbanKm	5.23
+Heyuan	areaUrbanKm	361.5
+Jixi	areaUrbanKm	2208.5
+Calbayog	areaUrbanKm	42.85
+Suihua	areaUrbanKm	2756.4
+Lam Tin	areaUrbanKm	1.737
+Shangqiu	areaUrbanKm	1697
+Leshan	areaUrbanKm	1918.5
+Dingle, Iloilo	areaUrbanKm	4.15
+Yuncheng	areaUrbanKm	1205
+Sincelejo	areaUrbanKm	18.9
+Ordos	areaUrbanKm	2137
+Wuhu	areaUrbanKm	1292
+Shengzhou	areaUrbanKm	1789.07
+Huaihua	areaUrbanKm	32
+Murillo, Tolima	areaUrbanKm	1
+Valle de San Juan	areaUrbanKm	1
+Golmud	areaUrbanKm	72
+Caucasia, Antioquia	areaUrbanKm	2
+Guarne	areaUrbanKm	4
+Montebello, Antioquia	areaUrbanKm	83
+Panzhihua	areaUrbanKm	2010.7
+Neijiang	areaUrbanKm	1568.1
+Támesis, Antioquia	areaUrbanKm	1
+Thanh Hóa	areaUrbanKm	6145
+Grafarvogur	areaUrbanKm	7.7
+Taizhou, Jiangsu	areaUrbanKm	1567.1
+Barisal	areaUrbanKm	58
+Zunyi	areaUrbanKm	1304
+Luanshya	areaUrbanKm	1007.6087
+Simijaca	areaUrbanKm	0.8
+Aksu Prefecture	areaUrbanKm	14450
+Santa Tecla, El Salvador	areaUrbanKm	9
+Zhoukou	areaUrbanKm	141
+Xinyang	areaUrbanKm	3665.9
+Jinhua	areaUrbanKm	2049.5
+Liaocheng	areaUrbanKm	1254
+Laiwu	areaUrbanKm	224621
+Rizhao	areaUrbanKm	1915
+Suzhou, Anhui	areaUrbanKm	2906.92
+Lu'an	areaUrbanKm	3539.2
+Oyón-Oion	areaUrbanKm	1
+Washington metropolitan area	areaUrbanKm	3644.2
+Xiangyang	areaUrbanKm	3672.9
+Kyustendil	areaUrbanKm	979.91
+Lieren	areaUrbanKm	0.5
+Pingxiang	areaUrbanKm	1073
+Yangjiang	areaUrbanKm	779.69
+Facatativá	areaUrbanKm	6
+Salento, Quindío	areaUrbanKm	0.55
+Filandia, Quindío	areaUrbanKm	0.8
+Chía, Cundinamarca	areaUrbanKm	79
+Bridgetown, Nova Scotia	areaUrbanKm	3.65
+Istanbul	areaUrbanKm	1539
+Paz de Río	areaUrbanKm	38.7
+Tinjacá	areaUrbanKm	0.2601
+San Miguel de Sema	areaUrbanKm	0.21
+Togüí, Boyacá	areaUrbanKm	6
+Aquitania, Boyacá	areaUrbanKm	0.52
+Ciénega, Boyacá	areaUrbanKm	15
+History of Halifax	areaUrbanKm	262.65
+Kashgar Prefecture	areaUrbanKm	555
+Jastrebarsko	areaUrbanKm	19.56
+Altay Prefecture	areaUrbanKm	10852
+Madrid, Cundinamarca	areaUrbanKm	7.5
+Butiama	areaUrbanKm	26
+Kottayam	areaUrbanKm	137.6
+Qujing	areaUrbanKm	1442
+Xinyu	areaUrbanKm	1785.92
+Guang'an	areaUrbanKm	1533.65
+Bazhong	areaUrbanKm	1404
+Huanggang	areaUrbanKm	363.23
+Matara, Sri Lanka	areaUrbanKm	13
+Ezhou	areaUrbanKm	1593.54
+Huangshi	areaUrbanKm	233.8
+Negombo	areaUrbanKm	30
+Santa Rosa de Cabal	areaUrbanKm	20
+Sellingen	areaUrbanKm	0.79
+Cixi City	areaUrbanKm	1360.63
+Jaramana	areaUrbanKm	5.95
+Linhai	areaUrbanKm	2171
+Dourados	areaUrbanKm	205.99
+Aalborg	areaUrbanKm	139
+Greater Tehran	areaUrbanKm	730
+Pisba, Boyacá	areaUrbanKm	30.96
+Tuta, Boyacá	areaUrbanKm	0.782
+Águas de São Pedro	areaUrbanKm	3.612
+Rushan, Shandong	areaUrbanKm	28.6
+Meihekou	areaUrbanKm	81
+Haining	areaUrbanKm	700.5
+Santa Luzia, Minas Gerais	areaUrbanKm	35
+Dengzhou	areaUrbanKm	35
+Naha	areaUrbanKm	478.57
+Sotaquirá	areaUrbanKm	0.1
+Ubaté	areaUrbanKm	4
+Xinzhou	areaUrbanKm	1973
+Tonghua	areaUrbanKm	761
+Jelsa, Croatia	areaUrbanKm	121.2
+Weinan	areaUrbanKm	41
+Zhuji	areaUrbanKm	2311.41
+Southampton	areaUrbanKm	72.8
+Montreal	areaUrbanKm	1545.3
+Leeds	areaUrbanKm	487.8
+Dingzhou	areaUrbanKm	25
+Naviraí	areaUrbanKm	7.3
+Zhuozhou	areaUrbanKm	24
+Sainte-Thècle, Quebec	areaUrbanKm	2.25
+Shouguang	areaUrbanKm	1990.1
+Beekbergen	areaUrbanKm	1.1
+Tamalameque	areaUrbanKm	30.66
+Loenen, Apeldoorn	areaUrbanKm	1.2
+El Banco, Magdalena	areaUrbanKm	567.9
+Barrancas, La Guajira	areaUrbanKm	742
+El Molino, La Guajira	areaUrbanKm	1.5
+Fonseca, La Guajira	areaUrbanKm	4.8
+Ciudad Losada	areaUrbanKm	3101
+Black Bear Ranch	areaUrbanKm	0
+Bay Roberts	areaUrbanKm	47.91
+Santa Cruz de Lorica	areaUrbanKm	7.3
+Montelíbano	areaUrbanKm	9.56
+Charta	areaUrbanKm	0.16
+Chipatá, Santander	areaUrbanKm	14.12
+Charalá	areaUrbanKm	0.7
+Aguada, Santander	areaUrbanKm	0.04
+Oiba	areaUrbanKm	3
+Onzaga	areaUrbanKm	0.4031
+Socorro, Santander	areaUrbanKm	220
+Guasca	areaUrbanKm	8.8
+Orocué	areaUrbanKm	8.24
+Támara, Casanare	areaUrbanKm	0.99031
+Cómbita	areaUrbanKm	85.6
+Chíquiza	areaUrbanKm	23.71
+Sora, Boyacá	areaUrbanKm	1.08
+Samacá	areaUrbanKm	1.2
+Chivatá	areaUrbanKm	20
+Soracá	areaUrbanKm	27
+Turmequé	areaUrbanKm	4
+Úmbita	areaUrbanKm	0.5
+Chinavita	areaUrbanKm	0.39
+Guateque	areaUrbanKm	1.82
+Chivor	areaUrbanKm	9.9
+Saboyá	areaUrbanKm	0.1
+Ramiriquí	areaUrbanKm	7.25
+Tibaná	areaUrbanKm	0.45
+Viracachá	areaUrbanKm	1
+Somondoco	areaUrbanKm	2.4
+Paya, Boyacá	areaUrbanKm	225.503
+Sativanorte	areaUrbanKm	1
+Susacón	areaUrbanKm	0.42
+Chitaraque	areaUrbanKm	0.185
+Arcabuco	areaUrbanKm	35
+Sutamarchán	areaUrbanKm	8
+Gámeza	areaUrbanKm	70
+Nobsa	areaUrbanKm	13.9
+Cuítiva, Boyacá	areaUrbanKm	3.6
+Mongua	areaUrbanKm	13.79
+Busbanzá	areaUrbanKm	5
+Tutazá	areaUrbanKm	35
+Cerinza	areaUrbanKm	0.41
+Tópaga, Boyacá	areaUrbanKm	6.4
+Betéitiva	areaUrbanKm	6
+Paipa	areaUrbanKm	33.202
+Socha	areaUrbanKm	1.5
+Socotá	areaUrbanKm	1
+Tasco, Boyacá	areaUrbanKm	0.3
+Puerto Asís	areaUrbanKm	12
+Garzón	areaUrbanKm	200
+Palermo, Huila	areaUrbanKm	13.89
+Timaná	areaUrbanKm	1.8
+Líbano, Tolima	areaUrbanKm	3.28
+Jamundí	areaUrbanKm	42
+Bojacá	areaUrbanKm	40
+Cajicá	areaUrbanKm	2.73
+Choachí	areaUrbanKm	10.4
+Carmen de Carupa	areaUrbanKm	0.45
+Chocontá	areaUrbanKm	1.44
+Cota, Cundinamarca	areaUrbanKm	1.3
+Cogua	areaUrbanKm	14
+Cucunubá	areaUrbanKm	1.12
+Fosca, Cundinamarca	areaUrbanKm	0.19
+Funza	areaUrbanKm	4
+La Calera, Cundinamarca	areaUrbanKm	1.44
+Gachancipá	areaUrbanKm	42.5086
+Guatavita	areaUrbanKm	6.84
+La Mesa, Cundinamarca	areaUrbanKm	2.75
+Machetá	areaUrbanKm	5.35
+Mosquera, Cundinamarca	areaUrbanKm	7.67
+Girardot, Cundinamarca	areaUrbanKm	22.6019
+Nemocón	areaUrbanKm	0.61
+Pacho	areaUrbanKm	3.6
+Quipile	areaUrbanKm	0.35
+Quetame	areaUrbanKm	0.29
+San Antonio del Tequendama	areaUrbanKm	22
+Sibaté	areaUrbanKm	16.9
+Sopó	areaUrbanKm	1.06
+Subachoque	areaUrbanKm	0.813
+Susa, Cundinamarca	areaUrbanKm	1.2
+Tabio	areaUrbanKm	0.43
+Supatá	areaUrbanKm	0.3
+Tena, Cundinamarca	areaUrbanKm	25
+Tausa	areaUrbanKm	2
+Tibiritá	areaUrbanKm	0.26
+Tibacuy	areaUrbanKm	0.25
+Tenjo	areaUrbanKm	2
+Une	areaUrbanKm	2.33
+Ubaque	areaUrbanKm	0.14
+Tocancipá	areaUrbanKm	0.62
+Florencia, Caquetá	areaUrbanKm	14.56
+San Ramón, Costa Rica	areaUrbanKm	1.29
+Jinshui District	areaUrbanKm	58
+Uddel	areaUrbanKm	0.9
+Birmingham	areaUrbanKm	598.9
+Río Campo	areaUrbanKm	0
+Fadagh	areaUrbanKm	15
+Dhurnal	areaUrbanKm	14
+Buchanan, Saskatchewan	areaUrbanKm	1.29
+An Nhơn District	areaUrbanKm	60.1467
+Mường Lay	areaUrbanKm	52.355
+Gelephu	areaUrbanKm	11.52
+Invermay, Saskatchewan	areaUrbanKm	1.22
+Vĩnh Châu	areaUrbanKm	155.0983
+Ngã Năm District	areaUrbanKm	98.0313
+Colonia Manuel González	areaUrbanKm	241
+Nueva Esparta, El Salvador	areaUrbanKm	0.76
+Calgary	areaUrbanKm	704.51
+Gushi County	areaUrbanKm	35.03
+Árbær	areaUrbanKm	3.8
+Digri	areaUrbanKm	4
+Toguz-Toro District	areaUrbanKm	3816
+Breiðholt	areaUrbanKm	4.7
+Charlottetown	areaUrbanKm	57.89
+Sherman–Denison metropolitan area	areaUrbanKm	93.1
+Xinluo District	areaUrbanKm	185
+Brasília de Minas	areaUrbanKm	4.48
+Kjalarnes	areaUrbanKm	0.4
+Shali, Bhutan	areaUrbanKm	45
+Teluk Sengat	areaUrbanKm	60
+Beijing	areaUrbanKm	1368
+Auckland	areaUrbanKm	559.2
+Patna	areaUrbanKm	135.79
+Casas Grandes Municipality	areaUrbanKm	3.82
+Bandipora district	areaUrbanKm	49.6
+Esbjerg	areaUrbanKm	15
+Lower Hutt	areaUrbanKm	135
+Bereket	areaUrbanKm	9.342
+Hagerstown, Maryland	areaUrbanKm	196.4
+Abidjan	areaUrbanKm	422
+Bhawana Tehsil	areaUrbanKm	10
+Mamatid, Cabuyao	areaUrbanKm	2.6
+Mityana	areaUrbanKm	21
+Zoucheng	areaUrbanKm	1619
+Tainan	areaUrbanKm	259
+San Pablo Huitzo	areaUrbanKm	63.8
+Amsterdam Metropolitan Area	areaUrbanKm	1140.2
+Glavatičevo	areaUrbanKm	50
+Kot Ghulam Muhammad	areaUrbanKm	3
+Bridgeport, Connecticut	areaUrbanKm	3843.8
+Boston	areaUrbanKm	4600
+San Martín de Hidalgo Municipality, Jalisco	areaUrbanKm	2.72
+Sumaila	areaUrbanKm	500
+Belo Vale	areaUrbanKm	5
+Tegucigalpa	areaUrbanKm	201.5
+Viñuela	areaUrbanKm	27.22
+Metropoolregio Eindhoven	areaUrbanKm	321.86
+Gulod, Cabuyao	areaUrbanKm	4.08
+Bhawana	areaUrbanKm	10
+Baclaran, Cabuyao	areaUrbanKm	2.6
+Bigaa, Cabuyao	areaUrbanKm	2.6
+Butong, Cabuyao	areaUrbanKm	2.6
+Marinig, Cabuyao	areaUrbanKm	2.6
+Casile, Cabuyao	areaUrbanKm	2.6
+Diezmo, Cabuyao	areaUrbanKm	2.6
+Pittland, Cabuyao	areaUrbanKm	2.6
+Toarp, Malmö	areaUrbanKm	0.13
+Khamdang Gewog	areaUrbanKm	45
+Xiangtan	areaUrbanKm	280
+Ferizaj	areaUrbanKm	10.537
+Ivano-Frankivsk Municipality	areaUrbanKm	83.73
+Qaraoun	areaUrbanKm	3.6
+Ciudad de la Costa	areaUrbanKm	57
+Karu Urban Area	areaUrbanKm	400
+Sault Ste. Marie, Ontario	areaUrbanKm	57.46
+Baitang, Guangdong	areaUrbanKm	4
+Grafarholt og Úlfarsárdalur	areaUrbanKm	3.1
+Kanpur Metropolitan Area	areaUrbanKm	1506
+Salaheddine District	areaUrbanKm	1.5
+Singa, Sudan	areaUrbanKm	750
+Fez, Morocco	areaUrbanKm	320
+Ed dubeibat	areaUrbanKm	9824
+Warrington	areaUrbanKm	44.9
+Gilli Wala	areaUrbanKm	0.055
+Burol	areaUrbanKm	2.6
+Langkaan	areaUrbanKm	2.6
+Paliparan	areaUrbanKm	2.6
+Salawag	areaUrbanKm	2.6
+Patna Metropolitan Region	areaUrbanKm	600
+Uden-Veghel	areaUrbanKm	40.58
+Bangalore	areaUrbanKm	709
+Nada, Hainan	areaUrbanKm	25
+Lhasa	areaUrbanKm	53
+Proposed new capital of Egypt	areaUrbanKm	700
+Rotterdam The Hague Metropolitan Area	areaUrbanKm	440
+Hindaun Block	areaUrbanKm	49
+Chikan, Kaiping	areaUrbanKm	5
+Las Catalinas, Costa Rica	areaUrbanKm	0.97
+Hagalavadi	areaUrbanKm	9
+Taganga	areaUrbanKm	1
+Orofia	areaUrbanKm	600

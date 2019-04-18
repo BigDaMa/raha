@@ -1,0 +1,903 @@
+House of Lords	houseType	Upper House
+House of Commons of the United Kingdom	houseType	Lower House
+Parliament of the United Kingdom	houseType	Bicameral
+Sejm	houseType	Lower house
+United States Congress	houseType	Bicameral
+Kidderminster	houseType	Parish councils in England
+Scottish Parliament	houseType	Unicameral
+Australian House of Representatives	houseType	Lower house
+Gloucester	houseType	Non-metropolitan district
+Knesset	houseType	Unicameral
+Althing	houseType	Unicameralism
+Senate of Canada	houseType	Upper House
+Legislative Yuan	houseType	Unicameralism
+Irish House of Commons	houseType	Lower house
+House of Representatives	houseType	Lower House
+National Diet	houseType	Bicameralism
+Australian Senate	houseType	Upper house
+Storting	houseType	Unicameral
+Parliament of Northern Ireland	houseType	Bicameral
+States General of the Netherlands	houseType	Bicameral
+Parliament of Finland	houseType	Unicameral
+National Assembly	houseType	Parliament
+House of Councillors	houseType	Upper house
+House of Representatives	houseType	Lower house
+Federal Council	houseType	Upper house
+National Council	houseType	Lower house
+Rajya Sabha	houseType	Upper House
+Guardian Council	houseType	*
+Guardian Council	houseType	Election commission
+Guardian Council	houseType	Constitutional court
+Guardian Council	houseType	Legislative council
+Minnesota Senate	houseType	Upper house
+Minnesota House of Representatives	houseType	Lower house
+Legislative Council of Hong Kong	houseType	Unicameral
+Lok Sabha	houseType	Lower house
+Congress of the Philippines	houseType	Bicameral
+Volkskammer	houseType	Unicameralism
+House of Representatives of the Philippines	houseType	Lower house
+Senate of the Philippines	houseType	Upper house
+National Assembly	houseType	Lower house
+Tewkesbury	houseType	Parish councils in England
+National Council	houseType	Lower house
+Council of States	houseType	Upper house
+Northern Ireland Assembly	houseType	Unicameral
+Mississippi House of Representatives	houseType	Lower house
+New Zealand Parliament	houseType	Unicameral
+Congress of Deputies	houseType	Lower house
+Senate of Spain	houseType	Upper house
+New Zealand House of Representatives	houseType	Unicameral
+London Assembly	houseType	Unicameral
+Second Continental Congress	houseType	Unicameral
+Parliament of South Africa	houseType	Bicameral
+Parliament of England	houseType	Unicameral
+Parliament of England	houseType	Bicameral
+Parliament of England	houseType	1
+Islamic Consultative Assembly	houseType	Unicameral
+Croatian Parliament	houseType	Unicameralism
+Quebec Legislature	houseType	Bicameral
+Quebec Legislature	houseType	Unicameral
+Parliament of India	houseType	Bicameral
+Congress of the Union	houseType	Bicameral
+Oxfordshire County Council	houseType	Non-metropolitan county
+Dublin City Council	houseType	City council
+California State Legislature	houseType	Bicameral
+Maine Legislature	houseType	Bicameral
+Michigan Legislature	houseType	Bicameral
+Virginia General Assembly	houseType	Bicameral
+Alaska Legislature	houseType	Bicameral
+Massachusetts General Court	houseType	Bicameral
+Delaware General Assembly	houseType	Bicameral
+Maryland General Assembly	houseType	Bicameral
+New Hampshire General Court	houseType	Bicameral
+Colorado General Assembly	houseType	Bicameral
+Rhode Island General Assembly	houseType	Bicameral
+North Carolina General Assembly	houseType	Bicameral
+Vermont General Assembly	houseType	Bicameral
+Georgia General Assembly	houseType	Bicameral
+New Jersey Legislature	houseType	Bicameral
+Hawaii State Legislature	houseType	Bicameral
+National Assembly	houseType	Unicameral
+Texas Legislature	houseType	Bicameral
+Florida Legislature	houseType	Bicameral
+Folketing	houseType	Unicameral
+Indiana General Assembly	houseType	Bicameral
+West Midlands County Council	houseType	County council of West Midlands
+Senate of Poland	houseType	Upper house
+California State Senate	houseType	Upper house
+California State Assembly	houseType	Lower house
+North Carolina Senate	houseType	Upper house
+National Council	houseType	Unicameral
+Palau National Congress	houseType	Bicameral
+Saeima	houseType	Unicameral
+Irish House of Lords	houseType	Upper house
+Dudley Metropolitan Borough Council	houseType	Metropolitan district council
+Parliament of Malaysia	houseType	Bicameral
+Dewan Rakyat	houseType	Lower house
+Skåne Regional Council	houseType	County council
+National Assembly	houseType	Unicameral
+Wisconsin State Assembly	houseType	Lower house
+Cortes Generales	houseType	Bicameral
+Texas Senate	houseType	Upper house
+Parliament of Southern Ireland	houseType	Bicameral
+Løgting	houseType	Unicameral
+Senate	houseType	Upper house
+Parliament of Sri Lanka	houseType	Unicameral
+Seimas	houseType	Unicameral
+New South Wales Legislative Assembly	houseType	Lower house
+Northern Territory Legislative Assembly	houseType	Unicameral
+Australian Capital Territory Legislative Assembly	houseType	Unicameral
+New York State Assembly	houseType	Lower house
+Landtag of Rhineland-Palatinate	houseType	Landtag
+National Assembly	houseType	Unicameralism
+Senate	houseType	Upper house
+National Assembly	houseType	Unicameral
+Congress of Colombia	houseType	Bicameral
+Regional Representative Council	houseType	Upper house
+National Assembly	houseType	Unicameralism
+Minnesota Legislature	houseType	Bicameral
+National Assembly	houseType	Unicameral
+Florida House of Representatives	houseType	Lower house
+Missouri General Assembly	houseType	Bicameral
+Senate of Colombia	houseType	Upper house of the Congress of Colombia
+House of Representatives	houseType	Lower house
+Stamp Act Congress	houseType	Unicameral
+Parliament of Fiji	houseType	Unicameral
+Chamber of Deputies	houseType	Lower house of the Congress of the Dominican Republic
+Parliament of Ireland	houseType	Bicameral
+National Council of Provinces	houseType	Upper house
+Colorado House of Representatives	houseType	Lower house
+Colorado Senate	houseType	Upper house
+Michigan House of Representatives	houseType	Lower house
+Michigan Senate	houseType	Upper House
+Yukon Legislative Assembly	houseType	Unicameral house of the Legislature of Yukon
+Congress of Paraguay	houseType	Bicameral
+National Congress of Brazil	houseType	Bicameral
+Supreme People's Assembly	houseType	Unicameral
+National Congress of Chile	houseType	Bicameral
+Massachusetts House of Representatives	houseType	Lower house
+Congress of Guatemala	houseType	Unicameral
+Galway City Council	houseType	City council
+Senate of Pakistan	houseType	Upper House
+National Assembly of Pakistan	houseType	Lower house
+Council of Five Hundred	houseType	Lower house
+Ohio House of Representatives	houseType	Lower House
+Dáil Éireann	houseType	Unicameralism
+Council of Ancients	houseType	Upper house
+Grand National Assembly of Turkey	houseType	Unicameralism
+Riigikogu	houseType	Unicameral
+Hawaii House of Representatives	houseType	Lower house
+Imperial Council	houseType	Bicameral
+Belgian Federal Parliament	houseType	Bicameral
+Gibraltar Parliament	houseType	Unicameral
+Ohio Senate	houseType	Upper House
+Verkhovna Rada	houseType	Unicameral
+Parliament of Pakistan	houseType	Bicameral
+Illinois House of Representatives	houseType	Lower house
+Tennessee House of Representatives	houseType	Lower house
+Tennessee General Assembly	houseType	Bicameral
+Tennessee Senate	houseType	Upper house
+Georgia House of Representatives	houseType	Lower House
+Georgia State Senate	houseType	Upper House
+Mississippi State Senate	houseType	Upper house
+General Assembly of Nova Scotia	houseType	Bicameral
+General Assembly of Nova Scotia	houseType	Unicameral
+Parliament of Kazakhstan	houseType	Bicameral
+Seattle City Council	houseType	City Council
+King County Council	houseType	County Council
+French Parliament	houseType	Bicameral
+State Duma	houseType	Lower House
+Senate of Puerto Rico	houseType	Upper house
+House of Representatives of Puerto Rico	houseType	Lower house
+Legislative Assembly of Puerto Rico	houseType	Bicameral
+Alaska House of Representatives	houseType	Lower house
+Alaska Senate	houseType	Upper house
+Washington State Legislature	houseType	Bicameral
+Senate	houseType	Upper house
+Assembly of the Republic	houseType	Unicameral
+Parliament of Victoria	houseType	Bicameral
+Berkshire County Council	houseType	Unicameral
+New Zealand Legislative Council	houseType	Upper House
+Mississauga City Council	houseType	City council
+Greater Manchester County Council	houseType	Metropolitan county
+Greater Manchester County Council	houseType	County Council
+Maryland Senate	houseType	Upper house
+New Jersey General Assembly	houseType	Lower house
+Congress of the Confederate States	houseType	Bicameralism
+Iowa General Assembly	houseType	Bicameral
+Mississippi Legislature	houseType	Bicameral
+Senate of Romania	houseType	Upper house
+Chamber of Deputies	houseType	Lower house
+Minneapolis City Council	houseType	Unicameralism
+Parliament of New South Wales	houseType	Bicameral
+Parliament of Queensland	houseType	Unicameral
+Parliament of South Australia	houseType	Bicameral
+Federation Council	houseType	Upper house
+Indiana House of Representatives	houseType	Lower house
+Alberta Legislature	houseType	Unicameral
+Wisconsin Legislature	houseType	Bicameral
+Oireachtas of the Irish Free State	houseType	Bicameral
+National Assembly of South Africa	houseType	Lower house
+Italian Parliament	houseType	Bicameral
+Belfast City Council	houseType	City council
+Maine House of Representatives	houseType	Lower house
+Council of Representatives of Iraq	houseType	Unicameral
+Arizona State Legislature	houseType	Bicameral
+Connecticut House of Representatives	houseType	Lower house
+Connecticut Senate	houseType	Upper house
+House of Representatives	houseType	Lower House
+Senate	houseType	Upper House
+Parliament of Trinidad and Tobago	houseType	Bicameral
+Senate of Virginia	houseType	Upper House
+Rhode Island House of Representatives	houseType	Lower House
+Landtag of the Free State of Saxony	houseType	Landtag
+Greater Chennai Corporation	houseType	Municipal Corporation
+Congress of the Republic of Peru	houseType	Unicameral
+Plurinational Legislative Assembly	houseType	Bicameral
+National Congress of Argentina	houseType	Bicameral
+Constituent Assembly of India	houseType	Unicameral
+Chamber of Deputies	houseType	Lower house
+National Congress of Honduras	houseType	Unicameral
+Legislative Assembly of El Salvador	houseType	Unicameral
+National Assembly	houseType	Unicameral
+New Jersey Senate	houseType	Upper House
+Portuguese Inquisition	houseType	Council under the election of the Portuguese monarchy
+Legislative Assembly of Queensland	houseType	Unicameral
+Goa Inquisition	houseType	Part of the Portuguese Inquisition
+First Continental Congress	houseType	Unicameral
+House of the People	houseType	Lower house
+House of Elders	houseType	Upper house
+Legislative Assembly of Costa Rica	houseType	Unicameral
+Federal Assembly	houseType	Bicameral
+Rigsdagen	houseType	Bicameral legislature
+Florida Senate	houseType	Upper house
+Parliament of Singapore	houseType	Unicameral
+National Assembly	houseType	Bicameral
+Senate of South Africa	houseType	Upper house
+Shura Council	houseType	Upper house
+House of Representatives	houseType	Unicameral
+Parliament of Egypt	houseType	Unicameral
+Queensland Legislative Council	houseType	Upper house
+Pennsylvania General Assembly	houseType	Bicameral
+Corsican Assembly	houseType	Unicameral
+Taipei City Council	houseType	Municipal Council
+Pennsylvania State Senate	houseType	Upper House
+Primera Junta	houseType	Junta
+General Council	houseType	Unicameral
+West Virginia House of Delegates	houseType	Lower house
+National Assembly	houseType	Unicameral
+Cork City Council	houseType	City council
+Parliament of Galicia	houseType	Unicameral
+New Hampshire House of Representatives	houseType	Lower house
+National Assembly	houseType	Bicameral
+West Virginia Legislature	houseType	Bicameral
+West Virginia Senate	houseType	Upper house
+Austrian Parliament	houseType	Bicameral
+State Great Khural	houseType	Unicameral
+Dewan Negara	houseType	Upper house
+National Parliament of Papua New Guinea	houseType	Unicameral
+New Mexico Senate	houseType	Upper House
+Parliament of Uganda	houseType	Unicameral
+Oregon Legislative Assembly	houseType	Bicameral
+St Athan	houseType	Three Wards of St Athan
+Hellenic Parliament	houseType	Unicameral
+Tripura Tribal Areas Autonomous District Council	houseType	Autonomous District Council
+Delaware Senate	houseType	Upper house
+Delaware House of Representatives	houseType	Lower house
+Parliament of Barbados	houseType	Bicameral
+Senate of Barbados	houseType	Upper House
+Urban Council	houseType	Municipal council
+Regional Council	houseType	Municipal council
+National Assembly	houseType	Unicameral
+Chamber of Deputies	houseType	Unicameral
+Taupo District Council	houseType	Territorial authorities of New Zealand
+Assembly of French Polynesia	houseType	Unicameral
+Chamber of Deputies	houseType	Lower House
+Kentucky General Assembly	houseType	Bicameral
+Parliament of the Republic of Moldova	houseType	Unicameral
+Parliament of Catalonia	houseType	Unicameral
+States of Jersey	houseType	Unicameral
+National Assembly of People's Power	houseType	Unicameral
+Kentucky Senate	houseType	Upper house
+National Assembly	houseType	Unicameral
+Legislative Assembly of Upper Canada	houseType	Lower house
+Sheffield City Council	houseType	Metropolitan district
+People's Majlis	houseType	Unicameral
+Leeds City Council	houseType	Metropolitan district council
+Nottingham City Council	houseType	Non-metropolitan district council
+Legislature of Liberia	houseType	Bicameral
+Senate of Liberia	houseType	Upper house
+Parliament of Albania	houseType	Unicameral
+Philippine Assembly	houseType	Lower House
+Council of Representatives	houseType	Lower house
+Consultative Council	houseType	Upper house
+National Assembly of the Gambia	houseType	Unicameral
+Mazhilis	houseType	Bicameral
+Legislative Council of Upper Canada	houseType	Upper house
+State Council of Ceylon	houseType	Unicameral
+Arizona House of Representatives	houseType	Lower house
+Latin American Parliament	houseType	Unicameral
+Vermont House of Representatives	houseType	Lower house
+House of Assembly of Saint Vincent and the Grenadines	houseType	Unicameral
+Kildare County Council	houseType	County council
+National Parliament	houseType	Unicameral
+Legislative Assembly of the Province of Canada	houseType	Lower house
+National Assembly	houseType	Unicameral
+Parliament of Georgia	houseType	Unicameral
+Middlesex County Council	houseType	County council of Middlesex
+National Assembly	houseType	Unicameral
+Arkansas House of Representatives	houseType	Lower house
+Assembly of the Republic	houseType	Unicameral
+National Assembly	houseType	Unicameral
+Assembly of the Union of the Comoros	houseType	Unicameral
+National Assembly	houseType	Unicameral
+Senate of Nigeria	houseType	Upper house
+House of Representatives	houseType	Bicameral
+National Assembly	houseType	Unicameral
+National Assembly	houseType	Unicameral
+National Assembly	houseType	Unicameral
+Supreme Council	houseType	Unicameral
+House of Assembly of Barbados	houseType	Lower House
+Chamber of Deputies	houseType	Lower house
+National Assembly	houseType	Unicameral
+National People's Assembly	houseType	Unicameral
+House of Representatives	houseType	Lower house
+National Assembly	houseType	Unicameral
+Parliament of Morocco	houseType	Bicameral
+Zanzibar House of Representatives	houseType	Unicameral
+Sahrawi National Council	houseType	Unicameral
+House of Assembly of Dominica	houseType	Unicameral
+National Assembly of Burkina Faso	houseType	Unicameral
+National Assembly	houseType	Unicameral
+Legislative Council of the Province of Canada	houseType	Upper house
+National Assembly	houseType	Lower house
+Chamber of Representatives	houseType	Lower house
+Alabama Legislature	houseType	Bicameral
+Alabama Senate	houseType	Upper House
+Alabama House of Representatives	houseType	Lower house
+Bruhat Bengaluru Mahanagara Palike	houseType	Municipal Corporation
+House of Representatives of Belarus	houseType	Lower House
+National Assembly	houseType	Unicameral
+National Assembly	houseType	Unicameral
+National Assembly	houseType	Bicameral
+National Assembly	houseType	Unicameral
+Parliament of the Bahamas	houseType	Bicameral
+National Assembly	houseType	Unicameral
+Council of the Nation	houseType	Upper house
+Rhode Island Senate	houseType	Upper House
+Kansas Legislature	houseType	Bicameral
+Oklahoma Legislature	houseType	Bicameral
+National Assembly of Belarus	houseType	Bicameral
+Council of the Republic of Belarus	houseType	Upper house
+Maine Senate	houseType	Upper house
+House of Representatives	houseType	Lower house
+Senate of Thailand	houseType	Upper house
+Crown Council of Ethiopia	houseType	Constitutional Law
+Utah State Legislature	houseType	Bicameral
+Congress of Sonora	houseType	Unicameral
+National Assembly	houseType	Unicameralism
+National Assembly	houseType	Unicameral
+Parliament of Romania	houseType	Bicameral
+Estates of Aruba	houseType	Unicameral
+Senate	houseType	Upper House
+National Assembly	houseType	Unicameral
+Parliament of Vanuatu	houseType	Unicameral
+National Assembly	houseType	Unicameral
+Senate of Cambodia	houseType	Upper house of the Parliament of Cambodia
+National Assembly of Cambodia	houseType	Lower house of the Parliament of Cambodia
+Parliament of Cambodia	houseType	Bicameral
+National Assembly	houseType	Unicameral Parliament of Guyana
+Parliament of Tuvalu	houseType	Unicameral
+Parliamentary Assembly of Bosnia and Herzegovina	houseType	Bicameral
+National Assembly	houseType	Lower house
+National Assembly	houseType	Unicameral
+Parliament of Haiti	houseType	Bicameral
+Chamber of Deputies	houseType	Lower house
+National Assembly	houseType	Lower House
+National Assembly	houseType	Unicameral
+Supreme Council	houseType	Unicameral
+Senate of Saint Lucia	houseType	Upper House
+Legislature of Guam	houseType	Unicameral
+Legislative Assembly of the Cayman Islands	houseType	Unicameral legislature
+House of Assembly of Bermuda	houseType	Lower House
+House of Assembly	houseType	Unicameral
+Senate of Bermuda	houseType	Upper House
+Assembly of the Year XIII	houseType	Unicameralism
+Senate of Uzbekistan	houseType	Upper house
+Legislative Chamber of Uzbekistan	houseType	Lower house
+Second Triumvirate	houseType	Triumvirate
+Hull City Council	houseType	Unitary authority
+Washington State Senate	houseType	Upper house
+Legislature of the Virgin Islands	houseType	Unicameral
+Sunderland City Council	houseType	Metropolitan district council
+Kuala Lumpur City Hall	houseType	City Council
+Nevada Assembly	houseType	Lower house
+Nevada Legislature	houseType	Bicameral
+Nevada Senate	houseType	Upper house
+Solihull Metropolitan Borough Council	houseType	Metropolitan district council
+Indiana Senate	houseType	Upper house
+Wyoming Legislature	houseType	Bicameral
+Oregon House of Representatives	houseType	Lower House
+Louisiana State Legislature	houseType	Bicameral
+Galway County Council	houseType	County council
+Waterford City Council	houseType	City council
+Wicklow County Council	houseType	County council
+Kilkenny County Council	houseType	County council
+Longford County Council	houseType	County council
+Donegal County Council	houseType	County council
+Mayo County Council	houseType	County council
+Meath County Council	houseType	County council
+Westmeath County Council	houseType	County council
+Louth County Council	houseType	County council
+Leitrim County Council	houseType	County council
+Offaly County Council	houseType	County council
+Wexford County Council	houseType	County council
+Monaghan County Council	houseType	County council
+Kerry County Council	houseType	County council
+Roscommon County Council	houseType	County council
+Clare County Council	houseType	County council
+Sligo County Council	houseType	County council
+Laois County Council	houseType	County council
+Carlow County Council	houseType	County council
+Cavan County Council	houseType	County council
+Waterford County Council	houseType	County council
+People's Seimas	houseType	Supreme Soviet
+Cork County Council	houseType	County council
+Ahmedabad Urban Development Authority	houseType	Municipal Corporation
+Oklahoma House of Representatives	houseType	Lower house
+Vermont Senate	houseType	Upper house
+Oklahoma Senate	houseType	Upper house
+Parliament of Montenegro	houseType	Unicameral
+Westminster Court of Burgesses	houseType	Manorial court
+Oregon State Senate	houseType	Upper house
+Dún Laoghaire–Rathdown County Council	houseType	County council
+Senate of Iran	houseType	Upper house
+Buffalo Common Council	houseType	Unicameral
+Wyoming Senate	houseType	Upper House
+Wyoming House of Representatives	houseType	Lower house
+Punjab Legislative Assembly	houseType	Unicameral
+Provincial Assembly of the Punjab	houseType	Unicameral
+Herefordshire Council	houseType	Unitary authorities of England
+Chamber of Nationalities	houseType	Upper house
+Spanish Inquisition	houseType	Tribunal under the election of the Spanish monarchy, for upholding religious orthodoxy in their realm
+Philippine Commission	houseType	Unicameral
+Philippine Commission	houseType	()
+Philippine Commission	houseType	Upper house
+Doncaster Metropolitan Borough Council	houseType	Metropolitan district council
+Federal Senate	houseType	Upper house
+West Riding County Council	houseType	County council
+Washington House of Representatives	houseType	Lower house
+Kansas House of Representatives	houseType	Lower house
+Kansas Senate	houseType	Upper house
+Thiruvananthapuram Corporation	houseType	Municipal Corporation
+West Bengal Legislative Assembly	houseType	Unicameral
+Utah State Senate	houseType	Upper house
+Utah House of Representatives	houseType	Lower house
+Parliament of Cameroon	houseType	Bicameral
+Puducherry Legislative Assembly	houseType	Unicameral
+Yanam Municipality	houseType	Municipality
+Tamil Nadu Legislative Council	houseType	Upper house
+Provincial Assembly of Sindh	houseType	Unicameral
+Louisiana State Senate	houseType	Upper house
+Knowsley Metropolitan Borough Council	houseType	Metropolitan district council
+Merseyside County Council	houseType	County council of Merseyside
+Iowa Senate	houseType	Upper house
+Kirklees Metropolitan Borough Council	houseType	Metropolitan district council
+Senate	houseType	Upper house
+Iowa House of Representatives	houseType	Lower house
+Congress of the Republic of Texas	houseType	Bicameral
+Council of the Isles of Scilly	houseType	Unitary Authority
+Legislative Assembly of Saskatchewan	houseType	Unicameral
+Philippine Legislature	houseType	bicameral
+Navi Mumbai Municipal Corporation	houseType	Municipal Corporation
+Parliament of Navarre	houseType	Unicameral
+Legislative Assembly of Saint Petersburg	houseType	Unicameralism
+Louisiana House of Representatives	houseType	Lower house
+Taft Commission	houseType	(From 1901–07)
+Taft Commission	houseType	Unicameral
+Taft Commission	houseType	(From 1907–16)
+Taft Commission	houseType	Upper house
+Imperial Legislative Council	houseType	Bicameralism
+Parliament of Cantabria	houseType	List of Spanish regional legislatures
+Parliament of Kenya	houseType	Bicameral
+Bournemouth Borough Council	houseType	Unitary authority
+Abgeordnetenhaus of Berlin	houseType	Landtag
+Prussian House of Lords	houseType	Upper house
+Legislative Assembly of Vancouver Island	houseType	Unicameral
+Tripura Legislative Assembly	houseType	Unicameral
+Provisional Legislature of Oregon	houseType	Unicameral
+Legislative Council of New Brunswick	houseType	Upper house
+Oregon Territorial Legislature	houseType	Bicameral
+Western Cape Provincial Parliament	houseType	Unicameral
+Fairfax County Board of Supervisors	houseType	Board of Supervisors
+Legislature of the Kingdom of Hawaii	houseType	Bicameral
+Legislature of the Kingdom of Hawaii	houseType	Unicameral
+Parliament of Senegal	houseType	Unicameral
+Trafford Metropolitan Borough Council	houseType	Metropolitan district council
+Municipal Corporation of Faridabad	houseType	Municipal Corporation
+Assembly of Madrid	houseType	List of Spanish regional legislatures
+Assembly of Vojvodina	houseType	Unicameral
+Eastern Cape Provincial Legislature	houseType	Unicameral
+Limpopo Legislature	houseType	Unicameral
+General Assembly of Prince Edward Island	houseType	Bicameral
+General Assembly of Prince Edward Island	houseType	Unicameral
+Khyber Pakhtunkhwa Assembly	houseType	Unicameral
+Weimar National Assembly	houseType	Constituent Assembly
+Mercosur Parliament	houseType	International parliament
+National Assembly of Thailand	houseType	Bicameral
+KwaZulu-Natal Legislature	houseType	Unicameral
+Rivers State House of Assembly	houseType	Unicameral
+New Brunswick Legislature	houseType	Bicameral
+New Brunswick Legislature	houseType	Unicameral
+National Council	houseType	Upper house
+Fingal County Council	houseType	County council
+South Dublin County Council	houseType	County council
+National Assembly	houseType	Lower house
+Supreme Soviet of the Lithuanian SSR	houseType	Supreme Soviet
+Penang Island City Council	houseType	Local authority of the city of George Town, Penang and Penang Island
+Rangitikei District Council	houseType	Territorial authorities of New Zealand
+Parliament of Bhutan	houseType	Bicameral
+Legislative Council of Manitoba	houseType	Upper house
+Wigan Metropolitan Borough Council	houseType	Cabinet-style council
+Southern Rhodesian Legislative Assembly	houseType	Unicameralism
+Parliament of Jordan	houseType	Bicameral
+Shropshire Council	houseType	Unitary authorities of England
+Durham County Council	houseType	Unitary authorities of England
+Chamber of Advisors	houseType	Upper house
+Bürgerschaft of Bremen	houseType	Landtag
+City of Bradford Metropolitan District Council	houseType	Metropolitan district council
+Landtag of North Rhine-Westphalia	houseType	Landtag
+Andhra Pradesh Legislative Assembly	houseType	Lower house
+Penang State Legislative Assembly	houseType	Unicameral
+Causeway Coast and Glens District Council	houseType	Local government in Northern Ireland
+United States House of Representatives	houseType	Lower house
+Antrim and Newtownabbey Borough Council	houseType	Local government in Northern Ireland
+Ards and North Down Borough Council	houseType	Districts of northern ireland
+Mid and East Antrim Borough Council	houseType	Local government in Northern Ireland
+Mid-Ulster District Council	houseType	Local government in Northern Ireland
+Fermanagh and Omagh District Council	houseType	Local government in Northern Ireland
+Derry and Strabane District Council	houseType	Local government in Northern Ireland
+Corts Valencianes	houseType	List of Spanish regional legislatures
+Nashik Municipal Corporation	houseType	Municipal Corporation
+Thane Municipal Corporation	houseType	Municipal Corporation
+Uttar Pradesh Legislative Assembly	houseType	Bicameral
+General Assembly of Newfoundland and Labrador	houseType	Bicameral
+General Assembly of Newfoundland and Labrador	houseType	Unicameral
+Greater Poland Regional Assembly	houseType	Unicameral
+Kuyavian-Pomeranian Regional Assembly	houseType	Unicameral
+Lesser Poland Regional Assembly	houseType	Unicameral
+Łódź Regional Assembly	houseType	Unicameral
+Lower Silesian Regional Assembly	houseType	Unicameral
+Legislative Council of Zulia	houseType	Unicameralism
+Lublin Regional Assembly	houseType	Unicameral
+Lubusz Regional Assembly	houseType	Unicameral
+Masovian Regional Assembly	houseType	Unicameral
+Opole Regional Assembly	houseType	Unicameral
+Podlaskie Regional Assembly	houseType	Unicameral
+Pomeranian Regional Assembly	houseType	Unicameral
+Silesian Regional Assembly	houseType	Unicameral
+Subcarpathian Regional Assembly	houseType	Unicameral
+Świętokrzyskie Regional Assembly	houseType	Unicameral
+Warmian-Masurian Regional Assembly	houseType	Unicameral
+West Pomeranian Regional Assembly	houseType	Unicameral
+Bihar Legislative Council	houseType	Upper house
+Bihar Legislative Assembly	houseType	Bicameral
+Prussian National Assembly	houseType	Unicameralism
+House of Assembly of South Africa	houseType	Lower house
+House of Assembly of South Africa	houseType	Unicameral parliament
+House of Assembly of South Africa	houseType	Tricameral Parliament
+Telford and Wrekin Council	houseType	Unitary authorities of England
+Derby City Council	houseType	Unitary authority
+House of Commons	houseType	Lower house
+Senate	houseType	Upper house
+Legislative Council of Nova Scotia	houseType	Upper house
+States of Zeeland	houseType	Unicameralism
+Kampuchean People's Representative Assembly	houseType	Unicameral
+House of Delegates of South Africa	houseType	Tricameral Parliament
+Uttarakhand Legislative Assembly	houseType	Unicameral
+State Assembly of the Altai Republic	houseType	Unicameral
+Supreme Soviet of Russia	houseType	Supreme Soviet
+Supreme Soviet of Russia	houseType	Unicameralism
+Supreme Soviet of Russia	houseType	Bicameralism
+Kedah State Legislative Assembly	houseType	Unicameral
+Legislative Council of Prince Edward Island	houseType	Upper house
+Tamil Nadu Legislative Assembly	houseType	Unicameral
+Tamil Nadu Legislature	houseType	Unicameral
+Seanad Éireann	houseType	Upper house
+Aragonese Corts	houseType	List of Spanish regional legislatures
+Buenos Aires City Legislature	houseType	Unicameral
+National State Assembly	houseType	Unicameral
+Arkansas General Assembly	houseType	Bicameral
+Federal Way City Council	houseType	City Council
+Himachal Pradesh Legislative Assembly	houseType	Unicameral
+Nagaland Legislative Assembly	houseType	Unicameral
+New Jersey Legislative Council	houseType	Upper House
+South Dakota Legislature	houseType	Bicameral
+Greater Manchester Combined Authority	houseType	Combined authority
+Oklahoma Territorial Legislature	houseType	Bicameral
+Selangor State Legislative Assembly	houseType	Unicameral
+Kelantan State Legislative Assembly	houseType	Unicameral
+Perak State Legislative Assembly	houseType	Unicameral
+Assam Legislative Assembly	houseType	Unicameral
+Perlis State Legislative Assembly	houseType	Unicameral
+Pimpri-Chinchwad Municipal Corporation	houseType	Municipal Corporation
+Malacca State Legislative Assembly	houseType	Unicameral
+Sarawak State Legislative Assembly	houseType	Unicameral
+Gujarat Legislative Assembly	houseType	Unicameral
+Negeri Sembilan State Legislative Assembly	houseType	Unicameral
+Rochdale Metropolitan Borough Council	houseType	Metropolitan district council
+Salford City Council	houseType	Metropolitan district council
+Bolton Metropolitan Borough Council	houseType	Metropolitan district council
+Grand Council of Basel-Stadt	houseType	Unicameral
+Senate of Kenya	houseType	Upper house
+House of Representatives of South Africa	houseType	Tricameral Parliament
+Jammu and Kashmir Legislative Assembly	houseType	Lower House
+Jammu and Kashmir Legislative Council	houseType	Upper house
+Supreme Council – Reconstituent Seimas	houseType	Supreme Soviet
+Soviet of the Republic	houseType	Lower house
+Soviet of Nationalities	houseType	Upper house
+Johor State Legislative Assembly	houseType	Unicameral
+Tiruchirappalli City Municipal Corporation	houseType	Municipal Corporation
+Barnet London Borough Council	houseType	London borough council
+Pahang State Legislative Assembly	houseType	Unicameral
+Assembly of the Union	houseType	Bicameral
+Jharkhand Legislative Assembly	houseType	Unicameral
+Manipur Legislative Assembly	houseType	Unicameral
+Sikkim Legislative Assembly	houseType	Unicameral
+Odisha Legislative Assembly	houseType	Unicameral
+Mizoram Legislative Assembly	houseType	Unicameral
+Reichstag	houseType	Bicameral
+Reichstag	houseType	Bicameral
+House of Peers	houseType	Upper house
+Jaffna Municipal Council	houseType	Local authority
+Ards Borough Council	houseType	Districts of Northern Ireland
+Antrim Borough Council	houseType	Districts of Northern Ireland
+Ballymena Borough Council	houseType	Districts of Northern Ireland
+Banbridge District Council	houseType	Districts of Northern Ireland
+Ballymoney Borough Council	houseType	Districts of Northern Ireland
+General Assembly of the Ottoman Empire	houseType	Bicameralism
+Gauteng Provincial Legislature	houseType	Unicameral
+Congress of Campeche	houseType	Unicameral
+Congress of Quintana Roo	houseType	Unicameral
+Congress of Tamaulipas	houseType	Unicameral
+Batticaloa Municipal Council	houseType	Local authority
+Trincomalee Urban Council	houseType	Local authority
+Terengganu State Legislative Assembly	houseType	Unicameral
+Parliament of British Columbia	houseType	Unicameral
+Vavuniya Urban Council	houseType	Local authority
+Chavakachcheri Urban Council	houseType	Local authority
+Point Pedro Urban Council	houseType	Local authority
+Valvettithurai Urban Council	houseType	Local authority
+Kalmunai Municipal Council	houseType	Local authority
+Mannar Urban Council	houseType	Local authority
+Akkaraipattu Municipal Council	houseType	Local authority
+Ampara Urban Council	houseType	Local authority
+Eravur Urban Council	houseType	Local authority
+Kattankudi Urban Council	houseType	Local authority
+Kinniya Urban Council	houseType	Local authority
+Coimbatore Municipal Corporation	houseType	Municipal Corporation
+Madurai Municipal Corporation	houseType	Municipal Corporation
+Tirunelveli Municipal Corporation	houseType	Municipal Corporation
+Council of Oman	houseType	Bicameral
+Constituent Assembly of Tunisia	houseType	Unicameralism
+Kaohsiung City Council	houseType	Municipal council
+Tainan City Council	houseType	Municipal council
+Hugglescote and Donington le Heath	houseType	Parish councils in England
+Nebraska Legislature	houseType	Unicameral
+Reichstag	houseType	Unicameral
+Parliament of the Federation of Bosnia and Herzegovina	houseType	Bicameral
+Haa Alif Atoll	houseType	Administrative divisions of the Maldives
+Chavakachcheri Divisional Council	houseType	Local authority
+Karainagar Divisional Council	houseType	Local authority
+Delft Divisional Council	houseType	Local authority
+Kayts Divisional Council	houseType	Local authority
+Nallur Divisional Council	houseType	Local authority
+Vadamarachchi South West Divisional Council	houseType	Local authority
+Valikamam East Divisional Council	houseType	Local authority
+Point Pedro Divisional Council	houseType	Local authority
+Valikamam North Divisional Council	houseType	Local authority
+Valikamam South Divisional Council	houseType	Local authority
+Valikamam South West Divisional Council	houseType	Local authority
+Valikamam West Divisional Council	houseType	Local authority
+Velanai Divisional Council	houseType	Local authority
+Prussian State Council	houseType	Upper house
+Karachchi Divisional Council	houseType	Local authority
+Poonakary Divisional Council	houseType	Local authority
+Mannar Divisional Council	houseType	Local authority
+Manthai West Divisional Council	houseType	Local authority
+Pachchilaipalli Divisional Council	houseType	Local authority
+Musali Divisional Council	houseType	Local authority
+Nanaddan Divisional Council	houseType	Local authority
+Thunukkai Divisional Council	houseType	Local authority
+Manthai East Divisional Council	houseType	Local authority
+Vavuniya North Divisional Council	houseType	Local authority
+Vavuniya South Sinhala Divisional Council	houseType	Local authority
+Vavuniya South Tamil Divisional Council	houseType	Local authority
+Venkalacheddikulam Divisional Council	houseType	Local authority
+Sejm of the Duchy of Warsaw	houseType	Bicameral
+Saskatchewan Legislature	houseType	Unicameral
+Sejm of Congress Poland	houseType	Bicameral
+Monmouth Town Council	houseType	Town council
+West Yorkshire County Council	houseType	Metropolitan county
+West Yorkshire County Council	houseType	County Council
+Ahmednagar Municipal Corporation	houseType	Municipal Corporation
+Malegaon Municipal Corporation	houseType	Municipal Corporation
+Akola Municipal Corporation	houseType	Municipal Corporation
+Aurangabad Municipal Corporation	houseType	Municipal Corporation
+Nanded-Waghala Municipal Corporation	houseType	Municipal Corporation
+Mira-Bhayandar Municipal Corporation	houseType	Municipal Corporation
+Kalyan-Dombivali Municipal Corporation	houseType	Municipal Corporation
+Solapur Municipal Corporation	houseType	Municipal Corporation
+Ulhasnagar Municipal Corporation	houseType	Municipal Corporation
+Cirencester Town Council	houseType	Parish councils in England
+Wakefield Metropolitan District Council	houseType	Metropolitan district council
+Llanbadarn Fawr Community Council	houseType	Community council
+Federal Parliament of Somalia	houseType	Bicameral
+Northern Cape Provincial Legislature	houseType	Unicameral
+Brihanmumbai Municipal Corporation	houseType	Municipal Corporation
+Parliament of Malta	houseType	Unicameral
+Sejm of the Grand Duchy of Posen	houseType	Unicameral
+Diet of Galicia and Lodomeria	houseType	Unicameral
+Indore Municipal Corporation	houseType	Municipal corporation
+All-Ukrainian Congress of Soviets	houseType	Congress of Soviets
+Provincial Assembly of Balochistan	houseType	Unicameral
+Catalan Courts	houseType	Braços or Estates of the realm:
+Catalan Courts	houseType	Braç eclesiàstic
+Catalan Courts	houseType	Braç militar
+Catalan Courts	houseType	Braç reial
+All-Russian Congress of Soviets	houseType	Congress of Soviets
+History of the National Assembly of Pakistan	houseType	Lower house
+National People's Congress	houseType	Unicameral
+New Jersey Provincial Council	houseType	Upper House
+Parliament of Equatorial Guinea	houseType	Bicameral
+Legislative Assembly of Bahia	houseType	Unicameral
+Legislative Assembly of Rio de Janeiro	houseType	Unicameral
+Legislative Assembly of Pernambuco	houseType	Unicameral
+Legislative Assembly of Minas Gerais	houseType	Unicameral
+Legislative Assembly of Ceará	houseType	Unicameral
+Legislative Assembly of Rio Grande do Sul	houseType	Unicameral
+Legislative Assembly of Paraíba	houseType	Unicameral
+Legislative Assembly of Rio Grande do Norte	houseType	Unicameral
+Legislative Assembly of Sergipe	houseType	Unicameral
+Legislative Assembly of Santa Catarina	houseType	Unicameral
+Legislative Assembly of Paraná	houseType	Unicameral
+Legislative Assembly of Roraima	houseType	Unicameral
+Legislative Assembly of Pará	houseType	Unicameral
+Cortes of Castilla-La Mancha	houseType	List of Spanish regional legislatures
+East New Jersey Provincial Council	houseType	Upper House
+Russian Constituent Assembly	houseType	Constituent assembly
+Constituent Assembly of Russia	houseType	Constituent assembly
+Parliament of the Chechen Republic	houseType	Unicameral
+Sovereign Congress	houseType	Unicameralism
+Jalgaon Municipal Corporation	houseType	Municipal Corporation
+Legislative Assembly of the Jewish Autonomous Oblast	houseType	Unicameral
+Cortes of Castile and León	houseType	List of Spanish regional legislatures
+Chandrapur Municipal Corporation	houseType	Municipal Corporation
+Amravati Municipal Corporation	houseType	Municipal Corporation
+Dhule Municipal Corporation	houseType	Municipal Corporation
+Parbhani Municipal Corporation	houseType	Municipal Corporation
+Regional Assembly of Murcia	houseType	List of Spanish regional legislatures
+Parliament of La Rioja	houseType	List of Spanish regional legislatures
+Dáil Éireann	houseType	Lower house
+Palestinian Legislative Council	houseType	Unicameral
+Barnsley Metropolitan Borough Council	houseType	Metropolitan district council
+Oldham Metropolitan Borough Council	houseType	Metropolitan district council
+Conselh Generau d'Aran	houseType	Unicameral
+Liverpool City Region Combined Authority	houseType	Combined authority
+Manitoba Legislature	houseType	Bicameral
+Manitoba Legislature	houseType	Unicameral
+Shimla Municipal Corporation	houseType	Municipal Corporation
+Parliament of the Khmer Republic	houseType	Bicameral
+Freetown City Council	houseType	City Council
+Bo City Council	houseType	City Council
+Wirral Metropolitan Borough Council	houseType	Metropolitan district council
+St Helens Metropolitan Borough Council	houseType	Metropolitan district council
+North Tyneside Metropolitan Borough Council	houseType	Metropolitan district council
+Armagh, Banbridge and Craigavon District Council	houseType	Districts of Northern Ireland
+Lisburn and Castlereagh City Council	houseType	City council
+Newry, Mourne and Down District Council	houseType	Local government in Northern Ireland
+Legislature of Yukon	houseType	Unicameral
+West Yorkshire Combined Authority	houseType	Combined authority
+Hajipur Nagar Parisad	houseType	Local Authority
+Bogotá City Council	houseType	Unicameral
+Calderdale Metropolitan Borough Council	houseType	Metropolitan district council
+Tameside Metropolitan Borough Council	houseType	Metropolitan district council
+Bury Metropolitan Borough Council	houseType	Metropolitan district council
+Chhattisgarh Legislative Assembly	houseType	Unicameral
+Rajasthan Legislative Assembly	houseType	Unicameral
+Goa Legislative Assembly	houseType	Unicameral
+Arunachal Pradesh Legislative Assembly	houseType	Unicameral
+Haryana Legislative Assembly	houseType	Unicameral
+Madhya Pradesh Legislative Assembly	houseType	Unicameral
+Maharashtra Legislative Assembly	houseType	Bicameral
+Delhi Legislative Assembly	houseType	Unicameral
+Första kammaren	houseType	Upper house
+Andra kammaren	houseType	Lower house
+Sevastopol City Council	houseType	Unicameral
+Sheffield City Region Combined Authority	houseType	Combined authority
+Rotherham Metropolitan Borough Council	houseType	Metropolitan district council
+Taichung City Council	houseType	Municipal council
+New Taipei City Council	houseType	Municipal council
+Hsinchu City Council	houseType	City Council
+Chiayi City Council	houseType	City Council
+Keelung City Council	houseType	City Council
+Yilan County Council	houseType	County Council
+Changhua County Council	houseType	County Council
+Chiayi County Council	houseType	County Council
+Hsinchu County Council	houseType	County Council
+Nantou County Council	houseType	County Council
+Taitung County Council	houseType	County Council
+Kinmen County Council	houseType	County Council
+Penghu County Council	houseType	County Council
+Lienchiang County Council	houseType	County Council
+Hualien County Council	houseType	County Council
+Miaoli County Council	houseType	County council
+Pingtung County Council	houseType	County council
+Yunlin County Council	houseType	County council
+Taoyuan City Council	houseType	Municipal council
+North East Combined Authority	houseType	Combined authority
+North West Provincial Legislature	houseType	Unicameral
+Free State Provincial Legislature	houseType	Unicameral
+Mpumalanga Provincial Legislature	houseType	Unicameral
+States of Drenthe	houseType	Unicameralism
+States of Groningen	houseType	Unicameralism
+States of North Brabant	houseType	Unicameralism
+Legislature of Telangana	houseType	Bicameral
+Telangana Legislative Council	houseType	Upper house
+Telangana Legislative Assembly	houseType	Lower house
+States of North Holland	houseType	Unicameralism
+House of Lords	houseType	Upper house
+Legislative Assembly of Espírito Santo	houseType	Unicameral
+Assembly of the Representatives of the People	houseType	Unicameralism
+Senate of Burkina Faso	houseType	Upper house
+House of Deputies	houseType	Lower house
+Greater Warangal Municipal Corporation	houseType	Municipal corporation
+First Legislative Assembly of Delhi	houseType	Unicameral
+Sixth Legislative Assembly of Delhi	houseType	Unicameral
+Fifth Legislative Assembly of Delhi	houseType	Unicameral
+Second Legislative Assembly of Delhi	houseType	Unicameral
+Third Legislative Assembly of Delhi	houseType	Unicameral
+Fourth Legislative Assembly of Delhi	houseType	Unicameral
+Mohali Municipal Corporation	houseType	Local Authority
+City of Ely Council	houseType	Parish councils in England
+Assembly of Extremadura	houseType	List of Spanish regional legislatures
+South Tyneside Metropolitan Borough Council	houseType	Metropolitan district council
+7th Lagos State House of Assembly	houseType	Unicameral
+6th Lagos State House of Assembly	houseType	Unicameral
+5th Lagos State House of Assembly	houseType	Unicameral
+4th Lagos State House of Assembly	houseType	Unicameral
+2nd Lagos State House of Assembly	houseType	Unicameral
+3rd Lagos State House of Assembly	houseType	Unicameral
+1st Lagos State House of Assembly	houseType	Unicameral
+7th National Assembly	houseType	Bicameralism
+6th National Assembly	houseType	Bicameralism
+5th National Assembly	houseType	Bicameralism
+Ondo State House of Assembly	houseType	Unicameral
+First Legislative Assembly of Uttar Pradesh	houseType	Bicameral
+Nizamabad Municipal Corporation	houseType	Municipal Corporation
+Sixteenth Legislative Assembly of Uttar Pradesh	houseType	Bicameral
+8th National Assembly	houseType	Bicameralism
+Yangon Region Hluttaw	houseType	Unicameral
+Mandalay Region Hluttaw	houseType	Unicameral
+Mon State Hluttaw	houseType	Unicameral
+Chamber of Deputies	houseType	Lower house
+Chin State Hluttaw	houseType	Unicameral
+Kayah State Hluttaw	houseType	Unicameral
+Kachin State Hluttaw	houseType	Unicameral
+Kayin State Hluttaw	houseType	Unicameral
+Rakhine State Hluttaw	houseType	Unicameral
+Ayeyarwady Region Hluttaw	houseType	Unicameral
+Taninthayi Region Hluttaw	houseType	Unicameral
+Magway Region Hluttaw	houseType	Unicameral
+Sagaing Region Hluttaw	houseType	Unicameral
+Shan State Hluttaw	houseType	Unicameral
+Bago Region Hluttaw	houseType	Unicameral
+West Midlands Combined Authority	houseType	Combined authority
+Tees Valley Combined Authority	houseType	Combined authority
+Assembly of Ceuta	houseType	List of Spanish regional legislatures
+Jigawa State House of Assembly	houseType	Unicameral
+Ujjain Municipal Corporation	houseType	Municipal corporation
+National Consultative Majlis	houseType	Unicameral
+National Consultative Majlis	houseType	Lower house
+Abia State House of Assembly	houseType	Unicameral
+Ayuntamiento of Madrid	houseType	Local government
+Yarra City Council	houseType	Council of the City of Yarra
+Nellore Municipal Corporation	houseType	Municipal Corporation
+Second Legislative Assembly of Uttar Pradesh	houseType	Bicameral
+Bhandara Municipal Council	houseType	Municipal Council
+Benwick Parish Council	houseType	Parish councils in England
+Sandbach Town Council	houseType	Town Council
+Municipal Corporation Chandigarh	houseType	Local Authority
+Moravian Diet	houseType	Tricameral
+Karimnagar Municipal Corporation	houseType	Municipal Corporation
+Ramagundam Municipal Corporation	houseType	Municipal Corporation
+Assembly of Melilla	houseType	List of Spanish regional legislatures
+Parliament of the Balearic Islands	houseType	List of Spanish regional legislatures
+Hadlow Down Parish Council	houseType	Parish councils in England
+Buxted Parish Council	houseType	Parish councils in England
+West of England Combined Authority	houseType	Combined authority
+Chennai city	houseType	Municipal Corporation
+National Legislative Assembly of Thailand	houseType	Unicameral
+City Council of Milan	houseType	Comune
+Administration of Trivandrum district	houseType	Municipal Corporation
+Assembly of Representatives	houseType	Bicameral
