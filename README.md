@@ -28,4 +28,4 @@ This file contains the implementation of the data cleaning tool class.
 This file contains the implementation of the main application.
 
 ### raha.ipynb
-This file demonstrates the system as a Jupyter notebook.
+This file demonstrates the system in a Jupyter notebook.
