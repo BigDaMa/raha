@@ -4,6 +4,7 @@ Error detection algorithms usually require a user to provide input configuration
 
 Raha is a new configuration-free error detection system. The basic idea is that by generating a reasonably limited number of configurations for a set of error detection algorithms covering different types of data errors, we can generate an expressive feature vector for each entry in the dataset. Leveraging these feature vectors, we propose a novel sampling and classification approach that effectively chooses the most representative values for training. Furthermore, Raha can exploit  historical data, if available, to filter out irrelevant error detection algorithms and configurations.
 
+
 ## Installation
 This project is implemented on top of [abstraction layer](https://github.com/BigDaMa/abstraction-layer).
 
@@ -29,3 +30,17 @@ This file contains the implementation of the main application.
 
 ### raha.ipynb
 This file demonstrates the system in a Jupyter notebook.
+
+
+## Reference
+You can find more information about this project and the authors [here](https://www.bigdama.tu-berlin.de/menue/team/mohammad_mahdavi/).
+
+You can also use the following bib entry to cite this project/paper.
+```
+@inproceedings{raha2019mahdavi,
+  title={Raha: A configuration-free error detection system},
+  author={Mahdavi, Mohammad and Abedjan, Ziawasch and Castro Fernandez, Raul and Madden, Samuel and Ouzzani, Mourad and Stonebraker, Michael and Tang, Nan},
+  booktitle={SIGMOD},
+  year={2019}
+}
+```
