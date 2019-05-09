@@ -6,7 +6,7 @@
 # Big Data Management Group
 # TU Berlin
 # All Rights Reserved
-########################################
+# ########################################
 
 
 ########################################
@@ -38,12 +38,45 @@ import sklearn.kernel_ridge
 import sklearn.ensemble
 import sklearn.feature_extraction
 import IPython.display
-import ipywidgets
+#import ipywidgets
 import dataset
 import data_cleaning_tool
+import multiprocessing as mp
+import myGlobals
+import tempfile
 ########################################
 
 
+def run_strategy(tool_and_configurations):
+    tool_name = tool_and_configurations[0]
+    configuration = tool_and_configurations[1]
+    start_time = time.time()
+    strategy_name = json.dumps([tool_name, configuration])
+    temp_domain_specific_path = myGlobals.d.name + "-temp_ds-" + "".join(
+        random.choice(string.ascii_lowercase + string.digits) for _ in range(10))
+    if tool_name == "katara":
+        if not os.path.exists(temp_domain_specific_path):
+            os.mkdir(temp_domain_specific_path)
+        shutil.copyfile(os.path.join("tools", "KATARA", "dominSpecific", configuration[0]),
+                        os.path.join(temp_domain_specific_path, "temp_file.rel.txt"))
+        configuration = [temp_domain_specific_path]
+    td = {"name": tool_name, "configuration": configuration}
+    t = data_cleaning_tool.DataCleaningTool(td)
+    try:
+        detected_cells_list = t.run(myGlobals.d).keys()
+    except:
+        sys.stderr.write("I cannot run the error detection tool!\n")
+        detected_cells_list = []
+    strategy_profile = {
+        "name": strategy_name,
+        "output": detected_cells_list,
+        "runtime": time.time() - start_time
+    }
+    print "Running {} is done. Output size = {}".format(strategy_name, len(detected_cells_list))
+    if tool_name == "katara":
+        if os.path.exists(temp_domain_specific_path):
+            shutil.rmtree(temp_domain_specific_path)
+    return [strategy_profile, tool_name]
 ########################################
 class Raha:
     """
@@ -138,53 +171,38 @@ class Raha:
             return
         else:
             os.mkdir(sp_folder_path)
-        for tool_name in self.ERROR_DETECTION_TOOLS:
             configuration_list = []
-            if tool_name == "dboost":
-                configuration_list = [list(a) for a in
-                       list(itertools.product(["histogram"], ["0.7", "0.8", "0.9"], ["0.1", "0.2", "0.3"])) +
-                       list(itertools.product(["gaussian"], ["1.0", "1.3", "1.5", "1.7", "2.0", "2.3", "2.5", "2.7", "3.0"])) +
-                       list(itertools.product(["mixture"], ["3", "5", "8"], ["0.01", "0.10", "0.20", "0.30"])) +
-                       list(itertools.product(["partitionedhistogram"], ["3", "5", "8"], ["0.7", "0.8", "0.9"], ["0.1", "0.2", "0.3"]))]
-            elif tool_name == "regex":
-                for attribute in d.dataframe.columns:
-                    column_data = "".join(d.dataframe[attribute].tolist())
-                    characters_dictionary = {ch: 1 for ch in column_data}
-                    for ch in characters_dictionary:
-                        configuration_list.append([[attribute, "[" + ch + "]", "OM"]])
-            elif tool_name == "fd_checker":
-                al = d.dataframe.columns.tolist()
-                configuration_list = [[[a, b]] for (a, b) in itertools.product(al, al) if a != b]
-            elif tool_name == "katara":
-                configuration_list = [[p] for p in os.listdir("tools/KATARA/dominSpecific")]
-            for configuration in configuration_list:
-                start_time = time.time()
-                strategy_name = json.dumps([tool_name, configuration])
-                temp_domain_specific_path = d.name + "-temp_ds-" + "".join(
-                    random.choice(string.ascii_lowercase + string.digits) for _ in range(10))
-                if tool_name == "katara":
-                    if not os.path.exists(temp_domain_specific_path):
-                        os.mkdir(temp_domain_specific_path)
-                    shutil.copyfile(os.path.join("tools", "KATARA", "dominSpecific", configuration[0]),
-                                    os.path.join(temp_domain_specific_path, "temp_file.rel.txt"))
-                    configuration = [temp_domain_specific_path]
-                td = {"name": tool_name, "configuration": configuration}
-                t = data_cleaning_tool.DataCleaningTool(td)
-                try:
-                    detected_cells_list = t.run(d).keys()
-                except:
-                    sys.stderr.write("I cannot run the error detection tool!\n")
-                    detected_cells_list = []
-                strategy_profile = {
-                    "name": strategy_name,
-                    "output": detected_cells_list,
-                    "runtime": time.time() - start_time
-                }
-                pickle.dump(strategy_profile, open(os.path.join(sp_folder_path, tool_name + "-" + str(len(os.listdir(sp_folder_path))) + ".dictionary"), "wb"))
-                print "Running {} is done. Output size = {}".format(strategy_name, len(detected_cells_list))
-                if tool_name == "katara":
-                    if os.path.exists(temp_domain_specific_path):
-                        shutil.rmtree(temp_domain_specific_path)
+            tool_and_configurations = []
+            for tool_name in self.ERROR_DETECTION_TOOLS:
+                if tool_name == "dboost":
+                    configuration_list = [list(a) for a in
+                                          list(itertools.product(["histogram"], ["0.7", "0.8", "0.9"], ["0.1", "0.2", "0.3"])) +
+                                          list(itertools.product(["gaussian"], ["1.0", "1.3", "1.5", "1.7", "2.0", "2.3", "2.5", "2.7", "3.0"])) +
+                                          list(itertools.product(["mixture"], ["3", "5", "8"], ["0.01", "0.10", "0.20", "0.30"])) +
+                                          list(itertools.product(["partitionedhistogram"], ["3", "5", "8"], ["0.7", "0.8", "0.9"], ["0.1", "0.2", "0.3"]))]
+                elif tool_name == "regex":
+                    for attribute in d.dataframe.columns:
+                        column_data = "".join(d.dataframe[attribute].tolist())
+                        characters_dictionary = {ch: 1 for ch in column_data}
+                        for ch in characters_dictionary:
+                            configuration_list.append([[attribute, "[" + ch + "]", "OM"]])
+                elif tool_name == "fd_checker":
+                    al = d.dataframe.columns.tolist()
+                    configuration_list = [[[a, b]] for (a, b) in itertools.product(al, al) if a != b]
+                elif tool_name == "katara":
+                    configuration_list = [[p] for p in os.listdir("tools/KATARA/dominSpecific")]
+
+                tool_and_configurations.extend([[tool_name, i] for i in configuration_list])
+
+            pool = mp.Pool()
+            strategy_profiles = pool.map(run_strategy, tool_and_configurations)
+
+            for strategy_profile_list in strategy_profiles:
+                tool_name = strategy_profile_list[1]
+                strategy_profile = strategy_profile_list[0]
+                pickle.dump(strategy_profile, open(os.path.join(sp_folder_path, tool_name + "-" + str(
+                    len(os.listdir(sp_folder_path))) + ".dictionary"), "wb"))
+
 
     def feature_generator(self, d):
         """
@@ -964,21 +982,16 @@ if __name__ == "__main__":
     # --------------------
     application = Raha()
     # --------------------
-    dataset_dictionary = {
-        "name": "toy",
-        "path": os.path.join(application.DATASETS_FOLDER, "toy", "dirty.csv"),
-        "clean_path": os.path.join(application.DATASETS_FOLDER, "toy", "clean.csv")
-    }
-    d = dataset.Dataset(dataset_dictionary)
-    print "===================== Dataset: {} =====================".format(d.name)
+
+    print "===================== Dataset: {} =====================".format(myGlobals.d.name)
     # --------------------
-    # application.strategy_profiler(d)
-    # application.dataset_profiler(d)
-    # application.evaluation_profiler(d)
+    application.strategy_profiler(myGlobals.d)
+    application.dataset_profiler(myGlobals.d)
+    application.evaluation_profiler(myGlobals.d)
     # --------------------
-    # application.feature_generator(d)
-    # application.error_detector(d)
+    application.feature_generator(myGlobals.d)
+    application.error_detector(myGlobals.d)
     # --------------------
-    # application.baselines(d)
+    application.baselines(myGlobals.d)
     # --------------------
 ########################################
