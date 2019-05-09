@@ -87,7 +87,6 @@ class Raha:
         """
         The constructor does nothing.
         """
-        self.DATASETS_FOLDER = "datasets"
         self.RESULTS_FOLDER = "results"
         self.DATASETS = {
             # "hospital": {
@@ -202,7 +201,6 @@ class Raha:
                 strategy_profile = strategy_profile_list[0]
                 pickle.dump(strategy_profile, open(os.path.join(sp_folder_path, tool_name + "-" + str(
                     len(os.listdir(sp_folder_path))) + ".dictionary"), "wb"))
-
 
     def feature_generator(self, d):
         """
