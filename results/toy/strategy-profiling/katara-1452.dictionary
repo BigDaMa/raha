@@ -2,20 +2,11 @@
 S'output'
 p1
 (lp2
-(I3
-I0
-tp3
-a(I5
-I0
-tp4
-a(I4
-I0
-tp5
-asS'runtime'
-p6
-F0.8745501041412354
+sS'runtime'
+p3
+F0.23199987411499023
 sS'name'
-p7
-S'["katara", ["followedBy.rel.txt"]]'
-p8
+p4
+S'["katara", ["parents.rel.txt"]]'
+p5
 s.

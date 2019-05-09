@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.821256160736084
+F0.23399996757507324
 sS'name'
 p4
-S'["katara", ["distanceKm.rel.txt"]]'
+S'["katara", ["psElectricalCapFac.rel.txt"]]'
 p5
 s.

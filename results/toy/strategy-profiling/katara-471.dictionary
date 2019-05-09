@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I1
-I2
-tp3
-a(I4
-I2
-tp4
-a(I5
-I2
-tp5
-a(I0
-I2
-tp6
-asS'runtime'
-p7
-F6.113794803619385
+sS'runtime'
+p3
+F0.26399993896484375
 sS'name'
-p8
-S'["katara", ["escapeVelocity.rel.txt"]]'
-p9
+p4
+S'["katara", ["childLeft.rel.txt"]]'
+p5
 s.

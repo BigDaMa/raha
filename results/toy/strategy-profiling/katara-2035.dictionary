@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.8264830112457275
+F0.19500017166137695
 sS'name'
 p4
-S'["katara", ["omim.rel.txt"]]'
+S'["katara", ["training.rel.txt"]]'
 p5
 s.

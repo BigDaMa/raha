@@ -2,20 +2,11 @@
 S'output'
 p1
 (lp2
-(I4
-I2
-tp3
-a(I3
-I2
-tp4
-a(I2
-I2
-tp5
-asS'runtime'
-p6
-F0.0706489086151123
+sS'runtime'
+p3
+F0.026999950408935547
 sS'name'
-p7
+p4
 S'["dboost", ["histogram", "0.7", "0.3"]]'
-p8
+p5
 s.

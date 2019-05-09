@@ -2,14 +2,11 @@
 S'output'
 p1
 (lp2
-(I5
-I1
-tp3
-asS'runtime'
-p4
-F9.489059448242188e-05
+sS'runtime'
+p3
+F0.0
 sS'name'
+p4
+S'["regex", ["--mixture", "3", "0.20"]]'
 p5
-S'["regex", [["Lord", "[T]", "OM"]]]'
-p6
 s.

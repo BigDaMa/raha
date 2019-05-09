@@ -2,14 +2,11 @@
 S'output'
 p1
 (lp2
-(I1
-I0
-tp3
-asS'runtime'
-p4
-F0.00010085105895996094
+sS'runtime'
+p3
+F0.0
 sS'name'
+p4
+S'["regex", ["--histogram", "0.7", "0.3"]]'
 p5
-S'["regex", [["ID", "[2]", "OM"]]]'
-p6
 s.

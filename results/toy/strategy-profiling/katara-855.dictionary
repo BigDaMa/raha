@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I3
-I0
-tp3
-a(I1
-I0
-tp4
-a(I0
-I0
-tp5
-a(I4
-I0
-tp6
-asS'runtime'
-p7
-F0.8268289566040039
+sS'runtime'
+p3
+F0.30100011825561523
 sS'name'
-p8
-S'["katara", ["powertype.rel.txt"]]'
-p9
+p4
+S'["katara", ["following.rel.txt"]]'
+p5
 s.

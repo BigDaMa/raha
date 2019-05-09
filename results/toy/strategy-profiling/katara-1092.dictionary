@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I3
-I0
-tp3
-a(I1
-I0
-tp4
-a(I0
-I0
-tp5
-a(I5
-I0
-tp6
-asS'runtime'
-p7
-F0.8039240837097168
+sS'runtime'
+p3
+F0.2709999084472656
 sS'name'
-p8
-S'["katara", ["close.rel.txt"]]'
-p9
+p4
+S'["katara", ["last.rel.txt"]]'
+p5
 s.

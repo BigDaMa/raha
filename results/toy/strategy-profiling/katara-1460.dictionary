@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F1.0172882080078125
+F0.3919999599456787
 sS'name'
 p4
-S'["katara", ["symbolism.rel.txt"]]'
+S'["katara", ["partof.rel.txt"]]'
 p5
 s.

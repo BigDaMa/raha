@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.8083739280700684
+F0.375
 sS'name'
 p4
-S'["katara", ["frozen.rel.txt"]]'
+S'["katara", ["assembly.rel.txt"]]'
 p5
 s.

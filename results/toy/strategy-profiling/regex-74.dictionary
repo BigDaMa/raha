@@ -2,17 +2,11 @@
 S'output'
 p1
 (lp2
-(I3
-I1
-tp3
-a(I1
-I1
-tp4
-asS'runtime'
-p5
-F9.489059448242188e-05
+sS'runtime'
+p3
+F0.0
 sS'name'
-p6
-S'["regex", [["Lord", "[S]", "OM"]]]'
-p7
+p4
+S'["regex", ["--gaussian", "3.0"]]'
+p5
 s.

@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I3
-I0
-tp3
-a(I2
-I0
-tp4
-a(I1
-I0
-tp5
-a(I0
-I0
-tp6
-asS'runtime'
-p7
-F0.9819381237030029
+sS'runtime'
+p3
+F0.2109999656677246
 sS'name'
-p8
-S'["katara", ["owner.rel.txt"]]'
-p9
+p4
+S'["katara", ["stateAssembly.rel.txt"]]'
+p5
 s.

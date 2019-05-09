@@ -2,17 +2,11 @@
 S'output'
 p1
 (lp2
-(I4
-I2
-tp3
-a(I0
-I2
-tp4
-asS'runtime'
-p5
-F0.07409310340881348
+sS'runtime'
+p3
+F0.01399993896484375
 sS'name'
-p6
+p4
 S'["dboost", ["gaussian", "1.7"]]'
-p7
+p5
 s.

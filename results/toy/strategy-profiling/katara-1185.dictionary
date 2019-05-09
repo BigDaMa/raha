@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.8429529666900635
+F0.24199986457824707
 sS'name'
 p4
-S'["katara", ["latestReleaseVersion.rel.txt"]]'
+S'["katara", ["lowestM.rel.txt"]]'
 p5
 s.

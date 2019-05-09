@@ -2,17 +2,11 @@
 S'output'
 p1
 (lp2
-(I1
-I2
-tp3
-a(I0
-I2
-tp4
-asS'runtime'
-p5
-F1.4931509494781494
+sS'runtime'
+p3
+F0.2650001049041748
 sS'name'
-p6
-S'["katara", ["type.rel.txt"]]'
-p7
+p4
+S'["katara", ["nativenameA.rel.txt"]]'
+p5
 s.

@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.7945349216461182
+F0.22499990463256836
 sS'name'
 p4
-S'["katara", ["gnd.rel.txt"]]'
+S'["katara", ["resName.rel.txt"]]'
 p5
 s.

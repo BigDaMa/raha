@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I1
-I2
-tp3
-a(I4
-I2
-tp4
-a(I5
-I2
-tp5
-a(I0
-I2
-tp6
-asS'runtime'
-p7
-F0.8029930591583252
+sS'runtime'
+p3
+F0.1959998607635498
 sS'name'
-p8
-S'["katara", ["maxTemp.rel.txt"]]'
-p9
+p4
+S'["katara", ["source1Elevation.rel.txt"]]'
+p5
 s.

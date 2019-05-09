@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.8256378173828125
+F0.2539999485015869
 sS'name'
 p4
-S'["katara", ["training.rel.txt"]]'
+S'["katara", ["hsGenlocStart.rel.txt"]]'
 p5
 s.

@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.808588981628418
+F0.25
 sS'name'
 p4
-S'["katara", ["cost.rel.txt"]]'
+S'["katara", ["linelengthMi.rel.txt"]]'
 p5
 s.

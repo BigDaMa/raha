@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I0
-I1
-tp3
-a(I3
-I1
-tp4
-a(I1
-I1
-tp5
-a(I2
-I1
-tp6
-asS'runtime'
-p7
-F9.703636169433594e-05
+sS'runtime'
+p3
+F0.0
 sS'name'
-p8
-S'["regex", [["Lord", "[a]", "OM"]]]'
-p9
+p4
+S'["regex", ["--histogram", "0.9", "0.2"]]'
+p5
 s.

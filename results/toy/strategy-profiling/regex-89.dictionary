@@ -2,14 +2,11 @@
 S'output'
 p1
 (lp2
-(I0
-I2
-tp3
-asS'runtime'
-p4
-F6.413459777832031e-05
+sS'runtime'
+p3
+F0.0
 sS'name'
+p4
+S'["regex", ["--partitionedhistogram", "3", "0.7", "0.3"]]'
 p5
-S'["regex", [["Kingdom", "[n]", "OM"]]]'
-p6
 s.

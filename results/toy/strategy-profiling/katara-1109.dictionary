@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.7985248565673828
+F0.2539999485015869
 sS'name'
 p4
-S'["katara", ["shareSource.rel.txt"]]'
+S'["katara", ["latestReleaseVersion.rel.txt"]]'
 p5
 s.

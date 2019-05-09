@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.8493268489837646
+F0.25
 sS'name'
 p4
-S'["katara", ["weight(lb)_.rel.txt"]]'
+S'["katara", ["planted.rel.txt"]]'
 p5
 s.

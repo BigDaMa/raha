@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I1
-I2
-tp3
-a(I4
-I2
-tp4
-a(I5
-I2
-tp5
-a(I0
-I2
-tp6
-asS'runtime'
-p7
-F0.8507490158081055
+sS'runtime'
+p3
+F0.27699995040893555
 sS'name'
-p8
-S'["katara", ["foundedDate.rel.txt"]]'
-p9
+p4
+S'["katara", ["prizeMoney.rel.txt"]]'
+p5
 s.

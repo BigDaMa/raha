@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I2
-I0
-tp3
-a(I1
-I0
-tp4
-a(I0
-I0
-tp5
-a(I4
-I0
-tp6
-asS'runtime'
-p7
-F0.8763148784637451
+sS'runtime'
+p3
+F0.2740001678466797
 sS'name'
-p8
-S'["katara", ["height.rel.txt"]]'
-p9
+p4
+S'["katara", ["highRanking.rel.txt"]]'
+p5
 s.

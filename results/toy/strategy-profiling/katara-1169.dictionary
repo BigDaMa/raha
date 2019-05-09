@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I5
-I1
-tp3
-a(I3
-I1
-tp4
-a(I4
-I1
-tp5
-a(I2
-I1
-tp6
-asS'runtime'
-p7
-F0.8404419422149658
+sS'runtime'
+p3
+F0.2739999294281006
 sS'name'
-p8
-S'["katara", ["creators.rel.txt"]]'
-p9
+p4
+S'["katara", ["logoFilename.rel.txt"]]'
+p5
 s.

@@ -2,14 +2,11 @@
 S'output'
 p1
 (lp2
-(I4
-I0
-tp3
-asS'runtime'
-p4
-F1.6554169654846191
+sS'runtime'
+p3
+F0.2820000648498535
 sS'name'
+p4
+S'["katara", ["architecturalStyle.rel.txt"]]'
 p5
-S'["katara", ["language.rel.txt"]]'
-p6
 s.

@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.816943883895874
+F0.25
 sS'name'
 p4
-S'["katara", ["rating.rel.txt"]]'
+S'["katara", ["fuelcon.rel.txt"]]'
 p5
 s.

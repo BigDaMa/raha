@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I3
-I0
-tp3
-a(I1
-I0
-tp4
-a(I0
-I0
-tp5
-a(I5
-I0
-tp6
-asS'runtime'
-p7
-F0.8315370082855225
+sS'runtime'
+p3
+F0.24600005149841309
 sS'name'
-p8
-S'["katara", ["system.rel.txt"]]'
-p9
+p4
+S'["katara", ["partyElection.rel.txt"]]'
+p5
 s.

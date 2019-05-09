@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.7860088348388672
+F0.24600005149841309
 sS'name'
 p4
-S'["katara", ["samtgemeinde.rel.txt"]]'
+S'["katara", ["serialName.rel.txt"]]'
 p5
 s.

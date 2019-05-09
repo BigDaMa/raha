@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I2
-I0
-tp3
-a(I1
-I0
-tp4
-a(I5
-I0
-tp5
-a(I4
-I0
-tp6
-asS'runtime'
-p7
-F1.3770549297332764
+sS'runtime'
+p3
+F0.28299999237060547
 sS'name'
-p8
-S'["katara", ["layout.rel.txt"]]'
-p9
+p4
+S'["katara", ["products.rel.txt"]]'
+p5
 s.

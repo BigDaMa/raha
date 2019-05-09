@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.953930139541626
+F0.2650001049041748
 sS'name'
 p4
-S'["katara", ["populationDensityKm.rel.txt"]]'
+S'["katara", ["minTemp.rel.txt"]]'
 p5
 s.

@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I1
-I2
-tp3
-a(I4
-I2
-tp4
-a(I5
-I2
-tp5
-a(I0
-I2
-tp6
-asS'runtime'
-p7
-F3.243124008178711
+sS'runtime'
+p3
+F0.25999999046325684
 sS'name'
-p8
-S'["katara", ["lastAlbum.rel.txt"]]'
-p9
+p4
+S'["katara", ["areaLandSqMi.rel.txt"]]'
+p5
 s.

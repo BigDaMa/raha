@@ -2,14 +2,11 @@
 S'output'
 p1
 (lp2
-(I5
-I0
-tp3
-asS'runtime'
-p4
-F3.331834077835083
+sS'runtime'
+p3
+F0.31800007820129395
 sS'name'
+p4
+S'["katara", ["ceo.rel.txt"]]'
 p5
-S'["katara", ["publisher.rel.txt"]]'
-p6
 s.

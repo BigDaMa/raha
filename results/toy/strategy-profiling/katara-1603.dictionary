@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I1
-I2
-tp3
-a(I4
-I2
-tp4
-a(I5
-I2
-tp5
-a(I0
-I2
-tp6
-asS'runtime'
-p7
-F0.8329918384552002
+sS'runtime'
+p3
+F0.2539999485015869
 sS'name'
-p8
-S'["katara", ["discoverer.rel.txt"]]'
-p9
+p4
+S'["katara", ["province.rel.txt"]]'
+p5
 s.

@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.8940348625183105
+F0.25
 sS'name'
 p4
-S'["katara", ["affiliations.rel.txt"]]'
+S'["katara", ["affiliates.rel.txt"]]'
 p5
 s.

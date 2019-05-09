@@ -2,23 +2,11 @@
 S'output'
 p1
 (lp2
-(I1
-I2
-tp3
-a(I4
-I2
-tp4
-a(I5
-I2
-tp5
-a(I0
-I2
-tp6
-asS'runtime'
-p7
-F0.7904849052429199
+sS'runtime'
+p3
+F0.20200014114379883
 sS'name'
-p8
-S'["katara", ["mass.rel.txt"]]'
-p9
+p4
+S'["katara", ["softballstadium.rel.txt"]]'
+p5
 s.

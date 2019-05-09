@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.9573512077331543
+F0.25
 sS'name'
 p4
-S'["katara", ["basinCountries.rel.txt"]]'
+S'["katara", ["dialCode.rel.txt"]]'
 p5
 s.

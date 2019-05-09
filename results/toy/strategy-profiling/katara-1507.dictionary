@@ -2,20 +2,11 @@
 S'output'
 p1
 (lp2
-(I2
-I0
-tp3
-a(I1
-I0
-tp4
-a(I4
-I0
-tp5
-asS'runtime'
-p6
-F6.051080942153931
+sS'runtime'
+p3
+F0.27499985694885254
 sS'name'
-p7
-S'["katara", ["bodyStyle.rel.txt"]]'
-p8
+p4
+S'["katara", ["podiums.rel.txt"]]'
+p5
 s.

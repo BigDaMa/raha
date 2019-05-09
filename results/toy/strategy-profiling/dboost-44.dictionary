@@ -4,7 +4,7 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.0659329891204834
+F0.01399993896484375
 sS'name'
 p4
 S'["dboost", ["partitionedhistogram", "5", "0.8", "0.3"]]'

@@ -2,20 +2,11 @@
 S'output'
 p1
 (lp2
-(I2
-I0
-tp3
-a(I0
-I0
-tp4
-a(I4
-I0
-tp5
-asS'runtime'
-p6
-F1.0839519500732422
+sS'runtime'
+p3
+F0.26600003242492676
 sS'name'
-p7
-S'["katara", ["predecessor.rel.txt"]]'
-p8
+p4
+S'["katara", ["former.rel.txt"]]'
+p5
 s.
