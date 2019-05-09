@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.25500011444091797
+F1.0106019973754883
 sS'name'
 p4
-S'["katara", ["postalCodes.rel.txt"]]'
+S'["katara", ["architecture.rel.txt"]]'
 p5
 s.

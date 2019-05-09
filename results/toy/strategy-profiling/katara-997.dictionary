@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.24899983406066895
+F0.8094360828399658
 sS'name'
 p4
-S'["katara", ["hsRefseqprotein.rel.txt"]]'
+S'["katara", ["translator.rel.txt"]]'
 p5
 s.

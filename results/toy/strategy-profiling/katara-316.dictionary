@@ -2,11 +2,23 @@
 S'output'
 p1
 (lp2
-sS'runtime'
-p3
-F0.28800010681152344
+(I1
+I2
+tp3
+a(I4
+I2
+tp4
+a(I5
+I2
+tp5
+a(I0
+I2
+tp6
+asS'runtime'
+p7
+F4.987334966659546
 sS'name'
-p4
-S'["katara", ["battles.rel.txt"]]'
-p5
+p8
+S'["katara", ["showName.rel.txt"]]'
+p9
 s.

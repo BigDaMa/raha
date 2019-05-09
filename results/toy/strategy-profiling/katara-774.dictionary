@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.2369999885559082
+F1.0561251640319824
 sS'name'
 p4
-S'["katara", ["entrezgene.rel.txt"]]'
+S'["katara", ["currentRecord.rel.txt"]]'
 p5
 s.

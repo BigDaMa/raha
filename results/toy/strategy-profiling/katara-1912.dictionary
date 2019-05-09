@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.2220001220703125
+F3.477890968322754
 sS'name'
 p4
-S'["katara", ["status.rel.txt"]]'
+S'["katara", ["effectiveRadiatedPower.rel.txt"]]'
 p5
 s.

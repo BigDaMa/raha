@@ -2,11 +2,23 @@
 S'output'
 p1
 (lp2
-sS'runtime'
-p3
-F0.22800016403198242
+(I2
+I0
+tp3
+a(I1
+I0
+tp4
+a(I0
+I0
+tp5
+a(I4
+I0
+tp6
+asS'runtime'
+p7
+F0.7979741096496582
 sS'name'
-p4
-S'["katara", ["associatedact.rel.txt"]]'
-p5
+p8
+S'["katara", ["fueltype.rel.txt"]]'
+p9
 s.

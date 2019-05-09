@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.2330000400543213
+F1.028684139251709
 sS'name'
 p4
-S'["katara", ["playedFor.rel.txt"]]'
+S'["katara", ["bnf.rel.txt"]]'
 p5
 s.

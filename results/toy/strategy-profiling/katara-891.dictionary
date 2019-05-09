@@ -2,11 +2,26 @@
 S'output'
 p1
 (lp2
-sS'runtime'
-p3
-F0.24500012397766113
+(I1
+I2
+tp3
+a(I4
+I2
+tp4
+a(I0
+I0
+tp5
+a(I5
+I2
+tp6
+a(I0
+I2
+tp7
+asS'runtime'
+p8
+F1.0052440166473389
 sS'name'
-p4
-S'["katara", ["gaelicName.rel.txt"]]'
-p5
+p9
+S'["katara", ["recorded.rel.txt"]]'
+p10
 s.

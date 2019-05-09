@@ -4,9 +4,9 @@ p1
 (lp2
 sS'runtime'
 p3
-F0.2650001049041748
+F1.0217008590698242
 sS'name'
 p4
-S'["katara", ["countryCapital.rel.txt"]]'
+S'["katara", ["nativeNameLang.rel.txt"]]'
 p5
 s.

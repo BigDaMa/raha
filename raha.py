@@ -87,6 +87,7 @@ class Raha:
         """
         The constructor does nothing.
         """
+        self.DATASETS_FOLDER = "datasets"
         self.RESULTS_FOLDER = "results"
         self.DATASETS = {
             # "hospital": {
