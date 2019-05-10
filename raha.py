@@ -170,9 +170,9 @@ class Raha:
             return
         else:
             os.mkdir(sp_folder_path)
-            configuration_list = []
             tool_and_configurations = []
             for tool_name in self.ERROR_DETECTION_TOOLS:
+                configuration_list = []
                 if tool_name == "dboost":
                     configuration_list = [list(a) for a in
                                           list(itertools.product(["histogram"], ["0.7", "0.8", "0.9"], ["0.1", "0.2", "0.3"])) +
