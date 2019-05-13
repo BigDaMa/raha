@@ -37,7 +37,7 @@ import sklearn.neural_network
 import sklearn.kernel_ridge
 import sklearn.ensemble
 import sklearn.feature_extraction
-import IPython.display
+#import IPython.display
 #import ipywidgets
 import dataset
 import data_cleaning_tool
@@ -370,7 +370,7 @@ class Raha:
                 else:
                     print "Label the dirty cells in the following sampled tuple."
                     sampled_tuple = pandas.DataFrame(data=[d.dataframe.iloc[si, :]], columns=d.dataframe.columns)
-                    IPython.display.display(sampled_tuple)
+                    #IPython.display.display(sampled_tuple)
                     for j in range(d.dataframe.shape[1]):
                         cell = (si, j)
                         value = d.dataframe.iloc[cell]
@@ -454,11 +454,11 @@ class Raha:
                     # r = 0.0 if len(actual_dirty_tuples) == 0 else tp / len(actual_dirty_tuples)
                     # f = 0.0 if (p + r) == 0.0 else (2 * p * r) / (p + r)
                     # aggregate_results[s].append([p, r, f])
-                else:
+                #else:
                     # pickle.dump(correction_dictionary, open(os.path.join(ed_folder_path, "results.dictionary"), "wb"))
-                    IPython.display.display(d.dataframe.style.apply(
-                        lambda x: ["background-color: red" if (i, d.dataframe.columns.get_loc(x.name)) in correction_dictionary else ""
-                                   for i, cv in enumerate(x)]))
+                    #IPython.display.display(d.dataframe.style.apply(
+                    #    lambda x: ["background-color: red" if (i, d.dataframe.columns.get_loc(x.name)) in correction_dictionary else ""
+                     #              for i, cv in enumerate(x)]))
                 if not hasattr(d, "actual_errors_dictionary"):
                     continue_flag = int(raw_input("Would you like to label one more tuple?\nType 1 for yes.\nType 0 for no.\n"))
                     if not continue_flag:
