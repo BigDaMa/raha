@@ -2,7 +2,7 @@ import dataset
 import os
 
 DATASETS_FOLDER = "datasets"
-DATASET_NAME = "toy"
+DATASET_NAME = "flights"
 
 dataset_dictionary = {
         "name": DATASET_NAME,
@@ -11,3 +11,7 @@ dataset_dictionary = {
     }
 
 d = dataset.Dataset(dataset_dictionary)
+
+all_strategies = {}
+
+cell_strategies = {}

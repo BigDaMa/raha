@@ -44,8 +44,6 @@ import data_cleaning_tool
 import multiprocessing as mp
 import myGlobals
 ########################################
-
-
 def run_strategy(tool_and_configurations):
     tool_name = tool_and_configurations[0]
     configuration = tool_and_configurations[1]
@@ -76,6 +74,45 @@ def run_strategy(tool_and_configurations):
         if os.path.exists(temp_domain_specific_path):
             shutil.rmtree(temp_domain_specific_path)
     return [strategy_profile, tool_name]
+
+def extract_features(args):
+    j = args[0]
+    attribute = args[1]
+
+    print "Extracting features for column {}...".format(j)
+    o_fv = {(i, j): [] for i in range(myGlobals.d.dataframe.shape[0])}
+    p_fv = {(i, j): [] for i in range(myGlobals.d.dataframe.shape[0])}
+    r_fv = {(i, j): [] for i in range(myGlobals.d.dataframe.shape[0])}
+    k_fv = {(i, j): [] for i in range(myGlobals.d.dataframe.shape[0])}
+    for s in myGlobals.all_strategies:
+        for i in range(myGlobals.d.dataframe.shape[0]):
+            cell = (i, j)
+            b = 1 if s in myGlobals.cells_strategies[cell] else 0
+            if "dboost" in s:
+                o_fv[cell].append(b)
+            if "regex" in s:
+                p_fv[cell].append(b)
+            if "fd_checker" in s:
+                r_fv[cell].append(b)
+            if "katara" in s:
+                k_fv[cell].append(b)
+
+    def noise_features_remover(fv_dic):
+        x_data = numpy.array(fv_dic.values(), dtype=numpy.float)
+        non_identical_columns = numpy.any(x_data != x_data[0, :], axis=0)
+        x_data = x_data[:, non_identical_columns]
+        for index, cell in enumerate(fv_dic):
+            fv_dic[cell] = x_data[index].tolist()
+        return fv_dic
+
+    o_fv = noise_features_remover(o_fv)
+    p_fv = noise_features_remover(p_fv)
+    r_fv = noise_features_remover(r_fv)
+    k_fv = noise_features_remover(k_fv)
+
+    return [o_fv, p_fv, r_fv, k_fv, attribute]
+
+
 ########################################
 class Raha:
     """
@@ -214,44 +251,25 @@ class Raha:
             sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "strategy-profiling")
         if not os.path.exists(fv_folder_path):
             os.mkdir(fv_folder_path)
-        all_strategies = {}
-        cells_strategies = {cell: {} for cell in itertools.product(range(d.dataframe.shape[0]), range(d.dataframe.shape[1]))}
+        myGlobals.all_strategies = {}
+        myGlobals.cells_strategies = {cell: {} for cell in itertools.product(range(d.dataframe.shape[0]), range(d.dataframe.shape[1]))}
         for strategy_file in os.listdir(sp_folder_path):
             strategy_profile = pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
-            all_strategies[strategy_profile["name"]] = 1
+            myGlobals.all_strategies[strategy_profile["name"]] = 1
             for cell in strategy_profile["output"]:
-                cells_strategies[cell][strategy_profile["name"]] = 1
-        for j, attribute in enumerate(d.dataframe.columns.tolist()):
-            print "Extracting features for column {}...".format(j)
-            o_fv = {(i, j): [] for i in range(d.dataframe.shape[0])}
-            p_fv = {(i, j): [] for i in range(d.dataframe.shape[0])}
-            r_fv = {(i, j): [] for i in range(d.dataframe.shape[0])}
-            k_fv = {(i, j): [] for i in range(d.dataframe.shape[0])}
-            for s in all_strategies:
-                for i in range(d.dataframe.shape[0]):
-                    cell = (i, j)
-                    b = 1 if s in cells_strategies[cell] else 0
-                    if "dboost" in s:
-                        o_fv[cell].append(b)
-                    if "regex" in s:
-                        p_fv[cell].append(b)
-                    if "fd_checker" in s:
-                        r_fv[cell].append(b)
-                    if "katara" in s:
-                        k_fv[cell].append(b)
+                myGlobals.cells_strategies[cell][strategy_profile["name"]] = 1
 
-            def noise_features_remover(fv_dic):
-                x_data = numpy.array(fv_dic.values(), dtype=numpy.float)
-                non_identical_columns = numpy.any(x_data != x_data[0, :], axis=0)
-                x_data = x_data[:, non_identical_columns]
-                for index, cell in enumerate(fv_dic):
-                    fv_dic[cell] = x_data[index].tolist()
-                return fv_dic
+        mp_args = [[j,attribute] for j, attribute in enumerate(d.dataframe.columns.tolist())]
 
-            o_fv = noise_features_remover(o_fv)
-            p_fv = noise_features_remover(p_fv)
-            r_fv = noise_features_remover(r_fv)
-            k_fv = noise_features_remover(k_fv)
+        pool = mp.Pool()
+        features = pool.map(extract_features, mp_args)
+
+        for feature in features:
+            o_fv = feature[0]
+            p_fv = feature[1]
+            r_fv = feature[2]
+            k_fv = feature[3]
+            attribute = feature[4]
             pickle.dump([o_fv, p_fv, r_fv, k_fv], gzip.open(os.path.join(fv_folder_path, attribute + ".dictionary"), "wb"))
 
     def error_detector(self, d):
@@ -987,8 +1005,8 @@ if __name__ == "__main__":
     application.evaluation_profiler(myGlobals.d)
     # --------------------
     application.feature_generator(myGlobals.d)
-    application.error_detector(myGlobals.d)
+    #application.error_detector(myGlobals.d)
     # --------------------
-    application.baselines(myGlobals.d)
+    #application.baselines(myGlobals.d)
     # --------------------
 ########################################
