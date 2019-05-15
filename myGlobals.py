@@ -17,3 +17,9 @@ all_strategies = {}
 cell_strategies = {}
 
 ERROR_DETECTION_TOOLS = []
+
+fv = {}
+
+clusters_j_k_c_ce = {}
+
+cells_clusters_j_k_ce = {}

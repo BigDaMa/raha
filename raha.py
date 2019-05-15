@@ -115,32 +115,23 @@ def extract_features(args):
 
 
 def detect_errors(args):
-    fv = args[0]
-    clusters_j_k_c_ce = args[1]
-    cells_clusters_j_k_ce = args[2]
-    j = args[3]
-    attribute = args[4]
-    fv_folder_path = args[5]
+    j = args[0]
+    attribute = args[1]
+    fv_folder_path = args[2]
+
+    fv = myGlobals.fv[j]
 
     print "Building clustering model for column {}...".format(j)
     o_fv, p_fv, r_fv, k_fv = pickle.load(gzip.open(os.path.join(fv_folder_path, attribute + ".dictionary"), "rb"))
     for i in range(myGlobals.d.dataframe.shape[0]):
         if "dboost" in myGlobals.ERROR_DETECTION_TOOLS:
-            tempfv = fv[j]
-            tempfv[(i, j)] += o_fv[(i, j)]
-            fv[j] = tempfv
+            fv[(i, j)] += o_fv[(i, j)]
         if "regex" in myGlobals.ERROR_DETECTION_TOOLS:
-            tempfv = fv[j]
-            tempfv[(i, j)] += p_fv[(i, j)]
-            fv[j] = tempfv
+            fv[(i, j)] += p_fv[(i, j)]
         if "fd_checker" in myGlobals.ERROR_DETECTION_TOOLS:
-            tempfv = fv[j]
-            tempfv[(i, j)] += r_fv[(i, j)]
-            fv[j] = tempfv
+            fv[(i, j)] += r_fv[(i, j)]
         if "katara" in myGlobals.ERROR_DETECTION_TOOLS:
-            tempfv = fv[j]
-            tempfv[(i, j)] += k_fv[(i, j)]
-            fv[j] = tempfv
+            fv[(i, j)] += k_fv[(i, j)]
     # # Baseline: TF-IDF features same as ActiveClean
     # vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, stop_words="english")
     # text = [row[j] for row in d.table[1:]]
@@ -156,8 +147,8 @@ def detect_errors(args):
     except:
         return
 
-    tempdict_clusters = clusters_j_k_c_ce[j]
-    tempdict_cells = cells_clusters_j_k_ce[j]
+    tempdict_clusters = myGlobals.clusters_j_k_c_ce[j]
+    tempdict_cells = myGlobals.cells_clusters_j_k_ce[j]
     for k in tempdict_clusters:
         model_labels = [l - 1 for l in scipy.cluster.hierarchy.fcluster(clustering_model, k, criterion="maxclust")]
         for index, c in enumerate(model_labels):
@@ -172,9 +163,7 @@ def detect_errors(args):
         #         pairwise_distance = sklearn.metrics.pairwise.pairwise_distances(clusters_k_j_c_ce[k][j][c].values(), metric="euclidean")
         #         clusters_center_k_jc[k][(j, c)] = clusters_k_j_c_ce[k][j][c].values()[numpy.argmin(pairwise_distance.sum(axis=0))]
 
-    clusters_j_k_c_ce[j] = tempdict_clusters
-    cells_clusters_j_k_ce[j] = tempdict_cells
-
+    return [fv, tempdict_clusters, tempdict_cells]
 
 ########################################
 class Raha:
@@ -359,23 +348,24 @@ class Raha:
         sampling_range = range(1, self.LABELING_BUDGET + 1)
         clustering_range = range(2, self.LABELING_BUDGET + 2)
 
-        manager = mp.Manager()
-        fv = manager.dict()
-        clusters_j_k_c_ce = manager.dict()
-        cells_clusters_j_k_ce = manager.dict()
-        for j in range(d.dataframe.shape[1]):
-            fv[j] = {(i, j): [] for i in range(d.dataframe.shape[0])}
-            clusters_j_k_c_ce[j] = {k: {} for k in clustering_range}
-            cells_clusters_j_k_ce[j] = {k: {} for k in clustering_range}
+        fv = {j: {(i, j): [] for i in range(d.dataframe.shape[0])} for j in range(d.dataframe.shape[1])}
+        clusters_j_k_c_ce = {k: {j: {} for j in range(d.dataframe.shape[1])} for k in clustering_range}
+        cells_clusters_j_k_ce = {k: {j: {} for j in range(d.dataframe.shape[1])} for k in clustering_range}
 
         myGlobals.ERROR_DETECTION_TOOLS = self.ERROR_DETECTION_TOOLS
 
         # clusters_center_k_jc = {k: {j: {} for j in range(d.columns_count)} for k in clustering_range}
 
-        process_args = [[fv, clusters_j_k_c_ce, cells_clusters_j_k_ce, j, attribute, fv_folder_path]
+        process_args = [[j, attribute, fv_folder_path]
                         for j, attribute in enumerate(d.dataframe.columns.tolist())]
         pool = mp.Pool()
-        pool.map(detect_errors, process_args)
+        results = pool.map(detect_errors, process_args)
+
+        for j, result in enumerate(results):
+            fv[j] = result[0]
+            clusters_j_k_c_ce[j] = result[1]
+            cells_clusters_j_k_ce[j] = result[2]
+
         clusters_k_j_c_ce = {k: {j: clusters_j_k_c_ce[j][k] for j in d.dataframe.shape[1]} for k in clustering_range}
         cells_clusters_k_j_ce = {k: {j: cells_clusters_j_k_ce[j][k] for j in d.dataframe.shape[1]} for k in clustering_range}
 
