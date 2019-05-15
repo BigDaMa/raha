@@ -37,8 +37,8 @@ import sklearn.neural_network
 import sklearn.kernel_ridge
 import sklearn.ensemble
 import sklearn.feature_extraction
-#import IPython.display
-#import ipywidgets
+# import IPython.display
+# import ipywidgets
 import dataset
 import data_cleaning_tool
 import multiprocessing as mp
@@ -67,13 +67,14 @@ def run_strategy(tool_and_configurations):
     strategy_profile = {
         "name": strategy_name,
         "output": detected_cells_list,
-        "runtime": time.time() - start_time
+        # "runtime": time.time() - start_time
     }
     print "Running {} is done. Output size = {}".format(strategy_name, len(detected_cells_list))
     if tool_name == "katara":
         if os.path.exists(temp_domain_specific_path):
             shutil.rmtree(temp_domain_specific_path)
     return [strategy_profile, tool_name]
+
 
 def extract_features(args):
     j = args[0]
@@ -111,6 +112,68 @@ def extract_features(args):
     k_fv = noise_features_remover(k_fv)
 
     return [o_fv, p_fv, r_fv, k_fv, attribute]
+
+
+def detect_errors(args):
+    fv = args[0]
+    clusters_j_k_c_ce = args[1]
+    cells_clusters_j_k_ce = args[2]
+    j = args[3]
+    attribute = args[4]
+    fv_folder_path = args[5]
+
+    print "Building clustering model for column {}...".format(j)
+    o_fv, p_fv, r_fv, k_fv = pickle.load(gzip.open(os.path.join(fv_folder_path, attribute + ".dictionary"), "rb"))
+    for i in range(myGlobals.d.dataframe.shape[0]):
+        if "dboost" in myGlobals.ERROR_DETECTION_TOOLS:
+            tempfv = fv[j]
+            tempfv[(i, j)] += o_fv[(i, j)]
+            fv[j] = tempfv
+        if "regex" in myGlobals.ERROR_DETECTION_TOOLS:
+            tempfv = fv[j]
+            tempfv[(i, j)] += p_fv[(i, j)]
+            fv[j] = tempfv
+        if "fd_checker" in myGlobals.ERROR_DETECTION_TOOLS:
+            tempfv = fv[j]
+            tempfv[(i, j)] += r_fv[(i, j)]
+            fv[j] = tempfv
+        if "katara" in myGlobals.ERROR_DETECTION_TOOLS:
+            tempfv = fv[j]
+            tempfv[(i, j)] += k_fv[(i, j)]
+            fv[j] = tempfv
+    # # Baseline: TF-IDF features same as ActiveClean
+    # vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, stop_words="english")
+    # text = [row[j] for row in d.table[1:]]
+    # try:
+    #     acfv = vectorizer.fit_transform(text).toarray()
+    # except:
+    #     acfv = [] * d.rows_count
+    # for i, afv in enumerate(acfv):
+    #     fv[j][(i + 1, j)] = afv
+    try:
+        clustering_model = scipy.cluster.hierarchy.linkage(numpy.array(fv[j].values()), method="average",
+                                                           metric="cosine")
+    except:
+        return
+
+    tempdict_clusters = clusters_j_k_c_ce[j]
+    tempdict_cells = cells_clusters_j_k_ce[j]
+    for k in tempdict_clusters:
+        model_labels = [l - 1 for l in scipy.cluster.hierarchy.fcluster(clustering_model, k, criterion="maxclust")]
+        for index, c in enumerate(model_labels):
+            if c not in tempdict_clusters[k]:
+                tempdict_clusters[k][c] = {}
+            cell = fv[j].keys()[index]
+            tempdict_clusters[k][c][cell] = list(fv[j][cell])
+            tempdict_cells[k][cell] = c
+
+        # for c in clusters_k_j_c_ce[k][j]:
+        #     if len(clusters_k_j_c_ce[k][j][c]) > 0:
+        #         pairwise_distance = sklearn.metrics.pairwise.pairwise_distances(clusters_k_j_c_ce[k][j][c].values(), metric="euclidean")
+        #         clusters_center_k_jc[k][(j, c)] = clusters_k_j_c_ce[k][j][c].values()[numpy.argmin(pairwise_distance.sum(axis=0))]
+
+    clusters_j_k_c_ce[j] = tempdict_clusters
+    cells_clusters_j_k_ce[j] = tempdict_cells
 
 
 ########################################
@@ -187,12 +250,14 @@ class Raha:
             #     "clean_path": os.path.join(self.DATASETS_FOLDER, "tax", "clean.csv")
             # }
         }
-        self.ERROR_DETECTION_TOOLS = ["dboost", "regex", "fd_checker", "katara"]  # ["dboost", "regex", "fd_checker", "katara"]
+        self.ERROR_DETECTION_TOOLS = ["dboost", "regex", "fd_checker",
+                                      "katara"]  # ["dboost", "regex", "fd_checker", "katara"]
         self.RUN_COUNT = 1  # [1, 10, 20]
         self.LABELING_BUDGET = 20
         self.CLASSIFICATION_MODEL = "GBC"  # ["ABC", "DTC", "GBC", "GNB", "SGDC", "SVC"]
         self.STRATEGY_FILTERING = False  # [False, True]   # Uncomment all the datasets for selecting "True"!
-        self.BASELINES = ["dBoost"]   # ["dBoost", "NADEEF", "KATARA", "Min-k", "Maximum Entropy", "Metadata Driven", "ActiveClean"]
+        self.BASELINES = [
+            "dBoost"]  # ["dBoost", "NADEEF", "KATARA", "Min-k", "Maximum Entropy", "Metadata Driven", "ActiveClean"]
 
     def strategy_profiler(self, d):
         """
@@ -211,10 +276,15 @@ class Raha:
                 configuration_list = []
                 if tool_name == "dboost":
                     configuration_list = [list(a) for a in
-                                          list(itertools.product(["histogram"], ["0.7", "0.8", "0.9"], ["0.1", "0.2", "0.3"])) +
-                                          list(itertools.product(["gaussian"], ["1.0", "1.3", "1.5", "1.7", "2.0", "2.3", "2.5", "2.7", "3.0"])) +
-                                          list(itertools.product(["mixture"], ["3", "5", "8"], ["0.01", "0.10", "0.20", "0.30"])) +
-                                          list(itertools.product(["partitionedhistogram"], ["3", "5", "8"], ["0.7", "0.8", "0.9"], ["0.1", "0.2", "0.3"]))]
+                                          list(itertools.product(["histogram"], ["0.7", "0.8", "0.9"],
+                                                                 ["0.1", "0.2", "0.3"])) +
+                                          list(itertools.product(["gaussian"],
+                                                                 ["1.0", "1.3", "1.5", "1.7", "2.0", "2.3", "2.5",
+                                                                  "2.7", "3.0"])) +
+                                          list(itertools.product(["mixture"], ["3", "5", "8"],
+                                                                 ["0.01", "0.10", "0.20", "0.30"])) +
+                                          list(itertools.product(["partitionedhistogram"], ["3", "5", "8"],
+                                                                 ["0.7", "0.8", "0.9"], ["0.1", "0.2", "0.3"]))]
                 elif tool_name == "regex":
                     for attribute in d.dataframe.columns:
                         column_data = "".join(d.dataframe[attribute].tolist())
@@ -245,21 +315,22 @@ class Raha:
         fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "feature-vectors")
         sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-profiling")
         if self.STRATEGY_FILTERING:
-            if not os.path.exists(os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "strategy-profiling")):
+            if not os.path.exists(
+                    os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "strategy-profiling")):
                 self.strategy_filterer(d)
             fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "feature-vectors")
             sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "strategy-profiling")
         if not os.path.exists(fv_folder_path):
             os.mkdir(fv_folder_path)
-        myGlobals.all_strategies = {}
-        myGlobals.cells_strategies = {cell: {} for cell in itertools.product(range(d.dataframe.shape[0]), range(d.dataframe.shape[1]))}
+        myGlobals.cells_strategies = {cell: {} for cell in
+                                      itertools.product(range(d.dataframe.shape[0]), range(d.dataframe.shape[1]))}
         for strategy_file in os.listdir(sp_folder_path):
             strategy_profile = pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
             myGlobals.all_strategies[strategy_profile["name"]] = 1
             for cell in strategy_profile["output"]:
                 myGlobals.cells_strategies[cell][strategy_profile["name"]] = 1
 
-        mp_args = [[j,attribute] for j, attribute in enumerate(d.dataframe.columns.tolist())]
+        mp_args = [[j, attribute] for j, attribute in enumerate(d.dataframe.columns.tolist())]
 
         pool = mp.Pool()
         features = pool.map(extract_features, mp_args)
@@ -270,7 +341,8 @@ class Raha:
             r_fv = feature[2]
             k_fv = feature[3]
             attribute = feature[4]
-            pickle.dump([o_fv, p_fv, r_fv, k_fv], gzip.open(os.path.join(fv_folder_path, attribute + ".dictionary"), "wb"))
+            pickle.dump([o_fv, p_fv, r_fv, k_fv],
+                        gzip.open(os.path.join(fv_folder_path, attribute + ".dictionary"), "wb"))
 
     def error_detector(self, d):
         """
@@ -283,49 +355,30 @@ class Raha:
             fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "feature-vectors")
         if not os.path.exists(ed_folder_path):
             os.mkdir(ed_folder_path)
-        fv = {j: {(i, j): [] for i in range(d.dataframe.shape[0])} for j in range(d.dataframe.shape[1])}
+
         sampling_range = range(1, self.LABELING_BUDGET + 1)
         clustering_range = range(2, self.LABELING_BUDGET + 2)
-        clusters_k_j_c_ce = {k: {j: {} for j in range(d.dataframe.shape[1])} for k in clustering_range}
-        cells_clusters_k_j_ce = {k: {j: {} for j in range(d.dataframe.shape[1])} for k in clustering_range}
+
+        manager = mp.Manager()
+        fv = manager.dict()
+        clusters_j_k_c_ce = manager.dict()
+        cells_clusters_j_k_ce = manager.dict()
+        for j in range(d.dataframe.shape[1]):
+            fv[j] = {(i, j): [] for i in range(d.dataframe.shape[0])}
+            clusters_j_k_c_ce[j] = {k: {} for k in clustering_range}
+            cells_clusters_j_k_ce[j] = {k: {} for k in clustering_range}
+
+        myGlobals.ERROR_DETECTION_TOOLS = self.ERROR_DETECTION_TOOLS
+
         # clusters_center_k_jc = {k: {j: {} for j in range(d.columns_count)} for k in clustering_range}
-        for j, attribute in enumerate(d.dataframe.columns.tolist()):
-            print "Building clustering model for column {}...".format(j)
-            o_fv, p_fv, r_fv, k_fv = pickle.load(gzip.open(os.path.join(fv_folder_path, attribute + ".dictionary"), "rb"))
-            for i in range(d.dataframe.shape[0]):
-                if "dboost" in self.ERROR_DETECTION_TOOLS:
-                    fv[j][(i, j)] += o_fv[(i, j)]
-                if "regex" in self.ERROR_DETECTION_TOOLS:
-                    fv[j][(i, j)] += p_fv[(i, j)]
-                if "fd_checker" in self.ERROR_DETECTION_TOOLS:
-                    fv[j][(i, j)] += r_fv[(i, j)]
-                if "katara" in self.ERROR_DETECTION_TOOLS:
-                    fv[j][(i, j)] += k_fv[(i, j)]
-            # # Baseline: TF-IDF features same as ActiveClean
-            # vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, stop_words="english")
-            # text = [row[j] for row in d.table[1:]]
-            # try:
-            #     acfv = vectorizer.fit_transform(text).toarray()
-            # except:
-            #     acfv = [] * d.rows_count
-            # for i, afv in enumerate(acfv):
-            #     fv[j][(i + 1, j)] = afv
-            try:
-                clustering_model = scipy.cluster.hierarchy.linkage(numpy.array(fv[j].values()), method="average", metric="cosine")
-            except:
-                continue
-            for k in clusters_k_j_c_ce:
-                model_labels = [l - 1 for l in scipy.cluster.hierarchy.fcluster(clustering_model, k, criterion="maxclust")]
-                for index, c in enumerate(model_labels):
-                    if c not in clusters_k_j_c_ce[k][j]:
-                        clusters_k_j_c_ce[k][j][c] = {}
-                    cell = fv[j].keys()[index]
-                    clusters_k_j_c_ce[k][j][c][cell] = list(fv[j][cell])
-                    cells_clusters_k_j_ce[k][j][cell] = c
-                # for c in clusters_k_j_c_ce[k][j]:
-                #     if len(clusters_k_j_c_ce[k][j][c]) > 0:
-                #         pairwise_distance = sklearn.metrics.pairwise.pairwise_distances(clusters_k_j_c_ce[k][j][c].values(), metric="euclidean")
-                #         clusters_center_k_jc[k][(j, c)] = clusters_k_j_c_ce[k][j][c].values()[numpy.argmin(pairwise_distance.sum(axis=0))]
+
+        process_args = [[fv, clusters_j_k_c_ce, cells_clusters_j_k_ce, j, attribute, fv_folder_path]
+                        for j, attribute in enumerate(d.dataframe.columns.tolist())]
+        pool = mp.Pool()
+        pool.map(detect_errors, process_args)
+        clusters_k_j_c_ce = {k: {j: clusters_j_k_c_ce[j][k] for j in d.dataframe.shape[1]} for k in clustering_range}
+        cells_clusters_k_j_ce = {k: {j: cells_clusters_j_k_ce[j][k] for j in d.dataframe.shape[1]} for k in clustering_range}
+
         aggregate_results = {s: [] for s in sampling_range}
         for r in range(self.RUN_COUNT):
             print "Run {}...".format(r)
@@ -335,8 +388,7 @@ class Raha:
                 labels_per_cluster = {}
                 for j in range(d.dataframe.shape[1]):
                     for c in clusters_k_j_c_ce[k][j]:
-                        labels_per_cluster[(j, c)] = {cell: labeled_cells[cell]
-                                                      for cell in clusters_k_j_c_ce[k][j][c] if cell[0] in labeled_tuples}
+                        labels_per_cluster[(j, c)] = {cell: labeled_cells[cell] for cell in clusters_k_j_c_ce[k][j][c] if cell[0] in labeled_tuples}
                 tuple_score = {i: 0.0 for i in range(d.dataframe.shape[0]) if i not in labeled_tuples}
                 for i in tuple_score:
                     score = 0.0
@@ -370,7 +422,7 @@ class Raha:
                 else:
                     print "Label the dirty cells in the following sampled tuple."
                     sampled_tuple = pandas.DataFrame(data=[d.dataframe.iloc[si, :]], columns=d.dataframe.columns)
-                    #IPython.display.display(sampled_tuple)
+                    # IPython.display.display(sampled_tuple)
                     for j in range(d.dataframe.shape[1]):
                         cell = (si, j)
                         value = d.dataframe.iloc[cell]
@@ -454,11 +506,11 @@ class Raha:
                     # r = 0.0 if len(actual_dirty_tuples) == 0 else tp / len(actual_dirty_tuples)
                     # f = 0.0 if (p + r) == 0.0 else (2 * p * r) / (p + r)
                     # aggregate_results[s].append([p, r, f])
-                #else:
-                    # pickle.dump(correction_dictionary, open(os.path.join(ed_folder_path, "results.dictionary"), "wb"))
-                    #IPython.display.display(d.dataframe.style.apply(
-                    #    lambda x: ["background-color: red" if (i, d.dataframe.columns.get_loc(x.name)) in correction_dictionary else ""
-                     #              for i, cv in enumerate(x)]))
+                # else:
+                # pickle.dump(correction_dictionary, open(os.path.join(ed_folder_path, "results.dictionary"), "wb"))
+                # IPython.display.display(d.dataframe.style.apply(
+                #    lambda x: ["background-color: red" if (i, d.dataframe.columns.get_loc(x.name)) in correction_dictionary else ""
+                #              for i, cv in enumerate(x)]))
                 if not hasattr(d, "actual_errors_dictionary"):
                     continue_flag = int(raw_input("Would you like to label one more tuple?\nType 1 for yes.\nType 0 for no.\n"))
                     if not continue_flag:
@@ -555,7 +607,8 @@ class Raha:
                 if hdn != d.name:
                     hd = dataset.Dataset(self.DATASETS[hdn])
                     for hci, ha in enumerate(hd.dataframe.columns.tolist()):
-                        hdp_folder_path = os.path.join(self.RESULTS_FOLDER, hd.name, "strategy-filtering", "dataset-profiling")
+                        hdp_folder_path = os.path.join(self.RESULTS_FOLDER, hd.name, "strategy-filtering",
+                                                       "dataset-profiling")
                         hcp = pickle.load(open(os.path.join(hdp_folder_path, ha + ".dictionary"), "rb"))
                         nfv = []
                         hfv = []
@@ -573,7 +626,8 @@ class Raha:
             if hdn != d.name:
                 hd = dataset.Dataset(self.DATASETS[hdn])
                 for hci, ha in enumerate(hd.dataframe.columns.tolist()):
-                    ep_folder_path = os.path.join(self.RESULTS_FOLDER, hd.name, "strategy-filtering", "evaluation-profiling")
+                    ep_folder_path = os.path.join(self.RESULTS_FOLDER, hd.name, "strategy-filtering",
+                                                  "evaluation-profiling")
                     strategies_performance = pickle.load(open(os.path.join(ep_folder_path, ha + ".dictionary"), "rb"))
                     if (hd.name, ha) not in f1_measure:
                         f1_measure[(hd.name, ha)] = {}
@@ -656,7 +710,8 @@ class Raha:
                     "output": [cell for cell in strategies_output[sn] if d.dataframe.columns.tolist()[cell[1]] == a],
                     "runtime": runtime
                 }
-                pickle.dump(strategy_profile, open(os.path.join(nsp_folder_path, snd[0] + "-" + str(len(os.listdir(nsp_folder_path))) + ".dictionary"), "wb"))
+                pickle.dump(strategy_profile, open(
+                    os.path.join(nsp_folder_path, snd[0] + "-" + str(len(os.listdir(nsp_folder_path))) + ".dictionary"),"wb"))
         print "Promising error detection strategies are stored."
 
     def baselines(self, d):
@@ -714,7 +769,8 @@ class Raha:
             },
             "movies_1": {
                 "functions": [],
-                "patterns": [["id", "^tt[\d]+$", "ONM"], ["year", "^[\d]{4}$", "ONM"], ["rating_value", "^[\d.]*$", "ONM"],
+                "patterns": [["id", "^tt[\d]+$", "ONM"], ["year", "^[\d]{4}$", "ONM"],
+                             ["rating_value", "^[\d.]*$", "ONM"],
                              ["rating_count", "^[\d]*$", "ONM"], ["duration", "^([\d]+[ ]min)*$", "ONM"]]
             },
             "merck": {
@@ -786,7 +842,8 @@ class Raha:
             fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "feature-vectors")
             fv = {j: {(i, j): [] for i in range(d.dataframe.shape[0])} for j in range(d.dataframe.shape[1])}
             for j, attribute in enumerate(d.dataframe.columns.tolist()):
-                o_fv, p_fv, r_fv, k_fv = pickle.load(gzip.open(os.path.join(fv_folder_path, attribute + ".dictionary"), "rb"))
+                o_fv, p_fv, r_fv, k_fv = pickle.load(
+                    gzip.open(os.path.join(fv_folder_path, attribute + ".dictionary"), "rb"))
                 for i in range(d.dataframe.shape[0]):
                     if "dboost" in self.ERROR_DETECTION_TOOLS:
                         fv[j][(i, j)] += o_fv[(i, j)]
@@ -951,7 +1008,8 @@ class Raha:
                     elif sum(y_train) == 0 or len(x_train[0]) == 0:
                         predicted_labels = len(test_rows) * [0]
                     else:
-                        model = sklearn.linear_model.SGDClassifier(loss="log", alpha=1e-6, max_iter=200, fit_intercept=True)
+                        model = sklearn.linear_model.SGDClassifier(loss="log", alpha=1e-6, max_iter=200,
+                                                                   fit_intercept=True)
                         model.fit(x_train, y_train)
                         predicted_labels = model.predict(x_test)
                     correction_dictionary = {}
@@ -989,6 +1047,8 @@ class Raha:
                 results_string += "({},{:.2f})".format(s, mean_results[s][2])
             results_string += "}; \\addlegendentry{ActiveClean}"
             print results_string
+
+
 ########################################
 
 
@@ -1000,13 +1060,13 @@ if __name__ == "__main__":
 
     print "===================== Dataset: {} =====================".format(myGlobals.d.name)
     # --------------------
-    application.strategy_profiler(myGlobals.d)
-    application.dataset_profiler(myGlobals.d)
-    application.evaluation_profiler(myGlobals.d)
+    # application.strategy_profiler(myGlobals.d)
+    # application.dataset_profiler(myGlobals.d)
+    # application.evaluation_profiler(myGlobals.d)
     # --------------------
-    application.feature_generator(myGlobals.d)
-    #application.error_detector(myGlobals.d)
+    #application.feature_generator(myGlobals.d)
+    application.error_detector(myGlobals.d)
     # --------------------
-    #application.baselines(myGlobals.d)
+    # application.baselines(myGlobals.d)
     # --------------------
 ########################################
