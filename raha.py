@@ -349,8 +349,8 @@ class Raha:
         clustering_range = range(2, self.LABELING_BUDGET + 2)
 
         fv = {j: {(i, j): [] for i in range(d.dataframe.shape[0])} for j in range(d.dataframe.shape[1])}
-        clusters_j_k_c_ce = {k: {j: {} for j in range(d.dataframe.shape[1])} for k in clustering_range}
-        cells_clusters_j_k_ce = {k: {j: {} for j in range(d.dataframe.shape[1])} for k in clustering_range}
+        myGlobals.clusters_j_k_c_ce = {k: {j: {} for j in range(d.dataframe.shape[1])} for k in clustering_range}
+        myGlobals.cells_clusters_j_k_ce = {k: {j: {} for j in range(d.dataframe.shape[1])} for k in clustering_range}
 
         myGlobals.ERROR_DETECTION_TOOLS = self.ERROR_DETECTION_TOOLS
 
@@ -363,11 +363,11 @@ class Raha:
 
         for j, result in enumerate(results):
             fv[j] = result[0]
-            clusters_j_k_c_ce[j] = result[1]
-            cells_clusters_j_k_ce[j] = result[2]
+            myGlobals.clusters_j_k_c_ce[j] = result[1]
+            myGlobals.cells_clusters_j_k_ce[j] = result[2]
 
-        clusters_k_j_c_ce = {k: {j: clusters_j_k_c_ce[j][k] for j in d.dataframe.shape[1]} for k in clustering_range}
-        cells_clusters_k_j_ce = {k: {j: cells_clusters_j_k_ce[j][k] for j in d.dataframe.shape[1]} for k in clustering_range}
+        clusters_k_j_c_ce = {k: {j: myGlobals.clusters_j_k_c_ce[j][k] for j in d.dataframe.shape[1]} for k in clustering_range}
+        cells_clusters_k_j_ce = {k: {j: myGlobals.cells_clusters_j_k_ce[j][k] for j in d.dataframe.shape[1]} for k in clustering_range}
 
         aggregate_results = {s: [] for s in sampling_range}
         for r in range(self.RUN_COUNT):
