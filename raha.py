@@ -142,7 +142,7 @@ def detect_errors(args):
     # for i, afv in enumerate(acfv):
     #     fv[j][(i + 1, j)] = afv
     try:
-        clustering_model = scipy.cluster.hierarchy.linkage(numpy.array(fv[j].values()), method="average",
+        clustering_model = scipy.cluster.hierarchy.linkage(numpy.array(fv.values()), method="average",
                                                            metric="cosine")
     except:
         return
@@ -154,8 +154,8 @@ def detect_errors(args):
         for index, c in enumerate(model_labels):
             if c not in tempdict_clusters[k]:
                 tempdict_clusters[k][c] = {}
-            cell = fv[j].keys()[index]
-            tempdict_clusters[k][c][cell] = list(fv[j][cell])
+            cell = fv.keys()[index]
+            tempdict_clusters[k][c][cell] = list(fv[cell])
             tempdict_cells[k][cell] = c
 
         # for c in clusters_k_j_c_ce[k][j]:
@@ -348,9 +348,9 @@ class Raha:
         sampling_range = range(1, self.LABELING_BUDGET + 1)
         clustering_range = range(2, self.LABELING_BUDGET + 2)
 
-        fv = {j: {(i, j): [] for i in range(d.dataframe.shape[0])} for j in range(d.dataframe.shape[1])}
-        myGlobals.clusters_j_k_c_ce = {k: {j: {} for j in range(d.dataframe.shape[1])} for k in clustering_range}
-        myGlobals.cells_clusters_j_k_ce = {k: {j: {} for j in range(d.dataframe.shape[1])} for k in clustering_range}
+        myGlobals.fv = {j: {(i, j): [] for i in range(d.dataframe.shape[0])} for j in range(d.dataframe.shape[1])}
+        myGlobals.clusters_j_k_c_ce = {j: {k: {} for k in clustering_range} for j in range(d.dataframe.shape[1])}
+        myGlobals.cells_clusters_j_k_ce = {j: {k: {} for k in clustering_range} for j in range(d.dataframe.shape[1])}
 
         myGlobals.ERROR_DETECTION_TOOLS = self.ERROR_DETECTION_TOOLS
 
@@ -361,13 +361,17 @@ class Raha:
         pool = mp.Pool()
         results = pool.map(detect_errors, process_args)
 
+        clusters = myGlobals.clusters_j_k_c_ce
+        cells_clusters = myGlobals.cells_clusters_j_k_ce
+        fv = myGlobals.fv
         for j, result in enumerate(results):
-            fv[j] = result[0]
-            myGlobals.clusters_j_k_c_ce[j] = result[1]
-            myGlobals.cells_clusters_j_k_ce[j] = result[2]
+            if result is not None:
+                fv[j] = result[0]
+                clusters[j] = result[1]
+                cells_clusters[j] = result[2]
 
-        clusters_k_j_c_ce = {k: {j: myGlobals.clusters_j_k_c_ce[j][k] for j in d.dataframe.shape[1]} for k in clustering_range}
-        cells_clusters_k_j_ce = {k: {j: myGlobals.cells_clusters_j_k_ce[j][k] for j in d.dataframe.shape[1]} for k in clustering_range}
+        clusters_k_j_c_ce = {k: {j: clusters[j][k] for j in range(d.dataframe.shape[1])} for k in clustering_range}
+        cells_clusters_k_j_ce = {k: {j: cells_clusters[j][k] for j in range(d.dataframe.shape[1])} for k in clustering_range}
 
         aggregate_results = {s: [] for s in sampling_range}
         for r in range(self.RUN_COUNT):
