@@ -288,6 +288,7 @@ class Raha:
 
                 tool_and_configurations.extend([[tool_name, i] for i in configuration_list])
 
+            numpy.random.shuffle(tool_and_configurations)
             pool = mp.Pool()
             strategy_profiles = pool.map(run_strategy, tool_and_configurations)
 
