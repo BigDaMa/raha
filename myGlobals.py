@@ -14,7 +14,7 @@ d = dataset.Dataset(dataset_dictionary)
 
 all_strategies = {}
 
-cell_strategies = {}
+cells_strategies = {}
 
 ERROR_DETECTION_TOOLS = []
 
