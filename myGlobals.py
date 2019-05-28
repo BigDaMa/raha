@@ -12,6 +12,8 @@ dataset_dictionary = {
 
 d = dataset.Dataset(dataset_dictionary)
 
+sp_folder_path = ""
+
 all_strategies = {}
 
 cells_strategies = {}

@@ -44,13 +44,26 @@ import data_cleaning_tool
 import multiprocessing as mp
 import myGlobals
 ########################################
+def write_strategies(args):
+    queue = args[0]
+    sp_folder_path = args[1]
+
+    while True:
+        file_and_output = queue.get()
+        if len(file_and_output == 1) and file_and_output == "stop":
+            break
+        filename = file_and_output[0]
+        strategy_profile = file_and_output[1]
+        pickle.dump(strategy_profile, open(os.path.join(sp_folder_path, filename), "wb"))
+
 def run_strategy(tool_and_configurations):
     tool_name = tool_and_configurations[0]
     configuration = tool_and_configurations[1]
+    queue = tool_and_configurations[2]
+
     start_time = time.time()
     strategy_name = json.dumps([tool_name, configuration])
-    temp_domain_specific_path = myGlobals.d.name + "-temp_ds-" + "".join(
-        random.choice(string.ascii_lowercase + string.digits) for _ in range(10))
+    temp_domain_specific_path = myGlobals.d.name + "-temp_ds-" + "".join(random.choice(string.ascii_lowercase + string.digits) for _ in range(10))
     if tool_name == "katara":
         if not os.path.exists(temp_domain_specific_path):
             os.mkdir(temp_domain_specific_path)
@@ -67,14 +80,19 @@ def run_strategy(tool_and_configurations):
     strategy_profile = {
         "name": strategy_name,
         "output": detected_cells_list,
-        # "runtime": time.time() - start_time
+        "runtime": time.time() - start_time
     }
     print "Running {} is done. Output size = {}".format(strategy_name, len(detected_cells_list))
     if tool_name == "katara":
         if os.path.exists(temp_domain_specific_path):
             shutil.rmtree(temp_domain_specific_path)
-    return [strategy_profile, tool_name]
 
+    temp_config_string = "".join(c for c in configuration if c.alnum())
+
+    filename = tool_name + "-" + temp_config_string + ".dictionary"
+    queue.put([filename, strategy_profile])
+
+    return [strategy_profile, tool_name]
 
 def extract_features(args):
     j = args[0]
@@ -111,18 +129,15 @@ def extract_features(args):
     r_fv = noise_features_remover(r_fv)
     k_fv = noise_features_remover(k_fv)
 
-    return [o_fv, p_fv, r_fv, k_fv, attribute]
-
+    return [o_fv, p_fv, r_fv, k_fv]
 
 def detect_errors(args):
     j = args[0]
-    attribute = args[1]
-    fv_folder_path = args[2]
+    o_fv, p_fv, r_fv, k_fv = args[1]
 
     fv = myGlobals.fv[j]
 
     print "Building clustering model for column {}...".format(j)
-    o_fv, p_fv, r_fv, k_fv = pickle.load(gzip.open(os.path.join(fv_folder_path, attribute + ".dictionary"), "rb"))
     for i in range(myGlobals.d.dataframe.shape[0]):
         if "dboost" in myGlobals.ERROR_DETECTION_TOOLS:
             fv[(i, j)] += o_fv[(i, j)]
@@ -241,12 +256,14 @@ class Raha:
         }
         self.ERROR_DETECTION_TOOLS = ["dboost", "regex", "fd_checker",
                                       "katara"]  # ["dboost", "regex", "fd_checker", "katara"]
-        self.RUN_COUNT = 1  # [1, 10, 20]
+        self.RUN_COUNT = 5  # [1, 10, 20]
         self.LABELING_BUDGET = 20
         self.CLASSIFICATION_MODEL = "GBC"  # ["ABC", "DTC", "GBC", "GNB", "SGDC", "SVC"]
         self.STRATEGY_FILTERING = False  # [False, True]   # Uncomment all the datasets for selecting "True"!
-        self.BASELINES = [
-            "dBoost"]  # ["dBoost", "NADEEF", "KATARA", "Min-k", "Maximum Entropy", "Metadata Driven", "ActiveClean"]
+        self.BASELINES = ["dBoost"]  # ["dBoost", "NADEEF", "KATARA", "Min-k", "Maximum Entropy", "Metadata Driven", "ActiveClean"]
+        self.strategy_profiles = []
+        self.features = []
+        self.writeStrategies = True # Change this to not write strategy profiles to disk
 
     def strategy_profiler(self, d):
         """
@@ -255,10 +272,14 @@ class Raha:
         if not os.path.exists(os.path.join(self.RESULTS_FOLDER, d.name)):
             os.mkdir(os.path.join(self.RESULTS_FOLDER, d.name))
         sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-profiling")
+        myGlobals.sp_folder_path = sp_folder_path
         if os.path.exists(sp_folder_path):
             sys.stderr.write("The error detection strategies have already run on this dataset!\n")
             return
         else:
+            manager = mp.Manager()
+            queue = manager.Queue()
+
             os.mkdir(sp_folder_path)
             tool_and_configurations = []
             for tool_name in self.ERROR_DETECTION_TOOLS:
@@ -286,36 +307,32 @@ class Raha:
                 elif tool_name == "katara":
                     configuration_list = [[p] for p in os.listdir("tools/KATARA/dominSpecific")]
 
-                tool_and_configurations.extend([[tool_name, i] for i in configuration_list])
+                tool_and_configurations.extend([[tool_name, i, queue] for i in configuration_list])
 
             numpy.random.shuffle(tool_and_configurations)
             pool = mp.Pool()
-            strategy_profiles = pool.map(run_strategy, tool_and_configurations)
-
-            for strategy_profile_list in strategy_profiles:
-                tool_name = strategy_profile_list[1]
-                strategy_profile = strategy_profile_list[0]
-                pickle.dump(strategy_profile, open(os.path.join(sp_folder_path, tool_name + "-" + str(
-                    len(os.listdir(sp_folder_path))) + ".dictionary"), "wb"))
+            if self.writeStrategies:
+                pool.apply_async(write_strategies, [queue, sp_folder_path])
+            self.strategy_profiles = pool.map(run_strategy, tool_and_configurations)
+            queue.put("stop")
 
     def feature_generator(self, d):
         """
         This method generates a feature vector for each data cell.
         """
-        fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "feature-vectors")
-        sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-profiling")
-        if self.STRATEGY_FILTERING:
-            if not os.path.exists(
-                    os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "strategy-profiling")):
-                self.strategy_filterer(d)
-            fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "feature-vectors")
-            sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "strategy-profiling")
-        if not os.path.exists(fv_folder_path):
-            os.mkdir(fv_folder_path)
+        # fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "feature-vectors")
+        # sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-profiling")
+        # if self.STRATEGY_FILTERING:
+        #     if not os.path.exists(
+        #             os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "strategy-profiling")):
+        #         self.strategy_filterer(d)
+        #     fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "feature-vectors")
+        #     sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "strategy-profiling")
+        # if not os.path.exists(fv_folder_path):
+        #     os.mkdir(fv_folder_path)
         myGlobals.cells_strategies = {cell: {} for cell in
                                       itertools.product(range(d.dataframe.shape[0]), range(d.dataframe.shape[1]))}
-        for strategy_file in os.listdir(sp_folder_path):
-            strategy_profile = pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
+        for strategy_profile in self.strategy_profiles:
             myGlobals.all_strategies[strategy_profile["name"]] = 1
             for cell in strategy_profile["output"]:
                 myGlobals.cells_strategies[cell][strategy_profile["name"]] = 1
@@ -323,28 +340,19 @@ class Raha:
         mp_args = [[j, attribute] for j, attribute in enumerate(d.dataframe.columns.tolist())]
 
         pool = mp.Pool()
-        features = pool.map(extract_features, mp_args)
-
-        for feature in features:
-            o_fv = feature[0]
-            p_fv = feature[1]
-            r_fv = feature[2]
-            k_fv = feature[3]
-            attribute = feature[4]
-            pickle.dump([o_fv, p_fv, r_fv, k_fv],
-                        gzip.open(os.path.join(fv_folder_path, attribute + ".dictionary"), "wb"))
+        self.features = pool.map(extract_features, mp_args)
 
     def error_detector(self, d):
         """
         This method cluster data cells and asks user to label them. Next, it trains a classifier per data column.
         """
-        ed_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "error-detection")
-        fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "feature-vectors")
-        if self.STRATEGY_FILTERING:
-            ed_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "error-detection")
-            fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "feature-vectors")
-        if not os.path.exists(ed_folder_path):
-            os.mkdir(ed_folder_path)
+        # ed_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "error-detection")
+        # fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "feature-vectors")
+        # if self.STRATEGY_FILTERING:
+        #     ed_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "error-detection")
+        #     fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "feature-vectors")
+        # if not os.path.exists(ed_folder_path):
+        #     os.mkdir(ed_folder_path)
 
         sampling_range = range(1, self.LABELING_BUDGET + 1)
         clustering_range = range(2, self.LABELING_BUDGET + 2)
@@ -357,8 +365,7 @@ class Raha:
 
         # clusters_center_k_jc = {k: {j: {} for j in range(d.columns_count)} for k in clustering_range}
 
-        process_args = [[j, attribute, fv_folder_path]
-                        for j, attribute in enumerate(d.dataframe.columns.tolist())]
+        process_args = [[j, feature]for j, feature in enumerate(self.features)]
         pool = mp.Pool()
         results = pool.map(detect_errors, process_args)
 
@@ -1052,14 +1059,13 @@ if __name__ == "__main__":
     # --------------------
     application = Raha()
     # --------------------
-
     print "===================== Dataset: {} =====================".format(myGlobals.d.name)
     # --------------------
-    # application.strategy_profiler(myGlobals.d)
+    application.strategy_profiler(myGlobals.d)
     # application.dataset_profiler(myGlobals.d)
     # application.evaluation_profiler(myGlobals.d)
     # --------------------
-    #application.feature_generator(myGlobals.d)
+    application.feature_generator(myGlobals.d)
     application.error_detector(myGlobals.d)
     # --------------------
     # application.baselines(myGlobals.d)
