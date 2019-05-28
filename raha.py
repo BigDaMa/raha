@@ -145,7 +145,7 @@ def detect_errors(args):
         clustering_model = scipy.cluster.hierarchy.linkage(numpy.array(fv.values()), method="average",
                                                            metric="cosine")
     except:
-        return
+        return [fv]
 
     tempdict_clusters = myGlobals.clusters_j_k_c_ce[j]
     tempdict_cells = myGlobals.cells_clusters_j_k_ce[j]
@@ -366,8 +366,8 @@ class Raha:
         cells_clusters = myGlobals.cells_clusters_j_k_ce
         fv = myGlobals.fv
         for j, result in enumerate(results):
-            if result is not None:
-                fv[j] = result[0]
+            fv[j] = result[0]
+            if len(result) == 3:
                 clusters[j] = result[1]
                 cells_clusters[j] = result[2]
 
