@@ -87,12 +87,12 @@ def run_strategy(tool_and_configurations):
         if os.path.exists(temp_domain_specific_path):
             shutil.rmtree(temp_domain_specific_path)
 
-    temp_config_string = "".join(c for c in configuration if c.alnum())
+    temp_config_string = "".join(c for c in strategy_name[1] if c.isalnum())
 
     filename = tool_name + "-" + temp_config_string + ".dictionary"
     queue.put([filename, strategy_profile])
 
-    return [strategy_profile, tool_name]
+    return strategy_profile
 
 def extract_features(args):
     j = args[0]
