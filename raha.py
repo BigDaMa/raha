@@ -51,7 +51,7 @@ def write_strategies(args):
 
     while True:
         file_and_output = queue.get()
-        if len(file_and_output == 1) and file_and_output == "stop":
+        if len(file_and_output) == 1 and file_and_output[0] == "stop":
             break
         filename = file_and_output[0]
         strategy_profile = file_and_output[1]
@@ -316,7 +316,7 @@ class Raha:
                 writer = mp.Process(target=write_strategies, args=([queue, sp_folder_path], ))
                 writer.start()
             self.strategy_profiles = pool.map(run_strategy, tool_and_configurations)
-            queue.put("stop")
+            queue.put(["stop"])
 
     def feature_generator(self, d):
         """
