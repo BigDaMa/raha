@@ -257,14 +257,14 @@ class Raha:
         }
         self.ERROR_DETECTION_TOOLS = ["dboost", "regex", "fd_checker",
                                       "katara"]  # ["dboost", "regex", "fd_checker", "katara"]
-        self.RUN_COUNT = 5  # [1, 10, 20]
+        self.RUN_COUNT = 1  # [1, 10, 20]
         self.LABELING_BUDGET = 20
         self.CLASSIFICATION_MODEL = "GBC"  # ["ABC", "DTC", "GBC", "GNB", "SGDC", "SVC"]
         self.STRATEGY_FILTERING = False  # [False, True]   # Uncomment all the datasets for selecting "True"!
         self.BASELINES = ["dBoost"]  # ["dBoost", "NADEEF", "KATARA", "Min-k", "Maximum Entropy", "Metadata Driven", "ActiveClean"]
         self.strategy_profiles = []
         self.features = []
-        self.writeStrategies = True # Change this to not write strategy profiles to disk
+        self.writeStrategies = True  # Change this to not write strategy profiles to disk
 
     def strategy_profiler(self, d):
         """
@@ -313,7 +313,8 @@ class Raha:
             numpy.random.shuffle(tool_and_configurations)
             pool = mp.Pool()
             if self.writeStrategies:
-                pool.apply_async(write_strategies, [queue, sp_folder_path])
+                writer = mp.Process(target=write_strategies, args=([queue, sp_folder_path], ))
+                writer.start()
             self.strategy_profiles = pool.map(run_strategy, tool_and_configurations)
             queue.put("stop")
 
