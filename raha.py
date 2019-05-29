@@ -53,8 +53,9 @@ def write_strategies(args):
         file_and_output = queue.get()
         if len(file_and_output) == 1 and file_and_output[0] == "stop":
             break
-        filename = file_and_output[0]
+        tool_name = file_and_output[0]
         strategy_profile = file_and_output[1]
+        filename = tool_name + "-" + str(len(os.listdir(sp_folder_path))) + ".dictionary"
         pickle.dump(strategy_profile, open(os.path.join(sp_folder_path, filename), "wb"))
 
 def run_strategy(tool_and_configurations):
@@ -88,10 +89,9 @@ def run_strategy(tool_and_configurations):
         if os.path.exists(temp_domain_specific_path):
             shutil.rmtree(temp_domain_specific_path)
 
-    temp_config_string = "".join(c for c in strategy_name[1] if c.isalnum())
+    temp_config_string = "".join(c for c in strategy_name if c.isalnum())
 
-    filename = tool_name + "-" + temp_config_string + ".dictionary"
-    queue.put([filename, strategy_profile])
+    queue.put([tool_name, strategy_profile])
 
     return strategy_profile
 
