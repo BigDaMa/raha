@@ -43,6 +43,7 @@ import dataset
 import data_cleaning_tool
 import multiprocessing as mp
 import myGlobals
+import gc
 ########################################
 def write_strategies(args):
     queue = args[0]
@@ -339,6 +340,9 @@ class Raha:
 
         mp_args = [[j, attribute] for j, attribute in enumerate(d.dataframe.columns.tolist())]
 
+        del self.strategy_profiles
+        gc.collect()
+
         pool = mp.Pool()
         self.features = pool.map(extract_features, mp_args)
 
@@ -366,6 +370,8 @@ class Raha:
         # clusters_center_k_jc = {k: {j: {} for j in range(d.columns_count)} for k in clustering_range}
 
         process_args = [[j, feature]for j, feature in enumerate(self.features)]
+        del self.features
+        gc.collect()
         pool = mp.Pool()
         results = pool.map(detect_errors, process_args)
 
