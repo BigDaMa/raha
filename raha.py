@@ -314,7 +314,14 @@ class Raha:
 
                 tool_and_configurations.extend([[tool_name, i, queue] for i in configuration_list])
 
-            numpy.random.shuffle(tool_and_configurations)
+            temp_list = [[] for _ in mp.cpu_count()*4]
+            for index, tool_and_config in enumerate(tool_and_configurations):
+                temp_list[index % len(temp_list)].append(tool_and_config)
+
+            tool_and_configurations = []
+            for arr in temp_list:
+                tool_and_configurations.extend(arr)
+
             pool = mp.Pool()
             if self.writeStrategies:
                 writer = mp.Process(target=write_strategies, args=([queue, sp_folder_path], ))
