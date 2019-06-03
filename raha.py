@@ -314,7 +314,7 @@ class Raha:
 
                 tool_and_configurations.extend([[tool_name, i, queue] for i in configuration_list])
 
-            temp_list = [[] for _ in mp.cpu_count()*4]
+            temp_list = [[] for _ in range(mp.cpu_count()*4)]
             for index, tool_and_config in enumerate(tool_and_configurations):
                 temp_list[index % len(temp_list)].append(tool_and_config)
 
