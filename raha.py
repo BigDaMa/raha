@@ -275,8 +275,12 @@ class Raha:
         sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-profiling")
         myGlobals.sp_folder_path = sp_folder_path
         if os.path.exists(sp_folder_path):
-            sys.stderr.write("The error detection strategies have already run on this dataset!\n")
-            return
+            if len(os.listdir(sp_folder_path)) == 0:
+                os.rmdir(sp_folder_path)
+            else:
+                sys.stderr.write("The error detection strategies have already run on this dataset!\n")
+                self.strategy_profiles = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb")) for strategy_file in os.listdir(sp_folder_path)]
+                return
         else:
             manager = mp.Manager()
             queue = manager.Queue()
