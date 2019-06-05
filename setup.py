@@ -2,7 +2,12 @@ from distutils.core import setup
 
 setup(
     name='raha',
-    packages=['tools.dBoost.dboost', 'tools.dBoost.dboost.utils', 'tools.dBoost.dboost.models',
-              'tools.dBoost.dboost.features', 'tools.dBoost.dboost.analyzers', 'tools.dBoost.graphics.utils'],
+    version='1.1',
+    packages=[''],
+    url='https://github.com/BigDaMa/raha/',
+    license='Apache 2.0',
+    author='',
+    author_email='',
+    description='Raha: A Configuration-Free Error Detection System',
     requires=['pandas', 'numpy', 'scipy', 'sklearn', 'IPython']
 )
