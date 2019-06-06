@@ -1,4 +1,7 @@
-from distutils.core import setup
+from setuptools import setup
+
+with open('requirements.txt') as f:
+    required = f.read().splitlines()
 
 setup(
     name='raha',
@@ -9,5 +12,5 @@ setup(
     author='',
     author_email='',
     description='Raha: A Configuration-Free Error Detection System',
-    requires=['pandas', 'numpy', 'scipy', 'sklearn', 'IPython']
+    install_requires=required
 )
