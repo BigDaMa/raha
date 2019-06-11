@@ -84,7 +84,7 @@ def run_strategy(tool_and_configurations):
         "output": detected_cells_list,
         "runtime": time.time() - start_time
     }
-    print "Running {} is done. Output size = {}".format(strategy_name, len(detected_cells_list))
+    print("Running {} is done. Output size = {}".format(strategy_name, len(detected_cells_list)))
     if tool_name == "katara":
         if os.path.exists(temp_domain_specific_path):
             shutil.rmtree(temp_domain_specific_path)
@@ -99,7 +99,7 @@ def extract_features(args):
     j = args[0]
     attribute = args[1]
 
-    print "Extracting features for column {}...".format(j)
+    print("Extracting features for column {}...".format(j))
     o_fv = {(i, j): [] for i in range(myGlobals.d.dataframe.shape[0])}
     p_fv = {(i, j): [] for i in range(myGlobals.d.dataframe.shape[0])}
     r_fv = {(i, j): [] for i in range(myGlobals.d.dataframe.shape[0])}
@@ -138,7 +138,7 @@ def detect_errors(args):
 
     fv = myGlobals.fv[j]
 
-    print "Building clustering model for column {}...".format(j)
+    print("Building clustering model for column {}...".format(j))
     for i in range(myGlobals.d.dataframe.shape[0]):
         if "dboost" in myGlobals.ERROR_DETECTION_TOOLS:
             fv[(i, j)] += o_fv[(i, j)]
@@ -270,6 +270,8 @@ class Raha:
         """
         This method runs all the error detections strategies with all the possible configurations on the dataset.
         """
+        if not os.path.exists(os.path.join(self.RESULTS_FOLDER)):
+            os.mkdir(os.path.join(self.RESULTS_FOLDER))
         if not os.path.exists(os.path.join(self.RESULTS_FOLDER, d.name)):
             os.mkdir(os.path.join(self.RESULTS_FOLDER, d.name))
         sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-profiling")
@@ -401,7 +403,7 @@ class Raha:
 
         aggregate_results = {s: [] for s in sampling_range}
         for r in range(self.RUN_COUNT):
-            print "Run {}...".format(r)
+            print("Run {}...".format(r))
             labeled_tuples = {}
             labeled_cells = {}
             for k in clusters_k_j_c_ce:
@@ -440,13 +442,13 @@ class Raha:
                             c = cells_clusters_k_j_ce[k][j][cell]
                             labels_per_cluster[(j, c)][cell] = labeled_cells[cell]
                 else:
-                    print "Label the dirty cells in the following sampled tuple."
+                    print("Label the dirty cells in the following sampled tuple.")
                     sampled_tuple = pandas.DataFrame(data=[d.dataframe.iloc[si, :]], columns=d.dataframe.columns)
                     # IPython.display.display(sampled_tuple)
                     for j in range(d.dataframe.shape[1]):
                         cell = (si, j)
                         value = d.dataframe.iloc[cell]
-                        labeled_cells[cell] = int(raw_input("Is the value '{}' dirty?\nType 1 for yes.\nType 0 for no.\n".format(value)))
+                        labeled_cells[cell] = int(input("Is the value '{}' dirty?\nType 1 for yes.\nType 0 for no.\n".format(value)))
                         if cell in cells_clusters_k_j_ce[k][j]:
                             c = cells_clusters_k_j_ce[k][j][cell]
                             labels_per_cluster[(j, c)][cell] = labeled_cells[cell]
@@ -532,7 +534,7 @@ class Raha:
                 #    lambda x: ["background-color: red" if (i, d.dataframe.columns.get_loc(x.name)) in correction_dictionary else ""
                 #              for i, cv in enumerate(x)]))
                 if not hasattr(d, "actual_errors_dictionary"):
-                    continue_flag = int(raw_input("Would you like to label one more tuple?\nType 1 for yes.\nType 0 for no.\n"))
+                    continue_flag = int(input("Would you like to label one more tuple?\nType 1 for yes.\nType 0 for no.\n"))
                     if not continue_flag:
                         break
         if hasattr(d, "actual_errors_dictionary"):
@@ -540,15 +542,15 @@ class Raha:
             for s in sampling_range:
                 mean = numpy.mean(numpy.array(aggregate_results[s]), axis=0)
                 std = numpy.std(numpy.array(aggregate_results[s]), axis=0)
-                print "Raha on", d.name
-                print "Labeled Tuples Count = {}".format(s)
-                print "Precision = {:.2f} +- {:.2f}".format(mean[0], std[0])
-                print "Recall = {:.2f} +- {:.2f}".format(mean[1], std[1])
-                print "F1 = {:.2f} +- {:.2f}".format(mean[2], std[2])
-                print "--------------------"
+                print("Raha on {}".format(d.name))
+                print("Labeled Tuples Count = {}".format(s))
+                print("Precision = {:.2f} +- {:.2f}".format(mean[0], std[0]))
+                print("Recall = {:.2f} +- {:.2f}".format(mean[1], std[1]))
+                print("F1 = {:.2f} +- {:.2f}".format(mean[2], std[2]))
+                print("--------------------")
                 results_string += "({},{:.2f})+-(0,{:.2f})".format(s, mean[2], std[2])
             results_string += "}; \\addlegendentry{Ours}"
-            print results_string
+            print(results_string)
 
     def dataset_profiler(self, d):
         """
@@ -576,7 +578,7 @@ class Raha:
                 "values": {v: values_dictionary[v] / d.dataframe.shape[0] for v in values_dictionary},
             }
             pickle.dump(column_profile, open(os.path.join(dp_folder_path, attribute + ".dictionary"), "wb"))
-        print "The {} dataset is profiled.".format(d.name)
+        print("The {} dataset is profiled.").format(d.name)
 
     def evaluation_profiler(self, d):
         """
@@ -607,10 +609,10 @@ class Raha:
                     f1 = (2 * precision * recall) / (precision + recall)
                 columns_performance[column_index][strategy_name] = [precision, recall, f1]
                 # if f1 > 0.5:
-                #     print "Performance of {} on {} = {:.2f}, {:.2f}, {:.2f}".format(strategy_name, attribute, precision, recall, f1)
+                #     print ("Performance of {} on {} = {:.2f}, {:.2f}, {:.2f}".format(strategy_name, attribute, precision, recall, f1))
         for j, attribute in enumerate(d.dataframe.columns.tolist()):
             pickle.dump(columns_performance[j], open(os.path.join(ep_folder_path, attribute + ".dictionary"), "wb"))
-        print "{} error detection strategies are evaluated.".format(len(strategies_file_list))
+        print("{} error detection strategies are evaluated.".format(len(strategies_file_list)))
 
     def strategy_filterer(self, d):
         """
@@ -640,7 +642,7 @@ class Raha:
                             hfv.append(hcp["values"][k]) if k in hcp["values"] else hfv.append(0.0)
                         similarity = 1.0 - scipy.spatial.distance.cosine(nfv, hfv)
                         columns_similarity[(d.name, na, hd.name, ha)] = similarity
-        print "Column profile similarities are calculated."
+        print("Column profile similarities are calculated.")
         f1_measure = {}
         for hdn in self.DATASETS:
             if hdn != d.name:
@@ -653,7 +655,7 @@ class Raha:
                         f1_measure[(hd.name, ha)] = {}
                     for strategy_name in strategies_performance:
                         f1_measure[(hd.name, ha)][strategy_name] = strategies_performance[strategy_name][2]
-        print "Previous strategy performances are loaded."
+        print("Previous strategy performances are loaded.")
         strategies_score = {a: {} for a in d.dataframe.columns.tolist()}
         for nci, na in enumerate(d.dataframe.columns.tolist()):
             for hdn in self.DATASETS:
@@ -690,7 +692,7 @@ class Raha:
                                     strategies_score[na][json.dumps(sn)] = score
                             else:
                                 sys.stderr.write("I do not know this error detection tool!\n")
-        print "Strategy scores are calculated."
+        print("Strategy scores are calculated.")
         sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-profiling")
         strategies_output = {}
         strategies_runtime = {}
@@ -698,7 +700,7 @@ class Raha:
             strategy_profile = pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
             strategies_output[strategy_profile["name"]] = strategy_profile["output"]
             strategies_runtime[strategy_profile["name"]] = strategy_profile["runtime"]
-        print "Outputs of the strategies are loaded."
+        print("Outputs of the strategies are loaded.")
         for a in d.dataframe.columns.tolist():
             sorted_strategies = sorted(strategies_score[a].items(), key=operator.itemgetter(1), reverse=True)
             good_strategies = {}
@@ -732,7 +734,7 @@ class Raha:
                 }
                 pickle.dump(strategy_profile, open(
                     os.path.join(nsp_folder_path, snd[0] + "-" + str(len(os.listdir(nsp_folder_path))) + ".dictionary"),"wb"))
-        print "Promising error detection strategies are stored."
+        print("Promising error detection strategies are stored.")
 
     def baselines(self, d):
         """
@@ -825,11 +827,11 @@ class Raha:
             dboost_correction = {cell: "JUST A DUMMY VALUE" for cell in strategies_output[dboost_configuration]}
             er = d.evaluate_data_cleaning(dboost_correction)[:3]
             pickle.dump(dboost_correction.keys(), open(os.path.join(b_folder_path, "dboost_output.list"), "wb"))
-            print "dBoost on", d.name, dboost_correction
-            print "Precision = {:.2f}".format(er[0])
-            print "Recall = {:.2f}".format(er[1])
-            print "F1 = {:.2f}".format(er[2])
-            print "--------------------"
+            print("dBoost on {} {}".format(d.name, dboost_correction))
+            print("Precision = {:.2f}".format(er[0]))
+            print("Recall = {:.2f}".format(er[1]))
+            print("F1 = {:.2f}".format(er[2]))
+            print("--------------------")
         if "NADEEF" in self.BASELINES:
             td = {"name": "nadeef", "configuration": dataset_constraints[d.name]["functions"]}
             t = data_cleaning_tool.DataCleaningTool(td)
@@ -840,11 +842,11 @@ class Raha:
             nadeef_correction = {cell: "JUST A DUMMY VALUE" for cell in detected_cells_dictionary}
             er = d.evaluate_data_cleaning(nadeef_correction)[:3]
             pickle.dump(nadeef_correction.keys(), open(os.path.join(b_folder_path, "nadeef_output.list"), "wb"))
-            print "NADEEF on", d.name
-            print "Precision = {:.2f}".format(er[0])
-            print "Recall = {:.2f}".format(er[1])
-            print "F1 = {:.2f}".format(er[2])
-            print "--------------------"
+            print("NADEEF on {}".format(d.name))
+            print("Precision = {:.2f}".format(er[0]))
+            print("Recall = {:.2f}".format(er[1]))
+            print("F1 = {:.2f}".format(er[2]))
+            print("--------------------")
         if "KATARA" in self.BASELINES:
             katara_correction = {}
             for strategy_name in strategies_output:
@@ -853,11 +855,11 @@ class Raha:
                     katara_correction.update({cell: "JUST A DUMMY VALUE" for cell in strategies_output[strategy_name]})
             er = d.evaluate_data_cleaning(katara_correction)[:3]
             pickle.dump(katara_correction.keys(), open(os.path.join(b_folder_path, "katara_output.list"), "wb"))
-            print "KATARA on", d.name
-            print "Precision = {:.2f}".format(er[0])
-            print "Recall = {:.2f}".format(er[1])
-            print "F1 = {:.2f}".format(er[2])
-            print "--------------------"
+            print("KATARA on {}".format(d.name))
+            print("Precision = {:.2f}".format(er[0]))
+            print("Recall = {:.2f}".format(er[1]))
+            print("F1 = {:.2f}".format(er[2]))
+            print("--------------------")
         if "Min-k" in self.BASELINES:
             fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "feature-vectors")
             fv = {j: {(i, j): [] for i in range(d.dataframe.shape[0])} for j in range(d.dataframe.shape[1])}
@@ -877,7 +879,7 @@ class Raha:
             max_performance = []
             best_k = 0.0
             for k in thresholds_list:
-                print "Min-k = {:.2f}".format(k)
+                print("Min-k = {:.2f}".format(k))
                 correction_dictionary = {}
                 for j in range(d.dataframe.shape[1]):
                     for cell in fv[j]:
@@ -887,12 +889,12 @@ class Raha:
                 if not max_performance or er[2] > max_performance[2]:
                     max_performance = er
                     best_k = k
-            print "Min-k on", d.name
-            print "Best k", best_k
-            print "Precision = {:.2f}".format(max_performance[0])
-            print "Recall = {:.2f}".format(max_performance[1])
-            print "F1 = {:.2f}".format(max_performance[2])
-            print "--------------------"
+            print("Min-k on {}".format(d.name))
+            print("Best k {}".format(best_k))
+            print("Precision = {:.2f}".format(max_performance[0]))
+            print("Recall = {:.2f}".format(max_performance[1]))
+            print("F1 = {:.2f}".format(max_performance[2]))
+            print("--------------------")
         if "Maximum Entropy" in self.BASELINES:
             random_tuples_list = [i for i in random.sample(range(d.dataframe.shape[0]), d.dataframe.shape[0])]
             labeled_tuples = {i: 1 for i in random_tuples_list[:10]}
@@ -911,12 +913,12 @@ class Raha:
                 for cell in strategies_output[best_strategy]:
                     correction_dictionary[cell] = "JUST A DUMMY VALUE"
                 er = d.evaluate_data_cleaning(correction_dictionary)[:3]
-                print "Maximum Entropy on", d.name
-                print "Labeled Tuples Count = {}".format(len(labeled_tuples))
-                print "Precision = {:.2f}".format(er[0])
-                print "Recall = {:.2f}".format(er[1])
-                print "F1 = {:.2f}".format(er[2])
-                print "--------------------"
+                print("Maximum Entropy on {}".format(d.name))
+                print("Labeled Tuples Count = {}".format(len(labeled_tuples)))
+                print("Precision = {:.2f}".format(er[0]))
+                print("Recall = {:.2f}".format(er[1]))
+                print("F1 = {:.2f}".format(er[2]))
+                print("--------------------")
                 if len(labeled_tuples) > 100:
                     break
                 for cell in strategies_output[best_strategy]:
@@ -958,7 +960,7 @@ class Raha:
             sampling_range = range(10, 101, 10)
             mean_results = {s: [0.0, 0.0, 0.0] for s in sampling_range}
             for r in range(self.RUN_COUNT):
-                print "Run {}".format(r)
+                print("Run {}".format(r))
                 random_tuples_list = [i for i in random.sample(range(d.dataframe.shape[0]), d.dataframe.shape[0])]
                 for s in sampling_range:
                     labeled_tuples = {i: 1 for i in random_tuples_list[:s]}
@@ -990,15 +992,15 @@ class Raha:
                     mean_results[s] = (numpy.array(mean_results[s]) + numpy.array(er) / self.RUN_COUNT).tolist()
             results_string = "\\addplot coordinates{(0,0.0)"
             for s in sampling_range:
-                print "Metadata Driven on", d.name
-                print "Labeled Tuples Count = {}".format(s)
-                print "Precision = {:.2f}".format(mean_results[s][0])
-                print "Recall = {:.2f}".format(mean_results[s][1])
-                print "F1 = {:.2f}".format(mean_results[s][2])
-                print "--------------------"
+                print("Metadata Driven on {}".format(d.name))
+                print("Labeled Tuples Count = {}".format(s))
+                print("Precision = {:.2f}".format(mean_results[s][0]))
+                print("Recall = {:.2f}".format(mean_results[s][1]))
+                print("F1 = {:.2f}".format(mean_results[s][2]))
+                print("--------------------")
                 results_string += "({},{:.2f})".format(s, mean_results[s][2])
             results_string += "}; \\addlegendentry{Metadata Driven}"
-            print results_string
+            print(results_string)
         if "ActiveClean" in self.BASELINES:
             vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, stop_words="english")
             text = [" ".join(row) for row in d.dataframe.get_values().tolist()]
@@ -1008,7 +1010,7 @@ class Raha:
             # actual_dirty_tuples = {i: 1 for i in range(d.dataframe.shape[0]) if
             #                        int(sum([(i, j) in d.actual_errors_dictionary for j in range(d.dataframe.shape[1])]) > 0)}
             for r in range(self.RUN_COUNT):
-                print "Run {}".format(r)
+                print("Run {}".format(r))
                 labeled_tuples = {}
                 adaptive_detector_output = []
                 while len(labeled_tuples) < self.LABELING_BUDGET:
@@ -1058,15 +1060,15 @@ class Raha:
                     # mean_results[len(labeled_tuples)] = (numpy.array(mean_results[len(labeled_tuples)]) + numpy.array([p, r, f]) / self.RUN_COUNT).tolist()
             results_string = "\\addplot coordinates{(0,0.0)"
             for s in sampling_range:
-                print "ActiveClean on", d.name
-                print "Labeled Tuples Count = {}".format(s)
-                print "Precision = {:.2f}".format(mean_results[s][0])
-                print "Recall = {:.2f}".format(mean_results[s][1])
-                print "F1 = {:.2f}".format(mean_results[s][2])
-                print "--------------------"
+                print("ActiveClean on".format(d.name))
+                print("Labeled Tuples Count = {}".format(s))
+                print("Precision = {:.2f}".format(mean_results[s][0]))
+                print("Recall = {:.2f}".format(mean_results[s][1]))
+                print("F1 = {:.2f}".format(mean_results[s][2]))
+                print("--------------------")
                 results_string += "({},{:.2f})".format(s, mean_results[s][2])
             results_string += "}; \\addlegendentry{ActiveClean}"
-            print results_string
+            print(results_string)
 
 
 ########################################
@@ -1077,7 +1079,7 @@ if __name__ == "__main__":
     # --------------------
     application = Raha()
     # --------------------
-    print "===================== Dataset: {} =====================".format(myGlobals.d.name)
+    print("===================== Dataset: {} =====================".format(myGlobals.d.name))
     # --------------------
     application.strategy_profiler(myGlobals.d)
     # application.dataset_profiler(myGlobals.d)

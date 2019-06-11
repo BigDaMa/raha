@@ -9,7 +9,6 @@ decorator==4.4.0
 defusedxml==0.6.0
 entrypoints==0.3
 enum34==1.1.6
-functools32==3.2.3.post2
 futures==3.2.0
 ipaddress==1.0.22
 ipykernel==4.10.0

@@ -120,5 +120,5 @@ if __name__ == "__main__":
         "clean_path": "datasets/clean.csv"
     }
     d = Dataset(dataset_dictionary)
-    print d.get_data_quality()
+    print(d.get_data_quality())
 ########################################

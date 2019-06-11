@@ -199,5 +199,5 @@ if __name__ == "__main__":
         "configuration": [["city", "country"]]
     }
     t = DataCleaningTool(data_cleaning_tool_dictionary)
-    print t.run(d)
+    print(t.run(d))
 ########################################
