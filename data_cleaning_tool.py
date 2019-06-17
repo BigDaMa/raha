@@ -86,8 +86,8 @@ class DataCleaningTool:
                        "./tools/KATARA/jar_files/SimplifiedKATARA.jar:./tools/KATARA/jar_files/commons-lang3-3.7-javadoc.jar:"
                        "./tools/KATARA/jar_files/super-csv-2.4.0.jar", "simplied.katara.SimplifiedKATARAEntrance"]
             knowledge_base_path = os.path.abspath(self.configuration[0])
-            p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
-            p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
+            input_path = dataset_path + "\n" + knowledge_base_path + "\n"
+            subprocess.run(command, input=input_path, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
             tool_results_path = "katara_output-" + dataset_path
             if os.path.exists(tool_results_path):
                 ocdf = pandas.read_csv(tool_results_path, sep=",", header=None, encoding="utf-8", dtype=str,
