@@ -226,7 +226,7 @@ class Raha:
                         k_fv[cell].append(b)
 
             def noise_features_remover(fv_dic):
-                x_data = numpy.array(fv_dic.values(), dtype=numpy.float)
+                x_data = numpy.array(list(fv_dic.values()), dtype=numpy.float)
                 non_identical_columns = numpy.any(x_data != x_data[0, :], axis=0)
                 x_data = x_data[:, non_identical_columns]
                 for index, cell in enumerate(fv_dic):
@@ -324,7 +324,7 @@ class Raha:
                     tuple_score[i] = math.exp(score)
                 sum_tuple_score = sum(tuple_score.values())
                 p_tuple_score = [float(v) / sum_tuple_score for v in tuple_score.values()]
-                si = numpy.random.choice(tuple_score.keys(), 1, p=p_tuple_score)[0]
+                si = numpy.random.choice(list(tuple_score.keys()), 1, p=p_tuple_score)[0]
                 # si, score = max(tuple_score.iteritems(), key=operator.itemgetter(1))
                 labeled_tuples[si] = tuple_score[si]
                 if hasattr(d, "actual_errors_dictionary"):
