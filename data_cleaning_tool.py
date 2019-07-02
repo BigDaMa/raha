@@ -72,7 +72,7 @@ class DataCleaningTool:
             dataset_path = "{}-{}.csv".format(d.name, "".join(
                 random.choice(string.ascii_lowercase + string.digits) for _ in range(10)))
             d.write_csv_dataset(dataset_path, d.dataframe)
-            command = ["java", "-classpath", (
+            command = ["java", "-classpath", 
                        "$JAVA_HOME/jre/lib/charsets.jar:$JAVA_HOME/jre/lib/ext/cldrdata.jar:"
                        "$JAVA_HOME/jre/lib/ext/dnsns.jar:$JAVA_HOME/jre/lib/ext/icedtea-sound.jar:"
                        "$JAVA_HOME/jre/lib/ext/jaccess.jar:$JAVA_HOME/jre/lib/ext/localedata.jar:"
@@ -84,10 +84,12 @@ class DataCleaningTool:
                        "./tools/KATARA/jar_files/commons-lang3-3.7-tests.jar:./tools/KATARA/jar_files/commons-lang3-3.7-sources.jar:"
                        "./tools/KATARA/jar_files/commons-lang3-3.7.jar:./tools/KATARA/jar_files/idea_rt.jar:"
                        "./tools/KATARA/jar_files/SimplifiedKATARA.jar:./tools/KATARA/jar_files/commons-lang3-3.7-javadoc.jar:"
-                       "./tools/KATARA/jar_files/super-csv-2.4.0.jar", "simplied.katara.SimplifiedKATARAEntrance")]
+                       "./tools/KATARA/jar_files/super-csv-2.4.0.jar:", "simplied.katara.SimplifiedKATARAEntrance"]
             knowledge_base_path = os.path.abspath(self.configuration[0])
+            p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
             input_path = dataset_path + "\n" + knowledge_base_path + "\n"
-            subprocess.run(command, input=input_path, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
+            input_path = input_path.encode()
+            p.communicate(input_path)
             tool_results_path = "katara_output-" + dataset_path
             if os.path.exists(tool_results_path):
                 ocdf = pandas.read_csv(tool_results_path, sep=",", header=None, encoding="utf-8", dtype=str,
