@@ -132,7 +132,7 @@ def extract_features(args):
 
     return [o_fv, p_fv, r_fv, k_fv]
 
-def detect_errors(args):
+def build_cluster(args):
     j = args[0]
     o_fv, p_fv, r_fv, k_fv = args[1]
 
@@ -282,6 +282,7 @@ class Raha:
             else:
                 sys.stderr.write("The error detection strategies have already run on this dataset!\n")
                 self.strategy_profiles = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb")) for strategy_file in os.listdir(sp_folder_path)]
+                self.strategy_profiles = [i for i in self.strategy_profiles if len(i["output"]) != 0]
                 return
         else:
             manager = mp.Manager()
@@ -328,7 +329,7 @@ class Raha:
             if self.writeStrategies:
                 writer = mp.Process(target=write_strategies, args=([queue, sp_folder_path], ))
                 writer.start()
-            self.strategy_profiles = pool.map(run_strategy, tool_and_configurations)
+            self.strategy_profiles = [i for i in pool.map(run_strategy, tool_and_configurations) if len(i["output"]) != 0]
             queue.put(["stop"])
 
     def feature_generator(self, d):
@@ -387,7 +388,7 @@ class Raha:
         del self.features
         gc.collect()
         pool = mp.Pool()
-        results = pool.map(detect_errors, process_args)
+        results = pool.map(build_cluster, process_args)
 
         clusters = myGlobals.clusters_j_k_c_ce
         cells_clusters = myGlobals.cells_clusters_j_k_ce
