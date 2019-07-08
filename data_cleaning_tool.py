@@ -84,8 +84,7 @@ class DataCleaningTool:
                        "./tools/KATARA/jar_files/commons-lang3-3.7-tests.jar:./tools/KATARA/jar_files/commons-lang3-3.7-sources.jar:"
                        "./tools/KATARA/jar_files/commons-lang3-3.7.jar:./tools/KATARA/jar_files/idea_rt.jar:"
                        "./tools/KATARA/jar_files/SimplifiedKATARA.jar:./tools/KATARA/jar_files/commons-lang3-3.7-javadoc.jar:"
-                       "./tools/KATARA/jar_files/super-csv-2.4.0.jar:"
-                       "simplied.katara.SimplifiedKATARAEntrance"]
+                       "./tools/KATARA/jar_files/super-csv-2.4.0.jar:", "simplied.katara.SimplifiedKATARAEntrance"]
             knowledge_base_path = os.path.abspath(self.configuration[0])
             p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
             input_path = dataset_path + "\n" + knowledge_base_path + "\n"
