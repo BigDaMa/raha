@@ -19,6 +19,7 @@ import subprocess
 import random
 import pandas
 import psycopg2
+import katara
 ########################################
 
 
@@ -69,41 +70,9 @@ class DataCleaningTool:
                         if len(re.findall(pattern, value, re.UNICODE)) == 0:
                             outputted_cells[(i, j)] = ""
         elif self.name == "katara":
-            dataset_path = "{}-{}.csv".format(d.name, "".join(
-                random.choice(string.ascii_lowercase + string.digits) for _ in range(10)))
-            d.write_csv_dataset(dataset_path, d.dataframe)
-            command = ["java", "-classpath", 
-                       "$JAVA_HOME/jre/lib/charsets.jar:$JAVA_HOME/jre/lib/ext/cldrdata.jar:"
-                       "$JAVA_HOME/jre/lib/ext/dnsns.jar:$JAVA_HOME/jre/lib/ext/icedtea-sound.jar:"
-                       "$JAVA_HOME/jre/lib/ext/jaccess.jar:$JAVA_HOME/jre/lib/ext/localedata.jar:"
-                       "$JAVA_HOME/jre/lib/ext/nashorn.jar:$JAVA_HOME/jre/lib/ext/sunec.jar:"
-                       "$JAVA_HOME/jre/lib/ext/sunjce_provider.jar:$JAVA_HOME/jre/lib/ext/sunpkcs11.jar:"
-                       "$JAVA_HOME/jre/lib/ext/zipfs.jar:$JAVA_HOME/jre/lib/jce.jar:$JAVA_HOME/jre/lib/jsse.jar:"
-                       "$JAVA_HOME/jre/lib/management-agent.jar:$JAVA_HOME/jre/lib/resources.jar:$JAVA_HOME/jre/lib/rt.jar:"
-                       "./tools/KATARA/out/test/test:./tools/KATARA/jar_files/commons-lang3-3.7-test-sources.jar:"
-                       "./tools/KATARA/jar_files/commons-lang3-3.7-tests.jar:./tools/KATARA/jar_files/commons-lang3-3.7-sources.jar:"
-                       "./tools/KATARA/jar_files/commons-lang3-3.7.jar:./tools/KATARA/jar_files/idea_rt.jar:"
-                       "./tools/KATARA/jar_files/SimplifiedKATARA.jar:./tools/KATARA/jar_files/commons-lang3-3.7-javadoc.jar:"
-                       "./tools/KATARA/jar_files/super-csv-2.4.0.jar:", "simplied.katara.SimplifiedKATARAEntrance"]
             knowledge_base_path = os.path.abspath(self.configuration[0])
-            p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
-            input_path = dataset_path + "\n" + knowledge_base_path + "\n"
-            input_path = input_path.encode()
-            p.communicate(input_path)
-            tool_results_path = "katara_output-" + dataset_path
-            if os.path.exists(tool_results_path):
-                ocdf = pandas.read_csv(tool_results_path, sep=",", header=None, encoding="utf-8", dtype=str,
-                                       keep_default_na=False, low_memory=False).apply(lambda x: x.str.strip())
-                for i, j, v in ocdf.get_values().tolist():
-                    try:
-                        v = v.decode("utf-8")
-                    except UnicodeEncodeError:
-                        pass
-                    outputted_cells[(int(i) - 1, int(j))] = v
-                os.remove(tool_results_path)
-            if os.path.exists("crowdclient-runtime.log"):
-                os.remove("crowdclient-runtime.log")
-            os.remove(dataset_path)
+            outputted_cells = katara.run_katara(d, open(knowledge_base_path, 'r'))
+
         elif self.name == "nadeef":
             # ---------- Prepare Dataset and Clean Plan ----------
             dataset_path = "{}_{}.csv".format(d.name, "".join(
