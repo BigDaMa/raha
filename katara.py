@@ -36,7 +36,7 @@ def domain_spec_col_type(data, i, domain_specific_types, col_2_errors_repair):
             value = values[index]
             if value.lower() not in lowercase_types and value not in domain_specific_types:
                 fix = ""
-                col_2_errors_repair[str(index) + "," + str(i)] = fix
+                col_2_errors_repair[(index, i)] = fix
 
 
 def domain_spec_colpair(data, i, j, rel2sub2obj, col_2_errors_repair):
@@ -57,7 +57,7 @@ def domain_spec_colpair(data, i, j, rel2sub2obj, col_2_errors_repair):
                 if coli not in rel2sub2obj[rel] or colj != rel2sub2obj[rel][coli]:
                     if coli in rel2sub2obj[rel]:
                         repair_value = rel2sub2obj[rel][coli]
-                        col_2_errors_repair[str(index) + "," + str(j)] = repair_value
+                        col_2_errors_repair[(index, j)] = repair_value
 
 
 def run_katara(data, domin_specific_file):
