@@ -18,7 +18,7 @@ def load_file(domin_specific_file, domain_specific_types, rel2sub2obj):
             rel2sub2obj[rel] = {s: o}
 
 
-def domain_spec_col_type(data, col, domain_specific_types, col_2_errors, domain_specific_covered_cols):
+def domain_spec_col_type(data, i, col, domain_specific_types, col_2_errors, domain_specific_covered_cols, col_2_errors_repair):
     values = data.dataframe[col]
 
     for type in domain_specific_types:
@@ -38,8 +38,8 @@ def domain_spec_col_type(data, col, domain_specific_types, col_2_errors, domain_
                 value = row[col]
                 if value.lower() != type:
                     errorTuples.add(index)
-
-        #something with col2errorsrepair goes here
+                    fix = ""
+                    col_2_errors_repair[str(index) + "," + str(i)] = fix
 
             col_2_errors[col] = errorTuples
             domain_specific_covered_cols.add(col)
@@ -83,8 +83,8 @@ def run_katara(data, domin_specific_file):
 
     load_file(domin_specific_file, domain_specific_types, rel2sub2obj)
 
-    for column in data.dataframe.columns:
-        domain_spec_col_type(data, column, domain_specific_types, col_2_errors, domain_specific_covered_cols)
+    for index, column in enumerate(data.dataframe.columns):
+        domain_spec_col_type(data, index, column, domain_specific_types, col_2_errors, domain_specific_covered_cols)
 
     for i, col_1 in enumerate(data.dataframe.columns):
         for j, col_2 in enumerate(data.dataframe.columns):
@@ -92,3 +92,4 @@ def run_katara(data, domin_specific_file):
                 continue
             domain_spec_colpair(data, i, col_1, j, col_2, rel2sub2obj, col_2_errors, col_2_errors_repair)
 
+    return col_2_errors_repair

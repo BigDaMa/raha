@@ -65,13 +65,13 @@ def run_strategy(tool_and_configurations):
 
     start_time = time.time()
     strategy_name = json.dumps([tool_name, configuration])
-    temp_domain_specific_path = myGlobals.d.name + "-temp_ds-" + "".join(random.choice(string.ascii_lowercase + string.digits) for _ in range(10))
-    if tool_name == "katara":
-        if not os.path.exists(temp_domain_specific_path):
-            os.mkdir(temp_domain_specific_path)
-        shutil.copyfile(os.path.join("tools", "KATARA", "dominSpecific", configuration[0]),
-                        os.path.join(temp_domain_specific_path, "temp_file.rel.txt"))
-        configuration = [temp_domain_specific_path]
+    #temp_domain_specific_path = myGlobals.d.name + "-temp_ds-" + "".join(random.choice(string.ascii_lowercase + string.digits) for _ in range(10))
+    #if tool_name == "katara":
+    #    if not os.path.exists(temp_domain_specific_path):
+    #        os.mkdir(temp_domain_specific_path)
+    #    shutil.copyfile(os.path.join("tools", "KATARA", "dominSpecific", configuration[0]),
+    #                    os.path.join(temp_domain_specific_path, "temp_file.rel.txt"))
+    #    configuration = [temp_domain_specific_path]
     td = {"name": tool_name, "configuration": configuration}
     t = data_cleaning_tool.DataCleaningTool(td)
     try:
@@ -85,9 +85,9 @@ def run_strategy(tool_and_configurations):
         "runtime": time.time() - start_time
     }
     print("Running {} is done. Output size = {}".format(strategy_name, len(detected_cells_list)))
-    if tool_name == "katara":
-        if os.path.exists(temp_domain_specific_path):
-            shutil.rmtree(temp_domain_specific_path)
+    #if tool_name == "katara":
+    #    if os.path.exists(temp_domain_specific_path):
+    #        shutil.rmtree(temp_domain_specific_path)
 
     temp_config_string = "".join(c for c in strategy_name if c.isalnum())
 
