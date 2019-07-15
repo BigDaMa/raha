@@ -49,7 +49,7 @@ def domain_spec_colpair(data, i, j, rel2sub2obj, col_2_errors_repair):
             if coli in rel2sub2obj[rel] and colj == rel2sub2obj[rel][coli]:
                 count += 1
 
-        coverage = count/ data.dataframe.shape[0]
+        coverage = count/ len(data)
 
         if coverage >= 0.15:
             for index, row in enumerate(data):
