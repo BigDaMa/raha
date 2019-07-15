@@ -39,7 +39,6 @@ def domain_spec_col_type(data, i, domain_specific_types, col_2_errors_repair):
                 col_2_errors_repair[str(index) + "," + str(i)] = fix
 
 
-
 def domain_spec_colpair(data, i, j, rel2sub2obj, col_2_errors_repair):
     for rel in rel2sub2obj:
         count = 0
@@ -61,7 +60,6 @@ def domain_spec_colpair(data, i, j, rel2sub2obj, col_2_errors_repair):
                         col_2_errors_repair[str(index) + "," + str(j)] = repair_value
 
 
-
 def run_katara(data, domin_specific_file):
     domain_specific_types = []
     rel2sub2obj = {}
@@ -72,8 +70,8 @@ def run_katara(data, domin_specific_file):
     for i in range(len(data[0])):
         domain_spec_col_type(data, i, domain_specific_types, col_2_errors_repair)
 
-    for i in range(len(data)):
-        for j in range(len(data)):
+    for i in range(len(data[0])):
+        for j in range(len(data[0])):
             if i == j:
                 continue
             domain_spec_colpair(data, i, j, rel2sub2obj, col_2_errors_repair)
