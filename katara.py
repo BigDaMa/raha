@@ -18,7 +18,7 @@ def load_file(domin_specific_file, domain_specific_types, rel2sub2obj):
             rel2sub2obj[rel] = {s: o}
 
 
-def domain_spec_col_type(data, i, col, domain_specific_types, col_2_errors, domain_specific_covered_cols, col_2_errors_repair):
+def domain_spec_col_type(data, i, col, domain_specific_types, col_2_errors_repair):
     values = data.dataframe[col]
 
     for type in domain_specific_types:
@@ -33,20 +33,16 @@ def domain_spec_col_type(data, i, col, domain_specific_types, col_2_errors, doma
         coverage = count/len(values)
 
         if coverage > 0.2:
-            errorTuples = {}    #will be the indexes of the erronous tuples
             for index, row in data.dataframe.iterrows():
                 value = row[col]
                 if value.lower() != type:
-                    errorTuples.add(index)
                     fix = ""
                     col_2_errors_repair[str(index) + "," + str(i)] = fix
 
-            col_2_errors[col] = errorTuples
-            domain_specific_covered_cols.add(col)
             break
 
 
-def domain_spec_colpair(data, i, col_1, j, col_2, rel2sub2obj, col_2_errors, col_2_errors_repair):
+def domain_spec_colpair(data, i, col_1, j, col_2, rel2sub2obj, col_2_errors_repair):
     for rel in rel2sub2obj:
         count = 0
         for _, row in data.dataframe.iterrows():
@@ -58,38 +54,30 @@ def domain_spec_colpair(data, i, col_1, j, col_2, rel2sub2obj, col_2_errors, col
         coverage = count/ data.dataframe.shape[0]
 
         if coverage >= 0.15:
-            error_tuples = {}
-            error_tuples_repair = {}
-
             for index, row in data.dataframe.iterrows():
                 coli = row[col_1]
                 colj = row[col_2]
                 if coli not in rel2sub2obj[rel] or colj != rel2sub2obj[rel][coli]:
-                    error_tuples.add(index)     # the index of the row
-
                     if coli in rel2sub2obj[rel]:
                         repair_value = rel2sub2obj[rel][coli]
                         col_2_errors_repair[str(index) + "," + str(j)] = repair_value
 
-            col_2_errors[str(i) + "," + str(j)] = error_tuples
 
 
 def run_katara(data, domin_specific_file):
     domain_specific_types = []
     rel2sub2obj = {}
-    col_2_errors = {}
     col_2_errors_repair = {}
-    domain_specific_covered_cols = {}
 
     load_file(domin_specific_file, domain_specific_types, rel2sub2obj)
 
     for index, column in enumerate(data.dataframe.columns):
-        domain_spec_col_type(data, index, column, domain_specific_types, col_2_errors, domain_specific_covered_cols, col_2_errors_repair)
+        domain_spec_col_type(data, index, column, domain_specific_types, col_2_errors_repair)
 
     for i, col_1 in enumerate(data.dataframe.columns):
         for j, col_2 in enumerate(data.dataframe.columns):
             if i == j:
                 continue
-            domain_spec_colpair(data, i, col_1, j, col_2, rel2sub2obj, col_2_errors, col_2_errors_repair)
+            domain_spec_colpair(data, i, col_1, j, col_2, rel2sub2obj, col_2_errors_repair)
 
     return col_2_errors_repair
