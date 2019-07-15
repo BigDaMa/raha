@@ -69,8 +69,8 @@ def run_katara(data, domin_specific_file):
 
     load_file(domin_specific_file, domain_specific_types, rel2sub2obj)
 
-    for index, column in enumerate(data.dataframe.columns):
-        domain_spec_col_type(data, index, column, domain_specific_types, col_2_errors_repair)
+    for i in range(len(data[0])):
+        domain_spec_col_type(data, i, domain_specific_types, col_2_errors_repair)
 
     for i in range(len(data)):
         for j in range(len(data)):
