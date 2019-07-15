@@ -77,7 +77,10 @@ def run_strategy(tool_and_configurations):
     td = {"name": tool_name, "configuration": configuration}
     t = data_cleaning_tool.DataCleaningTool(td)
     try:
-        detected_cells_list = t.run(myGlobals.d).keys()
+        if tool_name == "katara":
+            detected_cells_list = t.run(myGlobals.katara_data).keys()
+        else:
+            detected_cells_list = t.run(myGlobals.d).keys()
     except:
         sys.stderr.write("I cannot run the error detection tool!\n")
         detected_cells_list = []

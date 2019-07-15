@@ -12,6 +12,8 @@ dataset_dictionary = {
 
 d = dataset.Dataset(dataset_dictionary)
 
+katara_data = d.dataframe.to_numpy().tolist()
+
 sp_folder_path = ""
 
 all_strategies = {}

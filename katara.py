@@ -18,45 +18,43 @@ def load_file(domin_specific_file, domain_specific_types, rel2sub2obj):
             rel2sub2obj[rel] = {s: o}
 
 
-def domain_spec_col_type(data, i, col, domain_specific_types, col_2_errors_repair):
-    values = data.dataframe[col]
+def domain_spec_col_type(data, i, domain_specific_types, col_2_errors_repair):
+    values = [row[i] for row in data]
 
-    for type in domain_specific_types:
-        type = type.lower()
+    lowercase_types = [domain_type.lower() for domain_type in domain_specific_types]
 
-        count = 0
+    count = 0
 
-        for value in values:
-            if value.lower() == type:
-                count += 1
+    for value in values:
+        if value.lower() in lowercase_types:
+            count += 1
 
-        coverage = count/len(values)
+    coverage = count/len(values)
 
-        if coverage > 0.2:
-            for index, row in data.dataframe.iterrows():
-                value = row[col]
-                if value.lower() != type:
-                    fix = ""
-                    col_2_errors_repair[str(index) + "," + str(i)] = fix
-
-            break
+    if coverage > 0.2:
+        for index, row in enumerate(data):
+            value = values[index]
+            if value.lower() not in lowercase_types and value not in domain_specific_types:
+                fix = ""
+                col_2_errors_repair[str(index) + "," + str(i)] = fix
 
 
-def domain_spec_colpair(data, i, col_1, j, col_2, rel2sub2obj, col_2_errors_repair):
+
+def domain_spec_colpair(data, i, j, rel2sub2obj, col_2_errors_repair):
     for rel in rel2sub2obj:
         count = 0
-        for _, row in data.dataframe.iterrows():
-            coli = row[col_1]
-            colj = row[col_2]
+        for row in data:
+            coli = row[i]
+            colj = row[j]
             if coli in rel2sub2obj[rel] and colj == rel2sub2obj[rel][coli]:
                 count += 1
 
         coverage = count/ data.dataframe.shape[0]
 
         if coverage >= 0.15:
-            for index, row in data.dataframe.iterrows():
-                coli = row[col_1]
-                colj = row[col_2]
+            for index, row in enumerate(data):
+                coli = row[i]
+                colj = row[j]
                 if coli not in rel2sub2obj[rel] or colj != rel2sub2obj[rel][coli]:
                     if coli in rel2sub2obj[rel]:
                         repair_value = rel2sub2obj[rel][coli]
@@ -74,10 +72,10 @@ def run_katara(data, domin_specific_file):
     for index, column in enumerate(data.dataframe.columns):
         domain_spec_col_type(data, index, column, domain_specific_types, col_2_errors_repair)
 
-    for i, col_1 in enumerate(data.dataframe.columns):
-        for j, col_2 in enumerate(data.dataframe.columns):
+    for i in range(len(data)):
+        for j in range(len(data)):
             if i == j:
                 continue
-            domain_spec_colpair(data, i, col_1, j, col_2, rel2sub2obj, col_2_errors_repair)
+            domain_spec_colpair(data, i, j, rel2sub2obj, col_2_errors_repair)
 
     return col_2_errors_repair
