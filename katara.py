@@ -10,7 +10,7 @@ def load_file(domin_specific_file, domain_specific_types, rel2sub2obj):
         rel = splits[1]
         o = splits[2]
 
-        domain_specific_types.append(s)
+        domain_specific_types.add(s)
 
         if rel in rel2sub2obj:
             rel2sub2obj[rel][s] = o
@@ -21,47 +21,57 @@ def load_file(domin_specific_file, domain_specific_types, rel2sub2obj):
 def domain_spec_col_type(data, i, domain_specific_types, col_2_errors_repair):
     values = [row[i] for row in data]
 
-    lowercase_types = [domain_type.lower() for domain_type in domain_specific_types]
+    lowercase_types = {domain_type.lower() for domain_type in domain_specific_types}
 
     count = 0
-
-    for value in values:
+    tempdict = {}
+    for index in range(len(data)):
+        value = values[index]
         if value.lower() in lowercase_types:
             count += 1
+        else:
+            fix = ""
+            tempdict[(index, i)] = fix
 
     coverage = count/len(values)
 
     if coverage > 0.2:
-        for index, row in enumerate(data):
-            value = values[index]
-            if value.lower() not in lowercase_types and value not in domain_specific_types:
-                fix = ""
-                col_2_errors_repair[(index, i)] = fix
+        col_2_errors_repair.update(tempdict)
 
 
 def domain_spec_colpair(data, i, j, rel2sub2obj, col_2_errors_repair):
     for rel in rel2sub2obj:
-        count = 0
-        for row in data:
+        count = 0               # counts i to j relation
+        back_count = 0          # counts j to i relation
+        tempdict = {}
+        backdict = {}
+        for index, row in enumerate(data):
             coli = row[i]
             colj = row[j]
-            if coli in rel2sub2obj[rel] and colj == rel2sub2obj[rel][coli]:
-                count += 1
+            if coli in rel2sub2obj[rel]:
+                if colj == rel2sub2obj[rel][coli]:
+                    count += 1
+                else:
+                    repair_value = rel2sub2obj[rel][coli]
+                    tempdict[(index, j)] = repair_value
+            if colj in rel2sub2obj[rel]:
+                if coli == rel2sub2obj[rel][colj]:
+                    back_count += 1
+                else:
+                    repair_value = rel2sub2obj[rel][colj]
+                    backdict[(index, i)] = repair_value
 
         coverage = count/ len(data)
+        backcoverage = back_count / len(data)
 
         if coverage >= 0.15:
-            for index, row in enumerate(data):
-                coli = row[i]
-                colj = row[j]
-                if coli not in rel2sub2obj[rel] or colj != rel2sub2obj[rel][coli]:
-                    if coli in rel2sub2obj[rel]:
-                        repair_value = rel2sub2obj[rel][coli]
-                        col_2_errors_repair[(index, j)] = repair_value
+            col_2_errors_repair.update(tempdict)         # adds the errors found to the final output
+        if backcoverage >= 0.15:
+            col_2_errors_repair.update(backdict)
 
 
 def run_katara(data, domin_specific_file):
-    domain_specific_types = []
+    domain_specific_types = set()
     rel2sub2obj = {}
     col_2_errors_repair = {}
 
@@ -71,9 +81,7 @@ def run_katara(data, domin_specific_file):
         domain_spec_col_type(data, i, domain_specific_types, col_2_errors_repair)
 
     for i in range(len(data[0])):
-        for j in range(len(data[0])):
-            if i == j:
-                continue
+        for j in range(len(data[0])-1, i, -1):
             domain_spec_colpair(data, i, j, rel2sub2obj, col_2_errors_repair)
 
     return col_2_errors_repair
