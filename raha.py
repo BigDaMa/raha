@@ -1095,7 +1095,7 @@ if __name__ == "__main__":
         "clean_path": os.path.join("datasets", DATASET_NAME, "clean.csv")
     }
 
-    application = Raha()
+    application = Raha(dataset_dictionary)
     # --------------------
     print("===================== Dataset: {} =====================".format(rahaGlobals.d.name))
     # --------------------
