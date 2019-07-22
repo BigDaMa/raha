@@ -270,11 +270,9 @@ class Raha:
         DATASETS_FOLDER = "datasets"
         DATASET_NAME = "flights"
 
-
-
         rahaGlobals.d = dataset.Dataset(dataset_dictionary)
 
-        katara_data = rahaGlobals.d.dataframe.to_numpy().tolist()
+        rahaGlobals.katara_data = rahaGlobals.d.dataframe.to_numpy().tolist()
 
     def strategy_profiler(self, d):
         """
