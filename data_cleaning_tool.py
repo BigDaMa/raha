@@ -71,7 +71,7 @@ class DataCleaningTool:
                             outputted_cells[(i, j)] = ""
         elif self.name == "katara":
             knowledge_base_path = os.path.abspath(self.configuration[0])
-            outputted_cells = katara.run_katara(d, open(knowledge_base_path, 'r'))
+            outputted_cells = katara.run_katara(d, knowledge_base_path)
         elif self.name == "nadeef":
             # ---------- Prepare Dataset and Clean Plan ----------
             dataset_path = "{}_{}.csv".format(d.name, "".join(

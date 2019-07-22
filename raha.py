@@ -368,13 +368,13 @@ class Raha:
         """
         This method cluster data cells and asks user to label them. Next, it trains a classifier per data column.
         """
-        # ed_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "error-detection")
+        ed_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "error-detection")
         # fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "feature-vectors")
-        # if self.STRATEGY_FILTERING:
-        #     ed_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "error-detection")
+        if self.STRATEGY_FILTERING:
+            ed_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "error-detection")
         #     fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "feature-vectors")
-        # if not os.path.exists(ed_folder_path):
-        #     os.mkdir(ed_folder_path)
+        if not os.path.exists(ed_folder_path):
+            os.mkdir(ed_folder_path)
 
         sampling_range = range(1, self.LABELING_BUDGET + 1)
         clustering_range = range(2, self.LABELING_BUDGET + 2)
@@ -532,8 +532,8 @@ class Raha:
                     # r = 0.0 if len(actual_dirty_tuples) == 0 else tp / len(actual_dirty_tuples)
                     # f = 0.0 if (p + r) == 0.0 else (2 * p * r) / (p + r)
                     # aggregate_results[s].append([p, r, f])
-                # else:
-                # pickle.dump(correction_dictionary, open(os.path.join(ed_folder_path, "results.dictionary"), "wb"))
+                else:
+                    pickle.dump(correction_dictionary, open(os.path.join(ed_folder_path, "results.dictionary"), "wb"))
                 # IPython.display.display(d.dataframe.style.apply(
                 #    lambda x: ["background-color: red" if (i, d.dataframe.columns.get_loc(x.name)) in correction_dictionary else ""
                 #              for i, cv in enumerate(x)]))
