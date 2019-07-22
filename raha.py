@@ -42,7 +42,7 @@ import sklearn.feature_extraction
 import dataset
 import data_cleaning_tool
 import multiprocessing as mp
-import myGlobals
+import rahaGlobals
 import gc
 ########################################
 def write_strategies(args):
@@ -78,9 +78,9 @@ def run_strategy(tool_and_configurations):
     t = data_cleaning_tool.DataCleaningTool(td)
     try:
         if tool_name == "katara":
-            detected_cells_list = t.run(myGlobals.katara_data).keys()
+            detected_cells_list = t.run(rahaGlobals.katara_data).keys()
         else:
-            detected_cells_list = t.run(myGlobals.d).keys()
+            detected_cells_list = t.run(rahaGlobals.d).keys()
     except:
         sys.stderr.write("I cannot run the error detection tool!\n")
         detected_cells_list = []
@@ -103,14 +103,14 @@ def extract_features(args):
     attribute = args[1]
 
     print("Extracting features for column {}...".format(j))
-    o_fv = {(i, j): [] for i in range(myGlobals.d.dataframe.shape[0])}
-    p_fv = {(i, j): [] for i in range(myGlobals.d.dataframe.shape[0])}
-    r_fv = {(i, j): [] for i in range(myGlobals.d.dataframe.shape[0])}
-    k_fv = {(i, j): [] for i in range(myGlobals.d.dataframe.shape[0])}
-    for s in myGlobals.all_strategies:
-        for i in range(myGlobals.d.dataframe.shape[0]):
+    o_fv = {(i, j): [] for i in range(rahaGlobals.d.dataframe.shape[0])}
+    p_fv = {(i, j): [] for i in range(rahaGlobals.d.dataframe.shape[0])}
+    r_fv = {(i, j): [] for i in range(rahaGlobals.d.dataframe.shape[0])}
+    k_fv = {(i, j): [] for i in range(rahaGlobals.d.dataframe.shape[0])}
+    for s in rahaGlobals.all_strategies:
+        for i in range(rahaGlobals.d.dataframe.shape[0]):
             cell = (i, j)
-            b = 1 if s in myGlobals.cells_strategies[cell] else 0
+            b = 1 if s in rahaGlobals.cells_strategies[cell] else 0
             if "dboost" in s:
                 o_fv[cell].append(b)
             if "regex" in s:
@@ -139,17 +139,17 @@ def build_cluster(args):
     j = args[0]
     o_fv, p_fv, r_fv, k_fv = args[1]
 
-    fv = myGlobals.fv[j]
+    fv = rahaGlobals.fv[j]
 
     print("Building clustering model for column {}...".format(j))
-    for i in range(myGlobals.d.dataframe.shape[0]):
-        if "dboost" in myGlobals.ERROR_DETECTION_TOOLS:
+    for i in range(rahaGlobals.d.dataframe.shape[0]):
+        if "dboost" in rahaGlobals.ERROR_DETECTION_TOOLS:
             fv[(i, j)] += o_fv[(i, j)]
-        if "regex" in myGlobals.ERROR_DETECTION_TOOLS:
+        if "regex" in rahaGlobals.ERROR_DETECTION_TOOLS:
             fv[(i, j)] += p_fv[(i, j)]
-        if "fd_checker" in myGlobals.ERROR_DETECTION_TOOLS:
+        if "fd_checker" in rahaGlobals.ERROR_DETECTION_TOOLS:
             fv[(i, j)] += r_fv[(i, j)]
-        if "katara" in myGlobals.ERROR_DETECTION_TOOLS:
+        if "katara" in rahaGlobals.ERROR_DETECTION_TOOLS:
             fv[(i, j)] += k_fv[(i, j)]
     # # Baseline: TF-IDF features same as ActiveClean
     # vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, stop_words="english")
@@ -166,8 +166,8 @@ def build_cluster(args):
     except:
         return [fv]
 
-    tempdict_clusters = myGlobals.clusters_j_k_c_ce[j]
-    tempdict_cells = myGlobals.cells_clusters_j_k_ce[j]
+    tempdict_clusters = rahaGlobals.clusters_j_k_c_ce[j]
+    tempdict_cells = rahaGlobals.cells_clusters_j_k_ce[j]
     for k in tempdict_clusters:
         model_labels = [l - 1 for l in scipy.cluster.hierarchy.fcluster(clustering_model, k, criterion="maxclust")]
         for index, c in enumerate(model_labels):
@@ -191,9 +191,6 @@ class Raha:
     """
 
     def __init__(self):
-        """
-        The constructor does nothing.
-        """
         self.RESULTS_FOLDER = "results"
         self.DATASETS = {
             # "hospital": {
@@ -269,6 +266,19 @@ class Raha:
         self.features = []
         self.writeStrategies = True  # Change this to not write strategy profiles to disk
 
+        DATASETS_FOLDER = "datasets"
+        DATASET_NAME = "flights"
+
+        dataset_dictionary = {
+            "name": DATASET_NAME,
+            "path": os.path.join(DATASETS_FOLDER, DATASET_NAME, "dirty.csv"),
+            "clean_path": os.path.join(DATASETS_FOLDER, DATASET_NAME, "clean.csv")
+        }
+
+        rahaGlobals.d = dataset.Dataset(dataset_dictionary)
+
+        katara_data = rahaGlobals.d.dataframe.to_numpy().tolist()
+
     def strategy_profiler(self, d):
         """
         This method runs all the error detections strategies with all the possible configurations on the dataset.
@@ -278,7 +288,7 @@ class Raha:
         if not os.path.exists(os.path.join(self.RESULTS_FOLDER, d.name)):
             os.mkdir(os.path.join(self.RESULTS_FOLDER, d.name))
         sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-profiling")
-        myGlobals.sp_folder_path = sp_folder_path
+        rahaGlobals.sp_folder_path = sp_folder_path
         if os.path.exists(sp_folder_path):
             if len(os.listdir(sp_folder_path)) == 0:
                 os.rmdir(sp_folder_path)
@@ -349,12 +359,12 @@ class Raha:
         #     sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "strategy-profiling")
         # if not os.path.exists(fv_folder_path):
         #     os.mkdir(fv_folder_path)
-        myGlobals.cells_strategies = {cell: {} for cell in
-                                      itertools.product(range(d.dataframe.shape[0]), range(d.dataframe.shape[1]))}
+        rahaGlobals.cells_strategies = {cell: {} for cell in
+                                        itertools.product(range(d.dataframe.shape[0]), range(d.dataframe.shape[1]))}
         for strategy_profile in self.strategy_profiles:
-            myGlobals.all_strategies[strategy_profile["name"]] = 1
+            rahaGlobals.all_strategies[strategy_profile["name"]] = 1
             for cell in strategy_profile["output"]:
-                myGlobals.cells_strategies[cell][strategy_profile["name"]] = 1
+                rahaGlobals.cells_strategies[cell][strategy_profile["name"]] = 1
 
         mp_args = [[j, attribute] for j, attribute in enumerate(d.dataframe.columns.tolist())]
 
@@ -379,11 +389,11 @@ class Raha:
         sampling_range = range(1, self.LABELING_BUDGET + 1)
         clustering_range = range(2, self.LABELING_BUDGET + 2)
 
-        myGlobals.fv = {j: {(i, j): [] for i in range(d.dataframe.shape[0])} for j in range(d.dataframe.shape[1])}
-        myGlobals.clusters_j_k_c_ce = {j: {k: {} for k in clustering_range} for j in range(d.dataframe.shape[1])}
-        myGlobals.cells_clusters_j_k_ce = {j: {k: {} for k in clustering_range} for j in range(d.dataframe.shape[1])}
+        rahaGlobals.fv = {j: {(i, j): [] for i in range(d.dataframe.shape[0])} for j in range(d.dataframe.shape[1])}
+        rahaGlobals.clusters_j_k_c_ce = {j: {k: {} for k in clustering_range} for j in range(d.dataframe.shape[1])}
+        rahaGlobals.cells_clusters_j_k_ce = {j: {k: {} for k in clustering_range} for j in range(d.dataframe.shape[1])}
 
-        myGlobals.ERROR_DETECTION_TOOLS = self.ERROR_DETECTION_TOOLS
+        rahaGlobals.ERROR_DETECTION_TOOLS = self.ERROR_DETECTION_TOOLS
 
         # clusters_center_k_jc = {k: {j: {} for j in range(d.columns_count)} for k in clustering_range}
 
@@ -393,9 +403,9 @@ class Raha:
         pool = mp.Pool()
         results = pool.map(build_cluster, process_args)
 
-        clusters = myGlobals.clusters_j_k_c_ce
-        cells_clusters = myGlobals.cells_clusters_j_k_ce
-        fv = myGlobals.fv
+        clusters = rahaGlobals.clusters_j_k_c_ce
+        cells_clusters = rahaGlobals.cells_clusters_j_k_ce
+        fv = rahaGlobals.fv
         for j, result in enumerate(results):
             fv[j] = result[0]
             if len(result) == 3:
@@ -1083,14 +1093,14 @@ if __name__ == "__main__":
     # --------------------
     application = Raha()
     # --------------------
-    print("===================== Dataset: {} =====================".format(myGlobals.d.name))
+    print("===================== Dataset: {} =====================".format(rahaGlobals.d.name))
     # --------------------
-    application.strategy_profiler(myGlobals.d)
+    application.strategy_profiler(rahaGlobals.d)
     # application.dataset_profiler(myGlobals.d)
     # application.evaluation_profiler(myGlobals.d)
     # --------------------
-    application.feature_generator(myGlobals.d)
-    application.error_detector(myGlobals.d)
+    application.feature_generator(rahaGlobals.d)
+    application.error_detector(rahaGlobals.d)
     # --------------------
     # application.baselines(myGlobals.d)
     # --------------------
