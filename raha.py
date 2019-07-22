@@ -190,8 +190,9 @@ class Raha:
     The main class.
     """
 
-    def __init__(self):
+    def __init__(self, dataset_dictionary):
         self.RESULTS_FOLDER = "results"
+        self.DATASETS_FOLDER = "datasets"
         self.DATASETS = {
             # "hospital": {
             #     "name": "hospital",
@@ -269,11 +270,7 @@ class Raha:
         DATASETS_FOLDER = "datasets"
         DATASET_NAME = "flights"
 
-        dataset_dictionary = {
-            "name": DATASET_NAME,
-            "path": os.path.join(DATASETS_FOLDER, DATASET_NAME, "dirty.csv"),
-            "clean_path": os.path.join(DATASETS_FOLDER, DATASET_NAME, "clean.csv")
-        }
+
 
         rahaGlobals.d = dataset.Dataset(dataset_dictionary)
 
@@ -1091,6 +1088,13 @@ class Raha:
 ########################################
 if __name__ == "__main__":
     # --------------------
+    DATASET_NAME = "flights"
+    dataset_dictionary = {
+        "name": DATASET_NAME,
+        "path": os.path.join("datasets", DATASET_NAME, "dirty.csv"),
+        "clean_path": os.path.join("datasets", DATASET_NAME, "clean.csv")
+    }
+
     application = Raha()
     # --------------------
     print("===================== Dataset: {} =====================".format(rahaGlobals.d.name))
