@@ -274,10 +274,11 @@ class Raha:
 
         rahaGlobals.katara_data = rahaGlobals.d.dataframe.to_numpy().tolist()
 
-    def strategy_profiler(self, d):
+    def strategy_profiler(self):
         """
         This method runs all the error detections strategies with all the possible configurations on the dataset.
         """
+        d = rahaGlobals.d
         if not os.path.exists(os.path.join(self.RESULTS_FOLDER)):
             os.mkdir(os.path.join(self.RESULTS_FOLDER))
         if not os.path.exists(os.path.join(self.RESULTS_FOLDER, d.name)):
@@ -340,7 +341,7 @@ class Raha:
             self.strategy_profiles = [i for i in pool.map(run_strategy, tool_and_configurations) if len(i["output"]) != 0]
             queue.put(["stop"])
 
-    def feature_generator(self, d):
+    def feature_generator(self):
         """
         This method generates a feature vector for each data cell.
         """
@@ -354,6 +355,7 @@ class Raha:
         #     sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "strategy-profiling")
         # if not os.path.exists(fv_folder_path):
         #     os.mkdir(fv_folder_path)
+        d = rahaGlobals.d
         rahaGlobals.cells_strategies = {cell: {} for cell in
                                         itertools.product(range(d.dataframe.shape[0]), range(d.dataframe.shape[1]))}
         for strategy_profile in self.strategy_profiles:
@@ -369,10 +371,11 @@ class Raha:
         pool = mp.Pool()
         self.features = pool.map(extract_features, mp_args)
 
-    def error_detector(self, d):
+    def error_detector(self):
         """
         This method cluster data cells and asks user to label them. Next, it trains a classifier per data column.
         """
+        d = rahaGlobals.d
         ed_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "error-detection")
         # fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "feature-vectors")
         if self.STRATEGY_FILTERING:
@@ -380,7 +383,6 @@ class Raha:
         #     fv_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "feature-vectors")
         if not os.path.exists(ed_folder_path):
             os.mkdir(ed_folder_path)
-
         sampling_range = range(1, self.LABELING_BUDGET + 1)
         clustering_range = range(2, self.LABELING_BUDGET + 2)
 
@@ -561,10 +563,11 @@ class Raha:
             results_string += "}; \\addlegendentry{Ours}"
             print(results_string)
 
-    def dataset_profiler(self, d):
+    def dataset_profiler(self):
         """
         This method profiles the columns of dataset.
         """
+        d = rahaGlobals.d
         if not os.path.exists(os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering")):
             os.mkdir(os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering"))
         dp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "dataset-profiling")
@@ -589,10 +592,11 @@ class Raha:
             pickle.dump(column_profile, open(os.path.join(dp_folder_path, attribute + ".dictionary"), "wb"))
         print("The {} dataset is profiled.").format(d.name)
 
-    def evaluation_profiler(self, d):
+    def evaluation_profiler(self):
         """
         This method computes the performance of the error detection strategies on historical data.
         """
+        d = rahaGlobals.d
         ep_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "evaluation-profiling")
         if not os.path.exists(ep_folder_path):
             os.mkdir(ep_folder_path)
@@ -623,10 +627,11 @@ class Raha:
             pickle.dump(columns_performance[j], open(os.path.join(ep_folder_path, attribute + ".dictionary"), "wb"))
         print("{} error detection strategies are evaluated.".format(len(strategies_file_list)))
 
-    def strategy_filterer(self, d):
+    def strategy_filterer(self):
         """
         This method uses historical data to rank error detection strategies for the dataset and select the top-ranked.
         """
+        d = rahaGlobals.d
         nsp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-filtering", "strategy-profiling")
         if not os.path.exists(nsp_folder_path):
             os.mkdir(nsp_folder_path)
@@ -745,10 +750,11 @@ class Raha:
                     os.path.join(nsp_folder_path, snd[0] + "-" + str(len(os.listdir(nsp_folder_path))) + ".dictionary"),"wb"))
         print("Promising error detection strategies are stored.")
 
-    def baselines(self, d):
+    def baselines(self):
         """
         This methods implements the baselines.
         """
+        d = rahaGlobals.d
         b_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "baselines")
         if not os.path.exists(b_folder_path):
             os.mkdir(b_folder_path)
@@ -1097,13 +1103,13 @@ if __name__ == "__main__":
     # --------------------
     print("===================== Dataset: {} =====================".format(rahaGlobals.d.name))
     # --------------------
-    application.strategy_profiler(rahaGlobals.d)
-    # application.dataset_profiler(myGlobals.d)
-    # application.evaluation_profiler(myGlobals.d)
+    application.strategy_profiler()
+    # application.dataset_profiler()
+    # application.evaluation_profiler()
     # --------------------
-    application.feature_generator(rahaGlobals.d)
-    application.error_detector(rahaGlobals.d)
+    application.feature_generator()
+    application.error_detector()
     # --------------------
-    # application.baselines(myGlobals.d)
+    # application.baselines()
     # --------------------
 ########################################
