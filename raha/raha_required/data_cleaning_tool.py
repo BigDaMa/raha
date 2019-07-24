@@ -46,7 +46,7 @@ class DataCleaningTool:
                 random.choice(string.ascii_lowercase + string.digits) for _ in range(10)))
             d.write_csv_dataset(dataset_path, d.dataframe)
             self.configuration[0] = "--" + self.configuration[0]
-            command = ["./tools/dBoost/dboost/dboost-stdin.py", "-F",
+            command = [os.path.join(os.path.dirname(__file__), "tools", "dBoost", "dboost", "dboost-stdin.py"), "-F",
                        ",", "--statistical", "0.5"] + self.configuration + [dataset_path]
             p = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
             process_output, process_errors = p.communicate()
@@ -93,7 +93,7 @@ class DataCleaningTool:
             json.dump(nadeef_clean_plan, nadeef_clean_plan_file)
             nadeef_clean_plan_file.close()
             # ---------- Connect to the Database ----------
-            nadeef_configuration_file = open(os.path.join("tools", "NADEEF", "nadeef.conf"), "r")
+            nadeef_configuration_file = open(os.path.join(os.path.dirname(__file__), "tools", "NADEEF", "nadeef.conf"), "r")
             nadeef_configuration = nadeef_configuration_file.read()
             postgres_username = re.findall("database.username = ([\w\d]+)", nadeef_configuration, flags=re.IGNORECASE)[0]
             postgres_password = re.findall("database.password = ([\w\d]+)", nadeef_configuration, flags=re.IGNORECASE)[0]
