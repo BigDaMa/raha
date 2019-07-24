@@ -19,7 +19,7 @@ import subprocess
 import random
 import pandas
 import psycopg2
-from .tools import katara
+from .tools.katara import katara
 ########################################
 
 
