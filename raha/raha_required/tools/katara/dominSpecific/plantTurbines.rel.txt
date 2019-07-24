@@ -1,0 +1,880 @@
+Dartmouth Dam	plantTurbines	1
+Aswan Dam	plantTurbines	12
+Benmore Dam	plantTurbines	6
+Detroit Dam	plantTurbines	2
+W. A. C. Bennett Dam	plantTurbines	5
+Max Starcke Dam	plantTurbines	2
+Tom Miller Dam	plantTurbines	2
+Wirtz Dam	plantTurbines	2
+Inks Dam	plantTurbines	1
+Buchanan Dam	plantTurbines	3
+Glen Canyon Dam	plantTurbines	8
+Rocky Reach Dam	plantTurbines	11
+Wells Dam	plantTurbines	10
+Rock Island Dam	plantTurbines	19
+Wanapum Dam	plantTurbines	10
+Priest Rapids Dam	plantTurbines	10
+Hume Dam	plantTurbines	2
+Bonneville Dam	plantTurbines	20
+Dinorwig Power Station	plantTurbines	6
+Shannon hydroelectric scheme	plantTurbines	4
+Clyde Dam	plantTurbines	4
+Akosombo Dam	plantTurbines	6
+Garrison Dam	plantTurbines	3
+La Grande-3 generating station	plantTurbines	12
+Pak Mun Dam	plantTurbines	4
+Manapouri Power Station	plantTurbines	7
+Warragamba Dam	plantTurbines	1
+Glenbawn Dam	plantTurbines	1
+Gardiner Dam	plantTurbines	3
+Keepit Dam	plantTurbines	1
+Chief Joseph Dam	plantTurbines	27
+McNary Dam	plantTurbines	14
+John Day Dam	plantTurbines	16
+Mica Dam	plantTurbines	4
+Keenleyside Dam	plantTurbines	2
+Norris Dam	plantTurbines	2
+Roxburgh Dam	plantTurbines	8
+Bakun Dam	plantTurbines	8
+Vidraru Dam	plantTurbines	4
+Davis Dam	plantTurbines	5
+Eufaula Lake	plantTurbines	3
+Yacyretá Dam	plantTurbines	20
+Fort Peck Dam	plantTurbines	5
+Oahe Dam	plantTurbines	7
+Kerr Dam	plantTurbines	3
+Mactaquac Dam	plantTurbines	6
+Parker Dam	plantTurbines	4
+Dez Dam	plantTurbines	8
+Enguri Dam	plantTurbines	5
+Sélingué Dam	plantTurbines	4
+Manantali Dam	plantTurbines	5
+Watts Bar Dam	plantTurbines	5
+Fort Loudoun Dam	plantTurbines	1
+Melton Hill Dam	plantTurbines	2
+Bay d'Espoir Hydroelectric Power Station	plantTurbines	7
+New Melones Dam	plantTurbines	2
+New Bullards Bar Dam	plantTurbines	2
+Elephant Butte Dam	plantTurbines	1
+Atatürk Dam	plantTurbines	8
+Mulshi Dam	plantTurbines	6
+Bhakra Dam	plantTurbines	5
+Rogun Dam	plantTurbines	6
+Don Pedro Dam	plantTurbines	4
+Karun-3 Dam	plantTurbines	8
+Alqueva Dam	plantTurbines	4
+Friant Dam	plantTurbines	1
+Merowe Dam	plantTurbines	10
+Wolf Creek Dam	plantTurbines	6
+Pine Flat Dam	plantTurbines	3
+San Luis Dam	plantTurbines	8
+Itezhi-Tezhi Dam	plantTurbines	2
+Little Goose Dam	plantTurbines	6
+Lower Granite Dam	plantTurbines	6
+Tabqa Dam	plantTurbines	8
+Trinity Dam	plantTurbines	2
+Capanda Dam	plantTurbines	4
+Libby Dam	plantTurbines	5
+Balimela Reservoir	plantTurbines	6
+Jalaput Dam	plantTurbines	3
+Batman Dam	plantTurbines	3
+Birecik Dam	plantTurbines	6
+Karakaya Dam	plantTurbines	6
+Dicle Dam	plantTurbines	3
+Kralkızı Dam	plantTurbines	3
+Ilısu Dam	plantTurbines	6
+Link River Dam	plantTurbines	2
+Minidoka Dam	plantTurbines	2
+Idukki Dam	plantTurbines	6
+Pathfinder Dam	plantTurbines	2
+Saluda Dam	plantTurbines	5
+American Falls Dam	plantTurbines	3
+Palisades Dam	plantTurbines	4
+Gariep Dam	plantTurbines	4
+Copeton Dam	plantTurbines	1
+Burrinjuck Dam	plantTurbines	1
+Nagarjuna Sagar Dam	plantTurbines	1
+Blowering Dam	plantTurbines	1
+Conowingo Dam	plantTurbines	7
+Wivenhoe Dam	plantTurbines	2
+Furnas Dam	plantTurbines	8
+Gavins Point Dam	plantTurbines	3
+Geheyan Dam	plantTurbines	4
+Longtan Dam	plantTurbines	9
+Salto Grande Dam	plantTurbines	14
+Flaming Gorge Dam	plantTurbines	3
+Tinaroo Dam	plantTurbines	Francis turbine
+Indirasagar Dam	plantTurbines	8
+Gomal Zam Dam	plantTurbines	2
+Contra Dam	plantTurbines	3
+Bureya Dam	plantTurbines	6
+New Waddell Dam	plantTurbines	4
+Ohakuri Dam	plantTurbines	4
+Kardzhali Reservoir	plantTurbines	4
+Chashma Barrage	plantTurbines	8
+Hartwell Dam	plantTurbines	5
+King Talal Dam	plantTurbines	2
+Brisay generating station	plantTurbines	2
+Laforge-1 generating station	plantTurbines	6
+La Grande-4 generating station	plantTurbines	9
+La Grande-2-A generating station	plantTurbines	6
+Laforge-2 generating station	plantTurbines	2
+Los Molinos Dam	plantTurbines	4
+Nyumba ya Mungu Dam	plantTurbines	2
+Mtera Dam	plantTurbines	2
+Rance Tidal Power Station	plantTurbines	24
+Falcon Dam	plantTurbines	6
+Greers Ferry Dam	plantTurbines	2
+Tumut Hydroelectric Power Station	plantTurbines	4
+Diamer-Bhasha Dam	plantTurbines	12
+Cochrane Dam	plantTurbines	2
+Robert Moses Niagara Power Plant	plantTurbines	13
+Robert Moses Niagara Power Plant	plantTurbines	12
+Haditha Dam	plantTurbines	6
+Blue Mesa Dam	plantTurbines	2
+Morrow Point Dam	plantTurbines	2
+Crystal Dam	plantTurbines	1
+Pangani Falls Dam	plantTurbines	2
+Kidatu Dam	plantTurbines	4
+Kihansi Dam	plantTurbines	3
+Hale Dam	plantTurbines	2
+Kajaki Dam	plantTurbines	2
+Reece Power Station	plantTurbines	2
+Monticello Dam	plantTurbines	2
+Mratinje Dam	plantTurbines	3
+Quebrada de Ullúm Dam	plantTurbines	1
+Alicurá Dam	plantTurbines	4
+Piedra del Águila Dam	plantTurbines	4
+El Chocón Dam	plantTurbines	6
+Arroyito Dam	plantTurbines	3
+Rheidol Power Station	plantTurbines	2
+Coolidge Dam	plantTurbines	2
+Foster Dam	plantTurbines	2
+Latyan Dam	plantTurbines	2
+Sultan Mahmud Power Station	plantTurbines	4
+Bhavanisagar dam	plantTurbines	2
+Ghazi-Barotha Hydropower Project	plantTurbines	5
+Catagunya Power Station	plantTurbines	2
+Meadowbank Power Station	plantTurbines	1
+Cluny Power Station	plantTurbines	1
+Repulse Power Station	plantTurbines	1
+Gordon Power Station	plantTurbines	3
+Nathpa Jhakri Dam	plantTurbines	6
+Hàm Thuận – Đa Mi hydroelectric power stations	plantTurbines	2
+Ross Dam	plantTurbines	4
+Diablo Dam	plantTurbines	2
+Gökçekaya Dam	plantTurbines	3
+Sarıyar Dam	plantTurbines	4
+Almus Dam	plantTurbines	3
+Sır Dam	plantTurbines	3
+Berke Dam	plantTurbines	3
+Douglas Dam	plantTurbines	2
+Batang Ai Dam	plantTurbines	4
+Hungry Horse Dam	plantTurbines	4
+Silvan Dam	plantTurbines	4
+Yonki Dam	plantTurbines	5
+Los Reyunos Dam	plantTurbines	2
+Kaptai Dam	plantTurbines	2
+Vulcan Street Plant	plantTurbines	1
+Folsom Dam	plantTurbines	3
+Solina Dam	plantTurbines	2
+Toktogul Dam	plantTurbines	4
+Kurpsai Dam	plantTurbines	4
+Yellowtail Dam	plantTurbines	4
+Cabinet Gorge Dam	plantTurbines	4
+Noxon Rapids Dam	plantTurbines	5
+Alta Hydroelectric Power Station	plantTurbines	2
+Bui Dam	plantTurbines	3
+Péligre Dam	plantTurbines	3
+Denison Dam	plantTurbines	2
+Balbina Dam	plantTurbines	5
+Tokuyama Dam	plantTurbines	1
+Vaigai Dam	plantTurbines	2
+Kenney Dam	plantTurbines	8
+Croton Dam	plantTurbines	2
+Pindari Dam	plantTurbines	2
+Talbingo Dam	plantTurbines	6
+Chichester Dam	plantTurbines	1
+Ambuklao Dam	plantTurbines	3
+Horse Mesa Dam	plantTurbines	3
+Alcántara Dam	plantTurbines	4
+Sayano–Shushenskaya Dam	plantTurbines	10
+Tumut Pond Dam	plantTurbines	4
+Caruachi Dam	plantTurbines	12
+Cheboksary Dam	plantTurbines	18
+Koombooloomba Dam	plantTurbines	4
+Splityard Creek Dam	plantTurbines	2
+Xiluodu Dam	plantTurbines	18
+Yusufeli Dam	plantTurbines	3
+Xiaolangdi Dam	plantTurbines	6
+Vajiralongkorn Dam	plantTurbines	3
+Xiangjiaba Dam	plantTurbines	4
+Laxiwa Dam	plantTurbines	6
+Nuozhadu Dam	plantTurbines	9
+Pubugou Dam	plantTurbines	6
+Goupitan Dam	plantTurbines	5
+Xiaowan Dam	plantTurbines	6
+Guandi Dam	plantTurbines	4
+Wudongde Dam	plantTurbines	12
+Baihetan Dam	plantTurbines	16
+Ertan Dam	plantTurbines	6
+El Cajón Dam	plantTurbines	2
+Gordon Dam	plantTurbines	3
+Bakhtiari Dam	plantTurbines	6
+Carillon Generating Station	plantTurbines	14
+Kouga Dam	plantTurbines	3
+Karun-4 Dam	plantTurbines	4
+Almendra Dam	plantTurbines	6
+Dniester Hydroelectric Station	plantTurbines	6
+Eufaula Dam	plantTurbines	3
+Kaligandaki A Hydroelectric Power Station	plantTurbines	3
+Jean-Lesage generating station	plantTurbines	8
+Vatnsfell Power Station	plantTurbines	2
+Alberto Lleras Dam	plantTurbines	5
+Ranjit Sagar Dam	plantTurbines	4
+Merwin Dam	plantTurbines	3
+Anderson Ranch Dam	plantTurbines	2
+Aratiatia Power Station	plantTurbines	3
+Miboro Dam	plantTurbines	2
+Sakaigawa Dam	plantTurbines	1
+Fujiwara Dam	plantTurbines	1
+Tamahara Dam	plantTurbines	4
+Honna Dam	plantTurbines	3
+Uwada Dam	plantTurbines	3
+Miyashita Dam	plantTurbines	5
+Taki Dam	plantTurbines	2
+Yanaizu Dam	plantTurbines	3
+Katakado Dam	plantTurbines	3
+Kilburn Dam	plantTurbines	4
+Fierza Hydroelectric Power Station	plantTurbines	4
+Koman Hydroelectric Power Station	plantTurbines	4
+Meghri Dam	plantTurbines	4
+Mingachevir Dam	plantTurbines	6
+Vau i Dejës Hydroelectric Power Station	plantTurbines	5
+Tsankov Kamak Hydro Power Plant	plantTurbines	2
+Khudoni Hydro Power Plant	plantTurbines	3
+Ladzhanuri Hydro Power Plant	plantTurbines	3
+Tikveš Hydroelectric Power Station	plantTurbines	4
+Kozjak Hydro Power Plant	plantTurbines	2
+Canyon Ferry Dam	plantTurbines	3
+Turkwel Hydroelectric Power Station	plantTurbines	2
+Kiambere Hydroelectric Power Station	plantTurbines	2
+Gitaru Hydroelectric Power Station	plantTurbines	2
+Kamburu Dam	plantTurbines	3
+Rihand Dam	plantTurbines	6
+Hardy Dam	plantTurbines	1
+Karapiro Power Station	plantTurbines	3
+Darbandikhan Dam	plantTurbines	3
+Dukan Dam	plantTurbines	5
+Cherokee Dam	plantTurbines	2
+Mammoth Pool Dam	plantTurbines	2
+Zhinvali Dam	plantTurbines	2
+Kandadji Dam	plantTurbines	4
+South Holston Dam	plantTurbines	1
+Ponmudi Dam	plantTurbines	2
+Salime Reservoir	plantTurbines	4
+Kambarata-1 Dam	plantTurbines	4
+Fontenelle Dam	plantTurbines	1
+Alder Dam	plantTurbines	2
+Fortuna Dam	plantTurbines	3
+Rengali Dam	plantTurbines	5
+Bujagali Hydroelectric Power Station	plantTurbines	5
+Murum Dam	plantTurbines	4
+Boise River Diversion Dam	plantTurbines	3
+Arapuni Power Station	plantTurbines	8
+Whakamaru Dam	plantTurbines	4
+Sihwa Lake Tidal Power Station	plantTurbines	10
+Nyagak Hydroelectric Power Station	plantTurbines	2
+Tipaimukh Dam	plantTurbines	6
+Victoria Dam	plantTurbines	3
+Otter Rapids Generating Station	plantTurbines	4
+El Cajón Dam	plantTurbines	4
+Sangtuda 1 Hydroelectric Power Plant	plantTurbines	4
+Gilgel Gibe I Dam	plantTurbines	3
+Buyo Dam	plantTurbines	3
+Kossou Dam	plantTurbines	3
+Sangtuda 2 Hydroelectric Power Plant	plantTurbines	2
+Kpong Dam	plantTurbines	4
+Dul Hasti Hydroelectric Plant	plantTurbines	3
+Idriss I Dam	plantTurbines	2
+Whiskeytown Dam	plantTurbines	2
+Angat Dam	plantTurbines	10
+Samarra Barrage	plantTurbines	3
+Badush Dam	plantTurbines	4
+Cizre Dam	plantTurbines	3
+Adıgüzel Dam	plantTurbines	2
+Tocoma Dam	plantTurbines	10
+Gilgel Gibe III Dam	plantTurbines	10
+Karkheh Dam	plantTurbines	3
+Ahai Dam	plantTurbines	5
+Pantabangan Dam	plantTurbines	2
+Binga Dam	plantTurbines	4
+Akköprü Dam	plantTurbines	2
+Alpaslan-1 Dam	plantTurbines	4
+Tekezé Dam	plantTurbines	4
+Narva Hydroelectric Station	plantTurbines	3
+Mingtan Dam	plantTurbines	6
+John H. Kerr Dam	plantTurbines	7
+Gönen Dam	plantTurbines	2
+Deriner Dam	plantTurbines	4
+Ermenek Dam	plantTurbines	2
+Çınarcık Dam	plantTurbines	2
+Kığı Dam	plantTurbines	3
+Kürtün Dam	plantTurbines	2
+Obruk Dam	plantTurbines	4
+Özlüce Dam	plantTurbines	2
+Torul Dam	plantTurbines	2
+Uzunçayır Dam	plantTurbines	3
+Tishrin Dam	plantTurbines	6
+Tianshengqiao-I Dam	plantTurbines	4
+Iran–Turkmenistan Friendship Dam	plantTurbines	3
+J. Strom Thurmond Dam	plantTurbines	7
+Richard B. Russell Dam	plantTurbines	8
+Oder Dam	plantTurbines	2
+Kisiizi Hydroelectric Power Station	plantTurbines	1
+Grand Inga Dam	plantTurbines	52
+Shuibuya Dam	plantTurbines	4
+New Savannah Bluff Lock and Dam	plantTurbines	0
+Yeywa Dam	plantTurbines	4
+Salma Dam	plantTurbines	3
+Green Peter Dam	plantTurbines	2
+Peñitas Dam	plantTurbines	4
+Masjed Soleyman Dam	plantTurbines	8
+E.B. Campbell Hydroelectric Station	plantTurbines	8
+Hòa Bình Dam	plantTurbines	8
+Cahora Bassa Dam	plantTurbines	5
+Mpanga Hydroelectric Power Station	plantTurbines	1
+Sobradinho Dam	plantTurbines	6
+Dibang Dam	plantTurbines	12
+Tala Hydroelectric Power Station	plantTurbines	6
+Karuma Hydroelectric Power Station	plantTurbines	6
+Shahid Rajaee Dam	plantTurbines	3
+Kouhrang 2 Hydroelectric Power Station	plantTurbines	3
+Piran Dam	plantTurbines	2
+Rudbar Lorestan Dam	plantTurbines	2
+Seimare Dam	plantTurbines	3
+Marun Dam	plantTurbines	2
+Khersan-3 Dam	plantTurbines	4
+Tarik Dam	plantTurbines	2
+Oyan River Dam	plantTurbines	3
+Isimba Hydroelectric Power Station	plantTurbines	4
+Rangit Dam	plantTurbines	3
+Beauharnois Hydroelectric Generating Station	plantTurbines	38
+La Grange Dam	plantTurbines	2
+Aldeadávila Dam	plantTurbines	8
+Delhi Dam	plantTurbines	2
+Upper Kotmale Dam	plantTurbines	2
+Gileppe Dam	plantTurbines	two horizontal Francis-type
+Outardes-3	plantTurbines	4
+Outardes-4	plantTurbines	4
+Ranganadi Dam	plantTurbines	3
+Zangmu Dam	plantTurbines	6
+Ust-Ilimsk Hydroelectric Power Station	plantTurbines	16
+Irkutsk Hydroelectric Power Station	plantTurbines	8
+Ilha Solteira Dam	plantTurbines	20
+Xingó Dam	plantTurbines	6
+Luiz Gonzaga Dam	plantTurbines	6
+José Richa Hydroelectric Plant	plantTurbines	4
+Bento Munhoz Hydroelectric Plant	plantTurbines	4
+Churchill Falls Generating Station	plantTurbines	11
+Ney Braga Hydroelectric Plant	plantTurbines	4
+Salto Santiago Hydroelectric Power Plant	plantTurbines	4
+Salto Osório Hydroelectric Power Plant	plantTurbines	6
+Itá Hydroelectric Power Plant	plantTurbines	5
+Machadinho Hydroelectric Power Plant	plantTurbines	3
+Barra Grande Hydroelectric Power Plant	plantTurbines	3
+Eng Sérgio Motta Dam	plantTurbines	14
+Bersimis-1 generating station	plantTurbines	8
+Itumbiara Dam	plantTurbines	6
+Serra da Mesa Dam	plantTurbines	3
+Marimbondo Dam	plantTurbines	8
+Água Vermelha Dam	plantTurbines	6
+Engineer Souza Dias Dam	plantTurbines	14
+Luiz Barreto Dam	plantTurbines	6
+São Simão Dam	plantTurbines	6
+Emborcação Dam	plantTurbines	4
+Isawa Dam	plantTurbines	1
+Bersimis-2 generating station	plantTurbines	5
+Três Marias Dam	plantTurbines	6
+Marmelos Zero Power Plant	plantTurbines	2
+Al Wahda Dam	plantTurbines	3
+Polavaram Project	plantTurbines	12
+New Don Pedro Dam	plantTurbines	3
+Lower Churchill Project	plantTurbines	4
+Idamalayar Dam	plantTurbines	2
+Kaniv Hydroelectric Power Plant	plantTurbines	24
+Sơn La Dam	plantTurbines	6
+Nimoo Bazgo Hydroelectric Plant	plantTurbines	3
+Tianshengqiao-II Dam	plantTurbines	6
+Yele Dam	plantTurbines	2
+Shuangjiangkou Dam	plantTurbines	4
+Shuikou Dam	plantTurbines	7
+Shapai Dam	plantTurbines	4
+Mianhuatan Dam	plantTurbines	4
+Liuxihe Dam	plantTurbines	4
+Ankang Dam	plantTurbines	4
+Dachaoshan Dam	plantTurbines	6
+Lijiaxia Dam	plantTurbines	5
+Sanbanxi Dam	plantTurbines	4
+Dagangshan Dam	plantTurbines	4
+Jiangpinghe Dam	plantTurbines	2
+Jishixia Dam	plantTurbines	3
+Guanyinyan Dam	plantTurbines	5
+Changheba Dam	plantTurbines	4
+Jinanqiao Dam	plantTurbines	4
+Liyuan Dam	plantTurbines	4
+Sambor Dam	plantTurbines	40
+Ludila Dam	plantTurbines	6
+Pengshui Dam	plantTurbines	5
+Silin Dam	plantTurbines	4
+Yantan Dam	plantTurbines	4
+Wuqiangxi Dam	plantTurbines	5
+Wanjiazhai Dam	plantTurbines	6
+Wujiangdu Dam	plantTurbines	3
+Chirkey Dam	plantTurbines	4
+Nizhnekamsk Hydroelectric Station	plantTurbines	16
+Votkinsk Hydroelectric Station	plantTurbines	10
+Pavlovka Hydroelectric Station	plantTurbines	4
+Ivaylovgrad Dam	plantTurbines	4
+Martin Dam	plantTurbines	4
+Lower Se San 2 Dam	plantTurbines	5
+Stung Treng Dam	plantTurbines	10
+Lam Takhong Dam	plantTurbines	2
+Ubol Ratana Dam	plantTurbines	3
+Lai Châu Dam	plantTurbines	3
+Amistad Dam	plantTurbines	4
+Chicoasén Dam	plantTurbines	5
+Malpaso Dam	plantTurbines	6
+Lianghekou Dam	plantTurbines	6
+Angostura Dam	plantTurbines	5
+Danjiangkou Dam	plantTurbines	6
+Baksan Hydroelectric Power Station	plantTurbines	3
+Qorlortorsuaq Dam	plantTurbines	2
+Longkaikou Dam	plantTurbines	5
+Houziyan Dam	plantTurbines	4
+Shatuo Dam	plantTurbines	4
+Tingzikou Dam	plantTurbines	4
+Seminoe Dam	plantTurbines	3
+Álvaro Obregón Dam	plantTurbines	2
+Bhumibol Dam	plantTurbines	6
+Sirikit Dam	plantTurbines	4
+Srinagarind Dam	plantTurbines	3
+Cochrane Dam	plantTurbines	2
+Bugoye Hydroelectric Power Station	plantTurbines	2
+Craig Goch Dam	plantTurbines	1
+Castelo de Bode Dam	plantTurbines	3
+Pensacola Dam	plantTurbines	6
+Itupararanga Dam	plantTurbines	4
+Boysen Dam	plantTurbines	2
+Grand Ethiopian Renaissance Dam	plantTurbines	16
+Muzizi Hydroelectric Power Station	plantTurbines	8
+Kotmale Dam	plantTurbines	3
+Salvajina Dam	plantTurbines	3
+Sanmenxia Dam	plantTurbines	5
+Alcova Dam	plantTurbines	2
+La Esmeralda Dam	plantTurbines	8
+Glacier View Dam	plantTurbines	3
+Bull Shoals Dam	plantTurbines	4
+Imboulou Dam	plantTurbines	4
+Zimapán Dam	plantTurbines	2
+Aguamilpa Dam	plantTurbines	3
+Ruskin Dam and Powerhouse	plantTurbines	3
+Jinping-I Dam	plantTurbines	6
+Jinping-II Dam	plantTurbines	8
+Kootenay Canal	plantTurbines	4
+Miel I Dam	plantTurbines	3
+Kikagati Hydroelectric Power Station	plantTurbines	2
+Porce III Dam	plantTurbines	4
+Ituango Dam	plantTurbines	8
+La Yesca Dam	plantTurbines	2
+Pashulok Barrage	plantTurbines	4
+Ramganga Dam	plantTurbines	3
+Maneri Dam	plantTurbines	3
+Pulichinthala Project	plantTurbines	4
+Barber Dam	plantTurbines	2
+Imha Dam	plantTurbines	2
+Andong Dam	plantTurbines	2
+Daecheong Dam	plantTurbines	2
+Soyang Dam	plantTurbines	3
+Chungju Dam	plantTurbines	4
+Hwacheon Dam	plantTurbines	4
+Zillergründl Dam	plantTurbines	2
+Rapel Dam	plantTurbines	5
+Ōmachi Dam	plantTurbines	1
+Warsak Dam	plantTurbines	4
+Koteshwar Dam	plantTurbines	4
+Okutadami Dam	plantTurbines	3
+Otori Dam	plantTurbines	1
+Bratsberg Hydroelectric Power Station	plantTurbines	2
+Mohamed V Dam	plantTurbines	1
+Bin el Ouidane Dam	plantTurbines	3
+Hassan I Dam	plantTurbines	1
+Al Massira Dam	plantTurbines	2
+Allal al Fassi Dam	plantTurbines	3
+Miure Dam	plantTurbines	Gravity Hydropower
+Jinshuitan Dam	plantTurbines	6
+Dongjiang Dam	plantTurbines	4
+Nierji Dam	plantTurbines	4
+Jilintai I Dam	plantTurbines	4
+Tankeng Dam	plantTurbines	3
+Baise Dam	plantTurbines	4
+Chengbihe Dam	plantTurbines	4
+Tengzigou Dam	plantTurbines	2
+Baozhusi Dam	plantTurbines	4
+Bikou Dam	plantTurbines	3
+Bashan Dam	plantTurbines	2
+Dongfeng Dam	plantTurbines	3
+Dongqing Dam	plantTurbines	4
+Dongping Dam	plantTurbines	2
+Fengshuba Dam	plantTurbines	2
+Guxian Dam	plantTurbines	3
+Hongkou Dam	plantTurbines	2
+Jiangya Dam	plantTurbines	3
+Jiudianxia Dam	plantTurbines	3
+Longma Dam	plantTurbines	3
+Shiyazi Dam	plantTurbines	2
+Shimenkan Dam	plantTurbines	2
+Suofengying Dam	plantTurbines	3
+Wawushan Dam	plantTurbines	2
+Wudu Dam	plantTurbines	3
+Wuluwati Dam	plantTurbines	4
+Yunfeng Dam	plantTurbines	4
+Enloe Dam and Powerplant	plantTurbines	abandoned
+Fort Gibson Dam	plantTurbines	4
+Agusan Dam	plantTurbines	2
+Iron Gate Dam	plantTurbines	2
+Tulloch Dam	plantTurbines	2
+Long Lake Dam	plantTurbines	4
+Keswick Dam	plantTurbines	3
+Pulangi Dam	plantTurbines	3
+Mubuku I Hydroelectric Power Station	plantTurbines	2
+Mubuku III Hydroelectric Power Station	plantTurbines	4
+Alkumru Dam	plantTurbines	3
+Koldam Dam	plantTurbines	4
+Pandoh Dam	plantTurbines	6
+Pong Dam	plantTurbines	6
+Neelum–Jhelum Hydropower Plant	plantTurbines	4
+Kishanganga Hydroelectric Plant	plantTurbines	3
+Madden Dam	plantTurbines	3
+West Seti Dam	plantTurbines	4
+Yayangshan Dam	plantTurbines	2
+Tukahe Dam	plantTurbines	3
+Jufudu Dam	plantTurbines	3
+Daguangba Dam	plantTurbines	4
+Gezhen Dam	plantTurbines	2
+Niululing Dam	plantTurbines	4
+Nyagak III Hydroelectric Power Station	plantTurbines	2
+Imaichi Dam	plantTurbines	3
+Saguling Dam	plantTurbines	4
+Cirata Dam	plantTurbines	8
+Jatiluhur Dam	plantTurbines	6
+Jatigede Dam	plantTurbines	2
+Minghu Dam	plantTurbines	4
+Yulongyan Dam	plantTurbines	2
+Hongshi Dam	plantTurbines	4
+Matanoagawa Dam	plantTurbines	4
+Band-e Sardeh Dam	plantTurbines	none
+Thisavros Dam	plantTurbines	3
+Kremasta Dam	plantTurbines	4
+Köprü Dam	plantTurbines	2
+Boyabat Dam	plantTurbines	3
+Kettle Generating Station	plantTurbines	12
+Temperance Flat Dam	plantTurbines	3
+Rusumo Hydroelectric Power Station	plantTurbines	4
+Roselend Dam	plantTurbines	6
+Nyabarongo Power Station	plantTurbines	2
+Sogamoso Dam	plantTurbines	3
+Florentino Ameghino Dam	plantTurbines	2
+Mahabad Dam	plantTurbines	2
+Marèges Dam	plantTurbines	4
+Baram Dam	plantTurbines	4
+Denis-Perron Dam	plantTurbines	2
+Houay Ho Dam	plantTurbines	2
+Dhauliganga Dam	plantTurbines	Vertical Francis turbines
+Huites Dam	plantTurbines	2
+Inniscarra Dam	plantTurbines	1
+Barro Blanco Dam	plantTurbines	1
+Bunji Dam	plantTurbines	20
+Misicuni Dam	plantTurbines	2
+Nyagak II Hydroelectric Power Station	plantTurbines	2
+Tuirial Dam	plantTurbines	2
+Serlui B Dam	plantTurbines	3
+Shah wa Arus Dam	plantTurbines	2
+Bairabi Dam	plantTurbines	2
+Tlawng Dam	plantTurbines	2
+Jocassee Dam	plantTurbines	4
+Teles Pires Dam	plantTurbines	5
+Harsprånget hydroelectric power station	plantTurbines	3
+La Jourdanie	plantTurbines	2
+Pinet	plantTurbines	5
+Le Truel	plantTurbines	2
+Kirazlık Dam	plantTurbines	3
+Çetin Dam	plantTurbines	3
+Trung Sơn Dam	plantTurbines	4
+Milford Dam	plantTurbines	5
+West Enfield Dam	plantTurbines	2
+Đa Nhim Hydroelectric Power Station	plantTurbines	4
+Na Hang Dam	plantTurbines	3
+Agbinika Power Station	plantTurbines	4
+Khashm el-Girba Dam	plantTurbines	2
+Sykia Dam	plantTurbines	2
+Mesochora Dam	plantTurbines	2
+Kastraki Dam	plantTurbines	4
+Artvin Dam	plantTurbines	2
+Mazar Dam	plantTurbines	2
+Tumut Two Dam	plantTurbines	4
+Aksu Dam	plantTurbines	3
+Güllübağ Dam	plantTurbines	3
+Geehi Dam	plantTurbines	10
+Guthega Dam	plantTurbines	2
+Brogo Dam	plantTurbines	1
+Daryan Dam	plantTurbines	3
+Alpaslan-2 Dam	plantTurbines	2
+Yedigöze Dam	plantTurbines	2
+Kavşak Bendi Dam	plantTurbines	3
+Jinnah Barrage	plantTurbines	8
+Karcham Wangtoo Hydroelectric Plant	plantTurbines	4
+Taipingwan Dam	plantTurbines	4
+Weiyuan Dam	plantTurbines	6
+Jaguara Dam	plantTurbines	4
+Volta Grande Dam	plantTurbines	4
+Chardara Dam	plantTurbines	4
+Capivara Dam	plantTurbines	4
+El Kansera Dam	plantTurbines	1
+Changuinola Dam	plantTurbines	2
+Wadagawa Dam	plantTurbines	2
+Komaki Dam	plantTurbines	4
+Toga Dam	plantTurbines	2
+Senzoku Dam	plantTurbines	1
+Togagawa Dam	plantTurbines	1
+Donzère-Mondragon Dam	plantTurbines	6
+Akao Dam	plantTurbines	1
+Hatogaya Dam	plantTurbines	1
+Okurodani Dam	plantTurbines	1
+Oshirakawa Dam	plantTurbines	1
+Şırnak Dam	plantTurbines	2
+Uludere Dam	plantTurbines	2
+Kindaruma Hydroelectric Power Station	plantTurbines	3
+Nyamwamba Hydroelectric Power Station	plantTurbines	2
+Big Cliff Dam	plantTurbines	1
+Kiev Hydroelectric Power Plant	plantTurbines	20
+Burqin Shankou Dam	plantTurbines	4
+Khan Khwar Hydropower Plant	plantTurbines	2
+Allai Khwar Hydropower Plant	plantTurbines	2
+Rwimi Hydroelectric Power Station	plantTurbines	2
+Mutwanga Hydroelectric Power Station	plantTurbines	2
+Beaumont generating station	plantTurbines	6
+Bonyic Dam	plantTurbines	3
+Kukule Ganga Dam	plantTurbines	2
+Rutshuru Hydroelectric Power Station	plantTurbines	2
+Lom Pangar Dam	plantTurbines	4
+Grodno Hydroelectric Power Station	plantTurbines	5
+Kremenchuk Hydroelectric Power Plant	plantTurbines	12
+Kakhovka Hydroelectric Power Plant	plantTurbines	3
+Dniprodzerzhynsk Hydroelectric Power Plant	plantTurbines	8
+Conemaugh Dam	plantTurbines	2
+Batoka Gorge Hydroelectric Power Station	plantTurbines	8
+Glenmaggie Dam	plantTurbines	2
+Chonghu'er Dam	plantTurbines	4
+Jilebulake Dam	plantTurbines	2
+Haba River Shankou Dam	plantTurbines	4
+Shimokotori Dam	plantTurbines	1
+Martinsville Dam	plantTurbines	2
+Lower Paunglaung Dam	plantTurbines	4
+Upper Paunglaung Dam	plantTurbines	2
+Shweli I Dam	plantTurbines	6
+Shwegyin Dam	plantTurbines	4
+Mandraka Dam	plantTurbines	4
+Andekaleka Dam	plantTurbines	2
+Mahi Bajaj Sagar Dam	plantTurbines	2
+Ghatghar Dam	plantTurbines	2
+Duber Khwar Hydroelectric Plant	plantTurbines	2
+Patrind Hydropower Plant	plantTurbines	3
+Nangbeto Dam	plantTurbines	2
+Garafiri Dam	plantTurbines	3
+Banieya Dam	plantTurbines	2
+Grand Poubara Dam	plantTurbines	4
+Bumbuna Dam	plantTurbines	2
+Djibloho Dam	plantTurbines	4
+Esch-sur-Sûre Dam	plantTurbines	2
+Golen Gol Hydropower Project	plantTurbines	3
+Renala Khurd Hydropower Plant	plantTurbines	5
+Chichonki Malian Hydropower Plant	plantTurbines	3
+Nandipur Hydropower Plant	plantTurbines	3
+Shadiwal Hydropower Plant	plantTurbines	2
+Kurram Garhi Hydropower Plant	plantTurbines	4
+Petit-Saut Dam	plantTurbines	4
+Afobaka Dam	plantTurbines	6
+Gulpur Hydropower Project	plantTurbines	2
+Devecikonağı Dam	plantTurbines	3
+Corbara Dam	plantTurbines	38
+Gura Apelor Dam	plantTurbines	2
+Tangir Hydropower Project	plantTurbines	3
+Yaté Dam	plantTurbines	4
+Monasavu Dam	plantTurbines	4
+Nadarivatu Dam	plantTurbines	2
+Chute-Allard Generating Station	plantTurbines	6
+Rapide-Blanc Generating Station	plantTurbines	6
+Afulilo Dam	plantTurbines	2
+Monción Dam	plantTurbines	2
+Jigüey Dam	plantTurbines	2
+Bao-Tavera Dams	plantTurbines	2
+Hatillo Dam	plantTurbines	1
+Zaza Dam	plantTurbines	2
+Gove Dam	plantTurbines	3
+Néstor Kirchner Dam	plantTurbines	6
+Jorge Cepernic Dam	plantTurbines	5
+Los Caracoles Dam	plantTurbines	2
+Punta Negra Dam	plantTurbines	2
+Mancotal Dam	plantTurbines	2
+Virgen Dam	plantTurbines	2
+Tumarín Dam	plantTurbines	3
+Nuevo Mundo Dam	plantTurbines	2
+Hanabanilla Dam	plantTurbines	3
+Trängslet Dam	plantTurbines	1
+Lakhwar Dam	plantTurbines	3
+Sempor Dam	plantTurbines	1
+La Viña Dam	plantTurbines	2
+Agua del Toro Dam	plantTurbines	2
+Klabböle Power Plant	plantTurbines	3
+Kishau Dam	plantTurbines	4
+Pakal Dul Dam	plantTurbines	4
+Claytor Dam	plantTurbines	4
+Gazivoda Dam	plantTurbines	2
+Tisza Dam	plantTurbines	4
+Grančarevo Dam	plantTurbines	3
+Chilime Hydropower Plant	plantTurbines	2
+Lubuge Dam	plantTurbines	4
+Shitouhe Dam	plantTurbines	4
+Jinpen Dam	plantTurbines	2
+Zhexi Dam	plantTurbines	2
+Gudongkou Dam	plantTurbines	3
+Yangqu Dam	plantTurbines	3
+Huangdeng Dam	plantTurbines	4
+Miaowei Dam	plantTurbines	4
+Kajiwa Dam	plantTurbines	4
+Quxue Dam	plantTurbines	2
+Lizhou Dam	plantTurbines	3
+Qiaoqi Dam	plantTurbines	3
+Dahuaqiao Dam	plantTurbines	4
+Gongguoqiao Dam	plantTurbines	4
+Wunonglong Dam	plantTurbines	3
+Kohala Hydropower Project	plantTurbines	4
+Poyang Lake Dam	plantTurbines	8
+Jiemian Dam	plantTurbines	2
+Yinpan Dam	plantTurbines	4
+Maoergai Dam	plantTurbines	3
+Pankou Dam	plantTurbines	2
+Yingzidu Dam	plantTurbines	3
+Sinanjiang Dam	plantTurbines	3
+Bang Lang Dam	plantTurbines	3
+Kaeng Krachan Dam	plantTurbines	1
+Longjiang Dam	plantTurbines	3
+Madushan Dam	plantTurbines	3
+Tianhuaban Dam	plantTurbines	2
+Tha Thung Na Dam	plantTurbines	2
+Mae Ngat Somboon Chon Dam	plantTurbines	2
+Pharping Hydropower Station	plantTurbines	2
+Lianhua Dam	plantTurbines	4
+Meander Dam	plantTurbines	1
+Santa Luzia Dam	plantTurbines	4
+Upper Karnali Hydropower Project	plantTurbines	8
+Mai Hydropower Station	plantTurbines	3
+Três Irmãos Dam	plantTurbines	5
+Nova Avanhandava Dam	plantTurbines	3
+Eklutna Dam	plantTurbines	2
+Reventazón Dam	plantTurbines	4
+Colíder Dam	plantTurbines	3
+Rogers Dam	plantTurbines	4
+Tuyamuyun Hydro Complex	plantTurbines	6
+Kayrakkum Dam	plantTurbines	6
+Baipaza Dam	plantTurbines	4
+Golovnaya Dam	plantTurbines	3
+Tangevaerket Dam	plantTurbines	3
+Rama Dam	plantTurbines	2
+Jablanica Dam	plantTurbines	6
+Pangduo Hydro Power Station	plantTurbines	4
+Zhikong Hydro Power Station	plantTurbines	4
+Aguieira Dam	plantTurbines	3
+Cabril Dam	plantTurbines	2
+Carrapatelo Dam	plantTurbines	3
+Alto Lindoso Dam	plantTurbines	2
+Alto Rabagão Dam	plantTurbines	2
+Omkareshwar Dam	plantTurbines	8
+Masinga Hydroelectric Power Station	plantTurbines	2
+Fratel Dam	plantTurbines	3
+Bouçã Dam	plantTurbines	2
+Caniçada Dam	plantTurbines	2
+Pocinho Dam	plantTurbines	3
+Valeira Dam	plantTurbines	3
+Régua Dam	plantTurbines	3
+Crestuma-Lever Dam	plantTurbines	3
+El Salto Dam	plantTurbines	3
+Touvedo Dam	plantTurbines	1
+Raiva Dam	plantTurbines	2
+Pracana Dam	plantTurbines	2
+Vilar Dam	plantTurbines	2
+Bagre Dam	plantTurbines	2
+Seyrantepe Dam	plantTurbines	2
+Koma Kulshan Project	plantTurbines	1
+Kemano Generating Station	plantTurbines	8
+Moglicë Hydro Power Plant	plantTurbines	2
+Cushaw Hydroelectric Project	plantTurbines	5
+Reusens Dam	plantTurbines	5
+Lower Salmon Falls Dam	plantTurbines	4
+Upper Tamakoshi Hydroelectric Project	plantTurbines	6
+Ulu Jelai Power Station	plantTurbines	2
+Nilambe Dam	plantTurbines	2
+Pupu Hydro Power Scheme	plantTurbines	Pelton wheel
+Mai Cascade Hydropower Plant	plantTurbines	3
+Sunkoshi Small Hydropower Plant	plantTurbines	3
+Sevan–Hrazdan Cascade	plantTurbines	2
+Sevan–Hrazdan Cascade	plantTurbines	4
+Sevan–Hrazdan Cascade	plantTurbines	3
+Sevan–Hrazdan Cascade	plantTurbines	1
+Vorotan Cascade	plantTurbines	2
+Vorotan Cascade	plantTurbines	3
+Dzoraget Hydroelectric Power Station	plantTurbines	3
+Allatoona Dam	plantTurbines	3
+Indravati Dam	plantTurbines	4
+New Bong Escape Hydropower Project	plantTurbines	4
+Azad Pattan Hydropower Project	plantTurbines	4
+Adekokwok Hydroelectric Power Station	plantTurbines	2
+Beyhan I Dam	plantTurbines	3
+Upper Kaleköy Dam	plantTurbines	3
+Bağıştaş 1 Dam	plantTurbines	3
+Bağıştaş 2 Dam	plantTurbines	3
+Yedisu Dam	plantTurbines	3
+Pembelik Dam	plantTurbines	2
+Tatar Dam	plantTurbines	2
+Burç Bendi Dam	plantTurbines	3
+Waipapa Power Station	plantTurbines	3
+Egglfing-Obernberg Hydropower Plant	plantTurbines	6
+Suki Kinari Hydropower Project	plantTurbines	4
+Karot Hydropower Project	plantTurbines	4
+Tapovan Vishnugad Hydropower Plant	plantTurbines	4
+Shahpurkandi dam project	plantTurbines	6
+Sondu Miriu Hydroelectric Power Station	plantTurbines	2
+Sang'oro Hydroelectric Power Station	plantTurbines	2
+Tana Hydroelectric Power Station	plantTurbines	2
+Wanjii Hydroelectric Power Station	plantTurbines	4
+Ndula Hydroelectric Power Station	plantTurbines	2
+Deralok Dam	plantTurbines	2
+Bawanur Dam	plantTurbines	4
+Bastora Dam	plantTurbines	2
+Mequinenza Dam	plantTurbines	4
+Gran Olo hydroelectric power plant	plantTurbines	3
+Puketi hydroelectric power plant	plantTurbines	1
+Ribarroja Dam	plantTurbines	4
+Moforsen Hydroelectric Power Station	plantTurbines	3
+Krångede Hydroelectric Power Station	plantTurbines	6
+Vargfors Hydroelectric Power Station	plantTurbines	1
+Höljes Hydroelectric Power Station	plantTurbines	2
+Stornorrfors Hydroelectric Power Station	plantTurbines	5
+Storfinnforsen Hydroelectric Power Station	plantTurbines	3
+Búðarháls Power Plant	plantTurbines	2
+Moore Dam	plantTurbines	4
+Manso Dam	plantTurbines	4
+Kreuzbergmaut Hydroelectric Power Station	plantTurbines	Kaplan-type 2 × 9.975 MW
+Lower Kaleköy Dam	plantTurbines	3
+Sturgis Dam	plantTurbines	2

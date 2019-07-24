@@ -1,0 +1,1048 @@
+Tramlink	transitType	Light rail
+Tramlink	transitType	Tram
+Docklands Light Railway	transitType	Rapid transit
+Docklands Light Railway	transitType	Medium-capacity rail transport system
+London Underground	transitType	Rapid transit
+Massachusetts Bay Transportation Authority	transitType	Commuter rail in North America
+Massachusetts Bay Transportation Authority	transitType	Rapid transit
+Massachusetts Bay Transportation Authority	transitType	Light rail
+Massachusetts Bay Transportation Authority	transitType	Bus
+Massachusetts Bay Transportation Authority	transitType	Bus rapid transit
+Massachusetts Bay Transportation Authority	transitType	Trolleybus
+Massachusetts Bay Transportation Authority	transitType	Ferryboat
+Toronto Transit Commission	transitType	Bus
+Toronto Transit Commission	transitType	Rapid transit
+Toronto Transit Commission	transitType	Tram
+Paris Métro	transitType	Rapid transit
+Bay Area Rapid Transit	transitType	Rapid transit
+Moscow Metro	transitType	Rapid transit
+SkyTrain	transitType	Rapid transit
+Washington Metro	transitType	Rapid transit
+MAX Light Rail	transitType	Light rail
+United States Capitol subway system	transitType	People mover
+Warsaw Metro	transitType	Rapid transit
+Madrid Metro	transitType	Rapid transit
+Gandhinagar	transitType	Rapid Transit
+Euskotren Trena	transitType	Commuter rail
+Euskotren Trena	transitType	Inter-city rail
+Kobe Municipal Subway	transitType	Rapid transit
+TriMet	transitType	* Local bus\n* Light rail\n* Commuter rail\n* Streetcar
+San Francisco Municipal Railway	transitType	Bus
+San Francisco Municipal Railway	transitType	Trolleybus
+San Francisco Municipal Railway	transitType	Light rail
+San Francisco Municipal Railway	transitType	Streetcar
+San Francisco Municipal Railway	transitType	Cable car
+Manchester Metrolink	transitType	Light rail
+Manchester Metrolink	transitType	Tram
+SEPTA	transitType	* Commuter rail\n* Interurban\n* Rapid transit\n* Trolley/Streetcar\n* Transit bus\n* Trolleybus
+Hong Kong Tramways	transitType	Tram
+MTR	transitType	* Heavy rail\n* Light rail\n* Airport Express\n* Inter-city railway service\n* MTR Bus
+Caltrain	transitType	Commuter rail
+Kowloon–Canton Railway	transitType	* Suburban rail\n* Regional rail\n* Light rail
+Metropolitan Atlanta Rapid Transit Authority	transitType	Rapid transit
+Metropolitan Atlanta Rapid Transit Authority	transitType	Bus rapid transit
+Metropolitan Atlanta Rapid Transit Authority	transitType	Bus
+Tren Urbano	transitType	Rapid transit
+New York City Subway	transitType	Rapid transit
+Midland Metro	transitType	Tram
+Midland Metro	transitType	Light rail
+Seoul Metropolitan Subway	transitType	Rapid transit
+Seoul Metropolitan Subway	transitType	Commuter rail
+PATH	transitType	Rapid transit
+NJ Transit	transitType	*
+NJ Transit	transitType	Commuter rail
+NJ Transit	transitType	Light rail
+NJ Transit	transitType	Bus
+New York City Transit Authority	transitType	Subways, Buses and BRT
+Sheffield Supertram	transitType	Light rail
+Sheffield Supertram	transitType	Tram
+METRORail	transitType	Light rail
+METRORail	transitType	Tram
+Bucharest Metro	transitType	Rapid transit
+GO Transit	transitType	Commuter rail
+GO Transit	transitType	Coach
+Maryland Transit Administration	transitType	Bus
+Maryland Transit Administration	transitType	Light rail
+Maryland Transit Administration	transitType	Heavy rail
+Maryland Transit Administration	transitType	Commuter rail
+Los Angeles County Metropolitan Transportation Authority	transitType	Rapid transit
+Los Angeles County Metropolitan Transportation Authority	transitType	Light rail
+Los Angeles County Metropolitan Transportation Authority	transitType	Public transport bus service
+Los Angeles County Metropolitan Transportation Authority	transitType	Bus rapid transit
+Stockholm metro	transitType	Rapid transit
+Gemeentelijk Vervoerbedrijf	transitType	Tram
+Gemeentelijk Vervoerbedrijf	transitType	Metro
+Gemeentelijk Vervoerbedrijf	transitType	Ferry
+Gemeentelijk Vervoerbedrijf	transitType	Bus
+Agence métropolitaine de transport	transitType	Commuter rail
+Agence métropolitaine de transport	transitType	Express bus service
+West Coast Express	transitType	Commuter rail in North America
+Mumbai Suburban Railway	transitType	Commuter rail
+Metropolitan Transportation Authority	transitType	Commuter rail, local and express bus, subway, bus rapid transit
+Tokyo Metropolitan Bureau of Transportation	transitType	Rapid transit
+Tokyo Metro	transitType	Rapid transit
+Peak Tram	transitType	Funicular railway
+Virginia Railway Express	transitType	Regional rail
+Osaka Municipal Subway	transitType	Rapid transit
+Chicago %22L%22	transitType	Rapid transit
+Helsinki Metro	transitType	Rapid transit
+Mass Rapid Transit	transitType	Rapid transit
+Athens Metro	transitType	Rapid transit
+Metra	transitType	Commuter rail
+Tünel	transitType	Funicular
+Brussels Metro	transitType	Rapid transit
+Glasgow Subway	transitType	Rapid transit
+Tokyo Monorail	transitType	Straddle-beam monorail
+BTS Skytrain	transitType	Rapid transit
+Detroit People Mover	transitType	People mover
+Tokyo subway	transitType	Rapid transit
+Prague Metro	transitType	Rapid transit
+MARC Train	transitType	Regional/ commuter rail
+Nottingham Express Transit	transitType	Tram
+TransMilenio	transitType	Bus rapid transit
+Berlin U-Bahn	transitType	Rapid transit
+Berlin S-Bahn	transitType	Rapid transit
+Barcelona Metro	transitType	Rapid transit
+Copenhagen Metro	transitType	Rapid transit
+Osaka Monorail	transitType	straddle-beam Monorail
+Ankara Metro	transitType	Light rail
+Ankara Metro	transitType	File:AnkarayLogo.png
+Ankara Metro	transitType	Rapid transit
+Ankara Metro	transitType	File:AnkaraMetroLogo.png
+Miami-Dade Transit	transitType	Rapid transit
+Miami-Dade Transit	transitType	Downtown Miami
+Miami-Dade Transit	transitType	People mover
+Miami-Dade Transit	transitType	Bus rapid transit
+Miami-Dade Transit	transitType	Transit bus
+Metromover	transitType	Urban people mover
+Toronto subway	transitType	Rapid transit
+Metrolink	transitType	Commuter rail
+MRT	transitType	Heavy rail
+Beijing Subway	transitType	Rapid transit
+Amsterdam Metro	transitType	Rapid transit and light rail
+Euskotren Tranbia	transitType	Tram
+Fenelon Place Elevator	transitType	Funicular
+Kiev Metro	transitType	Rapid transit
+Beovoz	transitType	Commuter rail
+Niagara Frontier Transportation Authority	transitType	Bus
+Niagara Frontier Transportation Authority	transitType	Light rail
+Niagara Frontier Transportation Authority	transitType	Rapid transit
+São Paulo Metro	transitType	Rapid transit
+Cairo Metro	transitType	Rapid transit
+Luas	transitType	Tram
+Geneva Public Transport	transitType	Rail, bus
+Mumbai Metro	transitType	Rapid transit
+Light rail in Sydney	transitType	Light rail
+Light rail in Sydney	transitType	Tram
+MetroLink	transitType	Light rail
+Tbilisi Metro	transitType	Rapid transit
+Santa Clara Valley Transportation Authority	transitType	Bus and light rail
+Shanghai Metro	transitType	Rapid transit
+CTrain	transitType	Light rail (details)
+Fastway	transitType	Bus Rapid Transit
+RTA Rapid Transit	transitType	Rapid transit
+RTA Rapid Transit	transitType	Light rail
+RTA Rapid Transit	transitType	Bus rapid transit
+OnTrack	transitType	Commuter rail
+Greater Cleveland Regional Transit Authority	transitType	Rapid transit
+Greater Cleveland Regional Transit Authority	transitType	Light rail
+Greater Cleveland Regional Transit Authority	transitType	Heavy rail
+Greater Cleveland Regional Transit Authority	transitType	Bus
+Greater Cleveland Regional Transit Authority	transitType	Bus rapid transit
+Edinburgh Trams	transitType	Light rail
+Edinburgh Trams	transitType	Tram
+Seville Metro	transitType	Rapid transit
+Seville Metro	transitType	Medium-capacity rail transport system
+Sound Transit	transitType	Regional express bus, commuter rail, and light rail.
+Key System	transitType	Interurban
+Key System	transitType	Tram
+Caracas Metro	transitType	Rapid transit
+Altamont Corridor Express	transitType	Commuter rail
+Mexico City Metro	transitType	Rapid transit
+Taipei Metro	transitType	Rapid transit
+Kaohsiung Mass Rapid Transit	transitType	Rapid transit
+Copenhagen S-train	transitType	Urban rail
+Chennai Mass Rapid Transit System	transitType	Rapid transit
+AirTrain	transitType	People mover
+AirTrain	transitType	Airport rail link
+Santiago Metro	transitType	Rapid transit
+Buenos Aires Underground	transitType	Rapid transit
+Zürich S-Bahn	transitType	S-Bahn
+Ottawa Rapid Transit	transitType	Bus rapid transit
+Ueno Zoo Monorail	transitType	Suspended monorail
+Johnstown Inclined Plane	transitType	Funicular
+Companhia Paulista de Trens Metropolitanos	transitType	Commuter rail
+TRAX	transitType	Light rail
+Proastiakos	transitType	Commuter rail
+Proastiakos	transitType	Urban rail
+Lisbon Metro	transitType	Rapid transit
+Vienna U-Bahn	transitType	Rapid transit
+Munich S-Bahn	transitType	Rapid Transit
+Munich S-Bahn	transitType	Regional rail
+Munich U-Bahn	transitType	Rapid transit
+South Florida Regional Transportation Authority	transitType	Commuter rail
+Jacksonville Transportation Authority	transitType	Rapid transit and bus
+Aberystwyth Cliff Railway	transitType	Funicular railway
+California High-Speed Rail	transitType	High-speed rail
+Hamburg S-Bahn	transitType	Rapid transit
+Wuppertal Suspension Railway	transitType	Suspension railway
+San Francisco cable car system	transitType	Cable car
+Metrorail	transitType	Rapid transit
+Lyon Metro	transitType	Rapid transit
+Amtrak California	transitType	Inter-city rail
+Shenzhen Metro	transitType	Rapid transit
+Cincinnati Subway	transitType	Rapid transit
+Merseytram	transitType	Tram
+SEPTA Regional Rail	transitType	Commuter rail
+Rome Metro	transitType	Rapid transit
+Okinawa Monorail	transitType	straddle-beam monorail
+Regia Autonomă de Transport București	transitType	Light rail
+Regia Autonomă de Transport București	transitType	Trolleybus
+Regia Autonomă de Transport București	transitType	Tram
+Sounder commuter rail	transitType	Commuter rail
+Taoyuan International Airport MRT	transitType	Airport rail link
+Taoyuan International Airport MRT	transitType	Rapid transit
+Helsinki commuter rail	transitType	Commuter rail
+Muni Metro	transitType	Light rail
+Muni Metro	transitType	Tram
+Incheon Subway	transitType	Rapid transit
+Oslo Metro	transitType	Rapid transit
+Sofia Metro	transitType	Rapid transit
+Guangzhou Metro	transitType	Rapid transit
+San Diego Trolley	transitType	Light rail
+Lima Metro	transitType	Metro
+Milan Metro	transitType	Rapid Transit
+Queensland Rail City network	transitType	Commuter Rail
+Metro Bilbao	transitType	Rapid transit
+Poma 2000	transitType	People mover
+Saint Petersburg Metro	transitType	Rapid transit
+Light Rail Transit	transitType	Automated guideway transit
+Light Rail Transit	transitType	People mover
+Walt Disney World Monorail System	transitType	straddle-beam Monorail
+Tianjin Metro	transitType	Rapid transit
+Toronto streetcar system	transitType	Tram
+Toronto Zoo Domain Ride	transitType	Automated guideway transit
+Budapest Metro	transitType	Rapid transit
+Hamburg U-Bahn	transitType	Rapid transit
+Société de transport de Montréal	transitType	Bus
+Société de transport de Montréal	transitType	Rapid Transit
+Société de transport de Montréal	transitType	Demand responsive transport
+Société de transport de Montréal	transitType	Paratransit
+BHÉV	transitType	Commuter rail
+BHÉV	transitType	Rapid transit
+Morgantown Personal Rapid Transit	transitType	Personal rapid transit
+Morgantown Personal Rapid Transit	transitType	People mover
+Manila Light Rail Transit System	transitType	Rapid transit
+Porto Metro	transitType	Light rail
+Monterrey Metro	transitType	Rapid transit
+Los Angeles Metro Rail	transitType	Rapid transit
+Red Line	transitType	Heavy rail
+Shonan Monorail	transitType	suspended monorail
+Meigs Elevated Railway	transitType	straddle-beam monorail
+Sacramento Regional Transit District	transitType	Light rail
+Shanghai Maglev Train	transitType	Magnetic levitation
+Transportation in New York City	transitType	Rapid transit, commuter rail, buses, private automobile, ferry, Taxicab, bicycle, pedestrian
+Dubai Metro	transitType	Rapid transit
+Kolkata Metro	transitType	Rapid Transit
+Blue Line	transitType	Light rail
+Gold Line	transitType	Light rail
+Expo Line	transitType	Light rail
+Wiener Linien	transitType	Bus, tram, and underground
+Wuhan Metro	transitType	Rapid transit
+Tehran Metro	transitType	Rapid transit
+Tehran Metro	transitType	Commuter rail
+Valley Metro	transitType	Light rail
+Valley Metro	transitType	Bus
+Valley Metro	transitType	Bus rapid transit
+Valley Metro	transitType	Vanpool
+Rennes Metro	transitType	Rapid transit
+Rio de Janeiro Metro	transitType	Rapid transit
+Daejeon Metro Line 1	transitType	Rapid transit
+Tranz Metro	transitType	Regional rail
+Namma Metro	transitType	Rapid transit
+Fukuoka City Subway	transitType	Rapid transit
+Green Line	transitType	Light rail
+Helsinki tram	transitType	Tram
+Trams in Oslo	transitType	Tram
+Multi-Modal Transport System	transitType	Commuter rail
+Guadalajara light rail system	transitType	Light rail
+Guadalajara light rail system	transitType	Rapid transit
+Daegu Metro	transitType	Rapid transit and Monorail
+Chiba Urban Monorail	transitType	Monorail
+Rapid KL	transitType	* Rapid transit - LRT\n* Monorail\n* Bus rapid transit \n* Stage Bus & Feeder Bus
+Zagrebački električni tramvaj	transitType	Tram
+Zagrebački električni tramvaj	transitType	Bus
+Zagrebački električni tramvaj	transitType	Funicular
+Zagrebački električni tramvaj	transitType	Gondola lift
+Geary Street, Park and Ocean Railway	transitType	Cable car
+Big South Fork Scenic Railway	transitType	Heritage railway
+Regional Transportation Authority	transitType	Commuter rail
+Regional Transportation Authority	transitType	Bus
+Regional Transportation Authority	transitType	Rapid transit
+Streetcars in Washington, D.C.	transitType	Streetcar
+Sentosa Express	transitType	Straddle-beam monorail
+Jakarta Monorail	transitType	Monorail
+Nockebybanan	transitType	Light rail
+Nockebybanan	transitType	Tram
+Stockholm commuter rail	transitType	Commuter rail
+Thessaloniki Metro	transitType	Rapid transit
+Thessaloniki Metro	transitType	Medium-capacity rail transport system
+Gothenburg commuter rail	transitType	Commuter rail
+Regional Transportation District	transitType	Bus, light rail, and commuter rail
+Metro Transit	transitType	Light rail
+Metro Transit	transitType	Bus
+Metro Transit	transitType	Express bus service
+Metro Transit	transitType	Paratransit
+Express Rail Link	transitType	Airport rail link
+Brasília Metro	transitType	Rapid transit
+Catania Metro	transitType	Rapid transit
+Catania Metro	transitType	Medium-capacity rail transport system
+Novosibirsk Metro	transitType	Rapid transit
+TransJakarta	transitType	Bus rapid transit
+Los Teques Metro	transitType	Rapid transit
+Alicante Tram	transitType	Tram
+Alicante Tram	transitType	Tram-train
+Alicante Tram	transitType	Commuter rail
+Los Angeles Railway	transitType	Streetcar
+Baltimore Light Rail	transitType	Light rail
+Chennai Metro	transitType	Rapid Transit
+Samara Metro	transitType	Rapid transit
+Cercanías	transitType	Commuter rail
+Roosevelt Island Operating Corporation	transitType	Local bus, Aerial Tramway
+Transdev Auckland	transitType	Regional rail
+Frankfurt U-Bahn	transitType	Rapid transit
+Frankfurt U-Bahn	transitType	Light rail
+Kazan Metro	transitType	Rapid transit
+The Woods Hole, Martha's Vineyard and Nantucket Steamship Authority	transitType	Ferry
+Chongqing Rail Transit	transitType	rapid transit
+Chongqing Rail Transit	transitType	straddle-beam monorail
+Gothenburg tram network	transitType	Tram
+Biotren	transitType	Commuter rail
+Rhine-Ruhr S-Bahn	transitType	Commuter rail
+Cercanías Madrid	transitType	Commuter rail
+Music City Star	transitType	Commuter rail
+Turin Metro	transitType	Rapid transit
+Nuremberg U-Bahn	transitType	Rapid transit
+Medellín Metro	transitType	Rapid transit
+Masivo Integrado de Occidente	transitType	Bus rapid transit
+Sendai Subway	transitType	Rapid transit
+Tramways in Île-de-France	transitType	Light rail
+Tramways in Île-de-France	transitType	Tram
+Minsk Metro	transitType	Rapid transit
+Dnipropetrovsk Metro	transitType	Rapid transit
+Kryvyi Rih Metrotram	transitType	Light rail
+Yerevan Metro	transitType	Rapid transit
+Link light rail	transitType	Light rail
+Las Colinas APT System	transitType	People mover
+Naples Metro	transitType	Rapid transit
+Kolkata Suburban Railway	transitType	Commuter rail
+Oradea Transport Local	transitType	Autobus
+Oradea Transport Local	transitType	Tram
+Ferrocarril Suburbano de la Zona Metropolitana del Valle de México	transitType	Suburban rail
+FrontRunner	transitType	Commuter rail in North America
+Purple Line	transitType	Heavy rail
+Capital MetroRail	transitType	Commuter rail
+Cercanías Málaga	transitType	Commuter rail
+Baku Metro	transitType	Rapid transit
+Bremen S-Bahn	transitType	S-Bahn
+TER Haute-Normandie	transitType	Transport express régional
+Transportation in Toronto	transitType	Rapid transit, commuter rail, buses, private automobile, ferry, Taxicab, bicycle, pedestrian
+Streetcars in Kenosha, Wisconsin	transitType	Heritage streetcar
+Rotterdam Metro	transitType	Rapid transit and light rail
+Yekaterinburg Metro	transitType	Rapid transit
+Falls Incline Railway	transitType	Funicular
+Hanover Stadtbahn	transitType	Light rail
+Nanjing Metro	transitType	Rapid transit
+Hanover S-Bahn	transitType	Commuter rail
+Mississauga Transitway	transitType	Bus rapid transit
+Busan Metro	transitType	Rapid transit
+Hong Kong International Airport Automated People Mover	transitType	People mover
+Bordeaux tramway	transitType	Light rail
+Bordeaux tramway	transitType	Tram
+Ho Chi Minh City Metro	transitType	Rapid transit
+North County Transit District	transitType	Multi-Modal regional transit network consisting of:
+North County Transit District	transitType	* Bus\n* Light rail\n* Commuter rail\n* Paratransit
+Lille Metro	transitType	Rapid transit
+Overground Network	transitType	Pilot umbrella brand for multiple commuter rail services
+London Overground	transitType	Suburban rail
+London Overground	transitType	Commuter rail
+Bursaray	transitType	Rapid transit
+Edmonton Light Rail Transit	transitType	Light rail
+Le Havre tramway	transitType	Tram
+Grenoble tramway	transitType	Tram
+San Joaquin Regional Transit District	transitType	Bus
+Buses in Sydney	transitType	Bus
+Buses in Sydney	transitType	Bus rapid transit
+Cercanías Asturias	transitType	Commuter rail
+Rouen tramway	transitType	Tram
+Nantes tramway	transitType	Tram
+Nizhny Novgorod Metro	transitType	Rapid transit
+Funiculaire du Havre	transitType	Funicular
+Trams in Lviv	transitType	Tram
+Valenciennes tramway	transitType	Tram
+Karachi Circular Railway	transitType	Commuter rail
+Rede Integrada de Transporte	transitType	Bus Rapid Transit
+Metrovalencia	transitType	Rapid transit
+Metrovalencia	transitType	Medium-capacity rail transport system
+Metrovalencia	transitType	Tram
+Cercanías Bilbao	transitType	Commuter rail
+Cologne Stadtbahn	transitType	Light rail /Tram
+Stuttgart S-Bahn	transitType	S-train
+Caen Guided Light Transit	transitType	GLT/TVR, a type of guided bus
+Stuttgart Stadtbahn	transitType	Light rail
+NightRide	transitType	Bus
+Nice tramway	transitType	Light rail
+Nice tramway	transitType	Tram
+Vienna S-Bahn	transitType	S-Bahn
+Jerusalem Light Rail	transitType	Tram
+Trams in Prague	transitType	Tramway
+Maracaibo Metro	transitType	Rapid transit
+Sentosa Monorail	transitType	Straddle-beam monorail
+G:link	transitType	Light rail
+Cross River Tram	transitType	Tram
+Istanbul Metro	transitType	Rapid transit
+West London Tram	transitType	Tram
+Marseille tramway	transitType	Tram
+Omsk Metro	transitType	Rapid Transit
+Omsk Metro	transitType	Light metro
+Metronit	transitType	Bus rapid transit
+Optibus	transitType	Bus rapid transit
+Maharashtra State Road Transport Corporation	transitType	Intercity bus service within State of Maharashtra and selected cities neighbouring states
+Maharashtra State Road Transport Corporation	transitType	Local bus service in selected cities
+Transportation in New York	transitType	Rapid transit, commuter rail, buses, private automobile, ferry, Taxicab, bicycle, pedestrian
+Vélo'v	transitType	Bicycle sharing system
+Nuremberg S-Bahn	transitType	Rapid Transit
+Nuremberg S-Bahn	transitType	Regional rail
+Metrorail Western Cape	transitType	Commuter rail
+Metro Transit	transitType	Bus service
+Metro Transit	transitType	Para transit
+Pittsburgh Light Rail	transitType	Rapid transit
+Pittsburgh Light Rail	transitType	Light rail
+Dorfbahn Serfaus	transitType	Funicular
+Genoa Metro	transitType	Rapid transit
+Dresden S-Bahn	transitType	Commuter Rail
+Marseille Metro	transitType	Rapid transit
+Toulouse Metro	transitType	Rapid transit
+Charleroi Metro	transitType	Premetro
+Charleroi Metro	transitType	Light rail
+Ftrmetro Swansea	transitType	Bus Rapid Transit
+San Diego Metropolitan Transit System	transitType	Multi-Modal regional transit
+San Diego Metropolitan Transit System	transitType	network consisting of:
+San Diego Metropolitan Transit System	transitType	* Buses\n* Bus Rapid Transit (BRT)\n* Light Rail (LRT)\n* Commuter Rail (CRT)\n* Paratransit\n* Streetcar
+Trams in Alexandria	transitType	Tram
+Memphis Suspension Railway	transitType	Suspension railway
+Belgrade Metro	transitType	Rapid transit
+Macau Light Rail Transit	transitType	Rapid transit
+Montreal Metro	transitType	Rapid transit
+Santo Domingo Metro	transitType	Rapid transit
+Nagoya Municipal Subway	transitType	Rapid Transit
+Rapid bus routes in Sydney	transitType	Bus
+Rapid bus routes in Sydney	transitType	Bus rapid transit
+Chelyabinsk Metro	transitType	Rapid Transit
+Chennai Suburban Railway	transitType	Commuter rail
+Saint-Étienne tramway	transitType	Tram
+RTD Bus & Rail	transitType	Bus
+RTD Bus & Rail	transitType	Commuter rail
+RTD Bus & Rail	transitType	Light rail
+Trondheim Tramway	transitType	Tramway
+Indore City Bus	transitType	Transit bus
+Philadelphia Transportation Company	transitType	* Rapid transit\n* Trolley/Streetcar\n* Motor bus\n* Trolley bus
+Trøndelag Commuter Rail	transitType	Commuter rail
+Lausanne Metro	transitType	Light rail
+Lausanne Metro	transitType	Rapid transit
+Tashkent Metro	transitType	Rapid transit
+Valparaíso Metro	transitType	Rapid transit
+Valparaíso Metro	transitType	Light rail
+Trolleybuses in Drammen	transitType	Trolleybus
+Trolleybuses in Stavanger	transitType	Trolleybus
+Trolleybuses in Oslo	transitType	Trolleybus
+Bergen Light Rail	transitType	Light rail
+Bonn Stadtbahn	transitType	Light rail
+OYBike	transitType	Bicycle sharing system
+Hyderabad Metro Rail	transitType	Rapid transit
+Pune Bus Rapid Transit	transitType	Rapid transit
+Transmetro	transitType	Bus rapid transit
+Taichung Metro	transitType	Rapid transit
+Taichung Metro	transitType	Bus Rapid Transit
+Taichung Metro	transitType	Light Rail
+Hangzhou Metro	transitType	Rapid transit
+Chengdu Metro	transitType	Rapid transit
+Valencia Metro	transitType	Rapid transit
+Valencia Metro	transitType	Medium-capacity rail transport system
+San Juan-Caguas Rail	transitType	Railcar
+Daejeon Metro	transitType	Rapid transit
+Bielefeld Stadtbahn	transitType	Light rail
+Transport in Manchester	transitType	Buses, car, cycling, airport, commuter rail, tram, tram-train, high speed rail
+National Motor Museum Monorail	transitType	straddle-beam monorail
+Los Angeles Metropolitan Transit Authority	transitType	Streetcar
+Los Angeles Metropolitan Transit Authority	transitType	Interurban
+Los Angeles Metropolitan Transit Authority	transitType	Bus
+Los Angeles Metropolitan Transit Authority	transitType	Bus rapid transit
+Jurong Bird Park Panorail	transitType	straddle-beam monorail
+Tenerife Tram	transitType	Tram
+Trams in Pyongyang	transitType	Tram
+Ion rapid transit	transitType	Light rail
+Ion rapid transit	transitType	Bus rapid transit
+Minneapolis Streetcar System	transitType	Tram
+MBTA Subway	transitType	rapid transit: heavy rail, light rail, and bus rapid transit
+Narita Airport Terminal 2 Shuttle System	transitType	People mover
+Emsland test facility	transitType	Maglev
+Trieste–Opicina tramway	transitType	Hybrid tram / funicular
+Wing Shuttle	transitType	People mover
+Palma Metro	transitType	Rapid transit
+Palma Metro	transitType	Medium-capacity rail transport system
+CP Urban Services	transitType	Commuter rail
+Rapid Rail	transitType	Rapid transit
+Strasbourg tramway	transitType	Tram
+Lyon tramway	transitType	Light rail
+Lyon tramway	transitType	Tram
+Transportation in Arizona	transitType	Rapid transit, commuter rail, buses, private automobile, taxicab, bicycle, pedestrian
+Cambridgeshire Guided Busway	transitType	Guided busway
+Shenyang Metro	transitType	Rapid transit
+Trolleybuses in Mérida	transitType	Trolleybus
+Santa Clara Valley Transportation Authority light rail	transitType	Light rail
+Karlsruhe Stadtbahn	transitType	Light rail
+Vélib'	transitType	Bicycle sharing system
+Bicing	transitType	Bicycle sharing system
+Changchun Rail Transit	transitType	Rapid transit
+Changchun Rail Transit	transitType	Light rail
+Volgograd Metrotram	transitType	Light rail
+Swift Bus Rapid Transit	transitType	Bus rapid transit
+Trams in Poznań	transitType	Tram
+Montreal and Southern Counties Railway	transitType	Interurban
+Montreal and Southern Counties Railway	transitType	Streetcar
+Genting Monorail	transitType	straddle-beam monorail .
+Las Vegas Transit	transitType	Bus
+Fortaleza Metro	transitType	Commuter rail
+Bangkok Mass Transit Authority	transitType	Service metro bus in Bangkok and boundary province
+Algiers Metro	transitType	Rapid transit
+Carris	transitType	Bus
+Carris	transitType	Tram
+Shiraz Metro	transitType	Rapid transit
+Vilnius Metro	transitType	Rapid transit
+SRT Red Lines	transitType	Commuter rail
+Lahore Metro	transitType	Rapid transit
+Sochi Light Metro	transitType	Medium capacity system
+İzmir Metro	transitType	Rapid Transit
+Sunway Monorail	transitType	straddle-beam monorail .
+Porto Alegre Metro	transitType	Rapid transit
+Almaty Metro	transitType	Rapid transit
+Aurora, Elgin and Fox River Electric Company	transitType	Interurban
+Aurora, Elgin and Fox River Electric Company	transitType	streetcar
+Belo Horizonte Metro	transitType	Rapid transit
+Recife Metro	transitType	Rapid transit
+Teresina Metro	transitType	Commuter rail
+Toulouse tramway	transitType	Tram
+KA Commuter Jabodetabek	transitType	Commuter rail
+Reims tramway	transitType	Tram
+Transperth Trains	transitType	Commuter Rail
+Trams in Norrköping	transitType	Tram
+Xi'an Metro	transitType	Rapid transit
+Bergen Tramway	transitType	Tramway
+Patiala State Monorail Trainways	transitType	Monorail
+Métro léger de Tunis	transitType	Light rail
+M1	transitType	Medium-capacity rail transport system
+Metrobus	transitType	Bus rapid transit
+Montpellier tramway	transitType	Tram
+Dalian Metro	transitType	Rapid transit
+Metrovia	transitType	Bus Rapid Transit
+SuperVia	transitType	Commuter rail
+Nantes Busway	transitType	Bus rapid transit
+Mumbai Monorail	transitType	Straddle-beam monorail
+Oslo Commuter Rail	transitType	Commuter rail
+Bergen Commuter Rail	transitType	Commuter rail
+Brescia Metro	transitType	Rapid transit
+Chennai BRTS	transitType	Elevated Bus rapid transit
+Kochi Metro	transitType	Rapid transit
+Jakarta Mass Rapid Transit	transitType	Rapid transit
+Córdoba Metro	transitType	Rapid transit
+Trolleybuses in Arnhem	transitType	Trolleybus
+Lagos Rail Mass Transit	transitType	Rapid Transit
+Transportation in Georgia	transitType	Rapid transit, commuter rail, buses, private automobile, Taxicab, bicycle, pedestrian, ferries
+Bochum Stadtbahn	transitType	Light rail
+Ahmedabad BRTS	transitType	Bus rapid transit
+Düsseldorf Stadtbahn	transitType	Light rail
+MetroMoves	transitType	Rapid transit
+Stansted Airport Transit System	transitType	People mover
+Trams in Turku	transitType	Tramway
+Bogotá Metro	transitType	Rapid transit
+Guangzhou–Shenzhen–Hong Kong Express Rail Link Hong Kong section	transitType	Passenger high-speed rail
+Beijing Suburban Railway	transitType	Commuter rail
+Pune Metro	transitType	Rapid Transit
+Lille tramway	transitType	Tram
+Suzhou Rail Transit	transitType	Rapid transit
+Palm Jumeirah Monorail	transitType	straddle-beam monorail
+Málaga Metro	transitType	Rapid transit
+Málaga Metro	transitType	Medium-capacity rail transport system
+Pasig River Ferry Service	transitType	Water bus
+Local bus routes in Sydney	transitType	Bus
+Al Bidaoui	transitType	Rapid transit
+Happy Line	transitType	straddle-beam monorail
+Window of the World Monorail	transitType	Monorail
+Miami Seaquarium Spacerail	transitType	Monorail
+Taedok Science Town Monorail	transitType	straddle-beam monorail
+Delhi Suburban Railway	transitType	Commuter rail
+Bergen's Electric Tramway	transitType	Heritage streetcar
+Rostov Metro	transitType	Rapid transit
+Metrobus	transitType	Bus rapid transit
+Indiana University Health People Mover	transitType	People mover
+Fashion Island	transitType	Monorail
+Chiang Mai Zoo	transitType	straddle-beam monorail
+Bangalore Monorail	transitType	straddle-beam Monorail
+Bangalore BRTS	transitType	Rapid transit
+Bangalore Commuter Rail	transitType	Commuter rail
+Line 2	transitType	Commuter rail
+Trams in Warsaw	transitType	Tram
+Angers tramway	transitType	Tram
+Baghdad Metro	transitType	Commuter rail
+DC Streetcar	transitType	Tram
+Esko Moravian-Silesian Region	transitType	Commuter rail
+Xiamen BRT	transitType	Elevated Bus rapid transit
+Căile Ferate Române Line 700	transitType	Passenger
+Căile Ferate Române Line 700	transitType	Cargo
+Căile Ferate Române Line 600	transitType	Passenger
+Căile Ferate Române Line 600	transitType	Cargo
+Căile Ferate Române Line 500	transitType	Passenger
+Căile Ferate Române Line 500	transitType	Cargo
+Căile Ferate Române Line 800	transitType	Passenger
+Căile Ferate Române Line 800	transitType	Cargo
+Căile Ferate Române Line 900	transitType	Passenger
+Căile Ferate Române Line 900	transitType	Cargo
+Vought Airtrans	transitType	People mover
+Taoyuan Metro	transitType	Rapid transit
+SunRail	transitType	Commuter rail
+Metro Transportes do Sul	transitType	Light rail
+Yangon Circular Railway	transitType	Commuter rail
+Brussels Intercommunal Transport Company	transitType	Tram, Bus and Metro
+Mumbai BRTS	transitType	Bus rapid transit
+Jæren Commuter Rail	transitType	Commuter rail
+Rhônexpress	transitType	Tram
+Rhônexpress	transitType	Express train
+Zhengzhou Metro	transitType	Rapid transit
+Chennai RBTW	transitType	Rapid transit
+Chennai Monorail	transitType	straddle-beam Monorail
+Chandigarh Metro	transitType	Rapid Transit
+Kolkata LRTS	transitType	Rapid transit
+Empresa Metropolitana de Servicios y Administración del Transporte	transitType	Bus rapid transit
+Kolkata Monorail	transitType	straddle-beam Monorail
+Hyderabad BRTS	transitType	Rapid transit
+Transportation in Alabama	transitType	Rapid transit, commuter rail, buses, private automobile, Taxicab, bicycle, pedestrian
+Transportation in Connecticut	transitType	Rapid transit, commuter rail, buses, private automobile, Taxicab, bicycle, pedestrian
+Transportation in Hawaii	transitType	Rapid transit, commuter rail, buses, private automobile, Taxicab, bicycle, pedestrian
+Rajkot BRTS	transitType	Bus rapid transit
+Lucknow Metro	transitType	Rapid transit
+Skymetro	transitType	People mover
+Mumbai Skywalk Project	transitType	Footbridge
+Cincinnati Bell Connector	transitType	Tram
+Trams in Munich	transitType	Tram
+Palermo metropolitan railway service	transitType	Commuter rail
+Harbin Metro	transitType	Rapid transit
+Transport Est-Ouest Rouennais	transitType	Bus rapid transit
+Kanpur Metro	transitType	Rapid transit
+Coimbatore BRTS	transitType	Rapid transit
+Madurai BRTS	transitType	Rapid transit
+Indore BRTS	transitType	Rapid transit
+Edmonton Radial Railway	transitType	Tram
+Tramways in Ozorków	transitType	Tram
+Tramways in Pabianice	transitType	Tram
+Tramways in Grudziądz	transitType	Tram
+Trams in Gorzów Wielkopolski	transitType	Tram
+Trams in Elbląg	transitType	Tram
+Trams in Częstochowa	transitType	Tram
+Trams in Bielsko-Biała	transitType	Tram
+Metrotranvía Mendoza	transitType	Light rail
+Metro-Link Express for Gandhinagar and Ahmedabad	transitType	Rapid transit
+Whitehorse Waterfront Trolley	transitType	Heritage streetcar, seasonal
+Trams in Zagreb	transitType	Tramway
+Salvador Metro	transitType	Rapid transit
+Qingdao Metro	transitType	Rapid transit
+Trams in Łódź	transitType	Tram
+Trams in Belgrade	transitType	Tram
+Trams in Osijek	transitType	Tram
+Trams in Dubrovnik	transitType	Tram
+Kundala Valley Railway	transitType	Monorail
+Kundala Valley Railway	transitType	narrow gauge railway
+Trams in Opatija	transitType	Tram
+Trams in Pula	transitType	Tram
+Metrosassari	transitType	Tram
+Duke University Medical Center Patient Rapid Transit	transitType	People mover
+Kanpur Metropolitan Bus Service	transitType	Rapid transit
+Surat BRTS	transitType	Rapid transit
+MEMU	transitType	Rapid Transit
+BikeMi	transitType	Bicycle sharing system
+Metro Ligero	transitType	Light rail/Tramway
+St. Clair County Transit District	transitType	Light rail
+St. Clair County Transit District	transitType	Bus
+St. Clair County Transit District	transitType	Express bus service
+Jetrail	transitType	Monorail
+Seattle Streetcar	transitType	Modern low-floor streetcar
+Istanbul Tram	transitType	Tram
+Istanbul nostalgic tramways	transitType	Heritage streetcar
+Jaipur Metro	transitType	Rapid Transit
+Trams in Rijeka	transitType	Tram
+FL lines	transitType	Commuter rail
+Guangzhou–Shenzhen–Hong Kong Express Rail Link	transitType	Passenger high-speed rail
+Visakhapatnam BRTS	transitType	Rapid transit
+Huntsville Hospital Tram System	transitType	People mover
+Harbour Island People Mover	transitType	People mover
+Zagreb Commuter Rail	transitType	Commuter rail
+Zagreb Commuter Rail	transitType	Rapid transit
+Trams in Niš	transitType	Tram
+Delhi Monorail	transitType	straddle-beam Monorail
+Atlanta Streetcar	transitType	Tram
+Carowinds Monorail	transitType	straddle-beam Monorail
+Trams in Bydgoszcz	transitType	Tram
+Damascus Metro	transitType	Rapid transit
+Tyrol S-Bahn	transitType	S-Bahn
+Trams in Gdańsk	transitType	Tram
+Basel Regional S-Bahn	transitType	S-Bahn
+Hefei Metro	transitType	Rapid transit
+Orléans tramway	transitType	Tram
+Mecca Metro	transitType	Rapid transit
+High Level Bridge Streetcar	transitType	Heritage streetcar
+Le Mans tramway	transitType	Tram
+Mulhouse tramway	transitType	Tram and Tram-train
+Bangkok BRT	transitType	Bus rapid transit
+Nancy Guided Light Transit	transitType	Guided bus
+Nancy Guided Light Transit	transitType	Dual-mode bus
+Nancy Guided Light Transit	transitType	Trolleybus
+Dublinbikes	transitType	Bicycle sharing system
+Ningbo Rail Transit	transitType	Rapid transit
+Wirral Tramway	transitType	Trams
+Wirral Tramway	transitType	Light Rail
+Trams in Novi Sad	transitType	Tram
+Venice People Mover	transitType	People mover
+Bus transport in Berlin	transitType	Bus
+Ferry transport in Berlin	transitType	Ferry
+Trams in Subotica	transitType	Tram
+Mass Rapid Transit Master Plan in Bangkok Metropolitan Region	transitType	Heavy rail, light rail, monorail, and commuter rail
+Servicio de Transportes Eléctricos	transitType	Trolleybus
+Servicio de Transportes Eléctricos	transitType	Light rail
+Rodalies de Catalunya	transitType	Commuter rail
+Rodalies de Catalunya	transitType	Regional rail
+Adana Metro	transitType	Rapid transit
+Adana Metro	transitType	Medium-capacity rail transport system
+Stoke Streetcar	transitType	Bus Rapid Transit
+Transportation in Visalia	transitType	Buses, private automobile, airplane, taxicab, bicycle, pedestrian
+RATP Iași	transitType	Tram
+RATP Iași	transitType	Bus
+Santander Cycles	transitType	Bicycle sharing system
+Kunming Rail Transit	transitType	Rapid Transit
+Saltburn Cliff Lift	transitType	Funicular railway
+M1	transitType	Rapid transit
+Metrorail KwaZulu-Natal	transitType	Commuter rail
+Trams in Sarajevo	transitType	Tram
+Al Mashaaer Al Mugaddassah Metro Southern Line	transitType	Rapid transit
+Metrorail Eastern Cape	transitType	Commuter rail
+Navi Mumbai Metro	transitType	Rapid transit
+Bristol Supertram	transitType	Light rail
+Nice Ride Minnesota	transitType	Bicycle sharing system
+Mass Rapid Transit	transitType	Rapid transit
+Trans Jogja	transitType	Bus rapid transit
+Rail transport in İzmir	transitType	Commuter Rail
+Rail transport in İzmir	transitType	Rapid transit
+Rail transport in İzmir	transitType	Inter-city rail
+Barranquilla's Transmetro	transitType	Bus rapid transit
+DART Light Rail	transitType	Light rail
+Metrorail Gauteng	transitType	Commuter rail
+Dortmund Stadtbahn	transitType	Flexity Classic, B80C/6, B80C/8, B100S, N6C
+Los Angeles Metro Busway	transitType	Bus rapid transit
+Transport in Lahore	transitType	Rapid transit
+Navi Mumbai Monorail	transitType	straddle-beam Monorail
+Pune Monorail	transitType	straddle-beam Monorail
+Capital Bikeshare	transitType	Bicycle sharing system
+Kopaja	transitType	Minibus
+FMetro	transitType	Rapid transit
+El Metropolitano	transitType	Bus rapid transit
+Pune Suburban Railway	transitType	Commuter rail
+Guangzhou Bus Rapid Transit	transitType	Bus rapid transit
+Panama Metro	transitType	Rapid transit
+Brussels Regional Express Network	transitType	S-Bahn
+Mashhad Urban Railway	transitType	Rapid transit
+Kiev Light Rail	transitType	Light rail
+Kiev Light Rail	transitType	Tram
+TransJakarta Corridors	transitType	Bus rapid transit
+Patna Monorail	transitType	straddle-beam Monorail
+Ahmedabad Monorail	transitType	Monorail
+Ludhiana Metro	transitType	Rapid transit
+Nelson Electric Tramway	transitType	Heritage streetcar, seasonal
+Bhopal Metro	transitType	Light metro
+Trams in Teschen	transitType	Tram
+Viceroy Special	transitType	inter-city rail charter
+Cebu Bus Rapid Transit System	transitType	Bus rapid transit
+Kanpur Monorail	transitType	Monorail
+Trams in Greater Cairo	transitType	Tram
+Hanoi Metro	transitType	Rapid transit
+Sapporo Municipal Subway	transitType	Rubber-tyred metro
+Jaén Tram	transitType	Tram
+Delhi Metro	transitType	Rapid transit / Metro
+Esko Prague	transitType	Commuter rail
+Trolleybuses in Valparaíso	transitType	Trolleybus
+Hangzhou BRT	transitType	Bus rapid transit
+Bakersfield and Kern Electric Railway	transitType	Tram
+Bakersfield and Kern Electric Railway	transitType	Bus
+Indore Metro	transitType	Light metro
+Algiers tramway	transitType	Tram
+Kolkata BRTS	transitType	Bus rapid transit
+Trailblazer	transitType	Monorail
+Rabat-Salé tramway	transitType	Tram
+Dhaka Metro	transitType	Rapid transit
+Hubway	transitType	Bicycle sharing system
+Taoyuan International Airport Skytrain	transitType	People mover
+Metrobus	transitType	Bus Rapid Transit
+Dongguan Rail Transit	transitType	Rapid transit
+Transportation in Las Vegas	transitType	buses, private automobile, Taxicab, airport, pedestrian, monorail,  intercity rail,  rapid transit,  commuter rail
+Milan suburban railway service	transitType	Commuter rail
+Bixi Montreal	transitType	Bicycle sharing system
+Accra monorail	transitType	Monorail
+Patna Metro	transitType	Rapid Transit
+Indore Monorail	transitType	straddle-beam Monorail
+Trams in Florence	transitType	Tram
+Kozhikode Light Metro	transitType	Rapid transit
+Changsha Metro	transitType	Rapid transit
+Guiyang Urban Rail Transit	transitType	Rapid transit
+Fuzhou Metro	transitType	Rapid transit
+Wuxi Metro	transitType	Rapid transit
+Nanchang Metro	transitType	Rapid transit
+EsTram	transitType	Tram
+Nagpur Metro	transitType	Rapid transit
+Melbourne Bike Share	transitType	Bicycle sharing system
+Chur S-Bahn	transitType	S-Bahn
+Delhi Light Rail Transit	transitType	Rapid transit
+Hangzhou Public Bicycle	transitType	Bicycle sharing system
+Rostock S-Bahn	transitType	S-train
+Ürümqi Metro	transitType	Rapid transit
+Transportation in Atlanta	transitType	Rapid transit, commuter rail, buses, private automobile, Streetcars, Light rail, Taxicab, bicycle, pedestrian
+Transportation in Oregon	transitType	Rapid transit, commuter rail, buses, private automobile, Taxicab, bicycle, pedestrian, ferries
+Ürümqi BRT	transitType	Bus rapid transit
+Aizawl Monorail	transitType	Monorail
+Bari metropolitan railway service	transitType	Commuter rail
+T4	transitType	Tram
+BLAST network	transitType	Light rail
+Public buses in Sofia	transitType	Bus
+Citi Bike	transitType	Bicycle sharing system
+Hasselt – Maastricht tramway	transitType	Fast tram
+Hasselt – Maastricht tramway	transitType	Light rail
+S-Bahn Mitteldeutschland	transitType	Rapid Transit
+S-Bahn Mitteldeutschland	transitType	Regional rail
+ToBike	transitType	Bicycle sharing system
+Dijon tramway	transitType	Tram
+Brest tramway	transitType	Tram
+Lahore Metrobus	transitType	Bus rapid transit
+Rete celere del Canton Ticino	transitType	Commuter rail
+Riyadh Metro	transitType	Rapid transit
+Surat Metro	transitType	Rapid transit
+Veturilo	transitType	Bicycle sharing system
+Coimbatore Monorail	transitType	straddle-beam Monorail
+Metro Area Express	transitType	Light rail
+Rapid MetroRail Gurgaon	transitType	Rapid transit
+Metro	transitType	Light rail  and Bus rapid transit
+Metro Donostialdea	transitType	Rapid transit
+MetroMini	transitType	Minibus
+Bern S-Bahn	transitType	S-Bahn
+Lucerne S-Bahn	transitType	S-Bahn
+Zug Stadtbahn	transitType	S-Bahn
+Aargau S-Bahn	transitType	S-Bahn
+Ida Bay Railway	transitType	Tramway
+Turin metropolitan railway service	transitType	Commuter rail
+Sandfly Colliery Tramway	transitType	Tramway
+Guwahati Metro	transitType	Rapid transit
+Bhubaneswar City Bus	transitType	Transit bus
+KC Streetcar	transitType	Streetcar
+Salzburg S-Bahn	transitType	S-Bahn
+Sydney Trains	transitType	Suburban rail
+Havana Suburban Railway	transitType	Commuter rail
+Havana Suburban Railway	transitType	Rapid transit
+Leigh-Salford-Manchester Bus Rapid Transit	transitType	Guided busway and Bus rapid transit
+Capital Metro, Canberra	transitType	Light rail
+Riverline	transitType	Light rail
+Capital Bixi	transitType	Bicycle sharing system
+Bhopal BRTS	transitType	Bus rapid transit
+Suzhou BRT	transitType	Bus rapid transit
+Genoa urban railway service	transitType	Commuter rail
+Beijing Capital International Airport Terminal 3 People mover	transitType	People mover
+Havana MetroBus	transitType	Bus
+Kabataş–Taksim funicular	transitType	Rapid transit
+Divvy	transitType	Bicycle sharing system
+Jeddah Metro	transitType	Rapid transit
+Doha Metro	transitType	Rapid transit
+Oran Tramway	transitType	Tram
+Houston B-cycle	transitType	Bicycle sharing system
+Saarbahn	transitType	Stadtbahn
+Saarbahn	transitType	Tram-train
+Sydney Metro	transitType	Rapid transit
+Indego	transitType	Bicycle sharing system
+San Antonio B-Cycle	transitType	Bicycle sharing system
+BRT Sunway Line	transitType	Bus rapid transit
+Gwangju Metro	transitType	Rapid transit
+Bologna metropolitan railway service	transitType	Commuter rail
+Cagliari light rail	transitType	Light rail
+Nanning Rail Transit	transitType	Rapid Transit
+Lanzhou Metro	transitType	Rapid Transit
+Trams in Kolkata	transitType	Tram
+Bergamo–Albino light rail	transitType	Light rail
+Parla Tram	transitType	Tram
+Transportation in Montana	transitType	Rapid transit, commuter rail, buses, private automobile, taxicab, bicycle, pedestrian, highways
+Östgötapendeln	transitType	Commuter rail
+Addis Ababa Light Rail	transitType	Light rail
+Peshawar Metrobus	transitType	Rapid transit
+Cabletren Bolivariano	transitType	Automated people mover
+BusCaracas	transitType	Bus rapid transit
+Quito Metro	transitType	Rapid transit
+Bareilly Metro	transitType	Rapid transit
+Ulaanbaatar Metro	transitType	Rapid transit
+Bay Area Bike Share	transitType	Bicycle sharing system
+Bihar State Road Transport Corporation	transitType	Intercity bus service within State of Bihar and selected cities neighbouring states
+Bihar State Road Transport Corporation	transitType	Local bus service in selected cities
+Regional Transit Authority of Southeast Michigan	transitType	Transit bus
+Regional Transit Authority of Southeast Michigan	transitType	Express bus service
+Regional Transit Authority of Southeast Michigan	transitType	Bus rapid transit
+Regional Transit Authority of Southeast Michigan	transitType	Commuter rail
+Hubli-Dharwad BRTS	transitType	Bus rapid transit
+Aarhus Commuter Rail	transitType	Commuter rail
+Noida-Greater Noida Metro	transitType	Rapid Transit
+M6	transitType	Medium-capacity rail transport system
+Dar es Salaam commuter rail	transitType	Commuter rail
+Dar es Salaam bus rapid transit	transitType	Bus rapid transit
+Essen Stadtbahn	transitType	Light rail
+Lavalin Skytrain	transitType	Rapid transit
+Greater Bangkok Commuter rail	transitType	Commuter rail
+Tiruchirappalli Monorail	transitType	Monorail
+Jinan Metro	transitType	Rapid transit
+Shijiazhuang Metro	transitType	Rapid transit
+Xiamen Metro	transitType	Rapid transit
+Allahabad Monorail	transitType	Monorail
+Tiruchirappalli BRTS	transitType	Bus Rapid Transit
+Tiruchirappalli Bicycle Share	transitType	Bicycle sharing system
+Aalborg Commuter Rail	transitType	Commuter rail
+São Mateus–Jabaquara Metropolitan Corridor	transitType	Bus rapid transit
+Capital MetroRapid	transitType	Bus service
+Bike Share Toronto	transitType	Bicycle sharing system
+La Gazelle	transitType	Inter-city rail
+BuBi	transitType	Bicycle sharing system
+Erfurt Stadtbahn	transitType	Light rail
+Dalian Rail Transit	transitType	Tram
+Dalian Rail Transit	transitType	Light rail
+Dalian Rail Transit	transitType	Rapid transit
+Duisburg Stadtbahn	transitType	Light rail
+Cuiabá Light Rail	transitType	Light rail
+Isfahan Metro	transitType	Rapid transit
+Tabriz Metro	transitType	Rapid transit
+Bhubaneswar BRTS	transitType	Bus Rapid Transit
+Regia Autonomă de Transport Timișoara	transitType	Bus
+Regia Autonomă de Transport Timișoara	transitType	Trolleybus
+Regia Autonomă de Transport Timișoara	transitType	Tram
+Cariri Metro	transitType	Commuter rail
+Trams in Bursa	transitType	Tram
+Trams in Bursa	transitType	Heritage streetcar
+Cercanías Sevilla	transitType	Commuter rail
+Kassel RegioTram	transitType	Tram-train
+Clermont-Ferrand tramway	transitType	Translohr
+Multan Metrobus	transitType	Bus rapid transit
+Rawalpindi-Islamabad Metrobus	transitType	Bus rapid transit
+Karachi Metrobus	transitType	Bus rapid transit
+Vélez-Málaga Tram	transitType	Tram
+TfL Rail	transitType	Commuter rail
+St. Gallen S-Bahn	transitType	S-Bahn
+Red Bike	transitType	Bicycle sharing system
+Trans Sarbagita	transitType	Bus rapid transit
+Coliseum–Oakland International Airport line	transitType	Automated guideway transit
+Bhubaneswar Monorail	transitType	Straddle-beam monorail
+İsbike	transitType	Bicycle sharing system
+Guangzhou Trams	transitType	Rapid transit
+Poços de Caldas Monorail	transitType	Monorail
+Mi Teleférico	transitType	Gondola lift
+BRT	transitType	Bus rapid transit
+Night Tube	transitType	Rapid transit
+Naples metropolitan railway service	transitType	Commuter Rail
+Pronto Cycle Share	transitType	Bicycle sharing system
+Srinagar Metro	transitType	Rapid transit
+Trams in Zhuhai	transitType	Rapid transit
+Teleférico do Alemão	transitType	Gondola lift
+Rio de Janeiro Light Rail	transitType	Light rail
+Vijayawada Metro Rail	transitType	Rapid transit
+Teleférico da Providência	transitType	Gondola lift
+Visakhapatnam Metro	transitType	Rapid transit
+Taichung BRT Blue Line	transitType	Bus Rapid Transit
+Changsha Maglev	transitType	Magnetic levitation
+Réseau électrique métropolitain	transitType	Rapid transit
+Ahmedabad suburban railway	transitType	Suburban rail
+Transportation in Lagos	transitType	Rapid Transit
+Proastiakos Thessaloniki	transitType	Regional rail
+Madinah Metro	transitType	Rapid transit
+Sobi Hamilton	transitType	Bicycle sharing system
+Xuzhou Metro	transitType	Rapid transit
+Penang Rapid Transit	transitType	Rapid transit
+Changzhou Metro	transitType	Rapid transit
+Taiyuan Metro	transitType	Rapid transit
+BRT Federal Line	transitType	Bus rapid transit
+Dallas Streetcar	transitType	Tram
+Coca-Cola Zero Belfast Bikes	transitType	Bicycle sharing system
+Wenzhou Urban Railway	transitType	Commuter rail
+Valenbisi	transitType	Bicycle sharing system
+Red de Expresos Regionales	transitType	Rapid transit and Commuter rail
+Faisalabad Metrobus	transitType	Bus rapid transit
+List of rapid transit systems in Pakistan	transitType	Rapid transit
+Bus transport in Szczecin	transitType	Bus
+Consorcio Regional de Transportes de Madrid	transitType	Intermodal passenger transport consisting of Commuter rail, Rapid transit, Light rail, and Bus services.
+Empresa Municipal de Transportes de Madrid	transitType	Bus
+Trams in Tbilisi	transitType	Broad gauge
+Trams in Tbilisi	transitType	Tram
+Trams in Nizhny Novgorod	transitType	Tram
+Velobike	transitType	Bicycle sharing system
+Trams in Minsk	transitType	Tram
+Trams in Klagenfurt	transitType	2
+Rosario Tramway	transitType	Rapid transit
+Trams in Kaliningrad	transitType	Tram
+O-Train	transitType	Light rail
+Trams in Innsbruck	transitType	Tram
+Amritsar BRTS	transitType	Bus rapid transit
+Ludhiana BRTS	transitType	Bus rapid transit
+EcoBici	transitType	Bicycle-sharing system
+Trams in Besançon	transitType	Tram
+Gwalior Metro	transitType	Rapid transit
+Transport in Phnom Penh	transitType	Bus rapid transit
+Aarhus City Bikes	transitType	Bicycle sharing system
+Dundas Street BRT	transitType	Bus rapid transit
+Jabalpur Metro	transitType	Rapid transit
+Jakarta Light Rail Transit	transitType	Light rail transit
+Abidjan Metro	transitType	Rapid transit
+407 Transitway	transitType	Bus rapid transit
+Agra Metro	transitType	Rapid transit
+Trams in Malmö	transitType	Tram
+Phnom Penh City Bus	transitType	Bus rapid transit
+EnCicla	transitType	Bicycle-sharing system
+Transdev Wellington	transitType	Regional rail
+Yangon Tram	transitType	Light rail
+Yangon Tram	transitType	Tram
+Oran Metro	transitType	Rapid transit
+Hovedstadens Letbane	transitType	Light rail
+Suburban bus routes in Sydney	transitType	Bus
+Palembang Light Rail Transit	transitType	Light rail transit
+Benning Road Line	transitType	Tram
+Yangon BRT	transitType	Bus rapid transit
+Dumbarton Rail Corridor	transitType	Commuter rail
+Healthy Ride	transitType	Bicycle sharing system
+Ashgabat Monorail	transitType	Monorail
+Dammam Metro	transitType	Rapid transit
+Lanzhou BRT	transitType	Bus rapid transit
+Heilbronn Stadtbahn	transitType	Light rail
+Metrostar Ferry	transitType	Ferry
+Xi'an Monorail	transitType	straddle-beam monorail
+Santander Cycles MK	transitType	Bicycle sharing system
+Biketown	transitType	Bicycle-sharing system
+Mobi	transitType	Bicycle-sharing system
+T4	transitType	Tram
+T1	transitType	Tram
+Baotou Metro	transitType	Rapid transit
+Meerut Metro	transitType	Rapid transit
+Orange Line - Karachi Metrobus	transitType	Bus rapid transit
+Green Line - Karachi Metrobus	transitType	Bus rapid transit
+Mexicable	transitType	Cable car
+Khon Kaen Light Rail Transit	transitType	Light rail transit
+Integrated Public Transport System	transitType	* Bus\n* Bus Rapid Transit
+New York City Board of Transportation	transitType	Rapid transit
+New York City Board of Transportation	transitType	Elevated railway
+New York City Board of Transportation	transitType	Buses
+New York City Board of Transportation	transitType	Tram
+New York City Board of Transportation	transitType	Trolleybus

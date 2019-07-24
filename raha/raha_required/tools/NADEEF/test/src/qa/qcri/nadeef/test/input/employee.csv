@@ -1,0 +1,5 @@
+ID int,ManagerID int,Salary int,Tax int
+0,-1,190,37
+1,-1,290,85
+2,-1,140,22
+3,1,291,86

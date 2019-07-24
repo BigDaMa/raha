@@ -1,0 +1,28 @@
+
+<div>
+  <ul class="nav nav-tabs">
+    <% _.each(tabs, function(tab) { %>
+       <li id=<%= 'tab_' + tab.tag %>
+		 <% if (tab.isActive) { %> 
+		  class='active'
+		 <% } %>>
+         <a href="#<%= tab.tag %>"
+            data-toggle="tab">
+           <%= tab.head %>
+         </a>
+       </li>
+    <% }); %>
+  </ul>
+  <div class="tab-content">
+    <% _.each(tabs, function(tab) { %>
+    <div id="<%= tab.tag %>"
+	   <% if (tab.isActive) { %>
+	   class="tab-pane in active"
+	   <% } else { %> 
+	   class="tab-pane"
+	   <% } %>>
+      <svg style="height: 400px"></svg>
+    </div>
+    <% }); %>
+  </div>
+</div>          

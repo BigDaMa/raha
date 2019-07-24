@@ -1,0 +1,38 @@
+<div style="margin: 20px;">
+    <div class="well well-small" style="width: 90%">
+        <p style="font-size: 16px;">
+            Denial Constraints (DCs) define rules between one or more tuples over one
+            or more relations.
+            The syntax requires a conjunction of predicates, where each predicate has
+            two atoms (variable over tuple.attribute or constant) and an operator
+            (=,!=, <,>):
+
+            The syntax of DC Rule may look like following and a formal definition is described
+            <a target="_blank"
+               href="https://github.com/Qatar-Computing-Research-Institute/NADEEF/wiki/NADEEF-Denial-Constraint-(DC)-format">
+                here</a>.
+        </p>
+        <p class="text-center">
+            <a href="#" class="btn btn-primary disabled">not(</a>
+            <a href="#" class="btn btn-info disabled">t1.Column A</a>
+            <a href="#" class="btn btn-info disabled">></a>
+            <a href="#" class="btn btn-info disabled">t2.Column B</a>
+            <a href="#" class="btn btn-primary disabled">&</a>
+            <a href="#" class="btn btn-info disabled">t1.Column C</a>
+            <a href="#" class="btn btn-info disabled">=</a>
+            <a href="#" class="btn btn-info disabled">constant</a>
+            <a href="#" class="btn btn-primary disabled">)</a>
+        </p>
+        <p style="font-size: 16px;">
+            For example, rule <span class="label label-info">not(t1.C=t2.C&t1.A!=t2.A)</span>
+            indicates that there should be no pair of tuples where the C attribute has the
+            same value but has different value on A attribute.
+        </p>
+    </div>
+
+    <input type="text"
+           data-provide="typeahead"
+           style="width: 90%; font-size: 18px; padding: 10px;"
+           id="value"
+           value="<%= code %>">
+</div>

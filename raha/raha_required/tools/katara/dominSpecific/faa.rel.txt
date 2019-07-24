@@ -1,0 +1,4167 @@
+Los Angeles International Airport	faa	LAX
+Washington Dulles International Airport	faa	IAD
+Baltimore–Washington International Airport	faa	BWI
+Davis–Monthan Air Force Base	faa	DMA
+Van Nuys Airport	faa	VNY
+Luis Muñoz Marín International Airport	faa	SJU
+John F. Kennedy International Airport	faa	JFK
+Tocumen International Airport	faa	PTY
+Eglin Air Force Base	faa	VPS
+Eielson Air Force Base	faa	EIL
+Edwards Air Force Base	faa	EDW
+March Air Reserve Base	faa	RIV
+Vandenberg Air Force Base	faa	VBG
+Beale Air Force Base	faa	BAB
+Tyndall Air Force Base	faa	PAM
+Robins Air Force Base	faa	WRB
+Moody Air Force Base	faa	VAD
+Wheeler Army Airfield	faa	HHI
+Phoenix Sky Harbor International Airport	faa	PHX
+Offutt Air Force Base	faa	OFF
+Columbus Air Force Base	faa	CBM
+Whiteman Air Force Base	faa	SZL
+Malmstrom Air Force Base	faa	GFA
+Cannon Air Force Base	faa	CVS
+Grand Forks Air Force Base	faa	RDR
+Minot Air Force Base	faa	MIB
+Miami International Airport	faa	MIA
+Lihue Airport	faa	LIH
+McChord Field	faa	TCM
+Fairchild Air Force Base	faa	SKA
+Moffett Federal Airfield	faa	NUQ
+Tucson International Airport	faa	TUS
+San José International Airport	faa	SJC
+George Bush Intercontinental Airport	faa	IAH
+Wright-Patterson Air Force Base	faa	FFO
+Ellsworth Air Force Base	faa	RCA
+Portland International Airport	faa	PDX
+Hector International Airport	faa	FAR
+Henry E. Rohlsen Airport	faa	STX
+Albany International Airport	faa	ALB\n(Location of the Albany International Airport)
+Ronald Reagan Washington National Airport	faa	DCA
+Rafael Hernández Airport	faa	BQN
+Nellis Air Force Base	faa	LSV
+Logan International Airport	faa	BOS
+Fernando Luis Ribas Dominicci Airport	faa	SIG
+Antonio Rivera Rodríguez Airport	faa	VQS
+Clinton National Airport	faa	LIT
+Hartsfield–Jackson Atlanta International Airport	faa	ATL
+William P. Hobby Airport	faa	HOU\n(Location of the William P. Hobby Airport)
+O'Hare International Airport	faa	ORD
+Newark Liberty International Airport	faa	EWR
+Fort Worth International Airport	faa	DFW
+LaGuardia Airport	faa	LGA
+Ellington Airport	faa	EFD
+Midway International Airport	faa	MDW
+Stewart International Airport	faa	SWF
+Long Island MacArthur Airport	faa	ISP
+Westchester County Airport	faa	HPN
+John Wayne Airport	faa	SNA
+Oxnard Airport	faa	OXR
+San Francisco International Airport	faa	SFO
+Ontario International Airport	faa	ONT
+Bob Hope Airport	faa	BUR
+Oakland International Airport	faa	OAK
+Long Beach Airport	faa	LGB
+Andrews Field	faa	ADW
+Fresno Yosemite International Airport	faa	FAT
+Meadows Field Airport	faa	BFL
+Gerald R. Ford International Airport	faa	GRR
+MBS International Airport	faa	MBS
+Cleveland Hopkins International Airport	faa	CLE
+Austin–Bergstrom International Airport	faa	AUS
+Pittsburgh International Airport	faa	PIT
+McCarran International Airport	faa	LAS
+Tampa International Airport	faa	TPA
+Philadelphia International Airport	faa	PHL
+Orlando International Airport	faa	MCO
+San Diego International Airport	faa	SAN
+Denver International Airport	faa	DEN
+Bradley International Airport	faa	BDL
+Marine Corps Air Station Yuma	faa	NYL
+Louis Armstrong New Orleans International Airport	faa	MSY
+Minneapolis–Saint Paul International Airport	faa	MSP
+Memphis International Airport	faa	MEM
+Louisville International Airport	faa	SDF
+Lambert–St. Louis International Airport	faa	STL
+Salt Lake City International Airport	faa	SLC
+Seattle–Tacoma International Airport	faa	SEA
+Honolulu International Airport	faa	HNL
+Charlotte Douglas International Airport	faa	CLT
+Northern Kentucky International Airport	faa	CVG
+Eugene Airport	faa	EUG
+Norfolk International Airport	faa	ORF
+San Carlos Airport	faa	SQL
+Richmond International Airport	faa	RIC\n(Location of the Richmond International Airport)
+Raleigh–Durham International Airport	faa	RDU
+T. F. Green Airport	faa	PVD
+Fort Lauderdale–Hollywood International Airport	faa	FLL
+Northwest Arkansas Regional Airport	faa	XNA
+San Antonio International Airport	faa	SAT\n(Location of San Antonio International Airport)
+Albuquerque International Sunport	faa	ABQ
+Indianapolis International Airport	faa	IND
+Fort Wayne International Airport	faa	FWA
+John Glenn Columbus International Airport	faa	CMH\n(Location of the John Glenn Columbus International Airport)
+St. Pete–Clearwater International Airport	faa	PIE
+Orlando Sanford International Airport	faa	SFB
+Ted Stevens Anchorage International Airport	faa	ANC
+General Mitchell International Airport	faa	MKE
+Gainesville Regional Airport	faa	GNV
+Glasgow Airport	faa	GGW
+Jacksonville International Airport	faa	JAX
+Key West International Airport	faa	EYW
+Panama City–Bay County International Airport	faa	PFN
+Palm Beach International Airport	faa	PBI
+Naples Municipal Airport	faa	APF
+Orlando Melbourne International Airport	faa	MLB
+Southwest Florida International Airport	faa	RSW
+Naval Air Station Whidbey Island	faa	NUW
+Sarasota–Bradenton International Airport	faa	SRQ
+Pensacola International Airport	faa	PNS
+Tallahassee International Airport	faa	TLH
+Hilton Head International Airport	faa	SAV
+Bolton Field	faa	TZR
+Tulsa International Airport	faa	TUL
+Will Rogers World Airport	faa	OKC
+Kansas City International Airport	faa	MCI\n(Location of the Kansas City International Airport)
+Buffalo Niagara International Airport	faa	BUF\n(Location of the Buffalo Niagara International Airport)
+Cherry Capital Airport	faa	TVC
+McGhee Tyson Airport	faa	TYS
+Nashville International Airport	faa	BNA
+Antonio B. Won Pat International Airport	faa	GUM\n(Location of the Airport in Guam)
+Birmingham–Shuttlesworth International Airport	faa	BHM
+Piedmont Triad International Airport	faa	GSO\n(Location of the Piedmont Triad International Airport)
+Asheville Regional Airport	faa	AVL
+Greenville–Spartanburg International Airport	faa	GSP\n(Location)
+Reno–Tahoe International Airport	faa	RNO
+Yeager Airport	faa	CRW
+Charleston International Airport	faa	CHS
+Detroit Metropolitan Airport	faa	DTW
+Myrtle Beach International Airport	faa	MYR
+Jackson–Evers International Airport	faa	JAN\n(Location of the Jackson–Evers International Airport)
+Gulfport–Biloxi International Airport	faa	GPT
+Boise Airport	faa	BOI
+Mobile Regional Airport	faa	MOB
+Kahului Airport	faa	OGG
+Fairbanks International Airport	faa	FAI
+Augusta Regional Airport	faa	AGS
+Augusta State Airport	faa	AUG
+Huntsville International Airport	faa	HSV
+Battle Creek International Airport	faa	AZO
+Corpus Christi International Airport	faa	CRP
+Rick Husband Amarillo International Airport	faa	AMA
+Colorado Springs Airport	faa	COS
+McAllen Miller International Airport	faa	MFE
+Spokane International Airport	faa	GEG
+Lubbock Preston Smith International Airport	faa	LBB
+Valley International Airport	faa	HRL
+Sacramento International Airport	faa	SMF\n(Location in California)
+Lafayette Regional Airport	faa	LFT
+Baton Rouge Metropolitan Airport	faa	BTR
+Midland International Air and Space Port	faa	MAF
+Telluride Regional Airport	faa	TEX\n(Location of the Airport in Colorado)
+Eagle County Regional Airport	faa	EGE
+Rochester International Airport	faa	RST\n(Location of the Airport in Minnesota)
+Greater Rochester International Airport	faa	ROC\n(Location of the Greater Rochester International Airport)
+Harrisburg International Airport	faa	MDT
+Naval Air Station Joint Reserve Base Willow Grove	faa	NXX
+Jack Brooks Regional Airport	faa	BPT
+Laredo International Airport	faa	LRD
+Ithaca Tompkins Regional Airport	faa	ITH
+Columbia Metropolitan Airport	faa	CAE
+Atlanta Airport	faa	55.0
+Santa Barbara Municipal Airport	faa	SBA
+Miami Executive Airport	faa	TMB
+Scott Air Force Base	faa	BLV
+Rickenbacker International Airport	faa	LCK
+Hanscom Field	faa	BED
+Boeing Field	faa	BFI
+Teterboro Airport	faa	TEB
+Lehigh Valley International Airport	faa	ABE
+Kona International Airport	faa	KOA\n(Location of the Kona International Airport)
+Marine Corps Air Station Beaufort	faa	NBC
+Naval Station Mayport	faa	NRB
+Hill Air Force Base	faa	HIF
+Sedona Airport	faa	SEZ
+Laughlin Air Force Base	faa	DLF
+Quad City International Airport	faa	MLI
+Mountain Home Air Force Base	faa	MUO
+Northeast Philadelphia Airport	faa	PNE
+Eugenio María de Hostos Airport	faa	MAZ
+Peter O. Knight Airport	faa	TPF
+Groton–New London Airport	faa	GON
+Tweed New Haven Airport	faa	HVN
+Minot International Airport	faa	MOT
+Akron–Canton Airport	faa	CAK\n(Location of the Akron–Canton Airport)
+Wiley Post Airport	faa	PWA
+Dayton International Airport	faa	DAY
+Sloulin Field International Airport	faa	ISN
+Grand Forks International Airport	faa	GFK
+Jamestown Regional Airport	faa	JMS
+Devils Lake Regional Airport	faa	DVL
+Dickinson Theodore Roosevelt Regional Airport	faa	DIK
+Bismarck Municipal Airport	faa	BIS
+Bullhead International Airport	faa	IFP
+Keesler Air Force Base	faa	BIX
+Greater Binghamton Airport	faa	BGM
+Elmira Corning Regional Airport	faa	ELM
+Dillingham Airfield	faa	HDH
+Kapalua Airport	faa	JHM
+Lanai Airport	faa	LNY
+Waimea-Kohala Airport	faa	MUE
+Hana Airport	faa	HNM
+Molokai Airport	faa	MKK
+Kalaupapa Airport	faa	LUP
+Kalaeloa Airport	faa	JRF
+Upolu Airport	faa	UPP
+Port Allen Airport	faa	PAK
+Orlando Executive Airport	faa	ORL
+Gwinnett County Airport	faa	LZU
+Cobb County Airport	faa	RYY
+Naval Air Station Fallon	faa	NFL
+Dover Air Force Base	faa	DOV
+Merritt Island Airport	faa	COI
+Space Coast Regional Airport	faa	TIX
+MacDill Air Force Base	faa	MCF
+Hurlburt Field	faa	HRT
+Randolph Air Force Base	faa	RND
+Pacific Missile Range Facility	faa	BKH
+Charles B. Wheeler Downtown Airport	faa	MKC
+Reno Stead Airport	faa	RTS
+Naval Air Station Brunswick	faa	NHZ
+Naval Station Norfolk	faa	NGU
+Ely Airport	faa	ELY
+Dyess Air Force Base	faa	DYS
+Palmdale Regional Airport	faa	PMD
+Lykes Palmdale Airport	faa	FL73
+McConnell Air Force Base	faa	IAB
+Barksdale Air Force Base	faa	BAD
+Downtown Manhattan Heliport	faa	JRB
+Midway Airport	faa	42.0
+Marine Corps Air Station Miramar	faa	NKX
+Marine Corps Air Station New River	faa	NCA
+Tinker Air Force Base	faa	TIK
+Jacksonville Executive at Craig Airport	faa	CRG
+Naval Air Weapons Station China Lake	faa	NID
+Monterey Regional Airport	faa	MRY
+Dobbins Air Reserve Base	faa	MGE
+Holloman Air Force Base	faa	HMN
+Fort Worth Alliance Airport	faa	AFW
+Cortez Municipal Airport	faa	CEZ
+Shaw Air Force Base	faa	SSC
+Little Rock Air Force Base	faa	LRF
+Culpeper Regional Airport	faa	CJR
+Travis Air Force Base	faa	SUU
+Martin State Airport	faa	MTN
+Centennial Airport	faa	APA
+Front Range Airport	faa	FTG
+Altus Air Force Base	faa	LTS
+Maxwell Air Force Base	faa	MXF
+Sheppard Air Force Base	faa	SPS
+Dog Island	faa	FA43
+St. Louis Regional Airport	faa	ALN
+Watertown Regional Airport	faa	ATY
+Chicago International Airport	faa	GYY
+Naval Air Station Jacksonville	faa	NIP
+Bert Mooney Airport	faa	BTM
+Manhattan Regional Airport	faa	MHK
+Luke Air Force Base	faa	LUF
+Seymour Johnson Air Force Base	faa	GSB
+Easterwood Airport	faa	CLL
+Des Moines International Airport	faa	DSM
+Eppley Airfield	faa	OMA
+Billings Logan International Airport	faa	BIL
+Sioux Falls Regional Airport	faa	FSD
+Dane County Regional Airport	faa	MSN
+Waterloo Regional Airport	faa	ALO\n(Location of Waterloo Regional Airport )
+Santa Monica Airport	faa	SMO
+Hunter Army Airfield	faa	SVN
+Scottsdale Airport	faa	SDL
+University of Illinois Willard Airport	faa	CMI
+Naval Air Station Corpus Christi	faa	NGP
+Mount Washington Regional Airport	faa	HIE
+Exeter Airport	faa	O63
+Selfridge Air National Guard Base	faa	MTC
+Coulter Field	faa	CFD
+Albany Municipal Airport	faa	S12
+Burlington International Airport	faa	BTV
+Deadhorse Airport	faa	SCC
+Capital Region International Airport	faa	LAN
+Capital City Airport	faa	FFT
+Williamsburg International Airport	faa	PHF
+Allegheny County Airport	faa	AGC
+Andersen Air Force Base	faa	UAM
+Cyril E. King Airport	faa	STT
+Cherokee County Regional Airport	faa	CNI
+Macon County Airport	faa	1
+Bangor International Airport	faa	BGR\n(Location of the Airport in Maine)
+Republic Airport	faa	FRG
+Essex County Airport	faa	CDW
+Morristown Municipal Airport	faa	MMU
+Lincoln Park Airport	faa	N07
+Modesto City–County Airport	faa	MOD
+Great Falls International Airport	faa	GTF
+Dutchess County Airport	faa	POU
+Duluth International Airport	faa	DLH
+Blue Grass Airport	faa	LEX\n(Location of Blue Grass Airport)
+Watsonville Municipal Airport	faa	WVI
+Paine Field	faa	PAE
+Tri-Cities Airport	faa	PSC\n(Location of airport in Washington)
+Tyler Pounds Regional Airport	faa	TYR
+Green Bay-Austin Straubel International Airport	faa	GRB
+Roosevelt Roads Naval Station	faa	NRR
+Jackson Hole Airport	faa	JAC
+Fulton County Airport	faa	FTY
+Brown Field Municipal Airport	faa	SDM
+Linden Airport	faa	LDJ
+Knox County Regional Airport	faa	RKD
+Northern Maine Regional Airport at Presque Isle	faa	PQI
+DeKalb–Peachtree Airport	faa	PDK
+Lawrence J. Timmerman Airport	faa	MWC
+North Central State Airport	faa	SFZ
+Monterey Bay Academy Airport	faa	CA66
+Quonset State Airport	faa	OQU
+Barnstable Municipal Airport	faa	HYA
+Double Eagle II Airport	faa	AEG
+Frederick Municipal Airport	faa	FDK
+Buckley Air Force Base	faa	BKF
+Charleston Air Force Base	faa	CHS
+San Bernardino International Airport	faa	SBD
+Lakefront Airport	faa	NEW
+Scranton International Airport	faa	AVP\n(Location of airport in Pennsylvania)
+Arnold Air Force Base	faa	AYX
+Golden Triangle Regional Airport	faa	GTR
+Fort Lauderdale Executive Airport	faa	FXE
+Portland–Troutdale Airport	faa	TTD
+McNary Field	faa	SLE
+Rogue Valley International–Medford Airport	faa	MFR
+Bellefontaine Regional Airport	faa	EDJ
+St. Paul Downtown Airport	faa	STP
+General Lucius D. Clay National Guard Center	faa	MGE
+McEntire Joint National Guard Base	faa	MMT
+Hancock County-Bar Harbor Airport	faa	BHB
+Greater Cumberland Regional Airport	faa	CBE
+Rocky Mountain Metropolitan Airport	faa	BJC
+Palm Springs International Airport	faa	PSP
+Inyokern Airport	faa	IYK
+Del Norte County Airport	faa	CEC
+Arcata-Eureka Airport	faa	ACV
+Imperial County Airport	faa	IPL
+Chico Municipal Airport	faa	CIC
+McClellan–Palomar Airport	faa	CRQ
+Visalia Municipal Airport	faa	VIS
+Redding Municipal Airport	faa	RDD
+Santa Maria Public Airport	faa	SMX
+San Luis Obispo County Regional Airport	faa	SBP
+Evansville Regional Airport	faa	EVV
+Woodley Airport	faa	CPM
+General William J. Fox Airfield	faa	WJF
+Creech Air Force Base	faa	INS
+Dubuque Regional Airport	faa	DBQ
+Elko Regional Airport	faa	EKO
+Merced Regional Airport	faa	MCE
+Laramie Regional Airport	faa	LAR
+Worland Municipal Airport	faa	WRL
+Cheyenne Regional Airport	faa	CYS
+Gillette–Campbell County Airport	faa	GCC
+Riverton Regional Airport	faa	RIW
+Rock Springs–Sweetwater County Airport	faa	RKS
+Sheridan County Airport	faa	SHR
+Yellowstone Regional Airport	faa	COD
+Casper–Natrona County International Airport	faa	CPR
+University Medical Center of Southern Nevada	faa	NV34
+New Bedford Regional Airport	faa	EWB
+Valley Hospital Medical Center	faa	NV53
+Chattanooga Metropolitan Airport	faa	CHA
+Southwest Oregon Regional Airport	faa	OTH
+Eastern Oregon Regional Airport	faa	PDT
+Klamath Falls Airport	faa	LMT
+St. George Municipal Airport	faa	SGU
+Cedar City Regional Airport	faa	CDC
+Waco Regional Airport	faa	ACT
+Stafford Regional Airport	faa	RMN
+Collegedale Municipal Airport	faa	FGU
+Kearney Regional Airport	faa	EAR
+Central Nebraska Regional Airport	faa	GRI
+McCook Ben Nelson Regional Airport	faa	MCK
+North Platte Regional Airport	faa	LBF
+Chadron Municipal Airport	faa	CDR
+Western Nebraska Regional Airport	faa	BFF
+Alliance Municipal Airport	faa	AIA
+Pierre Regional Airport	faa	PIR
+Rapid City Regional Airport	faa	RAP
+Brookings Regional Airport	faa	BKX
+Huron Regional Airport	faa	HON
+Toledo Express Airport	faa	TOL\n(Location of the Airport in Ohio)
+Naval Air Engineering Station Lakehurst	faa	NEL
+North Las Vegas Airport	faa	VGT
+Friedman Memorial Airport	faa	SUN
+Magic Valley Regional Airport	faa	TWF
+Idaho Falls Regional Airport	faa	IDA
+Pocatello Regional Airport	faa	PIH
+Lewiston–Nez Perce County Airport	faa	LWS
+Worcester Regional Airport	faa	ORH
+McCreary County Airport	faa	18
+Atlantic City International Airport	faa	ACY
+Guerrero Negro Airport	faa	MM58\n(Location of airport in Baja California Sur)
+Four Corners Regional Airport	faa	FMN
+Roswell International Air Center	faa	ROW
+Cavern City Air Terminal	faa	CNM
+Santa Fe Municipal Airport	faa	SAF
+Grant County Airport	faa	SVC
+Clovis Municipal Airport	faa	CVN
+Page Municipal Airport	faa	PGA
+Show Low Regional Airport	faa	SOW
+Kingman Airport	faa	IGM
+Sierra Vista Municipal Airport	faa	FHU
+Ernest A. Love Field	faa	PRC
+Lake Havasu City Airport	faa	HII
+Flagstaff Pulliam Airport	faa	FLG
+Yuma International Airport	faa	NYL\n(Location of the Airport in Arizona)
+Mobile Downtown Airport	faa	BFM
+Atlanta South Regional Airport	faa	4
+Fort Worth Meacham International Airport	faa	FTW
+St. Cloud Regional Airport	faa	STC
+Willow Run Airport	faa	YIP
+Orange County Airport	faa	MGJ
+Grand Junction Regional Airport	faa	GJT
+Durango–La Plata County Airport	faa	DRO
+Aspen–Pitkin County Airport	faa	ASE\n(Location of the Airport in Colorado)
+Pueblo Memorial Airport	faa	PUB
+Yampa Valley Airport	faa	HDN
+Enid Woodring Regional Airport	faa	WDG
+Ponca City Regional Airport	faa	PNC
+Piney Pinecreek Border Airport	faa	48
+San Luis Valley Regional Airport	faa	ALS
+Gunnison–Crested Butte Regional Airport	faa	GUC
+Lawton–Fort Sill Regional Airport	faa	LAW
+Garden City Regional Airport	faa	GCK
+Dodge City Regional Airport	faa	DDC
+Great Bend Municipal Airport	faa	GBD
+Hays Regional Airport	faa	HYS
+Liberal Mid-America Regional Airport	faa	LBL
+Salina Regional Airport	faa	SLN
+Wittman Regional Airport	faa	OSH
+Cape Girardeau Regional Airport	faa	CGI
+Joplin Regional Airport	faa	JLN
+Columbia Regional Airport	faa	COU
+Kirksville Regional Airport	faa	IRK
+Springfield–Branson National Airport	faa	SGF
+Bowman Field	faa	LOU
+Waynesville-St. Robert Regional Airport	faa	TBN
+Aberdeen Regional Airport	faa	ABR
+Southeast Iowa Regional Airport	faa	BRL
+Fort Dodge Regional Airport	faa	FOD
+Mason City Municipal Airport	faa	MCW
+Bemidji Regional Airport	faa	BJI\n(Location of the Airport in Minnesota)
+Brainerd Lakes Regional Airport	faa	BRD
+Thief River Falls Regional Airport	faa	TVF
+Falls International Airport	faa	INL
+Range Regional Airport	faa	HIB
+Lebanon Municipal Airport	faa	LEB
+Fort Smith Regional Airport	faa	FSM
+Boone County Airport	faa	HRO
+Memorial Field Airport	faa	HOT
+Jonesboro Municipal Airport	faa	JBR
+South Arkansas Regional Airport at Goodwin Field	faa	ELD
+Texarkana Regional Airport	faa	TXK
+Mid Delta Regional Airport	faa	GLH
+Barkley Regional Airport	faa	PAH
+Patrick Air Force Base	faa	COF
+Vance Air Force Base	faa	END
+Juneau International Airport	faa	JNU
+Sugar Land Regional Airport	faa	SGR
+Alexandria International Airport	faa	AEX
+Lake Charles Regional Airport	faa	LCH
+Monroe Regional Airport	faa	MLU
+Shreveport Regional Airport	faa	SHV
+Rutland – Southern Vermont Regional Airport	faa	RUT
+Bozeman Yellowstone International Airport	faa	BZN
+Houghton County Memorial Airport	faa	CMX
+Yellowstone Airport	faa	WYS
+San Angelo Regional Airport	faa	SJT
+Glacier Park International Airport	faa	GPI\n(Location in Montana)
+Adirondack Regional Airport	faa	SLK
+Chippewa Valley Regional Airport	faa	EAU
+Frazier Lake Airpark	faa	1
+Naval Air Station North Island	faa	NZY
+Clinton County Airport	faa	PLB
+Dothan Regional Airport	faa	DHN
+Montgomery Regional Airport	faa	MGM
+Northwest Alabama Regional Airport	faa	MSL
+Grand Canyon National Park Airport	faa	GCN
+Bradford Regional Airport	faa	BFD
+Altoona–Blair County Airport	faa	AOO
+Southwest Georgia Regional Airport	faa	ABY
+Athens Ben Epps Airport	faa	AHN
+Brunswick Golden Isles Airport	faa	BQK\n(Location of the Airport in Georgia)
+Columbus Metropolitan Airport	faa	CSG
+Middle Georgia Regional Airport	faa	MCN
+Valdosta Regional Airport	faa	VLD
+Erie International Airport	faa	ERI\n(Location of airport in Pennsylvania)
+Wilmington International Airport	faa	ILM
+Portsmouth International Airport at Pease	faa	PSM
+Raleigh County Memorial Airport	faa	BKW
+North Central West Virginia Airport	faa	CKB
+Tri-State Airport	faa	HTS
+Mercer County Airport	faa	BLF
+Greenbrier Valley Airport	faa	LWB
+Morgantown Municipal Airport	faa	MGW
+Charlottesville–Albemarle Airport	faa	CHO
+Mid-Ohio Valley Regional Airport	faa	PKB
+Florence Regional Airport	faa	FLO
+Copalis State Airport	faa	S16
+Hilton Head Airport	faa	HXD
+Fayetteville Regional Airport	faa	FAY
+Hickory Regional Airport	faa	HKY
+Albert J. Ellis Airport	faa	OAJ
+Kinston Regional Jetport	faa	ISO
+Pitt–Greenville Airport	faa	PGV\n(Location of the Pitt–Greenville Airport)
+Sioux Gateway Airport	faa	SUX
+Lincoln Airport	faa	LNK
+Salisbury–Ocean City–Wicomico Regional Airport	faa	SBY
+Venango Regional Airport	faa	FKL
+Williamsport Regional Airport	faa	IPT
+Hughes Airport	faa	CL71
+University Park Airport	faa	UNV\n(Location of airport in Pennsylvania)
+Watertown International Airport	faa	ART
+Coleman A. Young International Airport	faa	DET
+Nantucket Memorial Airport	faa	ACK
+Martha's Vineyard Airport	faa	MVY
+Lynchburg Regional Airport	faa	LYH
+Roanoke–Blacksburg Regional Airport	faa	ROA
+Shenandoah Valley Regional Airport	faa	SHD
+Newport State Airport	faa	UUU
+Lancaster Airport	faa	LNS
+Arnold Palmer Regional Airport	faa	LBE
+Johnstown–Cambria County Airport	faa	JST
+DuBois Regional Airport	faa	DUJ
+Tri-Cities Regional Airport	faa	TRI
+Aleknagik Airport	faa	5
+Akutan Seaplane Base	faa	KQA
+Wiley Post–Will Rogers Memorial Airport	faa	BRW
+Ketchikan International Airport	faa	KTN
+Wrangell Airport	faa	WRG
+Petersburg James A. Johnson Airport	faa	PSG
+Sitka Rocky Gutierrez Airport	faa	SIT
+Merle K.	faa	CDV
+Yakutat Airport	faa	YAK
+Dawson Community Airport	faa	GDV
+Havre City–County Airport	faa	HVR
+Helena Regional Airport	faa	HLN
+Lewistown Municipal Airport	faa	LWT
+Miles City Airport	faa	MLS
+Missoula International Airport	faa	MSO
+Sidney–Richland Municipal Airport	faa	SDY
+L. M. Clayton Airport	faa	OLF
+Niagara Falls International Airport	faa	IAG
+Daytona Beach International Airport	faa	DAB
+Salinas Municipal Airport	faa	SNS
+Chicago Rockford International Airport	faa	RFD
+Kelly Field Annex	faa	SKF
+Williamson County Regional Airport	faa	MWA
+Quincy Regional Airport	faa	UIN
+McKellar–Sipes Regional Airport	faa	MKL
+Owensboro–Daviess County Regional Airport	faa	OWB
+Bellingham International Airport	faa	BLI
+Friday Harbor Airport	faa	FHR
+Lopez Island Airport	faa	S31
+Grant County International Airport	faa	MWH
+William R. Fairchild International Airport	faa	CLM
+Pullman–Moscow Regional Airport	faa	PUW\n(Location of airport in Washington)
+Pangborn Memorial Airport	faa	EAT\n(Location of airport in Washington)
+Walla Walla Regional Airport	faa	ALW
+Yakima Air Terminal	faa	YKM
+Naval Air Station Oceana	faa	NTU
+Ogdensburg International Airport	faa	OGS
+Massena International Airport	faa	MSS
+Provincetown Municipal Airport	faa	PVC
+Chautauqua County-Jamestown Airport	faa	JHW
+Logan-Cache Airport	faa	LGU
+South Valley Regional Airport	faa	U42
+Provo Municipal Airport	faa	PVU
+Ogden-Hinckley Airport	faa	OGD
+Brigham City Airport	faa	BMC
+Skypark Airport	faa	BTF
+Indiana County–Jimmy Stewart Airport	faa	IDI
+Adak Airport	faa	ADK
+Bethel Airport	faa	BET
+Delta County Airport	faa	ESC
+Taunton Municipal Airport	faa	TAN
+La Crosse Regional Airport	faa	LSE
+Appleton International Airport	faa	ATW
+Rhinelander–Oneida County Airport	faa	RHI
+Central Wisconsin Airport	faa	CWA
+Killeen–Fort Hood Regional Airport	faa	GRK
+Robert Gray Army Airfield	faa	GRK
+Tupelo Regional Airport	faa	TUP
+Hattiesburg–Laurel Regional Airport	faa	PIB
+Meridian Regional Airport	faa	MEI
+Wiley's Seaplane Port	faa	2
+Gogebic–Iron County Airport	faa	IWD
+Manistee County Blacker Airport	faa	MBL
+Muskegon County Airport	faa	MKG
+Pellston Regional Airport	faa	PLN
+Chippewa County International Airport	faa	CIU
+Abilene Regional Airport	faa	ABI
+Del Rio International Airport	faa	DRT
+Victoria Regional Airport	faa	VCT
+Fort Collins–Loveland Municipal Airport	faa	FNL
+East Texas Regional Airport	faa	GGG
+South Padre Island International Airport	faa	BRO
+Wichita Falls Municipal Airport	faa	SPS
+Oneida County Airport	faa	UCA
+Smith Reynolds Airport	faa	INT
+Rockwood Municipal Airport	faa	RKW
+Reading Regional Airport	faa	RDG
+Cleveland Burke Lakefront Airport	faa	BKL
+Pinal Airpark	faa	MZJ
+Bolingbrook's Clow International Airport	faa	1
+Greater Southwest International Airport	faa	GSW
+Boca Raton Airport	faa	BCT
+Sawyer International Airport	faa	SAW
+Marquette County Airport	faa	MQT
+Oscoda–Wurtsmith Airport	faa	OSC
+Francis S. Gabreski Airport	faa	FOK
+Buchanan Field Airport	faa	CCR
+Palm Beach County Park Airport	faa	LNA
+Hayward Executive Airport	faa	HWD
+Half Moon Bay Airport	faa	HAF
+Palo Alto Airport	faa	PAO
+Reid–Hillview Airport	faa	RHV
+North Palm Beach County General Aviation Airport	faa	F45
+Palm Beach County Glades Airport	faa	PHK
+Plattsburgh International Airport	faa	PBG
+Norwood Memorial Airport	faa	OWD
+Kodiak Airport	faa	ADQ
+Princeville Airport	faa	HI01
+Central Illinois Regional Airport	faa	BMI
+King Salmon Airport	faa	AKN
+Dillingham Airport	faa	DLG
+Nome Airport	faa	OME
+Miami-Opa Locka Executive Airport	faa	OPF
+Lee C. Fine Memorial Airport	faa	AIZ
+Akron Fulton International Airport	faa	AKR
+Alice International Airport	faa	ALI
+Alamogordo–White Sands Regional Airport	faa	ALM
+Anniston Regional Airport	faa	ANB
+Annette Island Airport	faa	ANN
+Lima Allen County Airport	faa	AOH
+John F. Kennedy Memorial Airport	faa	ASX
+Logan County Airport	faa	AAA
+Colonel James Jabara Airport	faa	AAO
+Taylor County Airport	faa	AAS
+Antrim County Airport	faa	ACB
+Alturas Municipal Airport	faa	AAT
+Apalachicola Regional Airport	faa	AAF
+Antonio	faa	ABO
+Westerly State Airport	faa	WST
+Potomac Airfield	faa	VKX
+Eastern Slopes Regional Airport	faa	IZG
+Chicago Executive Airport	faa	PWK
+Oakland County International Airport	faa	PTK\n(Location of the Airport in Michigan)
+Troy Airport	faa	VLL
+Frederick Regional Airport	faa	FDR
+Trent Lott International Airport	faa	PQL
+Aniak Airport	faa	ANI
+Drake Field	faa	FYV
+Naval Air Station Whiting Field – North	faa	NSE
+Naval Air Station Whiting Field – South	faa	NDZ
+Page Field	faa	FMY
+Shelby County Airport	faa	EET
+Abraham Lincoln Capital Airport	faa	SPI
+Decatur Airport	faa	DEC
+Wilkes-Barre Wyoming Valley Airport	faa	WBW
+Greenville Downtown Airport	faa	GMU
+Rostraver Airport	faa	FWQ
+Arkansas International Airport	faa	BYH
+Westfield-Barnes Regional Airport	faa	BAF
+Capital City Airport	faa	CXY
+New Century AirCenter	faa	IXD
+Cincinnati–Blue Ash Airport	faa	ISZ
+Tonopah Test Range Airport	faa	TNX
+Neosho Hugh Robinson Airport	faa	EOS
+Floyd Bennett Memorial Airport	faa	GFL
+Princeton Airport	faa	39.0
+Lancaster County Airport	faa	LKR
+Buffalo-Lancaster Regional Airport	faa	BQR
+Lancaster Regional Airport	faa	LNC
+Dayton–Wright Brothers Airport	faa	MGY
+A.P. Hill Army Airfield	faa	APH
+Phillips Army Airfield	faa	APG
+Martin Field	faa	S95
+Pryor Field Regional Airport	faa	DCU
+Aurora Municipal Airport	faa	AUH
+Wausau Downtown Airport	faa	AUW
+Central Jersey Regional Airport	faa	47.0
+West Michigan Regional Airport	faa	BIV
+Watertown Municipal Airport	faa	RYV
+Vermilion Regional Airport	faa	DNV
+Ross International Airport	faa	7
+Whetstone International Airport	faa	H28
+Scobey Border Station Airport	faa	8
+Gillespie Field	faa	SEE
+Ann Arbor Municipal Airport	faa	ARB
+MidAmerica St. Louis Airport	faa	BLV
+Biggs Army Airfield	faa	BIF
+Gray Army Airfield	faa	GRF
+Gwinner–Roger Melroe Field	faa	GWR
+Winter Haven's Gilbert Airport	faa	GIF
+Wexford County Airport	faa	CAD
+Craig–Moffat Airport	faa	CAG
+Caribou Municipal Airport	faa	CAR
+Clarion Municipal Airport	faa	CAV
+Clayton Municipal Airpark	faa	CAO
+Columbus Municipal Airport	faa	BAK
+New Braunfels Regional Airport	faa	BAZ
+Huron County Memorial Airport	faa	BAX
+Battle Mountain Airport	faa	BAM
+Shuttle Landing Facility	faa	TTS
+Franklin County Regional Airport	faa	N68
+Chennault International Airport	faa	CWF
+Merrill Field	faa	MRI
+Toccoa Airport	faa	TOC
+Glendale Municipal Airport	faa	GEU
+Forbes Field Air National Guard Base	faa	FOE
+Okeechobee County Airport	faa	OBE
+Sheboygan County Memorial Airport	faa	SBM
+Phoenix Deer Valley Airport	faa	DVT
+Homestead Air Reserve Base	faa	HST
+Henderson Field	faa	ACZ
+Minden–Tahoe Airport	faa	MEV
+Casa Grande Municipal Airport	faa	CGZ
+Douglas Municipal Airport	faa	DGL
+Phoenix Goodyear Airport	faa	GYR
+Colorado City Municipal Airport	faa	AZC
+Marana Regional Airport	faa	AVQ
+Buckeye Municipal Airport	faa	BXK
+Chandler Municipal Airport	faa	CHD
+Nogales International Airport	faa	OLS
+Winslow–Lindbergh Regional Airport	faa	INW
+Smoketown Airport	faa	S37
+Avey Field State Airport	faa	69.0
+Bandera State Airport	faa	4
+Easton State Airport	faa	ESW
+Lake Wenatchee State Airport	faa	27.0
+Olympia Regional Airport	faa	OLM
+Warroad International Memorial Airport	faa	RRT
+Majors Airport	faa	GVT
+Wilmington Airport	faa	ILG
+Sulphur Springs Municipal Airport	faa	SLR
+Addison Airport	faa	ADS
+Cox Field	faa	PRX
+Beaumont Municipal Airport	faa	BMT
+Brownwood Regional Airport	faa	BWD
+Angelina County Airport	faa	LFK
+Terre Haute International Airport	faa	HUF
+McKinney National Airport	faa	TKI
+Scholes International Airport at Galveston	faa	GLS
+Dallas Executive Airport	faa	RBD
+Red River County Airport	faa	LBR
+Stanton Airport	faa	I50
+North Texas Regional Airport	faa	GYI
+Orange County Airport	faa	ORG
+Sherman Municipal Airport	faa	SWI
+Hearne Municipal Airport	faa	LHB
+David Wayne Hooks Memorial Airport	faa	DWH
+Cuyahoga County Airport	faa	CGF
+California City Municipal Airport	faa	L71
+Pompano Beach Airpark	faa	PMP
+Alpena County Regional Airport	faa	APN
+Tallahassee Commercial Airport	faa	68.0
+Las Cruces International Airport	faa	LRU
+Gallup Municipal Airport	faa	GUP
+Wellsville Municipal Airport	faa	ELZ
+Bessemer Airport	faa	EKY
+Sikorsky Memorial Airport	faa	BDR
+Lake Hood Seaplane Base	faa	LHD
+Cold Bay Airport	faa	CDB
+Hemet-Ryan Airport	faa	HMT
+Youngstown–Warren Regional Airport	faa	YNG
+Southern Wisconsin Regional Airport	faa	JVL
+Rickenbacker Air National Guard Base	faa	LCK
+Catalina Airport	faa	AVX
+Rialto Municipal Airport	faa	L67
+Stockton Metropolitan Airport	faa	SCK
+Moore County Airport	faa	SOP
+Atlanta Regional Airport	faa	FFC
+Shell Lake Municipal Airport	faa	SSQ
+Grissom Air Reserve Base	faa	GUS
+Wainwright Airport	faa	AWI
+Falcon Field	faa	FFZ
+Monroe County Airport	faa	BMG
+Camarillo Airport	faa	CMA
+Garberville Airport	faa	O16
+Santa Paula Airport	faa	SZP
+Peach State Airport	faa	GA2
+Edward G. Pitka Sr. Airport	faa	GAL
+Kenai Municipal Airport	faa	ENA
+Grand Canyon West Airport	faa	1
+Valdez Airport	faa	VDZ
+Unalaska Airport	faa	DUT
+Ralph Wien Memorial Airport	faa	OTZ\n(Location of airport in Alaska)
+Homer Airport	faa	HOM\n(Location of airport in Alaska)
+Delaware Airpark	faa	33.0
+Delaware Coastal Airport	faa	GED
+Summit Airport	faa	EVY
+Quillayute Airport	faa	UIL
+Douglas Municipal Airport	faa	DQH
+Fulton County Airport	faa	NY0
+Castle Airport	faa	MER
+Cherokee County Airport	faa	JSO
+Cartersville Airport	faa	VPC
+Pittsfield Municipal Airport	faa	PSF
+Harriman-and-West Airport	faa	AQW
+Caldwell Industrial Airport	faa	EUL
+Sun Valley Airport	faa	A20
+Shelby County Airport	faa	2
+Shelby County Airport	faa	6
+Philip Billard Municipal Airport	faa	TOP
+Topeka Regional Airport	faa	FOE
+Ambler Airport	faa	AFM
+Buckland Airport	faa	BVK
+Atqasuk Edward Burnell Sr. Memorial Airport	faa	ATK
+Alakanuk Airport	faa	AUK
+Fulton County Airport	faa	RCR
+Anacortes Airport	faa	74.0
+Orcas Island Airport	faa	ORS
+Tunica Municipal Airport	faa	UTA
+Chevak Airport	faa	VAK
+Natchitoches Regional Airport	faa	IER
+Lincoln Regional Airport	faa	LRG
+College Park Airport	faa	CGS
+Washington Executive Airport	faa	W32
+Westover Metropolitan Airport	faa	CEF
+Lawrence Municipal Airport	faa	LWC
+Beverly Regional Airport	faa	BVY
+Lawrence Municipal Airport	faa	LWM
+Summit Airport	faa	UMM
+Lincoln Regional Airport	faa	LHM
+Jacqueline Cochran Regional Airport	faa	TRM
+Mansfield Municipal Airport	faa	1
+Charlevoix Municipal Airport	faa	CVX
+Ford Airport	faa	IMT
+Otis Air National Guard Base	faa	FMH
+Bisbee Douglas International Airport	faa	DUG
+Diego Jiménez Torres Airport	faa	X95
+Benjamín Rivera Noriega Airport	faa	CPX
+Humacao Airport	faa	X63
+Myricks Airport	faa	1
+Cranland Airport	faa	28M
+Tanner–Hiller Airport	faa	8
+Hopedale Industrial Park Airport	faa	1
+Marlboro Airport	faa	9
+Northampton Airport	faa	7
+Spencer Airport	faa	60M
+Falmouth Airpark	faa	5
+Metropolitan Airport	faa	13
+Katama Airpark	faa	1
+Southbridge Municipal Airport	faa	3
+Plum Island Airport	faa	2
+Cape Cod Airfield	faa	2
+Turners Falls Airport	faa	0
+Sterling Airport	faa	3
+Minute Man Air Field	faa	6
+Marshfield Municipal Airport	faa	GHG
+Gardner Municipal Airport	faa	GDM
+Chatham Municipal Airport	faa	CQX
+Fitchburg Municipal Airport	faa	FIT
+Orange Municipal Airport	faa	ORE
+Plymouth Municipal Airport	faa	PYM
+Saipan International Airport	faa	GSN
+Tinian International Airport	faa	TNI
+Rota International Airport	faa	GRO
+Pago Pago International Airport	faa	PPG
+Johnson County Executive Airport	faa	OJC
+Hillside Airport	faa	63.0
+Anthony Municipal Airport	faa	ANY
+Colby Municipal Airport	faa	CBK
+Cessna Aircraft Field	faa	CEA
+Atwood–Rawlins County City–County Airport	faa	ADT
+Belleville Municipal Airport	faa	RPB
+Coffey County Airport	faa	UKL
+Chanute Martin Johnson Airport	faa	CNU
+Clay Center Municipal Airport	faa	CYW
+Coffeyville Municipal Airport	faa	CFV
+Blosser Municipal Airport	faa	CNK
+El Dorado Airport	faa	EQA
+Emporia Municipal Airport	faa	EMP
+Elkhart–Morton County Airport	faa	EHA
+Fort Scott Municipal Airport	faa	FSK
+Goodland Municipal Airport	faa	GLD
+Hill City Municipal Airport	faa	HLC
+Herington Regional Airport	faa	HRU
+Hugoton Municipal Airport	faa	HQG
+Hutchinson Municipal Airport	faa	HUT
+Payson Airport	faa	PAN
+Taylor Airport	faa	TYL
+Window Rock Airport	faa	RQE
+Ryan Airfield	faa	RYN
+Temple Bar Airport	faa	U30
+Jackson County Airport	faa	JXN
+Cape Sarichef Airport	faa	26
+Auburn University Regional Airport	faa	AUO
+Lansdowne Airport	faa	4.0
+Washington-Virginia Airport	faa	204552
+Hutchinson Municipal Airport	faa	HCD
+Manchester–Boston Regional Airport	faa	MHT\n(Location of the Manchester–Boston Regional Airport)
+Airlake Airport	faa	LVN
+Anoka County–Blaine Airport	faa	ANE
+Crystal Airport	faa	MIC
+Flying Cloud Airport	faa	FCM
+Lake Elmo Airport	faa	21.0
+Pease Air National Guard Base	faa	PSM
+Arlington Municipal Airport	faa	AWO
+Charles M. Schulz–Sonoma County Airport	faa	STS
+Lewis University Airport	faa	LOT
+John C. Tune Airport	faa	JWN
+Clarksville–Montgomery County Regional Airport	faa	CKV
+Duke Field	faa	EGI
+Danbury Municipal Airport	faa	DXR
+Canyonlands Field	faa	CNY
+Vernal Regional Airport	faa	VEL
+Mulino State Airport	faa	4
+Lloyd Stearman Field	faa	1
+Marin County Airport	faa	DVO
+North Perry Airport	faa	HWO
+Renton Municipal Airport	faa	RNT
+Kenmore Air Harbor	faa	S60
+DuPage Airport	faa	DPA
+Coastal Carolina Regional Airport	faa	EWN\n(Location of the Coastal Carolina Regional Airport)
+Lampson Field	faa	1
+Block Island State Airport	faa	BID
+Newport State Airport	faa	EFK
+Ramona Airport	faa	RNM
+Los Alamos County Airport	faa	LAM
+Taos Regional Airport	faa	SKX
+Napa County Airport	faa	APC
+Sanderson Field	faa	SHN
+Tri-Cities Airport	faa	CZG
+Tri-City Airport	faa	PPF
+Broadus Airport	faa	0.0
+Patillas Airport	faa	X64
+Redstone Army Airfield	faa	HUA
+Cairns Army Airfield	faa	OZR
+Tuscaloosa Regional Airport	faa	TCL
+Laguna Army Airfield	faa	LGF
+Chino Airport	faa	CNO
+Springdale Municipal Airport	faa	ASG
+Barstow-Daggett Airport	faa	DAG
+San Gabriel Valley Airport	faa	EMT
+Fresno Chandler Executive Airport	faa	FCH
+Nevada County Air Park	faa	GOO
+Joint Forces Training Base - Los Alamitos	faa	SLI
+Naval Base Ventura County	faa	NTD
+International Peace Garden Airport	faa	S28
+Riverside Municipal Airport	faa	RAL
+Norfolk Regional Airport	faa	OFK
+Sierra Blanca Regional Airport	faa	SRR
+Carrizozo Municipal Airport	faa	F37
+Henderson Executive Airport	faa	HND
+Tonopah Airport	faa	TPH
+Carson Airport	faa	CXP
+Spadaro Airport	faa	1
+East Hampton Airport	faa	HTO
+Genesee County Airport	faa	GVQ
+Montauk Airport	faa	MTP
+Schenectady County Airport	faa	SCH
+Brookhaven Airport	faa	HWV
+Wheeler-Sack Army Airfield	faa	GTB
+Tri-County Airport	faa	ASJ
+Tri-County Regional Airport	faa	LNR
+Concord Regional Airport	faa	JQF
+Lincolnton–Lincoln County Regional Airport	faa	IPJ
+Charlotte–Monroe Executive Airport	faa	EQY
+Person County Airport	faa	TDF
+Raleigh Exec	faa	TTA
+Columbia Gorge Regional Airport	faa	DLS
+Erie–Ottawa International Airport	faa	PCW
+Middle Bass Island Airport	faa	3
+Put-in-Bay Airport	faa	3
+Ohio State University Airport	faa	OSU
+Cincinnati Municipal Lunken Airport	faa	LUK
+Mansfield Lahm Regional Airport	faa	MFD
+Springfield–Beckley Municipal Airport	faa	SGH
+Craig Seaplane Base	faa	CGA
+Eek Airport	faa	EEK
+Elim Airport	faa	ELI
+Emmonak Airport	faa	ENM
+Fort Yukon Airport	faa	FYU
+Ardmore Municipal Airport	faa	ADM
+University of Oklahoma Westheimer Airport	faa	OUN
+Stillwater Regional Airport	faa	SWO
+Richard Lloyd Jones Jr. Airport	faa	RVS
+Montgomery Field Airport	faa	MYF
+Ashland Regional Airport	faa	DWU
+York Airport	faa	THV
+Richmond County Airport	faa	RCZ
+Smyrna Airport	faa	MQY
+Clinton-Sherman Industrial Airpark	faa	CSM
+Hartford–Brainard Airport	faa	HFD
+Waterbury–Oxford Airport	faa	OXC
+Windham Airport	faa	IJD
+Danielson Airport	faa	LZD
+Montgomery County Airpark	faa	GAI
+Palmyra	faa	P16
+Scott Valley Airport	faa	A30
+Manassas Regional Airport	faa	HEF
+Safford Regional Airport	faa	SAD
+Bucholz Army Airfield	faa	KWA\n(Location of airport in Marshall Islands)
+Ocean City Municipal Airport	faa	OXB
+Garrett County Airport	faa	2
+Kenosha Regional Airport	faa	ENW
+Waukesha County Airport	faa	UES
+Sekiu Airport	faa	11.0
+Skylark Field	faa	ILE
+West Bend Municipal Airport	faa	ETB
+Lt. Warren Eaton Airport	faa	OIC
+Stonington Municipal Airport	faa	93.0
+Williston Municipal Airport	faa	X60
+George T. Lewis Airport	faa	CDK
+Ocala International Airport	faa	OCF
+Marion County Airport	faa	X35
+Ladd Army Airfield	faa	FBK
+Greater Portsmouth Regional Airport	faa	PMH
+Albert Whitted Airport	faa	SPG
+Gordon K. Bush Airport	faa	UNI
+Leesburg Executive Airport	faa	JYO
+Florida Keys Marathon Airport	faa	MTH
+Granite Falls Municipal Airport	faa	GDB
+Mount Pleasant Regional Airport	faa	LRO
+Haines Airport	faa	HNS
+Jackson County Airport	faa	24.0
+Lewiston Municipal Airport	faa	LEW
+South Lakeland Airport	faa	X49
+Lakeland Linder Regional Airport	faa	LAL
+Nyac Airport	faa	ZNC
+Zephyrhills Municipal Airport	faa	ZPH
+Schuylkill County Airport	faa	ZER
+Elkin Municipal Airport	faa	ZEF
+Trenton–Robbinsville Airport	faa	N87
+Zanesville Municipal Airport	faa	ZZV
+Black Rock Airport	faa	ZUN
+Sky Manor Airport	faa	N40
+Door County Cherryland Airport	faa	SUE
+Iliamna Airport	faa	ILI
+Unalakleet Airport	faa	UNK
+Chan Gurney Municipal Airport	faa	YKN
+Chesapeake Regional Airport	faa	CPK
+Warwick Municipal Airport	faa	N72
+Skagway Airport	faa	SGY
+Gustavus Airport	faa	GST
+Hoonah Airport	faa	HNH
+McKinley National Park Airport	faa	INR
+Palmer Municipal Airport	faa	PAQ
+Yakataga Airport	faa	CYT
+Bettles Airport	faa	BTT
+Gulkana Airport	faa	GKN
+Nenana Municipal Airport	faa	ENN
+McGrath Airport	faa	MCG
+Northway Airport	faa	ORT
+Ralph M. Calhoun Memorial Airport	faa	TAL
+Robertson Field	faa	4
+Abilene Municipal Airport	faa	K78
+Barrow County Airport	faa	WDR
+Hobart Sky Ranch Airport	faa	3
+Griffith-Merrillville Airport	faa	05C
+Michigan City Municipal Airport	faa	MGC
+Porter County Regional Airport	faa	VPZ
+Lowell Airport	faa	97.0
+Lake Village Airport	faa	98.0
+Kent State University Airport	faa	1
+Fitch H. Beach Airport	faa	FPK
+W. K. Kellogg Airport	faa	BTL
+Abrams Municipal Airport	faa	4
+Mason Jewett Field	faa	TEW
+Grosse Ile Municipal Airport	faa	ONZ
+Wend Valley Airport	faa	49.0
+Eastern WV Regional Airport	faa	MRB
+University Airpark	faa	41.0
+Skyway Estates Airport	faa	60.0
+Hiram Cure Airfield	faa	43.0
+Brooks Field	faa	RMY
+Craft's Field	faa	none
+Beaver Island Airport	faa	SJX
+Christmas Valley Airport	faa	62.0
+Knoxville Downtown Island Airport	faa	DKX
+Gratiot Community Airport	faa	AMN
+Southwest Michigan Regional Airport	faa	BEH
+Lenawee County Airport	faa	ADG
+Roben–Hood Airport	faa	RQB
+Evart Municipal Airport	faa	9
+Tuscola Area Airport	faa	CFS
+Cheboygan County Airport	faa	SLH
+Branch County Memorial Airport	faa	OEB
+Drummond Island Airport	faa	DRM
+Frankfort Dow Memorial Field	faa	FKS
+Gaylord Regional Airport	faa	GLR
+Gladwin Zettel Memorial Airport	faa	GDW
+Grayling Army Airfield	faa	GOV
+Padgham Field	faa	35.0
+Atlanta Municipal Airport	faa	Y93
+Harbor Springs Municipal Airport	faa	MGN
+Hillsdale Municipal Airport	faa	JYM
+Roscommon County–Blodgett Memorial Airport	faa	HTL
+Livingston County Spencer J. Hardy Airport	faa	OZW
+Toledo Suburban Airport	faa	DUH
+Mackinac Island Airport	faa	MCD
+Nartron Field	faa	RCT
+Bridgeport Municipal Airport	faa	XBP
+Franklin Municipal–John Beverly Rose Airport	faa	FKN
+Roman Tmetuchl International Airport	faa	ROR
+Marshall Islands International Airport	faa	MAJ\n(Location of airport in Marshall Islands)
+Northwest Missouri Regional Airport	faa	EVU
+Spaceport America	faa	9
+Bader Field	faa	AIY
+Bryant Field	faa	O57
+Page Airport	faa	9
+Virginia Tech Montgomery Executive Airport	faa	BCB
+Mexico Farms Airport	faa	1
+Ephrata Municipal Airport	faa	EPH
+Lemhi County Airport	faa	SMN
+McCall Municipal Airport	faa	MYL
+Lea County Jal Airport	faa	E26
+Lea County–Zip Franklin Memorial Airport	faa	E06
+Placerville Airport	faa	PVF
+St. Mary's County Regional Airport	faa	2
+Auburn Municipal Airport	faa	AUN
+Bakersfield Municipal Airport	faa	L45
+Banning Municipal Airport	faa	BNG
+Nervino Airport	faa	O02
+Big Bear City Airport	faa	L35
+Boonville Airport	faa	D83
+Eastern Sierra Regional Airport	faa	BIH
+Borrego Valley Airport	faa	L08
+Blythe Airport	faa	BLH
+Brawley Municipal Airport	faa	BWC
+Calexico International Airport	faa	CXL
+Byron Airport	faa	83.0
+Fairfield County Airport	faa	FDW
+Cameron Airpark	faa	O61
+Cedarville Airport	faa	O59
+Chemehuevi Valley Airport	faa	49
+Rogers Field	faa	O05
+Chowchilla Airport	faa	2
+Cloverdale Municipal Airport	faa	O60
+Columbia Airport	faa	O22
+New Coalinga Municipal Airport	faa	80.0
+Colusa County Airport	faa	O08
+Corning Municipal Airport	faa	0
+Corona Municipal Airport	faa	AJO
+Round Valley Airport	faa	O09
+University Airport	faa	EDU
+Yolo County Airport	faa	DWA
+Furnace Creek Airport	faa	L06
+Delano Municipal Airport	faa	DLO
+Dinsmore Airport	faa	D63
+Butte Valley Airport	faa	A32
+Murray Field	faa	EKA
+Dunsmuir Municipal-Mott Airport	faa	1
+Kneeland Airport	faa	O19
+Fall River Mills Airport	faa	O89
+Fallbrook Community Airpark	faa	L18
+Firebaugh Airport	faa	F34
+Rohnerville Airport	faa	FOT
+Franklin Field	faa	F72
+Georgetown Airport	faa	E36
+Millington Regional Jetport	faa	NQA
+Naval Air Station Sanford	faa	NRJ
+Atka Airport	faa	AKA
+Circle City Airport	faa	CRC
+Crooked Creek Airport	faa	CJX
+Egegik Airport	faa	EII
+Granite Mountain Air Station	faa	GSZ
+Huslia Airport	faa	HLA
+Holy Cross Airport	faa	HCA
+Five Mile Airport	faa	FVM
+Stovepipe Wells Airport	faa	L09
+Sherman Army Airfield	faa	FLV
+Pine Mountain Lake Airport	faa	E45
+Gustine Airport	faa	3
+Hanford Municipal Airport	faa	HJO
+Happy Camp Airport	faa	36.0
+Hayfork Airport	faa	F62
+Healdsburg Municipal Airport	faa	KHES
+Mesquite Airport	faa	67.0
+Echo Bay Airport	faa	ØL9
+Perkins Field	faa	UØ8
+Searchlight Airport	faa	1
+Kidwell Airport	faa	1
+Sky Ranch Airport	faa	3
+Jean Airport	faa	ØL7
+Golovin Airport	faa	GLV
+Kasigluk Airport	faa	Z09
+Gambell Airport	faa	GAM
+Hooper Bay Airport	faa	HPB
+Kalskag Airport	faa	KLG
+Independence Airport	faa	2
+Hoopa Airport	faa	O21
+Hollister Municipal Airport	faa	CVH
+Kern Valley Airport	faa	L05
+St. Clair County International Airport	faa	PHN
+St. Clair County Airport	faa	PLR
+Amador County Airport	faa	JAQ
+Mesa Del Rey Airport	faa	KIC
+Lee Vining Airport	faa	O24
+Little River Airport	faa	LLR
+Lone Pine Airport	faa	O26
+Yerington Municipal Airport	faa	O43
+Lost Hills Airport	faa	L84
+Los Banos Municipal Airport	faa	LSN
+Madera Municipal Airport	faa	MAE
+Mammoth Yosemite Airport	faa	MMH
+Marina Municipal Airport	faa	OAR
+Mariposa-Yosemite Airport	faa	MPI
+Silver Springs Airport	faa	SPZ
+Alamo Landing Field	faa	L92
+Rosaschi Air Park	faa	N59
+Dyer Airport	faa	2
+Owyhee Airport	faa	1
+Hardwick Field	faa	HDI
+Austin Airport	faa	TMT
+Lincoln County Airport	faa	1
+Jackass Aeropark	faa	U75
+Jackpot Airport	faa	Ø6U
+Goldfield Airport	faa	ØL5
+Eureka Airport	faa	Ø5U
+Boulder City Municipal Airport	faa	BVU
+Burlington Municipal Airport	faa	BUU
+Burlington–Alamance Regional Airport	faa	BUY
+Portage County Regional Airport	faa	POV
+Taylor County Airport	faa	MDZ
+Hadley Airport	faa	NV83
+Beatty Airport	faa	BTY
+Fallon Municipal Airport	faa	FLX
+McClellan Airfield	faa	MCC
+Gabbs Airport	faa	GAB
+Hawthorne Industrial Airport	faa	HTH
+Derby Field	faa	LOL
+Houston County Airport	faa	CHU
+Treasure Coast International Airport	faa	FPR
+Kingston Airport	faa	N15
+Spanish Springs Airport	faa	N86
+Empire Airport	faa	1
+La Cholla Airpark	faa	57
+Chefornak Airport	faa	CFK
+Kipnuk Airport	faa	IIK
+Kongiganak Airport	faa	DUY
+Nuiqsut Airport	faa	AQT
+Quinhagak Airport	faa	AQH
+Sacramento Executive Airport	faa	SAC
+Sacramento Mather Airport	faa	MHR
+Winona Municipal Airport	faa	ONA
+Enterprise Municipal Airport	faa	EDN
+Fort McCoy Airport	faa	CMY
+Jack Edwards Airport	faa	JKA
+Longville Municipal Airport	faa	XVG
+North Auxiliary Airfield	faa	XNO
+Kitoi Bay Seaplane Base	faa	KKB
+Moser Bay Seaplane Base	faa	KMY
+Olga Bay Seaplane Base	faa	KOY
+Port Bailey Seaplane Base	faa	KPY
+Port Williams Seaplane Base	faa	KPR
+West Point Village Seaplane Base	faa	KWP
+San Juan	faa	WSJ
+Alitak Seaplane Base	faa	ALZ
+Nikolski Air Station	faa	IKO
+Icy Bay Airport	faa	19
+Central Airport	faa	CEM
+Amook Bay Seaplane Base	faa	AK81
+Chatham Seaplane Base	faa	CYM
+Funter Bay Seaplane Base	faa	FNR
+Chisana Airport	faa	CZN
+Elfin Cove Seaplane Base	faa	ELV
+Pelican Seaplane Base	faa	PEC
+Excursion Inlet Seaplane Base	faa	EXI
+May Creek Airport	faa	MYK
+McCarthy Airport	faa	15
+Healy River Airport	faa	HRR
+Karluk Airport	faa	KYK
+Hydaburg Seaplane Base	faa	HYG
+Minto Al Wright Airport	faa	51
+Manley Hot Springs Airport	faa	MLY
+Port Alexander Seaplane Base	faa	AHP
+South Alabama Regional Airport	faa	79.0
+Potsdam Municipal Airport	faa	PTD
+Felts Field	faa	SFF
+Tacoma Narrows Airport	faa	TIW
+Point Roberts Airpark	faa	1
+South St. Paul Municipal Airport	faa	SGS
+South Bend International Airport	faa	SBN
+Anson County Airport	faa	AFP
+Winnemucca Municipal Airport	faa	WMC
+Wells Municipal Airport	faa	LWL
+William Robert Johnston Municipal Airport	faa	M90
+Yuba County Airport	faa	MYV
+French Valley Airport	faa	F70
+Greater Kankakee Airport	faa	IKK
+Forest City Municipal Airport	faa	FXY
+Ironhead Airport	faa	T58
+Lane Field Airport	faa	58.0
+Flying C Airport	faa	T87
+Rives Air Park	faa	33
+Phillips Flying Ranch Airport	faa	T48
+Hicks Airfield	faa	T67
+Kenneth Copeland Airport	faa	4
+Bourland Field	faa	50.0
+Sycamore Strip Airport	faa	9
+Air Park-Dallas Airport	faa	F69
+Airpark East Airport	faa	1
+Johnsons Strawberry Farm Airport	faa	9.0
+Willows-Glenn County Airport	faa	WLW
+Ukiah Municipal Airport	faa	UKI
+Bermuda Dunes Airport	faa	UDD
+Lake Tahoe Airport	faa	TVL
+Tehachapi Municipal Airport	faa	TSP
+Truckee Tahoe Airport	faa	TRK
+Zamperini Field	faa	TOA
+Twentynine Palms Airport	faa	TNP
+Mefford Field Airport	faa	TLR
+Tracy Municipal Airport	faa	TCY
+Susanville Municipal Airport	faa	SVE
+Salton Sea Airport	faa	SAS
+Rancho Murieta Airport	faa	RIU
+Truth or Consequences Municipal Airport	faa	TCS
+Stanly County Airport	faa	VUJ
+Asheboro Regional Airport	faa	HBI
+Western Carolina Regional Airport	faa	RHP
+Sussex Airport	faa	FWN
+Wendover Airport	faa	ENV
+St. Louis Downtown Airport	faa	CPS
+Southern Illinois Airport	faa	MDH
+Roberts Field	faa	RDM
+Aurora Municipal Airport	faa	ARR
+Greenwood Lake Airport	faa	4
+Ridge Soaring Gliderport	faa	79.0
+Marco Island Airport	faa	MKY
+Kosrae International Airport	faa	TTK\n(Location of airport in Federated States of Micronesia)
+Yap International Airport	faa	T11\n(Location of airport in Federated States of Micronesia)
+Houston Municipal Airport	faa	M44
+Venice Municipal Airport	faa	VNC
+Denton Enterprise Airport	faa	DTO
+Oceano County Airport	faa	L52
+Oakdale Airport	faa	O27
+Haigh Field Airport	faa	O37
+Oceanside Municipal Airport	faa	OKB
+Petaluma Municipal Airport	faa	O69
+Michael J. Smith Field	faa	MRH
+Oneonta Municipal Airport	faa	N66
+Maxson Airfield	faa	89
+Dillant–Hopkins Airport	faa	EEN
+Northern Aroostook Regional Airport	faa	FVE
+Clinton–Sampson County Airport	faa	CTZ
+Denton Airport	faa	5
+Santa Ynez Airport	faa	IZA
+Waterville Robert LaFleur Airport	faa	WVL
+Edward F. Knapp State Airport	faa	MPV
+Laconia Municipal Airport	faa	LCI
+Naval Air Station Key West	faa	NQX
+Laurel Airport	faa	N06
+Hazleton Municipal Airport	faa	HZL
+New Ulm Municipal Airport	faa	ULM
+Gansner Field	faa	2
+William T. Piper Memorial Airport	faa	LHV
+Curtis L. Brown Jr. Field	faa	EYF
+Northeastern Regional Airport	faa	EDE
+Currituck County Regional Airport	faa	ONX
+Mount Vernon Airport	faa	MVN
+Bowling Green–Warren County Regional Airport	faa	BWG
+London-Corbin Airport	faa	LOZ
+Dallas Bay Skypark	faa	1
+Berlin Regional Airport	faa	BML
+Morrisville–Stowe State Airport	faa	MVL
+First Flight Airport	faa	FFA
+Duplin County Airport	faa	DPL
+Nashua Airport	faa	ASH
+Martin County Airport	faa	MCZ
+Hyde County Airport	faa	7
+Harnett Regional Jetport	faa	HRJ
+Benton Field	faa	O85
+Reedley Municipal Airport	faa	O32
+Ruth Airport	faa	T42
+Rio Vista Municipal Airport	faa	O88
+Gastonia Municipal Airport	faa	AKH
+Erie Municipal Airport	faa	EIK
+Lake in the Hills Airport	faa	3
+San Martin Airport	faa	E16
+Shelter Cove Airport	faa	0
+Shingletown Airport	faa	0
+Columbus County Municipal Airport	faa	CPC
+Ashe County Airport	faa	GEV
+Grove Field	faa	1
+Wayne Executive Jetport	faa	GWW
+Billy Mitchell Airport	faa	HSE
+Davidson County Airport	faa	EXX
+Sutter County Airport	faa	O52
+Willits Municipal Airport	faa	O28
+Woodlake Airport	faa	O42
+Weed Airport	faa	O46
+Weaverville Airport	faa	O54
+Wasco Airport	faa	L19
+Sequoia Field Airport	faa	D86
+Turlock Municipal Airport	faa	O15
+Tulelake Municipal Airport	faa	O81
+Trinity Center Airport	faa	O86
+Taft Airport	faa	L17
+Lonesome Pine Airport	faa	LNP
+Triangle North Executive Airport	faa	LHZ
+Lumberton Municipal Airport	faa	LBT
+Laurinburg–Maxton Airport	faa	MEB
+Marine Corps Outlying Field Camp Davis	faa	14
+Dare County Regional Airport	faa	MQI
+Rowan County Airport	faa	RUQ
+Wilkes County Airport	faa	UKF
+Millville Municipal Airport	faa	MIV
+Skyhaven Airport	faa	RCM
+Naval Outlying Field San Nicolas Island	faa	NSI
+Naval Auxiliary Landing Field San Clemente Island	faa	NUC
+Calaveras County Airport	faa	CPU
+Adin Airport	faa	A26
+Agua Caliente Airport	faa	L54
+Cape May Airport	faa	WWD
+Ormond Beach Municipal Airport	faa	OMN
+Lansing Municipal Airport	faa	IGQ
+Poso Airport	faa	L73
+Elk Hills-Buttonwillow Airport	faa	L62
+Shafter Airport	faa	MIT
+Elizabeth City Regional Airport	faa	ECG
+Ainsworth Regional Airport	faa	ANW
+Fairmont State Airfield	faa	FMZ
+Harvard State Airport	faa	8.0
+Scribner State Airport	faa	SCB
+Georgetown-Scott County Airport	faa	27.0
+Mifflin County Airport	faa	RVL
+Fulton Airport	faa	1
+Stormville Airport	faa	N69
+Piseco Airport	faa	K09
+Perry–Warsaw Airport	faa	1.0
+Sands Point Seaplane Base	faa	7
+Ruston Regional Airport	faa	RSN
+Lake Placid Airport	faa	LKP
+Maben Airport	faa	N00
+Campbell Airport	faa	81.0
+Sierra Sky Park Airport	faa	E79
+Wakulla County Airport	faa	2
+Mercer County Regional Airport	faa	HZE
+New Garden Airport	faa	N57
+Jesse Viertel Memorial Airport	faa	VER
+Pope Field	faa	GFD
+Charlotte Amalie Harbor Seaplane Base	faa	VI22
+Stellar Airpark	faa	P19
+Hyampom Airport	faa	H47
+Jumbolair Airport	faa	17
+Wellington Municipal Airport	faa	EGT
+Wiscasset Airport	faa	IWI
+Greeley–Weld County Airport	faa	GXY
+Tullahoma Regional Airport	faa	THA
+Coles County Memorial Airport	faa	MTO
+Boulder Municipal Airport	faa	BDU
+Harriet Alexander Field	faa	ANK
+Ozark Regional Airport	faa	BPK
+Houlton International Airport	faa	HUL
+Machias Valley Airport	faa	MVM
+Millinocket Municipal Airport	faa	MLT
+Concord Municipal Airport	faa	CON
+Twitchell Airport	faa	3
+County Airport	faa	EWK
+Washington County Airport	faa	AFJ
+New London Airport	faa	W90
+Cable Airport	faa	CCB
+Gettysburg Regional Airport	faa	W05
+South Jersey Regional Airport	faa	VAY
+Mathis Airport	faa	GA27
+Marine Corps Air Station Camp Pendleton	faa	NFG
+Schaumburg Regional Airport	faa	06C
+Naval Outlying Field Spencer	faa	NRQ
+Stuart Powell Field	faa	DVK
+Newman's Airport	faa	4
+Diamond Point Airport	faa	2
+Purdue University Airport	faa	LAF
+Lebanon-Warren County Airport	faa	I68
+Dade-Collier Training and Transition Airport	faa	TNT
+Hagerstown Airport	faa	I61
+TSTC Waco Airport	faa	CNW
+Sandy Creek Airpark	faa	75
+Arlington Municipal Airport	faa	GKY
+Mena Intermountain Municipal Airport	faa	MEZ
+Naval Air Station Cecil Field	faa	NZC
+Fitiuta Airport	faa	FAQ
+Ofu Airport	faa	Z08
+Tau Airport	faa	HI36
+Hamilton Field	faa	1
+Desert Rock Airport	faa	NV65
+Yucca Airstrip	faa	NV11
+Camp Mackall	faa	HFF
+Lida Junction Airport	faa	0
+Tiger Field	faa	N58
+Kayenta Airport	faa	0
+Chinle Municipal Airport	faa	E91
+Tuba City Airport	faa	T03
+Crownpoint Airport	faa	0
+Shiprock Airstrip	faa	5
+Richland Airport	faa	RLD
+Vista Field	faa	S98
+Jaluit Airport	faa	N55
+Kili Airport	faa	Q51
+Bendigo Airport	faa	74.0
+Maloelap Airport	faa	3
+Mejit Airport	faa	Q30
+Mili Airport	faa	1
+Namorik Airport	faa	3
+Utirik Airport	faa	3.0
+Wotje Airport	faa	N36
+Ryon Heliport	faa	21
+Skagit Regional Airport	faa	BVS
+Fall City Airport	faa	1
+Tallman East Airport	faa	58
+New Cuyama Airport	faa	L88
+Lamar Municipal Airport	faa	LAA
+Paso Robles Municipal Airport	faa	PRB
+Meriden Markham Municipal Airport	faa	MMK
+Monroe County Airport	faa	MVC
+Talladega Municipal Airport	faa	ASN
+Lawson Army Airfield	faa	LSF
+Aurora State Airport	faa	UAO
+Independence State Airport	faa	7
+Ashland Municipal Airport	faa	S03
+Astoria Regional Airport	faa	AST
+Bandon State Airport	faa	S05
+Baker City Municipal Airport	faa	BKE
+Illinois Valley Airport	faa	3
+Burns Municipal Airport	faa	BNO
+Brookings Airport	faa	BOK
+Bend Municipal Airport	faa	BDN
+Chiloquin State Airport	faa	2
+Condon State Airport	faa	3
+Corvallis Municipal Airport	faa	CVO
+Hobby Field	faa	77.0
+Florence Municipal Airport	faa	6
+Plant City Airport	faa	PCM
+Siletz Bay State Airport	faa	S45
+Gold Beach Municipal Airport	faa	4
+Hermiston Municipal Airport	faa	HRI
+Ken Jernstedt Airfield	faa	4
+Grant County Regional Airport	faa	GCD
+Joseph State Airport	faa	JSY
+Union County Airport	faa	LGD
+Lake County Airport	faa	LKV
+McDermitt State Airport	faa	26
+Lexington Airport	faa	9
+Madras Municipal Airport	faa	S33
+Lebanon State Airport	faa	3
+McMinnville Municipal Airport	faa	MMV
+Freeway Airport	faa	W00
+Cynthiana-Harrison County Airport	faa	0
+Myrtle Creek Municipal Airport	faa	16.0
+Newport Municipal Airport	faa	ONP
+Godman Army Airfield	faa	FTK
+Ontario Municipal Airport	faa	ONO
+Prineville Airport	faa	S39
+Roseburg Regional Airport	faa	RBG
+Scappoose Industrial Airpark	faa	SPB
+Seaside Municipal Airport	faa	56.0
+Sunriver Airport	faa	S21
+Tillamook Airport	faa	TMK
+Arlington Municipal Airport	faa	1
+Beaver Marsh Airport	faa	2
+Cascade Locks State Airport	faa	CZK
+Skyport Airport	faa	4
+Lake Billy Chinook Airport	faa	5
+Toketee State Airport	faa	3
+Enterprise Municipal Airport	faa	8
+Valley View Airport	faa	5
+Portland Downtown Heliport	faa	61.0
+Lake Woahink Seaplane Base	faa	1
+Pike County Airport	faa	PBX
+Davis Airport	faa	6
+Stark's Twin Oaks Airpark	faa	7
+Lenhardt Airpark	faa	7
+Siltcoos Lake Seaplane Base	faa	5
+Bartow Municipal Airport	faa	BOW
+Memaloose Airport	faa	25
+Lakeside State Airport	faa	9
+Sumter Airport	faa	SMS
+Nehalem Bay State Airport	faa	3
+McKenzie Bridge State Airport	faa	0.0
+Monument Municipal Airport	faa	12.0
+Oakridge State Airport	faa	5
+Owyhee Reservoir State Airport	faa	28
+Pacific City State Airport	faa	PFC
+Davenport Municipal Airport	faa	DVN\n(Location of Davenport Municipal Airport )
+Paisley Airport	faa	22.0
+Powers Airport	faa	6
+Prospect State Airport	faa	64.0
+Rome State Airport	faa	REO
+Naval Outlying Landing Field Imperial Beach	faa	NRS
+Santiam Junction State Airport	faa	8
+Lake County Airport	faa	LXV
+Silver Lake Forest Service Strip	faa	45.0
+Grundy Municipal Airport	faa	GDY
+Toledo State Airport	faa	5
+Miller Memorial Airpark	faa	S49
+Vernonia Municipal Airport	faa	5.0
+Welke Airport	faa	6
+Harchenko Industrial Airport	faa	OR38
+Smith Private Airport	faa	29
+Sweet Home Airport	faa	2
+McNary ARNG Field Heliport	faa	4
+Griffiss International Airport	faa	RME
+H. L. Sonny Callahan Airport	faa	CQF
+Mankato Regional Airport	faa	MKT
+MidCoast Regional Airport at Wright Army Airfield	faa	LHW
+Destin Executive Airport	faa	DTS
+Northeast Florida Regional Airport	faa	SGJ
+James Clements Municipal Airport	faa	3.0
+Camp Rilea Heliport	faa	15
+Cecil Airport	faa	VQQ
+Sanford Seacoast Regional Airport	faa	SFM
+Lawrence County Airpark	faa	HTW
+Wayne County Airport	faa	BJJ
+Tipton Airport	faa	FME
+Perry–Houston County Airport	faa	PXE
+Arnold Field	faa	M31
+Elkins Heliport	faa	3
+Salem Hospital Heliport	faa	OG37
+Greensburg Municipal Airport	faa	I34
+Elkhart Municipal Airport	faa	EKM
+Delaware County Regional Airport	faa	MIE
+Clark County Airport	faa	8
+Clark Regional Airport	faa	JVY
+Pittsburgh–Monroeville Airport	faa	4
+Stanford Health Care	faa	15
+Platte Valley Airpark	faa	18.0
+Moraine Airpark	faa	I73
+Oakes Municipal Airport	faa	2
+St. Mary's Airport	faa	KSM
+Seldovia Airport	faa	SOV
+Selawik Airport	faa	WLK
+Mountain Village Airport	faa	MOU
+Marine Corps Auxiliary Landing Field Bogue	faa	NJM
+Lake Gardner Seaplane Base	faa	6
+Gardner Lake Airport	faa	CT08
+Gardner Airport	faa	MT59
+Gardner Airport	faa	39
+Gardner Airport	faa	29
+Gardner Municipal Airport	faa	K34
+Gardner Airport	faa	88.0
+Gardner Airport	faa	FD40
+Gardner Farm Airport	faa	18
+Quonset Point Air National Guard Station	faa	OQU/KNCO as an NAS
+Kathrinstadt Airport	faa	2
+Greene County–Lewis A. Jackson Regional Airport	faa	I19
+Middletown Regional Airport	faa	MWO
+Solberg–Hunterdon Airport	faa	N51
+Naval Outlying Field Coupeville	faa	NRA
+Bed-ah-Wick Field	faa	1
+Shawnee Field	faa	1
+Waycross–Ware County Airport	faa	AYS
+Strother Field	faa	WLD
+Suburban Airport	faa	W18
+Cheyenne County Municipal Airport	faa	SYF
+Ada Municipal Airport	faa	ADH
+Red Dog Airport	faa	DGG
+Grider Field	faa	PBF
+Pagan Airstrip	faa	TT01
+Christiansted Harbor Seaplane Base	faa	VI32
+Kodiak Municipal Airport	faa	KDK
+Ketchikan Harbor Seaplane Base	faa	5
+Clear Sky Lodge Airport	faa	CLF
+Clear Airport	faa	Z84
+Anaktuvuk Pass Airport	faa	AKP
+Oswego County Airport	faa	FZY
+Sullivan County International Airport	faa	MSV
+Kake Seaplane Base	faa	KAE
+Nanwalek Airport	faa	KEB
+Pennridge Airport	faa	CKZ
+Punta Gorda Airport	faa	PGD
+Surry County Airport	faa	MWK
+Merrimack Valley Seaplane Base	faa	MA2
+Monponsett Pond Seaplane Base	faa	MA6
+Campbell Field Airport	faa	9
+Monmouth Executive Airport	faa	BLM
+Somerset Airport	faa	SMQ
+Moton Field Municipal Airport	faa	6.0
+Sharpe Field	faa	AL73
+Kwigillingok Airport	faa	GGV
+Doylestown Airport	faa	DYL
+San Carlos Apache Airport	faa	P13
+Needles Airport	faa	EED
+Ocean City Municipal Airport	faa	26.0
+Carroll County Regional Airport	faa	DMW
+Chester County G. O. Carlson Airport	faa	MQS
+Allentown Queen City Municipal Airport	faa	XLL
+Spirit of St. Louis Airport	faa	SUS
+Steamboat Springs Airport	faa	SBS
+Jefferson City Memorial Airport	faa	JEF
+Fort Morgan Municipal Airport	faa	FMM
+Yuma Municipal Airport	faa	2
+Dalton Municipal Airport	faa	DNN
+Lee Gilmer Memorial Airport	faa	GVL
+Coeur d'Alene Airport	faa	COE
+Twin Bridges Airport	faa	U61
+Perkiomen Valley Airport	faa	N10
+Effingham County Memorial Airport	faa	1
+Metropolis Municipal Airport	faa	M30
+Council Bluffs Municipal Airport	faa	CBF
+Brooksville–Tampa Bay Regional Airport	faa	BKV
+Sebring Regional Airport	faa	SEF
+Gorham Airport	faa	2
+Easton Airport	faa	ESN
+Franconia Airport	faa	1
+Quakertown Airport	faa	UKT
+Pottstown Municipal Airport	faa	N47
+Pottstown Limerick Airport	faa	PTW
+Spruce Creek Airport	faa	7
+New Smyrna Beach Municipal Airport	faa	EVB
+Van Sant Airport	faa	9
+Orlando Apopka Airport	faa	X04
+Claremont Municipal Airport	faa	CNH
+Plymouth Municipal Airport	faa	1
+Miley Memorial Field	faa	BPI
+Burley Municipal Airport	faa	BYI
+Keokuk Municipal Airport	faa	EOK
+Hawkins Field	faa	HKS
+Hidden Lake Airport	faa	FA40
+Sedalia Regional Airport	faa	DMO
+Simsbury Airport	faa	4
+Saufley Field	faa	NUN
+Pegasus Airpark	faa	5
+Franklin County Airport	faa	UOS
+Quincy Municipal Airport	faa	2
+Meadow Lake Airport	faa	FLY
+Robertson Field	faa	D55
+Chester Airport	faa	SNC
+Griswold Airport	faa	N04
+Franklin County Airport	faa	18.0
+Franklin County Airport	faa	F53
+Horizon Airport	faa	T27
+Horizon Airport	faa	74.0
+Gatesville Municipal Airport	faa	GOP
+Houston County Airport	faa	DKR
+Houston County Airport	faa	M93
+Chuathbaluk Airport	faa	9
+Brandywine Airport	faa	OQN
+Marfa Municipal Airport	faa	MRF
+Buffalo Airfield	faa	9
+Eagles Nest Airport	faa	31
+Newnan–Coweta County Airport	faa	CCO
+Bob Baker Memorial Airport	faa	IAN
+Kaltag Airport	faa	KAL
+King Cove Airport	faa	KVC
+Kwethluk Airport	faa	KWT
+Marshall Don Hunter Sr. Airport	faa	MDM
+Robert	faa	D76
+Manokotak Airport	faa	MBA
+Red Bluff Municipal Airport	faa	RBL
+Kake Airport	faa	AFE
+Anvik Airport	faa	ANV
+Barter Island LRRS Airport	faa	BTI
+Brevig Mission Airport	faa	KTS
+Deering Airport	faa	DEE
+Cape Lisburne LRRS Airport	faa	LUR
+Sheldon Point Airport	faa	SXP
+Waukegan National Airport	faa	UGN
+Grayling Airport	faa	KGX
+Kivalina Airport	faa	KVL
+Nulato Airport	faa	NUL
+Koyukuk Airport	faa	KYU
+Noatak Airport	faa	WTK
+Koyuk Alfred Adams Airport	faa	KKA
+Akhiok Airport	faa	AKK
+Bullfrog Basin Airport	faa	U07
+Fort Walton Beach Airport	faa	1
+Naval Air Station Barbers Point	faa	JRF
+Massey Ranch Airpark	faa	X50
+Johnson Creek Airport	faa	3
+Jimmy Carter Regional Airport	faa	ACJ
+Allen Parish Airport	faa	ACP
+Mina Airport	faa	3
+Phoenix–Mesa Gateway Airport	faa	IWA
+Llano Municipal Airport	faa	AQO
+Rantoul National Aviation Center	faa	TIP
+Stinson Municipal Airport	faa	SSF
+Poplar Grove Airport	faa	77.0
+Northeast Alabama Regional Airport	faa	GAD
+Boise City Airport	faa	17.0
+Raton Municipal Airport	faa	RTN
+Springer Municipal Airport	faa	S42
+Waseca Municipal Airport	faa	ACQ
+Robert F. Swinnie Airport	faa	PHH
+Wheeling Ohio County Airport	faa	HLG
+Fond du Lac County Airport	faa	FLD
+Volk Field Air National Guard Base	faa	VOK\n(Location of the Airport in Wisconsin)
+Stevens Point Municipal Airport	faa	STE
+Hartness State Airport	faa	VSF
+William H. Morse State Airport	faa	DDH
+McKinley Field	faa	T30
+Franklin County State Airport	faa	FSO
+Shively Field	faa	SAA
+Rawlins Municipal Airport	faa	RWL
+John H. Batten Airport	faa	RAC
+Bethel Regional Airport	faa	0
+McAlester Regional Airport	faa	MLC
+Alpine–Casparis Municipal Airport	faa	E38
+Hampton Roads Executive Airport	faa	PVG
+Chesterfield County Airport	faa	FCI
+Bryce Canyon Airport	faa	BCE
+Fairfield Municipal Airport	faa	FFL
+Allen Army Airfield	faa	BIG
+Hughes Airport	faa	HUS
+Rocky Mount–Wilson Regional Airport	faa	RWI
+Clare Municipal Airport	faa	48.0
+Crystal River Airport	faa	CGC
+Mountain View Airport	faa	7.0
+Mountain View Airport	faa	MNF
+Herlong Recreational Airport	faa	HEG
+Lake City Gateway Airport	faa	LCQ
+Dalhart Municipal Airport	faa	DHT
+Spencer Municipal Airport	faa	SPW
+Nebraska City Municipal Airport	faa	AFK
+Dahio Trotwood Airport	faa	I44
+Bay Bridge Airport	faa	W29
+New Richmond Regional Airport	faa	RNH
+Nampa Municipal Airport	faa	MAN
+Crest Airpark	faa	S36
+Scott Field	faa	2
+Decatur County Industrial Air Park	faa	BGE
+Marion County – Rankin Fite Airport	faa	HAB
+Barwick–LaFayette Airport	faa	9
+Mark Anton Airport	faa	2
+Monroe County Airport	faa	MNV
+Greeneville–Greene County Municipal Airport	faa	GCY
+Agua Dulce Airpark	faa	L70
+Mallory Airport	faa	WV12
+Opa-locka West Airport	faa	X46
+Fernandina Beach Municipal Airport	faa	FHB
+Cape Canaveral Air Force Station Skid Strip	faa	XMR
+Leesburg International Airport	faa	LEE
+Marine Corps Air Facility Quantico	faa	NYG
+Eagle's Nest Airport	faa	W13
+Culberson County Airport	faa	VHN
+Calverton Executive Airpark	faa	3
+White Mountain Airport	faa	WMO
+DeLand Municipal Airport	faa	DED
+Allakaket Airport	faa	6
+Ardmore Downtown Executive Airport	faa	1
+Millard Airport	faa	MLE
+Marine Corps Air Station Kaneohe Bay	faa	NGF
+West Memphis Municipal Airport	faa	AWM
+North Little Rock Municipal Airport	faa	ORK
+Lake Hood Strip	faa	LHD
+Macomb Municipal Airport	faa	MQB
+Kissimmee Gateway Airport	faa	ISM
+Clearwater Air Park	faa	CLW
+Challis Airport	faa	LLJ
+Wadena Municipal Airport	faa	ADC
+Audubon County Airport	faa	ADU
+Wharton Regional Airport	faa	ARM
+Algona Municipal Airport	faa	AXA
+Texas Gulf Coast Regional Airport	faa	LBX
+Channel Islands Air National Guard Station	faa	NTD
+Ellington Field Joint Reserve Base	faa	EFD
+Jim Hamilton–L.B. Owens Airport	faa	CUB
+York County Airport	faa	UZA
+Timberland Shop Heliport	faa	65
+Columbia Memorial Hospital Heliport	faa	OG03
+Station Thirty Heliport	faa	OG56
+Rothrock Field Airport	faa	OG04
+A.J. Eisenberg Airport	faa	OKH
+Naval Air Station South Weymouth	faa	NZW
+MC Ranch Airport	faa	47
+Hemmingson Airport	faa	OR20
+Lambert Field Airport	faa	4
+Miller Airstrip	faa	OR21
+Evergreen Field	faa	59.0
+Bradford County Airport	faa	N27
+Bradford Field	faa	NJ49
+Bradford Field	faa	NC05
+Antlers Municipal Airport	faa	80.0
+Arapahoe Municipal Airport	faa	37.0
+Columbus-Lowndes County Airport	faa	UBS
+Columbus Municipal Airport	faa	OLU
+Henry County Airport	faa	PHT
+Pahute Mesa Airstrip	faa	L23
+Sky Harbor Airport & Seaplane Base	faa	DYT
+Monticello Airport	faa	N37
+Monticello Regional Airport	faa	MXO
+Newark–Heath Airport	faa	VTA
+Hobart Regional Airport	faa	HBR
+Independence Municipal Airport	faa	IDP
+Beaver County Airport	faa	BVI
+Butler County Airport	faa	BTP
+Washburn Municipal Airport	faa	5
+Flagler County Airport	faa	FIN
+Malcolm McKinnon Airport	faa	SSI
+Beach Airport	faa	20
+Bottineau Municipal Airport	faa	D09
+Bowman Municipal Airport	faa	BPP
+Hualapai Airport	faa	3
+Grand Canyon Caverns Airport	faa	L37
+Girdwood Airport	faa	AQY
+Beluga Airport	faa	BLG
+Propst Airport	faa	OR19
+Roppair Airport	faa	OR22
+Wooldridge Agstrip	faa	9
+Goering Ranches Airport	faa	50
+Plum Valley Airport	faa	64
+Watts Landing Airport	faa	OG44
+Wildhorse Valley Airport	faa	OG53
+Shishmaref Airport	faa	SHH
+Point Hope Airport	faa	PHO
+Tyonek Airport	faa	TYE
+Cando Municipal Airport	faa	9
+Carrington Municipal Airport	faa	46.0
+Ugnu–Kuparuk Airport	faa	UBW
+Winner Regional Airport	faa	ICR
+Big Muddy Ranch Airport	faa	2
+Karpens Airport	faa	OR23
+Barrett Field Airport	faa	OR24
+Flying E Airport	faa	OR25
+Columbia Aviation Heliport	faa	OR71
+Columbia Helicopters Heliport	faa	OR68
+Bald Mountain Airport	faa	OG45
+Three Valleys Ranch Heliport	faa	OG47
+Hackettstown Airport	faa	N05
+Spartanburg Downtown Memorial Airport	faa	SPA
+Chadwick Airport	faa	OR27
+Rieben Airport	faa	OG02
+Blairstown Airport	faa	1
+Moondance Ranch Airport	faa	87
+Amber Glen Business Center Heliport	faa	86
+Trinca Airport	faa	13.0
+Beaverton Corporate Center Heliport	faa	24
+Flying K Ranch Airport	faa	OR00
+Harvey's Acres Airport	faa	OR28
+St. Vincent Hospital Heliport	faa	53
+Turel Heliport	faa	OR03
+D M Stevenson Ranch Airport	faa	OR30
+Horseman Heliport	faa	OR15
+Gopher Gulch Airport	faa	OR29
+Inspiration Airport	faa	43
+Juniper Air Park	faa	5
+Kennel Airstrip	faa	OR04
+Pilot Butte Airport	faa	8
+St. Charles Medical Center Heliport	faa	54
+Aeroflex–Andover Airport	faa	12.0
+Sundance Meadows Airport	faa	OG05
+Allen's Airstrip	faa	85
+Wilderness Airport	faa	80
+Simtag Farms Airport	faa	OR32
+Krueger Airport	faa	OR72
+Flying K Bar J Ranch Airport	faa	OR35
+Schmidt Airport	faa	6
+Garvins Heliport	faa	OR36
+Cubehole Airport	faa	3
+Lafferty Field	faa	9
+Galesburg Municipal Airport	faa	GBG
+La Porte Municipal Airport	faa	PPO
+Eagle Creek Airpark	faa	EYE
+Indianapolis Regional Airport	faa	MQJ
+Hendricks County Airport	faa	2
+Indianapolis Metropolitan Airport	faa	UMP
+Indianapolis Executive Airport	faa	TYQ
+Showa Airport	faa	OR94
+Wagontire Airport	faa	81
+Compton Airport	faa	44
+Apple Valley Airport	faa	OR61
+Dietz Airpark	faa	OR40
+Briggs Airport	faa	OR44
+Greer Airport	faa	OG48
+Workman Airpark	faa	OR41
+Table Rock Airport	faa	OG06
+Pape' Bros. Inc. Heliport	faa	16
+West Point Airport	faa	OR45
+Ajax Airport	faa	OR46
+Bay Area Hospital Heliport	faa	OR49
+Benham Airport	faa	45
+Coca Cola Airport	faa	OG49
+Lehman Field	faa	OR50
+Dunning Vineyards Airport	faa	OG01
+Snyder Ranch Airport	faa	OR48
+Good Samaritan Hospital Heliport	faa	OR55
+Holiday Airport	faa	OR56
+Flying Tom Airport	faa	OR39
+Joyner Airport	faa	8
+Schrock Airport	faa	4
+Winn Airport	faa	OR54
+Cove Side Ranch Port Airport	faa	OG07
+Muddy Creek Airport	faa	55
+Venell Airport	faa	OR52
+Minam Lodge Airport	faa	7
+Barton Lake Ranch Airport	faa	OR08
+Lost Creek Airport	faa	82
+Land's Inn Ranch Airport	faa	49
+Riverview Ranch Airport	faa	8
+3 Rivers Recreation Area Airport	faa	OG00
+Crowley Ranch Airstrip	faa	78
+Walker Airport	faa	OR57
+Mazama Timber Pad	faa	OR58
+Arnold Airstrip	faa	7
+Crescent-Odell Lakes RFPD Heliport	faa	OR33
+McGee Airport	faa	67
+Fargher Airport	faa	OR60
+East Oregon Cattle Company Airport	faa	0
+Light Valley Tree Farm Heliport	faa	8
+Mucky Flat Airport	faa	89
+Butter Valley Golf Port	faa	7
+Peacock Ranch Airport	faa	5
+Farm Yard Field	faa	94
+Beach Ranch Airport	faa	OR64
+Crow-Mag Airport	faa	33
+West Buttercreek Airport	faa	OL02
+Reds Wallowa Horse Ranch Airport	faa	6
+Ankeny Regional Airport	faa	IKV
+Davis Field	faa	MKO
+West Woodward Airport	faa	WWR
+Hatbox Field	faa	HAX
+Al Jufra Air Base	faa	HL69
+Eagle Nest Ranch Airport	faa	OR65
+McGill Airport	faa	OR67
+Beaver Oaks Airport	faa	OR66
+Heli-Jet Heliport	faa	31
+Mahlon Sweet Field Heliport	faa	OG32
+Peace Harbor Hospital Heliport	faa	4
+Sacred Heart Medical Center Heliport	faa	OR69
+Whitehorse Ranch Airport	faa	OR09
+Longview Ranch Airport	faa	OG39
+Daviess County Airport	faa	DCY
+Roaring Springs Ranch Airport	faa	OR10
+Hayden Mountain Airport	faa	6
+Goodin Creek Airport	faa	70
+Dick Fisher Airport	faa	69
+Nace Family Airstrip	faa	OG41
+Glide Aero Airport	faa	17
+Calvert Peak STOLport	faa	OR73
+Jantzer Airport	faa	OR88
+Hilltop Airport	faa	98
+Southern Oregon General Hospital Heliport	faa	8
+Mount Hood Medical Center Heliport	faa	56
+Winkle Bar Airport	faa	OR74
+Jensens Strip	faa	OR11
+Muddy Creek Airport	faa	OG27
+Happy Valley Airport	faa	OL03
+Cub Port Airport	faa	26
+Jim's Airstrip	faa	OG16
+Waynes Air Service Airport	faa	OR76
+Pine Valley Airport	faa	OR70
+Cottonwood Creek Ranch Airport	faa	OG50
+Daniels Field	faa	OR78
+Good Shepherd Hospital Heliport	faa	OG09
+Danielson Heliport	faa	8
+Olinger Strip	faa	OR81
+Teufel's Farm Strip	faa	OR80
+Tuality Hospital Heliport	faa	OG46
+Big Bar Heliport	faa	OR91
+Air Columbia Heliport	faa	14
+Green Acres Air Park	faa	7
+Hood River Fire Dept. Heliport	faa	OR43
+United Telephone System Heliport	faa	OR82
+Oxbow Airport	faa	OR12
+Lockhart Airport	faa	2
+Faust Field	faa	OR77
+Wigrich Airport	faa	OR85
+Davidson Field	faa	2
+Gilmour Ag Air Airport	faa	OR86
+Skinner Ranch Airport	faa	12
+Munson Airport	faa	OG36
+Strauch Field	faa	OR47
+Murphy Ranch Airport	faa	3
+Juntura Airport	faa	OR14
+Decker Ranch Airport	faa	OL04
+Compressor Station Number 10 STOLport	faa	OR87
+Kinzua Airport	faa	OR89
+Sky Lakes Medical Center Heliport	faa	9
+Maxwell Private Airport	faa	3
+Lafayette Airstrip	faa	OR90
+La Pine Heliport	faa	OR84
+Lake District Hospital Heliport	faa	90
+Farr Airport	faa	OR26
+Morehead-Rowan County Airport	faa	I32
+Madison County Airport	faa	UYF
+Madison County Executive Airport	faa	MDQ
+Daniel Field	faa	DNL
+Teed's Airport	faa	OG17
+Lebanon Hospital Heliport	faa	8
+Mt. Hope Airport	faa	OG10
+Withrotor Airport	faa	22
+Lawen Strip	faa	OG18
+Tallman Airport	faa	88
+North Lincoln Hospital Heliport	faa	OR93
+Miranda's Skyranch Airport	faa	OR07
+Tamarack Springs Ranch Airport	faa	83
+Mountain View Hospital Heliport	faa	OG35
+Bombay Farms Airport	faa	OG19
+Six Springs Ranch Airport	faa	OG51
+Ochs Private Airport	faa	72
+Valley Medical Center Heliport	faa	OG38
+Vineyard Airport	faa	OR95
+Nelson Ranch Airport	faa	19
+Burrill Airport	faa	OR97
+Providence Hospital Heliport	faa	0
+Beagle Sky Ranch Airport	faa	OR96
+Rogue Valley Medical Center Heliport	faa	OR99
+Snider Creek Airport	faa	OR06
+Basl Hill Farms Airport	faa	7
+Hendershots Heliport	faa	0
+King's Airport	faa	9
+Oregon Sky Ranch Airport	faa	OG33
+Round Butte Heliport	faa	0
+Long Ranch Airport	faa	0
+Bruce's Airport	faa	7
+Helitradewinds Heliport	faa	5
+Collins Landing Strip	faa	4
+Skydive Oregon Airport	faa	OL05
+JPM Airport	faa	OG52
+Marr Field	faa	0
+Hanel Field	faa	0
+Mountaindale Airport	faa	63
+Myrtle Creek Municipal Heliport	faa	OG62
+Chehalem Mountain Heliport	faa	1
+Parrett Mountain Airport	faa	28
+Providence Newberg Medical Center Heliport	faa	OG55
+Ribbon Ridge Airport	faa	73
+Stan Jost Airport	faa	74
+Time Flies Private Heliport	faa	27
+Sunnyhill Airport	faa	1
+Menasha Pad	faa	1
+North Plains Gliderport	faa	1
+Norway Airport	faa	OR42
+Malheur Memorial Hospital Heliport	faa	75
+Umpleby Ranch Airport	faa	OR16
+Heavens Gate Ranch Airport	faa	2
+Sunset Air Strip	faa	1
+Whitaker Airport	faa	60
+Aubrey Mountain Airstrip	faa	13
+Reed Airport	faa	1
+Clackamas County Redsoils Heliport	faa	1
+Holy Rosary Medical Center Heliport	faa	5
+Aeroacres Airport	faa	OG30
+Nielsen Airport	faa	2
+Clackamas Heights Airport	faa	1
+Fairways Airport	faa	OG20
+Skyhill Airport	faa	1
+Delamarter Heliport	faa	46
+Quail Field	faa	OG42
+Babler Bros. Inc. Heliport	faa	3
+St. Anthony's Hospital Heliport	faa	40
+Hessel Tractor Heliport	faa	3
+Emanuel Hospital Heliport	faa	7
+Oregon Health & Science University Emergency Heliport	faa	9
+PGE Service Center Heliport	faa	3
+Portland Adventist Medical Center Heliport	faa	9
+Rose Garden Heliport	faa	OG11
+Providence Medical Center Heliport	faa	34
+Casselton Robert Miller Regional Airport	faa	5
+Cavalier Municipal Airport	faa	2
+Cooperstown Municipal Airport	faa	S32
+Crosby Municipal Airport	faa	D50
+Edgeley Municipal Airport	faa	51.0
+Garrison Municipal Airport	faa	D05
+Turtle Lake Municipal Airport	faa	91.0
+Wallace Heliport	faa	9
+Woodland Park Hospital Heliport	faa	2
+Westwood Corporation Heliport	faa	76
+World Trade Center Heliport	faa	2
+Shotgun Ranch Airstrip	faa	42
+Hi Country No. 2 Airport	faa	97
+Oxbow Ranch Airport	faa	OR17
+Pioneer Memorial Hospital Heliport	faa	2
+BLM Heliport	faa	77
+Dry Creek Airpark	faa	OG21
+Western Div. Service Center Heliport	faa	3
+Rainier Heliport	faa	OR62
+Wilson Ranch Airport	faa	OG12
+Warner's Airport	faa	20
+Little Ferry Seaplane Base	faa	2
+Camden County Airport	faa	19.0
+Lakewood Airport	faa	N12
+McClusky Municipal Airport	faa	7
+Cinder Butte Heliport	faa	62
+River Run Ranch Airport	faa	OR02
+Cline Falls Air Park	faa	3
+Cruse Memorial Heliport	faa	79
+Springbrook Airport	faa	4
+Rome Service Airport	faa	0
+Douglas Community Hospital Heliport	faa	OR01
+Mercy Hospital Heliport	faa	OG22
+Lookingglass Airport	faa	48
+Flournoy Valley Airport	faa	95
+Napier Ranch Airport	faa	OG40
+Umpqua Airport	faa	58
+Fly by Night Airport	faa	OG13
+Fly 'N' W Airport	faa	4
+Wagoner Airport	faa	4
+Steel Systems Heliport	faa	0
+South Hill Heliport	faa	4
+PGE Heliport	faa	51
+Lusardi Field	faa	4
+Rock Airport	faa	9
+Old Bridge Airport	faa	3
+Cross Keys Airport	faa	17.0
+Peterson Field	faa	4
+Winkler County Airport	faa	INK
+Mineral Wells Airport	faa	MWL
+Kerrville Municipal Airport	faa	ERV
+Abernathy Municipal Airport	faa	F83
+Draughon–Miller Central Texas Regional Airport	faa	TPL
+Pecos Municipal Airport	faa	PEQ
+South Texas Regional Airport at Hondo	faa	HDO
+Maverick County Memorial International Airport	faa	5
+Statesboro–Bulloch County Airport	faa	TBR
+Big Spring McMahon–Wrinkle Airport	faa	BPG
+Auberge Des Fleurs Airport	faa	4
+McKinnon Airpark	faa	OG29
+Chinook Ultralight Airpark	faa	52
+Grabhorn's Airport	faa	8
+Gillette Field Airport	faa	OR51
+The Green Trees Ranch Airport	faa	OG28
+San Marcos Municipal Airport	faa	HYI
+Seaside Heliport	faa	OR63
+Moore Army Airfield	faa	AYE
+Childress Municipal Airport	faa	CDS
+Avenger Field	faa	SWW
+Naval Auxiliary Air Station Charlestown	faa	KALF
+B Bar Ranch Airport	faa	84
+Backachers Ranch Airport	faa	5
+Inshallah International Airport	faa	7
+Ponderosa Ranch Airport	faa	OG14
+Seneca Emergency Airstrip	faa	OR98
+Shady Cove Airpark	faa	OG31
+Shaniko Cattle Airport	faa	OG54
+Shaniko Ranch Airport	faa	9
+Mach-O Acres Airport	faa	98
+Poverty Hollow Airport	faa	OG23
+Siletz Airport	faa	5
+Mahogany Mountain Airport	faa	1
+Palacios Municipal Airport	faa	PSX
+Gainesville Municipal Airport	faa	GLE
+Red & White Flying Service Airport	faa	1
+Iron Crown Airport	faa	22
+Saxon Sycan Airport	faa	8
+Pineridge Ranch Airport	faa	7
+Sage Ranch Airport	faa	OG15
+The Citadel Airport	faa	61
+Whippet Field	faa	OR34
+Saxon's Heliport	faa	23
+Flying T Ranch Airport	faa	5
+Jasper Ridge Airstrip	faa	36
+Kingston Airpark	faa	8
+Umpqua River Farm Airport	faa	57
+Chenoweth Airpark	faa	6
+Honald Ranch Airport	faa	7
+Flying D Ranch Airport	faa	OG24
+Holiday Sky Ranch Airport	faa	11
+Santiam Memorial Hospital Helistop	faa	5
+Lone Oaks Ranch Airport	faa	5
+Hatch Airport	faa	5
+Vey Sheep Ranch Airport	faa	37
+Grells Airport	faa	6
+Mid-Columbia Fire & Rescue Heliport	faa	OG43
+Pointers Airport	faa	6
+Rowena Dell Airport	faa	2
+Lincoln Tower Heliport	faa	OR37
+Mid-Columbia Medical Center Heliport	faa	9
+Tillamook County General Hospital Heliport	faa	6
+Meyer Riverside Airpark	faa	OG34
+Powwatka Ridge Airport	faa	3
+Cable Creek Ranch Airport	faa	96
+McNary Dam Heliport	faa	59
+Unity Airport	faa	11
+Legacy Meridian Park Medical Center	faa	6
+Wonder Airport	faa	6
+Trivelpiece Airport	faa	OR59
+Smith Mountain Ranch Airport	faa	99
+Roscoes Airport	faa	OG26
+Firefly Ranch Airfield	faa	OG25
+Pine Hollow Airport	faa	32
+Sutton On Rogue Airport	faa	0
+Stevens Mountain Airport	faa	10
+Flying M Airport	faa	OR05
+Pynn Heliport	faa	92
+Bero Field	faa	30
+Wapinitia Airport	faa	OR53
+Sky Acres Airport	faa	44.0
+Hammonton Municipal Airport	faa	N81
+Flying W Airport	faa	N14
+Spitfire Aerodrome	faa	7
+Alexandria Airport	faa	N85
+Robert J. Miller Air Park	faa	MJX
+Red Lion Airport	faa	N73
+Woodbine Municipal Airport	faa	OBI
+Jack Browns Seaplane Base	faa	F57
+Miami Seaplane Base	faa	X44
+Boulder Airport	faa	3
+Lakeland Airport	faa	ARV
+Gilbert Field	faa	94C
+LAPD Hooper Heliport	faa	4
+Kankakee Airport	faa	3
+Fairfield Airport	faa	5
+Hancock County Airport	faa	KY8
+Knox County Airport	faa	4
+Waterville Airport	faa	2
+Westfield Airport	faa	I72
+Harris Ranch Airport	faa	3
+Union County Airport	faa	MRT
+Gates Airport	faa	7
+Maryland Airport	faa	2
+Cullingford Field	faa	PR24
+Troy Airport	faa	57.0
+Tuscola Airport	faa	K96
+Willmar Municipal Airport	faa	BDH
+Ely Municipal Airport	faa	ELO
+Cook County Airport	faa	CKC
+Palatka Municipal Airport	faa	28.0
+Vero Beach Municipal Airport	faa	VRB
+Wendell H. Ford Airport	faa	K20 modified sometime after March 2012 to KCPF
+Benton Municipal Airport	faa	H96
+Monticello Municipal Airport	faa	LLQ
+Mason County Airport	faa	LDM
+Logan County Airport	faa	6
+Marshall County Airport	faa	MPG
+Cook County Airport	faa	15.0
+Grand Marais Airport	faa	Y98
+Blackstone Army Airfield	faa	BKT
+Michael Army Airfield	faa	DPG
+Grand Prairie Municipal Airport	faa	GPM
+Fayette Regional Air Center	faa	3
+Naval Auxiliary Landing Field Orange Grove	faa	NOG
+West Georgia Regional Airport	faa	CTJ
+Houston Southwest Airport	faa	AXH
+Pearland Regional Airport	faa	LVJ
+West Houston Airport	faa	IWS
+La Porte Municipal Airport	faa	T41
+RWJ Airpark	faa	54.0
+Baytown Airport	faa	HPY
+Witham Field	faa	SUA
+Rock County Airport	faa	RBE
+Chambers County-Winnie Stowell Airport	faa	T90
+Chambers County Airport	faa	T00
+Lone Star Executive Airport	faa	CXO
+Mesquite Metro Airport	faa	HQZ
+Airborne Airpark	faa	ILN
+Roanoke Municipal Airport	faa	7
+Mankato Airport	faa	TKO
+Cleveland Municipal Airport	faa	6
+Liberty Municipal Airport	faa	T78
+Ralph M. Sharpe Airport	faa	30M
+Branson Airport	faa	BBG
+Scobey Airport	faa	9
+Richland Municipal Airport	faa	MO1
+Columbia County Airport	faa	1
+Toledo Executive Airport	faa	TDZ
+Las Vegas Municipal Airport	faa	LVS
+New River Valley Airport	faa	PSK
+Smith Mountain Lake Airport	faa	W91
+Campbell County Airport	faa	0
+Falwell Airport	faa	W24
+Avon Park Executive Airport	faa	AVO
+Delamar Landing Field	faa	0
+Minden Airport	faa	MNE
+Walker County Airport	faa	JFX
+Middleton Field	faa	GZH
+Tappahannock Municipal Airport	faa	W79
+Tappahannock–Essex County Airport	faa	XSA
+Naval Air Station Agana	faa	GUM\n(Location of Naval Air Station Agana)
+Arcadia Municipal Airport	faa	X06
+Hanover County Municipal Airport	faa	OFP
+Wells Airport	faa	35C
+Cross City Airport	faa	CTY
+Immokalee Regional Airport	faa	IMM
+Crisfield Municipal Airport	faa	W41
+Lowell City Airport	faa	24C
+Boscobel Airport	faa	OVS
+Zelienople Municipal Airport	faa	PJC
+Lakehill Airport	faa	P09
+Bob Sikes Airport	faa	CEW
+Marianna Municipal Airport	faa	MAI
+Perry-Foley Airport	faa	40.0
+North Buffalo Suburban Airport	faa	0
+Cackleberry Airport	faa	200000000
+Tampa Bay Executive Airport	faa	3
+Sullivan County Airport	faa	SIV
+Sonoma Valley Airport	faa	0
+Marion County Regional Airport	faa	FLP
+Dansville Municipal Airport	faa	DSV
+Naval Air Station Joint Reserve Base New Orleans	faa	NBG
+Skyhaven Airport	faa	DAW
+Shelbyville Municipal Airport	faa	SYI
+Centerville Municipal Airport	faa	GHM
+Covington Municipal Airport	faa	M04
+Ellington Airport	faa	LUG
+Livingston Municipal Airport	faa	8
+Richmond Airport	faa	8.0
+Twin Pine Airport	faa	N75
+Morristown Regional Airport	faa	MOR
+St. Marys Municipal Airport	faa	OYM
+East 34th Street Heliport	faa	6
+St. Louis Metro-East Airport	faa	3
+Saratoga County Airport	faa	5
+Ottumwa Regional Airport	faa	OTM
+Wauchula Municipal Airport	faa	CHN
+Sonoma Skypark	faa	0
+Greenville Airport	faa	GRE
+Nut Tree Airport	faa	VCB
+Angwin–Parrett Field	faa	2
+Montague Airport	faa	1
+Donaldson Center Airport	faa	GYH
+Mid-State Regional Airport	faa	PSB
+Pickens County Airport	faa	LQK
+Hamilton Municipal Airport	faa	MNZ
+Madison Municipal Airport	faa	IMS
+McComb–Pike County Airport	faa	MCB
+Black Hills Airport	faa	SPF
+Morrison County Airport	faa	LXL
+Ocean Reef Club Airport	faa	7
+Calhoun County Airport	faa	PKV
+Eureka Municipal Airport	faa	O33
+Abbeville Municipal Airport	faa	0
+Newton Airport	faa	3
+Albertville Regional Airport	faa	8
+Saline County Airport	faa	M99
+Saline County Regional Airport	faa	SUZ
+Morehead-Rowan County Clyde A. Thomas Regional Airport	faa	SYM
+Hazen Municipal Airport	faa	6
+Newton Municipal Airport	faa	TNU
+Clinton Municipal Airport	faa	CCA
+Clinton Airport	faa	1
+Northeast Iowa Regional Airport	faa	CCY
+Giddings–Lee County Airport	faa	GYB
+Greenville Municipal Airport	faa	3
+Twin Lakes Airport	faa	8
+Twin Lakes Airport	faa	S17
+St. George Airport	faa	PBV
+Trenton Municipal Airport	faa	TRX
+Lamar Municipal Airport	faa	LLU
+Trenton Municipal Airport	faa	9
+Warsaw Municipal Airport	faa	RAW
+Buffalo Municipal Airport	faa	BFK
+Warsaw Municipal Airport	faa	ASW
+Buffalo Municipal Airport	faa	CFE
+Rankin Airport	faa	78
+Rankin Airport	faa	49.0
+Osceola Municipal Airport	faa	23
+Downtown Airport	faa	3
+Unionville Municipal Airport	faa	K43
+Oakland Southwest Airport	faa	Y47
+Canton–Plymouth Mettetal Airport	faa	1
+Romeo State Airport	faa	D98
+Dowagiac Municipal Airport	faa	91.0
+Grand Haven Memorial Airpark	faa	3
+Fremont Municipal Airport	faa	FFX
+Creve Coeur Airport	faa	1
+David's Airport	faa	9
+Bonnie Field	faa	6
+Houma–Terrebonne Airport	faa	HUM
+Charlie Hammonds Seaplane Base	faa	3
+Ada Airport	faa	0
+Sylacauga Municipal Airport	faa	SCD
+Troy Municipal Airport	faa	TOI
+Wetumpka Municipal Airport	faa	8.0
+New York Skyports Seaplane Base	faa	6
+St. Elmo Airport	faa	2
+Craig Field	faa	SEM
+George Downer Airport	faa	AIV
+Lineville Airport	faa	26.0
+Thomas C. Russell Field	faa	ALX
+Atmore Municipal Airport	faa	0
+Bay Minette Municipal Airport	faa	1
+Brewton Municipal Airport	faa	12.0
+Butler–Choctaw County Airport	faa	9.0
+Centre Municipal Airport	faa	22.0
+Camden Municipal Airport	faa	61.0
+Bibb County Airport	faa	0
+Clayton Municipal Airport	faa	11.0
+Chilton County Airport	faa	2.0
+Courtland Airport	faa	9
+Dauphin Island Airport	faa	4
+Folsom Field	faa	CMD
+Demopolis Municipal Airport	faa	DYA
+Carl Folsom Airport	faa	14.0
+Addison Municipal Airport	faa	2
+Akron Airport	faa	9
+Weedon Field	faa	EUF
+Arthur Airport	faa	1
+Ames Municipal Airport	faa	AMW
+Baker Airport	faa	0
+Beaver Municipal Airport	faa	K44
+Beaver Airport	faa	WBQ
+Benson Municipal Airport	faa	BBB
+Bloomfield Municipal Airport	faa	4
+Booneville Municipal Airport	faa	4.0
+Bowman Field	faa	3
+Richard Arthur Field	faa	M95
+Florala Municipal Airport	faa	0
+Isbell Field	faa	4
+Foley Municipal Airport	faa	5
+Geneva Municipal Airport	faa	33.0
+Greensboro Municipal Airport	faa	7
+Mac Crenshaw Memorial Airport	faa	PRN
+Grove Hill Municipal Airport	faa	3
+Guntersville Municipal Airport	faa	8
+Posey Field	faa	1
+Hartselle–Morgan County Regional Airport	faa	5
+Headland Municipal Airport	faa	0
+Jackson Municipal Airport	faa	4
+Lanett Municipal Airport	faa	7
+Vaiden Field Airport	faa	A08
+Robbins Field	faa	20.0
+Blackwell Field	faa	71.0
+Newport Municipal Airport	faa	M19
+Stuttgart Municipal Airport	faa	SGT
+Walnut Ridge Regional Airport	faa	ARG
+Coolidge Municipal Airport	faa	P08
+Eric Marcus Municipal Airport	faa	P01
+Gila Bend Air Force Auxiliary Field	faa	GXF
+Scottsboro Municipal Airport	faa	4
+Russellville Municipal Airport	faa	M22
+North Pickens Airport	faa	3
+Prattville–Grouby Field	faa	1
+Ardmore Airport	faa	1.0
+Roy E. Ray Airport	faa	5
+Porterville Municipal Airport	faa	PTV
+Chiriaco Summit Airport	faa	L77
+South Texas International Airport at Edinburg	faa	EBG
+Baudette International Airport	faa	BDE
+Stennis International Airport	faa	HSA
+Muscatine Municipal Airport	faa	MUT
+Parker Carson STOLport	faa	2
+Greene County Regional Airport	faa	3
+Allen County Airport	faa	K88
+Cambridge Municipal Airport	faa	CBG
+Liberty County Airport	faa	LTY
+Caldwell Municipal Airport	faa	RWV
+Rocky Hill Ultralight Flightpark	faa	48.0
+Epcot Center Ultralight Flightpark	faa	44
+Aeronut Park Balloonport	faa	13M
+Bryant Army Heliport	faa	FRN
+Hanchey Army Heliport	faa	HEY
+Roberts Army Heliport	faa	SYL
+La Junta Municipal Airport	faa	LHX
+Auburn Municipal Airport	faa	S50
+North Omaha Airport	faa	3
+Rentschler Heliport	faa	CT88
+Weiser Air Park	faa	EYQ
+Skydive Houston Airport	faa	37
+Westheimer Air Park	faa	O07
+Buckingham Field	faa	FL59
+Philadelphia Municipal Airport	faa	MPE
+Fish River Seaplane Base	faa	5
+Angoon Seaplane Base	faa	AGN
+Metlakatla Seaplane Base	faa	MTM
+Lloyd R. Roundtree Seaplane Facility	faa	63.0
+Tanglefoot Seaplane Base	faa	D28
+Cavanaugh Bay Airport	faa	66.0
+Priest Lake USFS Airport	faa	67.0
+Brooks Seaplane Base	faa	S76
+Grand Isle Seaplane Base	faa	GNI
+Old Town Municipal Airport and Seaplane Base	faa	OLD
+Lucky Landing Marina and Seaplane Base	faa	6.0
+Millinocket Seaplane Base	faa	70.0
+Brandy Pond Seaplane Base	faa	5
+Keystone Heights Airport	faa	42.0
+Scotts Seaplane Base	faa	CDD
+Havre de Grace Seaplane Base	faa	M06
+Cambridge–Dorchester Airport	faa	CGE
+Cook County Seaplane Base	faa	0
+Tower Municipal Airport	faa	12.0
+Maple Lake Municipal Airport	faa	MGG
+Tan-Tar-A Resort Seaplane Base	faa	19.0
+Lindey's Landing West Seaplane Base	faa	M35
+Harlan County Lake Seaplane Base	faa	H63
+Conchas Lake Seaplane Base	faa	E61
+Alton Bay Seaplane Base	faa	B18
+Conchas Lake Airport	faa	E89
+Grand Lake St. Marys Seaplane Base	faa	O12
+Clermont County Airport	faa	I69
+Colorado Plains Regional Airport	faa	AKO
+Perry County Airport	faa	M15\n(Location of the Perry County Airport)
+McMinn County Airport	faa	MMI
+William L. Whitehurst Field	faa	M08
+Perry County Municipal Airport	faa	TEL
+Fairfield County Airport	faa	LHQ
+Li Calzi Airport	faa	N50
+Bucks Airport	faa	0.0
+Redwing Airport	faa	2
+Pemberton Airport	faa	3
+Vineland–Downstown Airport	faa	28.0
+Kroelinger Airport	faa	29.0
+Southern Cross Airport	faa	1.0
+Grenier Air Force Base	faa	MHT
+Moontown Airport	faa	3
+Aitkin Municipal Airport	faa	AIT
+St. Landry Parish Airport	faa	OPL
+Anderson Municipal Airport	faa	AID
+Warrenton–Fauquier Airport	faa	HWY
+Chetek Municipal–Southworth Airport	faa	Y23
+Middleton Municipal Airport	faa	29.0
+Shungnak Airport	faa	SHG
+Kobuk Airport	faa	OBU
+Wales Airport	faa	IWK
+Stebbins Airport	faa	WBB
+Teller Airport	faa	TER
+Shaktoolik Airport	faa	2
+Savoonga Airport	faa	SVA
+St. Michael Airport	faa	SMK
+Kotlik Airport	faa	2
+Tin City LRRS Airport	faa	TNC
+Port Clarence Coast Guard Station	faa	KPC
+Larsen Bay Airport	faa	2
+Nunapitchuk Airport	faa	16.0
+Old Harbor Airport	faa	6
+Pilot Station Airport	faa	0
+Halliburton Field	faa	DUC
+Peekskill Seaplane Base	faa	7
+George M. Bryan Airport	faa	STF
+Sidney Municipal Airport	faa	SNY
+Mattituck Airport	faa	21.0
+Sky Park Airport	faa	46.0
+Hendricks Field	faa	NK16
+Horace Williams Airport	faa	IGX
+Vidalia Regional Airport	faa	VDI
+Kingston–Ulster Airport	faa	20.0
+Northwest Regional Airport	faa	52.0
+Lakeview Airport	faa	30.0
+Fort Worth Spinks Airport	faa	FWS
+Klawock Airport	faa	AKW
+Klawock Seaplane Base	faa	AQC
+Big Lake Airport	faa	BGQ
+Jonesboro Airport	faa	F88
+Calvada Meadows Airport	faa	NV74
+Naval Support Activity Panama City	faa	NBV
+Mount Pleasant Municipal Airport	faa	MOP
+Darke County Airport	faa	VES
+Willamette Falls Community Hospital Heliport	faa	1
+Bayport Aerodrome	faa	23.0
+Torrey Pines Gliderport	faa	CA84
+Kegelman Air Force Auxiliary Field	faa	CKA
+Ellington Airport	faa	7
+Great Valley Airport	faa	N56
+Green Sea Airport	faa	S79
+Logan Field	faa	1
+Robert Mueller Municipal Airport	faa	AUS
+Mountain Valley Airport	faa	L94
+Corcoran Airport	faa	CRO
+Baraboo–Wisconsin Dells Airport	faa	DLL
+Platteville Municipal Airport	faa	PVB
+Black River Falls Area Airport	faa	BCK
+Capitol Airport	faa	02C
+Amery Municipal Airport	faa	AHH
+Langlade County Airport	faa	AIG
+Dodge County Airport	faa	UNU
+Prairie du Chien Municipal Airport	faa	PDC
+Eagle River Union Airport	faa	EGV
+Clintonville Municipal Airport	faa	CLI
+Sebastian Municipal Airport	faa	X26
+Umatilla Municipal Airport	faa	X23
+Richard I. Bong Airport	faa	SUW
+Waupaca Municipal Airport	faa	PCZ
+Rice Lake Regional Airport	faa	RPD
+Humphreys County Airport	faa	0
+New Holstein Municipal Airport	faa	8
+Glasgow Industrial Airport	faa	7
+Grantsburg Municipal Airport	faa	GTG
+Sawyer County Airport	faa	HYR
+Marshfield Municipal Airport	faa	MFI
+Manitowoc County Airport	faa	MTW
+South Wood County Airport	faa	ISW
+Miami Homestead General Aviation Airport	faa	X51
+Sack-O-Grande Acroport	faa	9
+Cardiff Brothers Airport	faa	56
+Hoffpauir Airport	faa	59
+Dan Jones International Airport	faa	T51
+Houston Executive Airport	faa	TME
+Creasy Airport	faa	5
+Kami-Kazi Airport	faa	5
+Flyin' B Airport	faa	39.0
+Houston Fort Bend Airport	faa	2
+Skyway Manor Airport	faa	T79
+Galveston Airport	faa	5
+Salina-Gunnison Airport	faa	44
+Dillon County Airport	faa	DLC
+Weiker Airport	faa	82.0
+Sandusky County Regional Airport	faa	S24
+Garner Field	faa	UVA
+St. Marys Airport	faa	4
+Davis Field	faa	3
+Fremont Airport	faa	14.0
+Seneca County Airport	faa	16.0
+Wasilla Airport	faa	IYS
+Akiachak Airport	faa	Z13
+Atmautluak Airport	faa	4
+Toksook Bay Airport	faa	OOK
+Cape Sabine DEW Line Station	faa	Z53
+Haycock Airport	faa	HAY
+Scammon Bay Airport	faa	SCM
+Lake Brooks Seaplane Base	faa	5
+Sand Point Airport	faa	SDP
+Cooperstown-Westville Airport	faa	K23
+O'Sullivan Army Heliport	faa	CSL
+Fostoria Metropolitan Airport	faa	FZI
+Ouzinkie Airport	faa	4
+Woodbine Municipal Airport	faa	3
+Shawano Municipal Airport	faa	EZS
+Pauloff Harbor, Alaska	faa	KPH
+False Pass Airport	faa	KFP
+Far View Airport	faa	OI41
+Marty's Tranquility Base	faa	45.0
+Conway–Horry County Airport	faa	HYW
+Taylor Municipal Airport	faa	T74
+Findlay Airport	faa	FDY
+Hagerstown Regional Airport	faa	HGR
+Cordova Municipal Airport	faa	CKU
+Southern Seaplane Airport	faa	65
+Animas Air Park	faa	00C
+Bay City Municipal Airport	faa	BYY
+Bear Creek 3 Airport	faa	Z48
+Bagdad Airport	faa	E51
+Big Mountain Air Force Station	faa	37
+Bisbee Municipal Airport	faa	P04
+Boswell Bay Airport	faa	AK97
+Blackwell–Tonkawa Municipal Airport	faa	BKN
+Marlboro County Jetport	faa	BBP
+Earl Henry Airport	faa	6
+Blaine Municipal Airport	faa	4
+Akiak Airport	faa	AKI
+Crookston Municipal Airport	faa	CKN
+Alpine Airstrip	faa	AK15
+Blairsville Airport	faa	DZJ
+Laurel Municipal Airport	faa	6
+Butler County Regional Airport	faa	HAO
+Amelia Earhart Airport	faa	K59
+Augusta Municipal Airport	faa	3.0
+Moritz Memorial Airport	faa	K61
+Cimarron Municipal Airport	faa	8
+Arthur Dunn Airpark	faa	X21
+Lake Wales Municipal Airport	faa	X07
+Suwannee County Airport	faa	24.0
+Peter Prince Field	faa	2
+LaBelle Municipal Airport	faa	X14
+Airglades Airport	faa	2
+Inverness Airport	faa	INF
+Everglades Airpark	faa	X01
+Benson Municipal Airport	faa	E95
+Foothills Regional Airport	faa	MRN
+Belle Glade State Municipal Airport	faa	X10
+Hilliard Airpark	faa	1.0
+Valkaria Airport	faa	X59
+DeFuniak Springs Airport	faa	54.0
+Calhoun County Airport	faa	F95
+Tri-County Airport	faa	1
+Ridge Landing Airpark	faa	4
+Silver Comet Field at Paulding Northwest Atlanta Airport	faa	PUJ
+Houston Gulf Airport	faa	SPX
+Tew-Mac Airport	faa	B09
+Murfreesboro Municipal Airport	faa	MBT
+Prospect Creek Airport	faa	PPC
+Naval Outlying Field Summerdale	faa	NFD
+Indian Lake Airport	faa	5
+Hannibal Regional Airport	faa	HAE
+Goose Bay Airport	faa	Z40
+Winchester Regional Airport	faa	OKV
+Yale Airport	faa	D20
+Lake Cumberland Regional Airport	faa	SME
+White Cloud Airport	faa	42C
+Grant Airport	faa	01C
+Tampa Executive Airport	faa	VDF
+Peleliu Airfield	faa	23.0
+Big Sandy Regional Airport	faa	SJS
+Griffing Sandusky Airport	faa	SKY
+Harry P. Williams Memorial Airport	faa	PTN
+Southwest Washington Regional Airport	faa	KLS
+Angaur Airstrip	faa	ANG\n(Location of the Airport in Palau)
+Bloomsburg Municipal Airport	faa	N13
+Joliet Regional Airport	faa	JOT
+David Jay Perry Airport	faa	1
+Durant Regional Airport–Eaker Field	faa	DUA
+Cut Bank Municipal Airport	faa	CTB
+Alpine County Airport	faa	M45
+MidAmerica Industrial Park Airport	faa	H71
+Wurtsboro–Sullivan County Airport	faa	N82
+Butte Municipal Airport	faa	AK1
+Albert Lea Municipal Airport	faa	AEL
+Burnett County Airport	faa	RZN
+Clarksville Municipal Airport	faa	H35
+Minchumina Airport	faa	MHM
+Rampart Airport	faa	RMP
+Cherry Springs Airport	faa	5
+Henry Tift Myers Airport	faa	TMA
+Spence Airport	faa	MUL
+Moultrie Municipal Airport	faa	MGR
+Macon Downtown Airport	faa	MAC
+Crisp County–Cordele Airport	faa	CKF
+Thomasville Regional Airport	faa	TVI
+Woodward Field	faa	CDN
+Lowcountry Regional Airport	faa	RBW
+Orangeburg Municipal Airport	faa	OGB
+Greenwood County Airport	faa	GRD
+Darlington County Jetport	faa	UDG
+Charleston Executive Airport	faa	JZI
+Barnwell Regional Airport	faa	BNL
+Aiken Municipal Airport	faa	AIK
+Memphis Municipal Airport	faa	F21
+Georgetown County Airport	faa	GGE
+Beauregard Regional Airport	faa	DRI
+Esler Airfield	faa	ESF
+Grenada Municipal Airport	faa	GNF
+New Castle Air National Guard Base	faa	ILG
+West 30th Street Heliport	faa	JRA
+McGhee Tyson Air National Guard Base	faa	TYS
+Fletcher Field	faa	CKM
+Greenwood–Leflore Airport	faa	GWO
+Hesler-Noble Field	faa	LUL
+Hattiesburg Bobby L. Chain Municipal Airport	faa	HBG
+Cleveland Municipal Airport	faa	RNV
+Tenakee Seaplane Base	faa	TKE
+Austin Municipal Airport	faa	AUM
+Stone Mountain Airport	faa	former 00A
+José Aponte de la Torre Airport	faa	RVR
+Joseph A. Hardy Connellsville Airport	faa	VVS
+Sturgis Municipal Airport	faa	TWT
+Campbell Army Airfield	faa	HOP
+Freeman Municipal Airport	faa	SER
+Lawrenceville–Vincennes International Airport	faa	LWV
+Hinckley Airport	faa	0
+Cumberland Municipal Airport	faa	UBE
+Ralph Wenz Field	faa	PNA
+Louis Bennett Field	faa	WV23
+Anderson Field	faa	S97
+Miller Airport	faa	40.0
+Miller Field	faa	VTN
+Miller Airport	faa	4
+Deer Park Airport	faa	DEW
+Louisa County Airport	faa	LKU
+Jim Kelly Field	faa	LXN
+Broken Bow Municipal Airport	faa	BBW
+Blanding Municipal Airport	faa	BDG
+Beech Factory Airport	faa	BEC
+Virgil I. Grissom Municipal Airport	faa	BFR
+Southampton Heliport	faa	87.0
+Winchester Municipal Airport	faa	BGF
+Fillmore Municipal Airport	faa	FOM
+Tokeen Seaplane Base	faa	57.0
+Santa Rosa Route 66 Airport	faa	SXU
+Naval Outlying Field Santa Rosa	faa	NGS
+M. Graham Clark Downtown Airport	faa	PLK
+Shreveport Downtown Airport	faa	DTN
+Hammond Northshore Regional Airport	faa	HDC
+Abbeville Chris Crusta Memorial Airport	faa	IYA
+Slidell Airport	faa	ASD
+Cloquet Carlton County Airport	faa	COQ
+Talkeetna Airport	faa	TKA
+Custer Airport	faa	TTF
+Michael Airfield	faa	1
+Vivian Airport	faa	3
+Chandelle Estates Airport	faa	0
+Smyrna Airport	faa	38.0
+Chorman Airport	faa	D74
+Henderson Aviation Airport	faa	0
+Jenkins Airport	faa	15.0
+Anita Municipal Airport	faa	Y43
+Sandpoint Airport	faa	SZT
+Arthur N. Neu Airport	faa	CIN
+Mohawk Valley Airport	faa	K13
+Penn Yan Airport	faa	PEO
+Hillsboro Municipal Airport	faa	INJ
+French Lick Municipal Airport	faa	FRH
+Jasper County Airport	faa	RZL
+Paul Windle Municipal Airport	faa	8
+Scott Municipal Airport	faa	SCX
+Montgomery County Airport	faa	43.0
+Avi Suquilla Airport	faa	P20
+Garnett Municipal Airport	faa	K68
+Tok Junction Airport	faa	6
+Council Airport	faa	K29
+Arctic Village Airport	faa	ARC
+Eagle Airport	faa	EAA
+Venetie Airport	faa	VEE
+Port Graham Airport	faa	PGM
+St. Paul Island Airport	faa	SNP
+Tuntutuliak Airport	faa	A61
+Russian Mission Airport	faa	RSH
+Tok Airport	faa	TKJ
+Stevens Village Airport	faa	SVS
+Ruby Airport	faa	RBY
+Circle Hot Springs Airport	faa	CHP
+Nome City Field	faa	94
+Point Lay LRRS Airport	faa	PIZ
+Shageluk Airport	faa	SHX
+Chalkyitsik Airport	faa	CIK
+Chenega Bay Airport	faa	5.0
+Tatitlek Airport	faa	7
+Mekoryuk Airport	faa	MYU
+Newtok Airport	faa	EWU
+Nightmute Airport	faa	IGT
+Red Devil Airport	faa	RDV
+Sleetmute Airport	faa	SLQ
+Tuluksak Airport	faa	TLT
+Thorne Bay Seaplane Base	faa	KTB
+Burnet Municipal Airport	faa	BMQ
+Port Lions Airport	faa	ORI
+Hyder Seaplane Base	faa	4
+Coffman Cove Seaplane Base	faa	KCC
+Point Baker Seaplane Base	faa	KPB
+Port Protection Seaplane Base	faa	19.0
+North Whale Seaplane Base	faa	96
+Elwood Airport	faa	3
+O'Neal Airport	faa	OEA
+Wilroads Gardens Airport	faa	9
+Fair Haven Municipal Airport	faa	1
+Caledonia County Airport	faa	CDA
+De Leon Municipal Airport	faa	4.0
+Saginaw Airport	faa	F04
+Atkinson Municipal Airport	faa	PTS
+Elizabethtown Regional Airport	faa	EKX
+Murray-Calloway County Airport	faa	CEY
+Mount Sterling-Montgomery County Airport	faa	IOB
+Henderson City-County Airport	faa	EHR
+Fleming-Mason Airport	faa	FGX
+Madisonville Municipal Airport	faa	2
+Glasgow Municipal Airport	faa	GLW
+Hopkinsville-Christian County Airport	faa	HVC
+Princeton Municipal Airport	faa	PNN
+Lee Airport	faa	ANP
+Van Wagnen Airport	faa	6
+Fairmont Municipal Airport	faa	FRM
+Natchez–Adams County Airport	faa	HEZ
+Adams County Airport	faa	63C
+Malden Regional Airport	faa	MAW
+Sikeston Memorial Municipal Airport	faa	SIK
+Perryville Municipal Airport	faa	K02
+Condon USFS Airport	faa	S04
+Gardiner Airport	faa	29.0
+Dillon Airport	faa	DLN
+Ohkay Owingeh Airport	faa	E14
+Olive Branch Airport	faa	OLV
+Kickapoo Downtown Airport	faa	CWC
+General DeWitt Spain Airport	faa	M01
+New Castle Municipal Airport	faa	UCP
+Charles W. Baker Airport	faa	2
+Municipal Airport	faa	K49
+Hernando Village Airpark	faa	H75
+Harry Stern Airport	faa	BWP
+Hettinger Municipal Airport	faa	HEI
+Lakeway Airpark	faa	3
+Marine Corps Air Station Cherry Point	faa	NKT
+Cheraw Municipal Airport	faa	CQW
+Beaufort County Airport	faa	ARW
+Alexandria Municipal Airport	faa	AXN
+Long Prairie Municipal Airport	faa	14
+Orr Regional Airport	faa	ORB
+Red Wing Regional Airport	faa	RGK
+Milaca Municipal Airport	faa	18
+Stanton Airfield	faa	SYN
+Litchfield Municipal Airport	faa	LJF
+Jolly Fisherman Seaplane Base	faa	M49
+Dyersburg Regional Airport	faa	DYR
+Gatlinburg–Pigeon Forge Airport	faa	GKT
+Liberty County Airport	faa	2
+Haynesville Airport	faa	5
+St. Tammany Regional Airport	faa	L31
+Acadiana Regional Airport	faa	ARA
+Belfast Municipal Airport	faa	BST
+Eastport Municipal Airport	faa	EPM
+Danville Regional Airport	faa	DAN
+Danville Airport	faa	8
+W. H. 'Bud' Barron Airport	faa	DBN
+Decatur Hi-Way Airport	faa	DCR
+Decorah Municipal Airport	faa	DEH
+Davison Army Airfield	faa	DAA
+Defiance Memorial Airport	faa	DFI
+Converse County Airport	faa	DGW
+Deming Municipal Airport	faa	DMN
+Dunkirk Airport	faa	DKK
+Delta Junction Airport	faa	D66
+Gila River Memorial Airport	faa	34
+Osborn Airfield	faa	2
+Washington Island Airport	faa	2
+French Frigate Shoals Airport	faa	HFS
+Trona Airport	faa	L72
+Lee's Summit Municipal Airport	faa	LXT
+St. Charles County Smartt Airport	faa	SET
+Trident Basin Seaplane Base	faa	T44
+Willow Airport	faa	UUO
+Waterfall Seaplane Base	faa	KWF
+Kulik Lake Airport	faa	LKK
+St. Charles Airport	faa	3
+Napakiak Airport	faa	WNA
+DeKalb Taylor Municipal Airport	faa	DKB
+Georgetown Municipal Airport	faa	GTU
+Tununak Airport	faa	4
+Lost Nation Airport	faa	LNN
+Lorain County Regional Airport	faa	LPR
+Togiak Airport	faa	TOG
+Medina Municipal Airport	faa	1
+Chignik Lake Airport	faa	A79
+Port Heiden Airport	faa	PTH
+Parlin Field	faa	2
+Dean Memorial Airport	faa	5
+Jaffrey Airport–Silver Ranch	faa	AFN
+New Stuyahok Airport	faa	KNW
+Ledgedale Airpark	faa	7
+Canandaigua Airport	faa	D38
+Le Roy Airport	faa	5
+Randall Airport	faa	6.0
+Pilot Point Airport	faa	PNP
+Clinton Field	faa	I66
+Perryville Airport	faa	PEV
+Igiugig Airport	faa	IGG
+Camp Edwards Heliport	faa	MA29
+Levelock Airport	faa	9
+Port Moller Airport	faa	1
+Nelson Lagoon Airport	faa	OUL
+Ekwok Airport	faa	KEK
+Beaver Municipal Airport	faa	U52
+Delta Municipal Airport	faa	DTA
+Duchesne Municipal Airport	faa	U69
+Kobelt Airport	faa	N45
+Chignik Lagoon Airport	faa	KCL
+Koliganek Airport	faa	JZZ
+Naknek Airport	faa	5
+South Naknek Airport	faa	WSN
+Twin Hills Airport	faa	A63
+Chignik Fisheries Airport	faa	KCG
+Chignik Airport	faa	AJC
+Chignik Bay Seaplane Base	faa	Z78
+Whitford's Airport	faa	B16
+Williamson–Sodus Airport	faa	SDC
+Middlebury State Airport	faa	6
+Post Mills Airport	faa	2
+Bicycle Lake Army Airfield	faa	BYS
+Warren–Sugarbush Airport	faa	0
+Tooele Valley Airport	faa	TVY
+Illinois Valley Regional Airport	faa	VYS
+Central Maine Airport of Norridgewock	faa	OWK
+Kemmerer Municipal Airport	faa	EMM
+Afton Municipal Airport	faa	AFO
+Grand Strand Airport	faa	CRE
+Sabre Army Heliport	faa	EOD
+Paintsville-Prestonsburg Combs Field	faa	9
+Biddeford Municipal Airport	faa	B19
+Pine Hill Airport	faa	9
+Simmons Army Airfield	faa	FBG
+Clarence E. Page Municipal Airport	faa	RCE
+Clinton Municipal Airport	faa	CWI
+Princeton Municipal Airport	faa	PNM
+Sugarloaf Regional Airport	faa	B21
+Dexter Regional Airport	faa	1
+Lexington Municipal Airport	faa	4
+Pittsburgh IAP Air Reserve Station	faa	PIT
+Northwest Florida Beaches International Airport	faa	ECP
+Hollis Seaplane Base	faa	HYL
+Goodnews Airport	faa	GNU
+Twentynine Palms Strategic Expeditionary Landing Field	faa	NXP
+Richard B. Russell Airport	faa	RMG
+Freeflight International Airport	faa	ROI
+Ine Airport	faa	N20
+Tinak Airport	faa	N18
+Bedford County Airport	faa	HMZ
+Smith Field	faa	SMD
+Napaskiak Airport	faa	PKA
+Bethel Seaplane Base	faa	Z59
+Greater Green River Intergalactic Spaceport	faa	48
+Burlington Air National Guard Base	faa	BTV
+Sault Ste. Marie Municipal Airport	faa	ANJ
+Grimes Field	faa	I74
+Elizabethton Municipal Airport	faa	0
+Frasca Field	faa	16.0
+Cannon Field	faa	53.0
+Heber City Municipal Airport	faa	36
+Virginia Highlands Airport	faa	VJI
+Highland County Airport	faa	HOC
+Fremont Municipal Airport	faa	FET
+Elizabeth Field	faa	0
+Ionia County Airport	faa	Y70
+Fairfield Municipal Airport	faa	FWC
+Fayette County Airport	faa	I23
+Fayette County Airport	faa	FYE
+Shelbyville Municipal Airport	faa	GEZ
+Galbraith Lake Airport	faa	GBH
+Oconee County Regional Airport	faa	CEU
+Humboldt Municipal Airport	faa	M53
+Monett Municipal Airport	faa	HFJ
+Huntington Municipal Airport	faa	HHG
+Sundance Airpark	faa	HSD
+H.A. Clark Memorial Field	faa	CMR
+Jefferson County International Airport	faa	0
+Flabob Airport	faa	RIR
+Ashtabula County Airport	faa	HZY
+False River Regional Airport	faa	HZR
+Langley Field	faa	LFI
+Independence Municipal Airport	faa	IIB
+LaGrange Callaway Airport	faa	LGC
+Fort Sumner Municipal Airport	faa	FSU
+Mitchell Municipal Airport	faa	MHE
+Carrabelle-Thompson Airport	faa	X13
+Curtis Field	faa	BBD
+El Reno Regional Airport	faa	RQO
+Miami Municipal Airport	faa	MIO
+Wood County Airport	faa	1
+Wood County Airport	faa	JDD
+Charleston Municipal Airport	faa	09M
+Pickens County Airport	faa	JZP
+Wilbarger County Airport	faa	F05
+Everett–Stewart Regional Airport	faa	UCY
+Bloyer Field	faa	Y72
+Thompson–Robbins Airport	faa	HEE
+Perry Municipal Airport	faa	F22
+Terrell County Airport	faa	6
+Jones Field	faa	F00
+Sunflower Aerodrome Gliderport	faa	SN76
+Harrell Field	faa	CDH
+Eagle Field	faa	CL01
+Rentschler Field	faa	CT88
+Cuero Municipal Airport	faa	T71
+C. David Campbell Field	faa	CRS
+Bruce Field	faa	E30
+W. R. Byron Airport	faa	44
+Artesia Municipal Airport	faa	ATS
+Guymon Municipal Airport	faa	GUY
+Fulton-Itawamba County Airport	faa	11M
+Grenora Centennial Airport	faa	7
+Harrold Municipal Airport	faa	SD50
+Kulm Municipal Airport	faa	D03
+Branson West Airport	faa	FWB
+Transylvania County Airport	faa	3
+Rockingham County NC Shiloh Airport	faa	SIF
+Kutztown Airport	faa	N31
+Almyra Municipal Airport	faa	M73
+Douthitt Strip	faa	23
+Bentonville Municipal Airport	faa	VBT
+Skyhaven Airport	faa	76.0
+Hale County Airport	faa	PVW
+Okmulgee Regional Airport	faa	OKM
+Bruce Campbell Field	faa	MBO
+Tucumcari Municipal Airport	faa	TCC
+Kennett Memorial Airport	faa	TKX
+Rosamond Skypark	faa	L00
+Boquerón Airport	faa	PR10
+Le Sueur Municipal Airport	faa	12
+Cliff Hatfield Memorial Airport	faa	CLR
+Roy Williams Airport	faa	L80
+Demopolis Army Airfield	faa	DYA
+Hope Municipal Airport	faa	M18
+Amedee Army Airfield	faa	AHC
+Deblois Flight Strip	faa	43.0
+Dell Flight Strip	faa	4
+Homerville Airport	faa	HOE
+Accomack County Airport	faa	MFV
+Omak Airport	faa	OMK
+Bowers Airport	faa	ELN
+Litchfield Municipal Airport	faa	3
+Littlefield Municipal Airport	faa	LIU
+Kenmore Air Harbor Seaplane Base	faa	W55
+Birch Creek Airport	faa	Z91
+Coldfoot Airport	faa	CXF
+Kings Land O' Lakes Airport	faa	LNL
+Decatur Municipal Airport	faa	LUD
+Point Lonely Short Range Radar Site	faa	AK71
+Le Mars Municipal Airport	faa	LRJ
+Yucca Valley Airport	faa	L22
+Ocotillo Airport	faa	L90
+Holtville Airport	faa	L04
+Lowe Army Heliport	faa	LOR
+Magnolia Municipal Airport	faa	AGO
+Tri-State Steuben County Airport	faa	ANQ
+Marion County Airport	faa	APT
+Habersham County Airport	faa	AJR
+Hawthorne–Feather Airpark	faa	8
+Henry Post Army Airfield	faa	FSI
+Earlville Airport	faa	94.0
+Desert Center Airport	faa	CN64
+Morrison Flight Park	faa	0
+Erie Air Park	faa	3
+Lester State Ultralight Flightpark	faa	15.0
+Forks Airport	faa	S18
+Granville Airport	faa	1
+Portales Municipal Airport	faa	PRZ
+Albion Municipal Airport	faa	BVN
+Wahoo Municipal Airport	faa	AHQ
+Monroe City Regional Airport	faa	K52
+Hesperia Airport	faa	L26
+Old Forge Airport	faa	NK26\n(Location of airport in New York)
+Moses Point Airport	faa	MOS
+NASA Crows Landing Airport	faa	NRC
+Naval Auxiliary Landing Field Fentress	faa	NFE
+Miami University Airport	faa	OXD
+Philadelphia Seaplane Base	faa	9
+Ajaokuta Airstrip	faa	DN51
+Valle Airport	faa	40.0
+Davis Airport	faa	2
+Dodgeville Municipal Airport	faa	22
+Livingston Municipal Airport	faa	0.0
+Chester Catawba Regional Airport	faa	DCM
+Wilgrove Air Park	faa	8
+Plymouth Municipal Airport	faa	PMZ
+Jackson County Airport	faa	KJCA
+Jackson County Airport	faa	26.0
+Jackson County Airport	faa	I18
+Jackson County Airport	faa	1
+Walden–Jackson County Airport	faa	33.0
+Red Lodge Airport	faa	RED
+Galion Municipal Airport	faa	GQQ
+Bowerman Airport	faa	HQM
+Stan Stamper Municipal Airport	faa	HHW
+Humboldt Municipal Airport	faa	0
+Smith Field	faa	SLG
+New Market Airport	faa	8
+Carroll County–Tolson Airport	faa	TSO
+Centerville Municipal Airport	faa	TVK
+Britton Municipal Airport	faa	BTN
+Dolhun Field Airport	faa	WI36
+Hinton–Alderson Airport	faa	WV77
+Santee Cooper Regional Airport	faa	MNI
+Luther Airport	faa	NK51
+Boundary County Airport	faa	65.0
+Tavares Seaplane Base	faa	FA1
+Mountain Lakes Field	faa	5
+Soldotna Airport	faa	SXQ
+Red Oak Municipal Airport	faa	RDK
+Pam's Place Airport	faa	78
+Sky King Airport	faa	3
+Twisp Municipal Airport	faa	2
+Lake Chelan Airport	faa	S10
+Blue Ridge Airport	faa	MTV
+Hummel Field	faa	W75
+Green River Municipal Airport	faa	U34
+Kanab Municipal Airport	faa	KNB
+Wayne County Airport	faa	EKQ
+Monticello Airport	faa	U64
+Midland Airpark	faa	MDD
+Cotulla–La Salle County Airport	faa	COT
+Sturgis Municipal Airport	faa	49.0
+Hot Springs Municipal Airport	faa	HSR
+Pine Ridge Airport	faa	IEN
+Bluffton Airport	faa	5
+Parshall–Hankins Airport	faa	Y74
+Whiskey Creek Airport	faa	94
+Salem Airpark	faa	38.0
+O'Neill Municipal Airport	faa	ONL
+Stevensville Airport	faa	32.0
+Plains Airport	faa	S34
+Camdenton Memorial Airport	faa	OZS
+Mount Pleasant Municipal Airport	faa	MPZ
+Indian Creek USFS Airport	faa	S81
+Mount Hawley Auxiliary Airport	faa	3
+Harris County Airport	faa	PIM
+Garfield County Regional Airport	faa	RIL
+Russellville Regional Airport	faa	RUE
+Fort Collins Downtown Airport	faa	3
+Wickenburg Municipal Airport	faa	E25
+Kokhanok Airport	faa	9
+Kantishna Airport	faa	5
+Platinum Airport	faa	PTU
+Nondalton Airport	faa	5
+Antique Airfield	faa	IA27
+Brundidge Municipal Airport	faa	60.0
+Roy Wilcox Airport	faa	5
+Hazel Green Airport	faa	M38
+Frank Sikes Airport	faa	4.0
+McMinn Airport	faa	25.0
+Stevenson Airport	faa	7
+Goheen Airport	faa	W52
+Cedars North Airpark	faa	W58
+Fly for Fun Airport	faa	W56
+Bremerton National Airport	faa	PWT
+Toledo Municipal Airport	faa	8
+Betz Airport	faa	44.0
+Meyers–Diver's Airport	faa	3
+Franklin Field	faa	7.0
+Aberdeen Municipal Airport	faa	U36
+Abernathy Field	faa	GZS
+Alamo Navajo Airport	faa	3
+Navajo Lake Airport	faa	1
+Albany Municipal Airport	faa	K19
+Albany Municipal Airport	faa	T23
+Alexandria Airport	faa	I99
+Belleville Airport	faa	43.0
+Brighton Airport	faa	45.0
+Honey Acres Airport	faa	7
+California Pines Airport	faa	A24
+Blue Canyon–Nyack Airport	faa	BLU
+Merillat Airport	faa	34.0
+Huntsville Regional Airport	faa	UTS
+Shamrock Airport	faa	6
+Eagle Airpark	faa	A09
+Pearce Ferry Airport	faa	L25
+Changjin Air Force Base	faa	N/A
+St. Johns Industrial Air Park	faa	SJN
+Springerville Municipal Airport	faa	JTC
+Hyesan Airfield	faa	N/A
+Hyon Ni Airport	faa	N/A
+Kaechon Airport	faa	N/A
+Kangdong Airport	faa	N/A
+Kuum Ni Airport	faa	N/A
+Kyongsong Chuul Airport	faa	N/A
+Onchon air base	faa	N/A
+Panghyon Airport	faa	N/A
+Sonchon Airport	faa	N/A
+Sungam Ni Airport	faa	N/A
+Taechon Airport	faa	N/A
+Taetan Airport	faa	N/A
+Kang Da Ri Airport	faa	N/A
+Jacumba Airport	faa	L78
+Ocean Ridge Airport	faa	E55
+Vance Brand Airport	faa	LMO
+Covington Municipal Airport	faa	9
+Hamilton Municipal Airport	faa	VGC
+Johnson Field	faa	11.0
+Shelby–Cleveland County Regional Airport	faa	EHO
+Sam Riggs Airpark	faa	K11
+Grimes Airport	faa	8
+Berkeley County Airport	faa	MKS
+Laurens County Airport	faa	LUX
+Graham Field	faa	7
+Newberry County Airport	faa	EOE
+Hartsville Regional Airport	faa	HVS
+Madison Municipal Airport	faa	MDS
+Harrison County Airport	faa	ASL
+Aransas County Airport	faa	RKP
+Orange City Municipal Airport	faa	ORC
+Detroit Lakes Airport	faa	DTL
+Delta Airbase	faa	(Location of Delta Air Base)
+Rusk County Airport	faa	RCX
+Rusk County Airport	faa	RFI
+Perry Municipal Airport	faa	PRO
+Driggs–Reed Memorial Airport	faa	DIJ
+Kokomo Municipal Airport	faa	OKK
+Southland Field	faa	UXL
+Cochise College Airport	faa	P03
+Grand Canyon Bar 10 Airport	faa	1
+Friday Harbor Seaplane Base	faa	W33
+Rosario Seaplane Base	faa	W49
+Roche Harbor Seaplane Base	faa	W39
+WSX Seaplane Base	faa	WA83
+LPS Seaplane Base	faa	WA81
+Roche Harbor Airport	faa	WA09
+Gila Bend Municipal Airport	faa	E63
+Pleasant Valley Airport	faa	P48
+Holbrook Municipal Airport	faa	P14
+Phoenix Regional Airport	faa	A39
+Tombstone Municipal Airport	faa	P29
+Cochise County Airport	faa	P33
+Kearny Airport	faa	E67
+Marble Canyon Airport	faa	L41
+Dodge Center Airport	faa	TOB
+Siler City Municipal Airport	faa	SCR
+Marlin Airport	faa	T15\n(Location of Marlin Airport)
+Roscoe Turner Airport	faa	CRX
+University-Oxford Airport	faa	UOX
+Midwest National Air Center	faa	GPH
+Mexico Memorial Airport	faa	MYJ
+Kalispell City Airport	faa	S27
+Yazoo County Airport	faa	87
+Ruleville-Drew Airport	faa	M37
+Indianola Municipal Airport	faa	IDL
+Port Alsworth Airport	faa	TPO
+Shannons Pond Seaplane Base	faa	0
+Pedro Bay Airport	faa	4
+Alsek River Airport	faa	A57
+Clarks Point Airport	faa	CLP
+Skwentna Airport	faa	SKW
+Nikolai Airport	faa	FSP
+Rogers Municipal Airport	faa	ROG
+Kit Carson County Airport	faa	ITR
+Chamberlain USFS Airport	faa	U79
+Cabin Creek USFS Airport	faa	I08
+Samuels Field	faa	BRY
+Islesboro Airport	faa	57.0
+Crows Landing Naval Auxiliary Air Station	faa	NRC
+Haysfield Airport	faa	MD24
+Hooker Municipal Airport	faa	O45
+Frankfort-Highland Airport	faa	6
+Marcy Field	faa	1
+Schroon Lake Airport	faa	4
+Ticonderoga Municipal Airport	faa	4
+Pelican Rapids Municipal Airport	faa	47
+Malone-Dufort Airport	faa	MAL
+Moorhead Municipal Airport	faa	JKJ
+Wheaton Municipal Airport	faa	ETH
+Edward F Johnson Airport	faa	M61
+Luce County Airport	faa	ERY
+Baraga Airport	faa	2
+Luverne Municipal Airport	faa	LYV
+Pipestone Municipal Airport	faa	PQN
+Braden Airpark	faa	N43
+Ottawa Municipal Airport	faa	OWI
+Reigle Field	faa	58.0
+Menomonie Municipal Airport	faa	LUM
+Northwest Angle Airport	faa	58.0
+Morris Army Airfield	faa	65
+Greenlee County Airport	faa	CFT
+Sierraville Dearwater Airport	faa	O79
+Borges–Clarksburg Airport	faa	CN13
+Colorado Springs East Airport	faa	CO49
+Athens Municipal Airport	faa	F44
+Spanish Peaks Airfield	faa	4
+Moore County Airport	faa	DUX
+Hutchinson County Airport	faa	BGD
+Andrews County Airport	faa	E11
+Goodspeed Airport	faa	42.0
+Salmon River Airfield	faa	9
+Candlelight Farms Airport	faa	11.0
+Waterbury Airport	faa	N41
+Skylark Airpark	faa	7
+Toutant Airport	faa	44.0
+Charles A. Chase Jr. Memorial Field	faa	44.0
+Jack Barstow Municipal Airport	faa	IKW
+Saginaw County H.W. Browne Airport	faa	HYX
+Corning–Painted Post Airport	faa	7
+Cortland County Airport	faa	N03
+Duanesburg Airport	faa	4
+Joseph Y. Resnick Airport	faa	N89
+Angola Airport	faa	D22
+St. George Regional Airport	faa	SGU
+Owosso Community Airport	faa	RNP
+Royalton Airport	faa	9
+Alexander Salamon Airport	faa	AMT
+Muir Army Airfield	faa	MUI
+Pratt Regional Airport	faa	PTT
+Pearson Field	faa	VUO
+Westover Air Reserve Base	faa	CEF
+Elmendorf Air Force Base	faa	EDF
+Leach Airport	faa	1
+Kleberg County Airport	faa	IKG
+New Jerusalem Airport	faa	1
+Grissom Aeroplex	faa	GUS
+Seward Airport	faa	SWD
+Cape Romanzof LRRS Airport	faa	CZF
+Cape Newenham LRRS Airport	faa	EHM
+Indian Mountain LRRS Airport	faa	UTO
+Casco Cove Coast Guard Station	faa	ATU
+Tatalina LRRS Airport	faa	TLJ
+Sparrevohn LRRS Airport	faa	SVW
+Driftwood Bay Air Force Station Airfield	faa	AK23
+Tanacross Airport	faa	TSG
+Brunswick Executive Airport	faa	BXM
+Monroe–Walton County Airport	faa	D73
+Monroe Municipal Airport	faa	EFT
+Jerry Tyler Memorial Airport	faa	3
+Oswego Municipal Airport	faa	K67
+Austin Executive Airport	faa	EDC
+Campbell County Airport	faa	JAU
+Brown County Airport	faa	GEO
+Austin Executive Airpark	faa	3
+Pike County Airport	faa	EOP
+Clinton Regional Airport	faa	CLK
+Elk City Regional Business Airport	faa	ELK
+Thomas P. Stafford Airport	faa	OJA
+Beech River Regional Airport	faa	PVE
+Jackson Municipal Airport	faa	MJQ
+Ames Field	faa	6
+Arcadia–Bienville Parish Airport	faa	5
+Arlington Municipal Airport	faa	3
+Arthur Municipal Airport	faa	38.0
+Arnold Field	faa	55.0
+Ashland County Airport	faa	3
+Jerry Sumners Sr. Aurora Municipal Airport	faa	2
+Baker Municipal Airport	faa	BHK
+Big Creek Airport	faa	U60
+Bishop Airport	faa	76.0
+Bishop Municipal Airport	faa	7.0
+Bismarck Memorial Airport	faa	H57
+Bloomfield Municipal Airport	faa	84
+Boone County Airport	faa	6
+Boonville Airport	faa	I91
+Bolivar Municipal Airport	faa	M17
+Baldwyn Airport	faa	8
+Bowman Field	faa	B10
+Buffalo Airport	faa	10000000
+Tradewind Airport	faa	TDW
+Edgar County Airport	faa	PRG
+Ogle County Airport	faa	55.0
+Ingersoll Airport	faa	CTK
+Rochelle Municipal Airport	faa	RPJ
+Pekin Municipal Airport	faa	15.0
+Manito Mitchell Airport	faa	45.0
+Brazil Clay County Airport	faa	0
+Buffalo Municipal Airport	faa	H17
+Caldwell Municipal Airport	faa	1.0
+Calhoun County Airport	faa	04M
+Cambridge Municipal Airport	faa	CDI
+Cambridge Municipal Airport	faa	CSB
+Carroll County Airport	faa	HZD
+Carroll County Airport	faa	4
+Vashon Municipal Airport	faa	2
+Hoskins Field	faa	44.0
+Montgomery Air National Guard Base	faa	MGM
+Des Moines Air National Guard Base	faa	DSM
+Fresno Air National Guard Base	faa	FAT
+Gowen Field Air National Guard Base	faa	BOI
+Comanche County–City Airport	faa	MKN
+Mobridge Municipal Airport	faa	MBG
+Toledo Air National Guard Base	faa	TOL
+Memphis Air National Guard Base	faa	MEM
+Marion Municipal Airport	faa	MNN
+Marion Municipal Airport	faa	MZZ
+Salt Lake City Air National Guard Base	faa	SLC
+Peoria Air National Guard Base	faa	PIA
+Shepherd Field Air National Guard Base	faa	MRB
+Springfield Air National Guard Base	faa	SGH
+Port Meadville Airport	faa	GKJ
+Clarion County Airport	faa	AXQ
+Clearfield–Lawrence Airport	faa	FIG
+Maize Airport	faa	4
+Moundville Airport	faa	AL44
+Skyharbor Airport	faa	S63
+Dixie USFS Airport	faa	A05
+McGehee Catfish Restaurant Airport	faa	T40
+New York Mills Municipal Airport	faa	25
+Wilson Bar USFS Airport	faa	48.0
+Orogrande Airport	faa	75C
+Idaho County Airport	faa	GIC
+Love County Airport	faa	4
+Falconhead Airport	faa	37.0
+John Bell Williams Airport	faa	JVW
+Huntsville Municipal Airport	faa	H34
+Huntington Municipal Airport	faa	69.0
+Hope Airport	faa	5
+Mayville Municipal Airport	faa	D56
+Hillsboro Municipal Airport	faa	3
+Centre–Piedmont–Cherokee County Regional Airport	faa	PYP
+Freddie Jones Field	faa	70.0
+Eutaw Municipal Airport	faa	3
+Naval Outlying Field Barin	faa	NBJ
+Double Springs–Winston County Airport	faa	3.0
+North Mobile County Airport	faa	15.0
+Pine Hill Municipal Airport	faa	71.0
+Fort Deposit–Lowndes County Airport	faa	67.0
+Reeves Airport	faa	41.0
+Lamar County Airport	faa	M55
+Hubbard Landing Seaplane Base	faa	HL2
+Stony River Airport	faa	SRV
+Chicken Airport	faa	CKX
+Lake Louise Airport	faa	Z55
+Jonesville Mine Airport	faa	JVM
+Ophir Airport	faa	Z17
+Copper Center Airport	faa	Z93
+Road Commission Airport	faa	0
+Lost River 1 Airport	faa	LSR
+Yankee Creek Airport	faa	A77
+Chilhowee Gliderport	faa	92.0
+Estrella Sailport	faa	E68
+Puckett Gliderport	faa	50M
+Ganado Airport	faa	85.0
+Archer Memorial Field	faa	MI28
+Chapman Memorial Field	faa	6.0
+South Lewis County Airport	faa	TDO
+Dexter B. Florence Memorial Field	faa	ADF
+Robinson Army Airfield	faa	RBM
+Searcy Municipal Airport	faa	SRC
+Kirk Field	faa	PGR
+Z. M. Jack Stell Field	faa	CRT
+Forrest City Municipal Airport	faa	FCY
+Petit Jean Park Airport	faa	MPJ
+Manila Municipal Airport	faa	MXA
+Blytheville Municipal Airport	faa	HKA
+Dennis F. Cantrell Field	faa	CWS
+Sally Wofford Airport	faa	8.0
+J. Lynn Helms Sevier County Airport	faa	DEQ
+Batesville Regional Airport	faa	BVX
+Sharp County Regional Airport	faa	CVK
+Woodruff County Airport	faa	M60
+Heber Springs Municipal Airport	faa	HBZ
+Morrilton Municipal Airport	faa	BDQ
+Gold King Creek Airport	faa	AK7
+Devils Mountain Lodge Airport	faa	IBN
+Birchwood Airport	faa	BCV
+Chandalar Lake Airport	faa	WCR
+Middleton Island Airport	faa	MDO
+Portage Creek Airport	faa	A14
+Saginaw Seaplane Base	faa	A23
+Paxson Airport	faa	PXK
+Wainwright Air Station	faa	AK03
+Hoonah Seaplane Base	faa	OOH
+Haines Seaplane Base	faa	3
+Skagway Seaplane Base	faa	7
+Hot Springs Airport	faa	S09
+Big Sandy Airport	faa	3
+Indianapolis Downtown Heliport	faa	8
+Crystal Airport	faa	46
+Lufker Airport	faa	49.0
+Chilpancingo National Airport	faa	(Location of airport in México)
+Santa Barbara Regional Airport	faa	none\n(Location of airport in Mexico)
+Tracy Municipal Airport	faa	TKC
+Essex Skypark	faa	W48
+Harford County Airport	faa	0
+Cornelia Fort Airpark	faa	M88
+Neil Armstrong Airport	faa	AXV
+Storm Lake Municipal Airport	faa	SLB
+Fillmore County Airport	faa	FKA
+Clearview Airpark	faa	2
+Naval Air Facility Adak	faa	ADK
+Portage Municipal Airport	faa	47.0
+Greensboro North Airport	faa	36
+Silver Bay Municipal Airport	faa	BFW
+Lebanon Municipal Airport	faa	M54
+Floyd W. Jones Lebanon Airport	faa	LBO
+Henning Municipal Airport	faa	5
+Perham Municipal Airport	faa	16.0
+Warren County Memorial Airport	faa	RNC
+Hawkins County Airport	faa	RVN
+Maury County Airport	faa	MRC
+Fayetteville Municipal Airport	faa	FYM
+Jetmore Municipal Airport	faa	K79
+Erie Aerodrome	faa	M84
+Dupree Municipal Airport	faa	7
+Kittyhawk Airport	faa	0
+Dubois Municipal Airport	faa	DUB
+Hound Run Airport	faa	40
+Luray Caverns Airport	faa	LUA
+Harford Field	faa	HAD
+Elk Grove Airport	faa	E27
+Pixley Airport	faa	P27
+Ranchaero Airport	faa	CL56
+Paradise Skypark	faa	CA92
+Hornell Municipal Airport	faa	HTF
+Owasco Airport	faa	Y92
+Freehold Airport	faa	1
+Virginia Beach Airport	faa	42
+Choteau Airport	faa	CII
+Big Sky Airport	faa	EKS
+Wheatland County Airport	faa	HWQ
+Jordan Airport	faa	JDN
+Mission Field	faa	LVM
+Sher-Wood Airport	faa	PWD
+Roundup Airport	faa	RPX
+Thompson Falls Airport	faa	THM
+Shelby Airport	faa	SBX
+Kingdon Airpark	faa	O20
+Grey Butte Field Airport	faa	4
+El Mirage Field	faa	99.0
+Mercer County Airport	faa	0.0
+Grant County Airport	faa	W99
+Grant County Airport	faa	1
+Crawford County Airport	faa	RSV
+Hillsboro Municipal Airport	faa	3
+Olive Hill Airport	faa	2
+Ugashik Bay Airport	faa	UGB
+Ugashik Airport	faa	9
+Grant Municipal Airport	faa	GGF
+Hastings Airport	faa	9
+Hastings Municipal Airport	faa	HSI
+Eckert Field Airport	faa	1
+Oscoda County Dennis Kauffman Memorial Airport	faa	51M
+Buzzwick Airport	faa	W87
+Avoca Airport	faa	39.0
+Lake Isabella – Cal Brewer Memorial Airport	faa	D15
+Milwrick Flying %22M%22 Airport	faa	3
+Tackaberry Airport	faa	7.0
+Mayes Airport	faa	47.0
+Double JJ Resort Ranch Airport	faa	42.0
+Bean Blossom Airport	faa	6
+Randolph's Landing Area	faa	61.0
+Lost Creek Airport	faa	5
+Green Lake Airport	faa	Y88
+Dalton Airport	faa	3
+Empire Airport	faa	Y87
+Yuba Airport	faa	34
+Duford Field	faa	68.0
+Woltermann Memorial Airport	faa	6
+Columbus Southwest Airport	faa	4
+Lower Chattahoochee Regional Airport	faa	25.0
+Rust Airstrip	faa	3
+Telfair–Wheeler Airport	faa	MQW
+Baldwin County Airport	faa	MLJ
+Tom B. David Field	faa	CZL
+A. Paul Vance Fredericktown Regional Airport	faa	H88
+West Plains Regional Airport	faa	UNO
+Montgomery-Wehrman Airport	faa	4
+Air Park South	faa	2
+Princeton-Kauffman Memorial Airport	faa	7
+Lake City Municipal Airport	faa	51.0
+Mackinac County Airport	faa	83.0
+Henderson–Oxford Airport	faa	HNZ
+Halifax County Airport	faa	RZZ
+Halifax–Northampton Regional Airport	faa	IXA
+Pink Hill Airport	faa	4
+Wilson's Airport	faa	E40
+Ocracoke Island Airport	faa	W95
+Stampede Airport	faa	Z90
+Donalsonville Municipal Airport	faa	17.0
+Lavina Airport	faa	80.0
+Blue Heron Airport	faa	N25
+Cattaraugus County-Olean Airport	faa	OLE
+Cutler Regional Airport	faa	ME2
+Long Lake Seaplane Base	faa	76.0
+Rangeley Lake Seaplane Base	faa	M57
+Steven A. Bean Municipal Airport	faa	8
+Long Lake Seaplane Base	faa	92.0
+Rolla National Airport	faa	VIH
+Ephraim–Gibraltar Airport	faa	3
+Crystal Lake Airport	faa	5
+Sitka Seaplane Base	faa	A29
+North American Farms Airport	faa	56
+Haverstraw Heliport	faa	H43
+Naukati Bay Seaplane Base	faa	AK62
+Fargo Air National Guard Base	faa	FAR
+Hartwood Airport	faa	3
+Ashley Municipal Airport	faa	ASY
+Quartz Mountain Regional Airport	faa	AXS
+Air Estates Airport	faa	LL09
+Suffolk Executive Airport	faa	SFQ
+Dubois Municipal Airport	faa	U41
+Mettel Field	faa	CEV
+Goshen Municipal Airport	faa	GSH
+Richmond Municipal Airport	faa	RID
+Huntingburg Airport	faa	HNB
+Dorothy Scott Airport	faa	0
+Stockton Municipal Airport	faa	0
+Plainville Airpark	faa	0
+Tri-City Airport	faa	3
+Tri-City Airport	faa	80.0
+Henry County Airport	faa	7
+Harrison County Airport	faa	8
+Greenville Municipal Airport	faa	6
+Greenville Municipal Airport	faa	4
+Greene County Airport	faa	WAY
+Davis Airport	faa	W50
+Fairmont Municipal Airport	faa	4
+Fulton County Airport	faa	USE
+Eagles Nest Airport	faa	6
+Eureka Municipal Airport	faa	3
+Eureka Municipal Airport	faa	13.0
+Davenport Municipal Airport	faa	68.0
+Stanton County Municipal Airport	faa	JHN
+Cottonwood Falls Airport	faa	9
+Sublette Municipal Airport	faa	19.0
+Mississippi County Airport	faa	CHQ
+Tatum Airport	faa	18.0
+Rugby Municipal Airport	faa	RUG
+Pembina Municipal Airport	faa	PMB
+Bartlesville Municipal Airport	faa	BVO
+Chickasha Municipal Airport	faa	CHK
+Mysterious Valley Airport	faa	20.0
+York Municipal Airport	faa	JYR
+Pocono Mountains Municipal Airport	faa	MPO
+Penn Valley Airport	faa	SEG
+McVille Municipal Airport	faa	8
+McVille Airport	faa	6
+Erie County Airport	faa	3
+Scottdale Airport	faa	P45
+Stroudsburg–Pocono Airport	faa	N53
+Titusville Airport	faa	6
+Greensburg Jeannette Regional Airport	faa	5
+Cherry Ridge Airport	faa	N30
+St. Mary's Airpark	faa	8
+Riverside Airport	faa	K32
+Rooks County Regional Airport	faa	RCP
+Atoka Municipal Airport	faa	AQR
+Alva Regional Airport	faa	AVK
+Chandler Regional Airport	faa	CQB
+Cushing Municipal Airport	faa	CUH
+Gage Airport	faa	GAG
+Claremore Regional Airport	faa	GCM
+Grove Municipal Airport	faa	GMJ
+Stigler Regional Airport	faa	GZL
+Guthrie–Edmond Regional Airport	faa	GOK
+Cherokee Nation Airport	faa	O11
+Nowata Municipal Airport	faa	H66
+South Grand Lake Regional Airport	faa	1
+Cherokee Seaplane Base	faa	4
+Teramiranda Airport	faa	79.0
+Grand Lake Regional Airport	faa	3
+Sallisaw Municipal Airport	faa	JSV
+Watonga Regional Airport	faa	JWG
+Medford Municipal Airport	faa	O53
+Mooreland Municipal Airport	faa	MDF
+William R. Pogue Municipal Airport	faa	OWP
+Pauls Valley Municipal Airport	faa	PVJ
+Robert S. Kerr Airport	faa	RKR
+Shawnee Regional Airport	faa	SNL
+Stroud Municipal Airport	faa	SUD
+Beaver Lake Seaplane Base	faa	D71
+Seminole Municipal Airport	faa	SRE
+Tahlequah Municipal Airport	faa	TQH
+Harry Clever Field	faa	PHD
+Wings for Christ Airport	faa	0
+Dickson Field	faa	75
+Trenton–Mercer Airport	faa	TTN
+West Ranch Airport	faa	XS75
+Joint Base Charleston	faa	CHS
+Joint Base Elmendorf–Richardson	faa	EDF
+Joint Base Andrews	faa	ADW
+Joint Base Langley–Eustis	faa	LFI
+Joint Base Lewis–McChord	faa	TCM
+Ridgeland Airport	faa	3
+Loring International Airport	faa	ME16
+Okanogan Legion Airport	faa	S35
+Figure 2 Ranch Airport	faa	88
+Ocean Shores Municipal Airport	faa	W04
+Snettisham Airport	faa	7
+Heart of Georgia Regional Airport	faa	EZM
+Columbus Municipal Airport	faa	0
+Melbourne Municipal Airport	faa	42.0
+Herron Airport	faa	7
+Jefferson County Airpark	faa	2
+Eddie Dew Memorial Airpark	faa	1
+Naval Air Station Point Mugu	faa	NTD
+Eagle Pass Municipal Airport	faa	EGP
+Palmyra Municipal Airport	faa	88C
+Ware Airport	faa	MA53
+Snow Airport	faa	MA36
+Price County Airport	faa	PBH
+Neillsville Municipal Airport	faa	VIQ
+Hartford Municipal Airport	faa	HXF
+Iowa County Airport	faa	MRJ
+J. Douglas Bake Memorial Airport	faa	OCQ
+Solon Springs Municipal Airport	faa	OLG
+Tomahawk Regional Airport	faa	TKV
+Merrill Municipal Airport	faa	RRL
+Park Falls Municipal Airport	faa	PKF
+L.O. Simenstad Municipal Airport	faa	OEO
+Joshua Sanford Field	faa	HBW
+Necedah Airport	faa	DAF
+Boulder Junction Airport	faa	BDJ
+Mission Sioux Airport	faa	0
+McIntosh Municipal Airport	faa	8
+Rosebud Sioux Tribal Airport	faa	SUO
+Johnson City STOLport	faa	0
+Powell STOLport	faa	9
+Lancaster Municipal Airport	faa	73C
+Naval Outlying Field Goliad	faa	NGT
+Cleburne Regional Airport	faa	CPT
+McCampbell–Porter Airport	faa	TFP
+Granbury Regional Airport	faa	GDJ
+New Gulf Airport	faa	1
+Boyd Field	faa	54
+Pronger Bros. Ranch Airport	faa	30000000
+Hall Airport	faa	K00
+Lesikar Ranch Airport	faa	1
+Cluck Ranch Airport	faa	2000
+Nocona Airport	faa	F48
+Glen Beicker Ranch Airport	faa	83.0
+Jake Garn Airport	faa	17
+John H. Boylan State Airport	faa	5
+Sequim Valley Airport	faa	W28
+J-Z Airport	faa	1
+Welch Municipal Airport	faa	I25
+Mingo County Airport	faa	4
+Boggs Field	faa	USW
+Appalachian Regional Airport	faa	EBD
+Warren Municipal Airport	faa	D37
+Warren Airport	faa	62.0
+Front Royal–Warren County Airport	faa	FRR
+Warren Municipal Airport	faa	3
+Westport Airport	faa	71.0
+Westport Airport	faa	4
+Westport Airport	faa	14.0
+Wells Municipal Airport	faa	68
+Jesup–Wayne County Airport	faa	JES
+Washington County Airport	faa	8
+Rowe Waterloo Airport	faa	4
+Washington County Memorial Airport	faa	K38
+Wales Airport	faa	ME6
+Verona Airport	faa	W19
+Union County Airport	faa	35.0
+New Albany-Union County Airport	faa	M72
+Twin Bridges Airport	faa	7
+Arcade Tri-County Airport	faa	D23
+Troy Skypark	faa	37
+Tri-County Airport	faa	2
+Taylor Airport	faa	T14
+Taylor Airport	faa	6
+Downtown Airport	faa	F43
+Rolla Downtown Airport	faa	K07
+Stockton Municipal Airport	faa	MO3
+St. George Airport	faa	6
+Summerville Airport	faa	DYB
+Springfield Municipal Airport	faa	8
+Springfield Municipal Airport	faa	D42
+Springfield Municipal Airport	faa	Y03
+Lebanon-Springfield Airport	faa	6
+Springfield Robertson County Airport	faa	M91
+Somerset County Airport	faa	2
+Lawrence Smith Memorial Airport	faa	LRY
+Plateau Sky Ranch Airport	faa	1
+Sky Manor Airport	faa	N22
+Sky Harbor Airport	faa	S86
+Sidney Municipal Airport	faa	N23
+Sidney Municipal Airport	faa	SCA
+Shelby Community Airport	faa	12.0
+Santa Cruz Island Airport	faa	SZN
+Salem–Leckrone Airport	faa	SLO
+Salem Municipal Airport	faa	I83
+Salem Memorial Airport	faa	K33
+Salem Airport	faa	7
+Koons Airport	faa	8
+Richmond Field	faa	69.0
+Becks Grove Airport	faa	K16
+Richland Airport	faa	93C
+Reed Ranch Airport	faa	I92
+Quincy Municipal Airport	faa	80.0
+Portland Municipal Airport	faa	PLD
+Portland Municipal Airport	faa	1
+Hunt Airport	faa	9
+Hunt Field	faa	LND
+Plymouth Municipal Airport	faa	65.0
+Monroe County Airport	faa	M40
+Monroe County Airport	faa	4
+Tompkinsville-Monroe County Airport	faa	TZV
+Franklin Flying Field	faa	3
+Perry County Airport	faa	I86
+Richton-Perry County Airport	faa	M59
+Paris Municipal Airport	faa	7
+Bear Lake County Airport	faa	1
+Page Regional Airport	faa	64.0
+Osceola Municipal Airport	faa	7
+Osceola Municipal Airport	faa	I75
+Orange County Airport	faa	OMH
+Norwich Airport	faa	49.0
+New Castle-Henry County Municipal Airport	faa	UWL
+Newton Municipal Airport	faa	61.0
+Newton Field	faa	59.0
+Mount Pleasant Airport	faa	43
+Mount Pleasant Regional Airport	faa	OSA
+Morgan County Airport	faa	I71
+Morgan County Airport	faa	42
+White County Airport	faa	MCX
+Winona-Montgomery County Airport	faa	5
+G. V. Montgomery Airport	faa	2
+Millard Airport	faa	N76
+Miller Municipal Airport	faa	MKA
+James G. Whiting Memorial Field	faa	MEY
+Mason County Airport	faa	3
+Mason County Airport	faa	T92
+Martin Field	faa	7
+Ava Bill Martin Memorial Airport	faa	AOV
+Martin Municipal Airport	faa	9
+Holly Springs-Marshall County Airport	faa	M41
+Marshall County Airport	faa	75.0
+Marshall Memorial Municipal Airport	faa	MHL
+Searcy County Airport	faa	4
+Marion Municipal Airport	faa	43.0
+Marion-Crittenden County Airport	faa	5
+Shiflet Field	faa	9
+Marion County Airport	faa	82.0
+Marion Airport	faa	17.0
+Mountain Empire Airport	faa	MKJ
+Marion County Airport	faa	MAO
+Malta Airport	faa	M75
+Madisonville Municipal Airport	faa	51.0
+Madison Municipal Airport	faa	52.0
+Lac qui Parle County Airport	faa	DXX
+Blackhawk Airfield	faa	87
+Madison Airport	faa	I39
+Rexburg–Madison County Airport	faa	RXE
+Winterset Municipal Airport	faa	3
+Long Lake Helms Seaplane Base	faa	NY9
+Long Lake Sagamore Seaplane Base	faa	K03
+Rouses Point Seaplane Base	faa	K21
+Dolgeville Airport	faa	1
+Moores Airport	faa	100000000
+Garnseys Airport	faa	B04
+Argyle Airport	faa	1
+Chapin Field	faa	1
+Skaneateles Aerodrome	faa	6
+Olcott-Newfane Airport	faa	D80
+Akutan Airport	faa	7
+Naval Weapons Industrial Reserve Plant, Calverton	faa	CTO
+Billy Free Municipal Airport	faa	0
+Danville Municipal Airport	faa	32.0
+Gaston's Airport	faa	3
+Calico Rock–Izard County Airport	faa	37.0
+Carlisle Municipal Airport	faa	4.0
+Clarendon Municipal Airport	faa	4
+Corning Municipal Airport	faa	CRZ
+Corning Municipal Airport	faa	4
+De Witt Municipal Airport	faa	5
+Fordyce Municipal Airport	faa	5
+Syracuse Hancock International Airport	faa	SYR
+Spirit Lake Municipal Airport	faa	0
+Eldora Municipal Airport	faa	6
+Hawarden Municipal Airport	faa	2
+Boone Municipal Airport	faa	BNW
+Creston Municipal Airport	faa	CSQ
+Denison Municipal Airport	faa	DNS
+Webster City Municipal Airport	faa	EBS
+Boyer Flight Park	faa	7
+Harrold Airport	faa	B25
+Ralph E. Koch Airport	faa	61
+Wheeler Airport	faa	IG05
+Ed-Air Airport	faa	2
+Kentland Municipal Airport	faa	50
+Action Airpark	faa	I38
+Oxford County Regional Airport	faa	81.0
+Pittsfield Municipal Airport	faa	2
+Panguitch Municipal Airport	faa	U55
+Prentice Airport	faa	5
+Polacca Airport	faa	P10
+Ring Hill Airport	faa	38.0
+Canby Municipal Airport	faa	CNB
+Caldwell Parish Airport	faa	F86
+Columbia Airport	faa	4
+Union Parish Airport	faa	F87
+Thackers Airport	faa	5
+Colfax Airport	faa	L40
+Newellton Airport	faa	9.0
+South Lafourche Leonard Miller Jr. Airport	faa	GAO
+Morehouse Memorial Airport	faa	BQP
+Kelly Airport	faa	9
+Columbus Municipal Airport	faa	D49
+Kenmare Municipal Airport	faa	7
+Lincoln Municipal Airport	faa	K71
+Lincoln Municipal Airport	faa	0
+Russellville-Logan County Airport	faa	4
+St. Thomas Municipal Airport	faa	4
+Cleveland Municipal Airport	faa	95.0
+Crosby Municipal Airport	faa	71.0
+Brookhaven-Lincoln County Airport	faa	1
+Marv Skie–Lincoln County Airport	faa	Y14
+Lincoln Airport	faa	S69
+Leon Airport	faa	W07
+Lee County Airport	faa	52.0
+Lee County Airport	faa	0
+Lee County Airport	faa	6
+Corry–Lawrence Airport	faa	8
+Lawrenceburg–Lawrence County Airport	faa	2.0
+Lakeview Airport	faa	13C
+Poplar Airport	faa	42.0
+Cornell Municipal Airport	faa	4
+Stanford Airport	faa	S64
+Morgan Airport	faa	7
+Poplar Municipal Airport	faa	PO1
+Ravalli County Airport	faa	6
+Three Forks Airport	faa	9
+Turner Airport	faa	9
+Harlem Airport	faa	48.0
+Babb Airport	faa	49.0
+Ferndale Airfield	faa	53
+Polson Airport	faa	8
+Belle Creek Airport	faa	3
+Cape Fear Regional Jetport	faa	SUT
+Sugar Valley Airport	faa	5
+Elkins Field	faa	1000000
+Deerfield Valley Regional Airport	faa	4
+Bellefontaine Municipal Airport	faa	7
+Gallia–Meigs Regional Airport	faa	GAS
+Osage City Municipal Airport	faa	53.0
+Brenner Field	faa	FNB
+Upper Cumberland Regional Airport	faa	SRB
+Gillespie Field	faa	66.0
+Gillespie County Airport	faa	T82
+McCaslin Airport	faa	O44
+C. A. Moore Airport	faa	19M
+Packwood Airport	faa	55.0
+Mid-Way Regional Airport	faa	JWY
+William Beaumont Hospital Heliport	faa	32.0
+Mount Olive Municipal Airport	faa	W40
+Center Island Airport	faa	78
+Parson Landing Airport	faa	7
+Baltimore Airpark	faa	1
+Muskeget Island Airport	faa	MA55
+Tuckernuck Airport	faa	MA72
+East Georgia Regional Airport	faa	SBO
+Williamsburg Regional Airport	faa	CKI
+Williams County Airport	faa	0
+Beatrice Municipal Airport	faa	BIE
+Cameron Memorial Airport	faa	EZZ
+Sullivan Regional Airport	faa	UUV
+Bethany Memorial Airport	faa	75.0
+Festus Memorial Airport	faa	FES
+Cleveland Regional Jetport	faa	RZR
+Sumner County Regional Airport	faa	M33
+Geauga County Airport	faa	7
+Benton County Airport	faa	0
+Hood Army Airfield	faa	HLR
+Cibecue Airport	faa	Z95
+Whiteriver Airport	faa	E24
+Zagora Airport	faa	OZG
+Dahl Creek Airport	faa	DCK
+Torrington Municipal Airport	faa	TOR
+Takotna Airport	faa	TCT
+Telida Airport	faa	2
+Umiat Airport	faa	UMT
+Husky Haven Airport	faa	P32
+Rush City Regional Airport	faa	ROS
+Noblesville Airport	faa	I80
+Crawfordsville Municipal Airport	faa	CFJ
+Sheridan Airport	faa	5
+Arens Field	faa	RWN
+Delphi Municipal Airport	faa	1
+DeKalb County Airport	faa	GWB
+Frankfort Municipal Airport	faa	FKR
+Greenwood Municipal Airport	faa	HFY
+Cass County Airport	faa	GGP
+Kendallville Municipal Airport	faa	62.0
+North Vernon Airport	faa	OVO
+Paoli Municipal Airport	faa	I42
+Peru Municipal Airport	faa	I76
+Putnam County Airport	faa	4
+Randolph County Airport	faa	I22
+Starke County Airport	faa	OXI
+Sullivan County Municipal Airport	faa	SIV
+Wabash Municipal Airport	faa	IWH
+Miami County Airport	faa	K81
+Converse Airport	faa	1
+Lee Bottom Airport	faa	64
+Keller Brothers Airport	faa	8.0
+Deck Airport	faa	9
+Farmers Pride Airport	faa	9
+Grove City Airport	faa	29.0
+Mineral County Airport	faa	9
+Glenair Airport	faa	MD46
+Martin Field Airport	faa	AK92
+Bennett Airport	faa	1
+Portland International Jetport	faa	PWM\n(Location of the Portland International Jetport)
+Dallas Love Field	faa	DAL\n(Location of the Dallas Love Field)
+Canapitsit Airport	faa	15
+Delaware Municipal Airport	faa	DLZ
+Kentmorr Airpark	faa	3
+Ellerport Airport	faa	WN54
+Grasmere, Idaho	faa	U91
+McGinness Airport	faa	8
+Claremont Airport	faa	58M
+Pier 7 Heliport	faa	4
+Hoby Wolf Airport	faa	2
+Fallston Airport	faa	W42
+Massey Aerodrome	faa	MD1
+Ridgely Airpark	faa	RJD
+Weide Army Airfield	faa	KEDG
+Naval Outlying Field Webster	faa	NUI
+DFW Heloplex	faa	T57
+Destin–Fort Walton Beach Airport	faa	VPS
+Wings Field	faa	LOM
+Bonny Doon Village Airport	faa	CL77
+Ulithi Airport	faa	TT02
+Marine Corps Outlying Field Atlantic	faa	12
+Marine Corps Outlying Field Oak Grove	faa	13
+Marine Corps Outlying Field Oak Grove	faa	12
+General Wayne A. Downing Peoria International Airport	faa	PIA
+Mishawaka Pilots Club Airport	faa	3
+St. Charles Airport	faa	LS40
+St. Maries Municipal Airport	faa	S72
+Chehalis–Centralia Airport	faa	CLS
+Conway Municipal Airport	faa	CXW
+Richard Downing Airport	faa	I40
+Mansfield Lahm Air National Guard Base	faa	MFD
+Swansboro Country Airport	faa	1.0
+Wyandot County Airport	faa	56.0
+Cincinnati West Airport	faa	I67
+Hardin County Airport	faa	I95
+Holmes County Airport	faa	10.0
+Mad River Airport	faa	I54
+Columbiana County Airport	faa	2.0
+North Bass Island Airport	faa	3
+Middle Bass-East Point Airport	faa	3
+Morrow County Airport	faa	4
+Pioneer Airport	faa	WS17
+Jekyll Island Airport	faa	9.0
+Carlisle Airport	faa	N94
+Terre Haute Regional Airport	faa	HUF
+Manitowish Waters Airport	faa	D25
+Crandon Municipal Airport	faa	Y55
+Crivitz Municipal Airport	faa	3
+Wautoma Municipal Airport	faa	Y50
+Cable Union Airport	faa	3
+Boyceville Municipal Airport	faa	3
+East Troy Municipal Airport	faa	57C
+Fort Atkinson Municipal Airport	faa	61C
+Major Gilbert Field Airport	faa	4
+Mauston-New Lisbon Union Airport	faa	82C
+Sauk-Prairie Airport	faa	91C
+Reedsburg Municipal Airport	faa	35.0
+Grand Geneva Resort Airport	faa	2.0
+Viroqua Municipal Airport	faa	Y51
+Ontonagon County Airport	faa	OGM
+Schoolcraft County Airport	faa	ISQ
+Menominee-Marinette Twin County Airport	faa	MNM

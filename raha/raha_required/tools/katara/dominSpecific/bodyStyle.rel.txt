@@ -1,0 +1,6493 @@
+Ford GT40	bodyStyle	Coupe
+Ford GT40	bodyStyle	Roadster
+Mazda MX-5	bodyStyle	2
+Porsche 928	bodyStyle	2
+Porsche 924	bodyStyle	2
+Porsche 912	bodyStyle	Coupé
+Porsche 968	bodyStyle	2
+Porsche 944	bodyStyle	2
+Porsche 944	bodyStyle	Coupe
+Porsche 944	bodyStyle	Convertible
+Subaru Forester	bodyStyle	5
+Trabant	bodyStyle	2
+Trabant	bodyStyle	doorless jeep
+Tatra 600	bodyStyle	4
+Porsche 914	bodyStyle	Targa top
+Porsche 914	bodyStyle	Coupe
+AMC Gremlin	bodyStyle	2
+Lotus Seven	bodyStyle	Roadster
+Mini	bodyStyle	2
+Mini	bodyStyle	Sedan
+Mini	bodyStyle	Station wagon
+Mini	bodyStyle	Pickup truck
+Volkswagen Beetle	bodyStyle	2
+Lada Niva	bodyStyle	3
+Lada Niva	bodyStyle	2
+FSO Syrena	bodyStyle	2
+FSO Syrena	bodyStyle	'Syrena Bosto' Light panel van
+FSO Syrena	bodyStyle	Pickup truck
+BMW 328	bodyStyle	Roadster
+Volkswagen Kübelwagen	bodyStyle	4
+Citroën 2CV	bodyStyle	5
+Citroën 2CV	bodyStyle	2
+Ford Mustang	bodyStyle	2
+Ford Mustang	bodyStyle	seat
+Ford Mustang	bodyStyle	Coupe
+Ford Mustang	bodyStyle	Hatchback
+Ford Mustang	bodyStyle	Fastback
+Ford Mustang	bodyStyle	Convertible
+Citroën SM	bodyStyle	3
+Green Goddess	bodyStyle	Fire engine
+Ford Pinto	bodyStyle	2
+Ford Pinto	bodyStyle	3
+Porsche Cayenne	bodyStyle	5
+Pontiac Vibe	bodyStyle	4
+Pontiac Vibe	bodyStyle	5
+Ford Model T	bodyStyle	2
+Ford Model T	bodyStyle	3
+Ford Model T	bodyStyle	4
+Ford Model T	bodyStyle	no door
+Ford Model T	bodyStyle	Roadster
+Ford Model T	bodyStyle	1
+Ford Model T	bodyStyle	Pickup truck
+Ford Model T	bodyStyle	Coupé
+Ford Model T	bodyStyle	Town car
+Ford Model T	bodyStyle	C-cab
+Ford Model T	bodyStyle	Station wagon
+Ford Model T	bodyStyle	Sedan
+Ford Model T	bodyStyle	Separate chassis were available all years from independent
+Ford Model T	bodyStyle	Coachbuilder
+Ford Model T	bodyStyle	s
+Ford Anglia	bodyStyle	2
+Ford Anglia	bodyStyle	4
+Toyota Celica	bodyStyle	3
+Toyota Celica	bodyStyle	2
+Nissan Skyline GT-R	bodyStyle	4
+Nissan Skyline GT-R	bodyStyle	Sedan
+Nissan Skyline GT-R	bodyStyle	2
+Nissan Skyline GT-R	bodyStyle	Coupe
+Volkswagen Golf	bodyStyle	2
+Volkswagen Golf	bodyStyle	Convertible
+Volkswagen Golf	bodyStyle	3
+Volkswagen Golf	bodyStyle	Hatchback
+Volkswagen Golf	bodyStyle	5
+Volkswagen Golf	bodyStyle	Station wagon
+Volkswagen Golf	bodyStyle	Compact MPV
+Lotus Elise	bodyStyle	2
+Lotus Elite	bodyStyle	2
+Volkswagen Scirocco	bodyStyle	3
+Lamborghini Murciélago	bodyStyle	2
+Lamborghini Diablo	bodyStyle	2
+Reliant Kitten	bodyStyle	2
+Reliant Kitten	bodyStyle	3
+Chevrolet Corvette	bodyStyle	2
+Ford Cortina	bodyStyle	2
+Ford Cortina	bodyStyle	4
+Ford Cortina	bodyStyle	5
+Ford Cortina	bodyStyle	Sedan
+Ford Cortina	bodyStyle	Station wagon
+Ford Cortina	bodyStyle	Coupé utility
+Pontiac GTO	bodyStyle	2
+Pontiac GTO	bodyStyle	Convertible
+Pontiac GTO	bodyStyle	Hardtop
+Pontiac GTO	bodyStyle	Coupé
+Pontiac GTO	bodyStyle	3
+Pontiac GTO	bodyStyle	Liftback
+Vauxhall Firenza	bodyStyle	2
+Vauxhall Viva	bodyStyle	2
+Vauxhall Viva	bodyStyle	4
+Vauxhall Viva	bodyStyle	3
+Reliant Scimitar	bodyStyle	Coupé
+Reliant Scimitar	bodyStyle	Shooting brake
+Reliant Scimitar	bodyStyle	Cabriolet
+Reliant Scimitar	bodyStyle	2
+Vauxhall Chevette	bodyStyle	2
+Vauxhall Chevette	bodyStyle	Sedan
+Vauxhall Chevette	bodyStyle	3
+Vauxhall Chevette	bodyStyle	Hatchback
+Vauxhall Chevette	bodyStyle	Station wagon
+Vauxhall Chevette	bodyStyle	Van
+Vauxhall Magnum	bodyStyle	2
+Vauxhall Magnum	bodyStyle	4
+Vauxhall Magnum	bodyStyle	3
+Ford Sierra	bodyStyle	3
+Ford Sierra	bodyStyle	5
+Ford Sierra	bodyStyle	4
+Chevrolet Camaro	bodyStyle	2
+Chevrolet Camaro	bodyStyle	Coupé
+Chevrolet Camaro	bodyStyle	Convertible
+AC Cobra	bodyStyle	2
+Volvo 66	bodyStyle	2
+Volvo 66	bodyStyle	3
+Volvo Amazon	bodyStyle	2
+Volvo Amazon	bodyStyle	Coupe
+Volvo Amazon	bodyStyle	4
+Volvo Amazon	bodyStyle	Sedan
+Volvo Amazon	bodyStyle	5
+Volvo Amazon	bodyStyle	Station wagon
+Volvo Duett	bodyStyle	Station wagon
+Mazda RX-7	bodyStyle	2
+Saab 900	bodyStyle	2
+Saab 900	bodyStyle	3
+Saab 900	bodyStyle	4
+Saab 900	bodyStyle	5
+Mazda RX-8	bodyStyle	4
+Fiat 128	bodyStyle	2
+Fiat 128	bodyStyle	Saloon car
+Fiat 128	bodyStyle	4
+Fiat 128	bodyStyle	3
+Fiat 128	bodyStyle	Estate car
+Fiat 128	bodyStyle	5
+Fiat 128	bodyStyle	Pickup truck
+Fiat 128	bodyStyle	Coupé
+Citroën DS	bodyStyle	4
+Citroën DS	bodyStyle	5
+Citroën DS	bodyStyle	2
+Peugeot 106	bodyStyle	3
+Peugeot 106	bodyStyle	5
+Citroën C3	bodyStyle	5
+Citroën C3	bodyStyle	2
+Peugeot 406	bodyStyle	4
+Peugeot 406	bodyStyle	5
+Peugeot 406	bodyStyle	2
+Citroën Berlingo	bodyStyle	Panel van
+Citroën Berlingo	bodyStyle	Leisure activity vehicle
+Citroën Berlingo	bodyStyle	Pickup truck
+Citroën Berlingo	bodyStyle	4
+Citroën Berlingo	bodyStyle	5
+Citroën Berlingo	bodyStyle	2
+Volkswagen Karmann Ghia	bodyStyle	2
+Chevrolet Impala	bodyStyle	2
+Chevrolet Impala	bodyStyle	Convertible
+Chevrolet Impala	bodyStyle	Hardtop
+Chevrolet Impala	bodyStyle	Coupe
+Chevrolet Impala	bodyStyle	4
+Chevrolet Impala	bodyStyle	Sedan
+Chevrolet Impala	bodyStyle	Station wagon
+Lamborghini Countach	bodyStyle	2
+Ford Focus	bodyStyle	3
+Ford Focus	bodyStyle	5
+Ford Focus	bodyStyle	4
+Ford Focus	bodyStyle	2
+Ford Crown Victoria	bodyStyle	4
+Toyota Land Cruiser	bodyStyle	2
+Toyota Land Cruiser	bodyStyle	Softtop
+Toyota Land Cruiser	bodyStyle	Hardtop
+Toyota Land Cruiser	bodyStyle	Pickup truck
+Toyota Land Cruiser	bodyStyle	5
+Toyota Land Cruiser	bodyStyle	Station wagon
+Toyota Land Cruiser	bodyStyle	4
+Toyota Land Cruiser	bodyStyle	/ troopie
+Toyota Land Cruiser	bodyStyle	Van
+Toyota Land Cruiser	bodyStyle	Full size SUV, 4-door station wagon
+Saab 9-3	bodyStyle	3
+Saab 9-3	bodyStyle	2
+Saab 9-3	bodyStyle	4
+Volkswagen Jetta	bodyStyle	4
+Volkswagen Jetta	bodyStyle	2
+Volkswagen Jetta	bodyStyle	5
+Mercury Comet	bodyStyle	2
+Mercury Comet	bodyStyle	4
+Citroën Saxo	bodyStyle	3
+Citroën Saxo	bodyStyle	5
+Citroën C2	bodyStyle	3
+Honda CR-X	bodyStyle	3
+Toyota Matrix	bodyStyle	5
+Holden Commodore	bodyStyle	2
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	5
+Honda Integra	bodyStyle	3
+Honda Integra	bodyStyle	5
+Honda Integra	bodyStyle	4
+Honda Integra	bodyStyle	2
+Plymouth Road Runner	bodyStyle	2
+Plymouth Superbird	bodyStyle	2
+Continental Mark II	bodyStyle	2
+Lincoln Continental Mark III	bodyStyle	2
+Lancia Delta	bodyStyle	5
+Lancia Delta	bodyStyle	2
+Lancia Delta	bodyStyle	Hatchback
+Lancia Delta	bodyStyle	3
+AMC Pacer	bodyStyle	2
+Morris Marina	bodyStyle	4
+Morris Marina	bodyStyle	5
+Morris Marina	bodyStyle	2
+Saab 9000	bodyStyle	4
+Saab 9000	bodyStyle	5
+Ford Windstar	bodyStyle	3
+Ford Windstar	bodyStyle	4
+Ford Galaxie	bodyStyle	2
+Ford Galaxie	bodyStyle	4
+Ford Parklane	bodyStyle	2
+Ford Torino	bodyStyle	2
+Ford Torino	bodyStyle	4
+Ford Torino	bodyStyle	5
+Ford Ranchero	bodyStyle	2
+Nissan Maxima	bodyStyle	4
+Nissan Maxima	bodyStyle	Sedan
+Nissan Maxima	bodyStyle	5
+Nissan Maxima	bodyStyle	Station wagon
+Dodge Caravan	bodyStyle	3
+Dodge Caravan	bodyStyle	4
+9	bodyStyle	Two-seater targa
+Chevrolet Avalanche	bodyStyle	4
+Saab 90	bodyStyle	2
+Saab 99	bodyStyle	2
+Saab 99	bodyStyle	3
+Myers Motors NmG	bodyStyle	2
+Myers Motors NmG	bodyStyle	1
+Subaru BRAT	bodyStyle	2
+Saab 95	bodyStyle	3
+Saab 9-5	bodyStyle	4
+Saab 9-5	bodyStyle	5
+Saab 93	bodyStyle	2
+Saab 96	bodyStyle	2
+Saab 92	bodyStyle	2
+544	bodyStyle	2
+Volvo P1900	bodyStyle	Roadster
+Ford Prefect	bodyStyle	2
+Ford Prefect	bodyStyle	4
+Austin Allegro	bodyStyle	2
+Austin Allegro	bodyStyle	3
+Austin Allegro	bodyStyle	4
+Princess	bodyStyle	4
+Austin Princess	bodyStyle	4
+Lamborghini Miura	bodyStyle	2
+Chevrolet Chevelle	bodyStyle	2
+Chevrolet Chevelle	bodyStyle	4
+Toyota Prius	bodyStyle	4
+Toyota Prius	bodyStyle	5
+Austin-Healey Sprite	bodyStyle	2
+Chevrolet Corvair	bodyStyle	2
+Chevrolet Corvair	bodyStyle	Convertible
+Chevrolet Corvair	bodyStyle	Coupe
+Chevrolet Corvair	bodyStyle	4
+Chevrolet Corvair	bodyStyle	Sedan
+Chevrolet Corvair	bodyStyle	Station wagon
+Chevrolet Corvair	bodyStyle	6
+Chevrolet Corvair	bodyStyle	Van
+Chevrolet Corvair	bodyStyle	8
+Chevrolet Corvair	bodyStyle	Pickup truck
+Chevrolet Corvair	bodyStyle	Hardtop
+Porsche 959	bodyStyle	2
+1932 Ford	bodyStyle	2
+1932 Ford	bodyStyle	4
+1932 Ford	bodyStyle	Pickup truck
+Honda Accord	bodyStyle	3
+Honda Accord	bodyStyle	4
+Honda Accord	bodyStyle	2
+Honda Accord	bodyStyle	5
+Ford Laser	bodyStyle	3
+Ford Laser	bodyStyle	4
+Ford Laser	bodyStyle	5
+Ford Laser	bodyStyle	2
+Ford Telstar	bodyStyle	4
+Ford Telstar	bodyStyle	5
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	2
+Volkswagen Polo	bodyStyle	3
+Volkswagen Polo	bodyStyle	2
+Volkswagen Polo	bodyStyle	5
+Volkswagen Polo	bodyStyle	4
+Holden Astra	bodyStyle	5
+Holden Astra	bodyStyle	4
+Holden Astra	bodyStyle	2
+Holden Astra	bodyStyle	3
+Opel Astra	bodyStyle	3
+Opel Astra	bodyStyle	4
+Opel Astra	bodyStyle	5
+Opel Astra	bodyStyle	2
+Ford Scorpio	bodyStyle	4
+Ford Scorpio	bodyStyle	5
+Vauxhall Cavalier	bodyStyle	2
+Vauxhall Cavalier	bodyStyle	3
+Vauxhall Cavalier	bodyStyle	4
+Vauxhall Cavalier	bodyStyle	5
+Opel Vectra	bodyStyle	4
+Opel Vectra	bodyStyle	5
+Buick Skylark	bodyStyle	2
+Buick Skylark	bodyStyle	4
+Buick Skylark	bodyStyle	Coupe
+Buick Skylark	bodyStyle	Sedan
+Pontiac Sunfire	bodyStyle	2
+Pontiac Sunfire	bodyStyle	4
+Chevrolet Astro	bodyStyle	3
+Pontiac Sunbird	bodyStyle	2
+Pontiac Sunbird	bodyStyle	4
+AMC Javelin	bodyStyle	2
+Peugeot 205	bodyStyle	3
+Peugeot 205	bodyStyle	2
+Ford Country Squire	bodyStyle	2
+Ford Country Squire	bodyStyle	4
+Chrysler 300 letter series	bodyStyle	2
+Chrysler 300 letter series	bodyStyle	Hardtop
+Chrysler 300 letter series	bodyStyle	Convertible
+Chrysler 300 letter series	bodyStyle	Coupe
+Saab Sonett	bodyStyle	2
+Datsun 510	bodyStyle	2
+Datsun 510	bodyStyle	4
+Datsun 510	bodyStyle	5
+Pontiac Firebird	bodyStyle	2
+Porsche 550	bodyStyle	2
+Chevrolet Biscayne	bodyStyle	2
+Chevrolet Biscayne	bodyStyle	5
+Chevrolet Biscayne	bodyStyle	4
+Volvo 140 Series	bodyStyle	2
+Volvo 140 Series	bodyStyle	4
+Volvo 140 Series	bodyStyle	5
+Nissan Pathfinder	bodyStyle	2
+Nissan Pathfinder	bodyStyle	SUV
+Nissan Pathfinder	bodyStyle	4
+Nissan Pathfinder	bodyStyle	5
+Volvo S60	bodyStyle	4
+Volvo P1800	bodyStyle	2
+Volvo P1800	bodyStyle	Coupe
+Volvo P1800	bodyStyle	3
+Volvo P1800	bodyStyle	Station wagon
+Ford Festiva	bodyStyle	2
+Ford Festiva	bodyStyle	3
+Ford Festiva	bodyStyle	4
+Ford Festiva	bodyStyle	5
+Lincoln Continental Mark IV	bodyStyle	2
+AC Ace	bodyStyle	2
+Opel Kadett	bodyStyle	3
+Opel Kadett	bodyStyle	2
+Opel Kadett	bodyStyle	4
+Lotus Europa	bodyStyle	2
+Chevrolet Caprice	bodyStyle	2
+Chevrolet Caprice	bodyStyle	4
+Chevrolet Bel Air	bodyStyle	2
+Chevrolet Bel Air	bodyStyle	4
+Acura TSX	bodyStyle	4
+Acura TSX	bodyStyle	5
+Mercedes-Benz S-Class	bodyStyle	4
+Mercedes-Benz S-Class	bodyStyle	2
+Mercedes-Benz C-Class	bodyStyle	4
+Mercedes-Benz C-Class	bodyStyle	5
+Mercedes-Benz C-Class	bodyStyle	2
+Volvo 164	bodyStyle	4
+Jaguar X-Type	bodyStyle	4
+Jaguar X-Type	bodyStyle	5
+Jaguar XK	bodyStyle	2
+BMW 1 Series	bodyStyle	2
+BMW 1 Series	bodyStyle	3
+BMW 1 Series	bodyStyle	5
+Bentley Arnage	bodyStyle	4
+Honda Fit	bodyStyle	5
+Cadillac Escalade	bodyStyle	5
+Cadillac Escalade	bodyStyle	4
+Cadillac Eldorado	bodyStyle	2
+Cadillac Eldorado	bodyStyle	Series 62:
+Cadillac Eldorado	bodyStyle	4
+Cadillac Eldorado	bodyStyle	Series 70:
+McLaren F1	bodyStyle	2
+Volkswagen Phaeton	bodyStyle	4
+Citroën AX	bodyStyle	3
+Citroën AX	bodyStyle	5
+Citroën Visa	bodyStyle	5
+Citroën Visa	bodyStyle	4
+Citroën GS	bodyStyle	4
+Citroën GS	bodyStyle	5
+Citroën GS	bodyStyle	3
+Nissan Navara	bodyStyle	2
+Nissan Navara	bodyStyle	4
+Ford Five Hundred	bodyStyle	4
+Pontiac G6	bodyStyle	2
+Pontiac G6	bodyStyle	4
+Pontiac Solstice	bodyStyle	2
+Ford Köln	bodyStyle	2
+Ford Köln	bodyStyle	Cabrio-limousine (soft top saloon/sedan)
+Ford Köln	bodyStyle	bare-chassis also offered
+Oldsmobile Cutlass	bodyStyle	4
+Oldsmobile Cutlass	bodyStyle	2
+Oldsmobile Cutlass	bodyStyle	5
+Ford Eifel	bodyStyle	Sedan
+Ford Eifel	bodyStyle	Cabriolet
+Ford Eifel	bodyStyle	Roadster
+Ford Ka	bodyStyle	3
+Ford Ka	bodyStyle	2
+Ford Ka	bodyStyle	5
+Ford Ka	bodyStyle	4
+Ford Popular	bodyStyle	two door saloon
+Ford Popular	bodyStyle	two door coupe utility
+Ford Popular	bodyStyle	chassis-cowl
+Honda Prelude	bodyStyle	2
+Toyota Supra	bodyStyle	2
+Toyota Supra	bodyStyle	Fastback
+Toyota Supra	bodyStyle	Coupe
+Toyota Supra	bodyStyle	Coupé
+Subaru Baja	bodyStyle	4
+Peugeot 405	bodyStyle	4
+Peugeot 405	bodyStyle	5
+Peugeot 504	bodyStyle	4
+Peugeot 504	bodyStyle	5
+Peugeot 504	bodyStyle	2
+Subaru Vivio	bodyStyle	3
+Subaru Vivio	bodyStyle	5
+Subaru Vivio	bodyStyle	2
+Mercedes-Benz E-Class	bodyStyle	4
+Mercedes-Benz E-Class	bodyStyle	5
+Mercedes-Benz E-Class	bodyStyle	2
+Fiat Croma	bodyStyle	5
+Honda Insight	bodyStyle	3
+Honda Insight	bodyStyle	5
+SEAT Ibiza	bodyStyle	3
+SEAT Ibiza	bodyStyle	5
+Ford Fiesta	bodyStyle	3
+Ford Fiesta	bodyStyle	2
+Ford Fiesta	bodyStyle	4
+Fiat 127	bodyStyle	2
+Fiat 127	bodyStyle	Sedan
+Fiat 127	bodyStyle	3
+Fiat 127	bodyStyle	Hatchback
+Fiat 127	bodyStyle	4
+Fiat 127	bodyStyle	Station wagon
+Fiat 124	bodyStyle	4
+Fiat 124	bodyStyle	Sedan
+Fiat 124	bodyStyle	5
+Fiat 124	bodyStyle	Station wagon
+Fiat 124	bodyStyle	2
+Fiat 124	bodyStyle	Coupé
+Fiat 124	bodyStyle	Roadster
+Lada Riva	bodyStyle	2
+Lada Riva	bodyStyle	4
+Lada Riva	bodyStyle	5
+Fiat Uno	bodyStyle	3
+Fiat Uno	bodyStyle	5
+Fiat 126	bodyStyle	2
+Fiat 126	bodyStyle	3
+Fiat 500	bodyStyle	2
+Fiat 500	bodyStyle	Sedan
+Fiat 500	bodyStyle	Semi-convertible
+Fiat 500	bodyStyle	3
+Fiat 500	bodyStyle	Station wagon
+Fiat 500	bodyStyle	Panel van
+Volkswagen Lupo	bodyStyle	3
+Fiat Panda	bodyStyle	3
+Fiat Tipo	bodyStyle	3
+Plymouth Reliant	bodyStyle	4
+Plymouth Reliant	bodyStyle	2
+Porsche Carrera GT	bodyStyle	2
+Acura TL	bodyStyle	4
+Chevrolet Chevette	bodyStyle	3
+Chevrolet Chevette	bodyStyle	5
+Chevrolet Chevette	bodyStyle	2
+Jaguar E-Type	bodyStyle	2
+SEAT Alhambra	bodyStyle	5
+Austin Metro	bodyStyle	3
+Austin Metro	bodyStyle	5
+Austin Metro	bodyStyle	2
+SEAT León	bodyStyle	3
+SEAT León	bodyStyle	5
+Koenigsegg CCR	bodyStyle	2
+Koenigsegg CC8S	bodyStyle	2
+Maybach 57 and 62	bodyStyle	4
+Ford Orion	bodyStyle	4
+Jaguar S-Type	bodyStyle	4
+Ford Transit	bodyStyle	3
+Ford Transit	bodyStyle	2
+Ford Transit	bodyStyle	4
+Ford Transit	bodyStyle	Cargo van
+Ford Transit	bodyStyle	Passenger van
+Ford Transit	bodyStyle	Chassis cab
+Ford Transit	bodyStyle	Cutaway van
+Mercedes-Benz CLS-Class	bodyStyle	Sedan
+Mercedes-Benz CLS-Class	bodyStyle	Fastback
+Mercedes-Benz CLS-Class	bodyStyle	4
+Chevrolet Corsica	bodyStyle	4
+Chevrolet Corsica	bodyStyle	5
+Mazda MX-3	bodyStyle	3
+Jaguar XK150	bodyStyle	2
+Rootes Arrow	bodyStyle	4
+Rootes Arrow	bodyStyle	5
+Rootes Arrow	bodyStyle	2
+Austin Maestro	bodyStyle	2
+Austin Maestro	bodyStyle	5
+Ford RS200	bodyStyle	2
+TVR Tuscan Speed Six	bodyStyle	2
+Citroën CX	bodyStyle	4
+Citroën CX	bodyStyle	5
+Subaru Impreza	bodyStyle	2
+Subaru Impreza	bodyStyle	4
+Subaru Impreza	bodyStyle	5
+Honda Inspire	bodyStyle	4
+Mitsubishi Lancer Evolution	bodyStyle	4
+Mitsubishi Lancer Evolution	bodyStyle	5
+BMW 5 Series	bodyStyle	4
+BMW 5 Series	bodyStyle	5
+Honda Civic Hybrid	bodyStyle	* 4-door
+Honda Civic Hybrid	bodyStyle	Sedan
+Honda Civic Hybrid	bodyStyle	5
+Honda Civic Hybrid	bodyStyle	Hatchback
+Citroën BX	bodyStyle	5
+BMW 5 Series	bodyStyle	4
+BMW 5 Series	bodyStyle	5
+Opel Zafira	bodyStyle	5
+Cadillac Seville	bodyStyle	4
+BMW 3 Series	bodyStyle	2
+BMW 3 Series	bodyStyle	4
+BMW 3 Series	bodyStyle	5
+Aston Martin Vanquish	bodyStyle	2
+Buick Riviera	bodyStyle	2
+Buick Electra	bodyStyle	4
+Buick Electra	bodyStyle	Electra only:
+Buick Electra	bodyStyle	2
+Buick Electra	bodyStyle	Electra 225 only:
+Aston Martin DB9	bodyStyle	2
+Pontiac Grand Prix	bodyStyle	2
+Pontiac Grand Prix	bodyStyle	4
+Audi A6	bodyStyle	4
+Audi A6	bodyStyle	5
+Ford Explorer	bodyStyle	2
+Ford Explorer	bodyStyle	5
+Ford Explorer	bodyStyle	3
+Pontiac Catalina	bodyStyle	2
+Pontiac Catalina	bodyStyle	4
+Pontiac Bonneville	bodyStyle	2
+Pontiac Bonneville	bodyStyle	4
+Pontiac Bonneville	bodyStyle	Sedan
+Pontiac Bonneville	bodyStyle	5
+Pontiac Bonneville	bodyStyle	Station wagon
+Oldsmobile 88	bodyStyle	2
+Oldsmobile 88	bodyStyle	Hardtop
+Oldsmobile 88	bodyStyle	Coupe
+Oldsmobile 88	bodyStyle	4
+Oldsmobile 88	bodyStyle	Sedan
+Oldsmobile 88	bodyStyle	Station wagon
+Oldsmobile 88	bodyStyle	wagon
+Oldsmobile 88	bodyStyle	Convertible
+Oldsmobile 88	bodyStyle	Convertible
+Oldsmobile 98	bodyStyle	2
+Oldsmobile 98	bodyStyle	4
+Lincoln Town Car	bodyStyle	4
+Lincoln Town Car	bodyStyle	2
+Oldsmobile Toronado	bodyStyle	2
+Renault Clio	bodyStyle	3
+Renault Clio	bodyStyle	5
+Renault Clio	bodyStyle	4
+Hillman Imp	bodyStyle	2
+Hillman Imp	bodyStyle	3
+Citroën C5	bodyStyle	5
+Citroën C5	bodyStyle	4
+Ford Capri	bodyStyle	Fastback
+Ford Capri	bodyStyle	Coupé
+Ford Capri	bodyStyle	Hatchback
+Aston Martin Lagonda	bodyStyle	4
+Lotus Esprit	bodyStyle	2
+Alfa Romeo SZ	bodyStyle	2
+Aston Martin Bulldog	bodyStyle	2
+Eagle Talon	bodyStyle	3
+Chrysler Cirrus	bodyStyle	4
+Volkswagen Corrado	bodyStyle	3
+Volkswagen Type 2	bodyStyle	4
+Volkswagen Type 2	bodyStyle	2
+Volkswagen Type 2	bodyStyle	5
+Volkswagen Type 2	bodyStyle	3
+Mercedes-Benz R-Class	bodyStyle	5
+Volvo V50	bodyStyle	5
+Audi TT	bodyStyle	2
+Mercedes-Benz SLR McLaren	bodyStyle	2
+Toyota Avalon	bodyStyle	4
+Austin Ambassador	bodyStyle	5
+Porsche 930	bodyStyle	2
+Maserati Bora	bodyStyle	2
+Ferrari Testarossa	bodyStyle	2
+Volkswagen Touareg	bodyStyle	5
+Volkswagen Transporter	bodyStyle	4
+Volkswagen Transporter	bodyStyle	5
+Volkswagen Transporter	bodyStyle	6
+Volkswagen Transporter	bodyStyle	2
+Volkswagen Transporter	bodyStyle	3
+Mitsubishi GTO	bodyStyle	2
+Mitsubishi Eclipse	bodyStyle	3
+Mitsubishi Eclipse	bodyStyle	2
+Cadillac Cimarron	bodyStyle	4
+Renault Mégane	bodyStyle	4
+Renault Mégane	bodyStyle	3
+Renault Mégane	bodyStyle	5
+Renault Mégane	bodyStyle	2
+Renault Trafic	bodyStyle	4
+Renault Trafic	bodyStyle	2
+Renault Trafic	bodyStyle	5
+Ford GT	bodyStyle	2
+Cadillac Allanté	bodyStyle	2
+BMW Z8	bodyStyle	Roadster
+Dodge Daytona	bodyStyle	3
+Citroën XM	bodyStyle	5
+Audi RSQ	bodyStyle	2
+Lamborghini Jalpa	bodyStyle	2
+Dino	bodyStyle	Berlinetta
+Dino	bodyStyle	Targa top
+Dino	bodyStyle	2
+Ferrari 328	bodyStyle	Berlinetta
+Ferrari 328	bodyStyle	Targa top
+Volkswagen Santana	bodyStyle	2
+Volkswagen Santana	bodyStyle	4
+Volkswagen Santana	bodyStyle	5
+Volkswagen Gol	bodyStyle	3
+Volkswagen Gol	bodyStyle	2
+Volkswagen Gol	bodyStyle	4
+Mercury Cougar	bodyStyle	2
+Mercury Cougar	bodyStyle	Two-door hardtop
+Mercury Cougar	bodyStyle	Two-door convertible
+Mercury Cougar	bodyStyle	Four-door sedan
+Mercury Cougar	bodyStyle	Four-door station wagon
+Mercury Cougar	bodyStyle	Two-door coupe
+Mercury Cougar	bodyStyle	3
+Rover 800 Series	bodyStyle	4
+Rover 800 Series	bodyStyle	5
+Rover 800 Series	bodyStyle	2
+Honda Element	bodyStyle	4
+Paykan	bodyStyle	Sedan or Pickup
+Hillman Minx	bodyStyle	4
+Hillman Minx	bodyStyle	2
+Hillman Minx	bodyStyle	3
+Ferrari 360	bodyStyle	2
+Bentley Continental GT	bodyStyle	2
+Acura EL	bodyStyle	4
+Acura MDX	bodyStyle	4
+Aston Martin DB7	bodyStyle	2
+SEAT Marbella	bodyStyle	3
+Toyota Avensis	bodyStyle	4
+Toyota Avensis	bodyStyle	5
+Citroën Xantia	bodyStyle	5
+Citroën LNA	bodyStyle	3
+Peugeot 309	bodyStyle	3
+Porsche 993	bodyStyle	2
+BMW Z4	bodyStyle	2
+Renault 9 & 11	bodyStyle	3
+Renault 9 & 11	bodyStyle	5
+Renault 9 & 11	bodyStyle	2
+Renault 9 & 11	bodyStyle	4
+Renault 5	bodyStyle	3
+Renault 5	bodyStyle	5
+Lincoln Continental Mark V	bodyStyle	2
+Lincoln Continental	bodyStyle	2
+Lincoln Continental	bodyStyle	4
+Mercedes-Benz 300 SL	bodyStyle	2
+Nissan Altima	bodyStyle	4
+Nissan Altima	bodyStyle	2
+Volvo S80	bodyStyle	4
+Fiat 500 %22Topolino%22	bodyStyle	2
+Fiat 500 %22Topolino%22	bodyStyle	Sedan
+Fiat 500 %22Topolino%22	bodyStyle	Convertible
+Fiat 500 %22Topolino%22	bodyStyle	saloon
+Fiat 500 %22Topolino%22	bodyStyle	Van
+Fiat 500 %22Topolino%22	bodyStyle	3
+Fiat 500 %22Topolino%22	bodyStyle	Station wagon
+Hillman Avenger	bodyStyle	4
+Hillman Avenger	bodyStyle	5
+Hillman Avenger	bodyStyle	2
+Ferrari Berlinetta Boxer	bodyStyle	2
+Puma	bodyStyle	2
+Enzo Ferrari	bodyStyle	2
+Renault Espace	bodyStyle	5
+Mitsubishi Galant	bodyStyle	2
+Mitsubishi Galant	bodyStyle	4
+Mitsubishi Galant	bodyStyle	5
+Mitsubishi Galant	bodyStyle	Sedan
+Mitsubishi Galant	bodyStyle	Station wagon
+Ferrari 575M Maranello	bodyStyle	2
+Ferrari 575M Maranello	bodyStyle	Retractable hardtop
+Audi 100	bodyStyle	2
+Audi 100	bodyStyle	4
+Audi 100	bodyStyle	5
+Audi A2	bodyStyle	5
+Audi 80	bodyStyle	2
+Audi 80	bodyStyle	5
+Audi 80	bodyStyle	4
+Audi A3	bodyStyle	3
+Audi A3	bodyStyle	5
+Audi A3	bodyStyle	2
+Audi A3	bodyStyle	4
+Fiat Multipla	bodyStyle	5
+Ferrari 456	bodyStyle	2
+Oldsmobile Intrigue	bodyStyle	4
+Oldsmobile Aurora	bodyStyle	4
+Infiniti J30	bodyStyle	4
+Pontiac 6000	bodyStyle	2
+Pontiac 6000	bodyStyle	4
+Dodge Spirit	bodyStyle	4
+Chevrolet Celebrity	bodyStyle	2
+Chevrolet Celebrity	bodyStyle	4
+Chevrolet Lumina	bodyStyle	2
+Chevrolet Lumina	bodyStyle	4
+Lamborghini Gallardo	bodyStyle	2
+Dodge Shadow	bodyStyle	2
+Dodge Shadow	bodyStyle	Convertible
+Dodge Shadow	bodyStyle	4
+Dodge Shadow	bodyStyle	Sedan
+Dodge Shadow	bodyStyle	3
+Dodge Shadow	bodyStyle	Hatchback
+Dodge Shadow	bodyStyle	5
+Mercedes-Benz W201	bodyStyle	4
+Chrysler New Yorker	bodyStyle	2
+Chrysler New Yorker	bodyStyle	4
+Oldsmobile Alero	bodyStyle	2
+Oldsmobile Alero	bodyStyle	4
+Chrysler Crossfire	bodyStyle	2
+AMC AMX	bodyStyle	2
+Dodge Dynasty	bodyStyle	4
+BMW 7 Series	bodyStyle	4
+Dodge Lancer	bodyStyle	4
+Dodge Lancer	bodyStyle	2
+Dodge Lancer	bodyStyle	5
+Renault 19	bodyStyle	3
+Renault 19	bodyStyle	4
+Renault 19	bodyStyle	2
+Bricklin SV-1	bodyStyle	two-door coupé
+Renault Kangoo	bodyStyle	Van
+Renault Kangoo	bodyStyle	3
+Renault Kangoo	bodyStyle	5
+BMW 6 Series	bodyStyle	2
+BMW 6 Series	bodyStyle	4
+Porsche 996	bodyStyle	2
+Audi Sportback concept	bodyStyle	5
+Audi A5	bodyStyle	2
+Audi A5	bodyStyle	5
+Lexus SC	bodyStyle	2
+Holden Monaro	bodyStyle	2
+Holden Monaro	bodyStyle	4
+Toyota AE86	bodyStyle	2
+Toyota AE86	bodyStyle	3
+Ford Corsair	bodyStyle	4
+Ford Corsair	bodyStyle	2
+Ford Corsair	bodyStyle	5
+Subaru Pleo	bodyStyle	5
+Subaru Pleo	bodyStyle	3
+Austin Montego	bodyStyle	4
+Austin Montego	bodyStyle	5
+Dodge Challenger	bodyStyle	2
+Jaguar XJ	bodyStyle	4
+Jaguar XJ	bodyStyle	2
+Buick Special	bodyStyle	2
+Buick Special	bodyStyle	4
+Toyota MR2	bodyStyle	2
+Ferrari 612 Scaglietti	bodyStyle	2
+Ford Ikon	bodyStyle	4
+Renault 7	bodyStyle	4
+Ford Corcel	bodyStyle	2
+Ford Corcel	bodyStyle	4
+Ford Corcel	bodyStyle	3
+Renault 12	bodyStyle	4
+Renault 12	bodyStyle	5
+Renault 12	bodyStyle	3
+Audi A4	bodyStyle	4
+Audi A4	bodyStyle	5
+Audi A4	bodyStyle	2
+Renault Laguna	bodyStyle	5
+Renault Laguna	bodyStyle	2
+Studebaker Gran Turismo Hawk	bodyStyle	2
+Ferrari F50	bodyStyle	Berlinetta
+Ferrari F50	bodyStyle	Barchetta
+Packard Hawk	bodyStyle	2
+Studebaker Avanti	bodyStyle	2
+Honda S2000	bodyStyle	2
+Acura RL	bodyStyle	4
+Cadillac V-16	bodyStyle	2
+Cadillac V-16	bodyStyle	4
+Porsche 997	bodyStyle	2
+Peugeot 104	bodyStyle	4
+Peugeot 104	bodyStyle	3
+Peugeot 104	bodyStyle	5
+Renault 4	bodyStyle	2
+Renault 4	bodyStyle	5
+Lexus GS	bodyStyle	4
+Austin-Healey 3000	bodyStyle	2
+Pontiac Fiero	bodyStyle	2
+Pontiac Fiero	bodyStyle	Fastback
+Pontiac Fiero	bodyStyle	Notchback
+Ford Verona	bodyStyle	2
+Ford Verona	bodyStyle	4
+Chevrolet Cavalier	bodyStyle	2
+Chevrolet Cavalier	bodyStyle	3
+Chevrolet Cavalier	bodyStyle	4
+Chrysler Royal	bodyStyle	4
+Chrysler Royal	bodyStyle	2
+Volkswagen Sharan	bodyStyle	5
+Volvo XC60	bodyStyle	5
+ 25	bodyStyle	4
+ 25	bodyStyle	3
+ 25	bodyStyle	5
+ 25	bodyStyle	2
+Nissan 240SX	bodyStyle	2
+Nissan 240SX	bodyStyle	3
+Mitsubishi Diamante	bodyStyle	4
+Mitsubishi Diamante	bodyStyle	5
+Nissan Violet	bodyStyle	2
+Nissan Violet	bodyStyle	Hardtop
+Nissan Violet	bodyStyle	Coupé
+Nissan Violet	bodyStyle	Fastback
+Nissan Violet	bodyStyle	Sedan
+Nissan Violet	bodyStyle	4
+Nissan Violet	bodyStyle	Notchback
+Nissan Violet	bodyStyle	sedan
+Nissan Violet	bodyStyle	5
+Nissan Violet	bodyStyle	Station wagon
+Nissan Violet	bodyStyle	/
+Nissan Violet	bodyStyle	Van
+Nissan Violet	bodyStyle	3
+Chrysler 300	bodyStyle	4
+Chrysler 300	bodyStyle	5
+Pontiac Tempest	bodyStyle	4
+Pontiac Tempest	bodyStyle	2
+Lotus Elan	bodyStyle	2
+Acura CL	bodyStyle	2
+Mercedes-Benz GLK-Class	bodyStyle	5
+Lonsdale	bodyStyle	4
+Lonsdale	bodyStyle	5
+Citroën Axel	bodyStyle	3
+Oltcit Club	bodyStyle	3
+Oltcit Club	bodyStyle	2
+Citroën Dyane	bodyStyle	5
+Leyland P76	bodyStyle	4
+Leyland P76	bodyStyle	3
+Leyland P76	bodyStyle	5
+Volvo C30	bodyStyle	3
+Holden Torana	bodyStyle	2
+Holden Torana	bodyStyle	4
+Holden Torana	bodyStyle	Coupé
+Holden Torana	bodyStyle	5
+Volkswagen Citi Golf	bodyStyle	5
+Volkswagen Citi Golf	bodyStyle	2
+Volkswagen Fox	bodyStyle	3
+Volkswagen Fox	bodyStyle	5
+Holden Camira	bodyStyle	4
+Holden Camira	bodyStyle	5
+Opel Ascona	bodyStyle	2
+Opel Ascona	bodyStyle	4
+Opel Ascona	bodyStyle	3
+Opel Ascona	bodyStyle	5
+Volkswagen K70	bodyStyle	4
+Oldsmobile Cutlass Supreme	bodyStyle	2
+Oldsmobile Cutlass Supreme	bodyStyle	4
+Peugeot 505	bodyStyle	4
+Peugeot 505	bodyStyle	5
+Buick Century	bodyStyle	2
+Buick Century	bodyStyle	4
+Buick Century	bodyStyle	5
+Buick Regal	bodyStyle	2
+Buick Regal	bodyStyle	4
+Buick Regal	bodyStyle	5
+Jensen FF	bodyStyle	2
+Plymouth Valiant	bodyStyle	4
+Plymouth Valiant	bodyStyle	2
+Plymouth Duster	bodyStyle	2
+Plymouth Barracuda	bodyStyle	2
+Chrysler Fifth Avenue	bodyStyle	4
+Mazda MPV	bodyStyle	3
+Mazda MPV	bodyStyle	4
+Mazda Cosmo	bodyStyle	2
+Mazda Cosmo	bodyStyle	4
+Mazda Cosmo	bodyStyle	Coupé
+Mazda Carol	bodyStyle	2
+Mazda Carol	bodyStyle	4
+Mazda Carol	bodyStyle	3
+Mazda Millenia	bodyStyle	4
+Mazda R360	bodyStyle	2
+Mazda Luce	bodyStyle	2
+Mazda Luce	bodyStyle	4
+Mazda Luce	bodyStyle	5
+Mazda Capella	bodyStyle	2
+Mazda Capella	bodyStyle	4
+Mazda Capella	bodyStyle	5
+Mazda MX-6	bodyStyle	2
+Mercury Tracer	bodyStyle	3
+Mercury Tracer	bodyStyle	5
+Mercury Tracer	bodyStyle	4
+ZAZ Zaporozhets	bodyStyle	2
+Mazda Familia	bodyStyle	2
+Mazda Familia	bodyStyle	3
+Mazda Familia	bodyStyle	4
+Mazda Familia	bodyStyle	5
+Mazda Familia	bodyStyle	Coupé
+Mazda Familia	bodyStyle	Hatchback
+Mazda Familia	bodyStyle	Sedan
+Mazda Familia	bodyStyle	Hardtop
+Mazda Familia	bodyStyle	/
+Mazda Familia	bodyStyle	Liftback
+Mercedes-Benz G-Class	bodyStyle	3
+Mercedes-Benz G-Class	bodyStyle	2
+Mercedes-Benz G-Class	bodyStyle	5
+Proton Tiara	bodyStyle	5
+Toyota Camry	bodyStyle	4
+Toyota Camry	bodyStyle	5
+Toyota Camry	bodyStyle	2
+Fiat Duna	bodyStyle	2
+Fiat Duna	bodyStyle	3
+Fiat Siena	bodyStyle	4
+Fiat Palio	bodyStyle	Three-door hatchback
+Fiat Palio	bodyStyle	Five-door hatchback
+Fiat Palio	bodyStyle	Five-door station wagon
+Fiat Tempra	bodyStyle	2
+Fiat Tempra	bodyStyle	4
+Fiat Tempra	bodyStyle	5
+Volvo 200 Series	bodyStyle	2
+Volvo 200 Series	bodyStyle	Sedan
+Volvo 200 Series	bodyStyle	4
+Volvo 200 Series	bodyStyle	5
+Volvo 200 Series	bodyStyle	Station wagon
+NSU Ro 80	bodyStyle	4
+Ford Torino Talladega	bodyStyle	2
+Dodge Charger Daytona	bodyStyle	2
+Dodge Charger Daytona	bodyStyle	4
+BMW 8 Series	bodyStyle	2
+Dodge Dart	bodyStyle	4
+Dodge Dart	bodyStyle	2
+Porsche 964	bodyStyle	2
+Volkswagen Touran	bodyStyle	5
+Volkswagen Caddy	bodyStyle	Van, panel van and coupé utility
+Opel Calibra	bodyStyle	2
+Alfa Romeo 147	bodyStyle	3
+Alfa Romeo 147	bodyStyle	5
+Peugeot 206	bodyStyle	3
+Peugeot 206	bodyStyle	2
+Peugeot 206	bodyStyle	4
+Peugeot 206	bodyStyle	5
+Fiat Cinquecento	bodyStyle	3
+Fiat Bravo and Brava	bodyStyle	3
+Fiat Bravo and Brava	bodyStyle	5
+Mercedes-Benz SL-Class	bodyStyle	2
+Nissan Micra	bodyStyle	3
+Nissan Micra	bodyStyle	5
+Nissan Micra	bodyStyle	2
+Nissan Micra	bodyStyle	4
+Peugeot 307	bodyStyle	3
+Peugeot 307	bodyStyle	2
+Peugeot 307	bodyStyle	5
+Peugeot 307	bodyStyle	4
+Fiat Punto	bodyStyle	3
+Fiat Punto	bodyStyle	5
+Fiat Punto	bodyStyle	2
+Autobianchi Y10	bodyStyle	3
+Peugeot 407	bodyStyle	4
+Peugeot 407	bodyStyle	5
+Peugeot 407	bodyStyle	2
+Fiat Dino	bodyStyle	2
+Citroën Xsara	bodyStyle	5
+Citroën Xsara	bodyStyle	3
+Lexus IS	bodyStyle	4
+Lexus IS	bodyStyle	5
+Lexus IS	bodyStyle	2
+Simca-Talbot Horizon	bodyStyle	Hatchback
+Toyota Starlet	bodyStyle	2
+Toyota Starlet	bodyStyle	4
+Toyota Starlet	bodyStyle	3
+Toyota Starlet	bodyStyle	5
+Reliant Rebel	bodyStyle	2
+Reliant Rebel	bodyStyle	van
+Cadillac CTS	bodyStyle	2
+Cadillac CTS	bodyStyle	Coupé
+Cadillac CTS	bodyStyle	4
+Cadillac CTS	bodyStyle	Sedan
+Cadillac CTS	bodyStyle	5
+Cadillac CTS	bodyStyle	Station wagon
+Cadillac CTS	bodyStyle	Sedan
+Ford Consul Classic	bodyStyle	2
+Ford Consul Classic	bodyStyle	4
+Renault Alliance	bodyStyle	Alliance: 2-door, 4-door
+Renault Alliance	bodyStyle	Sedan
+Renault Alliance	bodyStyle	, and 2-door
+Renault Alliance	bodyStyle	Convertible
+Renault Alliance	bodyStyle	Encore: 3-door and 5-door
+Renault Alliance	bodyStyle	Hatchback
+Renault Alliance	bodyStyle	GTA: 2-door sedan and convertible
+Talbot Tagora	bodyStyle	4
+Ford Pampa	bodyStyle	2
+Imperial	bodyStyle	2
+Imperial	bodyStyle	4
+Opel Sintra	bodyStyle	4
+Fiat Stilo	bodyStyle	3
+Fiat Stilo	bodyStyle	5
+Volkswagen Type 4	bodyStyle	2
+Volkswagen Type 4	bodyStyle	4
+Volkswagen Type 4	bodyStyle	3
+Renault Scénic	bodyStyle	5
+Volkswagen LT	bodyStyle	Van
+Volkswagen LT	bodyStyle	Pickup truck
+Volkswagen LT	bodyStyle	Minibus
+Volkswagen LT	bodyStyle	Crew cab
+Volkswagen LT	bodyStyle	Chassis cab
+Volkswagen Type 3	bodyStyle	2
+Volkswagen Type 3	bodyStyle	4
+Renault 25	bodyStyle	5
+Lotus Cortina	bodyStyle	2
+BMW Z3	bodyStyle	2
+Mercedes-Benz CL-Class	bodyStyle	2
+Mercedes-Benz CLK-Class	bodyStyle	2
+Mercedes-Benz SLK-Class	bodyStyle	2
+Mercedes-Benz M-Class	bodyStyle	5
+Mazda Laputa	bodyStyle	3
+Mazda Laputa	bodyStyle	5
+Mazda Chantez	bodyStyle	2
+Mazda Porter	bodyStyle	MPV
+Mazda Porter	bodyStyle	Pickup truck
+Mazda Demio	bodyStyle	5
+Mazda Demio	bodyStyle	3
+Mazda Demio	bodyStyle	4
+Alfa Romeo 156	bodyStyle	4
+Alfa Romeo 156	bodyStyle	Sedan
+Alfa Romeo 156	bodyStyle	5
+Alfa Romeo 156	bodyStyle	Station wagon
+Alfa Romeo 156	bodyStyle	Crossover
+Honda HSC	bodyStyle	Coupe
+Brush Motor Car Company	bodyStyle	2
+Ford Zephyr	bodyStyle	4
+Ford Zephyr	bodyStyle	5
+Ford Zephyr	bodyStyle	2
+Lada Kalina	bodyStyle	5
+Lada Kalina	bodyStyle	4
+Ford Fairmont	bodyStyle	2
+Ford Fairmont	bodyStyle	4
+Citroën Ami	bodyStyle	4
+Citroën Ami	bodyStyle	2
+Oldsmobile Silhouette	bodyStyle	3
+Oldsmobile Silhouette	bodyStyle	4
+Subaru Rex	bodyStyle	2
+Subaru Rex	bodyStyle	3
+Ford D3 platform	bodyStyle	4
+Ford D3 platform	bodyStyle	5
+ABC	bodyStyle	2
+Ford Fox platform	bodyStyle	two-door convertible
+Ford Fox platform	bodyStyle	two-door coupe
+Ford Fox platform	bodyStyle	three-door hatchback
+Airedale	bodyStyle	open two-seater, open four-seater, coupé
+Dodge Omni	bodyStyle	Hatchback
+General Motors EV1	bodyStyle	2
+Albert	bodyStyle	tourer, Saloon
+Allstate	bodyStyle	2
+AMC Amitron	bodyStyle	1
+Apollo	bodyStyle	fastback coupe or convertible
+Buick LaCrosse	bodyStyle	4
+Dual-Ghia	bodyStyle	2
+Dual-Ghia	bodyStyle	Convertible
+Dual-Ghia	bodyStyle	Coupe
+Saturn S-Series	bodyStyle	2
+Saturn S-Series	bodyStyle	4
+Saturn S-Series	bodyStyle	5
+Saturn S-Series	bodyStyle	3
+Saturn Ion	bodyStyle	4
+Saturn Vue	bodyStyle	4
+Saturn Vue	bodyStyle	5
+Ascort	bodyStyle	2
+Astra	bodyStyle	2
+Oldsmobile Curved Dash	bodyStyle	Runabout
+Ford Consul	bodyStyle	4
+Ford Consul	bodyStyle	2
+Ford Consul	bodyStyle	5
+Lincoln Futura	bodyStyle	2
+GM J platform	bodyStyle	2
+GM J platform	bodyStyle	3
+GM J platform	bodyStyle	4
+GM J platform	bodyStyle	5
+Chrysler TC by Maserati	bodyStyle	2
+Chrysler E-Class	bodyStyle	4
+Plymouth Caravelle	bodyStyle	4
+Plymouth Caravelle	bodyStyle	2
+Dodge 600	bodyStyle	4
+Dodge 600	bodyStyle	2
+Dodge 400	bodyStyle	4
+Dodge 400	bodyStyle	2
+Chrysler LeBaron	bodyStyle	2
+Chrysler LeBaron	bodyStyle	4
+Chrysler LeBaron	bodyStyle	Hardtop
+Chrysler LeBaron	bodyStyle	5
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	5
+Chrysler Valiant	bodyStyle	2
+Eagle Summit	bodyStyle	4
+Eagle Summit	bodyStyle	Sedan
+Eagle Summit	bodyStyle	3
+Eagle Summit	bodyStyle	Hatchback
+Eagle Summit	bodyStyle	2
+Eagle Summit	bodyStyle	Coupe
+Dodge Colt	bodyStyle	2
+Dodge Colt	bodyStyle	4
+Dodge Colt	bodyStyle	5
+Dodge Colt	bodyStyle	Hardtop
+Dodge Colt	bodyStyle	Sedan
+Dodge Colt	bodyStyle	Station wagon
+Dodge Colt	bodyStyle	3
+Dodge Colt	bodyStyle	Hatchback
+Plymouth Laser	bodyStyle	3
+Chrysler 300M	bodyStyle	4
+Eagle Premier	bodyStyle	4
+Eagle Vision	bodyStyle	4
+Shelby Charger	bodyStyle	3
+Chrysler Concorde	bodyStyle	4
+Dodge Stratus	bodyStyle	4
+Dodge Stratus	bodyStyle	2
+Plymouth Voyager	bodyStyle	4
+Plymouth Voyager	bodyStyle	6
+Plymouth Voyager	bodyStyle	3
+Chrysler Voyager	bodyStyle	3
+Chrysler Voyager	bodyStyle	4
+Lancia Thema	bodyStyle	4
+Lancia Thema	bodyStyle	5
+Fiat Ritmo	bodyStyle	3
+Fiat Ritmo	bodyStyle	Hatchback
+Fiat Ritmo	bodyStyle	5
+Fiat Ritmo	bodyStyle	2
+Fiat Ritmo	bodyStyle	Cabriolet
+GMC Envoy	bodyStyle	4
+Toyota Vitz	bodyStyle	3
+Toyota Vitz	bodyStyle	5
+Mercury Mountaineer	bodyStyle	5
+Tata Indica	bodyStyle	5
+Ford E-Series	bodyStyle	3
+Ford E-Series	bodyStyle	2
+GM Delta platform	bodyStyle	2
+GM Delta platform	bodyStyle	3
+GM Delta platform	bodyStyle	4
+GM Delta platform	bodyStyle	5
+GM Zeta platform	bodyStyle	2
+GM Zeta platform	bodyStyle	4
+GM Zeta platform	bodyStyle	5
+Dodge Avenger	bodyStyle	2
+Dodge Avenger	bodyStyle	4
+Chrysler Sebring	bodyStyle	2
+Chrysler Sebring	bodyStyle	4
+GM Epsilon platform	bodyStyle	2
+GM Epsilon platform	bodyStyle	4
+GM Epsilon platform	bodyStyle	5
+Chrysler M platform	bodyStyle	2
+Chrysler M platform	bodyStyle	4
+Bugatti EB 118	bodyStyle	2
+Bugatti EB 110	bodyStyle	2
+Bugatti Veyron	bodyStyle	2
+Bugatti Veyron	bodyStyle	Coupé
+Bugatti Veyron	bodyStyle	Targa top
+Bugatti EB 218	bodyStyle	4
+Pontiac Astre	bodyStyle	2
+Buick Skyhawk	bodyStyle	2
+Oldsmobile Starfire	bodyStyle	2
+Chevrolet Vega	bodyStyle	2
+Oldsmobile Firenza	bodyStyle	2
+Oldsmobile Firenza	bodyStyle	3
+Oldsmobile Firenza	bodyStyle	4
+Chevrolet Monza	bodyStyle	2
+Volkswagen 1-litre car	bodyStyle	Two-door coupé
+Oldsmobile Bravada	bodyStyle	4
+Tatra 815	bodyStyle	Cabover
+Tatra 815	bodyStyle	Cab forward
+Ford V platform	bodyStyle	4
+Ford V platform	bodyStyle	5
+Hindustan Ambassador	bodyStyle	4
+AMC Ambassador	bodyStyle	4
+AMC Ambassador	bodyStyle	Sedan
+AMC Ambassador	bodyStyle	Hardtop
+AMC Ambassador	bodyStyle	sedan
+AMC Ambassador	bodyStyle	Station wagon
+AMC Ambassador	bodyStyle	station wagon
+AMC Ambassador	bodyStyle	2
+AMC Ambassador	bodyStyle	Coupe
+AMC Ambassador	bodyStyle	Convertible
+AMC Ambassador	bodyStyle	Sedan
+AMC Ambassador	bodyStyle	Coupé
+Mercury Montego	bodyStyle	4
+Mercury Montego	bodyStyle	2
+Mercury Grand Marquis	bodyStyle	2
+Mercury Grand Marquis	bodyStyle	4
+Mercury Grand Marquis	bodyStyle	5
+BMW 3 Series	bodyStyle	2
+BMW 6 Series	bodyStyle	2
+BMW 5 Series	bodyStyle	4
+BMW 6 Series	bodyStyle	2
+BMW 7 Series	bodyStyle	4
+BMW 5 Series	bodyStyle	4
+BMW Z4	bodyStyle	2
+BMW 7 Series	bodyStyle	4
+BMW X5	bodyStyle	5
+BMW 3 Series	bodyStyle	2
+BMW 3 Series	bodyStyle	4
+BMW 3 Series	bodyStyle	5
+BMW 5 Series	bodyStyle	4
+BMW 5 Series	bodyStyle	5
+BMW 5 Series	bodyStyle	4
+BMW 5 Series	bodyStyle	5
+BMW 3 Series	bodyStyle	2
+BMW 3 Series	bodyStyle	4
+BMW 3 Series	bodyStyle	5
+BMW 3 Series	bodyStyle	3
+BMW 7 Series	bodyStyle	4
+BMW 3 Series	bodyStyle	2
+BMW 3 Series	bodyStyle	4
+BMW 3 Series	bodyStyle	5
+BMW 3 Series	bodyStyle	3
+BMW 3 Series	bodyStyle	4
+BMW 3 Series	bodyStyle	5
+BMW 3 Series	bodyStyle	2
+BMW 7 Series	bodyStyle	4
+Opel Tigra	bodyStyle	2
+Land Rover Freelander	bodyStyle	5
+Land Rover Freelander	bodyStyle	3
+Land Rover Defender	bodyStyle	3
+Land Rover Defender	bodyStyle	4
+Land Rover Defender	bodyStyle	5
+Land Rover Defender	bodyStyle	2
+Land Rover Defender	bodyStyle	Pickup truck
+Land Rover Defender	bodyStyle	Van
+Land Rover Discovery	bodyStyle	3
+Land Rover Discovery	bodyStyle	5
+Jeepney	bodyStyle	Multi-purpose vehicle
+Noble M12	bodyStyle	2
+Jaguar XJS	bodyStyle	2
+Oldsmobile 442	bodyStyle	2
+Oldsmobile 442	bodyStyle	4
+Oldsmobile 442	bodyStyle	Vista Cruiser station wagon
+Oldsmobile 442	bodyStyle	5
+Chevrolet Citation	bodyStyle	2
+Chevrolet Citation	bodyStyle	3
+Chevrolet Citation	bodyStyle	5
+Mercury Villager	bodyStyle	3
+Mercury Villager	bodyStyle	4
+Nissan 350Z	bodyStyle	2
+Nissan 350Z	bodyStyle	Coupé
+Nissan 350Z	bodyStyle	Roadster
+Nissan 300ZX	bodyStyle	2
+Nissan 300ZX	bodyStyle	Coupe
+Nissan 300ZX	bodyStyle	Convertible
+Ferrari 250 GTO	bodyStyle	2
+Mercury Sable	bodyStyle	4
+Mercury Sable	bodyStyle	5
+Honda City	bodyStyle	2
+Honda City	bodyStyle	3
+Honda City	bodyStyle	4
+Tata Indigo	bodyStyle	4
+Hummer H2	bodyStyle	4
+Chrysler Imperial	bodyStyle	2
+Chrysler Imperial	bodyStyle	4
+Chrysler Imperial	bodyStyle	Limousine
+Jeep Wrangler	bodyStyle	2
+Jeep Wrangler	bodyStyle	4
+Cadillac XLR	bodyStyle	2
+Cadillac STS	bodyStyle	4
+GM W platform	bodyStyle	4
+GM W platform	bodyStyle	2
+Buick Rendezvous	bodyStyle	4
+Nash Metropolitan	bodyStyle	2
+Jeep CJ	bodyStyle	2
+Jeep CJ	bodyStyle	Sport utility vehicle
+Jeep CJ	bodyStyle	Convertible
+Jeep CJ	bodyStyle	Pickup truck
+Jeep CJ	bodyStyle	4
+Morris Minor	bodyStyle	* 2-door
+Morris Minor	bodyStyle	Sedan
+Morris Minor	bodyStyle	* 4-door
+Morris Minor	bodyStyle	Convertible
+Morris Minor	bodyStyle	Station wagon
+Morris Minor	bodyStyle	* 2/4-door
+Morris Minor	bodyStyle	Van
+Morris Minor	bodyStyle	Pickup truck
+Mercury Capri	bodyStyle	2
+Covini C6W	bodyStyle	2
+Nissan Pintara	bodyStyle	4
+Nissan Pintara	bodyStyle	5
+Toyota Corona	bodyStyle	4
+Toyota Corona	bodyStyle	Sedan
+Toyota Corona	bodyStyle	3
+Toyota Corona	bodyStyle	Station wagon
+Toyota Corona	bodyStyle	2
+Toyota Corona	bodyStyle	Coupe utility
+Toyota Corona	bodyStyle	Hardtop
+Toyota Corona	bodyStyle	Coupe
+Toyota Corona	bodyStyle	5
+Toyota Corona	bodyStyle	/van
+Toyota Corona	bodyStyle	Hatchback
+Toyota Corona	bodyStyle	Coupé
+Toyota Corona	bodyStyle	coupe
+Toyota Corona	bodyStyle	Sedan
+Toyota Corona	bodyStyle	Liftback
+Nissan Bluebird	bodyStyle	2
+Nissan Bluebird	bodyStyle	4
+Nissan Bluebird	bodyStyle	phaeton, roadster, coupe, sedan, van
+Nissan Bluebird	bodyStyle	Phaeton, roadster, sedan
+Nissan Bluebird	bodyStyle	Coupe utility
+Nissan Bluebird	bodyStyle	Sedan
+Nissan Bluebird	bodyStyle	5
+Nissan Bluebird	bodyStyle	Station wagon
+Nissan Bluebird	bodyStyle	3
+Nissan Bluebird	bodyStyle	Van
+Nissan Bluebird	bodyStyle	Hardtop
+Nissan Bluebird	bodyStyle	saloon
+Nissan Bluebird	bodyStyle	Hatchback
+Mitsubishi Magna	bodyStyle	4
+Mitsubishi Magna	bodyStyle	5
+Scion tC	bodyStyle	3
+Mercury Monarch	bodyStyle	4
+Mercury Monarch	bodyStyle	2
+Ford LTD	bodyStyle	4
+Ford LTD	bodyStyle	2
+Ford LTD	bodyStyle	5
+Renault 21	bodyStyle	4
+Renault 21	bodyStyle	5
+Porsche 934	bodyStyle	2
+Porsche 935	bodyStyle	2
+Triumph TR8	bodyStyle	2
+Toyota Soarer	bodyStyle	2
+Toyota Soarer	bodyStyle	Grand tourer
+Toyota Soarer	bodyStyle	Coupe
+Toyota Soarer	bodyStyle	Convertible
+Nissan Skyline	bodyStyle	4
+Nissan Skyline	bodyStyle	Sedan
+Nissan Skyline	bodyStyle	5
+Nissan Skyline	bodyStyle	Van
+Nissan Skyline	bodyStyle	2
+Nissan Skyline	bodyStyle	Coupe
+Nissan Skyline	bodyStyle	Convertible
+Nissan Skyline	bodyStyle	Station wagon
+Cadillac Catera	bodyStyle	4
+Opel Senator	bodyStyle	4
+Nissan Almera	bodyStyle	3
+Nissan Almera	bodyStyle	4
+Nissan Almera	bodyStyle	5
+Peugeot 1007	bodyStyle	3
+Chrysler Cordoba	bodyStyle	2
+Audi 50	bodyStyle	3
+Toyota 2000GT	bodyStyle	2
+Chrysler Town & Country	bodyStyle	3
+Chrysler Town & Country	bodyStyle	4
+Subaru Alcyone SVX	bodyStyle	2
+Fiat Coupé	bodyStyle	2
+Pontiac LeMans	bodyStyle	2
+Pontiac LeMans	bodyStyle	4
+Toyota RAV4 EV	bodyStyle	4
+Pontiac Aztek	bodyStyle	4
+Pontiac Trans Sport	bodyStyle	3
+Pontiac Trans Sport	bodyStyle	4
+Buick Centurion	bodyStyle	2
+Buick Centurion	bodyStyle	4
+Ferrari F430	bodyStyle	2
+Mercury Milan	bodyStyle	4
+Jaguar Mark X	bodyStyle	4
+Lincoln Versailles	bodyStyle	4
+Audi Quattro	bodyStyle	2
+Lotus Eclat	bodyStyle	2
+Chevrolet Equinox	bodyStyle	4
+Chevrolet Express	bodyStyle	Van
+Chevrolet Express	bodyStyle	3
+Chevrolet Express	bodyStyle	4
+Chevrolet Aveo	bodyStyle	3
+Chevrolet Aveo	bodyStyle	4
+Chevrolet Aveo	bodyStyle	5
+Chevrolet Tahoe	bodyStyle	four-door SUV
+Chevrolet Suburban	bodyStyle	2
+Chevrolet Suburban	bodyStyle	4
+Chevrolet Suburban	bodyStyle	5
+Acura Legend	bodyStyle	2
+Acura Legend	bodyStyle	4
+Dodge Magnum	bodyStyle	2
+Dodge Magnum	bodyStyle	5
+Volvo V40	bodyStyle	5
+Volvo S40	bodyStyle	4
+Volvo S40	bodyStyle	5
+Lincoln Aviator	bodyStyle	5
+Ford Excursion	bodyStyle	4
+Lincoln Blackwood	bodyStyle	4
+Lincoln Continental Mark VII	bodyStyle	2
+Lincoln LS	bodyStyle	4
+Lincoln Mark VIII	bodyStyle	2
+Ford Expedition	bodyStyle	5
+BMW X5	bodyStyle	5
+Morris Ital	bodyStyle	4
+Morris Ital	bodyStyle	5
+Morris Ital	bodyStyle	2
+Volkswagen Type 2	bodyStyle	3
+Triumph TR4	bodyStyle	2
+Isuzu Aska	bodyStyle	4
+Alfa Romeo 33	bodyStyle	5
+Alfa Romeo 164	bodyStyle	4
+Ford EcoSport	bodyStyle	5
+Scion xB	bodyStyle	5
+GAZelle	bodyStyle	2
+GAZelle	bodyStyle	4
+Alfa Romeo 155	bodyStyle	4
+Mitsubishi Starion	bodyStyle	3
+BMW M3	bodyStyle	2
+BMW M3	bodyStyle	4
+Volvo P2 platform	bodyStyle	4
+Volvo P2 platform	bodyStyle	5
+Audi R8	bodyStyle	2
+Volvo XC90	bodyStyle	5
+Peugeot 204	bodyStyle	4
+Peugeot 204	bodyStyle	2
+Rover 75	bodyStyle	4
+Rover 75	bodyStyle	5
+Lexus LS	bodyStyle	4
+Nissan Fuga	bodyStyle	4
+Infiniti M	bodyStyle	4
+Infiniti M	bodyStyle	2
+Renault Fuego	bodyStyle	3
+Škoda Superb	bodyStyle	4
+Škoda Superb	bodyStyle	5
+Mercedes-Benz B-Class	bodyStyle	5
+Renault Twingo	bodyStyle	3
+Renault Twingo	bodyStyle	5
+Nissan Cefiro	bodyStyle	4
+Nissan Cefiro	bodyStyle	5
+Ford Fusion Hybrid	bodyStyle	4
+Mercedes-Benz A-Class	bodyStyle	5
+Honda CR-X del Sol	bodyStyle	2
+Honda Ascot	bodyStyle	4
+Nissan S130	bodyStyle	3
+Jaguar C-Type	bodyStyle	Roadster
+Shelby Mustang	bodyStyle	2
+Dodge Neon SRT-4	bodyStyle	4
+Dodge Mirada	bodyStyle	2
+Dodge Aspen	bodyStyle	4
+Dodge Aspen	bodyStyle	Station wagon
+Dodge Aspen	bodyStyle	Sedan
+Dodge Aspen	bodyStyle	2
+Dodge Aspen	bodyStyle	Coupe
+Dodge Diplomat	bodyStyle	4
+Dodge Diplomat	bodyStyle	2
+Chrysler Neon	bodyStyle	4
+Dodge Durango	bodyStyle	4
+Dodge Dakota	bodyStyle	2
+Dodge Dakota	bodyStyle	4
+Dodge Coronet	bodyStyle	2
+Dodge Coronet	bodyStyle	4
+Dodge Monaco	bodyStyle	4
+Dodge Monaco	bodyStyle	2
+Aston Martin DB5	bodyStyle	2
+Maruti 800	bodyStyle	Five-door hatchback
+Nissan Sunny	bodyStyle	2
+Nissan Sunny	bodyStyle	3
+Nissan Sunny	bodyStyle	4
+Nissan Sunny	bodyStyle	5
+Audi Q7	bodyStyle	5
+Nissan Elgrand	bodyStyle	3
+Nissan Elgrand	bodyStyle	4
+Rolls-Royce 100EX	bodyStyle	2
+Rolls-Royce Phantom	bodyStyle	4
+Rolls-Royce Phantom	bodyStyle	2
+Opel Monza	bodyStyle	2
+Opel Monza	bodyStyle	3
+Infiniti Q45	bodyStyle	4
+Vauxhall Belmont	bodyStyle	4
+Opel Speedster	bodyStyle	2
+Nissan Patrol	bodyStyle	3
+Nissan Patrol	bodyStyle	2
+Nissan Patrol	bodyStyle	Pickup truck
+Nissan Patrol	bodyStyle	Fire truck
+Nissan Patrol	bodyStyle	5
+Nissan Patrol	bodyStyle	Station wagon
+Nissan Patrol	bodyStyle	4
+Mitsubishi Galant Lambda	bodyStyle	2
+Hyundai Tucson	bodyStyle	5
+Kia Sportage	bodyStyle	3
+Kia Sportage	bodyStyle	5
+Holden Barina	bodyStyle	3
+Holden Barina	bodyStyle	4
+Chevrolet Malibu	bodyStyle	4
+Chevrolet Malibu	bodyStyle	2
+Chevrolet Malibu	bodyStyle	Station wagon
+Chevrolet Malibu	bodyStyle	5
+Chevrolet Venture	bodyStyle	3
+Chevrolet Lumina APV	bodyStyle	3
+Pontiac Montana	bodyStyle	3
+Pontiac Montana	bodyStyle	4
+Nissan S30	bodyStyle	2
+Chevrolet Uplander	bodyStyle	4
+Buick Terraza	bodyStyle	4
+Aston Martin DB4 GT Zagato	bodyStyle	Coupe
+Renault Vel Satis	bodyStyle	5
+Mercedes-Benz Sprinter	bodyStyle	4
+Mercedes-Benz Sprinter	bodyStyle	Vehicle door
+Mercedes-Benz Sprinter	bodyStyle	Van
+Mercedes-Benz Sprinter	bodyStyle	2
+Mercedes-Benz Sprinter	bodyStyle	Pickup truck
+Mercedes-Benz Sprinter	bodyStyle	Crew cab
+Mercedes-Benz Sprinter	bodyStyle	Minibus
+BMW M6	bodyStyle	2
+BMW M6	bodyStyle	4
+Mazda Lantis	bodyStyle	5
+Ɛ̃fini MS-8	bodyStyle	4
+Autozam Revue	bodyStyle	4
+Autozam AZ-1	bodyStyle	2
+Autozam Clef	bodyStyle	4
+Mazda6	bodyStyle	4
+Mazda6	bodyStyle	5
+Mazda Persona	bodyStyle	4
+Mazda Sentia	bodyStyle	4
+Suzuki Swift	bodyStyle	3
+Suzuki Swift	bodyStyle	5
+Suzuki Swift	bodyStyle	4
+Geo Metro	bodyStyle	3
+Geo Metro	bodyStyle	4
+SEAT Altea	bodyStyle	5
+SEAT 600	bodyStyle	2
+SEAT 600	bodyStyle	4
+Mazda3	bodyStyle	5
+Mazda3	bodyStyle	4
+Talbot Samba	bodyStyle	3
+Talbot Samba	bodyStyle	2
+Austin Maxi	bodyStyle	5
+Rover 600 Series	bodyStyle	4
+Rover CityRover	bodyStyle	5
+ 45	bodyStyle	4
+ 45	bodyStyle	5
+Honda Legend	bodyStyle	4
+Honda Legend	bodyStyle	2
+Rover SD1	bodyStyle	5
+Mercury Lynx	bodyStyle	3
+Mercury Lynx	bodyStyle	5
+Tata Safari	bodyStyle	5
+Volvo YCC	bodyStyle	3
+Ford ZX2	bodyStyle	2
+Ford Tempo	bodyStyle	2
+Ford Tempo	bodyStyle	Coupe
+Ford Tempo	bodyStyle	4
+Ford Tempo	bodyStyle	Sedan
+Suzuki Alto	bodyStyle	3
+Suzuki Alto	bodyStyle	Hatchback
+Suzuki Alto	bodyStyle	5
+Suzuki Alto	bodyStyle	4
+Suzuki Alto	bodyStyle	Station wagon
+GMC Typhoon	bodyStyle	3
+Isuzu Axiom	bodyStyle	5
+Nissan Sentra	bodyStyle	2
+Nissan Sentra	bodyStyle	3
+Nissan Sentra	bodyStyle	4
+Nissan Sentra	bodyStyle	5
+Opel Rekord	bodyStyle	4
+Opel Rekord	bodyStyle	2
+Opel Rekord	bodyStyle	3
+Opel Rekord	bodyStyle	5
+Oldsmobile Series 60	bodyStyle	2
+Oldsmobile Series 60	bodyStyle	4
+Oldsmobile Series 70	bodyStyle	2
+Oldsmobile Series 70	bodyStyle	4
+GM L platform	bodyStyle	2
+GM L platform	bodyStyle	4
+GM L platform	bodyStyle	5
+Chevrolet Beretta	bodyStyle	2
+Mercedes-Benz W128	bodyStyle	4
+Mercedes-Benz W128	bodyStyle	2
+Citroën C6	bodyStyle	4
+Holden Nova	bodyStyle	4
+Holden Nova	bodyStyle	5
+Rolls-Royce Silver Cloud	bodyStyle	4
+Rolls-Royce Silver Cloud	bodyStyle	variations provided by coachbuilders were:
+Rolls-Royce Silver Cloud	bodyStyle	2
+Rolls-Royce Silver Cloud	bodyStyle	Variations provided by coachbuilders were:
+GM N platform	bodyStyle	4
+GM N platform	bodyStyle	2
+Chevrolet TrailBlazer	bodyStyle	4
+Chevrolet TrailBlazer	bodyStyle	5
+Geo Storm	bodyStyle	3
+Geo Storm	bodyStyle	2
+Geo Prizm	bodyStyle	4
+Geo Prizm	bodyStyle	5
+Chevrolet Tracker	bodyStyle	4
+Chevrolet Tracker	bodyStyle	2
+ Nova	bodyStyle	2
+ Nova	bodyStyle	4
+ Nova	bodyStyle	3
+Sileighty	bodyStyle	2
+Nissan Prairie	bodyStyle	5
+Yenko Camaro	bodyStyle	2
+Ferrari F355	bodyStyle	2
+Vauxhall Carlton	bodyStyle	4
+Ford Territory	bodyStyle	5
+Holden Caprice	bodyStyle	4
+Holden Kingswood	bodyStyle	2
+Holden Kingswood	bodyStyle	3
+Holden Kingswood	bodyStyle	4
+Holden Kingswood	bodyStyle	5
+Oldsmobile Cutlass Calais	bodyStyle	2
+Oldsmobile Cutlass Calais	bodyStyle	4
+Oldsmobile Cutlass Ciera	bodyStyle	2
+Oldsmobile Cutlass Ciera	bodyStyle	4
+Oldsmobile Cutlass Ciera	bodyStyle	5
+Mazda Roadpacer AP	bodyStyle	Sedan
+Jeep Grand Cherokee	bodyStyle	5
+Subaru Leone	bodyStyle	2
+Subaru Leone	bodyStyle	4
+Subaru Leone	bodyStyle	5
+Subaru Leone	bodyStyle	3
+Ford Pilot	bodyStyle	4
+Ford Pilot	bodyStyle	2
+Ford Squire	bodyStyle	2
+Peugeot 607	bodyStyle	4
+Ford 7Y	bodyStyle	2
+Ford Model C	bodyStyle	2
+Ford Model C	bodyStyle	rear-entry 4-seat tonneau
+Ford Model F	bodyStyle	2
+Ford Model K	bodyStyle	2
+Ford Model N	bodyStyle	2
+Cadillac Calais	bodyStyle	4
+Cadillac Calais	bodyStyle	2
+Toyota Yaris	bodyStyle	5
+Toyota Platz	bodyStyle	2
+Toyota Platz	bodyStyle	4
+Triumph 2000	bodyStyle	4
+Triumph 2000	bodyStyle	5
+Buick Reatta	bodyStyle	1988
+Buick Reatta	bodyStyle	1990
+Pontiac Phoenix	bodyStyle	2
+Pontiac Phoenix	bodyStyle	4
+Pontiac Phoenix	bodyStyle	5
+Oldsmobile Omega	bodyStyle	2
+Oldsmobile Omega	bodyStyle	Coupe
+Oldsmobile Omega	bodyStyle	3
+Oldsmobile Omega	bodyStyle	Hatchback
+Oldsmobile Omega	bodyStyle	4
+Oldsmobile Omega	bodyStyle	Sedan
+Cadillac Brougham	bodyStyle	4
+Jowett Javelin	bodyStyle	4
+Buick Estate	bodyStyle	4
+Oldsmobile Custom Cruiser	bodyStyle	4
+Buick Roadmaster	bodyStyle	4
+Buick Roadmaster	bodyStyle	2
+Buick Roadmaster	bodyStyle	5
+Mitsubishi Lancer	bodyStyle	4
+Mitsubishi Lancer	bodyStyle	5
+Mitsubishi Colt	bodyStyle	3
+Mitsubishi Colt	bodyStyle	5
+Lotus Exige	bodyStyle	2
+Triumph GT6	bodyStyle	2
+Mazda Xedos 6	bodyStyle	4
+Mahindra Scorpio	bodyStyle	Mid-size
+Mahindra Scorpio	bodyStyle	SUV
+Honda Ridgeline	bodyStyle	4
+Liebherr T 282B	bodyStyle	Dump truck
+Datsun Sports	bodyStyle	2
+Isuzu Piazza	bodyStyle	3
+Holden Gemini	bodyStyle	2
+Holden Gemini	bodyStyle	3
+Holden Gemini	bodyStyle	4
+Isuzu Gemini	bodyStyle	2
+Isuzu Gemini	bodyStyle	4
+Isuzu Gemini	bodyStyle	3
+Dacia Logan	bodyStyle	4
+Dacia Logan	bodyStyle	5
+Dacia Logan	bodyStyle	2
+Buick Park Avenue	bodyStyle	4
+Buick LeSabre	bodyStyle	2
+Buick LeSabre	bodyStyle	4
+Volvo S90	bodyStyle	4
+Volvo S90	bodyStyle	Sedan
+Volvo S90	bodyStyle	5
+Volvo S90	bodyStyle	Station wagon
+Volvo S70	bodyStyle	4
+Volvo V70	bodyStyle	5
+Volvo V70	bodyStyle	Vehicle door
+Volvo V70	bodyStyle	Station wagon
+Volvo V70	bodyStyle	Crossover
+Peugeot 404	bodyStyle	4
+Peugeot 404	bodyStyle	5
+Peugeot 404	bodyStyle	2
+Suzuki X-90	bodyStyle	2
+Daihatsu Rocky	bodyStyle	2
+Daihatsu Charade	bodyStyle	3
+Daihatsu Charade	bodyStyle	5
+Daihatsu Charade	bodyStyle	4
+Jeep Liberty	bodyStyle	4
+Jeep Gladiator	bodyStyle	2
+Jeep SJ	bodyStyle	2
+Jeep SJ	bodyStyle	4
+Jeep Wagoneer	bodyStyle	2
+Jeep Wagoneer	bodyStyle	Panel truck
+Jeep Wagoneer	bodyStyle	Sport utility vehicle
+Jeep Wagoneer	bodyStyle	4
+Triumph Herald	bodyStyle	2
+Daihatsu Boon	bodyStyle	5
+Suzuki Aerio	bodyStyle	4
+Suzuki Aerio	bodyStyle	5
+Suzuki Cappuccino	bodyStyle	2
+Daihatsu Copen	bodyStyle	2
+Daihatsu YRV	bodyStyle	5
+Daihatsu Move	bodyStyle	5
+Daihatsu Fellow Max	bodyStyle	2
+Daihatsu Fellow Max	bodyStyle	4
+Daihatsu Fellow Max	bodyStyle	3
+Daihatsu Terios	bodyStyle	5
+Daihatsu Mira	bodyStyle	3
+Daihatsu Mira	bodyStyle	5
+Daihatsu Mira	bodyStyle	2
+Mitsubishi Pajero Mini	bodyStyle	Mini-SUV
+Nissan Pulsar	bodyStyle	2
+Nissan Pulsar	bodyStyle	3
+Nissan Pulsar	bodyStyle	4
+Nissan Pulsar	bodyStyle	5
+Nissan Laurel	bodyStyle	2
+Nissan Laurel	bodyStyle	4
+Sunbeam Alpine	bodyStyle	Sports car
+Sunbeam Alpine	bodyStyle	2
+Daihatsu Compagno	bodyStyle	2
+Daihatsu Compagno	bodyStyle	3
+Humber Sceptre	bodyStyle	4
+Chrysler Sunbeam	bodyStyle	3
+Singer Gazelle	bodyStyle	4
+Singer Gazelle	bodyStyle	2
+Sunbeam Rapier	bodyStyle	2
+Chevrolet Monte Carlo	bodyStyle	Coupe
+Chevrolet Monte Carlo	bodyStyle	2
+GM Lambda platform	bodyStyle	4
+Hyundai Elantra	bodyStyle	4
+Hyundai Elantra	bodyStyle	5
+Hyundai Elantra	bodyStyle	2
+SEAT Toledo	bodyStyle	5
+SEAT Toledo	bodyStyle	4
+Reliant Robin	bodyStyle	2
+Reliant Robin	bodyStyle	3
+GTS	bodyStyle	Berlinetta
+GTS	bodyStyle	Targa top
+Ferrari 275	bodyStyle	2
+BMW M5	bodyStyle	4
+BMW M5	bodyStyle	5
+Ford Puma	bodyStyle	Three-door coupé
+Ferrari 348	bodyStyle	Berlinetta
+Ferrari 348	bodyStyle	Targa top
+Ferrari 348	bodyStyle	Roadster
+Triumph Vitesse	bodyStyle	Two-door saloon
+Triumph Vitesse	bodyStyle	Two-door convertible
+BMW 3 Series Compact	bodyStyle	3
+Ferrari GT4	bodyStyle	2
+Ferrari Mondial	bodyStyle	2
+Ferrari 550	bodyStyle	2
+Ferrari F40	bodyStyle	2
+Mini Moke	bodyStyle	4
+Mini Moke	bodyStyle	2
+Plymouth Fury	bodyStyle	4
+Plymouth Fury	bodyStyle	2
+Neoplan Centroliner	bodyStyle	Midibus
+Neoplan Centroliner	bodyStyle	Single-decker bus
+Neoplan Centroliner	bodyStyle	City bus
+Neoplan Centroliner	bodyStyle	Articulated bus
+Neoplan Centroliner	bodyStyle	double-decker multi-axle bus
+Ferrari America	bodyStyle	2
+Ferrari America	bodyStyle	Convertible
+Oldsmobile Achieva	bodyStyle	2
+Oldsmobile Achieva	bodyStyle	4
+Honda Ballade	bodyStyle	4
+Honda S600	bodyStyle	2
+BMW M1	bodyStyle	2
+Ferrari 166 S	bodyStyle	Berlinetta
+Ferrari 166 S	bodyStyle	Roadster
+Ferrari 250	bodyStyle	Berlinetta
+Ferrari 250	bodyStyle	Cabriolet
+Ferrari 250	bodyStyle	Coupé
+Honda Pilot	bodyStyle	5
+Subaru Justy	bodyStyle	3
+Subaru Justy	bodyStyle	5
+Daihatsu Charmant	bodyStyle	4
+Daihatsu Charmant	bodyStyle	5
+IKA-Renault Torino	bodyStyle	2
+IKA-Renault Torino	bodyStyle	4
+Rolls-Royce Silver Seraph	bodyStyle	4
+Aleko	bodyStyle	5
+Honda CR-V	bodyStyle	5
+Ford C-Max	bodyStyle	5
+Shelby GLHS	bodyStyle	3
+Shelby GLHS	bodyStyle	5
+Maserati MC12	bodyStyle	Coupé
+Shelby Lancer	bodyStyle	5
+Shelby CSX	bodyStyle	3
+Shelby CSX	bodyStyle	5
+Shelby Daytona	bodyStyle	2
+BMC ADO17	bodyStyle	4
+BMC ADO17	bodyStyle	2
+BMC ADO16	bodyStyle	* 4-door
+BMC ADO16	bodyStyle	Sedan
+BMC ADO16	bodyStyle	* 2-door
+BMC ADO16	bodyStyle	Station wagon
+Hummer H1	bodyStyle	4
+Hummer H1	bodyStyle	2
+SsangYong Rodius	bodyStyle	5
+Saturn Sky	bodyStyle	2
+Stutz Bearcat	bodyStyle	2
+SsangYong Rexton	bodyStyle	5
+Volkswagen New Beetle	bodyStyle	2
+George Follmer	bodyStyle	2
+Renault 8 and 10	bodyStyle	4
+Hyundai Atos	bodyStyle	5
+Hyundai Pony	bodyStyle	2
+Hyundai Pony	bodyStyle	3
+Hyundai Pony	bodyStyle	4
+Hyundai Pony	bodyStyle	5
+Toyota Century	bodyStyle	4
+Chrysler PT Cruiser	bodyStyle	2
+Chrysler PT Cruiser	bodyStyle	5
+Toyota Sienna	bodyStyle	3
+Toyota Sienna	bodyStyle	4
+Cadillac SRX	bodyStyle	5
+Toyota Previa	bodyStyle	3
+Toyota Previa	bodyStyle	4
+Merkur XR4Ti	bodyStyle	3
+Merkur Scorpio	bodyStyle	5
+Mitsubishi Mirage	bodyStyle	3
+Mitsubishi Mirage	bodyStyle	4
+Mitsubishi Mirage	bodyStyle	5
+Mitsubishi Mirage	bodyStyle	2
+Toyota T100	bodyStyle	2
+Chevrolet Niva	bodyStyle	5
+AMC Hornet	bodyStyle	2
+AMC Hornet	bodyStyle	Sedan
+AMC Hornet	bodyStyle	3
+AMC Hornet	bodyStyle	Hatchback
+AMC Hornet	bodyStyle	4
+AMC Hornet	bodyStyle	Station wagon
+Maserati Coupé	bodyStyle	2
+Maserati Quattroporte	bodyStyle	4
+Audi V8	bodyStyle	4
+Scania N113	bodyStyle	Single-decker bus
+Scania N113	bodyStyle	Articulated bus
+Scania N113	bodyStyle	Double-decker bus
+Dodge Ram Van	bodyStyle	3
+Dodge Ram Van	bodyStyle	4
+Dodge Ram Van	bodyStyle	Two-door or 8–15-passenger van
+Peugeot 107	bodyStyle	3
+Peugeot 107	bodyStyle	5
+Alfa Romeo Arna	bodyStyle	3
+Alfa Romeo Arna	bodyStyle	5
+Alfa Romeo Alfasud	bodyStyle	2
+Alfa Romeo Alfasud	bodyStyle	Sedan
+Alfa Romeo Alfasud	bodyStyle	4
+Alfa Romeo Alfasud	bodyStyle	3
+Alfa Romeo Alfasud	bodyStyle	Hatchback
+Alfa Romeo Alfasud	bodyStyle	5
+Alfa Romeo Alfasud	bodyStyle	Coupé
+Alfa Romeo Alfasud	bodyStyle	Station wagon
+Nissan Tiida	bodyStyle	4
+Nissan Tiida	bodyStyle	5
+SEAT Arosa	bodyStyle	3
+Citroën C4	bodyStyle	3
+Citroën C4	bodyStyle	5
+Citroën C4	bodyStyle	4
+Citroën C1	bodyStyle	3
+Citroën C1	bodyStyle	5
+Jaguar D-Type	bodyStyle	Roadster
+Mazda Verisa	bodyStyle	5
+BMW New Class	bodyStyle	4
+BMW New Class	bodyStyle	2
+Asia Rocsta	bodyStyle	Mini SUV
+Pontiac Grand Am	bodyStyle	2
+Pontiac Grand Am	bodyStyle	4
+Fiat Strada	bodyStyle	Two-door coupé utility
+Peugeot 403	bodyStyle	4
+Peugeot 403	bodyStyle	5
+Peugeot 403	bodyStyle	2
+Peugeot 403	bodyStyle	3
+Toyota Camry Solara	bodyStyle	2
+Toyota Camry Solara	bodyStyle	Coupe
+Toyota Camry Solara	bodyStyle	Convertible
+4	bodyStyle	2
+IKCO Samand	bodyStyle	4
+GM U platform	bodyStyle	3
+GM U platform	bodyStyle	4
+Pontiac Parisienne	bodyStyle	2
+Pontiac Parisienne	bodyStyle	4
+Renault Modus	bodyStyle	5
+Ford Galaxy	bodyStyle	5
+Mitsubishi Outlander	bodyStyle	5
+Toyota Tundra	bodyStyle	2
+Toyota Tundra	bodyStyle	4
+Nissan Murano	bodyStyle	4
+Nissan Murano	bodyStyle	2
+Nissan Xterra	bodyStyle	5
+Toyota Sequoia	bodyStyle	5
+Nissan Titan	bodyStyle	2
+BMW New Six	bodyStyle	4
+BMW New Six	bodyStyle	2
+Subaru FF-1 Star	bodyStyle	2
+Honda Domani	bodyStyle	4
+Honda Domani	bodyStyle	5
+Renault 16	bodyStyle	5
+Studebaker Champion	bodyStyle	2
+Studebaker Champion	bodyStyle	4
+460	bodyStyle	5
+460	bodyStyle	4
+Volvo 300 Series	bodyStyle	4
+Volvo 300 Series	bodyStyle	5
+Volvo 300 Series	bodyStyle	3
+Toyota 4Runner	bodyStyle	2
+Toyota 4Runner	bodyStyle	3
+Toyota 4Runner	bodyStyle	5
+Opel Commodore	bodyStyle	2
+Opel Commodore	bodyStyle	4
+Opel Commodore	bodyStyle	5
+Holden Brougham	bodyStyle	4
+Chrysler Sigma	bodyStyle	4
+Chrysler Sigma	bodyStyle	5
+Kia Opirus	bodyStyle	4
+Ford Bronco	bodyStyle	2
+Ford Bronco	bodyStyle	Compact SUV
+Ford Bronco	bodyStyle	Full-size SUV
+Honda Passport	bodyStyle	5
+Nissan Armada	bodyStyle	4
+Nissan Armada	bodyStyle	5
+Subaru G	bodyStyle	2
+Subaru G	bodyStyle	4
+Subaru G	bodyStyle	5
+Lexus ES	bodyStyle	4
+Isuzu MU	bodyStyle	3
+Isuzu MU	bodyStyle	5
+Subaru XT	bodyStyle	2
+Pagani Zonda	bodyStyle	2
+Lancia Aurelia	bodyStyle	4
+Lancia Aurelia	bodyStyle	2
+AMC Eagle	bodyStyle	2
+AMC Eagle	bodyStyle	Coupé
+AMC Eagle	bodyStyle	Liftback
+AMC Eagle	bodyStyle	Hatchback
+AMC Eagle	bodyStyle	4
+AMC Eagle	bodyStyle	Sedan
+AMC Eagle	bodyStyle	Station wagon
+AMC Eagle	bodyStyle	Convertible
+Vauxhall Victor	bodyStyle	4
+Vauxhall Victor	bodyStyle	5
+Renault 5 Turbo	bodyStyle	3
+BMW Z1	bodyStyle	2
+Toyota RAV4	bodyStyle	5
+Jaguar XJ220	bodyStyle	2
+Chevrolet Cobalt	bodyStyle	2
+Chevrolet Cobalt	bodyStyle	4
+Nissan AD	bodyStyle	3
+Nissan AD	bodyStyle	5
+Nissan AD	bodyStyle	2
+Austin Sheerline	bodyStyle	4
+Austin Sheerline	bodyStyle	Ambulance
+Austin Sheerline	bodyStyle	Hearse
+Isuzu VehiCROSS	bodyStyle	3
+Fiat 131	bodyStyle	4
+Fiat 131	bodyStyle	Saloon car
+Fiat 131	bodyStyle	2
+Fiat 131	bodyStyle	5
+Fiat 131	bodyStyle	Station wagon
+Fiat 131	bodyStyle	3
+Fiat 131	bodyStyle	Panel van
+Chevrolet HHR	bodyStyle	5
+Toyota Stout	bodyStyle	Pickup
+Toyota Stout	bodyStyle	pickup
+Mitsubishi Minica	bodyStyle	2
+Mitsubishi Minica	bodyStyle	3
+Toyota Hilux	bodyStyle	2
+Toyota Hilux	bodyStyle	4
+ARO M461	bodyStyle	2
+ARO 24 Series	bodyStyle	2
+ARO 24 Series	bodyStyle	3
+ARO 24 Series	bodyStyle	4
+ARO 24 Series	bodyStyle	5
+ARO 10	bodyStyle	2
+ARO 10	bodyStyle	4
+Saturn Aura	bodyStyle	4
+Buick Apollo	bodyStyle	2
+Buick Apollo	bodyStyle	4
+Pontiac Ventura	bodyStyle	2
+Pontiac Ventura	bodyStyle	4
+Hyundai Sonata	bodyStyle	4
+Ford SYNus	bodyStyle	3
+Lexus LFA	bodyStyle	2
+Infiniti Kuraza	bodyStyle	6
+Saab 9-7X	bodyStyle	4
+Honda Today	bodyStyle	3
+Honda Today	bodyStyle	5
+Bentley Continental Flying Spur	bodyStyle	4
+Studebaker Wagonaire	bodyStyle	4
+Chery A15	bodyStyle	5
+Fiat Albea	bodyStyle	4
+Fiat 125	bodyStyle	4
+Fiat 125	bodyStyle	5
+Fiat 130	bodyStyle	4
+Fiat 130	bodyStyle	5
+Fiat 130	bodyStyle	2
+Toyota Sera	bodyStyle	3
+Fiat 1100	bodyStyle	4
+Fiat 1100	bodyStyle	Sedan
+Fiat 1100	bodyStyle	Station wagon
+Fiat 1100	bodyStyle	2
+Fiat 1100	bodyStyle	Roadster
+Fiat 600	bodyStyle	2
+Fiat 600	bodyStyle	5
+Fiat Doblò	bodyStyle	4
+Fiat Doblò	bodyStyle	5
+Fiat Doblò	bodyStyle	2
+Fiat Doblò	bodyStyle	3
+Fiat Marea	bodyStyle	4
+Fiat Marea	bodyStyle	5
+Fiat Idea	bodyStyle	5
+Fiat Regata	bodyStyle	4
+Fiat Regata	bodyStyle	5
+Fiat Ducato	bodyStyle	3
+Fiat Ducato	bodyStyle	2
+Fiat Ducato	bodyStyle	4
+Lancia Fulvia	bodyStyle	4
+Lancia Fulvia	bodyStyle	2
+Nissan Figaro	bodyStyle	2
+Studebaker Lark	bodyStyle	2
+Studebaker Lark	bodyStyle	4
+Toyota Kijang	bodyStyle	Pickup truck
+Toyota Kijang	bodyStyle	Multi-purpose vehicle
+Toyota Kijang	bodyStyle	2
+Toyota Kijang	bodyStyle	5
+MG XPower SV	bodyStyle	2
+Toyota bB	bodyStyle	5
+Toyota bB	bodyStyle	3
+MG MGB	bodyStyle	2
+Buick Lucerne	bodyStyle	4
+Cadillac DTS	bodyStyle	4
+Plymouth Belvedere	bodyStyle	2
+Plymouth Belvedere	bodyStyle	4
+Triumph TR7	bodyStyle	2
+Audi S4	bodyStyle	4
+Audi S4	bodyStyle	5
+Audi S4	bodyStyle	2
+Cadillac Fleetwood	bodyStyle	4
+Cadillac Fleetwood	bodyStyle	2
+Velie	bodyStyle	Roadster
+Audi RS 6	bodyStyle	5
+Audi RS 6	bodyStyle	4
+DeLorean DMC-12	bodyStyle	2
+Reliant Rialto	bodyStyle	3
+Kia Sephia	bodyStyle	4
+Kia Sephia	bodyStyle	5
+Kia Credos	bodyStyle	4
+Kia Credos	bodyStyle	5
+Jeepster Commando	bodyStyle	2
+Fiat Oggi	bodyStyle	2
+Fiat 147	bodyStyle	2
+Fiat 147	bodyStyle	3
+Hyundai Getz	bodyStyle	3
+Hyundai Getz	bodyStyle	5
+Dodge Matador	bodyStyle	2
+Dodge Matador	bodyStyle	4
+Dodge La Femme	bodyStyle	2
+Studebaker President	bodyStyle	2
+Studebaker President	bodyStyle	4
+Mercury Montclair	bodyStyle	2
+Mercury Montclair	bodyStyle	4
+Mercury Turnpike Cruiser	bodyStyle	2
+Mercury Turnpike Cruiser	bodyStyle	4
+Mercury Park Lane	bodyStyle	2
+Mercury Park Lane	bodyStyle	4
+Chrysler Windsor	bodyStyle	4
+Chrysler Windsor	bodyStyle	2
+Chevrolet Delray	bodyStyle	2
+Chevrolet Delray	bodyStyle	4
+Chevrolet K5 Blazer	bodyStyle	2
+Nissan Stagea	bodyStyle	5
+Plymouth Plaza	bodyStyle	2
+Plymouth Plaza	bodyStyle	4
+Plymouth Savoy	bodyStyle	2
+Plymouth Savoy	bodyStyle	Coupe
+Plymouth Savoy	bodyStyle	4
+Plymouth Savoy	bodyStyle	Sedan
+Škoda Fabia	bodyStyle	4
+Škoda Fabia	bodyStyle	5
+Dodge Regent	bodyStyle	2
+Dodge Regent	bodyStyle	4
+Proton Waja	bodyStyle	4
+Proton Wira	bodyStyle	4
+Proton Wira	bodyStyle	5
+GAZ Volga	bodyStyle	4
+GAZ Volga	bodyStyle	5
+Proton Saga	bodyStyle	4
+Proton Saga	bodyStyle	5
+Toyota FJ Cruiser	bodyStyle	4
+Opel GT	bodyStyle	2
+Proton GEN•2	bodyStyle	5
+Nash-Healey	bodyStyle	2
+Nash-Healey	bodyStyle	Hardtop
+Nash-Healey	bodyStyle	Roadster
+Honda Beat	bodyStyle	2
+Jaguar XJR-15	bodyStyle	2
+Volvo C70	bodyStyle	Cabriolet
+Volvo C70	bodyStyle	coupé
+Volvo C70	bodyStyle	2
+Citroën Acadiane	bodyStyle	Small van
+Citroën C15	bodyStyle	Panel van
+Citroën M35	bodyStyle	Coupé
+Cadillac BLS	bodyStyle	4
+Cadillac BLS	bodyStyle	5
+Daihatsu Bee	bodyStyle	2
+Citroën H Van	bodyStyle	4
+Citroën Elysée	bodyStyle	4
+Chevrolet S-10 Blazer	bodyStyle	2
+Chevrolet S-10 Blazer	bodyStyle	4
+Buick Invicta	bodyStyle	2
+Buick Invicta	bodyStyle	Convertible
+Buick Invicta	bodyStyle	Hardtop
+Buick Invicta	bodyStyle	4
+Buick Invicta	bodyStyle	Station wagon
+Toyota Mark II	bodyStyle	4
+Toyota Mark II	bodyStyle	5
+Toyota Mark II	bodyStyle	2
+Suzuki Ignis	bodyStyle	3
+Suzuki Ignis	bodyStyle	5
+Buick Wildcat	bodyStyle	2
+Buick Wildcat	bodyStyle	4
+Buick Somerset	bodyStyle	2
+BMW X3	bodyStyle	5
+Thomas Vista	bodyStyle	School bus
+Citroën Jumpy	bodyStyle	4
+Citroën FAF	bodyStyle	3
+BMW E9	bodyStyle	Coupé
+Opel Meriva	bodyStyle	5
+SEAT Córdoba	bodyStyle	2
+SEAT Córdoba	bodyStyle	4
+SEAT Córdoba	bodyStyle	5
+Alfa Romeo Kamal	bodyStyle	4
+Alfa Romeo Brera and Spider	bodyStyle	3
+Alfa Romeo Brera and Spider	bodyStyle	2
+Alfa Romeo 159	bodyStyle	4
+Alfa Romeo 159	bodyStyle	5
+Citroën Méhari	bodyStyle	2
+AMC Spirit	bodyStyle	2
+AMC Spirit	bodyStyle	3
+Stutz Blackhawk	bodyStyle	2
+Kia Rio	bodyStyle	4
+Kia Rio	bodyStyle	5
+Kia Rio	bodyStyle	3
+Lancia Delta S4	bodyStyle	2
+Dodge Ramcharger	bodyStyle	2
+SS 1	bodyStyle	in order of introduction —
+SS 1	bodyStyle	2
+SS Jaguar 100	bodyStyle	Open two-seater or in US Roadster
+SS Jaguar 100	bodyStyle	Coupé
+Audi Q5	bodyStyle	5
+Ford Transit Connect	bodyStyle	4
+Ford Transit Connect	bodyStyle	Panel van
+Ford Transit Connect	bodyStyle	Leisure activity vehicle
+Ford Transit Connect	bodyStyle	3
+Ford Transit Connect	bodyStyle	5
+Mitsubishi GS platform	bodyStyle	2
+Mitsubishi GS platform	bodyStyle	4
+Mitsubishi GS platform	bodyStyle	5
+AMC Concord	bodyStyle	4
+AMC Concord	bodyStyle	Sedan
+AMC Concord	bodyStyle	2
+AMC Concord	bodyStyle	Coupe
+AMC Concord	bodyStyle	Hatchback
+AMC Concord	bodyStyle	Station wagon
+AMC Concord	bodyStyle	Convertible
+GAZ-M20 Pobeda	bodyStyle	4
+Lancia Lambda	bodyStyle	Torpedo
+Lancia Lambda	bodyStyle	Berlina
+GAZ-12 ZIM	bodyStyle	Sedan, phaeton and ambulance
+Dacia Lăstun	bodyStyle	3
+Suzuki Vitara	bodyStyle	2
+Suzuki Vitara	bodyStyle	3
+Suzuki Vitara	bodyStyle	5
+Suzuki Cultus	bodyStyle	3
+Suzuki Cultus	bodyStyle	2
+Suzuki Cultus	bodyStyle	4
+Suzuki Cultus	bodyStyle	5
+Hyundai Excel	bodyStyle	3
+Hyundai Excel	bodyStyle	4
+Jeep Commander	bodyStyle	4
+Honda Concerto	bodyStyle	4
+Honda Concerto	bodyStyle	5
+Alfa Romeo 145 and 146	bodyStyle	3
+Alfa Romeo 145 and 146	bodyStyle	Hatchback
+Alfa Romeo 145 and 146	bodyStyle	5
+Alfa Romeo 8C	bodyStyle	2
+MG T-type	bodyStyle	2
+MG T-type	bodyStyle	Tickford drophead coupé
+MG MGA	bodyStyle	2
+Messerschmitt KR200	bodyStyle	1
+Alfa Romeo 75	bodyStyle	4
+Scania N112	bodyStyle	Single-decker bus
+Scania N112	bodyStyle	Double-decker bus
+Scania N112	bodyStyle	Articulated bus
+MG Midget	bodyStyle	2
+Ford Explorer Sport Trac	bodyStyle	4
+Austin A90 Atlantic	bodyStyle	2
+Hyundai Accent	bodyStyle	4
+Hyundai Accent	bodyStyle	3
+Hyundai Accent	bodyStyle	5
+Hyundai Accent	bodyStyle	2
+Lotus Excel	bodyStyle	2
+Ford Mustang Mach 1	bodyStyle	2
+Lancia Montecarlo	bodyStyle	2
+Lancia Flavia	bodyStyle	4
+Lancia Flavia	bodyStyle	2
+Datsun Roadster	bodyStyle	2
+Datsun DC-3	bodyStyle	2
+Nissan Gloria	bodyStyle	4
+Nissan Gloria	bodyStyle	Sedan
+Nissan Gloria	bodyStyle	5
+Nissan Gloria	bodyStyle	Station wagon
+Nissan Gloria	bodyStyle	2
+Nissan Cedric	bodyStyle	2
+Nissan Cedric	bodyStyle	4
+Nissan Cedric	bodyStyle	5
+Nissan President	bodyStyle	4
+Honda Orthia	bodyStyle	5
+Volvo PV800 Series	bodyStyle	4
+Jeep Compass	bodyStyle	4
+Chrysler LHS	bodyStyle	4
+Cadillac Series 60	bodyStyle	2
+Cadillac Series 60	bodyStyle	4
+Cadillac Sixty Special	bodyStyle	4
+Willys-Overland Jeepster	bodyStyle	2
+Bristol Fighter	bodyStyle	2
+Cadillac Fleetwood Brougham	bodyStyle	4
+Cadillac Fleetwood Brougham	bodyStyle	2
+Cadillac Series 70	bodyStyle	2
+Cadillac Series 70	bodyStyle	4
+Cadillac Series 70	bodyStyle	Series 70:
+Cadillac Series 70	bodyStyle	Series 75:
+Cadillac Series 62	bodyStyle	2
+Cadillac Series 62	bodyStyle	4
+Cadillac Series 61	bodyStyle	2
+Cadillac Series 61	bodyStyle	4
+Panther Solo	bodyStyle	2
+Panther Lima	bodyStyle	2
+Panther De Ville	bodyStyle	4
+Panther De Ville	bodyStyle	2
+Panther De Ville	bodyStyle	6
+Panther Rio	bodyStyle	4
+Panther Kallista	bodyStyle	2
+Panther J72	bodyStyle	2
+Panther FF	bodyStyle	2
+Panther Lazer	bodyStyle	2
+Kia Carnival	bodyStyle	4
+Maruti Zen	bodyStyle	5
+Dodge Super Bee	bodyStyle	2
+Dodge Super Bee	bodyStyle	4
+Dodge A100	bodyStyle	2
+Dodge D Series	bodyStyle	2
+Dodge D Series	bodyStyle	4
+Dodge B Series	bodyStyle	2
+Dodge C Series	bodyStyle	2
+Ford Model Y	bodyStyle	2
+Mitsubishi FTO	bodyStyle	2
+Amilcar Compound	bodyStyle	2
+Amilcar Compound	bodyStyle	van and ambulance
+Riley Two-Point-Six	bodyStyle	4
+Riley Pathfinder	bodyStyle	4
+Riley One-Point-Five	bodyStyle	4
+Riley 4	bodyStyle	4
+Riley 4	bodyStyle	station wagon
+Riley 4	bodyStyle	2
+Riley RM	bodyStyle	4
+Riley RM	bodyStyle	Sedan
+Riley RM	bodyStyle	2
+Riley RM	bodyStyle	Roadster
+Riley RM	bodyStyle	Convertible
+Ultima GTR	bodyStyle	2
+Chevrolet Sail	bodyStyle	4
+Chevrolet Sail	bodyStyle	5
+Lamborghini LM002	bodyStyle	4
+Austin A30	bodyStyle	4
+Austin A30	bodyStyle	2
+Austin A35	bodyStyle	2
+Austin A40 Devon	bodyStyle	2
+Austin A40 Devon	bodyStyle	4
+Austin A40 Farina	bodyStyle	2
+Austin A40 Farina	bodyStyle	3
+Austin A70	bodyStyle	4
+Austin A70	bodyStyle	2
+Austin Cambridge	bodyStyle	4
+Austin Cambridge	bodyStyle	2
+Austin Cambridge	bodyStyle	5
+MG Magnette	bodyStyle	4
+44	bodyStyle	4
+Innocenti Mini	bodyStyle	3
+50	bodyStyle	4
+90	bodyStyle	4
+Isuzu Trooper	bodyStyle	3
+Isuzu Trooper	bodyStyle	5
+50	bodyStyle	4
+60	bodyStyle	4
+99	bodyStyle	4
+Austin Westminster	bodyStyle	4
+Citroën Zabrus	bodyStyle	3
+Acura RDX	bodyStyle	5
+ MG TF	bodyStyle	2
+Peugeot 605	bodyStyle	4
+Plymouth Prowler	bodyStyle	2
+Pontiac Safari	bodyStyle	4
+Pontiac Safari	bodyStyle	2
+Rover P6	bodyStyle	4
+Daewoo Tico	bodyStyle	5
+Daewoo LeMans	bodyStyle	3
+Daewoo LeMans	bodyStyle	4
+Daewoo LeMans	bodyStyle	5
+Chevrolet Spark	bodyStyle	5
+Rover P5	bodyStyle	4
+Honda Avancier	bodyStyle	5
+Daewoo Leganza	bodyStyle	4
+Porsche Panamera	bodyStyle	4
+Porsche Panamera	bodyStyle	5
+Kia Optima	bodyStyle	4
+Kia Optima	bodyStyle	5
+Chrysler Pacifica	bodyStyle	5
+Toyota Allion	bodyStyle	4
+Toyota Carina	bodyStyle	2
+Toyota Carina	bodyStyle	5
+Toyota Carina	bodyStyle	4
+Lancia Rally 037	bodyStyle	2
+Peel P50	bodyStyle	1
+Peel Trident	bodyStyle	Flip-top  coupe
+Bentley T-series	bodyStyle	4
+Bentley T-series	bodyStyle	2
+Honda Z	bodyStyle	2
+Mercedes-Benz W120	bodyStyle	4
+Mercedes-Benz E-Class	bodyStyle	4
+Mercedes-Benz E-Class	bodyStyle	5
+Mercedes-Benz W114	bodyStyle	4
+Mercedes-Benz W114	bodyStyle	2
+Mercedes-Benz W123	bodyStyle	4
+Mercedes-Benz W123	bodyStyle	2
+Mercedes-Benz W123	bodyStyle	5
+Mercedes-Benz E-Class	bodyStyle	4
+Mercedes-Benz E-Class	bodyStyle	5
+Mercedes-Benz W124	bodyStyle	4
+Mercedes-Benz W124	bodyStyle	5
+Mercedes-Benz W124	bodyStyle	2
+Mercedes-Benz W124	bodyStyle	6
+Mercedes-Benz CL-Class	bodyStyle	2
+Mercedes-Benz SLK-Class	bodyStyle	2
+Mercedes-Benz W113	bodyStyle	2
+Mercedes-Benz SL-Class	bodyStyle	Roadster
+Mercedes-Benz R107 and C107	bodyStyle	2
+Daewoo Nubira	bodyStyle	4
+Daewoo Nubira	bodyStyle	5
+Peugeot 203	bodyStyle	4
+Peugeot 203	bodyStyle	5
+Peugeot 203	bodyStyle	2
+Nissan Cima	bodyStyle	4
+Daewoo Lacetti	bodyStyle	4
+Daewoo Lacetti	bodyStyle	5
+Ford Del Rio	bodyStyle	2
+Mercury Colony Park	bodyStyle	4
+Opel Olympia	bodyStyle	2
+Opel Olympia	bodyStyle	4
+Maserati 3200 GT	bodyStyle	2
+Ford Elite	bodyStyle	2
+Infiniti QX70	bodyStyle	four-door SUV
+Infiniti QX70	bodyStyle	5
+Kia Sorento	bodyStyle	5
+Ford EXP	bodyStyle	3
+Bugatti Royale	bodyStyle	Berline, coupé, cabriolet, roadster
+Hyundai Equus	bodyStyle	4
+Mitsubishi Challenger	bodyStyle	5
+Mercedes-Benz S-Class	bodyStyle	4
+Ford Comète	bodyStyle	2
+Nissan Cube	bodyStyle	5
+Trekka	bodyStyle	2
+Trekka	bodyStyle	Off-road vehicle
+Humber Super Snipe	bodyStyle	4
+Humber Super Snipe	bodyStyle	Sports saloon
+Humber Super Snipe	bodyStyle	Drophead coupé
+Humber Super Snipe	bodyStyle	drophead coupe
+Humber Super Snipe	bodyStyle	estate car
+Humber Super Snipe	bodyStyle	Estate car
+Humber Super Snipe	bodyStyle	limousine
+Daewoo Espero	bodyStyle	4
+Daihatsu Consorte	bodyStyle	2
+Daihatsu Consorte	bodyStyle	4
+Daewoo Lanos	bodyStyle	3
+Daewoo Lanos	bodyStyle	4
+Daewoo Lanos	bodyStyle	2
+Kia Carens	bodyStyle	4
+Mercedes-Benz W126	bodyStyle	4
+Mercedes-Benz W126	bodyStyle	2
+Mercedes-Benz W108	bodyStyle	4
+Chevrolet Captiva	bodyStyle	5
+Volkswagen 181	bodyStyle	4
+ZAZ Tavria	bodyStyle	3
+ZAZ Tavria	bodyStyle	4
+ZAZ Tavria	bodyStyle	5
+Mercedes-Benz SLK-Class	bodyStyle	2
+Mazda B-Series	bodyStyle	2
+Mazda B-Series	bodyStyle	4
+Mazda B-Series	bodyStyle	5
+Ford LTD II	bodyStyle	2
+Ford LTD II	bodyStyle	4
+Toyota Aygo	bodyStyle	3
+Toyota Aygo	bodyStyle	5
+Toyota Land Cruiser	bodyStyle	2
+Toyota Land Cruiser	bodyStyle	4
+Chevrolet Celta	bodyStyle	3
+Chevrolet Celta	bodyStyle	5
+Chevrolet Celta	bodyStyle	4
+Lancia Beta	bodyStyle	4
+Lancia Beta	bodyStyle	Fastback
+Lancia Beta	bodyStyle	Sedan
+Lancia Beta	bodyStyle	2
+Lancia Beta	bodyStyle	Coupé
+Lancia Beta	bodyStyle	Targa top
+Lancia Beta	bodyStyle	3
+Lancia Beta	bodyStyle	Station wagon
+Lancia Beta	bodyStyle	Mid-engine design
+Lancia Beta	bodyStyle	coupé
+Nissan X-Trail	bodyStyle	4
+Honda Stream	bodyStyle	Station wagon
+Morgan Roadster	bodyStyle	2
+Renault 14	bodyStyle	4
+Hyundai Tiburon	bodyStyle	2
+TVR Chimaera	bodyStyle	2
+De Tomaso Guarà	bodyStyle	Barchetta
+De Tomaso Guarà	bodyStyle	Spider
+De Tomaso Guarà	bodyStyle	Coupé
+Mercedes-Benz W140	bodyStyle	4
+Mercedes-Benz W140	bodyStyle	2
+Mercedes-Benz SL-Class	bodyStyle	Roadster
+Mercedes-Benz W116	bodyStyle	4
+Perodua Kelisa	bodyStyle	5
+Mitsubishi Carisma	bodyStyle	4
+Mitsubishi Carisma	bodyStyle	5
+Bizzarrini Strada	bodyStyle	2
+Ferrari 330	bodyStyle	2
+Ferrari 330	bodyStyle	GTC: 2-seat coupé
+Ferrari 330	bodyStyle	GTS: 2-seat Spider
+Hyundai Santa Fe	bodyStyle	5
+Vauxhall Cresta	bodyStyle	4
+Vauxhall Cresta	bodyStyle	5
+Vauxhall Cresta	bodyStyle	four-door saloon
+Vauxhall Cresta	bodyStyle	five-door estate car
+Ferrari 365	bodyStyle	Convertible
+Ferrari 365	bodyStyle	2
+Ferrari 365	bodyStyle	GTC: 2-seat coupé
+Ferrari 365	bodyStyle	GTS: 2-seat spider
+Ferrari TR	bodyStyle	Roadster
+Morris Isis	bodyStyle	4
+Morris Isis	bodyStyle	coupé
+Morris Isis	bodyStyle	2
+Auto Avio Costruzioni 815	bodyStyle	2
+Rover P4	bodyStyle	4
+Mitsubishi Chariot	bodyStyle	5
+Fiat 124 Sport Coupé	bodyStyle	2
+Maybach Exelero	bodyStyle	2
+Pope-Toledo	bodyStyle	Roadster
+Pope-Toledo	bodyStyle	Touring car
+Mazda CX-7	bodyStyle	4
+Lexus GX	bodyStyle	5
+Lexus LX	bodyStyle	4
+Toyota Voltz	bodyStyle	5
+Peugeot 305	bodyStyle	4
+Peugeot 305	bodyStyle	5
+Peugeot 305	bodyStyle	3
+Audi RS 4	bodyStyle	5
+Audi RS 4	bodyStyle	4
+Audi RS 4	bodyStyle	2
+SsangYong Chairman	bodyStyle	4
+Mitsubishi Pajero	bodyStyle	3
+Mitsubishi Pajero	bodyStyle	5
+Volvo 480	bodyStyle	Hatchback
+Volvo 480	bodyStyle	Shooting brake
+Volvo 480	bodyStyle	Coupé
+Maserati Ghibli	bodyStyle	2
+Maserati Ghibli	bodyStyle	4
+Maserati Shamal	bodyStyle	2
+Austin 7	bodyStyle	2
+Austin 7	bodyStyle	3
+Perodua Myvi	bodyStyle	5
+AMC Matador	bodyStyle	2
+AMC Matador	bodyStyle	Hardtop
+AMC Matador	bodyStyle	4
+AMC Matador	bodyStyle	Sedan
+AMC Matador	bodyStyle	Station wagon
+AMC Matador	bodyStyle	Coupé
+Honda FCX Clarity	bodyStyle	4
+Rolls-Royce Corniche	bodyStyle	2
+Giocattolo	bodyStyle	Coupé
+De Tomaso Pantera	bodyStyle	Coupé
+Vector W8	bodyStyle	2
+Ferrari FXX	bodyStyle	2
+Rover Streetwise	bodyStyle	3
+Rover Streetwise	bodyStyle	5
+Honda Logo	bodyStyle	3
+BMW M Coupe	bodyStyle	3
+BMW M Roadster	bodyStyle	2
+Ford Mustang SVT Cobra	bodyStyle	1993
+Ford Mustang SVT Cobra	bodyStyle	3
+Ford Mustang SVT Cobra	bodyStyle	1994
+Ford Mustang SVT Cobra	bodyStyle	2
+Mercedes-Benz S-Class	bodyStyle	4
+FSO Polonez	bodyStyle	3
+FSO Polonez	bodyStyle	Hatchback
+FSO Polonez	bodyStyle	4
+FSO Polonez	bodyStyle	Sedan
+FSO Polonez	bodyStyle	5
+FSO Polonez	bodyStyle	Station wagon
+FSO Polonez	bodyStyle	>2-door
+FSO Polonez	bodyStyle	Coupé utility
+FSO Polonez	bodyStyle	2
+FSO Polonez	bodyStyle	Van
+Messerschmitt Kabinenroller	bodyStyle	Tandem 2-seat three-wheeler  with side-opening canopy: saloon, cabriolet, or open roadster, depending on canopy style.
+Proton Arena	bodyStyle	2
+Kia Cerato	bodyStyle	4
+Kia Cerato	bodyStyle	5
+Austin Gipsy	bodyStyle	Four-wheel drive
+Mosler MT900	bodyStyle	Coupe
+Volvo SCC	bodyStyle	5
+Felber Autoroller	bodyStyle	1
+Heinkel Kabine	bodyStyle	One-door sedan
+Aston Martin DB Mark III	bodyStyle	2
+Lagonda	bodyStyle	4
+4	bodyStyle	2
+Aston Martin DB2	bodyStyle	2
+Aston Martin DB6	bodyStyle	DB6 2-door coupé 2+2
+Aston Martin DB6	bodyStyle	Volante four-seat convertible
+Aston Martin 2-Litre Sports	bodyStyle	2
+Aston Martin V8 Zagato	bodyStyle	2
+Aston Martin V8	bodyStyle	2
+Aston Martin DBS	bodyStyle	2
+Aston Martin Vantage	bodyStyle	2
+Lagonda Rapide	bodyStyle	4
+Aston Martin DB4	bodyStyle	2
+Aston Martin Virage	bodyStyle	2
+Aston Martin V8 Vantage	bodyStyle	2
+Aston Martin Vantage	bodyStyle	2
+Suzuki Wagon R	bodyStyle	Hatchback
+Lotus 27	bodyStyle	Open wheel car
+Dodge Caliber	bodyStyle	5
+SEAT Málaga	bodyStyle	4
+Toyota Tercel	bodyStyle	2
+Toyota Tercel	bodyStyle	3
+Autobianchi Primula	bodyStyle	2
+Autobianchi Primula	bodyStyle	Sedan
+Autobianchi Primula	bodyStyle	3
+Autobianchi Primula	bodyStyle	Hatchback
+Autobianchi Primula	bodyStyle	4
+Autobianchi Primula	bodyStyle	5
+Autobianchi Primula	bodyStyle	Coupé
+Rolls-Royce Silver Shadow	bodyStyle	2
+Rolls-Royce Silver Shadow	bodyStyle	Coupé
+Rolls-Royce Silver Shadow	bodyStyle	Convertible
+Rolls-Royce Silver Shadow	bodyStyle	4
+Rolls-Royce Silver Shadow	bodyStyle	Sedan
+Simca 1100	bodyStyle	3
+Simca 1100	bodyStyle	5
+Simca 1100	bodyStyle	2
+Chevrolet S-10 EV	bodyStyle	Pick-up truck
+Hyundai Scoupe	bodyStyle	2
+Elva	bodyStyle	2
+Škoda Octavia	bodyStyle	5
+Datsun Truck	bodyStyle	2
+Datsun Truck	bodyStyle	Coupe utility
+Datsun Truck	bodyStyle	3
+Datsun Truck	bodyStyle	4
+Datsun Truck	bodyStyle	Pickup truck
+Datsun Truck	bodyStyle	Truck
+Toyota Highlander	bodyStyle	5
+Chevrolet Montana	bodyStyle	2
+Rolls-Royce Silver Dawn	bodyStyle	4
+Panhard Dyna Z	bodyStyle	4
+Panhard Dyna Z	bodyStyle	2
+Morgan +4+	bodyStyle	2
+Suzuki Cultus Crescent	bodyStyle	3
+Suzuki Cultus Crescent	bodyStyle	4
+Suzuki Cultus Crescent	bodyStyle	5
+Aston Martin DB AR1	bodyStyle	2
+Chrysler R platform	bodyStyle	4
+Nissan Quest	bodyStyle	3
+Nissan Quest	bodyStyle	4
+Proton Savvy	bodyStyle	5
+Audi S6	bodyStyle	4
+Audi S6	bodyStyle	5
+Phantom Corsair	bodyStyle	2
+King Midget	bodyStyle	2
+Peugeot 4007	bodyStyle	5
+Studebaker Sky Hawk	bodyStyle	2
+Dodge Omni 024	bodyStyle	3
+Fiat Panorama	bodyStyle	2
+Ford Escort	bodyStyle	3
+Ford Escort	bodyStyle	5
+Ford Escort	bodyStyle	4
+Ford Escort	bodyStyle	2
+Ford Escort	bodyStyle	2
+Ford Escort	bodyStyle	3
+Ford Escort	bodyStyle	4
+Ford Escort	bodyStyle	5
+Mitsubishi 380	bodyStyle	4
+Proton Satria	bodyStyle	3
+Suzuki Jimny	bodyStyle	2
+Alpine A310	bodyStyle	Coupé
+Renault Avantime	bodyStyle	3
+Renault Estafette	bodyStyle	4
+Renault Estafette	bodyStyle	2
+Dodge St. Regis	bodyStyle	4
+Hyundai Lavita	bodyStyle	5
+SEAT Fura	bodyStyle	3
+SEAT Ronda	bodyStyle	5
+SEAT 128	bodyStyle	3
+SEAT 127	bodyStyle	3
+SEAT 127	bodyStyle	2
+SEAT 133	bodyStyle	Two-door saloon
+SEAT 124	bodyStyle	4
+SEAT 124	bodyStyle	5
+SEAT 1430	bodyStyle	4
+SEAT Inca	bodyStyle	3
+International Harvester Scout	bodyStyle	2
+Triumph TR5	bodyStyle	Roadster
+Ford Fairlane	bodyStyle	4
+Ford Fairlane	bodyStyle	two-door hardtop
+Ford Fairlane	bodyStyle	two-door convertible
+Ford Fairlane	bodyStyle	two-door sedan
+Ford Fairlane	bodyStyle	four-door sedan
+Ford Fairlane	bodyStyle	four-door hardtop
+Ford Fairlane	bodyStyle	two-door station wagon
+Ford Fairlane	bodyStyle	four-door station wagon
+Ford Fairlane	bodyStyle	4
+Triumph TR4A	bodyStyle	2
+Fiat 124 Sport Spider	bodyStyle	2
+Autobianchi A112	bodyStyle	3
+Checker Marathon	bodyStyle	4
+Checker Marathon	bodyStyle	5
+Scania OmniCity	bodyStyle	Single-decker bus
+Scania OmniCity	bodyStyle	Double-decker bus
+Scania OmniCity	bodyStyle	City bus
+Perodua Kancil	bodyStyle	5
+Lotus Carlton	bodyStyle	4
+Mercedes-Benz Vaneo	bodyStyle	5
+Toyota Paseo	bodyStyle	2
+Alfa Romeo GTV and Spider	bodyStyle	Coupé
+Alfa Romeo GTV and Spider	bodyStyle	Roadster
+Honda FR-V	bodyStyle	5
+Alfa Romeo GT	bodyStyle	2
+Goggomobil	bodyStyle	2
+Goggomobil	bodyStyle	Van
+Goggomobil	bodyStyle	Pickup truck
+Goggomobil	bodyStyle	Roadster
+Jaguar S-Type	bodyStyle	4
+Eagle Vista	bodyStyle	4
+Eagle Vista	bodyStyle	3
+FMR Tg500	bodyStyle	bubble-top coupé, convertible, or roadster; two seats in tandem.
+Bentley Eight	bodyStyle	4
+Bentley Mulsanne	bodyStyle	4
+Bentley S1	bodyStyle	4
+Bentley S1	bodyStyle	2
+Bentley S1	bodyStyle	or drophead coupé
+Morgan Aero 8	bodyStyle	2
+Saleen S7	bodyStyle	2
+Alpine A110	bodyStyle	2
+Saturn Outlook	bodyStyle	5
+TVR Sagaris	bodyStyle	2
+Mercury Marquis	bodyStyle	2
+Mercury Marquis	bodyStyle	4
+Mercury Marquis	bodyStyle	5
+Plymouth Satellite	bodyStyle	2
+Plymouth Satellite	bodyStyle	Convertible
+Plymouth Satellite	bodyStyle	Hardtop
+Plymouth Satellite	bodyStyle	4
+Plymouth Satellite	bodyStyle	Sedan
+Plymouth Satellite	bodyStyle	Station wagon
+Plymouth Satellite	bodyStyle	Coupe
+Alfa Romeo Giulia	bodyStyle	4
+Plymouth Acclaim	bodyStyle	4
+Jensen-Healey	bodyStyle	2
+30	bodyStyle	5
+Renault Safrane	bodyStyle	5
+Renault 15 and 17	bodyStyle	2
+Renault 6	bodyStyle	5
+Renault 18	bodyStyle	4
+Renault 18	bodyStyle	5
+Noble M14	bodyStyle	2
+Noble M400	bodyStyle	2
+Lancia Thesis	bodyStyle	4
+Lancia Ypsilon	bodyStyle	3
+Lancia Ypsilon	bodyStyle	5
+Renault Dauphine	bodyStyle	4
+Renault 4CV	bodyStyle	4
+Landwind X6	bodyStyle	3
+Landwind X6	bodyStyle	5
+Renault Juvaquatre	bodyStyle	2
+Renault Juvaquatre	bodyStyle	4
+Mercedes-Benz Vario	bodyStyle	3
+Opel Manta	bodyStyle	2
+Opel Manta	bodyStyle	3
+International XT	bodyStyle	2
+Bristol Type 603	bodyStyle	2
+Ford Taurus SHO	bodyStyle	4
+Austin FX4	bodyStyle	2
+Austin FX4	bodyStyle	4
+Kia Picanto	bodyStyle	5
+Kia Picanto	bodyStyle	3
+Fiat Barchetta	bodyStyle	Roadster
+Toyota Crown	bodyStyle	Sedan
+Toyota Crown	bodyStyle	4
+Toyota Crown	bodyStyle	Hardtop Coupe
+Toyota Crown	bodyStyle	2
+Toyota Crown	bodyStyle	coupe
+Toyota Crown	bodyStyle	Station Wagon
+Toyota Crown	bodyStyle	Coupé utility
+Toyota Crown	bodyStyle	Sedan
+Toyota Crown	bodyStyle	Station wagon
+Toyota Crown	bodyStyle	Coupe utility
+Toyota Crown	bodyStyle	Coupé
+Toyota Crown	bodyStyle	5
+Toyota Crown	bodyStyle	/
+Toyota Crown	bodyStyle	Van
+Toyota Crown	bodyStyle	Pillar
+Toyota Crown	bodyStyle	Hardtop
+Toyota Crown	bodyStyle	Coupe
+Honda HR-V	bodyStyle	3
+Honda HR-V	bodyStyle	5
+Renault Caravelle	bodyStyle	2
+Chrysler Turbine Car	bodyStyle	2
+SsangYong Korando	bodyStyle	3
+SsangYong Korando	bodyStyle	5
+Cadillac Sixteen	bodyStyle	4
+Renault Frégate	bodyStyle	4
+Renault Frégate	bodyStyle	5
+Škoda Felicia	bodyStyle	5
+Škoda Felicia	bodyStyle	2
+Alfa Romeo 166	bodyStyle	4
+Willys Aero	bodyStyle	2
+Willys Aero	bodyStyle	4
+Messerschmitt KR175	bodyStyle	1
+Brütsch Mopetta	bodyStyle	Convertible
+SsangYong Musso	bodyStyle	5
+Peugeot Pars	bodyStyle	4
+Toyota Avanza	bodyStyle	5
+Volkswagen Eos	bodyStyle	2
+Lamborghini Espada	bodyStyle	2
+Shanghai SH760	bodyStyle	4
+Chrysler Norseman	bodyStyle	2
+Pontiac Star Chief	bodyStyle	2
+Pontiac Star Chief	bodyStyle	4
+Thames Trader	bodyStyle	2
+Plymouth GTX	bodyStyle	2
+Tata Sumo	bodyStyle	5
+Oldsmobile Vista Cruiser	bodyStyle	Station Wagon
+Lancia Dedra	bodyStyle	4
+Lancia Dedra	bodyStyle	5
+Hyundai Grandeur	bodyStyle	4
+Opel Antara	bodyStyle	5
+ULTRA AP	bodyStyle	Armored car
+BMW 507	bodyStyle	2
+Toyota Noah	bodyStyle	5
+Chevrolet Brookwood	bodyStyle	4
+Chevrolet Brookwood	bodyStyle	2
+Chevrolet Brookwood	bodyStyle	Station wagon
+Lamborghini Islero	bodyStyle	2
+Ford Mustang SVO	bodyStyle	3
+Hyundai Galloper	bodyStyle	5
+Hyundai Trajet	bodyStyle	5
+Honda S800	bodyStyle	2
+Lamborghini 350 GT	bodyStyle	2
+Peugeot 207	bodyStyle	3
+Peugeot 207	bodyStyle	5
+Peugeot 207	bodyStyle	2
+Peugeot 207	bodyStyle	4
+Studebaker Flight Hawk	bodyStyle	Coupé
+Ford Fusion	bodyStyle	5
+Ford Fusion	bodyStyle	4
+Volvo 700 Series	bodyStyle	4
+Volvo 700 Series	bodyStyle	5
+Volvo 700 Series	bodyStyle	2
+Alfa Romeo 2000	bodyStyle	4
+Alfa Romeo 2000	bodyStyle	Sedan
+Alfa Romeo 2000	bodyStyle	2
+Alfa Romeo 2000	bodyStyle	Convertible
+Alfa Romeo 2000	bodyStyle	Coupé
+1957 Chevrolet	bodyStyle	2
+1957 Chevrolet	bodyStyle	4
+Toyota HiAce	bodyStyle	Pick-up, double cab, van, minibus
+Toyota HiAce	bodyStyle	2
+Toyota HiAce	bodyStyle	4
+Toyota HiAce	bodyStyle	3
+Rolls-Royce Camargue	bodyStyle	2
+Venturi Fétish	bodyStyle	2
+Mitsubishi i	bodyStyle	5
+Hyundai Aero	bodyStyle	Single-deck coach
+Hyundai RB	bodyStyle	Single-deck coach
+Citroën C-Crosser	bodyStyle	5
+Škoda 120	bodyStyle	4
+Dodge Nitro	bodyStyle	4
+Škoda 130	bodyStyle	4
+Gordon-Keeble	bodyStyle	2
+Lamborghini Jarama	bodyStyle	2
+Lamborghini Silhouette	bodyStyle	2
+Lamborghini Urraco	bodyStyle	2
+Cadillac Cien	bodyStyle	2
+De Tomaso Mangusta	bodyStyle	2
+Peugeot 304	bodyStyle	4
+Peugeot 304	bodyStyle	2
+Mitsubishi Endeavor	bodyStyle	5
+Pontiac Pathfinder	bodyStyle	4
+Chrysler Town & Country	bodyStyle	4
+Chrysler Town & Country	bodyStyle	2
+Chrysler Town & Country	bodyStyle	Station wagon
+Chrysler Town & Country	bodyStyle	Hardtop
+Chrysler Town & Country	bodyStyle	Convertible
+Mercedes-Benz W111	bodyStyle	4
+Mercedes-Benz W111	bodyStyle	2
+Alfa Romeo Sprint	bodyStyle	3
+Jaguar Mark 2	bodyStyle	4
+Clan	bodyStyle	2
+Wayne Busette	bodyStyle	School bus
+Wayne Busette	bodyStyle	commercial shuttle bus
+A610	bodyStyle	2
+Neoplan Transliner	bodyStyle	Single-deck inter-urban coach
+Toyota Comfort	bodyStyle	4
+Chrysler Airflow	bodyStyle	4
+Chrysler Airflow	bodyStyle	2
+Gumpert Apollo	bodyStyle	2
+Audi Avus quattro	bodyStyle	2
+Wayne Lifeguard	bodyStyle	School bus
+Wayne Lifeguard	bodyStyle	Commercial bus
+Daewoo Tacuma	bodyStyle	5
+Ford Edge	bodyStyle	5
+Volvo B10M	bodyStyle	Single-decker bus
+Volvo B10M	bodyStyle	Articulated bus
+Volvo B10M	bodyStyle	Intercity bus
+Volvo B10M	bodyStyle	Double-decker bus
+Volvo B58	bodyStyle	Single-decker bus
+Volvo B58	bodyStyle	Coach
+Volvo B58	bodyStyle	Articulated bus
+NSU Prinz	bodyStyle	2
+Panhard PL 17	bodyStyle	4
+Panhard PL 17	bodyStyle	2
+Ford LTD Crown Victoria	bodyStyle	2
+Ford LTD Crown Victoria	bodyStyle	4
+Mercedes-Benz GL-Class	bodyStyle	5
+Tata Ace	bodyStyle	Pickup truck
+Mako Shark	bodyStyle	2
+Lancia Prisma	bodyStyle	4
+Q60)	bodyStyle	4
+Q60)	bodyStyle	2
+Tornado Cars	bodyStyle	2
+Dacia Solenza	bodyStyle	5
+Ford Model 91	bodyStyle	4
+Citroën Type A	bodyStyle	Torpedo
+Citroën Type A	bodyStyle	\
+Citroën Type A	bodyStyle	\
+Citroën Type A	bodyStyle	\
+Saab 9-4X	bodyStyle	5
+Acura CSX	bodyStyle	4
+Renault Rodeo	bodyStyle	2
+Alfa Romeo Alfa 6	bodyStyle	4
+SS 90	bodyStyle	Tourer, 4-seat Coupé
+Škoda 100	bodyStyle	4
+MG Y-type	bodyStyle	4
+Audi Avantissimo	bodyStyle	5
+Peugeot 604	bodyStyle	4
+Subaru 1000	bodyStyle	2
+Subaru 1000	bodyStyle	4
+Subaru 1000	bodyStyle	5
+Suzuki Fronte	bodyStyle	3
+Suzuki Fronte	bodyStyle	5
+Morgan +4	bodyStyle	2
+Maserati Merak	bodyStyle	2
+Maserati Kyalami	bodyStyle	4
+Maserati Khamsin	bodyStyle	2
+Maserati Biturbo	bodyStyle	2
+Maserati Biturbo	bodyStyle	4
+Ruf CTR2	bodyStyle	2
+Mini	bodyStyle	2
+Alfa Romeo GTA	bodyStyle	2
+Alfa Romeo Montreal	bodyStyle	2
+Alfa Romeo 90	bodyStyle	4
+Premier Padmini	bodyStyle	4
+Jaguar XK140	bodyStyle	2
+Jaguar XK120	bodyStyle	2
+Toyota Belta	bodyStyle	4
+Ascari KZ1	bodyStyle	Berlinetta
+Cadillac Series 65	bodyStyle	4
+Ascari Ecosse	bodyStyle	2
+Mercedes-Benz Ponton	bodyStyle	* 4-Door
+Mercedes-Benz Ponton	bodyStyle	Sedan
+Mercedes-Benz Ponton	bodyStyle	Limousine
+Mercedes-Benz Ponton	bodyStyle	* 2-Door
+Mercedes-Benz Ponton	bodyStyle	Coupe
+Mercedes-Benz Ponton	bodyStyle	Convertible
+Mercedes-Benz Ponton	bodyStyle	Pickup truck
+Mercedes-Benz Ponton	bodyStyle	Cab Chassis
+Mercedes-Benz Ponton	bodyStyle	Roadster
+Mercedes-Benz W189	bodyStyle	4
+Mercedes-Benz W188	bodyStyle	2
+Mercedes-Benz W112	bodyStyle	4
+Mercedes-Benz W112	bodyStyle	2
+Mercedes-Benz W186	bodyStyle	4
+Mercedes-Benz W187	bodyStyle	1951
+Mercedes-Benz W187	bodyStyle	1954
+Mercedes-Benz W136	bodyStyle	4
+Mercedes-Benz W136	bodyStyle	2
+Suzuki SX4	bodyStyle	4
+Suzuki SX4	bodyStyle	5
+MG ZT	bodyStyle	4
+MG ZT	bodyStyle	5
+Fiat Sedici	bodyStyle	5
+Matra Murena	bodyStyle	3
+Cadillac Le Mans	bodyStyle	2
+Citroën C-Airplay	bodyStyle	3
+Cizeta-Moroder V16T	bodyStyle	2
+Porsche 911 GT3	bodyStyle	2
+Lotus Europa S	bodyStyle	2
+Panther 6	bodyStyle	2
+Ruf CTR	bodyStyle	2
+Renault Samsung SM7	bodyStyle	4
+Ruf Rt 12	bodyStyle	2
+Dodge Polara	bodyStyle	4
+Dodge Polara	bodyStyle	2
+Lancia Musa	bodyStyle	5
+Plymouth Gran Fury	bodyStyle	4
+Plymouth Gran Fury	bodyStyle	2
+1	bodyStyle	Roadster
+Toyota Mark X	bodyStyle	4
+Škoda Rapid	bodyStyle	2
+Nissan NX	bodyStyle	2
+BMW M4	bodyStyle	2
+Nissan Presea	bodyStyle	4
+Jeep Patriot	bodyStyle	4
+Alfa Romeo Alfetta	bodyStyle	4
+Alfa Romeo Alfetta	bodyStyle	2
+SSC Aero	bodyStyle	2
+Daihatsu Hijet	bodyStyle	Van
+Daihatsu Hijet	bodyStyle	Pickup truck
+Austin 16 hp	bodyStyle	4
+Renault Wind	bodyStyle	2
+Audi Nuvolari quattro	bodyStyle	2
+Buick GL8	bodyStyle	5
+Mercedes-Benz 500E	bodyStyle	4
+Chevrolet Cobalt SS	bodyStyle	2
+Renault Argos	bodyStyle	Sport Coupe
+Porsche 908	bodyStyle	Coupé
+Porsche 908	bodyStyle	Roadster
+Mercury Meteor	bodyStyle	2
+Mercury Meteor	bodyStyle	4
+Rambler American	bodyStyle	2
+Rambler American	bodyStyle	Coupe
+Rambler American	bodyStyle	Station wagon
+Rambler American	bodyStyle	4
+Rambler American	bodyStyle	Sedan
+Rambler American	bodyStyle	Convertible
+Rambler American	bodyStyle	Hardtop
+Fiat 4 HP	bodyStyle	Vis-à-vis
+Lincoln Mark series	bodyStyle	2
+Lincoln Mark series	bodyStyle	4
+Fiat Zero	bodyStyle	Torpedo
+Citroën Xsara Picasso	bodyStyle	5
+Jensen C-V8	bodyStyle	2
+Suzuki Twin	bodyStyle	2
+MG P-type	bodyStyle	2
+MG P-type	bodyStyle	Airline coupé
+Reliant Sabre	bodyStyle	2
+Isuzu Panther	bodyStyle	5
+Isuzu Panther	bodyStyle	2
+Lincoln MKX	bodyStyle	5
+Ford Mustang SSP	bodyStyle	2
+Chrysler Newport	bodyStyle	4
+Chrysler Newport	bodyStyle	2
+Fiat 508	bodyStyle	4
+Fiat 508	bodyStyle	2
+Chrysler Valiant Charger	bodyStyle	2
+GMC B-Series	bodyStyle	Cowled chassis\n*school bus\n*commercial bus
+Lincoln MKS	bodyStyle	4
+Armstrong Siddeley Sapphire	bodyStyle	4
+Armstrong Siddeley Sapphire	bodyStyle	limousine
+Toyota Camry	bodyStyle	2
+Toyota Camry	bodyStyle	4
+Toyota Camry	bodyStyle	5
+Nissan R'nessa	bodyStyle	5
+Volkswagen Vento	bodyStyle	4
+Aston Martin Rapide	bodyStyle	4
+Geely CK	bodyStyle	4
+Geely CD	bodyStyle	2
+Geely HQ	bodyStyle	5
+Geely PU	bodyStyle	2
+Geely MR	bodyStyle	5
+Geely MR	bodyStyle	4
+Maple Marindo	bodyStyle	4
+Geely BL	bodyStyle	2
+Lincoln MK9	bodyStyle	2
+Lincoln Navicross	bodyStyle	4
+Fiat Grande Punto	bodyStyle	3
+Nash 600	bodyStyle	2
+Nash 600	bodyStyle	Coupé
+Nash 600	bodyStyle	Sedan
+Nash 600	bodyStyle	4
+Nash 600	bodyStyle	Fastback
+Nash 600	bodyStyle	sedan
+Austin 3-Litre	bodyStyle	4
+Austin 3-Litre	bodyStyle	5
+Jaguar XJR-9	bodyStyle	Coupé
+Aston Martin DB7 Zagato	bodyStyle	2
+Jeep Cherokee	bodyStyle	2
+Jeep Cherokee	bodyStyle	4
+Jeep Cherokee	bodyStyle	2
+Jeep Cherokee	bodyStyle	SUV
+Jeep Cherokee	bodyStyle	4
+Proton Persona	bodyStyle	2
+Proton Persona	bodyStyle	3
+Proton Persona	bodyStyle	4
+Proton Persona	bodyStyle	5
+Bentley Brooklands	bodyStyle	4
+Bentley Brooklands	bodyStyle	2
+Dodge Charger	bodyStyle	3
+Dodge Charger	bodyStyle	4
+Dodge Charger	bodyStyle	2
+Facel Vega Excellence	bodyStyle	4
+Daimler 250	bodyStyle	4
+Moskvitch 412	bodyStyle	4
+Moskvitch 412	bodyStyle	Sedan
+Moskvitch 412	bodyStyle	3
+Moskvitch 412	bodyStyle	Station wagon
+Moskvitch 412	bodyStyle	Van
+Moskvitch 412	bodyStyle	2
+Moskvitch 412	bodyStyle	Pickup truck
+Moskvitch 402	bodyStyle	4
+Moskvitch 402	bodyStyle	Sedan
+Moskvitch 402	bodyStyle	5
+Moskvitch 402	bodyStyle	Station wagon
+Moskvitch 402	bodyStyle	3
+Moskvitch 402	bodyStyle	Sedan delivery
+Moskvitch G5	bodyStyle	Open wheel
+Fiat 132	bodyStyle	4
+Fiat Argenta	bodyStyle	4
+Saturn Curve	bodyStyle	2
+MG J-type	bodyStyle	2
+MG J-type	bodyStyle	Salonette
+Bentley S2	bodyStyle	2
+Bentley S2	bodyStyle	4
+Bentley R Type	bodyStyle	Standard 4-door saloon; otherwise as arranged with coachbuilder by customer
+Bentley Mark VI	bodyStyle	4
+Bentley Mark VI	bodyStyle	2
+Bentley Mark VI	bodyStyle	chassis only
+Bentley S3	bodyStyle	4
+Bentley Continental	bodyStyle	4
+Bentley Continental	bodyStyle	2
+Bentley Turbo R	bodyStyle	4
+Rolls-Royce Silver Spirit	bodyStyle	4
+BMW 700	bodyStyle	2
+Rolls-Royce Phantom VI	bodyStyle	Limousines and other styles to buyer's choice
+Rolls-Royce Silver Wraith	bodyStyle	4
+Rolls-Royce Phantom V	bodyStyle	4
+Rolls-Royce Corniche	bodyStyle	2
+Rolls-Royce Phantom I	bodyStyle	4
+Bentley Azure	bodyStyle	2
+Aptera Motors	bodyStyle	2
+Opperman	bodyStyle	2
+Mitsubishi Grandis	bodyStyle	5
+Honda Airwave	bodyStyle	5
+Lamborghini 400 GT	bodyStyle	2
+Pontiac Executive	bodyStyle	2
+Pontiac Executive	bodyStyle	4
+Pontiac Chieftain	bodyStyle	2
+Pontiac Chieftain	bodyStyle	4
+Chevrolet Nomad	bodyStyle	2
+Chevrolet Nomad	bodyStyle	4
+Lagonda 2.6-Litre	bodyStyle	4
+Lagonda 2.6-Litre	bodyStyle	2
+Lagonda 3-Litre	bodyStyle	2
+Lagonda 3-Litre	bodyStyle	4
+Toyota ist	bodyStyle	5
+Pontiac Grand Ville	bodyStyle	4
+Pontiac Grand Ville	bodyStyle	2
+Honda Acty	bodyStyle	5
+Honda Acty	bodyStyle	2
+Ford Model AA	bodyStyle	AA – chassis 131½\
+Ford Model AA	bodyStyle	157.0
+Ford Model AA	bodyStyle	AA – Dual Chassis 131½\
+Ford Model AA	bodyStyle	AA – Dual
+Ford Model AA	bodyStyle	Ambulance
+Ford Model AA	bodyStyle	Funeral Coach
+Ford Model AA	bodyStyle	Mail Truck
+Ford Model AA	bodyStyle	Panel Truck
+Ford Model AA	bodyStyle	Pickup 131 ½\
+Ford Model AA	bodyStyle	Deluxe Pickup 131½\
+Ford Model AA	bodyStyle	Express Pickup 131½\
+Ford Model AA	bodyStyle	Service Pickup 131½\
+Ford Model AA	bodyStyle	Platform Truck
+Ford Model AA	bodyStyle	Stake Truck
+Lamborghini 350GTV	bodyStyle	2
+Alfa Romeo 2600	bodyStyle	4
+Alfa Romeo 2600	bodyStyle	2
+Alfa Romeo 1750 Berlina	bodyStyle	4
+Ford D186 platform	bodyStyle	4
+Ford D186 platform	bodyStyle	3
+Saturn Relay	bodyStyle	4
+Mazda CX-9	bodyStyle	5
+Audi Shooting Brake	bodyStyle	2
+GM G platform	bodyStyle	4
+GM G platform	bodyStyle	2
+GM G platform	bodyStyle	4
+GM G platform	bodyStyle	2
+GM H platform	bodyStyle	2
+GM H platform	bodyStyle	4
+GM H platform	bodyStyle	2
+Audi Roadjet	bodyStyle	5
+GM K platform	bodyStyle	4
+GM A platform	bodyStyle	2
+GM A platform	bodyStyle	4
+GM K platform	bodyStyle	4
+Lincoln MKZ	bodyStyle	4
+Tata Xover	bodyStyle	5
+Ferrari 288 GTO	bodyStyle	2
+Chevrolet Greenbrier	bodyStyle	4
+Chevrolet Kodiak	bodyStyle	2
+Chevrolet Kodiak	bodyStyle	4
+Toyota Aurion	bodyStyle	4
+Bristol 400	bodyStyle	2
+Chevrolet SS	bodyStyle	4
+CMC Zinger	bodyStyle	5
+Willys-Knight	bodyStyle	4
+Willys-Knight	bodyStyle	2
+Mitsubishi Triton	bodyStyle	2
+Mitsubishi Triton	bodyStyle	4
+Mitsubishi Triton	bodyStyle	5
+Lincoln Cosmopolitan	bodyStyle	2
+Lincoln Cosmopolitan	bodyStyle	4
+Morris Cowley	bodyStyle	2
+Morris Cowley	bodyStyle	4
+Henry J	bodyStyle	2
+GKD Evolution	bodyStyle	2
+Lincoln Custom	bodyStyle	Limousine
+Lincoln Custom	bodyStyle	4
+Lamborghini Marco Polo	bodyStyle	MR 2+2 coupe
+Lincoln Premiere	bodyStyle	2
+Lincoln Premiere	bodyStyle	4
+Lincoln Capri	bodyStyle	2
+Lincoln Capri	bodyStyle	4
+Lamborghini Calà	bodyStyle	2
+Morris Eight	bodyStyle	2
+Morris Eight	bodyStyle	4
+Morris Eight	bodyStyle	5
+GM New Look bus	bodyStyle	Monocoque
+Honda N360	bodyStyle	2
+Honda N360	bodyStyle	3
+Honda Life	bodyStyle	2
+Honda Life	bodyStyle	3
+Honda Life	bodyStyle	5
+Dodge Hornet	bodyStyle	5
+Mercedes-Benz T2	bodyStyle	Van
+Mercedes-Benz T2	bodyStyle	Pickup truck
+Mercedes-Benz T2	bodyStyle	Minibus
+TVR Griffith	bodyStyle	2
+Lotus Mark VI	bodyStyle	Roadster
+Buick Velite	bodyStyle	2
+Citroën C-Triomphe	bodyStyle	4
+Citroën Fukang	bodyStyle	4
+Citroën Fukang	bodyStyle	5
+Citroën Fukang	bodyStyle	2
+Smart Roadster	bodyStyle	2
+Nanjing Yuejin Soyat	bodyStyle	5
+Nanjing Yuejin Soyat	bodyStyle	4
+Dacia Pick-Up	bodyStyle	2
+Dacia Pick-Up	bodyStyle	4
+Nissan Leopard	bodyStyle	2
+Nissan Leopard	bodyStyle	4
+Nissan Note	bodyStyle	5
+Saab Aero-X	bodyStyle	1
+Cadillac CTS-V	bodyStyle	4
+Cadillac CTS-V	bodyStyle	Sedan
+Cadillac CTS-V	bodyStyle	5
+Cadillac CTS-V	bodyStyle	Station wagon
+Cadillac CTS-V	bodyStyle	2
+Cadillac CTS-V	bodyStyle	Coupe
+Toyota Fortuner	bodyStyle	4
+MG F-type	bodyStyle	2
+Volkswagen Taro	bodyStyle	Pickup truck
+Spyker C8	bodyStyle	2
+Ford Reflex	bodyStyle	2
+Honda Civic Si	bodyStyle	2
+Honda Civic Si	bodyStyle	4
+Nissan Presage	bodyStyle	5
+Chevrolet Corvette	bodyStyle	2
+Chevrolet Corvette	bodyStyle	Coupé
+Chevrolet Corvette	bodyStyle	Convertible
+Chevrolet Corvette	bodyStyle	Hardtop
+Chevrolet Corvette	bodyStyle	2
+Chevrolet Corvette	bodyStyle	2
+Chevrolet Corvette	bodyStyle	Convertible
+Chevrolet Corvette	bodyStyle	Coupé
+Mitsubishi Space Star	bodyStyle	5
+Mazdaspeed3	bodyStyle	5
+Ford S-Max	bodyStyle	5
+DeSoto Fireflite	bodyStyle	2
+DeSoto Fireflite	bodyStyle	4
+DeSoto Firesweep	bodyStyle	4
+DeSoto Firesweep	bodyStyle	2
+DeSoto Firedome	bodyStyle	2
+DeSoto Firedome	bodyStyle	4
+115 Series Coupés	bodyStyle	2
+Nissan 180SX	bodyStyle	Front-engine, rear-wheel drive layout
+Nissan 180SX	bodyStyle	Coupé
+Nissan 180SX	bodyStyle	3
+Koenigsegg CCX	bodyStyle	2
+DeSoto Powermaster	bodyStyle	2
+DeSoto Powermaster	bodyStyle	4
+DeSoto Airflow	bodyStyle	2
+DeSoto Airflow	bodyStyle	4
+Honda T360	bodyStyle	2
+Honda Vamos	bodyStyle	2
+Honda S500	bodyStyle	2
+Honda S360	bodyStyle	2
+Honda L700	bodyStyle	3
+Honda 1300	bodyStyle	2
+Honda 1300	bodyStyle	4
+DeSoto Airstream	bodyStyle	2
+DeSoto Airstream	bodyStyle	4
+DeSoto Custom	bodyStyle	2
+DeSoto Custom	bodyStyle	4
+DeSoto Deluxe	bodyStyle	2
+DeSoto Deluxe	bodyStyle	4
+Jiotto Caspita	bodyStyle	2
+Alfa Romeo 1900	bodyStyle	4
+Alfa Romeo 1900	bodyStyle	Sedan
+Alfa Romeo 1900	bodyStyle	2
+Alfa Romeo 1900	bodyStyle	Coupé
+Alfa Romeo 1900	bodyStyle	Convertible
+Opel Trixx	bodyStyle	5
+Dodge Ram SRT-10	bodyStyle	Pickup truck
+Tata Sierra	bodyStyle	3
+Ford Shelby Cobra Concept	bodyStyle	2
+Rambler Classic	bodyStyle	2
+Rambler Classic	bodyStyle	Sedan
+Rambler Classic	bodyStyle	4
+Rambler Classic	bodyStyle	Station wagon
+Rambler Classic	bodyStyle	Hardtop
+Rambler Classic	bodyStyle	5
+Rambler Classic	bodyStyle	Convertible
+Cadillac STS-V	bodyStyle	4
+GMT900	bodyStyle	4
+GMT900	bodyStyle	2
+GMT800	bodyStyle	4
+GMT800	bodyStyle	2
+EDAG Biwak	bodyStyle	2
+Tramontana	bodyStyle	2
+Mazda BT-50	bodyStyle	2
+Mazda BT-50	bodyStyle	4
+Mazda BT-50	bodyStyle	5
+Chrysler ME Four-Twelve	bodyStyle	2
+Smart Forfour	bodyStyle	5
+Smart Fortwo	bodyStyle	3
+Smart Fortwo	bodyStyle	2
+Volkswagen GX3	bodyStyle	3
+Spyker D8	bodyStyle	5
+Zastava Florida	bodyStyle	5
+Zastava Florida	bodyStyle	2
+AEC Q-type	bodyStyle	Single- or Double-decker
+Alfa Romeo Giulietta	bodyStyle	5
+Fiat 850	bodyStyle	2
+Fiat 850	bodyStyle	Sedan
+Fiat 850	bodyStyle	Coupé
+Fiat 850	bodyStyle	Roadster
+Fiat 850	bodyStyle	Van
+Joss JP1	bodyStyle	2
+Packard Patrician	bodyStyle	Sedan
+Rumpler Tropfenwagen	bodyStyle	Sedan
+Caterham 21	bodyStyle	Roadster
+Pontiac Grand Safari	bodyStyle	4
+Range Rover Classic	bodyStyle	3
+Range Rover Classic	bodyStyle	5
+Mazda Kabura	bodyStyle	3
+Rambler Rebel	bodyStyle	4
+Rambler Rebel	bodyStyle	Sedan
+Rambler Rebel	bodyStyle	Station wagon
+Rambler Rebel	bodyStyle	2
+Rambler Rebel	bodyStyle	Convertible
+Rambler Rebel	bodyStyle	Coupe
+Rambler Rebel	bodyStyle	Hardtop
+Rambler Rebel	bodyStyle	Sedan
+BMW Turbo	bodyStyle	2
+Packard 200	bodyStyle	200
+Packard 200	bodyStyle	2
+Packard 200	bodyStyle	Coupé
+Packard 200	bodyStyle	4
+Packard 200	bodyStyle	Sedan
+Packard 200	bodyStyle	250
+Packard 200	bodyStyle	Hardtop
+Packard 200	bodyStyle	Convertible
+Packard Caribbean	bodyStyle	2
+Packard One-Twenty	bodyStyle	2
+Packard One-Twenty	bodyStyle	Coupé
+Packard One-Twenty	bodyStyle	Convertible
+Packard One-Twenty	bodyStyle	Sedan
+Packard One-Twenty	bodyStyle	4
+Packard One-Twenty	bodyStyle	Station wagon
+Hudson Hornet	bodyStyle	2
+Hudson Hornet	bodyStyle	Coupé
+Hudson Hornet	bodyStyle	Sedan
+Hudson Hornet	bodyStyle	4
+Hudson Hornet	bodyStyle	Hardtop
+Hudson Hornet	bodyStyle	Convertible
+Škoda 1000 MB	bodyStyle	4
+Škoda 1000 MB	bodyStyle	2
+Dodge Sidewinder	bodyStyle	2
+Honda S-MX	bodyStyle	Compact MPV
+Hudson Italia	bodyStyle	2
+Hudson Greater Eight	bodyStyle	2
+Hudson Greater Eight	bodyStyle	4
+Hudson Greater Eight	bodyStyle	Roadster
+Volvo Venus Bilo	bodyStyle	4
+Volvo LCP2000	bodyStyle	3
+Hudson Wasp	bodyStyle	2
+Hudson Wasp	bodyStyle	4
+Hudson Commodore	bodyStyle	2
+Hudson Commodore	bodyStyle	4
+Mitsubishi Galant VR-4	bodyStyle	4
+Mitsubishi Galant VR-4	bodyStyle	5
+Mercedes-Benz W180	bodyStyle	4
+Mercedes-Benz W180	bodyStyle	2
+Nissan Rasheen	bodyStyle	5
+Edsel Citation	bodyStyle	2
+Edsel Citation	bodyStyle	4
+Edsel Bermuda	bodyStyle	4
+Edsel Corsair	bodyStyle	2
+Edsel Corsair	bodyStyle	4
+Edsel Roundup	bodyStyle	2
+Edsel Pacer	bodyStyle	2
+Edsel Pacer	bodyStyle	4
+McLaren F1 LM	bodyStyle	2
+Edsel Ranger	bodyStyle	2
+Edsel Ranger	bodyStyle	4
+Edsel Villager	bodyStyle	4
+Chrysler Akino	bodyStyle	5
+Boss 302 Mustang	bodyStyle	2
+International Harvester Travelall	bodyStyle	3
+Mercedes-Benz E-Class	bodyStyle	4
+Mercedes-Benz E-Class	bodyStyle	5
+Toyota Vios	bodyStyle	4
+Nissan Qashqai	bodyStyle	5
+Jaguar Mark IV	bodyStyle	4
+Jaguar Mark IV	bodyStyle	2
+Opel Signum	bodyStyle	5
+TVR Cerbera	bodyStyle	2
+Suzuki Mighty Boy	bodyStyle	2
+Opel Combo	bodyStyle	3
+Opel Combo	bodyStyle	4
+Ford F-650	bodyStyle	Commercial vehicle
+Ford F-650	bodyStyle	2
+Ford F-650	bodyStyle	4
+Morris Minor	bodyStyle	*4-seat 2-door fabric saloon\n*4-seat 2-door tourer\n*4-seat 2-door coachbuilt saloon\n*4-seat 4-door coachbuilt saloon\n*2-seat semi-sports\n* 2-seat 2-door S.V.\n*Special Coupé\n*5-cwt van
+Isuzu Florian	bodyStyle	4
+Isuzu Bellel	bodyStyle	4
+Pierce Silver Arrow	bodyStyle	Sedan
+Mercedes-Benz CLK GTR	bodyStyle	2
+Lincoln Sport	bodyStyle	2
+Isuzu Bellett	bodyStyle	2
+Isuzu Bellett	bodyStyle	Sedan
+Isuzu Bellett	bodyStyle	Coupé
+Isuzu Bellett	bodyStyle	Fastback
+Isuzu Bellett	bodyStyle	coupé
+Isuzu Bellett	bodyStyle	3
+Isuzu Bellett	bodyStyle	Van
+Isuzu Bellett	bodyStyle	Coupe utility
+Ford Starliner	bodyStyle	2
+Morgan Four Seater	bodyStyle	2
+Chrysler Phaeton	bodyStyle	4
+Isuzu 117 Coupé	bodyStyle	2
+Mercedes-Benz 190 SL	bodyStyle	Roadster
+Glasspar G2	bodyStyle	2
+Chery QQ3	bodyStyle	5
+Eurovans	bodyStyle	5
+Toyota Land Cruiser Prado	bodyStyle	5
+Toyota Land Cruiser Prado	bodyStyle	3
+Alfa Romeo 33 Stradale	bodyStyle	2
+Scion Fuse	bodyStyle	2
+GMT400	bodyStyle	4
+GMT400	bodyStyle	2
+Mercedes-Benz C-Class	bodyStyle	4
+Mercedes-Benz C-Class	bodyStyle	5
+Mercedes-Benz C-Class	bodyStyle	2
+Adam Revo	bodyStyle	5
+Daihatsu Applause	bodyStyle	5
+Peugeot 308	bodyStyle	3
+Peugeot 308	bodyStyle	4
+Peugeot 308	bodyStyle	5
+Peugeot 308	bodyStyle	2
+Daihatsu Pyzar	bodyStyle	5
+Porsche 911 GT2	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	3
+Ford Falcon	bodyStyle	5
+Naza Sutera	bodyStyle	5
+Mitsuoka Orochi	bodyStyle	2
+Rover 200 Coupé	bodyStyle	2
+Chevrolet 150	bodyStyle	2
+Chevrolet 150	bodyStyle	4
+Rhino Runner	bodyStyle	Bus
+4	bodyStyle	Roadster
+Holden EH	bodyStyle	4
+Holden EH	bodyStyle	5
+Holden EH	bodyStyle	2
+Ford Crown Victoria Police Interceptor	bodyStyle	4
+Hindustan Contessa	bodyStyle	4
+Mitsubishi 500	bodyStyle	2
+Lancia Kappa	bodyStyle	4
+Lancia Kappa	bodyStyle	5
+Lancia Kappa	bodyStyle	2
+Lancia Lybra	bodyStyle	4
+Lancia Lybra	bodyStyle	5
+Maserati 3500 GT	bodyStyle	2
+Aston Martin DBS V12	bodyStyle	2
+Lancia Gamma	bodyStyle	4
+Lancia Gamma	bodyStyle	2
+Ferrari 599 GTB Fiorano	bodyStyle	2
+ZAP Xebra	bodyStyle	5
+Lancia Flaminia	bodyStyle	4
+Lancia Flaminia	bodyStyle	2
+ERA Mini Turbo	bodyStyle	2
+Proton Putra	bodyStyle	2
+Proton Satria R3	bodyStyle	3
+Mitsubishi Model A	bodyStyle	4
+WiLL	bodyStyle	4
+WiLL	bodyStyle	5
+Nissan Almera Tino	bodyStyle	5
+Nissan Cherry	bodyStyle	2
+Nissan Cherry	bodyStyle	4
+Nissan Cherry	bodyStyle	3
+Nissan Cherry	bodyStyle	5
+Škoda Roomster	bodyStyle	5
+Volkswagen EA489 Basistransporter	bodyStyle	2
+Volkswagen Constellation	bodyStyle	Tractor unit, Chassis cab, Flatbed - all \
+MG K-type	bodyStyle	4
+MG K-type	bodyStyle	2
+Austin 10	bodyStyle	saloons:
+Austin 10	bodyStyle	4
+Austin 10	bodyStyle	Lichfield 1934–1937
+Austin 10	bodyStyle	Sherbourne 1936–1937
+Austin 10	bodyStyle	Cambridge 1937–1947
+Austin 10	bodyStyle	tourers:
+Austin 10	bodyStyle	2
+Austin 10	bodyStyle	sports:
+Austin 10	bodyStyle	Ripley 1934–1936
+Austin 10	bodyStyle	cabriolet:
+Austin 10	bodyStyle	Colwyn 1933–1937
+Austin 10	bodyStyle	Conway 1937–1939
+Austin 10	bodyStyle	van 1933–1947
+Aston Martin Short Chassis Volante	bodyStyle	2
+Mercedes-Benz CL-Class	bodyStyle	2
+Caparo T1	bodyStyle	1
+Mini Clubman	bodyStyle	3
+Mini Clubman	bodyStyle	4
+Delfino Feroce	bodyStyle	2
+Nissan Actic	bodyStyle	4
+Volvo PV 36 Carioca	bodyStyle	4
+Chery V5	bodyStyle	5
+Morris Six MS	bodyStyle	4
+TVR Cerbera Speed 12	bodyStyle	2
+Pontiac 2+2	bodyStyle	2
+Mégane Renault Sport	bodyStyle	3
+Mégane Renault Sport	bodyStyle	5
+Renault Fluence	bodyStyle	4
+Renault Fluence	bodyStyle	2
+Mitsubishi Cordia	bodyStyle	3
+Mitsubishi Tredia	bodyStyle	4
+Iso Grifo	bodyStyle	2
+Mitsubishi Delica	bodyStyle	3
+Mitsubishi Delica	bodyStyle	2
+Mitsubishi Delica	bodyStyle	4
+Clio Renault Sport	bodyStyle	3
+Clio Renault Sport	bodyStyle	5
+Mercury Eight	bodyStyle	2
+Mercury Eight	bodyStyle	4
+Tatra 77	bodyStyle	Limousine
+Nissan 300C	bodyStyle	4
+Nissan 300C	bodyStyle	5
+Zastava Skala	bodyStyle	3
+Zastava Skala	bodyStyle	5
+Zastava Skala	bodyStyle	2
+FPV F6	bodyStyle	4
+FPV F6	bodyStyle	2
+DAF 66	bodyStyle	2
+DAF 66	bodyStyle	3
+Renault Talisman	bodyStyle	4
+Renault Talisman	bodyStyle	5
+Renault Talisman	bodyStyle	3
+Mastretta Unidiseño	bodyStyle	2
+Pontiac Bonneville Special	bodyStyle	2
+MG L-type	bodyStyle	4
+MG L-type	bodyStyle	Continental coupé
+MG L-type	bodyStyle	Salonette
+BMW 303	bodyStyle	303315319
+BMW 303	bodyStyle	329
+BMW 303	bodyStyle	2
+BMW 303	bodyStyle	Roadster
+Pontiac Club de Mer	bodyStyle	2
+Chrysler 180	bodyStyle	4
+BMW 7 Series	bodyStyle	4
+Bow-V-Car	bodyStyle	Two seat open tourer
+Daimler Majestic Major	bodyStyle	4
+Cadillac Evoq	bodyStyle	Coupe
+TX1	bodyStyle	4
+Mitsubishi Fuso Aero Bus	bodyStyle	Single-deck coach
+Mitsubishi Fuso Aero Midi	bodyStyle	Single-decker bus
+Mitsubishi Fuso Aero Star	bodyStyle	Single-decker bus
+Jaguar XJ13	bodyStyle	Roadster
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	2
+Hyundai Aero Town	bodyStyle	Midibus
+Hyundai Aero City	bodyStyle	Bus
+Rambler Marlin	bodyStyle	Fastback 2-door pillarless hardtop
+Mitsubishi Debonair	bodyStyle	4
+Mitsubishi Dignity	bodyStyle	4
+Mitsubishi Proudia	bodyStyle	4
+Tesla Roadster	bodyStyle	2
+Renault Étoile Filante	bodyStyle	No-door monoposto streamliner car
+Jensen 541R	bodyStyle	2
+Ford 7W	bodyStyle	2
+Proton Juara	bodyStyle	5
+Fiat 500	bodyStyle	3
+Fiat 500	bodyStyle	2
+Bond Minicar	bodyStyle	Convertible
+Bond Minicar	bodyStyle	Convertible and Saloon Coupe
+Bond Minicar	bodyStyle	Convertible, Saloon Coupe, 4 seater Family Saloon and Ranger Van
+Bond Minicar	bodyStyle	Saloon, Estate, Ranger Van and Tourer
+Austin 12	bodyStyle	catalogued: tourer, saloon, sports coupé, Harley all-weather tourer, fabric saloon
+Austin 12	bodyStyle	special chassis for various—hire car, taxi, London taxi, van and other commercials
+Chevrolet Kingswood	bodyStyle	4
+Packard Super Eight	bodyStyle	2
+Packard Super Eight	bodyStyle	Coupé
+Packard Super Eight	bodyStyle	Convertible
+Packard Super Eight	bodyStyle	4
+Packard Super Eight	bodyStyle	Sedan
+Mercedes-Benz 260 D	bodyStyle	4
+Mercedes-Benz 260 D	bodyStyle	landaulette
+Mercedes-Benz 260 D	bodyStyle	Cabriolet
+Tofaş Şahin	bodyStyle	4
+AMC Rambler Tarpon	bodyStyle	2
+Alfa Romeo Nuvola	bodyStyle	Coupé
+Bertone Birusa	bodyStyle	2
+Triumph TR	bodyStyle	Roadster
+Ford Customline	bodyStyle	2
+Ford Customline	bodyStyle	4
+Caterpillar 797	bodyStyle	Dump truck
+Chery A11	bodyStyle	4
+Piaggio Ape	bodyStyle	Van
+Piaggio Ape	bodyStyle	Pickup truck
+Piaggio Ape	bodyStyle	Autorickshaw
+Buick Sport Wagon	bodyStyle	4
+Hyundai Global 900	bodyStyle	Bus
+Polski Fiat 125p	bodyStyle	4
+Polski Fiat 125p	bodyStyle	5
+Polski Fiat 125p	bodyStyle	2
+Chery QQ6	bodyStyle	4
+Renault Samsung SM3	bodyStyle	4
+Opel Kapitän	bodyStyle	2
+Opel Kapitän	bodyStyle	4
+Yamaha OX99-11	bodyStyle	1
+Fiat 1300 and 1500	bodyStyle	4
+Fiat 1300 and 1500	bodyStyle	5
+Fiat 1300 and 1500	bodyStyle	2
+Gill	bodyStyle	2
+Riley Nine	bodyStyle	4
+Riley Nine	bodyStyle	2
+Mercury Cyclone	bodyStyle	2
+1955 Dodge	bodyStyle	2
+1955 Dodge	bodyStyle	4
+Dodge Custom Royal	bodyStyle	4
+Dodge Custom Royal	bodyStyle	2
+1958 Dodge	bodyStyle	2
+1958 Dodge	bodyStyle	4
+Mitsubishi Freeca	bodyStyle	5
+Bolwell Nagari	bodyStyle	2
+Mitsubishi eK	bodyStyle	5
+Holden Commodore	bodyStyle	2
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	5
+Fiat 1400 and 1900	bodyStyle	4
+Fiat 1400 and 1900	bodyStyle	Sedan
+Fiat 1400 and 1900	bodyStyle	2
+Fiat 1400 and 1900	bodyStyle	Convertible
+Fiat 1400 and 1900	bodyStyle	Hardtop
+Fiat 1400 and 1900	bodyStyle	Coupé
+Fiat 2800	bodyStyle	4
+Fiat 509	bodyStyle	2
+Fiat 2300	bodyStyle	4
+Fiat 2300	bodyStyle	2
+Fiat 2300	bodyStyle	5
+Fiat 524	bodyStyle	4
+Noble M15	bodyStyle	2
+Fiat 514	bodyStyle	2
+Fiat 519	bodyStyle	4
+Fiat 518	bodyStyle	4
+Fiat 518	bodyStyle	Sedan
+Fiat 518	bodyStyle	Torpedo
+Fiat 518	bodyStyle	Sports sedan
+AMC Cavalier	bodyStyle	4
+Mitsubishi Galant GTO	bodyStyle	2
+Toyota AE85	bodyStyle	2
+Toyota AE85	bodyStyle	3
+Autobianchi A111	bodyStyle	4
+Tata Novus	bodyStyle	2
+Autobianchi Stellina	bodyStyle	2
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	5
+Holden Commodore	bodyStyle	2
+Volvo PV51	bodyStyle	4
+Toyota Porte	bodyStyle	3
+Toyota Porte	bodyStyle	5
+Toyota Succeed	bodyStyle	5
+Toyota Probox	bodyStyle	5
+Toyota Raum	bodyStyle	5
+Toyota Sienta	bodyStyle	5
+Citroën C4 Picasso	bodyStyle	5
+AMC AMX-GT	bodyStyle	Grand tourer
+AMC AMX-GT	bodyStyle	Coupé
+Hyundai Veracruz	bodyStyle	5
+Mitsubishi Dingo	bodyStyle	Minivan
+Simca Vedette	bodyStyle	4
+Simca Vedette	bodyStyle	5
+Simca Vedette	bodyStyle	2
+Beaumont	bodyStyle	4
+Beaumont	bodyStyle	2
+Nissan S-Cargo	bodyStyle	2
+Toyota Mega Cruiser	bodyStyle	4
+Ford C-Series	bodyStyle	Cab over
+Simca 1000	bodyStyle	4
+Qvale Mangusta	bodyStyle	Three-position coupe/targa/full convertible
+Ford Vedette	bodyStyle	4
+Ford Vedette	bodyStyle	5
+Ford Vedette	bodyStyle	2
+Simca Ariane	bodyStyle	4
+Citroën Osée	bodyStyle	1
+Austin Kimberley	bodyStyle	4
+Mazda CX-5	bodyStyle	5
+Honda Civic GX	bodyStyle	4
+Ford Model C Ten	bodyStyle	2
+1500	bodyStyle	4
+1500	bodyStyle	5
+Matra Bagheera	bodyStyle	3
+Callaway Cars	bodyStyle	Cabrio
+Callaway Cars	bodyStyle	Coupé
+Callaway Cars	bodyStyle	Speedster
+Ford Model A	bodyStyle	A – Chassis
+Ford Model A	bodyStyle	Convertible Sedan
+Ford Model A	bodyStyle	Business Coupe
+Ford Model A	bodyStyle	Coupe
+Ford Model A	bodyStyle	Deluxe Coupe
+Ford Model A	bodyStyle	Special Coupe
+Ford Model A	bodyStyle	'''Sport Coupe
+Ford Model A	bodyStyle	Standard Coupe
+Ford Model A	bodyStyle	Standard Fordor Sedan – Murray
+Ford Model A	bodyStyle	Standard Fordor Sedan – Briggs
+Ford Model A	bodyStyle	Deluxe Fordor Sedan – Murray
+Ford Model A	bodyStyle	'''Deluxe Fordor Sedan – Briggs
+Ford Model A	bodyStyle	Leatherback Fordor Sedan
+Ford Model A	bodyStyle	Standard Fordor Sedan – Slant windshield
+Ford Model A	bodyStyle	Mail Truck
+Ford Model A	bodyStyle	Panel Truck
+Ford Model A	bodyStyle	Phaeton 2-door
+Ford Model A	bodyStyle	Phaeton 4-door
+Ford Model A	bodyStyle	Deluxe Service Pickup
+Ford Model A	bodyStyle	Roadster Pickup
+Ford Model A	bodyStyle	Cabriolet
+Ford Model A	bodyStyle	Pickup
+Ford Model A	bodyStyle	Deluxe Pickup
+Ford Model A	bodyStyle	Standard Roadster
+Ford Model A	bodyStyle	Roadster Utility
+Ford Model A	bodyStyle	Deluxe Roadster
+Ford Model A	bodyStyle	Sport Roadster
+Ford Model A	bodyStyle	Station Wagon
+Ford Model A	bodyStyle	Taxi Cab
+Ford Model A	bodyStyle	Town Car
+Ford Model A	bodyStyle	Town Car Delivery
+Ford Model A	bodyStyle	Standard Tudor Sedan
+Ford Model A	bodyStyle	Deluxe Tudor Sedan
+Ford Model A	bodyStyle	Victoria
+Ford Model A	bodyStyle	Wood Panel Delivery
+Ford Model A	bodyStyle	Station wagon
+Ford Model A	bodyStyle	2
+Ford Model A	bodyStyle	rear-entry 4-seat tonneau
+Ford Model B	bodyStyle	2
+Ford Model 48	bodyStyle	2
+Ford Model 48	bodyStyle	4
+Daimler Conquest	bodyStyle	4
+Daimler Conquest	bodyStyle	Sedan
+Daimler Conquest	bodyStyle	2
+Daimler Conquest	bodyStyle	Drophead coupe
+Daimler Conquest	bodyStyle	Roadster
+1937 Ford	bodyStyle	2
+1937 Ford	bodyStyle	4
+Opel Admiral	bodyStyle	4
+Simca Aronde	bodyStyle	4
+Simca Aronde	bodyStyle	2
+Simca Aronde	bodyStyle	3
+Simca Aronde	bodyStyle	5
+Opel Super 6	bodyStyle	4
+Opel Super 6	bodyStyle	2
+Lincoln-Zephyr	bodyStyle	4
+Lincoln-Zephyr	bodyStyle	2
+Matra Rancho	bodyStyle	3
+Mitsubishi Town Box	bodyStyle	5
+Rover P3	bodyStyle	* 4-door 6-light saloon\n* 4-door 4-light sports saloon
+Mercer	bodyStyle	Roadster
+ZENN	bodyStyle	3
+1941 Ford	bodyStyle	2
+1941 Ford	bodyStyle	4
+1949 Ford	bodyStyle	2
+1949 Ford	bodyStyle	4
+1952 Ford	bodyStyle	2
+1952 Ford	bodyStyle	4
+1955 Ford	bodyStyle	2
+1955 Ford	bodyStyle	4
+1957 Ford	bodyStyle	2
+1957 Ford	bodyStyle	4
+Ford Crestline	bodyStyle	4
+Ford Crestline	bodyStyle	2
+De Luxe Ford	bodyStyle	2
+De Luxe Ford	bodyStyle	4
+Renault Towncar	bodyStyle	4
+Maserati Birdcage 75th	bodyStyle	1
+Volkswagen Concept A	bodyStyle	5
+Autovia	bodyStyle	chassis
+Autovia	bodyStyle	4
+Autovia	bodyStyle	6
+Autovia	bodyStyle	limousine
+Renault NN	bodyStyle	4
+Renault NN	bodyStyle	2
+Renault Vivastella	bodyStyle	4
+Renault Voiturette	bodyStyle	Two-passenger car
+Renault Voiturette	bodyStyle	2
+Renault Voiturette	bodyStyle	Four-passenger car
+Renault Voiturette	bodyStyle	Four-passenger convertible
+Renault Voiturette	bodyStyle	Semi-coupé car
+Mitsubishi Minicab	bodyStyle	Pickup truck
+Mitsubishi Minicab	bodyStyle	Microvan
+SsangYong Kyron	bodyStyle	5
+Sachsenring P240	bodyStyle	4
+Sachsenring P240	bodyStyle	5
+Mitsubishi Pistachio	bodyStyle	3
+Volkswagen Derby	bodyStyle	2
+Renault Taxi de la Marne	bodyStyle	4
+Renault Monasix	bodyStyle	4
+Renault Monasix	bodyStyle	2
+Renault Primaquatre	bodyStyle	4
+Renault Primaquatre	bodyStyle	2
+Citroën C-Métisse	bodyStyle	5
+Austin 8	bodyStyle	2
+Austin 8	bodyStyle	4
+Biscuter Pegasin	bodyStyle	Cabriolet
+Renault Nepta	bodyStyle	2
+Citroën Bijou	bodyStyle	2
+Honda Zest	bodyStyle	5
+Honda Capa	bodyStyle	5
+Daytona Sportscar	bodyStyle	2
+VAZ-2103	bodyStyle	4
+Mitsubishi Maven	bodyStyle	Minivan
+Mitsubishi Pajero Junior	bodyStyle	Mini SUV
+Mitsubishi Pajero iO	bodyStyle	3
+Mitsubishi Pajero iO	bodyStyle	5
+Suzuki APV	bodyStyle	5
+Vixen	bodyStyle	Recreational Vehicle
+P.K	bodyStyle	5
+Willys Jeep Station Wagon	bodyStyle	2
+Willys Jeep Station Wagon	bodyStyle	Station wagon
+Willys Jeep Station Wagon	bodyStyle	Panel van
+Willys Jeep Station Wagon	bodyStyle	Pickup truck
+Toyota Land Cruiser	bodyStyle	Troop carrier, 2-door and 4-door pick-up, 3-door and 4-door SUV
+Tatra 613	bodyStyle	4
+Tatra 700	bodyStyle	2
+Tatra 700	bodyStyle	4
+Mitsubishi RVR	bodyStyle	4
+Mitsubishi RVR	bodyStyle	5
+Ferrari 250 TR 61 Spyder Fantuzzi	bodyStyle	Front-Engined Racecar
+Holden Caprice	bodyStyle	4
+Chrysler Centura	bodyStyle	4
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	4
+Toyota Publica	bodyStyle	2
+Toyota Publica	bodyStyle	3
+Lotus 20	bodyStyle	Open wheel car
+Audi Q3	bodyStyle	5
+Ford Landau	bodyStyle	4
+Simca Alvorada	bodyStyle	4
+Simca Alvorada	bodyStyle	5
+Simca Profissional	bodyStyle	4
+Peugeot 202	bodyStyle	4
+Peugeot 202	bodyStyle	2
+Simca Esplanada	bodyStyle	4
+Volkswagen Polo Mk4	bodyStyle	3
+Volkswagen Polo Mk4	bodyStyle	5
+Volkswagen Polo Mk4	bodyStyle	4
+Volkswagen Polo Mk3	bodyStyle	5
+Volkswagen Polo Mk3	bodyStyle	3
+Volkswagen Polo Mk3	bodyStyle	4
+Volkswagen Polo Mk2	bodyStyle	3
+Volkswagen Polo Mk2	bodyStyle	2
+Volkswagen Polo Mk1	bodyStyle	3
+Volkswagen Polo Mk1	bodyStyle	2
+Kia Cee'd	bodyStyle	5
+Kia Cee'd	bodyStyle	3
+UAZ-469	bodyStyle	4
+Volkswagen Crafter	bodyStyle	Panel van
+Volkswagen Crafter	bodyStyle	Minibus
+Volkswagen Crafter	bodyStyle	Crew cab
+Volkswagen Crafter	bodyStyle	Chassis
+Volkswagen Crafter	bodyStyle	Cabin
+Maserati Mistral	bodyStyle	2
+Renault Koleos	bodyStyle	5
+Maserati 5000 GT	bodyStyle	2
+Volkswagen Polo Playa	bodyStyle	5
+Maserati Mexico	bodyStyle	2
+Alfa Romeo Scighera	bodyStyle	2
+Isuzu D-Max	bodyStyle	2
+Isuzu D-Max	bodyStyle	4
+Mercury Monterey	bodyStyle	4
+Mercury Monterey	bodyStyle	2
+Chevrolet Sequel	bodyStyle	5
+Mercury Commuter	bodyStyle	2
+Mercury Commuter	bodyStyle	4
+Honda Quint	bodyStyle	5
+Maserati Indy	bodyStyle	2
+Maserati Barchetta	bodyStyle	2
+AC Propulsion eBox	bodyStyle	5
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	2
+Austin Apache	bodyStyle	4
+Maserati Tipo 61	bodyStyle	Two-seat spyder.
+Toyota Auris	bodyStyle	3
+Toyota Auris	bodyStyle	5
+John Goss Special	bodyStyle	2
+Fiat Linea	bodyStyle	4
+Toyota Coaster	bodyStyle	Single-deck bus
+Citroën Type C	bodyStyle	Torpedo
+Lancia Appia	bodyStyle	4
+Lancia Appia	bodyStyle	Sedan
+Lancia Appia	bodyStyle	2
+Lancia Appia	bodyStyle	Coupé
+Lancia Appia	bodyStyle	Convertible
+Lancia Appia	bodyStyle	3
+Lancia Appia	bodyStyle	Station wagon
+Roewe 750	bodyStyle	4
+DAF SB220	bodyStyle	Single-decker bus
+Nissan Rogue	bodyStyle	5
+Isuzu Fargo	bodyStyle	2
+Isuzu Fargo	bodyStyle	3
+Chrysler Executive	bodyStyle	4
+Neoplan Jumbocruiser	bodyStyle	Articulated double-deck multi-axle city coach
+Zastava 750	bodyStyle	2
+Ascari A10	bodyStyle	2
+DKW F102	bodyStyle	2
+DKW F102	bodyStyle	4
+Holden Special	bodyStyle	2
+Holden Special	bodyStyle	3
+Holden Special	bodyStyle	4
+Holden Special	bodyStyle	5
+Ford Falcon Cobra	bodyStyle	2
+Bond 875	bodyStyle	2
+Rolls-Royce Twenty	bodyStyle	4
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	5
+Jaguar XKSS	bodyStyle	Roadster
+Maserati Sebring	bodyStyle	2
+Dacia 1300	bodyStyle	4
+Dacia 1300	bodyStyle	5
+Dacia 1300	bodyStyle	2
+Fiat 520	bodyStyle	4
+Nissan Lafesta	bodyStyle	5
+Holden Caprice	bodyStyle	4
+Maserati Karif	bodyStyle	2
+Audi Rosemeyer	bodyStyle	2
+Škoda 110 R	bodyStyle	2
+Toyota Sprinter Marino	bodyStyle	4
+Bristol 401	bodyStyle	2
+Chrysler Drifter	bodyStyle	2
+Chery Tiggo	bodyStyle	4
+Kaiser Darrin	bodyStyle	2
+Bristol 404 and 405	bodyStyle	two-door coupé
+Bristol 404 and 405	bodyStyle	four-door saloon
+Bristol 404 and 405	bodyStyle	two-door drophead coupé
+Mitsubishi HSR	bodyStyle	2
+Škoda Garde	bodyStyle	2
+Škoda 440	bodyStyle	2
+Škoda 440	bodyStyle	3
+Škoda 440	bodyStyle	450
+Al Araba 1	bodyStyle	2
+Chrysler Nassau	bodyStyle	4
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	2
+Formula Palmer Audi	bodyStyle	1
+Pontiac G8	bodyStyle	2
+Pontiac G8	bodyStyle	4
+Pontiac G8	bodyStyle	5
+Matra 530	bodyStyle	2
+Jaguar XF	bodyStyle	4
+Jaguar XF	bodyStyle	5
+Rinspeed Veleno	bodyStyle	2
+BMW X6	bodyStyle	Mid-size car
+BMW X6	bodyStyle	Luxury car
+BMW X6	bodyStyle	Crossover SUV
+BMW X6	bodyStyle	5
+Peugeot 306	bodyStyle	3
+Peugeot 306	bodyStyle	4
+Peugeot 306	bodyStyle	5
+Peugeot 306	bodyStyle	2
+Nissan Terrano II	bodyStyle	3
+Nissan Terrano II	bodyStyle	5
+Morgan Plus 8	bodyStyle	2
+Audi A1	bodyStyle	5
+Audi A1	bodyStyle	3
+101)	bodyStyle	4
+101)	bodyStyle	Sedan
+101)	bodyStyle	Roadster
+101)	bodyStyle	2
+101)	bodyStyle	Coupé
+Lotus 21	bodyStyle	Open wheel car
+Suzuki Carry	bodyStyle	2
+Suzuki Carry	bodyStyle	3
+Suzuki Carry	bodyStyle	4
+Suzuki Carry	bodyStyle	5
+Suzuki Carry	bodyStyle	Campervan
+Suzuki Carry	bodyStyle	Microvan
+Nissan Crew	bodyStyle	4
+Nissan Livina	bodyStyle	5
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Mazda MXR-01	bodyStyle	Coupé
+Nash Statesman	bodyStyle	2
+Nash Statesman	bodyStyle	4
+Mitsubishi PX33	bodyStyle	4
+Staver	bodyStyle	High wheeler
+Staver	bodyStyle	Torpedo
+Staver	bodyStyle	Touring car
+Singer Bantam	bodyStyle	2
+Singer Bantam	bodyStyle	4
+Volkswagen Golf Mk2	bodyStyle	3
+Volkswagen Golf Mk2	bodyStyle	5
+Volkswagen Golf Mk3	bodyStyle	3
+Volkswagen Golf Mk3	bodyStyle	5
+Volkswagen Golf Mk3	bodyStyle	2
+Volkswagen Golf Mk1	bodyStyle	2
+Volkswagen Golf Mk1	bodyStyle	3
+Volkswagen Golf Mk1	bodyStyle	5
+Volkswagen Golf Mk4	bodyStyle	3
+Volkswagen Golf Mk4	bodyStyle	5
+Volkswagen Golf Mk5	bodyStyle	3
+Volkswagen Golf Mk5	bodyStyle	5
+Dacia SupeRNova	bodyStyle	5
+Volkswagen Type 147 Kleinlieferwagen	bodyStyle	2
+Dacia Nova	bodyStyle	5
+Wartburg 353	bodyStyle	4
+Wartburg 353	bodyStyle	5
+Wartburg 353	bodyStyle	2
+Marcos TSO	bodyStyle	Coupe
+MCW Metrocab	bodyStyle	4
+Ford Interceptor	bodyStyle	4
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Scion xD	bodyStyle	5
+Mitsubishi Savrin	bodyStyle	5
+Chevrolet 210	bodyStyle	4
+Chevrolet 210	bodyStyle	2
+Lincoln MKR	bodyStyle	4
+Toyota FT-HS	bodyStyle	2
+Chevrolet Chevelle Laguna	bodyStyle	2
+Chevrolet Chevelle Laguna	bodyStyle	4
+Hyundai Universe	bodyStyle	Single-deck with Multi Axle  coach
+Mitsubishi Nessie	bodyStyle	2
+Volkswagen Type 14A	bodyStyle	2
+MG N-type	bodyStyle	2
+MG N-type	bodyStyle	Foursome Coupé
+Studebaker E-series truck	bodyStyle	2
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	5
+Volvo FH	bodyStyle	COE\n* Day cab \n* Sleeper cab \n* Globetrotter  High cab
+Chevrolet Camaro	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Holden Commodore	bodyStyle	2
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	5
+Holden Commodore	bodyStyle	2
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	5
+Holden Commodore	bodyStyle	2
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	5
+Chevrolet Volt	bodyStyle	5
+Austin de Luxe	bodyStyle	4
+Bristol 411	bodyStyle	2
+Mazda Ryuga	bodyStyle	2
+Jaguar C-XF	bodyStyle	4
+Nissan Bevel	bodyStyle	4
+Bond Equipe	bodyStyle	2
+Giugiaro Ford Mustang	bodyStyle	2
+ZIL-4102	bodyStyle	4
+ZIL-4102	bodyStyle	Saloon
+ZIL-4102	bodyStyle	2
+ZIL-4102	bodyStyle	Coupe
+BMW Nazca C2	bodyStyle	Coupe
+TX4	bodyStyle	5
+Kia Soul	bodyStyle	5
+Oldsmobile O4	bodyStyle	4
+GMT360	bodyStyle	Sport utility vehicle
+GMT360	bodyStyle	convertible pickup truck
+Standard Vanguard	bodyStyle	4
+Standard Vanguard	bodyStyle	2
+Jeep Trailhawk	bodyStyle	4
+Porsche 914-6 GT	bodyStyle	Targa top
+Porsche 914-6 GT	bodyStyle	Coupe
+TVR Tamora	bodyStyle	2
+Mitsubishi RPM 7000	bodyStyle	Sports crossover
+Hummer HX	bodyStyle	2
+Quasar	bodyStyle	Roofed Feet forward motorcycle
+Mitsubishi SUP	bodyStyle	4
+Audi F103	bodyStyle	2
+Audi F103	bodyStyle	3
+Full-size Ford	bodyStyle	Sedan
+Full-size Ford	bodyStyle	Station wagon
+Full-size Ford	bodyStyle	Coupe
+Full-size Ford	bodyStyle	Convertible
+Full-size Ford	bodyStyle	Pickup truck
+Full-size Ford	bodyStyle	Coupe utility
+Ginetta F400	bodyStyle	2
+SsangYong Actyon	bodyStyle	5
+SsangYong Actyon	bodyStyle	4
+Suzuki MR Wagon	bodyStyle	5
+Jensen GT	bodyStyle	2
+Kia Kue	bodyStyle	5
+Chevrolet Camaro	bodyStyle	2
+Chevrolet Camaro	bodyStyle	Hardtop
+Chevrolet Camaro	bodyStyle	Convertible
+Volvo FM	bodyStyle	COE\n* Day cab\n* Sleeper cab\n* Globetrotter  High cab
+Tatra 813	bodyStyle	Cab Over Engine
+Holsman Automobile Company	bodyStyle	High wheeler
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	5
+TXII	bodyStyle	4
+Subaru Legacy	bodyStyle	4
+Subaru Legacy	bodyStyle	5
+Isuzu Faster	bodyStyle	2
+Isuzu Faster	bodyStyle	4
+Alfa Romeo 8C Competizione	bodyStyle	2
+Alfa Romeo Giulietta	bodyStyle	4
+Ford Focus	bodyStyle	4
+Ford Focus	bodyStyle	2
+Tatra 87	bodyStyle	Limousine
+Scania 4-series	bodyStyle	COE\n* Day cab\n* Highline\n* Topline \nBonneted
+Daihatsu Mira Gino	bodyStyle	Hatchback
+Daihatsu Mira Gino	bodyStyle	3
+Daihatsu Mira Gino	bodyStyle	5
+Lotus 22	bodyStyle	Open wheel car
+Daimler DR450	bodyStyle	4
+Lada 110	bodyStyle	4
+Lada 110	bodyStyle	5
+Lada 110	bodyStyle	3
+Triumph Mayflower	bodyStyle	2
+Dodge Demon Concept	bodyStyle	Roadster
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Suzuki Lapin	bodyStyle	Five-door hatchback
+Alfa Romeo Giulia TZ	bodyStyle	2
+Nissan GT-R	bodyStyle	2
+Chrysler Pacifica	bodyStyle	5
+Maserati GranTurismo	bodyStyle	4
+Diatto Ottovù Zagato	bodyStyle	2
+HTT Pléthore	bodyStyle	2
+Alfa Romeo MiTo	bodyStyle	3
+Mazda Hakaze Concept	bodyStyle	2
+Plymouth Belmont	bodyStyle	Roadster
+Honda Crossroad	bodyStyle	5
+Jowett Bradford	bodyStyle	van, estate
+Toyota Ractis	bodyStyle	5
+UAZ Patriot	bodyStyle	5
+SEAT 132	bodyStyle	4
+Alfa Romeo RM	bodyStyle	Limousine
+Alfa Romeo RM	bodyStyle	Convertible
+Hafei Lobo	bodyStyle	Hatchback
+BYD Flyer	bodyStyle	5
+La Bala	bodyStyle	Roadster
+Tatra 97	bodyStyle	Limousine
+Chery A5	bodyStyle	4
+Simca 8	bodyStyle	2
+Simca 8	bodyStyle	4
+Simca 8	bodyStyle	3
+Simca 8	bodyStyle	...
+Spyker C12 Zagato	bodyStyle	2
+Buick Centieme	bodyStyle	Crossover
+Holden FJ	bodyStyle	4
+Holden FJ	bodyStyle	2
+Alfa Romeo Matta	bodyStyle	2
+Alfa Romeo 6C	bodyStyle	4
+Alfa Romeo 6C	bodyStyle	Sedan
+Alfa Romeo 6C	bodyStyle	Torpedo
+Alfa Romeo 6C	bodyStyle	2
+Alfa Romeo 6C	bodyStyle	Cabriolet
+Alfa Romeo 6C	bodyStyle	Roadster
+Mitsubishi SUW	bodyStyle	3
+Mitsubishi SUW	bodyStyle	5
+ALFA 24 HP	bodyStyle	Torpedo
+ALFA 24 HP	bodyStyle	Limousine
+ALFA 24 HP	bodyStyle	Baquet
+Standard Eight	bodyStyle	2
+Standard Eight	bodyStyle	Saloon
+Standard Eight	bodyStyle	tourer
+Standard Eight	bodyStyle	drophead coupé
+Standard Eight	bodyStyle	estate car
+Standard Eight	bodyStyle	4
+Hyundai i30	bodyStyle	3
+Hyundai i30	bodyStyle	5
+Iso Fidia	bodyStyle	4
+30 HP	bodyStyle	Sedan
+30 HP	bodyStyle	Torpedo
+Alfa Romeo G1	bodyStyle	Spider Corsa
+Alfa Romeo G1	bodyStyle	Torpedo
+Alfa Romeo G1	bodyStyle	Limousine
+60 HP	bodyStyle	Torpedo
+60 HP	bodyStyle	Spider
+MG 7	bodyStyle	4
+Mitsubishi TETRA	bodyStyle	5
+Perodua Rusa	bodyStyle	5
+Toyota AA	bodyStyle	sedan
+Toyota AA	bodyStyle	4
+Rolls-Royce Phantom Drophead Coupé	bodyStyle	2
+Willys M38A1	bodyStyle	2
+Iso Lele	bodyStyle	2
+Melling Hellcat	bodyStyle	2
+Ford Flex	bodyStyle	5
+Hyundai Genesis	bodyStyle	4
+Alfa Romeo Gran Sport Quattroruote	bodyStyle	Roadster
+Ford Mustang I	bodyStyle	2
+Dodge Viper	bodyStyle	2
+Chevrolet Trax	bodyStyle	5
+Alfa Romeo Disco Volante	bodyStyle	2
+Chevrolet Groove	bodyStyle	5
+Wolseley Hornet six	bodyStyle	* 2-door 4-light saloon\n* 4-door 6-light saloon\n* 2-door Occasional Four coupé\n* open 2-seater\n* chassis for customer's choice of coachwork\n* Special chassis for customer's choice of coachwork
+MG 3	bodyStyle	5
+Honda Mobilio Spike	bodyStyle	5
+Blitzen Benz	bodyStyle	Roadster
+Ruf RK Coupe	bodyStyle	2
+Volkswagen Routan	bodyStyle	4
+Aston Martin DP214	bodyStyle	2
+GKD sports cars	bodyStyle	2
+Ruf RGT	bodyStyle	2
+DAF 600	bodyStyle	Sedan
+DAF 55	bodyStyle	Saloon
+DAF 55	bodyStyle	Station wagon
+DAF 55	bodyStyle	Coupe
+DAF 44	bodyStyle	2
+Chrysler 300 non-letter series	bodyStyle	4
+Chrysler 300 non-letter series	bodyStyle	2
+Holden 48-215	bodyStyle	4
+Holden 48-215	bodyStyle	2
+Budd XR-400	bodyStyle	Sports car
+Matra Djet	bodyStyle	2
+Murtaya	bodyStyle	2
+Volvo 850	bodyStyle	4
+Volvo 850	bodyStyle	5
+Perodua Viva	bodyStyle	5
+MAN Lion's Coach	bodyStyle	Coach
+Corvette Stingray	bodyStyle	2
+Corvair Monza GT	bodyStyle	2
+Nissan Sylphy	bodyStyle	4
+Nissan Sylphy	bodyStyle	3
+Nissan Sylphy	bodyStyle	5
+Mastretta MXT	bodyStyle	Super Coupé
+Mercedes-Benz 770	bodyStyle	4
+Mercedes-Benz 770	bodyStyle	Touring car
+Mercedes-Benz 770	bodyStyle	Cabriolet
+Chevrolet Traverse	bodyStyle	4
+Daihatsu UFE-III	bodyStyle	1
+Toyota Verossa	bodyStyle	4
+Marvel	bodyStyle	Runabout
+Dodge Journey	bodyStyle	Five-door SUV
+Ford Fairmont	bodyStyle	4
+Ford Fairmont	bodyStyle	5
+Ford Fairmont	bodyStyle	2
+Kia Mohave	bodyStyle	4
+Dodge Intrepid	bodyStyle	4
+Statesman	bodyStyle	4
+Monarch	bodyStyle	4
+Monarch	bodyStyle	2
+Toyota Classic	bodyStyle	4
+Austin FX3	bodyStyle	4
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	2
+Ford Durango	bodyStyle	2
+Brilliance BS6	bodyStyle	Sedan
+Hyundai Starex	bodyStyle	4
+Mitsubishi Gaus	bodyStyle	5
+Morris Ten	bodyStyle	4
+Morris Ten	bodyStyle	2
+Morris Ten	bodyStyle	Open two seater
+Morris Ten	bodyStyle	5
+Morris Ten	bodyStyle	Open two-seater
+Morris Ten	bodyStyle	Special sports
+Morris Ten	bodyStyle	3
+De Tomaso Longchamp	bodyStyle	2
+Hyundai Veloster	bodyStyle	2
+Infiniti QX50	bodyStyle	5
+Holden HQ	bodyStyle	4
+Holden HQ	bodyStyle	5
+Holden HQ	bodyStyle	2
+ 20TS	bodyStyle	Roadster
+Chevrolet Corvette C6.R	bodyStyle	2
+Jensen 541	bodyStyle	2
+Komatsu 930E	bodyStyle	Dump truck
+Scion bbX	bodyStyle	5
+Dodge Meadowbrook	bodyStyle	2
+Dodge Meadowbrook	bodyStyle	4
+AIL Storm	bodyStyle	2
+AIL Storm	bodyStyle	4
+BMW CS Concept	bodyStyle	4
+Rover Meteor	bodyStyle	saloon
+Rover Meteor	bodyStyle	Weymann Fabric Bodies
+Rover Meteor	bodyStyle	sportsman's Weymann saloon
+Rover Meteor	bodyStyle	seven-seater limousine
+Rover Meteor	bodyStyle	chassis for special coachwork
+Ford Thames 400E	bodyStyle	Van
+Ford Thames 400E	bodyStyle	pickup
+Ford Thames 400E	bodyStyle	minibus
+Ford Thames 400E	bodyStyle	chassis cab
+Ford Kuga	bodyStyle	5
+Škoda Octavia	bodyStyle	2
+Škoda Octavia	bodyStyle	3
+Land Rover Series	bodyStyle	2
+Land Rover Series	bodyStyle	4
+Morris Major	bodyStyle	4
+Buick Super	bodyStyle	4
+Buick Super	bodyStyle	2
+Toyota Yaris Verso	bodyStyle	5
+Toyota Camry TS-01	bodyStyle	4
+Audi Le Mans quattro	bodyStyle	2
+Lobini H1	bodyStyle	2
+Toyota SA	bodyStyle	sedan
+Perry	bodyStyle	two-seat open with optional dickey seat.
+Perry	bodyStyle	two- or four-seat open with optional dickey seat.
+Mercury Voyager	bodyStyle	Station wagon
+Jaguar XJR-12	bodyStyle	Coupé
+Subaru Sumo	bodyStyle	Cab-over van
+Lancia Aprilia	bodyStyle	4
+FAP 1118	bodyStyle	Cab over
+Scania K-series	bodyStyle	Single-decker bus
+Scania K-series	bodyStyle	Coach
+Scania K-series	bodyStyle	Articulated bus
+Scania K-series	bodyStyle	Double-decker bus
+Honda Civic Type R	bodyStyle	3
+Honda Civic Type R	bodyStyle	5
+Honda Civic Type R	bodyStyle	4
+Ford Fordor	bodyStyle	Station wagon
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	2
+Lightning GT	bodyStyle	2
+Plymouth Cambridge	bodyStyle	4
+Plymouth Cambridge	bodyStyle	2
+Plymouth Cranbrook	bodyStyle	4
+Plymouth Cranbrook	bodyStyle	2
+Plymouth Cranbrook	bodyStyle	3
+Mitsubishi Galant FTO	bodyStyle	2
+TVR Tuscan Challenge	bodyStyle	Convertible
+SEAT 1500	bodyStyle	4
+SEAT 1500	bodyStyle	5
+SEAT 1500	bodyStyle	pick-up
+Great Wall Haval H3	bodyStyle	5
+Goggomobil Dart	bodyStyle	Roadster
+Humber Hawk	bodyStyle	4
+Humber Hawk	bodyStyle	Limousine
+Humber Hawk	bodyStyle	estate
+Humber Hawk	bodyStyle	Estate car
+Humber Hawk	bodyStyle	limousine
+Arrol-Aster	bodyStyle	Sedan
+Arrol-Aster	bodyStyle	4
+Arrol-Aster	bodyStyle	5
+Toyota Origin	bodyStyle	4
+Chevrolet Aerovette	bodyStyle	2
+MAN Lion's City	bodyStyle	Midibus
+MAN Lion's City	bodyStyle	Single-decker bus
+MAN Lion's City	bodyStyle	Articulated bus
+MAN Lion's City	bodyStyle	Double-decker bus
+Suzuki Splash	bodyStyle	5
+Peugeot 408	bodyStyle	4
+Lamborghini Reventón	bodyStyle	2
+Dacia Sandero	bodyStyle	5
+Opel Flextreme	bodyStyle	5
+Toyota iQ	bodyStyle	3
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Alvis TE 21	bodyStyle	2
+Thomas Saf-T-Liner	bodyStyle	School bus
+Nissan Latio	bodyStyle	4
+Purvis Eureka	bodyStyle	Coupé
+Purvis Eureka	bodyStyle	Targa top
+Standard Ten	bodyStyle	saloon
+Standard Ten	bodyStyle	4
+Standard Ten	bodyStyle	2
+Standard Ten	bodyStyle	saloon, estate
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Optare Soroco	bodyStyle	Minicoach
+Tourette	bodyStyle	Roadster
+Ford XY Falcon GT	bodyStyle	4
+De Tomaso Deauville	bodyStyle	4
+Ford Maverick	bodyStyle	2
+Ford Maverick	bodyStyle	4
+Daihatsu Esse	bodyStyle	5
+Scania N-series	bodyStyle	Rigid bus
+Scania N-series	bodyStyle	Single-decker bus
+Scania N-series	bodyStyle	Articulated bus
+Scania N-series	bodyStyle	Double-decker bus
+Toyota Sports 800	bodyStyle	2
+Volvo 900 Series	bodyStyle	4
+Volvo 900 Series	bodyStyle	Sedan
+Volvo 900 Series	bodyStyle	5
+Volvo 900 Series	bodyStyle	Station wagon
+Mahindra Scorpio Getaway	bodyStyle	5
+Mahindra Scorpio Getaway	bodyStyle	Double cab
+Mahindra Scorpio Getaway	bodyStyle	2
+Mahindra Scorpio Getaway	bodyStyle	Regular cab
+SEAT Tribu	bodyStyle	3
+Honda CR-Z	bodyStyle	3
+Lohner-Porsche	bodyStyle	2
+Lohner-Porsche	bodyStyle	4
+3 Chiron	bodyStyle	2
+MBM Tourismo	bodyStyle	2
+Daihatsu Leeza	bodyStyle	3
+Daihatsu Leeza	bodyStyle	2
+Subaru Exiga	bodyStyle	5
+Covin	bodyStyle	2
+Oldsmobile Antares	bodyStyle	4
+Jaguar Mark 1	bodyStyle	4
+Oldsmobile Recon	bodyStyle	5
+Oldsmobile Profile	bodyStyle	5
+Ferrari Modulo	bodyStyle	semi-monocoque
+Lancia Ardea	bodyStyle	4
+Lancia Ardea	bodyStyle	Sedan
+Lancia Ardea	bodyStyle	2
+Lancia Ardea	bodyStyle	Pickup truck
+Lancia Ardea	bodyStyle	3
+Lancia Ardea	bodyStyle	Van
+Lancia Ardea	bodyStyle	Taxi
+DAF 33	bodyStyle	2
+Hyundai i10	bodyStyle	5
+M970	bodyStyle	Tanker Semi-trailer truck
+Hyundai i20	bodyStyle	3
+Hyundai i20	bodyStyle	5
+Chrysler Royal	bodyStyle	Chrysler Royal 4-door sedan
+Chrysler Royal	bodyStyle	Chrysler Plainsman 5-door station wagon
+Chrysler Royal	bodyStyle	Chrysler Wayfarer 2-door coupe utility
+Scion ccX	bodyStyle	3
+Nissan Lucino	bodyStyle	2
+Nissan Lucino	bodyStyle	3
+Nissan Lucino	bodyStyle	5
+Nike ONE	bodyStyle	1
+Ford Escort RS Cosworth	bodyStyle	3
+Monteverdi High Speed	bodyStyle	2
+Monteverdi High Speed	bodyStyle	4
+Austin Freeway	bodyStyle	4
+Austin Freeway	bodyStyle	5
+Lancia Artena	bodyStyle	Bare
+Lancia Artena	bodyStyle	Chassis
+Lancia Artena	bodyStyle	4
+Lancia Artena	bodyStyle	Sedan
+Ruf BTR	bodyStyle	2
+Lancia Augusta	bodyStyle	4
+Lancia Augusta	bodyStyle	2
+Honda FCX	bodyStyle	4
+Lancia Beta	bodyStyle	Torpedo
+Chevrolet Cruze	bodyStyle	4
+Chevrolet Cruze	bodyStyle	5
+Hyundai Genesis Coupe	bodyStyle	2
+Peugeot 201	bodyStyle	4
+Peugeot 201	bodyStyle	other bodies available
+Peugeot 301	bodyStyle	4
+Peugeot 301	bodyStyle	2
+Peugeot 301	bodyStyle	3
+Peugeot 302	bodyStyle	4
+Peugeot 302	bodyStyle	various cabriolets and coupés
+Peugeot 208	bodyStyle	3
+Peugeot 208	bodyStyle	5
+Peugeot 402	bodyStyle	4
+Peugeot 402	bodyStyle	Long-wheelbase ‘familiale’ sedan
+Peugeot 402	bodyStyle	various cabriolets and coupés
+Peugeot 402	bodyStyle	van and utility versions
+Porsche 597	bodyStyle	Cabriolet
+Volkswagen Up	bodyStyle	3
+Volkswagen Up	bodyStyle	5
+Volkswagen Passat NMS	bodyStyle	4
+Volkswagen CC	bodyStyle	4
+Volkswagen Amarok	bodyStyle	2
+Volkswagen Amarok	bodyStyle	4
+GMC Terrain	bodyStyle	5
+Toyota Sportivo Coupe	bodyStyle	2
+Opel Insignia	bodyStyle	5
+Opel Insignia	bodyStyle	4
+Vauxhall Wyvern	bodyStyle	4
+Vauxhall Wyvern	bodyStyle	2
+Fiat 1800 and 2100	bodyStyle	4
+Fiat 1800 and 2100	bodyStyle	5
+Suzuki Equator	bodyStyle	2
+Suzuki Equator	bodyStyle	4
+Isuzu Erga	bodyStyle	Single-deck bus
+Fuldamobil	bodyStyle	2
+Lancia Theta	bodyStyle	Torpedo
+Nissan Forum	bodyStyle	4
+Lancia Trevi	bodyStyle	Sedan
+Toyota Venza	bodyStyle	5
+Isuzu Gala	bodyStyle	Single-deck rigid coach
+Hillman Super Minx	bodyStyle	4
+Hillman Super Minx	bodyStyle	5
+Hillman Super Minx	bodyStyle	2
+Mitsubishi Fuso Aero King	bodyStyle	Double-deck coach
+Hino S'elega	bodyStyle	Single-deck coach
+Hino Blue Ribbon	bodyStyle	Single-decker bus
+Hino Blue Ribbon	bodyStyle	Coach
+Hino Rainbow	bodyStyle	Single-decker bus
+Hino Rainbow	bodyStyle	Coach
+Lancia 2000	bodyStyle	4
+Lancia 2000	bodyStyle	2
+Dodge ZEO	bodyStyle	2
+Nissan Diesel Space Runner RA	bodyStyle	Single-decker bus
+Nissan Diesel UA	bodyStyle	Single-decker bus
+Nissan Diesel Space Runner RM	bodyStyle	Single-decker bus
+Hino Melpha	bodyStyle	Bus
+Lancia Megagamma	bodyStyle	5
+Nissan Diesel Space Arrow	bodyStyle	Single-deck coach
+Isuzu Gala Mio	bodyStyle	Bus
+Alfa Romeo Visconti	bodyStyle	4
+Isuzu Super Cruiser	bodyStyle	Single-deck coach
+Isuzu Journey-K	bodyStyle	Bus
+Rossion Q1	bodyStyle	2
+Jimenez Novia	bodyStyle	22
+Mercedes-Benz SSK	bodyStyle	2
+Mitsubishi Colt 1000	bodyStyle	4
+Mitsubishi Colt 1000	bodyStyle	2
+Mitsubishi Colt 1000	bodyStyle	3
+Mitsubishi Colt 1000	bodyStyle	Sedan
+Mitsubishi Colt 1000	bodyStyle	Station wagon
+Mitsubishi Colt 1000	bodyStyle	5
+Mitsubishi Colt 800	bodyStyle	2
+Mitsubishi Colt 800	bodyStyle	3
+Mitsubishi Colt 800	bodyStyle	4
+Mitsubishi Colt 600	bodyStyle	2
+Fiat 1500	bodyStyle	4
+Fiat 1500	bodyStyle	2
+Chevrolet Parkwood	bodyStyle	4
+Lincoln MKT	bodyStyle	5
+Chevrolet Yeoman	bodyStyle	2
+Chevrolet Yeoman	bodyStyle	4
+Cadillac Provoq	bodyStyle	4
+Fiat 501	bodyStyle	4
+Fiat 501	bodyStyle	2
+Fiat 502	bodyStyle	4
+Fiat 503	bodyStyle	4
+Fiat 505	bodyStyle	4
+Fiat 505	bodyStyle	truck
+Ford Granada	bodyStyle	2
+Ford Granada	bodyStyle	4
+Ford Granada	bodyStyle	2
+Ford Granada	bodyStyle	5
+Ford Granada	bodyStyle	4
+Chrysler ecoVoyager	bodyStyle	Minivan
+Fisker Karma	bodyStyle	4
+Mitsubishi Concept-RA	bodyStyle	Coupé
+Zebra Three	bodyStyle	2
+BYD F6DM	bodyStyle	4
+Tatra 603	bodyStyle	4
+Vauxhall Velox	bodyStyle	4
+Vauxhall Velox	bodyStyle	2
+Vauxhall Velox	bodyStyle	Estate car
+Vauxhall Velox	bodyStyle	5
+Vauxhall Velox	bodyStyle	Four-door saloon
+Vauxhall Velox	bodyStyle	Five-door estate car
+Volkswagen Plattenwagen	bodyStyle	Platform truck
+Range Rover Evoque	bodyStyle	5
+Range Rover Evoque	bodyStyle	3
+Range Rover Evoque	bodyStyle	2
+Méga Monte Carlo	bodyStyle	2
+Gillig Transit Coach School Bus	bodyStyle	School Bus
+Audi S5	bodyStyle	2
+Audi S5	bodyStyle	5
+Fiat 510	bodyStyle	4
+Fiat 515	bodyStyle	4
+Fiat 507	bodyStyle	4
+Fiat 512	bodyStyle	4
+Fiat 525	bodyStyle	4
+Fiat 525	bodyStyle	2
+Fiat 521	bodyStyle	2
+Fiat 521	bodyStyle	4
+Fiat 522	bodyStyle	2
+Fiat 522	bodyStyle	4
+Fiat 527	bodyStyle	4
+Daimler Sovereign	bodyStyle	4
+Fiat 1	bodyStyle	Sedan
+Honda Stepwgn	bodyStyle	Minivan
+Honda Stepwgn	bodyStyle	3
+Honda Stepwgn	bodyStyle	5
+Rolls-Royce Ghost	bodyStyle	4
+Vauxhall 10-4	bodyStyle	4
+Vauxhall 10-4	bodyStyle	2
+Chevrolet Advance Design	bodyStyle	2
+Chevrolet Task Force	bodyStyle	2
+GMC Denali XT	bodyStyle	4
+AC 2-Litre	bodyStyle	2
+Borgward Isabella	bodyStyle	2
+Borgward Isabella	bodyStyle	cabriolet
+Borgward Isabella	bodyStyle	station wagon
+Borgward Isabella	bodyStyle	coupe
+Borgward Hansa 1500	bodyStyle	2
+Borgward Hansa 1500	bodyStyle	4
+Fiat 70	bodyStyle	Sedan
+BMW 501	bodyStyle	4
+BMW 501	bodyStyle	2
+Jensen Interceptor	bodyStyle	2
+BMW 503	bodyStyle	2
+BMW 326	bodyStyle	4
+BMW 326	bodyStyle	2
+BMW 335	bodyStyle	4
+Lancia Dilambda	bodyStyle	Torpedo
+Lancia Dilambda	bodyStyle	4
+BMW 327	bodyStyle	2
+Lancia Astura	bodyStyle	4
+Lancia Trikappa	bodyStyle	Torpedo
+Lancia Trikappa	bodyStyle	Coupe de Ville
+Lancia Alfa	bodyStyle	bare chassis
+Lancia Alfa	bodyStyle	double-phaeton
+Lancia Alfa	bodyStyle	luxury coupe
+Lancia Alfa	bodyStyle	Landaulet
+Lancia Alfa	bodyStyle	Limousine
+Rinspeed sQuba	bodyStyle	2
+Saleen S281	bodyStyle	2
+BMW 340	bodyStyle	4
+BMW 340	bodyStyle	5
+Ford Mustang	bodyStyle	2
+Ford Mustang	bodyStyle	3
+Ford Mustang	bodyStyle	2
+Ford Mustang	bodyStyle	3
+Ford Mustang	bodyStyle	2
+Ford Mustang	bodyStyle	Convertible
+Ford Mustang	bodyStyle	Coupé
+Ford Mustang	bodyStyle	2
+Ford Mustang	bodyStyle	2
+Ford Mustang	bodyStyle	Coupé
+Ford Mustang	bodyStyle	Convertible
+Borgward P100	bodyStyle	4
+Lada Nadezhda	bodyStyle	5
+BMW 3200 CS	bodyStyle	2
+Borgward Hansa 2400	bodyStyle	4
+Goliath GP700	bodyStyle	2
+Goliath GP700	bodyStyle	3
+Plymouth Deluxe	bodyStyle	2
+Plymouth Deluxe	bodyStyle	4
+NSU Spider	bodyStyle	2
+Singer SM1500	bodyStyle	4
+Singer SM1500	bodyStyle	2
+Steyr 50	bodyStyle	2
+Puch 500	bodyStyle	2
+Puch 500	bodyStyle	Sedan
+Puch 500	bodyStyle	3
+Puch 500	bodyStyle	Station wagon
+Fiat 1200	bodyStyle	4
+Fiat 1200	bodyStyle	2
+Lancia Dialfa	bodyStyle	4
+BMW 321	bodyStyle	2
+Splinter	bodyStyle	2
+Auto Union 1000	bodyStyle	2
+Auto Union 1000	bodyStyle	3
+Renault Egeus	bodyStyle	5
+Daewoo Prince	bodyStyle	4
+Daewoo Royale	bodyStyle	4
+DKW 3=6	bodyStyle	2
+DKW 3=6	bodyStyle	3
+Renault Zoom	bodyStyle	3
+Mercedes-Benz F200	bodyStyle	2
+DKW F89	bodyStyle	2
+DKW F89	bodyStyle	3
+Mercedes-Benz SL-Class	bodyStyle	2
+Thunderbolt	bodyStyle	land speed record car
+IFA F9	bodyStyle	2
+IFA F9	bodyStyle	3
+Campbell-Napier-Railton Blue Bird	bodyStyle	open-wheel, front-engined land speed record car.
+Campbell-Railton Blue Bird	bodyStyle	front-engined land speed record car.
+Holden Coupe 60	bodyStyle	2
+Renault Viva Grand Sport	bodyStyle	Sedan
+Volkswagen Lavida	bodyStyle	4
+Volkswagen Lavida	bodyStyle	5
+Daihatsu Sonica	bodyStyle	5
+Ford Cougar	bodyStyle	3
+Artega GT	bodyStyle	2
+FAP 2026	bodyStyle	Cab Over Engine
+Peugeot Type 190	bodyStyle	Torpedo
+Peugeot Type 190	bodyStyle	Roadster
+DKW F7	bodyStyle	2
+DKW F7	bodyStyle	coupe utility
+DKW F7	bodyStyle	van
+Western Tool Works	bodyStyle	Roadster
+Black Motor Company	bodyStyle	Roadster
+Black Motor Company	bodyStyle	Surrey
+Colt Runabout	bodyStyle	Runabout
+DAF Daffodil	bodyStyle	Sedan
+DAF Daffodil	bodyStyle	Panel van with or without side windows
+DKW Junior	bodyStyle	2
+Bi-Autogo	bodyStyle	Roadster
+Goliath 1100	bodyStyle	2
+Goliath 1100	bodyStyle	3
+Kirk Manufacturing Company	bodyStyle	Roadster
+Corwin Manufacturing Company	bodyStyle	side-entrance tourer
+Peugeot Type 176	bodyStyle	Limousine
+Peugeot Type 176	bodyStyle	Sedanca de Ville
+Volkswagen Polo G40	bodyStyle	3
+RAF-2203	bodyStyle	4
+Opel Laubfrosch	bodyStyle	2
+Opel Laubfrosch	bodyStyle	Delivery van
+Hyundai i40	bodyStyle	4
+Hyundai i40	bodyStyle	5
+Scion Hako Coupe	bodyStyle	3
+Renault Zoe	bodyStyle	5
+Renault Zo	bodyStyle	Roadster
+Nissan Diesel Space Dream	bodyStyle	Double-decker bus
+Lamborghini Alar	bodyStyle	2
+Elvis Presley's Pink Cadillac	bodyStyle	4
+Singer Roadster	bodyStyle	2
+BYD F3DM	bodyStyle	Sedan
+Brabus Rocket	bodyStyle	4
+Hillman Gazelle	bodyStyle	4
+Alvis TA 21	bodyStyle	4
+Alvis TA 21	bodyStyle	2
+Sunbeam-Talbot 90	bodyStyle	4
+Sunbeam-Talbot 90	bodyStyle	2
+Volvo FE	bodyStyle	Cab over
+Bedford CA	bodyStyle	Van
+GMC Terradyne	bodyStyle	4
+Alvis TC 21	bodyStyle	4
+Alvis TC 21	bodyStyle	2
+Morris Marshal	bodyStyle	4
+Morris Marshal	bodyStyle	5
+Morris Marshal	bodyStyle	panel van
+TVR T350	bodyStyle	2
+SEAT 1400	bodyStyle	4
+Blue Bird Vision	bodyStyle	School bus
+Peugeot 108	bodyStyle	3
+Peugeot 108	bodyStyle	5
+Peugeot 508	bodyStyle	4
+Peugeot 508	bodyStyle	5
+Venturi Atlantique	bodyStyle	2
+Peugeot Type 3	bodyStyle	Runabout
+Peugeot Type 54	bodyStyle	Runabout
+Silver Bullet	bodyStyle	Land speed record car
+Peugeot Type 15	bodyStyle	4
+Peugeot Type 36	bodyStyle	Roadster
+Jaguar 420 and Daimler Sovereign	bodyStyle	4
+Toyota Corolla	bodyStyle	2
+Toyota Corolla	bodyStyle	4
+Toyota Corolla	bodyStyle	5
+Toyota Corolla	bodyStyle	4
+Toyota Corolla	bodyStyle	3
+Toyota Corolla	bodyStyle	2
+Toyota Corolla	bodyStyle	5
+Toyota Corolla	bodyStyle	4
+Toyota Corolla	bodyStyle	3
+Toyota Corolla	bodyStyle	5
+Toyota Corolla	bodyStyle	2
+Toyota Corolla	bodyStyle	Coupé
+Toyota Corolla	bodyStyle	3
+Toyota Corolla	bodyStyle	Hatchback
+Toyota Corolla	bodyStyle	4
+Toyota Corolla	bodyStyle	Sedan
+Toyota Corolla	bodyStyle	5
+Toyota Corolla	bodyStyle	Liftback
+Toyota Corolla	bodyStyle	Station wagon
+Toyota Corolla	bodyStyle	/van
+Toyota Corolla	bodyStyle	2
+Toyota Corolla	bodyStyle	3
+Toyota Corolla	bodyStyle	3
+Toyota Corolla	bodyStyle	4
+Toyota Corolla	bodyStyle	5
+Toyota Corolla	bodyStyle	2
+Toyota Corolla	bodyStyle	4
+Toyota Corolla	bodyStyle	2
+Toyota Corolla	bodyStyle	3
+Toyota Corolla	bodyStyle	5
+Toyota Corolla	bodyStyle	2
+Toyota Corolla	bodyStyle	3
+Toyota Corolla	bodyStyle	2
+Toyota Corolla	bodyStyle	4
+Toyota Corolla	bodyStyle	3
+Nissan Cedric Y31	bodyStyle	4
+Ferrari California	bodyStyle	2
+Winnebago Era	bodyStyle	Van
+Wolseley Ten	bodyStyle	2
+Wolseley Ten	bodyStyle	4
+Wolseley Ten	bodyStyle	drophead coupé
+Probe 16	bodyStyle	1
+Alfa Romeo Carabo	bodyStyle	Coupe
+TVR Typhon	bodyStyle	2
+Peugeot Type 105	bodyStyle	Full-size
+Peugeot Type 105	bodyStyle	Limousine
+Daihatsu Naked	bodyStyle	5
+BYD e6	bodyStyle	5
+Dacia Duster	bodyStyle	5
+Dacia Duster	bodyStyle	4
+Opel GTC	bodyStyle	2
+TechArt 997 Turbo	bodyStyle	2
+Daimler DK400	bodyStyle	4
+TechArt Magnum	bodyStyle	4
+Chang'an Z-Shine	bodyStyle	Sedan
+TechArt 997 Carrera	bodyStyle	2
+Mercedes-Benz 500K	bodyStyle	2
+SEAT Exeo	bodyStyle	4
+SEAT Exeo	bodyStyle	5
+TVR 390SE	bodyStyle	2
+Toyota Carina ED	bodyStyle	4
+Toyota Corona EXiV	bodyStyle	4
+Honda Freed	bodyStyle	5
+Speed of the Wind	bodyStyle	Land speed record car
+Ford GT70	bodyStyle	2
+Bedford HA	bodyStyle	Sedan delivery
+Tatra 57	bodyStyle	2
+Tatra 75	bodyStyle	2
+Lada Priora	bodyStyle	4
+Lada Priora	bodyStyle	3
+Lada Priora	bodyStyle	5
+Tatra 54	bodyStyle	2
+Peugeot Type 4	bodyStyle	Runabout
+Peugeot Type 8	bodyStyle	Runabout
+Peugeot Type 5	bodyStyle	Runabout
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	2
+Alvis TF 21	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	2
+Ford Taurus	bodyStyle	4
+Ford Taurus	bodyStyle	5
+Ford Taurus	bodyStyle	4
+Ford Taurus	bodyStyle	5
+Daihatsu Storia	bodyStyle	5
+Alvis TC 108G	bodyStyle	2
+MP Lafer	bodyStyle	2
+Dacia 1320	bodyStyle	5
+Dacia 1325	bodyStyle	5
+BMW X-Coupe	bodyStyle	2
+Tesla Model S	bodyStyle	5
+Toyota Cresta	bodyStyle	4
+Anziel Nova	bodyStyle	2
+Kia Forte	bodyStyle	2
+Kia Forte	bodyStyle	4
+Kia Forte	bodyStyle	5
+Hafei Ruiyi	bodyStyle	Cab-forward pickup
+Electrosport	bodyStyle	4
+Brilliance BS4	bodyStyle	Sedan
+Volkswagen Transporter	bodyStyle	Van
+Volkswagen Transporter	bodyStyle	Pickup truck
+Volkswagen Transporter	bodyStyle	Minibus
+Volkswagen Transporter	bodyStyle	Crew cab
+Volkswagen Transporter	bodyStyle	Chassis cab
+Volkswagen Transporter	bodyStyle	Campervan
+Mitsubishi i-MiEV	bodyStyle	5
+Kenworth T600	bodyStyle	Conventional\n* Day cab\n* Sleeper cab
+Lotus Evora	bodyStyle	2
+ATS 2500 GT	bodyStyle	2
+Toyota Crown Majesta	bodyStyle	4
+Adler Diplomat	bodyStyle	“Limousine”
+Adler Diplomat	bodyStyle	“Pullman Limousine”
+Adler Diplomat	bodyStyle	Cabriolets
+Ford Taurus	bodyStyle	4
+Ford Taurus	bodyStyle	5
+Ford Taurus	bodyStyle	4
+Ford Taurus	bodyStyle	5
+Ford Taurus	bodyStyle	4
+Ford Taurus	bodyStyle	4
+Neoplan Skyliner	bodyStyle	Double-deck multi-axle touring coach
+Volkswagen Golf Mk6	bodyStyle	3
+Volkswagen Golf Mk6	bodyStyle	5
+Volkswagen Golf Mk6	bodyStyle	2
+Citroën C3 Picasso	bodyStyle	5
+Aston Martin One-77	bodyStyle	2
+Great Wall Wingle	bodyStyle	4
+Great Wall Wingle	bodyStyle	2
+Honda Elysion	bodyStyle	5
+Suzuki Kizashi	bodyStyle	4
+Honda Rafaga	bodyStyle	4
+Honda Torneo	bodyStyle	4
+Honda Civic	bodyStyle	3
+Honda Civic	bodyStyle	4
+Honda Civic	bodyStyle	5
+Honda Civic	bodyStyle	3
+Honda Civic	bodyStyle	4
+Honda Civic	bodyStyle	5
+Honda Civic	bodyStyle	3
+Honda Civic	bodyStyle	4
+Honda Civic	bodyStyle	5
+Honda Civic	bodyStyle	2
+Honda Civic	bodyStyle	3
+Honda Civic	bodyStyle	4
+Honda Civic	bodyStyle	2
+Honda Civic	bodyStyle	3
+Honda Civic	bodyStyle	4
+Honda Civic	bodyStyle	5
+Honda Civic	bodyStyle	2
+Honda Civic	bodyStyle	3
+Honda Civic	bodyStyle	4
+Honda Civic	bodyStyle	5
+Honda Civic	bodyStyle	2
+Honda Civic	bodyStyle	3
+Honda Civic	bodyStyle	4
+Honda Civic	bodyStyle	5
+BMW X1	bodyStyle	5
+Holden FE	bodyStyle	4
+Holden FE	bodyStyle	5
+Holden FE	bodyStyle	2
+9ff GT9	bodyStyle	Coupé
+Ford Landau	bodyStyle	2
+Honda Vigor	bodyStyle	3
+Honda Vigor	bodyStyle	4
+Meteor Rideau	bodyStyle	4
+Meteor Rideau	bodyStyle	2
+Peugeot 2008	bodyStyle	5
+Peugeot 3008	bodyStyle	5
+Holden Hurricane	bodyStyle	Coupé
+SEAT Cupra GT	bodyStyle	Coupé
+Rolls-Royce Phantom Coupé	bodyStyle	2
+Bedford RL	bodyStyle	chassis cab, flatbed, troop carrier, fire engine, recovery vehicle
+Škoda Yeti	bodyStyle	5
+International Harvester S-Series	bodyStyle	;Truck \n*Tractor\n*Straight truck\n;Bus\n*Cowled chassis \n*Stripped chassis
+Castle Three	bodyStyle	Roadster
+Chevrolet Orlando	bodyStyle	4
+Dodge Phoenix	bodyStyle	4
+Aptera 2 Series	bodyStyle	2
+Ferrari F430 Challenge	bodyStyle	Coupe
+Mercedes-Benz F700	bodyStyle	4
+Toyota Corolla Levin and Toyota Sprinter Trueno	bodyStyle	2
+Toyota Corolla Levin and Toyota Sprinter Trueno	bodyStyle	3
+Lamborghini Estoque	bodyStyle	4
+Jaguar F-Type	bodyStyle	2
+Scottish Aviation Scamp	bodyStyle	Microcar
+ZIL-115	bodyStyle	4
+Renault Celtaquatre	bodyStyle	2
+Renault Celtaquatre	bodyStyle	4
+Renault Monaquatre	bodyStyle	2
+Renault Monaquatre	bodyStyle	4
+Renault Monastella	bodyStyle	4
+Renault Monastella	bodyStyle	2
+Renault Primastella	bodyStyle	4
+Renault Primastella	bodyStyle	2
+Wolseley Eight	bodyStyle	4
+Renault KJ	bodyStyle	4
+Renault Type MT	bodyStyle	2
+Renault KZ	bodyStyle	4
+Renault GS	bodyStyle	4
+Renault GS	bodyStyle	2
+Toyota Mark X ZiO	bodyStyle	5
+Renault Vivasix	bodyStyle	4
+Renault Vivasix	bodyStyle	2
+Renault Colorale	bodyStyle	4
+Renault Colorale	bodyStyle	2
+Peugeot Type 56	bodyStyle	Tonneau
+MG M-type	bodyStyle	2
+MG M-type	bodyStyle	Coupe
+GT by Citroën	bodyStyle	Two seater, mid-engined coupé
+Oka NEV ZEV	bodyStyle	2
+Pontiac Firebird	bodyStyle	3
+Pontiac Firebird	bodyStyle	2
+Melling Wildcat	bodyStyle	2
+Opel Olympia Rekord	bodyStyle	2
+Opel Olympia Rekord	bodyStyle	3
+Citroën Hypnos	bodyStyle	5
+Mazda Taiki	bodyStyle	2
+Bungartz Butz	bodyStyle	Cabrio-Limousine
+Mazda Biante	bodyStyle	5
+Mini E	bodyStyle	3
+Mercedes-Benz GLA-Class	bodyStyle	4
+Renault Altica	bodyStyle	3
+Nissan Saurus	bodyStyle	Roadster
+Alfa Romeo 2000 Sportiva	bodyStyle	2
+GM HydroGen4	bodyStyle	5
+Peugeot Type 33	bodyStyle	Phaeton body
+Maybach Zeppelin	bodyStyle	4
+Maybach Zeppelin	bodyStyle	2
+Gurgel BR-800	bodyStyle	2
+Palmerston	bodyStyle	two seat open with dickey seat.
+Roewe 550	bodyStyle	4
+Toyota Opa	bodyStyle	5
+Toyota Mark II Blit	bodyStyle	5
+FIA Formula Two Championship	bodyStyle	1
+Facel Vega FVS	bodyStyle	2
+Renault Samsung SM5	bodyStyle	4
+Suzuki LT-R450	bodyStyle	All-terrain vehicle
+SsangYong Musso Sports	bodyStyle	Sport utility truck
+Kia Pregio	bodyStyle	4
+Noble M10	bodyStyle	2
+Saipa Tiba	bodyStyle	4
+Subaru Legacy	bodyStyle	\
+Subaru Legacy	bodyStyle	4
+Subaru Legacy	bodyStyle	5
+Subaru Legacy	bodyStyle	5
+Subaru Legacy	bodyStyle	4
+Subaru Legacy	bodyStyle	\
+Subaru Legacy	bodyStyle	5
+Subaru Legacy	bodyStyle	4
+GAZ Volga Siber	bodyStyle	4
+BMW Z4	bodyStyle	2
+Aston Martin Atom	bodyStyle	4
+Lexus HS	bodyStyle	4
+Bedford CF	bodyStyle	Van
+Radical SR8	bodyStyle	Roadster
+Pontiac Rageous	bodyStyle	4
+Mazda RX-01	bodyStyle	2
+Cadillac ELR	bodyStyle	2
+Lincoln C	bodyStyle	5
+Volkswagen Concept BlueSport	bodyStyle	Roadster
+Armstrong Siddeley Lancaster	bodyStyle	4
+Fiat Bravo	bodyStyle	5
+Audi A7	bodyStyle	5
+20	bodyStyle	four seat saloon
+20	bodyStyle	four seat cabriolet
+20	bodyStyle	two seat convertible coupé
+EDAG Cinema 7D	bodyStyle	4
+Great Wall Florid	bodyStyle	5
+Dodge Copperhead	bodyStyle	Roadster
+Nissan Prince Royal	bodyStyle	4
+SsangYong Istana	bodyStyle	Van
+Datsun Bluebird	bodyStyle	4
+Datsun Bluebird	bodyStyle	2
+Datsun Bluebird	bodyStyle	5
+DS 5	bodyStyle	FasTourer 5-door hatchback
+DS 5	bodyStyle	5
+DS 3	bodyStyle	3
+Citroën DS Inside	bodyStyle	3
+Nissan Juke	bodyStyle	5
+Hispano-Suiza J12	bodyStyle	by arrangement with the customer's coachbuilder
+Cadillac Series 355	bodyStyle	2
+Cadillac Series 355	bodyStyle	4
+Lexus LS	bodyStyle	4
+Protea	bodyStyle	Two door, Roadster
+Chrysler 200C EV	bodyStyle	4
+Porsche 911	bodyStyle	2
+Proton Exora	bodyStyle	5
+BMW 3 Series Gran Turismo	bodyStyle	5
+Mercedes-Benz SLS AMG	bodyStyle	2
+TECHART GTsport	bodyStyle	2
+BMW Z Models	bodyStyle	2
+Wuling Dragon	bodyStyle	Microvan
+Wuling Dragon	bodyStyle	Pickup truck
+Volkswagen Polo Mk5	bodyStyle	3
+Volkswagen Polo Mk5	bodyStyle	5
+Volkswagen Polo Mk5	bodyStyle	4
+LincVolt	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	2
+Ford Falcon	bodyStyle	4
+Ford Falcon	bodyStyle	5
+Nissan Pino	bodyStyle	5
+Suzuki Kei	bodyStyle	3
+Suzuki Kei	bodyStyle	5
+Checker Aerobus	bodyStyle	6
+Checker Aerobus	bodyStyle	7
+Acura ZDX	bodyStyle	5
+Tata Prima	bodyStyle	COE\n* Day cab\n* Sleeper cab\n* Globetrotter  High cab
+Hyundai Nuvis	bodyStyle	2
+Subaru Legacy	bodyStyle	4
+Subaru Legacy	bodyStyle	5
+Nissan Bassara	bodyStyle	5
+Holden HK	bodyStyle	4
+Holden HK	bodyStyle	5
+Holden HK	bodyStyle	2
+MG 6	bodyStyle	5
+MG 6	bodyStyle	4
+TVR Vixen	bodyStyle	Coupe
+Holden HJ	bodyStyle	4
+Holden HJ	bodyStyle	5
+Holden HJ	bodyStyle	2
+Holden EJ	bodyStyle	4
+Holden EJ	bodyStyle	5
+Holden EJ	bodyStyle	2
+IKCO Runna	bodyStyle	4
+Holden FC	bodyStyle	4
+Holden FC	bodyStyle	5
+Holden FC	bodyStyle	2
+International 3000	bodyStyle	Bare chassis\n*school bus/MFSAB\n*commercial bus
+2000	bodyStyle	School bus
+2000	bodyStyle	Commercial bus
+Bedford TK	bodyStyle	chassis cab, flatbed, troop carrier, tipper, recovery vehicle
+BYD F0	bodyStyle	5
+Chevrolet Fleetline	bodyStyle	2
+Chevrolet Fleetline	bodyStyle	4
+Shuanghuan Noble	bodyStyle	3
+Volvo PV 60	bodyStyle	4
+NSU Typ 110	bodyStyle	2
+Jensen PW	bodyStyle	Saloon
+Jensen S-type	bodyStyle	Saloon
+Jensen S-type	bodyStyle	Convertible
+Jensen H-type	bodyStyle	Saloon
+Nissan Hypermini	bodyStyle	3
+Nissan EXA	bodyStyle	2
+Nissan EXA	bodyStyle	3
+Ford Thames 307E	bodyStyle	two-door panel van
+Holden HZ	bodyStyle	4
+Holden HZ	bodyStyle	5
+Holden HZ	bodyStyle	2
+Holden WB	bodyStyle	2
+Holden HX	bodyStyle	4
+Holden HX	bodyStyle	2
+SEAT Tango	bodyStyle	2
+SEAT Bolero	bodyStyle	4
+SEAT Salsa	bodyStyle	3
+Toyota concept vehicles, 1970–79	bodyStyle	2
+Toyota concept vehicles, 1970–79	bodyStyle	Liftback
+Toyota concept vehicles, 1970–79	bodyStyle	trailer
+SEAT Proto	bodyStyle	3
+Toyota concept vehicles, 1935–69	bodyStyle	1
+Steyr 100	bodyStyle	4
+Steyr 100	bodyStyle	2
+Mercedes-Benz W10	bodyStyle	2
+Mercedes-Benz W10	bodyStyle	4
+Ford Thunderbird	bodyStyle	2
+Ford Thunderbird	bodyStyle	2
+Ford Thunderbird	bodyStyle	2
+Ford Thunderbird	bodyStyle	2
+Ford Thunderbird	bodyStyle	2
+Ford Thunderbird	bodyStyle	4
+Ford Thunderbird	bodyStyle	2
+Ford Thunderbird	bodyStyle	2
+Ford Thunderbird	bodyStyle	2
+Ford Thunderbird	bodyStyle	2
+Ford Thunderbird	bodyStyle	2
+Ford Thunderbird	bodyStyle	2
+Toyota concept vehicles, 1980–89	bodyStyle	2
+Toyota concept vehicles, 1980–89	bodyStyle	4
+Toyota concept vehicles, 1980–89	bodyStyle	3
+Toyota concept vehicles, 2000–09	bodyStyle	Minivan
+Toyota concept vehicles, 2000–09	bodyStyle	2
+Toyota concept vehicles, 2000–09	bodyStyle	SUV
+Toyota concept vehicles, 2000–09	bodyStyle	Coupé utility
+Toyota concept vehicles, 2000–09	bodyStyle	Pickup truck
+Toyota concept vehicles, 2000–09	bodyStyle	4
+Toyota concept vehicles, 2000–09	bodyStyle	5
+Toyota concept vehicles, 2000–09	bodyStyle	3
+Toyota concept vehicles, 2000–09	bodyStyle	Coupé
+Toyota concept vehicles, 1990–99	bodyStyle	4
+Toyota concept vehicles, 1990–99	bodyStyle	2
+Toyota concept vehicles, 1990–99	bodyStyle	Station wagon
+Toyota concept vehicles, 1990–99	bodyStyle	SUV
+Toyota concept vehicles, 1990–99	bodyStyle	Minivan
+Sunbeam 3-litre	bodyStyle	Sports car
+Nissan NV200	bodyStyle	4
+Peugeot 5008	bodyStyle	5
+Daewoo Maepsy	bodyStyle	2
+Daewoo Maepsy	bodyStyle	4
+SsangYong WZ	bodyStyle	4
+Standard Flying Fourteen	bodyStyle	4
+Standard Flying Fourteen	bodyStyle	2
+Racing Green Endurance	bodyStyle	0
+Daimler Consort	bodyStyle	four-door saloon
+Daimler Consort	bodyStyle	numerous coachbuilt versions, standard catalogued models by Daimler subsidiaries Hooper  and Barker , others as arranged with coachbuilder by customer
+Nissan Primera	bodyStyle	4
+Nissan Primera	bodyStyle	5
+Monteverdi Safari	bodyStyle	3
+BMW 5 Series Gran Turismo	bodyStyle	5
+Chevrolet Deluxe	bodyStyle	2
+Chevrolet Deluxe	bodyStyle	4
+1955 Chevrolet	bodyStyle	2
+1955 Chevrolet	bodyStyle	4
+Alfa Romeo Proteo	bodyStyle	Coupe
+Holden FB	bodyStyle	4
+Holden FB	bodyStyle	5
+Holden FB	bodyStyle	2
+International Harvester S-Series	bodyStyle	School bus
+Tatra 12	bodyStyle	See picture
+Tatra 17	bodyStyle	2
+Kia Granbird	bodyStyle	Coach
+International 3300	bodyStyle	Cowled chassis\n*school bus\n*commercial bus
+Range Rover	bodyStyle	3
+Range Rover	bodyStyle	5
+Cadillac XTS	bodyStyle	4
+Freightliner C2	bodyStyle	Cowled chassis\n*school bus
+Cadillac de Ville series	bodyStyle	4
+Cadillac de Ville series	bodyStyle	2
+Deronda Type F	bodyStyle	Exoskeleton car
+Gurgel Itaipu	bodyStyle	2
+Ford 021C	bodyStyle	4
+Jaguar XJ	bodyStyle	4
+Morris Commercial J2	bodyStyle	Van
+Morris Commercial J2	bodyStyle	pickup
+Morris Commercial J2	bodyStyle	minibus
+Abarth 1000 GT Coupé	bodyStyle	Two door coupé
+Mahindra Armada	bodyStyle	4
+Jaguar XJ	bodyStyle	4
+AC 3000ME	bodyStyle	2
+International Harvester Metro Van	bodyStyle	Van MPV or COE truck
+International Harvester Metro Van	bodyStyle	MPV
+Toyota Camry	bodyStyle	4
+Ferrari 458	bodyStyle	2
+Michalak C7	bodyStyle	Roadster
+Nissan Leaf	bodyStyle	5
+Kia Retona	bodyStyle	3
+Caterpillar 797B	bodyStyle	2
+Wartburg 311	bodyStyle	4
+Wartburg 311	bodyStyle	3
+Wartburg 311	bodyStyle	5
+Wartburg 311	bodyStyle	2
+Peugeot RCZ	bodyStyle	2
+Cadillac ATS	bodyStyle	4
+Cadillac ATS	bodyStyle	2
+Bertone Mantide	bodyStyle	2
+Infiniti Essence	bodyStyle	2
+Bentley Mulsanne	bodyStyle	4
+Austin A40 Countryman	bodyStyle	2
+Kia Venga	bodyStyle	5
+Alfa Romeo Spider	bodyStyle	2
+Elfin Type 3 Clubman	bodyStyle	Open body 2 seat roadster
+Thomas Minotour	bodyStyle	School bus
+Thomas Minotour	bodyStyle	MFSAB
+Great Wall Peri	bodyStyle	5
+RAF-977	bodyStyle	10
+Mini Wildgoose	bodyStyle	Campervan
+Ford Falcon	bodyStyle	2
+McLaren 12C	bodyStyle	2
+Willys Americar	bodyStyle	2
+Willys Americar	bodyStyle	4
+Willys Americar	bodyStyle	3
+Blue Bird Mini Bird	bodyStyle	School bus
+Blue Bird Mini Bird	bodyStyle	Commercial bus
+Ford B-Series	bodyStyle	Cowled chassis\n*school bus chassis\n*commercial bus chassis
+Bugatti 16C Galibier	bodyStyle	5
+Peugeot BB1	bodyStyle	3
+Infiniti QX56	bodyStyle	5
+Luxgen M7	bodyStyle	Minivan
+Volvo V60	bodyStyle	5
+Ford Figo	bodyStyle	5
+Mercedes-Benz 540K	bodyStyle	two seater cabriolet
+Mercedes-Benz 540K	bodyStyle	four seater coupé
+Mercedes-Benz 540K	bodyStyle	seven seater limousine
+Jaguar XK	bodyStyle	3
+Jaguar XK	bodyStyle	2
+BMW i8	bodyStyle	2
+Toyota Camry	bodyStyle	4
+Simca 5	bodyStyle	2
+Daihatsu Mira Cocoa	bodyStyle	5
+Volvo PV650 Series	bodyStyle	345600.0
+Volvo TR670 Series	bodyStyle	4
+Chevrolet Agile	bodyStyle	5
+Chevrolet Agile	bodyStyle	2
+Holden EK	bodyStyle	4
+Holden EK	bodyStyle	5
+Holden EK	bodyStyle	2
+Holden HT	bodyStyle	4
+Holden HT	bodyStyle	5
+Holden HT	bodyStyle	2
+Holden HD	bodyStyle	4
+Holden HD	bodyStyle	5
+Holden HD	bodyStyle	2
+Holden HG	bodyStyle	4
+Holden HG	bodyStyle	5
+Holden HG	bodyStyle	2
+Holden HR	bodyStyle	4
+Holden HR	bodyStyle	5
+Holden HR	bodyStyle	2
+Toyota Camry	bodyStyle	4
+Toyota Camry	bodyStyle	5
+Kia Cadenza	bodyStyle	4
+Honda Accord	bodyStyle	4
+Honda Accord	bodyStyle	2
+Honda Accord	bodyStyle	4
+Honda Accord	bodyStyle	5
+Honda Accord	bodyStyle	4
+Honda Accord	bodyStyle	5
+Honda Accord	bodyStyle	4
+Honda Accord	bodyStyle	2
+Honda Crosstour	bodyStyle	5
+Tobe M'car	bodyStyle	3
+LaFerrari	bodyStyle	2
+Chevrolet 400	bodyStyle	sedan four doors.
+Hennessey Venom GT	bodyStyle	2
+Audi R8 Le Mans Concept	bodyStyle	2
+Luxgen U7	bodyStyle	5
+BMW ActiveE	bodyStyle	2
+Toyota Prius Plug-in Hybrid	bodyStyle	5
+Troller Pantanal	bodyStyle	2
+Honda HSV-010 GT	bodyStyle	Coupé
+Kia Joice	bodyStyle	5
+Monteverdi Hai 650 F1	bodyStyle	2
+Meadows Frisky	bodyStyle	4
+Meadows Frisky	bodyStyle	3
+GMC Granite	bodyStyle	5
+Ford P100	bodyStyle	2
+Tata Aria	bodyStyle	5
+Tata Magic	bodyStyle	Microvan
+Tata Magic Iris	bodyStyle	3
+Toyota Etios	bodyStyle	4
+Toyota Etios	bodyStyle	5
+Honda New Small Concept	bodyStyle	5
+Suzuki Palette	bodyStyle	5
+Chrysler VIP	bodyStyle	4
+Toyota concept vehicles, 2010–19	bodyStyle	3
+Toyota concept vehicles, 2010–19	bodyStyle	5
+Toyota concept vehicles, 2010–19	bodyStyle	2
+Toyota concept vehicles, 2010–19	bodyStyle	4
+Tata Sumo Grande	bodyStyle	4
+Tata Cliffrider	bodyStyle	4
+Lotus 59	bodyStyle	Open wheel car
+Mini Countryman	bodyStyle	5
+Oullim Spirra	bodyStyle	2
+Mazda Kiyora	bodyStyle	2
+Amfibus	bodyStyle	Bus
+Maruti Eeco	bodyStyle	Microvan
+Wayne Lifestar	bodyStyle	School bus
+GQ by Citroën	bodyStyle	5
+Lexus CT	bodyStyle	5
+DOK-ING Loox	bodyStyle	3
+4	bodyStyle	2
+BMW 5 Series	bodyStyle	4
+BMW 5 Series	bodyStyle	5
+Brabus Bullit	bodyStyle	4
+Brabus E V12	bodyStyle	4
+Bucyrus MT6300AC	bodyStyle	Dump truck
+Komatsu 960E-1	bodyStyle	Dump truck
+Terex 33-19 %22Titan%22	bodyStyle	Dump truck
+Alfa Romeo 2uettottanta	bodyStyle	2
+Koenigsegg Agera	bodyStyle	2
+BMW 1 Series	bodyStyle	2
+BMW 1 Series	bodyStyle	3
+BMW 1 Series	bodyStyle	5
+Brabus C V8	bodyStyle	4
+Porsche 918 Spyder	bodyStyle	2
+F31)	bodyStyle	4
+F31)	bodyStyle	5
+IAME Rastrojero	bodyStyle	2
+IAME Rastrojero	bodyStyle	4
+Caterpillar 797F	bodyStyle	2
+Iso Rivolta IR 300	bodyStyle	Coupe
+Nissan NV	bodyStyle	3
+Nissan NV	bodyStyle	4
+Keating TKR	bodyStyle	2
+Izh 2125	bodyStyle	5
+Izh 2126	bodyStyle	5
+Izh 2126	bodyStyle	3
+IAME Rastrojero Conosur	bodyStyle	4
+Proton Inspira	bodyStyle	4
+Proton EMAS	bodyStyle	3
+Mercedes-Benz W105	bodyStyle	4
+Ford Focus	bodyStyle	5
+Ford Focus	bodyStyle	4
+Steyr 120 Super, Steyr 125 Super, Steyr 220	bodyStyle	Sedan
+Steyr 120 Super, Steyr 125 Super, Steyr 220	bodyStyle	convertible
+Steyr 120 Super, Steyr 125 Super, Steyr 220	bodyStyle	sports car
+Freightliner FS-65	bodyStyle	Cowled chassis\n*school bus\n*commercial bus\n*specialty vehicle
+Renault Fluence Z.E.	bodyStyle	4
+Citroën Metropolis	bodyStyle	4
+Lifan 320	bodyStyle	5
+Renault Express	bodyStyle	Van
+Tata Hispano Globus	bodyStyle	Single-deck coach
+Daihatsu Tanto Exe	bodyStyle	5
+Nissan MID4	bodyStyle	2
+Kia Ray	bodyStyle	4
+Oldsmobile Touring Sedan	bodyStyle	4
+Hotchkiss Artois	bodyStyle	4
+Hotchkiss Grégoire	bodyStyle	4
+GMC Terracross	bodyStyle	Sport utility vehicle
+Renault Latitude	bodyStyle	4
+NW Rennzweier	bodyStyle	Runabout
+Blue Bird Micro Bird	bodyStyle	School bus
+Blue Bird Micro Bird	bodyStyle	Mini bus
+Präsident	bodyStyle	Runabout
+KSU Gazal-1	bodyStyle	5
+Wheego Whip	bodyStyle	2
+Austin 12	bodyStyle	4
+T.25	bodyStyle	1
+DS 4	bodyStyle	3
+Mercedes-Benz GLC-Class	bodyStyle	5
+NW Elektromobil	bodyStyle	Runabout four seater
+NW B	bodyStyle	Runabout
+NW C	bodyStyle	Runabout
+NW D	bodyStyle	Runabout
+NW E	bodyStyle	Runabout 2-4 seater
+NW F	bodyStyle	Runabout
+NW J	bodyStyle	Touring 6-seater
+Alfa Romeo Giulia	bodyStyle	4
+Morris Oxford MO	bodyStyle	4
+Morris Oxford MO	bodyStyle	2
+Suzuki Fronte 800	bodyStyle	5
+Haynes Roadster	bodyStyle	Roadster
+Hudson Utility Coupe	bodyStyle	2
+Mercedes-Benz L 319	bodyStyle	Van
+Mercedes-Benz L 319	bodyStyle	Crew Van
+Mercedes-Benz L 319	bodyStyle	Pickup truck
+Mercedes-Benz L 319	bodyStyle	Minibus
+Renault DeZir	bodyStyle	2
+Mitsuoka Himiko	bodyStyle	2
+Yue Loong Feeling	bodyStyle	5
+GTA Spano	bodyStyle	2
+MAN NL202	bodyStyle	Full size bus
+Neorion Chicago	bodyStyle	4
+IKCO Samand Soren	bodyStyle	4
+Chevrolet Impala	bodyStyle	2
+Chevrolet Impala	bodyStyle	4
+Chevrolet Impala	bodyStyle	2
+Chevrolet Impala	bodyStyle	4
+Great Wall Coolbear	bodyStyle	5
+Morgan Eva GT	bodyStyle	Grand tourer
+Tatra 810	bodyStyle	Cab over
+Tatra 163	bodyStyle	Conventional truck
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	5
+Tatra 816	bodyStyle	Cab over
+Citroën Survolt	bodyStyle	2
+Chrysler 200	bodyStyle	4
+Chrysler 200	bodyStyle	2
+Hyundai ix20	bodyStyle	5
+Peugeot EX1 Concept	bodyStyle	2
+Citroën Revolte	bodyStyle	5
+Citroën Lacoste	bodyStyle	No-door crossover
+Porsche Macan	bodyStyle	5
+Chevrolet Stylemaster	bodyStyle	2
+Chevrolet Stylemaster	bodyStyle	4
+Mercedes-Benz F800	bodyStyle	4
+Jaguar C-X75	bodyStyle	2
+Lotus Ethos	bodyStyle	Hatchback
+Audi quattro concept	bodyStyle	2
+Mazda Grand Familia	bodyStyle	2
+Mazda Grand Familia	bodyStyle	4
+Mazda Grand Familia	bodyStyle	5
+Buick Verano	bodyStyle	4
+Buick Verano	bodyStyle	5
+Mitsubishi Lancer	bodyStyle	2
+Mitsubishi Lancer	bodyStyle	4
+Mitsubishi Lancer	bodyStyle	5
+Mitsubishi Lancer	bodyStyle	3
+Noble M600	bodyStyle	2
+Lexus GS	bodyStyle	4
+Opel Kadett C	bodyStyle	Sedan
+Opel Kadett C	bodyStyle	\
+Opel Kadett C	bodyStyle	Station wagon
+Opel Kadett C	bodyStyle	Coupé
+Opel Kadett C	bodyStyle	Cabriolet
+AC Petite	bodyStyle	2
+Renault Symbol	bodyStyle	4
+Renault Twizy	bodyStyle	3
+SEAT Fórmula	bodyStyle	2
+Lamborghini Aventador	bodyStyle	2
+Tata 407	bodyStyle	Pickup truck
+Tesla Model X	bodyStyle	5
+Volvo 7700	bodyStyle	Single-decker city bus and articulated city bus
+Sunbeam-Talbot Ten	bodyStyle	2
+Hartnett	bodyStyle	2
+Hartnett	bodyStyle	3
+Toyota Prius	bodyStyle	5
+Toyota Prius	bodyStyle	4
+Toyota Prius	bodyStyle	5
+Packard-Bentley	bodyStyle	Monoposto
+Wuling Hongtu	bodyStyle	Microvan
+MG EX-E	bodyStyle	Coupé
+Hyundai Blue-Will	bodyStyle	5
+Yo-Mobile	bodyStyle	Crossover, hatchback, truck
+TVR 400SE	bodyStyle	2
+Lexus IS	bodyStyle	2
+Lexus IS	bodyStyle	4
+BYD M6	bodyStyle	Minivan
+Chevrolet Aveo	bodyStyle	3
+Chevrolet Aveo	bodyStyle	5
+Chevrolet Aveo	bodyStyle	4
+Volkswagen Passat	bodyStyle	2
+Volkswagen Passat	bodyStyle	3
+Volkswagen Passat	bodyStyle	4
+Volkswagen Passat	bodyStyle	5
+Volkswagen Passat	bodyStyle	2
+Volkswagen Passat	bodyStyle	3
+Volkswagen Passat	bodyStyle	4
+Volkswagen Passat	bodyStyle	5
+Volkswagen Passat	bodyStyle	4
+Volkswagen Passat	bodyStyle	5
+Volkswagen Passat	bodyStyle	4
+Volkswagen Passat	bodyStyle	5
+Volkswagen Passat	bodyStyle	4
+Volkswagen Passat	bodyStyle	5
+Toyota Prius V	bodyStyle	5
+Honda Civic	bodyStyle	2
+Honda Civic	bodyStyle	4
+Honda Civic	bodyStyle	5
+Mercedes-Benz SLK-Class	bodyStyle	2
+Chevrolet Cosworth Vega	bodyStyle	3
+Ferrari FF	bodyStyle	2
+Pagani Huayra	bodyStyle	2
+Audi Coupé	bodyStyle	2
+Volkswagen New Compact Coupé	bodyStyle	2
+Ford Focus Electric	bodyStyle	5
+Mercedes-Benz Vision SLA	bodyStyle	2
+Cadillac Urban Luxury Concept	bodyStyle	3
+Mini Paceman	bodyStyle	3
+Škoda Favorit	bodyStyle	5
+Škoda Favorit	bodyStyle	2
+Audi RS 2 Avant	bodyStyle	5
+Chevrolet Van	bodyStyle	Van
+Chevrolet Van	bodyStyle	3
+Chevrolet Van	bodyStyle	4
+General Lee	bodyStyle	2
+Toyota Harrier	bodyStyle	5
+Lexus RX	bodyStyle	5
+Volkswagen Iltis	bodyStyle	Various, mostly cabriolet
+Opel Agila	bodyStyle	5
+Mazda Premacy	bodyStyle	Compact MPV
+Subaru Tribeca	bodyStyle	5
+Bond Bug	bodyStyle	Canopy door
+Bond Bug	bodyStyle	Coupé
+Nissan Silvia	bodyStyle	2
+Nissan Silvia	bodyStyle	Coupe
+Nissan Silvia	bodyStyle	3
+Nissan Silvia	bodyStyle	Hatchback
+Nissan Silvia	bodyStyle	Convertible
+Mitsubishi Lancer WRC	bodyStyle	4
+Kia K9	bodyStyle	4
+BMW i3	bodyStyle	5
+Chery A1	bodyStyle	5
+Renault Captur	bodyStyle	5
+Renault Captur	bodyStyle	2
+Alfa Romeo 4C	bodyStyle	2
+Tata Pixel	bodyStyle	3
+Chrysler Valiant	bodyStyle	4
+Saab PhoeniX	bodyStyle	2
+Great Wall Voleex C10	bodyStyle	5
+Geely LC	bodyStyle	5
+Lamborghini Miura concept	bodyStyle	2
+Breckland Beira	bodyStyle	Roadster
+Mazda Étude	bodyStyle	3
+Great Wall Haval H5	bodyStyle	5
+Škoda 1202	bodyStyle	4
+Škoda 1202	bodyStyle	3
+Škoda 1202	bodyStyle	2
+Škoda 1201	bodyStyle	3
+Renault R-Space	bodyStyle	5
+Great Wall Cowry	bodyStyle	5
+Alfa Romeo 2300	bodyStyle	4
+FSO Polonez 2000 Rally	bodyStyle	5
+Opel Corsa	bodyStyle	3
+Opel Corsa	bodyStyle	2
+Opel Corsa	bodyStyle	4
+Opel Corsa	bodyStyle	5
+Brilliance BS2	bodyStyle	Hatchback
+Brilliance BC3	bodyStyle	Coupé
+Great Wall Voleex C30	bodyStyle	4
+Triumph TR7 Sprint	bodyStyle	2
+BYD F6	bodyStyle	Sedan
+Illuminati Motor Works Seven	bodyStyle	4
+IKCO Dena	bodyStyle	4
+Infiniti QX60	bodyStyle	5
+Clio Williams Maxi	bodyStyle	3
+MG 5	bodyStyle	5
+Holden Commodore	bodyStyle	2
+Holden Commodore	bodyStyle	4
+Holden Commodore	bodyStyle	5
+Honda Odyssey	bodyStyle	5
+Honda Odyssey	bodyStyle	5
+Chery A3	bodyStyle	4
+Chery A3	bodyStyle	5
+6	bodyStyle	4
+6	bodyStyle	2
+Lincoln H-series	bodyStyle	2
+Lincoln H-series	bodyStyle	4
+Chery A13	bodyStyle	5
+Porsche 991	bodyStyle	2
+DAX Rush	bodyStyle	Roadster
+Škoda Felicia	bodyStyle	2
+Jaguar B99	bodyStyle	4
+Ford Focus	bodyStyle	3
+Ford Focus	bodyStyle	5
+Ford Focus	bodyStyle	4
+Ford Focus	bodyStyle	2
+Ford Focus	bodyStyle	3
+Ford Focus	bodyStyle	4
+Ford Focus	bodyStyle	5
+Chevrolet Standard Six	bodyStyle	2
+Chevrolet Standard Six	bodyStyle	4
+Simca 6	bodyStyle	2
+Simca 6	bodyStyle	3
+Ford Taunus G93A	bodyStyle	2
+Ford Taunus G93A	bodyStyle	a wide range of coach-built bodies, including cabriolets and station wagons became available after 1949
+Ford Taunus P1	bodyStyle	2
+Ford Taunus P1	bodyStyle	3
+Ford B-Max	bodyStyle	5
+Ford Taunus P2	bodyStyle	2
+Ford Taunus P2	bodyStyle	3
+Ford Ranger	bodyStyle	2
+Ford Ranger	bodyStyle	4
+Ford Taunus P3	bodyStyle	2
+Ford Taunus P3	bodyStyle	3
+Ford Taunus P4	bodyStyle	2
+Ford Taunus P4	bodyStyle	3
+Ford Taunus P5	bodyStyle	2
+Ford Taunus P5	bodyStyle	3
+Range Rover	bodyStyle	5
+Range Rover	bodyStyle	5
+Ford Taunus P6	bodyStyle	2
+Ford Taunus P6	bodyStyle	3
+Ford P7	bodyStyle	2
+Ford P7	bodyStyle	3
+F13)	bodyStyle	2
+F13)	bodyStyle	4
+Toyota Prius C	bodyStyle	5
+SSC Tuatara	bodyStyle	2
+Kia Combi	bodyStyle	Bus
+Hotchkiss Anjou	bodyStyle	4
+Hotchkiss Anjou	bodyStyle	2
+Mercedes-Benz 380	bodyStyle	Torpedo bodied 2 door “Tourenwagen”
+Mercedes-Benz 380	bodyStyle	4
+Mercedes-Benz 380	bodyStyle	Roadster
+Mercedes-Benz 380	bodyStyle	2
+Mercedes-Benz 380	bodyStyle	Also listed in bare chassis form
+Knight XV	bodyStyle	5
+Salmson Randonnée	bodyStyle	4
+Kenworth T660	bodyStyle	Class 8 Conventional\n* Extended Day cab\n* Sleeper Cab
+BMW 1 Series	bodyStyle	3
+BMW 1 Series	bodyStyle	5
+Lada Granta	bodyStyle	4
+Lada Granta	bodyStyle	5
+Cadillac Ciel	bodyStyle	4
+Dodge LCF Series	bodyStyle	2
+Renault Novaquatre	bodyStyle	4
+Marussia B-Series	bodyStyle	2
+Renault Frendzy	bodyStyle	5
+Land Rover DC100	bodyStyle	2
+Proton Prevé	bodyStyle	4
+Simca 1000 Coupé	bodyStyle	2
+Alpine A106	bodyStyle	2
+Alpine A106	bodyStyle	Cabriolet
+Volvo Concept You	bodyStyle	4
+Ginetta G50	bodyStyle	2
+Škoda VOS	bodyStyle	4
+Spyker C12 La Turbie	bodyStyle	2
+Honda Brio	bodyStyle	5
+Peugeot 4008	bodyStyle	5
+Hyundai Eon	bodyStyle	5
+Honda TN360	bodyStyle	2
+Mahindra XUV500	bodyStyle	4
+TMG EV P001	bodyStyle	0
+MAN NLxx3F	bodyStyle	Single-decker bus
+Ford Falcon	bodyStyle	2
+Mercury Cyclone Spoiler II	bodyStyle	2
+Pontiac Torpedo	bodyStyle	Custom:
+Pontiac Torpedo	bodyStyle	2
+Pontiac Torpedo	bodyStyle	4
+Pontiac Torpedo	bodyStyle	Streamliner:
+Pontiac Torpedo	bodyStyle	Deluxe:
+Allard Clipper	bodyStyle	2
+Force One	bodyStyle	4
+Azure Transit Connect Electric	bodyStyle	Van
+Lifan 520	bodyStyle	4
+Lifan 520	bodyStyle	5
+Lifan 620	bodyStyle	4
+Lifan X60	bodyStyle	4
+Jaguar XJ	bodyStyle	4
+Dacia Lodgy	bodyStyle	5
+Cadillac V-12	bodyStyle	2
+Cadillac V-12	bodyStyle	4
+Jaguar XJ	bodyStyle	4
+Jaguar XJ	bodyStyle	4
+Lexus LF-Gh	bodyStyle	4
+Toyota 86	bodyStyle	2
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	5
+Chrysler Valiant	bodyStyle	2
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	5
+Chrysler Valiant	bodyStyle	2
+Škoda Rapid	bodyStyle	4
+Crown-Ikarus 286	bodyStyle	Articulated bus
+Dodge Dart	bodyStyle	4
+Dodge Dart	bodyStyle	Sedan
+Dodge Dart	bodyStyle	5
+Dodge Dart	bodyStyle	Hatchback
+Acura ILX	bodyStyle	4
+Opel Mokka	bodyStyle	5
+Kia Ray	bodyStyle	5
+Ginetta G60	bodyStyle	Coupe
+Tata Ace Zip	bodyStyle	Pickup truck
+Alfa Romeo Mille	bodyStyle	Lorry
+Alfa Romeo Mille	bodyStyle	Tractor unit
+Pontiac Streamliner	bodyStyle	4
+Pontiac Streamliner	bodyStyle	2
+DC Avanti	bodyStyle	2
+Alfa Romeo Giulietta Sprint Speciale	bodyStyle	2
+Chrysler 700C	bodyStyle	4
+Volkswagen Beetle	bodyStyle	3
+Volkswagen Beetle	bodyStyle	2
+Renault Be Bop	bodyStyle	MPV and SUV
+Karsan J10	bodyStyle	4
+Alpine A108	bodyStyle	2
+MAN NDxx3F	bodyStyle	Double-decker bus
+Peugeot J7	bodyStyle	Van
+Mercedes-Benz Citan	bodyStyle	5
+Dacia Dokker	bodyStyle	4
+Opel	bodyStyle	2
+Opel	bodyStyle	3
+Opel Rekord P2	bodyStyle	2
+Opel Rekord P2	bodyStyle	3
+Saleen 302 Series	bodyStyle	2
+Nissan Invitation	bodyStyle	5
+Maserati Levante	bodyStyle	5
+Opel Rekord Series A	bodyStyle	2
+Opel Rekord Series A	bodyStyle	3
+Fiat 500L	bodyStyle	5
+Infiniti Emerg-e	bodyStyle	2
+Infiniti Etherea	bodyStyle	5
+Bertone Nuccio	bodyStyle	Coupe
+Ferrari F12berlinetta	bodyStyle	2
+Opel Rekord Series B	bodyStyle	2
+Opel Rekord Series B	bodyStyle	4
+Opel Rekord Series B	bodyStyle	3
+Ford F-Series first generation	bodyStyle	2
+Ford F-Series first generation	bodyStyle	4
+Ford F-Series second generation	bodyStyle	2
+Ford F-Series second generation	bodyStyle	4
+Ford F-Series sixth generation	bodyStyle	2
+Ford F-Series fifth generation	bodyStyle	2
+Ford F-Series eleventh generation	bodyStyle	2
+Ford F-Series eleventh generation	bodyStyle	4
+Ford F-Series fourth generation	bodyStyle	2
+Ford F-Series fourth generation	bodyStyle	4
+Ford F-Series eighth generation	bodyStyle	2
+Ford F-Series eighth generation	bodyStyle	4
+Ford F-Series twelfth generation	bodyStyle	2
+Ford F-Series twelfth generation	bodyStyle	4
+Ford F-Series twelfth generation	bodyStyle	Pickup truck
+Ford F-Series tenth generation	bodyStyle	4
+Ford F-Series seventh generation	bodyStyle	2
+Ford F-Series seventh generation	bodyStyle	4
+Ford F-Series ninth generation	bodyStyle	2
+Ford F-Series ninth generation	bodyStyle	4
+Ford F-Series ninth generation	bodyStyle	Truck classification
+Ford F-Series ninth generation	bodyStyle	Bus chassis
+Opel Rekord Series C	bodyStyle	2
+Opel Rekord Series C	bodyStyle	3
+Buckle Sports Coupe	bodyStyle	2
+Mini Hatch	bodyStyle	3
+Mini Hatch	bodyStyle	5
+Mini Hatch	bodyStyle	2
+Coda	bodyStyle	4
+Isdera Imperator 108i	bodyStyle	2
+Opel Rekord Series D	bodyStyle	2
+Opel Rekord Series D	bodyStyle	Saloon
+Opel Rekord Series D	bodyStyle	3
+Opel Rekord Series D	bodyStyle	Station wagon
+Opel Rekord Series D	bodyStyle	Coupé
+Opel Rekord Series D	bodyStyle	Van
+Vauxhall Equus	bodyStyle	Convertible
+Pininfarina Nido	bodyStyle	2
+Pininfarina Sintesi	bodyStyle	4
+Peugeot J9	bodyStyle	Van
+Opel Rekord Series E	bodyStyle	2
+Opel Rekord Series E	bodyStyle	3
+E	bodyStyle	5
+Opel RAK e	bodyStyle	1
+Vehicle Production Group	bodyStyle	4
+Fisker Atlantic	bodyStyle	4
+Opel Regent	bodyStyle	4
+Infiniti LE	bodyStyle	4
+8 PS	bodyStyle	Cabriolet
+Suzuki Ertiga	bodyStyle	5
+Mercedes-Benz CLA-Class	bodyStyle	4
+Mercedes-Benz CLA-Class	bodyStyle	5
+Opel Adam	bodyStyle	3
+Toyota Aurion	bodyStyle	4
+Opel Slalom	bodyStyle	3
+Opel Junior	bodyStyle	3
+Chevrolet Trax	bodyStyle	5
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	5
+Chrysler Valiant	bodyStyle	2
+BMW 4 Series	bodyStyle	2
+BMW 4 Series	bodyStyle	5
+Alfa Romeo Stelvio	bodyStyle	5
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	5
+Chrysler Valiant	bodyStyle	2
+Lucalia Clubman	bodyStyle	Roadster
+Subaru Impreza	bodyStyle	4
+Subaru Impreza	bodyStyle	5
+Emgrand EC7	bodyStyle	4
+Emgrand EC7	bodyStyle	5
+Toyota MiniAce	bodyStyle	Truck
+Toyota MiniAce	bodyStyle	Microvan
+Toyota MiniAce	bodyStyle	Minibuses
+IMA Colibri	bodyStyle	3
+Peugeot 301	bodyStyle	4
+Peugeot Type 1525	bodyStyle	Truck
+Chevrolet Chevy Malibu	bodyStyle	sedan four doors.
+Lada Largus	bodyStyle	5
+Fiat 500X	bodyStyle	5
+Škoda Rapid	bodyStyle	5
+Transtar Dagger GT	bodyStyle	2
+Aspid GT-21 Invictus	bodyStyle	2
+International Harvester Light Line pickup	bodyStyle	2
+International Harvester Light Line pickup	bodyStyle	4
+Jaguar XE	bodyStyle	4
+Arrinera Hussarya	bodyStyle	2
+Range Rover	bodyStyle	5
+FAP 1117	bodyStyle	Cab Over Engine
+Lada XRAY	bodyStyle	3
+Honda N-One	bodyStyle	5
+Volkswagen Golf Mk7	bodyStyle	3
+Volkswagen Golf Mk7	bodyStyle	5
+Opel Cascada	bodyStyle	2
+Scania 3-series	bodyStyle	COE, Conventional\n* Day cab\n* Streamline
+Acura RLX	bodyStyle	4
+Chevrolet Series AD Universal	bodyStyle	2
+Chevrolet Series AD Universal	bodyStyle	4
+Nissan Trade	bodyStyle	4
+Nissan Trade	bodyStyle	2
+DB Le Mans	bodyStyle	2
+McLaren P1	bodyStyle	2
+Citroën C3 Aircross	bodyStyle	5
+Neoplan Megaliner	bodyStyle	Double-deck multi-axle touring coach
+Eniak Antique	bodyStyle	2
+Farus	bodyStyle	2
+Daihatsu Ayla	bodyStyle	5
+Chevrolet Corvette	bodyStyle	2
+Chevrolet Corvette	bodyStyle	Coupe
+Chevrolet Corvette	bodyStyle	Convertible
+Volkswagen Taigun	bodyStyle	5
+Proton Saga	bodyStyle	4
+Proton Saga	bodyStyle	5
+Glas 1700	bodyStyle	4
+Glas V8	bodyStyle	Coupé
+Glas GT	bodyStyle	Coupé
+Glas GT	bodyStyle	Cabriolet
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	2
+Chrysler Valiant	bodyStyle	5
+DKW F1	bodyStyle	2
+DKW F1	bodyStyle	various other body types built in small volumes
+K-1 Attack	bodyStyle	2
+Goliath Pioneer	bodyStyle	Microcar
+Glas Isar	bodyStyle	Sedan
+Glas Isar	bodyStyle	Station wagon
+DKW F2	bodyStyle	2
+BYD Qin	bodyStyle	Sedan
+Glas 1004	bodyStyle	Coupé
+Glas 1004	bodyStyle	Sedan
+Glas 1004	bodyStyle	Cabriolet
+Glas 1004	bodyStyle	Station wagon
+DKW F4	bodyStyle	2
+DKW Typ 4=8	bodyStyle	2
+Adler Standard 6	bodyStyle	“Pullman Limousine”
+Adler Standard 6	bodyStyle	Various coach built bodies supplied in relatively small numbers by a number of coach builders.
+Adler 2.5-litre	bodyStyle	“ Schiebedach Limousine”
+Adler 2.5-litre	bodyStyle	Cabriolet with 2 or 4 seats
+Adler 2.5-litre	bodyStyle	Sport-Limousine
+Chevrolet Spin	bodyStyle	5
+Mercedes-Benz W191	bodyStyle	4
+Mercedes-Benz W191	bodyStyle	1949
+Mercedes-Benz W191	bodyStyle	2
+Jaguar R-Coupe	bodyStyle	2
+Mercedes-Benz W153	bodyStyle	4
+Mercedes-Benz W153	bodyStyle	Cabriolet “A”
+Mercedes-Benz W153	bodyStyle	Cabriolet “B”
+Mercedes-Benz W153	bodyStyle	Cabriolet “D”
+Adler Favorit	bodyStyle	“Limousine”
+Adler Favorit	bodyStyle	Various coach built bodies supplied in relatively small numbers by a number of coach builders.
+Mercedes-Benz W143	bodyStyle	2
+Mercedes-Benz W143	bodyStyle	Cabriolet “A”
+Mercedes-Benz W143	bodyStyle	Cabriolet “B”
+Mercedes-Benz W143	bodyStyle	Cabriolet “D”
+Mercedes-Benz W143	bodyStyle	Pullman-Limousine
+Mercedes-Benz W143	bodyStyle	Landaulet
+Mercedes-Benz W143	bodyStyle	Tourenwagen
+Siva S160 Spyder	bodyStyle	2
+Sisu KB-112	bodyStyle	Cab over
+Adler Standard 8	bodyStyle	“Limousine”
+Adler Standard 8	bodyStyle	”Tourenwagen”
+Adler Standard 8	bodyStyle	Various coach built bodies supplied in relatively small numbers by a number of coach builders.
+Adler Primus	bodyStyle	“Limousine”
+Adler Primus	bodyStyle	2
+Adler Trumpf	bodyStyle	“Limousine”
+Adler Trumpf	bodyStyle	2
+Adler Trumpf	bodyStyle	Sports Roadster
+Adler Trumpf Junior	bodyStyle	“Cabrio-Limousine”
+Adler Trumpf Junior	bodyStyle	“Limousine”
+Adler Trumpf Junior	bodyStyle	2
+Adler Trumpf Junior	bodyStyle	Sports
+Adler Trumpf Junior	bodyStyle	Also offered in “bare chassis” configuration 1938/39
+Adler 2 Liter	bodyStyle	“Limousine”
+Adler 2 Liter	bodyStyle	2
+Alfa Romeo Issima	bodyStyle	Roadster
+Alfa Romeo Dardo	bodyStyle	Roadster
+Opel 1.2 litre	bodyStyle	2
+Opel 1.3 litre	bodyStyle	2
+Opel 1.3 litre	bodyStyle	4
+Opel 1.3 litre	bodyStyle	also offered in “bare chassis” form
+Autobianchi Giardiniera	bodyStyle	Station wagon
+Autobianchi Giardiniera	bodyStyle	Van
+Bedford OY	bodyStyle	Flatbed truck
+Bedford OY	bodyStyle	Tank truck
+Opel 1.8 litre	bodyStyle	4
+Opel 1.8 litre	bodyStyle	2
+Opel 1.8 litre	bodyStyle	”Touring”
+Opel 1.8 litre	bodyStyle	”Sonnen-” Limousine & coupe bodied incorporating steel sun-roof
+Opel 1.8 litre	bodyStyle	also offered in “bare chassis” form
+Alfa Romeo Caimano	bodyStyle	Coupe
+Alfa Romeo Vola	bodyStyle	Roadster
+Alfa Romeo Sportut	bodyStyle	SUV
+Mahindra Quanto	bodyStyle	5
+Alfa Romeo Canguro	bodyStyle	Coupe
+Opel 2.0 litre	bodyStyle	2
+Opel 2.0 litre	bodyStyle	”Cabrio-Limousine” 2- door 4-seater with fixed side windows and roll-back soft top
+Opel 2.0 litre	bodyStyle	long wheel base  6 seater “Limousine”
+Opel 2.0 litre	bodyStyle	lwb “Pullman-Limousine”
+Opel 2.0 litre	bodyStyle	lwb  ”Cabrio-Limousine”
+Opel 2.0 litre	bodyStyle	Open topped lwb Landaulet
+Opel 2.0 litre	bodyStyle	lwb “Droschken-Laundualet”
+Opel 2.0 litre	bodyStyle	also offered in “bare chassis” form, and used by coachbuilders for various specialist bodies
+40 PS	bodyStyle	Open topped 4 door 4/5 seat “Tourenwagen”
+40 PS	bodyStyle	2
+40 PS	bodyStyle	4
+40 PS	bodyStyle	Long wheel base open topped 4 door 6/7 seat “Tourenwagen”
+40 PS	bodyStyle	Long wheelbase  4-door 6/7 seat “Limousine” (saloon/sedan)
+40 PS	bodyStyle	also offered in “bare chassis” form, and used by coachbuilders for various specialist bodies
+40 PS	bodyStyle	Torpedo bodied 4-door “Tourenwagen”
+40 PS	bodyStyle	4
+40 PS	bodyStyle	2
+Mercedes-Benz W21	bodyStyle	Standard length:
+Mercedes-Benz W21	bodyStyle	4
+Mercedes-Benz W21	bodyStyle	Torpedo bodied 2-door “Tourenwagen”
+Mercedes-Benz W21	bodyStyle	Cabriolet
+Mercedes-Benz W21	bodyStyle	Sport-Roadster
+Mercedes-Benz W21	bodyStyle	Long wheelbase
+Mercedes-Benz W142	bodyStyle	Shorter wheelbase:
+Mercedes-Benz W142	bodyStyle	3
+Mercedes-Benz W142	bodyStyle	Coupé
+Mercedes-Benz W142	bodyStyle	Longer wheelbase:
+Mercedes-Benz W142	bodyStyle	4
+Mercedes-Benz W142	bodyStyle	Torpedo-bodied 6-seater “Tourenwagen”
+Mercedes-Benz W142	bodyStyle	2
+Mercedes-Benz W142	bodyStyle	6
+Mercedes-Benz W142	bodyStyle	Roadster
+Mercedes-Benz W142	bodyStyle	”Stromlinien-Lmousine”
+Mercedes-Benz W08	bodyStyle	Torpedo bodied 6 seater “Tourenwagen”
+Mercedes-Benz W08	bodyStyle	6
+Mercedes-Benz W08	bodyStyle	Roadster
+Mercedes-Benz W08	bodyStyle	2
+Rimac Concept One	bodyStyle	2
+Mercedes-Benz W18	bodyStyle	Shorter chassis 1933 – 1937: 4-door \
+Mercedes-Benz W18	bodyStyle	Torpedo-bodied 4-door “Tourenwagen”
+Mercedes-Benz W18	bodyStyle	2
+Mercedes-Benz W18	bodyStyle	Longer chassis 1934 – 1937:
+Mercedes-Benz W18	bodyStyle	4
+Mercedes-Benz W18	bodyStyle	Torpedo-bodied 4-door 6-seater “Tourenwagen”
+Mercedes-Benz W18	bodyStyle	Roadster
+30 PS	bodyStyle	Torpedo bodied “Tourenwagen”
+30 PS	bodyStyle	Sedan
+30 PS	bodyStyle	Many customers would have purchased the car in base chassis format and obtained a body separately
+100 PS	bodyStyle	Torpedo bodied “Tourenwagen”
+100 PS	bodyStyle	Sedan
+100 PS	bodyStyle	Landaulet
+100 PS	bodyStyle	4
+100 PS	bodyStyle	Many customers will have purchased the car in base chassis format and obtained a body separately
+140 PS	bodyStyle	Torpedo bodied “Tourenwagen”
+140 PS	bodyStyle	Sedan
+140 PS	bodyStyle	Landaulet
+140 PS	bodyStyle	4
+140 PS	bodyStyle	Many customers will have purchased the car in base chassis format and obtained a body separately
+Mercedes-Benz W02	bodyStyle	Torpedo-bodied \
+Mercedes-Benz W02	bodyStyle	2
+Mercedes-Benz W02	bodyStyle	Cabriolets
+Mercedes-Benz W11	bodyStyle	Roadster
+Mercedes-Benz W11	bodyStyle	Torpedo-bodied “Tourenwagen”
+Mercedes-Benz W11	bodyStyle	4
+Mercedes-Benz W11	bodyStyle	Cabriolets
+Mercedes-Benz W03	bodyStyle	Torpedo bodied “Tourenwagen”
+Mercedes-Benz W03	bodyStyle	4
+Mercedes-Benz W03	bodyStyle	Various coachbuilt bodies supplied by independent coachbuilders
+Riich G5	bodyStyle	4
+Great Wall Voleex C50	bodyStyle	4
+Mercedes-Benz F125	bodyStyle	2
+Chery E5	bodyStyle	4
+Morris Major	bodyStyle	4
+Morris Major	bodyStyle	2
+Proton Saga	bodyStyle	4
+FPV GT R-spec	bodyStyle	4
+Chevrolet Onix	bodyStyle	5
+Chevrolet Onix	bodyStyle	4
+Hyundai HB20	bodyStyle	5
+Volkswagen CrossBlue	bodyStyle	5
+Roewe E50	bodyStyle	3
+Pininfarina Sergio	bodyStyle	2
+Sisu K-44	bodyStyle	conventional cabin; optionally extended with a bed
+Chevrolet Fleetmaster	bodyStyle	2
+Chevrolet Fleetmaster	bodyStyle	4
+Qoros 3	bodyStyle	4
+Qoros 3	bodyStyle	5
+BYD G6	bodyStyle	Sedan
+Alfa Romeo Gloria	bodyStyle	4
+Nova Bus LF Series	bodyStyle	Single-decker bus
+Nova Bus LF Series	bodyStyle	Rigid bus
+Nova Bus LF Series	bodyStyle	Articulated bus
+GM X platform	bodyStyle	2
+GM X platform	bodyStyle	3
+GM X platform	bodyStyle	4
+GM X platform	bodyStyle	5
+Mahindra e2o	bodyStyle	3
+BMW 2 Series	bodyStyle	2
+Tagaz Aquila	bodyStyle	4
+GAZ Sobol	bodyStyle	Truck
+GAZ Sobol	bodyStyle	Minibus
+Daihatsu Luxio	bodyStyle	5
+Sisu S-21	bodyStyle	Conventional truck
+Daewoo FX212 Super Cruiser	bodyStyle	Coach
+BM	bodyStyle	Bus
+Volvo FMX	bodyStyle	COE\n* Day cab\n* Sleeper cab\n* Globetrotter High cab
+Aston Martin Rapide Bertone Jet 2+2	bodyStyle	Shooting brake
+Maserati Ghibli	bodyStyle	4
+Tatra 623	bodyStyle	Sedan
+Spyker B6	bodyStyle	2
+Isuzu Hillman Minx	bodyStyle	4
+Sunbeam Tiger	bodyStyle	2
+Škoda Superb	bodyStyle	4
+Škoda Superb	bodyStyle	2
+Renault 1 000 kg	bodyStyle	Various light van and light truck configurations. Available as a chassis cab for specialist body builders.
+VAM Lerma	bodyStyle	3
+VAM Lerma	bodyStyle	5
+Lamborghini Egoista	bodyStyle	Hatch-top coupé
+Mercedes-Benz S-Class	bodyStyle	4
+Ginetta G40	bodyStyle	2
+VLF Destino	bodyStyle	4
+BMW X5	bodyStyle	5
+Jaguar XK 180	bodyStyle	2
+Volvo VN	bodyStyle	Conventional Daycab, Sleeper
+Freightliner Cascadia	bodyStyle	Cabin
+Lincoln MKC	bodyStyle	5
+Timmis	bodyStyle	2
+Daihatsu Mebius	bodyStyle	5
+Marussia F2	bodyStyle	5
+Ginetta G55	bodyStyle	2
+Renault Trucks T	bodyStyle	COE\n* Day Cab\n* Night & Day Cab\n* Sleeper Cab\n* High Sleeper Cab
+GAZelle NEXT	bodyStyle	Truck
+GAZelle NEXT	bodyStyle	Pickup truck
+GAZelle NEXT	bodyStyle	Minibus
+Volvo 262C	bodyStyle	2
+Renault Trucks C	bodyStyle	COE\n* Day Cab\n* Night & Day Cab\n* Sleeper Cab
+Renault Trucks K	bodyStyle	COE\n* Day Cab\n* Night & Day Cab\n* Sleeper Cab
+Renault Trucks D	bodyStyle	COE\n* Day Cab\n* Global Cab\n* Night & Day Cab\n* Sleeper Cab
+Toyota Corolla	bodyStyle	4
+Toyota Corolla	bodyStyle	5
+Datsun Go	bodyStyle	5
+Ford Taunus TC	bodyStyle	2
+Ford Taunus TC	bodyStyle	5
+British Leyland ECV3	bodyStyle	Hatchback
+BMW 4 Series	bodyStyle	2
+BMW 4 Series	bodyStyle	5
+VAZ-2106	bodyStyle	4
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	5
+Proton Suprima S	bodyStyle	5
+Vauxhall 14-6	bodyStyle	4
+Vauxhall 14-6	bodyStyle	2
+Prince Sedan	bodyStyle	4
+Tata Super Ace	bodyStyle	Pickup Truck / Bakkie
+Zenvo ST1	bodyStyle	2
+Talbot Baby	bodyStyle	2
+Talbot Baby	bodyStyle	also offered in bare chassis configuration
+Mitsuoka Le-Seyde	bodyStyle	2
+Honda Crider	bodyStyle	4
+Honda Jade	bodyStyle	5
+Packard Eight	bodyStyle	•2-door roadster
+Packard Eight	bodyStyle	•2-door coupé
+Packard Eight	bodyStyle	•2-door convertible Victoria
+Packard Eight	bodyStyle	•4-door sedan
+Packard Eight	bodyStyle	•4-door phaeton
+Packard Eight	bodyStyle	•4-door dual-cowl phaeton &  Sport Phaeton
+Packard Eight	bodyStyle	•town car
+Packard Eight	bodyStyle	•landau
+Jaguar C-X17	bodyStyle	5
+Cadillac Elmiraj	bodyStyle	2
+GM T platform	bodyStyle	2
+GM T platform	bodyStyle	Convertible
+GM T platform	bodyStyle	Coupé
+GM T platform	bodyStyle	3
+GM T platform	bodyStyle	Hatchback
+GM T platform	bodyStyle	Sedan delivery
+GM T platform	bodyStyle	4
+GM T platform	bodyStyle	Sedan
+GM T platform	bodyStyle	5
+GM T platform	bodyStyle	Multi-Purpose Vehicle
+GM T platform	bodyStyle	Station wagon
+Lotec Sirius	bodyStyle	2
+Yutong City Master	bodyStyle	Double-decker bus
+Wuling Hong Guang	bodyStyle	7
+Amilcar C8	bodyStyle	saloon/sedan
+Amilcar C8	bodyStyle	Coupé
+Amilcar C8	bodyStyle	Cabriolet
+Amilcar C8	bodyStyle	Roadster
+Amilcar M	bodyStyle	saloon/sedan
+Amilcar M	bodyStyle	Coupé
+Amilcar M	bodyStyle	Cabriolet
+Amilcar M	bodyStyle	Roadster
+Amilcar Pégase	bodyStyle	Coupé
+Amilcar Pégase	bodyStyle	Cabriolet
+Amilcar Pégase	bodyStyle	saloon/sedan
+Berliet Dauphine 11CV	bodyStyle	Roadster
+Berliet Dauphine 11CV	bodyStyle	Cabriolet
+Berliet Dauphine 11CV	bodyStyle	4
+Delage D6	bodyStyle	Normally delivered by Delage in bare chassis form, to be fitted with a bespoke coach built body from one of several leading coachbuilders. Most cars were given coupé, cabriolet, sedan/saloon or roadster bodies
+Delage D8	bodyStyle	Normally delivered by Delage in bare chassis form, to be fitted with a bespoke coach built body from one of several leading coachbuilders. Most cars were given coupé, cabriolet, sedan/saloon or roadster bodies
+Mercedes-Benz 320A	bodyStyle	2
+Jaguar R-D6	bodyStyle	5
+Bedford TL	bodyStyle	Chassis cab
+Bedford TL	bodyStyle	Dump truck
+Škoda 1200	bodyStyle	3
+BMW Z18	bodyStyle	Roadster
+Honda Amaze	bodyStyle	4
+Subaru VIZIV	bodyStyle	3
+BMW 2 Series	bodyStyle	2
+Powerdrive	bodyStyle	2
+Roewe 950	bodyStyle	4
+Lexus RC	bodyStyle	2
+Tickford Vehicle Engineering	bodyStyle	4
+Bentley Brooklands Coupé	bodyStyle	2
+Honda S660	bodyStyle	2
+Isuzu 4200R	bodyStyle	2
+MAN NG272	bodyStyle	Low-floor bus
+MAN NG272	bodyStyle	Articulated bus
+MAN NG272	bodyStyle	Single-decker
+MAN NG272	bodyStyle	Articulated bus
+Ford Vendôme	bodyStyle	4
+Opel Kadett A	bodyStyle	2
+Opel Kadett A	bodyStyle	3
+Opel Kadett A	bodyStyle	Coupé
+Opel Kadett B	bodyStyle	2
+Opel Kadett B	bodyStyle	Sedan
+Opel Kadett B	bodyStyle	3
+Opel Kadett B	bodyStyle	Station wagon
+Opel Kadett B	bodyStyle	Coupé
+Proton Perdana	bodyStyle	4
+Proton Perdana	bodyStyle	4
+1102	bodyStyle	2
+1102	bodyStyle	4
+1102	bodyStyle	3
+Lamborghini Huracán	bodyStyle	2
+Allard J2	bodyStyle	Roadster
+60	bodyStyle	4
+60	bodyStyle	tourer
+Emgrand GE	bodyStyle	4
+Honda Vezel	bodyStyle	5
+Great Wall Haval H6	bodyStyle	5
+Subaru Levorg	bodyStyle	5
+Ford F-Series thirteenth generation	bodyStyle	* 2-door
+Ford F-Series thirteenth generation	bodyStyle	Pickup truck
+Ford F-Series thirteenth generation	bodyStyle	* 2+2-door
+Ford F-Series thirteenth generation	bodyStyle	* 4-door
+Ford F-Series thirteenth generation	bodyStyle	Crew cab
+Citroën Type B2	bodyStyle	25
+Citroën Type B2	bodyStyle	Torpedo
+Citroën Type B2	bodyStyle	\
+Citroën Type B2	bodyStyle	\
+Citroën Type B2	bodyStyle	Coupe de ville
+Citroën Type B2	bodyStyle	Sport
+Citroën Type B10	bodyStyle	Torpedo
+Citroën Type B10	bodyStyle	\
+Citroën Type B12	bodyStyle	Torpedo
+Citroën Type B12	bodyStyle	\
+Citroën Type B12	bodyStyle	Cabriolet
+Citroën Type B12	bodyStyle	Torpédo commercial
+Citroën Type B12	bodyStyle	Coupé de ville
+Sunbeam-Talbot 2 Litre	bodyStyle	4
+Sunbeam-Talbot 2 Litre	bodyStyle	drophead coupé
+Sunbeam-Talbot 2 Litre	bodyStyle	tourer
+Suzuki Celerio	bodyStyle	5
+Renault Nervastella	bodyStyle	Sedan
+Renault Nervastella	bodyStyle	Limousine
+Renault Nervastella	bodyStyle	Coupe
+Renault Nervastella	bodyStyle	Cabriolet
+Kia Soul EV	bodyStyle	5
+Hyundai Xcent	bodyStyle	4
+Salmson S4	bodyStyle	Various, including 4 door berline (saloon/sedan), cabriolet, Roadster
+Mack Pinnacle Series	bodyStyle	Cabin
+BMW 2 Series Active Tourer	bodyStyle	5
+McLaren 650S	bodyStyle	2
+GMT K2XX	bodyStyle	4
+GMT K2XX	bodyStyle	2
+Ford Mustang	bodyStyle	2
+Jeep Renegade	bodyStyle	5
+Syrena 110	bodyStyle	3
+Maserati Alfieri	bodyStyle	2
+Force Motors Gurkha	bodyStyle	4
+Renault Vivasport	bodyStyle	2
+Renault Vivasport	bodyStyle	Cabriolet
+3309	bodyStyle	Flatbed truck
+Ford Poccar	bodyStyle	Microcar
+Datsun on-Do	bodyStyle	4
+Tata Manza	bodyStyle	5
+Lexus NX	bodyStyle	5
+Toyota Corolla	bodyStyle	4
+DS 6	bodyStyle	5
+Infiniti Q60	bodyStyle	2
+Sisu S-321	bodyStyle	Lorry
+Sisu S-321	bodyStyle	Bus
+Sisu S-321	bodyStyle	Combination bus
+Infiniti QX30	bodyStyle	5
+MAZ-530	bodyStyle	mining dump
+GAZ Valdai	bodyStyle	flatbed truck
+GAZ Valdai	bodyStyle	Pickup truck
+GAZ Valdai	bodyStyle	Box truck
+Korres P4	bodyStyle	2
+White Road Commander	bodyStyle	Cab over
+Leyland Comet	bodyStyle	Bonneted truck
+Leyland Comet	bodyStyle	Cab over
+Leyland Comet	bodyStyle	Bus
+Dodge 300	bodyStyle	Cab over
+Steyr 90 series	bodyStyle	Cab over
+MAZ-541	bodyStyle	Pushback
+Mercedes-AMG GT	bodyStyle	2
+Mercedes-Benz C-Class	bodyStyle	4
+Mercedes-Benz C-Class	bodyStyle	5
+Mercedes-Benz C-Class	bodyStyle	4
+Mercedes-Benz C-Class	bodyStyle	5
+Mercedes-Benz C-Class	bodyStyle	2
+AEV Brute	bodyStyle	2
+AEV Brute	bodyStyle	4
+Tata Bolt	bodyStyle	5
+Tata Zest	bodyStyle	4
+Toyota Mirai	bodyStyle	4
+Mitsuoka Ryoga	bodyStyle	4
+Mitsuoka Ryoga	bodyStyle	5
+Citroën Traction Avant	bodyStyle	4
+Citroën Traction Avant	bodyStyle	2
+Citroën Traction Avant	bodyStyle	5
+Saviem J	bodyStyle	Cab Over Engine
+Saviem SM Europe	bodyStyle	Cab over
+Saviem H	bodyStyle	COE\n* Short cab\n* Sleeper cab
+Scania Citywide	bodyStyle	Single-decker bus
+Scania Citywide	bodyStyle	Double-decker bus
+Scania Citywide	bodyStyle	City bus
+Scania Citywide	bodyStyle	Intercity bus
+Volvo B9L	bodyStyle	Single-deck bus
+Volvo B9L	bodyStyle	City bus
+Volvo B9L	bodyStyle	Intercity bus
+Volvo B9S	bodyStyle	Articulated bus
+Saviem SM8	bodyStyle	Cab Over Engine
+Ford Mondeo	bodyStyle	4
+Ford Mondeo	bodyStyle	5
+Ford Mondeo	bodyStyle	4
+Ford Mondeo	bodyStyle	5
+Ford Mondeo	bodyStyle	4
+Ford Mondeo	bodyStyle	5
+Ford Mondeo	bodyStyle	4
+Ford Mondeo	bodyStyle	5
+Tesla Model 3	bodyStyle	4
+Luxgen S5	bodyStyle	Sedan
+Buick Envision	bodyStyle	5
+Panther	bodyStyle	2
+Mercedes-Benz Silver Lightning	bodyStyle	2
+SEAT Leon X-PERIENCE	bodyStyle	5
+ZIL-118	bodyStyle	Microbus
+Hyundai Mistra	bodyStyle	4
+Perodua Axia	bodyStyle	5
+Leyland B21	bodyStyle	Single-deck bus
+Mercury Marauder	bodyStyle	2
+Mercury Marauder	bodyStyle	4
+Neoplan N407	bodyStyle	Single-decker bus
+Tawon Car	bodyStyle	4
+Suzuki Ciaz	bodyStyle	4
+Mercedes-Benz E-Class	bodyStyle	2
+Land Rover Discovery Sport	bodyStyle	5
+Lada Vesta	bodyStyle	4
+Proton Iriz	bodyStyle	5
+Opel Karl	bodyStyle	5
+Marcos GT	bodyStyle	2
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	5
+Chrysler Valiant	bodyStyle	2
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	5
+Chrysler Valiant	bodyStyle	2
+Renault Eolab	bodyStyle	5
+BV	bodyStyle	Cab Over Engine
+Volvo Scalable Product Platform	bodyStyle	4
+Volvo Scalable Product Platform	bodyStyle	5
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	5
+Chrysler Valiant	bodyStyle	2
+Chrysler Valiant	bodyStyle	4
+Chrysler Valiant	bodyStyle	2
+Chrysler Valiant	bodyStyle	5
+BV	bodyStyle	Cab Over Engine
+Ford Transit Courier	bodyStyle	4
+Ford Transit Courier	bodyStyle	5
+Rolls-Royce Wraith	bodyStyle	2
+Subaru Legacy	bodyStyle	4
+Subaru Legacy	bodyStyle	5
+Wuling Sunshine	bodyStyle	Microvan
+Datsun mi-Do	bodyStyle	5
+Renault Nervasport	bodyStyle	4
+Renault Nervasport	bodyStyle	Sedan
+Renault Nervasport	bodyStyle	2
+Renault Nervasport	bodyStyle	Coupé
+Renault Nervasport	bodyStyle	Convertible
+Singer Nine	bodyStyle	* 2/4-door saloon\n* 2/4-seat sports tourer\n* 2-seat sports car
+Chrysler by Chrysler	bodyStyle	4
+Chrysler by Chrysler	bodyStyle	2
+Chevrolet AK Series	bodyStyle	2
+Volvo 9700	bodyStyle	Coach
+Volvo 7900	bodyStyle	Single-decker city bus and articulated city bus
+Ford Transit Custom	bodyStyle	Van
+Ford Transit Custom	bodyStyle	Crew cab van
+Ford Transit Custom	bodyStyle	Minivan
+Volvo 8900	bodyStyle	Single-decker intercity bus and city bus
+Volvo 8700	bodyStyle	Single-deck bus
+Volvo 8700	bodyStyle	City bus
+Volvo 8700	bodyStyle	Intercity bus
+Volvo 8500	bodyStyle	Single-deck bus
+Volvo 8500	bodyStyle	City bus
+Volvo 8500	bodyStyle	Intercity bus
+Mazda CX-3	bodyStyle	5
+Chery E8	bodyStyle	4
+Mercedes-Benz S-Class	bodyStyle	2
+Jelcz M11	bodyStyle	step entrance rigid full-size bus
+Ferrari FXX-K	bodyStyle	2
+Jelcz PR110	bodyStyle	Full size high-floor bus
+SsangYong Tivoli	bodyStyle	5
+Aston Martin DB10	bodyStyle	2
+Daimler DE	bodyStyle	as agreed with the coachbuilder
+Daimler DE	bodyStyle	Limousine
+Ford Capri	bodyStyle	2
+Kawasaki MULE	bodyStyle	Open cab utility vehicle
+Infiniti Q40	bodyStyle	4
+Chevrolet Volt	bodyStyle	5
+Packard Pacific	bodyStyle	2
+Mercedes-Benz C-Class	bodyStyle	4
+Mercedes-Benz C-Class	bodyStyle	5
+Morris Six	bodyStyle	* saloon\n* coupé\n** Club Coupé by Gordon England
+Mercedes-Benz F100	bodyStyle	5
+Mercedes-Benz Vision CLS	bodyStyle	2
+Cadillac Imaj	bodyStyle	Hatchback
+Jaguar F-Pace	bodyStyle	5
+Buick Avenir	bodyStyle	4
+Audi Prologue	bodyStyle	2
+Volkswagen Concept D	bodyStyle	5
+Cadillac Aurora	bodyStyle	Sedan
+Chevrolet Bolt	bodyStyle	5
+Cadillac CT6	bodyStyle	4
+Volkswagen Cross Coupe GTE Concept	bodyStyle	5
+Daihatsu New Line	bodyStyle	Van
+Daihatsu New Line	bodyStyle	Pickup truck
+Hyundai Aslan	bodyStyle	4
+Ford Fiesta	bodyStyle	3
+Ford Fiesta	bodyStyle	3
+Renault Kadjar	bodyStyle	5
+Mazzanti Evantra	bodyStyle	2
+Lloyd 600	bodyStyle	2
+Lloyd 600	bodyStyle	Kombi
+Lloyd 600	bodyStyle	Panel van
+Ford Fiesta	bodyStyle	3
+Ferrari 488	bodyStyle	2
+Volvo P80	bodyStyle	4
+Volvo P80	bodyStyle	5
+Volvo P80	bodyStyle	2
+LIAZ 100 series	bodyStyle	Cab over
+LIAZ 100 series	bodyStyle	Cab forward
+Docker Daimlers	bodyStyle	Convertible
+Docker Daimlers	bodyStyle	Limousine
+Docker Daimlers	bodyStyle	fixed head coupé
+Docker Daimlers	bodyStyle	Coupé
+Koenigsegg Regera	bodyStyle	2
+Infiniti Q30	bodyStyle	5
+Scania OmniLine	bodyStyle	Single-deck bus
+Scania OmniLine	bodyStyle	Intercity bus
+Aston Martin Vulcan	bodyStyle	2
+Suzuki Spacia	bodyStyle	5
+TVR T400R	bodyStyle	2
+Bentley EXP 10 Speed 6	bodyStyle	2
+NanoFlowcell	bodyStyle	2
+Scuderia Cameron Glickenhaus SCG 003	bodyStyle	2
+Chevrolet Miray	bodyStyle	2
+Isuzu Reach	bodyStyle	Multi-stop truck
+McLaren 570S	bodyStyle	2
+Davis Divan	bodyStyle	2
+Mahindra Genio	bodyStyle	2
+Mahindra Genio	bodyStyle	4
+MG GS	bodyStyle	5
+Dino 206 GT and 246 GT	bodyStyle	Berlinetta
+Dino 206 GT and 246 GT	bodyStyle	Targa top
+Jelcz M125M	bodyStyle	Full size rigid low-floor bus
+Renault Kwid	bodyStyle	5
+Renault Kwid	bodyStyle	2
+Dodge Custom	bodyStyle	2
+Dodge Custom	bodyStyle	4
+Dodge Deluxe	bodyStyle	2
+Dodge Deluxe	bodyStyle	4
+Fiat 1100	bodyStyle	4
+Fiat 1100	bodyStyle	Sedan
+Fiat 1100	bodyStyle	Convertible
+Fiat 1100	bodyStyle	Torpedo
+Fiat 1100	bodyStyle	2
+Fiat 1100	bodyStyle	Cabriolet
+Fiat 1100	bodyStyle	Roadster
+Fiat 1100	bodyStyle	Berlinetta
+International Harvester Payhauler	bodyStyle	Dump truck
+Morgan 3-Wheeler	bodyStyle	2
+Hyundai Creta	bodyStyle	5
+Ultima Evolution	bodyStyle	2
+Dodge Wayfarer	bodyStyle	2
+Dodge Wayfarer	bodyStyle	Roadster
+Dodge Wayfarer	bodyStyle	/Sportabout
+Dodge Wayfarer	bodyStyle	Coupé
+Dodge Wayfarer	bodyStyle	Sedan
+Mercedes-Benz E-Class	bodyStyle	4
+Mercedes-Benz E-Class	bodyStyle	5
+Alpina B10 Bi-Turbo	bodyStyle	4
+Proton P4-90B	bodyStyle	4
+Datsun 160Z	bodyStyle	2
+Baojun 730	bodyStyle	5
+BMW 7 Series	bodyStyle	4
+Citroën C4 Cactus	bodyStyle	5
+Scania OmniExpress	bodyStyle	Single-deck bus
+Scania OmniExpress	bodyStyle	Coach
+Scania OmniExpress	bodyStyle	Intercity bus
+Scania OmniExpress	bodyStyle	City bus
+ZIL-4112R	bodyStyle	Limousine
+ZIL-4112R	bodyStyle	Saloon
+Ashok Leyland STiLE	bodyStyle	5
+IKCO Arisun	bodyStyle	2
+Ashok Leyland MiTR	bodyStyle	Bus
+Rolls-Royce Dawn	bodyStyle	2
+Borgward BX7	bodyStyle	5
+GM Omega platform	bodyStyle	4
+GM Omega platform	bodyStyle	Sedan
+Alpine A110-50	bodyStyle	2
+Tata GenX Nano	bodyStyle	5
+1501	bodyStyle	4
+1501	bodyStyle	5
+Porsche 911	bodyStyle	2
+Genesis G80	bodyStyle	4
+Datsun Go Plus	bodyStyle	5
+Fiat 124 Spider	bodyStyle	2
+JMC Yusheng	bodyStyle	4
+JMC Yusheng	bodyStyle	2
+Hongqi L5	bodyStyle	4
+Renault R	bodyStyle	Cab Over Engine
+Renault Duster Oroch	bodyStyle	4
+Bugatti Chiron	bodyStyle	2
+Bugatti Chiron	bodyStyle	Coupé
+Rover Two-litre	bodyStyle	2
+Rover Two-litre	bodyStyle	5
+Rover Two-litre	bodyStyle	Weymann Paris, Riviera or Braunston 5-seater saloon
+Rover Two-litre	bodyStyle	coachbuilt saloon
+Rover Two-litre	bodyStyle	sportsman's coupé
+Rover Two-litre	bodyStyle	sportsman's saloon
+Rover Two-litre	bodyStyle	limousine
+Rover Two-litre	bodyStyle	chassis only
+Tata Tiago	bodyStyle	5
+Cayman	bodyStyle	2
+Citroën E-Méhari	bodyStyle	2
+Cadillac XT5	bodyStyle	5
+Lloyd Arabella	bodyStyle	2
+Honda Fit Shuttle	bodyStyle	5
+Lloyd 400	bodyStyle	2
+Lloyd 400	bodyStyle	Kombi
+Lloyd 400	bodyStyle	Panel van
+Alfa Romeo Disco Volante by Touring	bodyStyle	2
+Alfa Romeo Tipo 103	bodyStyle	4
+Fiat Trepiùno	bodyStyle	3
+Honda BR-V	bodyStyle	5
+Lloyd 300	bodyStyle	2
+Lloyd 300	bodyStyle	Coupé
+Lloyd 300	bodyStyle	Kombi
+Lloyd 300	bodyStyle	Panel van
+Lexus LC	bodyStyle	2
+Buick Avista	bodyStyle	2
+Borgward B 611	bodyStyle	Van
+Borgward B 611	bodyStyle	pickup
+Borgward B 611	bodyStyle	minibus
+Borgward B 611	bodyStyle	chassis cab
+Luxgen U6	bodyStyle	SUV
+Wartburg 1.3	bodyStyle	Sedan
+Wartburg 1.3	bodyStyle	Station wagon
+Wartburg 1.3	bodyStyle	Pickup truck
+Honda NSX	bodyStyle	2
+Ferrari GTC4Lusso	bodyStyle	3
+VLF Force 1 V10	bodyStyle	2
+Kia Telluride	bodyStyle	5
+SEAT Ateca	bodyStyle	5
+Oldsmobile Golden Rocket	bodyStyle	2
+Kia Niro	bodyStyle	5
+Qoros 5	bodyStyle	5
+Hyundai Ioniq	bodyStyle	5
+Hyundai Ioniq	bodyStyle	Hybrid electric 5-door hatchback
+Aston Martin DB11	bodyStyle	2
+Audi Q2	bodyStyle	5
+Daihatsu EV1	bodyStyle	2
+Bugatti EB 112	bodyStyle	4
+Volkswagen Phideon	bodyStyle	4
+Fiat Tipo	bodyStyle	4
+Fiat Tipo	bodyStyle	5
+Scania PRT-range	bodyStyle	Forward control
+Scania PRT-range	bodyStyle	Bonneted
+URBAN626	bodyStyle	Aluminum frame
+Geely Borui	bodyStyle	4
+Datsun redi-Go	bodyStyle	5
+Acura CDX	bodyStyle	4
+BS Nymph	bodyStyle	Buggy
+Chrysler ETV-1	bodyStyle	Electric car
+Chrysler ETV-1	bodyStyle	Subcompact car
+Porsche Mission E	bodyStyle	4
+BMW 1602 Elektro-Antrieb	bodyStyle	2
+Luxgen S3	bodyStyle	4
+Suzuki Baleno	bodyStyle	5
+Audi S1	bodyStyle	5
+Audi S1	bodyStyle	3
+Volkswagen Ameo	bodyStyle	4
+Chevrolet Astro I	bodyStyle	2
+Cadillac ATS-V	bodyStyle	4
+Cadillac ATS-V	bodyStyle	Sedan
+Cadillac ATS-V	bodyStyle	2
+Cadillac ATS-V	bodyStyle	Coupe
+Daihatsu Sigra	bodyStyle	5
+Škoda 1101 OHC	bodyStyle	2
+Saviem SM	bodyStyle	Cab Over Engine
+Hillman 20 8-cylinder	bodyStyle	open tourer
+Hillman 20 8-cylinder	bodyStyle	saloon
+Hillman 20 8-cylinder	bodyStyle	Weymann fabric saloon
+Hillman 20 8-cylinder	bodyStyle	Henry Segrave
+Hillman 20 8-cylinder	bodyStyle	fabric coupé
+Hillman 20 8-cylinder	bodyStyle	Segrave fabric sports saloon
+Perodua Bezza	bodyStyle	4
+Kia Gt	bodyStyle	4
+Bharatbenz 2523c	bodyStyle	COE\n* Day cab\n* Sleeper cab\n* Globetrotter  High cab
+Innocenti 186 GT	bodyStyle	2
+Cadillac Escala	bodyStyle	4
+Mercedes-Maybach 6	bodyStyle	2
+Volkswagen Kommandeurswagen	bodyStyle	2
+Honda Accord	bodyStyle	4
+Honda Accord	bodyStyle	2
+Honda Accord	bodyStyle	4
+Honda Accord	bodyStyle	5
+Honda Accord	bodyStyle	2
+Honda Accord	bodyStyle	Sedan
+Honda Accord	bodyStyle	Hatchback
+Proton Persona	bodyStyle	4
+Proton Persona	bodyStyle	4
+Honda Accord	bodyStyle	2
+Honda Accord	bodyStyle	4
+Honda Accord	bodyStyle	5
+Honda Civic	bodyStyle	2
+Honda Civic	bodyStyle	4
+Honda Civic	bodyStyle	5
+Honda Accord	bodyStyle	2
+Honda Accord	bodyStyle	4
+Honda Accord	bodyStyle	5
+KIM-10	bodyStyle	2
+KIM-10	bodyStyle	Sedan
+KIM-10	bodyStyle	Phaeton body
+KIM-10	bodyStyle	4
+Sunbeam-Talbot 80	bodyStyle	4
+Sunbeam-Talbot 80	bodyStyle	2
+Jeep Cherokee	bodyStyle	2
+Jeep Cherokee	bodyStyle	4
+Jeep Cherokee	bodyStyle	SUV
+Panhard K 101	bodyStyle	Cab Over Engine

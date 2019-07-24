@@ -1,0 +1,528 @@
+Frederick County, Virginia	cityType	town
+Garrett County, Maryland	cityType	town
+Baltimore County, Maryland	cityType	community
+Howard County, Maryland	cityType	community
+Nassau County, New York	cityType	town
+Sublette County, Wyoming	cityType	town
+Calvert County, Maryland	cityType	town
+Washington County, New York	cityType	town
+Anne Arundel County, Maryland	cityType	community
+Allegany County, New York	cityType	town
+Suffolk County, New York	cityType	town
+Delaware County, New York	cityType	town
+Essex County, New York	cityType	town
+Franklin County, New York	cityType	town
+Greene County, New York	cityType	town
+Hamilton County, New York	cityType	town
+Warren County, New York	cityType	city
+Putnam County, New York	cityType	town
+Lewis County, New York	cityType	town
+Livingston County, New York	cityType	town
+Tioga County, New York	cityType	village
+Orleans County, New York	cityType	town
+Douglas County, Colorado	cityType	community
+Rockland County, New York	cityType	community
+Schoharie County, New York	cityType	town
+Schuyler County, New York	cityType	town
+Seneca County, New York	cityType	town
+Sullivan County, New York	cityType	town
+Wyoming County, New York	cityType	town
+Yates County, New York	cityType	town
+Cecil County, Maryland	cityType	town
+Charles County, Maryland	cityType	community
+Putnam County, Illinois	cityType	village
+Putnam County, Ohio	cityType	village
+Adams County, Ohio	cityType	village
+Adams County, Pennsylvania	cityType	borough
+Clay County, Florida	cityType	community
+Clay County, North Carolina	cityType	town
+Clay County, West Virginia	cityType	town
+Montgomery County, North Carolina	cityType	town
+Montgomery County, Virginia	cityType	town
+Montgomery County, Pennsylvania	cityType	township
+Caroline County, Maryland	cityType	town
+Carroll County, Maryland	cityType	community
+Kent County, Maryland	cityType	town
+Queen Anne's County, Maryland	cityType	community
+Daggett County, Utah	cityType	town
+Piute County, Utah	cityType	town
+Rich County, Utah	cityType	town
+Wayne County, Utah	cityType	town
+St. Mary's County, Maryland	cityType	community
+Somerset County, Maryland	cityType	town
+Talbot County, Maryland	cityType	town
+Worcester County, Maryland	cityType	town
+Charlotte County, Florida	cityType	community
+Citrus County, Florida	cityType	community
+Lafayette County, Florida	cityType	town
+Hernando County, Florida	cityType	community
+Dixie County, Florida	cityType	town
+Franklin County, Florida	cityType	community
+Nassau County, Florida	cityType	community
+Martin County, Florida	cityType	community
+Okaloosa County, Florida	cityType	community
+St. Johns County, Florida	cityType	community
+Sumter County, Florida	cityType	community
+Dukes County, Massachusetts	cityType	town
+Hampshire County, Massachusetts	cityType	town
+Choctaw County, Alabama	cityType	town
+Lowndes County, Alabama	cityType	town
+Greene County, Virginia	cityType	town
+Washington County, Alabama	cityType	town
+Kalawao County, Hawaii	cityType	community
+Kauai County, Hawaii	cityType	community
+Braxton County, West Virginia	cityType	town
+Bristol Bay Borough, Alaska	cityType	community
+Apache County, Arizona	cityType	community
+Greenlee County, Arizona	cityType	town
+La Paz County, Arizona	cityType	town
+Gila County, Arizona	cityType	town
+Tolland County, Connecticut	cityType	town
+Windham County, Connecticut	cityType	town
+Armstrong County, Pennsylvania	cityType	borough
+Bedford County, Pennsylvania	cityType	borough
+Gloucester County, Virginia	cityType	community
+Platte County, Wyoming	cityType	town
+Niobrara County, Wyoming	cityType	town
+Teton County, Wyoming	cityType	town
+Hot Springs County, Wyoming	cityType	town
+Big Horn County, Wyoming	cityType	town
+Crook County, Wyoming	cityType	town
+Menominee County, Wisconsin	cityType	town
+Florence County, Wisconsin	cityType	town
+Burnett County, Wisconsin	cityType	village
+Wirt County, West Virginia	cityType	town
+Webster County, West Virginia	cityType	town
+Wayne County, West Virginia	cityType	town
+Ritchie County, West Virginia	cityType	town
+Monroe County, West Virginia	cityType	town
+Pocahontas County, West Virginia	cityType	town
+Pendleton County, West Virginia	cityType	town
+Morgan County, West Virginia	cityType	town
+Hardy County, West Virginia	cityType	town
+Gilmer County, West Virginia	cityType	town
+Calhoun County, West Virginia	cityType	town
+Lincoln County, West Virginia	cityType	town
+Doddridge County, West Virginia	cityType	town
+Wahkiakum County, Washington	cityType	town
+Skamania County, Washington	cityType	settlement
+San Juan County, Washington	cityType	town
+Westmoreland County, Virginia	cityType	town
+Washington County, Virginia	cityType	town
+Wythe County, Virginia	cityType	town
+Wise County, Virginia	cityType	town
+York County, Virginia	cityType	community
+Warren County, Virginia	cityType	town
+Stafford County, Virginia	cityType	community
+Smyth County, Virginia	cityType	town
+Russell County, Virginia	cityType	town
+Southampton County, Virginia	cityType	town
+Roanoke County, Virginia	cityType	town
+Shenandoah County, Virginia	cityType	town
+Spotsylvania County, Virginia	cityType	community
+Richmond County, Virginia	cityType	town
+Rappahannock County, Virginia	cityType	town
+Scott County, Virginia	cityType	town
+Rockbridge County, Virginia	cityType	town
+Pulaski County, Virginia	cityType	town
+Rockingham County, Virginia	cityType	town
+Prince Edward County, Virginia	cityType	town
+Patrick County, Virginia	cityType	town
+Pittsylvania County, Virginia	cityType	town
+Prince George County, Virginia	cityType	community
+Page County, Virginia	cityType	town
+Prince William County, Virginia	cityType	town
+Nottoway County, Virginia	cityType	town
+Orange County, Virginia	cityType	town
+Middlesex County, Virginia	cityType	town
+Northampton County, Virginia	cityType	town
+Northumberland County, Virginia	cityType	community
+Nelson County, Virginia	cityType	community
+Madison County, Virginia	cityType	town
+Mecklenburg County, Virginia	cityType	town
+Lunenburg County, Virginia	cityType	town
+Lee County, Virginia	cityType	town
+Louisa County, Virginia	cityType	town
+Lancaster County, Virginia	cityType	town
+King George County, Virginia	cityType	community
+Loudoun County, Virginia	cityType	town
+Isle of Wight County, Virginia	cityType	town
+Hanover County, Virginia	cityType	town
+Halifax County, Virginia	cityType	town
+Highland County, Virginia	cityType	town
+Giles County, Virginia	cityType	town
+Greensville County, Virginia	cityType	town
+Grayson County, Virginia	cityType	town
+Franklin County, Virginia	cityType	town
+Henry County, Virginia	cityType	town
+Fluvanna County, Virginia	cityType	town
+Floyd County, Virginia	cityType	town
+Fauquier County, Virginia	cityType	town
+Essex County, Virginia	cityType	town
+Dickenson County, Virginia	cityType	town
+Dinwiddie County, Virginia	cityType	town
+Cumberland County, Virginia	cityType	town
+Culpeper County, Virginia	cityType	town
+Craig County, Virginia	cityType	town
+Buchanan County, Virginia	cityType	town
+Campbell County, Virginia	cityType	town
+Buckingham County, Virginia	cityType	town
+Botetourt County, Virginia	cityType	place
+Caroline County, Virginia	cityType	town
+Brunswick County, Virginia	cityType	town
+Fairfax County, Virginia	cityType	town
+Bland County, Virginia	cityType	community
+Charlotte County, Virginia	cityType	town
+Appomattox County, Virginia	cityType	town
+Clarke County, Virginia	cityType	town
+Bath County, Virginia	cityType	community
+Amherst County, Virginia	cityType	town
+Bedford County, Virginia	cityType	town
+Augusta County, Virginia	cityType	community
+Chesterfield County, Virginia	cityType	community
+Alleghany County, Virginia	cityType	town
+Albemarle County, Virginia	cityType	town
+Rutland County, Vermont	cityType	town
+Accomack County, Virginia	cityType	town
+Windham County, Vermont	cityType	town
+Orange County, Vermont	cityType	town
+Lamoille County, Vermont	cityType	town
+Windsor County, Vermont	cityType	town
+Caledonia County, Vermont	cityType	town
+Addison County, Vermont	cityType	town
+Grand Isle County, Vermont	cityType	town
+Zapata County, Texas	cityType	community
+Essex County, Vermont	cityType	town
+Yoakum County, Texas	cityType	town
+Bennington County, Vermont	cityType	town
+Tyler County, Texas	cityType	town
+Terrell County, Texas	cityType	community
+Stonewall County, Texas	cityType	town
+Throckmorton County, Texas	cityType	town
+Refugio County, Texas	cityType	town
+San Saba County, Texas	cityType	town
+Polk County, Texas	cityType	town
+Motley County, Texas	cityType	town
+Hudspeth County, Texas	cityType	community
+Jeff Davis County, Texas	cityType	community
+Jim Hogg County, Texas	cityType	community
+Kenedy County, Texas	cityType	community
+King County, Texas	cityType	community
+Hartley County, Texas	cityType	community
+Lipscomb County, Texas	cityType	town
+Loving County, Texas	cityType	community
+McMullen County, Texas	cityType	community
+Glasscock County, Texas	cityType	community
+Franklin County, Texas	cityType	town
+Edwards County, Texas	cityType	town
+Cottle County, Texas	cityType	town
+Culberson County, Texas	cityType	town
+Crockett County, Texas	cityType	community
+Carson County, Texas	cityType	town
+Borden County, Texas	cityType	community
+Bandera County, Texas	cityType	community
+Van Buren County, Tennessee	cityType	town
+Trousdale County, Tennessee	cityType	town
+Unicoi County, Tennessee	cityType	town
+Smith County, Tennessee	cityType	town
+Scott County, Tennessee	cityType	town
+Pickett County, Tennessee	cityType	town
+Perry County, Tennessee	cityType	town
+Polk County, Tennessee	cityType	town
+Morgan County, Tennessee	cityType	community
+McNairy County, Tennessee	cityType	town
+Meigs County, Tennessee	cityType	town
+Overton County, Tennessee	cityType	town
+Lake County, Tennessee	cityType	town
+Cannon County, Tennessee	cityType	town
+Cheatham County, Tennessee	cityType	town
+Fayette County, Tennessee	cityType	town
+Hancock County, Tennessee	cityType	town
+Marion County, Tennessee	cityType	town
+Johnson County, Tennessee	cityType	town
+Jackson County, Tennessee	cityType	town
+Hickman County, Tennessee	cityType	town
+Crockett County, Tennessee	cityType	town
+Greene County, Tennessee	cityType	town
+Oglala Lakota County, South Dakota	cityType	community
+Lyman County, South Dakota	cityType	community
+Jackson County, South Dakota	cityType	community
+Harding County, South Dakota	cityType	town
+Dewey County, South Dakota	cityType	community
+Buffalo County, South Dakota	cityType	community
+Saluda County, South Carolina	cityType	town
+McCormick County, South Carolina	cityType	town
+Lexington County, South Carolina	cityType	town
+Hampton County, South Carolina	cityType	town
+Fairfield County, South Carolina	cityType	town
+Dorchester County, South Carolina	cityType	City
+Calhoun County, South Carolina	cityType	town
+Chesterfield County, South Carolina	cityType	town
+Wyoming County, Pennsylvania	cityType	borough
+Bristol County, Rhode Island	cityType	town
+Beaufort County, South Carolina	cityType	town
+Allendale County, South Carolina	cityType	town
+Potter County, Pennsylvania	cityType	borough
+Wayne County, Pennsylvania	cityType	Local government in Pennsylvania
+Sullivan County, Pennsylvania	cityType	borough
+Tioga County, Pennsylvania	cityType	borough
+Susquehanna County, Pennsylvania	cityType	borough
+Somerset County, Pennsylvania	cityType	borough
+Snyder County, Pennsylvania	cityType	borough
+Union County, Pennsylvania	cityType	borough
+Montour County, Pennsylvania	cityType	borough
+Perry County, Pennsylvania	cityType	borough
+Mifflin County, Pennsylvania	cityType	borough
+Pike County, Pennsylvania	cityType	borough
+Monroe County, Pennsylvania	cityType	borough
+Jefferson County, Pennsylvania	cityType	borough
+Juniata County, Pennsylvania	cityType	borough
+Fulton County, Pennsylvania	cityType	borough
+Forest County, Pennsylvania	cityType	community
+Greene County, Pennsylvania	cityType	borough
+Indiana County, Pennsylvania	cityType	borough
+Franklin County, Pennsylvania	cityType	borough
+Cameron County, Pennsylvania	cityType	borough
+Clarion County, Pennsylvania	cityType	borough
+Huntingdon County, Pennsylvania	cityType	borough
+Carbon County, Pennsylvania	cityType	borough
+Columbia County, Pennsylvania	cityType	town
+Centre County, Pennsylvania	cityType	borough
+Bradford County, Pennsylvania	cityType	borough
+Chester County, Pennsylvania	cityType	borough
+Bucks County, Pennsylvania	cityType	township
+Roger Mills County, Oklahoma	cityType	town
+Harper County, Oklahoma	cityType	town
+Ellis County, Oklahoma	cityType	town
+Beaver County, Oklahoma	cityType	town
+Vinton County, Ohio	cityType	village
+Pike County, Ohio	cityType	village
+Paulding County, Ohio	cityType	village
+Perry County, Ohio	cityType	village
+Noble County, Ohio	cityType	village
+Meigs County, Ohio	cityType	village
+Morgan County, Ohio	cityType	village
+Monroe County, Ohio	cityType	village
+Morrow County, Ohio	cityType	village
+Holmes County, Ohio	cityType	village
+Harrison County, Ohio	cityType	village
+Gallia County, Ohio	cityType	village
+Carroll County, Ohio	cityType	village
+Brown County, Ohio	cityType	village
+Sioux County, North Dakota	cityType	community
+Rolette County, North Dakota	cityType	community
+Yadkin County, North Carolina	cityType	town
+Yancey County, North Carolina	cityType	town
+Benson County, North Dakota	cityType	community
+Watauga County, North Carolina	cityType	town
+Washington County, North Carolina	cityType	town
+Wilkes County, North Carolina	cityType	town
+Tyrrell County, North Carolina	cityType	town
+Warren County, North Carolina	cityType	town
+Union County, North Carolina	cityType	town
+Swain County, North Carolina	cityType	town
+Stokes County, North Carolina	cityType	town
+Polk County, North Carolina	cityType	town
+Rutherford County, North Carolina	cityType	town
+Mitchell County, North Carolina	cityType	town
+Northampton County, North Carolina	cityType	town
+Pamlico County, North Carolina	cityType	town
+Martin County, North Carolina	cityType	town
+Perquimans County, North Carolina	cityType	town
+Madison County, North Carolina	cityType	town
+Moore County, North Carolina	cityType	village
+Orange County, North Carolina	cityType	town
+Macon County, North Carolina	cityType	town
+Pender County, North Carolina	cityType	town
+Jones County, North Carolina	cityType	town
+Hyde County, North Carolina	cityType	community
+Hertford County, North Carolina	cityType	town
+Jackson County, North Carolina	cityType	town
+Iredell County, North Carolina	cityType	town
+Johnston County, North Carolina	cityType	town
+Greene County, North Carolina	cityType	town
+Graham County, North Carolina	cityType	town
+Gates County, North Carolina	cityType	town
+Haywood County, North Carolina	cityType	town
+Franklin County, North Carolina	cityType	town
+Davie County, North Carolina	cityType	town
+Duplin County, North Carolina	cityType	town
+Dare County, North Carolina	cityType	town
+Chowan County, North Carolina	cityType	town
+Currituck County, North Carolina	cityType	community
+Camden County, North Carolina	cityType	community
+Cherokee County, North Carolina	cityType	town
+Bladen County, North Carolina	cityType	town
+Bertie County, North Carolina	cityType	town
+Chatham County, North Carolina	cityType	town
+Caswell County, North Carolina	cityType	town
+Anson County, North Carolina	cityType	town
+Alleghany County, North Carolina	cityType	town
+Brunswick County, North Carolina	cityType	town
+Ashe County, North Carolina	cityType	town
+Avery County, North Carolina	cityType	town
+Carteret County, North Carolina	cityType	town
+Alexander County, North Carolina	cityType	town
+Valencia County, New Mexico	cityType	village
+Union County, New Mexico	cityType	town
+Taos County, New Mexico	cityType	town
+Catron County, New Mexico	cityType	village
+Lincoln County, New Mexico	cityType	village
+Grant County, New Mexico	cityType	town
+Los Alamos County, New Mexico	cityType	community
+Mora County, New Mexico	cityType	village
+Harding County, New Mexico	cityType	village
+Carroll County, New Hampshire	cityType	town
+Rockingham County, New Hampshire	cityType	town
+Storey County, Nevada	cityType	community
+Thomas County, Nebraska	cityType	village
+Lander County, Nevada	cityType	community
+Wheeler County, Nebraska	cityType	village
+Thurston County, Nebraska	cityType	village
+Nye County, Nevada	cityType	community
+Esmeralda County, Nevada	cityType	community
+Mineral County, Nevada	cityType	community
+Sioux County, Nebraska	cityType	village
+Loup County, Nebraska	cityType	village
+Banner County, Nebraska	cityType	community
+Arthur County, Nebraska	cityType	village
+Blaine County, Nebraska	cityType	village
+Boyd County, Nebraska	cityType	village
+Gosper County, Nebraska	cityType	village
+Grant County, Nebraska	cityType	village
+Greeley County, Nebraska	cityType	village
+Hitchcock County, Nebraska	cityType	village
+Hayes County, Nebraska	cityType	village
+Hooker County, Nebraska	cityType	village
+Keya Paha County, Nebraska	cityType	village
+McPherson County, Nebraska	cityType	community
+Logan County, Nebraska	cityType	village
+Treasure County, Montana	cityType	town
+Stillwater County, Montana	cityType	town
+Wibaux County, Montana	cityType	town
+Prairie County, Montana	cityType	town
+Powder River County, Montana	cityType	town
+Mineral County, Montana	cityType	town
+McCone County, Montana	cityType	town
+Madison County, Montana	cityType	town
+Liberty County, Montana	cityType	town
+Judith Basin County, Montana	cityType	town
+Jefferson County, Montana	cityType	town
+Pulaski County, Missouri	cityType	community
+Wilkinson County, Mississippi	cityType	town
+Walthall County, Mississippi	cityType	town
+Tunica County, Mississippi	cityType	town
+Smith County, Mississippi	cityType	town
+Quitman County, Mississippi	cityType	town
+Perry County, Mississippi	cityType	town
+Newton County, Mississippi	cityType	town
+Lawrence County, Mississippi	cityType	town
+Jefferson Davis County, Mississippi	cityType	town
+Kemper County, Mississippi	cityType	Town
+Issaquena County, Mississippi	cityType	town
+Franklin County, Mississippi	cityType	town
+Greene County, Mississippi	cityType	town
+Choctaw County, Mississippi	cityType	town
+Carroll County, Mississippi	cityType	town
+Benton County, Mississippi	cityType	town
+Calhoun County, Mississippi	cityType	town
+Cass County, Minnesota	cityType	cities
+Oscoda County, Michigan	cityType	community
+Roscommon County, Michigan	cityType	village
+Ontonagon County, Michigan	cityType	village
+Montmorency County, Michigan	cityType	village
+Keweenaw County, Michigan	cityType	community
+Baraga County, Michigan	cityType	village
+Antrim County, Michigan	cityType	village
+Leelanau County, Michigan	cityType	village
+Kalkaska County, Michigan	cityType	village
+Lake County, Michigan	cityType	village
+Luce County, Michigan	cityType	village
+Granite County, Montana	cityType	town
+Golden Valley County, Montana	cityType	town
+Garfield County, Montana	cityType	town
+Carter County, Montana	cityType	town
+Somerset County, Maine	cityType	town
+Lincoln County, Maine	cityType	town
+Oxford County, Maine	cityType	town
+Piscataquis County, Maine	cityType	town
+Franklin County, Maine	cityType	town
+McCreary County, Kentucky	cityType	community
+Jackson County, Kentucky	cityType	community
+Union County, Indiana	cityType	town
+Warren County, Indiana	cityType	town
+Switzerland County, Indiana	cityType	town
+Spencer County, Indiana	cityType	town
+Owen County, Indiana	cityType	town
+Orange County, Indiana	cityType	town
+Parke County, Indiana	cityType	town
+Hendricks County, Indiana	cityType	town
+Franklin County, Indiana	cityType	town
+Crawford County, Indiana	cityType	town
+Daviess County, Indiana	cityType	town
+Kendall County, Illinois	cityType	village
+Henderson County, Illinois	cityType	village
+Calhoun County, Illinois	cityType	village
+Webster County, Georgia	cityType	community
+Oconee County, Georgia	cityType	town
+Echols County, Georgia	cityType	community
+Washington County, Colorado	cityType	town
+Sedgwick County, Colorado	cityType	town
+San Miguel County, Colorado	cityType	town
+Summit County, Colorado	cityType	town
+San Juan County, Colorado	cityType	town
+Saguache County, Colorado	cityType	town
+Rio Blanco County, Colorado	cityType	town
+Park County, Colorado	cityType	town
+Mineral County, Colorado	cityType	town
+Lincoln County, Colorado	cityType	town
+Jackson County, Colorado	cityType	town
+Kiowa County, Colorado	cityType	town
+Eagle County, Colorado	cityType	community
+Hinsdale County, Colorado	cityType	town
+Grand County, Colorado	cityType	town
+Elbert County, Colorado	cityType	town
+Dolores County, Colorado	cityType	town
+Custer County, Colorado	cityType	town
+Crowley County, Colorado	cityType	town
+Conejos County, Colorado	cityType	town
+Costilla County, Colorado	cityType	town
+Baca County, Colorado	cityType	town
+Cheyenne County, Colorado	cityType	town
+Archuleta County, Colorado	cityType	town
+Lafayette County, Arkansas	cityType	town
+West Feliciana Parish, Louisiana	cityType	town
+West Carroll Parish, Louisiana	cityType	town
+Union Parish, Louisiana	cityType	town
+Tensas Parish, Louisiana	cityType	town
+Saint Helena Parish, Louisiana	cityType	town
+St. John the Baptist Parish, Louisiana	cityType	community
+St. Bernard Parish, Louisiana	cityType	community
+St. James Parish, Louisiana	cityType	town
+Richland Parish, Louisiana	cityType	town
+Red River Parish, Louisiana	cityType	town
+Sabine Parish, Louisiana	cityType	town
+Plaquemines Parish, Louisiana	cityType	community
+LaSalle Parish, Louisiana	cityType	town
+Jackson Parish, Louisiana	cityType	town
+Grant Parish, Louisiana	cityType	town
+Assumption Parish, Louisiana	cityType	community
+Bienville Parish, Louisiana	cityType	town
+Claiborne Parish, Louisiana	cityType	town
+Caldwell Parish, Louisiana	cityType	village
+Catahoula Parish, Louisiana	cityType	town
+Cameron Parish, Louisiana	cityType	community
+East Carroll Parish, Louisiana	cityType	town
+East Feliciana Parish, Louisiana	cityType	town
+Jefferson Parish, Louisiana	cityType	community
+St. Charles Parish, Louisiana	cityType	community
+Surry County, Virginia	cityType	town
+Sussex County, Virginia	cityType	town
+Unorganized Borough, Alaska	cityType	community
+Cumberland County, Pennsylvania	cityType	borough
+King William County, Virginia	cityType	town
+Carroll County, Virginia	cityType	town
+Washington County, Rhode Island	cityType	town
+De Baca County, New Mexico	cityType	village
+Buchel County, Texas	cityType	Town
+Petroleum County, Montana	cityType	town

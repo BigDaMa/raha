@@ -1,0 +1,29 @@
+<td><%= id + 1%></td>
+<td><%= left %></td>
+<td>
+    <select id="op<%=id%>" style="max-width: 100px;">
+        <option value="0" <% if (op == 0) { %> selected="selected" <% } %> > Equals</option>
+        <option value="1" <% if (op == 1) { %> selected="selected" <% } %> > Edit distance</option>
+        <option value="2" <% if (op == 2) { %> selected="selected" <% } %> > Levenshtein</option>
+        <option value="3" <% if (op == 3) { %> selected="selected" <% } %> > QGram</option>
+        <option value="4" <% if (op == 4) { %> selected="selected" <% } %> > Soundex</option>
+    </select>
+</td>
+<td><%= right %></td>
+<% if (op == 0) { %>
+<td></td><td></td>
+<% } else { %>
+<td>
+    <select id="cmp<%=id %>" style="max-width: 80px;">
+        <option value="0" <% if (cmp == 0) { %> selected="selected" <% } %> > =</option>
+        <option value="1" <% if (cmp == 1) { %> selected="selected" <% } %> > ></option>
+        <option value="2" <% if (cmp == 2) { %> selected="selected" <% } %> > <</option>
+        <option value="3" <% if (cmp == 3) { %> selected="selected" <% } %> > >=</option>
+        <option value="4" <% if (cmp == 4) { %> selected="selected" <% } %> > <=</option>
+    </select>
+</td>
+<td>
+    <input value="<%= value %>" id="v<%= id%>" style="max-width: 60px;">
+</td>
+<% } %>
+<td><button type="button" class="btn btn-default btn-info" id="del<%= id%>">Del</button></td>

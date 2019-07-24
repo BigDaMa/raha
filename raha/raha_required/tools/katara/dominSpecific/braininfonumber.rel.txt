@@ -1,0 +1,374 @@
+Entorhinal cortex	braininfonumber	150
+Putamen	braininfonumber	212
+Broca's area	braininfonumber	251
+Substantia nigra	braininfonumber	527
+Hippocampus	braininfonumber	164
+Hypothalamus	braininfonumber	358
+Thalamus	braininfonumber	283
+Basal ganglia	braininfonumber	206
+Amygdala	braininfonumber	219
+Limbic system	braininfonumber	247
+Medulla oblongata	braininfonumber	695
+Pons	braininfonumber	538
+Brainstem	braininfonumber	218
+Corpus callosum	braininfonumber	173
+Ventricular system	braininfonumber	192
+Dentate gyrus	braininfonumber	161
+Lateral geniculate nucleus	braininfonumber	335
+Cingulate cortex	braininfonumber	141
+Anterior cingulate cortex	braininfonumber	143
+Cingulate sulcus	braininfonumber	142
+Caudate nucleus	braininfonumber	208
+Olfactory bulb	braininfonumber	261
+Parietal lobe	braininfonumber	77
+Precuneus	braininfonumber	92
+Temporal lobe	braininfonumber	107
+Third ventricle	braininfonumber	429
+Frontal lobe	braininfonumber	37
+Central sulcus	braininfonumber	29
+Occipital lobe	braininfonumber	122
+Extrapyramidal system	braininfonumber	623
+Globus pallidus	braininfonumber	213
+Midbrain	braininfonumber	445
+Neocortex	braininfonumber	754
+Cerebral peduncle	braininfonumber	478
+Rhinencephalon	braininfonumber	241
+Brodmann area 8	braininfonumber	45
+Mammillary body	braininfonumber	395
+Choroid plexus	braininfonumber	456
+Brodmann area 40	braininfonumber	68
+Wernicke's area	braininfonumber	252
+Fornix	braininfonumber	250
+Internal capsule	braininfonumber	180
+Nucleus accumbens	braininfonumber	259
+Claustrum	braininfonumber	234
+Pyramidal tracts	braininfonumber	373
+Spinothalamic tract	braininfonumber	114
+Supraoptic nucleus	braininfonumber	368
+Paraventricular nucleus of hypothalamus	braininfonumber	370
+Suprachiasmatic nucleus	braininfonumber	367
+Cerebral aqueduct	braininfonumber	500
+Pulvinar nuclei	braininfonumber	311
+Hypoglossal nucleus	braininfonumber	754
+Optic radiation	braininfonumber	529
+Medial lemniscus	braininfonumber	736
+Oculomotor nucleus	braininfonumber	483
+Solitary nucleus	braininfonumber	739
+Nucleus ambiguus	braininfonumber	762
+Lateral lemniscus	braininfonumber	605
+Medial longitudinal fasciculus	braininfonumber	743
+Ventral tegmental area	braininfonumber	512
+Midbrain tegmentum	braininfonumber	482
+Fusiform gyrus	braininfonumber	121
+Arcuate nucleus	braininfonumber	378
+Diencephalon	braininfonumber	271
+Limbic lobe	braininfonumber	1008802938
+Locus coeruleus	braininfonumber	578
+Marginal nucleus of spinal cord	braininfonumber	984
+Postcentral gyrus	braininfonumber	87
+Lateral sulcus	braininfonumber	30
+Fourth ventricle	braininfonumber	617
+Inferior frontal gyrus	braininfonumber	67
+Middle frontal gyrus	braininfonumber	66
+Superior frontal gyrus	braininfonumber	65
+Medial longitudinal fissure	braininfonumber	16
+Brodmann area 4	braininfonumber	2394
+Postcentral sulcus	braininfonumber	81
+Auditory cortex	braininfonumber	428
+Transverse temporal gyrus	braininfonumber	655
+Septum pellucidum	braininfonumber	238
+Superior temporal gyrus	braininfonumber	118
+Centromedian nucleus	braininfonumber	306
+Arcuate fasciculus	braininfonumber	540
+Planum temporale	braininfonumber	432
+Cuneate nucleus	braininfonumber	764
+Inferior colliculus	braininfonumber	467
+Superior colliculus	braininfonumber	456
+Median eminence	braininfonumber	385
+Motor cortex	braininfonumber	2332
+Subthalamic nucleus	braininfonumber	418
+Midbrain tectum	braininfonumber	448
+Corticobulbar tract	braininfonumber	371
+Epithalamus	braininfonumber	275
+Median aperture	braininfonumber	638
+Reticular activating system	braininfonumber	231
+Periaqueductal gray	braininfonumber	501
+Lateral ventricles	braininfonumber	191
+Pretectal area	braininfonumber	450
+Insular cortex	braininfonumber	93
+Reticular formation	braininfonumber	225
+Inferior olivary nucleus	braininfonumber	696
+Cerebellar vermis	braininfonumber	146
+Trapezoid body	braininfonumber	589
+Supramarginal gyrus	braininfonumber	90
+Angular gyrus	braininfonumber	91
+Interventricular foramina	braininfonumber	430
+Pontine tegmentum	braininfonumber	548
+Thalamic reticular nucleus	braininfonumber	348
+Suprapineal recess	braininfonumber	438
+Corona radiata	braininfonumber	542
+Anterior lobe of cerebellum	braininfonumber	647
+Prefrontal cortex	braininfonumber	101
+Ventrolateral preoptic nucleus	braininfonumber	3122
+Edinger–Westphal nucleus	braininfonumber	489
+Red nucleus	braininfonumber	496
+Abducens nucleus	braininfonumber	580
+Brodmann area 22	braininfonumber	1055
+Subfornical organ	braininfonumber	437
+Pituitary stalk	braininfonumber	388
+Lentiform nucleus	braininfonumber	253
+Pontine nuclei	braininfonumber	613
+Laterodorsal tegmental nucleus	braininfonumber	282
+Pars reticulata	braininfonumber	529
+Myelencephalon	braininfonumber	695
+Hindbrain	braininfonumber	531
+Metencephalon	braininfonumber	534
+Pedunculopontine nucleus	braininfonumber	495
+Spinocerebellar tract	braininfonumber	2137625602
+Cingulum	braininfonumber	541
+Arbor vitae	braininfonumber	689
+Subiculum	braininfonumber	170
+Thalamocortical radiations	braininfonumber	399
+Inferior cerebellar peduncle	braininfonumber	778
+Globose nucleus	braininfonumber	686
+Dentate nucleus	braininfonumber	680
+Deep cerebellar nuclei	braininfonumber	679
+Flocculonodular lobe	braininfonumber	676
+Extreme capsule	braininfonumber	236
+External capsule	braininfonumber	235
+Falx cerebri	braininfonumber	258
+Tentorium cerebelli	braininfonumber	261
+Medial geniculate nucleus	braininfonumber	338
+Cisterna magna	braininfonumber	533
+Stria terminalis	braininfonumber	268
+Lobes of the brain	braininfonumber	1210
+Cuneus	braininfonumber	139
+Subthalamus	braininfonumber	417
+Corpora quadrigemina	braininfonumber	324
+Brodmann area 24	braininfonumber	81
+Habenula	braininfonumber	277
+Arachnoid mater	braininfonumber	561
+Accessory cuneate nucleus	braininfonumber	765
+Brodmann area 14	braininfonumber	1008
+Allocortex	braininfonumber	759
+Alveus of hippocampus	braininfonumber	168
+Ventromedial nucleus of the hypothalamus	braininfonumber	381
+Brodmann area 13	braininfonumber	1009
+Brodmann area 52	braininfonumber	2414
+Flocculus	braininfonumber	677
+Frontal lobe epilepsy	braininfonumber	29
+Septal nuclei	braininfonumber	241
+Posterior nucleus of hypothalamus	braininfonumber	403
+Zona incerta	braininfonumber	421
+Obex	braininfonumber	633
+Interthalamic adhesion	braininfonumber	284
+Arcuate nucleus	braininfonumber	772
+Perforant path	braininfonumber	2686
+Orbitofrontal cortex	braininfonumber	73
+Inferior salivatory nucleus	braininfonumber	761
+Paramedian pontine reticular formation	braininfonumber	479
+Basal forebrain	braininfonumber	1997
+Falx cerebelli	braininfonumber	259
+Vascular organ of lamina terminalis	braininfonumber	366
+Middle temporal gyrus	braininfonumber	119
+Inferior temporal gyrus	braininfonumber	120
+Parieto-occipital sulcus	braininfonumber	33
+Calcarine sulcus	braininfonumber	25
+Posterior cingulate	braininfonumber	144
+Facial motor nucleus	braininfonumber	581
+Trochlear nucleus	braininfonumber	504
+Cochlear nucleus	braininfonumber	717
+Dorsal cochlear nucleus	braininfonumber	718
+Superior olivary complex	braininfonumber	565
+Vestibular nuclei	braininfonumber	711
+Trigeminal nerve nuclei	braininfonumber	1008020136
+Spinal trigeminal nucleus	braininfonumber	1015266456
+Trigeminal motor nucleus	braininfonumber	551
+Spinal accessory nucleus	braininfonumber	999
+Premotor cortex	braininfonumber	44
+Superior parietal lobule	braininfonumber	88
+Inferior parietal lobule	braininfonumber	89
+Anterior commissure	braininfonumber	187
+Gracile nucleus	braininfonumber	763
+Horizontal fissure of cerebellum	braininfonumber	658
+Lingual gyrus	braininfonumber	140
+Nucleus raphe pallidus	braininfonumber	738
+Dorsal raphe nucleus	braininfonumber	503
+Median raphe nucleus	braininfonumber	557
+Nucleus raphe magnus	braininfonumber	736
+Nucleus raphe obscurus	braininfonumber	737
+Lamina terminalis	braininfonumber	190
+Tuber cinereum	braininfonumber	376
+Superior salivary nucleus	braininfonumber	585
+Facial colliculus	braininfonumber	621
+Rostrum of corpus callosum	braininfonumber	175
+Uncus	braininfonumber	21
+Metathalamus	braininfonumber	334
+Lateral aperture	braininfonumber	637
+Intraparietal sulcus	braininfonumber	79
+Posterior commissure	braininfonumber	475
+Lateral vestibular nucleus	braininfonumber	713
+Superior vestibular nucleus	braininfonumber	712
+Area postrema	braininfonumber	769
+Rhomboid fossa	braininfonumber	628
+Substantia innominata	braininfonumber	256
+Medial forebrain bundle	braininfonumber	416
+Diagonal band of Broca	braininfonumber	267
+Ansa lenticularis	braininfonumber	427
+Islands of Calleja	braininfonumber	258
+Pars compacta	braininfonumber	528
+Superior cerebellar peduncle	braininfonumber	1289712953
+Middle cerebellar peduncle	braininfonumber	616
+Ventral supraoptic decussation	braininfonumber	372
+Stratum zonale of thalamus	braininfonumber	357
+Tela chorioidea of fourth ventricle	braininfonumber	636
+Taenia thalami	braininfonumber	431
+Posterior perforated substance	braininfonumber	726
+Optic recess	braininfonumber	440
+Interpeduncular fossa	braininfonumber	480
+Olivocerebellar tract	braininfonumber	801
+Sublingual nucleus	braininfonumber	760
+Solitary tract	braininfonumber	782
+Hypothalamic sulcus	braininfonumber	432
+Projection fiber	braininfonumber	219
+Commissural fiber	braininfonumber	221
+Uncinate fasciculus	braininfonumber	1444
+Occipitofrontal fasciculus	braininfonumber	535
+Splenium	braininfonumber	178
+Superior medullary velum	braininfonumber	588
+Rhinal sulcus	braininfonumber	22
+Olfactory tract	braininfonumber	265
+Paraterminal gyrus	braininfonumber	153
+Indusium griseum	braininfonumber	154
+Subcallosal area	braininfonumber	260
+Anterior perforated substance	braininfonumber	264
+Frontopontine fibers	braininfonumber	381
+Temporopontine fibers	braininfonumber	384
+Sulcus limitans	braininfonumber	626
+Perirhinal cortex	braininfonumber	2425
+Pontine raphe nucleus	braininfonumber	584
+Taenia of fourth ventricle	braininfonumber	629
+Stratum lucidum of hippocampus	braininfonumber	-975815906
+Dorsomedial hypothalamic nucleus	braininfonumber	380
+Anterior hypothalamic nucleus	braininfonumber	369
+Preoptic area	braininfonumber	360
+Lateral hypothalamus	braininfonumber	409
+Dorsal nucleus of vagus nerve	braininfonumber	752
+Anterior olfactory nucleus	braininfonumber	262
+Olfactory trigone	braininfonumber	15
+Medullary pyramids	braininfonumber	702
+Fimbria of hippocampus	braininfonumber	169
+Superior longitudinal fasciculus	braininfonumber	537
+Sensory decussation	braininfonumber	785
+Genu of the corpus callosum	braininfonumber	176
+Calcar avis	braininfonumber	192
+Collateral eminence	braininfonumber	193
+Collateral fissure	braininfonumber	28
+Frenulum of superior medullary velum	braininfonumber	323
+Posterolateral sulcus of medulla oblongata	braininfonumber	703
+Vagal trigone	braininfonumber	631
+Anterior median fissure of the medulla oblongata	braininfonumber	697
+Cerebellar tonsil	braininfonumber	668
+Olfactory sulcus	braininfonumber	60
+Ventral posterior nucleus	braininfonumber	326
+Tegmental pontine reticular nucleus	braininfonumber	563
+Lateral reticular nucleus	braininfonumber	724
+Ventral reticular nucleus	braininfonumber	730
+Oral pontine reticular nucleus	braininfonumber	560
+Parvocellular reticular nucleus	braininfonumber	725
+Caudal pontine reticular nucleus	braininfonumber	561
+Gigantocellular reticular nucleus	braininfonumber	727
+Paramedian reticular nucleus	braininfonumber	731
+Lateral reticular formation	braininfonumber	723
+Medial dorsal nucleus	braininfonumber	295
+Medial eminence of floor of fourth ventricle	braininfonumber	2137625571
+Stria medullaris of thalamus	braininfonumber	281
+Inferior frontal sulcus	braininfonumber	44
+Superior frontal sulcus	braininfonumber	42
+Ventral anterior nucleus	braininfonumber	317
+Ventral lateral nucleus	braininfonumber	320
+Intermediolateral nucleus	braininfonumber	956
+Hippocampal sulcus	braininfonumber	23
+Inferior medullary velum	braininfonumber	694
+Pontine cistern	braininfonumber	547
+Mesencephalic nucleus of trigeminal nerve	braininfonumber	550
+Principal sensory nucleus of trigeminal nerve	braininfonumber	552
+Subcommissural organ	braininfonumber	474
+Cerebral crus	braininfonumber	530
+Posterior median sulcus of medulla oblongata	braininfonumber	705
+Anterolateral sulcus of medulla	braininfonumber	707
+Lateral occipital sulcus	braininfonumber	125
+Straight gyrus	braininfonumber	76
+Emboliform nucleus	braininfonumber	685
+Paracentral lobule	braininfonumber	404
+Marginal sulcus	braininfonumber	80
+Hypoglossal trigone	braininfonumber	632
+Lateral recess	braininfonumber	639
+Tuberomammillary nucleus	braininfonumber	427
+Anterior nuclei of thalamus	braininfonumber	285
+Ventral posteromedial nucleus	braininfonumber	330
+Ventral posterolateral nucleus	braininfonumber	327
+Midline nuclear group	braininfonumber	289
+Lateral nuclear group	braininfonumber	308
+Ventral nuclear group	braininfonumber	316
+Intralaminar nuclei of thalamus	braininfonumber	300
+Vestibulocerebellar tract	braininfonumber	611
+Thalamic fasciculus	braininfonumber	422
+Lenticular fasciculus	braininfonumber	424
+Centrum semiovale	braininfonumber	172
+Basilar part of pons	braininfonumber	612
+Callosal sulcus	braininfonumber	17
+Inferior longitudinal fasciculus	braininfonumber	538
+Anterior white commissure	braininfonumber	928
+Reticulospinal tract	braininfonumber	802
+Medial vestibular nucleus	braininfonumber	714
+Ventral cochlear nucleus	braininfonumber	719
+Retrosplenial cortex	braininfonumber	111
+Rostral interstitial nucleus of medial longitudinal fasciculus	braininfonumber	507
+Inferior vestibular nucleus	braininfonumber	715
+Juxtarestiform body	braininfonumber	776
+Trigeminal lemniscus	braininfonumber	717
+Acoustic radiation	braininfonumber	393
+Vallecula of cerebellum	braininfonumber	643
+Habenular commissure	braininfonumber	282
+Gray commissure	braininfonumber	953
+Body of lateral ventricle	braininfonumber	203
+Cerebellar hemisphere	braininfonumber	214
+Nodule of vermis	braininfonumber	678
+Tuber of vermis	braininfonumber	673
+Biventer lobule	braininfonumber	667
+Folium vermis	braininfonumber	672
+Central lobule	braininfonumber	655
+Gustatory nucleus	braininfonumber	465
+Medial globus pallidus	braininfonumber	215
+Lateral globus pallidus	braininfonumber	214
+Habenular trigone	braininfonumber	276
+Posterior lobe of cerebellum	braininfonumber	657
+Uvula of cerebellum	braininfonumber	675
+Lingula of cerebellum	braininfonumber	654
+Culmen	braininfonumber	656
+Primary fissure of cerebellum	braininfonumber	645
+Pontocerebellar fibers	braininfonumber	408
+Dorsal trigeminal tract	braininfonumber	602
+Rubro-olivary tract	braininfonumber	502
+Dentatothalamic tract	braininfonumber	525
+Trigeminocerebellar fibers	braininfonumber	511
+Subthalamic fasciculus	braininfonumber	782
+Vestibulo-oculomotor fibers	braininfonumber	409
+Central tegmental tract	braininfonumber	718
+Vestibular cortex	braininfonumber	469
+Corticopontine fibers	braininfonumber	375
+Primary motor cortex	braininfonumber	421
+Region II of hippocampus proper	braininfonumber	166
+Region III of hippocampus proper	braininfonumber	167
+Region I of hippocampus proper	braininfonumber	165
+Subparabrachial nucleus	braininfonumber	757
+Ventral pallidum	braininfonumber	1605
+Nucleus basalis of Meynert	braininfonumber	257
+Line of Gennari	braininfonumber	163
+Interpeduncular nucleus	braininfonumber	478
+Rostral ventromedial medulla	braininfonumber	2000
+Pacchionian foramen	braininfonumber	261
+Rhombic lip	braininfonumber	534
+Parabrachial area	braininfonumber	1927
+Paratenial nucleus	braininfonumber	307

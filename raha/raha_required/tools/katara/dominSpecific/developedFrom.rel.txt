@@ -1,0 +1,2332 @@
+Lockheed AC-130	developedFrom	Lockheed C-130 Hercules
+North American B-25 Mitchell	developedFrom	North American XB-21
+Boeing C-17 Globemaster III	developedFrom	McDonnell Douglas YC-15
+Curtiss P-40 Warhawk	developedFrom	Curtiss P-36 Hawk
+Northrop Grumman E-8 Joint STARS	developedFrom	Boeing 707
+Boeing E-3 Sentry	developedFrom	Boeing 707
+Northrop F-5	developedFrom	Northrop T-38 Talon
+Lockheed F-117 Nighthawk	developedFrom	Lockheed Have Blue
+Lockheed Martin F-35 Lightning II	developedFrom	Lockheed Martin X-35
+Hawker Siddeley Harrier	developedFrom	Hawker Siddeley P.1127
+Kamov Ka-25	developedFrom	Kamov Ka-20
+Kamov Ka-50	developedFrom	Kamov V-80
+Boeing KC-135 Stratotanker	developedFrom	Boeing 367-80
+Boeing OC-135B Open Skies	developedFrom	C-135 Stratolifter
+Boeing RC-135	developedFrom	C-135 Stratolifter
+Bell Boeing V-22 Osprey	developedFrom	Bell XV-15
+General Atomics MQ-1 Predator	developedFrom	General Atomics GNAT
+AAI RQ-7 Shadow	developedFrom	AAI RQ-2 Pioneer
+Bell AH-1 Cobra	developedFrom	Bell UH-1 Iroquois
+Bell OH-58 Kiowa	developedFrom	Bell 206
+Sikorsky UH-60 Black Hawk	developedFrom	Sikorsky S-70
+Boeing CH-47 Chinook	developedFrom	Boeing Vertol CH-46 Sea Knight
+Sikorsky HH-60 Pave Hawk	developedFrom	Sikorsky S-70
+Hawker Siddeley Nimrod	developedFrom	De Havilland Comet
+A-18 Hornet	developedFrom	Northrop YF-17
+Lockheed SR-71 Blackbird	developedFrom	Lockheed A-12
+Mikoyan-Gurevich MiG-17	developedFrom	Mikoyan-Gurevich MiG-15
+Lockheed Martin F-22 Raptor	developedFrom	Lockheed YF-22
+Boeing 707	developedFrom	Boeing 367-80
+Bristol Beaufighter	developedFrom	Bristol Beaufort
+Bristol Beaufort	developedFrom	Bristol Blenheim
+Lockheed F-104 Starfighter	developedFrom	Lockheed XF-104
+MacCready Gossamer Albatross	developedFrom	Gossamer Condor
+Eurocopter HH-65 Dolphin	developedFrom	Eurocopter AS365 Dauphin
+Boeing 717	developedFrom	McDonnell Douglas DC-9
+Short Stirling	developedFrom	Short Sunderland
+Airbus A310	developedFrom	Airbus A300
+Lockheed P-3 Orion	developedFrom	Lockheed L-188 Electra
+Boeing YAL-1	developedFrom	Boeing 747-400
+Avro Lancaster	developedFrom	Avro Manchester
+Airbus A330	developedFrom	Airbus A300
+Airbus A319	developedFrom	Airbus A320 family
+Eurofighter Typhoon	developedFrom	British Aerospace EAP
+Douglas DC-3	developedFrom	Douglas DC-2
+Cessna 172	developedFrom	Cessna 170
+Macchi C.205	developedFrom	Macchi C.202
+Convair F-106 Delta Dart	developedFrom	Convair F-102 Delta Dagger
+Messerschmitt Me 210	developedFrom	Messerschmitt Bf 110
+Messerschmitt Me 410	developedFrom	Messerschmitt Me 210
+Heinkel He 112	developedFrom	Heinkel He 70
+Dornier Do 215	developedFrom	Dornier Do 17
+Ilyushin Il-4	developedFrom	Ilyushin DB-3
+Junkers Ju 388	developedFrom	Junkers Ju 188
+Boeing E-6 Mercury	developedFrom	Boeing 707
+Airbus Beluga	developedFrom	Airbus A300
+McDonnell Douglas MD-90	developedFrom	McDonnell Douglas MD-80
+Junkers Ju 188	developedFrom	Junkers Ju 88
+Hawker Tempest	developedFrom	Hawker Typhoon
+Lockheed EC-130	developedFrom	Lockheed C-130 Hercules
+Lockheed EC-130	developedFrom	Lockheed Martin C-130J Super Hercules
+Fiat CR.42	developedFrom	Fiat CR.32
+Sikorsky SH-60 Seahawk	developedFrom	Sikorsky UH-60 Black Hawk
+Lockheed EP-3	developedFrom	P-3 Orion
+Grumman C-2 Greyhound	developedFrom	Northrop Grumman E-2 Hawkeye
+Northrop Grumman EA-6B Prowler	developedFrom	Grumman A-6 Intruder
+Gloster Gladiator	developedFrom	Gloster Gauntlet
+McDonnell F-101 Voodoo	developedFrom	XF-88 Voodoo
+Douglas B-18 Bolo	developedFrom	Douglas DC-2
+McDonnell F2H Banshee	developedFrom	McDonnell FH Phantom
+Tupolev Tu-134	developedFrom	Tupolev Tu-124
+Ilyushin Il-10	developedFrom	Ilyushin Il-2
+Tupolev Tu-114	developedFrom	Tupolev Tu-95
+Tupolev Tu-104	developedFrom	Tupolev Tu-16
+North American F-100 Super Sabre	developedFrom	North American F-86 Sabre
+Republic XF-91 Thunderceptor	developedFrom	Republic F-84 Thunderjet
+Convair F-102 Delta Dagger	developedFrom	Convair XF-92
+Martin Marietta X-24A	developedFrom	X-23 PRIME
+Panavia Tornado ADV	developedFrom	Panavia Tornado
+Mikoyan MiG-31	developedFrom	Mikoyan-Gurevich MiG-25
+Mikoyan MiG-27	developedFrom	Mikoyan-Gurevich MiG-23
+Embraer ERJ 145 family	developedFrom	Embraer EMB 120 Brasilia
+Lockheed Constellation	developedFrom	Lockheed Excalibur
+Convair 990 Coronado	developedFrom	Convair 880
+ATR 72	developedFrom	ATR 42
+Avro Shackleton	developedFrom	Avro Lincoln
+Harrier Jump Jet	developedFrom	Hawker P.1127
+Cessna 152	developedFrom	Cessna 150
+McDonnell Douglas C-9	developedFrom	McDonnell Douglas DC-9
+Gulfstream III	developedFrom	Grumman Gulfstream II
+Beechcraft C-12 Huron	developedFrom	Beechcraft Super King Air
+Boeing C-40 Clipper	developedFrom	Boeing 737
+Mitsubishi F-2	developedFrom	General Dynamics F-16 Fighting Falcon
+Sukhoi Su-35	developedFrom	Sukhoi Su-27
+Aviation Traders Carvair	developedFrom	Douglas DC-4
+Supermarine Seafire	developedFrom	Supermarine Spitfire
+Britten-Norman Trislander	developedFrom	Britten-Norman Islander
+Bell XP-83	developedFrom	Bell P-59 Airacomet
+Vickers Vanguard	developedFrom	Vickers Viscount
+McDonnell Douglas MD-80	developedFrom	McDonnell Douglas DC-9
+Airbus A318	developedFrom	Airbus A319
+Aérospatiale Gazelle	developedFrom	Aérospatiale Alouette III
+Northrop F-20 Tigershark	developedFrom	Northrop F-5
+Northrop T-38 Talon	developedFrom	Northrop N-156
+Westland Wessex	developedFrom	Sikorsky H-34
+Westland Whirlwind	developedFrom	Sikorsky H-19
+Spirit of St. Louis	developedFrom	Ryan M-2
+Lockheed T-33	developedFrom	Lockheed P-80 Shooting Star
+North American F-86 Sabre	developedFrom	North American FJ-1 Fury
+Douglas C-47 Skytrain	developedFrom	Douglas DC-3
+McDonnell Douglas CF-18 Hornet	developedFrom	A-18 Hornet
+Shenyang J-6	developedFrom	Mikoyan-Gurevich MiG-19
+Shenyang J-5	developedFrom	Mikoyan-Gurevich MiG-17
+Chengdu J-7	developedFrom	Mikoyan-Gurevich MiG-21
+Nanchang Q-5	developedFrom	Shenyang J-6
+Dassault Mirage F1	developedFrom	Dassault Mirage III
+Curtiss A-12 Shrike	developedFrom	Curtiss XA-8
+Curtiss A-12 Shrike	developedFrom	Curtiss YA-10 Shrike
+Dassault Mirage 2000	developedFrom	Dassault Mirage III
+McDonnell Douglas MD-11	developedFrom	McDonnell Douglas DC-10
+Mil Mi-24	developedFrom	Mil Mi-8
+Boeing 747-400	developedFrom	Boeing 747-300
+Aero Spacelines Super Guppy	developedFrom	Boeing C-97
+Aero Spacelines Super Guppy	developedFrom	377
+Aero Spacelines Mini Guppy	developedFrom	Boeing C-97 Stratofreighter
+Lockheed F-94 Starfire	developedFrom	Lockheed T-33 Shooting Star
+Antonov An-225 Mriya	developedFrom	Antonov An-124
+Beechcraft T-6 Texan II	developedFrom	Pilatus PC-9
+Raytheon T-1 Jayhawk	developedFrom	Hawker 400
+Avia S-199	developedFrom	Messerschmitt Bf 109
+British Aerospace ATP	developedFrom	Hawker Siddeley HS 748
+Vin Fiz Flyer	developedFrom	Wright Model EX
+Fokker 100	developedFrom	Fokker F28
+McDonnell Douglas T-45 Goshawk	developedFrom	BAE Systems Hawk
+Westland Wasp	developedFrom	Saro P.531
+Boeing E-4	developedFrom	Boeing 747
+Westland Sea King	developedFrom	Sikorsky SH-3 Sea King
+Boeing T-43	developedFrom	Boeing 737
+Boeing 377 Stratocruiser	developedFrom	Boeing C-97 Stratofreighter
+Saab 2000	developedFrom	Saab 340
+Douglas D-558-2 Skyrocket	developedFrom	Douglas D-558-1 Skystreak
+Messerschmitt Me 263	developedFrom	Messerschmitt Me 163
+Heinkel He 274	developedFrom	Heinkel He 177
+Heinkel He 277	developedFrom	Heinkel He 177
+Dornier Do 217	developedFrom	Dornier Do 17
+Focke-Wulf Ta 152	developedFrom	Focke-Wulf Fw 190
+OKB-1 140	developedFrom	OKB-1 EF 131
+DFS 194	developedFrom	DFS 40
+McDonnell Douglas KC-10 Extender	developedFrom	McDonnell Douglas DC-10
+Bell P-63 Kingcobra	developedFrom	Bell P-39 Airacobra
+LTV A-7 Corsair II	developedFrom	Vought F-8 Crusader
+Douglas AC-47 Spooky	developedFrom	C-47 Skytrain
+Fairchild AC-119	developedFrom	Fairchild C-119 Flying Boxcar
+Douglas B-66 Destroyer	developedFrom	U.S. Navy
+Douglas B-66 Destroyer	developedFrom	A-3 Skywarrior
+Mikoyan-Gurevich I-270	developedFrom	Messerschmitt Me 263
+Mitsubishi J8M	developedFrom	Messerschmitt Me 163
+Rikugun Ki-202	developedFrom	Messerschmitt Me 163
+Yokosuka MXY9	developedFrom	Yokosuka MXY8
+DFS 228	developedFrom	DFS 54
+Douglas C-54 Skymaster	developedFrom	Douglas DC-4
+Consolidated C-87 Liberator Express	developedFrom	B-24 Liberator
+Convair YB-60	developedFrom	Convair B-36
+Fieseler Fi 5	developedFrom	Fieseler F4
+Convair XC-99	developedFrom	Convair B-36 Peacemaker
+Cessna A-37 Dragonfly	developedFrom	Cessna T-37 Tweet
+Grumman E-1 Tracer	developedFrom	Grumman C-1 Trader
+-3 Fury	developedFrom	North American F-86 Sabre
+Nakajima Ki-201	developedFrom	Nakajima J9Y
+Ilyushin Il-96	developedFrom	Ilyushin Il-86
+Denel Rooivalk	developedFrom	Aérospatiale Puma
+Yakovlev Yak-42	developedFrom	Yakovlev Yak-40
+Junkers Ju 390	developedFrom	Junkers Ju 290
+Blériot-SPAD S.510	developedFrom	Blériot-SPAD S.91
+Atlas Cheetah	developedFrom	Dassault Mirage III
+Atlas Cheetah	developedFrom	IAI Nesher
+Atlas Oryx	developedFrom	Aérospatiale Puma
+Lockheed Model 10 Electra	developedFrom	Lockheed Model 9 Orion
+Kawasaki BK 117	developedFrom	MBB Bo 105
+Douglas C-124 Globemaster II	developedFrom	Douglas C-74 Globemaster
+IAI Nesher	developedFrom	Dassault Mirage 5
+IAI Kfir	developedFrom	IAI Nesher
+Dassault Mirage 5	developedFrom	Dassault Mirage III
+Junkers EF 61	developedFrom	Junkers Ju 49
+Eurocopter AS365 Dauphin	developedFrom	Aérospatiale SA 360
+Dornier Do 13	developedFrom	Dornier Do 11
+Cessna O-2 Skymaster	developedFrom	Cessna Skymaster
+Cessna T-41 Mescalero	developedFrom	Cessna 172
+Cessna O-1 Bird Dog	developedFrom	Cessna 170
+Aero L-39 Albatros	developedFrom	Aero L-29 Delfín
+Avro Lincoln	developedFrom	Avro Lancaster
+Bell 212	developedFrom	205
+Lockheed WP-3D Orion	developedFrom	P-3 Orion
+Fairchild C-123 Provider	developedFrom	Chase XCG-20
+Douglas DC-6	developedFrom	Douglas DC-4
+Learjet 60	developedFrom	Learjet 55
+Douglas DC-7	developedFrom	Douglas DC-6
+Folland Gnat	developedFrom	Folland Midge
+McDonnell Douglas F-15E Strike Eagle	developedFrom	McDonnell Douglas F-15 Eagle
+Lockheed WC-130	developedFrom	C-130 Hercules
+Lockheed WC-130	developedFrom	C-130J Super Hercules
+Dassault-Breguet Super Étendard	developedFrom	Dassault Étendard IV
+Martin P5M Marlin	developedFrom	Martin PBM Mariner
+AgustaWestland CH-149 Cormorant	developedFrom	AgustaWestland AW101
+Aérospatiale Alouette III	developedFrom	Aérospatiale Alouette II
+Gulfstream G550	developedFrom	Gulfstream V
+Bell CH-146 Griffon	developedFrom	Bell 412
+Gulfstream IV	developedFrom	Gulfstream III
+Douglas DC-4	developedFrom	Douglas DC-4E
+Douglas SBD Dauntless	developedFrom	Northrop BT
+Grumman C-1 Trader	developedFrom	Grumman S-2 Tracker
+Douglas F5D Skylancer	developedFrom	Douglas F4D Skyray
+Junkers Ju 90	developedFrom	Junkers Ju 89
+Junkers Ju 290	developedFrom	Junkers Ju 90
+Shuttle Carrier Aircraft	developedFrom	Boeing 747
+Fairey Fulmar	developedFrom	34
+Kawanishi H6K	developedFrom	Kawanishi H3K
+Curtiss SB2C Helldiver	developedFrom	Curtiss SBC
+Lockheed HC-130	developedFrom	Lockheed C-130 Hercules
+De Havilland Tiger Moth	developedFrom	De Havilland DH.60 Moth
+Lavochkin La-7	developedFrom	Lavochkin La-5
+Eurocopter AS532 Cougar	developedFrom	Eurocopter AS332
+Tupolev Tu-124	developedFrom	Tupolev Tu-104
+Tupolev Tu-126	developedFrom	Tupolev Tu-114
+Mikoyan-Gurevich MiG-3	developedFrom	Mikoyan-Gurevich MiG-1
+Short S.8 Calcutta	developedFrom	Short Singapore
+Eurocopter AS565 Panther	developedFrom	Eurocopter AS365 Dauphin
+Tupolev Tu-110	developedFrom	Tupolev Tu-104
+Tupolev Tu-107	developedFrom	Tupolev Tu-104
+Kuiper Airborne Observatory	developedFrom	Lockheed C-141 Starlifter
+Piper PA-14 Family Cruiser	developedFrom	Piper PA-12 Super Cruiser
+Avro Anson	developedFrom	Avro 652
+Lockheed YF-12	developedFrom	Lockheed A-12
+Messerschmitt Me 323	developedFrom	Messerschmitt Me 321
+Skylon	developedFrom	HOTOL  project
+Sukhoi Su-33	developedFrom	Sukhoi Su-27
+Sukhoi Su-30	developedFrom	Sukhoi Su-27
+Grumman F-9 Cougar	developedFrom	Grumman F9F Panther
+Armstrong Whitworth Whitley	developedFrom	Armstrong Whitworth AW.23
+Tupolev Tu-155	developedFrom	Tupolev Tu-154
+Lockheed Martin X-44 MANTA	developedFrom	Lockheed Martin F-22 Raptor
+Tupolev Tu-4	developedFrom	Boeing B-29 Superfortress
+Tupolev Tu-72	developedFrom	Tupolev Tu-8
+Tupolev Tu-70	developedFrom	Tupolev Tu-4
+Tupolev Tu-85	developedFrom	Tupolev Tu-4
+Northrop YB-49	developedFrom	Northrop YB-35
+Airspeed Oxford	developedFrom	Airspeed Envoy
+Sikorsky MH-53	developedFrom	Sikorsky CH-53 Sea Stallion
+Sikorsky CH-53E Super Stallion	developedFrom	Sikorsky CH-53 Sea Stallion
+Bell AH-1 SuperCobra	developedFrom	Bell AH-1 Cobra
+Boeing VC-25	developedFrom	Boeing 747-200B
+Supermarine Walrus	developedFrom	Supermarine Seagull
+Nakajima Ki-43	developedFrom	Nakajima Ki-27
+Saro London	developedFrom	Saro Severn
+Nieuport 17	developedFrom	Nieuport 11/16
+Supermarine Stranraer	developedFrom	Supermarine Scapa
+Bombardier Dash 8	developedFrom	De Havilland Canada Dash 7
+Hawker Sea Fury	developedFrom	Hawker Tempest
+Boeing C-97 Stratofreighter	developedFrom	Boeing B-29 Superfortress
+Boeing C-97 Stratofreighter	developedFrom	Boeing B-50 Superfortress
+Boeing WC-135 Constant Phoenix	developedFrom	C-135 Stratolifter
+Boeing C-32	developedFrom	Boeing 757
+Saunders-Roe SR.177	developedFrom	Saunders-Roe SR.53
+Raytheon Sentinel	developedFrom	Bombardier Global Express
+Lockheed MC-130	developedFrom	C-130 Hercules
+Lockheed MC-130	developedFrom	C-130J Super Hercules
+Douglas DC-5	developedFrom	Douglas A-20 Havoc
+PZL P.11	developedFrom	PZL P.7
+Bristol Brigand	developedFrom	Bristol Buckingham
+Bristol Buckmaster	developedFrom	Bristol Buckingham
+Airbus CC-150 Polaris	developedFrom	Airbus A310
+Airbus A310 MRTT	developedFrom	Airbus A310
+Ryan XF2R Dark Shark	developedFrom	Ryan FR Fireball
+Lockheed CP-140 Aurora	developedFrom	Lockheed P-3 Orion
+PZL P.7	developedFrom	PZL P.6
+Yakovlev Yak-52	developedFrom	Yakovlev Yak-50
+Avro York	developedFrom	Avro Lancaster
+Airbus A330 MRTT	developedFrom	Airbus A330
+Lockheed Hudson	developedFrom	Lockheed Model 14 Super Electra
+Vickers Warwick	developedFrom	Vickers Wellington
+Avro Lancastrian	developedFrom	Avro Lancaster
+Handley Page Hermes	developedFrom	Handley Page Hastings
+Hawker 800	developedFrom	British Aerospace BAe 125
+Lockheed Model 18 Lodestar	developedFrom	Lockheed Model 14 Super Electra
+Lockheed Ventura	developedFrom	Lockheed Model 18 Lodestar
+Martin B-57 Canberra	developedFrom	English Electric Canberra
+Boeing B-50 Superfortress	developedFrom	Boeing B-29 Superfortress
+Scaled Composites White Knight	developedFrom	Scaled Composites Proteus
+Sukhoi Su-11	developedFrom	Sukhoi Su-9
+Fairey Rotodyne	developedFrom	Fairey Jet Gyrodyne
+Sopwith Salamander	developedFrom	Sopwith Snipe
+North American F-82 Twin Mustang	developedFrom	North American P-51 Mustang
+Boeing C-135 Stratolifter	developedFrom	Boeing 367-80
+Supermarine Attacker	developedFrom	Supermarine Spiteful
+Boeing KC-767	developedFrom	Boeing 767
+Supermarine Swift	developedFrom	Supermarine Attacker
+De Havilland Sea Venom	developedFrom	De Havilland Venom
+Yakovlev Yak-38	developedFrom	Yakovlev Yak-36
+De Havilland Canada DHC-6 Twin Otter	developedFrom	De Havilland Canada DHC-3 Otter
+De Havilland Canada DHC-3 Otter	developedFrom	De Havilland Canada DHC-2 Beaver
+Sukhoi Su-37	developedFrom	Sukhoi Su-35
+Beechcraft King Air	developedFrom	Beechcraft Queen Air
+Boeing P-8 Poseidon	developedFrom	Boeing 737 Next Generation
+Northrop Grumman E-10 MC2A	developedFrom	Boeing 767
+Boeing 737 AEW&C	developedFrom	Boeing 737 Next Generation
+North American T-6 Texan	developedFrom	North American NA-16
+Lockheed LC-130	developedFrom	C-130 Hercules
+2000D	developedFrom	Mirage 2000
+British Aerospace Sea Harrier	developedFrom	Hawker Siddeley Harrier
+CallAir A-9	developedFrom	CallAir Model A
+British Aerospace Harrier II	developedFrom	Hawker Siddeley Harrier
+British Aerospace Harrier II	developedFrom	McDonnell Douglas AV-8B Harrier II
+Boeing EA-18G Growler	developedFrom	F Super Hornet
+Harbin Y-12	developedFrom	Harbin Y-11
+Kawasaki Ki-100	developedFrom	Kawasaki Ki-61
+Yakovlev Yak-3	developedFrom	Yakovlev Yak-1
+Dassault Mirage IV	developedFrom	Dassault Mirage III
+F Super Hornet	developedFrom	A-18 Hornet
+Pilatus PC-7	developedFrom	Pilatus P-3
+Embraer R-99	developedFrom	Embraer ERJ 145 family
+BAC Jet Provost	developedFrom	Percival Provost
+Short Tucano	developedFrom	Embraer EMB-312 Tucano
+Adam A700	developedFrom	Adam A500
+Lockheed Martin FB-22	developedFrom	Lockheed Martin F-22 Raptor
+Huff-Daland XB-1	developedFrom	Huff-Daland XHB-1
+Keystone B-4	developedFrom	Keystone B-3
+Keystone B-5	developedFrom	Keystone B-3
+Keystone B-6	developedFrom	Keystone B-3
+Douglas Y1B-7	developedFrom	Douglas O-35
+Fokker XB-8	developedFrom	Fokker O-27
+British Aerospace Jetstream 41	developedFrom	Handley Page Jetstream
+Douglas YOA-5	developedFrom	Douglas XP3D
+Scottish Aviation Bulldog	developedFrom	Beagle Pup
+Boeing Y1B-20	developedFrom	Boeing XB-15
+Convair X-6	developedFrom	Convair B-36
+AEG C.V	developedFrom	AEG C.IV
+AEG C.VI	developedFrom	AEG C.IV
+AEG Dr.I	developedFrom	AEG D.I
+AEG C.VIII	developedFrom	AEG C.IV
+AEG G.II	developedFrom	AEG G.I
+AEG G.V	developedFrom	AEG G.IV
+AEG G.III	developedFrom	AEG G.II
+AEG G.IV	developedFrom	AEG G.III
+AEG J.I	developedFrom	AEG C.IV
+Northrop Grumman MQ-4C Triton	developedFrom	Northrop Grumman RQ-4 Global Hawk
+Latécoère 28	developedFrom	Latécoère 26
+Douglas B-23 Dragon	developedFrom	Douglas B-18 Bolo
+Antonov An-12	developedFrom	Antonov An-10
+Antonov An-26	developedFrom	Antonov An-24
+Antonov An-28	developedFrom	Antonov An-14
+Antonov An-38	developedFrom	Antonov An-28
+Antonov An-30	developedFrom	Antonov An-24
+Antonov An-32	developedFrom	Antonov An-26
+Antonov An-71	developedFrom	Antonov An-72
+Gulfstream V	developedFrom	Gulfstream IV
+Pilatus PC-9	developedFrom	Pilatus PC-7
+Aer Lualdi L.57	developedFrom	Aer Lualdi L.55
+Caproni Ca.2	developedFrom	Caproni Ca.1
+Lavochkin La-15	developedFrom	Lavochkin Aircraft 174
+Aermacchi M-290 RediGO	developedFrom	Valmet L-70 Vinka
+North American T-28 Trojan	developedFrom	North American XSN2J
+PZL-Mielec M-18 Dromader	developedFrom	Rockwell Thrush Commander
+NASA X-38	developedFrom	Martin-Marietta X-24
+Sikorsky CH-124 Sea King	developedFrom	SH-3 Sea King
+Mikoyan MiG-29M	developedFrom	Mikoyan MiG-29
+Airco DH.2	developedFrom	Airco DH.1
+Dassault nEUROn	developedFrom	AVE-C Moyen Duc
+Aermacchi MB-339	developedFrom	Aermacchi MB-326
+Beechcraft Travel Air	developedFrom	Beechcraft Bonanza
+Beechcraft Travel Air	developedFrom	Beechcraft Twin Bonanza
+Beechcraft Travel Air	developedFrom	Beechcraft Mentor
+Beechcraft Baron	developedFrom	Beechcraft Travel Air
+Beechcraft T-34 Mentor	developedFrom	Beechcraft Bonanza
+Alenia Aermacchi M-346 Master	developedFrom	Yakovlev Yak-130
+Beechcraft L-23 Seminole	developedFrom	Beechcraft Twin Bonanza
+Bay Super V	developedFrom	Beechcraft Bonanza
+Mil Mi-2	developedFrom	Mil Mi-1
+Sikorsky S-42	developedFrom	Sikorsky S-40
+Sikorsky S-38	developedFrom	Sikorsky S-34
+Sikorsky S-38	developedFrom	Sikorsky S-36
+Tupolev Tu-334	developedFrom	Tupolev Tu-204
+Junkers Ju 288	developedFrom	Junkers Ju 88
+Eurocopter AS332 Super Puma	developedFrom	Aérospatiale SA 330 Puma
+Boulton & Paul Overstrand	developedFrom	Boulton Paul Sidestrand
+HESA Azarakhsh	developedFrom	Northrop F-5E Tiger II
+Aero A.26	developedFrom	Hansa-Brandenburg B.I
+Aero A.30	developedFrom	Aero A.11
+Scottish Aviation Twin Pioneer	developedFrom	Scottish Aviation Pioneer
+Bloch MB.210	developedFrom	Bloch MB.200
+De Havilland Heron	developedFrom	De Havilland Dove
+Sukhoi Su-17	developedFrom	Sukhoi Su-7
+Aero A.38	developedFrom	Aero A.35
+Boeing X-37	developedFrom	Boeing X-40
+Aero A.300	developedFrom	Aero A.304
+Yakovlev Yak-12	developedFrom	Yakovlev Yak-10
+Aero Ae 01	developedFrom	Hansa-Brandenburg B.I
+Aero Ae 04	developedFrom	Aero Ae 02
+Siebel Si 204	developedFrom	Siebel Fh 104
+AgustaWestland Apache	developedFrom	Boeing AH-64 Apache
+Aero L-59 Super Albatros	developedFrom	Aero L-39 Albatros
+Aero L-159 Alca	developedFrom	Aero L-59 Super Albatros
+Laird Super Solution	developedFrom	Laird Solution
+Tupolev Tu-28	developedFrom	Tupolev Tu-98 bomber prototype
+Mudry CAP 230	developedFrom	Mudry CAP-20
+Ader Avion II	developedFrom	Ader Eole
+Ader Avion III	developedFrom	Ader Avion II
+Lockheed EC-121 Warning Star	developedFrom	L-749 Constellation
+Lockheed EC-121 Warning Star	developedFrom	L-1049 Super Constellation
+Lockheed EC-121 Warning Star	developedFrom	C-121 Constellation
+Murphy Moose	developedFrom	Murphy SR2500 Super Rebel
+Shenyang BA-5	developedFrom	Mikoyan-Gurevich MiG-15bis / J-2 -
+Acro Sport II	developedFrom	Acro Sport I
+Antonov An-3	developedFrom	Antonov An-2
+Boeing Chinook	developedFrom	Boeing CH-47 Chinook
+Sikorsky CH-148 Cyclone	developedFrom	Sikorsky S-92
+Adkisson SJ-1 Head Skinner	developedFrom	Luscombe 8A
+North American XB-28 Dragon	developedFrom	B-25 Mitchell
+Atlas XH-1 Alpha	developedFrom	Aérospatiale Alouette III
+Aerfer Sagittario 2	developedFrom	Ambrosini Sagittario
+Globe Swift	developedFrom	Culver Cadet
+Aerfer Ariete	developedFrom	Aerfer Sagittario 2
+Douglas A2D Skyshark	developedFrom	A-1 Skyraider
+W 95	developedFrom	Adams-Wilson Choppy
+North American F-107	developedFrom	North American F-100 Super Sabre
+North American YF-93	developedFrom	F-86 Sabre
+ACBA Midour	developedFrom	Robin DR400
+Wright Flyer	developedFrom	Wright Glider
+Northrop C-19 Alpha	developedFrom	Northrop Alpha
+Yakovlev Yak-26	developedFrom	Yakovlev Yak-25
+Yakovlev Yak-27	developedFrom	Yakovlev Yak-25
+Lockheed XB-30	developedFrom	Lockheed L-049 Constellation
+Advanced Aviation Cobra	developedFrom	Eipper Quicksilver
+Advanced Aviation Explorer	developedFrom	Maxair Drifter
+Advanced Aviation Explorer	developedFrom	Sport Flight Talon
+Dassault Mirage G	developedFrom	Dassault Mirage F2
+Aero AT-3	developedFrom	Pottier P.220S Koala
+Aero Adventure Aventura	developedFrom	Advanced Aeromarine Buccaneer
+Seversky XP-41	developedFrom	Seversky P-35
+Aero Boero AB-210	developedFrom	Aero Boero AB-180
+Aero Boero AB-115	developedFrom	Aero Boero AB-95
+Kamov Ka-27	developedFrom	Kamov Ka-25
+Aerocar Aero-Plane	developedFrom	Taylor Aerocar
+Tupolev Tu-22M	developedFrom	Tupolev Tu-22
+Albatros C.I	developedFrom	Albatros B.II
+Martin XB-33 Super Marauder	developedFrom	B-26 Marauder
+Boeing XB-39 Superfortress	developedFrom	Boeing B-29 Superfortress
+PZL P.24	developedFrom	PZL P.11
+Yakovlev Yak-9	developedFrom	Yakovlev Yak-1
+Vickers VC.1 Viking	developedFrom	Vickers Wellington
+Tupolev ANT-20	developedFrom	Tupolev TB-4
+Sikorsky Ilya Muromets	developedFrom	Sikorsky Russky Vityaz
+Aerocar Mini-IMP	developedFrom	Aerocar IMP
+Aerocar Micro-IMP	developedFrom	Aerocar IMP
+Extra EA-200	developedFrom	Extra EA-300
+Sukhoi Su-34	developedFrom	Sukhoi Su-27
+Interceptor 400	developedFrom	Aero Commander 200
+IAI Westwind	developedFrom	Aero Commander 500
+Vought XF5U	developedFrom	Vought V-173
+Piper PA-44 Seminole	developedFrom	Piper Cherokee
+Piper PA-15 Vagabond	developedFrom	Piper J-3 Cub
+Cessna 206	developedFrom	Cessna 210
+Stinson 108	developedFrom	Stinson Voyager
+Van's Aircraft RV-4	developedFrom	Van's Aircraft RV-3
+Dornier Do 228	developedFrom	Dornier Do 28
+Beriev A-50	developedFrom	Ilyushin Il-76
+McDonnell CF-101 Voodoo	developedFrom	McDonnell F-101 Voodoo
+Northrop X-21	developedFrom	Douglas B-66 Destroyer
+Piasecki X-49	developedFrom	SH-60 Seahawk
+Northrop M2-F2	developedFrom	NASA M2-F1
+Northrop M2-F3	developedFrom	NASA M2-F1
+Northrop M2-F3	developedFrom	Northrop M2-F2
+Boeing XB-38 Flying Fortress	developedFrom	B-17 Flying Fortress
+Boeing YB-40 Flying Fortress	developedFrom	Boeing B-17 Flying Fortress
+Chengdu J-10	developedFrom	Chengdu J-9
+SpaceShipTwo	developedFrom	SpaceShipOne
+Bell 206	developedFrom	Bell YOH-4
+Aérospatiale SA 321 Super Frelon	developedFrom	SNCASE SE.3200 Frelon
+Fairchild F-27	developedFrom	Fokker F27
+Gee Bee Model R	developedFrom	Gee Bee Model Z
+Cessna 400	developedFrom	Cessna 350
+Wright Flyer III	developedFrom	Wright Flyer II
+Fairchild C-119 Flying Boxcar	developedFrom	Fairchild C-82 Packet
+Yakovlev Yak-23	developedFrom	Yakovlev Yak-17
+Yakovlev Yak-23	developedFrom	Yakovlev Yak-19
+Ilyushin Il-38	developedFrom	Ilyushin Il-18
+PZL-Mielec Lim-6	developedFrom	Mikoyan-Gurevich MiG-17
+Wedell-Williams XP-34	developedFrom	Wedell-Williams Model 45
+Junkers Ju 187	developedFrom	Junkers Ju 87
+HESA Saeqeh	developedFrom	HESA Azarakhsh
+Boeing C-108 Flying Fortress	developedFrom	Boeing B-17 Flying Fortress
+Nakajima A4N	developedFrom	Nakajima A2N
+Miles Sparrowjet	developedFrom	Miles Sparrowhawk
+Short 330	developedFrom	Short Skyvan
+Xian MA60	developedFrom	Xian Y-7
+Messerschmitt Me 309	developedFrom	Messerschmitt Bf 109
+Messerschmitt Me 609	developedFrom	Messerschmitt Me 309
+Lockheed Model 14 Super Electra	developedFrom	Lockheed Model 10 Electra
+Robinson R44	developedFrom	Robinson R22
+Ilyushin Il-78	developedFrom	Ilyushin Il-76
+Tupolev ANT-7	developedFrom	Tupolev TB-1
+Mil Mi-14	developedFrom	Mil Mi-8
+Mil Mi-17	developedFrom	Mil Mi-8
+Mil Mi-10	developedFrom	Mil Mi-6
+Kamov Ka-18	developedFrom	Kamov Ka-15
+Yakovlev Yak-4	developedFrom	Yakovlev Yak-2
+Yermolayev Yer-2	developedFrom	Bartini Stal-7
+Tupolev TB-3	developedFrom	Tupolev TB-1
+Lavochkin La-11	developedFrom	Lavochkin La-130
+Yakovlev Yak-7	developedFrom	Yakovlev Yak-1
+Yakovlev Yak-15	developedFrom	Yakovlev Yak-3
+Yakovlev Yak-17	developedFrom	Yakovlev Yak-15
+Ilyushin Il-6	developedFrom	Ilyushin Il-4
+Wedell-Williams Model 44	developedFrom	Wedell-Williams Model 22
+Wedell-Williams Model 45	developedFrom	Wedell-Williams Model 44
+Beriev Be-12	developedFrom	Beriev Be-6
+Bell 407	developedFrom	Bell 206
+Bell 427	developedFrom	Bell 407
+Kamov Ka-226	developedFrom	Kamov Ka-126
+De Havilland Canada Dash 7	developedFrom	De Havilland Canada DHC-6 Twin Otter
+Yakovlev Yak-54	developedFrom	Yakovlev Yak-55
+Ilyushin Il-14	developedFrom	Ilyushin Il-12
+Short C-23 Sherpa	developedFrom	Short 330
+Short C-23 Sherpa	developedFrom	Short 360
+Polikarpov I-15	developedFrom	Polikarpov I-5
+Eurocopter EC135	developedFrom	MBB Bo 105
+Fokker 50	developedFrom	Fokker F27
+Piper PA-18 Super Cub	developedFrom	Piper PA-11
+Dassault Mirage 4000	developedFrom	Dassault Mirage 2000
+Piasecki H-21	developedFrom	HRP Rescuer
+IAR 330	developedFrom	Aérospatiale SA 330 Puma
+4 Airtrainer	developedFrom	Victa Aircruiser
+Cessna 175 Skylark	developedFrom	Cessna 172
+IAR 825	developedFrom	IAR-823
+IAR 79	developedFrom	Savoia-Marchetti SM.79
+IAR 14	developedFrom	IAR 12
+IAR 316	developedFrom	Aérospatiale Alouette III
+North American A-36 Apache	developedFrom	P-51 Mustang
+Peterson 260SE	developedFrom	Cessna 182
+Republic P-43 Lancer	developedFrom	Seversky SEV-3
+Republic P-43 Lancer	developedFrom	Seversky P-35
+Savoia-Marchetti SM.81	developedFrom	Savoia-Marchetti S.73
+Sikorsky S-67 Blackhawk	developedFrom	Sikorsky SH-3 Sea King
+FMA IA 63 Pampa	developedFrom	Dornier Alpha Jet
+Lockheed CL-1200 Lancer	developedFrom	Lockheed F-104 Starfighter
+Lippisch P.13a	developedFrom	Lippisch DM-1
+Schweizer X-26 Frigate	developedFrom	Schweizer SGS 2-32
+Sikorsky S-92	developedFrom	Sikorsky S-70
+Bell 47	developedFrom	Bell 30
+Sikorsky H-34	developedFrom	Sikorsky S-55
+R36	developedFrom	R33 class airship
+Grumman American AA-1	developedFrom	Bede BD-1
+Ilyushin Il-30	developedFrom	Ilyushin Il-28
+Cessna 402	developedFrom	Cessna 411
+North American F-86D Sabre	developedFrom	North American F-86 Sabre
+McDonnell Douglas MD-94X	developedFrom	McDonnell Douglas MD-80
+Douglas World Cruiser	developedFrom	Douglas DT
+Boeing 307 Stratoliner	developedFrom	Boeing B-17 Flying Fortress
+General Dynamics F-16XL	developedFrom	General Dynamics F-16 Fighting Falcon
+Beriev Be-200	developedFrom	Beriev A-40
+Hawker Siddeley Andover	developedFrom	Hawker Siddeley HS 748
+Canadair CL-415	developedFrom	Canadair CL-215
+Consolidated XB-41 Liberator	developedFrom	Consolidated B-24 Liberator
+Focke-Wulf Ta 153	developedFrom	Focke-Wulf Fw 190
+Junkers EF 132	developedFrom	Junkers Ju 287
+Supermarine Spiteful	developedFrom	Supermarine Spitfire
+Grumman F2F	developedFrom	Grumman FF
+Lockheed P-7	developedFrom	Lockheed P-3 Orion
+Grumman F3F	developedFrom	Grumman F2F
+Sikorsky MH-60 Jayhawk	developedFrom	Sikorsky SH-60 Seahawk
+Howard DGA-15	developedFrom	Howard DGA-12
+Embraer EMB 121 Xingu	developedFrom	Embraer EMB 110 Bandeirante
+Lockheed Model 12 Electra Junior	developedFrom	Lockheed Model 10 Electra
+Piper PA-48 Enforcer	developedFrom	North American P-51 Mustang
+Piper PA-48 Enforcer	developedFrom	Cavalier Mustang
+BAC Strikemaster	developedFrom	BAC Jet Provost
+Taylorcraft B	developedFrom	Taylorcraft Model A
+Gloster Grebe	developedFrom	Gloster Grouse
+Mitsubishi F-1	developedFrom	Mitsubishi T-2
+North American XA2J Super Savage	developedFrom	North American AJ Savage
+Dassault Falcon 7X	developedFrom	Falcon 900
+Grigorovich I-2	developedFrom	Grigorovich I-1
+Bell XFL Airabonita	developedFrom	Bell P-39 Airacobra
+Curtiss XP-46	developedFrom	Curtiss P-40
+Curtiss P-60	developedFrom	Curtiss XP-46
+Taylor Titch	developedFrom	Taylor Monoplane
+Antonov A-40	developedFrom	T-60
+Curtiss-Wright CW-21	developedFrom	Curtiss-Wright CW-19
+Goodyear F2G Corsair	developedFrom	F4U Corsair
+Grumman XP-50	developedFrom	XF5F Skyrocket
+Lockheed XP-49	developedFrom	Lockheed P-38 Lightning
+Lockheed XP-58 Chain Lightning	developedFrom	Lockheed P-38 Lightning
+Beechcraft 1900	developedFrom	Beechcraft Super King Air
+Short Seaford	developedFrom	Short Sunderland
+Short Solent	developedFrom	Short Seaford
+Short Sandringham	developedFrom	Short Sunderland
+North American P-64	developedFrom	North American NA-16
+MD Helicopters MH-6 Little Bird	developedFrom	OH-6 Cayuse
+Shuttle Training Aircraft	developedFrom	Grumman Gulfstream II
+Republic XP-72	developedFrom	Republic P-47 Thunderbolt
+Embraer Legacy 600	developedFrom	Embraer ERJ 145 family
+PAC Cresco	developedFrom	PAC Fletcher
+Lockheed T2V SeaStar	developedFrom	Lockheed T-33 Shooting Star
+Douglas XA-2	developedFrom	Douglas O-2
+Cessna 185	developedFrom	Cessna 180
+Learjet 25	developedFrom	Learjet 24
+Piper PA-32R	developedFrom	Piper Cherokee Six
+Polikarpov I-185	developedFrom	Polikarpov I-180
+Consolidated PB4Y-2 Privateer	developedFrom	Consolidated B-24 Liberator
+Polikarpov I-180	developedFrom	Polikarpov I-16
+Consolidated XPB3Y	developedFrom	PB2Y Coronado
+Fairchild Swearingen Metroliner	developedFrom	Swearingen Merlin
+Lockheed DC-130	developedFrom	C-130 Hercules
+Miles M.20	developedFrom	Miles Master
+Convair C-131 Samaritan	developedFrom	Convair CV-240
+Consolidated R2Y	developedFrom	Consolidated B-24 Liberator
+Scaled Composites White Knight Two	developedFrom	Scaled Composites White Knight
+Thales Watchkeeper WK450	developedFrom	Elbit Hermes 450
+R33-class airship	developedFrom	R31 class airship
+Grumman J2F Duck	developedFrom	Grumman JF Duck
+Aero Spacelines Pregnant Guppy	developedFrom	Boeing 377
+Martin Baltimore	developedFrom	Martin Maryland
+PAC P-750 XSTOL	developedFrom	PAC Cresco
+Myasishchev VM-T	developedFrom	Myasishchev M-4
+PZL Kania	developedFrom	Mil Mi-2
+FMA IAe 33 Pulqui II	developedFrom	Focke-Wulf Ta 183
+Aérospatiale SA 315B Lama	developedFrom	Aérospatiale Alouette II
+Fokker 70	developedFrom	Fokker 100
+HESA Shafaq	developedFrom	M-ATF
+Canadair CL-44	developedFrom	Bristol Britannia
+Ryan PT-22 Recruit	developedFrom	Ryan ST
+Boeing KC-97 Stratofreighter	developedFrom	Boeing C-97 Stratofreighter
+Sikorsky R-4	developedFrom	Vought-Sikorsky VS-300
+Sikorsky H-5	developedFrom	Sikorsky R-4
+Taylorcraft L-2	developedFrom	Taylorcraft Model D
+North American BT-9	developedFrom	North American NA-16
+Diamond DA20	developedFrom	Diamond HK36 Super Dimona
+Canadair CP-107 Argus	developedFrom	Bristol Britannia
+Shaanxi Y-8	developedFrom	Antonov An-12
+Hawker P.1052	developedFrom	Hawker Sea Hawk
+Hawker P.1072	developedFrom	Hawker Sea Hawk
+Wright Flyer II	developedFrom	Wright Flyer
+Hawker Hotspur	developedFrom	Hawker Henley
+Hawker P.1081	developedFrom	Hawker P.1052
+Canadair Sabre	developedFrom	North American F-86 Sabre
+Tupolev Tu-95LAL	developedFrom	Tupolev Tu-95
+Schempp-Hirth Nimbus-4	developedFrom	Schempp-Hirth Nimbus-3
+Sikorsky S-300	developedFrom	TH-55 Osage
+Canadair CT-133 Silver Star	developedFrom	Lockheed T-33 Shooting Star
+Schleicher ASW 12	developedFrom	Akaflieg Darmstadt D-36 Circe
+Canadair CC-109 Cosmopolitan	developedFrom	Convair 240
+Glaser-Dirks DG-100	developedFrom	Akaflieg Darmstadt D-38
+Canadair CF-104 Starfighter	developedFrom	Lockheed F-104 Starfighter
+Vickers Type 264 Valentia	developedFrom	Vickers Victoria
+Vickers Vernon	developedFrom	Vickers Vimy Commercial
+Vickers Victoria	developedFrom	Vickers Virginia
+Vickers Virginia	developedFrom	Vickers Vimy
+Vought SBU Corsair	developedFrom	Vought XF3U
+Boeing YB-9	developedFrom	Boeing Monomail
+Shenyang J-11	developedFrom	Sukhoi Su-27SK
+Short 360	developedFrom	Short 330
+De Havilland Canada DHC-5 Buffalo	developedFrom	De Havilland Canada DHC-4 Caribou
+Gyrodyne QH-50 DASH	developedFrom	Gyrodyne RON Rotorcycle
+Northrop A-17	developedFrom	Northrop Gamma
+Cessna 425	developedFrom	Cessna 421
+Bristol Bolingbroke	developedFrom	Bristol Blenheim
+MGM-13 Mace	developedFrom	MGM-1 Matador
+Bell XP-76	developedFrom	Bell P-39 Airacobra
+Piper PA-31T Cheyenne	developedFrom	Piper PA-31 Navajo
+Cessna 421	developedFrom	Cessna 411
+Dassault Falcon 50	developedFrom	Dassault Falcon 20
+Dassault Falcon 10	developedFrom	Dassault Falcon 20
+Dassault Falcon 900	developedFrom	Dassault Falcon 50
+Bell 412	developedFrom	Bell 212
+Dassault Mystère IV	developedFrom	Dassault Mystère
+Mitsubishi Q2M	developedFrom	Mitsubishi Ki-67
+Nakajima A6M2-N	developedFrom	Mitsubishi A6M Zero
+Lockheed YO-3	developedFrom	Schweizer SGS 2-32
+Boeing 747-8	developedFrom	Boeing 747-400
+Lavochkin La-126	developedFrom	Lavochkin La-7 via the Lavochkin La-120
+Fairchild C-26 Metroliner	developedFrom	Fairchild Swearingen Metroliner
+Polikarpov I-153	developedFrom	Polikarpov I-15
+Curtiss YA-10 Shrike	developedFrom	A-8 Shrike
+Northrop YA-13	developedFrom	Northrop Gamma
+Curtiss A-18 Shrike	developedFrom	Curtiss YA-14
+Vultee V-11	developedFrom	Vultee V-1
+North American A-27	developedFrom	North American BC-1
+Boeing XB-56	developedFrom	Boeing B-47 Stratojet
+Boeing B-54	developedFrom	B-50 Superfortress
+Windecker YE-5	developedFrom	Windecker Eagle
+Grumman XTSF	developedFrom	Grumman F7F Tigercat
+Curtiss XSB3C	developedFrom	Curtiss SB2C Helldiver
+Cessna 404 Titan	developedFrom	Cessna 402
+Conroy Skymonster	developedFrom	Canadair CL-44
+Martin 4-0-4	developedFrom	Martin 2-0-2
+Grumman Gulfstream II	developedFrom	Grumman Gulfstream I
+Cozy MK IV	developedFrom	Rutan Long-EZ
+Vickers Varsity	developedFrom	Vickers VC.1 Viking
+Republic F-84F Thunderstreak	developedFrom	Republic F-84 Thunderjet
+Westland Widgeon	developedFrom	Westland WS-51 Dragonfly
+HAL Ajeet	developedFrom	Folland Gnat
+Saab 21R	developedFrom	Saab 21
+Beechcraft Model 99	developedFrom	Beechcraft King Air
+Beechcraft Model 99	developedFrom	Beechcraft Queen Air
+Mitsubishi Ki-57	developedFrom	Mitsubishi Ki-21
+Gulfstream G100	developedFrom	IAI Westwind
+Glaser-Dirks DG-400	developedFrom	Glaser-Dirks DG-200
+Stroukoff YC-134	developedFrom	Fairchild C-123 Provider
+Nieuport 27	developedFrom	Nieuport 24
+Cavalier Mustang	developedFrom	North American P-51 Mustang
+VEF I-12	developedFrom	VEF I-11
+ANBO IV	developedFrom	ANBO III
+Dassault Mirage IIIV	developedFrom	Dassault Balzac V
+Short Singapore	developedFrom	Short Cromarty
+Northrop Gamma	developedFrom	Northrop Alpha
+Westland Scout	developedFrom	Saro P.531
+Bristol Belvedere	developedFrom	Bristol Type 173
+General Dynamics–Grumman EF-111A Raven	developedFrom	General Dynamics F-111 Aardvark
+Mikoyan MiG-29K	developedFrom	Mikoyan MiG-29M
+Fairey Gordon	developedFrom	Fairey III
+Hawker Hector	developedFrom	Hawker Hart
+Piper PA-42 Cheyenne	developedFrom	Piper PA-31T Cheyenne
+Lockheed L-100 Hercules	developedFrom	C-130 Hercules
+Sikorsky S-64 Skycrane	developedFrom	CH-54 Tarhe
+Northrop Grumman MQ-8 Fire Scout	developedFrom	Schweizer 333
+Sukhoi Su-30MKI	developedFrom	Sukhoi Su-30
+Yakovlev Yak-46	developedFrom	Yakovlev Yak-42
+Bristol Boxkite	developedFrom	Farman III, Zodiac Biplane
+Xian H-6	developedFrom	Tupolev Tu-16
+Cessna Citation II	developedFrom	Cessna Citation I
+MTD	developedFrom	McDonnell Douglas F-15 Eagle
+Bristol Superfreighter	developedFrom	Bristol Freighter
+Hawker Siddeley P.1154	developedFrom	Hawker Siddeley P.1127
+CAC Wirraway	developedFrom	North American NA-16
+Junkers Ju 352	developedFrom	Junkers Ju 252
+Fokker F.VII	developedFrom	Fokker F.V
+Lisunov Li-2	developedFrom	Douglas DC-3
+Mil Mi-3	developedFrom	Mil Mi-2
+Cirrus SR22	developedFrom	Cirrus SR20
+Supermarine S.6B	developedFrom	Supermarine S.6
+Fuji T-3	developedFrom	Fuji KM-2
+Boeing F2B	developedFrom	Boeing XP-8
+Boeing Model 15	developedFrom	Fokker D.VII
+Boeing F3B	developedFrom	Boeing F2B
+Boeing F3B	developedFrom	Boeing Model 15
+Boeing XF6B	developedFrom	Boeing F4B
+Cessna 195	developedFrom	Cessna 165
+Lockheed Martin A-4AR Fightinghawk	developedFrom	A-4M Skyhawk
+Helio Twin Courier	developedFrom	Helio Courier
+Bell ARH-70 Arapaho	developedFrom	Bell 407
+Canadair CF-5	developedFrom	Northrop F-5
+Santos-Dumont number 6	developedFrom	List of Santos-Dumont aircraft
+Boeing KB-29 Superfortress	developedFrom	B-29 Superfortress
+AeroVironment RQ-11 Raven	developedFrom	FQM-151 Pointer
+Messerschmitt P.1101	developedFrom	Messerschmitt P.1100
+Senior Prom	developedFrom	Lockheed Have Blue
+Sukhoi Su-29	developedFrom	Sukhoi Su-26
+Reims-Cessna F406 Caravan II	developedFrom	Cessna 404 Titan
+Curtiss P-40 Warhawk variants	developedFrom	Curtiss P-36 Hawk
+LET TG-10	developedFrom	LET L-13 Blaník
+Cessna 340	developedFrom	Cessna 310
+Supermarine Seafang	developedFrom	Supermarine Spiteful
+Baade 152	developedFrom	OKB-1 150
+Westland WS-51 Dragonfly	developedFrom	Sikorsky H-5
+Fairchild Dornier 328JET	developedFrom	Dornier 328
+Boeing CC-137	developedFrom	Boeing 707
+Martin-Baker MB 5	developedFrom	Martin-Baker MB 3
+Gloster Gamecock	developedFrom	Gloster Grebe
+Zlín Z 43	developedFrom	Zlín Z 42
+General Atomics MQ-9 Reaper	developedFrom	General Atomics MQ-1 Predator
+Avro Ashton	developedFrom	Avro Tudor
+Lockheed Martin VH-71 Kestrel	developedFrom	AgustaWestland AW101
+Hispano Aviación HA-1112	developedFrom	Messerschmitt Bf 109
+PZL M-20 Mewa	developedFrom	Piper PA-34 Seneca
+Lockheed Air Express	developedFrom	Lockheed Vega
+Northrop Grumman X-47B	developedFrom	Northrop Grumman X-47A Pegasus
+Lockheed Explorer	developedFrom	Lockheed Vega
+Sukhoi Su-28	developedFrom	Sukhoi Su-25
+Savoia-Marchetti S.74	developedFrom	Savoia-Marchetti S.72
+Van's Aircraft RV-10	developedFrom	Van's Aircraft RV-7
+Bennett Airtruck	developedFrom	Kingsford Smith PL.7
+Britten-Norman Defender	developedFrom	Britten-Norman Islander
+Potez 650	developedFrom	Potez 62
+Petlyakov Pe-3	developedFrom	Petlyakov Pe-2
+Lockheed Altair	developedFrom	Lockheed Sirius
+Short Sarafand	developedFrom	Short Singapore
+Grob G 120	developedFrom	Grob G 115
+Embraer EMB 314 Super Tucano	developedFrom	Embraer EMB 312 Tucano
+Van's Aircraft RV-6	developedFrom	Van's Aircraft RV-4
+Van's Aircraft RV-7	developedFrom	Van's Aircraft RV-6
+Van's Aircraft RV-8	developedFrom	Van's Aircraft RV-4
+Lippisch P.20	developedFrom	Me 163
+Van's Aircraft RV-3	developedFrom	Stits Playboy
+Transavia PL-12 Airtruk	developedFrom	Bennett Airtruck
+Avro Tudor	developedFrom	Avro Lincoln
+Northrop F-15 Reporter	developedFrom	Northrop P-61 Black Widow
+Bombardier Challenger 850	developedFrom	Bombardier CRJ200
+Cozy III	developedFrom	Rutan Long-EZ
+PZL M28 Skytruck	developedFrom	Antonov An-28
+Ilyushin Il-102	developedFrom	Ilyushin Il-40
+Felixstowe F5L	developedFrom	Felixstowe F.5
+De Havilland DH.60 Moth	developedFrom	De Havilland DH.51
+Bell 429 GlobalRanger	developedFrom	Bell 427
+Fairchild XC-120 Packplane	developedFrom	C-119 Flying Boxcar
+Eurocopter EC145	developedFrom	Kawasaki BK 117
+Sikorsky CH-53K King Stallion	developedFrom	Sikorsky CH-53E Super Stallion
+Kawasaki Ki-102	developedFrom	Kawasaki Ki-96
+Learjet 35	developedFrom	Learjet 25
+Eurocopter UH-72 Lakota	developedFrom	Eurocopter EC145
+Soloy Pathfinder 21	developedFrom	Cessna 208
+LET L-23 Super Blaník	developedFrom	LET L-13 Blanik
+Bell 430	developedFrom	Bell 222
+Boeing X-53 Active Aeroelastic Wing	developedFrom	A-18 Hornet
+Nieuport-Delage NiD 52	developedFrom	Nieuport-Delage NiD 42
+DC-10 Air Tanker	developedFrom	McDonnell Douglas DC-10
+Panha Shabaviz 206-1	developedFrom	Bell 206
+Panha 2091	developedFrom	Bell AH-1 SuperCobra
+Boeing XP-4	developedFrom	Boeing Model 15
+Eurocopter Fennec	developedFrom	Eurocopter AS350
+Eurocopter Fennec	developedFrom	Eurocopter AS355
+Bell 533	developedFrom	YH-40
+Boeing XP-7	developedFrom	Boeing Model 15
+Boeing XP-8	developedFrom	Boeing Model 15
+Republic XF-84H	developedFrom	Republic F-84F Thunderstreak
+Tupolev Tu-141	developedFrom	Tupolev Tu-123
+Tupolev Tu-143	developedFrom	Tupolev Tu-141
+AgustaWestland AW149	developedFrom	AgustaWestland AW139
+Nakajima A1N	developedFrom	Gloster Gamecock
+Ikarus S-49	developedFrom	Rogožarski IK-3
+Hawker Danecock	developedFrom	Hawker Woodcock
+Douglas XB-43 Jetmaster	developedFrom	Douglas XB-42 Mixmaster
+Symphony SA-160	developedFrom	Stoddard-Hamilton Glastar
+Boeing Dreamlifter	developedFrom	Boeing 747-400
+Fairey Jet Gyrodyne	developedFrom	Fairey FB-1 Gyrodyne
+Reggiane Re.2005	developedFrom	Reggiane Re.2001
+Liberty XL2	developedFrom	Europa XS
+Reggiane Re.2001	developedFrom	Reggiane Re.2000
+KJ-1 AEWC	developedFrom	Tupolev Tu-4
+Hewitt-Sperry Automatic Airplane	developedFrom	Curtiss Model N
+PZL-101 Gawron	developedFrom	Yakovlev Yak-12
+Sukhoi Su-30MKM	developedFrom	Sukhoi Su-30
+Sukhoi Su-30MKM	developedFrom	Sukhoi Su-30MKI
+Xian Y-7	developedFrom	Antonov An-24
+Xian Y-7	developedFrom	Antonov An-26
+Supermarine Sea Otter	developedFrom	Supermarine Walrus
+RWD 13	developedFrom	RWD-6
+Supermarine Southampton	developedFrom	Supermarine Swan
+RWD 15	developedFrom	RWD-13
+Morane-Saulnier MS.760 Paris	developedFrom	Morane-Saulnier MS.755 Fleuret
+PWS-26	developedFrom	PWS-16
+Supermarine Scapa	developedFrom	Supermarine Southampton
+Beagle Terrier	developedFrom	Taylorcraft Auster
+Short S.26	developedFrom	Short Empire
+Boeing 747SP	developedFrom	Boeing 747
+Learjet 40	developedFrom	Learjet 45
+PAC MFI-17 Mushshak	developedFrom	Saab Safari
+Junkers W 34	developedFrom	Junkers W 33
+VL Humu	developedFrom	Brewster B-239 Buffalo
+EADS CASA C-295	developedFrom	CASA CN-235
+Dornier Do 27	developedFrom	Dornier Do 25
+Boulton Paul P.120	developedFrom	Boulton Paul P.111
+Diamond DA40	developedFrom	Diamond DA20
+High Alpha Research Vehicle	developedFrom	A-18 Hornet
+Yakovlev Yak-30	developedFrom	Yakovlev Yak-25
+Supermarine Seagull	developedFrom	Supermarine Seal
+Burnelli CBY-3	developedFrom	Burnelli UB-14
+General Atomics ALTUS	developedFrom	General Atomics GNAT
+Sukhoi Su-30MKK	developedFrom	Sukhoi Su-30
+Tupolev Tu-244	developedFrom	Tupolev Tu-144
+Percival Vega Gull	developedFrom	Percival Gull
+Felixstowe F.2	developedFrom	Felixstowe F.1
+Felixstowe F.2	developedFrom	Curtiss H-12
+PZL.54 Ryś	developedFrom	PZL.48 Lampart
+Learjet 28	developedFrom	Learjet 25
+Piper PA-11	developedFrom	Piper J-3
+Extra EA-500	developedFrom	Extra EA-400
+Bell 214	developedFrom	205
+Boeing Skyfox	developedFrom	Lockheed T-33 Shooting Star
+Airship Industries Skyship 600	developedFrom	Airship Industries Skyship 500
+Dassault-Sagem SlowFast	developedFrom	Dassault AVE-C Moyen Duc
+Lockheed Martin CATBird	developedFrom	Boeing 737
+HAL Light Combat Helicopter	developedFrom	HAL Dhruv
+MD Helicopters MD 500	developedFrom	Hughes OH-6 Cayuse
+De Havilland Australia DHA-3 Drover	developedFrom	De Havilland Dove
+Sopwith Baby	developedFrom	Sopwith Schneider
+Short SB.4 Sherpa	developedFrom	Short SB.1
+Stinson L-5 Sentinel	developedFrom	Stinson Voyager
+Fairey Hamble Baby	developedFrom	Sopwith Baby
+Dornier Do 317	developedFrom	Dornier Do 217
+MD Helicopters MD 600	developedFrom	MD Helicopters MD 500
+Voisin III	developedFrom	Voisin I
+Junkers Ju 488	developedFrom	Junkers Ju 188
+Junkers Ju 488	developedFrom	Junkers Ju 288
+Junkers Ju 488	developedFrom	Junkers Ju 388
+Harbin Z-9	developedFrom	Eurocopter AS365 Dauphin
+Schweizer SGS 2-33	developedFrom	Schweizer 2-22
+Boeing EC-135	developedFrom	C-135 Stratolifter
+Vought XF8U-3 Crusader III	developedFrom	Vought F-8 Crusader
+Start + Flug H-101	developedFrom	Glasflügel H-201
+Lockheed AQM-60 Kingfisher	developedFrom	Lockheed X-7
+Bell 309 KingCobra	developedFrom	AH-1 Cobra
+Bell 207 Sioux Scout	developedFrom	Bell 47
+Bell UH-1Y Venom	developedFrom	Bell UH-1N Twin Huey
+Eurocopter EC130	developedFrom	Eurocopter AS350
+Piper PA-12	developedFrom	Piper J-5
+Sikorsky S-333	developedFrom	Schweizer 300
+Avro Andover	developedFrom	Avro Aldershot
+Armstrong Whitworth F.K.3	developedFrom	Royal Aircraft Factory BE.2
+Armstrong Whitworth F.K.8	developedFrom	Armstrong Whitworth F.K.7
+Taylorcraft Auster	developedFrom	Taylor Cub
+Westland Walrus	developedFrom	Airco DH.9A
+Lockheed AP-3C Orion	developedFrom	Lockheed P-3 Orion
+Miles Messenger	developedFrom	Miles Mercury
+Fairchild Dornier 428JET	developedFrom	Fairchild Dornier 328JET
+CASA 2.111	developedFrom	Heinkel He 111
+Short Scion Senior	developedFrom	Short Scion
+Blackburn Kangaroo	developedFrom	Blackburn G.P.
+Cessna CH-1 Skyhook	developedFrom	Seibel S-4
+Airco DH.9A	developedFrom	Airco DH.9
+Lancair ES	developedFrom	Lancair IV
+Boulton & Paul P.71A	developedFrom	Boulton Paul Mailplane
+Lancair Legacy	developedFrom	Lancair 320
+Hanriot H.230	developedFrom	Hanriot H.220
+Marinens Flyvebaatfabrikk M.F.11	developedFrom	Marinens Flyvebaatfabrikk M.F.10
+Fokker F.VIII	developedFrom	Fokker F.VII
+Rolls-Royce Mustang Mk.X	developedFrom	P-51 Mustang
+Fokker F.10	developedFrom	Fokker F.VII
+Eurocopter AS355	developedFrom	Eurocopter AS350
+Beechcraft Super King Air	developedFrom	Beechcraft King Air
+SZD-36 Cobra 15	developedFrom	SZD-32A Foka 5
+Blackburn Blackburn	developedFrom	Blackburn Dart
+Focke-Wulf Fw 42	developedFrom	Focke-Wulf F 19
+Caudron C.60	developedFrom	Caudron C.59
+Caudron G.3	developedFrom	Caudron G.2
+Caudron G.4	developedFrom	Caudron G.3
+Tupolev ANT-14	developedFrom	Tupolev ANT-9
+Saunders ST-27	developedFrom	De Havilland Heron
+Short Scylla	developedFrom	Short Kent
+Basler BT-67	developedFrom	Douglas DC-3
+I.Ae. 22 DL	developedFrom	North American NA-16
+Fokker D.X	developedFrom	Fokker D.VIII
+Friedrichshafen FF.49	developedFrom	Friedrichshafen FF.33
+IVL A.22 Hansa	developedFrom	Hansa-Brandenburg W.33
+Valmet PIK-23 Towmaster	developedFrom	PIK-19 Muhinu
+Mooney M10 Cadet	developedFrom	ERCO Ercoupe
+Tachikawa Ki-55	developedFrom	Tachikawa Ki-36
+Arado Ar 197	developedFrom	Arado Ar 68
+Westland C.O.W. Gun Fighter	developedFrom	Westland Interceptor
+Kawasaki Ki-96	developedFrom	Kawasaki Ki-45
+Dornier Do 29	developedFrom	Dornier Do 17
+Messerschmitt Me 329	developedFrom	Messerschmitt Me 265
+Hütter Hü 211	developedFrom	Heinkel He 219
+Focke-Wulf Fw 300	developedFrom	Focke-Wulf Fw 200
+IVL C.VI.25	developedFrom	IVL C.24
+Short Kent	developedFrom	Short Calcutta
+LVG C.VI	developedFrom	LVG C.V
+Felixstowe F.5	developedFrom	Felixstowe F.2
+Felixstowe F.3	developedFrom	Felixstowe F.2
+Grigorovich M-5	developedFrom	Grigorovich M-4
+Grigorovich M-9	developedFrom	Grigorovich M-5
+Grigorovich M-15	developedFrom	Grigorovich M-9
+Grigorovich M-16	developedFrom	Grigorovich M-9
+Saab Safari	developedFrom	MFI-9 Junior
+ACT Apache 1	developedFrom	Lancair 320
+Nieuport 21	developedFrom	Nieuport 17
+Rumpler 6B	developedFrom	Rumpler C.I
+Blackburn Firecrest	developedFrom	Blackburn Firebrand
+PADC Hummingbird	developedFrom	MBB Bo 105
+KJ-2000	developedFrom	Ilyushin Il-76
+General Aircraft Owlet	developedFrom	General Aircraft Cygnet
+Bell Boeing Quad TiltRotor	developedFrom	Bell Boeing V-22 Osprey
+Mooney M22 Mustang	developedFrom	Mooney M20
+Pitcairn Mailwing	developedFrom	Pitcairn PA-4 Fleetwing II
+Kamov Ka-31	developedFrom	Kamov Ka-27
+Spartan Three Seater	developedFrom	Simmonds Spartan
+Changhe Z-11	developedFrom	Eurocopter Ecureuil
+Mitsubishi B2M	developedFrom	Blackburn Ripon
+Vickers Valetta	developedFrom	Vickers VC.1 Viking
+205	developedFrom	Bell UH-1 Iroquois
+Bücker Bü 133	developedFrom	Bücker Bü 131
+Airspeed Viceroy	developedFrom	Airspeed Envoy
+Miles Mentor	developedFrom	Miles Nighthawk
+Canadair North Star	developedFrom	Douglas DC-4
+Airwolf	developedFrom	Bell 222
+Eurocopter EC155	developedFrom	Eurocopter AS365 Dauphin
+Supermarine Nighthawk	developedFrom	Pemberton Billing P.B.29E
+Thruxton Jackaroo	developedFrom	De Havilland Tiger Moth
+Nakajima G5N	developedFrom	Douglas DC-4E
+Bell UH-1N Twin Huey	developedFrom	Bell UH-1 Iroquois
+Canadian Vickers Varuna	developedFrom	Canadian Vickers Vedette
+Beechcraft CT-134 Musketeer	developedFrom	Beechcraft Musketeer
+Bristol Pullman	developedFrom	Bristol Braemar
+Percival Proctor	developedFrom	Percival Vega Gull
+Jodel D.11	developedFrom	Jodel D9
+Bristol Tramp	developedFrom	Bristol Pullman
+MacCready Solar Challenger	developedFrom	Gossamer Penguin
+Boeing P-29	developedFrom	Boeing P-26
+Blackburn Velos	developedFrom	Blackburn Dart
+Aeronca C-3	developedFrom	Aeronca C-2
+Aeronca K	developedFrom	Aeronca C-2
+Aeronca Champion	developedFrom	Aeronca L-3
+Aeronca Champion	developedFrom	Aeronca TAC
+Aeronca Champion	developedFrom	Aeronca Defender
+Aeronca Champion	developedFrom	Aeronca 50 Chief
+Aeronca L-16	developedFrom	Aeronca Champion
+Auster Autocrat	developedFrom	Taylorcraft Auster
+4	developedFrom	Auster Arrow
+Auster Alpine	developedFrom	Auster Aiglet Trainer
+Auster Aiglet Trainer	developedFrom	Auster Autocar
+Auster Atom	developedFrom	Auster Arrow
+Auster Workmaster	developedFrom	Auster Autocrat
+PZL P.6	developedFrom	PZL P.1
+Percival Prince	developedFrom	Percival Merganser
+Boeing NC-135	developedFrom	Boeing C-135 Stratolifter
+Boeing NC-135	developedFrom	Boeing KC-135 Stratotanker
+Aerotec A-132 Tangará	developedFrom	Aerotec Uirapuru
+FMA IA 50 Guaraní II	developedFrom	DINFIA IA 35
+Auster AOP.6	developedFrom	Taylorcraft Auster
+Westland Westminster	developedFrom	Sikorsky CH-37 Mojave
+Agusta A.115	developedFrom	Bell 47
+Agusta-Bell AB.102	developedFrom	Bell 48
+AgustaWestland AW119 Koala	developedFrom	Agusta A109
+Percival Mew Gull	developedFrom	Percival Gull
+AIDC T-CH-1	developedFrom	North American T-28 Trojan
+Partenavia Oscar	developedFrom	Partenavia Fachiro
+Albatros C.VII	developedFrom	Albatros C.V
+Cessna 411	developedFrom	Cessna 310
+Ambrosini Sagittario	developedFrom	Ambrosini S.7
+Consolidated Liberator I	developedFrom	B-24 Liberator
+Ambrosini SAI.403	developedFrom	Ambrosini SAI.207
+Klemm Kl 151	developedFrom	Messerschmitt Bf 108
+Blackburn Perth	developedFrom	Blackburn Iris
+Arado Ar 195	developedFrom	Arado Ar 95
+Sukhoi Su-31	developedFrom	Sukhoi Su-29
+Caproni Ca.314	developedFrom	Caproni Ca.310
+Bell AH-1Z Viper	developedFrom	Bell AH-1 SuperCobra
+Andreasson BA-4B	developedFrom	Andreasson BA-4
+Douglas O-43	developedFrom	Douglas O-31
+Piaggio P.166	developedFrom	Piaggio P.136
+Fuji T-5	developedFrom	Fuji KM-2
+Fuji KM-2	developedFrom	Beech T-34 Mentor
+Eurocopter EC635	developedFrom	Eurocopter EC 135
+ASSET	developedFrom	Boeing X-20 Dyna-Soar
+LWD Zuch	developedFrom	LWD Junak-1
+Antoinette V	developedFrom	Antoinette IV
+Armstrong Whitworth Scimitar	developedFrom	Armstrong Whitworth A.W.16
+Armstrong Whitworth A.W.16	developedFrom	Armstrong Whitworth Starling Mk I
+McDonnell Douglas MD 500 Defender	developedFrom	MD Helicopters MD 500
+Curtiss BF2C Goshawk	developedFrom	Curtiss F11C Goshawk
+Kokusai Ku-8	developedFrom	Kokusai Ki-59
+Sikorsky S-61R	developedFrom	Sikorsky SH-3 Sea King
+Viking Dragonfly	developedFrom	Rutan Quickie
+Cierva Air Horse	developedFrom	Weir W.6
+PZL M-24 Dromader Super	developedFrom	PZL-Mielec M-18 Dromader
+Breguet Br.521 Bizerte	developedFrom	Short S.8 Calcutta
+Halberstadt C.V	developedFrom	Halberstadt C.III
+Hansa-Brandenburg KDW	developedFrom	Hansa-Brandenburg D.I
+Auster Avis	developedFrom	Auster Autocrat
+Auster D.4	developedFrom	Auster Arrow
+Auster D.6	developedFrom	Auster Autocar
+Beagle Husky	developedFrom	Auster Alpha
+General Atomics MQ-1C Gray Eagle	developedFrom	General Atomics MQ-1 Predator
+Champion Lancer	developedFrom	Aeronca Champion
+PWS-18	developedFrom	Avro Tutor
+Gulfstream G200	developedFrom	IAI Astra
+Piper PA-36 Pawnee Brave	developedFrom	Piper PA-25 Pawnee
+Soko J-21 Jastreb	developedFrom	Soko G-2 Galeb
+Lancair 360	developedFrom	Lancair 320
+SIAI S.12	developedFrom	SIAI S.9
+Avia BH-33	developedFrom	Avia BH-21
+Avro 643 Cadet	developedFrom	Avro Tutor
+Avro Club Cadet	developedFrom	Avro Cadet
+PZL.43	developedFrom	PZL.23 Karaś
+Avro 627 Mailplane	developedFrom	Avro Antelope
+Harbin Z-5	developedFrom	Mil Mi-4
+Boeing E-767	developedFrom	Boeing 767
+PZL.48 Lampart	developedFrom	PZL.38 Wilk
+Martin-Baker MB 3	developedFrom	Martin-Baker MB1
+Martin-Baker MB 3	developedFrom	Martin-Baker MB2
+Avro 519	developedFrom	Avro 510
+Messerschmitt P.1106	developedFrom	Messerschmitt P.1101
+Nieuport 12	developedFrom	Nieuport 10
+Handley Page Hyderabad	developedFrom	Handley Page Type W
+Vickers Type 143	developedFrom	Vickers Type 141
+Voisin V	developedFrom	Voisin III
+Reid and Sigrist R.S.3	developedFrom	Reid and Sigrist R.S.1
+Vickers Wibault	developedFrom	Wibault 7
+Dassault Falcon 2000	developedFrom	Dassault Falcon 900
+Martin-Baker MB 2	developedFrom	Martin-Baker MB1
+Beardmore W.B.III	developedFrom	Sopwith Pup
+Sikorsky S-75	developedFrom	Sikorsky S-76
+Bell 400 TwinRanger	developedFrom	Bell 206
+Bede BD-4	developedFrom	BD-1
+Sikorsky S-61	developedFrom	SH-3 Sea King
+Alenia C-27J Spartan	developedFrom	Aeritalia G.222
+Bellanca CH-300	developedFrom	Bellanca CH-200
+Bellanca CH-200	developedFrom	Wright-Bellanca WB-2
+Conroy Turbo Three	developedFrom	Douglas DC-3
+Conroy Stolifter	developedFrom	Cessna Skymaster
+Bellanca 28-90	developedFrom	Bellanca 28-70
+G-BDXJ	developedFrom	Boeing 747-200
+Bellanca 14-13	developedFrom	Bellanca 14-7
+Temco T-35 Buckaroo	developedFrom	Globe Swift
+Bird Innovator	developedFrom	PBY Catalina
+Blackburn Bluebird IV	developedFrom	Blackburn Bluebird
+Blackburn B-2	developedFrom	Blackburn Bluebird IV
+Bombardier CRJ200	developedFrom	Bombardier Challenger 600
+Bombardier CRJ700 series	developedFrom	Bombardier CRJ200
+Short Admiralty Type 74	developedFrom	Short Admiralty Type 42
+Westland 30	developedFrom	Westland Lynx
+Bell 214ST	developedFrom	Bell 214
+Nieuport 24	developedFrom	Nieuport 17
+Bell 201	developedFrom	Bell 47
+Beriev A-60	developedFrom	Ilyushin Il-76
+ST Aerospace A-4SU Super Skyhawk	developedFrom	Douglas A-4 Skyhawk
+Bristol T.B.8	developedFrom	Bristol-Coanda Monoplanes
+Bloch MB.120	developedFrom	Bloch MB.71
+Martin 146	developedFrom	Martin B-10
+British Aircraft Swallow	developedFrom	Klemm L.25
+Blackburn Mercury	developedFrom	Blackburn Second Monoplane
+Sikorsky S-60	developedFrom	Sikorsky CH-37 Mojave
+Eurocopter EC225 Super Puma	developedFrom	Eurocopter AS332 Super Puma
+Culver PQ-14 Cadet	developedFrom	Culver Cadet
+Blériot-SPAD S.46	developedFrom	Blériot-SPAD S.33
+Blériot-SPAD S.56	developedFrom	Blériot-SPAD S.33
+Eurocopter EC725	developedFrom	Eurocopter AS 532
+Boeing TB	developedFrom	Martin T3M
+Cessna DC-6	developedFrom	Cessna CW-6
+General Aircraft Monospar ST-25	developedFrom	General Aircraft Monospar
+Turana	developedFrom	Ikara
+Fokker F.I	developedFrom	Fokker V.4
+Fokker M.7	developedFrom	Fokker M.5
+Fokker M 10	developedFrom	Fokker M.7
+Short Rangoon	developedFrom	Short S.8 Calcutta
+Kawanishi H3K	developedFrom	Short Rangoon
+Cerva CE.43 Guépard	developedFrom	Wassmer WA-40
+Koolhoven F.K.43	developedFrom	Koolhoven F.K.41
+Consolidated NY	developedFrom	Dayton-Wright TW-3
+Borel hydro-monoplane	developedFrom	Morane-Borel monoplane
+Found FBA-2	developedFrom	Found FBA-1
+Found Centennial 100	developedFrom	Found FBA-2
+Fouga CM.88 Gemeaux	developedFrom	Fouga CM.8
+Gloster Nightjar	developedFrom	Nieuport Nighthawk
+Häfeli DH-3	developedFrom	Hafeli DH-2
+Yakovlev Yak-50	developedFrom	Yakovlev Yak-18
+Dayton-Wright Cabin Cruiser	developedFrom	De Havilland DH.4
+F+W C-3605	developedFrom	EKW C-36
+Eclipse 400	developedFrom	Eclipse 500
+Dayton-Wright XPS-1	developedFrom	Dayton-Wright Racer
+Dewoitine D.338	developedFrom	Dewoitine D.332
+Breda Ba.44	developedFrom	De Havilland DH.89
+Siemens-Schuckert D.I	developedFrom	Nieuport 17
+CAC Ceres	developedFrom	CAC Wirraway
+Briegleb BG-12	developedFrom	Briegleb BG-6
+Polikarpov R-Z	developedFrom	Polikarpov R-5
+Yeoman Cropmaster	developedFrom	Kingsford Smith Cropmaster
+Bristol Jupiter Fighter	developedFrom	Bristol F.2 Fighter
+Kingsford Smith Cropmaster	developedFrom	CAC Wackett
+M-ATF	developedFrom	Mikoyan Project LFI
+Vickers Venture	developedFrom	Vickers Vixen
+Stout Bushmaster 2000	developedFrom	Ford Trimotor
+Vickers Valparaiso	developedFrom	Vickers Vixen
+Camair Twin Navion	developedFrom	Ryan Navion
+Zenith STOL CH 801	developedFrom	Zenith STOL CH701
+Gloster Sparrowhawk	developedFrom	Nieuport Nighthawk
+Kayaba Ka-1	developedFrom	Kellett KD-1A
+Curtiss Model H	developedFrom	Curtiss Model F
+Mudry CAP 10	developedFrom	Piel Super Emeraude
+Hispano HA-200	developedFrom	Hispano HA-100
+Savoia-Marchetti SM.83	developedFrom	Savoia-Marchetti SM.79
+Savoia-Marchetti SM.95	developedFrom	Savoia-Marchetti SM.75
+Caproni Ca.313	developedFrom	Caproni Ca.310
+Mikoyan-Gurevich I-211	developedFrom	Mikoyan-Gurevich MiG-3
+Potez 62	developedFrom	Potez 54
+Enstrom 480	developedFrom	Enstrom 280
+Propulsion systems of the Savoia-Marchetti SM.81	developedFrom	Savoia-Marchetti S.73
+Mann Egerton Type B	developedFrom	Short Type 184
+Miles Hawk Major	developedFrom	Miles Hawk
+Miles M.2 Hawk Trainer	developedFrom	Miles Hawk Major
+MÁVAG Héja	developedFrom	Reggiane Re.2000
+Miles Merlin	developedFrom	Miles Falcon
+Miles Sparrowhawk	developedFrom	Miles Hawk
+Miles Nighthawk	developedFrom	Miles Falcon
+Douglas C-132	developedFrom	C-124 Globemaster II
+Supermarine S.5	developedFrom	Supermarine S.4
+Aeritalia F-104S Starfighter	developedFrom	Lockheed F-104 Starfighter
+Issoire APM 30 Lion	developedFrom	APM 20 Lionceau
+SOCATA ST 10	developedFrom	Socata Horizon
+Robinson R66	developedFrom	Robinson R44
+PAC Super Mushshak	developedFrom	MFI-17 Mushshak
+Naval Aircraft Factory PN	developedFrom	Felixstowe F5L
+Curtiss R3C	developedFrom	Curtiss R2C
+CSIST Chung Shyang II	developedFrom	Chung Shyang I
+KJ-200	developedFrom	Shaanxi Y-8
+Lockheed NF-104A	developedFrom	Lockheed F-104 Starfighter
+Pterodactyl Ascender	developedFrom	Manta Fledge IIB hang glider
+Aviation Industries of Iran AVA-202	developedFrom	Van's Aircraft RV-6A
+HESA Shahed 278	developedFrom	Bell 206
+HESA Shahed 278	developedFrom	Panha Shabaviz 2061
+Shaanxi Y-9	developedFrom	Shaanxi Y-8
+HAL FGFA	developedFrom	Sukhoi PAK FA
+Caproni Ca.316	developedFrom	Caproni Ca.310
+Guizhou JL-9	developedFrom	Chengdu J-7
+Guizhou JL-9	developedFrom	Trainer
+Beechcraft Lightning	developedFrom	Beechcraft Baron
+Chase YC-122 Avitruc	developedFrom	Chase CG-14
+Douglas XCG-17	developedFrom	Douglas C-47 Skytrain
+CAC Sabre	developedFrom	North American F-86 Sabre
+Dornier Do 28	developedFrom	Dornier Do 27
+Pützer Elster	developedFrom	Pützer Doppelraab
+Pützer Elster	developedFrom	Pützer Motorraab
+Curtiss T-32 Condor II	developedFrom	Curtiss B-2 Condor
+Harmon Mister America	developedFrom	Harmon Der Donnerschlag
+Curtiss Kingbird	developedFrom	Curtiss Thrush
+Boeing 737 Classic	developedFrom	Boeing 737
+Grumman XSBF	developedFrom	Grumman SF
+Vought XSB3U	developedFrom	SBU Corsair
+General Dynamics F-16 VISTA	developedFrom	General Dynamics F-16 Fighting Falcon
+Felixstowe Fury	developedFrom	Curtiss Model T
+Felixstowe Fury	developedFrom	Felixstowe F.5
+Dassault Balzac V	developedFrom	Dassault Mirage III
+ShinMaywa US-2	developedFrom	ShinMaywa US-1A
+Messerschmitt P.1112	developedFrom	Messerschmitt P.1110 and Messerschmitt P.1111
+Curtiss JN-6H	developedFrom	Curtiss JN-4
+Velie Monocoupe	developedFrom	Monocoupe Model 22
+Kawasaki P-2J	developedFrom	P-2 Neptune
+Robin DR400	developedFrom	Robin DR.200
+Robin HR100	developedFrom	Robin DR.200
+Piaggio P.149	developedFrom	Piaggio P.148
+Xian H-8	developedFrom	Xian H-6
+Miles Gemini	developedFrom	Miles Messenger
+DAR 9 Siniger	developedFrom	Focke-Wulf Fw 44 Stieglitz
+On Mark Marksman	developedFrom	Douglas A-26 Invader
+Sikorsky S-434	developedFrom	Schweizer S-333
+Fouga CM.175 Zéphyr	developedFrom	Fouga Magister
+Northrop Grumman KC-45	developedFrom	Airbus A330 MRTT
+Fiat G.212	developedFrom	Fiat G.12
+Lockheed Martin C-130J Super Hercules	developedFrom	Lockheed C-130 Hercules
+Falconar AMF-S14 Super Maranda	developedFrom	Adam RA-14 Loisirs
+Lockheed TriStar	developedFrom	Lockheed L-1011
+Supermarine Nanok	developedFrom	Supermarine Southampton
+Lake Buccaneer	developedFrom	Colonial Skimmer
+Hall PH	developedFrom	Naval Aircraft Factory PN
+Fournier RF-4	developedFrom	Fournier RF-3
+Macchi L.2	developedFrom	Macchi L.1
+Martin T3M	developedFrom	Curtiss CS
+Nardi FN.315	developedFrom	Nardi FN.305
+Nardi FN.316	developedFrom	Nardi FN.305
+Nord Pingouin	developedFrom	Messerschmitt Bf 108
+Nord Noralpha	developedFrom	Messerschmitt Bf 208
+Giles G-202	developedFrom	Giles G-200
+Royal Aircraft Factory R.E.7	developedFrom	Royal Aircraft Factory R.E.5
+Nakajima Ki-6	developedFrom	Fokker Super Universal
+SIAI-Marchetti SM.102	developedFrom	SIAI-Marchetti SM.101
+SIAI-Marchetti SM.1019	developedFrom	Cessna O-1 Bird Dog
+SIAI-Marchetti S.210	developedFrom	SIAI-Marchetti S.205
+Savoia-Marchetti S.66	developedFrom	Savoia-Marchetti S.55
+Sopwith Dragon	developedFrom	Sopwith Snipe
+Tupolev Tu-12	developedFrom	Tupolev Tu-2
+Martin T4M	developedFrom	Martin T3M
+Fokker Super Universal	developedFrom	Fokker Universal
+Cessna Citation V	developedFrom	Cessna Citation II
+Piasecki PA-97	developedFrom	N class blimp attached with 4 Sikorsky H-34Js
+Curtiss XBT2C	developedFrom	Curtiss XBTC
+Vickers Vampire	developedFrom	Vickers F.B.12
+Maule M-5	developedFrom	Maule M-4
+Gyrodyne RON Rotorcycle	developedFrom	Bendix Model 2C
+Gulfstream Peregrine 600	developedFrom	Gulfstream American Hustler
+Hanriot HD.2	developedFrom	Hanriot HD.1
+Schweizer SGM 2-37	developedFrom	Schweizer SGS 1-36 and 2–32
+Neiva Campeiro	developedFrom	CAP-4
+IAR-46	developedFrom	ICA IS-28
+Mikoyan MiG-33	developedFrom	MiG-29M
+PZL SM-2	developedFrom	Mil Mi-1
+MacCready Gossamer Penguin	developedFrom	Gossamer Albatross
+Sikorsky XH-39	developedFrom	Sikorsky S-52
+Lockheed Martin X-55	developedFrom	Fairchild Dornier 328JET
+Schweizer SGS 1-24	developedFrom	Schweizer SGS 1-23
+DRDO AEW&CS	developedFrom	Embraer ERJ 145
+Caesar's Chariot	developedFrom	Boeing 707
+RWD 21	developedFrom	RWD 16
+Loening PW-2	developedFrom	Loening M-8
+Vickers VIM	developedFrom	Royal Aircraft Factory F.E.2
+Boeing 737 Next Generation	developedFrom	Boeing 737 Classic
+Fuji T-7	developedFrom	Fuji T-3
+Skycraft Scout	developedFrom	Tweetie hang glider
+Handley Page Hendon	developedFrom	Handley Page Hanley
+Kamov Ka-126	developedFrom	Kamov Ka-26
+Schweizer RU-38 Twin Condor	developedFrom	Schweizer SGM 2-37
+LTV XQM-93	developedFrom	LTV L450F
+SNCASE Languedoc	developedFrom	Bloch MB.160
+American Aircraft Penetrator	developedFrom	Bell UH-1 Iroquois
+SPAD S.XII	developedFrom	Spad S.VII
+MX Aircraft MX2	developedFrom	Giles G-202
+Welch OW-5M	developedFrom	ACE Aircraft Falcon
+SNCAC Martinet	developedFrom	Siebel Si 204
+Alenia Aermacchi M-345	developedFrom	SIAI Marchetti S.211
+LVG C.II	developedFrom	LVG B.I
+Junkers J 2	developedFrom	Junkers J 1
+VMS Eve	developedFrom	White Knight One
+Eberhart F2G	developedFrom	Eberhart FG
+BAE Systems Ampersand	developedFrom	RotorSport UK MT-03
+Aviatik	developedFrom	Aviatik D.I
+Kawasaki YPX	developedFrom	Kawasaki P-1
+Allstar SZD-59	developedFrom	PZL Bielsko SZD-48
+Hummel Bird	developedFrom	Parker Teenie Two
+Avro 533 Manchester	developedFrom	Avro Pike
+Beardmore W.B.1a	developedFrom	Beardmore W.B.1
+Beardmore W.B.V	developedFrom	Beardmore W.B.IV
+Airco DH.9C	developedFrom	Airco DH.9
+Potez 32	developedFrom	Potez 29
+McDonnell Douglas AV-8B Harrier II	developedFrom	Hawker Siddeley Harrier
+Albatros B.III	developedFrom	Albatros B.II
+Jurca Sirocco	developedFrom	Jurca Tempete
+Besson MB.411	developedFrom	Besson MB.35
+Kawasaki KH-4	developedFrom	Bell 47
+Nardi FN.310	developedFrom	Nardi FN.305
+Lioré et Olivier LeO 20	developedFrom	Lioré et Olivier LeO 122
+Boeing AH-6	developedFrom	MD Helicopters MH-6 Little Bird
+Gloster Grouse	developedFrom	Gloster Sparrowhawk
+Morane-Saulnier MS.315	developedFrom	Morane-Saulnier MS.300
+Sikorsky S-36	developedFrom	Sikorsky S-34
+Morane-Saulnier I	developedFrom	Morane-Saulnier N
+Morane-Saulnier AF	developedFrom	Morane-Saulnier AC
+Shenyang J-16	developedFrom	Shenyang J-11
+Latécoère 32	developedFrom	Latécoère 23
+Xian MA600	developedFrom	Xian Y-7 and Xian MA60
+Southern Martlet	developedFrom	Avro Baby
+Tupolev ANT-16	developedFrom	Tupolev TB-3
+Letov Š-19	developedFrom	Letov Š-6
+Levasseur PL.15	developedFrom	Levasseur PL.14
+Carter PAV	developedFrom	CarterCopter
+Thomas-Morse MB-6	developedFrom	Thomas-Morse MB-3
+Thomas-Morse MB-7	developedFrom	Thomas-Morse MB-3
+Messerschmitt Bf 161	developedFrom	Messerschmitt Bf 110
+Hanriot HD.7	developedFrom	Hanriot HD.3
+Slingsby Tandem Tutor	developedFrom	Slingsby Kirby Tutor
+The Starship	developedFrom	Boeing 720
+Glasflügel 604	developedFrom	Glasflügel Kestrel 17
+Morane-Saulnier MS.43	developedFrom	Morane-Saulnier MS.42
+Lake Renegade	developedFrom	Lake Buccaneer
+Yakovlev Yak-53	developedFrom	Yak-52
+Lincoln-Page PT	developedFrom	Lincoln-Page LP-3
+Agusta EMA 124	developedFrom	Bell 47
+Martin S	developedFrom	Martin T
+Messerschmitt M 24	developedFrom	Messerschmitt M 18
+Messerschmitt M 24	developedFrom	Messerschmitt M 20
+Mitsubishi 2MB1	developedFrom	Mitsubishi B1M
+Xian MA700	developedFrom	Xian MA600
+Gloster II	developedFrom	Nieuport Nighthawk
+Ilyushin Il-46	developedFrom	Ilyushin Il-42
+Morane-Saulnier H	developedFrom	Morane-Saulnier G
+Lockheed XC-35	developedFrom	Lockheed Model 10 Electra
+Tupolev Tu-102	developedFrom	Tupolev Tu-101
+Slingsby Falke	developedFrom	Scheibe SF 25B
+Slingsby Skylark 2	developedFrom	Slingsby Skylark
+Focke-Wulf Fw 159	developedFrom	Focke-Wulf Fw 56
+PZL.49 Miś	developedFrom	PZL.37 Łoś
+Bell 47J Ranger	developedFrom	Bell 47
+Nieuport-Delage NiD 42	developedFrom	Nieuport-Delage Sesquiplan
+Port Victoria P.V.1	developedFrom	Sopwith Baby
+Mitsubishi H-60	developedFrom	Sikorsky SH-60 Seahawk
+Mitsubishi H-60	developedFrom	Sikorsky UH-60 Black Hawk
+PZL.56 Kania	developedFrom	PZL.50 Jastrząb
+PZL.55	developedFrom	PZL.26
+PZL.53 Jastrząb II	developedFrom	PZL.50 Jastrząb
+Lübeck-Travemünde F.2	developedFrom	Lübeck-Travemünde F.1
+Nash Petrel	developedFrom	Mitchell Kittiwake
+Sasin Spraymaster	developedFrom	De Havilland Canada DHC-1 Chipmunk
+Neiva B Monitor	developedFrom	Grunau Baby
+Spartan NP	developedFrom	Spartan C-3
+IAI Eitan	developedFrom	IAI Heron
+Cessna 308	developedFrom	Cessna O-1 Bird Dog
+BFW M.23	developedFrom	M.19
+BFW M.35	developedFrom	BFW M.23
+Avro 529	developedFrom	Avro Pike
+Ryan YQM-98	developedFrom	Ryan AQM-91 Firefly
+Gulfstream Peregrine	developedFrom	Gulfstream American Hustler
+Gulfstream Peregrine	developedFrom	Gulfstream American Peregrine
+Sikorsky S-10	developedFrom	Sikorsky S-6
+BFW M.27	developedFrom	BFW M.23
+Bell H-13 Sioux	developedFrom	Bell 47
+Northrop Delta	developedFrom	Northrop Gamma
+Potez IX	developedFrom	SEA IV
+Potez SEA VII	developedFrom	SEA IV
+Northrop XFT	developedFrom	Northrop Delta
+Zlín 22	developedFrom	Bücker Bü 181
+PWS-16	developedFrom	PWS-14
+Robin Aiglon	developedFrom	Robin HR100
+Kaman SH-2G Super Seasprite	developedFrom	Kaman SH-2 Seasprite
+Port Victoria Grain Griffin	developedFrom	Sopwith B.1
+Sablatnig N.I	developedFrom	Sablatnig C.I
+Viper Aircraft ViperJet	developedFrom	Viper Aircraft Viperfan
+IAI Harop	developedFrom	IAI Harpy
+Tugan Gannet	developedFrom	Cockatoo Dockyard Codock
+Varga 2150 Kachina	developedFrom	Morrisey Nifty
+Blackburn B-7	developedFrom	Blackburn Shark
+Blackburn Type I	developedFrom	Blackburn Type D
+Lockwood Aircam	developedFrom	Lockwood Drifter
+Blue Yonder EZ Flyer	developedFrom	Blue Yonder Merlin
+Blue Yonder Twin Engine EZ Flyer	developedFrom	Blue Yonder EZ Flyer
+Blue Yonder EZ Harvard	developedFrom	Blue Yonder EZ King Cobra
+Blue Yonder EZ King Cobra	developedFrom	Blue Yonder Merlin
+Savoia-Pomilio SP.2	developedFrom	Savoia-Pomilio SP.1
+Savoia-Pomilio SP.3	developedFrom	Savoia-Pomilio SP.1
+Savoia-Pomilio SP.4	developedFrom	Savoia-Pomilio SP.1
+Scintex Rubis	developedFrom	Scintex ML 145
+EADS Harfang	developedFrom	IAI Heron
+R23X-class airship	developedFrom	23
+Adam RA-15 Major	developedFrom	Adam RA-14 Loisirs
+Helios Prototype	developedFrom	NASA Pathfinder, Pathfinder Plus and NASA Centurion
+Stearman 4	developedFrom	Stearman C3
+Jabiru J430	developedFrom	Jabiru J230
+General Dynamics–Grumman F-111B	developedFrom	General Dynamics F-111 Aardvark
+SIA 9	developedFrom	SIA 7
+Technoavia SM-94	developedFrom	Yakovlev Yak-18T
+SPAD S.XIV	developedFrom	SPAD XII
+Boeing F-15SE Silent Eagle	developedFrom	F-15E Strike Eagle
+Avro 684	developedFrom	Avro Lancaster
+Stinson Junior	developedFrom	Stinson Detroiter
+Boeing Model 42	developedFrom	Airco DH.4
+Slingsby Primary	developedFrom	Lippisch Zögling
+Slingsby Falcon III	developedFrom	Slingsby Falcon
+Boeing Model 204	developedFrom	Boeing Model 6
+Slingsby Kite	developedFrom	Schneider Grunau Baby
+Slingsby Motor Tutor	developedFrom	Slingsby T.8 Kirby Tutor
+Slingsby Kirby Tutor	developedFrom	Slingsby T.7 Kirby Kadet and BAC VII
+American Eagle A-129	developedFrom	American Eagle A-101
+Tupolev Tu-324	developedFrom	Tupolev Tu-134
+USSR-1	developedFrom	Osoaviakhim-1
+General Atomics Avenger	developedFrom	MQ-9 Reaper
+Spencer Air Car	developedFrom	SL-12C amphibian, Republic Seabee
+Siddeley-Deasy R.T.1	developedFrom	Royal Aircraft Factory R.E.8
+Lavochkin La-152	developedFrom	Lavochkin La-150
+Boeing Model 81	developedFrom	Boeing Model 64
+United Consultants Twin Bee	developedFrom	Republic Seabee
+Lavochkin La-160	developedFrom	Lavochkin La-152
+AgustaWestland AW159 Wildcat	developedFrom	Westland Lynx
+Columbia XJL	developedFrom	Grumman J2F Duck
+Vickers Venom	developedFrom	Vickers Jockey
+Monocoupe 110 Special	developedFrom	Monocoupe 90
+Alekseyev I-212	developedFrom	Alekseyev I-21
+Vickers Type 170 Vanguard	developedFrom	Vickers Victoria
+Yakovlev Yak-5	developedFrom	Yakovlev UT-2
+Hiro H1H	developedFrom	Felixstowe F.5
+De Havilland DH.15	developedFrom	De Havilland DH.9A
+Fuji LM-1 Nikko	developedFrom	Beech T-34 Mentor
+HESA Shahed 285	developedFrom	Bell 206
+HESA Shahed 285	developedFrom	Panha Shabaviz 2061
+Mikoyan-Gurevich Ye-8	developedFrom	MiG-21
+Bisnovat SK-2	developedFrom	Bisnovat SK-1
+Zlokazov ARK-Z-1	developedFrom	Junkers PS-4
+OKB-1 EF 131	developedFrom	Junkers Ju 287
+Putilov Stal-3	developedFrom	Stal-2
+Waco N series	developedFrom	Waco C series
+Waco S series	developedFrom	Waco Standard Cabin series
+Rockwell Ranger 2000	developedFrom	RFB Fantrainer
+Cessna 526 CitationJet	developedFrom	Cessna CitationJet
+Issoire APM 40 Simba	developedFrom	APM 30 Lion
+NIAI P-3	developedFrom	NIAI LK-4
+Parnall 382	developedFrom	Parnall Heck
+Fieseler Fi 158	developedFrom	Fieseler Fi 157
+Chyeranovskii BICh-3	developedFrom	BICh-1
+Wright Model R	developedFrom	Wright Model B
+Chizhevski BOK-1	developedFrom	Tupolev RD
+CFA D.7 Cricri Major	developedFrom	Salmson Cricri
+Gotha G.VI	developedFrom	Gotha G.V
+AgustaWestland T129	developedFrom	Agusta A129 Mangusta
+Rans S-6 Coyote II	developedFrom	Rans S-5 Coyote
+Rans S-6 Coyote II	developedFrom	Rans S-4 Coyote
+AISA I-115	developedFrom	AISA I-11
+Akaflieg Stuttgart FS-25	developedFrom	Akaflieg Stuttgart FS-23 Hidalgo
+Hiro H2H	developedFrom	Supermarine Southampton
+Siemens-Schuckert R.II	developedFrom	Siemens-Schuckert R.I
+Siemens-Schuckert R.III	developedFrom	Siemens-Schuckert R.I
+Siemens-Schuckert R.VII	developedFrom	Siemens-Schuckert R.I
+Siemens-Schuckert R.IV	developedFrom	Siemens-Schuckert R.I
+Siemens-Schuckert R.V	developedFrom	Siemens-Schuckert R.I
+Siemens-Schuckert R.VI	developedFrom	Siemens-Schuckert R.I
+Horten H.VI	developedFrom	Horten H.IV
+Miles Merchantman	developedFrom	Miles Aerovan
+Anatra Anadis	developedFrom	Anatra Anasal
+SZD-7 Osa	developedFrom	IS-2 Mucha
+SZD-11 Albatros	developedFrom	SZD-8 Jaskółka
+SZD-12 Mucha 100	developedFrom	IS-2 Mucha
+SZD-13 Wampir	developedFrom	SZD-6X Nietoperz
+SZD-14x Jaskółka M	developedFrom	SZD-8 Jaskółka
+IS-B Komar	developedFrom	Kocjan Komar-bis
+SZD-15 Sroka	developedFrom	IS-B Komar
+SZD-17X Jaskółka L	developedFrom	PZL Bielsko SZD-14
+Handley Page H.P.51	developedFrom	Handley Page H.P.43
+Saab 340 AEW&C	developedFrom	Saab 340
+SZD-22 Mucha Standard	developedFrom	SZD-12 Mucha 100
+Vickers E.F.B.7	developedFrom	Flanders B.2
+Dätwyler Trailer	developedFrom	Piper PA-18 Super Cub
+Pipistrel Virus	developedFrom	Pipistrel Sinus
+Sopwith Atlantic	developedFrom	Sopwith B.1
+North American FJ-4 Fury	developedFrom	-3 Fury
+Sopwith Buffalo	developedFrom	Sopwith Bulldog
+Royal Aircraft Factory N.E.1	developedFrom	Royal Aircraft Factory F.E.9
+Royal Aircraft Factory A.E.3	developedFrom	Royal Aircraft Factory N.E.1
+Ilyushin Il-8	developedFrom	Ilyushin Il-2
+Tupolev Tu-82	developedFrom	Tupolev Tu-14
+SZD-28	developedFrom	SZD-9bis Bocian 1D
+SZD-35 Bekas	developedFrom	PZL Bielsko SZD-34
+KAI KUH-1 Surion	developedFrom	Eurocopter EC725
+SZD-41 Jantar Standard	developedFrom	SZD-38 Jantar 1
+ZSO 523	developedFrom	Messerschmitt Me 323
+Ilyushin Il-16	developedFrom	Ilyushin Il-10
+Scheibe Bergfalke	developedFrom	Akaflieg München Mü13
+3	developedFrom	PZL Bielsko SZD-41
+SZD-49 Jantar K	developedFrom	3
+SZD-40x Halny	developedFrom	PZL Bielsko SZD-19
+SZD-40x Halny	developedFrom	PZL Bielsko SZD-38
+Tupolev DB-1	developedFrom	Tupolev ANT-25
+Slingsby Falcon	developedFrom	Lippisch Falke
+Storm Century	developedFrom	Storm 300
+Avid Champion	developedFrom	Avid Mark IV
+Potez 662	developedFrom	Potez 661
+SZD-C Żuraw	developedFrom	DFS Kranich II
+W.W.S.2 Żaba	developedFrom	Wacław Czerwiński & Władysław Jaworski CWJ-bis Skaut
+W.W.S.3 Delfin	developedFrom	Wacław Czerwiński & Władysław Jaworski CWJ-bis Skaut
+Airdrome Dream Classic	developedFrom	Santos-Dumont Demoiselle
+Daimler L14	developedFrom	Daimler L11
+Airdrome Eindecker E-III	developedFrom	Fokker E.III
+Sopwith Antelope	developedFrom	Sopwith Wallaby
+Royal Aircraft Factory S.E.4a	developedFrom	Royal Aircraft Factory S.E.4
+R.A.E. – Vickers Transonic Research Rocket	developedFrom	Miles M.52
+Tupolev Tu-1	developedFrom	Tupolev Tu-2
+P&M GT450	developedFrom	Pegasus Quik
+Latécoère 5	developedFrom	Latécoère 4
+Chotia Gypsy	developedFrom	Chotia Woodhopper
+Fisher FP-202 Koala	developedFrom	Piper J-3
+Latécoère 23	developedFrom	Latécoère 21
+Tupolev Tu-8	developedFrom	Tupolev Tu-2
+Shenyang J-15	developedFrom	Sukhoi Su-33
+Shenyang J-15	developedFrom	Shenyang J-11
+Fisher Flyer	developedFrom	UFM Easy Riser
+Freebird I	developedFrom	Freebird II
+Bell D-292	developedFrom	Bell 222
+Yakovlev Yak-8	developedFrom	Yakovlev Yak-6
+Birdman Atlas	developedFrom	Eipper Quicksilver
+RAE Scarab	developedFrom	De Havilland Humming Bird
+Polikarpov VIT-2	developedFrom	Polikarpov VIT-1
+Team Mini-Max Hi-MAX	developedFrom	Mini-MAX
+Irbis-E	developedFrom	Bars radar
+Polikarpov SPB	developedFrom	Polikarpov VIT-2
+Caproni Campini Ca.183bis	developedFrom	Caproni Campini N.1
+Conroy Tri-Turbo-Three	developedFrom	Conroy Turbo Three
+Let L-33 Solo	developedFrom	LET L-23 Super Blaník
+Spectrum SA-550	developedFrom	Cessna Skymaster
+Brown B-3	developedFrom	Brown B-2
+Caudron C.510 Pélican	developedFrom	Caudron C.280
+Cierva C.40	developedFrom	Cierva C.30
+Vought YA-7F	developedFrom	A-7 Corsair II
+SNCAC NC.860	developedFrom	Nord NC.850
+Sikorsky XHJS	developedFrom	Sikorsky H-5
+Latécoère 440	developedFrom	Latécoère 28
+Douglas DC-8	developedFrom	Douglas XB-42 Mixmaster
+Victa Aircruiser	developedFrom	AESL Airtourer
+Dornier Do 635	developedFrom	Dornier Do 335
+Bede BD-2	developedFrom	Schweizer SGS 2-32
+Curtiss-Wright CW-3 Duckling	developedFrom	Curtiss-Wright Junior
+Aeromot AMT-200 Super Ximango	developedFrom	Aeromot AMT-100 Ximango
+General Dynamics F-111C	developedFrom	General Dynamics F-111 Aardvark
+Aeromot AMT-100 Ximango	developedFrom	Fournier RF-10
+Felixstowe F.1	developedFrom	Curtiss Model H
+Mississippi State University XV-11 Marvel	developedFrom	AZ-1 Marvelette
+Auster Tugmaster	developedFrom	Auster AOP.6
+RotorSport UK MT-03	developedFrom	AutoGyro MT-03
+Elbit Hermes 900	developedFrom	Elbit Hermes 450
+Caudron C.480 Frégate	developedFrom	Caudron C.280
+NASA 515	developedFrom	Boeing 737
+Aichi AB-3	developedFrom	Aichi AB-2
+Breguet 470	developedFrom	Breguet 460
+Slingsby Prefect	developedFrom	Grunau Baby
+Slingsby Kite 2	developedFrom	Slingsby Kite
+Slingsby Skylark 3	developedFrom	Slingsby Skylark 2
+Slingsby Skylark 4	developedFrom	Slingsby Skylark 3
+SATUMA Mukhbar	developedFrom	SATUMA Jasoos
+Martin Marietta X-24B	developedFrom	Martin Marietta X-24A
+Macchi M.67	developedFrom	Macchi M.39
+Scheibe Tandem-Falke	developedFrom	Akaflieg München Mü13
+Short S.41	developedFrom	Short S.36
+Bristol F.3A	developedFrom	Bristol T.T.A.
+SIAI-Marchetti S.700 Cormorano	developedFrom	Vulcanair Canguro
+Short S.45	developedFrom	Short S.36
+Sikorsky S-41	developedFrom	Sikorsky S-38
+Canadian Home Rotors Safari	developedFrom	Helicom H-1 Commuter Jr
+Zenair CH 100	developedFrom	Zenair CH 200
+British Aerospace Jetstream	developedFrom	Handley Page Jetstream
+Chase XC-123A	developedFrom	Chase XCG-20
+Bernard 15	developedFrom	Bernard SIMB AB 14
+Avicopter AC313	developedFrom	Harbin Z-8
+Sikorsky R-6	developedFrom	Sikorsky R-4
+Mississippi State University XAZ-1 Marvelette	developedFrom	Anderson Greenwood AG-14
+St. Louis YPT-15	developedFrom	St. Louis PT-1W
+Tupolev ANT-10	developedFrom	Tupolev R-3
+Fairchild AU-23 Peacemaker	developedFrom	Pilatus PC-6 Porter
+IMAM Ro.58	developedFrom	IMAM Ro.57
+TeST TST-13 Junior	developedFrom	TeST TST-9 Junior
+TeST TST-13 Junior	developedFrom	TeST TST-10 Atlas
+Project Sabre II	developedFrom	Chengdu J-7
+Sorrell Hiperlight	developedFrom	Sorrell Hiperbipe
+AAI Penetrator	developedFrom	Bell UH-1 Iroquois
+Bellanca J-300	developedFrom	Bellanca J
+Hy-Tek Hurricane 103	developedFrom	Phantom X1
+Fairchild M-84	developedFrom	Fairchild PT-19
+Dunne D.8	developedFrom	Dunne D.5
+Curtiss C-1 Canada	developedFrom	Curtiss Model H
+Lockheed C-69 Constellation	developedFrom	L-049 Constellation
+Kolb Firefly	developedFrom	Kolb Firestar
+Yokosuka D3Y	developedFrom	Aichi D3A
+Boeing Phantom Ray	developedFrom	Boeing X-45
+Avro Canada CF-103	developedFrom	Avro Canada CF-100
+Tupolev ANT-37	developedFrom	Tupolev DB-1
+Tupolev ANT-21	developedFrom	Tupolev ANT-7
+Kolb Kolbra	developedFrom	Kolb Firefly
+Kolb Kolbra	developedFrom	Kolb Slingshot
+Fokker D.IX	developedFrom	Fokker D.VII
+Aichi AB-6	developedFrom	Heinkel He 62
+Convair Model 118	developedFrom	Convair Model 116
+Kolb Ultrastar	developedFrom	Kolb Flyer
+Zeppelin-Staaken R.XV	developedFrom	Zeppelin-Staaken R.XIV
+Wagner Aerocar	developedFrom	HTM Skytrac
+Mikoyan-Gurevich I-75	developedFrom	Mikoyan-Gurevich I-7
+Focke-Achgelis Fa 225	developedFrom	DFS 230
+Blohm & Voss P 212	developedFrom	Blohm & Voss P 208
+Dornier Do 29	developedFrom	Dornier Do 27
+LTV L450F	developedFrom	Schweizer SGS 2-32
+EADS HC-144 Ocean Sentry	developedFrom	IPTN CN-235
+AmeriPlanes Mitchell Wing A-10	developedFrom	Mitchell Wing B-10
+Schneider Grunau 9	developedFrom	Djävlar Anamma
+Dornier S-Ray 007	developedFrom	Dornier Libelle
+Dyn'Aéro MCR01	developedFrom	Colomban MC-100
+SAGEM Patroller	developedFrom	Stemme ASP S15
+Davis DA-6	developedFrom	Davis DA-2
+Sikorsky Firefly	developedFrom	Sikorsky S-300
+Marinens Flyvebaatfabrikk M.F.2	developedFrom	Marinens Flyvebaatfabrikk M.F.1
+Fairchild BQ-3	developedFrom	Fairchild AT-21 Gunner
+Zenair CH 150	developedFrom	Zenair CH 100
+Raj Hamsa X-Air %22H%22 Hanuman	developedFrom	X-AIR 'F' Gumnam
+Wag-Aero CUBy	developedFrom	Piper J-3
+Wag-Aero Wag-a-Bond	developedFrom	Piper Vagabond
+Wag-Aero CHUBy CUBy	developedFrom	Wag-Aero Wag-a-Bond
+Auster J family	developedFrom	Taylorcraft Auster
+Stout 3-AT	developedFrom	Stout 2-AT
+Stout 2-AT Pullman	developedFrom	Stout 1-AS Air Sedan
+Eurocopter X3	developedFrom	Eurocopter EC155
+Lockheed Martin KC-130	developedFrom	Lockheed C-130 Hercules
+Lockheed Martin KC-130	developedFrom	Lockheed Martin C-130J Super Hercules
+Stolp Starduster Too	developedFrom	Stolp Starduster
+Plane Driven PD-1	developedFrom	Glasair Sportsman 2+2
+Wright Model D	developedFrom	Wright Model C
+Wittman Big X	developedFrom	Wittman Buttercup
+Bombardier Global 7000	developedFrom	Bombardier Global Express
+Hawker 200	developedFrom	Beechcraft Premier I
+American Aerolights Double Eagle	developedFrom	American Aerolights Eagle
+Sikorsky S-97 Raider	developedFrom	Sikorsky X2
+Ekin Airbuggy	developedFrom	McCandless M-4 Gyroplane
+Horten H.III	developedFrom	Horten H.II
+Heli-Sport CH-7	developedFrom	Cicare Helicopters CH-6
+Stolp Acroduster Too	developedFrom	Stolp Acroduster I
+Glasair Sportsman 2+2	developedFrom	Glasair GlaStar
+Vought Model 1600	developedFrom	General Dynamics F-16 Fighting Falcon
+BAE Systems Nimrod MRA4	developedFrom	Hawker Siddeley Nimrod
+Stits-Besler Executive	developedFrom	Stits Playboy
+Pop's Props Pinocchio	developedFrom	Fokker Eindecker
+Fokker PW-5	developedFrom	Fokker D.VIII
+Pop's Props Zing	developedFrom	Pop's Props Cloudster
+Dyn'Aéro MCR4S	developedFrom	Dyn'Aéro MCR01
+Rans S-7 Courier	developedFrom	Rans S-5 Coyote
+Rans S-7 Courier	developedFrom	Rans S-4 Coyote
+FFT Eurotrainer 2000	developedFrom	FFA AS-202 Bravo
+Rans S-10 Sakota	developedFrom	Rans S-9 Chaos
+Focke-Wulf GL 18	developedFrom	Focke-Wulf A 16
+Yakovlev Yak-10	developedFrom	Yakovlev AIR-6
+Stampe et Vertongen RSV.26	developedFrom	Stampe et Vertongen RSV.32
+SAB AB-20	developedFrom	Dyle et Bacalan DB-70
+Fiat G.91Y	developedFrom	Fiat G.91
+RagWing RW4 Midwing Sport	developedFrom	RagWing RW1 Ultra-Piet
+IAR-13	developedFrom	IAR 12
+IAR-12	developedFrom	IAR 11
+RagWing RW7 Duster	developedFrom	RagWing RW4 Midwing Sport
+Indonesian Aerospace N-219	developedFrom	CASA C-212 Aviocar
+Bernard 82	developedFrom	Bernard 80 GR
+Abrial A-260	developedFrom	Caudron C.260
+Spartan 12W Executive	developedFrom	Spartan Executive
+Universal American Flea Ship	developedFrom	Mignet Pou-du-Ciel
+Supermarine 545	developedFrom	Supermarine Swift
+RagWing RW22 Tiger Moth	developedFrom	De Havilland Tiger Moth
+NSRDC BQM-108	developedFrom	BQM-74 Chukar
+Rocky Mountain Wings Ridge Runner	developedFrom	Denney Kitfox
+Stearman C2	developedFrom	Stearman C1
+Vought XSO2U	developedFrom	OS2U Kingfisher
+Mikoyan-Gurevich Ye-150 family	developedFrom	Mikoyan-Gurevich I-75
+Scheibe SF-27	developedFrom	Scheibe Zugvogel
+Flying K Sky Raider	developedFrom	Denney Kitfox
+Carlson Criquet	developedFrom	Fieseler Fi 156
+Carlson Skycycle	developedFrom	Piper PA-8 Skycycle
+Tapanee Levitation 4	developedFrom	Tapanee Pegazair-100
+CubCrafters CC11-160 Carbon Cub SS	developedFrom	CubCrafters CC11-100 Sport Cub S2
+CubCrafters CC11-160 Carbon Cub SS	developedFrom	Piper Cub
+Sport Flight Talon	developedFrom	Maxair Drifter
+Thomas-Morse MB-4	developedFrom	Thomas-Morse MB-3
+Sonex Aircraft Onex	developedFrom	Sonex Aircraft Sonex
+Albatros C.IV	developedFrom	Albatros C.III
+Titan Tornado	developedFrom	Earthstar Thunder Gull J
+TL Ultralight Condor	developedFrom	Rans S-6 Coyote II
+Precision Tech Fergy	developedFrom	Kolb Mark III
+Buzzman L'il Buzzard	developedFrom	Anglin J6 Karatoo
+Anatra DE	developedFrom	Anatra D
+Arnet Pereyra Sabre II	developedFrom	Advanced Aeromarine Buccaneer
+Aeroprakt A-26 Vulcan	developedFrom	Aeroprakt A-20
+Swift S-1	developedFrom	SZD-21 Kobuz
+Green Sky Adventures Micro Mong	developedFrom	Mong MS1 Sport
+Boeing C-137 Stratoliner	developedFrom	Boeing 707
+Hughes XF-11	developedFrom	Hughes D-2
+AVE Mizar	developedFrom	Ford Pinto
+AVE Mizar	developedFrom	Cessna 337
+Mikoyan MiG-35	developedFrom	Mikoyan MiG-29M
+Douglas DC-2	developedFrom	Douglas DC-1
+M-Squared Breese	developedFrom	Eipper Quicksilver
+Raj Hamsa X-Air	developedFrom	Chotia Weedhopper
+Curtiss Model 41 Lark	developedFrom	Curtiss Carrier Pigeon
+Rohrbach Ro IV	developedFrom	Rohrbach Ro III
+Waco E series	developedFrom	Waco C series
+Boeing KC-46 Pegasus	developedFrom	Boeing KC-767
+Solar MS-1	developedFrom	Prudden SE-1
+Spartan C5	developedFrom	Spartan C4
+Sopwith Swallow	developedFrom	Sopwith Camel
+Spartan 8W Zeus	developedFrom	Spartan Executive
+Bowlus BS-100 Super Albatross	developedFrom	Bowlus BA-100 Baby Albatross
+Brown B-2 Racer	developedFrom	Brown B-1 Racer
+Curtiss Model K	developedFrom	Curtiss Model F
+Spitfire Mark I	developedFrom	Enstrom F-28
+Rex Smith Biplane	developedFrom	Curtiss Pusher
+Ross RH-3	developedFrom	Ross R-2
+Ross R-2 Ibis	developedFrom	Ross RS-1 Zanonia
+Spitfire Mark II Tigershark	developedFrom	Enstrom F-28
+Spitfire Mark II Tigershark	developedFrom	Spitfire Mark I
+Fournier RF7	developedFrom	Fournier RF-4
+Nelson Dragonfly	developedFrom	Bowlus BA-100 Baby Albatross
+Sportavia-Pützer RS 180 Sportsman	developedFrom	Fournier RF-6
+Sportavia-Pützer SFS 31 Milan	developedFrom	Fournier RF-4
+Sportavia-Pützer SFS 31 Milan	developedFrom	Scheibe SF-27
+Mitsubishi F-15J	developedFrom	McDonnell Douglas F-15 Eagle
+Tecnam MMA	developedFrom	Tecnam P2006T
+Marske Pioneer	developedFrom	Marske XM-1
+Leonard Annebula	developedFrom	Hall Cherokee II
+Roko Aero NG4	developedFrom	CZAW SportCruiser
+Brock KB-2	developedFrom	Brock KB-1 Gyroplane
+Boeing 720	developedFrom	Boeing 707
+Briegleb BG-7	developedFrom	Briegleb BG-6
+Church Midwing JC-1	developedFrom	Heath Parasol
+Townsend Thunderbird	developedFrom	BT-13
+Schreder Airmate HP-8	developedFrom	Schreder HP-7
+Bikle T-6	developedFrom	Schreder HP-14
+Marrone VM-1	developedFrom	J-3 Cub
+Schreder HP-13	developedFrom	Schreder HP-11
+Schreder HP-16	developedFrom	HP-15
+Pietenpol Sky Scout	developedFrom	Pietenpol Air Camper
+Cessna CR-3	developedFrom	Cessna CR-2
+Flight Design C4	developedFrom	Flight Design CTSW
+Tupolev Tu-142	developedFrom	Tupolev Tu-95
+Stevens SU-1	developedFrom	Franklin PS-2
+Flight Design MC	developedFrom	Flight Design CTSW
+Omega BS-12	developedFrom	Sznycer SG-VI-E
+Nobel BN-1 Phantom	developedFrom	Laister-Kauffman TG-4
+Kasper Bekas	developedFrom	Brochocki BKB-1
+Temco 58	developedFrom	Temco Model 33 Plebe
+Grumman F11F-1F Super Tiger	developedFrom	Grumman F-11 Tiger
+Cadet UT-1	developedFrom	Slingsby Kirby Cadet
+Mitsubishi MC-1	developedFrom	Mitsubishi B1M
+Zeppelin-Lindau Rs.III	developedFrom	Zeppelin-Lindau Rs.II
+List of Harrier variants	developedFrom	Hawker P.1127
+British Aerospace Nimrod AEW3	developedFrom	Hawker Siddeley Nimrod
+Gehrlein Precursor	developedFrom	Schweizer 1-26 and 1-23
+DFS SG 38 Schulgleiter	developedFrom	Stamer Lippisch Zögling
+Slingsby Kestrel	developedFrom	Glasflügel 401
+Convair NB-36H	developedFrom	Convair B-36
+Kennedy K-W	developedFrom	Aeronca Chief
+Kohler Alpha	developedFrom	Schreder Airmate HP-11
+Oldershaw O-3	developedFrom	Oldershaw O-2
+Antonov An-50	developedFrom	Antonov An-24
+Folkerts SK-3	developedFrom	Folkerts SK-2
+Gee Bee Q.E.D.	developedFrom	Gee Bee R-5
+Prue IIA	developedFrom	Prue Two
+E-Genius	developedFrom	Icaré II
+Prue Super Standard	developedFrom	Prue Standard
+Dudek V-1 Sportplane	developedFrom	Taylor J-2
+Culver Rigid Midget	developedFrom	Culver Screaming Wiener
+Crown City Glider Club Screaming Wiener	developedFrom	Culver Dingbat
+Schweizer SA 1-30	developedFrom	Schweizer SGS 1-26
+AgustaWestland AW189	developedFrom	AgustaWestland AW149
+Seversky A8V	developedFrom	Seversky P-35
+Northrop Grumman X-47C	developedFrom	Northrop Grumman X-47A Pegasus
+Northrop Grumman X-47C	developedFrom	Northrop Grumman X-47B
+Whigham GW-2	developedFrom	Whigham GW-1
+Whigham GW-3	developedFrom	Whigham GW-2
+Zauner OZ-5 One-Yankee	developedFrom	Schreder RS-15
+Yakovlev AIR-3	developedFrom	Yakovlev AIR-2
+GippsAero GA10	developedFrom	Gippsland GA8
+Ilyushin DB-4	developedFrom	Ilyushin DB-3
+Glasflügel 205 Club Libelle	developedFrom	Glasflügel H201
+XtremeAir Sbach 342	developedFrom	XtremeAir Sbach 300
+Vogt Lo-150	developedFrom	Vogt Lo-100
+Dyn'Aéro Twin-R	developedFrom	Dyn'Aéro MCR4S
+Gulfstream G280	developedFrom	Gulfstream G200
+Schleicher K7	developedFrom	Schleicher Ka-2
+Vought V-141	developedFrom	Northrop XFT
+Schleicher ASK 14	developedFrom	Schleicher Ka 6E
+RotorSport UK Calidus	developedFrom	AutoGyro Calidus
+Haufe Buzzer 2	developedFrom	Haufe Ha-S-2 Buzzer
+Rogožarski R-100	developedFrom	Rogožarski PVT
+Dart Cambridge	developedFrom	Grunau Baby
+Scheibe SF-24 Motorspatz	developedFrom	Scheibe Spatz
+Brumby 600	developedFrom	Goair Trainer
+Lockheed L-1049 Super Constellation	developedFrom	Lockheed L-049 Constellation
+Rogožarski SIM-XI	developedFrom	Rogožarski SIM-X
+NASA Centurion	developedFrom	NASA Pathfinder
+Rogožarski SIM-VIII	developedFrom	Rogožarski SIM-II
+Pottier P.220S Koala	developedFrom	Pottier P210S Coati
+Hispano-Suiza E-34	developedFrom	Hispano-Suiza E-30
+Temco Model 33 Plebe	developedFrom	Temco T-35 Buckaroo
+Marquart MA-5 Charger	developedFrom	Marquart MA-4
+TeST TST-14J BonusJet	developedFrom	TeST TST-14 Bonus
+Masak Scimitar	developedFrom	Schempp-Hirth Ventus
+SZD-51 Junior	developedFrom	SZD-47
+Cyclone AX2000	developedFrom	Cyclone AX3
+Tupolev ANT-29	developedFrom	Tupolev ANT-21
+Sequoia 300 Sequoia	developedFrom	Sequoia Falco
+Boeing 737 MAX	developedFrom	Boeing 737 Next Generation
+US Aviation Cumulus	developedFrom	US Aviation Cloud Dancer
+Mitsubishi RP-1	developedFrom	Sikorsky S-76
+Lockheed L-049 Constellation	developedFrom	Lockheed Excalibur
+Air Est Goeland	developedFrom	Scheibe Spatz
+Lockheed L-649 Constellation	developedFrom	L-049 Constellation
+Lockheed L-749 Constellation	developedFrom	L-649 Constellation
+Arup S-4	developedFrom	Arup S-3
+Air Est JCD 03 Pelican	developedFrom	Fauvel AV.36
+Wassmer WA-30 Bijave	developedFrom	Wassmer WA-21 Javelot
+Militi M.B.2 Leonardo	developedFrom	Militi M.B.1
+Renegade Falcon LS	developedFrom	Corvus Phantom
+Richard 150 Commuter	developedFrom	Richard 125 Commuter
+TeST TST-7 Junior	developedFrom	TeST TST-1 Alpin
+TeST TST-9 Junior	developedFrom	TeST TST-7 Junior
+Yakovlev AIR-6	developedFrom	Yakovlev AIR-5
+FFV Aerotech BA-14 Starling	developedFrom	MFI BA-12 Sländan
+Aeroprakt A-36 Vulcan	developedFrom	Aeroprakt A-26 Vulcan
+Lucas L-6A	developedFrom	Lucas L6
+Bailey-Moyes Tempest	developedFrom	Advanced Aeromarine Sierra
+Stoddard-Hamilton T-9 Stalker	developedFrom	Stoddard-Hamilton Glasair III
+Bernard H 110	developedFrom	Bernard H.52
+Volmer VJ-24W SunFun	developedFrom	Volmer VJ-23 Swingwing
+Ikarus MM-2	developedFrom	Zmaj Fizir FN
+Avro Atlantic	developedFrom	Avro Vulcan
+MSW Votec 322	developedFrom	Rihn DR-107 One Design
+Aviastroitel AC-5M	developedFrom	Aviastroitel AC-4 Russia
+Weatherly 620	developedFrom	Weatherly 201
+Aviastroitel AC-7	developedFrom	Aviastroitel AC-7M
+Eclipse 550	developedFrom	Eclipse 500
+Sack AS-6	developedFrom	Sack AS-5
+Sandlin Goat	developedFrom	Sandlin Bug
+Marinens Flyvebaatfabrikk M.F.4	developedFrom	Marinens Flyvebaatfabrikk M.F.1
+Sonex Electric Sport Aircraft	developedFrom	Sonex Aircraft Xenos
+Oskbes Aviatika Mai 920	developedFrom	Oskbes Aviatika MAI 890
+Belite Aircraft Superlite	developedFrom	Denney Kitfox
+Aerotique Parasol	developedFrom	Heath Parasol
+Ultralight Engineering Astra	developedFrom	Eipper Quicksilver
+General Dynamics RB-57F Canberra	developedFrom	Martin B-57 Canberra
+Martin RB-57D Canberra	developedFrom	Martin B-57 Canberra
+Aeromarine AM-1	developedFrom	Aeromarine AMC
+Hummel H5	developedFrom	Hummel Ultracruiser Plus
+Daimler G.I	developedFrom	Union G.I
+Towle TA-3	developedFrom	Towle TA-2
+Towle TA-2	developedFrom	Towle WC
+Seahawk Condor	developedFrom	Eipper Quicksilver
+Hovey Delta Bird	developedFrom	Hovey Whing Ding II
+Firestone XR-14	developedFrom	Firestone XR-9
+Delta Sailplane Nomad	developedFrom	Volmer VJ-24W SunFun
+Carr Special	developedFrom	Travel Air 2000
+Howland H-3 Pegasus	developedFrom	Howland H-2 Honey Bee
+Advanced Aviation Husky	developedFrom	Eipper Quicksilver
+Blue Yonder EZ Fun Flyer	developedFrom	Ultraflight Lazair
+Striplin Lone Ranger	developedFrom	Striplin F.L.A.C.
+Warren CP-2	developedFrom	Arrow Sport
+Convair Model 58-9	developedFrom	Convair B-58 Hustler
+Ultralight Flight Mirage	developedFrom	Aerodyne Systems Vector
+Ultralight Flight Mirage	developedFrom	Hill Humbug
+P.Z.L. P.8	developedFrom	P.Z.L. P.1
+Lincoln Standard L.S.5	developedFrom	Standard J
+Supermarine 525	developedFrom	Supermarine 508
+Golden Gate Mosquito	developedFrom	Phantom X1
+Murphy Elite	developedFrom	Murphy Rebel
+Arup S-2	developedFrom	Arup S-1
+Arup S-3	developedFrom	Arup S-2
+Bell Sidewinder	developedFrom	Phantom X1
+Worldwide Ultralite Spitfire	developedFrom	Bell Sidewinder
+Worldwide Ultralite Spitfire	developedFrom	Phantom X1
+Zenair CH 640	developedFrom	AMD Alarus
+Skye Treck Skyseeker	developedFrom	A
+Eastern Ultralights Snoop	developedFrom	Eipper Quicksilver
+Team Rocket F1 Rocket	developedFrom	Van's Aircraft RV-4
+MacFam Cavalier	developedFrom	CAB Minicab
+AeroAndina MXP-1000 Tayrona	developedFrom	Aeroandinas MXP-800 Fantasy
+Monnett Mini	developedFrom	Parker Jeanie's Teenie
+EDRA Aeronautica Super Pétrel	developedFrom	EDRA Aeronautica Paturi
+Nakajima L2D	developedFrom	Douglas DC-3
+Hanson Woodwind	developedFrom	Wittman Tailwind
+Paramount Cabinaire	developedFrom	Travel Air 2000
+Aerodyne Systems Vector	developedFrom	Hill Humbug
+Ultralite Soaring Wizard	developedFrom	Eipper Quicksilver E
+Wright Model HS	developedFrom	Wright Model H
+Chotia Woodhopper	developedFrom	Chotia Weedhopper
+Cosmos Phase II	developedFrom	Cosmos Bison
+Airborne XT	developedFrom	Airborne Outback
+Sage Type 4	developedFrom	Sage Type 3
+Mainair Rapier	developedFrom	Mainair Blade
+Pegasus Quik	developedFrom	Pegasus Quantum
+Fairchild 228	developedFrom	Fokker F28 Fellowship
+Nord 260	developedFrom	Max Holste MH.250 Super Broussard
+O'Neill Aristocraft II	developedFrom	Waco Aristocraft
+O'Neill Magnum	developedFrom	O'Neill Aristocraft II
+Weiss WM-21 Sólyom	developedFrom	Weiss WM-16 Budapest
+Hongdu Yakovlev CJ-7	developedFrom	Yak-152
+Solo Wings Aquilla	developedFrom	Solo Wings Windlass
+Ion Aircraft Ion	developedFrom	DreamWings Valkyrie
+Harbin Z-19	developedFrom	Harbin Z-9
+Aeros-2	developedFrom	Aeros-1
+Avian Cheetah	developedFrom	Avian Java
+Kaminskas Jungster II	developedFrom	Kaminskas Jungster I
+Bautek Spice	developedFrom	Bautek Twister
+Akaflieg Darmstadt D-39	developedFrom	Akaflieg Darmstadt D-38
+Helite Tsunami	developedFrom	La Mouette Top Secret
+Barrows Bearhawk Patrol	developedFrom	Barrows Bearhawk
+Aeromarine EO	developedFrom	Aeromarine AMC
+Crosby CR-4	developedFrom	Crosby CR-3
+Para-Ski VX	developedFrom	Para-Ski XS
+Diamond DA62	developedFrom	Diamond DA50
+Grob G 120TP	developedFrom	Grob G-120
+Aeronca Chief family	developedFrom	Aeronca C
+Timm Aerocraft 2AS	developedFrom	Kinner Sportwing
+Paraborne Backplane	developedFrom	Daiichi Kosho Whisper
+Cycloplane C-1	developedFrom	Wheeler Cycloplane A-1
+Brock KB-3	developedFrom	Brock KB-2
+AeroAndina MXP-158 Embera	developedFrom	AeroAndina MXP-150 Kimbaya
+Bréguet Br 904 Nymphale	developedFrom	Bréguet Br 901 Mouette
+Airo 1	developedFrom	Euro Ala JetFox
+Airsport Sonet	developedFrom	Airsport Sonata
+Alisport Yuma	developedFrom	Zenith STOL CH 701
+Alpi Pioneer 300	developedFrom	Giuseppe Asso 5
+Apollo Fox	developedFrom	Denney Kitfox
+ATEC 321 Faeta	developedFrom	ATEC 122 Zephyr 2000
+Aurore MB 02-2 Mini Bulle	developedFrom	Aurore MB 02 Souricette
+Ciani Uribel	developedFrom	56 Urendo
+Australian Lightwing SP-4000 Speed	developedFrom	Australian Lightwing SP-2000 Speed
+Best Off Nynja	developedFrom	Best Off Skyranger
+Blackshape Prime	developedFrom	Millennium Master
+75	developedFrom	Bombardier Learjet 40 and Bombardier Learjet 45
+BRM Land Africa	developedFrom	Zenith STOL CH 701
+Celier XeWing	developedFrom	Celier Xenon 2
+Bushcaddy R-120	developedFrom	Bushcaddy R-80
+Bushcaddy L-160	developedFrom	Bushcaddy R-120
+Bushcaddy L-162 Max	developedFrom	Bushcaddy L-160
+Bushcaddy L-164	developedFrom	Bushcaddy L-162 Max
+Colyaer Freedom S100	developedFrom	Colyaer Martin3 S100
+Colyaer Gannet S100	developedFrom	Colyaer Martin3 S100
+Starck AS-27 Starcky	developedFrom	Starck AS-20
+Ikarus C52	developedFrom	Ikarus C42
+Port Victoria P.V.5	developedFrom	Port Victoria P.V.2
+Escapade Kid	developedFrom	Flying K Sky Raider
+Cody Circuit of Britain biplane	developedFrom	Cody Michelin Cup biplane
+Ekolot KR-030 Topaz	developedFrom	Ekolot JK-05L Junior
+Electric Aircraft Corporation ElectraFlyer-C	developedFrom	Electric Aircraft Corporation ElectraFlyer Trike and Monnett Moni
+University of Maryland Gamera II human-powered helicopter	developedFrom	University of Maryland Gamera Human Powered Helicopter
+Electric Aircraft Corporation ElectraFlyer-X	developedFrom	Electric Aircraft Corporation ElectraFlyer-C
+VanGrunsven RV-1	developedFrom	Stits Playboy
+Trident TR-1 Trigull	developedFrom	Republic RC-3 Seabee
+Velocity V-Twin	developedFrom	Velocity XL
+Flylab Tucano	developedFrom	Chotia Weedhopper
+FMP Qualt 201	developedFrom	FMP Qualt 200
+Volocopter	developedFrom	E-volo VC1
+G1 Aviation G1	developedFrom	Alisport Yuma
+Gobosh 800XP	developedFrom	Aveko VL-3 Sprint
+Akaflieg Braunschweig SB-7 Nimbus	developedFrom	Akaflieg Braunschweig SB-6 Nixope
+Akaflieg Braunschweig SB-8	developedFrom	Akaflieg Braunschweig SB-7 Nimbus
+Verville-Packard R-1 Racer	developedFrom	Verville VCP
+Jabiru J170	developedFrom	Jabiru J160
+Super 18 Model S18-180	developedFrom	Piper PA-18
+Kubicek M-2 Scout	developedFrom	Mráz Skaut
+Temco D-16	developedFrom	Ryan Navion
+Van's Aircraft RV-14	developedFrom	Van's Aircraft RV-10
+Jabiru J230	developedFrom	Jabiru J430
+Jabiru J250	developedFrom	Jabiru J230
+Lanitz Escapade Two	developedFrom	Just Escapade
+LTD LO-120S	developedFrom	LO 120 S
+Marawing 1-L Malamut	developedFrom	Piper J-3 Cub
+HAL Rudra	developedFrom	HAL Dhruv
+Boeing Insitu RQ-21 Blackjack	developedFrom	Boeing Insitu ScanEagle
+Conroy Virtus	developedFrom	Boeing B-52 Stratofortress
+Tri-R KIS TR-4 Crusier	developedFrom	Tri-R KIS TR-1
+Raceair Lil Bitts	developedFrom	Green Sky Adventures Micro Mong
+Peak Aerospace Me 109	developedFrom	Messerschmitt Bf 109
+Podesva Trener	developedFrom	Zlin 126
+Pro.Mecc Freccia Anemo	developedFrom	Pro.Mecc Sparviero
+MSW Votec 252T	developedFrom	MSW Votec 322
+Steere Bodacious	developedFrom	Milholland Legal Eagle
+Rainbow Skyreach Cheetah	developedFrom	Rainbow Aircraft Cheetah
+AutoGyro Cavalon	developedFrom	AutoGyro Calidus
+Bohannon B-1	developedFrom	Van's RV-4
+Norman Aviation J6 Karatoo	developedFrom	Anglin J6 Karatoo
+Norman Aviation Nordic VII	developedFrom	Norman Aviation Nordic VI
+Norman Aviation Nordic II	developedFrom	Norman Aviation Nordic I
+SZD-42 Jantar 2	developedFrom	SZD-38 Jantar 1
+Rainbow Cheetah	developedFrom	Best Off Skyranger
+Fairey Gannet AEW.3	developedFrom	Fairey Gannet
+Roland Me 109 Replica	developedFrom	Messerschmitt Bf 109
+Garrison Melmoth 2	developedFrom	Garrison Melmoth
+Garrison Melmoth	developedFrom	Practavia Sprite
+Slepcev Storch	developedFrom	Fieseler Fi 156
+Bally B-17	developedFrom	Boeing B-17
+Ultra-Leicht Flugtechnik Speedy Mouse	developedFrom	FMP Qualt 200
+Vol Xerpa ULM Pulsar	developedFrom	Kolb Firestar II
+Weller ULI NG	developedFrom	Egon Scheibe Uli 1
+Airdale Backcountry	developedFrom	Avid Mk IV
+APEV Pouchel Classic	developedFrom	Dalby Pouchel
+APEV Pouchel Light	developedFrom	APEV Pouchel II
+APEV Pouchelec	developedFrom	APEV Pouchel Light
+APEV Pouchel II	developedFrom	APEV Pouchel
+APEV Scoutchel	developedFrom	APEV Demoichelle
+Airdrome Fokker DR-1	developedFrom	Fokker Dr.I
+Airdrome Nieuport 24	developedFrom	Nieuport 24
+Airdrome Fokker D-VI	developedFrom	Fokker D.VI
+Airdrome Fokker D-VII	developedFrom	Fokker D.VII
+Airdrome Fokker D-VIII	developedFrom	Fokker D.VIII
+Airdrome Morane Saulnier L	developedFrom	Morane-Saulnier L
+Airdrome Nieuport 11	developedFrom	Nieuport 11
+Airdrome Nieuport 17	developedFrom	Nieuport 17
+Airdrome Nieuport 28	developedFrom	Nieuport 28
+Airdrome Sopwith Baby	developedFrom	Sopwith Baby
+Airdrome Sopwith Camel	developedFrom	Sopwith Camel
+Airdrome Sopwith Pup	developedFrom	Sopwith Pup
+Airdrome Taube	developedFrom	Etrich Taube
+Airdrome Dream Fantasy Twin	developedFrom	Airdrome Dream Classic
+Airdrome Bleriot Model XI	developedFrom	Blériot XI
+Airdrome DeHavilland DH-2	developedFrom	Airco DH.2
+Circa Reproductions Morane Saulnier N	developedFrom	Morane-Saulnier N
+DAC RangerR	developedFrom	Lucas Dieselis
+Stoddard-Hamilton Glasair II	developedFrom	Stoddard-Hamilton Glasair I
+JPM 03 Loiret	developedFrom	JPM 01 Médoc
+Peña Bilouis	developedFrom	Peña Capeña
+Whittaker MW6	developedFrom	Whittaker MW5 Sorcerer
+Preceptor Stinger	developedFrom	Preceptor N3 Pup
+Military Aircraft HM-1	developedFrom	Hawks Miller HM-1
+St-Just Super-Cyclone	developedFrom	St-Just Cyclone, Cessna 180 and Cessna 185
+Alpi Pioneer 400	developedFrom	Alpi Pioneer 200
+Alpi Pioneer 400	developedFrom	Alpi Pioneer 300
+Team Tango Foxtrot	developedFrom	Team Tango Tango 2
+Uetz Pelikan	developedFrom	Uetz U2V
+AAC Seastar Sealoon	developedFrom	AAC SeaStar
+Backcountry Super Cubs Mackey SQ2	developedFrom	Piper PA-18 Super Cub
+Backcountry Super Cubs Supercruiser	developedFrom	Piper PA-12 Super Cruiser
+Backcountry Super Cubs Super Cub	developedFrom	Piper PA-18 Super Cub
+CubCrafters Carbon Cub EX	developedFrom	Piper PA-18 Super Cub
+Custom Flight Lite Star	developedFrom	Custom Flight North Star
+Custom Flight North Star	developedFrom	Piper PA-18 Super Cub
+Dakota Cub Super 18	developedFrom	Super 18 Model S18-180
+Falconar AMF-14H Maranda	developedFrom	Falconar AMF-S14 Super Maranda
+Falconar F11 Sporty	developedFrom	Jodel D11
+Falconar F12A Cruiser	developedFrom	Falconar F11 Sporty
+Falconar F9A	developedFrom	Jodel D9
+Falconar SAL Mustang	developedFrom	Jurca Gnatsum
+Hummel Ultracruiser	developedFrom	Hummel Bird
+Raven 2XS	developedFrom	Pitts Special
+Ravin 500	developedFrom	Piper PA-24 Comanche
+Wings of Freedom Phoenix 103	developedFrom	Aero-Works Aerolite 103
+World Aircraft Vision	developedFrom	World Aircraft Spirit
+Just Superstol	developedFrom	Just Highlander
+Team Mini-Max AeroMax	developedFrom	ISON Airbike
+CVV 3 Arcore	developedFrom	CVV 1 Pinguino
+CVV 5 Papero	developedFrom	CVV 4 Pellicano
+Alisport Silent 2 Electro	developedFrom	Alisport Silent 2 Targa
+Stinson Model O	developedFrom	Stinson Reliant
+Pipistrel Apis-Bee	developedFrom	Pipistrel Apis
+Viking SF-2A Cygnet	developedFrom	Sisler SF-2 Whistler
+Windward Performance DuckHawk	developedFrom	Windward Performance SparrowHawk
+Phoenix Air Phoenix	developedFrom	Urban Air Lambada
+Antoinette III	developedFrom	Gastambide-Mengin II
+Levasseur PL.8	developedFrom	Levasseur PL.4
+Air Command Commander Elite	developedFrom	Air Command Commander
+Air Command Commander Side-By-Side	developedFrom	Air Command Commander
+Air Command Tandem	developedFrom	Air Command Commander
+Air Command Tandem	developedFrom	Air Command Commander Tandem
+Lippisch Wien	developedFrom	RRG Professor
+IAIO Toufan	developedFrom	AH-1J SeaCobra
+Antonov An-74	developedFrom	Antonov An-72
+Midwest Hornet	developedFrom	Taggart GyroBee
+Pilatus PC-8D Twin Porter	developedFrom	Pilatus PC-6
+Rotortec Cloud Dancer Light	developedFrom	Rotortec Cloud Dancer I
+Alpi Syton AH 130	developedFrom	RotorWay Exec and AvioTecnica ES-101 Raven
+Millennium MH-1	developedFrom	Revolution Mini-500
+Phoenix Skyblazer	developedFrom	Eagle's Perch
+Redback Buzzard	developedFrom	Star Aviation LoneStar
+Van Berkel W-B	developedFrom	Hansa-Brandenburg W.29
+Globe KD2G Firefly	developedFrom	Globe KDG Snipe
+RotorWay A600 Talon	developedFrom	RotorWay Exec
+Globe KD6G Firefly	developedFrom	Globe KD2G Firefly
+Vertical Hummingbird	developedFrom	Sikorsky S-52
+Culver PQ-10	developedFrom	Culver Model MR
+Pander D	developedFrom	Holland H.2
+Koolhoven Heidevogel	developedFrom	Farman III
+CHDRI Z-6	developedFrom	Harbin Z-5
+Zerbe Sextuplane	developedFrom	Zerbe Quintaplane
+American Electric Piranha	developedFrom	LeVier Cosmic Wind
+McDonnell Douglas A-4G Skyhawk	developedFrom	Douglas A-4 Skyhawk
+Cessna Citation Latitude	developedFrom	Cessna Citation Sovereign
+Lockheed Martin Sea Ghost	developedFrom	Lockheed Martin F-35 Lightning II
+Lockheed Martin Sea Ghost	developedFrom	RQ-170 Sentinel
+URMV-3 IS-4	developedFrom	-259200.0
+GIDS Uqab	developedFrom	SATUMA Jasoos
+Wibault 12 Sirocco	developedFrom	Wibault 8 Simoun
+QAC Quickie Q2	developedFrom	Rutan Quickie
+Dewoitine D.25	developedFrom	Dewoitine D.21
+General Dynamics F-111K	developedFrom	General Dynamics F-111 Aardvark
+Blohm & Voss P.211	developedFrom	BV P.210
+Messerschmitt P.1111	developedFrom	Me P.1110 Ente
+Focke-Wulf Super Lorin	developedFrom	Focke-Wulf Ta 183
+Potez 230	developedFrom	ANF Les Mureaux 190
+Westland CL.20	developedFrom	Cierva-Lepère CL.10B
+Messerschmitt P.1110	developedFrom	Messerschmitt P.1101
+Messerschmitt P.1099	developedFrom	Messerschmitt Me 262
+Focke-Wulf Volksjäger	developedFrom	Focke-Wulf Ta 183
+Embraer E-Jet E2 family	developedFrom	Embraer E-Jet family
+Electravia Electro Trike	developedFrom	DTA Alizés
+Commuter Aircraft Corporation CAC-100	developedFrom	General Aircraft Corporation GAC-100
+Evolution Revo	developedFrom	Apollo Monsoon
+Flight Team Twister	developedFrom	Flight Team Spider
+Arado E.560	developedFrom	Arado 234
+Blohm & Voss P.188	developedFrom	Blohm & Voss P.184
+Flylight E-Dragon	developedFrom	Flylight Dragonfly
+Nanjing CK-1	developedFrom	Lavochkin La-17
+Tupolev Tu-73	developedFrom	Tupolev Tu-72
+Royal Aircraft Factory B.E.10	developedFrom	Royal Aircraft Factory B.E.2
+Royal Aircraft Factory F.E.6	developedFrom	Royal Aircraft Factory F.E.3
+Royal Aircraft Factory F.E.7	developedFrom	Royal Aircraft Factory F.E.4
+Polaris AM-FIB	developedFrom	Polaris FIB
+Gidroplan Che-22 Korvet	developedFrom	Chernov Che-20
+Aquila A 211	developedFrom	Aquila A 210
+Aviator Shershen'	developedFrom	Aviator Retro
+Shirlen Big Cootie	developedFrom	Powell PH Racer
+White WW-1 Der Jäger D.IX	developedFrom	Stolp SA-500 Starlet
+Rayner Pusher	developedFrom	Curtiss Model D
+Redfern Fokker Dr.1	developedFrom	Fokker Dr.I
+Bonomi BS.8 Biancone	developedFrom	Bonomi BS.7 Allievo Italia
+Bonomi BS.9 Bertina	developedFrom	Bonomi BS.7 Allievo Italia
+Raj Hamsa Voyager	developedFrom	Raj Hamsa Clipper
+RFB X-113	developedFrom	Collins X-112
+Northwest Ranger	developedFrom	Aermacchi AL-60
+Mace-Trefethen Seamaster	developedFrom	Parks Alumni Racer
+Eaves Cougar 1	developedFrom	Nesmith Cougar
+Bonomi BS.22 Alzavola	developedFrom	Bonomi BS.15 Bigiarella
+Bach Super Transport	developedFrom	Bach Air Yacht
+Miller-Bohannon JM-2 Pushy Galore	developedFrom	Miller JM-2
+Piana Canova PC.500	developedFrom	Piana Canova PC.100
+Blériot-SPAD S.29	developedFrom	SPAD XV
+CAIGA Primus 150	developedFrom	Epic LT Dynasty
+Wild DoubleEnder	developedFrom	Piper PA-18
+CVT4 Strale	developedFrom	CVT2 Veltro
+Boeing 777X	developedFrom	Boeing 777
+Teichfuss Grifo	developedFrom	Teichfuss Nibio I
+Rihn DR-109	developedFrom	Rihn DR-107 One Design
+Hillman Hornet	developedFrom	Helicom H-1 Commuter Jr
+Taylorcraft F-21	developedFrom	Taylorcraft F-19 Sportsman
+Elmwood Christavia Mk IV	developedFrom	Christavia Mk I
+2	developedFrom	1
+Collins Dipper	developedFrom	Cessna 150
+British Aerospace P.1216	developedFrom	Harrier Jump Jet
+Dickey E-Racer	developedFrom	Rutan Long-EZ
+Duane's Hangar Ultrababy	developedFrom	Bowers Fly Baby
+Early Bird Spad 13	developedFrom	SPAD S.XIII
+Early Bird Jenny	developedFrom	Curtiss JN-4 Jenny
+Express Series 90	developedFrom	Wheeler Express
+Freedom Lite SS-11 Skywatch	developedFrom	Spectrum Beaver RX650
+Henderson Little Bear	developedFrom	Piper J-3 Cub
+Hinz BLT-ARA	developedFrom	Hinz BL1-KEA
+Historical F4U Corsair	developedFrom	Chance-Vought F4U Corsair
+Historical P-51 Mustang	developedFrom	North American P-51 Mustang
+Historical P-40C Tomahawk	developedFrom	Curtiss P-40 Warhawk
+Historical PZL P.11c	developedFrom	PZL P.11c
+Historical Ryan STA	developedFrom	Ryan STA
+Scheibe SF-30 Club-Spatz	developedFrom	Scheibe SF-27
+Javelin V6 STOL	developedFrom	Piper PA-20 Pacer
+Kelly-D	developedFrom	Hatz CB-1
+Lancair Tigress	developedFrom	Lancair IV
+Las Brisas Mohawk	developedFrom	Avid Flyer
+Yasir	developedFrom	Boeing Insitu ScanEagle
+Let-Mont Piper UL	developedFrom	Piper PA-15 Vagabond
+IIL IS-5	developedFrom	URMV-3 IS-3
+Lucas L6B	developedFrom	Lucas L6
+Lucas L6B	developedFrom	Lucas L-6A
+Hatz Classic	developedFrom	Hatz CB-1
+IIL IS-9	developedFrom	IIL IS-5
+IIL IS-10	developedFrom	IIL IS-4
+Rans S-20 Raven	developedFrom	Rans S-6 Coyote II
+Rans S-20 Raven	developedFrom	Rans S-7 Courier
+Mirage Marathon	developedFrom	Mirage Celerity
+RTAF-6	developedFrom	SIAI-Marchetti SF.260
+Deland Travel Air 2000	developedFrom	Travel Air 2000
+A Vlaicu II	developedFrom	A Vlaicu I
+A Vlaicu I	developedFrom	A Vlaicu 1909 glider and rubber band models
+A Vlaicu III	developedFrom	A Vlaicu II
+Redfern DH-2	developedFrom	Airco DH.2
+24	developedFrom	Nieuport 17
+24	developedFrom	Nieuport 24
+Storm RG Fury	developedFrom	Storm Century
+St Croix Pietenpol Aerial	developedFrom	St Croix Pietenpol Aircamper
+St Croix Pietenpol Aircamper	developedFrom	Pietenpol Air Camper
+St Croix Sopwith Triplane	developedFrom	Sopwith Triplane
+Sands Fokker Dr.1 Triplane	developedFrom	Fokker Dr.1
+Sauser P6E Replica	developedFrom	Curtiss P-6 Hawk
+Rowley P-40F	developedFrom	Curtiss P-40 Warhawk
+Aero Designs Pulsar	developedFrom	Star-Lite Aircraft Star Lite
+Starfire Firebolt	developedFrom	Steen Skybolt
+Stewart S-51D Mustang	developedFrom	North American P-51D Mustang
+Merville SM.31	developedFrom	Merville S.30
+Synairgie Jet Ranger	developedFrom	Synairgie Sky Ranger
+Zlin Z-25 Šohaj	developedFrom	DFS Olympia Meise
+Time Warp Spitfire Mk V	developedFrom	Supermarine Spitfire
+Oberlerchner Mg 19	developedFrom	Musger Mg 9
+V-STOL XC 2000T	developedFrom	Starflight XC2000
+V-STOL Super Solution 2000	developedFrom	V-STOL Solution
+North American NA-64 Yale	developedFrom	North American BT-14
+Burnelli RB-2	developedFrom	Burnelli RB-1
+GeeBee C-8 Eightster	developedFrom	Gee Bee Sportster
+Byelka	developedFrom	Irbis-E
+Warner Revolution II	developedFrom	Warner Revolution I
+Washington T-411 Wolverine	developedFrom	Khrunichev T-411 Aist
+Hannover Greif	developedFrom	Hannover Vampyr
+Beriev A-100	developedFrom	Ilyushin Il-76
+Gerner G II R	developedFrom	Gerner G.I
+Salmson 4	developedFrom	Salmson 2
+World War I Aeroplanes Fokker D.VII	developedFrom	Fokker D.VII
+Air Command Commander Tandem	developedFrom	Air Command Commander
+Air Command Commander Sport	developedFrom	Air Command Commander
+Salmson 5	developedFrom	Salmson 2
+Amax Eagle TT	developedFrom	Amax Eagle
+Epic E1000	developedFrom	Epic LT Dynasty
+American Sportscopter Ultrasport 331	developedFrom	Ultrasport 254
+American Sportscopter Ultrasport 496	developedFrom	Ultrasport 254
+Tupolev Tu-116	developedFrom	Tupolev Tu-95
+Breguet Type II	developedFrom	Breguet Type I
+Northrop Grumman MQ-8C Fire Scout	developedFrom	Bell 407
+Northrop Grumman MQ-8C Fire Scout	developedFrom	Northrop Grumman MQ-8 Fire Scout
+Beneš-Mráz Be-150 Beta-Junior	developedFrom	Beneš-Mráz Be-50 Beta-Minor
+Breguet 22	developedFrom	Breguet 20
+Changhe Z-18	developedFrom	Avicopter AC313
+Pipistrel WATTsUP	developedFrom	Pipistrel Sinus and Pipistrel Virus
+II	developedFrom	Wibault 9
+Potez XVIII	developedFrom	Potez X
+Aerion AS2	developedFrom	Aerion SBJ
+Potez 26	developedFrom	Potez 25
+FK-Lightplanes SW51 Mustang	developedFrom	North American P-51 Mustang
+Potez 506	developedFrom	Potez 50
+TsAGI A-4	developedFrom	TsAGI 2-EA
+Antonov An-178	developedFrom	Antonov An-158
+HCUAV	developedFrom	LFMT, LRA, CSL, Spacesonic, IDE, MLS
+Aviatik D.VII	developedFrom	Aviatik D.VI
+RTAF-2	developedFrom	Fuji LM-1
+RTAF-4	developedFrom	De Havilland Canada DHC-1 Chipmunk
+The Airplane Factory Sling 4	developedFrom	The Airplane Factory Sling 2
+W 95	developedFrom	Adams-Wilson Choppy
+High-performance Instrumented Airborne Platform for Environmental Research	developedFrom	Gulfstream V
+Blohm & Voss BV 237	developedFrom	Blohm & Voss BV 141
+Potez 31	developedFrom	Potez 25.36
+Potez 27	developedFrom	Potez XV and Potez 25
+Enstrom TH180	developedFrom	Enstrom F-28
+British Aerospace Hawk 200	developedFrom	BAE Systems Hawk
+Curtiss XNBS-4	developedFrom	Martin NBS-1
+Hillberg Turbine Exec	developedFrom	Rotorway Exec
+Lowe-Willard-Fowler XNBS-2	developedFrom	LWF Model H Owl
+Pawnee Chief	developedFrom	Pawnee Warrior
+Dittmar HD 153 Motor-Möwe	developedFrom	Dittmar HD 53 Möwe
+Parascender Para-Ag	developedFrom	Parascender I
+Caudron C.68	developedFrom	Caudron C.67
+Personal Flight Sky-Bike Trike	developedFrom	Personal Flight Sky-Bike
+Bede BD-12	developedFrom	Bede BD-5
+Bede BD-14	developedFrom	Bede BD-12
+Caudron C.43	developedFrom	Caudron C.39
+Tellier T.3	developedFrom	Tellier T.2
+Brumby 610 Evolution	developedFrom	Brumby 600
+Brumby Aircruiser	developedFrom	Victa Aircruiser
+Stargate YT-33	developedFrom	Lockheed T-33
+Stargate YT-33	developedFrom	Windstar YF-80
+Caudron C.22	developedFrom	Caudron C.21
+Ibis GS-750 Grand Magic	developedFrom	Ibis GS-700 Magic
+Ibis GS-710 Magic	developedFrom	Ibis GS-700 Magic
+Ibis GS-730 Super Magic	developedFrom	Ibis GS-700 Magic
+Vancil Spitz S1	developedFrom	Pitts S1
+Caudron Type B	developedFrom	Caudron Type A
+Rotter Nemere	developedFrom	Rotter Karakán
+Aero L-39NG	developedFrom	Aero L-39 Albatros
+Nieuport 15	developedFrom	Nieuport 14
+Caudron Type C	developedFrom	Caudron Type B
+Caudron Type F	developedFrom	Caudron Type E
+Caudron Type D	developedFrom	Caudron Type C
+Caudron Type E	developedFrom	Caudron Type C
+Sonex Aircraft Teros	developedFrom	Sonex Aircraft Waiex
+Skymaster Single Seater	developedFrom	Skymaster Excel
+AgustaWestland AW109S Grand	developedFrom	AgustaWestland AW109
+Buscaylet-de Monge 7-5	developedFrom	Buscaylet-de Monge 7-4
+Avia 50-MP	developedFrom	Avia XV-A
+Avia 60-MP	developedFrom	Avia 32-E
+Lachassagne AL 5	developedFrom	Lachassagne AL 3
+Mikoyan-Gurevich I-7	developedFrom	Mikoyan-Gurevich I-3
+Swearingen SA-32T Turbo Trainer	developedFrom	Swearingen SX300
+Latham HB.5	developedFrom	Latham Trimotor
+Kaishiki No.1	developedFrom	Farman III
+Bloch MB.141	developedFrom	Bloch MB.81
+Stinson Model R	developedFrom	Stinson Junior
+List of Chengdu J-7 variants	developedFrom	Mikoyan-Gurevich MiG-21
+CAMS 110	developedFrom	CAMS 55
+Caudron C.580	developedFrom	Caudron C.530 Rafale
+Indonesian Aerospace N-245	developedFrom	IPTN CN-235
+Caudron C.860	developedFrom	Caudron Simoun and Rafale
+CubCrafters CC19-180 XCub	developedFrom	CubCrafters Carbon Cub EX
+NASA X-57 Maxwell	developedFrom	Tecnam P2006T
+Caçador	developedFrom	IAI Heron
+Emsco B-2 Challenger	developedFrom	American Albatross B-1
+FAdeA IA 100	developedFrom	FAdeA IA 73
+IAI Harpy NG	developedFrom	IAI Harop
+Paradelta BiBreak	developedFrom	Paradelta Break
+Akaflieg Karlsruhe AK-5b	developedFrom	Akaflieg Karlsruhe AK-5
+AM-37	developedFrom	Yer-2

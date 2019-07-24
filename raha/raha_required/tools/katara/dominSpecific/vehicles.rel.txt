@@ -1,0 +1,565 @@
+Tramlink	vehicles	24
+Tramlink	vehicles	6
+Docklands Light Railway	vehicles	149
+Toronto Transit Commission	vehicles	1869
+Paris Métro	vehicles	700
+Bay Area Rapid Transit	vehicles	662
+SkyTrain	vehicles	298
+Washington Metro	vehicles	1126
+MAX Light Rail	vehicles	145
+United States Capitol subway system	vehicles	7
+Madrid Metro	vehicles	2404
+Manchester Metrolink	vehicles	5000.0
+SEPTA	vehicles	2295
+Hong Kong Tramways	vehicles	163
+Caltrain	vehicles	29
+Caltrain	vehicles	118
+Tren Urbano	vehicles	74
+New York City Subway	vehicles	6407
+Midland Metro	vehicles	21
+NJ Transit	vehicles	*1,078 \n*93 \n*2,477 \n*
+New York City Transit Authority	vehicles	4525
+New York City Transit Authority	vehicles	6344
+New York City Transit Authority	vehicles	63
+Sheffield Supertram	vehicles	25
+Sheffield Supertram	vehicles	7
+METRORail	vehicles	37
+METRORail	vehicles	39
+Bucharest Metro	vehicles	558
+GO Transit	vehicles	75
+GO Transit	vehicles	630
+GO Transit	vehicles	510
+GO Transit	vehicles	-383
+GO Transit	vehicles	-127
+Maryland Transit Administration	vehicles	Heavy Rail: 100
+Maryland Transit Administration	vehicles	Light Rail: 53
+Maryland Transit Administration	vehicles	Commuter rail: 175
+Maryland Transit Administration	vehicles	Bus: 842
+Maryland Transit Administration	vehicles	Mobility vans: 303
+Maryland Transit Administration	vehicles	Mobility sedans: 124
+Agence métropolitaine de transport	vehicles	50
+Agence métropolitaine de transport	vehicles	206
+Metropolitan Transportation Authority	vehicles	2352
+Metropolitan Transportation Authority	vehicles	6407
+Metropolitan Transportation Authority	vehicles	63
+Metropolitan Transportation Authority	vehicles	5777
+Tokyo Metro	vehicles	2773
+Athens Metro	vehicles	294
+Tünel	vehicles	2
+Brussels Metro	vehicles	66
+BTS Skytrain	vehicles	47
+Detroit People Mover	vehicles	12
+Prague Metro	vehicles	730
+Nottingham Express Transit	vehicles	15
+Nottingham Express Transit	vehicles	22
+Copenhagen Metro	vehicles	34
+Ankara Metro	vehicles	43220
+Ankara Metro	vehicles	3320
+Miami-Dade Transit	vehicles	817
+Miami-Dade Transit	vehicles	136
+Miami-Dade Transit	vehicles	42
+Toronto subway	vehicles	706
+Metrolink	vehicles	55
+MRT	vehicles	19
+MRT	vehicles	21
+Beijing Subway	vehicles	4946
+Amsterdam Metro	vehicles	111
+Kiev Metro	vehicles	794
+Niagara Frontier Transportation Authority	vehicles	400
+Luas	vehicles	26
+Luas	vehicles	14
+MetroLink	vehicles	87
+Tbilisi Metro	vehicles	170
+RTA Rapid Transit	vehicles	60
+RTA Rapid Transit	vehicles	48
+OnTrack	vehicles	4
+Greater Cleveland Regional Transit Authority	vehicles	60
+Greater Cleveland Regional Transit Authority	vehicles	48
+Greater Cleveland Regional Transit Authority	vehicles	426
+Greater Cleveland Regional Transit Authority	vehicles	80
+Edinburgh Trams	vehicles	27
+Seville Metro	vehicles	17
+Sound Transit	vehicles	350
+Ford D3 platform	vehicles	Ford D3 platform
+Ford Fox platform	vehicles	Ford Fox platform
+Altamont Corridor Express	vehicles	6
+Altamont Corridor Express	vehicles	25
+GM Epsilon platform	vehicles	Buick Lacrosse
+GM Epsilon platform	vehicles	Cadillac BLS
+GM Epsilon platform	vehicles	Cadillac XTS
+GM Epsilon platform	vehicles	Chevrolet Classic
+GM Epsilon platform	vehicles	Chevrolet Impala
+GM Epsilon platform	vehicles	Chevrolet Malibu
+GM Epsilon platform	vehicles	Chevrolet Malibu Maxx
+GM Epsilon platform	vehicles	Fiat Croma
+GM Epsilon platform	vehicles	Opel Insignia
+GM Epsilon platform	vehicles	Buick Regal
+GM Epsilon platform	vehicles	Opel Signum
+GM Epsilon platform	vehicles	Opel Vectra
+GM Epsilon platform	vehicles	Pontiac G6
+GM Epsilon platform	vehicles	Roewe
+GM Epsilon platform	vehicles	Saab 9-3
+GM Epsilon platform	vehicles	Saab 9-5
+GM Epsilon platform	vehicles	Saturn Aura
+Ford VN platform	vehicles	Ford Econoline
+Ford VN platform	vehicles	Ford Club Wagon
+Ford VN platform	vehicles	Ford E-Series
+Ford V platform	vehicles	Ford Freestar
+Ford V platform	vehicles	Mercury Monterey
+Ford V platform	vehicles	Ford Windstar
+Ford P platform	vehicles	Ford F-Series
+Ford P platform	vehicles	Lincoln Mark LT
+Ford P platform	vehicles	Ford Super Duty
+Mexico City Metro	vehicles	390
+GM W platform	vehicles	Buick Century
+GM W platform	vehicles	Buick LaCrosse
+GM W platform	vehicles	Buick Regal
+GM W platform	vehicles	Chevrolet Impala
+GM W platform	vehicles	Chevrolet Impala Limited
+GM W platform	vehicles	Chevrolet Lumina
+GM W platform	vehicles	Chevrolet Monte Carlo
+GM W platform	vehicles	Oldsmobile Cutlass Supreme
+GM W platform	vehicles	Oldsmobile Intrigue
+GM W platform	vehicles	Pontiac Grand Prix
+AirTrain	vehicles	38
+Volvo P2 platform	vehicles	Ford D3 platform
+Ueno Zoo Monorail	vehicles	1
+GM Theta platform	vehicles	Chevrolet Captiva
+GM Theta platform	vehicles	Chevrolet Captiva Sport
+GM Theta platform	vehicles	Chevrolet Equinox
+GM Theta platform	vehicles	Daewoo Winstorm
+GM Theta platform	vehicles	Pontiac Torrent
+GM Theta platform	vehicles	Saturn Vue
+GM Theta platform	vehicles	Suzuki XL7
+GM Theta platform	vehicles	GMC Terrain
+GM Theta platform	vehicles	Saab 9-4X
+GM Theta platform	vehicles	Opel Antara
+Companhia Paulista de Trens Metropolitanos	vehicles	126
+Ford CD2 platform	vehicles	Ford Escape
+Ford CD2 platform	vehicles	Mazda Tribute
+Ford CD2 platform	vehicles	Mercury Mariner
+GM L platform	vehicles	Chevrolet Beretta
+GM L platform	vehicles	Chevrolet Corsica
+GM L platform	vehicles	Pontiac Tempest
+GM N platform	vehicles	Buick Skylark
+GM N platform	vehicles	Buick Somerset
+GM N platform	vehicles	Chevrolet Malibu
+GM N platform	vehicles	Oldsmobile Achieva
+GM N platform	vehicles	Oldsmobile Alero
+GM N platform	vehicles	Oldsmobile Cutlass Calais
+GM N platform	vehicles	Oldsmobile Cutlass
+GM N platform	vehicles	Pontiac Grand Am
+TRAX	vehicles	146
+Lisbon Metro	vehicles	1133
+Jeep SJ	vehicles	Jeep Gladiator
+Jeep SJ	vehicles	Jeep J-Series
+Jeep SJ	vehicles	Jeep Cherokee
+Jeep SJ	vehicles	Jeep Wagoneer
+Jeep SJ	vehicles	Kaiser Jeep M715
+Jeep SJ	vehicles	Jeep Grand Wagoneer
+Vienna U-Bahn	vehicles	778
+GM Lambda platform	vehicles	Saturn Outlook
+GM Lambda platform	vehicles	GMC Acadia
+GM Lambda platform	vehicles	Buick Enclave
+GM Lambda platform	vehicles	Chevrolet Traverse
+Munich U-Bahn	vehicles	572
+San Francisco cable car system	vehicles	California St. line:
+San Francisco cable car system	vehicles	12
+San Francisco cable car system	vehicles	Powell-Mason/Hyde lines:
+San Francisco cable car system	vehicles	28
+Type Four platform	vehicles	Alfa Romeo 164
+Type Four platform	vehicles	Fiat Croma
+Type Four platform	vehicles	Lancia Thema
+Type Four platform	vehicles	Saab 9000
+SEPTA Regional Rail	vehicles	404
+Rome Metro	vehicles	83
+Muni Metro	vehicles	151
+Oslo Metro	vehicles	115
+Sofia Metro	vehicles	52
+Guangzhou Metro	vehicles	242
+Fiat Premium platform	vehicles	Alfa Romeo Brera
+Fiat Premium platform	vehicles	Alfa Romeo 159
+Fiat Premium platform	vehicles	Alfa Romeo Visconti
+Fiat Premium platform	vehicles	Opel Insignia concept
+San Diego Trolley	vehicles	128
+San Diego Trolley	vehicles	-100.0
+San Diego Trolley	vehicles	70.0
+San Diego Trolley	vehicles	2
+Milan Metro	vehicles	959
+Queensland Rail City network	vehicles	684
+Mitsubishi GS platform	vehicles	Chrysler 200
+Mitsubishi GS platform	vehicles	Chrysler Sebring
+Mitsubishi GS platform	vehicles	Citroën C-Crosser
+Mitsubishi GS platform	vehicles	Citroën C4 Aircross
+Mitsubishi GS platform	vehicles	Dodge Avenger
+Mitsubishi GS platform	vehicles	Dodge Caliber
+Mitsubishi GS platform	vehicles	Dodge Journey
+Mitsubishi GS platform	vehicles	Jeep Compass
+Mitsubishi GS platform	vehicles	Jeep Patriot
+Mitsubishi GS platform	vehicles	Mitsubishi Delica
+Mitsubishi GS platform	vehicles	Mitsubishi Lancer
+Mitsubishi GS platform	vehicles	Mitsubishi Lancer Evolution X
+Mitsubishi GS platform	vehicles	Mitsubishi Racing Lancer
+Mitsubishi GS platform	vehicles	Mitsubishi Outlander
+Mitsubishi GS platform	vehicles	Mitsubishi RVR
+Mitsubishi GS platform	vehicles	Peugeot 4007
+Mitsubishi GS platform	vehicles	Peugeot 4008
+Mitsubishi GS platform	vehicles	Proton Inspira
+Mitsubishi PS platform	vehicles	Mitsubishi 380
+Mitsubishi PS platform	vehicles	Mitsubishi Eclipse
+Mitsubishi PS platform	vehicles	Mitsubishi Endeavor
+Mitsubishi PS platform	vehicles	Mitsubishi Galant
+Poma 2000	vehicles	4
+Hamburg U-Bahn	vehicles	245
+Hamburg U-Bahn	vehicles	861
+Mercedes-Benz W110	vehicles	Mercedes-Benz E-Class
+Manila Light Rail Transit System	vehicles	Line 1 :
+Manila Light Rail Transit System	vehicles	BN Constructions Ferroviaries et Métalliques
+Manila Light Rail Transit System	vehicles	SA Ateliers de Constructions Electriques de Charleroi
+Manila Light Rail Transit System	vehicles	Hyundai Precision/Adtranz
+Manila Light Rail Transit System	vehicles	Kinki Sharyo/Nippon Sharyo
+Manila Light Rail Transit System	vehicles	Line 2 :
+Manila Light Rail Transit System	vehicles	Hyundai Rotem
+Ford MN12 platform	vehicles	Ford Thunderbird
+Ford MN12 platform	vehicles	Mercury Cougar
+Ford MN12 platform	vehicles	Lincoln Mark VIII
+Porto Metro	vehicles	102
+Monterrey Metro	vehicles	40
+Sacramento Regional Transit District	vehicles	36
+Sacramento Regional Transit District	vehicles	and 40 CAF Class 200 vehicles
+Blue Line	vehicles	Nippon Sharyo P865 and P2020
+Blue Line	vehicles	Siemens P2000
+Gold Line	vehicles	AnsaldoBreda P2550
+Gold Line	vehicles	Kinki Sharyo P3010
+Wiener Linien	vehicles	496
+Tehran Metro	vehicles	1230
+Goggomobil	vehicles	Goggomobil T
+Goggomobil	vehicles	Goggomobil TS
+Goggomobil	vehicles	Goggomobil TL
+Goggomobil	vehicles	Goggomobil Dart
+Tranz Metro	vehicles	166
+Helsinki tram	vehicles	132
+Trams in Oslo	vehicles	40
+Trams in Oslo	vehicles	32
+Chiba Urban Monorail	vehicles	1000
+Regional Transportation Authority	vehicles	5234
+Jakarta Monorail	vehicles	10
+Thessaloniki Metro	vehicles	18
+Metro Transit	vehicles	-400.0
+Metro Transit	vehicles	-460.0
+Metro Transit	vehicles	390
+Metro Transit	vehicles	120
+Express Rail Link	vehicles	8
+Brasília Metro	vehicles	32
+Catania Metro	vehicles	7
+Novosibirsk Metro	vehicles	22
+Chennai Metro	vehicles	42
+Kharkiv Metro	vehicles	59
+Samara Metro	vehicles	44
+Roosevelt Island Operating Corporation	vehicles	9
+Transdev Auckland	vehicles	67
+Kazan Metro	vehicles	47
+The Woods Hole, Martha's Vineyard and Nantucket Steamship Authority	vehicles	9
+Gothenburg tram network	vehicles	200
+GM H platform	vehicles	Buick LeSabre
+GM H platform	vehicles	Oldsmobile Eighty-Eight
+GM H platform	vehicles	Pontiac Bonneville
+GM H platform	vehicles	Chevrolet Vega
+GM H platform	vehicles	Chevrolet Monza
+GM H platform	vehicles	Pontiac Sunbird
+GM H platform	vehicles	Buick Skyhawk
+GM H platform	vehicles	Oldsmobile Starfire
+GM K platform	vehicles	Cadillac Deville
+GM K platform	vehicles	Cadillac Seville
+GM A platform	vehicles	Buick Century
+GM A platform	vehicles	Chevrolet Celebrity
+GM A platform	vehicles	Oldsmobile Cutlass Ciera
+GM A platform	vehicles	Pontiac 6000
+GM K platform	vehicles	Cadillac Seville
+Cercanías Madrid	vehicles	Class 442, 446, 447, 450, Civia
+Music City Star	vehicles	4
+Music City Star	vehicles	7
+Turin Metro	vehicles	58
+Medellín Metro	vehicles	55
+Minsk Metro	vehicles	361
+Dnipropetrovsk Metro	vehicles	45
+Yerevan Metro	vehicles	70
+Capital MetroRail	vehicles	6
+Baku Metro	vehicles	228
+TER Aquitaine	vehicles	310
+Rotterdam Metro	vehicles	160
+Hanover Stadtbahn	vehicles	289
+Nanjing Metro	vehicles	202
+Hanover S-Bahn	vehicles	68
+Bordeaux tramway	vehicles	74
+Bursaray	vehicles	122
+Le Havre tramway	vehicles	22
+ULTra	vehicles	22
+Karachi Circular Railway	vehicles	200
+Metrovalencia	vehicles	108
+Cologne Stadtbahn	vehicles	382
+Stuttgart Stadtbahn	vehicles	179
+G:link	vehicles	14
+Istanbul Metro	vehicles	453
+Metronit	vehicles	90
+Vélo'v	vehicles	3000
+Metrorail Western Cape	vehicles	85
+Metro Transit	vehicles	25
+Ftrmetro Swansea	vehicles	10
+Montreal Metro	vehicles	759
+RTD Bus & Rail	vehicles	969
+RTD Bus & Rail	vehicles	172
+Mitsubishi Z platform	vehicles	Mitsubishi Colt
+Mitsubishi Z platform	vehicles	Smart Forfour
+Mitsubishi Z platform	vehicles	Smart Formore
+Trøndelag Commuter Rail	vehicles	14
+GMT360	vehicles	* Buick Rainier\n*Chevrolet SSR\n* Chevrolet TrailBlazer\n:* Chevrolet TrailBlazer EXT\n*GMC Envoy\n:*GMC Envoy XL\n:* GMC Envoy XUV\n* Isuzu Ascender\n* Oldsmobile Bravada\n*Saab 9-7X
+Tashkent Metro	vehicles	168
+Full-size Ford	vehicles	Full-size Ford
+Full-size Ford	vehicles	Ford Panther platform
+Bonn Stadtbahn	vehicles	75
+Transmetro	vehicles	About 250 Articulated buses
+Valencia Metro	vehicles	12
+Valencia Metro	vehicles	2
+Bielefeld Stadtbahn	vehicles	76
+Ion rapid transit	vehicles	14
+Trieste–Opicina tramway	vehicles	8
+Palma Metro	vehicles	11
+Strasbourg tramway	vehicles	94
+Santa Clara Valley Transportation Authority light rail	vehicles	99
+Vélib'	vehicles	18200
+Bicing	vehicles	6000
+Swift Bus Rapid Transit	vehicles	15
+Trams in Poznań	vehicles	~430
+Genting Monorail	vehicles	5
+Bangkok Mass Transit Authority	vehicles	3526
+Shiraz Metro	vehicles	27
+İzmir Metro	vehicles	77
+Sunway Monorail	vehicles	2
+Almaty Metro	vehicles	7
+Belo Horizonte Metro	vehicles	35
+Recife Metro	vehicles	25
+GM Voltec powertrain	vehicles	Chevrolet Volt, Cadillac ELR, Holden Volt, Opel Ampera, Vauxhall Ampera
+Mitsubishi MR platform	vehicles	Mitsubishi i
+M1	vehicles	105
+Metrobus	vehicles	334
+Mumbai Monorail	vehicles	6
+Oslo Commuter Rail	vehicles	82
+Oslo Commuter Rail	vehicles	36
+Oslo Commuter Rail	vehicles	24
+Oslo Commuter Rail	vehicles	26
+Brescia Metro	vehicles	18
+Ahmedabad BRTS	vehicles	223
+Düsseldorf Stadtbahn	vehicles	135
+Suzhou Rail Transit	vehicles	47
+Palm Jumeirah Monorail	vehicles	4
+Málaga Metro	vehicles	14
+Pasig River Ferry Service	vehicles	10
+Happy Line	vehicles	5
+Window of the World Monorail	vehicles	8
+Miami Seaquarium Spacerail	vehicles	6
+Taedok Science Town Monorail	vehicles	3
+Bergen's Electric Tramway	vehicles	5
+Indiana University Health People Mover	vehicles	2
+Line 2	vehicles	FS Class ALe 724
+Line 2	vehicles	FS Class ALe 582
+Line 2	vehicles	Treno ad alta frequentazione
+Vought Airtrans	vehicles	68
+Metro Transportes do Sul	vehicles	24
+Yangon Circular Railway	vehicles	21
+Jæren Commuter Rail	vehicles	9
+Rhônexpress	vehicles	6
+Chandigarh Metro	vehicles	16
+Cincinnati Bell Connector	vehicles	5
+Trams in Munich	vehicles	106
+International 3000	vehicles	International 3000
+Edmonton Radial Railway	vehicles	87
+Trams in Gorzów Wielkopolski	vehicles	17
+Trams in Gorzów Wielkopolski	vehicles	21
+Trams in Gorzów Wielkopolski	vehicles	2
+Trams in Elbląg	vehicles	21
+Trams in Elbląg	vehicles	6
+Trams in Elbląg	vehicles	3
+Trams in Częstochowa	vehicles	25
+Metrotranvía Mendoza	vehicles	11
+Freightliner C2	vehicles	Thomas Built Buses Saf-T-Liner C2
+Trams in Rome	vehicles	164
+Duke University Medical Center Patient Rapid Transit	vehicles	3
+BikeMi	vehicles	4650
+Jetrail	vehicles	10
+Seattle Streetcar	vehicles	* 3 Inekon 12-Trio\n* 7 Inekon Trio Type 121
+Istanbul Tram	vehicles	T1: 92
+Istanbul Tram	vehicles	T4: 78
+Atlanta Streetcar	vehicles	70.0
+Trams in Gdańsk	vehicles	183
+Trams in Gdańsk	vehicles	21
+Trams in Gdańsk	vehicles	2
+High Level Bridge Streetcar	vehicles	4
+Bangkok BRT	vehicles	25
+Venice People Mover	vehicles	2
+Servicio de Transportes Eléctricos	vehicles	360
+Servicio de Transportes Eléctricos	vehicles	20
+Adana Metro	vehicles	12
+Stoke Streetcar	vehicles	14
+RATP Iași	vehicles	150
+Santander Cycles	vehicles	13600
+Fiat C-platform	vehicles	First generation:
+Fiat C-platform	vehicles	Fiat Bravo and Brava
+Fiat C-platform	vehicles	Fiat Marea
+Fiat C-platform	vehicles	Fiat Multipla
+Fiat C-platform	vehicles	Second generation:
+Fiat C-platform	vehicles	Fiat Stilo
+Fiat C-platform	vehicles	Fiat Bravo
+Fiat C-platform	vehicles	Lancia Delta
+Fiat C-platform	vehicles	Type Two rev. 3:
+Fiat C-platform	vehicles	Alfa Romeo 156
+Fiat C-platform	vehicles	Alfa Romeo 147
+Fiat C-platform	vehicles	Alfa Romeo GT
+Fiat C-platform	vehicles	Lancia Lybra
+Trams in Sarajevo	vehicles	95
+Al Mashaaer Al Mugaddassah Metro Southern Line	vehicles	17
+Nice Ride Minnesota	vehicles	1700
+DART Light Rail	vehicles	163
+Navi Mumbai Monorail	vehicles	15
+Pune Monorail	vehicles	15
+Capital Bikeshare	vehicles	3000
+Panama Metro	vehicles	19
+Ahmedabad Monorail	vehicles	15
+Delhi Metro	vehicles	216
+Trolleybuses in Valparaíso	vehicles	23
+Hangzhou BRT	vehicles	104
+Bakersfield and Kern Electric Railway	vehicles	23
+Trailblazer	vehicles	1
+Hubway	vehicles	1461
+Milan suburban railway service	vehicles	FS Class E.464
+Milan suburban railway service	vehicles	Treno ad alta frequentazione
+Milan suburban railway service	vehicles	Treno Servizio Regionale
+Bixi Montreal	vehicles	5220
+Accra monorail	vehicles	27
+Trams in Florence	vehicles	17
+Type Three platform	vehicles	Alfa Romeo 155
+Type Three platform	vehicles	Fiat Tempra
+Type Three platform	vehicles	Lancia Dedra
+Melbourne Bike Share	vehicles	600
+Hangzhou Public Bicycle	vehicles	84000
+Ürümqi BRT	vehicles	96
+Bari metropolitan railway service	vehicles	ELT 200
+T4	vehicles	78
+Citi Bike	vehicles	6000
+S-Bahn Mitteldeutschland	vehicles	51
+ToBike	vehicles	600
+Lahore Metrobus	vehicles	86
+Riyadh Metro	vehicles	69
+Veturilo	vehicles	2950
+Rapid MetroRail Gurgaon	vehicles	5
+Bhubaneswar City Bus	vehicles	125
+KC Streetcar	vehicles	4
+Capital Metro, Canberra	vehicles	14
+Riverline	vehicles	5
+Capital Bixi	vehicles	250
+GM X platform	vehicles	Buick Apollo
+GM X platform	vehicles	Buick Skylark
+GM X platform	vehicles	Chevrolet Nova
+GM X platform	vehicles	Oldsmobile Omega
+GM X platform	vehicles	Pontiac Ventura
+GM X platform	vehicles	Pontiac Phoenix
+GM X platform	vehicles	Buick Skylark
+GM X platform	vehicles	Chevrolet Citation
+GM X platform	vehicles	Oldsmobile Omega
+GM X platform	vehicles	Pontiac Phoenix
+Suzhou BRT	vehicles	120
+Kabataş–Taksim funicular	vehicles	2
+Divvy	vehicles	4760
+Houston B-cycle	vehicles	227
+Sydney Metro	vehicles	22
+Indego	vehicles	1000
+San Antonio B-Cycle	vehicles	600
+Cagliari light rail	vehicles	5
+Trams in Kolkata	vehicles	257
+Bergamo–Albino light rail	vehicles	8
+GM C platform	vehicles	Buick Electra
+GM C platform	vehicles	Buick Park Avenue
+GM C platform	vehicles	Cadillac De Ville
+GM C platform	vehicles	Cadillac Fleetwood
+GM C platform	vehicles	Cadillac Series 70
+GM C platform	vehicles	Cadillac Sixty Special
+GM C platform	vehicles	Oldsmobile 98
+Addis Ababa Light Rail	vehicles	41
+Bay Area Bike Share	vehicles	1040
+Dar es Salaam bus rapid transit	vehicles	140
+São Mateus–Jabaquara Metropolitan Corridor	vehicles	260
+BuBi	vehicles	1150
+BMW UKL platform	vehicles	Mini Hatch
+Erfurt Stadtbahn	vehicles	84
+Kassel RegioTram	vehicles	28
+Clermont-Ferrand tramway	vehicles	26
+Rawalpindi-Islamabad Metrobus	vehicles	68
+Red Bike	vehicles	260
+Coliseum–Oakland International Airport line	vehicles	4
+İsbike	vehicles	100
+Volvo Scalable Product Platform	vehicles	Volvo XC90
+Volvo Scalable Product Platform	vehicles	Volvo S90 II
+Volvo Scalable Product Platform	vehicles	Volvo V90 II
+Poços de Caldas Monorail	vehicles	1
+Mi Teleférico	vehicles	443
+Pronto Cycle Share	vehicles	500
+Teleférico do Alemão	vehicles	152
+Rio de Janeiro Light Rail	vehicles	32
+Teleférico da Providência	vehicles	16
+Réseau électrique métropolitain	vehicles	200
+Volvo P80	vehicles	Volvo 850
+Volvo P80	vehicles	Volvo S70
+Volvo P80	vehicles	Volvo V70
+Volvo P80	vehicles	Volvo C70
+Volvo P80	vehicles	Volvo ECC
+Sobi Hamilton	vehicles	750
+Samsun Tram	vehicles	21
+Dallas Streetcar	vehicles	4
+Coca-Cola Zero Belfast Bikes	vehicles	330
+Valenbisi	vehicles	2.75
+NMDOT Park and Ride	vehicles	23
+Trams in Tbilisi	vehicles	174
+Trams in Tbilisi	vehicles	299
+Trams in Tbilisi	vehicles	15
+Trams in Tallinn	vehicles	85
+Trams in Perugia	vehicles	8
+Trams in Perugia	vehicles	4
+Trams in Perugia	vehicles	1
+Trams in Perugia	vehicles	2
+Trams in Nizhny Novgorod	vehicles	314
+Velobike	vehicles	2700
+Trams in Minsk	vehicles	151
+Trams in Minsk	vehicles	* АКСМ-60102,
+Trams in Minsk	vehicles	* АКСМ-843,
+Trams in Minsk	vehicles	* АКСМ-1М &
+Trams in Minsk	vehicles	* АКСМ-743
+North Central RTD	vehicles	43
+Trams in Kaliningrad	vehicles	52
+Amritsar BRTS	vehicles	93
+Trams in Besançon	vehicles	19
+Transport in Phnom Penh	vehicles	49
+Aarhus City Bikes	vehicles	450
+GM Omega platform	vehicles	Cadillac CT6
+Phnom Penh City Bus	vehicles	49
+Benning Road Line	vehicles	6
+Yangon BRT	vehicles	65
+Type Two platform	vehicles	Alfa Romeo 145
+Type Two platform	vehicles	Alfa Romeo 146
+Type Two platform	vehicles	Alfa Romeo Spider
+Type Two platform	vehicles	Alfa Romeo GTV
+Type Two platform	vehicles	Fiat Tipo
+Type Two platform	vehicles	Fiat Coupé
+Type Two platform	vehicles	Lancia Delta
+Type Two platform	vehicles	Alfa Romeo 147
+Dumbarton Rail Corridor	vehicles	6
+Healthy Ride	vehicles	500
+Lanzhou BRT	vehicles	70
+Metrostar Ferry	vehicles	4
+Xi'an Monorail	vehicles	3
+Santander Cycles MK	vehicles	300
+Biketown	vehicles	1000
+Kochi Water Metro	vehicles	78
+Mobi	vehicles	1500
+T4	vehicles	78
+T1	vehicles	92
+Integrated Public Transport System	vehicles	9339

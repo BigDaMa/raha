@@ -1,0 +1,364 @@
+Kingston upon Thames	londonBorough	Kingston
+New Malden	londonBorough	Kingston
+New Malden	londonBorough	Merton
+Westminster	londonBorough	Westminster
+Southwark	londonBorough	Southwark
+Kensington	londonBorough	Kensington and Chelsea
+Addiscombe	londonBorough	Croydon
+Acton, London	londonBorough	Ealing
+Bellingham, London	londonBorough	Lewisham
+Balham	londonBorough	Wandsworth
+Becontree	londonBorough	Barking and Dagenham
+Bermondsey	londonBorough	Southwark
+Beddington	londonBorough	Croydon
+Beckenham	londonBorough	Bromley
+Battersea	londonBorough	Wandsworth
+Bexleyheath	londonBorough	Bexley
+Biggin Hill	londonBorough	Bromley
+Brentford	londonBorough	Hounslow
+Blackheath, London	londonBorough	Greenwich
+Blackheath, London	londonBorough	Lewisham
+Brockley	londonBorough	Lewisham,Southwark
+Canonbury	londonBorough	Islington
+Brondesbury	londonBorough	Brent
+Brondesbury	londonBorough	Camden
+Brixton	londonBorough	Lambeth
+Carshalton	londonBorough	Sutton
+Catford	londonBorough	Lewisham
+Cheam	londonBorough	Sutton
+Chislehurst	londonBorough	Bromley
+Clapham	londonBorough	Wandsworth
+Clerkenwell	londonBorough	Islington
+Coulsdon	londonBorough	Croydon
+Crayford	londonBorough	Bexley
+Elmstead, London	londonBorough	Bromley
+Dalston	londonBorough	Hackney
+Cowley, London	londonBorough	Hillingdon
+Cricklewood	londonBorough	Barnet
+Cricklewood	londonBorough	Brent
+Cricklewood	londonBorough	Camden
+Finsbury	londonBorough	Islington
+Deptford	londonBorough	Lewisham
+Deptford	londonBorough	Greenwich
+Crofton Park	londonBorough	Lewisham
+Finchley	londonBorough	Barnet
+Feltham	londonBorough	Hounslow
+Greenford	londonBorough	Ealing
+Hanwell	londonBorough	Ealing
+Erith	londonBorough	Bexley
+Crystal Palace, London	londonBorough	Bromley
+Crystal Palace, London	londonBorough	Croydon
+Crystal Palace, London	londonBorough	Lambeth
+Crystal Palace, London	londonBorough	Southwark
+Hatch End	londonBorough	Harrow
+Highbury	londonBorough	Islington
+Heston	londonBorough	Hounslow
+Highgate	londonBorough	Camden
+Highgate	londonBorough	Haringey
+Highgate	londonBorough	Islington
+Holborn	londonBorough	City of London
+Holloway, London	londonBorough	Islington
+Hornchurch	londonBorough	Havering
+Ickenham	londonBorough	Hillingdon
+Keston	londonBorough	Bromley
+Kensal Green	londonBorough	Brent, Kensington & Chelsea
+Kenton	londonBorough	Harrow
+Kidbrooke	londonBorough	Greenwich
+Isleworth	londonBorough	Hounslow
+Kilburn, London	londonBorough	Brent
+Kilburn, London	londonBorough	Camden
+Kilburn, London	londonBorough	Westminster
+Kew	londonBorough	Richmond
+Knightsbridge	londonBorough	Kensington and Chelsea
+Leyton	londonBorough	Waltham Forest
+Morden	londonBorough	Merton
+Mottingham	londonBorough	Bromley
+Mottingham	londonBorough	Greenwich
+Muswell Hill	londonBorough	Haringey
+Newington, London	londonBorough	Southwark
+Notting Hill	londonBorough	Kensington and Chelsea Brent
+Palmers Green	londonBorough	Enfield
+Osterley	londonBorough	Hounslow
+Orpington	londonBorough	Bromley
+Perivale	londonBorough	Ealing
+Penge	londonBorough	Bromley
+Petersham, London	londonBorough	Richmond
+Petts Wood	londonBorough	Bromley
+Northolt	londonBorough	Ealing
+Pinner	londonBorough	Harrow
+Pratt's Bottom	londonBorough	Bromley
+Plumstead	londonBorough	Greenwich
+Purley, London	londonBorough	Croydon
+Putney	londonBorough	Wandsworth
+Stanmore	londonBorough	Harrow
+Stockwell	londonBorough	Lambeth
+Stepney	londonBorough	Tower Hamlets
+Southgate, London	londonBorough	Enfield
+Southall	londonBorough	Ealing
+Stamford Hill	londonBorough	Hackney, Haringey
+Stoke Newington	londonBorough	Hackney
+Surbiton	londonBorough	Kingston
+Sydenham	londonBorough	Lewisham
+Sydenham	londonBorough	Bromley
+Sydenham	londonBorough	Southwark
+Thamesmead	londonBorough	Greenwich
+Thamesmead	londonBorough	Bexley
+Thornton Heath	londonBorough	Croydon
+Tulse Hill	londonBorough	Lambeth
+Tufnell Park	londonBorough	Camden
+Tolworth	londonBorough	Kingston
+Twickenham	londonBorough	London Borough of Richmond upon Thames
+Waddon	londonBorough	Croydon
+Uxbridge	londonBorough	Hillingdon
+Vauxhall	londonBorough	Lambeth
+Walworth	londonBorough	Southwark
+Wallington, London	londonBorough	Sutton
+Wanstead	londonBorough	Redbridge
+Wealdstone	londonBorough	Harrow
+White City, London	londonBorough	Hammersmith and Fulham
+Winchmore Hill	londonBorough	Enfield
+Whitechapel	londonBorough	Tower Hamlets
+Wimbledon, London	londonBorough	Merton
+Yiewsley	londonBorough	Hillingdon
+Woolwich	londonBorough	Greenwich
+Belmont, Sutton	londonBorough	Sutton
+Hayes, Hillingdon	londonBorough	Hillingdon
+Elm Park	londonBorough	Havering
+Harold Hill	londonBorough	Havering
+Dagenham	londonBorough	Barking and Dagenham
+Fulham	londonBorough	Hammersmith & Fulham
+Pimlico	londonBorough	Westminster
+Covent Garden	londonBorough	Westminster
+Covent Garden	londonBorough	Camden
+Canary Wharf	londonBorough	Tower Hamlets
+Smithfield, London	londonBorough	City of London
+Hammersmith	londonBorough	Hammersmith and Fulham
+South Bank	londonBorough	London Borough of Lambeth
+South Bank	londonBorough	London Borough of Southwark
+Hither Green	londonBorough	Lewisham
+Shepherd's Bush	londonBorough	Hammersmith and Fulham
+Aldgate	londonBorough	City of London
+Bickley	londonBorough	Bromley
+Lewisham	londonBorough	Lewisham
+Millbank	londonBorough	Westminster
+East Sheen	londonBorough	Richmond
+North Sheen	londonBorough	Richmond
+Upper Norwood	londonBorough	Bromley
+Upper Norwood	londonBorough	Croydon
+Upper Norwood	londonBorough	Lambeth
+Upper Norwood	londonBorough	Southwark
+Westcombe Park	londonBorough	Greenwich
+Earl's Court	londonBorough	Kensington and Chelsea
+Charlton, London	londonBorough	Greenwich
+Barking	londonBorough	Barking and Dagenham
+Bankside	londonBorough	Southwark
+South Wimbledon	londonBorough	Merton
+New Cross	londonBorough	Lewisham
+Bromley	londonBorough	Bromley
+Lee, London	londonBorough	Lewisham
+Walbrook	londonBorough	City of London
+Bishopsgate	londonBorough	City of London
+Aldersgate	londonBorough	City of London
+Cripplegate	londonBorough	City of London
+Spitalfields	londonBorough	Tower Hamlets
+Shadwell	londonBorough	Tower Hamlets
+Pentonville	londonBorough	Islington
+Herne Hill	londonBorough	Lambeth
+Herne Hill	londonBorough	Southwark
+Billingsgate	londonBorough	City of London
+Shooter's Hill	londonBorough	Greenwich
+Merton Park	londonBorough	Merton
+Canning Town	londonBorough	Newham
+New Barnet	londonBorough	Barnet
+Eltham	londonBorough	Greenwich
+St Margarets, London	londonBorough	Richmond
+Sands End	londonBorough	Hammersmith and Fulham
+South Kensington	londonBorough	Westminster
+Downham	londonBorough	Lewisham
+Chadwell Heath	londonBorough	Barking and Dagenham
+Cubitt Town	londonBorough	Tower Hamlets
+Greenwich Peninsula	londonBorough	Greenwich
+Holland Park	londonBorough	Kensington and Chelsea
+Hayes, Bromley	londonBorough	Bromley
+North Harrow	londonBorough	Harrow
+Hackney Marshes	londonBorough	Hackney
+Harrow Weald	londonBorough	Harrow
+Gants Hill	londonBorough	Redbridge
+Brent Cross	londonBorough	Barnet
+Archway, London	londonBorough	Islington
+Southfields	londonBorough	Wandsworth
+Earlsfield	londonBorough	Wandsworth
+Blackfriars, London	londonBorough	City of London
+Ladbroke Grove	londonBorough	Kensington and Chelsea, Brent
+Foots Cray	londonBorough	Bexley
+Eastcote	londonBorough	Hillingdon
+Downe	londonBorough	Bromley
+St James's	londonBorough	Westminster
+Kingston Vale	londonBorough	Kingston
+Honor Oak	londonBorough	Lewisham
+Honor Oak	londonBorough	Southwark
+West Ealing	londonBorough	Ealing
+Grove Park, Lewisham	londonBorough	Lewisham
+Raynes Park	londonBorough	Merton
+New Eltham	londonBorough	Greenwich
+New Eltham	londonBorough	Bexley
+West Wickham	londonBorough	Bromley
+Shirley, London	londonBorough	Croydon
+Farnborough, London	londonBorough	Bromley
+Coombe, Croydon	londonBorough	Croydon
+South Norwood	londonBorough	Croydon
+Upton Park, London	londonBorough	Newham
+Sanderstead	londonBorough	Croydon
+Norbury	londonBorough	Croydon
+New Addington	londonBorough	Croydon
+Falconwood	londonBorough	Bexley
+Falconwood	londonBorough	Greenwich
+West Harrow	londonBorough	Harrow
+South Croydon	londonBorough	Croydon
+Motspur Park	londonBorough	Merton
+Enfield Chase	londonBorough	Enfield
+Newington Green	londonBorough	Islington
+Eden Park, London	londonBorough	Bromley
+De Beauvoir Town	londonBorough	Islington
+Temple, London	londonBorough	City of London
+Tooting Bec	londonBorough	Wandsworth
+Bromley Common	londonBorough	Bromley
+Ham, London	londonBorough	Kingston upon Thames
+Rush Green	londonBorough	Havering
+Hatton, London	londonBorough	Hillingdon
+Hatton, London	londonBorough	Hounslow
+Parsons Green	londonBorough	Hammersmith and Fulham
+Hackney Wick	londonBorough	Tower Hamlets
+Albany Park, Bexley	londonBorough	Bexley
+Queen's Park, London	londonBorough	Brent
+Cornhill, London	londonBorough	City of London
+St Helier, London	londonBorough	Merton
+St Helier, London	londonBorough	Sutton
+Friern Barnet	londonBorough	Barnet
+Old Oak Common	londonBorough	Hammersmith and Fulham
+Harrow on the Hill	londonBorough	Harrow
+Abbey Wood	londonBorough	Greenwich
+Abbey Wood	londonBorough	Bexley
+Bedfont	londonBorough	Hounslow
+Coney Hall	londonBorough	Bromley
+Norwood Green	londonBorough	Ealing
+Norwood Green	londonBorough	Hounslow
+Forestdale, London	londonBorough	Croydon
+Monken Hadley	londonBorough	Barnet
+Kingsland, London	londonBorough	Hackney
+South Harrow	londonBorough	Harrow
+Maze Hill	londonBorough	Greenwich
+North Kensington	londonBorough	Kensington and Chelsea
+St Mary Cray	londonBorough	Bromley
+Ladywell	londonBorough	Lewisham
+West Kensington	londonBorough	Hammersmith and Fulham
+Barkingside	londonBorough	Redbridge
+Woodside, London	londonBorough	Croydon
+Fournier Street	londonBorough	Tower Hamlets
+Park Royal	londonBorough	Ealing
+Bowes Park	londonBorough	Haringey
+Bowes Park	londonBorough	Enfield
+Anerley	londonBorough	Bromley
+Joyden's Wood	londonBorough	Bexley
+St Paul's Cray	londonBorough	Bromley
+Sudbury, London	londonBorough	Brent
+Sudbury, London	londonBorough	Harrow
+Chelsea Harbour	londonBorough	Hammersmith and Fulham
+Southborough, Bromley	londonBorough	Bromley
+St Johns, London	londonBorough	Lewisham
+Telegraph Hill, Lewisham	londonBorough	Lewisham
+Crews Hill	londonBorough	Enfield
+Botany Bay, London	londonBorough	Enfield
+Shortlands	londonBorough	Bromley
+Brimsdown	londonBorough	Enfield
+Ealing Common	londonBorough	Ealing
+Gipsy Hill	londonBorough	London Borough of Lambeth
+Marks Gate	londonBorough	Barking and Dagenham
+Ponders End	londonBorough	Enfield
+Locksbottom	londonBorough	Bromley
+Temple Mills	londonBorough	Newham
+Barking Riverside	londonBorough	Barking and Dagenham
+Dagenham Dock	londonBorough	Barking and Dagenham
+Clay Hill, London	londonBorough	Enfield
+Brentham Garden Suburb	londonBorough	Ealing
+Pitshanger	londonBorough	Ealing
+Lower Marsh	londonBorough	Lambeth
+North Acton	londonBorough	Ealing
+West Acton	londonBorough	Ealing
+Dulwich Village	londonBorough	Southwark
+West Dulwich	londonBorough	Southwark
+West Dulwich	londonBorough	Lambeth
+Hackbridge	londonBorough	Sutton
+Headstone, London	londonBorough	Harrow
+Bassishaw	londonBorough	City of London
+Farringdon Within	londonBorough	City of London
+Farringdon Without	londonBorough	City of London
+Waterloo, London	londonBorough	Lambeth
+Bedford Park, London	londonBorough	Ealing
+Bedford Park, London	londonBorough	Hounslow
+Creekmouth	londonBorough	Barking and Dagenham
+Benhilton	londonBorough	Sutton
+Selhurst	londonBorough	Croydon
+Pollards Hill	londonBorough	Croydon
+Pollards Hill	londonBorough	Merton
+Longlands	londonBorough	Bexley
+Longlands	londonBorough	Bromley
+Longlands	londonBorough	Greenwich
+Ruxley	londonBorough	Bexley
+Green Street Green	londonBorough	Bromley
+Walham Green	londonBorough	Hammersmith and Fulham
+Kensal Town	londonBorough	Kensington and Chelsea
+Bread Street	londonBorough	City of London
+Finsbury Park, London	londonBorough	Hackney
+Finsbury Park, London	londonBorough	Haringey
+Finsbury Park, London	londonBorough	Islington
+Portsoken	londonBorough	City of London
+Cordwainer	londonBorough	City of London
+Broad Street	londonBorough	City of London
+Cheap	londonBorough	City of London
+Langbourn	londonBorough	City of London
+Candlewick	londonBorough	City of London
+Lime Street	londonBorough	City of London
+Northfields, London	londonBorough	Ealing
+Coleman Street	londonBorough	City of London
+Castle Baynard	londonBorough	City of London
+Bridge	londonBorough	City of London
+Vintry	londonBorough	City of London
+Queenhithe	londonBorough	City of London
+Tower	londonBorough	City of London
+Dowgate	londonBorough	City of London
+Broad Green, London	londonBorough	Croydon
+Merton Abbey, London	londonBorough	Merton
+North Cray	londonBorough	Bexley
+West Twyford	londonBorough	Ealing
+Leaves Green	londonBorough	Bromley
+Redbridge, London	londonBorough	Redbridge
+South Acton, London	londonBorough	Ealing
+Thames View Estate	londonBorough	Barking and Dagenham
+Fetter Lane	londonBorough	City of London
+Sundridge, London	londonBorough	Bromley
+Wallend	londonBorough	Newham
+Sudbury Hill	londonBorough	Harrow
+Arkley	londonBorough	Barnet
+Teddington	londonBorough	Richmond
+Pottery Lane	londonBorough	Royal Borough of Kensington and Chelsea
+Castle Green, London	londonBorough	Barking and Dagenham
+Plaistow, Bromley	londonBorough	Bromley
+Angel, London	londonBorough	Islington
+Elmers End	londonBorough	Bromley
+College Park, London	londonBorough	Hammersmith and Fulham
+Paddington Green, London	londonBorough	Westminster
+Bow Common	londonBorough	Tower Hamlets
+Plashet	londonBorough	Newham
+Mill Meads	londonBorough	Newham
+Lampton	londonBorough	Hounslow
+Brentford End	londonBorough	Hounslow
+Woodlands, London	londonBorough	Hounslow
+Grove Park, Hounslow	londonBorough	Hounslow
+St Ann's, London	londonBorough	Haringey
+Ramsden Estate	londonBorough	Bromley
+Rosehill, London	londonBorough	Sutton
+Southend, London	londonBorough	Lewisham
+Little Woodcote	londonBorough	Sutton
+Hale End	londonBorough	Waltham Forest
+New Era estate	londonBorough	London Borough of Hackney

@@ -1,0 +1,1868 @@
+Hoover Dam	damType	Concrete gravity-arch
+Kariba Dam	damType	Arch dam
+Dartmouth Dam	damType	E
+Three Gorges Dam	damType	G
+Itaipu Dam	damType	Combination gravity, buttress and embankment sections
+Aswan Dam	damType	Embankment
+Benmore Dam	damType	Earth-filled dam
+Detroit Dam	damType	Concrete gravity
+Dospat Reservoir	damType	Rock-fill with clay core
+Cardiff Bay Barrage	damType	B
+W. A. C. Bennett Dam	damType	Embankment dam
+Glen Canyon Dam	damType	Arch-gravity dam
+Grand Coulee Dam	damType	Concrete gravity
+Hume Dam	damType	G
+Bonneville Dam	damType	Concrete gravity, run-of-the-river
+Teton Dam	damType	E
+Clyde Dam	damType	Concrete gravity dam
+Akosombo Dam	damType	Embankment, rock-fill
+Garrison Dam	damType	Embankment, rolled earth-fill
+Warragamba Dam	damType	G
+Edersee Dam	damType	Gravity dam
+Glenbawn Dam	damType	E
+Eildon Dam	damType	E
+Sardar Sarovar Dam	damType	gravity dam, concrete
+Gardiner Dam	damType	Embankment dam
+Qu'Appelle River Dam	damType	Embankment dam
+Seven Oaks Dam	damType	Embankment
+Keepit Dam	damType	G
+Chief Joseph Dam	damType	Concrete-gravity, run-of-the-river
+McNary Dam	damType	Concrete gravity, run-of-the-river
+The Dalles Dam	damType	Concrete gravity, run-of-the-river
+John Day Dam	damType	Concrete gravity, run-of-the-river
+Shasta Dam	damType	Concrete gravity
+Kelly Barnes Dam	damType	Embankment dam
+Hoover Dam	damType	Embankment/Concrete gravity composite
+Vaal Dam	damType	G
+Kárahnjúkar Hydropower Plant	damType	Embankment, concrete-face rock-fill dams
+Pyramid Dam	damType	Embankment
+Koyna Dam	damType	Rubble-concrete dam
+Kurobe Dam	damType	Arch, variable-radius
+Grande Dixence Dam	damType	Gravity dam
+Roxburgh Dam	damType	Concrete gravity dam
+Bakun Dam	damType	Embankment, concrete face rock-fill
+Waranga Dam	damType	E
+Guri Dam	damType	Gravity/embankment
+Lake Overholser	damType	Poured concrete buttress
+Eufaula Lake	damType	Earthen embankment, concrete gravity composite
+Oroville Dam	damType	Rockfill embankment
+Bhote Koshi Power Plant	damType	Gravity
+Mangla Dam	damType	Embankment dam
+Prado Dam	damType	Earth-fill dam
+Tehri Dam	damType	Embankment, earth and rock-fill
+Fort Peck Dam	damType	Hydraulic earthfill
+Oahe Dam	damType	Flood control
+Oahe Dam	damType	Earth-fill dam
+Bagnell Dam	damType	Concrete gravity
+Wyangala Dam	damType	E
+Mactaquac Dam	damType	E
+Parker Dam	damType	Concrete gravity-arch
+Dez Dam	damType	Concrete arch dam
+Pacoima Dam	damType	arch
+Enguri Dam	damType	Arch dam
+Lake Parramatta	damType	A
+Lake Margaret Power Station	damType	G
+Kallanai Dam	damType	Composite Dam and Reservoir
+Nam Theun 2 Dam	damType	Gravity dam
+New Melones Dam	damType	Earth and rock embankment
+Burrendong Dam	damType	E
+Elephant Butte Dam	damType	Gravity
+Bhakra Dam	damType	Concrete gravity
+Don Pedro Dam	damType	Concrete thick arch/gravity
+Karun-3 Dam	damType	Arch dam
+Alqueva Dam	damType	Arch
+Friant Dam	damType	Concrete gravity
+Castaic Dam	damType	Earthfill
+Katse Dam	damType	A
+Lake Eppalock	damType	E
+Pine Flat Dam	damType	Concrete gravity
+San Luis Dam	damType	Embankment dam
+Panshet Dam	damType	Dam
+Stephens Creek Dam	damType	E
+Little Goose Dam	damType	Concrete-gravity, run-of-the-river
+Lower Granite Dam	damType	G
+Lower Monumental Dam	damType	Concrete gravity, run-of-the-river
+Ice Harbor Dam	damType	Concrete gravity, run-of-the-river
+Dworshak Dam	damType	G
+Hebgen Dam	damType	Concrete-core, earthen embankment
+Tabqa Dam	damType	Embankment dam
+Trinity Dam	damType	Earthfill
+Libby Dam	damType	Concrete gravity
+Usoi Dam	damType	Rockfill, landslide-created
+Balimela Reservoir	damType	Gravity and Masonry
+Jalaput Dam	damType	Earthen
+Batman Dam	damType	Embankment, earth and rock-fill
+Birecik Dam	damType	Gravity dam
+Karakaya Dam	damType	Arch-gravity dam
+Devegeçidi Dam	damType	Embankment, rock-fill
+Dicle Dam	damType	Embankment, earth-fill
+Karkamış Dam	damType	Embankment, concrete section
+Kralkızı Dam	damType	Embankment, rock-fill
+Ilısu Dam	damType	Embankment, concrete-face rock-fill
+Rindge Dam	damType	Concrete thin arch
+Nam Ngum Dam	damType	Gravity dam
+Midmar Dam	damType	C
+Link River Dam	damType	Gravity dam
+Crotty Dam	damType	E
+Somerset Dam	damType	G
+Hartbeespoort Dam	damType	A
+Neyyar Dam	damType	Gravity
+Idukki Dam	damType	Concrete, double curvature parabolic, thin arch.
+Plastiras Dam	damType	Concrete arch
+Pathfinder Dam	damType	Cyclopean masonry gravity arch
+Lake Chelan Dam	damType	Gravity structure
+Pejar Dam	damType	E
+Saluda Dam	damType	Embankment, earth-fill with RCC gravity toe
+Gariep Dam	damType	AG
+Glennies Creek Dam	damType	E
+Copeton Dam	damType	E
+Lostock Dam	damType	E
+Windamere Dam	damType	E
+Burrinjuck Dam	damType	G
+Liujiaxia Dam	damType	Gravity dam
+Blowering Dam	damType	E
+Kalabagh Dam	damType	Earthfill dam
+Hinze Dam	damType	E
+Wivenhoe Dam	damType	E
+Moogerah Dam	damType	A
+Googong Dam	damType	E
+Gavins Point Dam	damType	Embankment, rolled-earth and chalk-fill
+Cataract Dam	damType	G
+Tallowa Dam	damType	G
+Woronora Dam	damType	G
+Geheyan Dam	damType	Arch-gravity dam
+Longtan Dam	damType	Gravity
+Flaming Gorge Dam	damType	Concrete thin arch
+Tinaroo Dam	damType	G
+Theodore Roosevelt Dam	damType	AG
+Jindabyne Dam	damType	E
+Eucumbene Dam	damType	E
+Gomal Zam Dam	damType	Curved gravity, roller-compacted concrete
+Contra Dam	damType	Arch dam
+Bureya Dam	damType	Gravity dam
+New Waddell Dam	damType	Embankment, zoned earth-fill
+Stewart Mountain Dam	damType	A
+Laguna Diversion Dam	damType	Rock-fill weir, concrete surface
+Shadow Mountain Dam	damType	Zoned earth-fill
+Granby Dam	damType	Earthfill
+Mirani Dam	damType	Concrete-faced rock-filled
+Kardzhali Reservoir	damType	AG
+Leslie Harrison Dam	damType	E
+King Talal Dam	damType	Earthfill
+Robert-Bourassa generating station	damType	Embankment dam
+La Grande-1 generating station	damType	B
+Krasnoyarsk Dam	damType	Gravity dam
+Hirakud Dam	damType	Composite Dam and Reservoir
+Los Molinos Dam	damType	Arch
+Mtera Dam	damType	Dam
+Satpara Dam	damType	Concrete-faced earth-filled
+Maroon Dam	damType	E
+Rance Tidal Power Station	damType	B
+Diamer-Bhasha Dam	damType	Gravity, roller-compacted concrete
+Cochrane Dam	damType	E
+North Pine Dam	damType	G
+Robert Moses Niagara Power Plant	damType	G
+Tooma Dam	damType	E
+Mangrove Creek Dam	damType	E
+Blue Mesa Dam	damType	Zoned earthfill
+Morrow Point Dam	damType	Concrete thin arch
+Crystal Dam	damType	Concrete thin arch
+Kidatu Dam	damType	Dam
+Kihansi Dam	damType	G
+Simly Dam	damType	Embankment
+Eildon Hydroelectric Power Station	damType	E
+Baglihar Dam	damType	Gravity
+Clark Canyon Dam	damType	Earthfill
+Bastyan Power Station	damType	E
+Mackintosh Power Station	damType	E
+Reece Power Station	damType	E
+Tribute Power Station	damType	E
+Safe Harbor Dam	damType	Gravity
+Mratinje Dam	damType	Arch, double-curvature
+Quebrada de Ullúm Dam	damType	Embankment, earth and rock-fill
+Piedra del Águila Dam	damType	Gravity, concrete
+Pichi Picún Leufú Dam	damType	Embankment dam
+Tajewala Barrage	damType	Embankment, earth-fill
+Darwin Dam	damType	E
+Burdekin Dam	damType	G
+Campos Novos Dam	damType	Embankment dam
+Prospect Reservoir	damType	E
+Coolidge Dam	damType	A
+Alameda Dam	damType	Embankment dam
+Little Nerang Dam	damType	G
+Mullaperiyar Dam	damType	Gravity dam
+Srisailam Dam	damType	Earth-fill dam
+Srisailam Dam	damType	Gravity dam
+Bhavanisagar dam	damType	Earthen dam
+William Hovell Dam	damType	E
+Wayatinah Power Station	damType	E
+Liapootah Power Station	damType	G
+Catagunya Power Station	damType	G
+Meadowbank Power Station	damType	B
+Cluny Power Station	damType	A
+Butlers Gorge Power Station	damType	A
+Repulse Power Station	damType	A
+Tungatinah Power Station	damType	E
+Lake Echo Power Station	damType	E
+Poatina Power Station	damType	E
+Cethana Power Station	damType	E
+Rowallan Power Station	damType	E
+Devils Gate Power Station	damType	A
+Lemonthyme Power Station	damType	E
+Paloona Power Station	damType	E
+Trevallyn Power Station	damType	G
+Gordon Power Station	damType	A
+Wilmot Power Station	damType	E
+Fisher Power Station	damType	A
+Parambikulam Dam	damType	Embankment dam
+Scrivener Dam	damType	G
+Nathpa Jhakri Dam	damType	Concrete gravity
+Hàm Thuận – Đa Mi hydroelectric power stations	damType	Rockfill, center impervious core
+Hàm Thuận – Đa Mi hydroelectric power stations	damType	Rockfill
+Lake Davis	damType	Earth and rock
+Diablo Dam	damType	Concrete arch-gravity
+Bhatsa Dam	damType	Dam
+Gökçekaya Dam	damType	Arch
+Sarıyar Dam	damType	Concrete gravity
+Sır Dam	damType	Concrete arch
+Ah Pah Dam	damType	Concrete thick arch
+Thomson Dam	damType	E
+Stratos Dam	damType	Embankment, earth-fill
+Hungry Horse Dam	damType	Concrete thick arch dam
+Silvan Dam	damType	Embankment, concrete-face rock-fill
+Yonki Dam	damType	Embankment
+Ross River Dam	damType	E
+Los Reyunos Dam	damType	Embankment
+Kaptai Dam	damType	Embankment
+Navajo Dam	damType	Rolled earthfill embankment
+Morbe Dam	damType	Dam
+Nillahcootie Dam	damType	E
+Rocky Creek Dam	damType	E
+Tillari	damType	Dam
+Solina Dam	damType	Gravity
+Toktogul Dam	damType	Gravity dam
+The Barrier	damType	Lava dam
+Jackson Lake Dam	damType	Concrete gravity with earth embankment wings
+Kurpsai Dam	damType	Gravity
+Belo Monte Dam	damType	Composite
+Gosling Creek Dam	damType	E
+Suma Park Dam	damType	A
+Spring Creek Dam	damType	E
+Bendora Dam	damType	A
+Yellowtail Dam	damType	Concrete arch-gravity
+Vanderkloof Dam	damType	A
+Boundary Dam	damType	Arch-gravity dam
+Supa Dam	damType	Concrete gravity
+Teragaike	damType	Embankment dam
+Alta Hydroelectric Power Station	damType	Arch
+Pa Sak Jolasid Dam	damType	Embankment, earth-fill
+Bui Dam	damType	Gravity, roller-compacted concrete
+Terminus Dam	damType	Earthfill
+Tantangara Dam	damType	G
+Péligre Dam	damType	Gravity
+Auburn Dam	damType	Concrete gravity-arch
+Denison Dam	damType	Earth-fill embankment
+Lake Cascade	damType	Zoned earthfill
+Cardinia Reservoir	damType	E
+Panchet Dam	damType	Earthen Dam with concrete Spillway
+Tokuyama Dam	damType	Embankment, rock-fill
+Rappbode Dam	damType	Gravity dam
+Kenney Dam	damType	Rockfill
+Croton Dam	damType	Embankment, earth-fill
+Mauvoisin Dam	damType	Concrete variable radius arch
+Split Rock Dam	damType	E
+Pindari Dam	damType	E
+Talbingo Dam	damType	E
+Chaffey Dam	damType	E
+Chichester Dam	damType	G
+Ujjani Dam	damType	Composite: Earthfill/Gravity
+Nandoni Dam	damType	earth-fill, concrete
+Ambuklao Dam	damType	Embankment dam
+Hōnen'ike Dam	damType	Multi-arch
+Waghur Dam	damType	Dam
+Horse Mesa Dam	damType	Concrete thin arch
+Bartlett Dam	damType	Concrete, multiple-arch buttress
+Mohale Dam	damType	Embankment, concrete faced rock-fill
+Mosul Dam	damType	Embankment, earth-fill clay-core
+Alcántara Dam	damType	Buttress
+Sayano–Shushenskaya Dam	damType	Arch-gravity dam
+Tumut Pond Dam	damType	A
+Caruachi Dam	damType	Concrete gravity dam/embankment
+Șugag Dam	damType	Arch dam
+Tiber Dam	damType	Embankment, zoned earth-fill
+Zhiguli Hydroelectric Station	damType	Embankment dam
+Sideling Creek Dam	damType	E
+Atkinson Dam	damType	E
+Cooby Dam	damType	E
+Fairbairn Dam	damType	E
+Borumba Dam	damType	E
+Wappa Dam	damType	G
+Enoggera Dam	damType	Clay cored earthfill dam
+Gold Creek Dam	damType	E
+E.J. Beardmore Dam	damType	E
+Bill Gunn Dam	damType	E
+Poona Dam	damType	E
+Lake Clarendon Dam	damType	E
+Ewen Maddock Dam	damType	E
+Baroon Pocket Dam	damType	E
+Koombooloomba Dam	damType	G
+Splityard Creek Dam	damType	E
+Bromelton Dam	damType	E
+Xiluodu Dam	damType	Double-curvature arch, concrete
+Paradise Dam	damType	G
+Cedar Pocket Dam	damType	E
+Coolmunda Dam	damType	E
+Lake Manchester Dam	damType	G
+Six Mile Creek Dam	damType	E
+Yusufeli Dam	damType	Arch, double-curvature
+Xiaolangdi Dam	damType	Embankment, rock-fill
+Tallebudgera Creek Dam	damType	E
+Tucuruí Dam	damType	Concrete gravity
+Wyaralong Dam	damType	G
+Connolly Dam	damType	E
+Southedge Dam	damType	E
+Conklingville Dam	damType	F
+Ibis Dam	damType	Mass Concrete Gravity
+Buffalo Bill Dam	damType	Concrete gravity arch
+Vajiralongkorn Dam	damType	Embankment, concrete-face rock-fill
+Xiangjiaba Dam	damType	Gravity
+Laxiwa Dam	damType	Arch dam
+Nuozhadu Dam	damType	Embankment, central core, rock-fill
+Pubugou Dam	damType	Embankment, concrete face rock-fill
+Goupitan Dam	damType	Arch dam
+Xiaowan Dam	damType	Arch, double-curvature
+Guandi Dam	damType	Gravity, roller-compacted concrete
+Wudongde Dam	damType	Gravity
+Baihetan Dam	damType	double-curvature arch dam
+Ertan Dam	damType	Arch
+El Cajón Dam	damType	Concrete-face \nrock-fill
+Sierra Madre Dam	damType	arch dam
+Victoria Dam	damType	Arch-gravity dam
+Jayakwadi Dam	damType	Earthen dam
+Gordon Dam	damType	A
+Prakasam Barrage	damType	B
+Bakhtiari Dam	damType	Arch
+Magat Dam	damType	Embankment dam
+Perunchani Dam	damType	Straight Gravity Masonry dam with concrete Spillway
+Carillon Generating Station	damType	B
+Kouga Dam	damType	arch
+Scotts Peak Dam	damType	E
+Serpentine Dam	damType	E
+Edgar Dam	damType	E
+Almendra Dam	damType	Arch with buttress section
+Shahid Abbaspour Dam	damType	Arch dam
+Dniester Hydroelectric Station	damType	G
+Steenbras Dam	damType	Gravity dam
+Seyhan Dam	damType	Embankment
+Cannelton Locks and Dam	damType	Concrete fixed weir with tainter gate
+Eufaula Dam	damType	Earthen embankment, concrete gravity composite
+Kaligandaki A Hydroelectric Power Station	damType	Concrete gravity
+Sterkfontein Dam	damType	F
+Spioenkop Dam	damType	F
+Manwan Dam	damType	Gravity
+Mossyrock Dam	damType	Concrete, arch-gravity
+Ranjit Sagar Dam	damType	Embankment, earth-fill
+Lucky Peak Dam	damType	E
+Arrowrock Dam	damType	A
+Maroondah Dam	damType	Cyclopean Concrete Gravity Dam
+Shintoyone Dam	damType	Arch dam
+Aburagi Dam	damType	Concrete gravity dam
+Miboro Dam	damType	Embankment, rock-fill
+Ōi Dam	damType	Gravity dam
+Agigawa Dam	damType	Central rock-filled impermeable embankment dam
+Sakaigawa Dam	damType	Gravity
+Aimata Dam	damType	Concrete gravity dam
+Fujiwara Dam	damType	Concrete gravity
+Tamahara Dam	damType	Embankment, rock-fill
+Surikamigawa Dam	damType	E
+Taki Dam	damType	Concrete gravity
+Site C dam	damType	Embankment dam
+Rietvlei Dam	damType	earth-fill
+Kilburn Dam	damType	earth-fill
+Fierza Hydroelectric Power Station	damType	Embankment dam
+Koman Hydroelectric Power Station	damType	Embankment dam
+Mingachevir Dam	damType	Embankment, earth-fill
+Tsankov Kamak Hydro Power Plant	damType	Double curvature arch concrete dam
+Khudoni Hydro Power Plant	damType	concrete double-arch-gravity dam
+Tikveš Hydroelectric Power Station	damType	Embankment, rock-fill
+Kozjak Hydro Power Plant	damType	Embankment, rock-fill
+Canyon Ferry Dam	damType	Gravity
+Turkwel Hydroelectric Power Station	damType	Arch
+Kiambere Hydroelectric Power Station	damType	Embankment, earth-fill
+Gitaru Hydroelectric Power Station	damType	Embankment
+Kamburu Dam	damType	Embankment
+Hardy Dam	damType	Embankment, earth-fill
+Karapiro Power Station	damType	A
+Roodeplaat Dam	damType	A
+Darbandikhan Dam	damType	Embankment; rock-fill, central clay core
+Dukan Dam	damType	Cylindrical arch
+Susitna Hydroelectric Project	damType	Concrete arch
+Mammoth Pool Dam	damType	Rockfill
+Zhinvali Dam	damType	Pebble-fill dam
+Zipingpu Dam	damType	Embankment, concrete-face rock-fill
+Sylvenstein Dam	damType	Embankment dam
+Salime Reservoir	damType	Gravity dam
+Chulabhorn Dam	damType	Earth core rockfill dam
+Von Bach Dam	damType	Embankment, rock-fill
+Swakoppoort Dam	damType	Surface reservoir
+Fontenelle Dam	damType	Zoned earthfill
+Friedenau Dam	damType	Gravity concrete
+Fortuna Dam	damType	Embankment
+Gangrel Dam	damType	Embankment, earth-fill
+Bujagali Hydroelectric Power Station	damType	Gravity dam
+Murum Dam	damType	Gravity, roller-compacted concrete
+Maguga Dam	damType	earth-fill/rock-fill
+Maraetai Power Station	damType	A
+New Hogan Dam	damType	Embankment
+Emmarentia Dam	damType	F
+Tipaimukh Dam	damType	Embankment, rock-fill
+Victoria Dam	damType	A
+Samanala Dam	damType	E
+Clarrie Hall Dam	damType	E
+Toonumbar Dam	damType	E
+Lake Sibinacocha	damType	Earthen dam
+Otter Rapids Generating Station	damType	E
+New Exchequer Dam	damType	Concrete–faced rockfill
+Kaeng Suea Ten Dam	damType	Embankment, earth-fill clay-core
+Gilgel Gibe I Dam	damType	Embankment, rock-fill
+Cambambe Hydroelectric Power Station	damType	A
+Buyo Dam	damType	Embankment, earth and rock-fill
+Kossou Dam	damType	Embankment, earth and rock-fill
+Sangtuda 2 Hydroelectric Power Plant	damType	Earth fill dam with clay core
+Dul Hasti Hydroelectric Plant	damType	Gravity
+Boguchany Dam	damType	Combined gravity and rock-fill dam
+Idriss I Dam	damType	Gravity
+Nilwande Dam	damType	RCC
+Shihmen Dam	damType	Rolled rockfill
+Whiskeytown Dam	damType	Embankment
+Acaray Dam	damType	Gravity dam
+Daniel-Johnson Dam	damType	Concrete, multiple-arch buttress
+Badush Dam	damType	Gravity with earthen sections
+Adhaim Dam	damType	Embankment, zoned earth-fill
+Cizre Dam	damType	Embankment, earth-fill
+Aslantaş Dam	damType	Rock-filled
+Tocoma Dam	damType	Composite, rock-fill/gravity
+Gilgel Gibe III Dam	damType	Gravity, roller compacted concrete
+Söse Dam	damType	Embankment dam
+Blue Rock Dam	damType	E
+Ahai Dam	damType	Gravity
+Mandelholz Dam	damType	Embankment dam
+Wippra Dam	damType	Gravity dam
+Pantabangan Dam	damType	Embankment, earth-fill
+Caliraya Dam	damType	E
+Binga Dam	damType	Storage, Earth and Rock fill
+Harbaqa Dam	damType	G
+Akköprü Dam	damType	Embankment
+Atasu Dam	damType	Embankment, concrete-face rock-fill
+Alpaslan-1 Dam	damType	Embankment, rock/sand fill with clay core
+Alaçatı Dam	damType	Gravity
+Sathanur Dam	damType	Gravity dam
+Krishnagiri Dam	damType	Gravity dam
+Ecker Dam	damType	Gravity dam
+Tekezé Dam	damType	A
+Mount Crosby Weir	damType	Weir
+Paute Dam	damType	Arch-gravity dam
+Feitsui Dam	damType	Concrete arch
+Mingtan Dam	damType	Concrete gravity
+John H. Kerr Dam	damType	Concrete gravity
+Loharinag Pala Hydro Power Project	damType	Weir
+Bridgeport Reservoir	damType	Earth
+Berg River Dam	damType	E
+Bailey's Dam	damType	Rock-crib
+Smith Mountain Dam	damType	Concrete arch
+Zernek Dam	damType	Embankment, rock-fill with clay core
+Çat Dam	damType	Embankment
+Çubuk-1 Dam	damType	Concrete gravity
+Göksu Dam	damType	Embankment, rock-fill
+Gördes Dam	damType	Embankment, concrete-face rock-fill
+Deriner Dam	damType	Concrete double curvature arch
+Gezende Dam	damType	Concrete arch
+Dim Dam	damType	Embankment, concrete-face rock-fill
+Ermenek Dam	damType	Arch, double-curvature
+Dilimli Dam	damType	Embankment, rock-fill clay-core
+Çınarcık Dam	damType	Embankment, rock-fill
+Erzincan Dam	damType	Embankment, earth-fill
+Kığı Dam	damType	Embankment, rock-fill
+Kürtün Dam	damType	Embankment, concrete-face rock-fill
+Marmaris Dam	damType	Embankment, concrete-face rock-fill
+Palandöken Dam	damType	Embankment, rock-fill with clay-core
+Torul Dam	damType	Embankment, concrete-face rock-fill
+Uzunçayır Dam	damType	Embankment, clay-core sand-gravel fill
+Sazlıdere Dam	damType	A
+Bloemhof Dam	damType	Concrete gravity with earth flanks
+Woodstock Dam	damType	F
+Allemanskraal Dam	damType	G
+Albert Falls Dam	damType	F
+Bivane Dam	damType	A
+Armenia Dam	damType	F
+Bon Accord Dam	damType	F
+Blyderivierpoort Dam	damType	AG
+Boegoeberg Dam	damType	G
+Bospoort Dam	damType	C
+Brandvlei Dam	damType	F
+Bronkhorstspruit Dam	damType	A
+Bridle Drift Dam	damType	rockfill
+Boskop Dam	damType	F
+Buffeljags Dam	damType	C
+Kromme Dam	damType	multi-arch
+Ceres Koekedouw Dam	damType	rockfill
+Doorndraai Dam	damType	buttress
+Clanwilliam Dam	damType	G
+Darlington Dam	damType	G
+Craigie Burn Dam	damType	arch, earth-fill
+Driekoppies Dam	damType	gravity, earth-fill
+Ebenezer Dam	damType	F
+Eikenhof Dam	damType	earth-fill
+Elandskloof Dam	damType	G
+Erfenis Dam	damType	F
+Egmont Dam	damType	arch
+Hellsgate Dam	damType	F
+Glen Alpine Dam	damType	gravity & earth-fill
+Greater Brandvlei Dam	damType	earth-fill
+Grootdraai Dam	damType	C
+Impofu Dam	damType	F
+Heyshope Dam	damType	zoned earth-fill
+Goedertrouw Dam	damType	earth-fill
+Keerom Dam	damType	arch
+Kalkfontein Dam	damType	rockfill
+Klipberg Dam	damType	A
+Metz Dam	damType	F
+Klipdrif Dam	damType	F
+Knellpoort Dam	damType	gravity & arch
+Klerkskraal Dam	damType	AG
+Inanda Dam	damType	F
+Luphephe Dam	damType	arch
+Lubisi Dam	damType	A
+Koppies Dam	damType	gravity & arch
+Kwena Dam	damType	AG
+Loskop Dam	damType	AG
+Mokolo Dam	damType	rockfill
+Molatedi Dam	damType	earth-fill
+Lakenvallei Dam	damType	gravity & arch
+Misverstand Dam	damType	gravity & arch
+Mutshedzi Dam	damType	gravity
+Kogelberg Dam	damType	gravity & arch
+Nagle Dam	damType	Mass Concrete
+Middle Letaba Dam	damType	earth-fill
+Nooitgedacht Dam	damType	F
+Nzhelele Dam	damType	A
+Nwanedi Dam	damType	arch
+Ncora Dam	damType	G
+Ohrigstad Dam	damType	rockfill
+Ntshingwayo Dam	damType	AG
+Rietspruit Dam	damType	F
+Qedusizi Dam	damType	earth-fill
+Xonxa Dam	damType	composite zoned earthfill/rockfill
+Witbank Dam	damType	buttress
+Wemmershoek Dam	damType	earth-fill
+Welbedacht Dam	damType	concrete gravity
+Theewaterskloof Dam	damType	F
+Stettynskloof Dam	damType	earth-fill, rock-fill
+Spitskop Dam	damType	F
+Rhenosterkop Dam	damType	AG
+Zaaihoek Dam	damType	gravity
+Woodhead Dam	damType	Dam
+Wagendrift Dam	damType	Multi-arch
+Pongolapoort Dam	damType	A
+Pietersfontein Dam	damType	A
+Poortjieskloof Dam	damType	double curvature arch
+Tianshengqiao-I Dam	damType	Embankment, concrete face rock-fill
+Iran–Turkmenistan Friendship Dam	damType	Embankment, earth-fill
+Richard B. Russell Dam	damType	Embankment, concrete-gravity
+Oder Dam	damType	Embankment dam
+Bongolo Dam	damType	mass concrete
+Kommandodrif Dam	damType	earth-fill/rock-fill
+Zillierbach Dam	damType	Gravity dam
+Santa Fe Dam	damType	Earthfill
+Lower Baker Dam	damType	Concrete thick-arch
+Buffelspoort Dam	damType	A
+Bloemhoek Dam	damType	earth-fill
+Da Gama Dam	damType	earth-fill, gravity
+Binfield Park Dam	damType	G
+Boschmanskop No 1 Dam	damType	F
+Damani Dam	damType	earthfill
+Disaneng Dam	damType	earthfill
+Doring River Dam	damType	earthfill
+Fika-Patso Dam	damType	F
+Gamkapoort Dam	damType	gravity
+Floriskraal Dam	damType	gravity/buttress
+Gathright Dam	damType	Embankment, rock-fill
+Grassridge Dam	damType	F
+Groendal Dam	damType	arch
+Hazelmere Dam	damType	concrete gravity
+Injaka Dam	damType	F
+Jericho Dam	damType	C
+Kammanassie Dam	damType	gravity
+Katrivier Dam	damType	multi-arch
+Klipkopjes Dam	damType	F
+Klipvoor Dam	damType	G
+Kromfonteinlower	damType	rockfill
+Bakolori Dam	damType	Earth-fill embankment
+Kromfontein Middle Cofferdam	damType	earthfill
+Krugerdrift Dam	damType	AG
+Laing Dam	damType	gravity
+Lake Arthur Dam	damType	F
+Leeu-Gamka Dam	damType	earth-fill
+Lindleyspoort Dam	damType	concrete arch
+Manjirenji Dam	damType	Rockfill dam with inclined clay core
+Madikwe Dam	damType	earth-fill
+Makuleke Dam	damType	earth-fill
+Marico-Bosveld Dam	damType	Homogenous earth-fill
+Modderpoort Dam	damType	buttress & earth-fill
+Morgenstond Dam	damType	earth-fill
+Mthatha Dam	damType	F
+Nahoon Dam	damType	G
+Portugués Dam	damType	roller-compacted concrete thick arch dam
+Limón Dam	damType	Embankment, concrete-face rock-fill
+Kelbra Dam	damType	Embankment dam
+Cotter Dam	damType	G
+Ngodwana Dam	damType	earth-fill
+Ngotwane Dam	damType	earth-fill
+Myitsone Dam	damType	Dam
+Nayka Dam	damType	Earthen
+Nqweba Dam	damType	earth-fill
+Olifantsnek Dam	damType	A
+Oudebaaskraal Dam	damType	F
+Rockview Dam	damType	F
+Roodekoppies Dam	damType	concrete gravity
+Rustfontein Dam	damType	gravity
+Sandile Dam	damType	zoned embankment
+Setumo Dam	damType	earth-fill
+Slangdraai Dam	damType	earth-fill
+Smartt Dam	damType	earth-fill
+Sol Plaatje Dam	damType	earth-fill
+Steenbras Dam – Upper	damType	Dam
+Taung Dam	damType	gravity
+Stompdrift Dam	damType	multi-arch, gravity
+Trichardtsfontein Dam	damType	earth-fill
+Tsojana Dam	damType	earth-fill
+Vaal Barrage	damType	B
+Waterdown Dam	damType	F
+Tweedraai Dam	damType	earth-fill
+Vondo Dam	damType	earth-fill
+Westoe Dam	damType	concrete-gravity
+Witklip Dam	damType	gravity, arch
+Wolwedans Dam	damType	Arch-gravity
+Wriggleswade Dam	damType	AG
+Yeywa Dam	damType	Gravity, roller-compacted concrete
+Salma Dam	damType	Embankment, earth and rock-fill
+Moran Dam	damType	Concrete thick arch
+Masjed Soleyman Dam	damType	Rockfill dam
+Jiangxia Tidal Power Station	damType	B
+E.B. Campbell Hydroelectric Station	damType	Embankment dam
+Hòa Bình Dam	damType	E
+Dibang Dam	damType	Concrete gravity
+Tala Hydroelectric Power Station	damType	Gravity
+Shahid Rajaee Dam	damType	Arch, variable-radius
+Kouhrang 2 Hydroelectric Power Station	damType	Embankment, earth-fill
+Piran Dam	damType	Stone and concrete
+Rudbar Lorestan Dam	damType	Gravity, roller-compacted concrete
+Seimare Dam	damType	Arch, variable-radius
+Zayanderud Dam	damType	Arch
+Sefidrud Dam	damType	Buttress
+Khoda Afarin Dam	damType	Embankment, earth-fill
+Upper Gotvand Dam	damType	Earthfill dam
+Marun Dam	damType	Embankment, rock-fill
+Khersan-3 Dam	damType	Arch, double-curvature
+Gavoshan Dam	damType	Embankment, rock-fill
+Tarik Dam	damType	Barrage, concrete with embankment wing dams
+Subansiri Lower Dam	damType	Concrete gravity
+Rangit Dam	damType	Concrete Gravity
+Tilaiya Dam	damType	Concrete gravity dam
+John W. Flannagan Dam	damType	Earth fill
+Beauharnois Hydroelectric Generating Station	damType	Gravity dam
+La Grange Dam	damType	Masonry-gravity
+Hope Mills Dam	damType	Concrete gravity
+Laurel Run Dam	damType	Earthen embankment
+Salmon Creek Dam	damType	Constant-angle concrete arch dam
+Kurit Dam	damType	Arch, masonry
+Kebar Dam	damType	Arch, masonry
+Jawa Dam	damType	Gravity, masonry
+Sadd el-Kafara	damType	Embankment, masonry
+Searsville Dam	damType	Masonry
+Aldeadávila Dam	damType	Concrete
+Aldeadávila Dam	damType	Arch-gravity dam
+Aldeadávila Dam	damType	Pumped-storage hydroelectricity
+Delhi Dam	damType	Embankment, concrete outlet section
+San Vicente Dam	damType	Concrete gravity
+Upper Kotmale Dam	damType	G
+San Gabriel Dam	damType	Rock-fill
+Santa Anita Dam	damType	Concrete thin arch
+Ben Chifley Dam	damType	E
+Gileppe Dam	damType	Gravity dam
+Outardes-3	damType	Concrete, gravity
+Outardes-4	damType	Embankment dam
+Carbon Canyon Dam	damType	Earth
+Carcoar Dam	damType	A
+Ranganadi Dam	damType	Concrete gravity, diversion
+Zangmu Dam	damType	Gravity, concrete
+Farkhad Dam	damType	Concrete gravity-arch dam
+Ust-Ilimsk Hydroelectric Power Station	damType	Concrete, gravity
+Irkutsk Hydroelectric Power Station	damType	Rock-fill, embankment
+Ilha Solteira Dam	damType	Embankment, concrete portion
+Xingó Dam	damType	Concrete face, rock-fill
+Luiz Gonzaga Dam	damType	Embankment, earth and rock-fill
+O'Shannassy Reservoir	damType	E
+José Richa Hydroelectric Plant	damType	Gravity, roller-compacted concrete
+Bento Munhoz Hydroelectric Plant	damType	Embankment; concrete face, rock-fill
+Churchill Falls Generating Station	damType	88
+Ney Braga Hydroelectric Plant	damType	Embankment; concrete face, rock-fill
+Salto Santiago Hydroelectric Power Plant	damType	Embankment, rock-fill
+Salto Osório Hydroelectric Power Plant	damType	Embankment, rock-fill
+Itá Hydroelectric Power Plant	damType	Embankment, concrete face rock-fill
+Machadinho Hydroelectric Power Plant	damType	Embankment, concrete face rock-fill
+Barra Grande Hydroelectric Power Plant	damType	Embankment, concrete face rock-fill
+Eng Sérgio Motta Dam	damType	Embankment, concrete portion
+Bersimis-1 generating station	damType	Gravity dam
+Itumbiara Dam	damType	Embankment
+Serra da Mesa Dam	damType	Embankment
+Marimbondo Dam	damType	Embankment
+Água Vermelha Dam	damType	Embankment, concrete portion
+Engineer Souza Dias Dam	damType	Embankment, concrete portion
+Luiz Barreto Dam	damType	Embankment
+São Simão Dam	damType	Embankment, concrete portion
+Emborcação Dam	damType	Embankment
+Molteno Dam	damType	F
+Mandohol Dam	damType	Earth-fill
+Gandō Dam	damType	Rock-fill dam
+Gosho Dam	damType	Gravity concrete & fill dam
+Ishibuchi Dam	damType	Embankment, rock-fill
+Hayachine Dam	damType	Concrete gravity dam
+Isawa Dam	damType	Embankment, rock-fill
+Shijūshida Dam	damType	Concrete gravity dam
+Bersimis-2 generating station	damType	Gravity dam
+Großer Brombachsee	damType	Gravity dam
+Tikhol Dam	damType	Earth-fill
+Palashi Dam	damType	Earth-fill
+Hanga Dam	damType	Earth-fill
+Rui Chatrapati Dam	damType	Earth-fill
+Dhoki Dam	damType	Earth-fill
+Lonimavla Dam	damType	Earth-fill
+Al-Wehda Dam	damType	Roller-compacted concrete
+Três Marias Dam	damType	Embankment
+Aburumagawa Dam	damType	Concrete gravity
+Dhamapur Dam	damType	Dam
+Totladoh Dam	damType	Dam
+Wan Dam, Akola	damType	Dam
+Wan Dam, Ambejogai	damType	Dam
+Bham Dam	damType	Dam
+Dimbhe Dam	damType	Dam
+Chilewadi Dam	damType	Dam
+Berdewadi Dam	damType	Dam
+Thokarwadi Dam	damType	Dam
+Mahamadwadi Dam	damType	Dam
+Vihar Dam	damType	Dam
+Shirsufal Dam	damType	Dam
+Tulshi Dam	damType	Dam
+Ashti Dam, Mohol	damType	Dam
+Ekrukh Dam	damType	Dam
+Mhaswad Dam	damType	Dam
+Tansa Dam	damType	Dam
+Pathari Dam	damType	Dam
+Chandpur Dam	damType	Dam
+Shetfal Dam	damType	Dam
+Khairbandha Dam	damType	Dam
+Chankapur Dam	damType	Dam
+Walwan Dam	damType	Dam
+Darna Dam	damType	Dam
+Ramtek Dam	damType	Dam
+Bodalkasa Dam	damType	Dam
+Shirvata Dam	damType	Dam
+Asolamendha Dam	damType	Dam
+Chorkhamara Dam	damType	Dam
+Ghorazari Dam	damType	Dam
+Ghanewadi Dam	damType	Dam
+Visapur Dam	damType	Dam
+Mas Dam	damType	Dam
+Radhanagari Dam	damType	Dam
+Bhatghar Dam	damType	Dam
+Vaitarna Dam	damType	Dam
+Purmepeda Dam	damType	Dam
+Khasapur Dam	damType	Dam
+Dheku Dam	damType	Dam
+Sindphana Dam	damType	Dam
+Khelocala Dam	damType	Dam
+Upper Dudhana Dam	damType	Dam
+Harni Dam	damType	Dam
+Ekburji Dam	damType	Dam
+Gangapur Dam	damType	Dam
+Chandani Dam	damType	Dam
+Wunna Dam	damType	Dam
+Ghod Dam	damType	Dam
+Galhati Dam	damType	Dam
+Bor Dam	damType	Dam
+Tisangi Dam	damType	Dam
+Mangi Dam, India	damType	Dam
+Mehakari Dam	damType	Dam
+Bhudihal Dam	damType	Dam
+Pandherbodi Dam	damType	Dam
+Manar Dam	damType	Dam
+Sukhana Dam	damType	Dam
+Kurnur Dam	damType	Dam
+Nawegaonbandh Dam	damType	Dam
+Nalganga Dam	damType	Dam
+Yeldari Dam	damType	Dam
+Kurje Dam	damType	Dam
+Dolwahal Dam	damType	Dam
+Girna Dam	damType	Dam
+Gharni Dam	damType	Dam
+Siddheshwar Dam	damType	Dam
+Malangaon Dam	damType	Dam
+Kundrala Dam	damType	Dam
+Karwand Dam	damType	Dam
+Itiadoh Dam	damType	Dam
+Terna Dam	damType	Dam
+Pujaritola Dam	damType	Dam
+Sirpur Dam	damType	Dam
+Gyanganga Dam	damType	Dam
+Morna Gureghar Dam	damType	Dam
+Upper Pus Dam	damType	Dam
+Mula Dam	damType	Dam
+Kalyangirija Dam	damType	Dam
+Saikheda Dam	damType	Dam
+Yeralwadi Dam	damType	Dam
+Upper Vaitarana Dam	damType	Dam
+Malkhed Dam	damType	Dam
+Panzara Dam	damType	Dam
+Bhojapur Dam	damType	Dam
+Manyad Dam	damType	Dam
+Dhamna Dam	damType	Dam
+Dina Dam	damType	Dam
+Chulbandh Dam	damType	Dam
+Kanoli Dam	damType	Dam
+Karanjwan Dam	damType	Dam
+Nazare Dam	damType	Dam
+Katepurna Dam	damType	Dam
+Karpara Dam	damType	Dam
+Nirguna Dam	damType	Dam
+Alwandi Dam	damType	Dam
+Kanholibara Dam	damType	Dam
+Palkhed Dam	damType	Dam
+Tiru Dam	damType	Dam
+Adhala Dam	damType	Dam
+Garbaldi Dam	damType	Dam
+Jakapur Dam	damType	Dam
+Kamthikhairy Dam	damType	Dam
+Pargaon Ghatshil Dam	damType	Dam
+Dhom Dam	damType	Dam
+Hingani Dam	damType	Dam
+Yedgaon Dam	damType	Dam
+Bori Dam	damType	Dam
+Adan Dam	damType	Dam
+Januna Dam	damType	Dam
+Matoba Dam	damType	Dam
+Makardhokada Dam	damType	Dam
+Khandeshar Dam	damType	Dam
+Ambadi Dam	damType	Dam
+Barvi Dam	damType	Dam
+Karadkhed Dam	damType	Dam
+Waghadi Dam	damType	Dam
+Aner Dam	damType	Dam
+Waghad Dam	damType	Dam
+Kawadas Dam	damType	Dam
+Koradi Dam	damType	Dam
+Pethwadaj Dam	damType	Dam
+Haranbari Dam	damType	Dam
+Raigavan Dam	damType	Dam
+Kundlika Dam	damType	Dam
+Kalyan Dam	damType	Dam
+Wandri Dam	damType	Dam
+Sina Dam	damType	Dam
+Kanher Dam	damType	Dam
+Dham Dam	damType	Dam
+Girija Dam	damType	Dam
+Tillari	damType	Dam
+Morna Dam, Shirala	damType	Dam
+Natuwadi Dam	damType	Dam
+Kolar Dam	damType	Dam
+Amalocalalla Dam	damType	Dam
+Manikdoh Dam	damType	Dam
+Kordi Dam	damType	Dam
+Erai Dam	damType	Dam
+Lower Pus Dam	damType	Dam
+Burai Dam	damType	Dam
+Pothara Dam	damType	Dam
+Hatnur Dam	damType	Dam
+Chargaon Dam	damType	Dam
+Alandi Dam	damType	Dam
+Borna Dam	damType	Dam
+Wadaj Dam	damType	Dam
+Chandai Dam	damType	Dam
+Dhamni Dam	damType	Dam
+Khekaranalla Dam	damType	Dam
+Adol Dam	damType	Dam
+Khairi Dam	damType	Dam
+Bokani Dam	damType	Dam
+Shahanoor Dam	damType	Dam
+Isapur Dam	damType	Dam
+Manjara Dam	damType	Dam
+Sakol Dam	damType	Dam
+Devargan Dam	damType	Dam
+Benitura Dam	damType	Dam
+Rangawali Dam	damType	Dam
+Yelavi Dam	damType	Dam
+Tawarja Dam	damType	Dam
+Masoli Dam	damType	Dam
+Ozarkhed Dam	damType	Dam
+Sonal Dam	damType	Dam
+Goki Dam	damType	Dam
+Uma Dam	damType	Dam
+Kelzar Dam	damType	Dam
+Borgaon Dam	damType	Dam
+Masalga Dam	damType	Dam
+Upper Wardha Dam	damType	Dam
+Arunawati Dam	damType	Dam
+Tisgaon Dam	damType	Dam
+Kadwa Dam	damType	Dam
+Jam Dam	damType	Dam
+Waldevi Dam	damType	Dam
+Bahula Dam	damType	Dam
+Awashi Dam	damType	Dam
+Pakadiguddam Dam	damType	Dam
+Sakat Dam	damType	Dam
+Vishwamitri Dam	damType	Dam
+Tembhapuri Dam	damType	Dam
+Majalgaon Dam	damType	Dam
+Lower Wunna Dam	damType	Dam
+Punegaon Dam	damType	Dam
+Kalisarar Dam	damType	Dam
+Hetwane Dam	damType	Dam
+Anjanapalshi Dam	damType	Dam
+Vadiwale Dam	damType	Dam
+Bor Dahegaon Dam	damType	Dam
+Kashypi Dam	damType	Dam
+Purnaneopur Dam	damType	Dam
+Sonwad Dam	damType	Dam
+Mukane Dam	damType	Dam
+Savatri Dam	damType	Dam
+Bhama Asakhed Dam	damType	Dam
+Narangi Dam	damType	Dam
+Temghar Dam	damType	Dam
+Pimpalgaon Joge Dam	damType	Dam
+Dongargaon Dam	damType	Dam
+Gunjwani Dam	damType	Dam
+Niradevghar Dam	damType	Dam
+Kar Dam	damType	Dam
+Mun Dam	damType	Dam
+Nagyasakya Dam	damType	Dam
+Bhivargi Dam	damType	Dam
+Uttarmand Dam	damType	Dam
+Jamkhedi Dam	damType	Dam
+Chitri Dam	damType	Dam
+Madan Dam	damType	Dam
+Babhulgaon Dam	damType	Dam
+Andra Valley Dam	damType	Dam
+Chargad Dam	damType	Dam
+Lalocalalla Dam	damType	Dam
+Popatkhed Dam	damType	Dam
+Tarandale Dam	damType	Dam
+Deogad Dam	damType	Dam
+Aralakalmodi Dam	damType	Dam
+Pentakali Dam	damType	Dam
+Shivana Takli Dam	damType	Dam
+Kudnur Dam	damType	Dam
+Morana Dam	damType	Dam
+Godavari Dam	damType	Dam
+Chenna Dam	damType	Dam
+Sarang Kheda Dam	damType	Dam
+Katangi Dam	damType	Dam
+Manikpuri Dam	damType	Dam
+Lower Tapi Dam	damType	Dam
+Karwappa Dam	damType	Dam
+Bhavali Dam	damType	Dam
+Jamkhed Dam	damType	Dam
+Talamba Dam	damType	Dam
+Nagan Dam	damType	Dam
+Wakod Dam	damType	Dam
+Upper Kadwa Dam	damType	Dam
+Lower Panzara Dam	damType	Dam
+Gomai Dam	damType	Dam
+Waki Dam	damType	Dam
+Prakasha Barrage Dam	damType	Dam
+Nawatha Dam	damType	Dam
+Anjneri Dam	damType	Dam
+Chandrabhaga Dam	damType	Dam
+Tultuli Dam	damType	Dam
+Lower Wardha Dam	damType	Dam
+Purna Dam	damType	Dam
+Dehali Dam	damType	Dam
+Human Dam	damType	Dam
+Utawali Dam	damType	Dam
+Dhaner Dam	damType	Dam
+Wadishewadi Dam	damType	Dam
+Sulwade Barrage Dam	damType	Dam
+Nanduri Dam	damType	Dam
+Punad Dam	damType	Dam
+Ringedals Dam	damType	Gravity dam
+Polavaram Project	damType	Concrete spill way , Non over flow masonry dam  & Earth dam
+New Don Pedro Dam	damType	Embankment
+Success Dam	damType	Embankment
+Sulphur Creek Dam	damType	Concrete-faced earthfill
+Santiago Dam	damType	Roller-compacted earth and rock fill
+Lower Churchill Project	damType	Roller compacted concrete
+Fuchu Dam	damType	Concrete gravity dam
+Honzawa Dam	damType	Rock-fill
+Hiranabe Dam	damType	Concrete gravity dam
+Kuki Dam	damType	Concrete gravity dam
+Ikadatsu Dam	damType	Gravity
+Yanase Dam	damType	Rock-fill dam
+Hachisu Dam	damType	Gravity dam
+Hinachi Dam	damType	Concrete gravity dam
+Misedani Dam	damType	Arch-gravity dam
+Shorenji Dam	damType	Concrete arch dam
+Nanairo Dam	damType	Arch-gravity dam
+Aratozawa Dam	damType	Rockfill, Agricultural irrigation, Flood control, Hydro-electric power generation
+Hanayama Dam	damType	Gravity dam
+Minamikawa Dam	damType	Concrete Gravity Dam
+Naruko Dam	damType	Concrete Gravity Arch Dam
+Idamalayar Dam	damType	Gravity dam
+Kaniv Hydroelectric Power Plant	damType	Power plant
+Kölnbrein Dam	damType	Concrete arch
+Sơn La Dam	damType	Concrete gravity dam
+Aswan Low Dam	damType	Gravity, masonry buttress
+Cingino Dam	damType	Gravity, masonry
+Nimoo Bazgo Hydroelectric Plant	damType	Concrete-face rock-fill
+Tianshengqiao-II Dam	damType	Embankment, concrete face rock-fill
+Yele Dam	damType	Embankment, rock-fill
+El Vado Dam	damType	Earthfill
+Shuangjiangkou Dam	damType	Embankment, rock-fill
+Shuikou Dam	damType	Concrete gravity
+Olivenhain Dam	damType	Gravity
+Shapai Dam	damType	Arch
+Sirindhorn Dam	damType	Earth core rockfill dam
+Mianhuatan Dam	damType	Concrete gravity
+Longyangxia Dam	damType	Arch gravity dam
+Hongjiadu Dam	damType	Embankment, concrete face rock-fill
+Liuxihe Dam	damType	Arch
+Guangzhao Dam	damType	Gravity
+Ankang Dam	damType	Gravity
+Dachaoshan Dam	damType	Gravity, roller-compacted concrete
+Jinghong Dam	damType	Gravity, roller-compacted concrete
+Lijiaxia Dam	damType	Arch gravity dam
+Sanbanxi Dam	damType	Embankment, concrete face rock-fill
+Dagangshan Dam	damType	Arch
+Jiangpinghe Dam	damType	Embankment, concrete face rock-fill
+Fengman Dam	damType	Gravity
+Baishan Dam	damType	Arch gravity
+Guanyinyan Dam	damType	Gravity
+Changheba Dam	damType	Embankment, concrete face rock-fill
+Jinanqiao Dam	damType	Gravity
+Sambor Dam	damType	Dam
+Pengshui Dam	damType	Arch
+Silin Dam	damType	Gravity, roller-compacted concrete
+Yantan Dam	damType	Gravity
+Wuqiangxi Dam	damType	Gravity
+Wanjiazhai Dam	damType	Gravity, concrete
+Wujiangdu Dam	damType	Arch-gravity
+Chirkey Dam	damType	Arch
+Macagua Dam	damType	Concrete gravity/embankment
+Votkinsk Hydroelectric Station	damType	Concrete gravity/embankment
+Ivaylovgrad Dam	damType	Concrete gravity dam
+Amagase Dam	damType	Arch, variable-radius
+Martin Dam	damType	Concrete arch-gravity
+Stung Battambang 1 Dam	damType	Earth core rockfill dam
+Kirirom 1 Hydropower Dam	damType	Earth core rockfill dam
+Lower Sre Pok 2 Dam	damType	Run-of-river
+Lower Se San 2 Dam	damType	Run-of-river
+Upper Baker Dam	damType	Concrete gravity
+O Chum 2 Hydropower Dam	damType	Seasonal Storage
+Stung Sen Dam	damType	Seasonal storage
+Huai Kum Dam	damType	Rock Fill Dam
+Hua Na Dam	damType	Cement Irrigation Dam
+Stung Treng Dam	damType	Earth core rockfill gravity dam
+Lam Takhong Dam	damType	Earth core rockfill dam
+Nam Pung Dam	damType	Earth core rockfill dam
+Ubol Ratana Dam	damType	Earth core rock-fill dam
+Sweetwater Dam	damType	Concrete gravity-arch
+Loveland Dam	damType	Concrete thin arch
+Amistad Dam	damType	Earthfill
+Malpaso Dam	damType	Embankment
+Savage Dam	damType	Concrete arch gravity
+Lianghekou Dam	damType	Embankment, concrete-face rock-fill
+Cranzahl Dam	damType	Earth-fill dam
+Syria–Turkey Friendship Dam	damType	Embankment
+Salaulim Dam	damType	Earth dam with concrete Spillway
+Jirau Dam	damType	Embankment, concrete gravity composite
+Santo Antônio Dam	damType	Gravity, composite
+Qorlortorsuaq Dam	damType	Gravity
+Techi Dam	damType	Concrete thin arch
+Longkaikou Dam	damType	Gravity, roller-compacted concrete
+Houziyan Dam	damType	Embankment, rock-fill
+Shatuo Dam	damType	Gravity
+Tingzikou Dam	damType	Gravity
+Zengwen Dam	damType	Earthfill
+Seminoe Dam	damType	Concrete thick gravity-arch
+Álvaro Obregón Dam	damType	Embankment
+Sirikit Dam	damType	Embankment
+Srinagarind Dam	damType	Embankment
+Cochrane Dam	damType	Concrete gravity
+Leibis-Lichte Dam	damType	Gravity dam
+Marathon Dam	damType	Gravity
+Castelo de Bode Dam	damType	Concrete
+Castelo de Bode Dam	damType	Arch-gravity dam
+Fujinuma Dam	damType	Embankment
+Huating Lake	damType	Crushed rock and clay embankment
+Boysen Dam	damType	Rockfill
+Grand Ethiopian Renaissance Dam	damType	Gravity, roller-compacted concrete
+Kotmale Dam	damType	E
+Salvajina Dam	damType	Embankment, concrete-face rock-fill
+Grassy Lake Dam	damType	Zoned earthfill dam
+Island Park Dam	damType	Zoned earthfill dam
+Sanmenxia Dam	damType	Gravity
+Alcova Dam	damType	Zoned earthfill
+Lake Sherburne Dam	damType	Earth embankment
+La Esmeralda Dam	damType	Embankment, rock-fill
+Chelmarsh Reservoir	damType	E
+Brocks Gap Dam	damType	Earthfill
+Bull Shoals Dam	damType	Concrete gravity
+Imboulou Dam	damType	Gravity, roller-compacted concrete/Earthen embankment
+Starved Rock Lock and Dam	damType	G
+Pipestem Dam	damType	Embankment
+Pactola Dam	damType	Embankment
+Aguamilpa Dam	damType	Embankment, concrete-face rock-fill
+Sherwood Dam	damType	Arch, constant-radius
+Jinping-I Dam	damType	Arch, double-curvature
+Lake Darling Dam	damType	Embankment, earthen
+Bosher Dam	damType	Concrete gravity
+Alpe Gera Dam	damType	Concrete gravity
+Miel I Dam	damType	Gravity, roller-compacted concrete
+Punchiná Dam	damType	Embankment, earth-fill
+Morris Dam	damType	Concrete gravity
+Menihek Hydroelectric Generating Station	damType	Barrage
+Porce III Dam	damType	Embankment, concrete-face rock-fill
+Ituango Dam	damType	Embankment, earth-fill clay core
+La Yesca Dam	damType	Embankment, concrete-face rock-fill
+Ichari Dam	damType	Gravity
+Ramganga Dam	damType	Embankment
+Maneri Dam	damType	Gravity
+Hitotsuse Dam	damType	Concrete arch dam
+Kamishiiba Dam	damType	a
+Tsukabaru Dam	damType	Concrete gravity masonry
+Hiraoka Dam	damType	Concrete gravity dam
+Himekawa Dam	damType	Concrete gravity dam
+Amekawa Dam	damType	G
+Shimajigawa Dam	damType	Concrete gravity
+Kanna Dam	damType	Concrete gravity
+Fukuji Dam	damType	Embankment, rock-fill
+Kinjo Dam	damType	Concrete gravity
+Haneji Dam	damType	Embankment, rock-fill
+Sripada Yellampalli project	damType	B
+Bisalpur Dam	damType	Gravity
+Bradbury Dam	damType	earthfill
+Imha Dam	damType	Embankment, rock-fill
+Andong Dam	damType	Embankment, rock-fill
+Daecheong Dam	damType	Embankment and gravity
+Soyang Dam	damType	Embankment
+Chungju Dam	damType	Gravity
+Zillergründl Dam	damType	Arch, variable-radius
+Los Leones Dam	damType	Embankment, tailings
+Rapel Dam	damType	Arch, variable radius
+Ōmachi Dam	damType	Gravity
+Five Channels Dam	damType	E
+Alcona Dam	damType	E
+Warsak Dam	damType	Gravity
+Koteshwar Dam	damType	Gravity
+Bruno Creek Tailings Impoundment	damType	Tailings, center-line
+Fukashiro Dam	damType	Concrete gravity
+Okutadami Dam	damType	Gravity
+Otori Dam	damType	Arch-gravity
+Munda Dam	damType	Concrete-faced rock-filled
+Silver Lake Dam	damType	Embankment dam
+Keddara Dam	damType	Embankment, rock-fill clay core
+Koudiat Acerdoune Dam	damType	Gravity
+Ain Zada Dam	damType	Embankment
+Sidi Salem Dam	damType	Embankment
+Sidi el Barrak Dam	damType	Embankment
+Mohamed V Dam	damType	Arch-gravity
+Bin el Ouidane Dam	damType	Arch
+Hassan I Dam	damType	Embankment
+Al Massira Dam	damType	Gravity
+Allal al Fassi Dam	damType	Embankment
+Banning Dam	damType	Arch, constant-radius
+Kōsaka Dam	damType	E
+Sup'ung Dam	damType	Gravity
+Jinshuitan Dam	damType	Arch
+Dongjiang Dam	damType	Arch, double-curvature
+Nierji Dam	damType	Embankment, rock-fill
+Jilintai I Dam	damType	Embankment, concrete-face rock-fill
+Tankeng Dam	damType	Embankment, concrete-face rock-fill
+Toyooka Dam	damType	Gravity dam
+Futai Dam	damType	Rockfill
+Hiju Dam	damType	Rockfill dam
+Baise Dam	damType	Gravity
+Chengbihe Dam	damType	Embankment
+Tengzigou Dam	damType	Arch
+Baozhusi Dam	damType	Concrete gravity
+Bikou Dam	damType	Embankment, earth-core rock-fill
+Bashan Dam	damType	Embankment, concrete-face rock-fill
+Dongfeng Dam	damType	Arch
+Dongqing Dam	damType	Embankment, concrete-face rock-fill
+Dongping Dam	damType	Arch
+Fengshuba Dam	damType	Concrete gravity
+Guxian Dam	damType	Concrete gravity
+Hongkou Dam	damType	Concrete gravity
+Huanglongtan Dam	damType	Concrete gravity
+Hunanzhen Dam	damType	Concrete buttress/gravity
+Jiangya Dam	damType	Concrete gravity
+Jiudianxia Dam	damType	Embankment, concrete-face rock-fill
+Fengtan Dam	damType	Arch-gravity
+Longma Dam	damType	Embankment, concrete-face rock-fill
+Longshou II Dam	damType	Embankment, concrete-face rock-fill
+Malutang Dam	damType	Embankment, concrete-face rock-fill
+Panjiakou Dam	damType	Concrete gravity
+Shiyazi Dam	damType	Concrete gravity
+Shimenkan Dam	damType	Arch
+Suofengying Dam	damType	Concrete gravity
+Wawushan Dam	damType	Embankment, concrete-face rock-fill
+Wudu Dam	damType	Concrete gravity
+Wuluwati Dam	damType	Embankment, concrete-face rock-fill
+Yunfeng Dam	damType	Concrete gravity
+Râușor	damType	E
+Enloe Dam and Powerplant	damType	Concrete gravity arch
+Fort Gibson Dam	damType	Concrete Gravity
+Agusan Dam	damType	Concrete Flow
+Lake W. R. Holway	damType	earth and rock
+Alavian Dam	damType	Embankment, earth-fill
+Kitagawa Dam	damType	Concrete arch dam
+Camanche Dam	damType	Earthfill
+Big Tujunga Dam	damType	Concrete arch
+Pit 7 Dam	damType	Concrete arch-gravity
+Pit 6 Dam	damType	Concrete gravity
+Iron Gate Dam	damType	Earthfill
+Tulloch Dam	damType	Concrete gravity
+Long Lake Dam	damType	Concrete gravity
+Hokubō Dam	damType	Concrete gravity dam
+Doyo Dam	damType	Embankment, rock-fill
+Fresno Dam	damType	Earthfill
+Keswick Dam	damType	Concrete gravity
+Pulangi Dam	damType	Gravity/embankment
+El Capitan Dam	damType	Embankment
+Canyon Dam	damType	Earthfill
+Thika Dam	damType	Embankment, earth-fill
+Papan Reservoir	damType	Earth
+Orathuppalayam Dam	damType	Embankment with gravity section
+Aathupalayam Dam	damType	Embankment
+Alkumru Dam	damType	Embankment, rock-fill
+Koldam Dam	damType	Embankment, rock-fill with clay core
+Pandoh Dam	damType	Embankment
+Pong Dam	damType	Embankment, earth-fill
+Kirov Reservoir	damType	Concrete
+Neelum–Jhelum Hydropower Plant	damType	Concrete gravity
+Kishanganga Hydroelectric Plant	damType	Concrete-face rock-fill
+West Seti Dam	damType	Concrete faced rockfill dam
+Gelantan Dam	damType	Gravity, roller-compacted concrete
+Yayangshan Dam	damType	Embankment, concrete-face rock-fill
+Tukahe Dam	damType	Concrete gravity, roller-compacted concrete
+Jufudu Dam	damType	Concrete gravity, roller-compacted concrete
+Sardasht Dam	damType	Embankment, rock-fill earth core
+Daguangba Dam	damType	Concrete gravity/Embankment
+Gezhen Dam	damType	Gravity/Embankment
+Niululing Dam	damType	Gravity
+Kuriyama Dam	damType	Embankment, rock-fill
+Imaichi Dam	damType	Gravity, concrete
+Saguling Dam	damType	Embankment, rock-fill with watertight core
+Cirata Dam	damType	Embankment, concrete-face rock-fill
+Jatiluhur Dam	damType	Embankment, earth-fill
+Jatigede Dam	damType	Embankment, rock-fill
+Minghu Dam	damType	Gravity
+Tungabhadra Dam	damType	Composite, Spillway length
+Yulongyan Dam	damType	Arch
+Hongshi Dam	damType	Gravity
+Matanoagawa Dam	damType	Concrete gravity
+Sau Reservoir	damType	G
+Pasteral Reservoir	damType	G
+Boadella Reservoir	damType	G
+Murrum Silli Dam	damType	Embankment, earth-fill
+Parangana Power Station	damType	E
+Naghlu Dam	damType	Gravity
+Tareelaroi Weir	damType	Weir
+Urft Dam	damType	Gravity dam
+Thisavros Dam	damType	Embankment, rock-fill clay-core
+Kremasta Dam	damType	Embankment, earth-fill
+Köprü Dam	damType	Gravity, roller-compacted concrete
+Boyabat Dam	damType	Concrete gravity
+Zeyzoun Dam	damType	Embankment
+Dohuk Dam	damType	Embankment, earth-fill
+Limestone Generating Station	damType	B
+Chao Phraya Dam	damType	B
+Temperance Flat Dam	damType	Roller-compacted concrete gravity arch
+Roselend Dam	damType	Arch dam
+Roselend Dam	damType	Buttress dam
+Sogamoso Dam	damType	Embankment, concrete-face rock-fill
+Fukuzato Underground Dam	damType	Sub-surface
+Vaalkop Dam	damType	gravity & earth-fill
+Jounama Dam	damType	E
+Mahabad Dam	damType	Embankment, earth and rock-fill
+Marèges Dam	damType	Concrete arch, double-curvature
+Baram Dam	damType	Gravity, roller-compacted concrete
+Veterans Memorial Dam	damType	Embankment, earth-fill
+Houay Ho Dam	damType	Embankment dam
+Dhauliganga Dam	damType	Embankment, earth and rock-fill
+Huites Dam	damType	Concrete gravity
+Bheemgarh Dam	damType	Irrigation
+Inniscarra Dam	damType	Buttress
+Barro Blanco Dam	damType	Gravity, roller compacted concrete
+Foote Dam	damType	E
+Cooke Dam	damType	E
+Grand Valley Diversion Dam	damType	Roller gate weir
+Rye Patch Reservoir	damType	Earth-fill
+Garuk Dam	damType	Earth Core Rockfill Dam
+Naulong Dam	damType	Zoned Earth-fill Dam
+Sabakzai Dam	damType	Earth & Rock fill
+Sukleji Dam	damType	Zoned earth-filled dam
+Bunji Dam	damType	Gravity RCC
+Nanhua Dam	damType	Earthfill
+Misicuni Dam	damType	Embankment, concrete-face rock-fill
+Soldier Creek Dam	damType	Earthfill
+Tuirial Dam	damType	Embankment, earth-fill
+Edenville Dam	damType	F
+Enders Dam	damType	F
+Shahpur Dam	damType	Concrete Gravity
+Jawa Dam	damType	Zoned Earth and Rock-filled
+Serlui B Dam	damType	Embankment, earth-fill
+Shah wa Arus Dam	damType	gravity
+Bairabi Dam	damType	Embankment, earth-fill
+Tlawng Dam	damType	Embankment, rock-fill
+Gibson Dam	damType	Concrete arch
+Madison Dam	damType	Timber Crib
+Wawa Dam	damType	Arch-gravity dam
+Angostura Dam	damType	Embankment, earth-fill
+Salmon Falls Dam	damType	Concrete gravity arch
+A. I. Selden Dam	damType	Concrete gravity dam
+Jocassee Dam	damType	Embankment
+Teles Pires Dam	damType	Gravity, composite
+Harsprånget hydroelectric power station	damType	Rock-fill dam
+Irapé Dam	damType	Embankment, rock-fill
+Abiquiu Dam	damType	Embankment
+Gaborone Dam	damType	Embankment, earth-fill
+Shashe Dam	damType	Zoned embankment
+Gibraltar Dam	damType	Concrete arch
+Dikgatlhong Dam	damType	Earth fill
+Antelope Dam	damType	Earthfill
+Santa Fe Reservoir	damType	AG
+Donnells Dam	damType	Concrete arch
+Angostura Diversion Dam	damType	Diversion dam
+Isleta Diversion Dam	damType	Diversion dam
+San Acacia Diversion Dam	damType	Diversion dam
+Heron Dam	damType	Storage dam
+American Diversion Dam	damType	Diversion dam
+International Diversion Dam	damType	Diversion dam
+Riverside Diversion Dam	damType	Diversion dam
+Percha Diversion Dam	damType	Diversion dam
+Leasburg Diversion Dam	damType	Diversion dam
+Mesilla Diversion Dam	damType	Diversion dam
+Alaköprü Dam	damType	Embankment, concrete-face rock-fill
+Çetin Dam	damType	Asphalt-Concrete Core Rock-Fill Dam
+San Antonio Dam	damType	Earth dam
+Shahtoot Dam	damType	gravity
+Bass Lake Dam	damType	Earth
+Grahamstown Dam	damType	E
+Cheruthoni Dam	damType	Straight gravity concrete
+Engelhard Dam	damType	G
+Potchefstroom Dam	damType	Earth fill
+Lake Thomas A Edison	damType	Earthen
+Little Grass Valley Reservoir	damType	Rockfill
+Copco Lake	damType	Gravity
+Mauá Hydroelectric Plant	damType	Gravity, roller-compacted concrete
+Steina Dam	damType	Earth-fill dam
+Rust de Winter Dam	damType	Rock filling
+Bergrat Müller Pond	damType	Earth-fill dam
+Tzaneen Dam	damType	F
+Oxkraal Dam	damType	earth-fill, rock-fill
+Na Hang Dam	damType	Rock-fill
+Vilyuy Dam	damType	Embankment
+Bustos Dam	damType	Irrigation Dam
+Khodiyar Dam	damType	Embankment/gravity composite
+Smir Dam	damType	Embankment, earth-fill
+Nakhla Dam	damType	Embankment, rock-fill
+Trasona Reservoir	damType	Gravity dam
+Carraízo Dam	damType	Concrete gravity
+Khashm el-Girba Dam	damType	Gravity/embankment
+Xilinxa Dam	damType	F
+Rooikrantz Dam	damType	F
+Karapuzha Dam	damType	Embankment, earth-fill
+Lavon Dam	damType	Rolled earthfill
+Oberon Dam	damType	E
+Rydal Dam	damType	E
+Tignes Dam	damType	Arch
+Ulldecona Dam	damType	G
+Sykia Dam	damType	Embankment, earth-fill
+Mesochora Dam	damType	Embankment, earth-fill
+Kastraki Dam	damType	Embankment, earth-fill
+Artvin Dam	damType	Arch-gravity
+Arkun Dam	damType	Embankment, earth-fill
+Mazar Dam	damType	Embankment, concrete-face rock-fill
+Tumut Two Dam	damType	G
+Aksu Dam	damType	Embankment, rock-fill
+Güllübağ Dam	damType	Gravity, roller-compacted concrete
+Laleli Dam	damType	Embankment, rock-fill
+Deep Creek Dam	damType	G
+Geehi Dam	damType	E
+Guthega Dam	damType	G
+Happy Jacks Dam	damType	G
+Khancoban Dam	damType	E
+Island Bend Dam	damType	G
+Murray Two Dam	damType	A
+Brogo Dam	damType	E
+Yellow Pinch Dam	damType	E
+Daryan Dam	damType	Embankment, rock-fill with clay-core
+Garzan Dam	damType	Embankment, rock-fill
+Sırımtaş Dam	damType	Gravity, roller-compacted concrete
+Alpaslan-2 Dam	damType	Embankment, rock-fill with clay-core
+Yedigöze Dam	damType	Embankment, concrete-face rock-fill
+Kavşak Bendi Dam	damType	Embankment, concrete-face rock-fill
+O'Shaughnessy Dam	damType	Concrete arch gravity
+Kerckhoff Dam	damType	Concrete arch
+Karcham Wangtoo Hydroelectric Plant	damType	Gravity dam
+Florence Lake Dam	damType	Concrete multiple-arch
+Poe Dam	damType	Gated overflow dam
+Potrerillos Dam	damType	Concrete-faced rockfill
+San Andrés de los Tacones Reservoir	damType	Embankment dam
+Alfilorios Reservoir	damType	Embankment
+Chardara Dam	damType	Embankment, earth-fill
+Capivara Dam	damType	Embankment
+Wushantou Dam	damType	Rock-fill
+Ma'an Dam	damType	concrete gravity barrage dam
+Shihgang Dam	damType	Gravity Dam
+Wushoh Dam	damType	Arch-gravity dam
+Changuinola Dam	damType	Arch-gravity, roller compacted concrete
+Wadagawa Dam	damType	Gravity
+Shogawa Goguchi Dam	damType	Gravity
+Komaki Dam	damType	Arch gravity
+Toga Dam	damType	Gravity
+Senzoku Dam	damType	Gravity
+Togagawa Dam	damType	Gravity
+Soyama Dam	damType	Gravity
+Ohara Dam	damType	Gravity
+Akao Dam	damType	Gravity
+Narude Dam	damType	Gravity
+Getalsud Dam	damType	Concrete gravity dam
+Tsubawara Dam	damType	Gravity
+Hatogaya Dam	damType	Gravity
+Okurodani Dam	damType	Embankment, rock-fill
+Oshirakawa Dam	damType	Embankment, rock-fill
+Şırnak Dam	damType	Gravity, roller-compacted concrete
+Silopi Dam	damType	Gravity, roller-compacted concrete
+Uludere Dam	damType	Gravity, roller-compacted concrete
+Balli Dam	damType	Gravity, roller-compacted concrete
+Kavşaktepe Dam	damType	Gravity, roller-compacted concrete
+Musatepe Dam	damType	Gravity, roller-compacted concrete
+Çetintepe Dam	damType	Gravity, roller-compacted concrete
+Aslandağ Dam	damType	Gravity, roller-compacted concrete
+Beyyurdu Dam	damType	Gravity, roller-compacted concrete
+Çocuktepe Dam	damType	Gravity, roller-compacted concrete
+Barna Dam	damType	Gravity
+Kindaruma Hydroelectric Power Station	damType	Embankment
+Rocklands Reservoir	damType	G
+Mukurumudzi Dam	damType	Homogeneous earthfill dam
+Big Cliff Dam	damType	Concrete gravity
+Cheesman Dam	damType	Masonry, gravity arch
+Kiev Hydroelectric Power Plant	damType	Earth-fill embankment with gravity sections
+Canelles Reservoir	damType	G
+Project 635 Dam	damType	Embankment, rock-fill with clay core
+Broadlands Dam	damType	G
+Corin Dam	damType	E
+Burqin Shankou Dam	damType	Arch
+Elderberry Forebay Dam	damType	Earthfill
+Khan Khwar Hydropower Plant	damType	RCC
+Allai Khwar Hydropower Plant	damType	RCC
+Wusanto Reservoir	damType	Embankment Dam
+San Antonio Dam	damType	Embankment
+Beaumont generating station	damType	G
+Randenigala Dam	damType	E
+Rantembe Dam	damType	G
+Moragahakanda Dam	damType	G
+Kalu Ganga Dam	damType	G
+Bowatenna Dam	damType	G
+Kandalama Reservoir	damType	E
+Maskeliya Dam	damType	G
+Castlereigh Dam	damType	G
+Polgolla Barrage	damType	B
+Norton Dam	damType	G
+Canyon Dam	damType	AG
+Laxapana Dam	damType	G
+Mae Wong Dam	damType	Embankment, earth-fill clay-core
+Mujib Dam	damType	Rolled concrete/clay-core rockfill
+Kouhrang 3 Dam	damType	Arch
+Kouhrang 1 Dam	damType	Gravity, masonry
+Beduhe Dam	damType	Embankment, concrete-face rock-fill
+Bonyic Dam	damType	Gravity, roller-compacted concrete
+Hassan II Dam	damType	Gravity, roller-compacted concrete
+Kukule Ganga Dam	damType	G
+Chalillo Dam	damType	Gravity, roller-compacted concrete
+Udawalawe Dam	damType	E
+Kantale Dam	damType	E
+Gal Oya Dam	damType	E
+Lom Pangar Dam	damType	Embankment, center section gravity dam
+Grodno Hydroelectric Power Station	damType	Embankment with gravity spillway and powerhouse section
+Tokwe Mukorsi Dam	damType	Embankment, concrete-face rock-fill
+Kremenchuk Hydroelectric Power Plant	damType	Earth-fill embankment with gravity sections
+Kakhovka Hydroelectric Power Plant	damType	Earth-fill embankment with gravity sections
+Dniprodzerzhynsk Hydroelectric Power Plant	damType	Earth-fill embankment with gravity sections
+Conemaugh Dam	damType	Concrete gravity
+Batoka Gorge Hydroelectric Power Station	damType	Arch gravity
+Glenmaggie Dam	damType	G
+Chonghu'er Dam	damType	Gravity, roller-compacted concrete
+Jilebulake Dam	damType	Embankment, concrete-face rock-fill
+Haba River Shankou Dam	damType	Embankment, concrete-face rock-fill
+Shimokotori Dam	damType	Embankment, rock-fill
+Lower Paunglaung Dam	damType	Embankment, rock-fill
+Upper Paunglaung Dam	damType	Gravity, roller-compacted concrete
+Shweli I Dam	damType	Gravity
+Shwegyin Dam	damType	Embankment, rock-fill
+Mantasoa Dam	damType	Buttress
+Tsiazompaniry Dam	damType	Buttress
+Mandraka Dam	damType	Gravity
+Andekaleka Dam	damType	Gravity
+Kadana Dam	damType	Masonry with embankment main section
+Ratle Hydroelectric Plant	damType	Gravity
+Mahi Bajaj Sagar Dam	damType	Masonry with embankment main sections
+Ghatghar Dam	damType	Gravity, roller-compacted concrete
+Duber Khwar Hydroelectric Plant	damType	Gravity, roller-compacted concrete
+Patrind Hydropower Plant	damType	Run-of-the-river hydroelectricity
+Foum Gleita Dam	damType	Arch
+Garafiri Dam	damType	Embankment, earth-fill
+Banieya Dam	damType	Embankment, earth-fill
+Grand Poubara Dam	damType	Gravity, roller-compacted concrete
+Bumbuna Dam	damType	Embankment, concrete-face rock-fill
+Djibloho Dam	damType	Gravity
+Esch-sur-Sûre Dam	damType	Arch
+Golen Gol Hydropower Project	damType	Gravity, roller-compacted concrete
+Renala Khurd Hydropower Plant	damType	Run-of-the-river
+Chichonki Malian Hydropower Plant	damType	Run-of-the-river
+Nandipur Hydropower Plant	damType	Run-of-the-river
+Yeruham Dam	damType	Masonry
+King Fahad Dam	damType	Gravity
+Baysh Dam	damType	Gravity
+Rabigh Dam	damType	Gravity
+Hali Dam	damType	Gravity
+Degania Dam	damType	Barrage
+Kurram Garhi Hydropower Plant	damType	Run-of-the-river
+Jabban Hydropower Plant	damType	Run-of-the-river
+Najran Valley Dam	damType	Arch
+Jizan Dam	damType	Gravity
+Petit-Saut Dam	damType	Gravity, roller-compacted concrete
+Afobaka Dam	damType	Embankment with gravity dam main section
+Dasu Dam	damType	Gravity, roller-compacted concrete
+Gulpur Hydropower Project	damType	Gravity, roller-compacted concrete
+Devecikonağı Dam	damType	Gravity, roller-compacted concrete
+Corbara Dam	damType	Gravity with embankment section
+Gura Apelor Dam	damType	Embankment, rock-fill
+Benutan Dam	damType	Embankment
+Ulu Tutong Dam	damType	Embankment, earth and rock-fill
+Tangir Hydropower Project	damType	Run-of-the-river
+Pelar Dam	damType	Concrete Gravity Dam
+Monasavu Dam	damType	Embankment, rock-fill
+Nadarivatu Dam	damType	Gravity
+Diama Dam	damType	Gravity
+Afulilo Dam	damType	Gravity
+Monción Dam	damType	Embankment, earth-fill clay-core
+Jigüey Dam	damType	Arch-gravity
+Bao-Tavera Dams	damType	Embankment, earth-fill
+Hatillo Dam	damType	Embankment, earth and rock-fill
+Zaza Dam	damType	Embankment
+Gove Dam	damType	Embankment, earth and rock-fill
+Néstor Kirchner Dam	damType	Embankment, concrete-face rock-fill
+Jorge Cepernic Dam	damType	Embankment, concrete-face rock-fill
+Rio Cobre Dam	damType	Gravity, diversion
+Hermitage Dam	damType	Gravity
+Los Caracoles Dam	damType	Embankment, concrete-face rock-fill
+Punta Negra Dam	damType	Embankment, concrete-face rock-fill
+Mancotal Dam	damType	Embankment
+Virgen Dam	damType	Embankment
+Tumarín Dam	damType	Gravity, roller-compacted concrete
+Khandip Dam	damType	C
+La Yaya Dam	damType	Embankment
+Melones Dam	damType	Embankment, concrete-face rock-fill
+Nuevo Mundo Dam	damType	Embankment
+Hanabanilla Dam	damType	Embankment
+Trängslet Dam	damType	Embankment, rock-fill
+Baoshan Dam	damType	Embankment
+Renyitan Dam	damType	Embankment
+Liyutan Dam	damType	Embankment
+Lakhwar Dam	damType	Gravity
+Brushy Fork Coal Impoundment	damType	Embankment
+Sempor Dam	damType	Embankment, rock-fill
+La Viña Dam	damType	Arch
+Agua del Toro Dam	damType	Arch
+Kishau Dam	damType	Gravity
+Pakal Dul Dam	damType	Embankment, concrete-face rock-fill
+Claytor Dam	damType	Gravity
+Tibi Dam	damType	Masonry
+Gazivoda Dam	damType	Embankment, rock-fill
+Echo Park Dam	damType	Concrete thick arch
+Tisza Dam	damType	Gravity
+Grančarevo Dam	damType	Arch
+Chilime Hydropower Plant	damType	Gravity, weir
+Lubuge Dam	damType	Embankment, rock-fill
+Shitouhe Dam	damType	Embankment, rock-fill clay-core
+Jinpen Dam	damType	Embankment, rock-fill earth-core
+Zhexi Dam	damType	Buttress, massive concrete
+Baiyun Dam	damType	Embankment, concrete-face rock-fill
+Gudongkou Dam	damType	Embankment, concrete-face rock-fill
+Kaushalya Dam	damType	Embankment, earth-fill
+Mojave Forks Dam	damType	Rolled earthfill embankment
+Morena Dam	damType	Rockfill
+Barrett Dam	damType	Concrete gravity arch
+Maerdang Dam	damType	Embankment, concrete-face rock-fill
+Yangqu Dam	damType	Embankment, concrete-face rock-fill
+Huangdeng Dam	damType	Gravity, roller-compacted concrete
+Miaowei Dam	damType	Embankment, rock-fill
+Kajiwa Dam	damType	Embankment, concrete-face rock-fill
+Quxue Dam	damType	Embankment, rock-fill with asphalt concrete core
+Lizhou Dam	damType	Arch, roller-compacted concrete
+Qiaoqi Dam	damType	Embankment, rock-fill
+Dahuaqiao Dam	damType	Gravity, roller-compacted concrete
+Gongguoqiao Dam	damType	Gravity, roller-compacted concrete
+Wunonglong Dam	damType	Gravity, roller-compacted concrete
+Kohala Hydropower Project	damType	Gravity, roller-compacted concrete
+Mphanda Nkuwa Dam	damType	Concrete gravity
+Jiemian Dam	damType	Embankment, concrete-face rock-fill
+Renzonghai Dam	damType	Embankment, rock-fill
+Yinpan Dam	damType	Gravity
+Maoergai Dam	damType	Embankment, rock-fill
+Pankou Dam	damType	Embankment, concrete-face rock-fill
+Yingzidu Dam	damType	Embankment, concrete-face rock-fill
+Sinanjiang Dam	damType	Embankment, concrete-face rock-fill
+Bang Lang Dam	damType	F
+Nindooinbah Dam	damType	E
+Kaeng Krachan Dam	damType	F
+Madushan Dam	damType	Gravity
+Tianhuaban Dam	damType	Arch, roller-compacted concrete
+Tha Thung Na Dam	damType	G
+Mae Ngat Somboon Chon Dam	damType	F
+Hantangang Dam	damType	Gravity, roller-compacted concrete
+Dargai Pal Dam	damType	Earth Filled
+Dandy Dam	damType	Earth Filled
+Zao Dam	damType	Rock Filled
+Moto Shah Dam	damType	Embankment, rock-filled
+Sheen Kach Dam	damType	Earth-filled
+Kand Dam	damType	Embankment, rock-filled
+Raghagan Dam	damType	Earth Filled
+Gandao Dam	damType	Gravity
+Darawat Dam	damType	Concrete gravity
+Bili-Bili Dam	damType	Embankment, rock-fill
+Pharping Hydropower Station	damType	Run-of-the-river hydroelectricity
+Lianhua Dam	damType	Embankment, concrete-face rock-fill
+Meander Dam	damType	G
+Santa Luzia Dam	damType	Concrete
+Santa Luzia Dam	damType	Arch dam
+Shanigaram Reservoir	damType	F
+Taliperu Project	damType	F
+Wyra Reservoir	damType	F
+Sugar Pine Dam	damType	F
+Bendeela Pondage	damType	E
+Fitzroy Falls Dam	damType	E
+Wingecarribee Dam	damType	E
+Tendaho Dam	damType	Embankment, earth-fill
+Casad Dam	damType	Concrete arch
+San Dimas Dam	damType	Concrete Gravity
+Upper Karnali Hydropower Project	damType	Gravity
+Aragon Dam	damType	Gravity
+Mai Hydropower Station	damType	Gravity
+Três Irmãos Dam	damType	Embankment with gravity sections
+Nova Avanhandava Dam	damType	Embankment with gravity sections
+Tods Corner Power Station	damType	E
+Joe Sippel Weir	damType	Concrete weir
+Little Rock Dam	damType	Concrete gravity
+Eklutna Dam	damType	Embankment
+Hivra Dam	damType	Dam
+Reventazón Dam	damType	Embankment, concrete-face rock-fill
+San Clemente Dam	damType	Arch
+Kolyma Hydroelectric Station	damType	Embankment, rock-fill
+Colíder Dam	damType	Embankment, concrete gravity composite
+Rogers Dam	damType	Embankment, earth-fill
+Félou Hydroelectric Plant	damType	Weir
+Englewood Dam	damType	Embankment, earth-fill
+Tuyamuyun Hydro Complex	damType	Gravity
+Alarcón Dam	damType	G
+Kayrakkum Dam	damType	Embankment
+Baipaza Dam	damType	Embankment, concrete-face rock-fill
+Golovnaya Dam	damType	Embankment, earth-fill
+Andijan Dam	damType	Buttress
+Silveh Dam	damType	Embankment, earth-fill
+Proston Weir	damType	Concrete weir
+Bissorte Dam	damType	G
+Garan Dam	damType	Embankment, earth-fill
+North Dam	damType	Embankment, earth-fill
+Rama Dam	damType	Embankment, concrete-face rock-fill
+Jablanica Dam	damType	Arch-gravity
+Picote Dam	damType	Concrete
+Picote Dam	damType	Arch dam
+Bemposta Dam	damType	Concrete
+Bemposta Dam	damType	Arch dam
+Miranda Dam	damType	Concrete
+Miranda Dam	damType	Buttress dam
+Pangduo Hydro Power Station	damType	Embankment, rock-fill
+Zhikong Hydro Power Station	damType	Embankment, rock-fill
+Aguieira Dam	damType	Concrete multiple arch dam
+Aar Dam	damType	Embankment, rock-fill
+Cabril Dam	damType	Concrete double curvature arch dam
+Carrapatelo Dam	damType	Concrete
+Carrapatelo Dam	damType	Gravity dam
+Entrepeñas Reservoir	damType	G
+Alto Lindoso Dam	damType	Concrete double curvature arch dam
+Alto Rabagão Dam	damType	Concrete arch and gravity dam
+Saucelle Dam	damType	Gravity
+Omkareshwar Dam	damType	Gravity
+Masinga Hydroelectric Power Station	damType	Embankment dam
+Fratel Dam	damType	Concrete
+Fratel Dam	damType	Gravity dam
+Kherkatta Reservoir	damType	Embankment, earth-fill
+Belver Dam	damType	Concrete
+Belver Dam	damType	Gravity dam
+Bouçã Dam	damType	Concrete double curvature arch dam
+Caniçada Dam	damType	Concrete
+Caniçada Dam	damType	Arch dam
+Salamonde Dam	damType	Concrete
+Salamonde Dam	damType	Arch dam
+Kulekhani Dam	damType	Embankment, rock-fill
+Pocinho Dam	damType	Concrete
+Pocinho Dam	damType	Gravity dam
+Omatako Dam	damType	Earth fill embankment
+Valeira Dam	damType	Concrete
+Valeira Dam	damType	Gravity dam
+Régua Dam	damType	Concrete
+Régua Dam	damType	Gravity dam
+Crestuma-Lever Dam	damType	Concrete
+Crestuma-Lever Dam	damType	Gravity dam
+El Salto Dam	damType	B
+Touvedo Dam	damType	Concrete
+Touvedo Dam	damType	Gravity dam
+Raiva Dam	damType	Concrete
+Raiva Dam	damType	Gravity dam
+Pracana Dam	damType	Concrete
+Pracana Dam	damType	Buttress dam
+Vilar Dam	damType	Rockfill embankment dam
+Jaggar Dam	damType	Earthen
+Barekese Dam	damType	Embankment and gravity composite
+Schwarzenbach Dam	damType	Gravity
+Yamhill River lock and dam	damType	Dam
+Nallathangal Dam	damType	Embankment
+Seyrantepe Dam	damType	Embankment, sand and gravel-fill
+John Butters Power Station	damType	E
+Nieterana Power Station	damType	A
+Somasila Dam	damType	Earth-fill dam
+Somasila Dam	damType	Gravity dam
+Chandrabhaga Dam	damType	Dam
+Cushaw Hydroelectric Project	damType	Reinforced concrete gravity
+Bedford Hydropower Project	damType	Concrete gravity
+Holcomb Rock Dam	damType	Concrete gravity
+Reusens Dam	damType	Concrete gravity and concrete arch
+Coleman Falls Dam	damType	Gravity
+Big Island Dam	damType	Gravity
+Scotts Mill Dam	damType	gravity and arch
+Chowilla Dam	damType	E
+Patgaon	damType	Earthen
+Overcreek Dam	damType	Earth-fill
+Upper Tamakoshi Hydroelectric Project	damType	Run-of-river
+Ulu Jelai Power Station	damType	G
+Nilambe Dam	damType	G
+Émosson Dam	damType	Arch dam
+Geçitköy Dam	damType	Embankment, rock-fill clay core
+Deduru Oya Dam	damType	Embankment dam
+Rambakan Oya Dam	damType	Embankment dam
+Ngondoma Dam	damType	Embankment dam
+Mai Cascade Hydropower Plant	damType	Gravity
+Sunkoshi Small Hydropower Plant	damType	Boulder lined
+Two Rivers Dam	damType	Embankment, earth-fill
+Vorotan Cascade	damType	Embankment type, mixed rockfill and earthfill
+Vorotan Cascade	damType	Concrete spillway dam
+Vorotan Cascade	damType	Embankment dam, sandy gravel and soil
+Vorotan Cascade	damType	Embankment type, sandy gravel
+Dzoraget Hydroelectric Power Station	damType	Run-of-the-river
+Bolarque Dam	damType	Concrete
+Bolarque Dam	damType	Gravity dam
+Gose Khurd Dam	damType	Dam
+Sukhi Dam	damType	Embankment, earth-fill
+John Compton Dam	damType	Embankment, concrete-face rock-fill
+Baogang Tailings Dam	damType	Embankment, tailings
+Damsal Dam	damType	Embankment, earth-fill
+Eyvashan Dam	damType	Embankment, rock-fill
+Sumbar Dam	damType	Embankment, rock-fill
+Murwani Dam	damType	Rock-fill embankment dam
+Allatoona Dam	damType	Gravity
+Pacheco Reservoir	damType	Earthen
+Indravati Dam	damType	Gravity, masonry
+New Bong Escape Hydropower Project	damType	Run of the river
+Emsworth Locks and Dam	damType	Gated
+Dashields Locks and Dam	damType	fixed crest dam
+Seneca Dam	damType	Concrete gravity
+Montgomery Locks and Dam	damType	Gated
+New Cumberland Locks and Dam	damType	Gated
+Pike Island Locks and Dam	damType	Gated
+Willow Island Lock and Dam	damType	Gated
+Belleville Lock and Dam	damType	Gated
+Racine Lock and Dam	damType	8
+Robert C. Byrd Lock and Dam	damType	8
+Greenup Lock and Dam	damType	9
+Newburgh Lock and Dam	damType	Concrete fixed weir with 9 Tainter gates
+Smithland Lock and Dam	damType	Concrete fixed weir with 11 Tainter gates
+Lock and Dam Number 52	damType	Wicket
+Lock and Dam Number 53	damType	was Wicket
+T.J. O'Brien Lock and Dam	damType	4
+Red Bluff Diversion Dam	damType	Concrete gravity
+Azad Pattan Hydropower Project	damType	Gravity dam
+Azad Pattan Hydropower Project	damType	Run of the river
+Little Falls Dam	damType	Concrete gravity
+Beyhan I Dam	damType	Gravity, roller-compacted concrete
+Upper Kaleköy Dam	damType	Gravity, roller-compacted concrete
+Bağıştaş 1 Dam	damType	Embankment
+Bağıştaş 2 Dam	damType	Gravity
+Yedisu Dam	damType	Embankment, gravity section
+Pembelik Dam	damType	Embankment, gravity section
+Tatar Dam	damType	Embankment, earth-fill clay-core
+Burç Bendi Dam	damType	Gravity
+Sebakwe Dam	damType	Embankment dam
+Egglfing-Obernberg Hydropower Plant	damType	Concrete
+Egglfing-Obernberg Hydropower Plant	damType	Gravity dam
+Suki Kinari Hydropower Project	damType	Embankment, asphalt concrete face, rock-fill
+Karot Hydropower Project	damType	Embankment, rock-fill
+Tapovan Vishnugad Hydropower Plant	damType	Gravity
+Shahpurkandi dam project	damType	Gravity
+Lower Grumbach Pond	damType	Stone
+Matilija Dam	damType	Concrete arch dam
+Pathrala barrage	damType	Embankment, earth-fill
+Deralok Dam	damType	Gravity, diversion weir
+Bawanur Dam	damType	Embankment, earth-fill
+Bastora Dam	damType	Gravity, roller-compacted concrete
+Mequinenza Dam	damType	Concrete
+Mequinenza Dam	damType	Gravity dam
+Gran Olo hydroelectric power plant	damType	Run-of-the-river hydroelectricity
+Puketi hydroelectric power plant	damType	Run-of-the-river hydroelectricity
+Ribarroja Dam	damType	Concrete
+Ribarroja Dam	damType	Gravity dam
+Williamsport Dam	damType	Low head
+Malankara Dam	damType	Gravity concrete
+Valide Dam	damType	Solid gravity dam
+New Dam	damType	Solid gravity dam
+Topuzlu Dam	damType	Solid gravity dam
+Moforsen Hydroelectric Power Station	damType	Concrete
+Moforsen Hydroelectric Power Station	damType	Gravity dam
+Krångede Hydroelectric Power Station	damType	Concrete
+Krångede Hydroelectric Power Station	damType	Gravity dam
+Vargfors Hydroelectric Power Station	damType	Concrete
+Vargfors Hydroelectric Power Station	damType	Arch dam
+Höljes Hydroelectric Power Station	damType	Embankment dam
+Stornorrfors Hydroelectric Power Station	damType	Concrete
+Stornorrfors Hydroelectric Power Station	damType	Gravity dam
+Storfinnforsen Hydroelectric Power Station	damType	Concrete
+Storfinnforsen Hydroelectric Power Station	damType	Buttress dam
+Laúca Dam	damType	Gravity, roller-compacted concrete
+Búðarháls Power Plant	damType	Embankment, two rock-fill dams
+Solbergfoss Hydroelectric Power Station	damType	Concrete
+Solbergfoss Hydroelectric Power Station	damType	Gravity dam
+Moccasin Dam	damType	Rockfill
+Moore Dam	damType	Embankment, gravity
+El Granero Dam	damType	Embankment
+Lago Colina Dam	damType	Gravity
+La Boquilla Dam	damType	Gravity
+Longtang Dam	damType	Gravity dam
+Taşköprü	damType	A
+Kreuzbergmaut Hydroelectric Power Station	damType	Concrete
+Kreuzbergmaut Hydroelectric Power Station	damType	Gravity dam
+Beyhan II Dam	damType	Gravity
+Lower Kaleköy Dam	damType	Gravity, roller-compacted concrete
+Garsten-St. Ulrich Hydroelectric Power Station	damType	Concrete
+Garsten-St. Ulrich Hydroelectric Power Station	damType	Gravity dam
+Sturgis Dam	damType	Embankment, earth-fill

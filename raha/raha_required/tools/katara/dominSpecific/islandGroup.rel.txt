@@ -1,0 +1,349 @@
+Fair Isle	islandGroup	Shetland
+Iona	islandGroup	Isle of Mull
+Hoy	islandGroup	The Mainland, Orkney
+Rousay	islandGroup	Mainland, Orkney
+Orkney	islandGroup	Northern Isles
+Soay, Skye	islandGroup	Skye
+Shetland	islandGroup	Northern Isles
+Gruinard Island	islandGroup	Inner Hebrides/Islands of Ross and Cromarty
+Great Cumbrae	islandGroup	Firth of Clyde
+Little Cumbrae	islandGroup	Islands of the Clyde
+North Uist	islandGroup	Uists and Barra
+South Uist	islandGroup	Uists & Barra
+Benbecula	islandGroup	Uists and Barra
+Barra	islandGroup	Uists and Barra
+Bass Rock	islandGroup	Islands of the Forth
+Staffa	islandGroup	Isle of Mull
+Raasay	islandGroup	Skye
+Holy Isle, Firth of Clyde	islandGroup	Firth of Clyde
+Lismore, Scotland	islandGroup	Isle of Mull
+Eriskay	islandGroup	Uist and Barra
+Foula	islandGroup	Shetland mainland
+Rùm	islandGroup	Small Isles
+Taransay	islandGroup	Lewis and Harris
+Brough of Birsay	islandGroup	Mainland Orkney
+Gigha	islandGroup	Islay
+Muck, Scotland	islandGroup	Small Isles
+Canna, Scotland	islandGroup	Small Isles
+North Rona	islandGroup	North Atlantic
+Oronsay, Inner Hebrides	islandGroup	Inner Hebrides
+Mainland, Shetland	islandGroup	Shetland
+Kerrera	islandGroup	Isle of Mull
+Mainland, Orkney	islandGroup	Orkney
+South Rona	islandGroup	Skye
+Eigg	islandGroup	Small Isles
+Sanday, Inner Hebrides	islandGroup	Small Isles
+Scalpay, Inner Hebrides	islandGroup	Skye
+Sanday, Orkney	islandGroup	The Mainland, Orkney
+Tiree	islandGroup	Isle of Mull
+Coll	islandGroup	Isle of Mull
+Yell, Shetland	islandGroup	Mainland, Shetland
+Fetlar	islandGroup	Shetland Mainland
+Unst	islandGroup	Mainland, Shetland
+Ulva	islandGroup	Isle of Mull
+Papa Stour	islandGroup	Shetland Mainland
+Bressay	islandGroup	Mainland, Shetland
+Mousa	islandGroup	Mainland, Shetland
+Whalsay	islandGroup	Shetland mainland
+Stronsay	islandGroup	The Mainland, Orkney
+Eday	islandGroup	The Mainland, Orkney
+Flotta	islandGroup	Mainland Orkney
+Westray	islandGroup	The Mainland, Orkney
+West Burra	islandGroup	Mainland, Shetland
+Noss	islandGroup	Mainland, Shetland
+East Burra	islandGroup	Mainland, Shetland
+South Ronaldsay	islandGroup	The Mainland, Orkney
+Burray	islandGroup	Mainland, Orkney
+Egilsay	islandGroup	Orkney Islands
+Shapinsay	islandGroup	The Mainland, Orkney
+Wyre, Orkney	islandGroup	Mainland, Orkney
+Papa Westray	islandGroup	Orkney
+North Ronaldsay	islandGroup	The Mainland, Orkney
+Northern Isles	islandGroup	British Isles
+Isle of Bute	islandGroup	Firth of Clyde
+Handa, Scotland	islandGroup	Inner Hebrides/Islands of Sutherland
+Out Skerries	islandGroup	Shetland
+Lamb Holm	islandGroup	Mainland, Orkney
+Eynhallow	islandGroup	Orkney
+Vatersay	islandGroup	Uist and Barra
+Grimsay	islandGroup	Uist and Barra
+Scalpay, Outer Hebrides	islandGroup	Lewis and Harris
+Great Bernera	islandGroup	Lewis and Harris
+Baleshare	islandGroup	Uists and Barra
+Berneray	islandGroup	Uists and Barra
+Vallay	islandGroup	Outer Hebrides
+Muckle Roe	islandGroup	Shetland Mainland
+Sanda Island	islandGroup	Firth of Clyde
+Faray	islandGroup	Mainland, Orkney
+Auskerry	islandGroup	Mainland, Orkney
+Calf of Eday	islandGroup	Mainland, Orkney
+Fara, Orkney	islandGroup	Orkney
+Switha	islandGroup	Mainland Orkney
+Copinsay	islandGroup	Mainland, Orkney
+Graemsay	islandGroup	Orkney Islands
+Swona	islandGroup	Mainland Orkney
+Scarp, Scotland	islandGroup	Harris and Lewis
+Davaar Island	islandGroup	Firth of Clyde
+Seil	islandGroup	Slate Islands
+Easdale	islandGroup	Slate Islands
+Luing	islandGroup	Slate Islands
+Scarba	islandGroup	Islay
+Belnahua	islandGroup	Slate Islands
+Treshnish Isles	islandGroup	Isle of Mull
+Ailsa Craig	islandGroup	Firth of Clyde
+Mingulay	islandGroup	Uists and Barra
+Sandray	islandGroup	Barra
+Pabbay, Barra Isles	islandGroup	Outer Hebrides
+Barra Head	islandGroup	Uist and Barra
+Flannan Isles	islandGroup	Lewis and Harris
+Balta, Shetland	islandGroup	Mainland, Shetland
+Hascosay	islandGroup	Mainland, Shetland
+Hildasay	islandGroup	Mainland, Shetland
+Inchcolm	islandGroup	Islands of the Forth
+Vementry	islandGroup	Mainland, Shetland
+Vaila	islandGroup	Mainland, Shetland
+Uyea, Unst	islandGroup	Mainland, Shetland
+Trondra	islandGroup	Mainland, Shetland
+Papa Little	islandGroup	Mainland, Shetland
+South Havra	islandGroup	Mainland, Shetland
+Gometra	islandGroup	Isle of Mull
+Oxna	islandGroup	Mainland, Shetland
+Eilean Donan	islandGroup	Loch Duich
+Out Stack	islandGroup	Mainland, Shetland
+Papa Stronsay	islandGroup	Mainland, Orkney
+Bound Skerry	islandGroup	Out Skerries
+Bound Skerry	islandGroup	Shetland
+Erraid	islandGroup	Isle of Mull
+Torsa	islandGroup	Slate Islands
+Isle of May	islandGroup	Islands of the Forth
+Huney	islandGroup	Mainland, Shetland
+Soay, St Kilda	islandGroup	St Kilda, Scotland
+Housay	islandGroup	Mainland, Shetland
+Eilean Chathastail	islandGroup	Small Isles
+St Ninian's Isle	islandGroup	Shetland
+Cara Island	islandGroup	Islay
+Ronay	islandGroup	Uist and Barra
+Inchmarnock	islandGroup	Islands of the Clyde
+Boreray	islandGroup	Uist and Barra
+Inchkeith	islandGroup	Islands of the Forth
+Fidra	islandGroup	Islands of the Forth
+Inchgarvie	islandGroup	Firth of Forth
+Lady Isle	islandGroup	Firth of Clyde
+Brother Isle	islandGroup	Mainland, Shetland
+Priest Island	islandGroup	Summer Isles
+Sule Stack	islandGroup	North Atlantic
+Sule Skerry	islandGroup	North Atlantic
+Fladda	islandGroup	Slate Islands
+Skerryvore	islandGroup	Isle of Mull
+Dubh Artach	islandGroup	Isle of Mull
+Sgeotasaigh	islandGroup	Lewis and Harris
+Tahay	islandGroup	Uists & Barra
+Inch Kenneth	islandGroup	Inner Hebrides
+Castle Tioram	islandGroup	Inner Hebrides
+Little Colonsay	islandGroup	Mull
+Inchmurrin	islandGroup	Loch Lomond
+Isay	islandGroup	Isle of Skye
+Wiay, Skye	islandGroup	Isle of Skye
+Eorsa	islandGroup	Isle of Mull
+Garbh Eileach	islandGroup	Garvellachs
+Pabbay, Harris	islandGroup	Uists and Barra
+Eileach an Naoimh	islandGroup	Garvellachs
+Eilean Rìgh	islandGroup	Islay
+Eilean Bàn, Lochalsh	islandGroup	Skye
+Sula Sgeir	islandGroup	North Atlantic
+Mugdrum Island	islandGroup	River Tay
+Orsay, Inner Hebrides	islandGroup	Islay
+Shillay	islandGroup	Uists and Barra
+Bruray	islandGroup	Mainland, Shetland
+Linga, Yell	islandGroup	Shetland
+Eilean Mhic Coinnich	islandGroup	Islay
+Seaforth Island	islandGroup	Outer Hebrides
+Isle of Ewe	islandGroup	Loch Ewe
+Gairsay	islandGroup	Mainland, Orkney
+Inchconnachan	islandGroup	Loch Lomond
+Holm of Papa	islandGroup	Mainland Orkney
+Lunga, Treshnish Isles	islandGroup	Treshnish Isles
+Samphrey	islandGroup	Mainland, Shetland
+Ensay	islandGroup	Outer Hebrides
+St Serf's Inch	islandGroup	Loch Leven
+Muldoanich	islandGroup	Uist and Barra
+Lunga	islandGroup	Slate Islands
+Stac Lee	islandGroup	St Kilda, Scotland
+Bac Mòr	islandGroup	Treshnish Isles
+Grimsay	islandGroup	Uist and Barra
+Bac Beag	islandGroup	Treshnish Isles
+Stac an Armin	islandGroup	St Kilda, Scotland
+Cairn na Burgh Mòr	islandGroup	Treshnish Isles
+Fladda, Treshnish Isles	islandGroup	Treshnish Isles
+Tanera Mòr	islandGroup	Summer Isles
+Gighay	islandGroup	Uists and Barra
+Lamba, Shetland	islandGroup	Mainland, Shetland
+Texa	islandGroup	Islay
+Eilean nan Ròn	islandGroup	Highland / Islands of Sutherland
+Stac Biorach	islandGroup	St Kilda, Scotland
+Pabay	islandGroup	Isle of Skye
+Longay	islandGroup	Skye
+Killegray	islandGroup	Outer Hebrides
+Fuday	islandGroup	Uists and Barra
+Eilean Mhealasta	islandGroup	Lewis and Harris
+Eilean Chaluim Chille	islandGroup	Lewis and Harris
+Eilean Chearstaidh	islandGroup	Lewis and Harris
+Lingeigh	islandGroup	Uists and Barra
+Wiay, Uist	islandGroup	Outer Hebrides
+Eilean Mhuire	islandGroup	Shiant Isles
+Tanera Beag	islandGroup	Summer Isles
+Inchcailloch	islandGroup	Loch Lomond
+Eilean Shona	islandGroup	Inner Hebrides
+Flodaigh	islandGroup	Uists and Barra
+Calve Island	islandGroup	Isle of Mull
+Glims Holm	islandGroup	Mainland, Orkney
+South Walls	islandGroup	Mainland Orkney
+Ornsay	islandGroup	Inner Hebrides
+Oronsay, Outer Hebrides	islandGroup	Uist and Barra
+Horse Island, Summer Isles	islandGroup	Summer Isles
+Isle Martin	islandGroup	Summer Isles
+Isle Ristol	islandGroup	Summer Isles
+Oronsay, Loch Sunart	islandGroup	Inner Hebrides
+Càrna	islandGroup	Inner Hebrides
+Oronsay, Loch Bracadale	islandGroup	Skye
+Kirkibost	islandGroup	Uists and Barra
+Eriska	islandGroup	Loch Linnhe
+Garbh Eilean	islandGroup	Shiant Isles
+Longa Island	islandGroup	Highland
+Danna, Scotland	islandGroup	Islay
+Little Bernera	islandGroup	Lewis
+Shuna, Loch Linnhe	islandGroup	Loch Linnhe
+Shuna	islandGroup	Slate Islands
+Dùn Channuill	islandGroup	Garvellachs
+Rysa Little	islandGroup	Mainland, Orkney
+Cava, Orkney	islandGroup	Orkney
+Muckle Green Holm	islandGroup	Orkney
+Hunda	islandGroup	Orkney
+Damsay	islandGroup	Orkney
+Inchfad	islandGroup	Loch Lomond
+Bigga, Shetland	islandGroup	Mainland, Shetland
+Soay Mòr	islandGroup	Lewis and Harris
+Linga, Muckle Roe	islandGroup	Shetland Mainland
+Uyea, Northmavine	islandGroup	Mainland, Shetland
+West Linga	islandGroup	Shetland mainland
+Helliar Holm	islandGroup	Mainland Orkney
+Cairn na Burgh Beag	islandGroup	Treshnish Isles
+Arnamul	islandGroup	Uists and Barra
+Ceann Ear	islandGroup	Monach Islands
+Ceann Iar	islandGroup	Monach Islands
+Shillay, Monach Islands	islandGroup	Monach Islands
+Kili Holm	islandGroup	Mainland Orkney
+Calf of Flotta	islandGroup	Mainland Orkney
+Sweyn Holm	islandGroup	Mainland Orkney
+Holm of Huip	islandGroup	Mainland Orkney
+Holm of Faray	islandGroup	Mainland Orkney
+Rusk Holm	islandGroup	Mainland Orkney
+Island Macaskin	islandGroup	Islay
+Gunna	islandGroup	Isle of Mull
+Calbha Beag	islandGroup	Islands of Sutherland
+Hermetray	islandGroup	Uists and Barra
+Inchlonaig	islandGroup	Loch Lomond
+Inchtavannach	islandGroup	Loch Lomond
+Moncreiffe Island	islandGroup	River Tay
+Innis Chonain	islandGroup	Loch Awe
+Stockinish Island	islandGroup	Lewis and Harris
+Fuaigh Mòr	islandGroup	Outer Hebrides
+Vacsay	islandGroup	Lewis and Harris
+Pabaigh Mòr	islandGroup	Lewis and Harris
+Fiaraidh	islandGroup	Uist and Barra
+Holm of Scockness	islandGroup	Mainland Orkney
+Holm of Houton	islandGroup	Mainland Orkney
+Stuley	islandGroup	Uists & Barra
+Eilean Liubhaird	islandGroup	Lewis and Harris
+Thieves Holm	islandGroup	Mainland Orkney
+Oldany Island	islandGroup	Highland / Islands of Sutherland
+Hellisay	islandGroup	Uists and Barra
+Fladda-chùain	islandGroup	Skye
+Barrel of Butter	islandGroup	Mainland Orkney
+Linga, Samphrey	islandGroup	Mainland, Shetland
+East Linga	islandGroup	Shetland
+Stocaigh	islandGroup	Monach Islands
+Eilean Mòr, Crowlin Islands	islandGroup	Skye
+Flodday	islandGroup	Uists and Barra
+Nave Island	islandGroup	Islay
+Eileanan Iasgaich	islandGroup	Uists & Barra
+Eilean Sùbhainn	islandGroup	Loch Maree
+Garbh Eilean, Loch Maree	islandGroup	Loch Maree
+Eilean Ruairidh Mòr	islandGroup	Loch Maree
+Fuiay	islandGroup	Outer Hebrides
+Flodaigh Mòr	islandGroup	Uists and Barra
+Haskeir	islandGroup	Uists and Barra
+Midgarth	islandGroup	The Mainland, Orkney
+Lingay, Fiaray	islandGroup	Uist and Barra
+Maiden Island	islandGroup	Firth of Lorn
+Lady's Holm	islandGroup	Shetland
+Little Holm, Scatness	islandGroup	Shetland
+Forewick Holm	islandGroup	Shetland
+Bucinch	islandGroup	Loch Lomond
+Clairinsh	islandGroup	Loch Lomond
+Bernera, Lismore	islandGroup	Isle of Mull
+Ceallasaigh Mòr	islandGroup	Uists and Barra
+Flodday near Vatersay	islandGroup	Uists and Barra
+Stac Levenish	islandGroup	St Kilda, Scotland
+Isle of Arran	islandGroup	Firth of Clyde
+Jura, Scotland	islandGroup	Islay
+Lewis and Harris	islandGroup	Outer Hebrides
+Colonsay	islandGroup	Islay
+Boreray, St Kilda	islandGroup	St Kilda, Scotland
+Stromay	islandGroup	Uists and Barra
+Ceabhaigh	islandGroup	Lewis and Harris
+Orosay	islandGroup	Barra
+Flodaigh, Lewis	islandGroup	Lewis
+Fraoch-Eilean	islandGroup	Uists and Barra
+Eilean Ceann na Creige	islandGroup	West Loch Tarbert, Argyll
+Insh, Slate Islands	islandGroup	Slate Islands
+Eilean Mhic Chrion	islandGroup	Loch Craignish
+Eilean Mòr, Loch Langavat	islandGroup	Lewis
+Eilean an Ròin Mòr	islandGroup	Highland / Islands of Sutherland
+Eilean Horrisdale	islandGroup	Wester Ross
+Eilean Ighe	islandGroup	Inner Hebrides
+Neave Island	islandGroup	Highland / Islands of Sutherland
+Eilean Hoan	islandGroup	List of outlying islands of Scotland
+Eilean Choraidh	islandGroup	List of outlying islands of Scotland
+Innis Mhòr	islandGroup	List of outlying islands of Scotland
+Eilean Trodday	islandGroup	Skye
+South Ascrib	islandGroup	Skye
+Eilean Ornsay	islandGroup	Mull
+Harlosh Island	islandGroup	Skye
+Tarner Island	islandGroup	Skye
+Eilean Tigh	islandGroup	Skye
+Torran Rocks	islandGroup	Isle of Mull
+Eilean Mòr, Loch Dunvegan	islandGroup	Skye
+Preston Island	islandGroup	Islands of the Forth
+Rainish Eilean Mòr	islandGroup	List of freshwater islands in Scotland
+Dunglass Island	islandGroup	List of freshwater islands in Scotland
+Fraoch Eilean, Loch Awe	islandGroup	Loch Awe
+The Scares	islandGroup	List of outlying islands of Scotland
+Campaigh	islandGroup	Outer Hebrides
+Cealasaigh	islandGroup	Outer Hebrides
+Bearasaigh	islandGroup	Outer Hebrides
+Seanna Chnoc	islandGroup	Outer Hebrides
+Flodaigh	islandGroup	Outer Hebrides
+Law Ting Holm	islandGroup	Shetland
+Tullibody Inch	islandGroup	Islands of the Forth
+Staffin Island	islandGroup	Skye
+Papa, Shetland	islandGroup	Mainland, Shetland
+Eileanan Chearabhaigh	islandGroup	Uist
+Calbha Mor	islandGroup	Islands of Sutherland
+Ceallasaigh Beag	islandGroup	Uists and Barra
+Eilean Meadhonach	islandGroup	Skye
+Contin Island	islandGroup	River Conon
+Inner Holm of Skaw	islandGroup	Shetland mainland
+Outer Holm of Skaw	islandGroup	Shetland mainland
+Holm of Skaw	islandGroup	Shetland mainland
+Skate of Marrister	islandGroup	Shetland mainland
+Eilean na Cille	islandGroup	Uist and Barra
+Eilean Loain	islandGroup	Islay
+Eilean dà Mhèinn	islandGroup	Islay
+Inner Holm	islandGroup	Orkney
+Eilean Mòr, Loch Sunart	islandGroup	Inner Hebrides
+Lingeigh, North Uist	islandGroup	Uists and Barra
+Eilean Dubh, Summer Isles	islandGroup	Summer Isles
+Eilean Mòr, MacCormaig Isles	islandGroup	MacCormaig Isles
+Nevi Skerry	islandGroup	Mainland Orkney
+Flodday, Loch Maddy	islandGroup	Uists and Barra

@@ -1,0 +1,707 @@
+Docklands Light Railway	ridership	278100
+Massachusetts Bay Transportation Authority	ridership	1277200
+Toronto Transit Commission	ridership	2700000
+Paris Métro	ridership	4210000
+Moscow Metro	ridership	9716000
+SkyTrain	ridership	390600
+Washington Metro	ridership	836800
+MAX Light Rail	ridership	116800
+Warsaw Metro	ridership	568000
+Portland Streetcar	ridership	15248
+TriMet	ridership	319700
+Hong Kong Tramways	ridership	180000
+MTR	ridership	* Rapid transit:
+MTR	ridership	4.563
+MTR	ridership	635000
+Caltrain	ridership	58245
+Caltrain	ridership	17392
+Caltrain	ridership	8849
+Kowloon–Canton Railway	ridership	about 1.49 million
+Metropolitan Atlanta Rapid Transit Authority	ridership	432900
+Metropolitan Atlanta Rapid Transit Authority	ridership	231700
+Metropolitan Atlanta Rapid Transit Authority	ridership	199000
+Metropolitan Atlanta Rapid Transit Authority	ridership	2200
+Tren Urbano	ridership	36280
+New York City Subway	ridership	5650610
+New York City Subway	ridership	3309731
+New York City Subway	ridership	2663418
+PATH	ridership	263300
+NJ Transit	ridership	*940,877 \n*392,613 \n*216,375 \n*
+Staten Island Railway	ridership	28200
+Bucharest Metro	ridership	475287
+GO Transit	ridership	276000
+GO Transit	ridership	-209000
+GO Transit	ridership	-67000
+Maryland Transit Administration	ridership	382100
+Los Angeles County Metropolitan Transportation Authority	ridership	1286723
+Tyne and Wear Metro	ridership	109600
+Stockholm metro	ridership	898630
+Agence métropolitaine de transport	ridership	86100
+Agence métropolitaine de transport	ridership	-79700
+Agence métropolitaine de transport	ridership	-6400
+West Coast Express	ridership	10600
+Mumbai Suburban Railway	ridership	7585000
+Yamanote Line	ridership	3725247
+Metropolitan Transportation Authority	ridership	8658764
+Tokyo Metropolitan Bureau of Transportation	ridership	2850000
+Tokyo Metro	ridership	6840000
+Tokyo Metro Ginza Line	ridership	1006102
+Peak Tram	ridership	About 17,000
+Virginia Railway Express	ridership	17500
+Osaka Municipal Subway	ridership	2464000
+Tokyo Metro Chiyoda Line	ridership	1131379
+Chicago %22L%22	ridership	767730
+Helsinki Metro	ridership	201400
+Mass Rapid Transit	ridership	2879000
+Yurikamome	ridership	106000
+Athens Metro	ridership	1353000
+North East MRT Line	ridership	549000
+Green Line	ridership	232000
+Tōkyū Tōyoko Line	ridership	1119453
+Metra	ridership	292000
+Metra	ridership	109700
+Glasgow Subway	ridership	34950
+Tokyo Monorail	ridership	311856
+BTS Skytrain	ridership	600000
+Detroit People Mover	ridership	6000
+Tokyo subway	ridership	8700000
+Circle MRT Line	ridership	398000
+Blue Line	ridership	186796
+Brown Line	ridership	101881
+Blue Line	ridership	63225
+Expo Line	ridership	289460
+Canada Line	ridership	136259
+MARC Train	ridership	31300
+TransMilenio	ridership	22
+Berlin U-Bahn	ridership	1390000
+Berlin S-Bahn	ridership	1300000
+Osaka Monorail	ridership	100602
+Ankara Metro	ridership	289155
+Miami-Dade Transit	ridership	391000
+Metromover	ridership	36400
+Toronto subway	ridership	1006300
+Metrolink	ridership	41951
+MRT	ridership	253255
+Beijing Subway	ridership	8900000
+Beijing Subway	ridership	10087600
+Beijing Subway	ridership	12690000
+Line 2 Bloor–Danforth	ridership	519180
+Amsterdam Metro	ridership	181000
+Tokyo Metro Hibiya Line	ridership	1073900
+Kiev Metro	ridership	1439000
+Metro Transit	ridership	286300
+São Paulo Metro	ridership	4600000
+Hudson–Bergen Light Rail	ridership	54434
+Cairo Metro	ridership	3600000
+Luas	ridership	89000
+Mumbai Metro	ridership	277000
+MetroLink	ridership	53123
+Tokyo Metro Hanzōmon Line	ridership	858836
+Santa Clara Valley Transportation Authority	ridership	142100
+Shanghai Metro	ridership	8410000
+Shanghai Metro	ridership	11299000
+Ashmont–Mattapan High Speed Line	ridership	4637
+CTrain	ridership	333800
+RTA Rapid Transit	ridership	19300
+RTA Rapid Transit	ridership	10800
+OnTrack	ridership	75
+Seattle Center Monorail	ridership	7000
+San Bernardino Line	ridership	12633
+Ventura County Line	ridership	3950
+Sound Transit	ridership	151854
+Caracas Metro	ridership	2000000
+Altamont Corridor Express	ridership	4900
+Mexico City Metro	ridership	4616264
+Riverside Line	ridership	5161
+Tokyo Metro Marunouchi Line	ridership	1089257
+Taipei Metro	ridership	1970000
+Taipei Metro	ridership	2150000
+Kaohsiung Mass Rapid Transit	ridership	178975
+Toei Ōedo Line	ridership	878960
+Copenhagen S-train	ridership	357000
+Chennai Mass Rapid Transit System	ridership	100000
+Line 1, Beijing Subway	ridership	1234900
+Line 1, Beijing Subway	ridership	1536900
+Line 5, Beijing Subway	ridership	847500
+Line 5, Beijing Subway	ridership	1142000
+Batong Line, Beijing Subway	ridership	300600
+Batong Line, Beijing Subway	ridership	364800
+Line 2, Beijing Subway	ridership	1168400
+Line 2, Beijing Subway	ridership	1529800
+AirTrain JFK	ridership	17772
+Line 10, Beijing Subway	ridership	1690100
+Line 10, Beijing Subway	ridership	2076500
+Blue and Green Lines	ridership	12400
+Santiago Metro	ridership	2400000
+Main Line	ridership	9160
+Buenos Aires Underground	ridership	1110000
+Zürich S-Bahn	ridership	409331
+Tokyo Metro Namboku Line	ridership	449267
+Tōkyū Den-en-toshi Line	ridership	1162282
+Tokyo Metro Tōzai Line	ridership	1321656
+Tokyo Metro Yūrakuchō Line	ridership	927104
+Toei Asakusa Line	ridership	669603
+Companhia Paulista de Trens Metropolitanos	ridership	2900000
+TRAX	ridership	67300
+Bukit Panjang LRT Line	ridership	50000
+Lisbon Metro	ridership	422000
+O-Bahn Busway	ridership	31000
+Vienna U-Bahn	ridership	1300000
+Munich S-Bahn	ridership	800000
+Munich U-Bahn	ridership	1068490
+Bergen County Line	ridership	4305
+Jacksonville Transportation Authority	ridership	42200
+Jacksonville Transportation Authority	ridership	5400
+Keio Inokashira Line	ridership	547845
+Heartland Flyer	ridership	213
+Line 13, Beijing Subway	ridership	745300
+Line 13, Beijing Subway	ridership	939300
+Wuppertal Suspension Railway	ridership	82000
+Line C	ridership	33861810
+Line H	ridership	14093
+Line H	ridership	2385210
+Line H	ridership	80000
+Line D	ridership	44038410
+Line A	ridership	30718810
+Line B	ridership	41288210
+Line E	ridership	13554910
+Morristown Line	ridership	50000
+North Jersey Coast Line	ridership	17862
+Metrorail	ridership	78100
+Shore Line East	ridership	1900
+Lyon Metro	ridership	740000
+Kitakyushu Monorail	ridership	31700
+Seibu Ikebukuro Line	ridership	892025
+Shenzhen Metro	ridership	3900000
+Shenzhen Metro	ridership	4170000
+Okinawa Monorail	ridership	35000
+IRT Flushing Line	ridership	817793
+IND Eighth Avenue Line	ridership	1007933
+Sounder commuter rail	ridership	16504
+BMT Canarsie Line	ridership	566997
+IND Concourse Line	ridership	223492
+Helsinki commuter rail	ridership	174000
+Muni Metro	ridership	128500
+Incheon Subway	ridership	199527
+Oslo Metro	ridership	227400
+BMT Broadway Line	ridership	748925
+F Market & Wharves	ridership	23208
+Sofia Metro	ridership	350000
+Guangzhou Metro	ridership	6580000
+Guangzhou Metro	ridership	8790000
+BMT Nassau Street Line	ridership	126833
+IND Crosstown Line	ridership	149043
+N Judah	ridership	41439
+L Taraval	ridership	28816
+K Ingleside	ridership	33752
+J Church	ridership	14787
+San Diego Trolley	ridership	119800
+Milan Metro	ridership	1150000
+Queensland Rail City network	ridership	150500
+Harbour line	ridership	1000000
+Metro Bilbao	ridership	175342
+IRT Lenox Avenue Line	ridership	126471
+Inland Empire–Orange County Line	ridership	4262
+Orange County Line	ridership	8255
+Antelope Valley Line	ridership	6036
+Poma 2000	ridership	2500
+Saint Petersburg Metro	ridership	2090000
+Light Rail Transit	ridership	152000
+Walt Disney World Monorail System	ridership	150000
+SEPTA Routes 101 and 102	ridership	Route 101: 4,400
+SEPTA Routes 101 and 102	ridership	Route 102: 3,576
+Tōbu Tōjō Line	ridership	954715
+Tobu Urban Park Line	ridership	448528
+IRT White Plains Road Line	ridership	307666
+Tianjin Metro	ridership	701000
+Tianjin Metro	ridership	1080700
+Toronto streetcar system	ridership	291000
+Budapest Metro	ridership	1270000
+Hamburg U-Bahn	ridership	597260
+Société de transport de Montréal	ridership	2099800
+Morgantown Personal Rapid Transit	ridership	16000
+Mexico City Metrobús	ridership	900000
+Manila Light Rail Transit System	ridership	roughly 1.3 million
+Porto Metro	ridership	152600
+Monterrey Metro	ridership	483065
+Atlantic City Line	ridership	2951
+Los Angeles Metro Rail	ridership	362135
+Red Line	ridership	149096
+Lowell Line	ridership	11965
+Green Line %22C%22 Branch	ridership	14579
+Sacramento Regional Transit District	ridership	48400
+Fairmount Line	ridership	1038
+BNSF Railway	ridership	64800
+512 St. Clair	ridership	32400
+Worcester Line	ridership	16293
+Fitchburg Line	ridership	9556
+North Central Service	ridership	5600
+SouthWest Service	ridership	9600
+Rock Island District	ridership	32100
+LINK Train	ridership	17000
+Ann Arbor Area Transportation Authority	ridership	24900
+Dubai Metro	ridership	455000
+Kolkata Metro	ridership	Over 650,000
+Blue Line	ridership	83612
+Orange Line	ridership	22469
+Gold Line	ridership	50087
+Expo Line	ridership	43199
+Keisei Main Line	ridership	500121
+Wuhan Metro	ridership	1560000
+Wuhan Metro	ridership	2541900
+Zamoskvoretskaya Line	ridership	1230654
+Rennes Metro	ridership	135000
+Filyovskaya Line	ridership	320600
+IRT Nostrand Avenue Line	ridership	61390
+Rio de Janeiro Metro	ridership	625205
+501 Queen	ridership	43500
+Central Link	ridership	69125
+Tokyo Metro Fukutoshin Line	ridership	330096
+Namma Metro	ridership	175000
+511 Bathurst	ridership	17600
+504 King	ridership	53100
+Line 1, Shanghai Metro	ridership	1460000
+Line 2, Shanghai Metro	ridership	1870000
+Line 5, Shanghai Metro	ridership	170000
+Line 4, Shanghai Metro	ridership	940000
+Line 3, Shanghai Metro	ridership	642000
+Green Line	ridership	36141
+Helsinki tram	ridership	200000
+Trams in Oslo	ridership	132000
+Multi-Modal Transport System	ridership	175000
+Guadalajara light rail system	ridership	240000
+Airport Line	ridership	6835
+Newark Line	ridership	9689
+Toei Mita Line	ridership	600570
+Toei Shinjuku Line	ridership	701902
+Chiba Urban Monorail	ridership	45430
+Tobu Isesaki Line	ridership	843495
+Rapid KL	ridership	* LRT:
+Rapid KL	ridership	388327
+Rapid KL	ridership	67703
+Rapid KL	ridership	400000
+Kaluzhsko-Rizhskaya Line	ridership	1283024
+Tagansko-Krasnopresnenskaya Line	ridership	1370200
+Kalininsko-Solntsevskaya Line	ridership	452000
+Serpukhovsko-Timiryazevskaya Line	ridership	1108800
+MAX Green Line	ridership	24300
+Franklin Line	ridership	12480
+Seibu Shinjuku Line	ridership	945302
+Regional Transportation Authority	ridership	2000000
+Nockebybanan	ridership	9000
+Stockholm commuter rail	ridership	269000
+Regional Transportation District	ridership	339300
+Transport express régional	ridership	800000
+Metro Transit	ridership	140000
+Express Rail Link	ridership	27307
+Novosibirsk Metro	ridership	225000
+Novosibirsk Metro	ridership	345000
+Los Teques Metro	ridership	20000
+Bangalore Metropolitan Transport Corporation	ridership	5020000
+Purple Line	ridership	64800
+Baltimore Metro Subway	ridership	51018
+Baltimore Light Rail	ridership	27537
+Red Line	ridership	374516
+Kharkiv Metro	ridership	633150
+Shibayama Railway	ridership	2458
+Samara Metro	ridership	44000
+Roosevelt Island Operating Corporation	ridership	1566
+Transdev Auckland	ridership	14000000
+Frankfurt U-Bahn	ridership	321000
+Kazan Metro	ridership	86000
+Arbatsko-Pokrovskaya Line	ridership	954549
+Chongqing Rail Transit	ridership	1730000
+Chongqing Rail Transit	ridership	2574000
+Gothenburg tram network	ridership	285112
+Biotren	ridership	16000
+Cercanías Madrid	ridership	880000
+Music City Star	ridership	1225
+Nuremberg U-Bahn	ridership	316000
+Medellín Metro	ridership	465387
+Minsk Metro	ridership	872700
+Dnipropetrovsk Metro	ridership	20575
+Rigi Railways	ridership	1569632
+Kryvyi Rih Metrotram	ridership	45340
+Link light rail	ridership	68856
+Ferrocarril Suburbano de la Zona Metropolitana del Valle de México	ridership	88000
+FrontRunner	ridership	17600
+Purple Line	ridership	149096
+Keikyū Main Line	ridership	1129320
+Capital MetroRail	ridership	2900
+Baku Metro	ridership	608200
+506 Carlton	ridership	40900
+Port Washington Branch	ridership	46808
+Tacoma Link	ridership	3447
+Rotterdam Metro	ridership	300000
+Yekaterinburg Metro	ridership	130000
+505 Dundas	ridership	31900
+Nanjing Metro	ridership	1960000
+Nanjing Metro	ridership	2996200
+Busan Metro	ridership	890108
+Moscow Monorail	ridership	16000
+Bordeaux tramway	ridership	165000
+Onehunga Branch	ridership	1200
+T Third Street	ridership	33752
+Lille Metro	ridership	271230
+Edmonton Light Rail Transit	ridership	108690
+Rouen tramway	ridership	67000
+Nantes tramway	ridership	274300
+Nizhny Novgorod Metro	ridership	141000
+Funiculaire du Havre	ridership	1315
+Greenbush Line	ridership	5411
+Valenciennes tramway	ridership	29000
+Karachi Circular Railway	ridership	700000
+Rede Integrada de Transporte	ridership	2300000
+Cologne Stadtbahn	ridership	574795
+Stuttgart S-Bahn	ridership	389000
+Caen Guided Light Transit	ridership	42000
+Nice tramway	ridership	70000
+Vienna S-Bahn	ridership	300000
+Oyster Bay Branch	ridership	6000
+Wairarapa Line	ridership	679455
+Maracaibo Metro	ridership	42000
+G:link	ridership	21000
+Optibus	ridership	3500000
+Maharashtra State Road Transport Corporation	ridership	7000000
+Nuremberg S-Bahn	ridership	40000
+Metrorail Western Cape	ridership	621000
+Pittsburgh Light Rail	ridership	27700
+Blue Line	ridership	513897
+Sagami Railway Main Line	ridership	566657
+Sagami Railway Izumino Line	ridership	56843
+Marseille Metro	ridership	210200
+Airport Rail Link	ridership	52900
+Toulouse Metro	ridership	281000
+San Diego Metropolitan Transit System	ridership	251200
+Montreal Metro	ridership	1245700
+Santo Domingo Metro	ridership	173070
+Nagoya Municipal Subway	ridership	1171289
+Brunswick Line	ridership	8138
+Camden Line	ridership	5389
+Chennai Suburban Railway	ridership	1460000
+Saint-Étienne tramway	ridership	92000
+List of bus routes in the Bronx	ridership	1500
+Trondheim Tramway	ridership	2000
+Indore City Bus	ridership	55000
+Trøndelag Commuter Rail	ridership	3300
+Tashkent Metro	ridership	162200
+Trolleybuses in Drammen	ridership	19000
+Trolleybuses in Oslo	ridership	96000
+Bergen Light Rail	ridership	31000
+Downtown MRT Line	ridership	250000
+Transmetro	ridership	About 120,000
+Hangzhou Metro	ridership	710500
+Hangzhou Metro	ridership	1130900
+Chengdu Metro	ridership	1705800
+Chengdu Metro	ridership	2381100
+Valencia Metro	ridership	62000
+San Juan-Caguas Rail	ridership	25000
+Transport in Manchester	ridership	824657
+Sukhumvit Line	ridership	600000
+Bottineau LRT	ridership	27000
+Line A	ridership	450000
+Tenerife Tram	ridership	50000
+Palma Metro	ridership	3208
+Rapid Rail	ridership	465813
+Strasbourg tramway	ridership	300000
+Île-de-France tramway Line 4	ridership	35000
+Shenyang Metro	ridership	762000
+Shenyang Metro	ridership	1070000
+Santa Clara Valley Transportation Authority light rail	ridership	33400
+Vélib'	ridership	108090
+Vélib'	ridership	285830
+Bicing	ridership	28093
+Changchun Rail Transit	ridership	140000
+Changchun Rail Transit	ridership	200000
+Volgograd Metrotram	ridership	136000
+Tōkai Transport Service Jōhoku Line	ridership	1384
+Line 6, Shanghai Metro	ridership	450000
+Line 9, Shanghai Metro	ridership	970000
+Line 8, Shanghai Metro	ridership	1090000
+Bangkok Mass Transit Authority	ridership	3000000
+İzmir Metro	ridership	173000
+Green Line	ridership	129104
+Lynx Red Line	ridership	3
+CityLynx Gold Line	ridership	1500
+Porto Alegre Metro	ridership	175000
+Almaty Metro	ridership	17970
+Recife Metro	ridership	225000
+Teresina Metro	ridership	8000
+KA Commuter Jabodetabek	ridership	737030
+Xi'an Metro	ridership	849000
+Xi'an Metro	ridership	1490600
+Premetro	ridership	2300
+M1	ridership	400000
+Metrobus	ridership	800000
+Montpellier tramway	ridership	282000
+Dalian Metro	ridership	284000
+Metrovia	ridership	~1.3 million
+SuperVia	ridership	620000
+Nantes Busway	ridership	28
+Mumbai Monorail	ridership	12000
+Brescia Metro	ridership	44100
+Line 7, Shanghai Metro	ridership	870000
+Line 10, Shanghai Metro	ridership	870000
+Line 11, Shanghai Metro	ridership	800000
+Green Line	ridership	110000
+Ahmedabad BRTS	ridership	132000
+Airport Express, Beijing Subway	ridership	31300
+Airport Express, Beijing Subway	ridership	49100
+Line 4, Beijing Subway	ridership	1187000
+Line 4, Beijing Subway	ridership	1574000
+Line 9, Beijing Subway	ridership	460800
+Line 9, Beijing Subway	ridership	623700
+Line 7, Beijing Subway	ridership	182800
+Line 7, Beijing Subway	ridership	442000
+Line 14, Beijing Subway	ridership	65000
+Line 14, Beijing Subway	ridership	538000
+Line 8, Beijing Subway	ridership	303100
+Line 8, Beijing Subway	ridership	431000
+Line 6, Beijing Subway	ridership	601900
+Line 6, Beijing Subway	ridership	958000
+Fangshan Line, Beijing Subway	ridership	102600
+Fangshan Line, Beijing Subway	ridership	132100
+Daxing Line, Beijing Subway	ridership	310000
+Daxing Line, Beijing Subway	ridership	376000
+Yizhuang Line, Beijing Subway	ridership	173500
+Yizhuang Line, Beijing Subway	ridership	221200
+Line C	ridership	50000
+Pune Metro	ridership	571000
+Suzhou Rail Transit	ridership	373000
+Suzhou Rail Transit	ridership	638800
+Palm Jumeirah Monorail	ridership	~40,000 , under contemporary interval 23,000. Current ridership much lower.
+Pasig River Ferry Service	ridership	2000
+Delhi Suburban Railway	ridership	3700
+St. Albert Transit	ridership	4047
+Line 15, Beijing Subway	ridership	149400
+Line 15, Beijing Subway	ridership	353000
+Honolulu Rail Transit	ridership	119600
+Cairo Metro Line 1	ridership	1300000
+Guangfo Metro	ridership	160000
+Guangfo Metro	ridership	274000
+Vought Airtrans	ridership	250000000
+Line 12, Shanghai Metro	ridership	540000
+Line 13, Shanghai Metro	ridership	340000
+Line B	ridership	345000
+Changping Line, Beijing Subway	ridership	157100
+Changping Line, Beijing Subway	ridership	238000
+SunRail	ridership	3800
+Yangon Circular Railway	ridership	100000
+Cairo Metro Line 2	ridership	895000
+Cairo Metro Line 3	ridership	750000.0
+Metrotrén	ridership	25000
+Line 1, Guangzhou Metro	ridership	2000000
+Line 2, Guangzhou Metro	ridership	1640000
+Line 3, Guangzhou Metro	ridership	1620000
+Line 3, Guangzhou Metro	ridership	2080000
+Line 4, Guangzhou Metro	ridership	443000
+Zhengzhou Metro	ridership	241000
+Chandigarh Metro	ridership	300000
+Kolkata Monorail	ridership	120000
+Western railway elevated corridor	ridership	1700000
+Railway electrification in Iran	ridership	50000000
+Silver Line	ridership	14194
+Rajkot BRTS	ridership	15000
+Mumbai Skywalk Project	ridership	565000
+Trams in Munich	ridership	284900
+Line 16, Shanghai Metro	ridership	180000
+Transport Est-Ouest Rouennais	ridership	45000
+Line 5, Guangzhou Metro	ridership	1367000
+Delhi Airport Metro Express	ridership	50000
+Edmonton Radial Railway	ridership	over 93,000 in 1945
+Metrotranvía Mendoza	ridership	5000
+Metro-Link Express for Gandhinagar and Ahmedabad	ridership	2000000
+Metro-Link Express for Gandhinagar and Ahmedabad	ridership	4500000
+Alhambra – San Gabriel	ridership	1063529
+Balboa	ridership	55390
+Badner Bahn	ridership	35000
+Ampang Line	ridership	172080
+Trams in Zagreb	ridership	558900
+Line 1, Shenzhen Metro	ridership	960000
+S Line	ridership	3000
+S Line	ridership	1087
+QLINE	ridership	5400
+A-train	ridership	1900
+List of Société de transport de Montréal bus routes	ridership	1403700
+Manila Metro Rail Transit System Line 7	ridership	300000
+Manila Metro Rail Transit System Line 7	ridership	800000
+Violet Line	ridership	250000
+Line 9, Tianjin Metro	ridership	97000
+Line 1, Nanjing Metro	ridership	763000
+Line 1, Nanjing Metro	ridership	1087000
+Kanpur Metropolitan Bus Service	ridership	70000
+BikeMi	ridership	15890
+Whittier	ridership	1139480
+Jetrail	ridership	2500000
+Istanbul Tram	ridership	T1: 320,000
+Istanbul Tram	ridership	T4: 95,000
+Atlanta Streetcar	ridership	700
+Carowinds Monorail	ridership	7000
+Orléans tramway	ridership	42000
+Le Mans tramway	ridership	48000
+Bangkok BRT	ridership	25000
+Airport Transport Service	ridership	7900000
+Nancy Guided Light Transit	ridership	50000
+Line 2, Nanjing Metro	ridership	526000
+Line 2, Nanjing Metro	ridership	693000
+Dublinbikes	ridership	42000
+Ningbo Rail Transit	ridership	104000
+Ningbo Rail Transit	ridership	151400
+Line 1	ridership	260000
+Green Line	ridership	35000
+Venice People Mover	ridership	2871
+Fullerton	ridership	100105
+Beverly Hills	ridership	4776982
+Mass Rapid Transit Master Plan in Bangkok Metropolitan Region	ridership	884000
+Vilniaus autobusai	ridership	275380
+Line 10, Nanjing Metro	ridership	107000
+Line 10, Nanjing Metro	ridership	145000
+RATP Iași	ridership	140000
+Al Mashaaer Al Mugaddassah Metro Southern Line	ridership	72000
+Line 6, Guangzhou Metro	ridership	600000
+Line 6, Guangzhou Metro	ridership	858000
+First Coast Commuter Rail	ridership	1020
+First Coast Commuter Rail	ridership	1490
+First Coast Commuter Rail	ridership	2410
+Elwyn Line	ridership	11148
+Downtown	ridership	4000
+DART Light Rail	ridership	97800
+ESHOT	ridership	2.832
+Los Angeles Metro Busway	ridership	42334
+Navi Mumbai Monorail	ridership	710557
+Pune Monorail	ridership	71557
+Maceió Urban Rail	ridership	11000
+Capital Bikeshare	ridership	5700
+FMetro	ridership	268000
+Pune Suburban Railway	ridership	100000
+Guangzhou Bus Rapid Transit	ridership	1000000
+Panama Metro	ridership	180000
+Casablanca Tramway	ridership	100000
+Mashhad Urban Railway	ridership	130000
+Line 3, Shenzhen Metro	ridership	433400
+Line 2, Shenzhen Metro	ridership	247500
+Côte-des-Neiges	ridership	33425
+406 Express Newman	ridership	4491
+470 Express Pierrefonds	ridership	9954
+467 Express Saint-Michel	ridership	17676
+439 Express Pie-IX	ridership	7000
+427 Express Saint-Joseph	ridership	5594
+TransJakarta Corridors	ridership	around 320,000 per day
+Patna Monorail	ridership	32000
+Ahmedabad Monorail	ridership	710557
+Ludhiana Metro	ridership	25000
+Bhopal Metro	ridership	220000
+Line 1, Chengdu Metro	ridership	763900
+Cebu Bus Rapid Transit System	ridership	330000
+Kanpur Monorail	ridership	35000
+Delhi Metro	ridership	average 2.661 million
+Hangzhou BRT	ridership	40000
+Indore Metro	ridership	190000
+Rabat-Salé tramway	ridership	170000
+Dhaka Metro	ridership	2021
+Line 1, Chongqing Rail Transit	ridership	690000
+Line 2, Chongqing Rail Transit	ridership	234200
+Line 2, Chongqing Rail Transit	ridership	350000
+Line 6, Chongqing Rail Transit	ridership	452300
+Line 3, Chongqing Rail Transit	ridership	682800
+Line 3, Chongqing Rail Transit	ridership	1080000
+Metrobus	ridership	1000000
+Milan suburban railway service	ridership	165000
+Haydarpaşa suburban	ridership	72353
+Accra monorail	ridership	700
+Thiruvananthapuram Light Metro	ridership	246000
+Western line	ridership	3480000
+Central line	ridership	2900000
+Trams in Florence	ridership	40000
+Sanyō Shinkansen	ridership	110004
+Kozhikode Light Metro	ridership	148000
+Changsha Metro	ridership	355200
+Wuxi Metro	ridership	198000
+EsTram	ridership	120000
+Nagpur Metro	ridership	363000
+Dan Ryan branch	ridership	45355
+Line 1, Wuhan Metro	ridership	396000
+Line 1, Wuhan Metro	ridership	210000
+Ride Norfolk	ridership	8
+Jaipur City Transport Services Limited	ridership	150000
+Ürümqi BRT	ridership	35000
+Line 1	ridership	14079
+Line 2, Wuhan Metro	ridership	383600
+Line 2, Wuhan Metro	ridership	799913
+Line 1, Suzhou Rail Transit	ridership	160000
+Line 1, Suzhou Rail Transit	ridership	310000
+T4	ridership	95000
+Sun Link	ridership	4000
+IRT New Lots Line	ridership	73760
+IRT Eastern Parkway Line	ridership	214906
+Line 2, Chengdu Metro	ridership	838200
+Citi Bike	ridership	27287
+Lahore Metrobus	ridership	180000
+Astoria Riverfront Trolley	ridership	Approx. 35,000&mdash;40,000 per season
+Line 4, Wuhan Metro	ridership	168100
+Veturilo	ridership	10000
+Line 4	ridership	530000
+Rapid MetroRail Gurgaon	ridership	32000
+Line 2, Xi'an Metro	ridership	910900
+Line 1, Hangzhou Metro	ridership	935100
+Bern S-Bahn	ridership	175000
+Line 2, Hangzhou Metro	ridership	81900
+Cross Island MRT Line	ridership	600000
+Bhubaneswar City Bus	ridership	37000
+Douglas branch	ridership	17474
+KC Streetcar	ridership	6800
+Suzhou BRT	ridership	50000
+3500 South MAX	ridership	4200
+Nanjing–Gaochun Intercity Railway	ridership	53000
+Nanjing–Gaochun Intercity Railway	ridership	94000
+Santiago Metro Line 1	ridership	897000
+Santiago Metro Line 2	ridership	897000
+Santiago Metro Line 5	ridership	897000
+Santiago Metro Line 3	ridership	897000
+Addis Ababa Light Rail	ridership	200000
+BusCaracas	ridership	30000
+Line 1, Xi'an Metro	ridership	579700
+Dar es Salaam commuter rail	ridership	16000
+Dar es Salaam bus rapid transit	ridership	100000
+Line 3, Nanjing Metro	ridership	503000
+Line 3	ridership	1390000
+São Mateus–Jabaquara Metropolitan Corridor	ridership	250000
+Line 1, Wuxi Metro	ridership	130000
+Line 2, Wuxi Metro	ridership	89000
+Murray Taylorsville MAX	ridership	2200
+Erfurt Stadtbahn	ridership	114885
+Cuiabá Light Rail	ridership	120000
+Cariri Metro	ridership	5000
+Cercanías Sevilla	ridership	25000
+Clermont-Ferrand tramway	ridership	65000
+Rawalpindi-Islamabad Metrobus	ridership	100558
+Karachi Metrobus	ridership	~350,000 daily
+Red Bike	ridership	100000
+Trans Sarbagita	ridership	5000
+Uda Pussellawa railway	ridership	7279
+Réseau électrique métropolitain	ridership	150000
+Ahmedabad suburban railway	ridership	455000
+Samsun Tram	ridership	90
+BRT Federal Line	ridership	600000
+Line 4, Hangzhou Metro	ridership	113900
+Valenbisi	ridership	13305
+Red de Expresos Regionales	ridership	3000000
+Line 3, Chengdu Metro	ridership	354200
+Manila Light Rail Transit System Line 6	ridership	200000
+Manila Light Rail Transit System Line 4	ridership	100000
+Gwalior Metro	ridership	300000
+Transport in Phnom Penh	ridership	7000
+Jabalpur Metro	ridership	200000
+Phnom Penh City Bus	ridership	7000
+Line 4, Chengdu Metro	ridership	424800
+Roads and Transport Authority	ridership	1475000
+Benning Road Line	ridership	2761
+Madrid Barajas Airport People Mover	ridership	27.4
+Yangon BRT	ridership	9000
+Dumbarton Rail Corridor	ridership	5900
+Lanzhou BRT	ridership	309000
+Red Line	ridership	130000
+Kochi Water Metro	ridership	100000
+T4	ridership	95000
+Green Line - Karachi Metrobus	ridership	350000
+Mexicable	ridership	29000

@@ -1,0 +1,607 @@
+Adrenal gland	meshname	Adrenal+Glands
+Bone	meshname	Bone
+Cervix	meshname	Cervix+uteri
+Clitoris	meshname	Clitoris
+Central nervous system	meshname	197
+Endometrium	meshname	Endometrium
+Entorhinal cortex	meshname	Entorhinal+Cortex
+Foot	meshname	Foot
+Glottis	meshname	Glottis
+Hair	meshname	Hair
+Kidney	meshname	Kidney
+Nervous system	meshname	Nervous+System
+Ovary	meshname	Ovary
+Paranasal sinuses	meshname	Paranasal+Sinuses
+Skeleton	meshname	Skeleton
+Spermatozoon	meshname	Spermatozoa
+Skin	meshname	Dermis
+Thyroid	meshname	Thyroid+Gland
+Uterus	meshname	Uterus
+Urethra	meshname	urethra
+Urinary bladder	meshname	Bladder
+Vagina	meshname	Vagina
+Vocal folds	meshname	Vocal+Folds
+Heart	meshname	Heart
+Lung	meshname	Lung
+Vagus nerve	meshname	Vagus+Nerve
+Finger	meshname	Fingers
+Putamen	meshname	Putamen
+Pancreas	meshname	Pancreas
+Mesoderm	meshname	Mesoderm
+Human leg	meshname	Leg
+Stomach	meshname	Stomach
+Peritoneum	meshname	Peritoneum
+Spleen	meshname	Spleen
+Rib	meshname	Ribs
+Substantia nigra	meshname	Substantia+Nigra
+Retina	meshname	Retina
+Larynx	meshname	Larynx
+Melanocyte	meshname	Melanocytes
+Arm	meshname	Arm
+Face	meshname	face
+Hippocampus	meshname	Hippocampus
+Prostate	meshname	Prostate
+Middle ear	meshname	Middle+ear
+Inner ear	meshname	Inner+ear
+Outer ear	meshname	External+Ear
+Tongue	meshname	Tongue
+Thymus	meshname	Thymus+gland
+Circulatory system	meshname	Cardiovascular+System
+Pituitary gland	meshname	Pituitary+Gland
+Hypothalamus	meshname	Hypothalamus
+Optic chiasm	meshname	Optic+chiasm
+Carpal bones	meshname	Carpal+Bones
+Abdominal cavity	meshname	Abdominal+Cavity
+Human tooth	meshname	Tooth
+Mucous membrane	meshname	Mucosa
+Duodenum	meshname	duodenum
+Trachea	meshname	Trache
+Thalamus	meshname	Thalamus
+Hymen	meshname	Hymen
+Incus	meshname	Incus
+Stapes	meshname	Stapes
+Malleus	meshname	Malleus
+Ossicles	meshname	Ear+Ossicles
+Blood–brain barrier	meshname	Blood-Brain+Barrier
+Iris	meshname	Iris
+Basal ganglia	meshname	Basal+Ganglia
+Cecum	meshname	Cecum
+Jejunum	meshname	Jejunum
+Appendix	meshname	Appendix
+Small intestine	meshname	Small+intestine
+Oval window	meshname	Oval+Window
+Eardrum	meshname	Tympanic+Membrane
+Cochlea	meshname	Cochlea
+Amygdala	meshname	Amygdala
+Coronary circulation	meshname	Coronary+Vessels
+Optic nerve	meshname	Optic+Nerve
+Neurolemma	meshname	A08.561.600
+Bartholin's gland	meshname	Bartholin's+Glands
+Esophagus	meshname	Esophagus
+Palatine uvula	meshname	Uvula
+Palate	meshname	Palate
+Bulbourethral gland	meshname	Bulbourethral+Glands
+Amnion	meshname	Amnion
+Ureter	meshname	Ureter
+Clavicle	meshname	Clavicle
+Acetabulum	meshname	Acetabulum
+Femur	meshname	Femur
+Knee	meshname	Knee
+Sympathetic nervous system	meshname	Sympathetic+Nervous+System
+Thumb	meshname	Thumb
+Pleural cavity	meshname	Pleural+Cavity
+Bone marrow	meshname	Bone+Marrow
+Olfactory nerve	meshname	Olfactory+Nerve
+Gallbladder	meshname	Gallbladder
+Canine tooth	meshname	Cuspid
+Temporomandibular joint	meshname	Temporomandibular+Joint
+Medulla oblongata	meshname	Medulla+Oblongata
+Intervertebral disc	meshname	Intervertebral+Disk
+Ulna	meshname	Ulna
+Scapula	meshname	Scapula
+Coccyx	meshname	Coccyx
+Nephron	meshname	Nephrons
+Abducens nerve	meshname	Abducens+Nerve
+Facial nerve	meshname	Facial+Nerve
+Subarachnoid space	meshname	Subarachnoid+Space
+Humerus	meshname	Humerus
+Radial nerve	meshname	Radial+Nerve
+Extracellular matrix	meshname	Extracellular+matrix
+Pons	meshname	Pons
+Navel	meshname	Umbilicus
+Median nerve	meshname	Median+Nerve
+Brachial artery	meshname	Brachial+Artery
+Brachial plexus	meshname	Brachial+plexus
+Xiphoid process	meshname	Xiphoid+Bone
+Sacrum	meshname	Sacrum
+Sclera	meshname	Sclera
+Brainstem	meshname	Brain+Stem
+Eustachian tube	meshname	Eustachian+tube
+Wrist	meshname	Wrist+joint
+Portal vein	meshname	Portal+Vein
+Tricuspid valve	meshname	Tricuspid+Valve
+Mitral valve	meshname	Mitral+Valve
+Forearm	meshname	Forearm
+Brachiocephalic artery	meshname	Brachiocephalic+Veins
+Femoral artery	meshname	Femoral+Artery
+Great saphenous vein	meshname	Saphenous+Vein
+Cauda equina	meshname	Cauda+Equina
+Spinal nerve	meshname	Spinal+nerves
+Ulnar nerve	meshname	Ulnar+nerve
+Brachiocephalic vein	meshname	Brachiocephalic+Veins
+Superior vena cava	meshname	Vena+Cava,+Superior
+Inferior vena cava	meshname	Vena+Cava,+Inferior
+Maxilla	meshname	Maxilla
+Cuboid bone	meshname	Cuboid+Bone
+Trapezoid bone	meshname	Trapezoid+Bone
+Trapezium	meshname	Trapezium+Bone
+Hypoglossal nerve	meshname	Hypoglossal+Nerve
+Vestibulocochlear nerve	meshname	Vestibulocochlear+Nerve
+Trigeminal nerve	meshname	Trigeminal+Nerve
+Glossopharyngeal nerve	meshname	Glossopharyngeal+Nerve
+Oculomotor nerve	meshname	Oculomotor+Nerve
+Accessory nerve	meshname	Accessory+Nerve
+Trochlear nerve	meshname	Trochlear+Nerve
+Circle of Willis	meshname	Circle+of+Willis
+Tibia	meshname	Tibia
+Pericardium	meshname	Pericardium
+Hyoid bone	meshname	Hyoid+Bone
+Macula of retina	meshname	Macula+Lutea
+Corpus callosum	meshname	Corpus+Callosum
+Ventricular system	meshname	Cerebral+Ventricles
+Foramen magnum	meshname	Foramen+Magnum
+Pineal gland	meshname	Pineal+gland
+Parathyroid gland	meshname	Parathyroid+Glands
+Subclavian artery	meshname	Subclavian+Artery
+Delta cell	meshname	D+Cells
+Soft palate	meshname	Soft+Palate
+Taste bud	meshname	Taste+Buds
+Thoracic duct	meshname	Thoracic+Duct
+Semicircular canals	meshname	Semicircular+Canals
+Mandibular nerve	meshname	Mandibular+Nerve
+Lens	meshname	Crystalline+lens
+Shoulder	meshname	Shoulder
+Bronchus	meshname	Bronchi
+Patella	meshname	Patella
+Ethmoid bone	meshname	Ethmoid+bone
+Mammary gland	meshname	A01.236.249
+Sphenoid bone	meshname	Sphenoid+Bone
+Cornea	meshname	Cornea
+Palatine bone	meshname	Palatine+Bone
+Frontal bone	meshname	Frontal+Bone
+Parietal bone	meshname	Parietal+bone
+Mesothelium	meshname	Mesothelium
+Ectoderm	meshname	Ectoderm
+Endoderm	meshname	Endoderm
+Thoracic diaphragm	meshname	Diaphragm
+Vomer	meshname	Vomer
+Fibula	meshname	Fibula
+Metatarsal bones	meshname	Metatarsus
+Metacarpal bones	meshname	Metacarpus
+Chorion	meshname	Chorion
+Incisor	meshname	Incisor
+Parotid gland	meshname	Parotid+Gland
+Anterior pituitary	meshname	Anterior+Pituitary+Gland
+Ankle	meshname	Ankle+joint
+Gap junction	meshname	Gap+Junctions
+Epiglottis	meshname	Epiglottis
+Seminal vesicle	meshname	Seminal+Vesicles
+Nerve fiber	meshname	Nerve+Fibers
+Dentate gyrus	meshname	Dentate+Gyrus
+Achilles tendon	meshname	Achilles+tendon
+Meninges	meshname	Meninges
+Epididymis	meshname	Epididymis
+Vas deferens	meshname	Vas+Deferens
+Ejaculatory duct	meshname	Ejaculatory+Ducts
+Spermatic cord	meshname	Spermatic+Cord
+Forehead	meshname	Forehead
+External carotid artery	meshname	Carotid+Artery,+External
+Cingulate cortex	meshname	Gyrus+Cinguli
+Epiphysis	meshname	Epiphyses
+Myofibril	meshname	Myofibrils
+Inguinal canal	meshname	Inguinal+Canal
+Eyebrow	meshname	Eyebrows
+Scaphoid bone	meshname	Scaphoid+Bone
+Blastocyst	meshname	Blastocyst
+Leydig cell	meshname	Leydig+cells
+Caudate nucleus	meshname	Caudate+Nucleus
+Nasal cavity	meshname	Nasal+Cavity
+Pia mater	meshname	Pia+Mater
+Capitate bone	meshname	Capitate+Bone
+Lunate bone	meshname	Lunate+Bone
+Hamate bone	meshname	Hamate+Bone
+Olfactory bulb	meshname	Olfactory+Bulb
+Sebaceous gland	meshname	Sebaceous+glands
+Parietal lobe	meshname	Parietal+Lobe
+Temporal lobe	meshname	Temporal+Lobe
+Frontal lobe	meshname	Frontal+Lobe
+Occipital lobe	meshname	Occipital+Lobe
+Collecting duct system	meshname	Kidney+Collecting+Ducts
+Extrapyramidal system	meshname	Extrapyramidal+tracts
+Globus pallidus	meshname	Globus+Pallidus
+Midbrain	meshname	Mesencephalon
+Cerebrum	meshname	Telencephalon
+Neocortex	meshname	Neocortex
+Cerebral peduncle	meshname	Cerebral+Peduncle
+Rhinencephalon	meshname	Rhinencephalon
+Human brain	meshname	Brain
+Bowman's capsule	meshname	Bowman+Capsule
+Distal convoluted tubule	meshname	Distal+Kidney+Tubule
+Raphe nuclei	meshname	Raphe+Nuclei
+Basilar membrane	meshname	Basilar+membrane
+Adenoid	meshname	Adenoid
+Calcaneus	meshname	Calcaneus
+Pulmonary artery	meshname	Pulmonary+Artery
+Neuroglia	meshname	Glia
+Internal carotid artery	meshname	Carotid+Artery,+Internal
+Posterior pituitary	meshname	Pituitary+Gland,+Posterior
+Mammillary body	meshname	Mamillary+Bodies
+Choroid plexus	meshname	Choroid+Plexus
+Nasal concha	meshname	Conchae+Nasales
+Saccule	meshname	Saccule+and+Utricle
+Choroid	meshname	Choroid
+Fornix	meshname	Fornix+
+Loop of Henle	meshname	loop+of+henle
+Nucleus accumbens	meshname	Nucleus+Accumbens
+Scalp	meshname	Scalp
+Claustrum	meshname	Claustrum
+Renal calyx	meshname	Kidney+calices
+Oocyte	meshname	Oocytes
+Fascia	meshname	Fascia
+Organ of Corti	meshname	Organ+of+Corti
+Orbit	meshname	Orbit
+Posterior cruciate ligament	meshname	Posterior+Cruciate+Ligament
+Seminiferous tubule	meshname	Seminiferous+Tubules
+Radius	meshname	Radius
+Renal medulla	meshname	Kidney+medulla
+Sinoatrial node	meshname	Sinoatrial+Node
+Pyramidal tracts	meshname	Pyramidal+Tracts
+Pulmonary vein	meshname	Pulmonary+Veins
+Notochord	meshname	Notochord
+Supraoptic nucleus	meshname	Supraoptic+nucleus
+Paraventricular nucleus of hypothalamus	meshname	Paraventricular+hypothalamic+nucleus
+Suprachiasmatic nucleus	meshname	Suprachiasmatic+Nucleus
+Oxyphil cell	meshname	Oxyphil+Cells
+Sertoli cell	meshname	Sertoli+Cells
+Hard palate	meshname	Hard+Palate
+Pulmonary valve	meshname	Pulmonary+Valve
+Cerebral aqueduct	meshname	Cerebral+Aqueduct
+Pisiform bone	meshname	Pisiform+Bone
+Triquetral bone	meshname	Triquetrum+Bone
+Celiac plexus	meshname	Celiac+Plexus
+Dura mater	meshname	Dura+Mater
+Mesentery	meshname	Mesentery
+Olfactory epithelium	meshname	Olfactory+Mucosa
+Submandibular gland	meshname	Submandibular+Gland
+Glomerulus	meshname	Kidney+Glomerulus
+Parietal cell	meshname	Gastric+Parietal+Cells
+Pulvinar nuclei	meshname	Pulvinar
+Upper limb	meshname	Upper Extremity
+Renal cortex	meshname	Kidney+cortex
+Renal pelvis	meshname	Kidney+pelvis
+Solitary nucleus	meshname	Solitary+Nucleus
+Azygos vein	meshname	Azygos+Vein
+Radial artery	meshname	Radial+Artery
+Ductus arteriosus	meshname	Ductus+Arteriosus
+Midbrain tegmentum	meshname	Tegmentum+Mesencephali
+Myenteric plexus	meshname	Myenteric+Plexus
+Enterocyte	meshname	Enterocytes
+Dermis	meshname	Dermis
+Cheek	meshname	Cheek
+Umbilical artery	meshname	Umbilical+Arteries
+Bowman's membrane	meshname	Bowman+membrane
+Arcuate nucleus	meshname	Arcuate+nucleus
+Diencephalon	meshname	Diencephalon
+Axilla	meshname	Axilla
+Tactile corpuscle	meshname	Mechanoreceptors
+Ear	meshname	Ear
+Paramesonephric duct	meshname	Mullerian+Ducts
+Ovarian follicle	meshname	Ovarian+Follicle
+Eyelid	meshname	Eyelids
+Spinal canal	meshname	Spinal+Canal
+Eyelash	meshname	Eyelashes
+Nasolacrimal duct	meshname	Nasolacrimal+Duct
+Conjunctiva	meshname	Conjunctiva
+Dentin	meshname	Dentin
+Diaphysis	meshname	Diaphyses
+Gums	meshname	Gingiva
+Popliteal artery	meshname	Popliteal+Artery
+Trophoblast	meshname	Trophoblasts
+Glycocalyx	meshname	Glycocalyx
+Endolymph	meshname	Endolymph
+Uvea	meshname	Uvea
+Fourth ventricle	meshname	Fourth+Ventricle
+Abdominal aorta	meshname	Aorta,+Abdominal
+Kupffer cell	meshname	Kupffer+Cells
+Septum pellucidum	meshname	Septum+Pellucidum
+Sublingual gland	meshname	Sublingual+Gland
+Nasal septum	meshname	Nasal+septum
+Somite	meshname	Somites
+Ciliary body	meshname	Ciliary+Body
+Optic disc	meshname	Optic+Disk
+Subcutaneous tissue	meshname	Subcutaneous+Tissue
+Spermatid	meshname	Spermatids
+Human eye	meshname	Eye
+Zona pellucida	meshname	Zona+Pellucida
+Inferior colliculus	meshname	Inferior+Colliculus
+Superior colliculus	meshname	Superior+Colliculus
+Rete testis	meshname	Rete+Testis
+Median eminence	meshname	Median+eminence
+Allantois	meshname	Allantois
+Pulp	meshname	Dental+pulp
+Yolk sac	meshname	Yolk sac
+Ependyma	meshname	Ependyma
+Dorsal root ganglion	meshname	Spinal+Ganglia
+Carotid sinus	meshname	Carotid+Sinus
+Cervical vertebrae	meshname	Cervical+vertebrae
+Thoracic vertebrae	meshname	Thoracic+Vertebrae
+Subthalamic nucleus	meshname	Subthalamic+Nucleus
+Jugular vein	meshname	Jugular+Veins
+Lamellar corpuscle	meshname	Pacinian+Corpuscles
+Sweat gland	meshname	Sweat+Glands
+Aortic body	meshname	Aortic+Bodies
+Premolar	meshname	Peneneeeee
+Serous membrane	meshname	Serous+membrane
+Epithalamus	meshname	Epithalamus
+Rhytidectomy	meshname	Rhytidoplasty
+Renal artery	meshname	Renal+Artery
+Periaqueductal gray	meshname	Periaqueductal+Gray
+Lateral ventricles	meshname	Lateral+Ventricles
+Reticular formation	meshname	Reticular+Formation
+Internal jugular vein	meshname	Jugular+Veins
+External jugular vein	meshname	Jugular+Veins
+Olivary body	meshname	Olivary+Nucleus
+Inferior olivary nucleus	meshname	Olivary+Nucleus
+Renal vein	meshname	Renal+Veins
+Trabecular meshwork	meshname	Trabecular+Meshwork
+Recto-uterine pouch	meshname	Douglas'+Pouch
+Basilar artery	meshname	Basilar+Artery
+Vertebral artery	meshname	Subclavian+Artery
+Interventricular foramina	meshname	Foramen+of+Monro
+Enterochromaffin-like cell	meshname	Enterochromaffin-like+Cells
+Synaptosome	meshname	Synaptosomes
+Celiac artery	meshname	Celiac+Artery
+Intrathecal administration	meshname	Subarachnoid+Space
+Anal canal	meshname	Anal+Canal
+Stellate ganglion	meshname	Stellate+ganglion
+Spermatogonium	meshname	Spermatogonia
+Descending aorta	meshname	Aorta,+Thoracic
+Acromioclavicular joint	meshname	Acromioclavicular+Joint
+Superior mesenteric artery	meshname	Mesenteric+Artery,+Superior
+Posterior cranial fossa	meshname	Cranial+Fossa,+Posterior
+Chordae tendineae	meshname	Chordae+Tendinae
+Synovial bursa	meshname	Bursa,+Synovial
+Epineurium	meshname	Epineurium
+Prefrontal cortex	meshname	Prefrontal+Cortex
+Popliteal vein	meshname	Popliteal+Vein
+Dental alveolus	meshname	Tooth+socket
+Anterior cerebral artery	meshname	Anterior+Cerebral+Artery
+Enterochromaffin cell	meshname	Enterochromaffin+Cells
+Cricoid cartilage	meshname	Cricoid+Cartilage
+Femoral vein	meshname	Femoral+Vein
+Red nucleus	meshname	Red+Nucleus
+Otolith	meshname	Otolithic+Membrane
+Thyroid cartilage	meshname	Thyroid+cartilage
+Subfornical organ	meshname	Subfornical+Organ
+Lip	meshname	Lip
+Dental papilla	meshname	Dental+papilla
+Ultimopharyngeal body	meshname	Ultimobranchial+body
+Pancreatic duct	meshname	Pancreatic+Ducts
+Meibomian gland	meshname	Meibomian+glands
+Subclavian vein	meshname	Subclavian+Vein
+Chorda tympani	meshname	Chorda+Tympani+Nerve
+Central retinal artery	meshname	Retinal+Artery
+Ophthalmic artery	meshname	Ophthalmic+Artery
+Pituitary stalk	meshname	Pituitary+Stalk
+Lentiform nucleus	meshname	Corpus+Striatum
+Hip	meshname	Hip
+Bruch's membrane	meshname	Bruch+membrane
+Ulnar artery	meshname	Ulnar+Artery
+Axillary artery	meshname	Axillary+Artery
+Internal thoracic artery	meshname	Mammary+Arteries
+Inferior mesenteric artery	meshname	Mesenteric+Artery,+Inferior
+Splenic artery	meshname	Splenic+Artery
+Splenic vein	meshname	Splenic+Vein
+Maxillary sinus	meshname	Maxillary+Sinus
+Axillary vein	meshname	Axillary+Vein
+Oogonium	meshname	Oogonia
+Myelencephalon	meshname	Myelencephalon
+Hindbrain	meshname	Rhombencephalon
+Metencephalon	meshname	Metencephalon
+Pedunculopontine nucleus	meshname	Pedunculopontine+Tegmental+Nucleus
+Subiculum	meshname	Subiculum
+Parahippocampal gyrus	meshname	Parahippocampal+Gyrus
+Tunica intima	meshname	Tunica+Intima
+Tunica media	meshname	Tunica+Media
+Arytenoid cartilage	meshname	Arytenoid+Cartilage
+Cisterna magna	meshname	Cisterna+Magna
+Tibial nerve	meshname	Tibial+Nerve
+Medial collateral ligament	meshname	Medial+Collateral+Ligament,+Knee
+Common carotid artery	meshname	Carotid+Artery,+Common
+Lesser omentum	meshname	Omentum
+Subthalamus	meshname	Subthalamus
+Corpora quadrigemina	meshname	Corpora+Quadrigemina
+Foramen ovale	meshname	Foramen+Ovale
+Habenula	meshname	habenula
+Arachnoid mater	meshname	Arachnoid
+Frenulum of tongue	meshname	Lingual+Frenum
+Dorsal root of spinal nerve	meshname	Dorsal+Roots
+Ventral root of spinal nerve	meshname	Ventral+Roots
+Interventricular septum	meshname	Heart+Septum
+Parotid duct	meshname	Stensen's+Duct
+Talus bone	meshname	Talus
+Shoulder joint	meshname	Glenohumeral+Joint
+Ethmoid sinus	meshname	Ethmoid+Sinus
+Ventromedial nucleus of the hypothalamus	meshname	Ventromedial+Hypothalamic+Nucleus
+Ampulla of Vater	meshname	Ampulla+of+Vater
+Interatrial septum	meshname	Heart+Septum
+Posterior cerebral artery	meshname	Posterior+Cerebral+Artery
+Thoracic aorta	meshname	Aorta,+Thoracic
+Intercostal nerves	meshname	Intercostal+Nerves
+Cochlear nerve	meshname	Cochlear+Nerve
+Vestibular nerve	meshname	Vestibular+Nerve
+Cavernous sinus	meshname	Cranial+Sinuses
+Mesonephros	meshname	Mesonephros
+Ophthalmic nerve	meshname	Ophthalmic+Nerve
+Maxillary nerve	meshname	Maxillary+Nerve
+Pharyngeal arch	meshname	Branchial+Arches
+Lesser sac	meshname	Lesser+Sac
+Frontal sinus	meshname	Frontal+Sinus
+Decidua	meshname	Decidua
+Internal iliac artery	meshname	Iliac+Artery
+Ilium	meshname	Ilium
+Metacarpophalangeal joint	meshname	Metacarpophalangeal+Joint
+Tympanic duct	meshname	Scala+Tympani
+Cochlear duct	meshname	Cochlear+Duct
+Cortical reaction	meshname	Zona+Pellucida
+List of thalamic nuclei	meshname	Thalamic+nuclei
+Aortic arch	meshname	Aortic+Arch
+Syncytiotrophoblast	meshname	Syncytiotrophoblasts
+Femoral nerve	meshname	Femoral+nerve
+Dural venous sinuses	meshname	Cranial+Sinuses
+Occipital sinus	meshname	Cranial+Sinuses
+Confluence of sinuses	meshname	Cranial+Sinuses
+Straight sinus	meshname	Cranial+Sinuses
+Superior petrosal sinus	meshname	Cranial+Sinuses
+Inferior petrosal sinus	meshname	Cranial+Sinuses
+Inferior sagittal sinus	meshname	Cranial+Sinuses
+Superior sagittal sinus	meshname	Cranial+Sinuses
+Subtalar joint	meshname	Subtalar+Joint
+Lumbar plexus	meshname	Lumbosacral+Plexus
+Ischium	meshname	Ischium
+Pubis	meshname	Pubic+Bone
+Ileocecal valve	meshname	Ileocecal+valve
+Round ligament of uterus	meshname	Round+Ligament
+Lingual nerve	meshname	Lingual+Nerve
+Round window	meshname	Round+Window
+Primitive streak	meshname	Primitive+Streak
+Cytotrophoblast	meshname	Trophoblasts
+Sural nerve	meshname	Sural+Nerve
+Sphenoidal sinus	meshname	Sphenoid+Sinus
+Trochlear nucleus	meshname	n_11
+Trigeminal nerve nuclei	meshname	Trigeminal+nuclei
+Spinal trigeminal nucleus	meshname	Trigeminal+Nucleus,+Spinal
+Trigeminal motor nucleus	meshname	Trigeminal+nuclei
+Adrenal adenoma	meshname	Adrenal+Glands
+First metacarpal bone	meshname	Metacarpal+Bones
+Fourth metacarpal bone	meshname	Metacarpal+Bones
+Second metacarpal bone	meshname	Metacarpal+Bones
+Fifth metacarpal bone	meshname	Metacarpal+Bones
+Third metacarpal bone	meshname	Metacarpal+Bones
+Sigmoid sinus	meshname	Cranial+Sinuses
+Posterior external jugular vein	meshname	Jugular+Veins
+Anterior jugular vein	meshname	Jugular+Veins
+Intercavernous sinuses	meshname	Cranial+Sinuses
+Transverse sinuses	meshname	Cranial+Sinuses
+Vitelline duct	meshname	Vitelline+Duct
+Paneth cell	meshname	Paneth+Cells
+Middle colic artery	meshname	a_61
+Lamina terminalis	meshname	Lamina+Terminalis
+Tuber cinereum	meshname	Tuber+cinereum
+Trigeminal ganglion	meshname	Semilunar+Ganglion
+Superior cervical ganglion	meshname	Superior+Cervical+Ganglion
+Submandibular duct	meshname	Wharton+Duct
+Superior salivary nucleus	meshname	n_11
+Chorionic villi	meshname	Chorionic+Villi
+Greater omentum	meshname	Omentum
+Descending colon	meshname	Colon,+Descending
+Superior hypogastric plexus	meshname	Hypogastric+Plexus
+Celiac ganglia	meshname	Celiac+Ganglia
+Metathalamus	meshname	Metathalamus
+Sternoclavicular joint	meshname	Sternoclavicular+Joint
+Central gelatinous substance of spinal cord	meshname	Substantia+Gelatinosa
+Substantia gelatinosa of Rolando	meshname	Substantia+Gelatinosa
+Ligamenta flava	meshname	Ligamentum+flavum
+Bile canaliculus	meshname	Bile+canaliculi
+Atlanto-axial joint	meshname	Atlanto-Axial+Joint
+Atlanto-occipital joint	meshname	Atlanto-Occipital+Joint
+Superficial epigastric artery	meshname	Epigastric+arteries
+Area postrema	meshname	Area+postrema
+Substantia innominata	meshname	Substantia+innominata
+Spiral ganglion	meshname	Spiral+ganglion
+Inferior ganglion of vagus nerve	meshname	Nodose+Ganglion
+Medial forebrain bundle	meshname	Medial+Forebrain+Bundle
+Lumbosacral plexus	meshname	Lumbosacral+Plexus
+Submucous plexus	meshname	Submucous+Plexus
+Diagonal band of Broca	meshname	Diagonal+Band+of+Broca
+Thoracic splanchnic nerves	meshname	Splanchnic+Nerves
+Urachus	meshname	Urachus
+Vitelline membrane	meshname	Vitelline+membrane
+Islands of Calleja	meshname	Islands+of+Calleja
+Corneal epithelium	meshname	Epithelium,+corneal
+Tectorial membrane	meshname	Tectorial+Membrane
+Osseous spiral lamina	meshname	Spiral+Lamina
+Stria vascularis of cochlear duct	meshname	Stria+Vascularis
+Vestibular aqueduct	meshname	Vestibular+Aqueduct
+Endolymphatic sac	meshname	Endolymphatic+Sac
+Blood–air barrier	meshname	Blood-Air+Barrier
+Vagovagal reflex	meshname	Enterochromaffin-like+Cells
+Chin	meshname	Chin
+Intertarsal joints	meshname	Tarsal+Joints
+Intercarpal joints	meshname	Intercarpal+Joints
+Patellar ligament	meshname	Patellar+Ligament
+Dorsomedial hypothalamic nucleus	meshname	Dorsomedial+hypothalamic+nucleus
+Anterior hypothalamic nucleus	meshname	Anterior+hypothalamic+nucleus
+Preoptic area	meshname	Preoptic+area
+Lateral hypothalamus	meshname	Lateral+Hypothalamic+Area
+Truncus arteriosus	meshname	Truncus+Arteriosus
+Triangular fibrocartilage	meshname	triangular+fibrocartilage
+Femur neck	meshname	femur+neck
+Femoral head	meshname	femur+head
+Perineurium	meshname	Perineurium
+Endoneurium	meshname	Endoneurium
+Apocrine sweat gland	meshname	Apocrine+Glands
+Eccrine sweat gland	meshname	Eccrine+Glands
+Facet joint	meshname	Zygapophyseal+joint
+Enteroendocrine cell	meshname	Enteroendocrine+cells
+Cloaca	meshname	Cloaca
+Glomerular basement membrane	meshname	glomerular+basement+membrane
+Costamere	meshname	Costameres
+Medial dorsal nucleus	meshname	mediodorsal+thalamic+nucleus
+Human nose	meshname	Nose
+Chiasmal syndrome	meshname	Optic+chiasm
+Mesencephalic nucleus of trigeminal nerve	meshname	Trigeminal+nuclei
+Principal sensory nucleus of trigeminal nerve	meshname	Trigeminal+nuclei
+Subcommissural organ	meshname	Subcommissural+organ
+Anterior nuclei of thalamus	meshname	Anterior+Thalamic+Nuclei
+Midline nuclear group	meshname	Midline+Nuclear+Group
+Lateral nuclear group	meshname	lateral+nuclear+group
+Ventral nuclear group	meshname	ventral+nuclear+group
+Intralaminar nuclei of thalamus	meshname	intralaminar+thalamic+nuclei
+Hip pointer	meshname	Ilium
+Vocal pedagogy	meshname	Vocal+Cords
+Human penis	meshname	Penis
+Central retinal vein	meshname	Central+retinal+vein
+Astragalectomy	meshname	Talus
+Abdominopelvic cavity	meshname	Abdominopelvic+Cavity
+Buttocks	meshname	Buttocks
+Liver	meshname	Liver
+Scrotum	meshname	Scrotum
+Hand	meshname	Hand
+Rectum	meshname	Rectum
+Elbow	meshname	Elbow+joint
+Muscle	meshname	Muscles
+Pharynx	meshname	Pharynx
+Primary motor cortex	meshname	Motor+Cortex
+Fallopian tube	meshname	Fallopian+Tubes
+Globe	meshname	Globe
+Oropharyngeal cancer	meshname	Pharynx
+Chorioallantoic membrane	meshname	Chorioallantoic+membrane
+White blood cell	meshname	Leukocytes
+Vulva	meshname	Vulva
+Foreskin	meshname	Foreskin
+Nucleus basalis of Meynert	meshname	Basal+nucleus+of+Meynert
+Sternum	meshname	Sternum
+Mandible	meshname	Mandible
+Interpeduncular nucleus	meshname	Interpeduncular+Nucleus
+Acute haemorrhagic conjunctivitis in Ghana	meshname	Conjunctiva
+Rhombic lip	meshname	Metencephalon
+Venae cavae	meshname	Venae+Cavae
+Saccular acoustic sensitivity	meshname	Saccule+and+Utricle
+Human mouth	meshname	Oral+cavity
+Preorbital gland	meshname	Lacrimal Apparatus
+Origin of speech	meshname	Hyoid+Bone
+Epineurial repair	meshname	Epineurium
+Reticular membrane	meshname	Reticular+Membrane
+Human digestive system	meshname	Digestive+System
+Sphincter of Oddi	meshname	Oddi's+Sphincter

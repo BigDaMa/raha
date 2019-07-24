@@ -1,0 +1,835 @@
+EMD SD80MAC	enginetype	V20 engine
+EMD SD80MAC	enginetype	Diesel engine
+2	enginetype	Four-stroke
+2	enginetype	Diesel engine
+British Rail Class 01	enginetype	6
+British Rail Class 02	enginetype	Straight-6
+British Rail Class 02	enginetype	Diesel engine
+British Rail Class 05	enginetype	Four-stroke diesel engine
+EMD FP45	enginetype	V20 engine
+EMD FP45	enginetype	Diesel engine
+EMD E5	enginetype	V12 engine
+EMD E5	enginetype	Two-stroke diesel engine
+British Rail Class 57	enginetype	Two-stroke
+British Rail Class 57	enginetype	V12 engine
+British Rail Class 57	enginetype	Diesel engine
+GE Genesis	enginetype	45
+GE U30B	enginetype	V16 engine
+GE U30B	enginetype	Diesel engine
+EMD E6	enginetype	V12 engine
+EMD E6	enginetype	Two-stroke diesel engine
+EMD F40PH	enginetype	V16 engine
+EMD F40PH	enginetype	Diesel engine
+EMD E7	enginetype	V12 engine
+EMD E7	enginetype	Two-stroke diesel engine
+EMC E4	enginetype	V12 Two stroke diesel × 2
+EMC E3	enginetype	V12 Two-stroke diesel
+EMD BL2	enginetype	V16 engine
+ALCO RS-3	enginetype	V12 engine
+ALCO RS-3	enginetype	Four stroke diesel engine
+EMD E8	enginetype	V12 engine
+EMD E8	enginetype	Two-stroke diesel engine
+CIE 601 Class	enginetype	V8 engine
+CIE 601 Class	enginetype	Diesel engine
+CIE 501 Class	enginetype	Diesel engine
+CIE 611 Class	enginetype	V8 engine
+CIE 421 Class	enginetype	Diesel engine
+CIE 201 Class	enginetype	Crossley V8
+CIE 201 Class	enginetype	EMD 8-cylinder
+CIE 113 Class	enginetype	Four-stroke diesel engine
+CIE 101 Class	enginetype	Straight 6
+IE 201 Class	enginetype	V12 engine
+IE 201 Class	enginetype	Two-stroke diesel engine
+CIE 121 Class	enginetype	Two-stroke diesel engine
+CIE 141 Class	enginetype	8
+CIE 181 Class	enginetype	Two-stroke diesel engine
+Illinois Central 121	enginetype	V16 engine
+Illinois Central 121	enginetype	Diesel engine
+British Rail GT3	enginetype	Gas turbine
+British Rail 18000	enginetype	Gas turbine
+EMD E9	enginetype	V12 engine
+EMD E9	enginetype	Two-stroke diesel engine
+Flying Yankee	enginetype	Diesel engine
+EMC TA	enginetype	V16 engine
+EMD DDA40X	enginetype	V16 engine
+EMD DDA40X	enginetype	Diesel engine
+EMC 1800 hp B-B	enginetype	V12 engine
+EMC 1800 hp B-B	enginetype	Diesel engine
+EMC AB6	enginetype	V12 engine
+EMC AB6	enginetype	Two-stroke diesel engine
+EMD F3	enginetype	Two-stroke engine
+EMD F3	enginetype	V16 engine
+EMD F3	enginetype	Diesel engine
+EMD F7	enginetype	Two-stroke engine
+EMD F7	enginetype	V16 engine
+EMD F7	enginetype	Diesel engine
+EMD GP20D	enginetype	Four-stroke engine
+EMD GP20D	enginetype	V16 engine
+EMD GP20D	enginetype	Fuel injection
+EMD GP20D	enginetype	Diesel engine
+EMD F9	enginetype	V16 engine
+EMD F9	enginetype	Two-stroke diesel engine
+EMD SD70 series	enginetype	V16; V12 for SD70ACe-T4
+EMD FP7	enginetype	Two-stroke engine
+EMD FP7	enginetype	V16 engine
+EMD FP7	enginetype	Diesel engine
+EMD FP9	enginetype	V16 engine
+EMD FP9	enginetype	Two-stroke diesel engine
+EMD FL9	enginetype	V16 engine
+EMD FL9	enginetype	Two-stroke diesel engine
+EMD SD90MAC	enginetype	V16 engine
+EMD SD90MAC	enginetype	Diesel engine
+GE U50	enginetype	Diesel engine
+ALCO Century 636	enginetype	V16 engine
+ALCO Century 636	enginetype	Diesel engine
+ALCO DH643	enginetype	V12 engine
+ALCO DH643	enginetype	Four-stroke
+ALCO DH643	enginetype	Diesel engine
+EMD SW1	enginetype	V6 engine
+EMD SW1	enginetype	Two stroke diesel engine
+EMD SD40-2	enginetype	V16 engine
+EMD SD40-2	enginetype	Diesel engine
+EMD SDP45	enginetype	V20 engine
+EMD SDP45	enginetype	Diesel engine
+EMD DD35A	enginetype	V16 engine
+EMD DD35A	enginetype	Diesel engine
+EMD DD35	enginetype	2
+ALCO HH series	enginetype	Inline-6
+ALCO HH series	enginetype	Four stroke engine
+ALCO HH series	enginetype	Diesel engine
+GE U50C	enginetype	Diesel engine
+EMD TR1	enginetype	V16 engine
+EMD TR1	enginetype	Two-stroke diesel engine
+EMD NW3	enginetype	V12 engine
+EMD NW3	enginetype	Two-stroke diesel engine
+EMD NW2	enginetype	V12 engine
+EMD NW5	enginetype	V12 engine
+EMD NW5	enginetype	Diesel engine
+Baldwin DR-4-4-15	enginetype	Four-stroke engine
+Baldwin DR-4-4-15	enginetype	Diesel engine
+British Rail Class 50	enginetype	16
+GE Dash 9-44CW	enginetype	Four-stroke engine
+GE Dash 9-44CW	enginetype	V16 engine
+GE Dash 9-44CW	enginetype	Diesel engine
+ALCO Century 855	enginetype	Dual V16 diesel
+EMD SD50	enginetype	V16 engine
+EMD SD50	enginetype	Diesel engine
+EMD SD24	enginetype	V16 engine
+EMD SD24	enginetype	Diesel engine
+EMD SD60	enginetype	V16 engine
+EMD SD60	enginetype	Diesel engine
+GE Evolution Series	enginetype	V12 V16
+GE Evolution Series	enginetype	4
+EMD SW1001	enginetype	EMD 645
+FM Consolidated line	enginetype	Two-stroke
+FM Consolidated line	enginetype	Opposed piston
+FM Consolidated line	enginetype	Diesel engine
+EMD SW1500	enginetype	V12 engine
+EMD SW1500	enginetype	Two-stroke diesel engine
+ALCO PA	enginetype	V16 engine
+ALCO PA	enginetype	Four-stroke diesel engine
+EMD MP15DC	enginetype	V12
+EMD MP15DC	enginetype	Diesel engine
+FM H-24-66	enginetype	12
+FM H-16-66	enginetype	Two stroke, opposed piston diesel
+British Rail Class 44	enginetype	Diesel engine
+LRC	enginetype	Four-stroke engine
+LRC	enginetype	Diesel engine
+EMD F59PH	enginetype	V12 engine
+EMD F59PH	enginetype	Diesel engine
+EMD F59PH	enginetype	Two-stroke diesel engine
+EMD SW7	enginetype	V12 engine
+EMD SW7	enginetype	Two-stroke diesel engine
+EMD SW1000	enginetype	EMD 645E
+EMD SW9	enginetype	V12 engine
+EMD SW9	enginetype	Two-stroke diesel engine
+EMD SD38AC	enginetype	V16 engine
+EMD SD38AC	enginetype	Diesel engine
+EMD GP28	enginetype	V16 engine
+EMD GP28	enginetype	Diesel engine
+EMD GP39	enginetype	V12 engine
+EMD GP39	enginetype	Diesel engine
+EMD SW900	enginetype	Two-stroke diesel engine
+EMD SW8	enginetype	Two-stroke engine
+EMD SW8	enginetype	Diesel engine
+EMD GP18	enginetype	V16 engine
+EMD GP18	enginetype	Diesel engine
+EMD GP35	enginetype	V16 engine
+EMD GP35	enginetype	Diesel engine
+EMD SW1200	enginetype	V12 engine
+EMD SW1200	enginetype	Diesel engine
+EMD GP38-2	enginetype	V16 engine
+EMD GP38-2	enginetype	Two-stroke diesel engine
+EMD SD28	enginetype	V16 engine
+EMD SD28	enginetype	Diesel engine
+EMD GP9	enginetype	V16 engine
+EMD GP9	enginetype	Two-stroke diesel engine
+EMD SD18	enginetype	V16 engine
+EMD SD18	enginetype	Diesel engine
+EMD GP40	enginetype	V16 engine
+EMD GP40	enginetype	Diesel engine
+EMD SD38	enginetype	V16 engine
+EMD SD38	enginetype	Diesel engine
+EMD SDP35	enginetype	V16 engine
+EMD SDP35	enginetype	Diesel engine
+EMD SD35	enginetype	V16 engine
+EMD SD35	enginetype	Diesel engine
+EMD SD9	enginetype	V16 engine
+EMD SD9	enginetype	Diesel engine
+EMD SD7	enginetype	V16 engine
+EMD SD7	enginetype	Two-stroke diesel engine
+EMD GP7	enginetype	V16 engine
+EMD GP7	enginetype	Two-stroke diesel engine
+EMD SD45	enginetype	V20 engine
+EMD SD45	enginetype	Diesel engine
+EMD SDP40	enginetype	V16 engine
+EMD SDP40	enginetype	Two-stroke diesel engine
+EMD SD40	enginetype	V16 engine
+EMD SD40	enginetype	Diesel engine
+EMD SD45X	enginetype	V20 engine
+EMD SD45X	enginetype	Diesel engine
+EMD SD45-2	enginetype	V20 engine
+EMD SD45-2	enginetype	Diesel engine
+EMD SD38-2	enginetype	V16 engine
+EMD SD38-2	enginetype	Diesel engine
+EMD SD39	enginetype	V12 engine
+EMD SD39	enginetype	Diesel engine
+EMD SDL39	enginetype	V12 engine
+EMD SDL39	enginetype	Diesel engine
+EMD SDP40F	enginetype	V16 engine
+EMD SDP40F	enginetype	Diesel engine
+EMD F45	enginetype	V20 engine
+EMD F45	enginetype	Diesel engine
+EMD MP15AC	enginetype	V12 engine
+EMD MP15AC	enginetype	Two-stroke diesel engine
+EMD GP59	enginetype	V12 engine
+EMD GP59	enginetype	Diesel engine
+EMD GP50	enginetype	V16 engine
+EMD GP50	enginetype	Diesel engine
+EMD SD40T-2	enginetype	V16 engine
+EMD SD40T-2	enginetype	Diesel engine
+EMD GP60	enginetype	V16 engine
+EMD GP60	enginetype	Diesel engine
+EMD GP15-1	enginetype	V12 engine
+EMD GP15-1	enginetype	Two-stroke diesel engine
+EMD GP39DC	enginetype	V12 engine
+EMD GP39DC	enginetype	Diesel engine
+British Rail Class 41	enginetype	V12 engine
+British Rail Class 41	enginetype	Diesel engine
+British Rail Class 43	enginetype	V12 engine
+British Rail Class 43	enginetype	Four-stroke diesel engine
+British Rail Class 45	enginetype	U engine
+LMS diesel shunter 1831	enginetype	6
+Baldwin S-12	enginetype	Four-stroke diesel engine
+Baldwin S-12	enginetype	606
+Baldwin S-12	enginetype	608
+GE U18B	enginetype	V8 engine
+GE U18B	enginetype	Four-stroke diesel engine
+GE U33B	enginetype	V16 engine
+GE U33B	enginetype	Diesel engine
+GE U23C	enginetype	V12 engine
+GE U23C	enginetype	Diesel engine
+GE B23-7	enginetype	V12 engine
+GE B23-7	enginetype	Diesel engine
+GE B30-7	enginetype	V16 engine
+GE B30-7	enginetype	Diesel engine
+GE B30-7	enginetype	V12 diesel for B30-7A variants
+ALCO RS-11	enginetype	V12 engine
+ALCO RS-11	enginetype	Four-stroke diesel engine
+SNCF Class BB 67300	enginetype	V16 engine
+SNCF Class BB 67300	enginetype	Diesel engine
+SNCF Class BB 67400	enginetype	V16 engine
+SNCF Class BB 67400	enginetype	Diesel engine
+SNCF Class C 61000	enginetype	Straight-six engine
+SNCF Class C 61000	enginetype	Diesel engine
+EMD DDM45	enginetype	V20 engine
+EMD DDM45	enginetype	Two-stroke diesel engine
+EMD SD45T-2	enginetype	V20 engine
+EMD SD45T-2	enginetype	Diesel engine
+British Rail Class 42	enginetype	Diesel engine
+EMD SD40A	enginetype	V16 engine
+EMD SD40A	enginetype	Diesel engine
+EMD GP39-2	enginetype	V12 engine
+EMD GP39-2	enginetype	Diesel engine
+EMD GP40X	enginetype	V16 engine
+EMD GP40X	enginetype	Diesel engine
+ALCO RSC-3	enginetype	V12 engine
+ALCO RSC-3	enginetype	Four-stroke diesel engine
+GE C30-7	enginetype	V16
+GE 44-ton switcher	enginetype	D17000: V8 diesel
+GE 44-ton switcher	enginetype	All others: 6-cyl diesel
+EMD F40C	enginetype	V16 engine
+EMD F40C	enginetype	Diesel engine
+EMD Model 40	enginetype	Straight 6
+EMD Model 40	enginetype	Two-stroke diesel engine
+ALCO RS-1	enginetype	Straight 6
+ALCO RS-1	enginetype	Four-stroke engine
+ALCO RS-1	enginetype	Diesel engine
+British Rail Class 35	enginetype	V16 engine
+British Rail Class 35	enginetype	Diesel engine
+Tasmanian Government Railways X class	enginetype	Inline 6
+GE AC6000CW	enginetype	45
+ALCO RSC-2	enginetype	V12 engine
+ALCO RSC-2	enginetype	Four-stroke engine
+ALCO RSC-2	enginetype	Diesel engine
+ALCO RSD-5	enginetype	V12 engine
+ALCO RSD-5	enginetype	Four-stroke engine
+ALCO RSD-5	enginetype	Diesel engine
+ALCO RSD-12	enginetype	V12 engine
+ALCO RSD-12	enginetype	Four-stroke engine
+ALCO RSD-12	enginetype	Diesel engine
+ALCO RSD-15	enginetype	V16 engine
+ALCO RSD-15	enginetype	Four-stroke engine
+ALCO RSD-15	enginetype	Diesel engine
+ALCO RSD-4	enginetype	V12 engine
+ALCO RSD-4	enginetype	Four-stroke engine
+ALCO RSD-4	enginetype	Diesel engine
+ALCO RS-2	enginetype	V12 engine
+ALCO RS-2	enginetype	Four-stroke engine
+ALCO RS-2	enginetype	Diesel engine
+GE 57-ton gas-electric boxcab	enginetype	V8 engine
+MLW RSC-24	enginetype	V12 engine
+MLW RSC-24	enginetype	Four-stroke engine
+MLW RSC-24	enginetype	Diesel engine
+LMS diesel shunter 7050	enginetype	8
+EMD Class 66	enginetype	V12 engine
+EMD Class 66	enginetype	Two-stroke diesel engine
+GE Dash 8-32BWH	enginetype	45
+ALCO DL-109	enginetype	Straight-6 Four-stroke diesel
+SNCF Class T 2000	enginetype	Turboshaft
+NSB Di 6	enginetype	V12 engine
+GE Dash 8-40CW	enginetype	V16 engine
+GE Dash 8-40CW	enginetype	Diesel engine
+ALCO RSD-1	enginetype	Straight-6
+ALCO RSD-1	enginetype	Four-stroke engine
+ALCO RSD-1	enginetype	Diesel engine
+Beep	enginetype	V16 engine
+Beep	enginetype	Two-stroke diesel engine
+Baldwin VO-1000	enginetype	Straight-8
+Baldwin VO-1000	enginetype	Four-stroke diesel engine
+Baldwin VO-660	enginetype	Straight-6
+Baldwin VO-660	enginetype	Four-stroke engine
+Baldwin VO-660	enginetype	Diesel engine
+Baldwin S-8	enginetype	Straight-6
+Baldwin S-8	enginetype	Four-stroke engine
+Baldwin S-8	enginetype	Diesel engine
+ALCO S-2 and S-4	enginetype	Inline 6
+ALCO S-2 and S-4	enginetype	Four-stroke
+ALCO S-2 and S-4	enginetype	Diesel engine
+ALCO Century 425	enginetype	Four-stroke
+ALCO Century 425	enginetype	Diesel engine
+PKP class SM30	enginetype	Four-stroke engine
+PKP class SM30	enginetype	Diesel engine
+SD26	enginetype	V16 engine
+SD26	enginetype	Two-stroke diesel engine
+FM H-12-44TS	enginetype	Opposed piston
+FM H-12-44TS	enginetype	Two-stroke diesel engine
+M62 locomotive	enginetype	Diesel engine
+PKP class SM42	enginetype	V8 engine
+FM H-16-44	enginetype	Two-stroke diesel
+FM H-20-44	enginetype	Two-stroke diesel
+FM Erie-built	enginetype	Opposed piston engine
+FM P-12-42	enginetype	Diesel electric
+PKP class SM31	enginetype	Four-stroke engine
+PKP class ST43	enginetype	Reșița Works 12LDA28
+FM OP800	enginetype	Opposed piston
+FM OP800	enginetype	Two-stroke diesel engine
+GP16	enginetype	2
+TRAXX	enginetype	MTU 16V 4000 R41L
+New Zealand DJ class locomotive	enginetype	V12 engine
+New Zealand DJ class locomotive	enginetype	Diesel engine
+Baldwin DRS-4-4-1000	enginetype	Straight-6
+Baldwin DRS-4-4-1000	enginetype	Four-stroke engine
+Baldwin DRS-4-4-1000	enginetype	Diesel engine
+Baldwin RF-16	enginetype	Four-stroke engine
+Baldwin RF-16	enginetype	Diesel engine
+SNCF Class Y 8000	enginetype	Original :  Poyaud †
+SNCF Class Y 8000	enginetype	re-engined :  RVI
+British Rail Class 29	enginetype	V12 engine
+British Rail Class 29	enginetype	Diesel engine
+CIE 801 Class	enginetype	Diesel engine
+New Zealand DQ and QR class locomotives	enginetype	V12 engine
+New Zealand DQ and QR class locomotives	enginetype	Two-stroke engine
+New Zealand DQ and QR class locomotives	enginetype	Diesel engine
+Old Colony and Newport Scenic Railway	enginetype	2
+Southern Pacific 1518	enginetype	V16 engine
+Southern Pacific 1518	enginetype	Diesel engine
+EMD RS1325	enginetype	V12 engine
+EMD RS1325	enginetype	Diesel engine
+New Zealand DH class locomotive	enginetype	V12 engine
+New Zealand DH class locomotive	enginetype	Diesel engine
+GE P30CH	enginetype	V16 engine
+GE P30CH	enginetype	Diesel engine
+ALCO FA	enginetype	V12 engine
+ALCO FA	enginetype	Four-stroke engine
+ALCO FA	enginetype	Diesel engine
+EMD F69PHAC	enginetype	Two-stroke diesel engine
+EMD F69PHAC	enginetype	V12 engine
+MLW RSC-14	enginetype	V12 Four-stroke diesel
+SNCF Class CC 65500	enginetype	12
+Indian locomotive class WDM-2	enginetype	V16 engine
+Indian locomotive class WDM-2	enginetype	Diesel engine
+New Zealand DC class locomotive	enginetype	V12 engine
+New Zealand DC class locomotive	enginetype	Diesel engine
+New Zealand DX class locomotive	enginetype	V12 engine
+New Zealand DX class locomotive	enginetype	Diesel engine
+New Zealand DA class locomotive	enginetype	V12 engine
+New Zealand DA class locomotive	enginetype	Diesel engine
+New Zealand DB class locomotive	enginetype	V8 engine
+New Zealand DB class locomotive	enginetype	Diesel engine
+VIA FP9ARM	enginetype	V16 engine
+VIA FP9ARM	enginetype	Diesel engine
+GMD NF110	enginetype	V12 engine
+GMD NF110	enginetype	Diesel engine
+NZR DF class	enginetype	V12 engine
+NZR DF class	enginetype	Diesel engine
+New Zealand DF class locomotive	enginetype	V12 engine
+New Zealand DF class locomotive	enginetype	Diesel engine
+ALCO DL-202	enginetype	Four-stroke
+ALCO DL-202	enginetype	Diesel engine
+New Zealand DSG class locomotive	enginetype	Straight 6
+New Zealand DSG class locomotive	enginetype	Diesel engine
+New Zealand DSJ class locomotive	enginetype	6
+MLW RS-10	enginetype	Four-stroke engine
+MLW RS-10	enginetype	Diesel engine
+ALCO RS-27	enginetype	Four-stroke
+ALCO RS-27	enginetype	Diesel engine
+ALCO RS-36	enginetype	Four-stroke
+ALCO RS-36	enginetype	Diesel engine
+ALCO S-6	enginetype	Four-stroke
+ALCO S-6	enginetype	Diesel engine
+SNCF Class X 2400	enginetype	Diesel engine
+SNCF Class X 4900	enginetype	Diesel engine
+FS Class ALn 772	enginetype	6
+EMD GT46MAC	enginetype	Two-stroke engine
+EMD GT46MAC	enginetype	V16 engine
+EMD GT46MAC	enginetype	Diesel engine
+EMD GT46PAC	enginetype	2
+New South Wales 44 class locomotive	enginetype	Four-stroke engine
+New South Wales 44 class locomotive	enginetype	Diesel engine
+EMD MRS-1	enginetype	2
+New South Wales 45 class locomotive	enginetype	Four-stroke engine
+New South Wales 45 class locomotive	enginetype	V12 engine
+New South Wales 45 class locomotive	enginetype	Diesel engine
+New South Wales 80 class locomotive	enginetype	Four-stroke engine
+New South Wales 80 class locomotive	enginetype	V12 engine
+New South Wales 80 class locomotive	enginetype	Diesel engine
+ALCO DL560C	enginetype	4
+Australian National AN class	enginetype	V16 engine
+Australian National AN class	enginetype	Diesel engine
+Australian National DL class	enginetype	Two-stroke engine
+Australian National DL class	enginetype	V12 engine
+Australian National DL class	enginetype	Diesel engine
+NR class	enginetype	General Electric
+NR class	enginetype	GE FDL
+New South Wales 81 class locomotive	enginetype	Two-stroke engine
+New South Wales 81 class locomotive	enginetype	V16 engine
+New South Wales 81 class locomotive	enginetype	Diesel engine
+EMD G12	enginetype	Two-stroke engine
+EMD G12	enginetype	V12 engine
+EMD G12	enginetype	Diesel engine
+New South Wales 422 class locomotive	enginetype	Two-stroke engine
+New South Wales 422 class locomotive	enginetype	V16 engine
+New South Wales 422 class locomotive	enginetype	Diesel engine
+New South Wales 442 class locomotive	enginetype	Four-stroke engine
+New South Wales 442 class locomotive	enginetype	V12 engine
+New South Wales 442 class locomotive	enginetype	Diesel engine
+SSB-9	enginetype	Four-stroke
+SSB-9	enginetype	Diesel engine
+New South Wales 421 class locomotive	enginetype	Two-stroke engine
+New South Wales 421 class locomotive	enginetype	V16 engine
+New South Wales 421 class locomotive	enginetype	Diesel engine
+New South Wales 49 class locomotive	enginetype	Two-stroke engine
+New South Wales 49 class locomotive	enginetype	V8 engine
+New South Wales 49 class locomotive	enginetype	Diesel engine
+New South Wales 47 class locomotive	enginetype	Four-stroke engine
+New South Wales 47 class locomotive	enginetype	V16 engine
+New South Wales 47 class locomotive	enginetype	Diesel engine
+New South Wales 48 class locomotive	enginetype	Four-stroke Inline diesel
+Đuro Đaković Series 732	enginetype	2
+China Railways DF4	enginetype	V16 engine
+China Railways DF4	enginetype	Diesel engine
+JŽ Series 662	enginetype	2
+EMD GT22HW-2	enginetype	V12 engine
+EMD GT22HW-2	enginetype	Diesel engine
+China Railways DF8	enginetype	V16 engine
+TCDD DE33000	enginetype	Two-stroke engine
+TCDD DE33000	enginetype	Diesel engine
+TCDD DH7000	enginetype	Cummins KTTA 19L1
+TCDD DE24000	enginetype	Diesel engine
+TCDD DE24000	enginetype	V16 engine
+Australian National BL class	enginetype	Two-stroke engine
+Australian National BL class	enginetype	V16 engine
+Australian National BL class	enginetype	Diesel engine
+Line N class	enginetype	Two stroke engine
+Line N class	enginetype	Diesel engine
+NCC Class X	enginetype	2
+SNCF Class BB 60000	enginetype	Diesel engine
+SNCF Class Y 8400	enginetype	V12 engine
+SNCF Class Y 8400	enginetype	Diesel engine
+China Railways HXN3	enginetype	Four-stroke
+China Railways HXN3	enginetype	Diesel engine
+EMC AA	enginetype	V12 engine
+EMC AA	enginetype	Diesel engine
+VR Class Dv12	enginetype	V16 engine
+VR Class Dv12	enginetype	Diesel engine
+PKP class SM02	enginetype	Four-stroke engine
+PKP class SM15	enginetype	Four-stroke engine
+PKP class SM25	enginetype	Four-stroke engine
+DB Class VT 24	enginetype	Diesel engine
+China Railways BJ	enginetype	V12 engine
+China Railways BJ	enginetype	Diesel engine
+ALCO RSC-1	enginetype	Four-stroke
+ALCO RSC-1	enginetype	Diesel engine
+ALCO MRS-1	enginetype	Four-stroke
+ALCO MRS-1	enginetype	Diesel engine
+Victorian Railways B class	enginetype	V16 engine
+Victorian Railways B class	enginetype	Diesel engine
+PKP class SP32	enginetype	Four-stroke engine
+McKeen railmotor	enginetype	6
+EMD GT26CW-2	enginetype	V16 engine
+EMD GT26CW-2	enginetype	Diesel engine
+HŽ series 2043	enginetype	V16 engine
+HŽ series 2043	enginetype	Diesel engine
+EMD G16	enginetype	V16 engine
+EMD G16	enginetype	Diesel engine
+HŽ series 2042	enginetype	V12 engine
+HŽ series 2041	enginetype	V12 engine
+DSB Class MY	enginetype	V16 engine
+DSB Class MY	enginetype	Two-stroke engine
+DSB Class MY	enginetype	Diesel engine
+Baldwin RS-12	enginetype	Four-stroke
+Baldwin RS-12	enginetype	Diesel engine
+Baldwin DRS-4-4-1500	enginetype	Four-stroke
+Baldwin DRS-4-4-1500	enginetype	Diesel engine
+WAGR X class	enginetype	Two-stroke engine
+WAGR X class	enginetype	V8 engine
+WAGR X class	enginetype	Diesel engine
+Victorian Railways C class	enginetype	V16 engine
+Victorian Railways C class	enginetype	Diesel engine
+Brookville BL20GH	enginetype	V12 engine
+Brookville BL20GH	enginetype	Diesel engine
+TCDD DE18000	enginetype	Pielstick 12PA4 V185 VG
+TCDD DE18100	enginetype	Pielstick
+TCDD DE20000	enginetype	Cooper Bessemer FVBL 12T
+Victorian Railways rail tractor	enginetype	Diesel engine
+SJ T44	enginetype	V12 engine
+SJ T44	enginetype	Diesel engine
+TCDD DH4100	enginetype	Jenbach JW400
+TCDD DH6500	enginetype	Maybach GT6
+TCDD DH6000	enginetype	Jenbach JW600
+TCDD DH11500	enginetype	Daimler Benz MB820Bb
+DSB Class MZ	enginetype	Two stroke engine
+DSB Class MZ	enginetype	Diesel engine
+SJ T41	enginetype	Two-stroke engine
+SJ T41	enginetype	Diesel engine
+Commonwealth Railways CL class	enginetype	Two-stroke engine
+Commonwealth Railways CL class	enginetype	V16 engine
+Commonwealth Railways CL class	enginetype	Diesel engine
+Australian National EL class	enginetype	V12 engine
+Australian National EL class	enginetype	Diesel engine
+Commonwealth Railways GM class	enginetype	V16 engine
+Baldwin DS-4-4-750	enginetype	Four-stroke
+Baldwin DS-4-4-750	enginetype	Diesel engine
+Baldwin DS-4-4-660	enginetype	Four-stroke
+Baldwin DS-4-4-660	enginetype	Diesel engine
+Baldwin DS-4-4-1000	enginetype	Four-stroke
+Baldwin DS-4-4-1000	enginetype	Diesel engine
+New South Wales 41 class locomotive	enginetype	Four-stroke engine
+New South Wales 41 class locomotive	enginetype	Diesel engine
+New South Wales X200 class locomotive	enginetype	Four-stroke engine
+New South Wales X200 class locomotive	enginetype	Diesel engine
+Bombardier HR-616	enginetype	V16 engine
+Bombardier HR-616	enginetype	Four-stroke engine
+Bombardier HR-616	enginetype	Diesel engine
+SNCF Class BB 69400	enginetype	V12 engine
+SNCF Class BB 69400	enginetype	Diesel engine
+EMD DE30AC and DM30AC	enginetype	Two-stroke engine
+EMD DE30AC and DM30AC	enginetype	V12 engine
+EMD DE30AC and DM30AC	enginetype	Diesel engine
+Voith Maxima	enginetype	40
+Voith Maxima	enginetype	30
+New South Wales 72 class locomotive	enginetype	Four-stroke engine
+New South Wales 72 class locomotive	enginetype	Diesel engine
+New South Wales 71 class locomotive	enginetype	V12 engine
+New South Wales 79 class locomotive	enginetype	Four-stroke engine
+New South Wales 79 class locomotive	enginetype	V8 engine
+New South Wales 79 class locomotive	enginetype	Diesel engine
+New South Wales 43 class locomotive	enginetype	Four-stroke engine
+New South Wales 43 class locomotive	enginetype	V12 engine
+New South Wales 43 class locomotive	enginetype	Diesel engine
+New South Wales 70 class locomotive	enginetype	Four-stroke engine
+New South Wales 70 class locomotive	enginetype	V12 engine
+New South Wales 70 class locomotive	enginetype	Diesel engine
+New South Wales 73 class locomotive	enginetype	Four-stroke engine
+New South Wales 73 class locomotive	enginetype	V8 engine
+New South Wales 73 class locomotive	enginetype	Diesel engine
+DB Class V 160	enginetype	V16 engine
+DB Class V 160	enginetype	Diesel engine
+DB Class V 169	enginetype	Diesel engine
+DB Class V 169	enginetype	Gas turbine
+DB Class 215	enginetype	Diesel engine
+KTM Class 29	enginetype	MAN 16RK215T 2580kW
+6	enginetype	8
+Commonwealth Railways NC class	enginetype	Two-stroke engine
+Commonwealth Railways NC class	enginetype	Diesel engine
+Vossloh Euro	enginetype	3000
+Vossloh Euro	enginetype	4000
+RENFE Class 334	enginetype	Two-stroke
+RENFE Class 334	enginetype	Diesel engine
+RENFE Class 333	enginetype	Two-stroke engine
+RENFE Class 333	enginetype	Diesel engine
+SNCF Class BB 75000	enginetype	116
+8-DE	enginetype	Four-stroke
+8-DE	enginetype	Diesel engine
+Baldwin RT-624	enginetype	Four-stroke
+Baldwin RT-624	enginetype	Diesel engine
+ALP-45DP	enginetype	V12 diesel engine,
+Baldwin RS-4-TC	enginetype	Four-stroke
+Baldwin RS-4-TC	enginetype	Diesel engine
+DB Class 210	enginetype	Main engine : diesel engine
+DB Class 210	enginetype	Secondary: Gas turbine
+Baldwin 0-6-6-0 1000	enginetype	Four-stroke engine
+Baldwin 0-6-6-0 1000	enginetype	Diesel engine
+MLW M-420	enginetype	Four-stroke
+MLW M-420	enginetype	Diesel engine
+Krauss-Maffei ML 2200 C'C'	enginetype	V12 engine
+Krauss-Maffei ML 2200 C'C'	enginetype	Diesel engine
+RENFE Class 353	enginetype	Four-stroke
+RENFE Class 353	enginetype	Diesel engine
+IranRunner	enginetype	V16 engine
+SAL 2027	enginetype	2
+Baldwin RP-210	enginetype	Diesel engine
+Rebel	enginetype	Four-stroke
+Rebel	enginetype	Diesel engine
+Downer EDI Rail GT42CU AC	enginetype	V12 engine
+Downer EDI Rail GT42CU AC	enginetype	Diesel engine
+South Australian Railways 830 class	enginetype	Four-stroke engine
+South Australian Railways 830 class	enginetype	Straight-six
+South Australian Railways 830 class	enginetype	Diesel engine
+South Australian Railways 930 class	enginetype	Four-stroke engine
+South Australian Railways 930 class	enginetype	V12 engine
+South Australian Railways 930 class	enginetype	Diesel engine
+South Australian Railways 600 class	enginetype	Four-stroke engine
+South Australian Railways 600 class	enginetype	V12 engine
+South Australian Railways 600 class	enginetype	Diesel engine
+Sri Lanka Railways M1	enginetype	V12, 4 stroke diesel
+GE U17C	enginetype	4
+NRE 3GS21B	enginetype	Diesel engine
+NRE 1GS7B	enginetype	Straight-six engine
+EMD GP15D	enginetype	Four-stroke engine
+EMD GP15D	enginetype	Fuel injection
+EMD GP15D	enginetype	Diesel engine
+Railpower GG20B	enginetype	Four-stroke engine
+Railpower GG20B	enginetype	Straight-six engine
+Railpower GG20B	enginetype	Diesel engine
+GE 110-ton switcher	enginetype	2
+MLW RS-18	enginetype	Four-stroke
+MLW RS-18	enginetype	V12 engine
+MLW RS-18	enginetype	Diesel engine
+NRE 3GS21C	enginetype	Diesel engine
+NRE 2GS14B	enginetype	Diesel engine
+MPI MP21B	enginetype	Straight-six engine
+GE Dash 8-44CW	enginetype	45
+4	enginetype	Four-stroke engine
+4	enginetype	Diesel engine
+EMD G22 Series	enginetype	V12 engine
+EMD G22 Series	enginetype	Diesel engine
+TE10	enginetype	Two-stroke engine
+TE10	enginetype	Diesel engine
+Delaware & Hudson 16	enginetype	Four-stroke engine
+Delaware & Hudson 16	enginetype	Diesel engine
+MPI HSP46	enginetype	45
+FGC 254 Series	enginetype	EMD 645
+RENFE Class 309	enginetype	4
+RENFE Class 310	enginetype	Two-stroke
+RENFE Class 310	enginetype	Diesel engine
+Downer EDI Rail GT42CU ACe	enginetype	V12 engine
+Downer EDI Rail GT42CU ACe	enginetype	Diesel engine
+Hunslet DH60C	enginetype	CAT C15
+South African Class 31-000	enginetype	4
+South African Class 32-000	enginetype	4
+South African Class 33-000	enginetype	4
+South African Class 33-400	enginetype	4
+South Australian Railways 500 class	enginetype	Inline-four engine
+South Australian Railways 500 class	enginetype	Diesel engine
+BHP Newcastle 32 class	enginetype	4
+Silverton Tramway 48s class	enginetype	Four-stroke engine
+Silverton Tramway 48s class	enginetype	Straight-six engine
+Silverton Tramway 48s class	enginetype	Diesel engine
+BHP Newcastle 37 class	enginetype	4
+Commonwealth Railways DR class	enginetype	Four-stroke engine
+Commonwealth Railways DR class	enginetype	Straight-six engine
+Commonwealth Railways DR class	enginetype	Diesel engine
+South Australian Railways 350 class	enginetype	Four-stroke engine
+South Australian Railways 350 class	enginetype	Straight-six
+South Australian Railways 350 class	enginetype	Diesel engine
+PKP class ST45	enginetype	MTU 4000
+SNCF Class Y 7100	enginetype	Diesel engine
+SNCF Class Y 7400	enginetype	Diesel engine
+SNCF Class Y 9000	enginetype	Diesel engine
+ChME3	enginetype	Straight-six
+ChME3	enginetype	Diesel engine
+NIR Class 111	enginetype	V12 engine
+NIR Class 111	enginetype	Two-stroke diesel engine
+South African Class 43-000	enginetype	Diesel engine
+Brookville BL36PH	enginetype	V20 engine
+Brookville BL36PH	enginetype	Diesel engine
+D19E	enginetype	Caterpillar 3512B
+TU7 diesel locomotive	enginetype	V12 engine
+TU7 diesel locomotive	enginetype	Diesel engine
+South Australian Railways 900 class	enginetype	Four-stroke engine
+South Australian Railways 900 class	enginetype	V16 engine
+South Australian Railways 900 class	enginetype	Diesel engine
+South Australian Railways 700 class	enginetype	Four-stroke engine
+South Australian Railways 700 class	enginetype	V12 engine
+South Australian Railways 700 class	enginetype	Diesel engine
+South Australian Railways 800 class	enginetype	Straight-six
+South Australian Railways 800 class	enginetype	Diesel engine
+GE U26C	enginetype	4
+Sri Lanka Railways M9	enginetype	V12, 4 stroke diesel
+2TE25A	enginetype	4
+Vossloh G6	enginetype	Cummins QSK23
+Vossloh G6	enginetype	or Caterpillar C27, or MTU engine
+Vossloh G 400 B	enginetype	MTU 8V 183 TD13
+VSFT G 322	enginetype	MTU 8V 183 TD13
+NRE 2GS36C-DE	enginetype	V16 engine
+NRE 2GS36C-DE	enginetype	Diesel engine
+2TE25K	enginetype	4
+Sri Lanka Railways M6	enginetype	V12 engine
+Sri Lanka Railways M6	enginetype	Two-stroke engine
+Sri Lanka Railways M6	enginetype	Diesel engine
+Vossloh Eurolight	enginetype	Caterpillar Inc. C175
+GE PowerHaul	enginetype	V16 engine
+GE PowerHaul	enginetype	Four stroke engine
+RENFE class 313	enginetype	Four-stroke
+RENFE class 313	enginetype	Diesel engine
+Vossloh DE 18	enginetype	MTU 12V4000R43L
+JŽ 664 locomotive	enginetype	V16 engine
+JŽ 664 locomotive	enginetype	Diesel engine
+Sri Lanka Railways M4	enginetype	4
+Sri Lanka Railways M2	enginetype	V12 engine
+Sri Lanka Railways M2	enginetype	Two-stroke engine
+Sri Lanka Railways M2	enginetype	Diesel engine
+MPI MP8AC-3	enginetype	Inline-6 Cylinder, four stroke cycle diesel engine
+Sri Lanka Railways M10	enginetype	4
+Sri Lanka Railways M8	enginetype	M8 V16 diesel
+Sri Lanka Railways M8	enginetype	M8A V12 diesel
+MRWA G class	enginetype	Four-stroke engine
+MRWA G class	enginetype	V8 engine
+MRWA G class	enginetype	Diesel engine
+WAGR T class	enginetype	V12 engine
+WAGR T class	enginetype	Diesel engine
+MRWA F class	enginetype	Four-stroke engine
+MRWA F class	enginetype	Diesel engine
+Westrail DB class	enginetype	Diesel engine
+WAGR B class	enginetype	Four-stroke engine
+WAGR B class	enginetype	V12 engine
+WAGR B class	enginetype	Diesel engine
+Westrail P class	enginetype	V12 engine
+Westrail P class	enginetype	Diesel engine
+GE Dash 9 Series	enginetype	45
+GE Dash 7 Series	enginetype	4
+GE Dash 8 Series	enginetype	4
+MRWA E class	enginetype	Four-stroke engine
+MRWA E class	enginetype	Diesel engine
+Plymouth CR-8 locomotives	enginetype	Two-stroke engine
+Plymouth CR-8 locomotives	enginetype	Diesel engine
+Australian National AL class	enginetype	V16 engine
+Australian National AL class	enginetype	Two-stroke diesel engine
+South African Class DS	enginetype	Diesel
+EMD F125	enginetype	45
+MLW RSC-13	enginetype	Diesel engine
+Commonwealth Railways NJ class	enginetype	V12 engine
+MLW RS-23	enginetype	Four-stroke
+MLW RS-23	enginetype	Diesel engine
+Russian locomotive class TE3	enginetype	opposed-piston two-stroke diesel engines
+VR Class Dr13	enginetype	V16 engine
+VR Class Dr13	enginetype	Diesel engine
+TU8 diesel locomotive	enginetype	V-engine
+TU8G	enginetype	V engine
+TU8P	enginetype	V engine
+TU6SPA	enginetype	V engine
+Sri Lanka Railways M3	enginetype	6
+TE33A	enginetype	Diesel engine
+MPI MP14B	enginetype	Straight-six engine
+Sri Lanka Railways M7	enginetype	V8 engine
+Sri Lanka Railways M7	enginetype	2-stroke engine
+Sri Lanka Railways M7	enginetype	Diesel engine
+Sri Lanka Railways M5	enginetype	All four V12 Diesel engines
+Sri Lanka Railways W1	enginetype	V12 engine
+Sri Lanka Railways W1	enginetype	Four-stroke
+Sri Lanka Railways W1	enginetype	Diesel engine
+Indian locomotive class WDM-4	enginetype	Two-stroke engine
+Indian locomotive class WDM-4	enginetype	V16 engine
+Indian locomotive class WDM-4	enginetype	Diesel engine
+Indian locomotive class WDM-1	enginetype	12
+Sri Lanka Railways W2	enginetype	V16 engine
+Queensland Railways 1502 class	enginetype	V12 engine
+Queensland Railways 1502 class	enginetype	Diesel engine
+Queensland Railways 1550 class	enginetype	V12 engine
+Queensland Railways 1550 class	enginetype	Diesel engine
+Queensland Railways 2400 class	enginetype	V12 engine
+Queensland Railways 2400 class	enginetype	Diesel engine
+Queensland Railways 2450 class	enginetype	V12 engine
+Queensland Railways 2450 class	enginetype	Diesel engine
+Queensland Railways 2470 class	enginetype	V12 engine
+Queensland Railways 2470 class	enginetype	Diesel engine
+Queensland Railways 2100 class	enginetype	V16 engine
+Queensland Railways 2100 class	enginetype	Diesel engine
+Queensland Railways 2141 class	enginetype	V16 engine
+Queensland Railways 2141 class	enginetype	Diesel engine
+Queensland Railways 2150 class	enginetype	V16 engine
+Queensland Railways 2150 class	enginetype	Diesel engine
+Queensland Railways 2170 class	enginetype	V16 engine
+Queensland Railways 2170 class	enginetype	Diesel engine
+Queensland Railways 2800 class	enginetype	V12 engine
+Queensland Railways 2800 class	enginetype	Diesel engine
+Queensland Railways 2300 class	enginetype	V12 engine
+Queensland Railways 2300 class	enginetype	Diesel engine
+Queensland Railways 2250 class	enginetype	V12 engine
+Queensland Railways 2250 class	enginetype	Diesel engine
+SNCF Class CC 72000	enginetype	V16 engine
+SNCF Class BB 69000	enginetype	V16 engine
+SNCF Class BB 69000	enginetype	Diesel engine
+Indian locomotive class WDM-3A	enginetype	V16 engine
+Indian locomotive class WDM-3A	enginetype	Diesel engine
+PNR 900 Class	enginetype	Diesel engine
+PNR 2500 Class	enginetype	Diesel engine
+EMD GT38ACe	enginetype	Two-stroke engine
+EMD GT38ACe	enginetype	Diesel engine
+Siemens Charger	enginetype	45
+Pesa Gama	enginetype	diesel, electric
+EMD SD30C-ECO	enginetype	V12 engine
+EMD SD30C-ECO	enginetype	Diesel engine
+DSB Class MH	enginetype	Straight-8 diesel
+Henschel DH 440	enginetype	Straight-8 four-stroke diesel
+CNR CKD8	enginetype	V16 engine
+CNR CKD8	enginetype	Diesel engine
+CSR SDD7	enginetype	Diesel engine
+GAIA locomotive	enginetype	FIAT 288 ES I
+Bombardier HR-412	enginetype	V12 engine
+Bombardier HR-412	enginetype	Four-stroke engine
+Bombardier HR-412	enginetype	Diesel engine
+Russian locomotive class TE2	enginetype	4
+GE Dash 8.5-40CW	enginetype	Four-stroke engine
+GE Dash 8.5-40CW	enginetype	V16 engine
+GE Dash 8.5-40CW	enginetype	Diesel engine
+EMD SD70ACu	enginetype	V16 engine
+EMD SD70ACu	enginetype	Diesel engine
+ČSD Class T 448.0	enginetype	Diesel engine
+Ganz DVM-4	enginetype	V16 engine
+Ganz DVM-4	enginetype	Diesel engine
+K62-class locomotive	enginetype	V12 engine
+K62-class locomotive	enginetype	Diesel engine
+Kŭmsŏng-class locomotive	enginetype	V12 engine
+Kŭmsŏng-class locomotive	enginetype	Diesel engine
+KSR 500 series locomotives	enginetype	4
+YDM-4	enginetype	Straight-six engine
+YDM-4	enginetype	Diesel engine
+EMD GP20C-ECO	enginetype	V8 engine
+EMD GP20C-ECO	enginetype	Diesel engine
+Francorail-MTE CSE26-21	enginetype	V16 engine
+Francorail-MTE CSE26-21	enginetype	Diesel engine
+SNCF 040.DF	enginetype	V12 engine
+SNCF 040.DF	enginetype	Diesel engine

@@ -1,0 +1,20 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : [
+            "test/src/qa/qcri/nadeef/test/input/bank1.csv",
+            "test/src/qa/qcri/nadeef/test/input/tran1.csv"
+        ]
+    },
+    "rule" : [
+        {
+            "type" : "er",
+            "table" : ["bank1", "tran1"],
+            "value" : [
+                "ED(bank1.ST, tran1.str) >= 0.8",
+                "EQ(bank1.FN, tran1.FN) == 1.0",
+                "EQ(bank1.LN, tran1.LN) == 1.0"
+            ]
+        }
+    ]
+}

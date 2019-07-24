@@ -1,0 +1,2789 @@
+Adrenal gland	graysubject	277
+Anus	graysubject	249
+Cervix	graysubject	268
+Clitoris	graysubject	270
+Endometrium	graysubject	268
+Hair	graysubject	234
+Labia majora	graysubject	270
+Labia minora	graysubject	270
+Ovary	graysubject	266
+Paranasal sinuses	graysubject	223
+Spermatozoon	graysubject	258
+Skin	graysubject	234
+Uterus	graysubject	268
+Urethra	graysubject	256
+Urinary bladder	graysubject	255
+Vagina	graysubject	269
+Zygote	graysubject	5
+Lung	graysubject	240
+Vagus nerve	graysubject	205
+Putamen	graysubject	189
+Pancreas	graysubject	251
+Mesoderm	graysubject	6
+Stomach	graysubject	247
+Peritoneum	graysubject	246
+Spleen	graysubject	278
+Substantia nigra	graysubject	188
+Atlas	graysubject	21
+Retina	graysubject	225
+Glans penis	graysubject	262
+Cerebellum	graysubject	185
+Neck	graysubject	280
+Prostate	graysubject	263
+Middle ear	graysubject	230
+Inner ear	graysubject	232
+Outer ear	graysubject	229
+Tongue	graysubject	242
+Thymus	graysubject	274
+Pituitary gland	graysubject	275
+Hypothalamus	graysubject	189
+Large intestine	graysubject	249
+Skene's gland	graysubject	252
+Optic chiasm	graysubject	197
+Carpal bones	graysubject	54
+Thoracic cavity	graysubject	136
+Testicle	graysubject	258
+Mucous membrane	graysubject	242
+Duodenum	graysubject	248
+Trachea	graysubject	237
+Thalamus	graysubject	189
+Hymen	graysubject	270
+Incus	graysubject	231
+Stapes	graysubject	231
+Malleus	graysubject	231
+Ossicles	graysubject	231
+Perineum	graysubject	120
+Iris	graysubject	225
+Throat	graysubject	235
+Cecum	graysubject	249
+Ileum	graysubject	248
+Jejunum	graysubject	248
+Appendix	graysubject	249
+Small intestine	graysubject	248
+Oval window	graysubject	230
+Molar	graysubject	242
+Eardrum	graysubject	230
+Cochlea	graysubject	232
+Amygdala	graysubject	189
+Optic nerve	graysubject	197
+Pudendal nerve	graysubject	213
+Neurolemma	graysubject	183
+Bartholin's gland	graysubject	270
+Esophagus	graysubject	245
+Palatine uvula	graysubject	241
+Palate	graysubject	242
+Bulbourethral gland	graysubject	264
+Amnion	graysubject	12
+Ureter	graysubject	254
+Levator ani	graysubject	119
+Clavicle	graysubject	49
+Acetabulum	graysubject	57
+Femur	graysubject	59
+Knee	graysubject	93
+Pleural cavity	graysubject	238
+Olfactory nerve	graysubject	196
+Gallbladder	graysubject	250
+Canine tooth	graysubject	242
+Temporomandibular joint	graysubject	75
+Medulla oblongata	graysubject	187
+Neural tube	graysubject	7
+Intervertebral disc	graysubject	72
+Ulna	graysubject	52
+Acromion	graysubject	50
+Trapezius muscle	graysubject	121
+Scapula	graysubject	50
+Coccyx	graysubject	24
+Nephron	graysubject	253
+Abducens nerve	graysubject	201
+Facial nerve	graysubject	202
+Mons pubis	graysubject	270
+Subarachnoid space	graysubject	193
+Morula	graysubject	6
+Gastrulation	graysubject	6
+Humerus	graysubject	51
+Rotator cuff	graysubject	123
+Radial nerve	graysubject	210
+Brachioradialis	graysubject	125
+Latissimus dorsi muscle	graysubject	121
+Pons	graysubject	187
+Median nerve	graysubject	217
+Brachial artery	graysubject	150
+Brachial plexus	graysubject	210
+Xiphoid process	graysubject	27
+Sacrum	graysubject	24
+Brachialis muscle	graysubject	124
+Pronator quadratus muscle	graysubject	125
+Hamstring	graysubject	128
+Sclera	graysubject	225
+Eustachian tube	graysubject	230
+Sciatic nerve	graysubject	213
+Sartorius muscle	graysubject	128
+Wrist	graysubject	86
+Portal vein	graysubject	174
+Lumbricals of the hand	graysubject	126
+Aortic valve	graysubject	138
+Tricuspid valve	graysubject	138
+Mitral valve	graysubject	138
+Flexor digitorum profundus muscle	graysubject	125
+Thenar eminence	graysubject	126
+Flexor digitorum superficialis muscle	graysubject	125
+Coracoid process	graysubject	50
+Brachiocephalic artery	graysubject	142
+Extensor carpi radialis brevis muscle	graysubject	125
+Extensor carpi radialis longus muscle	graysubject	125
+Extensor carpi ulnaris muscle	graysubject	125
+Flexor carpi radialis muscle	graysubject	125
+Femoral triangle	graysubject	157
+Deep artery of the thigh	graysubject	157
+Femoral artery	graysubject	157
+Great saphenous vein	graysubject	173
+Peroneus longus	graysubject	129
+Cauda equina	graysubject	208
+Spinal nerve	graysubject	208
+Axillary nerve	graysubject	210
+Ulnar nerve	graysubject	210
+Superior vena cava	graysubject	172
+Inferior vena cava	graysubject	173
+Maxilla	graysubject	38
+Cuboid bone	graysubject	63
+Trapezoid bone	graysubject	54
+Trapezium	graysubject	54
+Hypoglossal nerve	graysubject	207
+Vestibulocochlear nerve	graysubject	191
+Trigeminal nerve	graysubject	200
+Glossopharyngeal nerve	graysubject	204
+Oculomotor nerve	graysubject	198
+Accessory nerve	graysubject	206
+Circle of Willis	graysubject	147
+Tibia	graysubject	61
+Pericardium	graysubject	137
+Sigmoid colon	graysubject	249
+Areola	graysubject	271
+Hyoid bone	graysubject	45
+Macula of retina	graysubject	225
+Vomeronasal organ	graysubject	223
+Corpus callosum	graysubject	189
+Adrenal cortex	graysubject	277
+Synovial membrane	graysubject	68
+Lumbar vertebrae	graysubject	23
+Foramen magnum	graysubject	31
+Pineal gland	graysubject	276
+Zygomatic bone	graysubject	40
+Parathyroid gland	graysubject	273
+Suboccipital nerve	graysubject	210
+Greater occipital nerve	graysubject	209
+Great auricular nerve	graysubject	210
+Dorsal scapular nerve	graysubject	210
+Lesser occipital nerve	graysubject	210
+Long thoracic nerve	graysubject	210
+Phrenic nerve	graysubject	210
+Subclavian artery	graysubject	148
+Soft palate	graysubject	242
+Taste bud	graysubject	222
+Thoracic duct	graysubject	176
+Semicircular canals	graysubject	232
+Foramen ovale	graysubject	35
+Mandibular nerve	graysubject	200
+Lens	graysubject	226
+Shoulder	graysubject	81
+Bronchus	graysubject	237
+Bronchiole	graysubject	240
+Patella	graysubject	60
+Ethmoid bone	graysubject	36
+Mammary gland	graysubject	271
+Sphenoid bone	graysubject	35
+Cornea	graysubject	225
+Occipital bone	graysubject	31
+Palatine bone	graysubject	41
+Frontal bone	graysubject	33
+Parietal bone	graysubject	32
+Temporal bone	graysubject	34
+Ectoderm	graysubject	6
+Endoderm	graysubject	6
+Thoracic diaphragm	graysubject	117
+Nasal bone	graysubject	37
+Lacrimal bone	graysubject	39
+Vomer	graysubject	43
+Inferior nasal concha	graysubject	42
+Fibula	graysubject	62
+Metatarsal bones	graysubject	64
+Metacarpal bones	graysubject	55
+Chorion	graysubject	12
+Incisor	graysubject	242
+Zygomatic arch	graysubject	46
+Axis	graysubject	21
+Palatine tonsil	graysubject	243
+Pubic symphysis	graysubject	80
+Parotid gland	graysubject	177
+Anterior pituitary	graysubject	275
+Ankle	graysubject	95
+Extensor hallucis longus muscle	graysubject	129
+Cuneiform bones	graysubject	63
+Epiglottis	graysubject	236
+Seminal vesicle	graysubject	260
+Dentate gyrus	graysubject	189
+Achilles tendon	graysubject	129
+Meninges	graysubject	193
+Epididymis	graysubject	258
+Vas deferens	graysubject	259
+Ejaculatory duct	graysubject	261
+Spermatic cord	graysubject	258
+Mesonephric duct	graysubject	252
+External carotid artery	graysubject	144
+Urogenital sinus	graysubject	252
+Ischiocavernosus muscle	graysubject	120
+Cingulate cortex	graysubject	189
+Epiphysis	graysubject	17
+Fibrocartilage	graysubject	68
+Cremaster muscle	graysubject	118
+Cingulate sulcus	graysubject	189
+Inguinal canal	graysubject	258
+Scaphoid bone	graysubject	54
+Incisive bone	graysubject	38
+Leydig cell	graysubject	258
+Caudate nucleus	graysubject	189
+Nasal cavity	graysubject	223
+Pia mater	graysubject	193
+Capitate bone	graysubject	54
+Lunate bone	graysubject	54
+Hamate bone	graysubject	54
+Olfactory bulb	graysubject	189
+Sebaceous gland	graysubject	234
+Sternocleidomastoid muscle	graysubject	111
+Parietal lobe	graysubject	189
+Precuneus	graysubject	189
+Temporal lobe	graysubject	189
+Third ventricle	graysubject	189
+Frontal lobe	graysubject	189
+Central sulcus	graysubject	189
+Adrenal medulla	graysubject	277
+Occipital lobe	graysubject	189
+Supraorbital nerve	graysubject	200
+Corpus spongiosum penis	graysubject	262
+Collecting duct system	graysubject	253
+Papillary muscle	graysubject	138
+Forebrain	graysubject	189
+Intercostal muscle	graysubject	117
+Midbrain	graysubject	188
+Cerebrum	graysubject	189
+Cerebral peduncle	graysubject	188
+Rhinencephalon	graysubject	189
+Bowman's capsule	graysubject	253
+Distal convoluted tubule	graysubject	253
+Basilar membrane	graysubject	232
+Calcaneus	graysubject	63
+Pulmonary artery	graysubject	141
+Frenulum of labia minora	graysubject	270
+Appendicular skeleton	graysubject	17
+Internal carotid artery	graysubject	146
+Posterior pituitary	graysubject	275
+Mammillary body	graysubject	188
+Corpus luteum	graysubject	266
+Renal corpuscle	graysubject	253
+Carotid body	graysubject	277
+Arachnoid granulation	graysubject	193
+Choroid plexus	graysubject	187
+Utricle	graysubject	232
+Saccule	graysubject	232
+Pylorus	graysubject	247
+Choroid	graysubject	225
+Fornix	graysubject	189
+Internal capsule	graysubject	189
+Loop of Henle	graysubject	253
+Scalp	graysubject	105
+Claustrum	graysubject	189
+Renal calyx	graysubject	254
+Oocyte	graysubject	3
+Fascia	graysubject	104
+Organ of Corti	graysubject	232
+Grey column	graysubject	185
+Ligamentum arteriosum	graysubject	141
+Intestinal villus	graysubject	248
+Orbit	graysubject	46
+Deltoid muscle	graysubject	123
+Suprahyoid muscles	graysubject	112
+Infrahyoid muscles	graysubject	112
+Posterior cruciate ligament	graysubject	93
+Anterior cruciate ligament	graysubject	93
+Seminiferous tubule	graysubject	258
+Axial skeleton	graysubject	17
+Radius	graysubject	52
+Bulbospongiosus muscle	graysubject	120
+Umbilical vein	graysubject	135
+Renal medulla	graysubject	253
+Pyramidal tracts	graysubject	185
+Pulmonary vein	graysubject	165
+Spinothalamic tract	graysubject	185
+Endocardium	graysubject	138
+Notochord	graysubject	8
+Sertoli cell	graysubject	258
+Hard palate	graysubject	242
+Pulmonary valve	graysubject	138
+Gluteus maximus muscle	graysubject	128
+Sella turcica	graysubject	35
+Cerebral aqueduct	graysubject	188
+Hindgut	graysubject	241
+Navicular bone	graysubject	63
+Pisiform bone	graysubject	54
+Triquetral bone	graysubject	54
+Celiac plexus	graysubject	220
+Dura mater	graysubject	193
+Mesentery	graysubject	46
+Olfactory epithelium	graysubject	223
+Glomerulus	graysubject	253
+Glomerulus	graysubject	189
+Gluteus minimus muscle	graysubject	128
+Gluteus medius muscle	graysubject	128
+Ora serrata	graysubject	225
+Upper limb	graysubject	289
+Gartner's duct	graysubject	252
+Genitofemoral nerve	graysubject	212
+Renal cortex	graysubject	253
+Renal capsule	graysubject	253
+Renal pelvis	graysubject	253
+Pelvic floor	graysubject	119
+Superior oblique muscle	graysubject	227
+Hypoglossal nucleus	graysubject	187
+Medial lemniscus	graysubject	188
+Oculomotor nucleus	graysubject	188
+Azygos vein	graysubject	172
+Nucleus ambiguus	graysubject	187
+Radial artery	graysubject	151
+Lateral lemniscus	graysubject	188
+Medial longitudinal fasciculus	graysubject	188
+Great cerebral vein	graysubject	170
+Ductus arteriosus	graysubject	139
+Midbrain tegmentum	graysubject	188
+Myenteric plexus	graysubject	248
+Virchow's node	graysubject	177
+Dermis	graysubject	234
+Umbilical artery	graysubject	139
+Levator scapulae muscle	graysubject	121
+Rhomboid minor muscle	graysubject	121
+Rhomboid major muscle	graysubject	121
+Pectoralis minor muscle	graysubject	122
+Pectoralis major muscle	graysubject	122
+Fusiform gyrus	graysubject	189
+Bowman's membrane	graysubject	225
+Common bile duct	graysubject	250
+Cystic duct	graysubject	250
+Diencephalon	graysubject	189
+Axilla	graysubject	149
+Tactile corpuscle	graysubject	233
+Ear	graysubject	228
+Dartos	graysubject	258
+Paramesonephric duct	graysubject	252
+Pubococcygeus muscle	graysubject	119
+Ovarian follicle	graysubject	266
+Long bone	graysubject	17
+Eyelid	graysubject	228
+Locus coeruleus	graysubject	187
+Cerebral circulation	graysubject	147
+Muscles of mastication	graysubject	109
+Nasolacrimal duct	graysubject	227
+Aortic sinus	graysubject	138
+Auricle	graysubject	229
+Conjunctiva	graysubject	227
+Dentin	graysubject	242
+Diaphysis	graysubject	17
+Plantar fascia	graysubject	131
+Stratum corneum	graysubject	234
+Extensor digiti minimi muscle	graysubject	125
+Sacroiliac joint	graysubject	80
+Cervical plexus	graysubject	210
+Omohyoid muscle	graysubject	112
+Digastric muscle	graysubject	112
+Gums	graysubject	242
+Quadriceps femoris muscle	graysubject	128
+Popliteal artery	graysubject	159
+Trophoblast	graysubject	6
+Linea alba	graysubject	118
+Endolymph	graysubject	232
+Greater trochanter	graysubject	59
+Postcentral gyrus	graysubject	189
+Lateral sulcus	graysubject	189
+Fourth ventricle	graysubject	187
+Inferior frontal gyrus	graysubject	189
+Middle frontal gyrus	graysubject	189
+Superior frontal gyrus	graysubject	189
+Medial longitudinal fissure	graysubject	189
+Postcentral sulcus	graysubject	189
+Transverse temporal gyrus	graysubject	189
+Epidural space	graysubject	193
+Abdominal aorta	graysubject	154
+Brunner's glands	graysubject	248
+Septum pellucidum	graysubject	189
+Sublingual gland	graysubject	242
+Middle meningeal artery	graysubject	144
+Nasal septum	graysubject	223
+Somite	graysubject	9
+Urogenital diaphragm	graysubject	120
+Ciliary body	graysubject	225
+Dorsal spinocerebellar tract	graysubject	185
+Ventral spinocerebellar tract	graysubject	185
+Optic disc	graysubject	225
+Spermatid	graysubject	258
+Cuneate nucleus	graysubject	187
+Aponeurosis	graysubject	104
+Human eye	graysubject	224
+Zona pellucida	graysubject	3
+Inferior colliculus	graysubject	188
+Superior colliculus	graysubject	188
+Internal pudendal artery	graysubject	155
+Piriformis muscle	graysubject	128
+Rete testis	graysubject	258
+Allantois	graysubject	12
+Pulp	graysubject	242
+Yolk sac	graysubject	11
+Ependyma	graysubject	189
+Genital tubercle	graysubject	252
+Dorsal root ganglion	graysubject	185
+Mastoid process	graysubject	34
+Fundiform ligament	graysubject	262
+Motor cortex	graysubject	189
+Lacrimal gland	graysubject	227
+Rectus abdominis muscle	graysubject	118
+Elastic cartilage	graysubject	68
+Perimysium	graysubject	103
+Endomysium	graysubject	103
+Epimysium	graysubject	103
+Cervical vertebrae	graysubject	21
+Thoracic vertebrae	graysubject	22
+Mandibular foramen	graysubject	44
+Paronychium	graysubject	234
+Jugular vein	graysubject	168
+Musculocutaneous nerve	graysubject	210
+Teres minor muscle	graysubject	123
+Triceps brachii muscle	graysubject	124
+Osteon	graysubject	18
+Lamellar corpuscle	graysubject	233
+Atrium	graysubject	138
+Mediastinum	graysubject	239
+Papillary duct	graysubject	253
+Sweat gland	graysubject	234
+Aortic body	graysubject	277
+Orbicularis oris muscle	graysubject	108
+Buccinator muscle	graysubject	108
+Premolar	graysubject	242
+Obliquus capitis inferior muscle	graysubject	116
+Obliquus capitis superior muscle	graysubject	116
+Pars intermedia	graysubject	275
+Pars tuberalis	graysubject	275
+Ciliary muscle	graysubject	225
+Epithalamus	graysubject	189
+Median aperture	graysubject	187
+Efferent ducts	graysubject	258
+Renal artery	graysubject	154
+Foramen lacerum	graysubject	47
+Cloquet's node	graysubject	179
+Paraaortic lymph nodes	graysubject	180
+Inferior alveolar nerve	graysubject	200
+Periaqueductal gray	graysubject	188
+Lateral ventricles	graysubject	189
+Insular cortex	graysubject	189
+Suprascapular nerve	graysubject	210
+Elastic fiber	graysubject	104
+Reticular formation	graysubject	187
+Internal jugular vein	graysubject	168
+External jugular vein	graysubject	168
+Recurrent laryngeal nerve	graysubject	205
+Olivary body	graysubject	187
+Inferior olivary nucleus	graysubject	187
+Multipolar neuron	graysubject	183
+Cerebellar vermis	graysubject	187
+Eponychium	graysubject	234
+Renal vein	graysubject	173
+Renal pyramids	graysubject	253
+Trigone of urinary bladder	graysubject	255
+Capsule of lens	graysubject	226
+Trabecular meshwork	graysubject	225
+Procerus muscle	graysubject	107
+Trapezoid body	graysubject	191
+Common hepatic duct	graysubject	250
+Pectineus muscle	graysubject	128
+Gubernaculum	graysubject	252
+Filum terminale	graysubject	185
+Cribriform plate	graysubject	36
+Masseter muscle	graysubject	109
+Mastoid antrum	graysubject	230
+Recto-uterine pouch	graysubject	246
+Lingual tonsils	graysubject	243
+Supramarginal gyrus	graysubject	189
+Basilar artery	graysubject	148
+Vertebral artery	graysubject	148
+Interventricular foramina	graysubject	189
+Ulnar collateral ligament of elbow joint	graysubject	84
+Ear canal	graysubject	229
+Zona reticularis	graysubject	277
+Tibialis posterior muscle	graysubject	129
+Celiac artery	graysubject	154
+Intrathecal administration	graysubject	193
+Suprapineal recess	graysubject	189
+Anal canal	graysubject	249
+Corona radiata	graysubject	189
+Spermatogonium	graysubject	258
+Descending aorta	graysubject	153
+Acromioclavicular joint	graysubject	82
+Coccygeus muscle	graysubject	119
+Superior mesenteric artery	graysubject	154
+Posterior cranial fossa	graysubject	47
+Synovial bursa	graysubject	68
+Epineurium	graysubject	183
+Inferior oblique muscle	graysubject	227
+Medial rectus muscle	graysubject	227
+Inferior rectus muscle	graysubject	227
+Lateral rectus muscle	graysubject	227
+Levator palpebrae superioris muscle	graysubject	227
+Superior rectus muscle	graysubject	227
+Popliteal vein	graysubject	173
+Tectospinal tract	graysubject	185
+Rubrospinal tract	graysubject	192
+Dental alveolus	graysubject	242
+Anterior cerebral artery	graysubject	146
+Tibialis anterior muscle	graysubject	129
+Inguinal ligament	graysubject	118
+Glabella	graysubject	33
+Symphysis	graysubject	70
+Paratracheal lymph nodes	graysubject	177
+Rima glottidis	graysubject	235
+Lateral cricoarytenoid muscle	graysubject	236
+Posterior cricoarytenoid muscle	graysubject	236
+Cricoid cartilage	graysubject	236
+Femoral vein	graysubject	173
+Red nucleus	graysubject	188
+Otolith	graysubject	232
+Abducens nucleus	graysubject	187
+Thyroid cartilage	graysubject	236
+Nasion	graysubject	33
+Stapedius muscle	graysubject	230
+Cephalic vein	graysubject	172
+Urethral gland	graysubject	262
+Dental papilla	graysubject	242
+Pancreatic duct	graysubject	251
+Meibomian gland	graysubject	227
+Superior orbital fissure	graysubject	201
+Subclavian vein	graysubject	172
+Otic ganglion	graysubject	200
+Pterygopalatine ganglion	graysubject	200
+Cricothyroid muscle	graysubject	236
+Cricothyroid ligament	graysubject	236
+Auriculotemporal nerve	graysubject	200
+Chorda tympani	graysubject	231
+Central retinal artery	graysubject	146
+Ophthalmic artery	graysubject	146
+Tensor tympani muscle	graysubject	231
+Pituitary stalk	graysubject	189
+Cancellous bone	graysubject	18
+Internal obturator muscle	graysubject	128
+Medial pterygoid muscle	graysubject	109
+Lateral pterygoid muscle	graysubject	109
+Lentiform nucleus	graysubject	189
+Pontine nuclei	graysubject	187
+Platysma muscle	graysubject	110
+Serratus anterior muscle	graysubject	122
+Helix	graysubject	229
+Hip	graysubject	92
+Soleus muscle	graysubject	129
+Transverse abdominal muscle	graysubject	118
+Corrugator supercilii muscle	graysubject	106
+Depressor labii inferioris muscle	graysubject	108
+Stylohyoid muscle	graysubject	112
+Geniohyoid muscle	graysubject	112
+Mylohyoid muscle	graysubject	112
+Levatores costarum muscles	graysubject	117
+Interspinales muscles	graysubject	115
+Intertransversarii	graysubject	115
+Triceps surae muscle	graysubject	129
+Nasalis muscle	graysubject	107
+Gastrocnemius muscle	graysubject	129
+Deep vein of the thigh	graysubject	173
+Small saphenous vein	graysubject	173
+Common iliac vein	graysubject	173
+Dorsal venous arch of the foot	graysubject	173
+External iliac vein	graysubject	173
+Deep vein	graysubject	164
+Superficial vein	graysubject	164
+Median cubital vein	graysubject	172
+Basilic vein	graysubject	172
+Brachial veins	graysubject	172
+Posterior tibial vein	graysubject	173
+Anterior tibial vein	graysubject	173
+Fibular veins	graysubject	173
+Posterior tibial artery	graysubject	162
+Ductus venosus	graysubject	139
+Supraspinatus muscle	graysubject	123
+Anterior tibial artery	graysubject	160
+Ulnar artery	graysubject	152
+Axillary artery	graysubject	149
+Internal thoracic artery	graysubject	148
+Inferior mesenteric artery	graysubject	154
+Transversus thoracis muscle	graysubject	117
+Pyramidalis muscle	graysubject	118
+Splenic artery	graysubject	154
+Gastroduodenal artery	graysubject	154
+Common hepatic artery	graysubject	154
+Superior mesenteric vein	graysubject	174
+Dorsalis pedis artery	graysubject	161
+External iliac artery	graysubject	156
+Splenic vein	graysubject	174
+Common iliac artery	graysubject	155
+Maxillary sinus	graysubject	223
+Auricular branch of vagus nerve	graysubject	205
+Infraspinatus muscle	graysubject	123
+Axillary vein	graysubject	172
+Pars reticulata	graysubject	188
+Radial veins	graysubject	172
+Ulnar veins	graysubject	172
+Prostatic utricle	graysubject	256
+Oogonium	graysubject	3
+Inferior mesenteric vein	graysubject	174
+Hepatic veins	graysubject	173
+Bronchial artery	graysubject	153
+Myelencephalon	graysubject	187
+Hindbrain	graysubject	186
+Metencephalon	graysubject	187
+Proctodeum	graysubject	241
+Posterior grey column	graysubject	185
+Spinocerebellar tract	graysubject	185
+Cingulum	graysubject	189
+Arbor vitae	graysubject	187
+Parahippocampal gyrus	graysubject	27
+Diploic veins	graysubject	169
+Tunica intima	graysubject	133
+Tunica media	graysubject	133
+Arytenoid cartilage	graysubject	236
+Inferior cerebellar peduncle	graysubject	187
+Globose nucleus	graysubject	187
+Dentate nucleus	graysubject	187
+Deep cerebellar nuclei	graysubject	187
+Flocculonodular lobe	graysubject	187
+External capsule	graysubject	189
+Falx cerebri	graysubject	193
+Cistern	graysubject	193
+Tentorium cerebelli	graysubject	193
+Medial geniculate nucleus	graysubject	188
+Crista galli	graysubject	36
+Cisterna magna	graysubject	193
+Middle cerebral artery	graysubject	146
+Stria terminalis	graysubject	189
+Psoas major muscle	graysubject	127
+Tibial nerve	graysubject	213
+Gomphosis	graysubject	70
+Zygomaticus major muscle	graysubject	108
+Orbital part of frontal bone	graysubject	33
+Frontalis muscle	graysubject	105
+Orbicularis oculi muscle	graysubject	106
+Levator anguli oris	graysubject	108
+Mentalis	graysubject	108
+Levator labii superioris	graysubject	108
+Risorius	graysubject	108
+Depressor anguli oris muscle	graysubject	108
+Occipitalis muscle	graysubject	105
+Depressor septi nasi muscle	graysubject	107
+Lobes of the brain	graysubject	189
+Medial collateral ligament	graysubject	93
+Epicranial aponeurosis	graysubject	105
+Facial artery	graysubject	144
+Right coronary artery	graysubject	142
+Left coronary artery	graysubject	142
+Common carotid artery	graysubject	143
+Rathke's pouch	graysubject	275
+Flexor carpi ulnaris muscle	graysubject	125
+Zona glomerulosa	graysubject	277
+Lateral thoracic artery	graysubject	149
+Fossa ovalis	graysubject	138
+Lesser omentum	graysubject	246
+Corpora quadrigemina	graysubject	188
+Foramen ovale	graysubject	135
+Tympanic cavity	graysubject	230
+Uncinate process of ethmoid bone	graysubject	36
+Abdominal internal oblique muscle	graysubject	118
+Anterior spinal artery	graysubject	148
+Arachnoid mater	graysubject	193
+Subdural space	graysubject	193
+Costochondral joint	graysubject	77
+Frenulum of tongue	graysubject	242
+Olecranon	graysubject	52
+Syndesmosis	graysubject	70
+Synarthrosis	graysubject	70
+Supraorbital ridge	graysubject	33
+Temporal fossa	graysubject	46
+Left gastric artery	graysubject	154
+Dorsal root of spinal nerve	graysubject	208
+Biceps femoris muscle	graysubject	128
+Ventral root of spinal nerve	graysubject	208
+Ciliary ganglion	graysubject	200
+Frontal suture	graysubject	46
+Sagittal suture	graysubject	46
+Lambdoid suture	graysubject	32
+Coronal suture	graysubject	46
+Interventricular septum	graysubject	138
+Sternal angle	graysubject	27
+Tragus	graysubject	229
+Lateral epicondyle of the humerus	graysubject	51
+Iris dilator muscle	graysubject	225
+Iris sphincter muscle	graysubject	225
+Parotid duct	graysubject	242
+Oral mucosa	graysubject	242
+Talus bone	graysubject	63
+Ascending colon	graysubject	249
+Laryngeal inlet	graysubject	236
+Agger nasi	graysubject	38
+Alar ligament	graysubject	74
+Descemet's membrane	graysubject	225
+Shoulder joint	graysubject	82
+Annulus of Zinn	graysubject	227
+Ansa cervicalis	graysubject	210
+Buccal nerve	graysubject	200
+Ethmoid sinus	graysubject	36
+Alveolar process	graysubject	38
+Vastus medialis	graysubject	128
+Greater petrosal nerve	graysubject	202
+Cisterna chyli	graysubject	176
+Ampulla of Vater	graysubject	250
+Interatrial septum	graysubject	138
+Marginal zone	graysubject	278
+Anterior choroidal artery	graysubject	147
+Sternohyoid muscle	graysubject	112
+Longus capitis muscle	graysubject	113
+Sternothyroid muscle	graysubject	112
+Thyrohyoid muscle	graysubject	112
+Longus colli muscle	graysubject	113
+Semispinalis muscles	graysubject	115
+Rotatores muscles	graysubject	115
+Rectus capitis anterior muscle	graysubject	113
+Rectus capitis lateralis muscle	graysubject	113
+Multifidus muscle	graysubject	115
+Splenius capitis muscle	graysubject	115
+Rectus capitis posterior major muscle	graysubject	116
+External intercostal muscles	graysubject	117
+Serratus posterior superior muscle	graysubject	117
+Splenius cervicis muscle	graysubject	115
+Internal intercostal muscles	graysubject	117
+Rectus capitis posterior minor muscle	graysubject	116
+Corrugator cutis ani muscle	graysubject	120
+Subcostalis muscle	graysubject	117
+Serratus posterior inferior muscle	graysubject	117
+Psoas minor muscle	graysubject	127
+Quadratus lumborum muscle	graysubject	118
+Abdominal external oblique muscle	graysubject	118
+Posterior cerebral artery	graysubject	148
+External anal sphincter	graysubject	120
+Internal anal sphincter	graysubject	120
+External sphincter muscle of male urethra	graysubject	120
+Subclavius muscle	graysubject	122
+Subscapularis muscle	graysubject	123
+Posterior communicating artery	graysubject	146
+Extensor pollicis longus muscle	graysubject	125
+Extensor digitorum muscle	graysubject	125
+Teres major muscle	graysubject	123
+Anconeus muscle	graysubject	125
+Palmaris longus muscle	graysubject	125
+Pronator teres muscle	graysubject	125
+Coracobrachialis muscle	graysubject	124
+Abductor pollicis longus muscle	graysubject	125
+Supinator muscle	graysubject	125
+Flexor pollicis longus muscle	graysubject	125
+Dorsal interossei of the foot	graysubject	131
+Superior gemellus muscle	graysubject	128
+Palmaris brevis muscle	graysubject	126
+Extensor pollicis brevis muscle	graysubject	125
+External obturator muscle	graysubject	128
+Inferior gemellus muscle	graysubject	128
+Adductor longus muscle	graysubject	128
+Vastus intermedius muscle	graysubject	128
+Iliacus muscle	graysubject	127
+Adductor brevis muscle	graysubject	128
+Quadratus femoris muscle	graysubject	128
+Vastus lateralis muscle	graysubject	128
+Semimembranosus muscle	graysubject	128
+Gracilis muscle	graysubject	128
+Adductor magnus muscle	graysubject	128
+Semitendinosus muscle	graysubject	128
+Rectus femoris muscle	graysubject	128
+Flexor digitorum longus muscle	graysubject	129
+Extensor digitorum brevis muscle	graysubject	131
+Flexor hallucis longus muscle	graysubject	129
+Extensor digitorum longus muscle	graysubject	129
+Popliteus muscle	graysubject	129
+Peroneus tertius	graysubject	129
+Fibularis brevis	graysubject	129
+Quadratus plantae muscle	graysubject	131
+Abductor hallucis muscle	graysubject	131
+Plantaris muscle	graysubject	129
+Flexor hallucis brevis muscle	graysubject	131
+Plantar interossei muscles	graysubject	131
+Flexor digitorum brevis muscle	graysubject	131
+Adductor hallucis muscle	graysubject	131
+Lumbricals of the foot	graysubject	131
+Iliopsoas	graysubject	127
+Anterior communicating artery	graysubject	146
+Hyoglossus	graysubject	242
+Genioglossus	graysubject	242
+Palatoglossus muscle	graysubject	243
+Styloglossus	graysubject	242
+Cardiac skeleton	graysubject	138
+Suprasternal notch	graysubject	27
+Lateral cord	graysubject	210
+Conus medullaris	graysubject	185
+Thoracic aorta	graysubject	153
+Superficial temporal artery	graysubject	144
+Levator veli palatini	graysubject	243
+Transverse muscle of tongue	graysubject	242
+Vertical muscle of tongue	graysubject	242
+Inferior longitudinal muscle of tongue	graysubject	242
+Superior longitudinal muscle of tongue	graysubject	242
+Palatopharyngeus muscle	graysubject	243
+Middle pharyngeal constrictor muscle	graysubject	244
+Inferior pharyngeal constrictor muscle	graysubject	244
+Salpingopharyngeus muscle	graysubject	244
+Superior pharyngeal constrictor muscle	graysubject	244
+Thoracoacromial artery	graysubject	149
+Stylopharyngeus muscle	graysubject	244
+Tensor veli palatini muscle	graysubject	243
+Sacral plexus	graysubject	213
+Common peroneal nerve	graysubject	213
+Intercostal nerves	graysubject	211
+Tensor fasciae latae muscle	graysubject	128
+Extensor hallucis brevis muscle	graysubject	129
+Cochlear nerve	graysubject	203
+Vestibular nerve	graysubject	203
+Flocculus	graysubject	187
+Medial pectoral nerve	graysubject	210
+Medial cord	graysubject	210
+Posterior cord	graysubject	210
+Thoracodorsal nerve	graysubject	210
+Subscapular artery	graysubject	149
+Deep fascia	graysubject	104
+Posterior interosseous nerve	graysubject	210
+Posterior interosseous artery	graysubject	152
+Anterior longitudinal ligament	graysubject	72
+Anterior superior iliac spine	graysubject	57
+Radial recurrent artery	graysubject	151
+Superficial peroneal nerve	graysubject	213
+Coronary sinus	graysubject	138
+Asterion	graysubject	46
+Cavernous sinus	graysubject	171
+Obturator foramen	graysubject	57
+Mesonephros	graysubject	252
+Bulb of vestibule	graysubject	270
+Nasociliary nerve	graysubject	200
+Ophthalmic nerve	graysubject	200
+Maxillary nerve	graysubject	200
+Foramen spinosum	graysubject	35
+Carotid sheath	graysubject	111
+Pharyngeal arch	graysubject	13
+Occipitofrontalis muscle	graysubject	105
+Lesser sac	graysubject	246
+Greater sac	graysubject	246
+Frontal sinus	graysubject	223
+Decidua	graysubject	12
+Internal iliac artery	graysubject	155
+Ilium	graysubject	57
+Primitive knot	graysubject	6
+Frontal lobe epilepsy	graysubject	189
+Fossa for lacrimal gland	graysubject	33
+Zona fasciculata	graysubject	277
+Tympanic duct	graysubject	232
+Cochlear duct	graysubject	232
+Vestibular membrane	graysubject	232
+Helicotrema	graysubject	232
+Deep peroneal nerve	graysubject	213
+Cortical reaction	graysubject	3
+Cranial nerve nucleus	graysubject	195
+Inferior epigastric vein	graysubject	173
+Inferior epigastric artery	graysubject	156
+Inguinal triangle	graysubject	286
+Superior epigastric artery	graysubject	148
+Internal thoracic vein	graysubject	172
+Septal nuclei	graysubject	189
+Schlemm's canal	graysubject	225
+Mystical experience	graysubject	189
+Posterior nasal apertures	graysubject	47
+Prevertebral ganglia	graysubject	214
+Hypothenar eminence	graysubject	126
+Hepatic artery proper	graysubject	154
+Pharyngeal groove	graysubject	13
+Pharyngeal pouch	graysubject	13
+Posterior inferior cerebellar artery	graysubject	148
+Human back	graysubject	281
+Linea aspera	graysubject	59
+Aortic arch	graysubject	142
+Syncytiotrophoblast	graysubject	6
+Carpometacarpal joint	graysubject	88
+Anterior inferior cerebellar artery	graysubject	148
+Lactiferous duct	graysubject	271
+Ball and socket joint	graysubject	70
+Zona incerta	graysubject	189
+Central canal	graysubject	185
+Obex	graysubject	187
+Abdominal wall	graysubject	11
+Germinal center	graysubject	175
+Hinge joint	graysubject	70
+Femoral nerve	graysubject	212
+Hypoglossal canal	graysubject	31
+Arcuate nucleus	graysubject	187
+Joint capsule	graysubject	68
+Orbitofrontal cortex	graysubject	189
+Adductor muscles of the hip	graysubject	128
+Gluteal tuberosity	graysubject	59
+Lateral rotator group	graysubject	128
+Geniculate ganglion	graysubject	202
+Vulval vestibule	graysubject	270
+Superior cerebellar artery	graysubject	148
+Bulbous corpuscle	graysubject	233
+Popliteal fossa	graysubject	158
+Dural venous sinuses	graysubject	171
+Diploë	graysubject	17
+Connecting tubule	graysubject	253
+Zonule of Zinn	graysubject	226
+Occipital sinus	graysubject	171
+Confluence of sinuses	graysubject	171
+Straight sinus	graysubject	171
+Superior petrosal sinus	graysubject	171
+Inferior petrosal sinus	graysubject	171
+Inferior sagittal sinus	graysubject	171
+Superior sagittal sinus	graysubject	171
+Occipital artery	graysubject	144
+Posterior cutaneous nerve of thigh	graysubject	213
+Inferior gluteal nerve	graysubject	213
+Superior gluteal nerve	graysubject	213
+Articularis genus muscle	graysubject	128
+Abductor digiti minimi muscle of foot	graysubject	131
+Flexor digiti minimi brevis muscle	graysubject	131
+Subtalar joint	graysubject	96
+Abductor digiti minimi muscle of hand	graysubject	126
+Dilator naris muscle	graysubject	107
+Chondroglossus	graysubject	242
+Arytenoid muscle	graysubject	236
+Thyroarytenoid muscle	graysubject	236
+Operculum	graysubject	189
+Iliohypogastric nerve	graysubject	212
+Ilioinguinal nerve	graysubject	212
+List of lumbar nerves	graysubject	209
+Lateral cutaneous nerve of thigh	graysubject	212
+Obturator nerve	graysubject	212
+Anococcygeal nerve	graysubject	213
+Perforating cutaneous nerve	graysubject	213
+Ischium	graysubject	57
+Pubis	graysubject	57
+Lesser trochanter	graysubject	59
+Sacrotuberous ligament	graysubject	80
+Sacrospinous ligament	graysubject	80
+Acetabular fossa	graysubject	57
+Ileocecal valve	graysubject	249
+Erector spinae muscles	graysubject	115
+Foramen rotundum	graysubject	35
+Stylomastoid artery	graysubject	144
+Pterygopalatine fossa	graysubject	41
+Stylomastoid foramen	graysubject	34
+Palmar carpal ligament	graysubject	126
+Flexor retinaculum of the hand	graysubject	126
+Palmar aponeurosis	graysubject	126
+Interfoveolar ligament	graysubject	118
+Conjoint tendon	graysubject	118
+Jugular fossa	graysubject	34
+Cystic artery	graysubject	154
+Tarsus	graysubject	227
+Thoracolumbar fascia	graysubject	115
+Supraspinous ligament	graysubject	72
+Thyrohyoid membrane	graysubject	236
+Lateral thyrohyoid ligament	graysubject	236
+Stylohyoid ligament	graysubject	112
+Nuchal ligament	graysubject	72
+Mental foramen	graysubject	44
+Temporomandibular ligament	graysubject	75
+Stylomandibular ligament	graysubject	75
+Straight arterioles of kidney	graysubject	253
+Cricoarytenoid muscle	graysubject	236
+Ascending aorta	graysubject	142
+Palatine aponeurosis	graysubject	243
+Aortic arches	graysubject	135
+Medial pterygoid plate	graysubject	35
+Wormian bones	graysubject	36
+Bregma	graysubject	32
+Canine fossa	graysubject	38
+Mylohyoid line	graysubject	44
+Mandibular symphysis	graysubject	44
+Jugular foramen	graysubject	46
+Costal cartilage	graysubject	29
+Internal auditory meatus	graysubject	34
+Vestibulospinal tract	graysubject	185
+Round ligament of uterus	graysubject	268
+Superior ophthalmic vein	graysubject	171
+Falx cerebelli	graysubject	193
+Fascia lata	graysubject	128
+Lingual nerve	graysubject	200
+Round window	graysubject	232
+Interphalangeal joints of the hand	graysubject	91
+Lateral meniscus	graysubject	93
+Medial meniscus	graysubject	93
+Septum transversum	graysubject	250
+Sphenomandibular ligament	graysubject	75
+Meckel's cartilage	graysubject	13
+Primitive streak	graysubject	6
+Efferent arteriole	graysubject	253
+Afferent arterioles	graysubject	253
+Lateral cutaneous nerve of forearm	graysubject	210
+Medial cutaneous nerve of forearm	graysubject	210
+Medial cutaneous nerve of arm	graysubject	210
+Cuneiform cartilages	graysubject	236
+Lingual artery	graysubject	144
+Cytotrophoblast	graysubject	6
+Sural nerve	graysubject	213
+Iliotibial tract	graysubject	128
+Middle temporal gyrus	graysubject	189
+Inferior temporal gyrus	graysubject	189
+Sphenoidal sinus	graysubject	223
+Epoophoron	graysubject	252
+Triangles of the neck	graysubject	145
+Corona radiata	graysubject	3
+Parieto-occipital sulcus	graysubject	189
+Calcarine sulcus	graysubject	189
+Posterior triangle of the neck	graysubject	145
+Semilunar hiatus	graysubject	223
+Posterior cingulate	graysubject	189
+Supraorbital foramen	graysubject	46
+Uterine artery	graysubject	155
+Frontal nerve	graysubject	200
+Lacrimal nerve	graysubject	200
+Supratrochlear nerve	graysubject	200
+Suture	graysubject	70
+Trochlear nucleus	graysubject	188
+Nuchal lines	graysubject	31
+Superior thyroid artery	graysubject	144
+Cochlear nucleus	graysubject	187
+Superior olivary complex	graysubject	187
+Vestibular nuclei	graysubject	187
+Trigeminal nerve nuclei	graysubject	187
+Spinal trigeminal nucleus	graysubject	187
+Trigeminal motor nucleus	graysubject	187
+Adrenal adenoma	graysubject	277
+Bulbus cordis	graysubject	135
+Superior parietal lobule	graysubject	189
+Inferior parietal lobule	graysubject	189
+Hemiazygos vein	graysubject	172
+Anterior commissure	graysubject	189
+Gracile nucleus	graysubject	187
+Horizontal fissure of cerebellum	graysubject	187
+Lingual gyrus	graysubject	189
+Middle superior alveolar nerve	graysubject	200
+Ventral mesentery	graysubject	241
+Falciform ligament	graysubject	250
+Perineal hernia	graysubject	120
+Interosseous talocalcaneal ligament	graysubject	96
+Anterior talocalcaneal ligament	graysubject	96
+Posterior talocalcaneal ligament	graysubject	96
+Medial talocalcaneal ligament	graysubject	96
+Lateral talocalcaneal ligament	graysubject	96
+Calcaneofibular ligament	graysubject	95
+Ramus of the mandible	graysubject	44
+Condyloid process	graysubject	44
+Sphenoidal conchae	graysubject	35
+Pterygoid processes of the sphenoid	graysubject	35
+Lesser wing of sphenoid bone	graysubject	35
+Greater wing of sphenoid bone	graysubject	35
+Perpendicular plate of ethmoid bone	graysubject	36
+Labyrinth of ethmoid	graysubject	36
+Zygomatic nerve	graysubject	200
+Inferior orbital fissure	graysubject	46
+Tunica albuginea of testis	graysubject	258
+Iliolumbar artery	graysubject	155
+Superior gluteal artery	graysubject	155
+Lateral sacral artery	graysubject	155
+Vaginal artery	graysubject	155
+Inferior gluteal artery	graysubject	155
+Obturator artery	graysubject	155
+Inferior vesical artery	graysubject	155
+Middle rectal artery	graysubject	155
+Superior vesical artery	graysubject	155
+Perineal artery	graysubject	155
+Inferior rectal artery	graysubject	155
+Urethral artery	graysubject	155
+Thyrocervical trunk	graysubject	148
+Ligamentum venosum	graysubject	139
+First metacarpal bone	graysubject	55
+Fourth metacarpal bone	graysubject	55
+Second metacarpal bone	graysubject	55
+Fifth metacarpal bone	graysubject	55
+Third metacarpal bone	graysubject	55
+Sigmoid sinus	graysubject	171
+Circumflex scapular artery	graysubject	149
+Iliocostalis	graysubject	115
+Spinalis	graysubject	115
+Longissimus	graysubject	115
+Vertebral vein	graysubject	168
+Posterior external jugular vein	graysubject	168
+Anterior jugular vein	graysubject	168
+Intercavernous sinuses	graysubject	171
+Transverse sinuses	graysubject	171
+Ophthalmic veins	graysubject	171
+Vitelline duct	graysubject	10
+Puborectalis muscle	graysubject	119
+Extensor indicis muscle	graysubject	125
+Aryepiglottic muscle	graysubject	236
+Oblique arytenoid	graysubject	236
+Articularis cubiti muscle	graysubject	124
+Flexor digiti minimi brevis muscle	graysubject	126
+Common interosseous artery	graysubject	152
+Common facial vein	graysubject	167
+Facial vein	graysubject	167
+Great cardiac vein	graysubject	166
+Small cardiac vein	graysubject	166
+Short gastric veins	graysubject	174
+Middle cardiac vein	graysubject	166
+Suprarenal veins	graysubject	173
+Inferior phrenic vein	graysubject	173
+Inferior thyroid veins	graysubject	172
+Accessory hemiazygos vein	graysubject	172
+Inferior ophthalmic vein	graysubject	171
+Left gastroepiploic vein	graysubject	174
+Middle thyroid vein	graysubject	168
+Superior thyroid vein	graysubject	168
+Superior gluteal veins	graysubject	173
+Pterygoid plexus	graysubject	167
+Inferior gluteal veins	graysubject	173
+Maxillary veins	graysubject	167
+Supreme intercostal vein	graysubject	172
+Greater pancreatic artery	graysubject	154
+Inferior phrenic arteries	graysubject	154
+Left gastroepiploic artery	graysubject	154
+Median sacral artery	graysubject	154
+Right gastroepiploic artery	graysubject	154
+Buccal artery	graysubject	144
+Sigmoid arteries	graysubject	154
+Right colic artery	graysubject	154
+Left colic artery	graysubject	154
+Middle colic artery	graysubject	154
+Superior genicular arteries	graysubject	159
+Transverse cervical artery	graysubject	148
+Esophageal branches of thoracic part of aorta	graysubject	153
+Middle genicular artery	graysubject	159
+Lateral inferior genicular artery	graysubject	159
+Lateral superior genicular artery	graysubject	159
+Inferior genicular arteries	graysubject	159
+Short gastric arteries	graysubject	154
+Medial inferior genicular artery	graysubject	159
+Medial superior genicular artery	graysubject	159
+Right gastric artery	graysubject	154
+Inferior thyroid artery	graysubject	148
+Middle suprarenal arteries	graysubject	154
+Ileocolic artery	graysubject	154
+Posterior auricular artery	graysubject	144
+Transverse facial artery	graysubject	144
+Inferior alveolar artery	graysubject	144
+Lateral circumflex femoral artery	graysubject	157
+Medial circumflex femoral artery	graysubject	157
+Anterior interosseous artery	graysubject	152
+Inferior labial artery	graysubject	144
+Superior labial artery	graysubject	144
+Ascending pharyngeal artery	graysubject	144
+Lumbar arteries	graysubject	154
+Intestinal arteries	graysubject	154
+Anterior ethmoidal artery	graysubject	146
+Pericardiacophrenic artery	graysubject	148
+Inferior pancreaticoduodenal artery	graysubject	154
+Superficial palmar arch	graysubject	152
+Superior pancreaticoduodenal artery	graysubject	154
+Deep palmar arch	graysubject	151
+Inferior mesenteric plexus	graysubject	220
+Superior laryngeal nerve	graysubject	205
+Mental nerve	graysubject	200
+Deep temporal nerves	graysubject	200
+Infratrochlear nerve	graysubject	200
+Nasopalatine nerve	graysubject	200
+External nasal nerve	graysubject	200
+Perineal nerve	graysubject	213
+Zygomaticotemporal nerve	graysubject	200
+Zygomaticofacial nerve	graysubject	200
+Upper subscapular nerve	graysubject	210
+Lower subscapular nerve	graysubject	210
+Subscapular nerves	graysubject	210
+Renal plexus	graysubject	220
+Intercostobrachial nerve	graysubject	211
+Lateral pectoral nerve	graysubject	210
+Pericardial sinus	graysubject	137
+Sinus venosus	graysubject	138
+Prostatic sinus	graysubject	256
+Adductor canal	graysubject	157
+Mandibular canal	graysubject	44
+Colic flexures	graysubject	249
+Transverse colon	graysubject	249
+Lamina terminalis	graysubject	189
+Tuber cinereum	graysubject	189
+Cavernous nerve plexus	graysubject	215
+Cardiac plexus	graysubject	220
+Meningeal branch of the mandibular nerve	graysubject	200
+Posterior ethmoidal foramen	graysubject	47
+Anterior ethmoidal foramen	graysubject	47
+Foramen cecum	graysubject	33
+Optic canal	graysubject	35
+Internal carotid plexus	graysubject	215
+Labyrinthine artery	graysubject	148
+Trigeminal ganglion	graysubject	200
+Infraorbital foramen	graysubject	38
+Zygomaticofacial foramen	graysubject	40
+Pterygomaxillary fissure	graysubject	46
+Superior cervical ganglion	graysubject	216
+Suprascapular artery	graysubject	148
+Supraclavicular nerves	graysubject	210
+Carotid canal	graysubject	34
+Ethmoidal nerves	graysubject	200
+Long ciliary nerves	graysubject	200
+Anterior ethmoidal nerve	graysubject	200
+Trochlea of humerus	graysubject	51
+Transverse cervical nerve	graysubject	210
+Middle nasal concha	graysubject	36
+Superior nasal concha	graysubject	36
+Sphenoethmoidal recess	graysubject	223
+Submandibular duct	graysubject	241
+Sympathetic trunk	graysubject	214
+Pterygoid hamulus	graysubject	35
+Mylohyoid nerve	graysubject	200
+Retropharyngeal space	graysubject	111
+Maxillary hiatus	graysubject	223
+Poles of cerebral hemispheres	graysubject	189
+Internal laryngeal nerve	graysubject	205
+External laryngeal nerve	graysubject	205
+Maxillary artery	graysubject	144
+Descending palatine artery	graysubject	144
+Incisive canals	graysubject	38
+Incisive foramen	graysubject	38
+Sphenopalatine foramen	graysubject	41
+Sphenopalatine artery	graysubject	144
+Lingual veins	graysubject	168
+Ascending palatine artery	graysubject	144
+Glossoepiglottic folds	graysubject	236
+Greater palatine foramen	graysubject	46
+Lesser palatine foramina	graysubject	46
+Torus tubarius	graysubject	230
+Foregut	graysubject	241
+Ovarian artery	graysubject	154
+Vena comitans	graysubject	164
+Inferior ulnar collateral artery	graysubject	150
+Superior ulnar collateral artery	graysubject	150
+Deep artery of arm	graysubject	150
+Radial sulcus	graysubject	51
+Bicipital groove	graysubject	51
+Lateral pterygoid nerve	graysubject	200
+Abdominal aortic plexus	graysubject	220
+Scarpa's ganglion	graysubject	203
+Traube's space	graysubject	286
+Intercostal space	graysubject	28
+Intestinal gland	graysubject	248
+Canal of Nuck	graysubject	268
+Internal pudendal veins	graysubject	173
+Pharyngeal veins	graysubject	168
+Deep cervical vein	graysubject	168
+Retromandibular vein	graysubject	167
+Occipital vein	graysubject	167
+Posterior auricular vein	graysubject	167
+Angular vein	graysubject	167
+Frontal vein	graysubject	167
+Supraorbital vein	graysubject	167
+Superficial temporal vein	graysubject	167
+Sternocostal triangle	graysubject	117
+Inferior cerebral veins	graysubject	170
+Squamous part of temporal bone	graysubject	34
+Mastoid part of the temporal bone	graysubject	34
+Tympanic part of the temporal bone	graysubject	34
+Petrous part of the temporal bone	graysubject	34
+Temporal styloid process	graysubject	34
+Basilar part of occipital bone	graysubject	31
+Lateral parts of occipital bone	graysubject	31
+Squamous part of occipital bone	graysubject	31
+Hypochondrium	graysubject	246
+Squamous part of the frontal bone	graysubject	33
+Inferior ganglion of glossopharyngeal nerve	graysubject	204
+Superior ganglion of vagus nerve	graysubject	205
+Prominence of facial canal	graysubject	230
+Mastoid canaliculus	graysubject	34
+Superior salivary nucleus	graysubject	191
+Submandibular ganglion	graysubject	200
+Middle cranial fossa	graysubject	47
+Anterior cranial fossa	graysubject	47
+Deep branch of radial nerve	graysubject	210
+Muscular branches of the radial nerve	graysubject	210
+Superficial branch of radial nerve	graysubject	210
+Lacrimal artery	graysubject	146
+Transverse fascia	graysubject	118
+Chorionic villi	graysubject	12
+Pronephros	graysubject	252
+Gastrocolic ligament	graysubject	246
+Greater omentum	graysubject	246
+Descending colon	graysubject	249
+Sphenoidal emissary foramen	graysubject	35
+Amphiarthrosis	graysubject	70
+Frontoethmoidal suture	graysubject	47
+Squamosal suture	graysubject	46
+Sphenozygomatic suture	graysubject	46
+Sphenofrontal suture	graysubject	46
+Sphenoparietal suture	graysubject	46
+Sphenopetrosal fissure	graysubject	47
+Zygomaticotemporal suture	graysubject	46
+Zygomaticofrontal suture	graysubject	46
+Sphenoethmoidal suture	graysubject	47
+Occipitomastoid suture	graysubject	46
+Petrosquamous suture	graysubject	34
+Sphenosquamosal suture	graysubject	46
+Posterior sternoclavicular ligament	graysubject	81
+Articular disk	graysubject	70
+Deep auricular artery	graysubject	144
+Anterior tympanic artery	graysubject	144
+Infraorbital artery	graysubject	144
+Infratemporal fossa	graysubject	46
+Posterior superior alveolar artery	graysubject	144
+Posterior ethmoidal nerve	graysubject	200
+Posterior meningeal artery	graysubject	144
+Posterior ethmoidal artery	graysubject	146
+Broad ligament of the uterus	graysubject	268
+Intermediate mesoderm	graysubject	6
+White ramus communicans	graysubject	208
+Pulmonary branches of vagus nerve	graysubject	205
+Pulmonary plexus	graysubject	205
+Preganglionic nerve fibers	graysubject	185
+General visceral efferent fibers	graysubject	190
+Superior hypogastric plexus	graysubject	220
+Celiac ganglia	graysubject	220
+Facial colliculus	graysubject	187
+Zygomatic process of frontal bone	graysubject	33
+Sagittal sulcus	graysubject	33
+Frontal crest	graysubject	33
+Lesser sciatic foramen	graysubject	80
+Gastric glands	graysubject	247
+Sphenoidal lingula	graysubject	35
+Subarcuate fossa	graysubject	34
+Mastoid foramen	graysubject	34
+Dorsum sellae	graysubject	35
+Petro-occipital fissure	graysubject	47
+Jugular process	graysubject	31
+Condylar canal	graysubject	31
+Jugular tubercle	graysubject	31
+Tuberculum sellae	graysubject	35
+Carotid groove	graysubject	35
+Posterior clinoid processes	graysubject	35
+Anterior clinoid process	graysubject	35
+Sigmoid sulcus	graysubject	34
+Internal occipital protuberance	graysubject	31
+Internal occipital crest	graysubject	31
+Pudendal cleft	graysubject	270
+Superior ganglion of glossopharyngeal nerve	graysubject	204
+Medial pterygoid nerve	graysubject	200
+Duodenojejunal flexure	graysubject	248
+Duodenal bulb	graysubject	248
+Suspensory ligament of ovary	graysubject	266
+Suspensory ligament of penis	graysubject	262
+Parametrium	graysubject	268
+Pectineal line	graysubject	59
+Deep inguinal ring	graysubject	286
+Superficial inguinal ring	graysubject	286
+Gonadal ridge	graysubject	252
+Appendix of testis	graysubject	258
+Tunica vaginalis	graysubject	258
+Pronephric duct	graysubject	252
+Mesovarium	graysubject	252
+Gubernaculum testis	graysubject	252
+Vitelline veins	graysubject	135
+Dorsal aorta	graysubject	135
+Body-stalk	graysubject	10
+Anterior cardinal vein	graysubject	135
+Common cardinal veins	graysubject	135
+Blood islands	graysubject	135
+Oblique vein of the left atrium	graysubject	166
+Posterior vein of the left ventricle	graysubject	166
+Valve of coronary sinus	graysubject	138
+Alar plate	graysubject	184
+Inner cell mass	graysubject	6
+Coronary sulcus	graysubject	138
+Interatrial sulcus	graysubject	138
+Fold of left vena cava	graysubject	137
+Left pulmonary artery	graysubject	141
+Right pulmonary artery	graysubject	141
+Rostrum of corpus callosum	graysubject	189
+Uncus	graysubject	189
+Lateral plate mesoderm	graysubject	6
+Axial mesoderm	graysubject	6
+Paraxial mesoderm	graysubject	6
+Stomodeum	graysubject	241
+Anterior triangle of the neck	graysubject	145
+Deep cervical fascia	graysubject	111
+Axillary sheath	graysubject	149
+Lateral pterygoid plate	graysubject	35
+Posterior interventricular artery	graysubject	142
+Circumflex branch of left coronary artery	graysubject	142
+Vaginal branches of uterine artery	graysubject	155
+Short ciliary nerves	graysubject	200
+Ciliary arteries	graysubject	146
+Greater sciatic foramen	graysubject	80
+Medial plantar nerve	graysubject	213
+Endocardial cushions	graysubject	135
+Lateral plantar nerve	graysubject	213
+Fascia of Colles	graysubject	120
+Pudendal canal	graysubject	119
+Anal fascia	graysubject	119
+Ischioanal fossa	graysubject	120
+Septum intermedium	graysubject	135
+Ischial tuberosity	graysubject	57
+Metathalamus	graysubject	189
+Pelvic brim	graysubject	58
+Arcuate line of ilium	graysubject	57
+Pubic arch	graysubject	58
+Upper extremity of tibia	graysubject	61
+Body of tibia	graysubject	61
+Lower extremity of tibia	graysubject	61
+Body of femur	graysubject	59
+Lower extremity of femur	graysubject	59
+Wing of ilium	graysubject	57
+Lateral aperture	graysubject	187
+Pelvic inlet	graysubject	58
+Lacrimal apparatus	graysubject	227
+Lacrimal canaliculi	graysubject	227
+Lacrimal sac	graysubject	227
+Labioscrotal swelling	graysubject	252
+Clavipectoral fascia	graysubject	122
+Middle meningeal nerve	graysubject	200
+Pterygopalatine nerves	graysubject	200
+Annular ligament of radius	graysubject	85
+Superior labial nerve	graysubject	200
+Inferior palpebral nerve	graysubject	200
+Pharyngeal nerve	graysubject	200
+Anterior superior alveolar nerve	graysubject	200
+Posterior superior alveolar nerve	graysubject	200
+Deep petrosal nerve	graysubject	200
+Nerve of pterygoid canal	graysubject	200
+Trigeminal cave	graysubject	200
+Masseteric nerve	graysubject	200
+Infraorbital plexus	graysubject	200
+Pterygoid canal	graysubject	46
+Infraorbital canal	graysubject	38
+Palatovaginal canal	graysubject	46
+Pterion	graysubject	46
+Obelion	graysubject	46
+Stephanion	graysubject	46
+Temporal line	graysubject	32
+Dacryon	graysubject	46
+Frontal eminence	graysubject	33
+Zygomatico-orbital foramina	graysubject	40
+Foramina of Scarpa	graysubject	38
+Mandibular fossa	graysubject	34
+Alveolar canals	graysubject	38
+Frontonasal duct	graysubject	33
+Condyloid fossa	graysubject	31
+Sphenoidal process of palatine bone	graysubject	41
+Orbital process of palatine bone	graysubject	41
+Pyramidal process of palatine bone	graysubject	41
+Perpendicular plate of palatine bone	graysubject	41
+Horizontal plate of palatine bone	graysubject	41
+Scaphoid fossa	graysubject	35
+Pterygoid fossa	graysubject	35
+Occipital plane	graysubject	31
+Nuchal plane	graysubject	31
+External occipital protuberance	graysubject	46
+Anterior nasal spine	graysubject	38
+Posterior nasal spine	graysubject	41
+Pharyngeal tubercle	graysubject	31
+Petrotympanic fissure	graysubject	34
+Suprameatal triangle	graysubject	34
+Infratemporal crest	graysubject	35
+Articular tubercle	graysubject	34
+Spine of sphenoid bone	graysubject	35
+Parietal foramen	graysubject	32
+Parietal eminence	graysubject	32
+Sulcus of auditory tube	graysubject	35
+Ethmoidal spine	graysubject	35
+Anterior nasal aperture	graysubject	47
+Posterior lacrimal crest	graysubject	39
+Cochlear aqueduct	graysubject	34
+Anterior lacrimal crest	graysubject	38
+Inferior tympanic canaliculus	graysubject	34
+Hiatus for greater petrosal nerve	graysubject	34
+Suprameatal spine	graysubject	34
+Intertubercular plane	graysubject	286
+Transpyloric plane	graysubject	286
+Coracoclavicular ligament	graysubject	82
+Sternoclavicular joint	graysubject	81
+Rectal venous plexus	graysubject	173
+Metatarsophalangeal joints	graysubject	99
+Medial condyle of tibia	graysubject	61
+Lateral condyle of tibia	graysubject	61
+Medial condyle of femur	graysubject	59
+Lateral condyle of femur	graysubject	59
+Long plantar ligament	graysubject	96
+Peroneal retinacula	graysubject	130
+Inferior extensor retinaculum of foot	graysubject	130
+Fibular collateral ligament	graysubject	93
+Upper extremity of humerus	graysubject	51
+Lateral supracondylar ridge	graysubject	51
+Body of humerus	graysubject	51
+Lower extremity of humerus	graysubject	51
+Trabeculae carneae	graysubject	138
+Infundibulum	graysubject	138
+Arches of the foot	graysubject	101
+Anterior median fissure of spinal cord	graysubject	185
+Anterior funiculus	graysubject	185
+Lateral funiculus	graysubject	185
+Anterior grey column	graysubject	185
+Posterior funiculus	graysubject	185
+Posterior median sulcus of spinal cord	graysubject	185
+Gracile fasciculus	graysubject	185
+Cuneate fasciculus	graysubject	185
+Pubic tubercle	graysubject	57
+Neural groove	graysubject	7
+Neural fold	graysubject	7
+Optic vesicle	graysubject	224
+Optic stalk	graysubject	224
+Intraparietal sulcus	graysubject	189
+Intertrochanteric crest	graysubject	59
+Obturator membrane	graysubject	128
+Ischial spine	graysubject	57
+Anterior inferior iliac spine	graysubject	57
+Anterior gluteal line	graysubject	57
+Tendinous arch of pelvic fascia	graysubject	119
+Posterior humeral circumflex artery	graysubject	149
+Anterior humeral circumflex artery	graysubject	149
+Supraspinatous fossa	graysubject	50
+Infraspinatous fossa	graysubject	50
+Glenoid cavity	graysubject	50
+Primitive atrium	graysubject	135
+Primitive ventricle	graysubject	135
+Central gelatinous substance of spinal cord	graysubject	185
+Substantia gelatinosa of Rolando	graysubject	185
+Posterior commissure	graysubject	189
+Masseteric fascia	graysubject	109
+Temporal fascia	graysubject	109
+Lateral grey column	graysubject	185
+Ganglion impar	graysubject	214
+Posterior thoracic nucleus	graysubject	185
+Funiculus	graysubject	183
+Anterior spinothalamic tract	graysubject	185
+Foramen singulare	graysubject	34
+Lateral vestibular nucleus	graysubject	191
+Superior vestibular nucleus	graysubject	191
+Femoral ring	graysubject	157
+Femoral canal	graysubject	157
+Infraorbital groove	graysubject	38
+Lacrimal groove	graysubject	38
+Trochlear fovea	graysubject	33
+Ligamenta flava	graysubject	72
+Iliopubic eminence	graysubject	57
+Anterior fontanelle	graysubject	47
+Posterior fontanelle	graysubject	47
+Iliac crest	graysubject	57
+Petrosquamous sinus	graysubject	171
+Superior cerebral veins	graysubject	170
+Internal auditory veins	graysubject	232
+Subcostal nerve	graysubject	211
+Subcostal arteries	graysubject	153
+Lateral arcuate ligament	graysubject	117
+Medial arcuate ligament	graysubject	117
+Pubic crest	graysubject	57
+Fascia of Scarpa	graysubject	118
+Fascia of Camper	graysubject	118
+Accessory obturator nerve	graysubject	212
+White pulp	graysubject	278
+Red pulp	graysubject	278
+Right lymphatic duct	graysubject	176
+Trochanteric fossa	graysubject	59
+Acetabular notch	graysubject	57
+Cruciate anastomosis	graysubject	155
+Round ligament of liver	graysubject	250
+Lateral umbilical fold	graysubject	246
+Iliofemoral ligament	graysubject	92
+Pubofemoral ligament	graysubject	93
+Ischiofemoral ligament	graysubject	92
+Ligament of head of femur	graysubject	92
+Levator muscle of thyroid gland	graysubject	272
+Laryngeal vestibule	graysubject	236
+Corniculate cartilages	graysubject	236
+Aryepiglottic fold	graysubject	236
+Cloacal membrane	graysubject	6
+Primitive groove	graysubject	6
+Septum primum	graysubject	135
+Optic cup	graysubject	224
+Septum secundum	graysubject	135
+Atlanto-axial joint	graysubject	73
+Atlanto-occipital joint	graysubject	74
+Superficial epigastric artery	graysubject	157
+Area postrema	graysubject	187
+Rhomboid fossa	graysubject	187
+Substantia innominata	graysubject	189
+Spiral ganglion	graysubject	228
+Basal plate	graysubject	12
+Renal column	graysubject	253
+Inferior ganglion of vagus nerve	graysubject	205
+Cephalic flexure	graysubject	184
+Buccopharyngeal membrane	graysubject	6
+Superior thoracic artery	graysubject	149
+Porta hepatis	graysubject	250
+Inferior transverse ligament of scapula	graysubject	82
+Suprascapular notch	graysubject	50
+Great scapular notch	graysubject	50
+Superior transverse scapular ligament	graysubject	82
+Lumbosacral plexus	graysubject	212
+Submucous plexus	graysubject	248
+Diagonal band of Broca	graysubject	191
+Thoracic splanchnic nerves	graysubject	217
+Palatine nerves	graysubject	200
+Lateral corticospinal tract	graysubject	185
+Anterior corticospinal tract	graysubject	185
+Scapular anastomosis	graysubject	149
+Maxillary process of inferior nasal concha	graysubject	42
+Maxillary prominence	graysubject	13
+Subclavian nerve	graysubject	210
+Superior lateral cutaneous nerve of arm	graysubject	210
+Posterior cutaneous nerve of arm	graysubject	210
+Posterior cutaneous nerve of forearm	graysubject	210
+Splanchnopleuric mesenchyme	graysubject	6
+Somatopleuric mesenchyme	graysubject	6
+Spermatic plexus	graysubject	220
+Aorticorenal ganglion	graysubject	220
+Superior mesenteric plexus	graysubject	220
+Superior mesenteric ganglion	graysubject	220
+Urachus	graysubject	252
+Embryonic disc	graysubject	6
+Vitelline membrane	graysubject	5
+Infraorbital nerve	graysubject	200
+Medial palpebral ligament	graysubject	106
+Body of maxilla	graysubject	38
+Frontal process of maxilla	graysubject	38
+Zygomatic process of maxilla	graysubject	38
+Palatine process of maxilla	graysubject	38
+Lacrimal punctum	graysubject	227
+Lacrimal lake	graysubject	227
+Antihelix	graysubject	229
+Antitragus	graysubject	229
+Ponticulus	graysubject	229
+Earlobe	graysubject	229
+Tactile corpuscles of Grandry	graysubject	233
+Corpuscles of Herbst	graysubject	233
+Obturator fascia	graysubject	119
+Anococcygeal body	graysubject	119
+Iliac fascia	graysubject	127
+Femoral sheath	graysubject	157
+Lacunar ligament	graysubject	118
+Lumboinguinal nerve	graysubject	212
+Iliopubic tract	graysubject	118
+External iliac lymph nodes	graysubject	180
+Lateral spinothalamic tract	graysubject	185
+Anterior external arcuate fibers	graysubject	187
+Posterior external arcuate fibers	graysubject	187
+Internal arcuate fibers	graysubject	187
+Mammillothalamic fasciculus	graysubject	191
+Ansa lenticularis	graysubject	189
+Pars compacta	graysubject	188
+Medullary striae of fourth ventricle	graysubject	187
+Spinomesencephalic tract	graysubject	185
+Posterolateral tract	graysubject	185
+Olivospinal tract	graysubject	185
+Superior cerebellar peduncle	graysubject	187
+Ventral supraoptic decussation	graysubject	188
+Diaphragma sellae	graysubject	189
+Stratum zonale of thalamus	graysubject	189
+Tela chorioidea of third ventricle	graysubject	189
+Tela chorioidea of fourth ventricle	graysubject	187
+Taenia thalami	graysubject	189
+Posterior perforated substance	graysubject	188
+Optic recess	graysubject	189
+Interpeduncular fossa	graysubject	189
+Sublingual nucleus	graysubject	187
+Solitary tract	graysubject	187
+Hypothalamic sulcus	graysubject	189
+Projection fiber	graysubject	189
+Commissural fiber	graysubject	189
+Uncinate fasciculus	graysubject	189
+Occipitofrontal fasciculus	graysubject	189
+Superior rectal artery	graysubject	154
+Anterior cecal artery	graysubject	154
+Posterior cecal artery	graysubject	154
+Iliac fossa	graysubject	57
+Appendicular artery	graysubject	154
+Splenium	graysubject	189
+Superior medullary velum	graysubject	187
+Rhinal sulcus	graysubject	184
+Olfactory tract	graysubject	189
+Paraterminal gyrus	graysubject	189
+Indusium griseum	graysubject	189
+Subcallosal area	graysubject	189
+Anterior perforated substance	graysubject	189
+Palmar metacarpal arteries	graysubject	151
+Princeps pollicis artery	graysubject	151
+Suboccipital triangle	graysubject	116
+Articular processes	graysubject	20
+Dorsal carpal arch	graysubject	151
+Radial artery of index finger	graysubject	151
+Nutrient artery	graysubject	18
+Lateral plantar artery	graysubject	162
+Plantar metatarsal arteries	graysubject	162
+Medial plantar artery	graysubject	162
+Deep plantar artery	graysubject	161
+Anterior medial malleolar artery	graysubject	160
+Anterior tibial recurrent artery	graysubject	160
+Dorsal nasal artery	graysubject	146
+Angular artery	graysubject	144
+Masseteric artery	graysubject	144
+Mandibular notch	graysubject	44
+Inferior suprarenal artery	graysubject	154
+Internal iliac vein	graysubject	173
+Basal vein	graysubject	170
+Bulboid corpuscle	graysubject	233
+Cerebrospinal fibers	graysubject	188
+Frontopontine fibers	graysubject	188
+Temporopontine fibers	graysubject	188
+Lateral proper fasciculus	graysubject	185
+Posterior proper fasciculus	graysubject	187
+Anterior proper fasciculus	graysubject	187
+Stroma of cornea	graysubject	225
+Corneal epithelium	graysubject	225
+Ciliary processes	graysubject	225
+Inner plexiform layer	graysubject	225
+Retinal pigment epithelium	graysubject	225
+Layer of rods and cones	graysubject	225
+Pars ciliaris retinae	graysubject	225
+Basal plate	graysubject	184
+Posterior chamber of eyeball	graysubject	225
+Sulcus limitans	graysubject	187
+Terminal sulcus	graysubject	138
+Lingual septum	graysubject	242
+Plica fimbriata	graysubject	242
+Greater alar cartilage	graysubject	223
+Septal nasal cartilage	graysubject	223
+Lateral nasal cartilage	graysubject	223
+Intervertebral foramina	graysubject	20
+Posterior auricular nerve	graysubject	202
+Buccal branches of the facial nerve	graysubject	202
+Marginal mandibular branch of the facial nerve	graysubject	202
+Medial supracondylar ridge	graysubject	51
+Medial epicondyle of the humerus	graysubject	51
+Lateral epicondyle of the femur	graysubject	59
+Medial epicondyle of the femur	graysubject	59
+Lesser tubercle	graysubject	51
+Greater tubercle	graysubject	51
+Antebrachial fascia	graysubject	125
+Flexor retinaculum of foot	graysubject	130
+Sternopericardial ligaments	graysubject	137
+Pectinate muscles	graysubject	138
+Anterior interventricular sulcus	graysubject	138
+Central tendon of diaphragm	graysubject	117
+Right border of heart	graysubject	138
+Deep cervical artery	graysubject	148
+Costocervical trunk	graysubject	148
+Bicipital aponeurosis	graysubject	124
+Vincula tendina	graysubject	125
+Interosseous recurrent artery	graysubject	152
+Posterior ulnar recurrent artery	graysubject	152
+Anterior ulnar recurrent artery	graysubject	152
+Olecranon fossa	graysubject	51
+Radial tuberosity	graysubject	53
+Oblique cord	graysubject	85
+Trochlear notch	graysubject	52
+Radial notch	graysubject	52
+Radial collateral ligament of elbow joint	graysubject	84
+Pisohamate ligament	graysubject	87
+Zona orbicularis	graysubject	92
+Intertrochanteric line	graysubject	59
+Common palmar digital arteries	graysubject	152
+Axillary fascia	graysubject	122
+Proximal radioulnar articulation	graysubject	85
+Distal radioulnar articulation	graysubject	85
+Ulnar notch of the radius	graysubject	53
+Cervical part of internal carotid artery	graysubject	146
+Pharyngeal branch of vagus nerve	graysubject	205
+Petrosal process	graysubject	35
+Petrous portion of the internal carotid artery	graysubject	146
+Medial palpebral arteries	graysubject	146
+Supraorbital artery	graysubject	146
+Supratrochlear artery	graysubject	146
+Short posterior ciliary arteries	graysubject	146
+Long posterior ciliary arteries	graysubject	146
+Anterior ciliary arteries	graysubject	146
+Artery of the pterygoid canal	graysubject	146
+Mastoid cells	graysubject	34
+Deep temporal arteries	graysubject	144
+Middle temporal artery	graysubject	144
+Palatopharyngeal arch	graysubject	243
+Palatoglossal arch	graysubject	243
+Mucous membrane of the soft palate	graysubject	243
+Palatine glands	graysubject	243
+Sternocostal joints	graysubject	77
+Posterior scrotal nerves	graysubject	213
+Adductor tubercle of femur	graysubject	59
+Inferior anal nerves	graysubject	213
+Dental arch	graysubject	242
+Primary interatrial foramen	graysubject	135
+Septum spurium	graysubject	135
+Posterior interventricular sulcus	graysubject	138
+Spina vestibuli	graysubject	135
+Crista terminalis	graysubject	135
+Valve of inferior vena cava	graysubject	139
+Left atrioventricular orifice	graysubject	139
+Aortic orifice	graysubject	138
+Opening of the pulmonary artery	graysubject	138
+Right atrioventricular orifice	graysubject	138
+Intervenous tubercle	graysubject	138
+Circular folds	graysubject	248
+Piriformis nerve	graysubject	213
+Obturator internus nerve	graysubject	213
+Nerve to quadratus femoris	graysubject	213
+Corpus cavernosum penis	graysubject	262
+Dorsal artery of the penis	graysubject	155
+Dorsal nerve of the penis	graysubject	213
+Iliolumbar ligament	graysubject	79
+Anterior sacroiliac ligament	graysubject	80
+Posterior inferior iliac spine	graysubject	57
+Posterior superior iliac spine	graysubject	57
+Iliac tuberosity	graysubject	57
+Posterior sacroiliac ligament	graysubject	80
+Interosseous sacroiliac ligament	graysubject	80
+Superior tibiofibular joint	graysubject	94
+Inferior tibiofibular joint	graysubject	94
+Posterior ligament of the head of the fibula	graysubject	94
+Anterior tibiofibular ligament	graysubject	94
+Inferior transverse ligament of the tibiofibular syndesmosis	graysubject	94
+Posterior tibiofibular ligament	graysubject	94
+Sacrococcygeal symphysis	graysubject	80
+Plane joint	graysubject	70
+Condyloid joint	graysubject	70
+Pivot joint	graysubject	70
+Transverse ligament of atlas	graysubject	73
+Anterior sacrococcygeal ligament	graysubject	80
+Saddle joint	graysubject	70
+Membranous labyrinth	graysubject	232
+Ductus reuniens	graysubject	232
+Lagena	graysubject	232
+Endolymphatic duct	graysubject	232
+Tectorial membrane	graysubject	232
+Osseous spiral lamina	graysubject	232
+Stria vascularis of cochlear duct	graysubject	232
+Vestibular aqueduct	graysubject	232
+Endolymphatic sac	graysubject	232
+Pancreatic veins	graysubject	174
+Pancreaticoduodenal veins	graysubject	174
+Right gastroepiploic vein	graysubject	174
+Obturator veins	graysubject	173
+Plantar digital veins	graysubject	173
+Accessory cephalic vein	graysubject	172
+Median antebrachial vein	graysubject	172
+Basilar plexus	graysubject	171
+Cerebral veins	graysubject	170
+Internal cerebral veins	graysubject	170
+Cerebellar veins	graysubject	170
+Craniopharyngeal canal	graysubject	275
+Zygomatic process of temporal bone	graysubject	34
+Irregular bone	graysubject	17
+Orbital septum	graysubject	227
+Dorsal metacarpal arteries	graysubject	151
+Pharyngeal muscles	graysubject	244
+Posterior longitudinal ligament	graysubject	72
+Tectorial membrane of atlanto-axial joint	graysubject	74
+Costoxiphoid ligaments	graysubject	77
+Posterior sacrococcygeal ligament	graysubject	80
+Transverse metatarsal ligament	graysubject	98
+Deep transverse metacarpal ligament	graysubject	89
+Dorsal talonavicular ligament	graysubject	96
+Cuneonavicular joint	graysubject	96
+Cuboideonavicular joint	graysubject	96
+Talocalcaneonavicular joint	graysubject	96
+Calcaneocuboid joint	graysubject	96
+Acromioclavicular ligament	graysubject	82
+Conoid ligament	graysubject	82
+Trapezoid ligament	graysubject	82
+Coracoacromial ligament	graysubject	82
+Coracohumeral ligament	graysubject	83
+Glenohumeral ligaments	graysubject	83
+Glenoid labrum	graysubject	83
+Transverse humeral ligament	graysubject	83
+Dorsal radiocarpal ligament	graysubject	86
+Palmar radiocarpal ligament	graysubject	86
+Intermetacarpal joints	graysubject	89
+Plantar calcaneocuboid ligament	graysubject	96
+Plantar calcaneonavicular ligament	graysubject	96
+Bifurcated ligament	graysubject	96
+Tarsometatarsal joints	graysubject	97
+Intermetatarsal joints	graysubject	98
+Interphalangeal joints of foot	graysubject	100
+Intercuneiform joints	graysubject	96
+Intertarsal joints	graysubject	96
+Intercarpal joints	graysubject	87
+Oblique popliteal ligament	graysubject	93
+Patellar ligament	graysubject	93
+Transverse acetabular ligament	graysubject	92
+Anterior sternoclavicular ligament	graysubject	81
+Interclavicular ligament	graysubject	81
+Costoclavicular ligament	graysubject	81
+Secondary palate development	graysubject	13
+Fundus	graysubject	268
+Uterine cavity	graysubject	268
+Cervical canal	graysubject	268
+Esophageal hiatus	graysubject	117
+Aortic hiatus	graysubject	117
+Deltoid tuberosity	graysubject	51
+Supraglenoid tubercle	graysubject	50
+Infraglenoid tubercle	graysubject	50
+Greater sciatic notch	graysubject	57
+Lesser sciatic notch	graysubject	57
+Posterior ligament of elbow	graysubject	84
+Anterior ligament of elbow	graysubject	84
+Capitulum of the humerus	graysubject	51
+Anterior interosseous nerve	graysubject	210
+Palmar branch of ulnar nerve	graysubject	210
+Palmar branch of the median nerve	graysubject	210
+Common palmar digital nerves of median nerve	graysubject	210
+Proper palmar digital nerves of median nerve	graysubject	210
+Dorsal branch of ulnar nerve	graysubject	210
+Muscularis mucosae	graysubject	245
+Esophageal gland	graysubject	245
+Huxley's layer	graysubject	234
+Henle's layer	graysubject	234
+Palpebral fissure	graysubject	227
+Testicular artery	graysubject	154
+Testicular vein	graysubject	173
+Superior rectal vein	graysubject	174
+Solitary lymphatic nodule	graysubject	249
+Sternalis muscle	graysubject	122
+Pectoral fascia	graysubject	122
+Accessory meningeal artery	graysubject	144
+Submental triangle	graysubject	145
+Submandibular triangle	graysubject	145
+Carotid triangle	graysubject	145
+Muscular triangle	graysubject	145
+Subclavian triangle	graysubject	145
+Occipital triangle	graysubject	145
+Pterygomandibular raphe	graysubject	108
+Perineal raphe	graysubject	258
+Appendix of the epididymis	graysubject	258
+Tunica vasculosa testis	graysubject	258
+Supraspinous fascia	graysubject	123
+Infraspinous fascia	graysubject	123
+Brachial fascia	graysubject	124
+Bryant's triangle	graysubject	292
+Lumbar triangle	graysubject	121
+Triangle of auscultation	graysubject	121
+Temporal branches of the facial nerve	graysubject	202
+Zygomatic branches of the facial nerve	graysubject	202
+Cervical branch of the facial nerve	graysubject	202
+Pyramidal eminence	graysubject	230
+Nerve to the stapedius	graysubject	202
+Digastric branch of facial nerve	graysubject	202
+Stylohyoid branch of facial nerve	graysubject	202
+Bony labyrinth	graysubject	232
+Radial styloid process	graysubject	53
+Ulnar styloid process	graysubject	52
+Third trochanter	graysubject	59
+Aditus to mastoid antrum	graysubject	230
+Antitragicus	graysubject	229
+Tragicus	graysubject	229
+Oblique muscle of auricle	graysubject	229
+Helicis major	graysubject	229
+Helicis minor	graysubject	229
+Transverse muscle of auricle	graysubject	229
+Spina helicis	graysubject	229
+Cauda helicis	graysubject	229
+Lacrimal papilla	graysubject	227
+Tenon's capsule	graysubject	227
+Orbital fascia	graysubject	227
+Orbitalis muscle	graysubject	227
+Greater palatine nerve	graysubject	200
+Tuberosity of the tibia	graysubject	61
+Flat bone	graysubject	17
+Short bone	graysubject	17
+Ossification center	graysubject	18
+Occipital condyle	graysubject	31
+Interspinous ligament	graysubject	72
+Intertransverse ligament	graysubject	72
+Articulation of head of rib	graysubject	76
+Costovertebral joints	graysubject	76
+Radiate ligament of head of rib	graysubject	76
+Interchondral articulations	graysubject	77
+Submental artery	graysubject	144
+Thyroid ima artery	graysubject	142
+Zygomatico-orbital artery	graysubject	144
+Superior tympanic artery	graysubject	144
+Bronchial veins	graysubject	172
+Cremasteric artery	graysubject	156
+Thoracodorsal artery	graysubject	149
+Medial collateral artery	graysubject	150
+Radial collateral artery	graysubject	150
+Suprapleural membrane	graysubject	238
+Plica semilunaris of conjunctiva	graysubject	227
+Palmar carpal branch of radial artery	graysubject	151
+Dorsal carpal branch of the ulnar artery	graysubject	152
+Proper palmar digital arteries	graysubject	152
+Dorsal venous network of hand	graysubject	172
+Obturator crest	graysubject	57
+Taenia of fourth ventricle	graysubject	187
+Transverse perineal muscles	graysubject	120
+Inner nuclear layer	graysubject	225
+External limiting membrane	graysubject	225
+Inner limiting membrane	graysubject	225
+Outer plexiform layer	graysubject	225
+Outer nuclear layer	graysubject	225
+Nerve fiber layer	graysubject	225
+Ganglion cell layer	graysubject	225
+Fibrous tunic of eyeball	graysubject	225
+Suprachoroid lamina	graysubject	225
+Vorticose veins	graysubject	225
+Olfactory glands	graysubject	223
+Arcuate line of rectus sheath	graysubject	118
+Extensor retinaculum of the hand	graysubject	126
+Medial umbilical ligament	graysubject	252
+Deep circumflex iliac artery	graysubject	156
+Perforating arteries	graysubject	157
+Superficial external pudendal artery	graysubject	157
+Deep external pudendal artery	graysubject	157
+Anterior lateral malleolar artery	graysubject	160
+Medial tarsal arteries	graysubject	161
+Lateral tarsal artery	graysubject	161
+Posterior tibial recurrent artery	graysubject	160
+Descending genicular artery	graysubject	157
+Patellar plexus	graysubject	212
+Arcuate artery of the foot	graysubject	161
+Sural arteries	graysubject	159
+Accompanying artery of ischiadic nerve	graysubject	155
+Deep artery of the penis	graysubject	155
+Artery of bulb of penis	graysubject	155
+Artery to the ductus deferens	graysubject	155
+Plantar arch	graysubject	162
+Right marginal vein	graysubject	166
+Left marginal vein	graysubject	166
+Nasofrontal vein	graysubject	171
+Common digital veins	graysubject	173
+Superior phrenic vein	graysubject	172
+Deep facial vein	graysubject	167
+Posterior spinal artery	graysubject	148
+Meningeal branches of vertebral artery	graysubject	148
+Aorticopulmonary septum	graysubject	135
+Truncus arteriosus	graysubject	135
+Third occipital nerve	graysubject	209
+Posterior ramus of spinal nerve	graysubject	209
+Middle cervical ganglion	graysubject	216
+Inferior cervical ganglion	graysubject	216
+Reflected ligament	graysubject	118
+Linea semilunaris	graysubject	118
+Intercrural fibres of superficial inguinal ring	graysubject	118
+Suprarenal plexus	graysubject	220
+Splenic plexus	graysubject	220
+Hepatic plexus	graysubject	220
+Gastric plexuses	graysubject	220
+Ovarian plexus	graysubject	220
+Phrenic plexus	graysubject	220
+Prostatic plexus	graysubject	220
+Parietal branch of superficial temporal artery	graysubject	144
+Lateral nasal branch of facial artery	graysubject	144
+Acetabular labrum	graysubject	92
+Hepatoduodenal ligament	graysubject	246
+Tonsillar branch of the facial artery	graysubject	144
+Crus of diaphragm	graysubject	117
+Lumbar veins	graysubject	173
+Ascending lumbar vein	graysubject	172
+Transversospinales	graysubject	115
+Spine of scapula	graysubject	50
+Uncinate process of pancreas	graysubject	251
+Caudate lobe of liver	graysubject	250
+Quadrate lobe of liver	graysubject	250
+Right lobe of liver	graysubject	250
+Left lobe of liver	graysubject	250
+Mesosalpinx	graysubject	268
+Hepatogastric ligament	graysubject	246
+Lumbosacral trunk	graysubject	212
+Saphenous nerve	graysubject	212
+Deep perineal pouch	graysubject	120
+Perineal membrane	graysubject	120
+Coccygeal plexus	graysubject	213
+Triangular fibrocartilage	graysubject	85
+Quadrate line	graysubject	59
+Femur neck	graysubject	59
+Femoral head	graysubject	59
+Apical ligament of dens	graysubject	74
+Deltoid ligament	graysubject	95
+Lateral collateral ligament of ankle joint	graysubject	95
+Right marginal branch of right coronary artery	graysubject	142
+Esophageal plexus	graysubject	205
+Cruciform eminence	graysubject	31
+Ovarian ligament	graysubject	266
+Posterior talofibular ligament	graysubject	95
+Anterior talofibular ligament	graysubject	95
+Olfactory trigone	graysubject	189
+Superior pubic ramus	graysubject	57
+Inferior pubic ramus	graysubject	57
+Lumbar enlargement	graysubject	185
+Cervical enlargement	graysubject	185
+Superior costal facet	graysubject	22
+Inferior costal facet	graysubject	22
+Transverse costal facet	graysubject	22
+Cervical ganglia	graysubject	216
+Interosseous membrane of leg	graysubject	94
+Dorsal nerve of clitoris	graysubject	213
+Internodal segment	graysubject	183
+Anterior ramus of spinal nerve	graysubject	210
+Lacuna	graysubject	18
+Myelin incisure	graysubject	183
+Muscle fascicle	graysubject	103
+Perineurium	graysubject	183
+Endoneurium	graysubject	183
+Dorsal calcaneocuboid ligament	graysubject	96
+Medullary pyramids	graysubject	187
+Stroma of iris	graysubject	225
+Stroma of ovary	graysubject	266
+Lesser alar cartilages	graysubject	223
+Nasal cartilages	graysubject	223
+Vomeronasal cartilage	graysubject	223
+Nerve fascicle	graysubject	183
+Serous demilune	graysubject	242
+Paranephric body	graysubject	253
+Intervertebral veins	graysubject	172
+Basivertebral veins	graysubject	172
+Spinal veins	graysubject	172
+External vertebral venous plexuses	graysubject	172
+Internal vertebral venous plexuses	graysubject	172
+Root of the lung	graysubject	240
+Spongy urethra	graysubject	256
+Prostatic urethra	graysubject	256
+Membranous urethra	graysubject	256
+Dorsal veins of the penis	graysubject	173
+Anterior cardiac veins	graysubject	166
+Anterior interventricular branch of left coronary artery	graysubject	142
+Mucous gland	graysubject	242
+Greater palatine canal	graysubject	38
+Base of lung	graysubject	240
+Eparterial bronchus	graysubject	240
+Tracheobronchial lymph nodes	graysubject	181
+Taenia coli	graysubject	249
+Left margin of heart	graysubject	138
+Moderator band	graysubject	138
+General somatic afferent fibers	graysubject	190
+General somatic efferent fibers	graysubject	190
+General visceral afferent fibers	graysubject	190
+Incisura apicis cordis	graysubject	138
+Anterior superior alveolar arteries	graysubject	144
+Intra-articular ligament of head of rib	graysubject	76
+Superior cardiac nerve	graysubject	216
+Inferior cardiac nerve	graysubject	216
+Middle cardiac nerve	graysubject	216
+Intermediate nerve	graysubject	202
+Cervical lymph nodes	graysubject	177
+Synchondrosis	graysubject	70
+Body of sphenoid bone	graysubject	35
+Transverse folds of rectum	graysubject	249
+Axillary lymph nodes	graysubject	178
+Urethral crest	graysubject	256
+Gastrophrenic ligament	graysubject	247
+Phrenicocolic ligament	graysubject	246
+Coronary ligament	graysubject	250
+Thoracoepigastric vein	graysubject	173
+Centroacinar cell	graysubject	251
+Hassall's corpuscles	graysubject	274
+Rectus sheath	graysubject	118
+Cremasteric fascia	graysubject	118
+Pectineal line	graysubject	57
+External spermatic fascia	graysubject	258
+Internal spermatic fascia	graysubject	258
+Pampiniform venous plexus	graysubject	258
+Tubuli seminiferi recti	graysubject	258
+Mediastinum testis	graysubject	258
+Mesorchium	graysubject	252
+Fimbria of hippocampus	graysubject	189
+Fimbriae of uterine tube	graysubject	267
+Paraumbilical vein	graysubject	174
+Recurrent branch of the median nerve	graysubject	210
+Splenorenal ligament	graysubject	278
+Pharyngeal plexus of vagus nerve	graysubject	204
+Bare area of the liver	graysubject	246
+Internal urethral orifice	graysubject	255
+Right triangular ligament	graysubject	250
+Left triangular ligament	graysubject	250
+Renal hilum	graysubject	253
+Arterial arcades	graysubject	248
+Epiploic appendix	graysubject	246
+Superficial epigastric vein	graysubject	173
+Thoraco-abdominal nerves	graysubject	211
+Tendinous intersection	graysubject	118
+Aponeurosis of the abdominal external oblique muscle	graysubject	118
+Crura of superficial inguinal ring	graysubject	118
+Piriformis fascia	graysubject	119
+Pelvic fascia	graysubject	119
+Genital branch of genitofemoral nerve	graysubject	212
+Cribriform fascia	graysubject	128
+Fossa of vestibule of vagina	graysubject	288
+Navicular fossa of male urethra	graysubject	256
+Septa of testis	graysubject	258
+Tunica albuginea	graysubject	266
+Frenulum of prepuce of penis	graysubject	262
+Pelvic outlet	graysubject	58
+Inferior gluteal line	graysubject	57
+Posterior gluteal line	graysubject	57
+Gastrosplenic ligament	graysubject	278
+Vaginal fornix	graysubject	269
+Anal sinuses	graysubject	249
+Anal valves	graysubject	249
+Anal columns	graysubject	249
+Pararectal fossa	graysubject	246
+Infundibulum of uterine tube	graysubject	267
+Recto-uterine fold	graysubject	269
+Vesico-uterine pouch	graysubject	246
+Isthmus of uterine tube	graysubject	267
+Paravesical fossa	graysubject	256
+Ampulla of uterine tube	graysubject	267
+Seminal colliculus	graysubject	256
+Tunica albuginea	graysubject	262
+Prostatic venous plexus	graysubject	173
+Cystic vein	graysubject	174
+Median sacral vein	graysubject	173
+Lateral sacral veins	graysubject	173
+Left gastric vein	graysubject	174
+Middle rectal veins	graysubject	173
+Inferior rectal veins	graysubject	173
+Deep circumflex iliac vein	graysubject	173
+Uterine venous plexus	graysubject	173
+Vaginal venous plexus	graysubject	173
+Vesical venous plexus	graysubject	173
+Hypogastrium	graysubject	246
+Recto-vesical pouch	graysubject	246
+Umbilical folds	graysubject	255
+Ileocecal fold	graysubject	246
+Copula linguae	graysubject	241
+Tuberculum impar	graysubject	241
+Dorsal mesentery	graysubject	241
+Trabeculae of corpus spongiosum of penis	graysubject	262
+Trabeculae of corpora cavernosa of penis	graysubject	262
+Crus of penis	graysubject	262
+Bulb of penis	graysubject	262
+Helicine arteries of penis	graysubject	262
+Ductuli aberrantes	graysubject	259
+Ampulla of ductus deferens	graysubject	259
+Paradidymis	graysubject	259
+Superior fascia of the urogenital diaphragm	graysubject	121
+Uterosacral ligament	graysubject	268
+Pararectal lymph nodes	graysubject	180
+Preaortic lymph node	graysubject	180
+Retroaortic lymph nodes	graysubject	180
+Internal iliac lymph nodes	graysubject	180
+Superficial inguinal lymph nodes	graysubject	179
+Inferior mesenteric lymph nodes	graysubject	180
+Cardinal ligament	graysubject	268
+Paroophoron	graysubject	266
+Sacrovertebral angle	graysubject	24
+Detrusor urinae muscle	graysubject	255
+Excretory duct of seminal gland	graysubject	260
+Clivus	graysubject	35
+Iliac colon	graysubject	249
+Lumbar lymph trunk	graysubject	176
+Common iliac lymph nodes	graysubject	180
+Vesicular appendages of epoophoron	graysubject	267
+Uvula of urinary bladder	graysubject	255
+Cloaca	graysubject	241
+Intestinal lymph trunk	graysubject	176
+Prostatic ducts	graysubject	263
+Deep inguinal lymph nodes	graysubject	179
+Trabeculae of spleen	graysubject	278
+Interlobular veins	graysubject	254
+Straight venules of kidney	graysubject	253
+Interlobular arteries	graysubject	253
+Stellate veins	graysubject	253
+Renal fascia	graysubject	253
+Descending limb of loop of Henle	graysubject	253
+Ascending limb of loop of Henle	graysubject	253
+Trabecular arteries	graysubject	278
+Trabecular veins	graysubject	278
+Tunica externa	graysubject	133
+Superior extensor retinaculum of foot	graysubject	130
+Ovarian fossa	graysubject	266
+Medulla of ovary	graysubject	266
+Cumulus oophorus	graysubject	266
+Membrana granulosa	graysubject	266
+Ductuli transversi	graysubject	266
+Arcuate vessels of uterus	graysubject	155
+Uterine gland	graysubject	268
+Intervillous space	graysubject	12
+Placental cotyledon	graysubject	12
+Decidual cells	graysubject	12
+Pennate muscle	graysubject	128
+Superior longitudinal fasciculus	graysubject	189
+Plantar venous arch	graysubject	173
+Gastric mucosa	graysubject	247
+Paraganglion	graysubject	277
+Coccygeal glomus	graysubject	277
+Superior hypophysial artery	graysubject	146
+Inferior hypophysial artery	graysubject	146
+Lacrimal caruncle	graysubject	227
+Vasa recta	graysubject	248
+Angular incisure	graysubject	247
+Supravaginal portion of cervix	graysubject	268
+Major sublingual duct	graysubject	242
+Malleolus	graysubject	291
+Curvatures of the stomach	graysubject	247
+Perineal branches of posterior femoral cutaneous nerve	graysubject	213
+Cardiac notch of stomach	graysubject	247
+Superior rectal plexus	graysubject	220
+Palatine arches	graysubject	243
+Cavernous nerves of penis	graysubject	220
+Geniculate fibers	graysubject	189
+Sensory decussation	graysubject	187
+Genu of the corpus callosum	graysubject	189
+Calcar avis	graysubject	189
+Collateral eminence	graysubject	189
+Collateral fissure	graysubject	189
+Frenulum of superior medullary velum	graysubject	188
+Midsternal line	graysubject	284
+Occipital lymph nodes	graysubject	177
+Mastoid lymph nodes	graysubject	177
+Frontal branch of superficial temporal artery	graysubject	144
+Mylohyoid branch of inferior alveolar artery	graysubject	144
+Pontine arteries	graysubject	148
+Glandular branches of facial artery	graysubject	144
+Pterygoid branches of maxillary artery	graysubject	144
+Anterolateral sulcus of spinal cord	graysubject	187
+Posterolateral sulcus of medulla oblongata	graysubject	187
+Vagal trigone	graysubject	187
+Anterior median fissure of the medulla oblongata	graysubject	187
+Cerebellar tonsil	graysubject	187
+Olfactory sulcus	graysubject	189
+Coronoid process of the mandible	graysubject	44
+Lateral nasal prominence	graysubject	13
+Medial nasal prominence	graysubject	13
+Otic pit	graysubject	228
+Otic vesicle	graysubject	228
+Nasal pit	graysubject	13
+Frontonasal prominence	graysubject	13
+Intermaxillary segment	graysubject	13
+Primary palate	graysubject	13
+Cervical sinus	graysubject	13
+Pharyngeal branches of glossopharyngeal nerve	graysubject	204
+Subclavian groove	graysubject	49
+Fourth metatarsal bone	graysubject	64
+First metatarsal bone	graysubject	64
+Second metatarsal bone	graysubject	64
+Fifth metatarsal bone	graysubject	64
+Third metatarsal bone	graysubject	64
+Respiratory bud	graysubject	235
+Vestibule of the ear	graysubject	232
+Promontory of tympanic cavity	graysubject	230
+Tympanic plexus	graysubject	204
+Spiral ligament	graysubject	232
+Basilar crest	graysubject	232
+Lateral lingual swelling	graysubject	241
+Sulcus spiralis externus	graysubject	232
+Sulcus spiralis internus	graysubject	232
+Angle of the mandible	graysubject	44
+Maxillary tuberosity	graysubject	38
+Upper extremity of ulna	graysubject	52
+Body of ulna	graysubject	52
+Popliteal lymph nodes	graysubject	179
+Mylohyoid groove	graysubject	44
+Pharyngeal recess	graysubject	244
+Ethmoidal infundibulum	graysubject	223
+Deltopectoral lymph nodes	graysubject	178
+Subscapular axillary lymph nodes	graysubject	178
+Pectoral axillary lymph nodes	graysubject	178
+Central lymph nodes	graysubject	178
+Apical lymph nodes	graysubject	178
+Supratrochlear lymph nodes	graysubject	178
+Prevertebral fascia	graysubject	111
+Pretracheal fascia	graysubject	111
+Investing layer of deep cervical fascia	graysubject	111
+Coronoid fossa of the humerus	graysubject	51
+Tuberosity of the ulna	graysubject	52
+Midcarpal joint	graysubject	87
+Sphenoparietal sinus	graysubject	171
+Caroticotympanic arteries	graysubject	146
+Posterior atlantoaxial ligament	graysubject	73
+Anterior atlantoaxial ligament	graysubject	73
+Posterior atlantooccipital membrane	graysubject	74
+Anterior atlantooccipital membrane	graysubject	74
+Anterior auricular branches	graysubject	144
+Branch of glossopharyngeal nerve to carotid sinus	graysubject	204
+Surgical neck of the humerus	graysubject	51
+Anatomical neck of humerus	graysubject	51
+Radial fossa	graysubject	51
+Transverse tarsal joint	graysubject	96
+Articular capsule of the knee joint	graysubject	93
+Ethmoidal notch	graysubject	33
+Orbital process of the zygomatic bone	graysubject	40
+Lacrimal tubercle	graysubject	38
+Lateral palpebral raphe	graysubject	106
+Orbital lamina of ethmoid bone	graysubject	36
+Ala of nose	graysubject	223
+Lesser palatine nerve	graysubject	200
+Labial glands	graysubject	242
+Superior labial vein	graysubject	167
+Inferior labial vein	graysubject	167
+Quadrangular space	graysubject	149
+Parotid plexus	graysubject	202
+Saphenous opening	graysubject	128
+Lumbocostal triangle	graysubject	117
+Humeroradial joint	graysubject	84
+Humeroulnar joint	graysubject	84
+Trapezoid line	graysubject	49
+Costal tuberosity of clavicle	graysubject	49
+Superficial palmar branch of radial artery	graysubject	151
+Dorsal carpal branch of the radial artery	graysubject	151
+Palmar carpal branch of ulnar artery	graysubject	152
+Posterior branches of sacral nerves	graysubject	209
+Triangular space	graysubject	124
+Deep palmar branch of ulnar artery	graysubject	152
+Capsule of hip joint	graysubject	92
+Muscular branches of ulnar nerve	graysubject	210
+Deep branch of ulnar nerve	graysubject	210
+Superficial branch of ulnar nerve	graysubject	210
+Medial dorsal cutaneous nerve	graysubject	213
+Intermediate dorsal cutaneous nerve	graysubject	213
+Inferior cluneal nerves	graysubject	213
+Bipolar neuron	graysubject	183
+Posterior compartment of leg	graysubject	129
+Lateral compartment of leg	graysubject	129
+Anterior compartment of leg	graysubject	129
+Medial sural cutaneous nerve	graysubject	213
+Lateral sural cutaneous nerve	graysubject	213
+Superior thalamostriate vein	graysubject	170
+Anterior compartment of thigh	graysubject	128
+Medial compartment of thigh	graysubject	128
+Posterior compartment of thigh	graysubject	128
+Posterior branch of obturator nerve	graysubject	212
+Anterior branch of obturator nerve	graysubject	212
+Cave of septum pellucidum	graysubject	189
+Vestibular fold	graysubject	236
+Anterior cutaneous branches of the femoral nerve	graysubject	212
+Knee bursae	graysubject	93
+Soleal line	graysubject	61
+Dorsal radioulnar ligament	graysubject	85
+Palmar radioulnar ligament	graysubject	85
+Patellar network	graysubject	159
+Cutaneous branch of the obturator nerve	graysubject	212
+Superficial transverse metacarpal ligament	graysubject	89
+First dorsal metatarsal artery	graysubject	161
+Plantar metatarsal veins	graysubject	173
+Dorsal digital veins of the foot	graysubject	173
+Dorsal carpometacarpal ligaments	graysubject	88
+Palmar carpometacarpal ligaments	graysubject	88
+Medial calcaneal branches of the tibial nerve	graysubject	213
+Body of hyoid bone	graysubject	45
+Medial eminence of floor of fourth ventricle	graysubject	187
+Chiasmatic groove	graysubject	35
+Middle clinoid process	graysubject	35
+Buccopharyngeal fascia	graysubject	111
+Isthmus of the fauces	graysubject	242
+Mental protuberance	graysubject	44
+Human nose	graysubject	223
+Capsule of temporomandibular joint	graysubject	75
+Laryngeal ventricle	graysubject	236
+Chiasmal syndrome	graysubject	197
+Calvaria	graysubject	47
+Cruciate ligament of atlas	graysubject	73
+Articular disk of the temporomandibular joint	graysubject	75
+Median thyrohyoid ligament	graysubject	236
+Cricotracheal ligament	graysubject	236
+Hyoepiglottic ligament	graysubject	236
+Pharyngobasilar fascia	graysubject	244
+Piriform sinus	graysubject	244
+Plica semilunaris of the fauces	graysubject	243
+Tonsillar fossa	graysubject	243
+Hyoglossal membrane	graysubject	242
+Mental tubercle	graysubject	44
+Superior deep cervical lymph nodes	graysubject	177
+Inferior deep cervical lymph nodes	graysubject	177
+Jugular lymph trunk	graysubject	177
+Preauricular deep parotid lymph nodes	graysubject	177
+Jugular venous arch	graysubject	168
+Body of mandible	graysubject	44
+Submental lymph nodes	graysubject	177
+Supraclavicular lymph nodes	graysubject	177
+Superficial cervical lymph nodes	graysubject	177
+Retropharyngeal lymph nodes	graysubject	177
+Buccinator lymph node	graysubject	177
+Submandibular lymph nodes	graysubject	177
+Deep parotid lymph nodes	graysubject	177
+Costotransverse joint	graysubject	76
+Coronary ligament of the knee	graysubject	93
+Inferior frontal sulcus	graysubject	189
+Superior frontal sulcus	graysubject	189
+Lacuna magna	graysubject	256
+Interpeduncular cistern	graysubject	193
+Inferior medullary velum	graysubject	187
+Pontine cistern	graysubject	193
+Mesencephalic nucleus of trigeminal nerve	graysubject	187
+Principal sensory nucleus of trigeminal nerve	graysubject	187
+Cerebral crus	graysubject	188
+Posterior median sulcus of medulla oblongata	graysubject	187
+Lateral occipital sulcus	graysubject	189
+Straight gyrus	graysubject	189
+Emboliform nucleus	graysubject	187
+Paracentral lobule	graysubject	189
+Hypoglossal trigone	graysubject	187
+Association fiber	graysubject	189
+Basilar part of pons	graysubject	187
+Hip pointer	graysubject	57
+Cistern of lateral cerebral fossa	graysubject	193
+Chiasmatic cistern	graysubject	193
+Cistern of great cerebral vein	graysubject	193
+Inferior longitudinal fasciculus	graysubject	189
+Ventral cochlear nucleus	graysubject	187
+Iliopectineal arch	graysubject	127
+Urinary meatus	graysubject	256
+Spiral limbus	graysubject	232
+Modiolus	graysubject	232
+Inner tunnel	graysubject	232
+Macula of utricle	graysubject	232
+Macula of saccule	graysubject	232
+Vocal pedagogy	graysubject	236
+Ulnar carpal collateral ligament	graysubject	86
+Annular ligament of stapes	graysubject	230
+Moll's gland	graysubject	227
+Ethmoidal process of inferior nasal concha	graysubject	42
+Human penis	graysubject	262
+Astragalectomy	graysubject	63
+Anterolateral central arteries	graysubject	146
+Periscleral lymph space	graysubject	227
+Bronchomediastinal lymph trunk	graysubject	181
+Pudendal plexus	graysubject	173
+Dorsal metacarpal veins	graysubject	172
+Intercapitular veins of the hand	graysubject	172
+Palmar digital veins	graysubject	172
+Palmar metacarpal veins	graysubject	172
+Superficial palmar venous arch	graysubject	172
+Deep palmar venous arch	graysubject	172
+Dorsal metatarsal arteries	graysubject	161
+Posterior branches of thoracic nerves	graysubject	209
+Posterior branch of coccygeal nerve	graysubject	209
+Posterior branches of the lumbar nerves	graysubject	209
+Posterior branches of cervical nerves	graysubject	209
+Paravertebral ganglia	graysubject	214
+Radial collateral ligament of wrist joint	graysubject	86
+Smallest cardiac veins	graysubject	166
+Superior phrenic arteries	graysubject	153
+Mediastinal branches of thoracic part of aorta	graysubject	153
+Parasternal lymph nodes	graysubject	181
+Inferior cardiac branches of the vagus nerve	graysubject	205
+Superior cervical cardiac branches of vagus nerve	graysubject	205
+Meningeal branch of vagus nerve	graysubject	205
+Deltoid branch of thoracoacromial artery	graysubject	149
+Posterior spinal veins	graysubject	172
+Anterior spinal veins	graysubject	172
+Intercostal lymph nodes	graysubject	181
+Lateral palpebral arteries	graysubject	146
+Deep fascia of leg	graysubject	129
+Caroticotympanic nerves	graysubject	204
+Mental spine	graysubject	44
+Lamina affixa	graysubject	189
+Laryngotracheal groove	graysubject	235
+Urorectal septum	graysubject	241
+Jejunal arteries	graysubject	154
+Ileal arteries	graysubject	154
+Ileal branch of ileocolic artery	graysubject	154
+Colic branch of ileocolic artery	graysubject	154
+Epitympanic recess	graysubject	230
+Body of pubic bone	graysubject	57
+Root sheath	graysubject	234
+Vesical veins	graysubject	173
+Superior mesenteric lymph nodes	graysubject	180
+Celiac lymph nodes	graysubject	180
+Sacral lymph nodes	graysubject	180
+Splenic lymph nodes	graysubject	180
+Gastric lymph nodes	graysubject	180
+Hepatic lymph nodes	graysubject	180
+Iliac branch of iliolumbar artery	graysubject	155
+Lumbar branch of iliolumbar artery	graysubject	155
+Body of penis	graysubject	262
+Root of penis	graysubject	262
+Septum of the penis	graysubject	262
+Subcutaneous tissue of penis	graysubject	262
+Lateral olfactory stria	graysubject	189
+Medial olfactory stria	graysubject	189
+Apex of urinary bladder	graysubject	255
+Subcutaneous tissue of perineum	graysubject	120
+Mesocolic lymph nodes	graysubject	180
+Ileocolic lymph nodes	graysubject	180
+Mesenteric lymph nodes	graysubject	180
+Corona of glans penis	graysubject	262
+Primordial phallus	graysubject	252
+Extraperitoneal fat	graysubject	118
+Subclavian lymph trunk	graysubject	178
+Nasal vestibule	graysubject	223
+Head of ulna	graysubject	52
+Head of radius	graysubject	53
+Palmar plate	graysubject	90
+Collateral ligaments of metacarpophalangeal joints	graysubject	90
+Collateral ligaments of interphalangeal joints	graysubject	91
+Dorsal tarsometatarsal ligaments	graysubject	97
+Plantar tarsometatarsal ligaments	graysubject	97
+Synovial sheath	graysubject	68
+Common flexor sheath of hand	graysubject	126
+Plantar metatarsal ligaments	graysubject	98
+Dorsal metatarsal ligaments	graysubject	98
+Interosseous metatarsal ligaments	graysubject	98
+Plantar plate	graysubject	99
+Collateral ligaments of metatarsophalangeal joints	graysubject	99
+Infrapatellar branch of saphenous nerve	graysubject	212
+Deep branch of lateral plantar nerve	graysubject	213
+Superficial branch of lateral plantar nerve	graysubject	213
+Anterior intermuscular septum of leg	graysubject	129
+Posterior intermuscular septum of leg	graysubject	129
+Deep transverse fascia	graysubject	129
+Acetabular branch of medial circumflex femoral artery	graysubject	157
+Ascending branch of medial circumflex femoral artery	graysubject	157
+Deep branch of medial circumflex femoral artery	graysubject	157
+Superficial branch of medial circumflex femoral artery	graysubject	157
+Articular branches of descending genicular artery	graysubject	157
+Saphenous branch of descending genicular artery	graysubject	157
+Articular capsule of the humerus	graysubject	83
+Articular disk of sternoclavicular articulation	graysubject	81
+Transverse ligament of knee	graysubject	93
+Intercondylar fossa of femur	graysubject	59
+Posterior auricular muscle	graysubject	229
+Superior auricular muscle	graysubject	229
+Anterior auricular muscle	graysubject	229
+Neurocranium	graysubject	30
+Facial skeleton	graysubject	37
+Lambda	graysubject	32
+Lacrimal hamulus	graysubject	39
+Lingula of mandible	graysubject	44
+Sternocleidomastoid branches of occipital artery	graysubject	144
+Occipital branches of occipital artery	graysubject	144
+Meningeal branch of occipital artery	graysubject	144
+Alveolar part of mandible	graysubject	44
+Epiglottic vallecula	graysubject	236
+Vallecula of cerebellum	graysubject	187
+Thyroepiglottic ligament	graysubject	236
+Parotid lymph nodes	graysubject	177
+Facial lymph nodes	graysubject	177
+Laryngeal cavity	graysubject	236
+Spinal root of accessory nerve	graysubject	206
+Cranial root of accessory nerves	graysubject	206
+Petrosal branch of middle meningeal artery	graysubject	144
+Capsule of atlantooccipital articulation	graysubject	74
+Inferior root of ansa cervicalis	graysubject	210
+Superior root of ansa cervicalis	graysubject	210
+Nerve to tensor veli palatini	graysubject	200
+Inferior tympanic artery	graysubject	144
+Lingual branches of glossopharyngeal nerve	graysubject	204
+Tonsillar branches of glossopharyngeal nerve	graysubject	204
+Stylopharyngeal branch of glossopharyngeal nerve	graysubject	204
+Lateral process of the zygomatic bone	graysubject	40
+Vocal process	graysubject	236
+Muscular process of arytenoid cartilage	graysubject	236
+Posterior lateral nasal arteries	graysubject	144
+Posterior septal branches of sphenopalatine artery	graysubject	144
+Mental branch of inferior alveolar artery	graysubject	144
+Auricular branch of posterior auricular artery	graysubject	144
+Occipital branch of posterior auricular artery	graysubject	144
+Auricular branch of occipital artery	graysubject	144
+Descending branch of occipital artery	graysubject	144
+Inferior dental plexus	graysubject	200
+Thyroepiglottic muscle	graysubject	236
+Gray commissure	graysubject	185
+Omental foramen	graysubject	246
+Body of lateral ventricle	graysubject	189
+Cerebellar hemisphere	graysubject	187
+Nodule of vermis	graysubject	187
+Tuber of vermis	graysubject	187
+Biventer lobule	graysubject	187
+Folium vermis	graysubject	187
+Central lobule	graysubject	187
+Habenular trigone	graysubject	189
+Uvula of cerebellum	graysubject	187
+Lingula of cerebellum	graysubject	187
+Culmen	graysubject	187
+Primary fissure of cerebellum	graysubject	187
+Liver	graysubject	250
+Aortic bifurcation	graysubject	154
+Suspensory ligament of eyeball	graysubject	227
+Anterior fornix erogenous zone	graysubject	269
+Scrotum	graysubject	258
+Rectum	graysubject	249
+Elbow	graysubject	84
+Muscle	graysubject	102
+Corticopontine fibers	graysubject	191
+Hyponychium	graysubject	234
+Anterior ligament of the head of the fibula	graysubject	94
+Pharynx	graysubject	244
+Sinus tubercle	graysubject	252
+Primary motor cortex	graysubject	189
+Fallopian tube	graysubject	267
+Globe	graysubject	225
+Scapular line	graysubject	284
+Abdominal fascia	graysubject	118
+Suboccipital muscles	graysubject	113
+Mucous sheaths of the tendons around the ankle	graysubject	130
+Mucous sheaths on back of wrist	graysubject	126
+Parasternal line	graysubject	284
+Posterolateral sulcus of spinal cord	graysubject	185
+Basilar sulcus	graysubject	187
+Oropharyngeal cancer	graysubject	244
+Interior of the cerebral hemispheres	graysubject	189
+Fascia dentata	graysubject	189
+Region II of hippocampus proper	graysubject	189
+Region III of hippocampus proper	graysubject	189
+Region IV of hippocampus proper	graysubject	189
+Region I of hippocampus proper	graysubject	189
+Pes hippocampi	graysubject	189
+Pterygospinous ligament	graysubject	111
+Roof of fourth ventricle	graysubject	187
+Transverse occipital sulcus	graysubject	189
+Inferior temporal sulcus	graysubject	189
+Preoccipital notch	graysubject	189
+Mucous membrane of nose	graysubject	223
+Middle cerebral veins	graysubject	170
+Orbital gyri	graysubject	189
+Orbital sulcus	graysubject	189
+Medial frontal gyrus	graysubject	189
+Paracentral sulcus	graysubject	189
+Joints of hand	graysubject	86
+Isthmus of cingulate gyrus	graysubject	189
+Acoustic tubercle	graysubject	203
+Anatomy of the cerebellum	graysubject	187
+Vulva	graysubject	270
+Infrasternal angle	graysubject	26
+Hip bone	graysubject	57
+Renal stem cell	graysubject	253
+Medial marginal vein	graysubject	173
+Lateral marginal vein	graysubject	173
+Intrapulmonary nodes	graysubject	181
+Superior diaphragmatic lymph nodes	graysubject	181
+Thoracic lymph nodes	graysubject	181
+Human head	graysubject	279
+Foreskin	graysubject	262
+Nucleus basalis of Meynert	graysubject	189
+Line of Gennari	graysubject	189
+Sternum	graysubject	27
+Mandible	graysubject	44
+Fossa for lacrimal sac	graysubject	33
+Denticulate ligaments	graysubject	185
+Fibular artery	graysubject	162
+Interpeduncular nucleus	graysubject	188
+Tentorial incisure	graysubject	193
+Underwood's septa	graysubject	223
+Acute haemorrhagic conjunctivitis in Ghana	graysubject	227
+Risser sign	graysubject	57
+Posterior cardinal vein	graysubject	135
+Pacchionian foramen	graysubject	193
+Scalene tubercle	graysubject	28
+Groove for transverse sinus	graysubject	31
+Rhombic lip	graysubject	187
+Pelvis	graysubject	58
+Venae cavae	graysubject	138
+Saccular acoustic sensitivity	graysubject	232
+Intertragic notch	graysubject	229
+Schindylesis	graysubject	70
+Human mouth	graysubject	241
+Preorbital gland	graysubject	227
+Quadrate ligament	graysubject	85
+Origin of speech	graysubject	45
+Aortic sac	graysubject	135
+Suspensory ligament of clitoris	graysubject	270
+Epineurial repair	graysubject	183
+Intercondylar area	graysubject	61
+Anterior accessory saphenous vein	graysubject	164
+Lingual papilla	graysubject	242
+Giacomini vein	graysubject	164
+Reticular membrane	graysubject	232
+Oblique ridges of scapula	graysubject	50
+Glenoid tubercles	graysubject	50
+Trabecular cartilage	graysubject	17
+Dogiel cells	graysubject	107
+Neurenteric canal	graysubject	12
+Triradiate cartilage	graysubject	57
+Vestibular duct	graysubject	232
+Dorsal digital arteries of hand	graysubject	151
+Golgi tendon organ	graysubject	233
+Pulmonary pleurae	graysubject	238
+Axillary arch	graysubject	121
+Rectococcygeal muscle	graysubject	249
+Epitrochleoanconeus muscle	graysubject	125

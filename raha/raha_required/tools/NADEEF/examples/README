@@ -1,0 +1,15 @@
+NADEEF Example readme
+=======================
+Make sure the following steps before running examples:
+1. NADEEF is fully compiled and installed according to the User Guide.
+2. The compiled classes (e.g. MyRule.class) can be found in the Java Classpath.
+
+Example 1:
+============
+Example1.json describes a CleanPlan which runs a FD rule (zipcode determines city and state) on hospital data.
+
+Example 2:
+============
+Example2.json describes a CleanPlan which runs a User Defined Rule (MyRule.java) on two CSV files (bank1 and tran1).
+
+The rule describes for tuples from the same FirstName, LastName, Street, City in both tables they should have the same telephone number.

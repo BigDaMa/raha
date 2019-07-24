@@ -1,0 +1,253 @@
+Portal vein	drainsto	Liver sinusoid
+Great saphenous vein	drainsto	Femoral vein
+Brachiocephalic vein	drainsto	Superior vena cava
+Inferior vena cava	drainsto	Heart
+Thoracic duct	drainsto	junction of the left subclavian vein and left internal jugular vein
+Pulmonary vein	drainsto	Left atrium
+Azygos vein	drainsto	Superior vena cava
+Great cerebral vein	drainsto	Straight sinus
+Jugular vein	drainsto	Superior vena cava
+Internal jugular vein	drainsto	Subclavian vein
+External jugular vein	drainsto	Subclavian vein
+Renal vein	drainsto	Inferior vena cava
+Popliteal vein	drainsto	Femoral vein
+Paratracheal lymph nodes	drainsto	Bronchomediastinal lymph trunks
+Femoral vein	drainsto	External iliac vein
+Cephalic vein	drainsto	Axillary vein and median cubital vein
+Subclavian vein	drainsto	Brachiocephalic vein
+Deep vein of the thigh	drainsto	Femoral vein
+Small saphenous vein	drainsto	Popliteal vein
+Common iliac vein	drainsto	Inferior vena cava
+Dorsal venous arch of the foot	drainsto	Small saphenous vein
+Dorsal venous arch of the foot	drainsto	Great saphenous vein
+External iliac vein	drainsto	Common iliac vein
+Median cubital vein	drainsto	Basilic vein
+Basilic vein	drainsto	Axillary vein
+Brachial veins	drainsto	Axillary vein
+Posterior tibial vein	drainsto	Popliteal vein
+Anterior tibial vein	drainsto	Popliteal vein
+Fibular veins	drainsto	Posterior tibial vein
+Ductus venosus	drainsto	Inferior vena cava
+Superior mesenteric vein	drainsto	Hepatic portal vein
+Splenic vein	drainsto	Hepatic portal vein
+Axillary vein	drainsto	Subclavian vein
+Radial veins	drainsto	Brachial veins
+Ulnar veins	drainsto	Brachial vein
+Inferior mesenteric vein	drainsto	Splenic vein
+Hepatic veins	drainsto	Inferior vena cava
+Cisterna chyli	drainsto	Thoracic duct
+Coronary sinus	drainsto	Right atrium
+Cavernous sinus	drainsto	Inferior petrosal sinus
+Cavernous sinus	drainsto	Superior petrosal sinus
+Inferior epigastric vein	drainsto	External iliac vein
+Internal thoracic vein	drainsto	Brachiocephalic vein
+Superior epigastric vein	drainsto	Internal thoracic vein
+Occipital sinus	drainsto	Confluence of sinuses
+Confluence of sinuses	drainsto	Transverse sinuses
+Straight sinus	drainsto	Confluence of sinuses
+Superior petrosal sinus	drainsto	Sigmoid sinus
+Inferior petrosal sinus	drainsto	Internal jugular vein
+Inferior sagittal sinus	drainsto	Straight sinus
+Superior sagittal sinus	drainsto	Confluence of sinuses
+Superior ophthalmic vein	drainsto	Cavernous sinus
+Hemiazygos vein	drainsto	Azygos vein
+Sigmoid sinus	drainsto	Internal jugular vein
+Vertebral vein	drainsto	Brachiocephalic vein
+Anterior jugular vein	drainsto	External jugular vein
+Transverse sinuses	drainsto	Sigmoid sinuses
+Ophthalmic veins	drainsto	Cavernous sinus
+Common facial vein	drainsto	Jugular vein
+Facial vein	drainsto	Internal jugular vein
+Great cardiac vein	drainsto	Coronary sinus
+Small cardiac vein	drainsto	Coronary sinus
+Short gastric veins	drainsto	Splenic vein
+Middle cardiac vein	drainsto	Coronary sinus
+Inferior phrenic vein	drainsto	inferior vena cava, others
+Inferior thyroid veins	drainsto	Brachiocephalic vein
+Accessory hemiazygos vein	drainsto	Hemiazygos vein
+Accessory hemiazygos vein	drainsto	Azygos vein
+Inferior ophthalmic vein	drainsto	Superior ophthalmic vein and cavernous sinus
+Left gastroepiploic vein	drainsto	Splenic vein
+Middle thyroid vein	drainsto	Internal jugular vein
+Superior thyroid vein	drainsto	Internal jugular vein
+Superior gluteal veins	drainsto	posterior division of internal iliac vein
+Pterygoid plexus	drainsto	Maxillary vein
+Inferior gluteal veins	drainsto	anterior division of internal iliac vein
+Maxillary veins	drainsto	Retromandibular vein
+Supreme intercostal vein	drainsto	Brachiocephalic vein
+Lingual veins	drainsto	Internal jugular vein
+Internal pudendal veins	drainsto	Internal iliac vein
+Pharyngeal veins	drainsto	Internal jugular
+Deep cervical vein	drainsto	Vertebral vein
+Retromandibular vein	drainsto	External jugular vein
+Occipital vein	drainsto	Suboccipital venous plexus
+Posterior auricular vein	drainsto	External jugular vein
+Angular vein	drainsto	Facial vein
+Supraorbital vein	drainsto	Angular vein
+Superficial temporal vein	drainsto	Retromandibular vein
+Inferior cerebral veins	drainsto	Dural venous sinuses
+Oblique vein of the left atrium	drainsto	Coronary sinus
+Rectal venous plexus	drainsto	Superior rectal vein
+Superior cerebral veins	drainsto	Superior sagittal sinus
+Internal auditory veins	drainsto	Inferior petrosal sinus
+Internal auditory veins	drainsto	Transverse sinuses
+Right lymphatic duct	drainsto	Internal jugular vein
+External iliac lymph nodes	drainsto	Common iliac lymph nodes
+Basal vein	drainsto	Internal cerebral vein
+Pancreatic veins	drainsto	Splenic vein
+Pancreaticoduodenal veins	drainsto	Portal vein
+Pancreaticoduodenal veins	drainsto	Superior mesenteric vein
+Right gastroepiploic vein	drainsto	Superior mesenteric vein
+Obturator veins	drainsto	Internal iliac vein
+Plantar digital veins	drainsto	Plantar metatarsal veins
+Accessory cephalic vein	drainsto	Cephalic vein
+Median antebrachial vein	drainsto	Basilic vein
+Median antebrachial vein	drainsto	Median cubital vein
+Internal cerebral veins	drainsto	Great cerebral vein
+Cerebellar veins	drainsto	Dural venous sinuses
+Right colic vein	drainsto	Superior mesenteric vein
+Middle colic vein	drainsto	Superior mesenteric vein
+Ovarian vein	drainsto	Inferior vena cava
+Ovarian vein	drainsto	Renal vein
+Testicular vein	drainsto	Inferior vena cava
+Testicular vein	drainsto	Left renal vein
+Superior rectal vein	drainsto	Inferior mesenteric vein
+Bronchial veins	drainsto	Azygos vein, hemiazygos vein and pulmonary veins
+Dorsal venous network of hand	drainsto	Cephalic vein
+Dorsal venous network of hand	drainsto	Basilic vein
+Vorticose veins	drainsto	Inferior ophthalmic vein
+Vorticose veins	drainsto	Superior ophthalmic vein
+Superior intercostal vein	drainsto	Azygos vein
+Superior intercostal vein	drainsto	Brachiocephalic vein
+Right marginal vein	drainsto	Right atrium
+Left marginal vein	drainsto	Great cardiac vein
+Nasofrontal vein	drainsto	Superior ophthalmic vein
+Superior phrenic vein	drainsto	Azygos vein
+Superior phrenic vein	drainsto	Hemiazygos vein
+Deep facial vein	drainsto	Facial vein
+Lumbar veins	drainsto	Inferior vena cava
+Subcostal vein	drainsto	Ascending lumbar vein
+Ascending lumbar vein	drainsto	Azygos vein and hemiazygos vein
+Spinal veins	drainsto	Intervertebral veins
+Dorsal veins of the penis	drainsto	Prostatic venous plexus
+Dorsal veins of the penis	drainsto	External pudendal vein
+Anterior cardiac veins	drainsto	Right atrium
+Tracheobronchial lymph nodes	drainsto	Bronchomediastinal trunk
+Thoracoepigastric vein	drainsto	Lateral thoracic vein
+Thoracoepigastric vein	drainsto	Femoral vein
+Pampiniform venous plexus	drainsto	Testicular vein
+Superficial epigastric vein	drainsto	Great saphenous vein
+Superficial epigastric vein	drainsto	Femoral vein
+Prostatic venous plexus	drainsto	Vesical venous plexus and Pudendal plexus
+Cystic vein	drainsto	Hepatic portal vein
+Lateral sacral veins	drainsto	Internal iliac vein
+Left gastric vein	drainsto	Portal vein
+Middle rectal veins	drainsto	Internal iliac vein
+Inferior rectal veins	drainsto	Internal pudendal vein
+Deep circumflex iliac vein	drainsto	External iliac vein
+Uterine venous plexus	drainsto	Uterine veins
+Vesical venous plexus	drainsto	Internal iliac vein
+Pararectal lymph nodes	drainsto	Inferior mesenteric lymph nodes
+Preaortic lymph node	drainsto	primarily intestinal trunk
+Retroaortic lymph nodes	drainsto	Cisterna chyli
+Internal iliac lymph nodes	drainsto	Common iliac lymph nodes
+Superficial inguinal lymph nodes	drainsto	Deep inguinal lymph nodes
+Inferior mesenteric lymph nodes	drainsto	Preaortic lymph node
+Lumbar lymph trunk	drainsto	Cisterna chyli
+Common iliac lymph nodes	drainsto	Lateral aortic lymph nodes
+Intestinal lymph trunk	drainsto	Cisterna chyli
+Deep inguinal lymph nodes	drainsto	External iliac glands
+Interlobular veins	drainsto	Arcuate vein
+Straight venules of kidney	drainsto	Arcuate veins
+Stellate veins	drainsto	Interlobular veins
+Arcuate vein	drainsto	Interlobar vein
+Interlobar veins	drainsto	Renal vein
+Trabecular veins	drainsto	Splenic vein
+Left colic vein	drainsto	Inferior mesenteric vein
+Right gastric vein	drainsto	Hepatic portal vein
+Central veins of liver	drainsto	Hepatic veins
+Mastoid lymph nodes	drainsto	Superior deep cervical glands
+Popliteal lymph nodes	drainsto	Deep inguinal lymph nodes
+Deltopectoral lymph nodes	drainsto	Apical lymph nodes
+Subscapular axillary lymph nodes	drainsto	Central lymph nodes
+Pectoral axillary lymph nodes	drainsto	Central lymph nodes
+Central lymph nodes	drainsto	Apical lymph nodes
+Apical lymph nodes	drainsto	Subclavian trunk
+Supratrochlear lymph nodes	drainsto	Lateral lymph nodes
+Deep cervical lymph nodes	drainsto	Jugular trunk
+Sphenoparietal sinus	drainsto	Cavernous sinus
+Superior labial vein	drainsto	Facial vein
+Inferior labial vein	drainsto	Facial vein
+Lateral thoracic vein	drainsto	Axillary vein
+Superior thalamostriate vein	drainsto	Internal cerebral veins
+Plantar metatarsal veins	drainsto	Plantar venous arch
+Dorsal digital veins of the foot	drainsto	Dorsal metatarsal veins
+Superior deep cervical lymph nodes	drainsto	Inferior deep cervical lymph nodes
+Superior deep cervical lymph nodes	drainsto	Jugular trunk
+Inferior deep cervical lymph nodes	drainsto	Jugular trunk
+Preauricular deep parotid lymph nodes	drainsto	Superior deep cervical lymph nodes
+Jugular venous arch	drainsto	Anterior jugular vein
+Occipital emissary vein	drainsto	Occipital vein
+Superficial cervical lymph nodes	drainsto	Superior deep cervical lymph nodes
+Retropharyngeal lymph nodes	drainsto	Superior deep cervical lymph nodes
+Central retinal vein	drainsto	Superior ophthalmic vein
+Central retinal vein	drainsto	Cavernous sinus
+Bronchomediastinal lymph trunk	drainsto	Thoracic duct
+Bronchomediastinal lymph trunk	drainsto	Right lymphatic duct
+External pudendal veins	drainsto	Great saphenous vein
+Dorsal metacarpal veins	drainsto	Dorsal venous network of hand
+Intercapitular veins of the hand	drainsto	Median antebrachial vein
+Palmar digital veins	drainsto	Intercapitular veins
+Palmar digital veins	drainsto	Superficial palmar venous arch
+Palmar metacarpal veins	drainsto	Deep palmar venous arch
+Superficial palmar venous arch	drainsto	Ulnar vein
+Deep palmar venous arch	drainsto	Radial vein
+Dorsal metatarsal veins	drainsto	Dorsal venous arch of the foot
+Dorsal scapular vein	drainsto	Subclavian vein
+Pericardiacophrenic veins	drainsto	Brachiocephalic vein
+Parasternal lymph nodes	drainsto	Bronchomediastinal trunk
+Anterior auricular veins	drainsto	Superficial temporal vein
+Suboccipital venous plexus	drainsto	Vertebral vein
+Appendicular vein	drainsto	Ileocolic vein
+Ileocolic vein	drainsto	Superior mesenteric vein
+Anterior intercostal veins	drainsto	Internal thoracic vein
+Thymic veins	drainsto	Brachiocephalic vein
+Intercostal lymph nodes	drainsto	Right lymphatic duct
+Intercostal lymph nodes	drainsto	Thoracic duct
+Jejunal veins	drainsto	Superior mesenteric vein
+Ileal veins	drainsto	Superior mesenteric vein
+Uterine veins	drainsto	Internal iliac vein
+Vesical veins	drainsto	Internal iliac vein
+Iliolumbar vein	drainsto	common iliac vein\n  Artery      = iliolumbar artery
+Vein of bulb of penis	drainsto	Internal pudendal vein
+Superficial dorsal veins of clitoris	drainsto	External pudendal vein
+Deep dorsal vein of clitoris	drainsto	Vesical venous plexus
+Posterior scrotal veins	drainsto	Vesical venous plexus
+Posterior labial veins	drainsto	Vesical venous plexus
+Superior mesenteric lymph nodes	drainsto	Preaortic lymph node
+Celiac lymph nodes	drainsto	Preaortic lymph node
+Sacral lymph nodes	drainsto	Common iliac lymph nodes
+Splenic lymph nodes	drainsto	Celiac lymph nodes
+Gastric lymph nodes	drainsto	Celiac lymph nodes
+Hepatic lymph nodes	drainsto	Celiac lymph nodes
+Mesenteric lymph nodes	drainsto	Intestinal lymph trunk
+Subclavian lymph trunk	drainsto	Thoracic duct
+Subclavian lymph trunk	drainsto	Right lymphatic duct
+Nasolabial lymph node	drainsto	Buccinator lymph node
+Mandibular lymph node	drainsto	Submandibular lymph nodes
+Suprascapular vein	drainsto	External jugular vein
+Transverse cervical veins	drainsto	External jugular vein
+Ethmoidal veins	drainsto	Superior ophthalmic vein
+Deep lingual vein	drainsto	Lingual vein
+Dorsal lingual veins	drainsto	Lingual vein
+Sublingual vein	drainsto	Lingual vein
+Superior laryngeal vein	drainsto	Superior thyroid vein
+Inferior laryngeal vein	drainsto	Inferior thyroid vein
+Lymph duct	drainsto	Subclavian veins
+Intrascleral plexus	drainsto	Anterior ciliary veins
+Middle cerebral veins	drainsto	Cavernous sinus
+Middle cerebral veins	drainsto	Basal vein
+Medial marginal vein	drainsto	Long saphenous vein
+Lateral marginal vein	drainsto	Short saphenous vein
+Anterior accessory saphenous vein	drainsto	Great saphenous vein
+Giacomini vein	drainsto	Great saphenous vein

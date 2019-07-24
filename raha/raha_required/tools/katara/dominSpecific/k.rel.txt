@@ -1,0 +1,701 @@
+Black	k	100
+Cyan	k	0
+Cyan	k	8
+Indigo	k	49
+Indigo	k	0
+Yellow	k	0
+Violet	k	0
+Purple	k	0
+Brown	k	41
+Ultramarine	k	0
+Magenta	k	0
+Orange	k	0
+Jonquil	k	4
+Tyrian purple	k	42
+Pink	k	0
+Crimson	k	40
+Crimson	k	0
+Crimson	k	13
+Crimson	k	11
+Crimson	k	34
+Crimson	k	5
+Crimson	k	20
+Crimson	k	23
+Crimson	k	26
+Crimson	k	25
+Crimson	k	48
+Crimson	k	4
+Gold	k	0
+Gold	k	1
+Gold	k	8.5
+Gold	k	5
+Gold	k	15
+Gold	k	19
+Gold	k	20
+Ochre	k	20
+Vermilion	k	0
+Vermilion	k	15
+Vermilion	k	33
+Coral	k	0
+Cadmium pigments	k	7
+Cadmium pigments	k	11
+Cadmium pigments	k	58
+Cadmium pigments	k	0
+Umber	k	61
+Umber	k	49
+Umber	k	46
+Navy blue	k	17
+Navy blue	k	18
+Navy blue	k	0
+Navy blue	k	50
+Navy blue	k	11
+Navy blue	k	68
+Powder blue	k	10
+Phthalocyanine Blue BN	k	14
+Grey	k	50
+Tan	k	18
+Tan	k	32
+Tan	k	35
+Mauve	k	0
+Mauve	k	17
+Mauve	k	2
+Mauve	k	43
+Mauve	k	60
+Beige	k	4
+Beige	k	0
+Beige	k	2
+Beige	k	6
+Beige	k	8
+Beige	k	35
+Beige	k	41
+Bistre	k	76
+Bistre	k	41
+Bistre	k	48
+Bistre	k	60
+Azure	k	6
+Azure	k	0
+Azure	k	13
+Azure	k	9
+Azure	k	14
+Azure	k	19
+Azure	k	12
+Azure	k	18
+Azure	k	15
+Azure	k	27
+Azure	k	24
+Azure	k	31
+Azure	k	35
+Azure	k	29
+Azure	k	39
+Azure	k	60
+Teal	k	8
+Teal	k	47
+Salmon	k	0
+Salmon	k	9
+Olive	k	50
+Olive	k	27
+Olive	k	44
+Olive	k	76
+Olive	k	58
+Olive	k	77
+Fuchsia	k	0
+Fuchsia	k	1
+Fuchsia	k	4
+Fuchsia	k	22
+Fuchsia	k	20
+Fuchsia	k	29
+Fuchsia	k	23
+Fuchsia	k	11
+Peach	k	0
+Silver	k	23
+Silver	k	0
+Silver	k	41
+Silver	k	52
+Silver	k	54
+Cardinal	k	23
+Cardinal	k	32
+Cardinal	k	20
+Lavender	k	2
+Lavender	k	0
+Lavender	k	22
+Lavender	k	18
+Lavender	k	6
+Lavender	k	15
+Lavender	k	13
+Lavender	k	14
+Lavender	k	20
+Lavender	k	29
+Lavender	k	27
+Venetian red	k	0
+Liver	k	60
+Liver	k	49
+Liver	k	67
+Liver	k	58
+Copper	k	28
+Copper	k	51
+Copper	k	20
+Copper	k	32
+Copper	k	40
+Persian red	k	15
+Dodger blue	k	0
+Lemon	k	4
+Lemon	k	0
+Lemon	k	12
+Lemon	k	34
+Lemon	k	20
+Persian blue	k	11
+Puce	k	55
+Puce	k	34
+Puce	k	69
+Periwinkle	k	0
+Amber	k	0
+Scarlet	k	0
+Scarlet	k	1
+Scarlet	k	11
+Cerulean	k	35
+Cerulean	k	0
+Cerulean	k	24
+Orchid	k	15
+Orchid	k	5
+Orchid	k	16
+Orchid	k	20
+Sepia	k	56
+Viridian	k	11
+Viridian	k	0
+Viridian	k	40
+Viridian	k	20
+Turquoise	k	12
+Turquoise	k	0
+Cerise	k	0
+Cerise	k	4
+Cerise	k	30
+Lilac	k	22
+Lilac	k	0
+Lilac	k	6
+Lilac	k	18
+Lilac	k	44
+Cream	k	0
+Maroon	k	24
+Maroon	k	45
+Verdigris	k	30
+Chartreuse	k	0
+Chartreuse	k	2
+Chartreuse	k	11
+Chartreuse	k	23
+Chartreuse	k	21
+Chartreuse	k	29
+Chartreuse	k	40
+Chartreuse	k	49
+Chartreuse	k	50
+Chartreuse	k	74
+British racing green	k	74
+Lime	k	0
+Lime	k	1
+Red-violet	k	22
+Red-violet	k	9
+Red-violet	k	15
+Red-violet	k	20
+Red-violet	k	3
+Red-violet	k	0
+Red-violet	k	13
+Red-violet	k	29
+Red-violet	k	37
+Red-violet	k	26
+Red-violet	k	55
+Red-violet	k	56
+School bus yellow	k	0
+Safety orange	k	0
+Cosmic latte	k	0
+Mahogany	k	25
+Mahogany	k	20
+Naples yellow	k	2
+Gamboge	k	6
+Rich black	k	100
+Rich black	k	97
+Rich black	k	86
+Seal brown	k	57
+Carmine	k	1
+Carmine	k	0
+Carmine	k	10
+Carmine	k	16
+Carmine	k	18
+Carmine	k	24
+Carmine	k	38
+Catawba	k	56
+Baby blue	k	6
+Baby blue	k	0
+Baby blue	k	9
+Baby blue	k	5
+Baby blue	k	14
+Champagne	k	3
+Champagne	k	5
+Champagne	k	2
+Champagne	k	24
+Old gold	k	19
+Burgundy	k	40
+Burgundy	k	74
+Wheat	k	3
+Goldenrod	k	15
+Goldenrod	k	2
+Goldenrod	k	7
+Goldenrod	k	28
+Seashell	k	0
+Midnight blue	k	29
+Midnight blue	k	31
+Robin egg blue	k	0
+Spring green	k	0
+Spring green	k	6
+Spring green	k	24
+Spring green	k	20
+Spring green	k	27
+Spring green	k	29
+Spring green	k	2
+Spring green	k	35
+Spring green	k	7
+Spring green	k	50
+Spring green	k	53
+Spring green	k	49
+Chocolate	k	82
+Chocolate	k	18
+Cornflower blue	k	0
+Steel blue	k	29
+Steel blue	k	13
+Chestnut	k	42
+Chestnut	k	25
+Slate gray	k	4
+Gunmetal	k	60
+Royal blue	k	60
+Royal blue	k	12
+Royal blue	k	42
+Buff	k	6
+Flax	k	0
+Mustard	k	0
+Payne's grey	k	53
+Blue-green	k	27
+Blue-green	k	12
+Blue-green	k	51
+Blue-green	k	21
+Blue-green	k	29
+Blue-green	k	50
+Navajo white	k	0
+Columbia blue	k	11
+Taupe	k	30
+Taupe	k	10
+Taupe	k	49
+Taupe	k	51
+Taupe	k	35
+Auburn hair	k	20
+Fire engine red	k	19
+Terra cotta	k	11
+Raspberry	k	11
+Raspberry	k	22
+Raspberry	k	30
+Raspberry	k	43
+Raspberry	k	47
+Rose	k	0
+Rose	k	4
+Rose	k	1
+Rose	k	3
+Rose	k	2
+Rose	k	11
+Rose	k	22
+Rose	k	24
+Rose	k	30
+Rose	k	34
+Rose	k	33
+Rose	k	26
+Rose	k	25
+Rose	k	46
+Rose	k	44
+Rose	k	60
+Aqua	k	0
+Aqua	k	10
+Paris green	k	22
+Sapphire	k	27
+Sapphire	k	35
+Sapphire	k	37
+Sapphire	k	42
+Sapphire	k	50
+Magnolia	k	0
+Selective yellow	k	0
+New Hampshire Wildcats	k	6
+Saffron	k	5
+Saffron	k	2
+Saffron	k	0
+Sinopia	k	20
+Phthalocyanine Green G	k	64
+Rust	k	13
+Russet	k	50
+Heliotrope	k	0
+Heliotrope	k	33
+Heliotrope	k	64
+Rosso corsa	k	4
+Coquelicot	k	0
+Egyptian blue	k	35
+International orange	k	0
+International orange	k	6
+International orange	k	27
+Maize	k	2
+Eggshell	k	6
+Ivory	k	0
+Zaffre	k	0.34
+Amaranth	k	5
+Amaranth	k	0
+Amaranth	k	33
+Amaranth	k	38
+Apricot	k	16
+Apricot	k	0
+Apricot	k	27
+Arylide yellow	k	9
+Fallow	k	8
+Forest green	k	8
+Shades of orange	k	0
+Shades of orange	k	2
+Shades of orange	k	1
+Shades of orange	k	3
+Shades of orange	k	7
+Shades of orange	k	9
+Shades of orange	k	11
+Shades of orange	k	15
+Shades of orange	k	23
+Shades of orange	k	25
+Shades of orange	k	41
+Bole	k	53
+Yale Blue	k	40
+Persian green	k	0
+Millettia laurentii	k	0.61
+NIVO	k	70
+Spring bud	k	0
+Spring bud	k	29
+Spring bud	k	43
+Jungle green	k	33
+Jungle green	k	2
+Jungle green	k	52
+Jungle green	k	71
+Jungle green	k	30
+Jungle green	k	86
+Air Force blue	k	44
+Air Force blue	k	40
+Air Force blue	k	9
+Air Force blue	k	18
+Air Force blue	k	24
+Air Force blue	k	35
+Electric blue	k	0
+Carolina blue	k	4
+Glaucous	k	29
+Cambridge Blue	k	24
+Electric green	k	0
+Shades of green	k	41
+Shades of green	k	34
+Shades of green	k	49
+Shades of green	k	80
+Shades of green	k	18
+Shades of green	k	26
+Shades of green	k	50
+Shades of green	k	15
+Shades of green	k	2
+Shades of green	k	27
+Shades of green	k	7
+Shades of green	k	24
+Shades of green	k	40
+Shades of green	k	64
+Shades of green	k	53
+Shades of green	k	3
+Shades of green	k	6
+Shades of green	k	61
+Shades of green	k	0
+Shades of green	k	54
+Shades of green	k	32
+Shades of green	k	67
+Shades of green	k	58
+Shades of green	k	70
+Shades of green	k	1.4832072E9
+Shades of green	k	38
+Shades of green	k	12
+Shades of green	k	48
+Shades of green	k	25
+Shades of green	k	42
+Shades of green	k	22
+Shades of green	k	75
+Shades of green	k	30
+Shades of green	k	44
+Shades of green	k	43
+Shades of green	k	60
+Shades of green	k	52
+Lava	k	72
+Ruby	k	12
+Ruby	k	18
+Ruby	k	19
+Ruby	k	33
+Ruby	k	39
+Ruby	k	48
+Shades of red	k	0
+Shades of red	k	5
+Shades of red	k	7
+Shades of red	k	25
+Shades of red	k	8
+Shades of red	k	10
+Shades of red	k	1
+Shades of red	k	12
+Shades of red	k	15
+Shades of red	k	19
+Shades of red	k	23
+Shades of red	k	20
+Shades of red	k	36
+Shades of red	k	40
+Shades of red	k	51
+Shades of red	k	34
+Candy apple red	k	0
+Candy apple red	k	11
+Cordovan	k	46
+Fulvous	k	11
+Cinereous	k	40
+Wine	k	55
+Wine	k	3
+Wine	k	50
+White	k	0
+Duke blue	k	24
+Mikado yellow	k	0
+Shades of pink	k	0
+Shades of pink	k	6
+Shades of pink	k	1
+Shades of pink	k	2
+Shades of pink	k	4
+Shades of pink	k	5
+Shades of pink	k	10
+Shades of pink	k	13
+Shades of pink	k	11
+Shades of pink	k	3
+Shades of pink	k	16
+Shades of pink	k	46
+Shades of pink	k	23
+Shades of pink	k	9
+Shades of pink	k	15
+Shades of pink	k	19
+Shades of pink	k	20
+Turkey red	k	34
+Bronze	k	0
+Bronze	k	35
+Bronze	k	60
+Shades of magenta	k	0
+Shades of magenta	k	21
+Shades of magenta	k	33
+Shades of magenta	k	4
+Shades of magenta	k	1
+Shades of magenta	k	15
+Shades of magenta	k	18
+Shades of magenta	k	19
+Shades of magenta	k	20
+Shades of magenta	k	38
+Shades of magenta	k	44
+Shades of magenta	k	46
+Plum	k	44
+Plum	k	13
+Plum	k	56
+Tuscan red	k	51
+Tuscan red	k	2
+Tuscan red	k	25
+Tuscan red	k	35
+Tuscan red	k	52
+Desert sand	k	7
+Desert sand	k	4
+Desert sand	k	12
+Desert sand	k	24
+Desert sand	k	41
+Desert sand	k	57
+Camel	k	24
+Byzantium	k	56
+Byzantium	k	26
+Byzantium	k	64
+Midnight green	k	70
+Blue-gray	k	20
+Blue-gray	k	29
+Blue-gray	k	31
+Blue-gray	k	35
+Blue-gray	k	41
+Blue-gray	k	53
+Straw	k	11
+Citrine	k	11
+Sunset	k	2
+Sunset	k	11
+Sunset	k	1
+Shades of yellow	k	0
+Shades of yellow	k	6
+Shades of yellow	k	1
+Shades of yellow	k	2
+Shades of yellow	k	3
+Shades of yellow	k	7
+Shades of yellow	k	18
+Shades of yellow	k	15
+Alizarin crimson	k	11
+Stil de grain yellow	k	2
+Capri	k	0
+Cadet grey	k	0
+Cadet grey	k	37
+Cadet grey	k	28
+Cadet grey	k	55
+Cadet grey	k	68
+Tufts Blue	k	0
+UCLA Blue	k	7
+Vanilla	k	5
+Vanilla	k	18
+Shades of blue	k	0
+Shades of blue	k	6
+Shades of blue	k	10
+Shades of blue	k	40
+Shades of blue	k	31
+Shades of blue	k	34
+Shades of blue	k	20
+Shades of blue	k	35
+Shades of blue	k	46
+Shades of blue	k	47
+Shades of blue	k	50
+Shades of blue	k	29
+Shades of blue	k	57
+Shades of blue	k	68
+Shades of white	k	0
+Shades of white	k	9.95
+Shades of white	k	1
+Shades of white	k	4
+Shades of white	k	2
+Shades of white	k	3
+Shades of white	k	6
+Shades of white	k	11
+Shades of white	k	5
+Jasmine	k	3
+Alice blue	k	0
+Shades of gray	k	50
+Shades of gray	k	0
+Shades of gray	k	100
+Shades of gray	k	14
+Shades of gray	k	17
+Shades of gray	k	26
+Shades of gray	k	34
+Shades of gray	k	60
+Shades of gray	k	59
+Shades of gray	k	67
+Shades of gray	k	80
+Shades of gray	k	25
+Shades of gray	k	48
+Shades of gray	k	55
+Shades of gray	k	69
+Shades of gray	k	31
+Shades of gray	k	20
+Shades of gray	k	29
+Shades of gray	k	4
+Shades of gray	k	10
+Shades of gray	k	40
+Shades of gray	k	45
+Shades of gray	k	30
+Coffee	k	57
+Coffee	k	35
+Coffee	k	71
+Lion	k	24
+Shades of violet	k	0
+Shades of violet	k	17
+Shades of violet	k	14
+Shades of violet	k	19
+Shades of violet	k	26
+Shades of violet	k	47
+Shades of violet	k	34
+Shades of violet	k	64
+Shades of violet	k	70
+Shades of cyan	k	0
+Shades of cyan	k	8
+Shades of cyan	k	27
+Shades of cyan	k	35
+Shades of cyan	k	83
+Shades of cyan	k	46
+Shades of cyan	k	29
+Shades of cyan	k	31
+Shades of cyan	k	70
+Shades of cyan	k	50
+Shades of cyan	k	12
+Shades of cyan	k	30
+Shades of cyan	k	11
+Shades of purple	k	50
+Shades of purple	k	0
+Shades of purple	k	34
+Shades of purple	k	23
+Shades of purple	k	1
+Shades of purple	k	15
+Shades of purple	k	13
+Shades of purple	k	28
+Shades of purple	k	32
+Shades of purple	k	12
+Shades of purple	k	44
+Shades of purple	k	49
+Shades of purple	k	56
+Shades of purple	k	59
+Shades of purple	k	80
+Sky blue	k	8
+Sky blue	k	0
+Sky blue	k	2
+Sky blue	k	16
+Shades of brown	k	41
+Shades of brown	k	35
+Shades of brown	k	0
+Shades of brown	k	38
+Shades of brown	k	4
+Shades of brown	k	6
+Shades of brown	k	46
+Shades of brown	k	82
+Shades of brown	k	18
+Shades of brown	k	8
+Shades of brown	k	58
+Shades of brown	k	20
+Shades of brown	k	49
+Shades of brown	k	50
+Shades of brown	k	30
+Shades of brown	k	24
+Oxford Blue	k	60
+Shades of black	k	100
+Shades of black	k	29
+Shades of black	k	59
+Shades of black	k	64
+Shades of black	k	30
+Shades of black	k	67
+Shades of black	k	69
+Shades of black	k	70
+Shades of black	k	71
+Shades of black	k	6
+Shades of black	k	77
+Shades of black	k	78
+Shades of black	k	80
+Shades of black	k	79
+Shades of black	k	86
+Shades of black	k	83
+Shades of black	k	89
+Shades of black	k	90
+Baker-Miller Pink	k	0
+Indian red	k	25
+Indian red	k	0
+Indian red	k	32
+Indian red	k	47
+Citron	k	34
+National symbols of Nepal	k	14
+Coyote brown	k	49
+Mulberry	k	0
+BISU Visual Identity	k	15
+BISU Visual Identity	k	40
+BISU Visual Identity	k	10
+Acid green	k	25
+Android green	k	22
+Kobicha	k	58
+Federal Standard 595 camouflage colours	k	0
+Federal Standard 595 camouflage colours	k	80
+Federal Standard 595 camouflage colours	k	35
+Federal Standard 595 camouflage colours	k	50
+Federal Standard 595 camouflage colours	k	10
+Dark purple	k	80
+Marigold	k	8
+Marigold	k	0
+Marigold	k	2
+Marigold	k	15
+Dregs of wine	k	60
+Raisin black	k	86
+Cyclamen	k	4
+Marian blue	k	0
+Marengo	k	60
+Marengo	k	16
+Pantone 448 C	k	82

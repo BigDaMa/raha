@@ -1,0 +1,5 @@
+FN varchar(255),LN varchar(255), str varchar(255), city varchar(255), CC varchar(255), country varchar(255), phn varchar(255), time varchar(255), place varchar(255)
+I,J,12 Holywell Street,Oxford,44,UK,66700543,1pm 6/05/2012,Netherlands
+K,L,5 Ratcliffe Terrace,Oxford,44,UK,44944631,11am 2/12/2011,Netherlands
+M,N,12 Holywell Street,Oxford,44,Netherlands,66700541,6am 6/05/2012,US
+O,P,7 Market Street,Amsterdam,31,UK,55384922,9am 6/02/2012,Netherlands

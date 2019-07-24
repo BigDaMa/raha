@@ -1,0 +1,213 @@
+Long Island Rail Road	marks	LI
+SNCF	marks	TGV
+SNCF	marks	Intercités
+SNCF	marks	Transport express régional
+SNCF	marks	Transilien
+SNCF	marks	Ouigo
+SNCF	marks	Eurostar
+SNCF	marks	Thalys
+SNCF	marks	TGV Lyria
+London, Midland and Scottish Railway	marks	LMS
+Keretapi Tanah Melayu	marks	KTM
+Pacific Electric	marks	PE
+Canadian National Railway	marks	CN
+BNSF Railway	marks	BNSF
+Metro-North Railroad	marks	MNCW
+Southern Pacific Transportation Company	marks	SP
+Chicago, Milwaukee, St. Paul and Pacific Railroad	marks	MILW
+Chicago Great Western Railway	marks	CGW
+Indian Railways	marks	IR
+Erie Railroad	marks	ERIE
+Delaware, Lackawanna and Western Railroad	marks	DLW
+Seaboard System Railroad	marks	SBD
+Monon Railroad	marks	CIL, MON
+Newfoundland Railway	marks	NFLD
+Western Pacific Railroad	marks	WP
+Nashville, Chattanooga and St. Louis Railway	marks	NC
+MBTA Commuter Rail	marks	MBTX
+Bay Line Railroad	marks	BAYL
+Atlanta and St. Andrews Bay Railroad	marks	ASAB
+Apalachicola Northern Railroad	marks	AN
+Alabama and Gulf Coast Railway	marks	AGR
+Terra Transport	marks	CN, TT
+Tacoma Rail	marks	TMBL, TRMW
+Chicago South Shore and South Bend Railroad	marks	CSS
+Rochester Subway	marks	RSB
+New York and Atlantic Railway	marks	NYA
+Carolwood Pacific Railroad	marks	CP
+Conrail	marks	CR
+Gateway Western Railway	marks	GWWR
+Disneyland Railroad	marks	DRR
+Batten Kill Railroad	marks	BKRR
+Delaware and Hudson Railway	marks	DH
+Belt Railway of Chicago	marks	BRC
+San Diego Electric Railway	marks	SDER
+Magma Arizona Railroad	marks	MAA
+Bangor and Aroostook Railroad	marks	BAR
+Wabush Lake Railway	marks	WLRS
+Rocky Mountaineer	marks	RMRX
+Chicago Central	marks	CC
+Lake County Railroad	marks	LRC
+Atlantic and Gulf Railroad	marks	A&G
+Philadelphia and Columbia Railroad	marks	P&CRR
+Roaring Camp and Big Trees Narrow Gauge Railroad	marks	RCBT
+New York and Putnam Railroad	marks	NYP
+Alabama Southern Railroad	marks	ABS
+Alabama and Florida Railway	marks	AF
+Birmingham Southern Railroad	marks	BS
+Alabama Railroad	marks	ALAB
+Chattahoochee and Gulf Railroad	marks	CHAT
+Conecuh Valley Railroad	marks	COEH
+Georgia Southwestern Railroad	marks	GSWR
+Akron, Canton and Youngstown Railroad	marks	ACY
+Dardanelle and Russellville Railroad	marks	DR
+Golden Gate Railroad Museum	marks	GGRMX
+Grand River Railway	marks	GRNR
+Lahaina, Kaanapali and Pacific Railroad	marks	LK&P
+Finger Lakes Railway	marks	FGLK
+Huckleberry Railroad	marks	HRR
+East Tennessee and Western North Carolina Railroad	marks	ETWN
+California Northern Railroad	marks	CFNR
+Norfolk and Portsmouth Belt Line Railroad	marks	NPBL
+Chesapeake and Albemarle Railroad	marks	CA
+Evansville Western Railway	marks	EVWR
+Iowa Traction Railway	marks	IATR
+Central Oregon and Pacific Railroad	marks	CORP
+Pacific Harbor Line	marks	PHL
+McCloud Railway	marks	MCR
+Alabama, Tennessee and Northern Railroad	marks	ATN
+Spokane International Railroad	marks	SI
+Chattahoochee Valley Railway	marks	CHV
+Omaha Zoo Railroad	marks	OZRR
+Tennessee Southern Railroad	marks	TSRR
+Three Notch Railroad	marks	TNHR
+Wiregrass Central Railroad	marks	WGCR
+Midland Terminal Railway	marks	MTR
+Sierra Northern Railway	marks	SERA
+Great Western Railway of Colorado	marks	GWR
+San Luis Central Railroad	marks	SLC
+Indiana Rail Road	marks	INRD
+Georgia Central Railway	marks	GC
+Georgia Woodlands Railroad	marks	GWRC
+Heart of Georgia Railroad	marks	HOG
+Ferrocarriles Nacionales de México	marks	NDEM, NDM, NDMZ
+Ferrocarril del Pacífico	marks	FCP
+Sacramento Northern Railway	marks	SN
+Salt Lake City Southern Railroad	marks	SL
+Copper Basin Railway	marks	CBRY
+Black Mesa and Lake Powell Railroad	marks	BLKM
+Toledo, Peoria and Western Railway	marks	TPW
+Keokuk Junction Railway	marks	KJRY
+Aberdeen and Rockfish Railroad	marks	AR
+New Zealand Railways Department	marks	NZGR
+Cooperstown and Charlotte Valley Railroad	marks	CACV
+Parenzana	marks	TPC
+New Zealand Midland Railway Company	marks	NZMRC
+Russian Railways	marks	RZD, RZhD
+St. Croix Valley Railroad	marks	SCXY
+Dallas, Garland and Northeastern Railroad	marks	DGNO
+Gulf, Colorado and San Saba Railway	marks	GCSR
+Egyptian National Railways	marks	ENR
+South Kansas and Oklahoma Railroad	marks	SKOL
+Colorado and Southern Railway	marks	C&S, CS
+Jokioinen Museum Railway	marks	JMR
+International Railway	marks	IRC
+Deadwood Central Railroad	marks	DCRX
+RFFSA	marks	RFFSA
+Burlington Junction Railway	marks	BJRY
+Pickens Railway	marks	PICK, PKHP
+Greenville and Western Railway	marks	GRLW
+Cyprus Government Railway	marks	CGR
+Carolina Piedmont Railroad	marks	CPDR
+Smoky Mountain Railroad	marks	SMR
+Armenian Railways	marks	HYU
+Yadkin Valley Railroad	marks	YVRR
+Sri Lanka Railways	marks	SLR
+Durbin and Greenbrier Valley Railroad	marks	DGVR
+Athabasca Northern Railway	marks	ANY
+Guntur railway division	marks	GNT
+North Carolina Railroad	marks	NCRR
+Valley Railroad	marks	VALE
+Ferrocarriles de Cuba	marks	FFC
+Pine Belt Southern Railroad	marks	PBRR
+Santa Fe Southern Railway	marks	SFSR
+Puget Sound Electric Railway	marks	PSE
+Georgia and Alabama Railroad	marks	GAAB
+Southern Alabama Railroad	marks	SUAB
+Oregon Pacific Railroad	marks	OPR
+Georges Creek Railway	marks	GCK
+Chicago, Attica and Southern Railroad	marks	CAS
+Aberdeen and Briar Patch Railway	marks	ABPR
+Washington Run Railroad	marks	WRN
+Fonda, Johnstown and Gloversville Railroad	marks	FJG
+Washington, Baltimore and Annapolis Electric Railway	marks	WB&A
+Andersonia, California	marks	?
+Chemins de Fer Ottomans d'Anatolie	marks	CFOA
+Historic Jefferson Railway	marks	JCB
+Laurinburg and Southern Railroad	marks	LRS
+Turkish State Railways	marks	TCDD
+Railway system of the Soviet Union	marks	SZhD, SZD
+Pioneer Valley Railroad	marks	PVRR
+Alabama Warrior Railway	marks	ABWR
+Credit Valley Railway	marks	CVR
+Chemins de fer Orientaux	marks	CO
+South Carolina Central Railroad	marks	SCRF
+Aqaba Railway Corporation	marks	ARC
+Hedjaz Jordan Railway	marks	HJR
+Chemin de Fer de Hedjaz Syrie	marks	CFH
+İZBAN	marks	İZBAN
+Englewood Railway	marks	ER-WFP
+Decatur Junction Railway	marks	DT
+Knoxville and Holston River Railroad	marks	KXHR
+Nash County Railroad	marks	NCYR
+Gulf and Mississippi Railroad	marks	GMSR
+Atlantic and Gulf Railroad	marks	AGLF
+Greenville and Northern Railway	marks	GRN
+Andalusia and Conecuh Railroad	marks	ACRC
+Georgia Great Southern Railroad	marks	GGS
+Columbia and Silver Creek Railroad	marks	CLSL
+Lexington and Ohio Railroad	marks	LXOH
+Caney Fork and Western Railroad	marks	CFWR
+Wellington and Manawatu Railway Company	marks	W&MR
+Wabash Railroad	marks	WAB
+Hoosier Heritage Port Authority	marks	HHPA
+Louisville, New Albany and Corydon Railroad	marks	LNAC
+Lucas Oil Rail Line	marks	LORL
+Boot Hill and Western Railway	marks	BHW
+Thermal Belt Railway	marks	TBRY
+South Indian Railway Company	marks	S.I.R
+Houston and Texas Central Railway	marks	H&TC
+Yancey Railroad	marks	YAN
+Rail Wheel Plant, Bela	marks	IR
+Uzbek Railways	marks	OTY
+Southwestern Railroad	marks	SW
+Tooele Valley Railway	marks	TOV
+Potomac, Fredericksburg and Piedmont Railroad	marks	PF&P
+Michigan Interstate Railway	marks	AA
+Mississippi Export Railroad	marks	MSE
+Klamath Northern Railway	marks	KNOR
+Tiruchirappalli railway division	marks	TPJ
+Vijayawada railway division	marks	BZA
+Guntakal railway division	marks	GTL
+City of Prineville Railway	marks	COP
+Rochester, Lockport and Buffalo Railroad	marks	RLB
+Rochester Transit Corporation	marks	RSB
+Rapid City, Pierre and Eastern Railroad	marks	RCPE
+Connecticut Railway and Lighting Company	marks	CRL
+Carriage & Wagon Workshop, Jagadhari	marks	NR
+Secunderabad railway division	marks	SC
+Danapur railway division	marks	DNR
+Heart of Texas Railroad	marks	CTXR
+Western Labrador Rail Services	marks	WRLS
+Alabama and Florida Railroad	marks	AFLR
+Birmingham Terminal Railway	marks	BHRR
+AN Railway	marks	AN
+Riverport Railroad	marks	RVPR
+Hyderabad railway division	marks	HYB
+South Caucasus Railway	marks	HYU
+Adirondack Railway	marks	ADIR
+Atlantic and Danville Railway	marks	AD
+Columbus and Chattahoochee Railroad	marks	CHH
+Olympia and Belmore Railroad	marks	OYLO
+Anatolian Baghdad Railway	marks	CFAB
+Ashtabula, Carson and Jefferson Railroad	marks	ACJR

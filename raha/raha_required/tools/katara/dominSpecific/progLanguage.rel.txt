@@ -1,0 +1,207 @@
+MINIX	progLanguage	C
+MINIX	progLanguage	C++
+MINIX	progLanguage	Tcl
+MINIX	progLanguage	FORTRAN
+MINIX	progLanguage	Modula-2
+MINIX	progLanguage	Pascal
+MINIX	progLanguage	Perl
+MINIX	progLanguage	Python
+2	progLanguage	REXX
+2	progLanguage	Object REXX
+2	progLanguage	Java
+UCSD Pascal	progLanguage	Pascal
+OpenVMS	progLanguage	Ada
+OpenVMS	progLanguage	BASIC
+OpenVMS	progLanguage	BLISS
+OpenVMS	progLanguage	C
+OpenVMS	progLanguage	C++
+OpenVMS	progLanguage	COBOL
+OpenVMS	progLanguage	DIBOL
+OpenVMS	progLanguage	DIGITAL Command Language
+OpenVMS	progLanguage	Fortran
+OpenVMS	progLanguage	Lisp
+OpenVMS	progLanguage	VAX Macro
+OpenVMS	progLanguage	Modula-2
+OpenVMS	progLanguage	OPS5
+OpenVMS	progLanguage	Pascal
+OpenVMS	progLanguage	Perl
+OpenVMS	progLanguage	Python
+OpenVMS	progLanguage	I
+OpenVMS	progLanguage	Java
+OpenVMS	progLanguage	Scala
+OpenVMS	progLanguage	Erlang
+HP-UX	progLanguage	C
+Palm OS	progLanguage	C
+Palm OS	progLanguage	C++
+OS-9	progLanguage	C, Pascal, COBOL, BASIC, a Forth variant, a Unix emulating shell, etc.
+OS	progLanguage	Java, C, C++, COBOL, PL/I, HLASM, FORTRAN, REXX, and many others
+NeXTSTEP	progLanguage	C Programming Language
+NeXTSTEP	progLanguage	Objective-C
+M	progLanguage	Assembly language, BASIC, Modula-2, Pascal etc.
+RSX-11	progLanguage	FORTRAN-77
+RT-11	progLanguage	APL
+RT-11	progLanguage	ALGOL
+RT-11	progLanguage	BASIC
+RT-11	progLanguage	BASIC-PLUS
+RT-11	progLanguage	C
+RT-11	progLanguage	DIGITAL Command Language
+RT-11	progLanguage	FOCAL
+RT-11	progLanguage	Fortran
+RT-11	progLanguage	MACRO-11
+RT-11	progLanguage	Pascal
+RT-11	progLanguage	TECO
+Michigan Terminal System	progLanguage	Assembler, FORTRAN, PL/I, PLUS, ALGOL W, Pascal, C, LISP, SNOBOL4, COBOL, PL360, MAD/I, GOM , APL, and many more
+MenuetOS	progLanguage	Assembly language
+RISC OS	progLanguage	BBC BASIC
+RISC OS	progLanguage	C
+RISC OS	progLanguage	C++
+RISC OS	progLanguage	Assembly language
+86-DOS	progLanguage	8086
+SP	progLanguage	Fortran, COBOL, Rexx, Prolog, APL, and VS-BASIC
+8	progLanguage	BASIC
+8	progLanguage	Fortran
+8	progLanguage	Text Editor and Corrector
+Compatible Time-Sharing System	progLanguage	FAP assembly, MAD, Fortran, LISP
+Coherent	progLanguage	C
+MorphOS	progLanguage	C
+MorphOS	progLanguage	C++
+MorphOS	progLanguage	Pascal
+MorphOS	progLanguage	Python
+MorphOS	progLanguage	Perl
+MorphOS	progLanguage	Amiga E
+MorphOS	progLanguage	Ruby
+MorphOS	progLanguage	Lua
+E	progLanguage	ALGOL
+E	progLanguage	APL
+E	progLanguage	BASIC-PLUS
+E	progLanguage	C
+E	progLanguage	COBOL
+E	progLanguage	Datatrieve
+E	progLanguage	DIBOL
+E	progLanguage	Forth
+E	progLanguage	Fortran
+E	progLanguage	MACRO-11
+E	progLanguage	Pascal
+E	progLanguage	IBM RPG
+E	progLanguage	Text Editor and Corrector
+Amoeba	progLanguage	C
+Amoeba	progLanguage	Modula 2
+Amoeba	progLanguage	Orca
+Amoeba	progLanguage	Pascal
+Pick operating system	progLanguage	Data/BASIC , PROC procedure language, ENGLISH
+University of Michigan Executive System	progLanguage	FORTRAN
+University of Michigan Executive System	progLanguage	Michigan Algorithm Decoder
+V	progLanguage	C
+TOPS-10	progLanguage	APL
+TOPS-10	progLanguage	ALGOL
+TOPS-10	progLanguage	BASIC
+TOPS-10	progLanguage	BLISS
+TOPS-10	progLanguage	COBOL
+TOPS-10	progLanguage	Fortran
+TOPS-10	progLanguage	MACRO-10
+Dartmouth Time Sharing System	progLanguage	Dartmouth BASIC, ALGOL 60, FORTRAN, COBOL, APL, DXPL, DYNAMO, GMAP, LISP, MIX, PL/I, SNOBOL
+RISC iX	progLanguage	C
+RISC iX	progLanguage	ARM architecture
+RISC iX	progLanguage	Assembly language
+LynxOS	progLanguage	Ada
+LynxOS	progLanguage	C
+LynxOS	progLanguage	C++
+FLEX	progLanguage	BASIC
+FLEX	progLanguage	Forth
+FLEX	progLanguage	C
+FLEX	progLanguage	Fortran
+FLEX	progLanguage	Pascal
+RMX	progLanguage	M
+RMX	progLanguage	Fortran
+RMX	progLanguage	C
+OS	progLanguage	C
+OS	progLanguage	C++
+OS	progLanguage	Fortran
+OS	progLanguage	Pascal
+THE multiprogramming system	progLanguage	Electrologica X8
+THE multiprogramming system	progLanguage	Assembly language
+Singularity	progLanguage	Lisp
+Singularity	progLanguage	C Sharp
+Singularity	progLanguage	Sing Sharp
+Java Card OpenPlatform	progLanguage	Java Card
+UX	progLanguage	C
+AMSDOS	progLanguage	Locomotive BASIC
+IBM Academic Operating System	progLanguage	C
+Acorn MOS	progLanguage	BBC BASIC
+MSX-DOS	progLanguage	Assembly language
+MSX-DOS	progLanguage	MSX BASIC
+MSX-DOS	progLanguage	Pascal
+HDOS	progLanguage	BASIC
+HDOS	progLanguage	Intel 8080
+HDOS	progLanguage	Assembly language
+HDOS	progLanguage	COBOL
+HDOS	progLanguage	FORTRAN
+AmigaOS 4	progLanguage	C, C++, ARexx, Pascal, COBOL, BASIC, Python, PHP, Perl, E, Amiga E, Modula-2, C64 Basic, REBOL, Ruby, Java 1.4.1, Hollywood
+DX10	progLanguage	Fortran
+DX10	progLanguage	COBOL
+DX10	progLanguage	IBM RPG II
+DX10	progLanguage	Pascal
+DX10	progLanguage	BASIC
+DX10	progLanguage	Assembly language
+DX10	progLanguage	Forth
+SPIN	progLanguage	Modula-3
+DOS-11	progLanguage	FOCAL, Fortran-IV, MACRO-11, TECO
+TSS-8	progLanguage	ALGOL
+TSS-8	progLanguage	BASIC programming language
+TSS-8	progLanguage	FOCAL
+TSS-8	progLanguage	Fortran
+TSS-8	progLanguage	PDP-8
+TI-RTOS	progLanguage	C
+4690 Operating System	progLanguage	IBM 4680 BASIC ,
+4690 Operating System	progLanguage	Metaware High-C,
+4690 Operating System	progLanguage	Java 2
+BlackBerry OS	progLanguage	Java Micro Edition
+Panos	progLanguage	FORTRAN 77
+Panos	progLanguage	C
+Panos	progLanguage	Pascal
+Panos	progLanguage	Lisp
+GPAC Project on Advanced Content	progLanguage	C
+MONECS	progLanguage	Assembly language
+MONECS	progLanguage	BASIC
+MONECS	progLanguage	COBOL
+MONECS	progLanguage	FORTRAN
+MONECS	progLanguage	Pascal
+WebOS	progLanguage	Qt
+WebOS	progLanguage	HTML5
+WebOS	progLanguage	C
+WebOS	progLanguage	C++
+OS4000	progLanguage	Babbage, FORTRAN IV, COBOL, CORAL 66, ALGOL, BASIC, APL, C, OS4000 JCL
+TurboDOS	progLanguage	Assembly language
+KolibriOS	progLanguage	Fasm, C/C++, Pascal, Python, BF, Lua etc.
+ERIKA Enterprise	progLanguage	C
+4K Disk Monitor System	progLanguage	PAL-8
+4K Disk Monitor System	progLanguage	FORTRAN
+4K Disk Monitor System	progLanguage	FOCAL
+OSIAN	progLanguage	NesC
+OpenComRTOS	progLanguage	ANSI-C
+RT-Thread	progLanguage	C programming language
+T-Kernel	progLanguage	C++
+T-Kernel	progLanguage	C
+ISIS	progLanguage	Assembly language
+ISIS	progLanguage	M
+Verve	progLanguage	C#, other CIL languages
+DexOS	progLanguage	Assembly language
+OpenTag	progLanguage	C
+SmartOS	progLanguage	C
+Ubuntu Touch	progLanguage	HTML5
+Ubuntu Touch	progLanguage	C
+Ubuntu Touch	progLanguage	C++
+Ubuntu Touch	progLanguage	Qt Meta Language
+Nokia Asha platform	progLanguage	Java ME
+Nokia Asha platform	progLanguage	Web apps
+OSv	progLanguage	Java virtual machine languages, C++, C
+INtime	progLanguage	C
+INtime	progLanguage	C++
+Honeywell CP-6	progLanguage	APL, BASIC, COBOL, FORTRAN, RPG, IDP, PL-6, GMAP
+TI-DNOS	progLanguage	Fortran
+TI-DNOS	progLanguage	COBOL
+TI-DNOS	progLanguage	IBM RPG II
+TI-DNOS	progLanguage	Pascal
+TI-DNOS	progLanguage	BASIC
+TI-DNOS	progLanguage	Assembly language
+TI-DNOS	progLanguage	Forth

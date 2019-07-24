@@ -1,0 +1,43 @@
+Earth	maxTemp	330.0
+Earth	maxTemp	56.7
+Moon	maxTemp	390.0
+Moon	maxTemp	230.0
+Mercury	maxTemp	700.0
+Mercury	maxTemp	380.0
+Umbriel	maxTemp	85.0
+Europa	maxTemp	125.0
+Uranus	maxTemp	57.0
+Pluto	maxTemp	55.0
+Amalthea	maxTemp	165.0
+Rhea	maxTemp	99.0
+Enceladus	maxTemp	145.0
+Enceladus	maxTemp	-128.0
+Titania	maxTemp	89.0
+1862 Apollo	maxTemp	322.0
+1862 Apollo	maxTemp	49.0
+90 Antiope	maxTemp	244.0
+2062 Aten	maxTemp	291.0
+2062 Aten	maxTemp	18.0
+Io	maxTemp	130.0
+307 Nike	maxTemp	174.0
+307 Nike	maxTemp	-99.0
+501 Urhixidur	maxTemp	165.0
+501 Urhixidur	maxTemp	-108.0
+465 Alekto	maxTemp	176.0
+465 Alekto	maxTemp	-97.0
+1001 Gaussia	maxTemp	165.0
+1001 Gaussia	maxTemp	-108.0
+Ceres	maxTemp	235.0
+Eris	maxTemp	55.0
+3103 Eger	maxTemp	227.0
+Mars	maxTemp	308.0
+Mars	maxTemp	35.0
+6239 Minos	maxTemp	274.0
+6239 Minos	maxTemp	1.0
+12923 Zephyr	maxTemp	266.0
+Read	maxTemp	184.0
+	maxTemp	362.0
+	maxTemp	500.0
+	maxTemp	227.0
+	maxTemp	265.0
+	maxTemp	-8.0

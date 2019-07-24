@@ -1,0 +1,4234 @@
+Mall of America	ada	Yes
+Pennsylvania Station	ada	yes
+West Edmonton Mall	ada	Yes
+Grand Central Terminal	ada	Yes
+Sheffield station	ada	yes
+Union Station	ada	yes
+Union Station	ada	yes
+Downtown Plano	ada	Yes
+Bush	ada	Yes
+Parker Road	ada	Yes
+Central	ada	Yes
+Galatyn Park	ada	Yes
+Forest Lane	ada	Yes
+Spring Valley	ada	Yes
+Walnut Hill	ada	Yes
+Arapaho Center	ada	Yes
+Lovers Lane	ada	Yes
+Park Lane	ada	Yes
+Uptown	ada	true
+Mockingbird	ada	true
+West End station	ada	true
+Akard	ada	true
+Arts District	ada	true
+St. Paul	ada	Yes
+Convention Center	ada	Yes
+Dallas Zoo	ada	Yes
+Vernon	ada	Yes
+8th & Corinth	ada	Yes
+Cedars	ada	Yes
+Westmoreland	ada	Yes
+Downtown Garland	ada	Yes
+Hampton	ada	true
+Jupiter	ada	Yes
+Morrell	ada	Yes
+Skillman	ada	Yes
+VA Medical Center	ada	Yes
+Illinois	ada	Yes
+White Rock	ada	Yes
+Kiest	ada	Yes
+Ledbetter	ada	Yes
+Market Center	ada	Yes
+Heritage Crossing	ada	Yes
+West Irving	ada	Yes
+Bell	ada	Yes
+DFW Airport	ada	Yes
+Richland Hills	ada	Yes
+Fort Worth Intermodal Transportation Center	ada	Yes
+T&P Station	ada	Yes
+Waterfront station	ada	yes
+Tenleytown–AU station	ada	Yes
+Metro Center station	ada	Yes
+Poughkeepsie station	ada	yes
+New Hamburg	ada	yes
+Cold Spring	ada	yes
+Beacon	ada	yes
+Garrison	ada	yes
+Cortlandt	ada	yes
+Peekskill	ada	yes
+Croton–Harmon station	ada	yes
+Scarborough	ada	Yes
+Ossining	ada	yes
+Tarrytown	ada	yes
+Foggy Bottom–GWU station	ada	Yes
+Ardsley-on-Hudson	ada	yes
+Greystone	ada	yes
+Glenwood	ada	yes
+Hastings-on-Hudson	ada	yes
+Yonkers station	ada	Yes
+Dupont Circle station	ada	Yes
+Farragut North station	ada	Yes
+Woodley Park station	ada	Yes
+Cleveland Park station	ada	yes
+Van Ness–UDC station	ada	Yes
+Friendship Heights station	ada	Yes
+Bethesda station	ada	Yes
+Medical Center station	ada	Yes
+Twinbrook station	ada	Yes
+White Flint station	ada	yes
+Rockville station	ada	Yes
+Shady Grove station	ada	Yes
+Gallery Place station	ada	Yes
+Judiciary Square station	ada	Yes
+Union Station	ada	Yes
+NoMa–Gallaudet U station	ada	Yes
+Rhode Island Avenue–Brentwood station	ada	Yes
+Takoma station	ada	Yes
+Brookland–CUA station	ada	Yes
+Fort Totten station	ada	Yes
+Grosvenor–Strathmore station	ada	Yes
+Forest Glen station	ada	Yes
+Silver Spring station	ada	Yes
+Wheaton station	ada	Yes
+Glenmont station	ada	Yes
+Spuyten Duyvil	ada	yes
+Harlem–125th Street	ada	yes
+Dunn Loring station	ada	Yes
+East Falls Church station	ada	Yes
+Vienna station	ada	Yes
+West Falls Church station	ada	Yes
+Ballston–MU station	ada	yes
+Wassaic	ada	yes
+Harlem Valley–Wingdale	ada	yes
+Tenmile River	ada	yes
+Dover Plains	ada	yes
+Pawling	ada	yes
+Southeast	ada	yes
+Brewster	ada	yes
+Crystal City station	ada	Yes
+Virginia Square–GMU station	ada	Yes
+Smithsonian station	ada	Yes
+Federal Triangle station	ada	Yes
+McPherson Square station	ada	Yes
+Farragut West station	ada	Yes
+Rosslyn station	ada	yes
+Court House station	ada	Yes
+Clarendon station	ada	Yes
+Eisenhower Avenue station	ada	yes
+Franconia–Springfield station	ada	Yes
+King Street–Old Town station	ada	Yes
+Huntington station	ada	Yes
+Braddock Road station	ada	yes
+Ronald Reagan Washington National Airport station	ada	yes
+Pentagon City station	ada	Yes
+Arlington Cemetery station	ada	Yes
+Mount Vernon Square station	ada	Yes
+L'Enfant Plaza station	ada	Yes
+Federal Center SW station	ada	Yes
+Eastern Market station	ada	Yes
+Stadium–Armory station	ada	Yes
+Capitol South station	ada	Yes
+Potomac Avenue station	ada	Yes
+Benning Road station	ada	Yes
+Archives station	ada	Yes
+Capitol Heights station	ada	Yes
+Morgan Boulevard station	ada	Yes
+Addison Road station	ada	Yes
+Largo Town Center station	ada	Yes
+Minnesota Avenue station	ada	Yes
+Deanwood station	ada	Yes
+Cheverly station	ada	Yes
+Landover station	ada	Yes
+Shaw–Howard University station	ada	Yes
+U Street station	ada	Yes
+Columbia Heights station	ada	Yes
+Georgia Avenue–Petworth station	ada	Yes
+New Carrollton station	ada	Yes
+West Hyattsville station	ada	Yes
+Prince George's Plaza station	ada	Yes
+Waterfront station	ada	Yes
+Navy Yard–Ballpark station	ada	Yes
+College Park–University of Maryland station	ada	Yes
+Greenbelt station	ada	Yes
+Anacostia station	ada	Yes
+Congress Heights station	ada	Yes
+Southern Avenue station	ada	Yes
+Branch Avenue station	ada	Yes
+Suitland station	ada	Yes
+Naylor Road station	ada	Yes
+Union Station	ada	Yes
+Park Street	ada	Yes
+Pennsylvania Station	ada	Yes
+King George station	ada	yes
+Kenmore	ada	yes
+King Street Station	ada	Yes
+Metropark station	ada	yes
+Secaucus Junction	ada	yes
+Saint Paul Union Depot	ada	Yes
+Union Station	ada	Yes
+South Station	ada	yes
+Airport	ada	Yes
+Alewife	ada	Yes
+Harvard	ada	Yes
+Porter	ada	yes
+Central	ada	Yes
+Davis	ada	yes
+MIT	ada	Yes
+MGH	ada	yes
+UMass	ada	Yes
+North Station	ada	Yes
+Downtown Crossing	ada	Yes
+Government Center	ada	yes
+State	ada	yes
+Anderson Regional Transportation Center	ada	yes
+University station	ada	Yes
+Hoboken Terminal	ada	yes
+Pennsylvania Station	ada	yes
+Hialeah Market station	ada	Yes
+Tri-Rail and Metrorail Transfer Station	ada	Yes
+Haymarket	ada	Yes
+Portland Union Station	ada	Yes
+Wellington	ada	Yes
+Cincinnati Museum Center at Union Terminal	ada	yes
+Palmetto station	ada	YES
+Okeechobee station	ada	Yes
+Hialeah station	ada	Yes
+Northside station	ada	Yes
+Brownsville station	ada	Yes
+Allapattah station	ada	Yes
+Earlington Heights station	ada	Yes
+Santa Clara station	ada	Yes
+Civic Center station	ada	Yes
+Culmer station	ada	Yes
+Dadeland South station	ada	Yes
+South Miami station	ada	Yes
+Coconut Grove station	ada	Yes
+Government Center station	ada	Yes
+Brickell station	ada	Yes
+Douglas Road station	ada	Yes
+Dadeland North station	ada	Yes
+Eleventh Street station	ada	Yes
+Adrienne Arsht Center station	ada	Yes
+School Board station	ada	Yes
+Park West station	ada	Yes
+Financial District station	ada	Yes
+Wilkie D. Ferguson Jr. station	ada	Yes
+Aquarium	ada	Yes
+Dr. Martin Luther King Jr. Plaza station	ada	Yes
+Lyric Theatre station	ada	Yes
+Chinatown MRT Station	ada	Yes
+Little India MRT Station	ada	Yes
+Clarke Quay MRT Station	ada	Yes
+Marina Bay MRT Station	ada	Yes
+Dhoby Ghaut MRT Station	ada	Yes
+Bishan MRT Station	ada	Yes
+HarbourFront MRT Station	ada	Yes
+Boon Lay MRT Station	ada	Yes
+Changi Airport MRT Station	ada	Yes
+Paya Lebar MRT Station	ada	yes
+Pasir Ris MRT Station	ada	Yes
+Raffles Place MRT Station	ada	Yes
+City Hall MRT Station	ada	Yes
+Outram Park MRT Station	ada	yes
+Jurong East MRT Station	ada	Yes
+Buona Vista MRT Station	ada	Yes
+Simei MRT Station	ada	Yes
+Markham Stouffville Hospital	ada	Yes
+Freedom Tower station	ada	Yes
+College North station	ada	Yes
+BWI Rail Station	ada	Yes
+Ang Mo Kio MRT Station	ada	Yes
+Longwood Medical Area	ada	Yes
+Longwood	ada	yes
+Brigham Circle	ada	Yes
+Chappaqua	ada	Yes
+Lawrence West	ada	yes
+Eglinton West	ada	yes
+Downsview	ada	yes
+St. George	ada	Yes
+Queen's Park	ada	Yes
+St. Andrew	ada	yes
+Osgoode	ada	Yes
+Northeastern University	ada	Yes
+Dundas	ada	yes
+Bloor–Yonge	ada	Yes
+Union	ada	Yes
+Hennepin Avenue	ada	Yes
+Kipling	ada	yes
+Opa-locka station	ada	Yes
+Golden Glades station	ada	Yes
+Hollywood station	ada	Yes
+Cedar-Riverside	ada	Yes
+U.S. Bank Stadium	ada	Yes
+Government Plaza	ada	Yes
+Nicollet Mall	ada	Yes
+Franklin Avenue	ada	Yes
+Sheridan Street station	ada	Yes
+Amtrak station	ada	Yes
+Fort Lauderdale Airport station	ada	Yes
+Fort Lauderdale station	ada	Yes
+Midtown	ada	Yes
+38th Street	ada	Yes
+46th Street	ada	Yes
+DeLand station	ada	Yes
+Miami station	ada	Yes
+Minnehaha Park	ada	Yes
+Union Station	ada	yes
+Richmond Staples Mill Road station	ada	Yes
+Cypress Creek station	ada	Yes
+Boca Raton station	ada	Yes
+Deerfield Beach station	ada	Yes
+Pompano Beach station	ada	Yes
+Delray Beach station	ada	Yes
+Boynton Beach station	ada	Yes
+Lake Worth station	ada	Yes
+West Palm Beach station	ada	Yes
+Church Street Station	ada	Yes
+VA Medical Center	ada	Yes
+Fort Snelling	ada	Yes
+Oak Grove	ada	Yes
+Malton GO Station	ada	yes
+Etobicoke North GO Station	ada	Yes
+Weston GO Station	ada	Yes
+Brampton GO Station	ada	Yes
+Bramalea GO Station	ada	Yes
+North White Plains	ada	yes
+Crestwood	ada	yes
+Fordham	ada	yes
+Nollendorfplatz	ada	true
+Dixie GO Station	ada	Yes
+Cooksville GO Station	ada	Yes
+Erindale GO Station	ada	Yes
+Streetsville GO Station	ada	Yes
+Meadowvale GO Station	ada	Yes
+Milton GO Station	ada	Yes
+Route 128 station	ada	Yes
+Suburban Station	ada	Yes
+Ogilvie Transportation Center	ada	true
+8th Street station	ada	yes
+Princeton Junction station	ada	yes
+Jamaica	ada	yes
+Alexandria Union Station	ada	Yes
+Terminal 1–Lindbergh	ada	Yes
+Montgomery Street station	ada	Yes
+Embarcadero station	ada	Yes
+Powell Street station	ada	Yes
+Church Street Station	ada	Yes
+Van Ness Station	ada	Yes
+UN Plaza station	ada	Yes
+Forest Hill Station	ada	Yes
+West Portal Station	ada	Yes
+Castro Street Station	ada	Yes
+Journal Square Transportation Center	ada	yes
+Terminal 2–Humphrey	ada	Yes
+Mount Pleasant GO Station	ada	Yes
+Newport station	ada	yes
+Forest Hills	ada	Yes
+Science Park	ada	yes
+Boston College	ada	Yes
+Lechmere	ada	Yes
+Reservoir	ada	Yes
+Riverside	ada	Yes
+Heath Street	ada	yes
+Ruggles	ada	Yes
+Coolidge Corner	ada	Yes
+Miami Avenue station	ada	Yes
+Bayfront Park station	ada	Yes
+First Street station	ada	Yes
+Bayside station	ada	Yes
+Third Street station	ada	Yes
+Riverwalk station	ada	Yes
+Fifth Street station	ada	Yes
+Eighth Street station	ada	Yes
+York University GO Station	ada	Yes
+Wilmington station	ada	Yes
+Sharon Hill station	ada	yes
+69th Street Transportation Center	ada	yes
+28th Avenue	ada	Yes
+Bloomington Central	ada	Yes
+Main Street–Science World station	ada	yes
+Stadium–Chinatown station	ada	yes
+Granville station	ada	yes
+Burrard station	ada	yes
+Metrotown station	ada	No
+Scott Road station	ada	yes
+Chester Transportation Center	ada	true
+Columbia station	ada	yes
+Chennai Mofussil Bus Terminus	ada	yes
+Carling station	ada	Yes
+Nanaimo station	ada	yes
+Patterson station	ada	yes
+Royal Oak station	ada	yes
+29th Avenue station	ada	yes
+Joyce–Collingwood station	ada	yes
+Sapperton station	ada	yes
+Braid station	ada	yes
+Cleveland Avenue MAX Station	ada	yes
+Gresham Central Transit Center	ada	yes
+Gresham City Hall MAX Station	ada	yes
+East 197th Avenue MAX Station	ada	yes
+East 188th Avenue MAX Station	ada	yes
+E 181st Ave MAX Station	ada	yes
+E 172nd Ave MAX Station	ada	yes
+E 148th Ave MAX Station	ada	yes
+E 162nd Ave MAX Station	ada	yes
+E 122nd Ave MAX Station	ada	yes
+Malden Center	ada	Yes
+Northeast 99th Avenue Transit Center	ada	yes
+Northeast 60th Avenue MAX Station	ada	yes
+Northeast 82nd Avenue MAX Station	ada	yes
+Northeast 42nd Avenue Transit Center MAX Station	ada	yes
+Northeast 11th Avenue MAX Station	ada	yes
+Convention Center MAX Station	ada	yes
+Rose Quarter Transit Center	ada	yes
+Chinatown MAX Station	ada	yes
+Skidmore Fountain MAX Station	ada	yes
+Southwest 5th Avenue	ada	yes
+Southwest 3rd Avenue	ada	yes
+Southwest 1st Avenue MAX Station	ada	yes
+Washington Park MAX Station	ada	yes
+Southwest Jefferson Street MAX Station	ada	yes
+Southwest Salmon Street MAX Station	ada	yes
+Southwest 10th Avenue	ada	yes
+Pioneer Square South and Pioneer Square North	ada	yes
+Exhibition GO Station	ada	Yes
+Danforth GO Station	ada	Yes
+Oriole GO Station	ada	yes
+Tampines MRT Station	ada	Yes
+Dover MRT Station	ada	Yes
+Expo MRT Station	ada	Yes
+Chinook	ada	yes
+University	ada	yes
+Banff Trail	ada	yes
+Heritage	ada	yes
+Jubilee	ada	yes
+Brentwood	ada	yes
+Lions Park	ada	yes
+Dalhousie	ada	yes
+Sunnyside	ada	yes
+Whitehorn	ada	yes
+Rundle	ada	yes
+Franklin	ada	yes
+Max Bell	ada	yes
+Zoo	ada	yes
+Marlborough	ada	yes
+Memorial	ada	yes
+Centre Street	ada	yes
+4 Street Southwest	ada	yes
+7 Street Southwest	ada	yes
+City Hall	ada	yes
+Stampede	ada	yes
+39 Avenue	ada	yes
+Stampede	ada	yes
+Southland	ada	yes
+Anderson	ada	yes
+Canyon Meadows	ada	yes
+Shawnessy	ada	yes
+Fish Creek – Lacombe	ada	yes
+Somerset – Bridlewood	ada	yes
+Sunset Transit Center	ada	yes
+Beaverton Central MAX Station	ada	yes
+Hatfield Government Center MAX Station	ada	yes
+Southwest 170th Avenue MAX Station	ada	yes
+Southeast 12th Avenue MAX Station	ada	yes
+Beaverton Creek MAX Station	ada	yes
+Millikan Way MAX Station	ada	yes
+Hillsboro Airport MAX Station	ada	yes
+Southwest 158th Avenue MAX Station	ada	yes
+Hawthorn Farm MAX Station	ada	yes
+Northwest 205th Avenue MAX Station	ada	yes
+Northwest 231st Avenue MAX Station	ada	yes
+Southwest 185th Avenue Transit Center	ada	yes
+Sumner Transit Center	ada	yes
+Mt Hood Ave MAX Station	ada	yes
+Portland International Airport MAX Station	ada	yes
+Dudley Square	ada	Yes
+White Plains	ada	yes
+King City GO Station	ada	Yes
+Bradford GO Station	ada	Yes
+Rutherford GO Station	ada	Yes
+Old Cummer GO Station	ada	yes
+East Gwillimbury GO Station	ada	Yes
+Aurora GO Station	ada	Yes
+Langstaff GO Station	ada	yes
+Richmond Hill GO Station	ada	yes
+Maple GO Station	ada	Yes
+Maverick	ada	yes
+Fields Corner	ada	yes
+Ashmont	ada	Yes
+Sullivan Square	ada	Yes
+South Attleboro	ada	yes
+Centennial GO Station	ada	Yes
+Agincourt GO Station	ada	Yes
+Mount Joy GO Station	ada	Yes
+Unionville GO Station	ada	yes
+Kennedy GO Station	ada	yes
+Markham GO Station	ada	yes
+Milliken GO Station	ada	Yes
+Stouffville GO Station	ada	Yes
+Port Credit GO Station	ada	Yes
+Clarkson GO Station	ada	Yes
+Rouge Hill GO Station	ada	Yes
+Bronte GO Station	ada	yes
+Burlington GO Station	ada	Yes
+Scarborough GO Station	ada	Yes
+Ajax GO Station	ada	Yes
+Whitby GO Station	ada	Yes
+Aldershot GO Station	ada	Yes
+Hamilton GO Centre	ada	Yes
+Guildwood GO Station	ada	Yes
+Pickering GO Station	ada	Yes
+Oakville GO Station	ada	Yes
+Oshawa GO Station	ada	Yes
+Mount Vernon West	ada	yes
+Clementi MRT Station	ada	Yes
+İstanbul Sirkeci Terminal	ada	Yes
+İstanbul Haydarpaşa Terminal	ada	Yes
+Atlantic Terminal	ada	Yes
+Grand Park station	ada	yes
+Bukit Batok MRT Station	ada	Yes
+Lisgar GO Station	ada	Yes
+Princeton	ada	Yes
+Stamford Transportation Center	ada	yes
+Somerset MRT Station	ada	Yes
+Buangkok MRT Station	ada	Yes
+Potong Pasir MRT Station	ada	Yes
+Newton MRT Station	ada	Yes
+Serangoon MRT Station	ada	yes
+Kovan MRT Station	ada	Yes
+Hougang MRT Station	ada	Yes
+Farrer Park MRT Station	ada	Yes
+Tanah Merah MRT Station	ada	Yes
+Lindenwold station	ada	Yes
+Atlantic City Rail Terminal	ada	Yes
+Trenton Transit Center	ada	true
+World Trade Center	ada	Yes
+Mattapan	ada	Yes
+Providence station	ada	true
+Metro Center station	ada	yes
+Pershing Square station	ada	yes
+Foxboro	ada	Yes
+Vine station	ada	yes
+Pico station	ada	yes
+MacPherson MRT Station	ada	Yes
+Botanic Gardens MRT Station	ada	Yes
+Promenade MRT Station	ada	Yes
+Highland station	ada	yes
+Studio City station	ada	yes
+North Hollywood station	ada	yes
+Springfield Union Station	ada	Yes
+Toa Payoh MRT Station	ada	Yes
+Jefferson Station	ada	true
+16th Street Mission station	ada	Yes
+24th Street Mission station	ada	Yes
+Glen Park station	ada	Yes
+Balboa Park station	ada	Yes
+Daly City station	ada	Yes
+Colma station	ada	Yes
+South San Francisco station	ada	Yes
+Sembawang MRT Station	ada	Yes
+Compton station	ada	yes
+Western station	ada	yes
+West Oakland station	ada	Yes
+T. F. Green Airport	ada	yes
+Quincy Adams	ada	Yes
+12th Street Oakland City Center station	ada	Yes
+Lake Merritt station	ada	Yes
+19th Street Oakland station	ada	Yes
+Yishun MRT Station	ada	Yes
+Fruitvale station	ada	Yes
+Rockridge station	ada	Yes
+Castro Valley station	ada	Yes
+Lafayette station	ada	Yes
+Orinda station	ada	Yes
+Walnut Creek station	ada	yes
+Contra Costa Centre station	ada	Yes
+Arlington	ada	Yes
+Concord station	ada	Yes
+Museum of Fine Arts	ada	Yes
+San Leandro station	ada	Yes
+Revere Beach	ada	yes
+Community College	ada	Yes
+Bay Fair station	ada	Yes
+Fremont station	ada	Yes
+Ashby station	ada	Yes
+Richmond station	ada	Yes
+MacArthur station	ada	yes
+Watertown Square	ada	Yes
+Norristown Transportation Center	ada	yes
+Green Street	ada	Yes
+Surrey Central station	ada	yes
+Novena MRT Station	ada	Yes
+Braddell MRT Station	ada	Yes
+Bugis MRT Station	ada	Yes
+Boon Keng MRT Station	ada	Yes
+Woodleigh MRT Station	ada	Yes
+Commonwealth MRT Station	ada	Yes
+Tiong Bahru MRT Station	ada	Yes
+Finch Bus Terminal	ada	Yes
+Union Station Bus Terminal	ada	Yes
+Downtown Berkeley station	ada	Yes
+Central Station	ada	yes
+Bukit Gombak MRT Station	ada	Yes
+Yew Tee MRT Station	ada	Yes
+Kranji MRT Station	ada	Yes
+Marsiling MRT Station	ada	Yes
+Woodlands MRT Station	ada	Yes
+Admiralty MRT Station	ada	Yes
+Eunos MRT Station	ada	Yes
+Aljunied MRT Station	ada	Yes
+Yio Chu Kang MRT Station	ada	Yes
+Kallang MRT Station	ada	Yes
+Lavender MRT Station	ada	Yes
+Kembangan MRT Station	ada	Yes
+Khatib MRT Station	ada	Yes
+Redhill MRT Station	ada	Yes
+Bedok MRT Station	ada	Yes
+Queenstown MRT Station	ada	Yes
+Chinese Garden MRT Station	ada	Yes
+Tanjong Pagar MRT Station	ada	Yes
+Lakeside MRT Station	ada	Yes
+Pioneer MRT Station	ada	Yes
+Stadium MRT Station	ada	Yes
+Joo Koon MRT Station	ada	Yes
+Nicoll Highway MRT Station	ada	Yes
+Dakota MRT Station	ada	Yes
+Mountbatten MRT Station	ada	Yes
+Tai Seng MRT Station	ada	Yes
+Bartley MRT Station	ada	Yes
+Lorong Chuan MRT Station	ada	yes
+Marymount MRT Station	ada	Yes
+Bras Basah MRT Station	ada	Yes
+Esplanade MRT Station	ada	Yes
+Union City station	ada	Yes
+North Berkeley station	ada	Yes
+Downtown MRT Station	ada	Yes
+Telok Ayer MRT Station	ada	Yes
+Bayfront MRT Station	ada	Yes
+Jerusalem Malha Railway Station	ada	yes
+New Westminster station	ada	yes
+Texas and Pacific Railroad Depot	ada	Yes
+Ottawa Train Station	ada	Yes
+Pleasanton station	ada	Yes
+South Hayward station	ada	Yes
+Hayward station	ada	Yes
+LaSalle Street Station	ada	true
+Richmond Main Street Station	ada	Yes
+Wonderland	ada	yes
+Tufts Medical Center	ada	Yes
+Smiths Falls railway station	ada	Yes
+Brockville railway station	ada	yes
+Kingston railway station	ada	yes
+Napanee railway station	ada	yes
+Belleville railway station	ada	yes
+Trenton Junction railway station	ada	yes
+Cobourg railway station	ada	yes
+Port Hope railway station	ada	Yes
+Guelph Central Station	ada	yes
+Durham–UNH station	ada	yes
+Kitchener railway station	ada	Yes
+Stratford railway station	ada	Yes
+London railway station	ada	Yes
+One-north MRT Station	ada	Yes
+Lougheed Town Centre station	ada	yes
+Mississippi MAX Station	ada	yes
+Overlook Park MAX Station	ada	yes
+North Prescott Street MAX Station	ada	yes
+North Killingsworth Street MAX Station	ada	yes
+Rosa Parks MAX Station	ada	yes
+North Lombard Transit Center	ada	yes
+Vanport MAX Station	ada	yes
+Expo Center MAX Station	ada	yes
+Temple University station	ada	yes
+Overbrook station	ada	yes
+Radnor station	ada	yes
+Wayne station	ada	Yes
+Strafford station	ada	yes
+Berwyn station	ada	Yes
+Thorndale station	ada	yes
+Exton station	ada	Yes
+Cascades MAX Station	ada	yes
+Kelso Multimodal Transportation Center	ada	Yes
+Colonel Allensworth State Historic Park	ada	No
+Charlottesville Union Station	ada	yes
+St. Catharines railway station	ada	Yes
+Niagara Falls railway station	ada	Yes
+Martinez station	ada	Yes
+Bay Point station	ada	Yes
+Renfrew station	ada	yes
+Majorstuen	ada	Yes
+Melrose Park station	ada	yes
+Senja LRT Station	ada	Yes
+Fox Chase station	ada	Yes
+LAX station	ada	yes
+Production Way–University station	ada	yes
+Rupert station	ada	yes
+Brentwood Town Centre station	ada	yes
+Holdom station	ada	yes
+Pasir Panjang MRT Station	ada	Yes
+Kent Ridge MRT Station	ada	Yes
+Haw Par Villa MRT Station	ada	Yes
+Telok Blangah MRT Station	ada	Yes
+Farrer Road MRT Station	ada	Yes
+Holland Village MRT Station	ada	Yes
+Labrador Park MRT Station	ada	Yes
+Bukit Brown MRT Station	ada	Yes
+Caldecott MRT Station	ada	Yes
+Santa Monica station	ada	yes
+Jar	ada	Yes
+Fairview Park Mall	ada	yes
+Blindern	ada	Yes
+El Cerrito del Norte station	ada	Yes
+El Cerrito Plaza station	ada	Yes
+Ullevål stadion	ada	Yes
+Pacific Central Station	ada	Yes
+Adelaide Parklands Terminal	ada	Yes
+VCC–Clark station	ada	yes
+Bekkestua	ada	Yes
+Vancouver station	ada	Yes
+Andrew	ada	Yes
+Queen Street bus station	ada	yes
+Chaiya Railway Station	ada	yes
+Cultural Centre busway station	ada	yes
+High School tram stop	ada	yes
+Royal Centre tram stop	ada	yes
+Alvarado Transportation Center	ada	yes
+5th Street station	ada	yes
+Emeryville station	ada	yes
+Savin Hill	ada	Yes
+Church station	ada	yes
+Seneca station	ada	yes
+Theater station	ada	yes
+Erie Canal Harbor station	ada	yes
+Special Events station	ada	yes
+Lafayette Square station	ada	yes
+Fountain Plaza station	ada	yes
+Reading Terminal	ada	No
+South Acton	ada	yes
+Warminster station	ada	yes
+Crestmont station	ada	yes
+Ardsley station	ada	yes
+Roslyn station	ada	yes
+Fern Rock Transportation Center	ada	yes
+North Broad station	ada	Yes
+University City station	ada	yes
+Eastwick station	ada	yes
+Norwood station	ada	yes
+Folcroft station	ada	yes
+Claymont station	ada	true
+Churchmans Crossing station	ada	Yes
+Newark station	ada	true
+Spring Mill station	ada	Yes
+Bala station	ada	yes
+Elm Street station	ada	Yes
+Cynwyd station	ada	yes
+Doylestown station	ada	Yes
+Delaware Valley College station	ada	Yes
+New Britain station	ada	Yes
+Colmar station	ada	Yes
+Link Belt station	ada	Yes
+Chalfont station	ada	Yes
+North Wales station	ada	Yes
+Ambler station	ada	Yes
+Fort Washington station	ada	Yes
+Pennbrook station	ada	Yes
+Lansdale station	ada	Yes
+Lawndale station	ada	yes
+Cheltenham station	ada	Yes
+Ryers station	ada	yes
+49th Street station	ada	yes
+Primos station	ada	yes
+Media station	ada	yes
+Elwyn station	ada	yes
+Toronto Coach Terminal	ada	yes
+San Jose Diridon station	ada	Yes
+Airport	ada	true
+Novoyasenevskaya	ada	Yes
+Burbank–Bob Hope Airport station	ada	Yes
+North Hanley station	ada	yes
+UMSL North station	ada	yes
+Wellston station	ada	yes
+Rock Road station	ada	yes
+UMSL South station	ada	yes
+Woodside	ada	Yes
+Edmonds station	ada	yes
+22nd Street station	ada	yes
+Gateway station	ada	yes
+Avenel	ada	yes
+Spartak	ada	Yes
+Quincy Center	ada	Yes
+Sunset station	ada	yes
+Richmond Hill Centre Terminal	ada	Yes
+Everett Station	ada	Yes
+Promenade Terminal	ada	yes
+Newmarket Bus Terminal	ada	Yes
+Delmar Loop station	ada	yes
+Forest Park–DeBaliviere station	ada	yes
+King George Square busway station	ada	yes
+UH–Downtown	ada	Yes
+Preston	ada	Yes
+Main Street Square	ada	Yes
+Bell	ada	Yes
+Downtown Transit Center	ada	Yes
+McGowen	ada	Yes
+HCC	ada	Yes
+Wheeler	ada	yes
+Rice University	ada	Yes
+Museum District	ada	Yes
+Houston Zoo	ada	Yes
+TMC	ada	Yes
+Texas Medical Center Transit Center	ada	Yes
+Wood Island	ada	yes
+Harrisburg Transportation Center	ada	yes
+North Quincy	ada	Yes
+Keat Hong LRT Station	ada	Yes
+Phoenix LRT Station	ada	Yes
+Teck Whye LRT Station	ada	Yes
+South View LRT Station	ada	Yes
+Petir LRT Station	ada	Yes
+Bangkit LRT Station	ada	Yes
+Compassvale LRT Station	ada	Yes
+Segar LRT Station	ada	Yes
+Bakau LRT Station	ada	Yes
+Fajar LRT Station	ada	Yes
+Pending LRT Station	ada	Yes
+Kangkar LRT Station	ada	Yes
+Rumbia LRT Station	ada	Yes
+Jelapang LRT Station	ada	Yes
+Ranggung LRT Station	ada	Yes
+Ten Mile Junction LRT Station	ada	Yes
+Kupang LRT Station	ada	Yes
+Cheng Lim LRT Station	ada	Yes
+Farmway LRT Station	ada	Yes
+Thanggam LRT Station	ada	Yes
+Layar LRT Station	ada	Yes
+Fernvale LRT Station	ada	Yes
+Tongkang LRT Station	ada	Yes
+Cove LRT Station	ada	Yes
+Renjong LRT Station	ada	Yes
+Meridian LRT Station	ada	Yes
+Coral Edge LRT Station	ada	Yes
+Kadaloor LRT Station	ada	Yes
+Oasis LRT Station	ada	Yes
+Damai LRT Station, Singapore	ada	Yes
+Riviera LRT Station	ada	Yes
+Teck Lee LRT Station	ada	Yes
+Nibong LRT Station	ada	Yes
+Sam Kee LRT Station	ada	Yes
+Samudera LRT Station	ada	Yes
+Sumang LRT Station	ada	Yes
+Soo Teck LRT Station	ada	Yes
+LATTC station	ada	yes
+Morton station	ada	yes
+Swarthmore station	ada	yes
+Croton Falls	ada	yes
+Purdy's	ada	yes
+Katonah	ada	yes
+Goldens Bridge	ada	yes
+Howard station	ada	True
+Exchange Place station	ada	yes
+World Trade Center station	ada	yes
+Bangkok Railway Station	ada	yes
+Bedford Hills	ada	yes
+Pleasantville	ada	yes
+Mount Kisco	ada	yes
+Hawthorne	ada	yes
+Valhalla	ada	yes
+Botanical Garden	ada	yes
+Danbury	ada	yes
+Lake City Way station	ada	yes
+Albany–Rensselaer station	ada	Yes
+Rhinecliff–Kingston station	ada	Yes
+Hazlet station	ada	yes
+Morristown	ada	yes
+Smith Lands	ada	Yes
+Reliant Park	ada	Yes
+Fannin South	ada	Yes
+Newark Broad Street station	ada	yes
+Mater Hill busway station	ada	yes
+South Bank busway station	ada	yes
+Woolloongabba busway station	ada	yes
+Buranda busway station	ada	yes
+Greenslopes busway station	ada	yes
+Griffith University busway station	ada	yes
+Holland Park West busway station	ada	yes
+Eight Mile Plains busway station	ada	yes
+Upper Mount Gravatt busway station	ada	yes
+Roma Street busway station	ada	yes
+Normanby busway station	ada	yes
+QUT Kelvin Grove busway station	ada	yes
+Herston busway station	ada	yes
+Mount Moriah station	ada	no
+Theatre District–Convention Center station	ada	Yes
+Central station	ada	yes
+Hemming Park station	ada	yes
+Rosa Parks Transit Station	ada	yes
+Convention Center station	ada	yes
+Jefferson station	ada	yes
+Kings Avenue station	ada	yes
+Riverplace station	ada	yes
+San Marco station	ada	yes
+Browns Plains bus station	ada	yes
+Cannon Hill bus station	ada	yes
+Carindale bus station	ada	yes
+Chermside bus station	ada	yes
+Garden City bus station	ada	yes
+Inala bus station	ada	yes
+Indooroopilly bus station	ada	yes
+Springwood bus station	ada	yes
+Toombul bus interchange	ada	yes
+Victoria Point bus station	ada	yes
+University of Queensland bus station	ada	yes
+Caloundra bus station	ada	Yes
+Noosa Heads bus station	ada	Yes
+2nd Street	ada	yes
+9th Street-Congress Street	ada	yes
+Pavonia-Newport	ada	yes
+Harsimus Cove	ada	yes
+Harborside	ada	yes
+Exchange Place	ada	yes
+West Side Avenue	ada	yes
+Garfield Avenue	ada	yes
+Liberty State Park	ada	yes
+Jersey Avenue	ada	yes
+Marin Boulevard	ada	yes
+Essex Street	ada	yes
+45th Street	ada	yes
+34th Street	ada	yes
+Richard Street	ada	yes
+22nd Street	ada	yes
+Lincoln Harbor	ada	yes
+Downtown Campbell	ada	true
+Point Pleasant Beach station	ada	yes
+Museum Park station	ada	Yes
+Sperling–Burnaby Lake station	ada	yes
+Gilmore station	ada	yes
+Civic Drive MAX Station	ada	yes
+Tonnelle Avenue	ada	yes
+Bergenline Avenue	ada	yes
+Central Railroad of New Jersey Terminal	ada	No
+Greensboro station	ada	yes
+Reston Town Center station	ada	yes
+Wiehle–Reston East station	ada	yes
+Dan Ryan station	ada	True
+Copley	ada	Yes
+Wickford Junction	ada	yes
+Montvale	ada	Yes
+Westwood	ada	Yes
+Prudential	ada	yes
+33rd Street station	ada	yes
+Niagara Falls station	ada	Yes
+Frankford Transportation Center	ada	true
+Chicago station	ada	True
+William F. Walsh Regional Transportation Center	ada	Yes
+Sendero	ada	Yes
+Universidad	ada	Yes
+San Fernando	ada	true
+Convention Center	ada	true
+Rochester station	ada	Yes
+Rahway station	ada	yes
+New Brunswick station	ada	true
+Ayer	ada	true
+Civic Center	ada	true
+Karina	ada	true
+Gish	ada	true
+Component	ada	true
+River Oaks	ada	true
+Bonaventura	ada	true
+Orchard	ada	true
+Race	ada	true
+Fruitdale	ada	true
+Bascom	ada	true
+Hamilton	ada	true
+Winchester Transit Center	ada	true
+Champion	ada	true
+Lick Mill	ada	true
+Great America	ada	true
+Mastic–Shirley	ada	yes
+13th Street station	ada	yes
+Granville station	ada	yes
+Tasman	ada	true
+Allen Lane station	ada	Yes
+Gravers station	ada	Yes
+Mount Airy station	ada	Yes
+Loyola station	ada	yes
+Belmont station	ada	True
+Wells	ada	Yes
+Merchandise Mart station	ada	True
+Chicago	ada	true
+I-25 & Broadway station	ada	Yes
+Springfield station	ada	yes
+Hudson station	ada	Yes
+Schenectady station	ada	Yes
+Saratoga Springs station	ada	yes
+Union Station	ada	Yes
+Tanjong Pagar railway station	ada	No
+Rome station	ada	Yes
+Buffalo–Depew station	ada	Yes
+Red Bank station	ada	yes
+Buffalo–Exchange Street station	ada	Yes
+Whitehall station	ada	yes
+Tuscaloosa station	ada	Yes
+Linden	ada	yes
+Elizabeth	ada	yes
+Summit	ada	yes
+North Elizabeth	ada	yes
+Kongens Nytorv Station	ada	yes
+Broadway	ada	Yes
+Bayside	ada	Yes
+Santa Fe Depot	ada	Yes
+Trindade station	ada	Yes
+Children's Discovery Museum	ada	true
+Virginia	ada	true
+Main Transit Center	ada	true
+Milpitas	ada	true
+Cisco Way	ada	true
+Baypointe	ada	true
+Montague	ada	true
+Cropley	ada	true
+Hostetter	ada	true
+Berryessa station	ada	true
+Penitencia Creek	ada	true
+McKee	ada	true
+Alum Rock Transit Center	ada	true
+Tamien Station	ada	true
+Downtown Mountain View Station	ada	Yes
+Burnsville Center	ada	Yes
+Cottle	ada	true
+Curtner	ada	true
+Capitol	ada	true
+Branham	ada	true
+Snell	ada	true
+Blossom Hill	ada	true
+Douglaston	ada	yes
+Little Neck	ada	yes
+Santa Teresa	ada	true
+Plandome	ada	yes
+Manhasset	ada	yes
+Great Neck	ada	yes
+Port Washington	ada	yes
+Chinatown	ada	Yes
+Roxbury Crossing	ada	Yes
+Lansdowne station	ada	yes
+Richmond–Brighouse station	ada	yes
+Aberdeen station	ada	yes
+Union	ada	yes
+Cranford	ada	yes
+Westfield	ada	yes
+Plainfield	ada	yes
+Hamilton Avenue	ada	yes
+Cass Street	ada	yes
+Bordentown	ada	yes
+Florence	ada	yes
+Roebling	ada	yes
+Burlington Towne Centre	ada	yes
+Burlington South	ada	yes
+Edgewater Park	ada	yes
+Delanco	ada	yes
+Riverside	ada	yes
+Cinnaminson	ada	yes
+Riverton	ada	yes
+Palmyra	ada	yes
+Pennsauken–Route 73	ada	yes
+36th Street	ada	yes
+Aquarium	ada	yes
+Cooper Street – Rutgers University	ada	yes
+Entertainment Center	ada	yes
+Walter Rand Transportation Center	ada	yes
+Arts Center station	ada	YES
+North Avenue station	ada	Yes
+Midtown station	ada	Yes
+Civic Center station	ada	Yes
+Union Station	ada	Yes
+Santa Clara station	ada	Yes
+Peachtree Center station	ada	Yes
+Massachusetts Avenue	ada	Yes
+Fenway	ada	yes
+Lindbergh Center station	ada	YES
+Five Points station	ada	Yes
+Georgia State station	ada	YES
+15–16th & Locust station	ada	Yes
+Walnut–Locust station	ada	Yes
+Decatur station	ada	YES
+Doraville station	ada	Yes
+Avondale station	ada	YES
+De Soto station	ada	yes
+Warner Center station	ada	yes
+Pierce College station	ada	yes
+Tampa station	ada	yes
+Reseda station	ada	yes
+Balboa station	ada	yes
+Woodley station	ada	yes
+Sepulveda station	ada	yes
+Van Nuys station	ada	yes
+Woodman station	ada	yes
+Valley College station	ada	yes
+Laurel Canyon station	ada	yes
+ Reynoldstown station	ada	YES
+ Candler Park station	ada	YES
+King Memorial station	ada	YES
+East Lake station	ada	YES
+Buckhead station	ada	YES
+Lenox station	ada	Yes
+ CNN Center station	ada	YES
+Vine City station	ada	YES
+West End station	ada	YES
+Garnett station	ada	YES
+Ashby station	ada	YES
+Hewlett	ada	yes
+Gibson	ada	yes
+Far Rockaway	ada	yes
+Woodmere	ada	yes
+Lawrence	ada	yes
+Inwood	ada	yes
+Cedarhurst	ada	yes
+Valley Stream	ada	yes
+Oglethorpe station	ada	Yes
+Chamblee station	ada	Yes
+ Fort McPherson station	ada	YES
+Oakland City station	ada	YES
+East Point station	ada	YES
+College Park station	ada	YES
+Airport station	ada	YES
+Kensington station	ada	YES
+Indian Creek station	ada	YES
+Bankhead station	ada	YES
+West Lake station	ada	YES
+Hamilton E. Holmes station	ada	YES
+Medical Center station	ada	YES
+Dunwoody station	ada	YES
+North Springs station	ada	YES
+Sandy Springs station	ada	YES
+Lambert Airport Terminal 1 station	ada	yes
+Lambert Airport Terminal 2 station	ada	yes
+Central West End station	ada	yes
+Union Station	ada	yes
+Grand station	ada	yes
+8th & Pine station	ada	yes
+Convention Center station	ada	yes
+Laclede's Landing station	ada	yes
+Stadium station	ada	yes
+East Riverfront station	ada	yes
+Peachtree station	ada	Yes
+Florenc	ada	Yes
+Můstek	ada	Yes
+Glenview station	ada	yes
+Olney Transportation Center	ada	yes
+Bridgeport station	ada	yes
+Downtown Long Beach station	ada	yes
+1st Street station	ada	yes
+Pacific Avenue station	ada	yes
+5th Street station	ada	yes
+Anaheim Street station	ada	yes
+Pacific Coast Highway station	ada	yes
+Willow Street station	ada	yes
+Wardlow station	ada	yes
+Del Amo station	ada	yes
+YVR–Airport station	ada	yes
+Marine Drive station	ada	yes
+Langara–49th Avenue station	ada	yes
+Oakridge–41st Avenue station	ada	yes
+Artesia station	ada	yes
+Watts Towers station	ada	yes
+Florence station	ada	yes
+Vernon station	ada	yes
+Slauson station	ada	yes
+Washington station	ada	yes
+Templeton station	ada	yes
+King Edward station	ada	yes
+Sea Island Centre station	ada	yes
+San Pedro Street station	ada	yes
+Broadway–City Hall station	ada	yes
+Olympic Village station	ada	yes
+Yaletown–Roundhouse station	ada	yes
+Vancouver City Centre station	ada	yes
+Monumento LRT Station	ada	yes
+Doroteo Jose LRT Station	ada	Yes
+EDSA LRT Station	ada	Yes
+Vermont station	ada	yes
+Recto LRT Station	ada	Yes
+18th	ada	True
+Araneta Center–Cubao LRT Station	ada	Yes
+Edison	ada	yes
+Metuchen	ada	yes
+Hamilton	ada	yes
+Katipunan LRT Station	ada	Yes
+Chinatown station	ada	yes
+Bound Brook	ada	No
+Somerville	ada	Yes
+Addison station	ada	yes
+Zhulebino	ada	Yes
+V. Mapa LRT Station	ada	Yes
+Legarda LRT Station	ada	Yes
+Santolan LRT Station	ada	Yes
+Hartsdale	ada	Yes
+Ørestad Station	ada	yes
+Ahmedabad Junction railway station	ada	Yes
+West Chester Transportation Center	ada	yes
+Ottawa Central Station	ada	Yes
+Fleetwood	ada	yes
+Bulimba ferry terminal	ada	yes
+Teneriffe ferry wharf	ada	yes
+New Farm Park ferry wharf	ada	yes
+Mowbray Park ferry wharf	ada	yes
+Hawthorne ferry wharf	ada	yes
+Sydney Street ferry wharf	ada	yes
+Dockside ferry wharf	ada	yes
+Eagle Street Pier ferry wharf	ada	yes
+Riverside ferry wharf	ada	yes
+QUT Gardens Point ferry wharf	ada	yes
+South Bank ferry wharf	ada	yes
+North Quay ferry wharf	ada	yes
+Stadium LRT Station	ada	Yes
+Stadium LRT Station	ada	yes
+Guyatt Park ferry wharf	ada	yes
+West End ferry wharf	ada	yes
+Regatta ferry wharf	ada	yes
+Martin Luther King Jr. Plaza	ada	Yes
+Cleveland Lakefront Station	ada	Yes
+Mount Vernon East	ada	yes
+Danville station	ada	Yes
+North Avenue MRT Station	ada	Yes
+Shaw Boulevard MRT Station	ada	Yes
+New Rochelle station	ada	Yes
+Larchmont	ada	yes
+North Coast	ada	Yes
+Flats East Bank	ada	Yes
+Tower City–Public Square	ada	Yes
+Cedar–University	ada	Yes
+Cleveland Hopkins International Airport	ada	Yes
+Harrison	ada	yes
+Belgrade Centre railway station	ada	Yes
+Araneta Center–Cubao MRT Station	ada	Yes
+Ayala MRT Station	ada	Yes
+South Norwalk	ada	yes
+New Haven State Street station	ada	Yes
+Rye	ada	yes
+Bridgeport station	ada	yes
+Broadway	ada	Yes
+Kamuning MRT Station	ada	Yes
+Bethayres station	ada	Yes
+Philmont station	ada	yes
+Forest Hills station	ada	Yes
+Trevose station	ada	Yes
+Somerton station	ada	Yes
+Neshaminy Falls station	ada	Yes
+Queen Lane station	ada	Yes
+Chestnut Hill West station	ada	yes
+Greenwich	ada	yes
+Memphis Central Station	ada	Yes
+Cornwells Heights station	ada	true
+West Park	ada	Yes
+West 25th – Ohio City	ada	Yes
+Croydon station	ada	Yes
+Taft Avenue MRT Station	ada	Yes
+Quezon Avenue MRT Station	ada	Yes
+Wynnewood Road station	ada	Yes
+Ardmore Avenue station	ada	yes
+Gulph Mills station	ada	Yes
+Bridgeport station	ada	Yes
+Bethel	ada	yes
+Hamburg Hauptbahnhof	ada	Yes
+Redding	ada	yes
+Branchville	ada	yes
+Cannondale	ada	yes
+Wilton	ada	yes
+Brookline Village	ada	Yes
+Sognsvann	ada	Yes
+Ris	ada	Yes
+Orient Heights	ada	yes
+Beachmont	ada	yes
+Suffolk Downs	ada	yes
+Kimball station	ada	yes
+Kedzie station	ada	yes
+Francisco station	ada	yes
+Rockwell station	ada	yes
+Western station	ada	yes
+Damen station	ada	Yes
+Montrose station	ada	yes
+Irving Park station	ada	Yes
+Paulina station	ada	Yes
+Addison station	ada	yes
+Southport station	ada	True
+Van Buren Street station	ada	Yes
+Center Street	ada	yes
+Riverfront Stadium	ada	yes
+Norman Depot	ada	Yes
+Hicksville	ada	yes
+Husum station	ada	Yes
+Milwaukee Airport Railroad Station	ada	yes
+Joliet Union Station	ada	Yes
+Clackamas Town Center Transit Center	ada	yes
+Central	ada	Yes
+Rice Street	ada	Yes
+Lexington Parkway	ada	Yes
+Fairview Avenue	ada	Yes
+Snelling Avenue	ada	Yes
+Westgate	ada	Yes
+Prospect Park	ada	Yes
+Stadium Village	ada	Yes
+Dale Street	ada	Yes
+Raymond Avenue	ada	Yes
+West Bank	ada	Yes
+Robert Street station	ada	Yes
+East Bank	ada	Yes
+Tucson station	ada	Yes
+Saint-Lambert railway station	ada	yes
+Miami Airport Station	ada	Yes
+AT&T Station	ada	yes
+Santa Fe Depot	ada	Yes
+Lorton station	ada	Yes
+Washington Park	ada	yes
+Atlantic Street	ada	yes
+Salisbury Mills–Cornwall	ada	yes
+Forest Hills	ada	yes
+Woodbridge	ada	Yes
+Lancaster station	ada	yes
+Mount Joy station	ada	Yes
+Elizabethtown station	ada	yes
+Altoona Transportation Center	ada	Yes
+Johnstown station	ada	Yes
+Skinker station	ada	yes
+University City–Big Bend station	ada	yes
+Forsyth station	ada	yes
+Greensburg station	ada	Yes
+East Orange	ada	yes
+South Orange	ada	yes
+Madison	ada	yes
+Denville	ada	yes
+Dover	ada	Yes
+Mount Arlington	ada	yes
+Hackettstown	ada	yes
+Lyons	ada	yes
+Gladstone	ada	yes
+Woodcrest station	ada	Yes
+Upper Montclair	ada	No
+Bloomfield	ada	No
+Bay Street	ada	yes
+Walnut Street	ada	no
+Montclair State University	ada	yes
+Lincoln Park	ada	yes
+Wayne Route 23 Transit Center	ada	Yes
+Mountain View	ada	yes
+Boonton	ada	Yes
+Montclair Heights	ada	yes
+Towaco	ada	yes
+Clayton station	ada	yes
+Luz Station	ada	true
+Cherry Hill station	ada	Yes
+Atco station	ada	yes
+2nd Street station	ada	yes
+Girard station	ada	Yes
+Nanuet station	ada	yes
+Spring Valley station	ada	yes
+Berks station	ada	Yes
+York–Dauphin station	ada	Yes
+Davis station	ada	Yes
+Linden station	ada	yes
+Huntingdon station	ada	Yes
+Campbell Hall	ada	yes
+Dempster–Skokie station	ada	Yes
+Somerset station	ada	Yes
+Allegheny station	ada	Yes
+Tioga station	ada	Yes
+Erie–Torresdale station	ada	Yes
+Church station	ada	Yes
+8th Street	ada	yes
+Middletown–Town of Wallkill	ada	yes
+Harriman	ada	Yes
+Oakland Coliseum station	ada	Yes
+Savannah station	ada	Yes
+Sacramento Valley Station	ada	Yes
+Western station	ada	yes
+US 550	ada	yes
+Journal Center	ada	yes
+Island Park	ada	yes
+Elyria station	ada	Yes
+Nahariya Railway Station	ada	Yes
+Acre Railway Station	ada	Yes
+Kiryat Motzkin Railway Station	ada	Yes
+Kiryat Haim Railway Station	ada	Yes
+Hutzot HaMifratz Railway Station	ada	Yes
+Lev HaMifratz Railway Station	ada	Yes
+Haifa Center HaShmona Railway Station	ada	Yes
+Haifa Bat Galim Railway Station	ada	No
+Atlit Railway Station	ada	yes
+Tel Aviv Savidor Central Railway Station	ada	yes
+Fullerton station	ada	true
+Beaufort railway station, Victoria	ada	Yes
+Cleveland Circle	ada	Yes
+Millbourne station	ada	Yes
+63rd Street station	ada	yes
+52nd Street station	ada	yes
+60th Street station	ada	yes
+56th Street station	ada	yes
+46th Street station	ada	yes
+Richmond Heights station	ada	yes
+Brentwood I-64 station	ada	yes
+Sunnen station	ada	yes
+Maplewood–Manchester station	ada	yes
+Shrewsbury–Lansdowne I-44 station	ada	yes
+College station	ada	yes
+Joseph Scelsi Intermodal Transportation Center	ada	Yes
+Capital Area Multimodal Gateway	ada	Yes
+Yuma station	ada	Yes
+Lincoln station	ada	yes
+Kalasatama metro station	ada	Yes
+Clybourn station	ada	No
+Rogers Park station	ada	True
+Evanston Main Street station	ada	True
+Evanston Davis Street station	ada	True
+Wilmette station	ada	true
+Manassas station	ada	Yes
+Oak Park station	ada	true
+Maywood station	ada	true
+Bellwood station	ada	true
+Melrose Park station	ada	True
+Berkeley station	ada	Yes
+Elmhurst station	ada	Yes
+Cicero station	ada	true
+Villa Park station	ada	Yes
+Crowfoot	ada	yes
+Kenilworth station	ada	true
+Laraway Road station	ada	Yes
+Woodbridge station	ada	YES
+11th Street station	ada	True
+McCormick Place station	ada	Yes
+55th–56th–57th Street station	ada	Yes
+115th Street station	ada	Yes
+Hegewisch station	ada	Yes
+Hammond station	ada	Yes
+Bartlett station	ada	Yes
+Big Timber Road station	ada	true
+Swansea station	ada	yes
+Division station	ada	yes
+Downtown Bernalillo	ada	yes
+Los Lunas	ada	yes
+Belen	ada	yes
+Cypress station	ada	yes
+Normandie station	ada	yes
+MacArthur Park station	ada	yes
+Beverly station	ada	yes
+Silver Line Way	ada	Yes
+Courthouse	ada	Yes
+Tampa Union Station	ada	Yes
+Sedgwick	ada	yes
+Ashland Transportation Center	ada	yes
+Kalamazoo Transportation Center	ada	Yes
+Moorpark station	ada	yes
+Churchill LRT Station	ada	Yes
+Coliseum LRT Station	ada	Yes
+Coliseum LRT Station	ada	yes
+Belvedere LRT Station	ada	Yes
+Belvedere LRT Station	ada	yes
+Clareview LRT Station	ada	Yes
+Clareview LRT Station	ada	yes
+Central LRT Station	ada	Yes
+Enterprise Square LRT Station	ada	Yes
+Corona LRT Station	ada	yes
+Grandin LRT Station	ada	yes
+University LRT Station	ada	Yes
+University LRT Station	ada	yes
+Jubilee LRT Station	ada	Yes
+Belgravia LRT Station	ada	Yes
+Fort Edmonton Park LRT Station	ada	Yes
+Fort Edmonton Park LRT Station	ada	yes
+Southgate LRT Station	ada	Yes
+Southgate LRT Station	ada	yes
+Century Park LRT Station	ada	Yes
+Century Park LRT Station	ada	yes
+Lake station	ada	True
+35th–Bronzeville–IIT	ada	True
+Indianapolis Union Station	ada	Yes
+Indiana	ada	True
+43rd	ada	True
+Clinton	ada	True
+Sox–35th station	ada	True
+Cottage Grove station	ada	True
+King Drive	ada	True
+63rd station	ada	True
+Halsted station	ada	True
+Garfield	ada	True
+51st	ada	True
+47th	ada	True
+Ashland	ada	True
+California	ada	True
+Kedzie	ada	True
+Conservatory–Central Park Drive	ada	True
+Lake station	ada	true
+Pulaski	ada	True
+Central	ada	Yes
+Laramie	ada	True
+Cicero	ada	True
+Van Buren	ada	True
+O'Hare station	ada	true
+Slavyansky Bulvar	ada	Yes
+Halsted station	ada	True
+Ashland station	ada	True
+Archer station	ada	True
+Kedzie station	ada	True
+Western station	ada	True
+Pulaski station	ada	True
+Midway station	ada	True
+Vendôme	ada	yes
+Grand station	ada	true
+Lake station	ada	True
+Jackson station	ada	True
+Cermak–Chinatown station	ada	yes
+47th station	ada	True
+Garfield station	ada	yes
+Rosemont station	ada	True
+Solana Beach station	ada	Yes
+Oceanside Transit Center	ada	Yes
+69th station	ada	True
+63rd station	ada	yes
+79th station	ada	True
+87th station	ada	yes
+Wellington	ada	true
+Diversey	ada	true
+Armitage	ada	Yes
+Western station	ada	True
+Logan Square station	ada	True
+Cumberland station	ada	True
+Harlem station	ada	True
+UIC–Halsted station	ada	True
+Jackson station	ada	True
+Illinois Medical District station	ada	True
+Kedzie–Homan station	ada	True
+Forest Park station	ada	True
+Polk	ada	True
+Damen station	ada	True
+California	ada	True
+Western station	ada	True
+Kedzie	ada	True
+Central Park	ada	True
+Pulaski	ada	True
+Kostner	ada	True
+Cicero	ada	True
+Cermak station	ada	True
+Pleasanton station	ada	Yes
+Culpeper station	ada	Yes
+Kemper Street station	ada	Yes
+Quantico station	ada	Yes
+Fredericksburg station	ada	Yes
+Williamsburg Transportation Center	ada	Yes
+Newport News station	ada	Yes
+Petersburg station	ada	Yes
+Brooke station	ada	Yes
+Leeland Road station	ada	Yes
+Rolling Road station	ada	Yes
+Backlick Road station	ada	Yes
+Rippon station	ada	Yes
+Broad Run station	ada	Yes
+Burke Centre station	ada	Yes
+Fullerton Transportation Center	ada	Yes
+Old Town Transit Center	ada	Yes
+Braeside station	ada	Yes
+Santa Ana Regional Transportation Center	ada	Yes
+Avalon station	ada	yes
+Long Beach Boulevard station	ada	yes
+Lakewood Boulevard station	ada	yes
+Norwalk station	ada	yes
+Harbor Freeway station	ada	yes
+Lennox station	ada	yes
+Crenshaw station	ada	yes
+Athens station	ada	yes
+Mariposa station	ada	yes
+El Segundo station	ada	yes
+Glendale Transportation Center	ada	Yes
+San Antonio station	ada	Yes
+Camarillo station	ada	Yes
+KLCC LRT Station	ada	Yes
+Kelana Jaya LRT Station	ada	Yes
+Hattiesburg station	ada	Yes
+Gainesville station	ada	Yes
+Union Station	ada	Yes
+Spartanburg station	ada	Yes
+Greenville station	ada	Yes
+Gastonia station	ada	Yes
+Charlotte station	ada	Yes
+Salisbury station	ada	Yes
+Kannapolis station	ada	Yes
+Burlington station	ada	Yes
+Durham station	ada	Yes
+Raleigh station	ada	Yes
+Cary station	ada	Yes
+Wilson station	ada	Yes
+Rocky Mount station	ada	Yes
+Asia Jaya LRT Station	ada	yes
+Conestoga Mall	ada	yes
+Mineola	ada	yes
+Merillon Avenue	ada	yes
+New Hyde Park	ada	yes
+Lynbrook	ada	yes
+Irvine Transportation Center	ada	yes
+Babylon	ada	yes
+Encinitas station	ada	Yes
+Damai LRT Station	ada	yes
+Ampang Park LRT Station	ada	yes
+Gombak LRT Station	ada	Yes
+Wangsa Maju LRT Station	ada	Yes
+Jelatek LRT Station	ada	yes
+Setiawangsa LRT Station	ada	yes
+Taman Melati LRT Station	ada	Yes
+Abdullah Hukum LRT Station	ada	yes
+Taman Jaya LRT Station	ada	yes
+Taman Bahagia LRT Station	ada	Yes
+Taman Paramount LRT Station	ada	Yes
+McKnight – Westwinds	ada	yes
+Orange station	ada	yes
+Ano Patisia metro station	ada	yes
+Santa Barbara station	ada	Yes
+Lake Highlands	ada	Yes
+9–10th & Locust station	ada	Yes
+Westbury	ada	yes
+Oak Forest station	ada	Yes
+Lexington Transit Center	ada	yes
+International Sunport	ada	yes
+Westport station	ada	yes
+Mars Station, Pennsylvania	ada	yes
+Kepong Sentral Komuter station	ada	Yes
+Absecon station	ada	Yes
+Albion station	ada	Yes
+Beit Yehoshua Railway Station	ada	yes
+Lake Bluff station	ada	Yes
+Ortigas MRT Station	ada	Yes
+Redondo Beach station	ada	yes
+Ann Arbor station	ada	Yes
+Camp de Tarragona railway station	ada	Yes
+Sandia Pueblo	ada	yes
+Isleta Pueblo	ada	yes
+Ardmore station	ada	yes
+Lysaker Station	ada	Yes
+UQ Lakes busway station	ada	yes
+Carpinteria station	ada	yes
+Ventura station	ada	Yes
+Western Avenue station	ada	true
+Aberdeen-Matawan station	ada	yes
+Davis station	ada	Yes
+Guadalupe station	ada	Yes
+Grover Beach station	ada	yes
+Oakland – Jack London Square station	ada	Yes
+Atmore station	ada	yes
+Bakersfield	ada	Yes
+Bangor station	ada	Yes
+Martinez station	ada	yes
+Niles station	ada	yes
+Battle Creek Transportation Center	ada	Yes
+51st–53rd Street	ada	Yes
+North Philadelphia station	ada	No
+Royal Oak station	ada	Yes
+John D. Dingell Transit Center	ada	Yes
+Detroit station	ada	Yes
+Dowagiac station	ada	yes
+Michigan City station	ada	Yes
+Hammond–Whiting station	ada	Yes
+30th Street station	ada	yes
+West Hempstead	ada	yes
+Westwood	ada	yes
+Suisun–Fairfield station	ada	Yes
+Canoga station	ada	yes
+Pepsi Center–Elitch Gardens station	ada	Yes
+Nine Mile station	ada	Yes
+Lincoln station	ada	Yes
+Littleton–Mineral station	ada	Yes
+30th & Downing station	ada	Yes
+Norman Park ferry wharf	ada	yes
+South Portsmouth–South Shore station	ada	Yes
+Auraria West station	ada	Yes
+Sports Authority Field at Mile High station	ada	Yes
+Alameda station	ada	Yes
+Colfax at Auraria station	ada	Yes
+Oxford–City of Sheridan station	ada	Yes
+Evans station	ada	Yes
+Littleton–Downtown station	ada	Yes
+Englewood station	ada	Yes
+Orchard station	ada	Yes
+County Line station	ada	Yes
+Arapahoe at Village Center station	ada	Yes
+Dry Creek station	ada	Yes
+Southmoor station	ada	Yes
+Dayton station	ada	Yes
+University of Denver station	ada	Yes
+Louisiana–Pearl station	ada	Yes
+Colorado station	ada	Yes
+Yale station	ada	Yes
+Belleview station	ada	Yes
+Patchogue	ada	yes
+Parc	ada	yes
+Lancaster station	ada	Yes
+Acton station	ada	Yes
+Via Princessa station	ada	Yes
+San Fernando station	ada	Yes
+Santa Clarita station	ada	Yes
+Sun Valley station	ada	Yes
+Newhall station	ada	Yes
+USC station	ada	yes
+Slauson station	ada	yes
+Manchester station	ada	yes
+El Monte Station	ada	Yes
+Ferry Avenue station	ada	Yes
+Port Jefferson	ada	yes
+Medford	ada	yes
+Middletown	ada	yes
+Huntington	ada	yes
+Flint station	ada	Yes
+Port Huron station	ada	Yes
+Borgen	ada	Yes
+Central Avenue station	ada	yes
+Smestad	ada	Yes
+New Buffalo station	ada	Yes
+Holland station	ada	Yes
+Vernon J. Ehlers Station	ada	Yes
+Oakridge	ada	true
+Almaden	ada	true
+South Hills Junction	ada	true
+Station Square	ada	true
+First Avenue	ada	true
+Steel Plaza	ada	true
+Wood Street	ada	true
+Gateway Center	ada	true
+Boggs	ada	true
+South Hills Village	ada	true
+Washington Junction	ada	true
+Castle Shannon	ada	true
+Mt. Lebanon	ada	true
+Hammonton station	ada	yes
+Sayville	ada	yes
+Makrellbekken	ada	Yes
+Kringsjå	ada	Yes
+Stony Brook	ada	yes
+Kingston station	ada	yes
+Crystal City station	ada	Yes
+7th Street station	ada	yes
+Convention Center station	ada	yes
+Stonewall station	ada	yes
+Charlotte Transportation Center	ada	yes
+South Boulevard station	ada	yes
+Dimboola railway station	ada	Yes
+Horsham railway station, Victoria	ada	Yes
+Old Saybrook station	ada	yes
+Åsjordet	ada	Yes
+Westerly station	ada	yes
+New London Union Station	ada	yes
+Archdale station	ada	yes
+Tyvola station	ada	yes
+Chico station	ada	Yes
+Fraser–Winter Park station	ada	yes
+Grand Junction station	ada	Yes
+Green River station	ada	Yes
+Glenwood Springs station	ada	Yes
+Granby station	ada	YES
+Sharon Road West station	ada	yes
+Arrowood station	ada	yes
+Woodlawn station	ada	yes
+Scaleybark station	ada	yes
+New Bern station	ada	yes
+West Boulevard station	ada	yes
+Bland Street station	ada	yes
+Carson station	ada	yes
+Paterson	ada	yes
+Ridgewood	ada	yes
+Douglas station	ada	yes
+Santa Fe Depot	ada	Yes
+Smithtown	ada	yes
+St. Marys Street	ada	Yes
+West Haven station	ada	yes
+Fairfield Metro	ada	yes
+St. James	ada	Yes
+Ronkonkoma	ada	yes
+Palmdale Transportation Center	ada	Yes
+Dormont Junction	ada	true
+Potomac	ada	true
+Universität-Markt	ada	true
+Wolf Point station	ada	Yes
+Central Islip	ada	yes
+Glasgow station	ada	Yes
+Malta station	ada	Yes
+Havre station	ada	Yes
+Shelby station	ada	Yes
+East Glacier Park station	ada	Yes
+Whitefish station	ada	Yes
+Libby station	ada	Yes
+Edmonds station	ada	Yes
+Mukilteo station	ada	Yes
+Spokane Intermodal Center	ada	Yes
+Sorrento Valley station	ada	Yes
+Columbia Station	ada	Yes
+Carlsbad Village station	ada	Yes
+Carlsbad Poinsettia station	ada	Yes
+Newton Highlands	ada	Yes
+Sandpoint station	ada	Yes
+Greenport	ada	yes
+Queens Village	ada	yes
+Riverside – La Sierra station	ada	yes
+Casselman railway station	ada	Yes
+Coteau railway station	ada	Yes
+Riverhead	ada	yes
+Jackson station	ada	Yes
+Darien	ada	yes
+Leninsky Prospekt	ada	Yes
+Pasco Intermodal Train Station	ada	Yes
+Ulitsa Skobelevskaya	ada	yes
+Centralia station	ada	Yes
+Centennial Station	ada	Yes
+Jyväskylä railway station	ada	yes
+Yaphank	ada	yes
+Tacoma station	ada	Yes
+Buxtehude station	ada	Yes
+Neu Wulmstorf station	ada	Yes
+Hamburg-Neugraben station	ada	Yes
+Kings Park	ada	yes
+Long Beach	ada	yes
+Steinerud	ada	Yes
+Montebello	ada	Yes
+Columbia station	ada	Yes
+Oyster Bay	ada	Yes
+South Bend station	ada	Yes
+North Irving Transit Center	ada	Yes
+ Del Paso	ada	Yes
+MLK Jr.	ada	true
+Charleston station	ada	Yes
+Huntington station	ada	yes
+Addison Transit Center	ada	Yes
+Lafayette station	ada	Yes
+Burnsville	ada	Yes
+Roseville Road	ada	Yes
+Long Branch station	ada	yes
+South Garland Transit Center	ada	Yes
+Windsor station	ada	Yes
+Windsor Locks station	ada	Yes
+White River Junction station	ada	yes
+Randolph station	ada	Yes
+Haverhill station	ada	Yes
+Exeter station	ada	yes
+Dover Transportation Center	ada	yes
+Wells Regional Transportation Center	ada	Yes
+Saco Transportation Center	ada	yes
+Old Orchard Beach station	ada	Yes
+Portland Transportation Center	ada	Yes
+Red Bird Transit Center	ada	Yes
+Heritage Square station	ada	yes
+Syosset	ada	yes
+Elkhart station	ada	Yes
+Rutland station	ada	yes
+Meadowview	ada	Yes
+Florin	ada	Yes
+47th Avenue	ada	Yes
+Fruitridge	ada	Yes
+ Wayne Hultgren	ada	Yes
+City College	ada	Yes
+Broadway	ada	Yes
+Columbus station	ada	Yes
+Tomah station	ada	Yes
+Wisconsin Dells station	ada	Yes
+Portage station	ada	Yes
+La Crosse station	ada	Yes
+Winona station	ada	Yes
+St. Cloud station	ada	Yes
+Fargo station	ada	Yes
+Grand Forks station	ada	Yes
+Devils Lake station	ada	Yes
+Rugby station	ada	Yes
+Lake Ray Hubbard Transit Center	ada	Yes
+Minot station	ada	Yes
+Stanley station	ada	Yes
+Williston station	ada	Yes
+Jack Hatchell Transit Center	ada	Yes
+Homewood station	ada	Yes
+Centralia station	ada	Yes
+Carbondale station	ada	yes
+Barstow Harvey House	ada	Yes
+Beaumont station	ada	yes
+Fairhaven Station	ada	Yes
+Tsawwassen Ferry Terminal	ada	yes
+Palo Alto station	ada	Yes
+Bingen–White Salmon station	ada	Yes
+Asker Station	ada	yes
+Connellsville station	ada	yes
+Glenn Heights Park & Ride	ada	Yes
+Southwest Museum station	ada	yes
+Highland Park station	ada	yes
+South Pasadena station	ada	yes
+Fillmore station	ada	yes
+Del Mar station	ada	yes
+Memorial Park station	ada	yes
+Lake station	ada	yes
+Allen station	ada	yes
+Sierra Madre Villa station	ada	Yes
+5th & Missouri station	ada	yes
+Newton Centre	ada	Yes
+Florence station	ada	Yes
+Corcoran station	ada	yes
+Dunsmuir station	ada	yes
+Elko station	ada	Yes
+Jacksonville station	ada	Yes
+Ny Ellebjerg station	ada	Yes
+KB Hallen station	ada	Yes
+Peter Bangs Vej station	ada	Yes
+Lafarge Lake–Douglas station	ada	yes
+Fremont station	ada	yes
+Roseville station	ada	yes
+Halifax railway station	ada	yes
+Santa Fe Passenger Depot	ada	Yes
+I-80	ada	Yes
+Hanford station	ada	yes
+Passeig de Gràcia station	ada	yes
+Swartz Bay Ferry Terminal	ada	yes
+Vinderen	ada	Yes
+Winter Park station	ada	Yes
+Baylor University Medical Center	ada	true
+Fair Park	ada	true
+Lakeland station	ada	Yes
+Lafayette station	ada	Yes
+Houston station	ada	Yes
+Union Station	ada	yes
+Montauk	ada	yes
+St. Joseph station	ada	Yes
+Texarkana Union Station	ada	Yes
+Target Field	ada	Yes
+Country Life Press	ada	yes
+Freeport	ada	yes
+Glen Street	ada	yes
+Glen Cove	ada	yes
+Gainesville station	ada	Yes
+Purcell station	ada	yes
+Summit station	ada	Yes
+St. Pauli Piers	ada	Yes
+La Grange Road station	ada	Yes
+Naperville station	ada	True
+Quincy station	ada	Yes
+Galesburg station	ada	Yes
+Highbury Vale tram stop	ada	yes
+Newton station	ada	Yes
+Topeka station	ada	Yes
+Lawrence station	ada	Yes
+Garden City	ada	yes
+Seabrook station	ada	Yes
+Farmers Branch	ada	Yes
+Ottumwa station	ada	yes
+Riverside – Downtown station	ada	Yes
+Lincoln	ada	Yes
+Omaha station	ada	Yes
+47th Street	ada	Yes
+Roosevelt LRT Station	ada	yes
+Balintawak LRT Station	ada	yes
+Santolan–Annapolis MRT Station	ada	Yes
+Magallanes MRT Station	ada	Yes
+Ramsey	ada	yes
+Ramsey Route 17	ada	yes
+Rutherford	ada	yes
+Plauderville	ada	Yes
+Cambridge Centre	ada	yes
+Swanston	ada	Yes
+Marconi Arcade	ada	Yes
+Royal Oaks	ada	Yes
+ La Valentina	ada	Yes
+Helper station	ada	Yes
+Provo station	ada	Yes
+Winnemucca station	ada	Yes
+Library	ada	true
+Willow	ada	true
+Barrie South GO Station	ada	Yes
+Egg Harbor City station	ada	Yes
+Promenade station	ada	Yes
+Barcelona França railway station	ada	Yes
+SLS station	ada	Yes
+Westgate station	ada	Yes
+Convention Center station	ada	Yes
+I-80 West station	ada	Yes
+Globe	ada	Yes
+7th & Capitol and 8th & Capitol	ada	true
+Brentwood	ada	yes
+ 65th Street	ada	Yes
+Harrah's & The Linq station	ada	Yes
+Provença–Diagonal station	ada	yes
+Deer Park	ada	yes
+Centre Avenue	ada	yes
+Oceanside	ada	yes
+Kensington station	ada	No
+Washington Square	ada	Yes
+East Rockaway	ada	yes
+Northport	ada	yes
+Paral·lel	ada	yes
+Betty Go-Belmonte LRT Station	ada	Yes
+Singleton Transfer Location	ada	Yes
+Roslyn	ada	yes
+Nashville Riverfront station	ada	yes
+Greenlawn	ada	yes
+West 3rd	ada	Yes
+Settlers Landing	ada	Yes
+Glen Head	ada	yes
+Sparks station	ada	yes
+Cold Spring Harbor	ada	yes
+Hayward station	ada	Yes
+Southold	ada	yes
+Pureza LRT Station	ada	Yes
+San Francisco 4th and King Street Station	ada	Yes
+Bethpage	ada	yes
+East Williston	ada	yes
+Elberon station	ada	Yes
+Asbury Park station	ada	yes
+West Transfer Center	ada	Yes
+East Transfer Center	ada	Yes
+Bayshore station	ada	Yes
+Butterfield	ada	Yes
+Hyde Park	ada	yes
+Canton Junction	ada	yes
+Albertson	ada	yes
+Greenvale	ada	yes
+East Hampton	ada	Yes
+Bridgehampton	ada	yes
+Sea Cliff	ada	Yes
+Farmingdale	ada	Yes
+Westbrook	ada	yes
+Nassau Boulevard	ada	yes
+Stewart Manor	ada	yes
+Bellport	ada	yes
+Malverne	ada	yes
+Bellmore	ada	yes
+Mattituck	ada	yes
+Amagansett	ada	yes
+Locust Valley	ada	yes
+Southampton	ada	Yes
+Hempstead Gardens	ada	yes
+Westhampton	ada	yes
+Louis Stokes Station at Windermere	ada	Yes
+Superior	ada	Yes
+East 105th – Quincy	ada	Yes
+East 55th	ada	yes
+Islip	ada	yes
+Lakeview	ada	yes
+Bay Shore	ada	yes
+West 65th – Lorain	ada	Yes
+Readville	ada	yes
+Dedham Corporate Center	ada	yes
+Norwood Depot	ada	yes
+Norwood Central	ada	yes
+Universitat	ada	yes
+Broadway station	ada	Yes
+San Bruno station	ada	Yes
+Carle Place	ada	yes
+Oakdale	ada	yes
+Speonk	ada	yes
+West Boulevard – Cudell	ada	Yes
+West 117th – Madison	ada	Yes
+Triskett	ada	Yes
+Brookpark	ada	Yes
+Ben Gurion Airport Railway Station	ada	yes
+Ashdod Ad Halom Railway Station	ada	yes
+Great River	ada	yes
+Sagrada Família	ada	yes
+South Harbor	ada	Yes
+Hayward Park station	ada	Yes
+San Mateo station	ada	Yes
+Hillsdale station	ada	Yes
+Van Aken–Lee	ada	yes
+Ramla Railway Station	ada	yes
+Rockville Centre	ada	yes
+San Antonio station	ada	Yes
+Belmont station	ada	Yes
+San Carlos station	ada	Yes
+Gilroy station	ada	Yes
+Redwood City station	ada	Yes
+Buckeye–Woodhill	ada	yes
+Warrensville–Van Aken	ada	Yes
+Glenbrook	ada	yes
+Springdale	ada	yes
+Shawmut	ada	Yes
+Baldwin	ada	yes
+Wyandanch	ada	yes
+Wiltz railway station	ada	yes
+Merkholtz railway station	ada	yes
+Paradiso railway station	ada	yes
+Kenosha station	ada	Yes
+Hampton Bays	ada	yes
+San Juan Capistrano Depot	ada	yes
+Sasang Station	ada	yes
+New Canaan	ada	yes
+Tiber	ada	Yes
+Apple Valley	ada	Yes
+Talmadge Hill	ada	yes
+Eagan Transit Station	ada	Yes
+Houston Intermodal Transit Center	ada	yes
+Deerfield station	ada	Yes
+Massachusetts Avenue	ada	Yes
+San Francisco State University Station	ada	Yes
+Chynoweth	ada	true
+Lawrence station	ada	Yes
+Sunnyvale station	ada	Yes
+Capitol station	ada	Yes
+Blossom Hill station	ada	Yes
+Morgan Hill station	ada	Yes
+San Martin station	ada	Yes
+Seaford	ada	Yes
+Merrick	ada	yes
+Plaça de Catalunya station	ada	yes
+Liceu	ada	yes
+Avinguda Tibidabo	ada	yes
+Parc de Montjuïc	ada	yes
+Route 59 station	ada	Yes
+Massapequa	ada	yes
+Lerdo de Tejada	ada	Yes
+Eloy Cavazos	ada	yes
+Jackson Square	ada	Yes
+Stony Brook	ada	Yes
+Alameda	ada	Yes
+Salinas station	ada	Yes
+Attleboro station	ada	yes
+Canton Center	ada	yes
+Sharon	ada	Yes
+Stoughton	ada	Yes
+Mansfield	ada	yes
+Pleasanton station	ada	yes
+Manteca station	ada	yes
+Vasco Road station	ada	yes
+Livermore station	ada	yes
+Tracy station	ada	yes
+Menlo Park station	ada	Yes
+Melrose Highlands	ada	Yes
+Woodland	ada	Yes
+Harvard station	ada	yes
+Beersheba North Railway Station	ada	yes
+Beersheba Center Railway Station	ada	yes
+495	ada	Yes
+South Chicago	ada	Yes
+Eugene–Springfield station	ada	Yes
+Elburn station	ada	Yes
+Salem station	ada	Yes
+Mount Washington	ada	Yes
+Wilmington	ada	Yes
+Crystal Lake station	ada	Yes
+Linda Vista station	ada	Yes
+Gorg station	ada	yes
+Yawkey	ada	true
+Highland Park station	ada	Yes
+Mission Valley Center station	ada	Yes
+Fashion Valley Transit Center	ada	Yes
+Hazard Center station	ada	Yes
+Rio Vista station	ada	Yes
+Fenton Parkway station	ada	Yes
+Qualcomm Stadium station	ada	Yes
+Mission San Diego station	ada	Yes
+Tel Aviv HaHagana Railway Station	ada	yes
+McHenry station	ada	True
+Barcelona Sants railway station	ada	Yes
+San Diego State University Transit Center	ada	Yes
+Grantville station	ada	Yes
+Lutherville	ada	Yes
+Alvarado Medical Center station	ada	Yes
+70th Street station	ada	true
+Amaya Drive station	ada	true
+Grossmont Transit Center	ada	true
+El Cajon Transit Center	ada	True
+Lawrence	ada	Yes
+Andover	ada	Yes
+Bradford	ada	Yes
+Evelyn	ada	true
+Randolph	ada	Yes
+West Concord Depot	ada	Yes
+Drassanes	ada	yes
+Airport station	ada	yes
+Tukwila International Boulevard station	ada	yes
+Rainier Beach station	ada	yes
+Camden Station	ada	Yes
+Woodstock station	ada	Yes
+Timonium	ada	Yes
+North Avenue	ada	Yes
+Jackie Joyner-Kersee Center station	ada	yes
+Emerson Park station	ada	yes
+Manhattan station	ada	Yes
+Geneva station	ada	yes
+Irving Park station	ada	Yes
+East Braintree	ada	Yes
+Lombard station	ada	Yes
+East Weymouth	ada	Yes
+West Hingham	ada	Yes
+Nantasket Junction	ada	Yes
+North Scituate	ada	Yes
+Cohasset	ada	Yes
+Greenbush	ada	Yes
+Washington Street	ada	Yes
+Washington Park station	ada	yes
+Memorial Hospital station	ada	yes
+Shiloh–Scott station	ada	yes
+Belleville station	ada	yes
+Fairview Heights station	ada	yes
+Nea Ionia station	ada	yes
+Ravinia station	ada	Yes
+Lowell	ada	Yes
+Blue Island station	ada	true
+Pinelawn	ada	yes
+Route 495	ada	Yes
+Norwood Park station	ada	Yes
+Glencoe station	ada	Yes
+Irakleio station	ada	yes
+Eirini station	ada	yes
+Wasco station	ada	yes
+Marousi metro station	ada	Yes
+KAT metro station	ada	yes
+Dune Park station	ada	Yes
+Hersey	ada	yes
+Glen Ellyn station	ada	Yes
+Norfolk	ada	Yes
+West Chicago station	ada	Yes
+Wheaton station	ada	Yes
+Winfield station	ada	Yes
+College Avenue station	ada	Yes
+Lincolnville GO Station	ada	Yes
+La Fox station	ada	Yes
+Lodi Transit Center	ada	yes
+Dorval railway station	ada	Yes
+Cornwall railway station	ada	Yes
+Drummondville railway station	ada	Yes
+Saint-Hyacinthe railway station	ada	Yes
+Charny railway station	ada	Yes
+La Pocatière railway station	ada	Yes
+Sainte-Foy railway station	ada	Yes
+Rivière-du-Loup railway station	ada	Yes
+Rimouski railway station	ada	Yes
+Mont-Joli railway station	ada	Yes
+Amqui railway station	ada	Yes
+Matapédia railway station	ada	Yes
+Percé railway station	ada	Yes
+Chandler railway station	ada	Yes
+Grande-Rivière railway station	ada	Yes
+Gaspé railway station	ada	Yes
+Bathurst railway station	ada	Yes
+Miramichi railway station	ada	yes
+Moncton railway station	ada	yes
+Sackville railway station	ada	yes
+Amherst railway station	ada	yes
+Truro railway station	ada	yes
+Rogersville railway station	ada	yes
+Trois Pistoles railway station	ada	Yes
+La Vergne station	ada	True
+Berwyn station	ada	Yes
+Harlem Avenue station	ada	Yes
+Riverside station	ada	Yes
+McMaster University Bus Terminal	ada	Yes
+Hollywood station	ada	Yes
+Brookfield station	ada	Yes
+Stone Avenue station	ada	Yes
+Western Springs station	ada	Yes
+Belmont station	ada	Yes
+Fairview Avenue station	ada	Yes
+Downers Grove Main Street station	ada	True
+Kifisia metro station	ada	yes
+BWI Marshall Airport	ada	Yes
+O'Hare Transfer station	ada	Yes
+Tinley Park station	ada	Yes
+Lisle station	ada	Yes
+Palatine station	ada	Yes
+Highlands station	ada	Yes
+Vermont Street station	ada	Yes
+Hinsdale station	ada	Yes
+West Hinsdale station	ada	True
+Brookline Hills	ada	Yes
+Westmont station	ada	Yes
+Clarendon Hills station	ada	Yes
+Aurora Transportation Center	ada	Yes
+Wrightwood station	ada	Yes
+Ashburn station	ada	Yes
+Oak Lawn station	ada	true
+Chicago Ridge station	ada	Yes
+Orland Park 153rd Street station	ada	Yes
+Orland Park 179th Street station	ada	Yes
+Orland Park 143rd Street station	ada	true
+Palos Park station	ada	Yes
+Palos Heights station	ada	Yes
+Worth station	ada	Yes
+Willow Springs station	ada	Yes
+Lemont station	ada	Yes
+Lockport station	ada	Yes
+River Grove station	ada	Yes
+Belmont Avenue station	ada	Yes
+University Park station	ada	Yes
+Schiller Park station	ada	Yes
+Prospect Heights station	ada	Yes
+Rosemont station	ada	True
+Wheeling station	ada	Yes
+Buffalo Grove station	ada	Yes
+Prairie View station	ada	Yes
+Vernon Hills station	ada	Yes
+Mundelein station	ada	Yes
+Prairie Crossing station	ada	Yes
+Washington Street station	ada	Yes
+Round Lake Beach station	ada	Yes
+Lake Villa station	ada	Yes
+Antioch station	ada	Yes
+Hanson Park station	ada	true
+Galewood station	ada	true
+Mars station	ada	true
+Elmwood Park station	ada	True
+Mont Clare station	ada	true
+Franklin Park station	ada	True
+Bensenville station	ada	true
+Wood Dale station	ada	true
+Winnetka station	ada	Yes
+Itasca station	ada	True
+Hanover Park station	ada	true
+Medinah station	ada	true
+Schaumburg station	ada	true
+Roselle station	ada	true
+National Street station	ada	True
+Elgin station	ada	true
+Healy station	ada	true
+Tuscany	ada	yes
+Sudbury Junction railway station	ada	yes
+Winthrop Harbor station	ada	Yes
+Clinton	ada	yes
+Madison	ada	Yes
+Branford	ada	yes
+Prairie Crossing station	ada	Yes
+Jefferson Park Transit Center	ada	Yes
+Montello	ada	Yes
+Brockton	ada	Yes
+Lakeville	ada	Yes
+Bridgewater	ada	Yes
+Campello	ada	Yes
+Highwood station	ada	Yes
+Reading	ada	Yes
+Halethorpe station	ada	yes
+Bowie State station	ada	Yes
+Burquitlam station	ada	yes
+Inlet Centre station	ada	yes
+Gaithersburg station	ada	Yes
+Monocacy station	ada	Yes
+Ogden Dunes station	ada	Yes
+Frederick station	ada	Yes
+Point of Rocks station	ada	Yes
+Adam Benjamin Metro Center	ada	Yes
+Roslindale Village	ada	Yes
+Needham Center	ada	Yes
+Needham Junction	ada	Yes
+Highland	ada	Yes
+Bellevue	ada	Yes
+Needham Heights	ada	Yes
+West Roxbury	ada	Yes
+Muirkirk station	ada	yes
+Laurel station	ada	Yes
+Dorsey station	ada	Yes
+St. Denis station	ada	Yes
+Ravinia Park station	ada	Yes
+Fox Lake station	ada	Yes
+Zion station	ada	Yes
+Lynn	ada	yes
+Waukegan station	ada	Yes
+Swampscott	ada	yes
+Salem	ada	Yes
+Washington Heights	ada	Yes
+111th Street–Morgan Park	ada	Yes
+95th Street–Beverly Hills	ada	True
+Longwood station	ada	True
+Strogino	ada	Yes
+119th Street – Blue Island	ada	True
+Beverly Depot	ada	Yes
+Montserrat	ada	yes
+Beverly Farms	ada	Yes
+Manchester	ada	Yes
+West Gloucester	ada	Yes
+Gloucester	ada	Yes
+Rockport	ada	Yes
+North Beverly	ada	Yes
+Ipswich	ada	Yes
+Wenham	ada	Yes
+Rowley	ada	Yes
+Newburyport	ada	Yes
+Libertyville station	ada	Yes
+Grayslake station	ada	Yes
+Barendrecht railway station	ada	yes
+Tinley Park – 80th Avenue station	ada	No
+Fox River Grove station	ada	true
+South Weymouth	ada	Yes
+Whitman	ada	Yes
+Hanson	ada	Yes
+Abington	ada	Yes
+Halifax	ada	Yes
+Route 3	ada	Yes
+Plymouth	ada	Yes
+91st Street–Beverly Hills	ada	True
+99th Street–Beverly Hills	ada	True
+Mysen Station	ada	Yes
+103rd Street–Beverly Hills	ada	Yes
+115th Street–Morgan Park	ada	True
+Fairmount	ada	Yes
+Morton Street	ada	Yes
+Uphams Corner	ada	Yes
+West Natick	ada	Yes
+Ashland	ada	Yes
+Southborough	ada	Yes
+Grafton	ada	Yes
+Westborough	ada	Yes
+Martindale	ada	yes
+107th Street–Beverly Hills	ada	True
+Lake Cook Road station	ada	Yes
+Ballardvale	ada	Yes
+Mount Juliet station	ada	yes
+Hermitage station	ada	yes
+Donelson station	ada	yes
+Martha station	ada	yes
+Lebanon station	ada	yes
+Nodeland Station	ada	Yes
+Breland Station	ada	No
+Marnardal Station	ada	Yes
+Ingleside station	ada	Yes
+North Chicago station	ada	Yes
+Wedgemere	ada	Yes
+North Billerica	ada	Yes
+Roberts	ada	Yes
+Waltham	ada	Yes
+North Leominster	ada	Yes
+Fitchburg	ada	Yes
+Rehovot Railway Station	ada	yes
+Audnedal Station	ada	No
+Gyland Station	ada	Yes
+Richton Park station	ada	Yes
+Brainerd station	ada	Yes
+Scranton station	ada	No
+Cantagalo Station	ada	Yes
+PSU South MAX Station	ada	yes
+Lake Forest station	ada	Yes
+Lake Forest station	ada	Yes
+Orange Street	ada	Yes
+Silver Lake	ada	Yes
+Grove Street	ada	yes
+Branch Brook Park	ada	Yes
+Great Lakes station	ada	Yes
+Des Plaines station	ada	true
+Seomyeon Station	ada	yes
+Apache Boulevard station	ada	yes
+Main Street station	ada	yes
+Edison Park station	ada	true
+Cecil B. Moore station	ada	yes
+Girard station	ada	yes
+Spring Garden station	ada	yes
+Central Avenue station	ada	yes
+Central Avenue station	ada	yes
+Central Avenue stations	ada	yes
+Central Avenue stations	ada	yes
+Washington stations	ada	yes
+Washington stations	ada	yes
+Washington stations	ada	yes
+Washington station	ada	yes
+Washington station	ada	yes
+Washington station	ada	yes
+Rural station	ada	yes
+Apache Boulevard station	ada	yes
+Apache Boulevard station	ada	yes
+Third Street station	ada	yes
+Central Avenue station	ada	yes
+Central Avenue station	ada	yes
+Central Avenue station	ada	yes
+College Avenue station	ada	yes
+Apache Boulevard station	ada	yes
+Milton	ada	Yes
+Washington station	ada	yes
+Bally's & Paris station	ada	Yes
+Flamingo & Caesars Palace station	ada	Yes
+Quattro Venti railway station	ada	Yes
+North Glenview station	ada	True
+Northbrook station	ada	True
+87th Street	ada	Yes
+83rd Street	ada	Yes
+Stony Island	ada	Yes
+Harvey station	ada	yes
+Square One Bus Terminal	ada	Yes
+211th Street	ada	yes
+West Barnstable station	ada	Yes
+Hyannis Transportation Center	ada	Yes
+Thanon Chira Junction Railway Station	ada	yes
+Nakhon Ratchasima Railway Station	ada	yes
+Bua Yai Junction Railway Station	ada	yes
+Park Ridge station	ada	True
+Arc de Triomf station	ada	yes
+Golf station	ada	true
+Morton Grove station	ada	True
+Edgebrook station	ada	True
+Round Lake station	ada	Yes
+Long Lake station	ada	True
+Fort Sheridan station	ada	Yes
+Apollo Road ferry wharf	ada	yes
+Dee Road station	ada	yes
+Stawell railway station	ada	Yes
+Arlington Heights station	ada	Yes
+MGM Grand station	ada	Yes
+Othello station	ada	yes
+Columbia City station	ada	yes
+Mount Baker station	ada	yes
+Beacon Hill station	ada	yes
+SODO station	ada	yes
+Stadium station	ada	yes
+Chinatown station	ada	yes
+Vincennes	ada	yes
+Tukwila station	ada	yes
+Kent station	ada	Yes
+Auburn station	ada	Yes
+Sumner station	ada	Yes
+Puyallup station	ada	Yes
+Tacoma Dome Station	ada	Yes
+South Shore	ada	Yes
+New Lenox station	ada	Yes
+Pioneer Square station	ada	yes
+Wilsonville Station	ada	yes
+Ashkelon Railway Station	ada	yes
+Carroll Avenue station	ada	Yes
+East Chicago station	ada	Yes
+Tigard Transit Center	ada	yes
+Cheltenham	ada	Yes
+Bryn Mawr	ada	Yes
+Windsor Park	ada	Yes
+Allegheny station	ada	yes
+North Philadelphia station	ada	yes
+Oregon station	ada	yes
+Balmain West ferry wharf	ada	Yes
+Salt Lake City Intermodal Hub	ada	Yes
+9th Street station	ada	yes
+Tremont station	ada	Yes
+Atherton Mill station	ada	Yes
+Wonderland Terminal	ada	Yes
+Midlothian station	ada	Yes
+Ullernåsen	ada	Yes
+Falls Road	ada	Yes
+Gjønnes	ada	Yes
+Haslum	ada	yes
+Avløs	ada	yes
+Warren Road	ada	Yes
+Timonium Business Park	ada	Yes
+Stabekk Station	ada	Yes
+Høvik Station	ada	Yes
+Pleasant View	ada	Yes
+University Medical Center	ada	Yes
+Slitu Station	ada	No
+Hamburg Dammtor station	ada	Yes
+Holstenstrasse station	ada	Yes
+Jungfernstieg station	ada	Yes
+Norderstedt Mitte station	ada	yes
+Niendorf Nord	ada	Yes
+Barmbek station	ada	Yes
+Bahrenfeld station	ada	Yes
+Clearfield	ada	Yes
+Gallivan Plaza	ada	Yes
+Temple Square	ada	Yes
+Roy	ada	Yes
+Planetarium	ada	Yes
+Arena	ada	Yes
+City Center	ada	yes
+Old GreekTown	ada	Yes
+Layton	ada	Yes
+Woods Cross	ada	Yes
+Farmington	ada	Yes
+Library	ada	yes
+Stadium	ada	Yes
+University South Campus	ada	Yes
+900 East	ada	Yes
+Trolley	ada	Yes
+Fort Douglas	ada	Yes
+Courthouse	ada	Yes
+900 South	ada	Yes
+Ballpark	ada	Yes
+Central Pointe	ada	Yes
+Millcreek	ada	Yes
+Meadowbrook	ada	Yes
+Murray North	ada	Yes
+Fashion Place West	ada	Yes
+Midvale Center	ada	Yes
+Midvale Fort Union	ada	Yes
+Historic Sandy	ada	Yes
+Murray Central	ada	Yes
+Sandy Expo	ada	Yes
+Sandy Civic Center	ada	Yes
+Klein Flottbek station	ada	yes
+Hamburg-Harburg station	ada	yes
+Langenfelde station	ada	Yes
+Stellingen station	ada	Yes
+Eidelstedt station	ada	Yes
+Elbgaustraße station	ada	Yes
+Richtweg	ada	yes
+Mount Prospect station	ada	Yes
+Ivanhoe station	ada	yes
+Barrington station	ada	Yes
+Gateway Station	ada	yes
+Gilroy Road	ada	Yes
+McCormick Road	ada	Yes
+Pepper Road	ada	Yes
+Pingree Road station	ada	Yes
+Stonestown Galleria Station	ada	Yes
+Hunt Valley	ada	Yes
+Sunrise	ada	Yes
+13th Street	ada	Yes
+COOVI metro station	ada	Yes
+North Main Corona station	ada	Yes
+Hammerbrook station	ada	Yes
+Herzliya Railway Station	ada	yes
+Petah Tikva Kiryat Aryeh Railway Station	ada	Yes
+Cary station	ada	Yes
+Folsom and The Embarcadero Station	ada	Yes
+Brannan and The Embarcadero Station	ada	Yes
+2nd and King Station	ada	Yes
+BWI Business District	ada	Yes
+Glen Burnie	ada	Yes
+Rosa Parks Hempstead Transit Center	ada	yes
+Innes Station	ada	Yes
+Evans Station	ada	Yes
+Marin Street Station	ada	Yes
+23rd Street	ada	Yes
+20th Street Station	ada	Yes
+Mariposa station	ada	Yes
+UCSF Mission Bay Station	ada	Yes
+Mission Rock Station	ada	Yes
+Carroll Station	ada	Yes
+Shafter Station	ada	Yes
+La Salle Station	ada	Yes
+Paul Station	ada	Yes
+Williams Station	ada	Yes
+Palou Station	ada	Yes
+Le Conte Station	ada	Yes
+Arleta Station	ada	Yes
+Sunnydale Station	ada	Yes
+Arnele Avenue station	ada	true
+Hercules Station & Terminal	ada	yes
+Gillespie Field station	ada	true
+Don Chee Way and Steuart Station	ada	Yes
+Market and The Embarcadero Station	ada	Yes
+Broadway and The Embarcadero Station	ada	Yes
+Greenwich and The Embarcadero Station	ada	Yes
+Washington and The Embarcadero Station	ada	Yes
+Green and The Embarcadero Station	ada	Yes
+Chestnut and The Embarcadero Station	ada	Yes
+Jefferson and Powell Station	ada	Yes
+Bay and The Embarcadero Station	ada	Yes
+Jefferson and Taylor Station	ada	Yes
+Jefferson and The Embarcadero Station	ada	Yes
+Beach and Stockton Station	ada	Yes
+Beach and Mason Station	ada	Yes
+Jones and Beach Station	ada	Yes
+Taunton station	ada	Yes
+Stevens MRT Station	ada	Yes
+Sixth Avenue MRT Station	ada	Yes
+Tan Kah Kee MRT Station	ada	Yes
+King Albert Park MRT Station	ada	Yes
+Beauty World MRT Station	ada	Yes
+Cashew MRT Station	ada	Yes
+Hillview MRT Station	ada	Yes
+LRT Station	ada	Yes
+South Bend Airport station	ada	Yes
+Santee Town Center station	ada	True
+General Osório Station	ada	Yes
+Oakton–Skokie station	ada	yes
+Mokena station	ada	Yes
+Hickory Creek station	ada	Yes
+Cedar Grove	ada	Yes
+Butler	ada	Yes
+Central Avenue	ada	Yes
+Framingham Railroad Station	ada	Yes
+Transportation and Ticket Center	ada	Yes
+Wesmont	ada	yes
+Capen Street	ada	Yes
+Wilhelmsburg station	ada	Yes
+Veddel station	ada	Yes
+Melnea Cass Boulevard	ada	Yes
+San Ysidro Transit Center	ada	Yes
+Alma-Atinskaya	ada	Yes
+Tualatin Station	ada	yes
+Bon Air	ada	true
+Evanston Central Street station	ada	True
+Whisman	ada	true
+Middlefield	ada	true
+NASA	ada	true
+Moffett Park	ada	true
+Buninskaya Alleya	ada	yes
+Calumet station	ada	Yes
+Lockheed Martin Transit Center	ada	true
+Flossmoor station	ada	Yes
+Allandale Waterfront GO Station	ada	yes
+Anonas LRT Station	ada	Yes
+Philadelphia International Airport stations	ada	yes
+Gilmore LRT Station	ada	Yes
+Hawthorne	ada	yes
+Windsor railway station	ada	Yes
+J. Ruiz LRT Station	ada	Yes
+Mitino	ada	Yes
+Pyatnitskoye Shosse	ada	Yes
+Volokolamskaya	ada	Yes
+Podgorica Rail Station	ada	yes
+Santa Mesa railway station	ada	Yes
+Morgan	ada	Yes
+Fair Oaks	ada	true
+Old Ironsides	ada	true
+Reamwood	ada	true
+Borregas	ada	true
+Vienna	ada	true
+Crossman	ada	true
+Pedley station	ada	Yes
+David Lane tram stop	ada	yes
+Bjørnsletta	ada	Yes
+University Street station	ada	yes
+Westlake station	ada	yes
+Fairfield–Vacaville station	ada	Yes
+Nimbus Station	ada	yes
+Santa Fe Depot	ada	yes
+Zia Road	ada	yes
+South Capitol	ada	yes
+NM 599	ada	yes
+East Ontario station	ada	Yes
+Industry station	ada	Yes
+Commerce station	ada	Yes
+Babcock Street	ada	yes
+Fontana station	ada	yes
+Cootamundra railway station	ada	Yes
+Paco railway station	ada	yes
+Blumentritt railway station	ada	yes
+Redding station	ada	Yes
+Saint-Maur – Créteil	ada	yes
+Joinville-le-Pont	ada	yes
+'s-Hertogenbosch railway station	ada	yes
+Savage Park & Ride	ada	Yes
+Blackhawk Park & Ride	ada	Yes
+Palomino Hills	ada	Yes
+Heart of the City Park & Ride	ada	Yes
+Cedar Grove	ada	Yes
+Windhoek Railway Station	ada	yes
+Lenox Street	ada	Yes
+Worcester Square	ada	Yes
+Meadowlands	ada	yes
+Newton Street	ada	Yes
+Universidad de Chile metro station	ada	yes
+Freeport station	ada	Yes
+Union Park Street	ada	Yes
+East Berkeley Street	ada	Yes
+Herald Street	ada	Yes
+Glencoe railway station	ada	Yes
+Chatham railway station	ada	Yes
+Brantford railway station	ada	Yes
+Woodstock railway station	ada	Yes
+Ingersoll railway station	ada	Yes
+Wyoming railway station	ada	Yes
+Sarnia railway station	ada	Yes
+Strathroy railway station	ada	Yes
+St. Marys railway station	ada	Yes
+Capreol railway station	ada	Yes
+Foleyet railway station	ada	Yes
+Sunalta	ada	yes
+Sioux Lookout railway station	ada	Yes
+Coon Rapids Riverdale	ada	Yes
+Fridley	ada	Yes
+Elk River	ada	Yes
+Anoka	ada	Yes
+Big Lake	ada	Yes
+San Jose del Monte MRT Station	ada	yes
+Allermöhe station	ada	Yes
+Santiago Tapia	ada	Yes
+8th & O	ada	true
+St. Rose of Lima Park	ada	true
+Harvard Avenue	ada	yes
+Coimbatore Junction railway station	ada	Yes
+Brussels National Airport railway station	ada	Yes
+Kenrick Avenue Park and Ride	ada	Yes
+Ringstabekk	ada	Yes
+Lleida Pirineus railway station	ada	Yes
+Løren	ada	Yes
+147th Street	ada	Yes
+Rochedale busway station	ada	yes
+Ohlsdorf station	ada	Yes
+Shaganappi Point	ada	yes
+Svendborg station	ada	Yes
+Lakeville Cedar	ada	Yes
+Cathedral Square	ada	true
+Archives Plaza	ada	Yes
+16th Street	ada	Yes
+ County Center	ada	true
+23rd Street	ada	Yes
+29th Street	ada	Yes
+39th Street	ada	Yes
+48th Street	ada	Yes
+Power Inn	ada	Yes
+59th Street	ada	Yes
+College Greens	ada	Yes
+Manlove	ada	Yes
+Starfire	ada	Yes
+Mills	ada	Yes
+Cordova Town Center	ada	Yes
+Zinfandel	ada	Yes
+Hazel	ada	Yes
+Iron Point	ada	Yes
+Glenn	ada	Yes
+Historic Folsom	ada	Yes
+Malvar LRT Station	ada	Yes
+Times Square station	ada	yes
+Michigan Avenue station	ada	yes
+Grand Circus Park station	ada	Yes
+Broadway station	ada	yes
+Cadillac Center station	ada	yes
+Greektown station	ada	yes
+Bricktown station	ada	yes
+Renaissance Center station	ada	yes
+Millender Center station	ada	yes
+Financial District station	ada	yes
+Joe Louis Arena station	ada	yes
+Cobo Center station	ada	yes
+Cass station	ada	yes
+España railway station	ada	yes
+Laong Laan railway station	ada	yes
+140th Street	ada	Yes
+Brunswick Maine Street Station	ada	Yes
+Buendia railway station	ada	Yes
+Westbrook	ada	yes
+Boise Union Pacific Depot	ada	Yes
+Escondido Transit Center	ada	Yes
+Vista Transit Center	ada	Yes
+Palomar College station	ada	Yes
+Cal State San Marcos station	ada	Yes
+Nordahl Road station	ada	Yes
+San Marcos Civic Center station	ada	Yes
+Boston University Central	ada	Yes
+Boston University East	ada	Yes
+Minneapolis Gateway	ada	Yes
+Kingfield	ada	Yes
+South Bloomington	ada	Yes
+Bloomington	ada	Yes
+Richfield	ada	Yes
+45 Street Southwest	ada	yes
+Jangsan Station	ada	yes
+Sirocco	ada	yes
+Washington Street	ada	Yes
+69 Street Southwest	ada	yes
+MacEwan LRT Station	ada	yes
+Saddletowne	ada	yes
+West Library	ada	true
+Lytle	ada	true
+University of the Sunshine Coast bus station	ada	yes
+Laurence Harbor	ada	yes
+Memorial Hall	ada	true
+Killarney	ada	true
+McNeilly	ada	true
+Nichols railway station	ada	yes
+South Bank	ada	true
+Denise	ada	true
+Overbrook Junction	ada	true
+Shiras	ada	true
+Fallowfield	ada	true
+Menemen railway station	ada	Yes
+Kfar Saba – Nordau Railway Station	ada	yes
+Ankara railway station	ada	Yes
+Southeast Division Street MAX Station	ada	yes
+Southeast Powell Boulevard MAX Station	ada	yes
+Southeast Flavel Street MAX Station	ada	yes
+Southeast Fuller Road MAX Station	ada	yes
+İzmit railway station	ada	Yes
+Kingston Bus Terminal	ada	yes
+Gebze railway station	ada	Yes
+Royal Alex LRT Station	ada	yes
+NAIT LRT Station	ada	yes
+Butler's Hill tram stop	ada	yes
+Danforth Avenue	ada	yes
+Palomar Street station	ada	Yes
+Iris Avenue station	ada	Yes
+Palm Avenue station	ada	Yes
+E Street station	ada	true
+24th Street station	ada	Yes
+Beyer Boulevard station	ada	Yes
+H Street station	ada	Yes
+Little Italy station	ada	Yes
+Fifth Avenue station	ada	Yes
+Barrio Logan station	ada	True
+City College station	ada	true
+America Plaza station	ada	Yes
+Civic Center station	ada	true
+Park & Market station	ada	Yes
+Harborside station	ada	Yes
+Pacific Fleet station	ada	Yes
+12th & Imperial Transit Center	ada	Yes
+8th Street station	ada	true
+Middletown station	ada	Yes
+Washington Street station	ada	Yes
+Gaslamp Quarter station	ada	Yes
+Convention Center station	ada	Yes
+Seaport Village station	ada	Yes
+25th & Commercial station	ada	Yes
+32nd & Commercial station	ada	Yes
+62nd Street station	ada	Yes
+Euclid Avenue station	ada	Yes
+Massachusetts Avenue station	ada	Yes
+47th Street station	ada	Yes
+Lemon Grove Depot	ada	Yes
+La Mesa Boulevard station	ada	Yes
+Spring Street station	ada	Yes
+Martin Luther King Drive	ada	yes
+Church and 16th Street	ada	No
+Duboce and Church	ada	Yes
+Liberty Street	ada	No
+20th Street	ada	No
+Church and 22nd Street	ada	No
+Church and 24th Street	ada	Yes
+21st Street	ada	No
+Church and 27th Street	ada	No
+Church and Clipper	ada	No
+Church and 29th Street	ada	Yes
+Church and 30th Street	ada	No
+30th Street and Dolores	ada	No
+San Jose and Randall	ada	Yes
+San Jose and Bosworth	ada	No
+San Jose and Santa Rosa	ada	No
+San Jose and Ocean	ada	No
+San Jose and Santa Ynez	ada	No
+Junipero Serra and Ocean	ada	Yes
+West Portal and 14th Avenue	ada	No
+St. Francis Circle	ada	Yes
+Ocean and Phelan	ada	Yes
+Ocean and Jules	ada	Yes
+Taraval and 22nd Avenue	ada	Yes
+Taraval and Sunset	ada	Yes
+46th Avenue and Wawona	ada	Yes
+Ocean	ada	No
+Eucalyptus	ada	No
+Randolph and 19th Avenue	ada	No
+Randolph and Arch	ada	Yes
+19th Avenue and Junipero Serra	ada	No
+Randolph and Bright	ada	No
+Broad and Capitol	ada	No
+Broad and Orizaba	ada	No
+Broad and Plymouth	ada	Yes
+San Jose and Farallones	ada	No
+San Jose and Mount Vernon	ada	No
+San Jose and Lakeview	ada	No
+San Jose and Geneva	ada	Yes
+Duboce and Noe Street	ada	Yes
+Carl and Cole	ada	Yes
+Irving and 2nd Avenue	ada	Yes
+Judah and Sunset	ada	Yes
+Judah and 19th Avenue	ada	Yes
+Judah and 28th Avenue	ada	Yes
+Judah and 9th Avenue	ada	Yes
+Judah and 48th Avenue	ada	Yes
+Judah and La Playa	ada	Yes
+South 15th Street station	ada	Yes
+South 9th Street station	ada	Yes
+South 25th Street station	ada	Yes
+South 19th Street station	ada	Yes
+Imam Khomeini Metro Station	ada	yes
+Commercial–Broadway station	ada	yes
+Waterbury	ada	Yes
+Vito Cruz railway station	ada	Yes
+ NW 5th & Glisan MAX stations	ada	yes
+Northwest 6th & Davis Street and Northwest 5th & Couch Street	ada	yes
+Southwest 6th & Pine Street and Southwest 5th & Oak Street	ada	yes
+PSU Urban Center stations	ada	yes
+ Southwest 5th & Jefferson Street	ada	yes
+ Southwest 5th	ada	yes
+Bar Rail Station	ada	yes
+Acton GO Station	ada	Yes
+Trinity Mills	ada	Yes
+Downtown Denton Transit Center	ada	Yes
+Tala MRT Station	ada	yes
+Sacred Heart MRT Station	ada	yes
+Quirino MRT Station	ada	yes
+Mindanao Avenue MRT Station	ada	yes
+Regalado Avenue MRT Station	ada	yes
+Doña Carmen MRT Station	ada	yes
+Manggahan MRT Station	ada	yes
+Batasan MRT Station	ada	yes
+Don Antonio MRT Station	ada	yes
+Tandang Sora MRT Station	ada	yes
+University Avenue MRT Station	ada	yes
+Quezon Memorial MRT Station	ada	yes
+Deep Ellum	ada	true
+Halkapınar	ada	Yes
+Halkapınar railway station	ada	Yes
+Sanayi	ada	Yes
+Bornova	ada	Yes
+Love Field	ada	Yes
+Parkland	ada	Yes
+Market Center	ada	Yes
+Royal Lane	ada	Yes
+Bachman	ada	Yes
+Denton	ada	Yes
+Downtown Carrollton	ada	Yes
+Frankford	ada	Yes
+Hatcher	ada	Yes
+Lawnview	ada	Yes
+Lake June	ada	Yes
+Buckner	ada	Yes
+Fort Worth International Airport Station	ada	Yes
+Irving Convention Center	ada	Yes
+North Lake College	ada	Yes
+Belt Line	ada	Yes
+Las Colinas Urban Center	ada	Yes
+Loop 12	ada	Yes
+University of Dallas	ada	Yes
+South Las Colinas	ada	Yes
+Pompei Scavi-Villa dei Misteri	ada	yes
+Burbank	ada	Yes
+DFW North	ada	Yes
+Knox–Henderson Station	ada	Yes
+American Boulevard	ada	Yes
+Medpark	ada	Yes
+Lewisville Lake	ada	Yes
+Hebron	ada	Yes
+Old Town	ada	Yes
+Agathenburg station	ada	yes
+Dollern station	ada	yes
+Stade station	ada	yes
+Horneburg station	ada	yes
+Neukloster station	ada	yes
+Fischbek station	ada	Yes
+Mariachi Plaza station	ada	yes
+Icicle Station	ada	Yes
+Arts District station	ada	yes
+EDSA railway station	ada	Yes
+San Andres railway station	ada	yes
+Bicutan railway station	ada	Yes
+Pasay Road railway station	ada	Yes
+Boggo Road busway station	ada	yes
+PA Hospital busway station	ada	yes
+Stephansplatz	ada	Yes
+Atlantic station	ada	yes
+Maravilla station	ada	yes
+East LA Civic Center station	ada	yes
+Soto station	ada	yes
+Indiana station	ada	yes
+Aliso station	ada	yes
+Jasper railway station	ada	yes
+Akshardham metro station	ada	Yes
+Prince Rupert railway station	ada	yes
+Terrace railway station	ada	yes
+Smithers railway station	ada	yes
+Prince George railway station	ada	yes
+Plaza Saltillo	ada	Yes
+Downtown	ada	Yes
+MLK Jr.	ada	Yes
+Highland	ada	Yes
+Crestview	ada	Yes
+Kramer	ada	Yes
+Howard	ada	Yes
+Lakeline	ada	Yes
+Leander	ada	Yes
+Can Peixauet	ada	yes
+Storekvina Station	ada	No
+Downtown Rowlett	ada	Yes
+Cordusio	ada	Yes
+Newtown Road station	ada	yes
+Angle Lake station	ada	yes
+Ulitsa Sergeya Eyzenshteyna	ada	Yes
+Essex Street	ada	Yes
+Lausanne-Flon station	ada	yes
+FTI railway station	ada	yes
+Transbay Transit Center	ada	Yes
+Hamline Avenue	ada	Yes
+Victoria Street	ada	Yes
+Western Avenue	ada	Yes
+Vystavochny Tsentr	ada	Yes
+Bolueta	ada	yes
+Etxebarri	ada	yes
+Union Station	ada	Yes
+Basarrate	ada	Yes
+Ulitsa Akademika Korolyova	ada	Yes
+Teletsentr	ada	Yes
+Santutxu	ada	yes
+Ulitsa Milashenkova	ada	Yes
+Timiryazevskaya	ada	Yes
+Moyua	ada	Yes
+Indautxu	ada	Yes
+10th Street	ada	Yes
+Deusto	ada	Yes
+Montenapoleone	ada	yes
+Turati	ada	yes
+Missori	ada	yes
+Crocetta	ada	yes
+Porta Romana	ada	yes
+Wachusett	ada	Yes
+Tobalaba metro station	ada	yes
+Caroline Springs railway station	ada	Yes
+San Inazio	ada	Yes
+Sarriko	ada	Yes
+Victory	ada	Yes
+Sant'Ambrogio	ada	yes
+Sant'Agostino	ada	yes
+Lutxana	ada	Yes
+Erandio	ada	Yes
+Astrabudua	ada	Yes
+Leioa	ada	Yes
+Venezia	ada	yes
+Sucat railway station	ada	Yes
+Chiesa Nuova	ada	yes
+Repubblica	ada	yes
+Garibaldi FS	ada	yes
+Lamiako	ada	Yes
+Kewa Pueblo	ada	yes
+Areeta	ada	Yes
+Gobela	ada	Yes
+Courtenay railway station	ada	yes
+Parksville railway station	ada	yes
+Nanaimo railway station	ada	Yes
+USC station	ada	yes
+Buena Creek station	ada	Yes
+Civic Center-Vista station	ada	Yes
+Melrose Drive station	ada	Yes
+USC station	ada	yes
+Ortho Institute station	ada	yes
+Coast Highway station	ada	Yes
+Crouch Street station	ada	Yes
+El Camino Real station	ada	Yes
+Rancho Del Oro station	ada	Yes
+College Boulevard station	ada	Yes
+Vermont station	ada	yes
+Western station	ada	yes
+Farmdale station	ada	yes
+Crenshaw station	ada	yes
+La Brea station	ada	yes
+Jefferson station	ada	yes
+Culver City station	ada	yes
+Cermak–McCormick Place station	ada	yes
+Palms station	ada	yes
+Rancho Park station	ada	Yes
+Sepulveda station	ada	yes
+Bundy station	ada	yes
+Bergamot station	ada	yes
+Santa Monica College station	ada	yes
+Downtown Santa Monica station	ada	yes
+Buzzards Bay station	ada	Yes
+Algorta	ada	Yes
+Bidezabal	ada	Yes
+Berango	ada	Yes
+Asistio Avenue railway station	ada	Yes
+Solis railway station	ada	Yes
+Pandacan railway station	ada	yes
+Alabang railway station	ada	Yes
+Bon Pastor	ada	yes
+Weehawken Port Imperial	ada	yes
+Monrovia station	ada	yes
+Irwindale station	ada	yes
+City of Hope station	ada	yes
+Arcadia station	ada	yes
+Azusa Downtown station	ada	yes
+Citrus College station	ada	yes
+Larrabasterra	ada	Yes
+MacArthur Square station	ada	yes
+Marina South Pier MRT Station	ada	Yes
+Greenfield Village station	ada	Yes
+Lynx Central Station	ada	Yes
+Noida Golf Course metro station	ada	Yes
+Botanical Garden metro station	ada	Yes
+Noida Sector 16 metro station	ada	Yes
+Noida Sector 18 metro station	ada	Yes
+Noida Sector 15 metro station	ada	Yes
+New Ashok Nagar metro station	ada	Yes
+Sopela	ada	Yes
+Plentzia	ada	Yes
+Tatanagar Junction railway station	ada	yes
+Inderlok metro station	ada	Yes
+Sandton	ada	yes
+Ashok Park Main metro station	ada	Yes
+Marlboro	ada	yes
+Cruces	ada	Yes
+Mayur Vihar Extension metro station	ada	Yes
+Mayur Vihar-I metro station	ada	Yes
+Laxmi Nagar metro station	ada	Yes
+Nirman Vihar metro station	ada	Yes
+Rhodesfield	ada	yes
+Rosebank	ada	yes
+Midrand	ada	yes
+İzmir Alsancak Terminal	ada	Yes
+Madurai Junction railway station	ada	Yes
+Mauch Chunk station	ada	No
+Wilkes-Barre station	ada	No
+Lodi T.I.B.B.	ada	yes
+Çiğli railway station	ada	Yes
+Nervión	ada	Yes
+Gran Plaza	ada	Yes
+1º de Mayo	ada	Yes
+Amate	ada	Yes
+San Bernardo railway station	ada	Yes
+Adnan Menderes Airport railway station	ada	Yes
+Prado de San Sebastián	ada	Yes
+La Plata	ada	Yes
+Puerta Jerez	ada	Yes
+Plaza de Cuba	ada	Yes
+Parque de los Príncipes	ada	Yes
+Cocheras	ada	Yes
+Blas Infante	ada	Yes
+Torbalı railway station	ada	Yes
+Guadaíra railway station	ada	Yes
+Pablo de Olavide	ada	Yes
+San Juan Bajo	ada	Yes
+Onze de Setembre	ada	yes
+Ciudad Expo	ada	Yes
+Cavaleri	ada	Yes
+San Juan Alto	ada	Yes
+Condequinto	ada	Yes
+Montequinto	ada	Yes
+Europa	ada	Yes
+Olivar de Quintos	ada	Yes
+Tesalónica	ada	Yes
+Luis Uruñuela	ada	Yes
+Montesierra	ada	Yes
+Puerta Este	ada	Yes
+Ciencias	ada	Yes
+Adelfas	ada	Yes
+Aeronáutica	ada	Yes
+Clemente Hidalgo	ada	Yes
+Edirne railway station	ada	Yes
+Riverfront Transit Center	ada	Yes
+Naga railway station	ada	Yes
+Geneva Ave	ada	yes
+Stones Corner busway station	ada	yes
+Langlands Park busway station	ada	yes
+Kemer railway station	ada	Yes
+Biçerova railway station	ada	Yes
+Şirinyer railway station	ada	Yes
+Cumaovası railway station	ada	Yes
+Söğütlüçeşme railway station	ada	Yes
+Fort Canning MRT Station	ada	Yes
+Bencoolen MRT Station	ada	Yes
+Geylang Bahru MRT Station	ada	Yes
+Bendemeer MRT Station	ada	Yes
+Ubi MRT Station	ada	Yes
+Mattar MRT Station	ada	Yes
+Kaki Bukit MRT Station	ada	Yes
+Upper Changi MRT Station	ada	Yes
+Tampines East MRT Station	ada	Yes
+Bedok Reservoir MRT Station	ada	Yes
+Tampines West MRT Station	ada	Yes
+Bedok North MRT Station	ada	Yes
+Sestao	ada	Yes
+Abatxolo	ada	yes
+Chhatarpur metro station	ada	Yes
+Qutab Minar metro station	ada	Yes
+Koşu railway station	ada	Yes
+Thielenbruch	ada	Yes
+Neumarkt	ada	Yes
+Sitges railway station	ada	yes
+Hipodrom railway station	ada	Yes
+Gare d'Hargicourt-Pierrepont	ada	yes
+Brampton Downtown Terminal	ada	yes
+Bramalea Terminal	ada	yes
+Mississauga City Centre Transit Terminal	ada	yes
+Gare de Moreuil	ada	yes
+Jawaharlal Nehru Stadium metro station	ada	Yes
+Khan Market metro station	ada	Yes
+Moolchand metro station	ada	Yes
+Kailash Colony metro station	ada	Yes
+Jangpura metro station	ada	Yes
+Nehru Place metro station	ada	Yes
+Portugalete	ada	Yes
+Tutuban railway station	ada	yes
+Paulista	ada	yes
+Swargate Bus Station	ada	Yes
+ Fort Norfolk station	ada	yes
+ Freemason station	ada	yes
+Monticello station	ada	yes
+Civic Plaza station	ada	yes
+Harbor Park station	ada	yes
+NSU station	ada	yes
+ Broad Creek station	ada	yes
+Ingleside Road station	ada	yes
+Military Highway station	ada	yes
+RBWH busway station	ada	yes
+Leyendeckerstraße	ada	Yes
+Piusstraße	ada	Yes
+Körnerstraße	ada	Yes
+Äußere Kanalstraße	ada	Yes
+Akazienweg	ada	Yes
+Friesenplatz	ada	Yes
+Bensberg	ada	Yes
+Kalk Kapelle	ada	Yes
+Königsforst	ada	Yes
+Sülzgürtel	ada	Yes
+Figueres-Vilafant railway station	ada	Yes
+Potomac Yard station	ada	yes
+Tiradentes	ada	Yes
+São Bento	ada	Yes
+Sé	ada	Yes
+South Station	ada	Yes
+Liberdade	ada	Yes
+São Joaquim	ada	Yes
+Gul Circle MRT Station	ada	Yes
+Tuas Crescent MRT Station	ada	Yes
+Tuas West Road MRT Station	ada	Yes
+Tuas Link MRT Station	ada	Yes
+La Salut	ada	yes
+İnkilap railway station	ada	Yes
+Sarnıç railway station	ada	Yes
+Esbaş railway station	ada	Yes
+Semt Garajı railway station	ada	Yes
+Centennial Park station	ada	yes
+Tampa Bay Federal Credit Union Station	ada	yes
+Streetcar Society Station	ada	yes
+35th Street station	ada	Yes
+Salhane railway station	ada	Yes
+Lobo Special Events Platform	ada	yes
+Bayraklı railway station	ada	Yes
+Turan railway station	ada	Yes
+Naldöken railway station	ada	Yes
+Alaybey railway station	ada	Yes
+Demirköprü railway station	ada	Yes
+Mavişehir railway station	ada	Yes
+Nergiz railway station	ada	Yes
+Şemikler railway station	ada	Yes
+Karşıyaka railway station	ada	Yes
+Egekent railway station	ada	Yes
+Ulukent railway station	ada	Yes
+Egekent 2 railway station	ada	Yes
+Hatundere railway station	ada	Yes
+Figueres railway station	ada	Yes
+Corvetto	ada	yes
+Brenta	ada	yes
+Rogoredo	ada	yes
+Porto di Mare	ada	yes
+San Donato	ada	yes
+Sondrio	ada	yes
+Zara	ada	yes
+Maciachini	ada	yes
+Girona railway station	ada	Yes
+Van Dorn Street station	ada	Yes
+Kalk Post	ada	Yes
+Appellhofplatz	ada	Yes
+Cockrell Hill Transfer Location	ada	Yes
+North Denver Avenue MAX Station	ada	yes
+Grimsby railway station	ada	yes
+Vizcaya station	ada	Yes
+LRT Station	ada	Yes
+LRT Station	ada	Yes
+LRT Station	ada	Yes
+Back Bay station	ada	Yes
+Mahatma Gandhi bus station, Hyderabad	ada	yes
+30th Street Station	ada	yes
+Ebertplatz	ada	Yes
+Gare d'Estrées-Saint-Denis	ada	yes
+Marconi	ada	Yes
+Nizza	ada	Yes
+Dante	ada	Yes
+Carducci-Molinette	ada	Yes
+Lingotto	ada	Yes
+Spezia	ada	Yes
+Ariz	ada	Yes
+Fermi	ada	Yes
+Jefferson County Government Center–Golden station	ada	Yes
+Nottingham Trent University tram stop	ada	yes
+North Easton	ada	Yes
+Raynham Park	ada	Yes
+Taunton Depot	ada	Yes
+Freetown	ada	Yes
+Fall River	ada	Yes
+King's Highway	ada	Yes
+Battleship Cove	ada	Yes
+Whale's Tooth	ada	Yes
+Dergano	ada	Yes
+Affori Centro	ada	Yes
+Pagano	ada	yes
+Akoranga Busway Station	ada	Yes
+Union Station	ada	Yes
+John W. Olver Transit Center	ada	Yes
+Affori FN	ada	Yes
+Assembly	ada	Yes
+Comasina	ada	yes
+Providence Park MAX Station	ada	yes
+Bingham Junction	ada	Yes
+Borisovo	ada	Yes
+Historic Gardner	ada	Yes
+2700 West Sugar Factory Road	ada	Yes
+West Jordan City Center	ada	Yes
+Jordan Valley	ada	Yes
+4800 West Old Bingham Highway	ada	Yes
+5600 West Old Bingham Highway	ada	Yes
+Daybreak Parkway	ada	Yes
+South Jordan Parkway	ada	Yes
+River Trail	ada	Yes
+Redwood Junction	ada	Yes
+Smales Farm Busway Station	ada	Yes
+Kellinghusenstraße	ada	Yes
+Tracy Transit Center	ada	Yes
+Essen-Gerschede station	ada	yes
+Essen West station	ada	yes
+Bisceglie	ada	yes
+Sunnynook Busway Station	ada	Yes
+Essen-Borbeck Süd station	ada	yes
+Sagrado Corazón	ada	Yes
+Hato Rey	ada	Yes
+Roosevelt	ada	Yes
+Domenech	ada	Yes
+Piñero	ada	Yes
+Rudolfplatz	ada	Yes
+Poststraße	ada	Yes
+Barbarossaplatz	ada	Yes
+Wiener Platz	ada	Yes
+Oregon Short Line Railroad Depot	ada	Yes
+West Valley Central	ada	Yes
+Vigo-Urzáiz railway station	ada	yes
+Decker Lake	ada	Yes
+Northshore Hamilton ferry wharf	ada	yes
+Havana Central railway station	ada	yes
+Newmarket	ada	yes
+Jalan Besar MRT Station	ada	Yes
+Vigo-Guixar railway station	ada	yes
+Stadyum	ada	Yes
+Bölge	ada	Yes
+Hilal	ada	Yes
+Inter City Bus Terminal, Hyderabad	ada	yes
+Talbot Ave	ada	yes
+South Jordan	ada	Yes
+Blue Hill Avenue	ada	yes
+Rishon LeZion Moshe Dayan Railway Station	ada	yes
+Bat Yam-Yoseftal Railway Station	ada	yes
+Romolo	ada	Yes
+Porta Genova	ada	Yes
+Lee's Summit station	ada	Yes
+Kansas City Union Station	ada	Yes
+Assago Milanofiori Nord	ada	Yes
+Famagosta	ada	Yes
+Assago Milanofiori Forum	ada	Yes
+Abbiategrasso	ada	Yes
+Old Colony Railroad Station	ada	Yes
+Piola	ada	Yes
+Udine	ada	Yes
+Lambrate	ada	Yes
+Yedikule railway station	ada	Yes
+Llefià	ada	yes
+Halkalı railway station	ada	Yes
+Westerland	ada	Yes
+White Mountain Central Railroad	ada	Yes
+Ramsey	ada	Yes
+Hilal railway station	ada	yes
+Rathmannsdorf railway station	ada	Yes
+Bad Schandau station	ada	Yes
+Basauri	ada	Yes
+Basmane	ada	Yes
+Old Market Square tram stop	ada	yes
+Shipilovskaya	ada	Yes
+Brin	ada	Yes
+Dinegro	ada	Yes
+De Ferrari	ada	Yes
+Sant'Agostino	ada	Yes
+Zyablikovo	ada	Yes
+Principe	ada	Yes
+San Giorgio	ada	Yes
+Darsena	ada	Yes
+Andheri railway station	ada	Yes
+Juárez	ada	Yes
+Refugio	ada	Yes
+Kamphaeng Phet Station	ada	yes
+Çankaya	ada	Yes
+Konak	ada	Yes
+Üçyol	ada	Yes
+Oakland International Airport station	ada	Yes
+Mall of the Emirates	ada	yes
+Maltepe railway station	ada	Yes
+Guruvayur railway station	ada	Yes
+Göztepe railway station	ada	Yes
+Bulvar Admirala Ushakova	ada	yes
+Yavne West Railway Station	ada	yes
+North Side	ada	true
+Allegheny	ada	true
+Lebanon station	ada	No
+Ulitsa Gorchakova	ada	yes
+Udhagamandalam railway station	ada	yes
+Bakırköy railway station	ada	Yes
+Cankurtaran railway station	ada	Yes
+Madhupur Junction railway station	ada	yes
+Draper Town Center	ada	Yes
+Roscoe station	ada	yes
+Nordhoff station	ada	yes
+Biñan railway station	ada	Yes
+Jammu Tawi railway station	ada	Yes
+Ligao railway station	ada	Yes
+Sant Adrià de Besòs railway station	ada	Yes
+San Pablo metro station	ada	yes
+Los Héroes metro station	ada	yes
+Santa Ana metro station	ada	yes
+Baquedano metro station	ada	yes
+Cold Spring Lane	ada	Yes
+Lucena railway station	ada	Yes
+South Fremont station	ada	Yes
+Rockford	ada	Yes
+Puente Cal y Canto metro station	ada	yes
+Wabash	ada	yes
+Boston Landing	ada	Yes
+Pajaritos metro station	ada	yes
+Vicente Valdés metro station	ada	yes
+Parque O'Higgins metro station	ada	yes
+Toesca metro station	ada	yes
+Plaza de Armas metro station	ada	yes
+Bellas Artes metro station	ada	yes
+Quinta Normal metro station	ada	yes
+ Township 9	ada	Yes
+Sunnyside	ada	yes
+Lincoln station	ada	Yes
+College Avenue	ada	yes
+Gilman Square	ada	Yes
+Washington Street	ada	Yes
+Union Square	ada	Yes
+Sinpyeong Station	ada	yes
+São Sebastião	ada	yes
+Palma Intermodal Station	ada	yes
+UIB metro station	ada	yes
+Son Sardina metro station	ada	yes
+Jacint Verdaguer station	ada	yes
+Camí dels Reis metro station	ada	yes
+ Son Fortesa station	ada	yes
+Gran Vía Asima metro station	ada	yes
+Son Castelló metro station	ada	yes
+Son Fuster Vell metro station	ada	yes
+Lincoln station	ada	yes
+Salvador metro station	ada	yes
+Patronato metro station	ada	yes
+Cerro Blanco metro station	ada	yes
+Cementerios metro station	ada	yes
+San Pablo railway station	ada	Yes
+Calamba railway station	ada	Yes
+Tajrish Metro Station	ada	yes
+Norfolk station	ada	Yes
+Northwest Plano Park & Ride	ada	Yes
+Escuela Militar metro station	ada	yes
+Parque Bustamante metro station	ada	yes
+El Golf metro station	ada	yes
+Freeport station	ada	True
+Lo Prado metro station	ada	yes
+Hat Yai Junction Railway Station	ada	yes
+Vicuña Mackenna metro station	ada	yes
+Macul metro station	ada	yes
+Las Torres metro station	ada	yes
+Cristóbal Colón metro station	ada	yes
+Francisco Bilbao metro station	ada	yes
+Príncipe de Gales metro station	ada	yes
+Ñuble metro station	ada	yes
+Simón Bolívar metro station	ada	yes
+Plaza Egaña metro station	ada	yes
+Galena station	ada	True
+Quilín metro station	ada	yes
+Dubuque Intermodal Transportation Center	ada	True
+Manquehue metro station	ada	yes
+Hernando de Magallanes metro station	ada	yes
+Rondizzoni metro station	ada	yes
+Monte Tabor metro station	ada	yes
+Blanqueado metro station	ada	yes
+Rodrigo de Araya metro station	ada	yes
+Carlos Valdovinos metro station	ada	yes
+Camino Agrícola metro station	ada	yes
+San Joaquín metro station	ada	yes
+Pedrero metro station	ada	yes
+Mirador metro station	ada	yes
+Bellavista de La Florida metro station	ada	yes
+Plaza de Maipú metro station	ada	yes
+Gruta de Lourdes metro station	ada	yes
+Woodlands North MRT Station	ada	Yes
+Springleaf MRT Station	ada	Yes
+Lentor MRT Station	ada	Yes
+Woodlands South MRT Station	ada	Yes
+Mayflower MRT Station	ada	Yes
+Bright Hill MRT Station	ada	Yes
+Mount Pleasant MRT Station	ada	Yes
+Great World MRT Station	ada	Yes
+Orchard Boulevard MRT Station	ada	Yes
+Napier MRT Station	ada	Yes
+Maxwell MRT Station	ada	Yes
+Havelock MRT Station	ada	Yes
+Upper Thomson MRT Station	ada	Yes
+Shenton Way MRT Station	ada	Yes
+Marina South MRT Station	ada	Yes
+Gardens by the Bay MRT Station	ada	Yes
+La Cisterna metro station	ada	yes
+Novokosino	ada	yes
+Rojas Magallanes metro station	ada	yes
+Trinidad metro station	ada	yes
+San José de la Estrella metro station	ada	yes
+Los Quillayes metro station	ada	yes
+Agdangan railway station	ada	Yes
+Ecuador metro station	ada	yes
+Vespucio Norte metro station	ada	yes
+Agios Nikolaos metro station	ada	yes
+Kato Patisia metro station	ada	yes
+Franklin metro station	ada	yes
+Los Orientales metro station	ada	yes
+Akropoli metro station	ada	Yes
+Del Sol metro station	ada	yes
+Downtown West – Kerby	ada	yes
+Santiago Bueras metro station	ada	yes
+Jukjeon Station	ada	yes
+Seongseo Industrial Complex Station	ada	yes
+Yongsan Station	ada	yes
+Igok Station	ada	yes
+Keimyung University Station	ada	yes
+Gangchang Station	ada	yes
+Gamsam Station	ada	yes
+Duryu Station	ada	yes
+Naedang Station	ada	yes
+Bangogae Station	ada	yes
+Lena	ada	True
+Roosevelt station	ada	True
+Sinnam Station	ada	yes
+Daesil Station	ada	yes
+Munyang Station	ada	yes
+Dasa Station	ada	yes
+Spotsylvania station	ada	yes
+Jeongpyeong Station	ada	yes
+Renens CFF station	ada	yes
+Amendola	ada	yes
+Lotto	ada	yes
+Lampugnano	ada	yes
+Bonola	ada	yes
+Baumwall	ada	Yes
+Rödingsmarkt	ada	Yes
+Molino Dorino	ada	yes
+St. Pauli	ada	Yes
+Pero	ada	yes
+Überseequartier	ada	Yes
+Stephansplatz	ada	Yes
+Gänsemarkt	ada	Yes
+HafenCity Universität	ada	Yes
+Feldstraße	ada	Yes
+Schlump	ada	Yes
+Messehallen	ada	Yes
+Agios Eleftherios metro station	ada	yes
+Brampton Gateway Terminal	ada	yes
+Toronto Pearson Terminal 1 Station	ada	Yes
+Legazpi railway station	ada	Yes
+Baao railway station	ada	Yes
+Byers Station Historic District	ada	No
+Hallerstraße	ada	Yes
+Mundsburg	ada	Yes
+Provo station	ada	Yes
+American Fork	ada	Yes
+Orem	ada	Yes
+Lehi	ada	Yes
+Draper	ada	Yes
+Dubai Marina	ada	yes
+Nakheel	ada	yes
+Jumeirah Lakes Towers	ada	yes
+Confederation GO Station	ada	Yes
+Bhubaneswar railway station	ada	Yes
+Business Bay	ada	yes
+Dubai Mall	ada	yes
+BurJuman	ada	yes
+Union	ada	yes
+Deira City Centre	ada	yes
+Al Ras	ada	yes
+Al Fahidi	ada	yes
+Guadalupe	ada	Yes
+Rashidiya	ada	yes
+Nakheel Harbour and Tower	ada	yes
+Palm Deira	ada	yes
+Kothavalasa railway station	ada	Yes
+Innisfail railway station	ada	Yes
+Financial Centre	ada	yes
+Santa Clara railway station	ada	yes
+Airport	ada	Yes
+1940 West North Temple	ada	Yes
+Fairpark	ada	Yes
+Power	ada	Yes
+Euclid	ada	Yes
+Bignami	ada	yes
+Milton ferry wharf	ada	yes
+Marmorkirken Station	ada	yes
+Victoria railway station	ada	Yes
+Phoenix Park tram stop	ada	yes
+Zaragoza-Delicias railway station	ada	Yes
+Yangsan Station	ada	yes
+Moody Centre station	ada	yes
+Santa Isabel metro station	ada	yes
+Irarrázaval metro station	ada	yes
+Paradiso	ada	Yes
+Marche	ada	Yes
+Massaua	ada	Yes
+Pozzo Strada	ada	Yes
+Monte Grappa	ada	Yes
+Racconigi	ada	Yes
+Rivoli	ada	Yes
+Bernini	ada	Yes
+Principi d'Acaja	ada	Yes
+XVIII Dicembre	ada	Yes
+Porta Susa	ada	Yes
+Vinzaglio	ada	Yes
+Re Umberto	ada	Yes
+Porta Nuova	ada	Yes
+Bande Nere	ada	yes
+Gambara	ada	yes
+Inganni	ada	yes
+Kimballs Lane	ada	Yes
+Los Dominicos metro station	ada	yes
+Crescent View	ada	Yes
+Padrauna railway station	ada	Yes
+Cumming metro station	ada	yes
+Taksim	ada	Yes
+Red Rocks College station	ada	Yes
+Federal Center station	ada	Yes
+Oak station	ada	Yes
+Lakewood–Wadsworth station	ada	Yes
+Lamar station	ada	Yes
+Garrison station	ada	Yes
+Perry station	ada	Yes
+Knox station	ada	Yes
+Decatur–Federal station	ada	Yes
+Sheridan station	ada	Yes
+Grecia metro station	ada	yes
+Elisa Correa metro station	ada	yes
+Las Mercedes metro station	ada	yes
+Protectora de la Infancia metro station	ada	yes
+Hospital Sótero del Río metro station	ada	yes
+Los Presidentes metro station	ada	yes
+San Ramón metro station	ada	yes
+Pudahuel metro station	ada	yes
+Laguna Sur metro station	ada	yes
+Santa Rosa metro station	ada	yes
+Barrancas metro station	ada	yes
+Plaza de Puente Alto metro station	ada	yes
+Leimert Park station	ada	yes
+Hyde Park station	ada	yes
+Martin Luther King Jr. station	ada	yes
+Downtown Inglewood station	ada	Yes
+Fairview Heights station	ada	yes
+Veterans station	ada	yes
+Century station	ada	yes
+Emirates Towers	ada	yes
+Baniyas Square	ada	yes
+Pennsauken Transit Center	ada	yes
+Janpath metro station	ada	Yes
+Santa Julia metro station	ada	yes
+La Granja metro station	ada	yes
+Manamadurai Junction railway station	ada	Yes
+La Brea station	ada	yes
+Fairfax station	ada	yes
+La Cienega station	ada	yes
+Wareham Village station	ada	yes
+San Bernardino Transit Center	ada	Yes
+Tuticorin railway station	ada	Yes
+Lakewood station	ada	Yes
+South Tacoma station	ada	Yes
+Bob Hope Airport–Hollywood Way station	ada	Yes
+Sam Sen Railway Station	ada	yes
+Bang Sue Junction Railway Station	ada	yes
+Ayutthaya Railway Station	ada	yes
+Cadrecha Plaza station	ada	yes
+Port Authority station	ada	yes
+York Street station	ada	yes
+Cumberland Avenue station	ada	yes
+Amalie Arena station	ada	yes
+HSBC Station	ada	yes
+Whiting station	ada	yes
+Lesoparkovaya	ada	yes
+Bittsevsky Park	ada	Yes
+Ramathibodi Hospital Railway Halt	ada	yes
+Ban Phachi Junction	ada	yes
+Sant’Eufemia Buffalora	ada	Yes
+Stazione FS	ada	Yes
+Prealpino	ada	Yes
+Lopburi Railway Station	ada	yes
+Bang Bamru Railway Station	ada	yes
+Bresciadue	ada	Yes
+Lamarmora	ada	Yes
+Nakhon Sawan Railway Station	ada	yes
+Volta	ada	Yes
+Poliambulanza	ada	Yes
+San Polo Parco	ada	Yes
+Sanpolino	ada	Yes
+San Polo	ada	Yes
+Jubilee Bus Station	ada	yes
+Vittoria	ada	Yes
+San Faustino	ada	Yes
+Marconi	ada	Yes
+Ospedale	ada	Yes
+Europa	ada	Yes
+The Forest tram stop	ada	yes
+Lace Market tram stop	ada	yes
+Mompiano	ada	Yes
+Casazza	ada	Yes
+Cabo Ruivo	ada	yes
+Olivais	ada	yes
+Chelas	ada	yes
+Bela Vista	ada	yes
+Olaias	ada	yes
+Alameda	ada	yes
+Saldanha	ada	yes
+Moscavide	ada	yes
+Encarnação	ada	yes
+Telheiras	ada	yes
+Mount Dennis station	ada	Yes
+Alvalade	ada	yes
+Buriram Railway Station	ada	yes
+Wien Matzleinsdorfer Platz railway station	ada	Yes
+Angul railway station	ada	Yes
+Kazlıçeşme railway station	ada	Yes
+Wien Liesing railway station	ada	Yes
+Lermontovsky Prospekt	ada	Yes
+Melbourne University tram stop	ada	Yes
+Kotelniki	ada	Yes
+Lo Vial metro station	ada	yes
+San Miguel metro station	ada	yes
+El Llano metro station	ada	yes
+Departamental metro station	ada	yes
+Ciudad del Niño metro station	ada	yes
+Einstein metro station	ada	yes
+Lumphini MRT Station	ada	yes
+Montaño	ada	yes
+Khlong Toei MRT Station	ada	yes
+Queen Sirikit National Convention Center MRT Station	ada	yes
+Phetchaburi MRT Station	ada	yes
+Thailand Cultural Centre MRT Station	ada	yes
+Sutthisan MRT Station	ada	yes
+Huai Khwang MRT Station	ada	yes
+Ratchadaphisek MRT Station	ada	yes
+Lat Phrao MRT Station	ada	yes
+Phahon Yothin MRT Station	ada	yes
+Chatuchak Park MRT Station	ada	yes
+Tao Poon MRT Station	ada	yes
+Khlong Bang Phai MRT Station	ada	yes
+Bang Son MRT Station	ada	yes
+Ratchaprarop Station	ada	yes
+Lat Krabang Station	ada	yes
+Ramkhamhaeng Station	ada	yes
+Ban Thap Chang Station	ada	yes
+Hua Mak Station	ada	yes
+Noosa Junction bus station	ada	Yes
+Sderot Railway Station	ada	yes
+Santiago de Cuba railway station	ada	yes
+Camagüey railway station	ada	yes
+Kirandul railway station	ada	Yes
+Den Chai Railway Station	ada	yes
+Sherman Way station	ada	yes
+Karaikal railway station	ada	Yes
+Burnett Transit Center	ada	Yes
+Rådhuspladsen Station	ada	yes
+Gammel Strand Station	ada	yes
+Schiphol Airport railway station	ada	Yes
+Nopo Station	ada	yes
+Hopo Station	ada	yes
+Kaya University Station	ada	yes
+Suyeong Station	ada	yes
+Deokcheon Station	ada	yes
+Minam Station	ada	yes
+Daejeo Station	ada	yes
+Putra Heights LRT Station	ada	yes
+Emirates	ada	yes
+Chinatown Station	ada	Yes
+Centurion	ada	yes
+300 East	ada	Yes
+South Salt Lake City	ada	Yes
+700 East	ada	Yes
+Sugarmont	ada	Yes
+500 East	ada	Yes
+Fairmont	ada	Yes
+Sand Lake Road station	ada	Yes
+New York State Fair station	ada	Yes
+DeBary station	ada	Yes
+Meerut City railway station	ada	Yes
+Florida Hospital Health Village station	ada	Yes
+Bhiwani Junction railway station	ada	Yes
+Sanford station	ada	Yes
+Wien Hetzendorf railway station	ada	No
+Longwood station	ada	Yes
+Maitland station	ada	Yes
+Altamonte Springs station	ada	Yes
+Lake Mary station	ada	Yes
+Near Northside	ada	Yes
+North Central	ada	Yes
+Moody Park	ada	Yes
+Cavalcade	ada	Yes
+Lindale Park	ada	Yes
+North Lindale	ada	Yes
+Northline Transit Center	ada	Yes
+Wandsbeker Chaussee station	ada	Yes
+Harburg Rathaus station	ada	Yes
+Ghatkopar metro station	ada	Yes
+Gandhinagar Jaipur railway station	ada	yES
+Holyoke station	ada	Yes
+Punalur railway station	ada	Yes
+Aeroport	ada	Yes
+Canberra MRT Station	ada	Yes
+Storey Train Station	ada	yes
+Troparyovo	ada	yes
+Bunbury railway station	ada	Yes
+Sirkazhi railway station	ada	Yes
+Chidambaram railway station	ada	Yes
+Jack Layton Ferry Terminal	ada	yes
+Palakkodu railway station	ada	Yes
+Omalur Junction railway station	ada	Yes
+Lo Ovalle metro station	ada	yes
+Taling Chan Junction	ada	yes
+Belvidere	ada	Yes
+Huntley	ada	Yes
+Las Parcelas metro station	ada	yes
+Dorsal metro station	ada	yes
+Zapadores metro station	ada	yes
+El Parrón metro station	ada	yes
+Alcalá de Henares Universidad railway station	ada	Yes
+Alcalá de Henares railway station	ada	Yes
+Tanjong Rhu MRT Station	ada	Yes
+Katong Park MRT Station	ada	Yes
+Marine Parade MRT Station	ada	Yes
+Tanjong Katong MRT Station	ada	Yes
+Marine Terrace MRT Station	ada	Yes
+Siglap MRT Station	ada	Yes
+Bayshore MRT Station	ada	Yes
+Bedok South MRT Station	ada	Yes
+Sungei Bedok MRT Station	ada	Yes
+Xilin MRT Station	ada	Yes
+Toronto Pearson Terminal 3 Station	ada	yes
+Toronto Pearson Viscount Station	ada	yes
+Keelesdale station	ada	Yes
+Caledonia station	ada	Yes
+Fairbank station	ada	Yes
+Oakwood station	ada	Yes
+Science Centre station	ada	Yes
+Leaside station	ada	Yes
+Laird station	ada	Yes
+Forest Hill station	ada	Yes
+Chaplin station	ada	Yes
+Mount Pleasant station	ada	Yes
+Oriole Park station	ada	Yes
+Ponale	ada	yes
+Bicocca	ada	yes
+Cà Granda	ada	yes
+Istria	ada	yes
+Marche	ada	yes
+Isola	ada	yes
+Thornton's Corners GO Station	ada	Yes
+Darlington GO Station	ada	Yes
+Bowmanville GO Station	ada	Yes
+Oshawa Central GO Station	ada	Yes
+Flamengo Station	ada	yes
+Largo do Machado Station	ada	yes
+Golden Mile stop	ada	Yes
+O'Connor stop	ada	Yes
+Wynford stop	ada	Yes
+Ionview stop	ada	Yes
+Sloane stop	ada	Yes
+Aga Khan Park & Museum stop	ada	Yes
+Hakimi Lebovic stop	ada	Yes
+Pharmacy stop	ada	Yes
+Birchmount stop	ada	Yes
+Thomaz Coelho Station	ada	yes
+Saens Peña Station	ada	yes
+Del Castilho Station	ada	yes
+Cidade Nova Station	ada	yes
+South 11th Street station	ada	yes
+North Carolina State Fair station	ada	Yes
+Heumarkt	ada	Yes
+Troy Transit Center	ada	Yes
+Mümmelmannsberg	ada	Yes
+Steinfurther Allee	ada	Yes
+Billstedt	ada	Yes
+Großhansdorf	ada	Yes
+Volksdorf	ada	Yes
+Wartenau	ada	Yes
+Wandsbek Markt	ada	Yes
+Wandsbek-Gartenstadt	ada	Yes
+Dehnhaide	ada	Yes
+Hamburger Straße	ada	Yes
+Rapid Central Station	ada	yes
+Nettelnburg station	ada	Yes
+Aumühle station	ada	Yes
+Orbitor station	ada	yes
+Etobicoke Creek station	ada	yes
+Spectrum station	ada	yes
+Tahoe station	ada	yes
+Renforth Gateway	ada	yes
+Tomken station	ada	yes
+Dixie station	ada	yes
+Cawthra station	ada	yes
+Central Parkway station	ada	yes
+Erin Mills GO Station	ada	Yes
+Winston Churchill GO Station	ada	yes
+Sasang Station	ada	yes
+Kryvyi Rih Main Station	ada	No
+Plaridel railway station	ada	Yes
+Gumaca railway station	ada	Yes
+Hondagua railway station	ada	Yes
+Tagkawayan railway station	ada	Yes
+Ragay railway station	ada	Yes
+Sipocot railway station	ada	Yes
+Pamplona PNR railway station	ada	Yes
+Libmanan railway station	ada	Yes
+Iriga railway station	ada	Yes
+Polangui railway station	ada	Yes
+Brignole	ada	Yes
+Matacon railway station	ada	Yes
+Pili railway station	ada	Yes
+Bato railway station	ada	Yes
+Sampaloc railway station	ada	Yes
+Oas railway station	ada	Yes
+Haliç	ada	Yes
+Yenikapı Transfer Center	ada	Yes
+Ayrılık Çeşmesi railway station	ada	Yes
+Üsküdar railway station	ada	Yes
+Heimfeld station	ada	Yes
+Neuwiedenthal station	ada	Yes
+Borgweg	ada	Yes
+Eppendorfer Baum	ada	Yes
+Kadıköy	ada	Yes
+Vezneciler	ada	Yes
+Şişhane	ada	Yes
+Atatürk Havalimanı	ada	Yes
+Aksaray	ada	Yes
+Beyoğlu	ada	Yes
+Kendall railway station	ada	Yes
+Evka 3	ada	Yes
+Ege Üniversitesi	ada	Yes
+Farmville station	ada	Yes
+Roanoke station	ada	Yes
+Ayrılık Çeşmesi	ada	Yes
+Levent	ada	Yes
+Emniyet—Fatih	ada	Yes
+Topkapı—Ulubatlı	ada	Yes
+Kirazlı	ada	Yes
+Bayrampaşa—Maltepe	ada	Yes
+Sağmalcılar	ada	Yes
+Kocatepe	ada	Yes
+Otogar	ada	Yes
+MetroKent	ada	Yes
+Başak Konutları	ada	Yes
+Siteler	ada	Yes
+Turgut Özal	ada	Yes
+İkitelli Sanayi	ada	Yes
+Boğaziçi Üniversitesi	ada	Yes
+Hacıosman	ada	Yes
+Osmanbey	ada	Yes
+Şişli—Mecidiyeköy	ada	Yes
+Gayrettepe	ada	Yes
+4. Levent	ada	Yes
+Sanayi	ada	Yes
+İ.T.Ü.—Ayazağa	ada	Yes
+Atatürk Oto Sanayi	ada	Yes
+Darüşşafaka	ada	Yes
+Johnson Creek MAX Station	ada	yes
+Olímpica de Engenho de Dentro Station	ada	yes
+Lattenkamp	ada	Yes
+Hammer Kirche	ada	Yes
+Emilienstraße	ada	Yes
+Osterstraße	ada	Yes
+Lutterothstraße	ada	Yes
+Christuskirche	ada	Yes
+Sengelmannstraße	ada	Yes
+Horner Rennbahn	ada	Yes
+Kumkapı railway station	ada	Yes
+Netivot Railway Station	ada	yes
+Wortendyke	ada	yes
+Central Station	ada	Yes
+Joliet Transportation Center	ada	Yes
+Milwaukie Transit Center	ada	yes
+Witchduck station	ada	yes
+Virginia Beach Town Center station	ada	yes
+A Coruña railway station	ada	yes
+Shiloh Road Station	ada	Yes
+AEON Bukit Tinggi LRT Station	ada	yes
+Bandar Botanik LRT Station	ada	yes
+Johan Setia LRT Station	ada	yes
+Kaltenkirchen station	ada	Yes
+Southeast Bybee Boulevard MAX Station	ada	yes
+Southwest 3rd Avenue MAX Station	ada	yes
+Portello	ada	yes
+Domodossola	ada	yes
+San Siro Stadio	ada	yes
+Segesta	ada	yes
+San Siro Ippodromo	ada	yes
+Shri Mahabirji railway station	ada	Yes
+Al Jaffliya	ada	yes
+Fateh Singhpura railway station	ada	Yes
+Cenisio	ada	yes
+UAE Exchange	ada	yes
+Tirona LRT Station	ada	yes
+Daang Hari LRT Station	ada	yes
+Congressional Avenue LRT Station	ada	yes
+Governor's Drive LRT Station	ada	yes
+Imus LRT Station	ada	yes
+Salitran LRT Station	ada	yes
+Ortigas LRT Station	ada	yes
+Meralco LRT Station	ada	yes
+L. Wood LRT Station	ada	yes
+Taytay LRT Station	ada	yes
+Bonifacio Avenue LRT Station	ada	yes
+Pasig LRT Station	ada	yes
+Jardim Oceânico Station	ada	Yes
+Tafourah - Grande Poste	ada	yes
+Khelifa Boukhalfa Station	ada	yes
+Aïssat Idir Station	ada	yes
+1er Mai Station	ada	yes
+Hamma Station	ada	yes
+Les Fusillés Station	ada	yes
+Jardin d'essai Station	ada	yes
+Cité Amirouche Station	ada	yes
+Cité Mer et Soleil Station	ada	yes
+Haï El Badr Station	ada	yes
+El Harrach Centre Station	ada	yes
+El Harrach Gare Station	ada	yes
+Bachdjarah Station	ada	yes
+Bachdjarah - Tennis Station	ada	yes
+Monumentale	ada	yes
+Terazidere	ada	Yes
+Davutpaşa—YTÜ	ada	Yes
+Merter	ada	Yes
+Zeytinburnu	ada	Yes
+Cape May City Rail Terminal	ada	Yes
+Honolulu International Airport station	ada	Yes
+Queen's Medical Centre tram stop	ada	yes
+University of Nottingham tram stop	ada	yes
+Clifton Centre tram stop	ada	yes
+Wilford Village tram stop	ada	yes
+Hyson Green Market tram stop	ada	yes
+Basford tram stop	ada	yes
+Meadows Embankment tram stop	ada	yes
+Cinderhill tram stop	ada	yes
+Wilkinson Street tram stop	ada	yes
+Little Italy–University Circle	ada	Yes
+Bulwell Forest tram stop	ada	yes
+Moor Bridge tram stop	ada	yes
+Keppel MRT Station	ada	Yes
+Hamilton Springs station	ada	yes
+Main Street station	ada	yes
+Main Street station	ada	yes
+Main Street station	ada	yes
+Main Street station	ada	yes
+Bhadrak railway station	ada	Yes
+Queens Walk tram stop	ada	yes
+Meadows Way West tram stop	ada	yes
+Bakırköy—İncirli	ada	Yes
+Faridabad Old metro station	ada	Yes
+Beeston transport interchange	ada	yes
+Main Street MAX Station	ada	yes
+Southeast Park Avenue MAX Station	ada	yes
+Southwest Moody MAX Station	ada	yes
+Southeast Water MAX Station	ada	yes
+Southeast 12th Avenue MAX Station	ada	yes
+Southeast 17th Avenue and Rhine Street MAX Station	ada	yes
+Southeast 17th Avenue and Holgate Boulevard MAX Station	ada	yes
+Valley Forge station	ada	no
+Royersford station	ada	No
+Schuylkill Haven station	ada	No
+Phoenixville station	ada	No
+Sharaf DG	ada	yes
+Birdsboro station	ada	No
+Franklin Street station	ada	No
+Pottsville station	ada	No
+Al Ghubaiba	ada	yes
+Bethlehem Union Station	ada	No
+Gerusalemme	ada	yes
+Market Street Station	ada	Yes
+Moscone Station	ada	Yes
+4th and Brannan Station	ada	Yes
+Dutton Park Place busway station	ada	Yes
+Hatfield	ada	yes
+Salem Town railway station	ada	Yes
+Cantonment MRT Station	ada	Yes
+Prince Edward MRT Station	ada	Yes
+Kennebunk station	ada	yes
+9th Street station	ada	yes
+Tre Torri	ada	yes
+Jajpur Keonjhar Road railway station	ada	Yes
+Aunrihar Junction railway station	ada	Yes
+Kumbakonam railway station	ada	Yes
+Peravurani railway station	ada	Yes
+MiamiCentral	ada	Yes
+Ofakim Railway Station	ada	yes
+Peralam Junction railway station	ada	Yes
+Dhenkanal railway station	ada	Yes
+İSTOÇ	ada	Yes
+Exton Transportation Center	ada	yes
+Pernem railway station	ada	Yes
+King of Prussia Transit Center	ada	yes
+Morrison Creek	ada	Yes
+Franklin	ada	Yes
+Cosumnes River College	ada	Yes
+Center Parkway	ada	Yes
+10th & Osage station	ada	Yes
+16th & California and 16th & Stout stations	ada	Yes
+18th & California and 18th & Stout stations	ada	Yes
+20th & Welton station	ada	Yes
+25th & Welton station	ada	Yes
+27th & Welton station	ada	Yes
+29th & Welton station	ada	Yes
+Talad Bang Yai MRT Station	ada	yes
+Bairabi railway station	ada	Yes
+Tepeköy railway station	ada	Yes
+Bhiwani City railway station	ada	Yes
+Polatlı YHT railway station	ada	Yes
+Malkhed railway station	ada	Yes
+Reinbek station	ada	Yes
+Wohltorf station	ada	Yes
+Klein Borstel	ada	No
+Fuhlsbüttel	ada	Yes
+Fuhlsbüttel Nord	ada	No
+Langenhorn Markt	ada	Yes
+Fort Lauderdale station	ada	Yes
+Langenhorn Nord	ada	No
+West Palm Beach station	ada	Yes
+Kiwittsmoor	ada	Yes
+Gregory Street tram stop	ada	yes
+Banspani	ada	Yes
+Ochsenzoll	ada	Yes
+Garstedt	ada	Yes
+NG2 tram stop	ada	yes
+University Boulevard tram stop	ada	yes
+Niantic station	ada	No
+Niantic station	ada	Yes
+Middle Street tram stop	ada	yes
+Wilford Lane tram stop	ada	yes
+Móstoles-El Soto railway station	ada	Yes
+Ruddington Lane tram stop	ada	yes
+Compton Acres tram stop	ada	yes
+Toton Lane tram stop	ada	yes
+Clifton South tram stop	ada	yes
+Summerwood Lane tram stop	ada	yes
+Chilwell Road tram stop	ada	yes
+Holy Trinity tram stop	ada	yes
+Rivergreen tram stop	ada	yes
+Southchurch Drive tram stop	ada	yes
+High Road – Central College tram stop	ada	yes
+Outer Station	ada	No
+Sam Yaek Bang Yai Station	ada	yes
+Nonthaburi Civic Center Station	ada	yes
+Trabrennbahn	ada	Yes
+Cator Lane tram stop	ada	yes
+Bramcote Lane tram stop	ada	yes
+Eskdale Drive tram stop	ada	yes
+Inham Road tram stop	ada	yes
+Radford Road tram stop	ada	yes
+Noel Street tram stop	ada	yes
+Beaconsfield Street tram stop	ada	yes
+Shipstone Street tram stop	ada	yes
+Farmsen	ada	Yes
+Bahçelievler	ada	Yes
+Thivim railway station	ada	Yes
+Easton station	ada	No
+Berne	ada	Yes
+Meiendorfer Weg	ada	No
+Konya railway station	ada	Yes
+Bozüyük YHT railway station	ada	Yes
+Bilecik YHT railway station	ada	Yes
+Arifiye railway station	ada	Yes
+Pamukova YHT railway station	ada	Yes
+Sapanca railway station	ada	Yes
+STA Plaza	ada	Yes
+Develiköy railway station	ada	yes
+Pancar railway station	ada	Yes
+Tekeli railway station	ada	Yes
+Kuşçuburun railway station	ada	Yes
+Selçuk railway station	ada	Yes
+Sağlık railway station	ada	Yes
+Karmali railway station	ada	Yes
+Verna railway station	ada	Yes
+Loliem railway station	ada	Yes
+Balli railway station	ada	Yes
+Suravali railway station	ada	Yes
+Bhatkal railway station	ada	Yes
+Spokane Community College	ada	Yes
+Pence-Cole Valley Transit Center	ada	Yes
+Grapevine-Main Street	ada	Yes
+Smithfield	ada	Yes
+Iron Horse	ada	Yes
+Shiv Vihar metro station	ada	Yes
+Johri Enclave metro station	ada	Yes
+Gokulpuri metro station	ada	Yes
+Jaffrabad metro station	ada	Yes
+Ashram metro station	ada	Yes
+East Azad Nagar metro station	ada	Yes
+ESI Hospital metro station	ada	Yes
+Vinobapuri metro station	ada	Yes
+Delhi Cantonment metro station	ada	Yes
+Trilokpuri metro station	ada	Yes
+Mayapuri metro station	ada	Yes
+King-Victoria Transit Hub	ada	yes
+Naraina Vihar metro station	ada	Yes
+Maujpur metro station	ada	Yes
+Punjabi Bagh West	ada	Yes
+Krishna Nagar	ada	Yes
+96th Street	ada	Yes
+Netanya Sapir Railway Station	ada	yes
+Karkarduma Court metro station	ada	Yes

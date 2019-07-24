@@ -1,0 +1,381 @@
+London Waterloo station	railcode	WAT
+London King's Cross railway station	railcode	KGX
+Liverpool Street station	railcode	LST
+London Paddington station	railcode	PAD
+Wallington railway station	railcode	WLT
+Euston railway station	railcode	EUS
+Marylebone station	railcode	MYB
+Mitcham Junction station	railcode	MIJ
+Woolwich Arsenal station	railcode	WWA
+Blackheath railway station	railcode	BKH
+London Bridge station	railcode	LBG
+Charing Cross railway station	railcode	CHX
+Cannon Street station	railcode	CST
+Finsbury Park station	railcode	FPK
+Highbury & Islington station	railcode	HHY
+Baker Street tube station	railcode	ZBS
+Limehouse station	railcode	LHS
+Bellingham railway station	railcode	BGM
+Clapham Junction railway station	railcode	CLJ
+Stoke Newington railway station	railcode	SKW
+St Pancras railway station	railcode	STP
+West Ealing railway station	railcode	WEA
+Greenwich station	railcode	GNW
+Maze Hill railway station	railcode	MZH
+Westcombe Park railway station	railcode	WCB
+Amersham station	railcode	AMR
+London Victoria station	railcode	VIC
+Streatham Hill railway station	railcode	SRH
+Battersea Park railway station	railcode	BAK
+Kew Gardens station	railcode	KWG
+Richmond	railcode	RMD
+Deptford railway station	railcode	DEP
+Fenchurch Street railway station	railcode	FST
+Moorgate station	railcode	MOG
+Canada Water station	railcode	ZCW
+West Ham station	railcode	WEH
+Stratford station	railcode	SRA
+Queen's Park	railcode	QPW
+Kensal Green station	railcode	KNL
+Harlesden station	railcode	HDN
+North Wembley station	railcode	NWB
+Stonebridge Park station	railcode	SBP
+South Kenton station	railcode	SOK
+Kenton station	railcode	KNT
+Willesden Junction station	railcode	WIJ
+Wembley Central station	railcode	WMB
+Harrow & Wealdstone station	railcode	HRW
+Old Street station	railcode	OLD
+Ealing Broadway station	railcode	EAL
+Blackfriars station	railcode	BFR
+Farringdon station	railcode	ZFD
+Crystal Palace railway station	railcode	CYP
+Shadwell railway station	railcode	SDE
+Lewisham station	railcode	LEW
+Vauxhall station	railcode	VXH
+Whitechapel station	railcode	ZLW
+Wapping railway station	railcode	WPE
+Rotherhithe railway station	railcode	ROE
+Barbican tube station	railcode	ZBB
+New Cross railway station	railcode	NWX
+New Cross Gate railway station	railcode	NXG
+Surrey Quays railway station	railcode	SQE
+City Thameslink railway station	railcode	CTK
+London Waterloo East railway station	railcode	WAE
+Kentish Town station	railcode	KTN
+Chalfont & Latimer station	railcode	CFO
+Watford Junction railway station	railcode	WFJ
+Custom House for ExCeL DLR station	railcode	CUS
+Brondesbury railway station	railcode	BSY
+Streatham railway station	railcode	STE
+Wimbledon station	railcode	WIM
+Brixton railway station	railcode	BRX
+Norbiton railway station	railcode	NBT
+Clapham High Street railway station	railcode	CLP
+South Bermondsey railway station	railcode	SBM
+Wandsworth Road railway station	railcode	WWR
+Denmark Hill railway station	railcode	DMK
+Brockley railway station	railcode	BCY
+Herne Hill railway station	railcode	HNH
+Peckham Rye railway station	railcode	PMR
+Queens Road Peckham railway station	railcode	QRP
+Gospel Oak railway station	railcode	GPO
+Barking station	railcode	BKG
+Southall railway station	railcode	STL
+Kensington	railcode	KPA
+East Croydon station	railcode	ECR
+Upminster station	railcode	UPM
+Dagenham Dock railway station	railcode	DDK
+Grays railway station	railcode	GRY
+Chafford Hundred Lakeside railway station	railcode	CFH
+Purfleet railway station	railcode	PFL
+Loughborough Junction railway station	railcode	LGJ
+Ockendon railway station	railcode	OCK
+Emerson Park railway station	railcode	EMP
+Romford railway station	railcode	RMF
+Belvedere railway station	railcode	BVD
+Essex Road railway station	railcode	EXR
+Drayton Park railway station	railcode	DYP
+Maryland railway station	railcode	MYL
+Ilford railway station	railcode	IFD
+Erith railway station	railcode	ERH
+Dartford railway station	railcode	DFD
+Harold Wood railway station	railcode	HRO
+Chadwell Heath railway station	railcode	CTH
+Goodmayes railway station	railcode	GMY
+Coulsdon South railway station	railcode	CDS
+Plumstead railway station	railcode	PLU
+Abbey Wood railway station	railcode	ABW
+Leytonstone High Road railway station	railcode	LER
+Harringay railway station	railcode	HGY
+Harringay Green Lanes railway station	railcode	HRY
+Catford Bridge railway station	railcode	CFB
+Acton Central railway station	railcode	ACC
+Catford railway station	railcode	CTF
+Acton Main Line railway station	railcode	AML
+Upper Holloway railway station	railcode	UHL
+Crouch Hill railway station	railcode	CRH
+Brondesbury Park railway station	railcode	BSP
+Birkbeck station	railcode	BIK
+Camden Road railway station	railcode	CMD
+Woodgrange Park railway station	railcode	WGR
+Walthamstow Queen's Road railway station	railcode	WMW
+Wanstead Park railway station	railcode	WNP
+Walthamstow Central station	railcode	WHC
+Seven Sisters station	railcode	SVS
+Blackhorse Road station	railcode	BHO
+South Tottenham railway station	railcode	STO
+South Ruislip station	railcode	SRU
+Leyton Midland Road railway station	railcode	LEM
+Manor Park railway station	railcode	MNP
+Lee railway station	railcode	LEE
+Rectory Road railway station	railcode	REC
+Queenstown Road	railcode	QRB
+Caledonian Road & Barnsbury railway station	railcode	CIR
+Chingford railway station	railcode	CHI
+Northumberland Park railway station	railcode	NUM
+Tottenham Hale station	railcode	TOM
+Petts Wood railway station	railcode	PET
+Orpington railway station	railcode	ORP
+Hampstead Heath railway station	railcode	HDH
+Gidea Park railway station	railcode	GDP
+Chorleywood station	railcode	CLW
+White Hart Lane railway station	railcode	WHL
+Bruce Grove railway station	railcode	BCV
+Clapton railway station	railcode	CPT
+Highams Park railway station	railcode	HIP
+Honor Oak Park railway station	railcode	HPA
+West Ruislip station	railcode	WRU
+Pinner tube station	railcode	ZPI
+Beckenham Junction station	railcode	BKJ
+Greenford station	railcode	GFD
+Grove Park railway station	railcode	GRP
+Dalston Kingsland railway station	railcode	DLK
+Putney railway station	railcode	PUT
+North Harrow tube station	railcode	ZNH
+Harrow-on-the-Hill station	railcode	HOH
+Hackney Central railway station	railcode	HKC
+Wood Street railway station	railcode	WST
+West Brompton station	railcode	WBP
+Heathrow Terminal 5 station	railcode	HWV
+Silver Street railway station	railcode	SLV
+Gunnersbury station	railcode	GUN
+Preston Road tube station	railcode	ZPR
+Sanderstead railway station	railcode	SNR
+Purley railway station	railcode	PUR
+Berrylands railway station	railcode	BRS
+Stratford International station	railcode	SFA
+Elmers End station	railcode	ELE
+West Croydon station	railcode	WCY
+Cheam railway station	railcode	CHE
+Falconwood railway station	railcode	FCN
+Rickmansworth station	railcode	RIC
+Seven Kings railway station	railcode	SVK
+Reedham	railcode	RHM
+Enfield Chase railway station	railcode	ENC
+Eltham railway station	railcode	ELW
+Kidbrooke railway station	railcode	KDB
+Nunhead railway station	railcode	NHD
+Wembley Stadium railway station	railcode	WCX
+Sudbury & Harrow Road railway station	railcode	SUD
+Sudbury Hill Harrow railway station	railcode	SDH
+Northolt Park railway station	railcode	NLT
+Forest Hill railway station	railcode	FOH
+Coulsdon Town railway station	railcode	CDN
+Hayes railway station	railcode	HYS
+Barnehurst railway station	railcode	BNH
+Imperial Wharf railway station	railcode	IMW
+Welling railway station	railcode	WLI
+Charlton railway station	railcode	CTN
+Woolwich Dockyard railway station	railcode	WWD
+Crofton Park railway station	railcode	CFT
+St Johns railway station	railcode	SAJ
+Hackney Wick railway station	railcode	HKW
+Homerton railway station	railcode	HMN
+Canonbury railway station	railcode	CNN
+Slade Green railway station	railcode	SGR
+Streatham Common railway station	railcode	SRC
+Sydenham	railcode	SYD
+Penge West railway station	railcode	PNW
+West Norwood railway station	railcode	WNW
+Gipsy Hill railway station	railcode	GIP
+Norwood Junction railway station	railcode	NWD
+Anerley railway station	railcode	ANZ
+Tulse Hill railway station	railcode	TUH
+Ladywell railway station	railcode	LAD
+New Beckenham railway station	railcode	NBC
+Lower Sydenham railway station	railcode	LSY
+Feltham railway station	railcode	FEL
+Clock House railway station	railcode	CLK
+Eden Park railway station	railcode	EDN
+West Wickham railway station	railcode	WWI
+West Dulwich railway station	railcode	WDU
+Sydenham Hill railway station	railcode	SYH
+Chislehurst railway station	railcode	CIT
+Bickley railway station	railcode	BKL
+Bromley South railway station	railcode	BMS
+Elmstead Woods railway station	railcode	ESD
+Kent House railway station	railcode	KTH
+Penge East railway station	railcode	PNE
+Shortlands railway station	railcode	SRT
+Hither Green railway station	railcode	HGR
+Mottingham railway station	railcode	MTG
+Bromley North railway station	railcode	BMN
+Sundridge Park railway station	railcode	SUP
+St Mary Cray railway station	railcode	SMY
+Crayford railway station	railcode	CRY
+Albany Park railway station	railcode	AYP
+Bexley railway station	railcode	BXY
+Sidcup railway station	railcode	SID
+New Eltham railway station	railcode	NEH
+Ravensbourne railway station	railcode	RVB
+Beckenham Hill railway station	railcode	BEC
+Chelsfield railway station	railcode	CLD
+Knockholt railway station	railcode	KCK
+East Dulwich railway station	railcode	EDW
+North Dulwich railway station	railcode	NDL
+Thornton Heath railway station	railcode	TTH
+Norbury railway station	railcode	NRB
+Selhurst railway station	railcode	SRS
+Wandsworth Common railway station	railcode	WSW
+Finchley Road & Frognal railway station	railcode	FNY
+Kentish Town West railway station	railcode	KTW
+Haydons Road railway station	railcode	HYR
+Wimbledon Chase railway station	railcode	WBO
+Morden South railway station	railcode	MDS
+Sutton	railcode	SUO
+South Merton railway station	railcode	SMO
+West Sutton railway station	railcode	WSU
+Sutton Common railway station	railcode	SUC
+St Helier railway station	railcode	SIH
+South Acton railway station	railcode	SAT
+Carshalton railway station	railcode	CSH
+Hackbridge railway station	railcode	HCB
+Tooting railway station	railcode	TOO
+Cricklewood railway station	railcode	CRI
+Waddon railway station	railcode	WDO
+Carshalton Beeches railway station	railcode	CSB
+Belmont railway station	railcode	BLM
+Banstead railway station	railcode	BAD
+Epsom Downs railway station	railcode	EPD
+Earlsfield railway station	railcode	EAD
+South Croydon railway station	railcode	SCY
+Purley Oaks railway station	railcode	PUO
+Ewell East railway station	railcode	EWE
+Kenley railway station	railcode	KLY
+Woodmansterne railway station	railcode	WME
+Riddlesdown railway station	railcode	RDD
+Bethnal Green railway station	railcode	BET
+Cambridge Heath railway station	railcode	CBH
+London Fields railway station	railcode	LOF
+Hackney Downs railway station	railcode	HAC
+West Drayton railway station	railcode	WDT
+Hayes & Harlington railway station	railcode	HAY
+Hanwell railway station	railcode	HAN
+Ewell West railway station	railcode	EWW
+Stoneleigh railway station	railcode	SNL
+Worcester Park railway station	railcode	WCP
+Motspur Park railway station	railcode	MOT
+Raynes Park railway station	railcode	RAY
+Chessington North railway station	railcode	CSN
+Tolworth railway station	railcode	TOL
+Malden Manor railway station	railcode	MAL
+Chessington South railway station	railcode	CSS
+New Malden railway station	railcode	NEM
+Surbiton railway station	railcode	SUR
+Hampton Court railway station	railcode	HMC
+Thames Ditton railway station	railcode	THD
+Wandsworth Town railway station	railcode	WNT
+Barnes railway station	railcode	BNS
+North Sheen railway station	railcode	NSH
+Mortlake railway station	railcode	MTL
+St Margarets	railcode	SMG
+Whitton railway station	railcode	WTN
+Hounslow railway station	railcode	HOU
+Twickenham railway station	railcode	TWI
+Isleworth railway station	railcode	ISL
+Syon Lane railway station	railcode	SYL
+Brentford railway station	railcode	BFD
+Kew Bridge railway station	railcode	KWB
+Chiswick railway station	railcode	CHK
+Barnes Bridge railway station	railcode	BNI
+Strawberry Hill railway station	railcode	STW
+Hampton Wick railway station	railcode	HMW
+Kingston	railcode	KNG
+Fulwell railway station	railcode	FLW
+Teddington railway station	railcode	TED
+Hampton	railcode	HMP
+Bexleyheath railway station	railcode	BXH
+Hornsey railway station	railcode	HRN
+Bowes Park railway station	railcode	BOP
+Alexandra Palace railway station	railcode	AAP
+Crews Hill railway station	railcode	CWH
+Grange Park railway station	railcode	GPK
+Palmers Green railway station	railcode	PAL
+Winchmore Hill railway station	railcode	WIH
+Gordon Hill railway station	railcode	GDH
+New Southgate railway station	railcode	NSG
+New Barnet railway station	railcode	NBA
+Hadley Wood railway station	railcode	HDW
+Oakleigh Park railway station	railcode	OKL
+St James Street railway station	railcode	SJS
+Brimsdown railway station	railcode	BMD
+Enfield Town railway station	railcode	ENF
+Bush Hill Park railway station	railcode	BHK
+Angel Road railway station	railcode	AGR
+Enfield Lock railway station	railcode	ENL
+Ponders End railway station	railcode	PON
+Edmonton Green railway station	railcode	EDR
+Stamford Hill railway station	railcode	SMH
+Southbury railway station	railcode	SBU
+Turkey Street railway station	railcode	TUR
+Northwood tube station	railcode	ZND
+Kensal Rise railway station	railcode	KNR
+South Hampstead railway station	railcode	SOH
+Headstone Lane railway station	railcode	HDL
+Kilburn High Road railway station	railcode	KBN
+Hendon railway station	railcode	HEN
+Mill Hill Broadway railway station	railcode	MIL
+Forest Gate railway station	railcode	FOG
+Elstree & Borehamwood railway station	railcode	ELS
+Hatch End railway station	railcode	HTE
+Castle Bar Park railway station	railcode	CBP
+South Greenford railway station	railcode	SGN
+Drayton Green railway station	railcode	DRG
+Swanley railway station	railcode	SAY
+Rye House railway station	railcode	RYH
+Theobalds Grove railway station	railcode	TEO
+St Margarets	railcode	SMT
+Broxbourne railway station	railcode	BXB
+Cheshunt railway station	railcode	CHN
+Ware railway station	railcode	WAR
+Waltham Cross railway station	railcode	WLC
+Hertford East railway station	railcode	HFE
+Upper Warlingham railway station	railcode	UWL
+Whyteleafe railway station	railcode	WHY
+Caterham railway station	railcode	CAT
+Whyteleafe South railway station	railcode	WHS
+Tattenham Corner railway station	railcode	TAT
+Bushey railway station	railcode	BSH
+Watford High Street railway station	railcode	WFH
+Dalston Junction railway station	railcode	DLJ
+Heathrow Central railway station	railcode	HXX
+Brentwood railway station	railcode	BRE
+Shenfield railway station	railcode	SNF
+West Hampstead Thameslink railway station	railcode	WHP
+Carpenders Park railway station	railcode	CPK
+Lea Bridge railway station	railcode	LEB
+Heathrow Terminal 4 railway station	railcode	HAF
+Haggerston railway station	railcode	HGG
+Hoxton railway station	railcode	HOX
+Shoreditch High Street railway station	railcode	SDC
+Kingswood railway station	railcode	KND
+Balham station	railcode	BAL
+Tadworth railway station	railcode	TAD
+Chipstead railway station	railcode	CHP
+North Woolwich railway station	railcode	NWW
+Elephant & Castle railway station	railcode	EPH
+Mitcham Eastfields railway station	railcode	MTC
+West Hampstead railway station	railcode	WHD
+Rainham	railcode	RNM
+Shepherd's Bush railway station	railcode	SPB

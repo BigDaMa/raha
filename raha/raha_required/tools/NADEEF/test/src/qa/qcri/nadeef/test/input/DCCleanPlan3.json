@@ -1,0 +1,13 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : ["test/src/qa/qcri/nadeef/test/input/dumptest.csv"]
+    },
+    "rule" : [
+        {
+            "name" : "myDC2",
+            "type" : "dc",
+            "value" : ["not(t1.C=t2.C&t1.A!=t2.A)"]
+        }
+    ]
+}

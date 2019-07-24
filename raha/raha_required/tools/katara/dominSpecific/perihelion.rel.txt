@@ -1,0 +1,571 @@
+Mercury	perihelion	* 0.307 499 AU\n* 46,001,200 km
+433 Eros	perihelion	1.133
+Pluto	perihelion	*
+Pluto	perihelion	* \n*
+Halley's Comet	perihelion	0.5859781115169086
+Halley's Comet	perihelion	--02-09
+Halley's Comet	perihelion	--07-28
+52 Europa	perihelion	2.785
+16 Psyche	perihelion	2.513
+4 Vesta	perihelion	2.15221
+2 Pallas	perihelion	2.13060671
+3 Juno	perihelion	1.98847
+Comet Hyakutake	perihelion	0.2301987
+65 Cybele	perihelion	459.654
+24 Themis	perihelion	406.8
+624 Hektor	perihelion	5.095
+5 Astraea	perihelion	2.08186277
+21 Lutetia	perihelion	2.036
+Borrelly	perihelion	1.35
+9969 Braille	perihelion	1.3265
+6 Hebe	perihelion	1.937
+Tempel 1	perihelion	1.509
+90 Antiope	perihelion	398.02
+90 Antiope	perihelion	2.6606
+45 Eugenia	perihelion	373.488
+216 Kleopatra	perihelion	2.089
+511 Davida	perihelion	2.57323875
+4183 Cuno	perihelion	0.7248
+4197 Morpheus	perihelion	0.5243
+4486 Mithra	perihelion	0.7417
+25143 Itokawa	perihelion	0.953
+8405 Asbolus	perihelion	6.8334
+51 Nemausa	perihelion	2.208
+18610 Arthurdent	perihelion	2.001
+3728 IRAS	perihelion	2.085
+3412 Kafka	perihelion	1.9941
+3325 TARDIS	perihelion	3.1395
+1981 Midas	perihelion	0.6215
+2830 Greenwich	perihelion	1.8899
+2865 Laurel	perihelion	2.381
+7 Iris	perihelion	1.833
+4065 Meinel	perihelion	2.0948
+4659 Roddenberry	perihelion	1.8373
+8 Flora	perihelion	277.995
+9 Metis	perihelion	313.556
+14 Irene	perihelion	321.602
+10 Hygiea	perihelion	2.7817
+17 Thetis	perihelion	319.991
+15 Eunomia	perihelion	2.149
+18 Melpomene	perihelion	268.472
+19 Fortuna	perihelion	2.052
+20 Massalia	perihelion	308.699
+23 Thalia	perihelion	301.483
+25 Phocaea	perihelion	267.314
+26 Proserpina	perihelion	362.816
+27 Euterpe	perihelion	290.966
+28 Bellona	perihelion	353.977
+29 Amphitrite	perihelion	354.398
+30 Urania	perihelion	309.338
+31 Euphrosyne	perihelion	2.438
+32 Pomona	perihelion	354.967
+35 Leukothea	perihelion	345.074
+36 Atalante	perihelion	286.217
+34 Circe	perihelion	2.40623
+37 Fides	perihelion	325.34
+40 Harmonia	perihelion	323.537
+38 Leda	perihelion	348.232
+39 Laetitia	perihelion	366.877
+41 Daphne	perihelion	2.014
+42 Isis	perihelion	283.89
+43 Ariadne	perihelion	274.339
+46 Hestia	perihelion	2.091
+47 Aglaja	perihelion	372.222
+48 Doris	perihelion	430.463
+49 Pales	perihelion	2.3813
+50 Virginia	perihelion	283.389
+53 Kalypso	perihelion	311.998
+54 Alexandra	perihelion	326.043
+56 Melete	perihelion	295.717
+57 Mnemosyne	perihelion	415.379
+58 Concordia	perihelion	2.583
+59 Elpis	perihelion	358.808
+60 Echo	perihelion	292.951
+63 Ausonia	perihelion	313.198
+62 Erato	perihelion	383.868
+64 Angelina	perihelion	351.784
+61 Danaë	perihelion	371.28
+66 Maja	perihelion	327.082
+67 Asia	perihelion	1.973
+69 Hesperia	perihelion	372.3
+70 Panopaea	perihelion	2.1402
+71 Niobe	perihelion	339.408
+73 Klytia	perihelion	382.115
+72 Feronia	perihelion	298.159
+74 Galatea	perihelion	315.937
+75 Eurydike	perihelion	278.028
+77 Frigga	perihelion	346.228
+76 Freia	perihelion	427.898
+78 Diana	perihelion	310.686
+79 Eurynome	perihelion	295.538
+80 Sappho	perihelion	274.831
+81 Terpsichore	perihelion	337.132
+82 Alkmene	perihelion	2.1609
+83 Beatrix	perihelion	334.023
+84 Klio	perihelion	269.828
+86 Semele	perihelion	369.116
+85 Io	perihelion	320.334
+87 Sylvia	perihelion	3.213
+88 Thisbe	perihelion	345.809
+91 Aegina	perihelion	346.826
+96 Aegle	perihelion	397.127
+121 Hermione	perihelion	446.029
+126 Velleda	perihelion	326.153
+135 Hertha	perihelion	1.92827931
+22 Kalliope	perihelion	391.03
+22 Kalliope	perihelion	2.6139
+15017 Cuppy	perihelion	1.9514
+	perihelion	1.1804
+2001 Einstein	perihelion	1.7427
+6223 Dahl	perihelion	2.4038
+26858 Misterrogers	perihelion	1.5373
+2101 Adonis	perihelion	0.4421
+259 Aletheia	perihelion	2.7347
+375 Ursula	perihelion	2.789
+34351 Decatur	perihelion	2.74
+3043 San Diego	perihelion	1.721
+Makemake	perihelion	38.59
+2100 Ra-Shalom	perihelion	0.4688
+2000	perihelion	4120
+4349 Tibúrcio	perihelion	1.9881
+20461 Dioretsa	perihelion	2.4076
+478 Tergeste	perihelion	2.7655
+512 Taurinensis	perihelion	1.632
+504 Cora	perihelion	2.1284
+647 Adelgunde	perihelion	1.9673
+651 Antikleia	perihelion	2.7319
+659 Nestor	perihelion	4.5717
+797 Montana	perihelion	2.3791
+789 Lena	perihelion	2.291
+806 Gyldénia	perihelion	2.9684
+884 Priamus	perihelion	4.5522
+914 Palisana	perihelion	1.93
+952 Caia	perihelion	2.2551
+1000 Piazzia	perihelion	2.3543
+1958 Chandra	perihelion	2.5821
+46610 Bésixdouze	perihelion	1.8589
+8991 Solidarity	perihelion	2.2796
+8992 Magnanimity	perihelion	1.8888
+30564 Olomouc	perihelion	2.2232
+9617 Grahamchapman	perihelion	1.9725
+10370 Hylonome	perihelion	18.869
+5264 Telephus	perihelion	4.6281
+2099 Öpik	perihelion	1.4694
+6267 Rozhen	perihelion	1.9661
+1575 Winifred	perihelion	1.9488
+1953 Rupertwildt	perihelion	2.541
+1971 Hagihara	perihelion	2.7358
+1955 McMath	perihelion	2.6702
+12373 Lancearmstrong	perihelion	2.1685
+12374 Rakhat	perihelion	1.7666
+1035 Amata	perihelion	2.5485
+5381 Sekhmet	perihelion	0.6667
+1042 Amazone	perihelion	2.94
+1045 Michela	perihelion	1.984059
+1181 Lilith	perihelion	2.139
+4674 Pauling	perihelion	1.7283
+2114 Wallenquist	perihelion	2.7459
+5011 Ptah	perihelion	0.818
+1967 Menzel	perihelion	1.9237
+4150 Starr	perihelion	1.8619
+	perihelion	39.812
+	perihelion	34.711
+6980 Kyusakamoto	perihelion	2.7031
+13070 Seanconnery	perihelion	1.7535
+2348 Michkovitch	perihelion	1.9862
+3673 Levy	perihelion	1.9136
+6344 P-L	perihelion	0.9327
+4149 Harrison	perihelion	2.3364
+	perihelion	4.3934
+3757 Anagolay	perihelion	1.0172
+3988 Huma	perihelion	1.0555
+	perihelion	4.991
+1139 Atami	perihelion	1.4502
+7092 Cadmus	perihelion	0.765
+6377 Cagney	perihelion	2.2029
+12359 Cajigal	perihelion	2.7028
+2007 VK184	perihelion	0.74227
+	perihelion	1.5375
+9991 Anežka	perihelion	2.6973
+8967 Calandra	perihelion	2.7052
+1868 Thersites	perihelion	4.74
+9983 Rickfienberg	perihelion	2.395
+3540 Protesilaos	perihelion	4.6509
+3709 Polypoites	perihelion	4.9278
+19741 Callahan	perihelion	1.9544
+9963 Sandage	perihelion	1.6832
+9964 Hideyonoguchi	perihelion	2.1000752
+5653 Camarillo	perihelion	1.2486
+5160 Camoes	perihelion	2.2327
+16879 Campai	perihelion	2.6896
+8776 Campestris	perihelion	2.1393
+	perihelion	2.1661
+9936 Al-Biruni	perihelion	2.5066
+12696 Camus	perihelion	2.2437
+49777 Cappi	perihelion	2.1978
+3578 Carestia	perihelion	2.5448
+78816 Caripito	perihelion	2.4326
+1213 Algeria	perihelion	2.741
+3277 Aaronson	perihelion	2.29
+2678 Aavasaksa	perihelion	2.0647
+8900 AAVSO	perihelion	2.1655
+4263 Abashiri	perihelion	1.926
+1390 Abastumani	perihelion	3.3166
+15262 Abderhalden	perihelion	2.7532
+5677 Aberdonia	perihelion	2.6635
+6805 Abstracta	perihelion	2.6902
+3409 Abramov	perihelion	2.6177
+5175 Ables	perihelion	1.8909
+9423 Abt	perihelion	2.4189
+9084 Achristou	perihelion	1.7149
+6522 Aci	perihelion	1.9106
+6349 Acapulco	perihelion	2.2933
+7803 Adachi	perihelion	2.6445
+1859 Kovalevskaya	perihelion	2.8908
+4401 Aditi	perihelion	1.1224
+6537 Adamovich	perihelion	1.7502
+7655 Adamries	perihelion	2.0837
+4450 Pan	perihelion	0.5962
+4362 Carlisle	perihelion	2.0111
+5023 Agapenor	perihelion	4.9144
+16765 Agnesi	perihelion	2.3364
+1800 Aguilar	perihelion	2.0356
+12848 Agostino	perihelion	2.3573
+3212 Agricola	perihelion	1.9144
+3192 A'Hearn	perihelion	1.9757
+31192 Aigoual	perihelion	2.2372
+1918 Aiguillon	perihelion	2.7847
+2826 Ahti	perihelion	3.0706
+4585 Ainonai	perihelion	2.0873
+3181 Ahnert	perihelion	2.0843
+1568 Aisleen	perihelion	1.7541
+3070 Aitken	perihelion	1.8502
+3787 Aivazovskij	perihelion	2.4821
+8187 Akiramisawa	perihelion	2.6217
+3067 Akhmatova	perihelion	1.9369
+5101 Akhmerov	perihelion	2.6564
+2153 Akiyama	perihelion	2.6488
+8034 Akka	perihelion	1.0815
+4797 Ako	perihelion	1.9694
+3872 Akirafujii	perihelion	2.1203
+9549 Akplatonov	perihelion	2.3238
+7385 Aktsynovia	perihelion	2.0894
+2927 Alamosa	perihelion	2.1034
+2500 Alascattalo	perihelion	2.0183
+2067 Aksnes	perihelion	3.2441
+4151 Alanhale	perihelion	2.7022
+8549 Alcide	perihelion	1.9811
+2697 Albina	perihelion	3.2796
+10656 Albrecht	perihelion	2.91
+6470 Aldrin	perihelion	1.9282
+14832 Alechinsky	perihelion	2.0081
+3174 Alcock	perihelion	2.5976
+5185 Alerossi	perihelion	2.4528
+17119 Alexisrodrz	perihelion	2.4852
+3771 Alexejtolstoj	perihelion	1.8496
+14335 Alexosipov	perihelion	1.7657
+3367 Alex	perihelion	2.5907
+15258 Alfilipenko	perihelion	2.6929
+5951 Alicemonet	perihelion	1.7165
+3851 Alhambra	perihelion	2.0355
+58097 Alimov	perihelion	1.8965
+11824 Alpaidze	perihelion	1.8268
+21558 Alisonliu	perihelion	2.2371
+7742 Altamira	perihelion	2.4986
+3037 Alku	perihelion	2.1663
+3045 Alois	perihelion	2.7786
+3567 Alvema	perihelion	1.9195
+8121 Altdorfer	perihelion	2.0119
+2207 Antenor	perihelion	5.0525
+1768 Appenzella	perihelion	2.0117
+10502 Armaghobs	perihelion	1.5759
+6469 Armstrong	perihelion	1.766
+1956 Artek	perihelion	2.8762
+4391 Balodis	perihelion	1.8777
+19982 Barbaradoore	perihelion	1.6662
+4524 Barklajdetolli	perihelion	2.0125
+6460 Bassano	perihelion	2.0184
+9115 Battisti	perihelion	2.1804
+2368 Beltrovata	perihelion	1.2359
+2034 Bernoulli	perihelion	1.8421
+5642 Bobbywilliams	perihelion	1.5431
+1635 Bohrmann	perihelion	2.6899
+2246 Bowell	perihelion	3.5867
+24105 Broughton	perihelion	2.2448
+4209 Briggs	perihelion	2.8871
+2430 Bruce Helin	perihelion	1.8555
+7553 Buie	perihelion	2.0402
+4936 Butakov	perihelion	1.9908
+24101 Cassini	perihelion	1.8277
+1622 Chacornac	perihelion	1.8706
+1510 Charlois	perihelion	2.2793
+1633 Chimay	perihelion	2.7977
+1919 Clemence	perihelion	1.7523
+29292 Conniewalker	perihelion	1.8811
+4008 Corbin	perihelion	1.864
+1806 Derice	perihelion	1.9989
+1961 Dufour	perihelion	2.7985
+9260 Edwardolson	perihelion	1.7626
+9826 Ehrenfreund	perihelion	2.7341
+1329 Eliane	perihelion	2.1622
+14627 Emilkowalski	perihelion	2.2144
+2253 Espinette	perihelion	1.6466
+13963 Euphrates	perihelion	2.4769
+5256 Farquhar	perihelion	2.0427
+3915 Fukushima	perihelion	2.3371
+2571 Geisei	perihelion	1.7968
+1777 Gehrels	perihelion	2.581
+2537 Gilmore	perihelion	2.1991
+1687 Glarona	perihelion	2.6005
+1823 Gliese	perihelion	1.9239
+17198 Gorjup	perihelion	2.0471
+8013 Gordonmoore	perihelion	1.2503
+3202 Graff	perihelion	3.4831
+9175 Graun	perihelion	2.2342
+5028 Halaesus	perihelion	4.5804
+7816 Hanoi	perihelion	1.633
+1845 Helewalda	perihelion	2.7992
+2005 Hencke	perihelion	2.1824
+1693 Hertzsprung	perihelion	2.0319
+7119 Hiera	perihelion	4.6332
+1897 Hind	perihelion	1.957
+4435 Holt	perihelion	1.5399
+9069 Hovland	perihelion	1.687
+3425 Hurukawa	perihelion	2.7469
+9564 Jeffwynn	perihelion	1.5969
+145534 Jhongda	perihelion	2.3238
+2874 Jim Young	perihelion	1.9439
+11949 Kagayayutaka	perihelion	2.5442
+17683 Kanagawa	perihelion	2.5114
+5333 Kanaya	perihelion	1.9519
+4265 Kani	perihelion	1.9401
+6546 Kaye	perihelion	2.8832
+2156 Kate	perihelion	1.7926
+78431 Kemble	perihelion	2.0742
+2140 Kemerovo	perihelion	2.813
+3785 Kitami	perihelion	2.6844
+19763 Klimesh	perihelion	1.916
+2296 Kugultinov	perihelion	2.6493
+6255 Kuma	perihelion	2.6527
+1954 Kukarkin	perihelion	2.02
+1776 Kuiper	perihelion	3.0617
+3040 Kozai	perihelion	1.4721
+1929 Kollaa	perihelion	2.1851
+6500 Kodaira	perihelion	1.6085
+1850 Kohoutek	perihelion	1.9678
+3240 Laocoon	perihelion	4.5762
+1597 Laugier	perihelion	2.5868
+4147 Lennon	perihelion	2.171
+3793 Leonteus	perihelion	4.7457
+145523 Lulin	perihelion	2.2493
+1936 Lugano	perihelion	2.3132
+1334 Lundmarka	perihelion	2.636
+5430 Luu	perihelion	1.8351
+4358 Lynn	perihelion	2.1546
+4055 Magellan	perihelion	1.2259
+4904 Makio	perihelion	2.0798
+11118 Modra	perihelion	2.122
+1605 Milankovitch	perihelion	2.7785
+4222 Nancita	perihelion	1.6697
+6025 Naotosato	perihelion	2.81
+7476 Ogilsbie	perihelion	2.4301
+9844 Otani	perihelion	2.1093
+1529 Oterma	perihelion	3.1919
+6793 Palazzolo	perihelion	2.2589
+12482 Pajka	perihelion	2.0256
+13154 Petermrva	perihelion	1.8414
+13062 Podarkes	perihelion	5.1092
+4348 Poulydamas	perihelion	4.7256
+14871 Pyramus	perihelion	2.5583
+5040 Rabinowitz	perihelion	1.8712
+8661 Ratzinger	perihelion	2.9007
+9165 Raup	perihelion	1.7923
+3873 Roddy	perihelion	1.6388
+2518 Rutllant	perihelion	1.9095
+13260 Sabadell	perihelion	2.1443
+4606 Saheki	perihelion	2.0226
+1979 Sakharov	perihelion	2.1369
+7336 Saunders	perihelion	1.1969
+2308 Schilt	perihelion	2.1115
+13006 Schwaar	perihelion	1.8144
+4003 Schumann	perihelion	3.1055
+2384 Schulhof	perihelion	2.2996
+3822 Segovia	perihelion	2.0035
+4607 Seilandfarm	perihelion	2.2193
+3133 Sendai	perihelion	1.8298
+2197 Shanghai	perihelion	2.7595
+5692 Shirao	perihelion	2.1735
+1977 Shura	perihelion	2.5785
+2554 Skiff	perihelion	1.9344
+2433 Sootiyo	perihelion	2.0289
+4713 Steel	perihelion	1.7848
+1847 Stobbe	perihelion	2.5549
+1692 Subbotina	perihelion	2.4014
+84882 Table Mountain	perihelion	1.8642
+5088 Tancredi	perihelion	2.6151
+15374 Teta	perihelion	1.67
+4902 Thessandrus	perihelion	4.9863
+1980 Tezcatlipoca	perihelion	1.086
+3255 Tholen	perihelion	1.5086
+2391 Tomita	perihelion	2.1136
+1590 Tsiolkovskaja	perihelion	1.8807
+2013 Tucapel	perihelion	1.7718
+13123 Tyson	perihelion	1.7202
+1276 Ucclia	perihelion	2.8781
+5254 Ulysses	perihelion	4.608
+1781 Van Biesbroeck	perihelion	2.1355
+3962 Valyaev	perihelion	2.841
+17163 Vasifedoseev	perihelion	2.6705
+17035 Velichko	perihelion	2.0827
+2014 Vasilevskis	perihelion	1.712
+1704 Wachmann	perihelion	2.0294
+1940 Whipple	perihelion	2.8656
+13732 Woodall	perihelion	2.1364
+23712 Willpatrick	perihelion	1.7877
+19848 Yeungchuchiu	perihelion	2.7765
+1296 Andrée	perihelion	2.0737
+5010 Amenemhêt	perihelion	2.16
+10645 Brač	perihelion	2.1785
+13390 Bouška	perihelion	2.1286
+95179 Berkó	perihelion	1.9206
+3674 Erbisbühl	perihelion	1.4731
+7548 Engström	perihelion	2.6427
+9641 Demazière	perihelion	2.128
+10551 Göteborg	perihelion	2.8031
+11948 Justinehénin	perihelion	2.8199
+14968 Kubáček	perihelion	2.3211
+1558 Järnefelt	perihelion	3.1202
+1861 Komenský	perihelion	2.8261
+21873 Jindřichůvhradec	perihelion	2.5004
+24260 Kriváň	perihelion	2.2607
+3537 Jürgen	perihelion	2.1808
+6498 Ko	perihelion	1.8962
+10415 Mali Lošinj	perihelion	2.9125
+11252 Laërtes	perihelion	4.9934
+15811 Nüsslein-Volhard	perihelion	2.6746
+1563 Noël	perihelion	2.0041
+14974 Počátky	perihelion	2.4066
+1779 Paraná	perihelion	1.8238
+7204 Ondřejov	perihelion	2.3451
+1844 Susilva	perihelion	2.8597
+2011 Veteraniya	perihelion	2.0322
+2123 Vltava	perihelion	2.6335
+7846 Setvák	perihelion	1.9307
+7545 Smaklösa	perihelion	1.7348
+6102 Visby	perihelion	2.171
+6189 Völk	perihelion	1.9912
+7440 Závist	perihelion	2.1608
+13025 Zürich	perihelion	1.7212
+6181 Bobweber	perihelion	1.8498
+10121 Arzamas	perihelion	2.7138
+12621 Alsufi	perihelion	2.6983
+12999 Toruń	perihelion	1.8426
+12838 Adamsmith	perihelion	2.6991
+23436 Alekfursenko	perihelion	2.5361
+30718 Records	perihelion	1.8885
+	perihelion	1.9089
+7835 Myroncope	perihelion	1.9515
+	perihelion	0.9037
+116903 Jeromeapt	perihelion	2.0257
+2008 KV42	perihelion	21.108
+951 Gaspra	perihelion	1.825
+	perihelion	33.05
+100000 Astronautica	perihelion	1.7382
+4897 Tomhamilton	perihelion	2.6743
+	perihelion	4.9233
+10046 Creighton	perihelion	1.7794
+2010 A2	perihelion	2.01
+4949 Akasofu	perihelion	1.8887
+	perihelion	4.6374
+	perihelion	4.8564
+	perihelion	4.8144
+5357 Sekiguchi	perihelion	2.6792
+	perihelion	4.7385
+	perihelion	0.8866
+	perihelion	0.8302
+	perihelion	4.3043
+	perihelion	32.574
+	perihelion	1.1315
+	perihelion	4.7376
+	perihelion	0.6361
+	perihelion	5.0111
+	perihelion	1.7391
+	perihelion	1.0237
+6566 Shafter	perihelion	1.8901
+7959 Alysecherri	perihelion	1.7762
+9321 Alexkonopliv	perihelion	2.2949
+13003 Dickbeasley	perihelion	2.0337
+13058 Alfredstevens	perihelion	2.0859
+21501 Acevedo	perihelion	2.1481
+22577 Alfiuccio	perihelion	1.9504
+24988 Alainmilsztajn	perihelion	2.0635
+52266 Van Flandern	perihelion	1.8212
+	perihelion	37.27
+Read	perihelion	2.3647
+	perihelion	4.948
+2006 HH123	perihelion	30.0
+	perihelion	0.7437
+	perihelion	0.7711
+11351 Leucus	perihelion	4.9484
+	perihelion	0.9131
+8026 Johnmckay	perihelion	1.7803
+	perihelion	0.843
+	perihelion	0.6319
+11441 Anadiego	perihelion	1.9017
+2010 AU118	perihelion	1.1
+	perihelion	34.323
+	perihelion	21.146
+2010 GB174	perihelion	48.7
+2008 AO112	perihelion	0.9352
+	perihelion	4.9403
+PANSTARRS	perihelion	1.9365
+	perihelion	0.7409
+2010 JL88	perihelion	0.70654
+	perihelion	0.0928
+	perihelion	0.3054
+28439 Miguelreyes	perihelion	2.5053
+2007 OX	perihelion	0.981
+	perihelion	0.0803
+4324 Bickel	perihelion	2.037
+6250 Saekohayashi	perihelion	1.7952
+	perihelion	28.193
+2015 ER61	perihelion	1.059306
+21900 Orus	perihelion	4.9455
+31179 Gongju	perihelion	1.9738
+342843 Davidbowie	perihelion	2.504
+2013 RF98	perihelion	36.28
+20936 Nemrut Dagi	perihelion	1.6666
+21088 Chelyabinsk	perihelion	1.2994
+31641 Cevasco	perihelion	2.1232
+7784 Watterson	perihelion	1.7317
+7517 Alisondoane	perihelion	1.8082
+7526 Ohtsuka	perihelion	1.8107
+24827 Maryphil	perihelion	1.7985
+12564 Ikeller	perihelion	2.7273
+15224 Penttilä	perihelion	1.8329
+	perihelion	9.41
+2015 KH162	perihelion	41.4
+	perihelion	31.758
+341520 Mors–Somnus	perihelion	28.84
+	perihelion	2.0666
+	perihelion	2.7595
+2015 XX169	perihelion	0.81614
+2015 YQ1	perihelion	0.59681
+2015 YA	perihelion	0.71908
+2013 GP136	perihelion	41.1201
+57868 Pupin	perihelion	1.7743
+Uo3L91	perihelion	1430.0
+32145 Katberman	perihelion	1.99
+32226 Vikulgupta	perihelion	2.0619
+32008 Adriángalád	perihelion	1.7687
+22899 Alconrad	perihelion	2.612
+2014 OE394	perihelion	40.805
+	perihelion	23.7805
+2016 PQ	perihelion	0.86941
+	perihelion	2.2332
+17473 Freddiemercury	perihelion	2.0187
+	perihelion	2.1837
+	perihelion	2.7239
+	perihelion	2.2409
+2014 UZ224	perihelion	± 0.69
+2014 SR349	perihelion	539.09051936

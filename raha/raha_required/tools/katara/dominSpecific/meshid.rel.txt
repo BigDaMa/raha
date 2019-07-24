@@ -1,0 +1,2715 @@
+Autism	meshid	D001321
+Abortion	meshid	D000028
+Motor neuron disease	meshid	D016472
+Acute disseminated encephalomyelitis	meshid	D004673
+Abscess	meshid	D000038
+Arthritis	meshid	D001168
+Aphasia	meshid	D001037
+Albinism	meshid	D000417
+Alcoholism	meshid	D000437
+Amputation	meshid	D000673
+Arteriovenous malformation	meshid	D001165
+Brain abscess	meshid	D001922
+Bipolar disorder	meshid	D001714
+Bacterial vaginosis	meshid	D016585
+Catatonia	meshid	D002389
+Creutzfeldt–Jakob disease	meshid	D007562
+Coronary artery disease	meshid	D003324
+Chagas disease	meshid	D014355
+Chlamydia infection	meshid	D002690
+Candidiasis	meshid	D002177
+Color blindness	meshid	D003117
+Cholera	meshid	D002771
+Cerebral arteriovenous malformation	meshid	D002538
+Central pontine myelinolysis	meshid	D017590
+Charcot–Marie–Tooth disease	meshid	D002607
+Alcohol intoxication	meshid	D000435
+Down syndrome	meshid	D004314
+Dyslexia	meshid	D004410
+Major depressive disorder	meshid	D003865
+Endocarditis	meshid	D004696
+Expressive aphasia	meshid	D001039
+Essential tremor	meshid	D020329
+Epilepsy	meshid	D004827
+Goitre	meshid	D006042
+Genetic disorder	meshid	D030342
+Hypoglycemia	meshid	D007003
+Hyperthyroidism	meshid	D006980
+Hemiparesis	meshid	D006429
+Haemophilia	meshid	D025861
+Erectile dysfunction	meshid	D007172
+Interstitial cystitis	meshid	D018856
+Inclusion body myositis	meshid	D018979
+Lafora disease	meshid	D020192
+Lassa fever	meshid	D007835
+Lung cancer	meshid	D002283
+Leukemia	meshid	D007938
+Lambert–Eaton myasthenic syndrome	meshid	D015624
+Lymphedema	meshid	D008209
+Muscular dystrophy	meshid	D009136
+Myasthenia gravis	meshid	D009157
+Mental disorder	meshid	D001523
+Meconium aspiration syndrome	meshid	D008471
+Migraine	meshid	D008881
+Neuromyotonia	meshid	D020386
+Osteoporosis	meshid	D010024
+Optic neuritis	meshid	D009902
+Phenylketonuria	meshid	D010661
+Paraphilia	meshid	D010262
+Paranoia	meshid	D010259
+Pelvic inflammatory disease	meshid	D000292
+Autosomal dominant polycystic kidney disease	meshid	D016891
+Progressive multifocal leukoencephalopathy	meshid	D007968
+Idiopathic intracranial hypertension	meshid	D011559
+Repetitive strain injury	meshid	D012090
+Rheumatoid arthritis	meshid	D001172
+Receptive aphasia	meshid	D001041
+Rift Valley fever	meshid	D012295
+Ramsay Hunt syndrome type 2	meshid	D016697
+Systemic scleroderma	meshid	D012595
+Epileptic seizure	meshid	D012640
+Scurvy	meshid	D012614
+Stuttering	meshid	D013342
+Sleep apnea	meshid	D012891
+Sinusitis	meshid	D012852
+Stevens–Johnson syndrome	meshid	D013262
+Scabies	meshid	D012532
+Syphilis	meshid	D013587
+Syringomyelia	meshid	D013595
+Tuberculosis	meshid	D014376
+Typhoid fever	meshid	D014435
+Transient ischemic attack	meshid	D002546
+Giant-cell arteritis	meshid	D013700
+Transverse myelitis	meshid	D009188
+Urethritis	meshid	D014526
+Urinary tract infection	meshid	D014552
+Varicose veins	meshid	D014648
+Yellow fever	meshid	D015004
+Zoonosis	meshid	D015047
+Infection	meshid	D003141
+Brain tumor	meshid	D001932
+West Nile fever	meshid	D014901
+Encephalitis	meshid	D004660
+Head injury	meshid	D006259
+Kidney stone disease	meshid	D052878
+Hepatitis	meshid	D006505
+Dementia	meshid	D003704
+Trisomy	meshid	D014314
+XYY syndrome	meshid	D014997
+Dissociative identity disorder	meshid	D009105
+Botulism	meshid	D001906
+Anthrax	meshid	D000881
+Gender dysphoria	meshid	D000068116
+Fatal familial insomnia	meshid	D034062
+Convulsion	meshid	D012640
+Conjunctivitis	meshid	D003231
+Leprosy	meshid	D007918
+Diabetes insipidus	meshid	D003919
+Asthma	meshid	D001249
+Marfan syndrome	meshid	D008382
+Tetanus	meshid	D013742
+Cardiomyopathy	meshid	D009202
+Epidemic typhus	meshid	D014438
+Sleep disorder	meshid	D012893
+Huntington's disease	meshid	D006816
+Hallucination	meshid	D006212
+Turner syndrome	meshid	D014424
+Hearing loss	meshid	D034381
+Menopause	meshid	D008593
+Melanocytic nevus	meshid	D009508
+Parkinsonism	meshid	D020734
+Multiple sclerosis	meshid	D009103
+Cystic fibrosis	meshid	D003550
+Insomnia	meshid	D007319
+Cowpox	meshid	D015605
+Graves' disease	meshid	D006111
+Azotemia	meshid	D053099
+Pneumonia	meshid	D011014
+Mood disorder	meshid	D019964
+Androgen insensitivity syndrome	meshid	D013734
+Adrenoleukodystrophy	meshid	D000326
+Bell's palsy	meshid	D020330
+Fragile X syndrome	meshid	D005600
+Cervical cancer	meshid	D002583
+Endometriosis	meshid	D004715
+Polycystic ovary syndrome	meshid	D011085
+Ectopic pregnancy	meshid	D011271
+Munchausen syndrome	meshid	D009110
+Metabolic syndrome	meshid	D024821
+Prader–Willi syndrome	meshid	D011218
+Allergy	meshid	D006967
+Prostatitis	meshid	D011472
+Communication disorder	meshid	D003147
+Ménière's disease	meshid	D008575
+Complex regional pain syndrome	meshid	D020918
+Canavan disease	meshid	D017825
+Apraxia	meshid	D001072
+Neurofibromatosis	meshid	D017253
+Carpal tunnel syndrome	meshid	D002349
+Pelizaeus–Merzbacher disease	meshid	D020371
+Q fever	meshid	D011778
+Tay–Sachs disease	meshid	D013661
+Diabetic ketoacidosis	meshid	D016883
+Diabetic retinopathy	meshid	D003930
+Jet lag	meshid	D021081
+Achondroplasia	meshid	D000130
+Eating disorder	meshid	D001068
+Lactose intolerance	meshid	D007787
+Multiple chemical sensitivity	meshid	D018777
+Anxiety disorder	meshid	D001008
+Dermatitis	meshid	D004485
+Agoraphobia	meshid	D000379
+Freckle	meshid	D008548
+Erysipelas	meshid	D004886
+Measles	meshid	D008457
+Diphtheria	meshid	D004165
+Mumps	meshid	D009107
+Panic attack	meshid	D016584
+Wilson's disease	meshid	D006527
+Sjögren's syndrome	meshid	D012859
+Cardiac arrest	meshid	D006323
+Echinococcosis	meshid	D004443
+Trichuriasis	meshid	D014257
+Motion sickness	meshid	D009041
+Eosinophilia–myalgia syndrome	meshid	D016603
+Crohn's disease	meshid	D003424
+Coeliac disease	meshid	D002446
+Ulcerative colitis	meshid	D003093
+Pancreatitis	meshid	D010195
+Peptic ulcer	meshid	D010437
+Skin cancer	meshid	D012878
+Attention deficit hyperactivity disorder	meshid	D001289
+Sudden infant death syndrome	meshid	D013398
+Vitiligo	meshid	D014820
+Hypothyroidism	meshid	D007037
+Angina pectoris	meshid	D000787
+Pontiac fever	meshid	D007876
+HFE hereditary haemochromatosis	meshid	D006432
+Abetalipoproteinemia	meshid	D000012
+Breast cancer	meshid	D001943
+Non-Hodgkin lymphoma	meshid	D008228
+Lymphoma	meshid	D008223
+Hepatitis C	meshid	D006526
+Cytomegalovirus	meshid	D003586
+Toxoplasmosis	meshid	D014123
+Anaphylaxis	meshid	D000707
+Acne vulgaris	meshid	D000152
+Glaucoma	meshid	D005901
+Phocomelia	meshid	D004480
+Hernia	meshid	D006547
+Bornholm disease	meshid	D011000
+Hypertension	meshid	D006973
+Altitude sickness	meshid	D000532
+Scar	meshid	D002921
+Hyperglycemia	meshid	D006943
+Endemic goitre	meshid	D006043
+Cholesteatoma	meshid	D002781
+Posttraumatic stress disorder	meshid	D013313
+Rocky Mountain spotted fever	meshid	D012373
+Anemia	meshid	D000740
+Priapism	meshid	D011317
+Trichinosis	meshid	D014235
+Ketosis	meshid	D007662
+Atherosclerosis	meshid	D050197
+Arsenic poisoning	meshid	D020261
+Alpers' disease	meshid	D002549
+Paranoid schizophrenia	meshid	D012563
+Near-sightedness	meshid	D009216
+Prostate cancer	meshid	D011471
+Benign prostatic hyperplasia	meshid	D011470
+Trichomoniasis	meshid	D014246
+Prune belly syndrome	meshid	D011535
+Brachydactyly	meshid	D059327
+Waterhouse–Friderichsen syndrome	meshid	D014884
+Cushing's syndrome	meshid	D003480
+Impetigo	meshid	D007169
+Shigellosis	meshid	D004405
+Common cold	meshid	D003139
+Morvan's syndrome	meshid	D013595
+Autoimmunity	meshid	D001327
+Conjoined twins	meshid	D014428
+Spasticity	meshid	D009128
+Argyria	meshid	D001129
+Neuroleptic malignant syndrome	meshid	D009459
+Hirsutism	meshid	D006628
+Orthostatic hypotension	meshid	D007024
+Psoriasis	meshid	D011565
+Tinnitus	meshid	D014012
+Substance abuse	meshid	D019966
+Vitamin deficiency	meshid	D001361
+Cancer	meshid	D009369
+Infectious mononucleosis	meshid	D007244
+Periodontitis	meshid	D010518
+Dwarfism	meshid	D004392
+African trypanosomiasis	meshid	D014353
+Rotavirus	meshid	D012400
+Peritonitis	meshid	D010538
+Miscarriage	meshid	D000022
+Bleeding	meshid	D006470
+Mastocytosis	meshid	D008415
+Hypothermia	meshid	D007035
+Peyronie's disease	meshid	D010411
+Alkaptonuria	meshid	D000474
+Brief reactive psychosis	meshid	D011618
+Speech disorder	meshid	D013064
+Borderline personality disorder	meshid	D001883
+General paresis of the insane	meshid	D009494
+Intrauterine growth restriction	meshid	D005317
+Self-harm	meshid	D016728
+Acute radiation syndrome	meshid	D011832
+Febrile seizure	meshid	D003294
+Back pain	meshid	D001416
+Diabetic coma	meshid	D003926
+Diabetes mellitus type 2	meshid	D003924
+Bruxism	meshid	D002012
+Brugada syndrome	meshid	D053840
+Sexual fetishism	meshid	D005329
+Ehlers–Danlos syndrome	meshid	D004535
+Hypochondriasis	meshid	D006998
+Locked-in syndrome	meshid	D011782
+Delirium	meshid	D003693
+Sepsis	meshid	D018805
+Conduct disorder	meshid	D019955
+Mitochondrial disease	meshid	D028361
+Glycogen storage disease	meshid	D006008
+Glycogen storage disease type V	meshid	D006012
+Keloid	meshid	D007627
+Substance intoxication	meshid	D011041
+Choking	meshid	D000402
+Bulimia nervosa	meshid	D052018
+Embolism	meshid	D004617
+Alopecia areata	meshid	D000506
+Agnosia	meshid	D000377
+Pertussis	meshid	D014917
+Viral meningitis	meshid	D008587
+Pediculosis	meshid	D010373
+Hand, foot, and mouth disease	meshid	D006232
+Rubella	meshid	D012409
+Congenital rubella syndrome	meshid	D012410
+Hemorrhoid	meshid	D006484
+Infertility	meshid	D007246
+Urinary incontinence	meshid	D014549
+Bowen's disease	meshid	D001913
+Histrionic personality disorder	meshid	D006677
+Thrombosis	meshid	D013927
+Coccidioidomycosis	meshid	D003047
+Ventricular fibrillation	meshid	D014693
+Esophageal atresia	meshid	D004933
+Drooling	meshid	D012798
+Agranulocytosis	meshid	D000380
+Respiratory failure	meshid	D012131
+Myelodysplastic syndrome	meshid	D009190
+Loa loa filariasis	meshid	D008118
+Narcissistic personality disorder	meshid	D010554
+Brain death	meshid	D001926
+Cyst	meshid	D003560
+Arteriosclerosis	meshid	D001161
+Macropsia	meshid	D014786
+Human papillomavirus infection	meshid	D030361
+Hyponatremia	meshid	D007010
+Schistosomiasis	meshid	D012552
+Pica	meshid	D010842
+Polydactyly	meshid	D017689
+Bladder cancer	meshid	D001749
+Tetraplegia	meshid	D011782
+Phimosis	meshid	D010688
+Tracheomalacia	meshid	D055090
+Langer–Giedion syndrome	meshid	D015826
+Aplastic anemia	meshid	D000741
+Severe acute respiratory syndrome	meshid	D045169
+Gastroesophageal reflux disease	meshid	D005764
+Barrett's esophagus	meshid	D001471
+Esophageal motility disorder	meshid	D015154
+Esophagitis	meshid	D004941
+Ascites	meshid	D001201
+Hiatus hernia	meshid	D006551
+Leishmaniasis	meshid	D007896
+Antisocial personality disorder	meshid	D000987
+Papilledema	meshid	D010211
+Haemophilia B	meshid	D002836
+Helicobacter pylori	meshid	D016481
+Hair loss	meshid	D000505
+Progeria	meshid	D011371
+Pulmonary embolism	meshid	D011655
+Arnold–Chiari malformation	meshid	D001139
+Williams syndrome	meshid	D018980
+Fistula	meshid	D005402
+Irritable bowel syndrome	meshid	D043183
+Venous thrombosis	meshid	D020246
+Akathisia	meshid	D011595
+Hepatitis D	meshid	D003699
+Trismus	meshid	D014313
+Otitis media	meshid	D010033
+Beriberi	meshid	D001602
+Sexual assault	meshid	D011902
+Myelitis	meshid	D009187
+Intracranial aneurysm	meshid	D002532
+Pharyngitis	meshid	D010612
+Stillbirth	meshid	D050497
+Dementia with Lewy bodies	meshid	D020961
+Binswanger's disease	meshid	D015140
+Vascular dementia	meshid	D015161
+Schizoid personality disorder	meshid	D012557
+Barth syndrome	meshid	D056889
+Premature ventricular contraction	meshid	D018879
+Advanced sleep phase disorder	meshid	D020178
+Delayed sleep phase disorder	meshid	D021081
+Obstetric fistula	meshid	D014624
+Alcohol abuse	meshid	D000437
+Hydranencephaly	meshid	D006832
+Lissencephaly	meshid	D054082
+Holoprosencephaly	meshid	D016142
+Microcephaly	meshid	D008831
+Macrocephaly	meshid	D058627
+Schizencephaly	meshid	D054220
+Severe combined immunodeficiency	meshid	D016511
+Burn	meshid	D002056
+Möbius syndrome	meshid	D020331
+Hereditary spastic paraplegia	meshid	D015419
+Compartment syndrome	meshid	D003161
+Whiplash	meshid	D014911
+Transmissible spongiform encephalopathy	meshid	D017096
+Amenorrhoea	meshid	D000568
+Neutropenia	meshid	D009503
+Rhabdomyolysis	meshid	D012206
+Adenocarcinoma	meshid	D000230
+Hepatocellular carcinoma	meshid	D006528
+Gangrene	meshid	D005734
+Disseminated intravascular coagulation	meshid	D004211
+Antiphospholipid syndrome	meshid	D016736
+Gigantism	meshid	D005877
+Eosinophilia	meshid	D004802
+Lymphocytosis	meshid	D008218
+Restless legs syndrome	meshid	D012148
+Pyromania	meshid	D005391
+Blister	meshid	D001768
+Pervasive developmental disorder	meshid	D002659
+Tetralogy of Fallot	meshid	D013771
+Schizoaffective disorder	meshid	D011618
+Esophageal cancer	meshid	D004938
+Lyme disease	meshid	D008193
+Tendinitis	meshid	D052256
+Mouth ulcer	meshid	D019226
+Psittacosis	meshid	D009956
+Hypertensive retinopathy	meshid	D058437
+Otosclerosis	meshid	D010040
+Sleepwalking	meshid	D013009
+Lactic acidosis	meshid	D000140
+Lipodystrophy	meshid	D008060
+Heart failure	meshid	D006333
+Bunion	meshid	D006215
+Callus	meshid	D002145
+Delusional disorder	meshid	D010259
+Keratoconus	meshid	D007640
+Lymphogranuloma venereum	meshid	D008219
+Achromatopsia	meshid	D003117
+Substance-related disorder	meshid	D019966
+Trench fever	meshid	D014205
+Malnutrition	meshid	D044342
+Krukenberg tumor	meshid	D007725
+Stomach cancer	meshid	D013274
+Cardiac tamponade	meshid	D002305
+Ergotism	meshid	D004881
+Liver tumor	meshid	D008113
+Alien hand syndrome	meshid	D055964
+Nephrotic syndrome	meshid	D009404
+Septo-optic dysplasia	meshid	D025962
+Methemoglobinemia	meshid	D008708
+Anhedonia	meshid	D059445
+De Quervain syndrome	meshid	D053684
+Malingering	meshid	D008306
+Tularemia	meshid	D014406
+Vaginismus	meshid	D052065
+Orf	meshid	D004474
+Onchocerciasis	meshid	D009855
+Multiple endocrine neoplasia	meshid	D009377
+Pheochromocytoma	meshid	D010673
+Teratoma	meshid	D013724
+Testicular torsion	meshid	D013086
+Acute necrotizing ulcerative gingivitis	meshid	D005892
+Thalassemia	meshid	D013789
+Torticollis	meshid	D014103
+Pneumothorax	meshid	D011030
+Pasteurellosis	meshid	D010326
+Sarcoidosis	meshid	D012507
+Gallstone	meshid	D042882
+Necrotizing fasciitis	meshid	D019115
+Lipoma	meshid	D008067
+Soft-tissue sarcoma	meshid	D018204
+Sarcoma	meshid	D012509
+Kernicterus	meshid	D007647
+Obsessive–compulsive personality disorder	meshid	D003193
+Eclampsia	meshid	D004461
+Multiple myeloma	meshid	D009101
+Lead poisoning	meshid	D007855
+Nephritis	meshid	D009393
+Capgras delusion	meshid	D002194
+Legg–Calvé–Perthes disease	meshid	D007873
+Amoebic dysentery	meshid	D004404
+Rapid eye movement sleep behavior disorder	meshid	D020447
+Carcinoma	meshid	D002277
+Testicular cancer	meshid	D013736
+Roseola	meshid	D005077
+Fifth disease	meshid	D016731
+Mesothelioma	meshid	D008654
+Acute bronchitis	meshid	D001991
+Cholecystitis	meshid	D002764
+Alcoholic liver disease	meshid	D008108
+Caroli disease	meshid	D016767
+Aneuploidy	meshid	D000782
+Dependent personality disorder	meshid	D003859
+Bone tumor	meshid	D001859
+Osteosarcoma	meshid	D012516
+Cluster headache	meshid	D003027
+Alpha 1-antitrypsin deficiency	meshid	D019896
+Croup	meshid	D003440
+Wernicke–Korsakoff syndrome	meshid	D020915
+Obesity hypoventilation syndrome	meshid	D010845
+Von Willebrand disease	meshid	D014842
+Hirschsprung's disease	meshid	D006627
+Trigeminal neuralgia	meshid	D014277
+Drug overdose	meshid	D062787
+Tabes dorsalis	meshid	D013606
+Fructose bisphosphatase deficiency	meshid	D015319
+Hyperprolactinaemia	meshid	D006966
+Tietze syndrome	meshid	D013991
+Fibromyalgia	meshid	D005356
+Vaginitis	meshid	D014627
+Congenital disorder	meshid	D009358
+Penile cancer	meshid	D010412
+Tension headache	meshid	D018781
+Pleurisy	meshid	D010998
+Aneurysm	meshid	D000783
+Bowel obstruction	meshid	D007415
+Anomic aphasia	meshid	D000849
+Phantom limb	meshid	D010591
+Congenital hypothyroidism	meshid	D003409
+Nocturnal enuresis	meshid	D053206
+Enuresis	meshid	D004775
+Korsakoff's syndrome	meshid	D020915
+Pterygium	meshid	D011625
+Bladder stone	meshid	D001744
+Bronchiectasis	meshid	D001987
+Hypersensitivity	meshid	D006967
+Kikuchi disease	meshid	D020042
+Gilbert's syndrome	meshid	D005878
+Babesiosis	meshid	D001404
+Filariasis	meshid	D005368
+Ganglion cyst	meshid	D045888
+Wound	meshid	D014947
+Vaccinia	meshid	D014615
+Ovarian cyst	meshid	D010048
+Mercury poisoning	meshid	D008630
+Hepatitis A	meshid	D006506
+Somatization disorder	meshid	D013001
+Koro	meshid	D016911
+Tuberculous cervical lymphadenitis	meshid	D014388
+Retinitis pigmentosa	meshid	D012174
+Pulmonary aspiration	meshid	D053120
+Pleural effusion	meshid	D010996
+Uniparental disomy	meshid	D024182
+Zollinger–Ellison syndrome	meshid	D015043
+Avoidant personality disorder	meshid	D010554
+Parasitic disease	meshid	D010272
+Pancreatic cancer	meshid	D010190
+Burkitt's lymphoma	meshid	D002051
+Long QT syndrome	meshid	D008133
+Chikungunya	meshid	D018354
+Pulmonary heart disease	meshid	D011660
+Absence seizure	meshid	D004832
+Cervicitis	meshid	D002575
+Frostbite	meshid	D005627
+Immune thrombocytopenic purpura	meshid	D016553
+Cerebral edema	meshid	D001929
+Arthralgia	meshid	D018771
+Post-polio syndrome	meshid	D016262
+Laryngeal cancer	meshid	D007822
+Glucose-6-phosphate dehydrogenase deficiency	meshid	D005955
+Epispadias	meshid	D004842
+Toxic shock syndrome	meshid	D012772
+Pneumoconiosis	meshid	D011009
+Colorado tick fever	meshid	D003121
+Sprain	meshid	D013180
+Encephalopathy	meshid	D001927
+Histoplasmosis	meshid	D006660
+Isosporiasis	meshid	D021865
+Dandruff	meshid	D063807
+Pilonidal cyst	meshid	D010864
+Squamous cell carcinoma	meshid	D002294
+Colic	meshid	D003085
+Concussion	meshid	D001924
+Limb-girdle muscular dystrophy	meshid	D049288
+Mastitis	meshid	D008413
+Chancroid	meshid	D002602
+Bacteremia	meshid	D016470
+Reye syndrome	meshid	D012202
+Paraplegia	meshid	D010264
+Hepatitis E	meshid	D016751
+Balanitis	meshid	D001446
+Myotonia	meshid	D009222
+Granuloma inguinale	meshid	D006100
+Molluscum contagiosum	meshid	D008976
+Hypoactive sexual desire disorder	meshid	D020018
+Sexual dysfunction	meshid	D020018
+Dysmenorrhea	meshid	D004412
+Giardiasis	meshid	D005873
+Rheumatic fever	meshid	D012213
+Lichen simplex chronicus	meshid	D009450
+Tinea versicolor	meshid	D014010
+Folliculitis	meshid	D005499
+Endometrial cancer	meshid	D016889
+Ascariasis	meshid	D001196
+Kidney cancer	meshid	D007680
+Ovarian cancer	meshid	D010051
+Pre-eclampsia	meshid	D011225
+Cryptorchidism	meshid	D003456
+Irritant diaper dermatitis	meshid	D003963
+Hantavirus	meshid	D018778
+Drug withdrawal	meshid	D013375
+Spinal muscular atrophies	meshid	D009134
+Asbestosis	meshid	D001195
+Itch	meshid	D011537
+Brucellosis	meshid	D002006
+Night terror	meshid	D020184
+Preterm birth	meshid	D047928
+Harlequin-type ichthyosis	meshid	D017490
+Nail disease	meshid	D009260
+Kleptomania	meshid	D007174
+Fanconi anemia	meshid	D005199
+Hemangiosarcoma	meshid	D006394
+Encopresis	meshid	D004688
+Granuloma	meshid	D006099
+Air embolism	meshid	D004618
+Septic shock	meshid	D012772
+Myocarditis	meshid	D009205
+B-cell chronic lymphocytic leukemia	meshid	D015451
+Arbovirus	meshid	D001102
+Oxygen toxicity	meshid	D018496
+Hydrocele testis	meshid	D006848
+Boutonneuse fever	meshid	D001907
+Retinoblastoma	meshid	D012175
+Barotrauma	meshid	D001469
+Retinopathy of prematurity	meshid	D012178
+Primary aldosteronism	meshid	D006929
+Seborrhoeic dermatitis	meshid	D012628
+Keratitis	meshid	D007634
+Melioidosis	meshid	D008554
+Polycythemia vera	meshid	D011087
+Bronchiolitis	meshid	D001988
+Human respiratory syncytial virus	meshid	D018357
+Uremia	meshid	D014511
+Glanders	meshid	D005896
+Acute respiratory distress syndrome	meshid	D012128
+Proteus syndrome	meshid	D016715
+Prosopagnosia	meshid	D020238
+Carbon monoxide poisoning	meshid	D002249
+Xanthoma	meshid	D014973
+Peripheral artery disease	meshid	D016491
+Tic	meshid	D020323
+Adenoma	meshid	D000236
+Anal fissure	meshid	D005401
+Ankylosing spondylitis	meshid	D013167
+Alkalosis	meshid	D000471
+Epididymitis	meshid	D004823
+Castleman's disease	meshid	D005871
+Hyperuricemia	meshid	D033461
+Hypercapnia	meshid	D006935
+Hypotension	meshid	D007022
+Hypovolemia	meshid	D020896
+Familial Mediterranean fever	meshid	D010505
+Hereditary spherocytosis	meshid	D013103
+Osteoarthritis	meshid	D010003
+Congenital adrenal hyperplasia	meshid	D000312
+Kyphosis	meshid	D007738
+Hypercalcaemia	meshid	D006934
+Disorders of calcium metabolism	meshid	D002128
+Cardiovascular disease	meshid	D002318
+Dyslipidemia	meshid	D050171
+Hypercholesterolemia	meshid	D006937
+Paroxysmal nocturnal hemoglobinuria	meshid	D006457
+Polycythemia	meshid	D011086
+Diabetic neuropathy	meshid	D003929
+Galactosemia	meshid	D005693
+Haemophilia C	meshid	D005173
+Nephrosis	meshid	D009401
+Hereditary coproporphyria	meshid	D046349
+Variegate porphyria	meshid	D046350
+Porphyria cutanea tarda	meshid	D017119
+Laryngitis	meshid	D007827
+Coxa vara	meshid	D060905
+Enteritis	meshid	D004751
+Chilblains	meshid	D002647
+Osteosclerosis	meshid	D010026
+Osteopetrosis	meshid	D010022
+Philadelphia chromosome	meshid	D010677
+Photophobia	meshid	D020795
+Transplant rejection	meshid	D006084
+Breech birth	meshid	D001946
+Erythema	meshid	D004890
+Dyscalculia	meshid	D060705
+Bolivian hemorrhagic fever	meshid	D006478
+Central nervous system cavernous hemangioma	meshid	D006392
+Pernicious anemia	meshid	D000752
+Amyloidosis	meshid	D000686
+Hematochezia	meshid	D006471
+Upper gastrointestinal bleeding	meshid	D006471
+Schizotypal personality disorder	meshid	D012569
+Hemolytic-uremic syndrome	meshid	D006463
+Adenitis	meshid	D008199
+Mucopolysaccharidosis	meshid	D009083
+Wolfram syndrome	meshid	D014929
+Whipple's disease	meshid	D008061
+Osteomalacia	meshid	D010018
+Mitral valve prolapse	meshid	D008945
+Septic arthritis	meshid	D001170
+Adrenal insufficiency	meshid	D000309
+Hyperammonemia	meshid	D022124
+Wilms' tumor	meshid	D009396
+Rhabdomyosarcoma	meshid	D012208
+Club foot	meshid	D003025
+Cardiofaciocutaneous syndrome	meshid	535579.0
+Marasmus	meshid	D011502
+Leigh disease	meshid	D007888
+Chronic myelogenous leukemia	meshid	D015464
+XY gonadal dysgenesis	meshid	D006061
+Gaucher's disease	meshid	D005776
+Deep vein thrombosis	meshid	D020246
+Gastrointestinal stromal tumor	meshid	D046152
+Graft-versus-host disease	meshid	D006086
+Hidradenitis suppurativa	meshid	D017497
+Lysosomal storage disease	meshid	D016464
+Strabismus	meshid	D013285
+Amblyopia	meshid	D000550
+Hematuria	meshid	D006417
+Fetal distress	meshid	D005316
+Hemolytic anemia	meshid	D000743
+Budd–Chiari syndrome	meshid	D006502
+Iron-deficiency anemia	meshid	D018798
+Catalepsy	meshid	D002375
+Rheumatism	meshid	D012216
+Psoriatic arthritis	meshid	D015535
+Dichromacy	meshid	D003117
+Osteomyelitis	meshid	D010019
+Raynaud syndrome	meshid	D011928
+Tumors of the hematopoietic and lymphoid tissues	meshid	D019337
+Arrhythmogenic right ventricular dysplasia	meshid	D019571
+Hypertrophy	meshid	D006984
+Hypertrophic cardiomyopathy	meshid	D002312
+Dilated cardiomyopathy	meshid	D002311
+Glucagonoma	meshid	D005935
+Anal cancer	meshid	D001005
+Constrictive pericarditis	meshid	D010494
+Viral hepatitis	meshid	D006525
+Peripheral neuropathy	meshid	D010523
+Borna disease	meshid	D001890
+Ichthyosis	meshid	D007057
+Congenital insensitivity to pain	meshid	D000699
+Myxedema	meshid	D009230
+Fabry disease	meshid	D000795
+Waardenburg syndrome	meshid	D014849
+Inflammatory bowel disease	meshid	D015212
+Ichthyosis vulgaris	meshid	D016112
+Lamellar ichthyosis	meshid	D017490
+Epidermolytic hyperkeratosis	meshid	D017488
+Juvenile idiopathic arthritis	meshid	D001171
+Growth hormone deficiency	meshid	D004393
+Atrial flutter	meshid	D001282
+Stroke	meshid	D020521
+Situs inversus	meshid	D012857
+Chemical burn	meshid	D002057
+Immunodeficiency	meshid	D007153
+AIDS-related lymphoma	meshid	D016483
+Silicosis	meshid	D012829
+Kidney disease	meshid	D007674
+Chronic granulomatous disease	meshid	D006105
+Bruise	meshid	D003288
+Primary ciliary dyskinesia	meshid	D002925
+Mushroom poisoning	meshid	D009145
+Fecal occult blood	meshid	D009780
+Alcoholic hepatitis	meshid	D006519
+Trypanosomiasis	meshid	D014352
+Mitral valve stenosis	meshid	D008946
+Glioma	meshid	D005910
+Coinfection	meshid	D060085
+Paget's disease of bone	meshid	D010001
+Myoclonus	meshid	D009207
+Delayed puberty	meshid	D011628
+Precocious puberty	meshid	D011629
+Aortic insufficiency	meshid	D001022
+Hypertriglyceridemia	meshid	D015228
+Dystonia	meshid	D004421
+Reperfusion injury	meshid	D015427
+Rectal prolapse	meshid	D012005
+Lumbar spinal stenosis	meshid	D013130
+Autoimmune polyendocrine syndrome	meshid	D016884
+Autoimmune hepatitis	meshid	D019693
+Hemoglobinuria	meshid	D006456
+Homocystinuria	meshid	D006712
+Epidermolysis bullosa	meshid	D004820
+Vasculitis	meshid	D014657
+Frontotemporal dementia	meshid	D003704
+Heart block	meshid	D006327
+Pulmonary hypertension	meshid	D006976
+Food allergy	meshid	D005512
+Mange	meshid	D008924
+Stenosis	meshid	D003251
+Panniculitis	meshid	D015434
+Pericarditis	meshid	D010493
+Lateral medullary syndrome	meshid	D014854
+Torsades de pointes	meshid	D016171
+Anovulation	meshid	D000858
+Contact dermatitis	meshid	D003877
+Paranoid personality disorder	meshid	D010260
+Basal-cell carcinoma	meshid	D002280
+Primary biliary cirrhosis	meshid	D008105
+Gestational diabetes	meshid	D016640
+Rectocele	meshid	D020047
+Esophageal varices	meshid	D004932
+Hypoparathyroidism	meshid	D007011
+Hyperparathyroidism	meshid	D006961
+Portal hypertension	meshid	D006975
+Scrub typhus	meshid	D012612
+Pleural empyema	meshid	D016724
+Atrophy	meshid	D001284
+Carbuncle	meshid	D002270
+Bursitis	meshid	D002062
+Pulmonary alveolar proteinosis	meshid	D011649
+Pyloric stenosis	meshid	D046248
+Ventricular tachycardia	meshid	D017180
+Acute kidney injury	meshid	D058186
+Chronic kidney disease	meshid	D007676
+Snakebite	meshid	D012909
+Melanoma	meshid	D008545
+Hyperdontia	meshid	D014096
+Subarachnoid hemorrhage	meshid	D013345
+Malignant hyperthermia	meshid	D008305
+Latex allergy	meshid	D020315
+Postoperative nausea and vomiting	meshid	D020250
+IgA nephropathy	meshid	D005922
+Diverticulitis	meshid	D004238
+Diverticulosis	meshid	D004240
+Paget's disease of the breast	meshid	D010144
+Hereditary hemorrhagic telangiectasia	meshid	D013683
+Thymoma	meshid	D013945
+Head and neck cancer	meshid	D006258
+Acanthosis nigricans	meshid	D000052
+Alport syndrome	meshid	2.964520944E11
+Amaurosis fugax	meshid	D020757
+Baker's cyst	meshid	D011151
+Tumor lysis syndrome	meshid	D015275
+Hereditary fructose intolerance	meshid	D005633
+Chilaiditi syndrome	meshid	D059269
+Dupuytren's contracture	meshid	D004387
+Cellulitis	meshid	D002481
+Klatskin tumor	meshid	D018285
+Subdural hematoma	meshid	D006408
+Vascular headache	meshid	D014653
+Pectus excavatum	meshid	D005660
+Reactive attachment disorder	meshid	D019962
+Hyperkalemia	meshid	D006947
+Cryptococcosis	meshid	D003453
+Bleeding diathesis	meshid	D006474
+Coronary thrombosis	meshid	D003328
+Thyroglossal cyst	meshid	D013955
+Meckel's diverticulum	meshid	D008467
+Hypogonadism	meshid	D007006
+Hypopituitarism	meshid	D007018
+Thoracic outlet syndrome	meshid	D013901
+Orchitis	meshid	D009920
+Conduction aphasia	meshid	D018886
+Cysticercosis	meshid	D003551
+Chloracne	meshid	D054506
+SV40	meshid	D027601
+Demyelinating disease	meshid	D003711
+Vasovagal response	meshid	D019462
+Sin Nombre virus	meshid	D018804
+Niemann–Pick disease	meshid	D009542
+Blepharitis	meshid	D001762
+Opioid use disorder	meshid	D009293
+Aortic aneurysm	meshid	D001014
+Leukocytosis	meshid	D007964
+Photodermatitis	meshid	D010787
+Insulinoma	meshid	D007340
+Major trauma	meshid	D014947
+Infant respiratory distress syndrome	meshid	D012127
+Hypersomnia	meshid	D006970
+Rosacea	meshid	D012393
+Dry eye syndrome	meshid	D007638
+Central hypoventilation syndrome	meshid	D020182
+Granulomatosis with polyangiitis	meshid	D014890
+Henoch–Schönlein purpura	meshid	D011695
+Polyneuropathy	meshid	D011115
+Chorea	meshid	D002819
+Omphalocele	meshid	D006554
+Retinal detachment	meshid	D012163
+Sanfilippo syndrome	meshid	D009084
+Malabsorption	meshid	D008286
+Acute lymphoblastic leukemia	meshid	D054198
+Bone fracture	meshid	D050723
+Thoracic aortic aneurysm	meshid	D017545
+Abdominal aortic aneurysm	meshid	D017544
+Glanzmann's thrombasthenia	meshid	D013915
+Chalazion	meshid	D017043
+Aniridia	meshid	D015783
+Scotoma	meshid	D012607
+Intracranial hemorrhage	meshid	D020300
+Erythromelalgia	meshid	D004916
+Multiple organ dysfunction syndrome	meshid	D009102
+Pseudoaneurysm	meshid	D017541
+Athetosis	meshid	D001264
+Multiple system atrophy	meshid	D019578
+Hemangioma	meshid	D006391
+Sheehan's syndrome	meshid	D007018
+Primary sclerosing cholangitis	meshid	D015209
+Congenital heart defect	meshid	D006330
+Gastroenteritis	meshid	D005759
+Mitral insufficiency	meshid	D008944
+Osteophyte	meshid	D054850
+Pyometra	meshid	D055119
+Adjustment disorder	meshid	D000275
+Supraventricular tachycardia	meshid	D013617
+Leukoplakia	meshid	D007971
+Oral candidiasis	meshid	D002180
+Conversion disorder	meshid	D003291
+Blastomycosis	meshid	D001759
+Mongolian spot	meshid	D049328
+Toxocariasis	meshid	D014120
+Functional gastrointestinal disorder	meshid	D003109
+Campylobacteriosis	meshid	D002169
+Listeriosis	meshid	D008088
+Blackwater fever	meshid	D001742
+Labyrinthitis	meshid	D007762
+Osteogenesis imperfecta	meshid	D010013
+Miller–Dieker syndrome	meshid	D054221
+Blast injury	meshid	D001753
+Essential thrombocytosis	meshid	D013920
+Hypereosinophilic syndrome	meshid	D017681
+Macular degeneration	meshid	D008268
+Ureterocele	meshid	D014518
+Maturity onset diabetes of the young	meshid	D003924
+HELLP syndrome	meshid	D017359
+Pressure ulcer	meshid	D003668
+Lichen planus	meshid	D008010
+Tonsillitis	meshid	D014069
+Gastrointestinal bleeding	meshid	D006471
+Water–electrolyte imbalance	meshid	D014883
+Hives	meshid	D014581
+Fibrosis	meshid	D005355
+Athlete's foot	meshid	D014008
+Placenta praevia	meshid	D010923
+Gestational hypertension	meshid	D046110
+Alexander disease	meshid	D038261
+Usher syndrome	meshid	D052245
+Zenker's diverticulum	meshid	D016672
+Rectovaginal fistula	meshid	D012006
+Myiasis	meshid	D009198
+Stye	meshid	D006726
+Nevus	meshid	D009506
+AV nodal reentrant tachycardia	meshid	D013611
+Phlebitis	meshid	D010689
+Toxic epidermal necrolysis	meshid	D004816
+Erythema multiforme	meshid	D004892
+Myxoma	meshid	D009232
+Ecchymosis	meshid	D004438
+Miosis	meshid	D015877
+Factitious disorder	meshid	D005162
+Sweating sickness	meshid	D018614
+Hereditary angioedema	meshid	D054179
+Tennis elbow	meshid	D013716
+Angioedema	meshid	D000799
+Hemispatial neglect	meshid	D010468
+Bacterial pneumonia	meshid	D018410
+Polymicrogyria	meshid	D054220
+Cholangiocarcinoma	meshid	D018281
+Arthrogryposis	meshid	D001176
+Helminthiasis	meshid	D006373
+Duchenne muscular dystrophy	meshid	D020388
+Oligohydramnios	meshid	D016104
+Polyhydramnios	meshid	D006831
+Eisenmenger's syndrome	meshid	D004541
+Movement disorder	meshid	D009069
+Paratuberculosis	meshid	D010283
+Persistent Müllerian duct syndrome	meshid	536665.0
+Noonan syndrome	meshid	D009634
+Diplopia	meshid	D004172
+Gardner's syndrome	meshid	D005736
+Alpha-mannosidosis	meshid	D008363
+Pituitary adenoma	meshid	D010911
+Galactorrhea	meshid	D005687
+Boil	meshid	D005667
+Eosinophilic granulomatosis with polyangiitis	meshid	D015267
+Gastritis	meshid	D005756
+Hereditary multiple exostoses	meshid	D005097
+Achlorhydria	meshid	D000126
+Vestibular schwannoma	meshid	D009464
+Dysarthria	meshid	D004401
+Goodpasture syndrome	meshid	D019867
+Ebstein's anomaly	meshid	D004437
+Psychomotor retardation	meshid	D011596
+Tracheoesophageal fistula	meshid	D014138
+Hallermann–Streiff syndrome	meshid	D006210
+Li–Fraumeni syndrome	meshid	D016864
+Coarctation of the aorta	meshid	D001017
+Rhabdomyoma	meshid	D012207
+Glycogen storage disease type II	meshid	D006009
+Molar pregnancy	meshid	D006828
+Choriocarcinoma	meshid	D002822
+Mallory–Weiss syndrome	meshid	D008309
+Curling's ulcer	meshid	D004381
+Plummer–Vinson syndrome	meshid	D011004
+Linitis plastica	meshid	D008039
+Darier's disease	meshid	D007644
+Epidural hematoma	meshid	D006407
+Spondylosis	meshid	D013128
+Pancoast tumor	meshid	D010178
+Cystinuria	meshid	D003555
+Hyperkalemic periodic paralysis	meshid	D020513
+Phosphofructokinase deficiency	meshid	D006014
+Splenomegaly	meshid	D013163
+Leukopenia	meshid	D007970
+Combat stress reaction	meshid	D003130
+Syndrome of inappropriate antidiuretic hormone secretion	meshid	D007177
+Neurasthenia	meshid	D009440
+Prolactinoma	meshid	D015175
+Oligodendroglioma	meshid	D009837
+Ependymoma	meshid	D004806
+Small-cell carcinoma	meshid	D018288
+Meningioma	meshid	D008579
+Hyperalgesia	meshid	D006930
+Glioblastoma multiforme	meshid	D005909
+Nocardiosis	meshid	D009617
+Steatorrhea	meshid	D045602
+Ainhum	meshid	D000387
+Fluoride toxicity	meshid	D005458
+Benign paroxysmal positional vertigo	meshid	D014717
+Dyskinesia	meshid	D020820
+Anaplastic large-cell lymphoma	meshid	D017728
+Chronic pancreatitis	meshid	D050500
+Wallerian degeneration	meshid	D014855
+Kawasaki disease	meshid	D009080
+Oculopharyngeal muscular dystrophy	meshid	D039141
+Uveitis	meshid	D014605
+Hymenolepiasis	meshid	D006925
+Gnathostomiasis	meshid	D006039
+Fasciolopsiasis	meshid	D014201
+Fasciolosis	meshid	D005211
+Congenital syphilis	meshid	D013590
+Twin-to-twin transfusion syndrome	meshid	D005330
+Arachnodactyly	meshid	D008382
+Spinal cord injury	meshid	D013119
+Myelopathy	meshid	D013118
+Ganser syndrome	meshid	D005162
+Dermatomyositis	meshid	D003882
+Normal pressure hydrocephalus	meshid	D006850
+Traumatic brain injury	meshid	D001930
+Ataxia telangiectasia	meshid	D001260
+Penetrating head injury	meshid	D020197
+Hyperphosphatemia	meshid	D054559
+Hypophosphatemia	meshid	D017674
+Gastrointestinal disease	meshid	D004066
+Hypocapnia	meshid	D016857
+Calcinosis	meshid	D002114
+Type I hypersensitivity	meshid	D006969
+Buruli ulcer	meshid	D054312
+Ileus	meshid	D045823
+Flat feet	meshid	D005413
+Adrenocortical carcinoma	meshid	D018268
+Ornithine transcarbamylase deficiency	meshid	D020163
+Thyroid hormone resistance	meshid	D018382
+Hyperinsulinism	meshid	D006946
+Toothache	meshid	D014098
+Hairy cell leukemia	meshid	D007943
+Piriformis syndrome	meshid	D055958
+Hepatic encephalopathy	meshid	D006501
+Dacryoadenitis	meshid	D003607
+Familial adenomatous polyposis	meshid	D011125
+Kallmann syndrome	meshid	D017436
+Tick-borne disease	meshid	D017282
+Tick paralysis	meshid	D013985
+Lesch–Nyhan syndrome	meshid	D007926
+Dysgraphia	meshid	D000381
+Postpartum infections	meshid	D011645
+Spermatocele	meshid	D013088
+Hurler syndrome	meshid	D008059
+Gunther disease	meshid	D017092
+Menkes disease	meshid	D007706
+Meatal stenosis	meshid	D014525
+Congenital insensitivity to pain with anhidrosis	meshid	D009477
+Inborn error of metabolism	meshid	D008661
+Polyarteritis nodosa	meshid	D010488
+Treacher Collins syndrome	meshid	D008342
+Rhinoscleroma	meshid	D012226
+Hypopigmentation	meshid	D017496
+Pityriasis rosea	meshid	D017515
+Peutz–Jeghers syndrome	meshid	D010580
+Tinea	meshid	D014005
+Port-wine stain	meshid	D019339
+Peritonsillar abscess	meshid	D000039
+Tinel's sign	meshid	D002349
+Purpura	meshid	D011693
+Leiomyoma	meshid	D007889
+Dysfunctional uterine bleeding	meshid	D008796
+Gestational trophoblastic disease	meshid	D031901
+Joint dislocation	meshid	D004204
+Endometrioid tumor	meshid	D018269
+Brenner tumour	meshid	D001948
+Fibroma	meshid	D005350
+Thecoma	meshid	D013798
+Sex cord–gonadal stromal tumour	meshid	D018312
+Granulosa cell tumour	meshid	D006106
+Dysgerminoma	meshid	D004407
+Germ cell tumor	meshid	D009373
+Small for gestational age	meshid	D007230
+Xerostomia	meshid	D014987
+Atelectasis	meshid	D001261
+Hairy leukoplakia	meshid	D017733
+lymphoma	meshid	D015459
+Stress fracture	meshid	D015775
+Mycoplasma pneumonia	meshid	D011019
+Lichen sclerosus	meshid	D018459
+Left ventricular hypertrophy	meshid	D017379
+Conductive hearing loss	meshid	D006314
+Sensorineural hearing loss	meshid	D006319
+Zellweger syndrome	meshid	D015211
+Dermatofibrosarcoma protuberans	meshid	D018223
+Glomerulonephritis	meshid	D005921
+Alcoholic polyneuropathy	meshid	D020269
+Epilepsia partialis continua	meshid	D017036
+POEMS syndrome	meshid	D016878
+Xeroderma pigmentosum	meshid	D014983
+Trachoma	meshid	D014141
+Pemphigus	meshid	D010392
+Wiskott–Aldrich syndrome	meshid	D014923
+Diffuse axonal injury	meshid	D020833
+Incontinentia pigmenti	meshid	D007184
+Aortoiliac occlusive disease	meshid	D007925
+Familial dysautonomia	meshid	D004402
+Bloom syndrome	meshid	D001816
+Angioma	meshid	D006391
+Gastroschisis	meshid	D020139
+Seborrheic keratosis	meshid	D017492
+Chondrosarcoma	meshid	D002813
+Acute promyelocytic leukemia	meshid	D015473
+Miliaria	meshid	D008883
+Tinea capitis	meshid	D014006
+Benign fibrous histiocytoma	meshid	D018219
+Epiglottitis	meshid	D004826
+Sydenham's chorea	meshid	D002819
+Hereditary nonpolyposis colorectal cancer	meshid	D003123
+Hyperplasia	meshid	D006965
+Acute liver failure	meshid	D017114
+Selective mutism	meshid	D009155
+Tropical sprue	meshid	D013182
+Neoplasm	meshid	D009369
+Orthostatic intolerance	meshid	D054971
+Postural orthostatic tachycardia syndrome	meshid	D054972
+Hypertrichosis	meshid	D006983
+Fetal alcohol spectrum disorder	meshid	D005310
+Trichiasis	meshid	D058457
+Takayasu's arteritis	meshid	D013625
+Facial nerve paralysis	meshid	D005158
+Short bowel syndrome	meshid	D012778
+Diverticulum	meshid	D004240
+Sebaceous cyst	meshid	D004814
+Epidermoid cyst	meshid	D004814
+Cold urticaria	meshid	D056587
+Renal artery stenosis	meshid	D012078
+Fibromatosis	meshid	D005350
+Neuromyelitis optica	meshid	D009471
+Adverse drug reaction	meshid	D004362
+Olivopontocerebellar atrophy	meshid	D009849
+Toxic megacolon	meshid	D008532
+Erysipeloid	meshid	D004887
+Arteritis	meshid	D001167
+Dysthymia	meshid	D019263
+Intermittent claudication	meshid	D007383
+Myeloid sarcoma	meshid	D023981
+Actinic keratosis	meshid	D055623
+Palmoplantar keratoderma	meshid	D007645
+Neurogenic shock	meshid	D012769
+Cardiogenic shock	meshid	D012770
+Nesidioblastosis	meshid	D046768
+Non-24-hour sleep–wake disorder	meshid	D021081
+Ankylosis	meshid	D000844
+Respiratory acidosis	meshid	D000142
+Lupus anticoagulant	meshid	D016682
+Superior vena cava syndrome	meshid	D013479
+Horner's syndrome	meshid	D006732
+Allergic conjunctivitis	meshid	D003233
+Cyclic nucleotide–gated ion channel	meshid	D012174
+Meningism	meshid	D008580
+Pickardt syndrome	meshid	68006966
+Nail biting	meshid	D009259
+Protein S deficiency	meshid	D018455
+Spondylolisthesis	meshid	D013168
+CADASIL syndrome	meshid	D046589
+Arachnoiditis	meshid	D001100
+Café au lait spot	meshid	D019080
+Hyperacusis	meshid	D01200178
+Hemolytic disease of the newborn	meshid	D004899
+Liposarcoma	meshid	D008080
+Paraganglioma	meshid	D010235
+Glomus tumor	meshid	D005918
+Melasma	meshid	D008548
+Struma ovarii	meshid	D013330
+Baby colic	meshid	D003085
+Asherman's syndrome	meshid	D006175
+Megaloblastic anemia	meshid	D000749
+Crouzon syndrome	meshid	D003394
+Mycosis fungoides	meshid	D009182
+Thrombophilia	meshid	D019851
+Pyelonephritis	meshid	D011704
+Coloboma	meshid	D003103
+Telangiectasia	meshid	D013684
+Placental abruption	meshid	D000037
+Japanese encephalitis	meshid	D004672
+Progressive supranuclear palsy	meshid	D013494
+Varicocele	meshid	D014646
+Hypodontia	meshid	D000848
+Zygomycosis	meshid	D020096
+Ellis–van Creveld syndrome	meshid	D004613
+Aspirin-induced asthma	meshid	D055963
+Depersonalization disorder	meshid	D003861
+Sirenomelia	meshid	D004480
+Perinatal asphyxia	meshid	D001238
+Adenomyosis	meshid	D004715
+Thrombophlebitis	meshid	D013924
+Alagille syndrome	meshid	D016738
+Coffin–Lowry syndrome	meshid	D038921
+Krabbe disease	meshid	D007965
+Cockayne syndrome	meshid	D003057
+Rubinstein–Taybi syndrome	meshid	D012415
+Strongyloidiasis	meshid	D013322
+Avascular necrosis	meshid	D010020
+Apert syndrome	meshid	D000168
+Jervell and Lange-Nielsen syndrome	meshid	D029593
+Cutaneous T cell lymphoma	meshid	D016410
+Animal bite	meshid	D001733
+Diabetic nephropathy	meshid	D003928
+Myelofibrosis	meshid	D055728
+Mycosis	meshid	D009181
+Myopathy	meshid	D009135
+Postencephalitic parkinsonism	meshid	D010301
+Metaplasia	meshid	D008679
+Actinomycosis	meshid	D000196
+Fibrodysplasia ossificans progressiva	meshid	D009221
+Andersen–Tawil syndrome	meshid	D050030
+Problem gambling	meshid	D005715
+Anisakis	meshid	D017129
+Intussusception	meshid	D007443
+Retinal haemorrhage	meshid	D012166
+Cryoglobulinemia	meshid	D003449
+Claudication	meshid	D007383
+Saint Louis encephalitis	meshid	D004674
+Pinta	meshid	D010874
+Craniosynostosis	meshid	D003398
+Disorganized schizophrenia	meshid	D012562
+Kienbock's disease	meshid	D010020
+Acute stress reaction	meshid	D040701
+Manganism	meshid	D020149
+False pregnancy	meshid	D011555
+CREST syndrome	meshid	D017675
+Cerebral softening	meshid	D004678
+Hyperlipidemia	meshid	D006949
+Atrophic gastritis	meshid	D005757
+Lupus nephritis	meshid	D008181
+Aphthous stomatitis	meshid	D013281
+Friedreich's ataxia	meshid	D005621
+Volvulus	meshid	D045822
+Fecal impaction	meshid	D005244
+Fibrous dysplasia of bone	meshid	D005357
+Lathyrism	meshid	D007842
+Pulmonary sequestration	meshid	D001998
+Neuroblastoma	meshid	D009447
+Mastocytoma	meshid	D034801
+Fibrosarcoma	meshid	D005354
+Acute tubular necrosis	meshid	D007683
+Aspiration pneumonia	meshid	D011015
+Chondroma	meshid	D002812
+Ectodermal dysplasia	meshid	D004476
+Thanatophoric dysplasia	meshid	D013796
+Occupational disease	meshid	D009784
+Neuralgia	meshid	D009437
+Polymyalgia rheumatica	meshid	D011111
+Intertrigo	meshid	D007402
+Membranous glomerulonephritis	meshid	D015433
+Fibroadenoma	meshid	D018226
+Adult attention deficit hyperactivity disorder	meshid	D001289
+Exophthalmos	meshid	D005094
+Atonic seizure	meshid	D004832
+Ord's thyroiditis	meshid	D013967
+Myeloproliferative neoplasm	meshid	D009196
+Psychomotor agitation	meshid	D011595
+Fuchs' dystrophy	meshid	D005642
+Periodic limb movement disorder	meshid	D009207
+Neurofibromatosis type I	meshid	D009456
+Duane syndrome	meshid	D004370
+Viral hemorrhagic fever	meshid	D006482
+Lymphangioleiomyomatosis	meshid	D018192
+Impulse control disorder	meshid	D007174
+Bardet–Biedl syndrome	meshid	D020788
+Polymyositis	meshid	D017285
+Bundle branch block	meshid	D002037
+Hematocele	meshid	D006398
+Pick's disease	meshid	D020774
+Langerhans cell histiocytosis	meshid	D006646
+Hydrops fetalis	meshid	D015160
+Cerebral hypoxia	meshid	D002534
+Hydronephrosis	meshid	D006869
+Gerstmann–Sträussler–Scheinker syndrome	meshid	D016098
+Pregnancy	meshid	D011247
+Uterine fibroid	meshid	D007889
+Dyshidrosis	meshid	D011146
+Substance dependence	meshid	D019966
+Maple syrup urine disease	meshid	D008375
+Synovial sarcoma	meshid	D013584
+Eumycetoma	meshid	D008271
+Uterine rupture	meshid	D014597
+Congenital anomalies of the genitalia	meshid	D014564
+Reactive hypoglycemia	meshid	D007003
+X-linked ichthyosis	meshid	D016114
+Miliary tuberculosis	meshid	D014391
+Lymphocytic choriomeningitis	meshid	D008216
+Cystocele	meshid	D052858
+Status epilepticus	meshid	D013226
+Pancytopenia	meshid	D010198
+Pseudomyxoma peritonei	meshid	D011553
+Radicular pain	meshid	D011843
+Leber's hereditary optic neuropathy	meshid	D029242
+Opportunistic infection	meshid	D009894
+Cystinosis	meshid	D003554
+Seminoma	meshid	D018239
+Coagulopathy	meshid	D001778
+Holocarboxylase synthetase deficiency	meshid	D028922
+Smith–Lemli–Opitz syndrome	meshid	D019082
+Acid erosion	meshid	D014077
+Tick-borne encephalitis	meshid	D004675
+Kyasanur Forest disease	meshid	D007733
+Human parainfluenza viruses	meshid	D018184
+Chondromalacia patellae	meshid	D046789
+Murine typhus	meshid	D014437
+Large for gestational age	meshid	D005320
+Obstructed labour	meshid	D004420
+Macroglossia	meshid	D008260
+Congenital diaphragmatic hernia	meshid	D006548
+Osteolysis	meshid	D010014
+Obstructive sleep apnea	meshid	D012891
+Klippel–Feil syndrome	meshid	D007714
+Syndactyly	meshid	D013576
+Precancerous condition	meshid	D011230
+Meigs' syndrome	meshid	D008539
+Chronic paroxysmal hemicrania	meshid	D051302
+Gitelman syndrome	meshid	D053579
+Leukemoid reaction	meshid	D007955
+Anterior ischemic optic neuropathy	meshid	D018917
+Carrion's disease	meshid	D001474
+Exostosis	meshid	D005096
+Posterior ischemic optic neuropathy	meshid	D018917
+Dysplastic nevus	meshid	D004416
+Aseptic meningitis	meshid	D008582
+Ameloblastoma	meshid	D000564
+Prognathism	meshid	D011378
+Chromoblastomycosis	meshid	D002862
+Cementoblastoma	meshid	D002485
+Respiratory alkalosis	meshid	D000472
+Tyrosinemia	meshid	D020176
+Tapeworm infection	meshid	D002590
+Polyarthritis	meshid	D001168
+Paronychia	meshid	D010304
+Transposition of the great vessels	meshid	D014188
+Staphylococcal scalded skin syndrome	meshid	D013206
+Duodenal cancer	meshid	D004379
+Leukorrhea	meshid	D007973
+Ross River fever	meshid	D012398
+Connective tissue disease	meshid	D003240
+Mad hatter disease	meshid	D020262
+Tracheitis	meshid	D014136
+Invasive carcinoma of no special type	meshid	D018270
+Myoma	meshid	D009214
+Cutaneous larva migrans	meshid	D007815
+Eastern equine encephalitis virus	meshid	D020242
+Mastoiditis	meshid	D008417
+Enchondroma	meshid	D002812
+Torsion dystonia	meshid	D004422
+Myosarcoma	meshid	D009217
+Leiomyosarcoma	meshid	D007890
+Renal colic	meshid	D056844
+Acute coronary syndrome	meshid	D054058
+Papilloma	meshid	D010212
+Batten disease	meshid	D009472
+Pityriasis rubra pilaris	meshid	D010916
+Malocclusion	meshid	D008310
+Monoclonal gammopathy of undetermined significance	meshid	D008998
+Proctitis	meshid	D011349
+Sinus tachycardia	meshid	D013616
+Hemothorax	meshid	D006491
+Ludwig's angina	meshid	D008158
+Retroverted uterus	meshid	D019687
+Arcus senilis	meshid	D001112
+Entropion	meshid	D004774
+Necrotizing enterocolitis	meshid	D020345
+Neuronal ceroid lipofuscinosis	meshid	D009472
+Metachromatic leukodystrophy	meshid	D007966
+Gallbladder cancer	meshid	D005706
+Landau–Kleffner syndrome	meshid	D018887
+Oncocytoma	meshid	D018249
+Malignant peripheral nerve sheath tumor	meshid	D018317
+Minimally conscious state	meshid	D018458
+Hemiballismus	meshid	D020820
+Infantile neuronal ceroid lipofuscinosis	meshid	D009472
+Crush syndrome	meshid	D003444
+Carcinoid	meshid	D002276
+Saethre–Chotzen syndrome	meshid	D000168
+Dermatophytosis	meshid	D003881
+Imperforate anus	meshid	D001006
+Atopic dermatitis	meshid	D003876
+Developmental disability	meshid	D002658
+Semantic dementia	meshid	D003704
+Frontotemporal lobar degeneration	meshid	D003704
+Osteopenia	meshid	D001851
+Renal osteodystrophy	meshid	D012080
+Rat-bite fever	meshid	D011906
+Onychomycosis	meshid	D014009
+Nonvenereal endemic syphilis	meshid	D014211
+Hypokinesia	meshid	D018476
+Pityriasis	meshid	D010915
+Foreign body	meshid	D005547
+Focal segmental glomerulosclerosis	meshid	D005923
+Metabolic disorder	meshid	D008659
+Hydrothorax	meshid	D006876
+Chylothorax	meshid	D002916
+Inborn error of lipid metabolism	meshid	D008052
+Atrioventricular block	meshid	D054537
+Premature rupture of membranes	meshid	D005322
+Bacillary dysentery	meshid	D004405
+Erythroderma	meshid	D003873
+Complications of pregnancy	meshid	D011248
+Metatarsalgia	meshid	D037061
+Hypersensitivity pneumonitis	meshid	D000542
+Spinocerebellar ataxia	meshid	D020754
+Pulpitis	meshid	D011671
+Excoriation disorder	meshid	D007174
+Spinal and bulbar muscular atrophy	meshid	D055534
+Otitis	meshid	D010031
+Neonatal jaundice	meshid	D007567
+Arteriovenous fistula	meshid	D001164
+Machado–Joseph disease	meshid	D017827
+Cerebral amyloid angiopathy	meshid	D016657
+Asterixis	meshid	D020820
+Channelopathy	meshid	D053447
+Ankyloglossia	meshid	562396.0
+Primary hyperparathyroidism	meshid	D049950
+Spondylitis	meshid	D013166
+Rickettsialpox	meshid	D012288
+Byssinosis	meshid	D002095
+Exanthem	meshid	D005076
+Dissociative disorder	meshid	D004213
+Chondrocalcinosis	meshid	D002805
+Hartnup disease	meshid	D006250
+Persistent truncus arteriosus	meshid	D014339
+Lung abscess	meshid	D008169
+Tricuspid atresia	meshid	D018785
+Viral pneumonia	meshid	D011024
+Cataplexy	meshid	D002385
+Hamartoma	meshid	D006222
+Urushiol-induced contact dermatitis	meshid	D011040
+Chédiak–Higashi syndrome	meshid	D002609
+Osteochondroma	meshid	D015831
+Osteochondrosis	meshid	D010007
+Fungemia	meshid	D016469
+Cytomegalovirus retinitis	meshid	D017726
+Sandhoff disease	meshid	D012497
+GM2-gangliosidosis, AB variant	meshid	D049290
+Female genital prolapse	meshid	D014596
+Valvular heart disease	meshid	D006349
+Primary progressive aphasia	meshid	D018888
+Sturge–Weber syndrome	meshid	D013341
+Merkel-cell carcinoma	meshid	D015266
+Morquio syndrome	meshid	D009085
+Kostmann syndrome	meshid	537592.0
+Erythema induratum	meshid	D004891
+Phyllodes tumor	meshid	D003557
+Hepatoblastoma	meshid	D018197
+Hemangioendothelioma	meshid	D006390
+Carcinoid syndrome	meshid	D008303
+Salla disease	meshid	D029461
+Pancreatic pseudocyst	meshid	D010192
+Facioscapulohumeral muscular dystrophy	meshid	D020391
+Arthropathy	meshid	D007592
+Multiple endocrine neoplasia type 2	meshid	D018813
+Pneumonitis	meshid	D011014
+Multiple endocrine neoplasia type 1	meshid	D018761
+Ochronosis	meshid	D009794
+Hypophosphatasia	meshid	D007014
+Megacolon	meshid	D008531
+Skull fracture	meshid	D012887
+Cowden syndrome	meshid	D006223
+Boerhaave syndrome	meshid	D004939
+Bruit	meshid	D006337
+Hypoaldosteronism	meshid	D006994
+Trisomy 8	meshid	D014314
+Cholestasis	meshid	D002779
+Tarsal tunnel syndrome	meshid	D013641
+Dysmetria	meshid	D002524
+Taeniasis	meshid	D013622
+Sideroblastic anemia	meshid	D000756
+Siderosis	meshid	D012806
+Relapsing polychondritis	meshid	D011081
+Gas gangrene	meshid	D005738
+Tropical spastic paraparesis	meshid	D015493
+Synovitis	meshid	D013585
+Cyclosporiasis	meshid	D021866
+Hemangiopericytoma	meshid	D006393
+Bullous pemphigoid	meshid	D010391
+Urticaria pigmentosa	meshid	D014582
+Desmoplastic fibroma	meshid	D018220
+Pancreatic fistula	meshid	D010185
+Cherubism	meshid	D002636
+PANDAS	meshid	537163.0
+Myotonia congenita	meshid	D009224
+Carotid artery stenosis	meshid	D016893
+Acute intermittent porphyria	meshid	D017118
+Leukocyte adhesion deficiency	meshid	D018370
+Neurofibromatosis type II	meshid	D016518
+Aphakia	meshid	D001035
+Cutaneous leishmaniasis	meshid	D016773
+Hypertensive emergency	meshid	D006974
+Diabetes mellitus type 1	meshid	D003922
+Sodoku	meshid	D011906
+Keratoderma blennorrhagicum	meshid	D007642
+Peanut allergy	meshid	D021183
+Strain	meshid	D013180
+Dubin–Johnson syndrome	meshid	D007566
+Premature atrial contraction	meshid	D018880
+Mitochondrial myopathy	meshid	D017240
+Trisomy 9	meshid	D014314
+Hyperaemia	meshid	D006940
+Pain disorder	meshid	D013001
+Neuroma	meshid	D009463
+Cortical blindness	meshid	D019575
+Waldenström's macroglobulinemia	meshid	D008258
+Myoglobinuria	meshid	D009212
+Acariasis	meshid	D008924
+Monoplegia	meshid	D006429
+Pyuria	meshid	D011776
+Enthesopathy	meshid	D012216
+Tic disorder	meshid	D013981
+Periostitis	meshid	D010522
+Chondropathy	meshid	D002357
+Visceral leishmaniasis	meshid	D007898
+Cervical incompetence	meshid	D002581
+Periodic paralysis	meshid	D010245
+Eosinophilic pneumonia	meshid	D011657
+California encephalitis virus	meshid	D004670
+Bronchiolitis obliterans organizing pneumonia	meshid	D018549
+Erythema nodosum	meshid	D004893
+Löffler's syndrome	meshid	D011657
+Cardiac asthma	meshid	D004418
+Partial seizure	meshid	D004828
+Pouchitis	meshid	D019449
+Intracerebral hemorrhage	meshid	D002543
+Adie syndrome	meshid	D015845
+Intraparenchymal hemorrhage	meshid	D002543
+Neurofibroma	meshid	D009455
+Hemoglobin C	meshid	D006445
+Scleritis	meshid	D015423
+Ophthalmoparesis	meshid	D009886
+Microscopic colitis	meshid	D046728
+Extravasation	meshid	D005119
+Glycogen storage disease type IV	meshid	D006011
+Glycogen storage disease type III	meshid	D006010
+Bartonellosis	meshid	D001474
+Hereditary elliptocytosis	meshid	D004612
+Vesicovaginal fistula	meshid	D014719
+Lymphoid leukemia	meshid	D007945
+Lymphoid leukemia	meshid	D015448
+Lymphoid leukemia	meshid	D015458
+Coalworker's pneumoconiosis	meshid	D011009
+Embryonal carcinoma	meshid	D018236
+Blepharospasm	meshid	D001764
+Common variable immunodeficiency	meshid	D017074
+Kearns–Sayre syndrome	meshid	D007625
+Acute interstitial pneumonitis	meshid	D011658
+Follicular lymphoma	meshid	D008224
+Lymphoproliferative disorders	meshid	D008232
+Sézary disease	meshid	D012751
+Plasmacytoma	meshid	D010954
+Anisocoria	meshid	D015875
+Male infertility	meshid	D007248
+Respiratory disease	meshid	D012140
+Parinaud's syndrome	meshid	D015835
+Pure autonomic failure	meshid	D001342
+Cervical intraepithelial neoplasia	meshid	D018290
+Hyperlysinemia	meshid	D020167
+Thyroid disease	meshid	D013959
+Hurthle cell	meshid	D018249
+Arteriolosclerosis	meshid	D050379
+Cerebral infarction	meshid	D002544
+Subacute bacterial endocarditis	meshid	D004698
+Pilocytic astrocytoma	meshid	D001254
+Diamond–Blackfan anemia	meshid	D029503
+Dyskeratosis congenita	meshid	D019871
+Phakomatosis	meshid	D020752
+Umbilical hernia	meshid	D006554
+Macroglobulinemia	meshid	D008258
+Paraproteinemia	meshid	D010265
+VIPoma	meshid	D003969
+Craniopharyngioma	meshid	D003397
+Yersiniosis	meshid	D015009
+Onycholysis	meshid	D054039
+Bee sting	meshid	D007299
+Phonophobia	meshid	D012001
+Osteochondritis	meshid	D010007
+Flail chest	meshid	D005409
+Endometritis	meshid	D004716
+Visceral larva migrans	meshid	D007816
+Gastrinoma	meshid	D015408
+Microsporidiosis	meshid	D016881
+Pyoderma gangrenosum	meshid	D017511
+Periventricular leukomalacia	meshid	D007969
+Angiomatosis	meshid	D000798
+Arachnoid cyst	meshid	D016080
+Brachial plexus injury	meshid	D020516
+Venous ulcer	meshid	D014647
+Balantidiasis	meshid	D001447
+Enterocolitis	meshid	D004760
+Giant-cell tumor of bone	meshid	D018212
+Trophoblastic neoplasm	meshid	D014328
+Noma	meshid	D009625
+Erythrasma	meshid	D004894
+Lobar pneumonia	meshid	D011018
+Warthin's tumor	meshid	D000235
+Pleomorphic adenoma	meshid	D008949
+Polyostotic fibrous dysplasia	meshid	D005359
+Hyperaldosteronism	meshid	D006929
+Behr syndrome	meshid	537669.0
+Thyroiditis	meshid	D013966
+Acute severe asthma	meshid	D013224
+Oophoritis	meshid	D009869
+Needlestick injury	meshid	D016602
+Lentigo maligna melanoma	meshid	D018327
+Gangliosidosis	meshid	D005733
+Osteitis fibrosa cystica	meshid	D010002
+Biotinidase deficiency	meshid	D028921
+Diabetic angiopathy	meshid	D003925
+Keratosis	meshid	D007642
+Parapsoriasis	meshid	D010267
+Viral encephalitis	meshid	D018792
+Hypertelorism	meshid	D006972
+Encephalocele	meshid	D004677
+Female infertility	meshid	D007247
+Carotid-cavernous fistula	meshid	D020216
+Crigler–Najjar syndrome	meshid	D003414
+Lipomatosis	meshid	D008068
+Splenic injury	meshid	D013161
+Paroxysmal supraventricular tachycardia	meshid	D013617
+Lymphangiosarcoma	meshid	D008204
+Renovascular hypertension	meshid	D006978
+Spasmodic torticollis	meshid	D014103
+WAGR syndrome	meshid	D017624
+Exercise-induced bronchoconstriction	meshid	D001250
+Lymphangitis	meshid	D008205
+Neural tube defect	meshid	D009436
+Temporal lobe epilepsy	meshid	D004833
+Immunoproliferative disorder	meshid	D007160
+Hypergammaglobulinemia	meshid	D006942
+Pericardial effusion	meshid	D010490
+Oral mucocele	meshid	D009078
+Laryngospasm	meshid	D007826
+Prinzmetal's angina	meshid	D000788
+Cardiomegaly	meshid	D006332
+Metrorrhagia	meshid	D008796
+Restrictive cardiomyopathy	meshid	D002313
+Myositis	meshid	D009220
+Bone resorption	meshid	D001862
+Hemopneumothorax	meshid	D006468
+Renal tubular acidosis	meshid	D000141
+Congenital afibrinogenemia	meshid	D000347
+HIV-associated neurocognitive disorder	meshid	D015526
+Bronchopulmonary dysplasia	meshid	D001997
+Pachygyria	meshid	D054082
+Primary hypertrophic osteoathropathy	meshid	D010004
+Pseudoxanthoma elasticum	meshid	D011561
+Vaginal discharge	meshid	D019522
+Lipid storage disorder	meshid	D008064
+Farber disease	meshid	D055577
+Mucolipidosis	meshid	D009081
+Hypertonia	meshid	D009122
+Sporotrichosis	meshid	D013174
+Lentigo maligna	meshid	D018327
+Hypoprothrombinemia	meshid	D007020
+Airway obstruction	meshid	D000402
+Ischemic optic neuropathy	meshid	D018917
+McCune–Albright syndrome	meshid	D005359
+Pyomyositis	meshid	D052880
+Pneumoperitoneum	meshid	D011027
+Adenovirus infection	meshid	D000257
+Transient global amnesia	meshid	D020236
+Adenomyoma	meshid	D018194
+Mediastinitis	meshid	D008480
+Dandy–Walker syndrome	meshid	D003616
+Pantothenate kinase-associated neurodegeneration	meshid	D006211
+Goldenhar syndrome	meshid	D006053
+Hypokalemic periodic paralysis	meshid	D020514
+Paramyotonia congenita	meshid	D020967
+Cystadenoma	meshid	D003537
+African iron overload	meshid	537904.0
+Perioral dermatitis	meshid	D019557
+Keratoacanthoma	meshid	D007636
+Unstable angina	meshid	D000789
+Angular cheilitis	meshid	D002613
+MALT lymphoma	meshid	D018442
+Neuroacanthocytosis	meshid	D054546
+Southeast Asian ovalocytosis	meshid	D004612
+Double outlet right ventricle	meshid	D004310
+Cor triatriatum	meshid	D003310
+Scimitar syndrome	meshid	D012587
+Hypoproteinemia	meshid	D007019
+Hypoalbuminemia	meshid	D034141
+Lupus vulgaris	meshid	D008177
+Sparganosis	meshid	D013031
+Neutropenic enterocolitis	meshid	D020345
+Treatment-resistant depression	meshid	D061218
+Uveal melanoma	meshid	D014604
+Pfeiffer syndrome	meshid	D000168
+Hermansky–Pudlak syndrome	meshid	D022861
+Convergence insufficiency	meshid	D015835
+Cerebellar ataxia	meshid	D002524
+Nephrogenic diabetes insipidus	meshid	D018500
+Poland syndrome	meshid	D011045
+Acute erythroid leukemia	meshid	D004915
+Acanthocheilonemiasis	meshid	D004154
+Irritant contact dermatitis	meshid	D017453
+Allergic contact dermatitis	meshid	D017449
+Pericoronitis	meshid	D010497
+Nuchal cord	meshid	D053589
+BK virus	meshid	D027601
+Hemarthrosis	meshid	D006395
+Schizophreniform disorder	meshid	D011618
+Febrile neutrophilic dermatosis	meshid	D016463
+Lipid pneumonia	meshid	D011017
+Pseudohypoparathyroidism	meshid	D011547
+Ocular hypertension	meshid	D009798
+Meige's syndrome	meshid	D008538
+Morphea	meshid	D012594
+Dislocation of hip	meshid	D006618
+Oculocutaneous albinism	meshid	D016115
+Osteitis	meshid	D010000
+Lentigo	meshid	D007911
+Primary lateral sclerosis	meshid	D016472
+Ranula	meshid	D011900
+Post-concussion syndrome	meshid	D038223
+Primary effusion lymphoma	meshid	D054685
+Diaphragmatic hernia	meshid	D006548
+Rib fracture	meshid	D012253
+Meningoencephalitis	meshid	D888590
+Blind loop syndrome	meshid	D001765
+Yersinia pseudotuberculosis	meshid	D015012
+Rumination syndrome	meshid	D019959
+HIV-associated nephropathy	meshid	D016263
+Dentinogenesis imperfecta	meshid	D003811
+Necrobiosis lipoidica	meshid	D009335
+Hemianopsia	meshid	D006423
+Bernard–Soulier syndrome	meshid	D001606
+Activated protein C resistance	meshid	D020016
+Secondary hyperparathyroidism	meshid	D006962
+Language disorder	meshid	D007806
+Nijmegen breakage syndrome	meshid	D049932
+MELAS syndrome	meshid	D017241
+Myoclonic epilepsy	meshid	D004831
+Gastric antral vascular ectasia	meshid	D020252
+Fissured tongue	meshid	D014063
+Melkersson–Rosenthal syndrome	meshid	D008556
+Interstitial nephritis	meshid	D009395
+Lown–Ganong–Levine syndrome	meshid	D008151
+Congenital fourth nerve palsy	meshid	D020432
+Retroperitoneal fibrosis	meshid	D012185
+Osteochondritis dissecans	meshid	D010008
+Suicidal ideation	meshid	D059020
+Kleine–Levin syndrome	meshid	D017593
+Syringoma	meshid	D018252
+Epileptic spasms	meshid	D013036
+Thrombocytopenic purpura	meshid	D011696
+Choroideremia	meshid	D015794
+Malignant histiocytosis	meshid	D015620
+Benign lymphoepithelial lesion	meshid	D008882
+Autoimmune hemolytic anemia	meshid	D000744
+Apparent mineralocorticoid excess syndrome	meshid	D043204
+Pneumomediastinum	meshid	D008478
+Milk sickness	meshid	D018602
+Placenta accreta	meshid	D010921
+Collagenous colitis	meshid	D046729
+Primary peritoneal carcinoma	meshid	D010534
+Chorioamnionitis	meshid	D002821
+T-cell lymphoma	meshid	D016399
+Cleidocranial dysostosis	meshid	D002973
+Fat embolism	meshid	D004620
+Menstrual disorder	meshid	D008599
+Organic brain syndrome	meshid	D019965
+Neonatal conjunctivitis	meshid	D009878
+Pinealoma	meshid	D010871
+Letterer–Siwe disease	meshid	D006646
+Chest injury	meshid	D013898
+Bronchiolitis obliterans	meshid	D001989
+Mycobacterium avium-intracellulare infection	meshid	D015270
+Ectopia lentis	meshid	D004479
+Pyogenic granuloma	meshid	D017789
+Exocrine pancreatic insufficiency	meshid	D010188
+Pyruvate dehydrogenase deficiency	meshid	D015325
+Focal nodular hyperplasia	meshid	D020518
+Peripheral ossifying fibroma	meshid	D018214
+Hypermobility	meshid	D007593
+Medulloblastoma	meshid	D008527
+Hematospermia	meshid	D051516
+Hyperosmolar hyperglycemic state	meshid	D006944
+Kjer's optic neuropathy	meshid	D029241
+Bannayan–Riley–Ruvalcaba syndrome	meshid	D006223
+Ganglioneuroma	meshid	D005729
+Bartter syndrome	meshid	D001477
+Lymphangiectasia	meshid	D008200
+Stereotypic movement disorder	meshid	D019956
+Smoke inhalation	meshid	D015208
+Eczema herpeticum	meshid	D007617
+Protein C deficiency	meshid	D020151
+Eosinophilic esophagitis	meshid	D057765
+Ogilvie syndrome	meshid	D003112
+Intestinal pseudoobstruction	meshid	D003112
+Paratyphoid fever	meshid	D010284
+Degos disease	meshid	D054853
+Ganglioglioma	meshid	D018303
+Cogan syndrome	meshid	D055952
+Tauopathy	meshid	D024801
+Spondylolysis	meshid	D013169
+Alpha-thalassemia	meshid	D017085
+Anodontia	meshid	D000848
+Brain ischemia	meshid	D002545
+Vesicoureteral reflux	meshid	D014718
+Postterm pregnancy	meshid	D007233
+Klüver–Bucy syndrome	meshid	D020232
+Hyperesthesia	meshid	D006941
+Cystic hygroma	meshid	D018191
+True hermaphroditism	meshid	D050090
+Sickle cell trait	meshid	D012805
+Liver spot	meshid	D007911
+Empty sella syndrome	meshid	D004652
+Cystic kidney disease	meshid	D052177
+Factor XIII deficiency	meshid	D005177
+De Quervain's thyroiditis	meshid	D013968
+Acute myeloid leukemia	meshid	D015470
+Calcaneal spur	meshid	D036982
+Erythema chronicum migrans	meshid	D015787
+Arthus reaction	meshid	D001183
+Vitamin E deficiency	meshid	D014811
+Angiomyolipoma	meshid	D018207
+Hawkinsinuria	meshid	D020176
+Adiposis dolorosa	meshid	D000274
+Neurodegeneration	meshid	D019636
+Hyperimmunoglobulin E syndrome	meshid	D007589
+Hajdu–Cheney syndrome	meshid	D031845
+Small intestine cancer	meshid	D007414
+Paroxysmal cold hemoglobinuria	meshid	D006457
+Bacteroides fragilis	meshid	D001442
+Cold agglutinin disease	meshid	D000744
+Subclavian steal syndrome	meshid	D013349
+X-linked severe combined immunodeficiency	meshid	D053632
+Neuromuscular disease	meshid	D009468
+Hyperpituitarism	meshid	D006964
+Fever of unknown origin	meshid	D005335
+Spinal cord compression	meshid	D013117
+Intention tremor	meshid	D014202
+Angiokeratoma	meshid	D000794
+Mediastinal tumor	meshid	D008479
+Hypsarrhythmia	meshid	D013036
+Selective immunoglobulin A deficiency	meshid	D017098
+Ectopic beat	meshid	D005117
+Chronic inflammatory demyelinating polyneuropathy	meshid	D020277
+Omsk hemorrhagic fever	meshid	D006481
+Refsum disease	meshid	D012035
+Premature ovarian failure	meshid	D016649
+Stress incontinence	meshid	D014550
+Impaired glucose tolerance	meshid	D018149
+Tuberculous meningitis	meshid	D014390
+Sugar crash	meshid	D007003
+Anaplastic thyroid cancer	meshid	D013964
+Balkan endemic nephropathy	meshid	D001449
+Felty's syndrome	meshid	D005258
+Radial neuropathy	meshid	D020425
+Papillary thyroid cancer	meshid	D013964
+Allergic bronchopulmonary aspergillosis	meshid	D001229
+Granuloma annulare	meshid	D016460
+Pallister–Hall syndrome	meshid	D054975
+Enophthalmos	meshid	D015841
+Centronuclear myopathy	meshid	D020914
+Cutis laxa	meshid	D003483
+Biliary fistula	meshid	D001658
+Parasomnia	meshid	D020447
+Genital herpes	meshid	D006558
+AIDS	meshid	D000163
+Piebaldism	meshid	D016116
+Sphingolipidoses	meshid	D013106
+Venezuelan equine encephalitis virus	meshid	D004685
+Rotor syndrome	meshid	D006933
+Acute abdomen	meshid	D000006
+Hemangioblastoma	meshid	D018325
+Uterine atony	meshid	D014593
+Pattern hair loss	meshid	D000505
+Rhythmic movement disorder	meshid	D020922
+Dientamoebiasis	meshid	D004030
+Acanthamoeba keratitis	meshid	D015823
+Aggressive fibromatosis	meshid	D018222
+Burning mouth syndrome	meshid	D005926
+Pituitary apoplexy	meshid	D010899
+Uterine prolapse	meshid	D014596
+Splenic infarction	meshid	D013159
+Laurence–Moon syndrome	meshid	D007849
+Ménétrier's disease	meshid	D005758
+Vascular disease	meshid	D014652
+Oculocerebrorenal syndrome	meshid	D009800
+Autonomic dysreflexia	meshid	D020211
+Epidermolysis bullosa simplex	meshid	D016110
+Muscle atrophy	meshid	D009133
+Beta thalassemia	meshid	D017086
+Idiopathic CD4+ lymphocytopenia	meshid	D018344
+Pancreatic disease	meshid	D010182
+Tendinosis	meshid	D052256
+Circadian rhythm sleep disorder	meshid	D021081
+Hailey–Hailey disease	meshid	D016506
+Chordoma	meshid	D002817
+Calciphylaxis	meshid	D002115
+Cavernous sinus thrombosis	meshid	D020226
+Shwartzman phenomenon	meshid	D012790
+DNA repair-deficiency disorder	meshid	D049914
+Iridocorneal endothelial syndrome	meshid	D057129
+Hypobetalipoproteinemia	meshid	D006995
+Verrucous carcinoma	meshid	D018289
+Retinitis	meshid	D012173
+Pseudocowpox	meshid	D011213
+Adams–Stokes syndrome	meshid	D000219
+Folate deficiency	meshid	D005494
+Right ventricular hypertrophy	meshid	D017380
+Mixed connective tissue disease	meshid	D008947
+AIDS-related complex	meshid	D000386
+Primitive neuroectodermal tumor	meshid	D018242
+Neuroendocrine tumor	meshid	D018358
+B-cell lymphoma	meshid	D016393
+Diffuse large B-cell lymphoma	meshid	D016403
+Pseudohypoaldosteronism	meshid	D011546
+Hunter syndrome	meshid	D016532
+Insect bites and stings	meshid	D007299
+Rhinophyma	meshid	D012224
+Sialolithiasis	meshid	D015494
+Progressive muscular atrophy	meshid	D009134
+Tangier disease	meshid	D013631
+Emery–Dreifuss muscular dystrophy	meshid	D020389
+XX gonadal dysgenesis	meshid	D023961
+Gonadal dysgenesis	meshid	D006059
+Scintillating scotoma	meshid	D012607
+Spinal muscular atrophy	meshid	D014897
+Peroxisomal disorder	meshid	D018901
+Fucosidosis	meshid	D005645
+GM2 gangliosidoses	meshid	D020143
+GM1 gangliosidoses	meshid	D016537
+MERRF syndrome	meshid	D017243
+Paraneoplastic cerebellar degeneration	meshid	D020362
+Sneddon's syndrome	meshid	D018860
+Dissection	meshid	D000784
+Vertebral artery dissection	meshid	D020217
+Fazio–Londe disease	meshid	D010244
+Hyperostosis	meshid	D015576
+Aspergillosis	meshid	D001228
+Pleomorphic undifferentiated sarcoma	meshid	D051677
+Appendix cancer	meshid	D001063
+Protein–energy malnutrition	meshid	D011502
+Pseudo-Hurler polydystrophy	meshid	D009081
+Mucolipidosis type IV	meshid	D009081
+I-cell disease	meshid	D009081
+Hepatic porphyria	meshid	D017094
+Pseudopseudohypoparathyroidism	meshid	D011556
+Dejerine–Sottas disease	meshid	D015417
+Aneurysmal bone cyst	meshid	D017824
+Osteochondrodysplasia	meshid	D010009
+Dysostosis	meshid	D004413
+Contracture	meshid	D003286
+Microstomia	meshid	D008865
+Non-small-cell lung carcinoma	meshid	D002289
+Partial androgen insensitivity syndrome	meshid	D013734
+Myocardial stunning	meshid	D017682
+Pierre Robin syndrome	meshid	D010855
+Pemphigoid	meshid	D010391
+Graves' ophthalmopathy	meshid	D049970
+Episcleritis	meshid	D015423
+Urogenital neoplasm	meshid	D014565
+Somatostatinoma	meshid	D013005
+Lymphatic filariasis	meshid	D005368
+Pseudobulbar palsy	meshid	D020828
+Distal muscular dystrophy	meshid	D049310
+Gliomatosis cerebri	meshid	D018302
+Postpartum bleeding	meshid	D006473
+Acatalasia	meshid	D020642
+Sjögren–Larsson syndrome	meshid	D016111
+Bacillary angiomatosis	meshid	D016917
+Lipoatrophic diabetes	meshid	D003923
+Paracoccidioidomycosis	meshid	D010229
+Dihydropyrimidine dehydrogenase deficiency	meshid	D054067
+Papillon–Lefèvre syndrome	meshid	D010214
+22q13 deletion syndrome	meshid	536801.0
+Acrocephalosyndactylia	meshid	D000168
+Bare lymphocyte syndrome	meshid	D016511
+Scheuermann's disease	meshid	D012544
+Delirium tremens	meshid	D000430
+Mucositis	meshid	D052016
+Velopharyngeal inadequacy	meshid	D014681
+Spastic diplegia	meshid	D009128
+Malignant rhabdoid tumour	meshid	D018335
+Schwannoma	meshid	D009442
+Latrodectism	meshid	spider bites / diagnosis
+Myelophthisic anemia	meshid	D000750
+Muckle–Wells syndrome	meshid	D056587
+Periodic fever syndrome	meshid	D056660
+Egg allergy	meshid	D021181
+Pedophilia	meshid	D010378
+Neonatal onset multisystem inflammatory disease	meshid	D056587
+Hepatocellular adenoma	meshid	D018248
+Osteochondromatosis	meshid	D018216
+X-linked hypophosphatemia	meshid	D053098
+Parsonage–Turner syndrome	meshid	D020968
+Apolipoprotein B deficiency	meshid	D052476
+Erdheim–Chester disease	meshid	D031249
+Ptosis	meshid	D001763
+Hypersalivation	meshid	D012798
+Cerebrotendineous xanthomatosis	meshid	D019294
+Erythropoietic porphyria	meshid	D017092
+Hepatoerythropoietic porphyria	meshid	D017121
+Maroteaux–Lamy syndrome	meshid	D009087
+Cheilitis	meshid	D002613
+Rhizomelic chondrodysplasia punctata	meshid	D018902
+Chondrodysplasia punctata	meshid	D002806
+Retrognathism	meshid	D012182
+Micrognathism	meshid	D008844
+Caplan's syndrome	meshid	D002205
+Wissler's syndrome	meshid	D014924
+Hallux rigidus	meshid	D020859
+Ectromelia	meshid	D004480
+International Classification of Sleep Disorders	meshid	D012893
+Prurigo	meshid	D011536
+Haemorrhagic disease of the newborn	meshid	D006475
+Spinal disc herniation	meshid	D007405
+Orbital cellulitis	meshid	D054517
+Diurnal enuresis	meshid	D053207
+Adhesion	meshid	D000267
+Familial hypercholesterolemia	meshid	D006938
+Hyper IgM syndrome	meshid	D053306
+Hyper-IgM syndrome type 1	meshid	D053307
+Chronic atrophic rhinitis	meshid	D012222
+Ollier disease	meshid	D004687
+Maffucci syndrome	meshid	D004687
+Ductal carcinoma in situ	meshid	D002285
+Abdominal epilepsy	meshid	D004828
+Nutcracker esophagus	meshid	D015154
+Tree nut allergy	meshid	D021184
+Wheat allergy	meshid	D021182
+Diffuse esophageal spasm	meshid	D015155
+Purpura fulminans	meshid	D011695
+Protein losing enteropathy	meshid	D011504
+Multiple epiphyseal dysplasia	meshid	D010009
+Benign familial neonatal seizures	meshid	D020936
+Juvenile myoclonic epilepsy	meshid	D020190
+Placental insufficiency	meshid	D010927
+Cronkhite–Canada syndrome	meshid	D044483
+Capillary leak syndrome	meshid	D019559
+Excessive daytime sleepiness	meshid	D006970
+Endophthalmitis	meshid	D009877
+Fox–Fordyce disease	meshid	D005588
+Pneumocystis pneumonia	meshid	D011020
+Nevus of Ota	meshid	D009507
+Vitamin A deficiency	meshid	D014802
+Dacryocystitis	meshid	D003607
+Eye neoplasm	meshid	D005134
+Blepharophimosis	meshid	D016569
+Lymphocytic colitis	meshid	D046730
+Germinoma	meshid	D018237
+Extramammary Paget's disease	meshid	D010145
+Necrotizing sialometaplasia	meshid	D012797
+Calcifying odontogenic cyst	meshid	D018333
+Odontoma	meshid	D009810
+Alveolar soft part sarcoma	meshid	D018234
+Lecithin cholesterol acyltransferase deficiency	meshid	D007863
+Argentine hemorrhagic fever	meshid	D018051
+Hemophagocytic lymphohistiocytosis	meshid	D051359
+Western equine encephalitis virus	meshid	D020241
+Athletic heart syndrome	meshid	D059267
+Urachal cyst	meshid	D014496
+Takotsubo cardiomyopathy	meshid	D054549
+Aniseikonia	meshid	D000839
+Mevalonate kinase deficiency	meshid	D054078
+Parry–Romberg syndrome	meshid	D005150
+Developmental coordination disorder	meshid	D019957
+Branchio-oto-renal syndrome	meshid	D019280
+Heart cancer	meshid	D006338
+Metabolic bone disease	meshid	D001851
+Tricuspid insufficiency	meshid	D014262
+Small fiber peripheral neuropathy	meshid	D010523
+Campomelic dysplasia	meshid	D055036
+Neurogenic bladder dysfunction	meshid	D001750
+Aarskog–Scott syndrome	meshid	535331.0
+Subacute thyroiditis	meshid	D013968
+Rape	meshid	D011902
+Lymphomatoid granulomatosis	meshid	D008230
+Acute monocytic leukemia	meshid	D007948
+Chondroblastoma	meshid	D002804
+Chronic myelomonocytic leukemia	meshid	D015477
+Posterior reversible encephalopathy syndrome	meshid	D054038
+Choroid plexus papilloma	meshid	D020288
+Myocardial rupture	meshid	D006341
+Hypolipoproteinemia	meshid	D007009
+Fournier gangrene	meshid	D018934
+Dislocated shoulder	meshid	D012783
+Nasopharynx cancer	meshid	D009303
+Buphthalmos	meshid	D006871
+Renal papillary necrosis	meshid	D007681
+Myotonic dystrophy	meshid	D009223
+Esophageal stricture	meshid	D004940
+Discitis	meshid	D015299
+Serositis	meshid	D012700
+Musculoskeletal disorder	meshid	D009140
+Generalised epilepsy	meshid	D004829
+Adamantinoma	meshid	D050398
+Fibrocystic breast changes	meshid	D005348
+Human cytomegalovirus	meshid	D003586
+Endocrine disease	meshid	D004700
+Luteoma	meshid	D018311
+Laron syndrome	meshid	D046150
+Papular mucinosis	meshid	D053718
+Transitional cell carcinoma	meshid	D002295
+Urethral cancer	meshid	D014523
+Vocal fold paresis	meshid	D014826
+Radiculopathy	meshid	D011843
+Anaplasmosis	meshid	D000712
+Balo concentric sclerosis	meshid	D002549
+Idiopathic pulmonary fibrosis	meshid	D011658
+Amniotic fluid embolism	meshid	D004619
+Tolosa–Hunt syndrome	meshid	D020333
+Dental abscess	meshid	D005491, D010482
+Subacute combined degeneration of spinal cord	meshid	D052879
+Lacunar stroke	meshid	D020520
+Optic disc drusen	meshid	D015594
+Anterior spinal artery syndrome	meshid	D020759
+Ehrlichiosis	meshid	D016873
+Congenital myopathy	meshid	D020914
+Gallbladder disease	meshid	D005705
+Antithrombin III deficiency	meshid	D020152
+Pachyonychia congenita	meshid	D009264
+Postpartum thyroiditis	meshid	D050032
+Breast disease	meshid	D001941
+Diphyllobothriasis	meshid	D004169
+Membranoproliferative glomerulonephritis	meshid	D015432
+Vaginal cancer	meshid	D014625
+Muir–Torre syndrome	meshid	D055653
+Opisthorchiasis	meshid	D009889
+Osteoblastoma	meshid	D018215
+Duodenitis	meshid	D004382
+Diastasis symphysis pubis	meshid	D046548
+Pruritus ani	meshid	D011538
+Wandering spleen	meshid	D050805
+Liver failure	meshid	D017093
+Accelerated idioventricular rhythm	meshid	D016170
+Euthyroid sick syndrome	meshid	D005067
+Epidermodysplasia verruciformis	meshid	D004819
+Laryngotracheal stenosis	meshid	D014135
+Epiretinal membrane	meshid	D019773
+Brown tumor	meshid	D010002
+Limbic encephalitis	meshid	D020363
+Juvenile xanthogranuloma	meshid	D014972
+Waxy flexibility	meshid	D002375
+Glycogen storage disease type VI	meshid	D006013
+Hallux varus	meshid	D050488
+Mast cell sarcoma	meshid	D012515
+Lipoprotein lipase deficiency	meshid	D008072
+Pseudohermaphroditism	meshid	D012734
+Sarcoma botryoides	meshid	D018233
+Hidradenitis	meshid	D016575
+Bulbar palsy	meshid	D010244
+Central cord syndrome	meshid	D020210
+Acute myeloblastic leukemia with maturation	meshid	D015470
+Rickettsiosis	meshid	D012288
+Blue nevus	meshid	D018329
+Liver abscess	meshid	D008100
+Disorders of sex development	meshid	D012734
+Foville's syndrome	meshid	D020526
+Amniotic band constriction	meshid	D000652
+Ewing's sarcoma	meshid	D012512
+Peliosis hepatis	meshid	D010382
+T-cell prolymphocytic leukemia	meshid	D015461
+Chronic neutrophilic leukemia	meshid	D015467
+Breast cyst	meshid	D047688
+Traumatic aortic rupture	meshid	D001019
+Large granular lymphocytic leukemia	meshid	D054066
+Bird fancier's lung	meshid	D001716
+Renal glycosuria	meshid	D006030
+Coxa valga	meshid	D060906
+Learning disability	meshid	D007859
+Brown-Séquard syndrome	meshid	D018437
+Galactose-1-phosphate uridylyltransferase deficiency	meshid	D005693
+Angioimmunoblastic T-cell lymphoma	meshid	D007119
+Histiocytosis	meshid	D015614
+Parametritis	meshid	D010249
+Choledochal cysts	meshid	D015529
+Atypical teratoid rhabdoid tumor	meshid	D016543
+Juvenile myelomonocytic leukemia	meshid	D054429
+Generalised tonic-clonic seizure	meshid	D004830
+Multi-drug-resistant tuberculosis	meshid	D018088
+Cephalopelvic disproportion	meshid	D052178
+Gestational pemphigoid	meshid	D006559
+Fourth nerve palsy	meshid	D020432
+Adenocarcinoma in situ of the lung	meshid	D002282
+Endometrial hyperplasia	meshid	D004714
+Mild cognitive impairment	meshid	D060825
+Hydrophthalmos	meshid	D006871
+Hand–Schüller–Christian disease	meshid	D006646
+Paraneoplastic syndrome	meshid	D010257
+Adrenal tumor	meshid	D000310
+Complex partial status epilepticus	meshid	D013226
+Monckeberg's arteriosclerosis	meshid	D050380
+Cystadenocarcinoma	meshid	D003536
+Adrenocortical adenoma	meshid	D018246
+Oculomotor nerve palsy	meshid	D015840
+Polyradiculoneuropathy	meshid	D011129
+Sulfhemoglobinemia	meshid	D013436
+Thyroid adenoma	meshid	D013964
+Myokymia	meshid	D020385
+White piedra	meshid	D010854
+Hydropneumothorax	meshid	D006872
+Patellofemoral pain syndrome	meshid	D046788
+Apudoma	meshid	D001079
+Epidermolysis bullosa dystrophica	meshid	D016108
+Bone disease	meshid	D001847
+Gastroparesis	meshid	D018589
+B-cell leukemia	meshid	D015448
+Infantile Refsum disease	meshid	D052919
+Intraventricular hemorrhage	meshid	D002543
+Hematometra	meshid	D006409
+Pigmented villonodular synovitis	meshid	D013586
+Ancylostomiasis	meshid	D000724
+Necatoriasis	meshid	D009332
+Liver cancer	meshid	D008113
+Auditory processing disorder	meshid	D001308
+Haverhill fever	meshid	D011906
+Monostotic fibrous dysplasia	meshid	D005358
+Lutembacher's syndrome	meshid	D008185
+Trilogy of Fallot	meshid	D014286
+Posterior cerebral artery syndrome	meshid	D020762
+Middle cerebral artery syndrome	meshid	D020244
+Anterior cerebral artery syndrome	meshid	D020243
+Aortitis	meshid	D001025
+Accessory nerve disorder	meshid	D020436
+Louping ill	meshid	D008146
+Occupational asthma	meshid	D059366
+Lichen nitidus	meshid	D017513
+Alcoholic cardiomyopathy	meshid	D002310
+Kuru	meshid	D007729
+Synkinesis	meshid	D046608
+Chorea gravidarum	meshid	D020150
+Infantile neuroaxonal dystrophy	meshid	D019150
+Guillain–Barré syndrome	meshid	D020275
+Serum sickness	meshid	D012713
+Gonadoblastoma	meshid	D018238
+Alveolar rhabdomyosarcoma	meshid	D018232
+Malakoplakia	meshid	D008287
+Pre-excitation syndrome	meshid	D011226
+IQ classification	meshid	D008607
+Ramsay Hunt syndrome type 1	meshid	D002527
+Enchondromatosis	meshid	D004687
+Chronic progressive external ophthalmoplegia	meshid	D017246
+Rothmund–Thomson syndrome	meshid	D011038
+List of cancer types	meshid	D009369
+Medullary sponge kidney	meshid	D007691
+Anterior compartment syndrome of the lower leg	meshid	D000868
+B-cell prolymphocytic leukemia	meshid	D054403
+Prediabetes	meshid	D011236
+Blastocystosis	meshid	D016776
+Cortical deafness	meshid	D006313
+Pelger–Huet anomaly	meshid	D010381
+Thyroid nodule	meshid	D016606
+Bronchitis	meshid	D001991
+Pulmonary insufficiency	meshid	D011665
+Mantle cell lymphoma	meshid	D020522
+Lymphomatoid papulosis	meshid	D017731
+Pneumopericardium	meshid	D011026
+Immune disorder	meshid	D007154
+Obstructive lung disease	meshid	D008173
+Discoid lupus erythematosus	meshid	D008179
+Cocaine dependence	meshid	D019970
+Papulosquamous disorder	meshid	D017444
+Ideomotor apraxia	meshid	D020240
+Accelerated phase chronic myelogenous leukemia	meshid	D015465
+Signet ring cell carcinoma	meshid	D018279
+Carcinosarcoma	meshid	D002296
+Thymic carcinoma	meshid	D013945
+Osteoid osteoma	meshid	D010017
+Clear-cell adenocarcinoma of the vagina	meshid	D018262
+Mesoblastic nephroma	meshid	D018201
+Sertoli cell-only syndrome	meshid	D054331
+Dermal cylindroma	meshid	D003528
+Adult-onset Still's disease	meshid	D016706
+Endocrine gland neoplasm	meshid	D004701
+Hidrocystoma	meshid	D018251
+Cementoma	meshid	D002485
+Adenomatoid tumor	meshid	D018254
+Obturator hernia	meshid	D006553
+Digestive system neoplasm	meshid	D004067
+Respiratory tract neoplasm	meshid	D012142
+Follicular thyroid cancer	meshid	D013964
+Medullary thyroid cancer	meshid	D013964
+Melorheostosis	meshid	D008557
+Osteopoikilosis	meshid	D010023
+Salivary gland neoplasm	meshid	D012468
+Hepatic veno-occlusive disease	meshid	D006504
+Refractory anemia with excess of blasts	meshid	D000754
+Aquagenic urticaria	meshid	562481.0
+Chronic recurrent multifocal osteomyelitis	meshid	535456.0
+Erethism	meshid	D020262
+Chronic venous insufficiency	meshid	D014689
+Type II hypersensitivity	meshid	D001327
+Post-dural-puncture headache	meshid	D051299
+Retropharyngeal abscess	meshid	D017703
+Rheumatoid nodule	meshid	D012218
+Pathogenic bacteria	meshid	D001424
+Bagassosis	meshid	D011009
+Type III hypersensitivity	meshid	D007105
+Acute retinal necrosis	meshid	D015882
+Staphylococcal infection	meshid	D013203
+Lhermitte–Duclos disease	meshid	D006223
+Post-traumatic epilepsy	meshid	D004834
+Neutral spine	meshid	D001416
+Viral disease	meshid	D014777
+Schamberg disease	meshid	D010859
+Neuroborreliosis	meshid	D020852
+Hepatitis B	meshid	D006509
+Tracheobronchomegaly	meshid	D014137
+IgG deficiency	meshid	D017099
+Camurati–Engelmann disease	meshid	D003966
+Heavy chain disease	meshid	D006362
+X-linked lymphoproliferative disease	meshid	D008232
+Acute megakaryoblastic leukemia	meshid	D007947
+Esthesioneuroblastoma	meshid	D018304
+Hip dysplasia	meshid	D006618
+Central core disease	meshid	D020512
+Multiple sulfatase deficiency	meshid	D052517
+Ventilator-associated lung injury	meshid	D055397
+Urocanic aciduria	meshid	D014560
+Acute basophilic leukemia	meshid	D015471
+Dentatorubral-pallidoluysian atrophy	meshid	D020191
+Antley–Bixler syndrome	meshid	D054882
+Rabies	meshid	D011818
+Acute myelomonocytic leukemia	meshid	D015479
+Acrocallosal syndrome	meshid	D055673
+Dejerine–Roussy syndrome	meshid	D013786
+Acute biphenotypic leukaemia	meshid	D015456
+lymphoma	meshid	D054218
+Precursor B-cell lymphoblastic leukemia	meshid	D015452
+Hypoalphalipoproteinemia	meshid	D052456
+Atypical trigeminal neuralgia	meshid	D014277
+Subcutaneous emphysema	meshid	D013352
+Mucormycosis	meshid	D009091
+Inborn errors of purine–pyrimidine metabolism	meshid	D011686
+Hereditary hyperbilirubinemia	meshid	D006933
+Congenital disorders of amino acid metabolism	meshid	D000592
+Inborn errors of renal tubular transport	meshid	D015499
+Jansky–Bielschowsky disease	meshid	D009472
+Acid–base imbalance	meshid	D000137
+Iron metabolism disorder	meshid	D019189
+Central retinal vein occlusion	meshid	D012170
+Hair disease	meshid	D006201
+Plasma cell dyscrasia	meshid	D054219
+Congenital limb deformities	meshid	D017880
+Craniofacial abnormality	meshid	D019465
+Protozoan infection	meshid	D011528
+Frontonasal dysplasia	meshid	538065.0
+Hematologic disease	meshid	D006402
+Heat illness	meshid	D006359
+Splenic disease	meshid	D013158
+Oral and maxillofacial pathology	meshid	D009057
+Hereditary motor and sensory neuropathy	meshid	D015417
+Hereditary sensory and autonomic neuropathy	meshid	D009477
+Coronary artery aneurysm	meshid	D003323
+Stomach disease	meshid	D013272
+Cholesterol embolism	meshid	D017700
+Chronic mucocutaneous candidiasis	meshid	D002178
+Hemosiderosis	meshid	D006486
+Type IV hypersensitivity	meshid	D006968
+Acute myeloblastic leukemia	meshid	D015470
+Ventricular flutter	meshid	D054141
+No reflow phenomenon	meshid	D054318
+Central nervous system disease	meshid	D002493
+Ocular albinism	meshid	D016117
+Musculoskeletal abnormality	meshid	D009139
+Esophageal disease	meshid	D004935
+Familial amyloid neuropathy	meshid	D028227
+Vascular malformation	meshid	D054079
+Persistent fetal circulation	meshid	D010547
+Multiple abnormalities	meshid	D000015
+Pigmentation disorder	meshid	D010859
+Tongue disease	meshid	D014060
+Focal and diffuse brain injury	meshid	D001930
+Type I tyrosinemia	meshid	D020176
+Tyrosinemia type III	meshid	D020176
+Multiple carboxylase deficiency	meshid	D009100
+Acrodermatitis	meshid	D000169
+Abdominal trauma	meshid	D000007
+Gonorrhea	meshid	D006069
+Multiple endocrine neoplasia type 2b	meshid	D018814
+Urinary bladder disease	meshid	D001745
+Solitary pulmonary nodule	meshid	D003074
+Ciliopathy	meshid	D002925
+Biliary dyskinesia	meshid	D001657
+Neuromuscular junction disease	meshid	D020511
+Cranial nerve disease	meshid	D003389
+Testicular disease	meshid	D013733
+Urologic disease	meshid	D014570
+Ductal carcinoma	meshid	D044584
+Orofaciodigital syndrome 1	meshid	D009958
+Piedra	meshid	D010854
+Ecthyma	meshid	D004473
+Large-cell lymphoma	meshid	D016403
+Parathyroid adenoma	meshid	D010282
+Actinobacillosis	meshid	D000187
+Pituitary disease	meshid	D010900
+Acanthoma	meshid	D049309
+Vascular tissue neoplasm	meshid	D009383
+Cerebral vasculitis	meshid	D020293
+Geotrichosis	meshid	D005847
+Rhinosporidiosis	meshid	D012227
+Ovarian disease	meshid	D010049
+Intellectual disability	meshid	D008607
+Ureteral neoplasm	meshid	D014516
+Lymphatic disease	meshid	D008206
+Thymus hyperplasia	meshid	D013952
+Ureaplasma infection	meshid	D016869
+Pseudomonas infection	meshid	D011552
+Serratia infection	meshid	D016868
+Klebsiella pneumonia	meshid	D007710
+Human granulocytic anaplasmosis	meshid	D016873
+Human monocytotropic ehrlichiosis	meshid	D016873
+Mollaret's meningitis	meshid	D008582
+Frasier syndrome	meshid	D052159
+Rolandic epilepsy	meshid	D019305
+Gram-negative bacterial infection	meshid	D016905
+Central nervous system viral disease	meshid	D020805
+Capillary hemangioma	meshid	D018324
+Head lice infestation	meshid	D010373
+Halo nevus	meshid	D009508
+Dermatitis herpetiformis	meshid	D003874
+Angelman syndrome	meshid	D017204
+Sulfatidosis	meshid	D052516
+Fat necrosis	meshid	D005218
+Drug eruption	meshid	D003875
+Narcolepsy	meshid	D009290
+Gianotti–Crosti syndrome	meshid	D000169
+Nervous system disease	meshid	D009422
+Lichenoid eruption	meshid	D017512
+Fallopian tube cancer	meshid	D005185
+Alzheimer's disease	meshid	D000544
+Early-onset Alzheimer's disease	meshid	D000544
+Heterotopic pregnancy	meshid	D011271
+Focal dermal hypoplasia	meshid	D005489
+Domestic violence	meshid	D017579
+Overweight	meshid	D050177
+Subdural empyema	meshid	D013354
+Sexually transmitted infection	meshid	D012749
+Vision disorder	meshid	D014786
+Plasma cell leukemia	meshid	D007952
+Fetal disease	meshid	D005315
+Minimally differentiated acute myeloblastic leukemia	meshid	D015470
+Multiple hamartoma syndrome	meshid	D006223
+Ear disease	meshid	D004427
+Bisphosphonate-associated osteonecrosis of the jaw	meshid	D059266
+Amyotrophic lateral sclerosis	meshid	D000690
+Hyper-IgM syndrome type 3	meshid	D053306
+Hyper-IgM syndrome type 4	meshid	D053306
+Kaposi's sarcoma	meshid	D012514
+Perivascular epithelioid cell tumour	meshid	D054973
+Autoimmune disease	meshid	D001327
+Influenza	meshid	D007251
+Gingivitis	meshid	D005891
+Schnitzler syndrome	meshid	D019873
+Inflammatory myopathy	meshid	D009220
+Male breast cancer	meshid	D001943
+Klinefelter syndrome	meshid	D007713
+Large-cell lung carcinoma	meshid	D018287
+Mandibular fracture	meshid	D008337
+Ocular albinism type 1	meshid	D016117
+Milroy's disease	meshid	D008209
+Niemann–Pick disease, SMPD1-associated	meshid	D009542
+Niemann–Pick disease, type C	meshid	D052556
+X-linked intellectual disability	meshid	D038901
+Danon disease	meshid	D052120
+Obsessive–compulsive disorder	meshid	D009771
+Black piedra	meshid	D010854
+Pineocytoma	meshid	D010871
+Patellar dislocation	meshid	D031222
+Ichthyosis bullosa of Siemens	meshid	D053560
+Pneumococcal infection	meshid	D011008
+Hemoglobin E	meshid	D006446
+Typhus	meshid	D014438
+Congenital ichthyosiform erythroderma	meshid	D016113
+Polycystic kidney disease	meshid	D007690
+Autosomal recessive polycystic kidney disease	meshid	D017044
+Autoimmune thyroiditis	meshid	D013967
+Urbach–Wiethe disease	meshid	D008065
+Myocardial infarction	meshid	D009203
+Acute decompensated heart failure	meshid	D006333
+Vitamin K deficiency	meshid	D014813
+Macrostomia	meshid	D008265
+Sunburn	meshid	D013471
+Subacute cutaneous lupus erythematosus	meshid	D008178
+Rheumatoid vasculitis	meshid	D056653
+Junctional ectopic tachycardia	meshid	D013613
+Vitamin D deficiency	meshid	D014808
+Tufted angioma	meshid	536924.0
+Epithelioid hemangioendothelioma	meshid	D000230
+Atrial fibrillation	meshid	D001281
+Amoebiasis	meshid	D000562
+Acromegaly	meshid	D000172
+Platelet storage pool deficiency	meshid	D010981
+Myelolipoma	meshid	D018209
+Systemic lupus erythematosus	meshid	D008180
+Meningitis	meshid	D008581
+Aortopulmonary septal defect	meshid	D001028
+Neutrophilic eccrine hidradenitis	meshid	D016575
+Arbovirus encephalitis	meshid	D004671
+Pyogenic liver abscess	meshid	D046290
+Large plaque parapsoriasis	meshid	D010267
+Incontinentia pigmenti achromians	meshid	D010859
+Herpes simplex	meshid	D006561
+Marginal zone B-cell lymphoma	meshid	D018442
+Amnesia	meshid	D000647
+Lentiginosis	meshid	D007911
+Subdural effusion	meshid	D013353
+Cirrhosis	meshid	D008103
+Epstein–Barr virus infection	meshid	D020031
+Personality disorder	meshid	D010554
+Peripheral T-cell lymphoma	meshid	D016411
+Delta-beta thalassemia	meshid	D055538
+Congenital hemolytic anemia	meshid	D000745
+Foot-and-mouth disease	meshid	D005536
+Fibular hemimelia	meshid	D004480
+Acrokeratosis verruciformis	meshid	D007644
+Muscle tissue neoplasm	meshid	D009379
+Adipose tissue neoplasm	meshid	D018205
+Myxoid liposarcoma	meshid	D018208
+Malignant acrospiroma	meshid	D018250
+Ganglioneuroblastoma	meshid	D018305
+Dermatopolymyositis	meshid	D003882
+Porokeratosis	meshid	D017499
+Sclerosis	meshid	D012598
+Spitz nevus	meshid	D018332
+Junctional epidermolysis bullosa	meshid	D016109
+Clear-cell sarcoma	meshid	D018227
+Transsexual	meshid	D014189
+Foot deformity	meshid	D005530
+Marinesco–Sjögren syndrome	meshid	D013132
+Linear verrucous epidermal nevus	meshid	D054000
+Spinal disease	meshid	D013122
+Ectoparasitic infestation	meshid	D004478
+Fungal meningitis	meshid	D016921
+Herpes labialis	meshid	D006560
+Aneurysm of heart	meshid	D006322
+Histiocytic sarcoma	meshid	D054747
+Langerhans cell sarcoma	meshid	D054752
+Non-Langerhans cell histiocytosis	meshid	D015616
+Interdigitating dendritic cell sarcoma	meshid	D054739
+Tick infestation	meshid	D013984
+Vesiculobullous disease	meshid	D012872
+Haemophilus meningitis	meshid	D008583
+Sclerema neonatorum	meshid	D012593
+Entomophthoramycosis	meshid	D020096
+Congenital generalized lipodystrophy	meshid	D052497
+HIV-associated lipodystrophy	meshid	D039682
+Hereditary CNS demyelinating disease	meshid	D020279
+Bone cyst	meshid	D001845
+Female genital disease	meshid	D005831
+Male genital disease	meshid	D005832
+Hand deformity	meshid	D006226
+Tuberculous pericarditis	meshid	D010495
+Mesenchymal chondrosarcoma	meshid	D018211
+Gingival disease	meshid	D005882
+Mucinosis	meshid	D017520
+Bruns apraxia	meshid	D020235
+Mental disorders diagnosed in childhood	meshid	D019952
+Central nervous system cyst	meshid	D020863
+Neurocytoma	meshid	D018306
+Neurogenic diabetes insipidus	meshid	D020790
+Pituitary ACTH hypersecretion	meshid	D047748
+Parathyroid disease	meshid	D010279
+Thyroid dysgenesis	meshid	D050033
+Pinealoblastoma	meshid	D010871
+Acute infectious thyroiditis	meshid	D013969
+Mucinous cystadenocarcinoma	meshid	D018282
+Serous cystadenocarcinoma	meshid	D018284
+Placental disease	meshid	D010922
+Autoimmune polyendocrine syndrome type 1	meshid	D016884
+Autoimmune polyendocrine syndrome type 2	meshid	D016884
+Thyroid cancer	meshid	D013964
+Somatosensory disorder	meshid	D020886
+Familial hypocalciuric hypercalcemia	meshid	D006934
+Basal ganglia disease	meshid	D001480
+Corpus luteum cyst	meshid	D010048
+Hypothalamic disease	meshid	D007027
+Postcardiotomy syndrome	meshid	D011185
+Hydroa vacciniforme	meshid	D006837
+Vaginal yeast infection	meshid	D002181
+Alternariosis	meshid	D060487
+2009 flu pandemic	meshid	D053118
+Bezoar	meshid	D001630
+Jellyfish dermatitis	meshid	D003064
+Pinworm infection	meshid	D017229
+Pediculosis corporis	meshid	D010373
+Human herpesvirus 7	meshid	D016199
+Scleredema	meshid	D012592
+Radiation-induced lung injury	meshid	D017564
+Cutaneous lymphoid hyperplasia	meshid	D019310
+T-cell lymphoma, nasal type	meshid	D054391
+Diffuse myelinoclastic sclerosis	meshid	D002549
+Cryopyrin-associated periodic syndrome	meshid	D056587
+Klippel–Trénaunay syndrome	meshid	D007715
+Puerperal disorder	meshid	D011644
+Obstetric labor complication	meshid	D007744
+Papillary serous cystadenocarcinoma	meshid	D000231
+Pathophysiology of asthma	meshid	D001249
+Intraductal papilloma	meshid	D018300
+Gulf War syndrome	meshid	D018923
+Social anxiety disorder	meshid	D010698
+Howel–Evans syndrome	meshid	536164.0
+Cigar cell	meshid	D004612
+Peripheral T-cell lymphoma not otherwise specified	meshid	D016411
+Gerstmann syndrome	meshid	D005862
+Hodgkin's lymphoma	meshid	D006689
+Sertoli cell tumour	meshid	D012707
+Leydig cell tumour	meshid	D007984
+Hyperphenylalaninemia	meshid	D010661
+Presyncope	meshid	D013575
+Chronic cerebrospinal venous insufficiency	meshid	D014689
+Watson syndrome	meshid	D009456
+Weber–Christian disease	meshid	D010201
+Folie à deux	meshid	D012753
+Lethal midline granuloma	meshid	D006103
+Benign symmetric lipomatosis	meshid	D008069
+Congenital pulmonary airway malformation	meshid	D015615
+Cardiorenal syndrome	meshid	D059347
+Sphincter of Oddi dysfunction	meshid	D046628
+Complete androgen insensitivity syndrome	meshid	D013734
+Nerve compression syndrome	meshid	D009408
+Idiopathic hypersomnia	meshid	D020177
+Heat stroke	meshid	D018883
+Ichthyosis prematurity syndrome	meshid	D004802
+Stener lesion	meshid	D006227
+Periodontal abscess	meshid	D005491
+Chronic periodontitis	meshid	D055113
+Complications of diabetes mellitus	meshid	D048909
+Atrioventricular reentrant tachycardia	meshid	D013617
+Heerfordt's syndrome	meshid	D014608
+Shwachman–Diamond syndrome	meshid	537330.0
+Medulloepithelioma	meshid	D018242
+Diktyoma	meshid	D018242
+Cocaine intoxication	meshid	D019970
+Hand injury	meshid	D006230
+Cardiac arrhythmia	meshid	D001145
+Substance-induced psychosis	meshid	D011605
+Combined small-cell lung carcinoma	meshid	D018288
+Overbite	meshid	D057887
+Substance use disorder	meshid	D019966
+Cyclothymia	meshid	D003527
+Anorexia nervosa	meshid	D000856
+Panic disorder	meshid	D016584
+Solitary fibrous tumor	meshid	D054364
+Large-cell lung carcinoma with rhabdoid phenotype	meshid	D018287
+Placental site trophoblastic tumor	meshid	D018245
+Subphrenic abscess	meshid	D013369
+Claude's syndrome	meshid	D020526
+Trombiculosis	meshid	D014323
+Spinal fracture	meshid	D016103
+Tracheal tumor	meshid	D014134
+Central sleep apnea	meshid	D020182
+Neonatal withdrawal	meshid	D009357
+Ileitis	meshid	D007079
+Psoas muscle abscess	meshid	D016659
+Organic mental disorders	meshid	D019965
+Cat-scratch disease	meshid	D002372
+Sleep state misperception	meshid	D020919
+Ovarian serous cystadenoma	meshid	D018293
+Pediculosis pubis	meshid	D010373
+Bed bug infestation	meshid	D001511
+Irregular sleep–wake rhythm	meshid	D021081
+Mild androgen insensitivity syndrome	meshid	D013734
+Thyrotoxic periodic paralysis	meshid	D020514
+Athetoid cerebral palsy	meshid	D002547
+Chorangioma	meshid	D006391
+Chronic fatigue syndrome	meshid	D015673
+Cranio–lenticulo–sutural dysplasia	meshid	564332.0
+Myeloid leukemia	meshid	D007951
+Fanconi syndrome	meshid	D005198
+Somatic symptom disorder	meshid	D013001
+Cicatricial pemphigoid	meshid	D010390
+Otitis externa	meshid	D010032
+Endodermal sinus tumor	meshid	D018240
+Behçet's disease	meshid	D001528
+Silent stroke	meshid	D020521
+Severe fever with thrombocytopenia syndrome	meshid	D002044
+Disorders of consciousness	meshid	C10.597.606.358
+Bile acid malabsorption	meshid	567652.0
+Classification of pneumonia	meshid	D011014
+Anomalous aortic origin of a coronary artery	meshid	D003330
+Proximal renal tubular acidosis	meshid	D000141
+Distal renal tubular acidosis	meshid	D000141
+De Barsy syndrome	meshid	535990.0
+Ruzicka Goerz Anton syndrome	meshid	537192.0
+Seaver Cassidy syndrome	meshid	537529.0
+Strumal carcinoid	meshid	D013330
+Hypernasal speech	meshid	D014833
+Yim–Ebbin syndrome	meshid	536713.0
+Astroblastoma	meshid	D018302
+Ectrodactyly	meshid	574275.0
+Scanning speech	meshid	D004401
+Early myoclonic encephalopathy	meshid	D004831
+Benign familial infantile epilepsy	meshid	535467.0
+Central neurocytoma	meshid	D018306
+Hereditary leiomyomatosis and renal cell cancer syndrome	meshid	537112.0
+Rotaviral enteritis	meshid	D012400
+Aromatase excess syndrome	meshid	537436.0
+Inborn errors of steroid metabolism	meshid	D043202
+Aerosol burn	meshid	D005627
+Poorly differentiated thyroid cancer	meshid	D013964
+Qazi–Markouizos syndrome	meshid	536259.0
+Michels Caskey syndrome	meshid	537576.0
+Thyroid lymphoma	meshid	D013964
+Squamous-cell thyroid carcinoma	meshid	D002294
+Constriction ring syndrome	meshid	D000652
+Hapnes Boman Skeie syndrome	meshid	536960.0
+Harding ataxia	meshid	535633.0
+Hemoglobin D-Punjab	meshid	32001.0
+Lyngstadaas syndrome	meshid	537490.0
+Separation anxiety disorder	meshid	D001010
+2013 Swansea measles epidemic	meshid	D008457
+Salivary gland pathology	meshid	D012466
+Atrophic vaginitis	meshid	D059268
+Ebola virus disease	meshid	D019142
+Wrist arthroscopy	meshid	D001182
+Dicarboxylic aminoaciduria	meshid	536171.0
+Legionnaires' disease	meshid	D007876
+Tooth pathology	meshid	D014071
+Upshaw–Schulman syndrome	meshid	D011697
+Tricho-Dento-Osseous Syndrome	meshid	D011378
+Tricho-Dento-Osseous Syndrome	meshid	D005491, D010482
+Calcium channel blocker toxicity	meshid	D062787
+Pulmonary venoocclusive disease	meshid	C14.907.690
+Favid	meshid	D014007
+Omental infarction	meshid	D015436
+Ann C. Palmenberg	meshid	D003139
+Tubal factor infertility	meshid	D000292
+Gomez and López-Hernández syndrome	meshid	537285.0
+Neutrophil-specific granule deficiency	meshid	562873.0
+Tubo-ovarian abscess	meshid	D000292
+Hoyeraal-Hreidarsson syndrome	meshid	536068.0
+Mycoplasma hominis infection	meshid	D016869
+Coca-Cola treatment of phytobezoars	meshid	D001630
+Bartholin gland carcinoma	meshid	D003528

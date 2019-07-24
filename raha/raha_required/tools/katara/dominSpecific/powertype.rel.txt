@@ -1,0 +1,578 @@
+EMD SD80MAC	powertype	Diesel-electric
+ALCO Century 415	powertype	Diesel-electric
+British Rail Class 53	powertype	Diesel-electric
+British Rail Class 52	powertype	Diesel-hydraulic
+British Rail Class 02	powertype	Diesel-hydraulic
+British Rail Class 03	powertype	Diesel-mechanical
+British Rail Class 04	powertype	Diesel-mechanical
+British Rail Class 05	powertype	Diesel-mechanical
+British Rail Class 06	powertype	Diesel-mechanical
+British Rail Class 07	powertype	Diesel-electric
+British Rail Class 08	powertype	Diesel-electric
+British Rail Class 09	powertype	Diesel-electric
+British Rail Class 10	powertype	Diesel-electric
+British Rail Class 11	powertype	Diesel-electric
+British Rail Class 14	powertype	Diesel-hydraulic
+LNER Class A4 4468 Mallard	powertype	Steam
+GE Genesis	powertype	Diesel-electric
+GE U25B	powertype	Diesel-electric
+GE U28B	powertype	Diesel-electric
+GE U30B	powertype	Diesel-electric
+GE U30C	powertype	Diesel-electric
+GE U25C	powertype	Diesel-electric
+GWR 3700 Class	powertype	Steam
+British Rail Class 47	powertype	Diesel-electric
+EMD F40PH	powertype	Diesel-electric
+EMD BL2	powertype	Diesel-electric
+GE U36B	powertype	Diesel-electric
+ALCO RS-3	powertype	Diesel-electric
+Yorkshire Engine Company Janus	powertype	Diesel-electric
+PRR S2	powertype	Steam Turbine
+EMC E2	powertype	Diesel-electric
+Flying Yankee	powertype	Diesel
+EMD DDA40X	powertype	Diesel-electric
+EMC E1	powertype	Diesel-electric
+EMC 1800 hp B-B	powertype	Diesel-electric
+EMC 1800 hp B-B	powertype	Diesel-electric
+EMD GP20D	powertype	Diesel-electric
+GWR 3800 Class	powertype	Steam
+EMD SD90MAC	powertype	Diesel-electric
+GE U50	powertype	Diesel-electric
+ALCO Century 636	powertype	Diesel-electric
+ALCO DH643	powertype	Diesel locomotive
+ALCO Century 628	powertype	Diesel-electric
+EMD SW1	powertype	Diesel-electric
+EMD SD40-2	powertype	Diesel-electric
+EMD SDP45	powertype	Diesel-electric
+EMD DD35A	powertype	Diesel-electric
+EMD DD35	powertype	Diesel-electric
+ALCO HH series	powertype	Diesel-electric
+GE U50C	powertype	Diesel-electric
+EMD TR1	powertype	Diesel-electric transmission
+EMD NW2	powertype	Diesel-electric
+EMD NW5	powertype	Diesel-electric
+Baldwin DR-4-4-15	powertype	Diesel-electric transmission
+GE Dash 9-44CW	powertype	Diesel-electric
+ALCO Century 855	powertype	Diesel-electric
+EMD SD24	powertype	Diesel-electric
+EMD SD60	powertype	Diesel-electric
+GE Evolution Series	powertype	Diesel-electric
+FM Consolidated line	powertype	Diesel-electric
+ALCO PA	powertype	Diesel-electric
+British Rail Class 67	powertype	Diesel-electric
+Cycloped	powertype	Horse
+FM H-24-66	powertype	Diesel-electric
+LRC	powertype	Diesel-electric
+EMD F59PH	powertype	Diesel-electric
+EMD F59PH	powertype	Diesel-electric
+EMD GP38AC	powertype	Diesel-electric
+EMD SD38AC	powertype	Diesel-electric
+EMD GP38	powertype	Diesel-electric transmission
+EMD GP28	powertype	Diesel-electric
+EMD GP39	powertype	Diesel-electric
+EMD SW8	powertype	Diesel-electric
+EMD GP18	powertype	Diesel-electric
+EMD GP35	powertype	Diesel-electric
+EMD SW1200	powertype	Diesel-electric
+EMD GP38-2	powertype	Diesel-electric
+EMD SD28	powertype	Diesel-electric
+EMD GP9	powertype	Diesel-electric
+EMD SD18	powertype	Diesel-electric
+EMD GP40	powertype	Diesel-electric
+EMD SD38	powertype	Diesel-electric
+EMD SDP35	powertype	Diesel-electric
+EMD SD35	powertype	Diesel-electric
+EMD GP40-2	powertype	Diesel-electric
+EMD SD7	powertype	Diesel-electric
+EMD GP7	powertype	Diesel-electric
+EMD SD45	powertype	Diesel
+EMD SDP40	powertype	Diesel-electric transmission
+EMD SD40	powertype	Diesel-electric transmission
+EMD SD45X	powertype	Diesel-electric
+EMD SD45-2	powertype	Diesel
+EMD SD39	powertype	Diesel-electric
+EMD SDL39	powertype	Diesel-electric
+EMD SDP40F	powertype	Diesel-electric
+EMD GP59	powertype	Diesel-electric
+EMD GP50	powertype	Diesel-electric
+GE Dash 8-39B	powertype	Diesel-electric
+GE Dash 8-40C	powertype	Diesel-electric
+EMD SD40T-2	powertype	Diesel-electric
+EMD GP60	powertype	Diesel-electric
+EMD MP15T	powertype	Diesel
+EMD GP15T	powertype	Diesel-electric
+EMD GP15AC	powertype	Diesel-electric
+EMD GP15-1	powertype	Diesel-electric
+EMD GP39DC	powertype	Diesel-electric
+British Rail Class 41	powertype	Diesel-hydraulic
+S&DJR 7F 2-8-0	powertype	Steam
+6	powertype	Diesel-electric
+LNER Class A4 4496 Dwight D Eisenhower	powertype	Steam
+LNER Class A4 4464 Bittern	powertype	Steam
+LNER Class A4 4498 Sir Nigel Gresley	powertype	Steam
+LNER Class A4 4489 Dominion of Canada	powertype	Steam
+GWR 2251 Class	powertype	Steam
+GWR 1400 Class	powertype	Steam
+GWR 5400 Class	powertype	Steam
+GE U33B	powertype	Diesel-electric
+GE U23C	powertype	Diesel-electric
+GE B23-7	powertype	Diesel-electric
+GE B30-7	powertype	Diesel-electric
+British Rail Class 20	powertype	Diesel-electric
+ALCO RS-11	powertype	Diesel-electric
+NS Class 600	powertype	Diesel-electric transmission
+SNCF Class BB 67300	powertype	Diesel
+SNCF Class BB 67400	powertype	Diesel
+EMD SD45T-2	powertype	Diesel-electric
+Eurotunnel Class 0001	powertype	Diesel-electric
+British Rail Class 42	powertype	Diesel-hydraulic
+EMD SD40A	powertype	Diesel-electric
+EMD GP39-2	powertype	Diesel-electric
+EMD GP40X	powertype	Diesel-electric
+GE AC4400CW	powertype	Diesel-electric
+ALCO RSC-3	powertype	Diesel-electric
+GE B36-7	powertype	Diesel-electric
+GE C30-7	powertype	Diesel-electric
+GE C36-7	powertype	Diesel-electric
+GE Dash 8-40B	powertype	Diesel-electric
+GE Dash 8-32B	powertype	Diesel-electric
+GE 44-ton switcher	powertype	Diesel-electric
+GE C39-8	powertype	Diesel-electric
+EMD F40C	powertype	Diesel-electric
+EMD Model 40	powertype	Diesel-electric
+GE Dash 9-40CW	powertype	Diesel-electric
+GE U33C	powertype	Diesel-electric
+ALCO RS-1	powertype	Diesel-electric
+LNER Class A4 4469 Sir Ralph Wedgwood	powertype	Steam
+LNER Class A4 2509 Silver Link	powertype	Steam
+British Rail Class 58	powertype	Diesel-electric transmission
+British Rail Class 59	powertype	Diesel-electric
+NS Class 1500	powertype	Electric 1500V DC OHL
+GE AC6000CW	powertype	Diesel-electric
+British Rail Class 21	powertype	Diesel-electric
+ALCO RSC-2	powertype	Diesel-electric
+ALCO RSD-12	powertype	Diesel-electric
+ALCO RSD-15	powertype	Diesel-electric
+ALCO RS-2	powertype	Diesel-electric
+GE Dash 8-40BW	powertype	Diesel-electric
+GER Class S56	powertype	Steam
+Union Pacific 6936	powertype	Diesel-electric
+MLW RSC-24	powertype	Diesel-electric
+LMS diesel shunter 7050	powertype	Diesel-mechanical
+Santa Fe 2926	powertype	Steam locomotive
+EMD Class 66	powertype	Diesel-electric
+NS Class 1700	powertype	Electric 1.5 kV DC OHL
+GE Dash 8-32BWH	powertype	Diesel
+NSB El 18	powertype	Electric
+NSB El 17	powertype	Electric
+NSB Di 4	powertype	Diesel-electric
+ALCO DL-109	powertype	Diesel-electric
+SNCF Class T 2000	powertype	Autorail
+Baldwin AS-16	powertype	Diesel-electric
+NSB Di 6	powertype	Diesel-electric
+GE U34CH	powertype	Diesel-electric
+GE Dash 8-40CW	powertype	Diesel-electric
+GER Class C53	powertype	Steam
+ALCO RSD-1	powertype	Diesel-electric
+EMD GP40-based passenger locomotives	powertype	Diesel-electric
+Baldwin VO-660	powertype	Diesel-electric transmission
+GE 70-ton switcher	powertype	Diesel-electric
+GMD NF210	powertype	Diesel-electric
+ALCO S-2 and S-4	powertype	Diesel-electric
+ALCO Century 420	powertype	Diesel-electric
+ALCO Century 424	powertype	Diesel-electric
+ALCO Century 425	powertype	Diesel-electric
+ALCO Century 430	powertype	Diesel-electric
+FM H-12-44TS	powertype	Diesel-electric
+ALCO RSD-7	powertype	Diesel-electric
+NSB El 9	powertype	Electric
+NSB Di 3	powertype	Diesel-electric locomotive
+FM OP800	powertype	Diesel-electric
+EMD LWT12	powertype	Diesel-electric
+GP16	powertype	Diesel-electric
+Milwaukee Road class ES-1	powertype	Electric
+Milwaukee Road class ES-2	powertype	Electric
+TRAXX	powertype	Electric locomotive
+TRAXX	powertype	Electric
+Baldwin DRS-4-4-1000	powertype	Diesel-electric
+NSB Di 8	powertype	Diesel-electric
+New Zealand EB class locomotive	powertype	Battery electric,
+New Zealand EB class locomotive	powertype	later diesel electric
+NS Class 1600	powertype	Electric
+SNCF Class Y 8000	powertype	Diesel
+British Rail 11104	powertype	Diesel-mechanical
+10	powertype	Diesel-hydraulic
+12	powertype	Diesel-electric
+MPI MPXpress	powertype	Diesel-electric
+Old Colony and Newport Scenic Railway	powertype	Diesel
+Southern Pacific 1518	powertype	Diesel
+NZR DI class	powertype	Diesel-Electric
+GE P30CH	powertype	Diesel-electric
+ALCO FA	powertype	Diesel-electric
+BNCR Class S	powertype	Steam
+EMD F69PHAC	powertype	Diesel
+MLW RSC-14	powertype	Diesel-electric
+Indian locomotive class WDM-2	powertype	Diesel
+New Zealand DC class locomotive	powertype	Diesel-electric
+New Zealand DA class locomotive	powertype	Diesel-electric
+New Zealand DB class locomotive	powertype	Diesel-electric transmission
+New Zealand DG and DH class locomotive	powertype	Diesel-Electric
+NZR Q class	powertype	Steam
+New Zealand DE class locomotive	powertype	Diesel-electric
+GMD NF110	powertype	Diesel-electric
+GER Class G15	powertype	Steam
+GE 80-ton switcher	powertype	Diesel-electric
+EMD G8	powertype	Diesel-electric
+ALCO DL-202	powertype	Diesel-electric
+GER Class F48	powertype	Steam
+GER Class G58	powertype	Steam
+GER Class E22	powertype	Steam
+GER Class P43	powertype	Steam
+GER Class T26	powertype	Steam
+GER Class T19	powertype	Steam
+New Zealand DSG class locomotive	powertype	Diesel-Electric Shunter
+New Zealand DSJ class locomotive	powertype	Diesel-Electric
+GE U36C	powertype	Diesel-electric
+MLW RS-10	powertype	Diesel-electric
+ALCO RS-27	powertype	Diesel-electric
+ALCO RS-32	powertype	Diesel-electric
+ALCO T-6	powertype	Diesel-electric
+ALCO RS-36	powertype	Diesel-electric
+ALCO S-5	powertype	Diesel-electric
+ALCO S-6	powertype	Diesel
+EMD GP49	powertype	Diesel-electric
+SNCF Class X 2400	powertype	Autorail
+SNCF Class X 4900	powertype	Autorail
+Voiture État à 2 étages	powertype	Passenger car
+Tubize 2069	powertype	Steam
+EMD SD75I	powertype	Diesel-electric
+EMD SD75M	powertype	Diesel-electric
+NZR D class	powertype	Steam
+EMD GT46MAC	powertype	Diesel-electric
+EMD GT46PAC	powertype	Diesel-electric
+EMD DH1	powertype	Diesel-hydraulic
+GMD GMDH-1	powertype	Diesel-hydraulic
+Iore	powertype	Electric
+GE U28CG	powertype	Diesel-electric
+GMD GMDH-3	powertype	Diesel-hydraulic
+EMD MRS-1	powertype	Diesel-electric
+GE BB40-9W	powertype	Diesel-electric
+GE 45-ton switcher	powertype	Diesel-electric
+ALCO DL560C	powertype	Diesel fuel
+EMD GL8	powertype	Diesel-electric
+EMD GT22CUM-1	powertype	Diesel-electric
+EMD G12	powertype	Diesel-electric
+SSB-9	powertype	Diesel-electric
+LB&SCR E1 class	powertype	Steam
+GE C32-8	powertype	Diesel-electric
+Đuro Đaković Series 732	powertype	Diesel-hydraulic
+China Railways DF4	powertype	Diesel-electric
+EMD GT22HW-2	powertype	Diesel-electric
+EMD G26	powertype	Diesel-electric
+102hp Walker railmotor	powertype	Diesel
+LNWR 380 Class	powertype	Steam
+LNWR 1185 Class	powertype	Steam
+GCR Class 8H	powertype	Steam
+LNWR 17in Coal Engine	powertype	Steam
+153hp Walker railmotor	powertype	Diesel
+280hp Walker railmotor	powertype	Diesel
+NSB Di 1	powertype	Diesel-hydraulic
+NSB Di 2	powertype	Diesel-hydraulic
+GWR 2021 Class	powertype	Steam
+GER Class D27	powertype	Steam
+GER Class R24	powertype	Steam
+M&GN Class C	powertype	Steam
+AES Railcar	powertype	Electric
+Baldwin DT-6-6-2000	powertype	Diesel-electric
+China Railways DF8	powertype	Diesel-electric
+TCDD DE33000	powertype	Diesel-electric
+VR Class Dr16	powertype	Diesel-electric
+NCC Class X	powertype	Diesel
+SNCF Class Y 8400	powertype	Diesel
+China Railways HXN3	powertype	Diesel-electric
+SNCB Class 62	powertype	Diesel engine
+SNCB Class 50	powertype	Diesel engine
+SNCB Class 51	powertype	Diesel engine
+SNCB Class 19	powertype	Electric locomotive
+SNCB Class 21	powertype	Electric
+VR Class Dv12	powertype	Diesel fuel
+Lima LRS-1200	powertype	Diesel-electric transmission
+Lima-Hamilton 2500HP Transfer Locomotive	powertype	Diesel-electric
+SBB-CFF-FFS Am 841	powertype	Diesel-electric
+SNCB Class 55	powertype	Diesel engine
+PKP class SM01	powertype	Diesel
+PKP class SM02	powertype	Diesel
+PKP class SM25	powertype	Diesel
+EuroSprinter	powertype	Electric
+Santa Fe 2913	powertype	Steam locomotive
+China Railways BJ	powertype	Diesel-hydraulic
+SNCB Class 73	powertype	Diesel engine
+ALCO RSC-1	powertype	Diesel-electric
+ALCO MRS-1	powertype	Diesel-electric
+McKeen railmotor	powertype	Gasoline
+Kerr Stuart steam railmotor	powertype	Steam, vertical boiler
+HŽ series 2062	powertype	Diesel-electric
+SŽ series 664	powertype	Diesel-electric
+HŽ series 6111	powertype	Electricity
+EMD GT26CW-2	powertype	Diesel-electric
+HŽ series 2043	powertype	Diesel-electric
+EMD SD89MAC	powertype	Diesel-electric
+EMD G16	powertype	Diesel-electric
+Lima LS-1000	powertype	Diesel-electric
+HŽ series 2042	powertype	Diesel-electric
+HŽ series 2041	powertype	Diesel-electric
+DSB Class ME	powertype	Diesel-electric
+DSB Class MY	powertype	Diesel-electric
+DSB Class MX	powertype	Diesel-electric
+DSB Class EA	powertype	Electric
+Sumter & Choctaw 102	powertype	Steam locomotive
+Baldwin RS-12	powertype	Diesel-electric
+Baldwin DRS-4-4-1500	powertype	Diesel-electric
+Canadian Pacific 2816	powertype	Steam locomotive
+Brookville BL20GH	powertype	Diesel
+TCDD DE11000	powertype	Diesel-electric
+SJ T44	powertype	Diesel-electric
+TCDD DH4100	powertype	Diesel-hydraulic
+TCDD DH6500	powertype	Diesel-hydraulic
+TCDD DH6000	powertype	Diesel-hydraulic
+TCDD DH11500	powertype	Diesel-hydraulic
+TCDD DH27000	powertype	Diesel-hydraulic
+TCDD DH44100	powertype	Diesel-hydraulic
+SJ T46	powertype	Diesel-electric
+SJ T43	powertype	Diesel-electric
+SJ T45	powertype	Diesel-electric
+DSB Class MZ	powertype	Diesel-electric
+SJ T21	powertype	Diesel-electric
+SJ U	powertype	Electric
+SJ T41	powertype	Diesel-electric
+SJ Tb	powertype	Diesel-electric
+SJ Tc	powertype	Diesel-hydraulic
+SJ Tp	powertype	Diesel-hydraulic
+Railpower RP20CD	powertype	Diesel-electric
+EMD GA8	powertype	Diesel-electric
+GER Class 527	powertype	Steam
+Baldwin DS-4-4-750	powertype	Diesel-electric
+Baldwin DS-4-4-660	powertype	Diesel-electric
+LB&SCR I2 class	powertype	Steam
+Baldwin DS-4-4-1000	powertype	Diesel-electric
+LB&SCR I1 class	powertype	Steam
+SECR L class	powertype	Steam
+SECR B1 class	powertype	Steam
+ALCO DL420	powertype	Diesel-electric
+ALCO 300	powertype	Diesel-Electric
+RENFE Class 276	powertype	Electricity
+Stadler FLIRT	powertype	Electric, Diesel
+RjB 20–22	powertype	Diesel-hydraulic
+RS3m	powertype	Diesel-electric
+China Railways NJ2	powertype	Diesel-electric
+Walker railmotor	powertype	Diesel
+FS Class D.341	powertype	Diesel fuel
+FS Class D.443	powertype	Diesel fuel
+FS Class D.345	powertype	Diesel engine
+FS Class E.550	powertype	Electric
+Bombardier HR-616	powertype	Diesel-electric
+SNCF Class BB 69400	powertype	Diesel
+Krauss-Maffei ML 4000 C'C'	powertype	Diesel-hydraulic
+Victorian Railways E class	powertype	Electric
+New South Wales 71 class locomotive	powertype	Diesel-hydraulic
+NZR V class	powertype	Steam
+DB Class 218	powertype	Diesel-hydraulic
+DB Class V 162	powertype	Diesel-hydraulic
+LMS diesel shunter 7052	powertype	Diesel-mechanical
+NBR J class	powertype	Steam
+LB&SCR I3 class	powertype	Steam
+LB&SCR J1 class	powertype	Steam
+WAGR S class	powertype	Steam
+Voith Gravita	powertype	Diesel-hydraulic
+RENFE Class 334	powertype	Diesel-electric
+RENFE Class 333	powertype	Diesel-electric
+SNCF Class BB 75000	powertype	diesel
+ Vossloh G1206	powertype	Diesel-hydraulic
+ALP-45DP	powertype	Electro-diesel locomotive
+DB Class 240	powertype	Diesel-electric
+Baldwin DRS-6-4-660NA	powertype	Diesel-electric
+Baldwin 0-6-6-0 1000	powertype	Diesel-electric
+DR Class 130 family	powertype	Diesel-electric
+MLW M-420	powertype	Diesel-electric
+Krauss-Maffei ML 2200 C'C'	powertype	Diesel
+RENFE Class 340	powertype	Diesel-hydraulic
+RENFE Class 353	powertype	Diesel-hydraulic
+RENFE Class 352	powertype	Diesel-hydraulic
+SAL 2027	powertype	Diesel-electric
+RENFE Class 354	powertype	Diesel-hydraulic
+ADtranz DE-AC33C	powertype	Diesel-electric
+DB Class V 51 and V 52	powertype	Diesel-hydraulic
+FS Class E.380	powertype	Electric locomotive
+Rebel	powertype	Diesel-electric
+DRG Class ET 171	powertype	Electric
+GE U17C	powertype	Diesel-electric
+Robert Dollar Co. No. 3	powertype	Steam locomotive
+MÁV Class V43	powertype	Electric locomotive
+NRE 3GS21B	powertype	Diesel-electric
+NRE 1GS7B	powertype	Diesel-electric
+EMD GP15D	powertype	Diesel-electric
+GE 110-ton switcher	powertype	Diesel-electric
+EMD SD22ECO	powertype	Diesel-electric
+EMD GP22ECO	powertype	Diesel-electric
+EMD G22CU	powertype	Diesel-electric
+MLW RS-18	powertype	Diesel-electric
+EMD SD32ECO	powertype	Diesel-electric
+SR L1 class	powertype	Steam
+Progress Rail PR30C	powertype	Diesel-electric
+Altoona Works BP4	powertype	Battery-electric
+Railpower RP20BD	powertype	Diesel-electric
+Railpower RP14BD	powertype	Diesel-electric
+NRE 3GS21C	powertype	Diesel-electric
+NRE 2GS14B	powertype	Diesel-electric
+MPI MP21B	powertype	Diesel-electric
+South African Class 91-000	powertype	Diesel-electric
+GE Dash 8-44CW	powertype	Diesel-electric
+GE Dash 8-40CM	powertype	Diesel-electric
+3	powertype	Electric
+OSE class 120	powertype	Electric
+MÁV Class V63	powertype	Electric locomotive
+PRR 6755	powertype	Steam
+South African Class 26 4-8-4	powertype	Steam
+EMD G22 Series	powertype	Diesel-electric
+EMD G22C Series	powertype	Diesel-electric
+TE10	powertype	Diesel-electric
+RENFE Class 252	powertype	Electricit
+China Railways DF11	powertype	Diesel-electric
+Victorian Railways M class	powertype	Diesel-hydraulic
+Progress Rail PR43C	powertype	Diesel-electric
+China Railways DFH mainline locomotives	powertype	Diesel-hydraulic
+China Railways DFH shunting locomotives	powertype	Diesel-hydraulic
+RENFE Class 319	powertype	Diesel-electric
+RENFE Class 319	powertype	Diesel-electric
+RENFE Class 309	powertype	Diesel-hydraulic
+RENFE Class 310	powertype	Diesel-electric
+RENFE Class 311	powertype	Diesel-electric
+Welshpool and Llanfair Light Railway steam locomotive number 19	powertype	Steam
+GWR 3571 class	powertype	Steam
+South African Class 32-000	powertype	Diesel-electric
+South African Class 32-200	powertype	Diesel-electric
+South African Class 33-000	powertype	Diesel-electric
+MPI MP20C	powertype	Diesel-electric
+MPI MP20B	powertype	Diesel-electric
+South African Class 35-000	powertype	Diesel-electric
+South African Class 35-400	powertype	Diesel-electric
+2TE116	powertype	Diesel-electric
+SNCF Class Y 7100	powertype	Diesel
+SNCF Class Y 7400	powertype	Diesel
+LNER Class A4 4483 Kingfisher	powertype	Steam
+GE boxcab	powertype	Diesel-electric
+SNCF Class Y 9000	powertype	Diesel
+ChS8	powertype	Electric
+FS Class E.330	powertype	Electric locomotive
+South African Class 43-000	powertype	Diesel-electric
+Brookville BL36PH	powertype	Diesel locomotive
+TU7 diesel locomotive	powertype	Diesel
+GE U26C	powertype	Diesel-electric
+VR Class Dr14	powertype	Diesel electric
+FS Class E.405	powertype	Electric locomotive
+ALCO RSD-39	powertype	Diesel-electric
+TEP70	powertype	Diesel-electric
+2TE25A	powertype	Diesel-electric
+VSFT G 322	powertype	Diesel-hydraulic
+NRE 2GS36C-DE	powertype	Diesel-electric
+2TE70	powertype	Diesel-electric
+2TE25K	powertype	Diesel-electric
+South African Class U 2-6-2+2-6-2	powertype	Steam
+SECR J class	powertype	Steam
+ALCO Century 624	powertype	Diesel-electric
+GCR Class 5A	powertype	Steam
+GCR Class 5	powertype	Steam
+GE PowerHaul	powertype	Diesel-electric
+RENFE class 313	powertype	Diesel-electric
+Canadian Pacific Railway No. 1293	powertype	Steam locomotive
+Canadian Pacific Railway No. 1278	powertype	Steam locomotive
+Canadian Pacific Railway No. 1246	powertype	Steam locomotive
+Illinois Central Railroad No. 790	powertype	Steam locomotive
+Union Pacific 4012	powertype	Steam locomotive
+Vossloh DE 18	powertype	Diesel-electric
+JŽ 664 locomotive	powertype	Diesel-electric
+Tubize 2179	powertype	Steam
+SBB-CFF-FFS Eem 923	powertype	Electro-diesel
+MPI MP8AC-3	powertype	Diesel-Electric
+EMD GT26 Series	powertype	Diesel-electric
+Sri Lanka Railways M8	powertype	Diesel
+GE Dash 7 Series	powertype	Diesel-electric
+GE Dash 8 Series	powertype	Diesel-electric
+CBH class	powertype	Diesel-electric
+MPI MP33C	powertype	Diesel-electric
+Plymouth CR-8 locomotives	powertype	Diesel
+British Rail Class 68	powertype	Diesel-electric
+MLW RSC-13	powertype	Diesel-electric
+MLW RS-23	powertype	Diesel-electric
+NRE E-3000E3B	powertype	Diesel-Electric
+BRM class	powertype	Diesel-Electric
+Queensland Railways DL class	powertype	Diesel
+China Railways DF5	powertype	Diesel-electric
+Russian locomotive class TE3	powertype	Diesel-electric
+A2n 001 railcar	powertype	Diesel
+VR Class Dr12	powertype	Diesel locomotive
+VR Class Dr13	powertype	Diesel locomotive
+ŽS series 641	powertype	Diesel-electric
+TU8 diesel locomotive	powertype	Diesel
+TU8G	powertype	Diesel
+TU8P	powertype	Diesel
+TU6SPA	powertype	Diesel
+Rowan steam railmotor	powertype	Steam, vertical boiler
+Sri Lanka Railways M3	powertype	Diesel-electric
+TE33A	powertype	Diesel-electric
+Indian locomotive class XE	powertype	Steam
+Z1243	powertype	Steam
+MPI MP14B	powertype	Diesel-electric
+Sri Lanka Railways M7	powertype	Diesel
+Sri Lanka Railways W1	powertype	Diesel
+Indian locomotive class WDM-4	powertype	Diesel
+Indian locomotive class WDM-1	powertype	Diesel
+Yorkshire Engine Company Taurus and Indus	powertype	Diesel-hydraulic
+TU4 diesel locomotive	powertype	Diesel
+Fablok TKh49	powertype	Steam
+ŽS series 621	powertype	Diesel-electric
+SNCF Class CC 72000	powertype	Diesel engine
+SNCF Class BB 69000	powertype	Diesel engine
+Indian locomotive class WDM-3A	powertype	Diesel
+TU6 diesel locomotive	powertype	Diesel
+Commonwealth Railways CN class	powertype	Steam
+PNR 900 Class	powertype	Diesel-electric
+PNR 2500 Class	powertype	Diesel-electric
+EMD GT38ACe	powertype	Diesel-electric
+Siemens Charger	powertype	Diesel-electric
+Terra Nova 1260HP diesel hydraulic locomotive	powertype	Diesel-mechanical
+NRE 2GS16B-AU	powertype	Glossary of North American railway terms
+NRE 3GS24C-DE-AU	powertype	Genset locomotive
+EMD SD30C-ECO	powertype	Diesel-electric
+NS Class 186	powertype	Electricity
+EMD GA18	powertype	Diesel-electric
+EMD G18	powertype	Diesel-electric
+South African Class Afro 4000	powertype	Diesel-electric
+CNR CKD8	powertype	Diesel-electric
+CSR SDD7	powertype	Diesel-electric
+GE steam turbine locomotives	powertype	Steam turbine
+GAIA locomotive	powertype	Diesel engine
+Bombardier HR-412	powertype	Diesel-electric
+GE UM12C	powertype	Diesel-electric
+SNCB Class 59	powertype	Diesel engine
+Russian locomotive class VM	powertype	Diesel-electric
+Russian locomotive class shch-el-1	powertype	Diesel-electric
+Russian locomotive class E el-2	powertype	Diesel-electric
+Russian locomotive class E el	powertype	Diesel-electric
+Russian locomotive class E el-8	powertype	Diesel-electric
+Russian locomotive class TE2	powertype	Diesel-electric
+Russian locomotive class TE5	powertype	Diesel-electric
+GE Dash 8.5-40CW	powertype	Diesel-electric
+EMD SD70ACu	powertype	Diesel-electric
+Saebyŏl-class locomotive	powertype	Diesel-hydraulic
+KSR 500 series locomotives	powertype	Diesel-electric
+Budd–Michelin rubber-tired rail cars	powertype	Petrol-electric transmission
+Fenniarail Class Dr18	powertype	Diesel-electric
+YDM-4	powertype	Diesel
+China Railways HXN5B	powertype	Diesel-electric
+China Railways DF	powertype	Diesel-electric
+China Railways DF11G	powertype	Diesel-electric
+EMD GP20C-ECO	powertype	Diesel-electric
+Francorail-MTE CSE26-21	powertype	Diesel-electric
+Px38	powertype	Steam
+SNCF 040.DF	powertype	Diesel-hydraulic

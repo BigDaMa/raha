@@ -1,0 +1,278 @@
+Carme	mass	1.3
+International Space Station	mass	≈
+Lysithea	mass	6.3
+Naiad	mass	~1.9 kg
+Space Shuttle	mass	2030.0
+Skylab	mass	w/o Apollo CSM
+Halley's Comet	mass	2.2
+52 Europa	mass	3.27
+16 Psyche	mass	2.27
+Puck	mass	~2.9 kg
+Cordelia	mass	~4.4 kg
+Ophelia	mass	~5.3 kg
+Desdemona	mass	~1.8 kg
+Bianca	mass	~9.2 kg
+Cressida	mass	~3.4 kg
+Juliet	mass	~5.6 kg
+Belinda	mass	~3.6 kg
+Rosalind	mass	~2.5 kg
+3 Juno	mass	2.67
+Mir	mass	129700.0
+Europa	mass	104670.0
+Diamant	mass	18400.0
+Polar Satellite Launch Vehicle	mass	PSLV-G:
+Polar Satellite Launch Vehicle	mass	PSLV-CA:
+Polar Satellite Launch Vehicle	mass	PSLV-XL:
+Leda	mass	1.1
+	mass	>4 kg
+HGM-25A Titan I	mass	105140.0
+Caliban	mass	~2.5 kg
+65 Cybele	mass	1.78
+Pasiphae	mass	3.0
+Ananke	mass	3.0
+Himalia	mass	6.7
+Himalia	mass	4.19
+Elara	mass	8.7
+Sinope	mass	7.5
+Ariane 1	mass	207200.0
+Salyut 5	mass	19000.0
+Salyut 3	mass	18900.0
+Salyut 1	mass	18425.0
+Salyut 7	mass	19824.0
+Voskhod	mass	298400.0
+Larissa	mass	~4.2 kg
+5 Astraea	mass	2.9
+VentureStar	mass	1000000.0
+2004 FH	mass	2.8
+Saturn IB	mass	without payload
+Themisto	mass	6.89
+Setebos	mass	~7.5 kg
+Lockheed Martin X-33	mass	285000.0
+Borrelly	mass	2.0
+Portia	mass	~1.7 kg
+Sycorax	mass	~2.5 kg
+Prospero	mass	~8.5  kg
+Thalassa	mass	~3.5 kg
+Despina	mass	~2.2 kg
+Orbital Sciences X-34	mass	18000.0
+6 Hebe	mass	1.28
+Petit-Prince	mass	~ 1.2 kg
+762 Pulcova	mass	1.4
+Iocaste	mass	1.9483
+Ymir	mass	5.1
+Stephano	mass	~2.2  kg
+Trinculo	mass	~3.9 kg
+Saturn I	mass	1124000.0
+11 Parthenope	mass	6.15
+8 Flora	mass	8.47
+8 Flora	mass	4.3
+13 Egeria	mass	1.63
+14 Irene	mass	8.2
+17 Thetis	mass	1.2
+15 Eunomia	mass	3.12
+18 Melpomene	mass	3.0
+19 Fortuna	mass	1.27
+20 Massalia	mass	5.67
+20 Massalia	mass	5.2
+29 Amphitrite	mass	1.18
+37 Fides	mass	1.3
+40 Harmonia	mass	~1.3 kg
+41 Daphne	mass	~6.8 kg
+46 Hestia	mass	3.5
+48 Doris	mass	1.7
+49 Pales	mass	2.69
+55 Pandora	mass	3.1
+58 Concordia	mass	8.5
+62 Erato	mass	9.1
+64 Angelina	mass	1.5
+66 Maja	mass	3.9
+71 Niobe	mass	6.1
+73 Klytia	mass	9.2
+75 Eurydike	mass	1.8
+79 Eurynome	mass	3.1
+80 Sappho	mass	5.0
+82 Alkmene	mass	2.4
+83 Beatrix	mass	5.6
+86 Semele	mass	1.8
+88 Thisbe	mass	1.83
+88 Thisbe	mass	1.5
+91 Aegina	mass	1.4
+93 Minerva	mass	3.7
+95 Arethusa	mass	2.6
+99 Dike	mass	~3.9 kg
+101 Helena	mass	3.0
+104 Klymene	mass	2.0
+103 Hera	mass	7.9
+109 Felicitas	mass	7.5
+110 Lydia	mass	6.7
+113 Amalthea	mass	1.0
+116 Sirona	mass	3.9
+107 Camilla	mass	1.12
+107 Camilla	mass	1.09
+107 Camilla	mass	~1.5 kg
+114 Kassandra	mass	1.0
+115 Thyra	mass	5.3
+118 Peitho	mass	7.6
+119 Althaea	mass	2.0
+120 Lachesis	mass	5.5
+121 Hermione	mass	~1.6 kg
+Tsyklon	mass	182000.0
+122 Gerda	mass	5.7
+125 Liberatrix	mass	8.7
+124 Alkeste	mass	4.7
+123 Brunhild	mass	1.2
+131 Vala	mass	6.9
+130 Elektra	mass	~4 kg
+134 Sophrosyne	mass	2.0
+136 Austria	mass	6.8
+140 Siwa	mass	1.4
+Perdita	mass	~0.18 kg
+146 Lucina	mass	2.4
+143 Adria	mass	7.6
+149 Medusa	mass	8.0
+153 Hilda	mass	~5.2 kg
+155 Scylla	mass	1.3
+157 Dejanira	mass	7.3
+2003 J 12	mass	1.5
+Cupid	mass	~3.8 kg
+Mab	mass	~1 kg
+Margaret	mass	~5.5 kg
+Francisco	mass	~7.2 kg
+Ferdinand	mass	~5.4 kg
+Falcon 5	mass	155000.0
+Falcon 1	mass	38555.0
+Titan IV	mass	943050.0
+Titan IIIB	mass	156540.0
+Titan IIIC	mass	1380510.0
+Atlas II	mass	204300.0
+Vanguard	mass	22156.0
+Angara	mass	-
+Delta III	mass	301450.0
+2000 SG344	mass	7.1
+99942 Apophis	mass	4.0
+283 Emma	mass	1.38
+387 Aquitania	mass	1.8
+423 Diotima	mass	1.6
+423 Diotima	mass	≈5.1? kg
+423 Diotima	mass	× 1018 kg
+444 Gyptis	mass	1.25
+442 Eichsfeldia	mass	× 1017 kg
+GX	mass	190500.0
+Minotaur-C	mass	73000.0
+Naro-1	mass	140000.0
+Makemake	mass	21.0
+Soyuz-U	mass	313000
+Tiangong program	mass	66000.0
+4581 Asclepius	mass	between 1010 kg and 1011 kg
+2002 Euler	mass	5.5
+Falcon 9	mass	* FT:
+Falcon 9	mass	549054.0
+Falcon 9	mass	* v1.1:
+Falcon 9	mass	505846.0
+Falcon 9	mass	* v1.0:
+Falcon 9	mass	333400.0
+Aquarius	mass	130000.0
+563 Suleika	mass	~1.6 kg
+741 Botolphia	mass	2.7
+846 Lipperta	mass	1.5
+3360 Syrinx	mass	~8.4 kg
+	mass	~ 1.2 kg
+Saturn INT-21	mass	2916000.0
+Linus	mass	~6 kg ' \n       ~4 kg '
+58534 Logos	mass	2.7
+1999 Hirayama	mass	4.1
+Atlas III	mass	214338.0
+Saturn INT-20	mass	2304000.0
+Martin Marietta Spacemaster	mass	3500000.0
+Start-1	mass	47200.0
+Priroda	mass	19700.0
+SpaceLoft XL	mass	780.0
+	mass	7.3
+VLS-1	mass	50700.0
+Saturn-Shuttle	mass	2304000.0
+Romulus	mass	~ 4 kg
+Remus	mass	~ 2 kg
+	mass	~2.8 kg
+Saturn C-2	mass	gross
+	mass	4.2
+	mass	5.6
+Soyuz-FG	mass	305000.0
+1101 Clematis	mass	5.7
+1099 Figneria	mass	2.7
+1097 Vicia	mass	9.8
+Polyot	mass	277000.0
+2007 CA19	mass	8.9
+Kosmos 557	mass	19400.0
+Saturn A-1	mass	524484.0
+Ariane M	mass	1874000.0
+Saturn V-B	mass	2313320.0
+Saturn IB-D	mass	1511980.0
+VSB-30	mass	2570.0
+Kosmos 1686	mass	20000.0
+Anthe	mass	5.0
+Skylab B	mass	77088.0
+Molniya-M	mass	305000.0
+Thorad-Agena	mass	SLV-2G: 91,400kg
+Thorad-Agena	mass	SLV-2H: 88,731kg
+Atlas I	mass	164300.0
+Thor-Burner	mass	50000.0
+1583 Antilochus	mass	1.1
+2456 Palamedes	mass	8.1
+2260 Neoptolemus	mass	3.9
+2759 Idomeneus	mass	2.4
+2920 Automedon	mass	1.4
+2797 Teucer	mass	1.4
+3063 Makhaon	mass	1.6
+3548 Eurybates	mass	3.9
+3564 Talthybius	mass	3.4
+2007 TU24	mass	 2.4 kg"^^
+	mass	~2.9 kg
+Tsyklon-2	mass	182000.0
+Tsyklon-3	mass	189000.0
+Safir	mass	26000.0
+	mass	~1.5 kg
+Juno II	mass	55110.0
+Sputnik	mass	267000.0
+Sputnik	mass	8
+Long March 3B	mass	3
+VS-30	mass	1400.0
+DOS-2	mass	18425.0
+Minotaur IV	mass	86300.0
+	mass	~1.7 kg
+2008 TC3	mass	80000.0
+101955 Bennu	mass	6
+1994 WR12	mass	2.9
+Mercury-Redstone Launch Vehicle	mass	30000.0
+Minotaur V	mass	89373.0
+Orbital Piloted Assembly and Experiment Complex	mass	over 100,000 kg when complete
+VS-40	mass	6800.0
+	mass	~4.0 kg
+	mass	2.0
+2002 XV93	mass	≈1.7 kg
+2010 RF12	mass	5.0
+	mass	> ≈ 3 kg
+Troposphere	mass	200.0
+Troposphere	mass	750.0
+2009 WM1	mass	2.9
+	mass	4.0
+	mass	7.87
+2010 AU118	mass	9.7
+	mass	8.3
+Tronador	mass	67000.0
+Capricornio	mass	15035.0
+Epsilon	mass	91.0
+2011 BT15	mass	4.9
+2012 KP24	mass	7.2
+	mass	4.0
+2008 CK70	mass	4.0
+2008 AO112	mass	4.1
+2012 MU2	mass	1.8
+	mass	5.3
+2014 AA	mass	~4 kg
+2009 RR	mass	2.4
+2014 AF5	mass	5.0
+	mass	5.1
+2011 XC2	mass	8.8
+2014 DX110	mass	1.6
+	mass	~5.4 kg
+	mass	2.1

@@ -1,0 +1,12 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : ["./examples/hospital.csv"]
+    },
+    "rule" : [
+        {
+            "type" : "fd",
+            "value" : ["zipcode | city, state"]
+        }
+    ]
+}

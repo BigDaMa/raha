@@ -1,0 +1,90 @@
+\subsection{CSAIL Directory}
+\label{sec:csail-directory-evaluation}
+
+The CSAIL directory is an online directory of about 1000 faculty, staff and students in the MIT Computer Science and Artificial Intelligence Laboratory\footnote{\url{https://www.csail.mit.edu/peoplesearch}}. Each entry contains a person's name, phone number, office number, email address, and position.
+
+Some entries, such as a phone number, may be missing from the directory. Nonetheless, we expect our framework to be useful in flagging discrepancies between different records. Since the notion of what constitutes an outlier here is imprecise at best, we also expect the tool to allow the user to explore different sets of parameters. To illustrate the process, we present the results returned by two iterations of the tool in the next subsection, each with increasingly strict limits on the number of outliers returned. Because the CSAIL test set is exclusively textual, we use the histogram model for evaluation; continuous models would not fare as well, since only part of the expanded tuples are numeric.
+We also manually annotated the dataset for outliers to determine the accuracy of our system.
+
+\subsubsection{Initial run: low specificity filtering}
+The search for outliers is initiated with parameters $\theta = 0.8, \epsilon = 0.2$ (\timing {0.36}{.11}{0.60}). Correlation detection is disabled for these experiments.
+
+This invocation produces a long list of outliers; a small subset of these is presented below. For privacy reasons, names,  phone numbers, office numbers, and emails have been omitted or anonymized in the following listings.
+
+\begin{figure*}
+\centering
+  \paddedgraphics{../../graphics/csail-stats}
+  \caption{Accuracy of \dBoost/ on the CSAIL dataset, evaluated by comparison to manual annotation of outliers in the directory. Outliers were detected using $\theta = 0.8$ and $\epsilon = 0.025$; the tuples are sorted according to why they are -- or are flagged as -- outliers. The false positives in the last category are due to names whose proper capitalization is not title case. Green represents region of agreement between the output of \dBoost/ and manual annotation, red shows outliers in the manual annotation that \dBoost/ did not find, orange shows records that \dBoost/ flagged as outliers that the manual annotation did not, and grey indicates values that could not manually be categorized with complete certainty as either outlying or non-outlying.}
+
+  \label{fig:csail-evaluation}
+\end{figure*}
+
+\begin{lstlisting}[gobble=2]
+  Hacker, Alyssa, 32-D968,
+    $aph@CSAIL.MIT.EDU$, Postdoctoral Associate
+  > Value '$aph@CSAIL.MIT.EDU$' doesn't match feature '$lower case$'
+
+  Bitdiddle, Ben, $NE47-989$,
+    bbitdid@mit.edu, Graduate Student
+  > Value '$NE47-989$' doesn't match feature '$signature$'
+
+  $Lu-ater$, Eva, 32-G972,
+    eva@csail.mit.edu, Research Scientist
+  > Value '$Lu-ater$' doesn't match feature '$title case$'
+
+  Tweakit, $ $, 32-G699,
+    twktem@mit.edu, Administrative Assistant
+  > Value '$ $' doesn't match feature '$empty$'
+\end{lstlisting}
+
+In total, 451 entries contain outliers, out of a total of 1000. Office numbers are often flagged, as well as names and email addresses. By changing the input parameters to $\theta = 0.8, \epsilon = 0.05$, most of the outliers due to office numbers disappear due to the lower sensitivity. \lstinline{Hacker, Alyssa} disappears from the list, since e-mails with inconsistent capitalization occur frequently enough in the database that they are not considered outliers at sensitivity level $\epsilon = 0.05$. After tuning these parameters, we are left with 68 outliers.
+
+In addition to identifying outliers, \dBoost/ is equipped with tools that provide the user with additional feedback on why features were identified as outliers.
+
+\begin{lstlisting}[gobble=2]
+  Bitdiddle, Ben, $NE47-989$,
+    bbitdid@csail.mit.edu, Graduate Student
+   > Value '$NE47-223$' doesn't match feature '$signature$'
+   • histogram for ('signature',):
+     [266] ██████████ <empty>
+     [  1] /▌/ $Lu,Lu,Nd,Nd,Pd,Nd,Nd,Nd$
+     [  1] ▌ Lu,Nd,Nd,Pd,Nd,Nd,Nd
+     [  2] ▌ Nd,Nd,Lu,Pd,Nd,Nd,Nd
+     [485] ████████████████████ Nd,Nd,Pd,Lu,Nd,Nd,Nd
+     [ 51] ██ Nd,Nd,Pd,Lu,Nd,Nd,Nd,Lu
+     [155] ██████ Nd,Nd,Pd,Nd,Nd,Nd
+     [ 36] █ Nd,Nd,Pd,Nd,Nd,Nd,Lu
+     [  3] ▌ Nd,Nd,Pd,Nd,Nd,Nd,Nd
+     [  1] ▌ Nd,Pd,Nd,Nd,Nd
+
+  $Lu-ater$, Eva, 32-G972,
+    eva@csail.mit.edu, Research Scientist
+  > Value '$Lu-ater$' doesn't match feature '$title case$'
+  • histogram for ('$title case$',):
+    [ 15] /▌/ $False$
+    [986] ████████████████████ True
+
+  Tweakit, $ $, 32-G699,
+    twktem@mit.edu, Administrative Assistant ...
+  > Value '$ $' doesn't match feature '$empty$'
+  • histogram for ('empty',):
+    [1000] ████████████████████ False
+    [   1] /▌/ $True$
+\end{lstlisting}
+
+Our tool highlights the incorrect field, and prints the corresponding histogram. The bin in which the suspicious value falls is also highlighted. The \texttt{signature} case is particularly interesting: recall that to extract the signature of a string, our tools replace each character by the name of its Unicode class; hence the string \texttt{NE47-989} is converted to \lstinline{Lu,Lu,Nd,Nd,Pd,Nd,Nd,Nd} (two letters, two numbers, one dash, three numbers), which does not fall in any of the dominant bins (the most frequent case, \lstinline{Nd,Nd,Pd,Lu,Nd,Nd,Nd}, describes office numbers like \lstinline{32-G804}, the predominant form of office numbering in the Stata Center).
+
+Manual inspection of the results reveal that most of the outliers reported are actually bad inputs. There are, however, a number of false positives, such as:
+
+\begin{lstlisting}[gobble=2]
+  $DeFect$, Cy, 32-D597,
+    cydf@csail.mit.edu, Graduate Student
+  > Value '$DeFect$' doesn't match feature '$title case$'
+  • histogram for ('$title case$',):
+    [ 15] /▌/ $False$
+    [986] ████████████████████ True
+\end{lstlisting}
+
+The case of \lstinline{DeFect} is correct, but our tool notes that it does not adhere to the casing standard derived from other tuples, and thus reports it.
+
+We compared \dBoost/'s output to a manually annotated version of the CSAIL directory to analyze its accuracy; the results are shown in Figure~\ref{fig:csail-evaluation}.

@@ -1,0 +1,4194 @@
+INS Vikrant	shipBeam	waterline,  extreme
+American submarine NR-1	shipBeam	*\n* at stern stabilizers.
+Russian aircraft carrier Admiral Kuznetsov	shipBeam	* o/a\n* w/l
+German Type VII submarine	shipBeam	* \n*
+German Type II submarine	shipBeam	*IIA, IIB, IIC\n** o/a\n** pressure hull\n*IID\n** o/a\n** pressure hull
+German Type IX submarine	shipBeam	* o/a\n* pressure hull
+USS Kitty Hawk	shipBeam	* extreme\n* waterline
+USS City of Corpus Christi	shipBeam	10 m
+German submarine U-571	shipBeam	* o/a\n* pressure hull
+German submarine U-110	shipBeam	* overall\n* pressure hull
+German submarine U-556	shipBeam	* o/a\n* pressure hull
+German submarine U-552	shipBeam	* o/a\n* pressure hull
+German submarine U-155	shipBeam	* o/a\n* pressure hull
+German submarine U-20	shipBeam	* \n*
+Type XXI submarine	shipBeam	*
+SS Eastland	shipBeam	1163.32
+Juliett-class submarine	shipBeam	10 m
+German Type XIV submarine	shipBeam	* o/a\n* pressure hull
+German submarine U-553	shipBeam	* o/a\n* pressure hull
+German submarine U-413	shipBeam	* o/a\n* pressure hull
+German submarine U-238	shipBeam	* o/a\n* pressure hull
+German submarine U-760	shipBeam	* o/a\n* pressure hull
+German submarine U-2	shipBeam	* \n*
+German submarine U-573	shipBeam	* o/a\n* pressure hull
+German submarine U-463	shipBeam	* o/a\n* pressure hull
+German submarine U-490	shipBeam	* o/a\n* pressure hull
+German submarine U-461	shipBeam	* o/a\n* pressure hull
+German submarine U-464	shipBeam	* o/a\n* pressure hull
+German submarine U-487	shipBeam	* o/a\n* pressure hull
+German submarine U-462	shipBeam	* o/a\n* pressure hull
+German submarine U-488	shipBeam	* o/a\n* pressure hull
+German submarine U-460	shipBeam	* o/a\n* pressure hull
+German submarine U-489	shipBeam	* o/a\n* pressure hull
+German submarine U-459	shipBeam	* o/a\n* pressure hull
+German submarine U-27	shipBeam	* o/a\n* pressure hull
+Japanese aircraft carrier Zuikaku	shipBeam	26 m
+USS Holland	shipBeam	extreme
+SS Great Britain	shipBeam	1539.24
+German submarine U-862	shipBeam	* o/a\n* pressure hull
+Type 23 frigate	shipBeam	16.1 m
+German submarine U-505	shipBeam	* o/a\n* pressure hull
+USS Big Horn	shipBeam	64.0
+HMCS Bonaventure	shipBeam	*\n*deck width:
+USS John F. Kennedy	shipBeam	extreme,  waterline
+HMS E15	shipBeam	6.86 m
+Amphion-class submarine	shipBeam	22.3
+USS Thompson	shipBeam	942.34
+Vasa	shipBeam	11.7 m
+USS Texas	shipBeam	63.0
+HTMS Chakri Naruebet	shipBeam	* \n* maximum
+USS Nevada	shipBeam	--10-23
+USNS Mercy	shipBeam	106.0
+USS Enterprise	shipBeam	* \n*
+USS Enterprise	shipBeam	*\n* overall\n*From October 1942:\n* overall width\n*From October 1943:\n* waterline
+USS Yorktown	shipBeam	*As built:  \n*
+USS Oriskany	shipBeam	*As built:\n* overall
+USS United States	shipBeam	,  flight deck
+Type 212 submarine	shipBeam	7 m
+USS Tennessee	shipBeam	*  \n*
+Tennessee-class battleship	shipBeam	*  \n*
+USS California	shipBeam	*  \n*
+USS Cole	shipBeam	965.2
+USNS Watertown	shipBeam	3722.0
+Victory ship	shipBeam	62.0
+USS Seawolf	shipBeam	28.0
+USS Abraham Lincoln	shipBeam	*Overall: 252 ft \n*Waterline: 134 ft
+HMS Ark Royal	shipBeam	36 m
+Casablanca-class escort carrier	shipBeam	*\n*Extreme width:
+USS Admiralty Islands	shipBeam	,  maximum width
+USS Casablanca	shipBeam	, Extreme width:
+USS Munda	shipBeam	,  maximum width
+USS Princeton	shipBeam	* \n*109.2 ft
+USS Constellation	shipBeam	*  extreme\n*  waterline
+USS West Virginia	shipBeam	*  \n*
+USS Ranger	shipBeam	* \n*
+USS Langley	shipBeam	* \n*109 ft 2 in
+USS Hornet	shipBeam	* \n*
+USS Independence	shipBeam	* \n*109.2 ft
+USS Wasp	shipBeam	* \n*
+USS Forrestal	shipBeam	*  at waterline\n*  extreme width
+USS New York	shipBeam	1770.0
+USS Saratoga	shipBeam	waterline,  extreme
+German submarine U-429	shipBeam	* o/a\n* pressure hull
+USS Austin	shipBeam	*  extreme,\n*  waterline
+USS Vancouver	shipBeam	100
+USS Theodore Roosevelt	shipBeam	*Overall: \n*Waterline:
+SS Savannah	shipBeam	25.0
+USS Cleveland	shipBeam	1824.0
+USS Duluth	shipBeam	1974.0
+Austin-class amphibious transport dock	shipBeam	* w/l\n* extreme
+USS Ogden	shipBeam	1974.0
+USS Trenton	shipBeam	30.4
+USS La Salle	shipBeam	* extreme\n* w/l
+USS Dubuque	shipBeam	* extreme;\n* waterline
+USS Green Bay	shipBeam	1770.0
+USS New Orleans	shipBeam	* extreme,\n* waterline
+USS Mesa Verde	shipBeam	*32 meters  extreme,\n*29.5 meters  waterline
+USS San Antonio	shipBeam	* extreme,\n* waterline
+USS Coronado	shipBeam	1536.0
+USS Juneau	shipBeam	* extreme,\n* waterline
+USS Shreveport	shipBeam	* extreme\n* BWL
+USS Nashville	shipBeam	*Extreme: \n*Waterline:
+German submarine U-190	shipBeam	* o/a\n* pressure hull
+USS Ponce	shipBeam	* extreme\n* waterline
+HMS Ocean	shipBeam	35 m
+HMS Hermes	shipBeam	* w.l.\n* f.d.
+German submarine U-869	shipBeam	* o/a\n* pressure hull
+German submarine U-559	shipBeam	* o/a\n* pressure hull
+USS Minneapolis–Saint Paul	shipBeam	10.0
+USS Shaw	shipBeam	932.18
+USS Ault	shipBeam	41.0
+USS Jimmy Carter	shipBeam	12.1 m
+Sultana	shipBeam	42.0
+USS Constellation	shipBeam	* \n* extreme
+RMS Empress of Russia	shipBeam	68.0
+Nautilus	shipBeam	6
+Flying Cloud	shipBeam	* \n*
+Type 42 destroyer	shipBeam	*Batch 1 & 2: \n*Batch 3:
+USS Bunker Hill	shipBeam	5585.0
+USS America	shipBeam	extreme,  waterline
+MS Adventure of the Seas	shipBeam	* \n*
+USS Ranger	shipBeam	* waterline\n* extreme
+USS Wright	shipBeam	* \n*115 ft
+USS Cabot	shipBeam	* \n*
+USS Cowpens	shipBeam	109
+USS San Jacinto	shipBeam	6542.0
+USS Monterey	shipBeam	,
+USS Saipan	shipBeam	* \n*
+USS Bataan	shipBeam	*Extreme: \n*Waterline:
+USS Coral Sea	shipBeam	*113 ft  waterline,\n*136 feet  flight deck
+USS Midway	shipBeam	*\n*,  at flight deck after modernization
+USS Independence	shipBeam	* waterline\n* extreme
+USS Barracuda	shipBeam	27
+Mary Celeste	shipBeam	as built, 25.7 after rebuild
+USS Salmon	shipBeam	* waterline\n* extreme
+Lewis and Clark-class dry cargo ship	shipBeam	3230.88
+USS Albacore	shipBeam	8.2
+USS Amberjack	shipBeam	833.12
+Soviet aircraft carrier Minsk	shipBeam	* o/a\n* w/l
+USS Growler	shipBeam	474.0
+USS Liscome Bay	shipBeam	, Extreme width:
+USS Nathan Hale	shipBeam	33.0
+HMS Victorious	shipBeam	* As built: 95 ft  \n*Post-1957 refit: 103 ft  over bulges\n* 145 ft 9 in
+USS Pickerel	shipBeam	25
+USS Darter	shipBeam	* overall\n* waterline
+HMT Cambridgeshire	shipBeam	26.7
+Balao-class submarine	shipBeam	27
+USS Bonita	shipBeam	27
+HMS Argyll	shipBeam	16.1 m
+Skipjack-class submarine	shipBeam	31.5
+USS Permit	shipBeam	25
+HMS Cornwall	shipBeam	14.8 m
+Tench-class submarine	shipBeam	27
+SS United States	shipBeam	maximum
+USS Pompano	shipBeam	25
+USS Volador	shipBeam	833.12
+Type 22 frigate	shipBeam	14.8 m
+USS Charger	shipBeam	*\n* extreme width
+USS Santee	shipBeam	*\n*
+USS Chenango	shipBeam	*\n* extreme width
+USOS Seaview	shipBeam	12.19 m
+USS Gridley	shipBeam	53.0
+USS Buchanan	shipBeam	30
+North Carolina-class battleship	shipBeam	* maximum\n* waterline
+Forrestal-class aircraft carrier	shipBeam	waterline
+Audacious-class aircraft carrier	shipBeam	*Ark Royal\n* \n*Eagle\n*
+Yorktown-class aircraft carrier	shipBeam	* at waterline\n* width at flight deck
+USS North Carolina	shipBeam	10.3
+Kitty Hawk-class aircraft carrier	shipBeam	* waterline\n* extreme
+HMS Eagle	shipBeam	* overall \n* hull \n* overall width
+USS Hawaii	shipBeam	10.3
+HMS Ark Royal	shipBeam	* \n*
+HMS Lancaster	shipBeam	16.1 m
+HMS Richmond	shipBeam	16.1 m
+HMS Iron Duke	shipBeam	16.1 m
+HMS Monmouth	shipBeam	16.1 m
+HMS Westminster	shipBeam	16.1 m
+HMS Northumberland	shipBeam	16.1 m
+HMS Somerset	shipBeam	16.1 m
+HMS Portland	shipBeam	16.1 m
+HMS St Albans	shipBeam	16.1 m
+HMS Kent	shipBeam	16.1 m
+HMS Sutherland	shipBeam	16.1 m
+HMS Brilliant	shipBeam	14.8 m
+HMS Broadsword	shipBeam	14.8 m
+HMS Brave	shipBeam	14.8 m
+HMS Brazen	shipBeam	14.8 m
+HMS Cumberland	shipBeam	14.8 m
+USS Bass	shipBeam	27
+USS Somers	shipBeam	1125.22
+USS Bougainville	shipBeam	,  maximum width
+USS Roi	shipBeam	*\n* maximum width
+USS Matanikau	shipBeam	,  maximum width
+USS Little	shipBeam	942.34
+USS Jacob Jones	shipBeam	965.2
+USS Dickerson	shipBeam	965.2
+USS Long	shipBeam	967.74
+Finnish submarine Vesikko	shipBeam	*\n* pressure hull
+USS Barry	shipBeam	45.0
+USS John Paul Jones	shipBeam	1369.0600000000002
+USS Forrest Sherman	shipBeam	45.0
+USS John S. McCain	shipBeam	50.0
+USS Mitscher	shipBeam	2944.0
+USS Davis	shipBeam	45'
+USS Lunga Point	shipBeam	,  maximum width
+USS Makin Island	shipBeam	*\n* maximum width
+USS Thetis Bay	shipBeam	*\n* maximum width
+USS Salamaua	shipBeam	,  maximum width
+USS Bismarck Sea	shipBeam	*\n* maximum width
+USS Hollandia	shipBeam	,  maximum width
+USS Kwajalein	shipBeam	,  maximum width
+USS Windham Bay	shipBeam	*\n* maximum width
+USS St. Lo	shipBeam	*\n* maximum width
+USS Gambier Bay	shipBeam	,  maximum width
+Yermak	shipBeam	21.6 m
+RFA Engadine	shipBeam	17.86
+USS Farragut	shipBeam	52.0
+USS J. Fred Talbott	shipBeam	929.64
+USS Herbert	shipBeam	965.2
+USS Schenck	shipBeam	31.0
+British E-class submarine	shipBeam	All Groups:
+USS Bremerton	shipBeam	2159.0
+HMS Superb	shipBeam	9.8
+Russian submarine Novomoskovsk	shipBeam	11.7 m
+RMAS Typhoon	shipBeam	'
+RMAS Goosander	shipBeam	12 m
+Leander-class frigate	shipBeam	, broad-beamed
+HMS Leeds Castle	shipBeam	11.5 m
+Town-class cruiser	shipBeam	*Southampton class: \n*Gloucester and Edinburgh classes:
+Russian submarine Vepr	shipBeam	13.6
+USS Wake Island	shipBeam	,  maximum width
+USS Kitkun Bay	shipBeam	*\n* maximum width
+USS Kasaan Bay	shipBeam	, flight deck:
+USS Kalinin Bay	shipBeam	*\n* maximum width
+USS Kadashan Bay	shipBeam	*\n*Flight deck
+USS Tulagi	shipBeam	*\n* maximum width
+USS Anzio	shipBeam	*\n*
+USS Tripoli	shipBeam	,  maximum width
+USS Fanshaw Bay	shipBeam	*\n* maximum width
+USS White Plains	shipBeam	,  maximum width
+USS Hoggatt Bay	shipBeam	,  maximum width
+USS Solomons	shipBeam	,  maximum width
+USS Ommaney Bay	shipBeam	*\n* maximum width
+USS Rudyerd Bay	shipBeam	*\n* maximum width
+USS Nehenta Bay	shipBeam	*\n* maximum width
+USS Sargent Bay	shipBeam	,  maximum width
+USS Sitkoh Bay	shipBeam	,  maximum width
+USS Saginaw Bay	shipBeam	*\n*
+USS Savo Island	shipBeam	,  maximum width
+USS Steamer Bay	shipBeam	Flight deck
+USS Marcus Island	shipBeam	,  maximum width
+USS Shipley Bay	shipBeam	*\n* maximum width
+USS Petrof Bay	shipBeam	*\n* maximum width
+USS Shamrock Bay	shipBeam	*\n* maximum width
+Battle-class destroyer	shipBeam	*1942 ships: \n*1943 ships:
+County-class cruiser	shipBeam	across bulges
+USS Roanoke	shipBeam	70.0
+Queen Elizabeth-class aircraft carrier	shipBeam	* \n* overall
+Gerald R. Ford-class aircraft carrier	shipBeam	* \n*
+Boston-class cruiser	shipBeam	2189.48
+SS Great Western	shipBeam	across wheels
+German submarine U-853	shipBeam	* o/a\n* pressure hull
+SS Gopher State	shipBeam	2319.02
+USS Tripoli	shipBeam	84.0
+USS Blue Ridge	shipBeam	32.9 m
+USS Talladega	shipBeam	62.0
+USS Denver	shipBeam	25.2
+RMS Scythia	shipBeam	22.49 m
+USS Wasp	shipBeam	1448.0
+USS Frank Knox	shipBeam	12.4 m
+USS Cummings	shipBeam	35.0
+Mahan-class destroyer	shipBeam	2106.0
+HMS Apollo	shipBeam	43.0
+USS Savannah	shipBeam	*\n*
+HMS Sceptre	shipBeam	9.8
+HMS Queen Elizabeth	shipBeam	*39 metres \n*73 metres overall
+HMS Prince of Wales	shipBeam	*\n* overall
+Grom-class destroyer	shipBeam	11.3 m
+Type 82 destroyer	shipBeam	16.76 m
+French aircraft carrier Charles de Gaulle	shipBeam	overall
+Pamir	shipBeam	14 m
+German submarine U-884	shipBeam	* total\n* pressure hull
+USS Crane	shipBeam	967.74
+USS Gridley	shipBeam	965.2
+HMS Guerriere	shipBeam	12.0
+Royal Clipper	shipBeam	54.0
+USS Dale	shipBeam	965.2
+USS Benham	shipBeam	1082.04
+River-class patrol vessel	shipBeam	*Batch 1: \n*Batch 2:
+HMS Cromer	shipBeam	10.9 m
+SS Alpena	shipBeam	26.66
+USS Pollack	shipBeam	25
+German submarine U-47	shipBeam	* o/a\n* pressure hull
+French aircraft carrier PA2	shipBeam	overall
+USS Worcester	shipBeam	71.0
+USS Chandler	shipBeam	967.74
+MS Explorer of the Seas	shipBeam	* - Waterline\n* - Max
+USS Lamberton	shipBeam	965.2
+Soviet aircraft carrier Ulyanovsk	shipBeam	* overall\n* at waterline
+USS Abercrombie	shipBeam	1117.6
+German Type X submarine	shipBeam	* o/a\n* pressure hull
+Virginia-class cruiser	shipBeam	max.
+USS Nitze	shipBeam	* extreme\n* at waterline
+USS Sterett	shipBeam	*  66 ft  extreme,\n*  59 ft  waterline
+USS Absecon	shipBeam	maximum
+HMS Royal Charles	shipBeam	on completion, later increased to
+MS Theofilos	shipBeam	23.3m
+German submarine U-215	shipBeam	* o/a\n* pressure hull
+German submarine U-28	shipBeam	* o/a\n* pressure hull
+German submarine U-32	shipBeam	* o/a\n* pressure hull
+SM U-32	shipBeam	* \n*
+USS Roper	shipBeam	965.2
+USS Insurgent	shipBeam	11.5
+Independence-class aircraft carrier	shipBeam	* 71 ft 6 in  hull\n* 109 ft 2 in  over flight deck and projections
+PS Waverley	shipBeam	s
+USS Miller	shipBeam	1209.04
+USS Hazelwood	shipBeam	1209.04
+USS Trathen	shipBeam	1209.04
+USS Dennis	shipBeam	1117.6
+HMS Umbra	shipBeam	4.90 m
+Patrol Boat, River	shipBeam	* \n*
+German submarine U-234	shipBeam	* o/a\n* pressure hull
+PS Maid of the Loch	shipBeam	28.1
+USS Broome	shipBeam	967.74
+Landing Ship, Tank	shipBeam	64.0
+USS McKean	shipBeam	965.2
+USS Harding	shipBeam	965.2
+German submarine U-166	shipBeam	* o/a\n* pressure hull
+German submarine U-171	shipBeam	* o/a\n* pressure hull
+HMS Vanguard	shipBeam	*;\n*by 1660
+Seventy-four	shipBeam	46.0
+USS Bagley	shipBeam	1424.9399999999998
+SS Normandie	shipBeam	*;\n*
+German submarine U-537	shipBeam	* o/a\n* pressure hull
+USS Providence	shipBeam	20.0
+SS Flickertail State	shipBeam	2319.02
+Lun-class ekranoplan	shipBeam	44 m
+Allen M. Sumner-class destroyer	shipBeam	*\n* \n* \n*
+USS Connecticut	shipBeam	12.1
+Soviet aircraft carrier Kiev	shipBeam	* overall\n* at the waterline
+USS Tautog	shipBeam	9.7 m
+USS Sturgeon	shipBeam	9.7 m
+USS Israel	shipBeam	967.74
+USS Luce	shipBeam	967.74
+USS Maury	shipBeam	967.74
+USS Lansdale	shipBeam	967.74
+USS Chew	shipBeam	967.74
+USS Barry	shipBeam	965.2
+Japanese cruiser Ashigara	shipBeam	* \n*
+V and W-class destroyer	shipBeam	929.64
+V and W-class destroyer	shipBeam	30.0
+XE-class submarine	shipBeam	5.75
+X-class submarine	shipBeam	5.75
+USNS Sacagawea	shipBeam	* extreme,\n* waterline
+HMS Venerable	shipBeam	75.0
+SS Albert Ballin	shipBeam	78.7
+Echo-class submarine	shipBeam	*Echo I : \n*Echo II :
+ROCS Kee Lung	shipBeam	16.8 m
+ROCS Su Ao	shipBeam	16.8 m
+USS Scott	shipBeam	16.8 m
+USS Chandler	shipBeam	16.8 m
+USS Rathburne	shipBeam	31.0
+Mogami-class cruiser	shipBeam	* \n*
+USS Talbot	shipBeam	942.34
+USS Thornback	shipBeam	833.12
+USS Pomodon	shipBeam	833.12
+USS Dent	shipBeam	965.2
+USS Dorsey	shipBeam	965.2
+USS Sirago	shipBeam	833.12
+USS Cutlass	shipBeam	833.12
+USS Odax	shipBeam	833.12
+USS Remora	shipBeam	833.12
+USS Quillback	shipBeam	833.12
+USS Trutta	shipBeam	833.12
+USS Lea	shipBeam	942.34
+USS Montgomery	shipBeam	965.2
+Whiskey-class submarine	shipBeam	to
+USS Breese	shipBeam	965.2
+USS Gamble	shipBeam	967.74
+USS Ramsay	shipBeam	31.0
+SS Bremen	shipBeam	101.9
+SS Europa	shipBeam	101.7
+USS Badger	shipBeam	965.2
+USS Babbitt	shipBeam	965.2
+USS Boggs	shipBeam	967.74
+SS Conte di Savoia	shipBeam	29.28 m
+USS Kilty	shipBeam	967.74
+Lima-class submarine	shipBeam	9.5 m
+USS Kennison	shipBeam	967.74
+USS Hamilton	shipBeam	967.74
+USS Greer	shipBeam	942.34
+USS Elliot	shipBeam	965.2
+USS Breckinridge	shipBeam	965.2
+USS Barney	shipBeam	965.2
+USS Biddle	shipBeam	965.2
+USS Blakeley	shipBeam	965.2
+USS Du Pont	shipBeam	965.2
+USS Bernadou	shipBeam	965.2
+USS Ellis	shipBeam	965.2
+USS Crosby	shipBeam	965.2
+French battleship Jean Bart	shipBeam	35 m
+PS Medway Queen	shipBeam	* hull\n* over paddle frames
+USS Arthur Middleton	shipBeam	2125.98
+USS Rizal	shipBeam	965.2
+USS Howard	shipBeam	965.2
+USS Blackfin	shipBeam	833.12
+USS Caiman	shipBeam	833.12
+USS Blenny	shipBeam	833.12
+Romeo-class submarine	shipBeam	6.7 m
+HMS Gorgon	shipBeam	* at bulge\n* at main hull
+MV Doulos Phos	shipBeam	54.0
+Patrol Air Cushion Vehicle	shipBeam	723.9
+Santa María	shipBeam	est.
+SS Deutschland	shipBeam	22 m
+USS Catfish	shipBeam	833.12
+USS Chivo	shipBeam	833.12
+USS Corporal	shipBeam	833.12
+USS Halfbeak	shipBeam	833.12
+USS Diodon	shipBeam	833.12
+USS Hardhead	shipBeam	833.12
+USS Cubera	shipBeam	833.12
+USS Cobbler	shipBeam	833.12
+USS Greenfish	shipBeam	833.12
+USS Jallao	shipBeam	833.12
+Yamato-class battleship	shipBeam	at Waterline, at Overall
+HMS Dulverton	shipBeam	9.62 m
+RMS Segwun	shipBeam	21.0
+USS Menhaden	shipBeam	833.12
+Q and R-class destroyer	shipBeam	35.75
+SS Thistlegorm	shipBeam	18 m
+HMS Smiter	shipBeam	5.8 m
+Black Swan-class sloop	shipBeam	* original\n* modified
+USS Lang	shipBeam	1082.04
+USS Ellet	shipBeam	1082.04
+HMS Gleaner	shipBeam	4.7 m
+Japanese cruiser Takao	shipBeam	–
+Red October	shipBeam	-1560.0
+German submarine U-262	shipBeam	* o/a\n* pressure hull
+MSC Armonia	shipBeam	*\n*
+FV Gaul	shipBeam	40.2
+USS Pomfret	shipBeam	833.12
+USS Ronquil	shipBeam	833.12
+Karel Doorman-class frigate	shipBeam	47.0
+MV Queen of Nanaimo	shipBeam	23.93 m
+Soviet aircraft carrier Admiral Gorshkov	shipBeam	* o/a\n* w/l
+HMS Sealion	shipBeam	8.1 m
+Yamal	shipBeam	;  at waterline
+Krasin	shipBeam	* \n*
+Oden	shipBeam	* \n*
+SS Stettin	shipBeam	13.43 m
+Ned Hanlan	shipBeam	19.1
+USS McGinty	shipBeam	1117.6
+SS Wairarapa	shipBeam	36.3
+USS Sigourney	shipBeam	1209.04
+USS Nicholas	shipBeam	1209.04
+USS O'Bannon	shipBeam	1209.04
+USS Owen	shipBeam	1209.04
+USS Callaghan	shipBeam	39.6
+USS Stembel	shipBeam	1209.04
+USS Wiley	shipBeam	1209.04
+USS Braine	shipBeam	1209.04
+USS Killen	shipBeam	1209.04
+USS Stephen Potter	shipBeam	1209.04
+USS Wedderburn	shipBeam	39.6
+Bogue-class escort carrier	shipBeam	*;\n*flight deck:
+Cataraqui	shipBeam	30.0
+USS K-1	shipBeam	508.0
+Durance-class tanker	shipBeam	21.2 m
+USS California	shipBeam	* extreme\n* waterline
+Commencement Bay-class escort carrier	shipBeam	*\n* flight deck
+SS France	shipBeam	2027.9999999999998
+RMS Baltic	shipBeam	75.6
+USS Makin Island	shipBeam	* extreme,\n* waterline
+RRS James Clark Ross	shipBeam	18.85 m
+USS Oak Hill	shipBeam	84.0
+FREMM multipurpose frigate	shipBeam	*France: \n*Italy:
+USS Hutchins	shipBeam	1209.04
+TSMS Lakonia	shipBeam	74.8
+Jurmo-class landing craft	shipBeam	3.65 m
+Uisko-class landing craft	shipBeam	3.5 m
+USS Eaton	shipBeam	1209.04
+USS Chevalier	shipBeam	1209.04
+USS Saufley	shipBeam	1209.04
+ORP Sokół	shipBeam	4.9 m
+Type 091 submarine	shipBeam	10.0
+USS Waller	shipBeam	1209.04
+USS Strong	shipBeam	1209.04
+ORP Rolnik	shipBeam	10.2 m
+German submarine U-1230	shipBeam	* o/a\n* pressure hull
+USS Taylor	shipBeam	1209.04
+Earl of Pembroke	shipBeam	7.3 m
+Phoenix	shipBeam	21.9
+USS Bache	shipBeam	1209.04
+USS Richard W. Suesens	shipBeam	1117.6
+USS O'Flaherty	shipBeam	1117.6
+USS Stafford	shipBeam	1117.6
+Tucker-class destroyer	shipBeam	[DD-57, -60, -62: 29 ft 11 in]
+USS Rowan	shipBeam	932.18
+USS Wilkes	shipBeam	932.18
+USS Halligan	shipBeam	1209.04
+Quebec-class submarine	shipBeam	5.1 m
+USS Hunt	shipBeam	967.74
+USS Alligator	shipBeam	; height of hull
+USS Cecil J. Doyle	shipBeam	1117.6
+USS Dallas	shipBeam	965.2
+Crusader	shipBeam	13
+USS Hovey	shipBeam	965.2
+German submarine U-534	shipBeam	* o/a\n* pressure hull
+USS Tingey	shipBeam	1209.04
+USS Borie	shipBeam	967.74
+USS John D. Edwards	shipBeam	31.0
+USS Parrott	shipBeam	934.72
+USS MacLeish	shipBeam	967.74
+Taitsing	shipBeam	31.5
+Captain-class frigate	shipBeam	* \n*
+USS Bulmer	shipBeam	967.74
+French ship Mistral	shipBeam	32 m
+USS McCormick	shipBeam	967.74
+Lady Juliana	shipBeam	40.0
+USS San Diego	shipBeam	1770.0
+USS Paul Jones	shipBeam	934.72
+SS Cristoforo Colombo	shipBeam	90.0
+USS John D. Ford	shipBeam	967.74
+USS Somerset	shipBeam	1770.0
+USS Arlington	shipBeam	* extreme,\n* waterline
+USS Anchorage	shipBeam	*Extreme: \n*Waterline:
+German submarine U-195	shipBeam	* o/a\n* pressure hull
+German submarine U-852	shipBeam	* o/a\n* pressure hull
+Type 051 destroyer	shipBeam	12.8 m
+German submarine U-219	shipBeam	* o/a\n* pressure hull
+USS Hatfield	shipBeam	965.2
+Type 052 destroyer	shipBeam	16 m
+German submarine U-859	shipBeam	* o/a\n* pressure hull
+USS Brooks	shipBeam	965.2
+USS Gilmer	shipBeam	965.2
+Keying	shipBeam	35.0
+USS Fox	shipBeam	31.0
+USS Kane	shipBeam	965.2
+USS Hart	shipBeam	1209.04
+USS Erben	shipBeam	1209.04
+Norwegian Dawn	shipBeam	* \n*
+German submarine U-181	shipBeam	* o/a\n* pressure hull
+USS Hale	shipBeam	1209.04
+USS Humphreys	shipBeam	965.2
+USS McFarland	shipBeam	965.2
+USS Wadleigh	shipBeam	39.6
+USS James K. Paulding	shipBeam	965.2
+USS Overton	shipBeam	965.2
+Ocean Countess	shipBeam	75.0
+HMS Liverpool	shipBeam	33
+USS Fullam	shipBeam	1209.04
+USS Spence	shipBeam	1209.04
+USS Childs	shipBeam	965.2
+USS King	shipBeam	965.2
+USS Sands	shipBeam	965.2
+USS Williamson	shipBeam	934.72
+USS Bainbridge	shipBeam	965.2
+USS Goff	shipBeam	965.2
+USS Hopkins	shipBeam	965.2
+USS Lawrence	shipBeam	965.2
+USS Preston	shipBeam	39.3
+USS Irwin	shipBeam	39.7
+USS Metcalf	shipBeam	1209.04
+USS Shields	shipBeam	1209.04
+USS Twiggs	shipBeam	1209.04
+USS Paul Hamilton	shipBeam	1209.04
+USS Izard	shipBeam	1209.04
+USS Belknap	shipBeam	965.2
+USS Bell	shipBeam	1209.04
+USS Osmond Ingram	shipBeam	965.2
+USS Naifeh	shipBeam	1117.6
+USS Turner	shipBeam	965.2
+USS Gillis	shipBeam	965.2
+USS Ammen	shipBeam	1209.04
+USS Mullany	shipBeam	1209.04
+USS Peterson	shipBeam	36.58
+German submarine U-333	shipBeam	* o/a\n* pressure hull
+USS Bush	shipBeam	1209.04
+USS Delphy	shipBeam	965.2
+USS Warrington	shipBeam	2410.0
+USS Stockham	shipBeam	1206.5
+USS Ballard	shipBeam	965.2
+Type 214 submarine	shipBeam	629.9200000000001
+Type 051B destroyer	shipBeam	16.5 m
+USS Beale	shipBeam	1209.04
+Type 052B destroyer	shipBeam	17 m
+USS Guest	shipBeam	1209.04
+USS Moody	shipBeam	942.34
+USS Bennett	shipBeam	1209.04
+USS Hudson	shipBeam	1209.04
+USS Pringle	shipBeam	1209.04
+USS Stanly	shipBeam	1209.04
+Queen Anne's Revenge	shipBeam	7.1 m
+USS Stevens	shipBeam	1209.04
+USS Halford	shipBeam	1209.04
+USS Henshaw	shipBeam	942.34
+USS Philip	shipBeam	1209.04
+SS Marine Electric	shipBeam	* As built:\n*  \n* After 1962:\n*
+USS Renshaw	shipBeam	1209.04
+USS Sigsbee	shipBeam	1209.04
+USS Conway	shipBeam	1209.04
+USS Cony	shipBeam	1209.04
+USS Converse	shipBeam	1209.04
+Saipem 7000	shipBeam	87 m
+USS Foote	shipBeam	1209.04
+USS Breck	shipBeam	965.2
+USS Terry	shipBeam	1209.04
+USS Isherwood	shipBeam	965.2
+USS Preble	shipBeam	934.72
+USS Lardner	shipBeam	965.2
+USS Putnam	shipBeam	965.2
+Takao-class cruiser	shipBeam	* \n*
+USS Yale	shipBeam	63.2
+USS Reid	shipBeam	965.2
+USS Thatcher	shipBeam	1209.04
+USS Wolverine	shipBeam	* hull, molded\n* extreme, over guards
+USCGC Edisto	shipBeam	63
+PacifiCat-class ferry	shipBeam	25.8m
+Hobart-class destroyer	shipBeam	maximum
+SM U-135	shipBeam	* o/a\n* pressure hull
+MSC Opera	shipBeam	*\n*
+MV Queen of Coquitlam	shipBeam	27.08 m
+Kronan	shipBeam	12.9 m
+Kiev-class aircraft carrier	shipBeam	* o/a\n*  w/l
+BRP Gregorio Velasquez	shipBeam	46.0
+Italian submarine Iride	shipBeam	6.34 m
+SS Lane Victory	shipBeam	62.0
+Hunt-class minesweeper	shipBeam	* \n*
+United States R-class submarine	shipBeam	*Group 1: \n*Group 2:
+I-201-class submarine	shipBeam	* pressure hull\n* max. across stern fins
+USS Nicholas	shipBeam	965.2
+USS Walker	shipBeam	1209.04
+USS Brownson	shipBeam	1209.04
+HMS Howe	shipBeam	1854.2
+USS Daly	shipBeam	1209.04
+German submarine U-736	shipBeam	* o/a\n* pressure hull
+German submarine U-1063	shipBeam	* o/a\n* pressure hull
+German submarine U-995	shipBeam	*  o/a\n*  pressure hull
+HMS Prince of Wales	shipBeam	*60 ft 0 in  \n*60 ft 2 in
+USS Isherwood	shipBeam	1209.04
+French cruiser De Grasse	shipBeam	*\n* w/l
+Lightship Finngrundet	shipBeam	6.85 m
+USS Selfridge	shipBeam	965.2
+MS Mariner of the Seas	shipBeam	* - Waterline\n* - Max
+MS Navigator of the Seas	shipBeam	* - Waterline\n* - Max
+USS Luce	shipBeam	1209.04
+Saipan-class aircraft carrier	shipBeam	* \n*
+USS Kimberly	shipBeam	1209.04
+USS Robert Smith	shipBeam	965.2
+USS Nahant	shipBeam	26'
+German submarine U-175	shipBeam	* o/a\n* pressure hull
+Japanese submarine I-168	shipBeam	1571.0
+DSRV-2 Avalon	shipBeam	; Width
+Kapitan Khlebnikov	shipBeam	26.50 m
+USS Bruce	shipBeam	965.2
+USS Hull	shipBeam	965.2
+USS Farenholt	shipBeam	965.2
+USS Twining	shipBeam	1209.04
+USS Corry	shipBeam	965.2
+USS Yarnall	shipBeam	1209.04
+USS Sumner	shipBeam	965.2
+USS Decatur	shipBeam	967.74
+USS Perry	shipBeam	934.72
+USS Hulbert	shipBeam	934.72
+USS Noa	shipBeam	934.72
+USS William B. Preston	shipBeam	942.34
+Spray	shipBeam	431.8
+Gazela	shipBeam	. at maximum beam
+Stad Amsterdam	shipBeam	10 m
+Spanish aircraft carrier Dédalo	shipBeam	* \n*
+USCGC Bibb	shipBeam	2460.0
+Songo River Queen II	shipBeam	23
+MS Freedom of the Seas	shipBeam	waterline  extreme
+USS Dewey	shipBeam	1041.3999999999999
+USS Little	shipBeam	39
+USS Ross	shipBeam	1209.04
+USS Wickes	shipBeam	1209.04
+USS Young	shipBeam	1209.04
+USS Robinson	shipBeam	1209.04
+USS Melvin	shipBeam	1211.58
+NNS Thunder	shipBeam	43.0
+Aaron Manby	shipBeam	*\n* with paddlewheels
+Ōsumi-class tank landing ship	shipBeam	25.8 m
+USS Cogswell	shipBeam	1209.04
+USS John D. Henley	shipBeam	1209.04
+French ship Francis Garnier	shipBeam	13 m
+Zulu-class submarine	shipBeam	7.5 m
+Soviet helicopter carrier Moskva	shipBeam	34.0 m
+USS Nantucket	shipBeam	32.0
+USS Salish	shipBeam	1031.24
+USS Drexler	shipBeam	40.0
+MV Royal Daffodil	shipBeam	12m
+USS Knapp	shipBeam	1209.04
+Król Dawid	shipBeam	approximately
+Type 206 submarine	shipBeam	4.6 m
+USS Hank	shipBeam	40.0
+River-class destroyer	shipBeam	to
+USS Laws	shipBeam	1209.04
+USS Hunt	shipBeam	1206.5
+USS Meredith	shipBeam	40.0
+SS Leviathan	shipBeam	3058.16
+USS Mansfield	shipBeam	40.0
+USS Finch	shipBeam	36.58
+USS Alfred A. Cunningham	shipBeam	40.0
+USS Drayton	shipBeam	35.0
+USS Lamson	shipBeam	1056.6399999999999
+USS Flusser	shipBeam	36.0
+USS Reid	shipBeam	35.0
+USS Case	shipBeam	35.0
+USS Conyngham	shipBeam	35.0
+Nitro-class ammunition ship	shipBeam	72.0
+SS Southern Cross	shipBeam	24
+Malygin	shipBeam	14.2 m
+Metel	shipBeam	7.4 m
+USS Haggard	shipBeam	1209.04
+USS Hailey	shipBeam	1209.04
+USS Trippe	shipBeam	1079.5
+USS Caperton	shipBeam	1209.04
+HMS Tracker	shipBeam	5.8 m
+SAS Tafelberg	shipBeam	21.9 m
+USS Schofield	shipBeam	44.0
+USS Talbot	shipBeam	44.0
+SS Oriana	shipBeam	97.1
+USS Dufilho	shipBeam	1117.6
+USS William D. Porter	shipBeam	1209.04
+USS Cushing	shipBeam	35.0
+USS Gregory	shipBeam	39
+USS Longshaw	shipBeam	1209.04
+USS Morrison	shipBeam	1209.04
+USS Prichett	shipBeam	1209.04
+USS Sproston	shipBeam	1209.04
+USS Ingersoll	shipBeam	1209.04
+USS Rowe	shipBeam	1209.04
+USS Smalley	shipBeam	1209.04
+USS Stoddard	shipBeam	1209.04
+USS Boyd	shipBeam	1209.04
+USS Bradford	shipBeam	1209.04
+USS Watts	shipBeam	1209.04
+USS Wilson	shipBeam	1082.04
+USS Wren	shipBeam	1209.04
+USS Preston	shipBeam	35.0
+USS Dunlap	shipBeam	35.0
+USS Harrison	shipBeam	1209.04
+USS John Rodgers	shipBeam	1209.04
+German submarine U-864	shipBeam	* o/a\n* pressure hull
+USS McKee	shipBeam	1209.04
+USS Dortch	shipBeam	39
+Type 202 submarine	shipBeam	3.4 m
+Type 201 submarine	shipBeam	4.6 m
+USS Bearss	shipBeam	1209.04
+MS Thomson Majesty	shipBeam	* \n*
+USS John Hood	shipBeam	1209.04
+USS Charles J. Badger	shipBeam	1209.04
+Lütjens-class destroyer	shipBeam	14.3 m
+USS Colahan	shipBeam	1209.04
+USS Bennion	shipBeam	1209.04
+USS Hissem	shipBeam	36.58
+USS Black	shipBeam	1209.04
+ARA Almirante Domecq Garcia	shipBeam	1209.04
+HMS Archer	shipBeam	5.8 m
+USS Fanning	shipBeam	35.0
+USS Bryant	shipBeam	1206.5
+USS Clarence K. Bronson	shipBeam	1209.04
+USS Cotten	shipBeam	1209.04
+USS Healy	shipBeam	1209.04
+German submarine U-1276	shipBeam	* o/a\n* pressure hull
+HMS Ranger	shipBeam	5.8 m
+MV Fairweather	shipBeam	60.0
+MV Columbia	shipBeam	85
+USS Lewis Hancock	shipBeam	1206.5
+German submarine U-550	shipBeam	* o/a\n* pressure hull
+USS Marshall	shipBeam	1209.04
+SS Rotterdam	shipBeam	28.71 m
+United States O-class submarine	shipBeam	*Group 1: \n*Group 2:
+MS Legend of the Seas	shipBeam	*Max:\n*Waterline:
+USS McGowan	shipBeam	1209.04
+USS Carpellotti	shipBeam	1117.6
+USS McNair	shipBeam	1209.04
+German submarine U-260	shipBeam	* o/a\n* pressure hull
+RMS Leinster	shipBeam	75.0
+MV Crosline	shipBeam	As built :
+Norwegian K-class submarine	shipBeam	* o/a\n* pressure hull
+USS Walton	shipBeam	1117.6
+ORP Dzik	shipBeam	4.90 m
+Storm-class patrol boat	shipBeam	6.2 m
+USS Rhind	shipBeam	1079.5
+NOAAS Rainier	shipBeam	moulded
+USS Rowan	shipBeam	1079.5
+HMAS Albatross	shipBeam	* moulded\n* at sponsons
+USS Stack	shipBeam	1082.04
+USS Callaghan	shipBeam	16.8 m
+USS Pitt	shipBeam	62.0
+German submarine U-69	shipBeam	* o/a\n* pressure hull
+HMCS Bras d'Or	shipBeam	main foil span
+Turunmaa-class gunboat	shipBeam	7.8 m
+USS Sterett	shipBeam	35
+USS Badger	shipBeam	1424.9399999999998
+Crown Princess	shipBeam	*waterline: \n*maximum:
+USS Breeman	shipBeam	1117.6
+Marion Dufresne	shipBeam	20.60 m
+MS München	shipBeam	32.2 m
+SM U-151	shipBeam	* \n*
+Japanese cruiser Mogami	shipBeam	* \n*
+HMY Fubbs	shipBeam	*\n*later
+USS Bailey	shipBeam	1099.82
+French ship Napoléon	shipBeam	17 m
+MS Queen Victoria	shipBeam	waterline,  extreme
+HNoMS Thor	shipBeam	14.48m
+MS Color Fantasy	shipBeam	35.0
+USS Geneva	shipBeam	58.0
+HSC Silvia Ana L	shipBeam	*\n*
+German submarine U-520	shipBeam	* o/a\n* pressure hull
+USS Grand Forks	shipBeam	1143.0
+USNS Alan Shepard	shipBeam	* extreme,\n* waterline
+HMS Pursuer	shipBeam	5.8 m
+Galveston-class cruiser	shipBeam	66.0
+Man Gyong Bong 92	shipBeam	20.5 m
+SM U-35	shipBeam	* \n*
+MS al-Salam Boccaccio 98	shipBeam	23.6 m
+Norwegian B-class submarine	shipBeam	5.3 m
+Providence-class cruiser	shipBeam	64.0
+RMS Empress of Britain	shipBeam	65.7
+Hougoumont	shipBeam	34.0
+MV Krait	shipBeam	3.35 m
+USCGC Bertholf	shipBeam	54.0
+HMS Raider	shipBeam	5.8 m
+DSRV-1 Mystic	shipBeam	; Width
+Japanese cruiser Maya	shipBeam	–
+SAS Drakensberg	shipBeam	19.5 m
+MS Voyager of the Seas	shipBeam	* - Waterline\n* - Max
+Odin-class submarine	shipBeam	*Group 1: \n*Group 2:
+German submarine U-549	shipBeam	* o/a\n* pressure hull
+Oasis-class cruise ship	shipBeam	* waterline\n* extreme
+USS Lansing	shipBeam	36.58
+MS Grandeur of the Seas	shipBeam	* \n*
+Protector-class offshore patrol vessel	shipBeam	14.0
+SM U-110	shipBeam	* \n*
+USS Sumter	shipBeam	* \n*
+SS Meriwether Lewis	shipBeam	17.3 m
+USS Alexander J. Luke	shipBeam	37.0
+SS Benjamin Harrison	shipBeam	56
+MV Cartela	shipBeam	25'
+German submarine U-883	shipBeam	* o/a\n* pressure hull
+German submarine U-33	shipBeam	* o/a\n* pressure hull
+USNS Mission Capistrano	shipBeam	2072.64
+USS Fanning	shipBeam	1424.9399999999998
+USNS Mission Loreto	shipBeam	68.0
+USNS Mission San Antonio	shipBeam	68.0
+USNS Mission San Jose	shipBeam	68.0
+USNS Mission San Luis Rey	shipBeam	68.0
+USNS Mission San Miguel	shipBeam	68.0
+USNS Mission Santa Barbara	shipBeam	68.0
+USNS Mission Santa Clara	shipBeam	68.0
+USNS Mission Soledad	shipBeam	68.0
+MS Thomson Dream	shipBeam	/
+USNS Mission San Carlos	shipBeam	68.0
+MS Rhapsody of the Seas	shipBeam	* \n*
+SMS Seeadler	shipBeam	11.8 m
+Washington	shipBeam	.
+RMS Empress of Britain	shipBeam	85.2
+RMS Transvaal Castle	shipBeam	2748.2799999999997
+USS Mackinaw	shipBeam	35.0
+USS Bowers	shipBeam	37.0
+MS Liberty of the Seas	shipBeam	* \n*
+LCPL	shipBeam	330.2
+USS Raven	shipBeam	654.0
+MS Pride of Winchester	shipBeam	19.81 m
+MS Oujda	shipBeam	19.81 m
+MS Oujda	shipBeam	23.47 m
+German submarine U-507	shipBeam	* o/a\n* pressure hull
+HMS Example	shipBeam	5.8 m
+Japanese cruiser Kinugasa	shipBeam	* \n*
+German submarine U-977	shipBeam	* o/a\n* pressure hull
+HMS Meteorite	shipBeam	* o/a\n* pressure hull
+German Type XVII submarine	shipBeam	* o/a\n*Type XVIIA Wa 201 & Type XVIIB : \n** pressure hull\n*Type XVIIA Wk 202 :\n** pressure hull
+Le Batofar	shipBeam	25.0
+Freedom-class cruise ship	shipBeam	* at waterline\n* bridge wings
+Kea	shipBeam	10.0
+USS Missouri	shipBeam	34.0
+SS Worthing	shipBeam	39.0
+RMS Amazon	shipBeam	over paddle boxes
+USS Chimo	shipBeam	45.0
+USS Mount Olympus	shipBeam	63.0
+RMS Adriatic	shipBeam	73.0
+HMS Prince Consort	shipBeam	*As built : \n*After 1861 :
+MV Caledonian Isles	shipBeam	15.8 m
+HMS Caledonia	shipBeam	*As built : \n*After 1866 :
+BAP Aguirre	shipBeam	17.25 m
+Vidar-class minesweeper	shipBeam	12.0 m
+MS King Seaways	shipBeam	27.6
+Type 039 submarine	shipBeam	8.4 m
+HMS Resolution	shipBeam	; after girdling
+MV Artania	shipBeam	* or\n*
+MV Discovery	shipBeam	24.64 m
+Type 039A submarine	shipBeam	8.4
+German submarine U-754	shipBeam	* o/a\n* pressure hull
+Yūshio-class submarine	shipBeam	9.9 m
+German submarine U-4	shipBeam	* \n*
+German submarine U-346	shipBeam	* o/a\n* pressure hull
+German submarine U-22	shipBeam	* \n*
+German submarine U-1	shipBeam	* \n*
+MS Princess Seaways	shipBeam	27.6
+USS Major	shipBeam	2170.0
+Icebird	shipBeam	19.09 m
+Koni-class frigate	shipBeam	12.8 m
+HSC Fjord Cat	shipBeam	26.0
+German submarine U-365	shipBeam	* o/a\n* pressure hull
+RV Atlantis	shipBeam	52.5
+Battle-class trawler	shipBeam	* \n*
+P.V. type minesweeping trawler	shipBeam	*&ndash;\n*
+RV Endeavor	shipBeam	33.0
+RV Oceanus	shipBeam	33.0
+RV Thomas G. Thompson	shipBeam	53'
+German submarine U-889	shipBeam	* o/a\n* pressure hull
+German submarine U-36	shipBeam	* o/a\n* pressure hull
+German submarine U-48	shipBeam	* o/a\n* pressure hull
+Thornycroft M-class destroyer	shipBeam	* \n*
+German submarine U-803	shipBeam	* o/a\n* pressure hull
+German submarine U-1000	shipBeam	* o/a\n* pressure hull
+German submarine U-140	shipBeam	* \n*
+German submarine U-821	shipBeam	* o/a\n* pressure hull
+German submarine U-193	shipBeam	* o/a\n* pressure hull
+German submarine U-192	shipBeam	* o/a\n* pressure hull
+German submarine U-75	shipBeam	* o/a\n* pressure hull
+German submarine U-303	shipBeam	* o/a\n* pressure hull
+German submarine U-6	shipBeam	* \n*
+German submarine U-512	shipBeam	* o/a\n* pressure hull
+German submarine U-1226	shipBeam	* o/a\n* pressure hull
+Japanese ironclad Ryūjō	shipBeam	*\n*or
+HNLMS De Ruyter	shipBeam	18.80 m
+USS Catoctin	shipBeam	63.0
+MS Dunnottar Castle	shipBeam	72
+Sierra-class submarine	shipBeam	*Sierra I: \n*Sierra II:
+German submarine U-735	shipBeam	* o/a\n* pressure hull
+German submarine U-718	shipBeam	* o/a\n* pressure hull
+USS Burleson	shipBeam	58.0
+Freedom	shipBeam	20.0
+German submarine U-254	shipBeam	* o/a\n* pressure hull
+SM U-55	shipBeam	* \n*
+German submarine U-961	shipBeam	* o/a\n* pressure hull
+German submarine U-703	shipBeam	* o/a\n* pressure hull
+German submarine U-227	shipBeam	* o/a\n* pressure hull
+USS General A. W. Greely	shipBeam	2179.3199999999997
+SMS Karlsruhe	shipBeam	1
+USS Vandalia	shipBeam	68
+USS Caribou	shipBeam	1734.8200000000002
+German submarine U-1234	shipBeam	* o/a\n* pressure hull
+German submarine U-470	shipBeam	* o/a\n* pressure hull
+German submarine U-844	shipBeam	* o/a\n* pressure hull
+German submarine U-964	shipBeam	* o/a\n* pressure hull
+German submarine U-958	shipBeam	* o/a\n* pressure hull
+Shikishima	shipBeam	16.5m
+Acasta-class destroyer	shipBeam	to
+RMS Majestic	shipBeam	57.7
+RV Oceania	shipBeam	9.0m
+German submarine U-156	shipBeam	* o/a\n* pressure hull
+USNS Robert E. Peary	shipBeam	* extreme,\n* waterline
+USNS Richard E. Byrd	shipBeam	* extreme,\n* waterline
+German submarine U-25	shipBeam	o/a
+Maud	shipBeam	12.3 m
+German submarine U-405	shipBeam	* o/a\n* pressure hull
+German submarine U-10	shipBeam	* \n*
+German submarine U-615	shipBeam	* total\n* pressure hull
+German submarine U-566	shipBeam	* o/a\n* pressure hull
+German submarine U-551	shipBeam	* o/a\n* pressure hull
+German submarine U-554	shipBeam	* o/a\n* pressure hull
+German submarine U-555	shipBeam	* o/a\n* pressure hull
+German submarine U-196	shipBeam	* o/a\n* pressure hull
+German submarine U-768	shipBeam	* total\n* pressure hull
+HMS E18	shipBeam	6.86 m
+USS Aquarius	shipBeam	63.0
+German submarine U-521	shipBeam	* o/a\n* pressure hull
+German submarine U-509	shipBeam	* o/a\n* pressure hull
+German submarine U-86	shipBeam	* o/a\n* pressure hull
+German submarine U-100	shipBeam	* o/a\n* pressure hull
+German submarine U-518	shipBeam	* o/a\n* pressure hull
+German submarine U-531	shipBeam	* o/a\n* pressure hull
+German submarine U-51	shipBeam	* o/a\n* pressure hull
+German submarine U-529	shipBeam	* o/a\n* pressure hull
+German submarine U-78	shipBeam	* o/a\n* pressure hull
+German submarine U-7	shipBeam	* \n*
+German submarine U-124	shipBeam	* o/a\n* pressure hull
+German submarine U-352	shipBeam	* o/a\n* pressure hull
+German submarine U-16	shipBeam	* \n*
+HSC Speedrunner III	shipBeam	17.0
+German submarine U-973	shipBeam	* o/a\n* pressure hull
+German submarine U-49	shipBeam	* o/a\n* pressure hull
+German submarine U-468	shipBeam	* o/a\n* pressure hull
+German submarine U-98	shipBeam	* o/a\n* pressure hull
+German submarine U-502	shipBeam	* o/a\n* pressure hull
+German submarine U-533	shipBeam	* o/a\n* pressure hull
+German submarine U-504	shipBeam	* o/a\n* pressure hull
+German submarine U-107	shipBeam	* o/a\n* pressure hull
+German submarine U-63	shipBeam	* \n*
+German submarine U-427	shipBeam	* o/a\n* pressure hull
+German submarine U-503	shipBeam	* o/a\n* pressure hull
+M-class cruiser	shipBeam	* '\n* '
+USLHT Warrington	shipBeam	1506.0
+German submarine U-201	shipBeam	* o/a\n* pressure hull
+German submarine U-307	shipBeam	* o/a\n* pressure hull
+Sea Wing disaster	shipBeam	20.8
+German submarine U-42	shipBeam	* o/a\n* pressure hull
+German submarine U-337	shipBeam	* o/a\n* pressure hull
+MS Independence of the Seas	shipBeam	* hull\n* extreme width of superstructure
+Charlie-class submarine	shipBeam	Charlie I+II class:
+Ievoli Sun	shipBeam	17.51 m
+HMS Adventure	shipBeam	over bulges
+Aréthuse-class submarine	shipBeam	5.8 m
+French Narval-class submarine	shipBeam	7.8 m
+Sauro-class submarine	shipBeam	6.83 m
+Toti-class submarine	shipBeam	4.75 m
+German submarine U-765	shipBeam	* o/a\n* pressure hull
+Russian yacht Standart	shipBeam	15.8 m
+Russian yacht Standart	shipBeam	14.4 m
+Ikazuchi-class destroyer escort	shipBeam	8.7 m
+Isuzu-class destroyer escort	shipBeam	10.2m
+RMS Teutonic	shipBeam	57.7
+Type 051C destroyer	shipBeam	17.0
+German submarine U-183	shipBeam	* o/a\n* pressure hull
+German submarine U-180	shipBeam	* o/a\n* pressure hull
+William Lyon Mackenzie	shipBeam	6m
+French aircraft carrier La Fayette	shipBeam	* \n*
+SS Michelangelo	shipBeam	Moulded
+German submarine U-269	shipBeam	* o/a\n* pressure hull
+RMAS Salmoor	shipBeam	15 m
+USS Wainwright	shipBeam	55.0
+Soviet helicopter carrier Leningrad	shipBeam	34.0 m
+USS Downes	shipBeam	1424.9399999999998
+HMS Hyacinth	shipBeam	oa
+German submarine U-1105	shipBeam	* o/a\n* pressure hull
+German submarine U-31	shipBeam	* o/a\n* pressure hull
+German submarine U-185	shipBeam	* o/a\n* pressure hull
+German submarine U-125	shipBeam	* o/a\n* pressure hull
+Opytny-class destroyer	shipBeam	10.6 m
+Yaeyama-class minesweeper	shipBeam	11.8 m
+French aircraft carrier Joffre	shipBeam	* \n*
+PH 75	shipBeam	2760.0
+German submarine U-388	shipBeam	* o/a\n* pressure hull
+German submarine U-371	shipBeam	* o/a\n* pressure hull
+German submarine U-95	shipBeam	* o/a\n* pressure hull
+German submarine U-23	shipBeam	* \n*
+German submarine U-596	shipBeam	* o/a\n* pressure hull
+German submarine U-539	shipBeam	* o/a\n* pressure hull
+Albacora-class submarine	shipBeam	6.8
+MV Clansman	shipBeam	15.8 m
+Ham-class minesweeper	shipBeam	*26-group: \n*27-group:
+Océan-class ship of the line	shipBeam	16.24
+Thetis-class gunboat	shipBeam	8.2 m
+Moy	shipBeam	38.3
+HMS Portisham	shipBeam	21.5
+Rhone	shipBeam	39.9
+Success	shipBeam	26' 8''
+Sailing Ship Columbia	shipBeam	27.25
+German submarine U-134	shipBeam	* o/a\n* pressure hull
+German submarine U-34	shipBeam	* o/a\n* pressure hull
+German submarine U-131	shipBeam	* o/a\n* pressure hull
+USS Mackinac	shipBeam	maximum
+HMS X2	shipBeam	6.87 m
+Acheron-class destroyer	shipBeam	to
+ROCS Tso Ying	shipBeam	16.8 m
+ROCS Ma Kong	shipBeam	16.8 m
+NLV Pole Star	shipBeam	12 m
+USS Lavaca	shipBeam	62.0
+MS Batory	shipBeam	21.6 m
+TSS Stefan Batory	shipBeam	21.1 m
+Meko 360	shipBeam	14 m
+Nigerian frigate Aradu	shipBeam	15m
+Racecourse-class minesweeper	shipBeam	*Racecourse-class: \n*Improved-class: \n* at the paddles
+USCGC Harriet Lane	shipBeam	38.0
+Rhine	shipBeam	38.3
+German submarine U-37	shipBeam	* o/a\n* pressure hull
+German submarine U-38	shipBeam	* o/a\n* pressure hull
+USS W. S. Sims	shipBeam	1424.9399999999998
+USS Trippe	shipBeam	1424.9399999999998
+USS Vreeland	shipBeam	1424.9399999999998
+USS Francis Hammond	shipBeam	1424.9399999999998
+German submarine U-3	shipBeam	* \n*
+German submarine U-99	shipBeam	* o/a\n* pressure hull
+Dance-class minesweeper	shipBeam	-
+USCGC Valiant	shipBeam	34'
+USS Nauset	shipBeam	1173.48
+USS Cyclone	shipBeam	25.0
+USCGC Active	shipBeam	34'
+HMS Exploit	shipBeam	5.8 m
+German submarine U-221	shipBeam	* o/a\n* pressure hull
+German submarine U-362	shipBeam	* o/a\n* pressure hull
+USCGC Venturous	shipBeam	34'
+USCGC Durable	shipBeam	34'
+MS Moby Otta	shipBeam	23.62
+MS Moby Otta	shipBeam	26.4
+USS Durant	shipBeam	36.58
+USS Frament	shipBeam	37.0
+USS Thaddeus Parker	shipBeam	1117.6
+RMAS Colonel Templer	shipBeam	11 m
+SS Mutlah	shipBeam	13.41 m
+NOAAS Fairweather	shipBeam	42.0
+SS Giulio Cesare	shipBeam	76.15
+German submarine U-331	shipBeam	* o/a\n* pressure hull
+German submarine U-481	shipBeam	* o/a\n* pressure hull
+RMS Umbria	shipBeam	17.43 m
+Soviet S-class submarine	shipBeam	6.4 m
+RMS Etruria	shipBeam	17.43 m
+Archer-class patrol vessel	shipBeam	5.8 m
+HMS Bicester	shipBeam	9.8 m
+HMS Dulverton	shipBeam	9.8 m
+HMS Berkeley	shipBeam	9.8 m
+HMS Cottesmore	shipBeam	9.8 m
+HMS Inverness	shipBeam	10.9 m
+HMS Bridport	shipBeam	10.9 m
+HMS Walney	shipBeam	10.9 m
+HMS Dasher	shipBeam	5.8 m
+HMS Express	shipBeam	5.8 m
+HMS Explorer	shipBeam	5.8 m
+HMS Puncher	shipBeam	5.8 m
+HMS Charger	shipBeam	5.8 m
+HMS Trumpeter	shipBeam	5.8 m
+HMS Blazer	shipBeam	5.8 m
+HMS Biter	shipBeam	5.8 m
+HMS London	shipBeam	75.0
+SS Delphine	shipBeam	35.5
+RFA Wave Ruler	shipBeam	28.25
+RFA Wave Knight	shipBeam	28.25
+HMS Brighton	shipBeam	41.0
+HMS Lowestoft	shipBeam	41.0
+HMS Falmouth	shipBeam	41.0
+German submarine U-144	shipBeam	* \n*
+JOIDES Resolution	shipBeam	70.0
+MS Victoria I	shipBeam	29.0
+German submarine U-12	shipBeam	* \n*
+German submarine U-39	shipBeam	* o/a\n* pressure hull
+German submarine U-40	shipBeam	* o/a\n* pressure hull
+SS Mount Temple	shipBeam	18 m
+MV Lord of the Isles	shipBeam	15.8 m
+Japanese cruiser Aoba	shipBeam	* \n*
+German submarine U-41	shipBeam	* o/a\n* pressure hull
+USCGC Eastwind	shipBeam	.
+USCGC Westwind	shipBeam	.
+German submarine U-217	shipBeam	* o/a\n* pressure hull
+German submarine U-83	shipBeam	* o/a\n* pressure hull
+German submarine U-79	shipBeam	* o/a\n* pressure hull
+German submarine U-72	shipBeam	* o/a\n* pressure hull
+German submarine U-70	shipBeam	* o/a\n* pressure hull
+German submarine U-176	shipBeam	* o/a\n* pressure hull
+German submarine U-625	shipBeam	* o/a\n* pressure hull
+German submarine U-441	shipBeam	* o/a\n* pressure hull
+German submarine U-843	shipBeam	* o/a\n* pressure hull
+German submarine U-1235	shipBeam	* o/a\n* pressure hull
+German submarine U-1227	shipBeam	* o/a\n* pressure hull
+German submarine U-218	shipBeam	* o/a\n* pressure hull
+SF Ammonia	shipBeam	9.5 m
+German submarine U-255	shipBeam	* o/a\n* pressure hull
+German submarine U-501	shipBeam	* o/a\n* pressure hull
+German submarine U-1059	shipBeam	* o/a\n* pressure hull
+German submarine U-1061	shipBeam	* o/a\n* pressure hull
+German submarine U-1062	shipBeam	* o/a\n* pressure hull
+German submarine U-1060	shipBeam	* o/a\n* pressure hull
+German submarine U-300	shipBeam	* o/a\n*  pressure hull
+German submarine U-317	shipBeam	* o/a\n* pressure hull
+German submarine U-280	shipBeam	* o/a\n* pressure hull
+German submarine U-268	shipBeam	* o/a\n* pressure hull
+German submarine U-1302	shipBeam	* o/a\n*
+SS V. A. Fogg	shipBeam	* As built:\n*  \n* After 1959:\n*
+German submarine U-511	shipBeam	* o/a\n* pressure hull
+German submarine U-530	shipBeam	* o/a\n* pressure hull
+German submarine U-228	shipBeam	* o/a\n* pressure hull
+German submarine U-353	shipBeam	* o/a\n* pressure hull
+German submarine U-535	shipBeam	* o/a\n* pressure hull
+USS Frost	shipBeam	36.58
+MV Northern Adventure	shipBeam	20.0 m
+German submarine U-324	shipBeam	* o/a\n* pressure hull
+German submarine U-383	shipBeam	* o/a\n* pressure hull
+German submarine U-340	shipBeam	* o/a\n* pressure hull
+German submarine U-443	shipBeam	* o/a\n* pressure hull
+German submarine U-438	shipBeam	* o/a\n* pressure hull
+Inhaúma-class corvette	shipBeam	11.4 m
+German submarine U-953	shipBeam	* o/a\n* pressure hull
+German submarine U-759	shipBeam	* o/a\n* pressure hull
+German submarine U-400	shipBeam	* o/a\n* pressure hull
+German submarine U-1021	shipBeam	* o/a\n* pressure hull
+German submarine U-325	shipBeam	* o/a\n* pressure hull
+German submarine U-772	shipBeam	* o/a\n* pressure hull
+USS Wheeling	shipBeam	34'
+German submarine U-43	shipBeam	* o/a\n* pressure hull
+SM U-103	shipBeam	* \n*
+Type 062 gunboat	shipBeam	*Shanghai-I class : \n*Shanghai-II class :
+Type 35 torpedo boat	shipBeam	8.62 m
+USS Bebas	shipBeam	1071.8799999999999
+Grampus-class submarine	shipBeam	,
+USS Stewart	shipBeam	36.58
+USS Dale W. Peterson	shipBeam	36.58
+USS Stockdale	shipBeam	36.58
+SS Abner Doubleday	shipBeam	17.3 m
+INS Shardul	shipBeam	9.7 m
+Texas Clipper	shipBeam	66.0
+Type 072II-class landing ship	shipBeam	16.4 m
+German submarine U-309	shipBeam	* o/a\n* pressure hull
+German submarine U-957	shipBeam	* o/a\n* pressure hull
+Scillonian	shipBeam	28.7
+INS Jalashwa	shipBeam	30.4
+German submarine U-253	shipBeam	* o/a\n* pressure hull
+German submarine U-259	shipBeam	* o/a\n* pressure hull
+German submarine U-656	shipBeam	* o/a\n* pressure hull
+German submarine U-523	shipBeam	* o/a\n* pressure hull
+German submarine U-273	shipBeam	* o/a\n* pressure hull
+German submarine U-24	shipBeam	* \n*
+German submarine U-11	shipBeam	* \n*
+German submarine U-13	shipBeam	* \n*
+German submarine U-15	shipBeam	* \n*
+German submarine U-17	shipBeam	* \n*
+German submarine U-18	shipBeam	* \n*
+Soviet M-class submarine	shipBeam	*VI and VI-bis: \n*XII: \n*XV:
+German submarine U-30	shipBeam	* o/a\n* pressure hull
+Peter von Danzig	shipBeam	ca.
+German submarine U-50	shipBeam	* o/a\n* pressure hull
+German submarine U-85	shipBeam	* o/a\n* pressure hull
+German submarine U-172	shipBeam	* o/a\n* pressure hull
+Type 903 replenishment ship	shipBeam	24.8m
+SM UC-41	shipBeam	* o/a\n* pressure hull
+HMS P32	shipBeam	4.90 m
+HMS P33	shipBeam	4.90 m
+German submarine U-14	shipBeam	* \n*
+USS Donner	shipBeam	2199.64
+50 Let Pobedy	shipBeam	* \n*
+German submarine U-106	shipBeam	* o/a\n* pressure hull
+HSwMS Visby	shipBeam	10.4m
+Italian ironclad Affondatore	shipBeam	12.20 m
+German submarine U-298	shipBeam	* o/a\n* pressure hull
+German submarine U-256	shipBeam	* o/a\n* pressure hull
+German submarine U-96	shipBeam	* o/a\n* pressure hull
+Sovereign of the Seas	shipBeam	45.6
+Type 074-class landing ship	shipBeam	10.4m
+Isis	shipBeam	c.
+Sangamon-class escort carrier	shipBeam	*\n* extreme width
+RMS Empress of Asia	shipBeam	68.2
+German submarine U-89	shipBeam	* o/a\n* pressure hull
+German submarine U-88	shipBeam	* o/a\n* pressure hull
+German submarine U-66	shipBeam	* o/a\n* pressure hull
+German submarine U-68	shipBeam	* o/a\n* pressure hull
+German submarine U-103	shipBeam	* o/a\n* pressure hull
+Kaliakra	shipBeam	8.0
+HMS Vansittart	shipBeam	30.0
+German submarine U-102	shipBeam	* o/a\n* pressure hull
+SM U-102	shipBeam	* \n*
+German submarine U-978	shipBeam	* o/a\n* pressure hull
+SS Conte Grande	shipBeam	23.8 m
+SS Conte Biancamano	shipBeam	23.24 m
+SS Conte Verde	shipBeam	22.6 m
+German submarine U-8	shipBeam	* \n*
+Kaidai-type submarine	shipBeam	8.20 m
+Japanese gunboat Ataka	shipBeam	9.75 m
+HMS Ascot	shipBeam	*\n* at the paddles
+Duncan-class ship of the line	shipBeam	extreme
+HMS Atherstone	shipBeam	*\n* at the paddles
+USS Willis	shipBeam	36.58
+HMS Umpire	shipBeam	4.90 m
+German submarine U-35	shipBeam	* o/a\n* pressure hull
+RMS Campania	shipBeam	1988.82
+RMS Lucania	shipBeam	1988.82
+SM U-5	shipBeam	* \n*
+German submarine U-5	shipBeam	* \n*
+German submarine U-9	shipBeam	* \n*
+SM U-9	shipBeam	* \n*
+Thyella-class destroyer	shipBeam	6.2 m
+German submarine U-19	shipBeam	* \n*
+French submarine Favorite	shipBeam	o/a
+German submarine U-777	shipBeam	* o/a\n* pressure hull
+SS Ukkopekka	shipBeam	7.4 m
+German submarine U-434	shipBeam	* o/a\n* pressure hull
+Type 908 replenishment ship	shipBeam	25.33m
+Nairana-class escort carrier	shipBeam	*Campania \n*Others
+German submarine U-120	shipBeam	* \n*
+USNS Point Barrow	shipBeam	2260.6
+RRS James Cook	shipBeam	18.6 m
+MV Capt. Steven L. Bennett	shipBeam	30.48 m
+INS Godavari	shipBeam	14.5
+MS Rangitane	shipBeam	70.0
+USS Eversole	shipBeam	1117.6
+USS Oberrender	shipBeam	1117.6
+USS Thomas	shipBeam	1117.6
+Cape-class cutter	shipBeam	max
+USS Holder	shipBeam	36.58
+USS Menges	shipBeam	36.58
+BAP Islay	shipBeam	6.4 m
+BAP Arica	shipBeam	6.4 m
+BAP Angamos	shipBeam	6.4 m
+BAP Pisagua	shipBeam	6.4 m
+BAP Chipana	shipBeam	6.4 m
+USS Frederick C. Davis	shipBeam	36.58
+SS Karanja	shipBeam	706.12
+Paul Gauguin	shipBeam	71.0
+MV Isle of Mull	shipBeam	15.8 m
+V1-class destroyer	shipBeam	7.6 m
+MS Nordlys	shipBeam	* \n*
+Ropucha-class landing ship	shipBeam	15 m
+MV Northern Expedition	shipBeam	23 m
+German submarine U-123	shipBeam	* o/a\n* pressure hull
+German submarine Deutschland	shipBeam	* \n*
+Indian Empress	shipBeam	14.6 m
+USS LST-504	shipBeam	50.0
+JDS Mirai	shipBeam	68.9
+SMS Vulkan	shipBeam	5.00 m
+HMS E19	shipBeam	6.86 m
+RMS Antonia	shipBeam	19.90 m
+Leninets-class submarine	shipBeam	*Group 1+2: \n*Group 3+4:
+German Type U 31 submarine	shipBeam	* \n*
+German Type Mittel U submarine	shipBeam	* \n*
+German Type U 151 submarine	shipBeam	* \n*
+German submarine U-94	shipBeam	* o/a\n* pressure hull
+Ghadir-class submarine	shipBeam	180.0
+BX	shipBeam	28.8
+NMS Smeul	shipBeam	5.8 m
+BC Express	shipBeam	27.9
+German submarine U-128	shipBeam	* o/a\n* pressure hull
+Silver Wind	shipBeam	21
+USNS Sea Lift	shipBeam	2529.84
+Sariwon-class corvette	shipBeam	7.5 m
+USS Shoveler	shipBeam	1922.0
+USS Gladiator	shipBeam	32'
+NOAAS Mount Mitchell	shipBeam	moulded
+USS Gunston Hall	shipBeam	2199.64
+Accentor-class minesweeper	shipBeam	&ndash;
+USS Daniel	shipBeam	36.58
+MV Argyle	shipBeam	15.3 m
+USS Vandivier	shipBeam	1117.6
+SM U-68	shipBeam	* \n*
+SM U-83	shipBeam	* \n*
+SM UC-29	shipBeam	* o/a\n* pressure hull
+SM U-61	shipBeam	* \n*
+USS Inch	shipBeam	36.58
+USS Huse	shipBeam	36.58
+USNS Amelia Earhart	shipBeam	* extreme,\n* waterline
+German submarine U-515	shipBeam	* o/a\n* pressure hull
+USS Carl R. Gray	shipBeam	1326.0
+USS Bold	shipBeam	1031.24
+USS Biscayne	shipBeam	maximum
+SS Nieuw Amsterdam	shipBeam	88.0
+USNS Albert J. Myer	shipBeam	14.3
+SMS Möwe	shipBeam	14.4 m
+TSS Manxman	shipBeam	{
+SM U-156	shipBeam	* \n*
+HMS Ledbury	shipBeam	9.6 m
+Peder Skram-class frigate	shipBeam	12 m
+HMS Una	shipBeam	4.90 m
+HMS Undaunted	shipBeam	4.90 m
+USS Christopher	shipBeam	1117.6
+HMS Unique	shipBeam	4.90 m
+HMS Upright	shipBeam	4.90 m
+USS Bostwick	shipBeam	1117.6
+USS Burrows	shipBeam	1117.6
+HMS Fly	shipBeam	oa
+HMS Urge	shipBeam	4.90 m
+HMS Usk	shipBeam	4.90 m
+HMS Utmost	shipBeam	4.90 m
+INS Ganga	shipBeam	14.5
+HMS Olympus	shipBeam	607.0600000000001
+Mod Kashin-class destroyer	shipBeam	15.8m
+MV Loch Shira	shipBeam	13.9 m
+HMS Varangian	shipBeam	4.90 m
+HMS Ultimatum	shipBeam	4.90 m
+Sandwich-class ship of the line	shipBeam	49.0
+HMS Ultor	shipBeam	4.90 m
+United States L-class submarine	shipBeam	*Group 1: \n*Group 2:
+United States N-class submarine	shipBeam	*N-1 to N-3: \n*N-4 to N-7:
+USS Topeka	shipBeam	at the waterline
+Ramillies-class ship of the line	shipBeam	*46 ft 9 in  \n*46 ft 11 in
+USS Jacob Jones	shipBeam	36.58
+USS Robert E. Peary	shipBeam	36.58
+USS Hammann	shipBeam	36.58
+USS Pillsbury	shipBeam	36.58
+USS Pope	shipBeam	36.58
+USS Flaherty	shipBeam	36.58
+USS Herbert C. Jones	shipBeam	36.58
+USS Douglas L. Howard	shipBeam	36.58
+USS Farquhar	shipBeam	36.58
+USS J.R.Y. Blakely	shipBeam	36.58
+USS Hill	shipBeam	36.58
+USS Fessenden	shipBeam	36.58
+USS Blair	shipBeam	36.58
+USS Chatelain	shipBeam	36.58
+USS Poole	shipBeam	36.58
+USS Sturtevant	shipBeam	36.58
+USS Moore	shipBeam	36.58
+USS Tomich	shipBeam	36.58
+USS J. Richard Ward	shipBeam	36.58
+Niagara	shipBeam	34
+USS Otterstetter	shipBeam	36.58
+USS Sloat	shipBeam	36.58
+USS Snowden	shipBeam	36.58
+USS Stanton	shipBeam	36.58
+SM U-40	shipBeam	* \n*
+USS Swasey	shipBeam	36.58
+USS Marchand	shipBeam	36.58
+USS Howard D. Crow	shipBeam	36.58
+USS Pettit	shipBeam	36.58
+USS Ricketts	shipBeam	36.58
+USS Harveson	shipBeam	36.58
+USS Sellstrom	shipBeam	36.58
+HMS Unbending	shipBeam	4.90 m
+USS Kretchmer	shipBeam	36.58
+USS Joyce	shipBeam	36.58
+USS Kirkpatrick	shipBeam	36.58
+USS Mosley	shipBeam	36.58
+USS Lowe	shipBeam	36.58
+USS Newell	shipBeam	36.58
+Kuang Hua VI-class missile boat	shipBeam	7.6  m
+USS Pride	shipBeam	36.58
+St Albans-class ship of the line	shipBeam	1351.2800000000002
+USS Falgout	shipBeam	36.58
+USS Koiner	shipBeam	36.58
+USS Price	shipBeam	36.58
+USS Strickland	shipBeam	36.58
+USS Roy O. Hale	shipBeam	36.58
+MEKO 140	shipBeam	11.1 m
+Tuima-class missile boat	shipBeam	7.7 m
+USS Martin H. Ray	shipBeam	36.58
+USS Ramsden	shipBeam	36.58
+HMS United	shipBeam	4.90 m
+HMS Universal	shipBeam	4.90 m
+USS Mills	shipBeam	36.58
+USS Rhodes	shipBeam	36.58
+USS Richey	shipBeam	36.58
+USS Calcaterra	shipBeam	36.58
+HMS Unseen	shipBeam	4.90 m
+HMS Unshaken	shipBeam	4.90 m
+HMS Unsparing	shipBeam	4.90 m
+USS Merrill	shipBeam	36.58
+USS Chambers	shipBeam	36.58
+USS Haverfield	shipBeam	36.58
+USS Swenning	shipBeam	36.58
+USS Janssen	shipBeam	36.58
+HMS Unswerving	shipBeam	4.90 m
+USS Cockrill	shipBeam	36.58
+USS Wilhoite	shipBeam	36.58
+USS Neunzer	shipBeam	36.58
+HMS Uproar	shipBeam	4.90 m
+HMS Upstart	shipBeam	4.90 m
+HMS Usurper	shipBeam	4.90 m
+HMS Uther	shipBeam	4.90 m
+HMS P38	shipBeam	4.90 m
+HMS P39	shipBeam	4.90 m
+Yankee	shipBeam	29.0
+Swift of Ipswich	shipBeam	18.2
+German submarine U-627	shipBeam	* o/a\n* pressure hull
+USS Cambria	shipBeam	2118.3599999999997
+USS Alvin C. Cockrell	shipBeam	1117.6
+USS Raymond	shipBeam	1117.6
+USS Robert Brazier	shipBeam	1117.6
+USS Edwin A. Howard	shipBeam	1117.6
+USS Key	shipBeam	1117.6
+USS Gentry	shipBeam	1117.6
+USS Traw	shipBeam	1117.6
+USS Maurice J. Manuel	shipBeam	1117.6
+USS Doyle C. Barnes	shipBeam	1117.6
+USS Kenneth M. Willett	shipBeam	1117.6
+USS Jaccard	shipBeam	1117.6
+USS Lloyd E. Acree	shipBeam	1117.6
+USS George E. Davis	shipBeam	1117.6
+USS Mack	shipBeam	1117.6
+USS Woodson	shipBeam	1117.6
+USS Johnnie Hutchins	shipBeam	1117.6
+USS Rolf	shipBeam	1117.6
+USS Pratt	shipBeam	1117.6
+USS Rombach	shipBeam	1117.6
+USS Yosemite	shipBeam	2235.2
+USS Sierra	shipBeam	2235.2
+USS French	shipBeam	1117.6
+USS John L. Williamson	shipBeam	1117.6
+USS Presley	shipBeam	1117.6
+Akademik Fyodorov	shipBeam	23.5
+USS Williams	shipBeam	1117.6
+USS Jack Miller	shipBeam	1117.6
+Russian destroyer Leytenant Zatsarenni	shipBeam	8.28 m
+USS Straus	shipBeam	1117.6
+USS La Prade	shipBeam	1117.6
+USS LeRay Wilson	shipBeam	1117.6
+USS Westchester County	shipBeam	1676.4
+INS Kesari	shipBeam	9.7 m
+Royal Oak-class ship of the line	shipBeam	1424.9399999999998
+Kuha-class minesweepers	shipBeam	6.9 m
+Kuha-class minesweeper	shipBeam	3.8 m
+Kiiski-class minesweeper	shipBeam	4 m
+Nuoli-class fast gunboat	shipBeam	6.6 m
+USS Sheehan	shipBeam	1117.6
+USS Oswald A. Powers	shipBeam	1117.6
+USS Groves	shipBeam	1117.6
+Courageux-class ship of the line	shipBeam	*Standard, Lengthened:\n*47 ft 9 in \n*Modified:\n*48 ft ¾ in
+USS Casco	shipBeam	maximum
+USS Yakutat	shipBeam	maximum
+USS Coos Bay	shipBeam	maximum
+USS Bering Strait	shipBeam	maximum
+USS Unimak	shipBeam	maximum
+USS Cook Inlet	shipBeam	maximum
+SS Munargo	shipBeam	*\n*
+Iosif Stalin-class passenger ship	shipBeam	18.30 m
+Worcester-class ship of the line	shipBeam	1356.3600000000001
+Dutch ship De Zeven Provinciën	shipBeam	40.0
+S-class torpedo boat	shipBeam	315.0
+Thomas Wilson	shipBeam	38.0
+Caledonia-class ship of the line	shipBeam	*\n*
+SM UB-33	shipBeam	* o/a\n* pressure hull
+USS Seize	shipBeam	.
+USS Seize	shipBeam	40
+SMS G39	shipBeam	8.33 m
+USS Valentine	shipBeam	50'
+MV Hebrides	shipBeam	15.8m
+MV Hebridean Isles	shipBeam	15.8 m
+USS Yankton	shipBeam	27.6
+SM U-38	shipBeam	* \n*
+USNS Asterion	shipBeam	.
+SM U-39	shipBeam	* \n*
+USS Mettawee	shipBeam	37.0
+USS Sakatonchee	shipBeam	37.0
+USS Pasquotank	shipBeam	37.0
+USS Sequatchie	shipBeam	37.0
+USS Sheepscot	shipBeam	37.0
+USS Calamus	shipBeam	37.0
+USS Gualala	shipBeam	37.0
+USS Escatawpa	shipBeam	37.0
+USS Chiwaukum	shipBeam	37.0
+USS Hiwassee	shipBeam	37.0
+USS Kalamazoo	shipBeam	37.0
+USS Kanawha	shipBeam	37.0
+USS Narraguagas	shipBeam	37.0
+USS Ochlockonee	shipBeam	37.0
+USS Ogeechee	shipBeam	37.0
+USS Ontonagon	shipBeam	37.0
+USS Ponchatoula	shipBeam	37.0
+USS Sacandaga	shipBeam	37.0
+USS Tetonkaha	shipBeam	37.0
+USS Tularosa	shipBeam	37.0
+USS Wakulla	shipBeam	37.0
+USS Yacona	shipBeam	37.0
+USS Waupaca	shipBeam	37.0
+SS Frosta	shipBeam	27 m
+Makassar-class landing platform dock	shipBeam	*22 meters\n*21.8 meters
+German submarine U-557	shipBeam	* o/a\n* pressure hull
+Fame-class ship of the line	shipBeam	*Fame:\n*47 ft 8 in \n*Rest of first batch:\n*47 ft 6 in \n*Second batch:\n*47 ft 9½ in
+Repulse-class ship of the line	shipBeam	1442.72
+Swiftsure-class ship of the line	shipBeam	1447.8
+SMS G40	shipBeam	8.33 m
+Vengeur-class ship of the line	shipBeam	1447.8
+USS Courser	shipBeam	est.
+USS Ostrich	shipBeam	746.76
+Georgiy Sedov	shipBeam	10.9 m
+HMS Duckworth	shipBeam	1120.1399999999999
+USS Alacrity	shipBeam	*\n*
+MV Southern Lily	shipBeam	20.79 m
+Soho-class frigate	shipBeam	15.5m
+Yugo-class submarine	shipBeam	2 m
+Sang-O-class submarine	shipBeam	3.8m
+Pourquoi-Pas	shipBeam	9.2 m
+German submarine U-301	shipBeam	* o/a\n* pressure hull
+RMS Albania	shipBeam	52.1
+George M. Verity	shipBeam	* \n*
+Lone Star	shipBeam	* \n* \n*
+HMS Prince	shipBeam	3
+USS Harvest Moon	shipBeam	29'
+RV Atlantis	shipBeam	29.0
+SAS President Kruger	shipBeam	41.0
+Jayasagara-class patrol craft	shipBeam	7.0
+Shaldag-class fast patrol boat	shipBeam	6.0
+USCGC Campbell	shipBeam	41.0
+USNS Mohawk	shipBeam	42.0
+Soviet submarine K-64	shipBeam	9.5
+MV Golden Nori	shipBeam	20.0
+SS Fürst Bismarck	shipBeam	55.1
+Ultra Fast Attack Craft	shipBeam	5.7
+HSwMS Orion	shipBeam	11.7 m
+Sacramento-class fast combat support ship	shipBeam	107.0
+Marcílio Dias-class destroyer	shipBeam	10.61 m
+Wide West	shipBeam	hull;  exclusive of  guards
+Fairmile B motor launch	shipBeam	*\n*except Canadian built at  or
+USS Vance	shipBeam	36.58
+USS Brough	shipBeam	36.58
+Rodney-class ship of the line	shipBeam	1658.6200000000001
+Tonnant-class ship of the line	shipBeam	15.3
+USS General M. L. Hersey	shipBeam	2179.3199999999997
+Vanguard-class ship of the line	shipBeam	1729.74
+USS Avenger	shipBeam	2400.0
+USS Azalea	shipBeam	1266.0
+USS Sweet Brier	shipBeam	1263.0
+USS Wamsutta	shipBeam	1568.0
+USS Granite City	shipBeam	23'
+Magicienne-class frigate	shipBeam	11.2
+Saint-Esprit-class ship of the line	shipBeam	14.9
+USS William Bacon	shipBeam	1560.0
+MV Celestyal Odyssey	shipBeam	or
+USS William Badger	shipBeam	1560.0
+USS Victoria	shipBeam	22'
+USS Winooski	shipBeam	2100.0
+USS Wyandank	shipBeam	1865.0
+USS G. W. Blunt	shipBeam	1206.0
+USS Wateree	shipBeam	2286.0
+Spanish ship Infanta	shipBeam	1562.1
+Spanish ship America	shipBeam	49
+Spanish ship Tigre	shipBeam	51.0
+Spanish ship Reyna	shipBeam	1480.82
+Spanish ship Conquestador	shipBeam	1318.26
+USS Laertes	shipBeam	1734.8200000000002
+USS Galatea	shipBeam	2106.0
+USS Dionysus	shipBeam	1734.8200000000002
+USS Gamage	shipBeam	1803.0
+USS Gamma	shipBeam	14'
+Spanish ship Princesa	shipBeam	1559.56
+Spanish ship Diligente	shipBeam	1518.92
+Spanish ship Monarca	shipBeam	1244.6000000000001
+USS General Burnside	shipBeam	26'
+Spanish ship Fenix	shipBeam	53
+Spanish ship San Miguel	shipBeam	49.0
+French ship Solitaire	shipBeam	13.2
+SS Kristianiafjord	shipBeam	61.2
+Leander-class cruiser	shipBeam	.
+HMS Leander	shipBeam	.
+HMS Amphion	shipBeam	.
+USS General Grant	shipBeam	26'
+USS General Thomas	shipBeam	26'
+USS George W. Rodgers	shipBeam	22'
+USS Geranium	shipBeam	1383.0
+USS Gertrude	shipBeam	21'
+USS Gladiolus	shipBeam	1086.0
+USS Glance	shipBeam	17'
+USS Glaucus	shipBeam	1082.04
+Steam Gun Boat	shipBeam	7.1 m
+Sea Witch	shipBeam	33
+USS Ammonoosuc	shipBeam	2644.0
+USS Guard	shipBeam	38'
+USS Harcourt	shipBeam	963.0
+USS Stiletto	shipBeam	666.0
+Stag Hound	shipBeam	39
+USS Henry Brinker	shipBeam	1567.0
+USS Hollyhock	shipBeam	1569.0
+Owasco-class cutter	shipBeam	max
+USCGC Owasco	shipBeam	1313.18
+Italian submarine Brin	shipBeam	6.7 m
+USS Hope	shipBeam	1209.0
+USS Huntress	shipBeam	1863.0
+USCGC Winnebago	shipBeam	43
+USCGC Chautauqua	shipBeam	1313.18
+USCGC Sebago	shipBeam	1313.18
+USCGC Klamath	shipBeam	1313.18
+USCGC Winona	shipBeam	1313.18
+USCGC Escanaba	shipBeam	1313.18
+USS Hydrangea	shipBeam	1203.0
+USCGC Wachusett	shipBeam	1313.18
+USCGC Iroquois	shipBeam	1313.18
+USS Tritonia	shipBeam	1324.0
+USS Cape Cod	shipBeam	85.0
+SS Oliver Ellsworth	shipBeam	57.0
+Tallapoosa-class cutter	shipBeam	32.0
+USCGC Tallapoosa	shipBeam	32.0
+USS Briareus	shipBeam	* as SS Hawaiian Planter\n*
+SS Gulfamerica	shipBeam	64.0
+USS Cythera	shipBeam	838.2
+Ersatz Yorck-class battlecruiser	shipBeam	1824.0
+USS Union	shipBeam	34.0
+USS St. Clair County	shipBeam	50.0
+USS Shawmut	shipBeam	1800.0
+USS Antietam	shipBeam	2760.0
+USS Winnipec	shipBeam	2100.0
+USS Shepherd Knapp	shipBeam	1988.0
+USS Shokokon	shipBeam	32'
+USS Sunnadin	shipBeam	30.0
+USS Sidney C. Jones	shipBeam	1620.0
+USS Siren	shipBeam	1923.0
+USS Sophronia	shipBeam	1684.0
+USS Sorrel	shipBeam	966.0
+USS Sumter	shipBeam	1684.0
+German submarine U-74	shipBeam	* o/a\n* pressure hull
+USS T. A. Ward	shipBeam	1682.0
+USS Ta-Kiang	shipBeam	1680.0
+USS Tensas	shipBeam	1325.0
+USS Trefoil	shipBeam	1389.0
+HMS Victory	shipBeam	, later raised  to
+USS Verbena	shipBeam	1026.0
+USS Violet	shipBeam	1149.0
+HMS Triumph	shipBeam	* initially;\n* eventually
+USS Virginia	shipBeam	1562.0
+SS Dunraven	shipBeam	9.8 m
+SS Clan Alpine	shipBeam	53.5
+Richmond-class frigate	shipBeam	* \n*
+HMS Dragon	shipBeam	* \n*
+HMS Glatton	shipBeam	* at bulge\n* at main hull
+USS LST-247	shipBeam	50.0
+SS David C. Reid	shipBeam	54.0
+Igara wreck	shipBeam	40.8m
+USS Congress	shipBeam	2050.0
+RRS Discovery	shipBeam	14.0 m
+MSC Sinfonia	shipBeam	*\n*
+Wichita-class replenishment oiler	shipBeam	96.0
+Preneuse-class frigate	shipBeam	11.9
+Terrible-class ship of the line	shipBeam	16.2
+Centaure-class ship of the line	shipBeam	* ;\n*
+Magnifique-class ship of the line	shipBeam	14.0
+Séduisant-class ship of the line	shipBeam	14.2
+Virginie-class frigate	shipBeam	11.9
+SS St. Sunniva	shipBeam	30.0
+King & Winge	shipBeam	19.6
+USRC Active	shipBeam	525.78
+USRC Scammel	shipBeam	15.8
+First ten Revenue Service cutters	shipBeam	~25 ft
+USRC Eagle	shipBeam	533.4
+USRC Argus	shipBeam	495.3
+USRC Virginia	shipBeam	533.4
+SS Scharnhorst	shipBeam	17 m
+USS Menard	shipBeam	62.0
+USS Menifee	shipBeam	62.0
+USS Meriwether	shipBeam	62.0
+USS Sarasota	shipBeam	62.0
+USS Sibley	shipBeam	62.0
+USS Tazewell	shipBeam	62.0
+USS Thomason	shipBeam	37.0
+USS Telfair	shipBeam	62.0
+USS Montrose	shipBeam	62.0
+EML Sakala	shipBeam	10.5 m
+EML Admiral Cowan	shipBeam	10.5 m
+USS Mountrail	shipBeam	62.0
+USS Natrona	shipBeam	62.0
+USS Okaloosa	shipBeam	62.0
+USS Oneida	shipBeam	62.0
+USS Rawlins	shipBeam	62.0
+USS San Saba	shipBeam	62.0
+USS Navarro	shipBeam	62.0
+USS Bronx	shipBeam	62.0
+SS Camorta	shipBeam	35.2
+USS Bowditch	shipBeam	53'
+USS Noble	shipBeam	62.0
+USS Okanogan	shipBeam	62.0
+USS Bingham	shipBeam	62.0
+USS Renville	shipBeam	62.0
+USS Rockwall	shipBeam	62.0
+USS Sevier	shipBeam	62.0
+USS Bollinger	shipBeam	62.0
+USS Bottineau	shipBeam	62.0
+USS Bexar	shipBeam	62.0
+USS Dane	shipBeam	62.0
+USS Glynn	shipBeam	62.0
+USS General Putnam	shipBeam	28'
+USS Satellite	shipBeam	723.0
+German submarine U-214	shipBeam	* o/a\n* pressure hull
+USS Arayat	shipBeam	3120.0
+USS Samar	shipBeam	543.56
+USS Carlinville	shipBeam	23'
+Ukrainian corvette Ternopil	shipBeam	10.15 m
+EML Sulev	shipBeam	8.3 m
+EML Wambola	shipBeam	8.3 m
+USS Warren	shipBeam	63.0
+EML Vaindlo	shipBeam	8.2 m
+EML Olev	shipBeam	8.2 m
+USS Wayne	shipBeam	63.0
+USS Baxter	shipBeam	63.0
+USS Mohave	shipBeam	24'
+MV True North	shipBeam	10 m
+HSC Our Lady Patricia	shipBeam	11.8 m
+Sumter-class attack transport	shipBeam	63.0
+USS California	shipBeam	10.3
+USS Mississippi	shipBeam	10.3
+USS Frederick Funston	shipBeam	2118.3599999999997
+USS Leedstown	shipBeam	66.0
+USS Adair	shipBeam	66.0
+USS Dutchess	shipBeam	66.0
+SM UB-46	shipBeam	* o/a\n* pressure hull
+USS Shelby	shipBeam	66.0
+USS Griggs	shipBeam	2118.3599999999997
+USS Grundy	shipBeam	2118.3599999999997
+USS Ormsby	shipBeam	63.0
+USS Pierce	shipBeam	63.0
+SS Hansa	shipBeam	7.8 m
+USS Charles Carroll	shipBeam	1996.44
+USS Harris	shipBeam	2204.72
+USS Leonard Wood	shipBeam	2204.72
+SS President Roosevelt	shipBeam	2204.72
+USS Hunter Liggett	shipBeam	2204.72
+USS Henry T. Allen	shipBeam	2204.72
+USS Barnett	shipBeam	1943.1
+Kwa-di Tabil-class ferry	shipBeam	64'
+USS William P. Biddle	shipBeam	56.0
+McCawley-class attack transport	shipBeam	~
+SMS Rostock	shipBeam	1
+HMS G8	shipBeam	6.92 m
+SCF Sakhalin	shipBeam	* \n*
+Arthur Middleton-class attack transport	shipBeam	~
+Admiral Makarov	shipBeam	* \n*
+USNS Kiska	shipBeam	81.0
+Olympian	shipBeam	over paddle guards
+Motor Torpedo Boat PT-346	shipBeam	23.0
+German submarine U-745	shipBeam	* o/a\n* pressure hull
+German submarine U-455	shipBeam	* o/a\n* pressure hull
+Altona	shipBeam	as built;  as reconstructed.
+USS William Ward Burrows	shipBeam	53.0
+German submarine U-701	shipBeam	* o/a\n* pressure hull
+SS William Rockefeller	shipBeam	75.0
+Sebbe Als	shipBeam	2.5 m
+Wyuna	shipBeam	11.91m
+Point-class cutter	shipBeam	max
+USS Mount Vernon	shipBeam	86.0
+SS Santa Teresa	shipBeam	1569.72
+USS U. S. Grant	shipBeam	1684.02
+Gorgon-class monitor	shipBeam	* at bulge\n* at main hull
+USS Chateau Thierry	shipBeam	58.0
+South Africa Marine Corps	shipBeam	2.5 m
+USS Hermitage	shipBeam	2014.22
+USS Thurston	shipBeam	63.0
+Greyhound	shipBeam	,  over guards
+USNS Fred C. Ainsworth	shipBeam	2118.3599999999997
+USNS George W. Goethals	shipBeam	2118.3599999999997
+USNS Henry Gibbins	shipBeam	70.0
+USS Belle Grove	shipBeam	2199.64
+USNS Aiken Victory	shipBeam	62.0
+USNS Lt. Raymond O. Beaudoin	shipBeam	62.0
+HMS Flora	shipBeam	1508.76
+Santa Catarina do Monte Sinai	shipBeam	13 m
+Atlantic Salvor	shipBeam	molded breadth
+USAT John L. Clem	shipBeam	1559.56
+USS Underwriter	shipBeam	22'
+USNS David C. Shanks	shipBeam	2118.3599999999997
+USS Lindenwald	shipBeam	2199.64
+USS Oak Hill	shipBeam	2199.64
+SS Fort La Montee	shipBeam	57.0
+USS White Marsh	shipBeam	2199.64
+USS Mizpah	shipBeam	27.0
+German submarine U-54	shipBeam	* o/a\n* pressure hull
+German submarine U-116	shipBeam	* o/a\n* pressure hull
+German submarine U-122	shipBeam	* o/a\n* pressure hull
+German submarine U-184	shipBeam	* o/a\n* pressure hull
+German submarine U-246	shipBeam	* o/a\n* pressure hull
+German submarine U-338	shipBeam	* o/a\n* pressure hull
+German submarine U-355	shipBeam	* o/a\n* pressure hull
+German submarine U-381	shipBeam	* o/a\n* pressure hull
+German submarine U-376	shipBeam	* o/a\n* pressure hull
+German submarine U-519	shipBeam	* o/a\n* pressure hull
+German submarine U-240	shipBeam	* o/a\n* pressure hull
+German submarine U-420	shipBeam	* o/a\n* pressure hull
+German submarine U-398	shipBeam	* o/a\n* pressure hull
+Idaho	shipBeam	;after 1869 rebuild:
+USS Vixen	shipBeam	853.44
+USS Hatteras	shipBeam	52'
+USS Hippocampus	shipBeam	664.0
+USS Hurst	shipBeam	or
+W. P. Snyder Jr.	shipBeam	* \n*
+SS Dakota	shipBeam	molded
+German submarine U-101	shipBeam	* o/a\n* pressure hull
+Willamette Chief	shipBeam	; after rebuild:
+MV Greenpeace	shipBeam	11.22 m
+João Coutinho-class corvette	shipBeam	10.3 m
+USS Princess Matoika	shipBeam	1918
+USS Almax II	shipBeam	671.0
+USS Catamount	shipBeam	2199.64
+PS Washington Irving	shipBeam	* BOA\n* molded
+USS Colonial	shipBeam	2199.64
+ST Leukos	shipBeam	21.0
+SS Asbury Park	shipBeam	as ferry :  over hull;   over guards.
+USS Comstock	shipBeam	2199.64
+German submarine U-479	shipBeam	* o/a\n* pressure hull
+Red Jacket	shipBeam	44
+SS Eaglescliffe Hall	shipBeam	43.0
+SY Gondola	shipBeam	15.0
+SS Winona	shipBeam	55.0
+USS Fort Marion	shipBeam	2199.64
+German submarine U-46	shipBeam	* o/a\n* pressure hull
+RMS Empress of China	shipBeam	51.2
+RMS Empress of India	shipBeam	51.2
+USS Whetstone	shipBeam	2199.64
+German submarine U-81	shipBeam	* \n*
+SM U-86	shipBeam	* \n*
+USS Rushmore	shipBeam	2199.64
+SS Laurentic	shipBeam	75.4
+USNS Carl Brashear	shipBeam	* extreme,\n* waterline
+USNS Wally Schirra	shipBeam	* extreme,\n* waterline
+HSwMS Trossö	shipBeam	12.8m
+HSwMS Visborg	shipBeam	14.7m
+HSwMS Belos	shipBeam	18.0m
+USS Walter B. Cobb	shipBeam	1122.68
+SS Prinz Friedrich Wilhelm	shipBeam	68.3
+USS Sylph	shipBeam	20.0
+SM U-90	shipBeam	* \n*
+Olympia-class cruiser	shipBeam	53.0
+RMS Empress of France	shipBeam	72.4
+SS Stevens	shipBeam	66
+MS Allure of the Seas	shipBeam	* waterline\n* max beam
+MS Oasis of the Seas	shipBeam	* waterline\n* max beam
+USS Auburn	shipBeam	54.0
+SS Exochorda	shipBeam	66
+Tek Sing	shipBeam	10.0m
+Tarmo	shipBeam	* \n*
+German submarine U-651	shipBeam	* o/a\n* pressure hull
+German submarine U-404	shipBeam	* o/a\n* pressure hull
+HMS Imperieuse	shipBeam	11.7
+USCGC Ocracoke	shipBeam	21.0
+German submarine U-564	shipBeam	* o/a\n* pressure hull
+SS Ausonia	shipBeam	70.0
+INS Varuna	shipBeam	8.5 m
+MF Storegut	shipBeam	11.31 m
+MS King Cruiser	shipBeam	25m
+SF Rjukanfoss	shipBeam	10.0
+German submarine U-380	shipBeam	* total\n* pressure hull
+MV Princess of the Stars	shipBeam	28 m
+SS Mohegan	shipBeam	52.0
+Marinefährprahm	shipBeam	6.55m
+USS Chincoteague	shipBeam	maximum
+Bacolod City-class logistics support vessel	shipBeam	with ramp folded
+USS Vedette	shipBeam	1560.0
+USS Sultana	shipBeam	27'
+USS Christabel	shipBeam	22'
+USS Emeline	shipBeam	24'
+USS Corona	shipBeam	1383.0
+USS Harvard	shipBeam	32'
+USS Felicia	shipBeam	1201.0
+USS Florence	shipBeam	1083.0
+USS Fort Wayne	shipBeam	64'
+HTMS Naresuan	shipBeam	13.7 m
+USS Bab	shipBeam	481.0
+USS Bali	shipBeam	3248.0
+USS Idaho	shipBeam	726.0
+USS Halcyon II	shipBeam	1083.0
+USS Halcyon	shipBeam	724.0
+USS Wacondah	shipBeam	17'
+Joseph H. Scammell	shipBeam	39.2
+USS Ice King	shipBeam	52'
+USS Pontiac	shipBeam	27'
+USS J. B. Walker	shipBeam	2524.0
+USS J. M. Guffey	shipBeam	2402.0
+USS Idealia	shipBeam	788.0
+SS Catalina	shipBeam	* moulded, main deck\n* waterline
+USS Castle Rock	shipBeam	maximum
+USS Acoma	shipBeam	668.0
+USS California	shipBeam	22'
+USS Inca	shipBeam	611.0
+USS Inca	shipBeam	20'
+USCGC Point Welcome	shipBeam	max
+USS Inca	shipBeam	28'
+USS Ionita	shipBeam	8'
+USS Idylease	shipBeam	786.0
+USS Lyndonia	shipBeam	1204.0
+USS Lydonia	shipBeam	26.0
+USS Montauk	shipBeam	26'
+USS Montauk	shipBeam	19'
+USS Barnegat	shipBeam	27'
+USS Minnesota	shipBeam	10.3
+Soviet aircraft carrier Novorossiysk	shipBeam	* o/a\n* w/l
+USS Wenonah	shipBeam	1330.0
+USS Wenonah	shipBeam	25'
+USS Joseph F. Bellows	shipBeam	24'
+USS Galatea	shipBeam	24'
+USS Concord	shipBeam	26'
+USS Arcturus	shipBeam	966.0
+USS Helenita	shipBeam	21'
+USS Helenita	shipBeam	668.0
+USS Utowana	shipBeam	1629.0
+USS Favorite	shipBeam	43'
+USS Snowbell	shipBeam	37'
+USS ATA-214	shipBeam	2047.0
+German submarine U-73	shipBeam	* o/a\n* pressure hull
+HSwMS Helsingborg	shipBeam	10.4 m
+USS Sarsi	shipBeam	2286.0
+USS Spitfire	shipBeam	1506.0
+USS Torch	shipBeam	1560.0
+USS Spark	shipBeam	1504.0
+USS Maartensdijk	shipBeam	3121.0
+USS ATA-215	shipBeam	2047.0
+USS Hoptree	shipBeam	37'
+USS Chinaberry	shipBeam	37'
+USS Terebinth	shipBeam	37'
+USS Viburnum	shipBeam	2047.0
+USS Arapaho	shipBeam	2286.0
+USS Winterberry	shipBeam	2047.0
+SS Sagamore	shipBeam	11.6 m
+USS Manchineel	shipBeam	2047.0
+USS Spicewood	shipBeam	2047.0
+USS Papaya	shipBeam	37'
+USS Mastic	shipBeam	37'
+USS Corkwood	shipBeam	37'
+USS Cornel	shipBeam	37'
+USS Satinleaf	shipBeam	37'
+USS Cliffrose	shipBeam	37'
+USS Stagbush	shipBeam	37'
+USS Baretta	shipBeam	37'
+Namacurra-class harbour patrol boat	shipBeam	2.5 m
+USS Bitterbush	shipBeam	2047.0
+USCGC Mohawk	shipBeam	36.0
+USS Teak	shipBeam	1806.0
+Stratford-class transport	shipBeam	1325.88
+German submarine U-714	shipBeam	* o/a\n* pressure hull
+SM U-53	shipBeam	* \n*
+USS Teaberry	shipBeam	1806.0
+USS Nutmeg	shipBeam	1806.0
+Spanish submarine C-3	shipBeam	6.3
+USS Redwood	shipBeam	1806.0
+USS Hazel	shipBeam	546.0
+USS Hazel	shipBeam	1806.0
+USS Palm	shipBeam	1806.0
+HMS Seahorse	shipBeam	*Royal Navy:  \n*After rebuild:
+USS Mango	shipBeam	1806.0
+USS Mahogany	shipBeam	6\
+USS Larch	shipBeam	1806.0
+USS Elder	shipBeam	1806.0
+USS Holly	shipBeam	24'
+USS Holly	shipBeam	1806.0
+SS Ville du Havre	shipBeam	14.08
+USS Gum Tree	shipBeam	1806.0
+USS Buckeye	shipBeam	1806.0
+German submarine U-402	shipBeam	* o/a\n* pressure hull
+German submarine U-510	shipBeam	* o/a\n* pressure hull
+USS Cinchona	shipBeam	1806.0
+USS Chestnut	shipBeam	1806.0
+USS Catalpa	shipBeam	1806.0
+USS Boxwood	shipBeam	1806.0
+USS Ash	shipBeam	929.64
+NLV Pharos	shipBeam	16.5 m
+USS Aloe	shipBeam	1806.0
+USS Pinon	shipBeam	37'
+USS Shellbark	shipBeam	37.0
+Stag	shipBeam	22.4
+USS Silverleaf	shipBeam	37'
+USS ATA-216	shipBeam	2047.0
+Kings County	shipBeam	45
+THV Galatea	shipBeam	16.5 m
+USS ATA-217	shipBeam	2047.0
+USS ATA-218	shipBeam	2047.0
+Portland	shipBeam	* hull;\n* across wheel guards
+USS San Diego	shipBeam	79'
+SS James Eagan Layne	shipBeam	57.0
+USS Menemsha	shipBeam	2586.0
+USS Midway	shipBeam	1988.0
+SS Point Bonita	shipBeam	44'
+USS Majaba	shipBeam	2641.0
+USS Malanao	shipBeam	40'
+USS Taganak	shipBeam	44'
+USS Tuluran	shipBeam	2586.0
+MV Mississippi	shipBeam	58.0
+USS Manhasset	shipBeam	40'
+USS Muskeget	shipBeam	1224.28
+USS Besboro	shipBeam	44'
+USS Antaeus	shipBeam	61'
+USNS Dahl	shipBeam	106.0
+USS Basilan	shipBeam	57'
+USS Burias	shipBeam	3371.0
+USS Belle Isle	shipBeam	3371.0
+USS Coasters Harbor	shipBeam	3971.0
+USS Cuttyhunk Island	shipBeam	57'
+USS Avery Island	shipBeam	57'
+USS Indian Island	shipBeam	57'
+USS Camano	shipBeam	33.0
+USS Deal	shipBeam	33'
+USS Elba	shipBeam	33'
+USS Errol	shipBeam	33'
+USS Jekyl	shipBeam	33'
+USS Humboldt	shipBeam	maximum
+USS Matagorda	shipBeam	maximum
+USS Rockaway	shipBeam	maximum
+USS Metomkin	shipBeam	32'
+Type 139 patrol trawler	shipBeam	27
+USS Roque	shipBeam	33'
+USS Ryer	shipBeam	33'
+USS Sharps	shipBeam	33'
+USS Whidbey	shipBeam	33'
+USS Nashawena	shipBeam	36'
+USS Hewell	shipBeam	32.0
+HMT Amethyst	shipBeam	802.64
+Tree-class trawler	shipBeam	843.2800000000001
+USS Electron	shipBeam	50'
+USS Proton	shipBeam	50'
+USS Colington	shipBeam	50'
+USS League Island	shipBeam	50'
+USS League Island	shipBeam	29'
+USS Chimon	shipBeam	50'
+USNS Range Tracker	shipBeam	3722.0
+USNS Range Recoverer	shipBeam	32'
+SM U-137	shipBeam	* o/a\n* pressure hull
+German submarine U-137	shipBeam	* \n*
+USNS Huntsville	shipBeam	62'
+USNS Wheeling	shipBeam	3722.0
+USNS Rose Knot	shipBeam	3004.0
+USNS Timber Hitch	shipBeam	3004.0
+USNS Sampan Hitch	shipBeam	3004.0
+SS Benwood	shipBeam	51.0
+HMS Sans Pareil	shipBeam	15.3
+USNS Phoenix	shipBeam	62'
+USNS Provo	shipBeam	62'
+USNS Cheyenne	shipBeam	62'
+USNS Shearwater	shipBeam	32.0
+USNS Robert D. Conrad	shipBeam	40'
+USNS James M. Gilliss	shipBeam	40'
+USNS Sands	shipBeam	40'
+USNS Lynch	shipBeam	40'
+USS Lee	shipBeam	963.0
+USNS Eltanin	shipBeam	52'
+USNS Thomas G. Thompson	shipBeam	40'
+USNS Thomas Washington	shipBeam	40'
+USNS De Steiguer	shipBeam	46'
+USNS Bartlett	shipBeam	46'
+USNS Hayes	shipBeam	75'
+USNS Gyre	shipBeam	36'
+RV Pacific Escort I	shipBeam	33'
+USS Lookout	shipBeam	57'
+USS Skywatcher	shipBeam	57'
+USS Searcher	shipBeam	3371.0
+USS Locator	shipBeam	3371.0
+USS Interceptor	shipBeam	3371.0
+USS Investigator	shipBeam	3371.0
+German submarine U-1195	shipBeam	* o/a\n* pressure hull
+USS Outpost	shipBeam	59'
+USS Protector	shipBeam	59'
+USS Vigil	shipBeam	59'
+USS Interdictor	shipBeam	59'
+USS Interpreter	shipBeam	59'
+USS Tracer	shipBeam	59'
+USS Watchman	shipBeam	59'
+USNS Effective	shipBeam	94'
+USNS Loyal	shipBeam	94'
+MV Cory Chouest	shipBeam	60'
+Maltese patrol boat P29	shipBeam	7.12
+USNS Courier	shipBeam	73.0
+USNS Sisler	shipBeam	106.0
+USNS Watson	shipBeam	106.0
+USNS Soderman	shipBeam	106.0
+USNS Pomeroy	shipBeam	106.0
+USNS Watkins	shipBeam	106.0
+USNS Charlton	shipBeam	106.0
+USNS Red Cloud	shipBeam	106.0
+Russian submarine Pochtovy	shipBeam	3.0 m
+USS Lancaster	shipBeam	3426.0
+USS Beaufort	shipBeam	900.0
+USS Beaufort	shipBeam	1446.0
+USNS Silas Bent	shipBeam	48'
+USS Kittaton	shipBeam	25'
+USS Tensaw	shipBeam	25'
+SS City of Peking	shipBeam	1442.72
+SS City of Tokio	shipBeam	1442.72
+USS Muscatine	shipBeam	52'
+Japanese submarine I-202	shipBeam	* pressure hull\n* max. across stern fins
+USS Richland	shipBeam	124'
+Alligator-class landing ship	shipBeam	– beam
+USS Sussex	shipBeam	1026.0
+HMS Hilary	shipBeam	1714.5
+USCGC Point Countess	shipBeam	max
+MV Iran Deyanat	shipBeam	29.01
+Johanna Lucretia	shipBeam	5.5
+SM U-104	shipBeam	* \n*
+Paddle steamer Genève	shipBeam	13.95 m
+USS O'Reilly	shipBeam	36.58
+Jason-class tank landing ship	shipBeam	15.3
+German submarine U-84	shipBeam	* o/a\n* pressure hull
+SS Orcades	shipBeam	90.6
+SS Orcades	shipBeam	17.7 m
+Ronis-class submarine	shipBeam	4.80 m
+HMS Investigator	shipBeam	*HMS: \n*Hulk:
+SM UC-42	shipBeam	* o/a\n* pressure hull
+INS Khukri	shipBeam	10.5
+Griffon 2000TD hovercraft	shipBeam	5.9
+Yavuz-class frigate	shipBeam	13.25 m
+French corvette Revenant	shipBeam	9.0
+Hydra-class frigate	shipBeam	14.8 m
+USS Wachapreague	shipBeam	maximum
+USS Willoughby	shipBeam	maximum
+German submarine U-44	shipBeam	* o/a\n* pressure hull
+French frigate Minerve	shipBeam	11.58 m
+Sibylle-class frigate	shipBeam	11.2
+USS Half Moon	shipBeam	maximum
+German Type U 66 submarine	shipBeam	* \n*
+Osetr-class submarine	shipBeam	3.6 m
+Buyan-class corvette	shipBeam	* \n*
+North Star	shipBeam	after reconstruction:
+SS Guglielmo Marconi	shipBeam	2870.2
+MV Ranga	shipBeam	15.0m
+Ruotsinsalmi-class minelayer	shipBeam	7.9 m
+USS Washington	shipBeam	Probably  moulded
+Kotor-class frigate	shipBeam	768.0
+L 20 α-class battleship	shipBeam	33.5 m
+USS Barataria	shipBeam	maximum
+German submarine U-778	shipBeam	* o/a\n* pressure hull
+Natya-class minesweeper	shipBeam	10.2
+Yurka-class minesweeper	shipBeam	9.4
+T43-class minesweeper	shipBeam	8.5
+T58-class minesweeper	shipBeam	9.0
+Vanya-class minesweeper	shipBeam	7.9
+Sonya-class minesweeper	shipBeam	8.8
+Yevgenya-class minesweeper	shipBeam	5.9
+Zhenya-class minesweeper	shipBeam	7.9
+Sasha-class minesweeper	shipBeam	6.2
+Komar-class missile boat	shipBeam	6.24 m
+Stenka-class patrol boat	shipBeam	7.64 m
+Shershen-class torpedo boat	shipBeam	6.72 m
+Turya-class torpedo boat	shipBeam	7.6 m
+Sarancha-class missile boat	shipBeam	31.31 m
+French corvette Var	shipBeam	Ship hod depth=
+Muravey-class patrol boat	shipBeam	7.6 m
+German submarine U-558	shipBeam	* o/a\n* pressure hull
+Sigyn	shipBeam	9 m
+Ivan Susanin-class icebreaker	shipBeam	18.3 m
+SS Aquarama	shipBeam	71
+MS Augustus	shipBeam	25.20 m
+SM U-66	shipBeam	* \n*
+SM U-69	shipBeam	* \n*
+German submarine U-466	shipBeam	* o/a\n* pressure hull
+SM U-67	shipBeam	* \n*
+SM U-70	shipBeam	* \n*
+MS Augustus	shipBeam	1596.0
+Pennsylvania-class steamship	shipBeam	43.0
+SS Pennsylvania	shipBeam	43.0
+SS Ohio	shipBeam	43.0
+SS Indiana	shipBeam	43.0
+SS Illinois	shipBeam	43.0
+USS Supply	shipBeam	1320.8000000000002
+HMS Cornwallis	shipBeam	, or
+USCGC Mobile Bay	shipBeam	37.5
+USCGC Sturgeon Bay	shipBeam	37.5
+RV Wecoma	shipBeam	33.0
+HMT Firefly	shipBeam	7.5 m
+USS PC-1181	shipBeam	23.0
+USS PC-496	shipBeam	23.0
+Patrulleros de Zona Marítima	shipBeam	13.0
+SM U-64	shipBeam	* \n*
+SS Roma	shipBeam	25.20 m
+Italian aircraft carrier Sparviero	shipBeam	29.4 m
+German submarine U-1206	shipBeam	* o/a\n* pressure hull
+PGM-1-class motor gunboat	shipBeam	23.0
+USS SC-521	shipBeam	17.0
+MS Giulio Cesare	shipBeam	1596.0
+Bristol	shipBeam	, over guards 83 ft
+Providence	shipBeam	48
+German submarine U-157	shipBeam	* o/a\n* pressure hull
+French frigate Clorinde	shipBeam	, or
+HSC Our Lady Pamela	shipBeam	11.8 m
+HSC FastCat Shanklin	shipBeam	10.10 m
+HSC FastCat Ryde	shipBeam	10.10 m
+EML Ugandi	shipBeam	10.5 m
+USNS Matthew Perry	shipBeam	* extreme,\n* waterline
+Roussen-class fast attack craft	shipBeam	9.5 m
+Ukuru-class escort ship	shipBeam	29.1
+MV Bute	shipBeam	15.3 m
+Vidar Viking	shipBeam	18.0
+SS Bessemer	shipBeam	* \n*
+Sōya	shipBeam	* \n*
+Chidori-class torpedo boat	shipBeam	*\n* w/ bulges
+German submarine U-486	shipBeam	* o/a\n* pressure hull
+German submarine U-377	shipBeam	* o/a\n* pressure hull
+SM UB-47	shipBeam	* o/a\n* pressure hull
+SM UB-43	shipBeam	* o/a\n* pressure hull
+SM UB-45	shipBeam	* o/a\n* pressure hull
+SM UB-44	shipBeam	* o/a\n* pressure hull
+SM UB-42	shipBeam	* o/a\n* pressure hull
+Brazilian battleship Minas Geraes	shipBeam	83.0
+Design 1047 battlecruiser	shipBeam	* \n*
+SM UB-19	shipBeam	* o/a\n* pressure hull
+SM UB-18	shipBeam	* o/a\n* pressure hull
+SM UB-22	shipBeam	* o/a\n* pressure hull
+SM UB-20	shipBeam	* o/a\n* pressure hull
+SM UB-21	shipBeam	* o/a\n* pressure hull
+SM UB-23	shipBeam	* o/a\n* pressure hull
+SM UB-29	shipBeam	* o/a\n* pressure hull
+SM UB-26	shipBeam	* o/a\n* pressure hull
+SM UB-28	shipBeam	* o/a\n* pressure hull
+SM UB-24	shipBeam	* o/a\n* pressure hull
+SM UB-25	shipBeam	* o/a\n* pressure hull
+SM UB-27	shipBeam	* o/a\n* pressure hull
+German submarine U-1018	shipBeam	* o/a\n* pressure hull
+SM UB-30	shipBeam	* o/a\n* pressure hull
+SM UB-34	shipBeam	* o/a\n* pressure hull
+SM UB-31	shipBeam	* o/a\n* pressure hull
+SM UB-35	shipBeam	* o/a\n* pressure hull
+SM UB-36	shipBeam	* o/a\n* pressure hull
+SM UB-37	shipBeam	* o/a\n* pressure hull
+SM UB-38	shipBeam	* o/a\n* pressure hull
+SM UB-41	shipBeam	* o/a\n* pressure hull
+SM UB-39	shipBeam	* o/a\n* pressure hull
+SM UB-40	shipBeam	* o/a\n* pressure hull
+SM UB-32	shipBeam	* o/a\n* pressure hull
+SM UC-19	shipBeam	* o/a\n* pressure hull
+SM UC-16	shipBeam	* o/a\n* pressure hull
+SM UC-18	shipBeam	* o/a\n* pressure hull
+SM UC-17	shipBeam	* o/a\n* pressure hull
+SM UC-20	shipBeam	* o/a\n* pressure hull
+SM UC-24	shipBeam	* o/a\n* pressure hull
+SM UC-22	shipBeam	* o/a\n* pressure hull
+SM UC-23	shipBeam	* o/a\n* pressure hull
+SM UC-21	shipBeam	* o/a\n* pressure hull
+SM UC-26	shipBeam	* o/a\n* pressure hull
+SM UC-25	shipBeam	* o/a\n* pressure hull
+SM UC-27	shipBeam	* o/a\n* pressure hull
+SM UC-28	shipBeam	* o/a\n* pressure hull
+SM UC-30	shipBeam	* o/a\n* pressure hull
+SM UC-32	shipBeam	* o/a\n* pressure hull
+SM UC-31	shipBeam	* o/a\n* pressure hull
+SM UC-33	shipBeam	* o/a\n* pressure hull
+SM UC-36	shipBeam	* o/a\n* pressure hull
+SM UC-39	shipBeam	* o/a\n* pressure hull
+SM UC-37	shipBeam	* o/a\n* pressure hull
+SM UC-38	shipBeam	* o/a\n* pressure hull
+SM UC-35	shipBeam	* o/a\n* pressure hull
+SM UC-43	shipBeam	* o/a\n* pressure hull
+SM UC-45	shipBeam	* o/a\n* pressure hull
+SM UC-40	shipBeam	* o/a\n* pressure hull
+SM UC-44	shipBeam	* o/a\n* pressure hull
+SM UC-46	shipBeam	* o/a\n* pressure hull
+SM UC-50	shipBeam	* o/a\n* pressure hull
+SM UC-51	shipBeam	* o/a\n* pressure hull
+SM UC-49	shipBeam	* o/a\n* pressure hull
+SM UC-48	shipBeam	* o/a\n* pressure hull
+SM UC-47	shipBeam	* o/a\n* pressure hull
+SM UC-54	shipBeam	* o/a\n* pressure hull
+SM UC-52	shipBeam	* o/a\n* pressure hull
+SM UC-53	shipBeam	* o/a\n* pressure hull
+HMS St Jean d'Acre	shipBeam	extreme
+SM UC-60	shipBeam	* o/a\n* pressure hull
+SM UC-56	shipBeam	* o/a\n* pressure hull
+SM UC-55	shipBeam	* o/a\n* pressure hull
+SM UC-59	shipBeam	* o/a\n* pressure hull
+SM UC-57	shipBeam	* o/a\n* pressure hull
+SM UC-58	shipBeam	* o/a\n* pressure hull
+SM UC-61	shipBeam	* o/a\n* pressure hull
+SM UC-62	shipBeam	* o/a\n* pressure hull
+SM UC-64	shipBeam	* o/a\n* pressure hull
+SM UC-63	shipBeam	* o/a\n* pressure hull
+SM UC-68	shipBeam	* o/a\n* pressure hull
+SM UC-69	shipBeam	* o/a\n* pressure hull
+SM UC-70	shipBeam	* o/a\n* pressure hull
+SM UC-67	shipBeam	* o/a\n* pressure hull
+SM UC-65	shipBeam	* o/a\n* pressure hull
+SM UC-66	shipBeam	* o/a\n* pressure hull
+SM UC-73	shipBeam	* o/a\n* pressure hull
+SM UC-72	shipBeam	* o/a\n* pressure hull
+SM UC-71	shipBeam	* o/a\n* pressure hull
+SM UC-74	shipBeam	* o/a\n* pressure hull
+SM UC-75	shipBeam	* o/a\n* pressure hull
+SM UC-76	shipBeam	* o/a\n* pressure hull
+SM UC-79	shipBeam	* o/a\n* pressure hull
+SM UC-77	shipBeam	* o/a\n* pressure hull
+SM UC-78	shipBeam	* o/a\n* pressure hull
+German submarine U-138	shipBeam	* \n*
+TID-class tug	shipBeam	17.0
+USS Charlton Hall	shipBeam	or
+Wolf-class destroyer	shipBeam	6.6m
+USS Mistletoe	shipBeam	26.0
+USS Mistletoe	shipBeam	32.0
+Dale-class oiler	shipBeam	*Abbeydale, Arndale and Aldersdale: \n*Bishopdale: \n*Boardale and Broomdale:
+Dale-class oiler	shipBeam	*Darkdale, Denbydale, Derwentdale, Dewdale, Ennerdale and Echodale: \n*Dingledale, Dinsdale, Eaglesdale and Easedale:
+Dale-class tanker	shipBeam	*Derwentdale: \n*Dewdale: \n*Ennerdale:
+USS Fort Worth	shipBeam	58.0
+German submarine U-343	shipBeam	* o/a\n* pressure hull
+Disney Dream	shipBeam	* \n*
+Disney Fantasy	shipBeam	* \n*
+USCGC Cushing	shipBeam	21.0
+USS Dapdap	shipBeam	13.0
+SM U-152	shipBeam	* \n*
+HMS Speedy	shipBeam	*Hull-borne: \n*Foils retracted: \n*Foil-borne:
+German submarine U-21	shipBeam	* \n*
+HMS Phaeton	shipBeam	46
+USS Day	shipBeam	36
+German submarine U-178	shipBeam	* o/a\n* pressure hull
+German submarine U-177	shipBeam	* o/a\n* pressure hull
+USCGC Cobb	shipBeam	55.0
+SS Governor Cobb	shipBeam	51.0
+German submarine U-198	shipBeam	* o/a\n* pressure hull
+USS Chaffee	shipBeam	36
+USS Hodges	shipBeam	36
+USS Riley	shipBeam	36
+USS Leslie L.B. Knox	shipBeam	36
+USS McNulty	shipBeam	36
+City of Detroit III	shipBeam	*over guards \n*hull, molded \n*or
+HMS Arethusa	shipBeam	.
+German submarine U-132	shipBeam	* o/a\n* pressure hull
+German submarine U-197	shipBeam	* o/a\n* pressure hull
+German submarine U-506	shipBeam	* o/a\n* pressure hull
+German submarine U-77	shipBeam	* o/a\n* pressure hull
+German Type U 127 submarine	shipBeam	* \n*
+German submarine U-881	shipBeam	* o/a\n* pressure hull
+Red Jet 4	shipBeam	10.82m
+USS Metivier	shipBeam	36
+USS George A. Johnson	shipBeam	36
+USS Lough	shipBeam	36
+USS Peiffer	shipBeam	36
+SS Makambo	shipBeam	31.4
+SS Arlington	shipBeam	43.0
+MV S Venus	shipBeam	189.73
+German Type U 139 submarine	shipBeam	* \n*
+SS Baltic	shipBeam	45.0
+USNS Charles Drew	shipBeam	* extreme,\n* waterline
+MV Malaspina Castle	shipBeam	28.0 m
+USS Tinsman	shipBeam	36
+USS Coates	shipBeam	36
+USS Fortune	shipBeam	55'
+USS Eugene E. Elmore	shipBeam	36
+MV Safmarine Asia	shipBeam	28.0
+NZGSS Hinemoa	shipBeam	25.0
+Stadt Zürich	shipBeam	13.50 m
+Stadt Rapperswil	shipBeam	13.50 m
+French ship Beautemps-Beaupré	shipBeam	14.90 m
+Seine-class frigate	shipBeam	1132.84
+SS John P. Gaines	shipBeam	57.0
+Navy of El Salvador	shipBeam	6.4m
+SM U-34	shipBeam	* \n*
+Naniwa Maru	shipBeam	7.4 m
+German submarine U-233	shipBeam	* o/a\n* pressure hull
+Research	shipBeam	41
+German submarine U-62	shipBeam	* \n*
+Vedette côtière de surveillance maritime	shipBeam	5.29
+Svetlyak-class patrol boat	shipBeam	9.2
+Project 10412-class patrol boat	shipBeam	9.2
+SM U-47	shipBeam	* \n*
+Japanese seaplane tender Kamikawa Maru	shipBeam	62.0
+PS John H Amos	shipBeam	*\n*
+Tennie and Laura	shipBeam	19
+Kosmonavt Vladimir Komarov	shipBeam	23.3 m
+USRC Thomas Corwin	shipBeam	24'
+USRC Thomas Corwin	shipBeam	24.0
+Kawasaki-type oiler	shipBeam	around
+São Gabriel	shipBeam	8.5 m
+USS Defiance	shipBeam	24.0
+USS Antelope	shipBeam	728.98
+Chitose-class aircraft carrier	shipBeam	at waterline
+USS Ready	shipBeam	728.98
+USS Canon	shipBeam	728.98
+USS Welch	shipBeam	728.98
+Lord Clarendon	shipBeam	32.6
+USS Grand Rapids	shipBeam	728.98
+USS Beacon	shipBeam	728.98
+MV Maritime Queen	shipBeam	19.60m
+Japanese seaplane tender Kiyokawa Maru	shipBeam	62.0
+MV Seabourn Sojourn	shipBeam	25.6
+Primor'ye-class surveillance ship	shipBeam	14 m
+German submarine U-230	shipBeam	* o/a\n* pressure hull
+Vishnya-class intelligence ship	shipBeam	14.6 m
+RMS Empress of France	shipBeam	75.0
+Russian ship of the line Poltava	shipBeam	11.69 m
+Aurora Borealis	shipBeam	* \n*
+MV Horizon-1	shipBeam	* \n*
+SS Cardena	shipBeam	37
+Loaloat Al Behar	shipBeam	16.2
+MV Kalia	shipBeam	1600.2
+Bremen cog	shipBeam	7.62 m
+SM U-49	shipBeam	* \n*
+INS Mysore	shipBeam	18.9 m
+MV Princess Ashika	shipBeam	13.2 m
+INS Kirpan	shipBeam	10.5
+INS Kuthar	shipBeam	10.5
+INS Khanjar	shipBeam	10.5
+French submarine Espadon	shipBeam	7.8 m
+INS Nilgiri	shipBeam	13 m
+INS Himgiri	shipBeam	13 m
+INS Udaygiri	shipBeam	13 m
+INS Dunagiri	shipBeam	13 m
+INS Taragiri	shipBeam	13 m
+INS Hosdurg	shipBeam	12.5
+INS Vijaydurg	shipBeam	12.5
+INS Sindhudurg	shipBeam	12.5
+MV Abegweit	shipBeam	70.0
+USS Harold J. Ellison	shipBeam	1117.6
+USS Myles C. Fox	shipBeam	1117.6
+INS Veer	shipBeam	7.6
+INS Vijeta	shipBeam	7.6
+INS Nipat	shipBeam	7.6
+INS Nashak	shipBeam	7.6
+INS Vidyut	shipBeam	7.6
+INS Vinash	shipBeam	7.6
+INS Nirbhik	shipBeam	7.6
+INS Nirghat	shipBeam	7.6
+INS Prachand	shipBeam	7.6
+INS Pratap	shipBeam	7.6
+INS Chatak	shipBeam	7.6
+INS Chamak	shipBeam	7.6
+INS Prabal	shipBeam	7.6
+INS Chapal	shipBeam	7.6
+INS Charag	shipBeam	7.6
+MV Arctic Sea	shipBeam	17.33 m
+MV Langeland	shipBeam	17.33 m
+INS Subhadra	shipBeam	11.5
+INS Suvarna	shipBeam	11.5
+INS Savitri	shipBeam	11.5
+INS Sarayu	shipBeam	11.5
+INS Sujata	shipBeam	11.5
+INS Sharada	shipBeam	11.5
+USS Charles R. Ware	shipBeam	1117.6
+Scipion-class ship of the line	shipBeam	14.1
+French brig Palinure	shipBeam	;  mld
+INS Gharial	shipBeam	17.5 m
+SS Sagamo	shipBeam	29.0
+USS Benner	shipBeam	1117.6
+USS Dennis J. Buckley	shipBeam	1117.6
+USS Everett F. Larson	shipBeam	1117.6
+SS Thesis	shipBeam	25.0
+USS Rogers Blood	shipBeam	1117.6
+USS William R. Rush	shipBeam	1117.6
+USS William M. Wood	shipBeam	1117.6
+German submarine U-82	shipBeam	* o/a\n* pressure hull
+MV Nella Dan	shipBeam	14.3 m
+SM U-82	shipBeam	* \n*
+ARC 7 de Agosto	shipBeam	13 m
+USNS Washington Chambers	shipBeam	* extreme\n* waterline
+Japanese seaplane tender Kimikawa Maru	shipBeam	18.97
+SLNS Sayurala	shipBeam	11.4
+SM U-33	shipBeam	* \n*
+German submarine U-158	shipBeam	* o/a\n* pressure hull
+RMS Empress of England	shipBeam	85.3
+German submarine U-57	shipBeam	* \n*
+German submarine U-652	shipBeam	* o/a\n* pressure hull
+Miura-class landing ship tank	shipBeam	14.0 m
+German submarine U-751	shipBeam	* o/a\n* pressure hull
+German submarine U-752	shipBeam	* o/a\n* pressure hull
+German submarine U-795	shipBeam	* o/a\n* pressure hull
+German submarine U-702	shipBeam	* o/a\n* pressure hull
+German submarine U-753	shipBeam	* o/a\n* pressure hull
+German submarine U-755	shipBeam	* o/a\n* pressure hull
+German submarine U-756	shipBeam	* o/a\n* pressure hull
+German submarine U-757	shipBeam	* o/a\n* pressure hull
+Powhattan	shipBeam	1867.0
+German submarine U-546	shipBeam	* o/a\n* pressure hull
+German submarine U-91	shipBeam	* o/a\n* pressure hull
+T.991-class patrol boat	shipBeam	6.49m
+Russian submarine Petropavlovsk-Kamchatskiy	shipBeam	12.3 m
+Inconstant	shipBeam	27.4
+Russian submarine Svyatoy Georgiy Pobedonosets	shipBeam	12.3 m
+German submarine U-29	shipBeam	* o/a\n* pressure hull
+INS Sharabh	shipBeam	9.7 m
+German submarine U-191	shipBeam	* o/a\n* pressure hull
+USRC Moccasin	shipBeam	1323.0
+Wendouree	shipBeam	11.06   m
+Abbey	shipBeam	5.7 m
+Ability	shipBeam	5.486   m
+Ability	shipBeam	8.382   m
+Absalom	shipBeam	234.06
+Acme	shipBeam	5.882   m
+Active	shipBeam	5.4   m
+Active	shipBeam	4.907   m
+Ada and Ethel	shipBeam	5.974   m
+Adelaide	shipBeam	4.419   m
+Adelaide	shipBeam	7.1   m
+Adelphoi	shipBeam	8.351   m
+Adolphus	shipBeam	5.669   m
+Adonis	shipBeam	6.309   m
+USNS William McLean	shipBeam	* extreme,\n* waterline
+Advance	shipBeam	6.400   m
+Advance	shipBeam	5.181   m
+Advance	shipBeam	6.370   m
+Advance	shipBeam	5.943   m
+Adventure	shipBeam	3.962   m
+Adventure	shipBeam	5.18100   m
+French ship Somme	shipBeam	21.2 m
+Aeolus	shipBeam	4.7   m
+Agnes	shipBeam	3.169   m
+Agnes	shipBeam	6.156   m
+Agnes	shipBeam	6.04   m
+Agnes Irving	shipBeam	7.467   m
+Agnes	shipBeam	4.328   m
+USNS Medgar Evers	shipBeam	* extreme,\n* waterline
+SS Sea Marlin	shipBeam	2118.3599999999997
+USCGC Point Brown	shipBeam	max
+German submarine U-45	shipBeam	* o/a\n* pressure hull
+German submarine U-199	shipBeam	* o/a\n*
+SV Paul	shipBeam	45.0
+USRC Wissahickon	shipBeam	6.0
+USCGC Winnisimmet	shipBeam	6.0
+USRC James C. Dobbin	shipBeam	1326.0
+USRC William H. Seward	shipBeam	22'
+Johanna Smith	shipBeam	50
+Ramona	shipBeam	;
+SM U-36	shipBeam	* \n*
+Tenino	shipBeam	; after 1869 rebuild: ; after 1876 rebuild:
+Multnomah	shipBeam	*Measured over hull:  or  \n*Measured over guards:
+Spanish seaplane carrier Dédalo	shipBeam	16.76 m
+SM U-92	shipBeam	* \n*
+Italian seaplane carrier Giuseppe Miraglia	shipBeam	14.99 m
+SM U-54	shipBeam	* \n*
+SM U-56	shipBeam	* \n*
+SM U-57	shipBeam	* \n*
+SM U-58	shipBeam	* \n*
+SM U-59	shipBeam	* \n*
+SM U-60	shipBeam	* \n*
+Elk	shipBeam	exclusive of guards
+German submarine U-967	shipBeam	* o/a\n* pressure hull
+SS Lokoja Palm	shipBeam	56.4
+Dream-class cruise ship	shipBeam	*waterline: \n*extreme:
+Mystic	shipBeam	34.0
+SM U-62	shipBeam	* \n*
+SM U-63	shipBeam	* \n*
+German submarine U-704	shipBeam	* o/a\n* pressure hull
+SM U-65	shipBeam	* \n*
+SM U-71	shipBeam	* \n*
+SM U-73	shipBeam	* \n*
+SM U-72	shipBeam	* \n*
+SM U-74	shipBeam	* \n*
+SM U-75	shipBeam	* \n*
+SM U-76	shipBeam	* \n*
+SM U-77	shipBeam	* \n*
+SM U-78	shipBeam	* \n*
+SM U-80	shipBeam	* \n*
+SM U-81	shipBeam	* \n*
+SM U-79	shipBeam	* \n*
+SM U-84	shipBeam	* \n*
+SM U-85	shipBeam	* \n*
+SM U-87	shipBeam	* \n*
+SM U-88	shipBeam	* \n*
+SM U-89	shipBeam	* \n*
+SM U-91	shipBeam	* \n*
+German submarine U-229	shipBeam	* o/a\n* pressure hull
+SM U-94	shipBeam	* \n*
+SM U-93	shipBeam	* \n*
+SM U-95	shipBeam	* \n*
+SM U-96	shipBeam	* \n*
+SM U-99	shipBeam	* \n*
+SM U-98	shipBeam	* \n*
+SM U-97	shipBeam	* \n*
+SM U-8	shipBeam	* \n*
+SM U-6	shipBeam	* \n*
+SM U-101	shipBeam	* \n*
+SM U-100	shipBeam	* \n*
+SM U-106	shipBeam	* \n*
+SM U-107	shipBeam	* \n*
+SM U-105	shipBeam	* \n*
+SM U-108	shipBeam	* \n*
+SM U-109	shipBeam	* \n*
+SM U-111	shipBeam	* \n*
+Ivan Gren-class landing ship	shipBeam	16 m
+German submarine U-607	shipBeam	* o/a\n* pressure hull
+SM U-31	shipBeam	* \n*
+SM U-37	shipBeam	* \n*
+SM U-41	shipBeam	* \n*
+SM U-48	shipBeam	* \n*
+SM U-50	shipBeam	* \n*
+SM U-51	shipBeam	* \n*
+SM U-46	shipBeam	* \n*
+SM U-45	shipBeam	* \n*
+SM U-44	shipBeam	* \n*
+SM U-43	shipBeam	* \n*
+SM U-52	shipBeam	* \n*
+SS Irish Pine	shipBeam	* \n*
+SM U-139	shipBeam	* \n*
+Silas Bent-class survey ship	shipBeam	48'
+SM U-7	shipBeam	* \n*
+SM U-114	shipBeam	* \n*
+SM U-113	shipBeam	* \n*
+Alhambra	shipBeam	8.3 m
+USRC James Guthrie	shipBeam	17'
+USRC Rush	shipBeam	26'
+USRC Hamilton	shipBeam	1386.0
+MV Solo	shipBeam	14.55 m
+SS Bergensfjord	shipBeam	61.2
+Aetna-class ironclad floating battery	shipBeam	*\n* broad beam\n* lengthened Aetna\n*For tonnage\n*\n* broad beam \n* lengthened Aetna
+MV St James Park	shipBeam	15.0
+USRC Scammel	shipBeam	20.0
+USRC Manhattan	shipBeam	1205.0
+Princess Daphne	shipBeam	21.34m
+SS Meredith Victory	shipBeam	62.0
+Sherbrooke	shipBeam	718.8199999999999
+Moltke	shipBeam	9.8 m
+SS Carolina	shipBeam	47.0
+Koonya	shipBeam	5.913   m
+SM U-140	shipBeam	* \n*
+SM U-136	shipBeam	* o/a\n* pressure hull
+SM U-138	shipBeam	* o/a\n* pressure hull
+SM U-112	shipBeam	* \n*
+SM U-153	shipBeam	* \n*
+SM U-141	shipBeam	* \n*
+SM U-142	shipBeam	* \n*
+SM U-154	shipBeam	* \n*
+SM U-157	shipBeam	* \n*
+SM U-160	shipBeam	* \n*
+SM U-161	shipBeam	* \n*
+SM U-162	shipBeam	* \n*
+SM U-164	shipBeam	* \n*
+SM U-166	shipBeam	* \n*
+SM U-167	shipBeam	* \n*
+SM U-163	shipBeam	* \n*
+SM U-165	shipBeam	* \n*
+MS Anna Marine	shipBeam	19.05 m
+BRP Alberto Navarette	shipBeam	max
+Sémillante-class frigate	shipBeam	11.5
+German submarine U-109	shipBeam	* overall\n* pressure hull
+German submarine U-117	shipBeam	* o/a\n* pressure hull
+RMS Atrato	shipBeam	*1853: ,\n* over paddles\n*1872:
+German Type U 81 submarine	shipBeam	* \n*
+Macaé-class patrol vessel	shipBeam	9.3
+German Type U 87 submarine	shipBeam	* \n*
+German submarine U-76	shipBeam	* o/a\n* pressure hull
+German submarine U-241	shipBeam	* o/a\n* pressure hull
+German submarine U-168	shipBeam	* o/a\n* pressure hull
+German submarine U-162	shipBeam	* o/a\n* pressure hull
+Suffren-class ship of the line	shipBeam	16.28
+German submarine U-804	shipBeam	* o/a\n* pressure hull
+German submarine U-52	shipBeam	* o/a\n* pressure hull
+NOAAS Henry B. Bigelow	shipBeam	15.0 m
+N.B. Palmer	shipBeam	38
+German Type U 93 submarine	shipBeam	* \n*
+Inca	shipBeam	41
+German submarine U-1065	shipBeam	* o/a\n* pressure hull
+German submarine U-716	shipBeam	* o/a\n* pressure hull
+German submarine U-712	shipBeam	* o/a\n* pressure hull
+German submarine U-705	shipBeam	* o/a\n* pressure hull
+German submarine U-626	shipBeam	* o/a\n* pressure hull
+Sweepstakes	shipBeam	41
+German submarine U-750	shipBeam	*Overall: \n*Pressure hull:
+German submarine U-203	shipBeam	* o/a\n* pressure hull
+German submarine U-1163	shipBeam	* o/a\n* pressure hull
+MV Almezaan	shipBeam	13.0
+German submarine U-771	shipBeam	* o/a\n* pressure hull
+Rainbow	shipBeam	31
+HTMS Taksin	shipBeam	13.7 m
+Tûranor PlanetSolar	shipBeam	15 m
+HMS Salamander	shipBeam	oa
+Surprise	shipBeam	39
+German submarine U-213	shipBeam	* o/a\n* pressure hull
+MV Samho Dream	shipBeam	60.05 M
+Russian submarine K-284 Akula	shipBeam	13.6
+MV Yasin C	shipBeam	28.0
+USCGC Clover	shipBeam	37
+USCGC Tupelo	shipBeam	37
+Young America	shipBeam	43
+German submarine U-450	shipBeam	* o/a\n* pressure hull
+German submarine U-794	shipBeam	* o/a\n* pressure hull
+INS Kamorta	shipBeam	13.7 m
+Sea Witch	shipBeam	76.0
+USS John P. Murtha	shipBeam	* extreme,\n* waterline
+RMAS Salmaster	shipBeam	15 m
+Sea Witch	shipBeam	26.7
+Kingfisher	shipBeam	37
+German submarine U-514	shipBeam	* o/a\n* pressure hull
+German Type IXA submarine	shipBeam	* \n*
+Russian yacht Livadia	shipBeam	2798.4
+Thatcher Magoun	shipBeam	40
+Witchcraft	shipBeam	39
+Carrier Dove	shipBeam	,
+Russian yacht Livadia	shipBeam	10.9 m
+Yono-class submarine	shipBeam	2.75 m
+MV Cuthred	shipBeam	51.6
+MV Dubai Moon	shipBeam	18.98 m
+INS Mahé	shipBeam	5.5 m
+MS Baltic Ferry	shipBeam	21.67 m
+MS Viking Valiant	shipBeam	19.81 m
+MS Viking Valiant	shipBeam	23.47 m
+Mahé-class minesweeper	shipBeam	5.5 m
+German submarine U-1022	shipBeam	* o/a\n* pressure hull
+German submarine U-1023	shipBeam	* o/a\n* pressure hull
+German Type IXB submarine	shipBeam	* overall\n* pressure hull
+INS Malvan	shipBeam	5.5 m
+INS Mangrol	shipBeam	5.5 m
+INS Malpe	shipBeam	5.5 m
+INS Mulki	shipBeam	5.5 m
+INS Magdala	shipBeam	5.5 m
+German submarine U-64	shipBeam	* o/a\n* pressure hull
+USS Grinnell	shipBeam	23
+SAS Umkhonto	shipBeam	6.74
+German submarine U-111	shipBeam	* o/a\n* pressure hull
+German submarine U-65	shipBeam	* o/a\n* pressure hull
+SS Great Republic	shipBeam	50.0
+Paul Jones	shipBeam	30
+German submarine U-104	shipBeam	* o/a\n* pressure hull
+SMS Leopard	shipBeam	15.8 m
+Memnon	shipBeam	36
+Memnon	shipBeam	32
+SS Santa Paula	shipBeam	84.0
+HMS Lady Shirley	shipBeam	27.2
+Ross Tiger	shipBeam	807.72
+Mary Robinson	shipBeam	38
+Hornet	shipBeam	40
+Schütte-Lanz SL 11	shipBeam	20.1
+Skandi Neptune	shipBeam	24 m
+RMS Corfu	shipBeam	2176.7799999999997
+MS Viking Voyager	shipBeam	19.81 m
+SS Devanha	shipBeam	1714.5
+SS Sardinia	shipBeam	1592.58
+Lookout	shipBeam	38
+MV Akdeniz	shipBeam	61.0
+LZ 61	shipBeam	1122.0
+Race Horse	shipBeam	30
+Antelope of Boston	shipBeam	.
+Jaskółka-class minesweeper	shipBeam	5.5 m
+MV Moonta	shipBeam	44.0
+USCGC Point Comfort	shipBeam	max
+Type 920 hospital ship	shipBeam	approximately 25 metres
+USCGC Point Banks	shipBeam	max
+German submarine U-216	shipBeam	* o/a\n* pressure hull
+USCGC Point Clear	shipBeam	max
+USCGC Point Garnet	shipBeam	max
+MS Rio de Janeiro	shipBeam	17m
+MV Amalthea	shipBeam	15.6 m
+USCGC Point Glover	shipBeam	max
+Herakles	shipBeam	* \n*
+German submarine U-1232	shipBeam	* o/a\n* pressure hull
+Mary Bowers	shipBeam	25'
+SS Friedenau	shipBeam	17m
+Type 724 LCAC	shipBeam	4.7
+ZB 304	shipBeam	90'
+SSV Tabor Boy	shipBeam	20.0
+USCGC Cape Upright	shipBeam	max
+MV Altavia	shipBeam	30m
+MS Lord Selkirk II	shipBeam	41.0
+USCGC Point Grey	shipBeam	max
+Glen-class tug	shipBeam	*Steel-hulled : \n*Wooden-hulled :
+USCGC Point Mast	shipBeam	max
+MV Avenue Star	shipBeam	21m
+Necker Nymph	shipBeam	3.0m
+Dévastation-class ironclad floating battery	shipBeam	.
+Roanoke	shipBeam	49'
+Necker Belle	shipBeam	14.00m
+John Gilpin	shipBeam	37
+Minghua	shipBeam	72.0
+Westward Ho!	shipBeam	40
+The Ark	shipBeam	32.0
+Blue Jacket	shipBeam	, or 41 ft. 6 in.
+USCGC Point Marone	shipBeam	max
+Japanese submarine I-12	shipBeam	11.70 m
+ORV Sagar Kanya	shipBeam	16.39
+USCGC Point Young	shipBeam	max
+MV Al Arabia	shipBeam	*\n*Before enlarging:
+Mary B Mitchell	shipBeam	24'
+German submarine U-877	shipBeam	* o/a\n* pressure hull
+Metamora	shipBeam	21.0
+USCGC Point Caution	shipBeam	max
+USCGC Point Arden	shipBeam	max
+USCGC Point Dume	shipBeam	max
+USCGC Point Ellis	shipBeam	max
+USCGC Point Gammon	shipBeam	max
+German submarine U-293	shipBeam	* o/a\n* pressure hull
+Russian submarine BS-64	shipBeam	11.7 m
+Japanese escort ship Okinawa	shipBeam	9.0
+Japanese escort ship Aguni	shipBeam	9.0
+Japanese escort ship Kanawa	shipBeam	9.0
+Witch of the Wave	shipBeam	40
+MV Bremerhaven	shipBeam	43.0
+MV Leisure World	shipBeam	74.0
+HMAS Hobart	shipBeam	maximum
+Son of Town Hall	shipBeam	12.0
+PS Commonwealth	shipBeam	,  over guards
+MV Orient Princess	shipBeam	68.9
+Wylde Swan	shipBeam	7.5 m
+Jacob Meindert	shipBeam	7.5 m
+Syren	shipBeam	36
+MV Tahitien	shipBeam	67.0
+HMS Swallow	shipBeam	25.0
+HMS Barracouta	shipBeam	oa
+Motława	shipBeam	4.51 m
+MV Regent Sky	shipBeam	91.0
+SS Richmond P. Hobson	shipBeam	17.4 m
+Koster-class mine countermeasures vessel	shipBeam	9.6
+SS Eugenio C	shipBeam	29.3 m
+German submarine U-758	shipBeam	* o/a\n* pressure hull
+Kunlun Shan	shipBeam	28.0
+German submarine U-121	shipBeam	* \n*
+German submarine U-56	shipBeam	* \n* pressure hull
+German submarine U-53	shipBeam	* o/a\n* pressure hull
+King Philip	shipBeam	36
+German submarine U-55	shipBeam	* o/a\n* pressure hull
+HMS Penshurst	shipBeam	1071.8799999999999
+USS Juniata	shipBeam	*\n*
+Ariel-class gunboat	shipBeam	*\n*
+Minas Geraes-class battleship	shipBeam	* 83 ft  mean
+German submarine U-1308	shipBeam	* o/a\n* pressure hull
+German submarine U-482	shipBeam	* o/a\n* pressure hull
+USS Edward J. McKeever Jr.	shipBeam	or
+MV Baragoola	shipBeam	10.3
+SS Glenlyon	shipBeam	42.5
+SS Algoma	shipBeam	38.0
+SS America	shipBeam	31.0
+SS Cumberland	shipBeam	28.0
+SS Emperor	shipBeam	56.0
+SS Henry Chisholm	shipBeam	39.0
+SS Monarch	shipBeam	35.0
+German submarine U-954	shipBeam	* o/a\n* pressure hull
+German submarine U-1224	shipBeam	* o/a\n* pressure hull
+USCGC Point Grace	shipBeam	max
+USCGC Point Lomas	shipBeam	max
+USCGC Point Orient	shipBeam	max
+Northerner	shipBeam	18.9
+MV Anton Dohrn	shipBeam	*\n* extreme\n*
+HSwMS Ulla Fersen	shipBeam	9.07
+SS Quinault Victory	shipBeam	62.0
+HMS Saint Lucia	shipBeam	c.
+PS Murray Princess	shipBeam	15.0
+H-class battleship proposals	shipBeam	* H39: \n* H41: \n* H42: \n* H43: \n* H44:
+USS New England	shipBeam	--11-07
+PS Briton	shipBeam	25.0
+Serviola-class patrol boat	shipBeam	10.33 m
+Humboldt	shipBeam	31
+Sunny South	shipBeam	31
+INS Ghorpad	shipBeam	9.7 m
+HMIS Godaveri	shipBeam	* original\n* modified
+INS Tir	shipBeam	13.20 m
+INS Cheetah	shipBeam	9.7 m
+INS Guldar	shipBeam	9.7 m
+INS Mahish	shipBeam	9.7 m
+INS Kumbhir	shipBeam	9.7 m
+HMIS Narbada	shipBeam	* original\n* modified
+HMIS Sutlej	shipBeam	* original\n* modified
+HMIS Kistna	shipBeam	* original\n* modified
+HMIS Cauvery	shipBeam	* original\n* modified
+HMIS Jumna	shipBeam	* original\n* modified
+USS Willimantic	shipBeam	waterline
+USCGC Southwind	shipBeam	mb
+Type 093 submarine	shipBeam	11 m
+Tupolev A-3 Aerosledge	shipBeam	7.0
+HMS Melton	shipBeam	*\n* at the paddles
+Italian destroyer Caio Duilio	shipBeam	20.3 m
+Keystone State-class crane ship	shipBeam	2377.44
+Slovenian patrol boat Triglav	shipBeam	9.2
+TF Carrier	shipBeam	between paddles
+USCGC Point Cypress	shipBeam	max
+USCGC Point Hudson	shipBeam	max
+Lahloo	shipBeam	32
+Libyan frigate Dat Assawari	shipBeam	11 m
+USCGC Point Jefferson	shipBeam	max
+USCGC Point Kennedy	shipBeam	max
+USCGC Point League	shipBeam	max
+Yellowstone	shipBeam	or
+USCGC Point Partridge	shipBeam	max
+USCGC Point Slocum	shipBeam	max
+HTMS Makut Rajakumarn	shipBeam	10.97 m
+USCGC Point White	shipBeam	max
+USNS New Bedford	shipBeam	32.0
+USCGC Point Hope	shipBeam	max
+SLNS Sagarawardena	shipBeam	7.0
+SLNS Jayasagara	shipBeam	7.0
+MV Guanabara	shipBeam	42 m
+TCG Gür	shipBeam	6.2 m
+L&T-class fast interceptor craft	shipBeam	6.4m
+HMS Salorman	shipBeam	21'
+SS Brisbane	shipBeam	32.2
+SS Erl King	shipBeam	34.1
+Monte Cristo	shipBeam	;
+Rautaruukki	shipBeam	* \n*
+PS Bruselas	shipBeam	1130.3
+German submarine U-480	shipBeam	* o/a\n* pressure hull
+SS Tavolara	shipBeam	26.6
+MV Clyde	shipBeam	16.6
+USCGC Point Verde	shipBeam	max
+USCGC Point Swift	shipBeam	max
+Steel	shipBeam	* \n*
+Goliah	shipBeam	over hull,
+Elk	shipBeam	As built: ; as rebuilt:
+Florence K	shipBeam	as built: ; later:
+German submarine U-87	shipBeam	* o/a\n* pressure hull
+HMS Herald	shipBeam	*As built: *For tonnage:
+La Hogue	shipBeam	35'
+SS Navemar	shipBeam	16.4m
+SS Robin Doncaster	shipBeam	maximum
+SS Blanche	shipBeam	20.0
+PS Hankow	shipBeam	42.2
+USS Challenger	shipBeam	56'
+West Seattle	shipBeam	over guards
+PS Lugard II	shipBeam	33.0
+USS Louisiana	shipBeam	28.0
+Sirsa	shipBeam	39.2
+Storm King	shipBeam	*over wheels;\n* over hull
+Chinese aircraft carrier Liaoning	shipBeam	* o/a\n* w/l
+MV María Alejandra	shipBeam	51.06 m
+Xanthus-class repair ship	shipBeam	1734.8200000000002
+Merksworth	shipBeam	6.766  m
+HSC Leonora Christina	shipBeam	26.2 m
+German submarine U-410	shipBeam	* o/a\n* pressure hull
+German submarine U-105	shipBeam	* o/a\n* pressure hull
+RV Zeeleeuw	shipBeam	9.0
+Imperator-class ocean liner	shipBeam	98
+Kaiser-class ocean liner	shipBeam	circa
+Sarah Dixon	shipBeam	* \n* .
+MV Argyll Flyer	shipBeam	7m
+German submarine U-513	shipBeam	* o/a\n* pressure hull
+German submarine U-415	shipBeam	* o/a\n* pressure hull
+Maersk Cape Coast	shipBeam	37.4 m
+German submarine U-612	shipBeam	* o/a\n* pressure hull
+Sampo	shipBeam	* \n*
+Mary Ward	shipBeam	18.0
+German submarine U-3514	shipBeam	* \n*
+German submarine U-741	shipBeam	* o/a\n* pressure hull
+Murtaja	shipBeam	* \n*
+German submarine U-147	shipBeam	* o/a\n* pressure hull
+Italian torpedo boat Albatros	shipBeam	6.90 m
+Orkan-class fast attack craft	shipBeam	8.65 m
+Jade-class aircraft carrier	shipBeam	Hull:  Flight Deck:
+USS Milwaukee	shipBeam	* wl\n*
+USS Detroit	shipBeam	57.4
+Lublin-class minelayer-landing ship	shipBeam	10.8 m
+Apu	shipBeam	* \n*
+Voima	shipBeam	* \n*
+German submarine U-442	shipBeam	* o/a\n* pressure hull
+Ōmi Maru	shipBeam	46.3
+HMS Glitter	shipBeam	* according to Colledge\n* according to the National Maritime Museum
+Dutch ship Delft	shipBeam	1244.6000000000001
+German submarine U-194	shipBeam	* o/a\n* pressure hull
+German submarine U-200	shipBeam	* o/a\n* pressure hull
+RV Coastal Guardian	shipBeam	5.50 m
+German submarine U-210	shipBeam	* \n*
+HMS Celebes	shipBeam	40'
+German submarine U-567	shipBeam	* o/a\n* pressure hull
+German submarine U-71	shipBeam	* o/a\n* pressure hull
+German submarine U-58	shipBeam	* \n*
+SM class minesweeper	shipBeam	3.8 m
+Rautu-class minesweeper	shipBeam	6.1 m
+Pukkio-class minelayer	shipBeam	6.7 m
+Mahlon Williamson	shipBeam	28
+Thomas Winsmore	shipBeam	34
+PGM-39 class gunboat	shipBeam	21.0
+Persephone	shipBeam	9.3
+Swordfish	shipBeam	36
+Italian destroyer Andrea Doria	shipBeam	20.3 m
+Patrol Ship Multi-Mission	shipBeam	7.26 m
+Norwegian Breakaway	shipBeam	- At Waterline\n - Lifeboats/Tenders
+Royal Princess	shipBeam	* - With SeaWalk\n* - Without SeaWalk
+ENS Vapper	shipBeam	6.0 m
+Boris Chilikin-class fleet oiler	shipBeam	21.41 m
+Pelican of London	shipBeam	7.03 M
+German submarine U-962	shipBeam	* o/a\n* pressure hull
+German submarine U-1225	shipBeam	* o/a\n* pressure hull
+MS American Monarch	shipBeam	*\n*
+German submarine U-744	shipBeam	* o/a\n* pressure hull
+James Postlethwaite	shipBeam	23'
+TT-400TP gunboat	shipBeam	9.16
+German submarine U-608	shipBeam	* o/a\n* pressure hull
+S.V. Cynthia Woods	shipBeam	11'
+Swiftships Model 35PB1208 E-1455	shipBeam	7.25
+German submarine U-374	shipBeam	* o/a\n* pressure hull
+USCGC Cahoone	shipBeam	23.5
+Purga-class icebreaker	shipBeam	10.4 m
+Mary B Mitchell	shipBeam	1444.0
+Shinas	shipBeam	16.5m
+USCGC Point Herron	shipBeam	max
+USCGC Point Roberts	shipBeam	max
+USCGC Point Thatcher	shipBeam	max
+Ottawa	shipBeam	28.0
+PS Normandy	shipBeam	s
+Sevona	shipBeam	41.0
+MV Glenachulish	shipBeam	21.6
+Dutch cutter Kemphaan	shipBeam	1680.0
+German submarine U-451	shipBeam	* o/a\n* pressure hull
+Malahat	shipBeam	43
+MSC Bruxelles	shipBeam	46m
+Kyoto Express	shipBeam	42.87 m
+MSC Chicago	shipBeam	321m
+Xin Beijing	shipBeam	46m
+NYK Vesta	shipBeam	46m
+Tsingtao Express	shipBeam	42.80m
+Cosco Hellas	shipBeam	/140 ft
+MSC Sindy	shipBeam	43 m
+Soroe Maersk	shipBeam	42 m
+MSC Camille	shipBeam	51 m
+HMS Halstarr	shipBeam	40'
+Minerva	shipBeam	1802
+USCGC Vigilant	shipBeam	23.5
+MV Highland Trader	shipBeam	16 m
+Type 216 submarine	shipBeam	8.1 m
+Neptune	shipBeam	16.40 m
+USAHS Marigold	shipBeam	62.0
+Norwegian Gunships	shipBeam	5.2
+MV Holoholo	shipBeam	25.4
+USCGC Alert	shipBeam	23.5
+SS Mona	shipBeam	36'
+Tamzine	shipBeam	5
+Lady Mary Pelham	shipBeam	24'
+German submarine U-182	shipBeam	* \n*
+German submarine U-97	shipBeam	* o/a\n* pressure hull
+USNS Paul Buck	shipBeam	90.0
+SS Cape May	shipBeam	106.0
+SS Cape Island	shipBeam	102'
+Jose Andrada-class patrol craft	shipBeam	max
+SS Port Kembla	shipBeam	16 m
+SS Cape Intrepid	shipBeam	102'
+SS Cape Isabel	shipBeam	102.0
+SS Cape Inscription	shipBeam	102.0
+MV Cape Orlando	shipBeam	91.0
+MV Cape Wrath	shipBeam	3228.34
+MV Cape Race	shipBeam	6306.0
+Barnett-class lifeboat	shipBeam	*60 ft: \n*51 ft: \n*52 ft Mk. I: \n*52 ft Mk. II:
+French frigate Républicaine française	shipBeam	*\n*
+Humaitá-class gunboat	shipBeam	10.7 m
+SS Nurnberg	shipBeam	39.1
+SAS Manthatisi	shipBeam	7.6 m
+Chao Ho-class cruiser	shipBeam	-
+Magnanime-class ship of the line	shipBeam	14.3
+German submarine U-202	shipBeam	* o/a\n* pressure hull
+German submarine U-222	shipBeam	* o/a\n* pressure hull
+NSO Spirit	shipBeam	17 m
+German submarine U-252	shipBeam	* o/a\n* pressure hull
+Jääkarhu	shipBeam	* \n*
+PS Emmylou	shipBeam	10 m
+PS Pride of the Murray	shipBeam	4.9 m
+PS Hero	shipBeam	5.2 m
+German submarine U-272	shipBeam	* o/a\n* pressure hull
+German submarine U-282	shipBeam	* o/a\n* pressure hull
+Type 056 corvette	shipBeam	11.14 m
+Liberdade class underwater glider	shipBeam	6.1
+Type 032 submarine	shipBeam	10 m
+Albatroz-class patrol boat	shipBeam	5.6m
+SS Berlin	shipBeam	21.3 m
+SMS Meteor	shipBeam	11.3 m
+French ship Six Corps	shipBeam	14.0
+French ship Provence	shipBeam	13.2
+French ship Union	shipBeam	13.2
+French ship Citoyen	shipBeam	14.1
+French corvette Sphinx	shipBeam	Hull: \nIncluding paddles:
+Sphinx-class aviso	shipBeam	Hull: \nIncluding paddles:
+ARA Fortuna III	shipBeam	4.54 m
+Type 053H2G frigate	shipBeam	12.4 m
+HDMS Allart	shipBeam	*Danish:26'\n*British:
+USCGC Point Highland	shipBeam	max
+Trần Đại Nghĩa	shipBeam	13.2
+USCGC Point Ledge	shipBeam	max
+German submarine U-433	shipBeam	* o/a\n* pressure hull
+German submarine U-372	shipBeam	* o/a\n* pressure hull
+German submarine U-205	shipBeam	* o/a\n* pressure hull
+German submarine U-562	shipBeam	* o/a\n* pressure hull
+German submarine U-375	shipBeam	* o/a\n* pressure hull
+German submarine U-431	shipBeam	* o/a\n* pressure hull
+German submarine U-133	shipBeam	* o/a\n* pressure hull
+German submarine U-565	shipBeam	* o/a\n* pressure hull
+German submarine U-458	shipBeam	* o/a\n* pressure hull
+German submarine U-577	shipBeam	* o/a\n* pressure hull
+German submarine U-605	shipBeam	* o/a\n* pressure hull
+German submarine U-453	shipBeam	* o/a\n* pressure hull
+German submarine U-593	shipBeam	* o/a\n* pressure hull
+German submarine U-568	shipBeam	* o/a\n* pressure hull
+German submarine U-561	shipBeam	* o/a\n* pressure hull
+German submarine U-660	shipBeam	* o/a\n* pressure hull
+German submarine U-447	shipBeam	* o/a\n* pressure hull
+German submarine U-224	shipBeam	* o/a\n* pressure hull
+German submarine U-602	shipBeam	* o/a\n* pressure hull
+German submarine U-414	shipBeam	* o/a\n* pressure hull
+German submarine U-421	shipBeam	* o/a\n* pressure hull
+German submarine U-617	shipBeam	* o/a\n* pressure hull
+German submarine U-407	shipBeam	* o/a\n* pressure hull
+German submarine U-952	shipBeam	* o/a\n* pressure hull
+German submarine U-969	shipBeam	* o/a\n* pressure hull
+German submarine U-223	shipBeam	* o/a\n* pressure hull
+German submarine U-595	shipBeam	* o/a\n* pressure hull
+German submarine U-616	shipBeam	* o/a\n* pressure hull
+German submarine U-642	shipBeam	* o/a\n* pressure hull
+German submarine U-960	shipBeam	* o/a\n* pressure hull
+German submarine U-409	shipBeam	* o/a\n* pressure hull
+German submarine U-471	shipBeam	* o/a\n* pressure hull
+German submarine U-586	shipBeam	* o/a\n* pressure hull
+German submarine U-411	shipBeam	* o/a\n* pressure hull
+German submarine U-211	shipBeam	* o/a\n* pressure hull
+German submarine U-584	shipBeam	* o/a\n* pressure hull
+German submarine U-594	shipBeam	* o/a\n* pressure hull
+German submarine U-258	shipBeam	* o/a\n* pressure hull
+German submarine U-379	shipBeam	* o/a\n* pressure hull
+German submarine U-659	shipBeam	* o/a\n* pressure hull
+German submarine U-356	shipBeam	* o/a\n* pressure hull
+German submarine U-661	shipBeam	* o/a\n* pressure hull
+German submarine U-618	shipBeam	* o/a\n* pressure hull
+German submarine U-332	shipBeam	* o/a\n* pressure hull
+German submarine U-92	shipBeam	* o/a\n* pressure hull
+German submarine U-623	shipBeam	* o/a\n* pressure hull
+German submarine U-604	shipBeam	* o/a\n* pressure hull
+German submarine U-606	shipBeam	* o/a\n* pressure hull
+German submarine U-587	shipBeam	* o/a\n* pressure hull
+German submarine U-225	shipBeam	* o/a\n* pressure hull
+German submarine U-628	shipBeam	* o/a\n* pressure hull
+German submarine U-600	shipBeam	* o/a\n* pressure hull
+German submarine U-267	shipBeam	* o/a\n* pressure hull
+German submarine U-603	shipBeam	* o/a\n* pressure hull
+German submarine U-572	shipBeam	* o/a\n* pressure hull
+German submarine U-653	shipBeam	* o/a\n* pressure hull
+German submarine U-632	shipBeam	* \n*
+German submarine U-440	shipBeam	* o/a\n* pressure hull
+German submarine U-304	shipBeam	* o/a\n* pressure hull
+German submarine U-662	shipBeam	* o/a\n* pressure hull
+German submarine U-609	shipBeam	* o/a\n* pressure hull
+German submarine U-614	shipBeam	* o/a\n* pressure hull
+German submarine U-456	shipBeam	* o/a\n* pressure hull
+German submarine U-207	shipBeam	* o/a\n* pressure hull
+German submarine U-406	shipBeam	* o/a\n* pressure hull
+German submarine U-591	shipBeam	* o/a\n* pressure hull
+German submarine U-435	shipBeam	* o/a\n* pressure hull
+German submarine U-59	shipBeam	* \n*
+Ellen	shipBeam	18
+German submarine U-60	shipBeam	* \n*
+German submarine U-61	shipBeam	* \n*
+German submarine U-67	shipBeam	* o/a\n* pressure hull
+German submarine U-90	shipBeam	* o/a\n* pressure hull
+German submarine U-93	shipBeam	* o/a\n* pressure hull
+German submarine U-80	shipBeam	* o/a\n* pressure hull
+URF	shipBeam	3.2m
+German submarine U-1200	shipBeam	* o/a\n* pressure hull
+German submarine U-108	shipBeam	* o/a\n* pressure hull
+German submarine U-118	shipBeam	* o/a\n* pressure hull
+German submarine U-119	shipBeam	* o/a\n* pressure hull
+German submarine U-126	shipBeam	* overall\n* pressure hull
+German submarine U-127	shipBeam	* o/a\n* pressure hull
+German submarine U-129	shipBeam	* o/a\n* pressure hull
+German submarine U-130	shipBeam	* o/a\n* pressure hull
+German submarine U-135	shipBeam	* o/a\n* pressure hull
+German submarine U-136	shipBeam	* o/a\n* pressure hull
+German submarine U-139	shipBeam	* \n*
+German submarine U-141	shipBeam	* \n*
+German submarine U-142	shipBeam	* \n*
+German submarine U-143	shipBeam	* o/a\n* pressure hull
+German submarine U-145	shipBeam	* \n*
+German submarine U-146	shipBeam	* o/a\n* pressure hull
+German submarine U-148	shipBeam	* o/a\n* pressure hull
+German submarine U-149	shipBeam	* o/a\n* pressure hull
+German submarine U-150	shipBeam	* o/a\n* pressure hull
+German submarine U-152	shipBeam	* o/a\n* pressure hull
+German submarine U-151	shipBeam	* o/a\n* pressure hull
+German submarine U-153	shipBeam	* o/a\n* pressure hull
+German submarine U-159	shipBeam	* o/a\n* pressure hull
+German submarine U-160	shipBeam	* o/a\n* pressure hull
+German submarine U-154	shipBeam	* o/a\n* pressure hull
+Rossiya-class motorship	shipBeam	; third series
+German submarine U-161	shipBeam	* o/a\n* pressure hull
+German submarine U-163	shipBeam	* o/a\n* pressure hull
+German submarine U-164	shipBeam	* overall\n* pressure hull
+German submarine U-165	shipBeam	* o/a\n* pressure hull
+German submarine U-167	shipBeam	* o/a\n* pressure hull
+German submarine U-169	shipBeam	* o/a\n* pressure hull
+German submarine U-170	shipBeam	* o/a\n* pressure hull
+German submarine U-173	shipBeam	* o/a\n* pressure hull
+German submarine U-179	shipBeam	* o/a\n* pressure hull
+German submarine U-174	shipBeam	* o/a\n* pressure hull
+German submarine U-186	shipBeam	* o/a\n* pressure hull
+German submarine U-187	shipBeam	* o/a\n* pressure hull
+German submarine U-189	shipBeam	* o/a\n* pressure hull
+German submarine U-204	shipBeam	* o/a\n* pressure hull
+German submarine U-206	shipBeam	* o/a\n* pressure hull
+German submarine U-208	shipBeam	* o/a\n* pressure hull
+German submarine U-209	shipBeam	* o/a\n* pressure hull
+Special Operations Craft – Riverine	shipBeam	2.97m
+German submarine U-212	shipBeam	* o/a\n* pressure hull
+Royal-class cruise ship	shipBeam	38 m
+German submarine U-220	shipBeam	* o/a\n* pressure hull
+German submarine U-226	shipBeam	* o/a\n* pressure hull
+German submarine U-231	shipBeam	* o/a\n* pressure hull
+German submarine U-232	shipBeam	* o/a\n* pressure hull
+German submarine U-235	shipBeam	* o/a\n* pressure hull
+German submarine U-236	shipBeam	* o/a\n* pressure hull
+German submarine U-237	shipBeam	* o/a\n* pressure hull
+German submarine U-239	shipBeam	* o/a\n* pressure hull
+German submarine U-242	shipBeam	* o/a\n* pressure hull
+German submarine U-243	shipBeam	* o/a\n*  pressure hull
+German submarine U-244	shipBeam	* o/a\n* pressure hull
+German submarine U-245	shipBeam	* o/a\n* pressure hull
+German submarine U-247	shipBeam	* o/a\n* pressure hull
+German submarine U-248	shipBeam	* o/a\n* pressure hull
+German submarine U-249	shipBeam	* o/a\n* pressure hull
+German submarine U-250	shipBeam	* o/a\n* pressure hull
+German submarine U-251	shipBeam	* o/a\n* pressure hull
+German submarine U-257	shipBeam	* o/a\n* pressure hull
+German submarine U-261	shipBeam	* o/a\n* pressure hull
+German submarine U-263	shipBeam	* o/a\n* pressure hull
+German submarine U-264	shipBeam	* o/a\n* pressure hull
+German submarine U-265	shipBeam	* o/a\n* pressure hull
+Herald of the Morning	shipBeam	35.3
+German submarine U-266	shipBeam	* o/a\n* pressure hull
+German submarine U-270	shipBeam	* o/a\n* pressure hull
+German submarine U-274	shipBeam	* o/a\n* pressure hull
+German submarine U-275	shipBeam	* o/a\n*  pressure hull
+German submarine U-271	shipBeam	* o/a\n* pressure hull
+German submarine U-276	shipBeam	* o/a\n* pressure hull
+German submarine U-277	shipBeam	* o/a\n* pressure hull
+German submarine U-279	shipBeam	* o/a\n* pressure hull
+Vava II	shipBeam	17.21 m
+German submarine U-278	shipBeam	* o/a\n* pressure hull
+German submarine U-281	shipBeam	* o/a\n* pressure hull
+German submarine U-283	shipBeam	* o/a\n* pressure hull
+German submarine U-284	shipBeam	* o/a\n* pressure hull
+German submarine U-285	shipBeam	* o/a\n* pressure hull
+German submarine U-286	shipBeam	* o/a\n* pressure hull
+German submarine U-287	shipBeam	* o/a\n* pressure hull
+German submarine U-288	shipBeam	* o/a\n* pressure hull
+German submarine U-289	shipBeam	* o/a\n* pressure hull
+German submarine U-290	shipBeam	* o/a\n* pressure hull
+USCGC Point Glass	shipBeam	max
+German submarine U-291	shipBeam	* o/a\n*  pressure hull
+USCGC Point Chico	shipBeam	max
+German submarine U-292	shipBeam	* o/a\n* pressure hull
+USCGC Point Hannon	shipBeam	max
+German submarine U-294	shipBeam	* o/a\n* pressure hull
+German submarine U-295	shipBeam	* o/a\n* pressure hull
+German submarine U-296	shipBeam	* o/a\n* pressure hull
+German submarine U-297	shipBeam	* o/a\n* pressure hull
+USCGC Point Baker	shipBeam	max
+German submarine U-299	shipBeam	* o/a\n* pressure hull
+German submarine U-302	shipBeam	* o/a\n* pressure hull
+German submarine U-305	shipBeam	* o/a\n* pressure hull
+German submarine U-308	shipBeam	* o/a\n* pressure hull
+German submarine U-306	shipBeam	* o/a\n* pressure hull
+German submarine U-310	shipBeam	* o/a\n* pressure hull
+German submarine U-311	shipBeam	* o/a\n* pressure hull
+German submarine U-312	shipBeam	* o/a\n* pressure hull
+USCGC Point Judith	shipBeam	max
+German submarine U-313	shipBeam	* o/a\n* pressure hull
+German submarine U-314	shipBeam	* o/a\n* pressure hull
+German submarine U-315	shipBeam	* o/a\n* pressure hull
+USCGC Point Franklin	shipBeam	max
+German submarine U-316	shipBeam	* o/a\n* pressure hull
+German submarine U-318	shipBeam	* o/a\n* pressure hull
+German submarine U-319	shipBeam	* o/a\n* pressure hull
+German submarine U-320	shipBeam	* o/a\n* pressure hull
+German submarine U-321	shipBeam	* o/a\n* pressure hull
+German submarine U-322	shipBeam	* o/a\n* pressure hull
+German submarine U-323	shipBeam	* o/a\n* pressure hull
+German submarine U-326	shipBeam	* o/a\n* pressure hull
+German submarine U-327	shipBeam	* o/a\n* pressure hull
+German submarine U-328	shipBeam	* o/a\n* pressure hull
+German submarine U-334	shipBeam	* o/a\n* pressure hull
+German submarine U-335	shipBeam	* o/a\n* pressure hull
+German submarine U-336	shipBeam	* o/a\n* pressure hull
+German submarine U-339	shipBeam	* o/a\n* pressure hull
+German submarine U-341	shipBeam	* o/a\n* pressure hull
+German submarine U-342	shipBeam	* o/a\n* pressure hull
+USCGC Point Steele	shipBeam	max
+German submarine U-344	shipBeam	* o/a\n* pressure hull
+German submarine U-345	shipBeam	* o/a\n* pressure hull
+German submarine U-347	shipBeam	* o/a\n* pressure hull
+German submarine U-348	shipBeam	* o/a\n* pressure hull
+German submarine U-349	shipBeam	* o/a\n* pressure hull
+German submarine U-350	shipBeam	* o/a\n* pressure hull
+German submarine U-351	shipBeam	* o/a\n* pressure hull
+German submarine U-354	shipBeam	* o/a\n* pressure hull
+German submarine U-357	shipBeam	* o/a\n* pressure hull
+German submarine U-358	shipBeam	* o/a\n* pressure hull
+German submarine U-359	shipBeam	* o/a\n* pressure hull
+German submarine U-360	shipBeam	* o/a\n* pressure hull
+German submarine U-361	shipBeam	* o/a\n* pressure hull
+German submarine U-363	shipBeam	* o/a\n* pressure hull
+German submarine U-364	shipBeam	* o/a\n* pressure hull
+USNS Schuyler Otis Bland	shipBeam	66
+MT Vulcanus	shipBeam	14.45 m
+MT Vulcanus	shipBeam	16.03 m
+MT Vulcanus	shipBeam	16.00 m
+German submarine U-366	shipBeam	* o/a\n* pressure hull
+German submarine U-367	shipBeam	* o/a\n* pressure hull
+German submarine U-368	shipBeam	* o/a\n* pressure hull
+German submarine U-369	shipBeam	* o/a\n* pressure hull
+German submarine U-370	shipBeam	* o/a\n* pressure hull
+German submarine U-373	shipBeam	* o/a\n* pressure hull
+German submarine U-378	shipBeam	* o/a\n* pressure hull
+German submarine U-382	shipBeam	* o/a\n* pressure hull
+German submarine U-384	shipBeam	* o/a\n* pressure hull
+German submarine U-385	shipBeam	* o/a\n* pressure hull
+German submarine U-389	shipBeam	* o/a\n* pressure hull
+German submarine U-386	shipBeam	* o/a\n* pressure hull
+German submarine U-387	shipBeam	* o/a\n* pressure hull
+German submarine U-390	shipBeam	* o/a\n* pressure hull
+German submarine U-391	shipBeam	* o/a\n* pressure hull
+German submarine U-392	shipBeam	* o/a\n* pressure hull
+German submarine U-393	shipBeam	* o/a\n* pressure hull
+German submarine U-394	shipBeam	* o/a\n* pressure hull
+German submarine U-396	shipBeam	* o/a\n* pressure hull
+German submarine U-397	shipBeam	* o/a\n* pressure hull
+German submarine U-399	shipBeam	* o/a\n* pressure hull
+German submarine U-401	shipBeam	* o/a\n* pressure hull
+German submarine U-403	shipBeam	* o/a\n* pressure hull
+German submarine U-408	shipBeam	* o/a\n* pressure hull
+German submarine U-412	shipBeam	* o/a\n* pressure hull
+German submarine U-416	shipBeam	* o/a\n* pressure hull
+German submarine U-417	shipBeam	* o/a\n* pressure hull
+German submarine U-418	shipBeam	* o/a\n* pressure hull
+German submarine U-419	shipBeam	* o/a\n* pressure hull
+German submarine U-422	shipBeam	* o/a\n* pressure hull
+German submarine U-424	shipBeam	* o/a\n* pressure hull
+German submarine U-423	shipBeam	* o/a\n* pressure hull
+German submarine U-425	shipBeam	* o/a\n* pressure hull
+German submarine U-426	shipBeam	* o/a\n* pressure hull
+German submarine U-428	shipBeam	* o/a\n* pressure hull
+German submarine U-430	shipBeam	* o/a\n* pressure hull
+German submarine U-432	shipBeam	* o/a\n* pressure hull
+German submarine U-436	shipBeam	* o/a\n* pressure hull
+German submarine U-437	shipBeam	* o/a\n* pressure hull
+German submarine U-439	shipBeam	* o/a\n* pressure hull
+German submarine U-444	shipBeam	* o/a\n* pressure hull
+German submarine U-445	shipBeam	* o/a\n* pressure hull
+German submarine U-446	shipBeam	* o/a\n* pressure hull
+German submarine U-448	shipBeam	* o/a\n* pressure hull
+German submarine U-449	shipBeam	* o/a\n* pressure hull
+German submarine U-452	shipBeam	* o/a\n* pressure hull
+German submarine U-454	shipBeam	* o/a\n* pressure hull
+German submarine U-457	shipBeam	* o/a\n* pressure hull
+German submarine U-465	shipBeam	* o/a\n* pressure hull
+German submarine U-467	shipBeam	* o/a\n* pressure hull
+German submarine U-469	shipBeam	* o/a\n* pressure hull
+German submarine U-472	shipBeam	* o/a\n* pressure hull
+German submarine U-473	shipBeam	* o/a\n* pressure hull
+German submarine U-475	shipBeam	* o/a\n* pressure hull
+German submarine U-476	shipBeam	* o/a\n* pressure hull
+German submarine U-477	shipBeam	* o/a\n* pressure hull
+German submarine U-478	shipBeam	* o/a\n* pressure hull
+German submarine U-483	shipBeam	* o/a\n* pressure hull
+German submarine U-484	shipBeam	* o/a\n* pressure hull
+German submarine U-485	shipBeam	* o/a\n* pressure hull
+German submarine U-508	shipBeam	* o/a\n* pressure hull
+German submarine U-516	shipBeam	* o/a\n* pressure hull
+German submarine U-517	shipBeam	* o/a\n* pressure hull
+German submarine U-522	shipBeam	* o/a\n* pressure hull
+German submarine U-524	shipBeam	* o/a\n* pressure hull
+German submarine U-525	shipBeam	* o/a\n* pressure hull
+German submarine U-526	shipBeam	o/a  pressure hull
+German submarine U-527	shipBeam	o/a  pressure hull
+German submarine U-528	shipBeam	* o/a\n* pressure hull
+German submarine U-532	shipBeam	* o/a\n* pressure hull
+German submarine U-536	shipBeam	* o/a\n* pressure hull
+German submarine U-538	shipBeam	* o/a\n* pressure hull
+German submarine U-540	shipBeam	* o/a\n* pressure hull
+Japanese aircraft transport Goshū Maru	shipBeam	60.0
+German submarine U-542	shipBeam	* o/a\n* pressure hull
+German submarine U-541	shipBeam	* o/a\n* pressure hull
+SS Peel Castle	shipBeam	37'
+German submarine U-543	shipBeam	* o/a\n* pressure hull
+German submarine U-544	shipBeam	* o/a\n* pressure hull
+German submarine U-545	shipBeam	* o/a\n* pressure hull
+German submarine U-547	shipBeam	* o/a\n* pressure hull
+German submarine U-548	shipBeam	* o/a\n* pressure hull
+German submarine U-873	shipBeam	* o/a\n* pressure hull
+German submarine U-560	shipBeam	* o/a\n* pressure hull
+German submarine U-563	shipBeam	* o/a\n* pressure hull
+German submarine U-569	shipBeam	* o/a\n* pressure hull
+German submarine U-574	shipBeam	* o/a\n* pressure hull
+German submarine U-575	shipBeam	* o/a\n* pressure hull
+German submarine U-576	shipBeam	* o/a\n* pressure hull
+German submarine U-578	shipBeam	* o/a\n* pressure hull
+German submarine U-579	shipBeam	* o/a\n* pressure hull
+German submarine U-580	shipBeam	* o/a\n* pressure hull
+German submarine U-581	shipBeam	* o/a\n* pressure hull
+German submarine U-582	shipBeam	* o/a\n* pressure hull
+German submarine U-583	shipBeam	* o/a\n* pressure hull
+German submarine U-585	shipBeam	* o/a\n* pressure hull
+German submarine U-588	shipBeam	* o/a\n* pressure hull
+German submarine U-589	shipBeam	* o/a\n* pressure hull
+German submarine U-590	shipBeam	* o/a\n* pressure hull
+German submarine U-592	shipBeam	* o/a\n* pressure hull
+Type C6 ship	shipBeam	*\n*\n*
+German submarine U-598	shipBeam	* o/a\n* pressure hull
+German submarine U-597	shipBeam	* o/a\n* pressure hull
+German submarine U-599	shipBeam	* o/a\n* pressure hull
+RV Franklin	shipBeam	11.99 m
+Dart	shipBeam	18
+Regina Maris	shipBeam	759.46
+Russian submarine Orel	shipBeam	18.2 m
+PS Slieve Bearnagh	shipBeam	*\n*or
+HMS Erin's Isle	shipBeam	or
+Floating dock Muloobinba	shipBeam	33.5m
+German submarine U-601	shipBeam	* o/a\n* pressure hull
+German submarine U-610	shipBeam	* o/a\n* pressure hull
+Our Lady of the Sea	shipBeam	216.0
+HDMS Danbjørn	shipBeam	17.10 m
+USS Connecticut	shipBeam	31'
+German submarine U-857	shipBeam	* o/a\n* pressure hull
+German submarine U-858	shipBeam	* o/a\n* pressure hull
+German submarine U-865	shipBeam	o/a  pressure hull
+German submarine U-867	shipBeam	* o/a\n* pressure hull
+German submarine U-866	shipBeam	* o/a\n* pressure hull
+German submarine U-868	shipBeam	o/a  pressure hull
+German submarine U-870	shipBeam	* o/a\n* pressure hull
+German submarine U-827	shipBeam	* o/a\n* pressure hull
+Pet, No. 9	shipBeam	21.0
+William Bell, No. 24	shipBeam	21.0
+SSV Oliver Hazard Perry	shipBeam	38.0
+Baltimax	shipBeam	..
+Japanese Type 6 submarine	shipBeam	* \n*
+Albanian patrol vessel Lisus	shipBeam	7.1
+RV Profesor Siedlecki	shipBeam	15.0 m
+RRS Discovery II	shipBeam	11 m
+Teniente Serrano	shipBeam	6.55 m
+SS Mormachawk	shipBeam	60.0
+Chilean ship Casma	shipBeam	12 m
+INS Puran	shipBeam	11.0
+Royal Marine VSV	shipBeam	* \n*
+German submarine U-188	shipBeam	* o/a\n* pressure hull
+SS Sirius	shipBeam	*As built:\n*
+Tikoma	shipBeam	19.5
+HMCS Bras d'Or	shipBeam	716.28
+Nellie J. Banks	shipBeam	17
+Walton	shipBeam	29
+RV Clifford A. Barnes	shipBeam	1147.5
+ARA Santa Cruz	shipBeam	7.3
+French corvette Faune	shipBeam	c.
+Eamont	shipBeam	20
+French ship Juste	shipBeam	14.1
+Norwegian Getaway	shipBeam	- At Waterline\n - Lifeboats/Tenders
+HSC Adriana	shipBeam	10.1 m
+HSC Dubravka	shipBeam	11 m
+HMS Clyde	shipBeam	*First incarnation:\n*Second incarnation:
+French corvette Cérès	shipBeam	9.7
+HTMS Sukhothai Subclass	shipBeam	9.6 m
+MS Quantum of the Seas	shipBeam	* \n*
+MV Murree	shipBeam	22.8
+MV Loch Seaforth	shipBeam	.
+French frigate Vertu	shipBeam	11.9
+French frigate Andromaque	shipBeam	11.9
+HMS Witch	shipBeam	30.0
+SS Midland City	shipBeam	* \n*
+HMS Wishart	shipBeam	30.0
+French brig Hazard	shipBeam	7.8
+Concorde class frigate	shipBeam	11.2
+Hermione-class frigate	shipBeam	9.7
+French frigate Junon	shipBeam	11.7
+French ship Junon	shipBeam	12.2
+Pégase-class ship of the line	shipBeam	14.3
+French corvette Poulette	shipBeam	c.
+French corvette Brune	shipBeam	9.9
+USCGC Liberty	shipBeam	21.0
+GNS Stephen Otu	shipBeam	7 m
+Royal Tar fire	shipBeam	24.0
+MV Viking Star	shipBeam	29
+BNS Somudra Joy	shipBeam	43.0
+Haijian 50	shipBeam	15.2
+Haijian 66	shipBeam	10.4 m
+Haijian 46	shipBeam	10.2
+Haijian 49	shipBeam	10.2
+Haijian 51	shipBeam	12 m
+Haijian 15	shipBeam	12.0
+Haijian 52	shipBeam	14.0
+SS Belgravia	shipBeam	44.8
+Haijian 84	shipBeam	12 m
+Haijian 75	shipBeam	10.4 m
+Cosco Glory	shipBeam	48m
+Trishna	shipBeam	327.66
+BNS Karnafuli	shipBeam	20.7
+Haijian 23	shipBeam	10.4 m
+BNS Dhaleshwari	shipBeam	11.5 m
+SS Naramata	shipBeam	*\n* guards
+Type 37 torpedo boat	shipBeam	8.87 m
+Type 23 torpedo boat	shipBeam	8.25 m
+Type 24 torpedo boat	shipBeam	8.65 m
+Roald Amundsen	shipBeam	7.2 m
+RV Simon Stevin	shipBeam	9.4
+City of Ashland	shipBeam	20.0
+USS Portland	shipBeam	1770.0
+SS Aberdeen	shipBeam	44.3
+BNS Bijoy	shipBeam	11.5 m
+MV Lisboa	shipBeam	21.34 m
+BNS Bishkhali	shipBeam	6 m
+Naresuan-class frigate	shipBeam	13.7 m
+Transporter Angamos	shipBeam	14.30m
+Katherine Stewart Forbes	shipBeam	1744.0
+Iranian frigate Jamaran	shipBeam	estimated
+MV Fenella	shipBeam	23 m
+USCG 65' Small harbor tug	shipBeam	max
+Yury Ivanov-class intelligence ship	shipBeam	16 m
+German submarine U-706	shipBeam	* o/a\n* pressure hull
+German submarine U-708	shipBeam	* o/a\n* pressure hull
+German submarine U-707	shipBeam	* o/a\n* pressure hull
+German submarine U-710	shipBeam	* o/a\n* pressure hull
+German submarine U-711	shipBeam	* o/a\n* pressure hull
+German submarine U-709	shipBeam	* o/a\n* pressure hull
+German submarine U-737	shipBeam	* o/a\n* pressure hull
+SS Binnendijk	shipBeam	16.6
+Norwegian Escape	shipBeam	* \n*
+Palinuro	shipBeam	10 m
+F. T. Barney	shipBeam	26.0
+SS Gallia	shipBeam	19.1 m
+RV Song of the Whale	shipBeam	5.6  m
+SS Antilles	shipBeam	extreme:
+Sea Explorer	shipBeam	* \n*
+J. B. Ford	shipBeam	50.0
+Carnival Vista	shipBeam	at pool decks
+Shikishima-class patrol vessel	shipBeam	16.5m
+SAS Protea	shipBeam	15m
+Type 218 submarine	shipBeam	6.3m
+César	shipBeam	c.
+MF Liburnija	shipBeam	16.22 m
+Dutch sloop Havik	shipBeam	1800.0
+Falcon	shipBeam	or
+MV Speedlink Vanguard	shipBeam	* \n*
+MV Cape Ray	shipBeam	6306.0
+Fishing Tug Katherine V	shipBeam	13.0
+Dutch sloop Sireene	shipBeam	2040.0
+HMS Lothian	shipBeam	19.0
+MV Cape Rise	shipBeam	105'
+MV Willapa	shipBeam	65.0
+Soviet submarine K-21	shipBeam	7.4m
+HMS Reynard	shipBeam	overall
+SS Melville E. Stone	shipBeam	17.3 m
+Archer-class sloop	shipBeam	overall
+Soviet destroyer Nezamozhnik	shipBeam	9.07 m
+Dutch frigate Alliantie	shipBeam	*37’ ” \n*
+German submarine U-828	shipBeam	* o/a\n* pressure hull
+Jinggang Shan	shipBeam	28.0
+MV Morning Glory	shipBeam	28.1m
+German submarine U-848	shipBeam	* o/a\n* pressure hull
+MV Etretat	shipBeam	25.6m
+Multi-purpose Attack Craft	shipBeam	4.76 m
+HMS Pylades	shipBeam	30.0
+SS City of Chester	shipBeam	33.0
+RRS Discovery	shipBeam	18 m
+German submarine U-621	shipBeam	* o/a\n* pressure hull
+German submarine U-861	shipBeam	* o/a\n* pressure hull
+German submarine U-847	shipBeam	* o/a\n* pressure hull
+German submarine U-849	shipBeam	* o/a\n* pressure hull
+Haiyang Shiyou 981	shipBeam	90.0
+German submarine U-624	shipBeam	* o/a\n* pressure hull
+PS William the Fourth	shipBeam	* \n*
+Khalije Fars sea explorer	shipBeam	10 m
+Offshore Raiding Craft	shipBeam	2.9m
+Island-class patrol vessel	shipBeam	4.58m
+BNS Meghna	shipBeam	7.5m
+BNS Jamuna	shipBeam	7.5m
+German submarine U-654	shipBeam	* o/a\n* pressure hull
+German submarine U-1055	shipBeam	* o/a\n* pressure hull
+German submarine U-664	shipBeam	* o/a\n* pressure hull
+Second Generation Patrol Vessel	shipBeam	* \n*
+Soviet submarine K-1	shipBeam	7.4m
+RMS Alaunia	shipBeam	65.0
+SS Albania	shipBeam	64.0
+RMS Parthia	shipBeam	70.3
+German submarine U-630	shipBeam	* o/a\n* pressure hull
+German submarine U-667	shipBeam	* o/a\n* pressure hull
+German submarine U-968	shipBeam	* o/a\n* pressure hull
+MV Fugro Equator	shipBeam	14.0 m
+German submarine U-645	shipBeam	* o/a\n* pressure hull
+German submarine U-631	shipBeam	* o/a\n* pressure hull
+German submarine U-663	shipBeam	* o/a\n* pressure hull
+German submarine U-613	shipBeam	* o/a\n* pressure hull
+German submarine U-619	shipBeam	* o/a\n* pressure hull
+German submarine U-665	shipBeam	* o/a\n* pressure hull
+German submarine U-1202	shipBeam	* o/a\n* pressure hull
+German submarine U-636	shipBeam	* o/a\n* pressure hull
+German submarine U-634	shipBeam	* o/a\n* pressure hull
+German submarine U-657	shipBeam	* o/a\n* pressure hull
+German submarine U-620	shipBeam	* o/a\n* pressure hull
+German submarine U-638	shipBeam	* o/a\n* pressure hull
+German submarine U-1208	shipBeam	* o/a\n* pressure hull
+German submarine U-633	shipBeam	* o/a\n* pressure hull
+German submarine U-775	shipBeam	* o/a\n* pressure hull
+German submarine U-985	shipBeam	* o/a\n* pressure hull
+German submarine U-989	shipBeam	* o/a\n* pressure hull
+German submarine U-764	shipBeam	* o/a\n* pressure hull
+German submarine U-611	shipBeam	* o/a\n* pressure hull
+German submarine U-658	shipBeam	* o/a\n* pressure hull
+German submarine U-666	shipBeam	* o/a\n* pressure hull
+German submarine U-984	shipBeam	* o/a\n* pressure hull
+German submarine U-722	shipBeam	* o/a\n* pressure hull
+German submarine U-763	shipBeam	* o/a\n* pressure hull
+German submarine U-1107	shipBeam	* o/a\n* pressure hull
+German submarine U-1051	shipBeam	* o/a\n* pressure hull
+MS Ovation of the Seas	shipBeam	* \n*
+Léopard class	shipBeam	8.3m
+German submarine U-33	shipBeam	7 m
+German submarine U-801	shipBeam	* o/a\n* pressure hull
+MV Nelcebee	shipBeam	5.69
+German submarine U-802	shipBeam	* o/a\n* pressure hull
+German submarine U-805	shipBeam	* o/a\n* pressure hull
+Sealion 2000	shipBeam	16 m
+Spirit of Kangaroo Island	shipBeam	17.8 m
+German submarine U-806	shipBeam	* o/a\n* pressure hull
+German submarine U-841	shipBeam	* o/a\n* pressure hull
+German submarine U-842	shipBeam	* o/a\n* pressure hull
+Surf-class lifeboat	shipBeam	-
+German submarine U-845	shipBeam	* o/a\n* pressure hull
+German submarine U-846	shipBeam	* o/a\n* pressure hull
+German submarine U-854	shipBeam	* o/a\n* pressure hull
+German submarine U-856	shipBeam	* o/a\n* pressure hull
+German submarine U-855	shipBeam	* o/a\n* pressure hull
+German submarine U-878	shipBeam	* o/a\n* pressure hull
+German submarine U-879	shipBeam	* o/a\n* pressure hull
+German submarine U-880	shipBeam	* o/a\n* pressure hull
+41ft Watson-class lifeboat	shipBeam	-
+German submarine U-1221	shipBeam	* o/a\n* pressure hull
+35ft 6in Self-righting motor-class lifeboat	shipBeam	-
+Nampo-class corvette	shipBeam	11m
+NS Concord	shipBeam	42.03
+v Yankee Clipper	shipBeam	30.0
+Sinpo-class submarine	shipBeam	6.6m
+SV Argo	shipBeam	36.3
+Nongo class	shipBeam	12m
+German submarine U-1222	shipBeam	* o/a\n* pressure hull
+German submarine U-1223	shipBeam	* o/a\n* pressure hull
+German submarine U-1228	shipBeam	* o/a\n* pressure hull
+German submarine U-734	shipBeam	* o/a\n* pressure hull
+German submarine U-622	shipBeam	* o/a\n* pressure hull
+German submarine U-635	shipBeam	* o/a\n* pressure hull
+German submarine U-629	shipBeam	* o/a\n* pressure hull
+German submarine U-637	shipBeam	* o/a\n* pressure hull
+German submarine U-739	shipBeam	* o/a\n* pressure hull
+German submarine U-678	shipBeam	* o/a\n* pressure hull
+BNS Nirbhoy	shipBeam	7.2 m
+German submarine U-1233	shipBeam	* o/a\n* pressure hull
+German submarine U-1231	shipBeam	* o/a\n* pressure hull
+German submarine U-1229	shipBeam	* o/a\n* pressure hull
+HMS Mermaid	shipBeam	5.6 m
+Russian replenishment ship Berezina	shipBeam	25.1 m
+German submarine U-639	shipBeam	* o/a\n* pressure hull
+PS William Randell	shipBeam	7.0
+RPC12	shipBeam	8.4
+German submarine U-850	shipBeam	* o/a\n* pressure hull
+MV Chambo	shipBeam	7.0
+MV Chilembwe	shipBeam	9.0
+USS Douglas	shipBeam	728.98
+French ship Diligent	shipBeam	14.0
+French ship Ferme	shipBeam	13.8
+French ship Flamand	shipBeam	13.8
+French ship Utile	shipBeam	13.8
+Bordelois-class ship of the line	shipBeam	13.8
+French ship Cassard	shipBeam	10.8
+Chrysopolis	shipBeam	40.0
+Spanish ship Mexicano	shipBeam	15.5 m
+Spanish ship Conde de Regla	shipBeam	15.5 m
+Spanish ship Real Carlos	shipBeam	15.5 m
+Spanish ship San Hermenegildo	shipBeam	15.5 m
+Spanish ship Reina María Luisa	shipBeam	15.5 m
+Spanish ship Salvador del Mundo	shipBeam	15.5 m
+MS Anthem of the Seas	shipBeam	* \n*
+MS Harmony of the Seas	shipBeam	* waterline\n* max beam
+German weather ship WBS 11 Hessen	shipBeam	* \n* \n*
+French ship Auguste	shipBeam	11.2
+SS Claymont Victory	shipBeam	62'
+SS Sant Anna	shipBeam	17.5 m
+Luna	shipBeam	20m
+German submarine U-997	shipBeam	* o/a\n* pressure hull
+German submarine U-1004	shipBeam	* o/a\n* pressure hull
+German submarine U-1017	shipBeam	* o/a\n* pressure hull
+German submarine U-1024	shipBeam	* o/a\n* pressure hull
+German submarine U-1064	shipBeam	* o/a\n* pressure hull
+German submarine U-1165	shipBeam	* o/a\n* pressure hull
+German submarine U-1172	shipBeam	* o/a\n* pressure hull
+German submarine U-1199	shipBeam	* o/a\n* pressure hull
+German submarine U-1274	shipBeam	* o/a\n* pressure hull
+German submarine U-1203	shipBeam	* o/a\n* pressure hull
+German submarine U-992	shipBeam	* o/a\n* pressure hull
+German submarine U-767	shipBeam	* o/a\n* pressure hull
+German submarine U-988	shipBeam	* o/a\n* pressure hull
+German submarine U-679	shipBeam	* o/a\n* pressure hull
+German submarine U-825	shipBeam	* o/a\n* pressure hull
+HMS Destiny	shipBeam	1031.24
+Seven Seas Explorer	shipBeam	32.0
+German submarine U-956	shipBeam	* o/a\n* pressure hull
+German submarine U-979	shipBeam	* o/a\n* pressure hull
+German submarine U-990	shipBeam	* o/a\n* pressure hull
+HMS Eminent	shipBeam	1031.24
+Le Lyrial	shipBeam	18.0
+Emma Hayward	shipBeam	measured over hull.
+HMS Emphatic	shipBeam	1031.24
+Sydney JetCats	shipBeam	10.0
+SS Pampa	shipBeam	14.4 m
+Sydney RiverCat	shipBeam	10.5
+USRC Grant	shipBeam	25'
+Asterix	shipBeam	5.28m
+German submarine U-640	shipBeam	* o/a\n* pressure hull
+Pomona	shipBeam	measured over hull.
+MV Maersk Rapier	shipBeam	27.42m
+Grahamona	shipBeam	measured over hull.
+Type 079-class landing ship	shipBeam	13.8m
+Elwood	shipBeam	measured over hull.
+MV Bellubera	shipBeam	9.75
+SS President Taft	shipBeam	--07-31
+German submarine U-1277	shipBeam	* o/a\n* pressure hull
+Archibald Russell	shipBeam	42.8
+German submarine U-641	shipBeam	* o/a\n* pressure hull
+HMS Paxton	shipBeam	11.6 m
+Spanish ship Nuestra Señora de Encarnación	shipBeam	~10 Meters
+HMS Seahorse	shipBeam	26.0
+Ondina	shipBeam	16.62 m
+Jennie Clark	shipBeam	measured over hull
+SS City of Lowell	shipBeam	*extreme over guards: \n*Moulded
+Type 271 landing craft	shipBeam	9.2m
+Type 271 landing craft	shipBeam	10.4m
+MV Sage Sagittarius	shipBeam	43m
+HMS Redbreast	shipBeam	33.6
+Essex-class aircraft carrier	shipBeam	wl;  max
+HMS Favourite	shipBeam	1031.24
+USS Endeavor	shipBeam	64.0
+USS Silenus	shipBeam	50.0
+USS Waukegan	shipBeam	27.0
+USS Antigone	shipBeam	50.0
+USS Brontes	shipBeam	50.0
+Modoc YT-16	shipBeam	21.0
+SS Tivives	shipBeam	*\n*
+USS Okisko	shipBeam	502.92
+USS Chiron	shipBeam	50.0
+German submarine U-650	shipBeam	* \n*
+German submarine U-731	shipBeam	* \n*
+German submarine U-655	shipBeam	* \n*
+German submarine U-643	shipBeam	* \n*
+German submarine U-646	shipBeam	* \n*
+German submarine U-649	shipBeam	* \n*
+German submarine U-644	shipBeam	* \n*
+German submarine U-648	shipBeam	* \n*
+German submarine U-647	shipBeam	* \n*
+German submarine U-668	shipBeam	* \n*
+German submarine U-671	shipBeam	* \n*
+French corvette Alecton	shipBeam	12.1 m
+German submarine U-682	shipBeam	* \n*
+German submarine U-683	shipBeam	* \n*
+German submarine U-681	shipBeam	* \n*
+German submarine U-680	shipBeam	* \n*
+German submarine U-676	shipBeam	* \n*
+German submarine U-674	shipBeam	* \n*
+German submarine U-672	shipBeam	* \n*
+German submarine U-669	shipBeam	* \n*
+German submarine U-673	shipBeam	* \n*
+German submarine U-677	shipBeam	* \n*
+German submarine U-670	shipBeam	* \n*
+German submarine U-675	shipBeam	* \n*
+USS John Blish	shipBeam	746.76
+USNS Marine Fiddler	shipBeam	72.0
+German submarine U-713	shipBeam	* \n*
+German submarine U-715	shipBeam	* \n*
+German submarine U-717	shipBeam	* \n*
+German submarine U-719	shipBeam	* \n*
+USS Hooper Island	shipBeam	1734.8200000000002
+German submarine U-720	shipBeam	* \n*
+German submarine U-721	shipBeam	* \n*
+German submarine U-732	shipBeam	* o/a\n* pressure hull
+German submarine U-733	shipBeam	* \n*
+SS Arago	shipBeam	40.0
+Abeille-class brig	shipBeam	8.7
+USS Natchaug	shipBeam	48
+USS Pecatonica	shipBeam	48
+USS Romain	shipBeam	20
+Épaulard	shipBeam	1.1
+French frigate Minerve	shipBeam	14.5
+French aviso Corse	shipBeam	8.5 m
+PS Monarch	shipBeam	15
+BRP Manuel Gomez	shipBeam	max
+English carrack Holigost	shipBeam	In excess of
+Titan	shipBeam	7.39 m
+Argonaute-class ship of the line	shipBeam	14.29
+BRP Filipino Flojo	shipBeam	max
+BRP Felix Apolinario	shipBeam	max
+Yelta	shipBeam	7.62 m
+SS British Transport	shipBeam	51.0
+Saint Louis	shipBeam	40'
+USS Torry	shipBeam	32.0
+BNS Durjoy	shipBeam	7.2 m
+S Carolinian	shipBeam	23
+Harvest Queen	shipBeam	hull;  over guards
+Brompton Caribou	shipBeam	426.0
+Nestor	shipBeam	over hull
+Cowlitz	shipBeam	over hull
+SS Vega	shipBeam	764.54
+Regulator	shipBeam	over hull
+Dutch frigate Mars	shipBeam	*37'\
+Three Sisters	shipBeam	over hull
+Ann and Amelia	shipBeam	*\n*
+Klamath	shipBeam	over hull
+Mazama	shipBeam	As built:  reconstructed 1912:
+Winema	shipBeam	or
+MS Tannenfels	shipBeam	18.69 m
+Pacific 24	shipBeam	2.6
+Algerian amphibious transport dock Kalaat Béni Abbès	shipBeam	21.5
+Almak	shipBeam	9.60m
+Soviet submarine K-3	shipBeam	7.4m
+USS Venetia	shipBeam	27'
+Spanish ship Purísima Concepción	shipBeam	3484.0
+Enterprise	shipBeam	or
+Alert	shipBeam	, exclusive of guards
+Spanish ship Galicia	shipBeam	3300.0
+James Clinton	shipBeam	exclusive of guards
+Oregon	shipBeam	exclusive of guards
+Bonita	shipBeam	measured over hull.
+Alice	shipBeam	over hull
+Wenat	shipBeam	or  exclusive of guards
+Minnehaha	shipBeam	exclusive of guards
+USS Coral	shipBeam	*\n**
+Dayton	shipBeam	over hull
+Senator	shipBeam	exclusive of guards
+French ship Seine	shipBeam	10.4
+Albany	shipBeam	over hull
+Onward	shipBeam	over hull
+Union Rotoiti	shipBeam	26.3m
+Union Rotorua	shipBeam	26.3m
+Marshal Deodoro-class coastal defense ship	shipBeam	14.4
+Geertruida Gerarda	shipBeam	13.55 m
+Occident	shipBeam	over hull
+Relief	shipBeam	over hull
+Active	shipBeam	over hull
+German submarine U-742	shipBeam	* o/a\n* pressure hull
+German submarine U-743	shipBeam	* o/a\n* pressure hull
+German submarine U-740	shipBeam	* o/a\n* pressure hull
+German submarine U-738	shipBeam	* o/a\n* pressure hull
+German submarine U-747	shipBeam	* o/a\n* pressure hull
+German submarine U-748	shipBeam	* o/a\n* pressure hull
+German submarine U-749	shipBeam	* o/a\n* pressure hull
+German submarine U-746	shipBeam	* o/a\n* pressure hull
+SS Karaganda	shipBeam	.
+HMS Fridericksteen	shipBeam	*, or\n*
+German submarine U-971	shipBeam	* o/a\n* pressure hull
+USS Fort Lauderdale	shipBeam	1770.0
+AIDAprima	shipBeam	* \n*
+German submarine U-1278	shipBeam	* o/a\n* pressure hull
+German submarine U-1279	shipBeam	* o/a\n* pressure hull
+German submarine U-929	shipBeam	* o/a\n* pressure hull
+German submarine U-930	shipBeam	* o/a\n* pressure hull
+German submarine U-998	shipBeam	* o/a\n* pressure hull
+German submarine U-999	shipBeam	* o/a\n* pressure hull
+German submarine U-1001	shipBeam	* o/a\n* pressure hull
+German submarine U-1002	shipBeam	* o/a\n* pressure hull
+German submarine U-1003	shipBeam	* o/a\n* pressure hull
+Type Long March cargo ship, medical evacuation	shipBeam	17.6
+German submarine U-1005	shipBeam	* o/a\n* pressure hull
+German submarine U-1006	shipBeam	* o/a\n* pressure hull
+German submarine U-1007	shipBeam	* o/a\n* pressure hull
+German submarine U-1008	shipBeam	* o/a\n* pressure hull
+German submarine U-1009	shipBeam	* o/a\n* pressure hull
+German submarine U-1010	shipBeam	* o/a\n* pressure hull
+Rescuerunner	shipBeam	1.5
+German submarine U-1013	shipBeam	* o/a\n* pressure hull
+German submarine U-1014	shipBeam	* o/a\n* pressure hull
+German submarine U-1015	shipBeam	* o/a\n* pressure hull
+German submarine U-1016	shipBeam	* o/a\n* pressure hull
+German submarine U-1019	shipBeam	* o/a\n* pressure hull
+German submarine U-1020	shipBeam	* o/a\n* pressure hull
+German submarine U-1025	shipBeam	* o/a\n* pressure hull
+German submarine U-1103	shipBeam	* o/a\n* pressure hull
+German submarine U-1104	shipBeam	* o/a\n* pressure hull
+German submarine U-1106	shipBeam	* o/a\n* pressure hull
+German submarine U-1108	shipBeam	* o/a\n* pressure hull
+German submarine U-1109	shipBeam	* o/a\n* pressure hull
+German submarine U-1110	shipBeam	* o/a\n* pressure hull
+German submarine U-1164	shipBeam	* o/a\n* pressure hull
+German submarine U-1166	shipBeam	* o/a\n* pressure hull
+German submarine U-1167	shipBeam	* o/a\n* pressure hull
+German submarine U-1168	shipBeam	* o/a\n* pressure hull
+German submarine U-1169	shipBeam	* o/a\n* pressure hull
+German submarine U-1170	shipBeam	* o/a\n* pressure hull
+German submarine U-1171	shipBeam	* o/a\n* pressure hull
+German submarine U-1271	shipBeam	* o/a\n* pressure hull
+German submarine U-1272	shipBeam	* o/a\n* pressure hull
+German submarine U-1273	shipBeam	* o/a\n* pressure hull
+German submarine U-1275	shipBeam	* o/a\n* pressure hull
+German submarine U-1301	shipBeam	* o/a\n* pressure hull
+German submarine U-1303	shipBeam	* o/a\n* pressure hull
+German submarine U-1304	shipBeam	* o/a\n* pressure hull
+German submarine U-1305	shipBeam	* o/a\n* pressure hull
+German submarine U-1306	shipBeam	* o/a\n* pressure hull
+German submarine U-1307	shipBeam	* o/a\n* pressure hull
+German submarine U-761	shipBeam	* o/a\n* pressure hull
+RV Martin Sheen	shipBeam	20.6
+German submarine U-762	shipBeam	* o/a\n* pressure hull
+German submarine U-773	shipBeam	* o/a\n* pressure hull
+German submarine U-774	shipBeam	* o/a\n* pressure hull
+German submarine U-776	shipBeam	* o/a\n* pressure hull
+German submarine U-779	shipBeam	* o/a\n* pressure hull
+German submarine U-822	shipBeam	* o/a\n* pressure hull
+German submarine U-826	shipBeam	* o/a\n* pressure hull
+German submarine U-901	shipBeam	* o/a\n* pressure hull
+German submarine U-903	shipBeam	* o/a\n* pressure hull
+German submarine U-905	shipBeam	* o/a\n* pressure hull
+German submarine U-907	shipBeam	* o/a\n* pressure hull
+German submarine U-904	shipBeam	* o/a\n* pressure hull
+German submarine U-921	shipBeam	* o/a\n* pressure hull
+German submarine U-922	shipBeam	* o/a\n* pressure hull
+German submarine U-923	shipBeam	* o/a\n* pressure hull
+German submarine U-924	shipBeam	* o/a\n* pressure hull
+German submarine U-925	shipBeam	* o/a\n* pressure hull
+German submarine U-926	shipBeam	* o/a\n* pressure hull
+German submarine U-927	shipBeam	* o/a\n* pressure hull
+German submarine U-928	shipBeam	* o/a\n* pressure hull
+German submarine U-951	shipBeam	* o/a\n* pressure hull
+German submarine U-955	shipBeam	* o/a\n* pressure hull
+German submarine U-959	shipBeam	* o/a\n* pressure hull
+German submarine U-963	shipBeam	* o/a\n* pressure hull
+German submarine U-965	shipBeam	* o/a\n* pressure hull
+German submarine U-970	shipBeam	* o/a\n* pressure hull
+German submarine U-966	shipBeam	* o/a\n* pressure hull
+German submarine U-991	shipBeam	* o/a\n* pressure hull
+German submarine U-972	shipBeam	* o/a\n* pressure hull
+German submarine U-993	shipBeam	* o/a\n* pressure hull
+German submarine U-1053	shipBeam	* o/a\n* pressure hull
+German submarine U-1054	shipBeam	* o/a\n* pressure hull
+German submarine U-974	shipBeam	* o/a\n* pressure hull
+German submarine U-975	shipBeam	* o/a\n* pressure hull
+German submarine U-976	shipBeam	* o/a\n* pressure hull
+German submarine U-980	shipBeam	* o/a\n* pressure hull
+German submarine U-1191	shipBeam	* o/a\n* pressure hull
+German submarine U-1102	shipBeam	* o/a\n* pressure hull
+German submarine U-792	shipBeam	* o/a\n* pressure hull
+German submarine U-981	shipBeam	* o/a\n* pressure hull
+German submarine U-986	shipBeam	* o/a\n* pressure hull
+German submarine U-983	shipBeam	* o/a\n* pressure hull
+German submarine U-982	shipBeam	* o/a\n* pressure hull
+German submarine U-987	shipBeam	* o/a\n* pressure hull
+German submarine U-994	shipBeam	* o/a\n* pressure hull
+German submarine U-1057	shipBeam	* o/a\n* pressure hull
+German submarine U-1052	shipBeam	* o/a\n* pressure hull
+German submarine U-1056	shipBeam	* o/a\n* pressure hull
+German submarine U-1058	shipBeam	* o/a\n* pressure hull
+German submarine U-1101	shipBeam	* o/a\n* pressure hull
+German submarine U-1131	shipBeam	* o/a\n* pressure hull
+German submarine U-1132	shipBeam	* o/a\n* pressure hull
+German submarine U-1161	shipBeam	* o/a\n* pressure hull
+German submarine U-1192	shipBeam	* o/a\n* pressure hull
+German submarine U-1162	shipBeam	* o/a\n* pressure hull
+German submarine U-1194	shipBeam	* o/a\n* pressure hull
+German submarine U-1193	shipBeam	* o/a\n* pressure hull
+German submarine U-1196	shipBeam	* o/a\n* pressure hull
+German submarine U-1197	shipBeam	* o/a\n* pressure hull
+German submarine U-1198	shipBeam	* o/a\n* pressure hull
+German submarine U-1201	shipBeam	* o/a\n* pressure hull
+German submarine U-1205	shipBeam	* o/a\n* pressure hull
+German submarine U-1204	shipBeam	* o/a\n* pressure hull
+German submarine U-1207	shipBeam	* o/a\n* pressure hull
+German submarine U-1209	shipBeam	* o/a\n* pressure hull
+MV Alucia	shipBeam	11.88
+German submarine U-1210	shipBeam	* o/a\n* pressure hull
+German submarine U-851	shipBeam	* o/a\n* pressure hull
+German submarine U-860	shipBeam	* o/a\n* pressure hull
+French gunboat Flèche	shipBeam	7.8
+German submarine U-863	shipBeam	* o/a\n* pressure hull
+German submarine U-871	shipBeam	* o/a\n* pressure hull
+German submarine U-872	shipBeam	* o/a\n* pressure hull
+Étincelle-class gunboat	shipBeam	7.8
+German submarine U-876	shipBeam	* o/a\n* pressure hull
+German submarine U-875	shipBeam	* o/a\n* pressure hull
+German submarine U-874	shipBeam	* o/a\n* pressure hull
+French aviso Trancrède	shipBeam	8.6
+German submarine U-793	shipBeam	* o/a\n* ph
+German submarine U-1405	shipBeam	* o/a\n* pressure hull
+German submarine U-2522	shipBeam	* \n*
+German submarine U-2520	shipBeam	* \n*
+German submarine U-2517	shipBeam	* \n*
+French gunboat Le Brethon	shipBeam	6.7
+German submarine U-2515	shipBeam	* \n*
+German submarine U-2514	shipBeam	* \n*
+German submarine U-2510	shipBeam	* \n*
+German submarine U-2512	shipBeam	* \n*
+German submarine U-2509	shipBeam	* \n*
+German submarine U-2508	shipBeam	* \n*
+German submarine U-2507	shipBeam	* \n*
+German submarine U-2505	shipBeam	* \n*
+German submarine U-2504	shipBeam	* \n*
+German submarine U-2525	shipBeam	* \n*
+German submarine U-2541	shipBeam	* \n*
+German submarine U-3015	shipBeam	* \n*
+German submarine U-3022	shipBeam	* \n*
+German submarine U-3044	shipBeam	* \n*
+German submarine U-3510	shipBeam	* \n*
+German submarine U-2526	shipBeam	* \n*
+German submarine U-3529	shipBeam	* \n*
+German submarine U-2527	shipBeam	* \n*
+German submarine U-2531	shipBeam	* \n*
+German submarine U-2528	shipBeam	* \n*
+German submarine U-3002	shipBeam	* \n*
+German submarine U-3016	shipBeam	* \n*
+German submarine U-3018	shipBeam	* \n*
+German submarine U-3021	shipBeam	* \n*
+German submarine U-3019	shipBeam	* \n*
+German submarine U-3020	shipBeam	* \n*
+German submarine U-3522	shipBeam	* \n*
+German submarine U-3521	shipBeam	* \n*
+German submarine U-3516	shipBeam	* \n*
+German submarine U-3517	shipBeam	* \n*
+German submarine U-2535	shipBeam	* \n*
+German submarine U-2536	shipBeam	* \n*
+German submarine U-3012	shipBeam	* \n*
+German submarine U-3011	shipBeam	* \n*
+German submarine U-3013	shipBeam	* \n*
+German submarine U-3023	shipBeam	* \n*
+German submarine U-3025	shipBeam	* \n*
+German submarine U-3027	shipBeam	* \n*
+German submarine U-3507	shipBeam	* \n*
+German submarine U-3026	shipBeam	* \n*
+NMS Rechinul	shipBeam	*
+NMS Marsuinul	shipBeam	*
+German submarine U-3511	shipBeam	* \n*
+German submarine U-3518	shipBeam	* \n*
+German submarine U-3525	shipBeam	* \n*
+German submarine U-3530	shipBeam	* \n*
+German submarine U-3039	shipBeam	* \n*
+German submarine U-3031	shipBeam	* \n*
+German submarine U-3038	shipBeam	* \n*
+German submarine U-3028	shipBeam	* \n*
+German submarine U-3029	shipBeam	* \n*
+German submarine U-2552	shipBeam	* \n*
+German submarine U-3005	shipBeam	* \n*
+German submarine U-2548	shipBeam	* \n*
+German submarine U-3526	shipBeam	* \n*
+German submarine U-3513	shipBeam	* \n*
+German submarine U-2546	shipBeam	* \n*
+Cleopatra	shipBeam	16.0
+German submarine U-2524	shipBeam	* \n*
+German submarine U-2534	shipBeam	* \n*
+German submarine U-2539	shipBeam	* \n*
+German submarine U-2543	shipBeam	* \n*
+German submarine U-2544	shipBeam	* \n*
+German submarine U-2538	shipBeam	* \n*
+German submarine U-3001	shipBeam	* \n*
+German submarine U-3024	shipBeam	* \n*
+German submarine U-3030	shipBeam	* \n*
+German submarine U-3033	shipBeam	* \n*
+German submarine U-3034	shipBeam	* \n*
+German submarine U-3503	shipBeam	* \n*
+German submarine U-3504	shipBeam	* \n*
+German submarine U-3528	shipBeam	* \n*
+German submarine U-3527	shipBeam	* \n*
+German submarine U-2521	shipBeam	* \n*
+German submarine U-2523	shipBeam	* \n*
+German submarine U-2529	shipBeam	* \n*
+German submarine U-2533	shipBeam	* \n*
+German submarine U-2530	shipBeam	* \n*
+German submarine U-2542	shipBeam	* \n*
+German submarine U-3003	shipBeam	* \n*
+German submarine U-3004	shipBeam	* \n*
+German submarine U-3006	shipBeam	* \n*
+German submarine U-3007	shipBeam	* \n*
+German submarine U-3009	shipBeam	* \n*
+General Purpose Frigate	shipBeam	~
+German submarine U-3017	shipBeam	* \n*
+German submarine U-3032	shipBeam	* \n*
+German submarine U-3040	shipBeam	* \n*
+German submarine U-3035	shipBeam	* \n*
+German submarine U-3502	shipBeam	* \n*
+German submarine U-3501	shipBeam	* \n*
+German submarine U-3041	shipBeam	* \n*
+German submarine U-3512	shipBeam	* \n*
+German submarine U-3515	shipBeam	* \n*
+German submarine U-3520	shipBeam	* \n*
+German submarine U-3523	shipBeam	* \n*
+German submarine U-2325	shipBeam	* \n*
+German submarine U-2328	shipBeam	* \n*
+German submarine U-2327	shipBeam	* \n*
+German submarine U-2326	shipBeam	* \n*
+German submarine U-2355	shipBeam	* \n*
+German submarine U-2363	shipBeam	* \n*
+German submarine U-2350	shipBeam	* \n*
+German submarine U-2337	shipBeam	* \n*
+German submarine U-2335	shipBeam	* \n*
+German submarine U-2334	shipBeam	* \n*
+German submarine U-2329	shipBeam	* \n*
+German submarine U-2330	shipBeam	* \n*
+German submarine U-2333	shipBeam	* \n*
+German submarine U-2332	shipBeam	* \n*
+German submarine U-2338	shipBeam	* \n*
+German submarine U-2339	shipBeam	* \n*
+German submarine U-2340	shipBeam	* \n*
+German submarine U-2341	shipBeam	* \n*
+German submarine U-2343	shipBeam	* \n*
+German submarine U-2346	shipBeam	* \n*
+German submarine U-2347	shipBeam	* \n*
+German submarine U-2349	shipBeam	* \n*
+German submarine U-2357	shipBeam	* \n*
+German submarine U-2360	shipBeam	* \n*
+German submarine U-2364	shipBeam	* \n*
+German submarine U-2358	shipBeam	* \n*
+German submarine U-2362	shipBeam	* \n*
+German submarine U-2366	shipBeam	* \n*
+German submarine U-2368	shipBeam	* \n*
+German submarine U-2369	shipBeam	* \n*
+German submarine U-2345	shipBeam	* \n*
+German submarine U-2351	shipBeam	* \n*
+German submarine U-2354	shipBeam	* \n*
+German submarine U-2356	shipBeam	* \n*
+German submarine U-2361	shipBeam	* \n*
+German submarine U-2352	shipBeam	* \n*
+German submarine U-2348	shipBeam	* \n*
+German submarine U-2353	shipBeam	* \n*
+German submarine U-2359	shipBeam	* \n*
+German submarine U-2365	shipBeam	* \n*
+German submarine U-2371	shipBeam	* \n*
+German submarine U-2367	shipBeam	* \n*
+German submarine U-4711	shipBeam	* \n*
+SAS President Pretorius	shipBeam	41.0
+German submarine U-4709	shipBeam	* \n*
+SAS President Steyn	shipBeam	41.0
+German submarine U-4705	shipBeam	* \n*
+German submarine U-4707	shipBeam	* \n*
+German submarine U-4704	shipBeam	* \n*
+German submarine U-4701	shipBeam	* \n*
+German submarine U-4710	shipBeam	* \n*
+German submarine U-4702	shipBeam	* \n*
+German submarine U-4703	shipBeam	* \n*
+Napoléon-class ship of the line	shipBeam	17 m
+German submarine U-4712	shipBeam	* \n*
+German submarine U-4706	shipBeam	* \n*
+USS PGM-32	shipBeam	23.0
+French ship Royal Hollandais	shipBeam	14.43
+French ship Chatham	shipBeam	14.43
+French ship Brillant	shipBeam	13.2
+French ship Réfléchi	shipBeam	13.2
+SS Bratstvo	shipBeam	abt
+H45 Battleship Proposal	shipBeam	* H45:
+RRS Sir David Attenborough	shipBeam	Approx
+French ship Ajax	shipBeam	13.2
+French ship Hardi	shipBeam	13.2
+French ship Sévère	shipBeam	13.2
+French ship Sphinx	shipBeam	13.3
+French ship Saint Michel	shipBeam	12.5
+French ship Bizarre	shipBeam	13.3
+French ship Flamand	shipBeam	13.8
+India's First Solar Ferry	shipBeam	7 m
+Democrația-class minesweeper	shipBeam	8.5
+Romanian gunboat Fulgerul	shipBeam	4.8
+Romanian battleship Mihai Viteazul	shipBeam	19.0
+Donbas	shipBeam	17 m
+Parola-class patrol vessel	shipBeam	approx.
+SS Corvus	shipBeam	.
+Real McCoy II	shipBeam	38.0
+HMS Dolphin	shipBeam	34'
+Lider-class destroyer	shipBeam	20m
+USCGC Cape Small	shipBeam	max
+Vista-class cruise ship	shipBeam	at pool decks
+HMS Elizabeth	shipBeam	*Schooner: \n*Brig:
+Karakut-class corvette	shipBeam	*
+Yoshino Maru	shipBeam	17.5 m
+Project 131 Libelle Torpedo Boat	shipBeam	4.42 m
+MV A Regina	shipBeam	18.00 m
+Dutch ship Tromp	shipBeam	2580.0
+MV Ever Queen of Asia	shipBeam	10m
+Robert Young	shipBeam	over hull
+Sakito Maru	shipBeam	19 m
+SS Dalfram	shipBeam	54.1
+MS Norstream	shipBeam	26m
+Hawaii Maru	shipBeam	18.6 m
+Yuri Olefirenko	shipBeam	9.3 m
+MS Norsky	shipBeam	26m
+John H. Couch	shipBeam	over hull .
+No Wonder	shipBeam	over hull
+Edogawa Maru	shipBeam	18.2 m

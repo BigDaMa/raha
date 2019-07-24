@@ -1,0 +1,46 @@
+<!-- Data source editor -->
+<div class="modal hide" id="source-editor">
+    <div class="modal-header">
+        <button type="button"
+                class="close"
+                data-dismiss="modal"
+                aria-hidden="true">
+            &times;
+        </button>
+        <h4>Create New Data Source</h4>
+    </div>
+
+    <div class="modal-body modal_large">
+        <div>
+            <div id="dropbox">
+                <span id="dropbox-message">
+                    Drop CSV file here to upload.
+                </span>
+            </div>
+            <div id="schema" class="hide">
+                <table class="table table-striped table-bordered" style="width: 80%; margin: 20px auto 20px;">
+                    <thead>
+                        <tr>
+                            <th>Attribute Name</th>
+                            <th>Type</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+            <div class="hide" id="dropbox-progress" style="width: 80%; margin: 20px auto 20px;">
+                <div class="bar bar-success"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-footer">
+        <button href="#"
+         data-target="#datasource"
+         class="btn btn-large btn-primary disabled"
+         id="source-editor-save">
+            Upload
+        </button>
+    </div>
+</div>

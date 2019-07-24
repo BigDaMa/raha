@@ -1,0 +1,956 @@
+Black	g	0
+Blue	g	0
+Cyan	g	255
+Cyan	g	183
+Green	g	255
+Indigo	g	0
+Indigo	g	43
+Indigo	g	131
+Red	g	0
+Sienna	g	45
+Sienna	g	116
+Sienna	g	20
+Sienna	g	82
+Yellow	g	255
+Violet	g	0
+Purple	g	0
+Brown	g	75
+Ultramarine	g	0
+Magenta	g	0
+Orange	g	127
+Jonquil	g	202
+Tyrian purple	g	2
+Khaki	g	230
+Khaki	g	176
+Khaki	g	183
+Pink	g	192
+Crimson	g	20
+Crimson	g	0
+Crimson	g	192
+Crimson	g	145
+Crimson	g	82
+Crimson	g	53
+Crimson	g	38
+Crimson	g	26
+Crimson	g	37
+Crimson	g	17
+Crimson	g	30
+Crimson	g	22
+Crimson	g	27
+Crimson	g	28
+Crimson	g	1
+Gold	g	215
+Gold	g	175
+Gold	g	190
+Gold	g	223
+Gold	g	204
+Gold	g	194
+Gold	g	181
+Gold	g	147
+Gold	g	232
+Gold	g	184
+Gold	g	145
+Gold	g	165
+Gold	g	179
+Gold	g	161
+Gold	g	101
+Ochre	g	119
+Vermilion	g	66
+Vermilion	g	83
+Vermilion	g	69
+Vermilion	g	96
+Vermilion	g	56
+Coral	g	127
+Coral	g	131
+Coral	g	128
+Cadmium pigments	g	135
+Cadmium pigments	g	0
+Cadmium pigments	g	107
+Cadmium pigments	g	96
+Umber	g	81
+Umber	g	102
+Umber	g	51
+Navy blue	g	0
+Navy blue	g	116
+Navy blue	g	31
+Navy blue	g	81
+Navy blue	g	18
+Navy blue	g	41
+Powder blue	g	224
+Phthalocyanine Blue BN	g	15
+Grey	g	128
+Tan	g	180
+Tan	g	217
+Tan	g	167
+Tan	g	85
+Tan	g	123
+Mauve	g	176
+Mauve	g	133
+Mauve	g	115
+Mauve	g	132
+Mauve	g	95
+Mauve	g	49
+Beige	g	245
+Beige	g	248
+Beige	g	253
+Beige	g	221
+Beige	g	214
+Beige	g	220
+Beige	g	201
+Beige	g	178
+Beige	g	176
+Beige	g	123
+Beige	g	113
+Bistre	g	43
+Bistre	g	113
+Bistre	g	109
+Bistre	g	117
+Azure	g	127
+Azure	g	255
+Azure	g	248
+Azure	g	206
+Azure	g	207
+Azure	g	191
+Azure	g	194
+Azure	g	185
+Azure	g	178
+Azure	g	177
+Azure	g	146
+Azure	g	149
+Azure	g	140
+Azure	g	144
+Azure	g	112
+Azure	g	115
+Azure	g	105
+Azure	g	151
+Azure	g	158
+Azure	g	137
+Azure	g	145
+Azure	g	109
+Azure	g	123
+Azure	g	138
+Azure	g	130
+Azure	g	114
+Azure	g	97
+Azure	g	35
+Teal	g	128
+Teal	g	117
+Salmon	g	128
+Salmon	g	160
+Salmon	g	145
+Salmon	g	150
+Olive	g	128
+Olive	g	185
+Olive	g	142
+Olive	g	79
+Olive	g	52
+Olive	g	107
+Olive	g	60
+Fuchsia	g	0
+Fuchsia	g	192
+Fuchsia	g	63
+Fuchsia	g	67
+Fuchsia	g	57
+Fuchsia	g	84
+Fuchsia	g	51
+Fuchsia	g	92
+Peach	g	229
+Peach	g	218
+Peach	g	203
+Silver	g	192
+Silver	g	174
+Silver	g	193
+Silver	g	172
+Silver	g	137
+Silver	g	132
+Silver	g	117
+Cardinal	g	30
+Cardinal	g	21
+Cardinal	g	18
+Lavender	g	230
+Lavender	g	240
+Lavender	g	202
+Lavender	g	195
+Lavender	g	200
+Lavender	g	208
+Lavender	g	204
+Lavender	g	160
+Lavender	g	178
+Lavender	g	180
+Lavender	g	115
+Lavender	g	126
+Lavender	g	102
+Lavender	g	112
+Lavender	g	120
+Lavender	g	131
+Lavender	g	73
+Lavender	g	104
+Venetian red	g	8
+Liver	g	76
+Liver	g	59
+Liver	g	61
+Liver	g	46
+Copper	g	115
+Copper	g	138
+Copper	g	109
+Copper	g	111
+Copper	g	102
+Persian red	g	29
+Dodger blue	g	144
+Lemon	g	250
+Lemon	g	234
+Lemon	g	255
+Lemon	g	244
+Lemon	g	224
+Lemon	g	169
+Lemon	g	160
+Lemon	g	199
+Persian blue	g	57
+Persian blue	g	103
+Persian blue	g	18
+Puce	g	47
+Puce	g	92
+Puce	g	22
+Puce	g	58
+Periwinkle	g	204
+Amber	g	191
+Amber	g	126
+Scarlet	g	36
+Scarlet	g	51
+Scarlet	g	40
+Scarlet	g	88
+Scarlet	g	34
+Cerulean	g	123
+Cerulean	g	63
+Cerulean	g	82
+Cerulean	g	180
+Cerulean	g	172
+Cerulean	g	155
+Orchid	g	112
+Orchid	g	189
+Orchid	g	50
+Sepia	g	66
+Viridian	g	130
+Viridian	g	155
+Viridian	g	150
+Viridian	g	127
+Cobalt blue	g	71
+Turquoise	g	224
+Turquoise	g	255
+Turquoise	g	238
+Turquoise	g	209
+Turquoise	g	206
+Turquoise	g	198
+Cerise	g	49
+Cerise	g	0
+Cerise	g	50
+Cerise	g	68
+Lilac	g	162
+Lilac	g	208
+Lilac	g	145
+Lilac	g	102
+Lilac	g	96
+Cream	g	253
+Maroon	g	0
+Maroon	g	33
+Maroon	g	48
+Verdigris	g	179
+Chartreuse	g	255
+Chartreuse	g	249
+Chartreuse	g	226
+Chartreuse	g	252
+Chartreuse	g	197
+Chartreuse	g	194
+Chartreuse	g	205
+Chartreuse	g	182
+Chartreuse	g	154
+Chartreuse	g	130
+Chartreuse	g	128
+Chartreuse	g	66
+British racing green	g	66
+Lime	g	255
+Lime	g	253
+Lime	g	205
+Red-violet	g	21
+Red-violet	g	159
+Red-violet	g	178
+Red-violet	g	136
+Red-violet	g	112
+Red-violet	g	83
+Red-violet	g	0
+Red-violet	g	93
+Red-violet	g	65
+Red-violet	g	51
+Red-violet	g	79
+Red-violet	g	11
+Red-violet	g	47
+Red-violet	g	41
+Red-violet	g	64
+School bus yellow	g	216
+Safety orange	g	121
+Cosmic latte	g	248
+Mahogany	g	64
+Mahogany	g	74
+Naples yellow	g	218
+Gamboge	g	155
+Indian yellow	g	168
+Aquamarine	g	255
+Aquamarine	g	205
+Seal brown	g	38
+Carmine	g	0
+Carmine	g	108
+Carmine	g	53
+Carmine	g	62
+Carmine	g	11
+Carmine	g	41
+Catawba	g	54
+Baby blue	g	207
+Baby blue	g	254
+Baby blue	g	212
+Baby blue	g	202
+Baby blue	g	160
+Feldgrau	g	93
+Champagne	g	231
+Champagne	g	229
+Champagne	g	214
+Champagne	g	178
+Old gold	g	181
+Burgundy	g	0
+Burgundy	g	29
+Burgundy	g	48
+Eggplant	g	64
+Wheat	g	222
+Goldenrod	g	165
+Goldenrod	g	250
+Goldenrod	g	232
+Goldenrod	g	134
+Lemon chiffon	g	250
+Seashell	g	245
+Midnight blue	g	25
+Midnight blue	g	51
+Robin egg blue	g	204
+Robin egg blue	g	222
+Robin egg blue	g	216
+Spring green	g	255
+Spring green	g	240
+Spring green	g	250
+Spring green	g	193
+Spring green	g	204
+Spring green	g	186
+Spring green	g	180
+Spring green	g	179
+Spring green	g	171
+Spring green	g	167
+Spring green	g	166
+Spring green	g	139
+Spring green	g	128
+Spring green	g	121
+Spring green	g	122
+Spring green	g	130
+Spring green	g	114
+Chocolate	g	63
+Chocolate	g	105
+Cornflower blue	g	149
+Cornflower blue	g	206
+Steel blue	g	130
+Steel blue	g	196
+Chestnut	g	69
+Chestnut	g	78
+Slate gray	g	128
+Slate gray	g	136
+Slate gray	g	79
+Gunmetal	g	98
+Royal blue	g	35
+Royal blue	g	105
+Royal blue	g	107
+Buff	g	220
+Flax	g	220
+Mustard	g	219
+Payne's grey	g	104
+Blue-green	g	152
+Blue-green	g	255
+Blue-green	g	224
+Blue-green	g	116
+Blue-green	g	169
+Blue-green	g	100
+Blue-green	g	128
+Navajo white	g	222
+Columbia blue	g	216
+Taupe	g	60
+Taupe	g	139
+Taupe	g	95
+Taupe	g	93
+Taupe	g	113
+Taupe	g	133
+Taupe	g	94
+Taupe	g	76
+Auburn hair	g	42
+Non-photo blue	g	221
+Fire engine red	g	32
+Terra cotta	g	114
+Raspberry	g	11
+Raspberry	g	44
+Raspberry	g	68
+Raspberry	g	95
+Raspberry	g	38
+Rose	g	0
+Rose	g	228
+Rose	g	194
+Rose	g	137
+Rose	g	127
+Rose	g	102
+Rose	g	66
+Rose	g	83
+Rose	g	111
+Rose	g	96
+Rose	g	74
+Rose	g	37
+Rose	g	51
+Rose	g	40
+Rose	g	67
+Rose	g	30
+Rose	g	68
+Rose	g	81
+Rose	g	152
+Rose	g	143
+Rose	g	128
+Rose	g	78
+Rose	g	63
+Rose	g	93
+Rose	g	76
+Aqua	g	255
+Aqua	g	212
+Paris green	g	200
+Sapphire	g	82
+Sapphire	g	103
+Sapphire	g	93
+Sapphire	g	88
+Sapphire	g	97
+Sapphire	g	37
+Magnolia	g	233
+Selective yellow	g	186
+New Hampshire Wildcats	g	53
+Saffron	g	196
+Saffron	g	174
+Saffron	g	153
+Sinopia	g	65
+Phthalocyanine Green G	g	53
+Rust	g	65
+Russet	g	70
+Heliotrope	g	115
+Heliotrope	g	152
+Heliotrope	g	60
+Rosso corsa	g	0
+Tiffany Blue	g	216
+Coquelicot	g	56
+Oxblood	g	0
+Egyptian blue	g	52
+Ecru	g	178
+International orange	g	79
+International orange	g	74
+International orange	g	22
+Maize	g	236
+Eggshell	g	234
+Ivory	g	255
+Zaffre	g	20
+Aureolin	g	238
+Amaranth	g	156
+Amaranth	g	53
+Amaranth	g	39
+Amaranth	g	43
+Apricot	g	206
+Apricot	g	213
+Apricot	g	184
+Arylide yellow	g	214
+Fallow	g	154
+Forest green	g	139
+Shades of orange	g	127
+Shades of orange	g	165
+Shades of orange	g	140
+Shades of orange	g	88
+Shades of orange	g	117
+Shades of orange	g	239
+Shades of orange	g	229
+Shades of orange	g	206
+Shades of orange	g	188
+Shades of orange	g	153
+Shades of orange	g	131
+Shades of orange	g	145
+Shades of orange	g	159
+Shades of orange	g	128
+Shades of orange	g	130
+Shades of orange	g	97
+Shades of orange	g	90
+Shades of orange	g	66
+Shades of orange	g	99
+Shades of orange	g	111
+Shades of orange	g	144
+Shades of orange	g	98
+Shades of orange	g	87
+Shades of orange	g	79
+Shades of orange	g	75
+Bole	g	68
+Yale Blue	g	53
+Fawn	g	170
+Persian green	g	166
+Maya blue	g	194
+Millettia laurentii	g	84
+NIVO	g	76
+Spring bud	g	252
+Spring bud	g	235
+Spring bud	g	220
+Spring bud	g	218
+Spring bud	g	182
+Spring bud	g	145
+Jungle green	g	171
+Jungle green	g	117
+Jungle green	g	122
+Jungle green	g	75
+Jungle green	g	53
+Jungle green	g	36
+Air Force blue	g	138
+Air Force blue	g	48
+Air Force blue	g	79
+Air Force blue	g	206
+Air Force blue	g	185
+Air Force blue	g	173
+Air Force blue	g	160
+Air Force blue	g	114
+Electric blue	g	249
+Electric blue	g	117
+Electric blue	g	55
+Electric blue	g	80
+Electric blue	g	104
+Electric blue	g	151
+Carolina blue	g	175
+Glaucous	g	130
+Eton blue	g	200
+Cambridge Blue	g	193
+Electric green	g	255
+Shades of green	g	255
+Shades of green	g	151
+Shades of green	g	111
+Shades of green	g	169
+Shades of green	g	130
+Shades of green	g	50
+Shades of green	g	121
+Shades of green	g	188
+Shades of green	g	139
+Shades of green	g	171
+Shades of green	g	186
+Shades of green	g	238
+Shades of green	g	195
+Shades of green	g	154
+Shades of green	g	93
+Shades of green	g	120
+Shades of green	g	251
+Shades of green	g	158
+Shades of green	g	240
+Shades of green	g	128
+Shades of green	g	100
+Shades of green	g	165
+Shades of green	g	159
+Shades of green	g	168
+Shades of green	g	173
+Shades of green	g	172
+Shades of green	g	83
+Shades of green	g	106
+Shades of green	g	77
+Shades of green	g	86
+Shades of green	g	225
+Shades of green	g	132
+Shades of green	g	192
+Shades of green	g	105
+Shades of green	g	220
+Shades of green	g	94
+Shades of green	g	136
+Shades of green	g	144
+Shades of green	g	187
+Shades of green	g	218
+Shades of green	g	73
+Shades of green	g	69
+Shades of green	g	102
+Shades of green	g	200
+Shades of green	g	166
+Shades of green	g	76
+Shades of green	g	146
+Shades of green	g	78
+Shades of green	g	145
+Shades of green	g	68
+Lava	g	60
+Ruby	g	17
+Ruby	g	0
+Ruby	g	70
+Ruby	g	64
+Ruby	g	37
+Ruby	g	27
+Ruby	g	63
+Shades of red	g	0
+Shades of red	g	192
+Shades of red	g	145
+Shades of red	g	131
+Shades of red	g	128
+Shades of red	g	28
+Shades of red	g	2
+Shades of red	g	41
+Shades of red	g	32
+Shades of red	g	36
+Shades of red	g	92
+Shades of red	g	60
+Shades of red	g	17
+Shades of red	g	20
+Shades of red	g	44
+Shades of red	g	30
+Shades of red	g	61
+Shades of red	g	27
+Shades of red	g	34
+Shades of red	g	90
+Shades of red	g	10
+Candy apple red	g	8
+Candy apple red	g	113
+Cordovan	g	63
+Fulvous	g	132
+Cinereous	g	129
+Wine	g	47
+Wine	g	231
+Wine	g	23
+Wine	g	0
+Wine	g	49
+White	g	255
+Duke blue	g	0
+Mikado yellow	g	196
+Carnelian	g	27
+Shades of pink	g	192
+Shades of pink	g	182
+Shades of pink	g	105
+Shades of pink	g	20
+Shades of pink	g	221
+Shades of pink	g	204
+Shades of pink	g	194
+Shades of pink	g	191
+Shades of pink	g	187
+Shades of pink	g	189
+Shades of pink	g	183
+Shades of pink	g	179
+Shades of pink	g	180
+Shades of pink	g	188
+Shades of pink	g	166
+Shades of pink	g	145
+Shades of pink	g	137
+Shades of pink	g	156
+Shades of pink	g	143
+Shades of pink	g	111
+Shades of pink	g	218
+Shades of pink	g	113
+Shades of pink	g	131
+Shades of pink	g	165
+Shades of pink	g	56
+Shades of pink	g	174
+Shades of pink	g	178
+Shades of pink	g	72
+Shades of pink	g	24
+Shades of pink	g	82
+Shades of pink	g	62
+Shades of pink	g	96
+Shades of pink	g	108
+Shades of pink	g	127
+Shades of pink	g	92
+Shades of pink	g	15
+Shades of pink	g	107
+Shades of pink	g	51
+Turkey red	g	17
+Portland Orange	g	90
+Bronze	g	127
+Bronze	g	113
+Bronze	g	93
+Shades of magenta	g	0
+Shades of magenta	g	31
+Shades of magenta	g	39
+Shades of magenta	g	83
+Shades of magenta	g	111
+Shades of magenta	g	51
+Shades of magenta	g	29
+Shades of magenta	g	78
+Shades of magenta	g	15
+Shades of magenta	g	112
+Shades of magenta	g	65
+Shades of magenta	g	52
+Shades of magenta	g	113
+Shades of magenta	g	69
+Shades of magenta	g	59
+Plum	g	69
+Plum	g	160
+Plum	g	28
+Tuscan red	g	48
+Tuscan red	g	214
+Tuscan red	g	153
+Tuscan red	g	123
+Tuscan red	g	68
+Tuscan red	g	78
+Desert sand	g	201
+Desert sand	g	164
+Desert sand	g	169
+Desert sand	g	178
+Desert sand	g	154
+Desert sand	g	113
+Desert sand	g	84
+Camel	g	154
+Byzantium	g	41
+Byzantium	g	51
+Byzantium	g	57
+Midnight green	g	73
+Blue-gray	g	153
+Blue-gray	g	166
+Blue-gray	g	90
+Blue-gray	g	162
+Blue-gray	g	130
+Blue-gray	g	163
+Blue-gray	g	146
+Blue-gray	g	138
+Blue-gray	g	139
+Blue-gray	g	102
+Blue-gray	g	137
+Blue-gray	g	118
+Blue-gray	g	104
+Straw	g	217
+Citrine	g	208
+Platinum	g	228
+Sunset	g	214
+Sunset	g	204
+Sunset	g	168
+Sunset	g	94
+Isabelline	g	240
+Shades of yellow	g	255
+Shades of yellow	g	250
+Shades of yellow	g	239
+Shades of yellow	g	211
+Shades of yellow	g	204
+Shades of yellow	g	223
+Shades of yellow	g	232
+Shades of yellow	g	222
+Shades of yellow	g	218
+Shades of yellow	g	215
+Shades of yellow	g	210
+Shades of yellow	g	181
+Shades of yellow	g	176
+Shades of yellow	g	165
+Shades of yellow	g	128
+Tawny	g	87
+Alizarin crimson	g	38
+Stil de grain yellow	g	218
+Capri	g	191
+Cadet grey	g	163
+Cadet grey	g	158
+Cadet grey	g	123
+Cadet grey	g	104
+Cadet grey	g	41
+Tufts Blue	g	142
+UCLA Blue	g	132
+Vanilla	g	229
+Vanilla	g	217
+Vanilla	g	190
+Shades of blue	g	0
+Shades of blue	g	207
+Shades of blue	g	216
+Shades of blue	g	204
+Shades of blue	g	224
+Shades of blue	g	51
+Shades of blue	g	135
+Shades of blue	g	147
+Shades of blue	g	24
+Shades of blue	g	117
+Shades of blue	g	112
+Shades of blue	g	90
+Shades of blue	g	52
+Shades of blue	g	35
+Shades of blue	g	25
+Shades of blue	g	81
+Shades of blue	g	41
+True Blue	g	115
+Shades of white	g	255
+Shades of white	g	248
+Shades of white	g	245
+Shades of white	g	254
+Shades of white	g	250
+Shades of white	g	253
+Shades of white	g	240
+Shades of white	g	235
+Shades of white	g	231
+Shades of white	g	234
+Shades of white	g	223
+Shades of white	g	218
+Shades of white	g	229
+Shades of white	g	220
+Shades of white	g	222
+Shades of white	g	178
+Jasmine	g	222
+Alice blue	g	248
+Shades of gray	g	128
+Shades of gray	g	255
+Shades of gray	g	0
+Shades of gray	g	220
+Shades of gray	g	211
+Shades of gray	g	192
+Shades of gray	g	190
+Shades of gray	g	169
+Shades of gray	g	152
+Shades of gray	g	105
+Shades of gray	g	20.29
+Shades of gray	g	85
+Shades of gray	g	52
+Shades of gray	g	228
+Shades of gray	g	132
+Shades of gray	g	116
+Shades of gray	g	69
+Shades of gray	g	146
+Shades of gray	g	163
+Shades of gray	g	153
+Shades of gray	g	130
+Shades of gray	g	113
+Shades of gray	g	88
+Shades of gray	g	129
+Shades of gray	g	60
+Coffee	g	78
+Coffee	g	123
+Coffee	g	54
+Lion	g	154
+Shades of violet	g	0
+Shades of violet	g	130
+Shades of violet	g	176
+Shades of violet	g	126
+Shades of violet	g	6
+Shades of violet	g	132
+Shades of violet	g	96
+Shades of violet	g	45
+Shades of violet	g	40
+Shades of violet	g	50
+Shades of violet	g	60
+Shades of violet	g	23
+Shades of cyan	g	255
+Shades of cyan	g	183
+Shades of cyan	g	152
+Shades of cyan	g	123
+Shades of cyan	g	43
+Shades of cyan	g	139
+Shades of cyan	g	249
+Shades of cyan	g	100
+Shades of cyan	g	176
+Shades of cyan	g	178
+Shades of cyan	g	73
+Shades of cyan	g	204
+Shades of cyan	g	218
+Shades of cyan	g	128
+Shades of cyan	g	216
+Shades of cyan	g	224
+Shades of cyan	g	70
+Shades of cyan	g	130
+Shades of purple	g	0
+Shades of purple	g	2
+Shades of purple	g	81
+Shades of purple	g	21
+Shades of purple	g	32
+Shades of purple	g	112
+Shades of purple	g	191
+Shades of purple	g	176
+Shades of purple	g	115
+Shades of purple	g	78
+Shades of purple	g	111
+Shades of purple	g	75
+Shades of purple	g	104
+Shades of purple	g	48
+Shades of purple	g	40
+Shades of purple	g	96
+Shades of purple	g	41
+Shades of purple	g	24
+Shades of purple	g	25
+Sky blue	g	206
+Sky blue	g	255
+Sky blue	g	218
+Sky blue	g	204
+Sky blue	g	191
+Sky blue	g	181
+Sky blue	g	178
+Sky blue	g	190
+Shades of brown	g	75
+Shades of brown	g	42
+Shades of brown	g	191
+Shades of brown	g	129
+Shades of brown	g	245
+Shades of brown	g	220
+Shades of brown	g	51
+Shades of brown	g	69
+Shades of brown	g	63
+Shades of brown	g	105
+Shades of brown	g	201
+Shades of brown	g	176
+Shades of brown	g	68
+Shades of brown	g	133
+Shades of brown	g	102
+Shades of brown	g	143
+Shades of brown	g	70
+Shades of brown	g	164
+Shades of brown	g	180
+Shades of brown	g	60
+Shades of brown	g	154
+Harvest gold	g	168
+Oxford Blue	g	33
+Shades of black	g	0
+Shades of black	g	25
+Shades of black	g	105
+Shades of black	g	93
+Shades of black	g	60
+Shades of black	g	85
+Shades of black	g	69
+Shades of black	g	74
+Shades of black	g	54
+Shades of black	g	12
+Shades of black	g	56
+Shades of black	g	53
+Shades of black	g	52
+Shades of black	g	33
+Shades of black	g	43
+Shades of black	g	27
+Shades of black	g	17
+Baker-Miller Pink	g	145
+Indian red	g	92
+Indian red	g	8
+Indian red	g	78
+Indian red	g	45
+Citron	g	169
+National symbols of Nepal	g	20
+Coyote brown	g	97
+Mulberry	g	75
+Acid green	g	191
+Android green	g	198
+Kobicha	g	68
+Federal Standard 595 camouflage colours	g	152
+Federal Standard 595 camouflage colours	g	108
+Federal Standard 595 camouflage colours	g	94
+Federal Standard 595 camouflage colours	g	84
+Federal Standard 595 camouflage colours	g	95
+Federal Standard 595 camouflage colours	g	67
+Federal Standard 595 camouflage colours	g	71
+Federal Standard 595 camouflage colours	g	171
+Federal Standard 595 camouflage colours	g	157
+Federal Standard 595 camouflage colours	g	144
+Federal Standard 595 camouflage colours	g	124
+Federal Standard 595 camouflage colours	g	91
+Federal Standard 595 camouflage colours	g	55
+Federal Standard 595 camouflage colours	g	92
+Federal Standard 595 camouflage colours	g	147
+Federal Standard 595 camouflage colours	g	77
+Federal Standard 595 camouflage colours	g	79
+Dark purple	g	25
+Marigold	g	162
+Marigold	g	215
+Marigold	g	213
+Marigold	g	165
+Dregs of wine	g	49
+Raisin black	g	33
+Cyclamen	g	111
+Mango	g	200
+Reseda green	g	124
+Marian blue	g	235
+Marengo	g	88
+Marengo	g	215
+Pantone 448 C	g	65

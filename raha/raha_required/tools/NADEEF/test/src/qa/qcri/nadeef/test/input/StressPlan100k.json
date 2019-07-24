@@ -1,0 +1,12 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : ["test/src/qa/qcri/nadeef/test/input/hospital_100k.csv"]
+    },
+    "rule" : [
+        {
+            "type" : "fd",
+            "value" : ["zipcode | city"]
+        }
+    ]
+}

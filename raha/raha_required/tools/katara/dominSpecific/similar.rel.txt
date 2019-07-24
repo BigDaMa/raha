@@ -1,0 +1,265 @@
+Hermitage AOC	similar	Crozes-Hermitage
+Hermitage AOC	similar	Cornas
+Hermitage AOC	similar	Côte-Rôtie
+Saint-Joseph AOC	similar	Crozes-Hermitage
+Saint-Joseph AOC	similar	Cornas
+Saint-Joseph AOC	similar	Hermitage AOC
+Saint-Joseph AOC	similar	Côte-Rôtie
+Châteauneuf-du-Pape AOC	similar	Gigondas AOC
+Châteauneuf-du-Pape AOC	similar	Vacqueyras AOC
+Châteauneuf-du-Pape AOC	similar	Lirac AOC
+Côte-Rôtie AOC	similar	Crozes-Hermitage
+Côte-Rôtie AOC	similar	Cornas
+Côte-Rôtie AOC	similar	Hermitage AOC
+Côte-Rôtie AOC	similar	Saint-Joseph AOC
+Crozes-Hermitage AOC	similar	Saint-Joseph AOC
+Crozes-Hermitage AOC	similar	Cornas
+Crozes-Hermitage AOC	similar	Hermitage AOC
+Crozes-Hermitage AOC	similar	Cote-Rotie
+Cornas AOC	similar	Crozes-Hermitage
+Cornas AOC	similar	Saint-Joseph AOC
+Cornas AOC	similar	Hermitage AOC
+Cornas AOC	similar	Côte-Rôtie
+Vacqueyras AOC	similar	Châteauneuf-du-Pape AOC
+Vacqueyras AOC	similar	Gigondas AOC
+Vacqueyras AOC	similar	Lirac AOC
+Rasteau AOC	similar	Beaumes de Venise
+Rasteau AOC	similar	Vinsobres
+Gigondas AOC	similar	Châteauneuf-du-Pape
+Gigondas AOC	similar	Vacqueyras
+Gigondas AOC	similar	Lirac
+Yadkin Valley AVA	similar	Haw River Valley AVA
+Napa Valley AVA	similar	Sonoma Valley AVA
+Atlas Peak AVA	similar	Calistoga AVA
+Atlas Peak AVA	similar	Chiles Valley AVA
+Atlas Peak AVA	similar	Diamond Mountain District AVA
+Atlas Peak AVA	similar	Howell Mountain AVA
+Atlas Peak AVA	similar	Los Carneros AVA
+Atlas Peak AVA	similar	Mt. Veeder AVA
+Atlas Peak AVA	similar	Coombsville AVA
+Atlas Peak AVA	similar	Oak Knoll District of Napa Valley AVA
+Atlas Peak AVA	similar	Oakville AVA
+Atlas Peak AVA	similar	Rutherford AVA
+Atlas Peak AVA	similar	Spring Mountain District AVA
+Atlas Peak AVA	similar	St. Helena AVA
+Atlas Peak AVA	similar	Stags Leap District AVA
+Atlas Peak AVA	similar	Wild Horse Valley AVA
+Atlas Peak AVA	similar	Yountville AVA
+Mount Veeder AVA	similar	Atlas Peak AVA
+Mount Veeder AVA	similar	Calistoga AVA
+Mount Veeder AVA	similar	Chiles Valley AVA
+Mount Veeder AVA	similar	Diamond Mountain District AVA
+Mount Veeder AVA	similar	Howell Mountain AVA
+Mount Veeder AVA	similar	Los Carneros AVA
+Mount Veeder AVA	similar	Oak Knoll District of Napa Valley AVA
+Mount Veeder AVA	similar	Oakville AVA
+Mount Veeder AVA	similar	Rutherford AVA
+Mount Veeder AVA	similar	Spring Mountain District AVA
+Mount Veeder AVA	similar	St. Helena AVA
+Mount Veeder AVA	similar	Stags Leap District AVA
+Mount Veeder AVA	similar	Wild Horse Valley AVA
+Mount Veeder AVA	similar	Yountville AVA
+Yountville AVA	similar	Atlas Peak AVA
+Yountville AVA	similar	Calistoga AVA
+Yountville AVA	similar	Chiles Valley AVA
+Yountville AVA	similar	Diamond Mountain District AVA
+Yountville AVA	similar	Howell Mountain AVA
+Yountville AVA	similar	Los Carneros AVA
+Yountville AVA	similar	Mt. Veeder AVA
+Yountville AVA	similar	Coombsville AVA
+Yountville AVA	similar	Oak Knoll District of Napa Valley AVA
+Yountville AVA	similar	Oakville AVA
+Yountville AVA	similar	Rutherford AVA
+Yountville AVA	similar	Spring Mountain District AVA
+Yountville AVA	similar	St. Helena AVA
+Yountville AVA	similar	Stags Leap District AVA
+Yountville AVA	similar	Wild Horse Valley AVA
+Oakville AVA	similar	Atlas Peak AVA
+Oakville AVA	similar	Calistoga AVA
+Oakville AVA	similar	Chiles Valley AVA
+Oakville AVA	similar	Diamond Mountain District AVA
+Oakville AVA	similar	Howell Mountain AVA
+Oakville AVA	similar	Los Carneros AVA
+Oakville AVA	similar	Mt. Veeder AVA
+Oakville AVA	similar	Coombsville AVA
+Oakville AVA	similar	Oak Knoll District of Napa Valley AVA
+Oakville AVA	similar	Rutherford AVA
+Oakville AVA	similar	Spring Mountain District AVA
+Oakville AVA	similar	St. Helena AVA
+Oakville AVA	similar	Stags Leap District AVA
+Oakville AVA	similar	Wild Horse Valley AVA
+Oakville AVA	similar	Yountville AVA
+Rutherford AVA	similar	Atlas Peak AVA
+Rutherford AVA	similar	Calistoga AVA
+Rutherford AVA	similar	Chiles Valley AVA
+Rutherford AVA	similar	Diamond Mountain District AVA
+Rutherford AVA	similar	Howell Mountain AVA
+Rutherford AVA	similar	Los Carneros AVA
+Rutherford AVA	similar	Mt. Veeder AVA
+Rutherford AVA	similar	Coombsville AVA
+Rutherford AVA	similar	Oak Knoll District of Napa Valley AVA
+Rutherford AVA	similar	Oakville AVA
+Rutherford AVA	similar	Spring Mountain District AVA
+Rutherford AVA	similar	St. Helena AVA
+Rutherford AVA	similar	Stags Leap District AVA
+Rutherford AVA	similar	Wild Horse Valley AVA
+Rutherford AVA	similar	Yountville AVA
+St. Helena AVA	similar	Atlas Peak AVA
+St. Helena AVA	similar	Calistoga AVA
+St. Helena AVA	similar	Chiles Valley AVA
+St. Helena AVA	similar	Diamond Mountain District AVA
+St. Helena AVA	similar	Howell Mountain AVA
+St. Helena AVA	similar	Los Carneros AVA
+St. Helena AVA	similar	Mt. Veeder AVA
+St. Helena AVA	similar	Coombsville AVA
+St. Helena AVA	similar	Oak Knoll District of Napa Valley AVA
+St. Helena AVA	similar	Oakville AVA
+St. Helena AVA	similar	Rutherford AVA
+St. Helena AVA	similar	Spring Mountain District AVA
+St. Helena AVA	similar	Stags Leap District AVA
+St. Helena AVA	similar	Wild Horse Valley AVA
+St. Helena AVA	similar	Yountville AVA
+Stags Leap District AVA	similar	Atlas Peak AVA
+Stags Leap District AVA	similar	Calistoga AVA
+Stags Leap District AVA	similar	Chiles Valley AVA
+Stags Leap District AVA	similar	Diamond Mountain District AVA
+Stags Leap District AVA	similar	Howell Mountain AVA
+Stags Leap District AVA	similar	Los Carneros AVA
+Stags Leap District AVA	similar	Mt. Veeder AVA
+Stags Leap District AVA	similar	Coombsville AVA
+Stags Leap District AVA	similar	Oak Knoll District of Napa Valley AVA
+Stags Leap District AVA	similar	Oakville AVA
+Stags Leap District AVA	similar	Rutherford AVA
+Stags Leap District AVA	similar	Spring Mountain District AVA
+Stags Leap District AVA	similar	St. Helena AVA
+Stags Leap District AVA	similar	Wild Horse Valley AVA
+Stags Leap District AVA	similar	Yountville AVA
+Oak Knoll District of Napa Valley AVA	similar	Atlas Peak AVA
+Oak Knoll District of Napa Valley AVA	similar	Calistoga AVA
+Oak Knoll District of Napa Valley AVA	similar	Chiles Valley AVA
+Oak Knoll District of Napa Valley AVA	similar	Diamond Mountain District AVA
+Oak Knoll District of Napa Valley AVA	similar	Howell Mountain AVA
+Oak Knoll District of Napa Valley AVA	similar	Los Carneros AVA
+Oak Knoll District of Napa Valley AVA	similar	Mt. Veeder AVA
+Oak Knoll District of Napa Valley AVA	similar	Coombsville AVA
+Oak Knoll District of Napa Valley AVA	similar	Oakville AVA
+Oak Knoll District of Napa Valley AVA	similar	Rutherford AVA
+Oak Knoll District of Napa Valley AVA	similar	Spring Mountain District AVA
+Oak Knoll District of Napa Valley AVA	similar	St. Helena AVA
+Oak Knoll District of Napa Valley AVA	similar	Stags Leap District AVA
+Oak Knoll District of Napa Valley AVA	similar	Wild Horse Valley AVA
+Oak Knoll District of Napa Valley AVA	similar	Yountville AVA
+Chiles Valley AVA	similar	Atlas Peak AVA
+Chiles Valley AVA	similar	Calistoga AVA
+Chiles Valley AVA	similar	Diamond Mountain District AVA
+Chiles Valley AVA	similar	Howell Mountain AVA
+Chiles Valley AVA	similar	Los Carneros AVA
+Chiles Valley AVA	similar	Coombsville AVA
+Chiles Valley AVA	similar	Mt. Veeder AVA
+Chiles Valley AVA	similar	Oak Knoll District of Napa Valley AVA
+Chiles Valley AVA	similar	Oakville AVA
+Chiles Valley AVA	similar	Rutherford AVA
+Chiles Valley AVA	similar	Spring Mountain District AVA
+Chiles Valley AVA	similar	St. Helena AVA
+Chiles Valley AVA	similar	Stags Leap District AVA
+Chiles Valley AVA	similar	Wild Horse Valley AVA
+Chiles Valley AVA	similar	Yountville AVA
+Diamond Mountain District AVA	similar	Los Carneros AVA
+Diamond Mountain District AVA	similar	Howell Mountain AVA
+Diamond Mountain District AVA	similar	Wild Horse Valley AVA
+Diamond Mountain District AVA	similar	Stags Leap District AVA
+Diamond Mountain District AVA	similar	Mt. Veeder AVA
+Diamond Mountain District AVA	similar	Coombsville AVA
+Diamond Mountain District AVA	similar	Atlas Peak AVA
+Diamond Mountain District AVA	similar	Spring Mountain District AVA
+Diamond Mountain District AVA	similar	Oakville AVA
+Diamond Mountain District AVA	similar	Rutherford AVA
+Diamond Mountain District AVA	similar	St. Helena AVA
+Diamond Mountain District AVA	similar	Chiles Valley AVA
+Diamond Mountain District AVA	similar	Yountville AVA
+Diamond Mountain District AVA	similar	Oak Knoll District of Napa Valley AVA
+Diamond Mountain District AVA	similar	Calistoga AVA
+Howell Mountain AVA	similar	Atlas Peak AVA
+Howell Mountain AVA	similar	Calistoga AVA
+Howell Mountain AVA	similar	Chiles Valley AVA
+Howell Mountain AVA	similar	Diamond Mountain District AVA
+Howell Mountain AVA	similar	Los Carneros AVA
+Howell Mountain AVA	similar	Mt. Veeder AVA
+Howell Mountain AVA	similar	Coombsville AVA
+Howell Mountain AVA	similar	Oak Knoll District of Napa Valley AVA
+Howell Mountain AVA	similar	Oakville AVA
+Howell Mountain AVA	similar	Rutherford AVA
+Howell Mountain AVA	similar	Spring Mountain District AVA
+Howell Mountain AVA	similar	St. Helena AVA
+Howell Mountain AVA	similar	Stags Leap District AVA
+Howell Mountain AVA	similar	Wild Horse Valley AVA
+Howell Mountain AVA	similar	Yountville AVA
+Wild Horse Valley AVA	similar	Atlas Peak AVA
+Wild Horse Valley AVA	similar	Calistoga AVA
+Wild Horse Valley AVA	similar	Chiles Valley AVA
+Wild Horse Valley AVA	similar	Diamond Mountain District AVA
+Wild Horse Valley AVA	similar	Howell Mountain AVA
+Wild Horse Valley AVA	similar	Los Carneros AVA
+Wild Horse Valley AVA	similar	Mt. Veeder AVA
+Wild Horse Valley AVA	similar	Coombsville AVA
+Wild Horse Valley AVA	similar	Oak Knoll District of Napa Valley AVA
+Wild Horse Valley AVA	similar	Oakville AVA
+Wild Horse Valley AVA	similar	Rutherford AVA
+Wild Horse Valley AVA	similar	Spring Mountain District AVA
+Wild Horse Valley AVA	similar	St. Helena AVA
+Wild Horse Valley AVA	similar	Stags Leap District AVA
+Wild Horse Valley AVA	similar	Yountville AVA
+Spring Mountain District AVA	similar	Atlas Peak AVA
+Spring Mountain District AVA	similar	Calistoga AVA
+Spring Mountain District AVA	similar	Chiles Valley AVA
+Spring Mountain District AVA	similar	Diamond Mountain District AVA
+Spring Mountain District AVA	similar	Howell Mountain AVA
+Spring Mountain District AVA	similar	Los Carneros AVA
+Spring Mountain District AVA	similar	Mt. Veeder AVA
+Spring Mountain District AVA	similar	Coombsville AVA
+Spring Mountain District AVA	similar	Oak Knoll District of Napa Valley AVA
+Spring Mountain District AVA	similar	Oakville AVA
+Spring Mountain District AVA	similar	Rutherford AVA
+Spring Mountain District AVA	similar	St. Helena AVA
+Spring Mountain District AVA	similar	Stags Leap District AVA
+Spring Mountain District AVA	similar	Wild Horse Valley AVA
+Spring Mountain District AVA	similar	Yountville AVA
+Cayuga Lake AVA	similar	Seneca Lake AVA
+Seneca Lake AVA	similar	Cayuga Lake AVA
+Pico IPR	similar	Graciosa IPR
+Pico IPR	similar	Biscoitos IPR
+Vinsobres AOC	similar	Châteauneuf-du-Pape
+Vinsobres AOC	similar	Vacqueyras
+Vinsobres AOC	similar	Lirac
+Calistoga AVA	similar	Atlas Peak AVA
+Calistoga AVA	similar	Chiles Valley AVA
+Calistoga AVA	similar	Diamond Mountain District AVA
+Calistoga AVA	similar	Howell Mountain AVA
+Calistoga AVA	similar	Los Carneros AVA
+Calistoga AVA	similar	Mt. Veeder AVA
+Calistoga AVA	similar	Coombsville AVA
+Calistoga AVA	similar	Oak Knoll District of Napa Valley AVA
+Calistoga AVA	similar	Oakville AVA
+Calistoga AVA	similar	Rutherford AVA
+Calistoga AVA	similar	Spring Mountain District AVA
+Calistoga AVA	similar	St. Helena AVA
+Calistoga AVA	similar	Stags Leap District AVA
+Calistoga AVA	similar	Wild Horse Valley AVA
+Calistoga AVA	similar	Yountville AVA
+Coombsville AVA	similar	Calistoga AVA
+Coombsville AVA	similar	Chiles Valley AVA
+Coombsville AVA	similar	Diamond Mountain District AVA
+Coombsville AVA	similar	Howell Mountain AVA
+Coombsville AVA	similar	Los Carneros AVA
+Coombsville AVA	similar	Mt. Veeder AVA
+Coombsville AVA	similar	Atlas Peak AVA
+Coombsville AVA	similar	Oak Knoll District of Napa Valley AVA
+Coombsville AVA	similar	Oakville AVA
+Coombsville AVA	similar	Rutherford AVA
+Coombsville AVA	similar	Spring Mountain District AVA
+Coombsville AVA	similar	St. Helena AVA
+Coombsville AVA	similar	Stags Leap District AVA
+Coombsville AVA	similar	Wild Horse Valley AVA
+Coombsville AVA	similar	Yountville AVA
+Pine Mountain-Cloverdale AVA	similar	Sonoma Valley AVA
+Eden Valley wine region	similar	Barossa Valley wine region

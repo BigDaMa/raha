@@ -1,0 +1,2386 @@
+Hair	dorlandspre	r_02
+Visual cortex	dorlandspre	c_57
+Putamen	dorlandspre	p_43
+Broca's area	dorlandspre	a_59
+Atlas	dorlandspre	a_70
+Hippocampus	dorlandspre	h_12
+Basal ganglia	dorlandspre	n_11
+Amygdala	dorlandspre	c_56
+Pudendal nerve	dorlandspre	_05
+Splanchnic nerves	dorlandspre	n_04
+Amniotic sac	dorlandspre	s_01
+Levator ani	dorlandspre	m_22
+Acetabulum	dorlandspre	a_06
+Bile duct	dorlandspre	d_29
+Limbic system	dorlandspre	s_33
+Medulla oblongata	dorlandspre	m_06
+Salivary gland	dorlandspre	g_06
+Ulna	dorlandspre	u_01
+Acromion	dorlandspre	a_10
+Trapezius muscle	dorlandspre	m_22
+Scapula	dorlandspre	s_04
+Facial nerve	dorlandspre	n_05
+Blastula	dorlandspre	b_14
+Gastrulation	dorlandspre	b_14
+Biceps	dorlandspre	m_22
+Radial nerve	dorlandspre	n_05
+Brachioradialis	dorlandspre	m_22
+Latissimus dorsi muscle	dorlandspre	m_22
+Navel	dorlandspre	u_02
+Median nerve	dorlandspre	n_05
+Brachial plexus	dorlandspre	p_24
+Sacrum	dorlandspre	o_07
+Brachialis muscle	dorlandspre	m_22
+Pronator quadratus muscle	dorlandspre	m_22
+Hamstring	dorlandspre	h_02
+Brainstem	dorlandspre	b_21
+Eustachian tube	dorlandspre	t_21
+Sciatic nerve	dorlandspre	n_05
+Sartorius muscle	dorlandspre	m_22
+Wrist	dorlandspre	a_64
+Portal vein	dorlandspre	v_05
+Lumbricals of the hand	dorlandspre	m_22
+Flexor digitorum profundus muscle	dorlandspre	m_22
+Thenar eminence	dorlandspre	t_07
+Flexor digitorum superficialis muscle	dorlandspre	m_22
+Coracoid process	dorlandspre	p_34
+Forearm	dorlandspre	a_45
+Brachiocephalic artery	dorlandspre	t_20
+Extensor carpi radialis longus muscle	dorlandspre	m_22
+Flexor carpi radialis muscle	dorlandspre	m_22
+Deep artery of the thigh	dorlandspre	a_61
+Femoral artery	dorlandspre	a_61
+Great saphenous vein	dorlandspre	v_05
+Peroneus longus	dorlandspre	m_22
+Axillary nerve	dorlandspre	n_05
+Ulnar nerve	dorlandspre	n_05
+Brachiocephalic vein	dorlandspre	v_04
+Levator labii superioris alaeque nasi muscle	dorlandspre	m_22
+Cuboid bone	dorlandspre	o_07
+Trapezoid bone	dorlandspre	o_07
+Trapezium	dorlandspre	o_07
+Trigeminal nerve	dorlandspre	n_05
+Glossopharyngeal nerve	dorlandspre	n_05
+Macula of retina	dorlandspre	m_01
+Adrenal cortex	dorlandspre	c_57
+Synovial membrane	dorlandspre	m_08
+Pineal gland	dorlandspre	g_06
+Suboccipital nerve	dorlandspre	n_05
+Greater occipital nerve	dorlandspre	n_05
+Great auricular nerve	dorlandspre	n_05
+Dorsal scapular nerve	dorlandspre	n_05
+Lesser occipital nerve	dorlandspre	n_05
+Long thoracic nerve	dorlandspre	n_05
+Phrenic nerve	dorlandspre	n_05
+Subclavian artery	dorlandspre	a_61
+Foramen ovale	dorlandspre	f_12
+Mandibular nerve	dorlandspre	n_05
+Bronchus	dorlandspre	b_23
+Bronchiole	dorlandspre	Bronchioles
+Cornea	dorlandspre	c_55
+Nasal bone	dorlandspre	o_07
+Inferior nasal concha	dorlandspre	c_50
+Zygomatic arch	dorlandspre	a_58
+Pubic symphysis	dorlandspre	s_31
+Anterior pituitary	dorlandspre	a_14
+Ankle	dorlandspre	a_64
+Extensor hallucis longus muscle	dorlandspre	m_22
+Lateral geniculate nucleus	dorlandspre	n_11
+Achilles tendon	dorlandspre	t_04
+Purkinje fibers	dorlandspre	f_05
+Forehead	dorlandspre	f_16z
+External carotid artery	dorlandspre	a_61
+Ischiocavernosus muscle	dorlandspre	m_22
+Fibrocartilage	dorlandspre	f_06
+Cremaster muscle	dorlandspre	m_22
+Scaphoid bone	dorlandspre	o_07
+Incisive bone	dorlandspre	o_07
+Capitate bone	dorlandspre	o_07
+Lunate bone	dorlandspre	o_07
+Hamate bone	dorlandspre	o_07
+Olfactory bulb	dorlandspre	b_26
+Sternocleidomastoid muscle	dorlandspre	m_22
+Precuneus	dorlandspre	p_32
+Third ventricle	dorlandspre	v_06
+Corpus spongiosum penis	dorlandspre	c_56
+Extrapyramidal system	dorlandspre	s_33
+Globus pallidus	dorlandspre	g_07
+Neocortex	dorlandspre	n_03
+Cerebral peduncle	dorlandspre	p_10
+Rhinencephalon	dorlandspre	r_12
+Raphe nuclei	dorlandspre	n_11
+Basilar membrane	dorlandspre	l_02
+Adenoid	dorlandspre	t_13
+Pulmonary artery	dorlandspre	t_20
+Frenulum of labia minora	dorlandspre	f_16
+Corpus luteum	dorlandspre	c_55
+Proximal tubule	dorlandspre	t_22
+Carotid body	dorlandspre	g_07
+Retroperitoneal space	dorlandspre	s_16
+Pylorus	dorlandspre	v_02
+Choroid	dorlandspre	c_32
+Brodmann area 40	dorlandspre	g_13
+Wernicke's area	dorlandspre	a_59
+Internal capsule	dorlandspre	c_07
+Nucleus accumbens	dorlandspre	n_11
+Scalp	dorlandspre	s_03
+Renal calyx	dorlandspre	c_03
+Fascia	dorlandspre	f_03
+Grey column	dorlandspre	c_55
+Ligamentum arteriosum	dorlandspre	l_09
+Deltoid muscle	dorlandspre	m_22
+Suprahyoid muscles	dorlandspre	m_22
+Infrahyoid muscles	dorlandspre	m_22
+Posterior cruciate ligament	dorlandspre	l_09
+Anterior cruciate ligament	dorlandspre	l_09
+Bulbospongiosus muscle	dorlandspre	m_22
+Atrioventricular node	dorlandspre	n_09
+Pulmonary vein	dorlandspre	v_05
+Cooper's ligaments	dorlandspre	l_09
+Supraoptic nucleus	dorlandspre	n_11
+Paraventricular nucleus of hypothalamus	dorlandspre	n_11
+Suprachiasmatic nucleus	dorlandspre	n_11z
+Hard palate	dorlandspre	p_02
+Gluteus maximus muscle	dorlandspre	m_22
+Sella turcica	dorlandspre	s_07
+Navicular bone	dorlandspre	o_07
+Pisiform bone	dorlandspre	o_07
+Triquetral bone	dorlandspre	o_07
+Celiac plexus	dorlandspre	p_24
+Dorsal respiratory group	dorlandspre	g_12
+Submandibular gland	dorlandspre	g_06
+Glomerulus	dorlandspre	g_07
+Pulvinar nuclei	dorlandspre	p_42
+Gartner's duct	dorlandspre	d_29
+Genitofemoral nerve	dorlandspre	n_05
+Renal capsule	dorlandspre	c_07
+Superior oblique muscle	dorlandspre	m_22
+Hypoglossal nucleus	dorlandspre	n_11
+Optic radiation	dorlandspre	r_01
+Medial lemniscus	dorlandspre	l_06
+Oculomotor nucleus	dorlandspre	n_11
+Solitary nucleus	dorlandspre	t_15
+Azygos vein	dorlandspre	v_05
+Nucleus ambiguus	dorlandspre	n_11
+Periosteum	dorlandspre	p_13
+Lateral lemniscus	dorlandspre	l_06
+Medial longitudinal fasciculus	dorlandspre	f_03
+Ductus arteriosus	dorlandspre	d_29
+Myenteric plexus	dorlandspre	p_24
+Cheek	dorlandspre	c_25
+Levator scapulae muscle	dorlandspre	m_22
+Rhomboid minor muscle	dorlandspre	m_22
+Rhomboid major muscle	dorlandspre	m_22
+Pectoralis minor muscle	dorlandspre	m_22
+Pectoralis major muscle	dorlandspre	m_22
+Fusiform gyrus	dorlandspre	g_13
+Bowman's membrane	dorlandspre	l_02
+Arcuate nucleus	dorlandspre	n_11
+Common bile duct	dorlandspre	d_29
+Cystic duct	dorlandspre	d_29
+Axilla	dorlandspre	a_76
+Dartos	dorlandspre	d_02
+Limbic lobe	dorlandspre	l_13
+Pubococcygeus muscle	dorlandspre	m_22
+Blastocoel	dorlandspre	b_14
+Spinal canal	dorlandspre	c_04
+Locus coeruleus	dorlandspre	l_14
+Muscles of mastication	dorlandspre	m_22
+Aortic sinus	dorlandspre	s_12
+Diaphysis	dorlandspre	d_15
+Stratum corneum	dorlandspre	s_25
+Extensor digiti minimi muscle	dorlandspre	m_22
+Cervical plexus	dorlandspre	p_24
+Omohyoid muscle	dorlandspre	m_22
+Digastric muscle	dorlandspre	m_22
+Corneal endothelium	dorlandspre	e_13
+Ring finger	dorlandspre	d_18
+Popliteal artery	dorlandspre	a_61
+Peritoneal cavity	dorlandspre	c_16
+Linea alba	dorlandspre	l_10
+Little finger	dorlandspre	d_18
+Endolymph	dorlandspre	e_08
+Uvea	dorlandspre	t_22
+Postcentral gyrus	dorlandspre	g_13
+Superior frontal gyrus	dorlandspre	g_13
+Postcentral sulcus	dorlandspre	s_28
+Abdominal aorta	dorlandspre	p_07
+Brunner's glands	dorlandspre	g_06
+Artery of Adamkiewicz	dorlandspre	r_02
+Superior temporal gyrus	dorlandspre	g_13
+Centromedian nucleus	dorlandspre	n_11
+Middle meningeal artery	dorlandspre	a_61
+Arcuate fasciculus	dorlandspre	f_03
+Nasal septum	dorlandspre	s_08
+Planum temporale	dorlandspre	p_22
+Ciliary body	dorlandspre	c_56
+Ventral spinocerebellar tract	dorlandspre	t_15
+Cuneate nucleus	dorlandspre	n_11
+Zona pellucida	dorlandspre	z_01
+Index finger	dorlandspre	i_06
+Piriformis muscle	dorlandspre	m_22
+Pulp	dorlandspre	p_41
+Lacteal	dorlandspre	l_01
+Gestational sac	dorlandspre	s_01
+Dorsal root ganglion	dorlandspre	g_02
+Mastoid process	dorlandspre	p_34
+Fundiform ligament	dorlandspre	l_09
+Lacrimal gland	dorlandspre	g_06
+Rectus abdominis muscle	dorlandspre	m_22
+Parallel fiber	dorlandspre	f_05
+Elastic cartilage	dorlandspre	c_12
+Endomysium	dorlandspre	e_08
+Epimysium	dorlandspre	e_12
+Carotid sinus	dorlandspre	s_12
+Cervical vertebrae	dorlandspre	v_07
+Mandibular foramen	dorlandspre	f_12
+Subthalamic nucleus	dorlandspre	n_11
+Suspensory muscle of duodenum	dorlandspre	m_22
+Musculocutaneous nerve	dorlandspre	n_05
+Teres minor muscle	dorlandspre	m_22
+Triceps brachii muscle	dorlandspre	m_22
+Osteon	dorlandspre	o_08
+Mediastinum	dorlandspre	m_06
+Papillary duct	dorlandspre	d_29
+Cutis	dorlandspre	c_68
+Aortic body	dorlandspre	b_17
+Orbicularis oris muscle	dorlandspre	m_22
+Buccinator muscle	dorlandspre	m_22
+Obliquus capitis inferior muscle	dorlandspre	m_22
+Obliquus capitis superior muscle	dorlandspre	m_22
+Pars intermedia	dorlandspre	p_07
+Pars tuberalis	dorlandspre	p_07
+Ciliary muscle	dorlandspre	m_22
+Corticobulbar tract	dorlandspre	t_15
+Median aperture	dorlandspre	a_51
+Reticular activating system	dorlandspre	s_33
+Efferent ducts	dorlandspre	d_29
+Renal artery	dorlandspre	a_61
+Foramen lacerum	dorlandspre	f_12
+Epigastrium	dorlandspre	r_07
+Inferior alveolar nerve	dorlandspre	n_05
+Periaqueductal gray	dorlandspre	s_27
+Pretectal area	dorlandspre	a_59
+Insular cortex	dorlandspre	i_09
+Suprascapular nerve	dorlandspre	n_05
+Elastic fiber	dorlandspre	f_05
+Reticular formation	dorlandspre	f_13
+Internal jugular vein	dorlandspre	v_05
+External jugular vein	dorlandspre	v_05
+Recurrent laryngeal nerve	dorlandspre	n_05
+Olivary body	dorlandspre	o_02
+Cerebellar vermis	dorlandspre	v_06
+Eponychium	dorlandspre	e_13
+Renal pyramids	dorlandspre	p_03
+Trigone of urinary bladder	dorlandspre	t_19
+Trabecular meshwork	dorlandspre	r_10
+Procerus muscle	dorlandspre	m_22
+Trapezoid body	dorlandspre	c_56
+Common hepatic duct	dorlandspre	d_29
+Pectineus muscle	dorlandspre	m_22
+Gubernaculum	dorlandspre	g_13
+Filum terminale	dorlandspre	f_07
+Cribriform plate	dorlandspre	l_02
+Masseter muscle	dorlandspre	m_22
+Mastoid antrum	dorlandspre	a_50
+Recto-uterine pouch	dorlandspre	e_18
+Lingual tonsils	dorlandspre	t_13
+Angular gyrus	dorlandspre	g_13
+Vertebral artery	dorlandspre	a_61
+Reid's base line	dorlandspre	l_10
+Canthus	dorlandspre	c_05
+Ulnar collateral ligament of elbow joint	dorlandspre	l_09
+Ear canal	dorlandspre	m_06
+Zona reticularis	dorlandspre	z_01
+Tibialis posterior muscle	dorlandspre	m_22
+Pontine tegmentum	dorlandspre	t_03
+Thalamic reticular nucleus	dorlandspre	n_11
+Celiac artery	dorlandspre	t_20
+Intrathecal administration	dorlandspre	s_16
+Suprapineal recess	dorlandspre	r_05
+Stellate ganglion	dorlandspre	g_02
+Descending aorta	dorlandspre	p_07
+Acromioclavicular joint	dorlandspre	a_64
+Coccygeus muscle	dorlandspre	m_22
+Superior mesenteric artery	dorlandspre	a_61
+Chordae tendineae	dorlandspre	c_31
+Synovial bursa	dorlandspre	b_27
+Epineurium	dorlandspre	e_12
+Inferior oblique muscle	dorlandspre	m_22
+Medial rectus muscle	dorlandspre	m_22
+Inferior rectus muscle	dorlandspre	m_22
+Lateral rectus muscle	dorlandspre	m_22
+Levator palpebrae superioris muscle	dorlandspre	m_22
+Superior rectus muscle	dorlandspre	m_22
+Popliteal vein	dorlandspre	v_05
+Tectospinal tract	dorlandspre	t_15
+Rubrospinal tract	dorlandspre	t_15
+Dental alveolus	dorlandspre	a_27
+Tibialis anterior muscle	dorlandspre	m_22
+Glabella	dorlandspre	g_06
+Symphysis	dorlandspre	s_31
+Rima glottidis	dorlandspre	r_14
+Posterior cricoarytenoid muscle	dorlandspre	m_22
+Edinger–Westphal nucleus	dorlandspre	n_11
+Femoral vein	dorlandspre	v_05
+Red nucleus	dorlandspre	n_11
+Abducens nucleus	dorlandspre	n_11
+Thyroid cartilage	dorlandspre	c_12
+Stapedius muscle	dorlandspre	m_22
+Cephalic vein	dorlandspre	v_05
+Subfornical organ	dorlandspre	o_06
+Lip	dorlandspre	l_01
+Meibomian gland	dorlandspre	g_06
+Superior orbital fissure	dorlandspre	f_08
+Otic ganglion	dorlandspre	g_02
+Pterygopalatine ganglion	dorlandspre	g_02
+Cricothyroid muscle	dorlandspre	m_22
+Cricothyroid ligament	dorlandspre	l_09
+Chorda tympani	dorlandspre	c_31
+Central retinal artery	dorlandspre	a_61
+Ophthalmic artery	dorlandspre	a_61
+Tensor tympani muscle	dorlandspre	m_22
+Pituitary stalk	dorlandspre	i_08
+Cancellous bone	dorlandspre	s_27
+Internal obturator muscle	dorlandspre	m_22
+Medial pterygoid muscle	dorlandspre	m_22
+Lateral pterygoid muscle	dorlandspre	m_22
+Pontine nuclei	dorlandspre	n_11
+Platysma muscle	dorlandspre	p_23
+Serratus anterior muscle	dorlandspre	m_22
+Helix	dorlandspre	h_04
+Hyaloid artery	dorlandspre	a_61
+Transverse abdominal muscle	dorlandspre	m_22
+Corrugator supercilii muscle	dorlandspre	m_22
+Depressor labii inferioris muscle	dorlandspre	m_22
+Stylohyoid muscle	dorlandspre	m_22
+Geniohyoid muscle	dorlandspre	m_22
+Mylohyoid muscle	dorlandspre	m_22
+Levatores costarum muscles	dorlandspre	m_22
+Interspinales muscles	dorlandspre	m_22
+Intertransversarii	dorlandspre	m_22
+Bruch's membrane	dorlandspre	l_02
+Nasalis muscle	dorlandspre	m_22
+Deep vein of the thigh	dorlandspre	v_05
+Small saphenous vein	dorlandspre	v_05
+Common iliac vein	dorlandspre	v_05
+Dorsal venous arch of the foot	dorlandspre	a_58
+External iliac vein	dorlandspre	v_05
+Median cubital vein	dorlandspre	v_05
+Basilic vein	dorlandspre	v_05
+Brachial veins	dorlandspre	v_05
+Posterior tibial vein	dorlandspre	v_05
+Anterior tibial vein	dorlandspre	v_05
+Fibular veins	dorlandspre	v_05
+Posterior tibial artery	dorlandspre	a_61
+Ductus venosus	dorlandspre	d_29
+Supraspinatus muscle	dorlandspre	m_22
+Laterodorsal tegmental nucleus	dorlandspre	n_11
+Median plane	dorlandspre	p_22
+Coronal plane	dorlandspre	p_22
+Anterior tibial artery	dorlandspre	a_61
+Axillary artery	dorlandspre	a_61
+Internal thoracic artery	dorlandspre	a_61
+Inferior mesenteric artery	dorlandspre	a_61
+Transversus thoracis muscle	dorlandspre	m_22
+Pyramidalis muscle	dorlandspre	m_22
+Splenic artery	dorlandspre	a_61
+Gastroduodenal artery	dorlandspre	a_61
+Common hepatic artery	dorlandspre	a_61
+Superior mesenteric vein	dorlandspre	v_05
+Dorsalis pedis artery	dorlandspre	a_61
+External iliac artery	dorlandspre	a_61
+Common iliac artery	dorlandspre	a_61
+Auricular branch of vagus nerve	dorlandspre	r_02
+Infraspinatus muscle	dorlandspre	m_22
+Axillary vein	dorlandspre	v_05
+Radial veins	dorlandspre	v_05
+Ulnar veins	dorlandspre	v_05
+Prostatic utricle	dorlandspre	u_04
+Marginal artery of the colon	dorlandspre	a_61
+Inferior mesenteric vein	dorlandspre	v_05
+Hepatic veins	dorlandspre	v_05
+Bronchial artery	dorlandspre	r_02
+Myelencephalon	dorlandspre	m_24
+Hindbrain	dorlandspre	r_12
+Metencephalon	dorlandspre	m_12
+Pedunculopontine nucleus	dorlandspre	n_11
+Posterior grey column	dorlandspre	c_55
+Cingulum	dorlandspre	c_35
+Arbor vitae	dorlandspre	a_56
+Parahippocampal gyrus	dorlandspre	g_13
+Diploic veins	dorlandspre	v_05
+Emissary veins	dorlandspre	v_05
+Tunica media	dorlandspre	t_22
+Arytenoid cartilage	dorlandspre	c_12
+Thalamocortical radiations	dorlandspre	f_05
+Inferior cerebellar peduncle	dorlandspre	p_10
+Globose nucleus	dorlandspre	n_11
+Dentate nucleus	dorlandspre	n_11
+Deep cerebellar nuclei	dorlandspre	n_11
+Extreme capsule	dorlandspre	c_07
+Cistern	dorlandspre	c_37
+Medial geniculate nucleus	dorlandspre	c_56
+Middle cerebral artery	dorlandspre	a_61
+Stria terminalis	dorlandspre	s_26
+Psoas major muscle	dorlandspre	m_22
+Tibial nerve	dorlandspre	n_05
+Zygomaticus minor muscle	dorlandspre	m_22
+Zygomaticus major muscle	dorlandspre	m_22
+Depressor supercilii muscle	dorlandspre	m_22
+Frontalis muscle	dorlandspre	m_22
+Orbicularis oculi muscle	dorlandspre	m_22
+Levator anguli oris	dorlandspre	m_22
+Mentalis	dorlandspre	m_22
+Levator labii superioris	dorlandspre	m_22
+Risorius	dorlandspre	m_22
+Depressor anguli oris muscle	dorlandspre	m_22
+Occipitalis muscle	dorlandspre	m_22
+Depressor septi nasi muscle	dorlandspre	m_22
+Medial collateral ligament	dorlandspre	l_09
+Epicranial aponeurosis	dorlandspre	g_01
+Facial artery	dorlandspre	a_61
+Right coronary artery	dorlandspre	a_61
+Left coronary artery	dorlandspre	a_61
+Common carotid artery	dorlandspre	a_61
+Rathke's pouch	dorlandspre	p_31
+Flexor carpi ulnaris muscle	dorlandspre	m_22
+Zona glomerulosa	dorlandspre	z_01
+Cuneus	dorlandspre	c_66
+Lateral thoracic artery	dorlandspre	a_61
+Fossa ovalis	dorlandspre	f_14
+Lesser omentum	dorlandspre	o_03
+Subthalamus	dorlandspre	s_28
+Tympanic cavity	dorlandspre	c_16
+Uncinate process of ethmoid bone	dorlandspre	p_34
+Anterior spinal artery	dorlandspre	a_61
+Habenula	dorlandspre	h_01
+Arachnoid mater	dorlandspre	a_56
+Subdural space	dorlandspre	s_16
+Costochondral joint	dorlandspre	a_64
+Thoracic outlet	dorlandspre	a_51
+Thoracic inlet	dorlandspre	a_51
+Frenulum of tongue	dorlandspre	f_16
+Haustrum	dorlandspre	h_03
+Olecranon	dorlandspre	o_02
+Syndesmosis	dorlandspre	s_32
+Synarthrosis	dorlandspre	s_32
+Supraorbital ridge	dorlandspre	a_58
+Left gastric artery	dorlandspre	a_61
+Dorsal root of spinal nerve	dorlandspre	r_12
+Biceps femoris muscle	dorlandspre	m_22
+Ventral root of spinal nerve	dorlandspre	r_02
+Ciliary ganglion	dorlandspre	g_02
+Interventricular septum	dorlandspre	s_08
+Sternal angle	dorlandspre	a_42
+Lateral epicondyle of the humerus	dorlandspre	e_11
+Iris dilator muscle	dorlandspre	m_22
+Iris sphincter muscle	dorlandspre	m_22
+Parotid duct	dorlandspre	d_29
+Oral mucosa	dorlandspre	t_22
+Accessory cuneate nucleus	dorlandspre	n_11
+Ascending colon	dorlandspre	c_47
+Laryngeal inlet	dorlandspre	a_16
+Agger nasi	dorlandspre	a_19
+Alar ligament	dorlandspre	l_09
+Temple	dorlandspre	t_04
+Shoulder joint	dorlandspre	a_64
+Annulus of Zinn	dorlandspre	a_50
+Ansa cervicalis	dorlandspre	a_44
+Buccal nerve	dorlandspre	n_05
+Ethmoid sinus	dorlandspre	c_19
+Alveolar process	dorlandspre	p_34
+Allocortex	dorlandspre	a_25
+Alveus of hippocampus	dorlandspre	a_27
+Ventromedial nucleus of the hypothalamus	dorlandspre	n_11
+Greater petrosal nerve	dorlandspre	n_05
+Anterior choroidal artery	dorlandspre	a_61
+Sternohyoid muscle	dorlandspre	m_22
+Longus capitis muscle	dorlandspre	m_22
+Sternothyroid muscle	dorlandspre	m_22
+Thyrohyoid muscle	dorlandspre	m_22
+Longus colli muscle	dorlandspre	m_22
+Semispinalis muscles	dorlandspre	m_22
+Rotatores muscles	dorlandspre	m_22
+Rectus capitis anterior muscle	dorlandspre	m_22
+Rectus capitis lateralis muscle	dorlandspre	m_22
+Multifidus muscle	dorlandspre	m_22
+Splenius capitis muscle	dorlandspre	m_22
+Rectus capitis posterior major muscle	dorlandspre	m_22
+External intercostal muscles	dorlandspre	m_22
+Splenius cervicis muscle	dorlandspre	m_22
+Internal intercostal muscles	dorlandspre	m_22
+Rectus capitis posterior minor muscle	dorlandspre	m_22
+Subcostalis muscle	dorlandspre	m_22
+Psoas minor muscle	dorlandspre	m_22
+Quadratus lumborum muscle	dorlandspre	m_22
+Abdominal external oblique muscle	dorlandspre	m_22
+Posterior cerebral artery	dorlandspre	a_61
+External anal sphincter	dorlandspre	m_22
+Internal anal sphincter	dorlandspre	m_22
+External sphincter muscle of male urethra	dorlandspre	m_22
+Subclavius muscle	dorlandspre	m_22
+Subscapularis muscle	dorlandspre	m_22
+Extensor pollicis longus muscle	dorlandspre	m_22
+Extensor digitorum muscle	dorlandspre	m_22
+Teres major muscle	dorlandspre	m_22
+Anconeus muscle	dorlandspre	m_22
+Flexor pollicis brevis muscle	dorlandspre	m_22
+Palmaris longus muscle	dorlandspre	m_22
+Pronator teres muscle	dorlandspre	m_22
+Coracobrachialis muscle	dorlandspre	m_22
+Abductor pollicis longus muscle	dorlandspre	m_22
+Abductor pollicis brevis muscle	dorlandspre	m_22
+Supinator muscle	dorlandspre	m_22
+Flexor pollicis longus muscle	dorlandspre	m_22
+Dorsal interossei of the foot	dorlandspre	m_22
+Opponens digiti minimi muscle of hand	dorlandspre	m_22
+Palmaris brevis muscle	dorlandspre	m_22
+Adductor pollicis muscle	dorlandspre	m_22
+Opponens pollicis muscle	dorlandspre	m_22
+Extensor pollicis brevis muscle	dorlandspre	m_22
+External obturator muscle	dorlandspre	m_22
+Inferior gemellus muscle	dorlandspre	m_22
+Iliacus muscle	dorlandspre	m_22
+Quadratus femoris muscle	dorlandspre	m_22
+Semimembranosus muscle	dorlandspre	m_22
+Gracilis muscle	dorlandspre	m_22
+Adductor magnus muscle	dorlandspre	m_22
+Semitendinosus muscle	dorlandspre	m_22
+Flexor digitorum longus muscle	dorlandspre	m_22
+Extensor digitorum brevis muscle	dorlandspre	m_22
+Flexor hallucis longus muscle	dorlandspre	m_22
+Extensor digitorum longus muscle	dorlandspre	m_22
+Popliteus muscle	dorlandspre	m_22
+Peroneus tertius	dorlandspre	m_22
+Fibularis brevis	dorlandspre	m_22
+Abductor hallucis muscle	dorlandspre	m_22
+Plantaris muscle	dorlandspre	m_22
+Flexor hallucis brevis muscle	dorlandspre	m_22
+Plantar interossei muscles	dorlandspre	m_22
+Flexor digitorum brevis muscle	dorlandspre	m_22
+Adductor hallucis muscle	dorlandspre	m_22
+Lumbricals of the foot	dorlandspre	m_22
+Iliopsoas	dorlandspre	m_22
+Serous gland	dorlandspre	g_06
+Hyoglossus	dorlandspre	m_22
+Genioglossus	dorlandspre	m_22
+Palatoglossus muscle	dorlandspre	m_22
+Styloglossus	dorlandspre	m_22
+Crus of clitoris	dorlandspre	c_64
+Cardiac skeleton	dorlandspre	a_50
+Suprasternal notch	dorlandspre	i_05
+Lateral cord	dorlandspre	f_03
+Thoracic aorta	dorlandspre	p_07
+Superficial temporal artery	dorlandspre	a_61
+Levator veli palatini	dorlandspre	m_22
+Transverse muscle of tongue	dorlandspre	m_22
+Vertical muscle of tongue	dorlandspre	m_22
+Inferior longitudinal muscle of tongue	dorlandspre	m_22
+Superior longitudinal muscle of tongue	dorlandspre	m_22
+Palatopharyngeus muscle	dorlandspre	m_22
+Middle pharyngeal constrictor muscle	dorlandspre	m_22
+Inferior pharyngeal constrictor muscle	dorlandspre	m_22
+Salpingopharyngeus muscle	dorlandspre	m_22
+Superior pharyngeal constrictor muscle	dorlandspre	m_22
+Thoracoacromial artery	dorlandspre	a_62
+Stylopharyngeus muscle	dorlandspre	m_22
+Tensor veli palatini muscle	dorlandspre	m_22
+Sacral plexus	dorlandspre	p_24
+Common peroneal nerve	dorlandspre	n_05
+Intercostal nerves	dorlandspre	n_05
+Tensor fasciae latae muscle	dorlandspre	m_22
+Extensor hallucis brevis muscle	dorlandspre	m_22
+Vestibular nerve	dorlandspre	n_05
+Flocculus	dorlandspre	f_09
+Medial pectoral nerve	dorlandspre	n_05
+Medial cord	dorlandspre	f_03
+Posterior cord	dorlandspre	f_03
+Thoracodorsal nerve	dorlandspre	n_05
+Posterior interosseous nerve	dorlandspre	n_05
+Posterior interosseous artery	dorlandspre	a_61
+Anterior longitudinal ligament	dorlandspre	l_09
+Radial recurrent artery	dorlandspre	a_61
+Superficial peroneal nerve	dorlandspre	n_05
+Coronary sinus	dorlandspre	s_12
+Asterion	dorlandspre	a_67
+Cavernous sinus	dorlandspre	s_12
+Nasociliary nerve	dorlandspre	n_05
+Foramen spinosum	dorlandspre	f_12
+Carotid sheath	dorlandspre	v_01
+Occipitofrontalis muscle	dorlandspre	m_22
+Cranial cavity	dorlandspre	c_16
+Greater sac	dorlandspre	s_01
+Internal iliac artery	dorlandspre	a_61
+Ilium	dorlandspre	p_10
+Sensory root of ciliary ganglion	dorlandspre	r_02
+Primitive knot	dorlandspre	k_04
+Fossa for lacrimal gland	dorlandspre	f_14
+Metacarpophalangeal joint	dorlandspre	a_64
+Zona fasciculata	dorlandspre	z_01
+Tympanic duct	dorlandspre	s_03
+Vestibular membrane	dorlandspre	p_06
+Helicotrema	dorlandspre	h_04
+Deep peroneal nerve	dorlandspre	n_05
+Inferior epigastric vein	dorlandspre	v_05
+Inferior epigastric artery	dorlandspre	a_61
+Inguinal triangle	dorlandspre	t_19
+Superior epigastric artery	dorlandspre	a_61
+Internal thoracic vein	dorlandspre	v_05
+Septal nuclei	dorlandspre	n_11
+Posterior nucleus of hypothalamus	dorlandspre	n_11
+Posterior nasal apertures	dorlandspre	c_28
+Prevertebral ganglia	dorlandspre	g_02
+Hypothenar eminence	dorlandspre	h_23
+Superior epigastric vein	dorlandspre	v_05
+Hepatic artery proper	dorlandspre	a_61
+Posterior inferior cerebellar artery	dorlandspre	a_61
+Linea aspera	dorlandspre	l_10
+Aortic arch	dorlandspre	a_58
+Lactiferous duct	dorlandspre	d_29
+Ball and socket joint	dorlandspre	a_64
+Zona incerta	dorlandspre	z_01
+Central canal	dorlandspre	c_04
+Obex	dorlandspre	o_01
+Germinal center	dorlandspre	c_20
+Hinge joint	dorlandspre	g_05
+Femoral nerve	dorlandspre	n_05
+Interthalamic adhesion	dorlandspre	a_15
+Hypoglossal canal	dorlandspre	c_04
+Shoulder girdle	dorlandspre	c_35
+Arcuate nucleus	dorlandspre	n_11
+Joint capsule	dorlandspre	c_07
+Perforant path	dorlandspre	p_09
+Gluteal tuberosity	dorlandspre	t_21
+Geniculate ganglion	dorlandspre	g_02
+Capillary lamina of choroid	dorlandspre	l_02
+Inferior salivatory nucleus	dorlandspre	n_11
+Superior cerebellar artery	dorlandspre	a_61
+Bulbous corpuscle	dorlandspre	c_56
+Dural venous sinuses	dorlandspre	s_12
+Diploë	dorlandspre	c_04
+Connecting tubule	dorlandspre	t_22
+Zonule of Zinn	dorlandspre	z_01
+Occipital sinus	dorlandspre	s_12
+Confluence of sinuses	dorlandspre	c_52
+Straight sinus	dorlandspre	s_12
+Inferior petrosal sinus	dorlandspre	s_12
+Inferior sagittal sinus	dorlandspre	s_12
+Superior sagittal sinus	dorlandspre	s_12
+Occipital artery	dorlandspre	a_61
+Posterior cutaneous nerve of thigh	dorlandspre	n_05
+Inferior gluteal nerve	dorlandspre	n_05
+Superior gluteal nerve	dorlandspre	n_05
+Articularis genus muscle	dorlandspre	m_22
+Abductor digiti minimi muscle of foot	dorlandspre	m_22
+Dorsal interossei of the hand	dorlandspre	m_22
+Flexor digiti minimi brevis muscle	dorlandspre	m_22
+Subtalar joint	dorlandspre	a_64
+Lumbar plexus	dorlandspre	p_24
+Abductor digiti minimi muscle of hand	dorlandspre	m_22
+Dilator naris muscle	dorlandspre	d_19
+Chondroglossus	dorlandspre	m_22
+Thyroarytenoid muscle	dorlandspre	m_22
+Operculum	dorlandspre	o_04
+Iliohypogastric nerve	dorlandspre	n_05
+Ilioinguinal nerve	dorlandspre	n_05
+List of lumbar nerves	dorlandspre	n_05
+Lateral cutaneous nerve of thigh	dorlandspre	n_05
+Obturator nerve	dorlandspre	n_05
+Anococcygeal nerve	dorlandspre	n_05
+Perforating cutaneous nerve	dorlandspre	n_05
+Ischium	dorlandspre	o_07
+Lesser trochanter	dorlandspre	t_20
+Ileocecal valve	dorlandspre	v_02
+Erector spinae muscles	dorlandspre	m_22
+Foramen rotundum	dorlandspre	f_12
+Stylomastoid artery	dorlandspre	a_61
+Pterygopalatine fossa	dorlandspre	f_14
+Stylomastoid foramen	dorlandspre	f_12
+Flexor retinaculum of the hand	dorlandspre	r_10
+Palmar aponeurosis	dorlandspre	a_53
+Conjoint tendon	dorlandspre	f_02
+Jugular fossa	dorlandspre	f_14
+Cystic artery	dorlandspre	a_61
+Thoracolumbar fascia	dorlandspre	f_03
+Supraspinous ligament	dorlandspre	l_09
+Thyrohyoid membrane	dorlandspre	m_08
+Lateral thyrohyoid ligament	dorlandspre	l_09
+Stylohyoid ligament	dorlandspre	l_09
+Nuchal ligament	dorlandspre	l_09
+Mental foramen	dorlandspre	f_12
+Temporomandibular ligament	dorlandspre	l_09
+Stylomandibular ligament	dorlandspre	l_09
+Ascending aorta	dorlandspre	p_07
+Palatine aponeurosis	dorlandspre	a_53
+Medial pterygoid plate	dorlandspre	l_02
+Bregma	dorlandspre	b_22
+Mylohyoid line	dorlandspre	l_10
+Pharyngeal raphe	dorlandspre	r_03
+Vestibulospinal tract	dorlandspre	t_15
+Fascia lata	dorlandspre	f_03
+Lingual nerve	dorlandspre	n_05
+Round window	dorlandspre	f_04
+Interphalangeal joints of the hand	dorlandspre	a_64
+Frontal eye fields	dorlandspre	f_07
+Juxtamedullary nephron	dorlandspre	n_03
+Sphenomandibular ligament	dorlandspre	l_09
+Primitive streak	dorlandspre	s_25
+Efferent arteriole	dorlandspre	a_62
+Afferent arterioles	dorlandspre	a_62
+Lateral cutaneous nerve of forearm	dorlandspre	n_05
+Medial cutaneous nerve of forearm	dorlandspre	n_05
+Medial cutaneous nerve of arm	dorlandspre	n_05
+Lingual artery	dorlandspre	a_61
+Sural nerve	dorlandspre	n_05
+Vascular organ of lamina terminalis	dorlandspre	o_06
+Iliotibial tract	dorlandspre	t_15
+Inferior temporal gyrus	dorlandspre	g_13
+Sphenoidal sinus	dorlandspre	s_12
+Epoophoron	dorlandspre	e_13
+Calcarine sulcus	dorlandspre	s_28
+Posterior triangle of the neck	dorlandspre	r_07
+Semilunar hiatus	dorlandspre	h_11
+Supraorbital foramen	dorlandspre	f_12
+Uterine artery	dorlandspre	a_61
+Lacrimal nerve	dorlandspre	n_05
+Supratrochlear nerve	dorlandspre	n_05
+Facial motor nucleus	dorlandspre	n_11
+Superior thyroid artery	dorlandspre	a_61
+Cochlear nucleus	dorlandspre	n_11
+Dorsal cochlear nucleus	dorlandspre	n_11
+Superior olivary complex	dorlandspre	n_11
+Vestibular nuclei	dorlandspre	n_11
+Trigeminal nerve nuclei	dorlandspre	n_11
+Spinal trigeminal nucleus	dorlandspre	n_11
+Trigeminal motor nucleus	dorlandspre	n_11
+Spinal accessory nucleus	dorlandspre	n_11
+Bulbus cordis	dorlandspre	b_26
+Hemiazygos vein	dorlandspre	v_05
+Anterior commissure	dorlandspre	c_49
+Gracile nucleus	dorlandspre	n_11
+Horizontal fissure of cerebellum	dorlandspre	f_08
+Middle superior alveolar nerve	dorlandspre	r_02
+Ventral mesentery	dorlandspre	m_10
+Falciform ligament	dorlandspre	l_09
+Interosseous talocalcaneal ligament	dorlandspre	l_09
+Medial talocalcaneal ligament	dorlandspre	l_09
+Lateral talocalcaneal ligament	dorlandspre	l_09
+Calcaneofibular ligament	dorlandspre	l_09
+Ramus of the mandible	dorlandspre	r_02
+Condyloid process	dorlandspre	p_34
+Sphenoidal conchae	dorlandspre	c_50
+Pterygoid processes of the sphenoid	dorlandspre	p_34
+Greater wing of sphenoid bone	dorlandspre	a_21
+Labyrinth of ethmoid	dorlandspre	l_01
+Zygomatic nerve	dorlandspre	n_05
+Inferior orbital fissure	dorlandspre	f_08
+Gonadal vein	dorlandspre	v_04
+Tunica albuginea of testis	dorlandspre	t_22
+Superior gluteal artery	dorlandspre	a_61
+Lateral sacral artery	dorlandspre	a_61
+Vaginal artery	dorlandspre	a_61
+Inferior gluteal artery	dorlandspre	a_61
+Obturator artery	dorlandspre	a_61
+Inferior vesical artery	dorlandspre	a_61
+Middle rectal artery	dorlandspre	a_61
+Superior vesical artery	dorlandspre	a_61
+Perineal artery	dorlandspre	a_61
+Inferior rectal artery	dorlandspre	a_61
+Urethral artery	dorlandspre	a_61
+Thyrocervical trunk	dorlandspre	t_20
+Ligamentum venosum	dorlandspre	l_09
+Circumflex scapular artery	dorlandspre	a_61
+Iliocostalis	dorlandspre	m_22
+Spinalis	dorlandspre	m_22
+Vertebral vein	dorlandspre	v_05
+Anterior jugular vein	dorlandspre	v_05
+Nucleus raphe pallidus	dorlandspre	n_11
+Dorsal raphe nucleus	dorlandspre	n_11
+Median raphe nucleus	dorlandspre	n_11
+Nucleus raphe magnus	dorlandspre	n_11
+Nucleus raphe obscurus	dorlandspre	n_11
+Transverse sinuses	dorlandspre	s_12
+Innermost intercostal muscle	dorlandspre	m_22
+Puborectalis muscle	dorlandspre	m_22
+Extensor indicis muscle	dorlandspre	m_22
+Aryepiglottic muscle	dorlandspre	p_07
+Oblique arytenoid	dorlandspre	m_22
+Articularis cubiti muscle	dorlandspre	m_22
+Flexor digiti minimi brevis muscle	dorlandspre	m_22
+Temporoparietalis muscle	dorlandspre	m_22
+Common interosseous artery	dorlandspre	a_61
+Common facial vein	dorlandspre	v_04
+Facial vein	dorlandspre	v_05
+Great cardiac vein	dorlandspre	v_05
+Small cardiac vein	dorlandspre	v_05
+Short gastric veins	dorlandspre	v_05
+Middle cardiac vein	dorlandspre	v_05
+Inferior phrenic vein	dorlandspre	v_05
+Inferior thyroid veins	dorlandspre	v_05
+Accessory hemiazygos vein	dorlandspre	v_05
+Inferior ophthalmic vein	dorlandspre	v_05
+Left gastroepiploic vein	dorlandspre	v_05
+Middle thyroid vein	dorlandspre	v_05
+Superior thyroid vein	dorlandspre	v_05
+Superior gluteal veins	dorlandspre	v_05
+Inferior gluteal veins	dorlandspre	v_05
+Maxillary veins	dorlandspre	v_05
+Supreme intercostal vein	dorlandspre	v_05
+Greater pancreatic artery	dorlandspre	a_61
+Inferior phrenic arteries	dorlandspre	a_61
+Left gastroepiploic artery	dorlandspre	a_61
+Median sacral artery	dorlandspre	a_61
+Right gastroepiploic artery	dorlandspre	a_61
+Buccal artery	dorlandspre	a_61
+Sigmoid arteries	dorlandspre	a_61
+Right colic artery	dorlandspre	a_61
+Left colic artery	dorlandspre	a_61
+Transverse cervical artery	dorlandspre	a_61
+Esophageal branches of thoracic part of aorta	dorlandspre	r_02
+Middle genicular artery	dorlandspre	a_61
+Lateral inferior genicular artery	dorlandspre	a_61
+Lateral superior genicular artery	dorlandspre	a_61
+Short gastric arteries	dorlandspre	a_61
+Medial inferior genicular artery	dorlandspre	a_61
+Medial superior genicular artery	dorlandspre	a_61
+Right gastric artery	dorlandspre	a_61
+Inferior thyroid artery	dorlandspre	a_61
+Middle suprarenal arteries	dorlandspre	a_61
+Ileocolic artery	dorlandspre	a_61
+Posterior auricular artery	dorlandspre	a_61
+Inferior alveolar artery	dorlandspre	a_61
+Lateral circumflex femoral artery	dorlandspre	a_61
+Medial circumflex femoral artery	dorlandspre	a_61
+Anterior interosseous artery	dorlandspre	a_61
+Ascending pharyngeal artery	dorlandspre	a_61
+Lumbar arteries	dorlandspre	a_61
+Intestinal arteries	dorlandspre	a_61
+Anterior ethmoidal artery	dorlandspre	a_61
+Pericardiacophrenic artery	dorlandspre	a_61
+Inferior pancreaticoduodenal artery	dorlandspre	a_61
+Superficial palmar arch	dorlandspre	a_58
+Deep palmar arch	dorlandspre	a_58
+Superior laryngeal nerve	dorlandspre	n_05
+Mental nerve	dorlandspre	n_05
+Medial root of median nerve	dorlandspre	r_02
+Lateral root of median nerve	dorlandspre	r_02
+Deep temporal nerves	dorlandspre	n_05
+Infratrochlear nerve	dorlandspre	n_05
+External nasal nerve	dorlandspre	r_02
+Perineal nerve	dorlandspre	n_05
+Zygomaticotemporal nerve	dorlandspre	r_02
+Zygomaticofacial nerve	dorlandspre	r_02
+Upper subscapular nerve	dorlandspre	n_05
+Lower subscapular nerve	dorlandspre	n_05
+Renal plexus	dorlandspre	p_24
+Intercostobrachial nerve	dorlandspre	n_05
+Lateral pectoral nerve	dorlandspre	n_05
+Prostatic sinus	dorlandspre	s_12
+Transverse colon	dorlandspre	c_47
+Tuber cinereum	dorlandspre	t_21
+Cardiac plexus	dorlandspre	p_24
+Meningeal branch of the mandibular nerve	dorlandspre	r_02
+Posterior ethmoidal foramen	dorlandspre	f_12
+Anterior ethmoidal foramen	dorlandspre	f_12
+Foramen cecum	dorlandspre	f_12
+Optic canal	dorlandspre	c_04
+Internal carotid plexus	dorlandspre	p_24
+Labyrinthine artery	dorlandspre	a_61
+Trigeminal ganglion	dorlandspre	g_02
+Zygomaticofacial foramen	dorlandspre	f_12
+Pterygomaxillary fissure	dorlandspre	f_08
+Superior cervical ganglion	dorlandspre	g_02
+Suprascapular artery	dorlandspre	a_61
+Supraclavicular nerves	dorlandspre	n_05
+Carotid canal	dorlandspre	c_04
+Long ciliary nerves	dorlandspre	n_05
+Anterior ethmoidal nerve	dorlandspre	n_05
+Transverse cervical nerve	dorlandspre	n_05
+Sphenoethmoidal recess	dorlandspre	r_05
+Submandibular duct	dorlandspre	d_29
+Sympathetic trunk	dorlandspre	t_20
+Pterygoid hamulus	dorlandspre	h_02
+Mylohyoid nerve	dorlandspre	n_05
+Retropharyngeal space	dorlandspre	s_16
+Maxillary hiatus	dorlandspre	h_11
+Internal laryngeal nerve	dorlandspre	r_02
+External laryngeal nerve	dorlandspre	r_02
+Maxillary artery	dorlandspre	a_61
+Descending palatine artery	dorlandspre	a_61
+Incisive canals	dorlandspre	c_04
+Incisive foramen	dorlandspre	f_12
+Sphenopalatine foramen	dorlandspre	f_12
+Sphenopalatine artery	dorlandspre	a_61
+Lingual veins	dorlandspre	v_05
+Ascending palatine artery	dorlandspre	a_61
+Greater palatine artery	dorlandspre	a_61
+Greater palatine foramen	dorlandspre	f_12
+Lesser palatine foramina	dorlandspre	f_12
+Torus tubarius	dorlandspre	t_14
+Ovarian artery	dorlandspre	a_61
+Inferior ulnar collateral artery	dorlandspre	a_61
+Superior ulnar collateral artery	dorlandspre	a_61
+Deep artery of arm	dorlandspre	a_61
+Radial sulcus	dorlandspre	s_28
+Bicipital groove	dorlandspre	s_28
+Hypophyseal portal system	dorlandspre	s_33
+Lateral pterygoid nerve	dorlandspre	n_05
+Abdominal aortic plexus	dorlandspre	p_24
+Theca interna	dorlandspre	t_22
+Scarpa's ganglion	dorlandspre	g_02
+Traube's space	dorlandspre	s_16
+Intercostal space	dorlandspre	s_16
+Intestinal gland	dorlandspre	g_06
+Canal of Nuck	dorlandspre	p_34
+Internal pudendal veins	dorlandspre	v_05
+Pharyngeal veins	dorlandspre	v_05
+Deep cervical vein	dorlandspre	v_05
+Retromandibular vein	dorlandspre	v_05
+Occipital vein	dorlandspre	v_05
+Posterior auricular vein	dorlandspre	v_05
+Angular vein	dorlandspre	v_05
+Frontal vein	dorlandspre	v_05
+Supraorbital vein	dorlandspre	v_05
+Superficial temporal vein	dorlandspre	v_05
+Sternocostal triangle	dorlandspre	f_12
+Inferior cerebral veins	dorlandspre	v_05
+Mastoid part of the temporal bone	dorlandspre	p_07
+Tympanic part of the temporal bone	dorlandspre	p_07
+Petrous part of the temporal bone	dorlandspre	p_07
+Temporal styloid process	dorlandspre	p_34
+Basilar part of occipital bone	dorlandspre	p_07
+Squamous part of occipital bone	dorlandspre	s_21
+Hypochondrium	dorlandspre	h_21
+Inferior ganglion of glossopharyngeal nerve	dorlandspre	g_02
+Superior ganglion of vagus nerve	dorlandspre	g_02
+Facial canal	dorlandspre	c_04
+Submandibular ganglion	dorlandspre	g_02
+Deep branch of radial nerve	dorlandspre	r_02
+Muscular branches of the radial nerve	dorlandspre	r_02
+Superficial branch of radial nerve	dorlandspre	r_02
+Lacrimal artery	dorlandspre	a_61
+Transverse fascia	dorlandspre	f_03
+Gastrocolic ligament	dorlandspre	l_09
+Descending colon	dorlandspre	c_47
+Sphenoidal emissary foramen	dorlandspre	f_12
+Sole	dorlandspre	p_22
+Amphiarthrosis	dorlandspre	a_31
+Zygomaticofrontal suture	dorlandspre	s_30
+Posterior sternoclavicular ligament	dorlandspre	l_09
+Articular disk	dorlandspre	d_22
+Deep auricular artery	dorlandspre	a_61
+Anterior tympanic artery	dorlandspre	a_61
+Infraorbital artery	dorlandspre	a_61
+Infratemporal fossa	dorlandspre	f_14
+Posterior superior alveolar artery	dorlandspre	a_61
+Tympanic nerve	dorlandspre	n_05
+Lesser petrosal nerve	dorlandspre	n_05
+Posterior ethmoidal nerve	dorlandspre	n_05
+Posterior meningeal artery	dorlandspre	a_61
+Posterior ethmoidal artery	dorlandspre	a_61
+Nerve point of neck	dorlandspre	p_26
+Broad ligament of the uterus	dorlandspre	l_09
+Ramus communicans	dorlandspre	r_02
+Pulmonary branches of vagus nerve	dorlandspre	r_02
+Pulmonary plexus	dorlandspre	p_24
+Postganglionic nerve fibers	dorlandspre	n_06
+Preganglionic nerve fibers	dorlandspre	n_06
+Superior hypogastric plexus	dorlandspre	p_24
+Celiac ganglia	dorlandspre	g_02
+Facial colliculus	dorlandspre	c_46
+Zygomatic process of frontal bone	dorlandspre	p_34
+Sagittal sulcus	dorlandspre	s_28
+Frontal crest	dorlandspre	c_62
+Lesser sciatic foramen	dorlandspre	f_12
+Gastric glands	dorlandspre	g_06
+Sphenoidal lingula	dorlandspre	l_11
+Subarcuate fossa	dorlandspre	f_14
+Mastoid foramen	dorlandspre	f_12
+Petro-occipital fissure	dorlandspre	f_08
+Jugular process	dorlandspre	p_34
+Condylar canal	dorlandspre	c_04
+Jugular tubercle	dorlandspre	t_21
+Tuberculum sellae	dorlandspre	t_21
+Carotid groove	dorlandspre	g_12
+Posterior clinoid processes	dorlandspre	p_34
+Anterior clinoid process	dorlandspre	p_34
+Sigmoid sulcus	dorlandspre	s_28
+Internal occipital protuberance	dorlandspre	p_38
+Internal occipital crest	dorlandspre	c_62
+Pudendal cleft	dorlandspre	r_14
+Superior ganglion of glossopharyngeal nerve	dorlandspre	g_02
+Parasympathetic ganglion	dorlandspre	g_02
+Sympathetic ganglion	dorlandspre	g_02
+Medial pterygoid nerve	dorlandspre	n_05
+Duodenojejunal flexure	dorlandspre	f_09
+Duodenal bulb	dorlandspre	b_26
+Suspensory ligament of penis	dorlandspre	l_09
+Parametrium	dorlandspre	p_05
+Pectineal line	dorlandspre	l_10
+Deep inguinal ring	dorlandspre	a_50
+Superficial inguinal ring	dorlandspre	a_50
+Appendix of testis	dorlandspre	a_54
+Tunica vaginalis	dorlandspre	t_22
+Mesovarium	dorlandspre	m_11
+Gubernaculum testis	dorlandspre	g_13
+Vitelline veins	dorlandspre	v_04
+Body-stalk	dorlandspre	s_21
+Common cardinal veins	dorlandspre	v_04
+Oblique vein of the left atrium	dorlandspre	v_05
+Posterior vein of the left ventricle	dorlandspre	v_05
+Valve of coronary sinus	dorlandspre	v_02
+Coronary sulcus	dorlandspre	s_12
+Interatrial sulcus	dorlandspre	g_12
+Fold of left vena cava	dorlandspre	l_09
+Nasolacrimal canal	dorlandspre	c_04
+Rostrum of corpus callosum	dorlandspre	r_15
+Uncus	dorlandspre	u_02
+Axial mesoderm	dorlandspre	c_31
+Deep cervical fascia	dorlandspre	l_05
+Lateral pterygoid plate	dorlandspre	l_02
+Posterior interventricular artery	dorlandspre	a_62
+Circumflex branch of left coronary artery	dorlandspre	r_02
+Vaginal branches of uterine artery	dorlandspre	a_62
+Short ciliary nerves	dorlandspre	n_05
+Medial plantar nerve	dorlandspre	n_05
+Lateral plantar nerve	dorlandspre	n_05
+Ischial tuberosity	dorlandspre	t_21
+Pelvic cavity	dorlandspre	c_16
+Linea terminalis	dorlandspre	l_10
+Pelvic brim	dorlandspre	b_22
+Arcuate line of ilium	dorlandspre	l_10
+Pubic arch	dorlandspre	a_58
+Body of tibia	dorlandspre	c_56
+Upper extremity of femur	dorlandspre	c_62
+Body of femur	dorlandspre	s_09
+Wing of ilium	dorlandspre	a_21
+Lateral aperture	dorlandspre	a_51
+Pelvic inlet	dorlandspre	a_51
+Lacrimal apparatus	dorlandspre	a_54
+Lacrimal canaliculi	dorlandspre	c_04
+Lacrimal sac	dorlandspre	s_01
+Clavipectoral fascia	dorlandspre	f_03
+Middle meningeal nerve	dorlandspre	n_05
+Pterygopalatine nerves	dorlandspre	n_05
+Superior labial nerve	dorlandspre	r_02
+Inferior palpebral nerve	dorlandspre	r_02
+Pharyngeal nerve	dorlandspre	n_05
+Anterior superior alveolar nerve	dorlandspre	r_02
+Posterior superior alveolar nerve	dorlandspre	r_02
+Deep petrosal nerve	dorlandspre	n_05
+Nerve of pterygoid canal	dorlandspre	n_05
+Trigeminal cave	dorlandspre	c_16
+Masseteric nerve	dorlandspre	n_05
+Infraorbital plexus	dorlandspre	p_24
+Pterygoid canal	dorlandspre	c_04
+Infraorbital canal	dorlandspre	c_04
+Palatovaginal canal	dorlandspre	c_04
+Pterion	dorlandspre	p_41
+Obelion	dorlandspre	o_01
+Stephanion	dorlandspre	s_23
+Temporal line	dorlandspre	l_10
+Dacryon	dorlandspre	d_01
+Frontal eminence	dorlandspre	t_21
+Peritubular capillaries	dorlandspre	c_06
+Zygomatico-orbital foramina	dorlandspre	f_12
+Foramina of Scarpa	dorlandspre	f_12
+Mandibular fossa	dorlandspre	f_14
+Alveolar canals	dorlandspre	c_04
+Frontonasal duct	dorlandspre	d_29
+Condyloid fossa	dorlandspre	f_14
+Pyramidal process of palatine bone	dorlandspre	p_34
+Scaphoid fossa	dorlandspre	f_14
+Pterygoid fossa	dorlandspre	f_14
+Occipital plane	dorlandspre	p_22
+Nuchal plane	dorlandspre	p_22
+External occipital protuberance	dorlandspre	p_38
+Anterior nasal spine	dorlandspre	s_18
+Posterior nasal spine	dorlandspre	s_18
+Pharyngeal tubercle	dorlandspre	t_21
+Petrotympanic fissure	dorlandspre	f_08
+Suprameatal triangle	dorlandspre	f_15
+Infratemporal crest	dorlandspre	c_62
+Articular tubercle	dorlandspre	t_21
+Spine of sphenoid bone	dorlandspre	s_18
+Parietal foramen	dorlandspre	f_12
+Parietal eminence	dorlandspre	t_21
+Sulcus of auditory tube	dorlandspre	s_28
+Anterior nasal aperture	dorlandspre	a_51
+Posterior lacrimal crest	dorlandspre	c_62
+Cochlear aqueduct	dorlandspre	a_55
+Anterior lacrimal crest	dorlandspre	c_62
+Inferior tympanic canaliculus	dorlandspre	c_04
+Hiatus for greater petrosal nerve	dorlandspre	h_11
+Suprameatal spine	dorlandspre	s_18
+Transpyloric plane	dorlandspre	p_22
+Coracoclavicular ligament	dorlandspre	l_09
+Sternoclavicular joint	dorlandspre	a_64
+Rectal venous plexus	dorlandspre	p_24
+Metatarsophalangeal joints	dorlandspre	a_64
+Medial condyle of tibia	dorlandspre	c_51
+Lateral condyle of tibia	dorlandspre	c_51
+Medial condyle of femur	dorlandspre	c_51
+Lateral condyle of femur	dorlandspre	c_51
+Long plantar ligament	dorlandspre	l_09
+Inferior extensor retinaculum of foot	dorlandspre	r_10
+Fibular collateral ligament	dorlandspre	l_09
+Lateral supracondylar ridge	dorlandspre	l_10
+Trabeculae carneae	dorlandspre	t_14
+Infundibulum	dorlandspre	c_54
+Arches of the foot	dorlandspre	a_58
+Anterior median fissure of spinal cord	dorlandspre	f_08
+Anterior grey column	dorlandspre	c_55
+Posterior funiculus	dorlandspre	f_17
+Posterior median sulcus of spinal cord	dorlandspre	s_28
+Cuneate fasciculus	dorlandspre	f_03
+Pubic tubercle	dorlandspre	t_21
+Intraparietal sulcus	dorlandspre	12768887
+Intertrochanteric crest	dorlandspre	c_62
+Obturator membrane	dorlandspre	m_08
+Ischial spine	dorlandspre	s_18
+Anterior inferior iliac spine	dorlandspre	s_18
+Anterior gluteal line	dorlandspre	l_10
+Tendinous arch of pelvic fascia	dorlandspre	a_58
+Posterior humeral circumflex artery	dorlandspre	a_61
+Anterior humeral circumflex artery	dorlandspre	a_61
+Supraspinatous fossa	dorlandspre	f_14
+Infraspinatous fossa	dorlandspre	f_14
+Glenoid cavity	dorlandspre	c_16
+Central gelatinous substance of spinal cord	dorlandspre	s_27
+Substantia gelatinosa of Rolando	dorlandspre	s_27
+Posterior commissure	dorlandspre	c_49
+Temporal fascia	dorlandspre	l_02
+Lateral grey column	dorlandspre	c_55
+Ganglion impar	dorlandspre	g_02
+Posterior thoracic nucleus	dorlandspre	n_11
+Funiculus	dorlandspre	f_17
+Anterior spinothalamic tract	dorlandspre	t_15
+Foramen singulare	dorlandspre	f_12
+Lateral vestibular nucleus	dorlandspre	n_11
+Superior vestibular nucleus	dorlandspre	n_11
+Femoral ring	dorlandspre	a_50
+Femoral canal	dorlandspre	c_04
+Infraorbital groove	dorlandspre	s_28
+Lacrimal groove	dorlandspre	s_28
+Trochlear fovea	dorlandspre	f_15
+Ligamenta flava	dorlandspre	l_09
+Iliopubic eminence	dorlandspre	e_06
+Ulnar canal	dorlandspre	c_04
+Anterior fontanelle	dorlandspre	f_12
+Iliac crest	dorlandspre	c_62
+Petrosquamous sinus	dorlandspre	s_12
+Superior cerebral veins	dorlandspre	v_05
+Internal auditory veins	dorlandspre	v_05
+Subcostal nerve	dorlandspre	n_05
+Subcostal arteries	dorlandspre	a_61
+Lateral arcuate ligament	dorlandspre	l_09
+Medial arcuate ligament	dorlandspre	l_09
+Pubic crest	dorlandspre	c_62
+Fascia of Scarpa	dorlandspre	f_03
+Accessory obturator nerve	dorlandspre	n_05
+White pulp	dorlandspre	n_09
+Red pulp	dorlandspre	p_41
+Trochanteric fossa	dorlandspre	f_14
+Acetabular notch	dorlandspre	i_05
+Cruciate anastomosis	dorlandspre	a_35
+Round ligament of liver	dorlandspre	l_09
+Lateral umbilical fold	dorlandspre	l_09
+Iliofemoral ligament	dorlandspre	l_09
+Pubofemoral ligament	dorlandspre	l_09
+Ischiofemoral ligament	dorlandspre	l_09
+Bile canaliculus	dorlandspre	c_04
+Levator muscle of thyroid gland	dorlandspre	m_22
+Laryngeal vestibule	dorlandspre	v_08
+Corniculate cartilages	dorlandspre	c_12
+Aryepiglottic fold	dorlandspre	p_24
+Primitive groove	dorlandspre	g_12
+Atlanto-occipital joint	dorlandspre	a_64
+Superficial epigastric artery	dorlandspre	a_61
+Rhomboid fossa	dorlandspre	f_14
+Substantia innominata	dorlandspre	s_27
+Basal plate	dorlandspre	p_23
+Renal column	dorlandspre	c_48
+Inferior ganglion of vagus nerve	dorlandspre	g_02
+Buccopharyngeal membrane	dorlandspre	m_08
+Superior thoracic artery	dorlandspre	a_61
+Porta hepatis	dorlandspre	p_29
+Inferior transverse ligament of scapula	dorlandspre	l_09
+Suprascapular notch	dorlandspre	i_05
+Superior transverse scapular ligament	dorlandspre	l_09
+Medial forebrain bundle	dorlandspre	f_03
+Lumbosacral plexus	dorlandspre	p_24
+Submucous plexus	dorlandspre	p_24
+Diagonal band of Broca	dorlandspre	s_26
+Palatine nerves	dorlandspre	n_05
+Anterior corticospinal tract	dorlandspre	t_15
+Maxillary process of inferior nasal concha	dorlandspre	p_34
+Subclavian nerve	dorlandspre	n_05
+Superior lateral cutaneous nerve of arm	dorlandspre	n_05
+Posterior cutaneous nerve of arm	dorlandspre	n_05
+Posterior cutaneous nerve of forearm	dorlandspre	n_05
+Spermatic plexus	dorlandspre	p_24
+Aorticorenal ganglion	dorlandspre	g_02
+Inferior mesenteric ganglion	dorlandspre	g_02
+Superior mesenteric plexus	dorlandspre	p_24
+Superior mesenteric ganglion	dorlandspre	g_02
+Urachus	dorlandspre	u_03
+Vitelline membrane	dorlandspre	m_08
+Infraorbital nerve	dorlandspre	n_05
+Medial palpebral ligament	dorlandspre	l_09
+Body of maxilla	dorlandspre	c_56
+Zygomatic process of maxilla	dorlandspre	p_34
+Palatine process of maxilla	dorlandspre	p_34
+Lacrimal punctum	dorlandspre	p_42
+Lacrimal lake	dorlandspre	l_01
+Antihelix	dorlandspre	h_04
+Ponticulus	dorlandspre	p_29
+Earlobe	dorlandspre	l_13
+Tactile corpuscles of Grandry	dorlandspre	c_56
+Superior tarsal muscle	dorlandspre	m_22
+Obturator fascia	dorlandspre	f_03
+Anococcygeal body	dorlandspre	r_03
+Iliac fascia	dorlandspre	f_03
+Femoral sheath	dorlandspre	s_10
+Lumboinguinal nerve	dorlandspre	r_02
+Iliopubic tract	dorlandspre	a_57
+Lateral spinothalamic tract	dorlandspre	t_15
+Anterior external arcuate fibers	dorlandspre	f_05
+Internal arcuate fibers	dorlandspre	f_05
+Mammillothalamic fasciculus	dorlandspre	f_03
+Ansa lenticularis	dorlandspre	a_44
+Medullary striae of fourth ventricle	dorlandspre	s_26
+Spinomesencephalic tract	dorlandspre	t_15
+Posterolateral tract	dorlandspre	t_15
+Olivospinal tract	dorlandspre	t_15
+Superior cerebellar peduncle	dorlandspre	p_10
+Middle cerebellar peduncle	dorlandspre	p_10
+Ventral supraoptic decussation	dorlandspre	c_49
+Diaphragma sellae	dorlandspre	d_15
+Stratum zonale of thalamus	dorlandspre	s_25
+Tela chorioidea of third ventricle	dorlandspre	t_03
+Tela chorioidea of fourth ventricle	dorlandspre	t_03
+Taenia thalami	dorlandspre	t_01
+Posterior perforated substance	dorlandspre	s_27
+Optic recess	dorlandspre	r_05
+Interpeduncular fossa	dorlandspre	f_14
+Olivocerebellar tract	dorlandspre	t_15
+Sublingual nucleus	dorlandspre	n_11
+Solitary tract	dorlandspre	t_15
+Hypothalamic sulcus	dorlandspre	s_28
+Projection fiber	dorlandspre	f_05
+Commissural fiber	dorlandspre	f_05
+Occipitofrontal fasciculus	dorlandspre	f_03
+Superior rectal artery	dorlandspre	a_61
+Anterior cecal artery	dorlandspre	a_61
+Posterior cecal artery	dorlandspre	a_61
+Iliac fossa	dorlandspre	f_14
+Appendicular artery	dorlandspre	a_61
+Splenium	dorlandspre	s_19
+Superior medullary velum	dorlandspre	v_05
+Olfactory tract	dorlandspre	t_15
+Paraterminal gyrus	dorlandspre	g_13
+Indusium griseum	dorlandspre	i_06
+Subcallosal area	dorlandspre	a_59
+Anterior perforated substance	dorlandspre	s_27
+Palmar metacarpal arteries	dorlandspre	a_61
+Princeps pollicis artery	dorlandspre	a_61
+Suboccipital triangle	dorlandspre	t_17
+Articular processes	dorlandspre	p_34
+Dorsal carpal arch	dorlandspre	r_10
+Radial artery of index finger	dorlandspre	a_61
+Nutrient artery	dorlandspre	a_61
+Lateral plantar artery	dorlandspre	a_61
+Plantar metatarsal arteries	dorlandspre	a_61
+Medial plantar artery	dorlandspre	a_61
+Deep plantar artery	dorlandspre	a_61
+Anterior medial malleolar artery	dorlandspre	a_61
+Anterior tibial recurrent artery	dorlandspre	a_61
+Dorsal nasal artery	dorlandspre	a_61
+Angular artery	dorlandspre	a_61
+Masseteric artery	dorlandspre	a_61
+Mandibular notch	dorlandspre	i_05
+Inferior suprarenal artery	dorlandspre	a_61
+Internal iliac vein	dorlandspre	v_05
+Basal vein	dorlandspre	v_05
+Bulboid corpuscle	dorlandspre	c_56
+Frontopontine fibers	dorlandspre	f_05
+Temporopontine fibers	dorlandspre	f_05
+Stroma of cornea	dorlandspre	s_27
+Corneal epithelium	dorlandspre	e_13
+Ciliary processes	dorlandspre	p_34
+Inner plexiform layer	dorlandspre	l_05
+Retinal pigment epithelium	dorlandspre	p_07
+Layer of rods and cones	dorlandspre	l_05
+Posterior chamber of eyeball	dorlandspre	c_04
+Floor plate	dorlandspre	l_02
+Sulcus limitans	dorlandspre	s_28
+Terminal sulcus	dorlandspre	s_28
+Lingual septum	dorlandspre	s_08
+Plica fimbriata	dorlandspre	p_24
+Greater alar cartilage	dorlandspre	c_12
+Septal nasal cartilage	dorlandspre	c_12
+Lateral nasal cartilage	dorlandspre	c_12
+Intervertebral foramina	dorlandspre	f_12
+Posterior auricular nerve	dorlandspre	n_05
+Buccal branches of the facial nerve	dorlandspre	r_02
+Marginal mandibular branch of the facial nerve	dorlandspre	r_02
+Medial supracondylar ridge	dorlandspre	l_10
+Medial epicondyle of the humerus	dorlandspre	e_11
+Medial epicondyle of the femur	dorlandspre	e_11
+Lesser tubercle	dorlandspre	t_21
+Greater tubercle	dorlandspre	t_21
+Antebrachial fascia	dorlandspre	f_03
+Flexor retinaculum of foot	dorlandspre	r_10
+Sternopericardial ligaments	dorlandspre	l_09
+Pectinate muscles	dorlandspre	m_22
+Anterior interventricular sulcus	dorlandspre	s_28
+Central tendon of diaphragm	dorlandspre	c_20
+Right border of heart	dorlandspre	m_04
+Deep cervical artery	dorlandspre	a_61
+Costocervical trunk	dorlandspre	t_20
+Bicipital aponeurosis	dorlandspre	a_53
+Vincula tendina	dorlandspre	v_08
+Interosseous recurrent artery	dorlandspre	a_61
+Posterior ulnar recurrent artery	dorlandspre	r_02
+Anterior ulnar recurrent artery	dorlandspre	r_02
+Olecranon fossa	dorlandspre	f_14
+Radial tuberosity	dorlandspre	t_21
+Oblique cord	dorlandspre	c_31
+Trochlear notch	dorlandspre	i_05
+Radial notch	dorlandspre	i_05
+Pisohamate ligament	dorlandspre	l_09
+Zona orbicularis	dorlandspre	z_01
+Intertrochanteric line	dorlandspre	l_10
+Common palmar digital arteries	dorlandspre	a_61
+Axillary fascia	dorlandspre	f_03
+Proximal radioulnar articulation	dorlandspre	a_64
+Cervical part of internal carotid artery	dorlandspre	p_07
+Pharyngeal branch of vagus nerve	dorlandspre	r_02
+Petrous portion of the internal carotid artery	dorlandspre	p_07
+Medial palpebral arteries	dorlandspre	a_61
+Supraorbital artery	dorlandspre	a_61
+Supratrochlear artery	dorlandspre	a_61
+Short posterior ciliary arteries	dorlandspre	a_61
+Long posterior ciliary arteries	dorlandspre	a_61
+Anterior ciliary arteries	dorlandspre	a_61
+Artery of the pterygoid canal	dorlandspre	a_61
+Deep temporal arteries	dorlandspre	a_61
+Middle temporal artery	dorlandspre	a_61
+Palatopharyngeal arch	dorlandspre	a_58
+Palatoglossal arch	dorlandspre	a_58
+Palatine glands	dorlandspre	g_06
+Sternocostal joints	dorlandspre	a_64
+Posterior scrotal nerves	dorlandspre	n_05
+Adductor tubercle of femur	dorlandspre	t_21
+Inferior anal nerves	dorlandspre	n_05
+Dental arch	dorlandspre	a_58
+Septum spurium	dorlandspre	s_08
+Posterior interventricular sulcus	dorlandspre	s_28
+Crista terminalis	dorlandspre	c_62
+Valve of inferior vena cava	dorlandspre	v_02
+Left atrioventricular orifice	dorlandspre	o_09
+Aortic orifice	dorlandspre	o_09
+Right atrioventricular orifice	dorlandspre	o_09
+Circular folds	dorlandspre	p_24
+Piriformis nerve	dorlandspre	n_05
+Obturator internus nerve	dorlandspre	n_05
+Nerve to quadratus femoris	dorlandspre	n_05
+Dorsal artery of the penis	dorlandspre	a_61
+Dorsal nerve of the penis	dorlandspre	n_05
+Iliolumbar ligament	dorlandspre	l_09
+Anterior sacroiliac ligament	dorlandspre	l_09
+Posterior inferior iliac spine	dorlandspre	s_18
+Posterior superior iliac spine	dorlandspre	s_18
+Iliac tuberosity	dorlandspre	t_21
+Posterior sacroiliac ligament	dorlandspre	l_09
+Interosseous sacroiliac ligament	dorlandspre	l_09
+Superior tibiofibular joint	dorlandspre	a_64
+Inferior tibiofibular joint	dorlandspre	s_32
+Posterior ligament of the head of the fibula	dorlandspre	l_09
+Anterior tibiofibular ligament	dorlandspre	l_09z
+Posterior tibiofibular ligament	dorlandspre	l_09
+Sacrococcygeal symphysis	dorlandspre	a_64
+Plane joint	dorlandspre	a_64
+Condyloid joint	dorlandspre	a_64
+Pivot joint	dorlandspre	a_64
+Transverse ligament of atlas	dorlandspre	l_09
+Anterior sacrococcygeal ligament	dorlandspre	l_09
+Saddle joint	dorlandspre	a_64zPzhtm#
+Membranous labyrinth	dorlandspre	l_01
+Ductus reuniens	dorlandspre	d_29
+Lagena	dorlandspre	l_02
+Endolymphatic duct	dorlandspre	d_29
+Tectorial membrane	dorlandspre	m_08
+Osseous spiral lamina	dorlandspre	l_02
+Vestibular aqueduct	dorlandspre	a_55
+Endolymphatic sac	dorlandspre	s_01
+Blood–air barrier	dorlandspre	m_08
+Pancreatic veins	dorlandspre	v_05
+Pancreaticoduodenal veins	dorlandspre	v_05
+Right gastroepiploic vein	dorlandspre	v_05
+Pancreatic branches of splenic artery	dorlandspre	r_02
+Obturator veins	dorlandspre	v_05
+Plantar digital veins	dorlandspre	v_05
+Accessory cephalic vein	dorlandspre	v_05
+Median antebrachial vein	dorlandspre	v_05
+Basilar plexus	dorlandspre	p_24
+Cerebellar veins	dorlandspre	v_05
+Anterior segment of eyeball	dorlandspre	s_07
+Posterior segment of eyeball	dorlandspre	s_07
+Craniopharyngeal canal	dorlandspre	c_04
+Zygomatic process of temporal bone	dorlandspre	p_34
+Irregular bone	dorlandspre	o_07
+Orbital septum	dorlandspre	s_08
+Conceptus	dorlandspre	c_50
+Dorsal metacarpal arteries	dorlandspre	a_61
+Posterior longitudinal ligament	dorlandspre	l_09
+Tectorial membrane of atlanto-axial joint	dorlandspre	m_08
+Costoxiphoid ligaments	dorlandspre	l_09
+Deep transverse metacarpal ligament	dorlandspre	l_09
+Dorsal talonavicular ligament	dorlandspre	l_09
+Cuneonavicular joint	dorlandspre	a_64
+Cuboideonavicular joint	dorlandspre	j_02
+Talocalcaneonavicular joint	dorlandspre	a_64
+Acromioclavicular ligament	dorlandspre	l_09
+Conoid ligament	dorlandspre	l_09
+Trapezoid ligament	dorlandspre	l_09
+Coracoacromial ligament	dorlandspre	l_09
+Coracohumeral ligament	dorlandspre	l_09
+Glenoid labrum	dorlandspre	l_01
+Transverse humeral ligament	dorlandspre	l_09
+Dorsal radiocarpal ligament	dorlandspre	l_09
+Palmar radiocarpal ligament	dorlandspre	l_09
+Pisometacarpal ligament	dorlandspre	l_09
+Plantar calcaneocuboid ligament	dorlandspre	l_09
+Plantar calcaneonavicular ligament	dorlandspre	l_09
+Bifurcated ligament	dorlandspre	l_09
+Tarsometatarsal joints	dorlandspre	a_64
+Interphalangeal joints of foot	dorlandspre	a_64
+Intertarsal joints	dorlandspre	a_64
+Intercarpal joints	dorlandspre	a_64
+Oblique popliteal ligament	dorlandspre	l_09
+Patellar ligament	dorlandspre	l_09
+Transverse acetabular ligament	dorlandspre	l_09
+Anterior sternoclavicular ligament	dorlandspre	l_09
+Interclavicular ligament	dorlandspre	l_09
+Costoclavicular ligament	dorlandspre	l_09
+Follicular fluid	dorlandspre	f_10
+Cystohepatic triangle	dorlandspre	t_17
+Inferior lateral cutaneous nerve of arm	dorlandspre	n_05
+Secondary palate development	dorlandspre	p_02
+Fundus	dorlandspre	f_17
+Uterine cavity	dorlandspre	c_16
+Cervical canal	dorlandspre	c_04
+Esophageal hiatus	dorlandspre	h_11
+Aortic hiatus	dorlandspre	h_11
+Deltoid tuberosity	dorlandspre	t_21
+Supraglenoid tubercle	dorlandspre	t_21
+Infraglenoid tubercle	dorlandspre	t_21
+Greater sciatic notch	dorlandspre	i_05
+Lesser sciatic notch	dorlandspre	i_05
+Capitulum of the humerus	dorlandspre	c_06
+Tail of Spence	dorlandspre	t_01
+Anterior interosseous nerve	dorlandspre	n_05
+Palmar branch of ulnar nerve	dorlandspre	r_02
+Palmar branch of the median nerve	dorlandspre	r_02
+Common palmar digital nerves of median nerve	dorlandspre	n_05
+Proper palmar digital nerves of median nerve	dorlandspre	n_05
+Dorsal branch of ulnar nerve	dorlandspre	r_02
+Esophageal gland	dorlandspre	g_06
+Huxley's layer	dorlandspre	l_05
+Henle's layer	dorlandspre	l_05
+Right colic vein	dorlandspre	v_05
+Middle colic vein	dorlandspre	v_04
+Gonadal artery	dorlandspre	a_62
+Testicular artery	dorlandspre	a_62
+Testicular vein	dorlandspre	v_04
+Superior rectal vein	dorlandspre	v_05
+Kinocilium	dorlandspre	k_03
+Solitary lymphatic nodule	dorlandspre	n_09
+Sternalis muscle	dorlandspre	m_22
+Accessory meningeal artery	dorlandspre	r_02
+Submental triangle	dorlandspre	t_19
+Submandibular triangle	dorlandspre	t_19
+Carotid triangle	dorlandspre	t_19
+Muscular triangle	dorlandspre	t_19
+Occipital triangle	dorlandspre	t_17
+Pterygomandibular raphe	dorlandspre	r_03
+Perineal raphe	dorlandspre	r_03
+Appendix of the epididymis	dorlandspre	a_54
+Tunica vasculosa testis	dorlandspre	t_22
+Supraspinous fascia	dorlandspre	f_14
+Brachial fascia	dorlandspre	f_03
+Bryant's triangle	dorlandspre	t_17
+Temporal branches of the facial nerve	dorlandspre	r_02
+Zygomatic branches of the facial nerve	dorlandspre	r_02
+Cervical branch of the facial nerve	dorlandspre	r_02
+Pyramidal eminence	dorlandspre	e_06
+Nerve to the stapedius	dorlandspre	n_05
+Digastric branch of facial nerve	dorlandspre	r_02
+Stylohyoid branch of facial nerve	dorlandspre	r_02
+Radial styloid process	dorlandspre	p_34
+Ulnar styloid process	dorlandspre	p_34
+Third trochanter	dorlandspre	t_20
+Aditus to mastoid antrum	dorlandspre	a_16
+Antitragicus	dorlandspre	m_22
+Tragicus	dorlandspre	m_22
+Oblique muscle of auricle	dorlandspre	m_22
+Helicis major	dorlandspre	m_22
+Helicis minor	dorlandspre	m_22
+Transverse muscle of auricle	dorlandspre	m_22
+Cauda helicis	dorlandspre	c_15
+Lacrimal papilla	dorlandspre	p_03
+Tenon's capsule	dorlandspre	t_04
+Orbitalis muscle	dorlandspre	m_22
+Greater palatine nerve	dorlandspre	n_05
+Tuberosity of the tibia	dorlandspre	t_21
+Flat bone	dorlandspre	o_07
+Short bone	dorlandspre	o_07
+Interspinous ligament	dorlandspre	l_09
+Intertransverse ligament	dorlandspre	l_09
+Articulation of head of rib	dorlandspre	a_64
+Radiate ligament of head of rib	dorlandspre	l_09
+Interchondral articulations	dorlandspre	a_64
+Submental artery	dorlandspre	a_61
+Thyroid ima artery	dorlandspre	a_61
+Zygomatico-orbital artery	dorlandspre	a_61
+Superior tympanic artery	dorlandspre	a_61
+Bronchial veins	dorlandspre	v_05
+Cremasteric artery	dorlandspre	a_61
+Dermal papillae	dorlandspre	p_03
+Thoracodorsal artery	dorlandspre	a_61
+Medial collateral artery	dorlandspre	a_61
+Radial collateral artery	dorlandspre	a_61
+Suprapleural membrane	dorlandspre	m_08
+Interosseous membrane of forearm	dorlandspre	m_08
+Palmar carpal arch	dorlandspre	a_57
+Palmar carpal branch of radial artery	dorlandspre	r_02
+Dorsal carpal branch of the ulnar artery	dorlandspre	r_02
+Proper palmar digital arteries	dorlandspre	a_61
+Dorsal venous network of hand	dorlandspre	r_10
+Pontine raphe nucleus	dorlandspre	n_11
+Obturator crest	dorlandspre	c_62
+Taenia of fourth ventricle	dorlandspre	t_01
+Corpus cavernosum of clitoris	dorlandspre	c_56
+Transverse perineal muscles	dorlandspre	m_22
+Stratum lucidum of hippocampus	dorlandspre	s_25
+Inner nuclear layer	dorlandspre	l_05
+Carina of trachea	dorlandspre	c_11
+Inferior hypogastric plexus	dorlandspre	p_24
+External limiting membrane	dorlandspre	m_08
+Inner limiting membrane	dorlandspre	l_05
+Outer plexiform layer	dorlandspre	l_05
+Outer nuclear layer	dorlandspre	l_05
+Nerve fiber layer	dorlandspre	l_05
+Ganglion cell layer	dorlandspre	l_05
+Fibrous tunic of eyeball	dorlandspre	t_22
+Dorsomedial hypothalamic nucleus	dorlandspre	n_11
+Anterior hypothalamic nucleus	dorlandspre	n_11
+Preoptic area	dorlandspre	n_11
+Sattler's layer	dorlandspre	l_05
+Suprachoroid lamina	dorlandspre	l_02
+Vorticose veins	dorlandspre	v_05
+Infraclavicular fossa	dorlandspre	f_14
+Supraclavicular fossa	dorlandspre	f_14
+Olfactory glands	dorlandspre	g_06
+Arcuate line of rectus sheath	dorlandspre	l_10
+Extensor retinaculum of the hand	dorlandspre	r_10
+Median umbilical ligament	dorlandspre	l_09
+Medial umbilical ligament	dorlandspre	l_09
+Palmar intercarpal ligaments	dorlandspre	l_09
+Deep circumflex iliac artery	dorlandspre	a_61
+Posterior intercostal veins	dorlandspre	v_05
+Perforating arteries	dorlandspre	a_61
+Superficial circumflex iliac artery	dorlandspre	a_61
+Lateral inguinal fossa	dorlandspre	f_14
+Superficial external pudendal artery	dorlandspre	a_61
+Deep external pudendal artery	dorlandspre	a_61
+Anterior lateral malleolar artery	dorlandspre	a_61
+Medial tarsal arteries	dorlandspre	a_61
+Lateral tarsal artery	dorlandspre	a_61
+Posterior tibial recurrent artery	dorlandspre	a_61
+Descending genicular artery	dorlandspre	a_61
+Patellar plexus	dorlandspre	p_24
+Arcuate artery of the foot	dorlandspre	a_61
+Sural arteries	dorlandspre	a_61
+Accompanying artery of ischiadic nerve	dorlandspre	a_61
+Deep artery of the penis	dorlandspre	a_61
+Artery of bulb of penis	dorlandspre	a_61
+Artery to the ductus deferens	dorlandspre	a_61
+Plantar arch	dorlandspre	a_58
+Right marginal vein	dorlandspre	v_05
+Left marginal vein	dorlandspre	v_04
+Nasofrontal vein	dorlandspre	v_05
+Common digital veins	dorlandspre	v_05
+Superior phrenic vein	dorlandspre	v_05
+Deep facial vein	dorlandspre	v_05
+Posterior spinal artery	dorlandspre	a_61
+Meningeal branches of vertebral artery	dorlandspre	r_02
+Submucosa	dorlandspre	s_27
+Third occipital nerve	dorlandspre	n_05
+Posterior ramus of spinal nerve	dorlandspre	r_02
+Middle cervical ganglion	dorlandspre	g_02
+Inferior cervical ganglion	dorlandspre	g_02
+Pelvic splanchnic nerves	dorlandspre	r_02
+Lumbar splanchnic nerves	dorlandspre	n_05
+Sacral splanchnic nerves	dorlandspre	n_05
+Linea semilunaris	dorlandspre	l_10
+Intercrural fibres of superficial inguinal ring	dorlandspre	f_05
+Trochlea of superior oblique	dorlandspre	t_20
+Suprarenal plexus	dorlandspre	p_24
+Splenic plexus	dorlandspre	p_24
+Hepatic plexus	dorlandspre	p_24
+Gastric plexuses	dorlandspre	p_24
+Ovarian plexus	dorlandspre	p_24
+Pancreatic plexus	dorlandspre	p_24
+Phrenic plexus	dorlandspre	p_24
+Prostatic plexus	dorlandspre	p_24
+Vesical nervous plexus	dorlandspre	p_24
+Uterovaginal plexus	dorlandspre	p_24
+Parietal branch of superficial temporal artery	dorlandspre	r_02
+Lateral nasal branch of facial artery	dorlandspre	r_02
+Acetabular labrum	dorlandspre	l_01
+Hepatoduodenal ligament	dorlandspre	l_09
+Tonsillar branch of the facial artery	dorlandspre	r_02
+Lumbar veins	dorlandspre	v_05
+Subcostal vein	dorlandspre	v_05
+Ascending lumbar vein	dorlandspre	v_05
+Transversospinales	dorlandspre	m_22
+Spine of scapula	dorlandspre	s_18
+Dorsal nucleus of vagus nerve	dorlandspre	n_11
+Uncinate process of pancreas	dorlandspre	p_34
+Pancreatic notch	dorlandspre	i_05
+Mesosalpinx	dorlandspre	m_11
+Hepatogastric ligament	dorlandspre	l_09
+Lumbosacral trunk	dorlandspre	t_20
+Deep perineal pouch	dorlandspre	s_01
+Superficial perineal pouch	dorlandspre	c_49
+Coccygeal plexus	dorlandspre	p_24
+Quadrate line	dorlandspre	l_10
+Femur neck	dorlandspre	c_46
+Femoral head	dorlandspre	c_08
+Apical ligament of dens	dorlandspre	l_09
+Deltoid ligament	dorlandspre	l_09
+Lateral collateral ligament of ankle joint	dorlandspre	l_09
+Right marginal branch of right coronary artery	dorlandspre	r_02
+Esophageal plexus	dorlandspre	p_24
+Urogenital triangle	dorlandspre	r_07
+Ovarian ligament	dorlandspre	l_09
+Posterior talofibular ligament	dorlandspre	l_09
+Anterior talofibular ligament	dorlandspre	l_09
+Anterior olfactory nucleus	dorlandspre	n_11
+Superior pubic ramus	dorlandspre	r_02
+Inferior pubic ramus	dorlandspre	r_02
+Lumbar enlargement	dorlandspre	i_11
+Cervical enlargement	dorlandspre	i_11
+Hypogastric nerve	dorlandspre	n_05
+Superior costal facet	dorlandspre	f_15
+Inferior costal facet	dorlandspre	f_15
+Transverse costal facet	dorlandspre	f_15
+Posterior labial nerves	dorlandspre	n_05
+Dorsal nerve of clitoris	dorlandspre	n_05
+Anterior ramus of spinal nerve	dorlandspre	r_02
+Lacuna	dorlandspre	l_01
+Endoneurium	dorlandspre	e_09
+Medullary pyramids	dorlandspre	p_44
+Lesser alar cartilages	dorlandspre	c_12
+Accessory nasal cartilages	dorlandspre	c_12
+Serous demilune	dorlandspre	c_61
+Intercalated duct	dorlandspre	d_29
+Tubular gland	dorlandspre	g_06
+Alveolar gland	dorlandspre	g_06
+Paranephric body	dorlandspre	c_56
+Intervertebral veins	dorlandspre	v_05
+Basivertebral veins	dorlandspre	v_05
+Spinal veins	dorlandspre	v_05
+External vertebral venous plexuses	dorlandspre	p_24
+Internal vertebral venous plexuses	dorlandspre	p_24
+Xiphisternal joint	dorlandspre	s_32
+Clavipectoral triangle	dorlandspre	t_19
+Facet joint	dorlandspre	a_64
+External intercostal membrane	dorlandspre	m_08
+Costal margin	dorlandspre	a_58
+Root of the lung	dorlandspre	r_02
+Costodiaphragmatic recess	dorlandspre	r_05
+Spongy urethra	dorlandspre	p_07
+Prostatic urethra	dorlandspre	p_07
+Membranous urethra	dorlandspre	p_07
+Dorsal veins of the penis	dorlandspre	v_05
+Anterior cardiac veins	dorlandspre	v_05
+Anterior interventricular branch of left coronary artery	dorlandspre	r_02
+Mucous gland	dorlandspre	g_06
+Facial muscles	dorlandspre	m_22
+Transverse muscle of the chin	dorlandspre	m_22
+Greater palatine canal	dorlandspre	c_04
+Lesser palatine canals	dorlandspre	c_04
+Base of lung	dorlandspre	b_05
+Eparterial bronchus	dorlandspre	b_23
+Anterior vagal trunk	dorlandspre	t_20
+Posterior vagal trunk	dorlandspre	t_20
+Taenia coli	dorlandspre	t_01
+Left margin of heart	dorlandspre	m_04
+Sinoatrial nodal artery	dorlandspre	r_02
+Atrial branches of coronary arteries	dorlandspre	r_02
+Atrioventricular nodal branch	dorlandspre	r_02
+Left marginal artery	dorlandspre	r_02
+Incisura apicis cordis	dorlandspre	i_05
+Anterior superior alveolar arteries	dorlandspre	a_61
+Intra-articular ligament of head of rib	dorlandspre	l_09
+Superior cardiac nerve	dorlandspre	n_05
+Middle cardiac nerve	dorlandspre	n_05
+Intermediate nerve	dorlandspre	n_05
+Body of sphenoid bone	dorlandspre	c_56
+Transverse folds of rectum	dorlandspre	p_24
+Urethral crest	dorlandspre	c_62
+Dorsal pancreatic artery	dorlandspre	a_61
+Gastrophrenic ligament	dorlandspre	l_09
+Phrenicocolic ligament	dorlandspre	l_09
+Coronary ligament	dorlandspre	l_09
+Thoracoepigastric vein	dorlandspre	v_05
+Hassall's corpuscles	dorlandspre	c_56
+Fibrous joint	dorlandspre	j_02
+Medial inguinal fossa	dorlandspre	f_14
+Supravesical fossa	dorlandspre	f_14
+Cremasteric fascia	dorlandspre	f_03
+Pectineal line	dorlandspre	p_09
+External spermatic fascia	dorlandspre	f_03
+Internal spermatic fascia	dorlandspre	f_03
+Pampiniform venous plexus	dorlandspre	p_24
+Vaginal process	dorlandspre	p_34
+Tubuli seminiferi recti	dorlandspre	t_22
+Mediastinum testis	dorlandspre	m_06
+Mesorchium	dorlandspre	m_11
+Lobules of testis	dorlandspre	l_13
+Fimbria of hippocampus	dorlandspre	f_07
+Fimbriae of uterine tube	dorlandspre	f_07
+Paraumbilical vein	dorlandspre	v_05
+Splenorenal ligament	dorlandspre	l_09
+Pharyngeal plexus of vagus nerve	dorlandspre	p_24
+Bare area of the liver	dorlandspre	a_59
+Internal urethral orifice	dorlandspre	o_09
+Right triangular ligament	dorlandspre	l_09
+Left triangular ligament	dorlandspre	l_09
+Superior suprarenal artery	dorlandspre	a_61
+Renal hilum	dorlandspre	h_11
+Major duodenal papilla	dorlandspre	p_03
+Arterial arcades	dorlandspre	a_56
+Epiploic appendix	dorlandspre	a_54
+Superficial epigastric vein	dorlandspre	v_05
+Tendinous intersection	dorlandspre	i_10
+Pelvic fascia	dorlandspre	f_03
+Genital branch of genitofemoral nerve	dorlandspre	r_02
+Cribriform fascia	dorlandspre	f_03
+Septa of testis	dorlandspre	s_08
+Frenulum of prepuce of penis	dorlandspre	f_16
+Ischiopubic ramus	dorlandspre	r_02
+Dorsal artery of clitoris	dorlandspre	a_61
+Artery of bulb of vestibule	dorlandspre	a_61
+Pelvic outlet	dorlandspre	a_51
+Inferior gluteal line	dorlandspre	l_10
+Posterior gluteal line	dorlandspre	l_10
+Gastrosplenic ligament	dorlandspre	l_09
+Recto-uterine fold	dorlandspre	p_24
+Vesico-uterine pouch	dorlandspre	e_18
+Isthmus of uterine tube	dorlandspre	i_14
+Paravesical fossa	dorlandspre	f_14
+Ampulla of uterine tube	dorlandspre	a_32
+Retropubic space	dorlandspre	s_16
+Tunica albuginea	dorlandspre	t_22
+Prostatic venous plexus	dorlandspre	p_24
+Cystic vein	dorlandspre	v_05
+Median sacral vein	dorlandspre	v_05
+Lateral sacral veins	dorlandspre	v_05
+Left gastric vein	dorlandspre	v_05
+Middle rectal veins	dorlandspre	v_05
+Inferior rectal veins	dorlandspre	v_05
+Esophageal veins	dorlandspre	v_05
+Deep circumflex iliac vein	dorlandspre	v_05
+Uterine venous plexus	dorlandspre	p_24
+Vaginal venous plexus	dorlandspre	p_24
+Vesical venous plexus	dorlandspre	p_24
+Umbilical region	dorlandspre	r_07
+Hypogastrium	dorlandspre	h_22
+Recto-vesical pouch	dorlandspre	e_18
+Ileocecal fold	dorlandspre	p_24
+Copula linguae	dorlandspre	c_54
+Tuberculum impar	dorlandspre	t_21
+Dorsal mesentery	dorlandspre	m_10
+Trabeculae of corpus spongiosum of penis	dorlandspre	t_14
+Trabeculae of corpora cavernosa of penis	dorlandspre	t_14
+Crus of penis	dorlandspre	c_64
+Bulb of penis	dorlandspre	b_26
+Helicine arteries of penis	dorlandspre	a_61
+Ductuli aberrantes	dorlandspre	d_29
+Ampulla of ductus deferens	dorlandspre	a_32
+Paradidymis	dorlandspre	p_04
+Extraperitoneal space	dorlandspre	s_16
+Superior fascia of the urogenital diaphragm	dorlandspre	f_03
+Uterosacral ligament	dorlandspre	l_09
+Pectinate line	dorlandspre	l_10
+Cardinal ligament	dorlandspre	l_09
+Paroophoron	dorlandspre	p_07
+Sacrovertebral angle	dorlandspre	a_41
+Detrusor urinae muscle	dorlandspre	m_22
+Excretory duct of seminal gland	dorlandspre	d_29
+Clivus	dorlandspre	c_40
+Iliac colon	dorlandspre	c_47
+Uvula of urinary bladder	dorlandspre	u_04
+Prostatic ducts	dorlandspre	d_29
+Trabeculae of spleen	dorlandspre	t_14
+Accessory spleen	dorlandspre	s_19
+Interlobular veins	dorlandspre	v_05
+Straight venules of kidney	dorlandspre	v_06
+Interlobular arteries	dorlandspre	a_61
+Stellate veins	dorlandspre	v_05
+Cortical lobule	dorlandspre	l_13
+Arcuate vein	dorlandspre	v_05
+Arcuate arteries of the kidney	dorlandspre	a_61
+Pancreatic bud	dorlandspre	d_26
+Interlobar veins	dorlandspre	v_05
+Interlobar arteries	dorlandspre	a_61
+Renal fascia	dorlandspre	f_03
+Vascular pole	dorlandspre	p_26
+Descending limb of loop of Henle	dorlandspre	l_10
+Ascending limb of loop of Henle	dorlandspre	t_22
+Glomerular basement membrane	dorlandspre	m_08
+Tunica externa	dorlandspre	t_22
+Gastric pits	dorlandspre	f_15
+Subserosa	dorlandspre	t_03
+Superior extensor retinaculum of foot	dorlandspre	r_10
+Ovarian fossa	dorlandspre	f_14
+Germinal epithelium	dorlandspre	e_13
+Germinal epithelium	dorlandspre	e_13
+Cumulus oophorus	dorlandspre	c_66
+Membrana granulosa	dorlandspre	m_08
+Ductuli transversi	dorlandspre	d_29
+Theca of follicle	dorlandspre	t_07
+Follicular antrum	dorlandspre	a_50
+Arcuate vessels of uterus	dorlandspre	r_02
+Uterine gland	dorlandspre	g_06
+Placental cotyledon	dorlandspre	c_58
+Decidual cells	dorlandspre	c_18
+Corpus hemorrhagicum	dorlandspre	c_56
+Superior longitudinal fasciculus	dorlandspre	f_03
+Plantar venous arch	dorlandspre	a_58
+Gastric mucosa	dorlandspre	t_22
+Coccygeal glomus	dorlandspre	g_07
+Crista ampullaris	dorlandspre	c_62
+Superior hypophysial artery	dorlandspre	a_61
+Inferior hypophysial artery	dorlandspre	a_61
+Angular incisure	dorlandspre	i_05
+Supravaginal portion of cervix	dorlandspre	p_30
+Uterine horns	dorlandspre	c_55
+Major sublingual duct	dorlandspre	d_29
+Obturator canal	dorlandspre	c_04
+Left colic vein	dorlandspre	v_05
+Malleolus	dorlandspre	m_02
+Right gastric vein	dorlandspre	v_05
+Perineal branches of posterior femoral cutaneous nerve	dorlandspre	r_02
+Buck's fascia	dorlandspre	f_03
+Cardiac notch of stomach	dorlandspre	i_05
+Superior rectal plexus	dorlandspre	p_24
+Killian's dehiscence	dorlandspre	d_06
+Cavernous nerves of penis	dorlandspre	n_05
+Sensory decussation	dorlandspre	d_04
+Genu of the corpus callosum	dorlandspre	g_04
+Calcar avis	dorlandspre	c_01
+Collateral eminence	dorlandspre	e_06
+Collateral fissure	dorlandspre	f_08
+Frenulum of superior medullary velum	dorlandspre	f_16
+Midsternal line	dorlandspre	l_10
+Frontal branch of superficial temporal artery	dorlandspre	r_02
+Mylohyoid branch of inferior alveolar artery	dorlandspre	r_02
+Pontine arteries	dorlandspre	a_61
+Glandular branches of facial artery	dorlandspre	r_02
+Pterygoid branches of maxillary artery	dorlandspre	r_02
+Posterolateral sulcus of medulla oblongata	dorlandspre	s_28
+Vagal trigone	dorlandspre	t_19
+Anterior median fissure of the medulla oblongata	dorlandspre	f_08
+Cerebellar tonsil	dorlandspre	t_13
+Olfactory sulcus	dorlandspre	s_28
+Coronoid process of the mandible	dorlandspre	p_34
+Cervical sinus	dorlandspre	s_12
+Pharyngeal branches of glossopharyngeal nerve	dorlandspre	r_02
+Subclavian groove	dorlandspre	s_28
+Promontory of tympanic cavity	dorlandspre	p_36
+Tympanic plexus	dorlandspre	p_24
+Spiral ligament	dorlandspre	l_09
+Basilar crest	dorlandspre	c_62
+Sulcus spiralis externus	dorlandspre	s_28
+Sulcus spiralis internus	dorlandspre	s_28
+Saccular nerve	dorlandspre	n_05
+Angle of the mandible	dorlandspre	a_42
+Maxillary tuberosity	dorlandspre	t_21
+Body of ulna	dorlandspre	c_56
+Mylohyoid groove	dorlandspre	s_28
+Pharyngeal recess	dorlandspre	r_05
+Prevertebral fascia	dorlandspre	l_02
+Coronoid process of the ulna	dorlandspre	p_34
+Pretracheal fascia	dorlandspre	l_02
+Investing layer of deep cervical fascia	dorlandspre	l_02
+Coronoid fossa of the humerus	dorlandspre	f_14
+Tuberosity of the ulna	dorlandspre	t_21
+Midcarpal joint	dorlandspre	a_64
+Sphenoparietal sinus	dorlandspre	s_12
+Caroticotympanic arteries	dorlandspre	a_61
+Posterior atlantooccipital membrane	dorlandspre	m_08
+Anterior atlantooccipital membrane	dorlandspre	m_08
+Anterior auricular branches	dorlandspre	r_02
+Esophageal arteries	dorlandspre	a_62
+Esophageal branches of left gastric artery	dorlandspre	r_02
+Branch of glossopharyngeal nerve to carotid sinus	dorlandspre	r_02
+Surgical neck of the humerus	dorlandspre	c_46
+Anatomical neck of humerus	dorlandspre	c_46
+Radial fossa	dorlandspre	f_14
+Articular capsule of the knee joint	dorlandspre	c_07
+Ethmoidal notch	dorlandspre	i_05
+Orbital process of the zygomatic bone	dorlandspre	f_01
+Lateral palpebral raphe	dorlandspre	r_03
+Orbital lamina of ethmoid bone	dorlandspre	l_02
+Ala of nose	dorlandspre	a_21
+Lesser palatine nerve	dorlandspre	n_05
+Labial glands	dorlandspre	g_06
+Superior labial vein	dorlandspre	v_05
+Inferior labial vein	dorlandspre	v_05
+Pes anserinus	dorlandspre	p_15
+Parotid plexus	dorlandspre	p_15
+Saphenous opening	dorlandspre	h_11
+Lateral thoracic vein	dorlandspre	v_05
+Humeroradial joint	dorlandspre	a_64
+Humeroulnar joint	dorlandspre	a_64
+Trapezoid line	dorlandspre	l_10
+Costal tuberosity of clavicle	dorlandspre	i_04
+Superficial palmar branch of radial artery	dorlandspre	r_02
+Dorsal carpal branch of the radial artery	dorlandspre	r_02
+Palmar carpal branch of ulnar artery	dorlandspre	r_02
+Posterior branches of sacral nerves	dorlandspre	r_02
+Deep palmar branch of ulnar artery	dorlandspre	r_02
+Capsule of hip joint	dorlandspre	c_07
+Muscular branches of ulnar nerve	dorlandspre	r_02
+Deep branch of ulnar nerve	dorlandspre	r_02
+Superficial branch of ulnar nerve	dorlandspre	r_02
+Medial dorsal cutaneous nerve	dorlandspre	n_05
+Intermediate dorsal cutaneous nerve	dorlandspre	n_05
+Superior cluneal nerves	dorlandspre	n_0
+Inferior cluneal nerves	dorlandspre	n_05
+Medial cluneal nerves	dorlandspre	n_05
+Adductor hiatus	dorlandspre	h_11
+Bipolar neuron	dorlandspre	c_18
+Medial sural cutaneous nerve	dorlandspre	n_05
+Lateral sural cutaneous nerve	dorlandspre	n_05
+Superior thalamostriate vein	dorlandspre	v_05
+Posterior branch of obturator nerve	dorlandspre	r_02
+Anterior branch of obturator nerve	dorlandspre	r_02
+Vestibular fold	dorlandspre	p_24
+Anterior cutaneous branches of the femoral nerve	dorlandspre	r_02
+Soleal line	dorlandspre	l_10
+Tegmental pontine reticular nucleus	dorlandspre	n_11
+Lateral reticular nucleus	dorlandspre	n_11
+Oral pontine reticular nucleus	dorlandspre	n_11
+Parvocellular reticular nucleus	dorlandspre	n_11
+Caudal pontine reticular nucleus	dorlandspre	n_11
+Gigantocellular reticular nucleus	dorlandspre	n_11
+Paramedian reticular nucleus	dorlandspre	n_11
+Patellar network	dorlandspre	r_10
+Cutaneous branch of the obturator nerve	dorlandspre	r_02
+Arcuate popliteal ligament	dorlandspre	l_09
+Circumflex fibular artery	dorlandspre	r_02
+Plantar metatarsal veins	dorlandspre	v_05
+Dorsal digital veins of the foot	dorlandspre	v_05
+Condylar emissary vein	dorlandspre	v_05
+Dorsal carpometacarpal ligaments	dorlandspre	l_09
+Palmar carpometacarpal ligaments	dorlandspre	l_09
+Medial calcaneal branches of the tibial nerve	dorlandspre	r_02
+Medial dorsal nucleus	dorlandspre	n_11
+Incisive papilla	dorlandspre	p_03
+Palatine raphe	dorlandspre	r_03
+Body of hyoid bone	dorlandspre	c_56
+Medial eminence of floor of fourth ventricle	dorlandspre	e_06
+Chiasmatic groove	dorlandspre	s_28
+Middle clinoid process	dorlandspre	p_34
+Buccopharyngeal fascia	dorlandspre	f_03
+Isthmus of the fauces	dorlandspre	i_14
+Sublingual caruncle	dorlandspre	c_13
+Mental protuberance	dorlandspre	p_38
+Vitreous membrane	dorlandspre	m_08
+Capsule of temporomandibular joint	dorlandspre	c_07
+Infraglottic cavity	dorlandspre	c_16
+Laryngeal ventricle	dorlandspre	v_06
+Calvaria	dorlandspre	c_03
+Cruciate ligament of atlas	dorlandspre	l_09
+Articular disk of the temporomandibular joint	dorlandspre	d_22
+Median thyrohyoid ligament	dorlandspre	l_09
+Cricotracheal ligament	dorlandspre	l_09
+Hyoepiglottic ligament	dorlandspre	l_09
+Pharyngobasilar fascia	dorlandspre	f_03
+Piriform sinus	dorlandspre	r_05
+Plica semilunaris of the fauces	dorlandspre	p_24
+Tonsillar fossa	dorlandspre	f_14
+Hyoglossal membrane	dorlandspre	m_08
+Mental tubercle	dorlandspre	t_21
+Jugular lymph trunk	dorlandspre	t_20
+Jugular venous arch	dorlandspre	a_58
+Body of mandible	dorlandspre	c_56
+Occipital emissary vein	dorlandspre	v_05
+Theca externa	dorlandspre	t_22
+Costotransverse joint	dorlandspre	a_64
+Inferior frontal sulcus	dorlandspre	s_28
+Superior frontal sulcus	dorlandspre	s_28
+Ventral anterior nucleus	dorlandspre	n_11
+Intermediolateral nucleus	dorlandspre	n_11
+Hippocampal sulcus	dorlandspre	s_28
+Paramedian arteries	dorlandspre	a_61
+Interpeduncular cistern	dorlandspre	c_37
+Inferior medullary velum	dorlandspre	v_05
+Pontine cistern	dorlandspre	c_37
+Mesencephalic nucleus of trigeminal nerve	dorlandspre	n_11
+Principal sensory nucleus of trigeminal nerve	dorlandspre	n_11
+Carpal tunnel	dorlandspre	c_04
+Subcommissural organ	dorlandspre	o_06
+Cerebral crus	dorlandspre	c_64
+Posterior median sulcus of medulla oblongata	dorlandspre	s_28
+Anterolateral sulcus of medulla	dorlandspre	s_28
+Straight gyrus	dorlandspre	g_13
+Emboliform nucleus	dorlandspre	n_11
+Paracentral lobule	dorlandspre	l_13
+Marginal sulcus	dorlandspre	p_07
+Hypoglossal trigone	dorlandspre	t_19
+Lateral recess	dorlandspre	r_05
+Anterior nuclei of thalamus	dorlandspre	n_11
+Ventral posteromedial nucleus	dorlandspre	n_11
+Ventral posterolateral nucleus	dorlandspre	n_11
+Midline nuclear group	dorlandspre	n_11
+Intralaminar nuclei of thalamus	dorlandspre	n_11
+Vestibulocerebellar tract	dorlandspre	t_15
+Thalamic fasciculus	dorlandspre	f_03
+Lenticular fasciculus	dorlandspre	f_03
+Association fiber	dorlandspre	f_05
+Centrum semiovale	dorlandspre	c_20
+Basilar part of pons	dorlandspre	p_07
+Callosal sulcus	dorlandspre	s_28
+Hip pointer	dorlandspre	p_10
+Groove for sigmoid sinus	dorlandspre	s_28
+Cistern of lateral cerebral fossa	dorlandspre	c_37
+Chiasmatic cistern	dorlandspre	c_37
+Cistern of great cerebral vein	dorlandspre	c_37
+A delta fiber	dorlandspre	f_05
+Inferior longitudinal fasciculus	dorlandspre	f_03
+Anterior white commissure	dorlandspre	c_49
+Reticulospinal tract	dorlandspre	t_15
+Medial vestibular nucleus	dorlandspre	n_11
+Ventral cochlear nucleus	dorlandspre	n_11
+Urinary meatus	dorlandspre	o_06
+Modiolus	dorlandspre	m_18
+Inner tunnel	dorlandspre	t_23
+Macula of utricle	dorlandspre	m_01
+Macula of saccule	dorlandspre	m_01
+Corneal limbus	dorlandspre	l_10
+Rostral interstitial nucleus of medial longitudinal fasciculus	dorlandspre	n_11
+Ciliospinal center	dorlandspre	c_20
+Inferior vestibular nucleus	dorlandspre	n_11
+Group C nerve fiber	dorlandspre	f_05
+Hepatorenal ligament	dorlandspre	l_09
+Annular ligaments of toes	dorlandspre	l_09
+Collateral ligament of interphalangeal articulations of hand	dorlandspre	l_09
+Deltoid fascia	dorlandspre	f_03
+Posterior carpometacarpal ligament	dorlandspre	l_09
+Dorsal cuboideonavicular ligament	dorlandspre	l_09
+Dorsal cuneonavicular ligaments	dorlandspre	l_09
+Dorsal cuneocuboid ligament	dorlandspre	l_09
+Interosseous cuneocuboid ligament	dorlandspre	l_09
+Interosseous cuneometatarsal ligaments	dorlandspre	l_09
+Plantar cuboideonavicular ligament	dorlandspre	l_09
+Plantar cuneocuboid ligament	dorlandspre	l_09
+Plantar cuneonavicular ligaments	dorlandspre	l_09
+Radiate carpal ligament	dorlandspre	l_09
+Ulnar carpal collateral ligament	dorlandspre	l_09
+Radiate sternocostal ligaments	dorlandspre	l_09
+Costotransverse ligament	dorlandspre	l_09
+Interarticular sternocostal ligament	dorlandspre	l_09
+Lateral costotransverse ligament	dorlandspre	l_09
+Superior costotransverse ligament	dorlandspre	l_09
+Calcaneocuboid ligament	dorlandspre	l_09
+Collateral ligament of metatarsophalangeal articulations	dorlandspre	l_09
+Gluteal aponeurosis	dorlandspre	a_53
+Subscapular aponeurosis	dorlandspre	a_53
+Inferior ligament of epididymis	dorlandspre	z_01
+Superior ligament of epididymis	dorlandspre	z_01
+Duodenorenal ligament	dorlandspre	z_01
+Anterior auricular ligament	dorlandspre	z_01
+Posterior auricular ligament	dorlandspre	z_01
+Superior auricular ligament	dorlandspre	z_01
+Annular ligament of stapes	dorlandspre	l_09
+Cricoarytenoid ligament	dorlandspre	l_09
+Cricopharyngeal ligament	dorlandspre	l_09
+Hepatocolic ligament	dorlandspre	l_09
+Posterior ligament of incus	dorlandspre	l_09
+Superior ligament of incus	dorlandspre	l_09
+Reflex inguinal ligament	dorlandspre	l_09
+Interosseous intercarpal ligaments	dorlandspre	l_09
+Interosseous intercuneiform ligaments	dorlandspre	l_09
+Dorsal intercuneiform ligaments	dorlandspre	l_09
+Plantar intercuneiform ligaments	dorlandspre	l_09
+Lumbocostal ligament	dorlandspre	l_09
+Anterior meniscofemoral ligament	dorlandspre	l_09
+Posterior meniscofemoral ligament	dorlandspre	l_09
+Pubovesical ligament	dorlandspre	l_09
+Moll's gland	dorlandspre	g_06
+Ethmoidal process of inferior nasal concha	dorlandspre	p_34
+Central retinal vein	dorlandspre	v_05
+Anterolateral central arteries	dorlandspre	a_61
+Periscleral lymph space	dorlandspre	s_16
+External pudendal veins	dorlandspre	v_05
+Pudendal plexus	dorlandspre	p_24
+Dorsal metacarpal veins	dorlandspre	v_05
+Intercapitular veins of the hand	dorlandspre	v_05
+Palmar digital veins	dorlandspre	v_05
+Palmar metacarpal veins	dorlandspre	v_05
+Superficial palmar venous arch	dorlandspre	a_58
+Deep palmar venous arch	dorlandspre	a_58
+Dorsal metatarsal veins	dorlandspre	v_05
+Dorsal metatarsal arteries	dorlandspre	a_61
+Posterior branches of thoracic nerves	dorlandspre	r_02
+Posterior branch of coccygeal nerve	dorlandspre	r_02
+Posterior branches of the lumbar nerves	dorlandspre	r_02
+Posterior branches of cervical nerves	dorlandspre	r_02
+Thoracic aortic plexus	dorlandspre	p_24
+Lumbar ganglia	dorlandspre	g_02
+Paravertebral ganglia	dorlandspre	g_02
+Dorsal scapular vein	dorlandspre	v_05
+Sacral ganglia	dorlandspre	g_02
+Thoracic ganglia	dorlandspre	g_02
+Radial collateral ligament of wrist joint	dorlandspre	l_09
+Retrovisceral space	dorlandspre	s_16
+Superior phrenic arteries	dorlandspre	a_61
+Pericardiacophrenic veins	dorlandspre	v_05
+Mediastinal branches of thoracic part of aorta	dorlandspre	r_02
+Inferior cardiac branches of the vagus nerve	dorlandspre	r_02
+Superior cervical cardiac branches of vagus nerve	dorlandspre	r_02
+Meningeal branch of vagus nerve	dorlandspre	r_02
+Deltoid branch of thoracoacromial artery	dorlandspre	r_02
+Anterior auricular veins	dorlandspre	v_05
+Suboccipital venous plexus	dorlandspre	p_24
+Appendicular vein	dorlandspre	v_05
+Ileocolic vein	dorlandspre	v_05
+Posterior spinal veins	dorlandspre	v_05
+Anterior spinal veins	dorlandspre	v_05
+Anterior intercostal veins	dorlandspre	v_05
+Thymic veins	dorlandspre	v_05
+Thymic branches of internal thoracic artery	dorlandspre	r_02
+Lateral palpebral arteries	dorlandspre	a_61
+Posterior gastric branches of posterior vagal trunk	dorlandspre	r_02
+Hepatic branches of anterior vagal trunk	dorlandspre	r_02
+Renal branches of vagus nerve	dorlandspre	r_02
+Anterior gastric branches of anterior vagal trunk	dorlandspre	r_02
+Celiac branches of vagus nerve	dorlandspre	r_02
+Heuser's membrane	dorlandspre	m_08
+Caroticotympanic nerves	dorlandspre	n_05
+Prevertebral plexus	dorlandspre	p_24
+Cartilaginous joint	dorlandspre	j_02
+Lamina affixa	dorlandspre	l_02
+Infraorbital margin	dorlandspre	c_56
+Deep artery of clitoris	dorlandspre	a_61
+Internal sphincter muscle of urethra	dorlandspre	m_22
+Posterior labial arteries	dorlandspre	r_02
+Anterior scrotal arteries	dorlandspre	r_02
+Posterior scrotal arteries	dorlandspre	r_02
+Anterior scrotal nerves	dorlandspre	n_05
+Canals of Hering	dorlandspre	c_04
+Interlobular bile ducts	dorlandspre	d_29
+Jejunal arteries	dorlandspre	a_61
+Ileal arteries	dorlandspre	a_61
+Jejunal veins	dorlandspre	v_05
+Ileal veins	dorlandspre	v_05
+Ileal branch of ileocolic artery	dorlandspre	r_02
+Colic branch of ileocolic artery	dorlandspre	r_02
+Tracheoesophageal septum	dorlandspre	s_08
+Epitympanic recess	dorlandspre	r_05
+Flank	dorlandspre	l_04
+Body of pubic bone	dorlandspre	c_56
+Root sheath	dorlandspre	s_10
+Supraduodenal artery	dorlandspre	a_61
+Uterine veins	dorlandspre	v_05
+Vesical veins	dorlandspre	v_05
+Tubal branch of uterine artery	dorlandspre	r_02
+Ovarian branch of uterine artery	dorlandspre	r_02
+Tubal branches of ovarian artery	dorlandspre	r_02
+Iliolumbar vein	dorlandspre	v_05
+Vein of bulb of penis	dorlandspre	v_05
+Superficial dorsal veins of clitoris	dorlandspre	v_05
+Deep dorsal vein of clitoris	dorlandspre	v_05
+Posterior scrotal veins	dorlandspre	v_05
+Posterior labial veins	dorlandspre	v_05
+Gastric lymph nodes	dorlandspre	n_09
+Hepatic lymph nodes	dorlandspre	n_09
+Middle rectal plexus	dorlandspre	p_24
+Artery of round ligament of uterus	dorlandspre	a_61
+Anterior labial nerves	dorlandspre	n_05
+Ureteral branches of renal artery	dorlandspre	r_02
+Iliac branch of iliolumbar artery	dorlandspre	r_02
+Lumbar branch of iliolumbar artery	dorlandspre	r_02
+Body of penis	dorlandspre	c_56
+Septum of the penis	dorlandspre	s_08
+Subcutaneous tissue of penis	dorlandspre	t_03
+Apex of urinary bladder	dorlandspre	a_52
+Subcutaneous tissue of perineum	dorlandspre	t_03
+Fascia of perineum	dorlandspre	f_03
+Mesocolic lymph nodes	dorlandspre	n_09
+Ileocolic lymph nodes	dorlandspre	n_09
+Mesenteric lymph nodes	dorlandspre	n_09
+Corona of glans penis	dorlandspre	c_56
+External sphincter muscle of female urethra	dorlandspre	m_22
+Extraperitoneal fat	dorlandspre	f_03
+Subcostal plane	dorlandspre	p_22
+Rectoprostatic fascia	dorlandspre	f_03
+Sternal plane	dorlandspre	p_22
+Subclavian lymph trunk	dorlandspre	t_20
+Head of ulna	dorlandspre	c_08
+Head of radius	dorlandspre	c_08
+Upper trunk	dorlandspre	t_20
+Palmar ulnocarpal ligament	dorlandspre	l_09
+Collateral ligaments of metacarpophalangeal joints	dorlandspre	l_09
+Collateral ligaments of interphalangeal joints	dorlandspre	l_09
+Dorsal tarsometatarsal ligaments	dorlandspre	l_09
+Plantar tarsometatarsal ligaments	dorlandspre	l_09
+Synovial sheath	dorlandspre	v_01
+Common flexor sheath of hand	dorlandspre	v_01
+Plantar metatarsal ligaments	dorlandspre	l_09
+Dorsal metatarsal ligaments	dorlandspre	l_09
+Interosseous metatarsal ligaments	dorlandspre	l_09
+Collateral ligaments of interphalangeal joints of foot	dorlandspre	l_09
+Plantar plate	dorlandspre	l_09
+Collateral ligaments of metatarsophalangeal joints	dorlandspre	l_09
+Medial crural cutaneous branches of saphenous nerve	dorlandspre	r_02
+Infrapatellar branch of saphenous nerve	dorlandspre	r_02
+Lateral dorsal cutaneous nerve	dorlandspre	n_05
+Sural communicating branch of common peroneal nerve	dorlandspre	r_02
+Lateral calcaneal branches of sural nerve	dorlandspre	r_02
+Deep branch of lateral plantar nerve	dorlandspre	r_02
+Superficial branch of lateral plantar nerve	dorlandspre	r_02
+Anterior intermuscular septum of leg	dorlandspre	s_08
+Dorsal digital nerves of foot	dorlandspre	n_05
+Dorsal digital nerves of ulnar nerve	dorlandspre	n_05
+Dorsal digital nerves of radial nerve	dorlandspre	n_05
+Common plantar digital nerves of lateral plantar nerve	dorlandspre	n_05
+Common plantar digital nerves of medial plantar nerve	dorlandspre	n_05
+Proper plantar digital nerves of lateral plantar nerve	dorlandspre	n_05
+Proper plantar digital nerves of medial plantar nerve	dorlandspre	n_05
+Acetabular branch of medial circumflex femoral artery	dorlandspre	r_02
+Ascending branch of medial circumflex femoral artery	dorlandspre	r_02
+Deep branch of medial circumflex femoral artery	dorlandspre	r_02
+Superficial branch of medial circumflex femoral artery	dorlandspre	r_02
+Articular branches of descending genicular artery	dorlandspre	r_02
+Saphenous branch of descending genicular artery	dorlandspre	r_02
+Dorsal digital arteries of foot	dorlandspre	a_61
+Common plantar digital arteries	dorlandspre	a_61
+Proper plantar digital arteries	dorlandspre	a_61
+Proper palmar digital nerves of ulnar nerve	dorlandspre	n_05
+Common palmar digital nerves of ulnar nerve	dorlandspre	n_05
+Articular capsule of the humerus	dorlandspre	c_07
+Articular disk of sternoclavicular articulation	dorlandspre	d_22
+Transverse ligament of knee	dorlandspre	l_09
+Fibular notch	dorlandspre	i_05
+Posterior auricular muscle	dorlandspre	m_22
+Superior auricular muscle	dorlandspre	m_22
+Anterior auricular muscle	dorlandspre	m_22
+Neurocranium	dorlandspre	c_60
+Lambda	dorlandspre	l_02
+Lacrimal hamulus	dorlandspre	h_02
+Sternocleidomastoid branches of occipital artery	dorlandspre	r_02
+Occipital branches of occipital artery	dorlandspre	r_02
+Meningeal branch of occipital artery	dorlandspre	r_02
+Alveolar part of mandible	dorlandspre	p_07
+Premaxilla	dorlandspre	p_32
+Stapedial branch of posterior auricular artery	dorlandspre	r_02
+Epiglottic vallecula	dorlandspre	v_02
+Vallecula of cerebellum	dorlandspre	v_02
+Thyroepiglottic ligament	dorlandspre	l_09
+Jugulodigastric lymph node	dorlandspre	n_09
+Deep lateral cervical lymph nodes	dorlandspre	n_09
+Jugulo-omohyoid lymph node	dorlandspre	n_09
+Anterior cervical lymph nodes	dorlandspre	n_09
+Quadrangular membrane	dorlandspre	m_08
+Deep anterior cervical lymph nodes	dorlandspre	n_09
+Superficial anterior cervical lymph nodes	dorlandspre	n_09
+Superficial lateral cervical lymph nodes	dorlandspre	n_09
+Cricoarytenoid articulation	dorlandspre	a_64
+Superficial parotid lymph nodes	dorlandspre	n_09
+Nasolabial lymph node	dorlandspre	n_09
+Facial lymph nodes	dorlandspre	n_09
+Mandibular lymph node	dorlandspre	n_09
+Intraglandular deep parotid lymph nodes	dorlandspre	n_09
+Infraauricular deep parotid lymph nodes	dorlandspre	n_09
+Pretracheal lymph nodes	dorlandspre	n_09
+Prelaryngeal lymph nodes	dorlandspre	n_09
+Thyroid lymph nodes	dorlandspre	n_09
+Alar fascia	dorlandspre	f_03
+Prevertebral space	dorlandspre	s_16
+Spinal root of accessory nerve	dorlandspre	r_02
+Cranial root of accessory nerves	dorlandspre	r_02
+Hiatus for lesser petrosal nerve	dorlandspre	h_11
+Petrosal branch of middle meningeal artery	dorlandspre	r_02
+Submandibular fovea	dorlandspre	f_15
+Sublingual fovea	dorlandspre	f_15
+Capsule of atlantooccipital articulation	dorlandspre	c_07
+Inferior root of ansa cervicalis	dorlandspre	r_02
+Superior root of ansa cervicalis	dorlandspre	r_02
+Suprascapular vein	dorlandspre	v_05
+Transverse cervical veins	dorlandspre	v_05
+Nerve to tensor veli palatini	dorlandspre	n_05
+Pharyngeal plexus	dorlandspre	p_24
+Internal nasal branches of infraorbital nerve	dorlandspre	r_02
+Inferior posterior nasal branches of greater palatine nerve	dorlandspre	r_02
+Inferior tympanic artery	dorlandspre	a_61
+Ethmoidal veins	dorlandspre	v_05
+Lingual branches of glossopharyngeal nerve	dorlandspre	r_02
+Tonsillar branches of glossopharyngeal nerve	dorlandspre	r_02
+Stylopharyngeal branch of glossopharyngeal nerve	dorlandspre	r_02
+Sympathetic root of ciliary ganglion	dorlandspre	r_02
+Parasympathetic root of ciliary ganglion	dorlandspre	r_02
+Lateral process of the zygomatic bone	dorlandspre	f_01
+Deep lingual vein	dorlandspre	v_05
+Dorsal lingual veins	dorlandspre	v_05
+Sublingual vein	dorlandspre	v_05
+Superior laryngeal vein	dorlandspre	v_05
+Inferior laryngeal vein	dorlandspre	v_05
+Posterior lateral nasal arteries	dorlandspre	a_61
+Posterior septal branches of sphenopalatine artery	dorlandspre	r_02
+Interarytenoid fold	dorlandspre	p_24
+Mental branch of inferior alveolar artery	dorlandspre	r_02
+Auricular branch of posterior auricular artery	dorlandspre	r_02
+Occipital branch of posterior auricular artery	dorlandspre	r_02
+Auricular branch of occipital artery	dorlandspre	r_02
+Descending branch of occipital artery	dorlandspre	r_02
+Superior dental plexus	dorlandspre	p_24
+Inferior dental plexus	dorlandspre	p_24
+Thyroepiglottic muscle	dorlandspre	p_07
+Anterior fornix erogenous zone	dorlandspre	f_14
+Mammalian eye	dorlandspre	s_07
+Rectum	dorlandspre	r_05
+Anterior ligament of the head of the fibula	dorlandspre	l_09
+Superior temporal sulcus	dorlandspre	g_13
+Abdominal fascia	dorlandspre	f_03
+Pterygospinous ligament	dorlandspre	l_09
+Renal stem cell	dorlandspre	a_44
+Nucleus basalis of Meynert	dorlandspre	n_11
+Line of Gennari	dorlandspre	l_10
+Sternum	dorlandspre	s_23
+Fossa for lacrimal sac	dorlandspre	f_14
+Denticulate ligaments	dorlandspre	l_09
+Fibular artery	dorlandspre	a_61
+Risser sign	dorlandspre	p_10
+Scalene tubercle	dorlandspre	c_58
+Groove for transverse sinus	dorlandspre	p_38
+Rhombic lip	dorlandspre	m_12
+Pelvis	dorlandspre	p_10
+Artery of Percheron	dorlandspre	r_02
+Preorbital gland	dorlandspre	g_06
+Transverse nasal crease	dorlandspre	c_12
+Anatomy of the human nose	dorlandspre	n_10
+Glenoid tubercles	dorlandspre	t_21
+Dorsal digital arteries of hand	dorlandspre	a_61
+Sphincter of Oddi	dorlandspre	s_18
+Golgi tendon organ	dorlandspre	o_06
+Pulmonary pleurae	dorlandspre	p_24
+Ligaments of malleus	dorlandspre	l_09

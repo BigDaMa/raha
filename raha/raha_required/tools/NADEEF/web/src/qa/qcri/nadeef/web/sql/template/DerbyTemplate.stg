@@ -1,0 +1,55 @@
+InstallRule(name) ::= <<
+create table $name$ (
+   name varchar(255) primary key not null,
+   type int,
+   code varchar(16384) not null,
+   java_code varchar(16384),
+   table1 varchar(255) not null,
+   table2 varchar(255),
+   last_edit_timestamp timestamp)
+>>
+
+InstallProject(name) ::= <<
+create table $name$ (
+    id INTEGER NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
+    dbname varchar(255) NOT NULL UNIQUE,
+    name varchar(255) UNIQUE
+)
+>>
+
+InstallRuleType(name) ::= <<
+create table $name$ (
+    type integer primary key not null,
+    name varchar(255) not null,
+    enabled boolean not null)
+>>
+
+InsertRule(type, code, table1, table2, name) ::= <<
+insert into RULE (name, type, code, table1, table2, last_edit_timestamp)
+  select '$name$', x.type, '$code$', '$table1$', '$table2$', current_timestamp from
+  ruletype x where x.name = '$type$'
+>>
+
+QueryViolation(tablename, start, interval, ruleFilter, order) ::= <<
+    select
+        *
+    from violation
+    where rid like '$ruleFilter$' $order$ offset $start$ rows fetch next $interval$ rows only
+>>
+
+QueryViolationWithFilter(tablename, start, interval, firstNViolation, ruleFilter, order) ::= <<
+    select
+        *
+    from violation
+    where vid < $firstNViolation$ and rid like '$ruleFilter$' $order$
+    offset $start$ rows fetch next $interval$ rows only
+>>
+
+QueryTable(tablename, start, interval) ::= <<
+    select
+        *
+    from
+        $tablename$
+    offset $start$ rows fetch next $interval$ rows only
+>>
+

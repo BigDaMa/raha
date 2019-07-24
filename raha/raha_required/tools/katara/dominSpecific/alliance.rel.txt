@@ -1,0 +1,606 @@
+American Airlines	alliance	Oneworld
+British Airways	alliance	Oneworld
+KLM	alliance	SkyTeam
+Qantas	alliance	Oneworld
+United Airlines	alliance	Star Alliance
+Delta Air Lines	alliance	SkyTeam
+Avianca	alliance	Star Alliance
+Aeroméxico	alliance	SkyTeam
+Aerolíneas Argentinas	alliance	SkyTeam
+LOT Polish Airlines	alliance	Star Alliance
+Aeroflot	alliance	SkyTeam
+Lufthansa	alliance	Star Alliance
+Mexicana de Aviación	alliance	Star Alliance
+Mexicana de Aviación	alliance	Oneworld
+Iberia	alliance	Oneworld
+Saudia	alliance	SkyTeam
+South African Airways	alliance	Star Alliance
+Royal Jordanian	alliance	Oneworld
+Continental Airlines	alliance	* SkyTeam \n* Star Alliance
+China Airlines	alliance	SkyTeam
+Air New Zealand	alliance	Star Alliance
+Hapag-Lloyd Flug	alliance	TUI Travel
+Finnair	alliance	Oneworld
+Kenya Airways	alliance	SkyTeam
+Air Canada	alliance	Star Alliance
+Northwest Airlines	alliance	SkyTeam
+Croatia Airlines	alliance	Star Alliance
+Alitalia-Linee Aeree Italiane	alliance	SkyTeam
+Braathens	alliance	Wings Alliance
+Braathens	alliance	SAS Group
+Cathay Pacific	alliance	Oneworld
+Malaysia Airlines	alliance	Oneworld
+First Choice Airways	alliance	TUI Travel
+LATAM Brasil	alliance	Oneworld
+Air Mauritius	alliance	Vanilla Alliance
+Singapore Airlines	alliance	Star Alliance
+Swiss International Air Lines	alliance	Star Alliance
+Sabena	alliance	Qualiflyer
+Scandinavian Airlines	alliance	Star Alliance
+TAROM	alliance	SkyTeam
+Freedom Air	alliance	Star Alliance
+Turkish Airlines	alliance	Star Alliance
+Garuda Indonesia	alliance	SkyTeam
+Japan Airlines	alliance	Oneworld
+Austral Líneas Aéreas	alliance	SkyTeam
+Angraecum	alliance	Angraecum
+Ophrys	alliance	Orchis
+Anacamptis	alliance	Orchis
+Dragonair	alliance	Oneworld
+All Nippon Airways	alliance	Star Alliance
+Comair	alliance	SkyTeam
+Continental Connection	alliance	SkyTeam
+Continental Connection	alliance	Star Alliance
+Atlantic Southeast Airlines	alliance	SkyTeam as Delta\nStar Alliance as United Express
+Endeavor Air	alliance	SkyTeam
+Mesaba Airlines	alliance	SkyTeam
+Mesaba Airlines	alliance	Star Alliance
+CommutAir	alliance	Star Alliance
+SkyWest Airlines	alliance	SkyTeam
+SkyWest Airlines	alliance	Star Alliance
+SkyWest Airlines	alliance	Oneworld
+Air Wisconsin	alliance	Oneworld
+United Express	alliance	Star Alliance
+Envoy Air	alliance	Oneworld
+Continental Express	alliance	SkyTeam
+Continental Express	alliance	Star Alliance
+Continental Micronesia	alliance	SkyTeam   Star Alliance
+O'Connor Airlines	alliance	Formerly:
+O'Connor Airlines	alliance	Oneworld
+America West Express	alliance	Star Alliance
+Ansett Australia	alliance	Star Alliance
+British Midland International	alliance	Star Alliance
+Canadian Airlines	alliance	Oneworld
+Aloha Airlines	alliance	Island Air, United Airlines
+US Airways	alliance	* Star Alliance \n* Oneworld
+US Airways Express	alliance	Star Alliance
+US Airways Express	alliance	Oneworld
+BA Connect	alliance	Oneworld
+KLM Cityhopper	alliance	SkyTeam
+Mesa Airlines	alliance	Star Alliance
+Mesa Airlines	alliance	Oneworld
+Piedmont Airlines	alliance	Star Alliance
+Piedmont Airlines	alliance	Oneworld
+Air China	alliance	Star Alliance
+Copa Airlines	alliance	Star Alliance
+Corsair International	alliance	TUI Airlines
+Thai Airways	alliance	Star Alliance
+Jazz	alliance	Star Alliance
+Adria Airways	alliance	Star Alliance
+Air Georgian	alliance	Star Alliance
+Korean Air	alliance	SkyTeam
+EgyptAir	alliance	Star Alliance
+Asiana Airlines	alliance	Star Alliance
+Czech Airlines	alliance	SkyTeam
+Lauda Air	alliance	Star Alliance
+PSA Airlines	alliance	Star Alliance
+PSA Airlines	alliance	Oneworld
+Aerosvit Airlines	alliance	Ukrainian Aviation Group
+Brassavola	alliance	Cattleya
+Air Nippon	alliance	Star Alliance
+Vietnam Airlines	alliance	SkyTeam
+Cebu Pacific	alliance	Value Alliance
+China Southern Airlines	alliance	SkyTeam
+Atlantic Coast Airlines	alliance	Star Alliance
+EVA Air	alliance	Star Alliance
+Ethiopian Airlines	alliance	Star Alliance
+TACA Airlines	alliance	Star Alliance
+Avianca Costa Rica	alliance	Star Alliance
+LATAM Chile	alliance	Oneworld
+Japan Asia Airways	alliance	Oneworld
+JALways	alliance	Oneworld
+Japan Transocean Air	alliance	Oneworld
+Mandarin Airlines	alliance	SkyTeam
+Paraphalaenopsis	alliance	Phalaenopsis
+Greyhound Lines	alliance	Trailways, Jefferson Lines, Indian Trails, Peter Pan Bus Lines, and others
+Qatar Airways	alliance	Oneworld
+Spanair	alliance	Star Alliance
+Air Berlin	alliance	Oneworld
+Blue1	alliance	Star Alliance
+Blue1	alliance	Regional member 2004–2009
+Blue1	alliance	Full member 2009-2012
+Blue1	alliance	Affiliate member 2012-2015
+Nok Air	alliance	Value Alliance
+Malév Hungarian Airlines	alliance	Oneworld
+SriLankan Airlines	alliance	Oneworld
+Air Europa	alliance	SkyTeam
+Kendell Airlines	alliance	Star Alliance
+Precision Air	alliance	Kenya Airways
+J-Air	alliance	Oneworld
+Aircalin	alliance	Air France
+Aircalin	alliance	Air New Zealand
+Aircalin	alliance	Qantas
+China Eastern Airlines	alliance	SkyTeam
+Air Aruba	alliance	Aserca Airlines
+British Mediterranean Airways	alliance	Oneworld
+Air Seychelles	alliance	Vanilla Alliance
+CityJet	alliance	SkyTeam
+SCADTA	alliance	Pan American World Airways
+C.A.I. Second	alliance	SkyTeam
+Trans States Airlines	alliance	Star Alliance
+Trans States Airlines	alliance	Oneworld
+Armenian Airlines	alliance	VG Airlines
+Shuttle America	alliance	*SkyTeam \n*Star Alliance
+Laelia	alliance	Cattleya
+Sophronitis	alliance	Cattleya
+Cattleya	alliance	Cattleya
+Middle East Airlines	alliance	SkyTeam
+S7 Airlines	alliance	Oneworld
+Republic Airlines	alliance	Oneworld
+Republic Airlines	alliance	Star Alliance
+Tyrolean Airways	alliance	Star Alliance
+Air Madagascar	alliance	Vanilla Alliance
+Tigerair	alliance	Value Alliance
+Air Burkina	alliance	Celestair
+JAL Express	alliance	Oneworld
+Shenzhen Airlines	alliance	Star Alliance
+Acanthephippium	alliance	Calanthe
+Portugália	alliance	Star Alliance
+Brassia	alliance	Oncidium
+Air Nostrum	alliance	Oneworld
+Spathoglottis	alliance	Calanthe
+Régional Compagnie Aérienne Européenne	alliance	SkyTeam
+Aeroméxico Connect	alliance	SkyTeam
+New Zealand National Airways Corporation	alliance	Air New Zealand, British Airways, Pan American Airways, Qantas, Singapore Airlines, Trans Australian Airlines  .
+Niki	alliance	Oneworld
+XiamenAir	alliance	SkyTeam
+Eastern Provincial Airways	alliance	CP Air
+Canada 3000	alliance	Royal Aviation
+Aviateca	alliance	Star Alliance
+Aegean Airlines	alliance	Star Alliance
+Brit Air	alliance	SkyTeam
+Donavia	alliance	SkyTeam
+AeroHonduras	alliance	Aeropostal Alas de Venezuela
+Air Arabia	alliance	Arab Air Carriers Organization
+C.A.I. First	alliance	SkyTeam
+Air Austral	alliance	Vanilla Alliance
+Omskavia	alliance	AiRUnion
+Air Jamaica Express	alliance	Air Jamaica - All service used JM flight numbers.
+Air Nova	alliance	Star Alliance
+Airnorth	alliance	Qantas
+South African Express	alliance	Star Alliance
+Ted	alliance	Star Alliance
+Avianca Brazil	alliance	Star Alliance
+Samara Airlines	alliance	AiRUnion
+Comair	alliance	Oneworld
+China Cargo Airlines	alliance	SkyTeam Cargo
+Shanghai Airlines	alliance	Star Alliance
+Shanghai Airlines	alliance	SkyTeam
+Air Japan	alliance	Star Alliance
+Japan Air Commuter	alliance	Oneworld
+China Yunnan Airlines	alliance	Skyteam
+Kingfisher Airlines	alliance	Oneworld
+Toronto Transit Commission bus system	alliance	GO Transit
+Toronto Transit Commission bus system	alliance	MiWay
+Toronto Transit Commission bus system	alliance	York Region Transit
+Toronto Transit Commission bus system	alliance	Brampton Transit
+Toronto Transit Commission bus system	alliance	Durham Region Transit
+Toronto Transit Commission bus system	alliance	Viva Rapid Transit
+Gray Coach	alliance	Greyhound to New York City
+Afra Airlines	alliance	CTK - CiTylinK
+Avianca Honduras	alliance	Star Alliance
+Air Central	alliance	Star Alliance
+Sun-Air of Scandinavia	alliance	Oneworld
+Augsburg Airways	alliance	Team Lufthansa
+Augsburg Airways	alliance	Lufthansa Regional
+Contact Air	alliance	Star Alliance
+Lufthansa CityLine	alliance	Star Alliance
+HK Express	alliance	U-FLY Alliance
+Lufthansa Regional	alliance	Star Alliance
+Domodedovo Airlines	alliance	AiRUnion
+KrasAir	alliance	AiRUnion
+Miltonia	alliance	Oncidium
+Executive Airlines	alliance	Oneworld
+TUIfly Nordic	alliance	TUI Airlines
+Belair	alliance	Oneworld
+Dniproavia	alliance	Ukrainian Aviation Group
+Donbassaero	alliance	Ukrainian Aviation Group
+Air Atlanta Europe	alliance	Air Atlanta Icelandic
+Air Atlanta Europe	alliance	Avion Group
+LATAM Perú	alliance	Oneworld
+QantasLink	alliance	Oneworld
+Cielos Airlines	alliance	Centurion Air Cargo  Master Top Airlines
+LATAM Ecuador	alliance	Oneworld
+Air Mali	alliance	Celestair
+MexicanaClick	alliance	Oneworld
+Chris Air	alliance	Airday
+Jeju Air	alliance	Value Alliance
+Air Nelson	alliance	Star Alliance
+SAS Braathens	alliance	Star Alliance
+ExpressJet	alliance	Oneworld
+ExpressJet	alliance	SkyTeam
+ExpressJet	alliance	Star Alliance
+GoJet Airlines	alliance	Star Alliance
+GoJet Airlines	alliance	Skyteam
+Eagle Airways	alliance	Star Alliance
+Mount Cook Airline	alliance	Star Alliance
+Odontoglossum	alliance	Oncidium
+Maersk Air UK	alliance	Oneworld
+LATAM Paraguay	alliance	Oneworld
+Renanthera	alliance	Vanda
+Ascocentrum	alliance	Vanda
+Phaius	alliance	Calanthe
+Orchis anthropophora	alliance	Orchis
+RegionsAir	alliance	Oneworld
+RegionsAir	alliance	SkyTeam
+Eastern Australia Airlines	alliance	Oneworld
+Prosthechea	alliance	Epidendrum
+Freedom Airlines	alliance	SkyTeam
+Sunstate Airlines	alliance	Oneworld
+Air Inter	alliance	Air France
+Rio Airways	alliance	Delta Air Lines
+Rio Airways	alliance	TranStar Airlines
+TUI fly Belgium	alliance	TUI Airlines
+Austrian Airlines	alliance	Star Alliance
+Interisland Airlines	alliance	TUI Airlines
+Rocky Mountain Airways	alliance	Continental Express
+Jetconnect	alliance	Oneworld
+Swiss Global Air Lines	alliance	Star Alliance
+TranStar Airlines	alliance	Air Cal
+Brussels Airlines	alliance	Star Alliance
+Compass Airlines	alliance	SkyTeam
+Compass Airlines	alliance	Oneworld
+US Helicopter	alliance	Delta Air Lines
+TUIfly	alliance	TUI Airlines
+TUI Airlines Netherlands	alliance	TUI Airlines
+Adamantinia	alliance	Isabelia
+Guarianthe	alliance	Cattleya
+Airlink	alliance	Star Alliance
+Jet4you	alliance	TUI Travel
+LATAM Argentina	alliance	Oneworld
+Cattleya purpurata	alliance	Cattleya
+Transborder Express	alliance	Qcity Transit
+Cattleya labiata	alliance	Cattleya
+SAS Commuter	alliance	Star Alliance
+Royale Airlines	alliance	Continental Airlines
+Air Liberté	alliance	Oneworld
+Norwegian Air Lines	alliance	Scandinavian Airlines System
+Avianca Nicaragua	alliance	Star Alliance
+PGA Express	alliance	Star Alliance
+Command Airways	alliance	American Airlines
+Network Aviation	alliance	Oneworld
+Air Kentucky	alliance	USAir Express
+Mihin Lanka	alliance	Oneworld
+Lucky Air	alliance	U-FLY Alliance
+Sierra National Airlines	alliance	Eagle Air
+BA CityFlyer	alliance	Oneworld
+PAWA Dominicana	alliance	Aserca Airlines
+PAWA Dominicana	alliance	SBA Airlines
+Caribintair	alliance	With Caribair
+Tigerair Australia	alliance	Value Alliance
+Northern Thunderbird Air	alliance	Central Mountain Air
+Aerocardal	alliance	Air Elite
+Aerocardal	alliance	Cirrus Aircraft
+Aerocardal	alliance	JSSI
+Aerocardal	alliance	Gulfstream Aerospace
+LATAM Express	alliance	Oneworld
+West Air	alliance	U-FLY Alliance
+EgyptAir Express	alliance	Star Alliance
+Aeroflot-Cargo	alliance	SkyTeam Cargo
+Federal Air	alliance	Solenta Aviation, Tanganyika Flying Company
+Papilionanthe hookeriana	alliance	Papilionanthe
+Cattleya trianae	alliance	Cattleya
+Platanthera yosemitensis	alliance	Orchis
+Ascoglossum	alliance	Vanda
+Dilomilis	alliance	Neocogniauxia
+Neotinea maculata	alliance	Orchis
+Air New Zealand Link	alliance	Star Alliance
+Angraecum sesquipedale	alliance	Angraecum
+Air France	alliance	SkyTeam
+Conchidium	alliance	Eria
+Dilochiopsis	alliance	Eria
+Sarcostoma	alliance	Ceratostylis
+Aspasia	alliance	Oncidium
+Burrageara	alliance	Oncidium
+Dendrophylax	alliance	Campylocentrum
+Rhynchostylis	alliance	Phalaenopsis
+Sarcochilus	alliance	Phalaenopsis
+Luisia	alliance	Vanda
+Doritaenopsis	alliance	Phalaenopsis
+Eastar Jet	alliance	U-FLY Alliance
+OpenSkies	alliance	Oneworld
+Dipodium punctatum	alliance	Dipodium
+Quisqueya	alliance	Encyclia
+Qcity Transit	alliance	Transborder Express
+Busabout Wagga Wagga	alliance	Busabout Sydney
+Busabout Wagga Wagga	alliance	Hawkesbury Valley Buses
+Domingoa	alliance	Encyclia
+Nevis Express	alliance	US Airways
+Cattleya amethystoglossa	alliance	Cattleya
+Thomson Airways	alliance	TUI Airlines
+Alitalia CityLiner	alliance	SkyTeam
+Aeroméxico Travel	alliance	SkyTeam
+Dipodium elegantulum	alliance	Dipodium
+MetroWest Regional Transit Authority	alliance	495
+MetroWest Regional Transit Authority	alliance	MetroWest/495 Transportation Management Association
+MetroWest Regional Transit Authority	alliance	Marlborough Regional Chamber of Commerce
+MetroWest Regional Transit Authority	alliance	MetroWest Chamber of Commerce
+MetroWest Regional Transit Authority	alliance	MetroWest Growth Management Committee
+MetroWest Regional Transit Authority	alliance	Transaction Associates, Inc.
+Miltoniopsis vexillaria	alliance	Oncidium
+Globus Airlines	alliance	Oneworld
+Lufthansa Italia	alliance	Star Alliance
+MexicanaLink	alliance	Oneworld
+Metro Airlines	alliance	American Eagle
+Alitalia	alliance	SkyTeam
+Coilostylis falcata	alliance	Epidendrum
+Cymbidium madidum	alliance	Cymbidium
+Angraecum birrimense	alliance	Angraecum
+Angraecum borbonicum	alliance	Angraecum
+Angraecum caulescens	alliance	Angraecum
+Angraecum calceolus	alliance	Angraecum
+Angraecum conchiferum	alliance	Angraecum
+Angraecum cucullatum	alliance	Angraecum
+Angraecum crassum	alliance	Angraecum
+Angraecum didieri	alliance	Angraecum
+Angraecum distichum	alliance	Angraecum
+Angraecum filicornu	alliance	Angraecum
+Angraecum eburneum	alliance	Angraecum
+Angraecum germinyanum	alliance	Angraecum
+Angraecum expansum	alliance	Angraecum
+Angraecum implicatum	alliance	Angraecum
+Angraecum infundibulare	alliance	Angraecum
+Angraecum mauritianum	alliance	Angraecum
+Angraecum leonis	alliance	Angraecum
+Angraecum ramosum	alliance	Angraecum
+Angraecum palmiforme	alliance	Angraecum
+Angraecum viguieri	alliance	Angraecum
+Angraecum scottianum	alliance	Angraecum
+Barkeria skinneri	alliance	Barkeria
+Barkeria lindleyana	alliance	Barkeria
+Barkeria spectabilis	alliance	Barkeria
+Campylocentrum fasciola	alliance	Campylocentrum
+Campylocentrum grisebachii	alliance	Campylocentrum
+Campylocentrum micranthum	alliance	Campylocentrum
+Cattleya bicolor	alliance	Cattleya
+Cattleya dowiana	alliance	Cattleya
+Cattleya dormaniana	alliance	Cattleya
+Cattleya forbesii	alliance	Cattleya
+Cattleya gaskelliana	alliance	Cattleya
+Cattleya granulosa	alliance	Cattleya
+Cattleya guttata	alliance	Cattleya
+Cattleya harrisoniana	alliance	Cattleya
+Cattleya intermedia	alliance	Cattleya
+Cattleya kerrii	alliance	Cattleya
+Cattleya lawrenceana	alliance	Cattleya
+Cattleya loddigesii	alliance	Cattleya
+Cattleya lueddemanniana	alliance	Cattleya
+Cattleya warneri	alliance	Cattleya
+Cattleya tigrina	alliance	Cattleya
+Cattleya warscewiczii	alliance	Cattleya
+Cattleya violacea	alliance	Cattleya
+Cattleya walkeriana	alliance	Cattleya
+Cattleya tenuis	alliance	Cattleya
+Cattleya schroederae	alliance	Cattleya
+Cattleya schilleriana	alliance	Cattleya
+Cattleya schofieldiana	alliance	Cattleya
+Cattleya mossiae	alliance	Cattleya
+Cattleya percivaliana	alliance	Cattleya
+Cattleya nobilior	alliance	Cattleya
+Cattleya luteola	alliance	Cattleya
+Cattleya maxima	alliance	Cattleya
+Chysis aurea	alliance	Chysis
+Chysis bractescens	alliance	Chysis
+Chysis laevis	alliance	Chysis
+Comparettia macroplectron	alliance	Comparettia
+Comparettia speciosa	alliance	Comparettia
+Comparettia falcata	alliance	Comparettia
+Comparettia coccinea	alliance	Comparettia
+Cymbidium aloifolium	alliance	Cymbidium
+Cymbidium tracyanum	alliance	Cymbidium
+Cymbidium tigrinum	alliance	Cymbidium
+Cymbidium iridioides	alliance	Cymbidium
+Cymbidium kanran	alliance	Cymbidium
+Cymbidium mastersii	alliance	Cymbidium
+Cymbidium parishii	alliance	Cymbidium
+Cymbidium erythraeum	alliance	Cymbidium
+Cymbidium erythrostylum	alliance	Cymbidium
+Cymbidium eburneum	alliance	Cymbidium
+Cymbidium floribundum	alliance	Cymbidium
+Cymbidium hookerianum	alliance	Cymbidium
+Cymbidium canaliculatum	alliance	Cymbidium
+Cymbidium bicolor	alliance	Cymbidium
+Cymbidium chloranthum	alliance	Cymbidium
+Cymbidium dayanum	alliance	Cymbidium
+Cymbidium ensifolium	alliance	Cymbidium
+Cyrtopodium aliciae	alliance	Cyrtopodium
+Cyrtopodium andersonii	alliance	Cyrtopodium
+Cyrtopodium cristatum	alliance	Cyrtopodium
+Cyrtopodium hatschbachii	alliance	Cyrtopodium
+Cyrtopodium parviflorum	alliance	Cyrtopodium
+Agassiz-Harrison Transit System	alliance	BC Transit
+Dipodium roseum	alliance	Dipodium
+Eria bractescens	alliance	Eria
+Eria carinata	alliance	Eria
+Eria elata	alliance	Eria
+Eria ferruginea	alliance	Eria
+Eria floribunda	alliance	Eria
+Eria multiflora	alliance	Eria
+Eria javanica	alliance	Eria
+Eria lasiopetala	alliance	Eria
+Eria ornata	alliance	Eria
+Eria tenuiflora	alliance	Eria
+Eria spicata	alliance	Eria
+Eulophia alta	alliance	Eulophia
+Eulophia gracilis	alliance	Eulophia
+Eulophia euglossa	alliance	Eulophia
+Eulophia guineensis	alliance	Eulophia
+Eulophia speciosa	alliance	Eulophia
+Eulophia streptopetala	alliance	Eulophia
+Oncidium cinnamomeum	alliance	Oncidium
+Oncidium amictum	alliance	Oncidium
+Oncidium auricula	alliance	Oncidium
+Oncidium auriferum	alliance	Oncidium
+Oncidium altissimum	alliance	Oncidium
+Oncidium baueri	alliance	Oncidium
+Oncidium bicolor	alliance	Oncidium
+Oncidium bifolium	alliance	Oncidium
+Oncidium blanchetii	alliance	Oncidium
+Oncidium brunleesianum	alliance	Oncidium
+Oncidium cheirophorum	alliance	Oncidium
+Oncidium ciliatum	alliance	Oncidium
+Oncidium citrinum	alliance	Oncidium
+Oncidium concolor	alliance	Oncidium
+Oncidium cornigerum	alliance	Oncidium
+Oncidium crispum	alliance	Oncidium
+Oncidium croesus	alliance	Oncidium
+Oncidium dasytyle	alliance	Oncidium
+Oncidium deltoideum	alliance	Oncidium
+Oncidium divaricatum	alliance	Oncidium
+Oncidium ensatum	alliance	Oncidium
+Oncidium graminifolium	alliance	Oncidium
+Oncidium hastatum	alliance	Oncidium
+Oncidium flexuosum	alliance	Oncidium
+Oncidium forbesii	alliance	Oncidium
+Oncidium fuscatum	alliance	Oncidium
+Oncidium gardneri	alliance	Oncidium
+Oncidium geertianum	alliance	Oncidium
+Oncidium hastilabium	alliance	Oncidium
+Oncidium hydrophilum	alliance	Oncidium
+Oncidium incurvum	alliance	Oncidium
+Oncidium klotzschianum	alliance	Oncidium
+Oncidium lentiginosum	alliance	Oncidium
+Oncidium leucochilum	alliance	Oncidium
+Oncidium lineoligerum	alliance	Oncidium
+Oncidium longicornu	alliance	Oncidium
+Oncidium longipes	alliance	Oncidium
+Oncidium maculatum	alliance	Oncidium
+Oncidium micropogon	alliance	Oncidium
+Oncidium marshallianum	alliance	Oncidium
+Oncidium ornithorhynchum	alliance	Oncidium
+Oncidium pectorale	alliance	Oncidium
+Oncidium praetextum	alliance	Oncidium
+Oncidium pubes	alliance	Oncidium
+Oncidium raniferum	alliance	Oncidium
+Oncidium reflexum	alliance	Oncidium
+Oncidium sphacelatum	alliance	Oncidium
+Oncidium uniflorum	alliance	Oncidium
+Oncidium varicosum	alliance	Oncidium
+Oncidium venustum	alliance	Oncidium
+Oncidium wentworthianum	alliance	Oncidium
+Ophrys ferrum-equinum	alliance	Orchis
+Ophrys bertolonii	alliance	Orchis
+Ophrys fusca	alliance	Orchis
+Ophrys omegaifera	alliance	Orchis
+Ophrys lunulata	alliance	Orchis
+Ophrys reinholdii	alliance	Orchis
+Ophrys umbilicata	alliance	Orchis
+Orchis anatolica	alliance	Orchis
+Ophrys tenthredinifera	alliance	Orchis
+Orchis brancifortii	alliance	Orchis
+Orchis galilaea	alliance	Orchis
+Orchis italica	alliance	Orchis
+Orchis patens	alliance	Orchis
+Orchis punctulata	alliance	Orchis
+Orchis quadripunctata	alliance	Orchis
+Orchis spitzelii	alliance	Orchis
+Platanthera algeriensis	alliance	Orchis
+Platanthera grandiflora	alliance	Orchis
+Platanthera holmboei	alliance	Orchis
+Platanthera huronensis	alliance	Orchis
+Platanthera curvata	alliance	Orchis
+Renanthera coccinea	alliance	Vanda
+Renanthera imschootiana	alliance	Vanda
+Renanthera matutina	alliance	Vanda
+Renanthera storiei	alliance	Vanda
+Zygopetalum crinitum	alliance	Zygopetalum
+Zygopetalum pedicellatum	alliance	Zygopetalum
+Eria coronaria	alliance	Eria
+TAP Portugal	alliance	Star Alliance
+Olympic Air	alliance	Star Alliance
+Penticton Transit System	alliance	BC Transit
+Comox Valley Transit System	alliance	BC Transit
+Campbell River Transit System	alliance	BC Transit
+Cattleya rex	alliance	Cattleya
+Cattlianthe	alliance	Cattleya
+Eulophia meleagris	alliance	Eulophia
+Havelbus	alliance	Verkehrsverbund Berlin-Brandenburg
+Varig	alliance	Star Alliance
+Crown Airways	alliance	USAir Express
+Aerochaco	alliance	Aerolíneas Argentinas
+Aerochaco	alliance	Austral Líneas Aéreas
+Angraecum cadetii	alliance	Angraecum
+Air India	alliance	Star Alliance
+Exploits Valley Air Services	alliance	Star Alliance
+Copa Airlines Colombia	alliance	Star Alliance
+ANA Wings	alliance	Star Alliance
+Eulophia petersii	alliance	Eulophia
+Jumellea comorensis	alliance	Angraecum
+Sky Regional Airlines	alliance	Star Alliance
+Air Canada Express	alliance	Star Alliance
+Caladenia elegans	alliance	Caladenia
+Lasta Beograd	alliance	Eurolines
+British Airways Ltd	alliance	Oneworld
+VivaColombia	alliance	Viva Aerobus
+Chautauqua Airlines	alliance	SkyTeam
+Iberia Express	alliance	Oneworld
+Scoot	alliance	Value Alliance
+LATAM Colombia	alliance	Oneworld
+Jumellea exilis	alliance	Angraecum
+Platanthera flava	alliance	Orchis
+Phaius flavus	alliance	Calanthe
+Phaius antoninae	alliance	Calanthe
+Phaius fragilis	alliance	Calanthe
+Phaius borneensis	alliance	Calanthe
+Air Canada Rouge	alliance	Star Alliance
+Avianca Ecuador	alliance	Star Alliance
+HOP!	alliance	SkyTeam
+Renanthera bella	alliance	Vanda
+Vanilla Air	alliance	Value Alliance
+Delta Connection	alliance	SkyTeam
+Delta Express	alliance	SkyTeam
+Song	alliance	SkyTeam
+City Airways	alliance	Thai Sky Airlines
+Platanthera integra	alliance	Orchis
+NokScoot	alliance	Value Alliance
+University of Massachusetts Transportation Services	alliance	Five Colleges
+American Eagle	alliance	Oneworld
+Ophrys drumana	alliance	Orchis
+Ophrys kotschyi	alliance	Orchis
+Ophrys × arachnitiformis	alliance	Orchis
+Campylocentrum pachyrrhizum	alliance	Campylocentrum
+Angraecum aporoides	alliance	Angraecum
+Angraecum atlanticum	alliance	Angraecum
+Angraecum bancoense	alliance	Angraecum
+Angraecum doratophyllum	alliance	Angraecum
+Angraecum gabonense	alliance	Angraecum
+Angraecum penzigianum	alliance	Angraecum
+Angraecum podochiloides	alliance	Angraecum
+Angraecum pungens	alliance	Angraecum
+Angraecum subulatum	alliance	Angraecum
+Virgin Australia Airlines	alliance	Air New Zealand
+Urumqi Air	alliance	U-FLY Alliance
+Trichoglottis atropurpurea	alliance	Trichoglottis
+ACM Air Charter	alliance	AirClub
+Salt Spring Island Transit System	alliance	BC Transit
+Ophrys apollonae	alliance	Orchis
+American Airlines Shuttle	alliance	Oneworld
+Int'Air Îles	alliance	Vanilla Alliance
+VivaCan	alliance	Grupo Viva
+VivaCan	alliance	Ryanair
+Zygopetalum maculatum	alliance	Zygopetalum
+Trichoglottis mindanaensis	alliance	Trichoglottis
+Angraecum lecomtei	alliance	Angraecum
+Angraecum pectinatum	alliance	Angraecum
+Angraecum rhynchoglossum	alliance	Angraecum
+Angraecum rutenbergianum	alliance	Angraecum

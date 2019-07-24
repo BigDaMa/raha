@@ -1,0 +1,541 @@
+Aquarius	bordering	Pisces
+Aquarius	bordering	Pegasus
+Aquarius	bordering	Equuleus
+Aquarius	bordering	Delphinus
+Aquarius	bordering	Aquila
+Aquarius	bordering	Capricornus
+Aquarius	bordering	Piscis Austrinus
+Aquarius	bordering	Sculptor
+Aquarius	bordering	Cetus
+Aries	bordering	*
+Aries	bordering	Perseus
+Aries	bordering	Triangulum
+Aries	bordering	Pisces
+Aries	bordering	Cetus
+Aries	bordering	Taurus
+Antlia	bordering	Hydra
+Antlia	bordering	Pyxis
+Antlia	bordering	Vela
+Antlia	bordering	Centaurus
+Apus	bordering	Triangulum Australe
+Apus	bordering	Circinus
+Apus	bordering	Musca
+Apus	bordering	Chamaeleon
+Apus	bordering	Octans
+Apus	bordering	Pavo
+Apus	bordering	Ara
+Ara	bordering	*
+Ara	bordering	Corona Australis
+Ara	bordering	Scorpius
+Ara	bordering	Norma
+Ara	bordering	Triangulum Australe
+Ara	bordering	Apus
+Ara	bordering	Pavo
+Ara	bordering	Telescopium
+Boötes	bordering	*
+Boötes	bordering	Canes Venatici
+Boötes	bordering	Coma Berenices
+Boötes	bordering	Corona Borealis
+Boötes	bordering	Draco
+Boötes	bordering	Hercules
+Boötes	bordering	Serpens
+Boötes	bordering	Virgo
+Boötes	bordering	Ursa Major
+Capricornus	bordering	Aquarius
+Capricornus	bordering	Aquila
+Capricornus	bordering	Sagittarius
+Capricornus	bordering	Microscopium
+Capricornus	bordering	Piscis Austrinus
+Camelopardalis	bordering	Draco
+Camelopardalis	bordering	Ursa Minor
+Camelopardalis	bordering	Cepheus
+Camelopardalis	bordering	Cassiopeia
+Camelopardalis	bordering	Perseus
+Camelopardalis	bordering	Auriga
+Camelopardalis	bordering	Lynx
+Camelopardalis	bordering	Ursa Major
+Cetus	bordering	Aries
+Cetus	bordering	Pisces
+Cetus	bordering	Aquarius
+Cetus	bordering	Sculptor
+Cetus	bordering	Fornax
+Cetus	bordering	Eridanus
+Cetus	bordering	Taurus
+Carina	bordering	*
+Carina	bordering	Vela
+Carina	bordering	Puppis
+Carina	bordering	Pictor
+Carina	bordering	Volans
+Carina	bordering	Chamaeleon
+Carina	bordering	Musca
+Carina	bordering	Centaurus
+Crux	bordering	Centaurus
+Crux	bordering	Musca
+Canis Major	bordering	*
+Canis Major	bordering	Monoceros
+Canis Major	bordering	Lepus
+Canis Major	bordering	Columba
+Canis Major	bordering	Puppis
+Canis Minor	bordering	*
+Canis Minor	bordering	Monoceros
+Canis Minor	bordering	Gemini
+Canis Minor	bordering	Cancer
+Canis Minor	bordering	Hydra
+Centaurus	bordering	Antlia
+Centaurus	bordering	Carina
+Centaurus	bordering	Circinus
+Centaurus	bordering	Crux
+Centaurus	bordering	Hydra
+Centaurus	bordering	Libra
+Centaurus	bordering	Lupus
+Centaurus	bordering	Musca
+Centaurus	bordering	Vela
+Corona Borealis	bordering	*
+Corona Borealis	bordering	Hercules
+Corona Borealis	bordering	Boötes
+Corona Borealis	bordering	Serpens
+Cygnus	bordering	Cepheus
+Cygnus	bordering	Draco
+Cygnus	bordering	Lyra
+Cygnus	bordering	Vulpecula
+Cygnus	bordering	Pegasus
+Cygnus	bordering	Lacerta
+Corona Australis	bordering	*
+Corona Australis	bordering	Sagittarius
+Corona Australis	bordering	Scorpius
+Corona Australis	bordering	Ara
+Corona Australis	bordering	Telescopium
+Caelum	bordering	Columba
+Caelum	bordering	Lepus
+Caelum	bordering	Eridanus
+Caelum	bordering	Horologium
+Caelum	bordering	Dorado
+Caelum	bordering	Pictor
+Chamaeleon	bordering	Musca
+Chamaeleon	bordering	Carina
+Chamaeleon	bordering	Volans
+Chamaeleon	bordering	Mensa
+Chamaeleon	bordering	Octans
+Chamaeleon	bordering	Apus
+Canes Venatici	bordering	Ursa Major
+Canes Venatici	bordering	Boötes
+Canes Venatici	bordering	Coma Berenices
+Dorado	bordering	Caelum
+Dorado	bordering	Horologium
+Dorado	bordering	Reticulum
+Dorado	bordering	Hydrus
+Dorado	bordering	Mensa
+Dorado	bordering	Volans
+Dorado	bordering	Pictor
+Delphinus	bordering	Vulpecula
+Delphinus	bordering	Sagitta
+Delphinus	bordering	Aquila
+Delphinus	bordering	Aquarius
+Delphinus	bordering	Equuleus
+Delphinus	bordering	Pegasus
+Equuleus	bordering	Aquarius
+Equuleus	bordering	Delphinus
+Equuleus	bordering	Pegasus
+Fornax	bordering	Cetus
+Fornax	bordering	Sculptor
+Fornax	bordering	Phoenix
+Fornax	bordering	Eridanus
+Grus	bordering	Piscis Austrinus
+Grus	bordering	Microscopium
+Grus	bordering	Indus
+Grus	bordering	Tucana
+Grus	bordering	Phoenix
+Grus	bordering	Sculptor
+Hydrus	bordering	Dorado
+Hydrus	bordering	Eridanus
+Hydrus	bordering	Horologium
+Hydrus	bordering	Mensa
+Hydrus	bordering	Octans
+Hydrus	bordering	Phoenix
+Hydrus	bordering	Reticulum
+Hydrus	bordering	Tucana
+Leo	bordering	Ursa Major
+Leo	bordering	Leo Minor
+Leo	bordering	Lynx
+Leo	bordering	Cancer
+Leo	bordering	Hydra
+Leo	bordering	Sextans
+Leo	bordering	Crater
+Leo	bordering	Virgo
+Leo	bordering	Coma Berenices
+Libra	bordering	Serpens
+Libra	bordering	Virgo
+Libra	bordering	Hydra
+Libra	bordering	Centaurus
+Libra	bordering	Lupus
+Libra	bordering	Scorpius
+Libra	bordering	Ophiuchus
+Lupus	bordering	Norma
+Lupus	bordering	Scorpius
+Lupus	bordering	Circinus
+Lupus	bordering	Centaurus
+Lupus	bordering	Libra
+Lupus	bordering	Hydra
+Lepus	bordering	Orion
+Lepus	bordering	Monoceros
+Lepus	bordering	Canis Major
+Lepus	bordering	Columba
+Lepus	bordering	Caelum
+Lepus	bordering	Eridanus
+Lyra	bordering	Draco
+Lyra	bordering	Hercules
+Lyra	bordering	Vulpecula
+Lyra	bordering	Cygnus
+Microscopium	bordering	*
+Microscopium	bordering	Capricornus
+Microscopium	bordering	Sagittarius
+Microscopium	bordering	Telescopium
+Microscopium	bordering	Indus
+Microscopium	bordering	Grus
+Microscopium	bordering	Piscis Austrinus
+Octans	bordering	Tucana
+Octans	bordering	Indus
+Octans	bordering	Pavo
+Octans	bordering	Apus
+Octans	bordering	Chamaeleon
+Octans	bordering	Mensa
+Octans	bordering	Hydrus
+Ophiuchus	bordering	Hercules
+Ophiuchus	bordering	Serpens
+Ophiuchus	bordering	Libra
+Ophiuchus	bordering	Scorpius
+Ophiuchus	bordering	Sagittarius
+Ophiuchus	bordering	Aquila
+Pisces	bordering	*
+Pisces	bordering	Triangulum
+Pisces	bordering	Andromeda
+Pisces	bordering	Pegasus
+Pisces	bordering	Aquarius
+Pisces	bordering	Cetus
+Pisces	bordering	Aries
+Piscis Austrinus	bordering	Capricornus
+Piscis Austrinus	bordering	Microscopium
+Piscis Austrinus	bordering	Grus
+Piscis Austrinus	bordering	Sculptor
+Piscis Austrinus	bordering	Aquarius
+Pyxis	bordering	Hydra
+Pyxis	bordering	Puppis
+Pyxis	bordering	Vela
+Pyxis	bordering	Antlia
+Puppis	bordering	Monoceros
+Puppis	bordering	Pyxis
+Puppis	bordering	Vela
+Puppis	bordering	Carina
+Puppis	bordering	Pictor
+Puppis	bordering	Columba
+Puppis	bordering	Canis Major
+Puppis	bordering	Hydra
+Scorpius	bordering	Sagittarius
+Scorpius	bordering	Ophiuchus
+Scorpius	bordering	Libra
+Scorpius	bordering	Lupus
+Scorpius	bordering	Norma
+Scorpius	bordering	Ara
+Scorpius	bordering	Corona Australis
+Sagittarius	bordering	*
+Sagittarius	bordering	Aquila
+Sagittarius	bordering	Scutum
+Sagittarius	bordering	Serpens
+Sagittarius	bordering	Ophiuchus
+Sagittarius	bordering	Scorpius
+Sagittarius	bordering	Corona Australis
+Sagittarius	bordering	Telescopium
+Sagittarius	bordering	Indus
+Sagittarius	bordering	Microscopium
+Sagittarius	bordering	Capricornus
+Serpens	bordering	Serpens Caput:
+Serpens	bordering	Corona Borealis
+Serpens	bordering	Boötes
+Serpens	bordering	Virgo
+Serpens	bordering	Libra
+Serpens	bordering	Ophiuchus
+Serpens	bordering	Hercules
+Serpens	bordering	Serpens Cauda:
+Serpens	bordering	Aquila
+Serpens	bordering	Sagittarius
+Serpens	bordering	Scutum
+Sextans	bordering	Leo
+Sextans	bordering	Hydra
+Sextans	bordering	Crater
+Sagitta	bordering	Vulpecula
+Sagitta	bordering	Hercules
+Sagitta	bordering	Aquila
+Sagitta	bordering	Delphinus
+Taurus	bordering	*
+Taurus	bordering	Auriga
+Taurus	bordering	Perseus
+Taurus	bordering	Aries
+Taurus	bordering	Cetus
+Taurus	bordering	Eridanus
+Taurus	bordering	Orion
+Taurus	bordering	Gemini
+Triangulum	bordering	Andromeda
+Triangulum	bordering	Pisces
+Triangulum	bordering	Aries
+Triangulum	bordering	Perseus
+Tucana	bordering	Grus
+Tucana	bordering	Indus
+Tucana	bordering	Octans
+Tucana	bordering	Hydrus
+Tucana	bordering	Eridanus
+Tucana	bordering	Phoenix
+Triangulum Australe	bordering	Norma
+Triangulum Australe	bordering	Ara
+Triangulum Australe	bordering	Circinus
+Triangulum Australe	bordering	Apus
+Telescopium	bordering	* Ara\n* Corona Australis\n* Indus\n* Microscopium \n* Pavo\n* Sagittarius
+Ursa Major	bordering	Draco
+Ursa Major	bordering	Camelopardalis
+Ursa Major	bordering	Lynx
+Ursa Major	bordering	Leo Minor
+Ursa Major	bordering	Leo
+Ursa Major	bordering	Coma Berenices
+Ursa Major	bordering	Canes Venatici
+Ursa Major	bordering	Boötes
+Ursa Minor	bordering	Draco
+Ursa Minor	bordering	Camelopardalis
+Ursa Minor	bordering	Cepheus
+Virgo	bordering	Boötes
+Virgo	bordering	Coma Berenices
+Virgo	bordering	Leo
+Virgo	bordering	Crater
+Virgo	bordering	Corvus
+Virgo	bordering	Hydra
+Virgo	bordering	Libra
+Virgo	bordering	Serpens
+Vela	bordering	Antlia
+Vela	bordering	Pyxis
+Vela	bordering	Puppis
+Vela	bordering	Carina
+Vela	bordering	Centaurus
+Scutum	bordering	Aquila
+Scutum	bordering	Sagittarius
+Scutum	bordering	Serpens
+Phoenix	bordering	*
+Phoenix	bordering	Sculptor
+Phoenix	bordering	Grus
+Phoenix	bordering	Tucana
+Phoenix	bordering	Hydrus
+Phoenix	bordering	Eridanus
+Phoenix	bordering	Fornax
+Cancer	bordering	Lynx
+Cancer	bordering	Gemini
+Cancer	bordering	Canis Minor
+Cancer	bordering	Hydra
+Cancer	bordering	Leo
+Cancer	bordering	Leo Minor
+Sculptor	bordering	Cetus
+Sculptor	bordering	Aquarius
+Sculptor	bordering	Piscis Austrinus
+Sculptor	bordering	Grus
+Sculptor	bordering	Phoenix
+Sculptor	bordering	Fornax
+Andromeda	bordering	*
+Andromeda	bordering	Perseus
+Andromeda	bordering	Cassiopeia
+Andromeda	bordering	Lacerta
+Andromeda	bordering	Pegasus
+Andromeda	bordering	Pisces
+Andromeda	bordering	Triangulum
+Orion	bordering	Gemini
+Orion	bordering	Taurus
+Orion	bordering	Eridanus
+Orion	bordering	Lepus
+Orion	bordering	Monoceros
+Monoceros	bordering	Canis Major
+Monoceros	bordering	Canis Minor
+Monoceros	bordering	Gemini
+Monoceros	bordering	Hydra
+Monoceros	bordering	Lepus
+Monoceros	bordering	Orion
+Monoceros	bordering	Puppis
+Coma Berenices	bordering	Canes Venatici
+Coma Berenices	bordering	Ursa Major
+Coma Berenices	bordering	Leo
+Coma Berenices	bordering	Virgo
+Coma Berenices	bordering	Boötes
+Norma	bordering	Scorpius
+Norma	bordering	Lupus
+Norma	bordering	Circinus
+Norma	bordering	Triangulum Australe
+Norma	bordering	Ara
+Lynx	bordering	Ursa Major
+Lynx	bordering	Camelopardalis
+Lynx	bordering	Auriga
+Lynx	bordering	Gemini
+Lynx	bordering	Cancer
+Lynx	bordering	Leo
+Lynx	bordering	Leo Minor
+Cassiopeia	bordering	Camelopardalis
+Cassiopeia	bordering	Cepheus
+Cassiopeia	bordering	Lacerta
+Cassiopeia	bordering	Andromeda
+Cassiopeia	bordering	Perseus
+Perseus	bordering	Aries
+Perseus	bordering	Taurus
+Perseus	bordering	Auriga
+Perseus	bordering	Camelopardalis
+Perseus	bordering	Cassiopeia
+Perseus	bordering	Andromeda
+Perseus	bordering	Triangulum
+Auriga	bordering	*
+Auriga	bordering	Camelopardalis
+Auriga	bordering	Perseus
+Auriga	bordering	Taurus
+Auriga	bordering	Gemini
+Auriga	bordering	Lynx
+Crater	bordering	Leo
+Crater	bordering	Sextans
+Crater	bordering	Hydra
+Crater	bordering	Corvus
+Crater	bordering	Virgo
+Vulpecula	bordering	Cygnus
+Vulpecula	bordering	Lyra
+Vulpecula	bordering	Hercules
+Vulpecula	bordering	Sagitta
+Vulpecula	bordering	Delphinus
+Vulpecula	bordering	Pegasus
+Volans	bordering	Carina
+Volans	bordering	Pictor
+Volans	bordering	Dorado
+Volans	bordering	Mensa
+Volans	bordering	Chamaeleon
+Circinus	bordering	Centaurus
+Circinus	bordering	Musca
+Circinus	bordering	Apus
+Circinus	bordering	Triangulum Australe
+Circinus	bordering	Norma
+Circinus	bordering	Lupus
+Lacerta	bordering	Andromeda
+Lacerta	bordering	Cassiopeia
+Lacerta	bordering	Cepheus
+Lacerta	bordering	Cygnus
+Lacerta	bordering	Pegasus
+Pictor	bordering	Caelum
+Pictor	bordering	Carina
+Pictor	bordering	Columba
+Pictor	bordering	Dorado
+Pictor	bordering	Puppis
+Pictor	bordering	Volans
+Reticulum	bordering	Horologium
+Reticulum	bordering	Dorado
+Reticulum	bordering	Hydrus
+Columba	bordering	Lepus
+Columba	bordering	Caelum
+Columba	bordering	Pictor
+Columba	bordering	Puppis
+Columba	bordering	Canis Major
+Musca	bordering	*
+Musca	bordering	Apus
+Musca	bordering	Carina
+Musca	bordering	Centaurus
+Musca	bordering	Chamaeleon
+Musca	bordering	Circinus
+Musca	bordering	Crux
+Horologium	bordering	Eridanus
+Horologium	bordering	Hydrus
+Horologium	bordering	Reticulum
+Horologium	bordering	Dorado
+Horologium	bordering	Caelum
+Indus	bordering	Microscopium
+Indus	bordering	Sagittarius
+Indus	bordering	Telescopium
+Indus	bordering	Pavo
+Indus	bordering	Octans
+Indus	bordering	Tucana
+Indus	bordering	Grus
+Leo Minor	bordering	Ursa Major
+Leo Minor	bordering	Lynx
+Leo Minor	bordering	Cancer
+Leo Minor	bordering	Leo
+Pegasus	bordering	Andromeda
+Pegasus	bordering	Lacerta
+Pegasus	bordering	Cygnus
+Pegasus	bordering	Vulpecula
+Pegasus	bordering	Delphinus
+Pegasus	bordering	Equuleus
+Pegasus	bordering	Aquarius
+Pegasus	bordering	Pisces
+Corvus	bordering	Virgo
+Corvus	bordering	Crater
+Corvus	bordering	Hydra
+Hydra	bordering	*
+Hydra	bordering	Antlia
+Hydra	bordering	Cancer
+Hydra	bordering	Canis Minor
+Hydra	bordering	Centaurus
+Hydra	bordering	Corvus
+Hydra	bordering	Crater
+Hydra	bordering	Leo
+Hydra	bordering	Libra
+Hydra	bordering	Lupus
+Hydra	bordering	Monoceros
+Hydra	bordering	Puppis
+Hydra	bordering	Pyxis
+Hydra	bordering	Sextans
+Hydra	bordering	Virgo
+Pavo	bordering	Octans
+Pavo	bordering	Apus
+Pavo	bordering	Ara
+Pavo	bordering	Telescopium
+Pavo	bordering	Indus
+Aquila	bordering	Sagitta
+Aquila	bordering	Hercules
+Aquila	bordering	Ophiuchus
+Aquila	bordering	Serpens Cauda
+Aquila	bordering	Scutum
+Aquila	bordering	Sagittarius
+Aquila	bordering	Capricornus
+Aquila	bordering	Aquarius
+Aquila	bordering	Delphinus
+Cepheus	bordering	Cygnus
+Cepheus	bordering	Lacerta
+Cepheus	bordering	Cassiopeia
+Cepheus	bordering	Camelopardalis
+Cepheus	bordering	Draco
+Cepheus	bordering	Ursa Minor
+Draco	bordering	*
+Draco	bordering	Boötes
+Draco	bordering	Hercules
+Draco	bordering	Lyra
+Draco	bordering	Cygnus
+Draco	bordering	Cepheus
+Draco	bordering	Ursa Minor
+Draco	bordering	Camelopardalis
+Draco	bordering	Ursa Major
+Hercules	bordering	Draco
+Hercules	bordering	Boötes
+Hercules	bordering	Corona Borealis
+Hercules	bordering	Serpens
+Hercules	bordering	Ophiuchus
+Hercules	bordering	Aquila
+Hercules	bordering	Sagitta
+Hercules	bordering	Vulpecula
+Hercules	bordering	Lyra
+Eridanus	bordering	Cetus
+Eridanus	bordering	Fornax
+Eridanus	bordering	Phoenix
+Eridanus	bordering	Hydrus
+Eridanus	bordering	Tucana
+Eridanus	bordering	Horologium
+Eridanus	bordering	Caelum
+Eridanus	bordering	Lepus
+Eridanus	bordering	Orion
+Eridanus	bordering	Taurus
+Gemini	bordering	Lynx
+Gemini	bordering	Auriga
+Gemini	bordering	Taurus
+Gemini	bordering	Orion
+Gemini	bordering	Monoceros
+Gemini	bordering	Canis Minor
+Gemini	bordering	Cancer
+Mensa	bordering	Chamaeleon
+Mensa	bordering	Dorado
+Mensa	bordering	Hydrus
+Mensa	bordering	Octans
+Mensa	bordering	Volans

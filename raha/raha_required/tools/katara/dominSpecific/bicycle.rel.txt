@@ -1,0 +1,2628 @@
+Chhatrapati Shivaji Terminus	bicycle	No
+Union Station	bicycle	180
+Union Station	bicycle	115
+Bush	bicycle	two racks
+Central	bicycle	One locker, one rack
+Galatyn Park	bicycle	two racks
+Forest Lane	bicycle	Two lockers, one rack
+Spring Valley	bicycle	two lockers, one rack
+Walnut Hill	bicycle	One locker, one rack, one lid
+Arapaho Center	bicycle	two lockers, one rack
+Lovers Lane	bicycle	Four lockers, one rack
+Park Lane	bicycle	two lockers, one rack
+Mockingbird	bicycle	6
+Vernon	bicycle	Two lockers, two rack
+8th & Corinth	bicycle	Two lockers, one rack
+Cedars	bicycle	One locker, one rack
+Westmoreland	bicycle	Two racks, two lockers
+Downtown Garland	bicycle	One locker, one rack
+Hampton	bicycle	4
+Jupiter	bicycle	One locker, one rack
+Morrell	bicycle	Two lockers, two racks
+Skillman	bicycle	One locker, one rack
+Illinois	bicycle	Four lockers, one rack
+White Rock	bicycle	Four lockers, five racks
+Kiest	bicycle	One rack
+Ledbetter	bicycle	Two lockers, one rack
+Market Center	bicycle	bike racks available
+Heritage Crossing	bicycle	bike racks available
+West Irving	bicycle	bike racks available
+Bell	bicycle	bike lockups
+DFW Airport	bicycle	bike lockups
+Richland Hills	bicycle	bike lockups
+Glen Iris railway station	bicycle	11
+Waterfront station	bicycle	outside bike racks
+Tenleytown–AU station	bicycle	20
+Metro Center station	bicycle	8
+Beacon	bicycle	Yes
+Foggy Bottom–GWU station	bicycle	10
+Dupont Circle station	bicycle	16
+Farragut North station	bicycle	8
+Woodley Park station	bicycle	8
+Cleveland Park station	bicycle	16
+Van Ness–UDC station	bicycle	9
+Friendship Heights station	bicycle	50
+Bethesda station	bicycle	48
+Medical Center station	bicycle	88
+Twinbrook station	bicycle	68
+White Flint station	bicycle	32
+Rockville station	bicycle	69
+Shady Grove station	bicycle	32
+Judiciary Square station	bicycle	18
+Union Station	bicycle	23
+NoMa–Gallaudet U station	bicycle	8
+Rhode Island Avenue–Brentwood station	bicycle	12
+Takoma station	bicycle	38
+Brookland–CUA station	bicycle	10
+Fort Totten station	bicycle	10
+Grosvenor–Strathmore station	bicycle	40
+Forest Glen station	bicycle	42
+Silver Spring station	bicycle	26
+Wheaton station	bicycle	36
+Glenmont station	bicycle	36
+Dunn Loring station	bicycle	40
+East Falls Church station	bicycle	12
+Vienna station	bicycle	54
+West Falls Church station	bicycle	40
+Ballston–MU station	bicycle	54
+Appalachian Trail	bicycle	0
+Crystal City station	bicycle	10
+Virginia Square–GMU station	bicycle	12
+Smithsonian station	bicycle	2
+Federal Triangle station	bicycle	20
+McPherson Square station	bicycle	1
+Farragut West station	bicycle	4
+Rosslyn station	bicycle	20
+Court House station	bicycle	25
+Clarendon station	bicycle	12
+Box Hill railway station, Melbourne	bicycle	Yes
+Eisenhower Avenue station	bicycle	10
+Franconia–Springfield station	bicycle	36
+King Street–Old Town station	bicycle	34
+Huntington station	bicycle	34
+Braddock Road station	bicycle	46
+Ronald Reagan Washington National Airport station	bicycle	8
+Pentagon City station	bicycle	8
+Pentagon station	bicycle	6
+Mount Vernon Square station	bicycle	6
+Federal Center SW station	bicycle	2
+Eastern Market station	bicycle	20
+Stadium–Armory station	bicycle	20
+Potomac Avenue station	bicycle	4
+Benning Road station	bicycle	4
+Capitol Heights station	bicycle	5
+Morgan Boulevard station	bicycle	9
+Addison Road station	bicycle	16
+Largo Town Center station	bicycle	4
+Minnesota Avenue station	bicycle	8
+Deanwood station	bicycle	8
+Cheverly station	bicycle	34
+Landover station	bicycle	26
+Shaw–Howard University station	bicycle	6
+Columbia Heights station	bicycle	4
+Georgia Avenue–Petworth station	bicycle	12
+New Carrollton station	bicycle	18
+West Hyattsville station	bicycle	50
+Prince George's Plaza station	bicycle	40
+Waterfront station	bicycle	10
+Navy Yard–Ballpark station	bicycle	12
+College Park–University of Maryland station	bicycle	81
+Greenbelt station	bicycle	60
+Anacostia station	bicycle	13
+Congress Heights station	bicycle	10
+Southern Avenue station	bicycle	14
+Branch Avenue station	bicycle	10
+Suitland station	bicycle	10
+Naylor Road station	bicycle	10
+Glenhuntly railway station	bicycle	3
+Caulfield railway station	bicycle	10
+Bentleigh railway station	bicycle	Yes
+Patterson railway station	bicycle	Yes
+McKinnon railway station	bicycle	Yes
+Highett railway station	bicycle	8
+Ormond railway station	bicycle	Yes
+Mentone railway station	bicycle	8
+Moorabbin railway station	bicycle	Yes
+Mordialloc railway station	bicycle	6
+Seaford railway station, Melbourne	bicycle	8
+Huntingdale railway station	bicycle	14
+Noble Park railway station	bicycle	18
+Frankston railway station	bicycle	26
+Clayton railway station, Melbourne	bicycle	12
+Hallam railway station	bicycle	Yes
+Dandenong railway station	bicycle	12
+Narre Warren railway station	bicycle	10
+Berwick railway station, Melbourne	bicycle	Yes
+Sandringham railway station	bicycle	20
+Tooronga railway station	bicycle	11
+East Malvern railway station	bicycle	11
+Jordanville railway station	bicycle	15
+Mount Waverley railway station	bicycle	12
+Glen Waverley railway station	bicycle	8
+Croydon railway station, Melbourne	bicycle	8
+Mooroolbark railway station	bicycle	8
+Boronia railway station	bicycle	20
+Lilydale railway station	bicycle	12
+Ferntree Gully railway station	bicycle	25
+Mitcham railway station, Melbourne	bicycle	22
+Belgrave railway station	bicycle	8
+Albion railway station, Melbourne	bicycle	18
+Keilor Plains railway station	bicycle	Yes
+Ginifer railway station	bicycle	Yes
+Sunshine railway station, Melbourne	bicycle	26
+Watergardens railway station	bicycle	Yes
+Glenbervie railway station	bicycle	5
+Essendon railway station	bicycle	Yes
+Glenroy railway station	bicycle	8
+Moreland railway station	bicycle	Yes
+Merlynston railway station	bicycle	Yes
+Hoppers Crossing railway station	bicycle	8
+Laverton railway station, Melbourne	bicycle	19
+Werribee railway station	bicycle	18
+Clifton Hill railway station	bicycle	17
+Westgarth railway station	bicycle	5
+Eaglemont railway station	bicycle	5
+Ivanhoe railway station, Melbourne	bicycle	20
+Darebin railway station	bicycle	11
+Alphington railway station	bicycle	5
+Montmorency railway station	bicycle	No
+Heidelberg railway station	bicycle	Yes
+Greensborough railway station	bicycle	Yes
+Diamond Creek railway station	bicycle	Yes
+Eltham railway station, Melbourne	bicycle	Yes
+Thornbury railway station, Melbourne	bicycle	Yes
+Macleod railway station	bicycle	5
+Preston railway station, Melbourne	bicycle	4
+Bell railway station, Melbourne	bicycle	6
+Northcote railway station	bicycle	Yes
+Hurstbridge railway station	bicycle	4
+Regent railway station	bicycle	6
+Lalor railway station	bicycle	Yes
+Epping railway station, Melbourne	bicycle	Yes
+Wattle Glen railway station	bicycle	No
+Thomastown railway station, Melbourne	bicycle	4
+Diggers Rest railway station	bicycle	Yes
+Sunbury railway station, Melbourne	bicycle	Yes
+Union Station	bicycle	74
+Union Station	bicycle	20
+Kenmore	bicycle	8
+Ferny Grove railway station	bicycle	Yes
+Alderley railway station, Brisbane	bicycle	Yes
+Mitchelton railway station	bicycle	Yes
+Enoggera railway station	bicycle	Yes
+Gaythorne railway station	bicycle	Yes
+Grovely railway station	bicycle	Yes
+Oxford Park railway station	bicycle	Yes
+Windsor railway station, Brisbane	bicycle	Yes
+Hendra railway station	bicycle	Yes
+Ascot railway station, Brisbane	bicycle	Yes
+Banyo railway station	bicycle	Yes
+Deagon railway station	bicycle	Yes
+North Boondall railway station	bicycle	Yes
+Sandgate railway station, Brisbane	bicycle	Yes
+Dakabin railway station	bicycle	Yes
+Caboolture railway station	bicycle	Yes
+Islington Works railway station	bicycle	No
+Adelaide railway station	bicycle	Yes
+Mitcham railway station, Adelaide	bicycle	Yes
+Tonsley railway station	bicycle	No
+Saint Paul Union Depot	bicycle	Yes
+Belair railway station	bicycle	No
+Blackwood railway station	bicycle	No
+Marino railway station, Adelaide	bicycle	No
+Goodwood railway station	bicycle	No
+Woodville railway station, Adelaide	bicycle	Yes
+Port Adelaide railway station	bicycle	No
+Union Station	bicycle	Yes
+South Station	bicycle	bike lockers
+Alewife	bicycle	~500 spaces in three secured cages
+Harvard	bicycle	21
+Porter	bicycle	34
+Central	bicycle	36
+Davis	bicycle	165
+MIT	bicycle	58
+UMass	bicycle	18
+North Station	bicycle	20
+North Station	bicycle	Hubway dock
+Unley Park railway station	bicycle	No
+Keswick railway station, Adelaide	bicycle	No
+Anderson Regional Transportation Center	bicycle	No
+University station	bicycle	Bicycle stand
+Hoboken Terminal	bicycle	88
+Angrignon	bicycle	90
+Portland Union Station	bicycle	Yes
+Wellington	bicycle	16
+Dadeland South station	bicycle	Bicycle stand
+South Miami station	bicycle	Bicycle stand
+Mahalaxmi railway station	bicycle	No
+Kyneton railway station	bicycle	Yes
+Bendigo railway station	bicycle	Yes
+Chinatown MRT Station	bicycle	Yes
+Marina Bay MRT Station	bicycle	Yes
+HarbourFront MRT Station	bicycle	Yes
+Changi Airport MRT Station	bicycle	Yes
+Paya Lebar MRT Station	bicycle	Yes
+Pasir Ris MRT Station	bicycle	Yes
+Jurong East MRT Station	bicycle	No
+Simei MRT Station	bicycle	Yes
+BWI Rail Station	bicycle	Yes
+Longwood	bicycle	15
+Chester	bicycle	bike racks
+Pape	bicycle	36
+Pape	bicycle	5
+Victoria Park	bicycle	52
+Hollywood station	bicycle	Yes
+Amtrak station	bicycle	Yes
+Radisson	bicycle	14
+Fort Lauderdale station	bicycle	Yes; Bicycle racks
+Montmorency	bicycle	300
+Cartier	bicycle	54
+Union Station	bicycle	Yes
+Pompano Beach station	bicycle	Yes
+West Palm Beach station	bicycle	Yes
+Mangonia Park station	bicycle	Yes
+Church Street Station	bicycle	Yes
+Oak Grove	bicycle	140
+Etobicoke North GO Station	bicycle	racks
+Bramalea GO Station	bicycle	Yes
+Dixie GO Station	bicycle	Yes
+Cooksville GO Station	bicycle	Yes
+Streetsville GO Station	bicycle	Yes
+Meadowvale GO Station	bicycle	Yes
+Milton GO Station	bicycle	Yes
+Georgetown GO Station	bicycle	Yes
+Mount Pleasant GO Station	bicycle	Yes
+Forest Hills	bicycle	32
+Coorparoo railway station	bicycle	Yes
+Cannon Hill railway station	bicycle	Yes
+Norman Park railway station	bicycle	Yes
+Murarrie railway station	bicycle	Yes
+Morningside railway station	bicycle	Yes
+Lindum railway station	bicycle	Yes
+Lota railway station	bicycle	Yes
+Wynnum railway station	bicycle	Yes
+Wynnum North railway station	bicycle	Yes
+Wynnum Central railway station	bicycle	Yes
+Manly railway station	bicycle	Yes
+Thorneside railway station	bicycle	Yes
+Wellington Point railway station	bicycle	Yes
+Cleveland railway station	bicycle	Yes
+Ormiston railway station	bicycle	Yes
+Yeerongpilly railway station	bicycle	Yes
+Reservoir	bicycle	8
+Riverside	bicycle	48
+Ruggles	bicycle	12
+Coolidge Corner	bicycle	20
+York University GO Station	bicycle	Yes
+Holmview railway station	bicycle	Yes
+Woodridge railway station	bicycle	Yes
+Bethania railway station	bicycle	Yes
+Loganlea railway station	bicycle	Yes
+Kingston railway station, Brisbane	bicycle	Yes
+Kuraby railway station	bicycle	Yes
+Trinder Park railway station	bicycle	Yes
+Fruitgrove railway station	bicycle	Yes
+Altandi railway station	bicycle	Yes
+Banoon railway station	bicycle	Yes
+Runcorn railway station, Brisbane	bicycle	Yes
+Sunnybank railway station	bicycle	Yes
+Coopers Plains railway station	bicycle	Yes
+Moorooka railway station	bicycle	Yes
+Salisbury railway station, Brisbane	bicycle	Yes
+Rocklea railway station	bicycle	Yes
+Wilmington station	bicycle	In parking garage on French Street
+Chennai Mofussil Bus Terminus	bicycle	Yes
+Bayview station	bicycle	yes
+Greenboro station	bicycle	Yes
+Confederation station	bicycle	No
+Carleton station	bicycle	None
+Carling station	bicycle	no
+Cleveland Avenue MAX Station	bicycle	bike racks
+Gresham Central Transit Center	bicycle	bike racks and lockers
+Gresham City Hall MAX Station	bicycle	bike racks
+East 197th Avenue MAX Station	bicycle	bike racks
+East 188th Avenue MAX Station	bicycle	bike racks
+E 181st Ave MAX Station	bicycle	bike racks and lockers
+E 172nd Ave MAX Station	bicycle	bike racks
+E 148th Ave MAX Station	bicycle	bike racks
+E 162nd Ave MAX Station	bicycle	bike racks
+E 102nd Ave MAX Station	bicycle	bike racks
+E 122nd Ave MAX Station	bicycle	bike lockers
+Oaklands railway station	bicycle	Yes
+Malden Center	bicycle	104
+San Francisco Ferry Building	bicycle	Yes
+Northeast 99th Avenue Transit Center	bicycle	bike lockers and banks
+Northeast 60th Avenue MAX Station	bicycle	bike lockers and racks
+Northeast 42nd Avenue Transit Center MAX Station	bicycle	bike lockers and banks
+Northeast 11th Avenue MAX Station	bicycle	bike lockers
+Northeast 7th Avenue MAX Station	bicycle	bike lockers
+Rose Quarter Transit Center	bicycle	Bike racks and lockers
+Chinatown MAX Station	bicycle	bike lockers
+Skidmore Fountain MAX Station	bicycle	bike lockers
+Southwest 5th Avenue	bicycle	bike racks
+Southwest 3rd Avenue	bicycle	bike lockers
+Southwest 1st Avenue MAX Station	bicycle	bike lockers
+Pioneer Square South and Pioneer Square North	bicycle	bike lockers
+Long Branch GO Station	bicycle	covered rack
+Exhibition GO Station	bicycle	Rack
+Danforth GO Station	bicycle	Racks
+Oriole GO Station	bicycle	racks
+Tampines MRT Station	bicycle	Yes
+Parasnath railway station	bicycle	No
+Torrens Park railway station	bicycle	No
+Ascot Park railway station	bicycle	No
+Beaverton Transit Center	bicycle	Bicycle racks and lockers
+Sunset Transit Center	bicycle	74
+Hatfield Government Center MAX Station	bicycle	Racks and lockers
+Beaverton Creek MAX Station	bicycle	Racks and lockers
+Millikan Way MAX Station	bicycle	Racks and lockers
+Southwest 158th Avenue MAX Station	bicycle	Racks and lockers
+Northwest 205th Avenue MAX Station	bicycle	Lockers and racks
+Northwest 231st Avenue MAX Station	bicycle	Bike racks and lockers
+Southwest 185th Avenue Transit Center	bicycle	Lockers and racks
+Sumner Transit Center	bicycle	bike lockers and racks
+Dudley Square	bicycle	\
+King City GO Station	bicycle	Yes
+Bradford GO Station	bicycle	Yes
+Old Cummer GO Station	bicycle	yes
+East Gwillimbury GO Station	bicycle	Yes
+Aurora GO Station	bicycle	Yes
+Langstaff GO Station	bicycle	yes
+Richmond Hill GO Station	bicycle	yes
+Maple GO Station	bicycle	Yes
+Ashmont	bicycle	\
+Sullivan Square	bicycle	16
+South Attleboro	bicycle	2
+Agincourt GO Station	bicycle	Yes
+Mount Joy GO Station	bicycle	Rack
+Unionville GO Station	bicycle	Rack
+Kennedy GO Station	bicycle	No
+Markham GO Station	bicycle	yes
+Milliken GO Station	bicycle	Yes
+Stouffville GO Station	bicycle	Yes
+Port Credit GO Station	bicycle	Yes
+Clarkson GO Station	bicycle	Yes
+Rouge Hill GO Station	bicycle	Yes
+Bronte GO Station	bicycle	racks and shelters
+Appleby GO Station	bicycle	Bicycle stand
+Burlington GO Station	bicycle	Rack
+Scarborough GO Station	bicycle	6
+Eglinton GO Station	bicycle	6
+Ajax GO Station	bicycle	Yes
+Whitby GO Station	bicycle	Yes
+Mimico GO Station	bicycle	rack
+Aldershot GO Station	bicycle	Yes
+Hamilton GO Centre	bicycle	bicycle rack
+Guildwood GO Station	bicycle	6
+Pickering GO Station	bicycle	Yes
+Oakville GO Station	bicycle	Rack
+Oshawa GO Station	bicycle	Yes
+Minnamurra railway station	bicycle	Yes
+Grand Park station	bicycle	6
+Lisgar GO Station	bicycle	Yes
+Princeton	bicycle	Yes
+Tanah Merah MRT Station	bicycle	Yes
+Lindenwold station	bicycle	Yes
+Atlantic City Rail Terminal	bicycle	Yes
+Trenton Transit Center	bicycle	Available
+Burpengary railway station	bicycle	Yes
+Narangba railway station	bicycle	Yes
+World Trade Center	bicycle	none
+Mattapan	bicycle	8
+Pershing Square station	bicycle	2
+Pico station	bicycle	none
+Promenade MRT Station	bicycle	Yes
+Studio City station	bicycle	16
+Studio City station	bicycle	14
+North Hollywood station	bicycle	8
+Glen Park station	bicycle	12
+Balboa Park station	bicycle	12
+Daly City station	bicycle	20
+Colma station	bicycle	24
+South San Francisco station	bicycle	30
+San Bruno station	bicycle	30
+Millbrae station	bicycle	30
+Millbrae station	bicycle	Racks available
+Compton station	bicycle	6
+Western station	bicycle	16
+Western station	bicycle	4
+West Oakland station	bicycle	8
+T. F. Green Airport	bicycle	racks available
+Braintree	bicycle	30
+Braintree	bicycle	\
+Quincy Adams	bicycle	64
+Lake Merritt station	bicycle	32
+Sokolniki	bicycle	No
+Lucien-L'Allier	bicycle	Forbidden
+Fruitvale station	bicycle	14
+Rockridge station	bicycle	56
+Castro Valley station	bicycle	20
+Lafayette station	bicycle	30
+Orinda station	bicycle	24
+Walnut Creek station	bicycle	64
+Contra Costa Centre station	bicycle	90
+Concord station	bicycle	40
+San Leandro station	bicycle	28
+Revere Beach	bicycle	11
+Community College	bicycle	5
+Bay Fair station	bicycle	16
+Fremont station	bicycle	76
+Ashby station	bicycle	36
+Richmond station	bicycle	Two Lockers
+MacArthur station	bicycle	40
+Canora	bicycle	14
+Norristown Transportation Center	bicycle	4
+Green Street	bicycle	22
+Krasnoselskaya	bicycle	No
+Komsomolskaya	bicycle	No
+Lubyanka	bicycle	No
+Okhotny Ryad	bicycle	No
+Biblioteka Imeni Lenina	bicycle	No
+Kropotkinskaya	bicycle	No
+Park Kultury	bicycle	No
+Frunzenskaya	bicycle	No
+Bugis MRT Station	bicycle	Yes
+Sportivnaya	bicycle	No
+Vorobyovy Gory	bicycle	No
+Universitet	bicycle	No
+Prospekt Vernadskogo	bicycle	No
+Mont-Royal	bicycle	22
+Finch Bus Terminal	bicycle	Yes
+Union Station Bus Terminal	bicycle	Yes
+Du Ruisseau	bicycle	21
+Montpellier	bicycle	14
+Bois-Franc	bicycle	21
+Deux-Montagnes	bicycle	170
+Britomart Transport Centre	bicycle	Yes
+Central Station	bicycle	Bike boxes available
+Eunos MRT Station	bicycle	Yes
+Aljunied MRT Station	bicycle	Yes
+Kallang MRT Station	bicycle	Yes
+Lavender MRT Station	bicycle	Yes
+Kembangan MRT Station	bicycle	Yes
+Khatib MRT Station	bicycle	1
+Bedok MRT Station	bicycle	Yes
+Joo Koon MRT Station	bicycle	Yes
+Mountbatten MRT Station	bicycle	Yes
+Union City station	bicycle	20
+North Berkeley station	bicycle	58
+Bayfront MRT Station	bicycle	Yes
+Beenleigh railway station	bicycle	Yes
+Clapham railway station, Adelaide	bicycle	n/a
+Hawthorn railway station, Adelaide	bicycle	n/a
+Millswood railway station	bicycle	No
+Coomera railway station	bicycle	Yes
+Ormeau railway station	bicycle	No
+Nerang railway station	bicycle	Yes
+Helensvale railway station	bicycle	Yes
+Robina railway station	bicycle	Yes
+Pleasanton station	bicycle	24
+South Hayward station	bicycle	30
+Hayward station	bicycle	20
+Wonderland	bicycle	24
+Wonderland	bicycle	\
+Brockville railway station	bicycle	Yes
+Belleville railway station	bicycle	bicycle box
+Cobourg railway station	bicycle	Yes
+Durham–UNH station	bicycle	Racks available
+Rose Quarter MAX Station	bicycle	Bike racks and lockers
+Mississippi MAX Station	bicycle	Bike lockers
+Overlook Park MAX Station	bicycle	Bike lockers
+North Prescott Street MAX Station	bicycle	Bike lockers
+North Killingsworth Street MAX Station	bicycle	Bike lockers
+Rosa Parks MAX Station	bicycle	Bike lockers
+North Lombard Transit Center	bicycle	Bike lockers
+Vanport MAX Station	bicycle	Bike lockers
+Expo Center MAX Station	bicycle	Lockers
+Merion station	bicycle	6
+Narberth station	bicycle	3
+Wynnewood station	bicycle	4
+Haverford station	bicycle	3
+Ardmore station	bicycle	3
+Rosemont station	bicycle	5
+Bryn Mawr station	bicycle	9
+Villanova station	bicycle	5
+Radnor station	bicycle	2
+St. Davids station	bicycle	4
+Wayne station	bicycle	7
+Strafford station	bicycle	4
+Devon station	bicycle	4
+Berwyn station	bicycle	4
+Daylesford station	bicycle	2
+Thorndale station	bicycle	2
+Downingtown station	bicycle	2
+Whitford station	bicycle	2
+Paoli station	bicycle	4
+Exton station	bicycle	4
+Malvern station	bicycle	3
+St. Catharines railway station	bicycle	No
+Niagara Falls railway station	bicycle	No
+Martinez station	bicycle	30
+Bay Point station	bicycle	20
+LAX station	bicycle	12
+LAX station	bicycle	20
+Santa Monica station	bicycle	18
+Santa Monica station	bicycle	2
+Jar	bicycle	Yes
+Fairview Park Mall	bicycle	no
+El Cerrito del Norte station	bicycle	28
+El Cerrito Plaza station	bicycle	30
+Bowden railway station	bicycle	No
+Alberton railway station, Adelaide	bicycle	Yes
+Port Dock railway station	bicycle	Yes
+Gerringong railway station	bicycle	Yes
+Kiama railway station	bicycle	Yes
+Ethelton railway station	bicycle	No
+Bekkestua	bicycle	Yes
+Kilkenny railway station, Adelaide	bicycle	No
+Manurewa Railway Station	bicycle	Yes
+Westfield Railway Station	bicycle	No
+Swanson Railway Station	bicycle	No
+Henderson Railway Station	bicycle	No
+New Lynn Railway Station	bicycle	Yes
+Mount Albert Railway Station	bicycle	No
+Kingsland Railway Station	bicycle	Yes
+Ranui Railway Station	bicycle	Yes
+Sturges Road Railway Station	bicycle	No
+Sunnyvale Railway Station	bicycle	No
+Glen Eden Railway Station	bicycle	No
+Morningside Railway Station	bicycle	No
+Avondale Railway Station	bicycle	Yes
+Boston Road Railway Station	bicycle	No
+Mount Eden Railway Station	bicycle	No
+Fruitvale Road Railway Station	bicycle	No
+Greenlane Railway Station	bicycle	No
+Remuera Railway Station	bicycle	No
+Ellerslie Railway Station	bicycle	No
+Baldwin Avenue Railway Station	bicycle	Yes
+Penrose Railway Station	bicycle	No
+Newmarket Railway Station, New Zealand	bicycle	Yes
+Alvarado Transportation Center	bicycle	Yes
+Emeryville station	bicycle	Yes
+South Acton	bicycle	44
+Oak Flats railway station	bicycle	Yes
+Albion Park railway station	bicycle	Bike racks
+Dapto railway station	bicycle	Bike racks
+Berry railway station	bicycle	Yes
+Bomaderry railway station	bicycle	Yes
+Glenside station	bicycle	8
+Jenkintown–Wyncote station	bicycle	Yes
+Ridley Park station	bicycle	5
+Churchmans Crossing station	bicycle	No
+New Britain station	bicycle	Yes
+Chalfont station	bicycle	Yes
+Gwynedd Valley station	bicycle	Yes
+Fort Washington station	bicycle	Yes
+Lansdale station	bicycle	Yes
+Cheltenham station	bicycle	Yes
+Lansdowne station	bicycle	Yes
+Toronto Coach Terminal	bicycle	no
+Veterans Square station	bicycle	No
+Olive Street station	bicycle	No
+San Jose Diridon station	bicycle	Racks available
+Burbank–Bob Hope Airport station	bicycle	Yes
+Finch West	bicycle	13
+Chistyye Prudy	bicycle	No
+Krasnye Vorota	bicycle	No
+Outer Harbor railway station	bicycle	No
+Albert Park railway station, Adelaide	bicycle	No
+Rosa Parks station	bicycle	30
+Rosa Parks station	bicycle	4
+New Bridge Landing	bicycle	Yes
+River Edge	bicycle	Yes
+Edwardstown railway station	bicycle	No
+Quincy Center	bicycle	20
+Sunset station	bicycle	10
+Sunset station	bicycle	4
+Richmond Hill Centre Terminal	bicycle	3
+Everett Station	bicycle	30
+Newmarket Bus Terminal	bicycle	Yes
+King George Square busway station	bicycle	King George Square Cycle Centre
+Marion railway station	bicycle	Yes
+UH–Downtown	bicycle	Racks on the campus of the
+UH–Downtown	bicycle	University of Houston–Downtown
+UH–Downtown	bicycle	; Bikes allowed on train during off peak times
+Preston	bicycle	Adjacent sidewalk racks, Bicycles allowed on train during off peak times .
+Main Street Square	bicycle	Adjacent sidewalk racks, Bicycles allowed on train during off peak times .
+Bell	bicycle	Adjacent sidewalk racks, Bicycles allowed on train during off peak times .
+HCC	bicycle	Yes
+Wheeler	bicycle	Racks located at station; bicycles allowed on Metrorail during off-peak hours
+Museum District	bicycle	Bicycles allowed on board during off peak hours. No bike racks provided at station.
+Texas Medical Center Transit Center	bicycle	Yes
+Wood Island	bicycle	10
+Harrisburg Transportation Center	bicycle	Outside racks
+North Quincy	bicycle	43
+Teck Whye LRT Station	bicycle	10
+Sam Kee LRT Station	bicycle	Yes
+LATTC station	bicycle	bike rack/locker
+Morton station	bicycle	Yes
+Howard station	bicycle	Yes
+Orakei Railway Station	bicycle	No
+Meadowbank Railway Station	bicycle	No
+Glen Innes Railway Station	bicycle	Yes
+Panmure Railway Station	bicycle	No
+North Haven railway station	bicycle	No
+Midlunga railway station	bicycle	No
+Taperoo railway station	bicycle	No
+Osborne railway station	bicycle	No
+Draper railway station	bicycle	No
+Largs North railway station	bicycle	No
+Largs railway station, Adelaide	bicycle	No
+Peterhead railway station, Adelaide	bicycle	No
+Glanville railway station	bicycle	Yes
+Cheltenham railway station, Adelaide	bicycle	No
+Cheltenham Racecourse railway station, Adelaide	bicycle	No
+East Grange railway station	bicycle	No
+Seaton Park railway station	bicycle	No
+Grange railway station	bicycle	Yes
+Woodville Park railway station	bicycle	No
+Mile End railway station, Adelaide	bicycle	No
+West Croydon railway station, Adelaide	bicycle	No
+Croydon railway station, Adelaide	bicycle	No
+Lynton railway station	bicycle	Yes
+Eden Hills railway station	bicycle	Yes
+Coromandel railway station	bicycle	Yes
+Pinera railway station	bicycle	No
+Clarence Park railway station	bicycle	No
+Glenalta railway station	bicycle	No
+Emerson railway station	bicycle	No
+Warradale railway station	bicycle	No
+Mitchell Park railway station	bicycle	No
+Clovelly Park railway station	bicycle	No
+Woodlands Park railway station	bicycle	Yes
+Hove railway station, Adelaide	bicycle	Yes
+Seacliff railway station	bicycle	Yes
+Brighton railway station, Adelaide	bicycle	Yes
+Marino Rocks railway station	bicycle	No
+Hallett Cove railway station	bicycle	Yes
+Lonsdale railway station	bicycle	No
+Hallett Cove Beach railway station	bicycle	Yes
+Christie Downs railway station	bicycle	No
+Islington railway station	bicycle	No
+Dudley Park railway station	bicycle	Yes
+Ovingham railway station	bicycle	No
+Kilburn railway station, Adelaide	bicycle	No
+Dry Creek railway station	bicycle	Yes
+Greenfields railway station	bicycle	No
+Parafield Gardens railway station	bicycle	No
+Parafield railway station	bicycle	Yes
+Chidda railway station	bicycle	No
+Nurlutta railway station	bicycle	No
+Elizabeth South railway station	bicycle	Yes
+Womma railway station	bicycle	No
+Tambelin railway station	bicycle	No
+Evanston railway station	bicycle	Yes
+Munno Para railway station	bicycle	No
+Smithfield railway station, Adelaide	bicycle	Yes
+Gawler Central railway station	bicycle	No
+Elizabeth railway station	bicycle	Yes
+Broadmeadows railway station, Adelaide	bicycle	No
+Gawler Oval railway station	bicycle	No
+Gawler railway station	bicycle	Yes
+Gawler Racecourse railway station	bicycle	No
+Walloon railway station	bicycle	Yes
+Rosewood railway station	bicycle	Yes
+North Adelaide railway station	bicycle	No
+Papatoetoe Railway Station	bicycle	Yes
+Otahuhu Railway Station	bicycle	No
+Mangere Railway Station	bicycle	No
+Coniston railway station, New South Wales	bicycle	Yes
+Cannon Hill bus station	bicycle	Bicycle stand
+Carindale bus station	bicycle	Bicycle stand
+Port Kembla railway station	bicycle	Yes
+Cringila railway station	bicycle	Yes
+45th Street	bicycle	Yes
+34th Street	bicycle	Yes
+Richard Street	bicycle	Yes
+22nd Street	bicycle	Yes
+Sainte-Dorothée	bicycle	21
+Middlemore Railway Station	bicycle	No
+Puhinui Railway Station	bicycle	No
+Washago railway station	bicycle	no
+Copiague	bicycle	Yes
+Dan Ryan station	bicycle	Yes
+Wickford Junction	bicycle	20
+Montvale	bicycle	Yes
+Park Ridge	bicycle	Yes
+Woodcliff Lake	bicycle	Yes
+Hillsdale	bicycle	Yes
+Westwood	bicycle	Yes
+Emerson	bicycle	Yes
+Oradell	bicycle	Yes
+William F. Walsh Regional Transportation Center	bicycle	Yes
+Saint James	bicycle	None
+Paseo de San Antonio	bicycle	None
+Rahway station	bicycle	Yes
+Santa Clara station	bicycle	None
+Mastic–Shirley	bicycle	Yes
+Granville station	bicycle	Yes
+Haddonfield station	bicycle	Yes
+Berwyn station	bicycle	Yes
+Loyola station	bicycle	Yes
+Belmont station	bicycle	Yes
+Wells	bicycle	Yes
+I-25 & Broadway station	bicycle	38
+Tanjong Pagar railway station	bicycle	No
+Waban	bicycle	12
+Red Bank station	bicycle	Yes
+Linden	bicycle	Yes
+Elizabeth	bicycle	Racks and Lockers
+North Elizabeth	bicycle	Yes
+Kongens Nytorv Station	bicycle	Yes
+Murray Hill	bicycle	Yes
+Bayside	bicycle	Yes
+Santa Fe Depot	bicycle	Yes
+Downtown Mountain View Station	bicycle	Lockers available
+Douglaston	bicycle	Yes
+Little Neck	bicycle	Yes
+Santa Teresa	bicycle	Yes
+Plandome	bicycle	Yes
+Great Neck	bicycle	Yes
+Port Washington	bicycle	Yes
+Roxbury Crossing	bicycle	16
+Union	bicycle	Yes
+Cranford	bicycle	Yes
+Garwood	bicycle	Yes
+Fanwood	bicycle	Yes
+Plainfield	bicycle	Yes; Bike Racks
+Burlington South	bicycle	Yes, bike racks.
+Riverton	bicycle	Yes, bicycle racks
+Walter Rand Transportation Center	bicycle	Yes
+Midtown station	bicycle	3
+Civic Center station	bicycle	None
+Santa Clara station	bicycle	Lockers available
+Peachtree Center station	bicycle	5
+Fenway	bicycle	18
+Lindbergh Center station	bicycle	None
+Five Points station	bicycle	None
+Georgia State station	bicycle	1
+Decatur station	bicycle	2
+Doraville station	bicycle	Yes
+Avondale station	bicycle	Yes
+De Soto station	bicycle	12
+De Soto station	bicycle	8
+Warner Center station	bicycle	none
+Pierce College station	bicycle	12
+Pierce College station	bicycle	8
+Tampa station	bicycle	12
+Tampa station	bicycle	8
+Reseda station	bicycle	6
+Reseda station	bicycle	16
+Balboa station	bicycle	12
+Balboa station	bicycle	20
+Woodley station	bicycle	8
+Sepulveda station	bicycle	12
+Van Nuys station	bicycle	12
+Van Nuys station	bicycle	8
+Woodman station	bicycle	12
+Woodman station	bicycle	8
+Valley College station	bicycle	8
+Laurel Canyon station	bicycle	4
+Laurel Canyon station	bicycle	8
+ Reynoldstown station	bicycle	36
+ Candler Park station	bicycle	18
+King Memorial station	bicycle	None
+East Lake station	bicycle	18
+Buckhead station	bicycle	Yes
+Lenox station	bicycle	No
+ CNN Center station	bicycle	None
+Vine City station	bicycle	15
+West End station	bicycle	10
+Garnett station	bicycle	2
+Kasanui Station	bicycle	Available
+Ashby station	bicycle	None
+Hewlett	bicycle	Yes; Bike Rack
+Woodmere	bicycle	Yes; Bike Rack
+Cedarhurst	bicycle	Yes
+Valley Stream	bicycle	Yes
+Oglethorpe station	bicycle	18
+Chamblee station	bicycle	6
+ Fort McPherson station	bicycle	8
+Oakland City station	bicycle	8
+East Point station	bicycle	8
+College Park station	bicycle	6
+Airport station	bicycle	None
+Indian Creek station	bicycle	4
+Bankhead station	bicycle	None
+West Lake station	bicycle	7
+Hamilton E. Holmes station	bicycle	10
+Medical Center station	bicycle	6
+Dunwoody station	bicycle	Yes
+North Springs station	bicycle	14
+Sandy Springs station	bicycle	12
+Peachtree station	bicycle	No
+Chodov	bicycle	No
+Budějovická	bicycle	No
+Opatov	bicycle	No
+Háje	bicycle	No
+Roztyly	bicycle	No
+Pankrác	bicycle	No
+Kačerov	bicycle	No
+Pražského povstání	bicycle	No
+Vyšehrad	bicycle	No
+Hlavní nádraží	bicycle	No
+I. P. Pavlova	bicycle	No
+Nádraží Holešovice	bicycle	No
+Náměstí Republiky	bicycle	No
+Florenc	bicycle	No
+Vltavská	bicycle	No
+Ládví	bicycle	No
+Kobylisy	bicycle	No
+Českomoravská	bicycle	No
+Nové Butovice	bicycle	No
+Zličín	bicycle	No
+Muzeum	bicycle	No
+Můstek	bicycle	No
+Downtown Long Beach station	bicycle	bike rack/locker available
+1st Street station	bicycle	none
+Pacific Avenue station	bicycle	none
+5th Street station	bicycle	none
+Anaheim Street station	bicycle	none
+Pacific Coast Highway station	bicycle	none
+Willow Street station	bicycle	16
+Willow Street station	bicycle	14
+Wardlow station	bicycle	8
+Wardlow station	bicycle	14
+Del Amo station	bicycle	10
+Del Amo station	bicycle	7
+Artesia station	bicycle	8
+Watts Towers station	bicycle	none
+Firestone station	bicycle	6
+Florence station	bicycle	none
+Vernon station	bicycle	none
+Slauson station	bicycle	4
+Washington station	bicycle	none
+San Pedro Street station	bicycle	none
+Port Moody railway station	bicycle	lockers
+Coquitlam Central station	bicycle	lockers
+Pukekohe Railway Station	bicycle	No
+Papakura Railway Station	bicycle	Yes
+Takanini Railway Station	bicycle	No
+Homai Railway Station	bicycle	No
+Vermont station	bicycle	14
+18th	bicycle	Yes
+Jersey Avenue	bicycle	Yes
+Hamilton	bicycle	Bike lockers
+Chinatown station	bicycle	6
+Wallingford station	bicycle	Yes
+Bound Brook	bicycle	Racks
+North Branch	bicycle	1
+Addison station	bicycle	Yes
+Bretts Wharf	bicycle	storage racks
+Ernakulam Junction railway station	bicycle	available
+Ottawa Central Station	bicycle	Yes
+Stadium LRT Station	bicycle	yes
+West End ferry wharf	bicycle	yes
+Wollaston	bicycle	88
+Wollaston	bicycle	~20 outside spaces
+Pelham	bicycle	Yes
+Larchmont	bicycle	Yes
+Mamaroneck	bicycle	Y
+Somerton station	bicycle	Yes
+Neshaminy Falls station	bicycle	Yes
+Langhorne station	bicycle	3
+Woodbourne station	bicycle	6
+Memphis Central Station	bicycle	Yes
+Cornwells Heights station	bicycle	Yes
+Croydon station	bicycle	Yes
+Bristol station	bicycle	6
+Villanova station	bicycle	One rack
+Barrie Transit	bicycle	Bicycle rack
+Jackson Street station	bicycle	No
+Varsity Lakes railway station	bicycle	Yes
+Gare de Toulouse-Matabiau	bicycle	Yes
+Brookline Village	bicycle	15
+Orient Heights	bicycle	8
+Beachmont	bicycle	6
+Suffolk Downs	bicycle	12
+Kimball station	bicycle	Yes
+Western station	bicycle	Yes
+Damen station	bicycle	Yes
+Montrose station	bicycle	Yes
+Irving Park station	bicycle	Yes
+Paulina station	bicycle	yes
+Addison station	bicycle	Yes
+Southport station	bicycle	Yes
+Joliet Union Station	bicycle	Yes
+Clackamas Town Center Transit Center	bicycle	Racks & 8 lockers
+Tucson station	bicycle	Yes
+Noarlunga Centre Interchange	bicycle	Yes
+Saint-Lambert railway station	bicycle	23
+Miami Airport Station	bicycle	Bicycle parking on ground level
+Mawson Interchange	bicycle	Yes
+Salisbury railway station, Adelaide	bicycle	Yes
+Lorton station	bicycle	Yes
+Salisbury Mills–Cornwall	bicycle	Yes
+Woodbridge	bicycle	Yes
+Elizabethtown station	bicycle	Bicycle stand
+Orange	bicycle	Y
+Maplewood	bicycle	Lockers and racks
+Chatham	bicycle	yes
+Mount Tabor	bicycle	Yes
+Gladstone	bicycle	Yes
+Ashland station	bicycle	Yes
+Woodcrest station	bicycle	Yes
+Upper Montclair	bicycle	Parking racks
+Mountain Avenue	bicycle	parking racks
+Watchung Avenue	bicycle	No Bicycle racks
+Bay Street	bicycle	Bike racks
+Walnut Street	bicycle	parking rack
+Little Falls	bicycle	Lockers available
+Boonton	bicycle	Yes
+Great Notch	bicycle	No
+Montclair Heights	bicycle	parking racks
+Atco station	bicycle	Bike racks
+Davis station	bicycle	Yes
+Linden station	bicycle	Yes
+Dempster–Skokie station	bicycle	Yes
+Jarvis station	bicycle	Yes
+Morse station	bicycle	Yes
+8th Street	bicycle	Yes
+Oakland Coliseum station	bicycle	Two lockers
+Thorndale station	bicycle	Yes
+Western station	bicycle	10
+Western station	bicycle	2
+Island Park	bicycle	Yes
+Nahariya Railway Station	bicycle	12
+Acre Railway Station	bicycle	4
+Kiryat Motzkin Railway Station	bicycle	30
+Kiryat Haim Railway Station	bicycle	10
+Hutzot HaMifratz Railway Station	bicycle	15
+Tel Aviv Savidor Central Railway Station	bicycle	50
+Binyamina Railway Station	bicycle	10
+Shellharbour Junction railway station	bicycle	Bike racks
+Te Mahia Railway Station	bicycle	No
+Capital Area Multimodal Gateway	bicycle	Bike racks
+Clybourn station	bicycle	Park on Ashland
+Sofia Central Station	bicycle	Yes
+Evanston Davis Street station	bicycle	Yes
+Manassas station	bicycle	Bicycle parking rack
+Berkeley station	bicycle	yes
+Elmhurst station	bicycle	Yes
+Laraway Road station	bicycle	Yes; Bike Shelter
+Woodbridge station	bicycle	Bike racks
+Division station	bicycle	Yes
+Port Coquitlam railway station	bicycle	lockers
+Cypress station	bicycle	10
+Normandie station	bicycle	none
+MacArthur Park station	bicycle	14
+Beverly station	bicycle	14
+Tampa Union Station	bicycle	Yes
+Sedgwick	bicycle	Yes
+Beaconsfield	bicycle	8
+Chatsworth station	bicycle	16
+Coliseum LRT Station	bicycle	yes
+Belvedere LRT Station	bicycle	yes
+Clareview LRT Station	bicycle	yes
+University LRT Station	bicycle	Yes
+Jubilee LRT Station	bicycle	Yes
+Belgravia LRT Station	bicycle	yes
+Fort Edmonton Park LRT Station	bicycle	yes
+Southgate LRT Station	bicycle	Yes
+Century Park LRT Station	bicycle	yes
+Century Park LRT Station	bicycle	Yes
+De La Concorde	bicycle	53
+Lake station	bicycle	Yes
+35th–Bronzeville–IIT	bicycle	Yes
+Bryn Mawr station	bicycle	Yes
+Lawrence station	bicycle	Yes
+Indiana	bicycle	Yes
+43rd	bicycle	Yes
+Clinton	bicycle	Yes
+Sox–35th station	bicycle	Yes
+King Drive	bicycle	Yes
+63rd station	bicycle	Yes
+Halsted station	bicycle	Yes
+Garfield	bicycle	Yes
+51st	bicycle	Yes
+47th	bicycle	Yes
+California	bicycle	yes
+Kedzie	bicycle	yes
+Pulaski	bicycle	Yes
+Central	bicycle	Yes
+Laramie	bicycle	Yes
+Cicero	bicycle	Yes
+Van Buren	bicycle	Yes
+Clybourn station	bicycle	Yes
+O'Hare station	bicycle	Yes
+Halsted station	bicycle	Yes
+Ashland station	bicycle	Yes
+Archer station	bicycle	Yes
+Kedzie station	bicycle	Yes
+Western station	bicycle	Yes
+Pulaski station	bicycle	Yes
+Midway station	bicycle	Yes
+Vendôme	bicycle	Forbidden
+Lake station	bicycle	Yes
+Monroe station	bicycle	Yes
+Jackson station	bicycle	Yes
+Harrison station	bicycle	Yes
+Cermak–Chinatown station	bicycle	Yes
+Rosemont station	bicycle	Yes
+Solana Beach station	bicycle	Yes
+Oceanside Transit Center	bicycle	Yes
+79th station	bicycle	Yes
+Wellington	bicycle	Yes
+Diversey	bicycle	Yes
+Armitage	bicycle	Yes
+Petrogradskaya	bicycle	yes
+Division station	bicycle	Yes
+Damen station	bicycle	Yes; Bicycle shed for 50
+California station	bicycle	Yes
+Addison station	bicycle	Yes
+Belmont station	bicycle	Yes
+Logan Square station	bicycle	Yes
+Cumberland station	bicycle	Yes
+Harlem station	bicycle	Yes
+Montrose station	bicycle	Yes
+Irving Park station	bicycle	Yes
+Chicago station	bicycle	Yes
+Grand station	bicycle	Yes
+UIC–Halsted station	bicycle	Yes
+Jackson station	bicycle	Yes
+Monroe station	bicycle	Yes
+LaSalle station	bicycle	Yes
+Western station	bicycle	Yes
+Polk	bicycle	Yes
+Damen station	bicycle	Yes
+California	bicycle	Yes
+Kedzie	bicycle	Yes
+Central Park	bicycle	Yes
+Pulaski	bicycle	Yes
+Cermak station	bicycle	Yes
+Quantico station	bicycle	Bike Racks
+Fredericksburg station	bicycle	Bike racks
+Leeland Road station	bicycle	Bicycle rack
+Rolling Road station	bicycle	Bicycle racks
+Backlick Road station	bicycle	Bicycle racks
+Manassas Park station	bicycle	Bicycle Racks
+Burke Centre station	bicycle	In parking garage
+Old Town Transit Center	bicycle	Yes
+Avalon station	bicycle	8
+Long Beach Boulevard station	bicycle	12
+Lakewood Boulevard station	bicycle	22
+Lakewood Boulevard station	bicycle	12
+Norwalk station	bicycle	* 48 bike rack spaces\n* 40 bike lockers
+Harbor Freeway station	bicycle	12
+Lennox station	bicycle	4
+Crenshaw station	bicycle	12
+Crenshaw station	bicycle	20
+Athens station	bicycle	8
+Mariposa station	bicycle	4
+El Segundo station	bicycle	4
+El Segundo station	bicycle	7
+San Antonio station	bicycle	Yes
+KLCC LRT Station	bicycle	Not Available
+Hattiesburg station	bicycle	Yes
+Netanya Railway Station	bicycle	15
+Conestoga Mall	bicycle	none
+Port Klang Komuter station	bicycle	No
+Mineola	bicycle	Yes
+Merillon Avenue	bicycle	Yes
+New Hyde Park	bicycle	Yes
+Lynbrook	bicycle	Yes
+Babylon	bicycle	Yes
+Encinitas station	bicycle	Yes
+Mid Valley Komuter station	bicycle	None
+Floral Park	bicycle	Yes
+Forstenrieder Allee	bicycle	Yes
+Darnytsia Railway Station	bicycle	allowed
+Sylvia Park Railway Station	bicycle	No
+Green's Farms	bicycle	Yes; Bike racks
+Union Station	bicycle	5
+Terminus Centre-Ville	bicycle	Forbidden
+Aberdeen station	bicycle	Bike Racks
+Absecon station	bicycle	Yes
+Terminus Longueuil	bicycle	622
+Terminus Le Carrefour	bicycle	63
+Saint-Jérôme	bicycle	30
+Terminus Côte-Vertu	bicycle	40
+Sainte-Thérèse	bicycle	55
+Mount Lofty railway station	bicycle	No
+Redondo Beach station	bicycle	12
+Redondo Beach station	bicycle	5
+Skøyen Station	bicycle	Yes
+UQ Lakes busway station	bicycle	Bicycle stand
+Ventura station	bicycle	Yes
+Perth Amboy	bicycle	Yes
+South Amboy	bicycle	Yes
+Davis station	bicycle	Yes
+Oakland – Jack London Square station	bicycle	Yes
+Eliot	bicycle	8
+Martinez station	bicycle	Yes
+Westwood	bicycle	Yes; Bicycle Racks
+Suisun–Fairfield station	bicycle	Yes
+Canoga station	bicycle	24
+Canoga station	bicycle	32
+Pepsi Center–Elitch Gardens station	bicycle	None
+Nine Mile station	bicycle	16
+Lincoln station	bicycle	8
+Littleton–Mineral station	bicycle	10
+30th & Downing station	bicycle	10
+Ninokuchi Station	bicycle	Available
+Yagi-nishiguchi Station	bicycle	Available
+Kashiharajingū-mae Station	bicycle	Available
+Auraria West station	bicycle	None
+Sports Authority Field at Mile High station	bicycle	Bike trees
+Alameda station	bicycle	8
+Evans station	bicycle	10
+Littleton–Downtown station	bicycle	28
+Englewood station	bicycle	24
+Orchard station	bicycle	6
+County Line station	bicycle	8
+Arapahoe at Village Center station	bicycle	22
+Dry Creek station	bicycle	6
+Southmoor station	bicycle	16
+Dayton station	bicycle	16
+University of Denver station	bicycle	10
+Colorado station	bicycle	8
+Yale station	bicycle	8
+Belleview station	bicycle	12
+Patchogue	bicycle	Yes
+Parc	bicycle	7
+Lancaster station	bicycle	Lockers
+Via Princessa station	bicycle	Lockers, Bikeway Connection
+Santa Clarita station	bicycle	Bikeway Connection
+El Monte Station	bicycle	26
+El Monte Station	bicycle	16
+Ferry Avenue station	bicycle	Yes
+Port Jefferson	bicycle	Yes
+Huntington	bicycle	Yes
+Vadodara Junction railway station	bicycle	Available
+Vernon J. Ehlers Station	bicycle	Bike racks
+Holte station	bicycle	yes, covered parking
+Sayville	bicycle	Yes
+GMH railway station	bicycle	n/a
+Stony Brook	bicycle	Yes
+Montréal-Ouest	bicycle	15
+Penfield 3 railway station	bicycle	n/a
+Kingston station	bicycle	Yes
+7th Street station	bicycle	Racks available
+Convention Center station	bicycle	racks available
+Stonewall station	bicycle	Racks available
+Charlotte Transportation Center	bicycle	Racks available
+South Boulevard station	bicycle	Racks and Lockers available
+Kudla railway station	bicycle	No
+Archdale station	bicycle	Racks and Lockers available
+Tyvola station	bicycle	Racks and Lockers available
+Chico station	bicycle	Yes
+Sharon Road West station	bicycle	Racks and Lockers available
+Arrowood station	bicycle	Racks and Lockers available
+Woodlawn station	bicycle	Racks and Lockers available
+Scaleybark station	bicycle	Racks and Lockers available
+New Bern station	bicycle	Racks and Lockers available
+West Boulevard station	bicycle	Racks available
+Bland Street station	bicycle	Racks available
+Carson station	bicycle	Racks available
+Douglas station	bicycle	6
+Douglas station	bicycle	4
+Unebigoryōmae Station	bicycle	Available
+Smithtown	bicycle	Yes; Bike Rack
+St. Marys Street	bicycle	10
+St. James	bicycle	Yes
+Palmdale Transportation Center	bicycle	8
+Palmdale Transportation Center	bicycle	Bikeway Connectors
+Dean College	bicycle	7
+Central Islip	bicycle	Yes; Bike racks and lockers
+Kaiwharawhara Railway Station	bicycle	No
+Petone Railway Station	bicycle	Yes
+Ngauranga Railway Station	bicycle	No
+Sorrento Valley station	bicycle	Yes
+Dorval	bicycle	31
+Niagara Falls International Railway Station and Transportation Center	bicycle	Yes
+Riverhead	bicycle	Yes; Bike Racks
+Kizu Station	bicycle	Available
+Kirkkonummi railway station	bicycle	Yes
+Nishinokyō Station	bicycle	Available
+Jyväskylä railway station	bicycle	yes
+Pieksämäki railway station	bicycle	yes
+Buxtehude station	bicycle	Yes
+Kings Park	bicycle	Yes
+Terminus Brossard-Panama	bicycle	144
+Varkaus railway station	bicycle	yes
+Long Beach	bicycle	Bicycle Racks in Parking Garage/Bus Terminal
+South Bend station	bicycle	Yes
+North Irving Transit Center	bicycle	2
+Lafayette station	bicycle	Yes
+Srikakulam Road railway station	bicycle	Not available
+Lingaraj Temple Road railway station	bicycle	No
+Long Branch station	bicycle	Yes
+South Garland Transit Center	bicycle	1
+Singapuram Road railway station	bicycle	No
+Windsor station	bicycle	Yes
+Claremont station	bicycle	Yes; Bicycle Shop
+Wells Regional Transportation Center	bicycle	Yes
+Portland Transportation Center	bicycle	Yes
+Red Bird Transit Center	bicycle	1
+Heritage Square station	bicycle	4
+Syosset	bicycle	Yes
+Milwaukee Intermodal Station	bicycle	Bublr Bikes bike-share
+La Crosse station	bicycle	Yes
+St. Cloud station	bicycle	Yes
+Lake Ray Hubbard Transit Center	bicycle	2
+Jack Hatchell Transit Center	bicycle	3
+Carbondale station	bicycle	Yes
+Palo Alto station	bicycle	Racks available
+Koivukylä railway station	bicycle	Yes
+Connellsville station	bicycle	No
+Southwest Museum station	bicycle	6
+Highland Park station	bicycle	8
+South Pasadena station	bicycle	14
+Fillmore station	bicycle	12
+Del Mar station	bicycle	26
+Memorial Park station	bicycle	8
+Memorial Park station	bicycle	16
+Lake station	bicycle	18
+Allen station	bicycle	28
+Sierra Madre Villa station	bicycle	10
+Sierra Madre Villa station	bicycle	16
+Newton Centre	bicycle	15
+Colfax station	bicycle	Tie-downs
+Jacksonville station	bicycle	Yes
+Halifax railway station	bicycle	yes
+Dixie Outlet Mall	bicycle	none
+Sandvika Station	bicycle	Yes
+Montauk	bicycle	Yes
+Texarkana Union Station	bicycle	Yes
+Hamar Station	bicycle	Yes
+Furkating Junction railway station	bicycle	No
+Glen Street	bicycle	Yes
+Glen Cove	bicycle	Yes
+Galesburg station	bicycle	Yes
+Garden City	bicycle	Bike Rack
+Riverside – Downtown station	bicycle	Yes
+Rutherford	bicycle	Yes; Bicycle Racks
+Barrie South GO Station	bicycle	Yes
+Raver, Maharashtra	bicycle	Yes
+Wyoming Hill	bicycle	yes
+Deer Park	bicycle	Yes; Bicycle Rack
+Oceanside	bicycle	Yes
+Amityville	bicycle	Yes
+Kensington station	bicycle	No
+Northport	bicycle	Yes
+Singleton Transfer Location	bicycle	3
+Roslyn	bicycle	Yes
+Nashville Riverfront station	bicycle	Metro Nashville Green Bikes
+Greenlawn	bicycle	Yes
+Wantagh	bicycle	Yes
+Plaça d'Espanya station	bicycle	The upper hall of the Llobregat–Anoia Line station has a bicycle parking rack.
+Cold Spring Harbor	bicycle	Yes; Bike Racks and Lockers
+Hayward station	bicycle	Yes
+San Francisco 4th and King Street Station	bicycle	180
+San Francisco 4th and King Street Station	bicycle	22
+Bethpage	bicycle	Yes
+Tenri Station	bicycle	Available
+Senzai Station	bicycle	Available
+Nikaidō Station	bicycle	Available
+Hirahata Station	bicycle	Available
+Tsutsui Station	bicycle	Available
+Bradley Beach station	bicycle	Yes
+Bay Head station	bicycle	Yes
+Spring Lake station	bicycle	Yes
+Manasquan station	bicycle	Yes
+West Transfer Center	bicycle	None
+East Transfer Center	bicycle	None
+Amagatsuji Station	bicycle	Available
+Kujō Station	bicycle	Available
+Kintetsu-Kōriyama Station	bicycle	Available
+Bayshore station	bicycle	Lockers available
+22nd Street station	bicycle	None
+Tawaramoto Station	bicycle	Available
+Iwami Station	bicycle	Available
+Yūzaki Station	bicycle	Available
+Family-Kōemmae Station	bicycle	None
+Hyde Park	bicycle	10
+East Hampton	bicycle	Yes
+Carterton Railway Station	bicycle	Yes, limited
+Bridgehampton	bicycle	Yes
+Masterton Railway Station	bicycle	Yes
+Sea Cliff	bicycle	Yes; Bike Rack
+Farmingdale	bicycle	Yes; Bike Rack
+Woodside Railway Station, New Zealand	bicycle	No
+Featherston Railway Station	bicycle	No
+Malverne	bicycle	Yes
+Bellmore	bicycle	Yes
+Mattituck	bicycle	Yes; Bicycle rack
+Amagansett	bicycle	Yes
+Locust Valley	bicycle	Yes
+Southampton	bicycle	Yes
+Hempstead Gardens	bicycle	No
+Castle Hill railway station	bicycle	20
+Santa Clara – Great America station	bicycle	Yes
+Islip	bicycle	Yes
+Lakeview	bicycle	No
+Norwood Central	bicycle	27
+South San Francisco station	bicycle	Lockers available
+Burlingame station	bicycle	Lockers available
+Broadway station	bicycle	Lockers available
+San Bruno station	bicycle	8
+Lindenhurst	bicycle	Yes
+Pier 41	bicycle	Yes
+Matarawa Railway Station	bicycle	No
+Maymorn Railway Station	bicycle	No
+Collingswood station	bicycle	Yes
+Westmont station	bicycle	Yes
+Speonk	bicycle	Yes
+Ashdod Ad Halom Railway Station	bicycle	40
+Renall Street Railway Station	bicycle	No
+Hayward Park station	bicycle	Lockers available
+San Mateo station	bicycle	Lockers available
+Hillsdale station	bicycle	Lockers available
+Solway Railway Station	bicycle	No
+Lod Railway Station	bicycle	5
+Rockville Centre	bicycle	Yes
+Rouse Hill railway station	bicycle	40
+San Antonio station	bicycle	2
+Belmont station	bicycle	Lockers available
+San Carlos station	bicycle	Lockers available
+Gilroy station	bicycle	Lockers available
+Redwood City station	bicycle	Lockers available
+Bois-de-Boulogne	bicycle	7
+Glenbrook	bicycle	Yes
+Baldwin	bicycle	Yes
+Wiltz railway station	bicycle	yes
+Atherton station	bicycle	Lockers available
+Merkholtz railway station	bicycle	yes
+Paradiso railway station	bicycle	yes
+Hampton Bays	bicycle	Yes
+Vimont	bicycle	14
+Sainte-Rose	bicycle	46
+Beverly Shores station	bicycle	Yes
+Coolaroo railway station	bicycle	26
+Aldgate railway station, Adelaide	bicycle	No
+Massachusetts Avenue	bicycle	2
+Sunnyvale station	bicycle	15
+Morgan Hill station	bicycle	Lockers available
+Upper Hutt Railway Station	bicycle	Yes
+Seaford	bicycle	Yes
+Waterloo Interchange	bicycle	Yes
+Merrick	bicycle	Yes
+Lynnwood Transit Center	bicycle	Bicycle lockers and racks
+Route 59 station	bicycle	yes
+Massapequa	bicycle	Yes; Bike rack and locker
+Jackson Square	bicycle	8
+Stony Brook	bicycle	12
+Attleboro station	bicycle	28
+Canton Center	bicycle	10
+Sharon	bicycle	8
+Stoughton	bicycle	6
+Mansfield	bicycle	12
+Massapequa Park	bicycle	Yes; Bike racks
+Okadera Station	bicycle	Available
+Asuka Station	bicycle	Available
+Manteca station	bicycle	bicycle lockers available
+Tracy station	bicycle	bicycle lockers available
+Menlo Park station	bicycle	Lockers available
+Federal Way Transit Center	bicycle	Bicycle lockers and racks
+Woodland	bicycle	16
+495	bicycle	14
+Ichio Station	bicycle	Available
+Tsubosakayama Station	bicycle	Available
+Salem station	bicycle	Yes
+Rosemère	bicycle	43
+Tel Aviv HaShalom Railway Station	bicycle	50
+Anaheim Canyon station	bicycle	Yes: Bike Racks
+JR Goidō Station	bicycle	Available
+Tsuge Station	bicycle	Available
+Kamo Station	bicycle	Available
+Lutherville	bicycle	Yes
+Lawrence	bicycle	18
+Andover	bicycle	6
+Bradford	bicycle	12
+Randolph	bicycle	8
+Narayama Station	bicycle	Available
+Sakurai Station	bicycle	Available
+West Concord Depot	bicycle	10
+Concord	bicycle	10
+Tukwila International Boulevard station	bicycle	Lockers
+Rainier Beach station	bicycle	Bicycle lockers
+Kameyama Station	bicycle	Available
+Seki Station	bicycle	Available
+Kabuto Station	bicycle	Available
+Shindō Station	bicycle	Available
+Sanagu Station	bicycle	Available
+Kasagi Station	bicycle	Available
+Ōkawara Station	bicycle	Available
+Shimagahara Station	bicycle	Available
+Tsukigaseguchi Station	bicycle	Available
+Iga-Ueno Station	bicycle	Available
+Camden Station	bicycle	Yes
+Kyōbate Station	bicycle	Available
+Yanagimoto Station	bicycle	Available
+Ichinomoto Station	bicycle	Available
+Makimuku Station	bicycle	Available
+Nagara Station	bicycle	Available
+Obitoke Station	bicycle	Available
+Miwa Station	bicycle	Available
+Kaguyama Station	bicycle	Available
+Unebi Station	bicycle	Available
+Kanahashi Station	bicycle	Available
+Takada Station	bicycle	Available
+Timonium	bicycle	Yes
+Hatakeda Station	bicycle	Available
+Shizumi Station	bicycle	Available
+Tamade Station	bicycle	Available
+Wakigami Station	bicycle	Available
+Kitauchi Station	bicycle	Available
+Gose Station	bicycle	Available
+Yoshinoguchi Station	bicycle	Available
+Kashiba Station	bicycle	Available
+Yamato-Shinjō Station	bicycle	Available
+Yamato-Futami Station	bicycle	Available
+Gojō Station	bicycle	Available
+North Avenue	bicycle	Yes
+San Rafael Transit Center	bicycle	Yes
+McMasterville	bicycle	37
+Saint-Basile-le-Grand	bicycle	143
+Longueuil–Saint-Hubert	bicycle	30
+Saint-Bruno	bicycle	35
+Mont-Saint-Hilaire	bicycle	29
+Wellesley Farms	bicycle	16
+Belmont Center	bicycle	8
+Lowell	bicycle	18
+Dune Park station	bicycle	Yes; bike rack
+Hersey	bicycle	11
+Norfolk	bicycle	8
+Carleton railway station	bicycle	yes
+Bathurst railway station	bicycle	Yes
+Jacquet River railway station	bicycle	Yes
+Charlo railway station	bicycle	Yes
+La Vergne station	bicycle	Yes; Bike Racks
+Berwyn station	bicycle	Yes; Bicycle rack
+Parry Sound railway station	bicycle	no
+Brookfield station	bicycle	Bicycle racks at Burlington and Forest Avenues
+Erode Junction railway station	bicycle	Available
+Tinley Park station	bicycle	No
+Brookline Hills	bicycle	6
+Ashburn station	bicycle	Yes; Bicycle racks
+Ramsey railway station	bicycle	Available
+Tuscany	bicycle	yes
+Jefferson Park Transit Center	bicycle	Yes
+Montello	bicycle	16
+Brockton	bicycle	8
+Lakeville	bicycle	8
+Bridgewater	bicycle	24
+Campello	bicycle	8
+Blainville	bicycle	32
+Greenwood	bicycle	6
+Wakefield	bicycle	6
+Reading	bicycle	10
+Halethorpe station	bicycle	Yes
+Ogden Dunes station	bicycle	Yes
+Awarua Street Railway Station	bicycle	No
+Simla Crescent Railway Station	bicycle	No
+Box Hill Railway Station, Wellington	bicycle	No
+Khandallah Railway Station	bicycle	No
+Raroa Railway Station	bicycle	No
+Needham Center	bicycle	6
+Needham Junction	bicycle	6
+Bellevue	bicycle	8
+Needham Heights	bicycle	6
+Muirkirk station	bicycle	Yes
+Laurel station	bicycle	Yes; 10 lockers
+Waingawa Railway Station	bicycle	No
+Dorsey station	bicycle	Yes
+Fox Lake station	bicycle	Yes
+Lynn	bicycle	14
+Salem	bicycle	100
+111th Street–Morgan Park	bicycle	Yes; Bicycle racks
+Beverly Depot	bicycle	\
+Montserrat	bicycle	7
+Beverly Farms	bicycle	7
+Manchester	bicycle	7
+West Gloucester	bicycle	Yes, 1 bike rack as well as weekend \
+Gloucester	bicycle	5
+Rockport	bicycle	7
+Wenham	bicycle	none
+Newburyport	bicycle	22
+Arkel railway station	bicycle	Bicycle parking racks and free on train
+Tinley Park – 80th Avenue station	bicycle	Yes
+South Weymouth	bicycle	10
+Whitman	bicycle	8
+Hanson	bicycle	8
+Abington	bicycle	8
+Halifax	bicycle	8
+Plymouth	bicycle	8
+Delft railway station	bicycle	Free parking for 8,700 bicycles, of which 5,000 underground
+Newtonville station	bicycle	Non-MBTA rack available
+Auburndale	bicycle	Racks available
+West Natick	bicycle	5
+Grafton	bicycle	8
+Westborough	bicycle	4
+Ballardvale	bicycle	9
+Nodeland Station	bicycle	42
+Breland Station	bicycle	No
+Marnardal Station	bicycle	Yes
+Dordrecht Stadspolders railway station	bicycle	free on train
+Gorinchem railway station	bicycle	Bicycle parking racks and free on train
+Pitt Meadows railway station	bicycle	lockers
+Maple Meadows railway station	bicycle	lockers
+Port Haney railway station	bicycle	locker
+Mission City railway station	bicycle	lockers
+Winchester Center	bicycle	27
+North Billerica	bicycle	14
+Roberts	bicycle	8
+Waltham	bicycle	8
+Kendal Green	bicycle	yes
+Lincoln	bicycle	21
+Shirley	bicycle	yes
+Fitchburg	bicycle	20
+Hardinxveld-Giessendam railway station	bicycle	Bicycle parking racks and free on train
+Leerdam railway station	bicycle	Bicycle racks and free on train
+Cantagalo Station	bicycle	Yes
+Chestnut Hill	bicycle	Yes
+Mount Barker railway station	bicycle	No
+Apache Boulevard station	bicycle	Parking on south side of Apache Boulevard in front of Grigio Metro apartment complex
+College Avenue station	bicycle	Bike station
+Bilbao-Abando railway station	bicycle	yes
+Milton	bicycle	8
+Gowanbridge Railway Station	bicycle	No
+Kawatiri Railway Station	bicycle	No
+Harvey station	bicycle	Yes; Bicycle racks
+Square One Bus Terminal	bicycle	No
+Oshawa Bus Terminal	bicycle	Yes
+Ajax Plaza Bus Terminal	bicycle	Yes
+Terminus De Montarville	bicycle	Bicycle rack with 35 spaces
+Hyannis Transportation Center	bicycle	Yes
+Arc de Triomf station	bicycle	Bicing station located nearby
+Golf station	bicycle	Yes
+Showground Central railway station	bicycle	No
+Rosewater railway station	bicycle	n/a
+Avinguda Carrilet station	bicycle	A bicycle parking rack is located in the station hall of the Llobregat–Anoia Line.
+Othello station	bicycle	Bicycle lockers
+Columbia City station	bicycle	Bicycle lockers
+Mount Baker station	bicycle	Bicycle lockers
+Beacon Hill station	bicycle	Bicycle lockers
+SODO station	bicycle	Bicycle lockers
+Tukwila station	bicycle	Bicycle locker
+Kent station	bicycle	44
+Auburn station	bicycle	Bicycle locker
+Puyallup station	bicycle	Bicycle locker
+Ashkelon Railway Station	bicycle	5
+Kusurimizu Station	bicycle	Available
+Kuzu Station	bicycle	Available
+Ōada Station	bicycle	Available
+Fukugami Station	bicycle	Available
+Koshibe Station	bicycle	Available
+Shimoichiguchi Station	bicycle	Available
+Yamato-Kamiichi Station	bicycle	Available
+Muda Station	bicycle	Available
+Yoshino Station	bicycle	Available
+Yoshino-Jingū Station	bicycle	Available
+Salt Lake City Intermodal Hub	bicycle	[[#Bicycle Transit Center
+9th Street station	bicycle	Racks available
+Morehead station	bicycle	Racks available
+Tremont station	bicycle	Racks available
+Atherton Mill station	bicycle	Racks available
+Lyttelton Railway Station	bicycle	No
+Střížkov	bicycle	No
+Prosek	bicycle	No
+Letňany	bicycle	No
+Gjønnes	bicycle	Yes
+Haslum	bicycle	Yes
+Avløs	bicycle	Yes
+Grorud Station	bicycle	Yes
+Høybråten Station	bicycle	Yes
+Blommenholm Station	bicycle	Yes
+Slependen Station	bicycle	Yes
+Billingstad Station	bicycle	Yes
+Høn Station	bicycle	Yes
+Vakås Station	bicycle	Yes
+Ljan Station	bicycle	Yes
+Hauketo Station	bicycle	Yes
+Woodville Railway Station, New Zealand	bicycle	No
+Slitu Station	bicycle	Yes
+Skotbu Station	bicycle	Yes
+Norderstedt Mitte station	bicycle	Yes
+Barmbek station	bicycle	Yes
+Library	bicycle	4
+Ballpark	bicycle	3
+Central Pointe	bicycle	5
+Millcreek	bicycle	2
+Meadowbrook	bicycle	2
+Midvale Center	bicycle	3
+Midvale Fort Union	bicycle	3
+Historic Sandy	bicycle	3
+Murray Central	bicycle	4
+Sandy Civic Center	bicycle	9
+Othmarschen station	bicycle	20
+Klein Flottbek station	bicycle	20
+Hochkamp station	bicycle	20
+Hamburg-Harburg station	bicycle	Yes
+Diebsteich station	bicycle	Rented boxes and bicycle stands
+Langenfelde station	bicycle	Yes
+Stellingen station	bicycle	No
+Eidelstedt station	bicycle	20
+Elbgaustraße station	bicycle	25
+Krupunder station	bicycle	25
+Halstenbek station	bicycle	105
+Thesdorf station	bicycle	40
+Gettysburg Railroad Station	bicycle	Yes
+Ivanhoe station	bicycle	Yes; Bicycle racks
+Pingree Road station	bicycle	Yes
+Hunt Valley	bicycle	Yes
+Epuni Railway Station	bicycle	No
+BWI Business District	bicycle	Yes
+Glen Burnie	bicycle	Yes
+Hercules Station & Terminal	bicycle	yes
+King Albert Park MRT Station	bicycle	Yes
+General Osório Station	bicycle	Yes
+Oakton–Skokie station	bicycle	yes
+Agra Fort railway station	bicycle	No
+Agra Cantonment railway station	bicycle	No
+Framingham Railroad Station	bicycle	10
+Wilhelmsburg station	bicycle	Call a bike
+Melnea Cass Boulevard	bicycle	none
+Nishi-Tawaramoto Station	bicycle	Available
+Terminus Saint-Eustache	bicycle	30
+Terminus Terrebonne	bicycle	29
+Tualatin Station	bicycle	Lockers and racks
+Calumet station	bicycle	Yes; Bicycle racks
+Providence Road station	bicycle	Yes; Bicycle Racks
+Beverly Boulevard station	bicycle	No
+Île-Bigras	bicycle	15
+Jolarpettai Junction railway station	bicycle	Available
+Agra City railway station	bicycle	No
+Sliedrecht railway station	bicycle	Bicycle parking racks and free on train
+Idgah railway station	bicycle	No
+Magnolia Avenue station	bicycle	No
+Edgemont Street station	bicycle	No
+Monroe Street station	bicycle	No
+Manchester Avenue station	bicycle	No
+Roxboro-Pierrefonds	bicycle	47
+Sunnybrooke	bicycle	21
+Grand-Moulin	bicycle	44
+Chabanel	bicycle	Forbidden
+Morgan	bicycle	Yes
+Tundla Junction railway station	bicycle	yes
+Wallaceville Railway Station	bicycle	Yes
+Trentham Railway Station	bicycle	Yes
+Heretaunga Railway Station	bicycle	?
+Silverstream Railway Station	bicycle	Yes
+Bjørnsletta	bicycle	Yes
+Bonegilla railway station	bicycle	Yes
+Bidhannagar Road railway station	bicycle	No
+Upland station	bicycle	Yes; Bicycle racks and lockers
+Lenox Street	bicycle	2
+Worcester Square	bicycle	2
+Newton Street	bicycle	2
+Union Park Street	bicycle	2
+East Berkeley Street	bicycle	2
+Herald Street	bicycle	2
+Bracebridge, Ontario railway station	bicycle	No
+Huntsville railway station	bicycle	Yes
+South River railway station	bicycle	No
+Kamarkundu railway station	bicycle	Available
+Elk River	bicycle	6
+Anoka	bicycle	12
+Big Lake	bicycle	6
+Gourinathdham railway station	bicycle	No
+Harvard Avenue	bicycle	none
+Coimbatore Junction railway station	bicycle	Yes
+Brussels National Airport railway station	bicycle	No
+Ringstabekk	bicycle	Yes
+Eugene Station	bicycle	yes
+Northgate Transit Center	bicycle	Bicycle lockers and racks
+Kuroda Station	bicycle	Available
+Tajima Station	bicycle	Available
+Ikebe Station	bicycle	None
+Hashio Station	bicycle	Available
+Samitagawa Station	bicycle	available
+Ōwada Station	bicycle	Available
+Habibganj railway station	bicycle	Available
+Vijayawada Junction railway station	bicycle	Yes
+Chembur railway station	bicycle	No
+Boven Hardinxveld railway station	bicycle	Bicycle parking racks and free on train
+Hardinxveld Blauwe Zoom railway station	bicycle	Bicycle parking racks and free on train
+Sliedrecht Baanhoek railway station	bicycle	Bicycle parking racks and free on train. Elevator in which also bycycles can be taken.
+Camp Edwards Railroad Station	bicycle	No
+Cataumet Railroad Station	bicycle	Most likely yes
+Spasskaya	bicycle	No
+Tirunelveli Junction railway station	bicycle	Available
+Ujjain Junction railway station	bicycle	Available
+Vikramnagar railway station	bicycle	Available
+MacEwan LRT Station	bicycle	Yes
+Southeast Main Street MAX Station	bicycle	bike lockers
+Southeast Division Street MAX Station	bicycle	bike lockers
+Southeast Powell Boulevard MAX Station	bicycle	bike lockers
+Southeast Holgate Boulevard MAX Station	bicycle	8
+Southeast Foster Road MAX Station	bicycle	10
+Southeast Flavel Street MAX Station	bicycle	8
+Southeast Fuller Road MAX Station	bicycle	30
+Royal Alex LRT Station	bicycle	Yes
+NAIT LRT Station	bicycle	Yes
+Danforth Avenue	bicycle	Yes
+America Plaza station	bicycle	yes
+Pukerua Bay Railway Station	bicycle	Yes
+Bellevue Transit Center	bicycle	Bicycle lockers and racks
+Khurai railway station	bicycle	Available
+Bairagarh railway station	bicycle	No
+Stade station	bicycle	Yes
+Mariachi Plaza station	bicycle	12
+Mariachi Plaza station	bicycle	8
+Arts District station	bicycle	12
+Arts District station	bicycle	4
+Saugor railway station	bicycle	Available
+Charles St. Transit Terminal	bicycle	Yes
+Lachine	bicycle	38
+Pine Beach	bicycle	28
+Valois	bicycle	22
+Pointe-Claire	bicycle	30
+Cedar Park	bicycle	22
+Beaconsfield	bicycle	78
+Beaurepaire	bicycle	31
+Baie-D'Urfé	bicycle	15
+Sainte-Anne-de-Bellevue	bicycle	15
+Terrasse-Vaudreuil	bicycle	13
+Dorion	bicycle	54
+Île-Perrot	bicycle	37
+Hudson	bicycle	7
+Vaudreuil	bicycle	25
+LaSalle	bicycle	5
+Atlantic station	bicycle	12
+Atlantic station	bicycle	16
+Maravilla station	bicycle	12
+Maravilla station	bicycle	8
+East LA Civic Center station	bicycle	20
+Soto station	bicycle	12
+Soto station	bicycle	4
+Indiana station	bicycle	12
+Indiana station	bicycle	4
+Aliso station	bicycle	12
+Aliso station	bicycle	4
+Moosonee railway station	bicycle	No
+Maksi Junction railway station	bicycle	No
+Anaheim Regional Transportation Intermodal Center	bicycle	Bike racks and 12 lockers
+Laxmibai Nagar Junction railway station	bicycle	Yes
+Saifi Nagar railway station	bicycle	Available
+Patalpani railway station	bicycle	Available
+Lokmanya Nagar railway station	bicycle	Available
+Govindpuri railway station	bicycle	Available
+Newtown Road station	bicycle	Racks available
+Angle Lake station	bicycle	Bicycle lockers and racks
+Salem Junction railway station	bicycle	Available
+Anderson Street	bicycle	Lockers available
+Essex Street	bicycle	Lockers available
+Milton Keynes Coachway	bicycle	The Coach way is connected to the Milton Keynes redway system of cycle/ pedestrian routes.
+Birlanagar Junction railway station	bicycle	No
+Indore Junction railway station	bicycle	Available
+Khandwa Junction railway station	bicycle	No
+Union Station	bicycle	Yes
+Ollur railway station	bicycle	Not Available
+Kfar Habad Railway Station	bicycle	5
+Be'er Ya'akov Railway Station	bicycle	yes
+Krishnarajapuram railway station	bicycle	Yes
+Plimmerton Railway Station	bicycle	Yes
+Ainslie St. Transit Terminal	bicycle	Yes
+USC station	bicycle	10
+Paremata Railway Station	bicycle	Yes
+USC station	bicycle	10
+Ortho Institute station	bicycle	10
+Vermont station	bicycle	10
+Western station	bicycle	10
+Farmdale station	bicycle	10
+Crenshaw station	bicycle	10
+La Brea station	bicycle	20
+Jefferson station	bicycle	12
+Jefferson station	bicycle	8
+Culver City station	bicycle	8
+Culver City station	bicycle	16
+Yavne East Railway Station	bicycle	8
+Rancho Park station	bicycle	TBD
+Sepulveda station	bicycle	TBD
+Bundy station	bicycle	Yes
+Bergamot station	bicycle	TBD
+Santa Monica College station	bicycle	TBD
+Downtown Santa Monica station	bicycle	TBD
+Grafton Railway Station	bicycle	Cycle racks on Park Road
+Niagara Falls Transit Terminal	bicycle	Bicycle parking rack
+Monrovia station	bicycle	20
+Monrovia station	bicycle	24
+Irwindale station	bicycle	14
+Irwindale station	bicycle	24
+City of Hope station	bicycle	19
+City of Hope station	bicycle	24
+Arcadia station	bicycle	20
+Arcadia station	bicycle	24
+Azusa Downtown station	bicycle	20
+Azusa Downtown station	bicycle	24
+Citrus College station	bicycle	18
+Citrus College station	bicycle	24
+Cochin Harbour Terminus railway station	bicycle	Yes
+Mandhana Junction railway station	bicycle	No
+MacArthur Square station	bicycle	Racks available
+Greenfield Village station	bicycle	No
+Lynx Central Station	bicycle	Yes
+Tatanagar Junction railway station	bicycle	Allowed
+Peera Garhi metro station	bicycle	no
+Paschim Vihar West metro station	bicycle	yes
+Williams Landing railway station	bicycle	Double Parkiteer cage
+Kirti Nagar metro station	bicycle	Yes
+Madurai Junction railway station	bicycle	Available
+Adnan Menderes Airport railway station	bicycle	Yes
+Maçanet-Massanes railway station	bicycle	A bicycle parking rack is located adjacent to the station building.
+Katpadi Junction railway station	bicycle	Yes
+Vellore Cantonment railway station	bicycle	Available
+Tiruchirappalli Junction railway station	bicycle	Yes
+Sikandarpur metro station	bicycle	yes
+City Point	bicycle	none
+Neumarkt	bicycle	Call a Bike
+Mississauga City Centre Transit Terminal	bicycle	Bicycle stand
+Punkunnam railway station	bicycle	Not Available
+Mulankunnathukavu railway station	bicycle	Available
+Sarita Vihar metro station	bicycle	Yes
+Zolotaya Niva	bicycle	No
+Swargate Bus Station	bicycle	Yes
+ Fort Norfolk station	bicycle	Racks available
+ Freemason station	bicycle	Racks available
+Civic Plaza station	bicycle	Racks available
+Ingleside Road station	bicycle	Racks available
+Military Highway station	bicycle	Racks available
+Pittsburg Center station	bicycle	Yes
+Antioch station	bicycle	Yes
+RBWH busway station	bicycle	RBWH Cycle Centre
+Äußere Kanalstraße	bicycle	Call a Bike
+Friesenplatz	bicycle	Call a Bike
+Kalk Kapelle	bicycle	Call a Bike
+Königsforst	bicycle	Call a Bike
+South Station	bicycle	\
+Te Papapa Railway Station	bicycle	No
+35th Street station	bicycle	yes
+Girona railway station	bicycle	A bicycle parking rack and a Girocleta station are located adjacent to the station's main entrance.
+Van Dorn Street station	bicycle	20
+Porirua Railway Station	bicycle	Yes
+Mana Railway Station	bicycle	Yes
+Paekakariki Railway Station	bicycle	Yes
+Kalk Post	bicycle	Call a Bike
+Appellhofplatz	bicycle	Call a Bike
+Kaveri railway station	bicycle	Not Available
+North Denver Avenue MAX Station	bicycle	Bike lockers
+Vizcaya station	bicycle	24
+Back Bay station	bicycle	40
+Back Bay station	bicycle	30
+Mahatma Gandhi bus station, Hyderabad	bicycle	Yes
+30th Street Station	bicycle	Yes
+Ebertplatz	bicycle	Call a Bike
+Jefferson County Government Center–Golden station	bicycle	6
+Satguru Ramsingh Marg metro station	bicycle	No
+Cherrybrook railway station	bicycle	40
+Norwest railway station	bicycle	30
+Kellyville railway station	bicycle	45
+Union Station	bicycle	No
+John W. Olver Transit Center	bicycle	16
+Assembly	bicycle	Racks provided
+Chicago, Burlington & Quincy Railroad Depot	bicycle	on the Rock Island Trail State Park
+Providence Park MAX Station	bicycle	Lockers
+Thrissur railway station	bicycle	Available
+Tracy Transit Center	bicycle	Yes
+Dum Dum metro station	bicycle	No
+Rajendra Nagar railway station	bicycle	Available
+Wiener Platz	bicycle	Call a bike
+Plovdiv Central railway station	bicycle	Yes
+Havana Central railway station	bicycle	yes
+Newmarket	bicycle	20
+Patsaouras Transit Plaza	bicycle	24
+Patsaouras Transit Plaza	bicycle	20
+Inter City Bus Terminal, Hyderabad	bicycle	Yes
+Arad Central Railway Station	bicycle	yes
+Ooty bus stand	bicycle	Yes
+Candiac	bicycle	7
+Delson	bicycle	7
+Saint-Constant	bicycle	42
+Sainte-Catherine	bicycle	30
+Warrensburg station	bicycle	a bicycle rack outside the Chamber of Commerce entrance on the east side of the depot
+Washington station	bicycle	None
+Baiyappanahalli metro station	bicycle	Parking available
+Swami Vivekananda Road metro station	bicycle	Parking available
+Seaford Meadows railway station	bicycle	Yes
+Seaford railway station, Adelaide	bicycle	Yes
+Mahatma Gandhi Road metro station	bicycle	Yes
+Daund Junction railway station	bicycle	Yes
+Halasuru metro station	bicycle	Yes
+Trinity metro station	bicycle	Yes
+Ghatkopar railway station	bicycle	No
+Kanjurmarg railway station	bicycle	No
+Mulund railway station	bicycle	No
+Asansol railway station	bicycle	Available
+Dombivli railway station	bicycle	No
+Kalyan Junction railway station	bicycle	Yes
+Juárez	bicycle	Yes
+Refugio	bicycle	Yes
+Marine Lines railway station	bicycle	No
+Bandra railway station	bicycle	No
+Fakiragram railway station	bicycle	No
+Vile Parle railway station	bicycle	No
+Kandivali railway station	bicycle	No
+Dahisar railway station	bicycle	No
+Davangere railway station	bicycle	Yes
+Badlapur railway station	bicycle	No
+Ambarnath railway station	bicycle	No
+Vangani railway station	bicycle	No
+Ambivli railway station	bicycle	Yes
+Khardi railway station	bicycle	No
+Kasara railway station	bicycle	No
+Goshainganj railway station	bicycle	Available
+Lucknow Charbagh railway station	bicycle	Available
+CBD Belapur railway station	bicycle	Yes
+Abada railway station	bicycle	No
+Ghansoli railway station	bicycle	parking available
+Oakland International Airport station	bicycle	None provided by BART, but by the Airport
+Faizabad Junction railway station	bicycle	Available
+Ayodhya Junction railway station	bicycle	Available
+Akbarpur Junction railway station	bicycle	Available
+Terminus Henri-Bourassa	bicycle	South: 67 places in racks
+Guruvayur railway station	bicycle	Available
+Udhagamandalam railway station	bicycle	Yes
+Jhansi Junction railway station	bicycle	Yes
+Wadakkanchery railway station	bicycle	Available
+Roscoe station	bicycle	12
+Roscoe station	bicycle	8
+Nordhoff station	bicycle	12
+Nordhoff station	bicycle	8
+Kankinara railway station	bicycle	No
+Koderma Junction railway station	bicycle	Not Available
+Muri railway station	bicycle	No
+Muzaffarpur Junction railway station	bicycle	Available
+Irinjalakuda railway station	bicycle	Available
+Chalakudi railway station	bicycle	Yes
+Sant Adrià de Besòs railway station	bicycle	A bicycle parking rack is located adjacent to the Rodalies de Catalunya station building.
+Koratty railway station	bicycle	No
+Bareilly Junction railway station	bicycle	Available
+Rockford	bicycle	Yes
+Boston Landing	bicycle	Bicycle racks; Hubway bikeshare station
+College Avenue	bicycle	\
+Washington Street	bicycle	\
+Union Square	bicycle	\
+Palma Intermodal Station	bicycle	45
+Northwest Plano Park & Ride	bicycle	TBD
+Freeport station	bicycle	Yes
+Galena station	bicycle	Yes
+Dubuque Intermodal Transportation Center	bicycle	Yes
+Springfield railway station, Ipswich	bicycle	100
+Springfield Central railway station	bicycle	120
+St Clair railway station	bicycle	No
+Lena	bicycle	Yes
+Roosevelt station	bicycle	Yes
+Dildarnagar railway station	bicycle	Available
+Estació del Nord	bicycle	Yes
+West Harbour GO Station	bicycle	Yes
+Brampton Gateway Terminal	bicycle	bike rack/shelter
+Mughalsarai Junction railway station	bicycle	No
+Tiruvottiyur railway station	bicycle	available
+Onehunga Railway Station	bicycle	No
+Sambalpur railway station	bicycle	Available
+Gondia Junction railway station	bicycle	Available
+Chhindwara railway station	bicycle	Available
+Purulia railway station	bicycle	?
+Essen	bicycle	Yes
+Kakinada Port railway station	bicycle	Not available
+Joychandi Pahar railway station	bicycle	Not available
+Bero railway station	bicycle	Not available
+Nasik Road railway station	bicycle	Not available
+Tikiapara railway station	bicycle	No
+Panskura railway station	bicycle	Yes
+Haldia railway station	bicycle	Yes
+Digha railway station	bicycle	yes
+Uluberia railway station	bicycle	Yes
+Barddhaman Junction railway station	bicycle	Yes
+Dankuni railway station	bicycle	Yes
+Masagram railway station	bicycle	Yes
+Sheoraphuli railway station	bicycle	Yes
+Puducherry railway station	bicycle	Available
+Tarakeswar railway station	bicycle	Yes
+Saktigarh railway station	bicycle	Yes
+Gorakhpur Junction railway station	bicycle	Available
+Bishnupur railway station	bicycle	Yes
+Hooghly railway station	bicycle	Yes
+Mattuthavani Bus Terminus	bicycle	Yes
+Durgapur railway station	bicycle	Yes
+Andal railway station	bicycle	Yes
+Raniganj railway station	bicycle	Yes
+Bokaro Steel City railway station	bicycle	Yes
+Chandrapura railway station	bicycle	No
+Netaji Subhas Chandra Bose Gomoh railway station	bicycle	No
+Nimiaghat railway station	bicycle	No
+Bhojudih railway station	bicycle	No
+Damodar railway station	bicycle	No
+Padrauna railway station	bicycle	NO
+Sudamdih railway station	bicycle	No
+Katwa railway station	bicycle	No
+Bangaon railway station	bicycle	No
+Hasnabad railway station	bicycle	No
+Naihati railway station	bicycle	No
+Ranaghat railway station	bicycle	No
+Liluah railway station	bicycle	Available
+Dum Dum railway station	bicycle	No
+Madhukunda railway station	bicycle	No
+Golokganj railway station	bicycle	No
+Dhubri railway station	bicycle	No
+New Bongaigaon Junction railway station	bicycle	Yes
+Rangiya Junction railway station	bicycle	No
+Lumding Junction railway station	bicycle	No
+Red Rocks College station	bicycle	Racks
+Federal Center station	bicycle	11
+Oak station	bicycle	4
+Lakewood–Wadsworth station	bicycle	Racks and lockers
+Lamar station	bicycle	None
+Garrison station	bicycle	None
+Perry station	bicycle	6
+Knox station	bicycle	6
+Decatur–Federal station	bicycle	10
+Sheridan station	bicycle	8
+Dibrugarh railway station	bicycle	No
+New Tinsukia railway station	bicycle	Yes
+Dimapur railway station	bicycle	No
+Makum railway station	bicycle	No
+Leimert Park station	bicycle	TBD
+Hyde Park station	bicycle	TBD
+Martin Luther King Jr. station	bicycle	TBD
+Downtown Inglewood station	bicycle	TBD
+Fairview Heights station	bicycle	TBD
+Veterans station	bicycle	TBD
+Century station	bicycle	TBD
+Pennsauken Transit Center	bicycle	Racks available
+Evergem railway station	bicycle	1
+Allahabad Junction railway station	bicycle	Yes
+Mirzapur railway station	bicycle	No
+Arakkonam Junction railway station	bicycle	available
+Barachak railway station	bicycle	?
+La Brea station	bicycle	TBD
+Fairfax station	bicycle	TBD
+Dehri-on-Sone railway station	bicycle	Yes
+Fatehpur railway station	bicycle	No
+Unnao Junction railway station	bicycle	No
+Chunar railway station	bicycle	No
+San Bernardino Transit Center	bicycle	yes
+Sam Sen Railway Station	bicycle	yes
+Chandauli Majhwar railway station	bicycle	No
+Bang Sue Junction Railway Station	bicycle	yes
+Mainpuri railway station	bicycle	No
+Etah railway station	bicycle	No
+Hathras Junction railway station	bicycle	No
+Ayutthaya Railway Station	bicycle	yes
+Yommarat Railway Halt	bicycle	yes
+Aligarh Junction railway station	bicycle	No
+Firozabad railway station	bicycle	No
+Shikohabad railway station	bicycle	No
+Ghaziabad Junction railway station	bicycle	Yes
+Mathura Junction railway station	bicycle	No
+Vrindavan railway station	bicycle	No
+Bhuteshwar railway station	bicycle	No
+Raja ki Mandi railway station	bicycle	No
+Yamuna Bridge railway station	bicycle	No
+Divine Nagar railway station	bicycle	Yes
+Faridabad railway station	bicycle	No
+Faridabad New Town railway station	bicycle	No
+Tughlakabad railway station	bicycle	No
+Mariani Junction railway station	bicycle	Yes
+Palasa railway station	bicycle	No
+Nellayi railway station	bicycle	Not Available
+Muradi railway station	bicycle	No
+Ramkanali railway station	bicycle	No
+North Brunswick	bicycle	Yes
+Prealpino	bicycle	488
+Kalka railway station	bicycle	No
+Ambala Cantonment Junction railway station	bicycle	No
+Jubilee Bus Station	bicycle	Yes
+Thiruvannamalai Junction railway station	bicycle	Available
+Tiruvannamalai Town railway station	bicycle	Available
+New Maynaguri railway station	bicycle	?
+Raninagar Jalpaiguri Junction railway station	bicycle	Available
+Nalbari railway station	bicycle	Yes
+Bhagat Ki Kothi railway station	bicycle	Yes
+Aegidientorplatz	bicycle	No
+Hochkreuz	bicycle	No
+Delhi Cantonment railway station	bicycle	No
+Wien Liesing railway station	bicycle	59
+Kollam Junction railway station	bicycle	Available
+Khajuraho railway station	bicycle	No
+Balharshah Junction railway station	bicycle	No
+Kazipet Junction railway station	bicycle	No
+Solapur railway station	bicycle	No
+Kurduvadi Junction railway station	bicycle	No
+Guntakal Junction railway station	bicycle	No
+Bijapur railway station	bicycle	No
+Gulbarga railway station	bicycle	No
+Raichur railway station	bicycle	No
+Bidar railway station	bicycle	No
+Bangarapet railway station	bicycle	No
+Virudhachalam Junction railway station	bicycle	No
+Thanjavur Junction railway station	bicycle	No
+Ponmalai	bicycle	Yes
+Sherman Way station	bicycle	12
+Sherman Way station	bicycle	16
+Karaikal railway station	bicycle	Available
+Sochi railway station	bicycle	yes
+Moradabad railway station	bicycle	No
+Chandausi railway station	bicycle	No
+Chathiram Bus Station, Tiruchirappalli	bicycle	Yes
+Jacob Circle monorail station	bicycle	No
+Atari Shyam Singh railway station	bicycle	No
+Amritsar Junction railway station	bicycle	No
+Imeretinsky Kurort railway station	bicycle	yes
+Ludhiana Junction railway station	bicycle	No
+Jalandhar City railway station	bicycle	No
+Chembur monorail station	bicycle	No
+Bhakti Park monorail station	bicycle	No
+Wadala Depot	bicycle	No
+Mysore Colony monorail station	bicycle	No
+Central Bus Station, Tiruchirappalli	bicycle	Yes
+Bharat Petroleum monorail station	bicycle	No
+Fertiliser Township monorail station	bicycle	No
+Jalandhar Cantonment railway station	bicycle	No
+Pathankot Junction railway station	bicycle	No
+Adelaide Showground railway station	bicycle	Yes
+Pathankot Cantonment railway station	bicycle	No
+Mukerian railway station	bicycle	No
+Batala railway station	bicycle	No
+Fazilka railway station	bicycle	No
+Firozpur Cantonment railway station	bicycle	No
+Phagwara railway station	bicycle	No
+Sahnewal railway station	bicycle	No
+Chandigarh Junction railway station	bicycle	No
+Sirhind railway station	bicycle	No
+Mandi Gobindgarh railway station	bicycle	No
+Jakhal Junction railway station	bicycle	No
+Jind Junction railway station	bicycle	No
+Panipat Junction railway station	bicycle	No
+Tilaiya Junction railway station	bicycle	No
+Bereket Railway Station	bicycle	yes
+Oboý Railway Station	bicycle	yes
+Lalru railway station	bicycle	Yes
+300 East	bicycle	None
+South Salt Lake City	bicycle	None
+700 East	bicycle	None
+Sugarmont	bicycle	None
+500 East	bicycle	None
+Fairmont	bicycle	None
+Sand Lake Road station	bicycle	Yes
+Abu Road railway station	bicycle	No
+Cudgegong Road railway station	bicycle	45
+Bella Vista railway station	bicycle	30
+Showground railway station	bicycle	40
+Pushkar Terminus railway station	bicycle	No
+Mahesana railway station	bicycle	No
+Lucknow Junction railway station	bicycle	Available
+Marwar Junction railway station	bicycle	No
+Janai Road railway station	bicycle	Yes
+Munabao railway station	bicycle	No
+Bikaner Junction railway station	bicycle	No
+DeBary station	bicycle	Yes
+Florida Hospital Health Village station	bicycle	Yes
+Bathinda Junction railway station	bicycle	No
+Bhiwani Junction railway station	bicycle	No
+Sanford station	bicycle	Yes
+Wien Hetzendorf railway station	bicycle	Yes
+Longwood station	bicycle	Yes
+Maitland station	bicycle	Yes
+Altamonte Springs station	bicycle	Yes
+Lake Mary station	bicycle	Yes
+Pudukkottai railway station	bicycle	Yes
+Karaikudi Junction railway station	bicycle	Yes
+Ghatkopar metro station	bicycle	No
+Ajmer Junction railway station	bicycle	No
+Holyoke station	bicycle	Yes
+VNP and RC Marg monorail station	bicycle	No
+Ventspils Coach Terminal	bicycle	yes
+Hotgi Junction railway station	bicycle	Yes
+Hubli Junction railway station	bicycle	Yes
+Barbur Boulevard Transit Center	bicycle	Bike racks and lockers
+Mhow railway station	bicycle	Available
+Rau railway station	bicycle	Available
+Belvidere	bicycle	Yes
+Huntley	bicycle	Yes
+Oshiwara railway station	bicycle	No
+Coonoor railway station	bicycle	Yes
+Kurukshetra Junction railway station	bicycle	No
+Science Centre station	bicycle	Indoor bike parking
+Bussero	bicycle	96
+Wellington railway station	bicycle	Yes
+Aravankadu railway station	bicycle	Yes
+Ketti railway station	bicycle	Yes
+Lovedale railway station	bicycle	Yes
+Vicente de Carvalho Station	bicycle	Yes
+South 11th Street station	bicycle	Bicycle lockers
+Lexington station	bicycle	No
+North Carolina State Fair station	bicycle	No
+Clifton station	bicycle	Yes; Bicycle Racks
+Billstedt	bicycle	Bike and ride
+Motichur railway station	bicycle	Yes
+Jagadhri railway station	bicycle	No
+Wandsbek-Gartenstadt	bicycle	Bike and ride
+Tomken station	bicycle	lock up area with racks
+Dixie station	bicycle	lock up area with racks
+Cawthra station	bicycle	lock up area with racks
+Central Parkway station	bicycle	lock up area with racks
+Erin Mills GO Station	bicycle	Shelters
+Winston Churchill GO Station	bicycle	shelters
+Kryvyi Rih Main Station	bicycle	No
+Gorakhpur Cantonment railway station	bicycle	Not available
+Ladner Exchange	bicycle	Racks and lockers available
+Pachora Junction railway station	bicycle	Yes
+Amalner railway station	bicycle	Yes
+Dharangaon railway station	bicycle	Yes
+Hindaun City railway station	bicycle	Yes Available
+Johnson Creek MAX Station	bicycle	bike lockers, bike & ride
+Bodwad railway station	bicycle	Yes
+Agomani Railway Station	bicycle	Yes
+Raver railway station	bicycle	Yes
+Staples Mill station	bicycle	TBD
+Robinson station	bicycle	TBD
+Allison station	bicycle	TBD
+Shafer station	bicycle	TBD
+9th Street station	bicycle	TBD
+12th Street station	bicycle	TBD
+Willow Lawn station	bicycle	TBD
+Rocketts Landing station	bicycle	TBD
+Adams Street	bicycle	TBD
+Belur railway station	bicycle	Available
+Nandurbar railway station	bicycle	Yes
+Gooty Junction railway station	bicycle	Yes
+Dharmavaram Junction railway station	bicycle	Yes
+Penukonda Junction railway station	bicycle	Yes
+Central Station	bicycle	sidewalk racks
+Mohali Bus Stand	bicycle	Yes
+Kirakat railway station	bicycle	Yes
+ECIL Bus Station	bicycle	Yes
+Hindaun City bus depot	bicycle	Yes
+SAS Nagar Mohali railway station	bicycle	No
+Witchduck station	bicycle	Racks available
+Virginia Beach Town Center station	bicycle	Racks available
+Southwest 3rd Avenue MAX Station	bicycle	8
+Shri Mahabirji railway station	bicycle	Available
+Overlake Transit Center	bicycle	Bicycle lockers and racks
+Mountlake Terrace Transit Center	bicycle	Bicycle lockers and racks
+Cleveland station	bicycle	TBD
+24th Street station	bicycle	TBD
+Fateh Singhpura railway station	bicycle	Available
+38th & Blake station	bicycle	6
+Yavatmal Terminus railway station	bicycle	Yes
+Udaipur City railway station	bicycle	Available
+Gare de Saverne	bicycle	yes
+Gare de Dachstein	bicycle	yes
+Jardim Oceânico Station	bicycle	Yes
+Gare de Duppigheim	bicycle	yes
+Udaipur City Bus Depot	bicycle	Yes
+Arappalayam Bus Terminus	bicycle	Yes
+Gare de Molsheim	bicycle	yes
+Windsor International Transit Terminal	bicycle	Bicycle parking rack
+Honolulu International Airport station	bicycle	Yes
+Hingoli Deccan railway station	bicycle	Yes
+Achalpur railway station	bicycle	Yes
+Keppel MRT Station	bicycle	Yes
+Bhadrak railway station	bicycle	No
+Varanasi City railway station	bicycle	Available
+Viluppuram Bus Station	bicycle	Yes
+Main Street MAX Station	bicycle	12
+Southeast Park Avenue MAX Station	bicycle	74
+Southwest Moody MAX Station	bicycle	28
+Southeast Water MAX Station	bicycle	32
+Southeast 12th Avenue MAX Station	bicycle	52
+Southeast 17th Avenue and Rhine Street MAX Station	bicycle	8
+Southeast 17th Avenue and Holgate Boulevard MAX Station	bicycle	16
+Sochi Airport railway station	bicycle	yes
+Maharana Pratap Inter State Bus Terminus	bicycle	no
+Cantonment MRT Station	bicycle	Yes
+Babatpur railway station	bicycle	Available
+Kashi railway station	bicycle	Available
+Tiruvannamalai Central Bus Station	bicycle	Yes
+Jajpur Keonjhar Road railway station	bicycle	No
+Chintaman Ganesh railway station	bicycle	Available
+Ambedkar Nagar monorail station	bicycle	No
+Jaunpur City railway station	bicycle	Available
+Haranya Kheri railway station	bicycle	Yes
+Fatehabad Chandrawatiganj Junction railway station	bicycle	Yes
+Akkalkot Road railway station	bicycle	No
+Badnagar railway station	bicycle	Available
+Gandhinagar Capital railway station	bicycle	Available
+Kalol railway station	bicycle	Available
+Purabsarai railway station	bicycle	Available
+Patia railway station	bicycle	Available
+Vani Vihar railway station	bicycle	Available
+Mancheswar railway station	bicycle	Available
+New Bhubaneswar railway station	bicycle	Available
+Lajpat Nagar railway station	bicycle	Available
+Patel Nagar railway station	bicycle	Available
+Kirti Nagar railway station	bicycle	Available
+Dharwad railway station	bicycle	Available
+Manjari railway station	bicycle	No
+Loni railway station	bicycle	No
+Urali railway station	bicycle	No
+Yawat railway station	bicycle	No
+Jejuri railway station	bicycle	No
+Satara railway station	bicycle	No
+Rajgurunagar railway station	bicycle	Available
+Mohitnagar railway station	bicycle	Available
+Neemuch railway station	bicycle	Available
+Mandsaur railway station	bicycle	Available
+New Amravati railway station	bicycle	Available
+Braine-l'Alleud railway station	bicycle	yes
+Mount Timpanogos Transit Center	bicycle	Racks, but no lockers
+Amethi railway station	bicycle	No
+Acharya Narendra Dev Nagar railway station	bicycle	No
+Central Bus Station Kumbakonam	bicycle	Yes
+Central Bus Terminus Salem	bicycle	Yes
+Town Bus Terminus Salem	bicycle	Yes
+Budhni railway station	bicycle	Available
+Bhandara Road railway station	bicycle	Available
+Koka railway station	bicycle	Available
+Tumsar Road Junction railway station	bicycle	Available
+Dongri Buzurg railway station	bicycle	Available
+Gobarwahi railway station	bicycle	Available
+Chicholi railway station	bicycle	Available
+Mitewani railway station	bicycle	Available
+Tumsar Town railway station	bicycle	Available
+Khat railway station	bicycle	Available
+Kathgodam railway station	bicycle	No
+Devlali railway station	bicycle	No
+Ankleshwar railway station	bicycle	No
+Bhachau railway station	bicycle	Yes
+Palwal railway station	bicycle	Available
+Jhajjar railway station	bicycle	Available
+Rohtak Junction railway station	bicycle	Available
+Baruipara railway station	bicycle	Yes
+Jhalawar City railway station	bicycle	No
+Diphu railway station	bicycle	No
+Bhulanpur railway station	bicycle	No
+Panki railway station	bicycle	Yes
+Farrukhabad Junction railway station	bicycle	No
+Adityapur Railway Station	bicycle	No
+Madurai East railway station	bicycle	No
+Haldwani railway station	bicycle	No
+Lalkuan Junction railway station	bicycle	No
+Ramnagar railway station	bicycle	No
+Bhilawadi railway station	bicycle	No
+Koregaon railway station	bicycle	No
+Purna Junction railway station	bicycle	No
+Chanda Fort railway station	bicycle	No
+Babupeth railway station	bicycle	No
+Vivekanand Nagar railway station	bicycle	No
+Hisar Junction railway station	bicycle	No
+Bathinda Cantonment railway station	bicycle	No
+Sikar Junction railway station	bicycle	No
+Rewa Terminal railway station	bicycle	No
+Marwar Ranawas railway station	bicycle	No
+Ashoknagar railway station	bicycle	No
+Arsikere Junction railway station	bicycle	No
+Akot railway station	bicycle	No
+Dalli-Rajhara railway station	bicycle	No
+Gurdaspur railway station	bicycle	No
+Sadar Bazar railway station	bicycle	Available
+Shakur Basti railway station	bicycle	Available
+Chhatrapur railway station	bicycle	No
+Hoshiarpur railway station	bicycle	No
+Harda railway station	bicycle	No
+Hanumangarh Junction railway station	bicycle	No
+Rae Bareli Junction railway station	bicycle	No
+Harsud railway station	bicycle	No
+Tumsar Road railway station	bicycle	No
+Barhan railway station	bicycle	No
+Karwar railway station	bicycle	No
+Udupi railway station	bicycle	No
+Vindhyachal railway station	bicycle	No
+Adarshnagar railway station	bicycle	No
+Akaltara railway station	bicycle	No
+Adarsh Nagar railway station	bicycle	Available
+Amli railway station	bicycle	No
+Amla Junction railway station	bicycle	No
+Ambassa railway station	bicycle	No
+Udaipur Tripura railway station	bicycle	No
+Bhilai Power House railway station	bicycle	No
+Bhilai Nagar railway station	bicycle	No
+Buxar railway station	bicycle	No
+Badli railway station	bicycle	No
+Bokaro Thermal railway station	bicycle	No
+Bilaspur Road railway station	bicycle	No
+Barog railway station	bicycle	No
+Bazpur railway station	bicycle	No
+Bairabi railway station	bicycle	No
+Champa Junction railway station	bicycle	No
+Canacona railway station	bicycle	No
+Chandi Mandir railway station	bicycle	No
+Dhar railway station	bicycle	No
+Castle Rock railway station	bicycle	No
+Churu Junction railway station	bicycle	No
+Chauri Chaura railway station	bicycle	No
+Chodiala railway station	bicycle	No
+Safdarjung railway station	bicycle	Available
+Delhi Shahdara Junction railway station	bicycle	Available
+Dharmpur Himachal railway station	bicycle	No
+Guna Junction railway station	bicycle	No
+Gevra Road railway station	bicycle	No
+Fatehpur Sekhawati railway station	bicycle	No
+Dabra railway station	bicycle	No
+Dwarka railway station	bicycle	No
+Dholpur Junction railway station	bicycle	No
+Hindupur Junction railway station	bicycle	No
+Hanumangarh Town railway station	bicycle	No
+Hathras City railway station	bicycle	No
+Hathras Kila railway station	bicycle	No
+Hathras Road railway station	bicycle	No
+Hooghly Ghat railway station	bicycle	No
+Idar railway station	bicycle	No
+Jagdalpur railway station	bicycle	No
+Jawalamukhi Road railway station	bicycle	No
+Jawad Road railway station	bicycle	No
+Jhalawar Road railway station	bicycle	No
+Jam Jodhpur Junction railway station	bicycle	No
+Kachhwa Road railway station	bicycle	No
+Korba railway station	bicycle	No
+Khera Kalan railway station	bicycle	Available
+Kirloskarvadi railway station	bicycle	No
+Latehar railway station	bicycle	No
+Luni Junction railway station	bicycle	No
+Mithila Deep railway station	bicycle	No
+Nirmali railway station	bicycle	No
+Madhubani railway station	bicycle	No
+Majorda Junction railway station	bicycle	No
+Vadnagar railway station	bicycle	No
+Mandideep railway station	bicycle	No
+Sanchi railway station	bicycle	No
+Tarana Road railway station	bicycle	No
+Naikheri railway station	bicycle	No
+Meghnagar railway station	bicycle	No
+Mandla Fort railway station	bicycle	No
+Madha railway station	bicycle	No
+Naya Azadpur railway station	bicycle	Available
+Narela railway station	bicycle	Available
+Naraina railway station	bicycle	No
+Nangloi railway station	bicycle	No
+Nawada railway station	bicycle	No
+Janjgir Naila railway station	bicycle	No
+New Ghaziabad railway station	bicycle	No
+Orai railway station	bicycle	No
+Pendra Road railway station	bicycle	No
+Palam railway station	bicycle	No
+Palampur Himachal railway station	bicycle	No
+Parli Vaijnath railway station	bicycle	yes
+Beed railway station	bicycle	No
+Pantnagar railway station	bicycle	No
+Quarry Siding railway station	bicycle	No
+Raigarh railway station	bicycle	No
+Ram Dayalu Nagar railway station	bicycle	No
+Ranjangaon Road railway station	bicycle	No
+Ringas Junction railway station	bicycle	No
+Raiwala railway station	bicycle	No
+Sasan Gir railway station	bicycle	No
+Rudrapur railway station	bicycle	No
+Visavadar Junction railway station	bicycle	No
+Sachin railway station	bicycle	No
+Curchorem railway station	bicycle	Yes
+Shivaji Bridge railway station	bicycle	Available
+Shimla railway station	bicycle	No
+Solan railway station	bicycle	No
+Tanakpur railway station	bicycle	No
+Una Himachal railway station	bicycle	No
+Uppal railway station	bicycle	No
+Vijaypur Jammu railway station	bicycle	No
+Vikramgarh Alot railway station	bicycle	No
+Saswad Road railway station	bicycle	No
+Lekoda railway station	bicycle	No
+Taradgaon railway station	bicycle	No
+Baramati railway station	bicycle	No
+Sangawi railway station	bicycle	No
+Bir railway station	bicycle	No
+Barwaha railway station	bicycle	No
+Omkareshwar Road railway station	bicycle	No
+Gudum railway station	bicycle	No
+Shajapur railway station	bicycle	No
+Darjeeling railway station	bicycle	No
+Sivok railway station	bicycle	No
+Old Malda Junction railway station	bicycle	No
+Rangpo railway station	bicycle	No
+Itahar Junction railway station	bicycle	No
+Adhikari railway station	bicycle	No
+Raxaul Junction railway station	bicycle	No
+Barmer railway station	bicycle	No
+Balrampur railway station	bicycle	No
+Nautanwa railway station	bicycle	No
+Bhikhna Thori railway station	bicycle	No
+Sanu railway station	bicycle	No
+Gadra Road railway station	bicycle	No
+Mahamandir railway station	bicycle	Yes
+Basni railway station	bicycle	Yes
+Jodhpur Cantt railway station	bicycle	No
+Mandor railway station	bicycle	No
+Banar railway station	bicycle	No
+Salawas railway station	bicycle	No
+Gurgaon railway station	bicycle	No
+Gautampura Road railway station	bicycle	Yes
+Pataudi Road railway station	bicycle	No
+Okhla railway station	bicycle	Available
+Lodhi Colony railway station	bicycle	Available
+Tilak Bridge railway station	bicycle	Available
+Pragati Maidan railway station	bicycle	Available
+Modinagar railway station	bicycle	No
+Baghpat Road railway station	bicycle	No
+Dadri railway station	bicycle	No
+Farrukhnagar railway station	bicycle	No
+Garhi Harsaru Junction railway station	bicycle	No
+Amroha railway station	bicycle	No
+Najibabad Junction railway station	bicycle	No
+Bijnor railway station	bicycle	No
+Kashipur Junction railway station	bicycle	No
+Shamli railway station	bicycle	No
+Ambikeshwar railway station	bicycle	No
+Ajanti railway station	bicycle	No
+Anandpur Sahib railway station	bicycle	No
+Belthara Road railway station	bicycle	No
+Amausi railway station	bicycle	No
+Manak Nagar railway station	bicycle	No
+Bhavnagar Para railway station	bicycle	Yes
+Burnpur railway station	bicycle	Yes
+Gomti Nagar railway station	bicycle	No
+Bhiwani City railway station	bicycle	No
+Gandhi Smarak Road railway station	bicycle	Yes
+Dehar Ka Balaji Railway Station	bicycle	Yes
+Getor Jagatpura Railway Station	bicycle	Yes
+Bais Godam railway station	bicycle	Yes
+Kanakpura Railway Station	bicycle	Yes
+Ghaggar railway station	bicycle	Yes
+Karchha railway station	bicycle	Yes
+Parbhani Junction railway station	bicycle	Yes
+Washim railway station	bicycle	No
+Manwath Road railway station	bicycle	No
+Ispatnagar railway station	bicycle	No
+Radhagaon railway station	bicycle	No
+Mathura Cantt railway station	bicycle	No
+Uran City railway station	bicycle	No
+Paradeep railway station	bicycle	No
+Murhesi Rampur railway station	bicycle	No
+Vrindaban Road railway station	bicycle	No
+Fatehpur Sikri railway station	bicycle	No
+Morena railway station	bicycle	Yes
+Pt Ram Prasad Bismil railway station	bicycle	No
+Shivpuri railway station	bicycle	Yes
+Bhilwara railway station	bicycle	Yes
+Falna railway station	bicycle	No
+Rani railway station	bicycle	No
+Budha Pushkar Halt railway station	bicycle	No
+Madar Junction railway station	bicycle	Yes
+Phaphund railway station	bicycle	Yes
+Kengeri railway station	bicycle	Yes
+Bina Junction railway station	bicycle	Yes
+Burhanpur railway station	bicycle	No
+Nepanagar railway station	bicycle	No
+Asirgarh Road railway station	bicycle	No
+Sri Ganganagar railway station	bicycle	No
+Anupgarh railway station	bicycle	No
+Suratgarh Junction railway station	bicycle	Yes
+Lalgarh Junction railway station	bicycle	No
+Phulera Junction railway station	bicycle	No
+Sambhar Lake Town railway station	bicycle	No
+Renukoot railway station	bicycle	No
+Robertsganj railway station	bicycle	No
+Singrauli railway station	bicycle	No
+Shaktinagar Terminal railway station	bicycle	No
+Asarva Junction railway station	bicycle	Yes
+Chak Rakhwal railway station	bicycle	No
+Ram Nagar railway station	bicycle	No
+Sangar railway station	bicycle	No
+Bajalta railway station	bicycle	No
+Chhota Udaipur railway station	bicycle	No
+Iserbrook station	bicycle	90
+Sülldorf station	bicycle	yes
+Rissen station	bicycle	yes
+Central Park station	bicycle	8
+Hosapete Junction railway station	bicycle	Yes
+40th & Colorado station	bicycle	12
+Peoria station	bicycle	10
+Adoni railway station	bicycle	No
+Mirzapur-Bankipur railway station	bicycle	Yes
+Balarambati railway station	bicycle	Yes
+Shrirampur railway station	bicycle	Yes
+Barrackpore railway station	bicycle	No
+Aishbagh Junction railway station	bicycle	Available
+Badshahnagar railway station	bicycle	Available
+Westminster station	bicycle	20
+Transport Nagar Railway station	bicycle	Available
+Daliganj junction railway station	bicycle	Available
+Faizabad Bus Depot	bicycle	Yes
+Rajesultanpur Bus Station	bicycle	Yes
+Delhi Kishanganj railway station	bicycle	Available
+Swami Vivekanand Inter State Bus Terminus	bicycle	no
+Malanpur railway station	bicycle	No
+96th Street	bicycle	TBD
+Shrirangapattana railway station	bicycle	Yes
+Warisaliganj railway station	bicycle	No
+Hatkanangale railway station	bicycle	No

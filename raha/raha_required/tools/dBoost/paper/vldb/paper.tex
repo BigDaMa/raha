@@ -1,0 +1,78 @@
+% THIS IS AN EXAMPLE DOCUMENT FOR VLDB 2012
+% based on ACM SIGPROC-SP.TEX VERSION 2.7
+% Modified by  Gerald Weber <gerald@cs.auckland.ac.nz>
+% Removed the requirement to include *bbl file in here. (AhmetSacan, Sep2012)
+% Fixed the equation on page 3 to prevent line overflow. (AhmetSacan, Sep2012)
+
+\documentclass[]{vldb}
+
+\input{preamble}
+
+\begin{document}
+
+% ****************** TITLE ****************************************
+
+% TODO: "dBoost: " User-Guided
+%\title{User-Guided Outlier Detection in Heterogeneous Datasets}
+\title{Outlier Detection in Heterogeneous Datasets using Automatic Tuple Expansion}
+
+% ****************** AUTHORS **************************************
+
+% You need the command \numberofauthors to handle the 'placement
+% and alignment' of the authors beneath the title.
+%
+% For aesthetic reasons, we recommend 'three authors at a time'
+% i.e. three 'name/affiliation blocks' be placed beneath the title.
+%
+% NOTE: You are NOT restricted in how many 'rows' of
+% "name/affiliations" may appear. We just ask that you restrict
+% the number of 'columns' to three.
+%
+% Because of the available 'opening page real-estate'
+% we ask you to refrain from putting more than six authors
+% (two rows with three columns) beneath the article title.
+% More than six makes the first-page appear very cluttered indeed.
+%
+% Use the \alignauthor commands to handle the names
+% and affiliations for an 'aesthetic maximum' of six authors.
+% Add names, affiliations, addresses for
+% the seventh etc. author(s) as the argument for the
+% \additionalauthors command.
+% These 'additional authors' will be output/set for you
+% without further effort on your part as the last section in
+% the body of your article BEFORE References or any Appendices.
+
+
+\newcommand{\MITauthor}[2]{#1\\\affaddr{MIT CSAIL}\\\email{#2@mit.edu}}
+\newcommand{\CSAILauthor}[2]{#1\\\affaddr{MIT CSAIL}\\\email{#2@csail.mit.edu}}
+
+\numberofauthors{3}
+\author{
+  \alignauthor\MITauthor{Clément Pit-\kern0pt-Claudel}{cpitcla} 
+  \alignauthor\MITauthor{Zelda Mariet}{zmariet} \\\vspace{0.2in} \CSAILauthor{Sam Madden}{madden}
+  \alignauthor\MITauthor{Rachael Harding}{rhardin} 
+}
+
+\date{10 December 2014} %TODO
+
+\maketitle
+
+\input{abstract}
+
+\input{introduction}
+\input{implementation}
+\input{evaluation}
+\input{related-work}
+\input{future-work}
+\input{conclusion}
+\input{acknowledgments}
+
+\balance
+\bibliographystyle{abbrv}
+\bibliography{paper.bib}
+
+
+\clearpage
+\input{plots}
+
+\end{document}

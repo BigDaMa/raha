@@ -1,0 +1,16 @@
+{
+    "source" : {
+        "url" : "memory:nadeefdb;create=true",
+        "type" : "derbymemory",
+        "username" : "nadeefdb",
+        "password" : "nadeefdb"
+    },
+    "rule" : [
+        {
+            "type" : "udf",
+            "table" : ["tb_location"],
+            "target" : ["location_copy"],
+            "value" : ["qa.qcri.nadeef.test.udf.MyRule2"]
+        }
+    ]
+}

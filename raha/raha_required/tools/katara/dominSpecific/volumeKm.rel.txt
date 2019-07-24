@@ -1,0 +1,229 @@
+Baltic Sea	volumeKm	21700
+Kara Sea	volumeKm	121000
+North Sea	volumeKm	54000
+Norwegian Sea	volumeKm	2000000
+Lake Maracaibo	volumeKm	280
+Coral Sea	volumeKm	11470000
+Laptev Sea	volumeKm	403000
+Carsington Water	volumeKm	35412
+Beaufort Sea	volumeKm	22000
+Lake Turkana	volumeKm	203.6
+Gulf of Riga	volumeKm	424
+East Siberian Sea	volumeKm	57000
+Chukchi Sea	volumeKm	50000
+Lake Sevan	volumeKm	32.8
+Gulf of Trieste	volumeKm	9500
+Lough Mask	volumeKm	1.3
+McGee Creek Reservoir	volumeKm	113980
+Tyrifjorden	volumeKm	13.1
+Lough Key	volumeKm	0.043
+Reindeer Lake	volumeKm	95.25
+Tupper Lake	volumeKm	456
+Puruvesi	volumeKm	3655
+Lincoln Sea	volumeKm	16000
+Sholavaram aeri	volumeKm	0.025
+Torneträsk	volumeKm	17.1
+Port Hacking	volumeKm	105261.5
+Kivesjärvi	volumeKm	0.105
+Lake Diefenbaker	volumeKm	9.4
+Dauphin Lake	volumeKm	1.29
+Smallwood Reservoir	volumeKm	32.64
+Totak	volumeKm	2.36
+Kremasta	volumeKm	3.8
+Kastraki	volumeKm	0.95
+Stratos	volumeKm	0.08
+Wollaston Lake	volumeKm	39.8
+Gobind Sagar	volumeKm	7501775
+Lake Leksozero	volumeKm	1.408
+Playgreen Lake	volumeKm	2.76
+Lake Atoka Reservoir	volumeKm	105195
+Deschambault Lake	volumeKm	3.35
+Caumasee	volumeKm	6.5E-4
+Song Kol Lake	volumeKm	2.64
+Lake Orivesi	volumeKm	5.507
+Lake Keitele	volumeKm	3.4
+Lake Konnevesi	volumeKm	2
+Koitere	volumeKm	1.1
+Nilakka	volumeKm	0.821
+Kiantajärvi	volumeKm	1.385
+Juurusvesi–Akonvesi	volumeKm	1.303
+Pihlajavesi	volumeKm	18.08
+Traveston Crossing Dam	volumeKm	153000
+Leslie Dam	volumeKm	106200.0
+Perseverance Dam	volumeKm	30140.0
+Gordonbrook Dam	volumeKm	6600.0
+Eungella Dam	volumeKm	112400.0
+Peter Faust Dam	volumeKm	491400.0
+Kinchant Dam	volumeKm	62800.0
+Kroombit Dam	volumeKm	14600.0
+Cross Lake	volumeKm	0.52
+Kitkajärvi	volumeKm	1.742
+Lake Magenta	volumeKm	1540000
+Svitiaz	volumeKm	180000000
+Irish Sea	volumeKm	2800
+Adriatic Sea	volumeKm	35000
+Lac la Ronge	volumeKm	17.6
+Doré Lake	volumeKm	6.68
+Frobisher Lake	volumeKm	2.18
+Äkäsjärvi	volumeKm	0.039
+Elämäjärvi	volumeKm	0.025
+Hiidenvesi	volumeKm	0.195
+Hyrynjärvi	volumeKm	0.111
+Hiirenvesi	volumeKm	0.0464
+Ilmoilanselkä	volumeKm	0.0651
+Iso Lohijärvi	volumeKm	0.0214
+Tipasjärvi	volumeKm	0.0414
+Lake Kero	volumeKm	0.0715
+Iso-Kiimanen	volumeKm	0.118
+Iso Lamujärvi	volumeKm	0.083
+Iso-Pyhäntä	volumeKm	0.0829
+Iso-Roine	volumeKm	0.221
+Jonkeri	volumeKm	0.0547
+Jonku	volumeKm	0.033
+Isojärvi	volumeKm	0.114
+Iso-Vietonen	volumeKm	0.225
+Joutsijärvi	volumeKm	0.0225
+Jääsjärvi	volumeKm	0.372
+Joutsjärvi	volumeKm	0.0384
+Joukamojärvi	volumeKm	0.0776
+Kallavesi	volumeKm	0.121
+Karankajärvi	volumeKm	0.044
+Kaukuanjärvi	volumeKm	0.0344
+Karijärvi	volumeKm	0.19
+Keyritty	volumeKm	0.0785
+Kannonselkä	volumeKm	0.0538
+Kelontekemäjärvi	volumeKm	0.0444
+Kiesimä	volumeKm	0.0848
+Kermajärvi	volumeKm	0.866
+Vaalajärvi	volumeKm	0.0198
+Vanajavesi	volumeKm	0.952
+Vesijako	volumeKm	0.118
+Vanttausjärvi	volumeKm	0.0472
+Vesijärvi	volumeKm	0.238
+Viinijärvi	volumeKm	0.786
+Vuohijärvi	volumeKm	1.404
+Vehkajärvi	volumeKm	0.144
+Vuokkijärvi	volumeKm	0.278
+Viekijärvi	volumeKm	0.145
+Lake Tohmajärvi	volumeKm	0.0372
+Tallusjärvi	volumeKm	0.0456
+Urajärvi	volumeKm	0.0629
+Toisvesi	volumeKm	529
+Lake Uurainen	volumeKm	0.0856
+Ukonvesi	volumeKm	0.143
+Tarjanne	volumeKm	0.695
+Vuosjärvi	volumeKm	0.166
+Unnukka	volumeKm	0.504
+Kiteenjärvi	volumeKm	0.0303
+Vuotjärvi	volumeKm	0.277
+Tyräjärvi	volumeKm	0.096
+Kiitämä	volumeKm	0.126
+Lake Kiuruvesi	volumeKm	0.0201
+Koivujärvi	volumeKm	0.0809
+Korpijärvi	volumeKm	0.313
+Korvuanjärvi	volumeKm	0.0929
+Kostonjärvi	volumeKm	0.222
+Kuohattijärvi	volumeKm	0.0606
+Kukkia	volumeKm	0.23
+Kulovesi	volumeKm	0.258
+Kuorasjärvi	volumeKm	0.0188
+Kuvansi	volumeKm	0.121
+Kuttajärvi	volumeKm	0.0441
+Kuorinka	volumeKm	0.136
+Lake Kuorevesi	volumeKm	0.147
+Kuuhankavesi	volumeKm	0.0984
+Kyrösjärvi	volumeKm	0.998
+Lampaanjärvi	volumeKm	0.0485
+Lannevesi	volumeKm	0.0685
+Kuusvesi	volumeKm	0.13
+Lahnavesi	volumeKm	0.0938
+Kyyvesi	volumeKm	0.57
+Lentiira	volumeKm	0.102
+Lappalanjärvi	volumeKm	0.0587
+Lammasjärvi	volumeKm	0.202
+Längelmävesi	volumeKm	0.909
+Liesvesi	volumeKm	0.084
+Lake Lestijärvi	volumeKm	0.231
+Loppijärvi	volumeKm	0.0207
+Lohjanjärvi	volumeKm	1.119
+Lentua	volumeKm	0.582
+Leppävesi	volumeKm	0.6
+Lummene	volumeKm	0.0751
+Livojärvi	volumeKm	0.192
+Maavesi	volumeKm	0.189
+Maaninkajärvi	volumeKm	0.258
+Lake Mallos	volumeKm	0.0405
+Miekojärvi	volumeKm	0.349
+Lievestuoreenjärvi	volumeKm	0.4
+Muurasjärvi	volumeKm	0.189
+Muuratjärvi	volumeKm	0.425
+Muuruejärvi	volumeKm	0.126
+Norvajärvi	volumeKm	0.0609
+Mutusjärvi	volumeKm	0.429
+Nitsijärvi	volumeKm	0.273
+Onkivesi	volumeKm	0.36
+Nuorajärvi	volumeKm	0.0932
+Orajärvi	volumeKm	0.0485
+Niskajärvi	volumeKm	0.0801
+Osmankajärvi	volumeKm	0.0281
+Oijärvi	volumeKm	0.0234
+Nuoramoisjärvi	volumeKm	0.0534
+Paljavesi	volumeKm	0.0729
+Pankajärvi	volumeKm	0.904
+Otermanjärvi	volumeKm	0.0422
+Pieni-Onkamo	volumeKm	0.031
+Pieksänjärvi	volumeKm	0.0434
+Peruvesi	volumeKm	0.0943
+Pesiöjärvi	volumeKm	0.0502
+Pieni-Kiimanen	volumeKm	0.0249
+Porovesi	volumeKm	0.12
+Porttipahta Reservoir	volumeKm	0.66
+Piispajärvi	volumeKm	0.0313
+Posionjärvi	volumeKm	0.045
+Puhosjärvi	volumeKm	0.707
+Pyhävesi	volumeKm	0.112
+Raanujärvi	volumeKm	0.16
+Riistavesi	volumeKm	0.154
+Pyyvesi	volumeKm	0.316
+Saanijärvi	volumeKm	0.0248
+Saraavesi	volumeKm	0.061
+Ruunaanjärvi	volumeKm	0.0515
+Summasjärvi	volumeKm	0.147
+Särkijärvi	volumeKm	0.0793
+Sapsojärvet	volumeKm	0.127
+Savivesi	volumeKm	0.0421
+Simojärvi	volumeKm	0.45
+Sorsavesi	volumeKm	0.526
+Sälevä	volumeKm	0.065
+Lake Sevettijärvi	volumeKm	0.156
+Syvänsi	volumeKm	0.103
+Suuri-Onkamo	volumeKm	0.114
+Suurijärvi	volumeKm	0.0871
+Lake Syväri	volumeKm	0.57
+Syysjärvi	volumeKm	0.0776
+Suininki	volumeKm	0.147
+El Tranco de Beas Dam	volumeKm	498.0
+Alnsjøen	volumeKm	7.56
+Southern Indian Lake	volumeKm	23.4
+Nuasjärvi	volumeKm	0.822
+Vaskivesi – Visuvesi	volumeKm	0.321
+Enonjärvi	volumeKm	0.053
+Kernaalanjärvi	volumeKm	0.0146
+Sinervä	volumeKm	0.0534
+Mallasvesi	volumeKm	0.384
+Iivantiira	volumeKm	0.158
+Kankarisvesi	volumeKm	0.034
+Mahnalanselkä – Kirkkojärvi	volumeKm	0.0941
+Ontojärvi – Nurmesjärvi	volumeKm	0.602
+Ala-Kintaus	volumeKm	0.0378
+Châteauvert Lake	volumeKm	0.26982
+Inhottu	volumeKm	0.0039
+Kynsivesi – Leivonvesi	volumeKm	0.376
+Atoka Lake	volumeKm	105195
+Ranuanjärvi	volumeKm	0.10356
+Blessington Street Basin	volumeKm	15100000
+Opinaca Reservoir	volumeKm	8.5
+Lapinjärvi	volumeKm	0.0101
+Lac Sauvage	volumeKm	4.9
+Manno Lake	volumeKm	0.0154
+Barragem de Poilão	volumeKm	0.17

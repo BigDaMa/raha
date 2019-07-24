@@ -1,0 +1,823 @@
+Union Station	smartcardname	Presto card
+Angrignon	smartcardname	OPUS card
+Honoré-Beaugrand	smartcardname	OPUS card
+Monk	smartcardname	OPUS card
+Peel	smartcardname	OPUS card
+McGill	smartcardname	OPUS card
+Place-des-Arts	smartcardname	OPUS card
+Saint-Laurent	smartcardname	OPUS card
+Berri-UQAM	smartcardname	OPUS card
+Beaudry	smartcardname	OPUS card
+Papineau	smartcardname	OPUS card
+Kelvinhall subway station	smartcardname	ZoneCard
+Préfontaine	smartcardname	OPUS card
+Frontenac	smartcardname	OPUS card
+Joliette	smartcardname	OPUS card
+Pie-IX	smartcardname	OPUS card
+Viau	smartcardname	OPUS card
+Bloor–Yonge	smartcardname	Presto card
+Rosedale	smartcardname	Presto card
+Crémazie	smartcardname	OPUS card
+De Castelnau	smartcardname	OPUS card
+Saint-Michel	smartcardname	OPUS card
+D'Iberville	smartcardname	OPUS card
+Fabre	smartcardname	OPUS card
+Parc	smartcardname	OPUS card
+Acadie	smartcardname	OPUS card
+Outremont	smartcardname	OPUS card
+Édouard-Montpetit	smartcardname	OPUS card
+Université-de-Montréal	smartcardname	OPUS card
+Côte-des-Neiges	smartcardname	OPUS card
+Radisson	smartcardname	OPUS card
+Jean-Talon	smartcardname	OPUS card
+Snowdon	smartcardname	OPUS card
+Lionel-Groulx	smartcardname	OPUS card
+Langelier	smartcardname	OPUS card
+Cadillac	smartcardname	OPUS card
+Guy-Concordia	smartcardname	OPUS card
+Assomption	smartcardname	OPUS card
+Atwater	smartcardname	OPUS card
+LaSalle	smartcardname	OPUS card
+De L'Église	smartcardname	OPUS card
+Charlevoix	smartcardname	OPUS card
+Verdun	smartcardname	OPUS card
+Jolicoeur	smartcardname	OPUS card
+Beaubien	smartcardname	OPUS card
+Sherbrooke	smartcardname	OPUS card
+Jarry	smartcardname	OPUS card
+Mont-Royal	smartcardname	OPUS card
+Laurier	smartcardname	OPUS card
+Henri-Bourassa	smartcardname	OPUS card
+Sauvé	smartcardname	OPUS card
+Montmorency	smartcardname	OPUS card
+Cartier	smartcardname	OPUS card
+Lucien-L'Allier	smartcardname	OPUS card
+Square-Victoria-OACI	smartcardname	OPUS card
+Du Collège	smartcardname	OPUS card
+Georges-Vanier	smartcardname	OPUS card
+De La Savane	smartcardname	OPUS card
+Plamondon	smartcardname	OPUS card
+Namur	smartcardname	OPUS card
+Place-d'Armes	smartcardname	OPUS card
+Champ-de-Mars	smartcardname	OPUS card
+Villa-Maria	smartcardname	OPUS card
+Vendôme	smartcardname	OPUS card
+Place-Saint-Henri	smartcardname	OPUS card
+Bonaventure	smartcardname	OPUS card
+De La Concorde	smartcardname	OPUS card
+Rosemont	smartcardname	OPUS card
+Longueuil–Université-de-Sherbrooke	smartcardname	OPUS card
+Jean-Drapeau	smartcardname	OPUS card
+Bloor GO Station	smartcardname	Presto card
+Malton GO Station	smartcardname	Presto card
+Etobicoke North GO Station	smartcardname	Presto card
+Weston GO Station	smartcardname	Presto card
+Kipling GO Station	smartcardname	Presto card
+Brampton GO Station	smartcardname	Presto card
+Bramalea GO Station	smartcardname	Presto card
+Dixie GO Station	smartcardname	Presto card
+Cooksville GO Station	smartcardname	Presto card
+Erindale GO Station	smartcardname	Presto card
+Streetsville GO Station	smartcardname	Presto card
+Meadowvale GO Station	smartcardname	Presto card
+Milton GO Station	smartcardname	Presto card
+Burlington Transit	smartcardname	Presto card
+Georgetown GO Station	smartcardname	Presto card
+Mount Pleasant GO Station	smartcardname	Presto card
+Tennyson railway station	smartcardname	Go card
+York University GO Station	smartcardname	Presto card
+Crângași metro station	smartcardname	Bucharest Metro
+Petrache Poenaru metro station	smartcardname	Bucharest Metro
+Aviatorilor metro station	smartcardname	Bucharest Metro
+Aurel Vlaicu metro station	smartcardname	Bucharest Metro
+Piața Victoriei metro station	smartcardname	Bucharest Metro
+Basarab metro station	smartcardname	Bucharest Metro
+Grivița metro station	smartcardname	Bucharest Metro
+1 Mai metro station	smartcardname	Bucharest Metro
+Piața Unirii metro station	smartcardname	Bucharest Metro
+Politehnica metro station	smartcardname	Bucharest Metro
+Gorjului metro station	smartcardname	Bucharest Metro
+Păcii metro station	smartcardname	Bucharest Metro
+Universitate metro station	smartcardname	Bucharest Metro
+Eroii Revoluției metro station	smartcardname	Bucharest Metro
+Lujerului metro station	smartcardname	Bucharest Metro
+Piața Romană metro station	smartcardname	Bucharest Metro
+Constantin Brâncoveanu metro station	smartcardname	Bucharest Metro
+Tineretului metro station	smartcardname	Bucharest Metro
+Piața Sudului metro station	smartcardname	Bucharest Metro
+Apărătorii Patriei metro station	smartcardname	Bucharest Metro
+Piața Muncii metro station	smartcardname	Bucharest Metro
+Iancului metro station	smartcardname	Bucharest Metro
+Ștefan cel Mare metro station	smartcardname	Bucharest Metro
+Obor metro station	smartcardname	Bucharest Metro
+Dristor metro station	smartcardname	Bucharest Metro
+Nicolae Grigorescu metro station	smartcardname	Bucharest Metro
+Titan metro station	smartcardname	Bucharest Metro
+Costin Georgian metro station	smartcardname	Bucharest Metro
+Republica metro station	smartcardname	Bucharest Metro
+Pantelimon metro station	smartcardname	Bucharest Metro
+Berceni metro station	smartcardname	Bucharest Metro
+Dimitrie Leonida metro station	smartcardname	Bucharest Metro
+San Francisco Ferry Building	smartcardname	Clipper card
+Little River railway station	smartcardname	Myki zone 2
+Long Branch GO Station	smartcardname	Presto card
+Exhibition GO Station	smartcardname	Presto card
+Danforth GO Station	smartcardname	Presto card
+Oriole GO Station	smartcardname	Presto card
+King City GO Station	smartcardname	Presto card
+Newmarket GO Station	smartcardname	Presto card
+Bradford GO Station	smartcardname	Presto card
+Rutherford GO Station	smartcardname	Presto card
+Old Cummer GO Station	smartcardname	Presto card
+East Gwillimbury GO Station	smartcardname	Presto card
+Aurora GO Station	smartcardname	Presto card
+Langstaff GO Station	smartcardname	Presto card
+Richmond Hill GO Station	smartcardname	Presto card
+Maple GO Station	smartcardname	Presto card
+Credit Valley Hospital	smartcardname	Presto card
+Centennial GO Station	smartcardname	Presto card
+Agincourt GO Station	smartcardname	Presto card
+Mount Joy GO Station	smartcardname	Presto card
+Unionville GO Station	smartcardname	Presto card
+Kennedy GO Station	smartcardname	Presto card
+Markham GO Station	smartcardname	Presto card
+Milliken GO Station	smartcardname	Presto card
+Stouffville GO Station	smartcardname	Presto card
+Port Credit GO Station	smartcardname	Presto card
+Clarkson GO Station	smartcardname	Presto card
+Bronte GO Station	smartcardname	Presto card
+Appleby GO Station	smartcardname	Presto card
+Burlington GO Station	smartcardname	Presto card
+Ajax GO Station	smartcardname	Presto card
+Mimico GO Station	smartcardname	Presto card
+Aldershot GO Station	smartcardname	Presto card
+Hamilton GO Centre	smartcardname	Presto card
+Pickering GO Station	smartcardname	Presto card
+Oakville GO Station	smartcardname	Presto card
+Oshawa GO Station	smartcardname	Presto card
+İstanbul Sirkeci Terminal	smartcardname	Istanbulkart
+Lisgar GO Station	smartcardname	Presto card
+Ruoholahti metro station	smartcardname	HSL Travel Card
+Kamppi metro station	smartcardname	HSL Travel Card
+Mellunmäki metro station	smartcardname	HSL Travel Card
+Kontula metro station	smartcardname	HSL Travel Card
+Myllypuro metro station	smartcardname	HSL Travel Card
+Itäkeskus metro station	smartcardname	HSL Travel Card
+Siilitie metro station	smartcardname	HSL Travel Card
+Herttoniemi metro station	smartcardname	HSL Travel Card
+Kulosaari metro station	smartcardname	HSL Travel Card
+Sörnäinen metro station	smartcardname	HSL Travel Card
+Hakaniemi metro station	smartcardname	HSL Travel Card
+University of Helsinki metro station	smartcardname	HSL Travel Card
+Central railway station metro station	smartcardname	HSL Travel Card
+Puotila metro station	smartcardname	HSL Travel Card
+Rastila metro station	smartcardname	HSL Travel Card
+Vuosaari metro station	smartcardname	HSL Travel Card
+Vine station	smartcardname	Transit Access Pass
+Trillium Health Centre	smartcardname	Presto card
+Guelph Central Station	smartcardname	Presto card
+Kitchener railway station	smartcardname	Presto card
+Jernbanetorget	smartcardname	Reisekort
+Stortinget	smartcardname	Reisekort
+Mortensrud	smartcardname	Reisekort
+Ellingsrudåsen	smartcardname	Reisekort
+Stovner	smartcardname	Reisekort
+St. Catharines railway station	smartcardname	Presto card
+Niagara Falls railway station	smartcardname	Presto card
+Ensjø	smartcardname	Reisekort
+Hasle	smartcardname	Reisekort
+Helsfyr	smartcardname	Reisekort
+Majorstuen	smartcardname	Reisekort
+Frøen	smartcardname	Reisekort
+Romsås	smartcardname	Reisekort
+Bergkrystallen	smartcardname	Reisekort
+Brynseng	smartcardname	Reisekort
+Grønland	smartcardname	Reisekort
+Furuset	smartcardname	Reisekort
+Jar	smartcardname	Reisekort
+Forskningsparken	smartcardname	Reisekort
+Carl Berners plass	smartcardname	Reisekort
+Skullerud	smartcardname	Reisekort
+Linderud	smartcardname	Reisekort
+Blindern	smartcardname	Reisekort
+Tveita	smartcardname	Reisekort
+Haugerud	smartcardname	Reisekort
+Grorud	smartcardname	Reisekort
+Ryen	smartcardname	Reisekort
+Ammerud	smartcardname	Reisekort
+Hovseter	smartcardname	Reisekort
+Ullevål stadion	smartcardname	Reisekort
+Storo	smartcardname	Reisekort
+Nydalen	smartcardname	Reisekort
+Frognerseteren	smartcardname	Reisekort
+Ekraveien	smartcardname	Reisekort
+Vestli	smartcardname	Reisekort
+Bekkestua	smartcardname	Reisekort
+Cultural Centre busway station	smartcardname	Go card
+King George Square busway station	smartcardname	Go card
+York University	smartcardname	Presto card
+Mater Hill busway station	smartcardname	Go card
+South Bank busway station	smartcardname	Go card
+Woolloongabba busway station	smartcardname	Go card
+Buranda busway station	smartcardname	Go card
+Greenslopes busway station	smartcardname	Go card
+Griffith University busway station	smartcardname	Go card
+Holland Park West busway station	smartcardname	Go card
+Eight Mile Plains busway station	smartcardname	Go card
+Upper Mount Gravatt busway station	smartcardname	Go card
+Roma Street busway station	smartcardname	Go card
+QUT Kelvin Grove busway station	smartcardname	Go card
+Herston busway station	smartcardname	Go card
+Browns Plains bus station	smartcardname	Go card
+Cannon Hill bus station	smartcardname	Go card
+Carindale bus station	smartcardname	Go card
+Chermside bus station	smartcardname	Go card
+Garden City bus station	smartcardname	Go card
+Inala bus station	smartcardname	Go card
+Springwood bus station	smartcardname	Go card
+Toombul bus interchange	smartcardname	Go card
+Amsterdam Centraal station	smartcardname	OV-chipkaart
+Partick station	smartcardname	ZoneCard
+Gjettum	smartcardname	Reisekort
+Kongens Nytorv Station	smartcardname	Rejsekort
+Islands Brygge Station	smartcardname	Rejsekort
+Tøyen	smartcardname	Reisekort
+Arts Center station	smartcardname	Breeze Card
+North Avenue station	smartcardname	Breeze Card
+Midtown station	smartcardname	Breeze Card
+Civic Center station	smartcardname	Breeze Card
+Peachtree Center station	smartcardname	Breeze Card
+Lindbergh Center station	smartcardname	Breeze Card
+Five Points station	smartcardname	Breeze Card
+Georgia State station	smartcardname	Breeze Card
+Decatur station	smartcardname	Breeze Card
+Doraville station	smartcardname	Breeze Card
+Avondale station	smartcardname	Breeze Card
+ Reynoldstown station	smartcardname	Breeze Card
+ Candler Park station	smartcardname	Breeze Card
+King Memorial station	smartcardname	Breeze Card
+Kalbakken	smartcardname	Reisekort
+East Lake station	smartcardname	Breeze Card
+Buckhead station	smartcardname	Breeze Card
+Lenox station	smartcardname	Breeze Card
+ CNN Center station	smartcardname	Breeze Card
+Vine City station	smartcardname	Breeze Card
+West End station	smartcardname	Breeze Card
+Garnett station	smartcardname	Breeze Card
+Ashby station	smartcardname	Breeze Card
+Oglethorpe station	smartcardname	Breeze Card
+Chamblee station	smartcardname	Breeze Card
+ Fort McPherson station	smartcardname	Breeze Card
+Oakland City station	smartcardname	Breeze Card
+East Point station	smartcardname	Breeze Card
+College Park station	smartcardname	Breeze Card
+Airport station	smartcardname	Breeze Card
+Kensington station	smartcardname	Breeze Card
+Indian Creek station	smartcardname	Breeze Card
+Bankhead station	smartcardname	Breeze Card
+West Lake station	smartcardname	Breeze Card
+Hamilton E. Holmes station	smartcardname	Breeze Card
+Medical Center station	smartcardname	Breeze Card
+Dunwoody station	smartcardname	Breeze Card
+North Springs station	smartcardname	Breeze Card
+Sandy Springs station	smartcardname	Breeze Card
+Christianshavn Station	smartcardname	Rejsekort
+Forum Station	smartcardname	Rejsekort
+Frederiksberg Station	smartcardname	Rejsekort
+Kirribilli ferry wharf	smartcardname	Opal card
+Ørestad Station	smartcardname	Rejsekort
+Vestamager Station	smartcardname	Rejsekort
+Lambertseter	smartcardname	Reisekort
+Hellerud	smartcardname	Reisekort
+Holmenkollen	smartcardname	Reisekort
+Sognsvann	smartcardname	Reisekort
+Trosterud	smartcardname	Reisekort
+Veitvet	smartcardname	Reisekort
+Ris	smartcardname	Reisekort
+Gaustad	smartcardname	Reisekort
+Munkelia	smartcardname	Reisekort
+Rommen	smartcardname	Reisekort
+Østerås	smartcardname	Reisekort
+DR Byen Station	smartcardname	Rejsekort
+Lergravsparken Station	smartcardname	Rejsekort
+Cowcaddens subway station	smartcardname	ZoneCard
+Buchanan Street subway station	smartcardname	ZoneCard
+St George's Cross subway station	smartcardname	ZoneCard
+Kelvinbridge subway station	smartcardname	ZoneCard
+Hillhead subway station	smartcardname	ZoneCard
+Govan subway station	smartcardname	ZoneCard
+Ibrox subway station	smartcardname	ZoneCard
+Cessnock subway station	smartcardname	ZoneCard
+Kinning Park subway station	smartcardname	ZoneCard
+Shields Road subway station	smartcardname	ZoneCard
+West Street subway station	smartcardname	ZoneCard
+Bridge Street subway station	smartcardname	ZoneCard
+St Enoch subway station	smartcardname	ZoneCard
+Amagerbro Station	smartcardname	Rejsekort
+Besserud	smartcardname	Reisekort
+Luz Station	smartcardname	Bilhete Único
+Sinsen	smartcardname	Reisekort
+Kalasatama metro station	smartcardname	HSL Travel Card
+Gara de Nord metro station	smartcardname	Bucharest Metro
+Rødtvet	smartcardname	Reisekort
+Lysaker Station	smartcardname	Reisekort
+Fasanvej Station	smartcardname	Rejsekort
+Lindevang Station	smartcardname	Rejsekort
+Bella Center Station	smartcardname	Rejsekort
+Sundby Station	smartcardname	Rejsekort
+Amager Strand Station	smartcardname	Rejsekort
+Øresund Station	smartcardname	Rejsekort
+Femøren Station	smartcardname	Rejsekort
+Kastrup Station	smartcardname	Rejsekort
+Lindeberg	smartcardname	Reisekort
+Midtstuen	smartcardname	Reisekort
+Økern	smartcardname	Reisekort
+Røa	smartcardname	Reisekort
+Høyenhall	smartcardname	Reisekort
+Eiksmarka	smartcardname	Reisekort
+Borgen	smartcardname	Reisekort
+Kolsås	smartcardname	Reisekort
+Bogerud	smartcardname	Reisekort
+Voksenkollen	smartcardname	Reisekort
+Smestad	smartcardname	Reisekort
+Lillevann	smartcardname	Reisekort
+Skogen	smartcardname	Reisekort
+Bøler	smartcardname	Reisekort
+Makrellbekken	smartcardname	Reisekort
+Vollebekk	smartcardname	Reisekort
+Kringsjå	smartcardname	Reisekort
+Risløkka	smartcardname	Reisekort
+Godlia	smartcardname	Reisekort
+Brattlikollen	smartcardname	Reisekort
+Dimboola railway station	smartcardname	Myki zone
+Horsham railway station, Victoria	smartcardname	Myki zone
+Berg	smartcardname	Reisekort
+Tåsen	smartcardname	Reisekort
+Åsjordet	smartcardname	Reisekort
+Steinerud	smartcardname	Reisekort
+Montebello	smartcardname	Reisekort
+Beurs metro station	smartcardname	OV-chipkaart
+Dijkzigt metro station	smartcardname	OV-chipkaart
+Coolhaven metro station	smartcardname	OV-chipkaart
+Eendrachtsplein metro station	smartcardname	OV-chipkaart
+Asker Station	smartcardname	Reisekort
+Alna Station	smartcardname	Reisekort
+Holmen	smartcardname	Reisekort
+Skøyenåsen	smartcardname	Reisekort
+Oppsal	smartcardname	Reisekort
+Ulsrud	smartcardname	Reisekort
+Manglerud	smartcardname	Reisekort
+Karlsrud	smartcardname	Reisekort
+Østhorn	smartcardname	Reisekort
+Holstein	smartcardname	Reisekort
+Dixie Outlet Mall	smartcardname	Presto card
+Lijordet	smartcardname	Reisekort
+Vinderen	smartcardname	Reisekort
+Sandvika Station	smartcardname	Reisekort
+Binnenhof metro station	smartcardname	OV-chipkaart
+Nordstrand Station	smartcardname	Reisekort
+Barrie South GO Station	smartcardname	Presto card
+Pier 41	smartcardname	Clipper card
+Slemdal	smartcardname	Reisekort
+Holmlia Station	smartcardname	Reisekort
+Lincolnville GO Station	smartcardname	Presto card
+Barendrecht railway station	smartcardname	OV-chipkaart
+Lufthavnen Station	smartcardname	Rejsekort
+Stawell railway station	smartcardname	Myki zone
+Wonderland Terminal	smartcardname	Presto card
+Ullernåsen	smartcardname	Reisekort
+Gjønnes	smartcardname	Reisekort
+Haslum	smartcardname	Reisekort
+Valler	smartcardname	Reisekort
+Hauger	smartcardname	Reisekort
+Avløs	smartcardname	Reisekort
+Gråkammen	smartcardname	Reisekort
+Gulleråsen	smartcardname	Reisekort
+Vettakollen	smartcardname	Reisekort
+Skådalen	smartcardname	Reisekort
+Voksenlia	smartcardname	Reisekort
+Nationaltheatret	smartcardname	Reisekort
+Nyland Station	smartcardname	Reisekort
+Haugenstua Station	smartcardname	Reisekort
+Høybråten Station	smartcardname	Reisekort
+Stabekk Station	smartcardname	Reisekort
+Høvik Station	smartcardname	Reisekort
+Blommenholm Station	smartcardname	Reisekort
+Slependen Station	smartcardname	Reisekort
+Billingstad Station	smartcardname	Reisekort
+Hvalstad Station	smartcardname	Reisekort
+Høn Station	smartcardname	Reisekort
+Vakås Station	smartcardname	Reisekort
+Ljan Station	smartcardname	Reisekort
+Haga Station	smartcardname	Reisekort
+Allandale Waterfront GO Station	smartcardname	Presto card
+Diemen Zuid station	smartcardname	OV-chipkaart
+Cranbourne East railway station	smartcardname	Myki zone
+Bjørnsletta	smartcardname	Reisekort
+Anghel Saligny metro station	smartcardname	Bucharest Metro
+Nicolae Teclu metro station	smartcardname	Bucharest Metro
+1 Decembrie 1918 metro station	smartcardname	Bucharest Metro
+Oostplein metro station	smartcardname	OV-chipkaart
+Stadhuis metro station	smartcardname	OV-chipkaart
+Leuvehaven metro station	smartcardname	OV-chipkaart
+Romeynshof metro station	smartcardname	OV-chipkaart
+Graskruid metro station	smartcardname	OV-chipkaart
+Oosterflank metro station	smartcardname	OV-chipkaart
+Capelsebrug metro station	smartcardname	OV-chipkaart
+Delfshaven metro station	smartcardname	OV-chipkaart
+Marconiplein metro station	smartcardname	OV-chipkaart
+Ribeirão Pires	smartcardname	Bilhete Único
+Bulnes	smartcardname	Subtepass
+Ringstabekk	smartcardname	Reisekort
+Løren	smartcardname	Reisekort
+Murtoa railway station	smartcardname	Myki zone
+Leeuwarden Werpsterhoeke railway station	smartcardname	OV-chipkaart
+Preciziei metro station	smartcardname	Bucharest Metro
+Acton GO Station	smartcardname	Presto card
+Halkapınar	smartcardname	İzmir Kentkart
+Sanayi	smartcardname	İzmir Kentkart
+Bornova	smartcardname	İzmir Kentkart
+De Akkers metro station	smartcardname	OV-chipkaart
+Nesselande metro station	smartcardname	OV-chipkaart
+De Terp metro station	smartcardname	OV-chipkaart
+Slinge metro station	smartcardname	OV-chipkaart
+De Tochten metro station	smartcardname	OV-chipkaart
+Parkweg metro station	smartcardname	OV-chipkaart
+Tussenwater metro station	smartcardname	OV-chipkaart
+Kralingse Zoom metro station	smartcardname	OV-chipkaart
+Capelle Centrum metro station	smartcardname	OV-chipkaart
+Slotlaan metro station	smartcardname	OV-chipkaart
+Etxebarri	smartcardname	Creditrans
+Basarrate	smartcardname	Creditrans
+Santutxu	smartcardname	Creditrans
+Moyua	smartcardname	Creditrans
+Indautxu	smartcardname	Creditrans
+Deusto	smartcardname	Creditrans
+Zuidplein metro station	smartcardname	OV-chipkaart
+Maashaven metro station	smartcardname	OV-chipkaart
+Rijnhaven metro station	smartcardname	OV-chipkaart
+Wilhelminaplein metro station	smartcardname	OV-chipkaart
+Rhoon metro station	smartcardname	OV-chipkaart
+Poortugaal metro station	smartcardname	OV-chipkaart
+Caroline Springs railway station	smartcardname	Myki zone
+San Inazio	smartcardname	Creditrans
+Sarriko	smartcardname	Creditrans
+Lutxana	smartcardname	Creditrans
+Erandio	smartcardname	Creditrans
+Astrabudua	smartcardname	Creditrans
+Leioa	smartcardname	Creditrans
+Lamiako	smartcardname	Creditrans
+Areeta	smartcardname	Creditrans
+Gobela	smartcardname	Creditrans
+Neguri	smartcardname	Creditrans
+Aiboa	smartcardname	Creditrans
+Algorta	smartcardname	Creditrans
+Bidezabal	smartcardname	Creditrans
+Berango	smartcardname	Creditrans
+Larrabasterra	smartcardname	Creditrans
+Sopela	smartcardname	Creditrans
+Urduliz	smartcardname	Creditrans
+Plentzia	smartcardname	Creditrans
+Cruces	smartcardname	Creditrans
+Ansio	smartcardname	Creditrans
+İzmir Alsancak Terminal	smartcardname	İzmir Kentkart
+Barakaldo	smartcardname	Creditrans
+Carabobo	smartcardname	Subtepass
+Langlands Park busway station	smartcardname	Go card
+Gare de Bellevue	smartcardname	Carte orange
+Cumaovası railway station	smartcardname	İzmir Kentkart
+Hoogvliet metro station	smartcardname	OV-chipkaart
+Pernis metro station	smartcardname	OV-chipkaart
+Zalmplaat metro station	smartcardname	OV-chipkaart
+Voorschoterlaan metro station	smartcardname	OV-chipkaart
+Gerdesiaweg metro station	smartcardname	OV-chipkaart
+Bagatza	smartcardname	Creditrans
+Urbinaga	smartcardname	Creditrans
+Sestao	smartcardname	Creditrans
+Abatxolo	smartcardname	Creditrans
+Heemraadlaan metro station	smartcardname	OV-chipkaart
+Spijkenisse Centrum metro station	smartcardname	OV-chipkaart
+Schenkel metro station	smartcardname	OV-chipkaart
+Prinsenlaan metro station	smartcardname	OV-chipkaart
+Brampton Downtown Terminal	smartcardname	Presto card
+Bramalea Terminal	smartcardname	Presto card
+Trinity Common Terminal	smartcardname	Presto card
+Mississauga City Centre Transit Terminal	smartcardname	Presto card
+Portugalete	smartcardname	Creditrans
+Paulista	smartcardname	Bilhete Único
+Leandro N. Alem	smartcardname	Subtepass
+Federico Lacroze	smartcardname	Subtepass
+Plaza Miserere	smartcardname	Subtepass
+Plaza de Mayo	smartcardname	Subtepass
+Once - 30 de Diciembre	smartcardname	Subtepass
+Catedral	smartcardname	Subtepass
+Plaza Italia	smartcardname	Subtepass
+Perú	smartcardname	Subtepass
+San Pedrito	smartcardname	Subtepass
+San José de Flores	smartcardname	Subtepass
+Puán	smartcardname	Subtepass
+Río de Janeiro	smartcardname	Subtepass
+Primera Junta	smartcardname	Subtepass
+Loria	smartcardname	Subtepass
+Castro Barros	smartcardname	Subtepass
+Acoyte	smartcardname	Subtepass
+Pasco	smartcardname	Subtepass
+Alberti	smartcardname	Subtepass
+Congreso	smartcardname	Subtepass
+Sáenz Peña	smartcardname	Subtepass
+Lima	smartcardname	Subtepass
+Piedras	smartcardname	Subtepass
+Juan Manuel de Rosas	smartcardname	Subtepass
+RBWH busway station	smartcardname	Go card
+Medrano	smartcardname	Subtepass
+Ángel Gallardo	smartcardname	Subtepass
+Malabia - Osvaldo Pugliese	smartcardname	Subtepass
+Dorrego	smartcardname	Subtepass
+Los Incas - Parque Chas	smartcardname	Subtepass
+Tronador - Villa Ortúzar	smartcardname	Subtepass
+Echeverría	smartcardname	Subtepass
+Carlos Gardel	smartcardname	Subtepass
+Pueyrredón	smartcardname	Subtepass
+Pasteur - AMIA	smartcardname	Subtepass
+Callao	smartcardname	Subtepass
+Uruguay	smartcardname	Subtepass
+Carlos Pellegrini	smartcardname	Subtepass
+Florida	smartcardname	Subtepass
+Retiro	smartcardname	Subtepass
+Constitución	smartcardname	Subtepass
+General San Martín	smartcardname	Subtepass
+Lavalle	smartcardname	Subtepass
+Diagonal Norte	smartcardname	Subtepass
+Avenida de Mayo	smartcardname	Subtepass
+Moreno	smartcardname	Subtepass
+Independencia	smartcardname	Subtepass
+San Juan	smartcardname	Subtepass
+Congreso de Tucumán	smartcardname	Subtepass
+Juramento	smartcardname	Subtepass
+José Hernández	smartcardname	Subtepass
+Olleros	smartcardname	Subtepass
+Ministro Carranza	smartcardname	Subtepass
+Palermo	smartcardname	Subtepass
+Scalabrini Ortiz	smartcardname	Subtepass
+Agüero	smartcardname	Subtepass
+Pueyrredón	smartcardname	Subtepass
+Facultad de Medicina	smartcardname	Subtepass
+Callao	smartcardname	Subtepass
+Tribunales	smartcardname	Subtepass
+9 de Julio	smartcardname	Subtepass
+Plaza de los Virreyes - Eva Perón	smartcardname	Subtepass
+Medalla Milagrosa	smartcardname	Subtepass
+Varela	smartcardname	Subtepass
+Emilio Mitre	smartcardname	Subtepass
+José María Moreno	smartcardname	Subtepass
+Boedo	smartcardname	Subtepass
+Avenida La Plata	smartcardname	Subtepass
+Jujuy	smartcardname	Subtepass
+General Urquiza	smartcardname	Subtepass
+Independencia	smartcardname	Subtepass
+San José	smartcardname	Subtepass
+Pichincha	smartcardname	Subtepass
+Belgrano	smartcardname	Subtepass
+Entre Ríos - Rodolfo Walsh	smartcardname	Subtepass
+Correo Central	smartcardname	Subtepass
+Catalinas	smartcardname	Subtepass
+Retiro	smartcardname	Subtepass
+Corrientes	smartcardname	Subtepass
+Venezuela	smartcardname	Subtepass
+Humberto I	smartcardname	Subtepass
+Inclán	smartcardname	Subtepass
+Caseros	smartcardname	Subtepass
+Parque Patricios	smartcardname	Subtepass
+Hospitales	smartcardname	Subtepass
+Peñota	smartcardname	Creditrans
+Santurtzi	smartcardname	Creditrans
+Tucuruvi	smartcardname	Bilhete Único
+Parada Inglesa	smartcardname	Bilhete Único
+Jardim São Paulo-Ayrton Senna	smartcardname	Bilhete Único
+Santana	smartcardname	Bilhete Único
+Carandiru	smartcardname	Bilhete Único
+Portuguesa–Tietê	smartcardname	Bilhete Único
+Armênia	smartcardname	Bilhete Único
+Tiradentes	smartcardname	Bilhete Único
+Luz	smartcardname	Bilhete Único
+São Bento	smartcardname	Bilhete Único
+Sé	smartcardname	Bilhete Único
+Vijfsluizen metro station	smartcardname	OV-chipkaart
+Troelstralaan metro station	smartcardname	OV-chipkaart
+Liberdade	smartcardname	Bilhete Único
+São Joaquim	smartcardname	Bilhete Único
+Vergueiro	smartcardname	Bilhete Único
+Paraíso	smartcardname	Bilhete Único
+Ana Rosa	smartcardname	Bilhete Único
+Vila Mariana	smartcardname	Bilhete Único
+Santa Cruz	smartcardname	Bilhete Único
+Praça da Árvore	smartcardname	Bilhete Único
+Jabaquara	smartcardname	Bilhete Único
+Conceição	smartcardname	Bilhete Único
+São Judas	smartcardname	Bilhete Único
+Saúde	smartcardname	Bilhete Único
+Vila Madalena	smartcardname	Bilhete Único
+Consolação	smartcardname	Bilhete Único
+Clínicas	smartcardname	Bilhete Único
+Santuário Nossa Senhora de Fátima-Sumaré	smartcardname	Bilhete Único
+Trianon-Masp	smartcardname	Bilhete Único
+Brigadeiro	smartcardname	Bilhete Único
+Chácara Klabin	smartcardname	Bilhete Único
+Santos-Imigrantes	smartcardname	Bilhete Único
+Alto do Ipiranga	smartcardname	Bilhete Único
+Sacomã	smartcardname	Bilhete Único
+Tamanduateí	smartcardname	Bilhete Único
+Vila Prudente	smartcardname	Bilhete Único
+Marechal Deodoro	smartcardname	Bilhete Único
+Palmeiras–Barra Funda	smartcardname	Bilhete Único
+Santa Cecília	smartcardname	Bilhete Único
+República	smartcardname	Bilhete Único
+Anhangabaú	smartcardname	Bilhete Único
+Pedro II	smartcardname	Bilhete Único
+Brás	smartcardname	Bilhete Único
+Bresser-Mooca	smartcardname	Bilhete Único
+Belém	smartcardname	Bilhete Único
+Guilhermina-Esperança	smartcardname	Bilhete Único
+Patriarca	smartcardname	Bilhete Único
+Penha	smartcardname	Bilhete Único
+Vila Matilde	smartcardname	Bilhete Único
+Carrão	smartcardname	Bilhete Único
+Tatuapé	smartcardname	Bilhete Único
+Artur Alvim	smartcardname	Bilhete Único
+Corinthians-Itaquera	smartcardname	Bilhete Único
+Nieuw Verlaat metro station	smartcardname	OV-chipkaart
+Hesseplaats metro station	smartcardname	OV-chipkaart
+Ambachtsland metro station	smartcardname	OV-chipkaart
+Higienópolis-Mackenzie	smartcardname	Bilhete Único
+Oscar Freire	smartcardname	Bilhete Único
+Fradique Coutinho	smartcardname	Bilhete Único
+Faria Lima	smartcardname	Bilhete Único
+Pinheiros	smartcardname	Bilhete Único
+Butantã	smartcardname	Bilhete Único
+Vila Sônia	smartcardname	Bilhete Único
+São Paulo–Morumbi	smartcardname	Bilhete Único
+Capão Redondo	smartcardname	Bilhete Único
+Campo Limpo	smartcardname	Bilhete Único
+Vila das Belezas	smartcardname	Bilhete Único
+Giovanni Gronchi	smartcardname	Bilhete Único
+Santo Amaro	smartcardname	Bilhete Único
+Largo Treze	smartcardname	Bilhete Único
+Adolfo Pinheiro	smartcardname	Bilhete Único
+Alto da Boa Vista	smartcardname	Bilhete Único
+Borba Gato	smartcardname	Bilhete Único
+Brooklin	smartcardname	Bilhete Único
+Campo Belo	smartcardname	Bilhete Único
+Eucaliptos	smartcardname	Bilhete Único
+AACD-Servidor	smartcardname	Bilhete Único
+Moema	smartcardname	Bilhete Único
+Hospital São Paulo	smartcardname	Bilhete Único
+Ariz	smartcardname	Creditrans
+Nieuwmarkt metro station	smartcardname	OV-chipkaart
+Waterlooplein metro station	smartcardname	OV-chipkaart
+Erin Mills Town Centre Bus Terminal	smartcardname	Presto card
+Meadowvale Town Centre Bus Terminal	smartcardname	Presto card
+Sheridan Centre Bus Terminal	smartcardname	Presto card
+South Common Centre Bus Terminal	smartcardname	Presto card
+Westwood Mall Bus Terminal	smartcardname	Presto card
+Jiului metro station	smartcardname	Bucharest Metro
+Parc Bazilescu metro station	smartcardname	Bucharest Metro
+Henk Sneevlietweg metro station	smartcardname	OV-chipkaart
+Stadyum	smartcardname	İzmirim Kart
+Bölge	smartcardname	İzmir Kentkart
+Hilal	smartcardname	İzmir Kentkart
+Kabiezes	smartcardname	Creditrans
+Mamariga	smartcardname	Creditrans
+Weesperplein metro station	smartcardname	OV-chipkaart
+Wibautstraat metro station	smartcardname	OV-chipkaart
+Spaklerweg metro station	smartcardname	OV-chipkaart
+Overamstel metro station	smartcardname	OV-chipkaart
+Van der Madeweg metro station	smartcardname	OV-chipkaart
+Strandvliet metro station	smartcardname	OV-chipkaart
+Bullewijk metro station	smartcardname	OV-chipkaart
+Reigersbos metro station	smartcardname	OV-chipkaart
+Gein metro station	smartcardname	OV-chipkaart
+Basauri	smartcardname	Creditrans
+Basmane	smartcardname	İzmirim Kart
+Çankaya	smartcardname	İzmir Kentkart
+Konak	smartcardname	İzmir Kentkart
+Üçyol	smartcardname	İzmir Kentkart
+Ganzenhoef metro station	smartcardname	OV-chipkaart
+Kraaiennest metro station	smartcardname	OV-chipkaart
+Gaasperplas metro station	smartcardname	OV-chipkaart
+Verrijn Stuartweg metro station	smartcardname	OV-chipkaart
+Venserpolder metro station	smartcardname	OV-chipkaart
+Brampton Gateway Terminal	smartcardname	Presto card
+Confederation GO Station	smartcardname	Presto card
+Marmorkirken Station	smartcardname	Rejsekort
+Amstelveenseweg metro station	smartcardname	OV-chipkaart
+Taksim	smartcardname	Istanbulkart
+Mount Dennis station	smartcardname	Presto card
+Kazlıçeşme railway station	smartcardname	Istanbulkart
+Melbourne University tram stop	smartcardname	Myki
+Rådhuspladsen Station	smartcardname	Rejsekort
+Gammel Strand Station	smartcardname	Rejsekort
+Westwijk tram stop	smartcardname	OV-chipkaart
+Noord metro station	smartcardname	OV-chipkaart
+Keelesdale station	smartcardname	Presto card
+Caledonia station	smartcardname	Presto card
+Fairbank station	smartcardname	Presto card
+Oakwood station	smartcardname	Presto card
+Science Centre station	smartcardname	Presto card
+Leaside station	smartcardname	Presto card
+Laird station	smartcardname	Presto card
+Forest Hill station	smartcardname	Presto card
+Chaplin station	smartcardname	Presto card
+Mount Pleasant station	smartcardname	Presto card
+Oriole Park station	smartcardname	Presto card
+Thornton's Corners GO Station	smartcardname	Presto card
+Darlington GO Station	smartcardname	Presto card
+Bowmanville GO Station	smartcardname	Presto card
+Oshawa Central GO Station	smartcardname	Presto card
+Golden Mile stop	smartcardname	Presto card
+O'Connor stop	smartcardname	Presto card
+Wynford stop	smartcardname	Presto card
+Ionview stop	smartcardname	Presto card
+Sloane stop	smartcardname	Presto card
+Aga Khan Park & Museum stop	smartcardname	Presto card
+Hakimi Lebovic stop	smartcardname	Presto card
+Sunnybrook Park stop	smartcardname	Presto card
+Pharmacy stop	smartcardname	Presto card
+Birchmount stop	smartcardname	Presto card
+Orbitor station	smartcardname	Presto card
+Spectrum station	smartcardname	Presto card
+Renforth Gateway	smartcardname	Presto card
+Tomken station	smartcardname	Presto card
+Dixie station	smartcardname	Presto card
+Cawthra station	smartcardname	Presto card
+Central Parkway station	smartcardname	Presto card
+Erin Mills GO Station	smartcardname	Presto card
+Winston Churchill GO Station	smartcardname	Presto card
+Praça XV Station	smartcardname	RioCard
+Haliç	smartcardname	Istanbulkart
+Yenikapı Transfer Center	smartcardname	Istanbulkart
+Kadıköy	smartcardname	Istanbulkart
+Vezneciler	smartcardname	Istanbulkart
+Şişhane	smartcardname	Istanbulkart
+Atatürk Havalimanı	smartcardname	Istanbulkart
+Heemstedestraat metro station	smartcardname	OV-chipkaart
+Aksaray	smartcardname	Istanbulkart
+Beyoğlu	smartcardname	Istanbulkart
+Evka 3	smartcardname	İzmir Kentkart
+Ege Üniversitesi	smartcardname	İzmirim Kart
+Ayrılık Çeşmesi	smartcardname	Istanbulkart
+Levent	smartcardname	Istanbulkart
+Emniyet—Fatih	smartcardname	Istanbulkart
+Topkapı—Ulubatlı	smartcardname	Istanbulkart
+Kirazlı	smartcardname	Istanbulkart
+Bayrampaşa—Maltepe	smartcardname	Istanbulkart
+Sağmalcılar	smartcardname	Istanbulkart
+Kocatepe	smartcardname	Istanbulkart
+Otogar	smartcardname	Istanbulkart
+MetroKent	smartcardname	Istanbulkart
+Başak Konutları	smartcardname	Istanbulkart
+Siteler	smartcardname	Istanbulkart
+Turgut Özal	smartcardname	Istanbulkart
+İkitelli Sanayi	smartcardname	Istanbulkart
+Boğaziçi Üniversitesi	smartcardname	Istanbulkart
+Hacıosman	smartcardname	Istanbulkart
+Osmanbey	smartcardname	Istanbulkart
+Şişli—Mecidiyeköy	smartcardname	Istanbulkart
+Gayrettepe	smartcardname	Istanbulkart
+4. Levent	smartcardname	Istanbulkart
+Sanayi	smartcardname	Istanbulkart
+İ.T.Ü.—Ayazağa	smartcardname	Istanbulkart
+Atatürk Oto Sanayi	smartcardname	Istanbulkart
+Darüşşafaka	smartcardname	Istanbulkart
+Olímpica de Engenho de Dentro Station	smartcardname	RioCard
+Córdoba	smartcardname	Subtepass
+Santa Fe	smartcardname	Subtepass
+Las Heras	smartcardname	Subtepass
+Facultad de Derecho	smartcardname	Subtepass
+Park-e-Mellat Metro Station	smartcardname	MAN-Kart
+Azadi Metro Station	smartcardname	MAN-Kart
+Khayyam Metro Station	smartcardname	MAN-Kart
+Palestine Metro Station	smartcardname	MAN-Kart
+Taleghani Metro Station	smartcardname	MAN-Kart
+Ghaem Metro Station	smartcardname	MAN-Kart
+Shariati Metro Station	smartcardname	MAN-Kart
+Imam Khomeini Metro Station	smartcardname	MAN-Kart
+Basij Metro Station	smartcardname	MAN-Kart
+Hefdah-e-Shahrivar Metro Station	smartcardname	MAN-Kart
+Parvin-e-Etessami Metro Station	smartcardname	MAN-Kart
+Terazidere	smartcardname	Istanbulkart
+Davutpaşa—YTÜ	smartcardname	Istanbulkart
+Merter	smartcardname	Istanbulkart
+Zeytinburnu	smartcardname	Istanbulkart
+Sáenz	smartcardname	Subtepass
+Bakırköy—İncirli	smartcardname	Istanbulkart
+Poá	smartcardname	Bilhete Único
+Calmon Viana	smartcardname	Bilhete Único
+Mogi das Cruzes	smartcardname	Bilhete Único
+Aracaré	smartcardname	Bilhete Único
+Ferraz de Vasconcelos	smartcardname	Bilhete Único
+Antonio Gianetti Neto	smartcardname	Bilhete Único
+İSTOÇ	smartcardname	Istanbulkart
+Bahçelievler	smartcardname	Istanbulkart
+Pancar railway station	smartcardname	İzmir Kentkart
+Tekeli railway station	smartcardname	İzmir Kentkart
+Kuşçuburun railway station	smartcardname	İzmir Kentkart

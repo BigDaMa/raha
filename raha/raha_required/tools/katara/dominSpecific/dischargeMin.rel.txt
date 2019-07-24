@@ -1,0 +1,355 @@
+Yangtze	dischargeMin	2000
+Euphrates	dischargeMin	58
+Ganges	dischargeMin	2000
+Madeira River	dischargeMin	2346
+Niger River	dischargeMin	500
+Rhine	dischargeMin	800
+Tigris	dischargeMin	337
+Congo River	dischargeMin	23000
+Elbe	dischargeMin	493
+Yenisei River	dischargeMin	3120
+Ob River	dischargeMin	2360
+Amur River	dischargeMin	514
+Guadiana	dischargeMin	20
+Ottawa River	dischargeMin	749
+Rhône	dischargeMin	360
+River Wensum	dischargeMin	0.36
+River Avon	dischargeMin	2.457567
+River Frome, Dorset	dischargeMin	1.05
+River Derwent	dischargeMin	50
+River Tay	dischargeMin	11
+River Mole	dischargeMin	1
+Fraser River	dischargeMin	575
+Red River	dischargeMin	700
+River Kennet	dischargeMin	0.93
+River Usk	dischargeMin	1.58
+River Trent	dischargeMin	15
+Brazos River	dischargeMin	0.76
+Ashuapmushuan River	dischargeMin	75
+River Medway	dischargeMin	0.43
+Saskatchewan River	dischargeMin	54
+Athabasca River	dischargeMin	75
+Mackenzie River	dischargeMin	2130
+River Tamar	dischargeMin	0.58
+River Arun	dischargeMin	0.31
+River Churn	dischargeMin	0
+Hron	dischargeMin	7.6
+Váh	dischargeMin	22.3
+Kura River	dischargeMin	206
+River Exe	dischargeMin	0.44
+Lena River	dischargeMin	366
+Halton Hills	dischargeMin	0.142
+Halton Hills	dischargeMin	0.683
+River Ravensbourne	dischargeMin	0.09
+Khabur River	dischargeMin	2
+Burdekin River	dischargeMin	0
+Iguazu River	dischargeMin	200
+Orkhon River	dischargeMin	0.5
+River Rother, West Sussex	dischargeMin	0.76
+São Francisco River	dischargeMin	1480
+Rouge River	dischargeMin	0.45
+Selenga River	dischargeMin	23
+Okavango River	dischargeMin	350
+River Itchen, Hampshire	dischargeMin	1.75
+Zeya River	dischargeMin	1.5
+Bow River	dischargeMin	3
+River Otter, Devon	dischargeMin	0.46
+Paraná River	dischargeMin	2450
+Elk River	dischargeMin	5.66
+Kootenay River	dischargeMin	104
+River Wandle	dischargeMin	0.22
+Kobuk River	dischargeMin	40
+Hawkesbury River	dischargeMin	0
+Petitcodiac River	dischargeMin	0.36
+River Blackwater	dischargeMin	0.48
+Magdalena River	dischargeMin	2000
+Peace River	dischargeMin	344
+River Chew	dischargeMin	0.5
+River Ingrebourne	dischargeMin	0.06
+Thompson River	dischargeMin	171
+River Brent	dischargeMin	0.19
+Nizhnyaya Tunguska River	dischargeMin	1
+River Colne, Hertfordshire	dischargeMin	0.74
+Volkhov River	dischargeMin	44
+Liard River	dischargeMin	300
+River Loddon	dischargeMin	0.52
+River Pang	dischargeMin	0.07
+River Thame	dischargeMin	0.6
+River Wye, Buckinghamshire	dischargeMin	0.25
+Ipeľ	dischargeMin	3
+Pechora River	dischargeMin	643
+Tapti River	dischargeMin	2
+Hogsmill River	dischargeMin	0.33
+Orava	dischargeMin	2.3
+River Meon	dischargeMin	0.06
+Credit River	dischargeMin	0.085
+Kicking Horse River	dischargeMin	2.25
+River Kent	dischargeMin	0.47
+Teeswater River	dischargeMin	0.63
+River Coln	dischargeMin	0.51
+River Leach	dischargeMin	0.01
+River Roding	dischargeMin	0.08
+Coquitlam River	dischargeMin	0.025
+Penna River	dischargeMin	0
+Katun River	dischargeMin	16
+Illecillewaet River	dischargeMin	3.18
+Balikh River	dischargeMin	5
+La Grande River	dischargeMin	345
+Mahi River	dischargeMin	0
+Ouémé River	dischargeMin	0
+Pelly River	dischargeMin	35
+Chambal River	dischargeMin	58.53
+Crișul Negru	dischargeMin	0.47
+Irrawaddy River	dischargeMin	2300
+Chehalis River	dischargeMin	2.04
+River Crane, London	dischargeMin	0
+Karun	dischargeMin	26
+Chaudière River	dischargeMin	11
+Peel River	dischargeMin	46.8
+River Evenlode	dischargeMin	0.12
+Clarence River	dischargeMin	1
+Río Negro	dischargeMin	181
+Gandaki River	dischargeMin	500
+Coquihalla River	dischargeMin	3
+Rio Conchos	dischargeMin	0.09
+River Windrush	dischargeMin	0.11
+Wang River	dischargeMin	0
+Lillooet River	dischargeMin	6.37
+Chilcotin River	dischargeMin	13.8
+Nechako River	dischargeMin	40.8
+Chilko River	dischargeMin	7.79
+Pitt River	dischargeMin	5.1
+River Rom	dischargeMin	0.03
+Harrison River	dischargeMin	66.3
+Sobat River	dischargeMin	99
+Quesnel River	dischargeMin	27.8
+Stuart River	dischargeMin	20.4
+West Road River	dischargeMin	4.9
+River Wylye	dischargeMin	0.1
+Kidepo River	dischargeMin	0
+Jijia River	dischargeMin	0.14
+River Ock	dischargeMin	0.11
+Taseko River	dischargeMin	2.99
+Georgina River	dischargeMin	0
+Kok River	dischargeMin	5
+North Saskatchewan River	dischargeMin	19
+Thames River	dischargeMin	8.25
+North Thompson River	dischargeMin	39.2
+South Thompson River	dischargeMin	45.3
+San Juan River	dischargeMin	0
+River Tillingbourne	dischargeMin	0.23
+Sopchoppy River	dischargeMin	1.8
+Kara Darya	dischargeMin	68.4
+River Lavant, West Sussex	dischargeMin	0
+Coldwater River	dischargeMin	0
+River Lod, West Sussex	dischargeMin	0.01
+Canoe River	dischargeMin	0.991
+Spillimacheen River	dischargeMin	2
+Adășeni River	dischargeMin	0
+Chirivoaia River	dischargeMin	0
+Bahna River	dischargeMin	0
+Bahna River	dischargeMin	0.001
+Bâsca	dischargeMin	1.72
+Desaguadero River	dischargeMin	28
+Avrămeni River	dischargeMin	0.002
+Valea Boului River	dischargeMin	0
+Valea Bulgăriilor River	dischargeMin	0.002
+Valea Ciolpanilor River	dischargeMin	0
+Gaoping River	dischargeMin	9
+Podriga River	dischargeMin	0.015
+Valea Iazurilor River	dischargeMin	0
+Burla River	dischargeMin	0.002
+Valea Satului River	dischargeMin	0
+Puturosu River	dischargeMin	0
+Valea lui Hurjui River	dischargeMin	0
+La Odaie River	dischargeMin	0
+Valea Rea River	dischargeMin	0
+Miletin River	dischargeMin	0.006
+Bahluiul Mic River	dischargeMin	0
+Rio Salado	dischargeMin	0
+Valea Poienilor River	dischargeMin	0
+Gârla Sirețel	dischargeMin	0
+Recea River	dischargeMin	0
+Păiușeni River	dischargeMin	0
+Pârâul Întors	dischargeMin	0
+Buhai River	dischargeMin	0.003
+Bahna River	dischargeMin	0
+Pârâul lui Martin	dischargeMin	0.001
+Pârâul lui Vasile	dischargeMin	0
+Pârâul Mare	dischargeMin	0
+Prisaca River	dischargeMin	0
+Horoghiuca River	dischargeMin	0
+Râul Putred	dischargeMin	0.001
+Robu River	dischargeMin	0
+Scânteia River	dischargeMin	0.002
+Varnița River	dischargeMin	0.004
+Părul River	dischargeMin	0
+Păstoaia River	dischargeMin	0
+Volovăț River	dischargeMin	0.001
+River Horner	dischargeMin	0.02
+Pișcov River	dischargeMin	0
+Podul Popii River	dischargeMin	0
+Balinți River	dischargeMin	0.002
+Bodeasa River	dischargeMin	0.002
+Bașeu River	dischargeMin	0.06
+Pleșu River	dischargeMin	0
+Turbata River	dischargeMin	0
+Poiana River	dischargeMin	0
+Herța River	dischargeMin	0
+Poiana River	dischargeMin	0
+Sihăstria River	dischargeMin	0
+Vorona River	dischargeMin	0
+Molnița River	dischargeMin	0
+Vlădeni River	dischargeMin	0
+Gârla Huțanilor	dischargeMin	0.002
+Surina River	dischargeMin	0
+Ponoara River	dischargeMin	0.002
+Iazul lui Iancu River	dischargeMin	0.001
+Rănghilești River	dischargeMin	0.001
+Corogea River	dischargeMin	0.002
+Gard River	dischargeMin	0
+Popoaia River	dischargeMin	0
+Ursoiu River	dischargeMin	0
+Răchita River	dischargeMin	0
+Sărata River	dischargeMin	0.002
+Ciolac River	dischargeMin	0.002
+Glodul Alb River	dischargeMin	0
+Izvoarele River	dischargeMin	0
+Lișmănița River	dischargeMin	0.002
+Porcăreasa River	dischargeMin	0.001
+Morișca River	dischargeMin	0.004
+Iazul Lipovanului River	dischargeMin	0
+Cotârgaci River	dischargeMin	0.004
+Siliștea River	dischargeMin	0.001
+Ibăneasa River	dischargeMin	0.015
+La Iazul cel Mare River	dischargeMin	0
+Mihăiașa River	dischargeMin	0.001
+Putreda River	dischargeMin	0.002
+Răchita River	dischargeMin	0
+Zoitani River	dischargeMin	0
+Rădăuți River	dischargeMin	0.001
+Cornești River	dischargeMin	0
+Isnovăț River	dischargeMin	0
+Ghireni River	dischargeMin	0.003
+Badu River	dischargeMin	0
+Berza Veche River	dischargeMin	0.001
+Myjava	dischargeMin	0.2
+Sitna River	dischargeMin	0
+Dolina River	dischargeMin	0
+Dolina River	dischargeMin	0
+Curmătura River	dischargeMin	0
+Dresleuca River	dischargeMin	0.006
+Băiceni River	dischargeMin	0
+Teașcu River	dischargeMin	0.001
+Ionașcu River	dischargeMin	0
+Gornet River	dischargeMin	0
+Zlătunoaia River	dischargeMin	0
+Cozancea River	dischargeMin	0
+Luizoaia River	dischargeMin	0.005
+Urechioiu River	dischargeMin	0.002
+Burduja River	dischargeMin	0.001
+Buzunosu River	dischargeMin	0
+Ciornohal River	dischargeMin	0.001
+Drâslea River	dischargeMin	0.001
+Glăvănești River	dischargeMin	0
+Gotcoaia River	dischargeMin	0.001
+Crăcălia River	dischargeMin	0
+Ghițălăria River	dischargeMin	0
+Chișcata River	dischargeMin	0
+Găinăria River	dischargeMin	0.001
+Guranda River	dischargeMin	0.002
+Săvescu River	dischargeMin	0
+Tinca River	dischargeMin	0
+Lunca River	dischargeMin	0
+Bezerc River	dischargeMin	0.002
+Tălpeni River	dischargeMin	0
+Bowron River	dischargeMin	8.85
+Ghilăuca River	dischargeMin	0
+Tricova River	dischargeMin	0.001
+Ghilăuca River	dischargeMin	0.001
+Grivița River	dischargeMin	0
+Ghilea River	dischargeMin	0
+Dintievici River	dischargeMin	0
+Canapiștea River	dischargeMin	0.001
+Vorniceasa River	dischargeMin	0
+Iazul lui Stavri River	dischargeMin	0
+Cordun River	dischargeMin	0
+Maranda River	dischargeMin	0
+Baranca River	dischargeMin	0
+Duncan River	dischargeMin	12.8
+Granby River	dischargeMin	0.227
+Willow River	dischargeMin	3.2
+River Ray, Wiltshire	dischargeMin	0.26
+Beaver River	dischargeMin	2.08
+Incomappleux River	dischargeMin	4.76
+Blaeberry River	dischargeMin	1.06
+River Wey	dischargeMin	1.3
+Navasota River	dischargeMin	0.76
+Pasayten River	dischargeMin	0.28
+Tulameen River	dischargeMin	0.78
+Salmo River	dischargeMin	1.64
+West Kettle River	dischargeMin	0.991
+Slocan River	dischargeMin	8.5
+Bull River	dischargeMin	0.82
+Doré River	dischargeMin	0.592
+Alouette River	dischargeMin	0.184
+Nahatlatch River	dischargeMin	3.11
+Seton River	dischargeMin	2.86
+McGregor River	dischargeMin	17.1
+Cayoosh Creek	dischargeMin	0.377
+Bicol River	dischargeMin	123
+Jalaur River	dischargeMin	30.42
+Goldstream River	dischargeMin	0.7
+Lysakerelven	dischargeMin	0.5
+Beaton Creek	dischargeMin	0.498
+River Mole, Devon	dischargeMin	0.2
+Gull River	dischargeMin	12
+Zarqa River	dischargeMin	2
+Cariboo River	dischargeMin	7.36
+Wu River	dischargeMin	272
+Stewart River	dischargeMin	52
+Salmon River	dischargeMin	1.4
+Terlingua Creek	dischargeMin	0
+Kanaka Creek	dischargeMin	0.026
+Jiloca	dischargeMin	1.6
+Ga-Selati River	dischargeMin	0.29
+Baezaeko River	dischargeMin	0.22
+Gatwick Stream	dischargeMin	0.12
+Kichi-Kemin River	dischargeMin	0.46
+Chong-Kemin River	dischargeMin	7.18
+Ysyk-Ata River	dischargeMin	1.6
+Nura River	dischargeMin	0
+Montmorency River	dischargeMin	2.2
+Rio Alamo	dischargeMin	0
+Escondido River	dischargeMin	0
+Rio San Rodrigo	dischargeMin	0
+Sajur River	dischargeMin	1.4
+Shule River	dischargeMin	0
+Sachigo River	dischargeMin	104.7
+Loire	dischargeMin	60
+Keriya River	dischargeMin	0
+Law Brook, Surrey	dischargeMin	0.05
+Cranleigh Waters	dischargeMin	0.16
+Liffey River	dischargeMin	0
+Ombla	dischargeMin	3.96
+Lao River, Thailand	dischargeMin	0.3
+Simiyu River	dischargeMin	0
+Dahan River	dischargeMin	22.94
+Mahajilo River	dischargeMin	53.2
+Besokatra River	dischargeMin	0.143
+Saharenana River	dischargeMin	0.86
+Andranotsimisiamalona River	dischargeMin	0.128
+Manajeba River	dischargeMin	0.497
+Fanambana River	dischargeMin	3.4
+Morkill River	dischargeMin	3.72
+Stellako River	dischargeMin	1.98
+Cheslatta River	dischargeMin	26.6
+McKale River	dischargeMin	0.569
+Barrière River	dischargeMin	0.566
+Nazko River	dischargeMin	0.106
+Raft River	dischargeMin	0.283
+Black River	dischargeMin	1.76
+Grass River	dischargeMin	10
+Tinau	dischargeMin	2.2
+Goyder River	dischargeMin	0.001
+Fosselvi	dischargeMin	4

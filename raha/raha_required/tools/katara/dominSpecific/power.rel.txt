@@ -1,0 +1,334 @@
+Ford Essex V4 engine	power	73.0
+Ford Essex V4 engine	power	92.0
+Ford Boss 302 engine	power	@ 5200 rpm
+Austin 16	power	@2,400 rpm
+Austin 16	power	Tax horsepower 15.96
+Austin 16	power	@2,600 rpm
+Austin 16	power	Tax horsepower 17.9
+Chevrolet straight-6 engine	power	1929
+Chevrolet straight-6 engine	power	1932
+Chevrolet straight-6 engine	power	1934
+Chevrolet straight-6 engine	power	85.0
+Chevrolet straight-6 engine	power	90.0
+Chevrolet straight-6 engine	power	92.0
+Chevrolet straight-6 engine	power	123.0
+Chevrolet straight-6 engine	power	136.0
+Tatra 815	power	*  @ 1700-1750 rpm\n*  @ 1700-1750 rpm
+Ford SHO V8 engine	power	at 6100 rpm
+Nissan VE engine	power	@ 5600 rpm
+Ford SHO V6 engine	power	220
+Cadillac V16 engine	power	between 3200 and 3400 rpm
+Rolls-Royce Meteor	power	600.0
+Ford straight-six engine	power	-226
+Ford straight-six engine	power	-215
+Ford straight-six engine	power	at 4200 rpm
+Ford straight-six engine	power	at 4400 rpm
+Ford straight-six engine	power	-
+Lamborghini V8	power	2
+Lamborghini V8	power	2.5
+Lamborghini V8	power	3
+Lamborghini V8	power	@ 7,500 rpm, or
+Lamborghini V8	power	@ 7,800 rpm
+Lamborghini V8	power	3.5
+Lamborghini V12	power	3.5
+Lamborghini V12	power	6.2
+Lamborghini V12	power	6.5
+BMC A-Series engine	power	to
+Chevrolet Corvair engine	power	9223372036854775807
+Hyundai Beta engine	power	116
+Hyundai Beta engine	power	130
+Hyundai Beta engine	power	140
+Hyundai Theta engine	power	107
+Hyundai Theta engine	power	121
+Alfa Romeo Twin Spark engine	power	76
+Alfa Romeo Boxer engine	power	–
+Lancia V6 engine	power	56
+Riley Pathfinder	power	@ 4,500 rpm
+Riley Pathfinder	power	Tax rating 16hp
+Riley RM	power	106
+Riley RM	power	Tax rating 16hp
+Bugatti Type 18	power	100.0
+Bugatti Type 18	power	maximum r.p.m. 2,400
+Bugatti Type 18	power	UK tax rating 24.8 h.p.
+Mercedes-Benz M104 engine	power	SAE J 1349 M104.98x
+Chrysler Hemi engine	power	425.0
+Chrysler Hemi engine	power	350.0
+Honda K engine	power	@ 6300 rpm
+Honda K engine	power	@ 6000 RPM
+Suzuki G engine	power	* 48 hp  at 5,100 rpm
+Suzuki G engine	power	up to\n*  at 5,500 rpm
+FMR Tg500	power	at 5000 rpm
+Swallow Doretti	power	@4,800 rpm
+Vauxhall Prince Henry	power	1911
+Vauxhall Prince Henry	power	1913
+Vauxhall Prince Henry	power	maximum speed 2,500 r.p.m.
+Vauxhall Prince Henry	power	Tax horsepower
+Volkswagen G60 engine	power	G60:
+Volkswagen G60 engine	power	G40:
+Triumph V8	power	@5500 rpm
+Austin 16 hp	power	67.0
+Austin 16 hp	power	@3,800 rpm
+Austin 16 hp	power	tax horsepower 15.6
+Armstrong Siddeley Sapphire	power	@4500 rpm
+Bentley 8 Litre	power	220.0
+Bentley 8 Litre	power	@3,300rpm
+Bentley 8 Litre	power	Tax rating 44.9 hp
+Morris Cowley	power	not published
+Morris Cowley	power	RAC  rating 11.9hp
+Morris Cowley	power	RAC  rating 13.9hp
+JTS engine	power	118
+Morris Minor	power	*  @4,000 rpm\n*  @4,000 rpm
+Morris Minor	power	Tax horsepower 8.06
+Subaru EA engine	power	112.0
+Austin 10	power	@ 3,400 rpm
+Austin 10	power	@ 2,600 rpm
+Austin 10	power	Tax rating: 9.996 hp
+Daimler V8 engines	power	4
+Daimler V8 engines	power	220.0
+Daimler V8 engines	power	@ 5,500 rpm
+Daimler V8 engines	power	>2½ litre:
+Daimler V8 engines	power	140.0
+Daimler V8 engines	power	@ 5,800 rpm
+Daimler Majestic Major	power	@ 5,500 rpm
+Austin 12	power	@2,000 rpm
+Austin 12	power	Tax horsepower 12.8
+Daimler Majestic	power	@4,400 rpm
+Volkswagen air-cooled engine	power	@ 3,000 rpm,
+Volkswagen air-cooled engine	power	@ 3,300 rpm,
+Volkswagen air-cooled engine	power	22.0
+Volkswagen air-cooled engine	power	25.0
+Volkswagen air-cooled engine	power	27.0
+Volkswagen air-cooled engine	power	1500
+Volkswagen air-cooled engine	power	@ 5,000 rpm
+Autovia	power	99
+Autovia	power	Tax rating 23.8hp
+Toyota F engine	power	101.0
+Toyota F engine	power	116.0
+MG VA	power	at 4500 rpm
+MG VA	power	Treasury rating 11.98hp
+Mustang	power	5.0
+Mustang	power	9.5
+Mustang	power	10.5
+Mustang	power	12.5
+Nissan P engine	power	92.0
+Nissan P engine	power	99.0
+Tatra 813	power	@ 2000 rpm
+Tatra 148	power	@ 2000 rpm
+Triumph Dolomite	power	62
+Triumph Dolomite	power	RAC or tax rating13.95 hp
+Daimler DR450	power	@ 5,500 rpm
+Rover 6	power	1.0
+Rover 6	power	@2,400 rpm
+Rover 6	power	Tax horsepower 3.74
+Rover 6	power	3.82
+Rover 10	power	25.0
+Rover 10	power	Tax horsepower 9.84
+Rover Meteor	power	60.0
+Rover Meteor	power	@3,600 rpm
+Rover Meteor	power	Tax horsepower 19.28
+Toyota AD engine	power	,
+Volkswagen D24T engine	power	108
+Volkswagen D24 engine	power	82
+Tatra 138	power	@ 2000 rpm
+Volvo FE	power	--
+Alvis TA 14	power	65.0
+Alvis TA 14	power	@4,000 rpm
+Alvis TA 14	power	Tax horsepower 13.58
+Daimler Regency	power	@ rpm
+Daimler Regency	power	@4,000 rpm
+Daimler DK400	power	127.0
+Daimler DK400	power	@ 3,600 rpm
+Daimler DK400	power	from Autumn 1955 upgraded to:
+Daimler DK400	power	167.0
+Daimler DK400	power	@3,800 rpm
+6	power	@2,400 rpm
+6	power	Tax horsepower 13.96
+6	power	@3,800 rpm
+6	power	Tax horsepower 15.96
+4	power	@2,400 rpm
+4	power	@3,000 rpm
+4	power	Tax horsepower 11.9
+Hillman 14	power	*  @3,600 rpm\n* Tax horsepower 13.95
+Mercedes-Benz OM642	power	european models: .    US vehicles: .\n                  Mercedes/Dodge Sprinter: .
+70	power	63.5
+70	power	Tax rating 13.22hp
+Chrysler A57 multibank	power	@ 2400 rpm
+Ford GAA engine	power	@ 2600 rpm
+Paxman Valenta	power	at 1,500 rpm
+Vauxhall A-Type	power	1909
+Vauxhall A-Type	power	1910
+Vauxhall A-Type	power	1913
+Vauxhall A-Type	power	tax horsepower:
+Vauxhall A-Type	power	3054
+Vauxhall A-Type	power	3402
+Rover Light Six	power	45.0
+Rover Light Six	power	@3,600 rpm
+Rover Light Six	power	Tax horsepower 15.7
+Rover 12	power	22.0
+Rover 12	power	28.0
+Rover 12	power	Tax horsepower 13.95
+Rover 12	power	not published 12
+Rover 12	power	35.0
+Rover 12	power	14
+Rover 12	power	Tax horsepower 12.95
+Rover 12	power	Tax horsepower 13.84
+Vauxhall 30-98	power	E —  @3,000 rpm
+Vauxhall 30-98	power	OE— @3,300 rpm
+Vauxhall 30-98	power	later —
+Vauxhall 30-98	power	Tax horsepower 23.82
+Vauxhall 30-98	power	Designers
+Vauxhall 30-98	power	E — Laurence Pomeroy
+Vauxhall 30-98	power	OE—Clarence Evelyn King
+Daimler Consort	power	from 1946  @ 4000 rpm.
+Daimler Consort	power	Tax rating 18.02 hp
+Hyundai Kappa engine	power	70.0
+Hyundai Kappa engine	power	77.0
+Hyundai Kappa engine	power	80.0
+Hyundai Kappa engine	power	87.0
+Hyundai Kappa engine	power	105.0
+Austin Twenty	power	@2,000 rpm
+Austin Twenty	power	Tax horsepower 22.38
+Austin Twenty	power	@2,600 rpm
+Austin Twenty	power	Tax horsepower 23.42
+Austin Twenty	power	@3,200 rpm
+Austin Twenty	power	Tax horsepower 27.75
+Talbot 14-45	power	from AD
+Talbot 14-45	power	41.0
+Talbot 14-45	power	@4,500 rpm
+Talbot 14-45	power	from AG
+Talbot 14-45	power	46.0
+Talbot 14-45	power	from AU
+Talbot 14-45	power	48.0
+Talbot 14-45	power	Tax horsepower 13.84
+IKCO EF Engines	power	-
+Rolls-Royce C range engines	power	at 1,800 rpm
+Commer TS3	power	at 2,400 rpm
+Tatra 810	power	@ 2000 rpm
+Rover 16	power	50.0
+Rover 16	power	@ unreported rpm
+Rover 16	power	Tax horsepower 15.87
+Austin London Taxicab	power	@2,000 rpm
+Austin London Taxicab	power	Tax horsepower 12.8
+Daimler New Fifteen	power	@ 3600 rpm.
+Daimler New Fifteen	power	Tax rating 16.2 hp
+Daimler New Fifteen	power	@ 4000 rpm.
+Daimler New Fifteen	power	Tax rating 18.02 hp
+SAIC Kavachi Engine	power	158
+Daimler Fifteen	power	@ 3600 rpm.
+Daimler Fifteen	power	Tax rating 15 hp
+Daimler Fifteen	power	@ 3000 rpm.
+Daimler Fifteen	power	Tax rating 16.2 hp
+Daimler Double-Six sleeve-valve V12	power	@ 2,480 rpm
+Lanchester Ten	power	@4,000 rpm
+Lanchester Ten	power	@4,000 rpm Tax rating 10.82
+18	power	@3,400 rpm Tax rating 17.96
+18	power	0
+18	power	@3,600 rpm, Tax rating 19.3 hp
+BSA Ten	power	@4,000 rpm 9.4 hp Tax rating
+Lanchester Light Six	power	@3,600 rpm
+Lanchester Light Six	power	Tax rating 12.09 hp
+BSA Light Six	power	@3,600 rpm
+BSA Light Six	power	Tax rating 12.09 hp
+Lanchester Fourteen	power	@4,000 rpm Tax rating
+Lanchester Fourteen	power	@4,200 rpm, Tax rating 14.06
+Lanchester Fourteen	power	@4,200 rpm
+Toyota W engine	power	@ 3200 rpm
+30	power	@900 rpm
+30	power	Tax horsepower 32.8
+Rover 14	power	@2,500 rpm
+Rover 14	power	Tax horsepower 13.95
+Vauxhall Cadet	power	@ 3,300 rpm.
+Vauxhall Cadet	power	Tax rating 16.9 hp
+Vauxhall Cadet	power	Tax rating 26.3 hp
+Mercedes-Benz OM629	power	314.0
+Daimler Straight-Eight engines	power	@3,600 rpm
+Daimler Straight-Eight engines	power	Tax rating 25.7 hp
+Daimler Straight-Eight engines	power	Tax rating 31.74 hp
+Daimler Straight-Eight engines	power	@3,600 rpm,
+Daimler Straight-Eight engines	power	Tax rating 35.92 hp
+Vauxhall 23-60	power	@
+Vauxhall 23-60	power	2000
+Vauxhall 23-60	power	Tax rating 22.4 h.p.
+Detroit diesel 6051 quad-71	power	rated at 900hp per quad power pack
+Austin 14	power	@3,800 rpm
+Austin 14	power	Tax horsepower 15.96
+Austin 14	power	from December 1937 revised engine
+Austin 14	power	@4,000 rpm
+Austin 18	power	@3,400 rpm
+Austin 18	power	Tax horsepower 17.9
+Ducati Bipantah engine	power	from  @ 9,500 rpm to  @ 11,000 rpm
+Cadillac High Technology engine	power	135.0
+Cadillac High Technology engine	power	155.0
+Cadillac High Technology engine	power	170.0
+Cadillac High Technology engine	power	180.0
+Cadillac High Technology engine	power	200.0
+Duesenberg Model A	power	@ 3600 rpm
+Honda Indy V8	power	+  with push-to-pass
+Zytek ZRS03	power	@ 8500 rpm
+List of Volvo Trucks engines	power	180
+List of Volvo Trucks engines	power	240
+Morris Twelve	power	Treasury rating 11.98hp
+Morris Twelve	power	41
+Vauxhall 20-60	power	@
+Vauxhall 20-60	power	3000
+Vauxhall 20-60	power	Tax rating 20.93 h.p.
+Vauxhall 20-60	power	62
+Vauxhall 20-60	power	Tax rating 23.8 h.p.
+Fiat TwinAir engine	power	or
+Hillman 16	power	24.0
+Hillman 16	power	@2,400 rpm
+Hillman 16	power	Tax horsepower 13.96xxxxxxxxxxxx
+Healey Silverstone	power	106
+Healey Silverstone	power	Tax rating 16hp
+Daimler DE	power	Armoured car:
+Daimler DE	power	95.0
+Daimler DE	power	DE 27:
+Daimler DE	power	110.0
+Daimler DE	power	at 3600 rpm
+Daimler DE	power	DC 27:
+Daimler DE	power	105.0
+Daimler DE	power	DH 27:
+Morris Oxford Empire models	power	not published\n* tax rating 15.87hp
+Morris Oxford bullnose	power	@2,400 rpm
+Morris Oxford bullnose	power	Tax horsepower  9
+LIAZ 100 series	power	-
+Austin 20 hp	power	::1913\n* not reported
+Austin 20 hp	power	Tax horsepower 19.64\n::1914\n*  @2,250 rpm
+Austin 20 hp	power	Tax horsepower 22.38
+Rover 20	power	2.0
+Rover 20	power	@2,400 rpm
+Rover 20	power	Tax horsepower 23.33
+Rover 20	power	72.0
+Rover 20	power	@x rpm
+Rover 20	power	Tax horsepower 19.28xxxxxxxxxxxx
+Daimler Twenty-Two	power	22
+Daimler Twenty-Two	power	27.34
+Daimler Twenty-Two	power	Tax horsepower
+Rover 9	power	20.0
+Rover 9	power	@ 3,000 rpm
+Rover 9	power	Tax horsepower 8.93
+Rover Two-litre	power	60.0
+Rover Two-litre	power	@3,600 rpm
+Rover Two-litre	power	Tax horsepower 15.7
+Mercedes-Benz OM654 engine	power	143
+12-1 SRW	power	92
+Riley 16	power	106
+Riley 16	power	Tax rating 16hp
+Riley 12	power	51.0
+Riley 12	power	@4800 rpm
+Riley 12	power	Tax horsepower 11.81
+Alvis Silver Crest	power	16.95
+Alvis Silver Crest	power	68.0
+Alvis Silver Crest	power	@4,200 rpm
+Alvis Silver Crest	power	20
+Alvis Silver Crest	power	95.0
+Alvis Silver Crest	power	@4,000 rpm
+Alvis Silver Crest	power	Tax horsepower
+Hillman 20 8-cylinder	power	58.0
+Hillman 20 8-cylinder	power	@2,0 rpm
+Hillman 20 8-cylinder	power	Tax horsepower 19.69
+Humber 15	power	40.0
+Humber 15	power	@not provided rpm
+Humber 15	power	elsewhere 33 bhp @2000 rpm
+Humber 15	power	Tax horsepower 15.9
+Humber 15	power	Tax horsepower 15.6

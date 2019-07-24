@@ -1,0 +1,269 @@
+PRV engine	configuration	90
+Ford FE engine	configuration	Big block
+Ford FE engine	configuration	Pushrod engine
+Ford FE engine	configuration	V8 engine
+Ford 385 engine	configuration	Big-block
+Ford 385 engine	configuration	Pushrod engine
+Ford 385 engine	configuration	V8 engine
+Ford CVH engine	configuration	Inline-four engine
+Ford 335 engine	configuration	90
+Ford 335 engine	configuration	4.38
+Ford Essex V4 engine	configuration	60
+Ford Essex V4 engine	configuration	Firing order 1-3-2-4
+Wärtsilä-Sulzer RTA96-C	configuration	Straight-14 engine
+Ford Y-block engine	configuration	Small-block
+Ford Y-block engine	configuration	Pushrod engine
+Ford Y-block engine	configuration	V8 engine
+Ford Windsor engine	configuration	84.38
+Northstar engine series	configuration	DOHC 90° V8/V6
+Chrysler B engine	configuration	V8 engine
+Chrysler 2.2 & 2.5 engine	configuration	Inline-four engine
+Chrysler A engine	configuration	V8 engine
+Chrysler LA engine	configuration	V6
+Chrysler LA engine	configuration	V8
+Chrysler LA engine	configuration	V10
+Chrysler Slant-6 engine	configuration	Straight-six engine
+Ford Taunus V4 engine	configuration	60
+Chrysler LH engine	configuration	60
+Chrysler PowerTech engine	configuration	90
+Chrysler 3.3 & 3.8 engine	configuration	60
+LS based GM small-block engine	configuration	OHV
+LS based GM small-block engine	configuration	V8 engine
+LS based GM small-block engine	configuration	V6 engine
+Chevrolet small-block engine	configuration	V8 engine
+Chevrolet 2300 engine	configuration	Straight-4
+General Motors 60° V6 engine	configuration	60
+Tatra 815	configuration	V8 engine
+Jaguar AJ-V8 engine	configuration	DOHC
+Jaguar AJ-V8 engine	configuration	V8 engine
+Jaguar AJ-V6 engine	configuration	60
+Jaguar V12 engine	configuration	60
+Jaguar AJ6 engine	configuration	DOHC
+Jaguar AJ6 engine	configuration	Straight-6
+BMW M20	configuration	Straight-six engine
+BMW M70	configuration	60
+BMW M73	configuration	60
+BMW M62	configuration	DOHC 90° V8
+GM High Feature engine	configuration	60
+Buick V6 engine	configuration	90
+GM High Value engine	configuration	60
+Ford Essex V6 engine	configuration	60
+Ford Essex V6 engine	configuration	Firing order : 1-4-2-5-3-6
+Ford Vulcan engine	configuration	60
+Mazda B engine	configuration	Inline-four engine
+Mazda K engine	configuration	60
+Ford SHO V8 engine	configuration	60
+BMW N62	configuration	DOHC 90° V8
+Nissan VK engine	configuration	90
+Nissan VH engine	configuration	DOHC 90° V8
+Nissan RB engine	configuration	Straight-six engine
+Nissan VQ engine	configuration	60
+Nissan VE engine	configuration	DOHC 54° 24-valve V6
+Nissan VG engine	configuration	60
+Ford Power Stroke engine	configuration	OHV 90° V8
+Ford Power Stroke engine	configuration	DOHC
+Ford Power Stroke engine	configuration	V8 engine
+Nissan KA engine	configuration	Inline-4
+Detroit Diesel Series 50	configuration	Inline-four engine
+Detroit Diesel Series 50	configuration	Diesel engine
+General Motors 54° V6 engine	configuration	54
+Nissan CA engine	configuration	Inline-4
+Ford flathead V8 engine	configuration	Side-valve engine
+Ford flathead V8 engine	configuration	V8 engine
+Ferrari Colombo engine	configuration	60
+Mitsubishi 6G7 engine	configuration	V6 engine
+Powertec RPA	configuration	72
+Lamborghini V10	configuration	90
+Lamborghini V8	configuration	90
+Lamborghini V12	configuration	60
+Honda J engine	configuration	SOHC 60° V6
+Toyota MZ engine	configuration	V6
+Toyota VZ engine	configuration	DOHC 60° 24-valve V6
+Toyota UZ engine	configuration	DOHC 90° V8
+Ford MEL engine	configuration	Big-block
+Ford MEL engine	configuration	Pushrod engine
+Ford MEL engine	configuration	V8 engine
+BMC B-Series engine	configuration	I4 and I6
+Circle L engine	configuration	Inline-4
+Toyota GR engine	configuration	DOHC 60° V6
+Cummins B Series engine	configuration	I4 and I6 diesel engines
+Cummins B Series engine	configuration	Inline-six cylinder engine
+Alfa Romeo Twin Spark engine	configuration	DOHC 2/4-valve I4
+Nissan H engine	configuration	Inline-4
+Nissan H engine	configuration	Inline-6
+Nissan Z engine	configuration	Inline-4
+Nissan G engine	configuration	I4
+Prince G engine	configuration	Inline-four engine
+Prince G engine	configuration	Straight-six engine
+Lancia V6 engine	configuration	OHV 60° 2-valve V6
+EMD 645	configuration	45
+Chrysler Hemi engine	configuration	V8
+Honda K engine	configuration	Inline-four engine
+JTD engine	configuration	Straight-twin
+JTD engine	configuration	Straight-3
+JTD engine	configuration	Straight-4
+JTD engine	configuration	Straight-5
+Volvo SI6 engine	configuration	Straight-six engine
+Cummins L Series engine	configuration	Straight-six engine
+Cummins L Series engine	configuration	Diesel engine
+Toyota S engine	configuration	Inline-four engine
+Nissan MR engine	configuration	Inline-4
+Nissan MR engine	configuration	I4 engine
+Nissan S20 engine	configuration	Inline-6
+Cummins C Series engine	configuration	Straight-six engine
+Cummins C Series engine	configuration	Diesel engine
+List of VM Motori engines	configuration	60
+BMW S85	configuration	90
+Volkswagen G60 engine	configuration	Inline-four engine
+Volkswagen G60 engine	configuration	Automobile
+Volkswagen G60 engine	configuration	Petrol engine
+Simca Poissy engine	configuration	Inline-four engine
+PSA XUD	configuration	Inline-four engine
+Ford Super Duty engine	configuration	Big-block
+Ford Super Duty engine	configuration	Pushrod engine
+Ford Super Duty engine	configuration	V8 engine
+Alfa Romeo Twin Cam engine	configuration	DOHC 2-valve I4
+Ford Duratec V6 engine	configuration	60
+PSA-Renault X-Type engine	configuration	Inline-four engine
+PSA ES engine	configuration	V6 60°
+PSA XU engine	configuration	Inline-four engine
+PSA TU engine	configuration	Inline-four engine
+Douvrin engine	configuration	Inline-four engine
+Nissan HR engine	configuration	Inline-3
+Nissan HR engine	configuration	Inline-4
+Nissan CG engine	configuration	Inline-4
+Chrysler SOHC V6 engine	configuration	60
+JTS engine	configuration	DOHC 4-valve I4, 60° V6
+Navistar T444E engine	configuration	V8
+EMD 567	configuration	45
+Opel straight-6 engine	configuration	OHV 12-valve I6
+Mercedes-Benz M100 engine	configuration	V8 engine
+Toyota UR engine	configuration	DOHC 90° V8
+Ford Barra engine	configuration	I6 engine
+Rover KV6 engine	configuration	V6
+Nissan MA engine	configuration	Inline-4
+Volvo Modular engine	configuration	Straight-four engine
+Volvo Modular engine	configuration	Straight-five engine
+Volvo Modular engine	configuration	Straight-six engine
+Suzuki H engine	configuration	60
+Toyota V engine	configuration	V8
+Fiat 128 SOHC engine	configuration	SOHC 2-valve I4
+BMW N73	configuration	DOHC 60° V12
+Daimler Majestic Major	configuration	90
+Honda G engine	configuration	Straight-five engine
+Alfa Romeo V6 engine	configuration	V6 engine
+Renault Cléon-Fonte engine	configuration	Inline-four engine
+Renault D-Type engine	configuration	Inline-four engine
+Renault F-Type engine	configuration	Gasoline
+Renault F-Type engine	configuration	Diesel engine
+Renault F-Type engine	configuration	Inline-four engine
+Renault Cléon-Alu engine	configuration	Inline-four engine
+Renault Energy engine	configuration	Inline-four engine
+Renault K-Type engine	configuration	I4 engine
+Renault R-Type engine	configuration	I4 engine
+Renault G-Type engine	configuration	I4 engine
+Chrysler Pentastar engine	configuration	60
+Toyota F engine	configuration	Inline-six engine
+Toyota F engine	configuration	I6
+Mustang	configuration	Single-cylinder engine
+Nissan P engine	configuration	Inline-6
+Lotus-Ford Twin Cam	configuration	Inline 4
+Tatra 148	configuration	V8 engine
+Toyota GZ engine	configuration	V12
+Rover 6	configuration	single-cylinder
+Wolseley Hornet six	configuration	single overhead camshaft
+Wolseley Hornet six	configuration	in-line six
+Mitsubishi 2G1 engine	configuration	Two-stroke
+Mitsubishi 2G1 engine	configuration	Straight-two
+BMW S65	configuration	90
+Mercedes-Benz M116 engine	configuration	90
+Volvo B8444S engine	configuration	60
+Rover Meteor	configuration	straight-six pushrod ohv
+Toyota Type A engine	configuration	Straight-6 engine
+Toyota Type A engine	configuration	I6
+Toyota Type A engine	configuration	Inline-four engine
+Toyota Type A engine	configuration	I2 two-stroke
+Toyota Type A engine	configuration	I4
+BMW M2B15	configuration	Flat-twin engine
+Nissan CR engine	configuration	Inline-4
+Volkswagen D24TIC engine	configuration	Straight-six engine
+Volkswagen D24TIC engine	configuration	Diesel engine
+Volkswagen D24T engine	configuration	Straight-six engine
+Volkswagen D24T engine	configuration	Diesel engine
+Volkswagen D24 engine	configuration	Straight-six engine
+Volkswagen D24 engine	configuration	Diesel engine
+Nissan VR engine	configuration	60
+Tatra 111	configuration	75
+Tatra 603	configuration	V8 engine
+Tatra 603	configuration	V8
+BMW N63	configuration	90
+Tatra 138	configuration	75
+Holden straight-six motor	configuration	Straight-six engine
+BMW OHV V8 engine	configuration	OHV V8, 16 valves
+TVR Speed Eight engine	configuration	V8 engine
+Ferrari F136 engine	configuration	90
+Ford GAA engine	configuration	60
+Paxman Valenta	configuration	V12 engine
+Paxman Valenta	configuration	Four-stroke engine
+Paxman Valenta	configuration	Turbo-charged
+Paxman Valenta	configuration	Intercooler
+Paxman Valenta	configuration	Diesel engine
+Paxman Ventura	configuration	V12 or V16 four-stroke turbo-charged high-speed diesel
+General Motors 90° V6 engine	configuration	90
+Rover Light Six	configuration	straight-six pushrod ohv
+Alvis Speed 20	configuration	straight-six
+International Harvester IDI	configuration	V8
+Duesenberg Straight-8 engine	configuration	Straight-eight engine
+Ford EcoBoost engine	configuration	I-3, I-4 and 60° V6
+BMW N57	configuration	Straight-6
+Polyspheric	configuration	90
+BMW Goldfish V16	configuration	V16 engine
+Toyota FZ engine	configuration	Straight-six engine
+BMW N74	configuration	60
+BMW P60B40	configuration	90
+24 engine	configuration	Air-cooled engine
+24 engine	configuration	Two-stroke engine
+24 engine	configuration	Straight-two
+Commer TS3	configuration	three-cylinder, six-piston opposed piston engine with rocker drive to a single crankshaft.
+V9X engine	configuration	Turbo diesel
+V9X engine	configuration	V6
+Chevrolet 153 4-cylinder engine	configuration	Inline-four engine
+BMW M60	configuration	DOHC 90° V8
+D-400 engine	configuration	Single-cylinder 2-stroke
+Mercedes-Benz OM651 engine	configuration	Inline-four
+GM Family Z engine	configuration	Inline-4
+Nissan VRT35	configuration	DOHC 70° V12
+Nissan W64 engine	configuration	90
+Mercedes-Benz OM636	configuration	Inline-four engine
+Fiat 124 series engine	configuration	OHV 2-valve inline-four
+Fiat 124 series engine	configuration	SOHC 2-valve inline-four
+Fiat 124 series engine	configuration	SOHC diesel 2-valve inline-four
+Vauxhall 23-60	configuration	inline 4
+Mercedes-Benz OM457 engine	configuration	Inline 6
+Ducati Bipantah engine	configuration	90
+Opel Cam-in-head engine	configuration	Inline-four engine
+Opel Cam-in-head engine	configuration	Straight-six engine
+Duesenberg Model J	configuration	Straight-eight engine
+Cadillac High Technology engine	configuration	V8
+Duesenberg Model A	configuration	Straight-eight engine
+Honda Indy V8	configuration	V8 naturally-aspirated, 90° cylinder angle
+Zytek ZRS03	configuration	V8 normally-aspirated, 90° cylinder angle
+Vauxhall 20-60	configuration	inline 6
+Fiat TwinAir engine	configuration	Straight-twin engine
+Isuzu V engine	configuration	75
+Viper engine	configuration	90
+Ferrari F140 engine	configuration	65
+Chevrolet Indy V6	configuration	V6 engine, 90° cylinder angle
+Morris Six	configuration	inline 6-cylinders with overhead valves and single overhead camshaft
+Ferrari F154 engine	configuration	90
+Model N Engine	configuration	Inline 4
+LIAZ 100 series	configuration	V6 engine
+F133 engine	configuration	65
+Mercedes-Benz M136 engine	configuration	Inline-four engine
+Ferrari flat-12 engine	configuration	180
+Fiat 100 series engine	configuration	OHV 2-valve inline-four
+Daimler Twenty-Two	configuration	vertical inline 4-cylinder
+Rover Two-litre	configuration	straight-six pushrod ohv
+FCA F160 engine	configuration	60
+Volvo Engine Architecture	configuration	I3, I4
+Mercedes-Benz OM654 engine	configuration	Inline-four

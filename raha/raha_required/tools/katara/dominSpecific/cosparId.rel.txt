@@ -1,0 +1,1854 @@
+Apollo 8	cosparId	1968
+Apollo 11	cosparId	CSM: 1969-059A
+Apollo 11	cosparId	LM: 1969-059C
+Apollo 7	cosparId	1968
+Apollo 9	cosparId	CSM: 1969-018A
+Apollo 9	cosparId	LM: 1969-018C
+Apollo 13	cosparId	1970
+Apollo 10	cosparId	CSM: 1969-043A
+Apollo 10	cosparId	LM: 1969-043C
+Apollo 12	cosparId	CSM: 1969-099A
+Apollo 12	cosparId	LM: 1969-099C
+Apollo 14	cosparId	CSM: 1971-008A
+Apollo 14	cosparId	LM: 1971-008C
+Apollo 15	cosparId	CSM: 1971-063A
+Apollo 15	cosparId	LM: 1971-063C
+Apollo 16	cosparId	CSM: 1972-031A
+Apollo 16	cosparId	LM: 1972-031C
+Apollo 17	cosparId	CSM: 1972-096A
+Apollo 17	cosparId	LM: 1972-096C
+STS-51-F	cosparId	1985
+Deep Space 1	cosparId	1998
+Gemini 10	cosparId	1966
+Galileo	cosparId	1989
+2001 Mars Odyssey	cosparId	2001
+Mariner 4	cosparId	1964
+Pioneer 11	cosparId	1973
+Voyager 2	cosparId	1977
+Voyager 1	cosparId	1977
+Mariner 9	cosparId	1971
+NEAR Shoemaker	cosparId	1996
+Pioneer 10	cosparId	1972
+Mariner 5	cosparId	1967
+Mariner 3	cosparId	1964
+Mariner 10	cosparId	1973
+Mariner 6 and 7	cosparId	1969
+Hubble Space Telescope	cosparId	1990
+Lunokhod 2	cosparId	1973
+Lunokhod 1	cosparId	1970
+Ulysses	cosparId	1990
+Explorer 1	cosparId	1958
+Cassini–Huygens	cosparId	1997
+Pioneer Venus Orbiter	cosparId	1978
+Giotto	cosparId	1985
+Surveyor 7	cosparId	1968
+Surveyor 3	cosparId	1967
+Luna 4	cosparId	1963
+Vanguard 1	cosparId	1958
+Envisat	cosparId	2002
+Tyazhely Sputnik	cosparId	1961
+Venera 1	cosparId	1961
+Ranger 2	cosparId	1961
+Ranger 3	cosparId	1962
+Ranger 4	cosparId	1962
+Venera 2MV-1 No.2	cosparId	1962
+Venera 2MV-1 No.1	cosparId	1962
+Ranger 5	cosparId	1962
+Viking 1	cosparId	Orbiter:1975-075A
+Viking 1	cosparId	Lander:1975-075C
+Mars Observer	cosparId	1992
+Clementine	cosparId	1994
+CONTOUR	cosparId	2002
+Kosmos 21	cosparId	1963
+Luna E-6 No.2	cosparId	1963
+Viking 2	cosparId	Orbiter:1975-083A
+Viking 2	cosparId	Lander:1975-083C
+Soyuz 1	cosparId	1967
+Surveyor 1	cosparId	1966
+Luna 5	cosparId	1965
+Luna 6	cosparId	1965
+Luna 7	cosparId	1965
+Luna 13	cosparId	1966
+Luna 8	cosparId	1965
+Luna 9	cosparId	1966
+Luna 12	cosparId	1966
+Luna 10	cosparId	1966
+Luna 11	cosparId	1966
+Luna 14	cosparId	1968
+Luna 15	cosparId	1969
+Luna 17	cosparId	1970
+Luna 21	cosparId	1973
+Luna 22	cosparId	1974
+Luna 18	cosparId	1971
+Luna 16	cosparId	1970
+Luna 20	cosparId	1972
+Luna 19	cosparId	1971
+Luna 23	cosparId	1974
+Luna 24	cosparId	1976
+Surveyor 5	cosparId	1967
+Surveyor 4	cosparId	1967
+Surveyor 2	cosparId	1966
+Surveyor 6	cosparId	1967
+Mars 7	cosparId	Bus: 1973-053A
+Mars 7	cosparId	Lander: 1973-053D
+Mars 4	cosparId	1973
+Mars 6	cosparId	Bus: 1973-052A
+Mars 6	cosparId	Lander: 1973-052D
+Mars 5	cosparId	1973
+Mars 2	cosparId	Orbiter:1971-045A
+Mars 2	cosparId	Lander:1971-045D
+Mars 3	cosparId	Orbiter:1971-049A
+Mars 3	cosparId	Lander:1971-049C
+Radarsat-1	cosparId	1995
+Mars Pathfinder	cosparId	1996
+STS-1	cosparId	1981
+STS-107	cosparId	2003
+Soyuz 2	cosparId	1968
+Mars Express	cosparId	2003
+Rosetta	cosparId	2004
+STS-9	cosparId	1983
+STS-4	cosparId	1982
+STS-3	cosparId	1982
+STS-2	cosparId	1981
+STS-5	cosparId	1982
+STS-6	cosparId	1983
+STS-7	cosparId	1983
+STS-31	cosparId	1990
+Vega 1	cosparId	1984
+Vega 2	cosparId	1984
+Huygens	cosparId	1997
+Wilkinson Microwave Anisotropy Probe	cosparId	2001
+Cosmic Background Explorer	cosparId	1989
+Zond 5	cosparId	1968
+Zond 6	cosparId	1968
+Zond 8	cosparId	1970
+Zond 7	cosparId	1969
+Zond 3	cosparId	1965
+Stardust	cosparId	1999
+Genesis	cosparId	2001
+Soyuz 5	cosparId	1969
+Soyuz 18	cosparId	1975
+Venera 3	cosparId	1965
+Vostok 6	cosparId	1963
+Vostok 5	cosparId	1963
+Voskhod 2	cosparId	1965
+Voskhod 1	cosparId	1964
+Soyuz 3	cosparId	1968
+Soyuz 6	cosparId	1969
+Soyuz 4	cosparId	1969
+Soyuz 7	cosparId	1969
+Soyuz 8	cosparId	1969
+Soyuz 9	cosparId	1970
+Soyuz 10	cosparId	1971
+Soyuz 11	cosparId	1971
+Soyuz 12	cosparId	1973
+STS-50	cosparId	1992
+Soyuz 21	cosparId	1976
+TIROS-1	cosparId	1960
+SMART-1	cosparId	2003
+Hipparcos	cosparId	1989
+COROT	cosparId	2006
+Gemini 3	cosparId	1965
+Mercury-Atlas 9	cosparId	1963
+Soyuz TMA-2	cosparId	2003
+Chandra X-ray Observatory	cosparId	1999
+BeppoSAX	cosparId	1996
+XMM-Newton	cosparId	1999
+Apollo 6	cosparId	1968
+Apollo 5	cosparId	Ascent stage: 1968-007A
+Apollo 5	cosparId	Descent stage: 1968-007B
+Apollo 4	cosparId	1967
+Lunar Orbiter 1	cosparId	1966
+Mars Global Surveyor	cosparId	1996
+Beagle 2	cosparId	2003
+Magellan	cosparId	1989
+Soyuz 29	cosparId	1978
+IRAS	cosparId	1983
+Spitzer Space Telescope	cosparId	2003
+Mars Climate Orbiter	cosparId	1998
+Apollo–Soyuz Test Project	cosparId	1975
+High Energy Transient Explorer	cosparId	1996
+High Energy Transient Explorer	cosparId	2000
+Shenzhou 5	cosparId	2003
+Soyuz TMA-3	cosparId	2003
+Soyuz 13	cosparId	1973
+Solar and Heliospheric Observatory	cosparId	1995
+Soyuz 14	cosparId	1974
+Soyuz 15	cosparId	1974
+Soyuz 17	cosparId	1975
+Soyuz 16	cosparId	1974
+Soyuz 22	cosparId	1976
+Soyuz 23	cosparId	1976
+Skylab 2	cosparId	1973
+Shenzhou 6	cosparId	2005
+Dong Fang Hong I	cosparId	1970
+Gemini 4	cosparId	1965
+Gemini 5	cosparId	1965
+Gemini 7	cosparId	1965
+Gemini 6A	cosparId	1965
+Gemini 8	cosparId	1966
+Gemini 9A	cosparId	1966
+Gemini 1	cosparId	1964
+Sakigake	cosparId	1985
+Pioneer 6, 7, 8, and 9	cosparId	1965
+Pioneer 6, 7, 8, and 9	cosparId	1966
+Pioneer 6, 7, 8, and 9	cosparId	1967
+Pioneer 6, 7, 8, and 9	cosparId	1968
+AS-203	cosparId	1966
+Venera 16	cosparId	1983
+Venera 15	cosparId	1983
+Mars Polar Lander	cosparId	1999
+New Horizons	cosparId	2006
+Landsat 1	cosparId	1972
+Saturn I SA-5	cosparId	1964
+AS-101	cosparId	1964
+AS-102	cosparId	1964
+Fermi Gamma-ray Space Telescope	cosparId	2008
+STS-75	cosparId	1996
+Soyuz 28	cosparId	1978
+Soyuz TM-32	cosparId	2001
+Soyuz TM-27	cosparId	1998
+Soyuz TM-19	cosparId	1994
+Soyuz TM-28	cosparId	1998
+STS-41-C	cosparId	1984
+Soyuz 27	cosparId	1978
+Long Duration Exposure Facility	cosparId	1984
+Gemini 11	cosparId	1966
+Gemini 12	cosparId	1966
+Soyuz 24	cosparId	1977
+Soyuz 25	cosparId	1977
+Soyuz 26	cosparId	1977
+Spirit	cosparId	2003
+Opportunity	cosparId	2003
+STS-32	cosparId	1990
+STS-8	cosparId	1983
+Phobos 1	cosparId	1988
+Phobos 2	cosparId	1988
+Nozomi	cosparId	1998
+STS-41-B	cosparId	1984
+STS-41-G	cosparId	1984
+Mars 96	cosparId	1996
+GALEX	cosparId	2003
+MESSENGER	cosparId	2004
+Mars Reconnaissance Orbiter	cosparId	2005
+Mars Science Laboratory	cosparId	2011
+Phoenix	cosparId	2007
+Kosmos 954	cosparId	1977
+Terra	cosparId	1999
+Landsat 7	cosparId	1999
+STS-93	cosparId	1999
+STS-51-A	cosparId	1984
+STS-51-C	cosparId	1985
+STS-51-D	cosparId	1985
+STS-51-B	cosparId	1985
+STS-41-D	cosparId	1984
+STS-51-J	cosparId	1985
+STS-51-G	cosparId	1985
+STS-61-B	cosparId	1985
+STS-51-I	cosparId	1985
+STS-26	cosparId	1988
+STS-28	cosparId	1989
+STS-30	cosparId	1989
+STS-61-C	cosparId	1986
+STS-34	cosparId	1989
+STS-29	cosparId	1989
+STS-61-A	cosparId	1985
+STS-27	cosparId	1988
+STS-33	cosparId	1989
+STS-36	cosparId	1990
+STS-41	cosparId	1990
+STS-38	cosparId	1990
+STS-37	cosparId	1991
+STS-35	cosparId	1990
+STS-39	cosparId	1991
+STS-40	cosparId	1991
+STS-48	cosparId	1991
+STS-43	cosparId	1991
+STS-44	cosparId	1991
+STS-49	cosparId	1992
+STS-46	cosparId	1992
+STS-42	cosparId	1992
+STS-47	cosparId	1992
+STS-45	cosparId	1992
+STS-52	cosparId	1992
+STS-53	cosparId	1992
+STS-54	cosparId	1993
+STS-56	cosparId	1993
+STS-51	cosparId	1993
+STS-55	cosparId	1993
+STS-57	cosparId	1993
+STS-58	cosparId	1993
+STS-61	cosparId	1993
+STS-85	cosparId	1997
+STS-113	cosparId	2002
+STS-112	cosparId	2002
+STS-62	cosparId	1994
+STS-60	cosparId	1994
+STS-59	cosparId	1994
+STS-64	cosparId	1994
+STS-65	cosparId	1994
+Philae	cosparId	2004
+Uhuru	cosparId	1970
+Infrared Space Observatory	cosparId	1995
+STS-73	cosparId	1995
+STS-78	cosparId	1996
+STS-79	cosparId	1996
+STS-71	cosparId	1995
+STS-74	cosparId	1995
+STS-77	cosparId	1996
+STS-80	cosparId	1996
+STS-76	cosparId	1996
+STS-72	cosparId	1996
+STS-69	cosparId	1995
+STS-66	cosparId	1994
+STS-63	cosparId	1995
+STS-70	cosparId	1995
+STS-67	cosparId	1995
+Gravity Probe B	cosparId	2004
+UoSAT-2	cosparId	1984
+Compton Gamma Ray Observatory	cosparId	1991
+STS-114	cosparId	2005
+Prospero	cosparId	1971
+STS-81	cosparId	1997
+STS-82	cosparId	1997
+STS-83	cosparId	1997
+STS-87	cosparId	1997
+STS-86	cosparId	1997
+STS-84	cosparId	1997
+STS-94	cosparId	1997
+STS-96	cosparId	1999
+STS-92	cosparId	2000
+STS-101	cosparId	2000
+STS-91	cosparId	1998
+STS-89	cosparId	1998
+STS-90	cosparId	1998
+STS-98	cosparId	2001
+STS-106	cosparId	2000
+STS-97	cosparId	2000
+STS-95	cosparId	1998
+STS-88	cosparId	1998
+STS-103	cosparId	1999
+STS-100	cosparId	2001
+STS-99	cosparId	2000
+STS-102	cosparId	2001
+STS-104	cosparId	2001
+STS-105	cosparId	2001
+STS-108	cosparId	2001
+STS-110	cosparId	2002
+STS-109	cosparId	2002
+STS-111	cosparId	2002
+Skylab 3	cosparId	1973
+Hayabusa	cosparId	2003
+Chang'e 1	cosparId	2007
+Deep Impact	cosparId	2005
+Venera 11	cosparId	1978
+Venera 12	cosparId	1978
+Venera 10	cosparId	1975
+Venera 9	cosparId	1975
+Soyuz TMA-4	cosparId	2004
+Rossi X-ray Timing Explorer	cosparId	1995
+Lunar Prospector	cosparId	1998
+Ranger 7	cosparId	1964
+Venera 6	cosparId	1969
+Suisei	cosparId	1985
+MOST	cosparId	2003
+SCISAT-1	cosparId	2003
+CASSIOPE	cosparId	2013
+Alouette 2	cosparId	1965
+Upper Atmosphere Research Satellite	cosparId	1991
+Skylab 4	cosparId	1973
+Pioneer Venus Multiprobe	cosparId	1978
+Zond 1	cosparId	1964
+Soyuz TMA-1	cosparId	2002
+AS-104	cosparId	1965
+AS-103	cosparId	1965
+AS-105	cosparId	1965
+Gaia	cosparId	2013
+Aura	cosparId	2004
+Aqua	cosparId	2002
+STS-121	cosparId	2006
+Venus Express	cosparId	2005
+CRRES	cosparId	1990
+Soyuz 31	cosparId	1978
+Soyuz 30	cosparId	1978
+Soyuz 20	cosparId	1975
+Soyuz 32	cosparId	1979
+Soyuz 34	cosparId	1979
+Soyuz 33	cosparId	1979
+Soyuz 35	cosparId	1980
+Soyuz T-2	cosparId	1980
+Soyuz 36	cosparId	1980
+Soyuz 37	cosparId	1980
+Soyuz 38	cosparId	1980
+Soyuz T-4	cosparId	1981
+Soyuz 39	cosparId	1981
+Soyuz T-3	cosparId	1980
+Soyuz 40	cosparId	1981
+Soyuz T-5	cosparId	1982
+Soyuz T-7	cosparId	1982
+Kepler	cosparId	2009
+Soyuz TM-3	cosparId	1987
+Soyuz TM-2	cosparId	1987
+Soyuz T-15	cosparId	1986
+Soyuz T-14	cosparId	1985
+Soyuz T-13	cosparId	1985
+Soyuz T-12	cosparId	1984
+Soyuz T-11	cosparId	1984
+Soyuz T-10	cosparId	1984
+Soyuz T-8	cosparId	1983
+Soyuz T-9	cosparId	1983
+Soyuz T-6	cosparId	1982
+Soyuz TM-8	cosparId	1989
+Soyuz TM-6	cosparId	1988
+Soyuz TM-7	cosparId	1988
+Soyuz TM-5	cosparId	1988
+Soyuz TM-4	cosparId	1987
+Soyuz TM-9	cosparId	1990
+Soyuz TM-10	cosparId	1990
+Soyuz TM-11	cosparId	1990
+Soyuz TM-12	cosparId	1991
+Soyuz TM-13	cosparId	1991
+Soyuz TM-15	cosparId	1992
+Soyuz TM-16	cosparId	1993
+Soyuz TM-14	cosparId	1992
+Soyuz TM-17	cosparId	1993
+Soyuz TM-18	cosparId	1994
+Soyuz TM-20	cosparId	1994
+Soyuz TM-21	cosparId	1995
+Soyuz TM-33	cosparId	2001
+Soyuz TM-34	cosparId	2002
+Soyuz TM-31	cosparId	2000
+SELENE	cosparId	2007
+Soyuz TM-22	cosparId	1995
+Soyuz TM-24	cosparId	1996
+Soyuz TM-25	cosparId	1997
+Soyuz TM-26	cosparId	1997
+Soyuz TM-29	cosparId	1999
+Soyuz TM-30	cosparId	2000
+Soyuz TM-23	cosparId	1996
+STS-115	cosparId	2006
+Shenzhou 3	cosparId	2002
+Shenzhou 2	cosparId	2001
+Shenzhou 1	cosparId	1999
+Shenzhou 4	cosparId	2002
+Soyuz TMA-5	cosparId	2004
+Ranger 6	cosparId	1964
+Ranger 8	cosparId	1965
+Ranger 9	cosparId	1965
+Lunar Orbiter 2	cosparId	1966
+Lunar Orbiter 3	cosparId	1967
+Lunar Orbiter 5	cosparId	1967
+Lunar Orbiter 4	cosparId	1967
+Explorer 35	cosparId	1967
+Helios	cosparId	Helios-A :1974-097A
+Helios	cosparId	Helios-B :1976-003A
+Far Ultraviolet Spectroscopic Explorer	cosparId	1999
+Project Echo	cosparId	1960
+Project Echo	cosparId	1964
+AO-51	cosparId	2004
+Jason-1	cosparId	2001
+Deep Space Climate Observatory	cosparId	2015
+Advanced Composition Explorer	cosparId	1997
+NOAA-4	cosparId	1974
+Chandrayaan-1	cosparId	2008
+Kosmos 212	cosparId	1968
+IMAGE	cosparId	2000
+Gravity Recovery and Climate Experiment	cosparId	2002
+Venera 7	cosparId	1970
+ROSAT	cosparId	1990
+Herschel Space Observatory	cosparId	2009
+Reuven Ramaty High Energy Solar Spectroscopic Imager	cosparId	2002
+Swift Gamma-Ray Burst Mission	cosparId	2004
+TIMED	cosparId	2001
+Yohkoh	cosparId	1991
+Solar Maximum Mission	cosparId	1980
+Shenzhou 7	cosparId	2008
+Venera 13	cosparId	1981
+Venera 4	cosparId	1967
+Venera 8	cosparId	1972
+Venera 5	cosparId	1969
+Venera 2	cosparId	1965
+Venera 14	cosparId	1981
+Galileo Probe	cosparId	1989
+Telstar 401	cosparId	1993
+Fobos-Grunt	cosparId	2011
+TRACE	cosparId	1998
+Soyuz TMA-6	cosparId	2005
+Ōsumi	cosparId	1970
+Kosmos 419	cosparId	1971
+HALCA	cosparId	1997
+High Energy Astronomy Observatory 1	cosparId	1977
+INTEGRAL	cosparId	2002
+Einstein Observatory	cosparId	1978
+EXOSAT	cosparId	1983
+Ginga	cosparId	1987
+Planck	cosparId	2009
+Landsat 5	cosparId	1984
+Landsat 4	cosparId	1982
+Landsat 3	cosparId	1978
+AsiaStar	cosparId	2000
+STS-117	cosparId	2007
+STS-116	cosparId	2006
+NuSTAR	cosparId	2012
+Hiten	cosparId	1990
+Intelsat 9	cosparId	2000
+Telstar 301	cosparId	1983
+Eutelsat 33C	cosparId	2001
+DirecTV-5	cosparId	2002
+Akatsuki	cosparId	2010
+Cartosat-1	cosparId	2005
+PAS-22	cosparId	1997
+STS-118	cosparId	2007
+Aryabhata	cosparId	1975
+Seasat	cosparId	1978
+ICESat	cosparId	2003
+Foton-M No.2	cosparId	2005
+Suzaku	cosparId	2005
+STS-119	cosparId	2009
+International Cometary Explorer	cosparId	1978
+International Ultraviolet Explorer	cosparId	1978
+Soyuz TMA-7	cosparId	2005
+Progress 1	cosparId	1978
+GSAT-3	cosparId	2004
+ISIS	cosparId	1969
+ISIS	cosparId	1971
+STS-120	cosparId	2007
+GSAT-1	cosparId	2001
+GSAT-2	cosparId	2003
+Cluster II	cosparId	FM6 : 2000-041A
+Cluster II	cosparId	FM7 : 2000-041B
+Cluster II	cosparId	FM5 : 2000-045A
+Cluster II	cosparId	FM8 : 2000-045B
+Intelsat I	cosparId	1965
+Gravity Field and Steady-State Ocean Circulation Explorer	cosparId	2009
+Galaxy 1	cosparId	1983
+Soyuz TMA-8	cosparId	2006
+Pioneer P-1	cosparId	1959
+Shenzhou 8	cosparId	2011
+WIND	cosparId	1994
+AMC-3	cosparId	1997
+Advanced Land Observation Satellite	cosparId	2006
+Vinasat-1	cosparId	2008
+Sina-1	cosparId	2005
+TopSat	cosparId	2005
+Shenzhou 10	cosparId	2013
+Shenzhou 9	cosparId	2012
+ATS-6	cosparId	1974
+CHAMP	cosparId	2000
+Constellation Observing System for Meteorology, Ionosphere, and Climate	cosparId	2006
+STS-122	cosparId	2008
+CALIPSO	cosparId	2006
+CloudSat	cosparId	2006
+Odin	cosparId	2001
+STEREO	cosparId	STEREO A: 2006-047A
+STEREO	cosparId	STEREO B: 2006-047B
+QuikSCAT	cosparId	1999
+Ørsted	cosparId	1999
+Telkom-2	cosparId	2005
+Kosmos 482	cosparId	1972
+PROBA	cosparId	2001
+Satélite de Coleta de Dados	cosparId	1993
+Satélite de Coleta de Dados	cosparId	1998
+Akari	cosparId	2006
+Solar Dynamics Observatory	cosparId	2010
+Wide Field Infrared Explorer	cosparId	1999
+Midcourse Space Experiment	cosparId	1996
+Kosmos 379	cosparId	1970
+Kosmos 434	cosparId	1971
+Kosmos 613	cosparId	1973
+Soyuz T-1	cosparId	1979
+Galaxy 4R	cosparId	2000
+Interstellar Boundary Explorer	cosparId	2008
+Geosat	cosparId	1985
+Kosmos 690	cosparId	1974
+Kosmos 605	cosparId	1973
+Kosmos 1667	cosparId	1985
+Kosmos 782	cosparId	1975
+Kosmos 936	cosparId	1977
+Kosmos 1129	cosparId	1979
+Kosmos 1887	cosparId	1987
+Kosmos 1514	cosparId	1983
+Kosmos 2229	cosparId	1992
+Kosmos 2044	cosparId	1989
+Kosmos 110	cosparId	1966
+Bion No.11	cosparId	1996
+Space Technology 5	cosparId	2006
+STS-127	cosparId	2009
+Badr-1	cosparId	1990
+Soyuz TMA-9	cosparId	2006
+Astra 2C	cosparId	2001
+Astra 2B	cosparId	2000
+Explorer 17	cosparId	1963
+CUTE-1.7 + APD	cosparId	2006
+NSS-6	cosparId	2002
+NSS-7	cosparId	2002
+Eutelsat 31A	cosparId	2003
+Soyuz TMA-10	cosparId	2007
+JCSAT-5A	cosparId	2006
+Soyuz TMA-11	cosparId	2007
+LCROSS	cosparId	2009
+Tropical Rainfall Measuring Mission	cosparId	1997
+THEMIS	cosparId	2007
+UoSAT-12	cosparId	1999
+Aeronomy of Ice in the Mesosphere	cosparId	2007
+STS-126	cosparId	2008
+Eutelsat 16C	cosparId	2000
+Eutelsat 16B	cosparId	1998
+Nilesat 101	cosparId	1998
+Nilesat 102	cosparId	2000
+TerraSAR-X	cosparId	2007
+STS-133	cosparId	2011
+STS-125	cosparId	2009
+NOAA-19	cosparId	2009
+Earth Radiation Budget Satellite	cosparId	1984
+STS-123	cosparId	2008
+STS-124	cosparId	2008
+STS-130	cosparId	2010
+STS-129	cosparId	2009
+STS-128	cosparId	2009
+STS-132	cosparId	2010
+STS-131	cosparId	2010
+Badr-4	cosparId	2006
+Brasilsat B1	cosparId	1994
+USA-165	cosparId	2005
+Soyuz TMA-12	cosparId	2008
+Orbiting Frog Otolith	cosparId	1970
+Fast Auroral Snapshot Explorer	cosparId	1996
+Wide-field Infrared Survey Explorer	cosparId	2009
+SumbandilaSat	cosparId	2009
+Tele-X	cosparId	1989
+Hinode	cosparId	2006
+Astrid	cosparId	Astrid 1: 1995-002B
+Astrid	cosparId	Astrid 2: 1998-072B
+AMC-18	cosparId	2006
+STS-68	cosparId	1994
+PAGEOS	cosparId	1966
+Technology Experiment Satellite	cosparId	2001
+Geotail	cosparId	1992
+Akebono	cosparId	1989
+Coriolis	cosparId	2003
+Explorer 33	cosparId	1966
+Explorer 49	cosparId	1973
+Freja	cosparId	1992
+Kosmos 111	cosparId	1966
+Meridian 1	cosparId	2006
+Fengyun 2-05	cosparId	2006
+MEASAT-3	cosparId	2006
+TacSat-2	cosparId	2006
+AsiaSat 2	cosparId	1995
+AsiaSat 5	cosparId	2009
+ASTRO	cosparId	2007
+Amos-2	cosparId	2003
+Intelsat 24	cosparId	1996
+NEXTSat	cosparId	2007
+OREX	cosparId	1994
+EgyptSat 1	cosparId	2007
+Space Capsule Recovery Experiment	cosparId	2007
+ESSA-8	cosparId	1968
+Landsat 2	cosparId	1975
+Extreme Ultraviolet Explorer	cosparId	1992
+Astrosat	cosparId	2015
+Skynet 5A	cosparId	2007
+Polar	cosparId	1996
+Gravity Recovery and Interior Laboratory	cosparId	2011
+Van Allen Probes	cosparId	2012
+Kalpana-1	cosparId	2002
+SDS-1	cosparId	2009
+Soyuz TMA-13	cosparId	2008
+Cartosat-2	cosparId	2007
+Galaxy 19	cosparId	2008
+ACRIMSAT	cosparId	1999
+Kosmos 398	cosparId	1971
+Dynamics Explorer	cosparId	1981
+Solar Anomalous and Magnetospheric Particle Explorer	cosparId	1992
+AGILE	cosparId	2007
+NOAA-15	cosparId	1998
+NOAA-18	cosparId	2005
+NOAA-16	cosparId	2000
+NOAA-17	cosparId	2002
+Hayabusa 2	cosparId	2014
+RazakSAT	cosparId	2009
+Submillimeter Wave Astronomy Satellite	cosparId	1998
+Galaxy 17	cosparId	2007
+NigComSat-1	cosparId	2007
+ETS-VIII	cosparId	2006
+Resurs-DK No.1	cosparId	2006
+AMC-11	cosparId	2004
+USA-87	cosparId	1992
+Intelsat 11	cosparId	2007
+Soyuz TMA-14	cosparId	2009
+Astra 1K	cosparId	2002
+EPOXI	cosparId	2005
+TacSat-3	cosparId	2009
+Ocean Surface Topography Mission	cosparId	2008
+THEOS	cosparId	2008
+AMC-6	cosparId	2000
+AMC-4	cosparId	1999
+Soyuz TMA-15	cosparId	2009
+Soyuz TMA-16	cosparId	2009
+JCSAT-11	cosparId	2007
+SES-8	cosparId	2013
+Garuda 1	cosparId	2000
+Intelsat 14	cosparId	2009
+STEX	cosparId	1998
+WorldView-1	cosparId	2007
+CBERS-2B	cosparId	2007
+Ofek-7	cosparId	2007
+Solar Mesosphere Explorer	cosparId	1981
+HYLAS-1	cosparId	2010
+COSMO-1	cosparId	2007
+WINDS	cosparId	2008
+GOES 1	cosparId	1975
+GeoEye-1	cosparId	2008
+Granat	cosparId	1989
+Telstar 12	cosparId	1999
+Intelsat 8	cosparId	1998
+Intelsat 2	cosparId	1994
+Intelsat 3R	cosparId	1996
+Intelsat 1R	cosparId	2000
+USA-195	cosparId	2007
+Badr-B	cosparId	2001
+Skynet 5B	cosparId	2007
+Star One C1	cosparId	2007
+GOES 14	cosparId	2009
+Arabsat-1A	cosparId	1985
+Cornell University Satellite	cosparId	2013
+ARGOS	cosparId	1999
+High Energy Astronomy Observatory 3	cosparId	1979
+Horizons-2	cosparId	2007
+ROBUSTA	cosparId	2012
+Landsat 8	cosparId	2013
+Space Flyer Unit	cosparId	1995
+TecSAR	cosparId	2008
+PROBA2	cosparId	2009
+USA-193	cosparId	2006
+AAUSAT-II	cosparId	2008
+Lunar Atmosphere and Dust Environment Explorer	cosparId	2013
+Intelsat 16	cosparId	2010
+Thor 5	cosparId	2008
+Artemis	cosparId	2001
+Soyuz TMA-17	cosparId	2009
+Solwind	cosparId	1979
+UoSAT-1	cosparId	1981
+Lunar Reconnaissance Orbiter	cosparId	2009
+AMSAT-OSCAR 7	cosparId	1974
+Gamma	cosparId	1990
+Small Astronomy Satellite 2	cosparId	1972
+AMC-14	cosparId	2008
+Ariel 3	cosparId	1967
+Astronomical Netherlands Satellite	cosparId	1974
+ABRIXAS	cosparId	1999
+Spektr-R	cosparId	2011
+Small Astronomy Satellite 3	cosparId	1975
+Ariel 5	cosparId	1974
+Jules Verne ATV	cosparId	2008
+Greenhouse Gases Observing Satellite	cosparId	2009
+ATS-3	cosparId	1967
+CBERS-1	cosparId	1999
+European Retrievable Carrier	cosparId	1992
+Picard	cosparId	2010
+NOFS	cosparId	2008
+Amos-3	cosparId	2008
+Magnetospheric Multiscale Mission	cosparId	2015
+Cartosat-2A	cosparId	2008
+Tianlian I-01	cosparId	2008
+IMS-1	cosparId	2008
+Near Earth Object Surveillance Satellite	cosparId	2013
+Star One C2	cosparId	2008
+USA-200	cosparId	2008
+USA-201	cosparId	2008
+UGATUSAT	cosparId	2009
+Türksat 3A	cosparId	2008
+Delfi-C3	cosparId	2008
+ABS-3	cosparId	1997
+Nilesat 201	cosparId	2010
+Optus D3	cosparId	2009
+Megha-Tropiques	cosparId	2011
+STS-134	cosparId	2011
+Türksat 2A	cosparId	2001
+Soil Moisture and Ocean Salinity	cosparId	2009
+AMC-7	cosparId	2000
+ExoMars Trace Gas Orbiter	cosparId	2016
+Magsat	cosparId	1979
+Soyuz TMA-01M	cosparId	2010
+XSS 10	cosparId	2003
+TacSat-4	cosparId	2011
+Superbird-C2	cosparId	2008
+AMC-21	cosparId	2008
+MightySat-1	cosparId	1998
+MightySat-2.1	cosparId	2000
+FASTRAC	cosparId	2010
+Advanced Photovoltaic Experiment	cosparId	1994
+TAOS	cosparId	1994
+USA-212	cosparId	2010
+Soyuz TMA-18	cosparId	2010
+CryoSat-2	cosparId	2010
+SNAP-1	cosparId	2000
+WorldView-2	cosparId	2009
+Koronas-Foton	cosparId	2009
+MAVEN	cosparId	2013
+Astra 5A	cosparId	1997
+Soyuz TMA-19	cosparId	2010
+Soyuz TMA-20	cosparId	2010
+Ratsat	cosparId	2008
+Hitomi	cosparId	2016
+Meteosat 8	cosparId	2002
+Banxing	cosparId	2008
+Venesat-1	cosparId	2008
+Delfi-n3Xt	cosparId	2013
+Astra 1M	cosparId	2008
+Chang'e 2	cosparId	2010
+Soil Moisture Active Passive	cosparId	2015
+Soyuz TMA-21	cosparId	2011
+PicoSAT	cosparId	2001
+STS-135	cosparId	2011
+Ciel-2	cosparId	2008
+Hot Bird 13C	cosparId	2008
+USA-202	cosparId	2009
+Kosmos 1818	cosparId	1987
+Kosmos 1867	cosparId	1987
+Drag and Atmospheric Neutral Density Explorer	cosparId	2013
+Johannes Kepler ATV	cosparId	2011
+ST-1	cosparId	1998
+Kosmos 2251	cosparId	1993
+Iridium 33	cosparId	1997
+NSS-9	cosparId	2009
+Paksat-1R	cosparId	2011
+AMC-5	cosparId	1998
+AMC-1	cosparId	1996
+NOAA-7	cosparId	1981
+ESSA-1	cosparId	1966
+Soyuz TMA-02M	cosparId	2011
+Swarm	cosparId	SWARM A: 2013-067B
+Swarm	cosparId	SWARM B: 2013-067A
+Swarm	cosparId	SWARM C: 2013-067C
+ANUSAT	cosparId	2009
+Intelsat 603	cosparId	1990
+EchoStar VI	cosparId	2000
+Arabsat-1B	cosparId	1985
+Prisma	cosparId	Mango: 2010-028B
+Prisma	cosparId	Tango: 2010-028F
+MaSat-1	cosparId	2012
+Sich-1	cosparId	1995
+Progress M-01M	cosparId	2008
+Progress M-65	cosparId	2008
+Progress M-66	cosparId	2009
+Progress M-64	cosparId	2008
+OSO 7	cosparId	1971
+Progress M-02M	cosparId	2009
+Kosmos 1669	cosparId	1985
+SICRAL 1B	cosparId	2009
+RISAT-2	cosparId	2009
+USA-205	cosparId	2009
+Earth Observing-1	cosparId	2000
+Kosmos 1402	cosparId	1982
+Omid	cosparId	2009
+Galaxy 10R	cosparId	2000
+Hispasat 1C	cosparId	2000
+Superbird-B2	cosparId	2000
+Ekspress A2	cosparId	2000
+Ekspress A3	cosparId	2000
+Sirius FM-1	cosparId	2000
+Sirius FM-2	cosparId	2000
+Sirius FM-3	cosparId	2000
+PharmaSat	cosparId	2009
+INSAT-3B	cosparId	2000
+Eutelsat 36A	cosparId	2000
+Eutelsat 4A	cosparId	2000
+Gorizont 33	cosparId	2000
+TDRS-8	cosparId	2000
+Star One B4	cosparId	2000
+AeroCube 3	cosparId	2009
+OPS 0855	cosparId	1966
+Meridian 2	cosparId	2009
+Oceansat-2	cosparId	2009
+Kosmos 25	cosparId	1964
+Kosmos 19	cosparId	1963
+Kosmos 53	cosparId	1965
+Kosmos 70	cosparId	1965
+Kosmos 17	cosparId	1963
+Kosmos 49	cosparId	1964
+Kosmos 26	cosparId	1964
+Kosmos 31	cosparId	1964
+Kosmos 51	cosparId	1964
+Resourcesat-2	cosparId	2011
+Kosmos 149	cosparId	1967
+Kosmos 320	cosparId	1970
+Kosmos 106	cosparId	1966
+Kosmos 148	cosparId	1967
+Kosmos 204	cosparId	1968
+Kosmos 242	cosparId	1968
+Kosmos 275	cosparId	1969
+Kosmos 308	cosparId	1969
+Kosmos 327	cosparId	1970
+Kosmos 362	cosparId	1970
+Kosmos 391	cosparId	1971
+Kosmos 440	cosparId	1971
+Kosmos 497	cosparId	1972
+Kosmos 615	cosparId	1973
+Kosmos 662	cosparId	1974
+Kosmos 750	cosparId	1975
+Kosmos 801	cosparId	1976
+Kosmos 901	cosparId	1977
+Kosmos 849	cosparId	1976
+Kosmos 919	cosparId	1977
+Kosmos 2441	cosparId	2008
+Kosmos 394	cosparId	1971
+Kosmos 400	cosparId	1971
+Kosmos 459	cosparId	1971
+Kosmos 521	cosparId	1972
+Kosmos 803	cosparId	1976
+Kosmos 839	cosparId	1976
+Kosmos 880	cosparId	1976
+Kosmos 909	cosparId	1977
+TerreStar-1	cosparId	2009
+Eutelsat 36B	cosparId	2009
+Kosmos 959	cosparId	1977
+Kosmos 967	cosparId	1977
+Kosmos 1171	cosparId	1980
+Kosmos 1241	cosparId	1981
+Kosmos 1375	cosparId	1982
+Badr	cosparId	1990
+Badr	cosparId	2001
+Progress M-63	cosparId	2008
+Progress M-62	cosparId	2007
+Progress M-61	cosparId	2007
+Progress M-60	cosparId	2007
+Progress M-58	cosparId	2006
+Progress M-59	cosparId	2007
+Progress M-57	cosparId	2006
+Progress M-56	cosparId	2006
+Progress M-55	cosparId	2005
+Progress M-54	cosparId	2005
+Progress M-53	cosparId	2005
+Progress M-52	cosparId	2005
+Progress M-51	cosparId	2004
+Progress M-50	cosparId	2004
+Progress M-49	cosparId	2004
+Progress M-48	cosparId	2003
+Progress M-47	cosparId	2003
+Progress M-46	cosparId	2002
+Progress M-45	cosparId	2001
+Progress M-44	cosparId	2001
+Progress M1-11	cosparId	2004
+Progress M1-10	cosparId	2003
+Progress M1-9	cosparId	2002
+Progress M1-8	cosparId	2002
+Progress M1-7	cosparId	2001
+Progress M1-6	cosparId	2001
+Progress M1-4	cosparId	2000
+Progress M-SO1	cosparId	2001
+Progress M1-3	cosparId	2000
+Progress M1-5	cosparId	2001
+Ariel 6	cosparId	1979
+Superbird-A	cosparId	1989
+Progress M-67	cosparId	2009
+Progress M1-1	cosparId	2000
+Progress M1-2	cosparId	2000
+Intelsat 22	cosparId	2012
+TDRS-1	cosparId	1983
+Intelsat 20	cosparId	2012
+Intelsat 19	cosparId	2012
+Sirius FM-5	cosparId	2009
+JCSAT-RA	cosparId	2009
+CBERS-2	cosparId	2003
+INSAT-2DT	cosparId	1992
+TV-SAT 1	cosparId	1987
+GOES 13	cosparId	2006
+GOES 12	cosparId	2001
+GOES 11	cosparId	2000
+GOES 10	cosparId	1997
+GOES 9	cosparId	1995
+GOES 8	cosparId	1994
+GOES 7	cosparId	1987
+Bulgaria 1300	cosparId	1981
+RISAT-1	cosparId	2012
+Azur	cosparId	1969
+INSAT-1B	cosparId	1983
+Deimos-1	cosparId	2009
+UK-DMC 2	cosparId	2009
+TDRS-5	cosparId	1991
+DRAGONSat	cosparId	2009
+Soyuz TMA-22	cosparId	2011
+Soyuz TMA-03M	cosparId	2011
+Thaicom 5	cosparId	2006
+Eutelsat 113 West A	cosparId	2006
+EchoStar X	cosparId	2006
+INSAT-2E	cosparId	1999
+Orion 3	cosparId	1999
+JCSAT-4A	cosparId	1999
+Kosmos 36	cosparId	1964
+Kosmos 76	cosparId	1965
+TDRS-3	cosparId	1988
+Kosmos 101	cosparId	1965
+Kosmos 116	cosparId	1966
+Kosmos 123	cosparId	1966
+TDRS-4	cosparId	1989
+Kosmos 152	cosparId	1967
+Kosmos 165	cosparId	1967
+TDRS-6	cosparId	1993
+Kosmos 173	cosparId	1967
+Kosmos 176	cosparId	1967
+TDRS-7	cosparId	1995
+TDRS-9	cosparId	2002
+Kosmos 191	cosparId	1967
+Kosmos 211	cosparId	1968
+TDRS-10	cosparId	2002
+Kosmos 221	cosparId	1968
+Kosmos 222	cosparId	1968
+Galaxy 11	cosparId	1999
+Kosmos 233	cosparId	1968
+Kosmos 245	cosparId	1968
+Kosmos 257	cosparId	1968
+N-SAT-110	cosparId	2000
+HTV-1	cosparId	2009
+GOES 2	cosparId	1977
+Kosmos 265	cosparId	1969
+Kosmos 268	cosparId	1969
+Kosmos 277	cosparId	1969
+Kosmos 285	cosparId	1969
+Kosmos 283	cosparId	1969
+GOES 3	cosparId	1978
+Kosmos 303	cosparId	1969
+Kosmos 295	cosparId	1969
+Kosmos 307	cosparId	1969
+Kosmos 319	cosparId	1970
+Kosmos 314	cosparId	1969
+Kosmos 311	cosparId	1969
+GOES 4	cosparId	1980
+Kosmos 324	cosparId	1970
+Kosmos 334	cosparId	1970
+Kosmos 347	cosparId	1970
+Kosmos 351	cosparId	1970
+Kosmos 357	cosparId	1970
+GOES 5	cosparId	1981
+Kosmos 369	cosparId	1970
+Kosmos 380	cosparId	1970
+Kosmos 388	cosparId	1970
+Kosmos 393	cosparId	1971
+GOES 6	cosparId	1983
+Kosmos 408	cosparId	1971
+Kosmos 421	cosparId	1971
+USA-206	cosparId	2009
+ESSA-9	cosparId	1969
+Palapa-D	cosparId	2009
+Progress M-1	cosparId	1989
+Progress M-2	cosparId	1989
+Progress M-3	cosparId	1990
+Progress M-4	cosparId	1990
+Progress M-5	cosparId	1990
+Kosmos 423	cosparId	1971
+Kosmos 435	cosparId	1971
+Progress M-6	cosparId	1991
+Intelsat 21	cosparId	2012
+Kosmos 467	cosparId	1971
+Kosmos 458	cosparId	1971
+Kosmos 455	cosparId	1971
+Kosmos 453	cosparId	1971
+Progress M-7	cosparId	1991
+Progress M-8	cosparId	1991
+Kosmos 472	cosparId	1972
+Kosmos 481	cosparId	1972
+Kosmos 485	cosparId	1972
+Progress M-9	cosparId	1991
+Kosmos 487	cosparId	1972
+Progress M-10	cosparId	1991
+Kosmos 498	cosparId	1972
+Kosmos 501	cosparId	1972
+USA-207	cosparId	2009
+Kosmos 580	cosparId	1973
+Kosmos 553	cosparId	1973
+Progress M-13	cosparId	1992
+Kosmos 562	cosparId	1973
+Kosmos 558	cosparId	1973
+Progress M-12	cosparId	1992
+Kosmos 545	cosparId	1973
+Kosmos 526	cosparId	1972
+Kosmos 524	cosparId	1972
+Kosmos 523	cosparId	1972
+Progress M-11	cosparId	1992
+Kosmos 601	cosparId	1973
+Kosmos 608	cosparId	1973
+Progress M-15	cosparId	1992
+Kosmos 611	cosparId	1973
+Kosmos 633	cosparId	1974
+Kosmos 634	cosparId	1974
+Pleiades	cosparId	1
+Progress M-16	cosparId	1993
+Kosmos 668	cosparId	1974
+Kosmos 686	cosparId	1974
+Kosmos 695	cosparId	1974
+Progress M-17	cosparId	1993
+Kosmos 703	cosparId	1975
+Kosmos 705	cosparId	1975
+Kosmos 725	cosparId	1975
+Kosmos 745	cosparId	1975
+Kosmos 818	cosparId	1976
+Kosmos 850	cosparId	1976
+Progress M-18	cosparId	1993
+Ariel 2	cosparId	1964
+AlSAT-1	cosparId	2002
+Ariel 4	cosparId	1971
+UK-DMC	cosparId	2003
+Kounotori 2	cosparId	2011
+Nimiq 5	cosparId	2009
+Universitetsky-Tatyana-2	cosparId	2009
+OSO 3	cosparId	1967
+OREOS	cosparId	2010
+ITUpSAT1	cosparId	2009
+Intelsat 15	cosparId	2009
+Progress M-03M	cosparId	2009
+SSOT	cosparId	2011
+Africasat-1a	cosparId	2013
+Intelsat 5	cosparId	1997
+Progress M-MIM2	cosparId	2009
+Shijian XI-01	cosparId	2009
+Kosmos 108	cosparId	1966
+Kosmos 196	cosparId	1967
+Kosmos 215	cosparId	1968
+Kosmos 335	cosparId	1970
+DirecTV-12	cosparId	2009
+Soyuz TMA-04M	cosparId	2012
+Soyuz TMA-05M	cosparId	2012
+Kosmos 93	cosparId	1965
+Kosmos 95	cosparId	1965
+Kosmos 202	cosparId	1968
+Kosmos 197	cosparId	1967
+Kosmos 145	cosparId	1967
+Kosmos 97	cosparId	1965
+GOES 15	cosparId	2010
+Kosmos 119	cosparId	1966
+Kosmos 142	cosparId	1967
+Kosmos 259	cosparId	1968
+Kosmos 135	cosparId	1966
+Kosmos 163	cosparId	1967
+Kosmos 225	cosparId	1968
+Kosmos 137	cosparId	1966
+Kosmos 219	cosparId	1968
+Kosmos 261	cosparId	1968
+Kosmos 348	cosparId	1970
+Kosmos 262	cosparId	1968
+Kosmos 321	cosparId	1970
+Kosmos 356	cosparId	1970
+Kosmos 378	cosparId	1970
+Kosmos 426	cosparId	1971
+Kosmos 461	cosparId	1971
+Kosmos 166	cosparId	1967
+Kosmos 230	cosparId	1968
+Kosmos 14	cosparId	1963
+Kosmos 23	cosparId	1963
+Xatcobeo	cosparId	2012
+SAC-D	cosparId	2011
+Compass-G1	cosparId	2010
+Dragon Spacecraft Qualification Unit	cosparId	2010
+Chang'e 3	cosparId	2013
+TIROS-N	cosparId	1978
+Radio Aurora Explorer	cosparId	2010
+IKAROS	cosparId	2010
+Edoardo Amaldi ATV	cosparId	2012
+Eutelsat 33B	cosparId	2002
+NOAA-B	cosparId	1980
+Jugnu	cosparId	2011
+Lewis	cosparId	1997
+SARAL	cosparId	2013
+LARES	cosparId	2012
+Progress M-04M	cosparId	2010
+Progress M-05M	cosparId	2010
+Heat Capacity Mapping Mission	cosparId	1978
+Cartosat-2B	cosparId	2010
+Progress M-06M	cosparId	2010
+Galaxy 15	cosparId	2005
+Globus-1M No.12L	cosparId	2010
+Kosmos 1379	cosparId	1982
+Waseda-SAT2	cosparId	2010
+Hayato	cosparId	2010
+Negai	cosparId	2010
+SES-1	cosparId	2010
+USA-213	cosparId	2010
+OPS 3762	cosparId	1964
+Nanosat-1B	cosparId	2009
+Interface Region Imaging Spectrograph	cosparId	2013
+TanDEM-X	cosparId	2010
+Ofek-9	cosparId	2010
+Arabsat-5A	cosparId	2010
+Chollian	cosparId	2010
+SpaceX COTS Demo Flight 1	cosparId	2010
+EchoStar XIV	cosparId	2010
+EchoStar XV	cosparId	2010
+Soyuz TMA-06M	cosparId	2012
+USA-214	cosparId	2010
+San Marco 1	cosparId	1964
+Biosatellite program	cosparId	1966
+Biosatellite program	cosparId	1967
+Biosatellite program	cosparId	1969
+FASTSAT	cosparId	2010
+Soyuz TMA-07M	cosparId	2012
+Progress M-07M	cosparId	2010
+ADEOS II	cosparId	2002
+AISSat-1	cosparId	2010
+Progress 2	cosparId	1978
+Progress M-08M	cosparId	2010
+Kosmos 396	cosparId	1971
+USA-223	cosparId	2010
+INSAT-3D	cosparId	2013
+Dragon C2+	cosparId	2012
+SpaceX CRS-1	cosparId	2012
+Pegasus 1	cosparId	1965
+Pegasus 2	cosparId	1965
+Pegasus 3	cosparId	1965
+INSAT-3E	cosparId	2003
+INSAT-3A	cosparId	2003
+INSAT-3C	cosparId	2002
+INSAT-4A	cosparId	2005
+SwissCube-1	cosparId	2009
+BeeSat-1	cosparId	2009
+Compass-IGSO1	cosparId	2010
+Proba-V	cosparId	2013
+TET-1	cosparId	2012
+USA-224	cosparId	2011
+Elektro-L No.1	cosparId	2011
+Progress M-09M	cosparId	2011
+IRS-1D	cosparId	1997
+Kosmos 2470	cosparId	2011
+Kedr	cosparId	1998
+USA-225	cosparId	2011
+Galaxy 25	cosparId	1997
+Albert Einstein ATV	cosparId	2013
+Soyuz TMA-08M	cosparId	2013
+Soyuz TMA-10M	cosparId	2013
+Soyuz TMA-11M	cosparId	2013
+Soyuz TMA-09M	cosparId	2013
+Kosmos 47	cosparId	1964
+USA-226	cosparId	2011
+Prowler	cosparId	N/A
+Kosmos 2471	cosparId	2011
+NEE-01 Pegaso	cosparId	2013
+USA-227	cosparId	2011
+USA-229	cosparId	2011
+Progress M-10M	cosparId	2011
+SES-7	cosparId	2009
+Transit 5E-1	cosparId	1963
+GSAT-8	cosparId	2011
+OSIRIS-REx	cosparId	2016
+Progress M-11M	cosparId	2011
+Miranda	cosparId	1974
+Rasad 1	cosparId	2011
+USA-231	cosparId	2011
+GSAT-12	cosparId	2011
+PSSC-2	cosparId	2011
+Astra 1N	cosparId	2011
+Sputnik 40	cosparId	1997
+Sputnik 41	cosparId	1998
+EROS A	cosparId	2000
+EROS B	cosparId	2006
+Telstar	cosparId	1962
+TD-1A	cosparId	1972
+Soyuz TMA-12M	cosparId	2014
+Soyuz TMA-13M	cosparId	2014
+INSAT-4CR	cosparId	2007
+ViaSat-1	cosparId	2011
+GeneSat-1	cosparId	2006
+Nahuel 1A	cosparId	1997
+Progress M-13M	cosparId	2011
+Soyuz TMA-14M	cosparId	2014
+Exploration Flight Test 1	cosparId	2014
+USA-221	cosparId	2010
+QuetzSat 1	cosparId	2011
+USA-230	cosparId	2011
+Telstar 14R	cosparId	2011
+Meridian 4	cosparId	2011
+Intelsat 28	cosparId	2011
+Zhongxing-10	cosparId	2011
+Yahsat 1A	cosparId	2011
+M-Cubed	cosparId	2011
+RAX-2	cosparId	2011
+AubieSat-1	cosparId	2011
+VesselSat-1	cosparId	2011
+SRMSAT	cosparId	2011
+Georges Lemaître ATV	cosparId	2014
+Ziyuan III-01	cosparId	2012
+VesselSat-2	cosparId	2012
+Zond 3MV-1 No.2	cosparId	1964
+Fengyun 2-07	cosparId	2012
+USA-233	cosparId	2012
+DODGE	cosparId	1967
+Colorado Student Space Weather Experiment	cosparId	2012
+Progress M-14M	cosparId	2012
+Kosmos 2176	cosparId	1992
+Progress 3	cosparId	1978
+Suomi NPP	cosparId	2011
+Navid	cosparId	2012
+ARSAT-1	cosparId	2014
+Goliat	cosparId	2012
+ATS-1	cosparId	1966
+Thaicom 6	cosparId	2014
+SES-2	cosparId	2011
+SES-3	cosparId	2011
+Cygnus Orb-D1	cosparId	2013
+Ekspress AM4	cosparId	2011
+ALMASat-1	cosparId	2012
+GSAT-14	cosparId	2014
+IRNSS-1A	cosparId	2013
+USA-215	cosparId	2010
+USA-234	cosparId	2012
+USA-184	cosparId	2006
+GSAT-10	cosparId	2012
+Kosmos 2479	cosparId	2012
+Kosmos 2440	cosparId	2008
+Kosmos 2379	cosparId	2001
+Kosmos 2397	cosparId	2003
+Kosmos 2350	cosparId	1998
+Kosmos 2282	cosparId	1994
+Kosmos 2224	cosparId	1992
+Kosmos 2133	cosparId	1991
+Kosmos 2345	cosparId	1997
+Kosmos 2209	cosparId	1992
+Kosmos 2155	cosparId	1991
+Kosmos 1894	cosparId	1987
+Kosmos 1629	cosparId	1985
+Kosmos 1546	cosparId	1984
+Kosmos 775	cosparId	1975
+Progress M-15M	cosparId	2012
+Kosmos 2469	cosparId	2010
+Progress M-34	cosparId	1997
+Progress M-24	cosparId	1994
+Kosmos 2446	cosparId	2008
+Kosmos 520	cosparId	1972
+Apstar-7	cosparId	2012
+PW-Sat	cosparId	2012
+STRaND-1	cosparId	2013
+SDS-4	cosparId	2012
+Kosmos 2430	cosparId	2007
+Kosmos 2422	cosparId	2006
+Kosmos 2393	cosparId	2002
+Kosmos 2388	cosparId	2002
+Kosmos 2368	cosparId	1999
+Kosmos 2351	cosparId	1998
+Kosmos 2342	cosparId	1997
+Kosmos 2340	cosparId	1997
+Kosmos 2286	cosparId	1994
+Kosmos 2312	cosparId	1995
+Kosmos 2261	cosparId	1993
+Kosmos 2241	cosparId	1993
+Kosmos 2232	cosparId	1993
+Kosmos 2222	cosparId	1992
+Kosmos 2217	cosparId	1992
+Kosmos 2196	cosparId	1992
+Kosmos 2105	cosparId	1990
+Kosmos 2097	cosparId	1990
+Kosmos 2087	cosparId	1990
+Kosmos 2084	cosparId	1990
+Kosmos 2076	cosparId	1990
+Kosmos 2063	cosparId	1990
+Kosmos 2050	cosparId	1989
+Kosmos 2001	cosparId	1989
+Kosmos 1977	cosparId	1988
+Kosmos 1974	cosparId	1988
+Kosmos 1966	cosparId	1988
+Kosmos 1922	cosparId	1988
+Kosmos 1851	cosparId	1987
+Kosmos 1903	cosparId	1987
+Kosmos 1849	cosparId	1987
+Kosmos 1793	cosparId	1986
+Kosmos 1806	cosparId	1986
+Kosmos 1785	cosparId	1986
+Kosmos 1783	cosparId	1986
+Kosmos 1774	cosparId	1986
+Kosmos 1761	cosparId	1986
+Kosmos 1698	cosparId	1985
+Kosmos 1687	cosparId	1985
+Kosmos 1684	cosparId	1985
+Kosmos 1701	cosparId	1985
+Kosmos 1729	cosparId	1986
+Vinasat-2	cosparId	2012
+Intelsat 901	cosparId	2001
+SpaceX CRS-2	cosparId	2013
+Kosmos 2480	cosparId	2012
+Telstar 14	cosparId	2004
+Kosmos 2472	cosparId	2011
+Kosmos 1675	cosparId	1985
+Kosmos 1661	cosparId	1985
+Kosmos 1658	cosparId	1985
+Kosmos 1604	cosparId	1984
+Kosmos 1596	cosparId	1984
+Kosmos 1586	cosparId	1984
+Kosmos 1581	cosparId	1984
+Kosmos 1569	cosparId	1984
+Kosmos 1547	cosparId	1984
+Kosmos 1541	cosparId	1984
+Kosmos 1518	cosparId	1983
+Kosmos 1481	cosparId	1983
+Kosmos 1456	cosparId	1983
+Kosmos 1409	cosparId	1982
+Kosmos 1382	cosparId	1982
+Kosmos 1367	cosparId	1982
+Kosmos 1348	cosparId	1982
+Kosmos 1341	cosparId	1982
+Kosmos 1317	cosparId	1981
+Kosmos 1285	cosparId	1981
+Kosmos 1278	cosparId	1981
+Kosmos 1261	cosparId	1981
+Kosmos 1247	cosparId	1981
+Kosmos 1223	cosparId	1980
+Kosmos 606	cosparId	1973
+Kosmos 665	cosparId	1974
+Kosmos 706	cosparId	1975
+Kosmos 862	cosparId	1976
+Kosmos 903	cosparId	1977
+Kosmos 917	cosparId	1977
+Kosmos 931	cosparId	1977
+Kosmos 1024	cosparId	1978
+Kosmos 1030	cosparId	1978
+Kosmos 1124	cosparId	1979
+Kosmos 1109	cosparId	1979
+Kosmos 1164	cosparId	1980
+Kosmos 1172	cosparId	1980
+Kosmos 1188	cosparId	1980
+Kosmos 1191	cosparId	1980
+Kosmos 1217	cosparId	1980
+Kounotori 3	cosparId	2012
+Space Technology Research Vehicle	cosparId	1
+UoSAT-3	cosparId	1990
+UoSAT-4	cosparId	1990
+UoSAT-5	cosparId	1991
+EchoStar XVII	cosparId	2012
+Soyuz TMA-15M	cosparId	2014
+E-st@r	cosparId	2012
+UniCubeSat-GG	cosparId	2012
+ST-2	cosparId	2011
+USA-38	cosparId	1989
+USA-35	cosparId	1989
+USA-42	cosparId	1989
+USA-49	cosparId	1989
+USA-47	cosparId	1989
+USA-50	cosparId	1990
+USA-54	cosparId	1990
+USA-64	cosparId	1990
+USA-63	cosparId	1990
+USA-66	cosparId	1990
+USA-71	cosparId	1991
+USA-79	cosparId	1992
+USA-80	cosparId	1992
+USA-83	cosparId	1992
+USA-242	cosparId	2013
+USA-85	cosparId	1992
+USA-84	cosparId	1992
+USA-88	cosparId	1993
+USA-90	cosparId	1993
+USA-91	cosparId	1993
+USA-92	cosparId	1993
+USA-94	cosparId	1993
+USA-96	cosparId	1993
+USA-100	cosparId	1994
+USA-117	cosparId	1996
+USA-126	cosparId	1996
+USA-128	cosparId	1996
+USA-135	cosparId	1997
+USA-132	cosparId	1997
+USA-145	cosparId	1999
+USA-151	cosparId	2000
+USA-150	cosparId	2000
+USA-154	cosparId	2000
+USA-156	cosparId	2001
+USA-166	cosparId	2003
+USA-168	cosparId	2003
+USA-175	cosparId	2003
+USA-178	cosparId	2004
+USA-180	cosparId	2004
+USA-183	cosparId	2005
+USA-177	cosparId	2004
+USA-192	cosparId	2006
+USA-190	cosparId	2006
+USA-196	cosparId	2007
+USA-199	cosparId	2007
+USA-203	cosparId	2009
+OPS 5111	cosparId	1978
+OPS 5112	cosparId	1978
+OPS 5113	cosparId	1978
+OPS 5114	cosparId	1978
+OPS 5117	cosparId	1980
+OPS 5118	cosparId	1980
+OPS 9794	cosparId	1983
+USA-1	cosparId	1984
+USA-5	cosparId	1984
+USA-10	cosparId	1985
+USA-232	cosparId	2011
+Intelsat 601	cosparId	1991
+Intelsat 602	cosparId	1989
+Intelsat 604	cosparId	1990
+Intelsat 605	cosparId	1991
+Progress M-16M	cosparId	2012
+HYLAS 2	cosparId	2012
+Mars Orbiter Mission	cosparId	2013
+Curiosity	cosparId	2011
+Kosmos 2481	cosparId	2012
+Kosmos 2468	cosparId	2010
+Kosmos 2467	cosparId	2010
+Soyuz TMA-16M	cosparId	2015
+Astra 2F	cosparId	2012
+Soyuz TMA-17M	cosparId	2015
+VRSS-1	cosparId	2012
+Kosmos 2464	cosparId	2010
+Kosmos 2465	cosparId	2010
+Kosmos 2466	cosparId	2010
+Kosmos 2478	cosparId	2011
+Intelsat 23	cosparId	2012
+Telkom-3	cosparId	2012
+Ekspress MD2	cosparId	2012
+Ekspress AM22	cosparId	2003
+Kosmos 2475	cosparId	2011
+Kosmos 2476	cosparId	2011
+Kosmos 2477	cosparId	2011
+Kosmos 2460	cosparId	2010
+Kosmos 2459	cosparId	2010
+Kosmos 2461	cosparId	2010
+Kosmos 2456	cosparId	2009
+Kosmos 2457	cosparId	2009
+Kosmos 2458	cosparId	2009
+Kosmos 2449	cosparId	2008
+Kosmos 2447	cosparId	2008
+Kosmos 2448	cosparId	2008
+Kosmos 2442	cosparId	2008
+Kosmos 2444	cosparId	2008
+Kosmos 2434	cosparId	2007
+Kosmos 2436	cosparId	2007
+Kosmos 2443	cosparId	2008
+Kosmos 2418	cosparId	2005
+Kosmos 2417	cosparId	2005
+Kosmos 2426	cosparId	2006
+Kosmos 2424	cosparId	2006
+Kosmos 2419	cosparId	2005
+Kosmos 2425	cosparId	2006
+Kosmos 2431	cosparId	2007
+Kosmos 2433	cosparId	2007
+Kosmos 2435	cosparId	2007
+Kosmos 2432	cosparId	2007
+Kosmos 2474	cosparId	2011
+Kosmos 2473	cosparId	2011
+Progress M-17M	cosparId	2012
+Luch 5B	cosparId	2012
+Luch 5A	cosparId	2011
+Star One C3	cosparId	2012
+Eutelsat 21B	cosparId	2012
+EchoStar XVI	cosparId	2012
+DubaiSat-2	cosparId	2013
+SES-5	cosparId	2012
+Meridian 6	cosparId	2012
+AAUSAT3	cosparId	2013
+Kwangmyŏngsŏng-3 Unit 2	cosparId	2012
+Iridium 7	cosparId	1997
+Eutelsat 70B	cosparId	2012
+Yamal-402	cosparId	2012
+SpaceX CRS-3	cosparId	2014
+Cygnus CRS Orb-1	cosparId	2014
+Cygnus CRS Orb-2	cosparId	2014
+Göktürk-2	cosparId	2012
+RASAT	cosparId	2011
+Skynet 5D	cosparId	2012
+Türksat 1B	cosparId	1994
+USA-240	cosparId	2012
+VNREDSat 1A	cosparId	2013
+Türksat 1C	cosparId	1996
+BILSAT-1	cosparId	2003
+SpaceX CRS-8	cosparId	2016
+ESTCube-1	cosparId	2013
+STSAT-2C	cosparId	2013
+TDRS-11	cosparId	2013
+SpaceX CRS-4	cosparId	2014
+Soyuz TMA-18M	cosparId	2015
+Amazonas 3	cosparId	2013
+Progress M-18M	cosparId	2013
+AMSAT-OSCAR 6	cosparId	1972
+Australis-OSCAR 5	cosparId	1970
+OSCAR 3	cosparId	1965
+OSCAR 4	cosparId	1965
+TUGSAT-1	cosparId	2013
+UniBRITE-1	cosparId	2013
+Sapphire	cosparId	2013
+INSAT-1A	cosparId	1982
+IRS-1C	cosparId	1995
+Tianhui 1B	cosparId	2012
+Antares A-ONE	cosparId	2013
+Eutelsat 117 West A	cosparId	2013
+USA-241	cosparId	2013
+Niwaka	cosparId	1998
+INSAT-1C	cosparId	1988
+Kosmos 96	cosparId	1965
+Kosmos 167	cosparId	1967
+Bion-M No.1	cosparId	2013
+Alexander	cosparId	2013
+Graham	cosparId	2013
+Bell	cosparId	2013
+Progress M-19M	cosparId	2013
+Kosmos 2485	cosparId	2013
+Kosmos 2484	cosparId	2013
+Kosmos 2483	cosparId	2013
+Kosmos 2482	cosparId	2013
+PROITERES	cosparId	2012
+Kosmos 1484	cosparId	1983
+Kosmos 2412	cosparId	2004
+Kosmos 2413	cosparId	2004
+Kosmos 2411	cosparId	2004
+Kosmos 2403	cosparId	2003
+Kosmos 2402	cosparId	2003
+Kosmos 2404	cosparId	2003
+Kosmos 2396	cosparId	2002
+Kosmos 2395	cosparId	2002
+Kosmos 2394	cosparId	2002
+Kosmos 2380	cosparId	2001
+Kosmos 2382	cosparId	2001
+Kosmos 2381	cosparId	2001
+We-Wish	cosparId	2012
+Eutelsat 3D	cosparId	2013
+OSSI-1	cosparId	2013
+Soyuz TMA-19M	cosparId	2015
+TurkSat-3USat	cosparId	2013
+USA-243	cosparId	2013
+Resurs-P No.1	cosparId	2013
+SES-6	cosparId	2013
+Dove-2	cosparId	2013
+CAT-1	cosparId	1979
+Astra 2E	cosparId	2013
+Kounotori 4	cosparId	2013
+Progress M-20M	cosparId	2013
+Lituanica SAT-1	cosparId	1998
+Hisaki	cosparId	2013
+Amos-4	cosparId	2013
+USA-245	cosparId	2013
+GSAT-7	cosparId	2013
+SpaceX CRS-5	cosparId	2015
+SpaceX CRS-6	cosparId	2015
+Maritime Monitoring and Messaging Microsatellite	cosparId	2016
+Eutelsat 8 West C	cosparId	2002
+Hot Bird 13B	cosparId	2006
+Eutelsat 33E	cosparId	2009
+GSAT-16	cosparId	2014
+Orbiting Astronomical Observatory 2	cosparId	1968
+CUTE-1.7 + APD II	cosparId	2008
+Inmarsat-4A F4	cosparId	2013
+USA-204	cosparId	2009
+USA-211	cosparId	2009
+USA-244	cosparId	2013
+INSAT-4B	cosparId	2007
+Sloshsat-FLEVO	cosparId	2005
+EduSAT	cosparId	2011
+ICube-1	cosparId	2013
+Progress M-21M	cosparId	39456
+PasComSat	cosparId	1966
+USA-247	cosparId	2013
+GEOS-3	cosparId	1975
+Cygnus CRS OA-4	cosparId	2015
+Kounotori 5	cosparId	2015
+ISEE-2	cosparId	1977
+ISEE-1	cosparId	1977
+Kosmos 1792	cosparId	1986
+Kosmos 16	cosparId	1963
+Kosmos 15	cosparId	1963
+Kosmos 13	cosparId	1963
+Kosmos 18	cosparId	1963
+Kosmos 24	cosparId	1963
+Kosmos 20	cosparId	1963
+Kosmos 28	cosparId	1964
+Kosmos 29	cosparId	1964
+Kosmos 32	cosparId	1964
+Kosmos 33	cosparId	1964
+Kosmos 35	cosparId	1964
+Kosmos 37	cosparId	1964
+Kosmos 46	cosparId	1964
+Kosmos 48	cosparId	1964
+Kosmos 52	cosparId	1965
+Kosmos 50	cosparId	1964
+Kosmos 64	cosparId	1965
+Kosmos 66	cosparId	1965
+MonacoSAT	cosparId	2015
+Kosmos 68	cosparId	1965
+Kosmos 78	cosparId	1965
+Ekspress AM5	cosparId	2013
+Aist 1	cosparId	2013
+Kosmos 98	cosparId	1965
+Kosmos 99	cosparId	1965
+Vermont Lunar CubeSat	cosparId	2013
+Kosmos 105	cosparId	1966
+Kosmos 104	cosparId	1966
+Kosmos 107	cosparId	1966
+Kosmos 112	cosparId	1966
+Kosmos 115	cosparId	1966
+Kosmos 117	cosparId	1966
+Kosmos 120	cosparId	1966
+Kosmos 124	cosparId	1966
+Kosmos 129	cosparId	1966
+Kosmos 132	cosparId	1966
+Kosmos 136	cosparId	1966
+IRNSS-1B	cosparId	2014
+AsiaSat 6	cosparId	2014
+IRNSS-1C	cosparId	2014
+IRNSS-1D	cosparId	2015
+IRNSS-1E	cosparId	2016
+Kosmos 138	cosparId	1967
+Kosmos 147	cosparId	1967
+Kosmos 143	cosparId	1967
+TDRS-L	cosparId	2014
+Intelsat II F-1	cosparId	1966
+Progress M-22M	cosparId	2014
+Intelsat II F-2	cosparId	1967
+Intelsat II F-3	cosparId	1967
+Intelsat II F-4	cosparId	1967
+Intelsat III F-2	cosparId	1968
+Intelsat III F-3	cosparId	1969
+USA-239	cosparId	2012
+USA-248	cosparId	2014
+BLITS	cosparId	2009
+NEE-02 Krysaor	cosparId	2013
+Soyuz TMA-20M	cosparId	2016
+Ekspress AT1	cosparId	2014
+Athena-Fidus	cosparId	2014
+FUNcube-1	cosparId	2013
+Iridium 77	cosparId	1998
+Kosmos 2494	cosparId	2014
+Ginrei	cosparId	2014
+AMC-2	cosparId	1997
+Progress M-23M	cosparId	2014
+TeikyoSat-3	cosparId	2014
+STARS-II	cosparId	2014
+INVADER	cosparId	2014
+KSAT-2	cosparId	2014
+ITF-1	cosparId	2014
+OPUSAT	cosparId	2014
+Amos-5	cosparId	2011
+EgyptSat 2	cosparId	2014
+ZACube-1	cosparId	2013
+USA-251	cosparId	2014
+ALOS-2	cosparId	2014
+Raijin-2	cosparId	2014
+UNIFORM-1	cosparId	2014
+SOCRATES	cosparId	2014
+Solrad 8	cosparId	1965
+Eutelsat I F-1	cosparId	1983
+Kosmos 2500	cosparId	2014
+Hodoyoshi 4	cosparId	2014
+Deimos-2	cosparId	2014
+Hodoyoshi 3	cosparId	2014
+KazEOSat 2	cosparId	2014
+UniSat-6	cosparId	2014
+SaudiSat-4	cosparId	2014
+WorldView-3	cosparId	2014
+TabletSat-Aurora	cosparId	2014
+BugSat 1	cosparId	2014
+Orbiting Carbon Observatory 2	cosparId	2014
+Perseus-M	cosparId	M1: 2014-033AF
+Perseus-M	cosparId	M2: 2014-033AD
+AsiaSat 8	cosparId	2014
+Progress M-24M	cosparId	2014
+Foton-M No.4	cosparId	2014
+Meridian 3	cosparId	2010
+USA-256	cosparId	2014
+Heweliusz	cosparId	2014
+Gaofen 1	cosparId	2013
+Lem	cosparId	2013
+Kosmos 2221	cosparId	1992
+Himawari 8	cosparId	2014
+Ekspress AT2	cosparId	2014
+Chang'e 5-T1	cosparId	2014
+Progress M-25M	cosparId	2014
+USA-258	cosparId	2014
+BSAT-1a	cosparId	1997
+Kosmos 2499	cosparId	2014
+Kosmos 2501	cosparId	2014
+DirecTV-14	cosparId	2014
+CBERS-4	cosparId	2014
+PROCYON	cosparId	2014
+Hinotori	cosparId	1981
+Resurs-P No.2	cosparId	2014
+Astra 2G	cosparId	2014
+Fajr	cosparId	2015
+Eutelsat 115 West B	cosparId	2015
+Progress M-26M	cosparId	2015
+ABS-3A	cosparId	2015
+SpaceX CRS-9	cosparId	2016
+Ekspress AM6	cosparId	2014
+Ekspress AM7	cosparId	2015
+Yamal-401	cosparId	2014
+SES-9	cosparId	2016
+USA-260	cosparId	2015
+Progress M-27M	cosparId	2015
+Agila-1	cosparId	1987
+Mexsat-3	cosparId	2012
+Sentinel-2A	cosparId	2015
+Progress M-28M	cosparId	2015
+USA-262	cosparId	2015
+Lincoln Calibration Sphere 1	cosparId	1965
+Luch 5V	cosparId	2014
+ARSAT-2	cosparId	2015
+Ekspress AM8	cosparId	2015
+Progress M-29M	cosparId	2015
+Progress MS-01	cosparId	2015
+Intelsat 34	cosparId	2015
+Pujiang-1	cosparId	2015
+Es'hail 1	cosparId	2013
+MABES	cosparId	1986
+USA-265	cosparId	2015
+Dark Matter Particle Explorer	cosparId	2015
+Schiaparelli EDM lander	cosparId	2016
+Belintersat-1	cosparId	2016
+Sentinel-3A	cosparId	2016
+Kwangmyŏngsŏng-4	cosparId	2016
+Kosmos 2514	cosparId	2016
+USA-266	cosparId	2016
+Mikhailo Lomonosov	cosparId	2016
+Progress MS-02	cosparId	2016
+Meteor-3M No.1	cosparId	2001
+Proton 4	cosparId	1968
+Meteor-M No.1	cosparId	2009
+Spainsat	cosparId	2006
+Progress MS-03	cosparId	2016
+Eutelsat 5 West A	cosparId	2002
+E-st@r-II	cosparId	2016
+PSLV-C28	cosparId	2015
+Hodoyoshi 1	cosparId	2014
+ANNA 1B	cosparId	1962
+ATS-2	cosparId	1967
+ATS-4	cosparId	1968
+Student Nitric Oxide Explorer	cosparId	1998
+Brasilsat B2	cosparId	1995
+Kitsat-3	cosparId	1999
+Kitsat-2	cosparId	1993
+DLR-Tubsat	cosparId	1999
+Yamal 101	cosparId	1999
+Yamal 102	cosparId	1999
+Yamal 201	cosparId	2003
+Yamal 202	cosparId	2003
+Yamal-300K	cosparId	2012
+Ekspress-AMU1	cosparId	2015
+JCSAT-16	cosparId	2016
+JCSAT-4B	cosparId	2012
+Ekspress MD1	cosparId	2009
+BSAT-2b	cosparId	2001
+BSAT-3a	cosparId	2007
+BSAT-3b	cosparId	2010
+BSAT-1b	cosparId	1998
+BSAT-3c	cosparId	2011
+BSAT-2a	cosparId	2001
+BSAT-2c	cosparId	2003
+Superbird-A2	cosparId	2004
+JCSAT-2B	cosparId	JCSAT-14
+Horizons-1	cosparId	2003
+JCSAT-3A	cosparId	2006
+JCSAT-2A	cosparId	2002
+JCSAT-1B	cosparId	1997
+Intelsat 26	cosparId	1997
+JCSAT-3	cosparId	1995
+JCSAT-1	cosparId	1989
+JCSAT-2	cosparId	1990
+Quantum Experiments at Space Scale	cosparId	2016
+SBS 6	cosparId	1990
+Superbird-B	cosparId	1990
+Superbird-A1	cosparId	1992
+Superbird-B1	cosparId	1992
+N-STAR a	cosparId	1995
+N-STAR b	cosparId	1996
+N-STAR c	cosparId	2002
+Intelsat 33e	cosparId	2016
+Intelsat 29e	cosparId	2016
+Intelsat 36	cosparId	2016
+Superbird-C	cosparId	1997
+Alsat-2A	cosparId	2010

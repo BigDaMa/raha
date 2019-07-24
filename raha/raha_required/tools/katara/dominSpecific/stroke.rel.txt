@@ -1,0 +1,207 @@
+Volvo B4B engine	stroke	80.0
+Ford 335 engine	stroke	3.0
+Ford 335 engine	stroke	3.5
+Ford Essex V4 engine	stroke	60.19
+Ford Essex V4 engine	stroke	72.42
+Ford Windsor engine	stroke	3.5
+Ford Windsor engine	stroke	3.000\
+Ford Windsor engine	stroke	2.870\
+GM Ecotec engine	stroke	86.0
+GM Ecotec engine	stroke	94.6
+GM Ecotec engine	stroke	98.0
+GM Ecotec engine	stroke	100.8
+Chrysler B engine	stroke	3.375
+Chrysler B engine	stroke	3.75
+Chrysler 2.2 & 2.5 engine	stroke	92.0
+Chrysler 2.2 & 2.5 engine	stroke	104.0
+Chrysler A engine	stroke	3.13
+Chrysler A engine	stroke	3.31
+Ford Taunus V4 engine	stroke	58.0
+Ford Taunus V4 engine	stroke	66.0
+Ford Modular engine	stroke	3.543
+Ford Modular engine	stroke	3.649
+Ford Modular engine	stroke	3.75
+Ford Modular engine	stroke	4.165
+W8 engine	stroke	90.2
+VR6 engine	stroke	90.2
+VR6 engine	stroke	90.3
+VR6 engine	stroke	96.4
+LS based GM small-block engine	stroke	83.0
+LS based GM small-block engine	stroke	92.0
+LS based GM small-block engine	stroke	101.6
+Chevrolet small-block engine	stroke	76.2
+Chevrolet small-block engine	stroke	88.39
+Chevrolet small-block engine	stroke	93.0
+Iron Duke engine	stroke	3.0
+General Motors 60° V6 engine	stroke	66.7
+General Motors 60° V6 engine	stroke	76.0
+General Motors 60° V6 engine	stroke	80.0
+General Motors 60° V6 engine	stroke	84.0
+Chevrolet straight-6 engine	stroke	3.75
+Chevrolet straight-6 engine	stroke	3.25
+Chevrolet straight-6 engine	stroke	3.53
+Jaguar AJ-V6 engine	stroke	66.8
+Jaguar AJ-V6 engine	stroke	79.5
+BMW M20	stroke	66.0
+BMW M20	stroke	75.0
+BMW M20	stroke	76.8
+BMW M20	stroke	81.0
+BMW M40	stroke	72.0
+BMW M40	stroke	81.0
+Toyota A engine	stroke	77.0
+Toyota A engine	stroke	71.4
+Toyota A engine	stroke	85.5
+Toyota A engine	stroke	69.0
+GM High Value engine	stroke	76.0
+GM High Value engine	stroke	84.0
+Ford Essex V6 engine	stroke	60.19
+Ford Essex V6 engine	stroke	72.42
+Ford Essex V6 engine	stroke	80.0
+Ford Essex V6 engine	stroke	3.39
+Ford Essex V6 engine	stroke	3.464
+Ford Essex V6 engine	stroke	3.74
+Ford SHO V6 engine	stroke	80.0
+Ford HSC engine	stroke	3.3
+Ford HSC engine	stroke	3.58
+General Motors 122 engine	stroke	2.91
+General Motors 122 engine	stroke	3.15
+General Motors 122 engine	stroke	88.0
+Ford straight-six engine	stroke	-215
+Ford straight-six engine	stroke	3.18\
+Ford straight-six engine	stroke	3.98\
+Powertec RPA	stroke	to
+Lamborghini V8	stroke	2
+Lamborghini V8	stroke	3
+Lamborghini V8	stroke	3.5
+Lamborghini V12	stroke	3.5
+Lamborghini V12	stroke	6.2
+Lamborghini V12	stroke	6.5
+BMW M21	stroke	81.0
+BMW M41	stroke	82.8
+BMW M47	stroke	88.0
+BMW M47	stroke	90.0
+BMW M67	stroke	3.9
+BMW M67	stroke	88.0
+BMW M67	stroke	4.4
+BMW M67	stroke	93.0
+Hyundai Beta engine	stroke	75.0
+Hyundai Beta engine	stroke	88.0
+Fully Integrated Robotised Engine	stroke	58.0
+Fully Integrated Robotised Engine	stroke	64.9
+Fully Integrated Robotised Engine	stroke	72.0
+Fully Integrated Robotised Engine	stroke	78.9
+Fully Integrated Robotised Engine	stroke	84.0
+Cummins B Series engine	stroke	120.0
+Cummins B Series engine	stroke	124.0
+Hyundai Theta engine	stroke	86.0
+Hyundai Theta engine	stroke	97.0
+Mercedes-Benz OM617	stroke	92.4
+GM Family 1 engine	stroke	62.9
+GM Family 1 engine	stroke	73.4
+GM Family 1 engine	stroke	81.5
+GM Family 1 engine	stroke	88.2
+Mercedes-Benz M104 engine	stroke	M104.98x
+Chrysler Hemi engine	stroke	3.578
+Chrysler Hemi engine	stroke	3.724
+JTD engine	stroke	90.4
+Nissan MR engine	stroke	90.0
+FMR Tg500	stroke	70.0
+Vauxhall Prince Henry	stroke	1911
+Vauxhall Prince Henry	stroke	1913
+BMW S85	stroke	75.2
+Volkswagen G60 engine	stroke	G60:
+Volkswagen G60 engine	stroke	G40:
+Ford Duratec V6 engine	stroke	79.5
+Ford Cyclone engine	stroke	3.41
+Chrysler SOHC V6 engine	stroke	81.0
+Chrysler SOHC V6 engine	stroke	91.0
+Detroit Diesel V8 engine	stroke	6.2
+Morris Cowley	stroke	nominal
+Morris Cowley	stroke	actual
+Ford Boss engine	stroke	3.74
+Subaru EA engine	stroke	67.0
+GM Family II engine	stroke	79.5
+GM Family II engine	stroke	86.0
+GM Family II engine	stroke	100.0
+GM Family II engine	stroke	94.6
+Daimler V8 engines	stroke	4
+Daimler V8 engines	stroke	80.01
+Daimler V8 engines	stroke	2
+Daimler V8 engines	stroke	69.85
+Renault K-Type engine	stroke	80.5
+Renault R-Type engine	stroke	79.5
+Renault G-Type engine	stroke	92.0
+Renault G-Type engine	stroke	99.0
+Volkswagen air-cooled engine	stroke	69.0
+MG VA	stroke	102
+Lotus-Ford Twin Cam	stroke	72.75
+Triumph Dolomite	stroke	100.0
+Toyota B engine	stroke	105.0
+Toyota B engine	stroke	112.0
+Toyota B engine	stroke	102.0
+Wolseley Hornet six	stroke	* \n* \n* Special
+BMW S65	stroke	75.2
+Mazda FE-DOHC engine	stroke	86.0
+Mercedes-Benz OM603	stroke	84
+Volvo B8444S engine	stroke	79.5
+Rover Meteor	stroke	105.0
+Rover Meteor	stroke	—20
+Rover Meteor	stroke	101.6
+Rover Meteor	stroke	—16
+Toyota AD engine	stroke	86.0
+Toyota AD engine	stroke	96.0
+Holden straight-six motor	stroke	3.0
+Toyota C engine	stroke	85.0
+Toyota C engine	stroke	94.0
+Vauxhall A-Type	stroke	120.0
+Rover Light Six	stroke	101.6
+Rover 12	stroke	86.0
+Rover 12	stroke	90.0
+Mercedes-Benz OM612 engine	stroke	88.3
+Vauxhall 30-98	stroke	E —
+Vauxhall 30-98	stroke	OE—
+Vauxhall 30-98	stroke	die-cast aluminium pistons; duralumin connecting rods
+Hyundai Kappa engine	stroke	84.0
+Hyundai Kappa engine	stroke	756
+Hyundai Kappa engine	stroke	788
+Hyundai Kappa engine	stroke	97.0
+Mazda L engine	stroke	83.1
+Mazda L engine	stroke	94.0
+Mazda L engine	stroke	100.0
+BMW N57	stroke	90.0
+24 engine	stroke	59.6
+Rolls-Royce C range engines	stroke	6.0
+Commer TS3	stroke	4.0
+Mercedes-Benz OM606 engine	stroke	84.0
+SkyActiv	stroke	82.0
+SkyActiv	stroke	85.8
+SkyActiv	stroke	91.2
+SkyActiv	stroke	100.0
+Fiat E.torQ engine	stroke	85.8
+GM small gasoline engine	stroke	77.4
+GM small gasoline engine	stroke	81.3
+GM small gasoline engine	stroke	86.6
+30	stroke	5.0
+Mercedes-Benz OM636	stroke	100.0
+World Gasoline Engine	stroke	77.0
+World Gasoline Engine	stroke	86.0
+World Gasoline Engine	stroke	97.0
+Opel Cam-in-head engine	stroke	69.8
+Opel Cam-in-head engine	stroke	77.5
+Opel Cam-in-head engine	stroke	85.0
+Cadillac High Technology engine	stroke	84.0
+Cadillac High Technology engine	stroke	92.0
+List of Volvo Trucks engines	stroke	120.0
+List of Volvo Trucks engines	stroke	130.0
+Morris Twelve	stroke	102
+Hillman 16	stroke	xxxxxxxxxxxx
+Isuzu V engine	stroke	77.0
+Isuzu V engine	stroke	85.0
+Viper engine	stroke	3.88
+Viper engine	stroke	3.96
+Austin 30 hp	stroke	6.0
+Rover 20	stroke	xxxxxxxxxxxx
+Rover Two-litre	stroke	101.6
+Mercedes-Benz OM654 engine	stroke	92.3
+MWM AKD 112 Z	stroke	120.0
+12-1 SRW	stroke	145.0

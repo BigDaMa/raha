@@ -1,0 +1,521 @@
+Dead Sea	lakeType	Endorheic basin
+Dead Sea	lakeType	Hypersaline lake
+Gusana	lakeType	Artificial lake
+Lake Ontario	lakeType	Glacial lake
+Lake Erie	lakeType	Glacial lake
+Lake Michigan	lakeType	Glacial lake
+Lake Superior	lakeType	Glacial
+Lake Kickapoo	lakeType	Reservoir
+Lake Eyre	lakeType	Endorheic
+IJsselmeer	lakeType	Artificial lake
+Lake Huron	lakeType	Glacial lake
+Lake Baikal	lakeType	Rift lake
+Lake Chad	lakeType	Endorheic
+Lake Malawi	lakeType	Rift Valley lakes
+Sea of Galilee	lakeType	Monomictic
+Portage Lakes	lakeType	artificial and natural
+Lake Vostok	lakeType	Subglacial lake
+Lake Vostok	lakeType	Rift lake
+Ranworth Broad	lakeType	The Broads
+Crater Lake	lakeType	Crater lake
+Lake Mohawk, New Jersey	lakeType	Reservoir
+Lake Lure, North Carolina	lakeType	Reservoir
+Lake Tahoe	lakeType	Normal fault
+Lake Travis	lakeType	Hydroelectricity
+Lake Travis	lakeType	Reservoir
+Lake Austin	lakeType	Hydroelectricity
+Lake Austin	lakeType	Reservoir
+Howden Reservoir	lakeType	Reservoir
+Derwent Reservoir	lakeType	Reservoir
+Ladybower Reservoir	lakeType	Reservoir
+Lake Tanganyika	lakeType	Rift Valley Lake
+Lake Mariout	lakeType	Brackish
+Lake Pontchartrain	lakeType	Estuary
+Lake Pontchartrain	lakeType	Seawater
+Lake Lucerne	lakeType	freshwater fjord, recent regulation
+Issyk-Kul	lakeType	Endorheic
+Issyk-Kul	lakeType	Mountain lake
+Issyk-Kul	lakeType	Monomictic
+Detroit Lake	lakeType	Reservoir
+Lake Manly	lakeType	Endorheic basin
+Lake Manly	lakeType	Rift lake
+Bull Shoals Lake	lakeType	Reservoir
+Golyam Beglik	lakeType	Reservoir
+Pasarel Reservoir	lakeType	Reservoir
+Tsonevo Reservoir	lakeType	Reservoir
+Yovkovtsi	lakeType	Reservoir
+Studen Kladenets	lakeType	Reservoir
+Beaver Lake	lakeType	Reservoir
+Lake Marble Falls	lakeType	Hydroelectricity
+Lake Marble Falls	lakeType	Reservoir
+Lake Lyndon B. Johnson	lakeType	Hydroelectricity
+Lake Lyndon B. Johnson	lakeType	Reservoir
+Inks Lake	lakeType	Hydroelectricity
+Inks Lake	lakeType	Reservoir
+Lake Nasser	lakeType	Reservoir
+Black Lake	lakeType	Reservoir
+Gailey Reservoirs	lakeType	Reservoirs
+Blackwater Reservoir	lakeType	Reservoir
+Rutland Water	lakeType	Reservoir
+Lake Sakakawea	lakeType	Reservoir
+Lake Mead	lakeType	Reservoir
+Lake Natron	lakeType	Saline lake
+Pyramid Lake	lakeType	Endorheic
+Pyramid Lake	lakeType	Salt lake
+Acton, Ontario	lakeType	Reservoir
+Lake Strom Thurmond	lakeType	Reservoir
+Carsington Water	lakeType	Reservoir
+Great Slave Lake	lakeType	remnant of a vast glacial lake
+Lake Nero	lakeType	Eutrophic
+Elan Valley Reservoirs	lakeType	Reservoirs
+Kalamalka Lake	lakeType	Glacial Lake
+Okanagan Lake	lakeType	Fjord
+Okanagan Lake	lakeType	Monomictic
+Okanagan Lake	lakeType	Oligotrophic lake
+Lake Turkana	lakeType	Salinity
+Lake Turkana	lakeType	Monomictic
+Lake Turkana	lakeType	Alkaline
+Lake Turkana	lakeType	Endorheic
+Lake Ngami	lakeType	Endorheic
+Quabbin Reservoir	lakeType	Reservoir
+Manicouagan Reservoir	lakeType	annular lake, reservoir, impact crater lake
+Toledo Bend Reservoir	lakeType	Reservoir
+Big Bear Lake	lakeType	Reservoir
+Lake Tisza	lakeType	Reservoir
+Indian Lake	lakeType	Reservoir
+Devils Lake	lakeType	Endorheic basin
+Devils Lake	lakeType	Potentially an open lake owing to climate change
+Lake Disappointment	lakeType	Endorheic
+Lake Disappointment	lakeType	Salt lake
+Lake Vida	lakeType	Endorheic
+Elephant Butte Reservoir	lakeType	Hydroelectricity
+Elephant Butte Reservoir	lakeType	Reservoir
+Lake Burley Griffin	lakeType	Reservoir
+Jordan Lake	lakeType	Reservoir
+Harris Lake	lakeType	Reservoir
+Lake Burrendong	lakeType	Reservoir
+Lake Delton	lakeType	Reservoir
+Potholes Reservoir	lakeType	Reservoir
+Lake Meredith	lakeType	Reservoir
+Thirlmere	lakeType	Reservoir
+Lake Wisconsin	lakeType	Reservoir
+Lake Kariba	lakeType	Hydroelectricity
+Lake Kariba	lakeType	Reservoir
+Cahora Bassa	lakeType	Reservoir
+Loch Lubnaig	lakeType	Loch
+Lough Owel	lakeType	Glacial lake
+Lake Merritt	lakeType	Recreational
+Lake Merritt	lakeType	Lagoon
+Lake Merritt	lakeType	Wildlife refuge
+Draycote Water	lakeType	Reservoir
+Blöndulón	lakeType	Reservoir
+Fjallsárlón	lakeType	Periglacial
+Mývatn	lakeType	Eutrophic
+Sultartangalón	lakeType	Reservoir
+Sigöldulón	lakeType	Reservoir
+Lake Koocanusa	lakeType	Reservoir
+Lake Lahontan	lakeType	Reservoir
+Lake Tappan	lakeType	Reservoir
+Christmas Hills, Victoria	lakeType	Reservoir
+Port Stephens	lakeType	An open tide dominated drowned valley estuary
+Upper Klamath Lake	lakeType	Hypereutrophic
+Crowley Lake	lakeType	Reservoir
+Lake Wanapitei	lakeType	impact crater lake
+Dow's Lake	lakeType	Reservoir
+Hume Lake	lakeType	Reservoir
+Woodcliff Lake Reservoir	lakeType	Reservoir
+Greifensee	lakeType	Eutrophic
+Lake Celilo	lakeType	Reservoir
+Flaming Gorge Reservoir	lakeType	Hydroelectricity
+Flaming Gorge Reservoir	lakeType	Reservoir
+Ross Lake	lakeType	Reservoir
+Lake Texoma	lakeType	Reservoir
+Lake Wakatipu	lakeType	Glacial lake
+Lake Vyrnwy	lakeType	Reservoir
+Lake Minnewanka	lakeType	reservoir, natural lake
+Sebago Lake	lakeType	oligotrophic
+Lake Bennett	lakeType	Reservoir
+Lake Manyara	lakeType	Salinity
+Lake Manyara	lakeType	Soda lake
+Lake Manyara	lakeType	Endorheic
+Derwent Reservoir	lakeType	Reservoir
+Lough Ennell	lakeType	Glacial lake
+Grafham Water	lakeType	Reservoir
+Glenmore Reservoir	lakeType	Reservoir
+Deep Creek Lake	lakeType	Reservoir
+Cropston Reservoir	lakeType	Reservoir
+Lake Wylie	lakeType	Reservoir
+Lake Wissota	lakeType	Reservoir
+Lake Isabella	lakeType	Reservoir
+Devils Lake	lakeType	Eutrophic
+Lake Nacimiento	lakeType	Reservoir
+Kaban Lakes	lakeType	Volga riverbed + karst processes
+Lake Dunstan	lakeType	Reservoir
+White Oak Lake State Park	lakeType	Reservoir
+Lake Benmore	lakeType	Reservoir
+Lake Okutama	lakeType	Reservoir
+Iliamna Lake	lakeType	oligotrophic
+Ross Barnett Reservoir	lakeType	Reservoir
+Franklin D. Roosevelt Lake	lakeType	Reservoir
+Lake Bogoria	lakeType	Salinity
+Lake Bogoria	lakeType	Alkaline
+Lake Bogoria	lakeType	Meromictic
+Lake Mahinerangi	lakeType	Reservoir
+Lake Aviemore	lakeType	Reservoir
+Loch Tay	lakeType	Loch
+Chew Valley Lake	lakeType	reservoir
+Lake Fryxell	lakeType	Endorheic
+Haggetts Pond	lakeType	Reservoir
+Chilika Lake	lakeType	Brackish
+Kaw Lake	lakeType	Reservoir
+Lake Rotomahana	lakeType	Crater lake
+Lake Rotoma	lakeType	Crater lake
+Lake Ülemiste	lakeType	Eutrophication
+Lake Pupuke	lakeType	Crater lake
+Lake Koshkonong	lakeType	Reservoir
+Lake Maraetai	lakeType	Reservoir
+Lake Karapiro	lakeType	Reservoir
+Orava	lakeType	Reservoir
+Bewl Water	lakeType	Reservoir
+Etang Saumâtre	lakeType	Lake
+Tenkiller Ferry Lake	lakeType	Reservoir
+Lake of the Arbuckles	lakeType	Reservoir
+Lake Hefner	lakeType	Reservoir
+Fort Cobb Reservoir	lakeType	Reservoir
+Lake Stanley Draper	lakeType	Reservoir
+Tom Steed Reservoir	lakeType	Reservoir
+Konawa Reservoir	lakeType	Reservoir
+McGee Creek Reservoir	lakeType	Reservoir
+Wes Watkins Reservoir	lakeType	Reservoir
+Great Salt Plains Lake	lakeType	Reservoir
+Eufaula Lake	lakeType	Reservoir
+Loch of Strathbeg	lakeType	Loch
+Lake Cushman	lakeType	Reservoir
+Lake Kokanee	lakeType	Reservoir
+Medina Lake	lakeType	Agriculture
+Medina Lake	lakeType	Reservoir
+Strinesdale Reservoir	lakeType	Reservoir
+Dovestone Reservoir	lakeType	Reservoir
+Tempe Town Lake	lakeType	Reservoir
+Saguaro Lake	lakeType	Reservoir
+Candlewood Lake	lakeType	Reservoir
+Lake McQueeney	lakeType	Hydroelectricity
+Lake McQueeney	lakeType	Reservoir
+Deanhead Reservoir	lakeType	Reservoir
+Round Lake National Natural Landmark	lakeType	Meromictic
+Green Lake	lakeType	Meromictic
+Lake Norman	lakeType	Reservoir
+Lake Conroe	lakeType	Reservoir
+Plover Cove Reservoir	lakeType	reservoir
+Racetrack Playa	lakeType	Endorheic basin
+Fort Peck Lake	lakeType	Reservoir
+Lake Volta	lakeType	Reservoir
+Lake Sharpe	lakeType	Reservoir
+Abberton Reservoir	lakeType	Reservoir
+Lake Oahe	lakeType	Reservoir
+Lake Sonoma	lakeType	Reservoir
+Canyon Lake	lakeType	Reservoir
+Lillydale Lake	lakeType	Artificial lake
+Maligne Lake	lakeType	oligotrophic
+Tai Tam Reservoirs	lakeType	Reservoir
+Silent Valley Reservoir	lakeType	Reservoir
+MacRitchie Reservoir	lakeType	Reservoir
+Lake Decatur	lakeType	Reservoir
+Lake Oroville	lakeType	Reservoir
+Lake Wawasee	lakeType	Glacial lake
+Kankaria Lake	lakeType	Artificial lake
+Almsee	lakeType	Oligotrophic lake
+Tittesworth reservoir	lakeType	Reservoir
+Stanford Reservoir	lakeType	Reservoir
+Ogston Reservoir	lakeType	Reservoir
+Jurong Lake	lakeType	Reservoir
+Lake Hemet	lakeType	Reservoir
+Lake Manchar	lakeType	Reservoir
+Lake Barlee	lakeType	Intermittent salt lake
+Claytor Lake	lakeType	Reservoir
+Oradell Reservoir	lakeType	Reservoir
+Loch Cluanie	lakeType	Reservoir
+Diamond Valley Lake	lakeType	Reservoir
+Guntersville Lake	lakeType	Reservoir
+Falls Lake	lakeType	Reservoir
+Wheeler Lake	lakeType	Reservoir
+Hueston Woods State Park	lakeType	Reservoir
+Caesar Creek State Park	lakeType	Reservoir
+Lake Vanda	lakeType	Hypersaline lake
+Netherton Reservoir	lakeType	Reservoir
+Lake Lanao	lakeType	Rift lake
+Dal Lake	lakeType	Monomictic lake
+Minnedosa Lake	lakeType	Artificial lake
+Merrill Creek Reservoir	lakeType	Reservoir
+Lake Saiful Muluk	lakeType	Alpine/Glacial lake
+Pielinen	lakeType	Mesotrophic
+Ägerisee	lakeType	Glacial lake
+Pushkar Lake	lakeType	Artificial lake
+Mundaú Lagoon	lakeType	Estuary
+Mundaú Lagoon	lakeType	Lagoon
+Old Hickory Lake	lakeType	Reservoir
+Dhebar Lake	lakeType	Reservoir
+Glenrock Lagoon	lakeType	Intermediate freshwater small coastal creek
+Lake Lurleen	lakeType	Reservoir
+Baranof Lake	lakeType	Glacial lake
+Barossa Reservoir	lakeType	Reservoir
+Goose Lake	lakeType	Pluvial and alkaline
+Lake Albert	lakeType	artificial lake
+Burnsville Lake	lakeType	Reservoir
+Blue Heron Lake	lakeType	Reservoir
+Coyote Lake	lakeType	Endorheic basin
+El Mirage Lake	lakeType	Endorheic basin
+Kuybyshev Reservoir	lakeType	Hydroelectricity
+Kuybyshev Reservoir	lakeType	Reservoir
+Limerick Lake	lakeType	natural, reservoir
+Bristol Lake	lakeType	Endorheic basin
+Ivanpah Lake	lakeType	Endorheic basin
+Lake Jackson	lakeType	Reservoir
+Lulusar	lakeType	Alpine/Glacial lake
+Alwen Reservoir	lakeType	Reservoir
+Aydar Lake	lakeType	Artificial lake
+Lake Ellsworth	lakeType	Subglacial lake
+Lake Casitas	lakeType	Reservoir
+Round Lake	lakeType	Prairie lake
+New Hogan Lake	lakeType	Reservoir
+New Melones Lake	lakeType	Reservoir
+Bouquet Reservoir	lakeType	Reservoir
+Lake Hayes	lakeType	Glacial lake
+Lake of the Woods	lakeType	Glacial lake
+Bow Lake	lakeType	Glacial lake located in alberta
+Woodhead Reservoir	lakeType	Reservoir
+Torside Reservoir	lakeType	impounding reservoir
+Rhodeswood Reservoir	lakeType	impounding reservoir
+Bottoms Reservoir	lakeType	compensation reservoir
+Arnfield Reservoir	lakeType	impounding reservoir
+Valehouse Reservoir	lakeType	compensation reservoir
+Hollingworth Reservoir	lakeType	former impounding reservoir
+Rogers Dry Lake	lakeType	Endorheic basin
+Otis Reservoir	lakeType	Reservoir
+Lavon Lake	lakeType	Reservoir
+Professor's Lake	lakeType	Artificial lake
+Llangorse Lake	lakeType	eutrophic glacial natural
+Watauga Lake	lakeType	Reservoir
+Llyn Conwy	lakeType	natural lake, reservoir
+Lake Manych-Gudilo	lakeType	Saline lake
+Stranger Pond	lakeType	Artificial lake
+Robert-Bourassa Reservoir	lakeType	Reservoir
+Cedar Creek Reservoir	lakeType	Artificial lake
+Shanty Hollow Lake	lakeType	Reservoir
+Lake Bannoye	lakeType	Rift lake
+Quail Lake	lakeType	Reservoir
+Veeranam Lake	lakeType	Reservoir
+Veeranam Lake	lakeType	Intermittent
+Briones Reservoir	lakeType	Reservoir
+Gruža Lake	lakeType	Reservoir
+Laguna del Carbón	lakeType	Endorheic basin
+Laguna del Carbón	lakeType	Salt lake
+Fern Ridge Reservoir	lakeType	Reservoir
+Lake Lesina	lakeType	Lagoon
+Harper Lake	lakeType	Endorheic basin
+Lake Mackintosh	lakeType	Reservoir
+Vasa Loch	lakeType	Brackish
+Lake Segara Anak	lakeType	Crater lake
+Mahodand Lake	lakeType	Alpine/Glacial lake
+Drayton Reservoir	lakeType	Reservoir
+Lake Urana Nature Reserve	lakeType	Salt lake
+Kundol Lake	lakeType	Glacial lake
+Lake Hazar	lakeType	Rift Lake
+Lough Sheelin	lakeType	Freshwater lough
+Lake Julius	lakeType	Reservoir
+Lake Belmore	lakeType	Reservoir
+Lake Winfield Scott	lakeType	Reservoir
+Loch Chon	lakeType	Loch
+Cardross Lakes	lakeType	Artificial lake
+Lake Luodis	lakeType	Glacial lake
+Petnja	lakeType	Reservoir
+Imperial Reservoir	lakeType	Reservoir
+Indian Valley Reservoir	lakeType	Reservoir
+Aliyar Reservoir	lakeType	Reservoir
+Lake Boyukshor	lakeType	Endorheic lake
+Lacs de Clairvaux	lakeType	Natural, glacial
+Laguna de Ayarza	lakeType	Crater lake
+Sunfish Lake	lakeType	Meromictic
+Chabařovice Lake	lakeType	Reservoir
+Lake Timsah	lakeType	Hydrography
+Lake Tshangalele	lakeType	Artificial lake
+Kama Reservoir	lakeType	Reservoir
+Tooms Lake	lakeType	Reservoir
+Lake Dash	lakeType	Glacial lake
+Lake Sylbicë	lakeType	Glacial lake
+Jazhincë Lake	lakeType	Glacial lake
+Lac de Chambon	lakeType	Reservoir
+Loch Alsh	lakeType	Sea loch
+Alouette Lake	lakeType	Reservoir
+Lake Atalanta	lakeType	Reservoir
+Gramë Lake	lakeType	Glacial lake
+Fierza Reservoir	lakeType	Reservoir
+Berijam Lake	lakeType	Freshwater reservoir
+Liqeni i Dhenve	lakeType	Glacial lake
+Dove Lake	lakeType	Cirque
+Aajuitsup Tasia	lakeType	Oligotroph
+Pontsticill Reservoir	lakeType	Reservoir
+Lake Stamford	lakeType	Reservoir
+Werbellinsee	lakeType	Glacial lake
+Barmsee	lakeType	Meromictic
+Lac de Villeneuve-de-la-Raho	lakeType	Reservoir
+Lac de Melu	lakeType	Glacial lake
+Étang Saint-Nicolas	lakeType	Artificial lake
+Étang de la Bonde	lakeType	Artificial lake
+Lac d'Avène	lakeType	Artificial lake
+Licancabur Lake	lakeType	Crater lake
+Druid Lake	lakeType	Kettle
+Lake Leonard	lakeType	crater lake
+Lake Bunot	lakeType	Crater lake
+Lakes Pandin and Yambo	lakeType	Crater lake
+Lake Kepwari	lakeType	Reservoir
+Collins Lake	lakeType	Reservoir
+Lake Shaster	lakeType	Hypersaline
+Colbún Lake	lakeType	Reservoir
+Lake Abashiri	lakeType	Dimictic lake
+Pakowki Lake	lakeType	Endorheic
+Pakowki Lake	lakeType	Slough
+Lake Akan	lakeType	Dimictic lake
+Khar Lake	lakeType	Eutrophic lake
+Hatzic Lake	lakeType	Oxbow lake
+Lake Nepahwin	lakeType	Glacial
+Cree Lake	lakeType	Glacial lake
+Palitsi Reservoir	lakeType	Reservoir
+Buffalo Pound Lake	lakeType	Prairie lake
+Aubad	lakeType	Artificial lake
+Rosamond Lake	lakeType	Endorheic basin
+Nelson Lake	lakeType	Endorheic basin
+Goldstone Lake	lakeType	Endorheic basin
+Cuddeback Lake	lakeType	Endorheic basin
+Koehn Lake	lakeType	Endorheic basin
+Bicycle Lake	lakeType	Endorheic basin
+Red Pass Lake	lakeType	Endorheic basin
+Emerson Lake	lakeType	Endorheic basin
+Lucerne Lake	lakeType	Endorheic basin
+Lake Mojave	lakeType	Glacial lake
+Lake Manix	lakeType	Glacial lake
+Broadwell Lake	lakeType	Endorheic basin
+Danby Lake	lakeType	Endorheic basin
+Laguna Salada	lakeType	Endorheic basin
+Lake Ipala	lakeType	Crater lake
+Phú Ninh Lake	lakeType	Reservoir
+Laguna de Calderas	lakeType	Crater lake
+Lake Leśnia	lakeType	Reservoir
+Eastman Lake	lakeType	Reservoir
+Salt Spring Valley Reservoir	lakeType	Reservoir
+Boca Reservoir	lakeType	Reservoir
+Lake Nazik	lakeType	Fresh water
+Canoe Lake	lakeType	Endorheic basin
+Lake Nemrut	lakeType	Crater lake
+Madron Lake	lakeType	Glacial lake
+Lake San Cristobal	lakeType	Landslide dam
+North Cleaver Lake	lakeType	Endorheic basin
+Pick Lake	lakeType	Endorheic basin
+Hálslón Reservoir	lakeType	Reservoir
+Hope Valley Reservoir	lakeType	Reservoir
+Dennenloher See	lakeType	Meromictic
+Clear Lake	lakeType	Meromictic
+Goby Lake	lakeType	Meromictic
+Uet era Ngermeuangel	lakeType	Meromictic
+Uet era Ongael	lakeType	Holomictic
+Alkali Lake	lakeType	seasonal, alkali
+Gaube Lake	lakeType	Glacial lake
+Moti Jheel	lakeType	Artificial lake
+Lake of the Woods	lakeType	Glacial lake
+Lake Sapsho	lakeType	Glacial lake
+Lake Okabena	lakeType	Glacial lake
+Lake Ocheda	lakeType	Glacial lake
+Crawford Lake	lakeType	Meromictic
+Indian Lake	lakeType	Glacial lake
+Jagdishpur Reservoir	lakeType	Reservoir
+Kilbirnie Loch	lakeType	freshwater loch
+Alajuela Lake	lakeType	Reservoir
+Lake Nakatsuna	lakeType	Eutrophic lake
+White Sitch	lakeType	Lake
+Ooty Lake	lakeType	Artificial lake
+Jiangkou Reservoir	lakeType	Reservoir
+The Loe	lakeType	Eutrophic
+Knockewart Loch	lakeType	Drained freshwater loch
+Drag Lake	lakeType	Glacial lake
+Hamirsar Lake	lakeType	Artificial lake
+Quicksand Pond	lakeType	Pond
+Big Pond	lakeType	Lake
+Martnaham Loch	lakeType	Freshwater loch
+Pallikaranai wetland	lakeType	Wetland
+Kazhuveli	lakeType	Wetland
+108 Mile Lake	lakeType	Glacial lake
+Wallis Lake	lakeType	An open and trained wave dominated barrier estuary
+Thol Lake	lakeType	Lentic
+Laguna Verde	lakeType	Salt lake
+Covenham Reservoir	lakeType	Reservoir
+Lake Laka	lakeType	Periglacial
+Airag Lake	lakeType	Freshwater
+Dushu Lake	lakeType	Fresh water lake
+Turnor Lake	lakeType	Glacial lake
+Wasekamio Lake	lakeType	Glacial lake
+Far Hill Quarry	lakeType	Quarry lake
+Lake Disappear	lakeType	Intermittent lake
+Loch Libo	lakeType	Old freshwater loch
+Lake Johnson	lakeType	Glacial lake
+Damodar Kund	lakeType	Artificial lake
+Knypersley Reservoir	lakeType	Canal
+Knypersley Reservoir	lakeType	Reservoir
+Avoca Lake	lakeType	Intermittently closed youthful saline coastal lagoon
+Port Kembla	lakeType	Port
+Nundkol Lake	lakeType	Oligotrophic lake
+Satsar Lake	lakeType	Alpine climate
+Lake Catani	lakeType	Reservoir
+Lake Harihari	lakeType	Trophic state index
+Lac Île-à-la-Crosse	lakeType	Glacial lake
+Davenport Lake	lakeType	Reservoir
+Comanche Reservoir	lakeType	Reservoir
+Reservoir Blanc	lakeType	Lake Dam
+Big Island Lake	lakeType	Glacial lake
+Payuk Lake	lakeType	Glacial Lake
+Neso Lake	lakeType	Glacial Lake
+Nisto Lake	lakeType	Glacial Lake
+Nao Lake	lakeType	Glacial Lake
+Niyanun Lake	lakeType	Glacial Lake
+Nikotwasik Lake	lakeType	Glacial Lake
+Naosap Lake	lakeType	Glacial Lake
+Nistosap Lake	lakeType	Glacial Lake
+Nesosap Lake	lakeType	Glacial Lake
+Payukosap Lake	lakeType	Glacial Lake
+Mitatut Lake	lakeType	Glacial Lake
+Kakat Lake	lakeType	Glacial Lake
+Uyenanao Lake	lakeType	Glacial Lake
+Tapukok Lake	lakeType	Glacial Lake
+Holt Lake, Manitoba	lakeType	Glacial Lake
+Murray Lake	lakeType	Glacial Lake
+Thompson Lake	lakeType	Glacial Lake
+Bryan Lake	lakeType	Glacial Lake
+Alberts Lake	lakeType	Glacial Lake
+Lynx Lake	lakeType	Glacial Lake
+Leo Lake	lakeType	Glacial Lake
+Naosap Mud Lake	lakeType	Glacial Lake
+Maranacook Lake	lakeType	Mesotrophic lake
+Gardner Lake	lakeType	Natural lake
+Borsko jezero	lakeType	Artificial lake
+Jalsen Reservoir	lakeType	Pond
+Glencar Lough	lakeType	Glacial lake
+Little Blue Run Lake	lakeType	Artificial lake
+Glenade Lough	lakeType	Glacial lake
+Easky Lough	lakeType	Glacial lake
+Daral Lake	lakeType	Alpine/Glacial lake
+Lough Arrow	lakeType	Trophic state index
+Lake CECs	lakeType	Subglacial lake
+Jabba Zomalu Lake	lakeType	Alpine/Glacial lake
+Katora Lake	lakeType	Glacial lake
+Sawa lake	lakeType	Endorheic basin
+Saidgai Lake	lakeType	Glacial lake
+Lough Beagh	lakeType	Glacial lake
+Glen Lough	lakeType	Glacial lake
+Bashigram Lake	lakeType	Glacial lake
+Durnesh Lough	lakeType	Lagoon
+Rovni Lake	lakeType	Water reservoir
+Lough Mourne	lakeType	Reservoir
+Lake Kenyatta	lakeType	Fresh water
+Whitewater Lake, Manitoba	lakeType	Endorheic basin
+Medard	lakeType	Reservoir
+Shelley Lake	lakeType	Open and closed lakes
+Dharamsar	lakeType	Alpine/Glacial lake

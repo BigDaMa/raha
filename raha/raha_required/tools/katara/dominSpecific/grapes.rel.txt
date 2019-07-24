@@ -1,0 +1,3096 @@
+Rioja	grapes	Tempranillo
+Rioja	grapes	Viura
+Rioja	grapes	Grenache
+Rioja	grapes	Graciano
+Rioja	grapes	Mazuelo
+Beaujolais	grapes	Gamay with a little Pinot noir , Chardonnay, Aligoté, Pinot gris , Pinot blanc and Melon de Bourgogne
+Hermitage AOC	grapes	Syrah
+Hermitage AOC	grapes	Marsanne
+Hermitage AOC	grapes	Roussanne
+Saint-Joseph AOC	grapes	Syrah
+Saint-Joseph AOC	grapes	Marsanne
+Saint-Joseph AOC	grapes	Roussanne
+Tokaj	grapes	Furmint
+Tokaj	grapes	Lipovina
+Tokaj	grapes	Yellow Muscat
+Tokaj	grapes	Zéta
+Tokaj wine region	grapes	Furmint
+Tokaj wine region	grapes	Hárslevelű
+Tokaj wine region	grapes	Muscat Blanc à Petits Grains
+Tokaj wine region	grapes	Zéta
+Tokaj wine region	grapes	Kövérszőlő
+Tokaj wine region	grapes	Kabar
+Banyuls AOC	grapes	Carignan, Grenache blanc, Grenache gris, Grenache noir, Macabeu, Malvoisie and Muscat
+Châteauneuf-du-Pape AOC	grapes	Grenache
+Châteauneuf-du-Pape AOC	grapes	Syrah
+Châteauneuf-du-Pape AOC	grapes	Mourvedre
+Châteauneuf-du-Pape AOC	grapes	Bourboulenc
+Châteauneuf-du-Pape AOC	grapes	Cinsaut
+Châteauneuf-du-Pape AOC	grapes	Clairette blanche
+Châteauneuf-du-Pape AOC	grapes	Clairette rose
+Châteauneuf-du-Pape AOC	grapes	Counoise
+Châteauneuf-du-Pape AOC	grapes	Grenache blanc
+Châteauneuf-du-Pape AOC	grapes	Grenache gris
+Châteauneuf-du-Pape AOC	grapes	Muscardin
+Châteauneuf-du-Pape AOC	grapes	Picardan
+Châteauneuf-du-Pape AOC	grapes	Piquepoul blanc
+Châteauneuf-du-Pape AOC	grapes	Piquepoul gris
+Châteauneuf-du-Pape AOC	grapes	Piquepoul noir
+Châteauneuf-du-Pape AOC	grapes	Roussanne
+Châteauneuf-du-Pape AOC	grapes	Terret noir
+Châteauneuf-du-Pape AOC	grapes	Vaccarèse
+Côte-Rôtie AOC	grapes	Syrah
+Côte-Rôtie AOC	grapes	Viognier
+Crozes-Hermitage AOC	grapes	Marsanne
+Crozes-Hermitage AOC	grapes	Roussanne
+Crozes-Hermitage AOC	grapes	Syrah
+Cornas AOC	grapes	Syrah
+Condrieu AOC	grapes	Viognier
+Côtes du Luberon AOC	grapes	Grenache noir
+Côtes du Luberon AOC	grapes	Syrah
+Côtes du Luberon AOC	grapes	Cinsault
+Côtes du Luberon AOC	grapes	Mourvèdre
+Côtes du Luberon AOC	grapes	Carignan
+Côtes du Luberon AOC	grapes	Counoise noir
+Côtes du Luberon AOC	grapes	Gamay noir
+Côtes du Luberon AOC	grapes	Pinot noir
+Côtes du Luberon AOC	grapes	Clairette blanche
+Côtes du Luberon AOC	grapes	Grenache blanc
+Côtes du Luberon AOC	grapes	Ugni blanc
+Côtes du Luberon AOC	grapes	Roussanne
+Côtes du Luberon AOC	grapes	Marsanne
+Côtes du Rhône AOC	grapes	Red varieties : Grenache, Syrah, Mourvèdre, Cinsault, Carignan, Counoise, Picpoul, White varieties: Grenache blanc, Marsanne, Roussanne, Bourboulenc, Viognier, Picpoul blanc
+Vacqueyras AOC	grapes	Grenache
+Vacqueyras AOC	grapes	Syrah
+Vacqueyras AOC	grapes	Mourvedre
+Vacqueyras AOC	grapes	Cinsault
+Vacqueyras AOC	grapes	Muscardin
+Vacqueyras AOC	grapes	Counoise
+Vacqueyras AOC	grapes	Clairette blanche
+Vacqueyras AOC	grapes	Bourboulenc
+Tavel AOC	grapes	Grenache
+Tavel AOC	grapes	Cinsault
+Tavel AOC	grapes	Bourboulenc
+Tavel AOC	grapes	Trebbiano
+Tavel AOC	grapes	Clairette blanche
+Tavel AOC	grapes	Mourvèdre
+Tavel AOC	grapes	Picpoul
+Tavel AOC	grapes	Syrah
+Tavel AOC	grapes	Carignan
+Tavel AOC	grapes	Calitor
+Rasteau AOC	grapes	Grenache
+Rasteau AOC	grapes	Syrah
+Rasteau AOC	grapes	Mourvedre
+Rasteau AOC	grapes	Picpoul
+Rasteau AOC	grapes	Terret noir
+Rasteau AOC	grapes	Counoise
+Rasteau AOC	grapes	Muscardin
+Rasteau AOC	grapes	Vaccarese
+Rasteau AOC	grapes	Picardan
+Rasteau AOC	grapes	Cinsault
+Rasteau AOC	grapes	Clairette blanche
+Rasteau AOC	grapes	Roussanne
+Rasteau AOC	grapes	Bourboulenc
+Clairette de Die AOC	grapes	Muscat blanc, Clairette
+Coteaux de Pierrevert AOC	grapes	Grenache noir, Syrah, Carignan, Cinsault, Grenache blanc, Vermentino, Ugni blanc, Clairette, Rousanne
+Côtes du Ventoux AOC	grapes	Grenache, Syrah, Cinsault, Mourvèdre, Carignan, Bourboulenc, Grenache blanc, Clairette, Roussanne
+Grignan-Les Adhemar AOC	grapes	Bourboulenc
+Grignan-Les Adhemar AOC	grapes	Carignan
+Grignan-Les Adhemar AOC	grapes	Cinsault
+Grignan-Les Adhemar AOC	grapes	Clairette blanche
+Grignan-Les Adhemar AOC	grapes	Grenache
+Grignan-Les Adhemar AOC	grapes	Grenache blanc
+Grignan-Les Adhemar AOC	grapes	Mourvèdre
+Grignan-Les Adhemar AOC	grapes	Marsanne
+Grignan-Les Adhemar AOC	grapes	Roussane
+Grignan-Les Adhemar AOC	grapes	Syrah
+Grignan-Les Adhemar AOC	grapes	Viognier
+Lirac AOC	grapes	Grenache blanc, Grenache noir, Syrah, Mourvèdre, Cinsault, Carignan, Bourboulenc, Clairette, Ugni blanc, Picpoul, Marsanne, rousanne, viognier
+Gigondas AOC	grapes	Grenache
+Gigondas AOC	grapes	Syrah
+Gigondas AOC	grapes	Mourvedre
+Gigondas AOC	grapes	Cinsault
+Missouri wine	grapes	Baco noir
+Missouri wine	grapes	Cabernet Franc
+Missouri wine	grapes	Cabernet Sauvignon
+Missouri wine	grapes	Catawba
+Missouri wine	grapes	Cayuga White
+Missouri wine	grapes	Chambourcin
+Missouri wine	grapes	Chardonel
+Missouri wine	grapes	Chardonnay
+Missouri wine	grapes	Chelois
+Missouri wine	grapes	Concord
+Missouri wine	grapes	Couderc noir
+Missouri wine	grapes	De Chaunac
+Missouri wine	grapes	Delaware
+Missouri wine	grapes	Diamond
+Missouri wine	grapes	Edelweiss
+Missouri wine	grapes	Malbec
+Missouri wine	grapes	Marechal Foch
+Missouri wine	grapes	Merlot
+Missouri wine	grapes	Muscat Canelli
+Missouri wine	grapes	New York Muscat
+Missouri wine	grapes	Norton
+Missouri wine	grapes	Rayon d'Or
+Missouri wine	grapes	Riesling
+Missouri wine	grapes	Rougeon
+Missouri wine	grapes	Ruby Cabernet
+Missouri wine	grapes	Seyval blanc
+Missouri wine	grapes	St. Vincent
+Missouri wine	grapes	Touriga Francesa
+Missouri wine	grapes	Traminette
+Missouri wine	grapes	Valiant
+Missouri wine	grapes	Vidal blanc
+Missouri wine	grapes	Vignoles
+Missouri wine	grapes	Villard blanc
+Missouri wine	grapes	Villard noir
+Missouri wine	grapes	Vivant
+Missouri wine	grapes	Zinfandel
+Carmel Valley AVA	grapes	Aleatico
+Carmel Valley AVA	grapes	Alicante Bouschet
+Carmel Valley AVA	grapes	Cabernet Franc
+Carmel Valley AVA	grapes	Cabernet Sauvignon
+Carmel Valley AVA	grapes	Carignane
+Carmel Valley AVA	grapes	Chardonnay
+Carmel Valley AVA	grapes	Chenin blanc
+Carmel Valley AVA	grapes	Grenache
+Carmel Valley AVA	grapes	Malbec
+Carmel Valley AVA	grapes	Merlot
+Carmel Valley AVA	grapes	Petit Verdot
+Carmel Valley AVA	grapes	Petite Sirah
+Carmel Valley AVA	grapes	Pinot noir
+Carmel Valley AVA	grapes	Sauvignon blanc
+Carmel Valley AVA	grapes	Semillon
+Carmel Valley AVA	grapes	Syrah
+Carmel Valley AVA	grapes	Zinfandel
+Livermore Valley AVA	grapes	Barbera
+Livermore Valley AVA	grapes	Cabernet Franc
+Livermore Valley AVA	grapes	Cabernet Sauvignon
+Livermore Valley AVA	grapes	Chardonnay
+Livermore Valley AVA	grapes	Chenin blanc
+Livermore Valley AVA	grapes	Cinsault
+Livermore Valley AVA	grapes	Colombard
+Livermore Valley AVA	grapes	Counoise
+Livermore Valley AVA	grapes	Gewurztraminer
+Livermore Valley AVA	grapes	Grenache
+Livermore Valley AVA	grapes	Malbec
+Livermore Valley AVA	grapes	Merlot
+Livermore Valley AVA	grapes	Mourvedre
+Livermore Valley AVA	grapes	Muscat Canelli
+Livermore Valley AVA	grapes	Petit Verdot
+Livermore Valley AVA	grapes	Petite Sirah
+Livermore Valley AVA	grapes	Pinot blanc
+Livermore Valley AVA	grapes	Pinot gris
+Livermore Valley AVA	grapes	Pinot noir
+Livermore Valley AVA	grapes	Roussanne
+Livermore Valley AVA	grapes	Sangiovese
+Livermore Valley AVA	grapes	Sauvignon blanc
+Livermore Valley AVA	grapes	Semillon
+Livermore Valley AVA	grapes	Souzao
+Livermore Valley AVA	grapes	Syrah
+Livermore Valley AVA	grapes	Tempranillo
+Livermore Valley AVA	grapes	Touriga Francesa
+Livermore Valley AVA	grapes	Touriga Nacional
+Livermore Valley AVA	grapes	Viognier
+Livermore Valley AVA	grapes	Zinfandel
+Dão DOC	grapes	Touriga Nacional, Tinta Roriz, Jaen, Alfrocheiro Preto and Encruzado
+Mâconnais	grapes	mostly Chardonnay; also some Gamay and Pinot noir
+Yadkin Valley AVA	grapes	Aleatico, Barbera, Cabernet Franc, Cabernet Sauvignon, Chambourcin, Chardonnay, Malbec, Malvasia, Merlot, Montepulciano, Muscat Canelli, Nebbiolo, Niagara, Petit Verdot, Pinot gris, Pinot noir, Riesling, Sangiovese, Vidal Blanc, Traminette, Cynthiana/NortonSauvignon blanc, Seyval blanc, Syrah, Vermentino, Viognier
+Alexander Valley AVA	grapes	Barbera
+Alexander Valley AVA	grapes	Cabernet Franc
+Alexander Valley AVA	grapes	Cabernet Sauvignon
+Alexander Valley AVA	grapes	Carignane
+Alexander Valley AVA	grapes	Chardonnay
+Alexander Valley AVA	grapes	Chenin blanc
+Alexander Valley AVA	grapes	Gewurztraminer
+Alexander Valley AVA	grapes	Grenache
+Alexander Valley AVA	grapes	Malbec
+Alexander Valley AVA	grapes	Merlot
+Alexander Valley AVA	grapes	Muscat Canelli
+Alexander Valley AVA	grapes	Petit Verdot
+Alexander Valley AVA	grapes	Petite Sirah
+Alexander Valley AVA	grapes	Pinot blanc
+Alexander Valley AVA	grapes	Pinot noir
+Alexander Valley AVA	grapes	Riesling
+Alexander Valley AVA	grapes	Sangiovese
+Alexander Valley AVA	grapes	Sauvignon blanc
+Alexander Valley AVA	grapes	Semillon
+Alexander Valley AVA	grapes	Syrah
+Alexander Valley AVA	grapes	Tempranillo
+Alexander Valley AVA	grapes	Viognier
+Alexander Valley AVA	grapes	Zinfandel
+Pouilly-Fuissé	grapes	Chardonnay
+Arroyo Seco AVA	grapes	Barbera
+Arroyo Seco AVA	grapes	Cabernet Franc
+Arroyo Seco AVA	grapes	Cabernet Sauvignon
+Arroyo Seco AVA	grapes	Chardonnay
+Arroyo Seco AVA	grapes	Gewurztraminer
+Arroyo Seco AVA	grapes	Grenache
+Arroyo Seco AVA	grapes	Merlot
+Arroyo Seco AVA	grapes	Mourvedre
+Arroyo Seco AVA	grapes	Muscat Canelli
+Arroyo Seco AVA	grapes	Pinot blanc
+Arroyo Seco AVA	grapes	Pinot gris
+Arroyo Seco AVA	grapes	Pinot noir
+Arroyo Seco AVA	grapes	Riesling
+Arroyo Seco AVA	grapes	Sangiovese
+Arroyo Seco AVA	grapes	Sauvignon blanc
+Arroyo Seco AVA	grapes	Syrah
+Arroyo Seco AVA	grapes	Viognier
+Rockpile AVA	grapes	Cabernet Sauvignon
+Rockpile AVA	grapes	Petite Sirah
+Rockpile AVA	grapes	Zinfandel
+Chalone AVA	grapes	Chardonnay
+Chalone AVA	grapes	Chenin blanc
+Chalone AVA	grapes	Grenache
+Chalone AVA	grapes	Pinot blanc
+Chalone AVA	grapes	Pinot noir
+Chalone AVA	grapes	Sangiovese
+Chalone AVA	grapes	Syrah
+Chalone AVA	grapes	Viognier
+Michigan wine	grapes	Baco noir
+Michigan wine	grapes	Cabernet Franc
+Michigan wine	grapes	Cabernet Sauvignon
+Michigan wine	grapes	Catawba
+Michigan wine	grapes	Cayuga White
+Michigan wine	grapes	Chambourcin
+Michigan wine	grapes	Chancellor
+Michigan wine	grapes	Chardonnay
+Michigan wine	grapes	Concord
+Michigan wine	grapes	Gamay noir
+Michigan wine	grapes	Gewürztraminer
+Michigan wine	grapes	Kerner
+Michigan wine	grapes	Blaufränkisch
+Michigan wine	grapes	Leon Millot
+Michigan wine	grapes	Marechal Foch
+Michigan wine	grapes	Merlot
+Michigan wine	grapes	Niagara
+Michigan wine	grapes	Pinot blanc
+Michigan wine	grapes	Pinot gris
+Michigan wine	grapes	Pinot noir
+Michigan wine	grapes	Riesling
+Michigan wine	grapes	Sauvignon blanc
+Michigan wine	grapes	Seyval blanc
+Michigan wine	grapes	Syrah
+Michigan wine	grapes	Traminette
+Michigan wine	grapes	Valiant
+Michigan wine	grapes	Vidal blanc
+Michigan wine	grapes	Vignoles
+Illinois wine	grapes	Cabernet Franc
+Illinois wine	grapes	Cabernet Sauvignon
+Illinois wine	grapes	Catawba
+Illinois wine	grapes	Cayuga White
+Illinois wine	grapes	Chambourcin
+Illinois wine	grapes	Chancellor
+Illinois wine	grapes	Chardonel
+Illinois wine	grapes	Concord
+Illinois wine	grapes	De Chaunac
+Illinois wine	grapes	Edelweiss
+Illinois wine	grapes	Elvira
+Illinois wine	grapes	Frontenac
+Illinois wine	grapes	Gewürztraminer
+Illinois wine	grapes	Muscat
+Illinois wine	grapes	La Crosse
+Illinois wine	grapes	Leon Millot
+Illinois wine	grapes	Marechal Foch
+Illinois wine	grapes	Merlot
+Illinois wine	grapes	Muscadine
+Illinois wine	grapes	Niagara
+Illinois wine	grapes	Norton
+Illinois wine	grapes	Riesling
+Illinois wine	grapes	Seyval blanc
+Illinois wine	grapes	St. Pepin
+Illinois wine	grapes	Traminette
+Illinois wine	grapes	Vidal blanc
+Illinois wine	grapes	Vignoles
+Illinois wine	grapes	Villard blanc
+Illinois wine	grapes	Villard noir
+Washington wine	grapes	Aligote
+Washington wine	grapes	Cabernet Franc
+Washington wine	grapes	Cabernet Sauvignon
+Washington wine	grapes	Carmenere
+Washington wine	grapes	Chardonnay
+Washington wine	grapes	Chenin blanc
+Washington wine	grapes	Gewurztraminer
+Washington wine	grapes	Grenache
+Washington wine	grapes	Blaufränkisch
+Washington wine	grapes	Leon Millot
+Washington wine	grapes	Madeleine Angevine
+Washington wine	grapes	Madeleine Sylvaner
+Washington wine	grapes	Malbec
+Washington wine	grapes	Marechal Foch
+Washington wine	grapes	Merlot
+Washington wine	grapes	Muller Thurgau
+Washington wine	grapes	Muscat Canelli
+Washington wine	grapes	Muscat Ottonel
+Washington wine	grapes	Petit Verdot
+Washington wine	grapes	Pinot blanc
+Washington wine	grapes	Pinot gris
+Washington wine	grapes	Pinot noir
+Washington wine	grapes	Riesling
+Washington wine	grapes	Roussanne
+Washington wine	grapes	Sangiovese
+Washington wine	grapes	Sauvignon blanc
+Washington wine	grapes	Semillon
+Washington wine	grapes	Siegerrebe
+Washington wine	grapes	Syrah
+Washington wine	grapes	Viognier
+Washington wine	grapes	Zinfandel
+Lake Michigan Shore AVA	grapes	Cabernet Franc
+Lake Michigan Shore AVA	grapes	Cabernet Sauvignon
+Lake Michigan Shore AVA	grapes	Chancellor
+Lake Michigan Shore AVA	grapes	Chardonnay
+Lake Michigan Shore AVA	grapes	Chelois
+Lake Michigan Shore AVA	grapes	De Chaunac
+Lake Michigan Shore AVA	grapes	Gewurztraminer
+Lake Michigan Shore AVA	grapes	Blaufränkisch
+Lake Michigan Shore AVA	grapes	Malbec
+Lake Michigan Shore AVA	grapes	Marsanne
+Lake Michigan Shore AVA	grapes	Merlot
+Lake Michigan Shore AVA	grapes	Muller Thurgau
+Lake Michigan Shore AVA	grapes	Petit Verdot
+Lake Michigan Shore AVA	grapes	Pinot gris
+Lake Michigan Shore AVA	grapes	Pinot noir
+Lake Michigan Shore AVA	grapes	Riesling
+Lake Michigan Shore AVA	grapes	Roussanne
+Lake Michigan Shore AVA	grapes	Seyval blanc
+Lake Michigan Shore AVA	grapes	St. Vincent
+Lake Michigan Shore AVA	grapes	Syrah
+Lake Michigan Shore AVA	grapes	Traminette
+Lake Michigan Shore AVA	grapes	Vidal blanc
+Lake Michigan Shore AVA	grapes	Vignoles
+Lake Michigan Shore AVA	grapes	Viognier
+Oregon wine	grapes	Albariño
+Oregon wine	grapes	Aligoté
+Oregon wine	grapes	Arneis
+Oregon wine	grapes	Auxerrois Blanc
+Oregon wine	grapes	Baco noir
+Oregon wine	grapes	Barbera
+Oregon wine	grapes	Black Muscat
+Oregon wine	grapes	Blaufränkisch
+Oregon wine	grapes	Cabernet Franc
+Oregon wine	grapes	Cabernet Sauvignon
+Oregon wine	grapes	Caprettone
+Oregon wine	grapes	Carménère
+Oregon wine	grapes	Cayuga White
+Oregon wine	grapes	Chardonnay
+Oregon wine	grapes	Chasselas
+Oregon wine	grapes	Chenin blanc
+Oregon wine	grapes	Coda di Volpe
+Oregon wine	grapes	Counoise
+Oregon wine	grapes	Dolcetto
+Oregon wine	grapes	Early Muscat
+Oregon wine	grapes	Ehrenfelser
+Oregon wine	grapes	Fiano
+Oregon wine	grapes	Frontenac
+Oregon wine	grapes	Gamay noir
+Oregon wine	grapes	Gewurztraminer
+Oregon wine	grapes	Graciano
+Oregon wine	grapes	Grenache
+Oregon wine	grapes	Grenache blanc
+Oregon wine	grapes	Gruner Veltliner
+Oregon wine	grapes	Huxelrebe
+Oregon wine	grapes	Kerner
+Oregon wine	grapes	La Crosse
+Oregon wine	grapes	La Crescent
+Oregon wine	grapes	Lagrein
+Oregon wine	grapes	Leon Millot
+Oregon wine	grapes	Malbec
+Oregon wine	grapes	Marechal Foch
+Oregon wine	grapes	Malvasia
+Oregon wine	grapes	Marquette
+Oregon wine	grapes	Marsanne
+Oregon wine	grapes	Melon de Bourgogne
+Oregon wine	grapes	Merlot
+Oregon wine	grapes	Mondeuse noire
+Oregon wine	grapes	Montepulciano
+Oregon wine	grapes	Mourvèdre
+Oregon wine	grapes	Muller Thurgau
+Oregon wine	grapes	Muscat Canelli
+Oregon wine	grapes	Muscat Ottonel
+Oregon wine	grapes	Nebbiolo
+Oregon wine	grapes	Niagara
+Oregon wine	grapes	Petit Verdot
+Oregon wine	grapes	Pinot blanc
+Oregon wine	grapes	Pinot gris
+Oregon wine	grapes	Pinot Meunier
+Oregon wine	grapes	Pinot noir
+Oregon wine	grapes	Pinotage
+Oregon wine	grapes	Riesling
+Oregon wine	grapes	Petit Manseng
+Oregon wine	grapes	Durif
+Oregon wine	grapes	Roussanne
+Oregon wine	grapes	Sangiovese
+Oregon wine	grapes	Sauvignon blanc
+Oregon wine	grapes	Scheurebe
+Oregon wine	grapes	Sémillon
+Oregon wine	grapes	St Croix
+Oregon wine	grapes	St. Laurent
+Oregon wine	grapes	Sylvaner
+Oregon wine	grapes	Syrah
+Oregon wine	grapes	Tannat
+Oregon wine	grapes	Tempranillo
+Oregon wine	grapes	Teroldego
+Oregon wine	grapes	Tinta Amarela
+Oregon wine	grapes	Tinta Cao
+Oregon wine	grapes	Sauvignon vert
+Oregon wine	grapes	Touriga Nacional
+Oregon wine	grapes	Traminette
+Oregon wine	grapes	Trousseau
+Oregon wine	grapes	Verdejo
+Oregon wine	grapes	Vermentino
+Oregon wine	grapes	Vignoles
+Oregon wine	grapes	Viognier
+Oregon wine	grapes	Zinfandel
+Willamette Valley AVA	grapes	Auxerrois Blanc
+Willamette Valley AVA	grapes	Cabernet Franc
+Willamette Valley AVA	grapes	Cabernet Sauvignon
+Willamette Valley AVA	grapes	Seibel grapes
+Willamette Valley AVA	grapes	Chardonnay
+Willamette Valley AVA	grapes	Dolcetto
+Willamette Valley AVA	grapes	Early Muscat
+Willamette Valley AVA	grapes	Gamay noir
+Willamette Valley AVA	grapes	Gewurztraminer
+Willamette Valley AVA	grapes	Malbec
+Willamette Valley AVA	grapes	Marechal Foch
+Willamette Valley AVA	grapes	Melon
+Willamette Valley AVA	grapes	Merlot
+Willamette Valley AVA	grapes	Muller Thurgau
+Willamette Valley AVA	grapes	Muscat Canelli
+Willamette Valley AVA	grapes	Muscat Ottonel
+Willamette Valley AVA	grapes	Pinot blanc
+Willamette Valley AVA	grapes	Pinot gris
+Willamette Valley AVA	grapes	Pinot noir
+Willamette Valley AVA	grapes	Riesling
+Willamette Valley AVA	grapes	Sauvignon blanc
+Willamette Valley AVA	grapes	Syrah
+Willamette Valley AVA	grapes	Tocai Friulano
+Willamette Valley AVA	grapes	Viognier
+McMinnville AVA	grapes	Pinot blanc
+McMinnville AVA	grapes	Pinot gris
+McMinnville AVA	grapes	Pinot noir
+McMinnville AVA	grapes	Riesling
+Southern Oregon AVA	grapes	Albarino
+Southern Oregon AVA	grapes	Bastardo
+Southern Oregon AVA	grapes	Cabernet Franc
+Southern Oregon AVA	grapes	Cabernet Sauvignon
+Southern Oregon AVA	grapes	Chardonnay
+Southern Oregon AVA	grapes	Dolcetto
+Southern Oregon AVA	grapes	Grenache
+Southern Oregon AVA	grapes	Malbec
+Southern Oregon AVA	grapes	Merlot
+Southern Oregon AVA	grapes	Petit Verdot
+Southern Oregon AVA	grapes	Petite Sirah
+Southern Oregon AVA	grapes	Syrah
+Southern Oregon AVA	grapes	Tempranillo
+Southern Oregon AVA	grapes	Viognier
+Dundee Hills AVA	grapes	Chardonnay
+Dundee Hills AVA	grapes	Muller Thurgau
+Dundee Hills AVA	grapes	Pinot blanc
+Dundee Hills AVA	grapes	Pinot gris
+Dundee Hills AVA	grapes	Pinot noir
+Dundee Hills AVA	grapes	Riesling
+Umpqua Valley AVA	grapes	Baco noir
+Umpqua Valley AVA	grapes	Cabernet Franc
+Umpqua Valley AVA	grapes	Cabernet Sauvignon
+Umpqua Valley AVA	grapes	Chardonnay
+Umpqua Valley AVA	grapes	Dolcetto
+Umpqua Valley AVA	grapes	Gewurztraminer
+Umpqua Valley AVA	grapes	Grenache
+Umpqua Valley AVA	grapes	Malbec
+Umpqua Valley AVA	grapes	Merlot
+Umpqua Valley AVA	grapes	Muscat Canelli
+Umpqua Valley AVA	grapes	Pinot blanc
+Umpqua Valley AVA	grapes	Pinot gris
+Umpqua Valley AVA	grapes	Pinot noir
+Umpqua Valley AVA	grapes	Riesling
+Umpqua Valley AVA	grapes	Sauvignon blanc
+Umpqua Valley AVA	grapes	Semillon
+Umpqua Valley AVA	grapes	Syrah
+Umpqua Valley AVA	grapes	Tempranillo
+Applegate Valley AVA	grapes	Cabernet Franc
+Applegate Valley AVA	grapes	Cabernet Sauvignon
+Applegate Valley AVA	grapes	Chardonnay
+Applegate Valley AVA	grapes	Merlot
+Applegate Valley AVA	grapes	Riesling
+Applegate Valley AVA	grapes	Syrah
+Applegate Valley AVA	grapes	Tempranillo
+Applegate Valley AVA	grapes	Zinfandel
+Rogue Valley AVA	grapes	Cabernet Franc
+Rogue Valley AVA	grapes	Cabernet Sauvignon
+Rogue Valley AVA	grapes	Chardonnay
+Rogue Valley AVA	grapes	Dolcetto
+Rogue Valley AVA	grapes	Gewurztraminer
+Rogue Valley AVA	grapes	Grenache
+Rogue Valley AVA	grapes	Malbec
+Rogue Valley AVA	grapes	Merlot
+Rogue Valley AVA	grapes	Pinot blanc
+Rogue Valley AVA	grapes	Pinot gris
+Rogue Valley AVA	grapes	Pinot noir
+Rogue Valley AVA	grapes	Sangiovese
+Rogue Valley AVA	grapes	Sauvignon blanc
+Rogue Valley AVA	grapes	Semillon
+Rogue Valley AVA	grapes	Syrah
+Rogue Valley AVA	grapes	Tempranillo
+Rogue Valley AVA	grapes	Viognier
+Yamhill-Carlton District AVA	grapes	Chardonnay
+Yamhill-Carlton District AVA	grapes	Dolcetto
+Yamhill-Carlton District AVA	grapes	Early Muscat
+Yamhill-Carlton District AVA	grapes	Muscat Ottonel
+Yamhill-Carlton District AVA	grapes	Pinot blanc
+Yamhill-Carlton District AVA	grapes	Pinot gris
+Yamhill-Carlton District AVA	grapes	Pinot Meunier
+Yamhill-Carlton District AVA	grapes	Pinot noir
+Columbia Gorge AVA	grapes	Barbera
+Columbia Gorge AVA	grapes	Cabernet Sauvignon
+Columbia Gorge AVA	grapes	Chardonnay
+Columbia Gorge AVA	grapes	Chenin blanc
+Columbia Gorge AVA	grapes	Gewurztraminer
+Columbia Gorge AVA	grapes	Blaufränkisch
+Columbia Gorge AVA	grapes	Merlot
+Columbia Gorge AVA	grapes	Pinot blanc
+Columbia Gorge AVA	grapes	Pinot gris
+Columbia Gorge AVA	grapes	Pinot noir
+Columbia Gorge AVA	grapes	Sangiovese
+Columbia Gorge AVA	grapes	Sauvignon blanc
+Columbia Gorge AVA	grapes	Syrah
+Columbia Gorge AVA	grapes	Tempranillo
+Columbia Gorge AVA	grapes	Viognier
+Columbia Gorge AVA	grapes	Zinfandel
+Red Mountain AVA	grapes	Cabernet Franc
+Red Mountain AVA	grapes	Cabernet Sauvignon
+Red Mountain AVA	grapes	Chardonnay
+Red Mountain AVA	grapes	Counoise
+Red Mountain AVA	grapes	Gewurztraminer
+Red Mountain AVA	grapes	Blaufränkisch
+Red Mountain AVA	grapes	Malbec
+Red Mountain AVA	grapes	Merlot
+Red Mountain AVA	grapes	Mourvedre
+Red Mountain AVA	grapes	Nebbiolo
+Red Mountain AVA	grapes	Petit Verdot
+Red Mountain AVA	grapes	Pinot gris
+Red Mountain AVA	grapes	Riesling
+Red Mountain AVA	grapes	Roussanne
+Red Mountain AVA	grapes	Sauvignon blanc
+Red Mountain AVA	grapes	Semillon
+Red Mountain AVA	grapes	Syrah
+Red Mountain AVA	grapes	Viognier
+Columbia Valley AVA	grapes	Barbera
+Columbia Valley AVA	grapes	Black Muscat
+Columbia Valley AVA	grapes	Cabernet Franc
+Columbia Valley AVA	grapes	Cabernet Sauvignon
+Columbia Valley AVA	grapes	Carmenere
+Columbia Valley AVA	grapes	Chardonnay
+Columbia Valley AVA	grapes	Chenin blanc
+Columbia Valley AVA	grapes	Counoise
+Columbia Valley AVA	grapes	Gamay Beaujolais
+Columbia Valley AVA	grapes	Gamay noir
+Columbia Valley AVA	grapes	Gewurztraminer
+Columbia Valley AVA	grapes	Grenache
+Columbia Valley AVA	grapes	Blaufränkisch
+Columbia Valley AVA	grapes	Malbec
+Columbia Valley AVA	grapes	Marsanne
+Columbia Valley AVA	grapes	Merlot
+Columbia Valley AVA	grapes	Morio Muskat
+Columbia Valley AVA	grapes	Mourvedre
+Columbia Valley AVA	grapes	Muscadelle
+Columbia Valley AVA	grapes	Muscat Canelli
+Columbia Valley AVA	grapes	Nebbiolo
+Columbia Valley AVA	grapes	Orange Muscat
+Columbia Valley AVA	grapes	Petit Verdot
+Columbia Valley AVA	grapes	Petite Sirah
+Columbia Valley AVA	grapes	Pinot blanc
+Columbia Valley AVA	grapes	Pinot gris
+Columbia Valley AVA	grapes	Pinot Meunier
+Columbia Valley AVA	grapes	Pinot noir
+Columbia Valley AVA	grapes	Riesling
+Columbia Valley AVA	grapes	Roussanne
+Columbia Valley AVA	grapes	Royalty
+Columbia Valley AVA	grapes	Sangiovese
+Columbia Valley AVA	grapes	Sauvignon blanc
+Columbia Valley AVA	grapes	Semillon
+Columbia Valley AVA	grapes	Siegerrebe
+Columbia Valley AVA	grapes	Syrah
+Columbia Valley AVA	grapes	Viognier
+Columbia Valley AVA	grapes	Zinfandel
+Wahluke Slope AVA	grapes	Cabernet Franc
+Wahluke Slope AVA	grapes	Cabernet Sauvignon
+Wahluke Slope AVA	grapes	Chardonnay
+Wahluke Slope AVA	grapes	Gewurztraminer
+Wahluke Slope AVA	grapes	Grenache
+Wahluke Slope AVA	grapes	Merlot
+Wahluke Slope AVA	grapes	Mourvedre
+Wahluke Slope AVA	grapes	Petit Verdot
+Wahluke Slope AVA	grapes	Sangiovese
+Wahluke Slope AVA	grapes	Sauvignon blanc
+Wahluke Slope AVA	grapes	Syrah
+Wahluke Slope AVA	grapes	Viognier
+Wahluke Slope AVA	grapes	Zinfandel
+Horse Heaven Hills AVA	grapes	Barbera
+Horse Heaven Hills AVA	grapes	Cabernet Franc
+Horse Heaven Hills AVA	grapes	Cabernet Sauvignon
+Horse Heaven Hills AVA	grapes	Chenin blanc
+Horse Heaven Hills AVA	grapes	Grenache
+Horse Heaven Hills AVA	grapes	Malbec
+Horse Heaven Hills AVA	grapes	Marsanne
+Horse Heaven Hills AVA	grapes	Merlot
+Horse Heaven Hills AVA	grapes	Mourvedre
+Horse Heaven Hills AVA	grapes	Petit Verdot
+Horse Heaven Hills AVA	grapes	Riesling
+Horse Heaven Hills AVA	grapes	Roussanne
+Horse Heaven Hills AVA	grapes	Sauvignon blanc
+Horse Heaven Hills AVA	grapes	Syrah
+Horse Heaven Hills AVA	grapes	Viognier
+Horse Heaven Hills AVA	grapes	Zinfandel
+Rattlesnake Hills AVA	grapes	Cabernet Franc
+Rattlesnake Hills AVA	grapes	Cabernet Sauvignon
+Rattlesnake Hills AVA	grapes	Chardonnay
+Rattlesnake Hills AVA	grapes	Chenin blanc
+Rattlesnake Hills AVA	grapes	Gewurztraminer
+Rattlesnake Hills AVA	grapes	Malbec
+Rattlesnake Hills AVA	grapes	Merlot
+Rattlesnake Hills AVA	grapes	Muscat Canelli
+Rattlesnake Hills AVA	grapes	Petite Sirah
+Rattlesnake Hills AVA	grapes	Riesling
+Rattlesnake Hills AVA	grapes	Semillon
+Rattlesnake Hills AVA	grapes	Viognier
+Yakima Valley AVA	grapes	Aligote
+Yakima Valley AVA	grapes	Barbera
+Yakima Valley AVA	grapes	Black Muscat
+Yakima Valley AVA	grapes	Cabernet Franc
+Yakima Valley AVA	grapes	Cabernet Sauvignon
+Yakima Valley AVA	grapes	Chardonnay
+Yakima Valley AVA	grapes	Chenin blanc
+Yakima Valley AVA	grapes	Gamay Beaujolais
+Yakima Valley AVA	grapes	Gewurztraminer
+Yakima Valley AVA	grapes	Grenache
+Yakima Valley AVA	grapes	Blaufränkisch
+Yakima Valley AVA	grapes	Malbec
+Yakima Valley AVA	grapes	Marsanne
+Yakima Valley AVA	grapes	Merlot
+Yakima Valley AVA	grapes	Mourvedre
+Yakima Valley AVA	grapes	Muscat Canelli
+Yakima Valley AVA	grapes	Orange Muscat
+Yakima Valley AVA	grapes	Petit Verdot
+Yakima Valley AVA	grapes	Petite Sirah
+Yakima Valley AVA	grapes	Pinot gris
+Yakima Valley AVA	grapes	Pinot noir
+Yakima Valley AVA	grapes	Riesling
+Yakima Valley AVA	grapes	Roussanne
+Yakima Valley AVA	grapes	Sangiovese
+Yakima Valley AVA	grapes	Sauvignon blanc
+Yakima Valley AVA	grapes	Semillon
+Yakima Valley AVA	grapes	Syrah
+Yakima Valley AVA	grapes	Viognier
+Yakima Valley AVA	grapes	Zinfandel
+Walla Walla Valley AVA	grapes	Barbera
+Walla Walla Valley AVA	grapes	Cabernet Franc
+Walla Walla Valley AVA	grapes	Cabernet Sauvignon
+Walla Walla Valley AVA	grapes	Carmenere
+Walla Walla Valley AVA	grapes	Chardonnay
+Walla Walla Valley AVA	grapes	Cinsault
+Walla Walla Valley AVA	grapes	Counoise
+Walla Walla Valley AVA	grapes	Dolcetto
+Walla Walla Valley AVA	grapes	Gewurztraminer
+Walla Walla Valley AVA	grapes	Malbec
+Walla Walla Valley AVA	grapes	Merlot
+Walla Walla Valley AVA	grapes	Nebbiolo
+Walla Walla Valley AVA	grapes	Petit Verdot
+Walla Walla Valley AVA	grapes	Pinot noir
+Walla Walla Valley AVA	grapes	Sangiovese
+Walla Walla Valley AVA	grapes	Semillon
+Walla Walla Valley AVA	grapes	Syrah
+Walla Walla Valley AVA	grapes	Viognier
+Sagrantino di Montefalco	grapes	Sagrantino
+Knights Valley AVA	grapes	Cabernet Franc
+Knights Valley AVA	grapes	Cabernet Sauvignon
+Knights Valley AVA	grapes	Chardonnay
+Knights Valley AVA	grapes	Malbec
+Knights Valley AVA	grapes	Merlot
+Knights Valley AVA	grapes	Mourvedre
+Knights Valley AVA	grapes	Petit Verdot
+Knights Valley AVA	grapes	Sauvignon blanc
+Knights Valley AVA	grapes	Semillon
+Knights Valley AVA	grapes	Syrah
+Knights Valley AVA	grapes	Tinta Cao
+Knights Valley AVA	grapes	Zinfandel
+Puget Sound AVA	grapes	Madeleine Angevine
+Puget Sound AVA	grapes	Madeleine Sylvaner
+Puget Sound AVA	grapes	Muller Thurgau
+Puget Sound AVA	grapes	Pinot gris
+Puget Sound AVA	grapes	Pinot noir
+Puget Sound AVA	grapes	Siegerrebe
+Ribbon Ridge AVA	grapes	Muscat Canelli
+Ribbon Ridge AVA	grapes	Pinot gris
+Ribbon Ridge AVA	grapes	Pinot noir
+Santa Maria Valley AVA	grapes	Aligote
+Santa Maria Valley AVA	grapes	Cabernet Sauvignon
+Santa Maria Valley AVA	grapes	Chardonnay
+Santa Maria Valley AVA	grapes	Chenin blanc
+Santa Maria Valley AVA	grapes	Grenache
+Santa Maria Valley AVA	grapes	Malbec
+Santa Maria Valley AVA	grapes	Marsanne
+Santa Maria Valley AVA	grapes	Merlot
+Santa Maria Valley AVA	grapes	Mondeuse
+Santa Maria Valley AVA	grapes	Nebbiolo
+Santa Maria Valley AVA	grapes	Petit Verdot
+Santa Maria Valley AVA	grapes	Pinot blanc
+Santa Maria Valley AVA	grapes	Pinot gris
+Santa Maria Valley AVA	grapes	Pinot noir
+Santa Maria Valley AVA	grapes	Riesling
+Santa Maria Valley AVA	grapes	Roussanne
+Santa Maria Valley AVA	grapes	Sangiovese
+Santa Maria Valley AVA	grapes	Sauvignon blanc
+Santa Maria Valley AVA	grapes	Silvaner
+Santa Maria Valley AVA	grapes	Syrah
+Santa Maria Valley AVA	grapes	Tocai Friulano
+Santa Maria Valley AVA	grapes	Viognier
+Santa Maria Valley AVA	grapes	Zinfandel
+Costières de Nîmes AOC	grapes	Red/rosé: Syrah, Grenache, Mourvèdre, Carignan, Cinsault. White: Grenache blanc, Marsanne, Roussanne, Clairette, Bourboulenc, Macabeo, Rolle
+Suisun Valley AVA	grapes	Cabernet Sauvignon, French Colombard, Chardonnay, Petite Sirah, Pinot Noir, Riesling, Sauvignon Blanc, Valdiguie, Syrah, Zinfandel, and more
+Augusta AVA	grapes	Cabernet Sauvignon
+Augusta AVA	grapes	Chambourcin
+Augusta AVA	grapes	Chardonel
+Augusta AVA	grapes	Chardonnay
+Augusta AVA	grapes	Couderc noir
+Augusta AVA	grapes	Norton
+Augusta AVA	grapes	Rayon d'Or
+Augusta AVA	grapes	Seyval blanc
+Augusta AVA	grapes	St. Vincent
+Augusta AVA	grapes	Vidal blanc
+Augusta AVA	grapes	Vignoles
+Niagara Escarpment AVA	grapes	Baco noir
+Niagara Escarpment AVA	grapes	Cabernet Franc
+Niagara Escarpment AVA	grapes	Cabernet Sauvignon
+Niagara Escarpment AVA	grapes	Catawba
+Niagara Escarpment AVA	grapes	Chancellor
+Niagara Escarpment AVA	grapes	Chardonnay
+Niagara Escarpment AVA	grapes	Concord
+Niagara Escarpment AVA	grapes	Diamond
+Niagara Escarpment AVA	grapes	Merlot
+Niagara Escarpment AVA	grapes	Niagara
+Niagara Escarpment AVA	grapes	Pinot noir
+Niagara Escarpment AVA	grapes	Riesling
+Niagara Escarpment AVA	grapes	Seyval blanc
+Niagara Escarpment AVA	grapes	Siegfried
+Niagara Escarpment AVA	grapes	Steuben
+Niagara Escarpment AVA	grapes	Syrah
+Niagara Escarpment AVA	grapes	Malbec
+Niagara Escarpment AVA	grapes	Vidal blanc
+Texas wine	grapes	Aglianico
+Texas wine	grapes	Blanc du Bois
+Texas wine	grapes	Cabernet Franc
+Texas wine	grapes	Cabernet Sauvignon
+Texas wine	grapes	Carignane
+Texas wine	grapes	Chardonnay
+Texas wine	grapes	Chenin blanc
+Texas wine	grapes	Gewurztraminer
+Texas wine	grapes	Grenache
+Texas wine	grapes	Black Spanish
+Texas wine	grapes	Malbec
+Texas wine	grapes	Merlot
+Texas wine	grapes	Montepulciano
+Texas wine	grapes	Mourvedre
+Texas wine	grapes	Muscadine
+Texas wine	grapes	Muscat Canelli
+Texas wine	grapes	Vitis mustangensis
+Texas wine	grapes	Noble
+Texas wine	grapes	Norton
+Texas wine	grapes	Orange Muscat
+Texas wine	grapes	Palomino
+Texas wine	grapes	Petit Verdot
+Texas wine	grapes	Pinot gris
+Texas wine	grapes	Pinot noir
+Texas wine	grapes	Primitivo
+Texas wine	grapes	Riesling
+Texas wine	grapes	Roussanne
+Texas wine	grapes	Ruby Cabernet
+Texas wine	grapes	Sangiovese
+Texas wine	grapes	Sauvignon blanc
+Texas wine	grapes	Sauvignon Musque
+Texas wine	grapes	Scuppernong
+Texas wine	grapes	Semillon
+Texas wine	grapes	Syrah
+Texas wine	grapes	Touriga Nacional
+Texas wine	grapes	Viognier
+Texas wine	grapes	Zinfandel
+Hawaii wine	grapes	Olmo grape
+Temecula Valley AVA	grapes	Black Muscat
+Temecula Valley AVA	grapes	Cabernet Franc
+Temecula Valley AVA	grapes	Cabernet Sauvignon
+Temecula Valley AVA	grapes	Chardonnay
+Temecula Valley AVA	grapes	Chenin blanc
+Temecula Valley AVA	grapes	Cinsault
+Temecula Valley AVA	grapes	Cortese
+Temecula Valley AVA	grapes	Dolcetto
+Temecula Valley AVA	grapes	Gamay noir
+Temecula Valley AVA	grapes	Gewurztraminer
+Temecula Valley AVA	grapes	Malbec
+Temecula Valley AVA	grapes	Merlot
+Temecula Valley AVA	grapes	Mourvedre
+Temecula Valley AVA	grapes	Muscat Canelli
+Temecula Valley AVA	grapes	Muscat of Alexandria
+Temecula Valley AVA	grapes	Nebbiolo
+Temecula Valley AVA	grapes	Orange Muscat
+Temecula Valley AVA	grapes	Palomino
+Temecula Valley AVA	grapes	Petit Verdot
+Temecula Valley AVA	grapes	Petite Sirah
+Temecula Valley AVA	grapes	Pinot gris
+Temecula Valley AVA	grapes	Pinot noir
+Temecula Valley AVA	grapes	Riesling
+Temecula Valley AVA	grapes	Roussanne
+Temecula Valley AVA	grapes	Rubired
+Temecula Valley AVA	grapes	Sangiovese
+Temecula Valley AVA	grapes	Sauvignon blanc
+Temecula Valley AVA	grapes	Semillon
+Temecula Valley AVA	grapes	Syrah
+Temecula Valley AVA	grapes	Tannat
+Temecula Valley AVA	grapes	Viognier
+Temecula Valley AVA	grapes	Zinfandel
+Idaho wine	grapes	Cabernet Franc
+Idaho wine	grapes	Cabernet Sauvignon
+Idaho wine	grapes	Chardonnay
+Idaho wine	grapes	Gewurztraminer
+Idaho wine	grapes	Blaufränkisch
+Idaho wine	grapes	Malbec
+Idaho wine	grapes	Merlot
+Idaho wine	grapes	Muscat Canelli
+Idaho wine	grapes	Orange Muscat
+Idaho wine	grapes	Petit Verdot
+Idaho wine	grapes	Pinot gris
+Idaho wine	grapes	Pinot noir
+Idaho wine	grapes	Riesling
+Idaho wine	grapes	Sauvignon blanc
+Idaho wine	grapes	Semillon
+Idaho wine	grapes	Syrah
+Idaho wine	grapes	Viognier
+Idaho wine	grapes	Zinfandel
+Idaho wine	grapes	Zweigelt
+Guenoc Valley AVA	grapes	Petite Sirah
+Snake River Valley AVA	grapes	Cabernet Franc
+Snake River Valley AVA	grapes	Cabernet Sauvignon
+Snake River Valley AVA	grapes	Canadice
+Snake River Valley AVA	grapes	Chardonnay
+Snake River Valley AVA	grapes	Cinsault
+Snake River Valley AVA	grapes	Gewurztraminer
+Snake River Valley AVA	grapes	Grenache
+Snake River Valley AVA	grapes	Blaufränkisch
+Snake River Valley AVA	grapes	Malbec
+Snake River Valley AVA	grapes	Merlot
+Snake River Valley AVA	grapes	Mourvedre
+Snake River Valley AVA	grapes	Riesling
+Snake River Valley AVA	grapes	Syrah
+North Fork of Roanoke AVA	grapes	Alicante Bouschet
+North Fork of Roanoke AVA	grapes	Cabernet Franc
+North Fork of Roanoke AVA	grapes	Cabernet Sauvignon
+North Fork of Roanoke AVA	grapes	Chardonnay
+North Fork of Roanoke AVA	grapes	Malbec
+North Fork of Roanoke AVA	grapes	Merlot
+North Fork of Roanoke AVA	grapes	Norton
+North Fork of Roanoke AVA	grapes	Petit Verdot
+North Fork of Roanoke AVA	grapes	Sangiovese
+North Fork of Roanoke AVA	grapes	Syrah
+North Fork of Roanoke AVA	grapes	Viognier
+Virginia's Eastern Shore AVA	grapes	Chardonnay
+Virginia's Eastern Shore AVA	grapes	Merlot
+Rocky Knob AVA	grapes	Seyval blanc
+Sonoma County wine	grapes	Barbera
+Sonoma County wine	grapes	Cabernet Franc
+Sonoma County wine	grapes	Cabernet Sauvignon
+Sonoma County wine	grapes	Carignane
+Sonoma County wine	grapes	Chardonnay
+Sonoma County wine	grapes	Chenin blanc
+Sonoma County wine	grapes	Cinsault
+Sonoma County wine	grapes	Gamay noir
+Sonoma County wine	grapes	Gewurztraminer
+Sonoma County wine	grapes	Grenache
+Sonoma County wine	grapes	Malbec
+Sonoma County wine	grapes	Merlot
+Sonoma County wine	grapes	Mourvedre
+Sonoma County wine	grapes	Muscat Canelli
+Sonoma County wine	grapes	Petit Verdot
+Sonoma County wine	grapes	Petite Sirah
+Sonoma County wine	grapes	Pinot blanc
+Sonoma County wine	grapes	Pinot gris
+Sonoma County wine	grapes	Pinot Meunier
+Sonoma County wine	grapes	Pinot noir
+Sonoma County wine	grapes	Riesling
+Sonoma County wine	grapes	Roussanne
+Sonoma County wine	grapes	Sangiovese
+Sonoma County wine	grapes	Sauvignon blanc
+Sonoma County wine	grapes	Sauvignon Musque
+Sonoma County wine	grapes	Semillon
+Sonoma County wine	grapes	Syrah
+Sonoma County wine	grapes	Tempranillo
+Sonoma County wine	grapes	Tinta Cao
+Sonoma County wine	grapes	Touriga Nacional
+Sonoma County wine	grapes	Viognier
+Sonoma County wine	grapes	Zinfandel
+Mendocino County wine	grapes	Barbera
+Mendocino County wine	grapes	Cabernet Franc
+Mendocino County wine	grapes	Cabernet Sauvignon
+Mendocino County wine	grapes	Carignane
+Mendocino County wine	grapes	Douce noir
+Mendocino County wine	grapes	Chardonnay
+Mendocino County wine	grapes	Chenin blanc
+Mendocino County wine	grapes	Gewürztraminer
+Mendocino County wine	grapes	Grenache
+Mendocino County wine	grapes	Malbec
+Mendocino County wine	grapes	Merlot
+Mendocino County wine	grapes	Muscat Canelli
+Mendocino County wine	grapes	Petit Verdot
+Mendocino County wine	grapes	Petite Sirah
+Mendocino County wine	grapes	Pinot blanc
+Mendocino County wine	grapes	Pinot noir
+Mendocino County wine	grapes	Riesling
+Mendocino County wine	grapes	Roussanne
+Mendocino County wine	grapes	Sangiovese
+Mendocino County wine	grapes	Sauvignon blanc
+Mendocino County wine	grapes	Semillon
+Mendocino County wine	grapes	Syrah
+Mendocino County wine	grapes	Tocai Friulano
+Mendocino County wine	grapes	Viognier
+Mendocino County wine	grapes	Zinfandel
+Lodi AVA	grapes	Albarino
+Lodi AVA	grapes	Alicante Bouschet
+Lodi AVA	grapes	Alvarelhao
+Lodi AVA	grapes	Barbera
+Lodi AVA	grapes	Cabernet Franc
+Lodi AVA	grapes	Cabernet Sauvignon
+Lodi AVA	grapes	Carignane
+Lodi AVA	grapes	Douce noir
+Lodi AVA	grapes	Chardonnay
+Lodi AVA	grapes	Chenin blanc
+Lodi AVA	grapes	Cinsault
+Lodi AVA	grapes	Colombard
+Lodi AVA	grapes	Dolcetto
+Lodi AVA	grapes	Dornfelder
+Lodi AVA	grapes	Flame Tokay
+Lodi AVA	grapes	Gamay noir
+Lodi AVA	grapes	Graciano
+Lodi AVA	grapes	Grenache
+Lodi AVA	grapes	Kerner
+Lodi AVA	grapes	Blaufränkisch
+Lodi AVA	grapes	Malbec
+Lodi AVA	grapes	Malvasia
+Lodi AVA	grapes	Marsanne
+Lodi AVA	grapes	Merlot
+Lodi AVA	grapes	Mourvedre
+Lodi AVA	grapes	Muscat Canelli
+Lodi AVA	grapes	Petit Verdot
+Lodi AVA	grapes	Petite Sirah
+Lodi AVA	grapes	Pinot gris
+Lodi AVA	grapes	Pinot noir
+Lodi AVA	grapes	Pinotage
+Lodi AVA	grapes	Riesling
+Lodi AVA	grapes	Roussanne
+Lodi AVA	grapes	Rubired
+Lodi AVA	grapes	Ruby Cabernet
+Lodi AVA	grapes	Sangiovese
+Lodi AVA	grapes	Sauvignon blanc
+Lodi AVA	grapes	Souzao
+Lodi AVA	grapes	Symphony
+Lodi AVA	grapes	Syrah
+Lodi AVA	grapes	Tannat
+Lodi AVA	grapes	Tempranillo
+Lodi AVA	grapes	Tinta Cao
+Lodi AVA	grapes	Touriga Nacional
+Lodi AVA	grapes	Trousseau gris
+Lodi AVA	grapes	Valdiguie
+Lodi AVA	grapes	Verdelho
+Lodi AVA	grapes	Viognier
+Lodi AVA	grapes	Zinfandel
+Paso Robles AVA	grapes	There are more than 40 wine grape varieties such as Albarino, Barbera, Cabernet Franc, Cabernet Sauvignon, Chardonnay, Counoise, Grenache, Grenache blanc, Malbec, Marsanne, Merlot, Mourvedre, Nebbiolo, Orange Muscat, Petit Verdot, Petite Sirah, Picpoul, Pinot gris, Pinot noir, Riesling, Roussanne, Sangiovese, Sauvignon blanc, Syrah, Tannat, Tempranillo, Tinta Cao, Viognier, and Zinfandel
+Cole Ranch AVA	grapes	Cabernet Sauvignon
+Cole Ranch AVA	grapes	Merlot
+Cole Ranch AVA	grapes	Pinot noir
+Cole Ranch AVA	grapes	Riesling
+Ohio River Valley AVA	grapes	Cabernet Franc
+Ohio River Valley AVA	grapes	Cabernet Sauvignon
+Ohio River Valley AVA	grapes	Catawba
+Ohio River Valley AVA	grapes	Cayuga White
+Ohio River Valley AVA	grapes	Chambourcin
+Ohio River Valley AVA	grapes	Chardonnay
+Ohio River Valley AVA	grapes	Concord
+Ohio River Valley AVA	grapes	De Chaunac
+Ohio River Valley AVA	grapes	Marechal Foch
+Ohio River Valley AVA	grapes	Melon de Bourgogne
+Ohio River Valley AVA	grapes	Merlot
+Ohio River Valley AVA	grapes	Niagara
+Ohio River Valley AVA	grapes	Pinot blanc
+Ohio River Valley AVA	grapes	Pinot gris
+Ohio River Valley AVA	grapes	Pinot noir
+Ohio River Valley AVA	grapes	Reliance
+Ohio River Valley AVA	grapes	Riesling
+Ohio River Valley AVA	grapes	Rougeon
+Ohio River Valley AVA	grapes	Roussanne
+Ohio River Valley AVA	grapes	Sauvignon blanc
+Ohio River Valley AVA	grapes	Sémillon
+Ohio River Valley AVA	grapes	Seyval blanc
+Ohio River Valley AVA	grapes	Steuben
+Ohio River Valley AVA	grapes	Syrah
+Ohio River Valley AVA	grapes	Traminette
+Ohio River Valley AVA	grapes	Vidal blanc
+Ohio River Valley AVA	grapes	Viognier
+Santa Clara Valley AVA	grapes	Cabernet Sauvignon
+Santa Clara Valley AVA	grapes	Carignane
+Santa Clara Valley AVA	grapes	Chardonnay
+Santa Clara Valley AVA	grapes	Fiano
+Santa Clara Valley AVA	grapes	Grenache
+Santa Clara Valley AVA	grapes	Grignolino
+Santa Clara Valley AVA	grapes	Merlot
+Santa Clara Valley AVA	grapes	Muscat Canelli
+Santa Clara Valley AVA	grapes	Petite Sirah
+Santa Clara Valley AVA	grapes	Pinot noir
+Santa Clara Valley AVA	grapes	Riesling
+Santa Clara Valley AVA	grapes	Roussanne
+Santa Clara Valley AVA	grapes	Sangiovese
+Santa Clara Valley AVA	grapes	Semillon
+Santa Clara Valley AVA	grapes	Syrah
+Santa Clara Valley AVA	grapes	Zinfandel
+San Francisco Bay AVA	grapes	Barbera
+San Francisco Bay AVA	grapes	Cabernet Sauvignon
+San Francisco Bay AVA	grapes	Chardonnay
+San Francisco Bay AVA	grapes	Grenache
+San Francisco Bay AVA	grapes	Mourvedre
+San Francisco Bay AVA	grapes	Petite Sirah
+San Francisco Bay AVA	grapes	Pinot noir
+San Francisco Bay AVA	grapes	Riesling
+San Francisco Bay AVA	grapes	Syrah
+San Francisco Bay AVA	grapes	Zinfandel
+Central Coast AVA	grapes	Albarino
+Central Coast AVA	grapes	Barbera
+Central Coast AVA	grapes	Cabernet Franc
+Central Coast AVA	grapes	Cabernet Sauvignon
+Central Coast AVA	grapes	Carignane
+Central Coast AVA	grapes	Chardonnay
+Central Coast AVA	grapes	Chenin blanc
+Central Coast AVA	grapes	Cinsault
+Central Coast AVA	grapes	Counoise
+Central Coast AVA	grapes	Dolcetto
+Central Coast AVA	grapes	Gewurztraminer
+Central Coast AVA	grapes	Grenache
+Central Coast AVA	grapes	Grenache blanc
+Central Coast AVA	grapes	Malbec
+Central Coast AVA	grapes	Malvasia
+Central Coast AVA	grapes	Marsanne
+Central Coast AVA	grapes	Merlot
+Central Coast AVA	grapes	Mondeuse
+Central Coast AVA	grapes	Mourvedre
+Central Coast AVA	grapes	Nebbiolo
+Central Coast AVA	grapes	Orange Muscat
+Central Coast AVA	grapes	Petit Verdot
+Central Coast AVA	grapes	Petite Sirah
+Central Coast AVA	grapes	Pinot gris
+Central Coast AVA	grapes	Pinot noir
+Central Coast AVA	grapes	Riesling
+Central Coast AVA	grapes	Roussanne
+Central Coast AVA	grapes	Sangiovese
+Central Coast AVA	grapes	Sauvignon blanc
+Central Coast AVA	grapes	Semillon
+Central Coast AVA	grapes	Syrah
+Central Coast AVA	grapes	Tempranillo
+Central Coast AVA	grapes	Vermentino
+Central Coast AVA	grapes	Viognier
+Central Coast AVA	grapes	Zinfandel
+San Antonio Valley AVA	grapes	Cabernet Franc
+San Antonio Valley AVA	grapes	Cabernet Sauvignon
+San Antonio Valley AVA	grapes	Petit Verdot
+San Antonio Valley AVA	grapes	Petite Sirah
+San Antonio Valley AVA	grapes	Roussanne
+San Antonio Valley AVA	grapes	Sauvignon blanc
+San Antonio Valley AVA	grapes	Syrah
+San Antonio Valley AVA	grapes	Zinfandel
+Mendocino Ridge AVA	grapes	Pinot Noir
+Mendocino Ridge AVA	grapes	Zinfandel
+Mendocino Ridge AVA	grapes	Syrah
+Mendocino Ridge AVA	grapes	Sauvignon Blanc
+Mendocino Ridge AVA	grapes	Chardonnay
+Mendocino Ridge AVA	grapes	Merlot
+Mendocino Ridge AVA	grapes	Riesling
+Mendocino Ridge AVA	grapes	Albariño
+Mendocino Ridge AVA	grapes	Grüner Veltliner
+Arroyo Grande Valley AVA	grapes	Chardonnay
+Arroyo Grande Valley AVA	grapes	Counoise
+Arroyo Grande Valley AVA	grapes	Grenache
+Arroyo Grande Valley AVA	grapes	Mourvedre
+Arroyo Grande Valley AVA	grapes	Petite Sirah
+Arroyo Grande Valley AVA	grapes	Pinot blanc
+Arroyo Grande Valley AVA	grapes	Pinot gris
+Arroyo Grande Valley AVA	grapes	Pinot noir
+Arroyo Grande Valley AVA	grapes	Riesling
+Arroyo Grande Valley AVA	grapes	Sauvignon blanc
+Arroyo Grande Valley AVA	grapes	Syrah
+Arroyo Grande Valley AVA	grapes	Tempranillo
+Arroyo Grande Valley AVA	grapes	Viognier
+Arroyo Grande Valley AVA	grapes	Zinfandel
+Lime Kiln Valley AVA	grapes	Mourvedre
+Lime Kiln Valley AVA	grapes	Zinfandel
+San Lucas AVA	grapes	Cabernet Sauvignon
+San Lucas AVA	grapes	Chardonnay
+San Lucas AVA	grapes	Malbec
+San Lucas AVA	grapes	Merlot
+San Lucas AVA	grapes	Petit Verdot
+San Lucas AVA	grapes	Petite Sirah
+San Lucas AVA	grapes	Pinot noir
+San Lucas AVA	grapes	Sauvignon blanc
+San Lucas AVA	grapes	Syrah
+San Pasqual Valley AVA	grapes	Merlot
+San Pasqual Valley AVA	grapes	Sangiovese
+San Pasqual Valley AVA	grapes	Syrah
+San Pasqual Valley AVA	grapes	Viognier
+Santa Cruz Mountains AVA	grapes	Cabernet Franc
+Santa Cruz Mountains AVA	grapes	Cabernet Sauvignon
+Santa Cruz Mountains AVA	grapes	Carignane
+Santa Cruz Mountains AVA	grapes	Chardonnay
+Santa Cruz Mountains AVA	grapes	Dolcetto
+Santa Cruz Mountains AVA	grapes	Grenache
+Santa Cruz Mountains AVA	grapes	Malbec
+Santa Cruz Mountains AVA	grapes	Malvasia
+Santa Cruz Mountains AVA	grapes	Merlot
+Santa Cruz Mountains AVA	grapes	Mondeuse
+Santa Cruz Mountains AVA	grapes	Mourvedre
+Santa Cruz Mountains AVA	grapes	Nebbiolo
+Santa Cruz Mountains AVA	grapes	Petit Verdot
+Santa Cruz Mountains AVA	grapes	Petite Sirah
+Santa Cruz Mountains AVA	grapes	Pinot noir
+Santa Cruz Mountains AVA	grapes	Sangiovese
+Santa Cruz Mountains AVA	grapes	Sauvignon blanc
+Santa Cruz Mountains AVA	grapes	Syrah
+Santa Cruz Mountains AVA	grapes	Viognier
+Santa Cruz Mountains AVA	grapes	Zinfandel
+Sierra Foothills AVA	grapes	Zinfandel , Cabernet Sauvignon , Syrah , Chardonnay , Merlot , Barbera
+Tasmanian wine	grapes	Pinot noir
+Tasmanian wine	grapes	Chardonnay
+Tasmanian wine	grapes	Riesling
+Alta Mesa AVA	grapes	Zinfandel
+Alta Mesa AVA	grapes	Syrah
+Alta Mesa AVA	grapes	Cabernet Sauvignon
+Alta Mesa AVA	grapes	Cabernet Franc
+Alta Mesa AVA	grapes	Merlot
+Bennett Valley AVA	grapes	Cabernet Franc
+Bennett Valley AVA	grapes	Cabernet Sauvignon
+Bennett Valley AVA	grapes	Chardonnay
+Bennett Valley AVA	grapes	Grenache
+Bennett Valley AVA	grapes	Merlot
+Bennett Valley AVA	grapes	Pinot noir
+Bennett Valley AVA	grapes	Roussanne
+Bennett Valley AVA	grapes	Sauvignon blanc
+Bennett Valley AVA	grapes	Syrah
+Bennett Valley AVA	grapes	Zinfandel
+Chalk Hill AVA	grapes	Cabernet Sauvignon
+Chalk Hill AVA	grapes	Chardonnay
+Chalk Hill AVA	grapes	Malbec
+Chalk Hill AVA	grapes	Merlot
+Chalk Hill AVA	grapes	Petit Verdot
+Chalk Hill AVA	grapes	Pinot gris
+Chalk Hill AVA	grapes	Sangiovese
+Chalk Hill AVA	grapes	Sauvignon blanc
+Chalk Hill AVA	grapes	Sauvignon gris
+Chalk Hill AVA	grapes	Semillon
+Chalk Hill AVA	grapes	Syrah
+Chalk Hill AVA	grapes	Zinfandel
+Green Valley of Russian River Valley AVA	grapes	Chardonnay
+Green Valley of Russian River Valley AVA	grapes	Pinot noir
+Green Valley of Russian River Valley AVA	grapes	Syrah
+Dry Creek Valley AVA	grapes	Alicante Bouschet
+Dry Creek Valley AVA	grapes	Barbera
+Dry Creek Valley AVA	grapes	Black Malvasia
+Dry Creek Valley AVA	grapes	Cabernet Franc
+Dry Creek Valley AVA	grapes	Cabernet Sauvignon
+Dry Creek Valley AVA	grapes	Carignane
+Dry Creek Valley AVA	grapes	Chardonnay
+Dry Creek Valley AVA	grapes	Chasselas
+Dry Creek Valley AVA	grapes	Cinsault
+Dry Creek Valley AVA	grapes	Gewurztraminer
+Dry Creek Valley AVA	grapes	Grenache
+Dry Creek Valley AVA	grapes	Malbec
+Dry Creek Valley AVA	grapes	Marsanne
+Dry Creek Valley AVA	grapes	Merlot
+Dry Creek Valley AVA	grapes	Mourvedre
+Dry Creek Valley AVA	grapes	Muscat Canelli
+Dry Creek Valley AVA	grapes	Muscat of Alexandria
+Dry Creek Valley AVA	grapes	Peloursin
+Dry Creek Valley AVA	grapes	Petit Verdot
+Dry Creek Valley AVA	grapes	Petite Sirah
+Dry Creek Valley AVA	grapes	Pinot blanc
+Dry Creek Valley AVA	grapes	Pinot noir
+Dry Creek Valley AVA	grapes	Riesling
+Dry Creek Valley AVA	grapes	Roussanne
+Dry Creek Valley AVA	grapes	Sangiovese
+Dry Creek Valley AVA	grapes	Sauvignon blanc
+Dry Creek Valley AVA	grapes	Sauvignon Musque
+Dry Creek Valley AVA	grapes	Semillon
+Dry Creek Valley AVA	grapes	Syrah
+Dry Creek Valley AVA	grapes	Viognier
+Dry Creek Valley AVA	grapes	Zinfandel
+North Coast AVA	grapes	Barbera
+North Coast AVA	grapes	Cabernet Franc
+North Coast AVA	grapes	Cabernet Sauvignon
+North Coast AVA	grapes	Carignane
+North Coast AVA	grapes	Chardonnay
+North Coast AVA	grapes	Dolcetto
+North Coast AVA	grapes	Gamay noir
+North Coast AVA	grapes	Gewurztraminer
+North Coast AVA	grapes	Lagrein
+North Coast AVA	grapes	Malbec
+North Coast AVA	grapes	Merlot
+North Coast AVA	grapes	Muscat Canelli
+North Coast AVA	grapes	Petit Verdot
+North Coast AVA	grapes	Petite Sirah
+North Coast AVA	grapes	Pinot Meunier
+North Coast AVA	grapes	Pinot noir
+North Coast AVA	grapes	Sangiovese
+North Coast AVA	grapes	Sauvignon blanc
+North Coast AVA	grapes	Semillon
+North Coast AVA	grapes	Syrah
+North Coast AVA	grapes	Valdiguie
+North Coast AVA	grapes	Verdelho
+North Coast AVA	grapes	Viognier
+North Coast AVA	grapes	Zinfandel
+Northern Sonoma AVA	grapes	Chardonnay
+Sonoma Coast AVA	grapes	Cabernet Franc
+Sonoma Coast AVA	grapes	Cabernet Sauvignon
+Sonoma Coast AVA	grapes	Chardonnay
+Sonoma Coast AVA	grapes	Gewurztraminer
+Sonoma Coast AVA	grapes	Marsanne
+Sonoma Coast AVA	grapes	Merlot
+Sonoma Coast AVA	grapes	Pinot gris
+Sonoma Coast AVA	grapes	Pinot Meunier
+Sonoma Coast AVA	grapes	Pinot noir
+Sonoma Coast AVA	grapes	Pinotage
+Sonoma Coast AVA	grapes	Roussanne
+Sonoma Coast AVA	grapes	Sauvignon blanc
+Sonoma Coast AVA	grapes	Syrah
+Sonoma Coast AVA	grapes	Viognier
+Sonoma Coast AVA	grapes	Zinfandel
+Sonoma Mountain AVA	grapes	Cabernet Franc
+Sonoma Mountain AVA	grapes	Cabernet Sauvignon
+Sonoma Mountain AVA	grapes	Chardonnay
+Sonoma Mountain AVA	grapes	Merlot
+Sonoma Mountain AVA	grapes	Petit Verdot
+Sonoma Mountain AVA	grapes	Pinot gris
+Sonoma Mountain AVA	grapes	Pinot Meunier
+Sonoma Mountain AVA	grapes	Pinot noir
+Sonoma Mountain AVA	grapes	Sauvignon blanc
+Sonoma Mountain AVA	grapes	Syrah
+Sonoma Mountain AVA	grapes	Zinfandel
+Russian River Valley AVA	grapes	Alicante Bouschet
+Russian River Valley AVA	grapes	Arneis
+Russian River Valley AVA	grapes	Barbera
+Russian River Valley AVA	grapes	Black Muscat
+Russian River Valley AVA	grapes	Cabernet Franc
+Russian River Valley AVA	grapes	Cabernet Sauvignon
+Russian River Valley AVA	grapes	Canaiolo nero
+Russian River Valley AVA	grapes	Carignane
+Russian River Valley AVA	grapes	Chardonnay
+Russian River Valley AVA	grapes	Chenin blanc
+Russian River Valley AVA	grapes	Cinsault
+Russian River Valley AVA	grapes	Dolcetto
+Russian River Valley AVA	grapes	Early Burgundy
+Russian River Valley AVA	grapes	Freisa
+Russian River Valley AVA	grapes	Gewurztraminer
+Russian River Valley AVA	grapes	Grenache
+Russian River Valley AVA	grapes	Malbec
+Russian River Valley AVA	grapes	Mammolo
+Russian River Valley AVA	grapes	Marsanne
+Russian River Valley AVA	grapes	Merlot
+Russian River Valley AVA	grapes	Muscat Canelli
+Russian River Valley AVA	grapes	Petit Verdot
+Russian River Valley AVA	grapes	Petite Sirah
+Russian River Valley AVA	grapes	Pinot blanc
+Russian River Valley AVA	grapes	Pinot gris
+Russian River Valley AVA	grapes	Pinot Meunier
+Russian River Valley AVA	grapes	Pinot noir
+Russian River Valley AVA	grapes	Pinotage
+Russian River Valley AVA	grapes	Roussanne
+Russian River Valley AVA	grapes	Sangiovese
+Russian River Valley AVA	grapes	Sauvignon blanc
+Russian River Valley AVA	grapes	Semillon
+Russian River Valley AVA	grapes	Syrah
+Russian River Valley AVA	grapes	Trousseau gris
+Russian River Valley AVA	grapes	Viognier
+Russian River Valley AVA	grapes	Zinfandel
+Sonoma Valley AVA	grapes	Aleatico
+Sonoma Valley AVA	grapes	Alicante Bouschet
+Sonoma Valley AVA	grapes	Barbera
+Sonoma Valley AVA	grapes	Burger
+Sonoma Valley AVA	grapes	Cabernet Franc
+Sonoma Valley AVA	grapes	Cabernet Sauvignon
+Sonoma Valley AVA	grapes	Carignane
+Sonoma Valley AVA	grapes	Chardonnay
+Sonoma Valley AVA	grapes	Gewurztraminer
+Sonoma Valley AVA	grapes	Grand noir
+Sonoma Valley AVA	grapes	Grenache
+Sonoma Valley AVA	grapes	Lenoir
+Sonoma Valley AVA	grapes	Malbec
+Sonoma Valley AVA	grapes	Merlot
+Sonoma Valley AVA	grapes	Mourvedre
+Sonoma Valley AVA	grapes	Muscadelle
+Sonoma Valley AVA	grapes	Muscat Canelli
+Sonoma Valley AVA	grapes	Nebbiolo
+Sonoma Valley AVA	grapes	Palomino
+Sonoma Valley AVA	grapes	Petit Bouschet
+Sonoma Valley AVA	grapes	Petit Verdot
+Sonoma Valley AVA	grapes	Petite Sirah
+Sonoma Valley AVA	grapes	Pinot noir
+Sonoma Valley AVA	grapes	Riesling
+Sonoma Valley AVA	grapes	Sangiovese
+Sonoma Valley AVA	grapes	Sauvignon blanc
+Sonoma Valley AVA	grapes	Semillon
+Sonoma Valley AVA	grapes	Silvaner
+Sonoma Valley AVA	grapes	Syrah
+Sonoma Valley AVA	grapes	Tempranillo
+Sonoma Valley AVA	grapes	Teroldego
+Sonoma Valley AVA	grapes	Trousseau gris
+Sonoma Valley AVA	grapes	Viognier
+Sonoma Valley AVA	grapes	Zinfandel
+Oakville AVA	grapes	Cabernet Sauvignon
+Oakville AVA	grapes	Merlot
+Oakville AVA	grapes	Chardonnay
+Mendocino AVA	grapes	Arneis
+Mendocino AVA	grapes	Barbera
+Mendocino AVA	grapes	Cabernet Franc
+Mendocino AVA	grapes	Cabernet Sauvignon
+Mendocino AVA	grapes	Carignane
+Mendocino AVA	grapes	Douce noir
+Mendocino AVA	grapes	Chardonnay
+Mendocino AVA	grapes	Chenin blanc
+Mendocino AVA	grapes	Colombard
+Mendocino AVA	grapes	Dolcetto
+Mendocino AVA	grapes	Grenache
+Mendocino AVA	grapes	Merlot
+Mendocino AVA	grapes	Montepulciano
+Mendocino AVA	grapes	Muscat Canelli
+Mendocino AVA	grapes	Nebbiolo
+Mendocino AVA	grapes	Negro Amaro
+Mendocino AVA	grapes	Nero D’Avola
+Mendocino AVA	grapes	Petit Verdot
+Mendocino AVA	grapes	Petite Sirah
+Mendocino AVA	grapes	Pinot blanc
+Mendocino AVA	grapes	Pinot gris
+Mendocino AVA	grapes	Pinot Meunier
+Mendocino AVA	grapes	Pinot noir
+Mendocino AVA	grapes	Pinotage
+Mendocino AVA	grapes	Riesling
+Mendocino AVA	grapes	Sangiovese
+Mendocino AVA	grapes	Sauvignon blanc
+Mendocino AVA	grapes	Sauvignon Musque
+Mendocino AVA	grapes	Semillon
+Mendocino AVA	grapes	Syrah
+Mendocino AVA	grapes	Tocai Friulano
+Mendocino AVA	grapes	Valdiguie
+Mendocino AVA	grapes	Viognier
+Mendocino AVA	grapes	Zinfandel
+Potter Valley AVA	grapes	Chardonnay
+Potter Valley AVA	grapes	Pinot gris
+Potter Valley AVA	grapes	Pinot noir
+Potter Valley AVA	grapes	Riesling
+Potter Valley AVA	grapes	Sauvignon blanc
+Potter Valley AVA	grapes	Zinfandel
+New Mexico wine	grapes	Cabernet Sauvignon
+New Mexico wine	grapes	Zinfandel
+New Mexico wine	grapes	Sangiovese
+New Mexico wine	grapes	Pinot noir
+New Mexico wine	grapes	Ruby Cabernet
+New Mexico wine	grapes	Nebbiolo
+New Mexico wine	grapes	Dolcetto
+New Mexico wine	grapes	Refosco
+New Mexico wine	grapes	Barbera
+New Mexico wine	grapes	Merlot
+New Mexico wine	grapes	Petite Sirah
+New Mexico wine	grapes	Syrah
+New Mexico wine	grapes	Tempranillo
+New Mexico wine	grapes	Cabernet Franc
+New Mexico wine	grapes	----\nGewurztraminer, Chardonnay, Chenin blanc, Malvasia bianca, Muscat Canelli, Pinot gris, Viognier, Riesling, Muscat of Alexandria, Orange Muscat, Sauvignon blanc,
+New Mexico wine	grapes	----\nBaco noir,  Chambourcin, De Chaunac, Leon Millot,  Marechal Foch,  Seyval blanc,  Vidal blanc, Villard blanc.
+Edna Valley AVA	grapes	Albarino
+Edna Valley AVA	grapes	Chardonnay
+Edna Valley AVA	grapes	Grenache
+Edna Valley AVA	grapes	Merlot
+Edna Valley AVA	grapes	Mourvedre
+Edna Valley AVA	grapes	Petite Sirah
+Edna Valley AVA	grapes	Pinot gris
+Edna Valley AVA	grapes	Pinot noir
+Edna Valley AVA	grapes	Sauvignon blanc
+Edna Valley AVA	grapes	Syrah
+Edna Valley AVA	grapes	Teroldego
+Edna Valley AVA	grapes	Viognier
+Loire Valley	grapes	Chenin blanc, Sauvignon blanc, Cabernet franc, Melon de Bourgogne, Gamay, Pinot noir and more
+Texas Hill Country AVA	grapes	Alicante Bouschet
+Texas Hill Country AVA	grapes	Aglianico
+Texas Hill Country AVA	grapes	Barbera
+Texas Hill Country AVA	grapes	Blanc du Bois
+Texas Hill Country AVA	grapes	Cabernet Franc
+Texas Hill Country AVA	grapes	Cabernet Sauvignon
+Texas Hill Country AVA	grapes	Chardonnay
+Texas Hill Country AVA	grapes	Colombard
+Texas Hill Country AVA	grapes	Malbec
+Texas Hill Country AVA	grapes	Merlot
+Texas Hill Country AVA	grapes	Muscat Canelli
+Texas Hill Country AVA	grapes	Norton
+Texas Hill Country AVA	grapes	Petit Verdot
+Texas Hill Country AVA	grapes	Pinot noir
+Texas Hill Country AVA	grapes	Primitivo
+Texas Hill Country AVA	grapes	Riesling
+Texas Hill Country AVA	grapes	Sangiovese
+Texas Hill Country AVA	grapes	Sauvignon blanc
+Texas Hill Country AVA	grapes	Semillon
+Texas Hill Country AVA	grapes	Syrah
+Texas Hill Country AVA	grapes	Tannat
+Texas Hill Country AVA	grapes	Tempranillo
+Texas Hill Country AVA	grapes	Tinta Madeira
+Texas Hill Country AVA	grapes	Touriga Nacional
+Texas Hill Country AVA	grapes	Trebbiano
+Texas Hill Country AVA	grapes	Viognier
+Texas High Plains AVA	grapes	Aglianico
+Texas High Plains AVA	grapes	Barbera
+Texas High Plains AVA	grapes	Cabernet Franc
+Texas High Plains AVA	grapes	Cabernet Sauvignon
+Texas High Plains AVA	grapes	Chardonnay
+Texas High Plains AVA	grapes	Chenin blanc
+Texas High Plains AVA	grapes	Grenache
+Texas High Plains AVA	grapes	Malbec
+Texas High Plains AVA	grapes	Merlot
+Texas High Plains AVA	grapes	Montepulciano
+Texas High Plains AVA	grapes	Muscat Canelli
+Texas High Plains AVA	grapes	Orange Muscat
+Texas High Plains AVA	grapes	Pinot noir
+Texas High Plains AVA	grapes	Roussanne
+Texas High Plains AVA	grapes	Sangiovese
+Texas High Plains AVA	grapes	Sauvignon blanc
+Texas High Plains AVA	grapes	Syrah
+Texas High Plains AVA	grapes	Tempranillo
+Texas High Plains AVA	grapes	Viognier
+Texas Davis Mountains AVA	grapes	Cabernet Sauvignon
+Texas Davis Mountains AVA	grapes	Sauvignon blanc
+Fredericksburg in the Texas Hill Country AVA	grapes	Black Muscat
+Fredericksburg in the Texas Hill Country AVA	grapes	Chardonnay
+Fredericksburg in the Texas Hill Country AVA	grapes	Sauvignon blanc
+Bell Mountain AVA	grapes	Cabernet Franc
+Bell Mountain AVA	grapes	Cabernet Sauvignon
+Bell Mountain AVA	grapes	Chardonnay
+Bell Mountain AVA	grapes	Chenin blanc
+Bell Mountain AVA	grapes	Colombard
+Escondido Valley AVA	grapes	Cabernet Franc
+Escondido Valley AVA	grapes	Cabernet Sauvignon
+Escondido Valley AVA	grapes	Chardonnay
+Escondido Valley AVA	grapes	Chenin blanc
+Escondido Valley AVA	grapes	Colombard
+Mesilla Valley AVA	grapes	Black Muscat
+Mesilla Valley AVA	grapes	Cabernet Sauvignon
+Mesilla Valley AVA	grapes	Chardonnay
+Mesilla Valley AVA	grapes	Dolcetto
+Mesilla Valley AVA	grapes	Malvasia
+Mesilla Valley AVA	grapes	Merlot
+Mesilla Valley AVA	grapes	Mourvedre
+Mesilla Valley AVA	grapes	Muscat of Alexandria
+Mesilla Valley AVA	grapes	Primitivo
+Mesilla Valley AVA	grapes	Riesling
+Mesilla Valley AVA	grapes	Sangiovese
+Mesilla Valley AVA	grapes	Viognier
+Mesilla Valley AVA	grapes	Zinfandel
+North Carolina wine	grapes	Cabernet Franc
+North Carolina wine	grapes	Cabernet Sauvignon
+North Carolina wine	grapes	Carlos
+North Carolina wine	grapes	Cayuga White
+North Carolina wine	grapes	Chambourcin
+North Carolina wine	grapes	Chancellor
+North Carolina wine	grapes	Chardonel
+North Carolina wine	grapes	Chardonnay
+North Carolina wine	grapes	Concord
+North Carolina wine	grapes	De Chaunac
+North Carolina wine	grapes	Gewürztraminer
+North Carolina wine	grapes	Leon Millot
+North Carolina wine	grapes	Malbec
+North Carolina wine	grapes	Merlot
+North Carolina wine	grapes	Mourvèdre
+North Carolina wine	grapes	Muscadine
+North Carolina wine	grapes	Muscat Canelli
+North Carolina wine	grapes	Nebbiolo
+North Carolina wine	grapes	Niagara
+North Carolina wine	grapes	Noble
+North Carolina wine	grapes	Norton
+North Carolina wine	grapes	Petit Verdot
+North Carolina wine	grapes	Pinot gris
+North Carolina wine	grapes	Pinot Noir
+North Carolina wine	grapes	Riesling
+North Carolina wine	grapes	Sangiovese
+North Carolina wine	grapes	Sauvignon blanc
+North Carolina wine	grapes	Scuppernong
+North Carolina wine	grapes	Seyval blanc
+North Carolina wine	grapes	St. Vincent
+North Carolina wine	grapes	Symphony
+North Carolina wine	grapes	Syrah
+North Carolina wine	grapes	Tempranillo
+North Carolina wine	grapes	Traminette
+North Carolina wine	grapes	Vidal blanc
+North Carolina wine	grapes	Vignoles
+North Carolina wine	grapes	Viognier
+Virginia wine	grapes	Aglianico
+Virginia wine	grapes	Albariño
+Virginia wine	grapes	Barbera
+Virginia wine	grapes	Black Muscat
+Virginia wine	grapes	Cabernet Franc
+Virginia wine	grapes	Cabernet Sauvignon
+Virginia wine	grapes	Cayuga White
+Virginia wine	grapes	Chambourcin
+Virginia wine	grapes	Chancellor
+Virginia wine	grapes	Chardonel
+Virginia wine	grapes	Chardonnay
+Virginia wine	grapes	Colombard
+Virginia wine	grapes	Concord
+Virginia wine	grapes	Corot noir
+Virginia wine	grapes	De Chaunac
+Virginia wine	grapes	Fer
+Virginia wine	grapes	Gewürztraminer
+Virginia wine	grapes	Graciano
+Virginia wine	grapes	Grüner Veltliner
+Virginia wine	grapes	Malbec
+Virginia wine	grapes	Malvasia
+Virginia wine	grapes	Marechal Foch
+Virginia wine	grapes	Merlot
+Virginia wine	grapes	Munson
+Virginia wine	grapes	Muscat Canelli
+Virginia wine	grapes	Muscat Ottonel
+Virginia wine	grapes	Nebbiolo
+Virginia wine	grapes	Niagara
+Virginia wine	grapes	Norton
+Virginia wine	grapes	Petit Manseng
+Virginia wine	grapes	Petit Verdot
+Virginia wine	grapes	Pinot blanc
+Virginia wine	grapes	Pinot gris
+Virginia wine	grapes	Pinot noir
+Virginia wine	grapes	Pinotage
+Virginia wine	grapes	Primitivo
+Virginia wine	grapes	Riesling
+Virginia wine	grapes	Rkatziteli
+Virginia wine	grapes	Roussanne
+Virginia wine	grapes	Ruby Cabernet
+Virginia wine	grapes	Sangiovese
+Virginia wine	grapes	Sauvignon blanc
+Virginia wine	grapes	Scheurebe
+Virginia wine	grapes	Semillon
+Virginia wine	grapes	Seyval blanc
+Virginia wine	grapes	Steuben
+Virginia wine	grapes	Syrah
+Virginia wine	grapes	Tannat
+Virginia wine	grapes	Tempranillo
+Virginia wine	grapes	Tinta Cão
+Virginia wine	grapes	Touriga Nacional
+Virginia wine	grapes	Traminette
+Virginia wine	grapes	Trebbiano
+Virginia wine	grapes	Verdelho
+Virginia wine	grapes	Vidal blanc
+Virginia wine	grapes	Vignoles
+Virginia wine	grapes	Villard blanc
+Virginia wine	grapes	Viognier
+Virginia wine	grapes	Zinfandel
+Indiana wine	grapes	Aurore
+Indiana wine	grapes	Baco noir
+Indiana wine	grapes	Cabernet Franc
+Indiana wine	grapes	Cabernet Sauvignon
+Indiana wine	grapes	Catawba
+Indiana wine	grapes	Cayuga White
+Indiana wine	grapes	Chambourcin
+Indiana wine	grapes	Chardonel
+Indiana wine	grapes	Chardonnay
+Indiana wine	grapes	Concord
+Indiana wine	grapes	Geisenheim
+Indiana wine	grapes	Gewürztraminer
+Indiana wine	grapes	Leon Millot
+Indiana wine	grapes	Marechal Foch
+Indiana wine	grapes	Merlot
+Indiana wine	grapes	Muscat Canelli
+Indiana wine	grapes	Niagara
+Indiana wine	grapes	Pinot gris
+Indiana wine	grapes	Pinot noir
+Indiana wine	grapes	Riesling
+Indiana wine	grapes	Sauvignon blanc
+Indiana wine	grapes	Seyval blanc
+Indiana wine	grapes	St. Vincent
+Indiana wine	grapes	Steuben
+Indiana wine	grapes	Traminette
+Indiana wine	grapes	Vidal blanc
+Indiana wine	grapes	Vignoles
+Indiana wine	grapes	Villard blanc
+Indiana wine	grapes	Viognier
+Ohio wine	grapes	Aurore
+Ohio wine	grapes	Baco noir
+Ohio wine	grapes	Cabernet Franc
+Ohio wine	grapes	Cabernet Sauvignon
+Ohio wine	grapes	Carmine
+Ohio wine	grapes	Catawba
+Ohio wine	grapes	Cayuga White
+Ohio wine	grapes	Chambourcin
+Ohio wine	grapes	Chancellor
+Ohio wine	grapes	Chardonel
+Ohio wine	grapes	Chardonnay
+Ohio wine	grapes	Chelois
+Ohio wine	grapes	Concord
+Ohio wine	grapes	De Chaunac
+Ohio wine	grapes	Delaware
+Ohio wine	grapes	Geisenheim
+Ohio wine	grapes	Gewürztraminer
+Ohio wine	grapes	Kerner
+Ohio wine	grapes	La Crosse
+Ohio wine	grapes	Landot
+Ohio wine	grapes	Blaufränkisch
+Ohio wine	grapes	Leon Millot
+Ohio wine	grapes	Marechal Foch
+Ohio wine	grapes	Merlot
+Ohio wine	grapes	Niagara
+Ohio wine	grapes	Pinot gris
+Ohio wine	grapes	Pinot Meunier
+Ohio wine	grapes	Pinot noir
+Ohio wine	grapes	Rayon d'Or
+Ohio wine	grapes	Reliance
+Ohio wine	grapes	Riesling
+Ohio wine	grapes	Sangiovese
+Ohio wine	grapes	Sauvignon blanc
+Ohio wine	grapes	Seyval blanc
+Ohio wine	grapes	Steuben
+Ohio wine	grapes	Traminette
+Ohio wine	grapes	Vidal blanc
+Ohio wine	grapes	Vignoles
+Ohio wine	grapes	Zweigelt
+Minnesota wine	grapes	Chambourcin
+Minnesota wine	grapes	Chardonnay
+Minnesota wine	grapes	Concord
+Minnesota wine	grapes	Delaware
+Minnesota wine	grapes	Edelweiss
+Minnesota wine	grapes	Frontenac
+Minnesota wine	grapes	Frontenac gris
+Minnesota wine	grapes	Geisenheim
+Minnesota wine	grapes	Gewürztraminer
+Minnesota wine	grapes	La Crescent
+Minnesota wine	grapes	La Crosse
+Minnesota wine	grapes	Leon Millot
+Minnesota wine	grapes	Malbec
+Minnesota wine	grapes	Marechal Foch
+Minnesota wine	grapes	Marquette
+Minnesota wine	grapes	Riesling
+Minnesota wine	grapes	Sabrevois
+Minnesota wine	grapes	Seyval blanc
+Minnesota wine	grapes	St. Croix
+Minnesota wine	grapes	St. Pepin
+Minnesota wine	grapes	Syrah
+Minnesota wine	grapes	Vidal blanc
+Minnesota wine	grapes	Vignoles
+Minnesota wine	grapes	Zinfandel
+Massachusetts wine	grapes	Aurore
+Massachusetts wine	grapes	Cabernet Sauvignon
+Massachusetts wine	grapes	Cayuga White
+Massachusetts wine	grapes	Chardonnay
+Massachusetts wine	grapes	Concord
+Massachusetts wine	grapes	Marechal Foch
+Massachusetts wine	grapes	Pinot noir
+Massachusetts wine	grapes	Riesling
+Massachusetts wine	grapes	Seyval blanc
+Massachusetts wine	grapes	Vidal blanc
+Pennsylvania wine	grapes	Aurore
+Pennsylvania wine	grapes	Baco noir
+Pennsylvania wine	grapes	Barbera
+Pennsylvania wine	grapes	Cabernet Foch
+Pennsylvania wine	grapes	Cabernet Franc
+Pennsylvania wine	grapes	Cabernet Sauvignon
+Pennsylvania wine	grapes	Carmine
+Pennsylvania wine	grapes	Catawba
+Pennsylvania wine	grapes	Cayuga White
+Pennsylvania wine	grapes	Chambourcin
+Pennsylvania wine	grapes	Chancellor
+Pennsylvania wine	grapes	Chardonel
+Pennsylvania wine	grapes	Chardonnay
+Pennsylvania wine	grapes	Chelois
+Pennsylvania wine	grapes	Concord
+Pennsylvania wine	grapes	Corvina
+Pennsylvania wine	grapes	De Chaunac
+Pennsylvania wine	grapes	Delaware
+Pennsylvania wine	grapes	Diamond
+Pennsylvania wine	grapes	Dolcetto
+Pennsylvania wine	grapes	Dornfelder
+Pennsylvania wine	grapes	Edelweiss
+Pennsylvania wine	grapes	Fredonia
+Pennsylvania wine	grapes	Geisenheim
+Pennsylvania wine	grapes	Gewürztraminer
+Pennsylvania wine	grapes	Isabella
+Pennsylvania wine	grapes	Blaufränkisch
+Pennsylvania wine	grapes	Leon Millot
+Pennsylvania wine	grapes	Malvasia
+Pennsylvania wine	grapes	Marechal Foch
+Pennsylvania wine	grapes	Merlot
+Pennsylvania wine	grapes	Niagara
+Pennsylvania wine	grapes	Noiret
+Pennsylvania wine	grapes	Norton
+Pennsylvania wine	grapes	Petit Verdot
+Pennsylvania wine	grapes	Pinot blanc
+Pennsylvania wine	grapes	Pinot gris
+Pennsylvania wine	grapes	Pinot Meunier
+Pennsylvania wine	grapes	Pinot noir
+Pennsylvania wine	grapes	Primitivo
+Pennsylvania wine	grapes	Rayon d'Or
+Pennsylvania wine	grapes	Riesling
+Pennsylvania wine	grapes	Rougeon
+Pennsylvania wine	grapes	Sangiovese
+Pennsylvania wine	grapes	Sauvignon blanc
+Pennsylvania wine	grapes	Seyval blanc
+Pennsylvania wine	grapes	Siegfried
+Pennsylvania wine	grapes	Steuben
+Pennsylvania wine	grapes	Syrah
+Pennsylvania wine	grapes	Tocai Friulano
+Pennsylvania wine	grapes	Traminette
+Pennsylvania wine	grapes	Vidal blanc
+Pennsylvania wine	grapes	Vignoles
+Pennsylvania wine	grapes	Villard blanc
+Pennsylvania wine	grapes	Villard noir
+Pennsylvania wine	grapes	Vincent
+Pennsylvania wine	grapes	Viognier
+Wisconsin wine	grapes	Baco noir
+Wisconsin wine	grapes	Chardonnay
+Wisconsin wine	grapes	Concord
+Wisconsin wine	grapes	Frontenac
+Wisconsin wine	grapes	Leon Millot
+Wisconsin wine	grapes	Marechal Foch
+Wisconsin wine	grapes	Seyval blanc
+Wisconsin wine	grapes	St. Croix
+West Virginia wine	grapes	Aurore
+West Virginia wine	grapes	Baco noir
+West Virginia wine	grapes	Cabernet Franc
+West Virginia wine	grapes	Cabernet Sauvignon
+West Virginia wine	grapes	Catawba
+West Virginia wine	grapes	Cayuga White
+West Virginia wine	grapes	Chambourcin
+West Virginia wine	grapes	Chancellor
+West Virginia wine	grapes	Chardonel
+West Virginia wine	grapes	Chardonnay
+West Virginia wine	grapes	Concord
+West Virginia wine	grapes	De Chaunac
+West Virginia wine	grapes	Fredonia
+West Virginia wine	grapes	Marechal Foch
+West Virginia wine	grapes	Niagara
+West Virginia wine	grapes	Norton
+West Virginia wine	grapes	Petite Sirah
+West Virginia wine	grapes	Pinot noir
+West Virginia wine	grapes	Riesling
+West Virginia wine	grapes	Seyval blanc
+West Virginia wine	grapes	St. Pepin
+West Virginia wine	grapes	St. Vincent
+West Virginia wine	grapes	Van Buren
+West Virginia wine	grapes	Vidal blanc
+West Virginia wine	grapes	Vignoles
+Kentucky wine	grapes	Cabernet Franc
+Kentucky wine	grapes	Cabernet Sauvignon
+Kentucky wine	grapes	Carlos
+Kentucky wine	grapes	Catawba
+Kentucky wine	grapes	Cayuga White
+Kentucky wine	grapes	Chambourcin
+Kentucky wine	grapes	Chardonel
+Kentucky wine	grapes	Chardonnay
+Kentucky wine	grapes	Concord
+Kentucky wine	grapes	De Chaunac
+Kentucky wine	grapes	Marechal Foch
+Kentucky wine	grapes	Merlot
+Kentucky wine	grapes	Munson
+Kentucky wine	grapes	Niagara
+Kentucky wine	grapes	Norton
+Kentucky wine	grapes	Riesling
+Kentucky wine	grapes	Seyval blanc
+Kentucky wine	grapes	Traminette
+Kentucky wine	grapes	Vidal blanc
+Colorado wine	grapes	Cabernet Franc
+Colorado wine	grapes	Cabernet Sauvignon
+Colorado wine	grapes	Chambourcin
+Colorado wine	grapes	Chardonel
+Colorado wine	grapes	Chardonnay
+Colorado wine	grapes	Cinsault
+Colorado wine	grapes	Gewurztraminer
+Colorado wine	grapes	Blaufränkisch
+Colorado wine	grapes	Marechal Foch
+Colorado wine	grapes	Merlot
+Colorado wine	grapes	Muscat Canelli
+Colorado wine	grapes	Orange Muscat
+Colorado wine	grapes	Petit Verdot
+Colorado wine	grapes	Pinot gris
+Colorado wine	grapes	Pinot noir
+Colorado wine	grapes	Riesling
+Colorado wine	grapes	Sangiovese
+Colorado wine	grapes	Sauvignon blanc
+Colorado wine	grapes	Semillon
+Colorado wine	grapes	Seyval blanc
+Colorado wine	grapes	Syrah
+Colorado wine	grapes	Viognier
+Colorado wine	grapes	Zinfandel
+Arizona wine	grapes	Cabernet Franc
+Arizona wine	grapes	Cabernet Sauvignon
+Arizona wine	grapes	Chardonnay
+Arizona wine	grapes	Concord
+Arizona wine	grapes	Counoise
+Arizona wine	grapes	Gewürztraminer
+Arizona wine	grapes	Grenache
+Arizona wine	grapes	Malvasia
+Arizona wine	grapes	Merlot
+Arizona wine	grapes	Mourvèdre
+Arizona wine	grapes	Muscat Canelli
+Arizona wine	grapes	Nebbiolo
+Arizona wine	grapes	Petit Verdot
+Arizona wine	grapes	Petite Sirah
+Arizona wine	grapes	Pinot gris
+Arizona wine	grapes	Pinot noir
+Arizona wine	grapes	Riesling
+Arizona wine	grapes	Sangiovese
+Arizona wine	grapes	Sauvignon blanc
+Arizona wine	grapes	Syrah
+Arizona wine	grapes	Viognier
+Arizona wine	grapes	Zinfandel
+Oklahoma wine	grapes	Alicante Bouschet
+Oklahoma wine	grapes	Barbera
+Oklahoma wine	grapes	Cabernet Franc
+Oklahoma wine	grapes	Cabernet Sauvignon
+Oklahoma wine	grapes	Catawba
+Oklahoma wine	grapes	Chambourcin
+Oklahoma wine	grapes	Chardonel
+Oklahoma wine	grapes	Chardonnay
+Oklahoma wine	grapes	Chenin blanc
+Oklahoma wine	grapes	Concord
+Oklahoma wine	grapes	Gewürztraminer
+Oklahoma wine	grapes	Merlot
+Oklahoma wine	grapes	Muscat Canelli
+Oklahoma wine	grapes	Niagara
+Oklahoma wine	grapes	Norton
+Oklahoma wine	grapes	Petite Sirah
+Oklahoma wine	grapes	Pinot gris
+Oklahoma wine	grapes	Pinot noir
+Oklahoma wine	grapes	Riesling
+Oklahoma wine	grapes	Sauvignon blanc
+Oklahoma wine	grapes	Seyval blanc
+Oklahoma wine	grapes	Syrah
+Oklahoma wine	grapes	Vidal blanc
+Oklahoma wine	grapes	Vignoles
+Oklahoma wine	grapes	Villard noir
+Oklahoma wine	grapes	Viognier
+Oklahoma wine	grapes	Zinfandel
+Iowa wine	grapes	Bluebell
+Iowa wine	grapes	Catawba
+Iowa wine	grapes	Cayuga White
+Iowa wine	grapes	Chambourcin
+Iowa wine	grapes	Chancellor
+Iowa wine	grapes	Chardonel
+Iowa wine	grapes	Concord
+Iowa wine	grapes	De Chaunac
+Iowa wine	grapes	Edelweiss
+Iowa wine	grapes	Frontenac
+Iowa wine	grapes	Frontenac blanc
+Iowa wine	grapes	Frontenac gris
+Iowa wine	grapes	Geisenheim
+Iowa wine	grapes	La Crosse
+Iowa wine	grapes	Leon Millot
+Iowa wine	grapes	Marechal Foch
+Iowa wine	grapes	Marquette
+Iowa wine	grapes	Niagara
+Iowa wine	grapes	Norton
+Iowa wine	grapes	Seyval blanc
+Iowa wine	grapes	St. Croix
+Iowa wine	grapes	St. Pepin
+Iowa wine	grapes	St. Vincent
+Iowa wine	grapes	Steuben
+Iowa wine	grapes	Traminette
+Iowa wine	grapes	Valiant
+Iowa wine	grapes	Vidal blanc
+Iowa wine	grapes	Vignoles
+Georgia	grapes	Cabernet Franc
+Georgia	grapes	Cabernet Sauvignon
+Georgia	grapes	Carlos
+Georgia	grapes	Catawba
+Georgia	grapes	Cayuga White
+Georgia	grapes	Chambourcin
+Georgia	grapes	Chardonel
+Georgia	grapes	Chardonnay
+Georgia	grapes	Concord
+Georgia	grapes	De Chaunac
+Georgia	grapes	Gewürztraminer
+Georgia	grapes	Malbec
+Georgia	grapes	Marsanne
+Georgia	grapes	Merlot
+Georgia	grapes	Mourvedre
+Georgia	grapes	Muscadine
+Georgia	grapes	Niagara
+Georgia	grapes	Noble
+Georgia	grapes	Norton
+Georgia	grapes	Petit Manseng
+Georgia	grapes	Pinot blanc
+Georgia	grapes	Pinot gris
+Georgia	grapes	Pinot noir
+Georgia	grapes	Riesling
+Georgia	grapes	Roussanne
+Georgia	grapes	Sangiovese
+Georgia	grapes	Scarlet
+Georgia	grapes	Scuppernong
+Georgia	grapes	Seyval blanc
+Georgia	grapes	Syrah
+Georgia	grapes	Tannat
+Georgia	grapes	Touriga Nacional
+Georgia	grapes	Vidal blanc
+Georgia	grapes	Viognier
+Kansas wine	grapes	Aurore
+Kansas wine	grapes	Cabernet Franc
+Kansas wine	grapes	Cabernet Sauvignon
+Kansas wine	grapes	Catawba
+Kansas wine	grapes	Chambourcin
+Kansas wine	grapes	Chancellor
+Kansas wine	grapes	Chardonel
+Kansas wine	grapes	Chardonnay
+Kansas wine	grapes	Concord
+Kansas wine	grapes	Gewürztraminer
+Kansas wine	grapes	Leon Millot
+Kansas wine	grapes	Marechal Foch
+Kansas wine	grapes	Melody
+Kansas wine	grapes	Niagara
+Kansas wine	grapes	Norton
+Kansas wine	grapes	Seyval blanc
+Kansas wine	grapes	St. Vincent
+Kansas wine	grapes	Traminette
+Kansas wine	grapes	Vidal blanc
+Kansas wine	grapes	Vignoles
+Arkansas wine	grapes	Cabernet Sauvignon
+Arkansas wine	grapes	Catawba
+Arkansas wine	grapes	Chardonnay
+Arkansas wine	grapes	Concord
+Arkansas wine	grapes	Edelweiss
+Arkansas wine	grapes	Merlot
+Arkansas wine	grapes	Müller-Thurgau
+Arkansas wine	grapes	Muscadine
+Arkansas wine	grapes	Niagara
+Arkansas wine	grapes	Norton
+Arkansas wine	grapes	Scheurebe
+Arkansas wine	grapes	Seyval blanc
+Arkansas wine	grapes	Verdelet
+Arkansas wine	grapes	Vidal blanc
+Arkansas wine	grapes	Vignoles
+Louisiana wine	grapes	Blanc du Bois
+Louisiana wine	grapes	Muscadine
+Louisiana wine	grapes	Niagara
+Louisiana wine	grapes	Norton
+Louisiana wine	grapes	Viognier
+Connecticut wine	grapes	Aurore
+Connecticut wine	grapes	Cabernet Franc
+Connecticut wine	grapes	Cabernet Sauvignon
+Connecticut wine	grapes	Cayuga
+Connecticut wine	grapes	Chambourcin
+Connecticut wine	grapes	Chardonel
+Connecticut wine	grapes	Chardonnay
+Connecticut wine	grapes	Frontenac
+Connecticut wine	grapes	Gewurztraminer
+Connecticut wine	grapes	Marechal Foch
+Connecticut wine	grapes	Merlot
+Connecticut wine	grapes	Pinot gris
+Connecticut wine	grapes	Riesling
+Connecticut wine	grapes	Seyval blanc
+Connecticut wine	grapes	St. Croix
+Connecticut wine	grapes	Vidal blanc
+Connecticut wine	grapes	Vignoles
+Tennessee wine	grapes	Baco noir
+Tennessee wine	grapes	Cabernet Franc
+Tennessee wine	grapes	Cabernet Sauvignon
+Tennessee wine	grapes	Carlos
+Tennessee wine	grapes	Catawba
+Tennessee wine	grapes	Cayuga White
+Tennessee wine	grapes	Chambourcin
+Tennessee wine	grapes	Chancellor
+Tennessee wine	grapes	Chardonnay
+Tennessee wine	grapes	Chardonel
+Tennessee wine	grapes	Chenin blanc
+Tennessee wine	grapes	Concord
+Tennessee wine	grapes	Norton
+Tennessee wine	grapes	Doreen
+Tennessee wine	grapes	Leon Millot
+Tennessee wine	grapes	Marechal Foch
+Tennessee wine	grapes	Merlot
+Tennessee wine	grapes	Muscadine
+Tennessee wine	grapes	Niagara
+Tennessee wine	grapes	Noble
+Tennessee wine	grapes	Noiret
+Tennessee wine	grapes	Riesling
+Tennessee wine	grapes	Sauvignon blanc
+Tennessee wine	grapes	Seyval blanc
+Tennessee wine	grapes	Steuben
+Tennessee wine	grapes	Traminette
+Tennessee wine	grapes	Vidal blanc
+Tennessee wine	grapes	Viognier
+Mississippi wine	grapes	Carlos
+Mississippi wine	grapes	Muscadine
+Mississippi wine	grapes	International variety
+Rhode Island wine	grapes	Cabernet Franc
+Rhode Island wine	grapes	Chardonnay
+Rhode Island wine	grapes	Pinot noir
+Rhode Island wine	grapes	Riesling
+New Hampshire wine	grapes	Aurore
+New Hampshire wine	grapes	Cayuga White
+New Hampshire wine	grapes	Chancellor
+New Hampshire wine	grapes	Chardonnay
+New Hampshire wine	grapes	De Chaunac
+New Hampshire wine	grapes	Diamond
+New Hampshire wine	grapes	Frontenac
+New Hampshire wine	grapes	Leon Millot
+New Hampshire wine	grapes	Marechal Foch
+New Hampshire wine	grapes	Niagara
+New Hampshire wine	grapes	Noiret
+New Hampshire wine	grapes	Riesling
+New Hampshire wine	grapes	Seyval blanc
+New Hampshire wine	grapes	Vidal blanc
+New Hampshire wine	grapes	Vignoles
+Nebraska wine	grapes	Catawba, Chambourcin, Chancellor, Chardonel, Concord, De Chaunac, Edelweiss, Frontenac, Frontenac gris, La Crosse, Marechal Foch, Norton, Seyval blanc, St. Croix, St. Pepin, St. Vincent, Swenson Red, Traminette, Valiant, Vignoles
+Maryland wine	grapes	Albariño
+Maryland wine	grapes	Arneis
+Maryland wine	grapes	Auxerrois blanc
+Maryland wine	grapes	Barbera
+Maryland wine	grapes	Blaufränkisch
+Maryland wine	grapes	Cabernet Franc
+Maryland wine	grapes	Cabernet Sauvignon
+Maryland wine	grapes	Carignan
+Maryland wine	grapes	Carménère
+Maryland wine	grapes	Chardonnay
+Maryland wine	grapes	Chenin blanc
+Maryland wine	grapes	Dolcetto
+Maryland wine	grapes	Gewürztraminer
+Maryland wine	grapes	Malbec
+Maryland wine	grapes	Malvasia
+Maryland wine	grapes	Marsanne
+Maryland wine	grapes	Merlot
+Maryland wine	grapes	Montepulciano
+Maryland wine	grapes	Mourvèdre
+Maryland wine	grapes	Müller-Thurgau
+Maryland wine	grapes	Muscat
+Maryland wine	grapes	Muscat of Alexandria
+Maryland wine	grapes	Muscat blanc
+Maryland wine	grapes	Nebbiolo
+Maryland wine	grapes	Nero d'Avola
+Maryland wine	grapes	Pais
+Maryland wine	grapes	Petit Manseng
+Maryland wine	grapes	Pinot Meunier
+Maryland wine	grapes	Petite Sirah
+Maryland wine	grapes	Petit Verdot
+Maryland wine	grapes	Pinot blanc
+Maryland wine	grapes	Pinot grigio
+Maryland wine	grapes	Pinot noir
+Maryland wine	grapes	Pinotage
+Maryland wine	grapes	Riesling
+Maryland wine	grapes	Rkatsiteli
+Maryland wine	grapes	Roussanne
+Maryland wine	grapes	Ruby Cabernet
+Maryland wine	grapes	Rubired
+Maryland wine	grapes	Sauvignon blanc
+Maryland wine	grapes	Sangiovese
+Maryland wine	grapes	Sémillon
+Maryland wine	grapes	Sultana
+Maryland wine	grapes	Symphony
+Maryland wine	grapes	Syrah
+Maryland wine	grapes	Tannat
+Maryland wine	grapes	Tempranillo
+Maryland wine	grapes	Tinta Barroca
+Maryland wine	grapes	Tinta Cão
+Maryland wine	grapes	Touriga Franca
+Maryland wine	grapes	Touriga Nacional
+Maryland wine	grapes	Trebbiano
+Maryland wine	grapes	Viognier
+Maryland wine	grapes	Zinfandel
+Vermont wine	grapes	Baco noir
+Vermont wine	grapes	Cayuga White
+Vermont wine	grapes	Chardonnay
+Vermont wine	grapes	Frontenac
+Vermont wine	grapes	Leon Millot
+Vermont wine	grapes	Marechal Foch
+Vermont wine	grapes	Riesling
+Vermont wine	grapes	Seyval blanc
+Vermont wine	grapes	St. Croix
+Vermont wine	grapes	Traminette
+Vermont wine	grapes	Vidal blanc
+Vermont wine	grapes	Vignoles
+Vermont wine	grapes	Zweigelt
+Maine wine	grapes	Cayuga White
+Maine wine	grapes	Concord
+Maine wine	grapes	De Chaunac
+Maine wine	grapes	Leon Millot
+Maine wine	grapes	Marechal Foch
+Maine wine	grapes	Niagara
+Maine wine	grapes	Seyval blanc
+South Dakota wine	grapes	De Chaunac, Edelweiss, Frontenac, Kay Gray, La Crosse, Niagara, Seyval blanc, Valiant
+Alabama wine	grapes	Cabernet Sauvignon
+Alabama wine	grapes	Chambourcin
+Alabama wine	grapes	Chardonel
+Alabama wine	grapes	Chardonnay
+Alabama wine	grapes	Colombard
+Alabama wine	grapes	Muscadine
+Alabama wine	grapes	Norton
+Alabama wine	grapes	Vidal blanc
+Utah wine	grapes	Cabernet Sauvignon
+Utah wine	grapes	Gewurztraminer
+Utah wine	grapes	Merlot
+Utah wine	grapes	Riesling
+Utah wine	grapes	Seyval blanc
+Utah wine	grapes	Syrah
+Delaware wine	grapes	Cabernet Sauvignon
+Delaware wine	grapes	Chambourcin
+Delaware wine	grapes	Chardonnay
+Delaware wine	grapes	Delaware
+Delaware wine	grapes	Merlot
+Delaware wine	grapes	Seyval blanc
+Delaware wine	grapes	Vidal blanc
+Nevada wine	grapes	Cabernet Sauvignon
+Nevada wine	grapes	Chardonnay
+Nevada wine	grapes	Cinsault
+Nevada wine	grapes	Frontenac
+Nevada wine	grapes	Gewürztraminer
+Nevada wine	grapes	La Crosse
+Nevada wine	grapes	Merlot
+Nevada wine	grapes	Riesling
+Nevada wine	grapes	Roussillon
+Nevada wine	grapes	Ruby Cabernet
+Nevada wine	grapes	Petite Sirah
+Nevada wine	grapes	Semillon
+Nevada wine	grapes	Syrah
+Nevada wine	grapes	Tempranillo
+Nevada wine	grapes	Zinfandel
+Montana wine	grapes	Cabernet Sauvignon
+Montana wine	grapes	Chardonnay
+Montana wine	grapes	Frontenac
+Montana wine	grapes	Gewurztraminer
+Montana wine	grapes	LaCrosse
+Montana wine	grapes	Blaufränkisch
+Montana wine	grapes	Leon Millot
+Montana wine	grapes	Marechal Foch
+Montana wine	grapes	Muscat Canelli
+Montana wine	grapes	Pinot gris
+Montana wine	grapes	Riesling
+Montana wine	grapes	Merlot
+Montana wine	grapes	Pinot noir
+Montana wine	grapes	Sauvignon blanc
+Montana wine	grapes	St. Croix
+Montana wine	grapes	St. Pepin
+Montana wine	grapes	Swenson Red grape
+Wyoming wine	grapes	Elvira
+Wyoming wine	grapes	Frontenac
+Wyoming wine	grapes	Valiant
+Wyoming wine	grapes	Frontenac gris
+Wyoming wine	grapes	La Crosse
+Wyoming wine	grapes	Marechal Foch
+Wyoming wine	grapes	Marquette
+Wyoming wine	grapes	LaCrescent
+Wyoming wine	grapes	Seyval blanc
+California wine	grapes	Albariño
+California wine	grapes	Alicante Bouschet
+California wine	grapes	Alvarelhão
+California wine	grapes	Barbera
+California wine	grapes	Bastardo
+California wine	grapes	Black Muscat
+California wine	grapes	Cabernet Franc
+California wine	grapes	Cabernet Sauvignon
+California wine	grapes	Carignan
+California wine	grapes	Douce noir
+California wine	grapes	Chardonnay
+California wine	grapes	Chenin blanc
+California wine	grapes	Cinsaut
+California wine	grapes	Colombard
+California wine	grapes	Concord
+California wine	grapes	Dolcetto
+California wine	grapes	Dornfelder
+California wine	grapes	Flora
+California wine	grapes	Freisa
+California wine	grapes	Gamay Beaujolais
+California wine	grapes	Gamay noir
+California wine	grapes	Gewürztraminer
+California wine	grapes	Grenache
+California wine	grapes	Malbec
+California wine	grapes	Malvasia
+California wine	grapes	Marsanne
+California wine	grapes	Merlot
+California wine	grapes	Mourvèdre
+California wine	grapes	Muscat Canelli
+California wine	grapes	Muscat of Alexandria
+California wine	grapes	Nebbiolo
+California wine	grapes	Niagara
+California wine	grapes	Orange Muscat
+California wine	grapes	Palomino
+California wine	grapes	Petit Verdot
+California wine	grapes	Petite Sirah
+California wine	grapes	Pinot blanc
+California wine	grapes	Pinot gris
+California wine	grapes	Pinot Meunier
+California wine	grapes	Pinot noir
+California wine	grapes	Primitivo
+California wine	grapes	Riesling
+California wine	grapes	Roussanne
+California wine	grapes	Rubired
+California wine	grapes	Ruby Cabernet
+California wine	grapes	Sangiovese
+California wine	grapes	Sauvignon blanc
+California wine	grapes	Sémillon
+California wine	grapes	Souzão
+California wine	grapes	Symphony
+California wine	grapes	Syrah
+California wine	grapes	Tempranillo
+California wine	grapes	Teroldego
+California wine	grapes	Tinta Amarela
+California wine	grapes	Tinta Cao
+California wine	grapes	Tinta Madeira
+California wine	grapes	Touriga Nacional
+California wine	grapes	Trebbiano
+California wine	grapes	Trousseau gris
+California wine	grapes	Valdiguié
+California wine	grapes	Verdelho
+California wine	grapes	Viognier
+California wine	grapes	Zinfandel
+El Dorado AVA	grapes	Barbera
+El Dorado AVA	grapes	Cabernet Franc
+El Dorado AVA	grapes	Cabernet Sauvignon
+El Dorado AVA	grapes	Carignane
+El Dorado AVA	grapes	Douce noir
+El Dorado AVA	grapes	Chardonnay
+El Dorado AVA	grapes	Cinsault
+El Dorado AVA	grapes	Gewurztraminer
+El Dorado AVA	grapes	Graciano
+El Dorado AVA	grapes	Grenache
+El Dorado AVA	grapes	Grenache blanc
+El Dorado AVA	grapes	Malbec
+El Dorado AVA	grapes	Marsanne
+El Dorado AVA	grapes	Merlot
+El Dorado AVA	grapes	Mondeuse
+El Dorado AVA	grapes	Mourvedre
+El Dorado AVA	grapes	Muscat Canelli
+El Dorado AVA	grapes	Petite Sirah
+El Dorado AVA	grapes	Pinot gris
+El Dorado AVA	grapes	Pinot noir
+El Dorado AVA	grapes	Pinotage
+El Dorado AVA	grapes	Riesling
+El Dorado AVA	grapes	Rolle
+El Dorado AVA	grapes	Roussanne
+El Dorado AVA	grapes	Sangiovese
+El Dorado AVA	grapes	Sauvignon blanc
+El Dorado AVA	grapes	Semillon
+El Dorado AVA	grapes	Syrah
+El Dorado AVA	grapes	Tempranillo
+El Dorado AVA	grapes	Tinta Cao
+El Dorado AVA	grapes	Touriga Nacional
+El Dorado AVA	grapes	Viognier
+El Dorado AVA	grapes	Zinfandel
+Grampians	grapes	Shiraz
+Grampians	grapes	Cabernet Sauvignon
+Napa County wine	grapes	Cabernet Sauvignon, Merlot, Cabernet Franc, Pinot noir, Zinfandel, Chardonnay, Sauvignon blanc, and more
+Ben Lomond Mountain AVA	grapes	Cabernet Sauvignon
+Ben Lomond Mountain AVA	grapes	Pinot Noir
+Ben Lomond Mountain AVA	grapes	Chardonnay
+Ben Lomond Mountain AVA	grapes	Zinfandel
+California Shenandoah Valley AVA	grapes	Alicante Bouschet
+California Shenandoah Valley AVA	grapes	Barbera
+California Shenandoah Valley AVA	grapes	Cabernet Franc
+California Shenandoah Valley AVA	grapes	Cabernet Sauvignon
+California Shenandoah Valley AVA	grapes	Carignane
+California Shenandoah Valley AVA	grapes	Chardonnay
+California Shenandoah Valley AVA	grapes	Grenache
+California Shenandoah Valley AVA	grapes	Merlot
+California Shenandoah Valley AVA	grapes	Mourvedre
+California Shenandoah Valley AVA	grapes	Muscat Canelli
+California Shenandoah Valley AVA	grapes	Nebbiolo
+California Shenandoah Valley AVA	grapes	Orange Muscat
+California Shenandoah Valley AVA	grapes	Petite Sirah
+California Shenandoah Valley AVA	grapes	Roussanne
+California Shenandoah Valley AVA	grapes	Sangiovese
+California Shenandoah Valley AVA	grapes	Sauvignon blanc
+California Shenandoah Valley AVA	grapes	Semillon
+California Shenandoah Valley AVA	grapes	Syrah
+California Shenandoah Valley AVA	grapes	Verdelho
+California Shenandoah Valley AVA	grapes	Viognier
+California Shenandoah Valley AVA	grapes	Zinfandel
+Fair Play AVA	grapes	Barbera
+Fair Play AVA	grapes	Black Muscat
+Fair Play AVA	grapes	Cabernet Franc
+Fair Play AVA	grapes	Cabernet Sauvignon
+Fair Play AVA	grapes	Chardonnay
+Fair Play AVA	grapes	Grenache
+Fair Play AVA	grapes	Malbec
+Fair Play AVA	grapes	Merlot
+Fair Play AVA	grapes	Mourvedre
+Fair Play AVA	grapes	Petit Verdot
+Fair Play AVA	grapes	Petite Sirah
+Fair Play AVA	grapes	Pinot noir
+Fair Play AVA	grapes	Pinotage
+Fair Play AVA	grapes	Sangiovese
+Fair Play AVA	grapes	Sauvignon blanc
+Fair Play AVA	grapes	Souzao
+Fair Play AVA	grapes	Syrah
+Fair Play AVA	grapes	Tinta Cao
+Fair Play AVA	grapes	Touriga Nacional
+Fair Play AVA	grapes	Viognier
+Fair Play AVA	grapes	Zinfandel
+Fiddletown AVA	grapes	Grenache
+Fiddletown AVA	grapes	Petite Sirah
+Fiddletown AVA	grapes	Zinfandel
+Fiddletown AVA	grapes	Barbera
+North Yuba AVA	grapes	Cabernet Franc
+North Yuba AVA	grapes	Cabernet Sauvignon
+North Yuba AVA	grapes	Chardonnay
+North Yuba AVA	grapes	Grenache
+North Yuba AVA	grapes	Malbec
+North Yuba AVA	grapes	Merlot
+North Yuba AVA	grapes	Pinot noir
+North Yuba AVA	grapes	Riesling
+North Yuba AVA	grapes	Sangiovese
+North Yuba AVA	grapes	Sauvignon blanc
+North Yuba AVA	grapes	Semillon
+North Yuba AVA	grapes	Syrah
+North Yuba AVA	grapes	Zinfandel
+South Coast AVA	grapes	Cabernet Franc
+South Coast AVA	grapes	Cabernet Sauvignon
+South Coast AVA	grapes	Chardonnay
+South Coast AVA	grapes	Merlot
+South Coast AVA	grapes	Montepulciano
+South Coast AVA	grapes	Muscat Canelli
+South Coast AVA	grapes	Petit Verdot
+South Coast AVA	grapes	Petite Sirah
+South Coast AVA	grapes	Pinot gris
+South Coast AVA	grapes	Riesling
+South Coast AVA	grapes	Sangiovese
+South Coast AVA	grapes	Sauvignon blanc
+South Coast AVA	grapes	Symphony
+South Coast AVA	grapes	Syrah
+South Coast AVA	grapes	Tempranillo
+South Coast AVA	grapes	Trebbiano
+South Coast AVA	grapes	Viognier
+South Coast AVA	grapes	Zinfandel
+Dos Rios AVA	grapes	Cabernet Franc
+Dos Rios AVA	grapes	Cabernet Sauvignon
+Dos Rios AVA	grapes	Chardonnay
+Dos Rios AVA	grapes	Merlot
+Dos Rios AVA	grapes	Zinfandel
+McDowell Valley AVA	grapes	Grenache
+McDowell Valley AVA	grapes	Grenache gris
+McDowell Valley AVA	grapes	Petite Sirah
+McDowell Valley AVA	grapes	Sauvignon blanc
+McDowell Valley AVA	grapes	Souzao
+McDowell Valley AVA	grapes	Syrah
+McDowell Valley AVA	grapes	Touriga Nacional
+McDowell Valley AVA	grapes	Zinfandel
+Redwood Valley AVA	grapes	Barbera
+Redwood Valley AVA	grapes	Cabernet Sauvignon
+Redwood Valley AVA	grapes	Carignane
+Redwood Valley AVA	grapes	Douce noir
+Redwood Valley AVA	grapes	Chardonnay
+Redwood Valley AVA	grapes	Merlot
+Redwood Valley AVA	grapes	Petite Sirah
+Redwood Valley AVA	grapes	Pinot noir
+Redwood Valley AVA	grapes	Sangiovese
+Redwood Valley AVA	grapes	Sauvignon blanc
+Redwood Valley AVA	grapes	Syrah
+Redwood Valley AVA	grapes	Valdiguie
+Redwood Valley AVA	grapes	Viognier
+Redwood Valley AVA	grapes	Zinfandel
+Yorkville Highlands AVA	grapes	Cabernet Franc
+Yorkville Highlands AVA	grapes	Cabernet Sauvignon
+Yorkville Highlands AVA	grapes	Carmenere
+Yorkville Highlands AVA	grapes	Chardonnay
+Yorkville Highlands AVA	grapes	Malbec
+Yorkville Highlands AVA	grapes	Merlot
+Yorkville Highlands AVA	grapes	Petit Verdot
+Yorkville Highlands AVA	grapes	Petite Sirah
+Yorkville Highlands AVA	grapes	Pinot noir
+Yorkville Highlands AVA	grapes	Primitivo
+Yorkville Highlands AVA	grapes	Sauvignon blanc
+Yorkville Highlands AVA	grapes	Semillon
+Yorkville Highlands AVA	grapes	Symphony
+Yorkville Highlands AVA	grapes	Syrah
+Yorkville Highlands AVA	grapes	Viognier
+Yorkville Highlands AVA	grapes	Zinfandel
+Clear Lake AVA	grapes	Cabernet Sauvignon
+Clear Lake AVA	grapes	Merlot
+Clear Lake AVA	grapes	Muscat Canelli
+Clear Lake AVA	grapes	Sauvignon blanc
+Clear Lake AVA	grapes	Syrah
+Clear Lake AVA	grapes	Tempranillo
+Lake County wine	grapes	Barbera
+Lake County wine	grapes	Cabernet Franc
+Lake County wine	grapes	Cabernet Sauvignon
+Lake County wine	grapes	Chardonnay
+Lake County wine	grapes	Chenin blanc
+Lake County wine	grapes	Gamay Beaujolais
+Lake County wine	grapes	Grenache
+Lake County wine	grapes	Malbec
+Lake County wine	grapes	Merlot
+Lake County wine	grapes	Muscat Canelli
+Lake County wine	grapes	Nebbiolo
+Lake County wine	grapes	Petit Verdot
+Lake County wine	grapes	Petite Sirah
+Lake County wine	grapes	Pinot blanc
+Lake County wine	grapes	Pinot gris
+Lake County wine	grapes	Roussanne
+Lake County wine	grapes	Sangiovese
+Lake County wine	grapes	Sauvignon blanc
+Lake County wine	grapes	Sauvignon Musque
+Lake County wine	grapes	Syrah
+Lake County wine	grapes	Tempranillo
+Lake County wine	grapes	Viognier
+Lake County wine	grapes	Zinfandel
+Red Hills Lake County AVA	grapes	Barbera
+Red Hills Lake County AVA	grapes	Cabernet Franc
+Red Hills Lake County AVA	grapes	Cabernet Sauvignon
+Red Hills Lake County AVA	grapes	Malbec
+Red Hills Lake County AVA	grapes	Merlot
+Red Hills Lake County AVA	grapes	Petite Sirah
+Red Hills Lake County AVA	grapes	Petite Verdot
+Red Hills Lake County AVA	grapes	Sangiovese
+Red Hills Lake County AVA	grapes	Sauvignon blanc
+Red Hills Lake County AVA	grapes	Syrah
+Red Hills Lake County AVA	grapes	Zinfandel
+Solano County Green Valley AVA	grapes	Cabernet Sauvignon
+Solano County Green Valley AVA	grapes	Merlot
+Solano County Green Valley AVA	grapes	Syrah
+Cucamonga Valley AVA	grapes	Aleatico
+Cucamonga Valley AVA	grapes	Alicante Bouschet
+Cucamonga Valley AVA	grapes	Cabernet Franc
+Cucamonga Valley AVA	grapes	Cabernet Sauvignon
+Cucamonga Valley AVA	grapes	Chasselas
+Cucamonga Valley AVA	grapes	Grenache
+Cucamonga Valley AVA	grapes	Merlot
+Cucamonga Valley AVA	grapes	Mission
+Cucamonga Valley AVA	grapes	Mourvedre
+Cucamonga Valley AVA	grapes	Palomino
+Cucamonga Valley AVA	grapes	Pedro Ximenes
+Cucamonga Valley AVA	grapes	Petite Sirah
+Cucamonga Valley AVA	grapes	Syrah
+Cucamonga Valley AVA	grapes	Zinfandel
+Malibu-Newton Canyon AVA	grapes	Cabernet Franc
+Malibu-Newton Canyon AVA	grapes	Cabernet Sauvignon
+Malibu-Newton Canyon AVA	grapes	Chardonnay
+Malibu-Newton Canyon AVA	grapes	Viognier
+Malibu-Newton Canyon AVA	grapes	Merlot
+Malibu-Newton Canyon AVA	grapes	Petit Verdot
+Malibu-Newton Canyon AVA	grapes	Orange Muscat
+Cienega Valley AVA	grapes	Cabernet Franc
+Cienega Valley AVA	grapes	Cabernet Sauvignon
+Cienega Valley AVA	grapes	Carignane
+Cienega Valley AVA	grapes	Chardonnay
+Cienega Valley AVA	grapes	Dolcetto
+Cienega Valley AVA	grapes	Grenache
+Cienega Valley AVA	grapes	Merlot
+Cienega Valley AVA	grapes	Negrette
+Cienega Valley AVA	grapes	Pinot gris
+Cienega Valley AVA	grapes	Pinot noir
+Cienega Valley AVA	grapes	Sangiovese
+Cienega Valley AVA	grapes	Syrah
+Cienega Valley AVA	grapes	Zinfandel
+Monterey AVA	grapes	Albarino
+Monterey AVA	grapes	Alvarelhao
+Monterey AVA	grapes	Cabernet Sauvignon
+Monterey AVA	grapes	Chardonnay
+Monterey AVA	grapes	Chenin blanc
+Monterey AVA	grapes	Gewurztraminer
+Monterey AVA	grapes	Grenache
+Monterey AVA	grapes	Malbec
+Monterey AVA	grapes	Malvasia
+Monterey AVA	grapes	Merlot
+Monterey AVA	grapes	Orange Muscat
+Monterey AVA	grapes	Petite Sirah
+Monterey AVA	grapes	Pinot blanc
+Monterey AVA	grapes	Pinot gris
+Monterey AVA	grapes	Pinot noir
+Monterey AVA	grapes	Riesling
+Monterey AVA	grapes	Roussanne
+Monterey AVA	grapes	Sangiovese
+Monterey AVA	grapes	Sauvignon blanc
+Monterey AVA	grapes	Semillon
+Monterey AVA	grapes	Souzao
+Monterey AVA	grapes	Syrah
+Monterey AVA	grapes	Tannat
+Monterey AVA	grapes	Tinta Cao
+Monterey AVA	grapes	Touriga Nacional
+Monterey AVA	grapes	Valdiguie
+Monterey AVA	grapes	Viognier
+Monterey AVA	grapes	Zinfandel
+Hames Valley AVA	grapes	Alicante Bouschet
+Hames Valley AVA	grapes	Cabernet Franc
+Hames Valley AVA	grapes	Cabernet Sauvignon
+Hames Valley AVA	grapes	Merlot
+Hames Valley AVA	grapes	Sauvignon blanc
+Hames Valley AVA	grapes	Teroldego
+San Benito AVA	grapes	Barbera
+San Benito AVA	grapes	Chardonnay
+San Benito AVA	grapes	Grenache
+San Benito AVA	grapes	Merlot
+San Benito AVA	grapes	Mourvedre
+San Benito AVA	grapes	Syrah
+San Benito AVA	grapes	Tempranillo
+Mount Harlan AVA	grapes	Aligote
+Mount Harlan AVA	grapes	Chardonnay
+Mount Harlan AVA	grapes	Pinot noir
+Mount Harlan AVA	grapes	Viognier
+Pacheco Pass AVA	grapes	Black Muscat
+Pacheco Pass AVA	grapes	Chardonnay
+Pacheco Pass AVA	grapes	Merlot
+Pacheco Pass AVA	grapes	Zinfandel
+Paicines AVA	grapes	Arneis
+Paicines AVA	grapes	Cabernet Franc
+Paicines AVA	grapes	Cabernet Sauvignon
+Paicines AVA	grapes	Chardonnay
+Paicines AVA	grapes	Malbec
+Paicines AVA	grapes	Merlot
+Paicines AVA	grapes	Petit Verdot
+Paicines AVA	grapes	Syrah
+San Ysidro District AVA	grapes	Merlot
+Santa Lucia Highlands AVA	grapes	Cabernet Franc
+Santa Lucia Highlands AVA	grapes	Cabernet Sauvignon
+Santa Lucia Highlands AVA	grapes	Chardonnay
+Santa Lucia Highlands AVA	grapes	Chenin blanc
+Santa Lucia Highlands AVA	grapes	Malbec
+Santa Lucia Highlands AVA	grapes	Merlot
+Santa Lucia Highlands AVA	grapes	Petit Verdot
+Santa Lucia Highlands AVA	grapes	Pinot gris
+Santa Lucia Highlands AVA	grapes	Pinot noir
+Santa Lucia Highlands AVA	grapes	Riesling
+Santa Lucia Highlands AVA	grapes	Roussanne
+Santa Lucia Highlands AVA	grapes	Syrah
+Santa Lucia Highlands AVA	grapes	Viognier
+York Mountain AVA	grapes	Cabernet Sauvignon
+York Mountain AVA	grapes	Chardonnay
+York Mountain AVA	grapes	Petit Verdot
+York Mountain AVA	grapes	Pinot noir
+York Mountain AVA	grapes	Syrah
+York Mountain AVA	grapes	Viognier
+Sta. Rita Hills AVA	grapes	Barbera
+Sta. Rita Hills AVA	grapes	Chardonnay
+Sta. Rita Hills AVA	grapes	Dolcetto
+Sta. Rita Hills AVA	grapes	Dornfelder
+Sta. Rita Hills AVA	grapes	Grenache
+Sta. Rita Hills AVA	grapes	Mission
+Sta. Rita Hills AVA	grapes	Pinot blanc
+Sta. Rita Hills AVA	grapes	Pinot gris
+Sta. Rita Hills AVA	grapes	Pinot noir
+Sta. Rita Hills AVA	grapes	Riesling
+Sta. Rita Hills AVA	grapes	Sauvignon blanc
+Sta. Rita Hills AVA	grapes	Syrah
+Sta. Rita Hills AVA	grapes	Viognier
+Sta. Rita Hills AVA	grapes	Zinfandel
+Santa Ynez Valley AVA	grapes	Albarino
+Santa Ynez Valley AVA	grapes	Arneis
+Santa Ynez Valley AVA	grapes	Cabernet Franc
+Santa Ynez Valley AVA	grapes	Cabernet Sauvignon
+Santa Ynez Valley AVA	grapes	Chardonnay
+Santa Ynez Valley AVA	grapes	Cinsault
+Santa Ynez Valley AVA	grapes	Counoise
+Santa Ynez Valley AVA	grapes	Grenache
+Santa Ynez Valley AVA	grapes	Grenache blanc
+Santa Ynez Valley AVA	grapes	Lagrein
+Santa Ynez Valley AVA	grapes	Malbec
+Santa Ynez Valley AVA	grapes	Malvasia
+Santa Ynez Valley AVA	grapes	Marsanne
+Santa Ynez Valley AVA	grapes	Merlot
+Santa Ynez Valley AVA	grapes	Mourvedre
+Santa Ynez Valley AVA	grapes	Muscat Canelli
+Santa Ynez Valley AVA	grapes	Nebbiolo
+Santa Ynez Valley AVA	grapes	Negrette
+Santa Ynez Valley AVA	grapes	Petit Verdot
+Santa Ynez Valley AVA	grapes	Pinot blanc
+Santa Ynez Valley AVA	grapes	Pinot gris
+Santa Ynez Valley AVA	grapes	Pinot noir
+Santa Ynez Valley AVA	grapes	Riesling
+Santa Ynez Valley AVA	grapes	Roussanne
+Santa Ynez Valley AVA	grapes	Sangiovese
+Santa Ynez Valley AVA	grapes	Sauvignon blanc
+Santa Ynez Valley AVA	grapes	Semillon
+Santa Ynez Valley AVA	grapes	Syrah
+Santa Ynez Valley AVA	grapes	Tempranillo
+Santa Ynez Valley AVA	grapes	Tocai Friulano
+Santa Ynez Valley AVA	grapes	Viognier
+Santa Ynez Valley AVA	grapes	Zinfandel
+Borden Ranch AVA	grapes	Cabernet Sauvignon
+Borden Ranch AVA	grapes	Chardonnay
+Borden Ranch AVA	grapes	Merlot
+Borden Ranch AVA	grapes	Syrah
+Borden Ranch AVA	grapes	Zinfandel
+Mokelumne River AVA	grapes	Cabernet Sauvignon
+Mokelumne River AVA	grapes	Flame Tokay
+Mokelumne River AVA	grapes	Zinfandel
+Cosumnes River AVA	grapes	Cabernet Sauvignon
+Cosumnes River AVA	grapes	Chardonnay
+Cosumnes River AVA	grapes	Merlot
+Cosumnes River AVA	grapes	Pinot gris
+Cosumnes River AVA	grapes	Sauvignon blanc
+Cosumnes River AVA	grapes	Syrah
+Clements Hills AVA	grapes	Barbera
+Clements Hills AVA	grapes	Cabernet Sauvignon
+Clements Hills AVA	grapes	Chardonnay
+Clements Hills AVA	grapes	Dolcetto
+Clements Hills AVA	grapes	Grenache
+Clements Hills AVA	grapes	Malbec
+Clements Hills AVA	grapes	Merlot
+Clements Hills AVA	grapes	Mourvedre
+Clements Hills AVA	grapes	Petite Sirah
+Clements Hills AVA	grapes	Syrah
+Clements Hills AVA	grapes	Zinfandel
+Sloughhouse AVA	grapes	Cabernet Sauvignon
+Sloughhouse AVA	grapes	Cabernet Franc
+Sloughhouse AVA	grapes	Merlot
+Sloughhouse AVA	grapes	Zinfandel
+River Junction AVA	grapes	Chardonnay
+Dunnigan Hills AVA	grapes	Cabernet Sauvignon
+Dunnigan Hills AVA	grapes	Chardonnay
+Dunnigan Hills AVA	grapes	Merlot
+Dunnigan Hills AVA	grapes	Petite Sirah
+Dunnigan Hills AVA	grapes	Sauvignon blanc
+Dunnigan Hills AVA	grapes	Syrah
+Dunnigan Hills AVA	grapes	Tempranillo
+Dunnigan Hills AVA	grapes	Viognier
+Clarksburg AVA	grapes	Albarino
+Clarksburg AVA	grapes	Cabernet Sauvignon
+Clarksburg AVA	grapes	Chardonnay
+Clarksburg AVA	grapes	Chenin blanc
+Clarksburg AVA	grapes	Gewurztraminer
+Clarksburg AVA	grapes	Grenache blanc
+Clarksburg AVA	grapes	Malvasia
+Clarksburg AVA	grapes	Merlot
+Clarksburg AVA	grapes	Orange Muscat
+Clarksburg AVA	grapes	Petite Sirah
+Clarksburg AVA	grapes	Pinot gris
+Clarksburg AVA	grapes	Riesling
+Clarksburg AVA	grapes	Sauvignon blanc
+Clarksburg AVA	grapes	Syrah
+Clarksburg AVA	grapes	Tempranillo
+Clarksburg AVA	grapes	Verdelho
+Clarksburg AVA	grapes	Viognier
+Merritt Island AVA	grapes	Chardonnay
+Diablo Grande AVA	grapes	Cabernet Sauvignon
+Diablo Grande AVA	grapes	Chardonnay
+Diablo Grande AVA	grapes	Merlot
+Diablo Grande AVA	grapes	Pinot noir
+Diablo Grande AVA	grapes	Sangiovese
+Diablo Grande AVA	grapes	Syrah
+Madera AVA	grapes	Barbera
+Madera AVA	grapes	Black Muscat
+Madera AVA	grapes	Cabernet Franc
+Madera AVA	grapes	Cabernet Sauvignon
+Madera AVA	grapes	Carmenere
+Madera AVA	grapes	Chardonnay
+Madera AVA	grapes	Colombard
+Madera AVA	grapes	Grenache
+Madera AVA	grapes	Malbec
+Madera AVA	grapes	Malvasia
+Madera AVA	grapes	Merlot
+Madera AVA	grapes	Muscat Canelli
+Madera AVA	grapes	Muscat of Alexandria
+Madera AVA	grapes	Orange Muscat
+Madera AVA	grapes	Petit Verdot
+Madera AVA	grapes	Petite Sirah
+Madera AVA	grapes	Riesling
+Madera AVA	grapes	Souzao
+Madera AVA	grapes	Syrah
+Madera AVA	grapes	Tinta Cao
+Madera AVA	grapes	Tinta Madeira
+Madera AVA	grapes	Touriga Nacional
+Madera AVA	grapes	Valdiguie
+Madera AVA	grapes	Viognier
+Madera AVA	grapes	Zinfandel
+Capay Valley AVA	grapes	Cabernet Franc
+Capay Valley AVA	grapes	Cabernet Sauvignon
+Capay Valley AVA	grapes	Syrah
+Capay Valley AVA	grapes	Mourvedre
+Capay Valley AVA	grapes	Tempranillo
+Capay Valley AVA	grapes	Viognier
+Salado Creek AVA	grapes	Cabernet Sauvignon
+Salado Creek AVA	grapes	Sauvignon blanc
+Salado Creek AVA	grapes	Syrah
+Salado Creek AVA	grapes	Viognier
+Chehalem Mountains AVA	grapes	Chardonnay
+Chehalem Mountains AVA	grapes	Pinot blanc
+Chehalem Mountains AVA	grapes	Pinot gris
+Chehalem Mountains AVA	grapes	Pinot noir
+Chehalem Mountains AVA	grapes	Riesling
+Sonoita AVA	grapes	Cabernet Franc
+Sonoita AVA	grapes	Cabernet Sauvignon
+Sonoita AVA	grapes	Chardonnay
+Sonoita AVA	grapes	Malvasia
+Sonoita AVA	grapes	Merlot
+Sonoita AVA	grapes	Mourvedre
+Sonoita AVA	grapes	Petite Sirah
+Sonoita AVA	grapes	Pinot noir
+Sonoita AVA	grapes	Riesling
+Sonoita AVA	grapes	Sangiovese
+Sonoita AVA	grapes	Sauvignon blanc
+Sonoita AVA	grapes	Syrah
+Sonoita AVA	grapes	Tempranillo
+Sonoita AVA	grapes	Viognier
+Sonoita AVA	grapes	Zinfandel
+Mimbres Valley AVA	grapes	Cabernet Sauvignon
+Mimbres Valley AVA	grapes	Chardonnay
+Mimbres Valley AVA	grapes	Merlot
+Mimbres Valley AVA	grapes	Syrah
+West Elks AVA	grapes	Chardonnay
+West Elks AVA	grapes	Gewurztraminer
+West Elks AVA	grapes	Merlot
+West Elks AVA	grapes	Riesling
+West Elks AVA	grapes	Cabernet Franc
+Grand Valley AVA	grapes	Black Muscat
+Grand Valley AVA	grapes	Cabernet Franc
+Grand Valley AVA	grapes	Cabernet Sauvignon
+Grand Valley AVA	grapes	Chardonnay
+Grand Valley AVA	grapes	Cinsault
+Grand Valley AVA	grapes	Gewurztraminer
+Grand Valley AVA	grapes	Malbec
+Grand Valley AVA	grapes	Merlot
+Grand Valley AVA	grapes	Muscat Ottonel
+Grand Valley AVA	grapes	Orange Muscat
+Grand Valley AVA	grapes	Pinot gris
+Grand Valley AVA	grapes	Riesling
+Grand Valley AVA	grapes	Sangiovese
+Grand Valley AVA	grapes	Sauvignon blanc
+Grand Valley AVA	grapes	Semillon
+Grand Valley AVA	grapes	Syrah
+Grand Valley AVA	grapes	Viognier
+Shenandoah Valley AVA	grapes	Cabernet Franc
+Shenandoah Valley AVA	grapes	Chambourcin
+Shenandoah Valley AVA	grapes	Chardonnay
+Shenandoah Valley AVA	grapes	Gewurztraminer
+Shenandoah Valley AVA	grapes	Riesling
+Shenandoah Valley AVA	grapes	Traminette
+Shenandoah Valley AVA	grapes	Viognier
+Shenandoah Valley AVA	grapes	Norton
+Shenandoah Valley AVA	grapes	Cabernet Sauvignon
+Shenandoah Valley AVA	grapes	Merlot
+Mississippi Delta AVA	grapes	Muscadine
+Leelanau Peninsula AVA	grapes	Aurore
+Leelanau Peninsula AVA	grapes	Auxerrois Blanc
+Leelanau Peninsula AVA	grapes	Bianca
+Leelanau Peninsula AVA	grapes	Cabernet Franc
+Leelanau Peninsula AVA	grapes	Cabernet Sauvignon
+Leelanau Peninsula AVA	grapes	Cayuga White
+Leelanau Peninsula AVA	grapes	Chardonnay
+Leelanau Peninsula AVA	grapes	De Chaunac
+Leelanau Peninsula AVA	grapes	Dolcetto
+Leelanau Peninsula AVA	grapes	Gewurztraminer
+Leelanau Peninsula AVA	grapes	Malbec
+Leelanau Peninsula AVA	grapes	Marechal Foch
+Leelanau Peninsula AVA	grapes	Merlot
+Leelanau Peninsula AVA	grapes	Pinot gris
+Leelanau Peninsula AVA	grapes	Pinot noir
+Leelanau Peninsula AVA	grapes	Riesling
+Leelanau Peninsula AVA	grapes	Seyval blanc
+Leelanau Peninsula AVA	grapes	Traminette
+Leelanau Peninsula AVA	grapes	Vignoles
+Ozark Highlands AVA	grapes	Chardonel
+Ozark Highlands AVA	grapes	Frontenac
+Ozark Highlands AVA	grapes	Norton
+Ozark Highlands AVA	grapes	St. Vincent
+Ozark Highlands AVA	grapes	Vidal blanc
+Ozark Highlands AVA	grapes	Vignoles
+Ozark Mountain American Viticultural Area	grapes	Catawba
+Ozark Mountain American Viticultural Area	grapes	Chambourcin
+Ozark Mountain American Viticultural Area	grapes	Chardonel
+Ozark Mountain American Viticultural Area	grapes	Concord
+Ozark Mountain American Viticultural Area	grapes	Norton
+Ozark Mountain American Viticultural Area	grapes	St. Vincent
+Ozark Mountain American Viticultural Area	grapes	Vidal blanc
+Ozark Mountain American Viticultural Area	grapes	Vignoles
+Ozark Mountain American Viticultural Area	grapes	Villard noir
+Hermann AVA	grapes	Chambourcin
+Hermann AVA	grapes	Norton
+Hermann AVA	grapes	Seyval blanc
+Hermann AVA	grapes	St. Vincent
+Hermann AVA	grapes	Steuben
+Hermann AVA	grapes	Traminette
+Hermann AVA	grapes	Vidal blanc
+Hermann AVA	grapes	Vignoles
+Fennville AVA	grapes	Cabernet Franc
+Fennville AVA	grapes	Chardonel
+Old Mission Peninsula AVA	grapes	Cabernet Franc
+Old Mission Peninsula AVA	grapes	Cabernet Sauvignon
+Old Mission Peninsula AVA	grapes	Chardonnay
+Old Mission Peninsula AVA	grapes	Gamay noir
+Old Mission Peninsula AVA	grapes	Gewurztraminer
+Old Mission Peninsula AVA	grapes	Malbec
+Old Mission Peninsula AVA	grapes	Merlot
+Old Mission Peninsula AVA	grapes	Muscat Ottonel
+Old Mission Peninsula AVA	grapes	Pinot blanc
+Old Mission Peninsula AVA	grapes	Pinot gris
+Old Mission Peninsula AVA	grapes	Pinot noir
+Old Mission Peninsula AVA	grapes	Riesling
+Lake Wisconsin AVA	grapes	La Crosse
+Lake Wisconsin AVA	grapes	Léon Millot
+Lake Wisconsin AVA	grapes	Marechal Foch
+Lake Wisconsin AVA	grapes	St. Pepin
+Altus AVA	grapes	Cabernet Sauvignon
+Altus AVA	grapes	Chardonnay
+Altus AVA	grapes	Kerner
+Altus AVA	grapes	Muller Thurgau
+Altus AVA	grapes	Muscadine
+Altus AVA	grapes	Niagara
+Altus AVA	grapes	Oraniensteiner
+Altus AVA	grapes	Scheurebe
+Altus AVA	grapes	Vignoles
+Isle St. George AVA	grapes	Cabernet Sauvignon
+Isle St. George AVA	grapes	Catawba
+Isle St. George AVA	grapes	Chardonnay
+Isle St. George AVA	grapes	Concord
+Isle St. George AVA	grapes	Gewürztraminer
+Isle St. George AVA	grapes	Pinot gris
+Isle St. George AVA	grapes	Pinot noir
+Isle St. George AVA	grapes	Riesling
+Shawnee Hills AVA	grapes	Cabernet Franc
+Shawnee Hills AVA	grapes	Chambourcin
+Shawnee Hills AVA	grapes	Chancellor
+Shawnee Hills AVA	grapes	Chardonel
+Shawnee Hills AVA	grapes	Frontenac
+Shawnee Hills AVA	grapes	Riesling
+Shawnee Hills AVA	grapes	Traminette
+Grand River Valley AVA	grapes	Cabernet Franc
+Grand River Valley AVA	grapes	Chambourcin
+Grand River Valley AVA	grapes	Chardonnay
+Grand River Valley AVA	grapes	Gewurztraminer
+Grand River Valley AVA	grapes	Merlot
+Grand River Valley AVA	grapes	Niagara
+Grand River Valley AVA	grapes	Pinot gris
+Grand River Valley AVA	grapes	Pinot noir
+Grand River Valley AVA	grapes	Riesling
+Grand River Valley AVA	grapes	Vidal blanc
+Lake Erie AVA	grapes	Aurore
+Lake Erie AVA	grapes	Auxerrois
+Lake Erie AVA	grapes	Baco noir
+Lake Erie AVA	grapes	Cabernet Franc
+Lake Erie AVA	grapes	Cabernet Sauvignon
+Lake Erie AVA	grapes	Catawba
+Lake Erie AVA	grapes	Cayuga White
+Lake Erie AVA	grapes	Chambourcin
+Lake Erie AVA	grapes	Chancellor
+Lake Erie AVA	grapes	Chardonnay
+Lake Erie AVA	grapes	Concord
+Lake Erie AVA	grapes	De Chaunac
+Lake Erie AVA	grapes	Delaware
+Lake Erie AVA	grapes	Diamond
+Lake Erie AVA	grapes	Edelweiss
+Lake Erie AVA	grapes	Fredonia
+Lake Erie AVA	grapes	Gewurztraminer
+Lake Erie AVA	grapes	Ives noir
+Lake Erie AVA	grapes	Blaufränkisch
+Lake Erie AVA	grapes	Leon Millot
+Lake Erie AVA	grapes	Marechal Foch
+Lake Erie AVA	grapes	Merlot
+Lake Erie AVA	grapes	Niagara
+Lake Erie AVA	grapes	Pinot gris
+Lake Erie AVA	grapes	Pinot noir
+Lake Erie AVA	grapes	Riesling
+Lake Erie AVA	grapes	Seyval blanc
+Lake Erie AVA	grapes	Steuben
+Lake Erie AVA	grapes	Touriga Nacional
+Lake Erie AVA	grapes	Traminette
+Lake Erie AVA	grapes	Vidal blanc
+Lake Erie AVA	grapes	Vignoles
+Lancaster Valley AVA	grapes	Cabernet Franc
+Lancaster Valley AVA	grapes	Catawba
+Lancaster Valley AVA	grapes	Cayuga White
+Lancaster Valley AVA	grapes	Chambourcin
+Lancaster Valley AVA	grapes	Chancellor
+Lancaster Valley AVA	grapes	De Chaunac
+Lancaster Valley AVA	grapes	Merlot
+Lancaster Valley AVA	grapes	Niagara
+Lancaster Valley AVA	grapes	Seyval blanc
+Lancaster Valley AVA	grapes	Vidal blanc
+Lancaster Valley AVA	grapes	Vignoles
+Catoctin AVA	grapes	Barbera
+Catoctin AVA	grapes	Albariño
+Catoctin AVA	grapes	Tannat
+Catoctin AVA	grapes	Cabernet Sauvignon
+Catoctin AVA	grapes	Muscat Canelli
+Catoctin AVA	grapes	Pinot noir
+Catoctin AVA	grapes	Riesling
+Catoctin AVA	grapes	Vidal blanc
+Linganore AVA	grapes	Cabernet Sauvignon
+Linganore AVA	grapes	Chambourcin
+Linganore AVA	grapes	Chardonel
+Linganore AVA	grapes	Traminette
+Haut-Médoc AOC	grapes	Cabernet Sauvignon
+Haut-Médoc AOC	grapes	Merlot
+Haut-Médoc AOC	grapes	Petit Verdot
+Haut-Médoc AOC	grapes	Malbec
+Haut-Médoc AOC	grapes	Cabernet Franc
+Haut-Médoc AOC	grapes	Carménère
+Western Connecticut Highlands AVA	grapes	Cabernet Franc
+Western Connecticut Highlands AVA	grapes	Chardonnay
+Western Connecticut Highlands AVA	grapes	Merlot
+Western Connecticut Highlands AVA	grapes	Pinot noir
+Western Connecticut Highlands AVA	grapes	Seyval blanc
+Western Connecticut Highlands AVA	grapes	Vidal blanc
+Southeastern New England AVA	grapes	Baco noir
+Southeastern New England AVA	grapes	Cabernet Franc
+Southeastern New England AVA	grapes	Cabernet Sauvignon
+Southeastern New England AVA	grapes	Cayuga White
+Southeastern New England AVA	grapes	Chancellor
+Southeastern New England AVA	grapes	Chardonnay
+Southeastern New England AVA	grapes	Diamond
+Southeastern New England AVA	grapes	Gewurztraminer
+Southeastern New England AVA	grapes	Blaufränkisch
+Southeastern New England AVA	grapes	Marechal Foch
+Southeastern New England AVA	grapes	Merlot
+Southeastern New England AVA	grapes	Pinot gris
+Southeastern New England AVA	grapes	Pinot noir
+Southeastern New England AVA	grapes	Riesling
+Southeastern New England AVA	grapes	Sauvignon blanc
+Southeastern New England AVA	grapes	Seyval blanc
+Southeastern New England AVA	grapes	Vidal blanc
+Southeastern New England AVA	grapes	Vignoles
+Finger Lakes AVA	grapes	Baco noir
+Finger Lakes AVA	grapes	Cabernet Franc
+Finger Lakes AVA	grapes	Cabernet Sauvignon
+Finger Lakes AVA	grapes	Catawba
+Finger Lakes AVA	grapes	Cayuga White
+Finger Lakes AVA	grapes	Chambourcin
+Finger Lakes AVA	grapes	Chancellor
+Finger Lakes AVA	grapes	Chardonnay
+Finger Lakes AVA	grapes	Chelois
+Finger Lakes AVA	grapes	Colobel
+Finger Lakes AVA	grapes	Concord
+Finger Lakes AVA	grapes	Corot noir
+Finger Lakes AVA	grapes	De Chaunac
+Finger Lakes AVA	grapes	Delaware
+Finger Lakes AVA	grapes	Diamond
+Finger Lakes AVA	grapes	Dornfelder
+Finger Lakes AVA	grapes	Gamay
+Finger Lakes AVA	grapes	Geisenheim
+Finger Lakes AVA	grapes	Gewürztraminer
+Finger Lakes AVA	grapes	Himrod
+Finger Lakes AVA	grapes	Isabella
+Finger Lakes AVA	grapes	Ives noir
+Finger Lakes AVA	grapes	Lakemont
+Finger Lakes AVA	grapes	Blaufränkisch
+Finger Lakes AVA	grapes	Leon Millot
+Finger Lakes AVA	grapes	Malbec
+Finger Lakes AVA	grapes	Marechal Foch
+Finger Lakes AVA	grapes	Melody
+Finger Lakes AVA	grapes	Merlot
+Finger Lakes AVA	grapes	Muscat Blanc à Petits Grains
+Finger Lakes AVA	grapes	Muscat Ottonel
+Finger Lakes AVA	grapes	Niagara
+Finger Lakes AVA	grapes	Noiret
+Finger Lakes AVA	grapes	Pinot blanc
+Finger Lakes AVA	grapes	Pinot gris
+Finger Lakes AVA	grapes	Pinot Meunier
+Finger Lakes AVA	grapes	Pinot noir
+Finger Lakes AVA	grapes	Riesling
+Finger Lakes AVA	grapes	Rkatsiteli
+Finger Lakes AVA	grapes	Rougeon
+Finger Lakes AVA	grapes	Saperavi
+Finger Lakes AVA	grapes	Sauvignon blanc
+Finger Lakes AVA	grapes	Sereksiya Charni
+Finger Lakes AVA	grapes	Severny
+Finger Lakes AVA	grapes	Seyval blanc
+Finger Lakes AVA	grapes	Siegfried
+Finger Lakes AVA	grapes	St. Vincent
+Finger Lakes AVA	grapes	Syrah
+Finger Lakes AVA	grapes	Traminette
+Finger Lakes AVA	grapes	Verdelet
+Finger Lakes AVA	grapes	Vidal blanc
+Finger Lakes AVA	grapes	Vignoles
+Finger Lakes AVA	grapes	Villard noir
+Finger Lakes AVA	grapes	Villard blanc
+Finger Lakes AVA	grapes	Vincent
+Finger Lakes AVA	grapes	Viognier
+The Hamptons, Long Island AVA	grapes	Aligote
+The Hamptons, Long Island AVA	grapes	Cabernet Franc
+The Hamptons, Long Island AVA	grapes	Cabernet Sauvignon
+The Hamptons, Long Island AVA	grapes	Chardonnay
+The Hamptons, Long Island AVA	grapes	Dornfelder
+The Hamptons, Long Island AVA	grapes	Gewurztraminer
+The Hamptons, Long Island AVA	grapes	Blaufränkisch
+The Hamptons, Long Island AVA	grapes	Merlot
+The Hamptons, Long Island AVA	grapes	Muscat Ottonel
+The Hamptons, Long Island AVA	grapes	Pinot blanc
+The Hamptons, Long Island AVA	grapes	Pinot gris
+The Hamptons, Long Island AVA	grapes	Pinot Meunier
+The Hamptons, Long Island AVA	grapes	Pinot noir
+The Hamptons, Long Island AVA	grapes	Sauvignon blanc
+The Hamptons, Long Island AVA	grapes	Semillon
+The Hamptons, Long Island AVA	grapes	Tocai Friulano
+North Fork of Long Island AVA	grapes	Cabernet Franc
+North Fork of Long Island AVA	grapes	Cabernet Sauvignon
+North Fork of Long Island AVA	grapes	Chardonnay
+North Fork of Long Island AVA	grapes	Chardonnay Musque
+North Fork of Long Island AVA	grapes	Gamay Beaujolais
+North Fork of Long Island AVA	grapes	Gewurztraminer
+North Fork of Long Island AVA	grapes	Malbec
+North Fork of Long Island AVA	grapes	Merlot
+North Fork of Long Island AVA	grapes	Petit Verdot
+North Fork of Long Island AVA	grapes	Pinot blanc
+North Fork of Long Island AVA	grapes	Pinot Meunier
+North Fork of Long Island AVA	grapes	Pinot noir
+North Fork of Long Island AVA	grapes	Riesling
+North Fork of Long Island AVA	grapes	Sangiovese
+North Fork of Long Island AVA	grapes	Sauvignon blanc
+North Fork of Long Island AVA	grapes	Semillon
+North Fork of Long Island AVA	grapes	Syrah
+North Fork of Long Island AVA	grapes	Viognier
+Long Island AVA	grapes	Cabernet Franc
+Long Island AVA	grapes	Cabernet Sauvignon
+Long Island AVA	grapes	Chardonnay
+Long Island AVA	grapes	Chardonnay Musque
+Long Island AVA	grapes	Merlot
+Long Island AVA	grapes	Niagara
+Long Island AVA	grapes	Petit Verdot
+Long Island AVA	grapes	Pinot gris
+Long Island AVA	grapes	Pinot noir
+Long Island AVA	grapes	Sauvignon blanc
+Long Island AVA	grapes	Tocai Friulano
+Hudson River Region AVA	grapes	Baco noir
+Hudson River Region AVA	grapes	Cabernet Franc
+Hudson River Region AVA	grapes	Cabernet Sauvignon
+Hudson River Region AVA	grapes	Cayuga White
+Hudson River Region AVA	grapes	Chambourcin
+Hudson River Region AVA	grapes	Chancellor
+Hudson River Region AVA	grapes	Chardonnay
+Hudson River Region AVA	grapes	Chelois
+Hudson River Region AVA	grapes	De Chaunac
+Hudson River Region AVA	grapes	Frontenac
+Hudson River Region AVA	grapes	Blaufränkisch
+Hudson River Region AVA	grapes	Marechal Foch
+Hudson River Region AVA	grapes	Merlot
+Hudson River Region AVA	grapes	Pinot noir
+Hudson River Region AVA	grapes	Riesling
+Hudson River Region AVA	grapes	Seyval blanc
+Hudson River Region AVA	grapes	St. Pepin
+Hudson River Region AVA	grapes	Traminette
+Hudson River Region AVA	grapes	Vidal blanc
+Balti	grapes	Aligote, Pinot, Feteasca, Traminer
+Cahul	grapes	Merlot
+Cahul	grapes	Cabernet Sauvignon
+Cahul	grapes	Rara Neagră
+Nistreana	grapes	Merlot
+Nistreana	grapes	Cabernet Sauvignon
+Nistreana	grapes	Rara Neagră
+Pico IPR	grapes	Arinto, Terrantez and Verdelho
+Snipes Mountain AVA	grapes	Cabernet Sauvignon
+Snipes Mountain AVA	grapes	Pinot noir
+Snipes Mountain AVA	grapes	Semillon
+Snipes Mountain AVA	grapes	Syrah
+Puligny-Montrachet wine	grapes	Chardonnay
+Puligny-Montrachet wine	grapes	Pinot noir
+Bergerac wine	grapes	Red: Cabernet Sauvignon, Cabernet Franc, Côt, Fer, Mérille and Merlot. White: Chenin blanc, Ondenc, Muscadelle, Sauvignon, Sémillon and Ugni blanc.
+Orléans AOC	grapes	Pinot noir, Pinot Meunier and Pinot gris for red and rosé wines.\nChardonnay and Pinot gris for white wines.
+Vinsobres AOC	grapes	Grenache
+Vinsobres AOC	grapes	Syrah
+Vinsobres AOC	grapes	Mourvedre
+Vinsobres AOC	grapes	Cinsault
+Saint-Estèphe AOC	grapes	Cabernet Franc, Cabernet Sauvignon, Carménère, Merlot, Malbec, and Petit Verdot
+Cadillac AOC	grapes	Muscadelle, Sauvignon blanc, Sauvignon gris and Sémillon.
+Saint-Véran AOC	grapes	Chardonnay
+Pouilly-sur-Loire AOC	grapes	Chasselas
+Marcillac AOC	grapes	Fer Servadou or Mansoi, Cabernet Sauvignon and Cabernet Franc
+Saint-Julien AOC	grapes	Cabernet Franc, Cabernet Sauvignon, Carménère, Merlot, Malbec, and Petit Verdot
+Jasnières	grapes	Chenin blanc
+Ajaccio AOC	grapes	Primarily Sciacarello, Grenache, Cinsault, Carignan, Vermentino , Ugni Blanc
+Touraine-Amboise	grapes	red: Cabernet Franc, Cabernet Sauvignon, Côt and Gamay; white: Chenin blanc
+Schoenenbourg	grapes	Riesling
+Schoenenbourg	grapes	Muscat
+Schoenenbourg	grapes	Pinot gris
+Yarra Valley	grapes	Chardonnay
+Yarra Valley	grapes	Pinot noir
+Yarra Valley	grapes	Cabernet Sauvignon
+Yarra Valley	grapes	Shiraz
+Mornington Peninsula	grapes	Pinot noir
+Mornington Peninsula	grapes	Chardonnay
+Mornington Peninsula	grapes	Pinot gris
+The Rocks District of Milton-Freewater AVA	grapes	cabernet franc, grenache, malbec, Syrah, tempranillo, viognier
+Eagle Peak Mendocino County AVA	grapes	Pinot noir
+Ancient Lakes of the Columbia Valley AVA	grapes	Primary Grapes Produced: Riesling, Pinot Gris, Chardonnay, Syrah, Merlot

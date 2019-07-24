@@ -1,0 +1,634 @@
+Columbia River	dischargeImperial	265000
+Mississippi River	dischargeImperial	593000
+Missouri River	dischargeImperial	87520
+Ohio River	dischargeImperial	281000
+Puget Sound	dischargeImperial	41000
+Sabine River	dischargeImperial	8400
+Snake River	dischargeImperial	54830
+Sacramento River	dischargeImperial	28139
+Rio Grande	dischargeImperial	2403
+Yakima River	dischargeImperial	3493
+River Parrett	dischargeImperial	67.45
+Potomac River	dischargeImperial	11600
+Chesapeake Bay	dischargeImperial	78300
+Illinois River	dischargeImperial	23280
+Willamette River	dischargeImperial	33220
+Milk River	dischargeImperial	618
+Charles River	dischargeImperial	302
+River Nene	dischargeImperial	328
+Red River of the North	dischargeImperial	8617
+Kansas River	dischargeImperial	7240
+Republican River	dischargeImperial	848
+Smoky Hill River	dischargeImperial	1540
+Los Angeles River	dischargeImperial	226
+Colorado River	dischargeImperial	22500
+Colorado River	dischargeImperial	2609
+Altamaha River	dischargeImperial	13520
+Red River of the South	dischargeImperial	57000
+Pecos River	dischargeImperial	265
+James River	dischargeImperial	6835
+Savannah River	dischargeImperial	11720
+Mojave River	dischargeImperial	65.7
+Minnesota River	dischargeImperial	4414
+Snoqualmie River	dischargeImperial	3710
+Santiam River	dischargeImperial	7714
+Arkansas River	dischargeImperial	40517
+Platte River	dischargeImperial	7037
+Chattahoochee River	dischargeImperial	10090
+Mohawk River	dischargeImperial	5908
+San Joaquin River	dischargeImperial	5110
+Tennessee River	dischargeImperial	70575
+Chehalis River	dischargeImperial	6425
+Cowlitz River	dischargeImperial	9122
+White River	dischargeImperial	26180
+Caddo River	dischargeImperial	267
+Mammoth Spring	dischargeImperial	322
+Deschutes River	dischargeImperial	5824
+Big Sandy River	dischargeImperial	4461
+Wenatchee River	dischargeImperial	3231
+Bruneau River	dischargeImperial	388
+Kings River	dischargeImperial	2287
+Tanana River	dischargeImperial	41800
+Tongue River	dischargeImperial	400
+Little Colorado River	dischargeImperial	405
+Molalla River	dischargeImperial	2377
+Pudding River	dischargeImperial	1237
+St. Johns River	dischargeImperial	15000
+Des Moines River	dischargeImperial	8678
+Cache La Poudre River	dischargeImperial	162
+Santa Clara River	dischargeImperial	176
+Klamath River	dischargeImperial	17080
+Merced River	dischargeImperial	1185
+Tuolumne River	dischargeImperial	2343
+Rogue River	dischargeImperial	6622
+Bighorn River	dischargeImperial	3644
+Yellowstone River	dischargeImperial	13773
+North Platte River	dischargeImperial	1355
+Green River	dischargeImperial	1316
+Green River	dischargeImperial	6121
+Little Missouri River	dischargeImperial	534
+Big Thompson River	dischargeImperial	72.5
+Fox River	dischargeImperial	4132
+Jordan River	dischargeImperial	524
+Tualatin River	dischargeImperial	1465
+Powder River	dischargeImperial	558
+Thornton Creek	dischargeImperial	11.3
+Gila River	dischargeImperial	247
+San Juan River	dischargeImperial	2192
+Gunnison River	dischargeImperial	2570
+Virgin River	dischargeImperial	183
+Yampa River	dischargeImperial	2069
+Dolores River	dischargeImperial	630
+Fryingpan River	dischargeImperial	176
+Roaring Fork River	dischargeImperial	1206
+Blue River	dischargeImperial	447
+White River	dischargeImperial	689
+Uncompahgre River	dischargeImperial	304
+Sweetwater River	dischargeImperial	120.8
+Aroostook River	dischargeImperial	1506
+Beaverhead River	dischargeImperial	371
+Jefferson River	dischargeImperial	1899
+Sun River	dischargeImperial	669
+Heart River	dischargeImperial	269
+White River	dischargeImperial	570
+Niobrara River	dischargeImperial	1718
+Laramie River	dischargeImperial	129
+Little Tennessee River	dischargeImperial	5012
+Cumberland River	dischargeImperial	37250
+Truckee River	dischargeImperial	804
+Sandy River	dischargeImperial	2300
+Cedar River	dischargeImperial	659
+French Broad River	dischargeImperial	7878
+James River	dischargeImperial	646
+Chemung River	dischargeImperial	2623
+White River	dischargeImperial	1435
+Sammamish River	dischargeImperial	304
+Clackamas River	dischargeImperial	2750
+Canadian River	dischargeImperial	6434
+Umpqua River	dischargeImperial	7343
+Salmon River	dischargeImperial	11100
+Wind River	dischargeImperial	1357
+Deschutes River	dischargeImperial	396
+Puyallup River	dischargeImperial	3313
+Lackawaxen River	dischargeImperial	1318
+Maurice River	dischargeImperial	117
+Current River	dischargeImperial	2772
+Brandywine Creek	dischargeImperial	408
+Cohocton River	dischargeImperial	467
+East Branch Delaware River	dischargeImperial	1715
+Beaver Kill	dischargeImperial	771
+Neversink River	dischargeImperial	463
+Hood River	dischargeImperial	975
+Levisa Fork	dischargeImperial	1504
+Osage River	dischargeImperial	10879
+Roanoke River	dischargeImperial	7802
+Calapooia River	dischargeImperial	898
+Marys River	dischargeImperial	448
+Santa Ana River	dischargeImperial	224
+Youghiogheny River	dischargeImperial	3477
+Humboldt River	dischargeImperial	390
+Carson River	dischargeImperial	400.9
+John Day River	dischargeImperial	2075
+Owyhee River	dischargeImperial	1146
+McKenzie River	dischargeImperial	5905
+Teton River	dischargeImperial	829
+Henrys Fork	dischargeImperial	2096
+Clark Fork River	dischargeImperial	21930
+Spokane River	dischargeImperial	7946
+Pend Oreille River	dischargeImperial	26320
+Okanogan River	dischargeImperial	3039
+Malheur River	dischargeImperial	203
+Illinois River	dischargeImperial	1262
+Coquille River	dischargeImperial	4526
+Yaquina River	dischargeImperial	248
+Elk River	dischargeImperial	716
+Coos River	dischargeImperial	1441
+Smith River	dischargeImperial	735
+Siletz River	dischargeImperial	1500
+Siuslaw River	dischargeImperial	1974
+Chetco River	dischargeImperial	2263
+South Yamhill River	dischargeImperial	1801
+Luckiamute River	dischargeImperial	872
+Salmon River	dischargeImperial	339
+Nestucca River	dischargeImperial	1050
+Alsea River	dischargeImperial	1459
+Sixes River	dischargeImperial	752
+Grande Ronde River	dischargeImperial	3034
+Long Tom River	dischargeImperial	753
+Coast Fork Willamette River	dischargeImperial	1558
+Powder River	dischargeImperial	534
+White River	dischargeImperial	423
+Kuskokwim River	dischargeImperial	67000
+Koyukuk River	dischargeImperial	14250
+Matanuska River	dischargeImperial	3875
+Appomattox River	dischargeImperial	1366
+York River	dischargeImperial	1085
+Wallowa River	dischargeImperial	610
+West Branch Susquehanna River	dischargeImperial	11229
+Dirty Devil River	dischargeImperial	101
+Paria River	dischargeImperial	28
+Bear River	dischargeImperial	2410
+Nooksack River	dischargeImperial	3814
+Holston River	dischargeImperial	4759
+Montreal River	dischargeImperial	295.2
+Trask River	dischargeImperial	989
+Wilson River	dischargeImperial	1177
+Kilchis River	dischargeImperial	422
+Walker River	dischargeImperial	164
+East Walker River	dischargeImperial	150
+West Walker River	dischargeImperial	195
+Susan River	dischargeImperial	88
+Newaukum River	dischargeImperial	500
+North Santiam River	dischargeImperial	3371
+South Santiam River	dischargeImperial	2946
+Pit River	dischargeImperial	4786
+Kern River	dischargeImperial	946
+Feather River	dischargeImperial	8321
+McCloud River	dischargeImperial	1790
+Napa River	dischargeImperial	210
+Shasta River	dischargeImperial	183
+Trinity River	dischargeImperial	4858
+Rio Hondo	dischargeImperial	165
+Amargosa River	dischargeImperial	3.8
+Owens River	dischargeImperial	389
+Eel River	dischargeImperial	9510
+Tijuana River	dischargeImperial	42.5
+Santa Margarita River	dischargeImperial	34.2
+Smith River	dischargeImperial	3748
+Williamson River	dischargeImperial	1032
+Hamma Hamma River	dischargeImperial	364.4
+Skookumchuck River	dischargeImperial	1972
+Sprague River	dischargeImperial	580
+Elwha River	dischargeImperial	1507
+Sycan River	dischargeImperial	149
+Nehalem River	dischargeImperial	2653
+Skagit River	dischargeImperial	16530
+Sauk River	dischargeImperial	4332
+Queets River	dischargeImperial	4347
+Hoh River	dischargeImperial	2538
+Salmonberry River	dischargeImperial	350
+Verde River	dischargeImperial	602
+Nisqually River	dischargeImperial	1460
+North Umpqua River	dischargeImperial	3687
+South Umpqua River	dischargeImperial	2747
+Portneuf River	dischargeImperial	418
+Willapa River	dischargeImperial	636
+Lewis River	dischargeImperial	6125
+Salinas River	dischargeImperial	421
+Conejos River	dischargeImperial	176
+Boise River	dischargeImperial	1587
+Wakarusa River	dischargeImperial	219
+Tellico River	dischargeImperial	284
+Calfkiller River	dischargeImperial	558
+Little Pigeon River	dischargeImperial	570
+Allagash River	dischargeImperial	1967
+Little River	dischargeImperial	524
+Collins River	dischargeImperial	1193
+Emory River	dischargeImperial	1466
+Sequatchie River	dischargeImperial	745
+Caney Fork River	dischargeImperial	3177
+Obed River	dischargeImperial	1062
+Nolichucky River	dischargeImperial	1378
+Chena River	dischargeImperial	1336
+Hiwassee River	dischargeImperial	2431
+Clinch River	dischargeImperial	2100
+Elk River	dischargeImperial	3137
+Pigeon River	dischargeImperial	1256
+Sligo Creek	dischargeImperial	26
+Kenai River	dischargeImperial	5922
+Noatak River	dischargeImperial	16600
+Oatka Creek	dischargeImperial	215.3
+Nushagak River	dischargeImperial	35315
+Newtown Creek	dischargeImperial	59.3
+Black River	dischargeImperial	4242
+Oswego River	dischargeImperial	6912
+Powell River	dischargeImperial	1157
+San Gabriel River	dischargeImperial	185
+River Frome, Bristol	dischargeImperial	60
+Breitenbush River	dischargeImperial	569
+Klickitat River	dischargeImperial	1572
+Coosa River	dischargeImperial	15950
+Snohomish River	dischargeImperial	9511
+Skykomish River	dischargeImperial	3973
+Tolt River	dischargeImperial	572
+Seneca River	dischargeImperial	3501
+Cosumnes River	dischargeImperial	492
+Comal River	dischargeImperial	312
+Big Blue River	dischargeImperial	982
+Fremont River	dischargeImperial	83.9
+Oneida Creek	dischargeImperial	175
+Flathead River	dischargeImperial	11380
+Chandalar River	dischargeImperial	5007
+Androscoggin River	dischargeImperial	6174
+Palouse River	dischargeImperial	599
+Yellow Medicine River	dischargeImperial	142
+Little Arkansas River	dischargeImperial	315
+Cimarron River	dischargeImperial	1163
+Redwood River	dischargeImperial	153
+Arroyo Seco	dischargeImperial	10.1
+North Fork Gunnison River	dischargeImperial	227
+Lac qui Parle River	dischargeImperial	157
+Navarro River	dischargeImperial	500
+Bitterroot River	dischargeImperial	2370
+Payette River	dischargeImperial	2803
+Washougal River	dischargeImperial	873
+Little Wood River	dischargeImperial	351
+Boeuf River	dischargeImperial	281
+Little Deschutes River	dischargeImperial	201
+Minam River	dischargeImperial	455
+Mokelumne River	dischargeImperial	996
+Gauley River	dischargeImperial	2680
+Swan River	dischargeImperial	1155
+Hanford Reach	dischargeImperial	118400
+Rondout Creek	dischargeImperial	1600
+San Marcos River	dischargeImperial	236
+Elk River	dischargeImperial	2650
+Shade River	dischargeImperial	174
+Blue Earth River	dischargeImperial	1076
+Wild Rice River	dischargeImperial	104
+Butte Creek	dischargeImperial	411
+Sac River	dischargeImperial	1670
+Blackwater River	dischargeImperial	189
+Dry Fork	dischargeImperial	756
+Clear Creek	dischargeImperial	211
+Stanislaus River	dischargeImperial	961
+Yuba River	dischargeImperial	2432
+Williams River	dischargeImperial	30
+Santa Ynez River	dischargeImperial	127
+Arikaree River	dischargeImperial	16.7
+Alamo River	dischargeImperial	847
+San Diego River	dischargeImperial	38.3
+Tule River	dischargeImperial	197
+Neosho River	dischargeImperial	8954
+Verdigris River	dischargeImperial	4644
+Methow River	dischargeImperial	1522
+Stehekin River	dischargeImperial	1403
+Weber River	dischargeImperial	341
+Cranberry River	dischargeImperial	317
+Twelvepole Creek	dischargeImperial	8.3
+Paulins Kill	dischargeImperial	76
+Link River	dischargeImperial	1276
+Bull Run River	dischargeImperial	404
+Le Sueur River	dischargeImperial	549
+Watonwan River	dischargeImperial	391
+Maramec Spring	dischargeImperial	153
+Coeur d'Alene River	dischargeImperial	2521
+Blackfoot River	dischargeImperial	210
+Marais des Cygnes River	dischargeImperial	2189
+Marmaton River	dischargeImperial	1051
+Little Osage River	dischargeImperial	369
+Salt Fork Arkansas River	dischargeImperial	927
+West Canada Creek	dischargeImperial	1356
+Petaluma River	dischargeImperial	17
+Kelsey Creek	dischargeImperial	22.5
+Toutle River	dischargeImperial	2095
+Ellicott Creek	dischargeImperial	100
+Pomme de Terre River	dischargeImperial	546
+Niangua River	dischargeImperial	450
+Little Niangua River	dischargeImperial	150
+Larrys Creek	dischargeImperial	66
+Mother Brook	dischargeImperial	23
+Medicine Lodge River	dischargeImperial	147
+Carbon River	dischargeImperial	427
+Esopus Creek	dischargeImperial	507
+White Deer Hole Creek	dischargeImperial	70.4
+Tumalo Creek	dischargeImperial	75
+Sespe Creek	dischargeImperial	126
+Nacimiento River	dischargeImperial	272
+Santa Maria River	dischargeImperial	30.2
+San Luis Rey River	dischargeImperial	36.3
+Kaweah River	dischargeImperial	554
+Cache Creek	dischargeImperial	533
+Cispus River	dischargeImperial	1001
+Calaveras River	dischargeImperial	225
+Pajaro River	dischargeImperial	163
+Whitewater River	dischargeImperial	3.53
+San Jacinto River	dischargeImperial	16.4
+Sweetwater River	dischargeImperial	14.7
+Ventura River	dischargeImperial	72.6
+Garcia River	dischargeImperial	342
+Salmon River	dischargeImperial	1804
+Mattole River	dischargeImperial	1288
+Mad River	dischargeImperial	1573
+Redwood Creek	dischargeImperial	1006
+Van Duzen River	dischargeImperial	1700
+Scott River	dischargeImperial	627
+Chowchilla River	dischargeImperial	99.8
+Fresno River	dischargeImperial	110
+Piru Creek	dischargeImperial	60.3
+Baker River	dischargeImperial	2649
+Samish River	dischargeImperial	245
+St. Marks River	dischargeImperial	1122
+Putah Creek	dischargeImperial	477
+Ochlockonee River	dischargeImperial	1796
+Symmes Creek	dischargeImperial	426
+Fishkill Creek	dischargeImperial	205
+Tuckasegee River	dischargeImperial	1584
+Hat Creek	dischargeImperial	472.2
+Bear Creek	dischargeImperial	114
+Kuparuk River	dischargeImperial	1400
+Sagavanirktok River	dischargeImperial	4700
+Chama River	dischargeImperial	571
+Silvies River	dischargeImperial	185
+Salmon River	dischargeImperial	527
+Lostine River	dischargeImperial	193
+New River	dischargeImperial	350
+Warm Springs River	dischargeImperial	432
+Donner und Blitzen River	dischargeImperial	126
+Russian River	dischargeImperial	2261
+Jordan Creek	dischargeImperial	157
+Tucannon River	dischargeImperial	170
+Fossil Creek	dischargeImperial	43
+Provo River	dischargeImperial	200
+Fishing Creek	dischargeImperial	615
+Shawangunk Kill	dischargeImperial	138
+Crab Creek	dischargeImperial	201
+Straight River	dischargeImperial	293
+Imnaha River	dischargeImperial	511
+Lochsa River	dischargeImperial	2822
+Salcha River	dischargeImperial	1601
+Roubidoux Spring	dischargeImperial	58
+Kettle River	dischargeImperial	2906
+Pithlachascotee River	dischargeImperial	25.42
+Rio Puerco	dischargeImperial	39.5
+Umatilla River	dischargeImperial	494
+Applegate River	dischargeImperial	720
+Middle Fork River	dischargeImperial	356
+Wheeling Creek	dischargeImperial	115
+Wheeling Creek	dischargeImperial	343
+Issaquah Creek	dischargeImperial	130
+Johnson Creek	dischargeImperial	77.5
+Entiat River	dischargeImperial	471
+Raging River	dischargeImperial	130
+Solomon River	dischargeImperial	555
+Saline River	dischargeImperial	214
+Cow Creek	dischargeImperial	1230
+Ninnescah River	dischargeImperial	522
+Yellow River	dischargeImperial	374.4
+Colville River	dischargeImperial	429
+Naches River	dischargeImperial	4001
+Bumping River	dischargeImperial	282
+American River	dischargeImperial	233
+Malad River	dischargeImperial	286
+Big Wood River	dischargeImperial	464
+Lemhi River	dischargeImperial	251
+Pahsimeroi River	dischargeImperial	230
+Sol Duc River	dischargeImperial	1270
+Yaak River	dischargeImperial	850
+Moyie River	dischargeImperial	685
+Fisher River	dischargeImperial	477
+Crooked River	dischargeImperial	1544
+Chiwawa River	dischargeImperial	509
+Cottonwood River	dischargeImperial	381
+Little Cottonwood River	dischargeImperial	72.5
+Tryon Creek	dischargeImperial	8.72
+Shoshone River	dischargeImperial	1037
+Pomme de Terre River	dischargeImperial	132
+Middle Fork Willamette River	dischargeImperial	4087
+Yellow Bank River	dischargeImperial	69.3
+Long Prairie River	dischargeImperial	166
+Shell River	dischargeImperial	250
+Valley Creek	dischargeImperial	19
+Straight River	dischargeImperial	60.8
+Chelan River	dischargeImperial	2042
+Calfpasture River	dischargeImperial	169
+North Fork Feather River	dischargeImperial	2930
+Homochitto River	dischargeImperial	1156
+San Juan Creek	dischargeImperial	26.1
+Lyre River	dischargeImperial	366
+Giant Springs	dischargeImperial	242
+Bear River	dischargeImperial	410
+Sager Creek	dischargeImperial	24.2
+Burnt River	dischargeImperial	131
+Row River	dischargeImperial	728
+Nissequogue River	dischargeImperial	42.2
+Salmon River	dischargeImperial	288
+Aliso Creek	dischargeImperial	9.2
+Juanita Creek	dischargeImperial	11.1
+Middle Fork Feather River	dischargeImperial	1489.5
+East Branch North Fork Feather River	dischargeImperial	1000
+South Fork Kern River	dischargeImperial	105
+Oso Creek	dischargeImperial	33
+Bybrook River	dischargeImperial	57.25
+Gales Creek	dischargeImperial	202
+South Fork Republican River	dischargeImperial	35.1
+Bill Williams River	dischargeImperial	140
+Rush Creek	dischargeImperial	90
+Blacks Fork	dischargeImperial	292
+Fanno Creek	dischargeImperial	43.9
+Balch Creek	dischargeImperial	1.05
+South Fork Solomon River	dischargeImperial	40.5
+Columbia Slough	dischargeImperial	93.8
+Salt Creek	dischargeImperial	2.2
+Santiago Creek	dischargeImperial	6.3
+Black River	dischargeImperial	420
+Quartzville Creek	dischargeImperial	652
+Hylebos Creek	dischargeImperial	29.2
+Oak Grove Fork Clackamas River	dischargeImperial	486
+Laguna Canyon	dischargeImperial	0
+Blue River	dischargeImperial	457
+Kalama River	dischargeImperial	1219
+North Fork John Day River	dischargeImperial	1297
+Pilchuck River	dischargeImperial	467
+Chewuch River	dischargeImperial	370
+Suiattle River	dischargeImperial	1750
+South Fork John Day River	dischargeImperial	179
+Matilija Creek	dischargeImperial	43.3
+Bridge Creek	dischargeImperial	48
+Trabuco Creek	dischargeImperial	17.4
+Middle Fork John Day River	dischargeImperial	257
+Dairy Creek	dischargeImperial	76.9
+Fairview Creek	dischargeImperial	5.78
+San Diego Creek	dischargeImperial	61
+Aliso Creek	dischargeImperial	3
+Sultan River	dischargeImperial	735
+Miller River	dischargeImperial	326
+Wenaha River	dischargeImperial	390
+Mashel River	dischargeImperial	221
+Boeing Creek	dischargeImperial	2.7
+Swamp Creek	dischargeImperial	33.9
+North Yuba River	dischargeImperial	1248
+Big Spring	dischargeImperial	470
+Greer Spring	dischargeImperial	360
+Sulphide Creek	dischargeImperial	540
+Course of the Rogue River	dischargeImperial	6622
+Naselle River	dischargeImperial	425
+Sulphur Creek	dischargeImperial	2.3
+Elk Creek	dischargeImperial	214
+South Fork Rogue River	dischargeImperial	74.9
+Coyote Creek	dischargeImperial	43.5
+Grave Creek	dischargeImperial	132
+Brea Creek	dischargeImperial	1.4
+American River	dischargeImperial	3685
+South Fork Eel River	dischargeImperial	1845
+Satsop River	dischargeImperial	2039
+Alamito Creek	dischargeImperial	20
+Terlingua Creek	dischargeImperial	54
+Dog River	dischargeImperial	125.3
+Latah Creek	dischargeImperial	231
+Calawah River	dischargeImperial	1048
+Tye River	dischargeImperial	305
+South Fork Trinity River	dischargeImperial	1807
+Mad River	dischargeImperial	76.7
+Beckler River	dischargeImperial	605
+Little Applegate River	dischargeImperial	226
+North Fork Clearwater River	dischargeImperial	5687.5
+Icicle Creek	dischargeImperial	614
+Rex River	dischargeImperial	100
+Clearwater River	dischargeImperial	15300
+North Fork Flathead River	dischargeImperial	2976
+Middle Fork Flathead River	dischargeImperial	2854
+Pysht River	dischargeImperial	167.2
+San Mateo Creek	dischargeImperial	12.1
+Little Butte Creek	dischargeImperial	232.3
+Atascadero Creek	dischargeImperial	6.31
+Salmon Falls Creek	dischargeImperial	345
+Poesten Kill	dischargeImperial	130
+River Boyd	dischargeImperial	19.8
+San Dieguito River	dischargeImperial	50
+Sand Canyon Wash	dischargeImperial	1.05
+Little Sandy River	dischargeImperial	143
+South Fork Bull Run River	dischargeImperial	111
+Tetbury Avon	dischargeImperial	24.4
+Woodbridge Brook	dischargeImperial	20.5
+Puerco River	dischargeImperial	70
+Little Salmon River	dischargeImperial	731
+North Fork Bull Run River	dischargeImperial	72.6
+Potlatch River	dischargeImperial	379.8
+Duchesne River	dischargeImperial	522
+Big Butte Creek	dischargeImperial	244
+Battle Creek	dischargeImperial	501
+Blazed Alder Creek	dischargeImperial	57.5
+Fir Creek	dischargeImperial	34.5
+Little Cottonwood Creek	dischargeImperial	111
+Big Cottonwood Creek	dischargeImperial	31.3
+Red Butte Creek	dischargeImperial	4.7
+Middle Fork Eel River	dischargeImperial	1472
+North Fork Eel River	dischargeImperial	644
+City Creek	dischargeImperial	10.1
+Course of the Willamette River	dischargeImperial	33800
+Patroon Creek	dischargeImperial	30.6
+Jemez River	dischargeImperial	59.5
+Rio Pueblo de Taos	dischargeImperial	61.2
+Santa Anita Creek	dischargeImperial	9
+Cow Creek	dischargeImperial	856
+South Yuba River	dischargeImperial	454
+Middle Yuba River	dischargeImperial	383
+Muddy River	dischargeImperial	865
+Stony Creek	dischargeImperial	442
+Jordan Creek	dischargeImperial	183
+North Fork Coquille River	dischargeImperial	945
+Willow Creek	dischargeImperial	31.3
+Bully Creek	dischargeImperial	40.4
+South Fork Coquille River	dischargeImperial	778
+North Fork Malheur River	dischargeImperial	87.9
+West Little Owyhee River	dischargeImperial	18
+South Fork Feather River	dischargeImperial	305
+North Fork American River	dischargeImperial	2289
+Normans Kill	dischargeImperial	150
+Beaver River	dischargeImperial	51.5
+North Fork Payette River	dischargeImperial	1299
+White River	dischargeImperial	10
+Pawnee River	dischargeImperial	57.9
+Big Lost River	dischargeImperial	86.3
+Little Lost River	dischargeImperial	64.1
+Chino Creek	dischargeImperial	19.9
+North Fork Kings River	dischargeImperial	337
+Hayfork Creek	dischargeImperial	552
+North Fork Trinity River	dischargeImperial	431
+South Fork Kings River	dischargeImperial	656
+Mill Creek	dischargeImperial	25.6
+Lee Vining Creek	dischargeImperial	65.4
+Big Tujunga Creek	dischargeImperial	28.1
+Copper Creek	dischargeImperial	305
+Green River	dischargeImperial	479
+Big Sandy Creek	dischargeImperial	50
+Rock Creek	dischargeImperial	80
+Rock Creek	dischargeImperial	80
+Thompson River	dischargeImperial	1059
+Millicoma River	dischargeImperial	518
+Winchuck River	dischargeImperial	494
+Arroyo Seco	dischargeImperial	168
+San Antonio Creek	dischargeImperial	10.7
+Middle Fork American River	dischargeImperial	1111
+New Fork River	dischargeImperial	712
+Ohanapecosh River	dischargeImperial	572.92
+Whitewater River	dischargeImperial	84.2
+Little North Santiam River	dischargeImperial	746
+Onondaga Creek	dischargeImperial	183
+Salt River	dischargeImperial	2120
+Spanish Fork River	dischargeImperial	237
+Cottonwood River	dischargeImperial	1239
+South Fork Salmon River	dischargeImperial	1983
+Middle Fork Clearwater River	dischargeImperial	6532
+South Fork Clearwater River	dischargeImperial	998
+South Fork McKenzie River	dischargeImperial	853
+Amon Creek	dischargeImperial	54
+Chadakoin River	dischargeImperial	370
+Granite Creek	dischargeImperial	7
+San Timoteo Creek	dischargeImperial	4.29
+White River	dischargeImperial	188
+Leatherwood Creek	dischargeImperial	82.9
+Eagle River	dischargeImperial	527
+North Fork Salmon River	dischargeImperial	90.4
+Secesh River	dischargeImperial	194
+Yankee Fork Salmon River	dischargeImperial	199
+Big Creek	dischargeImperial	51
+Sucker Brook	dischargeImperial	14
+North Powder River	dischargeImperial	90
+Little Malheur River	dischargeImperial	18
+Thomas Creek	dischargeImperial	487
+North Fork Crooked River	dischargeImperial	368
+Roaring River	dischargeImperial	170
+Chester Creek	dischargeImperial	21
+Butternut Creek	dischargeImperial	49.5
+North Fork Solomon River	dischargeImperial	121
+North Fork Ninnescah River	dischargeImperial	119
+Cottonwood Creek	dischargeImperial	874
+North Fork Smith River	dischargeImperial	214
+North Fork Smith River	dischargeImperial	942
+Eagle Creek	dischargeImperial	316
+Lake Creek	dischargeImperial	706
+Campbell Creek	dischargeImperial	68
+Cow Creek	dischargeImperial	672
+Canaseraga Creek	dischargeImperial	309

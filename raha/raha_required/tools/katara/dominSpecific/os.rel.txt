@@ -1,0 +1,1756 @@
+MessagePad	os	Newton OS
+Amiga	os	AmigaOS on Kickstart
+Acorn Electron	os	Acorn MOS v1.0
+Apple III	os	Apple SOS
+Atari ST	os	Digital Research's GEM run via Atari TOS
+Amstrad CPC	os	AMSDOS with Locomotive BASIC 1.0 or 1.1; CP/M 2.2 or 3.0
+Apple II	os	Integer BASIC
+Amiga 1000	os	AmigaOS 1.0
+Amiga 500	os	AmigaOS v1.2 - 1.3
+Amiga 500 Plus	os	AmigaOS v2.04
+BeBox	os	BeOS
+Commodore 1541	os	Commodore DOS
+Commodore 1581	os	Commodore DOS
+Commodore 64	os	Commodore
+Commodore 64	os	KERNAL
+Commodore 64	os	/
+Commodore 64	os	Commodore BASIC
+Commodore 64	os	2
+Commodore 64	os	GEOS
+Commodore 1570	os	Commodore DOS
+Commodore 1571	os	Commodore DOS
+IBM Personal Computer	os	IBM BASIC / PC DOS 1.0
+IBM Personal Computer	os	M-86
+IBM Personal Computer	os	UCSD Pascal
+PlayStation 3	os	PlayStation 3 system software
+Sinclair QL	os	Sinclair QDOS
+TRS-80	os	TRSDOS
+TRS-80	os	,
+TRS-80	os	80
+TRS-80 Color Computer	os	Color BASIC 1.0 / 2.0 / OS-9
+ZX80	os	Sinclair BASIC
+ZX Spectrum	os	Sinclair BASIC
+ZX81	os	Sinclair BASIC
+Cray-1	os	Cray Operating System
+PalmPilot	os	Palm OS 2.0
+Simputer	os	Linux
+NeXT Computer	os	NeXTSTEP
+NeXT Computer	os	OPENSTEP
+RiscPC	os	RISC OS
+Acorn Archimedes	os	RISC OS or RISC iX
+Amiga 600	os	AmigaOS 2.05
+BlackBerry	os	BlackBerry 10
+BlackBerry	os	Android
+BlackBerry	os	QNX
+Commodore 128	os	Commodore BASIC 7.0
+Commodore 128	os	Digital Research CP/M 3.0
+Commodore VIC-20	os	Commodore
+Commodore VIC-20	os	KERNAL
+Commodore VIC-20	os	/
+Commodore VIC-20	os	Commodore BASIC
+Commodore VIC-20	os	2
+Apple IIe	os	Apple DOS
+Apple IIe	os	ProDOS
+Apple Lisa	os	Lisa OS
+Apple Lisa	os	Xenix
+Amiga 3000	os	Kickstart
+Amiga 3000	os	Unix SVR4
+Amiga 2000	os	Amiga OS 1.2/1.3 or 2.0
+Xerox Star	os	Pilot
+Atari Transputer Workstation	os	HeliOS
+Power Mac G4 Cube	os	Mac OS 9, Mac OS X up to 10.4.11
+Macintosh Plus	os	3
+Macintosh Classic	os	6
+Power Macintosh 8500	os	System 7
+Power Macintosh 8500	os	Mac OS 8
+Power Macintosh 8500	os	Mac OS 9
+MSX	os	MSX-DOS
+MSX	os	MSX BASIC
+Amstrad PCW	os	On most models, CP/M Plus; but Locoscript ran as a standalone application.
+Amstrad PCW	os	The last model  used a custom GUI operating system
+ABC 80	os	16
+Electronika BK	os	FOCAL (programming language), Vilnius BASIC , OS BK-11, ANDOS etc.
+Macintosh II	os	4.1
+Xerox 820	os	CP/M 2.2
+Osborne 1	os	M
+Macintosh IIci	os	System 6.0.4-System 7.1.1, System 7.5-Mac OS 7.6.1
+30	os	System 6.0.3 – Mac OS 8.1 (with 68040 processor upgrade)
+Iyonix PC	os	RISC OS
+Iyonix PC	os	Linux
+Phoebe	os	RISC OS 4
+Pentagon	os	Sinclair BASIC
+Pentagon	os	TR-DOS
+Vulcan FlipStart	os	Windows XP and Vista
+Commodore CDTV	os	AmigaOS 1.3
+Apple IIGS	os	Apple ProDOS
+Apple IIGS	os	OS
+SAM Coupé	os	SAM BASIC
+Amstrad CPC 464	os	AmsDos
+Apple IIc	os	ProDOS
+Mattel Aquarius	os	Microsoft BASIC
+Amiga 4000	os	AmigaOS 3.0
+IBM PCjr	os	IBM PC DOS 2.10
+4A	os	4A)
+Canon Cat	os	Forth
+N-Gage	os	Symbian OS 6.1
+4	os	Commodore BASIC 3.5
+AT	os	PC DOS 3.0 and later, OS/2 1.x, PC/IX 1.1, IBM & SCO Xenix
+Electronika 60	os	RT-11 and other
+Tandy 2000	os	MS-DOS
+Tandy 2000	os	Xenix
+Macintosh Portable	os	System 6.0.4
+Macintosh 512Ke	os	1
+Macintosh SE	os	3.3
+Macintosh Color Classic	os	System 7
+Wii	os	Wii system software
+Timex Sinclair 2068	os	Sinclair BASIC
+Loki	os	SuperBASIC variant
+PC1512	os	MS-DOS 3.2 and DOS Plus
+Atari Falcon	os	Atari TOS
+Atari Falcon	os	MiNT
+Macintosh 512K	os	1
+Macintosh 128K	os	System 1
+Nokia 7610	os	S60 v2.1 UI on Symbian OS v7.0
+Osborne Vixen	os	M
+ABC 800	os	24
+ABC 800	os	ROM for BASIC II
+IMSAI 8080	os	First commercial supplier of
+IMSAI 8080	os	Digital Research's CP/M, later followed by derived IMDOS
+IMSAI 8080	os	BASIC
+IMSAI 8080	os	FORTRAN
+Samsung SPH-i550	os	Palm OS 5.4
+Macintosh XL	os	MacWorks XL/System 1.1, 2.0, 2.1, 3.0, 3.2; MacWorks Plus/System 1.1–6.0.3; MacWorks Plus II/System 1.1–6.0.8, 7.0–7.5.5
+PlayStation Portable	os	PlayStation Portable system software
+Tapwave Zodiac	os	Palm OS
+NeXTstation	os	NeXTSTEP
+NeXTstation	os	OPENSTEP
+NeXTstation	os	NetBSD
+Commodore 65	os	Commodore BASIC 10.0
+Commodore SX-64	os	Commodore
+Commodore SX-64	os	KERNAL
+Commodore SX-64	os	Commodore BASIC
+Commodore SX-64	os	2
+X68000	os	Human68k
+X68000	os	NetBSD
+X68000	os	OS-9
+Power Macintosh 7100	os	System 7
+Power Macintosh 7100	os	Mac OS 8
+Power Macintosh 7100	os	Mac OS 9
+FM Towns	os	Towns OS, Windows 95B OSR2
+Kyocera 6035	os	Palm OS
+SGI Fuel	os	IRIX
+Tatung Einstein	os	Xtal DOS
+Commodore CBM-II	os	Microsoft BASIC 4.0
+23	os	BASIC built-in
+Hobbit	os	Sinclair BASIC
+Hobbit	os	Logo
+Hobbit	os	M
+Hobbit	os	Forth
+TRS-80 MC-10	os	8
+Samsung SPH-i500	os	Palm OS 4.1
+Philips P2000	os	4
+MicroBee	os	MicroWorld BASIC
+MicroBee	os	DGOS
+COSMAC VIP	os	4
+Treo 650	os	Palm OS 5.4.x
+Nokia 6600	os	7.0
+IMac G4	os	Mac OS 9 and Mac OS X
+IMac G3	os	Mac OS 8, Mac OS 9 and Mac OS X
+IMac G3	os	Mac OS 8.1, up to Mac OS X 10.3.9
+IMac G3	os	Mac OS 8.6, up to Mac OS X 10.4.11
+Atari Portfolio	os	DIP DOS 2.11
+TRS-80 Model 100	os	Custom dedicated runtime in firmware
+Econet	os	Acorn MOS
+Macintosh IIvx	os	System 7
+Macintosh IIvi	os	System 7
+HP 200LX	os	Hewlett-Packard MS-DOS 5.0
+Compaq Portable	os	MS-DOS
+Nokia 6630	os	Symbian OS 8.0a + S60 2nd Edition FP2
+Atari TT030	os	Atari TOS 3.0x
+TK90X	os	Sinclair BASIC
+Magic Link	os	Magic Cap
+Macintosh Quadra 950	os	7
+AlphaSmart	os	Palm OS 4.1.2
+BBC Master	os	Acorn MOS, optional DOS Plus
+Acorn Business Computer	os	Panos
+Acorn Business Computer	os	Concurrent DOS
+Acorn Network Computer	os	NCOS (on 4096k ROM)
+Power Macintosh 6100	os	System 7
+Power Macintosh 6100	os	Mac OS 8
+Power Macintosh 6100	os	Mac OS 9
+Macintosh Quadra 700	os	System 7.0.1-System 7.1.2, System 7.5-Mac OS 8.1, or with PowerPC upgrade, Mac OS 9.1
+Rainbow 100	os	M
+Rainbow 100	os	MS-DOS
+Rainbow 100	os	UCSD p-System
+Rainbow 100	os	M
+Rainbow 100	os	Venix
+LifeDrive	os	Palm OS Garnet 5.4.8
+PC-9800 series	os	M-86
+PC-9800 series	os	MS-DOS
+PC-9800 series	os	2
+PC-9800 series	os	Windows
+A9home	os	RISC OS
+Commodore 8050	os	Commodore DOS
+Data General-One	os	MS-DOS
+Power Macintosh 7500	os	System 7
+Power Macintosh 7500	os	Mac OS 8
+Power Macintosh 7500	os	Mac OS 9
+Actrix	os	CP/M-80 V2.2
+Palm i705	os	Palm OS 4.1
+SV-318	os	Microsoft BASIC
+SV-328	os	Microsoft BASIC
+SV-328	os	M
+Sendo X2	os	S60
+Dubna 48K	os	Sinclair BASIC
+Pilot 1000	os	Palm OS 1.0
+Intertec Superbrain	os	M
+Sectéra Secure Module	os	Microsoft CE
+Samsung Minikit	os	Linux
+GP2X	os	Linux kernel
+Motorola Rokr	os	MontaVista Linux OS
+ATM	os	Sinclair BASIC
+ATM	os	TR-DOS
+ATM	os	M
+ATM	os	IS-DOS
+ATM	os	TASiS
+ATM	os	DNA OS
+ATM	os	Mr Gluk Reset Service
+Epson PX-8 Geneva	os	CP/M-80
+NeXTcube	os	NeXTSTEP
+NeXTcube	os	OPENSTEP
+NeXTcube	os	NetBSD
+Palm TX	os	Palm OS Garnet, 5.4.9
+Commodore LCD	os	Commodore BASIC 3.6
+BlackDog	os	Debian-based
+Atari MEGA STE	os	Atari TOS
+Treo 700w	os	Windows Mobile
+Power Macintosh 7600	os	System 7
+Power Macintosh 7600	os	Mac OS 8
+Power Macintosh 7600	os	Mac OS 9.1
+HTC Wizard	os	Windows Mobile 5.0
+TK95	os	Sinclair BASIC
+Gavilan SC	os	MS-DOS
+Palm III	os	Palm OS 3.0
+IBM Simon	os	Datalight ROM-DOS
+Motorola A780	os	MontaVista Linux OS
+SDS 940	os	Berkeley Timesharing System
+Treo 180	os	Palm OS 3.5.2H
+Xerox NoteTaker	os	Smalltalk
+MacBook Pro	os	OS X
+PowerBook 190	os	System 7
+UKNC	os	RAFOS, FODOS, RT-11
+PowerBook 3400c	os	System 7
+Macintosh Quadra 605	os	Mac OS 7.1-7.5.1, 7.5.3, 7.5.5-8.1 or with PowerPC upgrade, Mac OS 9.1
+Macintosh Quadra 900	os	System 7.0.1–Mac OS 8.1
+PowerBook 5300	os	System 7
+Lemote	os	GNU/Linux
+Power Macintosh 9500	os	System 7
+Power Macintosh 9500	os	Mac OS 8
+Power Macintosh 9500	os	Mac OS 9
+Power Macintosh 4400	os	System 7
+Power Macintosh 4400	os	Mac OS 8
+Power Macintosh 4400	os	Mac OS 9
+HP-75	os	BASIC
+IBM 3270 PC	os	3270
+IBM 3270 PC	os	IBM 3270 Workstation Program with PC DOS 3.3
+TIM-011	os	CP/M with ZCPR3
+Iskra Delta Partner	os	CP/M version 3.0
+Iskra Delta Partner	os	and/or
+Iskra Delta Partner	os	M
+Orao	os	Orao BASIC
+Power Macintosh 6200	os	System 7.5.1 to Mac OS 9.1
+Power Macintosh 6200	os	System 7.5.3 to Mac OS 9.1
+Power Macintosh 6200	os	System 7.5.5 to Mac OS 9.1
+Power Macintosh 8600	os	System 7.5.5-Mac OS 9.1, or with G3 upgrade, Mac OS X 10.2.8
+Power Macintosh 7300	os	System 7
+Power Macintosh 7300	os	Mac OS 9
+Palm VII	os	Palm OS 3.2
+Power Macintosh 7200	os	System 7
+Virgin Webplayer	os	QNX-based
+Power Macintosh 9600	os	System 7.5.5-Mac OS 9.1 officially supported, Mac OS 9.2.2 with OS 9 Helper, Mac OS X 10.2.8 if XPostFacto is used for unofficial support, Mac OS X 10.4.11 with XPostFacto and a G3 CPU upgrade, or Mac OS X 10.5 with a G4 CPU upgrade
+Macintosh Quadra 840AV	os	System 7.1-System 7.1.2, System 7.5-Mac OS 8.1, or with PowerPC upgrade, Mac OS 9.1
+Macintosh Quadra 660AV	os	System 7.1–Mac OS 8.1, or with PowerPC upgrade Mac OS 9.1
+Macintosh Quadra 630	os	System 7.1.2P, System 7.5-Mac OS 8.1, or with PowerPC upgrade Mac OS 9.1
+CompuMate	os	Microsoft BASIC
+Macintosh Quadra 610	os	System 7.1 to Mac OS 8.1; 9.1 with PowerPC upgrade
+Macintosh Quadra 650	os	System 7.1 to OS 8.1 or with PowerPC Upgrade OS 9.1, A/UX
+Macintosh LC 500 series	os	System 7.1-Mac OS 7.6.1, or with 68040 upgrade, Mac OS 8.1
+Macintosh LC 500 series	os	System 7
+Macintosh LC 500 series	os	Mac OS 7.1.1 to 7.5.1, 7.5.3 to 7.6.1, 8.0 to 8.1
+Macintosh LC 500 series	os	System 7.1.2P, 7.5 to 7.5.1, 7.5.3 to 7.6.1, 8.0 to 8.1
+Sharp PC-5000	os	MS-DOS
+Toshiba Satellite	os	All Windows versions
+PowerBook 1400	os	System 7
+PowerBook 2400c	os	System 7
+Treo 700p	os	Palm OS 5.4.9
+AT&T Unix PC	os	AT&T Unix v3.51
+Samsung SPH-i700	os	Windows Mobile
+Sony CLIÉ PEG-TJ35	os	Palm OS 5.2.1 on Flash ROM
+PowerBook 100	os	System 6.0.8L
+PowerBook 100	os	7
+HTC Typhoon	os	Windows Mobile
+Amiga 4000T	os	AmigaOS 3.1
+Buffalo network-attached storage series	os	Linux
+Zune	os	Windows Embedded CE 6.0
+Timex Computer 2048	os	Sinclair BASIC
+Nokia 6103	os	Series 40
+Mylo	os	Qtopia
+Geneve 9640	os	Myarc Disk Operating System
+Apple II Plus	os	Apple DOS
+Apple II Plus	os	Apple Pascal
+Apple II Plus	os	Apple ProDOS
+FM-7	os	Fujitsu Disk Basic
+FM-7	os	OS-9
+FM-7	os	FLEX
+Motorola Ming	os	Linux-based, kernel 2.4.20
+Motorola Ming	os	Linux
+Motorola Ming	os	Android 1.6 Donut
+Treo 700wx	os	Windows Mobile
+TVC	os	BASIC programming language
+HTC TyTN	os	Windows Mobile 6.0 Professional, Android
+PowerBook 180	os	System 7.1–Mac OS 7.6.1
+Apple TV	os	1
+Apple TV	os	(Based on Mac OS X 10.4)
+Apple TV	os	2010-02-10
+Apple TV	os	2
+Apple TV	os	(Based on iOS 7.1.2)
+Apple TV	os	2014-06-30
+Apple TV	os	3
+Apple TV	os	(Based on iOS 8.4.1)
+Apple TV	os	2016-02-25
+Apple TV	os	4
+Apple TV	os	2016-09-13
+NEC UltraLite	os	MS-DOS 3.3
+Treo 680	os	Palm OS Garnet v5.4.9
+Palm V	os	Palm OS 3.1
+Samsung SGH-C417	os	Proprietary software
+Xbox 360	os	Xbox 360 system software
+Palm Vx	os	Palm OS 3.3
+Nokia N73	os	Symbian OS v9.1 + S60 3rd Edition
+Sansa e200 series	os	Proprietary firmware or Rockbox
+Classmate PC	os	Windows XP Professional
+Classmate PC	os	Mandriva Linux
+Classmate PC	os	Metasys Classmate 2.0
+Classmate PC	os	for the Classmate PC, Microsoft Innovation Suite 1.0, 2.0, 2.5
+Research Machines 380Z	os	M
+Toshiba T1100	os	MS-DOS 2.11
+Tianhua GX-1C	os	Linux, Future Alpha
+Osborne Executive	os	M
+Osborne Executive	os	CPM +
+SVI-728	os	MSX
+Samsung SCH-U520	os	BREW
+Amstrad Mega PC	os	MS-DOS 5.0 with Amstrad Desktop
+Nokia 2650	os	Series 40
+IPhone	os	IOS
+HTC Excalibur	os	Windows Mobile
+HTC Excalibur	os	5
+1chipMSX	os	MSX-DOS
+1chipMSX	os	MSX BASIC
+Neo 1973	os	Openmoko Linux, Qtopia
+Wang 2200	os	Wang MOS, BASIC
+Samsung SGH-i300	os	Windows Mobile
+Samsung SGH-i600	os	Windows Mobile 5/6
+Toshiba T1200	os	MS-DOS 3.3
+Casio BE-300	os	Windows CE 3.0
+Sony Ericsson K810i	os	Sony Ericsson Java Platform
+PowerBook Duo 230	os	System 7.1 to System 7.5.5
+PowerBook Duo 210	os	System 7.1 to System 7.5.5
+Nokia 6300	os	Series 40
+BT Home Hub	os	Linux
+PowerBook 160	os	System 7
+Greenphone	os	Qtopia Phone Edition
+Samsung SGH-i607	os	Windows Mobile
+HP 620LX	os	Windows CE 2.0
+MSN Companion	os	Windows CE
+IBM JX	os	PC DOS 2.1
+IBM JX	os	Microsoft Disk BASIC
+IBM JX	os	Advanced BASIC
+RM Nimbus	os	MS-DOS
+Sony CLIÉ PEG-NR70V	os	Palm OS 4.1 on Flash ROM
+Treo 755p	os	Palm OS 5.4.9
+HTC TyTN II	os	Windows Mobile 6.1, 6.5 ; Android
+PC-8000 Series	os	DISK-BASIC, CP/M
+Toshiba Tecra	os	Windows 10
+Toshiba Tecra	os	Windows 8.1
+Toshiba Tecra	os	Windows 8
+Toshiba Tecra	os	Windows 7
+Toshiba Tecra	os	Windows Vista
+Toshiba Tecra	os	Windows XP
+HTC Magician	os	Windows Mobile 2003
+New Internet Computer	os	Linux
+HTC P4350	os	Windows Mobile
+HTC P4350	os	Pocket PC Phone Edition
+Palm Foleo	os	Linux
+HTC Touch	os	Windows Mobile 6.0, (upgrades to 6.1 available via some carriers, 6.5 available via modded ROMS)
+Asus Eee PC	os	Linux \n\nWindows XP\n\nWindows 7\n\nWindows 8.1
+Vector-06C	os	Tape loader or CP/M
+Kerbango	os	Linux
+Nexus One	os	Android 2.1 Eclair
+SVI-738	os	MSX BASIC
+SVI-738	os	MSX-DOS
+SVI-738	os	CP/M 2.2
+Dragon MSX	os	MSX BASIC V1.0
+Nokia 6070	os	Series 40 2nd edition
+Sony CLIÉ PEG-SJ22	os	Palm OS 4.1
+IPod Touch	os	IOS
+HTC Titan	os	Windows Mobile 6.0
+Toshiba g500	os	Windows Mobile 5.0 Smartphone
+Samsung SGH-P520	os	Windows Mobile
+HP 95LX	os	Microsoft MS-DOS 3.22
+Zune 4, 8, 16	os	Microsoft Windows
+Zune 80, 120	os	Microsoft Windows CE
+Philips Velo	os	Windows CE 1.0
+Cybook Gen3	os	Linux
+Amazon Kindle	os	Kindle firmware that utilizes Linux kernels 2.6.26 to 3.0.35
+Amazon Kindle	os	Kindle 1: 1.2
+Amazon Kindle	os	Kindle 2: 2.5.8
+Amazon Kindle	os	Kindle DX: 2.5.8
+Amazon Kindle	os	Kindle Keyboard: 3.4.2
+Amazon Kindle	os	Kindle 4, 5: 4.1.3
+Amazon Kindle	os	Kindle 7, 8: 5.8.5
+Amazon Kindle	os	Kindle Touch: 5.3.7.3
+Amazon Kindle	os	Kindle Paperwhite : 5.6.1.1
+Amazon Kindle	os	Kindle Paperwhite : 5.8.5
+Amazon Kindle	os	Kindle Voyage: 5.8.5
+Amazon Kindle	os	Kindle Oasis: 5.8.5
+Acer Aspire	os	Windows XP
+Acer Aspire	os	Windows Vista
+Acer Aspire	os	Windows 7
+Acer Aspire	os	Windows 8
+Acer Aspire	os	Windows 10
+PowerBook 150	os	System 7
+Zenith Z-100	os	Available with CP/M and Z-DOS
+Samsung SCH-i760	os	Windows Mobile 6 Professional
+Pandora	os	Custom edition of
+Pandora	os	Ångström distribution
+Pandora	os	Linux for gaming
+Dick Smith Super-80 Computer	os	machine code monitor program in ROM
+Philips :YES	os	DOS Plus
+Philips :YES	os	MS-DOS
+Philips :YES	os	Concurrent DOS
+Treo 90	os	Palm OS 4.1H
+ST BOOK	os	Atari TOS 2.06
+MacBook Air	os	OS X
+CloudBook	os	GOS
+Nokia 3500 classic	os	Series 40
+Atari STacy	os	Atari TOS 1.04
+Samsung SGH-i617	os	Windows Mobile
+IdeaPad	os	Windows XP
+IdeaPad	os	Splashtop
+Fit-PC	os	Linux Mint
+Fit-PC	os	Windows XP
+Fit-PC	os	Windows 7
+Fit-PC	os	Ubuntu
+Fit-PC	os	Gentoo Linux
+Fit-PC	os	Windows XP
+HTC Touch Cruise	os	Windows Mobile 6.0 Professional
+LINK 480Z	os	CP/NOS  or CP/M
+HTC Startrek	os	Windows Mobile 5.0 for Smartphones
+MSI Wind Netbook	os	Windows 7 Starter
+MSI Wind Netbook	os	Windows XP
+MSI Wind Netbook	os	Linux
+HP 2133 Mini-Note PC	os	SUSE Linux Enterprise Desktop
+HP 2133 Mini-Note PC	os	Windows Vista
+HP 2133 Mini-Note PC	os	Windows XP
+HP 2133 Mini-Note PC	os	Windows 7
+Komputer 2086	os	Sinclair BASIC with Timex Computer Corp. extension
+Mera-Elzab Meritum	os	Microsoft BASIC
+MBC-550	os	MS-DOS
+HP 660LX	os	Windows CE 2.0
+HP 660LX	os	Windows CE 2.11
+HP 300LX	os	Windows CE 1.0
+Lenovo 3000	os	Microsoft Windows
+Lenovo 3000	os	Linux
+2E	os	IBM DOS 5.02 or 6.1, Windows 3.1, Windows 95, OS/2
+Nokia 6010	os	Series 40
+Asus EeeBox PC	os	Linux , Windows XP, Windows 7
+Acer Aspire One	os	Linux
+Acer Aspire One	os	Windows XP
+Acer Aspire One	os	Windows Vista
+Acer Aspire One	os	Windows 7
+Acer Aspire One	os	Windows 8
+IPhone 3G	os	Original: iPhone OS 2.0
+IPhone 3G	os	--11-22
+HTC Touch Pro	os	Windows Mobile 6.1 Professional
+BlackBerry Storm	os	BlackBerry OS 5.0.0.419
+Acorn A7000	os	RISC OS
+IMKO-1	os	Apple OS
+Sansa Fuze	os	Proprietary firmware or Rockbox
+Gigabyte M912	os	Linux
+Gigabyte M912	os	Windows XP
+Gigabyte M912	os	Windows Vista
+HTC Dream	os	Android m3-rc22a to 1.6
+Bondwell-2	os	M
+Sord M23P	os	Sord OS, SB80, CP/M 2.2
+SVI-838	os	MS-DOS 2.11 / CP/M-86
+Canon V-20	os	MSX BASIC
+Hotbit	os	MSX BASIC
+Hotbit	os	MSX-DOS
+Hotbit	os	M
+Gradiente Expert	os	MSX BASIC
+Gradiente Expert	os	MSX-DOS
+Gradiente Expert	os	M
+Everun Note	os	Microsoft Windows XP
+Everun Note	os	Ubuntu
+Everun Note	os	Linux
+Amiga 1200	os	AmigaOS 3.0/3.1
+BBC Micro	os	Acorn MOS
+Macintosh	os	Macintosh operating systems
+Skytone Alpha-400	os	customized CE Linux kernel 2.4.20 or Windows CE 5.0
+Nokia 6650 fold	os	Symbian OS, S60 v3.2
+HTC Touch HD	os	Windows Mobile 6.1 Professional
+PSX	os	XrossMediaBar, G Guide
+Nintendo DSi	os	Nintendo DSi system software
+Mac Mini	os	MacOS
+Nokia 2760	os	Series 40 5th Edition LE, Java ME
+Digital Reader 1000	os	Linux
+HP Mini 1000	os	Ubuntu Linux
+HP Mini 1000	os	Windows XP
+HP Mini 1000	os	Windows 7
+HP Mini 1000	os	Windows 10
+Samsung NC10	os	Windows XP
+Asus Eee Top	os	Xandros Linux
+Asus Eee Top	os	Microsoft Windows XP
+Samsung SCH-i770	os	Windows Mobile 6.1 Professional
+Nokia 2610	os	Nokia OS
+IBM 5550	os	Japanese DOS or OS/2
+Apple Newton	os	Newton OS
+HTC Touch Viva	os	Windows Mobile 6.1 Professional
+HTC Touch 3G	os	Windows Mobile 6.1 Professional
+Astone UMPC	os	Windows XP
+Zelybron Micro Nina	os	ZelybronBSD / Windows XP / Windows Vista
+HP TouchSmart	os	Windows 7 or \nWindows Vista
+MSI Wind PC	os	Windows XP Home and SUSE Linux Enterprise Desktop 10
+HP Mini 2140	os	SUSE Linux Enterprise Desktop, FreeDOS, Windows Vista and Windows XP
+Palm Pre	os	Palm webOS
+Dell Inspiron Mini Series	os	Dell Ubuntu Netbook Remix
+Dell Inspiron Mini Series	os	Microsoft Windows XP
+Dell Inspiron Mini Series	os	Windows XP Home ULCPC SP3, Dell Ubuntu Netbook Remix with and without Moblin
+Dell Inspiron Mini Series	os	Windows XP Pro
+JooJoo	os	Linux
+Aakash	os	Android 2.3 Gingerbread
+Nokia E63	os	S60 v3.1  UI on Symbian OS v9.2
+HTC Touch Pro2	os	Windows Mobile 6.5 Professional, Android
+HTC Magic	os	Android 1.6 Donut
+HTC Magic	os	Upgradeable officially to 2.2.1 Froyo, unofficially to 2.3.3 Gingerbread
+HTC Touch Diamond2	os	Windows Mobile 6.5 Professional
+I-mate 810-F	os	Windows Mobile 6.1
+Samsung NC20	os	Windows XP
+Palm Treo Pro	os	Windows Mobile 6.1 Professional
+Glospace SGK-70	os	Windows CE 5.0
+Samsung SGH-i780	os	Windows Mobile 6.1
+Samsung SGH-i907	os	Windows Mobile 6.1 Professional
+SheevaPlug	os	Ubuntu
+SheevaPlug	os	List of Ubuntu releases
+Zune HD	os	Windows Embedded CE 6.0
+Classpad	os	Android 4.0
+Treo 180g	os	Palm OS 3.5.2H
+Treo 270	os	Palm OS 3.5.2H
+BlackBerry Tour	os	BlackBerry OS 5.0
+Nokia 5130	os	Series 40
+Acer AspireRevo	os	Linux LinPus
+Acer AspireRevo	os	Windows XP
+Acer AspireRevo	os	Windows Vista
+Acer AspireRevo	os	Windows 7
+Microsoft Kin	os	KIN OS
+LG CT810 Incite	os	Windows Mobile 6.1 Professional
+E55	os	S60 3rd Edition, Feature Pack 2 on Symbian OS 9.3
+Palm VIIx	os	Palm OS 3.5
+Palm Pixi	os	Palm webOS
+Sony Vaio FW series	os	Windows Vista Home Premium SP1 \n                  Windows 7
+IPhone 3GS	os	Original: iPhone OS 3.0
+IPhone 3GS	os	--02-21
+Nokia 6700 classic	os	Series 40
+Samsung Galaxy	os	Android
+Samsung Galaxy	os	Windows 10 Mobile
+Motorola A3100	os	Windows Mobile 6.1 Professional
+HTC Hero	os	Android 1.5 Cupcake, or
+HTC Hero	os	2.1
+BlackBerry Storm 2	os	BlackBerry OS 5.0
+Samsung i8000	os	Windows Mobile 6.1, upgradable to Windows Mobile 6.5
+IPhone 4	os	Original: iOS 4.0 , iOS 4.2.5
+IPhone 4	os	2014-06-30
+Sony Vaio W series	os	Windows XP Media Center
+Lenovo IdeaPad S12	os	Windows XP with Lenovo Quick Start
+Lenovo IdeaPad S12	os	or
+Lenovo IdeaPad S12	os	Windows 7 Home Premium 32-bit
+Samsung SGH-i637	os	Windows Mobile
+Cybook Opus	os	Linux
+Apricot Picobook Pro	os	Windows XP
+Apricot Picobook Pro	os	SUSE Linux
+Dulmont Magnum	os	MS-DOS 2.11
+Toshiba e310	os	Windows Pocket PC 2000
+HP 110	os	MS-DOS 2.11
+Epson PX-4	os	M
+Zii EGG	os	Android
+Zii EGG	os	ZiiLABS' Plaszma OS
+Zii EGG	os	Both based on the Linux kernel
+Nokia 6730 classic	os	Symbian OS, S60 rel. 3.2
+Nokia N900	os	Maemo 5, MeeGo
+Nokia Booklet 3G	os	Microsoft Windows 7
+LG enV3	os	Proprietary software
+HTC Tattoo	os	Android 1.6 and HTC Sense
+Motodext	os	Motoblur
+Motorola Cliq	os	Android v1.5 Cupcake, 2.1 Eclair upgrade, US only, 2.2 and 2.3 and 4.0 via Cyanogen 6,7,9
+Motorola Cliq	os	Android v2.2 Froyo
+HTC Cavalier	os	Windows Mobile 6.0
+HP Mini 311	os	MS Windows XP
+HP Mini 311	os	MS Windows 7
+WikiReader	os	None
+WikiReader	os	Forth interpreter is included
+Motorola Droid	os	Android 2.0
+Motorola Droid	os	2
+Motorola Droid	os	2.1
+Motorola Droid	os	2.2
+Motorola Droid	os	--12-06
+Motorola Droid	os	--03-14
+Motorola Droid	os	--11-21
+Barnes & Noble Nook 1st Edition	os	--11-22
+Alex eReader	os	Android 1.5
+Litl	os	Litl OS
+Motorola Calgary	os	Android
+EClicto	os	Linux
+LG GW620	os	Android 1.5 upgradable to Android 2.2 in some countries
+HTC Desire	os	Launched with Android 2.1 Eclair
+HTC Desire	os	Upgradeable to Android 2.3 Gingerbread
+Samsung S5230	os	Samsung Touchwiz 1.0
+Samsung Corby	os	Samsung Touchwiz 1.0
+Samsung S5600	os	TouchWiz
+Samsung S5600v	os	TouchWiz
+Nokia 6303 classic	os	Series 40 6th Edition
+LG eXpo	os	Windows Mobile 6.5
+Acer Liquid A1	os	Android 1.6 Donut
+T-Mobile Pulse	os	Android, officially 2.1, can be upgraded to custom 2.2 ROMS.
+Boxee Box	os	Linux
+Lenovo Skylight	os	Linux-based custom
+Nokia 5230	os	Symbian OS v9.4 S60v5
+Samsung SGH-i627	os	Windows Mobile 6.1 Standard
+IPad	os	1
+IPad	os	2016-08-25
+Samsung SGH-T749	os	Samsung TouchWiz
+Motorola A910	os	MontaVista Linux OS
+Adam tablet	os	Android 3.0.1
+HP Slate 500	os	Windows 7
+Motorola Devour	os	Android 1.6
+Sendo Z100	os	Smartphone 2002
+Sony Dash	os	Modified Chumby software
+Samsung Wave S8500	os	bada with TouchWiz 3.0
+HTC Legend	os	Android 2.1 Éclair  with HTC Sense. Unofficially to 2.3.7 with CyanogenMod 7
+Sanyo PHC-25	os	BASIC
+Samsung N130	os	Windows XP or Windows 7
+Dell Streak	os	Android 1.6 ; upgrade 2.2  end of 2010
+Amiga CD32	os	AmigaOS versions
+Nintendo 3DS	os	Nintendo 3DS system software
+HTC Evo 4G	os	Android 2.3.3
+HTC Evo 4G	os	2010-12-15
+PlayStation Vita	os	PlayStation Vita system software
+Samsung Galaxy S	os	Android 2.3.6 \
+Droid Incredible	os	Android 2.1
+Droid Incredible	os	--09-15
+Nokia 2700 classic	os	Series 40 5th Edition Feature pack 1
+Toshiba T3100	os	MS-DOS 3.2
+WeTab	os	MeeGo
+INQ Chat 3G	os	INQ System1, based upon Qualcomm's BREW
+INQ Mini 3G	os	BREW 4.0  + INQ System 1 extensions
+Nokia C3-00	os	Series 40 V 08.71 FOTA
+Samsung SPH-i300	os	Palm OS 3.5
+Kyocera Zio	os	Android 1.6 at release,
+Kyocera Zio	os	2.2
+EnTourage eDGe	os	Android 2.2
+Dell Inspiron 1764	os	Windows 7
+HTC Wildfire	os	Android 2.1  with HTC Sense Upgradable to 2.2 and 2.2.1 via HTC or 2.3.3 and 2.3.7 via CyanogenMod7 or CyanogenMod7.2.  or Android 4.0.4  via CyanogenMod 9.
+T-Mobile myTouch 3G Slide	os	Android 2.2.1 FroYo
+Iriver Story	os	Linux
+Vox 4	os	Android 2.1
+IPhone	os	Original: iPhone OS 1.0
+IPhone	os	Current: iPhone OS 3.1.3
+IPhone	os	Released
+LG VS740	os	--01-20
+GuruPlug	os	Debian
+Droid X	os	Android 2.2.2
+Droid X	os	--07-28
+Droid X	os	--02-25
+Droid X	os	2.3
+Touch Book	os	Fork of Ångström  / Ubuntu / Android
+Motorola i1	os	Android 1.5
+HTC Aria	os	Android 2.1  and HTC Sense , upgradable to 2.2 via HTC, or 2.3 via CyanogenMod 7
+4FFF N618	os	Linux 2.6.23
+Droid 2	os	Android 2.2
+Droid 2	os	2.3
+Droid 2	os	4
+Magic Trackpad	os	Mac OS X Snow Leopard v 10.6.4 and higher
+BlackBerry PlayBook	os	BlackBerry Tablet OS
+Power Macintosh 5000 series	os	System 7.5.1 to Mac OS 9.1
+Power Macintosh 5000 series	os	System 7.5.3 to Mac OS 9.1
+Power Macintosh 5000 series	os	System 7.5.5 to Mac OS 9.1
+Google Nexus	os	Android
+Acer beTouch E110	os	Android
+Motorola Charm	os	Android 2.1 Eclair
+Power Macintosh 6400 series	os	System 7
+OlivePad	os	Android 2.2
+LG Optimus	os	Android 1.6 \
+LG Optimus	os	Upgradeable to Android 2.1
+LG Optimus	os	Unofficial upgrades to Android 2.2, 2.3, 4.0
+HTC Desire HD	os	Android 2.2 Froyo with HTC Sense
+HTC Desire HD	os	Upgradeable to 2.3.5 Gingerbread and HTC Sense 3.0. Newer versions of Android and Sense are available through third-party ROMs.
+HTC Smart	os	BREW Mobile Platform
+Nokia 2690	os	Series 40 5th Edition Feature Pack 1
+LG Optimus Q	os	Android 2.1
+Nokia 5250	os	Symbian OS v9.4 S60v5
+Wink e-book reader	os	Linux
+Samsung Galaxy Tab 7.0	os	*Android 2.2.1-3.0\n*CyanogenMod 6.0-7.0.3
+HP Mini 210	os	Windows 7 Starter
+HP Mini 210	os	Linux
+HTC Desire Z	os	Android 2.3.3 \
+Droid Pro	os	Android 2.2, was later updated to Android 2.3\n Android Ice Cream Sandwich 4.0.4  CyanogenMod 9
+Samsung Galaxy Player	os	Android Europe 2.2 , U.S. Gingerbread 2.3
+Acer Aspire Notebook	os	Windows XP
+Acer Aspire Notebook	os	,
+Acer Aspire Notebook	os	Windows Vista
+Acer Aspire Notebook	os	Windows 7
+Acer Aspire Notebook	os	Windows 8
+Acer Aspire Notebook	os	Linux
+Motorola Defy	os	Android 2.1-update1, 2.2.1, 2.2.2, 2.3.4  with enhanced Motoblur; 4.0.3 Ice Cream Sandwich & MIUI; 4.1.2 ,4.2.1 Jelly Bean; 4.4 KitKat
+Huawei Ascend	os	Android 2.1
+Vibo A688	os	Android v1.6
+Vibo T588	os	Mimiria 2.2
+Samsung SGH-X427m	os	Proprietary software
+Palm Pre 2	os	WebOS
+Samsung S7550	os	Proprietary
+ZTE Blade	os	Android 2.1 Éclair or 2.2 Froyo
+Nook Color	os	Android 2.2 custom
+Acer Aspire Timeline	os	Windows 7
+Advent Vega	os	Android 2.2
+Archos 70	os	Android 2.2.1
+Nokia 1680 classic	os	Series 40 5th edition
+Sony Vaio M series	os	Windows XP
+Archos 43	os	Android 2.2
+Dell Venue Pro	os	Windows Phone
+Dell Venue Pro	os	7
+Dell Venue Pro	os	7.1
+Dell Venue	os	Android 2.2 Froyo
+Dell Venue	os	Android 2.3 Gingerbread
+Samsung Galaxy 5	os	Android 2.2.2 Froyo
+Acer beTouch E400	os	Android  2.1
+Acer Stream	os	Android 2.1 “Eclair”
+Acer beTouch E120	os	Android 1.6
+Acer beTouch E130	os	Android 1.6  or Android 2.1 in later releases
+Samsung Galaxy 3	os	Android 2.1
+Samsung Galaxy 3	os	Upgradeable To Android 2.2
+Nexus S	os	Android 2.3 Gingerbread
+Nexus S	os	Firefox OS
+Samsung Focus	os	Windows Phone
+LG Quantum	os	Windows Phone
+Sony Ericsson Xperia X8	os	Android 1.6, upgradable to 2.1
+Sony Ericsson Xperia X8	os	Unofficial upgrades to 4.4.x via CyanogenMod
+HTC 7 Surround	os	Windows Phone 7
+T-Mobile myTouch 4G	os	Android 2.2.1 Froyo up-datable to 2.3.3 Gingerbread
+Pocket eDGe	os	Android 2.2
+Xperia Play	os	Android 2.3.7 Gingerbread
+Xperia Play	os	Upgradeable to Android 6.0.1 Marshmallow via the use of LegacyXperia CyanogenMod 13 build
+LG Optimus One	os	Android 2.2 Froyo
+LG Optimus One	os	Upgradeable to 2.3.3 Gingerbread, released and unofficially to 2.3.7 Gingerbread with CyanogenMod 7 ,  4.04 Ice Cream Sandwich with CyanogenMod 9 , 4.1.2 with CyanogenMod 10  4.4.2 KitKat with CyanogenMod 11
+Max-80	os	LDOS and CP/M
+Samsung Omnia 7	os	Windows Phone
+LG Optimus 7	os	Windows Phone 7.8
+HTC 7 Trophy	os	Windows Phone
+Compaq Concerto	os	MS-DOS 5.0 / Windows for PEN Computing 1.0
+ViewSonic G Tablet	os	Android 2.2
+Samsung Wave II S8530	os	bada 1.2 with TouchWiz 3.0
+Altos 586	os	Xenix or MP/M-86
+Nokia 5233	os	Symbian OS v9.4 S60v5
+Motorola Xoom	os	Android 3.2 \
+Motorola Xoom	os	Upgradeable to  Android 4.1.2 \
+Motorola Atrix 4G	os	Android 2.3.4 and 2.3.6 Gingerbread
+Droid Bionic	os	Android 4.1 Jellybean 4.1
+Droid Bionic	os	Android 5.1.1 Lollipop via CyanogenMod 12.1 \nAndroid Marshmallow 6.0.1 CyanogenMod 13.1
+HTC ThunderBolt	os	Android 4.0.4 Ice Cream Sandwich with HTC Sense 3.6
+HTC Inspire 4G	os	Android 2.3.5 with HTC Sense 3.0
+HTC Inspire 4G	os	2012-07-31
+Samsung Infuse 4G	os	Android 2.3.6 on AT&T, 2.3.3 on Rogers Wireless
+HTC Evo Shift 4G	os	Android 2.2
+HTC Evo Shift 4G	os	Released , HTC Sense
+HTC Gene	os	Windows Mobile 6 Professional For HTC Gene P3400i & Windows Mobile 5.0 Pocket PC For HTC Gene P3400
+Sansa c200 series	os	Proprietary firmware or Rockbox
+Visual 1050	os	CP/M Plus
+LG Optimus 2X	os	Android 2.2.2 upgradeable to 2.3.4  and 4.0.4
+Cruz	os	Android 2.0, 2.2, 2.3, or 4.0
+Samsung Continuum	os	Android 2.1 \
+Razer Switchblade	os	Windows 7
+Kyocera Echo	os	Android 2.3 Gingerbread
+HP Veer	os	HP webOS 2.1.2
+HP TouchPad	os	* webOS 3.0 to 3.0.5 \n* Android 2.3 to 7.0 \n* Ubuntu
+HP Pre 3	os	HP webOS 2.2.4
+Samsung Galaxy S II	os	Android
+Samsung Galaxy S II	os	Android Gingerbread
+Samsung Galaxy S II	os	Current: Android 4.1.2 \
+HTC Desire S	os	Android with HTC Sense
+HTC Flyer	os	Android 3.2.1 with HTC Sense UI
+INQ Cloud Touch	os	Android 2.2 \
+Samsung Galaxy Ace	os	Android v2.3.6
+Motorola Flipout	os	Android 2.1
+Trim-Slice	os	Ubuntu
+Asus Eee Pad Transformer	os	Android 4.0
+Asus Eee Pad Transformer	os	Android 6.0.1
+Samsung Galaxy Tab 10.1	os	Android 3.1 Honeycomb
+HTC Evo 3D	os	Android 2.3.4 with HTC Sense 3.0 overlay upgradable to Android 4.0.3 with HTC Sense 3.6 or                   4.1.2 Jelly bean with CyanogenMod 10
+ZTE Racer	os	Linux 2.6.29 used in Android 2.1 Eclair
+HTC Sensation	os	Android 2.3.3 Gingerbread with HTC Sense 3.0
+HTC Sensation	os	Upgradable to 4.0.3 with HTC Sense 3.6
+HTC Sensation	os	6
+HTC Incredible S	os	Android 2.2 Froyo
+HTC Wildfire S	os	Android 2.3.3   with HTC Sense 2.1. Android 4.0 , Android 4.1  and Android 4.4.2  are supported with CyanogenMod, although not officially supported)
+Magic W3	os	Windows 7
+Wii U	os	Wii U system software
+M-Labs	os	RTEMS
+M-Labs	os	Linux
+Toshiba Thrive	os	Android 4.0.4  or 3.2.1
+Sony Tablet	os	Android 3.1 Honeycomb Update to Android 3.2.1 and 4.0.3 available
+Meizu M9	os	Android
+Samsung Galaxy S 4G LTE	os	Android 2.2.1 with TouchWiz 3.0, upgradeable to 2.3.6 Gingerbread
+Casio G'zOne Commando	os	Android 2.2 Froyo
+Raspberry Pi	os	Raspbian
+Raspberry Pi	os	Ubuntu MATE
+Raspberry Pi	os	Ubuntu
+Raspberry Pi	os	Windows 10 editions
+Raspberry Pi	os	RISC OS
+Raspberry Pi	os	Debian
+Raspberry Pi	os	Arch Linux ARM
+LG Optimus Pad	os	Android 3.0   may upgradable to 4.1.2  with Cyanogenmod
+Samsung Galaxy Mini	os	Android v2.3.6  unofficially upgradeable up to Android 4.0.4  via CyanogenMod 9 , Android 4.2.1 Jellybean via CyanogenMod 10.1  and Android 4.4.2 Kitkat via CyanogenMod 11
+Qisda ES900	os	Linux UI Engine QT embedded 4.5.1
+Qisda ES900	os	OS: Linux 2.6.21
+Ben NanoNote	os	Custom edition of OpenWrt
+Huawei U8800	os	Android 2.2.2, official upgrade to 2.3.5
+LG Optimus Black	os	Android 2.1 Eclair
+LG Optimus Black	os	4
+Bandai RX-78	os	BS-BASIC
+IPhone 4S	os	Original: iOS 5.0
+IPhone 4S	os	2016-08-25
+Motorola Milestone XT720	os	Android 2.1
+Boox	os	Linux
+Boox	os	Android
+FM-11	os	CP/M 86, OS-9, FLEX, MS-DOS and CP/M 80
+Toshiba Pasopia 7	os	T-Basic 7, CP/M optional
+Motorola Triumph	os	Android
+Nook Simple Touch	os	Android 2.1
+Samsung Galaxy Gio	os	Android v2.2 Froyo;
+Samsung Galaxy Gio	os	later preinstalled with or upgradeable to
+Samsung Galaxy Gio	os	Gingerbread v2.3.4/&#8203;v2.3.6.
+Samsung Galaxy Gio	os	Unofficially to 4.4 Kitkat with CyanogenMod 11 by Maclaw
+Kyocera C4700	os	Smarterphone OS 2.4
+Nokia phone series	os	Symbian
+Nokia phone series	os	Maemo
+Nokia phone series	os	MeeGo
+Nokia phone series	os	Series 30
+Nokia phone series	os	Series 40
+Nokia phone series	os	Windows Phone
+Commodore 64x	os	Ubuntu 10.10 Commodore OS
+Droid 3	os	Android
+Droid 3	os	Android version history
+LG Optimus Chat	os	Android 2.2 Froyo
+LG Optimus 3D	os	Android 2.2 Froyo
+Samsung Galaxy Tab 8.9	os	Android 3.1 Honeycomb
+Alcatel One Touch 980	os	Android
+MicroDigital Omega	os	RISC OS 4
+Huawei U8230	os	Android 2.1
+Acer Iconia Tab A500	os	Android Honeycomb, although Ice Cream Sandwich is now available. 4.2 & 4.3 , 4.4  and 5.1  are supported by unofficial 3rd-party updates.
+T-Mobile myTouch 4G Slide	os	Android™ 2.3 Android (operating system)
+HTC ChaCha	os	Android Gingerbread 2.3
+Compaq Portable III	os	MS-DOS
+Motorola Photon	os	Android 2.3.5 Gingerbread
+LG Optimus Chic	os	Android 2.2 Froyo
+Compaq Presario F700	os	Windows Vista
+Samsung Galaxy R	os	Android 2.3.5  with TouchWiz UI 4.0
+Xiaomi Mi 1	os	MIUI
+Xiaomi Mi 1	os	Android
+Samsung Galaxy Note	os	Android
+Samsung Galaxy Note	os	Android Gingerbread
+Samsung Galaxy Note	os	Current: Android 4.1.2 \
+Samsung Galaxy Tab 7.7	os	Android 3.2 Honeycomb upgradable to Android 4.1 Jelly Bean
+Nokia 701	os	Symbian%5E3
+Nokia 700	os	Symbian%5E3
+Barnes & Noble Nook	os	Android
+HTC Jetstream	os	Android 3.1  with HTC Sense UI
+Lenovo IdeaPad S100	os	MeeGo
+HTC Explorer	os	Android 2.3.5  with HTC Sense 3.5
+HTC Raider 4G	os	Android 2.3.4 with HTC Sense 3.0, 2.3.7 with HTC Sense 3.5 , upgradable to 4.0.3 with HTC Sense 3.6, upgradable to 4.4.4 with CyanogenMod
+Kindle Fire	os	Based on Android OS 2.3.3
+Kindle Fire	os	Based on Android 4.0.3
+Sendo X	os	S60
+Samsung Omnia W	os	Windows Phone
+Samsung Omnia W	os	Windows Phone 7
+Compaq Portable 386	os	MS-DOS 3.3, Upgradable to 6.1. Also supports Windows 3.1
+IPhone 5	os	Original: iOS 6.0
+IPhone 5	os	2016-09-23
+HTC Amaze 4G	os	HTC Sense 3.0 with Android 2.3.4 Gingerbread
+HTC Amaze 4G	os	and
+HTC Amaze 4G	os	HTC Sense 3.6 with Android 4.0.3 Ice Cream Sandwich
+Galaxy Nexus	os	Android 4.0 Ice Cream Sandwich
+Galaxy Nexus	os	upgradeable to 4.3 \
+Samsung Galaxy S III	os	Android
+Samsung Galaxy S III	os	Android Ice Cream Sandwich
+Samsung Galaxy S III	os	Current: Android 4.3 \
+Samsung Galaxy S III	os	Android 4.4 \
+Golden-i	os	Windows Embedded CE 6.0
+IPhone 5S	os	Original: iOS 7.0
+IPhone 5S	os	2016-09-23
+Samsung Focus S	os	Windows Phone
+HTC Sensation XL	os	Android 2.3.3 Gingerbread , HTC Sense 3.0 overlay
+Droid Razr	os	Release:2.3.x Gingerbread
+Droid Razr	os	Current:4.0.x Ice Cream Sandwich
+Droid Razr	os	4.1
+ZTE Skate	os	Android 2.3
+FS-A1WSX	os	MSX BASIC V3.0, MSX-DOS, CP/M
+HTC Rezound	os	Android 2.3.4 Gingerbread with HTC Sense 3.5
+HTC Rezound	os	Android 4.0.3 update with HTC Sense 3.6
+Motorola Xyboard	os	Android 3.2
+Motorola Xyboard	os	from factory; able to be upgraded to 4.0.4  for Wi-Fi only models, 4.1.2  currently rolling out for carrier-supported models)
+IBM Personal Computer XT	os	IBM BASIC / PC DOS 2.0-3.20 / PC/IX / SCO Xenix / Minix
+Samsung Captivate Glide	os	Android 2.3.5  with TouchWiz UI 4.0
+Sony Ericsson Xperia arc S	os	Android 2.3.4  officially upgradeable up to Android 4.0.4  unofficially upgradeable to Android 4.0.4  via CyanogenMod 9, Android 4.1.2  via CyanogenMod 10, Android 4.2.2  via CyanogenMod 10.1, Android 4.3.1  via CyanogenMod 10.2, Android 4.4.4  via CyanogenMod 11, Android 5.0  via CyanogenMod 12
+Sony Ericsson Xperia mini	os	Android 2.3.4  officially upgradeable up to Android 4.0.4  unofficially upgradeable to Android 4.0.4  via CyanogenMod 9, Android 4.1.2  via CyanogenMod 10, Android 4.2.2  via CyanogenMod 10.1, Android 4.3.1  via CyanogenMod 10.2, Android 4.4.2  via CyanogenMod 11, Android 5.0.2  via CyanogenMod 12, Android 5.1.1  via Cyanogenmod 12.1
+Samsung Galaxy Y	os	Android 2.3.6 Gingerbread
+LG Optimus Zip	os	Android 2.3
+Motorola Atrix 2	os	Android 2.3 at initial release upgrades to 4.0.4
+Ultra 60	os	Solaris
+Ultra 60	os	Linux
+Ultra 60	os	BSD
+BlackBerry Style	os	BlackBerry OS 6.0
+Sansa Fuze+	os	Proprietary firmware or Rockbox
+Asus Eee Pad Transformer Prime	os	Android 4.1.1
+Sony Tablet S	os	Android 3.2 Honeycomb,
+Sony Tablet S	os	Android 4.0.3
+BlackBerry Bold 9700	os	BlackBerry OS 5
+Acer Aspire 8920	os	Windows Vista
+Acer Aspire 8920	os	Windows 7
+LG Optimus Slider	os	Android 2.3
+Samsung Galaxy W	os	Android 2.3.6  with TouchWiz UI 4.0
+Sony Ericsson Xperia ray	os	Android 2.3.4;
+Sony Ericsson Xperia ray	os	Officially upgradeable up to Android 4.0.4 ;\n\nUnofficially upgradeable to:\n*Android 4.0.4  via CyanogenMod 9,\n*Android 4.1.2  via CyanogenMod 10,\n*Android 4.2.2  via CyanogenMod 10.1,\n*Android 4.3.1  via CyanogenMod 10.2,\n*Android 4.4.2  via CyanogenMod 11.\n*Android 5.0.2  via CyanogenMod 12.\n*Android 5.1.1  via CyanogenMod 12.1.
+Compaq Presario 2200	os	Windows 95
+Huawei IDEOS	os	Android 2.2
+Meizu MX	os	Flyme OS, based on Android 2.3.5 Gingerbread upgradable to Android 4.1.2 Jellybean
+Droid 4	os	Android 4.1.2, Originally shipped with Android 2.3
+Sony Walkman Z Series	os	Android 2.3
+Sony SmartWatch	os	Micrium uC/OS-II
+Sony SmartWatch	os	Android Wear
+Huawei Sonic	os	Android version history
+Sony Xperia S	os	Android 2.3
+Sony Xperia S	os	upgradeable to Android 4.0.4  and 4.1.2
+LG Optimus LTE	os	Android 2.3.5 Gingerbread, upgrade to 4.0 ICS
+NOVO7	os	Android v4.0.4 (Ice Cream Sandwich)
+Samsung Galaxy Ace Plus	os	Android 2.3.6 Gingerbread
+Sony Ericsson Xperia Mini Pro	os	Android 2.3.4 ; officially upgradeable up to Android 4.0.4 .
+Sony Ericsson Xperia Mini Pro	os	Unofficially upgradeable to:\n*Android 4.0.4  via CyanogenMod 9,\n*Android 4.1.2  via CyanogenMod 10,\n*Android 4.2.2  via CyanogenMod 10.1,\n*Android 4.3.1  via CyanogenMod 10.2,\n*Android 4.4.2  via CyanogenMod 11.
+PAC-PAD 1	os	Android 2.3
+LG Prada 3.0	os	Android version history
+Asus Transformer Pad TF300T	os	Android 4.0
+Lenovo IdeaPad Yoga 13	os	Windows 8
+Sony Ericsson Xperia active	os	Android 2.3.4 ;
+Sony Ericsson Xperia active	os	Officially upgradeable up to Android 4.0.4 ;
+Sony Ericsson Xperia active	os	Unofficially upgradeable to:\n*Android 4.0.4  via CyanogenMod 9,\n*Android 4.1.2  via CyanogenMod 10,\n*Android 4.2.2  via CyanogenMod 10.1,\n*Android 4.3.1  via CyanogenMod 10.2,\n*Android 4.4.2  via CyanogenMod 11
+HTC One X	os	Android 4.0.3 Ice Cream Sandwich with HTC Sense 4
+HTC One S	os	Android 4.0 Ice Cream Sandwich, HTC Sense 4.1 overlay, Upgradeable to Android 4.1.1 Jelly Bean and HTC Sense UI 4+
+HTC One V	os	Android 4.0.3 with HTC Sense 4.0, unofficially upgradeable to Android 4.4  and Android 6.0  via custom ROM
+Asus PadFone	os	Android 4.0 Ice Cream Sandwich with ASUS Waveshare UI
+PAC-nBook 1	os	Windows 7
+T-Mobile myTouch Q by LG and T-Mobile myTouch by LG	os	Android 2.3.6 Gingerbread
+Samsung Galaxy Pocket	os	Android 2.3  with TouchWiz 3.0
+Samsung SPH-M300	os	REX OS
+Sony Xperia P	os	Android 2.3.7 upgrade available to 4.1.2
+Sony Xperia U	os	Android
+Sony Xperia U	os	2.3
+Sony Xperia U	os	Upgradeable to Android 4.0.4
+HTC Evo Design 4G	os	Android 4.0.3
+LG Optimus 4X HD	os	Upgrades to 4.1.2 \
+LG Optimus 4X HD	os	from
+LG Optimus 4X HD	os	Android version history
+Samsung Galaxy Y Pro DUOS	os	Android 2.3.6 Gingerbread
+Google Glass	os	Glass AOs
+Microsoft Lumia	os	Windows Phone
+Microsoft Lumia	os	Windows 10 Mobile
+PAC-PAD Takhti 7	os	Android 4.0 Ice Cream Sandwich
+HTC Evo 4G LTE	os	Android 4.0.4
+Samsung Galaxy Y DUOS	os	Android 2.3.6 Gingerbread
+Lenovo A750	os	Android 2.3.6 or 4.0.3
+WIMM One	os	Android 2.1 with Custom UI
+Pebble	os	Pebble OS; uses a customized FreeRTOS kernel Can communicate with Android and iOS apps using Bluetooth. Portions of Pebble OS are closed source. \nLatest Version: 4.0.1
+Intel AZ210	os	Android 4.0.4 Ice-Cream Sandwich
+Samsung DP900	os	Windows 7
+Samsung Galaxy SL I9003	os	Android
+Samsung Galaxy SL I9003	os	upgradable to Android 2.3.6 Gingerbread with TouchWiz 3.0/4.0 user interface
+PlayStation 4	os	PlayStation 4 system software
+Droid Incredible 4G LTE	os	Android 4.0.4 Ice Cream Sandwich, HTC Sense 4.1
+HTC Salsa	os	Android Gingerbread 2.3.3
+Alcatel One Touch 990	os	Android 2.2.2 (Froyo) , with Alcatel Application List Ultra
+Nokia 603	os	Symbian%5E3
+Samsung Galaxy Ace 2	os	Android 2.3.6 Gingerbread  and Android 5.1 Lollipop as well as 6.0.1 Marshmallow via Custom Roms
+Sony Xperia Ion	os	Android 2.3.7 Gingerbread, Update to Jelly Bean 4.1.2
+Samsung Focus 2	os	Windows Phone
+OpenROV	os	Linux
+Sony Xperia Go	os	Android 2.3.7, 4.0.4, Upgradeable to Android 4.1.2
+Sony Xperia Go	os	Unofficial upgrade to Android 4.4.4  via XDA
+Telikin	os	Telikin
+HTC Desire C	os	Android 4.0.3 with HTC Sense 4.0a, unofficially upgradable to Android 5.0 via Cyanogenmod
+Microsoft Surface	os	Windows 8
+Microsoft Surface	os	Windows 8.1
+Microsoft Surface	os	Windows 10
+Microsoft Surface	os	Windows RT
+LG Optimus L7	os	Ice Cream Sandwich
+LG Optimus L5	os	Android 4.0 Ice Cream Sandwich
+DreamPlug	os	Debian
+Nexus Q	os	Android Ice Cream Sandwich
+Toshiba AC100	os	Android, Linux-based custom
+Nokia Asha series	os	Series 40
+Nokia Asha series	os	Nokia Asha platform
+Huawei Ascend G300	os	Android 2.3 upgradable to 4.0
+Samsung Galaxy S Advance	os	Android v2.3.6  upgradable to Android v4.1.2
+ZTE Racer II	os	Android v2.2
+Ouya	os	Android  with custom Ouya launcher.
+HTC Evo 4G+	os	Android 2.3.4 with HTC Sense 3.0 overlay upgradable to Android 4.0.3 with HTC Sense 3.6
+Samsung Galaxy Note II	os	Android
+Samsung Galaxy Note II	os	Android Jelly Bean
+Samsung Galaxy Note II	os	Current: Android 4.4.2 KitKat
+Samsung Galaxy Beam i8530	os	2012-07-01
+Samsung Galaxy Beam i8530	os	Upgrades to 4.1 \
+Samsung Galaxy Beam i8530	os	TouchWiz GUI
+Samsung Galaxy S Plus	os	Android 2.3 with TouchWiz UI and Android 5.1.1 via Custom Roms\n* Multi-touch capacitive touchscreen display\n* Ambient light sensors\n* Microphone\n* 3-axis Magnetometer \n* aGPS\n* 3-axis accelerometer\n* Stereo FM Radio With RDS and Swype
+Motorola Photon Q	os	Android 4.1.2 Jelly Bean upgradable to Android 5.1 Lollipop via Cyanogenmod 12.1
+Huawei Ascend	os	Android
+Huawei Ascend	os	Windows Phone
+Rascal	os	Linux
+Samsung Galaxy Note 10.1	os	Android 4.1.2 Jelly Bean with TouchWiz UI, upgradeable to Android 4.4.2 KitKat. Unofficial CyanogenMod versions Android 5.1.x Lollipop & Android 6.0.x Marshmallow available.
+Nexus 7	os	Android 4.1/\
+Cubieboard	os	Android 4 ICS, Ubuntu 12.04 desktop, Fedora 19 ARM Remix desktop, Archlinux ARM, or OpenBSD.
+Xiaomi Mi 2	os	MIUI
+Xiaomi Mi 2	os	Android version history
+Samsung Galaxy Tab 7.0 Plus	os	Android 3.2 Honeycomb
+Samsung Galaxy Tab 7.0 Plus	os	upgradeable to 4.0 Ice Cream Sandwich / 4.1 Jelly Bean
+Trium Mondo	os	Pocket PC 2000
+Samsung Ativ S	os	Windows Phone 8, upgradeable to Windows Phone 8.1 Update 1
+Sony Xperia T	os	Android
+Sony Xperia T	os	4
+Sony Xperia T	os	Current: Android
+Sony Xperia T	os	4.3
+HTC Desire X	os	Android 4.0 Ice Cream Sandwich , HTC Sense 4+ overlay
+Sony Xperia J	os	Android 4.0 , Android 4.1.2
+Droid Razr M	os	Android Jellybean
+Samsung Galaxy Tab 2 7.0	os	Android 4.0 Ice Cream Sandwich
+Samsung Galaxy Tab 2 7.0	os	upgradable To Android 6.0.1 Marshmallow via CyanogenMod 13
+Samsung Galaxy Tab 2 10.1	os	Android 4.0 Ice Cream Sandwich
+Sony Xperia sola	os	Android 2.3 \nUpgradeable to Android 4.0.4 \nUnofficial upgrade to Android 4.1.2  via XDA
+Droid Razr HD	os	Android 4.4.2 KitKat
+Nokia Lumia 820	os	Windows Phone 8, upgradeable to 8.1
+Fire HD	os	Fire OS proprietary fork of Android OS
+Kobo Arc	os	Custom Android 4.1 Jelly Bean
+Gateway netbooks	os	Windows Vista Home Basic
+Wikipad	os	Android 4.2.2
+Archos GamePad	os	Android 4.1 Jelly Bean
+Samsung Galaxy S Relay 4G	os	Android 4.0.4 \
+HTC Windows Phone 8S	os	Windows Phone 8
+LG Optimus G	os	Android 4.0 Ice Cream Sandwich
+LG Optimus G	os	4.1
+LG Optimus G	os	4.4
+LG Optimus Vu	os	Google Android v4.0.4 ICS
+Sony Xperia TX	os	Android 4.0.4  in first release upgradable to 4.1.2  and 4.3
+Samsung Rugby Smart	os	Android 2.3.6 Gingerbread, Android 4.04 / 4.1.2 via CyanogenMod
+HTC Desire V	os	Android 4.0
+Nook HD	os	Android 4.0.3 with customized Nook User Interface
+Nook HD	os	Unofficial Android versions without Nook  software: Android 4.3 Jelly Bean and Android 4.4.4 Kit Kat
+Aakash 2	os	Android 4.0.3 ice cream sandwich
+Sony Xperia Tablet S	os	Android 4.0.3 Ice Cream Sandwich
+NeXTcube Turbo	os	NeXTSTEP
+NeXTcube Turbo	os	OPENSTEP
+NeXTcube Turbo	os	NetBSD
+Nokia Lumia 810	os	Windows Phone 8
+LG Intuition	os	Android
+Nexus 4	os	Android Jelly Bean 4.2, upgradable to Android Lollipop 5.1.1
+Samsung Galaxy S III Mini	os	Preinstalled Android 4.1.1 (Jelly Bean)
+Samsung Galaxy S III Mini	os	Upgradable to Android 6.0
+HTC Butterfly	os	Android 4.4.2 KitKat
+Nokia Lumia 510	os	Windows Phone 7.8
+Nokia Lumia 510	os	Windows Phone 7.5 Mango
+IPad Mini	os	IOS
+IPad	os	Original: iOS 6.0.1
+IPad	os	2016-09-23
+LG Optimus L9	os	Android version history
+IPad	os	Original: iOS 3.2
+IPad	os	--05-07
+Asus Transformer Pad Infinity	os	Android Jelly Bean 4.2.1
+Zenbook	os	Windows
+Surface Pro	os	Windows 8 Pro Upgradable to Windows 8.1 and upgradable from Windows 8.1 to Windows 10
+Nexus 10	os	Android 4.2 \
+Acer CloudMobile S500	os	Android 4.0.4 Ice Cream Sandwich
+Nexus 6	os	Android Lollipop 5.0, upgradable to Nougat 7.0
+Acer Liquid Metal	os	Android 2.2 Froyo
+Acer Liquid E	os	Android 2.1 'Éclair'.
+Nokia Lumia 620	os	Windows Phone 8.1
+Huawei Honor	os	Android
+Huawei Ascend W1	os	Windows Phone 8
+Sony SMC-70	os	CP/M OS, Sony BASIC language interpreter in ROM
+NDR-Klein-Computer	os	M
+Spice MI-335	os	Android v2.3  with Spice Gang
+Samsung Galaxy S4	os	Original: Android 4.2.2 \
+Samsung Galaxy S4	os	Current: Android 5.0.1 \
+Gigabyte GSmart G1305 Boston	os	Android OS, v1.6 , v2.1
+Shield Portable	os	Android
+Shield Portable	os	Android version history
+Sony Xperia Z	os	Android:
+Sony Xperia Z	os	4.1
+Sony Xperia Z	os	4.2
+Sony Xperia Z	os	4.3
+Sony Xperia Z	os	4.4
+Sony Xperia Z	os	5
+Sony Xperia Z	os	5.1
+Cowon Z2 Plenue	os	Android
+Cowon Z2 Plenue	os	Android version history
+Samsung Ativ Tab	os	Windows RT
+Sony Xperia ZL	os	Android
+Sony Xperia ZL	os	Android version history
+Sony Xperia ZL	os	Android 4.2.2 Jelly Bean \n\nAndroid 4.3 Jelly Bean \nAndroid 4.4 Kit Kat \n5.0.2 Lollipop  \n5.1.1 Lollipop
+Sony Xperia E	os	Android 4.1.1 Jellybean
+Sony Xperia E	os	Experimental version of Firefox OS
+Huawei Ascend Mate	os	Android
+Huawei Ascend Mate	os	Android version history
+Nokia 206	os	Nokia Series 40
+Samsung Galaxy Tab series	os	Android
+Getac Z710	os	Android 4.1
+Samsung Galaxy Grand	os	Original: Android 4.1.2 \
+Samsung Galaxy Grand	os	Current: Android 4.2.2 \
+HTC Rhyme	os	Android 2.3.4
+BlackBerry Q10	os	BlackBerry 10 update to 10.3.1
+BlackBerry Z10	os	BlackBerry 10
+BlackBerry Z10	os	--01-28
+BlackBerry Z10	os	Current: BlackBerry 10.3.1
+HTC One	os	Original: Android 4.1.2 \
+HTC One	os	Current: Android 5.0.2 \
+HTC One	os	Current: Android 5.1 \
+Vertu Ti	os	Android version history
+Chromebook Pixel	os	Google Chrome OS
+Huawei Ascend P2	os	Android
+Huawei Ascend P2	os	Android version history
+HP Slate 7	os	Android
+HP Slate 7	os	Android version history
+Samsung Ativ Odyssey	os	Windows Phone 8
+Nokia Lumia 520	os	Windows Phone 8, upgradeable to 8.1
+Nokia Lumia 720	os	Windows Phone 8, upgradeable to 8.1
+Sony Xperia Tablet Z	os	Android 4.1 Jelly Bean
+GameStick	os	Android
+GameStick	os	Android version history
+Samsung Galaxy Note series	os	Android
+Amplify Tablet	os	Android 4.2
+Sony Xperia SP	os	Android JellyBean 4.1
+Sony Xperia SP	os	Android JellyBean 4.3 is latest and final
+Spice Stellar Nhance Mi-435	os	Android v4.0  with Spice Gang
+HTC First	os	Android 4.1.2
+Samsung Galaxy Note 8.0	os	Android 4.1.2 Jelly Bean
+Samsung Galaxy Express	os	Android OS v4.1.2  with TouchWiz UI
+Samsung Galaxy S Duos	os	Android 4.0.4 Ice Cream Sandwich upgradeable to 4.2. Jelly Bean
+Samsung Galaxy Mega	os	Android (operating system) 4.2.2 Jelly Bean with Touchwiz UI
+ZTE Engage	os	Android 4.0 Ice Cream Sandwich
+Samsung Galaxy Ace 3	os	Android 4.2.2 Jelly Bean
+Samsung Galaxy Core	os	Android
+Samsung Galaxy Core	os	Android Jellybean
+LG Optimus G Pro	os	Android 4.1.2 Jelly Bean LS970
+LG Optimus G Pro	os	Android 4.2  Upgradebale to android 4.4.2 kitkat
+Nokia Lumia 925	os	Windows Phone 8, upgradeable to 8.1
+BlackBerry Q5	os	BlackBerry 10
+Motorola RAZR i	os	Android
+MetaWatch	os	FreeRTOS V6.0.5
+Samsung Galaxy Win	os	Android
+Samsung Galaxy Win	os	with TouchWiz UI
+Xbox One	os	Xbox One system software
+JXD S5100	os	Android
+Samsung Galaxy S4 Mini	os	Original: Android 4.2.2
+Samsung Galaxy S4 Mini	os	Current: Android 4.4.2 , Android 4.4.4
+Samsung Galaxy S4 Mini	os	Non-official: Android 6.0.1 with CyanogenMod 13.0
+Moto X	os	Original: Android 4.2 \
+Moto X	os	Current: Android 5.1 \
+Huawei STREAM X GL07S	os	Android 4.1
+Xiaomi Mi 2S	os	MIUI
+Xiaomi Mi 2S	os	Android Lollipop
+Samsung Galaxy Note 3	os	Android
+Samsung Galaxy Note 3	os	Android Jelly Bean
+Samsung Galaxy Note 3	os	Current: Android 5.0 \
+Mojo	os	Android
+Mojo	os	Android version history
+Dialog i43	os	Android
+Dialog i43	os	Gingerbread
+CloudLocker	os	Linux
+Kyocera Hydro	os	Android 4.0 Ice Cream Sandwich
+Huawei Ascend P6	os	96.0
+Huawei Ascend P6	os	Current: Android 4.4.2 \
+HTC Butterfly S	os	Android 4.2.2 with Sense 5.0
+Sony Xperia ZR	os	Android
+Sony Xperia ZR	os	Android version history
+Sony Xperia ZR	os	Android Lollipop
+LG Optimus L5 II	os	Android version history
+LG G2	os	Original: Android 4.2.2 \
+LG G2	os	Current: Android 5.0.2 \
+HTC One Mini	os	Android 4.3
+Ubuntu Edge	os	Ubuntu Touch and Android
+Nokia Lumia 625	os	Windows Phone 8
+Droid MAXX	os	Android
+Droid Mini	os	4.2
+Droid Mini	os	upgradeable to 4.4 KitKat
+Droid Mini	os	As of lately, Motorola said on their website that the droid mini will not be receiving the lollipop update. According to this web site https://motorola-global-portal.custhelp.com/app/software-upgrade-news/g_id/1949
+Nexus 7	os	Android 4.3/\
+Sony Xperia Z Ultra	os	Android
+Sony Xperia Z Ultra	os	Android version history
+IPhone 5C	os	Original: iOS 7.0
+IPhone 5C	os	2016-09-23
+Sony Xperia L	os	Android 4.1.2, latest version Android 4.2.2
+Samsung Galaxy Tab 3 7.0	os	Android 4.1.2 Jellybean upgradeable to Android 4.4.2 KitKat with TouchWiz
+Samsung Galaxy Tab 3 10.1	os	Android 4.2.2 JellyBean upgradable to 4.4.4 KitKat, unofficial to 6.0.1 Cyanogenmod
+Samsung Galaxy Tab 3 8.0	os	Android 4.2.2 Jelly Bean
+Arirang	os	Android
+Samsung Galaxy Gear	os	Tizen, Android 4.3
+Samsung Galaxy Note 4	os	Original: Android 4.4.4 \
+Samsung Galaxy Note 4	os	Current: Android 6.0.1 \
+Asus Memo Pad ME172V	os	Android 4.1.1
+Utilite	os	Ubuntu
+Utilite	os	Android
+Huawei Ascend G330	os	Android  4.0.4
+Nintendo 2DS	os	Nintendo 3DS system software
+Dialog K45	os	Android
+Dialog K45	os	Ice Cream Sandwich
+Omate TrueSmart	os	Android 4.2.2 with Omate User Interface 2.1
+Sony Xperia Z1	os	Android
+Sony Xperia Z1	os	Android version history
+Sony Xperia Z1	os	Android 5.1.1 Lollipop
+Xiaomi Mi 3	os	Custom MIUI on Android  KitKat (4.4.4)
+Qualcomm Toq	os	Qualcomm OS
+Qualcomm Toq	os	Can communicate with Android apps using Bluetooth
+Samsung Galaxy Note 10.1 2014 Edition	os	Android 4.3 Jelly Bean with TouchWiz Nature UX 2.5
+LG G Pad 8.3	os	Android 4.2.2 Jelly Bean
+Sol	os	Ubuntu
+PlayStation TV	os	PlayStation Vita system software
+LG Optimus L4 II	os	Android 4.1
+BlackBerry Z30	os	Blackberry 10.2 update to 10.3.2
+BlackBerry Z30	os	Available Since October 2013
+Surface 2	os	Windows RT
+Surface Pro 2	os	Windows 8.1 Pro 64-bit upgradable to Windows 10
+Oppo N1	os	Android
+Oppo N1	os	Jelly Bean
+Oppo N1	os	CyanogenMod 10.2
+Fire HDX	os	Fire OS 3, upgradable to Fire OS 4
+LG Optimus Vu II	os	Google Android v4.0.4 ICS
+Steam Machine	os	SteamOS
+LG Vu 3	os	Google Android v4.2.2 Jellybean
+LG Vu 3	os	Android v4.4.2 KitKat
+Tesco Hudl	os	Android Jelly Bean
+Lenovo Yoga 2 Pro	os	Windows 8.1
+ThinkPad Yoga	os	Microsoft Windows
+Samsung Galaxy Round	os	Android
+Samsung Galaxy Round	os	Android version history
+Samsung Galaxy S4 Active	os	Android
+Samsung Galaxy S4 Active	os	Android version history
+Samsung Galaxy S4 Active	os	Android 5.0.1 Lollipop
+HTC One Max	os	Android 4.4.2 KitKat with Sense 6.0
+Nexus 5	os	Android \
+Dialog K35	os	Android
+Dialog K35	os	Ice Cream Sandwich
+Samsung Galaxy Pocket Duos	os	Android 2.3  with TouchWiz 3.0
+Samsung Galaxy Pocket Plus	os	Android 4.0 ICS with TouchWiz Nature UX
+Samsung Galaxy Pocket Neo	os	Android 4.1.2 Jelly Bean with TouchWiz Nature UX
+Samsung Galaxy Y Plus	os	Android 4.0 Ice Cream Sandwich
+IPad Air	os	Original: iOS 7.0.3
+IPad Air	os	2016-09-23
+IPad Mini 2	os	Original: iOS 7.0.3
+IPad Mini 2	os	2016-09-23
+Nokia Lumia 2520	os	Windows RT
+Nokia Lumia 2520	os	Windows 8.1
+Nokia Lumia 1520	os	Windows Phone 8
+Nokia Lumia 1520	os	Windows 10 Mobile
+Nokia Lumia 1320	os	Windows Phone 8
+IPad Mini	os	Original: iOS 6.0.1
+IPad Mini	os	2016-08-25
+Samsung Ativ Tab 3	os	Windows 8
+Samsung Ativ Tab 5	os	Windows 8, upgradeable to Windows 8.1
+Samsung Ativ Tab 7	os	Windows 8
+Project Ara	os	Android
+LG Optimus Pad LTE	os	--05-02
+LG G Flex	os	Android
+LG G Flex	os	Android version history
+LG G Pro Lite	os	Android 4.4.2 KitKat
+Huawei Ascend W2	os	Windows Phone 8
+Samsung Galaxy Express 2	os	Android OS v4.2.2  with TouchWiz UI
+Intel Galileo	os	Linux
+Intel Galileo	os	Linux
+Moto G	os	Android
+Moto G	os	Android version history
+Asus Memo Pad 8	os	Android 4.2
+Samsung Galaxy J	os	Original: Android 4.3 Jelly Bean
+Samsung Galaxy J	os	Current: Android 5.0 Lollipop
+HTC Desire 601	os	Android
+HTC Desire 601	os	Jelly Bean
+Tegra Note 7	os	Android
+Tegra Note 7	os	Android version history
+Samsung Galaxy Grand 2	os	Original: Android 4.3 \
+Samsung Galaxy Grand 2	os	with TouchWiz Nature UX
+Samsung Galaxy Grand 2	os	Current: Android 4.4.2 \
+Samsung YP-R0	os	Proprietary firmware  / Rockbox
+Nokia X	os	Nokia X platform \n* Multi-touch capacitive touchscreen display, up to 2 fingers
+Samsung Galaxy Core Advance	os	Android
+Samsung Galaxy Core Advance	os	Android version history
+Samsung Galaxy S Duos 2	os	Android 4.2.2 Jelly Bean
+Lenovo IdeaPhone A820	os	Android 4.1.2 \
+Nokia Lumia 630	os	Windows Phone 8.1
+CCE MC-1000	os	BASICUS
+Samsung YP-R1	os	Proprietary firmware  / Rockbox
+Samsung Galaxy Chat	os	Android 4.0.4  and upgradeable to 4.1.2
+Huawei Ascend Mate 2 4G	os	Android
+Huawei Ascend Mate 2 4G	os	Android version history
+Asus Transformer Book Duet	os	Android
+Asus Transformer Book Duet	os	Windows
+Sony Xperia Z1 Compact	os	Android
+Sony Xperia Z1 Compact	os	Android version history
+Sony Xperia Z1 Compact	os	Android 4.4.4 Kit Kat
+Sony Xperia Z1 Compact	os	Android 5.0.2 Lollipop
+Sony Xperia Z1 Compact	os	Android 5.1.1 Lollipop
+Samsung Galaxy Tab Pro 8.4	os	Android 4.4 Kitkat
+Acer Liquid Z5	os	Android
+Acer Liquid Z5	os	Android version history
+Samsung Galaxy Note Pro 12.2	os	Android 4.4.2 KitKat with Magazine UX upgradable to Android 5.0.2 lollipop
+Samsung Galaxy Tab Pro 10.1	os	Android 4.4 KitKat with TouchWiz Nature UX
+Samsung Galaxy Tab Pro 12.2	os	Android 4.4 KitKat with TouchWiz Nature UX
+Blackphone	os	Silent OS
+Flare	os	Android 4.1.2
+Samsung Galaxy Tab 3 Lite 7.0	os	Android 4.2.2 Jelly Bean API 17
+Fusion Bolt	os	Android 4.1.1
+Lenovo P780	os	Android
+LG G Pro 2	os	Android 4.4\
+DragonBox Pyra	os	Debian
+IPod Touch	os	Original: iOS 6.0
+IPod Touch	os	2016-08-25
+Sony Xperia E1	os	Android 4.4.2 Kitkat
+I'm Watch	os	Android 2.1
+Osborne PC prototype	os	DOS
+Kreyos	os	IOS 4
+Kreyos	os	Android
+LG Gx	os	Android 4.3
+Samsung Gear 2	os	Tizen
+Samsung Galaxy S5 Mini	os	Android
+Samsung Galaxy S5 Mini	os	Android KitKat
+Samsung Galaxy S5 Mini	os	Current: Android 5.1.1\
+Nokia X family	os	Nokia X platform
+Nokia XL	os	Nokia X Software Platform
+LG G2 Mini	os	Android 4.4.2
+LG G2 Mini	os	Android 5.0.2
+HTC One	os	Original: Android 4.4.2 \
+HTC One	os	Current: Android 6.0 \
+HTC One	os	Original: Windows Phone 8.1 Update 1
+HTC One	os	Beta: Windows 10 Mobile
+Samsung Gear Fit	os	Proprietary RTOS
+MTS 945	os	Android
+MTS 945	os	Froyo
+Samsung ATIV SE	os	Windows Phone 8
+Samsung Galaxy Core LTE	os	Android 4.2.2 \
+HTC Desire 610	os	Android 4.4.2 KitKat with HTC Sense 6.0
+Sony Xperia Z2 tablet	os	Android 4.4.2 and up to 6.0.1
+HTC Desire 816	os	Android v4.4.2  \nAndroid v5.0.2  \nHTC Sense 6.0\n\nUpgradeable to Android 6.0\nHTC Sense 7.0
+HTC Desire 310	os	Android
+HTC Desire 310	os	Android Jelly Bean
+Samsung Galaxy Note 3 Neo	os	Android
+Samsung Galaxy Note 3 Neo	os	Android Jelly Bean
+Samsung Galaxy Note 3 Neo	os	Current: Android 5.0 \
+LG G3	os	Original: Android 4.4.2 \
+LG G3	os	Current: Android 6.0 \
+Nokia Lumia 530	os	Windows Phone 8.1
+LG G Watch	os	Android Wear 1.5.0.3058194
+Moto 360	os	Android Wear
+IPhone 6	os	* Original:
+IPhone 6	os	IOS 8
+IPhone 6	os	* Current:
+IPhone 6	os	IOS 10
+IPhone 6	os	, released
+IPhone 6	os	2016-09-23
+HTC Gratia	os	Android 2.2
+OnePlus One	os	Original: Android 4.4.2 \
+OnePlus One	os	Android 4.3 \
+OnePlus One	os	Current: Android 6.0.1 \
+OnePlus One	os	Android 5.0.2 \
+Amazon Fire TV	os	Fire OS 5 \
+Nokia Lumia 930	os	Windows Phone 8.1
+Nokia Lumia 930	os	Windows 10 Mobile
+Lenovo A526	os	Android 4.2
+Banana Pi	os	Android ，Linux , Berryboot, FreeBSD, OpenWrt
+Banana Pi	os	Android ，Linux , Berryboot, FreeBSD
+Samsung Galaxy Tab 4 10.1	os	Android 4.4.2 KitKat
+Samsung Galaxy Tab 4 8.0	os	Android 4.4.2 KitKat \n\n Android 5.0 Lollipop
+Samsung Galaxy Tab 4 7.0	os	Android 4.4.2 KitKat SM-T235: Upgradeable to Android 5.1.1 \
+JXD P861	os	Android
+Meizu MX3	os	Flyme OS, based on Android 4.2 Jelly Bean
+Moto E	os	Android 4.4.4 \
+Nokia 1616	os	Series 30
+BlackBerry Z3	os	BlackBerry 10
+BlackBerry Z3	os	Available Since February 2014
+Huawei Ascend Y300	os	Android
+Huawei Ascend Y300	os	Jelly Bean
+LG G Pad 8.0	os	Android 4.4.2 Kitkat
+LG G Pad 8.0	os	Upgradeable to 5.0.2 Lollipop
+LG G Pad 7.0	os	Android 4.4.2 Kitkat
+LG G Pad 7.0	os	Upgradeable to 5.0.2 Lollipop
+LG G Pad 10.1	os	Android 4.4.2 Kitkat
+LG G Pad 10.1	os	Upgradeable to 5.0.2 Lollipop
+HTC One Mini 2	os	Android KitKat
+Surface Pro 3	os	*
+Surface Pro 3	os	Windows 8.1
+Surface Pro 3	os	64
+Surface Pro 3	os	Windows 10 Pro
+Samsung Galaxy Tab 4 Education	os	Android 4.4 KitKat
+ASUS MeMO Pad HD 7	os	Android 4.2
+HTC Desire SV	os	Android 4.0.4 Ice Cream Sandwich, HTC Sense 4+ overlay
+Android TV	os	Android
+Samsung Galaxy Tab S 8.4	os	Android 4.4.2 Kitkat . Upgradeable to 5.0.2 Lollipop 32-bit in some countries \n                     2016-08-September, 6.0.1 Marshmallow was released for this device by Samsung.
+Samsung Galaxy Tab S 10.5	os	Android
+Samsung Galaxy Tab S 10.5	os	Android KitKat
+Samsung Galaxy Tab S 10.5	os	5
+Aquos Phone SH-06D	os	Android
+Aquos Phone SH-06D	os	Gingerbread
+Xiaomi Mi 2A	os	MIUI
+Xiaomi Mi 2A	os	Android version history
+Fire Phone	os	Original Fire OS 3.5
+Fire Phone	os	Current Fire OS 4.6.5 , 4.6.6.1 .
+Nexus 9	os	Android Lollipop
+Nexus 9	os	upgradable to Android 7.0 Nougat
+Samsung Gear Live	os	Android Wear
+Android One	os	Stock Android provided by Google
+Nokia 3710 fold	os	Nokia OS Series 40 6th Edition
+Nokia X2	os	Nokia X platform 2.0
+Surface	os	Windows RT
+Google Cardboard	os	Android
+Google Cardboard	os	IOS
+Apple Watch	os	Apple Watch Original: watchOS 2
+Apple Watch	os	Apple Watch Series 1: watchOS 3\nApple Watch Series 2: watchOS 3
+Alcatel One Touch Fire	os	Firefox OS
+Samsung Galaxy Alpha	os	Original: Android 4.4.4 \
+Samsung Galaxy Alpha	os	Current: Android 5.0.2 \
+BlackBerry Passport	os	BlackBerry 10
+Xiaomi Mi 4	os	Original: MIUI 5
+Xiaomi Mi 4	os	Current: MIUI 8
+Xiaomi Mi 4	os	2015-12-03
+Shield Tablet	os	Android Lollipop OS
+Surface 3	os	*
+Surface 3	os	Windows 8.1
+Surface 3	os	64
+Surface 3	os	Windows 10
+Redmi 1S	os	Android v4.4.4 Kitkat with MIUI v6 \n Android v4.4.4 Kitkat with MIUI v7
+BlackBerry Porsche Design P'9982	os	BlackBerry 10
+BlackBerry Porsche Design P'9982	os	--01-28
+Nokia 130	os	Nokia Series 30+
+Samsung Gear S	os	Tizen
+LG G Watch R	os	Android Wear
+Intex Cloud FX	os	Firefox OS
+New Nintendo 3DS	os	Nintendo 3DS system software
+Samsung Gear VR	os	Android
+Samsung Galaxy Note Edge	os	Android (operating system) Original: Android 4.4 \
+Nokia Lumia 830	os	Windows Phone 8.1
+Nokia Lumia 830	os	Lumia Denim
+Moto X	os	Original: Android 4.4.4 \
+Moto X	os	Current: Android 6.0 \
+Moto G	os	Android
+Moto G	os	KitKat
+Nokia Lumia 735	os	Windows Phone 8.1  with Lumia Denim, upgradable to Windows 10 Mobile
+Meizu MX4	os	Flyme OS, based on Android 4.4 KitKat
+Samsung Galaxy Xcover 2	os	Android 4.1 Jelly Bean
+Samsung Galaxy Xcover	os	Android 2.3 Gingerbread
+Asus Transformer Pad TF701T	os	Android Jelly Bean 4.2.2
+Nexus Player	os	Android Nougat
+IPad Mini 3	os	Original: iOS 8.1
+IPad Mini 3	os	2016-09-23
+IPad Air 2	os	Original: iOS 8.1
+IPad Air 2	os	2016-09-23
+Micromax Canvas A1	os	Android
+Micromax Canvas A1	os	Android version history
+Droid Turbo	os	Android
+Microsoft Lumia 535	os	Windows Phone 8.1
+Amazon Echo	os	Amazon Web Services
+Nokia N1	os	Android
+Nokia N1	os	Android Lollipop
+Jolla Tablet	os	Sailfish OS 2.0 based on the MeeGo Linux with Mer core stack middleware, 14 national languages versions included.
+Meizu MX4 Pro	os	Flyme OS, based on Android 4.4 KitKat
+Tesco Hudl 2	os	Android KitKat
+Tesco Hudl 2	os	upgradable to 5.1 Lollipop
+BlackBerry Classic	os	BlackBerry 10
+Advance 86	os	MS BASIC / MS-DOS
+Timex Computer 3256	os	Sinclair BASIC
+Timex Computer 3256	os	M
+ENER 1000	os	M
+HTC Desire Eye	os	Original: Android 4.4.4 \
+HTC Desire Eye	os	Current: Android 6.0.1 Marshmallow\
+LG G Flex 2	os	Android 5.1.1 \
+Nokia 215	os	Series 30+
+Asus ZenWatch	os	Original: Android 4.4W.2
+Asus ZenWatch	os	Current: Android Wear 5.1.1
+Microsoft Lumia 435	os	Windows Phone 8.1  Upgradable to Windows 10 Mobile
+Microsoft Lumia 532	os	Windows Phone 8.1 Upgradeable to Windows 10 Mobile
+PonoPlayer	os	Android 2.3
+Microsoft HoloLens	os	Windows Holographic
+Surface Hub	os	Windows 10 Pro
+Red Pitaya	os	Linux
+Poly-1	os	FLEX
+Spice Dream Uno	os	Android 4.4.4 KitKat upgradable to Android 6.0.1 Marshmallow
+Nintendo 3DS family	os	Nintendo 3DS system software
+Pebble Time	os	Pebble OS, with a customized FreeRTOS kernel
+Moto E	os	Android
+Moto E	os	Lollipop
+HTC One M9	os	Android
+HTC One M9	os	Android Lollipop
+Samsung Galaxy S6	os	S6 and S6 Edge:  Android 5.0.2 \
+Samsung Galaxy S6	os	S6 Edge+: Android 5.1.1 \
+Samsung Galaxy S6	os	Current: Android 6.0.1 \
+Sony Xperia Z4 Tablet	os	Android 5.0 Lollipop, upgradeable to 6.0.1 Marshmallow
+Microsoft Lumia 640	os	Windows Phone 8.1 Update 2
+SHIELD Android TV	os	Android TV
+LG Optimus L70	os	Android 4.4.2 KitKat
+Sony Xperia E4	os	'Android 4.4.4 \
+MacBook	os	MacOS
+Samsung Galaxy S Duos 3	os	Android 4.4.2 KitKat
+VoCore	os	OpenWrt
+HTC Desire 620	os	Android
+HTC Desire 620	os	Android version history
+OnePlus 2	os	120.0
+OnePlus 2	os	Current: Android Android Marshmallow: OxygenOS  3.0.2
+Microsoft Lumia 430	os	Windows Phone 8.1 Update 1  planned upgrade to Windows 10 Mobile
+BlackBerry Leap	os	BlackBerry 10
+Microsoft Lumia 540	os	Windows Phone 8.1 Update 2 , upgradable to Windows 10 Mobile
+Meizu M1 Note	os	Android 4.4 or up gradable to 5.0 Lollipop
+HP Pavilion x360	os	Windows 8, Windows 8.1 and Windows 10
+Surface Pro 4	os	Windows 10 Pro
+HTC Desire 820	os	Android
+HTC Desire 820	os	Android version history
+LG G4	os	Original: Android 5.1.1 \
+LG G4	os	Current: Android 6.0 \
+Sony Xperia Z3+	os	Android Lollipop
+Sony Xperia Z3+	os	Android Marshmallow
+Sony Xperia Z3+	os	Android Nougat
+Xiaomi Mi4i	os	Original: MIUI 6
+Xiaomi Mi4i	os	2016-03-24
+Intel Compute Stick	os	Windows 10
+Intel Compute Stick	os	Windows 8.1
+Intel Compute Stick	os	Linux
+Samsung Galaxy Core Prime	os	Android KitKat
+Samsung Galaxy Core Prime	os	upgradable to Android Lollipop 5.0.2 or 5.1.1
+Samsung Galaxy Mega 2	os	Android 4.4.4 KitKat with Touchwiz UI
+Samsung Galaxy Ace 4	os	Android 4.4.2 KitKat
+Samsung Galaxy S6 Active	os	Android Lollipop
+BQ Aquaris E4.5	os	Android
+BQ Aquaris E4.5	os	Ubuntu Touch
+BQ Aquaris E5	os	Android
+BQ Aquaris E5	os	Ubuntu Touch
+Nokia 105	os	Nokia Series 30+
+Meizu MX5	os	Flyme OS, based on Android 5.0 Lollipop
+Meizu MX2	os	Flyme OS, based on Android 4.1.1 Jelly Bean
+Xiaomi Redmi 2	os	MIUI
+Isai VL LGV31	os	Original: Android 4.4 \
+Isai VL LGV31	os	Planned: Android 5.0 \
+IPod Touch	os	Original: iOS 8.4
+IPod Touch	os	2016-09-23
+YU Yureka	os	CyanogenMod 11 based on Android 4.4.4 \
+Samsung Galaxy Tab S2 9.7	os	Android 5.0.2 Lollipop \nUpgradable to 6.0.1
+Samsung Galaxy Tab S2 8.0	os	Android
+Samsung Galaxy Tab S2 8.0	os	Android Lollipop
+HTC Desire 820q dual sim	os	Android
+HTC Desire 820q dual sim	os	Android version history
+Meizu M2 Note	os	Flyme OS, based on Android 5.0 Lollipop
+Nokia X1-00	os	Series 30
+Fairphone 1	os	Android 4.2.2 with specific extensions
+Fairphone 2	os	Android 5.1
+Nokia X2-05	os	Series 40
+LG Leon	os	Android
+LG Leon	os	Original: 5.0.2
+Nokia C1-02	os	Series 40
+Nokia C2-05	os	Series 40, SPR 10.4
+Nokia 600	os	Symbian Belle
+Nokia C7 Astound	os	Symbian OS 3, upgradable to Symbian Belle
+Moto G	os	Android 5.1.1 \
+Moto X Play	os	Original: Android 5.1.1 \
+Moto X Play	os	Current: Android 6.0.1 \
+Moto X Style	os	Android
+Moto X Style	os	Android Lollipop
+Moto X Style	os	Upgradable to Android 6.0 \
+IPhone 6S	os	Original: iOS 9.0
+IPhone 6S	os	2016-09-23
+LG G3 Stylus	os	Original: Android 4.4.2 \
+LG G3 Stylus	os	Current: Android 5.0.2 \
+Samsung Galaxy J5	os	Android 5.1.1 Lollipop; upgradable to Android 6.0.1 Marshmallow
+Samsung Galaxy E5	os	Original: Android 4.4.4 KitKat
+Samsung Galaxy E5	os	Current: Android 5.1.1 Lollipop
+Sony Xperia M5	os	Android Lollipop
+Sony Xperia M5	os	Android Marshmallow
+Sony Xperia C5 Ultra	os	Android Lollipop
+Sony Xperia C5 Ultra	os	Android Marshmallow
+Sony Xperia M4 Aqua	os	Android
+Sony Xperia M4 Aqua	os	Android Lollipop
+Sony Xperia M4 Aqua	os	Android 6.0.1 Marshmallow
+Nokia 222	os	Series 30+
+Sony Xperia C4	os	Android Lollipop
+Sony Xperia C4	os	Android Marshmallow
+Sony Xperia Z3 Tablet Compact	os	Android
+Sony Xperia Z3 Tablet Compact	os	4.4
+Sony Xperia Z3 Tablet Compact	os	5
+Sony Xperia Z3 Tablet Compact	os	5.1
+Sony Xperia Z3 Tablet Compact	os	6
+LG Watch Urbane	os	Android Wear
+LG Watch Urbane	os	WebOS
+Huawei Honor 6	os	Android 4.4 \
+Sony Xperia Z5	os	Android Lollipop
+Sony Xperia Z5	os	Android Marshmallow
+Sony Xperia Z5	os	Android Nougat
+Sony Xperia Z5 Premium	os	Latest available software\n\nAndroid 5.1.1 Lollipop
+Sony Xperia Z5 Premium	os	Android Marshmallow
+Sony Xperia Z5 Premium	os	Android 7.0 Nougat \n\nLatest available software:\t 32.2.A.0.305
+Sony Xperia Z5 Premium	os	Release started:\t 2016-10-10
+Sony Xperia Z5 Compact	os	Android Lollipop
+Sony Xperia Z5 Compact	os	Android Marshmallow
+IPad Mini 4	os	Original: iOS 9.0
+IPad Mini 4	os	2016-09-23
+IPad Pro	os	Original: iOS 9.1
+IPad Pro	os	iOS 9.3
+IPad Pro	os	2016-09-23
+Cherry Mobile Flare	os	Android
+BlackBerry Priv	os	Android
+BlackBerry Priv	os	Original: Android 5.1.1 \
+BlackBerry Priv	os	Current: Android 6.0.1 \
+Nexus 5X	os	Android \
+Nexus 6P	os	Original: Android \
+Imagination Creator	os	Debian 7, Android KitKat 4.4
+ZUK Z1	os	726.0
+Huawei Watch	os	Android Wear
+Pixel C	os	Android 6.0 Marshmallow
+Microsoft Lumia 950	os	Windows 10 Mobile
+Itvmediacenter	os	Cross-platform
+Itvmediacenter	os	Web application
+Surface Book	os	Windows 10
+Surface Book	os	Windows 10 editions
+Microsoft Lumia 550	os	Windows 10 Mobile
+Microsoft Lumia 950 XL	os	Windows 10 Mobile
+Huawei Honor 7	os	Android 5.0 Lollipop upgradeable to Android 6.0 Marshmallow
+Acer Liquid Z630	os	Android 5.1 'Lollipop'.
+CHIP	os	Linux
+X-Tel 9500	os	Nucleus RTOS Android 4.42 or 5.0
+X-Tel 7500	os	Nucleus RTOS Android 4.42 or 5.0
+XL-Viewer 5000	os	Nucleus RTOS
+XL-Viewer 5000	os	Android
+Magic Mouse 2	os	Mac OS X El Capitan v 10.11 and higher
+Magic Trackpad 2	os	Mac OS X El Capitan v 10.11 and higher
+HTC One A9	os	Original: Android \
+Lava Pixel V1	os	Android 6.0 Marshmallow
+HTC One M9+	os	Android 5.0 \
+HTC One E9+	os	Android
+HTC One E9+	os	Android Lollipop
+OnePlus X	os	Android 5.1.1 \
+OnePlus X	os	HydrogenOS
+OnePlus X	os	Current: Android 6.0.1 \
+Kubity	os	Android
+Kubity	os	IOS
+Kubity	os	Windows
+Kubity	os	MacOS
+Kubity	os	Linux
+Samsung Galaxy J7	os	Android 5.1 \
+LG V10	os	Original: Android 5.1.1 \
+Meizu M2	os	Android
+Meizu M2	os	Android Lollipop
+Huawei Honor 4X	os	Android 4.4.2 KitKat upgradeable to Android 6.0 Marshmallow
+HTC Desire 500	os	Android
+HTC Desire 500	os	Android Jellybean
+HTC Butterfly 3	os	Android
+HTC Butterfly 3	os	Android Lollipop
+HTC Desire 626	os	Original: Android 4.4.4 KitKat
+HTC Desire 626	os	Current: Android 5.1.0 Lollipop
+Xiaomi Redmi Note 3	os	Android Lollipop
+Moto 360	os	Android Wear
+Redmi Note Prime	os	Android v4.4.4 Kitkat with MIUI v7
+Samsung Gear S2	os	Tizen
+Xiaomi Mi Pad	os	Android v4.4.4 Kitkat with MIUI v6
+SPC-1000	os	DOS
+Ockel Sirius B	os	Windows 10
+Samsung Galaxy Tab E 9.6	os	Original: Android 4.4.4 \
+Samsung Galaxy Tab E 9.6	os	Current: Android 6.0 \
+Samsung Galaxy Tab A 9.7	os	Android Lollipop
+Samsung Galaxy Tab A 9.7	os	Android Marshmallow
+Samsung Galaxy Tab A 8.0	os	Android 5.0.2 Lollipop Upgradeable to Marshmallow 6.0.1
+FYQ-93	os	JSS JOVIAL
+Samsung Galaxy TabPro S	os	Windows 10
+Samsung Galaxy Active Neo	os	Android 5.1.1 Lollipop
+BQ Aquaris M10	os	Android
+BQ Aquaris M10	os	Ubuntu Touch
+LG G5	os	Original: Android 6.0 \
+Samsung Galaxy S7	os	Android Marshmallow
+Microsoft Lumia 650	os	Windows 10 Mobile
+Cat S60	os	Android 6.0 Marshmallow
+Freedom 251	os	Android Lollipop
+Sony Xperia XA	os	Android
+Sony Xperia X	os	Android Marshmallow
+Sony Xperia X	os	Android Nougat
+Sony Xperia E3	os	Android
+Sony Xperia X Performance	os	Android Marshmallow
+Sony Xperia X Performance	os	Android Nougat
+Xiaomi Mi Note	os	Android 4.4
+IPhone SE	os	Original: iOS 9.3
+IPhone SE	os	2016-09-23
+Meizu Pro 5	os	Android Lollipop
+Meizu Pro 5	os	Ubuntu Touch
+Lenovo Vibe P1	os	Android Lollipop
+Huawei MateBook	os	Windows 10（Home Or Pro）
+Magic Keyboard	os	Mac OS X El Capitan v 10.11 and higher
+PC 1715	os	SCP
+Samsung Galaxy On5	os	Android
+Samsung Galaxy On5	os	Android Marshmallow
+Samsung Galaxy On7	os	Android
+Samsung Galaxy On7	os	Android Lollipop
+Samsung Galaxy Grand Prime	os	Android
+Samsung Galaxy Note 7	os	Android 6.0 Marshmallow
+Dell Inspiron 11 3000 Series 2-in-1	os	Windows 8.1
+Dell Inspiron 11 3000 Series 2-in-1	os	Windows 10
+HTC 10	os	Android
+HTC 10	os	Android Marshmallow
+Moto G4	os	Android
+Moto G4	os	Android Marshmallow
+Google Home	os	Chromecast Operating System
+Google Daydream	os	Native: Android
+OnePlus 3	os	OxygenOS
+OnePlus 3	os	HydrogenOS
+Lenovo Vibe K4 Note	os	Android 5.1.1 Lollipop, upgradeable to Marshmallow 6.0
+55	os	Japanese DOS
+55	os	PC DOS
+55	os	V
+55	os	2
+55	os	Windows 3.x
+LG K10	os	Original: Android 6.0 \
+Moto Z	os	Original: Android \
+Siemens PC-D	os	PC-X: SINIX, PC-D: MS-DOS 2.11
+PDP-12	os	OS/8 , DIALPS, LAP6W
+Ziosk	os	Android
+BlackBerry DTEK50	os	Android
+BlackBerry DTEK50	os	Android Marshmallow
+Alcatel Idol 4	os	Android
+Alcatel Idol 4	os	Android Marshmallow
+Toshiba T1000LE	os	MS-DOS 3.3/4.01
+Meizu MX6	os	Flyme OS, based on Android 6.0 Marshmallow
+Meizu PRO 6	os	Flyme OS, based on Android 6.0 Marshmallow
+Meizu M3 Note	os	Flyme OS, based on Android 5.1 Lollipop
+Meizu M3S	os	Flyme OS, based on Android 5.1 Lollipop
+Nokia Lumia McLaren	os	Windows Phone 8.1 Update 1
+Meizu MX4 Ubuntu Edition	os	Ubuntu Touch
+Sony Xperia XZ	os	Android Marshmallow
+Sony Xperia X Compact	os	Android Marshmallow
+Meizu PRO 5	os	Flyme OS, based on Android 5.1 Lollipop
+Meizu M3E	os	Flyme OS, based on Android 6.0 Marshmallow
+Meizu PRO 5 Ubuntu Edition	os	Ubuntu Touch
+Meizu M3 Max	os	Flyme OS, based on Android 6.0 Marshmallow
+IPhone 7	os	Original: iOS 10.0
+IPhone 7	os	2016-10-17
+Apple Watch Series 2	os	WatchOS
+Meizu U10	os	Flyme OS, based on Android 6.0 Marshmallow
+Meizu U20	os	Flyme OS, based on Android 6.0 Marshmallow
+Samsung Galaxy J5	os	Android
+Samsung Galaxy J5	os	Android Marshmallow
+Samsung Galaxy Tab A 10.1	os	Android Marshmallow
+LG V20	os	Original: Android 7.0 \
+Pepsi P1	os	Android Lollipop
+Huawei P8 Lite	os	Android 6.0 with EMUI 4.0
+Pixel	os	Android
+Pixel	os	Android Nougat

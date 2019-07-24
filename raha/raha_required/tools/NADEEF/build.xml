@@ -1,0 +1,309 @@
+<!--
+QCRI, NADEEF LICENSE
+NADEEF is an extensible, generalized and easy-to-deploy data cleaning platform built at QCRI.
+NADEEF means “Clean” in Arabic
+
+Copyright (c) 2011-2013, Qatar Foundation for Education, Science and Community Development (on
+behalf of Qatar Computing Research Institute) having its principle place of business in Doha,
+Qatar with the registered address P.O box 5825 Doha, Qatar (hereinafter referred to as "QCRI")
+
+NADEEF has patent pending nevertheless the following is granted.
+NADEEF is released under the terms of the MIT License, (http://opensource.org/licenses/MIT).
+-->
+<project name="Nadeef Build" default="all" basedir=".">
+
+    <!-- Common property values -->
+    <property name="project.name" value="nadeef" />
+    <property name="dashboard.name" value="nadeef-web" />
+    <property name="service.name" value="nadeef-service" />
+
+    <property name="build.root" value="out" />
+    <property name="build.dir" value="${build.root}/production" />
+    <property name="test.dir" value="${build.root}/test" />
+    <property name="testresult.dir" value="${build.root}/testresult" />
+    <property name="vendor.dir" value="vendors" />
+
+    <property name="console.class" value="qa.qcri.nadeef.console.Console" />
+    <property name="dashboard.class" value="qa.qcri.nadeef.web.NadeefStart" />
+    <property name="service.class" value="qa.qcri.nadeef.service.NadeefService" />
+
+    <!-- Common used paths -->
+    <path id="service.deps">
+        <fileset dir="${vendor.dir}" includes="*.jar" />
+        <fileset dir="${build.root}/bin" includes="${project.name}.jar" />
+    </path>
+
+    <path id="dashboard.deps">
+        <fileset dir="${vendor.dir}" includes="*.jar" />
+        <fileset dir="${build.root}/bin" includes="${project.name}.jar" />
+        <fileset dir="${build.root}/bin" includes="${service.name}.jar" />
+    </path>
+
+    <path id="core.deps">
+        <fileset dir="${vendor.dir}" includes="*.jar" />
+    </path>
+
+    <!-- JDK 1.8 check -->
+    <condition property="version1.8">
+        <or>
+            <equals arg1="${ant.java.version}" arg2="1.7" />
+            <equals arg1="${ant.java.version}" arg2="1.8" />
+        </or>
+    </condition>
+
+    <!-- Targets -->
+    <target name="clean">
+        <delete dir="${build.root}" includeemptydirs="true" />
+    </target>
+
+    <target name="all"
+            description="Clean build on all the NADEEF files and creates the JAR file."
+            depends="clean, compile, jar">
+     </target>
+
+    <target name="compile" 
+            description="Compile all the NADEEF components"
+            depends="test, web">
+    </target>
+
+    <target name="jar" depends="compile">
+        <manifestclasspath property="dashboard.manifest"
+                           jarfile="${dashboard.name}.jar">
+            <classpath refid="dashboard.deps" />
+        </manifestclasspath>
+
+        <manifestclasspath property="console.manifest"
+                           jarfile="${project.name}.jar">
+            <classpath refid="core.deps" />
+        </manifestclasspath>
+
+        <manifestclasspath property="service.manifest"
+                           jarfile="${service.name}.jar">
+            <classpath refid="service.deps" />
+        </manifestclasspath>
+
+        <jar destfile="${build.root}/bin/${project.name}.jar">
+            <fileset dir="${build.dir}" includes="**/*">
+                <exclude name="qa/qcri/nadeef/web/**" />
+                <exclude name="qa/qcri/nadeef/service/**" />
+            </fileset>
+            <file file="log4j.properties"/>
+            <manifest>
+                <attribute name="Main-Class" value="${console.class}" />
+                <attribute name="Created-By" value="${ant.java.version}" />
+                <attribute name="Class-Path" value="${console.manifest}" />
+            </manifest>
+        </jar>
+
+        <jar destfile="${build.root}/bin/${service.name}.jar">
+            <fileset dir="${build.dir}" includes="qa/qcri/nadeef/service/**" />
+            <file file="service/log4j.properties"/>
+            <manifest>
+                <attribute name="Main-Class" value="${service.class}" />
+                <attribute name="Created-By" value="${ant.java.version}" />
+                <attribute name="Class-Path" value="${service.manifest}" />
+            </manifest>
+        </jar>
+
+        <jar destfile="${build.root}/bin/${dashboard.name}.jar">
+            <fileset dir="${build.dir}" includes="qa/qcri/nadeef/web/**" />
+            <file file="web/log4j.properties"/>
+            <manifest>
+                <attribute name="Main-Class" value="${dashboard.class}" />
+                <attribute name="Created-By" value="${ant.java.version}" />
+                <attribute name="Class-Path" value="${dashboard.manifest}" />
+            </manifest>
+        </jar>
+
+        <copy todir="${build.root}/bin">
+            <fileset dir="${vendor.dir}" />
+        </copy>
+        <copy file="LICENSE" todir="${build.root}/bin" />
+    </target>
+
+    <!-- Targets per component -->
+    <target name="console" depends="core">
+        <fail message="JDK 1.8 required" unless="version1.8" />
+        <javac includeantruntime="false"
+               fork="true"
+               srcdir="console/src"
+               destdir="${build.dir}"
+               classpath="${vendor.dir};"
+               classpathref="core.deps"
+               encoding="utf-8">
+        </javac>
+    </target>
+
+    <target name="core" depends="tools">
+        <mkdir dir="${build.dir}" />
+        <fail message="JDK 1.8 required" unless="version1.8" />
+        <javac includeantruntime="false"
+               fork="true"
+               debug="on"
+               srcdir="core/src"
+               destdir="${build.dir}"
+               classpathref="core.deps"
+               encoding="utf-8">
+            <compilerarg value="-Xlint:unchecked" />
+        </javac>
+        <copy todir="${build.dir}/qa/qcri/nadeef/core/utils/sql/template">
+            <fileset dir="core/src/qa/qcri/nadeef/core/utils/sql/template" />
+        </copy>
+    </target>
+
+    <target name="ruleext" depends="core">
+        <mkdir dir="${build.dir}" />
+        <fail message="JDK 1.8 required" unless="version1.8" />
+        <javac includeantruntime="false"
+               fork="true"
+               srcdir="ruleext/src"
+               destdir="${build.dir}"
+               classpathref="core.deps"
+               encoding="utf-8">
+            <compilerarg value="-Xlint:unchecked" />
+        </javac>
+        <copy todir="${build.dir}/qa/qcri/nadeef/ruleext/template">
+            <fileset dir="ruleext/src/qa/qcri/nadeef/ruleext/template" />
+        </copy>
+    </target>
+
+    <target name="tools">
+        <mkdir dir="${build.dir}" />
+        <fail message="JDK 1.8 required" unless="version1.8" />
+        <javac includeantruntime="false"
+               fork="true"
+               srcdir="tools/src"
+               destdir="${build.dir}"
+               classpath="${vendor.dir}"
+               classpathref="core.deps"
+               encoding="utf-8">
+            <compilerarg value="-Xlint:unchecked" />
+        </javac>
+    </target>
+
+    <target name="service">
+        <mkdir dir="${build.dir}" />
+        <fail message="JDK 1.8 required" unless="version1.8" />
+        <javac includeantruntime="false"
+               fork="true"
+               srcdir="service/src"
+               destdir="${build.dir}"
+               classpath="${vendor.dir}"
+               classpathref="core.deps"
+               encoding="utf-8">
+        </javac>
+    </target>
+
+    <target name="web" depends="core, service, ruleext, tools">
+        <mkdir dir="${build.root}/bin" />
+        <fail message="JDK 1.8 required" unless="version1.8" />
+        <javac includeantruntime="false"
+               fork="true"
+               debug="on"
+               srcdir="web/src"
+               destdir="${build.dir}"
+               classpathref="dashboard.deps"
+               encoding="utf-8">
+        </javac>
+        <copy todir="${build.dir}/qa/qcri/nadeef/web/sql/template">
+            <fileset dir="web/src/qa/qcri/nadeef/web/sql/template" />
+        </copy>
+        <copy todir="${build.dir}/qa/qcri/nadeef/web/public">
+            <fileset dir="web/src/public" />
+        </copy>
+    </target>
+
+    <target name="test" depends="core, console, tools, ruleext, service">
+        <mkdir dir="${test.dir}" />
+        <javac includeantruntime="false"
+               debug="on"
+               srcdir="test/src"
+               destdir="${test.dir}"
+               classpath="${build.dir}"
+               classpathref="core.deps"
+               encoding="utf-8"/>
+    </target>
+
+    <!-- Doc -->
+    <target name="doc">
+        <mkdir dir="${build.root}/doc" />
+        <javadoc
+            sourcepath="core/src;tools/src"
+            classpathref="core.deps"
+            destdir="${build.root}/doc"
+            header="NADEEF Core"
+            packagenames=
+                "qa.qcri.nadeef.core.datamodel,
+                 qa.qcri.nadeef.core.exception,
+                 qa.qcri.nadeef.core.pipeline,
+                 qa.qcri.nadeef.core.util,
+                 qa.qcri.nadeef.tools,
+                 qa.qcri.nadeef.service"
+            doctitle="NADEEF Core">
+        </javadoc>
+    </target>
+
+    <!-- JUnit -->
+    <path id="test.classpath">
+        <pathelement location="${test.dir}" />
+        <fileset dir="${build.root}/bin">
+            <include name="*.jar" />
+        </fileset>
+    </path>
+
+    <target name="unittest" depends="jar">
+        <mkdir dir="${build.root}/testresult" />
+        <mkdir dir="${build.root}/testresult/testreports" />
+        <junit printsummary="yes" haltonfailure="no" showoutput="no">
+            <classpath refid="test.classpath" />
+            <formatter type="plain" />
+            <formatter type="xml" />
+
+            <batchtest fork="yes" todir="${build.root}/testresult">
+                <fileset dir="${test.dir}">
+                    <include name="**/*Test*.class" />
+                    <exclude name="**/TestDataRepository.class" />
+                    <exclude name="**/NadeefTestBase.class" />
+                    <exclude name="**/MyTestRule1.class" />
+                    <exclude name="**/ERDetectionTest.class" />
+                    <exclude name="**/DCRepairTest.class" />
+                </fileset>
+            </batchtest>
+        </junit>
+        <junitreport todir="${build.root}/testresult/testreports">
+            <fileset dir="${build.root}/testresult">
+                <include name="TEST-*.xml"/>
+            </fileset>
+            <report todir="${build.root}/testresult/testreports"/>
+        </junitreport>
+    </target>
+
+    <!-- regression test -->
+    <target name="regression" depends="jar">
+        <mkdir dir="${build.root}/testresult" />
+        <junit printsummary="yes" haltonfailure="no" showoutput="no" failureproperty="failed">
+            <sysproperty key="regression" value="yes" />
+            <classpath refid="test.classpath" />
+            <formatter type="plain" />
+            <formatter type="xml" />
+
+            <batchtest fork="yes" todir="${build.root}/testresult">
+                <fileset dir="${test.dir}">
+                    <include name="**/*Test*.class" />
+                    <!-- this is to avoid build machine time out -->
+                    <exclude name="**/StressDetectionTest.class" />
+                    <!-- TODO: it is still hanging in Travis -->
+                    <exclude name="**/SQLTableTest.class" />
+
+                    <exclude name="**/NadeefTestBase.class" />
+                    <exclude name="**/MyTestRule1.class" />
+                    <exclude name="**/TestDataRepository.class" />
+                    <exclude name="**/ERDetectionTest.class" />
+                    <exclude name="**/DCRepairTest.class" />
+                </fileset>
+            </batchtest>
+        </junit>
+        <fail message="Test failed, please check the result." if="failed" />
+    </target>
+
+</project>

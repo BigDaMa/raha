@@ -1,0 +1,488 @@
+London Post Office Railway	speed	through core tunnels;  through stations, platforms and loops
+Northern line	speed	45.0
+High Speed 1	speed	on section 1,
+High Speed 1	speed	on section 2
+Romney, Hythe and Dymchurch Railway	speed	25.0
+West Coast Main Line	speed	EPS maximum
+Midland Main Line	speed	Maximum
+Tyne Tunnel	speed	30.0
+Tyne Tunnel	speed	40.0
+Taiwan High Speed Rail	speed	max
+Settle-Carlisle Line	speed	60.0
+Blackwall Tunnel	speed	up to
+Tyne and Wear Metro	speed	80.0
+Osaka Line	speed	130.0
+Osaka Line	speed	120.0
+Osaka Line	speed	110.0
+North East MRT Line	speed	limit of 90 km/h
+East West MRT Line	speed	limit of 80 km/h
+North South MRT Line	speed	limit of
+Metro Blue Line	speed	max
+Metro Blue Line	speed	average
+East Coast Main Line	speed	maximum
+Limehouse Link tunnel	speed	30.0
+Hope Valley Line	speed	maximum
+Circle MRT Line	speed	limit of
+Expo Line	speed	80.0
+Millennium Line	speed	80.0
+Dewey Square Tunnel	speed	45.0
+JR Kyoto Line	speed	outer tracks:
+JR Kyoto Line	speed	inner tracks:
+Tri-Rail	speed	Up to \n~ overall average
+Great Western Main Line	speed	maximum
+North Clyde Line	speed	Max 90mph
+Northstar Line	speed	governed maximum
+Northstar Line	speed	legal limit
+Northstar Line	speed	average
+Gotthard Base Tunnel	speed	Up to
+Bergen Line	speed	Max.
+Line 1, Beijing Subway	speed	80.0
+Line 5, Beijing Subway	speed	80
+Tamsui Line, Taipei Metro	speed	80.0
+Xinbeitou Branch Line, Taipei Metro	speed	80.0
+Xindian Line, Taipei Metro	speed	80.0
+Dublin Port Tunnel	speed	80.0
+Line 10, Beijing Subway	speed	80.0
+Kansai Main Line	speed	95.0
+Florida High Speed Corridor	speed	Tampa-Orlando
+Florida High Speed Corridor	speed	Orlando-Miami
+Hoosac Tunnel	speed	25.0
+West Highland Line	speed	maximum
+Cotswold Line	speed	maximum
+Xiaobitan Branch Line, Taipei Metro	speed	80.0
+Tucheng Line, Taipei Metro	speed	80.0
+Xinzhuang Line, Taipei Metro	speed	80.0
+Luzhou Line, Taipei Metro	speed	80.0
+Bundang Line	speed	Around 30km/h or over 50km/h
+Jack Lynch Tunnel	speed	80.0
+Chiltern Main Line	speed	maximum
+North Wales Coast Line	speed	90
+West of England Main Line	speed	90
+South Western Main Line	speed	maximum
+Marshlink Line	speed	maximum
+East Suffolk Line	speed	55.0
+Lion Rock Tunnel	speed	70.0
+Downtown Tunnel	speed	35.0
+Midtown Tunnel	speed	35.0
+Hayes Line	speed	maximum
+Brighton Main Line	speed	maximum
+East Coastway Line	speed	maximum
+West Coastway Line	speed	-
+Pilatus railway	speed	9
+Catford Loop Line	speed	Maximum
+Montserrat Rack Railway	speed	on rack  adhesion
+Antelope Valley Line	speed	maximum
+Antelope Valley Line	speed	average
+Portsmouth Direct Line	speed	90
+Dovre Line	speed	Max.
+Grand Chord	speed	up to 160 km/h
+Lea Valley Lines	speed	Below
+Ivanhoe Line	speed	less than 75mph
+Fen Line	speed	maximum
+Derwent Valley Line	speed	50.0
+West Anglia Main Line	speed	maximum
+Felixstowe Branch Line	speed	75.0
+North Island Main Trunk	speed	maximum
+Sørlandet Line	speed	Max.
+Lötschberg Base Tunnel	speed	up to
+Höllentalbahn	speed	100.0
+Airport Link, Sydney	speed	80.0
+Airport Link, Sydney	speed	60.0
+Sonoma-Marin Area Rail Transit	speed	,
+Birmingham to Peterborough Line	speed	less than
+Hokkaido Shinkansen	speed	260.0
+Western Harbour Crossing	speed	80.0
+Vestfold Line	speed	Max.
+Zhonghe Line, Taipei Metro	speed	80.0
+Line 3, Shanghai Metro	speed	80.0
+Ely to Peterborough Line	speed	75
+Hertford Loop Line	speed	Maximum
+Cross City Tunnel	speed	80.0
+Fort Pitt Tunnel	speed	55.0
+Østfold Line	speed	Max.
+Gjøvik Line	speed	Max.
+Shrewsbury to Chester Line	speed	,
+Shrewsbury to Chester Line	speed	.
+Crouch Valley Line	speed	75
+Northern Line	speed	maximum
+Wirral Line	speed	maximum
+North Mersey Branch	speed	20.0
+North Mersey Branch	speed	maximum
+Twin Cities 400	speed	Over  max
+Twin Cities 400	speed	average
+Lane Cove Tunnel	speed	80.0
+Cambridge Line	speed	maximum
+New Mexico Rail Runner Express	speed	max:
+Hải Vân Tunnel	speed	70.0
+Domain Tunnel	speed	80.0
+Nottingham to Lincoln Line	speed	maximum
+Trunk Line	speed	Max.
+Bratsberg Line	speed	Max.
+Squirrel Hill Tunnel	speed	55.0
+Monongahela Incline	speed	--06-25
+Red Line	speed	Average 18 mph
+Drammen Line	speed	Max.
+London to Aylesbury Line	speed	maximum
+Jōsō Line	speed	80.0
+Glasgow South Western Line	speed	maximum
+SMART Tunnel	speed	60.0
+WES Commuter Rail	speed	avg.
+Blue Line	speed	Maximum:
+Grenaa Line	speed	Aarhus-Ryomgård 100 km/h
+Grenaa Line	speed	Ryomgård-Grenaa 75 km/h
+HSL 2	speed	300.0
+Everline	speed	80.0
+Budapest Cog-wheel Railway	speed	uphill 30 km/h
+Budapest Cog-wheel Railway	speed	downhill 25 km/h
+Tacoma Link	speed	"^^
+Airdrie to Bathgate Rail Link	speed	max
+Oakham to Kettering Line	speed	Below
+Edinburgh to Aberdeen Line	speed	maximum
+Henley Branch Line	speed	50.0
+Great Northern Route	speed	maximum
+Onehunga Branch	speed	maximum
+AREX	speed	120.0
+M5 Motorway	speed	80.0
+Gribskov Line	speed	75.0
+Belgrade–Bar railway	speed	~  \ndesign speed 75–120 km/h
+Crossrail 2	speed	Up to
+Iron Ore Line	speed	Iron ore trains:
+Iron Ore Line	speed	70
+Iron Ore Line	speed	60
+Iron Ore Line	speed	passenger trains: up to 135 km/h
+Otago Central Railway	speed	50.0
+Brenner Base Tunnel	speed	Passenger
+Brenner Base Tunnel	speed	Freight
+Nangang Line, Taipei Metro	speed	80.0
+Banqiao Line, Taipei Metro	speed	80.0
+Brynglas Tunnels	speed	Variable; max 70mph
+Penchala Tunnel	speed	90.0
+Genting Sempah Tunnel	speed	90.0
+Menora Tunnel	speed	90.0
+Airport Rail Link	speed	Express:
+Airport Rail Link	speed	Normal:
+Chin Swee Tunnel	speed	90.0
+Kampong Java Tunnel	speed	90.0
+Karawanks Tunnel	speed	80.0
+Halton Curve	speed	maximum
+Askern Branch Line	speed	20
+Krøderen Line	speed	30.0
+Greenwich Line	speed	60.0
+Chester to Manchester Line	speed	75
+Chester to Manchester Line	speed	110
+Chester to Manchester Line	speed	90
+Randsfjorden Line	speed	Max.
+Main Suburban railway line	speed	* 90 km/h \n* 43.3 km/h
+Nuremberg–Munich high-speed railway	speed	300
+Hokusō Line	speed	, upgrading to  for Narita Rapid
+Downtown MRT Line	speed	limit of 80 km/h
+Corridor	speed	Up to 100 mph
+Hakubi Line	speed	–
+Lower Elbe Railway	speed	160.0
+San'in Main Line	speed	-
+Lyttelton road tunnel	speed	50.0
+Ibusuki Makurazaki Line	speed	85.0
+Aerotrain	speed	Maximum speed 56.3 km/h , Minimum speed 46.7 km/h
+Rail transport in Thailand	speed	max
+Monkey Park Monorail Line	speed	30.0
+Johnsonville Branch	speed	64.0
+Johnsonville Branch	speed	40.0
+Cornish Main Line	speed	maximum
+Murmansk–Nikel Railway	speed	40.0
+Chingford Branch Line	speed	Below
+Île-de-France tramway Line 4	speed	70.0
+Kashii Line	speed	85.0
+Hindhead Tunnel	speed	Speed limit:
+Hindhead Tunnel	speed	Design speed:
+GO-ALRT	speed	120.0
+High Speed 2	speed	Up to
+Ligne du Haut-Bugey	speed	120.0
+Prussian Eastern Railway	speed	100.0
+Beacon Line	speed	5.0
+Halle high-speed railway	speed	*5919:  \n*6394:
+Skyway	speed	30.0
+Robertson Tunnel	speed	55.0
+Al Shindagha Tunnel	speed	60.0
+Vista Ridge Tunnels	speed	50.0
+Burlington Tunnel	speed	less than
+Line 3, Taipei Metro	speed	80.0
+ExpressTram	speed	East Train: , West Train:
+Line 5,	speed	80.0
+High-speed rail in Australia	speed	up to
+Gyeongbu High Speed Railway	speed	305.0
+Gyeongbu High Speed Railway	speed	''
+Gyeongbu High Speed Railway	speed	(design)''
+Chōkai Sanroku Line	speed	65.0
+Green Line	speed	80.0
+Line 1, Taipei Metro	speed	80.0
+Lynx Red Line	speed	Maximum speed 60 mph
+Saltash Tunnel	speed	30.0
+Thomson-East Coast MRT Line	speed	80.0
+Northern Lights Express	speed	Maximum:
+Northern Lights Express	speed	Average:
+Rail Baltica	speed	Up to
+Suzuka Line	speed	80.0
+Yunoyama Line	speed	80.0
+Plauen–Cheb Line	speed	100.0
+Red Line	speed	Maximum:
+Taulov Line	speed	160.0
+Taulov Line	speed	180.0
+Green Line	speed	Maximum:
+Madrid–Seville high-speed rail line	speed	300.0
+Line 9, Beijing Subway	speed	80.0
+Line 8, Beijing Subway	speed	80.0
+Line 6, Beijing Subway	speed	100.0
+Daxing Line, Beijing Subway	speed	100.0
+Yizhuang Line, Beijing Subway	speed	80.0
+Line 2	speed	70.0
+Line 3	speed	80.0
+Line 1	speed	60.0
+Line 4	speed	80.0
+Line S2, BCR	speed	160.0
+Glasgow to Aberdeen Line	speed	100.0
+Wangerooge Island Railway	speed	20.0
+Palatine Maximilian Railway	speed	140.0
+Passau–Freyung railway	speed	max. 50 km/h
+Neumarkt-Sankt Veit – Landshut railway	speed	120.0
+Passau–Hauzenberg railway	speed	60.0
+Passau–Hauzenberg railway	speed	30.0
+Landshut–Plattling railway	speed	140.0
+Line 4, Taipei Metro	speed	80.0
+Changping Line, Beijing Subway	speed	100.0
+Svendborgbanen	speed	120.0
+Fredericia-Aarhus Line	speed	160.0
+Western railway elevated corridor	speed	100.0
+Whitehall Tunnel	speed	15.0
+Railway electrification in Iran	speed	pass. trains,  tilting trains
+Sishen–Saldanha railway line	speed	80.0
+Branch MRT Line	speed	80.0
+Main–Weser Railway	speed	Southern part only
+Paar Valley Railway	speed	Ingolstadt Hbf–Seehof:
+Paar Valley Railway	speed	,
+Paar Valley Railway	speed	Seehof–Augsburg Hbf:
+Zabergäu Railway	speed	*narrow gauge: \n* standard gauge:
+Delhi Airport Metro Express	speed	132
+Red Line	speed	in Street Level
+Red Line	speed	Underground
+Vendsyssel Line	speed	120.0
+Dubai Trolley	speed	16.0
+Dubai Tram	speed	Average:  Maximum:
+Line 1, Shenzhen Metro	speed	80.0
+Fukui Railway Fukubu Line	speed	65.0
+Fukui Railway Fukubu Line	speed	40
+South Line, Chennai Suburban	speed	90.0
+South West Line, Chennai Suburban	speed	90.0
+West North Line, Chennai Suburban	speed	90.0
+West Line, Chennai Suburban	speed	90.0
+West South Line, Chennai Suburban	speed	90.0
+North Line, Chennai Suburban	speed	90.0
+Bina–Katni rail route	speed	up to 100 km/h
+Jinshan Railway	speed	160.0
+Wuhan–Guangzhou High-Speed Railway	speed	--07-01
+Beijing–Harbin High-Speed Railway	speed	350.0
+Brenner Railway	speed	180.0
+Bebra–Fulda railway	speed	*
+Cologne Airport loop	speed	130.0
+Hamm–Minden railway	speed	* \n*
+Hanover–Minden railway	speed	70
+Düsseldorf–Elberfeld railway	speed	130.0
+Grey Line	speed	?
+Light Blue Line	speed	?
+Brunswick–Magdeburg railway	speed	* \n*
+Hefei–Fuzhou High-Speed Railway	speed	300.0
+Berlin–Wrocław railway	speed	*maximum speed:
+Emirates Air Line	speed	6.0
+Mainz–Ludwigshafen railway	speed	160.0
+Jüterbog–Röderau railway	speed	*
+Podgorica–Shkodër railway	speed	~
+Ludwigslust–Wismar railway	speed	*(in sections) , \n*(mostly)
+Nishitetsu Amagi Line	speed	65.0
+Hamm–Warburg railway	speed	* Hamm–Paderborn:  \n* Paderborn–Warburg:
+Friedrichroda Railway	speed	50.0
+SAR North South Railway Line	speed	up to 100 km/h
+Vaðlaheiðargöng	speed	90.0
+Xi'an–Chengdu High-Speed Railway	speed	250.0
+Harbin–Dalian High-Speed Railway	speed	;
+Dresden–Werdau railway	speed	(with tilting:) 160
+Line 3, Shenzhen Metro	speed	100.0
+Line 2, Shenzhen Metro	speed	80.0
+Xuzhou–Lanzhou High-Speed Railway	speed	310.0
+Sutton Loop Line	speed	Maximum 60 mph
+Nikšić–Podgorica railway	speed	–
+Karisaka Tunnel	speed	Not specified.
+Karisaka Tunnel	speed	Speed limit: 40km/h
+Karisaka Tunnel	speed	Mopeds: 30km/h
+Neckarelz–Osterburken railway	speed	95.0
+St Helena Tunnel	speed	110.0
+Bristol to Exeter Line	speed	100
+Line 5, Shenzhen Metro	speed	80.0
+Amsterdam–Arnhem railway	speed	(  )
+Amsterdam–Arnhem railway	speed	( )
+Hangzhou–Fuzhou–Shenzhen High-Speed Railway	speed	350.0
+Line 1, Kolkata Metro	speed	55.0
+Kolkata Metro Line 2	speed	80.0
+Belgian railway line 15	speed	120.0
+Copenhagen–Ringsted Line	speed	250.0
+Grodzisk Mazowiecki–Zawiercie railway	speed	current max 200 km/h
+Special Event Line	speed	Max.
+Haydarpaşa suburban	speed	average
+Kappelberg Tunnel	speed	100.0
+Mumbai–Ahmedabad high-speed rail corridor	speed	320.0
+Pir Panjal Railway Tunnel	speed	up to
+Osterath–Dortmund Süd railway	speed	or
+Crystal Palace Line	speed	60.0
+Howrah–Delhi main line	speed	up to 160 km/h
+Sheoraphuli–Bishnupur branch line	speed	up to
+Gaya–Mughalsarai section	speed	up to
+Line 11, Shenzhen Metro	speed	120.0
+Eberswalde–Frankfurt	speed	Eberswalde–Werbig:
+Eberswalde–Frankfurt	speed	Werbig–Frankfurt :
+Coley Branch Line	speed	30.0
+Nanjing–Anqing Intercity Railway	speed	250
+Biessenhofen–Füssen railway	speed	*
+Mittenwald Railway	speed	70
+New Guanjiao Tunnel	speed	160.0
+Line 1	speed	80.0
+Upper Ruhr Valley Railway	speed	70
+Madhupur Giridih Rail Line	speed	Up to 110 km/h
+Lumding Agartala Rail Line	speed	Up to 50 km/h
+Qingdao–Taiyuan high-speed railway	speed	250.0
+Lhasa–Xigazê Railway	speed	120.0
+Howrah–Allahabad–Mumbai line	speed	up to
+FL4	speed	/
+Howrah–Chennai main line	speed	up to 130 km/h  and up to 160 km/hr
+Howrah–Nagpur–Mumbai line	speed	up to 160 km/h
+Flambeau 400	speed	Max 90 mph, between Chicago and Green Bay, average speed 50 mph
+Kharagpur–Puri line	speed	up to
+Khurda Road–Visakhapatnam section	speed	up to
+Gleinalm Tunnel	speed	80.0
+Chengdu–Guiyang High-Speed Railway	speed	350.0
+Duvvada–Vijayawada section	speed	up to
+Circular Line	speed	70
+High Speed 2 Phase Two	speed	Up to
+Vijayawada–Gudur section	speed	up to
+Manduadih-Madho Singh-Allahabad	speed	140.0
+Nagpur–Bhusawal section	speed	Main line: up to 160 km/h
+3500 South MAX	speed	40.0
+Bhusawal–Kalyan section	speed	Main line: up to 160 km/h
+Capital Line	speed	70
+Santiago Metro Line 1	speed	75.0
+Santiago Metro Line 2	speed	75.0
+Sangaldan Tunnel	speed	up to
+Santiago Metro Line 4	speed	80.0
+Santiago Metro Line 5	speed	75.0
+Little North Line	speed	100.0
+Hornbæk Line	speed	75.0
+Lille Syd	speed	120.0
+Belgian railway line 58	speed	75
+Belgian railway line 58	speed	35
+Belgian railway line 58	speed	55
+Belgian railway line 49	speed	55.0
+Mughalsarai–Kanpur section	speed	up to 160 km/h
+Hatvan–Fiľakovo railway	speed	Selyp–Hatvan
+Hatvan–Fiľakovo railway	speed	Selyp–Somoskőújfalu
+Hatvan–Fiľakovo railway	speed	Somoskőújfalu–Fiľakovo
+Kanpur–Delhi section	speed	Main line:  up to 160 km/h
+Gelsenkirchen-Bismarck–Winterswijk railway	speed	or
+Letmathe–Fröndenberg railway	speed	* (Letmathe–Iserlohn):  \n* (Menden–Fröndenberg):
+Delhi–Kalka line	speed	up to 130 km/h
+Scranton, Montrose and Binghamton Railroad	speed	Scheduled average 30 MPH, Maximum 60 MPH
+Gandhidham–Ahmedabad main line	speed	Up to 80 km/h
+Rajkot–Somnath line	speed	up to 80 km/h
+Jamnagar-Porbandar line	speed	up to 80 km/h
+Line 1	speed	32.0
+North Shore, Northern & Western Line	speed	* 90 km/h \n* 43.3 km/h
+Allahabad–Jabalpur section	speed	up to 130 km/h
+Jabalpur–Bhusaval section	speed	up to 130 km/h
+Agra–Bhopal section	speed	up to 160 km/h
+Bhopal–Nagpur section	speed	up to 160 km/h
+Nagpur–Hyderabad line	speed	up to 160 km/h
+Kazipet–Vijayawada section	speed	up to 160 km/h
+Tunnel Punta Olimpica	speed	up to
+Mumbai Dadar–Solapur section	speed	Main line: up to 130 km/h
+Line 2, Dongguan Rail Transit	speed	120.0
+Solapur–Guntakal section	speed	Main line: up to 130 km/h
+Seremban Line	speed	Up to
+Guntakal–Chennai Egmore section	speed	Up to 130 km/h
+Penang Undersea Tunnel	speed	90.0
+Chennai Central–Bangalore City line	speed	Up to 130 km/h
+Jolarpettai–Shoranur line	speed	Up to 130 km/h
+High-speed rail in Thailand	speed	max
+Liuzhou–Nanning Intercity Railway	speed	250.0
+Bassum–Herford railway	speed	*(Herford–Kirchlengern:)  \n*(Bünde–Bassum:)  \n*(Kirchlengern–Bünde:)
+Varanasi–Lucknow line	speed	up to 100 km/h
+Dos Valires Tunnel	speed	80.0
+Ganzhou–Shenzhen High-Speed Railway	speed	250.0
+Line 3, Nanjing Metro	speed	65
+Narkhed–Amravati Railway	speed	up to 100 km/h
+Howrah–Gaya–Delhi line	speed	up to 160 km/h
+Asansol–Patna section	speed	up to 130 km/h
+Lehigh Line	speed	almost all of line is 50 MPH for freight traffic
+Murray Taylorsville MAX	speed	50.0
+Provo Orem MAX	speed	50.0
+5600 West MAX	speed	65.0
+Diamond Quadrilateral	speed	320.0
+Green Line	speed	in Street Level
+Green Line	speed	Underground
+Halle–Cottbus railway	speed	120.0
+Haizhu Tram	speed	70.0
+Randers-Aalborg Line	speed	180.0
+Randers-Aalborg Line	speed	120.0
+Sarajevo-Ploče railway	speed	in BiH, 110 km/h in Croatia
+Cottbus–Guben railway	speed	*(Cottbus–Peitz Ost:)  \n*(Peitz Ost–Guben:)
+Sichuan–Tibet Railway	speed	120.0
+Samastipur–Muzaffarpur section	speed	up to
+Muzaffarpur–Hajipur section	speed	up to
+Barauni–Samastipur section	speed	up to
+Muzaffarpur–Sitamarhi section	speed	up to
+Nanchang–Shenzhen High-Speed Railway	speed	(Northern Section)
+Nanchang–Shenzhen High-Speed Railway	speed	(Southern Section)
+Chalisgaon - Dhule Railway Line	speed	44.0
+Chengdu–Guangzhou High-Speed Railway	speed	(Chengdu-Guiyang)
+Chengdu–Guangzhou High-Speed Railway	speed	(Guiyang-Guangzhou)
+Hangzhou–Changsha High-Speed Railway	speed	350.0
+Bury Line	speed	50.0
+Muzaffarpur–Gorakhpur main line	speed	up to 110 km/h
+Ahmedabad–Mumbai Main Line	speed	up to 160 km/h
+Ahmedabad–Udaipur Line	speed	up to 60 km/h
+Coimbatore–Shoranur railway line	speed	Up to 130 km/h
+Borders Railway	speed	max.
+Blue Line	speed	80.0
+Allahabad-Mau-Gorakhpur Main Line	speed	up to 110 km/h
+Mathura–Vadodara Section	speed	Main line:  up to 160 km/h
+Altrincham Line	speed	50.0
+Secunderabad-Manmad section	speed	up to
+Langå-Struer Line	speed	120.0
+Thy Line	speed	75.0
+Algiers Metro Line 1	speed	72.0
+KTM Komuter Northern Sector	speed	Up to
+SAR Riyadh-Qurayyat Line	speed	up to 200 km/h
+Tehran-Qom-Isfahan High Speed Rail	speed	300
+Varanasi-Sultanpur-Lucknow Line	speed	up to
+Aunrihar-Kirakat-Jaunpur Line	speed	up to
+Ayacucho Tram	speed	25.0
+Eccles Line	speed	50.0
+East Manchester Line	speed	50.0
+South Manchester Line	speed	50.0
+Airport Line	speed	50.0
+Oldham and Rochdale Line	speed	50.0
+Chhota Udaipur - Dhar railway line	speed	up to
+Odsherred Line	speed	75.0
+Gudur–Chennai section	speed	up to
+Pinggu Line, Beijing Subway	speed	160.0
+L202 railway	speed	Up to 60 km/h
+Line 1, Fuzhou Metro	speed	80.0
+Line 2, Fuzhou Metro	speed	80.0
+Red Line	speed	maximum
+Thirsk and Malton Line	speed	Pilmoor – Gilling
+Thirsk and Malton Line	speed	30.0
+Thirsk and Malton Line	speed	Gilling – Malton
+Gilling and Pickering Line	speed	Bishophouse Junction – Gilling
+Gilling and Pickering Line	speed	30.0
+Gilling and Pickering Line	speed	Gilling – Pickering
+Kolkata Metro Line 3	speed	80.0
+Kolkata Metro Line 4	speed	80.0
+Kolkata Metro Line 6	speed	80.0
+Kolkata Metro Line 5	speed	80.0
+Kolkata Metro Line 7	speed	80.0
+Gwangam Tunnel	speed	100.0

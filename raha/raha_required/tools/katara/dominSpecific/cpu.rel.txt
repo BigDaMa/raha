@@ -1,0 +1,1475 @@
+Asteroids	cpu	MOS Technology 6502
+MessagePad	cpu	ARM architecture
+Apple I	cpu	MOS Technology 6502
+Apple I	cpu	Megahertz
+Amiga	cpu	Motorola 680x0 @ ≈7 MHz & higher
+Apple III	cpu	Synertek 6502A @ 2 MHz
+Atari ST	cpu	Motorola 680x0 @ 8 MHz & higher
+Apple II	cpu	MOS Technology 6502
+Atari 5200	cpu	MOS 6502C @ 1.79 MHz
+Atari 2600	cpu	8
+Atari 7800	cpu	Atari SALLY 6502  clocked at 1.19-1.79MHz,
+Atari Lynx	cpu	65SC02
+Arcadia 2001	cpu	Signetics 2650
+Arcadia 2001	cpu	Signetics 2650 @ 3.58 MHz
+BeBox	cpu	2
+Colossus computer	cpu	Custom circuits using thermionic valves and Thyratrons. A total of 1600 in Mk 1 and 2400 in Mk 2. Also relays and stepping switches
+Commodore 1541	cpu	MOS Technology 6502
+Commodore 1541	cpu	1.0
+Commodore 1581	cpu	MOS Technology 6502
+Commodore 1581	cpu	2.0
+Commodore 1581	cpu	, WD1770 or WD1772
+Commodore 64	cpu	MOS Technology 6510
+Commodore 64	cpu	MOS Technology 8500
+Commodore 64	cpu	@
+Commodore 64	cpu	1.023
+Commodore 64	cpu	0.985
+ColecoVision	cpu	Zilog Z80
+Fairchild Channel F	cpu	Fairchild F8
+Commodore 1570	cpu	MOS Technology 6502
+Commodore 1570	cpu	1
+Commodore 1570	cpu	, WD1770
+Commodore 1571	cpu	MOS Technology 6502
+Commodore 1571	cpu	2.0
+Commodore 1571	cpu	, WD1770
+Game Boy Advance	cpu	16.78
+Game Boy Advance	cpu	8
+Game Boy Color	cpu	Sharp LR35902 core @ 4.19 MHz
+IBM Personal Computer	cpu	Intel 8088
+IBM Personal Computer	cpu	4.77
+Intellivision	cpu	General Instrument CP1600
+Microvision	cpu	Intel 8021/TI TMS1100  clocked at 100 kHz
+Nintendo 64	cpu	64
+Neo Geo Pocket	cpu	Toshiba TLCS900H
+Virtual Boy	cpu	NEC V810
+Neo Geo CD	cpu	Motorola 68000 running at 12 MHz
+Neo Geo	cpu	Motorola 68000 @ 12MHz, Zilog Z80A @ 4MHz
+Magnavox Odyssey²	cpu	Intel MCS-48
+PlayStation	cpu	R3000
+Philips CD-i	cpu	Philips 68070
+Playdia	cpu	8
+Philips Videopac + G7400	cpu	Intel 8048 @ 5.91MHz
+Pong	cpu	Discrete device
+PlayStation 3	cpu	3.2
+Super Nintendo Entertainment System	cpu	Ricoh 5A22 @ 3.58 MHz
+Sinclair QL	cpu	Motorola 68008
+Sinclair QL	cpu	7.5
+Dreamcast	cpu	Hitachi SH-4 32-bit RISC clocked at 200 MHz
+Sega Saturn	cpu	2
+Sega CD	cpu	Motorola 68000
+Game Gear	cpu	Zilog Z80
+32X	cpu	2
+TRS-80	cpu	Zilog Z80 @ 1.774 MHz
+TurboGrafx-16	cpu	Hudson Soft HuC6280
+TRS-80 Color Computer	cpu	Motorola 6809E @ 0.895 MHz / 1.79 MHz
+Vectrex	cpu	Motorola MC68A09 @ 1.5 MHz
+ZX Spectrum	cpu	Z80 @ 3.5 MHz and equivalent
+ZX81	cpu	Z80 at 3.25 MHz
+3DO Interactive Multiplayer	cpu	32
+Cray-1	cpu	160
+PalmPilot	cpu	Motorola 68328 processor at 16 MHz
+GameCube	cpu	IBM PowerPC Gekko @ 486 MHz
+Simputer	cpu	0.4 W"^^
+NeXT Computer	cpu	Motorola 68030 @ 25 MHz, 68882 FPU @ 25 MHz, 56001 digital signal processor  @ 25 MHz
+RiscPC	cpu	ARM core
+Acorn Archimedes	cpu	ARM architecture
+Atari 8-bit family	cpu	MOS Technology 6502B
+Atari 8-bit family	cpu	@
+Atari 8-bit family	cpu	1.79
+Atari 8-bit family	cpu	1.77
+Amiga 600	cpu	Motorola 68000 @ 7.16 MHz 7.09 MHz
+Commodore VIC-20	cpu	MOS Technology 6502
+Commodore VIC-20	cpu	@ 1.108404 MHz
+Commodore VIC-20	cpu	@ 1.02 MHz
+Apple IIe	cpu	6502
+Space Invaders	cpu	8080
+Apple Lisa	cpu	Motorola 68000
+Apple Lisa	cpu	@ 5
+Apple Lisa	cpu	Hertz
+Xerox Alto	cpu	TTL-based, with the ALU built around four 74181 MSI chips. It had user programmable microcode, used big-endian format and a CPU clock of
+Xerox Alto	cpu	5.88
+Mario Bros.	cpu	Zilog Z80 @ 3.072 MHz
+Mario Bros.	cpu	I8039 @ 0.73 MHz
+Xerox Star	cpu	AMD Am2900 based
+Commodore PET	cpu	MOS Technology 6502
+Commodore PET	cpu	@ 1 MHz
+KIM-1	cpu	6502
+Power Mac G4 Cube	cpu	450
+Power Mac G4 Cube	cpu	500
+Power Mac G4 Cube	cpu	MHz
+Power Mac G4 Cube	cpu	PowerPC G4
+Master System	cpu	Zilog Z80
+Macintosh Plus	cpu	Motorola 68000 @ 8 MHz
+Macintosh Classic	cpu	Motorola 68000 8 MHz
+Power Macintosh 8500	cpu	PowerPC 604 or PowerPC 604e
+Bally Astrocade	cpu	Zilog Z80 clocked at 1.789 MHz
+Altair 8800	cpu	Intel 8080
+Exidy Sorcerer	cpu	Zilog Z80 @ 2.106 MHz
+Marble Madness	cpu	Motorola 68010
+Family Computer Disk System	cpu	Ricoh 2A03 8-bit processor
+ABC 80	cpu	Zilog Z80 @ 3 MHz
+Pole Position	cpu	,
+Pole Position	cpu	2
+Pole Position	cpu	1
+Crazy Climber	cpu	Zilog Z80
+Crazy Climber	cpu	Clock rate
+Arkanoid	cpu	Zilog Z80
+Arkanoid	cpu	Clock rate
+Arkanoid	cpu	M68705 @ 500 kHz
+Macintosh II	cpu	Motorola 68020
+Acorn Atom	cpu	MOS Technology 6502 clocked at 1MHz
+Macintosh IIfx	cpu	Motorola 68030
+Xenophobe	cpu	68000
+Genesis Nomad	cpu	Motorola 68000
+720°	cpu	T-11 @ 10 MHz
+Xerox 820	cpu	Zilog Z80A clocked at 2.5MHz
+Tiki 100	cpu	4
+Tiki 100	cpu	8088
+Osborne 1	cpu	Zilog Z80 @ 4.0 MHz
+Atari Panther	cpu	Motorola 68000
+Zaxxon	cpu	Zilog Z80
+The NewZealand Story	cpu	2
+The NewZealand Story	cpu	I8X41
+Macintosh IIci	cpu	Motorola 68030
+30	cpu	Motorola 68030 @ 16 MHz
+GP32	cpu	Samsung S3C2400X01
+Iyonix PC	cpu	ARM core
+Iyonix PC	cpu	XScale
+Street Fighter II: The World Warrior	cpu	68000
+Street Fighter II: The World Warrior	cpu	Z80 @ 3.579 MHz
+Killer Instinct	cpu	R4600
+Missile Command	cpu	6502
+Commodore CDTV	cpu	Motorola 68000
+Commodore CDTV	cpu	@ 7 MHz
+Apple IIGS	cpu	2.8
+Apple IIc	cpu	65
+Amiga 4000	cpu	Motorola 68EC030
+Amiga 4000	cpu	or
+Amiga 4000	cpu	68040
+Amiga 4000	cpu	@ 25 MHz
+IBM PC Convertible	cpu	Intel 80c88 CPU @ 4.77 MHz
+IBM PCjr	cpu	Intel 8088 @ 4.77 MHz
+4A	cpu	TI TMS9900 @ 3.0 MHz
+Coleco Adam	cpu	Zilog Z80A @ 3.58MHz
+Canon Cat	cpu	Motorola 68000 @ 5 MHz
+Atari XEGS	cpu	MOS Technology 6502
+SG-1000	cpu	Zilog Z80
+Radar Scope	cpu	Z80 @ 3.072 MHz,
+Radar Scope	cpu	i8035 @ 400 kHz
+N-Gage	cpu	104
+Game Boy Advance SP	cpu	32
+Game Boy Advance SP	cpu	8
+Panasonic Q	cpu	IBM Gekko 485 MHz
+Neo Geo Pocket Color	cpu	Toshiba TLCS900H core  clocked at 6.144MHz, Zilog Z80 clocked at 3.072MHz for sound
+Nintendo Entertainment System	cpu	Ricoh 2A03 8-bit processor
+Datapoint 2200	cpu	8
+Apple Bandai Pippin	cpu	PowerPC 603
+Apple Bandai Pippin	cpu	RISC
+Battlezone	cpu	6502
+Macintosh IIx	cpu	Motorola 68030
+Final Lap	cpu	2
+Final Lap	cpu	Motorola M6809 @ 3.072 MHz,
+Final Lap	cpu	Hitachi HD63705 @ 2.048 MHz
+AT	cpu	Intel 80286 @ 6 and 8 MHz
+Macintosh IIsi	cpu	Motorola 68030
+Frogger	cpu	2
+Frogger	cpu	Z80
+Berzerk	cpu	Z80 2.50 MHz
+Macintosh 512Ke	cpu	Motorola 68000 @ 8 MHz
+Macintosh SE	cpu	Motorola 68000 @ 7.8 MHz
+Q*bert	cpu	Intel 8088
+Macintosh Color Classic	cpu	Motorola 68030
+Twentieth Anniversary Macintosh	cpu	250
+Twentieth Anniversary Macintosh	cpu	L2 Cache: 256 KiB, max 1 MiB
+Twentieth Anniversary Macintosh	cpu	Bus: 50 MHz
+Wii	cpu	IBM PowerPC \
+Tecmo Bowl	cpu	Main: 2× Z80 @ 8 MHz
+Tecmo Bowl	cpu	Sound: Z80 @ 4 MHz
+Nintendo DS	cpu	One 67.028 MHz ARM946E-S and one 33.514 MHz ARM7TDMI
+Out Run	cpu	2
+Out Run	cpu	Z80 @ 4 MHz
+Scramble	cpu	Zilog Z80 @ 3.072MHz
+Scramble	cpu	Zilog Z80 @ 1.78975MHz
+1942	cpu	Main: Z80 @ 4 MHz
+1942	cpu	Sound: Z80 @ 3 MHz
+Contra	cpu	Hitachi 6309
+Gauntlet II	cpu	1
+Atari Falcon	cpu	Motorola 68030 @ 16 MHz
+Atari Falcon	cpu	Motorola 56001 @ 32 MHz
+Balloon Fight	cpu	Z80
+Balloon Fight	cpu	M6502
+Macintosh 512K	cpu	Motorola 68000
+Macintosh 512K	cpu	7.8338
+Macintosh 128K	cpu	Motorola 68000 @ 7.8336 MHz
+Bio-ship Paladin	cpu	68000
+VTech Laser 200	cpu	Zilog Z80A clocked at 3.58 MHz, Motorola 6847 video processor
+ABC 800	cpu	8
+Mouse Trap	cpu	MOS Technology 6502
+IBM 5100	cpu	IBM PALM processor clocked at 1.9 MHz
+Space Harrier	cpu	2
+Space Harrier	cpu	Sound CPU: Z80
+IMSAI 8080	cpu	Intel 8080/8085A @ 2 MHz/3 MHz
+Enterprise	cpu	Zilog Z80A @ 4 MHz
+Macintosh XL	cpu	Motorola 68000 @ 5 MHz
+PlayStation Portable	cpu	333
+Darius	cpu	2
+Micro-Professor MPF-I	cpu	Zilog Z80 @ 1.79 Mhz
+Battle Garegga	cpu	68000
+Tapwave Zodiac	cpu	200
+NeXTstation	cpu	Motorola 68040
+Bad Dudes Vs. DragonNinja	cpu	Main: 68000 ,
+Bad Dudes Vs. DragonNinja	cpu	MCU: D8751H
+Pokémon Mini	cpu	8
+IBM 5110	cpu	IBM PALM processor
+IBM 5120	cpu	IBM PALM processor
+Power Macintosh 7100	cpu	PowerPC 601
+ELF II	cpu	8
+AIM-65	cpu	MOS Technology 6502
+Tiger Heli	cpu	2
+Tiger Heli	cpu	M68705 @ 2 MHz
+Out Zone	cpu	68000
+Twin Cobra	cpu	68000
+Twin Cobra	cpu	Z80 @ 3.5 MHz
+Twin Cobra	cpu	TMS32010 @ 3.5 MHz
+Truxton	cpu	68000
+SGI Fuel	cpu	R14000 or R16000
+Warlords	cpu	M6502 clocked at 1.512MHz
+Macintosh IIcx	cpu	Motorola 68030
+Tekken 2	cpu	1
+Mappy	cpu	2
+Tempest	cpu	6502
+PowerBook G3	cpu	PowerPC G3, 233–500 MHz
+Macintosh TV	cpu	Motorola 68030 @ 32 MHz
+Popeye	cpu	Zilog Z80
+Klax	cpu	Motorola 68000 @ 7.15909 MHz
+PC Engine SuperGrafx	cpu	Hudson Soft HuC6280
+Thomson MO5	cpu	Motorola 6809E @ 1MHz
+Gauntlet	cpu	1
+Watara Supervision	cpu	8
+Punch-Out!!	cpu	Zilog Z80
+Punch-Out!!	cpu	Clock rate
+Punch-Out!!	cpu	Ricoh 2A03 @ 1.789772 MHz
+Gals Panic	cpu	Motorola 68000
+Gals Panic	cpu	Motorola 68000  x2
+Tatung Einstein	cpu	Zilog Z80 clocked at 4MHz
+CarnEvil	cpu	Main CPU: R5000 @ 150 MHz
+1943: The Battle of Midway	cpu	Z80 @ 6 MHz
+Batsugun	cpu	Toshiba 68000
+Pac-Land	cpu	1
+23	cpu	Intel 8085 @ 4.77 MHz
+Macintosh Classic II	cpu	Motorola 68030
+Power Player Super Joy III	cpu	NES on a Chip
+Jungle Hunt	cpu	Z80
+Crystal Castles	cpu	6502
+Road Runner	cpu	68010
+IBM 740	cpu	IBM 701
+IBM 740	cpu	IBM 704
+IBM 740	cpu	IBM 709
+I, Robot	cpu	Motorola 6809
+TRS-80 MC-10	cpu	Motorola MC6803 @ 0.89 MHz
+FM Towns Marty	cpu	AMD 386SX at 16 MHz
+CP System II	cpu	68000
+CP System	cpu	68000
+Food Fight	cpu	Motorola 68000
+Donkey Kong	cpu	Main: Z80 @ 3.072 MHz
+Donkey Kong	cpu	Sound: i8035 @ 400 kHz
+TurboExpress	cpu	HuC6280 clocked at 7.16 MHz or 1.79MHz
+Tron	cpu	main: Zilog Z80 @ 2.5 MHz
+Tron	cpu	sound: Zilog Z80 @ 2 MHz
+Philips P2000	cpu	Zilog Z80 @ 2,5 MHz
+MicroBee	cpu	Zilog Z80
+MicroBee	cpu	@
+MicroBee	cpu	2.0
+Panasonic M2	cpu	Dual 66 MHz PowerPC 602
+Entex Adventure Vision	cpu	Intel 8048 @ 733 kHz
+Compukit UK101	cpu	6502
+COSMAC VIP	cpu	RCA 1802 processor
+Galaksija	cpu	Zilog Z80A clocked at 3.072MHz
+N-Gage QD	cpu	ARM9E
+English Electric DEUCE	cpu	thermionic valve-based
+COSMAC ELF	cpu	RCA 1802
+Super Pac-Man	cpu	2
+Ghosts 'n Goblins	cpu	Motorola 6809
+Grundy NewBrain	cpu	8
+X-Men	cpu	68000
+X-Men	cpu	Zilog Z80
+Operation Wolf	cpu	Motorola 68000
+Operation Wolf	cpu	Zilog Z80
+The Simpsons	cpu	Motorola 6809
+Amstrad NC100	cpu	Z80 at 4 Mhz
+Gun Fight	cpu	Discrete circuit
+Gun Fight	cpu	8080
+Teenage Mutant Ninja Turtles: Turtles in Time	cpu	68000
+Treo 650	cpu	Intel PXA270 312 MHz processor with Intel XScale technology
+NEC PC-100	cpu	8086
+Sunset Riders	cpu	Motorola 68000
+Primal Rage	cpu	Motorola
+Primal Rage	cpu	68EC020
+IMac G4	cpu	700
+IMac G3	cpu	233
+Atari Portfolio	cpu	80
+TRS-80 Model 100	cpu	2.4
+Killer Instinct 2	cpu	R4600
+Gravitar	cpu	6502
+Macintosh IIvx	cpu	Motorola 68030
+Macintosh IIvi	cpu	Motorola 68030
+Halcyon	cpu	Z80
+Alien vs. Predator	cpu	Motorola 68000
+DDRMAX Dance Dance Revolution 6thMix	cpu	R3000A 32 bit RISC processor
+HP 200LX	cpu	80186
+Turbo Outrun	cpu	Central Processing Unit
+Turbo Outrun	cpu	68000
+Dendy	cpu	MOS Technology 6502
+Hang-On	cpu	68000
+Hang-On	cpu	Sound CPU: Z80
+Atari TT030	cpu	CPU: Motorola 68030 @ 32 MHz
+Atari TT030	cpu	FPU: Motorola 68882 @ 32 MHz
+Dance Dance Revolution 2ndMix	cpu	R3000A 32 bit RISC processor
+Kangaroo	cpu	Zilog Z80
+Dance Dance Revolution	cpu	R3000A 32 bit RISC processor
+IQ 151	cpu	Tesla MHB8080A  CPU @ 2 MHz
+Gizmondo	cpu	ARM9 S3C2440 processor at 400 MHz
+Bump 'n' Jump	cpu	1
+Magic Link	cpu	MC68349 16 MHz Motorola Dragon
+Carnival	cpu	Z80 1.933560 MHz
+Victory Road	cpu	2
+Macintosh Quadra 950	cpu	Motorola 68040
+Amstrad GX4000	cpu	Zilog Z80
+Psion Series 3	cpu	NEC V30H @ 7.68 MHz
+Bravoman	cpu	2
+Bravoman	cpu	1
+PocketStation	cpu	ARM7T
+BBC Master	cpu	MOS Technology 65SC12, optional Intel 80186 or  65C102 depending on model
+Acorn System 1	cpu	6502
+Acorn Communicator	cpu	16
+Acorn Business Computer	cpu	6502
+Acorn Network Computer	cpu	ARM 7500FE processor at 40 MHz; approx 35.9 MIPS
+Capcom vs. SNK 2	cpu	Hitachi SH-4 @  200 MHz
+TurboDuo	cpu	HuC6280
+Zire 31	cpu	200
+Macintosh Quadra 700	cpu	Motorola 68040
+Epson QX-10	cpu	Zilog Z80 @ 4 MHz
+Rainbow 100	cpu	Zilog Z80
+Rainbow 100	cpu	@ 4.012 MHz
+Rainbow 100	cpu	and
+Rainbow 100	cpu	Intel 8088
+Rainbow 100	cpu	@ 4.815 MHz
+Coleco Gemini	cpu	MOS 6507 @ 1.19 MHz
+Super Punch-Out!!	cpu	1
+LifeDrive	cpu	Intel PXA270 at 416 MHz with Intel XScale Technology
+A9home	cpu	Samsung S3C2440, ARM926EJS, ARMv5
+Commodore 8050	cpu	2
+Commodore 8050	cpu	1.0
+Nokia 770 Internet Tablet	cpu	252
+NFL Blitz	cpu	MIPS R5000
+Data General-One	cpu	CMOS 8086 @ 4.0 MHz
+The Tower of Druaga	cpu	2
+Power Macintosh 7500	cpu	PowerPC 600
+Amidar	cpu	Zilog Z80
+Guwange	cpu	Motorola 68000 @ 16 MHz
+Dig Dug II	cpu	2
+Actrix	cpu	NEC D780C-1 @ 4 MHz
+VTech CreatiVision	cpu	Rockwell 6502 @ 2 MHz
+Star Force	cpu	Z80
+Palm i705	cpu	Motorola MC68VZ328 33 MHz
+Air Combat	cpu	2
+Air Combat	cpu	1
+Dead or Alive 2	cpu	Hitachi SH-4 @  200 MHz
+Marvel Land	cpu	2
+Marvel Land	cpu	1
+X1	cpu	Sharp Z80 A
+Batman Forever: The Arcade Game	cpu	68000
+Captain America and The Avengers	cpu	2
+Jurassic Park	cpu	NEC V60
+Jurassic Park	cpu	Zilog Z80
+Splatterhouse	cpu	2
+Hydro Thunder	cpu	Intel Celeron
+Tattoo Assassins	cpu	ARM architecture
+Pilot 1000	cpu	Motorola 68328 processor at 16 MHz
+Ridge Racer 2	cpu	1
+Ridge Racer 2	cpu	2
+Rave Racer	cpu	1
+Rave Racer	cpu	2
+Atari 2700	cpu	MOS Technology 6507 @ 1.19 MHz
+Blast Off	cpu	2
+Blast Off	cpu	1
+Time Traveler	cpu	Zilog Z80
+Legendary Wings	cpu	2
+Super Cobra	cpu	2
+Liberator	cpu	6502
+Galaga '88	cpu	2
+Galaga '88	cpu	1
+Gaplus	cpu	3
+Asteroids Deluxe	cpu	MOS Technology 6502
+Sega Genesis	cpu	Motorola 68000 @ 7.6 MHz
+Sega Genesis	cpu	Zilog Z80 @ 3.58 MHz
+GP2X	cpu	Dual CPU:\n200 MHz Host ARM920T\n200 MHz ARM940T
+Vulgus	cpu	Zilog Z80
+Terminator 2: Judgment Day	cpu	TMS34010
+ATM	cpu	Zilog Z80 at 7 MHz
+Red Baron	cpu	6502
+Black Widow	cpu	6502
+Bank Panic	cpu	Z80
+Double Dragon	cpu	Main\n*HD6309 @ 12 MHz\n\nSecondary\n*HD63701 @ 6 MHz
+V.Smile	cpu	SunPlus SPG2xx
+Assault	cpu	2
+Assault	cpu	1
+Epson PX-8 Geneva	cpu	Z-80 compatible
+Compaq Portable II	cpu	Intel 80286 @ 6 or 8MHz
+Street Fighter	cpu	68000
+Big Karnak	cpu	68000
+Galaxian 3	cpu	2
+Galaxian 3	cpu	1
+Tank Battalion	cpu	1
+Apricot Portable	cpu	Intel 8086 CPU @ 4.77 MHz
+Apricot PC	cpu	477
+Apricot PC	cpu	@ Intel 8086 CPU
+Apricot PC	cpu	Socket for optional Intel 8087 co-processor.
+Tangerine Microtan 65	cpu	6502
+I'm Sorry	cpu	Z80 @ 4 MHz
+Wonder Momo	cpu	2
+Wonder Momo	cpu	1
+NeXTcube	cpu	Motorola 68040 @ 25 MHz, 56001 digital signal processor
+Z22	cpu	200
+Palm TX	cpu	312
+Dangun Feveron	cpu	Motorola 68000 @ 16 MHz
+Commodore LCD	cpu	Rockwell 65C102 @ 2 MHz
+Metro-Cross	cpu	1
+3Com Audrey	cpu	200
+Virtua Fighter 3	cpu	PowerPC 603e
+BlackDog	cpu	Xilinx Virtex II-Pro FPGA containing a 400 MHz IBM PowerPC 405 Delta processor
+Atari MEGA STE	cpu	Motorola 68000 @ 8 MHz  or 16 MHz
+Zemmix	cpu	8
+Treo 700w	cpu	Intel PXA272 312 MHz processor with Intel XScale Technology
+Colour Genie	cpu	Zilog Z80, 2 MHz
+Power Macintosh 7600	cpu	PowerPC 604
+Alex Kidd: The Lost Stars	cpu	68000
+Battle Arena Toshinden 2	cpu	Synergistic Processing Unit
+RCA Studio II	cpu	RCA 1802 microprocessor, 1.78 MHz
+Mega Man 2: The Power Fighters	cpu	CP System
+Mega Man: The Power Battle	cpu	CP System
+U.S. Championship V'Ball	cpu	MOS Technology 6502
+Namco Libble Rabble	cpu	68000
+Gavilan SC	cpu	5
+APF-MP1000	cpu	Motorola 6800  @ 0.895 MHz
+Camputers Lynx	cpu	4
+Palm III	cpu	Motorola DragonBall MC68328 16 MHz
+Palm IIIxe	cpu	16
+Pistol Daimyo no Bōken	cpu	2
+Pistol Daimyo no Bōken	cpu	1
+Dancing Stage Fusion	cpu	128
+Seicross	cpu	Z80 , NSC8105
+APF Imagination Machine	cpu	Motorola 6800 8-bit @ 0.89 MHz
+APF TV Fun	cpu	AY-3-8500 chipset from General Instruments
+Dangerous Seed	cpu	2
+Dangerous Seed	cpu	1
+Baraduke	cpu	1
+Blazer	cpu	2
+Blazer	cpu	1
+Sprint 2	cpu	6502
+Bakutotsu Kijūtei	cpu	M6809
+Bakutotsu Kijūtei	cpu	HD63701
+Ordyne	cpu	2
+Ordyne	cpu	1
+Grid Compass	cpu	Intel 8086
+Zeebo	cpu	ARM11 clocked at 528Mhz
+NSLU2	cpu	266
+Reactor	cpu	Intel 8088
+VC 4000	cpu	Signetics 2650A, Signetics 2636 video controller
+Xerox NoteTaker	cpu	Intel 8086 @ 5 MHz
+Pac & Pal	cpu	2
+Grobda	cpu	2
+Motos	cpu	2
+Phelios	cpu	2
+Phelios	cpu	1
+Phozon	cpu	3
+RoadBlasters	cpu	7
+Hopping Mappy	cpu	2
+Hopping Mappy	cpu	1
+Workgroup Server 9150	cpu	PowerPC 601
+Sky Kid	cpu	1
+SOS	cpu	1
+Dragon Saber	cpu	2
+Dragon Saber	cpu	1
+Dragon Spirit	cpu	2
+Dragon Spirit	cpu	1
+DJ Boy	cpu	2
+Suzuka 8 Hours	cpu	2
+Suzuka 8 Hours	cpu	1
+Genpei Tōma Den	cpu	2
+Genpei Tōma Den	cpu	1
+Dance Dance Revolution SuperNova	cpu	128
+Warp & Warp	cpu	1
+Tinkle Pit	cpu	1
+Kaitei Takara Sagashi	cpu	1
+Libble Rabble	cpu	2
+Libble Rabble	cpu	1
+Face Off	cpu	2
+Face Off	cpu	1
+Toy Pop	cpu	2
+Toy Pop	cpu	1
+Sky Kid Deluxe	cpu	2
+Sky Kid Deluxe	cpu	1
+Yokai Dochuki	cpu	2
+Yokai Dochuki	cpu	1
+PowerBook 190	cpu	Motorola 68LC040
+Burning Force	cpu	2
+Burning Force	cpu	Motorola M6809 @ 3.072 MHz
+Burning Force	cpu	Hitachi HD63705 @ 2.048 MHz
+Cosmo Gang the Video	cpu	2
+Cosmo Gang the Video	cpu	1
+Cosmo Gang the Puzzle	cpu	1
+Dragon Buster	cpu	1
+Märchen Maze	cpu	M6809
+Märchen Maze	cpu	HD63701
+1292 Advanced Programmable Video System	cpu	8
+Navarone	cpu	1
+Solvalou	cpu	2
+Solvalou	cpu	1
+Valkyrie no Densetsu	cpu	2
+Valkyrie no Densetsu	cpu	1
+The Return of Ishtar	cpu	2
+The Return of Ishtar	cpu	1
+Kyūkai Dōchūki	cpu	2
+Kyūkai Dōchūki	cpu	1
+Finest Hour	cpu	2
+Finest Hour	cpu	1
+Nintendo DS Lite	cpu	67
+Tank Force	cpu	2
+Tank Force	cpu	1
+Mirai Ninja	cpu	2
+Mirai Ninja	cpu	1
+Gunbird	cpu	Motorola 68EC020
+Gunbird	cpu	PIC microcontroller
+Casio Loopy	cpu	32
+Sengeki Striker	cpu	SH-2 @ 28.638MHz
+Blaster	cpu	M6809
+UKNC	cpu	2
+Rompers	cpu	2
+Rompers	cpu	1
+Metal Hawk	cpu	2
+Metal Hawk	cpu	1
+Astro Blaster	cpu	Z80
+HTC Apache	cpu	416
+Pro Tennis: World Court	cpu	2
+Pro Tennis: World Court	cpu	1
+Gladiator	cpu	Z80
+The Amazing Maze Game	cpu	8080
+Puzzle Uo Poko	cpu	Motorola 68000 @ 16 MHz
+Macintosh Quadra 605	cpu	Motorola 68040
+Macintosh Quadra 900	cpu	Motorola 68040
+Boxy Boy	cpu	2
+Boxy Boy	cpu	1
+Emeraldia	cpu	1
+Rolling Thunder 2	cpu	2
+Rolling Thunder 2	cpu	1
+Final Lap 3	cpu	2
+Final Lap 3	cpu	1
+Final Lap 2	cpu	2
+Final Lap 2	cpu	1
+PowerBook 5300	cpu	PowerPC 603e
+Gee Bee	cpu	1
+Bomb Bee	cpu	1
+Cutie Q	cpu	1
+Lemote	cpu	Loongson III 64-bit CPU
+Power Macintosh 9500	cpu	PowerPC 604
+Power Macintosh 4400	cpu	PowerPC 603e
+Exvania	cpu	1
+Zenith Z-89	cpu	2
+Dirt Fox	cpu	2
+Dirt Fox	cpu	1
+Super World Court	cpu	1
+MK14	cpu	National Semiconductor
+MK14	cpu	MP
+Ozma Wars	cpu	Intel 8080 at 2 MHz
+HERO	cpu	Motorola 6800
+HERO	cpu	Motorola 6808 1 MHz
+HERO	cpu	Intel 8088
+HERO	cpu	6
+HERO	cpu	Intel Core Duo
+Sord M5	cpu	Zilog Z80A @ 3.58MHz
+TIM-011	cpu	HD64180
+Iskra Delta Partner	cpu	Z80A @ 4 MHz
+Galeb	cpu	MOS 6502
+Orao	cpu	MOS Technology 6502 at 1 MHz
+Super Baseball 2020	cpu	68000
+Macintosh Quadra 800	cpu	Motorola 68040
+Power Macintosh 8100	cpu	PowerPC 601
+Power Macintosh 8600	cpu	PowerPC 600
+Power Macintosh 7300	cpu	PowerPC 600
+Palm VII	cpu	Motorola DragonBall EZ MC68EZ328 16 MHz
+Power Macintosh 7200	cpu	PowerPC 601
+Virgin Webplayer	cpu	200
+Power Macintosh 9600	cpu	PowerPC 600
+Macintosh Quadra 840AV	cpu	Motorola 68040
+Macintosh Quadra 660AV	cpu	Motorola 68040
+Macintosh Quadra 630	cpu	Motorola 68040 or 68LC040
+CompuMate	cpu	MOS 6507 @ 1.19 MHz
+Macintosh Quadra 610	cpu	Motorola 68LC040 or 68040
+Macintosh Quadra 650	cpu	Motorola 68LC040 or 68040
+Macintosh LC 500 series	cpu	Motorola 68030
+Macintosh LC 500 series	cpu	Motorola 68LC040
+Dina	cpu	Zilog Z80
+1941: Counter Attack	cpu	Motorola 68000 @ 10 MHz
+Sharp PC-5000	cpu	4.77
+World Stadium	cpu	2
+World Stadium	cpu	1
+Captain Silver	cpu	M6809 x 2
+PowerBook 2400c	cpu	PowerPC 603e
+Gotcha	cpu	Discrete device
+Alpine Ski	cpu	Z80
+Arabian Magic	cpu	68
+ThinkPad Z60m	cpu	Intel Pentium M - various models
+AT&T Unix PC	cpu	Motorola MC68010 with custom Memory management unit clocked at 10Mhz
+G-Darius	cpu	MIPS R3000A
+Starblade	cpu	2
+Starblade	cpu	1
+Mushihimesama	cpu	Hitachi SH-3
+Capcom vs. SNK: Millennium Fight 2000	cpu	Hitachi SH-4 @  200 MHz
+Ridge Racer	cpu	1
+Ridge Racer	cpu	2
+HTC Universal	cpu	Intel Bulverde 520 MHz
+Arduino	cpu	Atmel AVR
+Arduino	cpu	ARM Cortex-M
+Arduino	cpu	Intel Quark
+Ibara	cpu	Hitachi SH-3 CPU @ 133 MHz
+Steel Gunner	cpu	2
+Steel Gunner	cpu	1
+Steel Gunner 2	cpu	2
+Steel Gunner 2	cpu	1
+Golly! Ghost!	cpu	2
+Golly! Ghost!	cpu	1
+NebulasRay	cpu	1
+Sony CLIÉ PEG-TJ35	cpu	200
+Game Boy	cpu	Sharp LR35902 core
+Time Pilot '84	cpu	M6809 clocked at 1.5 MHz
+005	cpu	Z80
+Aero Fighters 3	cpu	68000
+Anteater	cpu	Z80
+Arabian	cpu	Z80
+Astro Fighter	cpu	M6502
+Space Duel	cpu	6502
+Birdie King	cpu	Z80
+Black Tiger	cpu	Z80
+2 on 2 Open Ice Challenge	cpu	TMS34010
+Act-Fancer: Cybernetick Hyper Weapon	cpu	HuC6280
+Acrobatic Dog-Fight	cpu	M6502
+Ace Driver	cpu	1
+Ace Driver	cpu	2
+Acrobat Mission	cpu	68000
+A.B. Cop	cpu	68000
+64th Street: A Detective Story	cpu	68000
+4-D Warriors	cpu	Z80
+3 Count Bout	cpu	TMS34010
+Aggressors of Dark Kombat	cpu	68000
+Air Buster	cpu	Zilog Z80
+Air Duel	cpu	NEC V30
+Air Combat 22	cpu	1
+Air Combat 22	cpu	2
+Air Gallet	cpu	68000
+A Jax	cpu	Konami 052001, Z80, 63C09EP
+Ali Baba and 40 Thieves	cpu	Z80
+Alien 3: The Gun	cpu	NEC V60
+Alien 3: The Gun	cpu	Z80
+All American Football	cpu	Z80
+Alley Master	cpu	Z80
+Alligator Hunt	cpu	68000
+Alpine Racer	cpu	68
+American Horseshoes	cpu	Z80
+AmeriDarts	cpu	TMS34010
+American Speedway	cpu	Z80
+Apache 3	cpu	68000
+Aqua Jack	cpu	68000
+Angel Kids	cpu	Z80
+Arabian Fight	cpu	Z80
+Arabian Fight	cpu	NEC V60
+Ark Area	cpu	Z80
+Arbalester	cpu	68000
+Arkanoid: Revenge of Doh	cpu	Zilog Z80
+Arkanoid Returns	cpu	68
+Arlington Horse Racing	cpu	M6809
+Formation Armed F	cpu	Main: 68000 @ 8 MHz
+Formation Armed F	cpu	Sound: Z80 @ 4 MHz
+Armor Attack	cpu	CCPU
+Alpha Mission II	cpu	68000
+PowerBook 100	cpu	Motorola 68000 16 MHz
+Azurian Attack	cpu	Z80
+Avenging Spirit	cpu	68000
+Avengers	cpu	Z80
+Aurail	cpu	68000
+Atomic Robo-Kid	cpu	Zilog Z80
+Asura Blade: Sword of Dynasty	cpu	68
+B-Wings	cpu	M6809
+Bakuretsu Quiz Ma-Q Dai Bōken	cpu	1
+Fighter & Attacker	cpu	1
+Four Trax	cpu	2
+Four Trax	cpu	1
+Lucky & Wild	cpu	2
+Lucky & Wild	cpu	1
+Backfire!	cpu	ARM architecture
+Bagman	cpu	Z80
+Balloon Bomber	cpu	8080
+Balloon Brothers	cpu	68000
+Bang Bang Ball	cpu	68000
+TRANZ 330	cpu	Zilog Z80
+Magician Lord	cpu	Motorola 68000
+Magician Lord	cpu	Zilog
+Magician Lord	cpu	Zilog Z80
+SubRoc-3D	cpu	Zilog Z80
+Baseball The Season II	cpu	Z80
+Batman	cpu	68000
+Battlantis	cpu	HD6309
+Battle Bakraid	cpu	68000
+4-Player Bowling Alley	cpu	8080
+A.D. 2083	cpu	Z80
+Action Hollywood	cpu	68000
+Buffalo network-attached storage series	cpu	PowerPC
+Buffalo network-attached storage series	cpu	MIPS architecture
+Buffalo network-attached storage series	cpu	ARM architecture
+The Outfoxies	cpu	1
+Emergency Call Ambulance	cpu	32
+Sheriff	cpu	8080
+Sheriff	cpu	8035
+Zune	cpu	Freescale i. MX31L processor ARM Core
+Zune	cpu	Nvidia Tegra APX 2600
+Space Fever	cpu	Z80 @ 3.072 MHz, I8035 @ 0.4 MHz
+EVO Smart Console	cpu	2.9
+EVO Smart Console	cpu	800
+Xybots	cpu	Motorola 68000 @ 7.15909 MHz, MOS Technology 6502 @ 1.7895 MHz
+Alpine Racer 2	cpu	68
+The Amazing Adventures of Mr. F. Lea	cpu	Z80
+Aquarium	cpu	68000
+Argus	cpu	Z80 @ 5MHz
+Armored Car	cpu	Z80
+Astra Super Stars	cpu	68000
+Astro Fantasia	cpu	M6502
+Astro Fantasia	cpu	I8X41
+Astro Chase	cpu	M6502
+Astro Chase	cpu	M68705
+Itsy Pocket Computer	cpu	DEC StrongARM SA-1100
+Space Race	cpu	Discrete device
+Avalanche	cpu	M6502
+Avengers in Galactic Storm	cpu	SuperH
+Aztarac	cpu	68000
+B.C. Story	cpu	68000
+Mylo	cpu	ARM architecture
+Back Street Soccer	cpu	68000
+Baluba-Louk No Densetsu	cpu	Z80
+ESP Ra.De.	cpu	Motorola 68000 @ 16 MHz
+TV Scoreboard	cpu	AY-3-8500
+Barricade	cpu	8080
+Mr. Heli	cpu	NEC V30
+Battle Cross	cpu	Z80
+Battle K-Road	cpu	68
+Bloody Wolf	cpu	HuC6280
+Battle of Atlantis	cpu	Z80
+Apple II Plus	cpu	MOS Technology 6502
+Battle Shark	cpu	68000
+The Battle-Road	cpu	Zilog Z80
+Quantum	cpu	Motorola 68000
+Cadash	cpu	68000
+Juno First	cpu	Motorola 6809
+Juno First	cpu	Zilog Z80
+Street Fighter II′ Turbo: Hyper Fighting	cpu	68000
+Street Fighter II′ Turbo: Hyper Fighting	cpu	Z80 @ 3.579 MHz
+FM-7	cpu	2
+Beach Festival World Championship 1997	cpu	68000
+Beast Busters	cpu	68000
+Beam Invader	cpu	Z80
+Beat Head	cpu	M6502, ASAP
+Ben Bero Beh	cpu	M6809
+The Berlin Wall	cpu	68000
+Big Event Golf	cpu	Z80
+Big Event Golf	cpu	M68705
+Big Bucks Trivia	cpu	Z80
+Best Bout Boxing	cpu	NEC V70
+Bermuda Triangle	cpu	Z80
+Big Run	cpu	Motorola 68000x3
+Big Twin	cpu	68000
+Bigfoot Bonkers	cpu	S2650
+Billiard Academy Real Break	cpu	68000
+Bio-Attack	cpu	Z80
+Biomechanical Toy	cpu	68000
+Black Heart	cpu	68000
+Pac-Mania	cpu	2
+Pac-Mania	cpu	1
+Numan Athletics	cpu	1
+Treo 700wx	cpu	Intel PXA272 312 MHz processor with Intel XScale Technology
+Dynamite Düx	cpu	Motorola 68000 clocked at 10MHz, Zilog Z80 clocked at 5MHz
+Pocket Dream Console	cpu	Unknown 16-bit
+Black Hole	cpu	Z80
+Black Panther	cpu	68000
+Blade Master	cpu	NEC V33
+Blandia	cpu	68000
+Blasted	cpu	68000
+Detana!! TwinBee	cpu	Motorola 68000 at 16 MHz
+Doctor Pong	cpu	Electronic components
+HTC Tornado	cpu	Texas Instruments OMAP
+Apple TV	cpu	*1st:
+Apple TV	cpu	Pentium M
+Apple TV	cpu	*2nd:
+Apple TV	cpu	Apple A4
+Apple TV	cpu	*3rd and 3rd Rev A:
+Apple TV	cpu	Apple A5
+Apple TV	cpu	*4th:
+Apple TV	cpu	Apple A8
+Apple TV	cpu	at 1.5 GHz
+NEC UltraLite	cpu	NEC V30 at 4.92Mhz and 8.14 MHz
+Star Wars Trilogy Arcade	cpu	32
+Gamate	cpu	UMC UA6588F
+Gamate	cpu	NCR 81489
+Gamate	cpu	both 6502 based
+Blasto	cpu	8080
+BlaZeon	cpu	68000
+Strike Force	cpu	TMS34010
+Palm V	cpu	Motorola DragonBall EZ MC68EZ328 16 MHz
+PowerBook 140	cpu	140
+PowerBook 140	cpu	145
+Xbox 360	cpu	3.2
+PC-6000 Series	cpu	Zilog Z80 compatible PD 780c-1 clocked at 3.8MHz, MC6847 compatible co-processor M5C6847P-1
+PC-6600 Series	cpu	Zilog Z80A compatible ìPD780C-1 clocked at 4MHz, ìPD8049 co-processor clocked at 8Mhz
+Psion Siena	cpu	NEC V30H @ 7.68 MHz
+V.Flash	cpu	ARM9 from LSI Logic
+Star Wars Arcade	cpu	NEC V60
+Blockade	cpu	Intel 8080
+Shao-lin's Road	cpu	6809
+Palm Vx	cpu	Motorola DragonBall EZ MC68EZ328 20 MHz
+Sansa e200 series	cpu	v1-2x80 MHz PortalPlayer PP5024
+Sansa e200 series	cpu	v2-250MHz AMS3525
+Sega TeraDrive	cpu	16
+Nettō! Gekitō! Quiz-tō!!	cpu	1
+Tommy Lasorda Baseball	cpu	Motorola 68000
+Tommy Lasorda Baseball	cpu	Z80 x 2
+Agat	cpu	United Microelectronics Corporation
+Agat	cpu	6502
+Tekken	cpu	1
+Classmate PC	cpu	Intel Atom Mobile Processor N270, N455
+Konami GT	cpu	Motorola 68000
+Major Havoc	cpu	6502
+Night Slashers	cpu	ARM architecture
+Night Slashers	cpu	Z80
+FC Twin	cpu	NOAC , Ricoh 5822 or compatible 3.58 MHz
+Toshiba T1100	cpu	Intel 80C88 @ 4.77 MHz
+Tianhua GX-1C	cpu	Loongson 1
+Osborne Executive	cpu	Zilog Z80A @ 4.0 MHz
+Efika	cpu	I.MX
+Bloody Roar	cpu	Synergistic Processing Unit
+Puchi Carat	cpu	Motorola 68EC020 @ 16 MHz
+DAI Personal Computer	cpu	Intel 8080A at 2 MHz
+Pleiads	cpu	8085.0
+Amstrad Mega PC	cpu	32
+Amstrad Mega PC	cpu	Motorola 68000 @ 7.14 MHz
+Nokia N800	cpu	330
+IPhone	cpu	*1st gen and 3G:\n*
+IPhone	cpu	Samsung
+IPhone	cpu	32
+IPhone	cpu	Reduced instruction set computing
+IPhone	cpu	ARM architecture
+IPhone	cpu	1176
+IPhone	cpu	ARM Cortex-A8
+IPhone	cpu	*4: 800 MHz
+IPhone	cpu	*4S: 800 MHz
+IPhone	cpu	Multi-core processor
+IPhone	cpu	ARM Cortex-A9
+IPhone	cpu	*5 / 5C: 1.3 GHz dual-core Apple A6\n*5S: 1.3 GHz 64-bit dual-core Apple A7\n*6 / 6 Plus: 1.4 GHz 64-bit dual-core Apple A8\n*6S / 6S Plus and SE: 1.85 GHz 64-bit dual-core Apple A9\n*7 / 7 Plus: 2.23 GHz 64-bit quad-core  to maximize performance and minimize battery usage
+Super A'Can	cpu	Motorola 68000
+Super A'Can	cpu	MOS Technology 6502
+HTC Excalibur	cpu	TI OMAP850 200MHz
+PowerBook 170	cpu	Motorola 68030, 25 MHz
+Sharp Nintendo Television	cpu	Ricoh 2A03 8-bit processor
+Mega Duck	cpu	MOS Z80 @ 4.194304 MHz
+Stinger	cpu	Z80 @ 3.072 MHz
+Stinger	cpu	Z80 @ 1.78975 MHz
+The Glob	cpu	Z80
+Exerion	cpu	Z80
+XII Stag	cpu	MIPS R3000A
+Neo 1973	cpu	Samsung s3c2410 SoC @ 266 MHz
+Osman	cpu	Data East 156
+Devil Fish	cpu	Z80
+Stratovox	cpu	Z80 2.5 MHz
+Super Mouse	cpu	Z80
+Terminator 2	cpu	1.779
+Game Master	cpu	NEC upd7810
+Toshiba T1200	cpu	Intel 80C86, 4.77 or 9.54 MHz switchable
+Casio BE-300	cpu	166
+Red Alert	cpu	1
+Mutation Nation	cpu	Motorola 68000
+Mutation Nation	cpu	Zilog
+Mutation Nation	cpu	Z80
+PowerBook 160	cpu	Motorola 68030
+High Way Race	cpu	Z80
+Dance Dance Revolution Disney Mix	cpu	R3000A 32 bit RISC processor
+Knuckle Heads	cpu	1
+Frogs	cpu	Z80
+Dragon Master	cpu	68000
+Cheeky Mouse	cpu	Z80
+Hoccer	cpu	Z80
+IBM JX	cpu	Intel 8088 @ 4.77 MHz
+Ikki	cpu	Z80
+Azrael's Tear	cpu	486
+Pop'n Pop	cpu	M68000 clocked at 12 MHz
+Treo 750	cpu	300
+River Patrol	cpu	Z80
+Mr. Kougar	cpu	Z80
+Treo 755p	cpu	Intel PXA272 312MHz with Intel XScale Technology
+Moon Cresta	cpu	Z80
+Route-16	cpu	Z80
+MotoRace USA	cpu	Z80
+Dynamic Ski	cpu	Z80
+Crazy Climber 2	cpu	Main: 68000 @ 8 MHz
+Crazy Climber 2	cpu	Sound: Z80 @ 4 MHz
+HTC Sonata	cpu	TI OMAP 730 200 MHz
+ThinCan	cpu	Geode
+PC-8000 Series	cpu	NEC μPD780C  @ 4 MHz
+Oh My God!	cpu	68000
+Sea Wolf	cpu	Intel 8080
+Armed Police Unit Gallop	cpu	NEC V30
+New Internet Computer	cpu	266
+HTC P4350	cpu	OMAP 850 201MHz
+Palm Foleo	cpu	Intel PXA27x 416MHz
+Sphere 1	cpu	Motorola 6800
+Asus Eee PC	cpu	Celeron
+Asus Eee PC	cpu	Pentium
+Asus Eee PC	cpu	Intel Atom
+Asus Eee PC	cpu	AMD Fusion
+OLPC XO	cpu	AMD Geode LX700@0.8 W + 5536
+Mystic Warriors	cpu	Motorola 68000 @ 16 MHz
+Compucolor II	cpu	Intel 8080/8080A
+Dominos	cpu	6502
+VTech Socrates	cpu	Zilog Z80A at 3.57 MHz
+Casio PB-1000	cpu	Hitachi HD61700
+Terra Cresta	cpu	68000
+Lunar Rescue	cpu	Intel 8080 @ 2 MHz
+Enduro Racer	cpu	68000
+Dragon MSX	cpu	Zilog Z80A @ 3.58 MHz
+TEC-1	cpu	Zilog Z80
+Crime Fighters	cpu	KONAMI
+IPod Touch	cpu	*1st gen: 412 MHz ARM 1176JZF-S\n*2nd gen: 533 MHz ARM 1176JZF-S\n*3rd gen: 600 MHz
+IPod Touch	cpu	ARM Cortex-A8
+IPod Touch	cpu	*4th gen: 800 MHz
+IPod Touch	cpu	*5th gen: 800 MHz
+IPod Touch	cpu	Multi-core processor
+IPod Touch	cpu	ARM Cortex-A9
+IPod Touch	cpu	*6th gen: 1.1 GHz
+IPod Touch	cpu	Apple Typhoon
+IPod Touch	cpu	ARMv8
+Toshiba g500	cpu	Marvell PXA270, 400 MHz
+HP 95LX	cpu	NEC V20 @ 5.37 MHz
+Wing War	cpu	V60 clocked at 16MHz, Motorola 68000 clocked at 10MHz
+Landing High Japan	cpu	Power PC603e
+Master of Weapon	cpu	68000
+Street Fighter IV	cpu	LGA 775 compatible CPU: Intel Core 2 Duo E6400
+Street Fighter IV	cpu	GPU: GeForce 7900 GS
+Nokia N810	cpu	400
+Combat School	cpu	Z80 cpu @ 1.5 MHz
+Combat School	cpu	M6309 cpu @ 5 MHz
+Lunar Lander	cpu	6502
+Amazon Kindle	cpu	Kindle 1: Marvell Xscale PXA255 400 MHz, ARM9
+Amazon Kindle	cpu	Kindle 2, DX: Freescale i.MX31 532 MHz, ARM11
+Amazon Kindle	cpu	Kindle Keyboard: Freescale i.MX35 532 MHz, ARM11
+Amazon Kindle	cpu	Kindle 4, 5, Touch, Paperwhite : Freescale i.MX508 800 MHz, ARM Cortex-A8
+Amazon Kindle	cpu	Kindle 7, Paperwhite , Voyage, Oasis, 8: Freescale i.MX6 SoloLite 1 GHz, ARM Cortex-A9
+Lord of Vermilion	cpu	LGA 775-based
+Lord of Vermilion	cpu	GPU: PCI Express ×16-based
+Sundance	cpu	CCPU at 5 MHz
+Peter Pack Rat	cpu	Motorola 68010
+Zenith Z-100	cpu	Dual processors: 8085 and 8088
+My Hero	cpu	Z80 @ 4 MHz
+Tandy 10 Business Computer System	cpu	8080
+Dancing Stage featuring True Kiss Destination	cpu	R3000A 32 bit RISC processor
+Pandora	cpu	OMAP 3
+Dick Smith Super-80 Computer	cpu	Zilog Z80 @ 2 MHz
+IOIO	cpu	Microchip Technology
+IOIO	cpu	PIC microcontroller
+ST BOOK	cpu	Motorola 68HC000 @ 8 MHz
+CloudBook	cpu	VIA C7-M ULV 1.2 GHz
+Dance Dance Revolution Extreme	cpu	33
+Beatmania IIDX Substream	cpu	R3000A 32 bit RISC processor
+Beatmania IIDX 3rd Style	cpu	R3000A 32 bit RISC processor
+Beatmania IIDX 6th Style	cpu	R3000A 32 bit RISC processor
+Beatmania IIDX Club Version	cpu	R3000A 32 bit RISC processor
+Beatmania IIDX 2nd Style	cpu	R3000A 32 bit RISC processor
+Beatmania IIDX 4th Style	cpu	R3000A 32 bit RISC processor
+Beatmania IIDX 5th Style	cpu	R3000A 32 bit RISC processor
+Beatmania IIDX 10th Style	cpu	Pentium 4 2.4GB
+Beatmania IIDX 8th Style	cpu	R3000A 32 bit RISC processor
+Beatmania IIDX 7th Style	cpu	R3000A 32 bit RISC processor
+Atari STacy	cpu	Motorola 68HC000 @ 8 MHz
+Axim X50 series	cpu	624
+Dancing Stage featuring Dreams Come True	cpu	R3000A 32 bit RISC processor
+Heli Fire	cpu	8080
+Sky Skipper	cpu	Z80 @ 4 MHz
+N-Sub	cpu	Z80 @ 1.93356 MHz
+IdeaPad	cpu	1.6
+PlayStation 2	cpu	\
+Fit-PC	cpu	Geode LX 800
+HTC Touch Cruise	cpu	Qualcomm MSM7200, 400MHz
+Operation Wolf 3	cpu	68000
+Commodore Educator 64	cpu	MOS Technology 6510
+Ah Eikou No Koshien	cpu	68000
+Daikaijū no Gyakushū	cpu	2
+Blue Hawk	cpu	Z80
+Nostradamus	cpu	68000
+DoDonPachi DaiFukkatsu	cpu	Hitachi SH3 @ 133 MHz
+Space Firebird	cpu	Z80 @ 3 MHz, I8035 @ 6 MHz
+Elektor Junior Computer	cpu	6502
+Demon	cpu	CCPU
+QB-3	cpu	CCPU
+Cosmic Chasm	cpu	CCPU
+Solar Quest	cpu	CCPU
+Tail Gunner	cpu	CCPU @ 5 MHz
+HP 2133 Mini-Note PC	cpu	VIA C7-M ULV
+Cloak & Dagger	cpu	M6502 x 2
+PuLiRuLa	cpu	Motorola 68000
+85	cpu	Intel 8085
+85	cpu	@ 3.072 MHz
+Beatmania IIDX	cpu	R3000A 32 bit RISC processor
+Xbox	cpu	Custom 733 MHz Intel Pentium III \
+2E	cpu	IBM 486SLC2 clock doubled 50/25MHz processor
+Cyber Sled	cpu	2
+Cyber Sled	cpu	1
+BBC Bridge Companion	cpu	Zilog Z80
+Acorn A7000	cpu	32
+Acorn A7000	cpu	48
+Round-Up	cpu	Z80
+IMKO-1	cpu	6502
+Gigabyte M912	cpu	1.6
+Heiankyo Alien	cpu	Zilog Z80
+Bondwell-2	cpu	Zilog Z-80 CPU @ 4 MHz
+Nintendo Entertainment System	cpu	Ricoh 2A03 8-bit processor
+BBC Micro	cpu	2
+Skytone Alpha-400	cpu	Ingenic Jz4730 a.k.a. XBurst
+Heathkit H8	cpu	Intel 8080
+Heathkit H11	cpu	LSI-11 clocked at 2.5MHz
+PSX	cpu	90
+Nintendo DSi	cpu	2
+Mac Mini	cpu	Intel Core i5 & Core i7
+Mac Mini	cpu	PowerPC G4
+WEC Le Mans	cpu	2
+WEC Le Mans	cpu	Z80 @ 3.579545 MHz
+Digital Reader 1000	cpu	Freescale i.MX31L processor
+Fantasy	cpu	MOS Technology 6502
+Fantasy	cpu	Clock rate
+Olivetti M24	cpu	Intel 8086 @ 8MHz
+IBM 5550	cpu	Intel 8086 @ 8 MHz
+Astone UMPC	cpu	VIA C7-M ULV 1.2 GHz
+Zelybron Micro Nina	cpu	VIA C7
+HP Mini 2140	cpu	Intel Atom N270
+Armed Police Batrider	cpu	68000
+Head On	cpu	Zilog Z80 clocked at 1.93356 MHz
+Spinmaster	cpu	68000
+JooJoo	cpu	1.6
+JooJoo	cpu	NVIDIA ION graphics
+Border Break	cpu	Pentium Dual-Core E2160
+Border Break	cpu	GPU: GeForce 8800 GS, 384 MB GDDR3 SDRAM
+Flashgal	cpu	Zilog Z80
+Palm Treo Pro	cpu	CDMA version: 528 MHz Qualcomm MSM7501A ARM11
+Palm Treo Pro	cpu	GSM version: 400 MHz Qualcomm MSM7201 ARM11
+Glospace SGK-70	cpu	Samsung S3C2440 processor at 400 MHz
+Check Man	cpu	Z80
+Champion Boxing	cpu	Z80 , 60.00 Hz
+Tōkidenshō Angel Eyes	cpu	68000
+SheevaPlug	cpu	1.2
+Zune HD	cpu	Nvidia Tegra
+Zune HD	cpu	(One ARM11 and one ARM7 general processing cores)
+Dingoo	cpu	XBurst@360MHz
+Racing Hero	cpu	68000
+Microsoft Kin	cpu	Freescale i. MX31L processor ARM Core
+Microsoft Kin	cpu	nVidia Tegra APX 2600
+Pegasus	cpu	1.779
+Palm VIIx	cpu	Motorola DragonBall EZ MC68EZ328 20 MHz
+Winning Run	cpu	2
+Winning Run	cpu	Motorola 68020 @ 12.5 MHz,
+Winning Run	cpu	Motorola M6809 @ 3.072 MHz,
+Winning Run	cpu	Hitachi HD63705 @ 2.048 MHz,
+Winning Run	cpu	3
+Trivia Master	cpu	Z80A
+Vimana	cpu	68000
+PV-1000	cpu	Z80A clocked at 3.579 MHz
+Dulmont Magnum	cpu	8
+Toshiba e310	cpu	Intel Strong Arm SA-1110 CPU @ 206MHz
+Zii EGG	cpu	Zii Labs ZMS-05
+Fire Truck	cpu	Motorola 6800
+Nokia N900	cpu	Texas Instruments OMAP
+Nokia N900	cpu	System-on-a-chip
+Nokia N900	cpu	600
+Nokia N900	cpu	430
+Deep Scan	cpu	Zilog Z80 clocked at 1.93356MHz
+Motodext	cpu	Qualcomm 32-bit RISC ARM 528 MHz
+Last Mission	cpu	M6809
+Dance Dance Revolution: Best of Cool Dancers	cpu	33
+Violence Fight	cpu	68000
+Violence Fight	cpu	Z80 @ 6 MHz
+BlazBlue: Continuum Shift	cpu	Intel Core 2 Duo E6400
+BlazBlue: Continuum Shift	cpu	GPU: GeForce 7900GS
+WikiReader	cpu	Epson
+WikiReader	cpu	S1C33
+WikiReader	cpu	Microcontroller
+Colorsport VIII	cpu	MOS Technology MPS7600-001
+Barnes & Noble Nook 1st Edition	cpu	667
+Alex eReader	cpu	Monahan PXA303, 624 MHz
+Super Famicom Naizou TV SF1	cpu	16
+Motorola Calgary	cpu	TI OMAP 3430:\nArm Cortex A8 550 mHz \nPowerVR SGX 530 GPU
+Motorola Calgary	cpu	430
+Famicom Titler	cpu	Ricoh RP2A03 8-bit processor
+LG GW620	cpu	528
+Line of Fire	cpu	2
+Mi2	cpu	MIPS architecture
+ODROID	cpu	2
+FM-8	cpu	68
+T-Mobile Pulse	cpu	768
+Boxee Box	cpu	List of Intel Atom microprocessors
+IBM ThinkPad 240	cpu	Intel Celeron
+IBM ThinkPad 240	cpu	Intel Pentium III
+Lenovo Skylight	cpu	ARM
+IPad	cpu	1
+IPad	cpu	2
+IPad	cpu	3
+IPad	cpu	4
+IPad	cpu	1.4
+IPad	cpu	Air:
+IPad	cpu	Air 2:
+IPad	cpu	1.5
+IPad	cpu	Mini 1st generation:
+IPad	cpu	Mini 2 & 3:
+IPad	cpu	1.3
+IPad	cpu	Mini 4:
+IPad	cpu	Pro 12.9-inch & 9.7-inch:
+IPad	cpu	2.26
+LeapFrog Didj	cpu	ARM9 @ 393 MHz
+Adam tablet	cpu	1
+HP Slate 500	cpu	Intel Atom Z540 processor @1.86 GHz
+Formation Z	cpu	M6809 clocked at 1.25MHz
+The King of Fighters XIII	cpu	Intel Core 2 Duo E6400
+The King of Fighters XIII	cpu	GPU: GeForce 7900GS
+Sanyo PHC-25	cpu	NEC D780C @ 4 MHz
+Rezon	cpu	68000
+Dell Streak	cpu	1
+Amiga CD32	cpu	Motorola 68EC020
+Amiga CD32	cpu	@ 14.18 MHz
+Amiga CD32	cpu	14.32
+M.A.C.H. 3	cpu	Intel 8088
+Nintendo 3DS	cpu	Dual-Core ARM11 MPCore, single-core ARM9
+PlayStation Vita	cpu	Up to 2 GHz Quad-core ARM Cortex-A9 MPCore
+Toshiba T3100	cpu	Intel 80286 @ 8 MHz
+WeTab	cpu	1.66
+O2 Joggler	cpu	1.3
+Iriver Story	cpu	Freescale 532 MHz, ARM-11
+Leapster Explorer	cpu	ARM9
+GuruPlug	cpu	1.2
+Touch Book	cpu	Overclocked 720 MHz OMAP3530 ARM Cortex-A8  and 420 MHz DSP core, NEON support
+CAANOO	cpu	533
+4FFF N618	cpu	Samsung 2416 ARM9 @ 400MHz
+BlackBerry PlayBook	cpu	1
+BlackBerry PlayBook	cpu	1.5
+Power Macintosh 6400 series	cpu	PowerPC 603e
+City Bomber	cpu	Motorola 68000
+Samsung Galaxy Tab 7.0	cpu	Samsung Exynos 3110  ARM Cortex A8; 1.0 GHz
+HP Mini 210	cpu	Intel Atom N455/475 Dual Thread
+Gridiron Fight	cpu	3
+Samsung Galaxy Player	cpu	1
+Sky Soldiers	cpu	68000
+Nook Color	cpu	800
+Advent Vega	cpu	1
+Archos 70	cpu	1
+Asura Buster: Eternal Warriors	cpu	68
+Archos 43	cpu	ARM Cortex A8 1 GHz Application Processor
+Samsung Galaxy 5	cpu	MSM7227-1 ARM11 600 MHz
+Acer neoTouch P400	cpu	600
+Compaq Concerto	cpu	Intel Intel 80486, 25 or 33 Mhz
+ViewSonic G Tablet	cpu	1
+Bandai Super Vision 8000	cpu	NEC µPD780C
+Motorola Xoom	cpu	Nvidia Tegra 2 T20, 1 GHz dual-core processor
+Archos 101 Internet Tablet	cpu	TI OMAP 3630
+Visual 1050	cpu	Zilog Z80 clocked at 4 MHz with a MOS Technology 6502 graphics coprocessor
+Bomber Man World	cpu	NEC V20
+Razer Switchblade	cpu	Intel Atom
+HP TouchPad	cpu	1.2
+HP TouchPad	cpu	1.5
+HP TouchPad	cpu	Qualcomm Snapdragon S3 APQ8060,
+HP TouchPad	cpu	dual-core ARM-based Scorpion
+Scramble Formation	cpu	Zilog Z80
+Rolling Thunder	cpu	2
+Rolling Thunder	cpu	1
+Visteon Dockable Entertainment	cpu	ARM7TDMI, 16.78 MHz
+Clevo x7200	cpu	Desktop Intel Core i7 for LGA 1366
+Trim-Slice	cpu	Nvidia Tegra 2
+Asus Eee Pad Transformer	cpu	1
+Samsung Galaxy Tab 10.1	cpu	1
+Wii U	cpu	1.24
+M-Labs	cpu	LatticeMico32 in a Xilinx Spartan-6 FPGA
+Toshiba Thrive	cpu	1
+Sony Tablet	cpu	Nvidia Tegra 2, dual core, 1000 MHz
+Raspberry Pi	cpu	1.2
+LG Optimus Pad	cpu	1
+Qisda ES900	cpu	Samsung S3C2416 ARM9 @ 400MHz
+Ben NanoNote	cpu	336
+Street Fighter II′: Champion Edition	cpu	68000
+Street Fighter II′: Champion Edition	cpu	Z80 @ 3.579 MHz
+Motorola Milestone XT720	cpu	TI OMAP 3440 Arm Cortex A8 720 MHz
+Nook Simple Touch	cpu	800
+Shanghai Kid	cpu	Z80
+Commodore 64x	cpu	Dual-core Intel Atom D525 @ 1.80 GHz , Intel Core i7 @ 2.2 GHz Sandy Bridge
+Samsung Galaxy Tab 8.9	cpu	1
+Gun Buster	cpu	Main: 68EC020 @ 16 MHz,
+Gun Buster	cpu	Sound: 68000 @ 16 MHz
+Acer Iconia Tab A500	cpu	1
+Kobo Touch	cpu	I.MX
+HTC ChaCha	cpu	800
+Compaq Portable III	cpu	Intel 80286 @ 12 MHz, Intel 80386 @ 20 MHz
+Kindle Fire	cpu	1.2
+Motorola Xyboard	cpu	OMAP 4, 1.2 GHz dual-core processor
+IBM Personal Computer XT	cpu	Intel 8088 @ 4.77 MHz
+Yahoo! Connected TV	cpu	Intel Atom based CE3100 consumer electronics system-on-chip, MIPS, ARM
+Ultra 60	cpu	UltraSPARC II
+Asus Eee Pad Transformer Prime	cpu	1.3
+Sony Tablet S	cpu	Nvidia Tegra 2, 1 GHz dual core
+NOVO7	cpu	1
+NOVO7	cpu	1.2
+PAC-PAD 1	cpu	1
+Asus Transformer Pad TF300T	cpu	1.3
+Lenovo IdeaPad Yoga 13	cpu	Intel Core i5 or Intel Core i7
+Neo Geo X	cpu	XBurst@1GHz
+Google Glass	cpu	OMAP 4430 System on a chip, dual-core processor
+IRCF360	cpu	Microchip PIC16F88 8 MHz internal oscillator, 200 nanosecond instruction execution, 35 single word instructions,CMOS Flash-based 8-bit microcontroller packs Microchip’s powerful PIC® architecture into an 18-pin package, , a capture/compare/PWM, an Addressable USART,  bus, 10-bit Analog-to-Digital  converter and 2 Comparators.
+PAC-PAD Takhti 7	cpu	1
+Hatsune Miku: Project DIVA Arcade	cpu	Pentium Dual-Core E2160
+Hatsune Miku: Project DIVA Arcade	cpu	GPU:
+Hatsune Miku: Project DIVA Arcade	cpu	GeForce 8800GS, 384 MB GDDR3 SDRAM
+Sensorium Project	cpu	Microchip PIC16F88 8 MHz internal oscillator, 200 nanosecond instruction execution, 35 single word instructions, CMOS Flash-based 8-bit microcontroller packs Microchip's powerful PIC® architecture into an 18-pin package, , a capture/compare/PWM, an Addressable USART,  bus, 10-bit Analog-to-Digital  converter and 2 Comparators.
+Pebble	cpu	STM32F205RE Cortex M3 CPU for Pebble Smartwatch and Steel, and Cortex M4 for Pebble Time and newer.
+Koutetsu Yousai Strahl	cpu	68000
+HTC Salsa	cpu	800
+Akai Katana	cpu	Hitachi SH3 @ 133 MHz
+OpenROV	cpu	720.0
+DreamPlug	cpu	1.2
+Toshiba AC100	cpu	ARM dualcore 1GHz Cortex-A9 processor
+Ouya	cpu	1.7
+Shootout	cpu	M6502
+Rascal	cpu	ARM926EJ/S 400 MHz
+Samsung Galaxy Note 10.1	cpu	1.4
+Nexus 7	cpu	ARM Cortex-A9 Nvidia Tegra 3 T30L 1.2 GHz quad-core  1MB L2 cache
+Cubieboard	cpu	Cortex-A8 @ 1 GHz CPU,
+Cubieboard	cpu	4
+ThinkPad X1 Carbon	cpu	Intel Core
+Cybook Orizon	cpu	Samsung S3C2416 , 400MHz
+Samsung Galaxy Tab 2 7.0	cpu	1
+Samsung Galaxy Tab 2 7.0	cpu	TI OMAP4430  SoC processor
+Samsung Galaxy Tab 2 10.1	cpu	1
+Samsung Galaxy Tab 2 10.1	cpu	dual-core ARM Cortex-A9
+Samsung Galaxy Tab 2 10.1	cpu	SoC processor
+Fire HD	cpu	ARM core
+Wikipad	cpu	1.4
+Archos GamePad	cpu	Dual-core Rockchip RK3066 @ 1.6 GHz
+Nook HD	cpu	ARM architecture
+Nook HD	cpu	Cortex-A9
+Nook HD	cpu	9.0
+Aakash 2	cpu	Allwinner A13
+Sony Xperia Tablet S	cpu	Nvidia Tegra 3, quad-core, 1.3 GHz
+NeXTcube Turbo	cpu	Motorola 68040 @ 33 MHz, 56001 digital signal processor
+IPad Mini	cpu	1
+IPad Mini	cpu	2
+IPad Mini	cpu	4
+IPad	cpu	1.4
+IPad	cpu	1
+Asus Transformer Pad Infinity	cpu	1.6
+Surface Pro	cpu	Multi-core processor
+Surface Pro	cpu	i5-3317U
+Surface Pro	cpu	1.7
+Nexus 10	cpu	1.7
+NDR-Klein-Computer	cpu	Zilog Z80
+NDR-Klein-Computer	cpu	or
+NDR-Klein-Computer	cpu	Motorola 68020
+Shield Portable	cpu	1.9
+Cowon Z2 Plenue	cpu	ARM Cortex-A8 Telechips TCC8803 dual-core 1.2 GHz
+Samsung Ativ Tab	cpu	1.2
+Chromebook Pixel	cpu	Intel Core i5 1.8 GHz
+HP Slate 7	cpu	1.6
+Sony Xperia Tablet Z	cpu	1.5
+Amplify Tablet	cpu	2
+Samsung Galaxy Note 8.0	cpu	1.6
+Samsung Galaxy Note 8.0	cpu	Samsung Exynos 4412 quad SoC processor
+Super Street Fighter IV: Arcade Edition	cpu	Intel Core 2 Duo E6400
+Super Street Fighter IV: Arcade Edition	cpu	GPU: GeForce 7900 GS
+DoDonPachi SaiDaiOuJou	cpu	Hitachi SH3 @ 133 MHz
+MetaWatch	cpu	TI MSP430 16-Bit Ultra-Low-Power Microcontroller
+LYS-16	cpu	IMP-16
+Xbox One	cpu	Custom 1.75 GHz AMD 8-core APU
+Mojo	cpu	1.8
+Nexus 7	cpu	1.51
+Samsung Galaxy Tab 3 7.0	cpu	1.2
+Samsung Galaxy Tab 3 7.0	cpu	1.7
+Samsung Galaxy Tab 3 10.1	cpu	1.6
+Samsung Galaxy Tab 3 10.1	cpu	dual-core x86 HTSoC
+Samsung Galaxy Tab 3 8.0	cpu	1.5
+Samsung Galaxy Tab 3 8.0	cpu	Samsung Exynos 4212 Dual SoC processor
+Samsung Galaxy Gear	cpu	Single-core 800 MHz ARM
+Asus Memo Pad ME172V	cpu	ARM Cortex-A9 1 GHz, VIA WM8950 chipset
+Utilite	cpu	Freescale i.MX6 ARM Cortex A9
+Nintendo 2DS	cpu	Dual-core ARM11 MPCore
+Kobo Aura	cpu	1
+Omate TrueSmart	cpu	Dual-core ARM Cortex-A7 1.0-1.3 GHz Mediatek MT6572
+Samsung Galaxy Note 10.1 2014 Edition	cpu	1.9
+Samsung Galaxy Note 10.1 2014 Edition	cpu	Samsung Exynos 5420 SoC processor
+Samsung Galaxy Note 10.1 2014 Edition	cpu	or
+Samsung Galaxy Note 10.1 2014 Edition	cpu	2.3
+Samsung Galaxy Note 10.1 2014 Edition	cpu	Snapdragon 800 SoC processor
+LG G Pad 8.3	cpu	WiFi version: 1.7 GHz quad-core
+LG G Pad 8.3	cpu	Krait 300 SoC processor Snapdragon 600
+LG G Pad 8.3	cpu	Verizon LTE version: 1.5 Ghz quad-core
+Surface 2	cpu	1.7
+Fire HDX	cpu	Quad-core 2.2 GHz ARM Krait 400
+ThinkPad Yoga	cpu	Intel Core
+Thunder Cross II	cpu	M68000 clocked at 12 MHz
+Flak Attack	cpu	HD6309 clocked at 3 MHz, Z80 clocked at 3.579545 MHz
+IPad Mini	cpu	1
+Samsung Ativ Tab 3	cpu	1.8
+Samsung Ativ Tab 5	cpu	1.8
+Samsung Ativ Tab 7	cpu	1.8
+LG Optimus Pad LTE	cpu	1.5
+Thomson TO8	cpu	Motorola 6809E, 1 MHz
+Intel Galileo	cpu	Intel Quark X1000 400 MHz
+Intel Galileo	cpu	Intel Quark X1000 32-bit 400 MHz
+Asus Memo Pad 8	cpu	ARM Quad-Core 1.6 GHz
+Tegra Note 7	cpu	1.8
+F1 Exhaust Note	cpu	NEC V60 @ 16.11 MHz + 60 Frames decoded
+Durango F85	cpu	5
+Asus Transformer Book Duet	cpu	Intel
+Asus Transformer Book Duet	cpu	Core i7
+Samsung Galaxy Tab Pro 8.4	cpu	2.3
+Samsung Galaxy Tab Pro 8.4	cpu	Krait 400 SoC processor
+Samsung Galaxy Note Pro 12.2	cpu	1.9
+Samsung Galaxy Note Pro 12.2	cpu	Samsung Exynos 5420 SoC processor
+Samsung Galaxy Note Pro 12.2	cpu	2.3
+Samsung Galaxy Note Pro 12.2	cpu	Snapdragon 800 SoC processor
+Samsung Galaxy Tab Pro 10.1	cpu	1.9
+Samsung Galaxy Tab Pro 10.1	cpu	or 2.3 GHz quad-core Krait
+Samsung Galaxy Tab Pro 12.2	cpu	1.9
+Samsung Galaxy Tab Pro 12.2	cpu	Samsung Exynos 5420 SoC processor
+Samsung Galaxy Tab Pro 12.2	cpu	or
+Samsung Galaxy Tab Pro 12.2	cpu	2.3
+Samsung Galaxy Tab Pro 12.2	cpu	Snapdragon 800 SoC processor
+Blackphone	cpu	2
+Samsung Galaxy Tab 3 Lite 7.0	cpu	1.2
+DragonBox Pyra	cpu	1.5
+Sony Xperia Z2 tablet	cpu	Qualcomm MSM8974-AB Snapdragon 801
+Sony Xperia Z2 tablet	cpu	2.3
+LG G Watch	cpu	Quad-core 1.2 GHz
+HTC Gratia	cpu	600
+Amazon Fire TV	cpu	Qualcomm Krait 300, quad-core up to 1.7 Ghz
+Amazon Fire TV	cpu	MediaTek quad-core up to 2 Ghz
+Banana Pi	cpu	ARM Cortex-A7 Dual-core  1 GHz
+Banana Pi	cpu	ARM Cortex-A7 Quad-core  1 GHz
+Banana Pi	cpu	ARM Cortex-A7 Octa-core  2 GHz
+Banana Pi	cpu	ARM Quad-core Cortex-A53 Octa-core  1.2 GHz
+Banana Pi	cpu	ARM986EJ 32Bits RISC Core 400 MHz
+Samsung Galaxy Tab 4 10.1	cpu	1.2
+Samsung Galaxy Tab 4 10.1	cpu	quad core ARM Cortex-A7 SoC
+Samsung Galaxy Tab 4 8.0	cpu	1.2
+Samsung Galaxy Tab 4 8.0	cpu	Qualcomm Snapdragon 400 SoC processor
+Surface Pro 3	cpu	Intel Haswell low-voltage dual-core:
+Surface Pro 3	cpu	i3-4020Y
+Surface Pro 3	cpu	1.5
+Surface Pro 3	cpu	i5-4300U
+Surface Pro 3	cpu	1.9
+Surface Pro 3	cpu	i7-4650U
+Surface Pro 3	cpu	1.7
+ASUS MeMO Pad HD 7	cpu	ARM architecture
+ASUS MeMO Pad HD 7	cpu	ARM Cortex-A9 MPCore
+ASUS MeMO Pad HD 7	cpu	1.2
+Namco Thunder Ceptor	cpu	HD63701
+Thunder Ceptor	cpu	1
+Thunder Ceptor	cpu	2
+3-D Thunder Ceptor II	cpu	1
+3-D Thunder Ceptor II	cpu	2
+Samsung Galaxy Tab S 10.5	cpu	2.3
+Samsung Galaxy Tab S 10.5	cpu	Krait 400 SoC processor
+Samsung Galaxy Tab S 10.5	cpu	1.9
+Nexus 9	cpu	2.3
+Samsung Gear Live	cpu	Quad-core 1.2 GHz
+Shield Tablet	cpu	4
+Samsung Gear S	cpu	Dual-core Snapdragon 400 processor
+LG G Watch R	cpu	Quad-core 1.2 GHz
+Nexus Player	cpu	1.8
+Nexus Player	cpu	Imagination PowerVR G6430 Graphics 2D/3D Engine
+Nixie	cpu	Intel Edison chip
+IPad Air 2	cpu	1.5
+GCW Zero	cpu	Ingenic JZ4770
+Jolla Tablet	cpu	Z3735F by Intel, 64-bit, 1.8GHz, Quad-Core
+FiiO X Series	cpu	Xburst1
+Advance 86	cpu	Intel 8086
+Advance 86	cpu	4.77
+Asus ZenWatch	cpu	Quad-core 1.2 GHz
+PonoPlayer	cpu	ARM Cortex-A8
+Microsoft HoloLens	cpu	Intel 32-bit
+Surface Hub	cpu	4
+FiiO X3 Portable Music Player	cpu	Xburst1
+Poly-1	cpu	Motorola 6809
+Pebble Time	cpu	100
+Sony Xperia Z4 Tablet	cpu	Quad-core ARM Cortex A57 and quad-core A53
+SHIELD Android TV	cpu	ARMv8 ARM Cortex-A57 quad-core + ARM Cortex-A53 quad-core
+MacBook	cpu	Up to 1.3 GHz Intel Core m7
+Micro Bit	cpu	Nordic Semiconductor nRF51822,
+Micro Bit	cpu	16.0
+Micro Bit	cpu	ARM Cortex-M0 microcontroller,
+Micro Bit	cpu	256
+Micro Bit	cpu	Flash,
+Micro Bit	cpu	16
+Micro Bit	cpu	RAM.
+VoCore	cpu	360
+List of Fire Pro Wrestling games	cpu	68000
+Surface Pro 4	cpu	Intel Skylake low-voltage dual-core:
+Surface Pro 4	cpu	m3-6Y30
+Surface Pro 4	cpu	900
+Surface Pro 4	cpu	i5-6300U
+Surface Pro 4	cpu	2.4
+Surface Pro 4	cpu	i7-6650U
+Surface Pro 4	cpu	2.2
+Great Sluggers	cpu	1
+Great Sluggers '94	cpu	1
+Intellec	cpu	Intel 4040
+Mach Breakers: Numan Athletics 2	cpu	1
+Legend of Makai	cpu	Motorola 68000
+Final Lap R	cpu	Intel i960KB @ 20 MHz,
+Final Lap R	cpu	Mitsubishi M37702 @ 16.128 MHz
+IPod Touch	cpu	1.4
+Samsung Galaxy Tab S2 9.7	cpu	1.9
+Samsung Galaxy Tab S2 8.0	cpu	1.9
+Sony Xperia Z3 Tablet Compact	cpu	2.5
+Apple Pencil	cpu	ST Microelectronics STM32L151UCY6 Ultra-low-power MCU
+IPad Mini 4	cpu	1.5
+IPad Pro	cpu	12.9
+IPad Pro	cpu	9.7
+Rastan	cpu	68000
+J-League Soccer V-Shoot	cpu	1
+The Aethra Chronicles	cpu	80286
+Imagination Creator	cpu	Dual-core 1.2 GHz MIPS32 processor, 32k I&D L1 cache, 512k L2 cache
+Huawei Watch	cpu	Qualcomm Snapdragon 400 APQ8026 Quad 1.2GHz
+Pixel C	cpu	1.9
+Surface Book	cpu	Intel Skylake dual-core processor:
+Surface Book	cpu	i5-6300U
+Surface Book	cpu	2.4
+Surface Book	cpu	i7-6600U
+Surface Book	cpu	2.6
+X-Tel 9500	cpu	1.4
+X-Tel 7500	cpu	1.2
+Magic Mouse 2	cpu	ST Microelectronics STM32F103VB
+Magic Trackpad 2	cpu	ST Microelectronics STM32F103VB
+Siri Remote	cpu	ST Microelectronics STM32L151QD ultra-low-power
+Samsung Gear S2	cpu	Qualcomm Snapdragon 400 dual-core
+Samsung Gear S2	cpu	Exynos dual-core
+Puzzle & Action: Tant-R	cpu	1
+Puzzle & Action: Ichidant-R	cpu	1
+Huawei MateBook	cpu	Intel Skylake Core M processor microarchitecture
+Magic Keyboard	cpu	ST Microelectronics STM32F103VB
+A 5120	cpu	*A 5120:
+A 5120	cpu	U880
+A 5120	cpu	at 2.5 MHz \n*A 5120.16:
+A 5120	cpu	U8000
+PC 1715	cpu	*PC 1715:
+PC 1715	cpu	U880
+PC 1715	cpu	at 2.5 MHz\n*PC 1715W: U880 at 4 MHz
+Basketball	cpu	MOS Technology 6502
+Toshiba T1000LE	cpu	Intel 80C86
+Night Striker	cpu	2
+Samsung Galaxy Tab A 10.1	cpu	1.6
