@@ -265,9 +265,6 @@ class Raha:
         self.features = []
         self.writeStrategies = True  # Change this to not write strategy profiles to disk
 
-        DATASETS_FOLDER = "raha/datasets"
-        DATASET_NAME = "flights"
-
         rahaGlobals.d = dataset.Dataset(dataset_dictionary)
 
         rahaGlobals.katara_data = rahaGlobals.d.dataframe.to_numpy().tolist()
@@ -277,8 +274,8 @@ class Raha:
         This method runs all the error detections strategies with all the possible configurations on the dataset.
         """
         d = rahaGlobals.d
-        if not os.path.exists(os.path.join(self.RESULTS_FOLDER)):
-            os.mkdir(os.path.join(self.RESULTS_FOLDER))
+        if not os.path.exists(self.RESULTS_FOLDER):
+            os.mkdir(self.RESULTS_FOLDER)
         if not os.path.exists(os.path.join(self.RESULTS_FOLDER, d.name)):
             os.mkdir(os.path.join(self.RESULTS_FOLDER, d.name))
         sp_folder_path = os.path.join(self.RESULTS_FOLDER, d.name, "strategy-profiling")
