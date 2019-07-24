@@ -189,7 +189,7 @@ class Raha:
     """
 
     def __init__(self, dataset_dictionary):
-        self.RESULTS_FOLDER = os.path.join(os.path.dirname(dataset_dictionary["path"], "results"))
+        self.RESULTS_FOLDER = os.path.join(os.path.dirname(dataset_dictionary["path"]), "results")
         self.DATASETS_FOLDER = "datasets"
         self.DATASETS = {
             # "hospital": {
