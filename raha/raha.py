@@ -269,6 +269,7 @@ class Raha:
 
         rahaGlobals.katara_data = rahaGlobals.d.dataframe.to_numpy().tolist()
 
+
     def strategy_profiler(self):
         """
         This method runs all the error detections strategies with all the possible configurations on the dataset.
@@ -1080,6 +1081,10 @@ class Raha:
             results_string += "}; \\addlegendentry{ActiveClean}"
             print(results_string)
 
+    def run(self):
+        self.strategy_profiler()
+        self.feature_generator()
+        self.error_detector()
 
 ########################################
 
