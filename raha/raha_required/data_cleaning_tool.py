@@ -19,7 +19,7 @@ import subprocess
 import warnings
 import random
 import pandas
-import psycopg2
+#import psycopg2
 from .tools.katara import katara
 from .tools.dBoost.dboost import dboost_stdin
 ########################################

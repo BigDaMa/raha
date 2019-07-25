@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-def run_dboost(args):
+def run_dboost(params):
     import sys
 
     if __name__ == '__main__' and __package__ is None:
@@ -11,7 +11,7 @@ def run_dboost(args):
     from .utils.printing import print_rows, debug
 
     parser = cli.get_stdin_parser()
-    args, models, analyzers, rules = cli.parsewith(parser)
+    args, models, analyzers, rules = cli.parsewith(parser, params)
 
     testset_generator = stream_tuples(args.input, args.fs, args.floats_only, args.inmemory, args.maxrecords)
 

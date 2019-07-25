@@ -24,7 +24,7 @@ class Mixture:
     @staticmethod
     def mahalanobis(x, gmm, component):
         mean = gmm.means_[component]
-        covar = gmm.covars_[component]
+        covar = gmm.covariances_[component]
         u = x - mean
         v = u.transpose()
 
@@ -32,7 +32,7 @@ class Mixture:
 
     def make_gmm(self, to_fit):
         from sklearn import mixture
-        gmm = mixture.GaussianMixture(n_components = self.n_components)
+        gmm = mixture.GaussianMixture(n_components = self.n_components, covariance_type='diag')
         gmm.fit(to_fit)
         return gmm
 
@@ -51,7 +51,7 @@ class Mixture:
     def test_one(self, xi, gmm_pos):
         from numpy import argmax
         gmm = self.gmms[gmm_pos]
-        _, resp = gmm.score_samples([xi])
+        resp = gmm.score_samples([xi])
         component = argmax(resp)
         distance = Mixture.mahalanobis(xi, gmm, component)
         return component, gmm.weights_[component] * (1-erf(distance / sqrt(2)))
@@ -75,7 +75,7 @@ class Mixture:
         outlier = X[field_id][gmm_pos]
         component, prob = self.test_one(outlier, gmm_pos)
         gmm = self.gmms[gmm_pos]
-        mean, covar, weight = gmm.means_[component], gmm.covars_[component], gmm.weights_[component]
+        mean, covar, weight = gmm.means_[component], gmm.covariances_[component], gmm.weights_[component]
 
         pipe.write(indent + '• Best match Gaussian component:\n')
         pipe.write(indent + indent + 'weight = {:.2e}\n'.format(weight))
