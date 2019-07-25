@@ -11,7 +11,7 @@ def run_dboost(params):
     from .utils.printing import print_rows, debug
 
     parser = cli.get_stdin_parser()
-    args, models, analyzers, rules = cli.parsewith(parser, params)
+    args, models, analyzers, rules = cli.imported_parsewith(parser, params)
 
     testset_generator = stream_tuples(args.input, args.fs, args.floats_only, args.inmemory, args.maxrecords)
 
@@ -27,8 +27,8 @@ def run_dboost(params):
     # TODO: Input should be fed to all models in one pass.
     for model in models:
         for analyzer in analyzers:
-            outlier_cells = list(outliers(trainset_generator, testset_generator,
-                                            analyzer, model, rules,args.runtime_progress, args.maxrecords))   #outliers is defined in __init__.py
+            outlier_cells = list(outliers(trainset_generator, testset_generator, 
+                                          analyzer, model, rules,args.runtime_progress, args.maxrecords))   # outliers is defined in __init__.py
 
             if len(outlier_cells) == 0:
                 debug("   All clean!")

@@ -85,7 +85,8 @@ def load_modules(namespace, parser, registered_modules):
 
     return modules
 
-def parsewith(parser, args):
+
+def imported_parsewith(parser, args):
     args = parser.parse_args(args)
     models = load_modules(args, parser, REGISTERED_MODELS)
     analyzers = load_modules(args, parser, REGISTERED_ANALYZERS)
@@ -101,3 +102,23 @@ def parsewith(parser, args):
              for t, rs in features.rules.items()}
 
     return args, models, analyzers, rules
+
+
+def parsewith(parser):
+    args = parser.parse_args()
+
+    models = load_modules(args, parser, REGISTERED_MODELS)
+    analyzers = load_modules(args, parser, REGISTERED_ANALYZERS)
+
+    disabled_rules = set(args.disabled_rules)
+    available_rules = set(r.__name__ for rs in features.rules.values() for r in rs)
+    invalid_rules = disabled_rules - available_rules
+    if len(invalid_rules) > 0:
+        parser.error("Unknown rule(s) {}. Known rules: {}".format(
+            ", ".join(sorted(invalid_rules)),
+            ", ".join(sorted(available_rules - disabled_rules))))
+    rules = {t: [r for r in rs if r.__name__ not in disabled_rules]
+             for t, rs in features.rules.items()}
+
+    return args, models, analyzers, rules
+

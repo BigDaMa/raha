@@ -21,7 +21,7 @@ import random
 import pandas
 #import psycopg2
 from .tools.katara import katara
-from .tools.dBoost.dboost import dboost_stdin
+from .tools.dBoost.dboost import imported_dboost
 ########################################
 
 
@@ -51,7 +51,7 @@ class DataCleaningTool:
             d.write_csv_dataset(dataset_path, d.dataframe)
             self.configuration[0] = "--" + self.configuration[0]
             args = ["-F",",", "--statistical", "0.5"] + self.configuration + [dataset_path]
-            dboost_stdin.run_dboost(args)
+            imported_dboost.run_dboost(args)
             tool_results_path = "dboost_output-" + dataset_path
             if os.path.exists(tool_results_path):
                 ocdf = pandas.read_csv(tool_results_path, sep=",", header=None, encoding="utf-8", dtype=str,
