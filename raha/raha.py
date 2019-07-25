@@ -39,9 +39,12 @@ import sklearn.ensemble
 import sklearn.feature_extraction
 # import IPython.display
 # import ipywidgets
-from .raha_required import dataset, data_cleaning_tool, rahaGlobals
 import multiprocessing as mp
 import gc
+try :
+    from .raha_required import dataset, data_cleaning_tool, rahaGlobals
+except ImportError:
+    from .raha_required import dataset, data_cleaning_tool, rahaGlobals
 ########################################
 def write_strategies(args):
     queue = args[0]
