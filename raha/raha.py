@@ -43,7 +43,7 @@ import multiprocessing as mp
 import gc
 try :
     from .raha_required import dataset, data_cleaning_tool, rahaGlobals
-except ImportError:
+except:
     from raha_required import dataset, data_cleaning_tool, rahaGlobals
 ########################################
 def write_strategies(args):
