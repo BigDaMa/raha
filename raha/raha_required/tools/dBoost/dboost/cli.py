@@ -85,9 +85,8 @@ def load_modules(namespace, parser, registered_modules):
 
     return modules
 
-def parsewith(parser):
-    args = parser.parse_args()
-    
+def parsewith(parser, args):
+    args = parser.parse_args(args)
     models = load_modules(args, parser, REGISTERED_MODELS)
     analyzers = load_modules(args, parser, REGISTERED_ANALYZERS)
 

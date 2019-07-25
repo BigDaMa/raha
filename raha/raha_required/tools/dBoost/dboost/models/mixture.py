@@ -32,12 +32,12 @@ class Mixture:
 
     def make_gmm(self, to_fit):
         from sklearn import mixture
-        gmm = mixture.GMM(n_components = self.n_components)
+        gmm = mixture.GaussianMixture(n_components = self.n_components)
         gmm.fit(to_fit)
         return gmm
 
     def fit(self, Xs, analyzer):
-        from matplotlib import pyplot
+        #from matplotlib import pyplot
 
         correlations = zip(*(X[0] for X in Xs))
         self.gmms = [self.make_gmm(to_fit) for to_fit in correlations]

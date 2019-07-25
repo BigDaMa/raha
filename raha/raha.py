@@ -74,7 +74,7 @@ def run_strategy(tool_and_configurations):
     #                    os.path.join(temp_domain_specific_path, "temp_file.rel.txt"))
     #    configuration = [temp_domain_specific_path]
     if tool_name == "katara":
-        configuration = [os.path.join("tools", "KATARA", "dominSpecific", configuration[0])]
+        configuration = [os.path.join(os.path.dirname(__file__), 'raha_required', 'tools', 'katara', 'dominSpecific', configuration[0])]
     td = {"name": tool_name, "configuration": configuration}
     t = data_cleaning_tool.DataCleaningTool(td)
     try:

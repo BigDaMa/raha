@@ -6,7 +6,7 @@ from . import color
 
 def debug(*args, **kwargs):
     kwargs["file"] = sys.stderr
-    print(*args, **kwargs)
+    #print(*args, **kwargs)
 
 def report_progress(nb):
     if nb % 1000 == 0:

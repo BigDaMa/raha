@@ -16,10 +16,12 @@ import json
 import re
 import string
 import subprocess
+import warnings
 import random
 import pandas
 import psycopg2
 from .tools.katara import katara
+from .tools.dBoost.dboost import dboost_stdin
 ########################################
 
 
@@ -41,15 +43,15 @@ class DataCleaningTool:
         This method takes a dataset to run the data cleaning tool on.
         """
         outputted_cells = {}
+        if not sys.warnoptions:
+            warnings.simplefilter("ignore")                  # makes output less cluttered
         if self.name == "dboost":
             dataset_path = "{}-{}.csv".format(d.name, "".join(
                 random.choice(string.ascii_lowercase + string.digits) for _ in range(10)))
             d.write_csv_dataset(dataset_path, d.dataframe)
             self.configuration[0] = "--" + self.configuration[0]
-            command = [os.path.join(os.path.dirname(__file__), "tools", "dBoost", "dboost", "dboost-stdin.py"), "-F",
-                       ",", "--statistical", "0.5"] + self.configuration + [dataset_path]
-            p = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-            process_output, process_errors = p.communicate()
+            args = ["-F",",", "--statistical", "0.5"] + self.configuration + [dataset_path]
+            dboost_stdin.run_dboost(args)
             tool_results_path = "dboost_output-" + dataset_path
             if os.path.exists(tool_results_path):
                 ocdf = pandas.read_csv(tool_results_path, sep=",", header=None, encoding="utf-8", dtype=str,
