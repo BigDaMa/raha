@@ -6,8 +6,9 @@ Raha is a new configuration-free error detection system. The basic idea is that 
 
 
 ## Installation
-This project is implemented on top of [abstraction layer](https://github.com/BigDaMa/abstraction-layer).
-
+```console
+python3 setup.py install
+```
 
 ## Content
 ### datasets
