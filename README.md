@@ -6,8 +6,13 @@ Raha is a new configuration-free error detection system. The basic idea is that 
 
 
 ## Installation
+To install `Raha`, you can run
 ```console
 sudo python3 setup.py install
+```
+and to uninstall it, you can run
+```console
+sudo pip3 uninstall raha
 ```
 
 ## Usage
