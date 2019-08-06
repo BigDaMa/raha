@@ -6,7 +6,7 @@
 # Big Data Management Group
 # TU Berlin
 # All Rights Reserved
-# ########################################
+########################################
 
 
 ########################################
@@ -41,10 +41,13 @@ import sklearn.feature_extraction
 # import ipywidgets
 import multiprocessing as mp
 import gc
-try :
+try:
     from .raha_required import dataset, data_cleaning_tool, rahaGlobals
 except:
     from raha_required import dataset, data_cleaning_tool, rahaGlobals
+########################################
+
+
 ########################################
 def write_strategies(args):
     queue = args[0]
@@ -184,6 +187,8 @@ def build_cluster(args):
         #         clusters_center_k_jc[k][(j, c)] = clusters_k_j_c_ce[k][j][c].values()[numpy.argmin(pairwise_distance.sum(axis=0))]
 
     return [fv, tempdict_clusters, tempdict_cells]
+########################################
+
 
 ########################################
 class Raha:
@@ -1022,7 +1027,8 @@ class Raha:
             sampling_range = range(1, self.LABELING_BUDGET + 1, 1)
             mean_results = {s: [0.0, 0.0, 0.0] for s in sampling_range}
             # actual_dirty_tuples = {i: 1 for i in range(d.dataframe.shape[0]) if
-            #                        int(sum([(i, j) in d.actual_errors_dictionary for j in range(d.dataframe.shape[1])]) > 0)}
+            #                        int(sum([(i, j) in d.actual_errors_dictionary
+            #                        for j in range(d.dataframe.shape[1])]) > 0)}
             for r in range(self.RUN_COUNT):
                 print("Run {}".format(r))
                 labeled_tuples = {}
@@ -1088,7 +1094,6 @@ class Raha:
         self.strategy_profiler()
         self.feature_generator()
         self.error_detector()
-
 ########################################
 
 

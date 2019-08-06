@@ -2,7 +2,7 @@ import raha
 import os
 
 # --------------------
-DATASET_NAME = "flights"
+DATASET_NAME = "hospital"
 DATASET_PATH = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir)), "datasets", DATASET_NAME)
 dataset_dictionary = {
     "name": DATASET_NAME,
