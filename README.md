@@ -7,41 +7,24 @@ Raha is a new configuration-free error detection system. The basic idea is that 
 
 ## Installation
 ```console
-python3 setup.py install
+sudo python3 setup.py install
 ```
 
-## Content
-### datasets
-This folder contains input datasets.
-
-### tools
-This folder contains the underlying data cleaning tools.
-
-### results
-This folder contains the outputted results.
-
-### dataset.py
-This file contains the implementation of the dataset class.
-
-### data_cleaning_tool.py
-This file contains the implementation of the data cleaning tool class.
-
-### raha.py
-This file contains the implementation of the main application.
-
-### raha.ipynb
-This file demonstrates the system in a Jupyter notebook.
-
+## Usage
+Running `Raha` is simple! 
+Please check `raha.ipynb` or `raha/__main__.py`.
 
 ## Reference
 You can find more information about this project and the authors [here](https://www.bigdama.tu-berlin.de/menue/team/mohammad_mahdavi/).
 
 You can also use the following bib entry to cite this project/paper.
 ```
-@inproceedings{raha2019mahdavi,
+@inproceedings{mahdavi2019raha,
   title={Raha: A configuration-free error detection system},
   author={Mahdavi, Mohammad and Abedjan, Ziawasch and Castro Fernandez, Raul and Madden, Samuel and Ouzzani, Mourad and Stonebraker, Michael and Tang, Nan},
-  booktitle={SIGMOD},
-  year={2019}
+  booktitle={Proceedings of the 2019 International Conference on Management of Data (SIGMOD)},
+  pages={865--882},
+  year={2019},
+  organization={ACM}
 }
 ```
