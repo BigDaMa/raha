@@ -16,7 +16,6 @@ Please check `raha.ipynb` or `raha/__main__.py`.
 
 ## Reference
 You can find more information about this project and the authors [here](https://www.bigdama.tu-berlin.de/menue/team/mohammad_mahdavi/).
-
 You can also use the following bib entry to cite this project/paper.
 ```
 @inproceedings{mahdavi2019raha,
