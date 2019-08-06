@@ -17,7 +17,7 @@ sudo pip3 uninstall raha
 
 ## Usage
 Running `Raha` is simple! 
-Please check `raha.ipynb` or `raha/__main__.py`.
+Please check sample codes in `raha.ipynb` or `raha/__main__.py`.
 
 ## Reference
 You can find more information about this project and the authors [here](https://www.bigdama.tu-berlin.de/menue/team/mohammad_mahdavi/).
