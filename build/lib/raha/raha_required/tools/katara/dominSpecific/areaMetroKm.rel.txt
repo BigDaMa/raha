@@ -1,0 +1,635 @@
+Acapulco	areaMetroKm	3538.5
+Algiers	areaMetroKm	1190
+Austin, Texas	areaMetroKm	11099.91
+Cairo	areaMetroKm	93369
+Casablanca	areaMetroKm	1615
+Fredericton	areaMetroKm	4521.72
+Gothenburg	areaMetroKm	3694.86
+Hamilton, Ontario	areaMetroKm	1371.76
+Jakarta	areaMetroKm	17132
+Kraków	areaMetroKm	1023.21
+Kabul	areaMetroKm	425
+Kuala Lumpur	areaMetroKm	2243.27
+Kansas City, Missouri	areaMetroKm	20596
+Lincoln, Nebraska	areaMetroKm	3683.66
+Luanda	areaMetroKm	2257
+Lansing, Michigan	areaMetroKm	4440.8
+Malmö	areaMetroKm	2522
+Mumbai	areaMetroKm	4355
+Moncton	areaMetroKm	2406
+Mecca	areaMetroKm	1200
+Ottawa	areaMetroKm	5716
+Riga	areaMetroKm	10133
+Rio de Janeiro	areaMetroKm	4539.8
+Stockholm	areaMetroKm	6519
+St. Louis	areaMetroKm	21910
+Sidon	areaMetroKm	25
+Saint John, New Brunswick	areaMetroKm	3362.95
+Skopje	areaMetroKm	1854
+Tokyo	areaMetroKm	13572
+Tyre, Lebanon	areaMetroKm	17
+Tel Aviv	areaMetroKm	1516
+Victoria, British Columbia	areaMetroKm	696.15
+Vilnius	areaMetroKm	9731
+Vancouver	areaMetroKm	2878.52
+Warsaw	areaMetroKm	6100.43
+Whitehorse, Yukon	areaMetroKm	8488.91
+Windsor, Ontario	areaMetroKm	1022.84
+Wellington	areaMetroKm	1388
+Budapest	areaMetroKm	7626
+Beirut	areaMetroKm	200
+Trondheim	areaMetroKm	7295
+Hyderabad	areaMetroKm	7100
+Delhi	areaMetroKm	58332
+London, Ontario	areaMetroKm	2665.28
+Monterrey	areaMetroKm	5346.8
+Thessaloniki	areaMetroKm	1455.62
+Katowice	areaMetroKm	5400
+Reggio Calabria	areaMetroKm	3210
+Chennai	areaMetroKm	1189
+Kolkata	areaMetroKm	1886.67
+Havana	areaMetroKm	852.12
+Philadelphia	areaMetroKm	11988.6
+Tianjin	areaMetroKm	5606.9
+San Jose, California	areaMetroKm	6979
+New Orleans	areaMetroKm	9726.6
+Caracas	areaMetroKm	4715.1
+Belgrade	areaMetroKm	3222.68
+Zagreb	areaMetroKm	3719
+Ouagadougou	areaMetroKm	2805
+Bergen	areaMetroKm	2755
+Bamako	areaMetroKm	17141.61
+Bangkok	areaMetroKm	7761.6
+Chișinău	areaMetroKm	563.3
+Hanoi	areaMetroKm	24314.7
+Asunción	areaMetroKm	1000
+Kuwait City	areaMetroKm	200
+Lomé	areaMetroKm	280
+Muscat, Oman	areaMetroKm	3500
+Porto-Novo	areaMetroKm	110
+Panama City	areaMetroKm	2560.8
+Port-au-Prince	areaMetroKm	158.5
+Yangon	areaMetroKm	10170
+Brno	areaMetroKm	3170
+San Salvador	areaMetroKm	589.91
+Santo Domingo	areaMetroKm	2696.69
+Sofia	areaMetroKm	10532
+Tunis	areaMetroKm	2668
+Tehran	areaMetroKm	1274
+Metz	areaMetroKm	277
+Baalbek	areaMetroKm	16
+Timișoara	areaMetroKm	1070
+Campinas	areaMetroKm	3645
+Toronto	areaMetroKm	5905.71
+Recife	areaMetroKm	2768
+Brașov	areaMetroKm	1368.5
+St. John's, Newfoundland and Labrador	areaMetroKm	804.63
+Guadalajara	areaMetroKm	2734
+North Bay, Ontario	areaMetroKm	788.48
+Casper, Wyoming	areaMetroKm	13923.0
+Homs	areaMetroKm	104
+Sarnia	areaMetroKm	799.87
+Xi'an	areaMetroKm	3866.25
+Greater Los Angeles Area	areaMetroKm	87490
+Belo Horizonte	areaMetroKm	9459.1
+Lagos	areaMetroKm	2706.7
+Lima	areaMetroKm	2819.3
+Kitchener, Ontario	areaMetroKm	827.07
+Ruhr	areaMetroKm	4435
+Edmonton	areaMetroKm	9426.73
+Cluj-Napoca	areaMetroKm	1537.5
+Rocky Mount, North Carolina	areaMetroKm	2708.5
+Gatineau	areaMetroKm	2999.9
+Quebec City	areaMetroKm	3349.12
+Winnipeg	areaMetroKm	5303.09
+Regina, Saskatchewan	areaMetroKm	3408.26
+Tijuana	areaMetroKm	1392.5
+Gilroy, California	areaMetroKm	6979
+Grand Junction, Colorado	areaMetroKm	8653
+Brunswick, Georgia	areaMetroKm	16000
+Kingston, Ontario	areaMetroKm	1906.82
+Bossier City, Louisiana	areaMetroKm	6987.8
+Jacksonville, North Carolina	areaMetroKm	2353
+Scranton, Pennsylvania	areaMetroKm	4602
+Allentown, Pennsylvania	areaMetroKm	1174.82
+Greenville, South Carolina	areaMetroKm	7220
+Bells, Texas	areaMetroKm	2536
+Collinsville, Texas	areaMetroKm	2536
+Dorchester, Texas	areaMetroKm	2536
+Gunter, Texas	areaMetroKm	2536
+Knollwood, Texas	areaMetroKm	2536
+Howe, Texas	areaMetroKm	2536
+Pottsboro, Texas	areaMetroKm	2536
+Sadler, Texas	areaMetroKm	2536
+Southmayd, Texas	areaMetroKm	2536
+Tom Bean, Texas	areaMetroKm	2536
+Sherman, Texas	areaMetroKm	2536
+Tioga, Texas	areaMetroKm	2536
+El Cenizo, Texas	areaMetroKm	418.96
+Rio Bravo, Texas	areaMetroKm	418.96
+Laredo, Texas	areaMetroKm	418.96
+Wenatchee, Washington	areaMetroKm	4843
+Langley, Washington	areaMetroKm	67.86
+Harbin	areaMetroKm	10204.8
+Xiamen	areaMetroKm	3217.98
+Hefei	areaMetroKm	5127.1
+Osijek	areaMetroKm	275
+Sisak	areaMetroKm	989.5
+Manhattan, Kansas	areaMetroKm	48.89
+Shreveport, Louisiana	areaMetroKm	6987.8
+Springfield, Missouri	areaMetroKm	7824
+Bethlehem, Pennsylvania	areaMetroKm	1174.82
+Van Alstyne, Texas	areaMetroKm	2536
+Kuching	areaMetroKm	2030.94
+Hangzhou	areaMetroKm	34585
+Klaipėda	areaMetroKm	5209
+George Town, Penang	areaMetroKm	2740
+Qinhuangdao	areaMetroKm	506.7
+Luoyang	areaMetroKm	733.7
+Chengdu	areaMetroKm	4558.4
+Edmundston	areaMetroKm	902.18
+Bathurst, New Brunswick	areaMetroKm	2087.97
+Campbellton, New Brunswick	areaMetroKm	1629.94
+Dieppe, New Brunswick	areaMetroKm	117.309
+Kaunas	areaMetroKm	8089
+Podgorica	areaMetroKm	1441
+Stavanger	areaMetroKm	2598
+Byblos	areaMetroKm	17
+Leamington, Ontario	areaMetroKm	508.76
+Kristiansand	areaMetroKm	1892.8
+Guelph	areaMetroKm	378.45
+Cornwall, Ontario	areaMetroKm	509.03
+Brantford	areaMetroKm	1073.11
+Belleville, Ontario	areaMetroKm	741.36
+Brockville	areaMetroKm	893.44
+Barrie	areaMetroKm	897.47
+Niagara Falls, Ontario	areaMetroKm	1397.5
+Owen Sound	areaMetroKm	627.8
+Orillia	areaMetroKm	458.55
+Swords, Dublin	areaMetroKm	15.99
+Manila	areaMetroKm	613.94
+Coimbatore	areaMetroKm	642.12
+Tiruchirappalli	areaMetroKm	198.55
+Alma, Quebec	areaMetroKm	340.35
+Saguenay, Quebec	areaMetroKm	2564.02
+Villahermosa	areaMetroKm	1612
+Latakia	areaMetroKm	108
+Kunming	areaMetroKm	4615
+Prince George, British Columbia	areaMetroKm	17686.5
+Ürümqi	areaMetroKm	4816.6
+Changsha	areaMetroKm	3914
+Quito	areaMetroKm	4217.95
+Udon Thani	areaMetroKm	1095
+Surabaya	areaMetroKm	2787
+Sherbrooke	areaMetroKm	1459.61
+Iași	areaMetroKm	808
+Guayaquil	areaMetroKm	2493.86
+San José, Costa Rica	areaMetroKm	2044
+Thunder Bay	areaMetroKm	2556.37
+Kelowna	areaMetroKm	2904.86
+St. Catharines	areaMetroKm	1397.51
+Peterborough, Ontario	areaMetroKm	1506.9
+Chiang Mai	areaMetroKm	2905
+Visakhapatnam	areaMetroKm	5573
+Kaifeng	areaMetroKm	546.4
+Trois-Rivières	areaMetroKm	1041.15
+New Glasgow, Nova Scotia	areaMetroKm	2066.66
+Kentville	areaMetroKm	609.76
+Brandon, Manitoba	areaMetroKm	1712.46
+Maracaibo	areaMetroKm	1393
+Jinan	areaMetroKm	3304
+Changchun	areaMetroKm	3061
+Qingdao	areaMetroKm	5019
+Buenos Aires	areaMetroKm	4758
+Olinda	areaMetroKm	2768
+Hohhot	areaMetroKm	2065.1
+Craiova	areaMetroKm	1498.6
+Constanța	areaMetroKm	1013.5
+Zhuhai	areaMetroKm	17572.9
+Shantou	areaMetroKm	7385.2
+Saint-Jean-sur-Richelieu	areaMetroKm	225.78
+Jeddah	areaMetroKm	47
+Gjilan	areaMetroKm	13.302
+Peć	areaMetroKm	21
+Cebu City	areaMetroKm	1062.88
+Zhengzhou	areaMetroKm	1979
+Zadar	areaMetroKm	194
+Rijeka	areaMetroKm	1665
+Ilulissat	areaMetroKm	47
+Jinzhou	areaMetroKm	535
+Panaji	areaMetroKm	76.3
+Bacolod	areaMetroKm	578.65
+Al-Karak	areaMetroKm	765
+Feni District	areaMetroKm	197.33
+Nanaimo	areaMetroKm	1280.84
+Nellore	areaMetroKm	100.33
+Baia Mare	areaMetroKm	1395.38
+Mangalagiri	areaMetroKm	40.97
+Maringá	areaMetroKm	5978.592
+Bozhou	areaMetroKm	2262.9
+Greater Houston	areaMetroKm	26061
+Pearl River Delta	areaMetroKm	39380
+Dallas–Fort Worth metroplex	areaMetroKm	24059
+Kamloops	areaMetroKm	5668.64
+Midland, Ontario	areaMetroKm	199.94
+Drummondville	areaMetroKm	803.81
+Granby, Quebec	areaMetroKm	396.52
+Victoriaville	areaMetroKm	153.29
+Saint-Hyacinthe, Quebec	areaMetroKm	326.76
+Vernon, British Columbia	areaMetroKm	1040.82
+Rimouski	areaMetroKm	631.22
+Rouyn-Noranda	areaMetroKm	6438.47
+Penticton	areaMetroKm	1724.95
+North Battleford	areaMetroKm	1122.99
+Quesnel, British Columbia	areaMetroKm	14207.04
+Greater Sudbury	areaMetroKm	3211.19
+Medellín	areaMetroKm	1152
+Upper Silesian metropolitan area	areaMetroKm	5400
+Bandung	areaMetroKm	1876.8
+Greater Tokyo Area	areaMetroKm	14034
+Bulawayo	areaMetroKm	1706.8
+Guiyang	areaMetroKm	2403.4
+Medan	areaMetroKm	1991.1
+Kota Kinabalu	areaMetroKm	816
+Sept-Îles, Quebec	areaMetroKm	1770.52
+Kasaragod	areaMetroKm	93.3
+Prince Rupert, British Columbia	areaMetroKm	222.94
+Mohawk Valley	areaMetroKm	18088
+Nanchang	areaMetroKm	4588
+Makassar	areaMetroKm	1145.9
+Jiaxing	areaMetroKm	986.9
+Jiangmen	areaMetroKm	17573
+La Plata	areaMetroKm	4758
+Summerside, Prince Edward Island	areaMetroKm	91.85
+Bârlad	areaMetroKm	20
+Shijiazhuang	areaMetroKm	2241.81
+Delaware Valley	areaMetroKm	13256
+Huai'an	areaMetroKm	3130
+Jiangyin	areaMetroKm	2415.5
+Umm al-Quwain	areaMetroKm	755
+Temiskaming Shores	areaMetroKm	581.43
+Curitiba	areaMetroKm	15416.9
+Machala	areaMetroKm	330.18
+Nagpur	areaMetroKm	3780
+Nanyang, Henan	areaMetroKm	1987.6
+Zhumadian	areaMetroKm	770
+Yinchuan	areaMetroKm	2045
+Goiânia	areaMetroKm	739
+San Miguel de Tucumán	areaMetroKm	480
+Trujillo, Peru	areaMetroKm	1100
+Anyang	areaMetroKm	1739.5
+Tangshan	areaMetroKm	3874
+Lijiang	areaMetroKm	1127
+Hat Yai	areaMetroKm	852.79
+Haikou	areaMetroKm	2280
+Davao City	areaMetroKm	3964.95
+Datong	areaMetroKm	1074
+Surakarta	areaMetroKm	2658.3
+Thetford Mines	areaMetroKm	406.98
+Fort St. John, British Columbia	areaMetroKm	620.8
+Quanzhou	areaMetroKm	4274.5
+Corner Brook	areaMetroKm	255.1
+Xining	areaMetroKm	343
+Rhine-Ruhr	areaMetroKm	7110
+Port Harcourt	areaMetroKm	1900
+Rivière-du-Loup	areaMetroKm	472.91
+Portage la Prairie	areaMetroKm	2029.94
+Saint-Georges, Quebec	areaMetroKm	355.62
+Budva	areaMetroKm	122
+Ma'anshan	areaMetroKm	1686
+Keihanshin	areaMetroKm	13033
+Shawinigan	areaMetroKm	987.14
+Zaprešić	areaMetroKm	251.25
+Baoding	areaMetroKm	1840
+Enugu	areaMetroKm	200
+Yueyang	areaMetroKm	721
+Zhanjiang	areaMetroKm	1360
+Weifang	areaMetroKm	3746.6
+Onitsha	areaMetroKm	36.19
+Vitória, Espírito Santo	areaMetroKm	3204.26
+Daqing	areaMetroKm	2734.6
+Dongying	areaMetroKm	3359.7
+Val-d'Or	areaMetroKm	3555.03
+Baie-Comeau	areaMetroKm	1137.27
+Jiamusi	areaMetroKm	882.5
+Meizhou	areaMetroKm	3047.5
+Terrace, British Columbia	areaMetroKm	73.91
+Santa Cruz de la Sierra	areaMetroKm	1407
+Xinxiang	areaMetroKm	231
+Greater Buenos Aires	areaMetroKm	3830
+Olongapo	areaMetroKm	472.16
+Dongguan	areaMetroKm	17572.9
+Yibin	areaMetroKm	1131
+Sorel-Tracy	areaMetroKm	233.78
+Salaberry-de-Valleyfield	areaMetroKm	107.1
+Joliette	areaMetroKm	109.03
+Jiujiang	areaMetroKm	598
+Dolbeau-Mistassini	areaMetroKm	651.79
+Vijayawada	areaMetroKm	110.44
+Qiqihar	areaMetroKm	970.3
+Salmon Arm	areaMetroKm	165.57
+Zhaoqing	areaMetroKm	2339.6
+Amos, Quebec	areaMetroKm	1650.99
+Angeles, Philippines	areaMetroKm	596.89
+Lachute	areaMetroKm	109.2
+Hamburg Metropolitan Region	areaMetroKm	26000
+Khujand	areaMetroKm	2651.7
+Scarborough, Tobago	areaMetroKm	97
+Cirebon	areaMetroKm	1021.88
+Zhangzhou	areaMetroKm	3257
+Bengbu	areaMetroKm	613.7
+Jingzhou	areaMetroKm	1562.2
+Jilin City	areaMetroKm	3663.9
+Sagar, Madhya Pradesh	areaMetroKm	49.763
+Chapecó	areaMetroKm	4938.15
+National Capital Region	areaMetroKm	6287.03
+Xuzhou	areaMetroKm	2347
+Ganzhou	areaMetroKm	5316.8
+Shaoguan	areaMetroKm	1249.9
+La Ceiba	areaMetroKm	25
+Yangzhou	areaMetroKm	2310
+Zhangjiakou	areaMetroKm	1412.7
+Jodhpur	areaMetroKm	289.5
+Xuchang	areaMetroKm	1724
+Halmstad	areaMetroKm	1018.99
+Västerås	areaMetroKm	962.78
+Falun	areaMetroKm	2052.65
+Örnsköldsvik	areaMetroKm	6420.97
+Gävle	areaMetroKm	1615.07
+Härnösand	areaMetroKm	1.064
+Timrå	areaMetroKm	787.98
+Östersund	areaMetroKm	2220.5
+Irbid	areaMetroKm	410
+Foshan	areaMetroKm	17572.9
+Franca	areaMetroKm	3439.78
+Ambato, Ecuador	areaMetroKm	1018.32
+Loja, Ecuador	areaMetroKm	1985.19
+Powell River, British Columbia	areaMetroKm	800.72
+Nantong	areaMetroKm	1692
+Tongxiang	areaMetroKm	727.49
+Siliguri	areaMetroKm	2327.12
+Buraidah	areaMetroKm	1290.6
+Semarang	areaMetroKm	1643.4
+Deloraine, Manitoba	areaMetroKm	2.25
+Baotou	areaMetroKm	2662
+Kanhangad	areaMetroKm	139.8
+North Nicosia	areaMetroKm	165.2
+Yichang	areaMetroKm	4192
+Taipei–Keelung metropolitan area	areaMetroKm	2457.13
+Courtenay, British Columbia	areaMetroKm	625.13
+Margao	areaMetroKm	22.1
+Weihai	areaMetroKm	731
+Dongyang	areaMetroKm	2849.53
+Yiwu	areaMetroKm	2849.53
+Hengyang	areaMetroKm	543
+Boissevain, Manitoba	areaMetroKm	2.77
+Banjarmasin	areaMetroKm	3404.46
+Heihe	areaMetroKm	1443
+Banda Aceh	areaMetroKm	293536
+Yingkou	areaMetroKm	1775
+Jabodetabek	areaMetroKm	6392
+Malang	areaMetroKm	2156.6
+Iloilo City	areaMetroKm	1105.53
+Handan	areaMetroKm	2466
+Ajloun	areaMetroKm	30
+Al-Salt	areaMetroKm	79
+Chaoshan	areaMetroKm	10415
+Madaba	areaMetroKm	100
+Cabanatuan	areaMetroKm	789.83
+Fuxin	areaMetroKm	459
+Mianyang	areaMetroKm	2755.4
+Tafilah	areaMetroKm	38.771
+Cangzhou	areaMetroKm	1750.7
+Riobamba	areaMetroKm	982.69
+Latacunga	areaMetroKm	1385.64
+Malacca City	areaMetroKm	307.86
+Zhuzhou	areaMetroKm	535
+Zaozhuang	areaMetroKm	1008.9
+Zibo	areaMetroKm	3471
+Pereira, Colombia	areaMetroKm	628
+Chifeng	areaMetroKm	7012
+Tai'an	areaMetroKm	2086.8
+Hengshui	areaMetroKm	602.5
+Langfang	areaMetroKm	961.8
+Malerkotla	areaMetroKm	456
+Nizwa	areaMetroKm	3500
+Cuttack	areaMetroKm	192.5
+Ahuachapán	areaMetroKm	244.84
+Linfen	areaMetroKm	1304
+Ma'an	areaMetroKm	100
+Huzhou	areaMetroKm	860.42
+Luohe	areaMetroKm	1020
+Portoviejo	areaMetroKm	960.73
+Heze	areaMetroKm	1416
+Hegang	areaMetroKm	4574.9
+Taizhou, Zhejiang	areaMetroKm	2372
+Fuyang	areaMetroKm	1844
+Salinas, Ecuador	areaMetroKm	73.5
+Zigong	areaMetroKm	1441
+Luzhou	areaMetroKm	981.7
+Xiaogan	areaMetroKm	1034.8
+Pingdingshan	areaMetroKm	1771
+Jinzhong	areaMetroKm	2780
+Jining	areaMetroKm	884
+Puerto Baquerizo Moreno	areaMetroKm	848.5
+Central German Metropolitan Region	areaMetroKm	2000
+Cowansville	areaMetroKm	46.09
+Fuheis	areaMetroKm	17
+Linyi	areaMetroKm	2293.3
+Anqing	areaMetroKm	821
+Central Area, Singapore	areaMetroKm	132.7
+Tieling	areaMetroKm	2434
+Melita, Manitoba	areaMetroKm	2.97
+Chuzhou	areaMetroKm	1404.3
+Mudanjiang	areaMetroKm	2495
+Callander, Ontario	areaMetroKm	788.48
+Huaibei	areaMetroKm	2740.9
+Huainan	areaMetroKm	1985.6
+Ji'an	areaMetroKm	1340
+Nanping	areaMetroKm	2660
+Sanmenxia	areaMetroKm	1385.6
+Jiaozuo	areaMetroKm	896.3
+Maoming	areaMetroKm	487
+Qingyuan	areaMetroKm	3652.3
+Nanchong	areaMetroKm	2527.8
+Heyuan	areaMetroKm	4370.6
+Jixi	areaMetroKm	899.1
+Suihua	areaMetroKm	2756.4
+Lam Tin	areaMetroKm	1.334
+Shangqiu	areaMetroKm	1697
+Leshan	areaMetroKm	836.1
+Rangpur City	areaMetroKm	28
+Naga, Camarines Sur	areaMetroKm	1258.54
+Daloa	areaMetroKm	5305
+Yuncheng	areaMetroKm	1205
+Ordos	areaMetroKm	2137
+Wuhu	areaMetroKm	972
+Shengzhou	areaMetroKm	3002.06
+Babahoyo	areaMetroKm	1087.31
+Tasikmalaya	areaMetroKm	729.4
+Tegal, Central Java	areaMetroKm	564
+Killarney, Manitoba	areaMetroKm	5.1
+Chichigalpa	areaMetroKm	3.5
+Kisii, Kenya	areaMetroKm	29
+Mumbai Metropolitan Region	areaMetroKm	4355
+Guarne	areaMetroKm	151
+Panzhihua	areaMetroKm	2010.7
+Neijiang	areaMetroKm	1568.1
+Rhine-Neckar	areaMetroKm	5637
+Taizhou, Jiangsu	areaMetroKm	1567.1
+Zunyi	areaMetroKm	1304
+Azogues	areaMetroKm	611.41
+Tulcán	areaMetroKm	1828.17
+Bispebjerg	areaMetroKm	5.39
+Dhiban, Jordan	areaMetroKm	20.35
+Aksu Prefecture	areaMetroKm	14450
+Santa Tecla, El Salvador	areaMetroKm	112.2
+Zhoukou	areaMetroKm	141
+Xinyang	areaMetroKm	3665.9
+Jinhua	areaMetroKm	2049.5
+Liaocheng	areaMetroKm	1254
+Laiwu	areaMetroKm	1910
+Rizhao	areaMetroKm	1507
+Suzhou, Anhui	areaMetroKm	2906.92
+Lu'an	areaMetroKm	3579.2
+Washington metropolitan area	areaMetroKm	14412
+Xiangyang	areaMetroKm	3672.9
+Vawkavysk	areaMetroKm	1192
+Pingxiang	areaMetroKm	1073
+Cumbayá	areaMetroKm	4204
+Abaetetuba	areaMetroKm	15416.9
+Yangjiang	areaMetroKm	2482.5
+São Sebastião, São Paulo	areaMetroKm	2373
+Penang Island	areaMetroKm	2740
+Istanbul	areaMetroKm	5343
+History of Halifax	areaMetroKm	5528.25
+Kashgar Prefecture	areaMetroKm	555
+Jastrebarsko	areaMetroKm	628.71
+Altay Prefecture	areaMetroKm	10852
+Chūkyō Metropolitan Area	areaMetroKm	7072
+Kottayam	areaMetroKm	180.83
+Qujing	areaMetroKm	1442
+Mafraq	areaMetroKm	128
+Guang'an	areaMetroKm	1533.65
+Bazhong	areaMetroKm	1404
+Lüliang	areaMetroKm	1323
+Mitchell, Manitoba	areaMetroKm	1.32
+Goiatuba	areaMetroKm	1321
+Ezhou	areaMetroKm	963.4
+Huangshi	areaMetroKm	1800.1
+Negombo	areaMetroKm	34
+Turbo, Colombia	areaMetroKm	3055
+Cixi City	areaMetroKm	2861.43
+Linhai	areaMetroKm	2171
+Yogyakarta	areaMetroKm	2159.1
+Santo Domingo, Ecuador	areaMetroKm	3446.65
+Toledo, Paraná	areaMetroKm	1197.016
+Greater Tehran	areaMetroKm	1274
+Dumai	areaMetroKm	5861
+Gran Asunción	areaMetroKm	1014
+Libertador Bolivarian Municipality	areaMetroKm	433
+Rumaithiya	areaMetroKm	4.7
+Rushan, Shandong	areaMetroKm	28.6
+Haining	areaMetroKm	700.5
+Gordonville, Texas	areaMetroKm	2536
+Zhuji	areaMetroKm	2311.41
+Montreal	areaMetroKm	4258.31
+Shouguang	areaMetroKm	1990.1
+Borcea	areaMetroKm	385.82
+Sapahar Upazila	areaMetroKm	8.3
+Stuttgart Metropolitan Region	areaMetroKm	15400
+Black Bear Ranch	areaMetroKm	0
+Bay Roberts	areaMetroKm	103.71
+Santa Bárbara	areaMetroKm	53.21
+Uriangato	areaMetroKm	400
+Villamaría, Caldas	areaMetroKm	50956
+Cajicá	areaMetroKm	49
+Girardot, Cundinamarca	areaMetroKm	1320.99
+Madhur	areaMetroKm	93.3
+Eket	areaMetroKm	214
+Seattle	areaMetroKm	21202
+Uli, Anambra	areaMetroKm	256
+Río Campo	areaMetroKm	0
+Fadagh	areaMetroKm	0
+Dhurnal	areaMetroKm	7
+Sahowala	areaMetroKm	5
+Jatoi Tehsil	areaMetroKm	1010
+Sharjah	areaMetroKm	235.5
+Dokri Taluka	areaMetroKm	2
+Calgary	areaMetroKm	5107.55
+Cariamanga	areaMetroKm	332.28
+Sacramento metropolitan area	areaMetroKm	55501.37
+Charlottetown	areaMetroKm	798.54
+Jahanian Tehsil	areaMetroKm	7.0
+Sherman–Denison metropolitan area	areaMetroKm	2536
+Tyler metropolitan area	areaMetroKm	2460
+Taunsa Sharif	areaMetroKm	10
+Little Rock, Arkansas	areaMetroKm	10593.94
+Budapest metropolitan area	areaMetroKm	7626
+Patna	areaMetroKm	234.7
+Atlanta metropolitan area	areaMetroKm	21694
+Arequipa	areaMetroKm	2923.53
+San Francisco Bay Area	areaMetroKm	17384
+Bregana	areaMetroKm	5.6
+Oron people	areaMetroKm	164
+Hagerstown, Maryland	areaMetroKm	2637
+Tabacundo	areaMetroKm	336
+Hannover–Braunschweig–Göttingen–Wolfsburg Metropolitan Region	areaMetroKm	18600
+Kraków metropolitan area	areaMetroKm	4065.11
+Barcelona metropolitan area	areaMetroKm	4268
+Zoucheng	areaMetroKm	1619
+Johfiyeh	areaMetroKm	4
+Menogeia	areaMetroKm	150
+Glavatičevo	areaMetroKm	3
+Recife metropolitan area	areaMetroKm	2768.9
+Masoro, Rwanda	areaMetroKm	12012589
+Drmoul	areaMetroKm	6.37
+Greater Goiânia	areaMetroKm	5787
+Urban water management in Monterrey, Mexico	areaMetroKm	5346.8
+Integrated urban water management in Medellín, Colombia	areaMetroKm	1152
+Boston	areaMetroKm	11700
+Pune Metropolitan Region	areaMetroKm	7000
+St. John's Metropolitan Area	areaMetroKm	804.65
+Huangchuan County	areaMetroKm	33.4
+Gran Ciudad del Este	areaMetroKm	1017
+Shoubak	areaMetroKm	15
+Barelias	areaMetroKm	35
+Tamazunchale	areaMetroKm	354
+Jallah Jeem	areaMetroKm	10
+Mirpur Bathoro	areaMetroKm	2
+Kashgar	areaMetroKm	2818
+Zahlé	areaMetroKm	90
+Colibași, Cahul	areaMetroKm	6021
+Brandenburg Metropolitan Region	areaMetroKm	30370
+Kazan metropolitan area	areaMetroKm	1000
+Shuwaikh Port	areaMetroKm	36
+Frankfurt Rhine-Main	areaMetroKm	14800
+Matane	areaMetroKm	662.96
+Xiangtan	areaMetroKm	2793
+Sault Ste. Marie, Ontario	areaMetroKm	805.38
+Kanpur Metropolitan Area	areaMetroKm	1680
+Sarajevo metropolitan area	areaMetroKm	4000
+Patna Metropolitan Region	areaMetroKm	1167.04
+Jingjinji	areaMetroKm	215870
+Nabatieh	areaMetroKm	21
+Metropolitan Region of Caracas	areaMetroKm	4715.1
+Valles del Tuy Metropolitan Area	areaMetroKm	1694
+Altos Mirandinos Metropolitan Area	areaMetroKm	774
+BUG's	areaMetroKm	12424
+Guarenas-Guatire conurbation	areaMetroKm	558
+Litoral Varguense conurbation	areaMetroKm	942
+Costa Oriental del Lago de Maracaibo	areaMetroKm	8251
+Seremban	areaMetroKm	2980
+Frankfurt Rhein-Main Regional Authority	areaMetroKm	2458
+Tetz	areaMetroKm	3.05
+Amaravati	areaMetroKm	8352.69
+Laredo metropolitan area	areaMetroKm	8744
+Gwalior Metropolitan Region	areaMetroKm	730
+Inland Empire	areaMetroKm	70669
+Phuket City	areaMetroKm	224
+Nakhon Ratchasima	areaMetroKm	767.98
+La cité du Fleuve	areaMetroKm	3577
+Bangalore Metropolitan Region	areaMetroKm	8005
+Hyderabad Metropolitan Region	areaMetroKm	7257
+Budaun Metro Area	areaMetroKm	113
+Orofia	areaMetroKm	50

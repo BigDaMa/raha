@@ -1,0 +1,299 @@
+Union Station	passSystem	Amtrak
+Union Station	passSystem	Amtrak
+Fort Worth Intermodal Transportation Center	passSystem	Amtrak
+Yonkers station	passSystem	Amtrak
+Rockville station	passSystem	MARC
+Union Station	passSystem	Metro
+Silver Spring station	passSystem	Metro
+Crystal City station	passSystem	Metro
+Franconia–Springfield station	passSystem	WMATA
+L'Enfant Plaza station	passSystem	Metro
+New Carrollton station	passSystem	Amtrak
+Hurstbridge railway station	passSystem	251000
+Union Station	passSystem	Amtrak
+Pennsylvania Station	passSystem	Amtrak
+King Street Station	passSystem	Amtrak
+Saint Paul Union Depot	passSystem	Amtrak
+Portland Union Station	passSystem	Amtrak
+Denver Union Station	passSystem	Amtrak
+BWI Rail Station	passSystem	Amtrak
+Hollywood station	passSystem	Amtrak
+Amtrak station	passSystem	Amtrak
+Fort Lauderdale station	passSystem	Amtrak
+DeLand station	passSystem	Amtrak
+Richmond Staples Mill Road station	passSystem	Amtrak
+Deerfield Beach station	passSystem	Amtrak
+Delray Beach station	passSystem	Amtrak
+Alexandria Union Station	passSystem	Amtrak
+Wilmington station	passSystem	Amtrak
+Midway station	passSystem	Amtrak
+Lindenwold station	passSystem	NJT
+West Baltimore station	passSystem	MARC
+MacArthur station	passSystem	BART
+Canora	passSystem	AMT
+Mont-Royal	passSystem	AMT
+Du Ruisseau	passSystem	AMT
+Montpellier	passSystem	AMT
+Bois-Franc	passSystem	AMT
+Deux-Montagnes	passSystem	AMT
+Overbrook station	passSystem	weekday boardings
+Merion station	passSystem	weekday boardings
+Narberth station	passSystem	weekday boardings
+Wynnewood station	passSystem	weekday boardings
+Haverford station	passSystem	weekday boardings
+Rosemont station	passSystem	weekday boardings
+Bryn Mawr station	passSystem	weekday boardings
+Villanova station	passSystem	weekday boardings
+Radnor station	passSystem	weekday boardings
+St. Davids station	passSystem	weekday boardings
+Wayne station	passSystem	weekday boardings
+Strafford station	passSystem	weekday boardings
+Devon station	passSystem	weekday boardings
+Berwyn station	passSystem	weekday boardings
+Daylesford station	passSystem	weekday boardings
+Thorndale station	passSystem	weekday boardings
+Whitford station	passSystem	weekday boardings
+Malvern station	passSystem	weekday boardings
+Charlottesville Union Station	passSystem	Amtrak
+Pacific Central Station	passSystem	Amtrak
+Alvarado Transportation Center	passSystem	Amtrak
+Emeryville station	passSystem	Amtrak
+Newark station	passSystem	Amtrak
+City Hall station	passSystem	daily
+Burbank–Bob Hope Airport station	passSystem	Amtrak
+Everett Station	passSystem	Amtrak
+UH–Downtown	passSystem	Qcard
+Preston	passSystem	Qcard
+Main Street Square	passSystem	Qcard
+Bell	passSystem	Qcard
+Downtown Transit Center	passSystem	Q Card
+McGowen	passSystem	Qcard
+HCC	passSystem	Qcard
+Wheeler	passSystem	Qcard
+Sainte-Dorothée	passSystem	AMT
+Argyle station	passSystem	CTA
+Tamien Station	passSystem	Caltrain
+Foster station	passSystem	CTA
+Merced station	passSystem	Amtrak
+Ib railway station	passSystem	21.817
+Glenview station	passSystem	Amtrak
+Bridgewater	passSystem	NJT
+Cleveland Lakefront Station	passSystem	Amtrak
+Danville station	passSystem	Amtrak
+Bridgeport station	passSystem	Amtrak
+Milford station	passSystem	Metro-North
+Cornwells Heights station	passSystem	Amtrak
+Santa Fe Depot	passSystem	Amtrak
+Davis station	passSystem	CTA
+Main station	passSystem	CTA
+Sacramento Valley Station	passSystem	Amtrak
+Williams Junction station	passSystem	Amtrak
+Manassas station	passSystem	Amtrak
+Berkeley station	passSystem	Amtrak
+Woodbridge station	passSystem	Amtrak
+Simi Valley station	passSystem	Amtrak
+Van Nuys train station	passSystem	Amtrak
+Chatsworth station	passSystem	Amtrak
+Moorpark station	passSystem	Amtrak
+Lake station	passSystem	CTA
+Sox–35th station	passSystem	CTA
+Kedzie	passSystem	CTA
+Lake station	passSystem	CTA
+Van Buren	passSystem	CTA
+Van Buren	passSystem	CTA
+Rosemont station	passSystem	CTA
+Solana Beach station	passSystem	Amtrak California
+Oceanside Transit Center	passSystem	Amtrak
+Division station	passSystem	CTA
+Western station	passSystem	CTA
+Damen station	passSystem	CTA
+California station	passSystem	CTA
+Addison station	passSystem	CTA
+Belmont station	passSystem	CTA
+Logan Square station	passSystem	CTA
+Cumberland station	passSystem	CTA
+Harlem station	passSystem	CTA
+Montrose station	passSystem	CTA
+Irving Park station	passSystem	CTA
+Chicago station	passSystem	CTA
+Grand station	passSystem	CTA
+Washington station	passSystem	CTA
+UIC–Halsted station	passSystem	CTA
+Racine station	passSystem	CTA
+Jackson station	passSystem	CTA
+Monroe station	passSystem	CTA
+Clinton station	passSystem	CTA
+LaSalle station	passSystem	CTA
+Western station	passSystem	CTA
+Illinois Medical District station	passSystem	CTA
+Austin station	passSystem	CTA
+Kedzie–Homan station	passSystem	CTA
+Pulaski station	passSystem	CTA
+Cicero station	passSystem	CTA
+Oak Park station	passSystem	CTA
+Harlem station	passSystem	CTA
+Forest Park station	passSystem	CTA
+California	passSystem	CTA
+Western station	passSystem	CTA
+Kedzie	passSystem	CTA
+Cicero	passSystem	CTA
+Culpeper station	passSystem	Amtrak
+Kemper Street station	passSystem	Amtrak
+Quantico station	passSystem	Amtrak
+Fredericksburg station	passSystem	Amtrak
+Clifton Forge station	passSystem	Amtrak
+Staunton station	passSystem	Amtrak
+Williamsburg Transportation Center	passSystem	Amtrak
+Newport News station	passSystem	Amtrak
+Ashland station	passSystem	Amtrak
+Burke Centre station	passSystem	Amtrak
+Fullerton Transportation Center	passSystem	Amtrak
+Old Town Transit Center	passSystem	Amtrak
+Santa Ana Regional Transportation Center	passSystem	Amtrak
+Glendale Transportation Center	passSystem	Amtrak
+Camarillo station	passSystem	Amtrak
+Oxnard Transit Center	passSystem	Amtrak
+Burlington station	passSystem	Amtrak
+Fayetteville station	passSystem	Amtrak
+Irvine Transportation Center	passSystem	Amtrak
+San Clemente Pier station	passSystem	Amtrak
+Santa Barbara station	passSystem	Amtrak
+Bryan station	passSystem	Amtrak
+Aberdeen station	passSystem	Amtrak
+Goleta station	passSystem	Amtrak
+Carpinteria station	passSystem	Amtrak
+Ventura station	passSystem	Amtrak
+Davis station	passSystem	Amtrak
+Surf station	passSystem	Amtrak
+Guadalupe station	passSystem	Amtrak
+Grover Beach station	passSystem	Amtrak
+San Luis Obispo station	passSystem	Amtrak
+Oakland – Jack London Square station	passSystem	Amtrak
+Auburn station	passSystem	Amtrak
+Martinez station	passSystem	Amtrak
+Suisun–Fairfield station	passSystem	Amtrak
+Pepsi Center–Elitch Gardens station	passSystem	RTD
+Sports Authority Field at Mile High station	passSystem	RTD
+Oxford–City of Sheridan station	passSystem	RTD
+Englewood station	passSystem	RTD
+Newhall station	passSystem	Metrolink
+Montréal-Ouest	passSystem	AMT
+Chico station	passSystem	Amtrak
+Santa Fe Depot	passSystem	Amtrak
+Browning station	passSystem	Amtrak
+Edmonds station	passSystem	Amtrak
+Elkhart station	passSystem	Amtrak
+Milwaukee Intermodal Station	passSystem	Amtrak
+St. Cloud station	passSystem	Amtrak
+Homewood station	passSystem	Amtrak
+Barstow Harvey House	passSystem	Amtrak
+Godbold Transportation Center	passSystem	Amtrak
+Harpers Ferry station	passSystem	Amtrak
+Martinsburg station	passSystem	Amtrak
+Connellsville station	passSystem	Amtrak
+Colfax station	passSystem	Amtrak
+Dunsmuir station	passSystem	Amtrak
+Fremont station	passSystem	Amtrak
+Rocklin station	passSystem	Amtrak
+Roseville station	passSystem	Amtrak
+Santa Fe Passenger Depot	passSystem	Amtrak
+Winter Park station	passSystem	Amtrak
+Kissimmee station	passSystem	Amtrak
+Houston station	passSystem	Amtrak
+Ontario station	passSystem	Amtrak
+Pomona station	passSystem	Amtrak
+San Marcos station	passSystem	Amtrak
+Summit station	passSystem	Amtrak
+Seabrook station	passSystem	MARC
+Burlington station	passSystem	Amtrak
+Riverside – Downtown station	passSystem	Amtrak
+CPR Station	passSystem	Edmonton-Regina
+Kensington station	passSystem	MARC
+Truckee station	passSystem	Amtrak
+Plaça d'Espanya station	passSystem	Llobregat–Anoia Line
+Hayward station	passSystem	Amtrak
+San Francisco 4th and King Street Station	passSystem	Caltrain
+Santa Clara – Great America station	passSystem	Amtrak
+Paso Robles station	passSystem	Amtrak
+San Juan Capistrano Depot	passSystem	Amtrak
+Lawrence station	passSystem	Caltrain
+Salinas station	passSystem	Amtrak
+Mission Viejo station	passSystem	Amtrak
+Garrett Park station	passSystem	MARC
+Camden Station	passSystem	MARC
+Saint-Bruno	passSystem	AMT
+Madera station	passSystem	Amtrak
+Jefferson Park Transit Center	passSystem	CTA
+Perryville station	passSystem	MARC
+Edgewood station	passSystem	MARC
+Martin State Airport station	passSystem	MARC
+Halethorpe station	passSystem	MARC
+Odenton station	passSystem	MARC
+Bowie State station	passSystem	MARC
+Washington Grove station	passSystem	MARC
+Gaithersburg station	passSystem	MARC
+Metropolitan Grove station	passSystem	MARC
+Germantown station	passSystem	MARC
+Boyds station	passSystem	MARC
+Barnesville station	passSystem	MARC
+Dickerson station	passSystem	MARC
+Monocacy station	passSystem	MARC
+Frederick station	passSystem	MARC
+Point of Rocks station	passSystem	MARC
+Brunswick station	passSystem	MARC
+Duffields station	passSystem	MARC
+Riverdale station	passSystem	MARC
+Muirkirk station	passSystem	MARC
+Laurel station	passSystem	MARC
+Laurel Race Track station	passSystem	MARC
+Savage station	passSystem	MARC
+Jessup station	passSystem	MARC
+Dorsey station	passSystem	MARC
+St. Denis station	passSystem	MARC
+Lorton station	passSystem	Amtrak
+Hillcroft Transit Center	passSystem	Qcard
+Avinguda Carrilet station	passSystem	Llobregat–Anoia Line
+Tukwila station	passSystem	Amtrak
+Salt Lake City Intermodal Hub	passSystem	Amtrak
+Hercules Station & Terminal	passSystem	Amtrak
+Akalla metro station	passSystem	Stockholm metro
+Åkeshov metro station	passSystem	Stockholm metro
+Abrahamsberg metro station	passSystem	Stockholm metro
+Vällingby metro station	passSystem	Stockholm metro
+Île-Bigras	passSystem	AMT
+Roxboro-Pierrefonds	passSystem	AMT
+Sunnybrooke	passSystem	AMT
+Grand-Moulin	passSystem	AMT
+Redding station	passSystem	Amtrak
+Brunswick Maine Street Station	passSystem	Amtrak
+Menemen railway station	passSystem	İZBAN
+Halkapınar railway station	passSystem	İZBAN
+Baie-D'Urfé	passSystem	AMT
+Anaheim Regional Transportation Intermodal Center	passSystem	Amtrak
+Ollur railway station	passSystem	Passenger car
+İzmir Alsancak Terminal	passSystem	İZBAN
+Gaziemir railway station	passSystem	İZBAN
+Outlook railway station	passSystem	Edmonton-Regina
+Montrose	passSystem	Qcard
+Pittsburg Center station	passSystem	BART
+Antioch station	passSystem	BART
+Union Station	passSystem	Amtrak
+John W. Olver Transit Center	passSystem	Amtrak
+Kansas City Union Station	passSystem	Amtrak
+Gateway Multimodal Transportation Center	passSystem	Amtrak
+Norfolk station	passSystem	Amtrak
+Saktigarh railway station	passSystem	India
+Bishnupur railway station	passSystem	India
+Jalandhar Cantonment railway station	passSystem	31.307
+Sand Lake Road station	passSystem	SunCard
+Near Northside	passSystem	Qcard
+North Central	passSystem	Qcard
+Moody Park	passSystem	Qcard
+Cavalcade	passSystem	Qcard
+Lindale Park	passSystem	Qcard
+North Lindale	passSystem	Qcard
+Northline Transit Center	passSystem	Qcard
+Storey Train Station	passSystem	Amtrak
+Troy Transit Center	passSystem	Amtrak
+Central Station	passSystem	Qcard
+Arcadia station	passSystem	Amtrak

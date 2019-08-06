@@ -1,0 +1,507 @@
+IBM AIX	workingState	Current
+BeOS	workingState	Discontinued
+Debian	workingState	Current
+GNU	workingState	Current
+IRIX	workingState	Retired
+Multics	workingState	Mature, Historic
+Microsoft Windows	workingState	Publicly released
+MacOS	workingState	Current
+Red Hat Linux	workingState	Discontinued
+Sorcerer	workingState	Discontinued
+Slackware	workingState	Current
+SunOS	workingState	Historic; now marketed as Solaris
+Transaction Processing Facility	workingState	Current
+UCSD Pascal	workingState	Historic
+VSE	workingState	Current
+OpenVMS	workingState	Current
+386BSD	workingState	Historical
+HP-UX	workingState	Current
+Palm OS	workingState	Discontinued since 2009
+Tru64 UNIX	workingState	Retired
+OS-9	workingState	Current
+OS	workingState	Current
+NeXTSTEP	workingState	Historic, as original code base for Mac OS X
+Solaris	workingState	Current
+MacOS Server	workingState	Superseded by macOS plus add-on server package
+DNIX	workingState	Historic
+Darwin	workingState	Current
+Source Mage	workingState	Active
+RSX-11	workingState	Discontinued
+QNX	workingState	Current
+DR-DOS	workingState	Current
+TOPS-20	workingState	Discontinued
+RT-11	workingState	Discontinued
+ICL VME	workingState	Discontinued
+TRIPOS	workingState	Discontinued
+PSOS	workingState	Discontinued
+M	workingState	Discontinued
+Syllable Desktop	workingState	Software release life cycle
+BS2000	workingState	Current
+IBM PC DOS	workingState	No longer supported
+Michigan Terminal System	workingState	Discontinued
+Knoppix	workingState	Current
+MenuetOS	workingState	Beta
+RISC OS	workingState	Current
+AtheOS	workingState	Discontinued
+ANDOS	workingState	Abandoned
+Xandros	workingState	Discontinued
+Cisco IOS	workingState	Current
+GnuLinEx	workingState	Active
+86-DOS	workingState	Historic, Unsupported
+SP	workingState	Discontinued
+Ultrix	workingState	Historic
+Mac OS 9	workingState	Historic, not supported
+Libranet	workingState	Discontinued
+GoboLinux	workingState	Current
+Amiga Unix	workingState	Historic
+Business Operating System	workingState	Discontinued
+UX	workingState	Historic
+ARX	workingState	Historic
+Yellow Dog Linux	workingState	Discontinued
+IBM i	workingState	Current
+Apple ProDOS	workingState	Discontinued
+8	workingState	Discontinued
+Compatible Time-Sharing System	workingState	Discontinued, Simulator
+Data General RDOS	workingState	Discontinued
+Coherent	workingState	Discontinued
+Apple SOS	workingState	Discontinued
+SkyOS	workingState	Software release life cycle
+MorphOS	workingState	Current
+OS	workingState	Historic
+Trustix	workingState	Discontinued
+Incompatible Timesharing System	workingState	Discontinued
+Tomsrtbt	workingState	Defunct \\ Unmaintained
+WAITS	workingState	Historic
+E	workingState	No development, still available
+VM	workingState	Current
+CMS	workingState	Historic
+Versatile Real-Time Executive	workingState	Current
+System 7	workingState	Historic, not supported
+NetWare	workingState	Discontinued
+FREESCO	workingState	Current
+Damn Small Linux	workingState	Dormant
+Dyne:bolic	workingState	Dormant
+Impi Linux	workingState	discontinued
+Slax	workingState	Current
+SystemRescueCD	workingState	Current
+MEPIS	workingState	Current
+ECos	workingState	Current
+Kanotix	workingState	Current
+8	workingState	Discontinued
+Windows 9x	workingState	Discontinued
+Sprite	workingState	Historic
+MirOS BSD	workingState	Current
+Red Flag Linux	workingState	Discontinued
+MicroBSD	workingState	Discontinued
+YOPER	workingState	Discontinued
+University of Michigan Executive System	workingState	Discontinued
+X	workingState	Obsolete
+V	workingState	Historic
+Inferno	workingState	Current
+Mac OS 8	workingState	Historic, not supported
+ΜClinux	workingState	Current
+TRSDOS	workingState	Historic
+IBM Airline Control Program	workingState	Discontinued
+Qt Extended	workingState	Discontinued
+TOPS-10	workingState	Discontinued
+MkLinux	workingState	Legacy / discontinued
+Red Hat Enterprise Linux	workingState	Current
+UnixWare	workingState	Current
+Lunar Linux	workingState	Current
+Berry Linux	workingState	Current
+OpenMosix	workingState	discontinued
+UNIX System Services	workingState	Current
+UNIX System V	workingState	Historic
+PTS-DOS	workingState	Current
+IBM TopView	workingState	Discontinued
+JavaOS	workingState	Discontinued
+Dartmouth Time Sharing System	workingState	Discontinued
+Sacix	workingState	Current
+Guadalinex	workingState	Current
+RISC iX	workingState	Historic
+Mac OS X Public Beta	workingState	Historic, not supported
+Visi On	workingState	Discontinued
+CRUX	workingState	Active
+Cray Operating System	workingState	Discontinued
+LynxOS	workingState	Current
+Kurumin	workingState	Discontinued
+Nucleus RTOS	workingState	Current
+Burroughs MCP	workingState	Current
+ALT Linux	workingState	Current
+Idris	workingState	Historic
+Ubuntu	workingState	Current
+IBM Workplace OS	workingState	Historic
+Magnussoft ZETA	workingState	Discontinued
+IPCop	workingState	Current
+OS	workingState	Discontinued
+FLEX	workingState	Discontinued
+VidaLinux	workingState	Abandoned
+Corel Linux	workingState	Discontinued
+LUnix	workingState	Historic
+ChorusOS	workingState	Discontinued
+Stratus VOS	workingState	Current
+RMX	workingState	Discontinued
+GEOS	workingState	Unofficially discontinued
+Windows Nashville	workingState	Historic,Outdated
+Apple Pascal	workingState	Historic
+SmoothWall	workingState	Current
+HeliOS	workingState	Historic
+SUSE Linux Enterprise Desktop	workingState	Current
+VM	workingState	Current
+Windows Mobile	workingState	Succeeded by Windows Phone
+UNIVAC EXEC I	workingState	Discontinued
+UNIVAC EXEC II	workingState	Discontinued
+Micro-Controller Operating Systems	workingState	Production, stable
+os	workingState	Discontinued
+Multi-Environment Real-Time	workingState	Discontinued
+Integrity	workingState	Current
+Atari DOS	workingState	Discontinued
+Devil-Linux	workingState	Current
+OS	workingState	Historic
+Scientific Linux	workingState	Current
+Multiuser DOS	workingState	Current
+THE multiprogramming system	workingState	Discontinued
+Bluebottle OS	workingState	Current
+32V	workingState	Discontinued
+Rhapsody	workingState	Historic
+OpenServer	workingState	Current
+Kubuntu	workingState	Current
+VectorLinux	workingState	Current
+Linux for PlayStation 2	workingState	Discontinued
+GEOS	workingState	Discontinued, historic
+EComStation	workingState	Current
+PRIMOS	workingState	Discontinued
+Mac OS X Server 1.0	workingState	Legacy
+SUPER-UX	workingState	Current
+Cray Time Sharing System	workingState	Historic
+UNIX System III	workingState	Historic
+Mobilinux	workingState	Current
+BrickOS	workingState	Current
+COBOL	workingState	Historic
+Symphony OS	workingState	Active - Coming out of Dormancy
+Singularity	workingState	Abandoned
+SchilliX	workingState	Current
+CAOS Linux	workingState	Discontinued
+Austrumi Linux	workingState	Current
+Zenwalk	workingState	Current
+Frugalware Linux	workingState	Current
+History of Unix	workingState	Current
+OS	workingState	Historic
+UniFLEX	workingState	Historic
+ThreadX	workingState	Current
+CHAOS	workingState	Current
+OpenSUSE	workingState	Current
+DesktopBSD	workingState	Current
+Maemo	workingState	Terminated in favor of MeeGo, community support available
+Nitix	workingState	Current
+Java Card OpenPlatform	workingState	Current
+UX	workingState	Historic
+Windows CE 5.0	workingState	Discontinued
+EOS	workingState	Discontinued
+MotoMagx	workingState	Discontinued
+Freespire	workingState	Discontinued
+NASLite	workingState	Current
+DNALinux	workingState	Current
+SUSE Linux Enterprise Server	workingState	Current
+386	workingState	Discontinued
+AMSDOS	workingState	Discontinued
+Ututo	workingState	Dormant
+VAXELN	workingState	?
+IBM Academic Operating System	workingState	Historic
+Venix	workingState	Historic
+MacMach	workingState	Legacy / discontinued
+Edubuntu	workingState	Current
+Xubuntu	workingState	Current
+KateOS	workingState	Defunct
+Nexenta OS	workingState	Discontinued
+BeOS R5.1d0	workingState	Stopped
+SINIX	workingState	Discontinued
+DSLinux	workingState	Discontinued
+Sintran III	workingState	Discontinued
+Acorn MOS	workingState	Discontinued
+NepaLinux	workingState	Current
+NUbuntu	workingState	Discontinued
+ROSE	workingState	Historic
+Caldera OpenLinux	workingState	Defunct
+Anonym.OS	workingState	Unmaintained
+Finnix	workingState	Current
+Musix GNU+Linux	workingState	Current
+Poseidon Linux	workingState	Dormant
+BeleniX	workingState	Dormant
+DEMOS	workingState	Historical
+Vine Linux	workingState	Current
+CapROS	workingState	In production / development
+DeLi Linux	workingState	Discontinued
+MCNLive	workingState	Current
+Pecos	workingState	Current
+MSX-DOS	workingState	Historic
+OS2000	workingState	Current; passed the state testing for military purpose, state standard for a RTOS
+Baltix	workingState	In production / development
+BackTrack	workingState	Superseded by Kali Linux
+VM	workingState	Historic
+LiMux	workingState	Current
+Aurora SPARC Linux	workingState	Abandoned. Superseded by Fedora SPARC
+CDC Kronos	workingState	Historic
+Linuxcare	workingState	Discontinued
+BTRON	workingState	Active
+Slamd64	workingState	Discontinued
+XTS-400	workingState	Current
+Microport	workingState	End-of-life
+CSS	workingState	Historic
+Nemesis	workingState	Discontinued
+Buildix	workingState	Current
+Dreamlinux	workingState	Discontinued
+VSTa	workingState	Historic
+GNewSense	workingState	Current
+Puredyne	workingState	discontinued
+HDOS	workingState	Discontinued
+Linkat	workingState	Current
+USIX	workingState	Discontinued
+House	workingState	Current
+AmigaOS 4	workingState	Current
+Oracle Linux	workingState	Current
+SME Server	workingState	Current
+Quantian	workingState	Current
+ORVYL and WYLBUR	workingState	Discontinued
+Soft Hard Real-Time Kernel	workingState	Current
+NOS	workingState	Historic
+Aptosid	workingState	Discontinued
+MASTAR	workingState	Current
+Windows Mobile 6.0	workingState	Discontinued
+Ubuntu Studio	workingState	Current
+MCC Interim Linux	workingState	Historic
+Trisquel	workingState	Current
+Talon DSP RTOS	workingState	Current
+JX	workingState	Current
+CSI-DOS	workingState	Abandoned
+AmiKit	workingState	Publicly released
+MNOS	workingState	historical
+PlayStation 3 system software	workingState	Current
+GeckOS	workingState	Historic
+Pilot	workingState	Historic
+PlayStation Portable system software	workingState	Current
+Tinfoil Hat Linux	workingState	Discontinued
+Gobuntu	workingState	Project incorporated into Ubuntu
+DOS-11	workingState	Discontinued
+DSPnano RTOS	workingState	Current
+TSS-8	workingState	Discontinued
+Ångström distribution	workingState	Current
+SHARE Operating System	workingState	Discontinued
+O	workingState	Discontinued
+Amdahl UTS	workingState	Discontinued
+OpenSolaris for System z	workingState	defunct
+Time Sharing Operating System	workingState	Discontinued
+Xbox 360 system software	workingState	Current
+Floppyfw	workingState	Inactive
+Myarc Disk Operating System	workingState	Current versions 6.70 & 6.71
+Wii system software	workingState	Discontinued
+MK-DOS	workingState	Abandoned
+GOS	workingState	Discontinued
+TI-RTOS	workingState	Current
+4690 Operating System	workingState	Current
+Ubuntu Mobile	workingState	Discontinued.
+Ubuntu Mobile	workingState	Succeeded by Ubuntu Touch
+RT	workingState	Stable
+9	workingState	Discontinued
+OpenGEU	workingState	No longer active
+TinyMe	workingState	EOL
+IOS	workingState	Current
+BlackBerry OS	workingState	Stopped
+Sunwah Linux	workingState	Defunct
+80	workingState	Historic
+Ubuntu JeOS	workingState	End of life as separate OS
+Panos	workingState	Historic
+SliTaz	workingState	Current
+Moblin	workingState	Discontinued
+SharpOS	workingState	Discontinued
+GPAC Project on Advanced Content	workingState	Current
+ELinOS	workingState	Current
+Windows Mobile 6.1	workingState	Discontinued
+Windows Phone	workingState	Current
+Phoronix Test Suite	workingState	Current
+LOUD	workingState	Current
+MuLinux	workingState	Frozen
+BeRTOS	workingState	Production/Stable
+Ubuntu Netbook Edition	workingState	Merged into desktop edition from Ubuntu 11.04. End of life as a separate OS.
+GEORGE	workingState	Historic
+Foresight Linux	workingState	Discontinued
+DAVIX	workingState	Current
+Elastix	workingState	Current
+Berkeley Timesharing System	workingState	Discontinued
+Midori	workingState	Discontinued
+Xange	workingState	Current
+Inquisitor	workingState	Current
+OSx	workingState	Historical
+MONECS	workingState	Discontinued
+Billix	workingState	Development Ceased
+SpartaDOS X	workingState	Current
+Berkeley Software Distribution	workingState	Superseded by derivatives
+AmigaOS	workingState	Current
+Moonquake	workingState	Current
+NimbleX	workingState	Inactive
+EasyPeasy	workingState	Sleeping
+LOCUS	workingState	Historic
+Alinex	workingState	current
+Incognito	workingState	Discontinued
+BlankOn	workingState	Current
+Bharat Operating System Solutions	workingState	Current
+BLAG Linux and GNU	workingState	Current
+Cisco Security Monitoring, Analysis, and Response System	workingState	End-Of-Support
+Ojuba Linux	workingState	Current
+OG-OS	workingState	Current
+CrunchBang Linux	workingState	Software life cycle
+Whitix	workingState	Current
+Granular Linux	workingState	Current
+Tin Hat Linux	workingState	Current
+Tor-ramdisk	workingState	Current
+Kuki Linux	workingState	Inactive
+Windows NT	workingState	Current
+MS-DOS	workingState	Discontinued
+Unix	workingState	Current
+Cloud	workingState	Discontinued
+Wireless identification and sensing platform	workingState	Current
+TurnKey Linux Virtual Appliance Library	workingState	Current
+The Linux Schools Project	workingState	Current
+OS	workingState	Discontinued
+Tiny Core Linux	workingState	Current
+Grml	workingState	Current
+FireballISO	workingState	Active
+Aurora	workingState	Discontinued
+OS4000	workingState	No further development, but still supported
+Lubuntu	workingState	Active development
+Wolvix	workingState	Discontinued
+Chrome OS	workingState	Preinstalled on Chromebooks, Chromeboxes, Chromebits, Chromebase
+OS 2200	workingState	Current
+Nintendo DSi system software	workingState	Discontinued
+Calculate Linux	workingState	Current
+Russian Fedora Remix	workingState	Current
+Spri	workingState	Release Candidate
+BioSLAX	workingState	Current
+ExtremeXOS	workingState	Current
+FunkOS	workingState	Current
+Chromium OS	workingState	Current
+OPhone	workingState	Current
+CyanogenMod	workingState	Current
+SHR	workingState	Current
+Salix OS	workingState	Current
+ClearOS	workingState	Current
+ClearOS	workingState	Commercially supported until Sep 1, 2013
+Symbian	workingState	Discontinued
+StartOS	workingState	Current
+ADMOS-Lite	workingState	Current
+KolibriOS	workingState	Active
+Canaima	workingState	Current
+Unity Linux	workingState	Dormant
+SuperGamer	workingState	Discontinued
+ERIKA Enterprise	workingState	Current
+Linux-Libre	workingState	Current
+4K Disk Monitor System	workingState	Discontinued
+AskoziaPBX	workingState	Current
+MQX	workingState	Current
+Universal Time-Sharing System	workingState	Discontinued
+Peppermint Linux OS	workingState	Current
+Kongoni	workingState	Dormant
+Bifrost	workingState	Current
+BlackBerry Tablet OS	workingState	Discontinued
+OSIAN	workingState	Current
+LiteOS	workingState	Current
+Nova	workingState	Discontinued
+Damn Vulnerable Linux	workingState	Discontinued
+QP	workingState	Mature
+Smarterphone	workingState	Current
+Mayur Linux	workingState	Current
+Arch Hurd	workingState	Current
+KahelOS	workingState	Discontinued
+Porteus	workingState	Current
+OpenComRTOS	workingState	Current
+Jurix	workingState	Discontinued
+Windows Embedded Industry	workingState	Publicly released / Trialware
+RT-Thread	workingState	Current
+OpenWrt	workingState	Current
+Hanthana Linux	workingState	Current
+Data Access in Real Time	workingState	Current
+Nintendo 3DS system software	workingState	Current
+Fuduntu	workingState	Discontinued
+IPFire	workingState	Current
+T-Kernel	workingState	Current
+SimpleLinux	workingState	Dormant
+Phantom OS	workingState	Active
+Tails	workingState	Current
+Bodhi Linux	workingState	Current
+UberStudent	workingState	Long-Term Stable Release 4.1; actively developed and supported
+DebWRT	workingState	Current
+NCOS	workingState	Historic
+Android-x86	workingState	Active
+Firefox OS	workingState	Discontinued
+MIUI	workingState	Current
+BackBox	workingState	Active
+PelicanHPC	workingState	Active
+ISIS	workingState	Historic
+Lightweight Portable Security	workingState	Current
+Gargoyle	workingState	Current
+Chakra	workingState	Current
+ArchBang	workingState	Current
+Commodore OS	workingState	Discontinued http://distrowatch.com/table.php?distribution=commodore
+Verve	workingState	Under development by Microsoft Research
+Linspire	workingState	Discontinued
+PlayStation Vita system software	workingState	Current
+Linux-libre	workingState	Current
+Ubuntu for Android	workingState	Inactive
+RedSleeve	workingState	Current
+HomeOS	workingState	Current
+Platypux	workingState	Active
+VE	workingState	Historic
+SalineOS	workingState	Current
+OpenTag	workingState	Current
+SuperX	workingState	Current
+Yun OS	workingState	Current
+Wii U system software	workingState	Current
+NuttX	workingState	Current
+GendBuntu	workingState	Current
+SmartOS	workingState	Current
+Ubuntu Touch	workingState	Released
+Qubes OS	workingState	Current
+Elementary OS	workingState	Current
+PlayStation 4 system software	workingState	Current
+Kali Linux	workingState	Active
+Nokia Asha platform	workingState	Discontinued
+Emmabuntüs	workingState	Current
+AlliedWare Plus	workingState	Current
+Macpup	workingState	Current
+Whonix	workingState	Active
+LinuxBBQ	workingState	Active
+SolydXK	workingState	Active
+Galsoft Linux	workingState	Active development
+SteamOS	workingState	Under development
+Lilblue Linux	workingState	Current
+AOKP	workingState	Current
+OmniROM	workingState	Current
+Xbox One system software	workingState	Current
+EWS-UX	workingState	Historical
+Nanolinux	workingState	Current
+INtime	workingState	Current
+Nokia Fastlane	workingState	Closed
+YunoHost	workingState	Current
+HandyLinux	workingState	Current
+Kaleidoscope	workingState	Historic, not supported
+OpenMandriva Lx	workingState	Current
+VX	workingState	Current
+NonStop OS	workingState	Current
+Astra Linux	workingState	Current
+Honeywell CP-6	workingState	Historic, discontinued 2005
+Proxmox Virtual Environment	workingState	Current
+DS	workingState	Discontinued
+USU	workingState	Current
+TempleOS	workingState	Active development
+LibreCMC	workingState	Current
+Classic Mac OS	workingState	Historic, not supported
+Endian Firewall	workingState	Current
+NextBSD	workingState	Still in launch phase
+SlimPup Linux	workingState	Current
+LinuxEDU	workingState	Current
+Cisco IOS XE	workingState	Current
+ICLOAK	workingState	Current
+Subgraph	workingState	Current
+LEDE	workingState	Current
+Apache Mynewt OS	workingState	pre-GA
+ISURU Linux	workingState	Current

@@ -1,0 +1,631 @@
+London Waterloo station	fareZone	1
+London King's Cross railway station	fareZone	1
+Waterloo tube station	fareZone	1
+Mornington Crescent tube station	fareZone	2
+Liverpool Street station	fareZone	1
+Oval tube station	fareZone	2
+London Paddington station	fareZone	1
+Bethnal Green tube station	fareZone	2
+Wallington railway station	fareZone	5
+Tottenham Court Road tube station	fareZone	1
+Notting Hill Gate tube station	fareZone	1
+Euston railway station	fareZone	1
+Marylebone station	fareZone	1
+Mitcham Junction station	fareZone	4
+Woolwich Arsenal station	fareZone	4
+Blackheath railway station	fareZone	3
+Dollis Hill tube station	fareZone	3
+Bounds Green tube station	fareZone	3
+London Bridge station	fareZone	1
+Embankment tube station	fareZone	1
+Charing Cross railway station	fareZone	1
+Cannon Street station	fareZone	1
+Charing Cross tube station	fareZone	1
+Holborn tube station	fareZone	1
+Arsenal tube station	fareZone	2
+Finsbury Park station	fareZone	2
+Leicester Square tube station	fareZone	1
+Piccadilly Circus tube station	fareZone	1
+King's Cross St. Pancras tube station	fareZone	1
+Acton Town tube station	fareZone	3
+Highbury & Islington station	fareZone	2
+Baker Street tube station	fareZone	1
+Roding Valley tube station	fareZone	4
+Oxford Circus tube station	fareZone	1
+Westferry DLR station	fareZone	2
+Limehouse station	fareZone	2
+Bellingham railway station	fareZone	3
+Camden Town tube station	fareZone	2
+Bank and Monument stations	fareZone	1
+Green Park tube station	fareZone	1
+Clapham Junction railway station	fareZone	2
+Stoke Newington railway station	fareZone	2
+East Finchley tube station	fareZone	3
+Canary Wharf tube station	fareZone	2
+St Pancras railway station	fareZone	1
+West Ealing railway station	fareZone	3
+Greenwich station	fareZone	2
+North Greenwich tube station	fareZone	2
+Maze Hill railway station	fareZone	3
+Westcombe Park railway station	fareZone	3
+Bayswater tube station	fareZone	1
+Amersham station	fareZone	9
+Cockfosters tube station	fareZone	5
+London Victoria station	fareZone	1
+South Kensington tube station	fareZone	1
+Uxbridge tube station	fareZone	6
+Streatham Hill railway station	fareZone	3
+Battersea Park railway station	fareZone	2
+Osterley tube station	fareZone	4
+Highgate tube station	fareZone	3
+Watford tube station	fareZone	7
+Kew Gardens station	fareZone	3
+Richmond	fareZone	4
+Brixton tube station	fareZone	2
+Deptford Bridge DLR station	fareZone	2
+Deptford railway station	fareZone	2
+Cutty Sark for Maritime Greenwich DLR station	fareZone	2
+High Barnet tube station	fareZone	5
+Elephant & Castle tube station	fareZone	1
+Westminster tube station	fareZone	1
+Fenchurch Street railway station	fareZone	1
+Moorgate station	fareZone	1
+Kingsbury tube station	fareZone	4
+Neasden tube station	fareZone	3
+Swiss Cottage tube station	fareZone	2
+St. John's Wood tube station	fareZone	2
+Kilburn tube station	fareZone	2
+West Hampstead tube station	fareZone	2
+Wembley Park tube station	fareZone	4
+Willesden Green tube station	fareZone	2
+Finchley Road tube station	fareZone	2
+Bermondsey tube station	fareZone	2
+Bond Street tube station	fareZone	1
+Southwark tube station	fareZone	1
+Canada Water station	fareZone	2
+Queensbury tube station	fareZone	4
+Canons Park tube station	fareZone	5
+Canning Town station	fareZone	2
+West Ham station	fareZone	2
+Stratford station	fareZone	2
+Regent's Park tube station	fareZone	1
+Lambeth North tube station	fareZone	1
+Stanmore tube station	fareZone	5
+Maida Vale tube station	fareZone	2
+Kilburn Park tube station	fareZone	2
+Warwick Avenue tube station	fareZone	2
+Queen's Park	fareZone	2
+Edgware Road tube station	fareZone	1
+Euston tube station	fareZone	1
+Kensal Green station	fareZone	2
+Harlesden station	fareZone	3
+North Wembley station	fareZone	4
+Stonebridge Park station	fareZone	3
+South Kenton station	fareZone	4
+Kenton station	fareZone	4
+Willesden Junction station	fareZone	2
+Wembley Central station	fareZone	4
+Harrow & Wealdstone station	fareZone	5
+Borough tube station	fareZone	1
+Clapham North tube station	fareZone	2
+Stockwell tube station	fareZone	2
+Angel tube station	fareZone	1
+Goodge Street tube station	fareZone	1
+Kennington tube station	fareZone	2
+Warren Street tube station	fareZone	1
+Old Street station	fareZone	1
+Morden tube station	fareZone	4
+Hammersmith tube station	fareZone	2
+Earl's Court tube station	fareZone	1
+Rayners Lane tube station	fareZone	5
+Ealing Broadway station	fareZone	3
+Blackfriars station	fareZone	1
+Farringdon station	fareZone	1
+Crystal Palace railway station	fareZone	3
+Chancery Lane tube station	fareZone	1
+Hyde Park Corner tube station	fareZone	1
+St. Paul's tube station	fareZone	1
+Covent Garden tube station	fareZone	1
+Tower Hill tube station	fareZone	1
+Tower Gateway DLR station	fareZone	1
+Euston Square tube station	fareZone	1
+Shadwell railway station	fareZone	2
+Lewisham station	fareZone	2
+Aldgate tube station	fareZone	1
+Lancaster Gate tube station	fareZone	1
+Aldgate East tube station	fareZone	1
+Marble Arch tube station	fareZone	1
+Pimlico tube station	fareZone	1
+Queensway tube station	fareZone	1
+High Street Kensington tube station	fareZone	1
+Great Portland Street tube station	fareZone	1
+Sloane Square tube station	fareZone	1
+Russell Square tube station	fareZone	1
+Gloucester Road tube station	fareZone	1
+Temple tube station	fareZone	1
+Knightsbridge tube station	fareZone	1
+Mansion House tube station	fareZone	1
+Vauxhall station	fareZone	1
+St. James's Park tube station	fareZone	1
+Whitechapel station	fareZone	2
+Wapping railway station	fareZone	2
+Rotherhithe railway station	fareZone	2
+Barbican tube station	fareZone	1
+New Cross railway station	fareZone	2
+New Cross Gate railway station	fareZone	2
+Surrey Quays railway station	fareZone	2
+Shadwell DLR station	fareZone	2
+Heron Quays DLR station	fareZone	2
+City Thameslink railway station	fareZone	1
+London Waterloo East railway station	fareZone	1
+Kentish Town station	fareZone	2
+Chalfont & Latimer station	fareZone	8
+Watford Junction railway station	fareZone	W
+Custom House for ExCeL DLR station	fareZone	3
+Leyton tube station	fareZone	3
+Barons Court tube station	fareZone	2
+Brondesbury railway station	fareZone	2
+Streatham railway station	fareZone	3
+Dagenham East tube station	fareZone	5
+Clapham Common tube station	fareZone	2
+Clapham South tube station	fareZone	2
+Belsize Park tube station	fareZone	2
+Canary Wharf DLR station	fareZone	2
+Wimbledon station	fareZone	3
+Brixton railway station	fareZone	2
+Norbiton railway station	fareZone	5
+Clapham High Street railway station	fareZone	2
+South Bermondsey railway station	fareZone	2
+Wandsworth Road railway station	fareZone	2
+Denmark Hill railway station	fareZone	2
+Brockley railway station	fareZone	2
+Herne Hill railway station	fareZone	2
+Peckham Rye railway station	fareZone	2
+Queens Road Peckham railway station	fareZone	2
+Mile End tube station	fareZone	2
+Bow Road tube station	fareZone	2
+Stepney Green tube station	fareZone	2
+Bromley-by-Bow tube station	fareZone	2
+Gospel Oak railway station	fareZone	2
+Barking station	fareZone	4
+Woodford tube station	fareZone	4
+Crossharbour DLR station	fareZone	2
+Island Gardens DLR station	fareZone	2
+Southall railway station	fareZone	4
+Upton Park tube station	fareZone	3
+Kensington	fareZone	2
+Archway tube station	fareZone	2
+East Croydon station	fareZone	5
+East Ham tube station	fareZone	3
+Upminster station	fareZone	6
+Elm Park tube station	fareZone	6
+Upminster Bridge tube station	fareZone	6
+Hornchurch tube station	fareZone	6
+Dagenham Heathway tube station	fareZone	5
+Dagenham Dock railway station	fareZone	5
+Plaistow tube station	fareZone	3
+Becontree tube station	fareZone	5
+Upney tube station	fareZone	4
+Tufnell Park tube station	fareZone	2
+Grays railway station	fareZone	G
+Chafford Hundred Lakeside railway station	fareZone	G
+Purfleet railway station	fareZone	G
+Loughborough Junction railway station	fareZone	2
+Ockendon railway station	fareZone	G
+Emerson Park railway station	fareZone	6
+Tooting Bec tube station	fareZone	3
+Romford railway station	fareZone	6
+Belvedere railway station	fareZone	5
+Essex Road railway station	fareZone	2
+Drayton Park railway station	fareZone	2
+Ruislip tube station	fareZone	6
+Ruislip Gardens tube station	fareZone	5
+Beckton DLR station	fareZone	3
+Eastcote tube station	fareZone	5
+Mudchute DLR station	fareZone	2
+Northwick Park tube station	fareZone	4
+Northwood Hills tube station	fareZone	6
+Maryland railway station	fareZone	3
+Ilford railway station	fareZone	4
+Canary Wharf railway station	fareZone	2
+Erith railway station	fareZone	6
+Dartford railway station	fareZone	8
+Harold Wood railway station	fareZone	6
+Chadwell Heath railway station	fareZone	5
+Goodmayes railway station	fareZone	4
+Royal Albert DLR station	fareZone	3
+Coulsdon South railway station	fareZone	6
+Arnos Grove tube station	fareZone	4
+Southgate tube station	fareZone	4
+Edgware tube station	fareZone	5
+Chesham tube station	fareZone	9
+Plumstead railway station	fareZone	4
+Abbey Wood railway station	fareZone	4
+Leytonstone High Road railway station	fareZone	3
+Harringay railway station	fareZone	3
+Harringay Green Lanes railway station	fareZone	3
+Catford Bridge railway station	fareZone	3
+Acton Central railway station	fareZone	3
+Catford railway station	fareZone	3
+Acton Main Line railway station	fareZone	3
+Upper Holloway railway station	fareZone	2
+South Harrow tube station	fareZone	5
+Sudbury Hill tube station	fareZone	4
+Alperton tube station	fareZone	4
+Heathrow Terminals 2 & 3 tube station	fareZone	6
+Hounslow East tube station	fareZone	4
+Hounslow Central tube station	fareZone	4
+Hatton Cross tube station	fareZone	5
+Hounslow West tube station	fareZone	5
+Ealing Common tube station	fareZone	3
+Boston Manor tube station	fareZone	4
+Heathrow Terminal 4 tube station	fareZone	6
+Crouch Hill railway station	fareZone	3
+Brondesbury Park railway station	fareZone	2
+Birkbeck station	fareZone	4
+Camden Road railway station	fareZone	2
+Manor House tube station	fareZone	2
+Oakwood tube station	fareZone	5
+Wood Green tube station	fareZone	3
+Turnpike Lane tube station	fareZone	3
+Holloway Road tube station	fareZone	2
+Park Royal tube station	fareZone	3
+Royal Oak tube station	fareZone	2
+Putney Bridge tube station	fareZone	2
+Woodgrange Park railway station	fareZone	3
+Mill Hill East tube station	fareZone	4
+Walthamstow Queen's Road railway station	fareZone	3
+Wanstead Park railway station	fareZone	3
+Walthamstow Central station	fareZone	3
+Seven Sisters station	fareZone	3
+Blackhorse Road station	fareZone	3
+Poplar DLR station	fareZone	2
+South Quay DLR station	fareZone	2
+East India DLR station	fareZone	2
+Royal Victoria DLR station	fareZone	3
+West India Quay DLR station	fareZone	2
+Burnt Oak tube station	fareZone	4
+Colindale tube station	fareZone	4
+South Tottenham railway station	fareZone	3
+Hendon Central tube station	fareZone	3
+Brent Cross tube station	fareZone	3
+Blackwall DLR station	fareZone	2
+Hampstead tube station	fareZone	2
+South Ruislip station	fareZone	5
+Leyton Midland Road railway station	fareZone	3
+Manor Park railway station	fareZone	3
+Lee railway station	fareZone	3
+Rectory Road railway station	fareZone	2
+Leytonstone tube station	fareZone	3
+Northfields tube station	fareZone	3
+Prince Regent DLR station	fareZone	3
+Queenstown Road	fareZone	2
+Buckhurst Hill tube station	fareZone	5
+Loughton tube station	fareZone	6
+Caledonian Road & Barnsbury railway station	fareZone	2
+Golders Green tube station	fareZone	3
+Chingford railway station	fareZone	5
+Finchley Central tube station	fareZone	4
+Northumberland Park railway station	fareZone	3
+Tottenham Hale station	fareZone	3
+Latimer Road tube station	fareZone	2
+White City tube station	fareZone	2
+Wood Lane tube station	fareZone	2
+South Wimbledon tube station	fareZone	3
+South Ealing tube station	fareZone	3
+Petts Wood railway station	fareZone	5
+Orpington railway station	fareZone	6
+Snaresbrook tube station	fareZone	4
+Grange Hill tube station	fareZone	4
+Goldhawk Road tube station	fareZone	2
+All Saints DLR station	fareZone	2
+Hampstead Heath railway station	fareZone	2
+Chalk Farm tube station	fareZone	2
+Gidea Park railway station	fareZone	6
+Turnham Green tube station	fareZone	2
+Westbourne Park tube station	fareZone	2
+Chorleywood station	fareZone	7
+White Hart Lane railway station	fareZone	3
+Bruce Grove railway station	fareZone	3
+Clapton railway station	fareZone	2
+Highams Park railway station	fareZone	4
+Honor Oak Park railway station	fareZone	3
+Totteridge & Whetstone tube station	fareZone	4
+West Ruislip station	fareZone	6
+Pinner tube station	fareZone	5
+Beckenham Junction station	fareZone	4
+Northolt tube station	fareZone	5
+Greenford station	fareZone	4
+Gants Hill tube station	fareZone	4
+Pudding Mill Lane DLR station	fareZone	2
+Dalston Kingsland railway station	fareZone	2
+Epping tube station	fareZone	6
+Hanger Lane tube station	fareZone	3
+Perivale tube station	fareZone	4
+North Acton tube station	fareZone	2
+East Acton tube station	fareZone	2
+Holland Park tube station	fareZone	2
+Putney railway station	fareZone	2
+North Harrow tube station	fareZone	5
+West Harrow tube station	fareZone	5
+Harrow-on-the-Hill station	fareZone	5
+Hackney Central railway station	fareZone	2
+Wanstead tube station	fareZone	4
+Ickenham tube station	fareZone	6
+West Acton tube station	fareZone	3
+South Woodford tube station	fareZone	4
+Theydon Bois tube station	fareZone	6
+Wood Street railway station	fareZone	4
+Elverson Road DLR station	fareZone	2
+Bow Church DLR station	fareZone	2
+Devons Road DLR station	fareZone	2
+West Brompton station	fareZone	2
+Shepherd's Bush tube station	fareZone	2
+Shepherd's Bush Market tube station	fareZone	2
+Heathrow Terminal 5 station	fareZone	6
+Silver Street railway station	fareZone	4
+Gunnersbury station	fareZone	3
+Preston Road tube station	fareZone	4
+Chiswick Park tube station	fareZone	3
+West Finchley tube station	fareZone	4
+Sanderstead railway station	fareZone	6
+Caledonian Road tube station	fareZone	2
+Croxley tube station	fareZone	7
+Purley railway station	fareZone	6
+Berrylands railway station	fareZone	5
+Stratford International station	fareZone	2
+Gallions Reach DLR station	fareZone	3
+Cyprus DLR station	fareZone	3
+Beckton Park DLR station	fareZone	3
+Elmers End station	fareZone	4
+West Croydon station	fareZone	5
+Cheam railway station	fareZone	5
+Falconwood railway station	fareZone	4
+Rickmansworth station	fareZone	7
+Moor Park tube station	fareZone	6
+Ladbroke Grove tube station	fareZone	2
+Seven Kings railway station	fareZone	4
+Tooting Broadway tube station	fareZone	3
+Colliers Wood tube station	fareZone	3
+Woodside Park tube station	fareZone	4
+Reedham	fareZone	6
+Enfield Chase railway station	fareZone	5
+Ruislip Manor tube station	fareZone	6
+Hillingdon tube station	fareZone	6
+Eltham railway station	fareZone	4
+Kidbrooke railway station	fareZone	3
+Nunhead railway station	fareZone	2
+Wembley Stadium railway station	fareZone	4
+Sudbury & Harrow Road railway station	fareZone	4
+Sudbury Hill Harrow railway station	fareZone	4
+Northolt Park railway station	fareZone	5
+Forest Hill railway station	fareZone	3
+Coulsdon Town railway station	fareZone	6
+Hayes railway station	fareZone	5
+Barnehurst railway station	fareZone	6
+Imperial Wharf railway station	fareZone	2
+Welling railway station	fareZone	4
+Charlton railway station	fareZone	3
+Woolwich Dockyard railway station	fareZone	3
+Crofton Park railway station	fareZone	3
+St Johns railway station	fareZone	2
+Hackney Wick railway station	fareZone	2
+Homerton railway station	fareZone	2
+Canonbury railway station	fareZone	2
+Slade Green railway station	fareZone	6
+Streatham Common railway station	fareZone	3
+Sydenham	fareZone	3
+Penge West railway station	fareZone	4
+West Norwood railway station	fareZone	3
+Gipsy Hill railway station	fareZone	3
+Norwood Junction railway station	fareZone	4
+Anerley railway station	fareZone	4
+Tulse Hill railway station	fareZone	3
+Ladywell railway station	fareZone	3
+New Beckenham railway station	fareZone	4
+Lower Sydenham railway station	fareZone	4
+Feltham railway station	fareZone	6
+Clock House railway station	fareZone	4
+Eden Park railway station	fareZone	5
+West Wickham railway station	fareZone	5
+West Dulwich railway station	fareZone	3
+Sydenham Hill railway station	fareZone	3
+Chislehurst railway station	fareZone	5
+Bickley railway station	fareZone	5
+Bromley South railway station	fareZone	5
+Elmstead Woods railway station	fareZone	4
+Kent House railway station	fareZone	4
+Penge East railway station	fareZone	4
+Shortlands railway station	fareZone	4
+Hither Green railway station	fareZone	3
+Mottingham railway station	fareZone	4
+Bromley North railway station	fareZone	4
+Sundridge Park railway station	fareZone	4
+St Mary Cray railway station	fareZone	6
+Crayford railway station	fareZone	6
+Albany Park railway station	fareZone	5
+Bexley railway station	fareZone	6
+Sidcup railway station	fareZone	5
+New Eltham railway station	fareZone	4
+Ravensbourne railway station	fareZone	4
+Beckenham Hill railway station	fareZone	4
+Chelsfield railway station	fareZone	6
+Knockholt railway station	fareZone	6
+East Dulwich railway station	fareZone	2
+North Dulwich railway station	fareZone	2
+Thornton Heath railway station	fareZone	4
+Norbury railway station	fareZone	3
+Selhurst railway station	fareZone	4
+Wandsworth Common railway station	fareZone	3
+Finchley Road & Frognal railway station	fareZone	2
+Kentish Town West railway station	fareZone	2
+Haydons Road railway station	fareZone	3
+Wimbledon Chase railway station	fareZone	3
+Morden South railway station	fareZone	4
+Sutton	fareZone	5
+South Merton railway station	fareZone	4
+West Sutton railway station	fareZone	5
+Sutton Common railway station	fareZone	4
+St Helier railway station	fareZone	4
+South Acton railway station	fareZone	3
+Carshalton railway station	fareZone	5
+Hackbridge railway station	fareZone	4
+Tooting railway station	fareZone	3
+Cricklewood railway station	fareZone	3
+Waddon railway station	fareZone	5
+Carshalton Beeches railway station	fareZone	5
+Belmont railway station	fareZone	5
+Banstead railway station	fareZone	6
+Epsom Downs railway station	fareZone	6
+Earlsfield railway station	fareZone	3
+South Croydon railway station	fareZone	5
+Purley Oaks railway station	fareZone	6
+Ewell East railway station	fareZone	6
+Kenley railway station	fareZone	6
+Woodmansterne railway station	fareZone	6
+Riddlesdown railway station	fareZone	6
+Bethnal Green railway station	fareZone	2
+Cambridge Heath railway station	fareZone	2
+London Fields railway station	fareZone	2
+West Drayton railway station	fareZone	6
+Hayes & Harlington railway station	fareZone	5
+Hanwell railway station	fareZone	4
+Ewell West railway station	fareZone	6
+Stoneleigh railway station	fareZone	5
+Worcester Park railway station	fareZone	4
+Motspur Park railway station	fareZone	4
+Raynes Park railway station	fareZone	4
+Chessington North railway station	fareZone	6
+Tolworth railway station	fareZone	5
+Malden Manor railway station	fareZone	4
+Chessington South railway station	fareZone	6
+New Malden railway station	fareZone	4
+Surbiton railway station	fareZone	6
+Hampton Court railway station	fareZone	6
+Thames Ditton railway station	fareZone	6
+Wandsworth Town railway station	fareZone	2
+Barnes railway station	fareZone	3
+North Sheen railway station	fareZone	3
+Mortlake railway station	fareZone	3
+St Margarets	fareZone	4
+Whitton railway station	fareZone	5
+Hounslow railway station	fareZone	5
+Twickenham railway station	fareZone	5
+Isleworth railway station	fareZone	4
+Syon Lane railway station	fareZone	4
+Brentford railway station	fareZone	4
+Kew Bridge railway station	fareZone	3
+Chiswick railway station	fareZone	3
+Barnes Bridge railway station	fareZone	3
+Strawberry Hill railway station	fareZone	5
+Hampton Wick railway station	fareZone	6
+Kingston	fareZone	6
+Fulwell railway station	fareZone	6
+Teddington railway station	fareZone	6
+Hampton	fareZone	6
+Bexleyheath railway station	fareZone	5
+Hornsey railway station	fareZone	3
+Bowes Park railway station	fareZone	3
+Alexandra Palace railway station	fareZone	3
+Crews Hill railway station	fareZone	6
+Grange Park railway station	fareZone	5
+Palmers Green railway station	fareZone	4
+Winchmore Hill railway station	fareZone	4
+Gordon Hill railway station	fareZone	5
+New Southgate railway station	fareZone	4
+New Barnet railway station	fareZone	5
+Hadley Wood railway station	fareZone	6
+Oakleigh Park railway station	fareZone	4
+St James Street railway station	fareZone	3
+Brimsdown railway station	fareZone	5
+Enfield Town railway station	fareZone	5
+Bush Hill Park railway station	fareZone	5
+Angel Road railway station	fareZone	4
+Enfield Lock railway station	fareZone	6
+Ponders End railway station	fareZone	5
+Edmonton Green railway station	fareZone	4
+Stamford Hill railway station	fareZone	3
+Southbury railway station	fareZone	5
+Turkey Street railway station	fareZone	6
+Sudbury Town tube station	fareZone	4
+Wimbledon Park tube station	fareZone	3
+Parsons Green tube station	fareZone	2
+Fulham Broadway tube station	fareZone	2
+North Ealing tube station	fareZone	3
+East Putney tube station	fareZone	2
+Southfields tube station	fareZone	3
+West Kensington tube station	fareZone	2
+Stamford Brook tube station	fareZone	2
+Redbridge tube station	fareZone	4
+Newbury Park tube station	fareZone	4
+Fairlop tube station	fareZone	4
+Barkingside tube station	fareZone	4
+Ravenscourt Park tube station	fareZone	2
+Northwood tube station	fareZone	6
+Chigwell tube station	fareZone	4
+Hainault tube station	fareZone	4
+Kensal Rise railway station	fareZone	2
+South Hampstead railway station	fareZone	2
+Headstone Lane railway station	fareZone	5
+Kilburn High Road railway station	fareZone	2
+Hendon railway station	fareZone	3
+Mill Hill Broadway railway station	fareZone	4
+Forest Gate railway station	fareZone	3
+Elstree & Borehamwood railway station	fareZone	6
+Hatch End railway station	fareZone	6
+Castle Bar Park railway station	fareZone	4
+South Greenford railway station	fareZone	4
+Drayton Green railway station	fareZone	4
+Swanley railway station	fareZone	8
+Rye House railway station	fareZone	B
+Theobalds Grove railway station	fareZone	7
+St Margarets	fareZone	B
+Broxbourne railway station	fareZone	B
+Cheshunt railway station	fareZone	8
+Ware railway station	fareZone	B
+Waltham Cross railway station	fareZone	7
+Hertford East railway station	fareZone	B
+Upper Warlingham railway station	fareZone	6
+Whyteleafe railway station	fareZone	6
+Caterham railway station	fareZone	6
+Whyteleafe South railway station	fareZone	6
+Tattenham Corner railway station	fareZone	6
+Bushey railway station	fareZone	8
+Watford High Street railway station	fareZone	8
+Dalston Junction railway station	fareZone	2
+Hammersmith tube station	fareZone	2
+London City Airport DLR station	fareZone	3
+Brentwood railway station	fareZone	9
+Pontoon Dock DLR station	fareZone	3
+King George V DLR station	fareZone	3
+West Silvertown DLR station	fareZone	3
+Shenfield railway station	fareZone	C
+West Hampstead Thameslink railway station	fareZone	2
+Carpenders Park railway station	fareZone	7
+Lea Bridge railway station	fareZone	3
+Heathrow Terminal 4 railway station	fareZone	6
+Langdon Park DLR station	fareZone	2
+Haggerston railway station	fareZone	2
+Hoxton railway station	fareZone	1
+Shoreditch High Street railway station	fareZone	1
+Kingswood railway station	fareZone	6
+Balham station	fareZone	3
+Tadworth railway station	fareZone	6
+Edgware Road tube station	fareZone	1
+New Bermondsey railway station	fareZone	2
+Chipstead railway station	fareZone	6
+Abbey Road DLR station	fareZone	2
+Stratford High Street DLR station	fareZone	2
+Star Lane DLR station	fareZone	2
+Elephant & Castle railway station	fareZone	1
+Mitcham Eastfields railway station	fareZone	3
+Woolwich railway station	fareZone	4
+West Hampstead railway station	fareZone	2
+King's Road Chelsea railway station	fareZone	1
+Nine Elms tube station	fareZone	1
+Debden tube station	fareZone	6
+Battersea Power Station tube station	fareZone	1
+Rainham	fareZone	6
+Shepherd's Bush railway station	fareZone	2
+Euston St. Pancras railway station	fareZone	1
+Dalston	fareZone	2

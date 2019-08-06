@@ -1,0 +1,420 @@
+Belfast	irishName	Béal Feirste
+Derry	irishName	Doire/Doire Cholmcille
+Enniskillen	irishName	Inis Ceithleann
+Lisnaskea	irishName	Lios na Scéithe
+Carrickfergus	irishName	Carraig Ḟearġais
+Carrickfergus	irishName	Carraig Fhearghais
+Omagh	irishName	An Ómaigh
+Ballycastle, County Antrim	irishName	Baile an Chaistil
+Rathlin Island	irishName	Reachlainn
+Downpatrick	irishName	Dún Phádraig
+Cookstown	irishName	An Chorr Chríochach
+Limavady	irishName	Léim a' Mhadaidh
+Newcastle, County Down	irishName	An Caisleán Nua
+Newtownards	irishName	Baile Nua na hArda
+Strabane	irishName	an Srath Bán
+Castlereagh	irishName	An Caisleán Riabhach
+Glengormley	irishName	Gleann Ghormlaithe
+Lurgan	irishName	an Lorgain
+Newry	irishName	Iúr Cinn Trá or An tIúr
+Portadown	irishName	Port a' Dúnáin
+Lisburn	irishName	Lios na gCearrbhach
+Craigavon	irishName	Creag Abhann
+Larne	irishName	Latharna
+Ballyclare	irishName	Bealach Cláir
+Dungiven	irishName	Dún Geimhin
+Bushmills	irishName	Muileann na Buaise
+Coleraine	irishName	Cúil Rathain
+Bangor, County Down	irishName	Beannchar
+Dundrum, County Down	irishName	Dún Droma
+Portrush	irishName	Port Rois
+Portstewart	irishName	Port Stíobhaird
+Castlederg	irishName	Caisleán na Deirge
+Ardglass	irishName	Ard Ghlais
+Portaferry	irishName	Port an Pheire
+Warrenpoint	irishName	Rinn Mhic Giolla Rua  or
+Warrenpoint	irishName	An Phointe
+Kilkeel	irishName	Cill Chaoil
+Coalisland	irishName	Oileán an Ghuail
+Moneymore	irishName	Muine Mór
+Comber	irishName	an Comar
+Irvinestown	irishName	Baile an Irbhinigh
+Rostrevor	irishName	Caislean Ruairi
+Carnmoney	irishName	Carn Monaidh
+Draperstown	irishName	Baile na Croise
+Armagh	irishName	Ard Mhacha
+Dungannon	irishName	Dún Geanainn
+Hillsborough, County Down	irishName	Cromghlinn
+Crossmaglen	irishName	Crois Mhic Lionnáin
+Maghera	irishName	Machaire Rátha
+Bessbrook	irishName	An Sruthán
+Holywood	irishName	Ard Mhic Nasca
+Ballynahinch, County Down	irishName	Baile na hInse
+Tullyhogue	irishName	Tulaigh Óg
+Magilligan	irishName	Ard Mhic Giollagáin
+Crossgar	irishName	an Chrois Ghearr
+Castlewellan	irishName	Caisleán Uidhilín
+Clogher	irishName	Clochar
+Crumlin, County Antrim	irishName	Cromghlinn
+Dromore, County Tyrone	irishName	Droim Mór
+Fivemiletown	irishName	Baile na Lorgan
+Broughshane	irishName	Bruach Sheáin
+Saintfield	irishName	Tamhnaigh Naomh
+Ballintoy	irishName	Baile an Tuaigh
+Newtownabbey	irishName	Baile Nua na Mainistreach
+Antrim, County Antrim	irishName	Aontroim
+Ballymena	irishName	an Baile Meánach
+Ballymoney	irishName	Baile Monaidh
+Magherafelt	irishName	Machaire Fíolta
+Islandmagee	irishName	Oileán Mhic Aodha
+Donemana	irishName	Dún na Manach
+Tobergill	irishName	An Tobar Geal
+Templepatrick	irishName	Teampall Phádraig
+Dunadry	irishName	Dún Eadradh
+Dunamuggy	irishName	Dún na mBogach
+Benburb	irishName	Beann Bhorb
+Derrygonnelly	irishName	Doire Ó gConaíle
+Fintona	irishName	Fionntamhnach
+Dromore, County Down	irishName	Droim Mór
+Mayobridge	irishName	Droichead Mhaigh Eo
+Derrylin	irishName	Doire Loinn
+Greenisland	irishName	Inis Glas
+Moy, County Tyrone	irishName	An Mhaigh
+Mazetown	irishName	an Mhaigh
+Hilltown, County Down	irishName	Baile Hill
+Belleek, County Fermanagh	irishName	Béal Leice
+Whitehead, County Antrim	irishName	an Cionn Bán
+Brookeborough	irishName	Achadh Lon
+Portglenone	irishName	Port Chluain Eoghain
+Castle Coole	irishName	Caisleán na Cúile
+Letterbreen	irishName	Leitir Bhruín
+Castledawson	irishName	An Seanmhullach
+Millisle	irishName	Oileán an Mhuilinn
+Glenarm	irishName	Gleann Arma
+Dundonald	irishName	Dún Dónaill
+Ballykelly, County Londonderry	irishName	Baile Uí Cheallaigh
+Swatragh	irishName	an Suaitreach
+Groomsport	irishName	Port an Ghiolla Ghruama
+Castlerock	irishName	Carraig Ceasail
+Ballela	irishName	Baile Ailigh
+Kinallen	irishName	Cionn Álainn
+Portavogie	irishName	Port a' Bhogaigh
+Bleary	irishName	Bladhraigh
+Newbuildings	irishName	An Baile Nua
+Seskinore	irishName	Seisceann Mhór
+Beragh	irishName	Bearach
+Drumquin	irishName	Droim Caoin
+Gortin	irishName	an Goirtín
+Sixmilecross	irishName	Na Corracha Mora
+Tullywiggan	irishName	Tulach an Bhogain
+Loughinisland	irishName	Loch an Oileáin
+Strangford	irishName	Baile Loch Cuan
+Arney	irishName	an Arna
+Eskra	irishName	Eiscreach
+Rasharkin	irishName	Ros Earcáin
+Dunloy	irishName	Dún Lathai
+Forkhill	irishName	Foirceal
+Keady	irishName	an Céide
+Helen's Bay	irishName	Cuan Héilin
+Loughgall	irishName	Loch gCál
+Coagh	irishName	an Cuach
+Poleglass	irishName	Poll Glas
+Boho, County Fermanagh	irishName	Botha
+Rathfriland	irishName	Ráth Fraoileann
+Shantallow	irishName	Seantalamh
+Tattyreagh	irishName	An Táite Riabhach meaning the striped/tabby field
+Eglinton, County Londonderry	irishName	An Mhagh
+Ballinamallard	irishName	Béal Átha na Mallacht
+Claudy	irishName	Clóidigh
+Aghagallon	irishName	Achadh Gallan
+Ballygowan	irishName	Baile Mhic Gabhann
+Aghalee	irishName	Achadh Lí
+Annahilt	irishName	Eanach Eilte
+Aughnacloy, County Tyrone	irishName	Achadh na Cloiche
+Ballycarry	irishName	Baile Caraidh
+Derrymacash	irishName	Doire Mhic Cais
+Ballygawley, County Tyrone	irishName	Baile Uí Dhálaigh
+Ballyhalbert	irishName	Baile Thalbóid
+Ballystrudder	irishName	Baile Strudair
+Ballywalter	irishName	Baile Bháltair
+Bellaghy	irishName	Baile Eachaidh
+Belcoo	irishName	Béal Cú
+Bellanaleck	irishName	Bealach na Leice
+Camlough	irishName	Camloch
+Carnlough	irishName	Carnlach
+Cloughmills	irishName	Muileann na Cloiche
+Kells, County Antrim	irishName	Na Cealla
+Crawfordsburn	irishName	Sruth Chráfard
+Cushendall	irishName	Cois Abhann Dalla or
+Cushendall	irishName	Bun Abhann Dalla
+Greyabbey	irishName	Mainistir Liath
+Cushendun	irishName	Cois Abhann Duinne or
+Cushendun	irishName	Bun Abhann Duinne
+Dervock	irishName	Dearbhóg/Dairbheog
+Darkley	irishName	Dearclaigh
+Donaghcloney	irishName	Domhnach Cluana
+Dromara	irishName	Droim mBearach
+Drumbeg	irishName	An Droim Beag
+Ederny	irishName	Eadarnaidh
+Feeny	irishName	Na Fíneadha
+Florencecourt	irishName	Mullach na Seangán
+Garrison, County Fermanagh	irishName	an Garastún
+Garvagh	irishName	Garbhachadh
+Glenavy	irishName	Lann Abhaigh
+Greysteel	irishName	Glas-stiall
+Hamiltonsbawn	irishName	Bábhún Hamaltún
+Ballymoyer	irishName	Baile an Mhaoir
+Kesh, County Fermanagh	irishName	an Cheis
+Killough	irishName	Cill Locha
+Kilrea	irishName	Cill Ria
+Laurelvale	irishName	Tamhnaigh Bhealtaine
+Lettershandoney	irishName	Leitir Seanduine
+Lisbellaw	irishName	Lios Béal Átha
+Lisnarick, County Fermanagh	irishName	Lios na nDaróg
+Loughbrickland	irishName	Loch Bricleann
+Macosquin	irishName	Maigh Choscáin
+Maguiresbridge	irishName	Droichead Mhig Uidhir
+Markethill	irishName	Cnoc an Mhargaidh
+Moira, County Down	irishName	Maigh Rath
+Moygashel	irishName	Maigh gCaisil
+Newtownbutler	irishName	an Baile Nua
+Newtownhamilton	irishName	An Baile Úr
+Pomeroy, County Tyrone	irishName	Cabhán a' Chaorthainn
+Portballintrae	irishName	Port Bhaile an Trá
+Richhill, County Armagh	irishName	Log a' Choire
+Rosslea	irishName	Ros Liath
+Seahill	irishName	Cnoc Muir
+Sion Mills	irishName	Muileann an tSiáin
+Scarva	irishName	Scarbhach
+Stewartstown, County Tyrone	irishName	An Chraobh
+Strathfoyle	irishName	Srath na Feabhail
+Tempo, County Fermanagh	irishName	an tIompú Deiseal
+Tobermore	irishName	An Tobar Mór
+Toome	irishName	Tuaim
+Aughey	irishName	Achadh Aodha
+Tynan	irishName	Tuíneán
+Andersonstown	irishName	Baile Andarsan or
+Andersonstown	irishName	Baile Mhic Aindréis
+Middletown, County Armagh	irishName	Coillidh Chanannáin
+Upperlands	irishName	Áth an Phortáin
+Loughguile	irishName	Loch gCaol
+Tullylish	irishName	Tulaigh Lis
+Waringsford	irishName	Áth an Bhairínigh
+Maydown	irishName	Magh Dúin
+Acton, County Armagh	irishName	An Chora Uachtarach
+Killead	irishName	Cill Éad
+Balloo, County Down	irishName	Baile Aodha
+Derryhale	irishName	Doire Chaol
+Mountnorris	irishName	Achadh na Cranncha
+Leitrim, County Down	irishName	Liatroim
+Corbet	irishName	An Carbad
+Tamnaherin	irishName	Tamhnach Caorthainn
+Straidarran	irishName	Sráid Uí Áráin
+Park, County Londonderry	irishName	An Pháirc
+Scotch Street	irishName	Sráid na nAlbanach
+Ballykinler	irishName	Baile Coinnleora
+Augher	irishName	Eochair
+Caledon, County Tyrone	irishName	Cionn Aird
+Ballycassidy	irishName	Baile Uí Chaiside
+Laragh	irishName	Lathrach
+Trory	irishName	Treabhraigh
+Holywell, County Fermanagh	irishName	Dabhach Phádraig
+Clabby	irishName	Clabaigh
+Donagh	irishName	Domhnach
+Killadeas	irishName	Cill Chéile Dé
+Kinawley	irishName	Cill Náile
+Lack, County Fermanagh	irishName	An Leac
+Monea	irishName	Maigh Niadh
+Tamlaght, County Fermanagh	irishName	Tamhlacht
+Teemore	irishName	an Tigh Mór
+Mullaghboy	irishName	Mullach Buidhe
+Drumbo	irishName	Druim Bó
+Edenderry, County Down	irishName	Éadan Doire
+Tullynacross	irishName	Tulaigh na Croise
+Knockloughrim	irishName	Cnoc Clochdroma
+Moneyneany	irishName	Móin na nIonadh
+Armoy, County Antrim	irishName	Oirthear Maí
+Atticall	irishName	Áit Tí Chathail
+Belleeks	irishName	Béal Leice
+Cullaville	irishName	Baile Mhic Cullach
+Jonesborough, County Armagh	irishName	Baile an Chláir
+Whitecross, County Armagh	irishName	Corr Leacht
+Silverbridge, County Armagh	irishName	Béal Átha an Airgid
+Dooish	irishName	Dubhais
+Ardstraw	irishName	Ard Sratha
+Killen, County Tyrone	irishName	Cillín
+Killeter	irishName	Coill Íochtair
+Victoria Bridge, County Tyrone	irishName	Droichead Victoria
+Burren, County Down	irishName	an Bhoirinn
+Blaney	irishName	Bléinigh
+Finaghy	irishName	an Fionnachadh
+Aghadrumsee	irishName	Achadh Dhruim Saileach
+Derrynoose	irishName	Doire Núis
+Dunmurry	irishName	Dún Muirígh
+Ballymaguigan	irishName	Baile Mhic Uiginn
+Ballyronan	irishName	Baile uí Rónáin
+Ardboe	irishName	Ard Bó
+Drumkee	irishName	Druim Ceath
+Aughnacloy, County Down	irishName	Áth na Cloiche
+Ballerin	irishName	Baile Uí Shírín / Baile Iarainn
+Creeveroe	irishName	an Chraobh Rua
+Benraw	irishName	Beann Rátha
+Killyman	irishName	Cill na mBan
+Carnteel	irishName	Carn tSiadhail
+Tamnamore	irishName	An Tamhnach Mhór
+Derryneill	irishName	Doire Néill
+Mullaghbawn	irishName	an Mullach Bán
+Carnalea	irishName	Carnan Lao
+Granemore	irishName	Grainseach mor
+Bryansford	irishName	Áth Bhriain
+Banbridge	irishName	Droichead na Banna
+Knockmoyle	irishName	Cnoc Maol
+Killean, County Armagh	irishName	Cillín
+Kilcoo, County Down	irishName	Cill Chua
+Drummullan	irishName	Druim Maoláin
+Buckna	irishName	Bochnach
+Prehen	irishName	Preachan
+Randalstown	irishName	Baile Raghnail
+Shanvey	irishName	Sean-bheith
+Trillick	irishName	Trileac
+Annaclone	irishName	Eanach Luain
+Ringsend, County Londonderry	irishName	An Rinn
+Cabra, County Down	irishName	Cabrach
+Derrycrew	irishName	Doire craobh
+Tievenadarragh	irishName	Taobh na Darach
+Ballyhornan	irishName	baile an eoirna the town land of the barley
+Ballyharry	irishName	Baile h-Araidh
+Ringhaddy	irishName	Rinn an Chadaigh
+Listooder	irishName	Lios an tSúdaire
+Glenullin	irishName	Gleann an Iolar
+Acravally	irishName	Acra Bhile
+Aghacarnaghan	irishName	Achadh Carnánach
+Aghacully	irishName	Achadh Coille
+Aghaloughan	irishName	Achadh an Locháin
+Aghalislone	irishName	Achadh Lis Luain
+Annaghmore, County Antrim	irishName	Eanach Mór
+Antiville, County Antrim	irishName	An Tigh Bhile
+Aghancrossy	irishName	Achadh na Croise
+Artnagross	irishName	Ard na gCros
+Aghnahough	irishName	Achadh na gCloch
+Aughareamlagh	irishName	Achadh Ramalach
+Aughaboy	irishName	Achadh Buí
+Ballaghbeddy	irishName	Bealach Beadaidhe
+Ballaghmore	irishName	Bealach Mór
+Ault, Northern Ireland	irishName	Allt
+Unshinagh Mountain	irishName	Sliabh Uinseannach
+Ballyboley	irishName	Baile na Buaile
+Ballybentragh	irishName	Baile Beanntrach
+Ballycloghan	irishName	Baile Clochán
+Ballycollin	irishName	Baile Ui Coilein
+Ballyclaverty	irishName	Baile Mhic Laibheartaigh
+Ballycushan	irishName	Baili Cuisin
+Ballydivity	irishName	Baile Mhic Duibhidighe
+Ballydown, County Down	irishName	Baile an Dúin
+Ballyconagan	irishName	Baile Coinneagain
+Ballygobbin	irishName	Baile Ghobain
+Aghacommon	irishName	Achadh Camán
+Braniel	irishName	an Braineal
+Killeaton	irishName	Coill Eatain
+Corkey	irishName	Corcaigh
+Tattykeeran, County Fermanagh	irishName	Taite an Chaorthainn
+Branny	irishName	Brannaidh
+Tullynakill	irishName	Tulaigh na Cille
+Leitrim, County Antrim	irishName	Liatroim
+Hannahstown	irishName	Baile Haine
+Kilmore, County Down	irishName	an Chill Mhór
+Churchtown, County Tyrone	irishName	Baile an Teampaill
+Ardtole	irishName	Ard Tuathail
+Ringfad	irishName	An Rinn Fhada
+Ballynafern	irishName	Baile na Fearna
+Ballynafoy	irishName	Baile na Faiche
+Ballynagross	irishName	Baile na gCros
+Lisnasliggan	irishName	Lios na Sliogán
+Derrylough, County Down	irishName	Doire Locha
+Ballynanny	irishName	Bealach an Eanaigh
+Ballysheil, County Down	irishName	Baile Uí Shiail
+Ardbrin	irishName	Árd Brain
+Derrybrusk	irishName	Doire Broscaidh
+Lisoneill	irishName	Lios Uí Néill
+Lisnarick, County Antrim	irishName	Lios na Reach
+Derryvullan	irishName	Doire Mhaoláin
+Ballyboley	irishName	Baile na Buaile
+Ballyboley, County Down	irishName	Baile na Buaile
+Derriaghy	irishName	Doire Achaidh
+Magherally	irishName	An Mhachaire Abhlaí
+Islandreagh, County Antrim	irishName	An tOileán Riabhach
+Loughermore, County Antrim	irishName	An Luachair Mhór
+Moyadam	irishName	Maigh Doinn
+Rathbeg, County Antrim	irishName	An Ráth Beag
+Ballydown, County Antrim	irishName	Baile an Dún
+Carnspindle	irishName	Carn Spinnil
+Dundressan	irishName	Dun Dreasán
+Portmuck	irishName	Port Muc
+Magheraculmoney	irishName	Machaire Cul Muine
+Aghavea	irishName	Achadh Bheithe
+Ballaghgee Glebe	irishName	Bealach Gaoíthe
+Derrynacrannog Glebe	irishName	Doire na Crannóg
+Oughterdrum	irishName	Uachtar-druim
+Tullychurry	irishName	Tulaigh Churraigh
+Mallybreen	irishName	Malaidhe Bhraoin
+Tawnaghgorm, County Fermanagh	irishName	Tamhnach Gorm
+Lowerybane	irishName	Leamhraidhe
+Derrykeighan	irishName	Doire Chaocháin
+Islandahoe	irishName	Oileán Dá Eo
+Mostragee	irishName	Maighistir Gaoithe
+Lisbunny, County Londonderry	irishName	Lios Buinighe
+Ballyrory, County Londonderry	irishName	Baile-Rudhraighe
+Altaghoney	irishName	Alt a Chonnaidh
+Gortnaran	irishName	Gort na Rann
+Broughderg, County Tyrone	irishName	Bruach Dearg
+Bockets	irishName	Buacaide
+Cranlome	irishName	Crann Lom
+Farriter	irishName	Fearan Iochtrach
+Tullyvannon	irishName	Tul an Bheannain
+Lurgacullion	irishName	Lurg a chuilinn
+Mullyroddan	irishName	Mullagh Rodain
+Dergenagh	irishName	Dearganach
+Aghaginduff	irishName	Achadh Cinn Duibh
+Cabragh	irishName	An Chabrach
+Glencull	irishName	Gleann Choill
+Ballymore, County Armagh	irishName	An Baile Mór
+Levalleglish	irishName	Leath-baile Eaglaise
+Turcarra	irishName	Tor carrach
+Clonmain	irishName	Cluain Meadhoin
+Fernagreevagh	irishName	Fearann na gcraobhach
+Annaghmore, County Armagh	irishName	Eanach Mór
+Aghinlig	irishName	Achadh an luig
+Ballytyrone	irishName	Baile Tíre Eoghain
+Causanagh	irishName	Cois-eanach
+Kishaboy	irishName	Ceasach buidhe
+Rathdrumgran	irishName	Rath druim gráine
+Mullanasilla	irishName	Mullach na Saileach
+Tirmacrannon	irishName	Tír mic Rannáin
+Lislasly	irishName	Lios Lasly
+Ballygasey	irishName	Baile ua gcathasaigh
+Annaghmacmanus	irishName	Eanach mic Maghnusa
+Altaturk	irishName	Alt a tuirc
+Eagralougher	irishName	Eagar a lochain
+Lisneany	irishName	Lios an aonaigh
+Derrycoose	irishName	Doire cuais
+Ballyargan	irishName	Baile argain
+Demoan	irishName	Déagh-Móin
+Federnagh	irishName	An Fheadarnach
+Monclone	irishName	Mion-cluain
+Shaneglish	irishName	Sean-eglis
+Tullylinn	irishName	Tulaigh linne
+Lisnagree, County Armagh	irishName	Lios na gcroidhe
+Druminargal, County Armagh	irishName	Druim Argain
+Tannyoky	irishName	Tamnach O'Ciaidh
+Carrickbrack, County Armagh	irishName	Carraig Bhreac
+Cavanakill	irishName	Cabhan na Cille
+Ballynaleck, County Armagh	irishName	Baile na Leac
+Skegatillida	irishName	Sceitheog an tSeilide
+Drumnaglontagh	irishName	Dromann na gCluainte
+Killaney	irishName	Cill Eanaigh
+Blaris	irishName	Bláras
+Legacurry, County Down	irishName	Lag an Choire
+Legacurry, County Antrim	irishName	Lag an Choire
+Maghera, County Down	irishName	Machaire Rátha
+Kilclief	irishName	Cill Cleithe
+Brannock, County Armagh	irishName	Bran Cnoc

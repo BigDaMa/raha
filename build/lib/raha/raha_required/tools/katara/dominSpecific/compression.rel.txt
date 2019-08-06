@@ -1,0 +1,223 @@
+Ford Essex V4 engine	compression	7.7
+Ford Windsor engine	compression	9
+GM Ecotec engine	compression	8.8
+GM Ecotec engine	compression	9.5
+GM Ecotec engine	compression	10
+GM Ecotec engine	compression	9.2
+GM Ecotec engine	compression	10.4
+GM Ecotec engine	compression	11.2
+GM Ecotec engine	compression	11.4
+GM Ecotec engine	compression	11.3
+Chrysler 2.2 & 2.5 engine	compression	8.1
+Chrysler 2.2 & 2.5 engine	compression	8.5
+Chrysler 2.2 & 2.5 engine	compression	8.9
+Chrysler 2.2 & 2.5 engine	compression	9
+Chrysler 2.2 & 2.5 engine	compression	9.5
+Chrysler Slant-6 engine	compression	8.2
+W8 engine	compression	10.8
+VR6 engine	compression	10.8
+VR6 engine	compression	11.3
+VR6 engine	compression	12
+LS based GM small-block engine	compression	10
+LS based GM small-block engine	compression	11
+LS based GM small-block engine	compression	11.5
+Chevrolet 2300 engine	compression	8
+Iron Duke engine	compression	8.2
+Chevrolet straight-6 engine	compression	6.5
+Chevrolet straight-6 engine	compression	6.6
+Chevrolet straight-6 engine	compression	7
+Jaguar AJ-V6 engine	compression	10.3
+Jaguar AJ-V6 engine	compression	10.75
+GM High Feature engine	compression	10.3
+GM High Value engine	compression	9.8
+Ford Essex V6 engine	compression	8
+Ford Essex V6 engine	compression	8.9
+Ford Essex V6 engine	compression	9
+Ford Essex V6 engine	compression	9.1
+Ford Essex V6 engine	compression	9.5
+Ford Essex V6 engine	compression	10
+Ford SHO V8 engine	compression	10
+General Motors Atlas engine	compression	10
+General Motors 54° V6 engine	compression	10.8
+General Motors 54° V6 engine	compression	10
+Cadillac V16 engine	compression	5.3
+General Motors 122 engine	compression	9
+Ford straight-six engine	compression	8.7
+Ford straight-six engine	compression	9.1
+Powertec RPA	compression	2.7
+Powertec RPA	compression	3.2
+Lamborghini V10	compression	5
+Lamborghini V10	compression	5.2
+Lamborghini V12	compression	6.2
+Lamborghini V12	compression	6.5
+BMW M21	compression	22
+BMW M51	compression	22
+BMW M57	compression	165
+Hyundai Beta engine	compression	9.2
+Hyundai Alpha engine	compression	G4EK: 10.0:1
+Hyundai Alpha engine	compression	G4EK Turbo: 7.50:1
+Hyundai Alpha engine	compression	G4ED: 10.0:1
+Circle L engine	compression	16.5
+Lancia V4 engine	compression	9
+Hyundai Theta engine	compression	10.5
+Hyundai Theta engine	compression	10.3
+Riley Pathfinder	compression	6.9
+Riley RM	compression	6.9
+Mercedes-Benz OM617	compression	21
+GM Family 1 engine	compression	8.6
+GM Family 1 engine	compression	9.5
+GM Family 1 engine	compression	9.8
+GM Family 1 engine	compression	10.5
+Mercedes-Benz M104 engine	compression	9.2
+EMD 645	compression	14.5
+Willys Go Devil engine	compression	6.48
+Chrysler Hemi engine	compression	10.25
+Chrysler Hemi engine	compression	9.5
+Chrysler Hemi engine	compression	9.6
+Chrysler Hemi engine	compression	10.3
+Chrysler Hemi engine	compression	10.9
+Honda K engine	compression	See left for specific application.
+Honda K engine	compression	10
+Honda K engine	compression	8.8
+JTD engine	compression	16.8
+JTD engine	compression	17.6
+JTD engine	compression	16.5
+JTD engine	compression	15.5
+JTD engine	compression	185
+Suzuki G engine	compression	from 8.3:1 to 9.8:1
+Nissan MR engine	compression	15.6
+FMR Tg500	compression	6.5
+Swallow Doretti	compression	8.5
+List of VM Motori engines	compression	15.5
+BMW S85	compression	12
+Volkswagen G60 engine	compression	8
+Triumph V8	compression	8.8
+Austin 16 hp	compression	6.85
+Ford Duratec V6 engine	compression	10
+Jeep Tornado engine	compression	8.5
+Armstrong Siddeley Sapphire	compression	7.5
+Bentley 8 Litre	compression	5
+Chrysler SOHC V6 engine	compression	9.5
+Chrysler SOHC V6 engine	compression	9.9
+Chrysler SOHC V6 engine	compression	10
+Chrysler SOHC V6 engine	compression	10.1
+Chrysler SOHC V6 engine	compression	10.3
+Chrysler SOHC V6 engine	compression	10.4
+Detroit Diesel V8 engine	compression	21.5
+GM Family II engine	compression	8
+GM Family II engine	compression	9.2
+GM Family II engine	compression	9.5
+GM Family II engine	compression	10
+Daimler V8 engines	compression	4
+Daimler V8 engines	compression	2
+Daimler Majestic Major	compression	8
+Alfa Romeo V6 engine	compression	8
+Renault K-Type engine	compression	15.2
+Renault R-Type engine	compression	15.4
+Renault G-Type engine	compression	23
+Renault G-Type engine	compression	22
+Renault G-Type engine	compression	18
+Renault G-Type engine	compression	17.1
+Daimler Majestic	compression	7.5
+Chrysler Pentastar engine	compression	10.7
+Chrysler Pentastar engine	compression	10.2
+Volkswagen air-cooled engine	compression	5.8
+Volkswagen air-cooled engine	compression	7
+Volkswagen air-cooled engine	compression	77
+Volkswagen air-cooled engine	compression	7.8
+AMC straight-4 engine	compression	9.1
+Toyota F engine	compression	6.8
+Toyota F engine	compression	7.8
+Toyota F engine	compression	8.1
+Tatra 813	compression	16.5
+Tatra 148	compression	16.5
+Toyota GZ engine	compression	10.5
+Daimler DR450	compression	8
+Wolseley Hornet six	compression	unknown,
+BMW S65	compression	12
+Mazda FE-DOHC engine	compression	8.8
+Mercedes-Benz OM603	compression	22
+Volvo B8444S engine	compression	10.4
+Toyota Type A engine	compression	6.4
+Toyota Type A engine	compression	6.5
+Toyota AD engine	compression	15.8
+Toyota AD engine	compression	15.7
+Volkswagen D24TIC engine	compression	23
+Volkswagen D24T engine	compression	23
+Volkswagen D24 engine	compression	23.5
+Tatra 111	compression	16.5
+Tatra 603	compression	6.5
+Tatra 603	compression	8.2
+Tatra 138	compression	16.5
+Volvo FE	compression	18
+Alvis TA 14	compression	6.9
+Daimler Regency	compression	6.5
+Daimler DK400	compression	6.53
+Mercedes-Benz OM642	compression	18
+Chrysler A57 multibank	compression	6.2
+Ford GAA engine	compression	7.5
+Toyota C engine	compression	23
+General Motors 90° V6 engine	compression	11
+Toyota AR engine	compression	10
+Toyota AR engine	compression	10.4
+Duesenberg Straight-8 engine	compression	5.7
+Ford EcoBoost engine	compression	V6 3.5: 10.0:1
+Ford EcoBoost engine	compression	I4 2.0: 10.0:1
+Ford EcoBoost engine	compression	I4 1.6: 10.0:1
+Daimler Consort	compression	7
+Hyundai Kappa engine	compression	atkinson-cycle
+Mazda L engine	compression	9.7
+Mazda L engine	compression	10
+BMW Goldfish V16	compression	8.8
+IKCO EF Engines	compression	9.8
+Tatra 810	compression	18
+Mercedes-Benz OM606 engine	compression	22
+Mercedes-Benz OM605 engine	compression	22
+Mercedes-Benz OM604 engine	compression	22
+Daimler New Fifteen	compression	6.5
+Hyundai Gamma engine	compression	10.5
+Hyundai Gamma engine	compression	11
+Hyundai Gamma engine	compression	12
+Hyundai Gamma engine	compression	9.5
+Hyundai Nu engine	compression	1.8
+Hyundai Nu engine	compression	2
+SkyActiv	compression	13
+SkyActiv	compression	14
+D-400 engine	compression	4.5
+GM small gasoline engine	compression	10
+Daimler Fifteen	compression	6.5
+Lanchester Ten	compression	7.4
+Lanchester Ten	compression	6.25
+18	compression	5.5
+Lanchester Fourteen	compression	6.5
+Lanchester Fourteen	compression	6.7
+Mercedes-Benz OM651 engine	compression	16.2
+Toyota W engine	compression	17.9
+Vauxhall Cadet	compression	5
+Mercedes-Benz OM636	compression	19
+Mercedes-Benz OM640	compression	18
+Daimler Straight-Eight engines	compression	5.5
+Daimler Straight-Eight engines	compression	6
+Daimler Straight-Eight engines	compression	6.3
+Austin 18	compression	6.5
+Mercedes-Benz OM457 engine	compression	185
+World Gasoline Engine	compression	10.5
+Duesenberg Model J	compression	5.7
+Cadillac High Technology engine	compression	9.5
+GM Medium Diesel engine	compression	16
+Hillman 20	compression	5.1
+Duesenberg Model A	compression	5
+List of Volvo Trucks engines	compression	19
+List of Volvo Trucks engines	compression	18
+Vauxhall 20-60	compression	increased
+Fiat TwinAir engine	compression	11.2
+Fiat TwinAir engine	compression	10
+Healey Silverstone	compression	6.9
+Viper engine	compression	9.6
+Viper engine	compression	10.2
+Daimler DE	compression	6.3
+Mercedes-Benz M136 engine	compression	6.5
+FCA F160 engine	compression	9.7
+Mercedes-Benz OM654 engine	compression	15.5
+Riley 16	compression	6.9
+Alvis Silver Crest	compression	6.2

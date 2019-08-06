@@ -1,0 +1,43 @@
+Diamant	leoPayload	160.0
+Voskhod	leoPayload	5900.0
+VentureStar	leoPayload	20412.0
+Saturn I	leoPayload	20000.0
+Tsyklon	leoPayload	3000.0
+Falcon 5	leoPayload	4200
+Falcon 1	leoPayload	180
+Titan IIIB	leoPayload	3000.0
+Titan IIIC	leoPayload	28900.0
+Atlas II	leoPayload	6580.0
+M-V	leoPayload	1800.0
+Vanguard	leoPayload	9.0
+Delta III	leoPayload	8290.0
+GX	leoPayload	3600.0
+Minotaur-C	leoPayload	1320.0
+Soyuz-U	leoPayload	6900
+Falcon 9	leoPayload	* FT:
+Falcon 9	leoPayload	22800.0
+Falcon 9	leoPayload	* v1.1:
+Falcon 9	leoPayload	13150.0
+Falcon 9	leoPayload	* v1.0:
+Falcon 9	leoPayload	10450.0
+Aquarius	leoPayload	1000
+Saturn INT-21	leoPayload	75000.0
+Atlas III	leoPayload	IIIA: 8,640 kg
+Atlas III	leoPayload	IIIB: 10,218 kg
+Saturn INT-20	leoPayload	max 60,500 kg
+Martin Marietta Spacemaster	leoPayload	50000.0
+Start-1	leoPayload	532.0
+VLS-1	leoPayload	380.0
+VLS-1	leoPayload	600.0
+VLS-1	leoPayload	800.0
+Saturn-Shuttle	leoPayload	max 60,500 kg
+Polyot	leoPayload	1400.0
+Ariane M	leoPayload	90000.0
+Saturn V-B	leoPayload	22600.0
+Saturn IB-D	leoPayload	33000.0
+Tsyklon-2	leoPayload	2820.0
+Tsyklon-3	leoPayload	4100.0
+VS-30	leoPayload	500.0
+VS-40	leoPayload	500.0
+VLM	leoPayload	200.0
+Capricornio	leoPayload	140.0

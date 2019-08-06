@@ -1,0 +1,635 @@
+Adrastea	avgSpeed	31.378
+Carme	avgSpeed	2.253
+Lysithea	avgSpeed	3.29
+Mercury	avgSpeed	47.362
+Miranda	avgSpeed	6.66
+Nereid	avgSpeed	934.0
+Umbriel	avgSpeed	4.67
+Venus	avgSpeed	35.02
+433 Eros	avgSpeed	24.36
+Jupiter	avgSpeed	13.07
+Triton	avgSpeed	4.39
+Uranus	avgSpeed	6.8
+Saturn	avgSpeed	9.69
+Pluto	avgSpeed	4.67
+Metis	avgSpeed	31.501
+52 Europa	avgSpeed	16.87
+3753 Cruithne	avgSpeed	27.73
+253 Mathilde	avgSpeed	17.98
+4179 Toutatis	avgSpeed	16.69
+16 Psyche	avgSpeed	17.34
+243 Ida	avgSpeed	0.2036
+4 Vesta	avgSpeed	19.34
+2 Pallas	avgSpeed	17.65
+Titan	avgSpeed	5.57
+Charon	avgSpeed	0.21
+Phobos	avgSpeed	2.138
+Puck	avgSpeed	8.21
+2060 Chiron	avgSpeed	7.75
+Rhea	avgSpeed	8.48
+Oberon	avgSpeed	3.15
+Ophelia	avgSpeed	10.39
+3 Juno	avgSpeed	17.93
+Tethys	avgSpeed	11.35
+Thebe	avgSpeed	23.92
+Iapetus	avgSpeed	3.26
+Leda	avgSpeed	3.4
+5145 Pholus	avgSpeed	6.01
+	avgSpeed	21.3
+141 Lumen	avgSpeed	18.03
+Caliban	avgSpeed	0.91
+65 Cybele	avgSpeed	16.03
+Pasiphae	avgSpeed	2.242
+Ananke	avgSpeed	2.367
+Himalia	avgSpeed	3.312
+Elara	avgSpeed	3.27
+Sinope	avgSpeed	2.252
+Mimas	avgSpeed	14.28
+24 Themis	avgSpeed	16.76
+Titania	avgSpeed	3.64
+	avgSpeed	28.34
+Ariel	avgSpeed	5.51
+624 Hektor	avgSpeed	13.03
+20000 Varuna	avgSpeed	4.53
+5 Astraea	avgSpeed	18.39
+944 Hidalgo	avgSpeed	12.43
+1620 Geographos	avgSpeed	25.92
+2063 Bacchus	avgSpeed	27.79
+90377 Sedna	avgSpeed	1.04
+	avgSpeed	4.4961
+2004 FH	avgSpeed	32.237
+51826 Kalpanachawla	avgSpeed	16.95
+Themisto	avgSpeed	4.098
+21 Lutetia	avgSpeed	18.96
+Portia	avgSpeed	9.37
+2867 Šteins	avgSpeed	19.27
+6 Hebe	avgSpeed	18.93
+4015 Wilson–Harrington	avgSpeed	16.39
+7968 Elst–Pizarro	avgSpeed	16.64
+90 Antiope	avgSpeed	16.66
+90 Antiope	avgSpeed	18.0
+139 Juewa	avgSpeed	17.72
+2685 Masursky	avgSpeed	18.53
+45 Eugenia	avgSpeed	18.03
+Petit-Prince	avgSpeed	18.1
+216 Kleopatra	avgSpeed	17.82
+511 Davida	avgSpeed	16.59
+1036 Ganymed	avgSpeed	16.86
+3908 Nyx	avgSpeed	20.27
+719 Albert	avgSpeed	16.87
+25143 Itokawa	avgSpeed	25.37
+6489 Golevka	avgSpeed	16.98
+	avgSpeed	37.16
+	avgSpeed	16.01
+51 Nemausa	avgSpeed	19.34
+69230 Hermes	avgSpeed	20.7
+2002 AA29	avgSpeed	29.784
+2003 YN107	avgSpeed	29.82
+3494 Purple Mountain	avgSpeed	19.35
+3552 Don Quixote	avgSpeed	12.41
+7 Iris	avgSpeed	19.03
+288 Glauke	avgSpeed	17.74
+323 Brucia	avgSpeed	18.9
+	avgSpeed	34.58
+11754 Herbig	avgSpeed	17.52
+11 Parthenope	avgSpeed	19.02
+8 Flora	avgSpeed	19.95
+13 Egeria	avgSpeed	18.56
+9 Metis	avgSpeed	19.21
+14 Irene	avgSpeed	18.52
+12 Victoria	avgSpeed	19.5
+10 Hygiea	avgSpeed	16.76
+17 Thetis	avgSpeed	18.87
+15 Eunomia	avgSpeed	18.16
+18 Melpomene	avgSpeed	19.42
+19 Fortuna	avgSpeed	18.94
+20 Massalia	avgSpeed	19.09
+23 Thalia	avgSpeed	18.12
+25 Phocaea	avgSpeed	18.91
+26 Proserpina	avgSpeed	18.24
+27 Euterpe	avgSpeed	19.29
+28 Bellona	avgSpeed	17.77
+29 Amphitrite	avgSpeed	18.61
+30 Urania	avgSpeed	19.28
+31 Euphrosyne	avgSpeed	16.57
+32 Pomona	avgSpeed	18.48
+35 Leukothea	avgSpeed	17.0
+36 Atalante	avgSpeed	17.55
+34 Circe	avgSpeed	18.12
+37 Fides	avgSpeed	18.18
+40 Harmonia	avgSpeed	19.77
+38 Leda	avgSpeed	17.88
+39 Laetitia	avgSpeed	17.84
+41 Daphne	avgSpeed	17.58
+42 Isis	avgSpeed	18.82
+43 Ariadne	avgSpeed	19.92
+44 Nysa	avgSpeed	19.13
+46 Hestia	avgSpeed	18.6
+47 Aglaja	avgSpeed	17.48
+48 Doris	avgSpeed	16.87
+50 Virginia	avgSpeed	17.91
+53 Kalypso	avgSpeed	18.21
+54 Alexandra	avgSpeed	17.91
+56 Melete	avgSpeed	18.22
+55 Pandora	avgSpeed	17.84
+57 Mnemosyne	avgSpeed	16.73
+58 Concordia	avgSpeed	18.12
+59 Elpis	avgSpeed	18.01
+60 Echo	avgSpeed	19.09
+63 Ausonia	avgSpeed	19.17
+62 Erato	avgSpeed	16.72
+64 Angelina	avgSpeed	18.11
+61 Danaë	avgSpeed	17.13
+66 Maja	avgSpeed	18.18
+67 Asia	avgSpeed	18.98
+68 Leto	avgSpeed	17.7
+71 Niobe	avgSpeed	17.8
+73 Klytia	avgSpeed	18.24
+72 Feronia	avgSpeed	19.71
+74 Galatea	avgSpeed	17.61
+75 Eurydike	avgSpeed	17.79
+77 Frigga	avgSpeed	18.15
+76 Freia	avgSpeed	16.0
+78 Diana	avgSpeed	18.2
+79 Eurynome	avgSpeed	18.87
+80 Sappho	avgSpeed	19.46
+81 Terpsichore	avgSpeed	17.43
+82 Alkmene	avgSpeed	17.7
+83 Beatrix	avgSpeed	19.07
+84 Klio	avgSpeed	19.11
+86 Semele	avgSpeed	16.69
+85 Io	avgSpeed	18.12
+87 Sylvia	avgSpeed	15.94
+88 Thisbe	avgSpeed	17.78
+89 Julia	avgSpeed	18.49
+91 Aegina	avgSpeed	18.45
+92 Undina	avgSpeed	16.63
+93 Minerva	avgSpeed	~17.86 km/s
+94 Aurora	avgSpeed	16.73
+95 Arethusa	avgSpeed	16.91
+98 Ianthe	avgSpeed	18.01
+99 Dike	avgSpeed	18.07
+96 Aegle	avgSpeed	16.96
+97 Klotho	avgSpeed	17.93
+101 Helena	avgSpeed	18.44
+104 Klymene	avgSpeed	16.67
+103 Hera	avgSpeed	18.09
+105 Artemis	avgSpeed	19.18
+106 Dione	avgSpeed	16.61
+109 Felicitas	avgSpeed	17.73
+110 Lydia	avgSpeed	17.99
+113 Amalthea	avgSpeed	19.29
+116 Sirona	avgSpeed	17.81
+107 Camilla	avgSpeed	15.95
+107 Camilla	avgSpeed	24.2
+114 Kassandra	avgSpeed	18.12
+115 Thyra	avgSpeed	19.13
+112 Iphigenia	avgSpeed	19.01
+111 Ate	avgSpeed	18.44
+117 Lomia	avgSpeed	17.22
+118 Peitho	avgSpeed	18.95
+119 Althaea	avgSpeed	18.51
+120 Lachesis	avgSpeed	16.86
+121 Hermione	avgSpeed	15.94
+121 Hermione	avgSpeed	22.0
+122 Gerda	avgSpeed	16.59
+125 Liberatrix	avgSpeed	17.96
+124 Alkeste	avgSpeed	18.34
+123 Brunhild	avgSpeed	18.08
+126 Velleda	avgSpeed	19.02
+128 Nemesis	avgSpeed	17.89
+127 Johanna	avgSpeed	17.92
+129 Antigone	avgSpeed	17.39
+131 Vala	avgSpeed	19.08
+130 Elektra	avgSpeed	16.66
+130 Elektra	avgSpeed	23.0
+132 Aethra	avgSpeed	17.72
+134 Sophrosyne	avgSpeed	18.54
+133 Cyrene	avgSpeed	17.03
+136 Austria	avgSpeed	19.66
+137 Meliboea	avgSpeed	16.66
+138 Tolosa	avgSpeed	18.91
+135 Hertha	avgSpeed	18.91
+140 Siwa	avgSpeed	17.8
+148 Gallia	avgSpeed	17.74
+147 Protogeneia	avgSpeed	16.82
+145 Adeona	avgSpeed	18.12
+146 Lucina	avgSpeed	18.04
+144 Vibilia	avgSpeed	18.03
+143 Adria	avgSpeed	17.9
+142 Polana	avgSpeed	19.07
+149 Medusa	avgSpeed	20.18
+22 Kalliope	avgSpeed	17.42
+154 Bertha	avgSpeed	16.63
+155 Scylla	avgSpeed	17.59
+157 Dejanira	avgSpeed	18.36
+156 Xanthippe	avgSpeed	17.8
+158 Koronis	avgSpeed	17.8
+159 Aemilia	avgSpeed	16.86
+160 Una	avgSpeed	18.01
+2003 J 2	avgSpeed	2.19
+Mab	avgSpeed	7.7
+168 Sibylla	avgSpeed	16.19
+181 Eucharis	avgSpeed	16.64
+704 Interamnia	avgSpeed	16.92
+2062 Aten	avgSpeed	30.04
+	avgSpeed	3.98
+1221 Amor	avgSpeed	20.44
+5261 Eureka	avgSpeed	24.11
+516 Amherstia	avgSpeed	17.85
+3554 Amun	avgSpeed	29.58
+201 Penelope	avgSpeed	18.19
+366 Vincentina	avgSpeed	16.77
+4923 Clarke	avgSpeed	0.31368764
+99942 Apophis	avgSpeed	30.728
+532 Herculina	avgSpeed	17.65
+25924 Douglasadams	avgSpeed	19.03
+202 Chryseïs	avgSpeed	16.99
+203 Pompeja	avgSpeed	18.01
+205 Martha	avgSpeed	17.87
+206 Hersilia	avgSpeed	17.99
+204 Kallisto	avgSpeed	18.22
+208 Lacrimosa	avgSpeed	17.51
+207 Hedda	avgSpeed	19.71
+209 Dido	avgSpeed	16.79
+210 Isabella	avgSpeed	18.05
+211 Isolda	avgSpeed	17.08
+212 Medea	avgSpeed	16.88
+213 Lilaea	avgSpeed	17.95
+215 Oenone	avgSpeed	17.91
+214 Aschera	avgSpeed	18.43
+217 Eudora	avgSpeed	17.57
+219 Thusnelda	avgSpeed	19.41
+220 Stephania	avgSpeed	19.44
+218 Bianca	avgSpeed	18.24
+230 Athamantis	avgSpeed	19.3
+227 Philosophia	avgSpeed	16.78
+224 Oceana	avgSpeed	18.31
+226 Weringia	avgSpeed	18.09
+223 Rosa	avgSpeed	16.94
+229 Adelinda	avgSpeed	16.12
+221 Eos	avgSpeed	17.16
+225 Henrietta	avgSpeed	16.2
+222 Lucia	avgSpeed	16.82
+231 Vindobona	avgSpeed	17.44
+232 Russia	avgSpeed	18.65
+233 Asterope	avgSpeed	18.26
+235 Carolina	avgSpeed	17.54
+234 Barbara	avgSpeed	19.28
+236 Honoria	avgSpeed	17.8
+237 Coelestina	avgSpeed	17.92
+239 Adrastea	avgSpeed	17.25
+238 Hypatia	avgSpeed	17.47
+240 Vanadis	avgSpeed	18.25
+241 Germania	avgSpeed	17.04
+245 Vera	avgSpeed	16.93
+244 Sita	avgSpeed	20.2
+246 Asporina	avgSpeed	18.14
+247 Eukrate	avgSpeed	18.0
+248 Lameia	avgSpeed	18.95
+249 Ilse	avgSpeed	19.31
+250 Bettina	avgSpeed	16.78
+252 Clementina	avgSpeed	16.77
+251 Sophia	avgSpeed	16.94
+254 Augusta	avgSpeed	20.1
+256 Walpurga	avgSpeed	17.2
+260 Huberta	avgSpeed	16.05
+258 Tyche	avgSpeed	18.42
+255 Oppavia	avgSpeed	17.98
+264 Libussa	avgSpeed	17.81
+261 Prymno	avgSpeed	19.51
+269 Justitia	avgSpeed	18.41
+263 Dresda	avgSpeed	17.53
+271 Penthesilea	avgSpeed	17.17
+270 Anahita	avgSpeed	20.09
+267 Tirza	avgSpeed	17.89
+265 Anna	avgSpeed	19.15
+272 Antonia	avgSpeed	17.87
+266 Aline	avgSpeed	17.79
+268 Adorea	avgSpeed	16.93
+276 Adelheid	avgSpeed	16.88
+277 Elvira	avgSpeed	17.53
+275 Sapientia	avgSpeed	17.89
+274 Philagoria	avgSpeed	17.08
+278 Paulina	avgSpeed	17.94
+273 Atropos	avgSpeed	19.24
+280 Philia	avgSpeed	17.31
+285 Regina	avgSpeed	16.97
+282 Clorinde	avgSpeed	19.48
+298 Baptistina	avgSpeed	19.8
+300 Geraldina	avgSpeed	16.63
+296 Phaëtusa	avgSpeed	19.95
+294 Felicia	avgSpeed	16.81
+297 Caecilia	avgSpeed	16.75
+299 Thora	avgSpeed	19.09
+293 Brasilia	avgSpeed	17.61
+295 Theresia	avgSpeed	17.8
+292 Ludovica	avgSpeed	18.73
+283 Emma	avgSpeed	17.07
+281 Lucretia	avgSpeed	20.14
+291 Alice	avgSpeed	19.98
+290 Bruna	avgSpeed	19.48
+289 Nenetta	avgSpeed	17.58
+286 Iclea	avgSpeed	16.66
+284 Amalia	avgSpeed	19.39
+287 Nephthys	avgSpeed	19.42
+303 Josephina	avgSpeed	16.86
+301 Bavaria	avgSpeed	18.04
+302 Clarissa	avgSpeed	19.21
+304 Olga	avgSpeed	18.974
+306 Unitas	avgSpeed	19.4
+308 Polyxo	avgSpeed	17.96
+305 Gordonia	avgSpeed	16.92
+309 Fraternitas	avgSpeed	18.25
+310 Margarita	avgSpeed	17.93
+307 Nike	avgSpeed	17.46
+317 Roxane	avgSpeed	19.7
+314 Rosalia	avgSpeed	16.79
+311 Claudia	avgSpeed	17.5
+313 Chaldaea	avgSpeed	19.32
+316 Goberta	avgSpeed	16.73
+315 Constantia	avgSpeed	19.9
+318 Magdalena	avgSpeed	16.67
+312 Pierretta	avgSpeed	17.86
+319 Leona	avgSpeed	16.18
+322 Phaeo	avgSpeed	17.84
+325 Heidelberga	avgSpeed	16.64
+321 Florentina	avgSpeed	17.53
+320 Katharina	avgSpeed	17.16
+328 Gudrun	avgSpeed	16.89
+326 Tamara	avgSpeed	19.56
+329 Svea	avgSpeed	18.92
+324 Bamberga	avgSpeed	18.18
+327 Columbia	avgSpeed	17.88
+332 Siri	avgSpeed	17.89
+331 Etheridgea	avgSpeed	17.13
+334 Chicago	avgSpeed	15.09
+339 Dorothea	avgSpeed	17.15
+336 Lacadiera	avgSpeed	19.85
+335 Roberta	avgSpeed	18.93
+338 Budrosa	avgSpeed	17.45
+347 Pariana	avgSpeed	18.43
+346 Hermentaria	avgSpeed	17.81
+343 Ostara	avgSpeed	19.18
+360 Carlova	avgSpeed	17.2
+355 Gabriella	avgSpeed	18.69
+356 Liguria	avgSpeed	17.95
+351 Yrsa	avgSpeed	17.92
+345 Tercidina	avgSpeed	19.53
+341 California	avgSpeed	20.08
+348 May	avgSpeed	17.28
+344 Desiderata	avgSpeed	18.49
+358 Apollonia	avgSpeed	17.55
+333 Badenia	avgSpeed	16.85
+342 Endymion	avgSpeed	18.58
+340 Eduarda	avgSpeed	17.98
+337 Devosa	avgSpeed	19.3
+350 Ornamenta	avgSpeed	16.88
+349 Dembowska	avgSpeed	17.41
+354 Eleonora	avgSpeed	17.8
+353 Ruperto-Carola	avgSpeed	18.02
+352 Gisela	avgSpeed	20.11
+357 Ninina	avgSpeed	16.78
+363 Padua	avgSpeed	17.97
+365 Corduba	avgSpeed	17.79
+367 Amicitia	avgSpeed	19.99
+368 Haidea	avgSpeed	16.99
+362 Havnia	avgSpeed	18.54
+361 Bononia	avgSpeed	14.98
+369 Aëria	avgSpeed	18.3
+373 Melusina	avgSpeed	16.88
+370 Modestia	avgSpeed	19.54
+371 Bohemia	avgSpeed	18.03
+374 Burgundia	avgSpeed	17.86
+372 Palma	avgSpeed	16.8
+375 Ursula	avgSpeed	16.85
+377 Campania	avgSpeed	18.16
+376 Geometria	avgSpeed	19.69
+378 Holmia	avgSpeed	17.88
+379 Huenna	avgSpeed	16.68
+380 Fiducia	avgSpeed	18.19
+383 Janina	avgSpeed	16.81
+382 Dodona	avgSpeed	16.87
+384 Burdigala	avgSpeed	18.29
+387 Aquitania	avgSpeed	18.0
+385 Ilmatar	avgSpeed	17.65
+388 Charybdis	avgSpeed	17.18
+381 Myrrha	avgSpeed	16.6
+391 Ingeborg	avgSpeed	19.09
+395 Delia	avgSpeed	17.85
+394 Arduina	avgSpeed	17.92
+392 Wilhelmina	avgSpeed	17.53
+393 Lampetia	avgSpeed	17.87
+390 Alma	avgSpeed	18.21
+397 Vienna	avgSpeed	18.35
+396 Aeolia	avgSpeed	17.99
+389 Industria	avgSpeed	18.44
+386 Siegena	avgSpeed	17.51
+399 Persephone	avgSpeed	17.04
+400 Ducrosa	avgSpeed	16.84
+10979 Fristephenson	avgSpeed	18.97
+401 Ottilia	avgSpeed	16.27
+402 Chloë	avgSpeed	18.62
+403 Cyane	avgSpeed	17.77
+406 Erna	avgSpeed	17.45
+405 Thia	avgSpeed	18.53
+404 Arsinoë	avgSpeed	18.49
+407 Arachne	avgSpeed	18.39
+408 Fama	avgSpeed	16.71
+410 Chloris	avgSpeed	18.03
+412 Elisabetha	avgSpeed	17.92
+409 Aspasia	avgSpeed	18.55
+411 Xanthe	avgSpeed	17.39
+413 Edburga	avgSpeed	18.53
+417 Suevia	avgSpeed	17.8
+416 Vaticana	avgSpeed	17.83
+414 Liriope	avgSpeed	15.9
+415 Palatia	avgSpeed	17.83
+419 Aurelia	avgSpeed	18.49
+422 Berolina	avgSpeed	19.95
+424 Gratia	avgSpeed	17.89
+425 Cornelia	avgSpeed	17.54
+429 Lotis	avgSpeed	18.44
+420 Bertholda	avgSpeed	16.07
+423 Diotima	avgSpeed	17.01
+427 Galene	avgSpeed	17.27
+421 Zähringia	avgSpeed	18.39
+434 Hungaria	avgSpeed	21.36
+432 Pythia	avgSpeed	19.35
+437 Rhodia	avgSpeed	19.28
+430 Hybris	avgSpeed	17.65
+426 Hippo	avgSpeed	17.53
+435 Ella	avgSpeed	19.03
+428 Monachia	avgSpeed	19.61
+431 Nephele	avgSpeed	16.81
+439 Ohio	avgSpeed	16.83
+436 Patricia	avgSpeed	16.63
+440 Theodora	avgSpeed	20.03
+438 Zeuxo	avgSpeed	18.64
+441 Bathilde	avgSpeed	17.78
+443 Photographica	avgSpeed	20.01
+446 Aeternitas	avgSpeed	17.84
+444 Gyptis	avgSpeed	17.88
+450 Brigitta	avgSpeed	17.16
+445 Edna	avgSpeed	16.64
+447 Valentine	avgSpeed	17.23
+449 Hamburga	avgSpeed	18.64
+448 Natalie	avgSpeed	16.81
+501 Urhixidur	avgSpeed	16.65
+	avgSpeed	1.63
+36446 Cinodapistoia	avgSpeed	18.94
+Makemake	avgSpeed	4.419
+	avgSpeed	2.98
+1998 WW31	avgSpeed	4.46
+	avgSpeed	3.81
+38083 Rhadamanthus	avgSpeed	4.73
+53311 Deucalion	avgSpeed	4.467
+38628 Huya	avgSpeed	4.63
+11264 Claudiomaccone	avgSpeed	18.29
+	avgSpeed	4.67
+	avgSpeed	4.31
+4581 Asclepius	avgSpeed	28.5
+2002 Euler	avgSpeed	19.13
+	avgSpeed	0.88
+11020 Orwell	avgSpeed	16.83
+Dysnomia	avgSpeed	0.172
+2000	avgSpeed	~0.002 km/s
+	avgSpeed	26.28
+451 Patientia	avgSpeed	17.03
+475 Ocllo	avgSpeed	17.81
+473 Nolli	avgSpeed	18.5
+538 Friederike	avgSpeed	16.64
+563 Suleika	avgSpeed	17.83
+630 Euphemia	avgSpeed	18.33
+747 Winchester	avgSpeed	17.15
+741 Botolphia	avgSpeed	18.04
+728 Leonisis	avgSpeed	19.8
+804 Hispania	avgSpeed	17.6
+809 Lundia	avgSpeed	19.53
+817 Annika	avgSpeed	18.36
+854 Frostia	avgSpeed	19.21
+867 Kovacia	avgSpeed	16.95
+1089 Tama	avgSpeed	19.94
+3529 Dowling	avgSpeed	19.133
+19367 Pink Floyd	avgSpeed	18.92
+3360 Syrinx	avgSpeed	15.981
+5335 Damocles	avgSpeed	6.67
+	avgSpeed	4.54
+3551 Verenia	avgSpeed	19.306
+7796 Járacimrman	avgSpeed	18.15
+	avgSpeed	4.64
+	avgSpeed	4.06
+	avgSpeed	3.93
+7066 Nessus	avgSpeed	5.57
+21751 Jennytaylor	avgSpeed	19.22
+60558 Echeclus	avgSpeed	8.58
+54598 Bienor	avgSpeed	7.26
+1322 Coppernicus	avgSpeed	18.07
+Linus	avgSpeed	21.5
+99906 Uofalberta	avgSpeed	16.59
+58534 Logos	avgSpeed	4.41
+2000 Herschel	avgSpeed	18.87
+77185 Cherryh	avgSpeed	18.45
+8371 Goven	avgSpeed	18.06
+1993 RP	avgSpeed	4.86
+	avgSpeed	4.49
+	avgSpeed	4.58
+2006 Polonskaya	avgSpeed	19.35
+51825 Davidbrown	avgSpeed	17.27
+51823 Rickhusband	avgSpeed	16.59
+51824 Mikeanderson	avgSpeed	17.13
+51827 Laurelclark	avgSpeed	17.01
+51828 Ilanramon	avgSpeed	17.81
+51829 Williemccool	avgSpeed	19.72
+118401 LINEAR	avgSpeed	16.51
+3103 Eger	avgSpeed	40.496
+1054 Forsytia	avgSpeed	17.35
+	avgSpeed	4.45
+2340 Hathor	avgSpeed	30.713
+Romulus	avgSpeed	27.0
+	avgSpeed	0.0037
+Remus	avgSpeed	37.2
+	avgSpeed	22.97
+174567 Varda	avgSpeed	4.37
+	avgSpeed	4.75
+	avgSpeed	4.63
+	avgSpeed	4.77
+	avgSpeed	4.73
+	avgSpeed	4.63
+	avgSpeed	4.67
+	avgSpeed	4.07
+	avgSpeed	4.47
+	avgSpeed	4.56
+	avgSpeed	4.5
+	avgSpeed	3.85
+	avgSpeed	2.71
+	avgSpeed	0.00302
+	avgSpeed	4.6
+	avgSpeed	4.17
+	avgSpeed	3.93
+	avgSpeed	3.91
+	avgSpeed	4.74
+	avgSpeed	4.52
+	avgSpeed	4.47
+	avgSpeed	4.51
+1101 Clematis	avgSpeed	16.54
+1099 Figneria	avgSpeed	16.37
+1100 Arnica	avgSpeed	17.48
+1097 Vicia	avgSpeed	17.92
+	avgSpeed	0.00346
+	avgSpeed	0.00113
+1103 Sequoia	avgSpeed	21.37
+9902 Kirkpatrick	avgSpeed	20.03
+9903 Leonhardt	avgSpeed	16.98698062
+Rho Indi b	avgSpeed	19.92
+1105 Fragaria	avgSpeed	17.15757042
+HD 41004	avgSpeed	145.0
+7317 Cabot	avgSpeed	19.507
+3225 Hoag	avgSpeed	21.72394894
+4587 Rees	avgSpeed	17.02
+7167 Laupheim	avgSpeed	16.82
+2007 VK184	avgSpeed	15.6
+1437 Diomedes	avgSpeed	13.1
+1583 Antilochus	avgSpeed	13.17
+2146 Stentor	avgSpeed	13.03
+2148 Epeios	avgSpeed	13.04
+2456 Palamedes	avgSpeed	13.12
+2260 Neoptolemus	avgSpeed	13.07
+2759 Idomeneus	avgSpeed	13.08
+2920 Automedon	avgSpeed	13.17
+2797 Teucer	avgSpeed	13.16
+3063 Makhaon	avgSpeed	13.07
+3391 Sinon	avgSpeed	12.92
+3548 Eurybates	avgSpeed	13.08
+3564 Talthybius	avgSpeed	13.02
+6398 Timhunter	avgSpeed	19.21
+6216 San Jose	avgSpeed	0.21565287
+	avgSpeed	11.66
+9708 Gouka	avgSpeed	18.3144586
+3031 Houston	avgSpeed	19.87
+54509 YORP	avgSpeed	29.31
+Neptune	avgSpeed	5.43
+98127 Vilgusová	avgSpeed	0.26125374
+2008 KV42	avgSpeed	4.06
+951 Gaspra	avgSpeed	19.88
+50000 Quaoar	avgSpeed	4.52
+2009 DD45	avgSpeed	0.713018
+	avgSpeed	0.3158
+	avgSpeed	0.4774
+2010 AL30	avgSpeed	28.5
+	avgSpeed	0.00949
+2010 TK7	avgSpeed	9.1
+2012 BX34	avgSpeed	1.48200135
+	avgSpeed	4.489
+PANSTARRS	avgSpeed	0.3044
+	avgSpeed	20.48
+2001 GO2	avgSpeed	29.474
+2014 MT69	avgSpeed	4.5
+2012 UE34	avgSpeed	28.25999
+2007 UW1	avgSpeed	31.147779
+2011 WL2	avgSpeed	28.10406
+2001 AV43	avgSpeed	25.9023522
+1993 DA	avgSpeed	30.718
+	avgSpeed	33.3946406
+11885 Summanus	avgSpeed	21.474356
+WT1190F	avgSpeed	1.1

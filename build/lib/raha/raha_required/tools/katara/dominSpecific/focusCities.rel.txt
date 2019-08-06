@@ -1,0 +1,923 @@
+Qantas	focusCities	Cairns International Airport
+Qantas	focusCities	Darwin International Airport
+Qantas	focusCities	Los Angeles International Airport
+Delta Air Lines	focusCities	* Raleigh-Durham International Airport
+Pan American World Airways	focusCities	*
+Pan American World Airways	focusCities	Berlin Tempelhof Airport
+Pan American World Airways	focusCities	Berlin Tegel Airport
+Pan American World Airways	focusCities	Honolulu International Airport
+Pan American World Airways	focusCities	George Bush Intercontinental Airport
+Pan American World Airways	focusCities	Logan International Airport
+Pan American World Airways	focusCities	Los Angeles International Airport
+Pan American World Airways	focusCities	O'Hare International Airport
+Pan American World Airways	focusCities	San Francisco International Airport
+Pan American World Airways	focusCities	Washington Dulles International Airport
+Avianca	focusCities	* La Aurora International Airport \n* Ramón Villeda Morales International Airport \n* José María Córdova International Airport\n* Alfonso Bonilla Aragón International Airport\n* Miami International Airport
+Aerolíneas Argentinas	focusCities	*Ingeniero Ambrosio L.V. Taravella International Airport\n*Rosario Islas Malvinas International Airport
+Prinair	focusCities	San Juan, Puerto Rico
+Eastern Air Lines	focusCities	* O'Hare International Airport \n* Orlando International Airport\n* Tampa International Airport
+Mexicana de Aviación	focusCities	* O'Hare International Airport \n* Los Angeles International Airport\n* General Abelardo L. Rodriguez International Airport\n* General Francisco J. Mujica International Airport\n*
+Mexicana de Aviación	focusCities	General Leobardo C. Ruiz International Airport
+Iberia	focusCities	Barcelona–El Prat Airport
+PLUNA	focusCities	Aeroparque Jorge Newbery
+South African Airways	focusCities	Cape Town International Airport
+Royal Jordanian	focusCities	King Hussein International Airport
+Polar Air Cargo	focusCities	Hong Kong International Airport
+Polar Air Cargo	focusCities	Chicago O'Hare International Airport
+Polar Air Cargo	focusCities	Los Angeles International Airport
+Polar Air Cargo	focusCities	John F. Kennedy International Airport
+China Airlines	focusCities	*Suvarnabhumi Airport \n* Hong Kong International Airport\n* Songshan Airport
+Air New Zealand	focusCities	* Los Angeles International Airport\n* Sydney Airport
+Nippon Cargo Airlines	focusCities	*Hong Kong International Airport\n*Ted Stevens Anchorage International Airport
+Emirates	focusCities	Sydney International Airport
+Midwest Airlines	focusCities	Eppley Airfield
+Air Canada	focusCities	* Edmonton International Airport\n* Halifax Stanfield International Airport\n*
+Air Canada	focusCities	Ottawa Macdonald-Cartier International Airport
+Air Canada	focusCities	* Winnipeg James Armstrong Richardson International Airport
+Northwest Airlines	focusCities	Indianapolis International Airport
+Croatia Airlines	focusCities	* Dubrovnik Airport\n* Split Airport
+ATA Airlines	focusCities	* Honolulu International Airport\n* Oakland International Airport
+Alitalia-Linee Aeree Italiane	focusCities	Linate Airport
+Cathay Pacific	focusCities	*
+Cathay Pacific	focusCities	Taipei Taoyuan International Airport
+Cathay Pacific	focusCities	* Suvarnabhumi Airport
+Hawaiian Airlines	focusCities	*Lihue Airport\n*Kona International Airport
+WestJet	focusCities	*Edmonton International Airport\n*Winnipeg James Armstrong Richardson International Airport\n*London Gatwick International Airport
+First Choice Airways	focusCities	*Cardiff Airport  \n*Cork Airport\n*Edinburgh Airport\n*Leeds Bradford International Airport
+LATAM Brasil	focusCities	* Congonhas-São Paulo Airport\n* Santos Dumont Airport \n* Silvio Pettirossi International Airport \n* Deputado Luís Eduardo Magalhães International Airport \n* Tancredo Neves International Airport \n* Salgado Filho International Airport \n* Hercilio Luz International Airport \n* Pinto Martins International Airport \n* Recife/Guararapes-Gilberto Freyre International Airport \n* Afonso Pena International Airport \n* Greater Natal International Airport \n* Val de Cães International Airport \n* Miami International Airport
+Cubana de Aviación	focusCities	Antonio Maceo Airport
+Cubana de Aviación	focusCities	Juan Gualberto Gómez Airport
+Cubana de Aviación	focusCities	Frank País Airport
+Lloyd Aéreo Boliviano	focusCities	El Alto International Airport
+Lloyd Aéreo Boliviano	focusCities	Trinidad Airport
+Swiss International Air Lines	focusCities	Geneva Airport
+Scandinavian Airlines	focusCities	*Bergen Airport\n*
+Scandinavian Airlines	focusCities	Göteborg Landvetter Airport
+Scandinavian Airlines	focusCities	*Stavanger Airport\n*Trondheim Airport, Værnes
+Air Jamaica	focusCities	* John F. Kennedy International Airport\n* Sangster International Airport
+Frontier Airlines	focusCities	*Hartsfield–Jackson Atlanta International Airport\n*Cincinnati/Northern Kentucky International Airport\n*Cleveland Hopkins International Airport\n*O'Hare International Airport \n*Orlando International Airport\n*Philadelphia International Airport\n*Trenton–Mercer Airport
+TAROM	focusCities	* Iași International Airport
+Turkish Airlines	focusCities	*
+Turkish Airlines	focusCities	Adnan Menderes Airport
+Iran Air	focusCities	*
+Iran Air	focusCities	Mashhad International Airport
+Iran Air	focusCities	*Shiraz International Airport\n*Isfahan International Airport\n*Tabriz International Airport
+Garuda Indonesia	focusCities	*
+Garuda Indonesia	focusCities	Adisucipto International Airport
+Garuda Indonesia	focusCities	Sam Ratulangi International Airport
+Garuda Indonesia	focusCities	Sultan Mahmud Badaruddin II International Airport
+Iraqi Airways	focusCities	* Baghdad\n* Basra\n* Najaf\n* Sulaymaniyah\n* Erbil
+Pakistan International Airlines	focusCities	* Abu Dhabi\n* Dubai\n* Islamabad\n* Jeddah\n* London\n* Manchester
+Japan Airlines	focusCities	*
+Japan Airlines	focusCities	Chubu Centrair International Airport
+Japan Airlines	focusCities	* Fukuoka Airport\n* Naha Airport\n* New Chitose Airport
+Libyan Airlines	focusCities	Benina International Airport
+Sterling Airlines	focusCities	*Stockholm-Arlanda Airport\n*Oslo Airport, Gardermoen\n*Billund Airport\n*Gothenburg-Landvetter Airport\n*Malmö Airport
+Azores Airlines	focusCities	*
+Azores Airlines	focusCities	Lisbon Portela Airport
+Azores Airlines	focusCities	Boston Logan Airport
+Azores Airlines	focusCities	Toronto Pearson Airport
+All Nippon Airways	focusCities	*
+All Nippon Airways	focusCities	Chubu Centrair International Airport
+All Nippon Airways	focusCities	*New Chitose Airport
+Comair	focusCities	*Hartsfield-Jackson Atlanta International Airport\n*Logan International Airport\n*LaGuardia Airport\n*Piedmont Triad International Airport
+FlyLAL-Lithuanian Airlines	focusCities	Palanga International Airport
+KLM uk	focusCities	Amsterdam Airport Schiphol
+Aeroperú	focusCities	El Dorado International Airport
+Alaska Airlines	focusCities	* San Diego International Airport\n* San Jose International Airport
+Cape Air	focusCities	*Albany International Airport\n*Martha's Vineyard Airport
+O'Connor Airlines	focusCities	Formerly:
+O'Connor Airlines	focusCities	Adelaide Airport
+America West Express	focusCities	*Los Angeles International Airport
+Ansett Australia	focusCities	*Adelaide Airport\n*Cairns Airport\n*Canberra Airport\n*Hobart Airport
+Flybe	focusCities	*Inverness\n*Jersey\n*London-City\n*Hannover
+Piedmont Airlines	focusCities	As American Eagle:\n* Ronald Reagan Washington National Airport
+Philippine Airlines	focusCities	Kalibo International Airport
+Air China	focusCities	*
+Air China	focusCities	Chongqing Jiangbei International Airport
+Air China	focusCities	*Guangzhou Baiyun International Airport\n*
+Air China	focusCities	Guiyang Longdongbao International Airport
+Air China	focusCities	*Hangzhou Xiaoshan International Airport\n*Hohhot Baita International Airport\n*Lhasa Gonggar Airport\n*Shanghai Hongqiao International Airport\n*Tianjin Binhai International Airport\n*Wuhan Tianhe International Airport
+Copa Airlines	focusCities	*El Dorado International Airport\n*La Aurora International Airport\n*Juan Santamaría International Airport\n*Augusto C. Sandino International Airport
+Thai Airways	focusCities	*
+Thai Airways	focusCities	Chiang Mai International Airport
+Thai Airways	focusCities	Phuket International Airport
+Thai Airways	focusCities	Incheon International Airport
+Jazz	focusCities	* Ottawa Macdonald-Cartier International Airport\n* Winnipeg James Armstrong Richardson International Airport\n* Edmonton International Airport
+TAME	focusCities	*José Joaquín de Olmedo International Airport
+Air North	focusCities	Vancouver
+Air North	focusCities	Dawson City, Yukon
+Thai Airways Company	focusCities	*Chiang Mai International Airport\n*Hat Yai International Airport
+Korean Air	focusCities	* Gimhae International Airport\n* Jeju International Airport
+EgyptAir	focusCities	* Borg El Arab Airport\n* Hurghada International Airport\n* Luxor International Airport\n*
+EgyptAir	focusCities	Sharm el-Sheikh International Airport
+Air Santo Domingo	focusCities	*Las Américas International Airport\n*La Isabela International Airport\n*Gregorio Luperón International Airport\n*Punta Cana International Airport\n*John F. Kennedy International Airport\n*Luis Muñoz Marín International Airport
+Asiana Airlines	focusCities	* Gimhae International Airport\n* Jeju International Airport
+Czech Airlines	focusCities	Karlovy Vary Airport
+Lauda Air	focusCities	* Graz Airport\n* Innsbruck Airport\n* Linz Airport
+Virgin Australia	focusCities	*Adelaide Airport\n*Gold Coast Airport\n*Perth Airport
+PSA Airlines	focusCities	As American Eagle:
+PSA Airlines	focusCities	Philadelphia International Airport
+PSA Airlines	focusCities	Ronald Reagan Washington National Airport
+Air Caraïbes	focusCities	Martinique Aimé Césaire International Airport
+Air Caraïbes	focusCities	Paris-Orly Airport
+Aerosvit Airlines	focusCities	Dnipropetrovsk International Airport
+Aerosvit Airlines	focusCities	Donetsk International Airport
+Aerosvit Airlines	focusCities	Odessa International Airport
+Aerosvit Airlines	focusCities	Simferopol International Airport
+Luxair	focusCities	Saarbrücken Airport
+Indian	focusCities	* Bengaluru International Airport\n* Cochin International Airport\n* Rajiv Gandhi International Airport\n* Sardar Vallabhbhai Patel International Airport
+JetBlue	focusCities	* John F. Kennedy International Airport\n*Fort Lauderdale–Hollywood International Airport\n* Logan International Airport \n* Long Beach Airport\n*
+JetBlue	focusCities	Luis Muñoz Marín International Airport
+JetBlue	focusCities	* Orlando International Airport
+Vietnam Airlines	focusCities	* Phnom Penh International Airport\n* Siem Reap International Airport
+Mahan Air	focusCities	*
+Mahan Air	focusCities	Mehrabad International Airport
+Mahan Air	focusCities	Tehran Imam Khomeini International Airport
+Mahan Air	focusCities	*Shiraz\n*Kish Island\n*Kerman
+JMC Air	focusCities	*Birmingham\n*Bristol\n*London Stansted\n*Newcastle\n*Manchester Airport\n*London Gatwick Airport
+China Southern Airlines	focusCities	* Changchun Longjia International Airport\n* Chengdu Shuangliu International Airport\n* Changsha Huanghua International Airport\n* Dalian Zhoushuizi International Airport\n* Guiyang Longdongbao International Airport\n* Haikou Meilan International Airport\n* Hangzhou Xiaoshan International Airport\n* Harbin Taiping International Airport\n* Jieyang Chaoshan International Airport\n* Shenyang Taoxian International Airport\n* Shenzhen Bao'an International Airport\n* Wuhan Tianhe International Airport\n* Xi'an Xianyang International Airport\n* Zhengzhou Xinzheng International Airport\n* Zhuhai Jinwan Airport
+Atlantic Coast Airlines	focusCities	Chicago O'Hare International Airport
+Braniff International Airways	focusCities	* Honolulu International Airport\n* Houston Intercontinental Airport\n* Kansas City International Airport\n* Newark International Airport\n* O'Hare International Airport\n* Stapleton International Airport
+EVA Air	focusCities	* Kaohsiung International Airport\n* Suvarnabhumi Airport
+LATAM Chile	focusCities	*Cerro Moreno International Airport\n*Mariscal Sucre International Airport\n*Miami International Airport\n*Ministro Pistarini International Airport
+Skymark Airlines	focusCities	Kobe Airport
+Skymark Airlines	focusCities	Naha Airport
+Skymark Airlines	focusCities	New Chitose Airport
+Skymark Airlines	focusCities	Fukuoka Airport
+Japan Transocean Air	focusCities	Ishigaki Airport
+Air Algérie	focusCities	Oran Es Sénia Airport
+Royal Air Maroc	focusCities	Marrakesh Menara Airport
+Royal Air Maroc	focusCities	Tangier Ibn Battouta Airport
+Royal Air Maroc	focusCities	Paris Orly Airport
+Mandarin Airlines	focusCities	Kaohsiung International Airport
+Spirit Airlines	focusCities	*Atlantic City International Airport\n*Dallas/Fort Worth International Airport\n*George Bush Intercontinental Airport \n*O'Hare International Airport \n*Los Angeles International Airport \n*McCarran International Airport \n*Myrtle Beach International Airport
+Spanair	focusCities	*Madrid-Barajas Airport\n*Palma de Mallorca Airport\n*Tenerife North Airport
+Air Berlin	focusCities	* Hamburg Airport\n* Munich Airport\n* Stuttgart Airport\n* Zürich Airport
+Bangkok Airways	focusCities	*
+Bangkok Airways	focusCities	Samui Airport
+Bangkok Airways	focusCities	Krabi Airport
+Olympic Aviation	focusCities	Thessaloniki International Airport, %22Makedonia%22
+Japan Air System	focusCities	Kansai International Airport
+Japan Air System	focusCities	Narita International Airport
+Jetstar Airways	focusCities	*Adelaide Airport\n*Denpasar Airport\n*Perth Airport
+Tower Air	focusCities	Ben Gurion International Airport
+Loganair	focusCities	Aberdeen Airport
+Loganair	focusCities	Campbeltown Airport
+Loganair	focusCities	Dundee Airport
+Loganair	focusCities	Edinburgh Airport
+Loganair	focusCities	Inverness Airport
+Loganair	focusCities	Kirkwall Airport
+Loganair	focusCities	Norwich International Airport
+Loganair	focusCities	Stornoway Airport
+Loganair	focusCities	Sumburgh Airport
+Air Europa	focusCities	* Barcelona Airport\n* Tenerife South Airport
+Vladivostok Air	focusCities	Koltsovo Airport
+Precision Air	focusCities	Mwanza Airport
+J-Air	focusCities	* Fukuoka Airport\n* Haneda Airport
+Turkmenistan Airlines	focusCities	* Turkmenabat Airport\n* Turkmenbashi Airport
+China Eastern Airlines	focusCities	*Changzhou Benniu Airport\n*Chengdu Shuangliu International Airport\n*Guangzhou Baiyun International Airport\n*Hangzhou Xiaoshan International Airport\n*Hefei Xinqiao International Airport\n*Lanzhou Zhongchuan International Airport\n*Nanchang Changbei International Airport\n*Nanjing Lukou International Airport\n*Ningbo Lishe International Airport\n*Qingdao Liuting International Airport\n*Shijiazhuang Zhengding International Airport\n*Taiyuan Wusu International Airport\n*Wuhan Tianhe International Airport
+Air Sinai	focusCities	Ben Gurion International Airport
+JetLite	focusCities	*Kempegowda International Airport \n*Chennai International Airport\n*Cochin International Airport \n*Chaudhary Charan Singh International Airport \n*Birsa Munda Airport \n*Rajiv Gandhi International Airport
+SCADTA	focusCities	El Dorado International Airport
+Virgin America	focusCities	* Dallas Love Field
+Dan-Air	focusCities	Newcastle Airport
+Air Niagara	focusCities	Newark, New Jersey
+Air Niagara	focusCities	Niagara Falls
+Lao Airlines	focusCities	Luang Prabang International Airport
+Harbour Air Seaplanes	focusCities	Vancouver, Richmond, Victoria, Nanaimo, Sechelt, Comox, Whistler, Gulf Islands
+SAHSA	focusCities	Tegucigalpa
+SAHSA	focusCities	San Pedro Sula
+SAHSA	focusCities	Managua
+SAHSA	focusCities	New Orleans
+S7 Airlines	focusCities	* Irkutsk\n* Khabarovsk\n*
+S7 Airlines	focusCities	Knevichi Airport
+S7 Airlines	focusCities	* Beijing
+Air Rhodesia	focusCities	Bulawayo
+Air Rhodesia	focusCities	Kariba, Zimbabwe
+Bearskin Airlines	focusCities	Sudbury Airport
+Hemus Air	focusCities	Varna Airport
+Bulgaria Air	focusCities	*Burgas Airport\n*Varna Airport
+Tyrolean Airways	focusCities	* Innsbruck Airport\n* Graz Airport\n* Salzburg Airport
+JAL Express	focusCities	Chūbu Centrair International Airport
+Shenzhen Airlines	focusCities	*Beijing Capital International Airport\n*Yangzhou Taizhou Airport
+EUjet	focusCities	Manchester Airport
+Portugália	focusCities	Francisco Sá Carneiro Airport
+Air Wales	focusCities	*Cork\n*Plymouth\n*Swansea
+Air Scotland	focusCities	Manchester International Airport
+New York Airways	focusCities	New York City, New York
+Aeroméxico Connect	focusCities	* Gen. I. L. Pesqueira Int'l Airport \n* Gen. A. L. Rodríguez Int'l Airport
+Air Paradise International	focusCities	Sydney, Seoul,Tokyo.
+Sun Country Airlines	focusCities	Fort Worth International Airport
+Sun Country Airlines	focusCities	Southwest Florida International Airport
+New Zealand National Airways Corporation	focusCities	Christchurch
+New Zealand National Airways Corporation	focusCities	Wellington
+New Zealand National Airways Corporation	focusCities	Auckland
+Laker Airways	focusCities	Glasgow Prestwick International Airport
+Niki	focusCities	Salzburg Airport
+Lion Air	focusCities	*Ngurah Rai International Airport \n*Kuala Namu International Airport \n*Sam Ratulangi International Airport \n*Sultan Mahmud Badaruddin II International Airport \n*Sultan Aji Muhammad Sulaiman Airport \n*Sultan Syarif Kasim II International Airport \n*Adisucipto International Airport
+KNILM	focusCities	Bandung, Semarang, Medan, Surabaya, Palembang, Banjarmasin
+Angel Air	focusCities	Chiang Mai
+Iran Air Tours	focusCities	*Shiraz Airport\n*Mashhad International Airport\n*shahid madani Airport\n*Dubai\n*Tabriz International Airport
+Iran Aseman Airlines	focusCities	*Tehran Imam Khomeini International Airport\n*Mehrabad International Airport \n*Shiraz International Airport South Station\n*Mashhad International Airport East Station\n*Rasht Airport North Station\n*Sanandaj Airport West Station
+Caspian Airlines	focusCities	Mashhad International Airport
+Qeshm Airlines	focusCities	* Tehran Imam Khomeini International Airport\n* Tehran-Mehrabad International Airport\n* Qeshm Island International Airport\n* Kish Island International Airport
+Kish Air	focusCities	* Tehran\n* Shiraz\n* Dubai\n* Isfahan
+President Airlines	focusCities	Siem Reap
+XiamenAir	focusCities	* Nanchang Changbei International Airport\n* Tianjin Binhai International Airport\n* Changsha Huanghua International Airport\n* Beijing Capital International Airport\n* Quanzhou Jinjiang International Airport \n* Wuyishan Airport
+Hawkair	focusCities	Prince Rupert, British Columbia
+Eastern Provincial Airways	focusCities	Halifax, St. John's
+Canada 3000	focusCities	Calgary International Airport
+Canada 3000	focusCities	Montréal-Mirabel
+Icelandic Airlines	focusCities	John F. Kennedy International Airport
+Icelandic Airlines	focusCities	Luxembourg – Findel Airport
+Aerolíneas Internacionales	focusCities	Tijuana International Airport
+Aerolíneas Internacionales	focusCities	Lic. Miguel de la Madrid Airport
+Aviateca	focusCities	Mundo Maya International Airport
+GB Airways	focusCities	London Heathrow Airport
+GB Airways	focusCities	Manchester Airport
+Khalifa Airways	focusCities	Oran Es Senia Airport
+Aero Asia International	focusCities	Islamabad International Airport
+Aero Asia International	focusCities	Dubai International Airport
+Aero Asia International	focusCities	Peshawar International Airport
+Aero Asia International	focusCities	Quetta International Airport
+ADC Airlines	focusCities	Abuja
+ADC Airlines	focusCities	Nigeria
+ADC Airlines	focusCities	Lagos
+ADC Airlines	focusCities	Sokoto
+ADC Airlines	focusCities	Yola, Nigeria
+ADC Airlines	focusCities	Calabar
+ADC Airlines	focusCities	Port Harcourt
+Cameroon Airlines	focusCities	Yaoundé Nsimalen International Airport
+Aegean Airlines	focusCities	Chania International Airport
+Aegean Airlines	focusCities	Rhodes International Airport
+Aegean Airlines	focusCities	Heraklion International Airport
+Aegean Airlines	focusCities	Kalamata International Airport
+Líneas Aéreas Azteca	focusCities	General Mariano Escobedo International Airport
+Líneas Aéreas Azteca	focusCities	General Abelardo L. Rodríguez International Airport
+Aero California	focusCities	Don Miguel Hidalgo y Costilla International Airport
+Aero California	focusCities	General Abelardo L. Rodríguez International Airport
+Transavia	focusCities	Groningen Airport Eelde
+TACV	focusCities	*São Pedro Airport \n*Portela Airport
+Air Greenland	focusCities	* Nuuk Airport\n* Ilulissat Airport\n* Copenhagen Airport
+Donavia	focusCities	*Mineralnye Vody \n*Moscow-Domodedovo \n*Sochi Airport
+Aeromar Líneas Aéreas Dominicanas	focusCities	*Miami International Airport
+Aeropelican Air Services	focusCities	Sydney Airport
+Aigle Azur	focusCities	Lyon-Saint Exupéry Airport
+Aigle Azur	focusCities	Marseille Provence Airport
+Aigle Azur	focusCities	Charles de Gaulle Airport
+Air Alps	focusCities	Innsbruck Airport
+AeroHonduras	focusCities	Tegucigalpa
+AeroHonduras	focusCities	San Pedro Sula
+AeroHonduras	focusCities	Managua
+AeroHonduras	focusCities	Miami
+XL Airways UK	focusCities	Newcastle Airport
+XL Airways UK	focusCities	Bristol Airport
+XL Airways UK	focusCities	East Midlands Airport
+XL Airways UK	focusCities	Birmingham International Airport
+Azzurra Air	focusCities	Rome & Bergamo, Italy
+Dubrovnik Airline	focusCities	Split Airport
+Dubrovnik Airline	focusCities	Zagreb Airport
+Seaboard World Airlines	focusCities	*New York City
+Air Iceland	focusCities	Akureyri Airport
+Air Labrador	focusCities	Lourdes-de-Blanc-Sablon Airport
+Air Labrador	focusCities	Quebec
+Caribbean Star Airlines	focusCities	Grantley Adams International Airport
+Ecuatoriana de Aviación	focusCities	Simón Bolívar International Airport
+Air India Express	focusCities	*Dubai International Airport \n*Sharjah International Airport \n*Bahrain International Airport \n*Mangalore International Airport
+Affretair	focusCities	Brussels Airport
+Affretair	focusCities	Johannesburg International Airport
+Affretair	focusCities	Lilongwe
+Affretair	focusCities	Luanda
+Affretair	focusCities	Lusaka
+South African Express	focusCities	King Shaka International Airport
+Buraq Air	focusCities	Benghazi
+Tikal Jets Airlines	focusCities	Mundo Maya International Airport
+Civair	focusCities	Cape Town
+Batavia Air	focusCities	Ngurah Rai International Airport
+Hainan Airlines	focusCities	* Dalian Zhoushuizi International Airport\n* Guangzhou Baiyun International Airport\n* Hangzhou Xiaoshan International Airport\n*
+Hainan Airlines	focusCities	Lanzhou Zhongchuan International Airport
+Hainan Airlines	focusCities	* Shenzhen Bao'an International Airport\n* Taiyuan Wusu International Airport\n* Urumqi Diwopu International Airport
+Yeti Airlines	focusCities	Biratnagar
+Yeti Airlines	focusCities	Pokhara
+Yeti Airlines	focusCities	Bhairahawa
+Travel Service	focusCities	* Brno-Tuřany Airport\n*
+Travel Service	focusCities	Leoš Janáček Airport Ostrava
+Ural Airlines	focusCities	*Irkutsk\n*Novosibirsk-Tolmachevo
+Pegasus Airlines	focusCities	*Adana Airport\n*Antalya Airport\n*Ercan Airport\n*Esenboğa International Airport\n*
+Pegasus Airlines	focusCities	İzmir Adnan Menderes International Airport
+Cosmic Air	focusCities	Indira Gandhi International Airport
+Pearl Air	focusCities	Allama Iqbal International Airport
+Nationwide Airlines	focusCities	Cape Town International Airport and Durban International Airport
+Bellview Airlines	focusCities	Nnamdi Azikiwe International Airport
+Bellview Airlines	focusCities	Port Harcourt International Airport
+Comair	focusCities	Cape Town International Airport
+Comair	focusCities	King Shaka International Airport
+Jubba Airways	focusCities	Bosaso
+Jubba Airways	focusCities	Galkayo
+Jubba Airways	focusCities	Dubai
+Jubba Airways	focusCities	Jeddah
+Shandong Airlines	focusCities	* Beijing Capital International Airport\n* Qingdao Liuting International Airport\n* Yantai Penglai International Airport
+Adam Air	focusCities	Polonia International AirportJuanda International Airport
+Royal Aviation	focusCities	Montreal, Toronto
+Roots Air	focusCities	Vancouver, Calgary, Toronto
+Pelita Air Service	focusCities	Pinang Kampai Airport
+Pelita Air Service	focusCities	Sultan Syarif Kasim II Airport
+Star Air Aviation	focusCities	Allama Iqbal International Airport
+Star Air Aviation	focusCities	Dubai International Airport
+Indonesian Airlines	focusCities	Surabaya
+Indonesian Airlines	focusCities	Juanda International Airport
+Japan Air Commuter	focusCities	Amami Airport
+Japan Air Commuter	focusCities	Fukuoka Airport
+Sempati Air	focusCities	Polonia International Airport
+Sempati Air	focusCities	Hong Kong Kai Tak Airport
+Sempati Air	focusCities	Perth Airport
+Provincial Airlines	focusCities	St. John's International Airport
+Provincial Airlines	focusCities	Happy Valley-Goose Bay, Newfoundland and Labrador
+SCAT Airlines	focusCities	*
+SCAT Airlines	focusCities	Almaty International Airport
+SCAT Airlines	focusCities	* Aqtau Airport\n*
+SCAT Airlines	focusCities	Astana International Airport
+SCAT Airlines	focusCities	* Atyrau Airport\n* Kyzylorda Airport\n* Oral Ak Zhol Airport
+Airblue	focusCities	* Islamabad\n* Lahore\n* Abu Dhabi\n* Dubai\n* Jeddah
+Kingfisher Airlines	focusCities	*Chennai International Airport\n*Pune International Airport
+Champion Air	focusCities	Lambert-St. Louis International Airport
+Champion Air	focusCities	Detroit Metropolitan Wayne County Airport
+Champion Air	focusCities	Dallas-Fort Worth International Airport
+Champion Air	focusCities	Will Rogers World Airport
+Kulula.com	focusCities	*
+Kulula.com	focusCities	Cape Town International Airport
+Kulula.com	focusCities	King Shaka International Airport
+Sky Shuttle	focusCities	Hong Kong, Macau, Shenzhen
+FitsAir	focusCities	*Dubai International Airport
+TAESA Lineas Aéreas	focusCities	Monterrey
+TAESA Lineas Aéreas	focusCities	Guadalajara
+TAESA Lineas Aéreas	focusCities	Tijuana
+Germania	focusCities	* Bremen Airport\n* Dresden Airport\n* Düsseldorf Airport\n* Erfurt-Weimar Airport\n* Hamburg Airport\n*
+Germania	focusCities	Münster Osnabrück Airport
+Aero Caribbean	focusCities	Antonio Maceo Airport
+Dominair	focusCities	Port-au-Prince-Toussaint Louverture International Airport
+Servicios Aéreos Profesionales	focusCities	*Cibao International Airport\n*La Romana International Airport
+Delta Air Transport	focusCities	Brussels Airport
+Sun-Air of Scandinavia	focusCities	*Aarhus Airport\n*Billund Airport\n*Bremen Airport
+Air Méditerranée	focusCities	*Lyon-Saint Exupéry Airport\n*Nantes Atlantique Airport
+Manchuria Aviation Company	focusCities	Shenyang
+Bluebird Cargo	focusCities	Cologne Bonn Airport
+Slok Air International	focusCities	Dakar-Yoff-Léopold Sédar Senghor International Airport
+Neos	focusCities	*
+Neos	focusCities	Bologna Guglielmo Marconi Airport
+Neos	focusCities	Il Caravaggio International Airport
+Neos	focusCities	* Verona-Villafranca Airport
+SATA Air Açores	focusCities	*Lajes Air Base\n*Horta Airport
+Nordavia	focusCities	Pulkovo Airport
+BAL Bashkirian Airlines	focusCities	Ufa Airport
+Metrojet	focusCities	Vladivostok International Airport
+Polet Airlines	focusCities	Moscow
+SAT Airlines	focusCities	Khabarovsk Novy Airport
+Yamal Airlines	focusCities	* Anapa Airport
+Yakutia Airlines	focusCities	* Chulman Airport\n* Sokol Airport\n* Irkutsk Airport\n* Vladivostok International Airport
+Islas Airways	focusCities	Gran Canaria International Airport
+LagunAir	focusCities	Salamanca Airport
+LagunAir	focusCities	Valladolid Airport
+Tadair	focusCities	Sabadell
+Tadair	focusCities	Spain
+FlyMe	focusCities	Malmö Airport
+FlyMe	focusCities	Stockholm-Arlanda Airport
+Air Efata	focusCities	Surabaya
+Air Efata	focusCities	Juanda International Airport
+Zimex Aviation	focusCities	Luanda, Hassi Messaoud, Juba
+Orbit Express Airlines	focusCities	*Almaty, Kazakhstan\n*Bishkek, Kyrgyzstan\n*Brussels, Belgium\n*Dhaka, Bangladesh\n*Hong Kong\n*Nanjing, China\n*Jiangsu, China\n*Shanghai Pudong
+Lviv Airlines	focusCities	Lviv
+Aurigny	focusCities	*London \n*Alderney
+LATAM Perú	focusCities	Alejandro Velasco Astete International Airport
+LATAM Perú	focusCities	Rodríguez Ballón International Airport
+MenaJet	focusCities	Sharjah International Airport
+Yemenia	focusCities	Aden International Airport
+Venezolana	focusCities	Simón Bolívar International Airport
+Aserca Airlines	focusCities	Santiago Mariño International Airport
+Aserca Airlines	focusCities	Las Americas International Airport
+Conviasa	focusCities	Santiago Mariño International Airport
+LASER Airlines	focusCities	Santiago Mariño Caribbean International Airport
+Greyhound Air	focusCities	Vancouver, Kelowna, Calgary, Edmonton, Winnipeg, Ottawa, Toronto, Hamilton
+LATAM Ecuador	focusCities	Mariscal Lamar International Airport
+Aerosucre	focusCities	Barranquilla, Bogota, Cali, Medellin, Isla de San Andrés, Yopal; San José , Guayaquil , Lima , Aruba , Manaus
+TAM – Transporte Aéreo Militar	focusCities	Trinidad, Bolivia
+TAM – Transporte Aéreo Militar	focusCities	Rurrenabaque
+AirNow	focusCities	Buffalo Niagara International Airport
+AirNow	focusCities	Albany International Airport
+Amakusa Airlines	focusCities	Kumamoto Airport
+Business Aviation Center	focusCities	Uzhgorod
+Bulgarian Air Charter	focusCities	*Burgas Airport\n*Plovdiv Airport\n*Sofia Airport\n*Varna Airport
+Bonaire Express	focusCities	* Queen Beatrix International Airport, Aruba \n* Hato International Airport, Curaçao
+Asia Pacific Airlines	focusCities	Marshall Islands International Airport
+Antrak Air	focusCities	Kumasi, Tamale, Sunyani, Takoradi,Accra.
+Spring Airlines	focusCities	Shijiazhuang Zhengding International Airport
+Air São Tomé and Príncipe	focusCities	Príncipe Airport
+Wings of Alaska	focusCities	Skagway, Haines, Gustavus , Hoonah , Juneau
+1time Airline	focusCities	Cape Town International Airport
+1time Airline	focusCities	King Shaka International Airport
+Air Moorea	focusCities	Moorea Airport
+Air Mikisew	focusCities	Edmonton City Centre
+Air Mikisew	focusCities	Fort Chipewyan Airport
+Air Equator	focusCities	Malé International Airport
+African Express Airways	focusCities	Dubai International Airport
+Quantum Air	focusCities	Madrid-Barajas Airport
+Quantum Air	focusCities	Palma de Mallorca Airport
+Caribair	focusCities	*María Montez International Airport\n*Port-au-Prince International Airport\n*Arroyo Barril International Airport
+LATAM Paraguay	focusCities	Guarani International Airport
+China United Airlines	focusCities	Foshan Shadi Airport
+Citilink	focusCities	* Sam Ratulangi International Airport \n* Adisucipto International Airport
+Compagnie Africaine d'Aviation	focusCities	Lubumbashi International Airport
+Curaçao Express	focusCities	Princess Juliana International Airport
+Daily Air	focusCities	Taitung Airport
+Avolar	focusCities	Don Miguel Hidalgo y Costilla International Airport
+Vanguard Airlines	focusCities	Chicago Midway Airport
+Enkor	focusCities	Ulan-Ude
+Enkor	focusCities	Ulan-Ude Airport
+Tatarstan Airlines	focusCities	Begishevo Airport
+Travira Air	focusCities	Jakarta
+NorOntair	focusCities	Sault Ste. Marie, Ontario
+NorOntair	focusCities	Greater Sudbury
+NorOntair	focusCities	Thunder Bay
+NorOntair	focusCities	Timmins
+OLT Express	focusCities	Gdansk Lech Walesa Airport
+Transwest Air	focusCities	John G. Diefenbaker International Airport
+Brymon Airways	focusCities	Bristol International Airport
+Brymon Airways	focusCities	Newcastle Airport
+Brymon Airways	focusCities	Plymouth Airport
+Perimeter Aviation	focusCities	Thompson, Manitoba
+Perimeter Aviation	focusCities	Island Lake, Manitoba
+Thunder Airlines	focusCities	Thunder Bay, Timmins, Moosonee, Kashechewan, Fort Albany, Attawapiskat, Peawanuck
+Keystone Air Service	focusCities	St Andrews, Manitoba and Winnipeg
+Morningstar Air Express	focusCities	Winnipeg International Airport
+Morningstar Air Express	focusCities	Halifax International Airport
+Morningstar Air Express	focusCities	Moncton Airport
+Morningstar Air Express	focusCities	Pierre Trudeau International Airport
+Morningstar Air Express	focusCities	Thunder Bay Airport
+Morningstar Air Express	focusCities	Vancouver International Airport
+TUI fly Belgium	focusCities	*Antwerp International Airport\n*Brussels South Charleroi Airport\n*Liège Airport\n*
+TUI fly Belgium	focusCities	Ostend-Bruges International Airport
+TUI fly Belgium	focusCities	*Lille Airport\n*Mohammed V International Airport\n*Marrakesh Menara Airport
+Air Service Plus	focusCities	*
+Air Service Plus	focusCities	Charles de Gaulle International Airport
+Air Service Plus	focusCities	Brussels South Charleroi Airport
+IBC Airways	focusCities	Miami, Florida
+IBC Airways	focusCities	Fort Lauderdale, Florida
+Austrian Airlines	focusCities	* Graz Airport\n* Innsbruck Airport\n* Salzburg Airport
+Inter Island Airways	focusCities	Apia /
+Inter Island Airways	focusCities	Faleolo International Airport
+Inter Island Airways	focusCities	Manu'a Islands /
+Inter Island Airways	focusCities	Fitiuta Airport
+Inter Island Airways	focusCities	Pago Pago /
+Inter Island Airways	focusCities	Pago Pago International Airport
+Interjet	focusCities	* Monterrey International Airport \n* Guadalajara International Airport
+Ladeco	focusCities	Calama, Chile
+Ladeco	focusCities	Santiago de Chile
+Nigeria Airways	focusCities	Port Harcourt International Airport
+Myanmar Airways International	focusCities	Singapore,Bangkok
+Thai Sky Airlines	focusCities	Hong Kong
+Thai Sky Airlines	focusCities	Bangkok
+Twin Jet	focusCities	*Marseille Provence Airport\n*
+Twin Jet	focusCities	Metz-Nancy-Lorraine Airport
+Twin Jet	focusCities	*Paris-Orly Airport
+Magnicharters	focusCities	Mexico City
+Magnicharters	focusCities	Mexico
+Magnicharters	focusCities	Monterrey
+Magnicharters	focusCities	León, Guanajuato
+Magnicharters	focusCities	Guadalajara
+North-Wright Airways	focusCities	Inuvik
+Volaris	focusCities	* Cancún International Airport\n* Los Angeles International Airport
+Presidential Airways	focusCities	Washington, D.C.
+Presidential Airways	focusCities	Boston, Massachusetts
+Golden Bay Air	focusCities	Wellington
+British United Island Airways	focusCities	Jersey Airport
+British United Island Airways	focusCities	Guernsey,
+British United Island Airways	focusCities	Isle of Man
+Porter Airlines	focusCities	*
+Porter Airlines	focusCities	Halifax Stanfield International Airport
+Porter Airlines	focusCities	Montréal-Pierre Elliott Trudeau International Airport
+Porter Airlines	focusCities	Ottawa Macdonald-Cartier International Airport
+Askari Aviation	focusCities	Rawalpindi
+VivaAerobús	focusCities	* Bachigualato Federal International Airport
+Integra Air	focusCities	Edmonton
+US Helicopter	focusCities	New York City
+TUIfly	focusCities	*
+TUIfly	focusCities	Cologne Bonn Airport
+TUIfly	focusCities	* Düsseldorf Airport\n* Frankfurt Airport\n* Hannover Airport\n* Munich Airport\n* Saarbrücken Airport\n* Stuttgart Airport
+Tiara Air	focusCities	*Kralendijk, Bonaire, Flamingo International Airport\n*Willemstad, Curaçao, Hato International Airport
+Pace Airlines	focusCities	Atlantic City International Airport
+Pace Airlines	focusCities	Dallas Love Field
+Royal Airlines	focusCities	Allama Iqbal International Airport
+Royal Airlines	focusCities	Islamabad Intl Airport
+Royal Airlines	focusCities	Dubai International Airport
+Pronto Airways	focusCities	John G. Diefenbaker International Airport
+Airlink	focusCities	King Shaka International Airport
+Airlink	focusCities	Cape Town International Airport
+Jet4you	focusCities	*Agadir\n*Marrakech\n*Paris\n*Charleroi
+SeaCoast Airlines	focusCities	Key West, Florida
+SeaCoast Airlines	focusCities	Marathon, Florida
+SeaCoast Airlines	focusCities	Florida
+Macedonian Airlines	focusCities	Thessaloniki International Airport, %22Makedonia%22
+Air Norway	focusCities	Oslo Airport, Gardermoen
+CHC Helikopter Service	focusCities	Bergen Airport, Flesland
+CHC Helikopter Service	focusCities	Brønnøysund Airport, Brønnøy
+CHC Helikopter Service	focusCities	Florø Airport
+CHC Helikopter Service	focusCities	Kristiansund Airport, Kvernberget
+Dutch Antilles Express	focusCities	*Oranjestad, Aruba\n*Kralendijk, Bonaire\n*Philipsburg, St. Maarten \n*Miami, Florida
+Shanghai Airlines Cargo	focusCities	Shanghai
+Bristow Norway	focusCities	Bergen Airport, Flesland
+Bristow Norway	focusCities	Brønnøysund Airport, Brønnøy
+Bristow Norway	focusCities	Hammerfest Airport
+DayJet	focusCities	Jacksonville, Florida
+DayJet	focusCities	St. Petersburg, Florida
+DayJet	focusCities	Orlando, Florida
+DayJet	focusCities	Lakeland, Florida
+DayJet	focusCities	Macon, Georgia
+DayJet	focusCities	Miami
+DayJet	focusCities	Opa-locka, Florida
+DayJet	focusCities	Montgomery, Alabama
+DayJet	focusCities	Naples, Florida
+DayJet	focusCities	Pensacola, Florida
+DayJet	focusCities	Sarasota, Florida
+DayJet	focusCities	Savannah, Georgia
+DayJet	focusCities	Tallahassee, Florida
+Frontier Airlines	focusCities	* Dallas-Fort Worth International Airport\n* Kansas City International Airport\n* Lambert-St. Louis International Airport\n* Salt Lake City International Airport
+West Coast Airlines	focusCities	Boise, Idaho; Portland, Oregon; Spokane, Washington
+Thomas Cook Airlines Scandinavia	focusCities	*
+Thomas Cook Airlines Scandinavia	focusCities	Gothenburg Landvetter Airport
+Thomas Cook Airlines Scandinavia	focusCities	* Malmö Airport\n* Billund Airport\n* Helsinki Airport
+Republic Airlines	focusCities	General Mitchell International Airport
+XL Airways Germany	focusCities	Hannover Airport
+Caribbean Airlines	focusCities	John F. Kennedy International Airport
+Caribbean Airlines	focusCities	Cheddi Jagan International Airport
+Pawan Hans	focusCities	Mumbai
+Pawan Hans	focusCities	New Delhi
+Zantop Air Transport	focusCities	Detroit, Michigan
+Wright Airlines	focusCities	Cleveland, Detroit
+National Airlines	focusCities	Jacksonville International Airport
+National Airlines	focusCities	John F. Kennedy International Airport
+National Airlines	focusCities	Louis Armstrong New Orleans International Airport
+National Airlines	focusCities	Tampa International Airport
+Air Montserrat	focusCities	*
+Air Montserrat	focusCities	Antigua
+Air Montserrat	focusCities	St. Kitts
+Air Montserrat	focusCities	Guadeloupe
+Air Montserrat	focusCities	St. Maarten
+Air Montserrat	focusCities	.
+Royal Air Maroc Express	focusCities	Marrakech
+Shree Airlines	focusCities	Kathmandu, Surkhet, Lukla, Syangboche and all locations in Nepal
+Insel Air	focusCities	*Kralendijk, Bonaire\n*Miami, Florida\n*Philipsburg, St. Maarten
+Avianca Nicaragua	focusCities	Bluefields
+Avianca Nicaragua	focusCities	Corn Island
+McGee Airways	focusCities	* Anchorage, Alaska\n* Bristol Bay, Alaska
+Red Wings Airlines	focusCities	Moscow
+Red Wings Airlines	focusCities	Anapa
+Red Wings Airlines	focusCities	Volgograd
+Red Wings Airlines	focusCities	Kaliningrad
+Red Wings Airlines	focusCities	Krasnodar
+Red Wings Airlines	focusCities	Makhachkala
+Red Wings Airlines	focusCities	Mineralnye Vody
+Red Wings Airlines	focusCities	Omsk
+Red Wings Airlines	focusCities	Simferopol
+Red Wings Airlines	focusCities	Sochi
+Red Wings Airlines	focusCities	Tivat
+Red Wings Airlines	focusCities	Ufa
+Petroleum Air Services	focusCities	Alexandria
+Petroleum Air Services	focusCities	Port Said
+Petroleum Air Services	focusCities	Ras Gharib
+Petroleum Air Services	focusCities	Ras Shukeir
+Petroleum Air Services	focusCities	Abu Rudeis
+South Pacific Island Airways	focusCities	Pago Pago
+South Pacific Island Airways	focusCities	American Samoa
+South Pacific Island Airways	focusCities	Apia
+South Pacific Island Airways	focusCities	Samoa
+South Pacific Island Airways	focusCities	Hagåtña, Guam
+Jupiter Airlines	focusCities	Dubai, Baghdad    UGANDA
+Viva Air Dominicana	focusCities	Punta Cana International Airport
+Merlin Express	focusCities	Providenciales International Airport
+Caribintair	focusCities	Hugo Chávez International Airport
+Air Century	focusCities	*El Portillo Airport
+Pelangi Air	focusCities	Sultan Azlan Shah Airport
+Pelangi Air	focusCities	Batu Berendam Airport
+Interavia Airlines	focusCities	Sochi
+Interavia Airlines	focusCities	Mineralnye Vody
+Interavia Airlines	focusCities	Anapa
+Interavia Airlines	focusCities	Magadan
+ANA & JP Express	focusCities	Incheon International Airport
+MyCargo Airlines	focusCities	Istanbul Atatürk Airport
+Jetstream Express	focusCities	Aberdeen Airport
+Jetstream Express	focusCities	George Best Belfast City Airport
+Jetstream Express	focusCities	Southampton Airport
+2GO	focusCities	Ninoy Aquino International Airport
+Eagle Air	focusCities	Nzérékoré
+Eagle Air	focusCities	Kankan
+Eagle Air	focusCities	Freetown
+Eagle Air	focusCities	Monrovia
+Eagle Air	focusCities	Bamako
+APA International Air	focusCities	John F. Kennedy International Airport
+Direct Air	focusCities	*Charlotte County Airport\n*Lakeland Linder Regional Airport
+AirTran JetConnect	focusCities	*Tampa International Airport
+Donghai Airlines	focusCities	Shenzhen
+Federal Air	focusCities	Johannesburg
+Federal Air	focusCities	Nelspruit
+Tianjin Airlines	focusCities	* Beijing Capital International Airport\n* Nanning Wuxu International Airport\n* Guiyang Longdongbao International Airport\n* Dalian Zhoushuizi International Airport
+China Express Airlines	focusCities	Guiyang Longdongbao International Airport
+China Express Airlines	focusCities	Hohhot Baita International Airport
+Sol Dominicana Airlines	focusCities	*Las Americas International Airport
+MDLR Airlines	focusCities	Chandigarh Airport
+Aéreo Calafia	focusCities	Ciudad Obregón International Airport
+Aéreo Calafia	focusCities	Hermosillo International Airport
+Aéreo Calafia	focusCities	Federal del Valle del Fuerte International Airport
+Central African Airways	focusCities	Lusaka Airport
+Central African Airways	focusCities	Ndola Airport
+Safi Airways	focusCities	Kabul
+Safi Airways	focusCities	Dubai
+Safi Airways	focusCities	Jeddah
+Safi Airways	focusCities	New Delhi
+Flugfélag Vestmannaeyja	focusCities	Bakki
+Orca Airways	focusCities	Tofino
+Línea Aérea Amaszonas	focusCities	Viru Viru International Airport
+Great Lakes Business Company	focusCities	Kongolo
+Aeroquetzal	focusCities	Mundo Maya International Airport
+Aerovías	focusCities	Mundo Maya International Airport
+Transportes Aéreos Guatemaltecos	focusCities	Mundo Maya International Airport
+Air Greece	focusCities	Athens
+Air Greece	focusCities	Thessaloniki
+Air Greece	focusCities	Rhodes
+Taban Air	focusCities	*Tehran Imam Khomeini International Airport\n*Mashhad International Airport\n*Isfahan International Airport\n*Mehrabad International Airport
+VietJet Air	focusCities	* Bangkok\n* Da Nang \n* Hai Phong\n* Hanoi\n* Ho Chi Minh City\n* Kuala Lumpur\n* Seoul\n* Singapore\n* Taipei\n* Yangon
+Vietnam Air Services Company	focusCities	Con Dao Airport
+Air Uganda	focusCities	Kampala
+Air Uganda	focusCities	Entebbe
+Airaia	focusCities	Vir Savarkar Airport
+Airaia	focusCities	Oiapoque Airport
+Air France	focusCities	* Nice Airport\n* Marseille Airport\n* Lyon Airport\n* Toulouse-Blagnac Airport\n* Bordeaux-Mérignac Airport
+Pan Am Express	focusCities	Detroit Metropolitan Wayne County Airport
+Avioimpex	focusCities	Ohrid Airport
+Eastar Jet	focusCities	* Jeju International Airport
+Gem State Airlines	focusCities	Boise, Idaho
+Gem State Airlines	focusCities	Coeur d'Alene, Idaho
+Ayit Aviation and Tourism	focusCities	Herzliya Airport
+Ayit Aviation and Tourism	focusCities	Ben Ya'akov Airport
+Eastern SkyJets	focusCities	Kandahar, Bagram, Camp Bastion
+BCWest Air	focusCities	Nanaimo
+Líneas Aéreas Nacionales S. A.	focusCities	Alejandro Velasco Astete International Airport
+Líneas Aéreas Nacionales S. A.	focusCities	Pucallpa Airport
+Alyemda	focusCities	Riyan Airport
+Alyemda	focusCities	Mukalla
+Alyemda	focusCities	Sayun Airport
+Alyemda	focusCities	Sayun
+Mars RK	focusCities	Kiev
+Millardair	focusCities	* Malton, Ontario
+West African Airways Corporation	focusCities	Kotoka International Airport
+Shoal Air	focusCities	Kununurra
+Shoal Air	focusCities	Wyndham, Western Australia
+Shoal Air	focusCities	Kalumburu, Western Australia
+Shoal Air	focusCities	Halls Creek
+Shoal Air	focusCities	Balgo, Western Australia
+Shoal Air	focusCities	Western Australia
+Azul Brazilian Airlines	focusCities	*Curitiba\n*Manaus\n*Porto Alegre\n*Recife\n*Rio de Janeiro-Santos Dumont \n*Salvador da Bahia\n*São Paulo-Congonhas\n*São Paulo–Guarulhos
+Astra Airlines	focusCities	Athens International Airport
+Royal Daisy Airlines	focusCities	Juba, South Sudan
+Royal Daisy Airlines	focusCities	Kisumu
+Regional Paraguaya	focusCities	Guaraní International Airport
+Fars Air Qeshm	focusCities	Dubai International Airport
+Elrom Airways	focusCities	Ein Yahav Airfield
+Command Airways	focusCities	* HBL-Babelegi Industrial Heliport * HIC-Iscor Heliport * HLA-Lanseria Airport
+Silverback Cargo Freighters	focusCities	Bole International Airport
+Silverback Cargo Freighters	focusCities	Dubai International Airport
+Silverback Cargo Freighters	focusCities	King Abdulaziz International Airport
+Silverback Cargo Freighters	focusCities	Vatry Airport
+Linus Airways	focusCities	Semarang
+Linus Airways	focusCities	Medan
+Linus Airways	focusCities	Batam
+Linus Airways	focusCities	Bandung
+Kalstar Aviation	focusCities	Samarinda Airport
+Jes Air	focusCities	Tan Son Nhat International Airport
+Boliviana de Aviación	focusCities	Jorge Wilstermann International Airport
+Boliviana de Aviación	focusCities	El Alto International Airport
+Skysouth	focusCities	Caen - Carpiquet Airport
+Skysouth	focusCities	Deauville - Saint-Gatien Airport
+Skysouth	focusCities	Le Touquet - Côte d'Opale AirportRouen Airport France
+Athens Airways	focusCities	*Alexandroupolis International Airport, \n*Mytilene International Airport, \n*Thessaloniki International Airport, \
+Skyjet Airlines	focusCities	Kampala
+Skyjet Airlines	focusCities	Entebbe
+Skyjet Airlines	focusCities	Juba, Sudan
+Skyjet Airlines	focusCities	Khartoum
+Coast Aero Center	focusCities	Haugesund Airport, Karmøy
+Blink	focusCities	Western Europe
+MexicanaLink	focusCities	Guadalajara International Airport
+Jämtlands Flyg	focusCities	Östersund
+Fuji Dream Airlines	focusCities	Fukuoka Airport
+Fuji Dream Airlines	focusCities	Tokyo International Airport
+Vision Air International	focusCities	Allama Iqbal International Airport
+Vision Air International	focusCities	Islamabad Intl Airport
+Vision Air International	focusCities	Dubai International Airport
+Vision Air International	focusCities	Faisalabad International Airport
+Babcock Mission Critical Services Offshore Ltd.	focusCities	Aberdeen, Blackpool, Humberside, Norwich, Sumburgh
+IrAero	focusCities	* Krasnoyarsk-Yemelyanovo \n* Manzhouli\n* Samara
+SkyStar Airways	focusCities	Phuket International Airport
+JetAmerica	focusCities	*Toledo Express Airport\n*Newark Liberty International Airport
+Alitalia	focusCities	*Catania-Fontanarossa Airport\n*Falcone–Borsellino Airport \n*Malpensa Airport \n*
+Alitalia	focusCities	Tirana International Airport Nënë Tereza
+Alitalia	focusCities	*Turin Airport\n*Venice Marco Polo Airport
+Pat Bay Air	focusCities	Sidney, British Columbia
+Pat Bay Air	focusCities	Cowichan Bay
+Pat Bay Air	focusCities	Gulf Islands
+Pat Bay Air	focusCities	Victoria, British Columbia
+Barnhill & McGee Airways	focusCities	* Anchorage, Alaska
+Barnhill & McGee Airways	focusCities	* Bristol Bay, Alaska
+TAP Portugal	focusCities	Madeira Airport
+Catovair	focusCities	Mauritius
+Catovair	focusCities	Réunion
+Catovair	focusCities	Rodrigues
+Seair Pacific	focusCities	Bundaberg Airport
+Seair Pacific	focusCities	Hervey Bay Airport
+Seair Pacific	focusCities	Lady Elliot Island
+Star Air Service	focusCities	Anchorage, Alaska
+Star Air Service	focusCities	Fairbanks, Alaska
+Star Air Service	focusCities	Nome, Alaska
+Air Niger	focusCities	Agadez
+Island Express Air	focusCities	Victoria, British Columbia
+Island Express Air	focusCities	Nanaimo
+Island Express Air	focusCities	Pitt Meadows
+United Airlines Limited	focusCities	Kampala
+United Airlines Limited	focusCities	Entebbe
+Krohn Air	focusCities	Molde Airport, Årø
+EZAir	focusCities	Kralendijk
+EZAir	focusCities	Bonaire
+Twin Cities Air Service	focusCities	Portland International Jetport
+Aero	focusCities	Warsaw
+Aero	focusCities	Łódź
+Aerotarg	focusCities	Warsaw, Free City of Danzig
+Intair	focusCities	Toronto
+Zhetysu	focusCities	Astana International Airport
+Air Mekong	focusCities	* Buon Ma Thuot Airport\n* Phu Quoc Airport
+Exploits Valley Air Services	focusCities	St. John's International Airport
+Exploits Valley Air Services	focusCities	Halifax International Airport
+SAPSAN	focusCities	Kostanay
+T'way Airlines	focusCities	* Daegu International Airport
+Aerolíneas Ejecutivas	focusCities	Monterrey
+Copa Airlines Colombia	focusCities	*Tocumen International Airport\n*Gustavo Rojas Pinilla International Airport\n*Jose Maria Cordova International Airport
+Cronus Airlines	focusCities	Athens
+Cronus Airlines	focusCities	Thessaloniki
+Cronus Airlines	focusCities	Heraklion
+Saudi Red Crescent Authority	focusCities	Riyadh
+Saudi Red Crescent Authority	focusCities	Jeddah
+Saudi Red Crescent Authority	focusCities	Dammam
+Petra Airlines	focusCities	King Hussein International Airport
+Artsakh Air	focusCities	Yerevan Airport
+Djibouti Air	focusCities	Dubai
+Aerolínea de Antioquia	focusCities	Barranquilla
+Aerolínea de Antioquia	focusCities	Ernesto Cortissoz International Airport
+Aerolínea de Antioquia	focusCities	Caucasia, Antioquia
+Aerolínea de Antioquia	focusCities	Juan H. White Airport
+Aerolínea de Antioquia	focusCities	Quibdó
+Aerolínea de Antioquia	focusCities	El Caraño Airport
+Air Canada Express	focusCities	*Ottawa Macdonald-Cartier International Airport\n*Winnipeg James Armstrong Richardson International Airport\n*Edmonton International Airport
+Czech Connect Airlines	focusCities	Karlovy Vary Airport
+Hamburg Airways	focusCities	* Friedrichshafen Airport\n* Münster Osnabrück International Airport
+VivaColombia	focusCities	*Rafael Núñez International Airport
+First Nation Airways	focusCities	Lagos
+Kaya Airlines	focusCities	Nampula Airport
+Air Timor	focusCities	Ngurah Rai International Airport
+Air Timor	focusCities	Singapore Changi Airport
+Air Nicaragua	focusCities	Caracas
+Air Nicaragua	focusCities	Havana
+Air Nicaragua	focusCities	Mexico City
+Sunny Airways	focusCities	Frankfurt
+Hebei Airlines	focusCities	Shijiazhuang
+Veteran Avia	focusCities	Dubai
+Veteran Avia	focusCities	Kabul
+Veteran Avia	focusCities	Yerevan
+VI Airlink	focusCities	Antigua, Anegada, Virgin Gorda, St. Thomas
+Thai Smile	focusCities	Chiang Mai International Airport
+Van Air Europe	focusCities	Isle of Man
+Island Airlines	focusCities	* Hyannis, Massachusetts\n* Nantucket, Massachusetts
+Aeroasis	focusCities	José María Córdova International Airport
+Aeroasis	focusCities	Alfonso Bonilla Aragón International Airport
+Aeroasis	focusCities	Gustavo Rojas Pinilla International Airport
+Flight Express, Inc.	focusCities	Addison, Texas
+Flight Express, Inc.	focusCities	Texas
+Flight Express, Inc.	focusCities	Nashville
+Flight Express, Inc.	focusCities	Tennessee
+U-Land Airlines	focusCities	Taipei
+U-Land Airlines	focusCities	Kaohsiung
+U-Land Airlines	focusCities	Kinmen
+Bek Air	focusCities	Almaty
+LAPE	focusCities	Madrid
+LAPE	focusCities	Barcelona
+LAPE	focusCities	Sevilla
+LAPE	focusCities	Palma de Mallorca Airport
+LAPE	focusCities	Valencia Airport
+LAPE	focusCities	Tenerife North Airport
+LAPE	focusCities	Las Palmas
+Cronos Airlines	focusCities	Malabo
+Cronos Airlines	focusCities	Bata, Equatorial Guinea
+Cronos Airlines	focusCities	Port Harcourt
+Cronos Airlines	focusCities	Douala
+Cronos Airlines	focusCities	Cotonou
+Cronos Airlines	focusCities	Mongomeyen
+Sky Angkor Airlines	focusCities	* Incheon International Airport \n* Sihanoukville International Airport
+Batik Air	focusCities	*Manado - Sam Ratulangi International Airport\n*Pekanbaru - Sultan Syarif Kasim II International Airport \n*Palembang - Sultan Mahmud Badaruddin II International Airport
+Center-South	focusCities	*Tolmachevo Airport\n*Roschino International Airport
+Air Mantra	focusCities	Dehradun
+SunExpress Deutschland	focusCities	*
+SunExpress Deutschland	focusCities	Cologne Bonn Airport
+SunExpress Deutschland	focusCities	* Düsseldorf Airport\n* Hannover Airport\n* Munich Airport \n* Stuttgart Airport
+Quassar	focusCities	Acapulco International Airport
+Rotana Jet	focusCities	*Sir Bani Yas Airport\n*Delma Airport\n*Al Ain International Airport \n*Fujairah International Airport
+WestJet Encore	focusCities	*Edmonton International Airport\n*Vancouver International Airport\n*Halifax Stanfield International Airport
+FlyNonstop	focusCities	Kristiansand Airport, Kjevik
+Zhezkazgan Air	focusCities	Karaganda
+Cal Jet Air	focusCities	*Denver International Airport\n*Los Angeles International Airport\n*Oakland International Airport\n*George Bush Intercontinental Airport
+Air Manas	focusCities	Moscow Domodedovo Airport
+Air Manas	focusCities	Istanbul Sabiha Gokcen Airport
+Samoa Air	focusCities	Asau Airport
+Samoa Air	focusCities	Maota Airport
+PANH	focusCities	Irkutsk
+PANH	focusCities	International Airport Irkutsk
+Surf Air	focusCities	* Burbank Airport\n* Hawthorne Municipal Airport\n* San Carlos Airport\n* Santa Barbara Airport\n* Truckee Tahoe Airport\n* Napa County Airport\n* McClellan Airfield \n* Monterey Regional Airport
+Punto Azul	focusCities	Bata, Mongomeyen, Douala, Accra
+Malawian Airlines	focusCities	Blantyre
+Jhonlin Air Transport	focusCities	* Syamsudin Noor Airport, Banjarbaru\n* Bersujud Airport, Simpang Empat\n* Stagen Airport, Kotabaru
+Delta Express	focusCities	* John F. Kennedy International Airport
+Delta Express	focusCities	* Logan International Airport
+Song	focusCities	Logan International Airport
+Song	focusCities	Fort Lauderdale-Hollywood International Airport
+Zagros Airlines	focusCities	*
+Zagros Airlines	focusCities	Mehrabad International Airport
+Zagros Airlines	focusCities	*Abadan Airport
+Ticos Air	focusCities	*
+Ticos Air	focusCities	Mexico City
+Ticos Air	focusCities	Guatemala
+Ticos Air	focusCities	Caracas
+Ticos Air	focusCities	Miami
+Ticos Air	focusCities	New York City
+Airways International	focusCities	West Palm Beach International Airport
+Star Air	focusCities	Juanda International Airport
+Veca Airlines	focusCities	*Juan Santamaría International Airport
+TAR Aerolineas	focusCities	* Guadalajara International Airport\n* Licenciado Gustavo Díaz Ordaz International Airport \n* Monterrey International Airport\n* Toluca International Airport
+Elite Airways	focusCities	*Newark Liberty International Airport\n*Orlando Melbourne International Airport\n*Portland International Jetport
+Norwegian Air International	focusCities	Oslo Airport, Gardermoen
+Tailwind Air Service	focusCities	Washington Dulles International Airport
+Tailwind Air Service	focusCities	Hanscom Field
+Tailwind Air Service	focusCities	New York City
+East Horizon Airlines	focusCities	Herat
+East Horizon Airlines	focusCities	Kabul
+Azman Air	focusCities	Kano
+Azman Air	focusCities	Abuja
+Azman Air	focusCities	Lagos
+Azman Air	focusCities	Maiduguri
+Azman Air	focusCities	Sokoto
+Azman Air	focusCities	Kaduna
+People Express Airlines	focusCities	Baltimore Washington International Airport
+Boutique Air	focusCities	Fort Worth International Airport
+Phoenix Airways	focusCities	Grantley Adams International Airport  Las Americas International Airport
+Cambodia Bayon Airlines	focusCities	Siem Reap International Airport
+Aerolot	focusCities	*
+Aerolot	focusCities	Kraków
+Aerolot	focusCities	Lvov
+Aerolot	focusCities	Warsaw
+Virgin Australia Airlines	focusCities	Brisbane
+Virgin Australia Airlines	focusCities	Wellington
+Virgin Australia Airlines	focusCities	Apia
+Air Andorra	focusCities	Madrid-Barajas Airport
+Air Andorra	focusCities	Barcelona-El Prat Airport
+9 Air	focusCities	Guangzhou Baiyun International Airport
+Bassaka Air	focusCities	*
+Bassaka Air	focusCities	Siem Reap Airport
+Bassaka Air	focusCities	Macau Airport
+Canada Jetlines	focusCities	*Edmonton International Airport
+Choice Airways	focusCities	Hugo Chávez International Airport
+Choice Airways	focusCities	Cap-Haïtien
+Choice Airways	focusCities	Haiti
+Ellinair	focusCities	*
+Ellinair	focusCities	Athens International Airport
+Ellinair	focusCities	*Corfu International Airport\n*
+Ellinair	focusCities	Heraklion International Airport
+Ellinair	focusCities	*Larnaca International Airport
+OneJet	focusCities	Pittsburgh International Airport
+Sakha Avia	focusCities	Tolmachevo Airport
+Sakha Avia	focusCities	Sheremetyevo International Airport
+Aluu Airlines	focusCities	Kangerlussuaq Airport
+Rioja Airlines	focusCities	Alicante, Sevilla and Málaga
+Qazaq Air	focusCities	Shymkent International Airport
+Qazaq Air	focusCities	Astana International Airport
+Atrak Air	focusCities	*Mashhad\n*Kish Island
+Pouya Cargo Air	focusCities	Shiraz International Airport
+Pouya Cargo Air	focusCities	Mashhad International Airport
+NAM Air	focusCities	Adisucipto International Airport
+NAM Air	focusCities	Sultan Mahmud Badaruddin II International Airport
+NAM Air	focusCities	Silampari Airport
+NAM Air	focusCities	Ngurah Rai International Airport
+Meraj Airlines	focusCities	*Shiraz\n*Istanbul\n*Kuwait
+Reliant Air	focusCities	Nantucket, MA
+FLYEST	focusCities	Stockholm, Tallinn, Saint Petersburg
+Fly Baghdad	focusCities	* Baghdad\n* Sulaimaniyah\n* Erbil\n* Istanbul
+APEX Airlines	focusCities	Yangon International Airport
+Tropic Ocean Airways	focusCities	Miami Seaplane Base
+Andorra Airlines	focusCities	* Madrid\n* Palma de Mallorca\n* Paris\n* Porto
+SkyBus International Airlines	focusCities	Batumi
+Ludington Airline	focusCities	New York City
+Ludington Airline	focusCities	Washington, D.C.

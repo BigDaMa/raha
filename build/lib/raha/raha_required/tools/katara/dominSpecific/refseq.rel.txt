@@ -1,0 +1,1310 @@
+Chymotrypsin	refseq	NM_001906
+Chymotrypsin	refseq	NM_001025200
+Chymotrypsin	refseq	NM_007272
+DNA ligase	refseq	NM_000234
+DNA ligase	refseq	NM_002311
+DNA ligase	refseq	NM_002312
+Lactase	refseq	NM_002299
+Monoamine oxidase	refseq	NM_000240
+Monoamine oxidase	refseq	NM_000898
+Superoxide dismutase	refseq	NM_000454
+Superoxide dismutase	refseq	NM_000636
+Superoxide dismutase	refseq	NM_003102
+Trypsin	refseq	NM_002769
+Trypsin	refseq	NM_002770
+Trypsin	refseq	NM_002771
+Chitinase	refseq	NM_001040623
+Chitinase	refseq	NM_003465
+Adrenocorticotropic hormone	refseq	NM_000939
+Chymosin	refseq	NP_851337.1
+Chymosin	refseq	NR_003599
+Beta-galactosidase	refseq	NM_000404
+Alcohol dehydrogenase	refseq	NM_000667
+Alcohol dehydrogenase	refseq	NM_000668
+Alcohol dehydrogenase	refseq	NM_000669
+Alcohol dehydrogenase	refseq	NM_000670
+Alcohol dehydrogenase	refseq	NM_000671
+Alcohol dehydrogenase	refseq	NM_000672
+Alcohol dehydrogenase	refseq	NM_000673
+Xanthine oxidase	refseq	NM_000379
+Iodothyronine deiodinase	refseq	NM_000792
+Iodothyronine deiodinase	refseq	NM_000793
+Iodothyronine deiodinase	refseq	NM_001362
+Ornithine decarboxylase	refseq	NM_002539
+Hexokinase	refseq	NM_000188
+Hexokinase	refseq	NM_000189
+Hexokinase	refseq	NM_002115
+Pepsin	refseq	NM_001079807
+Pepsin	refseq	NM_001079808
+Pepsin	refseq	NM_014224
+Pepsin	refseq	NM_001166424
+Growth hormone	refseq	NM_022562
+Growth hormone	refseq	NM_002059
+Thyrotropin-releasing hormone	refseq	NM_007117
+Fibrinogen	refseq	NM_000508
+Fibrinogen	refseq	NM_005141
+Fibrinogen	refseq	NM_021870
+CD32	refseq	NM_021642
+CD32	refseq	NM_004001
+CD32	refseq	NM_201563
+Luteinizing hormone	refseq	NM_000735
+Luteinizing hormone	refseq	NM_000894
+Proinsulin	refseq	NM_000207
+Alanine transaminase	refseq	NM_005309
+Orexin	refseq	NM_001524
+Human chorionic gonadotropin	refseq	NM_000735
+Human chorionic gonadotropin	refseq	NM_000737
+Fructose 1,6-bisphosphatase	refseq	NM_000507
+Cyclooxygenase	refseq	NM_080591
+Cyclooxygenase	refseq	NM_000963
+Follicle-stimulating hormone	refseq	NM_000735
+Follicle-stimulating hormone	refseq	NM_000510
+Thyroid-stimulating hormone	refseq	NM_000735
+Thyroid-stimulating hormone	refseq	NM_000549
+Signal recognition particle	refseq	NM_003133
+Signal recognition particle	refseq	NM_003134
+Signal recognition particle	refseq	NM_003135
+Signal recognition particle	refseq	NM_003136
+Signal recognition particle	refseq	NM_014230
+Signal recognition particle	refseq	NM_006947
+Gamma-glutamyl transpeptidase	refseq	NM_001032364
+Gamma-glutamyl transpeptidase	refseq	NM_002058
+Substance P	refseq	NM_003182
+BK channel	refseq	NM_002247
+BK channel	refseq	NM_004137
+BK channel	refseq	NM_181361
+BK channel	refseq	NM_171828
+BK channel	refseq	NG_002679
+BK channel	refseq	NM_014505
+Ferritin	refseq	NM_000146
+Ferritin	refseq	NM_002032
+Ferritin	refseq	NM_177478
+Aspartate carbamoyltransferase	refseq	NM_004341
+Protein disulfide-isomerase	refseq	NM_006849
+Protein disulfide-isomerase	refseq	NM_005313
+Protein disulfide-isomerase	refseq	NM_004911
+Protein disulfide-isomerase	refseq	NM_006810
+Protein disulfide-isomerase	refseq	NM_005742
+Clathrin	refseq	NM_001834
+Clathrin	refseq	NM_004859
+Clathrin	refseq	NM_001835
+COPII	refseq	NM_006364
+COPII	refseq	XM_001132082
+Cytochrome C1	refseq	NM_001916.4
+Melanocyte-stimulating hormone	refseq	NM_000939
+Bradykinin	refseq	NM_001102416
+Cholinesterase	refseq	NM_015831
+Cholinesterase	refseq	NM_000055
+Galactokinase	refseq	NM_000154
+Galactokinase	refseq	NM_002044
+Alpha-2-Macroglobulin	refseq	NM_000014
+Cannabinoid receptor	refseq	NM_033181
+Cannabinoid receptor	refseq	NM_001841
+Peroxisome proliferator-activated receptor	refseq	NM_001001928
+Peroxisome proliferator-activated receptor	refseq	NM_005037
+Peroxisome proliferator-activated receptor	refseq	NM_006238
+Arginase	refseq	NM_000045
+Arginase	refseq	NM_001172
+Dynorphin	refseq	NM_024411
+Angiotensin receptor	refseq	NM_000685
+Angiotensin receptor	refseq	NM_000686
+Cholecystokinin receptor	refseq	NM_000730
+Cholecystokinin receptor	refseq	NM_176875
+Ribonucleotide reductase	refseq	NM_001033
+Ribonucleotide reductase	refseq	NM_001034
+Ribonucleotide reductase	refseq	NM_015713
+Aromatic L-amino acid decarboxylase	refseq	NM_000790
+Calcineurin	refseq	NM_000944
+Calcineurin	refseq	NM_021132
+Calcineurin	refseq	NM_005605
+Calcineurin	refseq	NM_000945
+Calcineurin	refseq	NM_147180
+Glycophorin C	refseq	NM_002101
+RecQ helicase	refseq	NM_000057
+RecQ helicase	refseq	NM_004260
+RecQ helicase	refseq	NM_004259
+RecQ helicase	refseq	NM_024945
+RecQ helicase	refseq	NM_000553
+Thioredoxin reductase	refseq	NM_003330
+Thioredoxin reductase	refseq	NM_006440
+Thioredoxin reductase	refseq	XM_051264
+Glutamate dehydrogenase	refseq	NM_005271
+Glutamate dehydrogenase	refseq	NM_012084
+High-molecular-weight kininogen	refseq	NM_001102416
+GSK-3	refseq	NM_019884
+GSK-3	refseq	NM_002093
+Malate dehydrogenase	refseq	NM_005917
+Malate dehydrogenase	refseq	NM_005918
+Ferredoxin	refseq	NM_004109
+Enkephalin	refseq	NM_006211
+Epoxide hydrolase	refseq	NM_000120
+Epoxide hydrolase	refseq	NM_001979
+Epoxide hydrolase	refseq	NM_024794
+Epoxide hydrolase	refseq	NM_173567
+Inositol trisphosphate receptor	refseq	NM_002222
+Inositol trisphosphate receptor	refseq	NM_002223
+Inositol trisphosphate receptor	refseq	NM_002224
+Isocitrate dehydrogenase	refseq	NM_005896
+Isocitrate dehydrogenase	refseq	NM_002168
+Isocitrate dehydrogenase	refseq	NM_005530
+Isocitrate dehydrogenase	refseq	NM_174855
+Isocitrate dehydrogenase	refseq	NM_174869
+5-alpha reductase	refseq	NM_001047
+5-alpha reductase	refseq	NM_000348
+Urokinase	refseq	NM_002658
+Internexin	refseq	NM_032727
+Neurofilament	refseq	NM_006158
+Neurofilament	refseq	NM_005382
+Neurofilament	refseq	NM_021076
+Neurofilament	refseq	NM_032727
+Neurofilament	refseq	NP_006608
+Thymidine kinase	refseq	NM_003258
+Thymidine kinase	refseq	NM_004614
+Factor XIII	refseq	NM_000129
+Factor XIII	refseq	NM_001994
+Glucokinase regulatory protein	refseq	NM_001486
+Cysteine dioxygenase	refseq	NM_001801
+Anti-Müllerian hormone	refseq	NM_000479
+Anti-Müllerian hormone	refseq	NM_020547
+Neuraminidase	refseq	NM_000434
+Neuraminidase	refseq	NM_005383
+Neuraminidase	refseq	NM_006656
+Neuraminidase	refseq	NM_080741
+Protein Z-related protease inhibitor	refseq	NM_016186
+Protein Z	refseq	NM_003891
+Estrogen receptor	refseq	NM_000125
+Estrogen receptor	refseq	NM_001040275
+Glutamate decarboxylase	refseq	NM_000817
+Glutamate decarboxylase	refseq	NM_001047
+Glycogen phosphorylase	refseq	NM_005609
+Glycogen phosphorylase	refseq	NM_002863
+Glycogen phosphorylase	refseq	NM_002862
+Gastric inhibitory polypeptide	refseq	NM_004123
+Fibrillin	refseq	NM_000138
+Fibrillin	refseq	NM_001999
+Fibrillin	refseq	NM_032447
+Protein kinase B	refseq	NM_005163
+Protein kinase B	refseq	NM_001626
+Protein kinase B	refseq	NM_181690
+Protamine	refseq	NM_002761
+Protamine	refseq	NM_002762
+Motilin	refseq	NM_001040109
+Ryanodine receptor	refseq	NM_000540
+Ryanodine receptor	refseq	NM_001035
+Ryanodine receptor	refseq	NM_001036
+Amelogenin	refseq	NM_001142
+Amelogenin	refseq	NM_001143
+Nitrilase	refseq	NM_005600
+Trehalase	refseq	NM_007180
+Interleukin 12	refseq	NM_000882
+Interleukin 12	refseq	NM_002187
+Aconitase	refseq	NM_002197
+Aconitase	refseq	NM_001098
+CGMP-dependent protein kinase	refseq	NM_006258
+CGMP-dependent protein kinase	refseq	NM_006259
+Amyloid beta	refseq	NM_000484
+Protease-activated receptor	refseq	NM_001992
+Protease-activated receptor	refseq	NM_005242
+Protease-activated receptor	refseq	NM_004101
+Protease-activated receptor	refseq	NM_003950
+Caveolin	refseq	NM_001753
+Caveolin	refseq	NM_001233
+Caveolin	refseq	NM_001234
+Pyruvate carboxylase	refseq	NM_000920
+GABAB receptor	refseq	NM_021905
+GABAB receptor	refseq	NM_005458
+Glycogenin	refseq	NM_004130
+Glycogenin	refseq	NM_003918
+Cyclophilin	refseq	NM_203430
+CD1	refseq	NM_001763
+CD1	refseq	NM_001764
+CD1	refseq	NM_001765
+CD1	refseq	NM_001766
+CD1	refseq	NM_030893
+Hepatocyte nuclear factor 4	refseq	NM_001030004
+Hepatocyte nuclear factor 4	refseq	NM_004133
+CD8	refseq	NM_001768
+CD8	refseq	NM_172099
+Beta-glucuronidase	refseq	NM_000181
+NF-κB	refseq	NM_003998
+NF-κB	refseq	NM_021975
+NF-κB	refseq	NM_002502
+NF-κB	refseq	NM_006509
+NF-κB	refseq	NM_002908
+GABAA-rho receptor	refseq	NM_002042
+GABAA-rho receptor	refseq	NM_002043
+GABAA-rho receptor	refseq	NM_001105580
+Enteropeptidase	refseq	NM_002772
+Hypoxia-inducible factors	refseq	NM_001530
+Hypoxia-inducible factors	refseq	NM_001668
+Hypoxia-inducible factors	refseq	NM_001430
+Hypoxia-inducible factors	refseq	NM_014862
+Hypoxia-inducible factors	refseq	NM_152794
+Endothelin	refseq	NM_001955
+Endothelin	refseq	NM_001956
+Endothelin	refseq	NM_000114
+Von Hippel–Lindau binding protein 1	refseq	NM_003372
+Glutamine synthetase	refseq	NM_002065
+Transketolase	refseq	NM_001064
+Glycogen synthase	refseq	NM_002103
+Glycogen synthase	refseq	NM_021957
+Thyroid peroxidase	refseq	NM_175722
+Growth hormone–releasing hormone	refseq	NM_021081
+Band 3	refseq	NM_018158
+Obestatin	refseq	NM_016362
+Melanin-concentrating hormone	refseq	NM_002674
+Relaxin	refseq	NM_006911
+Relaxin	refseq	NM_134441
+Relaxin	refseq	NM_080864
+Histone H3	refseq	NM_002107
+Histone H3	refseq	NM_005324
+Spermidine synthase	refseq	NM_003132
+Complement component 5a	refseq	NM_001735
+Androgen-binding protein	refseq	NM_001040
+Hepcidin	refseq	NM_021175
+GDP-fucose protein O-fucosyltransferase 1	refseq	NM_172236
+GDP-fucose protein O-fucosyltransferase 2	refseq	NM_133634
+Argininosuccinate synthase	refseq	NM_000050
+Argininosuccinate lyase	refseq	NM_000048
+Holocarboxylase synthetase	refseq	NM_000411
+Collagen, type XI, alpha 2	refseq	NM_080679
+Glycogen branching enzyme	refseq	NM_000158
+IKBKAP	refseq	NM_003640
+Xenin	refseq	NP_001091868
+MuSK protein	refseq	NM_005592
+Biliverdin reductase	refseq	NM_000712
+Biliverdin reductase	refseq	NM_000713
+Methylmalonyl-CoA mutase deficiency	refseq	NP_000246
+Gonadotropin-releasing hormone receptor	refseq	NM_000406
+Gonadotropin-releasing hormone receptor	refseq	NR_002328
+IIIa	refseq	NM_000419
+IIIa	refseq	NM_000212
+Shaker gene	refseq	NM_002232
+Human serum albumin	refseq	NM_000477
+Nociceptin	refseq	NM_006228
+Prolactin receptor	refseq	NM_000949
+Human placental lactogen	refseq	NM_001317
+Human placental lactogen	refseq	NM_020991
+4-Hydroxyphenylpyruvate dioxygenase	refseq	NM_002150
+Cytochrome b5	refseq	NM_001914
+Telokin	refseq	NM_053025
+Pancreatic polypeptide	refseq	NM_002722
+Calbindin	refseq	NM_004929
+Calbindin	refseq	NM_001740
+RAB27	refseq	NM_004580
+RAB27	refseq	NM_004163
+Phospholipid scramblase	refseq	NM_021105
+Phospholipid scramblase	refseq	NM_020359
+Phospholipid scramblase	refseq	NM_020360.1
+Phospholipid scramblase	refseq	NM_020353
+Phospholipid scramblase	refseq	XM_371670
+Fetuin	refseq	NM_001622
+Fetuin	refseq	NM_014375
+Sphingosine kinase	refseq	NM_182965
+Sphingosine kinase	refseq	NM_020126
+Myosin light-chain kinase	refseq	NM_053025
+Myosin light-chain kinase	refseq	NM_033118
+Myosin light-chain kinase	refseq	NM_182493
+Myosin light-chain kinase	refseq	NM_001012418
+Porphobilinogen synthase	refseq	NM_001003945
+CD72	refseq	NM_001782
+Sterol regulatory element-binding protein	refseq	NM_004176
+Sterol regulatory element-binding protein	refseq	NM_004599
+KAL1 gene	refseq	NM_000216
+Hydrogen potassium ATPase	refseq	NM_000704
+Hydrogen potassium ATPase	refseq	NM_000705
+P300-CBP coactivator family	refseq	NM_001429
+P300-CBP coactivator family	refseq	NM_004380
+Ku	refseq	NM_021141
+Ku	refseq	NM_001469
+Vasopressin receptor	refseq	NM_000706
+Vasopressin receptor	refseq	NM_000707
+Vasopressin receptor	refseq	NM_000054
+N-Acetylglutamate synthase	refseq	NM_153006
+Inositol monophosphatase	refseq	NP_001138350
+Inositol monophosphatase	refseq	NP_055029
+Inositol monophosphatase	refseq	NP_060283
+Frzb	refseq	NM_001463
+FCER1	refseq	NM_002001
+FCER1	refseq	NM_000139
+FCER1	refseq	NM_004106
+Steroidogenic acute regulatory protein	refseq	NM_000349
+Carbamoyl phosphate synthetase I	refseq	NM_001875
+Phospholipase D	refseq	NM_002662
+Phospholipase D	refseq	NM_002663
+Agouti signalling peptide	refseq	NM_001672
+Guanylin	refseq	NM_033553
+Thyroid hormone receptor	refseq	NM_199334
+Thyroid hormone receptor	refseq	NM_000461
+Inositol oxygenase	refseq	NM_017584
+PELP-1	refseq	NM_014389
+Macrophage inflammatory protein	refseq	NM_002983
+Macrophage inflammatory protein	refseq	NM_002984
+Deoxyribonuclease II	refseq	NM_001375
+Deoxyribonuclease II	refseq	NM_021233
+Collagenase	refseq	NM_002421
+Collagenase	refseq	NM_002424
+Kell antigen system	refseq	NM_000420
+Ankyrin	refseq	NM_000037
+Ankyrin	refseq	NM_001148
+Ankyrin	refseq	NM_020987
+XK	refseq	NM_021083
+Beta-glucosidase	refseq	NM_020973
+Phosphoenolpyruvate carboxykinase	refseq	NM_002591
+Phosphoenolpyruvate carboxykinase	refseq	NM_001018073
+Cyclin A	refseq	NM_003914
+Cyclin A	refseq	NM_001237
+Cyclin E	refseq	NM_001238
+Cyclin E	refseq	NM_057749
+Cyclin B	refseq	NM_031966
+Cyclin B	refseq	NM_004701
+Cyclin B	refseq	NM_033670
+Arrestin	refseq	NM_000541
+Arrestin	refseq	NM_004041
+Arrestin	refseq	NM_004313
+Arrestin	refseq	NM_004312
+Calcitonin gene-related peptide	refseq	NM_001741
+Calcitonin gene-related peptide	refseq	NM_000728
+Neuropeptide Y receptor	refseq	NM_000909
+Neuropeptide Y receptor	refseq	NM_000910
+Neuropeptide Y receptor	refseq	NM_005972
+Neuropeptide Y receptor	refseq	NM_006174
+Lipotropin	refseq	NM_000939
+Phosphoglycerate kinase	refseq	NM_000291
+Phosphoglycerate kinase	refseq	NM_138733
+Bisphosphoglycerate mutase	refseq	NM_001724
+Phosphoglycerate mutase	refseq	NM_002629
+Phosphoglycerate mutase	refseq	NM_000290
+Chordin	refseq	NM_003741
+Uroporphyrinogen III synthase	refseq	NM_000375
+Casein kinase 2	refseq	NM_001895
+Casein kinase 2	refseq	NM_001896
+Casein kinase 2	refseq	NM_001320
+Lefty	refseq	NM_020997
+Lefty	refseq	NM_003240
+Angiopoietin	refseq	NM_001146
+Angiopoietin	refseq	NM_001147
+Endothelin receptor	refseq	NM_001957
+Endothelin receptor	refseq	NM_000115
+Bradykinin receptor	refseq	NM_000710
+Bradykinin receptor	refseq	NM_000623
+Alpha-Mannosidase	refseq	NM_000528
+Alpha-Mannosidase	refseq	NM_015274
+Alpha-Mannosidase	refseq	NM_006715
+Retinoic acid receptor	refseq	NM_000964
+Retinoic acid receptor	refseq	NM_000965
+Retinoic acid receptor	refseq	NM_000966
+Retinoid X receptor	refseq	NM_002957
+Retinoid X receptor	refseq	NM_021976
+Retinoid X receptor	refseq	NM_006917
+Liver X receptor	refseq	NM_005693
+Liver X receptor	refseq	NM_007121
+Hexosaminidase	refseq	NM_000520
+Hexosaminidase	refseq	NM_000521
+Hexosaminidase	refseq	NM_012215
+Hexosaminidase	refseq	NM_173620
+Somatostatin receptor	refseq	NM_001049
+Somatostatin receptor	refseq	NM_001050
+Somatostatin receptor	refseq	NM_001051
+Somatostatin receptor	refseq	NM_001052
+Somatostatin receptor	refseq	NM_001053
+Parathyroid hormone receptor	refseq	NM_000316
+Parathyroid hormone receptor	refseq	NM_005048
+Platelet-derived growth factor receptor	refseq	NM_006206
+Platelet-derived growth factor receptor	refseq	NM_002609
+Vasoactive intestinal peptide receptor	refseq	NM_004624
+Vasoactive intestinal peptide receptor	refseq	NM_003382
+Vasoactive intestinal peptide receptor	refseq	NM_001118
+Tachykinin receptor	refseq	NM_001058
+Tachykinin receptor	refseq	NM_001057
+Tachykinin receptor	refseq	NM_001059
+Archain	refseq	NM_001655
+Activin type 2 receptors	refseq	NM_001616
+Activin type 2 receptors	refseq	NM_001106
+Ribosome Recycling Factor	refseq	NM_138777
+Sterolin	refseq	NM_022436
+Sterolin	refseq	NM_022437
+CD98	refseq	NM_001013251
+CD98	refseq	NM_003486
+Transcobalamin	refseq	NM_001062
+Transcobalamin	refseq	NM_000355
+Sodium-glucose transport proteins	refseq	NM_000343
+Sodium-glucose transport proteins	refseq	NM_003041
+Sodium-glucose transport proteins	refseq	NM_014227
+Complement component 7	refseq	NM_000587
+Complement component 9	refseq	NM_001737
+Complement component 1R	refseq	NM_001733
+Complement component 1s	refseq	NM_001734
+Factor D	refseq	NM_001928
+C4b-binding protein	refseq	NM_000715
+C4b-binding protein	refseq	NM_000716
+Asialoglycoprotein receptor	refseq	NM_001671
+Asialoglycoprotein receptor	refseq	NM_080914
+Na-K-Cl cotransporter	refseq	NM_000338
+Na-K-Cl cotransporter	refseq	NM_001046
+Neurturin	refseq	NM_004558
+IL-2 receptor	refseq	NM_000417
+IL-2 receptor	refseq	NM_000878
+IL-2 receptor	refseq	NM_000206
+Lysyl hydroxylase	refseq	NM_000302
+Lysyl hydroxylase	refseq	NM_000935
+Iduronidase	refseq	NM_000203
+Aryl hydrocarbon receptor repressor	refseq	NM_020731
+Dihydropyrimidine dehydrogenase	refseq	NM_000110
+Ataxin 7	refseq	NM_000333
+Malonyl-CoA decarboxylase	refseq	NM_012213
+Vitamin K epoxide reductase	refseq	NM_024006
+Villin	refseq	NM_007127
+Villin	refseq	NM_003379
+Interleukin-1 receptor	refseq	NM_000877
+Interleukin-1 receptor	refseq	NM_173343
+Interleukin-1 receptor	refseq	NM_134470
+Estrogen-related receptor	refseq	NM_004451
+Estrogen-related receptor	refseq	NM_004452
+Estrogen-related receptor	refseq	NM_206595
+Geranylgeranyltransferase type 1	refseq	NM_002027
+Geranylgeranyltransferase type 1	refseq	NM_005023
+Rab geranylgeranyltransferase	refseq	NM_004581
+Rab geranylgeranyltransferase	refseq	NM_004582
+DNA clamp	refseq	NM_002592
+D-amino acid oxidase	refseq	NM_001917
+Duodenal cytochrome B	refseq	NM_024843
+CD3	refseq	NM_000732
+CD3	refseq	NM_000733
+CD3	refseq	NM_000073
+Monoacylglycerol lipase	refseq	NM_007283
+Diacylglycerol lipase	refseq	NM_006133
+Diacylglycerol lipase	refseq	NM_139179
+Arylsulfatase B	refseq	NM_000046
+Emopamil binding protein	refseq	NM_006579
+Glyceronephosphate O-acyltransferase	refseq	NM_014236
+Alkylglycerone phosphate synthase	refseq	NM_003659
+P14arf	refseq	NM_058195
+3beta-Hydroxysteroid dehydrogenase	refseq	NM_000862
+3beta-Hydroxysteroid dehydrogenase	refseq	NM_000198
+Extracellular signal–regulated kinases	refseq	NM_002745
+Extracellular signal–regulated kinases	refseq	NM_001040056
+Cation channels of sperm	refseq	NM_053054
+Cation channels of sperm	refseq	NM_172097
+Cation channels of sperm	refseq	NM_178019
+Cation channels of sperm	refseq	NM_198137
+Two-pore channel	refseq	NM_017901
+Two-pore channel	refseq	NM_139075
+Transporter associated with antigen processing	refseq	NM_000593
+Transporter associated with antigen processing	refseq	NM_000544
+Recombination-activating gene	refseq	NM_000448
+Recombination-activating gene	refseq	NM_000536
+Calsequestrin	refseq	NM_001231
+Calsequestrin	refseq	NM_001232
+Corticotropin-like intermediate peptide	refseq	NM_000939
+Sodium-calcium exchanger	refseq	NM_021097
+Sodium-calcium exchanger	refseq	NM_015063
+Sodium-calcium exchanger	refseq	NM_033262
+Lymphotoxin	refseq	NM_000595
+Lymphotoxin	refseq	NM_002341
+Chimerin 1	refseq	NM_001822
+Glia maturation factor	refseq	NM_004124
+Glia maturation factor	refseq	NM_004877
+Apoptosis-inducing factor	refseq	NM_004208
+Neurocalcin	refseq	NM_001040628
+Son of Sevenless	refseq	NM_005633
+Son of Sevenless	refseq	NM_006939
+Recoverin	refseq	NM_002903
+Myelin-associated glycoprotein	refseq	NM_080600
+Neuropilin	refseq	NM_001024628
+Neuropilin	refseq	NM_201279
+permeability-increasing protein	refseq	NM_001725
+Olfactory marker protein	refseq	NM_006189
+C-Jun N-terminal kinases	refseq	NM_002750
+C-Jun N-terminal kinases	refseq	NM_002752
+C-Jun N-terminal kinases	refseq	NM_002753
+P38 mitogen-activated protein kinases	refseq	NM_002751
+P38 mitogen-activated protein kinases	refseq	NM_002969
+P38 mitogen-activated protein kinases	refseq	NM_002754
+P38 mitogen-activated protein kinases	refseq	NM_001315
+ATP-sensitive potassium channel	refseq	NM_004982
+ATP-sensitive potassium channel	refseq	NM_000525
+ATP-sensitive potassium channel	refseq	NM_000352
+ATP-sensitive potassium channel	refseq	NM_005691
+Phospholipase B	refseq	NM_153021
+Calponin	refseq	NM_001299
+Calponin	refseq	NM_004368
+Calponin	refseq	NM_001839
+Orosomucoid	refseq	NM_000607
+Orosomucoid	refseq	NM_000608
+Pannexin	refseq	NM_015368
+Pannexin	refseq	NM_052839
+Pannexin	refseq	NM_052959
+Destrin	refseq	NM_006870
+CCL28	refseq	NM_148672
+MCEF	refseq	NM_014423
+Presenilin	refseq	NM_000021
+Presenilin	refseq	NM_000447
+Interleukin 28	refseq	NM_172138
+Interleukin 28	refseq	NM_172139
+Interleukin 27	refseq	NM_145659
+Interleukin 27	refseq	NM_005755
+Phosphodiesterase 3	refseq	NM_000921
+Phosphodiesterase 3	refseq	NM_000922
+Interleukin 17	refseq	NP_002181
+Interleukin 17	refseq	NP_055258
+Interleukin 17	refseq	NP_037410
+Interleukin 17	refseq	NP_612141
+Interleukin 17	refseq	NP_073626
+Interleukin 17	refseq	NP_443104
+Tryptophan hydroxylase	refseq	NM_004179
+Tryptophan hydroxylase	refseq	NM_173353
+Serum amyloid A	refseq	NM_199161
+Serum amyloid A	refseq	NM_030754
+Serum amyloid A	refseq	NM_006512
+Melatonin receptor	refseq	NM_005958
+Melatonin receptor	refseq	NM_005959
+CCL1	refseq	NM_002981
+Clostridium perfringens alpha toxin	refseq	NP_560952.1
+Enoyl-CoA hydratase	refseq	NM_001966
+ATP citrate lyase	refseq	NM_001096
+Inorganic pyrophosphatase	refseq	NM_021129
+Inorganic pyrophosphatase	refseq	NM_176869
+Propionyl-CoA carboxylase	refseq	NM_000282
+Propionyl-CoA carboxylase	refseq	NM_000532
+Pyruvate dehydrogenase	refseq	NM_000284
+Pyruvate dehydrogenase	refseq	NM_005390
+Pyruvate dehydrogenase	refseq	NM_000925
+Podocin	refseq	NM_014625
+CCL13	refseq	NM_005408
+CCL25	refseq	NM_005624
+Complement receptor of the immunoglobulin family	refseq	NM_007268
+Fibrocystin	refseq	NM_138694
+CCL14	refseq	NM_032962
+CCL16	refseq	NM_004590
+CCL15	refseq	NM_032965
+C1Q complex	refseq	NM_015991
+C1Q complex	refseq	NM_000491
+C1Q complex	refseq	NM_172369
+Glutathione synthetase	refseq	NM_000178
+CCL6	refseq	NM_009139
+CCL23	refseq	NM_005064
+CCL24	refseq	NM_002991
+CCL26	refseq	NM_006072
+CCL27	refseq	NM_006664
+CXCL2	refseq	NM_002089
+Heterochromatin protein 1	refseq	NM_012117
+Heterochromatin protein 1	refseq	NM_006807
+Heterochromatin protein 1	refseq	NM_007276
+Myophosphorylase	refseq	NM_005609
+CXCL14	refseq	NM_004887
+Methylcrotonyl-CoA carboxylase	refseq	NM_020166
+Methylcrotonyl-CoA carboxylase	refseq	NM_022132
+Scleraxis	refseq	XM_926116
+Procollagen peptidase	refseq	NM_002768
+Type II collagen	refseq	NM_001844
+Type I collagen	refseq	NM_000088
+Type I collagen	refseq	NM_000089
+Neurokinin A	refseq	NM_013998
+Phenylethanolamine N-methyltransferase	refseq	NM_002686
+Neurogranin	refseq	NM_006176
+Neurotensin receptor	refseq	NM_002531
+Neurotensin receptor	refseq	NM_012344
+Neurotensin receptor	refseq	NM_002959
+Galanin receptor	refseq	NM_001480
+Galanin receptor	refseq	NM_003857
+Galanin receptor	refseq	NM_003614
+Corticotropin-releasing hormone receptor	refseq	XM_001128344
+Corticotropin-releasing hormone receptor	refseq	NM_001883
+TGF beta receptor	refseq	NM_004612
+TGF beta receptor	refseq	NM_001024847
+TGF beta receptor	refseq	NM_003243
+Parvalbumin	refseq	NM_002854
+Cocaine and amphetamine regulated transcript	refseq	NM_004291
+Rhodopsin kinase	refseq	NM_002929
+Aralkylamine N-acetyltransferase	refseq	NM_001088
+CAMP receptor protein	refseq	NP_417816.1
+Sucrase-isomaltase	refseq	NM_001041
+CAD	refseq	NM_004341
+Dihydroorotate dehydrogenase	refseq	NM_001361
+Transferrin receptor	refseq	NM_003234
+Transferrin receptor	refseq	NM_003227
+Atrial natriuretic peptide receptor	refseq	NM_000906
+Atrial natriuretic peptide receptor	refseq	NM_003995
+Atrial natriuretic peptide receptor	refseq	NM_000908
+Adenine nucleotide translocator	refseq	NM_001151
+Adenine nucleotide translocator	refseq	NM_001152
+Adenine nucleotide translocator	refseq	NM_001636
+Neurophysin II	refseq	NM_000490
+Growth hormone-binding protein	refseq	NM_000163
+Oct-2	refseq	NM_002698
+Laforin	refseq	NM_001018041
+Sorbitol dehydrogenase	refseq	NM_003104
+N-Acetylglucosamine receptor	refseq	NM_005968
+Complement component 4	refseq	NM_007293
+Complement component 4	refseq	NM_000592
+Chymase	refseq	NM_001836
+Channel-inducing factor 4	refseq	NM_173160
+Sialoadhesin	refseq	NM_023068
+Acetolactate synthase	refseq	NM_176826
+Timeless	refseq	NM_003920
+Cellular apoptosis susceptibility protein	refseq	NM_001316
+beta receptor	refseq	NM_000629
+beta receptor	refseq	NM_207585
+Interferon-gamma receptor	refseq	NM_000416
+Interferon-gamma receptor	refseq	NM_005534
+Apolipoprotein A2	refseq	NM_001643
+Glycerol kinase	refseq	NM_000167
+Formyl peptide receptor	refseq	NM_002029
+Formyl peptide receptor	refseq	NM_001462
+Formyl peptide receptor	refseq	NM_002030
+Q-type calcium channel	refseq	NM_000068
+P-type calcium channel	refseq	NM_000068
+T-type calcium channel	refseq	NM_018896
+T-type calcium channel	refseq	NM_001005407
+T-type calcium channel	refseq	NM_001003406
+Granin	refseq	NM_001275
+Granin	refseq	NM_001819
+Granin	refseq	NM_003469
+Granin	refseq	NM_013243
+Granin	refseq	NM_003020
+OX40L	refseq	NM_003326
+CD70	refseq	NM_001252
+CD153	refseq	NM_001244
+CXC chemokine receptors	refseq	NM_000634
+CXC chemokine receptors	refseq	NM_001557
+CXC chemokine receptors	refseq	NM_001504
+CXC chemokine receptors	refseq	NM_001008540
+CXC chemokine receptors	refseq	NM_001716
+CXC chemokine receptors	refseq	NM_006564
+CXC chemokine receptors	refseq	NM_020311
+CC chemokine receptors	refseq	NM_001295
+CC chemokine receptors	refseq	NM_000647
+CC chemokine receptors	refseq	NM_001837
+CC chemokine receptors	refseq	NM_005508
+CC chemokine receptors	refseq	NM_000579
+CC chemokine receptors	refseq	NM_004367
+CC chemokine receptors	refseq	NM_001838
+CC chemokine receptors	refseq	NM_005201
+CC chemokine receptors	refseq	NM_031200
+CC chemokine receptors	refseq	NM_016602
+Ras-GRF1	refseq	NM_153815
+Odorant-binding protein	refseq	NM_014582
+Odorant-binding protein	refseq	NM_014581
+STRA6	refseq	NM_022369
+Synaptojanin	refseq	NM_003895
+Synaptojanin	refseq	NM_003898
+Low-molecular-weight kininogen	refseq	NM_001102416
+Cyclin D	refseq	NM_053056
+Cyclin D	refseq	NM_001759
+Cyclin D	refseq	NM_001760
+Pleckstrin	refseq	NM_002664
+Transcription factor II H	refseq	NM_005316
+Transcription factor II H	refseq	NM_001515
+Transcription factor II H	refseq	NM_001516
+3-hydroxy-3-methylglutaryl-CoA lyase	refseq	NM_000191
+Neuromedin B	refseq	NM_021077
+Melanin-concentrating hormone receptor	refseq	NM_005297
+Melanin-concentrating hormone receptor	refseq	NM_032503
+LEM domain-containing protein 3	refseq	NM_014319
+Zinc metalloproteinase STE24	refseq	NM_005857
+Long-chain-fatty-acid—CoA ligase	refseq	NM_001995
+Type XVIII collagen	refseq	NM_130445
+CXCL6	refseq	NM_002993
+CXCL16	refseq	NM_022059
+CXCL17	refseq	NM_198477
+XCL1	refseq	NM_002995
+XCL2	refseq	NM_003175
+Phospholipase A1	refseq	NM_015900
+ERM transcription factor	refseq	NM_004454
+APH-1	refseq	NM_016022
+APH-1	refseq	NM_031301
+PEN-2	refseq	NM_172341
+Aldehyde oxidase	refseq	NM_001159
+FXYD6	refseq	NM_022003
+2-hydroxyphytanoyl-CoA lyase	refseq	NM_012260
+ALMS1	refseq	NM_015120
+STAT5	refseq	NM_003152
+STAT5	refseq	NM_012448
+Mannose receptor	refseq	NM_002438
+Mannose receptor	refseq	NM_006039
+Sulfonylurea receptor	refseq	NM_000352
+Sulfonylurea receptor	refseq	NM_005691
+Fascin	refseq	NM_003088
+Fascin	refseq	NM_012418
+Fascin	refseq	NM_020369
+GLYCAM1	refseq	XM_927461
+CD79	refseq	NM_001783
+CD79	refseq	NM_021602
+CD68	refseq	NM_001251
+PHLPP	refseq	XM_166290
+PHLPP	refseq	NM_015020
+Glutaminase	refseq	NM_014905
+Glutaminase	refseq	NM_013267
+Lysosomal lipase	refseq	NM_000235
+VEGF receptor	refseq	NM_002019
+VEGF receptor	refseq	NM_002253
+VEGF receptor	refseq	NM_002020
+Persephin	refseq	NM_004158
+Angiopoietin receptor	refseq	NM_005424
+Angiopoietin receptor	refseq	NM_000459
+Lysosomal trafficking regulator	refseq	NM_000081
+Phosphogluconate dehydrogenase	refseq	NM_002631
+Transaldolase	refseq	NM_006755
+Transaldolase	refseq	NC_008245.1
+C8 complex	refseq	NM_000562
+C8 complex	refseq	NM_000066
+C8 complex	refseq	NM_000606
+Talin protein	refseq	NM_006289
+Talin protein	refseq	NM_015059
+UTP—glucose-1-phosphate uridylyltransferase	refseq	NM_006759
+6-phosphogluconolactonase	refseq	NM_012088
+μR	refseq	NM_032029
+CD16	refseq	NM_000569
+CD16	refseq	NM_000570
+Neonatal Fc receptor	refseq	NM_004107
+CD64	refseq	NM_000566
+CD64	refseq	NM_001004340
+CD64	refseq	XM_001133198
+Peroxin-7	refseq	NM_000288
+ITCH	refseq	NM_031483
+KLRA1	refseq	NM_006611
+NKG2	refseq	NM_007328
+4-1BB ligand	refseq	NM_003811
+Biotinidase	refseq	NM_000060
+Ribosomal protein s6	refseq	NM_001010
+STARD3	refseq	NM_006804
+CD58	refseq	NM_001779
+Delta catenin	refseq	NM_001331
+Delta catenin	refseq	NM_001332
+Alpha catenin	refseq	NM_001903
+Alpha catenin	refseq	NM_004389
+Alpha catenin	refseq	NM_013266
+Potassium-dependent sodium-calcium exchanger	refseq	NM_004727
+Potassium-dependent sodium-calcium exchanger	refseq	NM_020344
+Potassium-dependent sodium-calcium exchanger	refseq	NM_020689
+Potassium-dependent sodium-calcium exchanger	refseq	NM_153646
+Potassium-dependent sodium-calcium exchanger	refseq	NM_205850
+Potassium-dependent sodium-calcium exchanger	refseq	NM_024959
+Beta-ketoacyl-ACP synthase	refseq	NM_017897
+3-Hydroxyacyl ACP dehydrase	refseq	NM_001966
+2,4 Dienoyl-CoA reductase	refseq	NM_001359
+Farnesyl-diphosphate farnesyltransferase	refseq	NM_004462
+Lanosterol 14 alpha-demethylase	refseq	NM_000786
+Isopentenyl-diphosphate delta isomerase	refseq	NM_004508
+Phosphomevalonate kinase	refseq	NM_006556
+Pyrophosphomevalonate decarboxylase	refseq	NM_002461
+L-xylulose reductase	refseq	NM_016286
+Homogentisate 1,2-dioxygenase	refseq	XM_001125882
+Ornithine translocase	refseq	NM_014252
+Carnitine-acylcarnitine translocase	refseq	NM_000387
+Glycerol-3-phosphate dehydrogenase	refseq	NM_005276
+Glycerol-3-phosphate dehydrogenase	refseq	NM_000408
+TRIF	refseq	NM_014261
+Methylmalonyl CoA epimerase	refseq	NM_028626
+Mannose 6-phosphate receptor	refseq	NM_002355
+Mannose 6-phosphate receptor	refseq	NM_000876
+Caspase 4	refseq	NM_001225
+Prostaglandin E synthase	refseq	NM_004878
+Prostaglandin E synthase	refseq	NM_198939
+Prostaglandin E synthase	refseq	NM_006601
+Caspase 5	refseq	NM_004347
+Acyltransferase like 2	refseq	NM_024830
+Alpha-N-acetylglucosaminidase	refseq	NM_000263
+Hepatic fructokinase	refseq	NM_006488
+Dimethylallyltranstransferase	refseq	NM_002004
+Caspase 12	refseq	NR_000035
+Receptor activity-modifying protein	refseq	NM_005855
+Receptor activity-modifying protein	refseq	NM_005854
+Receptor activity-modifying protein	refseq	NM_005856
+HLA-DM	refseq	NM_006120
+HLA-DM	refseq	NM_002118
+Hepatocyte nuclear factors	refseq	NM_000545
+Hepatocyte nuclear factors	refseq	NM_000458
+Hepatocyte nuclear factors	refseq	NM_004496
+Hepatocyte nuclear factors	refseq	NM_021784
+Hepatocyte nuclear factors	refseq	NM_004497
+Hepatocyte nuclear factors	refseq	NM_001030004
+Hepatocyte nuclear factors	refseq	NM_004133
+Hepatocyte nuclear factors	refseq	NM_004498
+Hepatocyte nuclear factors	refseq	NM_004852
+Carboxypeptidase B	refseq	NM_001871
+Carboxypeptidase B	refseq	NM_016413
+Glutamyl aminopeptidase	refseq	NM_001977
+Leucyl aminopeptidase	refseq	NM_015907
+Carbamoyl phosphate synthase II	refseq	NM_004341
+Dihydroorotase	refseq	NM_004341
+IMP dehydrogenase	refseq	NM_000883
+IMP dehydrogenase	refseq	NM_000884
+GMP reductase	refseq	NM_006877
+GMP reductase	refseq	NM_016576
+Adenylosuccinate synthase	refseq	NM_001126
+Adenylosuccinate synthase	refseq	NM_152328
+TIRAP	refseq	NM_148910
+Period	refseq	NM_002616
+Period	refseq	NM_003894
+Period	refseq	NM_016831
+CLEC4C	refseq	NM_203503
+Polynucleotide phosphorylase	refseq	NM_033109
+Serine dehydratase	refseq	NM_006843
+Collectin liver 1	refseq	NM_006438
+Surfactant protein C	refseq	NM_003018
+Surfactant protein A	refseq	NM_005411
+Surfactant protein A	refseq	NM_006926
+Ornithine aminotransferase	refseq	NM_000274
+Branched chain aminotransferase	refseq	NM_001190
+SLC39A4	refseq	NM_130849
+Uracil phosphoribosyltransferase	refseq	NM_145052
+Ribose-phosphate diphosphokinase	refseq	NM_002764
+Ribose-phosphate diphosphokinase	refseq	NM_002765
+Adenosylhomocysteinase	refseq	NM_000687
+Cystathionine gamma-lyase	refseq	NM_001902
+Adenosylmethionine decarboxylase	refseq	NM_001634
+Phosphoribosylaminoimidazole carboxylase	refseq	NM_006452
+Tyrosylprotein sulfotransferase	refseq	NM_003596
+Tyrosylprotein sulfotransferase	refseq	NM_003595
+Iron-responsive element-binding protein	refseq	NM_002197
+Iron-responsive element-binding protein	refseq	NM_004136
+RAI1	refseq	NM_030665
+SLC7A9	refseq	NM_014270
+Formimidoyltransferase cyclodeaminase	refseq	NM_006657
+Saccharopine dehydrogenase	refseq	NM_016002
+Asparagine synthetase	refseq	NM_001673
+NBR2	refseq	NM_005821
+N-acetylglucosamine-1-phosphate transferase	refseq	NM_024312
+N-acetylglucosamine-1-phosphate transferase	refseq	NM_032520
+Epididymal secretory protein E1	refseq	NM_006432
+Citrin	refseq	NM_014251
+Transcription factor II A	refseq	NM_201595
+Transcription factor II A	refseq	NM_004492
+CD120	refseq	NM_001065
+CD120	refseq	NM_001066
+DCMP deaminase	refseq	NM_001921
+Aminomethyltransferase	refseq	NM_000481
+Cardiotrophin 1	refseq	NM_001330
+CSF2RB	refseq	NM_000395
+Anti-Müllerian hormone receptor	refseq	NM_020547
+Latent TGF-beta binding protein	refseq	NM_206943
+Latent TGF-beta binding protein	refseq	NM_000428
+Latent TGF-beta binding protein	refseq	NM_021070
+Latent TGF-beta binding protein	refseq	NM_003573
+Nuclear cap-binding protein complex	refseq	NM_002486
+Nuclear cap-binding protein complex	refseq	NM_007362
+Polypyrimidine tract-binding protein	refseq	NM_002819
+Polypyrimidine tract-binding protein	refseq	NM_021190
+Gremlin	refseq	NM_013372
+Gremlin	refseq	NM_022469
+BRN-3	refseq	NM_006237
+BRN-3	refseq	NM_004575
+BRN-3	refseq	NM_002700
+Translocated promoter region	refseq	NM_003292
+Gustducin	refseq	XM_294370
+Gustducin	refseq	NM_002074
+Gustducin	refseq	NM_016541
+Gs alpha subunit	refseq	NM_000516
+Gq alpha subunit	refseq	NM_002072
+Gq alpha subunit	refseq	NM_002067
+Gq alpha subunit	refseq	NM_004297
+Gq alpha subunit	refseq	NM_002068
+TRPA	refseq	NM_007332
+Gi alpha subunit	refseq	NM_002069
+Gi alpha subunit	refseq	NM_002070
+Gi alpha subunit	refseq	NM_006496
+NPAS1	refseq	NM_002517
+G13 alpha subunits	refseq	NM_007353
+G13 alpha subunits	refseq	NM_006572
+Rap GTP-binding protein	refseq	NM_002884
+Rap GTP-binding protein	refseq	NM_015646
+5'-3' exoribonuclease 1	refseq	NM_019001
+ATP2A2	refseq	NM_001681
+Leprecan	refseq	NM_022356
+RAR-related orphan receptor	refseq	NM_002943
+RAR-related orphan receptor	refseq	NM_006914
+RAR-related orphan receptor	refseq	NM_005060
+Rev-ErbA	refseq	NM_021724
+Rev-ErbA	refseq	XM_001130839
+Testicular receptor	refseq	NM_003297
+Testicular receptor	refseq	NM_003298
+Chicken ovalbumin upstream promoter-transcription factor	refseq	NM_005654
+Chicken ovalbumin upstream promoter-transcription factor	refseq	NM_021005
+NSD1	refseq	NM_172349
+Syncoilin	refseq	NM_030786
+SH3BP2	refseq	NM_003023
+Keratin 6B	refseq	NM_005555
+CARM1	refseq	XM_032719
+CARM1	refseq	XM_171224
+Dystrobrevin	refseq	NM_032981
+Dystrobrevin	refseq	NM_033147
+Neurexin	refseq	NM_001135659.1
+Neurexin	refseq	NM_015080
+Neurexin	refseq	NM_001105250
+GLUT8	refseq	NM_014580
+Transcription factor II E	refseq	NM_005513
+Transcription factor II E	refseq	NM_002095
+Transcription factor II F	refseq	NM_002096
+Transcription factor II F	refseq	NM_004128
+Transcription factor II F	refseq	NG_003013
+Sp100 nuclear antigen	refseq	NM_003113
+Activating protein 2	refseq	NM_003220
+Activating protein 2	refseq	NM_003221
+Activating protein 2	refseq	NM_003222
+Activating protein 2	refseq	NM_172238
+Activating protein 2	refseq	NM_178548
+Electron-transferring-flavoprotein dehydrogenase	refseq	NM_004453
+P87PIKAP	refseq	NM_005163
+Group 1 CD1	refseq	NM_001763
+Group 1 CD1	refseq	NM_001764
+Group 1 CD1	refseq	NM_001765
+EVC2	refseq	NM_147127
+EVC	refseq	NM_153717
+Diglyceride acyltransferase	refseq	NM_012079
+Diglyceride acyltransferase	refseq	NM_032564
+D-amino acid oxidase activator	refseq	NM_172370
+IL22RA2	refseq	NM_181310
+EGF module-containing mucin-like hormone receptor	refseq	NM_001974
+EGF module-containing mucin-like hormone receptor	refseq	NM_152916
+EGF module-containing mucin-like hormone receptor	refseq	NM_032571
+EGF module-containing mucin-like hormone receptor	refseq	XM_940358
+Fukutin-related protein	refseq	NM_024301
+Orexin receptor	refseq	NM_001525
+Orexin receptor	refseq	NM_001526
+Neuromedin U receptor	refseq	NM_006056
+Neuromedin U receptor	refseq	NM_020167
+Prokineticin receptor	refseq	NM_138964
+Prokineticin receptor	refseq	NM_144773
+Prokineticin	refseq	NM_032414
+Prokineticin	refseq	NM_021935
+Free fatty acid receptor	refseq	NM_005303
+Free fatty acid receptor	refseq	NM_005306
+Free fatty acid receptor	refseq	NM_005304
+Free fatty acid receptor	refseq	NM_005305
+SREB	refseq	NM_018971
+SREB	refseq	NM_018970
+SREB	refseq	NM_018969
+Neuromedin U	refseq	NM_006681
+HMGA	refseq	NM_145901
+HMGA	refseq	NM_003484
+WDTC1	refseq	NM_015023
+CDGSH iron sulfur domain	refseq	NM_018464
+CDGSH iron sulfur domain	refseq	XM_065750
+CDGSH iron sulfur domain	refseq	NM_001008388
+TIA1	refseq	NM_022173
+ICAM4	refseq	NM_001039132
+Formins	refseq	NM_001103184
+Formins	refseq	XM_371352
+Retinoic acid-inducible orphan G protein-coupled receptor	refseq	NM_003979
+Retinoic acid-inducible orphan G protein-coupled receptor	refseq	NM_016235
+Retinoic acid-inducible orphan G protein-coupled receptor	refseq	NM_022036
+Retinoic acid-inducible orphan G protein-coupled receptor	refseq	NM_018654
+Relaxin receptor	refseq	NM_021634
+Relaxin receptor	refseq	NM_130806
+Relaxin receptor	refseq	NM_016568
+Relaxin receptor	refseq	NM_181885
+VPS13B	refseq	NM_184042
+IκB kinase	refseq	NM_001278
+IκB kinase	refseq	NM_001556
+IκB kinase	refseq	NM_003639
+NPC1L1	refseq	NM_013389
+Cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase	refseq	NM_025193
+3-hydroxyacyl-CoA dehydrogenase	refseq	NM_005327
+MAS1 oncogene	refseq	NM_002377
+MAS1 oncogene	refseq	NM_052967
+Gastric lipase	refseq	NM_004190
+Endothelial lipase	refseq	NM_006033
+Betaine—homocysteine S-methyltransferase	refseq	NM_001713
+Betaine—homocysteine S-methyltransferase	refseq	NM_017614
+Phytanoyl-CoA dioxygenase	refseq	NM_001037537
+Neuropeptide FF receptor	refseq	NM_022146
+Neuropeptide FF receptor	refseq	NM_004885
+W receptor	refseq	NM_005285
+W receptor	refseq	NM_005286
+HSPA1B	refseq	NM_005346
+HLA-DO	refseq	NM_002119
+HLA-DO	refseq	NM_002120
+Interleukin-7 receptor	refseq	NM_002185
+Interleukin-7 receptor	refseq	NM_000206
+UDP-glucose 4-epimerase	refseq	NM_000403
+Leukotriene-A4 hydrolase	refseq	NM_000895
+Threonine aldolase	refseq	XM_372682
+Membrane-bound transcription factor site-2 protease	refseq	NM_015884
+Rac3	refseq	NM_005052
+Acylphosphatase	refseq	NM_001107
+Acylphosphatase	refseq	NM_138448
+USP26	refseq	NM_031907
+MT-TH	refseq	NC_001807
+MT-TL1	refseq	NC_001807
+Brain-specific angiogenesis inhibitor	refseq	XM_001130169
+Brain-specific angiogenesis inhibitor	refseq	NM_001703
+Brain-specific angiogenesis inhibitor	refseq	NM_001704
+Thiamine-triphosphatase	refseq	NM_024328
+Dimethylargininase	refseq	NM_012137
+Dimethylargininase	refseq	NM_013974
+Acetyl-CoA C-acetyltransferase	refseq	NM_000019
+Acetyl-CoA C-acetyltransferase	refseq	NM_005891
+Hydroxymethylglutaryl-CoA synthase	refseq	NM_002130
+Hydroxymethylglutaryl-CoA synthase	refseq	NM_005518
+Serine C-palmitoyltransferase	refseq	NM_006415
+Serine C-palmitoyltransferase	refseq	NM_004863
+Serine C-palmitoyltransferase	refseq	NM_018327
+Sterol O-acyltransferase	refseq	NM_003101
+Sterol O-acyltransferase	refseq	NM_003578
+4-aminobutyrate transaminase	refseq	NM_020686
+Latrophilin	refseq	NM_022159
+Latrophilin	refseq	NM_014921
+Latrophilin	refseq	NM_012302
+Latrophilin	refseq	NM_015236
+Huntingtin-associated protein 1	refseq	NM_003949
+Lactate dehydrogenase	refseq	NM_005566
+Lactate dehydrogenase	refseq	NM_002300
+Lactate dehydrogenase	refseq	NM_002301
+ST2 cardiac biomarker	refseq	NM_016232
+Interleukin-18 receptor	refseq	NM_003855
+Interleukin-18 receptor	refseq	NM_003853
+Palmitoyl protein thioesterase	refseq	NM_000310
+Palmitoyl protein thioesterase	refseq	NM_138717
+VGF	refseq	NM_003378
+Neurogenins	refseq	NM_006161
+Neurogenins	refseq	NM_024019
+Neurogenins	refseq	NM_020999
+Neuroligin	refseq	NP_055747
+Neuroligin	refseq	NP_065846
+Neuroligin	refseq	NP_001160132
+Neuroligin	refseq	NP_065793
+G protein-coupled inwardly-rectifying potassium channel	refseq	NM_002239
+G protein-coupled inwardly-rectifying potassium channel	refseq	NM_002240
+G protein-coupled inwardly-rectifying potassium channel	refseq	NM_004983
+G protein-coupled inwardly-rectifying potassium channel	refseq	NM_000890
+ZMPSTE24	refseq	NM_005857
+Interleukin-11 receptor	refseq	NM_004512
+Interleukin-5 receptor	refseq	NM_175725
+Interleukin-5 receptor	refseq	NM_000395
+Interleukin-12 receptor	refseq	NM_005535
+Interleukin-12 receptor	refseq	NM_001559
+Interleukin-13 receptor	refseq	NM_001560
+Interleukin-13 receptor	refseq	NM_000640
+Interleukin-13 receptor	refseq	NM_000418
+Interleukin-15 receptor	refseq	NM_172200
+Interleukin-15 receptor	refseq	NM_000878
+Interleukin-15 receptor	refseq	NM_000206
+Interleukin-27 receptor	refseq	NM_004843
+Interleukin-27 receptor	refseq	NM_002184
+Interleukin-20 receptor	refseq	NM_014432
+Interleukin-20 receptor	refseq	NM_144717
+Interleukin-10 receptor	refseq	NM_001558
+Interleukin-10 receptor	refseq	NM_000628
+Interleukin-22 receptor	refseq	NM_021258
+Interleukin-22 receptor	refseq	NM_181310
+Interleukin-28 receptor	refseq	NM_170743
+Interleukin-28 receptor	refseq	NM_000628
+Interleukin-8 receptor	refseq	NM_000634
+Interleukin-8 receptor	refseq	NM_001557
+MALT1	refseq	NM_173844
+BTBD9	refseq	NM_152733
+Ciliary neurotrophic factor receptor	refseq	NM_001842
+Interleukin-17 receptor	refseq	NM_014339
+Interleukin-17 receptor	refseq	NM_172234
+Interleukin-17 receptor	refseq	NM_032732
+Interleukin-17 receptor	refseq	NM_017563
+Interleukin-17 receptor	refseq	NM_153480
+Interleukin-17 receptor	refseq	NM_001001694
+TRIM50	refseq	NM_178125
+Paraoxonase	refseq	NM_000446
+Paraoxonase	refseq	NM_000305
+Paraoxonase	refseq	NM_000940
+L-threonine dehydrogenase	refseq	NM_152566
+GHB receptor	refseq	NM_024531
+HSN2	refseq	NM_213655
+ITPKC	refseq	NM_025194
+GRIK4	refseq	NM_014619
+Repulsive guidance molecule	refseq	NM_020211
+Repulsive guidance molecule	refseq	NM_173670
+Repulsive guidance molecule	refseq	NM_145277
+FKBP6	refseq	NM_003602
+AHSA2	refseq	NM_152392
+HSP90AA2	refseq	NM_001040141
+C3orf58	refseq	NM_173552
+HSPA12A	refseq	NM_025015
+TFAP2E	refseq	NM_178548
+TFAP2D	refseq	NM_172238
+Major histocompatibility complex, class II, DP alpha 1	refseq	NM_033554
+BAALC	refseq	NP_001019543.1  NP_079088.1
+FAM123B	refseq	NM_152424
+PORCN	refseq	NM_022825
+TIE1	refseq	NM_005424
+ELMO3	refseq	NM_024712
+TOX3	refseq	XM_049037
+TOX2	refseq	NM_001098796
+EID2	refseq	NM_153232
+FGF11	refseq	NM_004112
+GPD1L	refseq	NM_015141
+WNT6	refseq	NM_006522
+FANCM	refseq	XM_048128
+DHH	refseq	NM_021044
+HHAT	refseq	NM_018194
+MT-TA	refseq	NC_001807
+MT-TV	refseq	NC_001807
+Nucleoporin 37	refseq	NM_024057
+Nucleoporin 188	refseq	NM_015354
+Xg antigen system	refseq	NM_175569
+GLIS2	refseq	NM_032575
+RPGRIP1L	refseq	NM_015272
+SGEF	refseq	NM_015595
+VAMP5	refseq	NM_006634
+FGF16	refseq	NM_003868
+FGF22	refseq	NM_020637
+FGF20	refseq	NM_019851
+CEACAM21	refseq	NM_033543
+CEACAM19	refseq	NM_020219
+CEACAM20	refseq	NM_198444
+CEACAM4	refseq	NM_001817
+CEACAM16	refseq	XM_371177
+H1F0	refseq	NM_005318
+H1FNT	refseq	NM_181788
+Dipeptidase 2	refseq	NM_022355
+Protein phosphatase 2	refseq	NM_002715
+Protein phosphatase 2	refseq	NM_001009552
+MDGA2	refseq	NM_182830
+EIF4A	refseq	NM_001416
+EIF4A	refseq	NM_001967
+EIF4A	refseq	NM_014740
+Collagen, type XX, alpha 1	refseq	NM_020882
+SURF2	refseq	NM_017503
+N-acyl phosphatidylethanolamine-specific phospholipase D	refseq	NM_001122838
+Patched	refseq	NM_000264
+Patched	refseq	NM_003738
+CKMT1A	refseq	NM_001015001
+Pho4	refseq	NP_116692
+MT-TR	refseq	NC_001807
+MT-TM	refseq	NC_001807
+MT-TP	refseq	NC_001807
+MT-TL2	refseq	NC_001807
+MT-TQ	refseq	NC_001807
+MT-TK	refseq	NC_001807
+MT-TF	refseq	NC_001807
+MT-TE	refseq	NC_001807
+MT-TG	refseq	NC_001807
+MT-TI	refseq	NC_001807
+MT-TN	refseq	NC_001807
+MT-TS1	refseq	NC_001807
+MT-TS2	refseq	NC_001807
+MT-TY	refseq	NC_001807
+MT-TT	refseq	NC_001807
+MT-TW	refseq	NC_001807
+MT-TC	refseq	NC_001807
+MT-TD	refseq	NC_001807
+40S ribosomal protein S4, Y isoform 2	refseq	NM_001039567
+Roundabout	refseq	NM_002941
+Roundabout	refseq	XM_031246
+Roundabout	refseq	XM_370663
+Roundabout	refseq	NM_019055
+C1GALT1	refseq	NM_020156
+MOSC1	refseq	NM_022746
+CORO1B	refseq	NM_020441
+LIX1L	refseq	NM_153713
+ANKRD35	refseq	NM_144698
+POLR3GL	refseq	NM_032305
+Mu hemoglobin	refseq	NM_001003938
+MYLK4	refseq	NM_001012418
+KRT77	refseq	NM_175078
+KRT75	refseq	NM_004693
+KRT76	refseq	NM_015848
+KRT74	refseq	NM_175053
+KRT72	refseq	NM_080747
+KRT73	refseq	NM_175068
+KRT39	refseq	NM_213656
+KRT40	refseq	NM_182497
+KRT25	refseq	NM_181534
+KRT27	refseq	NM_181537
+KRT28	refseq	NM_181535
+KRT26	refseq	NM_181539
+KRT71	refseq	NM_033448
+KRT24	refseq	NM_019016
+KRT84	refseq	NM_033045
+KRT82	refseq	NM_033033
+KRT38	refseq	NM_006771
+KRT37	refseq	NM_003770
+Laminin, beta 4	refseq	XM_209857
+KRT35	refseq	NM_002280
+SNTG2	refseq	NM_018968
+OPN1MW2	refseq	NM_001048181
+FUT4	refseq	NM_002033
+Interferon gamma receptor 2	refseq	NM_005534
+Wee1	refseq	NM_003390
+Wee1	refseq	NM_001105558
+ULK2	refseq	NM_014683
+Slit	refseq	NM_003061
+Slit	refseq	NM_004787
+Slit	refseq	NM_003062
+Activin and inhibin	refseq	NM_002191
+Activin and inhibin	refseq	NM_002192
+Activin and inhibin	refseq	NM_002193
+Activin and inhibin	refseq	NM_005538
+Activin and inhibin	refseq	NM_031479
+Snf3	refseq	NP_010087.1
+APOA1BP	refseq	NM_144772
+Transmembrane protein 53	refseq	NP_078863
+Tuberous sclerosis protein	refseq	NM_000368
+Tuberous sclerosis protein	refseq	NM_000548
+SNX6	refseq	NM_021249
+Senescence-associated beta-galactosidase	refseq	NM_000404
+HS1BP3	refseq	NM_022460
+PXK	refseq	NM_017771
+Rap1	refseq	NM_002884
+Rap1	refseq	NM_001010942
+Melatonin receptor 1C	refseq	AY166825
+GPR137B	refseq	NM_003272
+Galanin-like peptide	refseq	NM_033106
+G protein-coupled receptor kinase 7	refseq	NM_139209
+DNA damage-binding protein	refseq	NM_001923
+DNA damage-binding protein	refseq	NM_000107
+RhoBTB	refseq	NM_014836
+RhoBTB	refseq	NM_001160036
+RhoBTB	refseq	NM_014899
+RVD-Hpα	refseq	NM_000558
+N-terminal prohormone of brain natriuretic peptide	refseq	NM_002521
+Rho-associated protein kinase	refseq	NM_005406
+Rho-associated protein kinase	refseq	NM_004850
+MDia1	refseq	NP_031884.1
+Chemerin peptide	refseq	NM_002889
+Receptor tyrosine kinase-like orphan receptor	refseq	NM_005012
+Receptor tyrosine kinase-like orphan receptor	refseq	NM_004560
+Kir2.6	refseq	NM_001194958
+SLC25A38	refseq	NM_017875
+DHDPSL	refseq	NM_138413
+Protein phosphatase 1	refseq	NP_002699.1
+Protein phosphatase 1	refseq	NP_002700.1
+Protein phosphatase 1	refseq	NP_002701.1
+TGM5	refseq	NM_201631
+Meprin A	refseq	NM_005588
+Meprin A	refseq	NM_005925
+ZNF703	refseq	NM_025069
+Transmembrane Protein 175	refseq	NM_032326
+Map44	refseq	NM_001879
+C3orf14-Chromosome 3 open reading frame 14	refseq	NM_020685.3
+Cubam	refseq	NM_030943
+Cubam	refseq	NM_001081
+Uroguanylin	refseq	NM_007102
+D1–D2 dopamine receptor heteromer	refseq	NP_000785
+D1–D2 dopamine receptor heteromer	refseq	NP_000786
+Relaxin family peptide hormones	refseq	NM_006911
+Relaxin family peptide hormones	refseq	NM_134441
+Relaxin family peptide hormones	refseq	NM_080864
+MTORC1	refseq	NM_004958
+MTORC1	refseq	NM_001163034.1
+MTORC2	refseq	NM_004958
+MTORC2	refseq	NM_152756
+MTORC2	refseq	NM_022372
+MTORC2	refseq	NM_001006617.1
+ABCE1	refseq	NM_002940
+Cycle	refseq	NP_001025443
+Doubletime	refseq	NM_001894
+Interleukin 23	refseq	NM_002187
+Interleukin 23	refseq	NM_016584
+Cyclin E2	refseq	NM_057749
+Ceramide synthase 4	refseq	NM_024552.2
+Ceramide synthase 5	refseq	NM_147190
+Acyl-CoA:lysocardiolipin acyltransferase-1	refseq	NM_182551.3
+Bacterial Leucine Transporter	refseq	NP_214423.1. NC_000918.1.
+C4orf29	refseq	NP_001034806.1
+Erythroferrone	refseq	NM_001291832.1
+C9orf91	refseq	NP_694590.2
+CII protein	refseq	NC_001416
+Intelectin	refseq	NP_060095
+Mitochondrial calcium uniporter	refseq	NM_138357
+GPATCH11	refseq	NP_777591.3
+Asprosin	refseq	NP_000129

@@ -1,0 +1,741 @@
+GWR 4000 Class	cylindercount	4
+GWR 111 The Great Bear	cylindercount	4
+Sans Pareil	cylindercount	2
+EMD SD80MAC	cylindercount	20
+ALCO Century 415	cylindercount	8
+2	cylindercount	8
+Union Pacific Big Boy	cylindercount	4
+British Rail Class 53	cylindercount	12
+Puffing Billy	cylindercount	2
+LMS Princess Royal Class	cylindercount	4
+LMS Coronation Class	cylindercount	4
+British Rail Class 11	cylindercount	Straight 6
+British Rail Class 15	cylindercount	16
+British Rail Class 16	cylindercount	16
+EMD FP45	cylindercount	20
+EMD E5	cylindercount	12
+British Rail Class 57	cylindercount	12
+GE Genesis	cylindercount	16
+GE Genesis	cylindercount	12
+GE U30B	cylindercount	16
+GE U28C	cylindercount	16
+EMD E6	cylindercount	12
+EMD F40PH	cylindercount	16
+EMD E7	cylindercount	12
+EMC E4	cylindercount	12
+EMC E3	cylindercount	12
+EMD BL2	cylindercount	16
+PRR I1s	cylindercount	2
+British Railways DP1	cylindercount	18
+ALCO RS-3	cylindercount	12
+2-10-10-2	cylindercount	4
+EMD E8	cylindercount	12
+CIE 601 Class	cylindercount	8
+CIE 611 Class	cylindercount	8
+CIE 201 Class	cylindercount	8
+CIE 101 Class	cylindercount	6
+IE 201 Class	cylindercount	12
+CIE 121 Class	cylindercount	8
+CIE 141 Class	cylindercount	8
+CIE 181 Class	cylindercount	8
+Illinois Central 121	cylindercount	16
+EMD E9	cylindercount	12
+GNRI Class V	cylindercount	Three – 1 HP  and 2 LP
+PRR K5	cylindercount	2
+Flying Yankee	cylindercount	8
+EMC TA	cylindercount	16
+EMD DDA40X	cylindercount	16
+EMC 1800 hp B-B	cylindercount	12
+SR Z class	cylindercount	3
+SR W class	cylindercount	3
+EMC AB6	cylindercount	12
+EMD F3	cylindercount	16
+EMD F7	cylindercount	16
+EMD GP20D	cylindercount	16
+EMD F9	cylindercount	16
+EMD SD70 series	cylindercount	16
+EMD FP7	cylindercount	16
+GWR 3800 Class	cylindercount	2
+EMD FP9	cylindercount	16
+EMD FL9	cylindercount	16
+EMD SD90MAC	cylindercount	16
+ALCO Century 636	cylindercount	16
+ALCO DH643	cylindercount	12
+EMD SW1	cylindercount	6
+EMD SD40-2	cylindercount	16
+EMD SDP45	cylindercount	20
+EMD DD35A	cylindercount	16
+ALCO S-1 and S-3	cylindercount	Straight 6
+ALCO HH series	cylindercount	6
+EMD TR1	cylindercount	16
+EMD NW3	cylindercount	12
+EMD NW2	cylindercount	12
+EMD NW5	cylindercount	12
+GE Dash 9-44CW	cylindercount	16
+ALCO Century 855	cylindercount	32
+EMD SD50	cylindercount	16
+EMD SD24	cylindercount	16
+EMD SD60	cylindercount	16
+GE Evolution Series	cylindercount	1216
+FM Consolidated line	cylindercount	810
+EMD SW1500	cylindercount	12
+EMD SW1504	cylindercount	V12 engine
+ALCO PA	cylindercount	16
+Locomotion No. 1	cylindercount	2
+EMD MP15DC	cylindercount	12
+LNER Class A3 4472 Flying Scotsman	cylindercount	3
+LNER Class V2 4771 Green Arrow	cylindercount	3
+FM H-24-66	cylindercount	12
+FM H-16-66	cylindercount	8
+EMD F59PH	cylindercount	12
+EMD SW7	cylindercount	12
+EMD SW600	cylindercount	6
+EMD SW1000	cylindercount	8
+EMD SW9	cylindercount	12
+EMD SD38AC	cylindercount	16
+EMD GP38	cylindercount	16
+EMD GP28	cylindercount	16
+EMD GP39	cylindercount	12
+EMD SW900	cylindercount	8
+EMD SW8	cylindercount	8
+EMD GP18	cylindercount	16
+EMD GP35	cylindercount	16
+EMD SW1200	cylindercount	12
+EMD GP38-2	cylindercount	16
+EMD SD28	cylindercount	16
+EMD GP9	cylindercount	16
+EMD SD18	cylindercount	16
+EMD GP40	cylindercount	16
+EMD SD38	cylindercount	16
+EMD SDP35	cylindercount	16
+EMD SD35	cylindercount	16
+EMD SD9	cylindercount	16
+EMD GP40-2	cylindercount	16
+EMD SD7	cylindercount	16
+EMD GP7	cylindercount	16
+EMD SD45	cylindercount	20
+EMD SDP40	cylindercount	16
+EMD SD40	cylindercount	16
+EMD SD45X	cylindercount	20
+EMD SD45-2	cylindercount	20
+EMD SD38-2	cylindercount	16
+EMD SD39	cylindercount	12
+EMD SDL39	cylindercount	12
+EMD SDP40F	cylindercount	16
+EMD F45	cylindercount	20
+EMD MP15AC	cylindercount	12
+EMD GP59	cylindercount	12
+EMD GP50	cylindercount	16
+EMD SD40T-2	cylindercount	16
+EMD GP60	cylindercount	16
+LMS Patriot Class	cylindercount	3
+EMD GP15T	cylindercount	8
+EMD GP15-1	cylindercount	12
+EMD GP39DC	cylindercount	12
+LMS 6399 Fury	cylindercount	Three: 1 HP inside, 2 LP outside
+British Rail Class 43	cylindercount	12
+British Rail Class 45	cylindercount	12
+SR West Country and Battle of Britain classes	cylindercount	3
+GWR 2600 Class	cylindercount	2
+LB&SCR A1 class	cylindercount	2
+Baldwin S-12	cylindercount	6
+GE U18B	cylindercount	8
+GE U23B	cylindercount	12
+GE U33B	cylindercount	16
+GE U23C	cylindercount	12
+GE B23-7	cylindercount	12
+GE B30-7	cylindercount	16
+GE B30-7	cylindercount	12
+ALCO RS-11	cylindercount	12
+SNCF Class BB 67300	cylindercount	16
+SNCF Class BB 67400	cylindercount	16
+SNCF Class C 61000	cylindercount	6
+EMD DDM45	cylindercount	20
+EMD SD45T-2	cylindercount	20
+LNER Peppercorn Class A1	cylindercount	3
+Steam Horse locomotive	cylindercount	1
+EMD SD40A	cylindercount	16
+EMD GP39-2	cylindercount	12
+EMD GP40X	cylindercount	16
+ALCO RSC-3	cylindercount	12
+GE C30-7	cylindercount	16
+GE 44-ton switcher	cylindercount	D17000: 8
+GE 44-ton switcher	cylindercount	All others: 6
+NER 1001 Class	cylindercount	2
+EMD F40C	cylindercount	16
+EMD Model 40	cylindercount	6
+ALCO RS-1	cylindercount	6
+GMD GMD1	cylindercount	V12
+British Rail Class 35	cylindercount	16
+Tasmanian Government Railways X class	cylindercount	6
+GE AC6000CW	cylindercount	16
+WAGR Msa class	cylindercount	4
+ALCO RSC-2	cylindercount	12
+LMS Princess Coronation Class 6233 Duchess of Sutherland	cylindercount	4
+ALCO RSD-5	cylindercount	12
+ALCO RSD-12	cylindercount	12
+ALCO RSD-15	cylindercount	16
+ALCO RSD-4	cylindercount	12
+ALCO RS-2	cylindercount	12
+NER 66 Aerolite	cylindercount	2
+L&YR Class 25	cylindercount	2
+NER Class T3	cylindercount	3
+Midland Railway Paget locomotive	cylindercount	8
+MLW RSC-24	cylindercount	12
+LNER Class U1	cylindercount	2
+Santa Fe 2926	cylindercount	2
+EMD Class 66	cylindercount	12
+GE Dash 8-32BWH	cylindercount	12
+NSB Di 4	cylindercount	V16 engine
+ALCO DL-109	cylindercount	6
+Baldwin DRS-6-6-1500	cylindercount	8
+NSB Di 6	cylindercount	12
+GE Dash 8-40CW	cylindercount	16
+ALCO RSD-1	cylindercount	6
+Beep	cylindercount	16
+Baldwin VO-1000	cylindercount	8
+Baldwin VO-660	cylindercount	6
+Baldwin S-8	cylindercount	6
+GE 70-ton switcher	cylindercount	6
+3801	cylindercount	2
+ALCO S-2 and S-4	cylindercount	6
+ALCO Century 425	cylindercount	16
+PKP class SM30	cylindercount	12
+SD26	cylindercount	16
+FM H-12-44TS	cylindercount	6
+PKP class SU45	cylindercount	12
+M62 locomotive	cylindercount	V12 engine
+PKP class SM42	cylindercount	8
+FM H-12-46	cylindercount	6
+PKP class SM40	cylindercount	16
+MÁV Class M44	cylindercount	16
+FM H-16-44	cylindercount	8
+FM H-10-44	cylindercount	6
+ALCO RSD-7	cylindercount	V16 engine
+FM H-15-44	cylindercount	8
+FM H-20-44	cylindercount	10
+FM Erie-built	cylindercount	10
+FM P-12-42	cylindercount	8
+NZR A class	cylindercount	2
+NSB Di 3	cylindercount	16
+PKP class SU42	cylindercount	8
+PKP class SP42	cylindercount	8
+PKP class SM31	cylindercount	8
+PKP class SM04	cylindercount	6
+PKP class SM03	cylindercount	6
+PKP class SU46	cylindercount	12
+PKP class SP45	cylindercount	12
+PKP class SP47	cylindercount	16
+FM OP800	cylindercount	5
+EMD LWT12	cylindercount	12
+PKP class SM48	cylindercount	6
+Metropolitan Railway G Class	cylindercount	2
+NZR AA class	cylindercount	2
+Metropolitan Railway A Class	cylindercount	2
+PRR Q1	cylindercount	4
+MK5000C	cylindercount	12
+New Zealand DJ class locomotive	cylindercount	12
+Baldwin DRS-4-4-1000	cylindercount	6
+PRR N2sa	cylindercount	2
+Fairy Queen	cylindercount	2
+Baldwin RF-16	cylindercount	Inline 8
+Australian Standard Garratt	cylindercount	4
+NZR E class	cylindercount	4
+NZR B class	cylindercount	4
+NZR X class	cylindercount	2
+NZR X class	cylindercount	4
+NZR BC class	cylindercount	4
+British Rail 15107	cylindercount	4
+LSWR K10 class	cylindercount	2
+Atlantic	cylindercount	2
+Baldwin 60000	cylindercount	Center: 1 HP
+Baldwin 60000	cylindercount	Outside: 2 LP
+New Zealand DQ and QR class locomotives	cylindercount	12
+Old Colony and Newport Scenic Railway	cylindercount	6
+Southern Pacific 1518	cylindercount	16
+EMD RS1325	cylindercount	12
+New Zealand DH class locomotive	cylindercount	12
+Southern Pacific 5021	cylindercount	3
+GE P30CH	cylindercount	16
+ALCO FA	cylindercount	12
+EMD F69PHAC	cylindercount	12
+MLW RSC-14	cylindercount	12
+LNER Class P1	cylindercount	3
+NZR G class	cylindercount	6
+NZR G class	cylindercount	3
+NZR KA class	cylindercount	2
+Indian locomotive class WDM-2	cylindercount	16
+New Zealand DC class locomotive	cylindercount	12
+New Zealand DX class locomotive	cylindercount	12
+NZR J class	cylindercount	2
+New Zealand DA class locomotive	cylindercount	12
+New Zealand DB class locomotive	cylindercount	8
+New Zealand DG and DH class locomotive	cylindercount	Straight 6
+VIA FP9ARM	cylindercount	16
+LNER Class A8	cylindercount	3
+GMD NF110	cylindercount	12
+NZR DF class	cylindercount	12
+New Zealand DF class locomotive	cylindercount	12
+EMD G8	cylindercount	8
+ALCO DL-202	cylindercount	V12 engine
+SNCF Class 241P	cylindercount	4
+LNER Class P2	cylindercount	3
+NZR KB class	cylindercount	2
+New Zealand DSG class locomotive	cylindercount	16
+MLW RS-10	cylindercount	V12 engine
+Victorian Railways X class	cylindercount	2
+ALCO RS-27	cylindercount	V16 engine
+ALCO RS-32	cylindercount	V12 engine
+ALCO T-6	cylindercount	Straight 6
+ALCO S-5	cylindercount	Straight 6
+ALCO S-6	cylindercount	Straight 6
+Victorian Railways S class	cylindercount	3
+Victorian Railways K class	cylindercount	2
+Tasmanian Government Railways Y class	cylindercount	Inline 6
+Victorian Railways N class	cylindercount	2
+Tubize 2069	cylindercount	2
+FS Class ALn 772	cylindercount	6
+EMD SD75I	cylindercount	V16 engine
+EMD SD75M	cylindercount	16
+Victorian Railways H class	cylindercount	3
+EMD GT46MAC	cylindercount	16
+EMD GT46PAC	cylindercount	16
+New South Wales 44 class locomotive	cylindercount	V12
+GMD GMDH-3	cylindercount	V8 engine
+EMD MRS-1	cylindercount	V16 engine
+New South Wales 45 class locomotive	cylindercount	12
+New South Wales 80 class locomotive	cylindercount	12
+GE 45-ton switcher	cylindercount	6
+Victorian Railways R class	cylindercount	2
+ALCO DL560C	cylindercount	166
+Australian National AN class	cylindercount	16
+Australian National DL class	cylindercount	12
+NR class	cylindercount	14
+New South Wales 81 class locomotive	cylindercount	16
+EMD GL8	cylindercount	8
+EMD GT22CUM-1	cylindercount	12
+EMD G12	cylindercount	12
+New South Wales 422 class locomotive	cylindercount	16
+New South Wales 442 class locomotive	cylindercount	12
+Victorian Railways J class	cylindercount	2
+LNER Class V4	cylindercount	3
+New South Wales 42 class locomotive	cylindercount	V16
+SSB-9	cylindercount	Straight 6
+New South Wales 421 class locomotive	cylindercount	16
+New South Wales 49 class locomotive	cylindercount	8
+South Australian Railways 620 class	cylindercount	2
+LB&SCR E1 class	cylindercount	2
+New South Wales 47 class locomotive	cylindercount	16
+New South Wales 48 class locomotive	cylindercount	6
+SR Merchant Navy Class 35027 Port Line	cylindercount	3
+NSB Class 30	cylindercount	30
+GE C32-8	cylindercount	12
+EMD GT22HW-2	cylindercount	12
+EMD G26	cylindercount	V16 engine
+NER 1463 Class	cylindercount	2
+NER 901 Class	cylindercount	2
+Baldwin DT-6-6-2000	cylindercount	6
+Baldwin DT-6-6-2000	cylindercount	8
+China Railways DF8	cylindercount	V16 engine
+TCDD DE33000	cylindercount	16
+TCDD DE24000	cylindercount	V16 engine
+South Australian Railways 520 class	cylindercount	2
+Australian National BL class	cylindercount	16
+NER Bogie Tank Passenger	cylindercount	2
+Line A class	cylindercount	12
+Wylam Dilly	cylindercount	2
+NCC Class X	cylindercount	8
+Victorian Railways G class	cylindercount	4
+LSWR P14 class	cylindercount	4
+3830	cylindercount	2
+Milwaukee Road class A2	cylindercount	4
+China Railways HXN3	cylindercount	V16 engine
+EMC AA	cylindercount	12
+VR Class Dv12	cylindercount	16
+Lima LRS-1200	cylindercount	Inline 8
+Lima-Hamilton 2500HP Transfer Locomotive	cylindercount	Inline 8
+Lima 750 and 800 hp switchers	cylindercount	Inline 6
+Port Talbot Railway 0-6-2T	cylindercount	2
+PKP class SP30	cylindercount	12
+Santa Fe 2913	cylindercount	2
+China Railways BJ	cylindercount	12
+ALCO RSC-1	cylindercount	Straight 6
+ALCO MRS-1	cylindercount	V12 engine
+Victorian Railways B class	cylindercount	16
+Kerr Stuart steam railmotor	cylindercount	2
+3820	cylindercount	2
+SŽ series 664	cylindercount	V16
+Lima LS-1200	cylindercount	Inline 8
+EMD GT26CW-2	cylindercount	16
+HŽ series 2043	cylindercount	16
+EMD SD89MAC	cylindercount	V12 engine
+EMD G16	cylindercount	16
+Lima LS-1000	cylindercount	Inline 8
+HŽ series 2042	cylindercount	12
+HŽ series 2041	cylindercount	12
+DSB Class ME	cylindercount	16
+DSB Class MY	cylindercount	16
+DSB Class MX	cylindercount	V12 engine
+Baldwin RS-12	cylindercount	In-line 6
+Baldwin DRS-4-4-1500	cylindercount	8
+WAGR X class	cylindercount	8
+Victorian Railways C class	cylindercount	16
+PRR D15	cylindercount	2
+PRR E6	cylindercount	2
+Victorian Railways S class	cylindercount	16
+PRR D6	cylindercount	2
+PRR L1s	cylindercount	2
+Downer EDI Rail GT46C	cylindercount	6
+Victorian Railways X class	cylindercount	16
+Freight Australia XR class	cylindercount	16
+SP&S Class A2	cylindercount	2
+SP&S Class A1	cylindercount	2
+SP&S Class L-2	cylindercount	2
+SP&S Class L-3	cylindercount	2
+SP&S Class L-4	cylindercount	2
+Fire Queen	cylindercount	2
+Brookville BL20GH	cylindercount	12
+TCDD DH9500	cylindercount	8
+TCDD DE18000	cylindercount	12
+TCDD DE18100	cylindercount	12
+TCDD DE20000	cylindercount	12
+TCDD DE21500	cylindercount	12
+TCDD DH33100	cylindercount	V12 engine
+SJ T44	cylindercount	12
+DSB Class MZ	cylindercount	V16 engine
+DSB Class MZ	cylindercount	V20 engine
+Caledonian	cylindercount	2
+Thuile locomotive	cylindercount	2
+New South Wales 40 class locomotive	cylindercount	V12
+Experiment	cylindercount	2
+Lancashire Witch	cylindercount	2
+Commonwealth Railways CL class	cylindercount	16
+Australian National EL class	cylindercount	12
+Commonwealth Railways GM class	cylindercount	16
+SECR K and SR K1 classes	cylindercount	K: Two, outside
+SECR K and SR K1 classes	cylindercount	K1: Three
+New South Wales 41 class locomotive	cylindercount	V12
+New South Wales X200 class locomotive	cylindercount	6
+NER Class S2	cylindercount	2
+New South Wales D57 class locomotive	cylindercount	3
+Bombardier HR-616	cylindercount	16
+PRR D7	cylindercount	2
+EMD DE30AC and DM30AC	cylindercount	12
+Krauss-Maffei ML 4000 C'C'	cylindercount	32
+New South Wales 72 class locomotive	cylindercount	V12
+New South Wales 71 class locomotive	cylindercount	12
+New South Wales 79 class locomotive	cylindercount	8
+New South Wales 43 class locomotive	cylindercount	12
+New South Wales 70 class locomotive	cylindercount	12
+New South Wales X100 class locomotive	cylindercount	6
+New South Wales 73 class locomotive	cylindercount	8
+DB Class V 160	cylindercount	16
+DB Class 215	cylindercount	215001
+DB Class 215	cylindercount	215011
+KTM Class 29	cylindercount	16
+NZR JB class	cylindercount	2
+Commonwealth Railways NC class	cylindercount	6
+KkStB Class 99	cylindercount	2
+LB&SCR G class	cylindercount	2
+NBR J class	cylindercount	2
+China Railways HXN5	cylindercount	V16 engine
+LNWR Class B	cylindercount	4
+LNWR Class C	cylindercount	2
+LNWR Class D	cylindercount	2
+LNWR Class C1	cylindercount	2
+Tasmanian Government Railways M class	cylindercount	2
+South Australian Railways X class	cylindercount	2
+RENFE Class 334	cylindercount	V12 engine
+RENFE Class 333	cylindercount	V16 engine
+8-DE	cylindercount	V8
+Baldwin RT-624	cylindercount	6
+ Vossloh G1206	cylindercount	G 1206 : V16
+ Vossloh G1206	cylindercount	G 1206-2 : 8
+ATSF 98	cylindercount	V20 engine
+Baldwin DRS-6-4-1000	cylindercount	6
+Baldwin DRS-6-4-750	cylindercount	6
+Baldwin DRS-6-4-660NA	cylindercount	6
+Baldwin 0-6-6-0 1000	cylindercount	8
+MLW M-420	cylindercount	V12 engine
+Krauss-Maffei ML 2200 C'C'	cylindercount	12
+RENFE Class 340	cylindercount	V16 engine
+RENFE Class 353	cylindercount	V12 engine
+IranRunner	cylindercount	16
+SAL 2027	cylindercount	8
+RENFE Class 354	cylindercount	2
+Baldwin RP-210	cylindercount	12
+Rebel	cylindercount	6
+Downer EDI Rail GT42CU AC	cylindercount	12
+South Australian Railways 830 class	cylindercount	6
+South Australian Railways 930 class	cylindercount	12
+South Australian Railways 600 class	cylindercount	12
+GE U17C	cylindercount	V8 engine
+EMD GM6W	cylindercount	V6
+SR Merchant Navy class	cylindercount	3
+GE U20C	cylindercount	8
+NRE 3GS21B	cylindercount	6
+NRE 1GS7B	cylindercount	6
+EMD GP15D	cylindercount	V12 engine
+3642	cylindercount	2
+Railpower GG20B	cylindercount	6
+NZR UD class	cylindercount	2
+EMD SD22ECO	cylindercount	V8 engine
+EMD GP22ECO	cylindercount	V8 engine
+EMD GT18LC-2	cylindercount	V8 engine
+JNR Class E10	cylindercount	2
+MLW RS-18	cylindercount	12
+EMD SD32ECO	cylindercount	V12 engine
+5	cylindercount	4
+LNWR Class G1	cylindercount	2
+Progress Rail PR30C	cylindercount	V16 engine
+NRE 3GS21C	cylindercount	6
+NRE 2GS14B	cylindercount	6
+MPI MP21B	cylindercount	Straight-six engine
+South African Class 91-000	cylindercount	V8 engine
+5	cylindercount	101
+5	cylindercount	107
+PRR E2	cylindercount	2
+LSWR T7 class	cylindercount	4
+GE Dash 8-44CW	cylindercount	V16 engine
+D&RGW 315	cylindercount	2
+Southern Pacific 1673	cylindercount	2
+C&O 1308	cylindercount	4
+GN 1355	cylindercount	2
+DV&S 50	cylindercount	6
+Wabash Alloys Locomotive	cylindercount	6
+Frisco 4003	cylindercount	2
+The Glenbrook	cylindercount	2
+Union Pacific 1243	cylindercount	2
+EMD G22 Series	cylindercount	12
+JNR Class C57	cylindercount	2
+EMD G22C Series	cylindercount	V12 engine
+3	cylindercount	Four: 2 HP ; 2 LP
+Delaware & Hudson 16	cylindercount	12
+Nickel Plate Road 190	cylindercount	12
+Delaware & Hudson 1205 and 1216	cylindercount	Inline 8
+MPI HSP46	cylindercount	12
+GA DE900 locomotives	cylindercount	8
+RENFE Class 309	cylindercount	V6 engine
+Réseau Breton 4-6-0 tank locomotives	cylindercount	2
+Le Belge	cylindercount	2
+Downer EDI Rail GT42CU ACe	cylindercount	12
+ALCO DL531	cylindercount	Inline 6
+South African Class 31-000	cylindercount	V8 engine
+South African Class 32-200	cylindercount	V12 engine
+South African Class 33-000	cylindercount	V12 engine
+South African Class 33-200	cylindercount	V16
+South African Class 33-400	cylindercount	V12 engine
+South Australian Railways 500 class	cylindercount	4
+BHP Newcastle 32 class	cylindercount	6
+Silverton Tramway 48s class	cylindercount	6
+BHP Newcastle 37 class	cylindercount	6
+Commonwealth Railways DR class	cylindercount	6
+South African Class 34-000	cylindercount	V12 engine
+South African Class 34-200	cylindercount	V16
+South Australian Railways 350 class	cylindercount	6
+South African Class 34-400	cylindercount	V12 engine
+South African Class 34-500	cylindercount	V12 engine
+South African Class 34-600	cylindercount	V16
+GWR 2602 Class	cylindercount	2
+South African Class 34-800	cylindercount	V16
+South African Class 34-900	cylindercount	V12 engine
+South African Class 35-000	cylindercount	V8
+South African Class 35-200	cylindercount	V8
+South African Class 35-400	cylindercount	V8
+South African Class 35-600	cylindercount	V8
+South African Class 36-000	cylindercount	V8
+South African Class 61-000	cylindercount	2
+South African Class 36-200	cylindercount	V8
+South African Class 37-000	cylindercount	V16
+South African Class 39-000	cylindercount	V16
+South African Class 39-200	cylindercount	V16
+PKP class ST45	cylindercount	12
+GE boxcab	cylindercount	60
+GE boxcab	cylindercount	100
+GE three-power boxcab	cylindercount	1
+ChME3	cylindercount	6
+NIR Class 111	cylindercount	12
+Brookville BL36PH	cylindercount	20
+NZR WJ class	cylindercount	2
+NZR WH class	cylindercount	2
+TU7 diesel locomotive	cylindercount	12
+South Australian Railways 900 class	cylindercount	16
+South Australian Railways 700 class	cylindercount	12
+South Australian Railways 800 class	cylindercount	6
+South Australian Railways T class	cylindercount	2
+South Australian Railways 600 class	cylindercount	2
+South Australian Railways Y class	cylindercount	2
+NER Class C	cylindercount	2
+Palestine Railways H class	cylindercount	2
+Palestine Railways P class	cylindercount	2
+Egyptian State Railways 545 class	cylindercount	2
+Egyptian Republic Railways 4211 class	cylindercount	8
+GE U26C	cylindercount	V12 engine
+Sri Lanka Railways M9	cylindercount	12
+NZR D class	cylindercount	4
+Heilmann locomotive	cylindercount	2
+NRE 2GS36C-DE	cylindercount	16
+Sri Lanka Railways M6	cylindercount	12
+RENFE class 313	cylindercount	6
+MÁV Class 242	cylindercount	2
+LNWR Class G2	cylindercount	2
+LNWR Class G	cylindercount	2
+LSWR C8 class	cylindercount	2
+LSWR 135 class	cylindercount	2
+JŽ 664 locomotive	cylindercount	16
+Sri Lanka Railways M4	cylindercount	12
+Sri Lanka Railways M2	cylindercount	12
+Tubize 2179	cylindercount	2
+L&YR Class 24	cylindercount	2
+L&YR Class 2	cylindercount	2
+L&YR Class 2	cylindercount	2
+L&YR Class 3	cylindercount	2
+L&YR Class 4	cylindercount	2
+MPI MP8AC-3	cylindercount	6
+Reading Blue Mountain and Northern Railroad 425	cylindercount	2
+South Australian Railways W class	cylindercount	2
+EMD GT26 Series	cylindercount	V16 engine
+Sri Lanka Railways M10	cylindercount	16
+Sri Lanka Railways M8	cylindercount	M8 , M8A
+China Railways JS	cylindercount	2
+China Railways JF	cylindercount	2
+MRWA G class	cylindercount	8
+WAGR T class	cylindercount	12
+MRWA F class	cylindercount	6
+WAGR A class	cylindercount	12
+Westrail N class	cylindercount	12
+Westrail DB class	cylindercount	V16 engine
+WAGR B class	cylindercount	12
+Westrail P class	cylindercount	12
+GE Dash 9 Series	cylindercount	16
+GE Dash 7 Series	cylindercount	V12 or V16
+GE Dash 8 Series	cylindercount	V12 or V16
+MRWA E class	cylindercount	6
+MPI MP33C	cylindercount	V18
+Plymouth CR-8 locomotives	cylindercount	V12 engine
+ČKD T-669 diesel locomotive	cylindercount	6
+Australian National AL class	cylindercount	16
+EMD F125	cylindercount	20
+Commonwealth Railways NJ class	cylindercount	12
+Agenoria	cylindercount	2
+NREC RL class locomotive	cylindercount	16
+South Australian Railways 500 class	cylindercount	2
+China Railways DF5	cylindercount	8
+VR Class Dr13	cylindercount	16
+ŽS series 641	cylindercount	16
+WAGR M class	cylindercount	4
+Rowan steam railmotor	cylindercount	2
+Union Pacific 4014	cylindercount	4
+New South Wales Z29 class locomotive	cylindercount	2
+New South Wales M36 class locomotive	cylindercount	2
+New South Wales F351 class locomotive	cylindercount	2
+MPI MP14B	cylindercount	Straight-six engine
+Indian locomotive class WDM-4	cylindercount	16
+Indian locomotive class WDM-1	cylindercount	12
+Sri Lanka Railways W2	cylindercount	16
+Queensland Railways 1502 class	cylindercount	12
+Queensland Railways 1550 class	cylindercount	12
+UGL Rail PH37ACmai	cylindercount	V16
+BHP Port Kembla D34 class	cylindercount	12
+BHP Port Kembla D35 class	cylindercount	6
+Queensland Railways 2400 class	cylindercount	12
+Queensland Railways 2450 class	cylindercount	12
+Queensland Railways 2470 class	cylindercount	12
+Queensland Railways 1600 class	cylindercount	6
+Queensland Railways 1620 class	cylindercount	6
+Queensland Railways 1700 class	cylindercount	8
+Queensland Railways 1720 class	cylindercount	8
+Queensland Railways 2100 class	cylindercount	16
+Queensland Railways 2141 class	cylindercount	16
+Queensland Railways 2130 class	cylindercount	V16
+Queensland Railways 2150 class	cylindercount	16
+Queensland Railways 2800 class	cylindercount	12
+Queensland Railways 2300 class	cylindercount	12
+Queensland Railways 2250 class	cylindercount	12
+TasRail TR class	cylindercount	V12
+China Railways SY	cylindercount	2
+QR National 5000 class	cylindercount	V16
+QR National 5020 class	cylindercount	V16
+ŽS series 621	cylindercount	16
+SNCF Class CC 70000	cylindercount	V16
+SNCF Class BB 69000	cylindercount	16
+CSR Qishuyan SDA2	cylindercount	V20
+Indian locomotive class WDM-3A	cylindercount	16
+KkStB Class 97	cylindercount	2
+LB&SCR A1X Class W11 Newport	cylindercount	2
+Commonwealth Railways CA class	cylindercount	2
+PNR 900 Class	cylindercount	12
+PNR 2500 Class	cylindercount	12
+EMD GT38ACe	cylindercount	V8 engine
+Siemens Charger	cylindercount	16
+Canadian National 7470	cylindercount	2
+South Australian Railways S class	cylindercount	2
+South Australian Railways R class	cylindercount	2
+South Australian Railways P class	cylindercount	2
+South Australian Railways F class	cylindercount	2
+KUR EC3 class	cylindercount	4
+EAR 58 class	cylindercount	4
+KUR EC class	cylindercount	4
+KUR EC1 class	cylindercount	4
+KUR EC2 class	cylindercount	4
+TR GA class	cylindercount	4
+KUR EA class	cylindercount	2
+EAR 29 class	cylindercount	2
+EAR 30 class	cylindercount	2
+EAR 31 class	cylindercount	2
+Lyons, Hetton colliery railway	cylindercount	2
+KUR EC4 class	cylindercount	4
+EAR 56 class	cylindercount	4
+TR DL class	cylindercount	2
+TR MK class	cylindercount	2
+TR RV class	cylindercount	2
+EAR 60 class	cylindercount	4
+TR ML class	cylindercount	2
+EAR 27 class	cylindercount	2
+NER Class S1	cylindercount	2
+16D	cylindercount	V12
+NRE 2GS16B-AU	cylindercount	Inline 6
+NS GP33ECO	cylindercount	12
+NRE 3GS24C-DE-AU	cylindercount	Inline 6
+KTM Class 19	cylindercount	6
+EMD SD30C-ECO	cylindercount	12
+GE CM20EMP	cylindercount	8
+DSB Class MT	cylindercount	8
+DSB Class MT	cylindercount	12
+DSB Class MH	cylindercount	8
+Henschel DH 440	cylindercount	8
+South African Class Afro 4000	cylindercount	16.0
+CNR CKD8	cylindercount	16
+Bombardier HR-412	cylindercount	12
+GE UM12C	cylindercount	V12
+St. Louis–San Francisco 4500	cylindercount	2
+GE Dash 8.5-40CW	cylindercount	16
+EMD SD70ACu	cylindercount	16
+FS Class 685	cylindercount	4
+Northern Pacific 3617	cylindercount	20
+Great Northern 400	cylindercount	20
+GS&WR 400 Class	cylindercount	4
+GS&WR 400 Class	cylindercount	2
+Emu Bay Railway 10 class	cylindercount	12
+Emu Bay Railway 11 class	cylindercount	12
+ČSD Class T 448.0	cylindercount	6
+Ganz DVM-4	cylindercount	16
+K62-class locomotive	cylindercount	12
+Kŭmsŏng-class locomotive	cylindercount	12
+China Railways JF6	cylindercount	2
+South Australian Railways Z class	cylindercount	2
+South Australian Railways V class	cylindercount	2
+YDM-4	cylindercount	6
+China Railways HXN5B	cylindercount	12
+South Australian Railways D class	cylindercount	2
+South Australian Railways B class	cylindercount	2
+South Australian Railways J class	cylindercount	2
+EMD GP20C-ECO	cylindercount	8
+South Australian Railways E class	cylindercount	2
+PRR de Glehn	cylindercount	4
+Francorail-MTE CSE26-21	cylindercount	16
+SR Merchant Navy Class 35018 British India Line	cylindercount	3
+China Railways RM	cylindercount	2
+China Railways SL6	cylindercount	2
+Px38	cylindercount	2
+SNCF 040.DF	cylindercount	12

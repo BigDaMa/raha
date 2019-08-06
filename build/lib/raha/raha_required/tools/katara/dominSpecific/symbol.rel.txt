@@ -1,0 +1,3581 @@
+Beta-lactamase	symbol	β-lactamase domain
+Chymotrypsin	symbol	CTRB1
+Chymotrypsin	symbol	CTRB2
+Chymotrypsin	symbol	Chymotrypsin-C
+Collagen helix	symbol	Collagen
+DNA ligase	symbol	LIG1
+DNA ligase	symbol	LIG3
+DNA ligase	symbol	LIG4
+G protein–coupled receptor	symbol	7
+Histone	symbol	Histone
+Histone	symbol	Linker_histone
+Interferon	symbol	Interferons
+Lactase	symbol	LCT
+Monoamine oxidase	symbol	MAOA
+Monoamine oxidase	symbol	Monoamine oxidase B
+Reverse transcriptase	symbol	RVT_1
+Superoxide dismutase	symbol	Sod_Cu
+Superoxide dismutase	symbol	Sod_Fe_N
+Superoxide dismutase	symbol	Sod_Fe_C
+Superoxide dismutase	symbol	Sod_Ni
+Superoxide dismutase	symbol	SOD1
+Superoxide dismutase	symbol	SOD2
+Superoxide dismutase	symbol	SOD3
+SH3 domain	symbol	SH3_1
+Trypsin	symbol	Trypsin
+Trypsin	symbol	Trypsin 1
+Trypsin	symbol	PRSS2
+Trypsin	symbol	PRSS3
+Ubiquitin	symbol	ubiquitin
+Catalase	symbol	Catalase
+Integrase	symbol	Integrase_Zn
+Integrase	symbol	rve
+Integrase	symbol	IN_DBD_C
+Chitinase	symbol	CHIA
+Chitinase	symbol	CHIT1
+Tyrosine kinase	symbol	Pkinase_Tyr
+Adrenocorticotropic hormone	symbol	OMC
+Homeobox	symbol	Homeodomain
+Bacteriocin	symbol	Lactococcin
+Bacteriocin	symbol	Lactococcin_972
+Chymosin	symbol	Cym
+Chymosin	symbol	CYMP
+Beta-galactosidase	symbol	GLB1
+Alcohol dehydrogenase	symbol	ADH1A
+Alcohol dehydrogenase	symbol	ADH1B
+Alcohol dehydrogenase	symbol	ADH1C
+Alcohol dehydrogenase	symbol	ADH4
+Alcohol dehydrogenase	symbol	ADH5
+Alcohol dehydrogenase	symbol	ADH6
+Alcohol dehydrogenase	symbol	ADH7
+Alcohol dehydrogenase	symbol	Fe-ADH
+Peroxidase	symbol	peroxidase
+Coenzyme Q – cytochrome c reductase	symbol	UCR_TM
+Xanthine oxidase	symbol	Xanthine dehydrogenase
+Iodothyronine deiodinase	symbol	DIO1
+Iodothyronine deiodinase	symbol	DIO2
+Iodothyronine deiodinase	symbol	DIO3
+Ornithine decarboxylase	symbol	ODC1
+Dihydrofolate reductase	symbol	DHFR_1
+Dihydrofolate reductase	symbol	DHFR_2
+Hemocyanin	symbol	Hemocyanin_M
+Hemocyanin	symbol	Hemocyanin_N
+Hemocyanin	symbol	Hemocyanin_C
+Hemerythrin	symbol	Hemerythrin
+Globin	symbol	Globin
+Globin	symbol	Bac_globin
+Pardaxin	symbol	Pardaxin
+Green fluorescent protein	symbol	GFP
+Ciclosporin	symbol	N/A
+Hexokinase	symbol	HK1
+Hexokinase	symbol	HK2
+Hexokinase	symbol	HK3
+Hexokinase	symbol	Hexokinase_1
+Hexokinase	symbol	Hexokinase_2
+Tobacco mosaic virus	symbol	CP
+Ricin	symbol	RIP
+Ricin	symbol	N/A
+Pepsin	symbol	PGA3
+Pepsin	symbol	PGA4
+Pepsin	symbol	PGA5
+Pepsin	symbol	Gastricsin
+Growth hormone	symbol	Growth hormone 1
+Growth hormone	symbol	Growth hormone 2
+Shiga-like toxin	symbol	SLT_beta
+Proopiomelanocortin	symbol	Op_neuropeptide
+Thyrotropin-releasing hormone	symbol	TRH
+Glutathione peroxidase	symbol	GSHPx
+Hepatitis D	symbol	HDV_ag
+Leptin	symbol	Leptin
+Zinc finger	symbol	zf-C2H2
+Zinc finger	symbol	zf-CCHC
+Zinc finger	symbol	TF_Zn_Ribbon
+Zinc finger	symbol	Zn_clus
+Zinc finger	symbol	zf-C2HC
+Zinc finger	symbol	zf-C2HC5
+DNA polymerase	symbol	DNA_pol_A
+DNA polymerase	symbol	DNA_pol_B
+DNA polymerase	symbol	DNA_pol_B_2
+Fibrinogen	symbol	Fibrinogen alpha chain
+Fibrinogen	symbol	Fibrinogen beta chain
+Fibrinogen	symbol	Fibrinogen gamma chain
+Fibrinogen	symbol	Fib_alpha
+Fibrinogen	symbol	Fibrinogen_aC
+Fibrinogen	symbol	Fibrinogen_C
+Phytohaemagglutinin	symbol	Lectin_legB
+CD32	symbol	FCGR2A
+CD32	symbol	FCGR2B
+CD32	symbol	FCGR2C
+Luteinizing hormone	symbol	Chorionic gonadotropin alpha
+Luteinizing hormone	symbol	Luteinizing hormone beta polypeptide
+Proinsulin	symbol	INS
+Alanine transaminase	symbol	GPT
+DNA methyltransferase	symbol	N6_Mtase
+DNA methyltransferase	symbol	HsdM_N
+DNA methyltransferase	symbol	DNA_methylase
+DNA methyltransferase	symbol	N6_N4_Mtase
+Orexin	symbol	Orexin
+Orexin	symbol	HCRT
+Metallothionein	symbol	Metallothionein_sfam
+Metallothionein	symbol	Yeast metallothionein
+Metallothionein	symbol	Bacterial metallothionein
+Caspase	symbol	Peptidase_C14
+Human chorionic gonadotropin	symbol	Chorionic gonadotropin alpha
+Human chorionic gonadotropin	symbol	Chorionic gonadotropin beta
+Luciferase	symbol	Bac_luciferase
+Luciferase	symbol	Luciferase_cat
+Luciferase	symbol	Luciferase_N
+Luciferase	symbol	Luciferase_3H
+Fructose 1,6-bisphosphatase	symbol	FBP1
+Fructose 1,6-bisphosphatase	symbol	FBPase
+Fructose 1,6-bisphosphatase	symbol	FBPase_2
+Fructose 1,6-bisphosphatase	symbol	FBPase_3
+RuBisCO	symbol	RuBisCO_large
+RuBisCO	symbol	RuBisCO_large_N
+RuBisCO	symbol	RuBisCO_small
+Thaumatin	symbol	Thaumatin
+Thaumatin	symbol	THM1_THADA
+Thaumatin	symbol	THM2_THADA
+Cyclooxygenase	symbol	PTGS1
+Cyclooxygenase	symbol	PTGS2
+Crystallin	symbol	Crystallin
+Crystallin	symbol	Crystall
+Follicle-stimulating hormone	symbol	Alpha subunit of glycoprotein hormones
+Follicle-stimulating hormone	symbol	FSHB
+Thyroid-stimulating hormone	symbol	Chorionic gonadotropin alpha
+Thyroid-stimulating hormone	symbol	TSHB
+Aquaporin	symbol	Aquaporin
+Signal recognition particle	symbol	SRP9
+Signal recognition particle	symbol	SRP14
+Signal recognition particle	symbol	SRP19
+Signal recognition particle	symbol	SRP54
+Signal recognition particle	symbol	SRP68
+Signal recognition particle	symbol	SRP72
+Gamma-glutamyl transpeptidase	symbol	G_glu_transpept
+Gamma-glutamyl transpeptidase	symbol	GGT1
+Gamma-glutamyl transpeptidase	symbol	GGT2
+Corticotropin-releasing factor family	symbol	CRF
+Substance P	symbol	TAC1
+Ras subfamily	symbol	Ras
+Antifreeze protein	symbol	AFP
+Antifreeze protein	symbol	CfAFP
+Actin	symbol	Actin
+BK channel	symbol	KCNMA1
+BK channel	symbol	KCNMB1
+BK channel	symbol	KCNMB2
+BK channel	symbol	KCNMB3
+BK channel	symbol	KCNMB3L
+BK channel	symbol	KCNMB4
+BK channel	symbol	BK_channel_a
+Ferritin	symbol	Ferritin
+Ferritin	symbol	Ferritin light chain
+Ferritin	symbol	FTH1
+Ferritin	symbol	FTMT
+Transferrin	symbol	Transferrin
+Hsp70	symbol	HSP70
+Aspartate carbamoyltransferase	symbol	CAD
+Lantibiotics	symbol	Gallidermin
+Ribonuclease	symbol	Ribonuclease
+Sigma factor	symbol	Sigma70_r1_1
+Sigma factor	symbol	Sigma70_r1_2
+Sigma factor	symbol	Sigma70_r2
+Sigma factor	symbol	Sigma70_r3
+Sigma factor	symbol	Sigma70_r4
+Sigma factor	symbol	Sigma70_r4_2
+Protein disulfide-isomerase	symbol	PDIA2
+Protein disulfide-isomerase	symbol	PDIA3
+Protein disulfide-isomerase	symbol	PDIA4
+Protein disulfide-isomerase	symbol	PDIA5
+Protein disulfide-isomerase	symbol	PDIA6
+Hemagglutinin	symbol	Hemagglutinin
+Hemagglutinin	symbol	Hema_stalk
+Signal peptide	symbol	N/A
+Clathrin	symbol	CLTA
+Clathrin	symbol	CLTB
+Clathrin	symbol	CLTC
+Clathrin	symbol	CLTCL1
+Clathrin	symbol	Clathrin_propel
+Clathrin	symbol	Clathrin-link
+Intermediate filament	symbol	IF_tail
+Intermediate filament	symbol	Filament
+Intermediate filament	symbol	Filament_head
+SAR1A	symbol	SAR1A
+COPII	symbol	SEC23A
+COPII	symbol	SEC24A
+Cytochrome C1	symbol	CYC1
+COPI	symbol	COPI_C
+DnaB helicase	symbol	DnaB
+DnaB helicase	symbol	DnaB_C
+DnaA	symbol	Bac_DnaA_C
+DnaA	symbol	Bac_DnaA
+Phosphofructokinase 1	symbol	PFK
+Secretion	symbol	T4SS
+Melanocyte-stimulating hormone	symbol	POMC
+Bradykinin	symbol	Kininogen 1
+Bradykinin	symbol	Bradykinin
+Cholinesterase	symbol	gene symbol report?hgnc id=HGNC:108
+Cholinesterase	symbol	gene symbol report?hgnc id=HGNC:983
+Glucokinase	symbol	Glucokinase
+Galactokinase	symbol	GALK1
+Galactokinase	symbol	GALK2
+Alpha-2-Macroglobulin	symbol	A2M
+Alpha-2-Macroglobulin	symbol	A2M_comp
+Alpha-2-Macroglobulin	symbol	A2M_N
+Alpha-2-Macroglobulin	symbol	A2M_N_2
+Alpha-2-Macroglobulin	symbol	A2M_recep
+Protease inhibitor	symbol	Inhibitor_I9
+Protease inhibitor	symbol	Inhibitor_I10
+Protease inhibitor	symbol	Inhibitor_I24
+Protease inhibitor	symbol	Inhibitor_I29
+Protease inhibitor	symbol	Inhibitor_I34
+Protease inhibitor	symbol	Inhibitor_I36
+Protease inhibitor	symbol	Inhibitor_I42
+Protease inhibitor	symbol	Inhibitor_I48
+Protease inhibitor	symbol	Inhibitor_I53
+Protease inhibitor	symbol	Inhibitor_I67
+Protease inhibitor	symbol	Inhibitor_I68
+Protease inhibitor	symbol	Inhibitor_I78
+Serpin	symbol	Serpin, SERPIN
+Interleukin	symbol	IL1
+Interleukin	symbol	Interleukin-2
+Interleukin	symbol	Interleukin_3
+Interleukin	symbol	Interleukin_4
+Interleukin	symbol	Interleukin_5
+Interleukin	symbol	IL6_MGF_GCSF
+Interleukin	symbol	Interleukin_7_9
+Interleukin	symbol	Interleukin_10
+Interleukin	symbol	IL11
+Interleukin	symbol	IL12
+Interleukin	symbol	Interleukin_13
+Interleukin	symbol	Interleukin_15
+Interleukin	symbol	IL17
+Tubulin	symbol	Tubulin
+Cannabinoid receptor	symbol	CNR1
+Cannabinoid receptor	symbol	CNR2
+Peroxisome proliferator-activated receptor	symbol	PPARA
+Peroxisome proliferator-activated receptor	symbol	PPARG
+Peroxisome proliferator-activated receptor	symbol	PPARD
+Arginase	symbol	ARG1
+Arginase	symbol	ARG2
+Gastrin	symbol	Gastrin
+Kinesin	symbol	Kinesin motor domain
+Dynein	symbol	DHC_N1
+Dynein	symbol	DHC_N2
+Dynein	symbol	Dynein_heavy
+Dynein	symbol	DLIC
+Dynein	symbol	Dynein_light
+Aminoacyl tRNA synthetase	symbol	Anticodon_2
+Aminoacyl tRNA synthetase	symbol	DALR_1
+Aminoacyl tRNA synthetase	symbol	DALR_2
+Cyclin	symbol	Cyclin_N
+Cyclin	symbol	Cyclin_C
+Cyclin	symbol	K-cyclin_vir_C
+Phytochrome	symbol	Phytochrome
+Tryptophan repressor	symbol	Trp_repressor
+Phycoerythrin	symbol	Phycoerythr_ab
+Cytochrome P450	symbol	p450
+Dynorphin	symbol	PDYN
+Gonadotropin	symbol	Hormone_6
+Resistin	symbol	Resistin
+Angiotensin receptor	symbol	AGTR1
+Angiotensin receptor	symbol	AGTR2
+Cholecystokinin receptor	symbol	CCKAR
+Cholecystokinin receptor	symbol	CCKBR
+Hsp90	symbol	HATPase_c
+Hsp90	symbol	Hsp90
+Enoyl CoA isomerase	symbol	DCI
+Ribonucleotide reductase	symbol	RRM1
+Ribonucleotide reductase	symbol	RRM2
+Ribonucleotide reductase	symbol	RRM2B
+Ribonucleotide reductase	symbol	RR_N
+Ribonucleotide reductase	symbol	Ribonuc_red_lgN
+Ribonucleotide reductase	symbol	Ribonuc_red_lgC
+Ribonucleotide reductase	symbol	Ribonuc_red_sm
+Alkaline phosphatase	symbol	Alk_phosphatase
+Aromatic L-amino acid decarboxylase	symbol	DDC
+Streptokinase	symbol	skc
+Streptokinase	symbol	Staphylokinase
+Calcineurin	symbol	PPP3CA
+Calcineurin	symbol	PPP3CB
+Calcineurin	symbol	PPP3CC
+Calcineurin	symbol	PPP3R1
+Calcineurin	symbol	PPP3R2
+Glycophorin C	symbol	GYPC
+Metalloproteinase	symbol	Peptidase_M48
+Metalloproteinase	symbol	Peptidase_M50
+Snake venom	symbol	Toxin_1
+RecQ helicase	symbol	Bloom syndrome
+RecQ helicase	symbol	RECQL4
+RecQ helicase	symbol	RECQL5
+RecQ helicase	symbol	RMI1
+RecQ helicase	symbol	Werner syndrome ATP-dependent helicase
+Platelet-derived growth factor	symbol	PDGF
+Chemokine	symbol	IL8
+Transient receptor potential channel	symbol	TRP
+Nitric oxide synthase	symbol	NO_synthase
+Porin	symbol	Porin_1
+Thioredoxin reductase	symbol	TXNRD1
+Thioredoxin reductase	symbol	TXNRD2
+Thioredoxin reductase	symbol	TXNRD3
+Neurotrophin	symbol	NGF
+Urate oxidase	symbol	Uricase
+Enterotoxin	symbol	Stap_Strp_tox_C
+Glutamate dehydrogenase	symbol	GLUD1
+Glutamate dehydrogenase	symbol	GLUD2
+Helix-turn-helix	symbol	HTH_1
+Helix-turn-helix	symbol	HTH_10
+Helix-turn-helix	symbol	HTH_12
+Helix-turn-helix	symbol	HTH_13
+Helix-turn-helix	symbol	HTH_3
+Helix-turn-helix	symbol	HTH_5
+Helix-turn-helix	symbol	HTH_6
+Helix-turn-helix	symbol	HTH_7
+Helix-turn-helix	symbol	HTH_8
+Helix-turn-helix	symbol	HTH_9
+Helix-turn-helix	symbol	HTH_AraC
+Helix-turn-helix	symbol	HTH_CodY
+Helix-turn-helix	symbol	HTH_DeoR
+Helix-turn-helix	symbol	HTH_IclR
+Helix-turn-helix	symbol	HTH_Mga
+Helix-turn-helix	symbol	HTH_OrfB_IS605
+Helix-turn-helix	symbol	HTH_psq
+Helix-turn-helix	symbol	HTH_Tnp_1
+Helix-turn-helix	symbol	HTH_Tnp_IS630
+Helix-turn-helix	symbol	HTH_Tnp_Mu_1
+Helix-turn-helix	symbol	HTH_Tnp_Mu_2
+Helix-turn-helix	symbol	HTH_Tnp_Tc3_2
+Helix-turn-helix	symbol	HTH_Tnp_Tc5
+Helix-turn-helix	symbol	HTH_WhiA
+Helix-turn-helix	symbol	HTH_15
+Helix-turn-helix	symbol	HTH_16
+Helix-turn-helix	symbol	HTH_17
+Helix-turn-helix	symbol	HTH_18
+Helix-turn-helix	symbol	HTH_19
+Helix-turn-helix	symbol	HTH_20
+Helix-turn-helix	symbol	HTH_Tnp_IS1
+Helix-turn-helix	symbol	HTH_Tnp_IS66
+Helix-turn-helix	symbol	HTH_11
+Helix-turn-helix	symbol	HTH_Tnp_Tc3_1
+AAA proteins	symbol	AAA
+High-molecular-weight kininogen	symbol	Kininogen 1
+GSK-3	symbol	GSK3A
+GSK-3	symbol	GSK3B
+Malate dehydrogenase	symbol	MDH1
+Malate dehydrogenase	symbol	Malate dehydrogenase 2
+Malate dehydrogenase	symbol	Ldh_1_N
+Malate dehydrogenase	symbol	Ldh_1_C
+Connexin	symbol	Connexin
+Photosystem I	symbol	PsaA_PsaB
+Photosystem II	symbol	PSII
+Melittin	symbol	Melittin
+Hyaluronidase	symbol	Hyaluronidase_1
+Hyaluronidase	symbol	Hyaluronidase_2
+CD36	symbol	CD36
+Ferredoxin	symbol	Fer2
+Ferredoxin	symbol	FDX1
+Ferredoxin	symbol	Fer4
+Protein kinase C	symbol	Pkinase_C
+Enkephalin	symbol	PENK
+Epoxide hydrolase	symbol	EPHX1
+Epoxide hydrolase	symbol	EPHX2
+Epoxide hydrolase	symbol	EPHX3
+Epoxide hydrolase	symbol	EPHX4
+Cadherin	symbol	Cadherin
+Inositol trisphosphate receptor	symbol	ITPR1
+Inositol trisphosphate receptor	symbol	ITPR2
+Inositol trisphosphate receptor	symbol	ITPR3
+Pertactin	symbol	PRN
+Calcium release activated channel	symbol	Orai
+Isocitrate dehydrogenase	symbol	IDH
+Isocitrate dehydrogenase	symbol	IDH1
+Isocitrate dehydrogenase	symbol	IDH2
+Isocitrate dehydrogenase	symbol	IDH3A
+Isocitrate dehydrogenase	symbol	IDH3B
+Isocitrate dehydrogenase	symbol	IDH3G
+Monellin	symbol	MNEI
+Glutathione S-transferase	symbol	GST_C
+Glutathione S-transferase	symbol	GST_N
+5-alpha reductase	symbol	SRD5A1
+5-alpha reductase	symbol	SRD5A2
+BRCA2	symbol	BRCA2
+BRCA2	symbol	BRCA-2_helical
+BRCA2	symbol	BRCA-2_OB1
+BRCA2	symbol	BRCA-2_OB3
+BRCA2	symbol	Tower
+Transposase	symbol	Dimer_Tnp_Tn5
+Voltage-gated ion channel	symbol	VIC
+Adenosine deaminase	symbol	A_deaminase
+Adenosine deaminase	symbol	A_deamin
+Adenosine deaminase	symbol	A_deaminase_N
+Urokinase	symbol	PLAU
+Internexin	symbol	INA
+Neurofilament	symbol	NEFL
+Neurofilament	symbol	NEF3
+Neurofilament	symbol	NEFH
+Neurofilament	symbol	INA
+Neurofilament	symbol	NES
+Histone deacetylase	symbol	Hist_deacetyl
+Thymidine kinase	symbol	TK
+Thymidine kinase	symbol	Thymidine kinase 1
+Thymidine kinase	symbol	Thymidine kinase 2, mitochondrial
+Factor XIII	symbol	F13A1
+Factor XIII	symbol	F13B
+Ligand-gated ion channel	symbol	Neur_chan_memb
+Glucokinase regulatory protein	symbol	GCKR
+Adenylate kinase	symbol	ADK
+Adenylate kinase	symbol	ADK_lid
+PGL2	symbol	PGL2
+Proteorhodopsin	symbol	Bac_rhodopsin
+GroES	symbol	Cpn10
+Octreotide	symbol	N/A
+Microcephalin	symbol	MCPH1
+Microcephalin	symbol	Microcephalin
+Serum albumin	symbol	Serum_albumin
+Gramicidin	symbol	N/A
+Anaphylatoxin	symbol	ANATO
+Synapsin	symbol	Synapsin
+Synapsin	symbol	Synapsin_C
+14-3-3 protein	symbol	14
+Cysteine dioxygenase	symbol	CDO1
+Anti-Müllerian hormone	symbol	AMH
+Anti-Müllerian hormone	symbol	AMHR2
+Neuraminidase	symbol	NEU1
+Neuraminidase	symbol	NEU2
+Neuraminidase	symbol	NEU3
+Neuraminidase	symbol	NEU4
+Chloride channel	symbol	Voltage_CLC
+Intercellular adhesion molecule	symbol	ICAM_N
+ATP-binding cassette transporter	symbol	ABC_tran
+Protein Z-related protease inhibitor	symbol	SERPINA10
+Protein Z	symbol	PROZ
+Estrogen receptor	symbol	Estrogen receptor alpha
+Estrogen receptor	symbol	ESR2
+Estrogen receptor	symbol	Oest_recep
+Estrogen receptor	symbol	ESR1_C
+Birnaviridae	symbol	Birna_RdRp
+Birnaviridae	symbol	Birna_VP2
+Birnaviridae	symbol	Birna_VP3
+Birnaviridae	symbol	Birna_VP4
+Birnaviridae	symbol	Birna_VP5
+Galactose-1-phosphate uridylyltransferase	symbol	GalP_UDP_transf
+Galactose-1-phosphate uridylyltransferase	symbol	GalP_UDP_tr_C
+Glutamate decarboxylase	symbol	GAD1
+Glutamate decarboxylase	symbol	GAD2
+Glycogen phosphorylase	symbol	PYGM
+Glycogen phosphorylase	symbol	PYGL
+Glycogen phosphorylase	symbol	PYGB
+Apolipoprotein	symbol	Apolipoprotein
+Gastric inhibitory polypeptide	symbol	GIP
+Fibrillin	symbol	FBN1
+Fibrillin	symbol	FBN2
+Fibrillin	symbol	FBN3
+Phospholipase A2	symbol	Phospholip_A2_1
+Papain	symbol	Peptidase_C1
+Copper fist	symbol	Copper fist
+Streptavidin	symbol	Avidin
+DNA glycosylase	symbol	UDG
+Cathepsin	symbol	CTP
+Daptomycin	symbol	N/A
+Protein kinase B	symbol	AKT1
+Protein kinase B	symbol	AKT2
+Protein kinase B	symbol	AKT3
+Miraculin	symbol	MIRA_RICDU
+Tyrosinase	symbol	Tyrosinase
+Protamine	symbol	Protamine_P1
+Protamine	symbol	PRM1
+Protamine	symbol	PRM2
+Motilin	symbol	MLN
+Motilin	symbol	Motilin_ghrelin
+Ryanodine receptor	symbol	RyR
+Ryanodine receptor	symbol	RYR1
+Ryanodine receptor	symbol	RYR2
+Ryanodine receptor	symbol	RYR3
+Lingual lipase	symbol	LIPF
+Phycocyanin	symbol	Phycobilisome
+CD4	symbol	CD4-extrcel
+Amelogenin	symbol	AMELX
+Amelogenin	symbol	AMELY
+Granulocyte macrophage colony-stimulating factor	symbol	GM_CSF
+RecA	symbol	RecA
+Repressor lexA	symbol	LexA_DNA_bind
+Nitrilase	symbol	NIT1
+Trehalase	symbol	TREH
+Glucose-6-phosphate isomerase	symbol	bact-PGI_C
+Glucose-6-phosphate isomerase	symbol	PGI
+Conotoxin	symbol	Toxin_8
+Conotoxin	symbol	Conotoxin
+Conotoxin	symbol	Mu-conotoxin
+Interleukin 12	symbol	IL12, p70
+Interleukin 12	symbol	IL12A
+Interleukin 12	symbol	IL12B
+Aconitase	symbol	Aconitase
+Aconitase	symbol	ACO1
+Aconitase	symbol	ACO2
+CGMP-dependent protein kinase	symbol	PRKG1
+CGMP-dependent protein kinase	symbol	PRKG2
+Amyloid beta	symbol	APP
+Amyloid beta	symbol	Amyloid precursor protein
+Interleukin 4	symbol	IL4
+Protease-activated receptor	symbol	F2R
+Protease-activated receptor	symbol	F2RL1
+Protease-activated receptor	symbol	F2RL2
+Protease-activated receptor	symbol	F2RL3
+Cytochrome f	symbol	Apocytochr_F_C
+Neuregulin	symbol	Neuregulin
+Rieske protein	symbol	Rieske
+Rieske protein	symbol	CytB6-F_Fe-S
+Caveolin	symbol	Caveolin
+Caveolin	symbol	Caveolin 1
+Caveolin	symbol	Caveolin 2
+Caveolin	symbol	Caveolin 3
+Pyruvate carboxylase	symbol	PYR_CT
+Pyruvate carboxylase	symbol	PC
+T-cell receptor	symbol	TCR_zetazeta
+T-cell receptor	symbol	TRA@
+T-cell receptor	symbol	TRB@
+Thrombospondin	symbol	TSP_1
+CRISPR	symbol	CRISPR_assoc
+CRISPR	symbol	CRISPR_Cas2
+CRISPR	symbol	CRISPR_Cse1
+CRISPR	symbol	CRISPR_Cse2
+Agouti-related peptide	symbol	Agouti
+Taq polymerase	symbol	Taq-exonuc
+GABAB receptor	symbol	GABBR1
+GABAB receptor	symbol	GABBR2
+Annexin	symbol	Annexin
+Glycogenin	symbol	GYG1
+Glycogenin	symbol	GYG2
+Hirudin	symbol	Hirudin
+Cyclophilin	symbol	PPIA
+Cyclophilin	symbol	Pro_isomerase
+CD1	symbol	CD1A
+CD1	symbol	CD1B
+CD1	symbol	CD1C
+CD1	symbol	CD1D
+CD1	symbol	CD1E
+Laminin	symbol	Laminin_I
+Laminin	symbol	Laminin_II
+Laminin	symbol	Laminin_B
+Laminin	symbol	Laminin_EGF
+Laminin	symbol	Laminin_G_1
+Laminin	symbol	Laminin_G_2
+Laminin	symbol	Laminin_N
+Progesterone receptor	symbol	Progest_rcpt_N
+Androgen receptor	symbol	Androgen_recep
+Phycobilisome	symbol	Phycobilisome
+Vinculin	symbol	VBS
+Hepatocyte nuclear factor 4	symbol	Hepatocyte nuclear factor 4 alpha
+Hepatocyte nuclear factor 4	symbol	Hepatocyte nuclear factor 4 gamma
+Phospholamban	symbol	Phospholamban
+CD8	symbol	CD8A
+CD8	symbol	CD8B
+Synaptobrevin	symbol	Synaptobrevin
+Beta-glucuronidase	symbol	GUSB
+NF-κB	symbol	NFKB1
+NF-κB	symbol	RELA
+NF-κB	symbol	NFKB2
+NF-κB	symbol	RELB
+NF-κB	symbol	REL
+GABAA-rho receptor	symbol	GABRR1
+GABAA-rho receptor	symbol	GABRR2
+GABAA-rho receptor	symbol	GABRR3
+Enteropeptidase	symbol	PRSS7
+Brazzein	symbol	MONA_DIOCU
+Triosephosphate isomerase	symbol	TIM
+Microcin	symbol	Subtilosin_A
+Hypoxia-inducible factors	symbol	HIF1A
+Hypoxia-inducible factors	symbol	Aryl hydrocarbon receptor nuclear translocator
+Hypoxia-inducible factors	symbol	EPAS1
+Hypoxia-inducible factors	symbol	ARNT2
+Hypoxia-inducible factors	symbol	HIF3A
+Hypoxia-inducible factors	symbol	HIF-1
+Hypoxia-inducible factors	symbol	HIF-1a_CTAD
+Basic helix-loop-helix	symbol	bHLH
+Chloramphenicol acetyltransferase	symbol	CAT
+DNA mismatch repair	symbol	DNA_mis_repair
+Zein	symbol	Zein
+SH2 domain	symbol	SH2
+Kringle domain	symbol	Kringle
+Endothelin	symbol	Endothelin
+Endothelin	symbol	EDN1
+Endothelin	symbol	Endothelin 2
+Endothelin	symbol	EDN3
+Bacterial adhesin	symbol	Adhesin_Dr
+Von Hippel–Lindau binding protein 1	symbol	VBP1
+Phosphofructokinase 2	symbol	6
+Glutamine synthetase	symbol	Gln-synt_N
+Glutamine synthetase	symbol	Gln-synt_C
+Glutamine synthetase	symbol	GLUL
+Insulin-like growth factor 2	symbol	IGF2_C
+STAT protein	symbol	STAT_alpha
+STAT protein	symbol	STAT_bind
+STAT protein	symbol	STAT_int
+STAT protein	symbol	Dict-STAT-coil
+Apyrase	symbol	Apyrase
+Death effector domain	symbol	DED
+Opioid peptide	symbol	Opiods_neuropep
+Transketolase	symbol	TKT
+Interferon gamma	symbol	IFN gamma
+Alphavirus	symbol	Alpha_E1_glycop
+Alphavirus	symbol	Alpha_E2_glycop
+Alphavirus	symbol	Alpha_E3_glycop
+Glycogen synthase	symbol	GYS1
+Glycogen synthase	symbol	GYS2
+Glucose transporter	symbol	Sugar_tr
+Flavoprotein	symbol	Flavoprotein
+Envelope glycoprotein GP120	symbol	GP120
+M2 proton channel	symbol	Flu_M2
+Myelin basic protein	symbol	Myelin_MBP
+Pertussis toxin	symbol	Pertussis_S1
+Pertussis toxin	symbol	Pertussis_S2S3
+Pertussis toxin	symbol	Pertus-S4-tox
+Pertussis toxin	symbol	Pertus-S5-tox
+Inward-rectifier potassium ion channel	symbol	IRK
+Inward-rectifier potassium ion channel	symbol	IRK_N
+Calpain	symbol	Calpain
+M1 protein	symbol	Flu_M1
+Viral matrix protein	symbol	Matrix
+Osteopontin	symbol	Osteopontin
+Sec61	symbol	SecY
+Avidin	symbol	Avidin
+Light-harvesting complexes of green plants	symbol	Chloroa_b-bind
+Lipoxygenase	symbol	Lipoxygenase
+Thyroid peroxidase	symbol	TPO
+Growth hormone–releasing hormone	symbol	GHRH
+Glucose-6-phosphate dehydrogenase	symbol	G6PD_N
+Bacterial outer membrane	symbol	LptC
+Bacterial outer membrane	symbol	LptE
+Band 3	symbol	SLC4A1AP
+Obestatin	symbol	Ghrelin
+Colipase	symbol	Colipase
+Colipase	symbol	Colipase_C
+Glucuronosyltransferase	symbol	UDPGT
+Tachykinin peptides	symbol	Tachykinin
+Melanin-concentrating hormone	symbol	PMCH
+Profilin	symbol	Profilin
+Relaxin	symbol	RLN1
+Relaxin	symbol	RLN2
+Relaxin	symbol	RLN3
+Histone H3	symbol	H3F3A
+Histone H3	symbol	H3F3B
+Histone H4	symbol	H4F3
+TATA-binding protein	symbol	TBP
+Histone H1	symbol	Linker_histone
+Phosphoinositide phospholipase C	symbol	PI-PLC-X
+Phosphoinositide phospholipase C	symbol	PI-PLC-Y
+Spermidine synthase	symbol	SRM
+Deubiquitinating enzyme	symbol	UCH
+Deubiquitinating enzyme	symbol	DUSP
+Photolyase	symbol	FAD_binding_7
+Complement component 5a	symbol	5.0
+Androgen-binding protein	symbol	SHBG
+Protein tyrosine phosphatase	symbol	LMWPc
+Protein tyrosine phosphatase	symbol	Y_phosphatase
+Protein tyrosine phosphatase	symbol	DSPc
+Protein tyrosine phosphatase	symbol	Y_phosphatase2
+Protein tyrosine phosphatase	symbol	PTPLA
+Hepcidin	symbol	Hepcidin
+Hepcidin	symbol	HAMP
+GDP-fucose protein O-fucosyltransferase 1	symbol	POFUT1
+GDP-fucose protein O-fucosyltransferase 2	symbol	POFUT2
+S100 protein	symbol	S_100
+Magnesium transporter	symbol	MgtE
+Disintegrin	symbol	Disintegrin
+Oligosaccharyltransferase	symbol	STT3
+Argininosuccinate synthase	symbol	Argininosuccinate synthetase 1
+Argininosuccinate synthase	symbol	Arginosuc_synth
+Argininosuccinate lyase	symbol	ASL
+Heme oxygenase	symbol	Heme_oxygenase
+Holocarboxylase synthetase	symbol	HLCS
+Collagen, type XI, alpha 2	symbol	COL11A2
+Glycogen branching enzyme	symbol	GBE1
+IKBKAP	symbol	IKBKAP
+Yersinia pseudotuberculosis	symbol	YpM
+Cysteine protease	symbol	Peptidase_C1
+Xenin	symbol	COPA
+Sclerostin	symbol	Sclerostin
+Phosphoinositide 3-kinase	symbol	PIK3
+Enolase	symbol	Enolase_N
+Enolase	symbol	Enolase
+Poneratoxin	symbol	N/A
+MuSK protein	symbol	MUSK
+Biliverdin reductase	symbol	BLVRA
+Biliverdin reductase	symbol	BLVRB
+Biliverdin reductase	symbol	Biliv-reduc_cat
+Methylmalonyl-CoA mutase deficiency	symbol	Methylmalonyl-CoA mutase
+Gonadotropin-releasing hormone receptor	symbol	GNRHR
+Gonadotropin-releasing hormone receptor	symbol	GNRHR2
+IIIa	symbol	ITGA2B
+IIIa	symbol	ITGB3
+Photosynthetic reaction centre	symbol	Photo_RC
+Shaker gene	symbol	KCNA3
+Human serum albumin	symbol	Serum albumin
+Krüppel associated box	symbol	KRAB
+Nociceptin	symbol	PNOC
+Fatty acid desaturase	symbol	Fatty_acid_desaturase-1
+Fatty acid desaturase	symbol	Fatty_acid_desaturase-2
+Histidine decarboxylase	symbol	HDC
+Fucosyltransferase	symbol	Glyco_transf_10
+Dynamin	symbol	Dynamin_N
+Dynamin	symbol	Dynamin_M
+Fibroblast growth factor	symbol	FGF
+Penicillin binding proteins	symbol	PCN-bd_Tpept
+Penicillin binding proteins	symbol	PBP_dimer
+Carotenoid oxygenase	symbol	RPE65
+Prolactin receptor	symbol	PRLR
+Human placental lactogen	symbol	CSH1
+Human placental lactogen	symbol	CSH2
+4-Hydroxyphenylpyruvate dioxygenase	symbol	HPPD
+V-ATPase	symbol	ATP-synt_C
+V-ATPase	symbol	V-ATPase_C
+V-ATPase	symbol	V_ATPase_I
+V-ATPase	symbol	vATP-synt_E
+V-ATPase	symbol	vATP-synt_AC39
+V-ATPase	symbol	V-ATPase_H_N
+V-ATPase	symbol	V-ATPase_G
+Pleckstrin homology domain	symbol	PH
+Glyceraldehyde 3-phosphate dehydrogenase	symbol	Gp_dh_N
+Glyceraldehyde 3-phosphate dehydrogenase	symbol	Gp_dh_C
+Rubredoxin	symbol	Rubredoxin
+Cytochrome b5	symbol	CYB5A
+Cytochrome b5	symbol	Cyt_B5
+Cytochrome b	symbol	Cytochrom_B_N
+Cohesin	symbol	MCD1
+Cohesin	symbol	1.0
+Cohesin	symbol	SMC1
+Cohesin	symbol	SMC3
+Telokin	symbol	MYLK
+SNF	symbol	SWIB
+Pancreatic polypeptide	symbol	PPY
+Calbindin	symbol	CALB1
+Calbindin	symbol	CALB2
+Methane monooxygenase	symbol	pMMO
+Sirtuin	symbol	SIR2
+Vitellogenin	symbol	Vitellogenin_N
+RAB27	symbol	RAB27A
+RAB27	symbol	RAB27B
+Phospholipid scramblase	symbol	Scramblase
+Phospholipid scramblase	symbol	PLSCR1
+Phospholipid scramblase	symbol	PLSCR2
+Phospholipid scramblase	symbol	PLSCR3
+Phospholipid scramblase	symbol	PLSCR4
+Phospholipid scramblase	symbol	PLSCR5
+Fetuin	symbol	Α2-HS-glycoprotein
+Fetuin	symbol	Fetuin-B
+Sphingosine kinase	symbol	Sphingosine kinase 1
+Sphingosine kinase	symbol	SPHK2
+Major sperm protein	symbol	Major Sperm Protein, MSP
+Gp41	symbol	GP41
+ADP ribosylation factor	symbol	Arf
+Myotoxin	symbol	Myotoxins
+Myosin light-chain kinase	symbol	MYLK
+Myosin light-chain kinase	symbol	MYLK2
+Myosin light-chain kinase	symbol	MYLK3
+Myosin light-chain kinase	symbol	MYLK4
+Claudin	symbol	PMP22_Claudin
+Porphobilinogen synthase	symbol	ALAD
+Porphobilinogen synthase	symbol	ALAD
+Apolipoprotein C2	symbol	Apo-CII
+CARD domain	symbol	CARD
+CD72	symbol	CD72
+Sterol regulatory element-binding protein	symbol	SREBF1
+Sterol regulatory element-binding protein	symbol	SREBF2
+KAL1 gene	symbol	KAL1
+Bromodomain	symbol	Bromodomain
+Hydrogen potassium ATPase	symbol	ATP4A
+Hydrogen potassium ATPase	symbol	ATP4B
+Albumin	symbol	Serum_albumin
+Gelsolin	symbol	Gelsolin
+P300-CBP coactivator family	symbol	EP300
+P300-CBP coactivator family	symbol	CREB-binding protein
+Ku	symbol	Ku80
+Ku	symbol	Ku70
+Ku	symbol	Ku_N
+Ku	symbol	Ku
+Ku	symbol	Ku_C
+Ku	symbol	Ku_PK_bind
+Vasopressin receptor	symbol	AVPR1A
+Vasopressin receptor	symbol	Arginine vasopressin receptor 1B
+Vasopressin receptor	symbol	Arginine vasopressin receptor 2
+N-Acetylglutamate synthase	symbol	NAGS
+Inositol monophosphatase	symbol	Inositol monophosphatase 1
+Inositol monophosphatase	symbol	Inositol monophosphatase 2
+Inositol monophosphatase	symbol	Inositol monophosphatase 3
+PDZ domain	symbol	PDZ
+Sarcoglycan	symbol	Sarcoglycan_1
+Sarcoglycan	symbol	Sarcoglycan_2
+Frzb	symbol	FRZB
+Ribonuclease inhibitor	symbol	LRR_1
+Beta-propeller	symbol	WD40
+Immunoglobulin domain	symbol	ig
+Ribonuclease III	symbol	RNase_III
+Perilipin	symbol	Perilipin
+FCER1	symbol	FCER1A
+FCER1	symbol	MS4A2
+FCER1	symbol	FCER1G
+Systemin	symbol	Prosystemin
+Steroidogenic acute regulatory protein	symbol	StAR
+Low-density lipoprotein receptor gene family	symbol	Ldl_recept_a
+Low-density lipoprotein receptor gene family	symbol	Ldl_recept_b
+Agrin	symbol	NtA
+Carbamoyl phosphate synthetase I	symbol	CPS1
+Ionotropic glutamate receptor	symbol	Lig_chan
+Diphtheria toxin	symbol	Diphtheria_C
+Diphtheria toxin	symbol	Diphtheria_T
+Diphtheria toxin	symbol	Diphtheria_R
+Cyclic nucleotide phosphodiesterase	symbol	PDEase_I
+Phospholipase D	symbol	PLDc
+Phospholipase D	symbol	PLD1
+Phospholipase D	symbol	PLD2
+Agouti signalling peptide	symbol	ASIP
+Guanylin	symbol	GUCA2A
+Guanylin	symbol	Guanylin
+Thyroid hormone receptor	symbol	Thyroid hormone receptor alpha
+Thyroid hormone receptor	symbol	Thyroid hormone receptor beta
+Interferon regulatory factors	symbol	IRF
+Nitrate reductase	symbol	Molybdopterin
+Nitrate reductase	symbol	Fer4_11
+Nitrate reductase	symbol	Nitrate_red_gam
+Nitrate reductase	symbol	Nitrate_red_del
+Nitrate reductase	symbol	NapB
+Nitrate reductase	symbol	NapE
+Inositol oxygenase	symbol	MIOX
+PELP-1	symbol	PELP1
+Protein A	symbol	SpA
+Macrophage inflammatory protein	symbol	CCL3
+Macrophage inflammatory protein	symbol	CCL4
+Cathepsin C	symbol	CathepsinC_exc
+Deoxyribonuclease II	symbol	DNASE2
+Deoxyribonuclease II	symbol	DNASE2B
+Collagenase	symbol	MMP1
+Collagenase	symbol	MMP8
+Collagenase	symbol	Peptidase M9
+Glycophorin	symbol	Glycophorin_A
+Diacylglycerol kinase	symbol	DAGK_prokar
+Diacylglycerol kinase	symbol	DAGK_cat
+Diacylglycerol kinase	symbol	DAGK_acc
+Kell antigen system	symbol	KEL
+Ankyrin	symbol	ANK1
+Ankyrin	symbol	Ank
+Ankyrin	symbol	ANK2
+Ankyrin	symbol	ANK3
+XK	symbol	XK
+Beta-glucosidase	symbol	GBA3
+Phosphoenolpyruvate carboxylase	symbol	PEPcase
+Phosphoenolpyruvate carboxykinase	symbol	PEPCK
+Phosphoenolpyruvate carboxykinase	symbol	PCK1
+Phosphoenolpyruvate carboxykinase	symbol	PCK2
+Cyclin A	symbol	CCNA1
+Cyclin A	symbol	CCNA2
+Cyclin E	symbol	CCNE1
+Cyclin E	symbol	CCNE2
+Cyclin B	symbol	Cyclin B1
+Cyclin B	symbol	Cyclin B2
+Cyclin B	symbol	CCNB3
+Arrestin	symbol	SAG
+Arrestin	symbol	Arrestin beta 1
+Arrestin	symbol	Arrestin beta 2
+Arrestin	symbol	ARR3
+Arrestin	symbol	Arrestin_N
+Arrestin	symbol	Arrestin_C
+Receptor tyrosine kinase	symbol	Pkinase_Tyr
+Ephrin receptor	symbol	Ephrin_lbd
+Immunoglobulin superfamily	symbol	IgSF
+Apolipoprotein C1	symbol	ApoC-I
+Calcitonin gene-related peptide	symbol	Calcitonin
+Calcitonin gene-related peptide	symbol	CALCB
+Neuropeptide Y receptor	symbol	NPY1R
+Neuropeptide Y receptor	symbol	NPY2R
+Neuropeptide Y receptor	symbol	PPYR1
+Neuropeptide Y receptor	symbol	NPY5R
+Lipotropin	symbol	POMC
+Oxaloacetate decarboxylase	symbol	OAD_beta
+Oxaloacetate decarboxylase	symbol	OAD_gamma
+Phosphoglycerate kinase	symbol	PGK
+Phosphoglycerate kinase	symbol	1.0
+Phosphoglycerate kinase	symbol	2.0
+Bisphosphoglycerate mutase	symbol	BPGM
+Phosphoglycerate mutase	symbol	PGAM
+Phosphoglycerate mutase	symbol	PGAM1
+Phosphoglycerate mutase	symbol	PGAM2
+Chordin	symbol	CHRD
+Coproporphyrinogen III oxidase	symbol	Coprogen_oxidas
+Uroporphyrinogen III synthase	symbol	UROS
+Uroporphyrinogen III synthase	symbol	HEM4
+Ferrochelatase	symbol	Ferrochelatase
+Casein kinase 1	symbol	CSNK1A1
+Casein kinase 1	symbol	CSNK1G1
+Casein kinase 1	symbol	CSNK1G2
+Casein kinase 1	symbol	CSNK1G3
+Casein kinase 1	symbol	CSNK1D
+Casein kinase 1	symbol	CSNK1E
+Casein kinase 2	symbol	CSNK2A1
+Casein kinase 2	symbol	CSNK2A2
+Casein kinase 2	symbol	CSNK2B
+Flamingo	symbol	CELSR1
+Flamingo	symbol	CELSR2
+Flamingo	symbol	CELSR3
+Prickle	symbol	PRICKLE1
+Prickle	symbol	PRICKLE2
+Lefty	symbol	LEFTY1
+Lefty	symbol	LEFTY2
+Strabismus	symbol	VANGL1
+Strabismus	symbol	VANGL2
+Angiopoietin	symbol	ANGPT1
+Angiopoietin	symbol	ANGPT2
+Ankyrin repeat	symbol	Ank
+Neurotensin	symbol	Pro-NT_NN
+Endothelin receptor	symbol	EDNRA
+Endothelin receptor	symbol	EDNRB
+Galanin	symbol	Galanin
+Galanin	symbol	GMAP
+Bradykinin receptor	symbol	BDKRB1
+Bradykinin receptor	symbol	BDKRB2
+P2X purinoreceptor	symbol	P2X_receptor
+Epithelial sodium channel	symbol	ASC
+Alpha-Mannosidase	symbol	MAN2B1
+Alpha-Mannosidase	symbol	MAN2B2
+Alpha-Mannosidase	symbol	MAN2C1
+Retinoic acid receptor	symbol	RARA
+Retinoic acid receptor	symbol	RARB
+Retinoic acid receptor	symbol	RARG
+Retinoid X receptor	symbol	RXRA
+Retinoid X receptor	symbol	RXRB
+Retinoid X receptor	symbol	Retinoid X receptor gamma
+Liver X receptor	symbol	NR1H3
+Liver X receptor	symbol	NR1H2
+Hexosaminidase	symbol	HEXA
+Hexosaminidase	symbol	HEXB
+Hexosaminidase	symbol	MGEA5
+Hexosaminidase	symbol	HEXDC
+Somatostatin receptor	symbol	SSTR1
+Somatostatin receptor	symbol	SSTR2
+Somatostatin receptor	symbol	SSTR3
+Somatostatin receptor	symbol	SSTR4
+Somatostatin receptor	symbol	SSTR5
+Parathyroid hormone receptor	symbol	PTH1R
+Parathyroid hormone receptor	symbol	PTH2R
+Platelet-derived growth factor receptor	symbol	PDGFRA
+Platelet-derived growth factor receptor	symbol	PDGFRB
+Vasoactive intestinal peptide receptor	symbol	VIPR1
+Vasoactive intestinal peptide receptor	symbol	VIPR2
+Vasoactive intestinal peptide receptor	symbol	ADCYAP1R1
+Tachykinin receptor	symbol	TACR1
+Tachykinin receptor	symbol	TACR2
+Tachykinin receptor	symbol	TACR3
+Archain	symbol	ARCN1
+Activin type 2 receptors	symbol	ACVR2A
+Activin type 2 receptors	symbol	ACVR2B
+Tetraspanin	symbol	Tetraspanin
+Ribosome Recycling Factor	symbol	MRRF
+Sterolin	symbol	ABCG5
+Sterolin	symbol	ABCG8
+Cystatin	symbol	Prot_inh_cystat
+Carnitine O-palmitoyltransferase	symbol	Carn_acyltransf
+CD98	symbol	SLC3A2
+CD98	symbol	SLC7A5
+Transcobalamin	symbol	TCN1
+Transcobalamin	symbol	TCN2
+Sodium-glucose transport proteins	symbol	SLC5A1
+Sodium-glucose transport proteins	symbol	SLC5A2
+Sodium-glucose transport proteins	symbol	SLC5A4
+Complement component 7	symbol	7.0
+Complement component 9	symbol	9.0
+Complement component 1R	symbol	C1R
+Complement component 1s	symbol	C1S
+Factor D	symbol	CFD
+C4b-binding protein	symbol	C4BPA
+C4b-binding protein	symbol	C4BPB
+Asialoglycoprotein receptor	symbol	ASGR1
+Asialoglycoprotein receptor	symbol	ASGR2
+Na-K-Cl cotransporter	symbol	SLC12A1
+Na-K-Cl cotransporter	symbol	SLC12A2
+Neurturin	symbol	NRTN
+Armadillo repeat	symbol	Arm
+IL-2 receptor	symbol	IL2RA
+IL-2 receptor	symbol	IL2RB
+IL-2 receptor	symbol	IL2RG
+Aminopeptidase	symbol	Peptidase_M1
+Lysyl hydroxylase	symbol	PLOD1
+Lysyl hydroxylase	symbol	PLOD2
+Iduronidase	symbol	IDUA
+Sulfatase	symbol	Sulfatase
+Aryl hydrocarbon receptor repressor	symbol	AHRR
+Dihydropyrimidine dehydrogenase	symbol	DPYD
+Nuclear receptor	symbol	zf-C4
+Nuclear receptor	symbol	Hormone_recep
+Delta atracotoxin	symbol	Atracotoxin
+Enterobacteria phage P22	symbol	P22_Tail-4
+Ataxin 7	symbol	ATXN7
+Malonyl-CoA decarboxylase	symbol	MLYCD
+Vitamin K epoxide reductase	symbol	VKOR
+Vitamin K epoxide reductase	symbol	VKORC1
+Interleukin-3 receptor	symbol	IL3RA
+Interleukin-3 receptor	symbol	IL3RA
+Villin	symbol	VIL1
+Villin	symbol	VIL2
+Interleukin-1 receptor	symbol	Interleukin 1 receptor, type I
+Interleukin-1 receptor	symbol	Interleukin 1 receptor, type II
+Interleukin-1 receptor	symbol	IL1RAP
+TNF receptor superfamily	symbol	TNFR_c6
+Sialyltransferase	symbol	Glyco_transf_29
+Barnase	symbol	Barnase
+Barstar	symbol	Barstar
+Thioredoxin fold	symbol	Thioredoxin
+Estrogen-related receptor	symbol	Estrogen-related receptor alpha
+Estrogen-related receptor	symbol	Estrogen-related receptor beta
+Estrogen-related receptor	symbol	Estrogen-related receptor gamma
+Anthrax toxin	symbol	Anthrax-tox_M
+Anthrax toxin	symbol	ATLF
+Anthrax toxin	symbol	Anthrax_toxA
+Prolyl isomerase	symbol	PPIase_PpiC
+Signal peptide peptidase	symbol	Peptidase_A22B
+Signal peptide peptidase	symbol	Peptidase_A24
+Geranylgeranyltransferase type 1	symbol	FNTA
+Geranylgeranyltransferase type 1	symbol	PGGT1B
+Rab geranylgeranyltransferase	symbol	RABGGTA
+Rab geranylgeranyltransferase	symbol	RABGGTB
+Ribosomal protein	symbol	L31
+Subtilisin	symbol	apr
+DNA clamp	symbol	DNA_polIII_beta
+DNA clamp	symbol	DNA_pol3_beta
+DNA clamp	symbol	DNA_pol3_beta_2
+DNA clamp	symbol	DNA_pol3_beta_3
+DNA clamp	symbol	Proliferating cell nuclear antigen
+DNA clamp	symbol	PCNA_N
+DNA clamp	symbol	PCNA_C
+DNA clamp	symbol	DNA_pol_proc_fac
+DNA clamp	symbol	Gp45_slide_clamp_C
+D-amino acid oxidase	symbol	DAO
+Pilin	symbol	Pilin
+Tubby protein	symbol	Tub
+EF hand	symbol	efhand
+Leucine-rich repeat	symbol	LRR_1
+Leucine-rich repeat	symbol	LRV
+Leucine-rich repeat	symbol	LRR_adjacent
+Leucine-rich repeat	symbol	LRRNT
+Leucine-rich repeat	symbol	LRRNT_2
+Leucine-rich repeat	symbol	LRRCT
+Leucine-rich repeat	symbol	LRV_FeS
+Pentraxins	symbol	Pentaxin
+Duodenal cytochrome B	symbol	CYBRD1
+CD3	symbol	CD3D
+CD3	symbol	CD3E
+CD3	symbol	CD3G
+Monoacylglycerol lipase	symbol	MGLL
+Diacylglycerol lipase	symbol	DAGLA
+Diacylglycerol lipase	symbol	DAGLB
+Arylsulfatase B	symbol	ARSB
+Emopamil binding protein	symbol	EBP
+Glyceronephosphate O-acyltransferase	symbol	GNPAT
+Alkylglycerone phosphate synthase	symbol	AGPS
+FokI	symbol	Endonuc-FokI_C
+P14arf	symbol	CDKN2A
+3beta-Hydroxysteroid dehydrogenase	symbol	HSD3B1
+3beta-Hydroxysteroid dehydrogenase	symbol	HSD3B2
+Extracellular signal–regulated kinases	symbol	MAPK1
+Extracellular signal–regulated kinases	symbol	MAPK3
+DUF1220	symbol	DUF1220
+Azoospermia factor	symbol	AZF1
+BAR domain	symbol	BAR
+ANTH domain	symbol	ANTH
+ENTH domain	symbol	ENTH
+Neuroglobin	symbol	NGB
+Voltage-gated potassium channel	symbol	Ion_trans
+Voltage-gated potassium channel	symbol	Ion_trans_2
+Voltage-gated potassium channel	symbol	ISK_Channel
+Voltage-gated potassium channel	symbol	KCNQ_channel
+Voltage-gated potassium channel	symbol	Kv2channel
+Cation channels of sperm	symbol	CATSPER1
+Cation channels of sperm	symbol	CATSPER2
+Cation channels of sperm	symbol	CATSPER3
+Cation channels of sperm	symbol	CATSPER4
+Two-pore channel	symbol	TPCN1
+Two-pore channel	symbol	TPCN2
+Transporter associated with antigen processing	symbol	TAP1
+Transporter associated with antigen processing	symbol	TAP2
+ER oxidoreductin	symbol	ERO1
+Recombination-activating gene	symbol	RAG1
+Recombination-activating gene	symbol	RAG2
+Recombination-activating gene	symbol	RAG
+FKBP	symbol	FKBP_C
+Signal recognition particle receptor	symbol	SRX
+Surfactin	symbol	N/A
+Calsequestrin	symbol	CASQ1
+Calsequestrin	symbol	CASQ2
+Calsequestrin	symbol	Calsequestrin
+Corticotropin-like intermediate peptide	symbol	POMC
+Sodium-calcium exchanger	symbol	SLC8A1
+Sodium-calcium exchanger	symbol	SLC8A2
+Sodium-calcium exchanger	symbol	SLC8A3
+calmodulin-dependent protein kinase II	symbol	CaMKII_AD
+Fel d 1	symbol	CH2
+Fel d 1	symbol	Feld-I_B
+Lymphotoxin	symbol	Lymphotoxin alpha
+Lymphotoxin	symbol	LTB
+Argonaute	symbol	Piwi
+Argonaute	symbol	Paz
+Chimerin 1	symbol	CHN1
+Glia maturation factor	symbol	GMFB
+Glia maturation factor	symbol	GMFG
+Apoptosis-inducing factor	symbol	AIFM1
+Neurocalcin	symbol	NCALD
+Son of Sevenless	symbol	1.0
+Son of Sevenless	symbol	2.0
+Recoverin	symbol	RCVRN
+Myelin-associated glycoprotein	symbol	MAG
+Neuropilin	symbol	Neuropilin 1
+Neuropilin	symbol	NRP2
+permeability-increasing protein	symbol	BPI
+Delta sleep-inducing peptide	symbol	DSIP
+Olfactory marker protein	symbol	OMP
+Olfactory marker protein	symbol	Olfactory_mark
+C-Jun N-terminal kinases	symbol	MAPK8
+C-Jun N-terminal kinases	symbol	MAPK9
+C-Jun N-terminal kinases	symbol	MAPK10
+P38 mitogen-activated protein kinases	symbol	MAPK11
+P38 mitogen-activated protein kinases	symbol	MAPK12
+P38 mitogen-activated protein kinases	symbol	MAPK13
+P38 mitogen-activated protein kinases	symbol	MAPK14
+Electroneutral cation-Cl	symbol	KCl_Cotrans_1
+ATP-sensitive potassium channel	symbol	KCNJ8
+ATP-sensitive potassium channel	symbol	Kir6.2
+ATP-sensitive potassium channel	symbol	ABCC8
+ATP-sensitive potassium channel	symbol	ABCC9
+Phospholipase B	symbol	PLB1
+Calponin	symbol	CH
+Calponin	symbol	CNN1
+Calponin	symbol	CNN2
+Calponin	symbol	CNN3
+Orosomucoid	symbol	ORM1
+Orosomucoid	symbol	ORM2
+Innexin	symbol	Innexin
+Pannexin	symbol	PANX1
+Pannexin	symbol	PANX2
+Pannexin	symbol	PANX3
+Origin recognition complex	symbol	ORC2
+Origin recognition complex	symbol	ORC3_N
+Origin recognition complex	symbol	ORC6
+Colicin	symbol	Colicin
+Destrin	symbol	DSTN
+HindIII	symbol	RE_Hindiii
+HindIII	symbol	hindIIIR
+CCL28	symbol	CCL28
+Hydrophobin	symbol	Hydrophobin
+Hydrophobin	symbol	Hydrophobin_2
+Rhodanese	symbol	Rhodanese
+MCEF	symbol	AFF4
+RNA-dependent RNA polymerase	symbol	RdRP_1
+RNA-dependent RNA polymerase	symbol	RNA_pol_flaviviral
+SK channel	symbol	SK_channel
+P16	symbol	P19Arf_N
+Presenilin	symbol	Presenilin
+Presenilin	symbol	PSEN1
+Presenilin	symbol	PSEN2
+Aspartic protease	symbol	Asp
+Aspartic protease	symbol	A1_Propeptide
+Synuclein	symbol	Synuclein
+Interleukin 28	symbol	IL28A
+Interleukin 28	symbol	IL28B
+Interleukin 27	symbol	IL27
+Interleukin 27	symbol	EBI3
+BH3 interacting-domain death agonist	symbol	BID
+Phosphodiesterase 3	symbol	PDE3A
+Phosphodiesterase 3	symbol	PDE3B
+Hefutoxin	symbol	Toxin_25
+Interleukin 17	symbol	IL17A
+Interleukin 17	symbol	IL17B
+Interleukin 17	symbol	IL17C
+Interleukin 17	symbol	IL17D
+Interleukin 17	symbol	IL17E
+Interleukin 17	symbol	IL17F
+Margatoxin	symbol	Toxin_2
+Agitoxin	symbol	Toxin_2
+Twin-arginine translocation pathway	symbol	TatC
+Twin-arginine translocation pathway	symbol	MttA_Hcf106
+Fumarate reductase	symbol	Fum_red_TM
+Fumarate reductase	symbol	Fumarate_red_C
+Fumarate reductase	symbol	Fumarate_red_D
+Lipocalin	symbol	Lipocalin
+Lipocalin	symbol	Lipocalin_2
+KASH domains	symbol	KASH
+Indoleamine 2,3-dioxygenase	symbol	IDO
+SUN domain	symbol	Sad1_UNC
+Hormone-sensitive lipase	symbol	HSL_N
+Tryptophan hydroxylase	symbol	TPH1
+Tryptophan hydroxylase	symbol	TPH2
+Serum amyloid A	symbol	SAA1
+Serum amyloid A	symbol	SAA2
+Serum amyloid A	symbol	SAA3P
+Serum amyloid A	symbol	SAA4
+Ubiquitin-conjugating enzyme	symbol	UBQ-conjugat_E2
+Melatonin receptor	symbol	MTNR1A
+Melatonin receptor	symbol	MTNR1B
+CCL1	symbol	CCL1
+Septin	symbol	Cell_Div_GTP_bd
+Pectinesterase	symbol	Pectinesterase_cat
+Insulin-like growth factor-binding protein	symbol	IGFBP
+Clostridium perfringens alpha toxin	symbol	CPE_RS00500
+Enoyl-CoA hydratase	symbol	EHHADH
+Large-conductance mechanosensitive channel	symbol	MscL
+FYVE domain	symbol	FYVE
+ATP citrate lyase	symbol	ACLY
+C1 domain	symbol	1.0
+C2 domain	symbol	2.0
+C2 domain	symbol	PI3K_C2
+Inorganic pyrophosphatase	symbol	PPA1
+Inorganic pyrophosphatase	symbol	PPA2
+Propionyl-CoA carboxylase	symbol	PCCA
+Propionyl-CoA carboxylase	symbol	PCCB
+Pyruvate dehydrogenase	symbol	Pyruvate dehydrogenase
+Pyruvate dehydrogenase	symbol	Pyruvate dehydrogenase
+Pyruvate dehydrogenase	symbol	Pyruvate dehydrogenase
+Podocin	symbol	NPHS2
+CCL13	symbol	CCL13
+CCL25	symbol	CCL25
+Complement receptor of the immunoglobulin family	symbol	VSIG4
+EcoRV	symbol	Endonuc-EcoRV
+Bcl-2-associated death promoter	symbol	Bcl-2_BAD
+Fibrocystin	symbol	PKHD1
+CCL14	symbol	CCL14
+CCL16	symbol	CCL16
+CCL15	symbol	CCL15
+C1Q complex	symbol	C1QA
+C1Q complex	symbol	C1QB
+C1Q complex	symbol	C1QC
+Glutathione synthetase	symbol	GSS
+Glutathione synthetase	symbol	GSH_synthase
+Glutathione synthetase	symbol	GSH_synth_ATP
+Glutathione synthetase	symbol	GSH-S_N
+Glutathione synthetase	symbol	GSH-S_ATP
+CCL6	symbol	CCL6
+CCL23	symbol	CCL23
+CCL24	symbol	CCL24
+CCL26	symbol	CCL26
+CCL27	symbol	CCL27
+CXCL2	symbol	CXCL2
+Heterochromatin protein 1	symbol	CBX5
+Heterochromatin protein 1	symbol	CBX1
+Heterochromatin protein 1	symbol	CBX3
+Teneurin	symbol	Ten_N
+Myophosphorylase	symbol	PYGM
+Pore-forming toxin	symbol	Leukocidin
+LSm	symbol	LSM
+CXCL14	symbol	CXCL14
+Pt-barrel	symbol	PTase_Orf2
+Methylcrotonyl-CoA carboxylase	symbol	MCCC1
+Methylcrotonyl-CoA carboxylase	symbol	MCCC2
+Type I topoisomerase	symbol	VirDNA-topo-I_N
+Cathelicidin	symbol	Cathelicidin
+LIM domain	symbol	LIM
+Scleraxis	symbol	SCXA
+Scleraxis	symbol	SCXB
+PX domain	symbol	PX
+Glycolipid transfer protein	symbol	GLTP
+Vasp homology proteins	symbol	VASP_tetra
+Procollagen peptidase	symbol	PCOLN3
+Type II collagen	symbol	COL2A1
+Type I collagen	symbol	COL1A1
+Type I collagen	symbol	COL1A2
+Dihydropteroate synthase	symbol	Pterin_bind
+CRAL-TRIO domain	symbol	CRAL_TRIO
+Sterol carrier protein	symbol	SCP2
+PHD finger	symbol	PHD
+Neurokinin A	symbol	TAC1
+Phenylethanolamine N-methyltransferase	symbol	PNMT
+Chromodomain	symbol	Chromodomain
+Piwi	symbol	Piwi
+Neurogranin	symbol	NRGN
+F-box protein	symbol	F-box
+Chalcone synthase	symbol	Chal_sti_synt_C
+Neurotensin receptor	symbol	NTSR1
+Neurotensin receptor	symbol	NTSR2
+Neurotensin receptor	symbol	SORT1
+Galanin receptor	symbol	GALR1
+Galanin receptor	symbol	GALR2
+Galanin receptor	symbol	GALR3
+Corticotropin-releasing hormone receptor	symbol	CRHR1
+Corticotropin-releasing hormone receptor	symbol	CRHR2
+TGF beta receptor	symbol	TGFBR1
+TGF beta receptor	symbol	TGFBR2
+TGF beta receptor	symbol	TGFBR3
+Parvalbumin	symbol	PVALB
+BCR	symbol	Bcr-Abl_Oligo
+Cocaine and amphetamine regulated transcript	symbol	CARTPT
+Cocaine and amphetamine regulated transcript	symbol	CART
+Rhodopsin kinase	symbol	GRK1
+Aralkylamine N-acetyltransferase	symbol	AANAT
+CAMP receptor protein	symbol	CRP
+Sucrase-isomaltase	symbol	SI
+CAD	symbol	CAD
+Dihydroorotate dehydrogenase	symbol	DHO_dh
+Dihydroorotate dehydrogenase	symbol	DHODH
+Transferrin receptor	symbol	TFRC
+Transferrin receptor	symbol	TFR2
+Atrial natriuretic peptide receptor	symbol	1.0
+Atrial natriuretic peptide receptor	symbol	2.0
+Atrial natriuretic peptide receptor	symbol	3.0
+Adenine nucleotide translocator	symbol	SLC25A4
+Adenine nucleotide translocator	symbol	SLC25A5
+Adenine nucleotide translocator	symbol	SLC25A6
+Glutaredoxin	symbol	Glutaredoxin
+Neurophysin II	symbol	AVP
+Peroxiredoxin	symbol	AhpC-TSA
+Growth hormone-binding protein	symbol	GHR
+Oct-2	symbol	POU2F2
+Laforin	symbol	EPM2A
+Sorbitol dehydrogenase	symbol	SORD
+N-Acetylglucosamine receptor	symbol	HNRPM
+Complement component 4	symbol	C4A
+Complement component 4	symbol	Complement component 4B
+Chymase	symbol	CMA1
+Channel-inducing factor 4	symbol	FXYD4
+LDL-receptor-related protein-associated protein	symbol	Alpha-2-MRAP_N
+LDL-receptor-related protein-associated protein	symbol	Alpha-2-MRAP_C
+Sialoadhesin	symbol	SIGLEC1
+Acetolactate synthase	symbol	ILVBL
+Timeless	symbol	hTIM
+TRPV	symbol	TRP
+Cellular apoptosis susceptibility protein	symbol	CSE1L
+beta receptor	symbol	IFNAR1
+beta receptor	symbol	IFNAR2
+Interferon-gamma receptor	symbol	Interferon gamma receptor 1
+Interferon-gamma receptor	symbol	Interferon gamma receptor 2
+Apolipoprotein A2	symbol	APOA2
+Apolipoprotein C3	symbol	ApoC-III
+Apolipoprotein H	symbol	Sushi_2
+Glycerol kinase	symbol	GK
+Ribonuclease T1	symbol	rntA
+Formyl peptide receptor	symbol	FPR1
+Formyl peptide receptor	symbol	FPR2
+Formyl peptide receptor	symbol	FPR3
+Q-type calcium channel	symbol	CACNA1A
+L-type calcium channel	symbol	Calcium channel, voltage-dependent
+P-type calcium channel	symbol	CACNA1A
+T-type calcium channel	symbol	CACNA1G
+T-type calcium channel	symbol	CACNA1H
+T-type calcium channel	symbol	CACNA1I
+Granin	symbol	Granin
+Granin	symbol	Chromogranin A
+Granin	symbol	Secretoneurin
+Granin	symbol	SCG2
+Granin	symbol	SCG3
+Granin	symbol	SCG5
+OX40L	symbol	TNFSF4
+CD70	symbol	CD70
+CD153	symbol	TNFSF8
+CXC chemokine receptors	symbol	IL8RA
+CXC chemokine receptors	symbol	IL8RB
+CXC chemokine receptors	symbol	CXCR3
+CXC chemokine receptors	symbol	CXCR4
+CXC chemokine receptors	symbol	BLR1
+CXC chemokine receptors	symbol	CXCR6
+CXC chemokine receptors	symbol	CMKOR1
+CC chemokine receptors	symbol	CCR1
+CC chemokine receptors	symbol	CCR2
+CC chemokine receptors	symbol	CCR3
+CC chemokine receptors	symbol	CCR4
+CC chemokine receptors	symbol	CCR5
+CC chemokine receptors	symbol	CCR6
+CC chemokine receptors	symbol	CCR7
+CC chemokine receptors	symbol	CCR8
+CC chemokine receptors	symbol	CCR9
+CC chemokine receptors	symbol	CCR10
+TGF beta receptor 2	symbol	ecTbetaR2
+Guanosine nucleotide dissociation inhibitor	symbol	GDI
+Ras-GRF1	symbol	RASGRF1
+Odorant-binding protein	symbol	PBP_GOBP
+Odorant-binding protein	symbol	OBP2A
+Odorant-binding protein	symbol	OBP2B
+STRA6	symbol	STRA6
+Synaptojanin	symbol	SYNJ1
+Synaptojanin	symbol	SYNJ2
+Low-molecular-weight kininogen	symbol	Kininogen 1
+Cyclin D	symbol	Cyclin D1
+Cyclin D	symbol	CCND2
+Cyclin D	symbol	CCND3
+Pleckstrin	symbol	PLEK
+Transcription factor II H	symbol	GTF2H1
+Transcription factor II H	symbol	GTF2H2
+Transcription factor II H	symbol	GTF2H3
+3-hydroxy-3-methylglutaryl-CoA lyase	symbol	HMGCL
+Neuromedin B	symbol	NMB
+Tumor necrosis factor superfamily	symbol	TNF
+Melanin-concentrating hormone receptor	symbol	MCHR1
+Melanin-concentrating hormone receptor	symbol	MCHR2
+LEM domain-containing protein 3	symbol	LEMD3
+Zinc metalloproteinase STE24	symbol	ZMPSTE24
+Long-chain-fatty-acid—CoA ligase	symbol	ACSL1
+XRCC1	symbol	XRCC1_N
+DNA repair protein XRCC4	symbol	XRCC4
+Thymidylate synthase	symbol	Thymidylat_synt
+Type XVIII collagen	symbol	COL18A1
+CXCL6	symbol	CXCL6
+CXCL16	symbol	CXCL16
+Cyclotide	symbol	Cyclotide
+CXCL17	symbol	CXCL17
+XCL1	symbol	XCL1
+XCL2	symbol	XCL2
+Phospholipase A1	symbol	PLA1A
+ERM transcription factor	symbol	ETV5
+APH-1	symbol	APH1A
+APH-1	symbol	APH1B
+PEN-2	symbol	PSENEN
+Frizzled	symbol	Frizzled
+Aldehyde oxidase	symbol	Aldehyde oxidase 1
+Intimin	symbol	Intimin_C
+Lactoferricin	symbol	N/A
+FXYD6	symbol	FXYD6
+Transforming growth factor beta superfamily	symbol	TGF_beta
+2-hydroxyphytanoyl-CoA lyase	symbol	HACL1
+ALMS1	symbol	ALMS1
+STAT5	symbol	STAT5A
+STAT5	symbol	STAT5B
+Mannose receptor	symbol	MRC1
+Mannose receptor	symbol	MRC2
+Oleosin	symbol	Oleosin
+Sulfonylurea receptor	symbol	ABCC8
+Sulfonylurea receptor	symbol	ABCC9
+Fascin	symbol	FSCN1
+Fascin	symbol	FSCN2
+Fascin	symbol	FSCN3
+GLYCAM1	symbol	GLYCAM1
+CD79	symbol	CD79A
+CD79	symbol	CD79B
+CD68	symbol	CD68
+PHLPP	symbol	PHLPP
+PHLPP	symbol	PHLPPL
+Glutaminase	symbol	Glutaminase
+Glutaminase	symbol	GLS1
+Glutaminase	symbol	GLS2
+Oxoguanine glycosylase	symbol	OGG_N
+Lysosomal lipase	symbol	LIPA
+VEGF receptor	symbol	FLT1
+VEGF receptor	symbol	Kinase insert domain receptor
+VEGF receptor	symbol	FLT4
+Persephin	symbol	PSPN
+Angiopoietin receptor	symbol	TIE1
+Angiopoietin receptor	symbol	TEK tyrosine kinase
+BamHI	symbol	BamH I
+Lysosomal trafficking regulator	symbol	LYST
+Phosphogluconate dehydrogenase	symbol	6
+Phosphogluconate dehydrogenase	symbol	PGD
+Transaldolase	symbol	Transaldolase
+Transaldolase	symbol	TALDO1
+Transaldolase	symbol	talB
+Homing endonuclease	symbol	LAGLIDADG_1
+Homing endonuclease	symbol	LAGLIDADG_2
+Homing endonuclease	symbol	Hom_end
+Homing endonuclease	symbol	Hom_end_hint
+C8 complex	symbol	C8A
+C8 complex	symbol	C8B
+C8 complex	symbol	C8G
+Talin protein	symbol	Talin_middle
+Talin protein	symbol	TLN1
+Talin protein	symbol	TLN2
+Talin protein	symbol	VBS
+UTP—glucose-1-phosphate uridylyltransferase	symbol	UGP1
+UTP—glucose-1-phosphate uridylyltransferase	symbol	UGP2
+Phosphopentose epimerase	symbol	Ribul_P_3_epim
+6-phosphogluconolactonase	symbol	PGLS
+μR	symbol	FCAMR, CD351
+CD16	symbol	FCGR3A
+CD16	symbol	FCGR3B
+Neonatal Fc receptor	symbol	FCGRT
+CD64	symbol	FCGR1A
+CD64	symbol	FCGR1B
+CD64	symbol	FCGR1C
+Nitrile hydratase	symbol	NHase_alpha
+Nitrile hydratase	symbol	NHase_beta
+Peroxin-7	symbol	PEX7
+ITCH	symbol	ITCH
+Phosphofructokinase	symbol	Ppfruckinase
+KLRA1	symbol	KLRAP1
+NKG2	symbol	KLRC1
+4-1BB ligand	symbol	TNFSF9
+Myelin protein zero	symbol	Myelin-PO_C
+Biotinidase	symbol	BTD
+Ribosomal protein s6	symbol	RPS6
+STARD3	symbol	STARD3
+CD58	symbol	CD58
+Delta catenin	symbol	CTNND1
+Delta catenin	symbol	CTNND2
+Alpha catenin	symbol	CTNNA1
+Alpha catenin	symbol	CTNNA2
+Alpha catenin	symbol	CTNNA3
+Doublecortin	symbol	DCX
+L-isoaspartyl methyltransferase	symbol	PCMT
+Mitochondrial carrier	symbol	Mito_carr
+Potassium-dependent sodium-calcium exchanger	symbol	SLC24A1
+Potassium-dependent sodium-calcium exchanger	symbol	SLC24A2
+Potassium-dependent sodium-calcium exchanger	symbol	SLC24A3
+Potassium-dependent sodium-calcium exchanger	symbol	SLC24A4
+Potassium-dependent sodium-calcium exchanger	symbol	SLC24A5
+Potassium-dependent sodium-calcium exchanger	symbol	SLC24A6
+Growth factor-like domain	symbol	APP_CU_bd
+Beta-ketoacyl-ACP synthase	symbol	OXSM
+Beta-ketoacyl-ACP synthase	symbol	ketoacyl-synt
+Beta-ketoacyl-ACP synthase	symbol	Ketoacyl-synt_C
+3-Hydroxyacyl ACP dehydrase	symbol	EHHADH
+2,4 Dienoyl-CoA reductase	symbol	DECR1
+Farnesyl-diphosphate farnesyltransferase	symbol	FDFT1
+Lanosterol 14 alpha-demethylase	symbol	CYP51A1
+Syndecan	symbol	Syndecan
+Protein L	symbol	PpL
+Thiolase	symbol	Thiolase_N
+Thiolase	symbol	Thiolase_C
+Isopentenyl-diphosphate delta isomerase	symbol	IDI1
+Phosphomevalonate kinase	symbol	PMVK
+Pyrophosphomevalonate decarboxylase	symbol	MVD
+Fructose-bisphosphate aldolase	symbol	Glycolytic
+Fructose-bisphosphate aldolase	symbol	F_bP_aldolase
+L-xylulose reductase	symbol	DCXR
+WS2B	symbol	WS2B
+Homogentisate 1,2-dioxygenase	symbol	HGD
+Ornithine translocase	symbol	SLC25A15
+Carnitine-acylcarnitine translocase	symbol	SLC25A20
+Glycerol-3-phosphate dehydrogenase	symbol	NAD_Gly3P_dh_N
+Glycerol-3-phosphate dehydrogenase	symbol	NAD_Gly3P_dh_C
+Glycerol-3-phosphate dehydrogenase	symbol	GPD1
+Glycerol-3-phosphate dehydrogenase	symbol	GPD2
+TRIF	symbol	TICAM1
+Methylmalonyl CoA epimerase	symbol	MCEE
+Mannose 6-phosphate receptor	symbol	CIMR
+Mannose 6-phosphate receptor	symbol	Cation-dependent mannose-6-phosphate receptor
+Mannose 6-phosphate receptor	symbol	Insulin-like growth factor 2 receptor
+HSP60	symbol	Cpn60_TCP1
+Chlorophyllase	symbol	Chlorophyllase
+Caspase 4	symbol	CASP4
+Prostaglandin E synthase	symbol	PTGES
+Prostaglandin E synthase	symbol	PTGES2
+Prostaglandin E synthase	symbol	PTGES3
+Caspase 5	symbol	CASP5
+Acyltransferase like 2	symbol	AYTL2
+Alpha-N-acetylglucosaminidase	symbol	NAGLU
+Hepatic fructokinase	symbol	KHK
+Alpha-amylase	symbol	Alpha-amylase
+Alpha-amylase	symbol	Alpha-amyl_C2
+Alpha-amylase	symbol	Alpha-amylase_C
+Dimethylallyltranstransferase	symbol	FDPS
+Caspase 12	symbol	CASP12
+Alternative oxidase	symbol	AOX
+4-Oxalocrotonate tautomerase	symbol	Taut
+Receptor activity-modifying protein	symbol	RAMP1
+Receptor activity-modifying protein	symbol	RAMP2
+Receptor activity-modifying protein	symbol	RAMP3
+HLA-DM	symbol	HLA-DMA
+HLA-DM	symbol	HLA-DMB
+Hepatocyte nuclear factors	symbol	HNF1A
+Hepatocyte nuclear factors	symbol	HNF1B
+Hepatocyte nuclear factors	symbol	FOXA1
+Hepatocyte nuclear factors	symbol	FOXA2
+Hepatocyte nuclear factors	symbol	FOXA3
+Hepatocyte nuclear factors	symbol	Hepatocyte nuclear factor 4 alpha
+Hepatocyte nuclear factors	symbol	Hepatocyte nuclear factor 4 gamma
+Hepatocyte nuclear factors	symbol	ONECUT1
+Hepatocyte nuclear factors	symbol	ONECUT2
+Carboxypeptidase B	symbol	CPB1
+Carboxypeptidase B	symbol	CPB2
+Urocanase	symbol	Urocanase
+Glutamyl aminopeptidase	symbol	ENPEP
+Leucyl aminopeptidase	symbol	LAP
+Carbamoyl phosphate synthase II	symbol	CAD
+Carbamoyl phosphate synthetase	symbol	CPSase_L_D2
+Carbamoyl phosphate synthetase	symbol	CPSase_L_D3
+Carbamoyl phosphate synthetase	symbol	CPSase_L_chain
+Carbamoyl phosphate synthetase	symbol	CPSase_sm_chain
+Dihydroorotase	symbol	CAD
+Glypican	symbol	Glypican
+IMP dehydrogenase	symbol	IMPDH1
+IMP dehydrogenase	symbol	IMPDH2
+GMP synthase	symbol	GMP_synt_C
+GMP reductase	symbol	GMPR
+GMP reductase	symbol	GMPR2
+Adenylosuccinate synthase	symbol	Adenylsucc_synt
+Adenylosuccinate synthase	symbol	ADSS
+Adenylosuccinate synthase	symbol	ADSSL1
+TIRAP	symbol	TIRAP
+Period	symbol	PER1
+Period	symbol	PER2
+Period	symbol	PER3
+CLEC4C	symbol	CLEC4C
+Polynucleotide phosphorylase	symbol	PNPASE
+Serine dehydratase	symbol	SDS
+Collectin liver 1	symbol	COLEC10
+Surfactant protein C	symbol	SP_C-Propep
+Surfactant protein C	symbol	Pulmonary surfactant-associated protein C
+Surfactant protein A	symbol	SFTPA1
+Surfactant protein A	symbol	SFTPA2B
+Conglutinin	symbol	COLEC8
+Conglutinin	symbol	CGN1
+Ornithine aminotransferase	symbol	OAT
+Branched chain aminotransferase	symbol	BCAT
+SLC39A4	symbol	SLC39A4
+Uracil phosphoribosyltransferase	symbol	UPRT
+Ribose-phosphate diphosphokinase	symbol	PRPS1
+Ribose-phosphate diphosphokinase	symbol	PRPS2
+Sib RNA	symbol	Ibs_toxin
+Adenosylhomocysteinase	symbol	AHCY
+Cystathionine gamma-lyase	symbol	CTH
+Adenosylmethionine decarboxylase	symbol	1.0
+Adenosylmethionine decarboxylase	symbol	AdoMet_dc
+Phosphoribosylaminoimidazole carboxylase	symbol	PAICS
+Tyrosylprotein sulfotransferase	symbol	TPST1
+Tyrosylprotein sulfotransferase	symbol	TPST2
+Iron-responsive element-binding protein	symbol	ACO1
+Iron-responsive element-binding protein	symbol	IREB2
+Riboflavin synthase	symbol	DMRL_synthase
+RAI1	symbol	RAI1
+SLC7A9	symbol	SLC7A9
+Crotonase family	symbol	ECH
+Formimidoyltransferase cyclodeaminase	symbol	FTCD
+Saccharopine dehydrogenase	symbol	Saccharop_dh
+Saccharopine dehydrogenase	symbol	SCCPDH
+Asparagine synthetase	symbol	ASNS
+Translationally controlled tumour protein	symbol	TCTP
+Translationally controlled tumour protein	symbol	FLJ27337,tpt1,HRF, p02, p23, p21
+NBR2	symbol	NBR2
+N-acetylglucosamine-1-phosphate transferase	symbol	GNPTAB
+N-acetylglucosamine-1-phosphate transferase	symbol	GNPTG
+Epididymal secretory protein E1	symbol	NPC2
+Citrin	symbol	SLC25A13
+Glutamate formimidoyltransferase	symbol	FTCD_N
+Glutamate formimidoyltransferase	symbol	FTCD
+Transcription factor II A	symbol	GTF2A1
+Transcription factor II A	symbol	GTF2A2
+Survival of motor neuron	symbol	SMN
+ESAT-6	symbol	esxA
+CD120	symbol	TNFRSF1A
+CD120	symbol	TNFRSF1B
+Fibulin	symbol	ANATO
+ETM1	symbol	ETM1
+ETM2	symbol	ETM2
+Fibrillarin	symbol	Fibrillarin
+DCMP deaminase	symbol	DCTD
+Cyclin-dependent kinase inhibitor protein	symbol	CDI
+Aminomethyltransferase	symbol	AMT
+Cardiotrophin 1	symbol	CTF1
+CSF2RB	symbol	CSF2RB
+Activin receptor	symbol	Activin_recp
+Anti-Müllerian hormone receptor	symbol	AMHR2
+Latent TGF-beta binding protein	symbol	LTBP1
+Latent TGF-beta binding protein	symbol	LTBP2
+Latent TGF-beta binding protein	symbol	LTBP3
+Latent TGF-beta binding protein	symbol	LTBP4
+Nuclear cap-binding protein complex	symbol	NCBP1
+Nuclear cap-binding protein complex	symbol	NCBP2
+Polypyrimidine tract-binding protein	symbol	PTBP1
+Polypyrimidine tract-binding protein	symbol	PTBP2
+Gremlin	symbol	GREM1
+Gremlin	symbol	GREM2
+BRN-3	symbol	POU4F1
+BRN-3	symbol	POU4F2
+BRN-3	symbol	POU4F3
+Translocated promoter region	symbol	TPR
+Gustducin	symbol	GNAT3
+Gustducin	symbol	GNB1
+Gustducin	symbol	GNG13
+Gs alpha subunit	symbol	GNAS
+Gq alpha subunit	symbol	GNAQ
+Gq alpha subunit	symbol	GNA11
+Gq alpha subunit	symbol	GNA14
+Gq alpha subunit	symbol	GNA15
+TRPA	symbol	TRPA1
+Gi alpha subunit	symbol	GNAI1
+Gi alpha subunit	symbol	GNAI2
+Gi alpha subunit	symbol	GNAI3
+Ephrin	symbol	Ephrin
+Galactosyltransferase	symbol	Galactosyl_T
+NPAS1	symbol	NPAS1
+Dermaseptin	symbol	DD_K
+G13 alpha subunits	symbol	GNA12
+G13 alpha subunits	symbol	GNA13
+Rap GTP-binding protein	symbol	RAP1A
+Rap GTP-binding protein	symbol	RAP1B
+Pancreatic ribonuclease	symbol	RNaseA
+5'-3' exoribonuclease 1	symbol	XRN1
+T-box	symbol	T-box
+ATP2A2	symbol	ATP2A2
+Macrophage migration inhibitory factor	symbol	MIF
+Leprecan	symbol	LEPRE1
+RAR-related orphan receptor	symbol	RORA
+RAR-related orphan receptor	symbol	RORB
+RAR-related orphan receptor	symbol	RORC
+Rev-ErbA	symbol	NR1D1
+Rev-ErbA	symbol	NR1D2
+Testicular receptor	symbol	NR2C1
+Testicular receptor	symbol	NR2C2
+Chicken ovalbumin upstream promoter-transcription factor	symbol	NR2F1
+Chicken ovalbumin upstream promoter-transcription factor	symbol	NR2F2
+NSD1	symbol	NSD1
+Syncoilin	symbol	SYNC1
+Sarcospan	symbol	SSPN
+SH3BP2	symbol	SH3BP2
+HPLH1	symbol	HPLH1
+Keratin 6B	symbol	KRT6B
+CARM1	symbol	CARM1
+CARM1	symbol	CARM1L
+Dystrobrevin	symbol	DTNA
+Dystrobrevin	symbol	DTNB
+sok system	symbol	HOK_GEF
+Signal recognition particle RNA	symbol	SRP RNA
+Heat shock factor	symbol	HSF_DNA-bind
+Heat shock factor	symbol	Vert_HS_TF
+Minichromosome maintenance	symbol	MCM
+Alliinase	symbol	Alliinase_C
+Alliinase	symbol	EGF_alliinase
+Neurexin	symbol	NRXN1_fam
+Neurexin	symbol	NRXN1
+Neurexin	symbol	NRXN2
+Neurexin	symbol	NRXN3
+Complexin	symbol	Synaphin
+KH domain	symbol	KH_1
+KH domain	symbol	KH_2
+GLUT8	symbol	SLC2A8
+Prenyltransferase	symbol	Prenyltrans
+Transcription factor II E	symbol	GTF2E1
+Transcription factor II E	symbol	GTF2E2
+Transcription factor II F	symbol	GTF2F1
+Transcription factor II F	symbol	GTF2F2
+Transcription factor II F	symbol	GTF2F2L
+RNase PH	symbol	RNASEPH
+RNase D	symbol	RNASED
+Nucleoporin 210kDa	symbol	NUP210
+Sp100 nuclear antigen	symbol	SP100
+BglII	symbol	Endonuc-BglII
+Activating protein 2	symbol	TFAP2A
+Activating protein 2	symbol	TFAP2B
+Activating protein 2	symbol	TFAP2C
+Activating protein 2	symbol	TFAP2D
+Activating protein 2	symbol	TFAP2E
+Kelch protein	symbol	Kelch_1
+Ornithine decarboxylase antizyme	symbol	ODC_AZ
+Whey Acidic Protein	symbol	WAP
+Formate dehydrogenase	symbol	Form-deh_trans
+DXP reductoisomerase	symbol	DXP_reductoisom
+Electron-transferring-flavoprotein dehydrogenase	symbol	ETFD
+Electron-transferring flavoprotein	symbol	ETF
+Electron-transferring flavoprotein	symbol	ETF_alpha
+P87PIKAP	symbol	p87PIKAP
+1,3-Beta-glucan synthase	symbol	Glucan_synthase
+MACPF	symbol	MACPF
+Group 1 CD1	symbol	CD1A
+Group 1 CD1	symbol	CD1B
+Group 1 CD1	symbol	CD1C
+EVC2	symbol	EVC2
+EVC	symbol	EVC
+Diglyceride acyltransferase	symbol	DGAT1
+Diglyceride acyltransferase	symbol	DGAT2
+D-amino acid oxidase activator	symbol	DAOA
+Neuromedin N	symbol	NN
+IL22RA2	symbol	IL22RA2
+EGF module-containing mucin-like hormone receptor	symbol	EMR1
+EGF module-containing mucin-like hormone receptor	symbol	EMR2
+EGF module-containing mucin-like hormone receptor	symbol	EMR3
+EGF module-containing mucin-like hormone receptor	symbol	EMR4P
+Fukutin	symbol	Fukutin-related
+Fukutin-related protein	symbol	FKRP
+Orexin receptor	symbol	HCRTR1
+Orexin receptor	symbol	HCRTR2
+Orexin receptor	symbol	Orexin_rec2
+Neuromedin U receptor	symbol	NMUR1
+Neuromedin U receptor	symbol	NMUR2
+Nucleoporin	symbol	Nucleoporin
+Voltage-dependent anion channel	symbol	Porin_3
+Prokineticin receptor	symbol	Prokineticin receptor 1
+Prokineticin receptor	symbol	Prokineticin receptor 2
+Prokineticin	symbol	PROK1
+Prokineticin	symbol	PROK2
+Free fatty acid receptor	symbol	FFAR1, FFA1R
+Free fatty acid receptor	symbol	FFAR2
+Free fatty acid receptor	symbol	FFAR3
+Free fatty acid receptor	symbol	GPR42
+SREB	symbol	GPR27
+SREB	symbol	GPR85
+SREB	symbol	GPR173
+Neuromedin U	symbol	NMU
+HMGA	symbol	HMGA1
+HMGA	symbol	HMGA2
+Apetala 2	symbol	AP2
+WDTC1	symbol	WDTC1
+CDGSH iron sulfur domain	symbol	CISD1
+CDGSH iron sulfur domain	symbol	CISD1B
+CDGSH iron sulfur domain	symbol	CISD2
+CDGSH iron sulfur domain	symbol	CISD3
+TIA1	symbol	TIA1
+ICAM4	symbol	ICAM-4
+Formins	symbol	FMN1
+Formins	symbol	FMN2
+Formins	symbol	Drf_FH1
+Formins	symbol	FH2
+Formins	symbol	Drf_FH3
+Formins	symbol	Drf_DAD
+Formins	symbol	Drf_GBD
+Retinoic acid-inducible orphan G protein-coupled receptor	symbol	GPRC5A
+Retinoic acid-inducible orphan G protein-coupled receptor	symbol	GPRC5B
+Retinoic acid-inducible orphan G protein-coupled receptor	symbol	GPRC5C
+Retinoic acid-inducible orphan G protein-coupled receptor	symbol	GPRC5D
+Relaxin receptor	symbol	RXFP1
+Relaxin receptor	symbol	RXFP2
+Relaxin receptor	symbol	RXFP3
+Relaxin receptor	symbol	RXFP4
+Curculin	symbol	CURC_CURLA
+VPS13B	symbol	VPS13B
+Voltage-gated proton channel	symbol	Hv
+Contryphan	symbol	Contryphan_CS
+Mabinlin	symbol	2
+IκB kinase	symbol	CHUK
+IκB kinase	symbol	IKBKB
+IκB kinase	symbol	IKBKG
+NPC1L1	symbol	NPC1L1
+Apamin	symbol	Apamin
+GJA1	symbol	Connexin43
+Shikimate dehydrogenase	symbol	Shikimate_dh_N
+Shikimate dehydrogenase	symbol	Shikimate_DH
+Cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase	symbol	HSD3B7
+Homoserine dehydrogenase	symbol	Homoserine_dh
+Histidinol dehydrogenase	symbol	Histidinol_dh
+3-hydroxyacyl-CoA dehydrogenase	symbol	Hydroxyacyl-Coenzyme A dehydrogenase
+DnaI	symbol	dnaI
+DnaH	symbol	dnaH
+DnaS	symbol	dut
+DnaE	symbol	DNA_pol3_alpha
+ERB1	symbol	ERB1
+MAS1 oncogene	symbol	MAS1
+MAS1 oncogene	symbol	MAS1L
+Gastric lipase	symbol	LIPF
+Endothelial lipase	symbol	LIPG
+NXF1	symbol	TAP_C
+Betaine—homocysteine S-methyltransferase	symbol	BHMT
+Betaine—homocysteine S-methyltransferase	symbol	BHMT2
+Protein-glutamate O-methyltransferase	symbol	CheR_N
+Protein-glutamate O-methyltransferase	symbol	CheR
+Protein-S-isoprenylcysteine O-methyltransferase	symbol	ICMT
+Phosphatidylinositol transfer protein	symbol	IP_trans
+NSP3	symbol	NSP3
+Phytanoyl-CoA dioxygenase	symbol	PAHX
+Neuropeptide FF receptor	symbol	NPFFR1
+Neuropeptide FF receptor	symbol	NPFFR2
+W receptor	symbol	NPBWR1
+W receptor	symbol	NPBWR2
+WT1	symbol	WT1
+Interleukin-4 receptor	symbol	IL4Ra_N
+MT-RNR1	symbol	MT-RNR1
+HSPA1B	symbol	HSPA1B
+Gla domain	symbol	Gla
+TSG101	symbol	Vps23_core
+HLA-DO	symbol	HLA-DOA
+HLA-DO	symbol	HLA-DOB
+Cholesterol oxidase	symbol	Chol_subst-bind
+APOA2	symbol	ApoA-II
+Aspartate-semialdehyde dehydrogenase	symbol	Semialdhyde_dhC
+MT-ATP8	symbol	ATP-synt_8
+MT-ATP8	symbol	YMF19
+MT-ATP8	symbol	Fun_ATP-synt_8
+5,10-Methenyltetrahydromethanopterin hydrogenase	symbol	HMD
+Amine oxidase	symbol	Cu_amine_oxid
+Amine oxidase	symbol	Cu_amine_oxidN1
+Amine oxidase	symbol	Cu_amine_oxidN2
+Amine oxidase	symbol	Cu_amine_oxidN3
+Interleukin-7 receptor	symbol	Interleukin-7 receptor-α
+Interleukin-7 receptor	symbol	IL2RG
+CDC37	symbol	CDC37_N
+CDC37	symbol	CDC37_M
+CDC37	symbol	CDC37_C
+Cytochrome c nitrite reductase	symbol	Cytochrom_NNT
+Herpes simplex virus protein vmw65	symbol	Alpha_TIF
+NRIP1	symbol	NRIP1_repr_1
+NRIP1	symbol	NRIP1_repr_2
+NRIP1	symbol	NRIP1_repr_3
+NRIP1	symbol	NRIP1_repr_4
+MT-ATP6	symbol	ATP-synt_A
+TAF7	symbol	TAFII55_N
+Cholecystokinin A receptor	symbol	CholecysA-Rec_N
+NMT2	symbol	NMT2
+Alanine racemase	symbol	Ala_racemase_N
+Alanine racemase	symbol	Ala_racemase_C
+Chalcone isomerase	symbol	Chalcone
+Diaminopimelate epimerase	symbol	DAP_epimerase
+D-lysine 5,6-aminomutase	symbol	Lys-AminoMut_A
+DTDP-4-dehydrorhamnose 3,5-epimerase	symbol	dTDP_sugar_isom
+Inositol-3-phosphate synthase	symbol	Inos-1-P_synth
+L-arabinose isomerase	symbol	Arabinose_Isome
+L-fucose isomerase	symbol	Fucose_iso_N1
+L-fucose isomerase	symbol	Fucose_iso_N2
+L-fucose isomerase	symbol	Fucose_iso_C
+Phosphoribosylanthranilate isomerase	symbol	PRAI
+Proline racemase	symbol	Pro_racemase
+UDP-galactopyranose mutase	symbol	UDP-GALP_mutase
+UDP-N-acetylglucosamine 2-epimerase	symbol	Epimerase_2
+UDP-glucose 4-epimerase	symbol	GALE
+Limonene-1,2-epoxide hydrolase	symbol	LEH
+Leukotriene-A4 hydrolase	symbol	LTA4H
+CSNK2B	symbol	CK_II_beta
+Holocytochrome-c synthase	symbol	Cyto_heme_lyase
+S-ribosylhomocysteine lyase	symbol	LuxS
+Aryl sulfotransferase	symbol	Arylsulfotransferase
+G alpha subunit	symbol	G-alpha
+Chorismate lyase	symbol	Chor_lyase
+Dihydroneopterin aldolase	symbol	FolB
+Indole-3-glycerol-phosphate synthase	symbol	IGPS
+Isocitrate lyase	symbol	ICL
+Threonine aldolase	symbol	THA1P
+Arginine—tRNA ligase	symbol	Arg_tRNA_synt_N
+Biotin carboxylase	symbol	Biotin_carb_C
+Cobalt chelatase	symbol	CobT
+D-alanine—D-alanine ligase	symbol	Dala_Dala_lig_N
+D-alanine—D-alanine ligase	symbol	Dala_Dala_lig_C
+Formate–tetrahydrofolate ligase	symbol	FTHFS
+Magnesium chelatase	symbol	Mg_chelatse_chII
+Magnesium chelatase	symbol	CobN/Mg_chltase
+Phosphoribosylaminoimidazolesuccinocarboxamide synthase	symbol	SAICAR_synt
+Phenylalanine—tRNA ligase	symbol	FDX-ACB
+Phosphoribosylamine—glycine ligase	symbol	GARS_N
+Phosphoribosylamine—glycine ligase	symbol	GARS_A
+Phosphoribosylamine—glycine ligase	symbol	GARS_C
+Membrane-bound transcription factor site-2 protease	symbol	MBTPS2
+Kexin	symbol	KEX2
+3-dehydroquinate synthase	symbol	DHQ_synthase
+3-dehydroquinate dehydratase	symbol	DHquinase_I
+3-dehydroquinate dehydratase	symbol	DHquinase_II
+Rac3	symbol	RAC3
+Chorismate synthase	symbol	Chorismate_synt
+Imidazoleglycerol-phosphate dehydratase	symbol	IGPD
+Pectate lyase	symbol	Amb_allergen
+Poly	symbol	Alginate_lyase2
+Poly	symbol	Alginate_lyase
+Acylphosphatase	symbol	Acylphosphatase
+Acylphosphatase	symbol	ACYP1
+Acylphosphatase	symbol	ACYP2
+USP26	symbol	USP26
+MT-TH	symbol	MT-TH
+MT-TL1	symbol	MT-TL1
+Brain-specific angiogenesis inhibitor	symbol	BAI1
+Brain-specific angiogenesis inhibitor	symbol	BAI2
+Brain-specific angiogenesis inhibitor	symbol	BAI3
+Hypocretin	symbol	Orexin_rec2
+GPR143	symbol	Ocular_alb
+DUTP diphosphatase	symbol	dUTPase
+DUTP diphosphatase	symbol	dUTPase_2
+Thiamine-triphosphatase	symbol	THTPA
+Aryldialkylphosphatase	symbol	PTE
+Cutinase	symbol	Cutinase
+Lysophospholipase	symbol	PLA2_B
+Dynactin	symbol	Dynactin
+Dynactin	symbol	Dynamitin
+Dynactin	symbol	Dynactin_p22
+Dynactin	symbol	Dynactin_p62
+Protein-glutamate methylesterase	symbol	CheB_methylest
+DEAD box	symbol	DEAD
+Alpha-L-fucosidase	symbol	Alpha_L_fucos
+Amidase	symbol	Amidase
+Allantoicase	symbol	Allantoicase
+Creatininase	symbol	Creatininase
+Creatinase	symbol	Creatinase_N
+Dimethylargininase	symbol	DDAH1
+Dimethylargininase	symbol	DDAH2
+IMP cyclohydrolase	symbol	IMP_cyclohyd
+N-acetylmuramoyl-L-alanine amidase	symbol	Amidase_2
+N-acetylmuramoyl-L-alanine amidase	symbol	Amidase_3
+N-acetylmuramoyl-L-alanine amidase	symbol	Amidase_5
+N-acetylmuramoyl-L-alanine amidase	symbol	Amidase02_C
+Acetyl-CoA C-acetyltransferase	symbol	ACAT1
+Acetyl-CoA C-acetyltransferase	symbol	ACAT2
+Acetyl-CoA C-myristoyltransferase	symbol	NMT_C
+Beta-ketoacyl-	symbol	ACP_syn_III
+Formylmethanofuran—tetrahydromethanopterin N-formyltransferase	symbol	FTR
+Formylmethanofuran—tetrahydromethanopterin N-formyltransferase	symbol	FTR_C
+Hydroxymethylglutaryl-CoA synthase	symbol	HMGCS1
+Hydroxymethylglutaryl-CoA synthase	symbol	HMGCS2
+Hydroxymethylglutaryl-CoA synthase	symbol	HMG_CoA_synt_N
+Hydroxymethylglutaryl-CoA synthase	symbol	HMG_CoA_synt_C
+Serine O-acetyltransferase	symbol	SATase_N
+Serine C-palmitoyltransferase	symbol	SPT1
+Serine C-palmitoyltransferase	symbol	SPTLC1
+Serine C-palmitoyltransferase	symbol	SPTLC2
+Serine C-palmitoyltransferase	symbol	SPTLC3
+Sterol O-acyltransferase	symbol	SOAT1
+Sterol O-acyltransferase	symbol	SOAT2
+4-aminobutyrate transaminase	symbol	ABAT
+Secretin receptor family	symbol	7
+ATP-binding domain of ABC transporters	symbol	ABC_tran
+Latrophilin	symbol	Latrophilin
+Latrophilin	symbol	ELTD1
+Latrophilin	symbol	LPHN1
+Latrophilin	symbol	LPHN2
+Latrophilin	symbol	LPHN3
+Huntingtin-associated protein 1	symbol	HAP1
+Rhodopsin-like receptors	symbol	7
+EGF-like domain	symbol	EGF
+EGF-like domain	symbol	EGF_2
+Photosynthetic reaction centre protein family	symbol	Photo_RC
+Photosynthetic reaction centre protein family	symbol	CytoC_RC
+Plastocyanin family of copper-binding proteins	symbol	Copper-bind
+General bacterial porin family	symbol	Porin_1
+Outer Membrane Receptor	symbol	TonB_dep_Rec
+Outer Membrane Receptor	symbol	Plug
+Peanut agglutinin	symbol	Lectin_legB
+OmpA-like transmembrane domain	symbol	OmpA_membrane
+Outer membrane phospholipase A1	symbol	PLA1
+Maltoporin	symbol	LamB
+Outer membrane efflux proteins	symbol	OEP
+Opacity porins	symbol	Opacity
+FadL outer membrane protein transport family	symbol	Toluene_X
+Autotransporter domain	symbol	Autotransporter
+Outer membrane protein W family	symbol	OmpW
+Virulence-related outer membrane protein family	symbol	Ail_Lom
+Lipid A acylase	symbol	PagP
+Mycobacterial porin	symbol	MspA
+Cytochrome b559	symbol	Cytochrom_B559
+Cytochrome b559	symbol	Cytochrom_B559a
+Bacterial antenna complex	symbol	LHC
+Photosystem II light-harvesting protein	symbol	PSII
+Lipid A deacylase	symbol	PagL
+Lactate dehydrogenase	symbol	LDHA
+Lactate dehydrogenase	symbol	LDHB
+Lactate dehydrogenase	symbol	LDHC
+Lactate dehydrogenase	symbol	Lact-deh-memb
+Lactate dehydrogenase	symbol	Ldh_1_N
+Lactate dehydrogenase	symbol	Ldh_1_C
+Cytochrome c family	symbol	Cytochrom_C
+Cytochrome c family	symbol	Cytochrom_C_2
+Cytochrome c family	symbol	Cytochrom_CIII
+Cyclic AMP receptors	symbol	Dicty_CAR
+Fungal mating pheromone receptors	symbol	STE2
+Tektin	symbol	Tektin
+Class C GPCR	symbol	7
+Two-component regulatory system	symbol	His_kinase
+Two-component regulatory system	symbol	HisKA
+Two-component regulatory system	symbol	HisKA_2
+Two-component regulatory system	symbol	HisKA_3
+Two-component regulatory system	symbol	H-kinase_dim
+Two-component regulatory system	symbol	HisK_N
+Two-component regulatory system	symbol	KdpD
+NAD	symbol	ART
+ATP phosphoribosyltransferase	symbol	HisG
+ATP phosphoribosyltransferase	symbol	HisG_C
+Glutathione S-transferase, C-terminal domain	symbol	GST_C
+Fibronectin type II domain	symbol	fn2
+Protein kinase domain	symbol	Pkinase
+Short-chain dehydrogenase	symbol	adh_short
+Cytochrome c oxidase subunit I	symbol	COX1 or COI
+P-type ATPase	symbol	E1-E2_ATPase
+P-type ATPase	symbol	Cation_ATPase_C
+P-type ATPase	symbol	Cation_ATPase_N
+DNA beta-glucosyltransferase	symbol	T4-Gluco-transf
+Nicotinate-nucleotide—dimethylbenzimidazole phosphoribosyltransferase	symbol	DBI_PRT
+Cytochrome c oxidase subunit II	symbol	COX2_TM
+Cytochrome c oxidase subunit II	symbol	COX2
+Carboxylesterase family	symbol	COesterase
+ATP synthase subunit C	symbol	ATP-synt_C
+Sucrose synthase	symbol	Sucrose_synth
+Neurotransmitter sodium symporter	symbol	SNF
+Major intrinsic proteins	symbol	MIP
+Pentatricopeptide repeat	symbol	PPR
+Glycoside hydrolase family 1	symbol	Glyco_hydro_1
+Alpha defensin	symbol	Defensin_1
+Beta defensin	symbol	Defensin_beta
+SecY protein	symbol	SecY
+Spectrin repeat	symbol	Spectrin
+beta hydrolase fold	symbol	Abhydrolase_1
+Regulator of G protein signaling	symbol	RGS
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	symbol	HPPK
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	symbol	IspD
+6-phosphofructo-2-kinase	symbol	6
+Adenylyl-sulfate kinase	symbol	APS_kinase
+Glycerate kinase	symbol	Glyc_kinase
+Guanylate kinase	symbol	Guanylate_kin
+Hydroxyethylthiazole kinase	symbol	HK
+Phosphatidate cytidylyltransferase	symbol	CTP_transf_1
+Polyphosphate kinase	symbol	PP_kinase
+Riboflavin kinase	symbol	Flavokinase
+Riboflavin kinase	symbol	Riboflavin_kinase
+Shikimate kinase	symbol	SKI
+Sulfate adenylyltransferase	symbol	ATP-sulfurylase
+Tetraacyldisaccharide 4'-kinase	symbol	LpxK
+Cytochrome c oxidase subunit III	symbol	COX3
+RasGEF domain	symbol	RasGEF
+RhoGAP domain	symbol	RhoGAP
+RhoGEF domain	symbol	RhoGEF
+GGL domain	symbol	G-gamma
+Transmembrane domain of ABC transporters	symbol	ABC_membrane
+Discoidin domain	symbol	F5_F8_type_C
+Cytochrome c oxidase subunit Vb	symbol	COX5B
+Sema domain	symbol	Sema
+PLAT domain	symbol	PLAT
+CorA metal ion transporter	symbol	CorA
+Patatin-like phospholipase	symbol	Patatin
+Flavin-containing amine oxidoreductase	symbol	Amino_oxidase
+Triglyceride lipase	symbol	Lipase_3
+POU domain	symbol	Pou
+RHO protein GDP dissociation inhibitor	symbol	Rho_GDI
+Ion channel family	symbol	Ion_trans
+Ion channel family	symbol	Ion_trans_2
+Potassium channel tetramerisation domain	symbol	K_tetra
+GRAM domain	symbol	GRAM
+Animal heme-dependent peroxidases	symbol	An_peroxidase
+phosphatase family	symbol	Exo_endo_phos
+Saposin protein domain	symbol	SapA
+Saposin protein domain	symbol	SapB_1
+Saposin protein domain	symbol	SapB_2
+Major facilitator superfamily	symbol	MFS
+Stannin	symbol	SNN_transmemb
+Delta endotoxin	symbol	Endotoxin_N
+Delta endotoxin	symbol	Endotoxin_M
+Delta endotoxin	symbol	Endotoxin_mid
+Delta endotoxin	symbol	Endotoxin_C
+Nucleoside-specific porin	symbol	Channel_Tsx
+Urea transporter	symbol	UT
+Outer membrane protein OpcA	symbol	OpcA
+Outer membrane protein G	symbol	Porin_OmpG
+Fanconi anemia, complementation group C	symbol	Fanconi_C
+MED1	symbol	Med1
+Granulin	symbol	Granulin
+K+ transporting, alpha 1	symbol	H-K_ATPase_N
+FANCA	symbol	Fanconi_A
+Zinc-dependent phospholipase C	symbol	Zn_dep_PLPC
+Bacterial rhodopsins	symbol	Bac_rhodopsin
+Class II bacteriocin	symbol	Bacteriocin_II
+Class II bacteriocin	symbol	Antimicrobial17
+Class II bacteriocin	symbol	Bacteriocin_IIc
+PRKAB1	symbol	AMPKBI
+Involucrin	symbol	Involucrin_N
+Involucrin	symbol	Involucrin
+Involucrin	symbol	Involucrin2
+DFFA	symbol	DFF-C
+ST2 cardiac biomarker	symbol	IL1RL1
+ORC2	symbol	ORC2
+KCNA4	symbol	K_channel_TID
+TAF4	symbol	TAF4
+INCENP	symbol	INCENP_N
+INCENP	symbol	INCENP_ARK-bind
+Interleukin-18 receptor	symbol	IL18R1
+Interleukin-18 receptor	symbol	IL18RAP
+PEX14	symbol	Pex14_N
+TAF11	symbol	TAFII28
+MED6	symbol	Med6
+ATP5J	symbol	ATP-synt_F6
+MED4	symbol	Med4
+APOM	symbol	ApoM
+UBE1C	symbol	E2_bind
+BOP1	symbol	BOP1NT
+ORC6	symbol	ORC6
+Oxysterol-binding protein	symbol	Oxysterol_BP
+Palmitoyl protein thioesterase	symbol	Palm_thioest
+Palmitoyl protein thioesterase	symbol	PPT1
+Palmitoyl protein thioesterase	symbol	PPT2
+B-cell maturation antigen	symbol	BCMA-Tall_bind
+Secretin family	symbol	Hormone_2
+ORC3	symbol	ORC3_N
+GJA8	symbol	Connexin50
+Plant defensin	symbol	Gamma-thionin
+BCS1L	symbol	BCS1_N
+VGF	symbol	VGF
+ATP6V1F	symbol	ATP-synt_F
+ARPC3	symbol	P21-Arc
+Pancreatic lipase family	symbol	Lipase
+Phosducin family	symbol	Phosducin
+GMP phosphodiesterase, delta subunit	symbol	GMP_PDE_delta
+Myotubularin	symbol	Myotub-related
+Arthropod defensin	symbol	Defensin_2
+Sea anemone neurotoxin	symbol	Toxin_4
+Sea anemone neurotoxin	symbol	BDS_I_II
+Scorpion toxin	symbol	Toxin_3
+Scorpion toxin	symbol	Toxin_2
+High potential iron-sulfur protein	symbol	HIPIP
+Spider toxin	symbol	Toxin_9
+Spider toxin	symbol	Atracotoxin
+Spider toxin	symbol	Toxin_35
+Spider toxin	symbol	Toxin_12
+Gurmarin	symbol	Gurmarin
+Heat-stable enterotoxin	symbol	STb_secrete
+Heat-stable enterotoxin	symbol	Enterotoxin_ST
+Heat-stable enterotoxin	symbol	Enterotoxin_HS1
+MAPEG family	symbol	MAPEG
+Prokaryotic phospholipase A2	symbol	Phospholip_A2_3
+Insect toxin	symbol	Toxin_30
+Disulfide bond formation protein B	symbol	DsbB
+EXOC7	symbol	Exo70
+beta subunits	symbol	ATP-synt_ab_N
+beta subunits	symbol	ATP-synt_ab
+beta subunits	symbol	ATP-synt_ab_C
+ATP synthase delta subunit	symbol	OSCP
+ATP5L	symbol	ATP-synt_G
+ATP synthase gamma subunit	symbol	ATP-synt
+HPN	symbol	Hepsin-SRCR
+DCPS	symbol	DcpS
+DCPS	symbol	DcpS_C
+ATP5F1	symbol	ATP-synt_B
+SBDS	symbol	SBDS
+SBDS	symbol	SBDS_C
+SEP15	symbol	Sep15_SelM
+KCNMB2	symbol	KcnmB2_inactiv
+OGFr	symbol	OGFr_N
+OGFr	symbol	OGFr_III
+MED31	symbol	Med31
+CENPH	symbol	CENP-H
+Amino acid transporter	symbol	Aa_trans
+Neurogenins	symbol	NEUROG1
+Neurogenins	symbol	NEUROG2
+Neurogenins	symbol	NEUROG3
+Ras superfamily	symbol	Ras
+Translocase of the outer membrane	symbol	TOM20_plant
+Translocase of the outer membrane	symbol	Tom7
+Translocase of the outer membrane	symbol	Tom22
+MED30	symbol	Med30
+ENAM	symbol	Enamelin
+Mastoparan	symbol	Mastoparan_2
+ATP5I	symbol	ATP-synt_E
+MED28	symbol	Med28
+ATP5H	symbol	ATP5H
+OSTM1	symbol	OSTMP1
+WBP11	symbol	Wbp11
+AFTPH	symbol	Clathrin_bdg
+Monooxygenase	symbol	FAD_binding_3
+Dioxygenase	symbol	Dioxygenase_C
+Vault	symbol	Vault
+MED27	symbol	Med27
+RING finger domain	symbol	zf-C3HC4
+ERH	symbol	ER
+ATP5E	symbol	ATP-synt_Eps
+ATPIF1	symbol	IATP
+MED26	symbol	Med26 N-terminal domain
+MED26	symbol	Med26_M
+MED26	symbol	Med26_C
+Cleft lip and palate transmembrane protein 1	symbol	CLPTM1
+CNOT1	symbol	Not1
+VPS25	symbol	ESCRT-II
+MKI67IP	symbol	hNIFK_binding
+Lipopeptide	symbol	N/A
+Neuroligin	symbol	NLGN1
+Neuroligin	symbol	NLGN2
+Neuroligin	symbol	NLGN3
+Neuroligin	symbol	NLGN4X
+G protein-coupled inwardly-rectifying potassium channel	symbol	KCNJ3
+G protein-coupled inwardly-rectifying potassium channel	symbol	KCNJ6
+G protein-coupled inwardly-rectifying potassium channel	symbol	KCNJ9
+G protein-coupled inwardly-rectifying potassium channel	symbol	KCNJ5
+ZMPSTE24	symbol	ZMPSTE24
+Interleukin-11 receptor	symbol	Interleukin 11 receptor alpha subunit
+Interleukin-11 receptor	symbol	IL11RB
+Interleukin-5 receptor	symbol	Interleukin 5 receptor alpha subunit
+Interleukin-5 receptor	symbol	CSF2RB
+Interleukin-12 receptor	symbol	Interleukin 12 receptor, beta 1 subunit
+Interleukin-12 receptor	symbol	Interleukin 12 receptor, beta 2 subunit
+Interleukin-13 receptor	symbol	IL13RA1
+Interleukin-13 receptor	symbol	IL13RA2
+Interleukin-13 receptor	symbol	IL4R
+Interleukin-15 receptor	symbol	Interleukin 15 receptor, alpha subunit
+Interleukin-15 receptor	symbol	IL2RB
+Interleukin-15 receptor	symbol	IL2RG
+Interleukin-27 receptor	symbol	Interleukin 27 receptor, alpha subunit
+Interleukin-27 receptor	symbol	Glycoprotein 130
+Interleukin-20 receptor	symbol	Interleukin 20 receptor, alpha subunit
+Interleukin-20 receptor	symbol	Interleukin 20 receptor, beta subunit
+Interleukin-10 receptor	symbol	Interleukin 10 receptor, alpha subunit
+Interleukin-10 receptor	symbol	Interleukin 10 receptor, beta subunit
+Interleukin-22 receptor	symbol	IL22RA1
+Interleukin-22 receptor	symbol	IL22RA2
+Interleukin-28 receptor	symbol	Interleukin 28 receptor, alpha subunit
+Interleukin-28 receptor	symbol	Interleukin 10 receptor, beta subunit
+Interleukin-8 receptor	symbol	IL8RA
+Interleukin-8 receptor	symbol	IL8RB
+MALT1	symbol	MALT1
+Legume lectin	symbol	Lectin_legB
+BTBD9	symbol	BTBD9
+Ciliary neurotrophic factor receptor	symbol	CNTFR
+Interleukin-17 receptor	symbol	IL17RA
+Interleukin-17 receptor	symbol	IL17RB
+Interleukin-17 receptor	symbol	IL17RC
+Interleukin-17 receptor	symbol	IL17RD
+Interleukin-17 receptor	symbol	IL17RE
+Interleukin-17 receptor	symbol	IL17REL
+Cystine knot	symbol	Cys_knot
+Serratiopeptidase	symbol	Spro_0210
+ETS transcription factor family	symbol	Ets
+Cytochrome b561	symbol	Cytochrom_B561
+Cytochrome b561	symbol	Ni_hydr_CYTB
+Jumping translocation breakpoint	symbol	JTB
+APOF	symbol	APOF
+NDUFB11	symbol	ESSS
+MEPE	symbol	Osteoregulin
+Rootletin	symbol	Rootletin
+R.EcoRII	symbol	EcoRII-N
+R.EcoRII	symbol	EcoRII-C
+B3 domain	symbol	B3_domain
+LCA9	symbol	LCA9
+TRIM50	symbol	TRIM50
+Paraoxonase	symbol	PON1
+Paraoxonase	symbol	PON2
+Paraoxonase	symbol	PON3
+L-threonine dehydrogenase	symbol	TDH
+GHB receptor	symbol	GPR172A
+HSN2	symbol	HSN2
+ITPKC	symbol	ITPKC
+Vpu	symbol	Vpu
+Proton ATPase	symbol	E1-E2_ATPase
+APOBEC	symbol	APOBEC_N
+APOBEC	symbol	APOBEC_C
+PARK11	symbol	PARK11
+GRIK4	symbol	GRIK4
+Dockerin	symbol	Dockerin_1
+LcrV	symbol	LcrV
+Repulsive guidance molecule	symbol	RGMA
+Repulsive guidance molecule	symbol	RGMB
+Repulsive guidance molecule	symbol	Hemojuvelin
+FKBP6	symbol	FKBP6
+AHSA2	symbol	AHSA2
+Tudor domain	symbol	TUDOR
+GRINL1B	symbol	GRINL1B
+HSP90AA2	symbol	HSP90AA2
+C3orf58	symbol	C3orf58
+HSPA12A	symbol	HSPA12A
+HSPA7	symbol	HSPA7
+TFAP2E	symbol	TFAP2E
+TFAP2D	symbol	TFAP2D
+Ethylene-responsive element binding protein	symbol	EREBP
+Ethylene-responsive element binding protein	symbol	AP2
+Major histocompatibility complex, class II, DP alpha 1	symbol	HLA-DPA1
+HLA-DQB3	symbol	HLA-DQB3
+ELMO	symbol	ELMO_CED12
+DOCK	symbol	Ded_cyto
+Nef	symbol	F-protein
+BAALC	symbol	BAALC
+6-phosphogluconate dehydrogenase deficiency	symbol	6
+FAM123B	symbol	FAM123B
+PORCN	symbol	PORCN
+TIE1	symbol	TIE1
+ERM protein family	symbol	ERM
+ELMO3	symbol	ELMO3
+TOX3	symbol	TOX3
+TOX2	symbol	TOX2
+HMG-box	symbol	PF00505
+EID2	symbol	EID2
+FGF11	symbol	FGF11
+GPD1L	symbol	GPD1L
+Glycine cleavage system	symbol	GCV_H
+Glycine cleavage system	symbol	GCV_T
+Glycine cleavage system	symbol	GCV_T_C
+WNT6	symbol	WNT6
+Cullin	symbol	Cullin
+Cullin	symbol	Cullin_Nedd8
+FANCM	symbol	FANCM
+Dishevelled	symbol	Dishevelled
+DHH	symbol	DHH
+HHAT	symbol	HHAT
+MT-RNR2	symbol	MT-RNR2
+HEAT repeat	symbol	HEAT
+MT-TA	symbol	MT-TA
+MT-TV	symbol	MT-TV
+Nucleoporin 37	symbol	NUP37
+Nucleoporin 188	symbol	NUP188
+Xg antigen system	symbol	XG
+GLIS2	symbol	GLIS2
+RPGRIP1L	symbol	RPGRIP1L
+SGEF	symbol	SGEF
+Cdc6	symbol	Cdc6
+Sic1	symbol	Sic1
+VAMP5	symbol	VAMP5
+Stichodactyla toxin	symbol	ShK
+FGF16	symbol	FGF16
+FGF22	symbol	FGF22
+FGF20	symbol	FGF20
+CEACAM21	symbol	CEACAM21
+CEACAM19	symbol	CEACAM19
+CEACAM20	symbol	CEACAM20
+CEACAM18	symbol	CEACAM18
+CEACAM4	symbol	CEACAM4
+CEACAM16	symbol	CEACAM16
+H1F0	symbol	H1F0
+H1FNT	symbol	H1FNT
+Dipeptidase 2	symbol	DPEP2
+Relaxin family	symbol	Insulin
+M protein	symbol	Gram_pos_anchor
+Clostridium enterotoxin	symbol	Clenterotox
+Protein phosphatase 2	symbol	PPP2CA
+Protein phosphatase 2	symbol	PPP2CB
+MDGA2	symbol	MDGA2
+EIF4A	symbol	EIF4A1
+EIF4A	symbol	EIF4A2
+EIF4A	symbol	EIF4A3
+Translocase of the inner membrane	symbol	Tim17
+Thymidine kinase from herpesvirus	symbol	Herpes_TK
+Collagen, type XX, alpha 1	symbol	COL20A1
+SURF2	symbol	SURF2
+Clostridium difficile toxin B	symbol	TcdB_N
+Clostridium difficile toxin B	symbol	TcdA_TcdB
+Clostridium difficile toxin B	symbol	Peptidase_C80
+Clostridium difficile toxin B	symbol	TcdA_TcdB_pore
+AB toxin	symbol	ADPrib_exo_Tox
+AB toxin	symbol	Binary_toxB
+Kunitz STI protease inhibitor	symbol	Kunitz_legume
+Rel homology domain	symbol	RHD
+N-acyl phosphatidylethanolamine-specific phospholipase D	symbol	NAPEPLD
+Metallo-beta-lactamase protein fold	symbol	Lactamase_B
+Patched	symbol	PTCH1
+Patched	symbol	PTCH2
+CKMT1A	symbol	CKMT1A
+CKB	symbol	CKBE
+Pho4	symbol	Pho4
+Tat	symbol	Tat
+Vpr	symbol	VPR
+Bacterial neuraminidase	symbol	BNR
+Viral neuraminidase	symbol	Neur
+MT-TR	symbol	MT-TR
+MT-TM	symbol	MT-TM
+MT-TP	symbol	MT-TP
+MT-TL2	symbol	MT-TL2
+MT-TQ	symbol	MT-TQ
+MT-TK	symbol	MT-TK
+MT-TF	symbol	MT-TF
+MT-TE	symbol	MT-TE
+MT-TG	symbol	MT-TG
+MT-TI	symbol	MT-TI
+MT-TN	symbol	MT-TN
+MT-TS1	symbol	MT-TS1
+MT-TS2	symbol	MT-TS2
+MT-TY	symbol	MT-TY
+MT-TT	symbol	MT-TT
+MT-TW	symbol	MT-TW
+MT-TC	symbol	MT-TC
+MT-TD	symbol	MT-TD
+40S ribosomal protein S4, Y isoform 2	symbol	RPS4Y2
+Hemagglutinin-neuraminidase	symbol	HN
+PAS domain	symbol	PAS
+Borna disease virus	symbol	BDV_G
+Borna disease virus	symbol	BDV_P10
+Borna disease virus	symbol	BDV_P40
+Borna disease virus	symbol	BDV_P24
+Roundabout	symbol	ROBO1
+Roundabout	symbol	ROBO2
+Roundabout	symbol	ROBO3
+Roundabout	symbol	ROBO4
+C1GALT1	symbol	C1GALT1
+MOSC1	symbol	MOSC1
+CORO1B	symbol	CORO1B
+WD40 repeat	symbol	WD40
+OSM-9	symbol	OSM-9
+Nudix family	symbol	NUDIX
+Nudix family	symbol	NUDIX-like
+Fork head domain	symbol	Fork_head
+DEAH box helicase	symbol	DEAD
+LIX1L	symbol	LIX1L
+ANKRD35	symbol	ANKRD35
+POLR3GL	symbol	POLR3GL
+Mu hemoglobin	symbol	HBM
+C-type lectin	symbol	Lectin_C
+Inhibitor of apoptosis domain	symbol	BIR
+MYLK4	symbol	MYLK4
+Ureohydrolase	symbol	Ureohydrolase
+Organic anion-transporting polypeptide	symbol	OATP
+KRT77	symbol	KRT77
+KRT75	symbol	KRT75
+KRT76	symbol	KRT76
+KRT74	symbol	KRT74
+KRT72	symbol	KRT72
+KRT73	symbol	KRT73
+KRT39	symbol	KRT39
+KRT40	symbol	KRT40
+KRT25	symbol	KRT25
+KRT27	symbol	KRT27
+KRT28	symbol	KRT28
+KRT26	symbol	KRT26
+KRT71	symbol	KRT71
+KRT24	symbol	KRT24
+KRT84	symbol	KRT84
+KRT82	symbol	KRT82
+KRT38	symbol	KRT38
+KRT37	symbol	KRT37
+Laminin, beta 4	symbol	LAMB4
+KRT35	symbol	KRT35
+SNTG2	symbol	SNTG2
+OPN1MW2	symbol	OPN1MW2
+Late protein	symbol	Late_protein_L1
+Late protein	symbol	Late_protein_L2
+Ribosome-inactivating protein	symbol	RIP
+Aldo-keto reductase	symbol	Aldo_ket_red
+FUT4	symbol	FUT4
+Cecropin	symbol	Cecropin
+AT-hook	symbol	AT_hook
+Plant lipid transfer proteins	symbol	LTP/seed_store/tryp_amyl_inhib
+Interferon gamma receptor 2	symbol	IFNGR2
+Tetratricopeptide	symbol	TPR_1
+EXT3	symbol	EXT3
+Wee1	symbol	Mitosis inhibitor protein kinase Wee1
+Wee1	symbol	Wee1-like protein kinase
+Wee1	symbol	WEE2
+ULK2	symbol	ULK2
+Slit	symbol	SLIT1
+Slit	symbol	SLIT2
+Slit	symbol	SLIT3
+Multi-antimicrobial extrusion protein	symbol	MatE
+Arabinosyltransferase	symbol	Arabinose_trans
+Dehydrin	symbol	Dehydrin
+Activin and inhibin	symbol	INHA
+Activin and inhibin	symbol	INHBA
+Activin and inhibin	symbol	INHBB
+Activin and inhibin	symbol	INHBC
+Activin and inhibin	symbol	INHBE
+Snf3	symbol	SNF3
+Protegrin	symbol	N/A
+CARKD	symbol	Carb_kinase
+Neuropeptide S	symbol	Neuropeptide_S
+Syntaxin	symbol	Syntaxin
+APOA1BP	symbol	APOA1BP
+Methuselah-like proteins	symbol	Methuselah_N
+Transmembrane protein 53	symbol	TMEM53
+Sorting nexin	symbol	PX domain
+Sorting nexin	symbol	Sorting_nexin
+Sorting nexin	symbol	Vps5
+Sorting nexin	symbol	Nexin_C
+Tuberous sclerosis protein	symbol	TSC1
+Tuberous sclerosis protein	symbol	TSC2
+SNX6	symbol	SNX6
+Senescence-associated beta-galactosidase	symbol	GLB1
+HS1BP3	symbol	HS1BP3
+PXK	symbol	PXK
+Rap1	symbol	RAP1A
+Rap1	symbol	RAP1B
+Melatonin receptor 1C	symbol	Mtnr1c
+GPR137B	symbol	GPR137B
+Galanin-like peptide	symbol	GALP
+Neuromedin S	symbol	NMS
+Phosphocarrier protein	symbol	PTS_HPr_protein
+S-adenosyl-L-homocysteine hydrolase	symbol	Ad_hcy_hydrolase
+S-adenosyl-L-homocysteine hydrolase	symbol	AdoHcyase_NAD
+IQ calmodulin-binding motif	symbol	IQ
+G protein-coupled receptor kinase 7	symbol	GRK7
+Haemolysin E	symbol	HlyE
+Cyclic nucleotide-binding domain	symbol	cNMP_binding
+Fibronectin type III domain	symbol	fn3
+Notch proteins	symbol	Notch
+Thyroglobulin domain	symbol	Thyroglobulin_1
+Trefoil domain	symbol	Trefoil
+Subtilase	symbol	Peptidase_S8
+Phosphotyrosine-binding domain	symbol	PTB
+Phosphotyrosine-binding domain	symbol	IRS
+Von Willebrand factor type A domain	symbol	VWA
+Death domain	symbol	Death
+Lactose permease	symbol	LacY_symp
+FXYD family	symbol	ATP1G1_PLM_MAT8
+Fimbrial usher protein	symbol	Usher
+Folate receptor	symbol	Folate_rec
+Immunoglobulin C1-set domain	symbol	C1-set
+Immunoglobulin C2-set domain	symbol	C2-set
+Immunoglobulin V-set domain	symbol	V-set
+Immunoglobulin I-set domain	symbol	I-set
+DnaX	symbol	DNA_pol3_tau_4
+DnaX	symbol	DNA_pol3_tau_5
+Psalmotoxin	symbol	PcTx1
+Sortase	symbol	Sortase
+Cofactor transferase family	symbol	BPL
+Cofactor transferase family	symbol	Lip_prot_lig_C
+Cofactor transferase family	symbol	BPL_C
+CobB	symbol	npdA
+Thionin	symbol	Thionin
+Neurochondrin	symbol	Neurochondrin
+L27 domain	symbol	L27
+L27 domain	symbol	L27_1
+L27 domain	symbol	L27_2
+L27 domain	symbol	L27_N
+WW domain	symbol	WW
+DNA damage-binding protein	symbol	DDB1
+DNA damage-binding protein	symbol	DDB2
+Gcn2	symbol	GCN2
+Cell division control protein 4	symbol	Cdc4
+Cell division control protein 4	symbol	Fbw7
+Cell division control protein 4	symbol	F-box/WD repeat-containing protein sel-10
+RhoBTB	symbol	RHOBTB1
+RhoBTB	symbol	RHOBTB2
+RhoBTB	symbol	RHOBTB3
+RVD-Hpα	symbol	Hemoglobin, alpha 1
+POZ domain	symbol	BTB
+DNA-binding protein from starved cells	symbol	DPS
+CBS domain	symbol	CBS
+C11orf73	symbol	DUF775
+Translocated actin-recruiting phosphoprotein	symbol	tarp
+N-terminal prohormone of brain natriuretic peptide	symbol	Brain natriuretic peptide
+Teleost leptins	symbol	Leptin
+C activator protein CDH1	symbol	Cdh1, Hct1
+Very short patch repair	symbol	Vsr
+YjdF RNA motif	symbol	DUF2992
+FAM200A	symbol	hAT
+KIAA0895L	symbol	DUF1704
+Actin assembly-inducing protein	symbol	ActA
+Autophagy-related protein 101	symbol	DUF1649
+Pentapeptide repeat	symbol	Pentapeptide
+Caspase-activated DNase	symbol	DFF40
+MAG1	symbol	MAG1
+Rho-associated protein kinase	symbol	Rho-associated protein kinase
+Rho-associated protein kinase	symbol	ROCK1
+Rho-associated protein kinase	symbol	ROCK2
+MDia1	symbol	mDia1
+NHL repeat	symbol	NHL
+Myelin proteolipid protein	symbol	Myelin_PLP
+Kelch motif	symbol	Kelch_1
+Kelch motif	symbol	Kelch_2
+Kelch motif	symbol	Kelch_3
+Kelch motif	symbol	Kelch_4
+Kelch motif	symbol	Kelch_5
+Kelch motif	symbol	Kelch_6
+Peptidoglycan binding domain	symbol	PG_binding_1
+Sodium-solute symporter	symbol	SSF
+Betaine transporter	symbol	BCCT
+Nucleobase cation symporter-1	symbol	Transp_cyt_pur
+Amino acid permease	symbol	AA_permease
+Chemerin peptide	symbol	RARRES2
+Bcl-2 family	symbol	Bcl-2
+Bcl-2 family	symbol	BH4
+GHKL domain	symbol	HATPase_c
+Pyrin domain	symbol	PAAD_DAPIN
+NACHT domain	symbol	NACHT
+BRCT domain	symbol	BRCT
+Popeye protein conserved region	symbol	Popeye
+cpn60 chaperonin family	symbol	Cpn60_TCP1
+Zona pellucida-like domain	symbol	Zona_pellucida
+PtaRNA1	symbol	Toxin to PtaRNA1 antitoxin, of type 1 toxin-antitoxin  system
+PASTA domain	symbol	PASTA
+BRICHOS family	symbol	BRICHOS
+GAF domain	symbol	GAF
+TisB-IstR toxin-antitoxin system	symbol	TisB_toxin
+Toxin-antitoxin system	symbol	ToxN, type III toxin-antitoxin system
+LdrD-RdlD toxin-antitoxin system	symbol	Ldr_toxin
+DHHC domain	symbol	DHHC
+SymE-SymR toxin-antitoxin system	symbol	SymE_toxin
+Receptor tyrosine kinase-like orphan receptor	symbol	ROR1
+Receptor tyrosine kinase-like orphan receptor	symbol	ROR2
+High mobility group protein HMG14 and HMG17	symbol	HMG14_17
+Raf-like Ras-binding domain	symbol	RBD
+GoLoco motif	symbol	GoLoco
+Apolipoprotein L	symbol	ApoL
+Par stability determinant	symbol	Fst_toxin
+Fibronectin type I domain	symbol	Fibrnctn1
+Aminoacyl tRNA synthetases, class I	symbol	Glu/Gln-tRNA-synth_Ic
+Aminoacyl tRNA synthetases, class II	symbol	aa-tRNA-synt_II
+Toll-Interleukin receptor	symbol	TIR
+Vomeronasal receptor	symbol	Vmron_rcpt_1
+GTPase-activator protein for Ras-like GTPase	symbol	RasGAP
+Calponin homology domain	symbol	CH
+Hemopexin family	symbol	Hemopexin
+Retroviral aspartyl protease	symbol	RVP
+RNA recognition motif	symbol	RRM_1
+Thymidylate kinase	symbol	Thymidylate_kin
+Herpesvirus glycoprotein B	symbol	Glycoprotein_B
+Coagulin	symbol	Coagulin
+Bacterial ice-nucleation proteins	symbol	Ice_nucleatn
+Nematode chemoreceptor	symbol	Sra_chemorcpt
+Influenza non-structural protein	symbol	Flu_NS1
+Nitroreductase	symbol	Nitroreductase
+Small multidrug resistance protein	symbol	Multi_Drug_Res
+Polyhedrin	symbol	Polyhedrin
+Bombesin-like peptides	symbol	Bombesin
+Bet v I allergen	symbol	Bet_v_I
+Neurohypophysial hormone	symbol	Hormone_4
+Neurohypophysial hormone	symbol	Hormone_5
+Sushi domain	symbol	Sushi
+StAR-related transfer domain	symbol	START
+ML domain	symbol	E1_DerP2_DerF2
+Vitellogenin lipid transport domain	symbol	Vitellogenin_N
+Lipid-binding serum glycoprotein	symbol	LBP_BPI_CETP
+Lipid-binding serum glycoprotein	symbol	LBP_BPI_CETP_C
+Plant seed proteins	symbol	Seed_protein_pln
+Heparan sulfate 2-O-sulfotransferase	symbol	HS2ST
+Galactose-3-O-sulfotransferase	symbol	Gal-3-0_sulphotransfrase
+Heparan sulfate 6-O-sulfotransferase	symbol	HS6ST
+Stf0 sulfotransferase	symbol	Sulphotransf
+Carbohydrate sulfotransferase	symbol	Sulfotransfer_2
+Influenza virus nucleoprotein	symbol	Flu_NP
+DsbA	symbol	DsbA
+DsbA	symbol	DSBA
+Hsp33	symbol	Hsp33
+PKD domain	symbol	PKD
+Gonadotropin-releasing hormone family	symbol	GnRH
+Corticotropin-releasing hormone binding protein family	symbol	CRF-BP
+Hsp20	symbol	HSP20
+Thioredoxin domain	symbol	Thioredoxin
+Somatotropin family	symbol	Hormone_1
+Parathyroid hormone family	symbol	Parathyroid
+Gastrin family	symbol	Gastrin
+Somatostatin family	symbol	Somatostatin
+CUB domain	symbol	CUB
+ENOD40	symbol	ENOD40
+Theta defensin	symbol	N/A
+Peptaibol	symbol	N/A
+b hammerhead domain	symbol	Ald_Xan_dh_C
+Rabaptin	symbol	Rabaptin
+Melanoma-associated antigen	symbol	MAGE
+CD59 antigen	symbol	UPAR_LY6
+Lysosome-associated membrane glycoprotein	symbol	Lamp, LAMP
+Phospholipid acyltransferase	symbol	Acyltransferase
+Flavoprotein pyridine nucleotide cytochrome reductases	symbol	FAD_binding_1
+Zinc carboxypeptidase	symbol	Peptidase_M14
+Sterile alpha motif	symbol	SAM_1
+Sterile alpha motif	symbol	Ste50p-SAM
+Biotin attachment domain	symbol	Biotin_lipoyl
+Kir2.6	symbol	KCNJ18
+Moricin	symbol	Moricin
+SLC25A38	symbol	SLC25A38
+DHDPSL	symbol	DHDPSL
+Aminotransferase, class V	symbol	Aminotran_5
+MAM domain	symbol	MAM
+EHHADH	symbol	EHHADH
+Nickel-dependent hydrogenase	symbol	NiFeSe_Hases
+Isocitrate lyase family	symbol	ICL
+Haem peroxidase	symbol	peroxidase
+Beta thymosins	symbol	Thymosin
+CyaA	symbol	cyaA
+Von Willebrand factor type C domain	symbol	VWC
+Vinculin family	symbol	Vinculin
+Interleukin-1 family	symbol	IL1
+Kunitz domain	symbol	Kunitz_BPTI
+Protein phosphatase 1	symbol	PPP1CA
+Protein phosphatase 1	symbol	PPP1CB
+Protein phosphatase 1	symbol	PPP1CC
+Threonine protease	symbol	Thr
+Fumarate lyase	symbol	Lyase_1
+Peroxisomal biogenesis factor 11	symbol	PEX11
+NUBP2	symbol	ParA
+Runt domain	symbol	Runt
+TGM5	symbol	TGM5
+Oxidoreductase FAD-binding domain	symbol	FAD_binding_6
+Oxidoreductase NAD-binding domain	symbol	NAD_binding_1
+Meprin A	symbol	MEP1A
+Meprin A	symbol	MEP1B
+MENTAL domain	symbol	MENTAL
+BZIP domain	symbol	bZIP_1
+ZNF703	symbol	ZNF703
+SacI homology domain	symbol	Syja_N
+Somatomedin B	symbol	Somatomedin_B
+Proton-dependent oligopeptide transporter	symbol	PTR2
+Aspartate receptor	symbol	TarH
+Chaperone DnaJ	symbol	DnaJ
+Chaperone DnaJ	symbol	DnaJ_CXXCXGXG
+Chaperone DnaJ	symbol	DnaJ_C
+S1 domain	symbol	S1
+PIN domain	symbol	PIN
+Omptin	symbol	Omptin
+WPP domain	symbol	WPP
+DNA photolyase	symbol	DNA_photolyase
+Cholesterol-dependent cytolysin	symbol	Thiol_cytolysin
+KIAA0895	symbol	DUF1704
+CHAP domain	symbol	CHAP
+Transmembrane Protein 175	symbol	TMEM175
+Map44	symbol	MASP1
+C3orf14-Chromosome 3 open reading frame 14	symbol	C3orf14
+CHASE domain	symbol	CHASE
+3H domain	symbol	3.0
+ABM domain	symbol	ABM
+Tripartite ATP-independent periplasmic transporter	symbol	DctP
+Tripartite ATP-independent periplasmic transporter	symbol	DctQ
+Tripartite ATP-independent periplasmic transporter	symbol	DctM
+Plant-specific insert	symbol	StAP_PSI
+Calcium-activated chloride channel	symbol	CLCA_N
+CD36 antigen	symbol	CD36
+DM domain	symbol	DM
+MED29	symbol	Med29
+Mga	symbol	Mga
+PilZ domain	symbol	PilZ
+S4 protein domain	symbol	S4
+S1 P1 nuclease protein domain	symbol	S1-P1_nuclease
+Saf pilin N-terminal extension	symbol	Saf-Nte_pilin
+SAG1 protein domain	symbol	SAG
+SAND DNA-binding protein domain	symbol	SAND
+SARS coronavirus X4 like protein domain	symbol	SARS_X4
+Sda protein domain	symbol	Sda
+Succinate dehydrogenase subunit E	symbol	SdhE
+SdrG C terminal protein domain	symbol	SdrG_C_C
+S-adenosylmethionine synthetase enzyme	symbol	S-AdoMet_synt_N
+S-adenosylmethionine synthetase enzyme	symbol	S-AdoMet_synt_M
+S-adenosylmethionine synthetase enzyme	symbol	S-AdoMet_synt_C
+Squamosa promoter binding protein	symbol	SBP
+Shugoshin N terminal protein domain	symbol	Shugoshin_N
+Selenoprotein P	symbol	SelP_N
+Selenoprotein P	symbol	SelP_C
+SeqA protein domain	symbol	SeqA
+Siah interacting protein N-terminal domain	symbol	Siah-Interact_N
+Sprouty protein	symbol	Sprouty
+Scavenger receptor cysteine-rich protein domain	symbol	SRCR
+SSI protease inhibitor	symbol	SSI
+Stirrup protein domain	symbol	Stirrup
+Stathmin protein domain	symbol	Stathmin
+Suppressor of fused Sufu protein N terminal domain	symbol	SUFU
+SUI1 protein domain	symbol	SUI1
+Enterotoxin type B	symbol	Staphylococcal/Streptococcal toxin, N-terminal domain
+Enterotoxin type B	symbol	Stap_Strp_tox_C
+SurE, survival protein E	symbol	SurE
+SWAP protein domain	symbol	Surp
+Syntaxin 6 N terminal protein domain	symbol	Syntaxin-6_N
+Pulmonary surfactant protein D	symbol	Surfac_D-trimer
+Ter protein	symbol	Ter
+Terpene synthase C terminal domain	symbol	Terpene_synth_C
+Terpene synthase N terminal domain	symbol	Terpene_synth
+Omega-atracotoxin	symbol	Omega-toxin
+Albumin I	symbol	Albumin_I
+Hook protein	symbol	HOOK
+FPG IleRS zinc finger	symbol	zf-FPG_IleRS
+ZapA family	symbol	ZapA
+Cubam	symbol	Amnionless
+Cubam	symbol	Cubilin
+AN1 zinc finger	symbol	zf-AN1
+TAZ zinc finger	symbol	zf-TAZ
+MYND zinc finger	symbol	zf-MYND
+MIZ zinc finger	symbol	zf-MIZ
+ZZ zinc finger	symbol	ZZ
+B-box zinc finger	symbol	zf-B_box
+BED zinc finger	symbol	zf-BED
+EVH1 domain	symbol	EVH1
+SPR domain	symbol	SPR
+Amino acid kinase	symbol	AA_kinase
+Alpha amylase inhibitor	symbol	A_amylase_inhib
+Adaptor complexes medium subunit domain	symbol	Adap_comp_sub
+Transcriptional activator LAG-3	symbol	Activator_LAG-3
+ACT domain	symbol	ACT
+4'-phosphopantetheinyl transferase	symbol	ACPS
+Prokaryotic acetaldehyde dehydrogenase dimerisation domain	symbol	AcetDehyd-dimer
+Acetate kinase	symbol	Acetate_kinase
+Acyl-CoA-binding protein	symbol	ACBP
+Hexon protein	symbol	Adeno_hexon
+Hexon protein	symbol	Adeno_hexon_C
+WH1 domain	symbol	WH1
+WH2 motif	symbol	WH2
+Adhesin molecule	symbol	Adhes-Ig_like
+Egg lysin	symbol	Egg_lysin
+ADP-ribosylglycohydrolase	symbol	ADP_ribosyl_GH
+Retroviral matrix protein	symbol	Gag_MA
+Retroviral matrix protein	symbol	Retro_M
+Retroviral matrix protein	symbol	Gag_p10
+Retroviral matrix protein	symbol	Gag_p15
+Glutamate permease	symbol	Glt_symporter
+Aerolysin	symbol	Aerolysin
+Apical membrane antigen 1	symbol	AMA-1
+AMMECR1	symbol	AMMECR1
+Sea anemone cytotoxic protein	symbol	Anemone_cytotox
+Antifungal protein	symbol	Antifungal_prot
+Caf1 capsule antigen	symbol	Antig_Caf1
+Apolipophorin III	symbol	ApoLp-III
+Apolipoprotein O	symbol	ApoO
+Apovitellenin-1	symbol	Apo-VLDL-II
+Arginine repressor ArgR	symbol	Arg_repressor_C
+Arginine repressor ArgR	symbol	Arg_repressor
+ArgJ protein family	symbol	ArgJ
+Arfaptin	symbol	Arfaptin
+Archease	symbol	Archease
+Macro domain	symbol	Macro
+MamL-1 domain	symbol	MamL-1
+Myosin head	symbol	Myosin_head
+MutS-1	symbol	MutS_I
+ARID domain	symbol	ARID
+Ars operon	symbol	ArsA_ATPase
+Ars operon	symbol	ArsB
+Ars operon	symbol	ArsC
+Ars operon	symbol	ArsD
+Shroom protein family	symbol	ASD1
+Shroom protein family	symbol	ASD2
+ASF1 like histone chaperone	symbol	ASF1_hist_chap
+ATP cone	symbol	ATP-cone
+Astacin	symbol	Astacin
+ATP:guanido phosphotransferase family	symbol	ATP-gua_Ptrans
+ATP:guanido phosphotransferase family	symbol	ATP-gua_PtransN
+Vitamin B12-binding domain	symbol	B12-binding
+Vitamin B12-binding domain	symbol	B12-binding_2
+Uroguanylin	symbol	GUCA2B
+Auxin binding protein	symbol	Auxin_BP
+Bacterial DNA binding protein	symbol	Bac_DNA_binding
+Autophagocytosis associated protein Atg3	symbol	Autophagy_N
+Autophagocytosis associated protein Atg3	symbol	Autophagy_act_C
+Autophagocytosis associated protein Atg3	symbol	Autophagy_Cterm
+Barrier-to-autointegration factor	symbol	BAF
+Bacillus haemolytic enterotoxin	symbol	Bacillus_HBL
+BAG domain	symbol	BAG
+BAH domain	symbol	BAH
+Bicarbonate transporter protein	symbol	HCO3_cotransp
+Bicarbonate transporter protein	symbol	Band_3_cyto
+Barwin domain	symbol	Barwin
+Myogenic determination factor 5	symbol	Myf5
+Myogenic determination factor 5	symbol	Basic
+Bcl-x interacting domain	symbol	Bclx_interact
+BEN domain	symbol	BEN
+BESS domain	symbol	BESS
+Biopterin-dependent aromatic amino acid hydroxylase	symbol	Biopterin_H
+Gloverin	symbol	Gloverin
+Beta-lactamase inhibitor protein	symbol	BLIP
+BLUF domain	symbol	BLUF
+BMC domain	symbol	BMC
+BolA-like protein family	symbol	BolA
+Bombinin	symbol	Bombinin
+Bowman–Birk protease inhibitor	symbol	Bowman-Birk_leg
+BPS domain	symbol	BPS
+BpuJI	symbol	BpuJI_N
+Bse634I	symbol	Bse634I
+BSD domain	symbol	BSD
+PstI restriction endonuclease	symbol	BsuBI_PstI_RE
+Btk-type zinc finger	symbol	BTK
+BtpA protein	symbol	BtpA
+Btz domain	symbol	Btz
+BURP domain	symbol	BURP
+BZIP Maf	symbol	bZIP_Maf
+Kazal domain	symbol	Kazal_1
+Kazal domain	symbol	Kazal_2
+C1q domain	symbol	C1q
+Type IV collagen C4 domain	symbol	4.0
+Cache domain	symbol	Cache_1
+Cache domain	symbol	Cache_2
+Cadherin cytoplasmic region	symbol	Cadherin_C
+Nematode Her-1	symbol	Caenor_Her-1
+CagZ	symbol	CagZ
+Calcium-activated potassium channel beta subunit	symbol	CaKB
+Amylin family	symbol	Calc_CGRP_IAPP
+Calcipressin	symbol	Calcipressin
+Calponin family repeat	symbol	Calponin
+Calreticulin protein family	symbol	Calreticulin
+Signal peptidase	symbol	Peptidase_S26
+Calx-beta motif	symbol	Calx-beta
+Calmodulin binding domain	symbol	CaMBD
+Plant calmodulin-binding domain	symbol	CaM_binding
+Calmodulin-regulated spectrin-associated CKK domain	symbol	CAMSAP_CKK
+CAP protein family	symbol	CAP
+CAP protein family	symbol	Crisp
+Cyclase-associated protein family	symbol	CAP_N
+Cyclase-associated protein family	symbol	CAP_C
+Carboxyl transferase domain	symbol	Carboxyl_trans
+Carboxypeptidase A inhibitor	symbol	CarbpepA_inh
+Orange carotenoid N-terminal domain	symbol	Carot_N
+CSE protein family	symbol	CAS_CSE1
+CSE protein family	symbol	Cse1
+Catalase-related immune-responsive domain	symbol	Catalase-rel
+CAT RNA-binding domain	symbol	CAT_RBD
+Choloylglycine hydrolase family	symbol	CBAH
+Cbl TKB domain	symbol	Cbl_N
+Cbl TKB domain	symbol	Cbl_N2
+Cbl TKB domain	symbol	Cbl_N3
+Carbohydrate-binding module	symbol	CBM_1
+Carbohydrate-binding module	symbol	CBM_2
+Carbohydrate-binding module	symbol	CBM_3
+Carbohydrate-binding module	symbol	CBM_5_12
+Carbohydrate-binding module	symbol	CBM_6
+Carbohydrate-binding module	symbol	CBM_4_9
+Carbohydrate-binding module	symbol	CBM_10
+Carbohydrate-binding module	symbol	CBM_11
+Carbohydrate-binding module	symbol	CBM_14
+Carbohydrate-binding module	symbol	CBM_15
+Carbohydrate-binding module	symbol	CBM_17_28
+Carbohydrate-binding module	symbol	Chitin_bind_1
+Carbohydrate-binding module	symbol	CBM_19
+Carbohydrate-binding module	symbol	CBM_20
+Carbohydrate-binding module	symbol	CBM_21
+Carbohydrate-binding module	symbol	CBM_25
+Carbohydrate-binding module	symbol	CBM27
+Carbohydrate-binding module	symbol	Chitin_bind_3
+Carbohydrate-binding module	symbol	CBM_48
+Carbohydrate-binding module	symbol	CBM49
+Di-haem cytochrome c peroxidase	symbol	CCP_MauG
+CD20-like family	symbol	CD20
+Cytolethal distending toxin	symbol	CDT
+CDC48 N-terminal domain	symbol	CDC48_N
+CDC48 N-terminal domain	symbol	CDC48_2
+Trappin protein transglutaminase binding domain	symbol	Cementoin
+Cerato-platanin	symbol	Cerato-platanin
+CFC domain	symbol	CFC
+Kinase binding protein CGI-121	symbol	CGI-121
+CHB HEX N-terminal domain	symbol	CHB_HEX
+Chitinase A N-terminal domain	symbol	ChitinaseA_N
+ATP10 protein	symbol	ATP-synt_10
+ethanolamine kinase family	symbol	Choline_kinase
+Citrate synthase family	symbol	Citrate_synt
+NADH dehydrogenase	symbol	CI-B14_5a
+Chromo shadow domain	symbol	Chromo_shadow
+Cyclin-dependent kinase regulatory subunit family	symbol	CKS
+Clp protease family	symbol	CLP_protease
+Cloacin immunity protein	symbol	Cloacin_immun
+ATP-dependent Clp protease adaptor protein ClpS	symbol	ClpS
+Cytotoxic necrotising factor family	symbol	CNF1
+Cob	symbol	CobA_CobO_BtuR
+Cob	symbol	Cob_adeno_trans
+Cobalamin biosynthesis	symbol	CobD_Cbib
+Cobalamin biosynthesis	symbol	CobS
+Cobalamin biosynthesis	symbol	CobT
+Cobalamin biosynthesis	symbol	CobU
+Cobalamin biosynthesis	symbol	cobW
+Cobalamin biosynthesis	symbol	CobW_C
+Cobalamin biosynthesis	symbol	CbiA
+Cobalamin biosynthesis	symbol	CbiD
+Cobalamin biosynthesis	symbol	CbiG_N
+Cobalamin biosynthesis	symbol	CbiG_mid
+Cobalamin biosynthesis	symbol	CbiG_C
+Cobalamin biosynthesis	symbol	CbiJ
+Cobalamin biosynthesis	symbol	CbiM
+Cobalamin biosynthesis	symbol	CbiN
+Cobalamin biosynthesis	symbol	CbiQ
+Cobalamin biosynthesis	symbol	CbiX
+Cobalamin biosynthesis	symbol	CbiZ
+CodY protein family	symbol	CodY
+ADF-H domain	symbol	Cofilin_ADF
+Cohesin domain	symbol	Cohesin
+Condensation domain	symbol	Condensation
+Chloramphenicol phosphotransferase-like protein family	symbol	CPT
+Creb binding domain	symbol	Creb_binding
+Cro repressor family	symbol	Cro
+Crp domain	symbol	Crp
+CRM domain	symbol	CRS1_YhbY
+Crustacean neurohormone family	symbol	Crust_neurohorm
+Cold-shock domain	symbol	CSD
+Copper type II ascorbate-dependent monooxygenase	symbol	Cu2_monooxygen
+Copper type II ascorbate-dependent monooxygenase	symbol	Cu2_monoox_C
+SET domain	symbol	SET
+Multicopper oxidase	symbol	Cu-oxidase
+Multicopper oxidase	symbol	Cu-oxidase_2
+Multicopper oxidase	symbol	Cu-oxidase_3
+Multicopper oxidase	symbol	Cu-oxidase_4
+Cupin superfamily	symbol	Cupin_1
+Cupin superfamily	symbol	Cupin_2
+Cupin superfamily	symbol	Cupin_3
+Cupin superfamily	symbol	Cupin_4
+Cupin superfamily	symbol	Cupin_5
+Cupin superfamily	symbol	Cupin_6
+Cupin superfamily	symbol	Cupin_7
+CUT domain	symbol	CUT
+CVNH domain	symbol	CVNH
+Cyanase	symbol	Cyanate_lyase
+Polyketide synthesis cyclase family	symbol	Cyclase_polyket
+Sirohaem synthase	symbol	CysG_dimeriser
+Met metabolism PLP-dependent enzyme family	symbol	Cys_Met_Meta_PP
+Cytochrome c assembly protein family	symbol	Cytochrom_C_asm
+FAD dependent oxidoreductase family	symbol	DAO
+Mitochondrial ribosomal death-associated protein 3	symbol	DAP3
+D-stereospecific aminopeptidase	symbol	DAP_B
+D-stereospecific aminopeptidase	symbol	DAP_C
+DEP domain	symbol	DEP
+3,4-dihydroxy-2-butanone-4-phosphate synthase	symbol	DHBP_synthase
+DHH phosphatase family	symbol	DHH
+DinI-like protein family	symbol	DinI
+DmpG-like communication domain	symbol	DmpG_comm
+Transcription factor DP	symbol	DP
+DpnII restriction endonuclease family	symbol	DpnII
+Dipeptidyl-peptidase IV family	symbol	DPPIV_N
+DsbC protein family	symbol	DsbC_N
+SEM1 protein family	symbol	DSS1_SEM1
+Duffy binding proteins	symbol	Duffy_binding
+Duffy binding proteins	symbol	DuffyBP_N
+TRNA-dihydrouridine synthase	symbol	Dus
+Dymeclin protein family	symbol	Dymeclin
+DyP-type peroxidase family	symbol	Dyp_perox
+EAF family	symbol	EAF
+EAL domain	symbol	EAL
+EcoEI R protein C-terminal domain	symbol	EcoEI_R_C
+Ecotin	symbol	Ecotin
+Ectatomin	symbol	Ectatomin
+EF1 guanine nucleotide exchange domain	symbol	EF1_GNE
+Elongation factor P	symbol	EFP_N
+Elongation factor P	symbol	EFP
+Elongation factor P	symbol	Elong-fact-P_C
+Calcium-binding EGF domain	symbol	EGF_CA
+ELFV dehydrogenase	symbol	ELFV_dehydrog
+ELFV dehydrogenase	symbol	ELFV_dehydrog_N
+Elicitin	symbol	Elicitin
+EMI domain	symbol	EMI
+AvaI	symbol	Endonuc-BsobI
+RNA non-specific endonuclease	symbol	Endonuclease_NS
+Entericidin	symbol	Entericidin
+Engrailed homeobox protein	symbol	Engrail_1_C_sig
+Heat-labile enterotoxin family	symbol	Enterotoxin_a
+Heat-labile enterotoxin family	symbol	Enterotoxin_b
+Heat-labile enterotoxin family	symbol	LT-IIB
+Epsilon antitoxin	symbol	Epsilon_antitox
+MATH domain	symbol	MATH
+Excisionase	symbol	Exc
+Exonuclease VII	symbol	Exonuc_VII_L
+Exonuclease VII	symbol	Exonuc_VII_S
+F-actin capping protein	symbol	F-actin_cap_A
+F-actin capping protein	symbol	F_actin_cap_B
+FAD-oxidase	symbol	FAD-oxidase_C
+Fatty acid metabolism regulator protein FadR	symbol	FadR_C
+Prokaryotic riboflavin biosynthesis protein	symbol	FAD_syn
+Fasciclin domain	symbol	Fasciclin
+Fungal fruit body lectin family	symbol	FB_lectin
+Flavocytochrome c sulfide dehydrogenase	symbol	FCSD-flav_bind
+Iron dependent repressor	symbol	Fe_dep_repress
+Iron dependent repressor	symbol	Fe_dep_repr_C
+Methyl-CpG-binding domain	symbol	MBD
+FERM domain	symbol	FERM_N
+FERM domain	symbol	FERM_M
+FERM domain	symbol	FERM_C
+Iron-sulfur cluster biosynthesis protein family	symbol	Fe-S_biosyn
+Ferredoxin-thioredoxin reductase	symbol	FeThRed_A
+Ferredoxin-thioredoxin reductase	symbol	FeThRed_B
+FEZ-like protein	symbol	FEZ
+Formylglycine-generating enzyme	symbol	FGE-sulfatase
+FGGY carbohydrate kinase family	symbol	FGGY_N
+FGGY carbohydrate kinase family	symbol	FGGY_C
+Forkhead-associated domain	symbol	FHA
+FHIPEP protein family	symbol	FHIPEP
+DOC protein family	symbol	Fic
+Flagellar motor switch	symbol	FliG_C
+Flagellar motor switch	symbol	FliM
+FLYWCH zinc finger	symbol	FLYWCH
+Focal adhesion targeting region	symbol	Focal_AT
+Frataxin-like domain	symbol	Frataxin_Cyay
+Fructosamine kinase family	symbol	Fructosamin_kin
+Cyclodeaminase domain	symbol	FTCD_C
+Fungal fucose-specific lectin	symbol	Fungal_lectin
+Ferric uptake regulator family	symbol	FUR
+RUN domain	symbol	RUN
+GA module	symbol	GA
+Galactose binding lectin domain	symbol	Gal_Lectin
+GATA zinc finger	symbol	GATA
+Glutamine amidotransferase	symbol	GATase
+Guanylate-binding protein	symbol	GBP
+Guanylate-binding protein	symbol	GBP_C
+GCM transcription factors	symbol	GCM
+Rab GDP dissociation inhibitors	symbol	GDI
+Reeler domain	symbol	Reeler
+Asp-box repeat	symbol	BNR
+LuxR-type DNA-binding HTH domain	symbol	GerE
+GGDEF domain	symbol	GGDEF
+GHMP kinase family	symbol	GHMP_kinases_N
+GHMP kinase family	symbol	GHMP_kinases_C
+Glutaredoxin 2	symbol	Glutaredoxin2_C
+LETM1-like protein family	symbol	LETM1
+Ammonia transporter	symbol	AmtB
+Glycoside hydrolase family 10	symbol	Glyco_hydro_10
+Glycoside hydrolase family 11	symbol	Glyco_hydro_11
+Glycoside hydrolase family 14	symbol	Glyco_hydro_14
+Glycoside hydrolase family 12	symbol	Glyco_hydro_12
+Glycoside hydrolase family 16	symbol	Glyco_hydro_16
+Glycoside hydrolase family 17	symbol	Glyco_hydro_17
+Glycoside hydrolase family 18	symbol	Glyco_hydro_18
+Glycoside hydrolase family 19	symbol	Glyco_hydro_19
+Glycoside hydrolase family 20	symbol	Glyco_hydro_20
+Glycoside hydrolase family 20	symbol	Glyco_hydro_20b
+Glycoside hydrolase family 2	symbol	Glyco_hydro_2_N
+Glycoside hydrolase family 2	symbol	Glyco_hydro_2
+Glycoside hydrolase family 2	symbol	Glyco_hydro_2_C
+Glycoside hydrolase family 25	symbol	Glyco_hydro_25
+Glycoside hydrolase family 28	symbol	Glyco_hydro_28
+Glycoside hydrolase family 3	symbol	Glyco_hydro_3
+Glycoside hydrolase family 3	symbol	Glyco_hydro_3_C
+Glycoside hydrolase family 31	symbol	Glyco_hydro_31
+Glycoside hydrolase family 35	symbol	Glyco_hydro_35
+Glycoside hydrolase family 32	symbol	Glyco_hydro_32N
+Glycoside hydrolase family 32	symbol	Glyco_hydro_32C
+Glycoside hydrolase family 39	symbol	Glyco_hydro_39
+Glycoside hydrolase family 38	symbol	Glyco_hydro_38
+Glycoside hydrolase family 38	symbol	Alpha-mann_mid
+Glycoside hydrolase family 38	symbol	Glyco_hydro_38C
+Glycoside hydrolase family 4	symbol	Glyco_hydro_4
+Glycoside hydrolase family 4	symbol	Glyco_hydro_4C
+Glycoside hydrolase family 43	symbol	Glyco_hydro_43
+Glycoside hydrolase family 45	symbol	Glyco_hydro_45
+Glycoside hydrolase family 46	symbol	Glyco_hydro_46
+Glycoside hydrolase family 42	symbol	Glyco_hydro_42
+Glycoside hydrolase family 42	symbol	Glyco_hydro_42M
+Glycoside hydrolase family 42	symbol	Glyco_hydro_42C
+Glycoside hydrolase family 48	symbol	Glyco_hydro_48
+Glycoside hydrolase family 49	symbol	Glyco_hydro_49
+Glycoside hydrolase family 52	symbol	Glyco_hydro_52
+Glycoside hydrolase family 53	symbol	Glyco_hydro_53
+Glycoside hydrolase family 56	symbol	Glyco_hydro_56
+Glycoside hydrolase family 59	symbol	Glyco_hydro_59
+Glycoside hydrolase family 61	symbol	Glyco_hydro_61
+Glycoside hydrolase family 62	symbol	Glyco_hydro_62
+Glycoside hydrolase family 63	symbol	Glyco_hydro_63
+Glycoside hydrolase family 65	symbol	Glyco_hydro_65N
+Glycoside hydrolase family 65	symbol	3900.0
+Glycoside hydrolase family 65	symbol	Glyco_hydro_65C
+Glycoside hydrolase family 67	symbol	Glyco_hydro_67N
+Glycoside hydrolase family 67	symbol	Glyco_hydro_67M
+Glycoside hydrolase family 67	symbol	Glyco_hydro_67C
+Glycoside hydrolase family 68	symbol	Glyco_hydro_68
+Glycoside hydrolase family 7	symbol	Glyco_hydro_7
+Glycoside hydrolase family 70	symbol	Glyco_hydro_70
+Glycoside hydrolase family 71	symbol	Glyco_hydro_71
+Glycoside hydrolase family 76	symbol	Glyco_hydro_76
+Glycoside hydrolase family 72	symbol	Glyco_hydro_72
+Glycoside hydrolase family 79	symbol	Glyco_hydro_79n
+Glycoside hydrolase family 81	symbol	Glyco_hydro_81
+Glycoside hydrolase family 77	symbol	Glyco_hydro_77
+Glycoside hydrolase family 85	symbol	Glyco_hydro_85
+Glycoside hydrolase family 92	symbol	Glyco_hydro_92
+Glycoside hydrolase family 5	symbol	Cellulase
+Glycoside hydrolase family 98	symbol	Glyco_hydro_98M
+Glycoside hydrolase family 98	symbol	Glyco_hydro_98C
+Glycoside hydrolase family 9	symbol	Glyco_hydro_9
+Glycoside hydrolase family 97	symbol	Glyco_hydro_97
+Glycoside hydrolase family 6	symbol	Glyco_hydro_6
+Glycoside hydrolase family 8	symbol	Glyco_hydro_8
+Glycoside hydrolase family 15	symbol	Glyco_hydro_15
+Glycoside hydrolase family 13	symbol	Alpha-amylase_N
+Glycoside hydrolase family 13	symbol	Alpha-amylase
+Glycoside hydrolase family 22	symbol	Lys
+Glycoside hydrolase family 24	symbol	Phage_lysozyme
+Glycoside hydrolase family 26	symbol	Glyco_hydro_26
+Glycoside hydrolase family 27	symbol	Melibiase
+Glycoside hydrolase family 29	symbol	Alpha_L_fucos
+Glycoside hydrolase family 30	symbol	Glyco_hydro_30
+Glycoside hydrolase family 33	symbol	Sialidase
+Glycoside hydrolase family 34	symbol	Neur
+Glycoside hydrolase family 37	symbol	Trehalase
+Glycoside hydrolase family 47	symbol	Glyco_hydro_47
+Macrophage migration inhibitory factor domain	symbol	MIF
+Glycoside hydrolase family 57	symbol	Glyco_hydro_57
+Glycoside hydrolase family 80	symbol	Glyco_hydro_80
+Glycoside hydrolase family 44	symbol	Glyco_hydro_44
+Glycoside hydrolase family 101	symbol	Glyco_hydro_101
+Glycoside hydrolase family 101	symbol	GHL
+Glycoside hydrolase family 100	symbol	Glyco_hydro_100
+Glycoside hydrolase family 89	symbol	NAGLU
+Glycoside hydrolase family 89	symbol	NAGLU_N
+Glycoside hydrolase family 89	symbol	NAGLU_C
+Glycoside hydrolase family 66	symbol	Glyco_hydro_66
+Glycoside hydrolase family 75	symbol	Glyco_hydro_75
+Glycoside hydrolase family 88	symbol	Glyco_hydro_88
+Glycoside hydrolase family 108	symbol	Glyco_hydro_108
+Glycoside hydrolase family 78	symbol	Bac_rhamnosid
+AdoMet MTase	symbol	AdoMet_MTase
+Glycoside hydrolase family 83	symbol	HN
+Glycoside hydrolase family 73	symbol	Glucosaminidase
+Glucose-methanol-choline oxidoreductase family	symbol	GMC_oxred_N
+Glucose-methanol-choline oxidoreductase family	symbol	GMC_oxred_C
+GntR-like bacterial transcription factors	symbol	GntR
+Bacteriophage scaffolding proteins	symbol	Phage_B
+Bacteriophage scaffolding proteins	symbol	gpD
+GRIP domain	symbol	GRIP
+EF-1A subfamily	symbol	GTP_EFTU
+EF-1A subfamily	symbol	GTP_EFTU_D2
+EF-1A subfamily	symbol	GTP_EFTU_D3
+GYF domain	symbol	GYF
+H2TH domain	symbol	H2TH
+Clostridium botulinum C3 toxin	symbol	3.0
+Haemadin	symbol	Haemadin
+Haemagglutination activity domain	symbol	Haemagg_act
+HAND domain	symbol	HAND
+HD domain	symbol	HD
+HdeA family	symbol	HdeA
+HECT domain	symbol	HECT
+Haemagglutinin-esterase fusion glycoprotein	symbol	Hema_HEFG
+HEPN domain	symbol	HEPN
+Haemolysin expression modulating protein family	symbol	HHA
+Histone-like nucleoid-structuring protein	symbol	Histone_HNS
+HMA domain	symbol	HMA
+HMG-CoA reductase family	symbol	HMG-CoA_red
+Muscarinic toxin 7	symbol	MT7
+HORMA domain	symbol	HORMA
+Hyccin protein family	symbol	Hyccin
+Hydrogenase maturation protease family	symbol	HycI
+Haloacid dehydrogenase superfamily	symbol	Hydrolase_3
+Methyl-accepting chemotaxis protein	symbol	MCPsignal
+Glycoside hydrolase family 36	symbol	Melibiase
+Glycoside hydrolase family 36	symbol	Raffinose_syn
+Pro-hevein	symbol	HEV1
+Proenkephalin	symbol	PENK
+N-Terminal peptide of proopiomelanocortin	symbol	N-POMC
+Muscarinic toxin 2	symbol	MT2
+Translation initiation factor IF-3	symbol	IF3_N
+Translation initiation factor IF-3	symbol	IF3_C
+Eukaryotic translation initiation factor 4E family	symbol	IF4E
+Interferon gamma receptor	symbol	IFNGR1
+Interferon-inducible GTPase	symbol	IIGP
+IMD domain	symbol	IMD
+GMPR family	symbol	IMPDH
+Response regulator	symbol	Response_reg
+isopropylmalate dehydrogenase family	symbol	Iso_dh
+Jacalin-like lectin domain	symbol	Jacalin
+Haemolymph juvenile hormone-binding protein	symbol	JHBP
+MARK kinase family	symbol	KA1
+Cyanobacterial clock proteins	symbol	KaiA
+Cyanobacterial clock proteins	symbol	KaiB
+Cyanobacterial clock proteins	symbol	KaiC
+Ankyrin-G binding motif of KCNQ2-3	symbol	KCNQC3-Ank-G_bd
+WaaP) family	symbol	Kdo
+IolB isomerase family	symbol	KduI
+KilA-N domain	symbol	KilA-N
+Kanamycin nucleotidyltransferase	symbol	KNTase_C
+Killer toxin Kp4 family	symbol	Kp4
+La domain	symbol	La
+Lamprin	symbol	Lamprin
+Latexin family	symbol	Latexin
+LCCL domain	symbol	LCCL
+Leguminous lectin family	symbol	Lectin_legB
+L-type lectin domain	symbol	Lectin_leg-like
+LIM domain-binding protein family	symbol	LIM_bind
+Pii nitrogen regulatory proteins	symbol	P-II
+LisH domain	symbol	LisH
+Lon protease family	symbol	LON
+UDP-3-O-N-acetylglucosamine deacetylase	symbol	LpxC
+2'-5'-oligoadenylate synthase	symbol	OAS1_C
+Octopine dehydrogenase family	symbol	Octopine_DH
+2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase	symbol	OHCU_decarbox
+Group III pyridoxal-dependent decarboxylases	symbol	OKR_DC_1_N
+Group III pyridoxal-dependent decarboxylases	symbol	OKR_DC_1
+Group III pyridoxal-dependent decarboxylases	symbol	OKR_DC_1_C
+OmpA domain	symbol	OmpA
+Group IV pyridoxal-dependent decarboxylases	symbol	Orn_Arg_deC_N
+Group IV pyridoxal-dependent decarboxylases	symbol	Orn_DAP_Arg_deC
+Group II pyridoxal-dependent decarboxylases	symbol	Pyridoxal_deC
+Group I pyridoxal-dependent decarboxylases	symbol	GDC-P
+Ornatin	symbol	Ornatin
+Insect pheromone-binding protein	symbol	OS-D
+OST4	symbol	Ost4
+OTCase family	symbol	OTCace_N
+OTCase family	symbol	OTCace
+Otopetrin family	symbol	Otopetrin
+Stomoxyn	symbol	Stomoxyn
+Latarcin	symbol	Latarcin
+Pleurocidin	symbol	Antimicrobial12
+Calcineurin-like phosphoesterase	symbol	Metallophos
+Concentrative nucleoside transporter	symbol	Nucleos_tra2_C
+Polysulfide reductase	symbol	NrfD
+Bacterial binding protein-dependent transporter	symbol	BPD_transp_1
+Bacterial potassium transporter	symbol	TrkH
+Small-conductance mechanosensitive channel	symbol	MS_channel
+Formate-nitrite transporter	symbol	Form_Nir_trans
+Nucleobase cation symporter-2	symbol	Xan_ur_permease
+Cation diffusion facilitator	symbol	Cation_efflux
+Acriflavine resistance protein family	symbol	ACR_tran
+SecDF protein-export membrane protein	symbol	SecD_SecF
+dicarboxylate transporter	symbol	C4dic_mal_tran
+Sodium:dicarboxylate symporter	symbol	SDF
+Bile acid:sodium symporter	symbol	SBF
+ACDC domain	symbol	ACDC
+DAHP synthase	symbol	DAHP_synth_1
+DAHP synthase	symbol	DAHP_synth_2
+EPSP synthase	symbol	EPSP_synthase
+Thiamine transporter	symbol	Thia_YuaJ
+Saccharide transporter	symbol	PTS_EIIC
+Magnesium transporter E	symbol	MgtE
+Mercury transporter	symbol	MerF
+Prokaryotic ubiquitin-like protein	symbol	Pup/Mpa PDB:3M9D
+Phage major coat protein	symbol	Phage_Coat_Gp8
+Outer membrane polysaccharide transporter	symbol	Poly_export
+Oligogalacturonate-specific porin	symbol	KdgM
+Phosphate-selective porin	symbol	Porin_O_P
+Proton-pumping pyrophosphatase	symbol	H_PPase
+Polyprenyl synthetase	symbol	polyprenyl_synt
+Myticin	symbol	Myticin-prepro
+URM1	symbol	URM1
+Liver-expressed antimicrobial peptide	symbol	LEAP-2
+Muramyl ligase	symbol	Mur_ligase
+Clathrin adaptor proteins	symbol	Clat_adaptor_s
+Aurein	symbol	Antimicrobial20
+Amphibian antimicrobial peptides	symbol	Brevenin
+Modified GRF	symbol	Mod GRF
+HAMP domain	symbol	HAMP
+Tryptophan-rich sensory protein	symbol	TspO_MBR
+Paralytic peptides	symbol	GBP_PSP
+EamA	symbol	EamA
+Misato segment II myosin-like domain	symbol	Misat_Myo_SegII
+Tubulin domain	symbol	Tubulin
+KcsA potassium channel	symbol	KcsA
+D1–D2 dopamine receptor heteromer	symbol	Dopamine receptor D1
+D1–D2 dopamine receptor heteromer	symbol	Dopamine receptor D2
+GvpA	symbol	GvpA
+EIF-W2 protein domain	symbol	W2
+WIF domain	symbol	WIF
+WWE protein domain	symbol	WWE
+WHEP-TRS protein domain	symbol	WHEP-TRS
+WRKY protein domain	symbol	WRKY
+WAC protein domain	symbol	WAC_Acf1_DNA_bd
+Link domain	symbol	LINK
+Y Y Y	symbol	Y_Y_Y
+Reg prop	symbol	Reg_prop
+XPG N terminus	symbol	XPG_N
+XPC-binding	symbol	XPC-binding
+Dispanin	symbol	CD225
+X8 protein domain	symbol	X8
+XhoI	symbol	XhoI
+Xyloglucan endo-transglycosylase	symbol	XET_C
+Adenosine deaminase z-alpha domain	symbol	z-alpha
+Zeta toxin protein domain	symbol	Zeta_toxin
+SpAB protein domain	symbol	B
+B1 domain	symbol	B1
+B5 protein domain	symbol	B5
+B3 4	symbol	B3_4
+TPM domain	symbol	TPM
+B2-adapt-app C	symbol	B2-adapt-app_C
+B56 domain	symbol	B56
+Bacteriocin IId	symbol	Bacteriocin_IId
+YopH, N-terminal	symbol	YopH_N
+YqaJ protein domain	symbol	YqaJ
+YTH protein domain	symbol	YTH
+Ycf9 protein domain	symbol	Ycf9
+Tachystatin	symbol	Tachystatin_A
+Tachystatin	symbol	Tachystatin_B
+YbaK protein domain	symbol	YbaK
+YDG SRA protein domain	symbol	YDG_SRA
+HspQ protein domain	symbol	YccV-like
+YchF-GTPase C terminal protein domain	symbol	YchF-GTPase_C
+Ydc2 protein domain	symbol	Ydc2-catalyt
+YceI protein domain	symbol	YceI
+Trimeric autotransporter adhesin	symbol	ESPR
+Trimeric autotransporter adhesin	symbol	YadA_stalk
+Trimeric autotransporter adhesin	symbol	YadA_anchor
+Trimeric autotransporter adhesin	symbol	YadA_head
+YopE protein domain	symbol	YopE
+ZinT protein domain	symbol	ZinT
+YqeY protein domain	symbol	YqeY
+Ycf4 protein domain	symbol	Ycf4
+YgbB N terminal protein domain	symbol	YgbB
+YopR bacterial protein domain	symbol	YopR_core
+YjeF N terminal protein domain	symbol	YjeF_N
+YecM bacterial protein domain	symbol	YecM
+Endoribonuclease XendoU	symbol	XendoU
+XPG I protein domain	symbol	XPG_I
+XOL-1 Switch protein N-terminal domain	symbol	Xol-1_N
+VanY protein domain	symbol	VanY
+VEK-30 protein domain	symbol	VEK-30
+Var1 protein domain	symbol	VAR1
+VHS protein domain	symbol	VHS
+Von Willebrand factor type D domain	symbol	VWD
+Radical SAM	symbol	Radical_SAM
+Vitamin D binding protein domain III	symbol	VitD-bind_III
+Vitelline membrane outer layer protein I	symbol	VOMI
+VP40	symbol	VP40
+UBA protein domain	symbol	UBA
+UbiD protein domain	symbol	UbiD
+UBX protein domain	symbol	UBX
+Ubiquitin-interacting motif	symbol	UIM
+Tymovirus coat protein	symbol	Tymo_coat
+TUG-UBL1 protein domain	symbol	TUG
+TyeA protein domain	symbol	TyeA
+TACI-CRD2 protein domain	symbol	TACI-CRD2
+TAF protein	symbol	TAF
+TauD protein domain	symbol	TauD
+TCP protein domain	symbol	TCP
+Tbf5 protein domain	symbol	Tbf5
+TCL1 MTCP1 protein domain	symbol	TCL1_MTCP1
+YadA bacterial adhesin protein domain	symbol	YadA
+Whirly	symbol	Whirly
+SecA	symbol	SecA
+Vesiculovirus matrix proteins	symbol	Vesiculo_matrix
+Ribosomal L28e protein family	symbol	Ribosomal_L28e
+Corynebacterial porin B	symbol	PorB
+Outer membrane porin D	symbol	OprD
+Methanosarcinales S-layer Tile Protein	symbol	S-layer
+Cell–cell fusogens	symbol	EFF-AFF
+Exosortase	symbol	Exosortase_EpsH
+Red chlorophyll catabolite reductase	symbol	RCC_reductase
+Relaxin family peptide hormones	symbol	RLN1
+Relaxin family peptide hormones	symbol	RLN2
+Relaxin family peptide hormones	symbol	RLN3
+Relaxin family peptide hormones	symbol	INSL3
+Relaxin family peptide hormones	symbol	INSL5
+CcdB Type II Toxin-antitoxin system	symbol	CcdB
+CcdB Type II Toxin-antitoxin system	symbol	CcdA
+ParDE type II toxin-antitoxin system	symbol	ParE_toxin
+ParDE type II toxin-antitoxin system	symbol	ParD
+Sodium sulfate symporter	symbol	Na_sulph_symp
+Extended ELM2 domain	symbol	EELM2
+Partial cleavage stimulation factor domain	symbol	partial_CstF
+HolC	symbol	DNA_pol3_chi
+HolA	symbol	DNA_pol3_delta
+HolE	symbol	DNA_pol3_theta
+MTORC1	symbol	Mammalian target of rapamycin
+MTORC1	symbol	RPTOR
+MTORC2	symbol	Mammalian target of rapamycin
+MTORC2	symbol	RICTOR
+MTORC2	symbol	MLST8
+MTORC2	symbol	MAPKAP1
+Geosmin synthase	symbol	Terpene_synth_C
+Voltage sensitive phosphatase	symbol	VSP
+Plastid terminal oxidase	symbol	PTOX
+ABCE1	symbol	ABCE1
+Cycle	symbol	ARNTL
+Frequency	symbol	FRQ
+Doubletime	symbol	CSNK1E
+phytoene synthase family	symbol	SQS_PSY
+Endonuclease V	symbol	ENDOV
+Interleukin 23	symbol	IL12B
+Interleukin 23	symbol	Interleukin 23 subunit alpha
+Dihydrodipicolinate synthase	symbol	DHDPS
+ryanodine receptor domain and socs box containing 3	symbol	SPRY
+PA clan	symbol	N/A
+Androctonus australis hector insect toxin	symbol	Toxin_3
+Major capsid protein VP1	symbol	VP1
+Copeptin	symbol	CT-proAVP
+YcaO	symbol	YcaO
+Monolysocardiolipin acyltransferase	symbol	MLCL AT-1
+Pwo DNA polymerase	symbol	pol
+Cyclin E2	symbol	CCNE2
+Ceramide synthase 4	symbol	CerS4
+Ceramide synthase 5	symbol	CerS5
+Acyl-CoA:lysocardiolipin acyltransferase-1	symbol	ALCAT1
+SKA2	symbol	SKA2
+MBOAT	symbol	MBOAT
+MBOAT	symbol	MBOAT_2
+Pacifastin	symbol	Pacifastin_I
+NuA4 histone acetyltransferase complex	symbol	NuA4
+Muscarinic toxin 1	symbol	MT1
+CsrA protein	symbol	CsrA
+Crc	symbol	Crc
+Calitoxin	symbol	Toxin_4
+Bacterial Leucine Transporter	symbol	LeuT
+DnaD	symbol	dnaI
+Vts1	symbol	Vts1
+Single-strand DNA-binding protein	symbol	SSB
+Single-stranded binding protein	symbol	SSB
+Single-stranded binding protein	symbol	Viral_DNA_bp
+Sauvagine	symbol	N/A
+Flavin-containing monooxygenase	symbol	Flavin_mOase
+Nickel superoxide dismutase	symbol	Sod_Ni
+Carbonic anhydrase	symbol	Carb_anhydrase
+Aldehyde ferredoxin oxidoreductase	symbol	AFOR_N
+Aldehyde ferredoxin oxidoreductase	symbol	AFOR_C
+Ribonuclease T	symbol	rnt
+PAN domain	symbol	PAN_1
+C4orf29	symbol	C4orf29
+Universal stress protein	symbol	lp_3663
+342346	symbol	C16orf96
+Ebola viral protein 24	symbol	eVP24
+Iron-starvation-induced protein A	symbol	2580.0
+Cas1	symbol	cas1
+Erythroferrone	symbol	ERFE
+Prp8	symbol	EGFR
+Protein S	symbol	PRS
+Neuropeptide VF precursor	symbol	NPVF
+APC superfamily	symbol	APC
+APC Family	symbol	APC
+AGCS family	symbol	A3P053
+Anion exchanger family	symbol	AE1
+Sulfate permease	symbol	SulP
+EcoRI	symbol	EcoRI
+SWEET transporters	symbol	PQ-loop
+Nicotinamide ribonucleoside uptake transporters	symbol	PnuC
+Potassium uptake permease	symbol	KUP or TrkD
+Potassium uptake permease	symbol	HAK1
+C9orf91	symbol	C9orf91
+LOC105377021	symbol	UNQ6490, PRO21339,
+Clostridial Cytotoxin family	symbol	CCT
+Pleurotolysin	symbol	plyB
+CII protein	symbol	cII
+Intelectin	symbol	ITLN1
+MOP flippase	symbol	MatE
+Mitochondrial calcium uniporter	symbol	MCU
+Lysine exporter	symbol	LysE aka CGL1262
+threonine resistance transporter	symbol	RhtB
+Cadmium resistance transporter	symbol	CadD
+Manganese exporter	symbol	MntP
+GPATCH11	symbol	GPATCH11
+Disulfide oxidoreductase D	symbol	DsbD
+PNGase F	symbol	PNGase F
+Gluconate-proton symporter	symbol	GntP
+Sodium-proton antiporter	symbol	Na_H_antiport_1
+Divalent anion–sodium symporter	symbol	DASS
+P-Aminobenzoyl-glutamate transporter	symbol	AbgT
+Histidine phosphotransfer domain	symbol	Hpt
+Histidine phosphotransfer domain	symbol	HPTransfase
+Ion transporter superfamily	symbol	IT
+Dcu family	symbol	DcuA_DcuB
+DcuC family	symbol	DcuC
+Lactate permease family	symbol	LctP
+ArsB and ArsAB transporters	symbol	ArsA
+ArsB and ArsAB transporters	symbol	ArsB
+NhaA family	symbol	Na_H_antiport_1
+Ryanodine-Inositol 1,4,5-triphosphate receptor calcium channels	symbol	RYR2
+Polycystin cation channel family	symbol	PKD2
+Transient receptor potential calcium channel family	symbol	TRP-CC
+Potassium transporter family	symbol	Trk
+Asprosin	symbol	FBN1
+Fam221b	symbol	FAM221B
+YEATS domain	symbol	YEATS
+Agnoprotein	symbol	Polyoma_agno
+F420H2DH family	symbol	F420H2DH
+Ghanshyam Swarup	symbol	Y_phosphatase

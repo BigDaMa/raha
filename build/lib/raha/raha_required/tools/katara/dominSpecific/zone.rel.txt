@@ -1,0 +1,4127 @@
+Gare Montparnasse	zone	1
+Pennsylvania Station	zone	City Terminal Zone
+Pennsylvania Station	zone	Zone 1
+Chhatrapati Shivaji Terminus	zone	Central Railways
+Madrid Atocha railway station	zone	A
+Grand Central Terminal	zone	1
+Temple	zone	1
+Flinders Street railway station	zone	Myki zone 1
+Southern Cross railway station	zone	Myki zone 1
+Union Station	zone	1
+Union Station	zone	2
+Cour Saint-Émilion	zone	1
+Les Sablons	zone	2
+Esplanade de La Défense	zone	2
+Pont de Neuilly	zone	2
+Louvre – Rivoli	zone	1
+Argentine	zone	1
+George V	zone	1
+Tuileries	zone	1
+Concorde	zone	1
+Hôtel de Ville	zone	1
+Palais Royal – Musée du Louvre	zone	1
+Saint-Paul	zone	1
+Franklin D. Roosevelt	zone	1
+Les Halles	zone	1
+Châtelet	zone	1
+Bastille	zone	1
+Bercy	zone	1
+Quai de la Rapée	zone	1
+Reuilly – Diderot	zone	1
+Porte de Vincennes	zone	1
+Victor Hugo	zone	1
+Bérault	zone	2
+Ternes	zone	1
+Porte Dauphine	zone	1
+Courcelles	zone	1
+Château de Vincennes	zone	2
+Rome	zone	1
+Villiers	zone	1
+Monceau	zone	1
+Place de Clichy	zone	1
+Blanche	zone	1
+Pigalle	zone	1
+Anvers	zone	1
+Barbès – Rochechouart	zone	1
+La Chapelle	zone	1
+Poissonnière	zone	1
+Union Station	zone	TRE Eastern
+Market Center	zone	Eastern TRE Fare Zone
+Heritage Crossing	zone	Eastern TRE Fare Zone
+West Irving	zone	Eastern TRE Fare Zone
+Bell	zone	Western TRE Fare Zone
+DFW Airport	zone	Fare Zone Boundary between Fort Worth and Dallas
+Richland Hills	zone	Western TRE Fare Zone
+Fort Worth Intermodal Transportation Center	zone	Western TRE Fare Zone
+T&P Station	zone	Western TRE Fare Zone
+Jaurès	zone	1
+Stalingrad	zone	1
+Colonel Fabien	zone	1
+Couronnes	zone	1
+Avron	zone	1
+Belleville	zone	1
+Père Lachaise	zone	1
+Philippe Auguste	zone	1
+Alexandre Dumas	zone	1
+Ménilmontant	zone	1
+Louise Michel	zone	2
+Pont de Levallois – Bécon	zone	2
+Anatole France	zone	2
+Porte de Champerret	zone	1
+Europe	zone	1
+Malesherbes	zone	1
+Wagram	zone	1
+Opéra	zone	1
+Saint-Augustin	zone	1
+Bourse	zone	1
+Sentier	zone	1
+Saint-Lazare	zone	1
+Arts et Métiers	zone	1
+Parmentier	zone	1
+Rue Saint-Maur	zone	1
+Saint-Fargeau	zone	1
+Place d'Italie	zone	1
+Porte d'Orléans	zone	1
+Oberkampf	zone	1
+Ourcq	zone	1
+Campo Formio	zone	1
+Laumière	zone	1
+Jacques Bonsergent	zone	1
+Kléber	zone	1
+Porte de Pantin	zone	1
+Alésia	zone	1
+Bobigny – Pablo Picasso	zone	1
+Bobigny – Pantin – Raymond Queneau	zone	1
+Hoche	zone	2
+Église de Pantin	zone	1
+Raspail	zone	1
+Vavin	zone	1
+Pasteur	zone	1
+Montparnasse – Bienvenüe	zone	1
+Saint-Sulpice	zone	1
+Odéon	zone	1
+Saint-Placide	zone	1
+Saint-Michel	zone	1
+Saint-Germain-des-Prés	zone	1
+Cité	zone	1
+Strasbourg – Saint-Denis	zone	1
+Gare de l'Est	zone	1
+Château Rouge	zone	1
+Simplon	zone	1
+Porte de Clignancourt	zone	1
+Porte des Lilas	zone	1
+Pelleport	zone	1
+République	zone	1
+Porte de Bagnolet	zone	1
+Gambetta	zone	1
+Gallieni	zone	2
+Boissière	zone	1
+Bir-Hakeim	zone	1
+Dupleix	zone	1
+Passy	zone	1
+Cambronne	zone	1
+Trocadéro	zone	1
+Edgar Quinet	zone	1
+La Motte-Picquet – Grenelle	zone	1
+Saint-Jacques	zone	1
+Corvisart	zone	1
+Glacière	zone	1
+Nationale	zone	1
+Quai de la Gare	zone	1
+Chevaleret	zone	1
+Dugommier	zone	1
+Daumesnil	zone	1
+Bel-Air	zone	1
+Picpus	zone	1
+La Courneuve – 8 mai 1945	zone	2
+Corentin Cariou	zone	1
+Crimée	zone	1
+Louis Blanc	zone	1
+Riquet	zone	1
+Cadet	zone	1
+Le Peletier	zone	1
+Porte de la Villette	zone	1
+Fort d'Aubervilliers	zone	2
+Pyramides	zone	1
+Pont Marie	zone	1
+Jussieu	zone	1
+Pont Neuf	zone	1
+Place Monge	zone	1
+Tolbiac	zone	1
+Les Gobelins	zone	1
+Mairie d'Ivry	zone	1
+Porte de Choisy	zone	1
+Maison Blanche	zone	1
+Bolivar	zone	1
+Porte d'Ivry	zone	1
+Porte d'Italie	zone	1
+Buttes Chaumont	zone	1
+Félix Faure	zone	1
+Place des Fêtes	zone	1
+Danube	zone	1
+Botzaris	zone	1
+Balard	zone	1
+Pré-Saint-Gervais	zone	1
+Boucicaut	zone	1
+Lourmel	zone	1
+Commerce	zone	1
+Chemin Vert	zone	1
+Madeleine	zone	1
+Grands Boulevards	zone	1
+Bonne Nouvelle	zone	1
+Filles du Calvaire	zone	1
+Ledru-Rollin	zone	1
+Montgallet	zone	1
+Maisons-Alfort – Les Juilliottes	zone	1
+Porte de Charenton	zone	1
+Michel Bizot	zone	1
+Liberté	zone	1
+Porte Dorée	zone	1
+Créteil – Université	zone	1
+Maisons-Alfort – Stade	zone	1
+Pont de Sèvres	zone	1
+Billancourt	zone	1
+Créteil – Préfecture	zone	1
+Marcel Sembat	zone	1
+Porte de Saint-Cloud	zone	1
+Jasmin	zone	1
+Ranelagh	zone	1
+Exelmans	zone	1
+La Muette	zone	1
+Saint-Denis – Université	zone	1
+Basilique de Saint-Denis	zone	1
+Guy Môquet	zone	1
+Porte de Saint-Ouen	zone	1
+Mairie d'Issy	zone	2
+Garibaldi	zone	2
+Porte de Versailles	zone	1
+Corentin Celton	zone	2
+Vaugirard	zone	1
+Convention	zone	1
+Rennes	zone	1
+Volontaires	zone	1
+Rue du Bac	zone	1
+Varenne	zone	1
+Saint-Georges	zone	1
+Assemblée Nationale	zone	1
+Solférino	zone	1
+Jules Joffrin	zone	1
+Falguière	zone	1
+Télégraphe	zone	1
+Marx Dormoy	zone	1
+Porte de la Chapelle	zone	1
+Abbesses	zone	1
+Jourdain	zone	1
+Cardinal Lemoine	zone	1
+Charles Michels	zone	1
+Maubert – Mutualité	zone	1
+Pyrénées	zone	1
+Sèvres – Babylone	zone	1
+Mairie des Lilas	zone	1
+Mabillon	zone	1
+Avenue Émile Zola	zone	1
+Ségur	zone	1
+Goncourt	zone	1
+Rambuteau	zone	1
+Chardon Lagache	zone	1
+Vaneau	zone	1
+Duroc	zone	1
+Croix de Chavaux	zone	1
+Mairie de Montreuil	zone	1
+Mirabeau	zone	1
+Porte d'Auteuil	zone	1
+Rue des Boulets	zone	1
+Maraîchers	zone	1
+Buzenval	zone	1
+Robespierre	zone	1
+Porte de Montreuil	zone	1
+Saint-Philippe du Roule	zone	1
+Miromesnil	zone	1
+Voltaire	zone	1
+Charonne	zone	1
+Saint-Ambroise	zone	1
+Plaisance	zone	1
+Liège	zone	1
+Iéna	zone	1
+Porte de Vanves	zone	1
+Mairie de Clichy	zone	2
+Pernety	zone	1
+Gaîté	zone	1
+Rue de la Pompe	zone	1
+La Fourche	zone	1
+Châtillon – Montrouge	zone	1
+Gare de Cergy-le-Haut	zone	5
+Gare de Poissy	zone	5
+Glen Iris railway station	zone	Myki zone 1
+Waterfront station	zone	1
+Poughkeepsie station	zone	9
+Breakneck Ridge	zone	7
+New Hamburg	zone	8
+Cold Spring	zone	7
+Beacon	zone	8
+Manitou	zone	7
+Garrison	zone	7
+Cortlandt	zone	6
+Peekskill	zone	6
+Croton–Harmon station	zone	5
+Philipse Manor	zone	5
+Scarborough	zone	5
+Ossining	zone	5
+Tarrytown	zone	5
+Irvington	zone	4
+Ardsley-on-Hudson	zone	4
+Greystone	zone	3
+Glenwood	zone	3
+Dobbs Ferry	zone	4
+Hastings-on-Hudson	zone	4
+Ludlow	zone	3
+Yonkers station	zone	3
+Spuyten Duyvil	zone	2
+University Heights	zone	2
+Marble Hill	zone	2
+Morris Heights	zone	2
+Riverdale	zone	2
+Harlem–125th Street	zone	1
+Wassaic	zone	10
+Harlem Valley–Wingdale	zone	9
+Tenmile River	zone	10
+Dover Plains	zone	9
+Appalachian Trail	zone	8
+Patterson	zone	8
+Pawling	zone	8
+Southeast	zone	7
+Brewster	zone	7
+Laburnum railway station	zone	Myki zone 2
+Box Hill railway station, Melbourne	zone	Myki Zone 2
+Blackburn railway station, Melbourne	zone	Myki zone 2
+Mont Albert railway station	zone	Myki zone 1/2 overlap
+East Richmond railway station, Melbourne	zone	Myki zone 1
+Burnley railway station	zone	Myki zone 1
+Richmond railway station, Melbourne	zone	Myki zone 1
+Grant Road railway station	zone	Western Railways
+Matunga Road	zone	Western Railways
+Elphinstone Road railway station	zone	Western Railways
+Charni Road railway station	zone	Western Railways
+Khar Road	zone	Western Railways
+Nunawading railway station	zone	Myki zone 2
+Hawthorn railway station, Melbourne	zone	Myki zone 1
+Auburn railway station, Melbourne	zone	Myki zone 1
+Camberwell railway station, Melbourne	zone	Myki zone 1
+Surrey Hills railway station	zone	Myki zone 1/2 overlap
+Glenferrie railway station	zone	Myki zone 1
+Chatham railway station, Melbourne	zone	Myki zone 1/2 overlap
+Canterbury railway station, Melbourne	zone	Myki zone 1/2 overlap
+East Camberwell railway station	zone	Myki zone 1
+Franconia–Springfield station	zone	Zone 3
+L'Enfant Plaza station	zone	Zone 1
+Parliament railway station	zone	Myki zone 1
+Flagstaff railway station	zone	myki zone 1
+South Yarra railway station	zone	Myki zone 1
+Hawksburn railway station	zone	Myki zone 1
+Toorak railway station	zone	Myki zone 1
+Armadale railway station, Melbourne	zone	Myki zone 1
+Malvern railway station, Melbourne	zone	Myki zone 1
+Glenhuntly railway station	zone	Myki zone 1
+Caulfield railway station	zone	Myki zone 1
+Bentleigh railway station	zone	Myki zone 1/2
+Patterson railway station	zone	Myki zone 2
+McKinnon railway station	zone	Myki zone 1/2
+Highett railway station	zone	Myki zone 2
+Cheltenham railway station, Melbourne	zone	Myki zone 2
+Ormond railway station	zone	Myki zone 1/2
+Mentone railway station	zone	Myki zone 2
+Moorabbin railway station	zone	Myki Zone 2
+Chelsea railway station, Melbourne	zone	Myki zone 2
+Aspendale railway station	zone	Myki zone 2
+Parkdale railway station	zone	Myki zone 2
+Mordialloc railway station	zone	Myki zone 2
+Bonbeach railway station	zone	Myki zone 2
+Edithvale railway station	zone	Myki zone 2
+Carrum railway station	zone	Myki zone 2
+Seaford railway station, Melbourne	zone	Myki zone 2
+Kananook railway station	zone	Myki zone 2
+Huntingdale railway station	zone	Myki zone 1/2 overlap
+Sandown Park railway station, Melbourne	zone	Myki zone 2
+Noble Park railway station	zone	Myki zone 2
+Frankston railway station	zone	Myki zone 2
+Murrumbeena railway station	zone	Myki zone 1
+Carnegie railway station	zone	Myki zone 1
+Hughesdale railway station	zone	Myki zone 1/2 overlap
+Westall railway station	zone	Myki zone 2
+Clayton railway station, Melbourne	zone	Myki zone 2
+Yarraman railway station	zone	Myki zone 2
+Springvale railway station	zone	Myki zone 2
+Oakleigh railway station	zone	Myki zone 1/2 overlap
+Hallam railway station	zone	Myki Zone 2
+Dandenong railway station	zone	Myki zone 2
+Narre Warren railway station	zone	Myki zone 2
+Beaconsfield railway station, Melbourne	zone	Myki zone 2
+Berwick railway station, Melbourne	zone	Myki zone 2
+Officer railway station	zone	Myki zone 2
+Merinda Park railway station	zone	Myki zone 2
+Pakenham railway station	zone	Myki zone 2
+Cranbourne railway station	zone	Myki zone 2
+Prahran railway station	zone	Myki zone 1
+Balaclava railway station, Melbourne	zone	Myki zone 1
+Ripponlea railway station	zone	Myki zone 1
+Windsor railway station, Melbourne	zone	Myki zone 1
+Middle Brighton railway station	zone	Myki zone 1/2 Overlap
+Hampton railway station, Melbourne	zone	Myki zone 2
+Elsternwick railway station	zone	Myki zone 1
+Gardenvale railway station	zone	Myki zone 1
+Sandringham railway station	zone	Myki zone 2
+Brighton Beach railway station	zone	Myki zone 1/2
+North Brighton railway station	zone	Myki zone 1/2 Overlap
+Heyington railway station	zone	Myki zone 1
+Kooyong railway station	zone	Myki zone 1
+Tooronga railway station	zone	Myki zone 1
+Holmesglen railway station	zone	Myki zone 1/2 overlap
+Darling railway station	zone	Myki zone 1/2 overlap
+Gardiner railway station	zone	Myki zone 1
+East Malvern railway station	zone	Myki zone 1/2 overlap
+Jordanville railway station	zone	Myki zone 2
+Mount Waverley railway station	zone	Myki zone 2
+Syndal railway station	zone	Myki zone 2
+Glen Waverley railway station	zone	Myki zone 2
+Willison railway station	zone	Myki zone 1
+Ringwood East railway station	zone	Myki zone 2
+Hartwell railway station	zone	Myki zone 1
+Ashburton railway station, Melbourne	zone	Myki zone 1
+Alamein railway station	zone	Myki zone 1
+Riversdale railway station	zone	Myki zone 1
+Burwood railway station, Melbourne	zone	Myki zone 1
+Croydon railway station, Melbourne	zone	Myki zone 2
+Mooroolbark railway station	zone	Myki zone 2
+Boronia railway station	zone	Myki zone 2
+Showgrounds railway station, Melbourne	zone	Myki zone 1
+Upwey railway station, Melbourne	zone	Myki zone 2
+Bayswater railway station, Melbourne	zone	Myki zone 2
+Upper Ferntree Gully railway station	zone	Myki zone 2
+North Williamstown railway station	zone	Myki zone 1
+Williamstown Beach railway station	zone	Myki zone 1
+Lilydale railway station	zone	Myki zone 2
+Heatherdale railway station	zone	Myki zone 2
+Heathmont railway station	zone	Myki zone 2
+Ringwood railway station, Melbourne	zone	Myki zone 2
+Ferntree Gully railway station	zone	Myki zone 2
+Mitcham railway station, Melbourne	zone	Myki zone 2
+Middle Footscray railway station	zone	Myki zone 1
+Belgrave railway station	zone	Myki zone 2
+Williamstown railway station, Melbourne	zone	Myki zone 1
+Tecoma railway station	zone	Myki zone 2
+Flemington Racecourse railway station	zone	Myki zone 1
+West Footscray railway station	zone	Myki zone 1
+Tottenham railway station	zone	Myki zone 1
+Albion railway station, Melbourne	zone	Myki zone 1/2 overlap
+St Albans railway station, Melbourne	zone	Myki zone 2
+Keilor Plains railway station	zone	Myki Zone 2
+Ginifer railway station	zone	Myki Zone 2
+Sunshine railway station, Melbourne	zone	Myki zone 1/2 overlap
+Newmarket railway station, Melbourne	zone	Myki zone 1
+Strathmore railway station	zone	Myki zone 1
+Watergardens railway station	zone	Myki zone 2
+Glenbervie railway station	zone	Myki zone 1
+Moonee Ponds railway station	zone	Myki zone 1
+Jacana railway station	zone	Myki zone 2
+Pascoe Vale railway station	zone	Myki zone 1/2 overlap
+Essendon railway station	zone	Myki Zone 1
+Flemington Bridge railway station	zone	Myki zone 1
+Oak Park railway station	zone	Myki zone 1/2 overlap
+Glenroy railway station	zone	Myki zone 1/2 overlap
+Macaulay railway station	zone	Myki zone 1
+Kensington railway station, Melbourne	zone	Myki zone 1
+Brunswick railway station, Melbourne	zone	Myki zone 1
+Jewell railway station	zone	Myki zone 1
+Anstey railway station	zone	Myki zone 1
+Coburg railway station	zone	Myki zone 1
+Batman railway station	zone	Myki zone 1/2 overlap
+Ascot Vale railway station	zone	Myki zone 1
+Fawkner railway station	zone	Myki zone 1/2 overlap
+Moreland railway station	zone	Myki Zone 1
+South Kensington railway station	zone	Myki zone 1
+North Melbourne railway station	zone	Myki zone 1
+Merlynston railway station	zone	Myki Zone 1/2 overlap
+Broadmeadows railway station, Melbourne	zone	Myki zone 2
+Royal Park railway station, Melbourne	zone	Myki zone 1
+Seddon railway station	zone	Myki zone 1
+Upfield railway station	zone	Myki zone 2
+Gowrie railway station	zone	Myki zone 2
+Newport railway station, Melbourne	zone	Myki zone 1
+Yarraville railway station	zone	Myki zone 1
+Footscray railway station	zone	Myki zone 1
+Aircraft railway station	zone	Myki zone 2
+Spotswood railway station	zone	Myki zone 1
+Westona railway station	zone	Myki zone 1/2 overlap
+Hoppers Crossing railway station	zone	Myki zone 2
+West Richmond railway station	zone	Myki zone 1
+Laverton railway station, Melbourne	zone	Myki zone 1/2
+Werribee railway station	zone	Myki zone 2
+Jolimont railway station	zone	Myki zone 1
+Seaholme railway station	zone	Myki zone 1
+Altona railway station	zone	Myki zone 1/2 overlap
+North Richmond railway station	zone	Myki zone 1
+Collingwood railway station	zone	Myki zone 1
+Victoria Park railway station, Melbourne	zone	Myki zone 1
+Clifton Hill railway station	zone	Myki zone 1
+Westgarth railway station	zone	Myki zone 1
+Dennis railway station	zone	Myki zone 1
+Eaglemont railway station	zone	Myki zone 1/2 overlap
+Ivanhoe railway station, Melbourne	zone	Myki zone 1/2 overlap
+Darebin railway station	zone	Myki zone 1
+Alphington railway station	zone	Myki zone 1
+Montmorency railway station	zone	Myki zone 2
+Watsonia railway station	zone	Myki zone 2
+Rosanna railway station	zone	Myki zone 2
+Heidelberg railway station	zone	Myki zone 1/2 overlap
+Fairfield railway station, Melbourne	zone	Myki zone 1
+Greensborough railway station	zone	Myki zone 2
+Croxton railway station	zone	Myki zone 1
+Rushall railway station	zone	Myki zone 1
+Diamond Creek railway station	zone	Myki zone 2
+Merri railway station	zone	Myki zone 1
+Eltham railway station, Melbourne	zone	Myki zone 2
+Ruthven railway station	zone	Myki zone 2
+Thornbury railway station, Melbourne	zone	Myki zone 1
+Macleod railway station	zone	Myki zone 2
+Preston railway station, Melbourne	zone	Myki zone 1/2 overlap
+Bell railway station, Melbourne	zone	Myki zone 1
+Northcote railway station	zone	Myki zone 1
+Hurstbridge railway station	zone	Myki zone 2
+Reservoir railway station	zone	Myki zone 1/2 overlap
+Regent railway station	zone	Myki zone 1/2 overlap
+Lalor railway station	zone	Myki Zone 2
+Epping railway station, Melbourne	zone	Myki Zone 2
+Wattle Glen railway station	zone	Myki zone 2
+Thomastown railway station, Melbourne	zone	Myki zone 2
+Keon Park railway station	zone	Myki zone 2
+Tyabb railway station	zone	Myki zone 2
+Hastings railway station, Melbourne	zone	Myki zone 2
+Somerville railway station	zone	Myki zone 2
+Bittern railway station	zone	Myki zone 2
+Leawarra railway station	zone	Myki zone 2
+Morradoo railway station	zone	Myki zone 2
+Crib Point railway station	zone	Myki zone 2
+Ardeer railway station	zone	Myki zone 2
+Stony Point railway station	zone	Myki zone 2
+Melton railway station, Melbourne	zone	Myki zone 2
+Rockbank railway station	zone	Myki zone 2
+Baxter railway station	zone	Myki zone 2
+Deer Park railway station	zone	Myki zone 2
+Diggers Rest railway station	zone	Myki zone 2
+Sunbury railway station, Melbourne	zone	Myki zone 2
+Craigieburn railway station	zone	Myki zone 2
+King George station	zone	3
+Zürich Hauptbahnhof	zone	ZVV: 110
+Porte Maillot	zone	1
+Central railway station, Brisbane	zone	go card 1
+Roma Street railway station	zone	Go card 1
+Fortitude Valley railway station	zone	go card 1
+Exhibition railway station, Brisbane	zone	go card 1
+Bowen Hills railway station	zone	go card 1
+Eagle Junction railway station	zone	go card 2
+Ferny Grove railway station	zone	go card 3
+Alderley railway station, Brisbane	zone	go card 2
+Keperra railway station	zone	go card 3
+Mitchelton railway station	zone	go card 3
+Enoggera railway station	zone	go card 2
+Gaythorne railway station	zone	go card 2/3
+Newmarket railway station, Brisbane	zone	go card 2
+Grovely railway station	zone	go card 3
+Oxford Park railway station	zone	go card 3
+Windsor railway station, Brisbane	zone	go card 1/2
+Wilston railway station	zone	go card 2
+Domestic Terminal railway station, Brisbane	zone	n/a
+International Terminal railway station, Brisbane	zone	n/a
+Wooloowin railway station	zone	go card 2
+Clayfield railway station	zone	go card 2
+Hendra railway station	zone	go card 2
+Albion railway station, Brisbane	zone	go card 1/2
+Ascot railway station, Brisbane	zone	go card 2
+Toombul railway station	zone	go card 2
+Nundah railway station	zone	go card 2
+Northgate railway station, Brisbane	zone	go card 2/3
+Bindha railway station	zone	go card 3
+Banyo railway station	zone	go card 3
+Nudgee railway station	zone	go card 3
+Deagon railway station	zone	go card 4
+North Boondall railway station	zone	go card 4
+Sandgate railway station, Brisbane	zone	go card 4
+Boondall railway station	zone	go card 3/4
+Doomben railway station	zone	go card 2
+Shorncliffe railway station	zone	go card 4
+Geebung railway station	zone	go card 3
+Zillmere railway station	zone	go card 3/4
+Sunshine railway station, Brisbane	zone	go card 3
+Virginia railway station	zone	go card 3
+Metropark station	zone	10
+Secaucus Junction	zone	1
+Melbourne Central railway station	zone	Myki zone 1
+Wodonga railway station	zone	Myki zone 26
+Carseldine railway station	zone	go card 4
+Strathpine railway station	zone	go card 5
+Bald Hills railway station	zone	go card 4/5
+Bray Park railway station	zone	go card 5
+Lawnton railway station	zone	go card 5/6
+Petrie railway station	zone	go card 6
+Dakabin railway station	zone	go card 6/7
+Morayfield railway station	zone	go card 8
+Caboolture railway station	zone	go card 8
+Zürich Altstetten railway station	zone	ZVV 110
+South Brisbane railway station	zone	go card 1
+South Bank railway station, Brisbane	zone	go card 1
+Buranda railway station	zone	go card 2
+Park Road railway station	zone	go card 1/2
+South Station	zone	1.0
+Porter	zone	1.0
+UMass	zone	1.0
+Zürich Stadelhofen railway station	zone	ZVV 110
+North Station	zone	1.0
+Dublin Connolly railway station	zone	Dublin Suburban Rail
+Dublin Pearse railway station	zone	Dublin Suburban Rail
+Anderson Regional Transportation Center	zone	2
+Hoboken Terminal	zone	1
+Pennsylvania Station	zone	1
+Hialeah Market station	zone	6
+Tri-Rail and Metrorail Transfer Station	zone	Miami Airport to Golden Glades
+Mahalaxmi railway station	zone	Western Railways
+Riddells Creek railway station	zone	Myki zone 2
+Macedon railway station	zone	Myki zone 3
+Woodend railway station, Victoria	zone	Myki zone 4
+Gisborne railway station	zone	Myki zone 3
+Kyneton railway station	zone	Myki Zone 6
+Clarkefield railway station	zone	Myki zone 2
+Malmsbury railway station	zone	Myki zone 7
+Kangaroo Flat railway station	zone	Myki zone 12
+Bendigo railway station	zone	Myki Zone 13
+Castlemaine railway station	zone	Myki zone 9
+Chinatown MRT Station	zone	1
+Clarke Quay MRT Station	zone	1
+Dhoby Ghaut MRT Station	zone	1
+Paya Lebar MRT Station	zone	2
+Raffles Place MRT Station	zone	1
+City Hall MRT Station	zone	1
+Outram Park MRT Station	zone	1
+Markham Stouffville Hospital	zone	1
+Nar Nar Goon railway station	zone	Myki zone 3/4 overlap
+Tynong railway station	zone	Myki zone 3/4 overlap
+Garfield railway station	zone	Myki zone 4/5
+Bunyip railway station	zone	Myki zone 4/5 overlap
+Drouin railway station	zone	Myki zone 6
+Longwarry railway station	zone	Myki Zone 5/6 Overlap
+Warragul railway station	zone	Myki Zone 6/7 Overlap
+Tara Street railway station	zone	Dublin Suburban Rail
+Mount Pleasant	zone	5
+Chappaqua	zone	5
+Trafalgar railway station	zone	Myki zone 8/9 overlap
+Yarragon railway station	zone	Myki Zone 8
+Morwell railway station	zone	Myki zone 11
+Moe railway station	zone	Myki zone 9/10 overlap
+Kelvinhall subway station	zone	G
+Hennepin Avenue	zone	Downtown zone
+Opa-locka station	zone	6
+Golden Glades station	zone	6
+Hollywood station	zone	5
+U.S. Bank Stadium	zone	Downtown zone
+Government Plaza	zone	Downtown zone
+Nicollet Mall	zone	Downtown zone
+Sheridan Street station	zone	5
+Amtrak station	zone	Orange County, Florida
+Fort Lauderdale Airport station	zone	5
+Fort Lauderdale station	zone	4
+Union Station	zone	21
+Cypress Creek station	zone	4
+Boca Raton station	zone	3
+Deerfield Beach station	zone	3
+Pompano Beach station	zone	3
+Delray Beach station	zone	2
+Boynton Beach station	zone	2
+Lake Worth station	zone	1
+West Palm Beach station	zone	1
+Mangonia Park station	zone	1
+Currey Road railway station	zone	Central Railways
+Church Street Station	zone	Orange County, Florida
+Bloor GO Station	zone	2
+Malton GO Station	zone	31
+Etobicoke North GO Station	zone	4
+Weston GO Station	zone	4
+Kipling GO Station	zone	3
+Brampton GO Station	zone	33
+Bramalea GO Station	zone	32
+North White Plains	zone	4
+Crestwood	zone	3
+Scarsdale	zone	4
+Fordham	zone	2
+Nollendorfplatz	zone	A
+Dixie GO Station	zone	11
+Cooksville GO Station	zone	11
+Erindale GO Station	zone	12
+Streetsville GO Station	zone	21
+Meadowvale GO Station	zone	22
+Milton GO Station	zone	24
+Route 128 station	zone	2
+Suburban Station	zone	C
+Ogilvie Transportation Center	zone	A
+Princeton Junction station	zone	19
+Newark Liberty International Airport Station	zone	1
+Mitcham tram stop	zone	London fare zones 3, 4, 5 and 6
+Jamaica	zone	3
+Alexandria Union Station	zone	2
+Terminal 1–Lindbergh	zone	Airport zone: Free service to Terminal 2–Humphrey, standard fare to other stations.
+Terminal 2–Humphrey	zone	Airport zone: Free service to Terminal 1–Lindbergh, standard fare to other stations.
+Georgetown GO Station	zone	35
+Mount Pleasant GO Station	zone	34
+Coorparoo railway station	zone	go card 2
+Cannon Hill railway station	zone	go card 2/3
+Norman Park railway station	zone	go card 2
+Murarrie railway station	zone	go card 3
+Morningside railway station	zone	go card 2
+Lindum railway station	zone	go card 3
+Hemmant railway station	zone	go card 3
+Lota railway station	zone	go card 4/5
+Wynnum railway station	zone	go card 4
+Wynnum North railway station	zone	go card 3/4
+Wynnum Central railway station	zone	go card 4
+Birkdale railway station, Brisbane	zone	go card 5
+Manly railway station	zone	go card 4
+Thorneside railway station	zone	go card 5
+Wellington Point railway station	zone	go card 5/6
+Cleveland railway station	zone	go card 6
+Tennyson railway station	zone	3
+Dutton Park railway station	zone	go card 2
+Yeronga railway station	zone	go card 2
+Fairfield railway station, Brisbane	zone	go card 2
+Ormiston railway station	zone	go card 6
+Yeerongpilly railway station	zone	go card 2/3
+Auchenflower railway station	zone	go card 1
+Milton railway station, Brisbane	zone	go card 1
+Taringa railway station	zone	go card 2
+Chelmer railway station	zone	go card 2
+Indooroopilly railway station	zone	go card 2
+Toowong railway station	zone	go card 1/2
+Sherwood railway station, Brisbane	zone	go card 3
+Graceville railway station	zone	go card 2/3
+Wacol railway station	zone	go card 4/5
+Oxley railway station	zone	go card 3
+Corinda railway station	zone	go card 3
+Darra railway station	zone	go card 3/4
+Ruggles	zone	1.0
+McIver railway station	zone	1
+Claisebrook railway station	zone	1
+Perth railway station	zone	1
+York University GO Station	zone	19
+Welshpool railway station, Perth	zone	1
+Elizabeth Quay Bus Station	zone	1
+Curtin University bus station	zone	1
+Holmview railway station	zone	go card 7
+Woodridge railway station	zone	go card 5
+Bethania railway station	zone	go card 6/7
+Loganlea railway station	zone	go card 6
+Kingston railway station, Brisbane	zone	go card 5/6
+Kuraby railway station	zone	go card 5
+Trinder Park railway station	zone	go card 5
+Fruitgrove railway station	zone	go card 4/5
+Altandi railway station	zone	go card 4
+Banoon railway station	zone	go card 4
+Runcorn railway station, Brisbane	zone	go card 4
+Sunnybank railway station	zone	go card 4
+Coopers Plains railway station	zone	go card 3/4
+Moorooka railway station	zone	go card 3
+Salisbury railway station, Brisbane	zone	go card 3
+Goodna railway station	zone	go card 5
+Rocklea railway station	zone	go card 3
+Gailes railway station, Brisbane	zone	go card 5
+Wilmington station	zone	4
+Sharon Hill station	zone	2
+Stirling railway station, Perth	zone	2
+Greenwood railway station	zone	2
+Clarkson railway station, Perth	zone	4
+Bacchus Marsh railway station	zone	Myki zone 2
+Main Street–Science World station	zone	1
+Stadium–Chinatown station	zone	1
+Granville station	zone	1
+Burrard station	zone	1
+Metrotown station	zone	2
+Scott Road station	zone	3
+Murdoch Park 'n' Ride	zone	2
+Chester Transportation Center	zone	3
+Columbia station	zone	2
+Castelldefels railway station	zone	* 1 \n* 2
+Sherwood railway station, Perth	zone	3
+Challis railway station	zone	3
+Armadale railway station, Perth	zone	4
+Kelmscott railway station	zone	3
+Nanaimo station	zone	1
+Patterson station	zone	2
+Royal Oak station	zone	2
+29th Avenue station	zone	1
+Joyce–Collingwood station	zone	1
+Sapperton station	zone	2
+Braid station	zone	2
+Seaforth railway station	zone	3
+Beckenham railway station	zone	2
+Kenwick railway station	zone	2
+Gosnells railway station	zone	3
+Queens Park railway station, Perth	zone	2
+Maddington railway station	zone	2
+Cannington railway station	zone	2
+Malden Center	zone	1.0
+South Geelong railway station	zone	Myki zone 4
+Geelong railway station	zone	Myki Zone 4
+North Geelong railway station	zone	Myki zone 3/4 overlap
+North Shore railway station	zone	Myki zone 3/4 overlap
+Corio railway station	zone	Myki zone 3/4 overlap
+Lara railway station	zone	Myki zone 2-4 overlap
+Little River railway station	zone	Myki zone 2
+Świętokrzyska metro station	zone	1
+Ratusz Arsenał metro station	zone	1
+Centrum metro station	zone	1
+Long Branch GO Station	zone	3
+Exhibition GO Station	zone	2
+Danforth GO Station	zone	6
+Oriole GO Station	zone	5
+Lathlain railway station	zone	1
+Mount Lawley railway station	zone	1
+Victoria Park railway station, Perth	zone	1
+East Perth railway station	zone	1
+Burswood railway station	zone	1
+Oats Street railway station	zone	1
+Carlisle railway station, Perth	zone	1
+Maylands railway station	zone	1
+White Plains	zone	4
+King City GO Station	zone	62
+Newmarket GO Station	zone	64
+Bradford GO Station	zone	65
+Rutherford GO Station	zone	61
+Old Cummer GO Station	zone	5
+East Gwillimbury GO Station	zone	44
+Aurora GO Station	zone	63
+Langstaff GO Station	zone	60
+Richmond Hill GO Station	zone	61
+Maple GO Station	zone	61
+South Attleboro	zone	7
+Centennial GO Station	zone	72
+Agincourt GO Station	zone	7
+Mount Joy GO Station	zone	73
+Unionville GO Station	zone	71
+Kennedy GO Station	zone	77
+Markham GO Station	zone	72
+Milliken GO Station	zone	70
+Stouffville GO Station	zone	74
+Port Credit GO Station	zone	11
+Clarkson GO Station	zone	12
+Rouge Hill GO Station	zone	9
+Bronte GO Station	zone	14
+Appleby GO Station	zone	15
+Burlington GO Station	zone	16
+Scarborough GO Station	zone	6
+Eglinton GO Station	zone	6
+Ajax GO Station	zone	92
+Whitby GO Station	zone	93
+Mimico GO Station	zone	3
+Aldershot GO Station	zone	17
+Hamilton GO Centre	zone	18
+Guildwood GO Station	zone	8
+Pickering GO Station	zone	91
+Oakville GO Station	zone	13
+Oshawa GO Station	zone	94
+Mount Vernon West	zone	3
+Belmont Park railway station	zone	1
+Atlantic Terminal	zone	1
+Lisgar GO Station	zone	23
+Princeton	zone	19
+Stamford Transportation Center	zone	16
+Orchard MRT Station	zone	1
+Somerset MRT Station	zone	1
+Marshall railway station	zone	Myki zone 4
+Thornlie railway station	zone	2
+Trenton Transit Center	zone	22
+Trenton Transit Center	zone	1
+Trenton Transit Center	zone	NJ
+Burpengary railway station	zone	go card 7/8
+Narangba railway station	zone	go card 7
+Foxboro	zone	Special
+Guildford railway station, Perth	zone	2
+East Guildford railway station	zone	2
+Woodbridge railway station, Perth	zone	2
+Success Hill railway station	zone	2
+Ashfield railway station, Perth	zone	2
+Meltham railway station	zone	1
+Midland railway station, Perth	zone	2
+Bassendean railway station	zone	2
+Bayswater railway station, Perth	zone	1
+Pinkenba railway station	zone	2
+Terang railway station	zone	Myki zone 18
+Birregurra railway station	zone	Myki zone 10
+Warrnambool railway station	zone	Myki zone 23
+Jefferson Station	zone	C
+Millbrae station	zone	Caltrain Fare Zone 2
+T. F. Green Airport	zone	9
+Braintree	zone	2
+Showgrounds railway station, Perth	zone	1
+Loch Street railway station	zone	1
+Karrakatta railway station	zone	1
+Shenton Park railway station	zone	1
+Daglish railway station	zone	1
+West Leederville railway station	zone	1
+Subiaco railway station	zone	1
+City West railway station	zone	1
+North Fremantle railway station	zone	2
+Mosman Park railway station	zone	2
+Cottesloe railway station	zone	2
+Grant Street railway station	zone	2
+Victoria Street railway station, Perth	zone	2
+Swanbourne railway station, Perth	zone	2
+Wellington Street bus station	zone	1
+Fremantle railway station	zone	2
+Claremont railway station, Perth	zone	1
+Victoria Park bus station	zone	1
+Morley bus station	zone	1
+Mirrabooka bus station	zone	2
+Karrinyup bus station	zone	2
+Kalamunda bus station	zone	3
+Lucien-L'Allier	zone	1
+Fruitvale station	zone	Bay Area Rapid Transit
+Rockingham bus station	zone	5
+Mandurah Bus Station	zone	7
+Canora	zone	1
+Kwinana bus station	zone	4
+Norristown Transportation Center	zone	3
+Success Park 'n' Ride	zone	3
+Canning Bridge bus station	zone	1
+Booragoon bus station	zone	2
+Surrey Central station	zone	3
+Bugis MRT Station	zone	1
+Mont-Royal	zone	1
+Finch Bus Terminal	zone	YRT Zone 1, GO Transit Zone 5
+Union Station Bus Terminal	zone	2
+Du Ruisseau	zone	2
+Montpellier	zone	1
+Bois-Franc	zone	2
+Deux-Montagnes	zone	5
+Warwick railway station, Perth	zone	2
+Aljunied MRT Station	zone	2
+Kallang MRT Station	zone	2
+Lavender MRT Station	zone	1
+Tanjong Pagar MRT Station	zone	1
+Bras Basah MRT Station	zone	1
+Esplanade MRT Station	zone	1
+Telok Ayer MRT Station	zone	1
+Beenleigh railway station	zone	go card 7/8
+New Westminster station	zone	2
+Coomera railway station	zone	go card 10
+Ormeau railway station	zone	go card 9
+Nerang railway station	zone	go card 13
+Helensvale railway station	zone	go card 12
+Robina railway station	zone	go card 15
+Whitfords railway station	zone	3
+Glendalough railway station	zone	1
+Leederville railway station	zone	1
+Edgewater railway station	zone	3
+Currambine railway station	zone	4
+Joondalup railway station	zone	3
+Basin Bridge railway station	zone	Southern Railway
+LaSalle Street Station	zone	A
+Guelph Central Station	zone	39
+Kitchener railway station	zone	27
+Lougheed Town Centre station	zone	2
+North Prescott Street MAX Station	zone	none
+North Killingsworth Street MAX Station	zone	none
+Château d'Eau	zone	1
+Temple University station	zone	C
+Overbrook station	zone	2
+Merion station	zone	2
+Narberth station	zone	2
+Wynnewood station	zone	2
+Haverford station	zone	2
+Ardmore station	zone	2
+Rosemont station	zone	3
+Bryn Mawr station	zone	3
+Villanova station	zone	3
+Radnor station	zone	3
+St. Davids station	zone	3
+Wayne station	zone	3
+Strafford station	zone	3
+Devon station	zone	3
+Berwyn station	zone	3
+Daylesford station	zone	3
+Thorndale station	zone	4
+Downingtown station	zone	4
+Whitford station	zone	4
+Paoli station	zone	4
+Exton station	zone	4
+Malvern station	zone	4
+Traralgon railway station	zone	Myki zone 12/13 overlap
+Bairnsdale railway station	zone	Myki zone 24
+Plac Wilsona metro station	zone	1
+Racławicka metro station	zone	1
+Wierzbno metro station	zone	1
+St. Catharines railway station	zone	83
+Niagara Falls railway station	zone	84
+Renfrew station	zone	1
+Majorstuen	zone	1
+Melrose Park station	zone	2
+Auber	zone	1
+Magenta	zone	2
+Fox Chase station	zone	2
+Frøen	zone	1
+Production Way–University station	zone	2
+Rupert station	zone	1
+Brentwood Town Centre station	zone	2
+Holdom station	zone	2
+Monmouth Park station	zone	19
+Nation	zone	1
+Gare de Châtelet – Les Halles	zone	1
+Denfert-Rochereau	zone	1
+Charles de Gaulle – Étoile	zone	1
+Invalides	zone	1
+Bibliothèque François Mitterrand	zone	1
+Gare de La Défense	zone	3
+Dundonald Road tram stop	zone	London fare zones 3, 4, 5 and 6
+Blindern	zone	1
+Prospekt Mira	zone	Partially Closed: May 2015-May 2016
+Ullevål stadion	zone	1
+VCC–Clark station	zone	1
+Bekkestua	zone	1
+Queen Street bus station	zone	1
+Dingee railway station	zone	Myki zone 17
+Bernard Terminal	zone	1
+Cultural Centre busway station	zone	1
+Elizabeth Quay railway station	zone	1
+Canning Bridge railway station	zone	1
+Alvarado Transportation Center	zone	Zone B
+Church station	zone	Free fare
+Seneca station	zone	Free fare
+Theater station	zone	Free fare
+Theater station	zone	Paid fare
+Erie Canal Harbor station	zone	Free fare
+Special Events station	zone	Free fare
+Lafayette Square station	zone	Free fare
+Fountain Plaza station	zone	Free fare
+Fountain Plaza station	zone	Paid fare
+Medical Campus station	zone	Free fare
+Medical Campus station	zone	Paid fare
+Summer–Best station	zone	Paid fare
+Utica station	zone	Paid fare
+Amherst Street station	zone	Paid fare
+University station	zone	Paid fare
+LaSalle station	zone	Paid fare
+Canisius College station	zone	Paid fare
+Humboldt–Hospital station	zone	Paid fare
+Bull Creek railway station	zone	2
+South Acton	zone	6
+Willow Grove station	zone	3
+Hatboro station	zone	3
+Warminster station	zone	3
+Crestmont station	zone	3
+Ardsley station	zone	3
+Roslyn station	zone	3
+Glenside station	zone	3
+Jenkintown–Wyncote station	zone	3
+Elkins Park station	zone	2
+Fern Rock Transportation Center	zone	1
+Wayne Junction station	zone	1
+North Broad station	zone	C
+University City station	zone	C
+Curtis Park station	zone	2
+Eastwick station	zone	2
+Glenolden station	zone	2
+Darby station	zone	2
+Norwood station	zone	2
+Folcroft station	zone	2
+Prospect Park station	zone	2
+Ridley Park station	zone	3
+Crum Lynne station	zone	3
+Eddystone station	zone	3
+Highland Avenue station	zone	3
+Marcus Hook station	zone	3
+Claymont station	zone	4
+Churchmans Crossing station	zone	4
+Newark station	zone	4
+Allegheny station	zone	1
+East Falls station	zone	1
+Manayunk station	zone	2
+Spring Mill station	zone	3
+Miquon station	zone	2
+Conshohocken station	zone	3
+Ivy Ridge station	zone	2
+Main Street station	zone	3
+Bala station	zone	2
+Wynnefield Avenue station	zone	1
+Elm Street station	zone	3
+Cynwyd station	zone	2
+Doylestown station	zone	4
+Delaware Valley College station	zone	4
+New Britain station	zone	4
+Colmar station	zone	4
+Fortuna station	zone	4
+Link Belt station	zone	4
+Chalfont station	zone	4
+North Wales station	zone	4
+Gwynedd Valley station	zone	3
+Penllyn station	zone	3
+Ambler station	zone	3
+Fort Washington station	zone	3
+Oreland station	zone	3
+North Hills station	zone	3
+Pennbrook station	zone	4
+Lansdale station	zone	4
+Olney station	zone	1
+Lawndale station	zone	2
+Cheltenham station	zone	2
+Ryers station	zone	2
+49th Street station	zone	1
+Angora station	zone	1
+Fernwood–Yeadon station	zone	2
+Lansdowne station	zone	2
+Gladstone station	zone	2
+Secane station	zone	2
+Clifton–Aldan station	zone	2
+Primos station	zone	2
+Media station	zone	3
+Elwyn station	zone	3
+San Jose Diridon station	zone	4
+Nostrand Avenue	zone	1
+Locust Manor	zone	3
+Arena tram stop	zone	London fare zones 3, 4, 5 and 6
+Landsborough railway station	zone	go card 13
+East New York	zone	1
+Woodside	zone	1
+Beerwah railway station	zone	go card 12
+Glasshouse Mountains railway station	zone	go card 11
+Seawoods–Darave railway station	zone	Western Railways
+Elimbah railway station	zone	go card 9/10
+Beerburrum railway station	zone	go card 10
+Edmonds station	zone	2
+22nd Street station	zone	2
+Gateway station	zone	3
+Finland Station	zone	0
+Avenel	zone	9
+Cooran railway station	zone	go card 23
+New Bridge Landing	zone	6
+River Edge	zone	6
+Quincy Center	zone	1
+Richmond Hill Centre Terminal	zone	1
+Redbank railway station	zone	go card 5/6
+Newmarket Bus Terminal	zone	64
+King George Square busway station	zone	1
+Nambour railway station	zone	go card 17
+Palmwoods railway station	zone	go card 16
+Woombye railway station	zone	go card 17
+Mooloolah railway station	zone	go card 14
+Eudlo railway station	zone	go card 15
+HCC	zone	1
+Wheeler	zone	1
+Morton station	zone	2
+Swarthmore station	zone	3
+Croton Falls	zone	7
+Purdy's	zone	7
+Katonah	zone	6
+Goldens Bridge	zone	6
+Bedford Hills	zone	6
+Pleasantville	zone	5
+Mount Kisco	zone	6
+Hawthorne	zone	5
+Valhalla	zone	5
+Lebanon Road tram stop	zone	London fare zones 3, 4, 5 and 6
+Melrose	zone	2
+Tremont	zone	2
+Botanical Garden	zone	2
+Wakefield	zone	2
+Woodlawn	zone	2
+Williams Bridge	zone	2
+Danbury	zone	42
+Lake City Way station	zone	2
+Hazlet station	zone	16
+Convent Station	zone	12
+Morristown	zone	14
+Newark Broad Street station	zone	2
+Eden's Landing railway station	zone	go card 7
+Yandina railway station	zone	go card 19
+Eumundi railway station	zone	go card 21
+Traveston railway station	zone	go card 23
+Pomona railway station	zone	go card 23
+Gympie North railway station	zone	go card 23
+Cooroy railway station	zone	go card 22
+Dinmore railway station	zone	go card 6
+Ebbw Vale railway station, Brisbane	zone	go card 6
+Riverview railway station	zone	go card 6
+Bundamba railway station	zone	go card 6/7
+East Ipswich railway station	zone	go card 7
+Thomas Street railway station	zone	go card 7
+Ipswich railway station, Queensland	zone	go card 7
+Wulkuraka railway station	zone	go card 7/8
+Booval railway station	zone	go card 7
+Karrabin railway station	zone	go card 8
+Walloon railway station	zone	go card 8
+Thagoona railway station	zone	go card 9
+Rosewood railway station	zone	go card 9
+Mater Hill busway station	zone	1
+South Bank busway station	zone	1
+Woolloongabba busway station	zone	2
+Buranda busway station	zone	2
+Greenslopes busway station	zone	2
+Griffith University busway station	zone	3
+Holland Park West busway station	zone	3
+Eight Mile Plains busway station	zone	4
+Upper Mount Gravatt busway station	zone	3
+Roma Street busway station	zone	1
+Normanby busway station	zone	1
+QUT Kelvin Grove busway station	zone	1
+Herston busway station	zone	1
+Masjid railway station	zone	Central Railways
+Sandhurst Road	zone	Central Railways
+Dockyard Road railway station	zone	Central Railways
+Reay Road railway station	zone	Central Railways
+Theatre District–Convention Center station	zone	A
+Browns Plains bus station	zone	5
+Cannon Hill bus station	zone	2
+Carindale bus station	zone	3
+Chermside bus station	zone	3
+Garden City bus station	zone	3
+Inala bus station	zone	5
+Indooroopilly bus station	zone	2
+Springwood bus station	zone	5
+Toombul bus interchange	zone	2
+Victoria Point bus station	zone	6
+University of Queensland bus station	zone	2
+Caloundra bus station	zone	15
+Pacific Fair bus station	zone	TransLink zone 14/15
+Sunshine Plaza bus station	zone	TransLink zone 17
+Tweed Heads bus station	zone	TransLink zone 19/41
+Noosa Heads bus station	zone	23
+Créteil – L'Échat	zone	1
+2nd Street	zone	1
+9th Street-Congress Street	zone	1
+Pavonia-Newport	zone	1
+Harsimus Cove	zone	1
+Harborside	zone	1
+Exchange Place	zone	1
+West Side Avenue	zone	1
+Garfield Avenue	zone	1
+Liberty State Park	zone	1
+Jersey Avenue	zone	1
+Marin Boulevard	zone	1
+Essex Street	zone	1
+45th Street	zone	1
+34th Street	zone	1
+Richard Street	zone	1
+22nd Street	zone	1
+Lincoln Harbor	zone	1
+École Vétérinaire de Maisons-Alfort	zone	1
+Villejuif – Louis Aragon	zone	3
+Far Hills	zone	17
+Sainte-Dorothée	zone	3
+Point Pleasant Beach station	zone	23
+Capalaba bus station	zone	5
+Murdoch railway station	zone	2
+Sperling–Burnaby Lake station	zone	2
+Gilmore station	zone	2
+Tonnelle Avenue	zone	1
+Bergenline Avenue	zone	1
+Laurelton	zone	3
+Copiague	zone	9
+Champs-Élysées – Clemenceau	zone	1
+Gare de Lyon	zone	1
+Saint-Mandé	zone	2
+Teterboro	zone	4
+Wood-Ridge	zone	3
+Wickford Junction	zone	10
+Montvale	zone	10
+Park Ridge	zone	10
+Woodcliff Lake	zone	10
+Hillsdale	zone	9
+Westwood	zone	9
+Emerson	zone	8
+Oradell	zone	7
+Wallan railway station	zone	Myki zone 2
+Le Kremlin-Bicêtre	zone	2
+Mets–Willets Point	zone	1
+Partick station	zone	G
+Sherwood Park railway station	zone	Myki zone 23
+Rahway station	zone	8
+New Brunswick station	zone	14
+Mastic–Shirley	zone	12
+Airport Station	zone	2
+Upsal station	zone	2
+Allen Lane station	zone	2
+Carpenter station	zone	2
+Chelten Avenue station	zone	2
+Tulpehocken station	zone	2
+St. Martins station	zone	2
+Chestnut Hill East station	zone	2
+Gravers station	zone	2
+Mount Airy station	zone	2
+Sedgwick station	zone	2
+Wyndmoor station	zone	2
+Moscow Savyolovskaya railway station	zone	0
+Moscow Paveletskaya railway station	zone	0
+Moscow Passazhirskaya railway station	zone	0
+I-25 & Broadway station	zone	A
+Choa Chu Kang Bus Interchange	zone	North-West/South-West
+Howth railway station	zone	Dublin Suburban Rail
+Sutton railway station, Dublin	zone	Dublin Suburban Rail
+Bayside railway station	zone	Dublin Suburban Rail
+Howth Junction & Donaghmede railway station	zone	Dublin Suburban Rail
+Kilbarrack railway station	zone	Dublin Suburban Rail
+Raheny railway station	zone	Dublin Suburban Rail
+Harmonstown railway station	zone	Dublin Suburban Rail
+Killester railway station	zone	Dublin Suburban Rail
+Clontarf Road railway station	zone	Dublin Suburban Rail
+Grand Canal Dock railway station	zone	Dublin Suburban Rail
+Lansdowne Road railway station	zone	Dublin Suburban Rail
+Sèvres – Lecourbe	zone	1
+Drogheda railway station	zone	D
+Dundalk railway station	zone	E
+Red Bank station	zone	18
+Linden	zone	7
+Elizabeth	zone	5
+Summit	zone	9
+North Elizabeth	zone	5
+Retiro railway station	zone	Retiro, Buenos Aires
+Sandymount railway station	zone	Dublin Suburban Rail
+Booterstown railway station	zone	Dublin Suburban Rail
+Sydney Parade railway station	zone	Dublin Suburban Rail
+Blackrock railway station	zone	Dublin Suburban Rail
+Salthill and Monkstown railway station	zone	Dublin Suburban Rail
+Dún Laoghaire railway station	zone	Dublin Suburban Rail
+Kongens Nytorv Station	zone	1
+Baltiysky Railway station	zone	0
+Sandycove and Glasthule railway station	zone	Dublin Suburban Rail
+Glenageary railway station	zone	Dublin Suburban Rail
+Dalkey railway station	zone	Dublin Suburban Rail
+Killiney railway station	zone	Dublin Suburban Rail
+Shankill railway station	zone	Dublin Suburban Rail
+Greystones railway station	zone	Dublin Suburban Rail
+Flushing–Main Street	zone	3
+Murray Hill	zone	3
+Broadway	zone	3
+Auburndale	zone	3
+Bayside	zone	3
+Islands Brygge Station	zone	1
+Portmarnock railway station	zone	Dublin Suburban Rail
+Malahide railway station	zone	Dublin Suburban Rail
+Donabate railway station	zone	Dublin Suburban Rail
+Rush and Lusk railway station	zone	Dublin Suburban Rail
+Skerries railway station	zone	Dublin Suburban Rail
+Balbriggan railway station	zone	Dublin Suburban Rail
+Gormanston railway station	zone	B
+Laytown railway station	zone	C
+Haussmann – Saint-Lazare	zone	1
+Downtown Mountain View Station	zone	Fare Zone 3
+Douglaston	zone	3
+Little Neck	zone	3
+Gare RER de Saint Germain-en-Laye	zone	4
+Plandome	zone	4
+Manhasset	zone	4
+Great Neck	zone	4
+Port Washington	zone	4
+Rosedale	zone	3
+Lansdowne station	zone	2
+Richmond–Brighouse station	zone	2
+Aberdeen station	zone	2
+Roselle Park	zone	7
+Union	zone	5
+Cranford	zone	7
+Garwood	zone	8
+Westfield	zone	8
+Fanwood	zone	9
+Netherwood	zone	10
+Plainfield	zone	11
+Hamilton Avenue	zone	1
+Cass Street	zone	1
+Bordentown	zone	1
+Florence	zone	1
+Roebling	zone	1
+Burlington Towne Centre	zone	1
+Burlington South	zone	1
+Edgewater Park	zone	1
+Delanco	zone	1
+Riverside	zone	1
+Cinnaminson	zone	1
+Riverton	zone	1
+Palmyra	zone	1
+Pennsauken–Route 73	zone	1
+36th Street	zone	1
+Aquarium	zone	1
+Cooper Street – Rutgers University	zone	1
+Entertainment Center	zone	1
+Santa Clara station	zone	4
+Pereire	zone	1
+Havre – Caumartin	zone	1
+Hewlett	zone	4
+Gibson	zone	4
+Far Rockaway	zone	4
+Woodmere	zone	4
+Lawrence	zone	4
+Inwood	zone	4
+Cedarhurst	zone	4
+Valley Stream	zone	4
+Rosslare Europort railway station	zone	M
+Réaumur – Sébastopol	zone	1
+Quatre-Septembre	zone	1
+Michel-Ange – Molitor	zone	1
+Boulogne – Jean Jaurès	zone	2
+Michel-Ange – Auteuil	zone	1
+Christianshavn Station	zone	1
+Federico Lacroze railway station	zone	Buenos Aires
+Glenview station	zone	D
+Bridgewater	zone	15
+Woodside tram stop	zone	London fare zones 3, 4, 5 and 6
+Blackhorse Lane tram stop	zone	London fare zones 3, 4, 5 and 6
+Addiscombe tram stop	zone	London fare zones 3, 4, 5 and 6
+Bridgeport station	zone	2
+Forum Station	zone	1
+Vanløse Station	zone	2
+YVR–Airport station	zone	Zone 2, with airport add-fare
+Marine Drive station	zone	1
+Langara–49th Avenue station	zone	1
+Oakridge–41st Avenue station	zone	1
+Merton Park tram stop	zone	London fare zones 3, 4, 5 and 6
+Morden Road tram stop	zone	London fare zones 3, 4, 5 and 6
+Phipps Bridge tram stop	zone	London fare zones 3, 4, 5 and 6
+Belgrave Walk tram stop	zone	London fare zones 3, 4, 5 and 6
+Templeton station	zone	Zone 2, with airport add-fare
+King Edward station	zone	1
+Sea Island Centre station	zone	Zone 2, with Airport add-fare
+Broadway–City Hall station	zone	1
+Olympic Village station	zone	1
+Yaletown–Roundhouse station	zone	1
+Vancouver City Centre station	zone	1
+Beddington Lane tram stop	zone	London fare zones 3, 4, 5 and 6
+Therapia Lane tram stop	zone	London fare zones 3, 4, 5 and 6
+Ampere Way tram stop	zone	London fare zones 3, 4, 5 and 6
+Waddon Marsh tram stop	zone	London fare zones 3, 4, 5 and 6
+Reeves Corner tram stop	zone	London fare zones 3, 4, 5 and 6
+Wandle Park tram stop	zone	London fare zones 3, 4, 5 and 6
+Port Moody railway station	zone	3
+Coquitlam Central station	zone	3
+Madrid Chamartín railway station	zone	A
+Frederiksberg Station	zone	1
+Leixlip Confey railway station	zone	Dublin Suburban Rail
+Leixlip Louisa Bridge railway station	zone	Dublin Suburban Rail
+Marcadet – Poissonniers	zone	1
+Gare du Nord	zone	1
+Étienne Marcel	zone	1
+Mouton-Duvernet	zone	1
+Fieldway tram stop	zone	London fare zones 3, 4, 5 and 6
+Centrale tram stop	zone	London fare zones 3, 4, 5 and 6
+Edison	zone	13
+Metuchen	zone	11
+Jersey Avenue	zone	14
+Hamilton	zone	20
+Saint-Marcel	zone	1
+Gare d'Austerlitz	zone	1
+Bréguet – Sabin	zone	1
+Richard-Lenoir	zone	1
+Wellington Railway Station	zone	1
+Wallingford station	zone	3
+Moylan–Rose Valley station	zone	3
+Dunellen	zone	12
+Bound Brook	zone	14
+Finderne	zone	15
+Somerville	zone	17
+Raritan	zone	17
+North Branch	zone	18
+White House	zone	19
+Lebanon	zone	20
+Annandale	zone	20
+High Bridge	zone	21
+Bretts Wharf	zone	TransLink 2
+Hartsdale	zone	4
+Dahanu Road	zone	Western Railways
+Ernakulam Junction railway station	zone	Southern Railway Zone
+Ørestad Station	zone	3
+Vestamager Station	zone	3
+Tuckahoe	zone	3
+Fleetwood	zone	3
+Bronxville	zone	3
+Bulimba ferry terminal	zone	2
+Teneriffe ferry wharf	zone	2
+New Farm Park ferry wharf	zone	2
+Mowbray Park ferry wharf	zone	2
+Hawthorne ferry wharf	zone	2
+Sydney Street ferry wharf	zone	2
+Dockside ferry wharf	zone	2
+Eagle Street Pier ferry wharf	zone	1
+Holman Street ferry wharf	zone	1
+Riverside ferry wharf	zone	1
+Thornton Street ferry wharf	zone	1
+QUT Gardens Point ferry wharf	zone	1
+Maritime Museum ferry wharf	zone	1
+South Bank ferry wharf	zone	1
+North Quay ferry wharf	zone	2
+Guyatt Park ferry wharf	zone	2
+West End ferry wharf	zone	2
+Regatta ferry wharf	zone	2
+University of Queensland ferry wharf	zone	2
+Minsk Railway station	zone	0
+Mount Vernon East	zone	12
+Pelham	zone	12
+New Rochelle station	zone	12
+Larchmont	zone	13
+Mamaroneck	zone	13
+Harrison	zone	13
+South Norwalk	zone	17
+New Haven State Street station	zone	21
+Rye	zone	14
+Merritt 7	zone	41
+Port Chester	zone	14
+Bridgeport station	zone	19
+Seymour	zone	51
+Beacon Falls	zone	51
+Naugatuck	zone	51
+Noble station	zone	3
+Rydal station	zone	3
+Meadowbrook station	zone	3
+Bethayres station	zone	3
+Philmont station	zone	3
+Forest Hills station	zone	3
+Trevose station	zone	3
+Somerton station	zone	3
+Neshaminy Falls station	zone	3
+Yardley station	zone	4
+Langhorne station	zone	4
+Woodbourne station	zone	4
+West Trenton station	zone	NJ
+Stenton station	zone	2
+Washington Lane station	zone	2
+Wister station	zone	1
+Germantown station	zone	1
+Ansonia	zone	51
+Derby–Shelton	zone	51
+Stratford station	zone	20
+Queen Lane station	zone	1
+Highland station	zone	2
+Chestnut Hill West station	zone	2
+Milford station	zone	20
+Greenwich	zone	15
+Bridesburg station	zone	2
+Tacony station	zone	2
+Holmesburg Junction station	zone	2
+Torresdale station	zone	3
+Eddington station	zone	3
+Cornwells Heights station	zone	3
+Moskovsky railway station	zone	0
+Croydon station	zone	3
+Bristol station	zone	4
+Levittown station	zone	4
+Barrie Transit	zone	69
+Flintholm Station	zone	2
+Varsity Lakes railway station	zone	go card 16
+Bethel	zone	42
+Wellard railway station	zone	4
+Kwinana railway station	zone	4
+Cockburn Central railway station	zone	2
+Mandurah railway station	zone	7
+Warnbro railway station	zone	5
+Rockingham railway station, Perth	zone	5
+Redding	zone	42
+Branchville	zone	42
+Cannondale	zone	--11-12
+Wilton	zone	41
+Castleknock railway station	zone	Dublin Suburban Rail
+Coolmine railway station	zone	Dublin Suburban Rail
+Clonsilla railway station	zone	Dublin Suburban Rail
+Maynooth railway station	zone	Dublin Suburban Rail
+Ashtown railway station	zone	Dublin Suburban Rail
+Broombridge railway station	zone	Dublin Suburban Rail
+Drumcondra railway station	zone	Dublin Suburban Rail
+Seapoint railway station	zone	Dublin Suburban Rail
+Van Buren Street station	zone	A
+Van Buren Street station	zone	1
+Center Street	zone	1
+Riverfront Stadium	zone	1
+Hicksville	zone	7
+DR Byen Station	zone	1
+Lergravsparken Station	zone	1
+Joliet Union Station	zone	H
+Central	zone	Downtown Saint Paul
+Rice Street	zone	Downtown St. Paul
+Robert Street station	zone	Downtown Saint Paul
+Cowcaddens subway station	zone	G
+Buchanan Street subway station	zone	G
+St George's Cross subway station	zone	G
+Kelvinbridge subway station	zone	G
+Hillhead subway station	zone	G
+Govan subway station	zone	G
+Ibrox subway station	zone	G
+Cessnock subway station	zone	G
+Kinning Park subway station	zone	G
+Shields Road subway station	zone	G
+East Norwalk	zone	17
+West Street subway station	zone	G
+Bridge Street subway station	zone	G
+St Enoch subway station	zone	G
+Wellesley Road tram stop	zone	London fare zones 3, 4, 5 and 6
+Winchelsea railway station, Victoria	zone	Myki zone 8
+Colac railway station	zone	Myki zone 11
+Camperdown railway station	zone	Myki Zone 16
+Chaussée d'Antin – La Fayette	zone	1
+Pole Mokotowskie metro station	zone	1
+Politechnika metro station	zone	1
+Amagerbro Station	zone	1
+Château-Landon	zone	1
+Saint-Lambert railway station	zone	3
+Aubervilliers – Pantin – Quatre Chemins	zone	2
+Sully – Morland	zone	1
+Censier – Daubenton	zone	1
+Miami Airport Station	zone	Miami Central to Golden Glades
+Saint-François-Xavier	zone	1
+Ballarat railway station	zone	Myki zone 8
+Stokłosy metro station	zone	1
+Wilanowska metro station	zone	1
+Młociny metro station	zone	1
+École Militaire	zone	1
+La Tour-Maubourg	zone	1
+Richelieu – Drouot	zone	1
+Saint-Sébastien – Froissart	zone	1
+Faidherbe – Chaligny	zone	1
+Alma – Marceau	zone	1
+Cluny – La Sorbonne	zone	1
+Notre-Dame-des-Champs	zone	1
+Trinité – d'Estienne d'Orves	zone	1
+Notre-Dame-de-Lorette	zone	1
+Lamarck – Caulaincourt	zone	1
+Santa Fe Depot	zone	3
+Lorton station	zone	4
+Washington Park	zone	1
+Atlantic Street	zone	1
+Forest Hills	zone	1
+Javel – André Citroën	zone	1
+Boulogne – Pont de Saint-Cloud	zone	2
+East Orange	zone	--06-22
+Brick Church	zone	4
+Orange	zone	4
+Highland Avenue	zone	5
+Mountain Station	zone	5
+South Orange	zone	5
+Maplewood	zone	6
+Millburn	zone	7
+Short Hills	zone	7
+Chatham	zone	10
+Madison	zone	11
+New Providence	zone	9
+Villejuif – Léo Lagrange	zone	2
+Morris Plains	zone	16
+Villejuif – Paul Vaillant-Couturier	zone	2
+Mount Tabor	zone	16
+Denville	zone	16
+Dover	zone	17
+Mount Arlington	zone	19
+Lake Hopatcong	zone	19
+Netcong	zone	19
+Mount Olive	zone	19
+Hackettstown	zone	19
+Murray Hill	zone	10
+Basking Ridge	zone	16
+Gillette	zone	12
+Berkeley Heights	zone	11
+Millington	zone	14
+Lyons	zone	14
+Stirling	zone	14
+Bernardsville	zone	16
+Peapack	zone	18
+Gladstone	zone	18
+Suffern	zone	14
+Upper Montclair	zone	5
+Mountain Avenue	zone	6
+Watchung Avenue	zone	5
+Glen Ridge	zone	4
+Bloomfield	zone	4
+Bay Street	zone	5
+Watsessing Avenue	zone	4
+Walnut Street	zone	5
+Montclair State University	zone	6
+Little Falls	zone	8
+Lincoln Park	zone	10
+Wayne Route 23 Transit Center	zone	9
+Mountain View	zone	9
+Mountain Lakes	zone	14
+Boonton	zone	14
+Great Notch	zone	7
+Montclair Heights	zone	6
+Towaco	zone	11
+Ladozhsky railway station	zone	0
+Moscow Kiyevskaya railway station	zone	0
+Santacruz railway station	zone	Western Railways
+8th Street	zone	1
+Vitebsky railway station	zone	0
+Fairfield station	zone	18
+Clifton	zone	5
+Donnybrook railway station	zone	Myki zone 2
+US 550	zone	Zone C
+Journal Center	zone	Zone B
+Island Park	zone	7
+Eagle Farm railway station	zone	2
+Perambur Loco Works railway station	zone	Southern Railway
+Aspley bus station	zone	4
+Heathcote Junction railway station	zone	Myki zone 2
+Wandong railway station	zone	Myki zone 2
+Kilmore East railway station	zone	Myki zone 3/4 overlap
+Broadford railway station	zone	Myki zone 4/5 overlap
+Tallarook railway station	zone	Myki Zone 5/6 Overlap
+Seymour railway station	zone	Myki zone 6
+Avenel railway station, Victoria	zone	Myki zone 8
+Violet Town railway station	zone	Myki zone 13
+Benalla railway station	zone	Myki zone 16
+Euroa railway station	zone	Myki zone 12
+Wangaratta railway station	zone	Myki zone 20
+Chiltern railway station	zone	Myki Zone 23
+Springhurst railway station	zone	Myki zone 22
+Ballan railway station	zone	Myki zone 4
+Beaufort railway station, Victoria	zone	Myki zone 12
+Ararat railway station	zone	Myki zone 17
+Rosedale railway station, Victoria	zone	Myki zone 14
+Stratford railway station, Victoria	zone	Myki zone 18/19 overlap
+Sale railway station, Victoria	zone	Myki zone 17/18 overlap
+Nagambie railway station	zone	Myki zone 9
+Murchison East railway station	zone	Myki zone 11
+Mooroopna railway station	zone	Myki zone 14
+Rowayton	zone	16
+Konstanzer Straße	zone	A
+Eaglehawk railway station	zone	Myki Zone 13
+Shepparton railway station	zone	Myki zone 15
+Pyramid railway station	zone	Myki zone 21
+Kerang railway station	zone	Myki zone 25
+Swan Hill railway station	zone	Myki zone 31
+Elmore railway station	zone	Myki Zone 14
+Clybourn station	zone	A
+Rogers Park station	zone	B
+Ravenswood station	zone	B
+Evanston Main Street station	zone	C
+Evanston Davis Street station	zone	C
+Wilmette station	zone	C
+Manassas station	zone	6
+Kedzie station	zone	A
+Oak Park station	zone	B
+River Forest station	zone	B
+Maywood station	zone	C
+Bellwood station	zone	C
+Melrose Park station	zone	C
+Berkeley station	zone	C
+Elmhurst station	zone	D
+Cicero station	zone	B
+Villa Park station	zone	D
+Maryborough railway station, Victoria	zone	Myki zone 14
+Creswick railway station	zone	Myki zone 9
+Marpole Loop	zone	1
+White Rock Centre	zone	3
+Kenilworth station	zone	D
+Laraway Road station	zone	H
+Woodbridge station	zone	5
+11th Street station	zone	A
+11th Street station	zone	1
+McCormick Place station	zone	A
+McCormick Place station	zone	1
+63rd Street station	zone	B
+63rd Street station	zone	2
+55th–56th–57th Street station	zone	B
+55th–56th–57th Street station	zone	2
+115th Street station	zone	C
+Hegewisch station	zone	3
+Hammond station	zone	4
+Indian Hill station	zone	D
+Bartlett station	zone	F
+Big Timber Road station	zone	H
+Port Coquitlam railway station	zone	3
+Downtown Bernalillo	zone	Zone C
+Los Lunas	zone	Zone A
+Belen	zone	Zone A
+Rosslare Strand railway station	zone	M
+Bray Daly railway station	zone	Dublin Suburban Rail
+Albury railway station	zone	Myki zone 28
+Kabaty metro station	zone	1
+Natolin metro station	zone	1
+Chennai Beach railway station	zone	Southern Railway
+Wexford railway station	zone	L
+Arklow railway station	zone	G
+Enniscorthy railway station	zone	K
+Gorey railway station	zone	H
+Rathdrum railway station	zone	F
+Wicklow railway station	zone	D
+Kilcoole railway station	zone	Dublin Suburban Rail
+Dworzec Gdański metro station	zone	1
+De La Concorde	zone	3
+South Morang railway station	zone	Myki zone 2
+Mernda railway station	zone	Myki zone 2
+Enfield	zone	D
+Mullingar railway station	zone	G
+Collooney railway station	zone	P
+Ballymote railway station	zone	P
+Carrick-on-Shannon railway station	zone	M
+Boyle railway station	zone	N
+Longford railway station	zone	K
+Dromod railway station	zone	L
+Edgeworthstown railway station	zone	J
+Vendôme	zone	1
+Solana Beach station	zone	1
+Oceanside Transit Center	zone	1
+Imielin metro station	zone	1
+Służew metro station	zone	1
+Ursynów metro station	zone	1
+Quantico station	zone	6
+Fredericksburg station	zone	9
+Brooke station	zone	8
+Leeland Road station	zone	8
+Rolling Road station	zone	4
+Backlick Road station	zone	3
+Rippon station	zone	5
+Manassas Park station	zone	6
+Broad Run station	zone	6
+Burke Centre station	zone	4
+Marymont metro station	zone	1
+Old Town Transit Center	zone	3
+Braeside station	zone	E
+Kew Gardens	zone	1
+Hunterspoint Avenue	zone	1
+Mineola	zone	4
+Merillon Avenue	zone	4
+New Hyde Park	zone	4
+Lynbrook	zone	4
+Babylon	zone	9
+Encinitas station	zone	1
+Floral Park	zone	4
+Forstenrieder Allee	zone	1
+Perambur Carriage Works railway station	zone	Southern Railway
+Haxo	zone	Never opened
+Westbury	zone	7
+Navan Road Parkway railway station	zone	Dublin Suburban Rail
+Sligo Mac Diarmada railway station	zone	R
+Oak Forest station	zone	E
+International Sunport	zone	Zone B
+Westport station	zone	18
+Green's Farms	zone	18
+Southport	zone	18
+Plimptonville	zone	4
+Union Station	zone	4
+Bunour railway station	zone	2
+Meeandah railway station	zone	2
+Terminus Le Carrefour	zone	3
+Saint-Jérôme	zone	7
+Lake Bluff station	zone	G
+Sainte-Thérèse	zone	5
+Sevvapet Road railway station	zone	Southern Railway
+Sandia Pueblo	zone	Zone B
+Isleta Pueblo	zone	Zone B
+Yankees–East 153rd Street	zone	2
+Natick Center	zone	4
+Skøyen Station	zone	1
+Lysaker Station	zone	1
+UQ Lakes busway station	zone	2
+Addington Village Interchange	zone	London fare zones 3, 4, 5 and 6
+New Addington tram stop	zone	London fare zones 3, 4, 5 and 6
+Western Avenue station	zone	A
+Perth Amboy	zone	12
+South Amboy	zone	13
+Aberdeen-Matawan station	zone	15
+Sundby Station	zone	3
+Belmont Park	zone	4
+Amager Strand Station	zone	3
+Øresund Station	zone	3
+Femøren Station	zone	3
+Kastrup Station	zone	4
+Moscow Kurskaya railway station	zone	0
+Moscow Yaroslavskaya railway station	zone	0
+Moscow Rizhskaya railway station	zone	0
+Moscow Smolenskaya railway station	zone	0
+Moscow Kazanskaya railway station	zone	0
+51st–53rd Street	zone	B
+North Philadelphia station	zone	C
+Olympiades	zone	1
+West Hempstead	zone	4
+Westwood	zone	4
+Pepsi Center–Elitch Gardens station	zone	A
+Nine Mile station	zone	C
+Lincoln station	zone	3
+Littleton–Mineral station	zone	C
+30th & Downing station	zone	A
+Norman Park ferry wharf	zone	2
+Auraria West station	zone	A
+Sports Authority Field at Mile High station	zone	A
+Alameda station	zone	A
+Colfax at Auraria station	zone	A
+Oxford–City of Sheridan station	zone	C
+Evans station	zone	B
+Littleton–Downtown station	zone	C
+Englewood station	zone	B
+Orchard station	zone	3
+County Line station	zone	3
+Arapahoe at Village Center station	zone	3
+Dry Creek station	zone	3
+Southmoor station	zone	C
+Dayton station	zone	C
+University of Denver station	zone	B
+Louisiana–Pearl station	zone	B
+Colorado station	zone	B
+Yale station	zone	B
+Belleview station	zone	C
+Patchogue	zone	10
+Parc	zone	1
+Port Jefferson	zone	10
+Medford	zone	10
+Middletown	zone	17
+Huntington	zone	9
+George Street tram stop	zone	London fare zones 3, 4, 5 and 6
+Vadodara Junction railway station	zone	Western Railways
+Vadodara Junction railway station	zone	Vadodara railway division
+University of Chicago station	zone	B
+Borgen	zone	1
+St. Albans	zone	3
+Sayville	zone	10
+Makrellbekken	zone	Zone 1
+Kringsjå	zone	1
+Stony Brook	zone	10
+Montréal-Ouest	zone	1
+Crystal City station	zone	2
+Åsjordet	zone	1
+Delawanna	zone	3
+Lyndhurst	zone	2
+Kingsland	zone	2
+Passaic	zone	4
+Hawthorne	zone	7
+Paterson	zone	6
+Glen Rock–Main Line	zone	8
+Ridgewood	zone	9
+Smithtown	zone	10
+Charenton – Écoles	zone	1
+Mairie de Montrouge	zone	1
+West Haven station	zone	21
+Fairfield Metro	zone	18
+St. James	zone	10
+Ronkonkoma	zone	10
+Ho-Ho-Kus	zone	10
+Dean College	zone	6
+Central Islip	zone	10
+Crofton Downs Railway Station	zone	3
+Harrington Road tram stop	zone	London fare zones 3, 4, 5 and 6
+Kaiwharawhara Railway Station	zone	2
+Petone Railway Station	zone	4
+Ngauranga Railway Station	zone	3
+Nhill railway station	zone	Myki zone 36
+Sorrento Valley station	zone	2
+Carlsbad Village station	zone	1
+Carlsbad Poinsettia station	zone	1
+Pierre et Marie Curie	zone	1
+Dorval	zone	2
+Peterborough Transit	zone	30
+Malakoff – Rue Étienne Dolet	zone	1
+Malakoff – Plateau de Vanves	zone	1
+Greenport	zone	14
+Queens Village	zone	3
+Moore Market Complex railway station	zone	Southern Railway
+Riverhead	zone	14
+Noroton Heights	zone	16
+Darien	zone	16
+Yaphank	zone	12
+Kings Park	zone	10
+Terminus Brossard-Panama	zone	3
+Long Beach	zone	7
+Vista Alegre	zone	A
+Steinerud	zone	1
+Montebello	zone	1
+Oyster Bay	zone	7
+Long Branch station	zone	20
+Haverhill station	zone	7
+Syosset	zone	7
+Homewood station	zone	E
+Docklands railway station	zone	Dublin Suburban Rail
+Palo Alto station	zone	3
+Jankampet railway station	zone	South Central Railway zone
+Lillestrøm Station	zone	2
+Asker Station	zone	2.0
+Coombe Lane tram stop	zone	London fare zones 3, 4, 5 and 6
+Quevedo	zone	A
+Cos Cob	zone	15
+Old Greenwich	zone	15
+Riverside	zone	15
+Glen Rock–Boro Hall	zone	8
+Alna Station	zone	1
+Bryn Station	zone	1
+Fuglebakken station	zone	2
+Bispebjerg station	zone	2
+Grøndal station	zone	2
+Nørrebro station	zone	2
+Ryparken station	zone	2
+Peter Bangs Vej station	zone	2
+Lafarge Lake–Douglas station	zone	3
+Lloyd Park tram stop	zone	London fare zones 3, 4, 5 and 6
+Hanford station	zone	Amtrak California
+Passeig de Gràcia station	zone	1
+Vinderen	zone	1
+Sandvika Station	zone	2.0
+Winter Park station	zone	Orange County, Florida
+Kilcock railway station	zone	B
+Montauk	zone	14
+Target Field	zone	Downtown zone
+Country Life Press	zone	4
+18th Street station	zone	A
+27th Street station	zone	A
+Freeport	zone	7
+Glen Street	zone	7
+Glen Cove	zone	7
+Summit station	zone	C
+La Grange Road station	zone	C
+Naperville station	zone	F
+Garden City	zone	4
+Allendale	zone	11
+47th Street	zone	A
+Waldwick	zone	10
+Ramsey	zone	9
+Trinitat Nova	zone	1
+Radburn	zone	6
+Mahwah	zone	14
+Ramsey Route 17	zone	12
+Rutherford	zone	3
+Garfield	zone	4
+Plauderville	zone	5
+Broadway	zone	6
+Hospital de Bellvitge	zone	1
+Nordstrand Station	zone	1
+Barrie South GO Station	zone	68
+Raver, Maharashtra	zone	Bhusawal railway division
+Sandilands tram stop	zone	London fare zones 3, 4, 5 and 6
+Church Street tram stop	zone	London fare zones 3, 4, 5 and 6
+Wyoming Hill	zone	1
+Brentwood	zone	10
+Provença–Diagonal station	zone	1
+Deer Park	zone	9
+Centre Avenue	zone	7
+Oceanside	zone	7
+Amityville	zone	9
+East Rockaway	zone	7
+Northport	zone	9
+Paral·lel	zone	1
+Canyelles	zone	1
+Roslyn	zone	7
+Greenlawn	zone	9
+Wantagh	zone	7
+Gare de Saint-Rémy-lès-Chevreuse	zone	5
+Glen Head	zone	7
+Plaça d'Espanya station	zone	1
+Cold Spring Harbor	zone	9
+San Francisco 4th and King Street Station	zone	Fare Zone 1
+Bethpage	zone	7
+East Williston	zone	4
+Elberon station	zone	20
+Asbury Park station	zone	21
+Bradley Beach station	zone	21
+Spring Lake station	zone	22
+Manasquan station	zone	23
+Belmar station	zone	22
+Bayshore station	zone	1
+22nd Street station	zone	Fare Zone 1
+Słodowiec metro station	zone	1
+Bhivpuri Road railway station	zone	Central Railways
+Lowjee railway station	zone	Central Railways
+Kelavli railway station	zone	Central Railways
+Dolavli railway station	zone	Central Railways
+Asangaon railway station	zone	Central Railways
+Atgaon railway station	zone	Central Railways
+Kopar railway station	zone	Central Railways
+Kharbao railway station	zone	Central Railways
+Hyde Park	zone	1
+Canton Junction	zone	3
+Albertson	zone	7
+Greenvale	zone	7
+East Hampton	zone	14
+Carterton Railway Station	zone	13
+Bridgehampton	zone	14
+Masterton Railway Station	zone	14
+Sea Cliff	zone	7
+Avenue Road tram stop	zone	London fare zones 3, 4, 5 and 6
+Beckenham Road tram stop	zone	London fare zones 3, 4, 5 and 6
+Gravel Hill tram stop	zone	London fare zones 3, 4, 5 and 6
+King Henry's Drive tram stop	zone	London fare zones 3, 4, 5 and 6
+Farmingdale	zone	7
+Woodside Railway Station, New Zealand	zone	12
+Featherston Railway Station	zone	11
+Glòries station	zone	1
+Nassau Boulevard	zone	4
+Stewart Manor	zone	4
+Bellport	zone	12
+Malverne	zone	4
+Bellmore	zone	7
+Amagansett	zone	14
+Locust Valley	zone	7
+Southampton	zone	14
+Hempstead Gardens	zone	4
+Westhampton	zone	14
+Wawrzyszew metro station	zone	1
+Islip	zone	10
+Lakeview	zone	4
+Bay Shore	zone	10
+Zona Universitària station	zone	1
+Cornellà Centre station	zone	1
+Bellerose	zone	4
+Stare Bielany metro station	zone	1
+Endicott	zone	2
+Readville	zone	2
+Islington	zone	3
+Dedham Corporate Center	zone	2
+College Park station	zone	Fare Zone 4
+Norwood Depot	zone	3
+Norwood Central	zone	3
+South San Francisco station	zone	1
+Urquinaona	zone	1
+Universitat	zone	1
+Marina station	zone	1
+La Sagrera-Meridiana station	zone	1
+Sagrera railway station	zone	1
+Burlingame station	zone	Fare Zone 2
+Broadway station	zone	Fare Zone 2
+San Bruno station	zone	Fare Zone 1
+Carle Place	zone	7
+Oakdale	zone	10
+Lindenhurst	zone	9
+Matarawa Railway Station	zone	13
+Maymorn Railway Station	zone	8
+Speonk	zone	12
+Great River	zone	10
+Sagrada Família	zone	1
+Lesseps	zone	1
+Renall Street Railway Station	zone	14
+Hayward Park station	zone	Fare Zone 2
+San Mateo station	zone	Fare Zone 2
+Hillsdale station	zone	Fare Zone 2
+Castro station	zone	3
+Solway Railway Station	zone	14
+Rockville Centre	zone	7
+San Antonio station	zone	Fare Zone 3
+Belmont station	zone	Fare Zone 2
+San Carlos station	zone	Fare Zone 2
+Gilroy station	zone	Fare zone 6
+Redwood City station	zone	Fare Zone 2
+Zürich Hardbrücke railway station	zone	ZVV 110
+Bois-de-Boulogne	zone	2
+Silver Hill	zone	3
+Glenbrook	zone	31
+Springdale	zone	31
+Urgell	zone	1
+Baldwin	zone	7
+Wyandanch	zone	9
+Atherton station	zone	Fare Zone 3
+Kenosha station	zone	K
+Stanford station	zone	Fare Zone 3
+Holmlia Station	zone	1
+Hampton Bays	zone	14
+Vimont	zone	3
+Sainte-Rose	zone	3
+Beverly Shores station	zone	7
+New Canaan	zone	31
+Talmadge Hill	zone	31
+Cedar Park	zone	1
+Coolaroo railway station	zone	Myki zone 2
+Lynbrook railway station	zone	Myki zone 2
+Cardinia Road railway station	zone	Myki zone 2
+Paul Avenue station	zone	Fare Zone 1
+Deerfield station	zone	E
+Lawrence station	zone	4
+Sunnyvale station	zone	Fare Zone 3
+Capitol station	zone	Fare zone 5
+Blossom Hill station	zone	Fare zone 5
+Morgan Hill station	zone	Fare zone 6
+San Martin station	zone	Fare zone 6
+Upper Hutt Railway Station	zone	7
+Seaford	zone	7
+Waterloo Interchange	zone	4
+Old Bunbury railway station	zone	1
+Palau Reial station	zone	1
+Rocafort	zone	1
+Merrick	zone	7
+Plaça de Catalunya station	zone	1
+Liceu	zone	1
+Mercat Nou	zone	1
+La Bonanova	zone	1
+Sarrià	zone	1
+Avinguda Tibidabo	zone	1
+Parc de Montjuïc	zone	1
+Route 59 station	zone	G
+Massapequa	zone	7
+Vall d'Hebron	zone	1
+Mundet	zone	1
+Montbau	zone	1
+Valldaura	zone	1
+Sants Estació	zone	1
+Plaça de Sants	zone	1
+Attleboro station	zone	7
+Canton Center	zone	3
+Sharon	zone	4
+Stoughton	zone	4
+Mansfield	zone	6
+Massapequa Park	zone	7
+Western Avenue station	zone	A
+Santa Eulàlia	zone	1
+California Avenue station	zone	Fare Zone 3
+Menlo Park station	zone	3
+Melrose Highlands	zone	1
+Harvard station	zone	M
+495	zone	6
+South Chicago	zone	B
+Elburn station	zone	I
+West Medford	zone	1.0
+Wilmington	zone	3
+Rosemère	zone	5
+Crystal Lake station	zone	I
+Gorg station	zone	1
+Yawkey	zone	1.0
+Highland Park station	zone	E
+McHenry station	zone	K
+Mends Street Jetty	zone	1
+Barrack Street Jetty	zone	1
+Tarragona	zone	1
+Lawrence	zone	6
+Andover	zone	5
+Bradford	zone	7
+Hillside Facility	zone	No Fare
+Randolph	zone	3
+West Concord Depot	zone	5
+Concord	zone	5
+Drassanes	zone	Autoritat del Transport Metropolità
+Europa – Fira station	zone	1
+Woodstock station	zone	K
+Manhattan station	zone	I
+Geneva station	zone	H
+Irving Park station	zone	B
+East Braintree	zone	2
+Lombard station	zone	D
+East Weymouth	zone	2
+West Hingham	zone	3
+Nantasket Junction	zone	4
+North Scituate	zone	5
+Cohasset	zone	4
+Greenbush	zone	6
+San Rafael Transit Center	zone	1
+McMasterville	zone	6
+Saint-Basile-le-Grand	zone	5
+Longueuil–Saint-Hubert	zone	3
+Saint-Bruno	zone	5
+Mont-Saint-Hilaire	zone	6
+Ravinia station	zone	E
+Wellesley Farms	zone	3
+Belmont Center	zone	1
+Lowell	zone	6
+Gresham station	zone	B
+Blue Island station	zone	D
+Pinelawn	zone	9
+Ayer	zone	8
+Route 495	zone	7
+Norwood Park station	zone	C
+Glencoe station	zone	D
+Le Vésinet – Le Pecq	zone	4
+Le Vésinet – Centre	zone	4
+Nanterre – Ville	zone	3
+Rueil-Malmaison	zone	3
+Chatou – Croissy	zone	4
+Dune Park station	zone	6
+Hersey	zone	2
+Glen Ellyn station	zone	E
+Norfolk	zone	5
+West Chicago station	zone	F
+Wheaton station	zone	E
+Winfield station	zone	F
+College Avenue station	zone	E
+Lincolnville GO Station	zone	74
+La Fox station	zone	I
+Les Tres Torres	zone	1
+Halsted Street station	zone	A
+Cicero station	zone	B
+La Vergne station	zone	B
+Berwyn station	zone	B
+Harlem Avenue station	zone	B
+Riverside station	zone	C
+McMaster University Bus Terminal	zone	18
+Hollywood station	zone	C
+Brookfield station	zone	C
+Congress Park station	zone	C
+Stone Avenue station	zone	C
+Western Springs station	zone	D
+Belmont station	zone	E
+Fairview Avenue station	zone	E
+Downers Grove Main Street station	zone	E
+Erode Junction railway station	zone	Southern Railway zone
+O'Hare Transfer station	zone	D
+Tinley Park station	zone	E
+Lisle station	zone	E
+Palatine station	zone	F
+Highlands station	zone	D
+Gladstone Park station	zone	B
+Vermont Street station	zone	D
+Hinsdale station	zone	D
+West Hinsdale station	zone	D
+Westmont station	zone	D
+Clarendon Hills station	zone	D
+Aurora Transportation Center	zone	H
+Wrightwood station	zone	C
+Ashburn station	zone	C
+Oak Lawn station	zone	D
+Chelsea	zone	1.0
+Chicago Ridge station	zone	D
+Orland Park 153rd Street station	zone	E
+Orland Park 179th Street station	zone	F
+Orland Park 143rd Street station	zone	E
+Palos Park station	zone	E
+Palos Heights station	zone	D
+Worth station	zone	D
+Willow Springs station	zone	D
+Lemont station	zone	E
+Lockport station	zone	G
+River Grove station	zone	C
+Belmont Avenue station	zone	C
+University Park station	zone	G
+Schiller Park station	zone	C
+Prospect Heights station	zone	E
+Rosemont station	zone	D
+Wheeling station	zone	F
+Buffalo Grove station	zone	F
+Prairie View station	zone	G
+Vernon Hills station	zone	G
+Mundelein station	zone	H
+Prairie Crossing station	zone	H
+Washington Street station	zone	I
+Round Lake Beach station	zone	J
+Lake Villa station	zone	J
+Antioch station	zone	K
+Hanson Park station	zone	B
+Galewood station	zone	B
+Mars station	zone	B
+Elmwood Park station	zone	C
+Mont Clare station	zone	B
+Frankford Junction	zone	1
+Franklin Park station	zone	C
+Mannheim station	zone	C
+Bensenville station	zone	D
+Wood Dale station	zone	D
+Winnetka station	zone	D
+Itasca station	zone	E
+Hanover Park station	zone	F
+Medinah station	zone	E
+Schaumburg station	zone	F
+Roselle station	zone	E
+National Street station	zone	H
+Elgin station	zone	H
+Healy station	zone	B
+Winthrop Harbor station	zone	I
+Prairie Crossing station	zone	H
+Jefferson Park Transit Center	zone	B
+Montello	zone	4
+Brockton	zone	4
+Lakeville	zone	8
+Bridgewater	zone	6
+Campello	zone	5
+Highwood station	zone	E
+Blainville	zone	6
+Greenwood	zone	2
+Wakefield	zone	2
+Reading	zone	2
+Burquitlam station	zone	3
+Inlet Centre station	zone	3
+Ogden Dunes station	zone	6
+Miller station	zone	5
+Ngaio Railway Station	zone	3
+Awarua Street Railway Station	zone	3
+Simla Crescent Railway Station	zone	3
+Adam Benjamin Metro Center	zone	5
+Box Hill Railway Station, Wellington	zone	3
+Roslindale Village	zone	1
+Khandallah Railway Station	zone	3
+Raroa Railway Station	zone	3
+Johnsonville Railway Station	zone	3
+Needham Center	zone	2
+Needham Junction	zone	2
+Highland	zone	1
+Bellevue	zone	1
+Needham Heights	zone	2
+West Roxbury	zone	1
+Woodhaven Junction	zone	1
+Ozone Park	zone	1
+Brooklyn Manor	zone	1
+River Works	zone	2
+Rego Park	zone	1
+Ravinia Park station	zone	E
+Mayfair station	zone	B
+Fox Lake station	zone	J
+Hubbard Woods station	zone	D
+Zion station	zone	I
+Lynn	zone	2
+Waukegan station	zone	H
+Swampscott	zone	3
+Salem	zone	3
+Washington Heights	zone	C
+111th Street–Morgan Park	zone	C
+95th Street–Beverly Hills	zone	C
+Longwood station	zone	C
+123rd Street – Blue Island	zone	D
+119th Street – Blue Island	zone	C
+Prairie Street station	zone	D
+Beverly Depot	zone	4
+Montserrat	zone	4
+Prides Crossing	zone	5
+Beverly Farms	zone	5
+Manchester	zone	6
+West Gloucester	zone	7
+Gloucester	zone	7
+Rockport	zone	8
+North Beverly	zone	5
+Ipswich	zone	6
+Wenham	zone	5
+Rowley	zone	7
+Newburyport	zone	8
+Libertyville station	zone	H
+Grayslake station	zone	I
+Gary Airport station	zone	5
+11th Street station	zone	8
+Tinley Park – 80th Avenue station	zone	E
+Hudson Lake station	zone	10
+Fox River Grove station	zone	H
+South Weymouth	zone	3
+Whitman	zone	5
+Hanson	zone	6
+Abington	zone	4
+Halifax	zone	7
+Route 3	zone	8
+Plymouth	zone	8
+91st Street–Beverly Hills	zone	C
+99th Street–Beverly Hills	zone	C
+103rd Street–Beverly Hills	zone	C
+115th Street–Morgan Park	zone	C
+Doboy railway station	zone	3
+Windsor Gardens	zone	4
+Fairmount	zone	1.0
+Morton Street	zone	1.0
+Uphams Corner	zone	1.0
+Newtonville station	zone	1
+West Newton	zone	2
+Auburndale	zone	2
+Wellesley Hills	zone	3
+Wellesley Square station	zone	3
+West Natick	zone	4
+Ashland	zone	6
+Southborough	zone	6
+Grafton	zone	8
+Westborough	zone	7
+107th Street–Beverly Hills	zone	C
+Lake Cook Road station	zone	E
+Forest Glen station	zone	C
+North Wilmington	zone	3
+Ballardvale	zone	4
+Lufthavnen Station	zone	4
+Ingleside station	zone	J
+Grayland station	zone	B
+North Chicago station	zone	G
+Pitt Meadows railway station	zone	43
+Maple Meadows railway station	zone	43
+Port Haney railway station	zone	43
+Mission City railway station	zone	5
+Wedgemere	zone	1
+Mishawum	zone	2
+Winchester Center	zone	1
+North Billerica	zone	5
+107th Street station	zone	C
+111th Street	zone	C
+Waverley	zone	1
+Roberts	zone	2
+Waltham	zone	2
+Kendal Green	zone	3
+Hastings	zone	3
+Lincoln	zone	4
+Shirley	zone	8
+North Leominster	zone	8
+Fitchburg	zone	8
+Richton Park station	zone	F
+Brainerd station	zone	C
+Lake Forest station	zone	F
+Lake Forest station	zone	F
+Great Lakes station	zone	G
+Des Plaines station	zone	D
+Edison Park station	zone	C
+Quattro Venti railway station	zone	Urban
+North Glenview station	zone	D
+Northbrook station	zone	E
+West Pullman station	zone	D
+147th Street	zone	D
+87th Street	zone	B
+83rd Street	zone	B
+Sant Andreu Comtal railway station	zone	1
+Sant Andreu Arenal railway station	zone	1
+State Street station	zone	D
+El Clot-Aragó railway station	zone	1
+Stony Island	zone	B
+Harvey station	zone	D
+Square One Bus Terminal	zone	20
+Oshawa Bus Terminal	zone	94
+211th Street	zone	F
+Riverdale station	zone	D
+Stewart Ridge station	zone	D
+103rd Street	zone	C
+Reina Elisenda	zone	1
+Poble Sec	zone	1
+75th Street	zone	B
+Cumberland station	zone	D
+Park Ridge station	zone	C
+Arc de Triomf station	zone	1
+Wissahickon station	zone	2
+Bellvitge	zone	1
+Golf station	zone	D
+Morton Grove station	zone	C
+Edgebrook station	zone	C
+Round Lake station	zone	I
+Long Lake station	zone	J
+Matteson station	zone	F
+Fort Sheridan station	zone	F
+Gràcia	zone	1
+Fontana	zone	1
+Apollo Road ferry wharf	zone	2
+Dee Road station	zone	C
+Avinguda Carrilet station	zone	1
+Arlington Heights station	zone	E
+Arlington Park station	zone	E
+Sant Gervasi	zone	1
+Can Serra	zone	1
+Vincennes	zone	2
+Tukwila station	zone	King County Zone
+South Shore	zone	B
+Val de Fontenay	zone	3
+New Lenox station	zone	G
+Robbins station	zone	D
+Carroll Avenue station	zone	8
+East Chicago station	zone	4
+Cheltenham	zone	B
+Bryn Mawr	zone	B
+Windsor Park	zone	B
+Chicago State University station	zone	C
+Pyrmont Bay ferry wharf	zone	MyZone 2
+Salt Lake City Intermodal Hub	zone	Utah Transit Authority
+Wonderland Terminal	zone	GO Transit zone 61, YRT zone 1
+Midlothian station	zone	D
+Aarhus Central Station	zone	1
+Vallcarca	zone	1
+Barrio de la Concepción	zone	A
+Ullernåsen	zone	1
+Gjønnes	zone	1
+Haslum	zone	1
+Grorud Station	zone	1
+Nyland Station	zone	1
+Haugenstua Station	zone	1
+Høybråten Station	zone	1
+Stabekk Station	zone	1
+Høvik Station	zone	2.0
+Blommenholm Station	zone	2.0
+Slependen Station	zone	2.0
+Billingstad Station	zone	2.0
+Hvalstad Station	zone	2.0
+Høn Station	zone	2.0
+Vakås Station	zone	2.0
+Ljan Station	zone	1
+Hauketo Station	zone	1
+Santiago Bernabéu	zone	A
+Hostafrancs	zone	1
+Landungsbrücken station	zone	0
+Hamburg Dammtor station	zone	Public transport: 000
+Holstenstrasse station	zone	101
+Sternschanze station	zone	0
+Berliner Tor station	zone	HVV: 000, 105, 106
+Jungfernstieg station	zone	0
+Barmbek station	zone	103105
+Nueva Numancia	zone	A
+Gallivan Plaza	zone	Utah Transit Authority
+Temple Square	zone	Utah Transit Authority
+Planetarium	zone	Utah Transit Authority
+Arena	zone	Utah Transit Authority
+City Center	zone	Utah Transit Authority
+Old GreekTown	zone	Utah Transit Authority
+Library	zone	Utah Transit Authority
+Courthouse	zone	Utah Transit Authority
+Lohmühlenstraße	zone	0
+79th Street	zone	B
+Richtweg	zone	503
+Mount Prospect station	zone	D
+Ivanhoe station	zone	D
+Barrington station	zone	G
+Torre del Baró railway station	zone	1
+Pingree Road station	zone	I
+Epuni Railway Station	zone	5
+Clarenceville	zone	1
+Racine Avenue station	zone	D
+Ashland Avenue station	zone	D
+Cary station	zone	H
+Rosa Parks Hempstead Transit Center	zone	4
+Burr Oak station	zone	D
+South Bend Airport station	zone	11
+Mokena station	zone	F
+Hickory Creek station	zone	F
+Framingham Railroad Station	zone	5
+Wesmont	zone	4
+Meßberg	zone	0
+Bedford Depot	zone	3
+Wilhelmsburg station	zone	108208
+Veddel station	zone	108
+Plaça del Centre	zone	1
+91st Street	zone	C
+87th Street	zone	C
+83rd Street	zone	C
+Hazel Crest station	zone	E
+Wendouree railway station	zone	Myki zone 8
+Evanston Central Street station	zone	C
+Calumet station	zone	E
+Flossmoor station	zone	E
+Olympia Fields station	zone	F
+Clyde station	zone	B
+Amenia	zone	10
+Allandale Waterfront GO Station	zone	69
+Île-Bigras	zone	3
+Jolarpettai Junction railway station	zone	Southern Railway
+Philadelphia International Airport stations	zone	4
+Richlands railway station	zone	go card 4/5
+Vasai Road railway station	zone	Western Railways
+Roxboro-Pierrefonds	zone	2
+Sunnybrooke	zone	2
+Grand-Moulin	zone	5
+Chabanel	zone	1
+Wallaceville Railway Station	zone	7
+Trentham Railway Station	zone	Boundary of 6 & 7
+Heretaunga Railway Station	zone	6
+Silverstream Railway Station	zone	6
+Bjørnsletta	zone	1
+Manor Park Railway Station, New Zealand	zone	6
+Aeropuerto T1-T2-T3	zone	A
+Avenida de América	zone	A
+Roquetes	zone	1
+Santa Fe Depot	zone	Zone F
+Zia Road	zone	Zone F
+South Capitol	zone	Zone F
+NM 599	zone	Zone E
+Les Agnettes	zone	3
+Asnières – Gennevilliers – Les Courtilles	zone	3
+Gabriel Péri	zone	3
+Brochant	zone	1
+Rambla Just Oliveras	zone	1
+Porte de Clichy	zone	1
+Penitents	zone	1
+Maria Cristina station	zone	1
+Pont du Garigliano	zone	1
+Versailles-Château	zone	4
+Gare de Versailles – Chantiers	zone	4
+Les Corts	zone	1
+Hansfield railway station	zone	Dublin Suburban Rail
+Kei Lun Stop	zone	3
+Dunboyne railway station	zone	Dublin Suburban Rail
+Ching Chung Stop	zone	3
+Kin Sang Stop	zone	3
+Tin King Stop	zone	3
+Leung King Stop	zone	3
+Tuen Mun Hospital Stop	zone	3
+San Wai Stop	zone	3
+Tai Tong Road Stop	zone	5
+Hong Lok Road Stop	zone	5
+Fung Nin Road Stop	zone	5
+Shui Pin Wai Stop	zone	5
+Ping Shan Stop	zone	4
+Nai Wai Stop	zone	3
+Chung Uk Tsuen Stop	zone	3
+Tong Fong Tsuen Stop	zone	4
+Hung Shui Kiu Stop	zone	4
+Lam Tei Stop	zone	3
+Fung Tei Stop	zone	3
+Affluence Stop	zone	2
+Ngan Wai Stop	zone	2
+Tai Hing	zone	2
+Tai Hing	zone	2
+Shek Pai Stop	zone	2
+Ming Kum Stop	zone	2
+Shan King	zone	2
+Shan King	zone	2
+Kin On Stop	zone	2
+Town Centre Stop	zone	2
+On Ting Stop	zone	2
+Yau Oi Stop	zone	2
+Ho Tin Stop	zone	2
+Choy Yee Bridge Stop	zone	2
+Siu Lun Stop	zone	1
+Sam Shing Stop	zone	1
+Siu Hei Stop	zone	1
+Tuen Mun Swimming Pool Stop	zone	1
+Goodview Garden Stop	zone	1
+Tuen Mun Ferry Pier Stop	zone	1
+Pui To Stop	zone	2
+San Hui Stop	zone	2
+Hoh Fuk Tong Stop	zone	2
+Prime View Stop	zone	2
+Butterfly Stop	zone	1
+Light Rail Depot Stop	zone	1
+Tsing Shan Tsuen Stop	zone	2
+Lung Mun Stop	zone	1
+Tsing Wun Stop	zone	2
+Melody Garden Stop	zone	1
+Hang Mei Tsuen Stop	zone	4
+Tin Wing Stop	zone	4
+Tin Yat Stop	zone	5.0
+Ginza Stop	zone	4
+Tin Wu Stop	zone	4
+Tin Tsz Stop	zone	4
+Tin Yuet Stop	zone	5.0
+Chestwood Stop	zone	4
+Chung Fu Stop	zone	5.0
+Tin Fu Stop	zone	5.0
+Wetland Park Stop	zone	5.0
+Tin Heng Stop	zone	5.0
+Tin Sau Stop	zone	5.0
+Tin Shui Stop	zone	4
+Locwood Stop	zone	4
+Tin Yiu Stop	zone	4
+Bergshamra metro station	zone	A
+Clunes railway station, Victoria	zone	Myki zone 11
+M3 Parkway railway station	zone	Dublin Suburban Rail
+Lanskaya railway station	zone	1
+Pueblo Nuevo	zone	A
+Coimbatore Junction railway station	zone	Southern Railway zone
+Novaya Derevnya	zone	2
+Ringstabekk	zone	1
+Lakhta railway station	zone	3
+Airport T2 station	zone	* 1 \n* 4
+Yakhtennaya	zone	3
+Løren	zone	1
+Sharon	zone	12
+Coleman's	zone	12
+Reeperbahn station	zone	0
+Hamburg Airport station	zone	203
+Rochedale busway station	zone	4
+Ohlsdorf station	zone	103105203204
+Svendborg station	zone	3
+Florida	zone	1
+Habibganj railway station	zone	West Central Railway zone
+Muntaner	zone	1
+Chembur railway station	zone	Central Railways
+Nuevos Ministerios	zone	A
+Zürich Oerlikon railway station	zone	ZVV 110
+Les Planes	zone	1
+El Putxet	zone	1
+Vadala Road railway station	zone	Central Railways
+Pàdua	zone	1
+Ligovo railway station	zone	2
+Torrassa	zone	1
+Tirunelveli Junction railway station	zone	Southern Railway
+The Raunt	zone	1
+Ujjain Junction railway station	zone	Western Railway zone
+Vikramnagar railway station	zone	Western Railway Zone
+Plaça Molina	zone	1
+University of the Sunshine Coast bus station	zone	16
+Bhopal Junction railway station	zone	West Central Railway
+Danforth Avenue	zone	1
+Martin Luther King Drive	zone	1
+Commercial–Broadway station	zone	City of Vancouver + University Endowment Lands
+Waterbury	zone	51
+PSU Urban Center stations	zone	2009
+PSU Urban Center stations	zone	2012
+Yuen Long Stop	zone	5
+Acton GO Station	zone	37
+Mairie de Saint-Ouen	zone	1
+Carrefour Pleyel	zone	1
+Saint-Denis – Porte de Paris	zone	1
+Tuen Mun Stop	zone	2
+Latur railway station	zone	Central Railway
+Khurai railway station	zone	West Central Railway zone
+Siu Hong Stop	zone	3
+Pune Junction railway station	zone	Central Railway zone
+Cragin station	zone	B
+Hermosa station	zone	B
+Tin Shui Wai Stop	zone	4
+Jabalpur Junction railway station	zone	West Central Railway
+Tweed City bus station	zone	TransLink zone 40/21
+Saugor railway station	zone	West Central Railway zone
+Lachine	zone	1
+Pine Beach	zone	2
+Valois	zone	2
+Pointe-Claire	zone	2
+Cedar Park	zone	2
+Beaconsfield	zone	3
+Beaurepaire	zone	3
+Baie-D'Urfé	zone	3
+Sainte-Anne-de-Bellevue	zone	3
+Terrasse-Vaudreuil	zone	4
+Dorion	zone	5
+Île-Perrot	zone	4
+Hudson	zone	6
+Vaudreuil	zone	5
+Rigaud	zone	5
+Boggo Road busway station	zone	2
+PA Hospital busway station	zone	2
+LaSalle	zone	1
+Juridicum	zone	2600
+Butler railway station	zone	5
+Perambur railway station	zone	Southern Railway
+Rondo Daszyńskiego metro station	zone	1
+Gwalior Junction railway station	zone	Jhansi Division, Northern Central Railway
+Rondo ONZ metro station	zone	1
+Nowy Świat-Uniwersytet metro station	zone	1
+Centrum Nauki Kopernik metro station	zone	1
+Winfield Junction	zone	3
+Plaza Saltillo	zone	Downtown-Kramer
+Downtown	zone	Downtown-Kramer
+MLK Jr.	zone	Downtown-Kramer
+Highland	zone	Downtown-Kramer
+Crestview	zone	Downtown-Kramer
+Kramer	zone	Downtown-Kramer
+Howard	zone	Howard-Leander
+Lakeline	zone	Howard-Leander
+Leander	zone	Howard-Leander
+Springfield Gardens	zone	3
+Holtsville	zone	10
+Woodhaven	zone	1
+Mill Neck	zone	7
+Bayport	zone	10
+Blue Point	zone	10
+Brookhaven	zone	12
+Setauket	zone	10
+Southampton Campus	zone	14
+Shinnecock Hills	zone	14
+South Farmingdale	zone	7
+Can Peixauet	zone	1
+Corona	zone	1
+Elmhurst	zone	1
+Quogue	zone	14
+Laxmibai Nagar Junction railway station	zone	Western Railway Zone
+Saifi Nagar railway station	zone	Western Railway Zone
+Patalpani railway station	zone	Western Railway Zone
+Lokmanya Nagar railway station	zone	Western Railway Zone
+Govindpuri railway station	zone	North Central Railways
+Cairoli	zone	Urban
+Cordusio	zone	Urban
+Salem Junction railway station	zone	Southern Railway
+Anderson Street	zone	5
+Higbie Avenue	zone	3
+Fairmount Avenue	zone	5
+Essex Street	zone	5
+Podlipki-Dachnye railway station	zone	3
+Lausanne-Flon station	zone	11
+Moskva-3 railway station	zone	1
+Birlanagar Junction railway station	zone	North Central Railway Zone
+Indore Junction railway station	zone	Western Railway zone
+Gran Vía	zone	A
+Duomo	zone	Urban
+Etxebarri	zone	Metro Bilbao
+Basarrate	zone	Metro Bilbao
+Santutxu	zone	Metro Bilbao
+Moyua	zone	Metro Bilbao
+Indautxu	zone	Metro Bilbao
+10th Street	zone	Downtown Saint Paul
+Palestro	zone	Urban
+San Babila	zone	Urban
+Deusto	zone	Metro Bilbao
+Montenapoleone	zone	Urban
+Turati	zone	Urban
+Etterbeek railway station	zone	Brussels
+Missori	zone	Urban
+Crocetta	zone	Urban
+Porta Romana	zone	Urban
+Ollur railway station	zone	Southern Railway Zone
+Gare de Groslay	zone	4
+Gare de Sarcelles-Saint-Brice	zone	4
+Gare de Deuil-Montmagny	zone	4
+San Inazio	zone	Metro Bilbao
+Sarriko	zone	Metro Bilbao
+Victory	zone	Eastern TRE Fare Zone
+Cadorna	zone	Urban
+Conciliazione	zone	Urban
+Sant'Ambrogio	zone	Urban
+Sant'Agostino	zone	Urban
+Lanza	zone	Urban
+Moscova	zone	Urban
+Gare d'Épinay-Villetaneuse	zone	IDF/3
+Gare d'Écouen-Ézanville	zone	4
+Gare de Domont	zone	4
+Lutxana	zone	Metro Bilbao
+Erandio	zone	Metro Bilbao
+Astrabudua	zone	Metro Bilbao
+Leioa	zone	Metro Bilbao
+Porta Venezia	zone	Urban
+Lima	zone	Urban
+Repubblica	zone	Urban
+Garibaldi FS	zone	Urban
+Gare de Bouffémont-Moisselles	zone	5
+Gare de Nointel-Mours	zone	5
+Gare de Presles-Courcelles	zone	5
+Gare de Montsoult-Maffliers	zone	5
+Gare de Persan-Beaumont	zone	5
+Lamiako	zone	Metro Bilbao
+Kewa Pueblo	zone	Zone D
+Areeta	zone	Metro Bilbao
+Gobela	zone	Metro Bilbao
+Neguri	zone	Metro Bilbao
+Gare de Villaines	zone	5
+Gare de Belloy – Saint-Martin	zone	5
+Gare de Viarmes	zone	5
+Gare de Seugy	zone	5
+Lozova railway station	zone	Southern Ukrainian Railways
+Yesvantpur Junction railway station	zone	South Western Railway zone
+Grand Street	zone	1
+Kharkiv railway station	zone	Southern Ukrainian Railways
+Krishnarajapuram railway station	zone	South Western Railway zone
+Gare de Bornel-Belle-Église	zone	5
+Porte Molitor	zone	N/A
+Thrissur KSRTC Bus Station	zone	Central Zone, Thrissur
+Parappanangadi railway station	zone	Southern Railway Zone
+Aiboa	zone	Metro Bilbao
+Algorta	zone	Metro Bilbao
+Bidezabal	zone	Metro Bilbao
+Berango	zone	Metro Bilbao
+Gare de L'Isle-Adam – Parmain	zone	5
+Gare de Mériel	zone	5
+Gare de Méry-sur-Oise	zone	5
+Gare de Frépillon	zone	5
+Gare de Bessancourt	zone	5
+Gare de Taverny	zone	4
+Gare de Saint-Leu-la-Forêt	zone	4
+Gare de Vaucelles	zone	4
+Gare du Gros Noyer – Saint-Prix	zone	4
+Gare d'Ermont-Halte	zone	4
+Goose Creek	zone	1
+Bon Pastor	zone	1
+Gare de Luzarches	zone	5
+Gare du Champ de courses d'Enghien	zone	5
+Gare d'Enghien-les-Bains	zone	4
+Gare de La Barre-Ormesson	zone	5
+Weehawken Port Imperial	zone	1
+Larrabasterra	zone	Metro Bilbao
+Cochin Harbour Terminus railway station	zone	Southern Railway \n / division=Trivandrum
+Mandhana Junction railway station	zone	North Eastern Railway Zone
+Pantin	zone	2
+Marina South Pier MRT Station	zone	1
+Gare de Versailles-Rive-Droite	zone	4
+Gare de Montreuil	zone	4
+Gare de Saint-Cloud	zone	3
+Gare de Sèvres – Ville-d'Avray	zone	3
+Clongriffin railway station	zone	Dublin Suburban Rail
+Lynx Central Station	zone	Orange County, Florida
+Sopela	zone	Metro Bilbao
+Urduliz	zone	Metro Bilbao
+Plentzia	zone	Metro Bilbao
+Tatanagar Junction railway station	zone	South Eastern Railway
+Udyog Nagar metro station	zone	North-West Zone
+Chinchwad railway station	zone	Central Railway zone
+Zürich Airport railway station	zone	ZVV 121
+Cruces	zone	Metro Bilbao
+Williams Landing railway station	zone	Myki zone 2
+Uttam Nagar East metro station	zone	Delhi Metro
+Ansio	zone	Metro Bilbao
+Lodi T.I.B.B.	zone	Urban
+Nervión	zone	1
+Gran Plaza	zone	1
+1º de Mayo	zone	1
+Amate	zone	1
+San Bernardo railway station	zone	1
+Prado de San Sebastián	zone	1
+La Plata	zone	1
+Puerta Jerez	zone	1
+Plaza de Cuba	zone	1
+Parque de los Príncipes	zone	1
+Cocheras	zone	1
+Platja de Castelldefels railway station	zone	* 1 \n* 2
+Blas Infante	zone	0
+Guadaíra railway station	zone	1
+Pablo de Olavide	zone	1
+San Juan Bajo	zone	0
+Onze de Setembre	zone	1
+Ciudad Expo	zone	0
+Cavaleri	zone	0
+San Juan Alto	zone	0
+Gare d'Épinay-sur-Seine	zone	IDF/3
+Condequinto	zone	2
+Montequinto	zone	2
+Europa	zone	2
+Olivar de Quintos	zone	2
+Tesalónica	zone	1
+Luis Uruñuela	zone	1
+Montesierra	zone	1
+Puerta Este	zone	1
+Ciencias	zone	1
+Adelfas	zone	1
+Aeronáutica	zone	1
+Clemente Hidalgo	zone	1
+Barakaldo	zone	Metro Bilbao
+Gare de Juvisy	zone	4
+Geneva Ave	zone	1.0
+Maçanet-Massanes railway station	zone	* 6G \n* 6 \n* 6
+Stones Corner busway station	zone	2
+Langlands Park busway station	zone	2
+Gare de Cernay	zone	4
+Lower Parel railway station	zone	Western Railways
+Katpadi Junction railway station	zone	Indian Railways
+Vellore Cantonment railway station	zone	Southern Railway
+Gare de Bellevue	zone	IDF/3
+Gare de Melun	zone	5
+Bagatza	zone	Metro Bilbao
+Urbinaga	zone	Metro Bilbao
+Sestao	zone	Metro Bilbao
+Abatxolo	zone	Metro Bilbao
+Tiruchirappalli Junction railway station	zone	Indian Railways
+Taloja railway station	zone	Central Railways
+Sitges railway station	zone	* 3A \n* 4
+Howard	zone	1
+Hamilton Beach	zone	1
+Punkunnam railway station	zone	Southern Railway Zone
+Mulankunnathukavu railway station	zone	Southern Railway Zone
+Portugalete	zone	Metro Bilbao
+Gare de Saint-Gratien	zone	IDF/4
+Khadki railway station	zone	Central Railway zone
+Shivajinagar railway station	zone	Central Railway zone
+Aluva railway station	zone	Southern Railway
+Edappally railway station	zone	Southern Railway Zone
+RBWH busway station	zone	1
+Peñota	zone	Metro Bilbao
+Santurtzi	zone	Metro Bilbao
+Lonavala railway station	zone	Central Railway zone
+Pimpri railway station	zone	Central Railway zone
+La Salut	zone	1
+Kavi Subhash metro station	zone	Kolkata Metro Line 1
+Fishers station	zone	1
+Angamaly railway station	zone	Southern Railway
+35th Street station	zone	A
+Lobo Special Events Platform	zone	Zone B
+Ahuntsic	zone	1
+Loreto	zone	Urban
+Pasteur	zone	Urban
+Rovereto	zone	Urban
+Gorla	zone	Urban
+Turro	zone	Urban
+Precotto	zone	Urban
+Villa San Giovanni	zone	Urban
+Sesto Marelli	zone	Urban
+Sesto Rondò	zone	Extra-urban
+Sesto 1º Maggio	zone	Extra-urban
+Corvetto	zone	Urban
+Brenta	zone	Urban
+Rogoredo	zone	Urban
+Porto di Mare	zone	Urban
+San Donato	zone	Urban
+Centrale	zone	Urban
+Sondrio	zone	Urban
+Zara	zone	Urban
+Maciachini	zone	Urban
+Bundesrechnungshof	zone	2600
+Paekakariki Railway Station	zone	8
+Woburn Railway Station	zone	4
+Ava Railway Station	zone	4
+Pomare Railway Station	zone	5
+Naenae Railway Station	zone	5
+Taita Railway Station	zone	5
+Wingate Railway Station	zone	5
+Melling Railway Station	zone	4
+Western Hutt Railway Station	zone	4
+Kaveri railway station	zone	Southern Railway zone
+Paraparaumu Railway Station	zone	9
+Waikanae Railway Station	zone	10
+Roxburgh Park railway station	zone	Myki zone 2
+Back Bay station	zone	1.0
+30th Street Station	zone	C
+Ernakulam Terminus railway station	zone	Southern Railway Zone
+Ariz	zone	Metro Bilbao
+Churchgate railway station	zone	Western Railways
+Jefferson County Government Center–Golden station	zone	C
+Bloomington GO Station	zone	TBA
+Gormley GO Station	zone	TBA
+Dergano	zone	Urban
+Affori Centro	zone	Urban
+Pagano	zone	urban
+Nieuwmarkt metro station	zone	5700
+Waterlooplein metro station	zone	5700
+La Latina	zone	A
+Affori FN	zone	Urban
+Comasina	zone	Urban
+Waurn Ponds railway station	zone	Myki zone 4
+Thrissur railway station	zone	Southern Railway zone
+Kellinghusenstraße	zone	103105
+Rho Fiera	zone	Extra-urban
+Bisceglie	zone	Urban
+Rajendra Nagar railway station	zone	Western Railway Zone
+Bry-sur-Marne	zone	4
+Valdebernardo	zone	A
+Stadion Narodowy metro station	zone	1
+Dworzec Wileński metro station	zone	1
+Osmanabad railway station	zone	Central Railway
+Northshore Hamilton ferry wharf	zone	2
+Water Mill	zone	14
+Newmarket	zone	1.0
+Soleilmont	zone	2
+Sart-Culpart	zone	2
+Marabout	zone	2
+Kabiezes	zone	Metro Bilbao
+Mamariga	zone	Metro Bilbao
+Talbot Ave	zone	1.0
+Tambaram railway station	zone	Southern Railway
+Weesperplein metro station	zone	5700
+Auf dem Damm	zone	230
+König-Heinrich-Platz	zone	330
+Duissern	zone	330
+Ooty bus stand	zone	Department of Transport
+Candiac	zone	5
+Delson	zone	5
+Saint-Constant	zone	5
+Sainte-Catherine	zone	5
+Llefià	zone	1
+Hammels	zone	1
+Wibautstraat metro station	zone	5700
+Spaklerweg metro station	zone	5714
+Overamstel metro station	zone	5714
+Van der Madeweg metro station	zone	5715
+Strandvliet metro station	zone	5715
+Bullewijk metro station	zone	5715
+Reigersbos metro station	zone	5725
+Gein metro station	zone	5725
+Kazan Railway station	zone	0
+Madan Mahal railway station	zone	Western Central Railway
+Daund Junction railway station	zone	Central Railway
+Byculla railway station	zone	Central Railways
+Parel railway station	zone	Central Railways
+Dadar railway station	zone	Central Railways
+Dadar railway station	zone	Western Railways
+Matunga railway station	zone	Central Railways
+Kurla railway station	zone	Central Railways
+Sion railway station	zone	Central Railways
+Vidyavihar railway station	zone	Central Railways
+Ghatkopar railway station	zone	Central Railways
+Vikhroli railway station	zone	Central Railways
+Kanjurmarg railway station	zone	Central Railways
+Bhandup railway station	zone	Central Railways
+Nahur railway station	zone	Central Railways
+Mulund railway station	zone	Central Railways
+Thane railway station	zone	Central Railways
+Beach Channel	zone	1
+Royapuram railway station	zone	Southern Railway
+Basauri	zone	Metro Bilbao
+Southland railway station	zone	Myki zone 2
+Flowerfield	zone	10
+Mumbra railway station	zone	Central Railways
+Kalwa railway station	zone	Central Railways
+Dombivli railway station	zone	Central Railways
+Thakurli railway station	zone	Central Railways
+Kalyan Junction railway station	zone	Central Railways
+Jogeshwari railway station	zone	Western Railways
+Andheri railway station	zone	Western Railways
+Goregaon railway station	zone	Western Railways
+Marine Lines railway station	zone	Western Railways
+Mahim railway station	zone	Western Railways
+Bandra railway station	zone	Western Railways
+Vile Parle railway station	zone	Western Railways
+Malad railway station	zone	Western Railways
+Borivali railway station	zone	Western Railways
+Kandivali railway station	zone	Western Railways
+Dahisar railway station	zone	Western Railways
+Bhayandar railway station	zone	Western Railways
+Naigaon railway station	zone	Western Railways
+Mira Road railway station	zone	Western Railways
+Nala Sopara railway station	zone	Western Railways
+Virar railway station	zone	Western Railways
+Vaitarna railway station	zone	Western Railways
+Kelve Road railway station	zone	Western Railways
+Palghar railway station	zone	Western Railways
+Davangere railway station	zone	Indian railways
+Saphale railway station	zone	Western Railways
+Boisar railway station	zone	Western Railways
+Umroli railway station	zone	Western Railways
+Vangaon railway station	zone	Western Railways
+Vithalwadi railway station	zone	Central Railways
+Ulhasnagar railway station	zone	Central Railways
+Badlapur railway station	zone	Central Railways
+Shelu railway station	zone	Central Railways
+Ambarnath railway station	zone	Central Railways
+Vangani railway station	zone	Central Railways
+Neral railway station	zone	Central Railways
+Karjat railway station	zone	Central Railways
+Palasdari railway station	zone	Central Railways
+Khopoli railway station	zone	Central Railways
+Shahad railway station	zone	Central Railways
+Ambivli railway station	zone	Central Railways
+Khadavli railway station	zone	Central Railways
+Vasind railway station	zone	Central Railways
+Khardi railway station	zone	Central Railways
+Juchandra railway station	zone	Central Railways
+Kasara railway station	zone	Central Railways
+Kaman Road railway station	zone	Central Railways
+Goshainganj railway station	zone	Northern Railway
+Bhiwandi railway station	zone	Central Railways
+Dativali railway station	zone	Central Railways
+Nilaje railway station	zone	Central Railways
+Kalamboli railway station	zone	Central Railways
+Navade Road railway station	zone	Central Railways
+Panvel railway station	zone	Central Railways
+Chinchpokli railway station	zone	Central Railways
+Cotton Green railway station	zone	Central Railways
+Sewri railway station	zone	Central Railways
+Lucknow Charbagh railway station	zone	Northern Railway
+Lucknow Charbagh railway station	zone	Lucknow NR railway division
+Guru Tegh Bahadur Nagar railway station	zone	Central Railways
+Chunabhatti railway station	zone	Central Railways
+Tilak Nagar railway station	zone	Central Railways
+Govandi railway station	zone	Central Railways
+Mankhurd railway station	zone	Central Railways
+Vashi railway station	zone	Central Railways
+Sanpada railway station	zone	Central Railways
+Juinagar railway station	zone	Central Railways
+Nerul railway station	zone	Central Railways
+CBD Belapur railway station	zone	Central Railways
+Abada railway station	zone	South Eastern Railway zone
+Kharghar railway station	zone	Central Railways
+Mansarovar railway station	zone	Central Railways
+King's Circle railway station	zone	Central Railways
+Khandeshwar railway station	zone	Central Railways
+Turbhe railway station	zone	Central Railways
+Airoli railway station	zone	Central Railway
+Rabale railway station	zone	Central Railways
+Ghansoli railway station	zone	Central Railways
+Kopar Khairane railway station	zone	Central Railway zone
+Faizabad Junction railway station	zone	Northern Railway
+Ayodhya Junction railway station	zone	Northern Railway
+Akbarpur Junction railway station	zone	Northern Railway
+Mall of the Emirates	zone	2
+Guruvayur railway station	zone	Indian Railways
+La Floresta	zone	2C
+Sant Cugat	zone	2C
+Pointe du Lac	zone	1
+Valldoreix	zone	2C
+V. O. C. Nagar railway station	zone	Southern Railway
+Qazigund railway station	zone	Northern Railway Zone
+Mira-sol	zone	2C
+Udhagamandalam railway station	zone	Indian Railways
+Tirou	zone	1
+Mascouche	zone	6
+Sauvé	zone	1
+Anjou	zone	2
+Saint-Michel–Montréal-Nord	zone	2
+Rivière-des-Prairies	zone	3
+Saint-Léonard–Montréal-Nord	zone	2
+Pointe-aux-Trembles	zone	3
+Repentigny	zone	5
+Terrebonne	zone	5
+Wadakkanchery railway station	zone	Southern Railway Zone
+Pudukad railway station	zone	Southern Railway Zone
+Irinjalakuda railway station	zone	Southern Railway Zone
+Chalakudi railway station	zone	Southern Railway Zone
+Sant Adrià de Besòs railway station	zone	1
+Randers station	zone	80
+Koratty railway station	zone	Southern Railway Zone
+Bareilly Junction railway station	zone	Indian Railways
+Boston Landing	zone	1.0
+Elektrogorsk	zone	9
+Ganzenhoef metro station	zone	5725
+Sunnyside	zone	1
+Lincoln station	zone	3
+Avadi railway station	zone	Southern Railway
+Ambattur railway station	zone	Southern Railway
+Matunga Road, Mumbai	zone	Western Railways
+Pattaravakkam railway station	zone	Southern Railway
+Korattur railway station	zone	Southern Railway
+Springfield railway station, Ipswich	zone	go card 6
+Springfield Central railway station	zone	go card 6
+Kippa-Ring railway station	zone	go card 6
+Villivakkam railway station	zone	Southern Railway
+Rothwell railway station	zone	go card 6
+Annanur railway station	zone	Southern Railway
+Kallangur railway station	zone	go card 6
+Murrumba Downs railway station	zone	go card 6
+Mango Hill railway station	zone	go card 6
+Mango Hill East railway station	zone	go card 6
+Washermanpet railway station	zone	Southern Railway
+Vyasarpadi Jeeva railway station	zone	Southern Railway
+Thirumullaivoyal railway station	zone	Southern Railway
+Hindu College railway station	zone	Southern Railway
+Pattabiram railway station	zone	Southern Railway
+Pattabiram East Depot railway station	zone	Southern Railway
+Pattabiram West railway station	zone	Southern Railway
+Nemilichery railway station	zone	Southern Railway
+Spotsylvania station	zone	9
+Renens CFF station	zone	12
+Buonarroti	zone	urban
+Amendola	zone	urban
+Lotto	zone	urban
+QT8	zone	urban
+Lampugnano	zone	urban
+Uruguay	zone	urban
+Bonola	zone	urban
+San Leonardo	zone	urban
+Molino Dorino	zone	urban
+Pero	zone	extra-urban
+Thiruninravur railway station	zone	Southern Railway
+Vandalur railway station	zone	Southern Railway
+Korukkupet railway station	zone	Southern Railway
+Mambalam railway station	zone	Southern Railway
+Andover	zone	19
+Chetput railway station	zone	Southern Railway
+Guindy railway station	zone	Southern Railway
+Chennai Park railway station	zone	Southern Railway
+Tondiarpet railway station	zone	Southern Railway
+Tirusulam railway station	zone	Southern Railway
+Meenambakkam railway station	zone	Southern Railway
+Tiruvottiyur railway station	zone	Southern Railway
+Wimco Nagar railway station	zone	Southern Railway
+Kathivakkam railway station	zone	Southern Railway
+Ennore railway station	zone	Southern Railway
+Athipattu railway station	zone	Southern Railway
+Athipattu Pudhunagar railway station	zone	Southern Railway
+Nandiambakkam railway station	zone	Southern Railway
+Minjur railway station	zone	Southern Railway
+St. Thomas Mount railway station	zone	Southern Railway
+Nungambakkam railway station	zone	Southern Railway
+Podanur Junction railway station	zone	Southern Railway Zone
+Anna Nagar railway station	zone	Southern Railway
+Padi railway station	zone	Southern Railway
+Dubai Marina	zone	2
+Nakheel	zone	2
+Jumeirah Lakes Towers	zone	2
+Business Bay	zone	6
+BurJuman	zone	6
+Union	zone	5
+Deira City Centre	zone	5
+Tarneit railway station	zone	Myki zone 2
+Wyndham Vale railway station	zone	Myki zone 2
+Al Ras	zone	5
+Al Fahidi	zone	6
+Rashidiya	zone	5
+Tiruvallur railway station	zone	Southern Railway
+Nakheel Harbour and Tower	zone	2
+Kodambakkam railway station	zone	Southern Railway
+Palm Deira	zone	5
+Nanterre-Préfecture	zone	IDF/3
+Saidapet railway station	zone	Southern Railway
+Pazhavanthangal railway station	zone	Southern Railway
+Pallavaram railway station	zone	Southern Railway
+Chromepet railway station	zone	Southern Railway
+Tambaram Sanatorium railway station	zone	Southern Railway
+Perungalathur railway station	zone	Southern Railway
+Financial Centre	zone	6
+Diva Junction railway station	zone	Central Railways
+Bignami	zone	Urban
+Milton ferry wharf	zone	2
+Marmorkirken Station	zone	1
+Novosibirsk Railway station	zone	0
+Moody Centre station	zone	3
+Ghoradongri railway station	zone	Central/CR Nagpur Division
+Puducherry railway station	zone	Indian Railways
+Wagner	zone	urban
+De Angeli	zone	urban
+Bande Nere	zone	urban
+Primaticcio	zone	urban
+Gambara	zone	urban
+Inganni	zone	urban
+Somtane railway station	zone	Central Railway
+Apta railway station	zone	Central Railway
+Jite railway station	zone	Central Railway
+Hamrapur railway station	zone	Central Railway
+Pen railway station	zone	Central Railway
+Rasayani railway station	zone	Central Railway
+Kasu railway station	zone	Central Railway
+Nagothane railway station	zone	Central Railway
+Nidi railway station	zone	Central Railway
+Roha railway station	zone	Central Railway
+Red Rocks College station	zone	C
+Federal Center station	zone	C
+Oak station	zone	C
+Lakewood–Wadsworth station	zone	B
+Lamar station	zone	B
+Garrison station	zone	B
+Perry station	zone	A
+Knox station	zone	A
+Decatur–Federal station	zone	A
+Sheridan station	zone	A
+Emirates Towers	zone	6
+Baniyas Square	zone	5
+Arakkonam Junction railway station	zone	Southern Railway zone
+Chengalpattu Junction railway station	zone	Indian Railways
+Mullurkara railway station	zone	Southern Railway Zone
+Divine Nagar railway station	zone	Southern Railway Zone
+Étréchy	zone	5
+Chamarande	zone	5
+Lardy	zone	5
+Brétigny	zone	5
+Vallathol Nagar railway station	zone	Southern Railway zone
+Marolles-en-Hurepoix	zone	5
+Bouray	zone	5
+Sainte-Geneviève-des-Bois	zone	5
+Épinay-sur-Orge	zone	4
+Saint-Michel-sur-Orge	zone	5
+Vanchi Maniyachchi Junction railway station	zone	Indian Railways
+Aruppukkottai railway station	zone	Indian Railways
+Nellayi railway station	zone	Southern Railway Zone
+Akurdi railway station	zone	Central Railway zone
+North Brunswick	zone	14
+Patliputra Junction railway station	zone	East Central Railway Zone
+Dapodi railway station	zone	Central Railway zone
+Kasarwadi railway station	zone	Central Railway zone
+Pollachi Junction railway station	zone	Southern Railway zone
+Begdewadi railway station	zone	Central Railway zone
+Ghorawadi railway station	zone	Central Railway zone
+Talegaon railway station	zone	Central Railway zone
+Kanhe railway station	zone	Central Railway zone
+Vadgaon railway station	zone	Central Railway zone
+Malavli railway station	zone	Central Railway zone
+Kamshet railway station	zone	Central Railway zone
+Dehu Road railway station	zone	Central Railway zone
+Khandala railway station	zone	Central Railway zone
+Vorokhta railway station	zone	Ivano-Frankivsk Administration
+Savigny-sur-Orge	zone	4
+Bhuj railway station	zone	Western Railway Zone
+Rubí	zone	2C
+Hospital General	zone	2C
+Les Fonts	zone	2C
+Terrassa Rambla	zone	2C
+Thiruvannamalai Junction railway station	zone	Southern Railway
+Tiruvannamalai Town railway station	zone	Southern Railway
+Puttlur railway station	zone	Southern Railway
+Paranur railway station	zone	Southern Railway
+Urapakkam railway station	zone	Southern Railway
+Veppampattu railway station	zone	Southern Railway
+Guduvancheri railway station	zone	Southern Railway
+Potheri railway station	zone	Southern Railway
+Singaperumal Koil railway station	zone	Southern Railway
+Maraimalai Nagar railway station	zone	Southern Railway
+Dehradun railway station	zone	Northern Railway Zone
+Kota Junction railway station	zone	West Central Railway zone
+Kattankulathur railway station	zone	Southern Railway
+Anuppampattu railway station	zone	Southern Railway
+Ponneri railway station	zone	Southern Railway
+Niphad railway station	zone	Central Railway zone
+Príncipe Pío	zone	A
+Delicias	zone	A
+Pirámides	zone	A
+Méndez Álvaro	zone	A
+Recoletos Station	zone	A
+Vapi railway station	zone	Western Railway zone
+Valsad railway station	zone	Western Railway zone
+Saharanpur Junction railway station	zone	Northern Railway zone
+Titwala railway station	zone	Central Railways
+Durgapura railway station	zone	North Western Railway zone
+Alappuzha railway station	zone	Southern Railway Zone
+Mettupalayam railway station	zone	Southern Railway
+El Pozo railway station	zone	A
+Wien Matzleinsdorfer Platz railway station	zone	Core Zone
+Chengannur railway station	zone	Southern Railway Zone
+Kayamkulam Junction railway station	zone	Southern Railway zone
+Wien Liesing railway station	zone	Core Zone
+Melbourne University tram stop	zone	Zone 1
+Paravur railway station	zone	Indian Railways
+Retiro	zone	A
+Banco de España	zone	A
+Sevilla	zone	A
+Sol	zone	A
+Ópera	zone	A
+Príncipe de Vergara	zone	A
+Callao	zone	A
+Santo Domingo	zone	A
+San Bernardo	zone	A
+Plaza de España-Noviciado	zone	A
+Canal	zone	A
+Cuatro Caminos	zone	A
+Lavapiés	zone	A
+Palos de la Frontera	zone	A
+Acacias-Embajadores	zone	A
+Legazpi	zone	A
+Tirso de Molina	zone	A
+Atocha	zone	A
+Antón Martín	zone	A
+Menéndez Pelayo	zone	A
+Pacífico	zone	A
+Puerta de Toledo	zone	A
+Almendrales	zone	A
+Arganzuela-Planetario	zone	A
+San Fermín-Orcasur	zone	A
+Hospital 12 de Octubre	zone	A
+Ciudad de los Ángeles	zone	A
+Villaverde Bajo-Cruce	zone	A
+Villaverde Alto	zone	A
+San Cristóbal	zone	A
+Tribunal	zone	A
+Goya	zone	A
+Ventura Rodríguez	zone	A
+Argüelles	zone	A
+Moncloa	zone	A
+Ciudad Universitaria	zone	A
+Metropolitano	zone	A
+Islas Filipinas	zone	A
+Guzmán el Bueno	zone	A
+República Argentina	zone	A
+Núñez de Balboa	zone	A
+Manuel Becerra	zone	A
+La Elipa	zone	A
+Ventas	zone	A
+Lista	zone	A
+Diego de León	zone	A
+Alonso Cano	zone	A
+Gregorio Marañón	zone	A
+O'Donnell	zone	A
+Sainz de Baranda	zone	A
+Conde de Casal	zone	A
+Usera	zone	A
+Plaza Elíptica	zone	A
+Opañel	zone	A
+Oporto	zone	A
+Carpetana	zone	A
+Lucero	zone	A
+Laguna	zone	A
+Ibiza	zone	A
+Alto de Extremadura	zone	A
+Puerta del Ángel	zone	A
+Iglesia	zone	A
+Rubén Darío	zone	A
+Chueca	zone	A
+Bilbao	zone	A
+Alonso Martínez	zone	A
+Velázquez	zone	A
+Serrano	zone	A
+Colón	zone	A
+Cuzco	zone	A
+Plaza de Castilla	zone	A
+Valdeacederas	zone	A
+Tetuán	zone	A
+Ríos Rosas	zone	A
+Estrecho	zone	A
+Alvarado	zone	A
+Montaño	zone	Zone B
+Mangalore Junction railway station	zone	Southern Railway
+Roe Street bus station	zone	1
+Noosa Junction bus station	zone	23
+Volgograd railway station	zone	0
+Peu del Funicular	zone	1
+Baixador de Vallvidrera	zone	1
+Maisons-Alfort – Alfortville	zone	3
+Ponmalai	zone	Indian Railway
+Don Khun Wiset Railway Halt	zone	Nakhon Pathom Maintenance Zone
+Le Vert de Maisons	zone	3
+Yekaterinburg Railway station	zone	0
+Samara railway station	zone	0
+Nizhny Novgorod railway station	zone	0
+Rådhuspladsen Station	zone	1
+Gammel Strand Station	zone	1
+Sadura railway station	zone	Northern Railway Zone
+Anantnag railway station	zone	Northern Railway Zone
+Ara Junction railway station	zone	East Central Railway zone
+Créteil-Pompadour	zone	3
+Gare de Vaires-Torcy	zone	5
+Sand Lake Road station	zone	Orange County, Florida
+Ramganj Mandi Junction railway station	zone	West Central Railway zone
+Lucknow Junction railway station	zone	North Eastern Railway zone
+DeBary station	zone	Volusia County, Florida
+Florida Hospital Health Village station	zone	Orange County, Florida
+Epsom railway station, Victoria	zone	Myki zone 13
+Malenkovskaya railway station	zone	1
+Sanford station	zone	Seminole County, Florida
+Wien Hetzendorf railway station	zone	Core Zone
+Longwood station	zone	Seminole County, Florida
+Maitland station	zone	Orange County, Florida
+Altamonte Springs station	zone	Seminole County, Florida
+Lake Mary station	zone	Seminole County, Florida
+Pudukkottai railway station	zone	Indian Railways
+Mahasamund railway station	zone	East Coast Railway
+Broadbeach South bus station	zone	TransLink zone 14/15
+Karaikudi Junction railway station	zone	Indian Railways
+Virudhunagar Junction railway station	zone	Indian Railways
+New Guntur railway station	zone	Indian Railways
+Ajmer Junction railway station	zone	Indian Railways
+Dornakal Junction railway station	zone	South Central Railway
+Muzaffarnagar railway station	zone	Northern Railway Zone
+Punalur railway station	zone	Indian Railways
+Khurja Junction railway station	zone	North Central Railway Zone
+Hotgi Junction railway station	zone	Indian railways
+Hubli Junction railway station	zone	Indian railways
+Nuzvid railway station	zone	South Central Railway
+Aurangabad railway station	zone	South Central Railway zone
+Sirkazhi railway station	zone	Indian Railways
+Chidambaram railway station	zone	Indian Railways
+Ariyalur railway station	zone	Indian Railways
+Mhow railway station	zone	Western Railway Zone
+Rau railway station	zone	Western Railway Zone
+Palakkodu railway station	zone	South Western Railway zone
+Omalur Junction railway station	zone	Indian Railways
+Hadapsar railway station	zone	Central Railway zone
+Westwijk tram stop	zone	5724
+Noord metro station	zone	5711
+Ghorpuri railway station	zone	Central Railway zone
+Aeropuerto T4 station	zone	A
+Oshiwara railway station	zone	Western Railways
+Chirala railway station	zone	Indian Railways
+Coonoor railway station	zone	Indian Railways
+Stadium railway station, Perth	zone	1
+Ponale	zone	Urban
+Bicocca	zone	Urban
+Cà Granda	zone	Urban
+Istria	zone	Urban
+Marche	zone	Urban
+Isola	zone	Urban
+Wellington railway station	zone	Indian Railways
+Warangal railway station	zone	South Central Railway
+Aravankadu railway station	zone	Indian Railways
+Ketti railway station	zone	Indian Railways
+Lovedale railway station	zone	Indian Railways
+Eravipuram railway station	zone	Indian Railways
+Karunagappalli railway station	zone	Indian Railways
+Kottarakara railway station	zone	Indian Railways
+Mayyanad railway station	zone	Indian Railways
+Sasthamkotta railway station	zone	Indian Railways
+Kundara railway station	zone	Indian Railways
+Kilikollur railway station	zone	Indian Railways
+West Station	zone	1.0
+Clifton station	zone	6
+Robina Town Centre bus station	zone	TransLink zone 15
+Southport bus station	zone	TransLink zone 13
+Awantipora railway station	zone	Northern Railway Zone
+Rayanapadu railway station	zone	South Central Railway
+Bijbehara railway station	zone	Northern Railway Zone
+Budgam railway station	zone	Northern Railway Zone
+GCUH bus station	zone	TransLink zone 12/13
+Mardan Junction railway station	zone	2
+Perinad railway station	zone	Indian Railways
+Munroturuttu railway station	zone	Indian Railways
+Ochira railway station	zone	Indian Railways
+Westbridge	zone	1
+Ladner Exchange	zone	3
+Scottsdale Exchange	zone	3
+Quintana	zone	A
+El Carmen	zone	A
+Parque de las Avenidas	zone	A
+Cartagena	zone	A
+Urgel	zone	A
+La Fortuna	zone	B1
+Carabanchel Alto	zone	A
+Las Rosas	zone	A
+La Almudena	zone	A
+Avenida de Guadalajara	zone	A
+Alsacia	zone	A
+Abrantes	zone	A
+Pan Bendito	zone	A
+San Francisco	zone	A
+La Peseta	zone	A
+Marqués de Vadillo	zone	A
+Lago	zone	A
+Batán	zone	A
+Empalme	zone	A
+Aluche	zone	A
+Carabanchel	zone	A
+Campamento	zone	A
+Casa de Campo	zone	A
+Eugenia de Montijo	zone	A
+Ciudad Lineal	zone	A
+Suanzes	zone	A
+Torre Arias	zone	A
+Canillejas	zone	A
+El Capricho	zone	A
+Alameda de Osuna	zone	A
+Bambú	zone	A
+Puente de Vallecas	zone	A
+Portazgo	zone	A
+Buenos Aires	zone	A
+Alto del Arenal	zone	A
+Pinar de Chamartín	zone	A
+Miguel Hernández	zone	A
+Sierra de Guadalupe	zone	A
+Congosto	zone	A
+Valdecarros	zone	A
+La Gavia	zone	A
+Las Suertes	zone	A
+Alfonso XIII	zone	A
+Villa de Vallecas	zone	A
+Prosperidad	zone	A
+Canillas	zone	A
+Arturo Soria	zone	A
+Avenida de la Paz	zone	A
+Esperanza	zone	A
+Parque de Santa María	zone	A
+San Lorenzo	zone	A
+Mar de Cristal	zone	A
+Hortaleza	zone	A
+Manoteras	zone	A
+Pinar del Rey	zone	A
+Concha Espina	zone	A
+Colombia	zone	A
+Cruz del Rayo	zone	A
+Ascao	zone	A
+Francos Rodríguez	zone	A
+Valdezarza	zone	A
+Peñagrande	zone	A
+Avenida de la Ilustración	zone	A
+Antonio Machado	zone	A
+Lacoma	zone	A
+Pitis	zone	A
+García Noblejas	zone	A
+Simancas	zone	A
+Las Musas	zone	A
+Estadio Olímpico	zone	A
+San Fernando	zone	B1
+San Blas	zone	A
+Henares	zone	B1
+Barrio del Puerto	zone	B1
+La Rambla	zone	B1
+Campo de las Naciones	zone	A
+Coslada Central	zone	B1
+Jarama	zone	B1
+Hospital del Henares	zone	B1
+Barajas	zone	A
+Pío XII	zone	A
+Duque de Pastrana	zone	A
+Ventilla	zone	A
+Barrio del Pilar	zone	A
+Herrera Oria	zone	A
+Mirasierra	zone	A
+Vinateros	zone	A
+Estrella	zone	A
+Artilleros	zone	A
+Pavones	zone	A
+Puerta de Arganda	zone	A
+San Cipriano	zone	A
+Vicálvaro	zone	A
+Rivas Urbanizaciones	zone	B1
+Rivas Futura	zone	B1
+La Poveda	zone	B3
+Arganda del Rey	zone	B3
+Rivas Vaciamadrid	zone	B2
+New Carlisle station	zone	10
+LaLumiere station	zone	9
+Willard Avenue station	zone	8
+Ambridge station	zone	5
+Dune Acres station	zone	6
+Pachora Junction railway station	zone	Bhusawal railway division
+Rolling Prairie station	zone	10
+Ellenbrook transfer station	zone	3
+Begoña	zone	A
+Fuencarral	zone	A
+Tres Olivos	zone	A
+Ronda de la Comunicación	zone	A
+Montecarmelo	zone	A
+Las Tablas	zone	A
+Marqués de la Valdavia	zone	B1
+La Granja	zone	B1
+La Moraleja	zone	B1
+Manuel de Falla	zone	B1
+Baunatal	zone	B1
+Hospital Infanta Sofía	zone	B1
+Reyes Católicos	zone	B1
+Colonia Jardín	zone	A
+Joaquín Vilumbrales	zone	B1
+Cuatro Vientos	zone	A
+San Nicasio	zone	B1
+Leganés Central	zone	B1
+Puerta del Sur	zone	B1
+Casa del Reloj	zone	B1
+Hospital Severo Ochoa	zone	B1
+Julián Besteiro	zone	B1
+Aviación Española	zone	A
+El Carrascal	zone	B1
+El Bercial	zone	B1
+Los Espartales	zone	B1
+El Casar	zone	B1
+Juan de la Cierva	zone	B1
+Alonso de Mendoza	zone	B1
+Conservatorio	zone	B1
+Getafe Central	zone	B1
+Arroyo Culebro	zone	B1
+Fuenlabrada Central	zone	B2
+Parque de los Estados	zone	B2
+Hospital de Fuenlabrada	zone	B2
+Manuela Malasaña	zone	B2
+Parque Europa	zone	B2
+Loranca	zone	B2
+Hospital de Móstoles	zone	B2
+Parque Oeste	zone	B1
+Parque Lisboa	zone	B1
+Móstoles Central	zone	B2
+Alcorcón Central	zone	B1
+Pradillo	zone	B2
+Universidad Rey Juan Carlos	zone	B2
+Amalner railway station	zone	Mumbai railway division
+Dharangaon railway station	zone	Mumbai railway division
+María Tudor	zone	A
+Blasco Ibáñez	zone	A
+Álvarez de Villaamil	zone	A
+Palas del Rey	zone	A
+Antonio Saura	zone	A
+Virgen del Cortijo	zone	A
+Fuente de la Mora	zone	A
+Prado de la Vega	zone	B1
+Prado del Rey	zone	B1
+Somosaguas Centro	zone	B1
+Colonia de los Ángeles	zone	B1
+Somosaguas Sur	zone	B1
+Bélgica	zone	B1
+Pozuelo Oeste	zone	B1
+Dos Castillas	zone	B1
+Campus de Somosaguas	zone	B1
+Avenida de Europa	zone	B1
+Berna	zone	B1
+Estación de Aravaca	zone	A
+José Isbert	zone	B1
+Cocheras	zone	B1
+Ciudad del Cine	zone	B1
+Ciudad de la Imagen	zone	B1
+Retamares	zone	B1
+Montepríncipe	zone	B1
+Ventorro del Cano	zone	B1
+Cantabria	zone	B2
+Prado del Espino	zone	B2
+Ferial del Boadilla	zone	B2
+Boadilla Centro	zone	B2
+Nuevo Mundo	zone	B2
+Siglo XXI	zone	B2
+Puerta de Boadilla	zone	B2
+Infante Don Luís	zone	B2
+Villeneuve-Triage	zone	4
+Kemil Road station	zone	7
+Kuri railway station	zone	Indian Railways
+Chandanattop railway station	zone	Indian Railways
+Gangapur City railway station	zone	West Central Railway Zone
+Gangapur City railway station	zone	Jabalpur
+Aubin Grove railway station	zone	3
+Chascomús railway and bus station	zone	Buenos Aires Province
+Langå station	zone	78
+Hadsten station	zone	20
+Hinnerup station	zone	25
+Harbor	zone	7
+Bodwad railway station	zone	Bhusawal railway division
+Mazhom railway station	zone	Northern Railway Zone
+Raver railway station	zone	Bhusawal railway division
+Du Canal	zone	1
+Ezhukone railway station	zone	Indian Railways
+Bellvitge railway station	zone	1
+Nandurbar railway station	zone	Mumbai railway division
+Gooty Junction railway station	zone	South Central Railway zone
+Dharmavaram Junction railway station	zone	South Central Railway zone
+Penukonda Junction railway station	zone	South Western Railway zone
+Sathya Sai Prasanthi Nilayam railway station	zone	South Western Railway zone
+Dhone Junction railway station	zone	South Central Railway zone
+Joliet Transportation Center	zone	H
+Belagavi railway station	zone	South Western Railway zone
+Londa Junction railway station	zone	South Western Railway zone
+Pakala Junction railway station	zone	South Central Railway zone
+Cuddapah railway station	zone	South Central Railway zone
+Irugur Junction railway station	zone	Southern Railway Zone
+Kirakat railway station	zone	Indian Railways
+Bhimavaram Town railway station	zone	South Central Railway
+Bhimavaram Junction railway station	zone	South Central Railway
+Igualada	zone	6.0
+Moonee Ponds Junction	zone	Myki zone 1
+Cedar Manor	zone	3
+Yauza railway station	zone	2
+Elektrozavodskaya railway station	zone	1
+Chittaurgarh Junction railway station	zone	Western Railway zone
+Mau Junction railway station	zone	North Eastern Railway Zone
+Vaughan Metropolitan Centre Terminal	zone	1
+Ratnagiri railway station	zone	Central Railways
+South Surrey Park and Ride	zone	3
+Retiro Mitre railway station	zone	Retiro, Buenos Aires
+Retiro Belgrano railway station	zone	Retiro, Buenos Aires
+Kundara East railway station	zone	Indian Railways
+Aryankavu railway station	zone	Indian Railways
+Thenmala railway station	zone	Indian Railways
+Auvaneeswaram railway station	zone	Indian Railways
+Walayar railway station	zone	Indian Railways
+Ottapalam railway station	zone	Indian Railways
+Kazhuthurutty railway station	zone	Indian Railways
+Kollengode railway station	zone	Indian Railways
+Kanjikode railway station	zone	Indian Railways
+Palakkad Town railway station	zone	Indian Railways
+Lakkidi railway station	zone	Indian Railways
+Kadakkavoor railway station	zone	Indian Railways
+Chirayinkeezhu railway station	zone	Indian Railways
+Uppala railway station	zone	Indian Railways
+Parassala railway station	zone	Indian Railways
+Cheruvathur railway station	zone	Indian Railways
+Kumbla railway station	zone	Indian Railways
+Thrikaripur railway station	zone	Indian Railways
+Manjeshwaram railway station	zone	Indian Railways
+Edakkad railway station	zone	Indian Railways
+Pazhayangadi railway station	zone	Indian Railways
+Chirakkal railway station	zone	Indian Railways
+Changanacherry railway station	zone	Indian Railways
+Haripad railway station	zone	Indian Railways
+Mavelikara railway station	zone	Indian Railways
+Ambalappuzha railway station	zone	Indian Railways
+Thuravoor railway station	zone	Indian Railways
+Ezhimala railway station	zone	Indian Railways
+Valapattanam railway station	zone	Indian Railways
+Kannur South railway station	zone	Indian Railways
+Dharmadam railway station	zone	Indian Railways
+Thakazhy railway station	zone	Indian Railways
+Jaganath Temple Gate railway station	zone	Indian Railways
+Nadapuram Road railway station	zone	Indian Railways
+Tanur railway station	zone	Indian Railways
+Mahe railway station	zone	Southern Railway zone
+Payyoli railway station	zone	Indian Railways
+Koyilandy railway station	zone	Indian Railways
+Ferok railway station	zone	Indian Railways
+West Hill railway station	zone	Indian Railways
+Ettumanoor railway station	zone	Indian Railways
+Cherthala railway station	zone	Indian Railways
+Mararikulam railway station	zone	Indian Railways
+Piravam Road railway station	zone	Indian Railways
+Vaikom Road railway station	zone	Indian Railways
+Chottanikkara Road railway station	zone	Indian Railways
+Portello	zone	Urban
+Domodossola	zone	Urban
+San Siro Stadio	zone	Urban
+Segesta	zone	Urban
+San Siro Ippodromo	zone	Urban
+Woburn	zone	2
+Lexington Depot	zone	2
+Retiro San Martín railway station	zone	Retiro, Buenos Aires
+Carvolth Exchange	zone	3
+Hazur Sahib Nanded railway station	zone	South Central Railway zone
+Cenisio	zone	Urban
+Mirabel	zone	6
+Arlington Centre	zone	1
+Paco de Lucía	zone	A
+Monumentale	zone	Urban
+Nileshwar railway station	zone	Indian Railways
+Hingoli Deccan railway station	zone	Nanded railway division
+Jalna railway station	zone	South Central Railway zone
+Krasnodar-1 railway station	zone	0
+Mudkhed railway station	zone	South Central Railway zone
+Tomsk-1 railway station	zone	0
+Achalpur railway station	zone	Bhusawal railway division
+Simferopol railway station	zone	0
+Sevastopol railway station	zone	0
+Kerch railway station	zone	0
+Dzhankoy railway station	zone	0
+Tomsk-2 railway station	zone	10
+Sukhumi railway station	zone	0
+Yevpatoria railway station	zone	4
+Vladislavovka railway station	zone	6
+Armyansk railway station	zone	6
+Yerevan railway station	zone	16
+Gagra railway station	zone	0
+Vetapalem railway station	zone	Indian Railways
+Adilabad railway station	zone	Indian Railways
+Bitragunta railway station	zone	Indian Railways
+Kaliningrad railway station	zone	6
+Brest-Tsentralny railway station	zone	4
+Patharkandi railway station	zone	Northeast Frontier Railway Zone
+Varanasi City railway station	zone	North Eastern Railway Zone
+Bharatpur Junction railway station	zone	West Central Railways
+Viluppuram Bus Station	zone	Tamil Nadu State Transport Corporation
+Escorts Mujesar metro station	zone	Faridabad
+Novorossiysk Railway station	zone	14
+Gerusalemme	zone	Urban
+Vladikavkaz railway station	zone	22
+Dutton Park Place busway station	zone	2
+Port Kavkaz railway station	zone	6
+Salem Town railway station	zone	Indian Railways
+Babatpur railway station	zone	Northern Railway zone
+Kashi railway station	zone	Northern Railway zone
+Chandpara railway station	zone	Eastern Railway Zone
+Tiruvannamalai Central Bus Station	zone	Tamil Nadu State Transport Corporation
+9th Street station	zone	4
+Tre Torri	zone	Urban
+Airport T1	zone	1
+Chintaman Ganesh railway station	zone	Western Railway Zone
+Aunrihar Junction railway station	zone	North Eastern Railway Zone
+Jaunpur City railway station	zone	Northern Railway Zone
+Haranya Kheri railway station	zone	Western Railway Zone
+Lognes	zone	5
+Gandhinagar Capital railway station	zone	Western Railway Zone
+Lake Street	zone	1
+Kalol railway station	zone	Western Railway Zone
+Purabsarai railway station	zone	Eastern Railway Zone
+Patia railway station	zone	East Coast Railway Zone
+Vani Vihar railway station	zone	East Coast Railway Zone
+Mancheswar railway station	zone	East Coast Railway Zone
+New Bhubaneswar railway station	zone	East Coast Railway Zone
+Lajpat Nagar railway station	zone	Northern Railway Zone
+Patel Nagar railway station	zone	Northern Railway Zone
+Kirti Nagar railway station	zone	Northern Railway Zone
+Dharwad railway station	zone	South Western Railway zone
+Manjari railway station	zone	Central Railway zone
+Loni railway station	zone	Central Railway zone
+Urali railway station	zone	Central Railway zone
+Yawat railway station	zone	Central Railway zone
+Jejuri railway station	zone	Central Railway zone
+Satara railway station	zone	Central Railway zone
+Rajgurunagar railway station	zone	Central Railway Zone
+Mohitnagar railway station	zone	Northeast Frontier Railway Zone
+Neemuch railway station	zone	Western Railway Zone
+Mandsaur railway station	zone	Western Railway Zone
+New Amravati railway station	zone	Central Railway zone
+Val d'Europe	zone	5
+Noisy – Champs	zone	4
+Noisiel	zone	5
+Kumbakonam railway station	zone	Indian Railways
+Noisy-le-Grand – Mont d'Est	zone	4
+Bussy-Saint-Georges	zone	5
+Acharya Narendra Dev Nagar railway station	zone	Northern Railway
+Central Bus Station Kumbakonam	zone	TNSTC Kumbakonam Division 454/TAJ
+Central Bus Terminus Salem	zone	TNSTC Salem Division SLM/394
+Town Bus Terminus Salem	zone	TNSTC Salem Division SLM/394
+Neuilly-Plaisance	zone	3
+Gare de Neuville – Université	zone	5
+Budhni railway station	zone	West Central Railway zone
+Kathgodam railway station	zone	North Eastern Railway Zone
+Fira	zone	1
+Kudal railway station	zone	Central Railways
+Devlali railway station	zone	Central Railway Zone
+Ankleshwar railway station	zone	Western Railway Zone
+Gadarwara railway station	zone	West Central Railway
+Pernem railway station	zone	Indian Railways
+Perth Busport	zone	1
+Elizabeth Quay Jetty	zone	1
+El Prat de Llobregat railway station	zone	1
+Fontenay-sous-Bois	zone	3
+Nogent-sur-Marne	zone	3
+Gare de Sevran – Livry	zone	4
+Rana Pratap Nagar railway station	zone	North Western Railway zone
+Raikabag Palace Junction railway station	zone	North Western Railway zone
+Peddapalli Junction railway station	zone	South Central Railway zone
+Marin Civic Center	zone	1
+Sonoma County Airport	zone	5
+Cotati	zone	3
+Rohnert Park	zone	3
+Novato–Hamilton	zone	2
+Atherton	zone	2
+Santa Rosa–Railroad Square	zone	4
+Santa Rosa–Guerneville Road	zone	4
+Palwal railway station	zone	Northern Railway zone
+Jhajjar railway station	zone	Northern Railway zone
+Rohtak Junction railway station	zone	Northern Railway zone
+10th & Osage station	zone	A
+16th & California and 16th & Stout stations	zone	A
+18th & California and 18th & Stout stations	zone	A
+20th & Welton station	zone	A
+25th & Welton station	zone	A
+27th & Welton station	zone	A
+29th & Welton station	zone	A
+Sucy – Bonneuil	zone	4
+Jhalawar City railway station	zone	West Central Railway zone
+Diphu railway station	zone	Northeast Frontier Railway zone
+Bhulanpur railway station	zone	Northern Railway Zone
+Bhulanpur railway station	zone	North Eastern Railway Zone
+Panki railway station	zone	North Central Railway Zone
+Farrukhabad Junction railway station	zone	North Eastern Railway Zone
+Adityapur Railway Station	zone	South Eastern Railway Zone
+Madurai East railway station	zone	Southern Railway
+Haldwani railway station	zone	North Eastern Railway Zone
+Lalkuan Junction railway station	zone	North Eastern Railway zone
+Ramnagar railway station	zone	Northern Railway Zone
+Ramnagar railway station	zone	North Eastern Railway Zone
+Bhilawadi railway station	zone	Central Railway Zone
+Koregaon railway station	zone	Central Railway Zone
+Purna Junction railway station	zone	South Central Railway Zone
+Chanda Fort railway station	zone	South East Central Railway zone
+Babupeth railway station	zone	South East Central Railway zone
+Vivekanand Nagar railway station	zone	South East Central Railway zone
+Hisar Junction railway station	zone	North Western Railway Zone
+Hapur Junction railway station	zone	Northern Railway Zone
+Sikar Junction railway station	zone	North Western Railway Zone
+Rewa Terminal railway station	zone	West Central Railway Zone
+Marwar Ranawas railway station	zone	North Western Railway Zone
+Ashoknagar railway station	zone	West Central Railway Zone
+Arsikere Junction railway station	zone	South Western Railway zone
+Akot railway station	zone	South Central Railway Zone
+Dalli-Rajhara railway station	zone	South East Central Railway Zone
+Gurdaspur railway station	zone	Northern Railway Zone
+Sadar Bazar railway station	zone	Northern Railway Zone
+Shakur Basti railway station	zone	Northern Railway Zone
+Chhatrapur railway station	zone	East Coast Railway Zone
+Hoshiarpur railway station	zone	Northern Railway Zone
+Harda railway station	zone	West Central Railway Zone
+Hanumangarh Junction railway station	zone	North Western Railway Zone
+Rae Bareli Junction railway station	zone	Northern Railway Zone
+Harsud railway station	zone	West Central Railway Zone
+Tumsar Road railway station	zone	South East Central Railway Zone
+Karwar railway station	zone	Konkan Railway
+Udupi railway station	zone	Konkan Railway
+Vindhyachal railway station	zone	North Central Railway Zone
+Adarshnagar railway station	zone	North Western Railway Zone
+Akaltara railway station	zone	South East Central Railway Zone
+Adarsh Nagar railway station	zone	Northern Railway Zone
+Amli railway station	zone	West Central Railway Zone
+Amla Junction railway station	zone	Central Railway Zone
+Ambassa railway station	zone	Northeast Frontier Railway Zone
+Udaipur Tripura railway station	zone	Northeast Frontier Railway Zone
+Bhilai Power House railway station	zone	South East Central Railway Zone
+Bhilai Nagar railway station	zone	South East Central Railway Zone
+Buxar railway station	zone	East Central Railway Zone
+Badli railway station	zone	Northern Railway Zone
+Bokaro Thermal railway station	zone	East Central Railway Zone
+Bilaspur Road railway station	zone	North Eastern Railway Zone
+Barog railway station	zone	Northern Railway Zone
+Bazpur railway station	zone	North Eastern Railway Zone
+Bairabi railway station	zone	Northeast Frontier Railway Zone
+Champa Junction railway station	zone	South East Central RailwayRailway]]
+Canacona railway station	zone	Konkan Railway
+Chandi Mandir railway station	zone	Northern Railway Zone
+Castle Rock railway station	zone	South Western Railway Zone
+Churu Junction railway station	zone	North Western Railway Zone
+Chauri Chaura railway station	zone	North Eastern Railway Zone
+Chodiala railway station	zone	Northern Railway Zone
+Safdarjung railway station	zone	Northern Railway Zone
+Delhi Shahdara Junction railway station	zone	Northern Railway Zone
+Dharmpur Himachal railway station	zone	Northern Railway Zone
+Guna Junction railway station	zone	West Central Railway Zone
+Gevra Road railway station	zone	South East Central Railway Zone
+Fatehpur Sekhawati railway station	zone	North Western Zone
+Dabra railway station	zone	North Central Railway Zone
+Dwarka railway station	zone	Western Railway Zone
+Dholpur Junction railway station	zone	North Central Railway zone
+Hindupur Junction railway station	zone	South Western Railway Zone
+Hanumangarh Town railway station	zone	North Western Railway Zone
+Hathras City railway station	zone	Northern Railway Zone
+Hathras City railway station	zone	North Eastern Railway Zone
+Hathras Kila railway station	zone	North Central Railway Zone
+Jhalawar Road railway station	zone	West Central Railway Zone
+Jam Jodhpur Junction railway station	zone	Western Railway Zone
+Kachhwa Road railway station	zone	North Eastern Railway Zone
+Khera Kalan railway station	zone	Northern Railway Zone
+Naya Azadpur railway station	zone	Northern Railway Zone
+Narela railway station	zone	Northern Railway Zone
+Quarry Siding railway station	zone	South Eastern Railway Zone
+Petaluma–Downtown	zone	3
+Mallur railway station	zone	Southern Railway zone
+Rasipuram railway station	zone	Southern Railway zone
+Mohanur railway station	zone	Southern Railway zone
+Laddivadi railway station	zone	Southern Railway zone
+Kalangani railway station	zone	Southern Railway zone
+Puduchatram railway station	zone	Southern Railway zone
+Gare des Yvris – Noisy-le-Grand	zone	4
+Gare du Chénay – Gagny	zone	4
+Mettur Dam railway station	zone	Southern Railway zone
+Vangal railway station	zone	Southern Railway zone
+Malkhed railway station	zone	Indian Railways
+Denver Airport station	zone	Airport Zone
+Mustabada railway station	zone	South Central Railway
+Gunadala railway station	zone	South Central Railway
+Gare d'Achères – Ville	zone	5
+Gare d'Achères – Grand Cormier	zone	5
+Le Parc de Saint-Maur	zone	3
+La Varenne – Chennevières	zone	3
+Delicias railway station	zone	A
+Munroe	zone	2
+Banka Junction railway station	zone	Indian Railways
+Sultanganj railway station	zone	Indian Railways
+Mandar Hill railway station	zone	Indian Railways
+Granollers Centre railway station	zone	* 3D \n* 3
+Port Junction	zone	Myki zone 1
+Émerainville – Pontault-Combault	zone	5
+Nogent – Le Perreux	zone	3
+Thivim railway station	zone	Indian Railways
+Aishbagh Junction railway station	zone	North Eastern Railway
+Aishbagh Junction railway station	zone	Lucknow NER railway division
+Gare de Villeparisis – Mitry-le-Neuf	zone	5
+Badshahnagar railway station	zone	North Eastern Railway
+Badshahnagar railway station	zone	Lucknow NER railway division
+Westminster station	zone	B
+Transport Nagar Railway station	zone	Northern Railway
+Transport Nagar Railway station	zone	Lucknow NR railway division
+Les Boullereaux – Champigny	zone	3
+Daliganj junction railway station	zone	North Eastern Railway
+Daliganj junction railway station	zone	Lucknow NER railway division
+Monkey Hill railway station	zone	Central Railway zone
+Karmali railway station	zone	Indian Railways
+Verna railway station	zone	Indian Railways
+Loliem railway station	zone	Indian Railways
+Balli railway station	zone	Indian Railways
+Suravali railway station	zone	Indian Railways
+Bhatkal railway station	zone	Indian Railways
+Harwada railway station	zone	Indian Railways
+Surathkal railway station	zone	Indian Railways
+Roissy-en-Brie	zone	5
+Hasanparthi Road railway station	zone	South Central Railway zone
+Can Tries – Gornal	zone	1
+Parc Logístic	zone	1
+Mercabarna	zone	1
+King-Victoria Transit Hub	zone	27
+Les Moreres	zone	1
+Dharmabad railway station	zone	South Central Railway zone
+Pioneer Village Terminal	zone	1

@@ -1,0 +1,192 @@
+Rover K-series engine	fueltype	petrol
+Austin 16	fueltype	petrol
+W8 engine	fueltype	Petrol
+VR6 engine	fueltype	Petrol
+Tatra 815	fueltype	Diesel fuel
+Ford Power Stroke engine	fueltype	Diesel fuel
+Detroit Diesel Series 50	fueltype	Diesel, CNG, LNG
+Oldsmobile Diesel engine	fueltype	Diesel fuel
+Ferrari Colombo engine	fueltype	Petrol engine
+Powertec RPA	fueltype	Petrol
+Lamborghini V10	fueltype	Gasoline
+Lamborghini V8	fueltype	Gasoline
+Lamborghini V12	fueltype	Gasoline
+BMW M21	fueltype	Diesel fuel
+BMW M51	fueltype	Diesel
+BMW M57	fueltype	Diesel fuel
+BMC B-Series engine	fueltype	Gasoline & diesel versions
+BMC A-Series engine	fueltype	petrol
+Hyundai Beta engine	fueltype	petrol gasoline
+Circle L engine	fueltype	Diesel fuel
+Cummins B Series engine	fueltype	Diesel
+Alfa Romeo Boxer engine	fueltype	Petrol
+Riley RM	fueltype	petrol
+Mercedes-Benz OM617	fueltype	Diesel fuel
+EMD 645	fueltype	diesel
+Honda K engine	fueltype	Petrol
+JTD engine	fueltype	Diesel fuel
+JTD engine	fueltype	B20
+Volvo SI6 engine	fueltype	Petrol
+Cummins L Series engine	fueltype	Diesel
+Nissan MR engine	fueltype	Gasoline
+Nissan MR engine	fueltype	Diesel
+Nissan MR engine	fueltype	Diesel fuel
+FMR Tg500	fueltype	Two-stroke petrol-oil mixture
+CamPro engine	fueltype	petrol
+Vauxhall Prince Henry	fueltype	petrol
+Cummins C Series engine	fueltype	Diesel
+List of VM Motori engines	fueltype	Diesel fuel
+List of VM Motori engines	fueltype	B20
+Rover T-Series engine	fueltype	petrol
+Volkswagen G60 engine	fueltype	unleaded petrol (gasoline)
+Triumph V8	fueltype	petrol
+Alfa Romeo Twin Cam engine	fueltype	Petrol
+Armstrong Siddeley Sapphire	fueltype	Petrol
+Bentley 8 Litre	fueltype	petrol
+Detroit Diesel V8 engine	fueltype	Diesel
+Morris Cowley	fueltype	petrol
+JTS engine	fueltype	Petrol
+Navistar T444E engine	fueltype	Diesel fuel
+Subaru EJ engine	fueltype	Gasoline
+EMD 567	fueltype	diesel
+Morris Minor	fueltype	petrol, tank in the scuttle
+Rover KV6 engine	fueltype	petrol
+Volvo Modular engine	fueltype	Petrol
+Volvo Modular engine	fueltype	LPG
+Volvo Modular engine	fueltype	CNG
+Subaru EA engine	fueltype	Gasoline
+Wasserboxer	fueltype	Gasoline
+Austin 10	fueltype	petrol supplied by pump from a 6 gallons tank at the rear of the car
+GM Family II engine	fueltype	Diesel fuel
+GM Family II engine	fueltype	Gasoline
+GM Family II engine	fueltype	Ethanol
+Daimler V8 engines	fueltype	Petrol
+Daimler Majestic Major	fueltype	petrol
+Austin 12	fueltype	petrol
+Alfa Romeo V6 engine	fueltype	Petrol
+Renault K-Type engine	fueltype	Diesel fuel
+Renault R-Type engine	fueltype	Diesel fuel
+Renault G-Type engine	fueltype	Diesel fuel
+Daimler Majestic	fueltype	petrol supplied by AC mechanical pump
+MG VA	fueltype	petrol
+Navistar DT engine	fueltype	Diesel fuel
+Cummins M Series engine	fueltype	Diesel
+Tatra 813	fueltype	Diesel fuel
+Tatra 148	fueltype	Diesel fuel
+Triumph Dolomite	fueltype	petrol
+Toyota B engine	fueltype	diesel
+Daimler DR450	fueltype	Petrol
+Rover 6	fueltype	petrol
+Wolseley Hornet six	fueltype	petrol
+Mazda FE-DOHC engine	fueltype	Petrol
+Mercedes-Benz OM603	fueltype	Diesel fuel
+Volvo B8444S engine	fueltype	Petrol
+Rover Meteor	fueltype	petrol
+Austin 10 hp	fueltype	petrol
+Toyota AD engine	fueltype	diesel
+BMW M2B15	fueltype	petrol
+Volkswagen D24TIC engine	fueltype	Diesel fuel
+Volkswagen D24T engine	fueltype	Diesel fuel
+Volkswagen D24 engine	fueltype	Diesel fuel
+Mercedes-Benz OM601 engine	fueltype	Diesel fuel
+Tatra 111	fueltype	Diesel fuel
+Tatra 138	fueltype	Diesel fuel
+Volvo FE	fueltype	Diesel fuel
+Alvis TA 14	fueltype	low octane Pool petrol
+Daimler Regency	fueltype	petrol
+Daimler Regency	fueltype	petrol supplied by AC mechanical pump
+BMW OHV V8 engine	fueltype	petrol
+Daimler DK400	fueltype	petrol supplied by AC mechanical pump
+6	fueltype	petrol
+4	fueltype	petrol
+Hillman 14	fueltype	petrol
+Mercedes-Benz OM642	fueltype	Diesel fuel
+Ferrari F136 engine	fueltype	Petrol engine
+70	fueltype	petrol
+Toyota C engine	fueltype	diesel
+Paxman Valenta	fueltype	Diesel
+Paxman Ventura	fueltype	Diesel
+Vauxhall A-Type	fueltype	petrol
+Rover Light Six	fueltype	petrol
+Rover 12	fueltype	petrol from tank above driver's knees
+Toyota AR engine	fueltype	petrol
+Mercedes-Benz OM611 engine	fueltype	Diesel fuel
+Mercedes-Benz OM612 engine	fueltype	Diesel fuel
+Alvis Speed 20	fueltype	petrol
+Mercedes-Benz OM647 engine	fueltype	Diesel fuel
+International Harvester IDI	fueltype	Diesel fuel
+Daimler Consort	fueltype	petrol
+BMW N57	fueltype	Diesel fuel
+Austin Twenty	fueltype	petrol
+IKCO EF Engines	fueltype	Petrol
+IKCO EF Engines	fueltype	Compressed Natural Gas
+IKCO EF Engines	fueltype	Diesel fuel
+Rolls-Royce C range engines	fueltype	Diesel
+Commer TS3	fueltype	Diesel
+Tatra 810	fueltype	Diesel fuel
+Rover 16	fueltype	petrol
+Mercedes-Benz OM606 engine	fueltype	Diesel fuel
+Mercedes-Benz OM605 engine	fueltype	Diesel fuel
+Mercedes-Benz OM604 engine	fueltype	Diesel fuel
+Austin London Taxicab	fueltype	petrol
+Daimler New Fifteen	fueltype	petrol
+Ford Zetec engine	fueltype	petrol
+D-400 engine	fueltype	Petrol
+Daimler Fifteen	fueltype	petrol
+Daimler Double-Six sleeve-valve V12	fueltype	Petrol
+Lanchester Thirty-Eight	fueltype	Petrol
+Lanchester Ten	fueltype	Petrol mechanically pumped from an 8-gallon fuel tank at the rear
+18	fueltype	Petrol
+BSA Ten	fueltype	petrol
+Lanchester Light Six	fueltype	Petrol
+Lanchester Fourteen	fueltype	petrol supplied by mechanical pump
+Lanchester Fourteen	fueltype	petrol supplied by AC mechanical pump
+Mercedes-Benz OM651 engine	fueltype	diesel
+GM Family Z engine	fueltype	Diesel fuel
+Toyota W engine	fueltype	diesel
+Rover 14	fueltype	petrol
+Vauxhall Cadet	fueltype	Petrol
+Mercedes-Benz OM668	fueltype	Diesel fuel
+Mercedes-Benz OM636	fueltype	Diesel fuel
+Mercedes-Benz OM629	fueltype	Diesel fuel
+Mercedes-Benz OM640	fueltype	Diesel fuel
+Mercedes-Benz OM660	fueltype	Diesel fuel
+Daimler Straight-Eight engines	fueltype	petrol supplied by mechanical pump
+Daimler Straight-Eight engines	fueltype	petrol
+Daimler Straight-Eight engines	fueltype	petrol, fuel pump AC mechanical
+Vauxhall 23-60	fueltype	petrol
+Detroit diesel 6051 quad-71	fueltype	Diesel
+Austin 14	fueltype	petrol
+Mercedes-Benz OM457 engine	fueltype	Diesel fuel 51 CZ, DIN EN 590 or EN 14214
+Ducati Bipantah engine	fueltype	Gasoline
+GM Medium Diesel engine	fueltype	Diesel
+Hillman 20	fueltype	petrol
+Indian Powerplus	fueltype	petrol
+List of Volvo Trucks engines	fueltype	Diesel fuel
+List of Volvo Trucks engines	fueltype	diesel
+Morris Twelve	fueltype	petrol
+Vauxhall 20-60	fueltype	petrol
+Ferrari F140 engine	fueltype	Petrol engine
+Daimler DE	fueltype	petrol
+Morris Six	fueltype	petrol
+Morris Six	fueltype	Carburettor: S.U. fed by Autovac tank on the dash, main tank at back of car has a gauge mounted on it
+Ferrari F154 engine	fueltype	Shell V-Power
+Ferrari F154 engine	fueltype	Petrol engine
+Morris Oxford Empire models	fueltype	petrol
+Morris Oxford bullnose	fueltype	petrol
+LIAZ 100 series	fueltype	Diesel fuel
+F133 engine	fueltype	Petrol engine
+Austin 30 hp	fueltype	petrol
+Austin 20 hp	fueltype	petrol
+Rover 20	fueltype	petrol
+Ferrari flat-12 engine	fueltype	Petrol engine
+Daimler Twenty-Two	fueltype	petrol
+Rover Two-litre	fueltype	petrol
+Volvo Engine Architecture	fueltype	Petrol
+Volvo Engine Architecture	fueltype	Diesel
+Mercedes-Benz OM654 engine	fueltype	diesel
+MWM AKD 112 Z	fueltype	 Cetane,"^^
+12-1 SRW	fueltype	Diesel fuel
+Riley 16	fueltype	petrol
+Hillman 20 8-cylinder	fueltype	petrol
+Humber 15	fueltype	petrol

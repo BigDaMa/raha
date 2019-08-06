@@ -1,0 +1,1601 @@
+Channel Tunnel	el	352.2
+Tramlink	el	Overhead line
+Docklands Light Railway	el	750
+London Underground	el	630
+London Post Office Railway	el	440
+Great Belt Fixed Link	el	25
+Paris Métro	el	750
+Bay Area Rapid Transit	el	Third rail, 1,000 V DC
+Moscow Metro	el	825
+Moscow Metro	el	3
+Thameslink	el	25
+Thameslink	el	750
+East London Line	el	750
+High Speed 1	el	25
+SkyTrain	el	Third rail
+Washington Metro	el	Third rail 750 V DC
+MAX Light Rail	el	750
+MAX Light Rail	el	825
+West Coast Main Line	el	Mk1 and UK1
+West Coast Main Line	el	25
+West Coast Main Line	el	OHLE
+Midland Main Line	el	Mk3b 25 kV 50 Hz AC
+Portland Streetcar	el	Overhead, 750 V DC
+Northern City Line	el	25
+Northern City Line	el	750
+Wengernalp railway	el	1500
+Jungfrau railway	el	3
+Rhaetian Railway	el	11
+Rhaetian Railway	el	1000
+Hankyū Kōbe Main Line	el	1500
+Tōkaidō Main Line	el	1500
+Seishin-Yamate Line	el	1500
+Crossrail	el	25
+San Francisco Municipal Railway	el	Overhead lines, 600 V DC
+Manchester Metrolink	el	Overhead line
+Hankyu Kyoto Main Line	el	1500
+Hong Kong Tramways	el	Overhead lines, 550 V DC
+North London Line	el	25
+North London Line	el	750
+Metropolitan Atlanta Rapid Transit Authority	el	Third rail 750 V DC
+Karasuma Line	el	1500
+Tren Urbano	el	Third rail, 750 V DC
+New York City Subway	el	600
+Midland Metro	el	Overhead line
+PATH	el	600
+Island Line	el	1.5
+Tsuen Wan Line	el	1.5
+Sheffield Supertram	el	Overhead line
+METRORail	el	600
+Staten Island Railway	el	600
+42nd Street Shuttle	el	625
+Gyeongin Line	el	25
+Gyeongbu Line	el	25
+Bucharest Metro	el	Third rail 750 V DC
+Honam Line	el	25
+Jeolla Line	el	25
+Northeast Corridor	el	Overhead catenary
+Northeast Corridor	el	25
+Northeast Corridor	el	12.5
+Northeast Corridor	el	12
+South London Line	el	750
+Kwun Tong Line	el	1.5
+Tōkaidō Shinkansen	el	25
+Tyne and Wear Metro	el	1500
+Stockholm metro	el	650
+Stockholm metro	el	750
+Saikyō Line	el	1500
+Mumbai Suburban Railway	el	25000
+Yamanote Line	el	1500
+Shōnan–Shinjuku Line	el	1500
+Keihin-Tōhoku Line	el	1500
+Tokyo Metro Ginza Line	el	600
+Betuweroute	el	25
+Osaka Municipal Subway	el	Third rail lines: 750 V DC, third rail
+Osaka Municipal Subway	el	Sakaisuji Line and linear motor metro lines: 1,500 V DC, overhead lines
+Osaka Line	el	1500
+Tokyo Metro Chiyoda Line	el	1500
+Biwako Line	el	1500
+Hakata-Minami Line	el	25
+Kyushu Shinkansen	el	25
+Chicago %22L%22	el	Third rail, 600 V DC
+Helsinki Metro	el	750
+Yurikamome	el	600
+BMT Brighton Line	el	600
+North East MRT Line	el	1500
+East West MRT Line	el	750
+North South MRT Line	el	750
+Green Line	el	600
+Tōkyū Tōyoko Line	el	1500
+Minatomirai Line	el	1500
+Island Line, Isle of Wight	el	630
+Glasgow Subway	el	600
+Tōhoku Shinkansen	el	25
+Hope Valley Line	el	25
+BTS Skytrain	el	Third rail 750 V DC
+Hokuriku Main Line	el	1500
+Detroit People Mover	el	Third rail
+Circle MRT Line	el	750
+Jōetsu Shinkansen	el	25
+Aoimori Railway Line	el	20
+Chungbuk Line	el	25
+Jungang Line	el	25
+Gyeongchun Line	el	25
+Blue Line	el	Overhead catenary
+Blue Line	el	Third rail, 600 V DC
+Brown Line	el	Third rail, 600 V DC
+Expo Line	el	Third rail
+Canada Line	el	Third rail
+MARC Train	el	25
+Hokuriku Shinkansen	el	25
+Donghae Nambu Line	el	25
+Janghang Line	el	25
+Gyeongui Line	el	25
+Nottingham Express Transit	el	Overhead line
+Berlin U-Bahn	el	750
+Tung Chung Line	el	1.5
+Berlin S-Bahn	el	800
+Berlin S-Bahn	el	750
+Copenhagen Metro	el	750
+Gospel Oak to Barking Line	el	25
+Osaka Monorail	el	1500
+Blue Line	el	Third rail 750 V DC
+Orange Line	el	Third rail 750 V DC
+Red Line	el	Third rail 750 V DC
+Green Line	el	Third rail 750 V DC
+Yellow Line	el	Third rail 750 V DC
+Ankara Metro	el	750
+Great Western Main Line	el	Mk3b, Series 1 and UK Master Series 25kV 50hz AC OLE
+Toronto subway	el	600
+MRT	el	Third rail
+Line 2 Bloor–Danforth	el	Third rail, 600 V DC
+Amsterdam Metro	el	750
+Amsterdam Metro	el	600
+Tokyo Metro Hibiya Line	el	1500
+North Clyde Line	el	25
+Argyle Line	el	25
+Iida Line	el	1500
+Schynige Platte railway	el	1500
+Brünig railway line	el	15
+Lauterbrunnen–Mürren mountain railway	el	550
+Nambu Line	el	1500
+Ōme Line	el	1500
+Meiringen–Innertkirchen railway	el	1200
+Fukuchiyama Line	el	1500
+Hudson–Bergen Light Rail	el	750
+Cairo Metro	el	Line 1: Overhead line,1.5 kV DC
+Cairo Metro	el	Line 2: Third rail, 750 V DC
+Cairo Metro	el	Line 3: Third rail
+Gotthard Base Tunnel	el	15
+Luas	el	750
+Mumbai Metro	el	25
+Light rail in Sydney	el	750
+MetroLink	el	Overhead lines, 750 V DC
+Tokyo Metro Hanzōmon Line	el	1500
+Shanghai Metro	el	DC 1500 V
+Shanghai Metro	el	overhead line;
+Shanghai Metro	el	third-rail
+Keiyō Line	el	1500
+Buffalo Metro Rail	el	Overhead lines 650 V DC
+Ashmont–Mattapan High Speed Line	el	600
+CTrain	el	Overhead lines, 600 V DC
+Seattle Center Monorail	el	Third rail
+Yokosuka Line	el	1500
+Punggol LRT Line	el	750
+Akita Shinkansen	el	20
+Yamagata Shinkansen	el	20
+Edinburgh Trams	el	750
+Seville Metro	el	750
+Ayrshire Coast Line	el	25
+Key System	el	600
+Downtown Seattle Transit Tunnel	el	1500
+Tōzai Line	el	1500
+Katamachi Line	el	1500
+Osaka Higashi Line	el	1500
+Skitube Alpine Railway	el	1.5
+Tokyo Metro Marunouchi Line	el	600
+Taipei Metro	el	Third rail 750 V DC
+Toden Arakawa Line	el	600
+Hankyū Minoo Line	el	1500
+Hankyu Takarazuka Main Line	el	1500
+Utsunomiya Line	el	1500
+Toei Ōedo Line	el	1500
+Manx Electric Railway	el	550
+Snaefell Mountain Railway	el	550
+Waterfront Streetcar	el	Overhead wires, 600 V DC
+Copenhagen S-train	el	1650
+Light Rail	el	750
+Chennai Mass Rapid Transit System	el	25
+Batong Line, Beijing Subway	el	Third rail
+Tamsui Line, Taipei Metro	el	Third rail
+Xinbeitou Branch Line, Taipei Metro	el	Third rail
+Xindian Line, Taipei Metro	el	Third rail
+Tsukuba Express	el	1500
+Tsukuba Express	el	20
+Xiaonanmen Line, Taipei Metro	el	Third rail
+AirTrain Newark	el	Dual third rails
+AirTrain JFK	el	Third rail 750 V DC
+Line 10, Beijing Subway	el	750
+Blue and Green Lines	el	Overhead lines
+Blue and Green Lines	el	600
+Red Line	el	Third rail
+Orange Line	el	Third rail
+Santiago Metro	el	750
+Buenos Aires Underground	el	= 1500 V overhead line
+Buenos Aires Underground	el	= 550 V third rail
+Buenos Aires Underground	el	= 750 V overhead line
+Forch railway	el	600
+Tokyo Metro Namboku Line	el	1500
+Tōkyū Den-en-toshi Line	el	1500
+Bremgarten–Dietikon railway line	el	1200
+BMT West End Line	el	600
+Airport Express	el	1.5
+Tokyo Metro Tōzai Line	el	1500
+Chūō-Sōbu Line	el	1500
+Tokyo Metro Yūrakuchō Line	el	1500
+Toei Asakusa Line	el	1500
+Companhia Paulista de Trens Metropolitanos	el	3000
+TRAX	el	750
+West London Line	el	750
+West London Line	el	25
+Bukit Panjang LRT Line	el	600
+Proastiakos	el	25
+LGV Nord	el	25
+Lisbon Metro	el	750
+Sengkang LRT Line	el	750
+Seibu Tamagawa Line	el	1500
+Vienna U-Bahn	el	750
+Vienna U-Bahn	el	Overhead lines
+Munich S-Bahn	el	15
+Furka–Oberalp railway	el	11000
+BVZ Zermatt-Bahn	el	Overhead catenary
+BVZ Zermatt-Bahn	el	11
+Airedale Line	el	Overhead catenary
+Keio Inokashira Line	el	1500
+Xiaobitan Branch Line, Taipei Metro	el	Third rail
+Tucheng Line, Taipei Metro	el	Third rail
+Neihu Line, Taipei Metro	el	Third rail
+Xinzhuang Line, Taipei Metro	el	Third rail
+Luzhou Line, Taipei Metro	el	Third rail
+Hamburg S-Bahn	el	1200
+Line C	el	Overhead lines
+Line H	el	Overhead lines
+Line D	el	Overhead lines
+Line A	el	Overhead lines
+Line B	el	Third rail and catenary
+Line E	el	Overhead lines
+Morristown Line	el	25
+North Jersey Coast Line	el	12
+North Jersey Coast Line	el	25
+New York Tunnel Extension	el	650
+Minami Osaka Line	el	1500
+Metrorail	el	Third rail
+Shore Line East	el	25
+Musashino Line	el	1500
+Seibu Ikebukuro Line	el	1500
+South Western Main Line	el	750
+Seibu Chichibu Line	el	1500
+North–South connection	el	3
+Rome Metro	el	Overhead lines
+IRT Flushing Line	el	625
+IND Eighth Avenue Line	el	600
+Cross-City Line	el	25
+BMT Canarsie Line	el	600
+Yilan Line	el	25
+Taichung Line	el	25
+IND Concourse Line	el	600
+Kintetsu Namba Line	el	1500
+Chūō Line	el	750
+Taoyuan International Airport MRT	el	Third rail 750 V DC
+Helsinki commuter rail	el	25
+Transbay Tube	el	Third rail, 1000 V DC
+Muni Metro	el	Overhead lines, 600 V DC
+BMT Jamaica Line	el	600
+Nagano Line	el	1500
+Hachikō Line	el	1500
+Oslo Metro	el	750
+BMT Broadway Line	el	600
+North-Link Line	el	25
+Pingtung Line	el	25
+Hualien–Taitung Line	el	25
+BMT Myrtle Avenue Line	el	600
+F Market & Wharves	el	Overhead lines, 600 V DC
+Agatsuma Line	el	1500
+IND Sixth Avenue Line	el	600
+IND Culver Line	el	600
+IND Culver Line	el	Volt
+IND Culver Line	el	DC third rail
+Ryōmō Line	el	1500
+Jōetsu Line	el	1500
+Keihan Main Line	el	1500
+Sofia Metro	el	Third rail, 825V DC
+BMT Nassau Street Line	el	600
+IND Crosstown Line	el	Railway electric traction
+Archer Avenue Lines	el	600
+63rd Street Lines	el	600
+N Judah	el	Overhead lines, 600 V DC
+L Taraval	el	Overhead lines, 600 V DC
+K Ingleside	el	Overhead lines, 600 V DC
+J Church	el	Overhead lines, 600 V DC
+S Castro Shuttle	el	Overhead lines, 600 V DC
+Sunset Tunnel	el	Overhead lines, 600 V DC
+San Diego Trolley	el	600
+Lima Metro	el	Overhead lines
+Tattenham Corner Line	el	750
+Brighton Main Line	el	750
+Third Street Light Rail Project	el	Overhead lines, 600 V DC
+Central Subway	el	Overhead lines, 600 V DC
+Queensland Rail City network	el	25
+Drachenfels Railway	el	750
+East Coastway Line	el	750
+Twin Peaks Tunnel	el	Overhead lines, 600 V DC
+Market Street Subway	el	BART:
+Market Street Subway	el	Third rail, 1000 V DC
+Market Street Subway	el	Muni Metro:
+Market Street Subway	el	Overhead lines, 600 V DC
+Bexleyheath Line	el	750
+North Kent Line	el	750
+Dartford Loop Line	el	750
+Catford Loop Line	el	750
+Metro Bilbao	el	1500
+IRT Lenox Avenue Line	el	600
+Chemin de fer du Montenvers	el	Overhead lines
+Chemin de fer du Montenvers	el	at 11000 V 50 Hz
+West Island Line	el	1.5
+Thornlie railway line	el	Overhead line
+Thornlie railway line	el	25 kV AC railway electrification
+Saint Petersburg Metro	el	850
+BMT Sea Beach Line	el	600
+SEPTA Routes 101 and 102	el	Overhead lines
+Kawagoe Line	el	1500
+Tōbu Tōjō Line	el	1500
+Takasaki Line	el	1500
+Tobu Urban Park Line	el	1500
+New Shuttle	el	600
+Bowling Green–South Ferry shuttle	el	625
+IRT White Plains Road Line	el	600
+Senseki Line	el	1500
+BMT Astoria Line	el	600
+Toronto streetcar system	el	Overhead lines, 600 V DC
+Abbey Line	el	25
+Aonami Line	el	1500
+Lea Valley Lines	el	25
+Hamburg U-Bahn	el	750
+510 Spadina	el	600
+Senzan Line	el	20
+Sutton and Mole Valley Lines	el	750
+Fen Line	el	25
+Chatham Main Line	el	750
+Durham Coast Line	el	1500
+Expo Express	el	Third rail 600 V DC
+West Anglia Main Line	el	25
+Tōkyū Tamagawa Line	el	1500
+Tōkyū Meguro Line	el	1500
+Porto Metro	el	750
+Braintree Branch Line	el	25
+Disneyland Resort Line	el	1.5
+North Island Main Trunk	el	1500
+North Island Main Trunk	el	25
+Kowloon Southern Link	el	25
+Breckland Line	el	25
+Lötschberg Base Tunnel	el	15
+Negishi Line	el	1500
+Los Angeles Metro Rail	el	750
+Red Line	el	750
+Shonan Monorail	el	1500
+Inverclyde Line	el	25
+509 Harbourfront	el	600
+Hanshin Namba Line	el	1500
+Höllentalbahn	el	1936
+Höllentalbahn	el	since 1960, 15 kV, 16⅔ Hz, AC
+Jōban Line	el	1500
+Sacramento Regional Transit District	el	Overhead lines, 750 V DC
+Northampton Loop Line	el	25
+Airport Link, Sydney	el	Overhead 1500V DC
+Waterloo to Reading Line	el	750
+Keihan Katano Line	el	1500
+512 St. Clair	el	600
+Hankyu Arashiyama Line	el	1500
+Hankyū Itami Line	el	1500
+LINK Train	el	36
+Atlantic Branch	el	750
+Hokkaido Shinkansen	el	25
+Dubai Metro	el	Third rail, 750 V DC
+Kolkata Metro	el	750
+Zhonghe Line, Taipei Metro	el	Third rail
+Blue Line	el	750
+Furka Base Tunnel	el	Overhead catenary
+Furka Base Tunnel	el	11
+Sendai Subway Namboku Line	el	1500
+Gold Line	el	750
+Expo Line	el	750
+Keisei Main Line	el	1500
+Fremont–Daly City line	el	Third rail, 1,000 V DC
+Pleasanton–Daly City line	el	Third rail, 1000 V DC
+Millbrae line	el	Third rail, 1000 V DC
+Gala-Yuzawa Line	el	25
+Sokolnicheskaya Line	el	Third rail
+Zamoskvoretskaya Line	el	Third rail
+BMT Fourth Avenue Line	el	600
+Filyovskaya Line	el	Third rail
+Koltsevaya Line	el	Third rail
+IRT Nostrand Avenue Line	el	600
+Yeongdong Line	el	25
+Chessington Branch Line	el	750
+501 Queen	el	600
+Central Link	el	1500
+Central Link	el	Overhead lines
+M2	el	750.0
+M1	el	750.0
+Gotthard Tunnel	el	1920-10-18
+Tranz Metro	el	1600
+Paisley Canal Line	el	25
+Tokyo Metro Fukutoshin Line	el	1500
+Namma Metro	el	750
+511 Bathurst	el	600
+508 Lake Shore	el	600
+504 King	el	600
+Line 1, Shanghai Metro	el	Overhead lines
+Line 2, Shanghai Metro	el	Overhead lines
+Line 5, Shanghai Metro	el	Overhead lines
+Line 4, Shanghai Metro	el	Overhead lines
+Line 3, Shanghai Metro	el	Overhead wires
+Cathcart Circle Lines	el	25
+North Berwick Line	el	25
+Keisei Narita Airport Line	el	1500
+Green Line	el	750
+Helsinki tram	el	600
+Helsinki tram	el	overhead lines
+Multi-Modal Transport System	el	25
+Guadalajara light rail system	el	750
+Airport Line	el	Overhead lines
+Newark Line	el	Overhead lines
+Newark Line	el	List of current systems for electric rail traction
+Hertford Loop Line	el	25
+Bantan Line	el	1500
+Toei Mita Line	el	1500
+Toei Shinjuku Line	el	1500
+Liverpool to Manchester Lines	el	Mk1/Mk3/UK1 and Series 2 25 kV 50hz AC OHLE Lime Street - Liverpool South Parkway - Lime Street - Manchester Piccadilly Northern Route
+Charlotte Trolley	el	Overhead catenary
+Chiba Urban Monorail	el	1500
+Tobu Isesaki Line	el	1500
+Furuset Line	el	750
+Saitama Rapid Railway Line	el	1500
+South Eastern Main Line	el	750
+South Eastern Main Line	el	25
+South Wales Main Line	el	25
+Kaluzhsko-Rizhskaya Line	el	Third rail
+Tagansko-Krasnopresnenskaya Line	el	Third rail
+Kalininsko-Solntsevskaya Line	el	Third rail
+Serpukhovsko-Timiryazevskaya Line	el	Third rail
+Crouch Valley Line	el	25
+Mayflower Line	el	25
+Shenfield to Southend Line	el	25
+Lyublinsko-Dmitrovskaya Line	el	Third rail
+MAX Green Line	el	750
+Kakhovskaya Line	el	Third rail
+Lötschberg Tunnel	el	15
+Northern Line	el	750
+Wirral Line	el	750
+Seibu Shinjuku Line	el	1500
+Streetcars in Washington, D.C.	el	V DC Conduit current collection
+LGV Est	el	25
+Alum Rock–Santa Teresa	el	Overhead lines, 750 V DC
+Ligne de Cerdagne	el	850
+Saltsjöbanan	el	750
+Nara Line	el	1500
+Liverpool to Wigan Line	el	25
+St. Charles Streetcar Line	el	Overhead line
+Peterborough to Lincoln Line	el	25
+Brasília Metro	el	750
+Cambridge Line	el	25
+Catania Metro	el	3
+Butovskaya Line	el	Third rail
+Capital Red Rose Corridor	el	Overhead lines
+Glossop Line	el	25
+Green Line	el	750
+Beijing–Kowloon Railway	el	25
+Baltimore Metro Subway	el	Third rail
+Baltimore Light Rail	el	750
+Bellinzona–Mesocco railway	el	1500
+Simplon Tunnel	el	--06-01
+Mountain View–Winchester	el	Overhead lines, 750 V DC
+London to Aylesbury Line	el	630
+Red Line	el	25
+Yellow Line	el	25
+Blue Line	el	25
+Chennai Metro	el	25
+D Line	el	Overhead lines
+C Line	el	Overhead lines
+Shibayama Railway	el	1500
+E Line	el	Overhead lines
+F Line	el	Overhead lines
+R Line	el	Overhead lines
+H Line	el	Overhead lines
+Tobu Ogose Line	el	1500
+Sagami Line	el	1500
+LGV Sud-Est	el	25
+LGV Atlantique	el	25
+LGV Méditerranée	el	25
+LGV Rhin-Rhône	el	25
+Transdev Auckland	el	25
+7 Subway Extension	el	625
+North Auckland Line	el	25
+LGV Rhône-Alpes	el	25
+Chicago Rapid Transit Company	el	Third rail, trolley wire 600 V DC
+Arbatsko-Pokrovskaya Line	el	Third rail
+SEPTA Route 10	el	Overhead lines
+Keisei Higashi-Narita Line	el	1500
+Watford DC Line	el	660
+Chongqing Rail Transit	el	1500
+Köln–Frankfurt high-speed rail line	el	15
+Evergreen Extension	el	Third rail
+Dunsmuir Tunnel	el	Third rail
+Silver Line	el	Third rail 750 V DC
+Biotren	el	catenary
+Hankyū Imazu Line	el	1500
+Nuremberg U-Bahn	el	750
+University Line	el	Overhead lines
+Blue Line	el	Overhead catenary
+Medellín Metro	el	1500
+Gotthard railway	el	supplied by overhead line
+Rigi Railways	el	1500
+Yerevan Metro	el	Third rail, 825V DC
+Link light rail	el	Tacoma Link:
+Link light rail	el	750
+Link light rail	el	Central Link:
+Link light rail	el	1500
+Shipyard Railway	el	Overhead lines
+Far Rockaway Branch	el	750
+East Bay Electric Lines	el	1200
+Ferrocarril Suburbano de la Zona Metropolitana del Valle de México	el	25
+HSL 1	el	25
+HSL 2	el	25
+Astram Line	el	750
+HSL 3	el	25
+HSL 4	el	25
+Purple Line	el	750
+Keikyū Main Line	el	1500
+Cercanías Málaga	el	Overhead lines
+Baku Metro	el	Third rail, 825V DC
+506 Carlton	el	600
+Sōbu Line	el	1500
+Mariazell Railway	el	6.5
+Belfast–Dublin railway line	el	1500
+Port Washington Branch	el	750
+Babylon Railroad	el	Overhead lines
+North River Tunnels	el	Third rail and Overhead lines
+Rorschach–Heiden railway	el	15
+Tacoma Link	el	750
+Airdrie to Bathgate Rail Link	el	25
+Streetcars in Kenosha, Wisconsin	el	Overhead lines, 600 V DC
+Rotterdam Metro	el	750
+Kirnitzschtal tramway	el	600
+DART Underground	el	1500
+Transandine Railway	el	3000
+Keifuku Electric Railroad	el	600
+Keifuku Electric Railroad	el	Overhead line
+505 Dundas	el	600
+Hanover–Würzburg high-speed railway	el	15
+Nanjing Metro	el	5
+Ōigawa Railway Ikawa Line	el	1500
+Great Northern Route	el	25
+Great Northern Route	el	750
+Beijing–Shanghai Railway	el	25
+Hanover S-Bahn	el	Overhead lines, 15 kV AC
+Nippori-Toneri Liner	el	600
+Glasgow to Edinburgh via Carstairs Line	el	25
+Nippō Main Line	el	20
+Cologne–Aachen high-speed railway	el	15
+Uptown Hudson Tubes	el	600
+Moscow Monorail	el	Third rail
+Bordeaux tramway	el	750
+Port Jefferson Branch	el	750
+Onehunga Branch	el	25
+T Third Street	el	Overhead lines, 600 V DC
+AREX	el	25
+Savio Rail Tunnel	el	25
+Downtown Hudson Tubes	el	600
+Crewe to Derby Line	el	25
+London Overground	el	25
+London Overground	el	750
+Bursaray	el	1500
+Edmonton Light Rail Transit	el	Overhead lines, 600 volts DC
+Yokohama Line	el	1500
+Keikyū Daishi Line	el	1500
+Keikyū Kurihama Line	el	1500
+Crossrail 2	el	25
+Metrovalencia	el	750
+Metrovalencia	el	1500
+Brenner Base Tunnel	el	Rail electrification
+Brenner Base Tunnel	el	25
+Stuttgart Stadtbahn	el	750
+Nice tramway	el	750
+502 Downtowner	el	600
+503 Kingston Rd	el	600
+Montreux–Glion–Rochers-de-Naye railway	el	850
+Vienna S-Bahn	el	15
+Stoughton Line	el	25
+Oyster Bay Branch	el	750
+Babylon Branch	el	750
+Ronkonkoma Branch	el	750
+Long Beach Branch	el	750
+West Hempstead Branch	el	750
+West Hempstead Branch	el	Third rail, since 1926
+Hempstead Branch	el	750
+Wairarapa Line	el	1500
+Wairarapa Line	el	1953-09-14
+Wairarapa Line	el	1953-11-23
+Wairarapa Line	el	1955-07-24
+Jerusalem Light Rail	el	750
+Aigle–Sépey–Diablerets railway	el	1500
+Tazawako Line	el	20000
+Nangang Line, Taipei Metro	el	Third rail
+Banqiao Line, Taipei Metro	el	Third rail
+Elgin and Belvidere Electric Company	el	Trolley wire
+Stadtbahn Glattal	el	600
+Nankai Main Line	el	1500
+Hakodate Main Line	el	20
+Ohio Valley Electric Railway	el	Overhead lines
+E Embarcadero	el	Overhead lines, 600 V DC
+Nuremberg S-Bahn	el	15
+Metrorail Western Cape	el	Overhead lines at 3000V DC
+Nikkō Line	el	1500
+Abukuma Express Line	el	20
+Pittsburgh Light Rail	el	650
+Blue Line	el	750
+Sagami Railway Main Line	el	1500
+Sagami Railway Izumino Line	el	1500
+Tōkyū Ōimachi Line	el	1500
+Tōkyū Ikegami Line	el	1500
+Tōkyū Setagaya Line	el	600
+Keikyū Airport Line	el	1500
+Keikyū Zushi Line	el	1500
+Genoa Metro	el	750
+Dresden S-Bahn	el	Overhead lines
+Airport Rail Link	el	Overhead line, 25 kV AC
+Toulouse Metro	el	750
+Tōbu Utsunomiya Line	el	1500
+Tōbu Nikkō Line	el	1500
+Mikuni Awara Line	el	600
+Greenwich Park Branch Line	el	750
+Kōnan Railway Kōnan Line	el	1500
+Kōnan Railway Ōwani Line	el	1500
+Koya Line	el	1500
+Aigle–Leysin railway	el	1500
+Pyongui Line	el	3000
+Montreal Metro	el	\
+Odakyū Tama Line	el	1500
+Tōgane Line	el	1500
+Taebaek Line	el	25
+Iwate Galaxy Railway Line	el	20000
+Grenoble–Montmélian railway	el	25
+Greenwich Line	el	750
+Midōsuji Line	el	750
+Common Tunnel	el	750
+Suffolk Traction Company	el	Traction battery
+Chennai Suburban Railway	el	25000
+Saint-Étienne tramway	el	600
+Koznitsa	el	25.0
+RTD Bus & Rail	el	Overhead lines, 25k V AC 60 Hz
+RTD Bus & Rail	el	Overhead lines, 750 V DC
+Changi Airport Skytrain	el	750
+Perpignan–Barcelona high-speed rail line	el	25
+Red Line	el	Overhead lines
+Nishitetsu Kaizuka Line	el	1500
+Tashkent Metro	el	825
+Bergen Light Rail	el	750
+Berlin Stadtbahn	el	*(Berlin S-Bahn:) 800 V third rail\n*(Main line:) 15 kV/16.7 Hz AC Overhead catenary
+Berlin Ringbahn	el	*(S-Bahn:) 750 V third rail\n*(main line:) 15 kV/16.7 Hz AC Overhead catenary
+Shin'etsu Main Line	el	1500
+DFW Skylink	el	Third rail
+Kure Line	el	1500
+New Athos Cave Railway	el	300
+Hanover–Berlin high-speed railway	el	15
+Hanover–Berlin high-speed railway	el	Overhead catenary
+Tōyō Rapid Railway Line	el	1500
+Disney Resort Line	el	1500
+Downtown MRT Line	el	750
+Kawasaki Municipal Subway	el	1500
+Akō Line	el	1500
+West Rhine Railway	el	15
+Hankyu Senri Line	el	1500
+Chitose Line	el	20
+Hakubi Line	el	1500
+Lower Elbe Railway	el	15
+Nagareyama Line	el	1500
+Wadamisaki Line	el	1500
+Sanyo Electric Railway Main Line	el	1500
+South Lake Union Streetcar	el	Overhead lines, 750 V DC
+Arlberg railway	el	15
+Kisei Main Line	el	1500
+Vallvidrera Funicular	el	220
+Wakayama Line	el	1500
+Sakurai Line	el	1500
+Hyderabad Metro Rail	el	25
+Canal Streetcar Line	el	Overhead line
+Shintetsu Ao Line	el	1500
+Chōshi Electric Railway Line	el	600
+Chengdu Metro	el	750
+Kapiti Line	el	1500
+Hutt Valley Line	el	1600
+Kūkō Line	el	1500
+Nanakuma Line	el	1500
+Hakozaki Line	el	1500
+Toyama Light Rail Toyamakō Line	el	600
+Saint-Étienne–Lyon railway	el	1.5
+Mantes-la-Jolie–Cherbourg railway	el	25
+Sukhumvit Line	el	750
+Monkey Park Monorail Line	el	1500
+Johnsonville Branch	el	1500
+Keiō Dōbutsuen Line	el	1500
+Bottineau LRT	el	Overhead lines
+Yahiko Line	el	1500
+Hakushin Line	el	1500
+Echigo Line	el	1500
+Dublin–Rosslare railway line	el	1500
+Karatsu Line	el	1500
+Line A	el	Overhead lines
+Gotemba Line	el	1500
+Trams in Pyongyang	el	overhead DC 600 volt, 20 ampere; up to 200 amps during acceleration.
+Ion rapid transit	el	750
+Trieste–Opicina tramway	el	550
+Chingford Branch Line	el	25
+Rittnerbahn	el	750
+Aigle–Ollon–Monthey–Champéry railway	el	1500
+Trans-Dublin	el	1500
+Bex–Villars–Bretaye railway	el	700
+Strasbourg tramway	el	750
+Nichinan Line	el	20
+Shinonoi Line	el	1500
+Hōhi Main Line	el	20
+Sasaguri Line	el	20
+Chikuhō Main Line	el	20
+Miyazaki Kūkō Line	el	20
+Lyttelton Rail Tunnel	el	1500
+Mannheim–Stuttgart high-speed railway	el	15
+Line 5 Eglinton	el	750
+East Rhine Railway	el	15
+East Rhine Railway	el	Overhead catenary
+Taunus Railway	el	15
+High Speed 2	el	25
+Main Railway	el	15
+Ligne du Haut-Bugey	el	1.5
+Prussian Eastern Railway	el	* 750 V DC\n* 3 kV\n*  15 kV/16.7 Hz AC catenary
+Santa Clara Valley Transportation Authority light rail	el	Overhead lines, 750 V DC
+Karlsruhe Stadtbahn	el	750
+Karlsruhe Stadtbahn	el	15
+Keisei Kanamachi Line	el	1500
+Wendlingen–Ulm high-speed railway	el	15
+Ulm–Augsburg railway	el	15
+Transports Montreux–Vevey–Riviera	el	900
+Nuremberg–Erfurt high-speed railway	el	15
+Kashima Line	el	1500
+Skyway	el	Third rail
+Mito Line	el	20
+Robertson Tunnel	el	750
+Line 3, Taipei Metro	el	Third rail
+Tobu Kinugawa Line	el	1500
+Aichi Loop Line	el	1500
+Yoshino Line	el	1500
+Line 6, Shanghai Metro	el	Overhead lines
+Line 9, Shanghai Metro	el	Overhead lines
+Line 8, Shanghai Metro	el	Overhead lines
+Line 5,	el	Third rail
+Aizu Line	el	1500
+Katsuyama Eiheiji Line	el	600
+CEVA rail	el	15
+Yōrō Railway Yōrō Line	el	1500
+Gyeongbu High Speed Railway	el	25
+Honam High Speed Railway	el	25
+Barcelona–Vallès Line	el	1500
+Shiraz Metro	el	1.5
+Maizuru Line	el	1500
+SRT Red Lines	el	25
+Jōshin Dentetsu Jōshin Line	el	1500
+Shinano Railway Line	el	1500
+Izu Kyūkō Line	el	1500
+Gakunan Railway Line	el	1500
+Hokuhoku Line	el	1500
+Ueda Electric Railway Bessho Line	el	1500
+Fujikyuko Line	el	1500
+Chikuhō Electric Railroad Line	el	600
+Mizuma Railway Mizuma Line	el	1500
+Eizan Electric Railway	el	600
+Ōito Line	el	1500
+İzmir Metro	el	750
+Green Line	el	1500
+Sendai Subway Tōzai Line	el	1500
+Reading to Basingstoke Line	el	Planned 25kV OHLE by 2018
+Porto Alegre Metro	el	3000
+Aurora, Elgin and Fox River Electric Company	el	Trolley wire 600v DC
+Seibu Yūrakuchō Line	el	1500
+Belo Horizonte Metro	el	3000
+Tobu Kameido Line	el	1500
+KA Commuter Jabodetabek	el	1500
+Chemins de fer du Jura	el	1500
+Chemins de fer du Jura	el	15
+Sagene Line	el	600
+Thomson-East Coast MRT Line	el	750
+Yverdon–Ste-Croix railway	el	overhead wire
+Minobu Line	el	1500
+Premetro	el	Catenary, 750 V DC
+Kenitra–Tangier high-speed rail line	el	25
+Métro léger de Tunis	el	Overhead lines, 750 V DC
+M1	el	750
+Blue Line	el	600
+Orange Line	el	600
+Dalian Metro	el	1500
+Hertford East Branch Line	el	25
+SuperVia	el	V  Catenary
+Madrid–Barcelona high-speed rail line	el	25
+Mumbai Monorail	el	750
+Tōbu Sano Line	el	1500
+Line 7, Shanghai Metro	el	Overhead lines
+Line 10, Shanghai Metro	el	Overhead lines
+Line 11, Shanghai Metro	el	Overhead lines
+Kochi Metro	el	Third rail 750 V DC
+Rail Baltica	el	3
+Jakarta Mass Rapid Transit	el	1500
+Plauen–Cheb Line	el	25
+Red Line	el	Overhead lines
+Esashi Line	el	20
+Southern Line	el	Overhead catenary
+Falaknuma – Secunderabad route	el	Direct current traction
+Falaknuma – Hyderabad route	el	Direct current traction
+Bolarum – Secunderabad route	el	Direct current traction
+Falaknuma – Lingampally route	el	Direct current traction
+Hyderabad – Lingampally route	el	Direct current traction
+Dill Railway	el	15
+Red Line	el	Third rail
+Green Line	el	750
+Seibu Haijima Line	el	1500
+Green Line	el	Overhead lines
+Berlin Northern Railway	el	*15 kV/16.7 Hz AC Overhead catenary \n*750 V DC third rail
+Madrid–Seville high-speed rail line	el	25
+Keisei Chiba Line	el	1500
+Tōbu Kiryū Line	el	1500
+Line 4, Beijing Subway	el	750
+Line 9, Beijing Subway	el	750
+Line 14, Beijing Subway	el	1500
+Line 8, Beijing Subway	el	750
+Line 6, Beijing Subway	el	1500
+Turin–Ceres railway	el	4000
+TEDA Modern Guided Rail Tram	el	Overhead lines
+Sanyo Electric Railway Aboshi Line	el	1500
+Ōigawa Railway Ōigawa Main Line	el	1500
+Berkeley Hills Tunnel	el	Third rail, 1000 V DC
+Fukuen Line	el	1500
+Line 2	el	825
+Line 3	el	825
+Line 1	el	550
+Line 4	el	750
+MRT Orange Line	el	Third rail
+MRT Purple Line	el	Third rail
+MRT Yellow Line	el	Third rail
+MRT Brown Line	el	Third rail
+MRT Pink Line	el	Third rail
+Line C	el	Overhead lines
+Pune Metro	el	25
+Lille tramway	el	750
+Ekeberg Line	el	750
+Uno Line	el	1500
+Annandale	el	Overhead lines
+Mannheim–Saarbrücken railway	el	15
+Kochelsee Railway	el	15
+Tsugaru Line	el	20
+Amsterdam–Zutphen railway	el	Amsterdam–Apeldoorn 1.5 kV DC
+Amsterdam–Zutphen railway	el	Apeldoorn–Zutphen not electrified
+Den Dolder–Baarn railway	el	1.5
+Rostov Metro	el	825
+Keihan Nakanoshima Line	el	1500
+Elst–Dordrecht railway	el	1.5
+Den Helder–Amsterdam railway	el	1.5
+Briskeby Line	el	750
+Line 15, Beijing Subway	el	Third rail
+Seibu Toshima Line	el	1500
+Red Line	el	Overhead lines, 750 V DC
+Blue Line	el	Overhead lines, 750 V DC
+Daiyūzan Line	el	1500
+Seibu Sayama Line	el	1500
+Seibu Seibu-en Line	el	1500
+Leipzig–Dresden railway	el	15
+DC Streetcar	el	750
+Mangfall Valley Railway	el	15
+Seibu Tamako Line	el	1500
+Seibu Kokubunji Line	el	1500
+Cairo Metro Line 1	el	Overhead catenary
+Guangfo Metro	el	Overhead lines, 1,500 V DC
+Arnhem–Leeuwarden railway	el	1.5
+Regensburg–Passau railway	el	15
+Main-Lahn Railway	el	15
+Line 12, Shanghai Metro	el	Overhead lines
+Line 13, Shanghai Metro	el	Overhead lines
+Line B	el	Overhead lines
+Amsterdam–Haarlem–Rotterdam railway	el	1.5
+Ansan Line	el	25
+Metro Transportes do Sul	el	750
+Christchurch railway station, Dublin	el	1500
+METRORail Green Line	el	Overhead wire
+Cairo Metro Line 2	el	Third rail, 750 V DC
+Cairo Metro Line 3	el	Third rail
+Nijkerk–Ede-Wageningen railway	el	1.5
+Wynental and Suhrental railway	el	Direct current 750 Volts
+Metrotrén	el	Voltage? overhead catenary
+Line 1, Guangzhou Metro	el	Overhead lines, 1,500 V DC
+Line 2, Guangzhou Metro	el	Overhead lines, 1,500 V DC
+Line 3, Guangzhou Metro	el	Overhead lines, 1,500 V DC
+Line 4, Guangzhou Metro	el	Third rail, 1,500 V DC
+Chennai Monorail	el	750
+Tunnel Railway	el	400
+Frogner Line	el	750
+Line H7	el	1000
+Mt. Lebanon Tunnel	el	Overhead catenary
+Railway electrification in Iran	el	25
+Florence–Rome railway	el	Electrified at 3000 V DC
+Rome–Formia–Naples railway	el	3
+Gamlebyen Line	el	750
+Ammergau Railway	el	5
+Ammergau Railway	el	15
+Llobregat–Anoia Line	el	1500
+Villa Literno–Napoli Gianturco railway	el	3
+Stuttgart–Hattingen railway	el	15
+Stuttgart–Hattingen railway	el	Overhead catenary
+Milan–Chiasso railway	el	Electrified at 3000 V DC
+Access to the Region's Core	el	12
+Milan–Venice railway	el	Electrified at 3000 V DC
+Domodossola–Milan railway	el	Electrified at 3000 V DC
+Branch MRT Line	el	750
+Cincinnati Bell Connector	el	750
+Trams in Munich	el	750
+Baden main line	el	15
+Neckar Valley Railway	el	15
+Neckar Valley Railway	el	Overhead catenary
+Wiese Valley Railway	el	15
+Württemberg Western Railway	el	15
+Rhine Railway	el	15
+Murg Valley Railway	el	15
+Alb Valley Railway	el	750
+Kraichgau Railway	el	15
+Franconian Forest Railway	el	15
+Black Forest Railway	el	15
+Rhine-Main Railway	el	15
+Rhine-Main Railway	el	Overhead catenary
+Main–Weser Railway	el	15
+Hankyū Kōyō Line	el	1500
+Palermo metropolitan railway service	el	3
+Děčín–Dresden-Neustadt railway	el	* 15 kV/16.7 Hz AC overhead catenary \n* 3 kV DC overhead catenary
+Berlin–Halle railway	el	15
+Franconia Railway	el	15
+First Hill Streetcar	el	Overhead lines, 750 V DC
+Line 5, Guangzhou Metro	el	Third rail, 1,500 V DC
+Martigny–Châtelard Railway	el	830
+Stuttgart-Bad Cannstatt–Aalen railway	el	15
+Stuttgart-Bad Cannstatt–Aalen railway	el	Overhead catenary
+Enz Valley Railway	el	* 750 V DC\n* 15 kV/16.7 Hz AC overhead catenary
+Delhi Airport Metro Express	el	25
+Ueno–Tokyo Line	el	1500
+Zurich–Lucerne railway line	el	supplied by overhead line
+Waldenburg railway	el	1500
+Ammersee Railway	el	15
+Edmonton Radial Railway	el	Overhead line
+Tōkaidō Freight Line	el	Overhead catenary 1,500 V DC
+Metrotranvía Mendoza	el	600
+Red Line	el	1500
+Culoz–Modane railway	el	1500
+Metro-Link Express for Gandhinagar and Ahmedabad	el	750
+Alhambra – San Gabriel	el	Overhead lines
+Balboa	el	Overhead lines
+Wanne-Eickel–Hamburg railway	el	15
+Galabets	el	25.0
+Ampang Line	el	Third Rail
+Goonyella railway line	el	OHLE
+Dubai Tram	el	750
+Salvador Metro	el	3000
+Ankara–Istanbul high-speed railway	el	25
+Berlin–Hamburg Railway	el	*15 kV/16.7 Hz AC catenary \n* 750 V DC third rail \n* 1,200 V DC third rail
+Blackwater railway system	el	OHLE
+Trams in Belgrade	el	600
+Trams in Osijek	el	600
+Fukui Railway Fukubu Line	el	600
+Gyeonggang Line	el	AC 25,000 V 60 Hz
+Violet Line	el	25
+Metrosassari	el	750
+Green Line	el	25
+Izuhakone Railway Sunzu Line	el	1500
+Jinshan Railway	el	Overhead lines
+Albula Railway	el	Overhead catenary
+Albula Railway	el	11
+Bernina railway	el	Overhead lines
+Bernina railway	el	1000
+Albula Tunnel	el	Overhead catenary
+Albula Tunnel	el	11
+Whittier	el	Overhead lines
+Istanbul Tram	el	750
+Jaipur Metro	el	25
+Inchicore railway station	el	1500
+FL lines	el	3
+Lucknow–Kanpur Suburban Railway	el	25
+Blue Line	el	Third rail
+Blue Line	el	Third rail
+Purple Line	el	Third rail
+Zhujiang New Town Automated People Mover System	el	Third rails, 600 V AC
+Halle–Hann. Münden railway	el	15
+Atlanta Streetcar	el	Overhead line
+Brenner Railway	el	* 15 kV 16.7 Hz (Austria) \n*3 kV (Italy)
+Lower Inn Valley Railway	el	15
+New Lower Inn Valley railway	el	15
+Rosenheim–Kufstein railway	el	15
+Belgian railway line 161	el	3
+Belgian railway line 26	el	3
+Munich–Rosenheim railway	el	15
+Belgian railway line 124	el	3
+Belgian railway line 96	el	3
+Belgian railway line 50	el	3
+Belgian railway line 36	el	3
+Belgian railway line 25	el	3
+Keiō Keibajō Line	el	1500
+Saal Railway	el	15
+Bebra–Fulda railway	el	15
+Bebra–Fulda railway	el	Overhead catenary
+High Level Bridge Streetcar	el	Overhead lines
+Mulhouse tramway	el	750
+Mulhouse tramway	el	25
+Huntington Railroad	el	Overhead wires
+Cologne–Duisburg railway	el	15
+Duisburg railway	el	15
+Busan Metro Line 4	el	750
+Dortmund–Hamm railway	el	15
+Hamm–Minden railway	el	15
+Nuremberg–Bamberg railway	el	15
+Nuremberg–Würzburg railway	el	15
+Nantenbach Curve	el	15
+Frankfurt–Hanau	el	15
+Gruiten–Köln-Deutz railway	el	15
+Line 1	el	25
+Düsseldorf–Elberfeld railway	el	15
+Northport Traction Company	el	Overhead wires
+Light Blue Line	el	Third rail
+Magdeburg-Leipzig railway	el	15
+Rodgau Railway	el	15
+Brown Line	el	750
+Berlin–Magdeburg railway	el	*(Berlin S-Bahn:) 800 V third rail\n*(Griebnitzsee–Magdeburg:) 15 kV/16.7 Hz AC overhead catenary
+Fullerton	el	Overhead lines
+Kotoden Nagao Line	el	1500
+Brunswick–Magdeburg railway	el	15
+Brunswick–Magdeburg railway	el	Overhead catenary
+Beverly Hills	el	Overhead lines
+A Line	el	Overhead lines, 25kV AC 60 Hz
+Hanoverian Southern Railway	el	15
+Lehrte–Nordstemmen railway	el	15
+Lehrte–Nordstemmen railway	el	Overhead catenary
+Mass Rapid Transit Master Plan in Bangkok Metropolitan Region	el	Overhead line and Third rail
+Servicio de Transportes Eléctricos	el	Trolleybus: 600 V, DC
+Servicio de Transportes Eléctricos	el	Light rail: 750 V DC
+Weddel loop	el	15
+Berlin–Lehrte railway	el	15
+Berlin–Lehrte railway	el	Overhead catenary
+Berlin–Szczecin railway	el	* (Berlin S-Bahn:) 750 V DC third rail\n* (Berlin–Passow:) 15 kV/16.7 Hz AC catenary\n* (Sz. Gumieńce-Szczecin Gł:) 3 kV DC
+Rodalies de Catalunya	el	3000
+Berlin North–South mainline	el	15
+Northbrae Tunnel	el	EBEL, 1200 V DC overhead
+Northbrae Tunnel	el	KS, 600 V DC overhead, after 1941
+Adana Metro	el	750
+Berlin–Wrocław railway	el	*(Berlin S-Bahn:) 750 V third rail\n*(Berlin–Guben:) 15 kV/16.7 Hz AC overhead \n*(Miłkowice–Wrocław Główny:) 3 kV overhead
+Berlin–Görlitz railway	el	*(Berlin–Cottbus:)15 kV/16.7 Hz AC overhead catenary \n*(Berlin–Königs Wusterhausen:) 750 V DC third rail
+Berlin–Dresden railway	el	15
+Berlin-Blankenheim railway	el	*(Berlin S-Bahn:) 750 V third rail\n*(Berlin–Wiesenburg:) 15 kV/16.7 Hz AC overhead catenary
+Wannsee Railway	el	750
+Anhalt Suburban Line	el	750
+Kremmen Railway	el	750
+Berlin outer ring	el	*(S-Bahn:) 750 V third rail\n*(main line:) 15 kV/16.7 Hz AC overhead catenary
+Baumschulenweg–Neukölln link line	el	750
+Bebra–Göttingen railway	el	15
+Flieden–Gemünden railway	el	15
+Leipzig Hbf–Leipzig-Connewitz railway	el	15
+Southern Railway	el	15
+Bremen–Hanover railway	el	15
+Metrorail KwaZulu-Natal	el	Overhead lines
+Hamburg-Altona link line	el	*15 kV/16.7 Hz AC catenary \n* 1,200 V DC third rail
+Hamburg-Altona–Kiel railway	el	*(Altona–Kiel:)15 kV/16.7 Hz AC overhead catenary \n* (Hamburg–Pinneberg:)1200 V DC third rail
+Bebra–Baunatal-Guntershausen railway	el	15
+Al Mashaaer Al Mugaddassah Metro Southern Line	el	1500
+Al Mashaaer Al Mugaddassah Metro Southern Line	el	Overhead catenary
+İzmir–Eğirdir railway	el	25.0
+Line 8, Guangzhou Metro	el	Overhead lines, 1,500 V DC
+Line 6, Guangzhou Metro	el	Third rails, 1,500 V DC
+TCDD District 1	el	Overhead wire
+Cape Flats Line	el	Overhead catenary
+Kronberg Railway	el	15
+Kronberg Railway	el	Overhead catenary
+Limes Railway	el	15
+Limes Railway	el	Overhead catenary
+Offenbach City Tunnel	el	15
+Soden Railway	el	15
+Navi Mumbai Metro	el	25
+Furka Summit Tunnel	el	Overhead catenary
+Furka Summit Tunnel	el	11
+Central Line	el	Overhead catenary
+Northern Line	el	Overhead catenary
+Frankfurt-Hanau Railway	el	15
+Elwyn Line	el	Overhead line
+Sierra Vista	el	Overhead lines
+Węgliniec–Roßlau railway	el	* (Knappenrode–Roßlau:) 15 kV/16.7 Hz AC catenary\n* (Węgliniec–border:) 3 kV DC
+DART Light Rail	el	750
+Jüterbog–Röderau railway	el	15
+Jüterbog–Röderau railway	el	Overhead catenary
+Metrorail Gauteng	el	Overhead lines
+Ries Railway	el	15
+Allgäu Railway	el	15
+Munich–Garmisch-Partenkirchen railway	el	15
+Görlitz–Dresden railway	el	(DD-Klotzsche–DD-Neustadt:)
+Görlitz–Dresden railway	el	15
+Oldenburg–Bremen railway	el	15
+Panoramique des Dômes	el	1500
+Ludwigslust–Wismar railway	el	15
+P	el	Overhead lines
+Navi Mumbai Monorail	el	750
+Pune Monorail	el	750
+5	el	Overhead lines
+Tōbu Nikkō Tramway	el	600
+7	el	Overhead lines
+8	el	Overhead lines
+9	el	Overhead lines
+F	el	Overhead lines
+D	el	Overhead lines
+3	el	Overhead lines
+Riesa–Chemnitz railway	el	15
+Incheon Airport Maglev	el	DC 1500V
+10	el	Overhead lines
+Hamm–Warburg railway	el	15
+Münster–Hamm railway	el	15
+Dortmund–Soest railway	el	15
+Dortmund–Soest railway	el	Overhead catenary
+Chesham branch	el	Fourth rail 630 V DC
+Line 9, Guangzhou Metro	el	Overhead lines, 1,500 V DC
+Kuala Lumpur–Singapore High Speed Rail	el	Overhead line
+Ruhr Valley Railway	el	15
+Essen-Werden–Essen railway	el	15
+Bützow–Szczecin railway	el	*(Szczecin Gumieńce–Szczecin:) 3 kV DC overhead catenary\n*(Bützow–Lalendorf:) 15 kV/16.7 Hz AC overhead catenary
+Lübeck–Hamburg railway	el	15
+Suseo High Speed Railway	el	25
+Alster Valley Railway	el	1200
+Brussels Regional Express Network	el	3
+Ocean Electric Railway	el	Overhead wires
+Ocean Electric Railway	el	Third Rail and Batteries
+Harburg S-Bahn	el	*15 kV/16.7 Hz AC catenary\n* 1,200 V DC third rail
+Würzburg–Bamberg railway	el	15
+Paris–Lille railway	el	25
+Löhne–Rheine railway	el	15
+Münster–Rheine railway	el	15
+Paris–Brest railway	el	Paris–Le Mans 1.5 kV DC,
+Paris–Brest railway	el	Le Mans–Brest 25 kV 50 Hz
+Paris–Le Havre railway	el	25
+Plouaret–Lannion railway	el	since 2000 25 kV 50 Hz
+St Edwards Hospital tramway	el	Overhead catenary
+Rennes–Saint-Malo railway	el	since 2005 25 kV 50 Hz
+Nuremberg–Cheb railway	el	*25 kV/50 Hz AC catenary
+Paris–Marseille railway	el	1.5
+Line 3, Shenzhen Metro	el	Third rail, 1,500 V DC
+Waupaca Electric Light and Railway Company	el	Unknown Voltage Overhead lines
+Rennes–Redon railway	el	since 1991 25 kV 50 Hz
+Lahn Valley Railway	el	15
+Paris–Bordeaux railway	el	1.5
+Merrill Railway & Lighting Co.	el	Unknown Voltage Two Wire Overhead lines
+Koblenz–Trier railway	el	15
+Nahe Valley Railway	el	15
+Kiev Light Rail	el	Overhead lines
+Coburg–Sonneberg railway	el	15
+Savenay–Landerneau railway	el	Savenay–Quimper 25 kV 50 Hz
+Paris–Strasbourg railway	el	25
+Munich–Regensburg railway	el	15
+Paris–Mulhouse railway	el	partly 25 kV 50 Hz
+Le Mans–Angers railway	el	25
+Tours–Saint-Nazaire railway	el	25
+Patna Monorail	el	750
+Kotoden Kotohira Line	el	1500
+Kotoden Shido Line	el	1500
+Lison–Lamballe railway	el	25
+Lison–Lamballe railway	el	and a short section near Lamballe
+Ahmedabad Monorail	el	750
+Ludhiana Metro	el	25
+Toulouse–Bayonne railway	el	1.5
+TerraSur	el	Overhead line
+Bordeaux–Sète railway	el	1.5
+Nelson Electric Tramway	el	600
+Bhopal Metro	el	25
+Salzburg-Tyrol Railway	el	15
+Karlsruhe–Mühlacker railway	el	15
+Creil–Jeumont railway	el	25
+Tauern Railway	el	15
+Strasbourg–Basel railway	el	25
+Marseille–Ventimiglia railway	el	25
+Neckarelz–Osterburken railway	el	15
+Kanpur Monorail	el	750
+Bayonne–Saint-Jean-Pied-de-Port railway	el	1.5
+Orléans–Montauban railway	el	1.5
+Ruhr–Sieg railway	el	15
+Yokohama Minatomirai Railway Kodomonokuni Line	el	1500
+Sapporo Municipal Subway	el	750
+Sapporo Municipal Subway	el	1500
+Nagahori Tsurumi-ryokuchi Line	el	1500
+Sennichimae Line	el	750
+Sakaisuji Line	el	1500
+Delhi Metro	el	Single phase 25 kV, 50 Hz AC through overhead catenary
+Leipzig–Probstzella railway	el	15
+Turgi–Koblenz–Waldshut railway line	el	15
+Almelo–Salzbergen railway	el	1.5
+Almelo–Salzbergen railway	el	15
+Plochingen–Tübingen railway	el	15
+Plochingen–Tübingen railway	el	Overhead catenary
+Bruhrain Railway	el	15
+Moret–Lyon railway	el	1.5
+Moret–Lyon railway	el	25
+Moret–Lyon railway	el	St-Germain-d-F–St-Étienne not electrified
+Trolleybuses in Valparaíso	el	500
+Rémilly–Saarbrücken railway	el	25
+Kraich Valley Railway	el	15
+Katzbach Railway	el	15
+Katzbach Railway	el	Overhead catenary
+Crailsheim–Heilbronn railway	el	15
+Bordeaux–Irun railway	el	1.5
+B Line	el	Overhead lines, 25k V AC 60 Hz
+Ausserfern Railway	el	15
+Bad Krozingen–Münstertal railway	el	15
+Amsterdam–Schiphol railway	el	1.5
+Deventer–Almelo railway	el	1.5
+Bruchsal Rollenberg junction	el	15
+Bruchsal Rollenberg junction	el	Overhead catenary
+Amsterdam–Arnhem railway	el	1.5
+Waiblingen–Schwäbisch Hall railway	el	15
+Waiblingen–Schwäbisch Hall railway	el	Overhead catenary
+Nuremberg–Crailsheim railway	el	15
+Borsdorf–Coswig railway	el	15
+Kunming–Singapore railway	el	Overhead catenary
+Bakersfield and Kern Electric Railway	el	550
+F Street and H Street Loop	el	550
+North Chester Line	el	550
+South Chester Line	el	550
+West 19th Street Line	el	550
+Santa Fe and Southern Pacific Line	el	550
+Indore Metro	el	25
+Breda–Rotterdam railway	el	1.5
+Utrecht–Rotterdam railway	el	1.5
+Maastricht–Venlo railway	el	1.5
+Angermünde–Stralsund railway	el	15
+Eindhoven–Weert railway	el	1.5
+Breda–Eindhoven railway	el	1.5
+Utrecht–Boxtel railway	el	1.5
+Sittard–Herzogenrath railway	el	1.5
+Liège–Maastricht railway	el	3
+Meppel–Groningen railway	el	1.5
+Antwerp–Lage Zwaluwe railway	el	3
+Antwerp–Lage Zwaluwe railway	el	1.5
+Utrecht–Kampen railway	el	1.5
+Dhaka Metro	el	1500
+Belgian railway line 37	el	3
+Belgian railway line 162	el	3
+Belgian railway line 50A	el	3
+Belgian railway line 59	el	3
+Belgian railway line 75	el	3
+Belgian railway line 94	el	3
+Belgian railway line 125	el	3
+Belgian railway line 130	el	3
+Belgian railway line 130A	el	3
+Gouda–Den Haag railway	el	1.5
+Tilburg–Nijmegen railway	el	1.5
+Orange Line	el	Single phase 25 kV, 50 Hz AC through overhead catenary
+Zaandam–Enkhuizen railway	el	1.5
+Venlo–Eindhoven railway	el	1.5
+Viersen–Venlo railway	el	15
+Apeldoorn–Deventer railway	el	1.5
+Belgian railway line 15	el	3
+Belgian railway line 15	el	and soon to be  Herentals-Mol
+Hanover–Altenbeken railway	el	15
+Deister Railway	el	15
+Portet-Saint-Simon–Puigcerdà railway	el	1.5
+Line A	el	Overhead line
+Dongguan Rail Transit	el	Overhead lines
+Milan suburban railway service	el	3
+Lille to Fontinettes railway	el	25
+Boulogne–Calais railway	el	25
+Toyohashi Railroad Atsumi Line	el	1500
+Arras–Dunkirk railway	el	25
+Dolderbahn	el	600
+Haydarpaşa suburban	el	25
+Pyongbu Line	el	3000
+Chongnyon Ichon Line	el	3000
+Pyongnam Line	el	3000
+Cologne–Lindlar railway	el	15
+Mumbai–Ahmedabad high-speed rail corridor	el	25
+Taranto–Brindisi railway	el	Electrified at 3000 V DC
+Divača–Koper Railway	el	Electrified at 3000 V DC
+Third Interchange Contour	el	Third rail
+Patna Metro	el	2
+Western line	el	25000
+Central line	el	1500
+Central line	el	25000
+Tehran Metro Line 4	el	Third rail
+Tehran Metro Line 3	el	Third rail
+Tehran Metro Line 1	el	Third rail
+Tehran Metro Line 5	el	25
+Tehran Metro Line 2	el	Third rail
+Épinay-Villetaneuse–Le Tréport-Mers railway	el	25
+Amiens–Rouen railway	el	25
+Saint-Denis–Dieppe railway	el	25
+San'yō Main Line	el	1500
+San'yō Main Line	el	20
+Sanyō Shinkansen	el	25
+Howrah–Delhi main line	el	25
+Bardhaman–Asansol section	el	25
+Constantine tramway	el	750
+Zutphen–Glanerbeek railway	el	Hengelo-Enschede 1.5 kV DC
+Arnhem–Nijmegen railway	el	1.5
+Ancona–Orte railway	el	3
+Line 11, Shenzhen Metro	el	Overhead Line, 1,500 V DC
+Nagpur Metro	el	25
+Wriezen Railway	el	750
+Little Ring of the Moscow Railway	el	3
+Dan Ryan branch	el	Third rail, 600 V DC
+Norwich and Westerly Railway	el	370
+Rheinfall railway	el	supplied by overhead line
+Sŏhae Line	el	3000
+Sŏhae Line	el	Mundŏk-T'aehyang
+Sŏhae Line	el	Ch'ŏngnam-Namdong
+Sŏhae Line	el	Samch'ŏnp'o-Ryongrim
+Kaechon Line	el	3000
+Pyongbuk Line	el	3000
+Hwanghae Ch'ŏngnyŏn Line	el	3000
+Songrim Line	el	3000
+Songrim Line	el	Hwangju-Changch'ŏl-li
+Paechon Line	el	3000
+Taean Line	el	3000
+Pyongdok Line	el	3000
+Mittenwald Railway	el	15
+Ŭnsan Line	el	3000
+Kowŏn T'an'gwang Line	el	3000
+Sinhung Line	el	3000
+Hochon Line	el	3000
+Kŭmgol Line	el	3000
+Mandŏk Line	el	3000
+Kangdŏk Line	el	3000
+Manpo Line	el	3000
+Kanggye Line	el	3000
+Paektusan Ch'ŏngnyŏn Line	el	3000
+Paengmu Line	el	3000
+Pochon Line	el	3000
+Samjiyon Line	el	3000
+Hambuk Line	el	3000
+Musan Line	el	3000
+Hongŭi Line	el	3000
+Ingolstadt–Treuchtlingen railway	el	15
+Leipzig City Tunnel	el	15
+Aizawl Monorail	el	750
+Großenhain–Cottbus railway	el	15
+Großenhain–Cottbus railway	el	Overhead catenary
+Line 1	el	750
+Winterthur–Etzwilen railway line	el	supplied by overhead line
+Delhi–Kolkata high-speed rail corridor	el	25
+Bari metropolitan railway service	el	3
+Metz–Luxembourg railway	el	25
+Busenbach–Ittersbach railway	el	750.0
+Weil am Rhein–Lörrach railway	el	15
+Piraeus–Platy railway	el	Domokos
+Piraeus–Platy railway	el	Platy, Imathia
+Thessaloniki–Bitola railway	el	only the section Thessaloniki–Platy
+Freiburg freight bypass railway	el	15
+Offenbach-Bieber–Dietzenbach railway	el	15
+Aarhus Letbane	el	750
+IRT New Lots Line	el	600
+IRT Eastern Parkway Line	el	600
+Yokohama Dreamland Monorail	el	1500.0
+S-Bahn Mitteldeutschland	el	15
+Kozhukhovskaya Line	el	Third rail
+Breckenheim–Wiesbaden railway	el	15
+Upper Rhine Railway Company	el	750
+Narbonne–Portbou railway	el	1.5
+Adriatic railway	el	Electrified at 3000 V DC
+Luino–Milan railway	el	3
+Luino–Oleggio railway	el	3
+Line 2	el	750
+Line 3	el	750
+Line 4	el	750
+Line 1	el	750
+Istanbul–Pythio railway	el	25.0
+Altdorf–Flüelen tramway	el	600
+Mendrisio electric tramway	el	800
+Biasca–Acquarossa railway	el	1200
+Rapid MetroRail Gurgaon	el	750
+Lugano–Cadro–Dino railway	el	1000
+Lugano–Tesserete railway	el	1000
+Howrah–Allahabad–Mumbai line	el	Electrified between Mumbai CST–Itarsi and between Allahabad/Cheeoki–Howrah
+Stuttgart-Untertürkheim–Kornwestheim railway	el	15
+Frauenfeld–Wil railway	el	1200
+Lausanne–Echallens–Bercher railway	el	1500
+Lake Thun railway line	el	supplied by overhead line
+Kumgangsan Chongnyon Line	el	3000
+Kangwon Line	el	3000
+Pyongra Line	el	3000
+Douglas branch	el	Third rail, 600 V DC
+Vorarlberg Railway	el	15
+KC Streetcar	el	750
+Circular Line	el	Electric double-layer capacitor
+High Speed 2 Phase Two	el	25
+Rosenheim–Salzburg railway	el	15
+Freilassing–Berchtesgaden railway	el	15
+Sydney Trains	el	1500
+Havana Suburban Railway	el	600
+Munich–Mühldorf railway	el	15
+Munich–Mühldorf railway	el	Overhead catenary
+Markt Schwaben–Erding railway	el	15
+Grafing–Wasserburg railway	el	15
+Munich East–Deisenhofen railway	el	15
+Munich-Giesing–Kreuzstraße railway	el	15
+Isar Valley Railway	el	*(1900–1955:) 580 volts\n*(since 1955:) 15 kV/16.7 Hz AC overhead catenary
+Munich–Herrsching railway	el	15
+Munich–Herrsching railway	el	Overhead catenary
+Sihltal railway line	el	supplied by overhead line
+Uetliberg railway line	el	1200
+Munich North Ring	el	15
+Dachau–Altomünster railway	el	15
+Bhusawal–Kalyan section	el	1.5
+Nuremberg–Roth railway	el	15
+Feucht–Altdorf railway	el	15
+Nuremberg Ring Railway	el	\
+Settimo Torinese–Pont Canavese railway	el	Electrified at 3000 V DC
+Tobu Skytree Line	el	1500
+Mughalsarai–Kanpur section	el	25
+Saarbahn	el	750
+Saarbahn	el	15
+Kanpur–Delhi section	el	25
+Porto Ceresio–Milan railway	el	3
+Pavia–Mantua railway	el	3
+Brescia–Cremona railway	el	3
+Delhi–Kalka line	el	25
+Aliağa branch	el	25
+Trams in Kolkata	el	550
+Line 1, Nanchang Metro	el	Overhead catenary，DC 1500 V
+Line 2, Nanchang Metro	el	Overhead catenary， 1500 V DC
+East 63rd branch	el	Third rail, 600 V DC
+Ashland branch	el	Third rail, 600 V DC
+Garfield Park branch	el	Third rail, 600 V DC
+Addis Ababa Light Rail	el	750
+Bareilly Metro	el	25
+Budapest–Murakeresztúr railway	el	25
+Cancello–Benevento railway	el	3
+Line 1	el	25
+Wetzikon–Meilen tramway	el	750
+North Shore, Northern & Western Line	el	Overhead 1500V DC
+Uster–Oetwil tramway	el	800
+Olympic Park railway line	el	Overhead 1500V DC
+522 Exhibition West	el	600
+Mangu Line	el	25
+M6	el	750
+Jakarta Kota–Manggarai railway	el	1500
+Jatinegara-Manggarai railway	el	1500
+Mumbai Dadar–Solapur section	el	1.5
+Kothavalasa–Kirandul line	el	25
+Herford–Himmighausen railway	el	15
+New London and East Lyme Street Railway	el	1200
+Greater Bangkok Commuter rail	el	''None
+Greater Bangkok Commuter rail	el	use diesel locomotive or diesel multiple unit
+Bassum–Herford railway	el	(Herford–Bünde:) 15 kV/16.7 Hz AC overhead catenary
+Ambala–Attari line	el	25
+Mukōgaoka-Yūen Monorail	el	600.0
+Chandigarh–Sahnewal line	el	25
+New Delhi–Chennai main line	el	25
+Echigo Tokimeki Railway	el	1500
+São Mateus–Jabaquara Metropolitan Corridor	el	650
+Ainokaze Toyama Railway	el	20
+IR Ishikawa Railway	el	20
+Howrah–Gaya–Delhi line	el	25
+Patna–Gaya line	el	25
+Asansol–Patna section	el	25
+Patna–Mughalsarai section	el	25
+Tarvisio–Ljubljana Railway	el	3
+Hamburg freight rail bypass	el	15
+Korsvoll Line	el	600
+Diamond Quadrilateral	el	25
+International Rhine Regulation Railway	el	750
+Fornebu Line	el	750
+Green Line	el	1500
+Lübeck–Lübeck-Travemünde Strand railway	el	15
+521 Exhibition East	el	600
+Kassel RegioTram	el	600
+Clermont-Ferrand tramway	el	Overhead line
+Stralsund–Rostock railway	el	15
+Riverfront Streetcar Line	el	Overhead line
+Rampart-St. Claude Streetcar Line	el	Overhead line
+Maroggia Tunnel	el	Overhead catenary
+Maroggia Tunnel	el	11
+Lopper I Rail Tunnel	el	Overhead catenary
+Lopper I Rail Tunnel	el	11
+Lopper II Rail Tunnel	el	Overhead catenary
+Lopper II Rail Tunnel	el	11
+Monte Ceneri Rail Tunnel	el	Overhead catenary
+Monte Ceneri Rail Tunnel	el	11
+Weinberg Tunnel	el	Overhead catenary
+Weinberg Tunnel	el	15
+Hirschengraben Tunnel	el	Overhead catenary
+Hirschengraben Tunnel	el	15
+Halle–Cottbus railway	el	15
+North-South Corridor Line	el	25
+East-West Corridor	el	25
+Kamikōchi Line	el	1500
+Saverne Tunnel	el	25
+Meiringen–Reichenbach–Aareschlucht tramway	el	500
+Blue Line	el	Overhead lines
+Lübbenau–Kamenz railway	el	(Lübbenau–Hosena:) 15 kV/16.7 Hz AC
+Lübbenau–Kamenz railway	el	Overhead catenary
+Cottbus–Guben railway	el	15
+Rio de Janeiro Light Rail	el	750
+Muzaffarpur–Gorakhpur line	el	25
+Gyeongui–Jungang Line	el	AC 25,000 V 60 Hz
+Samastipur–Muzaffarpur section	el	25
+Muzaffarpur–Hajipur section	el	25
+Barauni–Samastipur section	el	25
+Barauni–Samastipur section	el	--12-24
+Réseau électrique métropolitain	el	1500
+Pink Line	el	25
+Magenta Line	el	25
+Ahmedabad–Mumbai Main Line	el	25
+Jakarta Kota-Anyer Kidul railway	el	1.5
+Duri–Tangerang railway	el	1.5
+N Line	el	Overhead lines
+Kita-Shinano Line	el	1500
+Santragachi-Amta Branch Line	el	Main line: 25 kV AC overhead system in 1967-69
+Jüterbog–Nauen railway	el	(Wustermark–Ferch-Lienewitz:) 15 kV/16.7 Hz AC overhead catenary
+Proastiakos Thessaloniki	el	25
+Michendorf–Großbeeren railway	el	15
+Berlin-Lichterfelde Süd–Teltow Stadt railway	el	750
+Penang Rapid Transit	el	1500
+Borders Railway	el	OHLE Waverley to Newcraighall,
+Borders Railway	el	unelectrified Newcraighall to Tweedbank
+Zürichberg Tunnel	el	Overhead catenary
+Zürichberg Tunnel	el	15
+Sahel Metro	el	25
+Letten Tunnel	el	Overhead catenary
+Letten Tunnel	el	15
+Wipkingen Tunnel	el	Overhead catenary
+Wipkingen Tunnel	el	11
+Dallas Streetcar	el	Overhead wires and battery power
+Käferberg Tunnel	el	Overhead catenary
+Käferberg Tunnel	el	11
+Carlingford railway line	el	Overhead 1500V DC
+Blue Line	el	25
+Mathura–Vadodara Section	el	25
+Zeithain–Elsterwerda railway	el	15
+Weißig–Böhla railway	el	15
+Addis Ababa–Djibouti Railway	el	Overhead line 25 kV AC
+Großenhain–Priestewitz railway	el	15
+Trams in Tallinn	el	600
+Trams in Perugia	el	550
+Pirna–Coswig railway	el	15
+Trams in Nizhny Novgorod	el	600
+Trams in Minsk	el	600
+Trams in Klagenfurt	el	800
+Trams in Besançon	el	750
+Donghae Line	el	25
+New South Wales Metropolitan Rail Area	el	Overhead 1500V DC
+Patna-Sonepur-Hajipur Section	el	25
+Loop Service	el	Overhead, 750 V DC
+Tehran-Qom-Isfahan High Speed Rail	el	Overhead catenary
+Chicago, Aurora and DeKalb Railroad	el	Trolley wire
+Bözberg Rail Tunnel	el	Overhead catenary
+Bözberg Rail Tunnel	el	11
+Taiwan Trunk Line	el	25
+Coastal Line	el	25
+Taiwan Trunk Line	el	25
+Line 3, Xi'an Metro	el	1500
+Varanasi-Sultanpur-Lucknow Line	el	25
+Ryongsŏng Line	el	3000
+Elkhorn Grade Electrification	el	11
+Hajipur-Muzaffarpur-Samastipur-Barauni Section	el	25
+514 Cherry	el	600
+Transdev Wellington	el	1500
+Dresden-Klotzsche–Dresden Airport railway	el	15
+Darmstadt–Worms railway	el	Goddelau–Worms: 15 kV/16.7 Hz AC overhead catenary
+Hovedstadens Letbane	el	750
+Benning Road Line	el	750
+Katzenberg Tunnel	el	15
+Rastatt Tunnel	el	15
+Line 5, Hangzhou Metro	el	Third rail, 1,500 V DC
+Line 6, Hangzhou Metro	el	Third rail, 1,500 V DC
+Ankara–Sivas high-speed railway	el	25
+Line 6, Fuzhou Metro	el	Third rail, 1,500 V DC
+Line 5, Fuzhou Metro	el	Third rail, 1,500 V DC
+Lin'an Line, Hangzhou Metro	el	Third rail, 1,500 V DC
+Line 4, Fuzhou Metro	el	Third rail, 1,500 V DC
+Line 5, Chengdu Metro	el	Third rail, 1,500 V DC
+Red Line	el	750
+Line 6, Chengdu Metro	el	Third rail, 1,500 V DC
+Line 7, Chengdu Metro	el	Third rail, 1,500 V DC
+Line 20, Shenzhen Metro	el	Overhead Line, 1,500 V DC
+Line 10, Chengdu Metro	el	Third rail, 1,500 V DC
+Line 18, Chengdu Metro	el	Third rail, 1,500 V DC
+Line 1, Changsha Metro	el	Third rail, 1,500 V DC
+Moscow Central Circle	el	3
+Meerut Metro	el	Single phase 25 kV, 50 Hz AC through overhead catenary
+Kwun Tong Line Extension	el	1.5
+New Delhi–Mumbai main line	el	25
+Trafford Park Line	el	750

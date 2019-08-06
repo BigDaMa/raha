@@ -1,0 +1,261 @@
+Danger Hiptop	operatingsystem	Danger OS, NetBSD
+Nokia 6620	operatingsystem	Series 60
+Nokia 6620	operatingsystem	Symbian OS
+Treo 600	operatingsystem	Palm OS 5.2.1H
+Nokia 6230	operatingsystem	Series 40
+Siemens SX1	operatingsystem	Series 60
+Sony Ericsson P910	operatingsystem	Symbian OS with UIQ
+Nokia 3100	operatingsystem	Series 40
+Nokia 6670	operatingsystem	7.0
+Nokia 3200	operatingsystem	Series 40
+Nokia 3220	operatingsystem	Series 40
+Nokia 6680	operatingsystem	Series 60 v2
+Nokia N90	operatingsystem	Symbian OS v8.1a, Series 60 Feature Pack 3
+Nokia N91	operatingsystem	Symbian OS v9.1
+Nokia N70	operatingsystem	Symbian OS v8.1a, S60 Second Edition, Feature Pack 3
+Nokia 3230	operatingsystem	7.0
+Nokia 6610	operatingsystem	Series 40 1st Edition
+Motorola Rokr	operatingsystem	MOTOMAGX
+Motorola Rokr	operatingsystem	BREW, Paragon 2005  Internal Filesystem
+Sony Ericsson P990	operatingsystem	UIQ 3 / Symbian OS v9.1
+Nokia 7710	operatingsystem	Symbian OS / Nokia Series 90
+Nokia N92	operatingsystem	Symbian OS v9.1, S60 3rd Edition
+Sony Reader	operatingsystem	Custom version of Android ; Microsoft Windows, Apple Mac OS X
+Nokia N71	operatingsystem	Symbian 9.1
+Nokia N80	operatingsystem	Symbian OS , S60 3rd Edition
+Sony Ericsson M600	operatingsystem	UIQ 3.0 / Symbian OS v9.1
+Sony Ericsson W950	operatingsystem	UIQ 3 / Symbian OS v9.1
+Motorola A1000	operatingsystem	Symbian OS 7.0 + UIQ 2.1
+Nokia 3250	operatingsystem	S60 Platform and Symbian OS
+Motorola Q	operatingsystem	Windows Mobile 5.0 for Smartphone
+Nokia E50	operatingsystem	S60 3rd edition on Symbian OS v9.1
+Nokia Eseries	operatingsystem	Symbian
+Nokia E61	operatingsystem	S60 platform third edition on Symbian OS
+Nokia 6233	operatingsystem	Series 40 3rd Edition, Feature Pack 1 UI
+Nokia 6111	operatingsystem	Nokia Series 40
+Motorola Rizr	operatingsystem	R452F1, R452B, and R452H6
+Motorola Rizr	operatingsystem	Symbian OS v9.2, UIQ v3.1
+Motorola Rizr	operatingsystem	Symbian OS 9.2 + UIQ v3.2
+Nokia 8800	operatingsystem	Nokia Series 40
+Nokia N76	operatingsystem	Symbian OS v9.2, S60 3rd Edition, Feature Pack 1
+Nokia 6290	operatingsystem	Series 60
+Nokia 7700	operatingsystem	Symbian OS
+Nokia 7700	operatingsystem	Series 90
+Nokia E65	operatingsystem	S60 platform third edition on Symbian OS
+Nokia N75	operatingsystem	Symbian OS v9.1, S60 Third Edition
+LG Shine	operatingsystem	Java MIDP 2.0
+Nokia 6120 classic	operatingsystem	Symbian OS 9.2 + S60 platform 3rd Edition, Feature Pack 1
+Sony Ericsson P1	operatingsystem	UIQ 3 / Symbian OS v9.1
+Nokia 3110 classic	operatingsystem	Nokia OS Series 40 3rd Edition, Feature Pack 2
+Nokia 8600 Luna	operatingsystem	Series 40 3rd Edition, Feature Pack 1
+Nokia N81	operatingsystem	Symbian OS 9.2
+Palm Centro	operatingsystem	Palm OS
+LG Voyager	operatingsystem	Qualcomm Brew
+Nokia E51	operatingsystem	S60 3rd Edition, Feature Pack 1
+Sierra Wireless Voq	operatingsystem	Windows Mobile 2003/2003SE
+Nokia 5300	operatingsystem	Series 40 3rd edition
+Nokia 5310	operatingsystem	Nokia Series 40 5th Edition, Feature Pack 1
+Motorola Q9c	operatingsystem	Windows Mobile 6.0 Standard; Windows Mobile 6.1 Standard
+HTC Touch Dual	operatingsystem	Windows Mobile
+Siemens AX72	operatingsystem	Siemens Mobile
+Nokia 5610 XpressMusic	operatingsystem	Series 40
+Sony Ericsson Xperia X1	operatingsystem	Windows Mobile 6.1 Professional
+Nokia N96	operatingsystem	Symbian OS v9.3
+Nokia 6220 Classic	operatingsystem	Symbian OS 9.3 + S60 platform 3rd Edition, Feature Pack 2
+Nokia 5700 XpressMusic	operatingsystem	Symbian OS 9.2 + S60 platform 3rd Edition, Feature Pack 1
+Motorola Q9m	operatingsystem	Windows Mobile 6.0 for Smartphone
+Nokia 6555	operatingsystem	Nokia Series 40
+Nokia 6600 fold	operatingsystem	Series 40
+LG Secret	operatingsystem	Java MIDP 2.0
+Nokia 6600 slide	operatingsystem	Series 40
+Nokia 3600 slide	operatingsystem	Series 40
+HTC Touch Diamond	operatingsystem	Windows Mobile 6.1 Professional
+Sony Ericsson Codenamed: 'Paris'	operatingsystem	UIQ 3.3 / Symbian OS v9.3
+Nokia E71	operatingsystem	S60 v3.1  UI on Symbian OS v9.2
+Palm Treo 800w	operatingsystem	Windows Mobile 6.1 Professional
+Samsung i8510	operatingsystem	Symbian OS v9.3, S60 3rd Edition, Feature Pack 2
+Samsung SCH-U940	operatingsystem	Qualcomm Brew
+Samsung SCH-U940	operatingsystem	Samsung Touchwiz
+Nokia E66	operatingsystem	S60 v3.1  UI on Symbian OS v9.2
+Nokia N97	operatingsystem	Symbian 9.4 with Nokia S60 Fifth Edition UI. Current firmware 22.0.110  / 22.1.112  / 22.2.110
+Nokia 3120 classic	operatingsystem	Series 40
+Nokia 5320 XpressMusic	operatingsystem	Symbian OS 9.3 + S60 platform 3rd Edition, Feature Pack 2
+Sony Ericsson Satio	operatingsystem	Symbian OS 9.4 running S60 5th edition
+ESlick	operatingsystem	Linux based
+Nokia E75	operatingsystem	S60  UI on Symbian OS
+Samsung i8910	operatingsystem	Symbian OS v9.4 running S60 v5
+Samsung Galaxy	operatingsystem	Android v1.6
+Samsung Galaxy	operatingsystem	(Originally Android 1.5)
+Samsung Galaxy	operatingsystem	(Upgradable to Android 2.3 unofficially)
+Nokia E72	operatingsystem	S60 3rd Edition Feature Pack 2 UI on Symbian OS v9.3
+Sharp SH906i	operatingsystem	Symbian OS
+Sharp SH906i	operatingsystem	MOAP
+LG enV Touch	operatingsystem	Qualcomm Brew
+Sony Ericsson Xperia X2	operatingsystem	Windows Mobile 6.5 Professional
+Nokia X6	operatingsystem	Symbian OS 9.4 with Nokia S60 5th Edition UI.
+Nokia 5530 XpressMusic	operatingsystem	Symbian OS 9.4 + S60 platform 5th Edition, Firmware version 40.0.003
+HTC HD2	operatingsystem	Windows Mobile 6.5 Professional
+HTC HD2	operatingsystem	Unofficially: Windows Phone, Android, Windows RT, Firefox OS, Sailfish OS, MeeGo
+Nokia 5730 XpressMusic	operatingsystem	Symbian OS 9.3 + S60 platform 3rd Edition, Firmware version 101.48.128
+LG Versa	operatingsystem	Qualcomm Brew
+Sony Ericsson Xperia X10	operatingsystem	Upgraded to Android 2.3.3 in end of July 2011\nAndroid 2.1
+Samsung Behold II	operatingsystem	Android
+Nokia 5330 Mobile TV Edition	operatingsystem	Series 40 platform 6th Edition
+HTC Touch2	operatingsystem	Windows Mobile 6.5 Professional
+BlackBerry Curve 8520	operatingsystem	BlackBerry OS 5.0
+Nokia N8	operatingsystem	Symbian^3, upgradeable to Nokia Belle
+Sony Ericsson Vivaz	operatingsystem	Symbian OS 9.4 running S60 5th edition
+Nokia X5	operatingsystem	Symbian OS v9.3  3rd Edition FP2
+BlackBerry Torch 9800	operatingsystem	BlackBerry OS 6
+BlackBerry Torch	operatingsystem	BlackBerry OS 6.0
+BlackBerry Torch	operatingsystem	BlackBerry OS 7.1
+Nokia E5-00	operatingsystem	S60 3rd Edition Feature Pack 2 UI on Symbian OS v9.3
+Samsung Intercept	operatingsystem	Android 2.1, upgradable to 2.2\n\nAs of 12/17/10 2.2 \n\nAs of 4/11/11 2.2
+Samsung Intercept	operatingsystem	Android 2.3 and 4.0 unofficially
+Nokia C6-01	operatingsystem	Nokia Belle
+Nokia C7-00	operatingsystem	Symbian^3, Nokia Belle Refresh  Updated on 29 Aug'12
+HTC 7 Pro	operatingsystem	Windows Phone
+HTC 7 Pro	operatingsystem	7
+Nokia E7-00	operatingsystem	Symbian^3 Belle
+HTC HD7	operatingsystem	Windows Phone 7.5
+GeeksPhone One	operatingsystem	Android 1.6 Donut
+Nokia 6700 slide	operatingsystem	Symbian OS 9.3 with Nokia S60 3rd Edition Feature Pack 2.
+HTC 7 Mozart	operatingsystem	Windows Phone 7.8
+Nokia C5-03	operatingsystem	Symbian OS 9.4 + S60 platform 5th Edition
+Nokia 5630 XpressMusic	operatingsystem	Symbian OS 9.3 + S60 platform 3rd Edition, Firmware version 013.009
+Samsung Transform	operatingsystem	Android 2.1 or Android 2.2, Sprint ID
+HTC HD Mini	operatingsystem	Windows Mobile 6.5 Professional
+Sony Ericsson Xperia arc	operatingsystem	Android 2.3.4  officially upgradeable up to Android 4.0.4 , unofficially upgradeable up to Android 4.4.2  via CyanogenMod
+Nokia Nseries	operatingsystem	Symbian
+Nokia Nseries	operatingsystem	Maemo
+Nokia Nseries	operatingsystem	MeeGo
+Nokia Nseries	operatingsystem	Android
+Sony Ericsson Xperia pro	operatingsystem	Android 2.3
+Nokia E6	operatingsystem	--08-01
+Nokia N9	operatingsystem	MeeGo 1.2 \
+Nokia N950	operatingsystem	MeeGo 1.2 \
+Sony Ericsson Xperia acro	operatingsystem	Android 2.3.3
+Nokia Lumia 800	operatingsystem	Windows Phone 7.5, updateable to Windows Phone 7.8
+Fujitsu Toshiba IS12T	operatingsystem	Windows Phone
+Compaq C-Series	operatingsystem	Windows CE
+HTC Titan	operatingsystem	Windows Phone
+HTC Titan	operatingsystem	Windows Phone 7.5
+HTC Radar	operatingsystem	Windows Phone 7.5
+Acer Allegro	operatingsystem	Windows Phone
+Samsung Replenish	operatingsystem	Android 2.3 Gingerbread
+ZTE Tania	operatingsystem	Windows Phone
+Nokia 500	operatingsystem	Symbian Belle
+Nokia Asha 303	operatingsystem	Series 40
+Nokia Lumia 710	operatingsystem	Windows Phone 7.5
+HTC Titan II	operatingsystem	Windows Phone
+HTC Titan II	operatingsystem	Windows Phone 7.5
+Nokia Lumia 900	operatingsystem	Windows Phone 7.5 Mango Commercial Release 2
+Nokia Asha 302	operatingsystem	Series 40
+Nokia Lumia 610	operatingsystem	Windows Phone 7.8 Mango
+Nokia 808 PureView	operatingsystem	Nokia Belle Feature Pack 1, upgradeable to Nokia Belle Feature Pack 2
+Sony Ericsson Xperia neo V	operatingsystem	Android 2.3.4 ;
+Sony Ericsson Xperia neo V	operatingsystem	Officially upgradeable up to Android 4.0.4 \n\nUnofficially upgradeable to:\n*Android 4.0.4  via CyanogenMod 9,\n*Android 4.1.2  via CyanogenMod 10,\n*Android 4.2.2  via CyanogenMod 10.1,\n*Android 4.3.1  via CyanogenMod 10.2,\n*Android 4.4.2  via CyanogenMod 11.
+BlackBerry Porsche Design P'9981	operatingsystem	BlackBerry OS 7.1
+Nokia 1280	operatingsystem	Series 30
+Nokia Asha 311	operatingsystem	Series 40
+Nokia 100	operatingsystem	Series 30
+Sony Xperia acro S	operatingsystem	Android 4.0, upgradable to 4.1.2
+Nokia Asha 306	operatingsystem	Series 40
+Nokia Asha 305	operatingsystem	Series 40
+Sony Xperia miro	operatingsystem	Android 4.0, Android 4.1 CyanogenMod 10, Android 4.4 CyanogenMod 11
+Sony Xperia tipo	operatingsystem	Android 4.0 Ice Cream Sandwich
+Nokia Lumia 920	operatingsystem	Windows Phone 8, upgradeable to 8.1
+HTC Windows Phone 8X	operatingsystem	Windows Phone 8
+Sony Ericsson Live with Walkman	operatingsystem	Android 2.3.4  officially upgradeable up to Android 4.0.4  unofficially upgradeable to Android 4.0.4  via CyanogenMod 9, Android 4.1.2  via CyanogenMod 10, Android 4.2.2  via CyanogenMod 10.1, Android 4.3.1  via CyanogenMod 10.2, Android 4.4.4  via CyanogenMod 11 , Android 5.0.2  via CyanogenMod 12, Android 5.1.1  via Cyanogenmod 12.1
+Nokia Asha 308	operatingsystem	Series 40
+Nokia Lumia 822	operatingsystem	Windows Phone 8
+Nokia Asha 309	operatingsystem	Series 40
+Huawei u8860	operatingsystem	Android
+Micromax Canvas HD A116	operatingsystem	Android v4.2.1 Jelly Bean
+Micromax Canvas 2 A110	operatingsystem	Android v4.0.4, upgradable to v4.1.1  only through service centers
+Nokia Asha 501	operatingsystem	Nokia Asha software platform 1.0\n\nUpgradeable to
+Nokia Asha 501	operatingsystem	Asha software platform 14.0.4
+Nokia Lumia 928	operatingsystem	Windows Phone 8
+Jolla	operatingsystem	Sailfish OS
+Ninetology Stealth II	operatingsystem	Android
+GeeksPhone Keon	operatingsystem	Firefox OS
+Micromax Canvas 2 Plus A110Q	operatingsystem	Android v4.2
+Ninetology Black Pearl II	operatingsystem	Android
+Ninetology Pearl Mini	operatingsystem	Android
+Ninetology Insight	operatingsystem	Android
+Ninetology Outlook Pure	operatingsystem	Android
+GeeksPhone Peak	operatingsystem	Firefox OS
+Samsung Galaxy Young	operatingsystem	Android 4.1.2 Jelly Bean
+Nokia Asha 205	operatingsystem	Series 40
+Samsung Galaxy Star	operatingsystem	Android
+Samsung Galaxy Star	operatingsystem	Android version history
+Nokia Lumia 1020	operatingsystem	Windows Phone 8, upgradeable to 8.1
+Nokia 7210	operatingsystem	Series 40 1st Edition
+ZTE Open	operatingsystem	Firefox OS 1.1
+Ninetology U9X1	operatingsystem	Android
+Ninetology U9Z1+	operatingsystem	Android
+Ninetology U9Z1	operatingsystem	Android
+Sony Xperia C	operatingsystem	Android 4.2.2 Jellybean
+Sony Xperia neo L	operatingsystem	Android 4.0.4 Ice Cream Sandwich
+Samsung Galaxy Fame	operatingsystem	Android
+Samsung Galaxy Fame	operatingsystem	Android Jellybean
+Nokia Asha 500	operatingsystem	Nokia Asha software platform 1.1.1
+Sony Xperia Z2	operatingsystem	Android
+Sony Xperia Z2	operatingsystem	Android version history
+Sony Xperia Z2	operatingsystem	Android 4.4.4 KitKat
+Sony Xperia Z2	operatingsystem	Android 5.0.2 Lollipop
+Sony Xperia Z2	operatingsystem	Android 5.1.1 Lollipop
+Sony Xperia Z2	operatingsystem	Android 6.0.1 Marshmallow
+Nokia Lumia Icon	operatingsystem	Windows Phone 8.1
+Sony Xperia M2	operatingsystem	Android
+Sony Xperia M2	operatingsystem	Android version history
+Nokia Lumia 505	operatingsystem	Windows Phone 7.8
+GeeksPhone Revolution	operatingsystem	Android 4.2.2, Firefox OS 1.3 / 2.0
+Nokia 103	operatingsystem	Nokia OS Series 30
+Sony Xperia C3	operatingsystem	Android 4.4.2 KitKat
+Sony Xperia C3	operatingsystem	upgradeable up to Android]] 5.1 lolipop
+Samsung Galaxy Spica	operatingsystem	Android v1.5 , officially upgraded to v2.1
+Sony Xperia Z3 Compact	operatingsystem	Android
+Sony Xperia Z3 Compact	operatingsystem	Android version history
+Sony Xperia Z3 Compact	operatingsystem	Android 6.0.1 Marshmallow
+Sony Xperia Z3	operatingsystem	Android Kitkat
+Sony Xperia Z3	operatingsystem	Android Lollipop
+Sony Xperia Z3	operatingsystem	Android Marshmallow
+Nokia Asha 310	operatingsystem	Series 40
+Samsung Galaxy A5	operatingsystem	Original: Android 4.4.4 \
+Samsung Galaxy A5	operatingsystem	Current: Android 6.0.1 \
+Samsung Galaxy A3	operatingsystem	Original: Android 4.4.4 \
+Samsung Galaxy A3	operatingsystem	Current: Android 6.0.1 \
+Samsung Galaxy Grand Max	operatingsystem	Original: Android Android 4.4.4 \
+Samsung Galaxy Grand Max	operatingsystem	Current: Android 5.1.1 \
+Samsung Z1	operatingsystem	Tizen 2.4
+Samsung Galaxy A7	operatingsystem	Original: Android 4.4.4 KitKat
+Samsung Galaxy A7	operatingsystem	Current: Android 6.0.1 Marshmallow
+Samsung Galaxy Young 2	operatingsystem	Android 4.4.2 KitKat
+Samsung Galaxy E7	operatingsystem	Original: Android 4.4.4 KitKat Current: Android 5.1.1 Lollipop
+Aqua Fish	operatingsystem	Sailfish OS 2.0.2. Aurajoki, the version customized for m-commerce business model for Jolla and their partners, with PartnerSpace
+Samsung Galaxy Core 2	operatingsystem	Android 4.4.2 KitKat
+Samsung Galaxy A8	operatingsystem	Android 5.1.1 Lollipop \n\nCurrent: Android 6.0.1 \
+Samsung Galaxy Xcover 3	operatingsystem	Android 5.1.1 \
+Samsung Galaxy Trend 2 Lite	operatingsystem	Android 4.4.4 KitKat
+Samsung Galaxy Star 2 Plus	operatingsystem	Android 4.4.2  KitKat
+Samsung Galaxy Pocket 2	operatingsystem	Android 4.4.2 KitKat
+Samsung Galaxy A5	operatingsystem	Original: Android 5.1.1 \
+Samsung Galaxy A3	operatingsystem	Original: Android 5.1.1 \
+Turing Phone	operatingsystem	Sailfish OS
+PuzzlePhone	operatingsystem	Sailfish OS
+PuzzlePhone	operatingsystem	Android
+Samsung Z3	operatingsystem	Tizen 2.3
+Samsung Galaxy A7	operatingsystem	Android 5.1.1 \
+Mi-Fone	operatingsystem	Sailfish OS 2.0
+Samsung Galaxy J1 Mini	operatingsystem	Android 5.1.1 Lollipop
+Nokia Asha 203	operatingsystem	Series 40
+Nokia Asha 202	operatingsystem	Series 40
+Siam 7X	operatingsystem	Android 5.1
+Samsung Galaxy A9	operatingsystem	Android 5.1.1 \
+Jolla C	operatingsystem	Sailfish OS 2.0 and above
+Oysters SF	operatingsystem	Sailfish OS 2.0
+Samsung Galaxy A9 Pro	operatingsystem	Android 6.0.1 \
+Ermak 50	operatingsystem	Sailfish OS 2.0 and above
+Samsung Galaxy J1 Ace Neo	operatingsystem	Android 5.1.1 Lollipop
+Samsung Galaxy J1 Ace VE	operatingsystem	Android 5.1.1 Lollipop

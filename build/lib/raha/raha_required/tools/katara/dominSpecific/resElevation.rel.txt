@@ -1,0 +1,57 @@
+Cardiff Bay Barrage	resElevation	OD
+Hume Dam	resElevation	AHD
+Teton Dam	resElevation	AMSL
+Glenbawn Dam	resElevation	AHD
+Keepit Dam	resElevation	AHD
+Bagnell Dam	resElevation	max
+Wyangala Dam	resElevation	AHD
+Burrendong Dam	resElevation	AMSL
+Ice Harbor Dam	resElevation	AMSL
+Dworshak Dam	resElevation	AMSL
+American Falls Dam	resElevation	AMSL
+Glennies Creek Dam	resElevation	AHD
+Lostock Dam	resElevation	AHD
+Windamere Dam	resElevation	AHD
+Googong Dam	resElevation	AHD
+Tooma Dam	resElevation	AHD
+Rocky Creek Dam	resElevation	AHD
+Tantangara Dam	resElevation	AHD
+Split Rock Dam	resElevation	AHD
+Pindari Dam	resElevation	AHD
+Chaffey Dam	resElevation	AHD
+Chichester Dam	resElevation	AHD
+Arrowrock Dam	resElevation	AMSL
+Anderson Ranch Dam	resElevation	AMSL
+Gangrel Dam	resElevation	333 m
+Toonumbar Dam	resElevation	AHD
+Feitsui Dam	resElevation	max
+Moran Dam	resElevation	ref|The elevation of the river at the dam site is . The maximum depth of the reservoir would be .|name=elevation|group=n
+Carcoar Dam	resElevation	AHD
+Lower Churchill Project	resElevation	39 m
+Chelmarsh Reservoir	resElevation	68.9m
+Fürstenteich	resElevation	above HN
+Halali Reservoir	resElevation	27480.0
+Urft Dam	resElevation	322.5 m
+Oberon Dam	resElevation	AHD
+Rydal Dam	resElevation	AHD
+Brogo Dam	resElevation	AHD
+Bluestem Lake	resElevation	267 m
+Wehra Dam	resElevation	419 m
+Bostalsee	resElevation	24000.0
+Two Rivers Dam	resElevation	AMSL
+Emsworth Locks and Dam	resElevation	710
+Dashields Locks and Dam	resElevation	692
+Montgomery Locks and Dam	resElevation	682
+New Cumberland Locks and Dam	resElevation	664
+Pike Island Locks and Dam	resElevation	644
+Willow Island Lock and Dam	resElevation	602
+Belleville Lock and Dam	resElevation	582
+Racine Lock and Dam	resElevation	560
+Robert C. Byrd Lock and Dam	resElevation	538
+Greenup Lock and Dam	resElevation	515
+Newburgh Lock and Dam	resElevation	358
+Smithland Lock and Dam	resElevation	324
+Lock and Dam Number 52	resElevation	302
+Lock and Dam Number 53	resElevation	was 290 feet above sealevel
+T.J. O'Brien Lock and Dam	resElevation	577
+Kreuzbergmaut Hydroelectric Power Station	resElevation	537 m

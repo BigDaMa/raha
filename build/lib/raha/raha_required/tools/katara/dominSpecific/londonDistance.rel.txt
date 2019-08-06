@@ -1,0 +1,725 @@
+Hawick	londonDistance	SSE
+Truro	londonDistance	232
+Kidderminster	londonDistance	131.1 m
+Bath, Somerset	londonDistance	E
+Canterbury	londonDistance	53.7
+Hereford	londonDistance	135.7m
+Beaulieu, Hampshire	londonDistance	92.6
+Bacup	londonDistance	SSE
+Carlisle, Cumbria	londonDistance	SSE
+Lewes	londonDistance	N
+Bedford	londonDistance	57.4m
+Arbroath	londonDistance	SSE
+Holt, Norfolk	londonDistance	127.0
+Arundel	londonDistance	NNE
+Bexhill-on-Sea	londonDistance	NNW
+Burgess Hill	londonDistance	N
+Uckfield	londonDistance	NNW
+North Queensferry	londonDistance	338
+St Neots	londonDistance	S
+Droitwich Spa	londonDistance	125m
+Newhaven, East Sussex	londonDistance	N
+Seaford, East Sussex	londonDistance	north
+Rodmell	londonDistance	N
+Otley	londonDistance	193.0
+Todmorden	londonDistance	SSE
+Endon	londonDistance	138
+Lichfield	londonDistance	NNW
+Guisborough	londonDistance	255.1
+Wadhurst	londonDistance	NNW
+Shoreham-by-Sea	londonDistance	north
+Lancing, West Sussex	londonDistance	N
+Crowborough	londonDistance	NNW
+Oldham	londonDistance	SSE
+Salford, Greater Manchester	londonDistance	SE
+Telford	londonDistance	SE
+Littlehampton	londonDistance	NNE
+East Grinstead	londonDistance	N
+Workington	londonDistance	SE
+Barnsley	londonDistance	175
+Church Stretton	londonDistance	158.0
+Brodick	londonDistance	443.0
+Newport, Shropshire	londonDistance	148
+Chorlton-cum-Hardy	londonDistance	180.0
+Govan	londonDistance	SSE
+Horsted Keynes	londonDistance	N
+Livingston, West Lothian	londonDistance	SSE
+Sunderland, Tyne and Wear	londonDistance	240
+Dudley	londonDistance	130.5 m
+Altrincham	londonDistance	SE
+Kirkby	londonDistance	SE
+Stockport	londonDistance	SE
+Falmer	londonDistance	N
+Ashton-under-Lyne	londonDistance	SSE
+Tewkesbury	londonDistance	ESE
+Lamlash	londonDistance	443.0
+Burnley	londonDistance	SSE
+Rainhill	londonDistance	SE
+Kempston	londonDistance	54.6 m
+Paisley, Renfrewshire	londonDistance	SSE
+Blackburn	londonDistance	SSE
+Stockton-on-Tees	londonDistance	252.5m
+Kendal	londonDistance	SSE
+Herne Bay, Kent	londonDistance	67.0
+Didcot	londonDistance	54.7m
+Bishop Auckland	londonDistance	SbE
+Lochranza	londonDistance	443.0
+Pevensey	londonDistance	NNW
+Irvine, North Ayrshire	londonDistance	430.9
+Melton Mowbray	londonDistance	SSE
+Royal Tunbridge Wells	londonDistance	NNW
+Kington, Herefordshire	londonDistance	153.0
+Motherwell	londonDistance	SSE
+Bognor Regis	londonDistance	NNE
+Chichester	londonDistance	NNE
+Newport, Isle of Wight	londonDistance	90.26
+Kirkcaldy	londonDistance	SSE
+Dumbarton	londonDistance	356
+Helensburgh	londonDistance	363
+Hertford	londonDistance	19.2
+Sale, Greater Manchester	londonDistance	SE
+Alsager	londonDistance	144
+Bewdley	londonDistance	134.2
+Rothesay, Bute	londonDistance	469.0
+Eastwood, Nottinghamshire	londonDistance	116
+Rye, East Sussex	londonDistance	NW
+Winchelsea	londonDistance	NW
+Dufftown	londonDistance	SSE
+Petworth	londonDistance	NNE
+Largs	londonDistance	431.2
+St Leonards, Buckinghamshire	londonDistance	30.0
+Bletchley	londonDistance	43m
+Grangemouth	londonDistance	SSE
+Yeadon, West Yorkshire	londonDistance	205.0
+Ashton-in-Makerfield	londonDistance	SE
+Burghead	londonDistance	555.0
+Stourport-on-Severn	londonDistance	135.4m
+Hawridge	londonDistance	27.0
+Chadderton	londonDistance	SSE
+Brownhills	londonDistance	SE
+Gillingham, Kent	londonDistance	35.6
+Reddish	londonDistance	159
+Leigh, Greater Manchester	londonDistance	SSE
+Coatbridge	londonDistance	SSE
+Peacehaven	londonDistance	N
+Sheerness	londonDistance	W
+Sutton Bonington	londonDistance	117
+Irlam	londonDistance	SE
+Withington	londonDistance	SE
+Polegate	londonDistance	NNW
+Saltcoats	londonDistance	430.8
+Dukinfield	londonDistance	SSE
+Manchester city centre	londonDistance	SE
+Audenshaw	londonDistance	SSE
+Angmering	londonDistance	NNE
+Droylsden	londonDistance	SSE
+Newton Heath	londonDistance	SSE
+Failsworth	londonDistance	SSE
+Midhurst	londonDistance	NE
+Moss Side	londonDistance	SE
+Margate	londonDistance	64.1
+Kineton	londonDistance	73
+Saddleworth	londonDistance	SSE
+Fordwich	londonDistance	65.8
+Prestatyn	londonDistance	233.9m
+Llanidloes	londonDistance	ESE
+Rochdale	londonDistance	SSE
+Whitefield, Greater Manchester	londonDistance	SE
+Giffnock	londonDistance	SSE
+Cheadle Hulme	londonDistance	SE
+Milnrow	londonDistance	SSE
+Deal, Kent	londonDistance	83.9
+Cerne Abbas	londonDistance	112.5
+Stenhousemuir	londonDistance	SSE
+Rothley	londonDistance	SSE
+Sandbach	londonDistance	158
+Carnoustie	londonDistance	SSE
+Clapham, West Sussex	londonDistance	NNE
+Cuckfield	londonDistance	N
+Steyning	londonDistance	NNE
+Stiffkey	londonDistance	129.0
+Nelson, Lancashire	londonDistance	SSE
+Washington, West Sussex	londonDistance	NNE
+Hammerwood	londonDistance	NNW
+Measham	londonDistance	177.0
+Hartfield	londonDistance	NNW
+Pagham	londonDistance	NNE
+Ardrossan	londonDistance	432.3
+Battle, East Sussex	londonDistance	NNW
+Holkham	londonDistance	131.0
+Middlewich	londonDistance	153
+Isfield	londonDistance	NNW
+Port Bannatyne	londonDistance	455.0
+Stretford	londonDistance	SSE
+Hurstpierpoint	londonDistance	N
+Odiham	londonDistance	41.0
+Hailsham	londonDistance	NNW
+Middleton, Greater Manchester	londonDistance	SSE
+Airth	londonDistance	SSE
+Bellshill	londonDistance	SSE
+Littleborough, Greater Manchester	londonDistance	SSE
+Stowmarket	londonDistance	89.1
+Castleton, Greater Manchester	londonDistance	SSE
+Chew Stoke	londonDistance	111
+Worth, West Sussex	londonDistance	N
+Burwash	londonDistance	NNW
+Lockeridge	londonDistance	E
+Cuckmere Valley	londonDistance	NNW
+Elmer, West Sussex	londonDistance	NNE
+Long Man	londonDistance	NNW
+Selsey	londonDistance	NNE
+Miles Platting	londonDistance	SE
+Henfield	londonDistance	N
+Netherlee	londonDistance	SSE
+Royton	londonDistance	SSE
+Badby	londonDistance	via M40 motorway  or  via M1 motorway - often the slower route!
+Barby, Northamptonshire	londonDistance	via M1 motorway junction 18
+Croughton, Northamptonshire	londonDistance	SE
+Cottesbrooke	londonDistance	82.0
+Horam	londonDistance	NNW
+Withyham	londonDistance	NNW
+Salehurst	londonDistance	NW
+Stretton, Rutland	londonDistance	SSE
+Horwich	londonDistance	SE
+Bedstone	londonDistance	159.0
+Langham, Rutland	londonDistance	SSE
+Maresfield	londonDistance	NNW
+Boxgrove	londonDistance	NNE
+Slindon	londonDistance	NNE
+Ramsbottom	londonDistance	SSE
+Robertsbridge	londonDistance	NW
+Wick, Caithness	londonDistance	631.0
+Pickworth, Rutland	londonDistance	SSE
+Mountsorrel	londonDistance	SSE
+Bedminster, Bristol	londonDistance	124m
+Flash, Staffordshire	londonDistance	170.7m
+Witton Park	londonDistance	SbE
+Wootton Wawen	londonDistance	SE
+Great Casterton	londonDistance	SSE
+Urmston	londonDistance	165
+Ryhall	londonDistance	SSE
+Blackley	londonDistance	186 m
+Northenden	londonDistance	SE
+Little Casterton	londonDistance	SSE
+Southwick, West Sussex	londonDistance	N
+All Stretton	londonDistance	158.0
+Little Stretton, Shropshire	londonDistance	158.0
+Strathpeffer	londonDistance	600.0
+Aston on Clun	londonDistance	162.0
+Bosham	londonDistance	NE
+Barnwell, Northamptonshire	londonDistance	78.0
+Denton, Norfolk	londonDistance	90.0
+Sompting	londonDistance	N
+Lyminster	londonDistance	NNE
+Turners Hill	londonDistance	N
+Bodiam	londonDistance	NW
+Yardley Hastings	londonDistance	SE
+Yardley Gobion	londonDistance	SE
+Haughton-le-Skerne	londonDistance	252.0
+Atherton, Greater Manchester	londonDistance	SSE
+Clungunford	londonDistance	160.0
+Lavenham	londonDistance	76.3
+Rye Harbour	londonDistance	NW
+Ringmer	londonDistance	N
+Ditchling	londonDistance	N
+Tixover	londonDistance	SSE
+Hurlford	londonDistance	404.0
+Hassocks	londonDistance	N
+Prestwich	londonDistance	SE
+Radcliffe, Greater Manchester	londonDistance	SE
+Tottington, Greater Manchester	londonDistance	173
+Pendlebury	londonDistance	SE
+Eccles, Greater Manchester	londonDistance	SE
+Meads	londonDistance	NNW
+North Luffenham	londonDistance	SSE
+Woodseaves	londonDistance	150.0
+Whitwell, Rutland	londonDistance	SSE
+Charlwood	londonDistance	N
+Swinton, Greater Manchester	londonDistance	SE
+Herstmonceux	londonDistance	N
+Overstrand	londonDistance	137.0
+Hurst Green, East Sussex	londonDistance	NW
+Glynde and Beddingham	londonDistance	N
+Firle	londonDistance	NNW
+Barcombe	londonDistance	N
+Curdworth	londonDistance	115.7
+Braunston-in-Rutland	londonDistance	SSE
+Flimwell	londonDistance	NW
+Normanton on Soar	londonDistance	117
+Bonar Bridge	londonDistance	472.0
+Cockerham	londonDistance	SE
+Fairlight, East Sussex	londonDistance	NW
+Bramber	londonDistance	NNE
+Mattishall	londonDistance	123.0
+Findon, West Sussex	londonDistance	NNE
+East Hoathly with Halland	londonDistance	NNW
+Southwater	londonDistance	NNE
+Delph	londonDistance	SSE
+Rustington	londonDistance	NNE
+Whissendine	londonDistance	SSE
+Aldwick	londonDistance	NNE
+Pulborough	londonDistance	NNE
+Barleythorpe	londonDistance	SSE
+Ashwell, Rutland	londonDistance	SSE
+Barrow, Rutland	londonDistance	SSE
+Ayston	londonDistance	SSE
+Barrowden	londonDistance	SSE
+Belton-in-Rutland	londonDistance	SSE
+Brooke, Rutland	londonDistance	SSE
+Bisbrooke	londonDistance	SSE
+Burley, Rutland	londonDistance	SSE
+Clipsham	londonDistance	SSE
+Caldecott, Rutland	londonDistance	SSE
+Edith Weston	londonDistance	SSE
+Cottesmore, Rutland	londonDistance	SSE
+Empingham	londonDistance	SSE
+Egleton	londonDistance	SSE
+Exton, Rutland	londonDistance	SSE
+Essendine	londonDistance	SSE
+Glaston	londonDistance	SSE
+Gunthorpe, Rutland	londonDistance	SSE
+Tickencote	londonDistance	SSE
+Tinwell	londonDistance	SSE
+Thistleton	londonDistance	SSE
+Thorpe by Water	londonDistance	SSE
+South Luffenham	londonDistance	SSE
+Stoke Dry	londonDistance	SSE
+Seaton, Rutland	londonDistance	SSE
+Pilton, Rutland	londonDistance	SSE
+Ridlington	londonDistance	SSE
+Teigh	londonDistance	SSE
+Preston, Rutland	londonDistance	SSE
+Market Overton	londonDistance	SSE
+Normanton, Rutland	londonDistance	SSE
+Morcott	londonDistance	SSE
+Ketton	londonDistance	SSE
+Manton, Rutland	londonDistance	SSE
+Lyndon, Rutland	londonDistance	SSE
+Greetham, Rutland	londonDistance	SSE
+Lyddington	londonDistance	SSE
+Hambleton, Rutland	londonDistance	SSE
+Ticehurst	londonDistance	NW
+Earnley	londonDistance	NNE
+Hook, Hart	londonDistance	SW
+Martinsthorpe	londonDistance	SSE
+Beaumont Chase	londonDistance	SSE
+Leighfield	londonDistance	SSE
+Horn, Rutland	londonDistance	SSE
+Hollinwood, Greater Manchester	londonDistance	SSE
+Ninfield	londonDistance	NNW
+Edenfield	londonDistance	175.2
+Great Alne	londonDistance	110
+Icklesham	londonDistance	NW
+Poling, West Sussex	londonDistance	NNE
+Fernhurst	londonDistance	NE
+West Hoathly	londonDistance	N
+Felpham	londonDistance	NNE
+Camber, East Sussex	londonDistance	NW
+Cheetham Hill	londonDistance	SE
+Adbaston	londonDistance	153.0
+Uppermill	londonDistance	161
+Heathfield, East Sussex	londonDistance	NNW
+Bredbury	londonDistance	SSE
+Woodford, Greater Manchester	londonDistance	SE
+Etchingham	londonDistance	NW
+Lostock Hall	londonDistance	SE
+Kinnerley	londonDistance	173.0
+Livingston Village	londonDistance	SSE
+Ab Kettleby	londonDistance	96
+Inverie	londonDistance	445.0
+Abram, Greater Manchester	londonDistance	SE
+Ashurst Wood	londonDistance	NNW
+Buxted	londonDistance	NNW
+Thurlestone	londonDistance	NEE
+Astley, Greater Manchester	londonDistance	SE
+Milton, Glasgow	londonDistance	559.285
+Wardle, Greater Manchester	londonDistance	SSE
+Crofton, Cumbria	londonDistance	SSE
+Hooe, East Sussex	londonDistance	NNW
+Newick	londonDistance	N
+Amberley, West Sussex	londonDistance	NNE
+Balcombe	londonDistance	N
+Grayrigg	londonDistance	SSE
+Middleton-on-Sea	londonDistance	NNE
+Ardingly	londonDistance	N
+Peasmarsh	londonDistance	NW
+Appin	londonDistance	510.0
+Austrey	londonDistance	104.0
+Westbourne, West Sussex	londonDistance	NE
+Avonbridge	londonDistance	SSE
+Storrington and Sullington	londonDistance	NNE
+Forest Row	londonDistance	NNW
+Southease	londonDistance	N
+Croxton Kerrial	londonDistance	SSE
+Crowhurst, East Sussex	londonDistance	NNW
+Withington, Herefordshire	londonDistance	180.0
+Burghill	londonDistance	140m
+Appleby Magna	londonDistance	163.0
+Swepstone	londonDistance	172.0
+Albourne	londonDistance	N
+Alciston	londonDistance	NNW
+Blackrod	londonDistance	SE
+Shaw and Crompton	londonDistance	SSE
+Dunham Massey	londonDistance	200.0
+Monifieth	londonDistance	SSE
+Aldborough, Norfolk	londonDistance	133.0
+Aldingbourne	londonDistance	NNE
+Alby with Thwaite	londonDistance	132.0
+Alfriston	londonDistance	NNW
+Antingham	londonDistance	134.0
+Apuldram	londonDistance	NNE
+Arlington, East Sussex	londonDistance	NNW
+North Horsham	londonDistance	NNE
+Sherrington	londonDistance	ENE
+Stanwick, Northamptonshire	londonDistance	59.9
+Tyldesley	londonDistance	SE
+Ashington, West Sussex	londonDistance	NNE
+Ashurst, West Sussex	londonDistance	NNE
+Barlavington	londonDistance	NNE
+Barnham, West Sussex	londonDistance	NNE
+Barsham, Norfolk	londonDistance	117.0
+Billingshurst	londonDistance	NNE
+Beckley, East Sussex	londonDistance	NW
+Bentworth	londonDistance	ENE
+Bepton	londonDistance	NE
+Bersted	londonDistance	NNE
+Berwick, East Sussex	londonDistance	NNW
+Bignor	londonDistance	NNE
+Westfield, East Sussex	londonDistance	NW
+Birdham	londonDistance	NNE
+Upper Beeding	londonDistance	N
+Bolney	londonDistance	N
+Kilmaurs	londonDistance	338.0
+Broadbridge Heath	londonDistance	NNE
+Buckholt, Hampshire	londonDistance	ENE
+Lindfield, West Sussex	londonDistance	N
+Parham, West Sussex	londonDistance	NNE
+Whitbourne, Herefordshire	londonDistance	146m
+Chiddingly	londonDistance	NNW
+Neilston	londonDistance	SSE
+Mountfield, East Sussex	londonDistance	NW
+Rotherfield	londonDistance	NNW
+Fletching, East Sussex	londonDistance	N
+Brightling	londonDistance	NNW
+Brede, East Sussex	londonDistance	NW
+Catsfield	londonDistance	NNW
+Dallington, East Sussex	londonDistance	NNW
+East Guldeford	londonDistance	NW
+Guestling	londonDistance	NW
+Ewhurst, East Sussex	londonDistance	NW
+Iden, East Sussex	londonDistance	NW
+Northiam	londonDistance	NW
+Pett	londonDistance	NW
+Playden	londonDistance	NW
+Rye Foreign	londonDistance	NW
+Udimore	londonDistance	NW
+Whatlington	londonDistance	NW
+Sedlescombe	londonDistance	NW
+Danehill, East Sussex	londonDistance	N
+East Dean and Friston	londonDistance	NNW
+Mayfield and Five Ashes	londonDistance	NNW
+Easebourne	londonDistance	NE
+Willingdon and Jevington	londonDistance	NNW
+Heathfield and Waldron	londonDistance	NNW
+Framfield	londonDistance	NNW
+Hellingly	londonDistance	NNW
+Laughton, East Sussex	londonDistance	NNW
+Little Horsted	londonDistance	NNW
+Frant	londonDistance	NNW
+Cropthorne	londonDistance	90.0
+Piddinghoe	londonDistance	N
+Hadlow Down	londonDistance	NNW
+Selmeston	londonDistance	NNW
+Warbleton	londonDistance	NNW
+Wartling	londonDistance	NNW
+Chailey	londonDistance	north
+East Chiltington	londonDistance	N
+Glynde	londonDistance	N
+Hamsey	londonDistance	N
+Iford, East Sussex	londonDistance	N
+Kingston near Lewes	londonDistance	N
+Plumpton, East Sussex	londonDistance	N
+St Ann Without	londonDistance	N
+St John Without	londonDistance	North
+Wivelsfield	londonDistance	north
+Telscombe	londonDistance	N
+Westmeston	londonDistance	N
+South Heighton	londonDistance	N
+Streat	londonDistance	N
+Tarring Neville	londonDistance	N
+Westham	londonDistance	NNW
+Coombes	londonDistance	N
+Burpham	londonDistance	NNE
+Clymping	londonDistance	NNE
+Dumbleton	londonDistance	90.0
+Ansty and Staplefield	londonDistance	N
+Ferring	londonDistance	NNE
+Eastergate	londonDistance	NNE
+East Preston, West Sussex	londonDistance	NNE
+Ford, West Sussex	londonDistance	NNE
+Houghton, West Sussex	londonDistance	NNE
+Broughton, Salford	londonDistance	SE
+Madehurst	londonDistance	NNE
+Patching	londonDistance	NNE
+South Stoke, West Sussex	londonDistance	NNE
+Walberton	londonDistance	NNE
+Warningcamp	londonDistance	NNE
+Yapton	londonDistance	NNE
+Kingston by Ferring	londonDistance	NNE
+Ashton upon Mersey	londonDistance	SE
+Denton, East Sussex	londonDistance	N
+Fulking	londonDistance	N
+Lindfield Rural	londonDistance	N
+Newtimber	londonDistance	N
+Poynings	londonDistance	N
+Pyecombe	londonDistance	N
+Slaugham	londonDistance	N
+Twineham	londonDistance	N
+Sowerby, West Yorkshire	londonDistance	SSE
+Irchester	londonDistance	58.0
+Bonnybridge	londonDistance	SSE
+Heyshott	londonDistance	NE
+Stedham with Iping	londonDistance	NE
+Lodsworth	londonDistance	NE
+Deanshanger	londonDistance	55.0
+Elworth	londonDistance	SE
+Kinwarton	londonDistance	SE
+Sambourne	londonDistance	120
+Graffham	londonDistance	NNE
+Lurgashall	londonDistance	NE
+Trotton with Chithurst	londonDistance	NE
+Rogate	londonDistance	NE
+Milland	londonDistance	NE
+Harting	londonDistance	NE
+Cocking, West Sussex	londonDistance	NE
+Blackness, Falkirk	londonDistance	SSE
+West Lavington, West Sussex	londonDistance	NE
+Linch	londonDistance	NE
+Elsted and Treyford	londonDistance	NE
+Linchmere	londonDistance	NE
+Shawforth	londonDistance	SSE
+Thakeham	londonDistance	NNE
+Tide Mills, East Sussex	londonDistance	N
+Ifold	londonDistance	NNE
+Olivers Battery	londonDistance	62.2m
+Barry, Angus	londonDistance	SSE
+Chalvington with Ripe	londonDistance	NNW
+East Blatchington	londonDistance	N
+Morvern	londonDistance	567.0
+Morvern	londonDistance	526.0
+Allandale, Falkirk	londonDistance	SSE
+Haggs	londonDistance	SSE
+Banknock	londonDistance	SSE
+Ombersley	londonDistance	103.0
+Brereton, Staffordshire	londonDistance	125.0
+Appleby Parva	londonDistance	163.0
+Dunipace	londonDistance	SSE
+Strathblane	londonDistance	SSE
+Burton Lazars	londonDistance	SSE
+West Chiltington	londonDistance	NNE
+Plaistow, West Sussex	londonDistance	NNE
+Staylittle	londonDistance	ESE
+Nuthurst	londonDistance	NNE
+Spernall	londonDistance	113.0
+Longcroft, Falkirk	londonDistance	SSE
+Walkden	londonDistance	SE
+Nutley, East Sussex	londonDistance	NNW
+St Vigeans	londonDistance	SSE
+Singleton, West Sussex	londonDistance	NE
+Selsey Bill	londonDistance	NNE
+Tangmere	londonDistance	NNE
+Redding, Falkirk	londonDistance	SSE
+Westquarter	londonDistance	SSE
+Brightons	londonDistance	SSE
+Camelon	londonDistance	SSE
+Warnham	londonDistance	NNE
+Deane, Greater Manchester	londonDistance	SE
+Chidham and Hambrook	londonDistance	NE
+Deane, Hampshire	londonDistance	57.6m
+Pilling	londonDistance	204
+Wigan	londonDistance	SE
+Wardley, Rutland	londonDistance	SSE
+Buckley, Greater Manchester	londonDistance	SSE
+Oving, West Sussex	londonDistance	NNE
+Loxwood	londonDistance	NNE
+Northchapel	londonDistance	NE
+Kinlet	londonDistance	117.0
+West Grinstead	londonDistance	NNE
+Little Hulton	londonDistance	SE
+Tovil	londonDistance	NW
+Tacolneston	londonDistance	SW
+Loose, Kent	londonDistance	NW
+Furner's Green	londonDistance	N
+Ainsworth, Greater Manchester	londonDistance	SE
+Tarbet, Loch Nevis	londonDistance	552
+Tillington, West Sussex	londonDistance	NNE
+Clayton, West Sussex	londonDistance	N
+Roydon, South Norfolk	londonDistance	102.6
+Sustead	londonDistance	135.0
+Sibdon Carwood	londonDistance	153.0
+Cove, Hampshire	londonDistance	33.0
+Coldwaltham	londonDistance	NNE
+Lavant, West Sussex	londonDistance	NNE
+Scholes, Greater Manchester	londonDistance	176
+Sutton Weaver	londonDistance	SE
+North Warnborough	londonDistance	38.0
+Wisborough Green	londonDistance	NNE
+Southbourne, West Sussex	londonDistance	NE
+Fishbourne, West Sussex	londonDistance	NNE
+Claughton, Wyre	londonDistance	314.0
+Well Hill	londonDistance	NW
+Fittleworth	londonDistance	NNE
+Upwaltham	londonDistance	NNE
+Chineham	londonDistance	SW
+Gopsall	londonDistance	170.0
+Ebernoe	londonDistance	NE
+Duncton	londonDistance	NNE
+Kirdford	londonDistance	NNE
+Gisburn	londonDistance	SSE
+East Lavington	londonDistance	*NNE
+Stopham	londonDistance	NNE
+Sutton, West Sussex	londonDistance	NNE
+Woodmancote, West Sussex	londonDistance	N
+Eartham	londonDistance	NNE
+Woolbeding	londonDistance	NE
+Sidlesham	londonDistance	NNE
+Charlton, Worcestershire	londonDistance	90.0
+Clent	londonDistance	105.0
+Bouldon	londonDistance	151.0
+West Wittering	londonDistance	NE
+Bury, West Sussex	londonDistance	NNE
+East Dean, West Sussex	londonDistance	NNE
+Bainsford	londonDistance	SSE
+West Dean, West Sussex	londonDistance	NE
+Slamannan	londonDistance	SSE
+Walsall Wood	londonDistance	SE
+Barcombe Mills	londonDistance	N
+Rudgwick	londonDistance	NNE
+Wallacestone	londonDistance	SSE
+Northrepps	londonDistance	136.0
+West Raynham	londonDistance	110.0
+South Raynham	londonDistance	109.0
+East Raynham	londonDistance	110.0
+Keymer	londonDistance	N
+Cowfold	londonDistance	N
+Crosscanonby	londonDistance	SE
+Thorpe Market	londonDistance	135.0
+West Thorney	londonDistance	NE
+Westhampnett	londonDistance	NNE
+Thornage	londonDistance	125.0
+Compton, West Sussex	londonDistance	NE
+Stoughton, West Sussex	londonDistance	NE
+Duggleby	londonDistance	232.0
+Southrepps	londonDistance	136.0
+Brentwood, Essex	londonDistance	20.0
+Torwood	londonDistance	SSE
+Tunshill	londonDistance	SSE
+Eltisley	londonDistance	50.0
+Far Cotton	londonDistance	67.0
+Clayhanger, West Midlands	londonDistance	SE
+Rusper	londonDistance	NNE
+Donnington, West Sussex	londonDistance	NNE
+East Wittering and Bracklesham	londonDistance	NNE
+Funtington	londonDistance	NE
+Hunston, West Sussex	londonDistance	NNE
+Marden, West Sussex	londonDistance	NE
+North Mundham	londonDistance	NNE
+Plaistow and Ifold	londonDistance	NNE
+West Itchenor	londonDistance	N
+Garstang	londonDistance	199
+Up Marden	londonDistance	NE
+West Harting	londonDistance	NE
+Colgate, West Sussex	londonDistance	N
+Itchingfield	londonDistance	NNE
+Lower Beeding	londonDistance	N
+Shermanbury	londonDistance	N
+Shipley, West Sussex	londonDistance	NNE
+Slinfold	londonDistance	NNE
+Wiston, West Sussex	londonDistance	NNE
+Glen Village	londonDistance	SSE
+Muston, Leicestershire	londonDistance	116.0
+Dobcross	londonDistance	SSE
+Milton, Staffordshire	londonDistance	162.4
+Comley	londonDistance	158.0
+Ashburnham and Penhurst	londonDistance	NNW
+Beddingham	londonDistance	N
+Nyewood	londonDistance	NE
+Salehurst and Robertsbridge	londonDistance	NW
+Weymouth, Dorset	londonDistance	195
+Shuttleworth, Greater Manchester	londonDistance	SSE
+Cross In Hand	londonDistance	NNW
+Sidley, East Sussex	londonDistance	NNW
+Chapelhall	londonDistance	SSE
+Belfield, Greater Manchester	londonDistance	SSE
+High Wycombe Urban Area	londonDistance	41.6 m
+Fenny Bentley	londonDistance	145
+Haydon Hill	londonDistance	41.6 m
+Aviemore	londonDistance	420.0
+Shieldhill, Falkirk	londonDistance	SSE
+Denshaw	londonDistance	SSE
+Ramsden Bellhouse	londonDistance	WSW
+Carronshore	londonDistance	SSE
+Tuffley	londonDistance	113m
+Skelmersdale	londonDistance	SE
+Frogshall	londonDistance	136.0
+Hurstpierpoint and Sayers Common	londonDistance	N
+Dalston, Cumbria	londonDistance	SSE
+Rochford, Worcestershire	londonDistance	144.0
+Stoke Bliss	londonDistance	115.16
+Tibenham, Norfolk	londonDistance	SW
+Scarning	londonDistance	Approx. 100 miles
+Roudham and Larling	londonDistance	94.8
+Houghton, Norfolk	londonDistance	98.0
+Shakerley	londonDistance	SE
+Bradford	londonDistance	S
+Glencarse	londonDistance	364.0
+Woking	londonDistance	NE
+Glensanda	londonDistance	567.0
+Dunachton	londonDistance	SSE
+Maddiston	londonDistance	SSE
+Dunmore, Falkirk	londonDistance	SSE
+Laurieston, Falkirk	londonDistance	SSE
+Whitecross, Falkirk	londonDistance	SSE
+Skinflats	londonDistance	ESE
+Puxley	londonDistance	50.0
+National Collection of Yeast Cultures	londonDistance	115.0
+Farlam	londonDistance	259.0
+Come-to-Good	londonDistance	232
+Muirdrum	londonDistance	SSE
+Hindsford	londonDistance	SE
+Howe Bridge	londonDistance	SE
+Ewhurst Green	londonDistance	NW
+Walterstone	londonDistance	200.0
+Llanveynoe	londonDistance	200.0
+Westhide	londonDistance	175.0
+Clarkston, East Renfrewshire	londonDistance	SSE
+Inchyra	londonDistance	364.0
+Loveclough	londonDistance	225.0
+South Alloa	londonDistance	SSE
+Fankerton	londonDistance	SSE
+Greenhill, Falkirk	londonDistance	SSE
+Carron, Falkirk	londonDistance	SSE
+Stoneywood, Falkirk	londonDistance	SSE
+Muirhouses, Falkirk	londonDistance	SSE
+High Bonnybridge	londonDistance	SSE
+Blanefield	londonDistance	SSE
+Hope Bowdler	londonDistance	157.0
+Porthallow	londonDistance	311.0
+N.O.M.A., Manchester	londonDistance	163
+Stockdalewath	londonDistance	SSE
+Tullybelton	londonDistance	371.79
+Peaton	londonDistance	151.0
+Tugford	londonDistance	151.0
+Churchstow	londonDistance	ENE
+Broadward	londonDistance	159.0
+Marlow, Herefordshire	londonDistance	159.0
+Heath, Herefordshire	londonDistance	160.0
+Hilderstone	londonDistance	150.0
+Rotherbridge	londonDistance	NNE
+Cotton End, Northampton	londonDistance	67.0
+St. James End, Northampton	londonDistance	68.0
+Mansion House - Hurstpierpoint	londonDistance	N
+St John's Quarter	londonDistance	163
+Longford, Gloucestershire	londonDistance	103m
+Broad Oak	londonDistance	NW
+Kitt Green	londonDistance	176

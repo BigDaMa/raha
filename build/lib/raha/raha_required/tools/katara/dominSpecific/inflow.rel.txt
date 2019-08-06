@@ -1,0 +1,3341 @@
+Baltic Sea	inflow	Daugava River
+Baltic Sea	inflow	Kemijoki
+Baltic Sea	inflow	Neman River
+Baltic Sea	inflow	Neva
+Baltic Sea	inflow	Oder
+Baltic Sea	inflow	Vistula
+Baltic Sea	inflow	Lule River
+Baltic Sea	inflow	Narva River
+Baltic Sea	inflow	Torne älv
+Black Sea	inflow	Danube
+Black Sea	inflow	Dnieper River
+Black Sea	inflow	Rioni River
+Black Sea	inflow	Southern Bug
+Black Sea	inflow	Kızılırmak River
+Black Sea	inflow	Dniester
+Dead Sea	inflow	Jordan River
+English Channel	inflow	River Exe
+English Channel	inflow	River Seine
+English Channel	inflow	River Test
+English Channel	inflow	River Tamar
+English Channel	inflow	River Somme
+Roxen	inflow	Motala ström
+Roxen	inflow	Svartån, Östergötland
+Roxen	inflow	Stångån
+Lake Tana	inflow	Lesser Abay, Kilti River, Magech River, Reb River, Gumara River
+Lake Ontario	inflow	Niagara River
+Lake Erie	inflow	Detroit River
+Lake Michigan	inflow	Fox River
+Lake Michigan	inflow	Grand River
+Lake Michigan	inflow	Menominee River
+Lake Michigan	inflow	Milwaukee River
+Lake Michigan	inflow	Muskegon River
+Lake Michigan	inflow	Kalamazoo River
+Lake Michigan	inflow	St. Joseph River
+Lake Superior	inflow	Nipigon, St. Louis, Pigeon, Pic, White, Michipicoten, Kaministiquia Rivers
+Lake Ladoga	inflow	Svir River
+Lake Ladoga	inflow	Volkhov River
+Lake Ladoga	inflow	Vuoksi River
+Lake Champlain	inflow	Otter Creek
+Lake Champlain	inflow	Winooski River
+Lake Champlain	inflow	Missisquoi River
+Lake Champlain	inflow	Poultney River
+Lake Champlain	inflow	Lamoille River
+Lake Champlain	inflow	Ausable River
+Lake Champlain	inflow	Chazy River
+Lake Champlain	inflow	Boquet River
+Lake Champlain	inflow	Saranac River
+Lake Champlain	inflow	La Chute River
+Lake Balaton	inflow	Zala River
+Lake Eyre	inflow	Warburton River
+Mediterranean Sea	inflow	Atlantic Ocean
+Mediterranean Sea	inflow	Sea of Marmara
+Mediterranean Sea	inflow	Nile
+Mediterranean Sea	inflow	Ebro
+Mediterranean Sea	inflow	Rhône
+Mediterranean Sea	inflow	Chelif River
+Mediterranean Sea	inflow	Po
+North Sea	inflow	Baltic Sea
+North Sea	inflow	Elbe
+North Sea	inflow	Weser
+North Sea	inflow	Ems
+North Sea	inflow	Rhine
+North Sea	inflow	Waal
+North Sea	inflow	Meuse River
+North Sea	inflow	Scheldt
+North Sea	inflow	River Spey
+North Sea	inflow	River Don, Aberdeenshire
+North Sea	inflow	River Dee, Aberdeenshire
+North Sea	inflow	River Tay
+North Sea	inflow	River Forth
+North Sea	inflow	River Tyne
+North Sea	inflow	River Tees
+North Sea	inflow	Humber
+North Sea	inflow	Thames
+Persian Gulf	inflow	Gulf of Oman
+Seneca Lake	inflow	Catharine Creek, Keuka Lake Outlet; underwater sources
+Sea of Marmara	inflow	Simav River
+Sea of Marmara	inflow	Biga Çayı
+Sea of Marmara	inflow	Nilüfer River
+Vänern	inflow	Klarälven
+Barents Sea	inflow	Norwegian Sea
+Barents Sea	inflow	Arctic Ocean
+Qattara Depression	inflow	Groundwater
+Mono Lake	inflow	Rush Creek
+Mono Lake	inflow	Lee Vining Creek
+Mono Lake	inflow	Mill Creek
+Bay of Bengal	inflow	Indian Ocean
+Lake Baringo	inflow	El Molo
+Lake Baringo	inflow	Ol Arabel
+IJsselmeer	inflow	IJssel
+IJsselmeer	inflow	Vechte
+Lake Huron	inflow	Straits of Mackinac
+Lake Huron	inflow	St. Marys River
+Great Salt Lake	inflow	Bear, Jordan, Weber rivers
+Lake Baikal	inflow	Selenge River
+Lake Baikal	inflow	Barguzin
+Lake Baikal	inflow	Upper Angara River
+Lake Zug	inflow	Lorze
+Lake Chad	inflow	Chari River
+Lake Teletskoye	inflow	Chulyshman
+Lake Zurich	inflow	Linth
+Lake Malawi	inflow	Ruhuhu River
+Lake Zaysan	inflow	Kara-Irtysh
+Lake Zaysan	inflow	Kendyrlyk
+Aral Sea	inflow	North: Syr Darya
+Aral Sea	inflow	South: groundwater only
+Sea of Galilee	inflow	Upper Jordan River and local runoff
+Lake Victoria	inflow	Kagera River
+Lake Saint-Louis	inflow	Beauharnois Canal
+Lake Saint-Louis	inflow	St. Lawrence River
+Lake Saint-Louis	inflow	Ottawa River
+Lake Saint-Louis	inflow	Saint-Charles River
+Lake Constance	inflow	Rhine
+Sea of Azov	inflow	Don and Kuban
+Cockshoot Broad	inflow	River Bure
+Salhouse Broad	inflow	River Bure
+Martham Broad	inflow	River Thurne
+Lake Lure, North Carolina	inflow	Rocky Broad River
+Lake Taupo	inflow	Waitahanui River
+Lake Taupo	inflow	Tongariro River
+Lake Taupo	inflow	Tauranga Taupo River
+Derwentwater	inflow	River Derwent, Watendlath Beck, Brockle Beck
+Lady Bird Lake	inflow	Colorado River
+Lake Travis	inflow	Colorado River
+Lake Austin	inflow	Colorado River
+Howden Reservoir	inflow	River Derwent, River Westend, Howden Clough and Linch Clough
+Derwent Reservoir	inflow	River Derwent, Derbyshire
+Ladybower Reservoir	inflow	River Ashop
+Ladybower Reservoir	inflow	River Derwent, Derbyshire
+Utah Lake	inflow	Provo and Spanish Fork River
+Lake Manitoba	inflow	Waterhen River
+Lake Manitoba	inflow	Whitemud River
+Lake Winnipeg	inflow	Winnipeg River
+Lake Winnipeg	inflow	Saskatchewan River
+Lake Winnipeg	inflow	Red River of the North
+Lake Geneva	inflow	Rhône
+Lake Geneva	inflow	Dranse
+Lake Tanganyika	inflow	Ruzizi River
+Lake Tanganyika	inflow	Malagarasi River
+Lake Tanganyika	inflow	Kalambo River
+Lough Corrib	inflow	Cregg River
+Lough Corrib	inflow	River Clare
+Lough Corrib	inflow	Black River
+Lac Saint-Jean	inflow	Ashuapmushuan River
+Lac Saint-Jean	inflow	Mistassini River
+Lac Saint-Jean	inflow	Peribonka River
+Lac Saint-Jean	inflow	Des Aulnaies River
+Lac Saint-Jean	inflow	Métabetchouan River
+Lac Saint-Jean	inflow	Ouiatchouane River
+Gulf of Thailand	inflow	South China Sea
+Lake Lucerne	inflow	*
+Lake Lucerne	inflow	Reuss
+Lake Lucerne	inflow	Muota
+Lake Lucerne	inflow	Engelberger Aa
+Lake Lucerne	inflow	Sarner Aa
+Lake Winnipesaukee	inflow	Gunstock River
+Lake Winnipesaukee	inflow	Merrymeeting River
+Lake Winnipesaukee	inflow	Melvin River
+Lake Winnipesaukee	inflow	Red Hill River
+Lake Washington	inflow	Sammamish, Cedar Rivers; Ravenna, Thornton, Kelsey, Juanita, and Coal Creeks
+Lake Union	inflow	Lake Washington Ship Canal
+Issyk-Kul	inflow	Glaciers
+Lake of the Woods	inflow	Rainy River
+Lake of the Woods	inflow	Shoal Lake
+Lake of the Woods	inflow	Kakagi Lake
+Lake Saint Francis	inflow	Saint Lawrence River
+Lake Saint Pierre	inflow	Saint Lawrence River, Yamaska River, Saint-François River, Nicolet River, Maskinongé River, Rivière-du-Loup River and Yamachiche River
+Tulare Lake	inflow	Kaweah River
+Tulare Lake	inflow	Kern River
+Tulare Lake	inflow	Kings River
+Tulare Lake	inflow	Tule River
+Tulare Lake	inflow	White River
+Laguna de Bay	inflow	21
+Lake Garda	inflow	Sarca
+Lake Como	inflow	Adda River
+Lake Como	inflow	Mera River
+Lake Mweru	inflow	Luapula River
+Lake Mweru	inflow	Kalungwishi River
+Lake Sammamish	inflow	Issaquah Creek
+Detroit Lake	inflow	North Santiam and Breitenbush Rivers
+Loch Lomond	inflow	Endrick Water
+Loch Lomond	inflow	Fruin Water
+Loch Lomond	inflow	River Falloch
+Lake Maracaibo	inflow	Catatumbo River
+Lac de Serre-Ponçon	inflow	Durance
+Lac de Serre-Ponçon	inflow	Ubaye
+Port Phillip	inflow	Yarra River
+Port Phillip	inflow	Patterson River
+Port Phillip	inflow	Werribee River
+Port Phillip	inflow	Little River, Victoria
+Port Phillip	inflow	Kororoit Creek
+Gulf of Aqaba	inflow	Red Sea
+Lake Manly	inflow	Furnace Creek Wash
+Tonlé Sap	inflow	Tonle Sap River, Siem Reap River
+Lake Annecy	inflow	Ire, Eau morte, Laudon, Bornette and Biolon
+Windermere	inflow	River Brathay
+Windermere	inflow	River Rothay
+Windermere	inflow	Trout Beck
+Windermere	inflow	Cunsey Beck
+Lake Lugano	inflow	Vedeggio
+Lake Lugano	inflow	Cassarate
+Lake Lugano	inflow	Cuccio
+Lake Lugano	inflow	Laveggio
+Lake Lugano	inflow	Magliasina
+Lake Lugano	inflow	Bolletta
+Lake Lugano	inflow	Scairolo
+Bull Shoals Lake	inflow	White River
+Pasarel Reservoir	inflow	Iskar
+Yovkovtsi	inflow	Veselina River
+Studen Kladenets	inflow	Arda
+Studen Kladenets	inflow	Varbitsa River
+Lake Neuchâtel	inflow	Thielle , Arnon, Areuse, Seyon, canal de la Sauge, Mentue
+Clear Lake	inflow	Scotts Creek
+Clear Lake	inflow	Middle Creek
+Clear Lake	inflow	Forbes Creek
+Clear Lake	inflow	Morrison Creek
+Clear Lake	inflow	Seigler Canyon Creek
+Clear Lake	inflow	Shindler Creek
+Clear Lake	inflow	Kelsey Creek
+Clear Lake	inflow	Adobe Creek
+Clear Lake	inflow	Manning Creek
+Lake Marble Falls	inflow	Colorado River
+Lake Lyndon B. Johnson	inflow	Colorado River
+Lake Lyndon B. Johnson	inflow	Llano River
+Inks Lake	inflow	Colorado River
+Lake Buchanan	inflow	Colorado River
+Owens Lake	inflow	Owens River
+Owens Lake	inflow	Artesian well
+Dongting Lake	inflow	Yangtze River
+Dongting Lake	inflow	Xiang River
+Dongting Lake	inflow	Zi River
+Dongting Lake	inflow	Yuan River
+Dongting Lake	inflow	Lishui River
+Lake Nasser	inflow	Nile
+Black Lake	inflow	Black Lake Bayou
+Lake Albert	inflow	Victoria Nile
+Blithfield Reservoir	inflow	River Blithe, Tad Brook
+Lake Sakakawea	inflow	Missouri River and
+Lake Sakakawea	inflow	Little Missouri River
+Yellowstone Lake	inflow	Yellowstone River
+Lake Mead	inflow	Colorado River
+Lake Powell	inflow	*
+Lake Powell	inflow	Colorado River
+Lake Powell	inflow	Escalante River
+Lake Powell	inflow	San Juan River
+Berg Lake	inflow	Robson River, Toboggan Creek, Hargreaves Lake Outlet Stream,
+Pyramid Lake	inflow	Truckee River
+Lake Onega	inflow	58
+Lake Peipus	inflow	Emajõgi
+Lake Peipus	inflow	Velikaya River
+Lake Kyoga	inflow	Victoria Nile
+Lake Athabasca	inflow	Peace River, which backs up through Rivière des Rochers during flooding, Athabasca River, William River, MacFarlane River, Colin River, Fond du Lac River,
+Martinez Lake	inflow	Lower Colorado River
+Bala Lake	inflow	River Dee, Wales
+Heaven Lake	inflow	''precipitation
+Lough Neagh	inflow	Upper Bann, Six Mile Water, Glenavy River, Crumlin River, Blackwater, Moyola River, Ballinderry River, River Main
+Lake Strom Thurmond	inflow	Savannah River
+Salton Sea	inflow	Alamo River
+Salton Sea	inflow	New River
+Salton Sea	inflow	Whitewater River
+Carsington Water	inflow	tunnel/aqueduct from River Derwent
+Great Slave Lake	inflow	Hay River
+Great Slave Lake	inflow	Slave River
+Great Slave Lake	inflow	Taltson River
+Great Slave Lake	inflow	Lockhart River
+Great Slave Lake	inflow	Yellowknife River
+Great Slave Lake	inflow	Snare River
+Great Slave Lake	inflow	Marian River
+Lake Minnetonka	inflow	Six Mile Creek
+Cedar Lake	inflow	Saskatchewan River
+Lake Okeechobee	inflow	Kissimmee River
+Lake Okeechobee	inflow	Fisheating Creek
+Lake Okeechobee	inflow	Taylor Creek, Florida
+Rybinsk Reservoir	inflow	Volga River
+Rybinsk Reservoir	inflow	Sheksna River
+Rybinsk Reservoir	inflow	Mologa River
+Lough Erne	inflow	River Erne
+Lake Quinault	inflow	Quinault River
+Lake St. Clair	inflow	St. Clair River
+Lake St. Clair	inflow	Thames River
+Lake St. Clair	inflow	Sydenham River
+Lake St. Clair	inflow	Clinton River
+Hobsons Bay	inflow	Yarra River
+Elan Valley Reservoirs	inflow	River Elan
+Elan Valley Reservoirs	inflow	Claerwen
+Okanagan Lake	inflow	Mission Creek, Vernon Creek, Trout Creek, Penticton Creek, Equesis Creek, Kelowna Creek, Peachland Creek and Powers Creek
+Lake Turkana	inflow	Omo River
+Lake Turkana	inflow	Turkwel River
+Lake Turkana	inflow	Kerio River
+Lake Balkhash	inflow	Ili, Karatal, Aksu, Lepsy, Byan, Kapal, Koksu rivers
+Lake Brienz	inflow	Aare, Lütschine
+Lake Thun	inflow	Aare
+Lake Thun	inflow	Kander
+Lake Morat	inflow	Broye
+Pyhäjärvi	inflow	Tammerkoski
+Lake Winnebago	inflow	Wolf River
+Lake Winnebago	inflow	Fox River
+Lake Bangweulu	inflow	Chambeshi River
+Lake Edward	inflow	Nyamugasani River
+Lake Edward	inflow	Ishasha River
+Lake Edward	inflow	Rutshuru River
+Lake Edward	inflow	Rwindi River
+Lake Edward	inflow	Ntungwe River
+Lake Edward	inflow	Lubilia River
+Lake Abaya	inflow	Bilate River
+Lake Ngami	inflow	Okavango Delta
+Lake Nipissing	inflow	Sturgeon River, South River, Rivière Veuve
+Toledo Bend Reservoir	inflow	Sabine River
+Poyang Lake	inflow	5
+Lake Tisza	inflow	Tisza River
+Lake Manapouri	inflow	Waiau River, Southland
+Cass Lake	inflow	Mississippi River
+Cass Lake	inflow	Turtle River
+Cass Lake	inflow	Pike Bay
+Lake Bemidji	inflow	Mississippi River
+Lake Vida	inflow	Victoria River, Antarctica
+Lake Vida	inflow	Kite Stream
+Lake Vida	inflow	Dune Creek
+Oneida Lake	inflow	Oneida Creek
+Oneida Lake	inflow	Fish Creek
+Oneida Lake	inflow	Chittenango Creek
+Elephant Butte Reservoir	inflow	Rio Grande
+Lake Burley Griffin	inflow	Molonglo River
+Lake Burley Griffin	inflow	Sullivans Creek
+Lake Burley Griffin	inflow	Jerrabomberra Creek
+Jordan Lake	inflow	Haw River, New Hope Creek, Morgan Creek, and Little Creek
+Lake Illawarra	inflow	Macquarie Rivulet, Mullet Creek
+Tuggerah Lake	inflow	Wyong River
+Lake Gordon	inflow	Gordon River
+Lake Gordon	inflow	Lake Pedder
+Lake Gordon	inflow	McPartlan Canal
+Lake Burragorang	inflow	Coxs, Kowmung, Nattai, Wingecarribee, Wollondilly and Warragamba rivers
+Lake Burrendong	inflow	Macquarie River
+Lake Burrendong	inflow	Cudgegong River
+Lake Delton	inflow	Dell Creek
+Lake Elsinore	inflow	San Jacinto River, Leach Canyon, McVicker Canyon
+Lake Meredith	inflow	Canadian River
+Kielder Water	inflow	River North Tyne, Kielder Burn, Lewis Burn
+Loch Awe	inflow	River Orchy
+Loch Awe	inflow	Kames River
+Loch Morar	inflow	River Meoble
+Walensee	inflow	Linth , Seez, Murgbach
+Gulf of Riga	inflow	Daugava
+Gulf of Riga	inflow	Pärnu
+Gulf of Riga	inflow	Lielupe
+Gulf of Riga	inflow	Gauja
+Gulf of Riga	inflow	Salaca
+Lake Wisconsin	inflow	Wisconsin River
+Cahora Bassa	inflow	Zambezi River
+Gatun Lake	inflow	Chagres River
+Loch Lubnaig	inflow	River Balvaig
+Onondaga Lake	inflow	Ninemile Creek
+Onondaga Lake	inflow	Onondaga Creek
+Lake Rotoroa	inflow	D'Urville River
+Lake Rotoroa	inflow	Sabine River, New Zealand
+Western Port	inflow	Bunyip River
+Western Port	inflow	Lang Lang River
+Western Port	inflow	Bass River
+Western Port	inflow	Cardinia Creek
+Lake Te Anau	inflow	Eglinton River
+Lake Te Anau	inflow	Clinton River, New Zealand
+Lake Te Anau	inflow	Worsley River
+Lake Te Anau	inflow	Glaisnock River
+Lake Te Anau	inflow	Wapiti River, New Zealand
+Lake Te Anau	inflow	Doon River
+Lake Te Anau	inflow	McKenzie Burn
+Lake Te Anau	inflow	Upukerora River
+Bassenthwaite Lake	inflow	River Derwent, Cumbria
+Bassenthwaite Lake	inflow	Newlands Beck
+Blöndulón	inflow	Blanda
+Blöndulón	inflow	Kolkukvíslar
+Jökulsárlón	inflow	Breiðamerkurjökull glacier
+Þórisvatn	inflow	Þjórsá
+Sultartangalón	inflow	Þjórsá and Tungnaá
+Sigöldulón	inflow	Tungnaá
+Lake Koocanusa	inflow	Kootenay River
+Lake Lahontan	inflow	Carson River
+Great Bitter Lake	inflow	Suez Canal
+Lake Maggiore	inflow	Ticino River
+Lake Maggiore	inflow	Maggia River
+Lake Maggiore	inflow	Toce
+Lake Maggiore	inflow	Tresa
+Lake Tappan	inflow	Hackensack River
+Christmas Hills, Victoria	inflow	Maroondah Aqueduct, Yarra River
+Moosehead Lake	inflow	Moose River
+Myall Lakes	inflow	Myall River
+Lake Alexandrina	inflow	Murray, Bremer, Angas, and Finniss Rivers
+Port Stephens	inflow	Karuah River
+Port Stephens	inflow	Myall River
+Port Stephens	inflow	Tilligerry Creek
+Bull Sluice Lake	inflow	Chattahoochee River
+Bear Lake	inflow	Bear River
+Bear Lake	inflow	Creeks: Fish Haven,
+Bear Lake	inflow	North Eden, South Eden,
+Bear Lake	inflow	Swan Creek, St. Charles
+Loktak Lake	inflow	Manipur river and many small rivulets
+Walker Lake	inflow	Walker River
+Jackson Lake	inflow	Snake River
+Upper Klamath Lake	inflow	Williamson River, Wood River, Crooked Creek, Fourmile Creek
+Peconic Bay	inflow	North Atlantic
+Bartley Reservoir	inflow	Elan aqueduct
+Crowley Lake	inflow	Owens River
+Lake Wanapitei	inflow	Wanapitei River
+Connecticut Lakes	inflow	Connecticut River
+Loch Lochy	inflow	River Lochy
+Dow's Lake	inflow	Rideau Canal
+Lake Bosumtwi	inflow	rainfall
+Woodcliff Lake Reservoir	inflow	Pascack Brook
+Woodcliff Lake Reservoir	inflow	Bear Brook
+Lake Poopó	inflow	Desaguadero River
+Lake Uluabat	inflow	Mustafakemalpaşa River
+Greifensee	inflow	Ustermer Aa
+Greifensee	inflow	Aabach
+Lake Celilo	inflow	Columbia River
+Flaming Gorge Reservoir	inflow	Green River
+Flaming Gorge Reservoir	inflow	Blacks Fork
+Lake Goodwin	inflow	Lake Crabapple and Lake Loma
+Badwater Basin	inflow	Amargosa River
+Lake Texoma	inflow	Red River of the South
+Lake Texoma	inflow	Washita River
+Lake Chelan	inflow	Stehekin River, Railroad Creek
+Lake Wakatipu	inflow	Dart River
+Lake Wakatipu	inflow	Rees River
+Vihar Lake	inflow	Mithi River
+Lake Vyrnwy	inflow	River Vyrnwy and other small streams
+Lake Minnewanka	inflow	Cascade River
+Lake Timiskaming	inflow	Blanche River
+Lake Timiskaming	inflow	Ottawa River
+Lake Timiskaming	inflow	Montreal River
+Lake Timiskaming	inflow	Matabitchuan River
+Brandy Pond	inflow	Chute River
+Lake Cachuma	inflow	California Aqueduct
+Lake Cachuma	inflow	Santa Ynez River
+Bennett Lake	inflow	Watson River, Wheaton River, Partridge River, Homan River
+Old Wives Lake	inflow	Wood River
+Tagish Lake	inflow	Wann River
+Tagish Lake	inflow	Swanson River
+Tagish Lake	inflow	Fantail River
+Tagish Lake	inflow	Tutshi River
+Lake Lacha	inflow	Svid River
+Lake Lacha	inflow	Lyokshma River
+Derwent Reservoir	inflow	River Derwent, North East England
+Glacier Bay Basin	inflow	Pacific Ocean
+Pyramid Lake	inflow	California Aqueduct
+Pyramid Lake	inflow	Piru Creek
+Lesser Slave Lake	inflow	South Heart River
+Lesser Slave Lake	inflow	Swan River
+Lesser Slave Lake	inflow	Driftpile River
+Lesser Slave Lake	inflow	Assineau River
+Lesser Slave Lake	inflow	Marten River
+Lough Ennell	inflow	River Brosna
+Rice Lake	inflow	Otonabee River
+Glenmore Reservoir	inflow	Elbow River
+Shasta Lake	inflow	Sacramento River
+Shasta Lake	inflow	Pit River
+Shasta Lake	inflow	McCloud River
+Cropston Reservoir	inflow	River Lin
+Lake Wylie	inflow	Catawba River
+Lake Wissota	inflow	Chippewa River, Paint Creek, Stillson Creek, Yellow River, O'Neil Creek
+Lake Isabella	inflow	Upper Kern River, South Fork Kern River
+Devils Lake	inflow	Rock Creek, Thompson Creek
+Lake Nacimiento	inflow	Nacimiento River
+Lake Scugog	inflow	Nonquon River
+Lake Scugog	inflow	Blackstock Creek
+Lake Scugog	inflow	Cawkers Creek
+Lake Urmia	inflow	Zarriné-Rūd
+Lake Urmia	inflow	Simineh River
+Lake Urmia	inflow	Mahabad River
+Lake Urmia	inflow	Gadar River
+Lake Urmia	inflow	Barandouz River
+Lake Urmia	inflow	Shahar River
+Lake Urmia	inflow	Nazlou River
+Lake Urmia	inflow	Zola River
+Lake Urmia	inflow	Qatur River
+Lake Urmia	inflow	Kaftar Ali Chay
+Lake Urmia	inflow	Aji Chay
+Lake Urmia	inflow	Boyuk Chay
+Lake Urmia	inflow	Rudkhaneh-ye Qal'eh Chay
+Lake Urmia	inflow	Qobi Chay
+Lake Urmia	inflow	Rudkhaneh-ye Mordaq
+Lake Urmia	inflow	Leylan River
+Lake George	inflow	St. Johns River
+Lake George	inflow	Juniper Springs
+Lake George	inflow	Salt Springs, Florida
+Lake George	inflow	Silver Glen Springs
+Lake Ilmen	inflow	Msta River
+Lake Ilmen	inflow	Lovat River
+Lake Ilmen	inflow	Shelon River
+Lake Dunstan	inflow	Clutha River
+ Te Waihora	inflow	 Waikirikiri
+Lake Merced	inflow	Spring
+Lake Benmore	inflow	Ohau River
+Lake Benmore	inflow	Pukaki River
+Lake Benmore	inflow	Tekapo River
+Lake Benmore	inflow	Ahuriri River
+Lough Derg	inflow	River Shannon
+Kinney Lake	inflow	Robson River
+Lake Okutama	inflow	Tama River, Kosuge River
+Mjøsa	inflow	Gudbrandsdalslågen
+Ross Barnett Reservoir	inflow	Pearl River
+Franklin D. Roosevelt Lake	inflow	Columbia River
+Franklin D. Roosevelt Lake	inflow	Spokane River
+Lake Charlevoix	inflow	Jordan River
+Lake Charlevoix	inflow	Boyne River
+Lough Swilly	inflow	River Swilly
+Lough Allen	inflow	River Shannon
+Lough Ree	inflow	River Shannon
+Lough Ree	inflow	River Inny, Westmeath
+Mullett Lake	inflow	Indian River, Pigeon River, Little Pigeon River, Sturgeon River, Mullett Creek
+Burt Lake	inflow	Maple River
+Burt Lake	inflow	Crooked River
+Burt Lake	inflow	Sturgeon River
+Lake Houston	inflow	west fork of the San Jacinto River
+Lake Neusiedl	inflow	precipitation, Wulka
+Lake Bogoria	inflow	Sandai and Emsos rivers, springs
+Attersee	inflow	Seeache
+Mondsee	inflow	Fuschler Ache
+Mondsee	inflow	Zeller Ache
+Lake Roxburgh	inflow	Clutha River
+Lake Ruataniwha	inflow	Ohau River
+Lake Ohau	inflow	Hopkins River, New Zealand
+Lake Ohau	inflow	Dobson River, New Zealand
+Lake Waitaki	inflow	Waitaki River
+Lake Aviemore	inflow	Waitaki River
+Lake Pukaki	inflow	Tasman River
+Lake Tekapo	inflow	Godley River
+Lake Tekapo	inflow	Macauley River
+Lake Tekapo	inflow	Mistake River
+Lake Tekapo	inflow	Cass River, New Zealand
+Lake Waipori	inflow	Waipori River
+Loch Tay	inflow	Dochart, Lochay
+Lake Iseo	inflow	Oglio
+Chew Valley Lake	inflow	River Chew
+Lake Alabaster	inflow	Pyke River
+Lake McKerrow	inflow	Hollyford River
+Lake Fryxell	inflow	Crescent Stream
+Lake Fryxell	inflow	Harnish Creek
+Pulicat Lake	inflow	Arani river, Kalangi River and Swarnamukhi River
+Chilika Lake	inflow	52
+Kolleru Lake	inflow	Ramileru, Tammileru, Budameru, Polaraj drain
+Lake Coleridge	inflow	Harper River
+Lake Coleridge	inflow	Wilberforce River
+Lake Rotorua	inflow	Utuhina, Hamurana Spring, Ngongotaha
+Lake Alaotra	inflow	Ambato River
+Donner Lake	inflow	Summit Creek, Gregory Creek, and many springs
+Lake Ülemiste	inflow	Vaskjala–Ülemiste canal , Kurna stream, Ruunaoja stream
+Lake Koshkonong	inflow	Rock River
+Lower Neches Valley Authority	inflow	Neches River
+Lower Neches Valley Authority	inflow	Pine Island Bayou
+Lake Arapuni	inflow	Waikato River
+Lake Karapiro	inflow	Waikato River
+Lake Ohrid	inflow	Sateska River, Biljana's springs, underground link with Lake Prespa
+Lake Wairarapa	inflow	Ruamahanga River
+Great Sacandaga Lake	inflow	Sacandaga River
+Moses Lake	inflow	Crab Creek
+Lake Vidraru	inflow	Argeş River
+Kootenay Lake	inflow	Kootenay River
+Kasshabog Lake	inflow	North River
+Lake Malta	inflow	Cybina
+Sturgeon Lake	inflow	Fenelon River
+Sturgeon Lake	inflow	Scugog River
+Priest Lake	inflow	Priest River
+Priest Lake	inflow	, Indian creek
+Priest Lake	inflow	, Lion creek
+Priest Lake	inflow	, Hunt creek
+Tenkiller Ferry Lake	inflow	Illinois River
+Tom Steed Reservoir	inflow	West Otter Creek
+Canton Lake	inflow	North Canadian River
+Eufaula Lake	inflow	North and South Canadian Rivers
+Ennerdale Water	inflow	River Liza
+Lake Cushman	inflow	Skokomish River
+Lake Kokanee	inflow	Skokomish River
+Medina Lake	inflow	Medina River
+Honeoye Lake	inflow	Honeoye Inlet
+Parry Sound	inflow	Seguin River
+Cross Lake	inflow	Seneca River
+Okamanpeedan Lake	inflow	East Fork of the Des Moines River
+Jarun	inflow	Sava River
+Lake Izvorul Muntelui	inflow	Bistrița
+Tempe Town Lake	inflow	Central Arizona Project Aqueduct
+Saguaro Lake	inflow	Salt River
+Candlewood Lake	inflow	Rocky River
+Candlewood Lake	inflow	Housatonic River
+Lake McQueeney	inflow	Guadalupe River
+Kamloops Lake	inflow	Thompson River
+Kamloops Lake	inflow	Tranquille River
+Binnenalster	inflow	Alster
+Außenalster	inflow	Alster
+Außenalster	inflow	Osterbek
+Außenalster	inflow	Wandse
+Lake Victoria	inflow	Murray River
+Lake Victoria	inflow	Darling River
+Cantabrian Sea	inflow	Agüera River
+Cantabrian Sea	inflow	Asón River
+Cantabrian Sea	inflow	Bidasoa River
+Cantabrian Sea	inflow	Deva River
+Cantabrian Sea	inflow	Escudo River
+Cantabrian Sea	inflow	Miera River
+Cantabrian Sea	inflow	Nalón River
+Cantabrian Sea	inflow	Nansa River
+Cantabrian Sea	inflow	Navia River
+Cantabrian Sea	inflow	Pas River
+Cantabrian Sea	inflow	Pisueña River
+Cantabrian Sea	inflow	Saja River
+Cantabrian Sea	inflow	Besaya River
+Cantabrian Sea	inflow	Sella River
+Cantabrian Sea	inflow	Piles River
+Lake Monona	inflow	Yahara River
+Lake Monona	inflow	Starkweather Creek
+Lake Monona	inflow	Murphy Creek
+Lake Albert	inflow	Murray River
+Lake Norman	inflow	Catawba River
+Somerville Lake	inflow	Yegua Creek
+Balsam Lake	inflow	Gull River
+Tustumena Lake	inflow	Tustumena Glacier
+Fort Peck Lake	inflow	Missouri River, Musselshell River, Fourchette Creek, Dry Creek
+Lake Volta	inflow	White Volta River
+Lake Volta	inflow	Black Volta River
+Lake Sharpe	inflow	Missouri River
+Abberton Reservoir	inflow	pumped from River Stour
+Lake Oahe	inflow	Missouri River
+Lake Oahe	inflow	Cheyenne River
+Lake Oahe	inflow	Moreau River
+Lake Oahe	inflow	Grand River
+Kawaweogama Lake	inflow	Brightsand River
+Lake Sonoma	inflow	Dry Creek, Sonoma County
+Canyon Lake	inflow	Salt River
+Flathead Lake	inflow	Flathead River
+Flathead Lake	inflow	Swan River
+Loch Shiel	inflow	River Finnan
+Loch Shiel	inflow	Callop River
+Loch Shiel	inflow	River Polloch
+Lake Chapala	inflow	Río Lerma
+Lake Chapala	inflow	Río Zula
+Lake Chapala	inflow	Río Huaracha
+Lake Chapala	inflow	Río Duero
+Round Lake	inflow	Lacamas Creek
+Lake Temagami	inflow	Anima Nipissing River
+Storm Bay	inflow	River Derwent
+Calaveras Reservoir	inflow	Arroyo Hondo
+Calaveras Reservoir	inflow	Calaveras Creek
+Lake Decatur	inflow	north Upper Sangamon watershed
+Reindeer Lake	inflow	Cochrane River
+Lake Oroville	inflow	North Fork Feather River, Middle Fork Feather River, West Branch Feather River, South Fork Feather River, various other smaller streams
+Lake Wawasee	inflow	Spring
+Lake Wawasee	inflow	Lake Papakeechie
+Encounter Bay	inflow	Murray River
+Tittesworth reservoir	inflow	River Churnet
+Lake Argyle	inflow	Ord River
+Lake Argyle	inflow	Bow River
+Stanford Reservoir	inflow	River Avon, Warwickshire
+Ogston Reservoir	inflow	River Amber
+Gippsland Lakes	inflow	Avon, Thomson, Latrobe, Mitchell, Nicholson and Tambo rivers
+Lake Pleasant Regional Park	inflow	Agua Fria River
+Lake Hemet	inflow	San Jacinto River
+Lake Ram	inflow	precipitation, underground springs
+Claytor Lake	inflow	New River
+Oradell Reservoir	inflow	Hackensack River
+Oradell Reservoir	inflow	Pascack Brook
+Oradell Reservoir	inflow	Dwars Kill
+Guntersville Lake	inflow	Tennessee River
+Taal Lake	inflow	Alulod river
+Lake Orta	inflow	underground springs, Scarpia, Pellino, Plesna, Qualba, Fiumetta, Pescone
+Shuswap Lake	inflow	Adams River, Scotch Creek, Seymour River, Anstey River, Eagle River, Shuswap River , Salmon River
+Falls Lake	inflow	Eno River
+Falls Lake	inflow	Flat River
+Falls Lake	inflow	Little River
+Caesar Creek State Park	inflow	Caesar Creek
+Cowan Lake	inflow	Cowan Creek
+Lake Lemon	inflow	Bean Blossom Creek
+Lake Entiat	inflow	Columbia River
+Jordanelle Reservoir	inflow	Provo River
+Lake Pend Oreille	inflow	Clark Fork River
+Lake Pend Oreille	inflow	Pack River
+Lake Pend Oreille	inflow	Trestle Creek
+Möhne Reservoir	inflow	Möhne, Heve
+Lake Allatoona	inflow	Etowah River, Allatoona Creek, Little River, Noonday Creek
+Ashtamudi Lake	inflow	Kallada River
+Vembanad	inflow	Achenkovil
+Vembanad	inflow	Manimala River
+Vembanad	inflow	Meenachil
+Vembanad	inflow	Muvattupuzha River
+Vembanad	inflow	Pamba River
+Vembanad	inflow	Periyar River
+Caniapiscau Reservoir	inflow	Caniapiscau River
+Painted Rock Dam	inflow	Gila River
+Kenyir Lake	inflow	Kenyir River
+Cedar Lake	inflow	Nipissing River
+Cedar Lake	inflow	Petawawa River
+Red Cedar Lake	inflow	Temagami River
+Red Cedar Lake	inflow	Marten River
+Lake Mendota	inflow	Yahara River
+Lough Gill	inflow	Bonet River
+Lake Laberge	inflow	Yukon River
+Lake Vanda	inflow	Onyx River
+Lake Vanda	inflow	Bartley Stream
+Lake Vanda	inflow	Clark Stream
+Lake Vanda	inflow	Meserve Stream
+Lake Cumberland	inflow	Cumberland River
+Lake Havasu	inflow	Colorado River
+Osman Sagar	inflow	Musi River, India
+Coquitlam Lake	inflow	Coquitlam River
+Lake Martin	inflow	Tallapoosa River
+Lake Louise State Park	inflow	Upper Iowa River
+Schwatka Lake	inflow	Yukon River
+Gopło	inflow	Noteć
+Lake Taneycomo	inflow	White River
+Table Rock Lake	inflow	White River
+Table Rock Lake	inflow	James River
+Table Rock Lake	inflow	Kings River
+Lake of the Ozarks	inflow	Grandglaize Creek, Gravois Creek, Niangua River, Osage River
+Baker Lake	inflow	Thelon River
+Baker Lake	inflow	Kazan River
+Walter Wirth Lake	inflow	Mill Creek
+Smith Mountain Lake	inflow	Roanoke River, Blackwater River
+Cranberry Lake	inflow	Oswegatchie River
+Lac du Bourget	inflow	Leysse, Tillet, Sierroz
+Lake Claire	inflow	Birch River
+Lake Claire	inflow	McIvor River
+Akuna Bay	inflow	Coal and Candle Creek
+Lake Pepin	inflow	Mississippi River
+Tupper Lake	inflow	Raquette River
+Lake Corangamite	inflow	Pirron Yalloak Creek
+Lake Corangamite	inflow	Woady Yaloak River
+Lake Corangamite	inflow	Salt Creek
+Lake Corangamite	inflow	various springs
+Lake Barrine	inflow	precipitation
+Nolin River Lake	inflow	Nolin River
+Watts Bar Lake	inflow	clinch river
+Lewisville Lake	inflow	Elm Fork of the Trinity River
+Nicasio Reservoir	inflow	Nicasio Creek
+Toshka Lakes	inflow	Nile-Lake Nasser via Sadat Canal
+Mascoma Lake	inflow	Mascoma River
+Mascoma Lake	inflow	Knox River
+Lake Banook	inflow	Shubenacadie Canal
+Pathfinder Reservoir	inflow	North Platte River
+Lake Fork Reservoir	inflow	Lake Fork Creek, Big Caney, Little Caney
+Stanley Reservoir	inflow	River Kaveri  minor tributaries: Palar, Chennar and Thoppar above Stanley Reservoir
+Bass Lake	inflow	Willow Creek
+Jennings Randolph Lake	inflow	Potomac River
+Loch Leven	inflow	North Fork of Bishop Creek
+Arcadia Lake	inflow	Deep Fork River
+Lake Taymyr	inflow	Zapadnaya River
+Lake Taymyr	inflow	Severnaya River
+Lake Taymyr	inflow	Bikada Nguoma River
+Lake Taymyr	inflow	Yamutarida River
+Lake Taymyr	inflow	Kalamissamo River
+Lake Taymyr	inflow	Taymyr River
+Sam Rayburn Reservoir	inflow	Angelina River
+Hollingworth Lake	inflow	Longden End Brook
+Mazinaw Lake	inflow	upper Mississippi River
+Lake Thirteen	inflow	Runyan Creek
+Bighorn Lake	inflow	Bighorn River
+Lake Micmac	inflow	Shubenacadie Canal, Grassy Brook
+Phayao Lake	inflow	Ing River, Tam River
+Müggelsee	inflow	Spree
+Aberdeen Lake	inflow	Tennessee-Tombigbee Waterway
+Gainesville Lake	inflow	Tennessee-Tombigbee Waterway
+Aliceville Lake	inflow	Tennessee-Tombigbee Waterway
+Tainter Lake	inflow	Red Cedar River
+Tainter Lake	inflow	Hay River
+Lake Menomin	inflow	Red Cedar River
+Atlin Lake	inflow	O Donnel River
+Atlin Lake	inflow	Pike River
+Atlin Lake	inflow	Llewellyn Glacier
+Nong Han Lake	inflow	Nam Pung
+Commanda Lake	inflow	Gee Creek
+Commanda Lake	inflow	Commanda Creek
+Commanda Lake	inflow	Beaudry Creek
+Lake Lanier	inflow	Chattahoochee River
+Lake Lanier	inflow	Chestatee River
+Barby Storage Reservoir	inflow	Draycote Water
+Lake Thunderbird	inflow	Little River
+Truman Reservoir	inflow	Osage River
+Lake Michigan–Huron	inflow	St. Marys River
+Klingnauer Stausee	inflow	Aare
+Lake Jocassee	inflow	Horsepasture, Toxaway, Whitewater, Thompson Rivers
+Don Pedro Reservoir	inflow	Tuolumne River
+Uvs Lake	inflow	Tesiin gol and others
+Williston Lake	inflow	Peace River
+Center Hill Lake	inflow	Caney Fork
+Center Hill Lake	inflow	Falling Water River
+Lake Borgne	inflow	MRGO and Mississippi River
+Chungará Lake	inflow	Chungará River
+Chungará Lake	inflow	Sopocalane
+Võrtsjärv	inflow	Väike Emajõgi
+Võrtsjärv	inflow	Tänassilma River
+Võrtsjärv	inflow	Õhne
+Võrtsjärv	inflow	Tarvastu River
+Lake Revelstoke	inflow	Columbia River
+Lake Revelstoke	inflow	Goldstream River
+Moyie Lake	inflow	Moyie River
+Swan Lake	inflow	Swan River
+Kluane Lake	inflow	Slims River
+Blanca Lake	inflow	Columbia Glacier
+Lake Mulwala	inflow	Murray River
+Lake Mulwala	inflow	Ovens River
+Lake Abbe	inflow	Awash River
+Rend Lake	inflow	Big Muddy River
+Rend Lake	inflow	Casey Creek
+Sullivan's Pond	inflow	Shubenacadie Canal
+Lake Monroe	inflow	Salt Creek
+Pielinen	inflow	Jongunjoki
+Pielinen	inflow	Koitajoki
+Pielinen	inflow	Lieksanjoki
+Barren River Lake	inflow	Barren River
+Buckhorn Lake	inflow	Kentucky River
+Umbagog Lake	inflow	Magalloway River
+Umbagog Lake	inflow	Rapid River
+Umbagog Lake	inflow	Dead Cambridge River
+Newfound Lake	inflow	Fowler River
+Newfound Lake	inflow	Cockermouth River
+Winnisquam Lake	inflow	Winnipesaukee River
+Walloon Lake	inflow	groundwater
+Pushkar Lake	inflow	Luni River
+Cedar Creek Lake	inflow	Cedar Creek
+Lake Coeur d'Alene	inflow	Coeur d'Alene River
+Lake Coeur d'Alene	inflow	Saint Joe River
+Lake Suwa	inflow	31
+Brunei Bay	inflow	South China Sea
+Mundaú Lagoon	inflow	Paraíba do Meio River
+Frankley Reservoir	inflow	Elan aqueduct
+Old Hickory Lake	inflow	Cumberland River
+Percy Priest Lake	inflow	Stones River
+Big Stone Lake	inflow	Little Minnesota River
+Dhebar Lake	inflow	Sabarmati River,Khodiyo Ka Khera Rajasthan
+Sarez Lake	inflow	Murghab River
+Lake Istokpoga	inflow	Arbuckle Creek, Josephine Creek
+Shandur Top	inflow	 River Indus
+Quake Lake	inflow	Madison River
+Kainji Lake	inflow	Niger River
+Lake Mathews	inflow	Colorado River Aqueduct
+Stevens Creek Reservoir	inflow	Stevens Creek
+Rainy Lake	inflow	Namakan Lake
+Rainy Lake	inflow	Kabetogama Lake
+Rainy Lake	inflow	Seine River
+Adams Lake	inflow	Upper Adams River, Momich River, Bush Creek
+Kinbasket Lake	inflow	Columbia River
+Kinbasket Lake	inflow	Canoe River
+Sanford Lake	inflow	Tittabawassee River
+Lake Wendouree	inflow	Gong Gong Reservoir; various
+Lake Santa Fe	inflow	springs
+North Aral Sea	inflow	Syr Darya
+Lake Rusałka	inflow	Bogdanka
+Lake Enriquillo	inflow	Yaque del Sur
+Lake Eyasi	inflow	Sibiti River , Baray , lesser seasonal rivers
+Lake Traverse	inflow	Mustinka River
+Trinity Bay	inflow	Mossman River
+Lake Tuggeranong	inflow	Confluence of Tuggeranong Creek and urban and rural stormwater
+Jungfernsee	inflow	Havel
+Raystown Lake	inflow	Raystown Branch Juniata River
+Lake Chany	inflow	Chulym River
+Torneträsk	inflow	• nameless flow from a little glacier south of lake Válfojávri
+Torneträsk	inflow	→ river Válfojohka
+Torneträsk	inflow	→ lake Gamajávri
+Torneträsk	inflow	→ river Kamajåkka
+Torneträsk	inflow	→ lake Abiskojaure
+Torneträsk	inflow	→ river Abiskojåkka
+Torneträsk	inflow	• river Njuoreatnu
+Torneträsk	inflow	• river Rágeseatnu
+Torneträsk	inflow	• lake Koojärvi
+Torneträsk	inflow	→ river Stalojåkka
+Torneträsk	inflow	• river Nakerijoki
+Torneträsk	inflow	• river Sarvájohka
+Torneträsk	inflow	• river Bessešjohka
+Hamun-e Helmand	inflow	Helmand River
+Tsimlyansk Reservoir	inflow	Don River
+Lake Oviáchic	inflow	Yaqui River
+Dalecarlia Reservoir	inflow	Washington Aqueduct
+Prettyboy Reservoir	inflow	Gunpowder Falls
+Baranof Lake	inflow	Baranof River
+Walter F. George Lake	inflow	Chattahoochee River
+Hebgen Lake	inflow	Madison River
+Lake Success	inflow	Tule River
+Greers Ferry Lake	inflow	Little Red River
+Lake Marathon	inflow	Charadros
+Lake Marathon	inflow	Varnavas
+Skaha Lake	inflow	Okanagan River
+Lake Sabbatia	inflow	Snake River
+Port Hacking	inflow	Hacking River
+Lake of Two Mountains	inflow	Ottawa River
+Castle Semple Loch	inflow	River Calder, Renfrewshire
+Lake Milh	inflow	Canal from Lake Habbaniyah which comes from the Euphrates River
+Wachusett Reservoir	inflow	Nashua River
+Wachusett Reservoir	inflow	Quinapoxet River
+Wachusett Reservoir	inflow	Stillwater River
+Wachusett Reservoir	inflow	Quabbin Aqueduct
+Lake Abert	inflow	Chewaucan River
+Trinity Lake	inflow	Trinity River
+White Rock Lake	inflow	White Rock Creek
+Lake Assal	inflow	Subsurface from the ocean
+Lake Drwęca	inflow	Drwęca
+Mar Chiquita Lake	inflow	Dulce River
+Mar Chiquita Lake	inflow	Saladillo River
+Sperillen	inflow	Begna
+Sperillen	inflow	Urula
+Lake Roś	inflow	Swięcek and Konopka
+Codorus State Park	inflow	Codorus Creek
+Arresø	inflow	Pøleå
+Buffalo Lake	inflow	Parlby Creek
+Lake Whitney	inflow	Brazos River
+Lake Whitney	inflow	Nolan River
+Lake Cowal	inflow	Bland Creek, Lachlan River
+Assawompset Pond	inflow	Long Pond
+Assawompset Pond	inflow	Pocksha Pond
+Norton Reservoir	inflow	Rumford River
+Barossa Reservoir	inflow	Yettie Creek
+Mount Storm Lake	inflow	Stony River
+Sleepy Creek Lake	inflow	Meadow Branch of Sleepy Creek
+Lake Hiawatha	inflow	Minnehaha Creek
+Goose Lake	inflow	Willow Creek
+Goose Lake	inflow	Thomas Creek
+Fort Loudoun Lake	inflow	French Broad River
+Fort Loudoun Lake	inflow	Holston River
+Mundaring Weir	inflow	Helena River
+Tule Lake	inflow	Lost River
+Lake Burbury	inflow	King River
+Lake Burbury	inflow	Eldon River
+Lake Fitri	inflow	Batha River
+Lake Umbozero	inflow	Sura River
+Tangamong Lake	inflow	Crowe River
+Lake Izabal	inflow	Polochic River
+Eyebrook Reservoir	inflow	Eye Brook
+Taylorsville Lake	inflow	Salt River
+Windermere Lake	inflow	Columbia River
+Lake Ewauna	inflow	Link River
+Dümmer	inflow	Hunte
+Cheakamus Lake	inflow	Castle Towers Creek, Cheakamus River, Singing Creek,
+Wular Lake	inflow	Jhelum River
+Elliðavatn	inflow	Bugðá
+Elliðavatn	inflow	Suðurá
+Lough Ramor	inflow	River Blackwater, Cavan and Meath
+Harrison Lake	inflow	Lillooet River
+Harrison Lake	inflow	Silver River
+Pitt Lake	inflow	Pitt River
+Beaumaris Bay	inflow	Kananook Creek, Patterson River, Mordialloc Creek
+Anderson Lake	inflow	Gates River
+Shubenacadie Grand Lake	inflow	Fletchers Lake, Nova Scotia
+Burnsville Lake	inflow	Little Kanawha River
+R. D. Bailey Lake	inflow	Guyandotte River
+Lake Murray	inflow	Saluda River
+White Lake	inflow	White River
+Charles Mill Lake	inflow	Black Fork Mohican River
+Tuxbury Pond	inflow	Powwow River
+Hongze Lake	inflow	Huai River
+Ebi Lake	inflow	Kuitun River
+Ebi Lake	inflow	Bortala River
+Ebi Lake	inflow	Jinghe River
+Ulungur Lake	inflow	Ulungur River
+Hulun Lake	inflow	Kherlen River
+Hulun Lake	inflow	Orshuun Gol
+Go Home Lake	inflow	Musquash River
+Sihlsee	inflow	Sihl
+Sihlsee	inflow	Minster
+Lake Crescent	inflow	Barnes Creek, Smith Creek, Aurora Creek, Eagle Creek
+Lake Dora	inflow	Rudall River
+Lac de la Cavayère	inflow	Montirat, Aude
+Lac de la Cavayère	inflow	Bazalac
+Lac de la Cavayère	inflow	Mitgé
+Otter Tail Lake	inflow	Otter Tail River
+Otter Tail Lake	inflow	Dead River
+Lake Gibson	inflow	Welland Canal
+Vancouver Lake	inflow	Columbia River  and Burnt Bridge Creek
+Rondout Reservoir	inflow	Rondout Creek
+Lake Macatawa	inflow	Macatawa River
+Lake Muskoka	inflow	Muskoka River
+Lake Muskoka	inflow	Indian River
+Lake Mayfield	inflow	Cowlitz River
+Lake Mayfield	inflow	Tilton River
+Dillon Reservoir	inflow	Blue River
+Gibson Lake	inflow	Gibson River
+Peoria Lake	inflow	Illinois River
+Miles Lake	inflow	Miles Glacier
+Messenian Gulf	inflow	Mediterranean Sea
+Lake Amatitlán	inflow	Villalobos River
+Upper Peoria Lake	inflow	Illinois River
+Zuidlaardermeer	inflow	Hunze
+Lake Georgetown	inflow	San Gabriel River
+Lake Monomonac	inflow	North Branch Millers River
+Granger Lake	inflow	San Gabriel River
+Stony River Reservoir	inflow	Stony River
+Kelso Conservation Area	inflow	Sixteen Mile Creek
+Kaunas Reservoir	inflow	Nemunas River
+Akkajaure	inflow	55
+Crystal Lake	inflow	underground springs
+Amistad Reservoir	inflow	Rio Grande
+Amistad Reservoir	inflow	Devils River
+Lake Kaweah	inflow	Kaweah River
+Jim Chapman Lake	inflow	South Sulphur River
+Sobradinho Reservoir	inflow	São Francisco River
+Lake Temescal	inflow	Temescal Creek
+Corumbá Lake	inflow	Corumbá River
+Tidal Basin	inflow	Potomac River
+Lake Butte des Morts	inflow	Fox River
+Lake Butte des Morts	inflow	Wolf River
+Lake Apanás	inflow	Tuma River
+Capitol Lake	inflow	Deschutes River
+Kuybyshev Reservoir	inflow	Volga River
+Kuybyshev Reservoir	inflow	Kama River
+Kuybyshev Reservoir	inflow	Sviyaga River
+Kuybyshev Reservoir	inflow	Kazanka River
+Kuybyshev Reservoir	inflow	Bolshoy Cheremshan
+Bratsk Reservoir	inflow	Angara River
+Yew Tree Tarn	inflow	Yewdale Beck
+Lake Talquin	inflow	Ochlockonee River
+Lake Carnegie	inflow	Millstone River
+Lake Manatee	inflow	Manatee River
+Deer Creek Dam and Reservoir	inflow	Provo River
+Red Bluff Reservoir	inflow	Pecos River
+Ahmic Lake	inflow	Magnetawan River
+Lake Diefenbaker	inflow	South Saskatchewan River
+Cheddar Reservoir	inflow	inlet from Cheddar Yeo
+Prien Lake	inflow	Calcasieu Ship Channel
+Lake Ritsa	inflow	Lashipsa River
+Shannon Pot	inflow	Shannon Cave
+Delta Reservoir	inflow	Mohawk River
+Lake Phelps	inflow	precipitation
+Clatteringshaws Loch	inflow	River Dee, Galloway
+Honey Lake	inflow	Susan River
+Lake Wallenpaupack	inflow	Wallenpaupack Creek
+McMillan Reservoir	inflow	Washington Aqueduct
+Blagdon Lake	inflow	Congresbury Yeo
+Clywedog Reservoir	inflow	Afon Clywedog
+Saylorville Lake	inflow	Des Moines River
+Limerick Lake	inflow	Bass Creek
+Limerick Lake	inflow	Dixon Creek
+Marsh Lake	inflow	Yukon River
+Lewis and Clark Lake	inflow	Missouri River
+Lake Dukan	inflow	Little Zab
+Lake Kossou	inflow	Bandama River
+Lake Steilacoom	inflow	Ponce de Leon Creek
+Lake Steilacoom	inflow	Clover Creek
+Christmas Lake	inflow	springs
+Sarsang Reservoir	inflow	Tartar river
+Saudafjord	inflow	Hylsfjorden
+Lake Habbaniyah	inflow	Euphrates River
+Lake Varna	inflow	Devnya and Provadiyska
+Blue Mountain Lake	inflow	Petit Jean River
+Muncho Lake	inflow	Trout River, Muncho Creek
+Lac de Vouglans	inflow	Ain River
+Lake Jackson	inflow	Yellow, Alcovy, South rivers; Tussahaw Creek
+Lake Ouachita	inflow	Ouachita River
+Huntington Lake	inflow	Big Creek
+Litton Reservoirs	inflow	River Chew
+Ada Ciganlija	inflow	Sava River
+DeGray Lake	inflow	Caddo River
+Llynnau Mymbyr	inflow	Nantygwryd
+Llyn Gwynant	inflow	River Glaslyn
+Guist Creek Lake	inflow	Guist Creek
+Ashokan Reservoir	inflow	Esopus Creek
+Lake of Egypt	inflow	Saline River
+Lake Tinn	inflow	Måna
+Discovery Bay	inflow	Glenelg River
+Discovery Bay	inflow	Cape Bridgewater, Victoria
+Big Rideau Lake	inflow	Black Creek
+Big Rideau Lake	inflow	Rideau River
+Oguta Lake	inflow	Utu, Awbana, Orashi and Njaba rivers
+Loch of the Lowes	inflow	Lunan Burn
+Tuttle Creek Lake	inflow	Big Blue River
+Nicola Lake	inflow	Nicola River
+Lough Mahon	inflow	River Lee, Glashaboy River, Tramore River
+Lynx Lake	inflow	Lynx Creek
+Kennedy Lake	inflow	Clayoquot River
+Kennedy Lake	inflow	Kennedy River
+Vågåvatn	inflow	Otta
+Nettilling Lake	inflow	Amadjuak Lake
+San Carlos Lake	inflow	Gila River
+Nisser	inflow	Vråvatn
+Stockton Lake	inflow	Sac River
+Stockton Lake	inflow	Little Sac River
+Krøderen	inflow	Hallingdalselva
+Massabesic Lake	inflow	Little Massabesic Brook-Sucker Brook
+Dierks Lake	inflow	Saline River
+Gillham Lake	inflow	Cossatot River
+Zegrze Reservoir	inflow	Narew
+Zegrze Reservoir	inflow	Bug River
+Lake Dardanelle	inflow	Arkansas River
+Lake Hartwell	inflow	Savannah, Tugaloo, and Seneca Rivers
+Lake Hamilton and Lake Catherine	inflow	Ouachita River
+Eidevatnet	inflow	Fjellvatnet
+Chilkoot Lake	inflow	Chilkoot River
+Raudvatnet	inflow	Tverrvatnet
+Åbjørvatnet	inflow	Åbjøra
+Lake Poygan	inflow	Wolf River
+Nimrod Lake	inflow	Fourche LaFave River
+Buttle Lake	inflow	Ralph River, Thelwood Creek, Wolf River
+General Carrera Lake	inflow	Río Soler
+General Carrera Lake	inflow	Río Los Antiguos
+General Carrera Lake	inflow	Río Jeinemeni
+General Carrera Lake	inflow	Río Ibáñez
+General Carrera Lake	inflow	Río San Martín
+General Carrera Lake	inflow	Río Delta
+Villarrica Lake	inflow	Trancura River
+Lake Charles	inflow	Calcasieu River
+Traful Lake	inflow	Pichi Traful river and the Machico, Cataratas and Coaco arroyos
+Clinton Lake	inflow	Wakarusa River, Rock Creek, Deer Creek
+Clinton Lake	inflow	Salt Creek
+Clinton Lake	inflow	North Fork of Salt Creek
+San Martín Lake	inflow	Mayer River
+Gjende	inflow	River Muru
+Lake Petén Itzá	inflow	Rio Ixlú
+Lake Petén Itzá	inflow	Rio Ixpó
+Lake Débo	inflow	Niger River
+Neversink Reservoir	inflow	Neversink River
+Mark Twain Lake	inflow	Salt River
+Lake Matiri	inflow	Matiri River
+Shellmouth Reservoir	inflow	Assiniboine River
+Shellmouth Reservoir	inflow	Shell River
+Shellmouth Reservoir	inflow	Cupar Creek
+Sparrow Lake	inflow	Severn River, Kahshe River
+San Roque Lake	inflow	Suquía, Cosquín rivers
+Fontenelle Reservoir	inflow	Green River
+Soda Lake	inflow	Mojave River
+Silver Lake	inflow	Mojave River
+Lake San Antonio	inflow	San Antonio River
+Lake Mandrensko	inflow	Izvorska, Fakiyska, Sredetska and Rusokastrenska
+Pine Flat Lake	inflow	Kings River
+Lake Casitas	inflow	Coyote Creek
+Santa Margarita Lake	inflow	Salinas River
+Rambergsjøen	inflow	Håsjøen
+Millerton Lake	inflow	San Joaquin River
+Llyn Ogwen	inflow	Afon Lloer
+Llyn Ogwen	inflow	Tryfan
+Llyn Ogwen	inflow	Pen yr Ole Wen
+Olstappen	inflow	Vinstra River, Espa River
+Mammoth Pool Reservoir	inflow	San Joaquin River
+Twofold Bay	inflow	Towamba River
+Twofold Bay	inflow	Nullica River
+Twitchell Reservoir	inflow	Cuyama River
+Bandak	inflow	Tokke
+Sardis Lake	inflow	Tallahatchie River
+West Point Lake	inflow	Chattahoochee River
+Arkabutla Lake	inflow	Coldwater River
+Kremenchuk Reservoir	inflow	Dnieper River
+Åraksfjorden	inflow	Otra river
+Øyarvatnet	inflow	Rosskreppfjorden
+Vatndalsvatnet	inflow	Ormsavatnet and
+Vatndalsvatnet	inflow	Store Urevatn
+Rore	inflow	Syndle lake
+Kvifjorden	inflow	Kvina river
+Herefossfjorden	inflow	Gauslåfjorden
+Herefossfjorden	inflow	and Uldalsåna
+Nelaug	inflow	Nidelva
+Byglandsfjorden	inflow	Åraksfjorden
+Kaptai Lake	inflow	Karnaphuli River
+Lake Gunn	inflow	west branch of the Eglinton River
+Lake Sherburne	inflow	Swiftcurrent Creek
+Neely Henry Lake	inflow	Coosa River
+Wilson Lake	inflow	Tennessee River
+Wilson Lake	inflow	Saline River
+Nickajack Lake	inflow	Tennessee River
+Chickamauga Lake	inflow	Tennessee River
+Chickamauga Lake	inflow	Hiwassee River
+Kiev Reservoir	inflow	Dnieper River
+Grenada Lake	inflow	Yalobusha River
+Henangervatnet	inflow	Skogseidvatnet
+Skogseidvatnet	inflow	Orraelva, Gjønavatnet
+Gravatnet	inflow	Valevatn lake
+Sirdalsvatnet	inflow	Sira
+Lake Washington	inflow	St. Johns River
+Round Lake	inflow	Qu'Appelle River
+Brushy Fork Lake	inflow	Potomac River
+Hoklingen	inflow	Movatnet
+Tuckertown Reservoir	inflow	Yadkin River
+Castaic Lake	inflow	California Aqueduct
+Castaic Lake	inflow	Castaic Creek
+Lake Springfield	inflow	Lick Creek
+Lake Springfield	inflow	Sugar Creek
+Lake Francis	inflow	Connecticut River
+Ossipee Lake	inflow	Bearcamp River
+Ossipee Lake	inflow	Lovell River
+Ossipee Lake	inflow	Pine River
+Ossipee Lake	inflow	West Branch
+Moore Reservoir	inflow	Connecticut River
+DeQueen Lake	inflow	Rolling Fork
+Topaz Lake	inflow	West Walker River
+Paugus Bay	inflow	Lake Winnipesaukee
+Comerford Reservoir	inflow	Connecticut River
+Seven Oaks Reservoir	inflow	Santa Ana River
+Lake McClure	inflow	Merced River
+Carpenter Lake	inflow	tunnel/penstock to Seton Lake
+Union Valley Reservoir	inflow	Silver Creek
+Clear Lake Reservoir	inflow	Lost River
+El Capitan Reservoir	inflow	San Diego River
+Arlington Mill Reservoir	inflow	Spicket River
+Ashuelot Pond	inflow	Ashuelot River
+Ayers Island Reservoir	inflow	Pemigewasset River
+Bellamy Reservoir	inflow	Bellamy River
+Bellamy Reservoir	inflow	Mallego Brook
+Broad Bay	inflow	Ossipee Lake
+Kakhovka Reservoir	inflow	Dnieper River
+Folsom Lake	inflow	American River
+Courtright Reservoir	inflow	Helms Creek
+Franklin Pierce Lake	inflow	North Branch Contoocook River
+Abel Lake	inflow	Abel Glacier
+Anglezarke Reservoir	inflow	River Yarrow
+New Hogan Lake	inflow	Calaveras River
+Little Squam Lake	inflow	Squam Lake
+McIndoes Reservoir	inflow	Connecticut River
+Northeast Pond	inflow	Salmon Falls River
+Northeast Pond	inflow	Branch River
+Milton Pond	inflow	Salmon Falls River
+Bankhead Lake	inflow	Black Warrior River
+Opechee Bay	inflow	Paugus Bay
+Pontook Reservoir	inflow	Androscoggin River
+Powder Mill Pond	inflow	Contoocook River
+Silver Lake	inflow	Deer River
+Silver Lake	inflow	Forrest Brook
+Skatutakee Lake	inflow	Nubanusit Brook
+Surry Mountain Lake	inflow	Ashuelot River
+Suncook Lakes	inflow	Suncook River
+New Melones Lake	inflow	Stanislaus River
+Vidra Lake	inflow	Lotru River
+Weare Reservoir	inflow	Piscataquog River
+Cutler Reservoir	inflow	Bear River
+Rockport Reservoir	inflow	Weber River
+Sevier Lake	inflow	Beaver and Sevier rivers
+Mona Reservoir	inflow	Currant Creek
+Canyon Lake	inflow	Guadalupe River
+Lake Tillery	inflow	Yadkin River
+Lake Tillery	inflow	Uwharrie River
+Badin Lake	inflow	Yadkin River
+High Rock Lake	inflow	Yadkin River
+High Rock Lake	inflow	Abbotts Creek
+High Rock Lake	inflow	South Yadkin River
+Lake Macquarie	inflow	Cockle Creek
+Lake Macquarie	inflow	Dora Creek
+Lake Almanor	inflow	North Fork of the Feather River, Hamilton Branch, Benner and Last Chance creeks
+Lough Gowna	inflow	River Erne
+Choke Canyon Reservoir	inflow	Frio River
+Whiskeytown Lake	inflow	Clear Creek
+Blue Mesa Reservoir	inflow	Gunnison River
+Hok Tau Reservoir	inflow	Tan Shan River
+Llyn Dinas	inflow	River Glaslyn
+Dniprodzerzhynsk Reservoir	inflow	Dnieper River
+Kaniv Reservoir	inflow	Dnieper River
+Dnieper Reservoir	inflow	Dnieper River
+Brokopondo Reservoir	inflow	Suriname River
+Iskar Reservoir	inflow	Iskar River
+Schoharie Reservoir	inflow	Schoharie Creek
+Usk Reservoir	inflow	River Usk
+Pepacton Reservoir	inflow	East Branch of the Delaware River
+Perry Lake	inflow	Delaware River
+Lake Altus-Lugert	inflow	North Fork Red River
+East Branch Reservoir	inflow	East branch of the Croton River
+Torch Lake	inflow	Traprock River
+Cold Lake	inflow	Martineau River
+Cold Lake	inflow	Medley River
+Lake Walter E. Long	inflow	Decker Creek
+Lough Dan	inflow	River Cloghoge
+Lough Dan	inflow	River Inchavore
+Brady Creek Reservoir	inflow	Brady Creek
+Lake Bastrop	inflow	Spicer Creek
+Langsett Reservoir	inflow	Little Don River
+Lake Gonzales	inflow	Guadalupe River
+Lake Placid	inflow	Guadalupe River
+Maynard Lake	inflow	English River
+Lac Seul	inflow	Vermilion River
+Abbey Village Reservoir	inflow	River Roddlesworth
+Yarrow Reservoir	inflow	River Yarrow
+Cannonsville Reservoir	inflow	West Branch of the Delaware River
+Lake Britton	inflow	Pit River
+Lake Wood	inflow	Guadalupe River
+Meadow Lake	inflow	Guadalupe River
+Lake Dunlap	inflow	Guadalupe River
+Calaveras Lake	inflow	Calaveras Creek
+Victor Braunig Lake	inflow	Calaveras Creek and Chupaderas Creek
+Bouquet Reservoir	inflow	Bouquet Creek
+Bouquet Reservoir	inflow	Los Angeles Aqueduct
+Lake Findley	inflow	Chiltipin Creek
+Falcon International Reservoir	inflow	Rio Grande
+Lake Casa Blanca	inflow	Chacon Creek
+Lake Casa Blanca	inflow	San Ygnacio Creek
+Averhoff Reservoir	inflow	Nueces River
+West Branch Reservoir	inflow	West Branch of the Croton River
+Balmorhea Lake	inflow	Sandia Creek
+Balmorhea Lake	inflow	Toyah Creek
+Coleto Creek Reservoir	inflow	Coleto Creek and Perdido Creek
+Lake Corpus Christi	inflow	Nueces River
+Boyds Corner Reservoir	inflow	West Branch of the Croton River
+Middle Branch Reservoir	inflow	Middle Branch Croton River
+Bog Brook Reservoir	inflow	Bog Brook
+Cross River Reservoir	inflow	Cross River
+Muskegon Lake	inflow	Muskegon River
+Lake Texana	inflow	Navidad River
+Sheldon Lake	inflow	Carpenters Bayou
+Croton Falls Reservoir	inflow	West Branch and Middle Branch of the Croton River
+Stillhouse Hollow Lake	inflow	Lampasas River
+Belton Lake	inflow	Leon River
+New Croton Reservoir	inflow	Croton River
+Vermilion Lakes	inflow	Bow River
+Lake Needwood	inflow	Rock Creek
+Lake Bernard Frank	inflow	North Branch of Rock Creek (Potomac River)
+Dalešice Hydro Power Plant	inflow	Jihlava River
+Starvation Lake	inflow	underwater springs, precipitation
+Llwyn-on Reservoir	inflow	Nant Gwinau
+Llwyn-on Reservoir	inflow	Nant Car
+Llwyn-on Reservoir	inflow	Garwnant
+Carlyle Lake	inflow	Kaskaskia River, North Fork
+Lake Nemiscau	inflow	Rupert River
+Lake Nemiscau	inflow	Nemiscau River
+Burnt Lake	inflow	Romaine River
+Lake Kipawa	inflow	Kipawa River
+Lac Dumoine	inflow	Rivière aux Écorces
+Lac Dumoine	inflow	Rivière D'loringal
+Lac Simard	inflow	Ottawa River
+Kempt Lake	inflow	Manouane River
+Lake Burton	inflow	Tallulah River
+Crystal Springs Reservoir	inflow	San Mateo Creek, San Andreas Creek, Adobe Gulch, Laguna Creek, Hetch Hetchy Aqueduct
+Egenolf Lake	inflow	North Seal
+Lac Brochet	inflow	Cochrane River
+Manasquan Reservoir	inflow	Timber Swamp Brook
+Broken Bow Lake	inflow	Mountain Fork
+Kingman Lake	inflow	Anacostia River
+Lake Braddock	inflow	Pohick Creek
+Stonewall Jackson Lake	inflow	West Fork River
+Hyco Lake	inflow	Hyco River
+Lake Waco	inflow	Bosque River
+Bay Springs Lake	inflow	Tennessee-Tombigbee Waterway
+Kerr Lake	inflow	Roanoke River
+Kerr Lake	inflow	Dan River
+Lake Mendocino	inflow	East Fork Russian River
+Angram Reservoir	inflow	River Nidd, Stone Beck
+Cod Beck Reservoir	inflow	Cod Beck, North Yorkshire
+Lac qui Parle	inflow	Minnesota River
+Stocks Reservoir	inflow	River Hodder & Hasgil Beck
+Saugatuck Reservoir	inflow	Saugatuck River
+Lake Sempach	inflow	Gross Aa, Chli Aa , Meierhofbach, Wilibach, Dorfbach , Brandbach, Röllbach , Lipperütibach, and some unnamed
+Lake Sarnen	inflow	Sarner Aa
+Lake Sarnen	inflow	Grosse Melchaa
+Lake Sarnen	inflow	Dreiwässerkanal
+Lake Baldegg	inflow	Ron
+Lake Hallwil	inflow	Aabach
+Lake of Gruyère	inflow	Saane/Sarine, Sionge, Jogne
+Lake Wohlen	inflow	Aare
+Traunsee	inflow	Traun River
+Hallstätter See	inflow	Traun River
+Plauer See	inflow	Elde
+Lake Vygozero	inflow	Segezha River
+Lake Vygozero	inflow	Vyg River
+Lake Vodlozero	inflow	Ileksa River
+Melakwa Lake	inflow	Pratt River
+Lake Beloye	inflow	Kovzha River
+Lake Beloye	inflow	Kema River
+Lake Beloye	inflow	Megra River
+Lake Sinclair	inflow	Oconee River
+Lake Oconee	inflow	Oconee River
+Lake Oconee	inflow	Appalachee River
+Cuciurgan Reservoir	inflow	Kuchurhan River
+Mason Lake	inflow	Shumocher Creek
+Kangaroo Lake	inflow	Piel Creek
+Whitesand Bay	inflow	Atlantic Ocean
+Lake Sterzh	inflow	Volga River
+Wright Patman Lake	inflow	Sulphur River
+Green Lake	inflow	Vodopad River
+Lake Solina	inflow	San River
+Brûlé Lake	inflow	Athabasca River
+Capilano Lake	inflow	Capilano River
+Lake Nottely	inflow	Nottely River
+Lake Kubenskoye	inflow	Kubena River
+Lake Kubenskoye	inflow	Uftyuga River
+Lake Kubenskoye	inflow	Porozovitsa River
+Lough Derravaragh	inflow	River Inny, Westmeath
+Uglich Reservoir	inflow	Volga River
+Uglich Reservoir	inflow	Medveditsa River
+Uglich Reservoir	inflow	Kashinka River
+Uglich Reservoir	inflow	Nerl River
+Lake Lubāns	inflow	Rēzekne River
+Lake Lubāns	inflow	Malta River
+Lake Lubāns	inflow	Malmuta
+Lake Lubāns	inflow	Lisinja
+Ivankovo Reservoir	inflow	Volga River
+Scituate Reservoir	inflow	North Branch Pawtuxet River
+Scituate Reservoir	inflow	Moswansicut River
+Scituate Reservoir	inflow	Ponaganset River
+Lake Keowee	inflow	Keowee River
+Lake Keowee	inflow	Little River
+Lake Keowee	inflow	Whitewater River
+Lake Keowee	inflow	Thompson
+Lake Keowee	inflow	Toxaway River
+Lake Keowee	inflow	Lake Jocassee
+Breckenridge Reservoir	inflow	Chopawamsic Creek
+Jenny Lake	inflow	Cascade Creek and String Lake
+Mendenhall Lake	inflow	Mendenhall Glacier, Steep Creek, Nugget Creek
+Crab Orchard Lake	inflow	Crab Orchard Creek
+Lake Shafer	inflow	Tippecanoe River
+Lake Freeman	inflow	Tippecanoe River
+Fewston Reservoir	inflow	River Washburn
+Pelican Lake	inflow	Pelican River
+Upper Peirce Reservoir	inflow	Kallang River
+Gods Lake	inflow	Wesachewan River
+Kremasta	inflow	Achelous River
+Kremasta	inflow	Agrafiotis
+Kremasta	inflow	Tavropos
+Kremasta	inflow	Trikeriotis
+Nakaumi	inflow	Ohashi River
+Richard B. Russell Lake	inflow	Savannah River
+Bow Lake	inflow	Bow River
+Hector Lake	inflow	Balfour Creek
+San Andreas Lake	inflow	San Andreas Creek
+Lac la Biche	inflow	Owl River
+East Lynn Lake	inflow	East Fork Twelvepole Creek
+Lake Chabot	inflow	San Leandro Creek
+Großer Wannsee	inflow	Havel
+Sutton Lake	inflow	Elk River
+Abraham Lake	inflow	North Saskatchewan River
+Hiwassee, North Carolina	inflow	Hiwassee River
+Lake Seminole	inflow	Chattahoochee River
+Lake Seminole	inflow	Flint River
+Woodhead Reservoir	inflow	River Etherow,Heyden Brook
+Torside Reservoir	inflow	River Etherow, Crowden Brook, Torside Clough
+Rhodeswood Reservoir	inflow	River Etherow
+Valehouse Reservoir	inflow	River Etherow
+Lamaload Reservoir	inflow	River Dean
+Odlezly Lake	inflow	Mladotický
+Odlezly Lake	inflow	Odlezelský
+Abyss Lake	inflow	Brady Glacier
+Furesø	inflow	Fiskebæk , Dumpedalsrenden, Vejlesø Kanal
+Lamoka Lake	inflow	Waneta Lake
+Lake Natoma	inflow	American River
+Lower Roddlesworth Reservoir	inflow	River Roddlesworth
+Upper Roddlesworth Reservoir	inflow	River Roddlesworth
+Étang de Berre	inflow	Arc, Touloubre, La Cadière-d'Azur, canal de la Durance
+Mountain Island Lake	inflow	Catawba River
+Aberdeen Lake	inflow	Thelon River
+Orlík Dam	inflow	Vltava River
+Orlík Dam	inflow	Otava River
+Lake Barrington	inflow	Forth River
+Kastraki	inflow	Achelous River
+Stratos	inflow	Acheloos River
+Lake Cahuilla	inflow	Colorado River
+Possum Kingdom Lake	inflow	Brazos River
+Førde Fjord	inflow	River Jølstra
+San Antonio Reservoir	inflow	San Antonio Creek
+Chatfield Reservoir	inflow	South Platte River
+Norfork Tailwater	inflow	North Fork River,  per second from Norfork Dam
+Barrier Lake	inflow	Kananaskis River
+Upper Kananaskis Lake	inflow	Upper Kananaskis River
+Lower Kananaskis Lake	inflow	Upper Kananaskis River
+Mingachevir reservoir	inflow	Kura River
+Aotea Lagoon	inflow	Porirua Harbour and stormwater drains
+Loch Ken	inflow	Water of Ken
+Loch Ken	inflow	River Dee, Galloway
+Wollaston Lake	inflow	Geikie River
+Lake Awoonga	inflow	Boyne River
+Lipno Dam	inflow	Vltava
+Sturgeon Pool	inflow	Wallkill River
+Lake Accotink	inflow	Accotink Creek
+Fishtrap Lake	inflow	Levisa Fork of the Big Sandy River
+Stormy Lake	inflow	Restoule River
+Stormy Lake	inflow	Burnt Lake Creek
+Lake Péligre	inflow	Artibonite River
+Lac Ste. Anne	inflow	Sturgeon River
+Blewett Falls Lake	inflow	Pee Dee River
+Lake Musconetcong	inflow	Musconetcong River
+Wahwashkesh Lake	inflow	Magnetawan River, Whitestone River
+Prashar Lake	inflow	Rain water, Glaciel runoff
+Grayson Lake	inflow	Little Sandy River
+Alamo Lake State Park	inflow	Bill Williams River
+Lake Cootharaba	inflow	Noosa River
+Ladon Lake	inflow	Ladon
+Yan Yean Reservoir	inflow	Toorourrong Reservoir via aqueduct
+Glenlyon Dam	inflow	Pike Creek
+Lake Nockamixon	inflow	Tohickon Creek
+Silver Creek Reservoir	inflow	Silver Creek
+Thief Valley Reservoir	inflow	Powder River
+Mountain Creek Lake	inflow	Mountain Creek
+Lake Sils	inflow	Inn River
+Lake Sils	inflow	Aua da Fedoz
+Lake Silvaplana	inflow	Inn , Fexbach, Ova dal Valhun
+Pfäffikersee	inflow	Kemptnerbach
+Watauga Lake	inflow	Watauga River
+Watauga Lake	inflow	Elk River
+Yelcho Lake	inflow	Futaleufú River
+Schiffenensee	inflow	Sarine
+Schiffenensee	inflow	La Sonnaz
+Schiffenensee	inflow	Horiabach
+Thruscross Reservoir	inflow	River Washburn
+William Girling Reservoir	inflow	River Lee Diversion
+Lake Independence	inflow	Yellow Dog River
+Squint Lake	inflow	Eagle Creek
+Skootamatta Lake	inflow	Skootamatta River
+Skootamatta Lake	inflow	Killer Creek
+Lake Sacajawea	inflow	Snake River
+Guelph Lake	inflow	Speed River
+Llyn Eigiau	inflow	Afon Eigiau
+Lindley Wood Reservoir	inflow	River Washburn
+Lake Rotorangi	inflow	Patea River
+Lake Granbury	inflow	Brazos River
+Gorky Reservoir	inflow	Volga River
+Apache Lake	inflow	Salt River
+Coedty Reservoir	inflow	Afon Porth-llwyd
+Squaw Creek Reservoir	inflow	Squaw Creek
+Lake Evoron	inflow	Evur River
+Lake Columbia	inflow	Goose Creek
+Panguipulli Lake	inflow	Llanquihue River
+Panguipulli Lake	inflow	Pullinque River
+Theodore Roosevelt Lake	inflow	Salt River
+Theodore Roosevelt Lake	inflow	Tonto Creek
+Riñihue Lake	inflow	Enco River
+Lake Misurina	inflow	Ansiei
+Pandan Reservoir	inflow	List of rivers of Singapore
+Geist Reservoir	inflow	Fall Creek
+Sulby Reservoir	inflow	Sulby River
+Loch Dùghaill	inflow	River Carron, Wester Ross
+Loch Scaven	inflow	River Carron, Wester Ross
+Lake Cochichewick	inflow	Weir Hill and other local uplands
+Navajo Lake	inflow	San Juan River
+Navajo Lake	inflow	Piedra River
+Silver Lake	inflow	Danube
+Abiquiu Lake	inflow	Rio Chama
+Playgreen Lake	inflow	Nelson River
+Wägitalersee	inflow	Aberenbach
+Wägitalersee	inflow	Schlierenbach
+Ranco Lake	inflow	Calcurrupe River
+Ranco Lake	inflow	Caunahue River
+Ranco Lake	inflow	Nilahue River
+Puyehue Lake	inflow	Gol-Gol River
+Irondequoit Bay	inflow	Irondequoit Gully
+Irondequoit Bay	inflow	Irondequoit Creek
+Puclaro Dam	inflow	Elqui River
+Calafquén Lake	inflow	Llancahue River
+Virginia Water Lake	inflow	River Bourne, Chertsey
+Mystic Lakes	inflow	Aberjona River
+Großer Plöner See	inflow	Schwentine
+Lac de Joux	inflow	Orbe
+Lake Lungern	inflow	Lauibach
+Lake Lungern	inflow	Eibach
+Liberty Reservoir	inflow	North Branch Patapsco River
+Lake Rosebery	inflow	Murchison River
+Lake Rosebery	inflow	;
+Lake Rosebery	inflow	Mackintosh River
+Klöntalersee	inflow	Chlü
+Lake Der-Chantecoq	inflow	Marne River
+Lake Poinsett	inflow	Taylor Creek, Florida
+Lake Poinsett	inflow	St. Johns River
+Lake Winder	inflow	St. Johns River
+Kyle of Sutherland	inflow	River Carron, Sutherland
+Kyle of Sutherland	inflow	Loch Shin
+Kyle of Sutherland	inflow	River Cassley
+Kyle of Sutherland	inflow	River Oykel
+Paravur Lake	inflow	Ithikkara River
+Grimsbury Reservoir	inflow	River Cherwell
+Wingan Inlet	inflow	Wingan River
+Lago di Poschiavo	inflow	Poschiavino
+Dubawnt Lake	inflow	Dubawnt River
+Stranger Pond	inflow	Urban and rural stormwater
+Lake Davos	inflow	Flüelabach
+Lake Davos	inflow	Totalpbach
+Robert-Bourassa Reservoir	inflow	La Grande River
+Lake Livingston	inflow	Trinity River
+Pymatuning Reservoir	inflow	Shenango River
+Lake St. Moritz	inflow	Inn River
+Lake St. Moritz	inflow	Ovel dal Mulin
+Net Lake	inflow	Johnny Creek
+Net Lake	inflow	Net Creek
+Loch Arkaig	inflow	Dessarry
+Loch Arkaig	inflow	Pean River
+Loch Ailort	inflow	River Ailort
+Lake Żarnowiec	inflow	Piaśnica
+Mystic Lake	inflow	San Jacinto River
+Silverwood Lake	inflow	California Aqueduct and West Fork Mojave River, East Fork of West Fork Mojave River and Sawpit Canyon Creek
+Lake Borrie Wetlands	inflow	Little River
+Puzzle Lake	inflow	Econlockhatchee River
+Puzzle Lake	inflow	St. Johns River
+Grand Pond	inflow	Aldranser brook
+Lac de Derborence	inflow	Derbonne
+Lake Galena	inflow	Neshaminy Creek
+Garibaldi Lake	inflow	Mimulus Creek, Sentinel Glacier, Sphinx Glacier
+Cedar Creek Reservoir	inflow	Cedar Creek
+Lake Pat Cleburne	inflow	N
+Foremark Reservoir	inflow	River Dove, Derbyshire
+Caburgua Lake	inflow	Blanco River
+Colico Lake	inflow	Trafampulli River
+East Lake Tohopekaliga	inflow	Boggy Creek
+Lake Qaraoun	inflow	Litani River
+Dalsfjorden	inflow	Gaula
+Cagles Mill Lake	inflow	Mill Creek, Indiana
+Lake Assad	inflow	Euphrates
+Lake Buhi	inflow	white-space:nowrap;
+Lake Buhi	inflow	Buhi River
+Lake Buhi	inflow	Iriga River
+Pirihueico Lake	inflow	Huahum River
+Deer Lake	inflow	upper Humber River
+Skinner Reservoir	inflow	Colorado River Aqueduct
+Skinner Reservoir	inflow	State Water Project
+Lake Chivero	inflow	Manyame River
+Lake Chivero	inflow	Marimba River
+Lake Chivero	inflow	Mukuvisi River
+Zervreilasee	inflow	Valser Rhein, Hornbach, Canalbach
+East Branch Clarion River Lake	inflow	East Branch Clarion River
+Buntzen Lake	inflow	tunnel from Coquitlam Lake
+Vail Lake	inflow	Temecula Creek
+Vail Lake	inflow	Kolb Creek
+Vail Lake	inflow	Wilson Creek
+Golden Lake	inflow	Bonnechere River
+Green River Lake	inflow	Green River
+Martins Fork Lake	inflow	Martin's Fork
+Paintsville Lake	inflow	Paint Creek
+Rough River Lake	inflow	Rough River
+Wood Creek Lake	inflow	Wood Creek
+Lake Tegel	inflow	River Havel, Tegeler Fließ
+Grasmere	inflow	River Rothay
+Maihue Lake	inflow	Pillanleufú River
+Maihue Lake	inflow	Hueinahue River
+Otter Lake	inflow	Otter Creek
+String Lake	inflow	Leigh Lake
+Lake Shikotsu	inflow	Bifue River
+Lake Shikotsu	inflow	Okotanpe River
+Lake Shikotsu	inflow	Ninaru River
+Lake Shikotsu	inflow	Furenai River
+Malheur Lake	inflow	Donner und Blitzen River, Silvies River, Sodhouse Spring, precipitation
+Budi Lake	inflow	Estero Comoe
+Budi Lake	inflow	Estero Boyeco
+Lake Viljandi	inflow	Valuoja
+Lake Viljandi	inflow	Köstri stream
+Brennersee	inflow	Sill River
+Lake Campotosto	inflow	Fucino
+Seealpsee	inflow	Schwendibach
+Müritz	inflow	Elde
+Kettle Creek Reservoir	inflow	Kettle Creek
+Fountaingrove Lake	inflow	Piner Creek
+Lake Nagambie	inflow	Goulburn River
+Lac des Brenets	inflow	Doubs River
+Lac des Brenets	inflow	Rançonière
+Lake Madawaska	inflow	Madawaska River
+Cordell Hull Lake	inflow	Cumberland River
+Cameron Lake	inflow	Burnt River
+Lake Billy Chinook	inflow	Crooked, Deschutes, and Metolius rivers
+Lake Hoare	inflow	Andersen Creek
+Lake Hoare	inflow	overflow from Lake Chad
+Lake Magaguadavic	inflow	Little Magaguadavic Lake
+Quail Lake	inflow	West Branch California Aqueduct
+Gouthwaite Reservoir	inflow	River Nidd
+Lake Shelbyville	inflow	Kaskaskia River
+Lake Shelbyville	inflow	West Okaw River
+Lake Ilsanjo	inflow	Spring Creek
+Štěchovice Reservoir	inflow	Vltava River
+Shivsagar Lake	inflow	Koyna River
+Nordenskjöld Lake	inflow	Paine River
+Clearwater Lake	inflow	Black River
+El Dorado Lake	inflow	Walnut River
+C. J. Strike Reservoir	inflow	Snake River
+C. J. Strike Reservoir	inflow	Bruneau River
+Eikesdalsvatnet	inflow	Aura &amp; Mardøla rivers
+Quesnel Lake	inflow	Horsefly River
+Quesnel Lake	inflow	Mitchell River
+Quesnel Lake	inflow	Niagara Creek
+Lake Winneshiek	inflow	Upper Mississippi River
+San Pablo Reservoir	inflow	San Pablo Creek
+Foldsjøen	inflow	Gråsjøen
+Gråsjøen	inflow	Folda
+Lake Kanozero	inflow	Umba River
+Lake Ponchozero	inflow	Umba River
+Lago del Sambuco	inflow	Maggia River
+Lake Rousseau	inflow	Withlacoochee River
+Lake Rousseau	inflow	Rainbow River
+Krasno-Oskol Reservoir	inflow	Oskol River
+Ogden Reservoir	inflow	Piethorne Brook
+Ogden Reservoir	inflow	Wickenhall Brook
+Ogden Reservoir	inflow	Rag Hole Brook
+Duck Lake	inflow	Upper Mississippi River
+Duck Lake	inflow	Upper Iowa River
+Big Lake	inflow	Upper Mississippi River
+Lake Wister	inflow	Poteau River, Fourche Maline creek
+Great Pond	inflow	Powwow River
+Swan Lake	inflow	unnamed tributary to the Middle Raccoon River
+Lai da Marmorera	inflow	Gelgia
+Zasavica	inflow	Zasavica
+Lows Lake	inflow	Bog River Flow
+Limmernsee	inflow	Muttenbach
+Limmernsee	inflow	canal from Muttsee,
+Limmernsee	inflow	Limmern Glacier
+Chester Morse Lake	inflow	North Fork of the Cedar River, South Fork of the Cedar River, and the Rex River
+Del Toro Lake	inflow	Paine River
+Del Toro Lake	inflow	Río de las Chinas
+Lake Blackshear	inflow	Flint River
+Baskatong Reservoir	inflow	Gatineau River
+Powwow Pond	inflow	Powwow River
+Grey Lake	inflow	Grey Glacier
+Lake Pehoé	inflow	Paine River
+Lago di Mergozzo	inflow	mountain streams including the Rio della Peste and the Rio Resiga
+Lake Kutubu	inflow	underground sources, several streams, largest is Hamua Creek
+Lake Walcott	inflow	Snake River
+Lake Jesup	inflow	St. Johns River
+Saratov Reservoir	inflow	Volga River
+Saratov Reservoir	inflow	Samara River
+Lake Lysimachia	inflow	Ermitsa, canal from Lake Trichonida
+Lake Molveno	inflow	Rio di Lambin
+Lake Lou Yaeger	inflow	Shoal Creek
+Three Gorges Reservoir Region	inflow	Yangtze River
+Kanithi Balancing Reservoir	inflow	canal from River Yeleru
+Randleman Lake	inflow	Deep River& Muddy Creek
+Lake Red Rock	inflow	Des Moines River
+Wimbleball Lake	inflow	River Haddeo
+Arnensee	inflow	Tschärzisbach
+Robert S. Kerr Reservoir	inflow	Arkansas River
+Räterichsbodensee	inflow	Aar, Bächlis Bach, Gärstenbach, Bockbach
+Pat Mayse Lake	inflow	Sanders Creek
+Lake Pohenegamook	inflow	Rivière Boucanée
+Lake Herbert G. West	inflow	Snake River
+Lake Eupen	inflow	Vesdre
+Lake Eupen	inflow	Getz
+Booragoon Lake	inflow	Stormwater drain
+Black Butte Lake	inflow	Stony Creek
+Alum Creek Lake	inflow	Alum Creek
+Lake Skegemog	inflow	Torch River
+Quidi Vidi Lake	inflow	Rennie's Mill River
+Lake Idro	inflow	Chiese
+Lake Idro	inflow	Caffaro
+Lake Idro	inflow	Re di Anfo
+Baldwin Lake	inflow	Kaskaskia River
+Grapevine Lake	inflow	Denton Creek
+Cle Elum Lake	inflow	Cle Elum River
+Bumping Lake	inflow	Bumping River
+Rimrock Lake	inflow	Tieton River
+Kachess Lake	inflow	Kachess River
+Nimpo Lake	inflow	Willie's Creek, Dean River, Nimpo Creek
+Sardis Lake	inflow	Jackfork Creek
+Lake Rotoiti	inflow	Travers River
+Fern Ridge Reservoir	inflow	Long Tom River
+Lago di Vogorno	inflow	Verzasca
+Benbrook Lake	inflow	Clear Fork, Trinity River
+Judarn	inflow	Local stormwater
+Kyrksjön	inflow	Local stormwater
+Råcksta Träsk	inflow	Local storm water
+Lillsjön	inflow	Local stormwater
+Laduviken	inflow	Local stormwater
+Saganaga Lake	inflow	Saganaga Falls on the Granite River; Seagull River; Curran Bay from Northern Light Lake
+Silent Pool	inflow	spring
+Youghiogheny River Lake	inflow	Youghiogheny River
+Boysen Reservoir	inflow	Wind River
+Lake Panache	inflow	Whitefish River
+Lost Creek Lake	inflow	Rogue River
+Lake Winnibigoshish	inflow	Mississippi River
+Uggleviken	inflow	Subsoil water, stormwater
+Magelungen	inflow	Magelungsdiket
+Magelungen	inflow	Kräppladiket
+Magelungen	inflow	Djupån
+Magelungen	inflow	Stormwater
+Little Rock Lake	inflow	Mississippi River
+Drevviken	inflow	Lissmaån
+Drevviken	inflow	Forsån
+Drevviken	inflow	Magelungen
+Drevviken	inflow	Orlången
+Drevviken	inflow	Dammträsk
+Sicklasjön	inflow	Hammarby Sjö
+Sicklasjön	inflow	Sickla Sluss
+Mirror Lake State Park	inflow	Dell Creek
+François Lake	inflow	Nadina River
+Lac la Nonne	inflow	Majeu Creek
+Lake Skadar	inflow	Morača
+Mansfield Hollow Lake	inflow	Natchaug River
+Mansfield Hollow Lake	inflow	Fenton River
+Mansfield Hollow Lake	inflow	Mount Hope River
+Applegate Lake	inflow	Applegate River
+Lake Olomega	inflow	Río Grande de San Miguel
+Gömmaren	inflow	Precipitation, local stormwater
+Lokka Reservoir	inflow	Luiro
+Zemplínska šírava	inflow	Laborec
+Trehörningen	inflow	Gömmaren via the brooks Solfagradiket and Fullerstaån
+Grassholme Reservoir	inflow	River Lune, Durham
+Selset Reservoir	inflow	River Lune, Durham
+Lake Glenn Shoals	inflow	Shoal Creek
+Lower Slide Lake	inflow	Gros Ventre River
+Lake No	inflow	Bahr al Jabal
+Lake No	inflow	Bahr el Ghazal
+Chalan Beel	inflow	Atrai River and 46 others
+Lake Taylorville	inflow	Sangamon River
+Fanshawe Lake	inflow	Thames River
+Lake Galena	inflow	Smallpox Creek
+Lake Mackintosh	inflow	Mackintosh River
+Lake Mackintosh	inflow	Sophia River
+Lake Mackintosh	inflow	Brougham River
+Ulley Reservoir	inflow	Ulley and Morthen brooks
+Cross Lake	inflow	Channel from Lake Temagami, Temagami River
+Lake Vermilion	inflow	Vermilion River
+Lake Acworth	inflow	Proctor Creek
+Smithville Lake	inflow	Little Platte branch of the Platte River
+Rapel Lake	inflow	Cachapoal River
+Rapel Lake	inflow	Tinguiririca River
+Lago di Livigno	inflow	Spöl
+Lago di Livigno	inflow	Acqua del Gallo
+Lago di Livigno	inflow	Canale Torto
+Lago di Livigno	inflow	Torrente Federia
+Lai da Sontga Maria	inflow	Reno di Medel, Murinascia Grande, various creeks
+Paravani Lake	inflow	Shaori, Sabadostskali, Rodionovskis Tskali, precipitation, underground springs
+Upemba Depression	inflow	Lualaba River
+Upemba Depression	inflow	Lufira River
+Upemba Depression	inflow	Sanga River
+Lake Holiday	inflow	Somonauk Creek
+Lake Holiday, Virginia	inflow	Isaacs Creek, Miller's Run, yeiders run
+Henry Hagg Lake	inflow	Scoggins Creek
+La Paloma Dam	inflow	Grande River
+Recoleta Dam	inflow	Hurtado River
+Lough Tay	inflow	Cloghoge River
+Oologah Lake	inflow	Verdigris River
+Bagakain Lake	inflow	Sangu River
+Dood Tsagaan Lake	inflow	Shishged Gol, Khogorog gol, Sharga gol, Kharmai gol, Arsain gol
+Lake Pillsbury	inflow	Eel River
+Halstead's Bay	inflow	Six Mile Creek
+Lake Francis Case	inflow	Missouri River
+Lake Francis Case	inflow	White River
+Chatyr-Kul	inflow	Glaciers
+Głuszyńskie Lake	inflow	Zgłowiączka
+Song Kol Lake	inflow	Glaciers
+El Yeso Dam	inflow	The Yeso river
+Lake Sary-Chelek	inflow	Glaciers
+Dassower See	inflow	Stepenitz
+Stony Lake	inflow	Lovesick Lake
+Lake Siriu	inflow	Buzău River
+Lake Tobesofkee	inflow	Tobesofkee Creek
+Lake Mattoon	inflow	Little Wabash River
+Fena Lake	inflow	Talofofo River
+Lake Anza	inflow	Wildcat Creek
+Swan Lake Nature Study Area	inflow	Cottonwood Creek, sewage treatment, and washes
+Lake Connewarre	inflow	Barwon River
+Reschensee	inflow	Adige
+Jablanica lake	inflow	Neretva
+Long Pond	inflow	Little Long Pond and groundwater
+Halfway Pond	inflow	Long Pond
+Great Herring Pond	inflow	Little Herring Pond
+Red Lake	inflow	Black Creek
+Těrlicko Dam	inflow	Stonávka River
+Lake Piru	inflow	Piru Creek
+Lake Piru	inflow	Agua Blanca Creek
+Flachsee	inflow	Reuss
+Stausee Gibidum	inflow	Aletsch Glacier
+Stausee Gibidum	inflow	Massa
+Sufnersee	inflow	Hinterrhein
+Lac de Moron	inflow	Doubs River
+Robbins Pond	inflow	Poor Meadow Brook
+Winnecunnet Pond	inflow	Canoe River, Mulberry Brook
+Deadwood Reservoir	inflow	Deadwood River
+Clifton Court Forebay	inflow	Old River
+Lake Lauerz	inflow	Steiner Aa
+Lac de Pérolles	inflow	Sarine
+McGregor Lake	inflow	Oldman River and Bow River
+Stausee Ferden	inflow	Lonza
+Lake Orivesi	inflow	straits of Rääkkylä
+Haukivesi	inflow	Pirttivirta
+Haukivesi	inflow	Tappuravirta
+Haukivesi	inflow	Oravinkoski
+Lake Pyhäselkä	inflow	Höytiäinen
+Lake Pyhäselkä	inflow	Pielisjoki
+Lake Kemijärvi	inflow	Kemijoki
+Kiantajärvi	inflow	river Hossanjoki, river Pesiönjoki from the lake Pesiöjärvi
+Juurusvesi–Akonvesi	inflow	from the lake Vuotjärvi via Juankoski power station
+Pyhäjärvi	inflow	Yläneenjoki
+Brantley Lake	inflow	Pecos River
+Eliburn Reservoir	inflow	Eliburn
+Hugo Lake	inflow	Kiamichi River
+Lake Moondarra	inflow	Leichhardt River
+Veliki Galijaš	inflow	Danube
+Veliki Galijaš	inflow	Sava
+Bon Tempe Lake	inflow	Lagunitas Creek
+Lake Lagunitas	inflow	Lagunitas Creek
+Lake Crabtree	inflow	Crabtree Creek
+Lake Crabtree	inflow	Haleys Branch
+Lake Crabtree	inflow	Stirrup Iron Creek
+Round Lake	inflow	Bonnechere River, Sherwood River, Turner Creek, Reserve Creek, Jack's Creek
+Chip Lake	inflow	Lobstick River, Poison Creek
+Pullinque Lake	inflow	Pullinque River
+Hoyts Pond	inflow	Gunners Exchange Pond
+Wallowa Lake	inflow	Wallowa River
+Niederriedsee	inflow	Aare
+Namekagon Lake	inflow	Namekagon River
+Lake Karla	inflow	1
+Glen Charlie Pond	inflow	Agawam River
+Furnace Pond	inflow	inlet from Oldham Pond
+Bartlett Lake	inflow	Verde River
+Horseshoe Lake, Arizona	inflow	Verde River
+Mirror Lake	inflow	Groundwater
+Lexington Reservoir	inflow	Los Gatos Creek
+Manchester Bolton & Bury Reservoir	inflow	River Irwell
+Bakhtegan Lake	inflow	Kor River
+Tihonet Pond	inflow	Wankinco River
+Osterfjorden	inflow	Romarheimsfjorden
+Kashwakamak Lake	inflow	Mississippi River from Marble Lake
+Lake Greenwood	inflow	Saluda River
+Ekityki Lake	inflow	Ekityki River
+Lower Saranac Lake	inflow	Saranac River
+Middle Saranac Lake	inflow	Saranac River
+Snipatuit Pond	inflow	Cedar Swamp, Great Quittacas Pond
+Lago di Palagnedra	inflow	Melezza
+Lauwersmeer	inflow	Lauwers River
+Lake Michie	inflow	Flat River
+Parker Mills Pond	inflow	Wankinco River, Harlow Brook
+Mill Pond	inflow	Agawam River
+Tremont Mill Pond	inflow	Weweantic River
+Leonards Pond	inflow	Sippican River, west and east branches
+Round Pond	inflow	inlet that flows from Pine Lake
+Lake Atsion	inflow	Mullica River
+Moberly Lake	inflow	Moberly River
+Lake Wappapello	inflow	St. Francis River
+Schwielochsee	inflow	Spree
+Bark Lake	inflow	Madawaska River
+Bark Lake	inflow	Opeongo River
+Branch Lake	inflow	York River
+Branch Lake	inflow	North York River
+Kashaweogama Lake	inflow	Wiggle Creek
+Kashaweogama Lake	inflow	Hough Creek
+Lough Sheelin	inflow	River Inny, Westmeath
+Island Pond	inflow	Highland Lake
+Abram Lake	inflow	English River
+Abram Lake	inflow	Marchington River
+Sturgeon Lake	inflow	Sturgeon River
+Sheksna Reservoir	inflow	Sheksna River
+Lake Wateree	inflow	Catawba River
+Marchington Lake	inflow	Marchington River
+Marchington Lake	inflow	Sturgeon River
+Marchington Lake	inflow	North River
+Lake Vozhe	inflow	Vozhega River
+Lake Vozhe	inflow	Modlona River
+Lake Vozhe	inflow	Sovza River
+Bakethin Reservoir	inflow	River Tyne
+Namak Lake	inflow	Qom
+Namak Lake	inflow	Jajrood
+Brădișor Dam	inflow	Lotru River
+Lotru-Ciunget Hydroelectric Power Station	inflow	Lotru River
+Lac de Lessoc	inflow	Sarine
+Lai da Palpuogna	inflow	Albula
+Lake Elwell	inflow	Marias River
+Loch Raven Reservoir	inflow	Big Gunpowder Falls river
+Singletary Lake	inflow	Rainwater
+Piethorne Reservoir	inflow	Piethorne Brook
+Piethorne Reservoir	inflow	Cold Greave Brook
+Rooden Reservoir	inflow	Rooden Catchwater
+Rooden Reservoir	inflow	from Piethorne Brook
+Norman Hill Reservoir	inflow	Piethorne Brook
+Franklin Falls Pond	inflow	Saranac River
+Lake Liepāja	inflow	Bārta
+Lake Liepāja	inflow	Ālande
+Lake Liepāja	inflow	Otaņķe
+Loch Muick	inflow	Allt an Dubh loch
+Lough Eske	inflow	Clashalbin River, Lowerymore River, Corabber River, Clady Burn
+Small Pond	inflow	Aldranser brook
+Oberer Murgsee	inflow	Murgbach
+Lake Sartai	inflow	Šventoji River
+Lake Širvėna	inflow	Agluona
+Lake Širvėna	inflow	Apaščia
+Perseverance Dam	inflow	Perseverance Creek
+Fred Haigh Dam	inflow	Kolan River
+Boondooma Dam	inflow	Boyne River
+Boondooma Dam	inflow	Stuart River
+Wuruma Dam	inflow	Nogo River
+Cooloolabin Dam	inflow	South Maroochy River
+Eungella Dam	inflow	Broken River
+Lenthalls Dam	inflow	Burrum River
+Lake Worth	inflow	Eagle Mountain Lake
+Lac du Vernex	inflow	Sarine
+Clearwater Lake	inflow	Clearwater River
+Lac des Rousses	inflow	Orbe River
+Lake Bonney	inflow	Doran Stream/Priscu Stream, others
+Lake Siskiyou	inflow	Sacramento River
+Mărișelu Hydroelectric Power Station	inflow	Someş River
+Ghost Lake	inflow	Bow River
+Ghost Lake	inflow	Ghost River
+Lake Batyo Catyo	inflow	Souths Creek, Richardson River
+Lai da Ova Spin	inflow	Spöl
+Lake McCloud	inflow	McCloud River
+Lewiston Lake	inflow	Trinity River
+Manyuchi Dam	inflow	Mwenezi River, Manyoshi, Mtedzi, Mhondi, Makugwe, Sovoleli, Malole, Mwele,
+Beverly Lake	inflow	Thelon River
+Beverly Lake	inflow	Kazan River
+Beverly Lake	inflow	Dubawnt River
+Fontana Lake	inflow	Little Tennessee River
+Fontana Lake	inflow	Nantahala River
+Yathkyed Lake	inflow	Kazan River
+Kaminak Lake	inflow	Ferguson River
+Soper Lake	inflow	Soper River
+Teviot Creek Dam	inflow	Teviot Creek
+Cross Lake	inflow	Nelson River
+Cross Lake	inflow	Minago River
+Summer Lake	inflow	Ana River
+Owyhee Reservoir	inflow	Owyhee River
+Lake St. Joseph	inflow	Cat River
+Lake St. Joseph	inflow	Doghole River
+Lake St. Joseph	inflow	Miniss River
+Lake St. Joseph	inflow	Pembina River
+Littleville Lake	inflow	Middle Branch of the Westfield River
+Qamanirjuaq Lake	inflow	Ferguson River
+Lake Ohakuri	inflow	Waikato River
+Chadwick Lake	inflow	Quassaick Creek
+Agency Lake	inflow	Wood River
+Coyote Lake	inflow	Coyote Creek
+Lake Kerkini	inflow	Strymon River
+Albysjön	inflow	Tullingesjön
+Albysjön	inflow	Tyresö-Flaten
+Albysjön	inflow	Grändalssjön
+Tyresö-Flaten	inflow	Långsjön, Skälsätra-Tutviken
+Tyresö-Flaten	inflow	Barnsjön
+Lago di Mezzola	inflow	Mera River
+Lago di Mezzola	inflow	Codera
+Lago di Mezzola	inflow	Ratti
+Ågestasjön	inflow	Orlången
+Ågestasjön	inflow	Trehörningen
+Warm Springs Reservoir	inflow	Malheur River
+Veluwemeer	inflow	Hierdense Beek and others
+Orlången	inflow	Mörtsjön, Huddinge
+Orlången	inflow	Kärrsjön
+Orlången	inflow	Kvarnsjön-Gladö
+Goat Rock Lake	inflow	Chattahoochee River
+Lake Harding	inflow	Chattahoochee River
+Eemmeer	inflow	Eem
+Sturgeon Lake	inflow	Sturgeon River
+Lake Oliver	inflow	Chattahoochee River
+Lake Chehaw	inflow	Flint River, Kinchafoonee Creek, Muckalee Creek
+Långsjön	inflow	Drevviken
+Richmond Gulf	inflow	Clearwater River
+Fatburen	inflow	Albysjön, Tyresö
+George W. Andrews Lake	inflow	Chattahoochee River
+Lake Manantali	inflow	Bafing River
+Dammträsk	inflow	Övre Rudasjön
+Lake Bonney Riverland	inflow	Murray River
+Little Seneca Lake	inflow	Little Seneca Creek
+Keyport Harbor	inflow	Luppatatong Creek
+Keyport Harbor	inflow	Matawan Creek
+Keyport Harbor	inflow	Chingarora Creek
+Angikuni Lake	inflow	Kazan River
+Dickson Lake	inflow	Dickson Glacier
+French Meadows Reservoir	inflow	North Fork American River
+Nora Mill Dam	inflow	Chattahoochee River
+Langdale Dam	inflow	Chattahoochee River
+Crow Hop Dam	inflow	Chattahoochee River
+Riverview Dam	inflow	Chattahoochee River
+North Highlands Dam	inflow	Chattahoochee River
+City Mills Dam	inflow	Chattahoochee River
+Eagle & Phenix Dam	inflow	Chattahoochee River
+Guadalupe Reservoir	inflow	Guadalupe Creek
+Lake Chad	inflow	House Stream
+Lake Chad	inflow	McKay Creek ,
+Lake Chad	inflow	Wharton Stream
+Missolonghi–Aitoliko Lagoons	inflow	Achelous River
+Žermanice Dam	inflow	Lučina River
+Morávka Dam	inflow	Morávka River
+Šance Dam	inflow	Ostravice River
+Rocky Gorge Reservoir	inflow	Patuxent River
+Triadelphia Reservoir	inflow	Patuxent River
+Oswego Lake	inflow	Tualatin River, Springbrook Creek
+Lake Forsyth	inflow	Takiritawai River
+Lake Luodis	inflow	Šventoji River
+Nechako Reservoir	inflow	Nechako River
+Lake Charvak	inflow	Chirchiq
+Takla Lake	inflow	Driftwood River
+Lake Ibsen	inflow	Little Coulee
+Prineville Reservoir	inflow	Crooked River, Bear Creek, Sanford Creek, Deer Creek, Alkali Creek, Antelope Creek, Owl Creek
+Elektrėnai Reservoir	inflow	Strėva River, and 9 other rivulets
+Imperial Reservoir	inflow	Colorado River
+Bacino di Val Malvaglia	inflow	Orino
+Lago di Malciaussia	inflow	Stura di Viù
+Lake Aldwell	inflow	Elwha River
+Lake Roland	inflow	Jones Falls, Towson Run, Roland Run
+Zaovine Lake	inflow	Rzav
+Indian Valley Reservoir	inflow	Cache Creek
+Indian Valley Reservoir	inflow	Stanton Creek
+Lake Yoa	inflow	underground aquifer
+Imperial Reservoir	inflow	Pecos River
+Lake Fianga	inflow	Logone River
+Lake Pieman	inflow	Pieman River
+Roadford Lake	inflow	River Wolf
+Burntside Lake	inflow	Tamarack Creek, Coo Lake, Crab Lake, Slim Lake, Hanson Lake, Chant Lake, Everett Lake , Minister Lake
+Lake Cecebe	inflow	Magnetawan River
+Lake Santeetlah	inflow	Cheoah River
+Little Shuswap Lake	inflow	Little River
+Owikeno Lake	inflow	Tzeo, Inziana, Machmell, and Sheemahant Rivers
+Lamberton Lake	inflow	Lamberton Creek
+Woods Canyon Lake	inflow	Snowpack
+Diexi Lake	inflow	Min River
+Tangjiashan Lake	inflow	Jian River
+Hardy Lake	inflow	Quick's Creek
+Lac d'Apremont	inflow	Vie
+Lac d'Apremont	inflow	Petite Boulogne
+Lake Palmdale	inflow	California Aqueduct
+Shawano Lake	inflow	Loon Creek
+Bang Lang Reservoir	inflow	Pattani River
+Aliyar Reservoir	inflow	Aliyar
+Sand Lake	inflow	Magnetawan River
+Lake Musters and Lake Colhue Huapi	inflow	Senguerr river
+Lake Ovid	inflow	Little Maple River
+Sørfjorden	inflow	Veafjorden
+Övre Rudasjön	inflow	Trylen
+Övre Rudasjön	inflow	Nedre Rudasjön
+Bertrand Lake	inflow	General Carrera Lake
+Boone Lake	inflow	South Fork Holston River
+Uvas Reservoir	inflow	Uvas Creek
+Coralville Lake	inflow	Iowa River
+Coralville Lake	inflow	Shell Rock River
+Fletcher Pond	inflow	Thunder Bay River
+Slocan Lake	inflow	Bonanza Creek, Wilson Creek, Carpenter Creek, Seaton Creek
+Green Lake	inflow	River of Golden Dreams
+Green Lake	inflow	Fitzsimmons Creek
+Green Lake	inflow	Rainbow Creek
+Mahood Lake	inflow	Canim River, Deception Creek
+South Aral Sea	inflow	groundwater only
+Douglas Lake	inflow	French Broad River
+Oseetah Lake	inflow	Saranac River
+Chapman Lake	inflow	West Branch of the Tionesta Creek
+Long Lake	inflow	Raquette River
+Black Canyon Lake	inflow	Snowpack
+Alcona Dam Pond	inflow	Au Sable River
+Alcona Dam Pond	inflow	Bamfield Creek,
+Alcona Dam Pond	inflow	Wilbur Creek
+Lake El Golfete	inflow	Río Dulce
+Perkins Tank	inflow	Spring
+Dankworth Pond	inflow	Hot spring
+Lake Yonah	inflow	Tugaloo River
+Patagonia Lake	inflow	Sonoita Creek
+Roper Lake State Park	inflow	Hot spring
+Antietam Lake	inflow	Antietam Creek
+Lake Elkhorn	inflow	Elkhorn Branch of the Little Patuxent River
+Lake Sunapee	inflow	outlet of Little Sunapee Lake; Pike Brook; Blodgett Brook; Bartlett Brook; Chandler Brook
+Lake Sarysu	inflow	Lake Ağgöl
+Farrington Lake	inflow	Lawrence Brook
+Khar-Us Lake	inflow	Khovd River
+Alvord Lake	inflow	Mosquito Creek, Willow Creek, Wildhorse Creek, Whitehorse Creek, Trout Creek, and Van Horn Creek
+Tatla Lake	inflow	Tatla Lake Creek
+Ena Lake, Ontario	inflow	Octopus Creek, MacFarlane River
+Lake Kittamaqundi	inflow	Unnamed tributary of the Little Patuxent River
+Lac de Chambly	inflow	Hérisson
+Lac de Coiselet	inflow	Ain River
+Lac de Coiselet	inflow	Bienne River
+Lac du Val	inflow	Hérisson
+Lake Güija	inflow	Ostúa River
+Lac de Remoray	inflow	Drésuire, Lhaut
+Lacs de Clairvaux	inflow	Augeon
+Lake Lila	inflow	Shingle Shanty Brook
+Scofield Reservoir	inflow	Price River
+Baddinsgill Reservoir	inflow	Lyne Water
+Lake Edgar	inflow	Huon River
+Orange Lake	inflow	Bushfield Creek
+Zavoj Lake	inflow	Visočica River
+Parr Reservoir	inflow	Broad River
+Laguna Niguel Lake	inflow	Sulphur Creek
+Howard Prairie Lake	inflow	Water diverted from Little Butte Creek
+Lake Harriet	inflow	Oak Grove Fork Clackamas River
+Graham Lake	inflow	Union River
+Daisy Lake	inflow	Cheakamus River
+Tallulah Falls Lake	inflow	Tallulah River
+Nizhnekamsk Reservoir	inflow	Kama, Belaya, Ik, Izh, Syun, Menzelya Rivers
+Ogosta Reservoir	inflow	Ogosta, Burzia and Zlatitsa rivers
+Budgewoi Lake	inflow	Lake Munmorah
+Kochelsee	inflow	Isar
+Kochelsee	inflow	Loisach
+Walchensee	inflow	Obernach
+Lac de Vassivière	inflow	Maulde River
+Lake Heron	inflow	Swin River
+Ray Lake	inflow	Wells Gray Provincial Park
+Lake Tshangalele	inflow	Lufira River
+Kama Reservoir	inflow	Kama River
+Kama Reservoir	inflow	Chusovaya River
+Kama Reservoir	inflow	Sylva River
+Kama Reservoir	inflow	Obva River
+Kama Reservoir	inflow	Inva
+Kama Reservoir	inflow	Kosva River
+Votkinsk Reservoir	inflow	Kama River
+Argazi Reservoir	inflow	Miass River
+Todzha Lake	inflow	Azas River
+Duncan Lake	inflow	Duncan River
+Lake Beechey	inflow	Back River
+Missinaibi Lake	inflow	Little Missinaibi River
+Mississippi Lake	inflow	Mississippi River
+Lake Notozero	inflow	Lutto River
+Lake Umatilla	inflow	Columbia River
+Lake Wallula	inflow	Columbia River
+Lake Pateros	inflow	Columbia River
+Lake Pateros	inflow	Okanogan River
+Lake Pateros	inflow	Methow River
+Kangaroo Creek Reservoir	inflow	River Torrens, Kangaroo Creek
+Elsay Lake	inflow	runoff from Mount Elsay
+Falls Reservoir	inflow	Yadkin River
+Seeburger See	inflow	Aue
+Lake Niangua	inflow	Niangua River
+Bull Run Lake	inflow	Bull Run River
+Lake Humboldt	inflow	Humboldt River
+Mess Lake	inflow	Mess Creek
+Lake Sagami	inflow	Sagami River
+Lake George Scott	inflow	Tekapo River
+Riffe Lake	inflow	Cowlitz River
+Little Cedar Lake	inflow	Cedar Creek
+Lake Michigamme	inflow	Peshekee River and Spurr River
+Lake Balanan	inflow	white-space:nowrap;
+Lake Balanan	inflow	Lamarao Creek
+Lake Balanan	inflow	Balanan Creek
+Lake Balanan	inflow	Nasig-id Creek
+Lake Wedowee	inflow	Tallapoosa River
+Lake Merwin	inflow	Lewis River
+Yale Lake	inflow	Lewis River
+Swift Reservoir	inflow	Lewis River
+Rock Island Pool	inflow	Columbia River
+Priest Rapids Lake	inflow	Columbia River
+Lake Wanapum	inflow	Columbia River
+Lake Bonneville	inflow	Columbia River
+Cougar Reservoir	inflow	South Fork McKenzie River
+Lookout Point Lake	inflow	Middle Fork Willamette River
+Lucky Peak Lake	inflow	Boise River
+Head Lake	inflow	Drag River
+Amaravathi Dam	inflow	Pambar River
+Amaravathi Dam	inflow	Chinnar River
+Amaravathi Dam	inflow	Amaravathi River
+Head Lake	inflow	Head River
+Caspian Sea	inflow	Volga River
+Caspian Sea	inflow	Ural River
+Caspian Sea	inflow	Kura River
+Caspian Sea	inflow	Terek River
+Gračanica Lake	inflow	Gračanka river
+Lake Buluan	inflow	Marbel River
+Tims Ford Lake	inflow	Elk River
+Osafjord	inflow	Ulvikafjorden
+Lake Baao	inflow	Tabao River
+Yangzong Lake	inflow	Yangzong River
+Hesaraghatta Lake	inflow	Arkavathy River
+Gazivoda Lake	inflow	Ibar River
+Lake of Sainte-Croix	inflow	Verdon
+Cherokee Lake	inflow	Holston River
+Lac des Arcs	inflow	Bow River
+Lake Colden	inflow	Avalanche Lake
+Styggevatnet	inflow	Austdalsvatnet
+Corner Inlet	inflow	Albert River
+Corner Inlet	inflow	Agnes River
+Anderson Inlet	inflow	Tarwin River
+Byfjorden	inflow	Salhusfjorden
+Byfjorden	inflow	Herdlefjorden
+Lake Minto	inflow	Charpentier River and other rivers
+Teslin Lake	inflow	Hayes River
+Teslin Lake	inflow	Jennings River
+Teslin Lake	inflow	Swift River
+Teslin Lake	inflow	Teslin River
+Harike Wetland	inflow	Beas and Sutlej Rivers
+Ropar Wetland	inflow	Sutlej River
+Cardiel Lake	inflow	Rio Cardiel
+Lac de Chambon	inflow	Creuse River
+Dozois Reservoir	inflow	Ottawa River
+Loch Alsh	inflow	Loch Long
+Loch Alsh	inflow	Loch Duich
+Chogray Reservoir	inflow	Kuma-Manych Canal, minor local rivers
+Hayward Lake	inflow	Stave River
+Alouette Lake	inflow	South Alouette River, Gold Creek
+Chilliwack Lake	inflow	Chilliwack River, Paleface Creek, Depot Creek
+Winthrop Rockefeller Lake	inflow	Arkansas River
+Morris Lake	inflow	Russell Lake Bell Lake, Ellenvale Brook, Lamont Lake
+Tatlayoko Lake	inflow	Homathko River
+Chehalis Lake	inflow	Chehalis River
+Chocorua Lake	inflow	Chocorua River, Stratton Brook
+Volgograd Reservoir	inflow	Volga River
+Tuya Lake	inflow	Butte Creek
+Rahasane turlough	inflow	Dunkellin river
+Loch Ness	inflow	River Oich
+Loch Ness	inflow	Caledonian Canal
+Loch Ness	inflow	River Moriston
+Loch Ness	inflow	River Foyers
+Loch Ness	inflow	River Enrick
+Loch Ness	inflow	River Coiltie
+Dismal Lakes	inflow	Teshierpi River
+Harlan County Reservoir	inflow	Republican River
+Godley Reservoir	inflow	Mottram Tunnel
+Godley Reservoir	inflow	Arnfield Reservoir
+Godley Reservoir	inflow	Rhodeswood Reservoir
+Lake Onslow	inflow	Teviot River
+Skilak Lake	inflow	Kenai River
+Kenai Lake	inflow	Snow River
+Kenai Lake	inflow	Trail River
+Swan Lake	inflow	Swan River
+Swan Lake	inflow	Woody River
+Parqu Qucha	inflow	Challwa Mayu, Jatun Calada, Jatun Mayu, Kañara, Parqu Qucha, Pedregal River, Wasa K'uchu
+Little Lava Lake	inflow	subsurface springs and occasional overflow from Lava Lake
+Jewel Lake	inflow	Wildcat Creek
+Dove Lake	inflow	Mill Creek
+Taseko Lakes	inflow	Taseko River
+Taseko Lakes	inflow	Lord River
+Taseko Lakes	inflow	Tchaikazan River
+Bully Creek Reservoir	inflow	Bully Creek
+Ystradfellte Reservoir	inflow	Afon Mellte
+Ystradfellte Reservoir	inflow	River Mellte
+Lagdo Reservoir	inflow	Benue River
+Narva Reservoir	inflow	Narva River
+Narva Reservoir	inflow	Plyussa River
+Clatworthy Reservoir	inflow	River Tone
+Topolnitsa Reservoir	inflow	Topolnitsa River
+Patchogue River	inflow	Patchogue Bay
+Milford Lake	inflow	Republican River
+South Cascade Lake	inflow	South Cascade Glacier
+Lac du Jotty	inflow	Dranse de Morzine
+Alvarado Park Lake	inflow	Turkey Creek
+Chilcotin Lake	inflow	Chilcotin River, Palmer Creek
+Weitsee	inflow	Spring
+Lindeman Lake	inflow	Lindeman Creek
+Lake Brownworth	inflow	Glaciers
+Lake Wabby	inflow	Natural spring
+Hilltop Lake	inflow	Garrity Creek
+Lake Homs	inflow	Orontes River
+Lake Stamford	inflow	Paint Creek
+Hariksee	inflow	Schwalm
+Ratzeburger See	inflow	Schaalseekanal, various creeks
+Haddebyer Noor	inflow	Selker Noor
+Speicherbecken Lohsa	inflow	Spree
+Griebnitzsee	inflow	Teltow Canal
+Peruća Lake	inflow	Cetina
+Otter Lake	inflow	Churchill River
+Deer Lake	inflow	Taylor River
+Bärwalder See	inflow	Spree
+Bärwalder See	inflow	Dürrbacher Fließ
+Bärwalder See	inflow	Schulenburgkanal
+Behler See	inflow	Schwentine
+Lanker See	inflow	Schwentine from the Fuhlensee and other lakes
+Werbellinsee	inflow	Neuer Graben from Grimnitzsee
+Aasee	inflow	Münstersche Aa
+Kellersee	inflow	Schwentine
+Dieksee	inflow	Schwentine
+Kleiner Plöner See	inflow	Schwentine
+Großer Eutiner See	inflow	Schwentine
+Kronsee	inflow	Schwentine
+Fuhlensee	inflow	Schwentine
+Sibbersdorfer See	inflow	Schwentine
+Kirchsee	inflow	Schwentine
+Klostersee	inflow	Emster
+Postsee	inflow	Alte Schwentine
+Postsee	inflow	Nettelau
+Postsee	inflow	Honigau
+Postsee	inflow	Neuwührener Au
+Simssee	inflow	Thalkirchner Achen, Antworter Achen, Weidmoos-Graben
+Fahrlander See	inflow	Sacrow–Paretz Canal
+Weißer See	inflow	Sacrow–Paretz Canal
+Templiner See	inflow	Havel
+Grössinsee	inflow	Nieplitz
+Großer Alpsee	inflow	Konstanzer Ach
+Kölpinsee	inflow	Elde
+Malchiner See	inflow	Westpeene, Mühlenbach, Lupenbach
+Fleesensee	inflow	Elde
+Lake Senftenberg	inflow	Black Elster
+Gudelacksee	inflow	Vielitz Canal, Lindower Stadtfließ
+Hemmelsdorfer See	inflow	Mühlenau, Aalbek, Thuraubek
+Einfelder See	inflow	ditch from Dosenmoor
+Ukleisee	inflow	Riekenbeke
+Belauer See	inflow	Alte Schwentine
+Damerower See	inflow	Mildenitz
+Krakower See	inflow	Nebel
+Goldberger See	inflow	Mildenitz, Schwinzer Bach
+Barniner See	inflow	Warnow, Amtsgraben
+Mickowsee	inflow	Warnow
+Taschensee	inflow	Gösebek
+Hücker Moor	inflow	Moorbach
+Baberowsee	inflow	Strom
+Großer Labussee	inflow	Havel
+Großer Binnensee	inflow	Kossau
+Woblitzsee	inflow	Havel
+Woblitzsee	inflow	Kammer Canal
+Woblitzsee	inflow	Floßgraben bei Trebbow
+Stendorfer See	inflow	Schwentine
+Großer Auesee	inflow	Große Aue
+Wardersee	inflow	Trave
+Wardersee	inflow	Bißnitz
+Drüsensee	inflow	Hellbachtal
+Wuhlebecken	inflow	Wuhle
+Kuhsee	inflow	Lech
+Naturschutzsee Füssenich	inflow	Neffelbach
+Dämeritzsee	inflow	Spree
+Dämeritzsee	inflow	Flakenfließ
+Schulensee	inflow	Eider
+Ziegelsee	inflow	Aubach
+Useriner See	inflow	Havel
+Medeweger See	inflow	Aubach
+Pfaffenteich	inflow	Aubach
+Ruppiner See	inflow	Rhin
+Franzosenwoog	inflow	Hochspeyerbach
+Woterfitzsee	inflow	Bolter Kanal
+Tiefwarensee	inflow	town ditch from the Falkenhäger See, Melzer See
+Spitzingsee	inflow	Lochgraben
+Spitzingsee	inflow	Firstgraben
+Feisnecksee	inflow	ditches e.g. from the Krummen See, Müritz and Waupacksee
+Gülper See	inflow	Rhin
+Neustädter Binnenwasser	inflow	Kremper Au, Lachsau, Mühlenbach
+Lanzer See	inflow	Elbe-Lübeck-Kanal
+Köthener See	inflow	Randkanal , Dahme-Umflutkanal
+Wangnitzsee	inflow	Havel
+Ellbogensee	inflow	Havel
+Trammer See	inflow	Schwentine
+Großer Priepertsee	inflow	Havel
+Glammsee	inflow	Mühlengraben
+Barner Stücker See	inflow	Aubach
+Barner Stücker See	inflow	Kleiner Aubach
+Rätzsee	inflow	Müritz–Havel–Wasserstraße über die Oberbek
+Stolper See	inflow	Alte Schwentine
+Labussee	inflow	Müritz–Havel–Wasserstraße
+Gobenowsee	inflow	Drosedower Bek
+Vilzsee	inflow	Müritz–Havel–Wasserstraße
+Zotzensee	inflow	Müritz–Havel–Wasserstraße
+Amtssee	inflow	Nettelgraben
+Öjendorfer See	inflow	Schleemer Bach
+Süseler See	inflow	Gösebek
+Großer Pönitzer See	inflow	Gösebek
+Großer Sternberger See	inflow	Mildenitz
+Woseriner See	inflow	Bresenitz
+Tiefer Trebbower See	inflow	Floßgraben
+Tiefer Trebbower See	inflow	Stendlitz
+Großer Pälitzsee	inflow	Müritz–Havel–Wasserstraße
+Canower See	inflow	Müritz–Havel–Wasserstraße
+Kleiner Pälitzsee	inflow	Müritz–Havel–Wasserstraße
+Kleine Müritz	inflow	Müritz
+Zeuthener See	inflow	Dahme River
+Borkower See	inflow	Mildenitz, Schlower Bach
+Torgelower See	inflow	Ostpeene
+Tramser See	inflow	Pröbbower See
+Massower See	inflow	Elde
+Woezer See	inflow	Schilde
+Drewensee	inflow	Obere–Havel–Wasserstraße
+Käbelicksee	inflow	Havel
+Rittmannshagener See	inflow	Ostpeene
+Malliner See	inflow	Wurzenbach
+Müritzsee	inflow	Elde
+Cramoner See	inflow	Stepenitz
+Mühlenteich	inflow	Wallensteingraben
+Trenntsee	inflow	Mildenitz, Mildenitzkanal
+Lac de Pareloup	inflow	Vioulou, pumping station at Bage- taking water from the Viaur and the Bage
+Lac de Bouzey	inflow	Moselle
+Lac de Grangent	inflow	Loire
+Lac de Grand-Lieu	inflow	Boulogne
+Lac de Grand-Lieu	inflow	Ognon
+Lac de Grandval	inflow	Truyère, Bès,l'Ander
+Lac d'Orédon	inflow	Lac de Cap-de-Long
+Lac de Matemale	inflow	Aude
+Lac du Chambon	inflow	Romanche
+Snoqualmie Lake	inflow	Taylor River
+Lac de Castet	inflow	Gave d'Ossau
+Lac des Settons	inflow	Cure, Lyonnet, Piscuit
+Lac de Grand Maison	inflow	Eau d'Olle
+Lac de Pannecière	inflow	Yonne, Houssière, Ensein
+Lac de Mondély	inflow	Lèze
+Étang du Lanoux	inflow	Font Vive
+Lac du Laouzas	inflow	Vèbre
+Lac de la Ganguise	inflow	Ganguise
+Lac de Charpal	inflow	Colagne
+Lac de Naussac	inflow	Allier
+Lac de Naussac	inflow	Chapeauroux
+Lac de Bonnal	inflow	Ognon
+Lac du Crescent	inflow	Cure, Chalaux, Crescent
+Lac de Villefort	inflow	Altier
+Lac de Villefort	inflow	Chassezac
+Lac d'Esparron	inflow	Verdon River
+Lac de Saint-Agnan	inflow	Cousin
+Lac de Saint-Agnan	inflow	Trinquelin
+Lac de Chaumeçon	inflow	Chalaux, Porcmignon
+Réservoir Saint-Michel	inflow	Elez, Roudouhir, Stêr-Red
+Lac du Moulinet	inflow	Crueize
+Amisk Lake	inflow	Beaver River
+Lake Băneasa	inflow	Colentina River
+Carters Lake	inflow	Coosawattee River
+Weiss Lake	inflow	Coosa River
+Weiss Lake	inflow	Chattooga River
+Weiss Lake	inflow	Little River Canyon National Preserve
+Shenango River Lake	inflow	Shenango River
+William %22Bill%22 Dannelly Reservoir	inflow	Alabama River
+William %22Bill%22 Dannelly Reservoir	inflow	Cahaba River
+Uru Uru Lake	inflow	Río Desaguadero
+Cáceres Lake	inflow	Río Pimiento
+Cáceres Lake	inflow	Canal Sicurí
+Coipasa Lake	inflow	Río Lauca
+Coruto Lake	inflow	Río Volcán
+Awallamaya Lake	inflow	Desaguadero River
+Mirim Lake	inflow	Laguna La Gaiba
+Mandioré Lake	inflow	Río Paraguay
+La Gaiba Lake	inflow	Río Paraguay
+Broad Water	inflow	River Dysynni
+Lake Lumao	inflow	Agusan River
+Brazeau Reservoir	inflow	Brazeau River
+Hjeltefjorden	inflow	Byfjorden
+Lake Onalaska	inflow	Mississippi River
+Big Lake	inflow	Sturgeon River
+Big Lake	inflow	Atim Creek
+Lago del Turano	inflow	Turano
+Lago di San Domenico	inflow	Sagittario
+Lago di Tenno	inflow	Rì Sec
+Lago di Tenno	inflow	Laurel River
+Lago di Salarno	inflow	Torrente Salarno
+Lago di Scanno	inflow	The portion of the Sagittario known as the Tasso
+Lago delle Piane	inflow	Torrente Ostola, Torrente Cigliaga, Riale della Caudana
+Lago di Nicito	inflow	Amenano
+Ampollino Lake	inflow	Ampollino
+Verney Lake	inflow	Dora di Verney
+Lago di Pontesei	inflow	Maè
+Lago di Montepulciano	inflow	Canale Maestro della Chiana
+Gerundo Lake	inflow	Adda
+Gerundo Lake	inflow	Serio River
+Gerundo Lake	inflow	Brembo
+Gerundo Lake	inflow	Molgora
+Lago di Occhito	inflow	Fortore
+Disueri Lake	inflow	Disueri River
+Lago di Chiusi	inflow	Tresa River
+Lago di Baratz	inflow	Rio dei Giunchi
+Lago di Ledro	inflow	Rio Sache
+Lago delle Nazioni	inflow	Po River
+Lago di Centro Cadore	inflow	Piave
+Lago del Brugneto	inflow	Brugneto
+Lago del Barbellino	inflow	Serio River
+Lago del Barbellino	inflow	Trobio
+Lago Olivo	inflow	Fiume Olivo
+Lago dell'Ancipa	inflow	Troina
+Lago di Pietra del Pertusillo	inflow	fiume Agri
+Lago dell'Accesa	inflow	Bruna River
+Lago di Trebecco	inflow	Tidone, Morcione
+Lago di Bientina	inflow	Serchio
+Lago di Ceresole	inflow	Orco
+Lago di Acerenza	inflow	Bradano, torrente Rosso
+Serrù Lake	inflow	Orco
+Lago di Ortiglieto	inflow	Orba
+Lago di Lentini	inflow	Torrente Trigona
+Lago di Santa Rosalia	inflow	Irminio
+Lago del Salto	inflow	Salto River
+Agnel Lake	inflow	Orco
+Lago di Ogliastro	inflow	Gornalunga, Belmontino e Rio Secco
+Locone Lake	inflow	Torrente Locone
+Lago di Magazzolo	inflow	Magazzolo
+Laghi del Gorzente	inflow	Gorzente
+Lago Nero	inflow	torrente Goglio
+Lago di Bomba	inflow	Sangro
+Lago di Piediluco	inflow	Rio Fuscello
+Lago di Piediluco	inflow	Nera
+Lago di Piediluco	inflow	Velino River
+Costantino Lake	inflow	Bonamico
+Nicoletti Lake	inflow	Dittaino
+Laghi di Lavagnina	inflow	Gorzente
+Lago di Gramolazzo	inflow	Serchio di Gramolazzo
+Lake Bugeac	inflow	Almălău River
+Lac de Monteynard-Avignonet	inflow	Drac River
+Lake Paatari	inflow	Lemmenjoki
+Lake Paatari	inflow	Vaskojoki
+Umsaskis Lake	inflow	Allagash River
+Melzer See	inflow	Elde
+Schwarzer See	inflow	Mildenitz
+Patchogue Lake	inflow	ground water
+Coal Lake	inflow	Pipestone Creek
+Rodman Reservoir	inflow	Ocklawaha River
+Tsala Apopka Lake	inflow	Withlacoochee River
+Gleniffer Lake	inflow	Red Deer River
+Mara Lake	inflow	Shuswap River
+Nyskie Lake	inflow	Nysa Kłodzka
+Murphy Lake	inflow	Goodings Creek
+Murphy Lake	inflow	Murphy Creek
+Lower Otay Reservoir	inflow	Otay River
+Lower Otay Reservoir	inflow	San Diego Aqueduct
+Lake Juturnaiba	inflow	Barra do Rio São João
+John Redmond Reservoir	inflow	Neosho River
+Artist Lake	inflow	ground water
+Lake Gore	inflow	Dalyup River
+Moriches Bay	inflow	Moriches and Shinnecock Inlets
+Bayano Lake	inflow	Bayano River
+Angove Lake	inflow	Angove River
+Hernandez Reservoir	inflow	San Benito River
+Hernandez Reservoir	inflow	Laguna Creek
+Richland-Chambers Reservoir	inflow	Richland Creek and Chambers Creek
+Solar Lake	inflow	Gulf of Aqaba
+Haidersee	inflow	Adige, Zerzerbach
+Collins Lake	inflow	Dry Creek, runoff
+Lake Alice	inflow	Edith River
+Silver Lake	inflow	Sandburg Creek
+O'Neill Forebay	inflow	California Aqueduct
+O'Neill Forebay	inflow	Delta–Mendota Canal
+O'Neill Forebay	inflow	San Luis Reservoir
+Bogstadvannet	inflow	Sørkedalselven
+Lakhtinsky Razliv	inflow	Kamenka, Glukharka and Yuntolovka rivers
+Colbún Lake	inflow	Maule River
+Lake Abashiri	inflow	Abashiri River and Memanbetsu River
+Clowhom Lake	inflow	Clowhom River
+Pakowki Lake	inflow	Etzikom Coulee, Irrigation Creek, Erickson Coulee, Ketchum Creek, Canal Creek, Bond Coulee, Bryant Coulee
+Lake Hodges	inflow	San Dieguito River
+Mabel Lake	inflow	Shuswap River
+Little Dell Reservoir	inflow	Dell Creek
+Lake Allison	inflow	Glacial Lake Missoula
+Nanthi Lagoon	inflow	Indian Ocean
+Ullackalie Lagoon	inflow	Verugal Aru
+Ullackalie Lagoon	inflow	Uppu Aru
+Lake Nasworthy	inflow	Twin Buttes Reservoir
+Puttalam Lagoon	inflow	List of rivers of Sri Lanka
+E.V. Spence Reservoir	inflow	Colorado River
+Zoo Lake	inflow	Parktown Spruit
+Moose Lake	inflow	Fraser River
+Causey Reservoir	inflow	South Fork of the Ogden River
+Lake Easton	inflow	Kachess River
+Robson Lake	inflow	Robson Glacier
+Washington Valley Park	inflow	West branch of Middle Brook
+Lake Coghinas	inflow	Coghinas River
+Lake Coghinas	inflow	Rio Mannu
+Khar Lake	inflow	Chono Kharaikh Gol
+Adriatic Sea	inflow	Adige
+Adriatic Sea	inflow	Bojana
+Adriatic Sea	inflow	Drin
+Adriatic Sea	inflow	Krka
+Adriatic Sea	inflow	Neretva
+Adriatic Sea	inflow	Po
+Adriatic Sea	inflow	Soča
+Khyargas Nuur	inflow	Zavkhan River via Airag Nuur
+Ligovsky Pond	inflow	Dudergofka river
+Lac la Ronge	inflow	Montreal River
+Lac la Ronge	inflow	Bow River
+Lac la Ronge	inflow	Nemeiben River
+Lac la Ronge	inflow	Nikepamew River
+Peter Pond Lake	inflow	Dillon River
+Peter Pond Lake	inflow	La Loche River
+Cumberland Lake	inflow	Grassberry River
+Cumberland Lake	inflow	New Channel Lake
+Battle Lake	inflow	Battle River
+Tobin Lake	inflow	Saskatchewan River
+Amisk Lake	inflow	Sturgeon-Weir River
+Churchill Lake	inflow	Peter Pond Lake
+Churchill Lake	inflow	Frobisher Lake
+Churchill Lake	inflow	MClusky River
+Bamaji Lake	inflow	Bamaji Creek, Brokenmouth River, Cat River from North Bamaji Lake, channel from Fry Lake
+Frobisher Lake	inflow	Turnor Lake via Wanasin River
+Dog Lake	inflow	Dog River
+Pinehouse Lake	inflow	Churchill River
+Bass Lake	inflow	Sand Creek
+Attawapiskat Lake	inflow	Otoskwin River, Marten-Drinking River, Pineimuta River
+Lac des Chats	inflow	Ottawa River
+Esnagi Lake	inflow	Magpie River
+Esnagi Lake	inflow	Tripoli Creek
+Lady Evelyn Lake	inflow	Lady Evelyn River
+Lower Buckhorn Lake	inflow	Buckhorn Lake
+Kabinakagami Lake	inflow	Kabinakagami River
+Kabinakagami Lake	inflow	Oba River
+Restoule Lake	inflow	Restoule River
+Opinicon Lake	inflow	Rideau Canal
+Sand Lake	inflow	Beaudry Creek
+Sand Lake	inflow	Sand Creek
+Stoco Lake	inflow	Moira River
+Stoco Lake	inflow	Clare River
+Stoco Lake	inflow	Sulphide Creek
+Lake Nosbonsing	inflow	Depot Creek
+Manistee Lake	inflow	Little Manistee River
+Manistee Lake	inflow	Manistee River
+Dexter Reservoir	inflow	Middle Fork Willamette River
+Dorena Reservoir	inflow	Row River
+Heathcote Lake	inflow	Flindt River
+Heathcote Lake	inflow	Manion Creek
+Eugenisee	inflow	Engelbergeraa
+Lake Cheybek-Kohl	inflow	Chibit River
+O.C. Fisher Reservoir	inflow	North Concho River
+Twin Buttes Reservoir	inflow	Middle Concho River
+Twin Buttes Reservoir	inflow	South Concho River
+Twin Buttes Reservoir	inflow	Spring Creek
+Lake Omodeo	inflow	Tirso River
+Curlew Lake	inflow	Sanpoil River, Herron Creek, Barrett Creek, Trout Creek
+Buffalo Pound Lake	inflow	Qu'Appelle River
+Lake Massawippi	inflow	Tomifobia River
+Bassin de Saint-Ferréol	inflow	Laudot
+Lake Shannon	inflow	Baker River, Thunder Creek, Sulphur Creek, other small tributaries
+San Vicente Reservoir	inflow	San Diego River
+San Vicente Reservoir	inflow	San Diego Aqueduct
+Powell Lake	inflow	Powell River
+Katchewanooka Lake	inflow	Stoney Lake
+McCombe Lake	inflow	Waterway from Buntzen Lake
+Lake Liscia	inflow	Liscia
+Lake Mojave	inflow	Mojave River
+Lake Manix	inflow	Mojave River
+Akaitcho Lake	inflow	Coppermine River
+R.E. %22Bob%22 Woodruff Lake	inflow	Coosa River
+Lake Leśnia	inflow	Kwisa
+Canyon Lake	inflow	San Jacinto River
+Eastman Lake	inflow	Chowchilla River
+Keith Sebelius Lake	inflow	Prairie Dog Creek
+Boca Reservoir	inflow	Little Truckee River
+Lindores Loch	inflow	Priest's Burn
+Waconda Lake	inflow	North Fork Solomon River
+Waconda Lake	inflow	South Fork Solomon River
+Lake Anahuac	inflow	Trinity River
+Lewis Lake	inflow	Lewis River
+Hart Lake	inflow	Crump Lake overflow and Honey Creek
+Clear Lake	inflow	Lake Nassau, Clear Creek
+Lake Ilirney	inflow	Ilirneyveyem
+Longcanoe Lake	inflow	Whitesand River from Gumboot Lake
+Whitesand Lake	inflow	Whitesand River
+Newark Reservoir	inflow	White Clay Creek
+Fish Lake	inflow	Little Butte Creek watershed
+Greenvale Reservoir	inflow	pipeline from Silvan Reservoir
+Bridgeport Reservoir	inflow	East Walker River
+Douglas Lake	inflow	Bessey Creek
+Whitesand Lake	inflow	Whitesand River
+North Whitesand Lake	inflow	Whitesand River
+JoJo Lake	inflow	Whitesand River
+Lake Bagsværd	inflow	Fiskebæk , Dumpedalsrenden, Vejlesø Kanal
+Lyne Lake	inflow	Ross Creek, Whitesand River
+Hornblende Lake	inflow	Whitesand River
+Demijohn Lake	inflow	Whitesand River
+Zenith Lake	inflow	Whitesand River
+Cleaver Lake	inflow	Whitesand River
+Gumboot Lake	inflow	Whitesand River
+Driedmeat Lake	inflow	Battle River
+Ethel Lake	inflow	Marie Creek
+Isle Lake	inflow	Sturgeon River
+Spray Lakes Reservoir	inflow	Spray River
+Wolf Lake	inflow	Wolf River
+Spring Hollow Reservoir	inflow	Roanoke River
+Nicholls Lake	inflow	Whitesand River
+Bull Lake	inflow	Salmon River from Buck Lake
+Sapung Lake	inflow	Yalu River
+Little Bull Lake	inflow	Unnamed creek from Bull Lake
+Lake Jacomo	inflow	Prairie Lee Lake
+Aswapiswanan Lake	inflow	Hungry River, Porcupine Creek, Bolton River, Joint River
+Touchwood Lake	inflow	Mink River, Wanless Creek, Wapawukaw River
+Vermilyea Lake	inflow	Channel from Touchwood Lake
+Little Bolton Lake	inflow	Bolton River
+Bolton Lake	inflow	Bolton River, Nikik River
+Kakwusis Lake	inflow	Bolton River
+Rushforth Lake	inflow	Bolton River
+Atwood Lake	inflow	Indian Fork and others
+Leesville Lake	inflow	McGuire Creek and others
+Wickiup Reservoir	inflow	Deschutes River
+Blue Lake	inflow	Blue Lake Creek and snowmelt
+Black Lake	inflow	Chipman River, Cree River, Fond du Lac River, Souter River
+Kermajärvi	inflow	Karvio Rapids, from Varisvesi
+Ylä-Enonvesi	inflow	Enonkoski rapids
+Viiksinselkä	inflow	Tolvajoki, Volgajoki
+Vuontisjärvi	inflow	Pöyrisjoki
+Vuotjärvi	inflow	via Lastukoski rapids from the lake Syväri
+Tyräjärvi	inflow	Hutunsalmi strait, lake Koviojärvi
+Kulovesi	inflow	Nokianvirta
+Kulovesi	inflow	Siuronkoski
+Lake Kuorevesi	inflow	Keurusselkä
+Lammasjärvi	inflow	Lentuankoski
+Lentua	inflow	Isojoki, Iivantiira, Kalliojoki
+Peruvesi	inflow	Pankajoki river, lake Pienivesi
+Lake Ruovesi	inflow	Tarjanne
+Lake Ruovesi	inflow	Lake Kuorevesi
+Saraavesi	inflow	Kuusaankoski
+Saraavesi	inflow	Tarvaalanvirta
+Savivesi	inflow	Konnuskoski rapids, Konnus canal
+Lake Miguel Alemán	inflow	Tonto River
+Lake Miguel Alemán	inflow	Santo Domingo River
+Botsford Lake	inflow	Marchington River
+Pelican Lake	inflow	English River
+Tripoli Lake	inflow	Unnamed creek from West Tripoli Lake
+Lake Amtkeli	inflow	Amtkeli River
+Wejinabikun Lake	inflow	Magpie River
+North Wejinabikun Lake	inflow	Magpie River
+Mosambik Lake	inflow	Magpie River
+South Summit Lake	inflow	Diverted water from Mojikit Lake  on Ogoki River
+Locke Lake	inflow	Halfmoon Lake
+Fourbass Lake	inflow	Matabitchuan River
+Surveyor Lake	inflow	Temagami River
+McKenzie Lake	inflow	Moore Creek east and west branches
+Upper Partridge Lake	inflow	Partridge Creek from unnamed lake
+Reedy Lake	inflow	Barwon River
+Elzevir Lake	inflow	Elzevir Creek
+Grimsthorpe Lake	inflow	Partridge Creek
+Deerock Lake	inflow	Partridge Creek
+Partridge Lake	inflow	Partridge Creek
+Merrill Lake	inflow	Merrill Creek
+Little Merrill Lake	inflow	Merrill Creek
+Whitefish Lake	inflow	Merrill Creek
+Pearson Lake	inflow	Skootamatta River
+Todd Lakes	inflow	Merrill Creek
+Rainy Lake	inflow	Rainy Creek
+Killer Lake	inflow	Killer Creek
+Chelker Reservoir	inflow	River Wharfe
+Steenburg Lake	inflow	Mud Creek
+Mephisto Lake	inflow	Mephisto Creek
+Paddy's Lake	inflow	Mud Creek, unnamed creek
+Lake Harney	inflow	St. Johns River
+Lake Harney	inflow	Black Cypress Swamp
+Gaube Lake	inflow	Gaube River tributaries
+Singanallur Lake	inflow	Noyyal River
+Lake Munson	inflow	Munson Slough
+Lake Ming	inflow	Kern River
+Angostura Reservoir	inflow	Cheyenne River
+Shadehill Reservoir	inflow	North Fork Grand River
+Shadehill Reservoir	inflow	South Fork Grand River
+Standley Lake	inflow	Woman Creek, Croke Canal, Farmers Highline Canal
+Staunton Harold Reservoir	inflow	River Dove, Derbyshire
+Lake Pflugerville	inflow	Colorado River
+Lake Kununurra	inflow	Lake Argyle
+Lake Plastiras	inflow	Megdovas
+Attabad Lake	inflow	--05-26
+Shadow Lake	inflow	Gull River
+Rathbun Lake	inflow	Chariton River
+Slezská Harta Dam	inflow	Moravice River
+Hope Mills Lake	inflow	Little Rockfish Creek
+Wienerwaldsee	inflow	The Wien, Wolfsgrabenbach
+Núi Cốc Lake	inflow	Công River
+Định Bình Lake	inflow	Côn River
+Lake Sapsho	inflow	Sapsha
+Lake Sapsho	inflow	Sapshanka
+Lake Surprise	inflow	Blue Brook
+Vombsjön	inflow	Björkaån
+Vombsjön	inflow	Borstbäcken
+Loch Voil	inflow	River Larig
+Alder Lake	inflow	Nisqually River
+Laitaure	inflow	Rapa River
+Iro Lake	inflow	Bahr Salamat
+Léré Lake	inflow	Mayo Kébbi
+Tixall Wide	inflow	Staffordshire and Worcestershire Canal
+Lake Vagula	inflow	Võhandu jõgi
+Lake Vagula	inflow	Kondi oja
+Lake Vagula	inflow	Kivioja
+Lake Vagula	inflow	Üra oja
+Lake Tamula	inflow	Kubija stream
+Lake Kavadi	inflow	Iskna
+Lake Murati	inflow	Kuura
+Orto-Tokoy Reservoir	inflow	Chu River
+Jagdishpur Reservoir	inflow	Banganga River
+Langensee	inflow	Schwentine from the Dieksee
+Rancho Seco Recreational Park	inflow	Folsom South Canal
+Lake As Pontes	inflow	Eume River
+Åresjön	inflow	Indalsälven
+El Tranco de Beas Dam	inflow	Guadalquivir
+Arcos Reservoir	inflow	Guadalete
+Almodóvar Reservoir	inflow	Almodóvar River
+Bornos Reservoir	inflow	Guadalete River
+Barbate Reservoir	inflow	Barbate River
+Celemín Reservoir	inflow	Celemín River
+Embalse de Guadalcacín	inflow	Majaceite River
+Los Hurones Reservoir	inflow	Majaceite River
+Zahara-El Gastor Reservoir	inflow	Guadalete River
+Charco Redondo Reservoir	inflow	Palmones River
+Benínar Reservoir	inflow	Adra River and Grande River
+Guadarranque Reservoir	inflow	Guadarranque
+Cuevas del Almanzora Reservoir	inflow	Almanzora River
+Arenós Reservoir	inflow	Millars River
+Bembézar Reservoir	inflow	Bembezar River
+Guadalmellato Reservoir	inflow	Guadalmellato River
+Iznajar Reservoir	inflow	Genil
+Guadanuño Reservoir	inflow	Guadanuño River
+La Breña Reservoir	inflow	Guadiato River
+Martín Gonzalo Reservoir	inflow	Martín River
+Puente Nuevo Reservoir	inflow	Guadiato River
+Retortillo Reservoir	inflow	Retortillo River
+San Rafael de Navallana Reservoir	inflow	Guadalmellato River
+Yeguas Reservoir	inflow	Yeguas River
+Sierra Boyera Reservoir	inflow	Guadiato River
+Canales Reservoir	inflow	Genil River
+Colomera Reservoir	inflow	Colomera River
+Cubillas Reservoir	inflow	Cubillas River
+El Portillo Reservoir	inflow	Castril River
+Francisco Abellán Reservoir	inflow	Fardes River
+Los Bermejales Reservoir	inflow	Cacín River
+Quéntar Reservoir	inflow	Aguas Blancas River
+San Clemente Reservoir	inflow	Guardal River
+Rules Reservoir	inflow	Guadalfeo
+Negratín Reservoir	inflow	Guadiana Menor River
+Béznar Reservoir	inflow	Izbor River
+Lake Van Arsdale	inflow	Eel River, Mill Creek, Rocky Creek, Trout Creek
+Lake Blue Ridge	inflow	Toccoa River
+Lake Ağgöl	inflow	underground waters from river Araz, Ajinohur
+Lake Amaramba	inflow	Lake Chiuta
+Sunnylvsfjorden	inflow	Geirangerfjorden
+Shamkir reservoir	inflow	Kura River
+Imja Tsho	inflow	Imja Glacier
+Agstafachay reservoir	inflow	Aghstafa River
+Khanbulanchay reservoir	inflow	Bəşəriçay
+Yenikend reservoir	inflow	Kura River
+Austfjorden	inflow	Masfjorden
+Jeyranbatan reservoir	inflow	Samur-Absheron channel
+Lake Dulverton	inflow	Parattah Creek
+Lake Sils, Catalonia	inflow	Riera de Vallcanera
+Lake Sils, Catalonia	inflow	Riera de Santa Maria
+Lake Sils, Catalonia	inflow	Rec Sorrer
+Lake Sils, Catalonia	inflow	El Reclar
+Lake Sils, Catalonia	inflow	Riera de Pins
+Lake Sils, Catalonia	inflow	La Torderola
+Ķīšezers, Riga	inflow	Jugla River
+Chard Reservoir	inflow	River Isle
+Hawkridge Reservoir	inflow	Peart Water
+Khadzhibey Estuary	inflow	Malyi Kuyalnyk
+Otterhead Lakes	inflow	River Otter, Devon
+Lake Burton	inflow	Streams from Vestfold Hills
+Williams Lake	inflow	San Jose River
+Hobson Lake	inflow	Clearwater River and Hobson Creek
+Murtle Lake	inflow	Murtle River, File Creek, Anderson Creek, Strait Creek
+Pipmuacan Reservoir	inflow	Betsiamites River
+Lake Namakagon	inflow	Namakagon River
+Włocławek Reservoir	inflow	Vistula
+Dnieper-Bug Estuary	inflow	Dnieper
+Dnieper-Bug Estuary	inflow	Southern Bug
+Kuyalnik Estuary	inflow	Velykyi Kuyalnik River
+Bug Estuary	inflow	Southern Bug
+Harrisville Pond	inflow	Nubanusit Brook
+Pray Lake	inflow	Two Medicine Lake
+Two Medicine Lake	inflow	Two Medicine Creek
+Long Lake	inflow	Englehart River
+Long Lake	inflow	Driftwood Creek
+Long Lake	inflow	Tamarac Creek
+Ellis Lake	inflow	Sarsfield Creek
+Dnieper Estuary	inflow	Dnieper
+Věstonice Reservoir	inflow	Thaya River
+Věstonice Reservoir	inflow	Jihlava
+Věstonice Reservoir	inflow	Svratka
+Crane Prairie Reservoir	inflow	Deschutes River
+Rescobie Loch	inflow	Lunan Water
+Lake Mégantic	inflow	Arnold River
+Stowe Pool	inflow	Leamonsley Brook, Trunkfield Brook from Minster Pool
+Ticha Reservoir	inflow	Kamchiya
+Baker Lake	inflow	Baker River, Swift Creek, Shannon Creek, Noisy Creek, Park Creek, Anderson Creek, Boulder Creek, Sandy Creek
+Salhusfjorden	inflow	Osterfjorden
+Salhusfjorden	inflow	Sørfjorden
+Lake Hindmarsh	inflow	Wimmera River
+Sweetwater Reservoir	inflow	Sweetwater River
+Tinemaha Reservoir	inflow	Owens River
+Kakisa Lake	inflow	Kakisa River
+Tathlina Lake	inflow	Kakisa River
+Elizabeth Lake	inflow	Belly River
+Ziernsee	inflow	Havel
+Röblinsee	inflow	Havel
+Schwedtsee	inflow	Havel
+Baalensee	inflow	Havel
+Stolpsee	inflow	Havel
+Hatchet Lake	inflow	Fond du Lac River
+Oxford Lake	inflow	Hayes River
+Schwielowsee	inflow	Havel
+Little Langdale	inflow	River Brathay & Bleamoss Beck, Greenburn Beck
+Plauer See	inflow	Breitlingsee, Möserschen See, Wendsee and Quenzsee
+Breitlingsee	inflow	River Havel, River Plane and River Buckau
+Quenzsee	inflow	Silo Canal, Silograben from Gördensee
+Wendsee	inflow	Elbe–Havel Canal, channel from Wusterwitzer See
+Jiangkou Reservoir	inflow	Furong River
+The Loe	inflow	River Cober
+Blue River Reservoir	inflow	Blue River
+Danjiangkou Reservoir	inflow	Dan River
+Lake Varaždin	inflow	Drava
+Lake Dubrava	inflow	Drava
+Blackstrap Lake	inflow	Earthen aqueduct from Lake Diefenbaker
+Indi Lake	inflow	earthen aqueduct from Lake Diefenbaker
+Lake Prisaca	inflow	Cerna River
+Lake Chusovskoye	inflow	Beryozovka River
+Lake Bridgeport	inflow	West Fork of the Trinity River
+Drag Lake	inflow	Drag River
+Forggensee	inflow	Lech
+Maridalsvannet	inflow	Skjærsjøelva and Dausjøelva
+Lake Esrum	inflow	Fønstrup Bæk, several smaller streams, groundwater
+Yên Lập Lake	inflow	Míp River
+Aurlandsfjord	inflow	Nærøyfjorden
+Frentress Lake	inflow	Mississippi River
+Lac Deschênes	inflow	Ottawa River, Carp River, Constance Creek, Shirley's Brook, Watts Creek, Still Water Creek, Graham Creek
+Sognesjøen	inflow	Sognefjorden
+Laanecoorie Weir	inflow	Loddon River
+Lake Cachí	inflow	Reventazon River
+Grassi Lakes	inflow	Spray River
+Chipping Norton Lake	inflow	Georges River
+Lake Kenozero	inflow	Pocha River
+Lake Undozero	inflow	Lopa River
+Lac du Verney	inflow	L'Eau d'Olle,  & other small streams
+Lake Yamma Yamma	inflow	Yamma Creek, Cooper Creek
+Crescent Lake	inflow	Perdido Key
+Lake Rescue	inflow	Black River
+Lake Varsh	inflow	Pochviska River
+Birchs Inlet	inflow	Macquarie Harbour
+Menindee Lakes	inflow	Darling River
+Lake Kozhozero	inflow	Podlomka River
+Ivanhoe Lake	inflow	Ivanhoe River
+Junipers Reservoir	inflow	Muddy Creek
+Lake Palestine	inflow	Neches River
+Elsie Lake	inflow	Upper Ash River
+Big Platte Lake	inflow	Platte River
+Lake Jipe	inflow	Lumi River
+Dofinivka Estuary	inflow	Great Adzhalyk
+Egå Engsø	inflow	Egå, Ellebækken
+Saghamo Lake	inflow	Paravani river
+Lake Kaņieris	inflow	Slocene
+Shanti Sagara	inflow	Haridra, Controlled Bhadra Dam's right bank canal
+Zhari Namco	inflow	Cuoqin Zangbu
+Zhari Namco	inflow	Dalong Zangbu
+Tangra Yumco	inflow	Daguo Zangbu
+Tangra Yumco	inflow	Buzhai Zangbu
+Lower Lake, Bhopal	inflow	Seepage from Upper Lake and drainage from 28 sewage-filled nallahs
+Brick Township Reservoir	inflow	Metedeconk River
+Ngoring Lake	inflow	Yellow River
+Ngoring Lake	inflow	Lena Qu
+Gyaring Lake	inflow	Yellow River
+Gyaring Lake	inflow	Kari Qu
+Crescent Lake	inflow	Willow Creek, Bouder Lake, Lichen Lake
+Pettit Lake	inflow	Creek from Alice Lake
+Edna Lake	inflow	Payette River
+Virginia Lake	inflow	Payette River
+Elk Lake	inflow	Payette River
+Little Spangle Lake	inflow	Boise River
+Regan Lake	inflow	Trail Creek
+Dongping Lake	inflow	Daqing River
+Lake Webb	inflow	Kern River
+Lake Evans	inflow	Kern River
+Horn Pond	inflow	Great East Lake
+Horn Pond	inflow	Wilson Lake
+Buena Vista Lake	inflow	Kern River
+Buena Vista Lake	inflow	Connecting Slough
+Lake Blouin	inflow	Bourlamaque River
+Lake Blouin	inflow	Senneville River
+Wallis Lake	inflow	Wallamba River, Coolongolook River,  Pipers Creek
+Loch o' th' Lowes, New Cumnock	inflow	Creoch Loch, Lochill Burn, rainfall and runoff
+Grimstadfjord	inflow	Nordåsvannet
+Bjørnafjorden	inflow	Fusafjorden
+Selbjørnsfjorden	inflow	Langenuen
+Fusafjorden	inflow	Samnangerfjorden
+Langenuen	inflow	Bjørnafjorden
+Kern Lake	inflow	Kern River
+Jimmy Smith Lake	inflow	Big Lake Creek
+Laguna Verde	inflow	Lluvia
+Vishansar Lake	inflow	Krishansar Lake
+Herrensee	inflow	Beke from the Tiefwarensee
+Split Lake	inflow	Nelson River
+Split Lake	inflow	Burntwood River
+Saratoga Lake	inflow	Kayaderosseras
+Lovewell Reservoir	inflow	White Rock Creek
+Lake DuBay	inflow	Wisconsin River
+Lake DuBay	inflow	Big Eau Pleine River
+Lake DuBay	inflow	Little Eau Pleine River
+Lake DuBay	inflow	Little Eau Claire River
+Mirror Pond	inflow	Deschutes River
+Cedar Bluff Reservoir	inflow	Smoky Hill River
+Cleawox Lake	inflow	seepage
+Electra Lake	inflow	Cascade Creek
+Airag Lake	inflow	Zavkhan River
+Airag Lake	inflow	Khüngüin River
+Dörgön Lake	inflow	Khar Lake, Khomyn Khooloi
+Seč Dam	inflow	Chrudimka
+Mullutu-Suurlaht	inflow	Kaarmise, Kärla, Unimäe River
+Thrissur Kole Wetlands	inflow	Chalakudy River
+Thrissur Kole Wetlands	inflow	Bharathappuzha River
+Pecks Lake	inflow	Verde River
+Cibi Lake	inflow	Fengyu River
+Lake Bisina	inflow	Lake Opeta
+Lake Allegan	inflow	Kalamazoo River
+Kirwin Reservoir	inflow	North Fork Solomon River, Bow Creek
+Webster Reservoir	inflow	South Fork Solomon River
+Kanopolis Lake	inflow	Smoky Hill River
+Tso Ngön	inflow	Yongzhu Zangbu
+Skjoldafjorden	inflow	Grindafjorden
+Antelope Reservoir	inflow	Jack Creek, Antelope Feeder Canal from Jordan Creek, intermittent streams
+Lava Lake	inflow	seeps and springs
+Turnor Lake	inflow	Wasekamio Lake, McDonald Creek
+Cheney Reservoir	inflow	North Fork Ninnescah River
+Council Grove Lake	inflow	Munkers Creek
+Council Grove Lake	inflow	Neosho River
+Melvern Lake	inflow	Marais des Cygnes River
+Wild Horse Reservoir	inflow	Owyhee River, Hot Creek, Penrod Creek, Warm Creek, Poorman Creek
+Sheepscot Pond	inflow	Sheepscot River
+Lake Tissongo	inflow	Sanaga River
+Lofton Reservoir	inflow	Fishhole creek watershed
+Vacha Reservoir	inflow	Vacha River
+Dryvyaty	inflow	Usvica
+Dryvyaty	inflow	Zolvica
+Dryvyaty	inflow	Raka
+Nordgulen	inflow	Svelgen
+Gulen	inflow	Svelgen river
+Norcan Lake	inflow	Madawaska River
+Griffy Lake	inflow	Griffy Creek
+Staffelsee	inflow	Ach
+Lake DeForest	inflow	Hackensack River
+Brno Reservoir	inflow	Svratka
+Lake Tikshozero	inflow	Lopskaya River
+Pothireddypadu Reservoir	inflow	canal from Srisailam reservoir
+Fedafjorden	inflow	Kvina river
+Fox Sagar Lake	inflow	Musi River, India
+Schermützelsee	inflow	Sophienfließ
+Großer Müllroser See	inflow	Schlaube
+Beddington Lake	inflow	Narraguagus River
+Little Grass Valley Reservoir	inflow	South Fork Feather River, Black Rock Creek, Ice Creek, Pancake Ravine, Kenzie Ravine
+Copco Lake	inflow	Klamath River, Beaver Creek, Raymond Gulch, Spannaus Gulch, Snackenburg Creek, Milk Creek, Parks Canyon, Indian Creek,
+Nuss Lake	inflow	Lost River diversions
+Jasper Lake	inflow	Athabasca River
+Tenmile Lake	inflow	North Tenmile Lake; Shutter, Adams, Johnson, Benson creeks
+Eel Lake	inflow	Clear, Eel, and Marsh creeks
+Southern Indian Lake	inflow	Churchill River
+Hills Creek Reservoir	inflow	Middle Fork Willamette River
+John C. Boyle Reservoir	inflow	Klamath River
+Lake Yliki	inflow	Cephissus
+Bathurst Channel	inflow	Bathurst Harbour
+Magic Reservoir	inflow	Big Wood River and Camas, Lava, Poison, and Rock creeks
+Mackay Reservoir	inflow	Big Lost River
+Sevastopol Bay	inflow	Chorna River
+Cofton reservoir	inflow	River Arrow, Worcestershire
+Cobb Reservoir	inflow	Cobb River
+Rector Reservoir	inflow	Rector Creek
+Lake Czorsztyn	inflow	Dunajec River
+Lake Rożnów	inflow	Dunajec River
+Lake Dobczyce	inflow	Raba River
+Sirindhorn Dam Reservoir	inflow	Dom Noi River
+Knypersley Reservoir	inflow	Head of Trent and Overflow from Serpentine Reservoir
+Sebkha el Melah	inflow	Oued Saoura
+Lake Mugesera	inflow	Nyawarungu River
+Deka Lake	inflow	Sulphurous Lake, British Columbia
+Jubilee Lake	inflow	Motett Creek and seasonal streams from melting snow
+Meadow Grounds Lake	inflow	Roaring Run
+Horseshoe Lake	inflow	seasonal tributary of Spring Creek, snowmelt/runoff
+Lake of Pusiano	inflow	Lambro
+Webbers Falls Lake	inflow	Arkansas River
+Loch of Craiglush	inflow	Lunan Burn
+Mossø	inflow	Gudenå, Tåning Å, Illerup Å
+Köl-Suu	inflow	Kurumduk River
+Colonial Lake	inflow	Shabakunk Creek
+Batemans Bay	inflow	Clyde River
+Lake Sylva	inflow	Shabakunk Creek
+Mercer Lake	inflow	Assunpink Creek
+Wanaque Reservoir	inflow	Wanaque River
+Wanaque Reservoir	inflow	Ramapo River
+Wanaque Reservoir	inflow	Pompton River
+Pompton Lake	inflow	Ramapo River
+Lac des Nations	inflow	Magog River
+Lake Tarnița	inflow	Someșul Cald River
+Lac Marville	inflow	Rivière de l'Est
+Lake Templene	inflow	Prairie River
+Nundkol Lake	inflow	Gangbal Lake
+Mud Lake	inflow	Camas Creek
+Lower Goose Creek Reservoir	inflow	Goose Creek
+Brabrand Lake	inflow	Aarhus River, Døde Å, Voldbækken, Lyngbygård Å, Madsesbæk, Kildebæk.
+Vartdalsfjorden	inflow	Rovdefjorden
+Vartdalsfjorden	inflow	Voldsfjorden
+Vartdalsfjorden	inflow	Ørstafjorden
+Loch of Kirbister	inflow	several burns
+Lake Magog	inflow	Magog River
+Voldsfjorden	inflow	Austefjorden
+Voldsfjorden	inflow	Kilsfjorden
+Voldsfjorden	inflow	Dalsfjorden
+Rovdefjorden	inflow	Vartdalsfjorden
+Rovdefjorden	inflow	Voldsfjorden
+Waurika Lake	inflow	Beaver Creek, Oklahoma
+Mékinac Lake	inflow	Rivière du milieu (Mékinac),  creek sleigh, creek Grosleau, creek Bastien, creek Pronovost
+Kayamkulam Kayal	inflow	Achankovil, Pamba through Canals
+Lake Moore, New South Wales	inflow	Georges River
+Bungevatnet	inflow	Bungebreen
+Ånnsjön	inflow	Enan, Handölan, Västerån, Bunnerån, Järpån, Rekån, Kärrån
+Eckbachweiher	inflow	Eckbach
+Isenachweiher	inflow	Isenach
+Lake of the Cross	inflow	Batiscan River
+Elderberry Forebay	inflow	California Aqueduct
+Lost Grove Lake	inflow	Lost Creek
+Lake Traverse	inflow	Outlet of Lake Jesuit
+Cheslatta Lake	inflow	Cheslatta River
+Gremikha Bay	inflow	Barents Sea
+Lake Piva	inflow	Piva
+Lac Île-à-la-Crosse	inflow	Churchill Lake by Aubichon Arm or Deep River, Beaver River
+Willow Springs Lake	inflow	Snowpack
+Fensfjorden	inflow	Masfjorden and Austfjorden
+Lake Lescarbot	inflow	Bostonnais River
+Lake Parrish	inflow	Little Manatee River
+Davenport Lake	inflow	Harper Creek
+Davenport Lake	inflow	East Mountain Town Creek
+Davy Crockett Lake	inflow	Nolichucky River
+Mallasvesi	inflow	Kostianvirta, Sulkusalmi
+Mahnalanselkä – Kirkkojärvi	inflow	Pappilanjoki river, lake Kyrösjärvi
+Otter Lake, British Columbia	inflow	*
+Otter Lake, British Columbia	inflow	Otter Creek
+Otter Lake, British Columbia	inflow	Tulameen River
+Otter Lake, British Columbia	inflow	Similkameen River
+Ontojärvi – Nurmesjärvi	inflow	lakes Lentua, Lammasjärvi, Vieksijärvi
+Romarheimsfjorden	inflow	Mofjorden
+Krasnoyarsk Reservoir	inflow	Yenisei River
+Krasnoyarsk Reservoir	inflow	Tuba River
+Krasnoyarsk Reservoir	inflow	Sisim River
+Krasnoyarsk Reservoir	inflow	Biryusa River
+Ward Lake	inflow	Braden River
+Wolford Mountain Reservoir	inflow	Muddy Creek
+Veafjorden	inflow	Bolstadfjorden
+Lake Kankakee	inflow	Wisconsin Glacier
+Lake Tourouvre	inflow	Saint-Maurice River
+Lake Tourouvre	inflow	River Trenche
+Reservoir Blanc	inflow	Saint-Maurice River
+Châteauvert Lake	inflow	Manouane River
+Misema Lake	inflow	Misema River, Little Misema River, Kinabik Creek
+Payuk Lake	inflow	Mistik Creek
+Neso Lake	inflow	Mistik Creek
+Nisto Lake	inflow	Mistik Creek
+Nao Lake	inflow	Mistik Creek
+Niyanun Lake	inflow	Mistik Creek
+Nikotwasik Lake	inflow	Mistik Creek
+Nistosap Lake	inflow	Mistik Creek
+Nesosap Lake	inflow	Mistik Creek
+Payukosap Lake	inflow	Mistik Creek
+Mitatut Lake	inflow	Mistik Creek
+Kakat Lake	inflow	Mistik Creek
+Kakat Lake	inflow	Holt Lake, Manitoba
+Uyenanao Lake	inflow	Mistik Creek
+Tapukok Lake	inflow	Mistik Creek
+Murray Lake	inflow	Thompson Lake
+Thompson Lake	inflow	Alberts Lake
+Thompson Lake	inflow	Bryan Lake
+Lake of Bays	inflow	Bays River, Lake of Bays River
+Lake Martin	inflow	Woady Yaloak River
+Enchanted Pond	inflow	Little Enchanted Pond
+Black Lake	inflow	Black River
+Khaste lake	inflow	From Neureni lake
+Bay of Txingudi	inflow	Bidasoa
+Stausee Solis	inflow	Albula
+Fall River Lake	inflow	Fall River
+Lake Crescent	inflow	Lake Sorell, Tasmania
+Obinitsa Lake	inflow	Obinitsa Stream
+Lake Safyany	inflow	Turunchuk River
+Lake Bile	inflow	Turunchuk River
+Lime Lake	inflow	Lime Creek
+Norris Lake	inflow	Clinch River
+Partridge Lake	inflow	Partridge River, Jones Creek
+Lake Alan Henry	inflow	Double Mountain Fork Brazos River
+Quaddick Reservoir	inflow	Five Mile River, Robbins Brook, Poor Farm Brook, Blackmore Brook
+Gerber Reservoir	inflow	Miller Creek and its tributaries
+Lake Barrea	inflow	Sangro
+Phander Lake	inflow	Ghizer River
+Lac Pivabiska	inflow	Valentine River, Pivabiska Narrows
+Wolverine Lake	inflow	Valentine River, Wolverine Creek
+Musquaro Lake	inflow	Musquaro River
+Shebandowan Lakes	inflow	Greenwater Creek, Kashabowie River, Swamp River
+Lake Vermillion	inflow	East Fork of the Vermillion River
+Partridge Lake	inflow	Fox River
+Lake Choctaw	inflow	Sugarloaf Creek
+Sugar Pine Reservoir	inflow	North Shirttail Creek
+Lake Innisfree	inflow	Hutchinson River
+Lake Coorong	inflow	Yarriambiack Creek
+Lake Buloke	inflow	Richardson River
+Norfolk Bay	inflow	Frederick Henry Bay
+Loch Màma	inflow	Loch na Creige Duibhe
+Loch Bràigh Horrisdale	inflow	streams from Loch a' Bhealaich and Loch a' Ghobhainn
+Otmuchów Lake	inflow	Nysa Kłodzka
+Paczkowski Lake	inflow	Nysa Kłodzka
+Wdzydze Lake	inflow	Wda
+Lac de l'Oule	inflow	Lac d'Oredon
+Gibson Lake	inflow	Vermilion River
+Loch Lomond	inflow	Lochalsh River
+Briar Creek Reservoir	inflow	East Branch Briar Creek
+John Martin Reservoir	inflow	Arkansas River
+Lake St. Martin	inflow	Fairford River
+Kiskitto Lake	inflow	Nelson River
+Kiskittogisu Lake	inflow	Nelson River
+Sipiwesk Lake	inflow	Nelson River
+Stephens Lake	inflow	Nelson River
+Lake Volgo	inflow	Volga River
+Charlotte Lake	inflow	Atnarko River
+Rock Lake	inflow	Rock Creek
+De Lesseps Lake	inflow	De Lesseps River
+Lily Lake	inflow	Pond Creek
+Lake Vselug	inflow	Volga River
+Belmont Lake	inflow	Crowe River
+Belmont Lake	inflow	North River
+Lake Peno	inflow	Volga River
+Lago di Prà della Stua	inflow	Torrente Aviana
+Kamilukuak Lake	inflow	Kamilukuak River
+Lake Kampeska	inflow	Big Sioux River
+Ukkadam Lake	inflow	Noyyal River
+Lago di Fiastra	inflow	Fiastrone
+Lake LeBoeuf	inflow	Trout Run, LeBoeuf Creek
+Skånevikfjorden	inflow	Åkrafjorden
+Skånevikfjorden	inflow	Etnefjorden
+Skånevikfjorden	inflow	Matersfjorden
+Opinaca Reservoir	inflow	Opinaca River
+Safilguda Lake	inflow	Ramakrishnapuram Lake
+Panch Pokhari	inflow	Indravati River, Nepal
+Templehouse Lough	inflow	Owenmore River and other streams
+Lake Murchison	inflow	Murchison River
+Lake Murchison	inflow	;
+Lake Murchison	inflow	George Creek;
+Lake Murchison	inflow	Anthony River
+Lake Murchison	inflow	Tribute Power Station
+Lake Murchison	inflow	discharge
+Storm King Dam	inflow	Quart Pot Creek
+Lake Merzbacher	inflow	Glaciers
+Snow Lake, King County, Washington	inflow	Rock Creek
+Wrightsville Reservoir	inflow	Winooski River
+Lac Flammarion	inflow	Precipitation
+Richland Creek Reservoir	inflow	Etowah River
+Goat Lake	inflow	Elliott Creek
+Garadice Lough	inflow	Shannon–Erne Waterway
+Lough Scur	inflow	Aghacashlaun River, Shannon–Erne Waterway
+Lago di Conza	inflow	Ofanto
+Lake Louise	inflow	Sutton Creek; two unnamed streams
+St. John's Lough	inflow	Shannon–Erne Waterway
+Sankenbachsee	inflow	Sankenbach Waterfalls
+Lough Allua	inflow	River Lee
+Lough Fern	inflow	River Leannan
+Dhanraul Dam	inflow	Ghaghar River
+Lake Oron	inflow	Kamennaya River
+Lake Oron	inflow	Kultushnaya River
+Lake Oron	inflow	Sygykta River
+Sprague Lake	inflow	Negro Creek
+Manno Lake	inflow	Doki River
+Manno Lake	inflow	Kanakura River
+Missisquoi Bay	inflow	Rivière aux Brochets (baie Missisquoi) Pikes River
+Mochrum Loch	inflow	Castle Loch, Dumfries and Galloway burn
+Nutscale Reservoir	inflow	Nutscale Water
+Sabine–Neches Waterway	inflow	Neches River
+Sabine–Neches Waterway	inflow	Sabine River
+Sabine–Neches Waterway	inflow	Taylor Bayou
+Rozkoš Lake	inflow	Rovenský potok, Rozkoš, Úpa Canal
+Nowe Warpno Bay	inflow	Baltic Sea
+Golaghmuli Valley	inflow	Ghizer River
+Khalti Lake	inflow	Ghizer River
+Khukush Langar	inflow	Ghizer River
+Handarap Lake	inflow	Ghizer River
+Dry Canyon Reservoir	inflow	Los Angeles Aqueduct
+Dry Canyon Reservoir	inflow	Dry Canyon Creek
+Lough Boderg	inflow	River Shannon
+Carrigadrohid Lake	inflow	River Lee
+Maupertuis Bay	inflow	Rocky River
+Lough Beltra	inflow	Crumpaun River
+Lough Cutra	inflow	Owendalulleegh River
+Lough Inniscarra	inflow	River Lee
+Lough Inagh	inflow	Sruffdunatooreeneam
+Lough Forbes	inflow	River Shannon
+Lough Kinale	inflow	River Inny, Westmeath
+Ballynahinch Lake	inflow	Derryclare Lough
+Lough Eidin	inflow	Boyle River
+Muckross Lake	inflow	Owengariff River
+Killinure Lough	inflow	Breensford River
+Killinure Lough	inflow	Coosan Lough
+Killinure Lough	inflow	Glassan River
+Lough Nacung Upper	inflow	Lough Dunlewey
+Lough O'Flynn	inflow	River Suck
+Summit Lake	inflow	Snow fields & springs
+Lough Furnace	inflow	Lough Feeagh
+Lough Furnace	inflow	Yellow River
+Lough Bofin	inflow	Lough Boderg , Lough Scannal, Feorish River
+Pikes Creek Reservoir	inflow	Pikes Creek
+Glenicmurrin Lough	inflow	Loughnaskeha
+Glenicmurrin Lough	inflow	Muckanagh Lough
+Glenicmurrin Lough	inflow	Lough Cloonadoon
+Upper Lake, Killarney	inflow	Gearhameen River
+Lough Corry	inflow	River Shannon
+Lough Atorick	inflow	Bleach River
+Doo Lough	inflow	Glencullin Lough
+Inchiquin Lough	inflow	River Fergus
+Lough Atedaun	inflow	River Fergus
+Ardderry Lough	inflow	Lough Shindilla
+Chain Lakes, Alberta	inflow	Parlby Creek
+Dunglow Lough	inflow	Lough Craghy
+Fall Creek Lake	inflow	Fall Creek
+Drielaker See	inflow	Drielaker Kanal
+Lago di San Giuliano	inflow	Bradano
+Lago di Serra del Corvo	inflow	Basentello
+Leaser Lake	inflow	Ontelaunee Creek
+Łańskie Lake	inflow	Łyna River
+Bearskin Lake	inflow	Morrison River
+Partridge Lake	inflow	Namewaminikan River
+Gathering Lake	inflow	Namewaminikan River, Roslyn River, Margret Creek
+Richardson Lakes	inflow	Mooselookmeguntic Lake
+Fish River chain of lakes	inflow	Little River
+Lake Temo	inflow	Temo River
+Parmachenee Lake	inflow	Magalloway River
+Lake Herrera	inflow	Bojacá River
+Lake Herrera	inflow	Bogotá River
+Windy Gap Reservoir	inflow	Colorado River
+Marston Lake	inflow	South Platte River
+Lake Ahémé	inflow	Couffo River
+Kapuskasing Lake	inflow	Chapleau River
+Frontier Lake	inflow	Northwest Branch Black River
+Alden Lake	inflow	Cloquet River
+Beau Lake	inflow	Saint Francis River
+Shelley Lake	inflow	Saltese Creek
+Lago dell'Antenna	inflow	Orba
+Lyngdalsfjorden	inflow	Lygna river

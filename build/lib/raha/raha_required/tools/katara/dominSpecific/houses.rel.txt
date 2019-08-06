@@ -1,0 +1,440 @@
+Parliament of the United Kingdom	houses	House of Lords
+Parliament of the United Kingdom	houses	House of Commons of the United Kingdom
+United States Congress	houses	United States Senate
+United States Congress	houses	United States House of Representatives
+Greater London Authority	houses	Unicameral
+Parliament of Canada	houses	Senate of Canada
+Parliament of Canada	houses	House of Commons of Canada
+Oireachtas	houses	Dáil Éireann
+Oireachtas	houses	Seanad Éireann
+National Diet	houses	House of Councillors
+National Diet	houses	House of Representatives
+Parliament of Northern Ireland	houses	Senate of Northern Ireland
+Parliament of Northern Ireland	houses	House of Commons
+Birmingham City Council	houses	Unicameral
+States General of the Netherlands	houses	Senate
+States General of the Netherlands	houses	House of Representatives
+Congress of the Philippines	houses	Senate of the Philippines
+Congress of the Philippines	houses	House of Representatives of the Philippines
+Parliament of Australia	houses	Australian Senate
+Parliament of Australia	houses	Australian House of Representatives
+Tynwald	houses	Legislative Council of the Isle of Man
+Tynwald	houses	House of Keys
+New Zealand Parliament	houses	New Zealand House of Representatives
+Metropolitan Board of Works	houses	Unicameral
+Parliament of South Africa	houses	National Assembly of South Africa
+Parliament of South Africa	houses	National Council of Provinces
+Parliament of Great Britain	houses	House of Lords
+Parliament of Great Britain	houses	House of Commons of Great Britain
+Parliament of England	houses	Upper house:
+Parliament of England	houses	House of Lords
+Parliament of England	houses	Cromwell's Other House
+Parliament of England	houses	Lower house:
+Parliament of England	houses	House of Commons of England
+Quebec Legislature	houses	Legislative Council of Quebec
+Quebec Legislature	houses	Legislative Assembly of Quebec
+Quebec Legislature	houses	National Assembly of Quebec
+Parliament of India	houses	Rajya Sabha
+Parliament of India	houses	Lok Sabha
+Congress of the Union	houses	Senate
+Congress of the Union	houses	Chamber of Deputies
+California State Legislature	houses	California State Senate
+California State Legislature	houses	California State Assembly
+Michigan Legislature	houses	Michigan Senate
+Michigan Legislature	houses	House of Representatives
+Virginia General Assembly	houses	Senate of Virginia
+Virginia General Assembly	houses	Virginia House of Delegates
+Alaska Legislature	houses	Alaska Senate
+Alaska Legislature	houses	Alaska House of Representatives
+Delaware General Assembly	houses	Delaware Senate
+Delaware General Assembly	houses	Delaware House of Representatives
+Maryland General Assembly	houses	Maryland State Senate
+Maryland General Assembly	houses	Maryland House of Delegates
+Montana Legislature	houses	Montana Senate
+Montana Legislature	houses	Montana House of Representatives
+New Hampshire General Court	houses	New Hampshire Senate
+New Hampshire General Court	houses	New Hampshire House of Representatives
+Colorado General Assembly	houses	Colorado Senate
+Colorado General Assembly	houses	Colorado House of Representatives
+North Carolina General Assembly	houses	North Carolina Senate
+North Carolina General Assembly	houses	North Carolina House of Representatives
+Vermont General Assembly	houses	Vermont Senate
+Vermont General Assembly	houses	Vermont House of Representatives
+Georgia General Assembly	houses	*
+Georgia General Assembly	houses	Georgia Senate
+Georgia General Assembly	houses	Georgia House of Representatives
+Ohio General Assembly	houses	Ohio Senate
+Ohio General Assembly	houses	Ohio House of Representatives
+New Jersey Legislature	houses	New Jersey Senate
+New Jersey Legislature	houses	New Jersey General Assembly
+New York State Legislature	houses	New York State Senate
+New York State Legislature	houses	New York State Assembly
+Hawaii State Legislature	houses	Hawaii Senate
+Hawaii State Legislature	houses	Hawaii House of Representatives
+New Mexico Legislature	houses	New Mexico Senate
+New Mexico Legislature	houses	New Mexico House of Representatives
+Texas Legislature	houses	Texas Senate
+Texas Legislature	houses	Texas House of Representatives
+Florida Legislature	houses	Florida Senate
+Florida Legislature	houses	Florida House of Representatives
+Indiana General Assembly	houses	Indiana Senate
+Indiana General Assembly	houses	Indiana House of Representatives
+Palau National Congress	houses	Senate of Palau
+Palau National Congress	houses	House of Delegates of Palau
+Borough of Fareham	houses	Unicameral
+Dudley Metropolitan Borough Council	houses	Unicameral
+Parliament of Malaysia	houses	Dewan Negara
+Parliament of Malaysia	houses	Dewan Rakyat
+Cortes Generales	houses	Senate of Spain
+Cortes Generales	houses	Congress of Deputies
+Parliament of Southern Ireland	houses	Senate,
+Parliament of Southern Ireland	houses	House of Commons
+Congress of Colombia	houses	Chamber of Representatives of Colombia
+Congress of Colombia	houses	Senate of Colombia
+Minnesota Legislature	houses	Minnesota Senate
+Minnesota Legislature	houses	Minnesota House of Representatives
+Warrington Borough Council	houses	Unicameral
+Missouri General Assembly	houses	Missouri Senate
+Missouri General Assembly	houses	Missouri House of Representatives
+North Dakota Legislative Assembly	houses	North Dakota Senate
+North Dakota Legislative Assembly	houses	North Dakota House of Representatives
+Congress of the Dominican Republic	houses	Senate of the Dominican Republic
+Congress of the Dominican Republic	houses	Chamber of Deputies of the Dominican Republic
+Parliament of Ireland	houses	Irish House of Lords
+Parliament of Ireland	houses	House of Commons
+Congress of Paraguay	houses	Chamber of Deputies of Paraguay
+Congress of Paraguay	houses	Senate of Paraguay
+National Congress of Brazil	houses	Federal Senate
+National Congress of Brazil	houses	Chamber of Deputies
+National Congress of Chile	houses	Senate of Chile
+National Congress of Chile	houses	Chamber of Deputies of Chile
+Southampton City Council	houses	Unicameral
+Imperial Council	houses	House of Lords
+Imperial Council	houses	House of Deputies
+Belgian Federal Parliament	houses	Senate
+Belgian Federal Parliament	houses	Chamber of Representatives
+Parliament of Pakistan	houses	Senate of Pakistan
+Parliament of Pakistan	houses	National Assembly of Pakistan
+Illinois General Assembly	houses	Illinois Senate
+Illinois General Assembly	houses	Illinois House of Representatives
+Tennessee General Assembly	houses	Tennessee Senate
+Tennessee General Assembly	houses	Tennessee House of Representatives
+South Carolina General Assembly	houses	South Carolina Senate
+South Carolina General Assembly	houses	South Carolina House of Representatives
+General Assembly of Nova Scotia	houses	Council
+General Assembly of Nova Scotia	houses	Legislative Council of Nova Scotia
+General Assembly of Nova Scotia	houses	Nova Scotia House of Assembly
+Parliament of Kazakhstan	houses	Senate of Kazakhstan
+Parliament of Kazakhstan	houses	Majilis
+French Parliament	houses	Senate of France
+French Parliament	houses	National Assembly of France
+Legislative Assembly of Puerto Rico	houses	Senate of Puerto Rico
+Legislative Assembly of Puerto Rico	houses	House of Representatives of Puerto Rico
+Parliament of Tasmania	houses	Tasmanian House of Assembly
+Parliament of Tasmania	houses	Tasmanian Legislative Council
+Washington State Legislature	houses	Washington State Senate
+Washington State Legislature	houses	Washington State House of Representatives
+Parliament of Victoria	houses	Victorian Legislative Assembly
+Parliament of Victoria	houses	Legislative Council
+Idaho Legislature	houses	Idaho Senate
+Idaho Legislature	houses	Idaho House of Representatives
+Congress of the Confederate States	houses	Senate
+Congress of the Confederate States	houses	House of Representatives
+Iowa General Assembly	houses	*
+Iowa General Assembly	houses	Iowa Senate
+Iowa General Assembly	houses	Iowa House of Representatives
+Mississippi Legislature	houses	Mississippi State Senate
+Mississippi Legislature	houses	Mississippi House of Representatives
+Parliament of New South Wales	houses	New South Wales Legislative Assembly
+Parliament of New South Wales	houses	New South Wales Legislative Council
+Parliament of Queensland	houses	Legislative Assembly of Queensland
+Parliament of South Australia	houses	South Australian House of Assembly
+Parliament of South Australia	houses	South Australian Legislative Council
+Parliament of Western Australia	houses	Western Australian Legislative Assembly
+Parliament of Western Australia	houses	Western Australian Legislative Council
+Federal Assembly	houses	Federation Council
+Federal Assembly	houses	State Duma
+Alberta Legislature	houses	Legislative Assembly of Alberta
+Wisconsin Legislature	houses	Wisconsin Senate
+Wisconsin Legislature	houses	Wisconsin Assembly
+Oireachtas of the Irish Free State	houses	Seanad Éireann,
+Oireachtas of the Irish Free State	houses	Dáil Éireann
+Italian Parliament	houses	Italian Senate
+Italian Parliament	houses	Chamber of Deputies
+Arizona State Legislature	houses	Arizona Senate
+Arizona State Legislature	houses	Arizona House of Representatives
+Parliament of Trinidad and Tobago	houses	Senate of Trinidad and Tobago
+Parliament of Trinidad and Tobago	houses	House of Representatives of Trinidad and Tobago
+Plurinational Legislative Assembly	houses	Senate,
+Plurinational Legislative Assembly	houses	Chamber of Deputies
+National Congress of Argentina	houses	Argentine Senate
+National Congress of Argentina	houses	Argentine Chamber of Deputies
+Curia regis	houses	Magnum Concilium and the Royal Court
+Federal Assembly	houses	Council of States
+Federal Assembly	houses	National Council
+Bedford Borough Council	houses	Unicameral
+Rigsdagen	houses	Folketing
+Rigsdagen	houses	Landstinget
+Oxford City Council	houses	Unicameral
+National Assembly	houses	Senate of Nigeria
+National Assembly	houses	Nigerian House of Representatives
+Parliament of Egypt	houses	House of Representatives
+Pennsylvania General Assembly	houses	Pennsylvania State Senate
+Pennsylvania General Assembly	houses	Pennsylvania House of Representatives
+National Assembly	houses	Senate of Belize
+National Assembly	houses	House of Representatives of Belize
+West Virginia Legislature	houses	West Virginia Senate
+West Virginia Legislature	houses	West Virginia House of Delegates
+Austrian Parliament	houses	National Council
+Austrian Parliament	houses	Federal Council
+Oregon Legislative Assembly	houses	Oregon State Senate
+Oregon Legislative Assembly	houses	Oregon House of Representatives
+St Athan	houses	Unicameral
+Legislative Council of Brunei	houses	Monarchy, Non-partisan
+Parliament of Barbados	houses	House of Assembly of Barbados
+Parliament of Barbados	houses	Senate
+Kentucky General Assembly	houses	Kentucky Senate
+Kentucky General Assembly	houses	Kentucky House of Representatives
+Coventry City Council	houses	Unicameral
+Leicester City Council	houses	Unicameral
+Manchester City Council	houses	Unicameral
+Leeds City Council	houses	Unicameral
+Legislature of Liberia	houses	Senate of Liberia
+Legislature of Liberia	houses	House of Representatives of Liberia
+People's Consultative Assembly	houses	Regional Representative Council
+People's Consultative Assembly	houses	People's Representative Council
+National Assembly	houses	Council of Representatives
+National Assembly	houses	Consultative Council
+Parliament of the Democratic Republic of the Congo	houses	National Assembly of the Democratic Republic of the Congo
+Parliament of the Democratic Republic of the Congo	houses	Senate of the Democratic Republic of the Congo
+Parliament of Gabon	houses	National Assembly
+Parliament of Gabon	houses	Senate
+Parliament of Rwanda	houses	Chamber of Deputies
+Parliament of Rwanda	houses	Senate
+Parliament of Lesotho	houses	National Assembly of Lesotho
+Parliament of Lesotho	houses	Senate of Lesotho
+Parliament of Zimbabwe	houses	House of Assembly of Zimbabwe
+Parliament of Zimbabwe	houses	Senate of Zimbabwe
+Bristol City Council	houses	Unicameral
+Parliament of the Republic of the Congo	houses	National Assembly of the Republic of the Congo
+Parliament of the Republic of the Congo	houses	Senate of the Republic of the Congo
+Parliament of Madagascar	houses	National Assembly of Madagascar
+Parliament of Madagascar	houses	Senate of Madagascar
+Parliament of Swaziland	houses	House of Assembly of Swaziland
+Parliament of Swaziland	houses	Senate of Swaziland
+Parliament of Morocco	houses	House of Councillors
+Parliament of Morocco	houses	House of Representatives
+National Legislature	houses	National Assembly of Sudan
+National Legislature	houses	Council of States of Sudan
+Parliament of Antigua and Barbuda	houses	House of Representatives
+Parliament of Antigua and Barbuda	houses	Senate
+Alabama Legislature	houses	Alabama Senate
+Alabama Legislature	houses	Alabama House of Representatives
+Reading Borough Council	houses	Unicameral
+Parliament of the Czech Republic	houses	– Senate
+Parliament of the Czech Republic	houses	– Chamber of Deputies
+National Assembly	houses	House of the People
+National Assembly	houses	House of Elders
+Bath and North East Somerset Council	houses	Unicameral
+Kansas Legislature	houses	Kansas Senate
+Kansas Legislature	houses	Kansas House of Representatives
+Oklahoma Legislature	houses	Oklahoma Senate
+Oklahoma Legislature	houses	Oklahoma House of Representatives
+National Assembly of Belarus	houses	House of Representatives of the Republic of Belarus
+National Assembly of Belarus	houses	Council of Belarus
+Utah State Legislature	houses	Utah State Senate
+Utah State Legislature	houses	Utah House of Representatives
+Parliament of Romania	houses	Senate of Romania
+Parliament of Romania	houses	Chamber of Deputies of Romania
+Supreme Assembly	houses	Senate of Uzbekistan
+Supreme Assembly	houses	Legislative Chamber of Uzbekistan
+Parliament of Cambodia	houses	Senate of Cambodia
+Parliament of Cambodia	houses	National Assembly of Cambodia
+Parliament of Grenada	houses	Senate of Grenada
+Parliament of Grenada	houses	House of Representatives of Grenada
+Parliamentary Assembly of Bosnia and Herzegovina	houses	House of Representatives
+Parliamentary Assembly of Bosnia and Herzegovina	houses	House of Peoples
+Parliament of Haiti	houses	Senate
+Parliament of Haiti	houses	Chamber of Deputies
+General Assembly of Uruguay	houses	Senate of Uruguay
+General Assembly of Uruguay	houses	Chamber of Deputies of Uruguay
+Supreme Assembly	houses	National Assembly
+Supreme Assembly	houses	Assembly of Representatives
+Parliament of Saint Lucia	houses	Senate of Saint Lucia
+Parliament of Saint Lucia	houses	House of Assembly of Saint Lucia
+Parliament of Nepal	houses	Nepal House of Representatives
+Parliament of Nepal	houses	House of the States of Nepal
+Sunderland City Council	houses	Unicameral
+Slough Borough Council	houses	Unicameral
+Nevada Legislature	houses	Nevada Senate
+Nevada Legislature	houses	Nevada Assembly
+Solihull Metropolitan Borough Council	houses	Unicameral
+Wyoming Legislature	houses	Wyoming Senate
+Wyoming Legislature	houses	Wyoming House of Representatives
+Louisiana State Legislature	houses	Louisiana Senate
+Louisiana State Legislature	houses	Louisiana House of Representatives
+Slovenian Parliament	houses	National Assembly
+Slovenian Parliament	houses	National Council
+Doncaster Metropolitan Borough Council	houses	Unicameral
+Cambridge City Council	houses	Unicameral
+Andhra Pradesh Legislature	houses	Andhra Pradesh Legislative Council
+Andhra Pradesh Legislature	houses	Andhra Pradesh Legislative Assembly
+Parliament of Cameroon	houses	Senate
+Parliament of Cameroon	houses	National Assembly
+Havering London Borough Council	houses	Unicameral
+Barking and Dagenham London Borough Council	houses	Unicameral
+Rhondda Cynon Taf County Borough Council	houses	Unicameral
+Kirklees Metropolitan Borough Council	houses	Unicameral
+Caerphilly County Borough Council	houses	Unicameral
+Exeter City Council	houses	Unicameral
+West Berkshire Council	houses	Unicameral
+Congress of the Republic of Texas	houses	Republic of Texas Senate
+Congress of the Republic of Texas	houses	Republic of Texas House of Representatives
+Council for Wales and Monmouthshire	houses	Unicameral
+Philippine Legislature	houses	Philippine Commission
+Philippine Legislature	houses	Philippine Assembly
+Imperial Legislative Council	houses	Council of State
+Imperial Legislative Council	houses	Central Legislative Assembly
+Parliament of Cantabria	houses	Unicameralism
+Parliament of Kenya	houses	Senate of Kenya
+Parliament of Kenya	houses	National Assembly
+Stoke-on-Trent City Council	houses	Unicameral
+Parliament of Senegal	houses	National Assembly of Senegal
+Trafford Metropolitan Borough Council	houses	Unicameral
+Assembly of Madrid	houses	Unicameral
+Portsmouth City Council	houses	Unicameral
+General Assembly of Prince Edward Island	houses	Legislative Council of Prince Edward Island
+General Assembly of Prince Edward Island	houses	House of Assembly of Prince Edward Island
+General Assembly of Prince Edward Island	houses	Legislative Assembly of Prince Edward Island
+National Assembly of Thailand	houses	Senate of Thailand
+National Assembly of Thailand	houses	House of Representatives of Thailand
+New Brunswick Legislature	houses	Legislative Council of New Brunswick
+New Brunswick Legislature	houses	Legislative Assembly of New Brunswick
+Parliament of Bhutan	houses	National Council of Bhutan
+Parliament of Bhutan	houses	National Assembly of Bhutan
+Poole Borough Council	houses	Unicameral
+City of Bradford Metropolitan District Council	houses	Unicameral
+Bracknell Forest Borough Council	houses	Unicameral
+Corts Valencianes	houses	Unicameral
+General Assembly of Newfoundland and Labrador	houses	Legislative Council of Newfoundland
+General Assembly of Newfoundland and Labrador	houses	Newfoundland and Labrador House of Assembly
+Tower Hamlets London Borough Council	houses	Unicameral
+Parliament of the Northern Territory	houses	Northern Territory Legislative Assembly
+Parliament of Upper Canada	houses	Legislative Council of Upper Canada
+Parliament of Upper Canada	houses	Legislative Assembly of Upper Canada
+Central Bedfordshire Council	houses	Unicameral
+Parliament of Ceylon	houses	House of Representatives of Ceylon
+Parliament of Ceylon	houses	Senate of Ceylon
+Aragonese Corts	houses	Unicameralism
+New Jersey Legislative Districts, 2001 apportionment	houses	New Jersey Senate
+New Jersey Legislative Districts, 2001 apportionment	houses	New Jersey General Assembly
+Arkansas General Assembly	houses	Arkansas Senate
+Arkansas General Assembly	houses	Arkansas House of Representatives
+South Dakota Legislature	houses	South Dakota Senate
+South Dakota Legislature	houses	South Dakota House of Representatives
+Norwich City Council	houses	Unicameral
+Greater Manchester Combined Authority	houses	Unicameral
+Brighton and Hove City Council	houses	Unicameral
+North East Lincolnshire Council	houses	Unicameral
+Rochdale Metropolitan Borough Council	houses	Unicameral
+Salford City Council	houses	Unicameral
+Bolton Metropolitan Borough Council	houses	Unicameral
+City of York Council	houses	Unicameral
+Basildon Borough Council	houses	Unicameral
+1st Illinois General Assembly	houses	Senate\nHouse of Representatives
+Kensington and Chelsea London Borough Council	houses	Unicameral
+Thurrock Council	houses	Unicameral
+95th Illinois General Assembly	houses	Senate\nHouse of Representatives
+Assembly of the Union	houses	House of Nationalities
+Assembly of the Union	houses	House of Representatives
+North Lincolnshire Council	houses	Unicameral
+General Assembly of the Ottoman Empire	houses	Senate of the Ottoman Empire
+General Assembly of the Ottoman Empire	houses	Chamber of Deputies
+North Somerset Council	houses	Unicameral
+New Jersey Legislative Districts, 2011 apportionment	houses	New Jersey Senate
+New Jersey Legislative Districts, 2011 apportionment	houses	New Jersey General Assembly
+Hartlepool Borough Council	houses	Unicameral
+National Legislature	houses	Council of States of South Sudan
+National Legislature	houses	National Legislative Assembly of South Sudan
+Parliament of British Columbia	houses	Legislative Assembly of British Columbia
+2nd Illinois General Assembly	houses	Senate\nHouse of Representatives
+Council of Oman	houses	Council of State of Oman
+Council of Oman	houses	Consultative Assembly of Oman
+Parliament of the Federation of Bosnia and Herzegovina	houses	House of Representatives of the Federation of Bosnia and Herzegovina
+Parliament of the Federation of Bosnia and Herzegovina	houses	House of Peoples of the Federation of Bosnia and Herzegovina
+Saskatchewan Legislature	houses	Legislative Assembly of Saskatchewan
+Bexley London Borough Council	houses	Unicameral
+Wakefield Metropolitan District Council	houses	Unicameral
+Te Kauhanganui	houses	Te Arataura
+Te Kauhanganui	houses	Te Kauhanganui
+Parliament of the Province of Canada	houses	Legislative Council of the Province of Canada
+Parliament of the Province of Canada	houses	Legislative Assembly of the Province of Canada
+Federal Parliament of Somalia	houses	Upper house
+Federal Parliament of Somalia	houses	Lower house
+Parliament of Malta	houses	House of Representatives of Malta
+Pledge of Loyalty Act 2006	houses	New South Wales Legislative Assembly
+Pledge of Loyalty Act 2006	houses	New South Wales Legislative Council
+YMCA NSW Youth Parliament	houses	New South Wales Legislative Assembly
+YMCA NSW Youth Parliament	houses	New South Wales Legislative Council
+68th Colorado General Assembly	houses	Colorado Senate
+68th Colorado General Assembly	houses	Colorado House of Representatives
+Parliament of Equatorial Guinea	houses	Senate
+Parliament of Equatorial Guinea	houses	Chamber of Deputies
+Cortes of Castilla-La Mancha	houses	Unicameralism
+East Riding of Yorkshire Council	houses	Unicameral
+Cortes of Castile and León	houses	Unicameralism
+Regional Assembly of Murcia	houses	Unicameralism
+Parliament of La Rioja	houses	Unicameralism
+Barnsley Metropolitan Borough Council	houses	Unicameral
+Oldham Metropolitan Borough Council	houses	Unicameral
+Liverpool City Region Combined Authority	houses	Unicameral
+Manitoba Legislature	houses	Legislative Council of Manitoba
+Manitoba Legislature	houses	Legislative Assembly of Manitoba
+Stockton-on-Tees Borough Council	houses	Unicameral
+Parliament of the Khmer Republic	houses	Senate of Cambodia
+Parliament of the Khmer Republic	houses	National Assembly
+3rd Illinois General Assembly	houses	Senate\nHouse of Representatives
+Wokingham Borough Council	houses	Unicameral
+Windsor and Maidenhead Borough Council	houses	Unicameral
+Torbay Council	houses	Unicameral
+St Helens Metropolitan Borough Council	houses	Unicameral
+4th Illinois General Assembly	houses	Senate\nHouse of Representatives
+5th Illinois General Assembly	houses	Senate\nHouse of Representatives
+North Tyneside Metropolitan Borough Council	houses	Unicameral
+Legislature of Yukon	houses	Yukon Territorial Council
+Legislature of Yukon	houses	Yukon Legislative Assembly
+West Yorkshire Combined Authority	houses	Unicameral
+Calderdale Metropolitan Borough Council	houses	Unicameral
+Tameside Metropolitan Borough Council	houses	Unicameral
+Bury Metropolitan Borough Council	houses	Unicameral
+Sheffield City Region Combined Authority	houses	Unicameral
+Rotherham Metropolitan Borough Council	houses	Unicameral
+North East Combined Authority	houses	Unicameral
+Kryvyi Rih Municipality	houses	Unicameral
+Parliament Security Services	houses	Rajya Sabha
+Parliament Security Services	houses	Lok Sabha
+City of Ely Council	houses	Unicameral
+Assembly of Extremadura	houses	Unicameralism
+South Tyneside Metropolitan Borough Council	houses	Unicameral
+7th National Assembly	houses	Senate of Nigeria
+7th National Assembly	houses	Nigerian House of Representatives
+6th National Assembly	houses	Senate of Nigeria
+6th National Assembly	houses	Nigerian House of Representatives
+5th National Assembly	houses	Senate of Nigeria
+5th National Assembly	houses	Nigerian House of Representatives
+8th National Assembly	houses	Senate of Nigeria
+8th National Assembly	houses	Nigerian House of Representatives
+Union Parliament	houses	Chamber of Nationalities
+Union Parliament	houses	Chamber of Deputies
+West Midlands Combined Authority	houses	Unicameral
+Tees Valley Combined Authority	houses	Unicameral
+Assembly of Ceuta	houses	Unicameralism
+Second Legislative Assembly of Uttar Pradesh	houses	Uttar Pradesh Legislative Assembly
+South Hams District Council	houses	Unicameral
+Parliament of Lower Canada	houses	Legislative Council of Lower Canada
+Parliament of Lower Canada	houses	Legislative Assembly of Lower Canada
+Assembly of Melilla	houses	Unicameralism
+Parliament of the Balearic Islands	houses	Unicameralism
+West of England Combined Authority	houses	Unicameral
+44th Parliament of Australia	houses	Australian Senate
+44th Parliament of Australia	houses	Australian House of Representatives

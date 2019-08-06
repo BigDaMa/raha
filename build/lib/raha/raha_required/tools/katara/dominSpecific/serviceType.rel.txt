@@ -1,0 +1,96 @@
+Greyhound Lines	serviceType	Intercity coach service
+AC Transit	serviceType	Bus service
+Metro Transit	serviceType	Transit bus
+Metro Transit	serviceType	Bus rapid transit
+Metro Transit	serviceType	Light rail
+Metro Transit	serviceType	Commuter rail
+Metro Transit	serviceType	Paratransit
+Wheel-Trans	serviceType	Door-to-door Paratransit
+Durham Region Transit	serviceType	Public transit
+Toronto Transit Commission bus system	serviceType	Local, express, night, minibus, bus rapid transit, shuttle, paratransit
+Mexico City Metrobús	serviceType	Bus rapid transit
+Stagecoach in Chesterfield	serviceType	Bus
+Ann Arbor Area Transportation Authority	serviceType	Bus service
+Ann Arbor Area Transportation Authority	serviceType	Paratransit
+Ann Arbor Area Transportation Authority	serviceType	Express bus
+EasyBus	serviceType	Coach
+IXpress	serviceType	Express bus service
+Dumbarton Express	serviceType	Bus service
+East London Transit	serviceType	Bus rapid transit
+Waukesha Metro Transit	serviceType	Bus service
+Waukesha Metro Transit	serviceType	Paratransit
+Bangalore Metropolitan Transport Corporation	serviceType	Local, limited-stop, express, and BRT bus service
+Oshawa Transit	serviceType	Public transit
+Niagara Parks Commission People Mover	serviceType	Bus service
+Bilbobus	serviceType	Bus service
+Erie Metropolitan Transit Authority	serviceType	Transit bus
+Roberts Hawaii	serviceType	Tour bus service
+Roberts Hawaii	serviceType	Airport shuttle
+Roberts Hawaii	serviceType	School bus contractor
+List of bus routes in the Bronx	serviceType	Public transport bus service
+Société Régionale Wallonne du Transport	serviceType	Bus service
+Société Régionale Wallonne du Transport	serviceType	Tram
+Société Régionale Wallonne du Transport	serviceType	Metro
+Société Régionale Wallonne du Transport	serviceType	Demand responsive transport
+Empresa Metropolitana de Transportes Urbanos de São Paulo	serviceType	Bus service
+First Student Canada	serviceType	School bus contractor
+First Student Canada	serviceType	Public transit
+Portage Area Regional Transportation Authority	serviceType	Bus service
+Portage Area Regional Transportation Authority	serviceType	Demand responsive transport
+Rose City Transit	serviceType	Public transport bus service
+Fort McMurray Transit	serviceType	Bus service
+Fort McMurray Transit	serviceType	Paratransit
+Megabus	serviceType	Intercity coach service
+St. Albert Transit	serviceType	Bus service
+St. Albert Transit	serviceType	Express bus
+St. Albert Transit	serviceType	Paratransit
+MetroWest Regional Transit Authority	serviceType	Bus, Paratransit
+Medicine Hat Transit	serviceType	Bus service
+Medicine Hat Transit	serviceType	Paratransit
+Eastern Shuttle	serviceType	Intercity coach service
+Matkahuolto	serviceType	Intercity coach service
+Wasaga Beach Transit	serviceType	Bus service
+Agassiz-Harrison Transit System	serviceType	Bus service
+Agassiz-Harrison Transit System	serviceType	Paratransit
+List of Société de transport de Montréal bus routes	serviceType	Bus service
+Züm	serviceType	Bus rapid transit
+Penticton Transit System	serviceType	Bus service
+Penticton Transit System	serviceType	Paratransit
+Indian Trails	serviceType	Coach
+Comox Valley Transit System	serviceType	Transit bus
+Comox Valley Transit System	serviceType	Paratransit
+Campbell River Transit System	serviceType	Bus service
+Campbell River Transit System	serviceType	Paratransit
+Hinton Transit	serviceType	Bus service
+Havelbus	serviceType	Bus
+Terre Haute Transit	serviceType	Bus service
+Terre Haute Transit	serviceType	Paratransit
+St. Joseph Transit	serviceType	Bus service
+St. Joseph Transit	serviceType	Paratransit
+Airport Transport Service	serviceType	On-airport and off-airport transfer, charter service
+Vilniaus autobusai	serviceType	Bus service
+Estuary Transit District	serviceType	Local bus
+Estuary Transit District	serviceType	Demand responsive transit
+Downtown	serviceType	Shuttle bus service
+Arvin Transit	serviceType	Bus service
+Pacific Coach Lines	serviceType	Coach bus
+Côte-des-Neiges	serviceType	20
+406 Express Newman	serviceType	20
+470 Express Pierrefonds	serviceType	20
+467 Express Saint-Michel	serviceType	20
+439 Express Pie-IX	serviceType	20
+427 Express Saint-Joseph	serviceType	20
+SPTrans	serviceType	Bus service
+Silver Star Holidays	serviceType	Bus
+Silver Star Holidays	serviceType	Coach
+Lasta Beograd	serviceType	Coach
+Delano Area Rapid Transit	serviceType	Bus service
+Blue Bus lines	serviceType	Public transport bus service
+Eastern Sierra Transit Authority	serviceType	Bus service
+Ride Norfolk	serviceType	Bus service
+Glušica Nikšić	serviceType	Coach
+4 Decembar Nikšić	serviceType	Coach
+TUVISA	serviceType	Bus service
+Kerala Urban Road Transport Corporation	serviceType	Local, limited-stop, express, and BRT bus service
+TranGO	serviceType	Public transport bus service
+Salt Spring Island Transit System	serviceType	Bus service

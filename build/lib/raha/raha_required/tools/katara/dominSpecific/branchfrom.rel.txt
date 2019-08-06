@@ -1,0 +1,558 @@
+Aorta	branchfrom	Ventricle
+Pudendal nerve	branchfrom	Sacral nerves S2, S3, S4
+Abducens nerve	branchfrom	Abducens nucleus
+Radial nerve	branchfrom	Posterior cord
+Median nerve	branchfrom	Lateral cord and Medial cord
+Brachial artery	branchfrom	Axillary artery
+Brachial plexus	branchfrom	Cervical spinal nerve 5
+Brachial plexus	branchfrom	Cervical spinal nerve 6
+Brachial plexus	branchfrom	Cervical spinal nerve 7
+Brachial plexus	branchfrom	Cervical spinal nerve 8
+Brachial plexus	branchfrom	Thoracic spinal nerve 1
+Sciatic nerve	branchfrom	Lumbar and sacral plexus
+Brachiocephalic artery	branchfrom	Aorta
+Deep artery of the thigh	branchfrom	Femoral artery
+Femoral artery	branchfrom	External iliac artery
+Axillary nerve	branchfrom	Posterior cord
+Ulnar nerve	branchfrom	C8, T1
+Oculomotor nerve	branchfrom	Oculomotor nucleus
+Oculomotor nerve	branchfrom	Edinger-Westphal nucleus
+Greater occipital nerve	branchfrom	2.0
+Great auricular nerve	branchfrom	Cervical plexus
+Dorsal scapular nerve	branchfrom	C5 of brachial plexus
+Lesser occipital nerve	branchfrom	Cervical plexus
+Long thoracic nerve	branchfrom	Brachial plexus
+Phrenic nerve	branchfrom	C3-c5 of cervical plexus
+Subclavian artery	branchfrom	Aortic arch
+Subclavian artery	branchfrom	Brachiocephalic artery
+Mandibular nerve	branchfrom	Trigeminal nerve
+External carotid artery	branchfrom	Common carotid artery
+Supraorbital nerve	branchfrom	Ophthalmic division
+Supraorbital nerve	branchfrom	Frontal nerve
+Pulmonary artery	branchfrom	Right ventricle
+Internal carotid artery	branchfrom	Common carotid artery
+Celiac plexus	branchfrom	Celiac branches of vagus nerve
+Genitofemoral nerve	branchfrom	Lumbar plexus
+Radial artery	branchfrom	Brachial artery
+Ductus arteriosus	branchfrom	Pulmonary artery
+Umbilical artery	branchfrom	Internal iliac artery
+Cervical plexus	branchfrom	Cervical nerves
+Popliteal artery	branchfrom	Femoral artery
+Abdominal aorta	branchfrom	Thoracic aorta
+Artery of Adamkiewicz	branchfrom	Abdominal aorta
+Artery of Adamkiewicz	branchfrom	Posterior intercostal artery
+Middle meningeal artery	branchfrom	Internal maxillary artery
+Internal pudendal artery	branchfrom	Internal iliac artery
+Musculocutaneous nerve	branchfrom	Lateral cord
+Renal artery	branchfrom	Abdominal aorta
+Inferior alveolar nerve	branchfrom	Mandibular nerve
+Suprascapular nerve	branchfrom	C5–C6 of brachial plexus
+Recurrent laryngeal nerve	branchfrom	Vagus nerve
+Basilar artery	branchfrom	Vertebral artery
+Vertebral artery	branchfrom	Subclavian artery
+Celiac artery	branchfrom	Abdominal aorta
+Stellate ganglion	branchfrom	inferior cervical ganglion, first thoracic ganglia
+Descending aorta	branchfrom	Aorta
+Superior mesenteric artery	branchfrom	Abdominal aorta
+Anterior cerebral artery	branchfrom	Internal carotid artery
+Otic ganglion	branchfrom	Lesser petrosal nerve
+Pterygopalatine ganglion	branchfrom	Maxillary nerve and nerve of pterygoid canal
+Auriculotemporal nerve	branchfrom	Mandibular nerve
+Chorda tympani	branchfrom	Facial nerve
+Central retinal artery	branchfrom	Ophthalmic artery
+Ophthalmic artery	branchfrom	Internal carotid artery
+Hyaloid artery	branchfrom	Central retinal artery
+Posterior tibial artery	branchfrom	Popliteal artery
+Anterior tibial artery	branchfrom	Popliteal artery
+Ulnar artery	branchfrom	Brachial artery
+Axillary artery	branchfrom	Subclavian artery
+Internal thoracic artery	branchfrom	Subclavian artery
+Inferior mesenteric artery	branchfrom	Abdominal aorta
+Splenic artery	branchfrom	Celiac artery
+Gastroduodenal artery	branchfrom	Common hepatic artery
+Common hepatic artery	branchfrom	Celiac artery
+Dorsalis pedis artery	branchfrom	Anterior tibial artery
+External iliac artery	branchfrom	Common iliac artery
+Common iliac artery	branchfrom	Abdominal aorta
+Auricular branch of vagus nerve	branchfrom	Vagus nerve
+Marginal artery of the colon	branchfrom	Superior mesenteric artery
+Marginal artery of the colon	branchfrom	Inferior mesenteric artery
+Bronchial artery	branchfrom	Thoracic aorta
+Middle cerebral artery	branchfrom	Internal carotid arteries
+Tibial nerve	branchfrom	sacral plexus via sciatic nerve
+Facial artery	branchfrom	External carotid artery
+Right coronary artery	branchfrom	Ascending aorta
+Left coronary artery	branchfrom	Ascending aorta
+Common carotid artery	branchfrom	Aortic arch
+Common carotid artery	branchfrom	Brachiocephalic artery
+Lateral thoracic artery	branchfrom	Axillary artery
+Anterior spinal artery	branchfrom	Vertebral artery
+Left gastric artery	branchfrom	Celiac artery
+Ciliary ganglion	branchfrom	Nasociliary nerve
+Buccal nerve	branchfrom	Mandibular nerve
+Greater petrosal nerve	branchfrom	Facial nerve
+Anterior choroidal artery	branchfrom	Internal carotid artery
+Posterior cerebral artery	branchfrom	Basilar artery
+Lateral cord	branchfrom	brachial plexus - anterior divisions from the upper and middle trunks
+Thoracic aorta	branchfrom	Descending aorta
+Superficial temporal artery	branchfrom	External carotid artery
+Thoracoacromial artery	branchfrom	Axillary artery
+Sacral plexus	branchfrom	Lumbosacral trunk
+Sacral plexus	branchfrom	Sacral nerves
+Common peroneal nerve	branchfrom	sacral plexus via sciatic nerve
+Intercostal nerves	branchfrom	Thoracic nerves
+Cochlear nerve	branchfrom	Vestibulocochlear nerve
+Vestibular nerve	branchfrom	Vestibulocochlear nerve
+Medial pectoral nerve	branchfrom	Medial cord
+Medial cord	branchfrom	brachial plexus - lower trunk
+Posterior cord	branchfrom	brachial plexus - posterior divisions of the three trunks
+Thoracodorsal nerve	branchfrom	Posterior cord
+Subscapular artery	branchfrom	Axillary artery
+Posterior interosseous nerve	branchfrom	Deep branch of the radial nerve
+Posterior interosseous artery	branchfrom	Ulnar artery
+Radial recurrent artery	branchfrom	Radial artery
+Superficial peroneal nerve	branchfrom	Common peroneal nerve
+Nasociliary nerve	branchfrom	Ophthalmic nerve
+Ophthalmic nerve	branchfrom	Trigeminal nerve
+Maxillary nerve	branchfrom	Trigeminal nerve
+Internal iliac artery	branchfrom	Common iliac artery
+Sensory root of ciliary ganglion	branchfrom	Nasociliary nerve
+Deep peroneal nerve	branchfrom	Common peroneal nerve
+Inferior epigastric artery	branchfrom	External iliac artery
+Superior epigastric artery	branchfrom	Internal thoracic artery
+Hepatic artery proper	branchfrom	Common hepatic artery
+Posterior inferior cerebellar artery	branchfrom	Vertebral artery
+Aortic arch	branchfrom	Ascending aorta
+Anterior inferior cerebellar artery	branchfrom	Basilar artery
+Superior cerebellar artery	branchfrom	Basilar artery
+Occipital artery	branchfrom	External carotid artery
+Posterior cutaneous nerve of thigh	branchfrom	Sacral plexus
+Inferior gluteal nerve	branchfrom	Sacral plexus
+Superior gluteal nerve	branchfrom	Sacral plexus
+Lumbar plexus	branchfrom	Thoracic nerves
+Lumbar plexus	branchfrom	Lumbar nerves
+Iliohypogastric nerve	branchfrom	Lumbar plexus
+Ilioinguinal nerve	branchfrom	Lumbar plexus
+Lateral cutaneous nerve of thigh	branchfrom	Lumbar plexus
+Obturator nerve	branchfrom	Lumbar plexus L2-L4
+Anococcygeal nerve	branchfrom	Coccygeal plexus
+Perforating cutaneous nerve	branchfrom	S2-S3, Sacral plexus
+Stylomastoid artery	branchfrom	Posterior auricular artery
+Cystic artery	branchfrom	Right hepatic artery
+Straight arterioles of kidney	branchfrom	Arcuate arteries of the kidney
+Straight arterioles of kidney	branchfrom	Efferent arteriole
+Ascending aorta	branchfrom	Left ventricle
+Lingual nerve	branchfrom	Mandibular nerve
+Efferent arteriole	branchfrom	Glomerular capillaries
+Lateral cutaneous nerve of forearm	branchfrom	Musculocutaneous nerve
+Medial cutaneous nerve of forearm	branchfrom	Medial cord
+Medial cutaneous nerve of arm	branchfrom	T1
+Lingual artery	branchfrom	External carotid artery
+Sural nerve	branchfrom	Medial sural cutaneous nerve, communicating branch with the common fibular nerve
+Uterine artery	branchfrom	Internal iliac artery
+Frontal nerve	branchfrom	Ophthalmic nerve
+Lacrimal nerve	branchfrom	Ophthalmic nerve
+Supratrochlear nerve	branchfrom	Frontal nerve
+Superior thyroid artery	branchfrom	External carotid artery
+Zygomatic nerve	branchfrom	Maxillary nerve
+Iliolumbar artery	branchfrom	Internal iliac artery
+Superior gluteal artery	branchfrom	Internal iliac artery
+Lateral sacral artery	branchfrom	Internal iliac artery
+Vaginal artery	branchfrom	Internal iliac artery
+Vaginal artery	branchfrom	Uterine artery
+Inferior gluteal artery	branchfrom	Internal iliac artery
+Obturator artery	branchfrom	Internal iliac artery
+Inferior vesical artery	branchfrom	Internal iliac artery
+Middle rectal artery	branchfrom	Internal iliac artery
+Superior vesical artery	branchfrom	umbilical artery, or anterior trunk of internal iliac artery
+Perineal artery	branchfrom	Internal pudendal artery
+Inferior rectal artery	branchfrom	Internal pudendal artery
+Urethral artery	branchfrom	internal pudendal artery or perineal artery
+Thyrocervical trunk	branchfrom	Subclavian artery
+Circumflex scapular artery	branchfrom	Subscapular artery
+Common interosseous artery	branchfrom	Ulnar artery
+Greater pancreatic artery	branchfrom	Splenic artery
+Inferior phrenic arteries	branchfrom	Abdominal aorta
+Left gastroepiploic artery	branchfrom	Splenic artery
+Median sacral artery	branchfrom	Abdominal aorta
+Right gastroepiploic artery	branchfrom	Gastroduodenal artery
+Buccal artery	branchfrom	Maxillary artery
+Right colic artery	branchfrom	Superior mesenteric artery
+Left colic artery	branchfrom	Inferior mesenteric artery
+Middle colic artery	branchfrom	Superior mesenteric artery
+Transverse cervical artery	branchfrom	Thyrocervical trunk
+Esophageal branches of thoracic part of aorta	branchfrom	Descending aorta
+Short gastric arteries	branchfrom	Splenic artery
+Right gastric artery	branchfrom	Proper hepatic artery
+Inferior thyroid artery	branchfrom	Thyrocervical trunk
+Middle suprarenal arteries	branchfrom	Abdominal aorta
+Ileocolic artery	branchfrom	Superior mesenteric artery
+Posterior auricular artery	branchfrom	External carotid artery
+Transverse facial artery	branchfrom	Superficial temporal artery
+Inferior alveolar artery	branchfrom	Maxillary artery
+Lateral circumflex femoral artery	branchfrom	Deep femoral artery
+Medial circumflex femoral artery	branchfrom	Deep femoral artery
+Medial circumflex femoral artery	branchfrom	Femoral artery
+Anterior interosseous artery	branchfrom	Common interosseous artery
+Inferior labial artery	branchfrom	Facial artery
+Superior labial artery	branchfrom	Facial artery
+Ascending pharyngeal artery	branchfrom	External carotid artery
+Lumbar arteries	branchfrom	Abdominal aorta
+Anterior ethmoidal artery	branchfrom	Ophthalmic artery
+Pericardiacophrenic artery	branchfrom	Internal thoracic artery
+Inferior pancreaticoduodenal artery	branchfrom	Superior mesenteric artery
+Superficial palmar arch	branchfrom	Ulnar artery
+Superficial palmar arch	branchfrom	Superficial palmar branch of the radial artery
+Superior pancreaticoduodenal artery	branchfrom	Gastroduodenal artery
+Deep palmar arch	branchfrom	Radial artery
+Deep palmar arch	branchfrom	Deep palmar branch of ulnar artery
+Inferior mesenteric plexus	branchfrom	Abdominal aortic plexus
+Mental nerve	branchfrom	Inferior alveolar nerve
+Deep temporal nerves	branchfrom	Mandibular nerve
+Infratrochlear nerve	branchfrom	Nasociliary nerve
+Nasopalatine nerve	branchfrom	Maxillary nerve
+Nasopalatine nerve	branchfrom	Pterygopalatine ganglion
+External nasal nerve	branchfrom	ophthalmic nerve
+Perineal nerve	branchfrom	Pudendal nerve
+Zygomaticotemporal nerve	branchfrom	Maxillary nerve
+Zygomaticofacial nerve	branchfrom	Zygomatic nerve
+Upper subscapular nerve	branchfrom	Posterior cord
+Lower subscapular nerve	branchfrom	Posterior cord
+Intercostobrachial nerve	branchfrom	intercostal nerves #2 and #3
+Lateral pectoral nerve	branchfrom	Lateral cord
+Meningeal branch of the mandibular nerve	branchfrom	Mandibular nerve
+Labyrinthine artery	branchfrom	Anterior inferior cerebellar artery
+Suprascapular artery	branchfrom	Thyrocervical trunk
+Supraclavicular nerves	branchfrom	C3–C4 of cervical plexus
+Ethmoidal nerves	branchfrom	Nasociliary nerve
+Long ciliary nerves	branchfrom	Nasociliary nerve
+Anterior ethmoidal nerve	branchfrom	Nasociliary nerve
+Transverse cervical nerve	branchfrom	Cervical plexus
+Mylohyoid nerve	branchfrom	Inferior alveolar nerve
+Internal laryngeal nerve	branchfrom	Superior laryngeal nerve
+External laryngeal nerve	branchfrom	Superior laryngeal nerve
+Maxillary artery	branchfrom	External carotid artery
+Descending palatine artery	branchfrom	Maxillary artery
+Sphenopalatine artery	branchfrom	Maxillary artery
+Ascending palatine artery	branchfrom	Facial artery
+Greater palatine artery	branchfrom	Descending palatine artery
+Ovarian artery	branchfrom	Abdominal aorta
+Inferior ulnar collateral artery	branchfrom	Brachial artery
+Superior ulnar collateral artery	branchfrom	Brachial artery
+Superior ulnar collateral artery	branchfrom	Inferior ulnar collateral artery
+Deep artery of arm	branchfrom	Brachial artery
+Lateral pterygoid nerve	branchfrom	Mandibular nerve
+Abdominal aortic plexus	branchfrom	Celiac plexus
+Abdominal aortic plexus	branchfrom	Superior mesenteric plexus
+Inferior ganglion of glossopharyngeal nerve	branchfrom	Glossopharyngeal nerve
+Deep branch of radial nerve	branchfrom	Radial nerve
+Muscular branches of the radial nerve	branchfrom	Radial nerve
+Superficial branch of radial nerve	branchfrom	Radial nerve
+Lacrimal artery	branchfrom	Ophthalmic artery
+Deep auricular artery	branchfrom	Maxillary artery
+Infraorbital artery	branchfrom	Maxillary artery
+Lesser petrosal nerve	branchfrom	Tympanic plexus
+Posterior ethmoidal nerve	branchfrom	Nasociliary nerve
+Posterior meningeal artery	branchfrom	Ascending pharyngeal artery
+Posterior ethmoidal artery	branchfrom	Ophthalmic artery
+Pulmonary branches of vagus nerve	branchfrom	Vagus nerve
+Celiac ganglia	branchfrom	Thoracic splanchnic nerves
+Medial pterygoid nerve	branchfrom	Mandibular nerve
+Left pulmonary artery	branchfrom	Pulmonary artery
+Right pulmonary artery	branchfrom	Pulmonary artery
+Posterior interventricular artery	branchfrom	Right coronary artery
+Circumflex branch of left coronary artery	branchfrom	Left coronary artery
+Vaginal branches of uterine artery	branchfrom	Uterine artery
+Short ciliary nerves	branchfrom	Ciliary ganglion
+Medial plantar nerve	branchfrom	Tibial nerve
+Lateral plantar nerve	branchfrom	Tibial nerve
+Pterygopalatine nerves	branchfrom	Maxillary nerve
+Inferior palpebral nerve	branchfrom	Infraorbital nerve
+Pharyngeal nerve	branchfrom	Pterygopalatine ganglion
+Deep petrosal nerve	branchfrom	Internal carotid plexus
+Nerve of pterygoid canal	branchfrom	Greater petrosal nerve
+Nerve of pterygoid canal	branchfrom	Deep petrosal nerve
+Masseteric nerve	branchfrom	Mandibular nerve
+Infraorbital plexus	branchfrom	Facial nerve
+Infraorbital plexus	branchfrom	Superior labial nerve
+Peritubular capillaries	branchfrom	Efferent arteriole
+Posterior humeral circumflex artery	branchfrom	Axillary artery
+Anterior humeral circumflex artery	branchfrom	Axillary artery
+Subcostal nerve	branchfrom	Thoracic nerve
+Subcostal arteries	branchfrom	Thoracic aorta
+Superficial epigastric artery	branchfrom	Femoral artery
+Inferior ganglion of vagus nerve	branchfrom	Vagus nerve
+Superior thoracic artery	branchfrom	Axillary artery
+Thoracic splanchnic nerves	branchfrom	Thoracic ganglia
+Subclavian nerve	branchfrom	C5–C6 of brachial plexus
+Superior lateral cutaneous nerve of arm	branchfrom	Axillary nerve
+Posterior cutaneous nerve of arm	branchfrom	Radial nerve
+Posterior cutaneous nerve of forearm	branchfrom	Radial nerve
+Spermatic plexus	branchfrom	Renal plexus
+Aorticorenal ganglion	branchfrom	Celiac ganglion
+Superior mesenteric plexus	branchfrom	Celiac plexus
+Infraorbital nerve	branchfrom	Maxillary nerve
+Lumboinguinal nerve	branchfrom	Genitofemoral nerve
+Superior rectal artery	branchfrom	Inferior mesenteric artery
+Anterior cecal artery	branchfrom	Ileocolic artery
+Posterior cecal artery	branchfrom	Ileocolic artery
+Appendicular artery	branchfrom	Ileocolic artery
+Palmar metacarpal arteries	branchfrom	Deep palmar arch
+Princeps pollicis artery	branchfrom	Radial artery
+Dorsal carpal arch	branchfrom	Dorsal carpal branch of the radial artery
+Dorsal carpal arch	branchfrom	Dorsal carpal branch of the ulnar artery
+Radial artery of index finger	branchfrom	Deep palmar arch
+Lateral plantar artery	branchfrom	Posterior tibial artery
+Plantar metatarsal arteries	branchfrom	Plantar arch
+Medial plantar artery	branchfrom	Posterior tibial artery
+Deep plantar artery	branchfrom	Dorsalis pedis artery
+Anterior medial malleolar artery	branchfrom	Anterior tibial artery
+Anterior tibial recurrent artery	branchfrom	Anterior tibial artery
+Dorsal nasal artery	branchfrom	Ophthalmic artery
+Angular artery	branchfrom	Facial artery
+Masseteric artery	branchfrom	Maxillary artery
+Inferior suprarenal artery	branchfrom	Renal artery
+Posterior auricular nerve	branchfrom	Facial nerve
+Buccal branches of the facial nerve	branchfrom	Facial nerve
+Marginal mandibular branch of the facial nerve	branchfrom	Facial nerve
+Deep cervical artery	branchfrom	Costocervical trunk
+Costocervical trunk	branchfrom	Subclavian artery
+Interosseous recurrent artery	branchfrom	Posterior interosseous artery
+Posterior ulnar recurrent artery	branchfrom	Ulnar artery
+Anterior ulnar recurrent artery	branchfrom	Ulnar artery
+Common palmar digital arteries	branchfrom	Superficial palmar arch
+Pharyngeal branch of vagus nerve	branchfrom	Vagus nerve
+Petrous portion of the internal carotid artery	branchfrom	Internal carotid artery
+Medial palpebral arteries	branchfrom	Ophthalmic artery
+Supraorbital artery	branchfrom	Ophthalmic artery
+Supratrochlear artery	branchfrom	Ophthalmic artery
+Short posterior ciliary arteries	branchfrom	Ophthalmic artery
+Long posterior ciliary arteries	branchfrom	Ophthalmic artery
+Anterior ciliary arteries	branchfrom	Ophthalmic artery
+Artery of the pterygoid canal	branchfrom	Maxillary artery
+Deep temporal arteries	branchfrom	Maxillary artery
+Middle temporal artery	branchfrom	Superficial temporal artery
+Posterior scrotal nerves	branchfrom	Perineal nerve
+Piriformis nerve	branchfrom	Sacral plexus
+Obturator internus nerve	branchfrom	Sacral plexus
+Nerve to quadratus femoris	branchfrom	Sacral plexus
+Dorsal artery of the penis	branchfrom	Internal pudendal artery
+Dorsal nerve of the penis	branchfrom	Pudendal nerve
+Pancreatic branches of splenic artery	branchfrom	Splenic artery
+Dorsal metacarpal arteries	branchfrom	Dorsal carpal arch
+Inferior lateral cutaneous nerve of arm	branchfrom	Radial nerve
+Anterior interosseous nerve	branchfrom	Median nerve
+Palmar branch of ulnar nerve	branchfrom	Ulnar nerve
+Palmar branch of the median nerve	branchfrom	Median nerve
+Common palmar digital nerves of median nerve	branchfrom	Median nerve
+Proper palmar digital nerves of median nerve	branchfrom	Common palmar digital nerves of median nerve
+Dorsal branch of ulnar nerve	branchfrom	Ulnar nerve
+Gonadal artery	branchfrom	Abdominal aorta
+Testicular artery	branchfrom	Abdominal aorta
+Accessory meningeal artery	branchfrom	Maxillary artery
+Temporal branches of the facial nerve	branchfrom	Facial nerve
+Zygomatic branches of the facial nerve	branchfrom	Facial nerve
+Cervical branch of the facial nerve	branchfrom	Facial nerve
+Nerve to the stapedius	branchfrom	Facial nerve
+Stylohyoid branch of facial nerve	branchfrom	Facial nerve
+Greater palatine nerve	branchfrom	Pterygopalatine ganglion
+Adrenal artery	branchfrom	Superior: Inferior phrenic artery
+Adrenal artery	branchfrom	Middle: Abdominal aorta
+Adrenal artery	branchfrom	Inferior: Renal artery
+Submental artery	branchfrom	Facial artery
+Thyroid ima artery	branchfrom	Brachiocephalic, others
+Zygomatico-orbital artery	branchfrom	Middle temporal artery
+Superior tympanic artery	branchfrom	Middle meningeal artery
+Cremasteric artery	branchfrom	Inferior epigastric artery
+Thoracodorsal artery	branchfrom	Subscapular artery
+Medial collateral artery	branchfrom	Profunda brachii
+Radial collateral artery	branchfrom	Profunda brachii
+Palmar carpal arch	branchfrom	Palmar carpal branch of radial artery and palmar carpal branch of ulnar artery
+Palmar carpal branch of radial artery	branchfrom	Radial artery
+Dorsal carpal branch of the ulnar artery	branchfrom	Ulnar artery
+Proper palmar digital arteries	branchfrom	Common palmar digital arteries
+Deep circumflex iliac artery	branchfrom	External iliac artery
+Perforating arteries	branchfrom	Profunda femoris artery
+Superficial circumflex iliac artery	branchfrom	Femoral artery
+Superficial external pudendal artery	branchfrom	Femoral artery
+Deep external pudendal artery	branchfrom	Femoral artery
+Anterior lateral malleolar artery	branchfrom	Anterior tibial artery
+Medial tarsal arteries	branchfrom	Arteria dorsalis pedis
+Lateral tarsal artery	branchfrom	Dorsalis pedis artery
+Posterior tibial recurrent artery	branchfrom	Anterior tibial artery
+Descending genicular artery	branchfrom	Femoral artery
+Arcuate artery of the foot	branchfrom	Arteria dorsalis pedis
+Sural arteries	branchfrom	Popliteal artery
+Accompanying artery of ischiadic nerve	branchfrom	Inferior gluteal artery
+Deep artery of the penis	branchfrom	Internal pudendal artery
+Artery of bulb of penis	branchfrom	Internal pudendal artery
+Artery to the ductus deferens	branchfrom	Superior vesical artery or Inferior vesical artery
+Plantar arch	branchfrom	Lateral plantar artery
+Plantar arch	branchfrom	Deep plantar artery
+Posterior spinal artery	branchfrom	Vertebral or
+Posterior spinal artery	branchfrom	Posterior inferior cerebellar artery
+Meningeal branches of vertebral artery	branchfrom	Vertebral artery
+Third occipital nerve	branchfrom	3.0
+Middle cervical ganglion	branchfrom	Middle cardiac nerve
+Sacral splanchnic nerves	branchfrom	Sacral ganglia
+Ovarian plexus	branchfrom	Renal plexus
+Parietal branch of superficial temporal artery	branchfrom	Superficial temporal artery
+Lateral nasal branch of facial artery	branchfrom	Facial artery
+Tonsillar branch of the facial artery	branchfrom	Facial artery
+Lumbosacral trunk	branchfrom	Lumbar nerves
+Saphenous nerve	branchfrom	Femoral nerve
+Coccygeal plexus	branchfrom	Sacral nerve
+Coccygeal plexus	branchfrom	Coccygeal nerve
+Right marginal branch of right coronary artery	branchfrom	Right coronary artery
+Esophageal plexus	branchfrom	vagus nerve and sympathetic trunk
+Posterior labial nerves	branchfrom	Pudendal nerve
+Dorsal nerve of clitoris	branchfrom	Pudendal nerve
+Anterior interventricular branch of left coronary artery	branchfrom	Left coronary artery
+Atrial branches of coronary arteries	branchfrom	Right coronary artery
+Left marginal artery	branchfrom	Circumflex branch of left coronary artery
+Anterior superior alveolar arteries	branchfrom	Infraorbital artery
+Superior cardiac nerve	branchfrom	Superior cervical ganglion
+Middle cardiac nerve	branchfrom	Middle cervical ganglion
+Dorsal pancreatic artery	branchfrom	Splenic artery
+Recurrent branch of the median nerve	branchfrom	Median nerve
+Superior suprarenal artery	branchfrom	Inferior phrenic artery
+Genital branch of genitofemoral nerve	branchfrom	Genitofemoral nerve
+Dorsal artery of clitoris	branchfrom	Internal pudendal artery
+Artery of bulb of vestibule	branchfrom	Internal pudendal artery
+Interlobular arteries	branchfrom	Arcuate arteries of the kidney
+Arcuate arteries of the kidney	branchfrom	Interlobar artery
+Interlobar arteries	branchfrom	renal artery, via segmental arteries and lobar arteries
+Trabecular arteries	branchfrom	Splenic artery
+Arcuate vessels of uterus	branchfrom	Uterine artery
+Superior hypophysial artery	branchfrom	Ophthalmic portion of internal carotid artery
+Inferior hypophysial artery	branchfrom	Cavernous part of internal carotid artery
+Perineal branches of posterior femoral cutaneous nerve	branchfrom	Posterior femoral cutaneous nerve
+Cavernous nerves of penis	branchfrom	Prostatic plexus
+Frontal branch of superficial temporal artery	branchfrom	Superficial temporal artery
+Mylohyoid branch of inferior alveolar artery	branchfrom	Inferior alveolar artery
+Pontine arteries	branchfrom	Basilar artery
+Glandular branches of facial artery	branchfrom	Facial artery
+Pterygoid branches of maxillary artery	branchfrom	Maxillary artery
+Pharyngeal branches of glossopharyngeal nerve	branchfrom	Glossopharyngeal nerve
+Tympanic plexus	branchfrom	Caroticotympanic nerves
+Tympanic plexus	branchfrom	Tympanic nerve
+Saccular nerve	branchfrom	Vestibular nerve
+Caroticotympanic arteries	branchfrom	Petrous portion of the internal carotid artery
+Lesser palatine arteries	branchfrom	Descending palatine artery
+Anterior auricular branches	branchfrom	Superficial temporal artery
+Esophageal branches of left gastric artery	branchfrom	Left gastric artery
+Branch of glossopharyngeal nerve to carotid sinus	branchfrom	Glossopharyngeal nerve
+Lesser palatine nerve	branchfrom	Pterygopalatine ganglion
+Superficial palmar branch of radial artery	branchfrom	Radial artery
+Dorsal carpal branch of the radial artery	branchfrom	Radial artery
+Palmar carpal branch of ulnar artery	branchfrom	Ulnar artery
+Posterior branches of sacral nerves	branchfrom	Sacral nerves
+Deep palmar branch of ulnar artery	branchfrom	Ulnar artery
+Muscular branches of ulnar nerve	branchfrom	Ulnar nerve
+Deep branch of ulnar nerve	branchfrom	Palmar branch of ulnar nerve
+Superficial branch of ulnar nerve	branchfrom	Ulnar nerve
+Medial dorsal cutaneous nerve	branchfrom	Superficial fibular nerve
+Intermediate dorsal cutaneous nerve	branchfrom	Superficial fibular nerve
+Superior cluneal nerves	branchfrom	Posterior branches of the lumbar nerves
+Inferior cluneal nerves	branchfrom	Posterior cutaneous nerve of the thigh
+Medial cluneal nerves	branchfrom	Posterior branches of sacral nerves
+Medial sural cutaneous nerve	branchfrom	Tibial nerve
+Lateral sural cutaneous nerve	branchfrom	Common peroneal nerve
+Posterior branch of obturator nerve	branchfrom	Obturator nerve
+Anterior branch of obturator nerve	branchfrom	Obturator nerve
+Anterior cutaneous branches of the femoral nerve	branchfrom	Femoral nerve
+Cutaneous branch of the obturator nerve	branchfrom	Anterior branch of obturator nerve
+Circumflex fibular artery	branchfrom	Posterior tibial artery
+Medial calcaneal branches of the tibial nerve	branchfrom	Tibial nerve
+Paramedian arteries	branchfrom	Posterior cerebral artery
+Anterolateral central arteries	branchfrom	Middle cerebral artery
+Dorsal metatarsal arteries	branchfrom	Arcuate artery of the foot
+Segmental arteries of kidney	branchfrom	Renal artery
+Posterior branches of thoracic nerves	branchfrom	Thoracic nerves
+Posterior branch of coccygeal nerve	branchfrom	Coccygeal nerve
+Posterior branches of the lumbar nerves	branchfrom	Lumbar nerves
+Posterior branches of cervical nerves	branchfrom	Cervical nerves
+Superior phrenic arteries	branchfrom	Thoracic aorta
+Mediastinal branches of thoracic part of aorta	branchfrom	Thoracic aorta
+Thymic branches of internal thoracic artery	branchfrom	Internal thoracic artery
+Lateral palpebral arteries	branchfrom	Lacrimal artery
+Posterior gastric branches of posterior vagal trunk	branchfrom	Posterior vagal trunk
+Hepatic branches of anterior vagal trunk	branchfrom	Anterior vagal trunk
+Anterior gastric branches of anterior vagal trunk	branchfrom	Anterior vagal trunk
+Celiac branches of vagus nerve	branchfrom	Anterior gastric branches of anterior vagal trunk
+Celiac branches of vagus nerve	branchfrom	Posterior gastric branches of posterior vagal trunk
+Thalamogeniculate artery	branchfrom	Posterior cerebral artery
+Caroticotympanic nerves	branchfrom	Internal carotid plexus
+Deep artery of clitoris	branchfrom	Internal pudendal artery
+Posterior labial arteries	branchfrom	Internal pudendal artery
+Anterior scrotal arteries	branchfrom	Deep external pudendal artery
+Posterior scrotal arteries	branchfrom	Internal pudendal artery
+Anterior scrotal nerves	branchfrom	Ilioinguinal nerve
+Jejunal arteries	branchfrom	Superior mesenteric artery
+Ileal arteries	branchfrom	Superior mesenteric artery
+Ileal branch of ileocolic artery	branchfrom	Ileocolic artery
+Colic branch of ileocolic artery	branchfrom	Ileocolic artery
+Supraduodenal artery	branchfrom	Gastroduodenal artery
+Tubal branch of uterine artery	branchfrom	Uterine artery
+Ovarian branch of uterine artery	branchfrom	Uterine artery
+Tubal branches of ovarian artery	branchfrom	Fallopian tube
+Middle rectal plexus	branchfrom	Inferior hypogastric plexus
+Artery of round ligament of uterus	branchfrom	Inferior epigastric artery
+Anterior labial nerves	branchfrom	Ilioinguinal nerve
+Ureteral branches of renal artery	branchfrom	Renal artery
+Deep branch of the perineal nerve	branchfrom	Perineal nerve
+Medial crural cutaneous branches of saphenous nerve	branchfrom	Saphenous nerve
+Infrapatellar branch of saphenous nerve	branchfrom	Saphenous nerve
+Lateral dorsal cutaneous nerve	branchfrom	Sural nerve
+Lateral calcaneal branches of sural nerve	branchfrom	Sural nerve
+Superficial branch of lateral plantar nerve	branchfrom	Lateral plantar nerve
+Dorsal digital nerves of ulnar nerve	branchfrom	Dorsal branch of ulnar nerve
+Dorsal digital nerves of radial nerve	branchfrom	Radial nerve
+Common plantar digital nerves of lateral plantar nerve	branchfrom	Lateral plantar nerve
+Common plantar digital nerves of medial plantar nerve	branchfrom	Medial plantar nerve
+Proper plantar digital nerves of lateral plantar nerve	branchfrom	Lateral plantar nerve
+Proper plantar digital nerves of medial plantar nerve	branchfrom	Medial plantar nerve
+Acetabular branch of medial circumflex femoral artery	branchfrom	Medial circumflex femoral artery
+Ascending branch of medial circumflex femoral artery	branchfrom	Medial circumflex femoral artery
+Deep branch of medial circumflex femoral artery	branchfrom	Medial circumflex femoral artery
+Superficial branch of medial circumflex femoral artery	branchfrom	Medial circumflex femoral artery
+Articular branches of descending genicular artery	branchfrom	Descending genicular artery
+Saphenous branch of descending genicular artery	branchfrom	Descending genicular artery
+Dorsal digital arteries of foot	branchfrom	Dorsal metatarsal arteries
+Common plantar digital arteries	branchfrom	Plantar metatarsal arteries
+Proper plantar digital arteries	branchfrom	Common plantar digital arteries
+Proper palmar digital nerves of ulnar nerve	branchfrom	Common palmar digital nerves of ulnar nerve
+Common palmar digital nerves of ulnar nerve	branchfrom	Superficial branch of ulnar nerve
+Sternocleidomastoid branches of occipital artery	branchfrom	Occipital artery
+Occipital branches of occipital artery	branchfrom	Occipital artery
+Stapedial branch of posterior auricular artery	branchfrom	Posterior auricular artery
+Petrosal branch of middle meningeal artery	branchfrom	Middle meningeal artery
+Inferior root of ansa cervicalis	branchfrom	C2 and C3 of cervical plexus
+Nerve to tensor veli palatini	branchfrom	Medial pterygoid nerve
+Internal nasal branches of infraorbital nerve	branchfrom	Infraorbital nerve
+Inferior posterior nasal branches of greater palatine nerve	branchfrom	Greater palatine nerve
+Inferior tympanic artery	branchfrom	Ascending pharyngeal artery
+Lingual branches of glossopharyngeal nerve	branchfrom	Glossopharyngeal nerve
+Tonsillar branches of glossopharyngeal nerve	branchfrom	Glossopharyngeal nerve
+Stylopharyngeal branch of glossopharyngeal nerve	branchfrom	Glossopharyngeal nerve
+Sympathetic root of ciliary ganglion	branchfrom	Internal carotid plexus
+Parasympathetic root of ciliary ganglion	branchfrom	Edinger-Westphal nucleus
+Posterior lateral nasal arteries	branchfrom	Sphenopalatine artery
+Posterior septal branches of sphenopalatine artery	branchfrom	Sphenopalatine artery
+Mental branch of inferior alveolar artery	branchfrom	Inferior alveolar artery
+Auricular branch of posterior auricular artery	branchfrom	Posterior auricular artery
+Occipital branch of posterior auricular artery	branchfrom	Posterior auricular artery
+Auricular branch of occipital artery	branchfrom	Occipital artery
+Descending branch of occipital artery	branchfrom	Occipital artery
+Inferior dental plexus	branchfrom	Inferior alveolar nerve
+Aortic bifurcation	branchfrom	Abdominal aorta
+Meningeal branches of spinal nerve	branchfrom	Spinal nerve
+Perforating branches of internal thoracic artery	branchfrom	Internal thoracic artery
+Fibular artery	branchfrom	usually tibial-fibular trunk, occasionally popliteal artery
+Artery of Percheron	branchfrom	Posterior cerebral artery
+Dorsal digital arteries of hand	branchfrom	Dorsal metacarpal arteries
+Iliac	branchfrom	Abdominal aortic plexus
+Ureteric plexus	branchfrom	Renal plexus
+Ureteric plexus	branchfrom	Abdominal aortic plexus
+Ureteric plexus	branchfrom	Superior hypogastric plexus
+Ureteric plexus	branchfrom	Inferior hypogastric plexus

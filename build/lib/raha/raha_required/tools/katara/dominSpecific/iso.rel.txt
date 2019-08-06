@@ -1,0 +1,7111 @@
+Arabic	iso	ar
+Arabic	iso	ara
+American Sign Language	iso	ase
+Afrikaans	iso	af
+Afrikaans	iso	afr
+Armenian language	iso	hy
+Aragonese language	iso	an
+Aragonese language	iso	arg
+Basque language	iso	eu
+Basque language	iso	eus
+Bulgarian language	iso	bg
+Bulgarian language	iso	bul
+Burgundians	iso	none
+Bambara language	iso	bm
+Bambara language	iso	bam
+Breton language	iso	br
+Breton language	iso	bre
+Brahui language	iso	brh
+Blissymbols	iso	zbl
+Khmer language	iso	km
+Khmer language	iso	khm
+Catalan language	iso	ca
+Catalan language	iso	cat
+Chinese language	iso	zh
+Chinese language	iso	zho
+Cornish language	iso	kw
+Cornish language	iso	cor
+Czech language	iso	cs
+Czech language	iso	ces
+Corsican language	iso	co
+Corsican language	iso	cos
+Danish language	iso	da
+Danish language	iso	dan
+Dyula language	iso	dyu
+Esperanto	iso	eo
+Esperanto	iso	epo
+Etruscan language	iso	ett
+Estonian language	iso	et
+Estonian language	iso	est
+French language	iso	fr
+French language	iso	fri
+French language	iso	fra
+Faroese language	iso	fo
+Faroese language	iso	fao
+Persian language	iso	fa
+Persian language	iso	fas
+German language	iso	de
+Greek language	iso	el
+Gallurese dialect	iso	sdn
+Hebrew language	iso	he
+Hebrew language	iso	heb
+Hindi	iso	hi
+Hindi	iso	hin
+Hungarian language	iso	hu
+Hungarian language	iso	hun
+Hiberno-English	iso	none
+Hawaiian language	iso	haw
+Hausa language	iso	ha
+Hausa language	iso	hau
+Italian language	iso	it
+Italian language	iso	ita
+Ido language	iso	io
+Ido language	iso	ido
+Interlingua	iso	ia
+Interlingua	iso	ina
+Japanese language	iso	ja
+Japanese language	iso	jpn
+Korean language	iso	ko
+Korean language	iso	kor
+Klingon language	iso	tlh
+Kashubian language	iso	csb
+Latin	iso	la
+Latin	iso	lat
+West Low German	iso	nds
+Luxembourgish language	iso	lb
+Luxembourgish language	iso	ltz
+Lincos	iso	none
+Maltese language	iso	mt
+Maltese language	iso	mlt
+Macedonian language	iso	mk
+Macedonian language	iso	mkd
+Mandarin Chinese	iso	cmn
+Marathi language	iso	mr
+Marathi language	iso	mar
+Mobilian Jargon	iso	mod
+Norwegian language	iso	no – inclusive code
+Norwegian language	iso	Individual codes:
+Norwegian language	iso	nb – Bokmål
+Norwegian language	iso	nn – Nynorsk
+Norwegian language	iso	nor
+Novial	iso	nov
+Norn language	iso	nrn
+Occitan language	iso	oc
+Occitan language	iso	oci
+Old Prussian language	iso	prg
+Old Norse	iso	non
+Old English	iso	ang
+Occidental language	iso	ie
+Occidental language	iso	ile
+Polish language	iso	pl
+Polish language	iso	pol
+Portuguese language	iso	pt
+Portuguese language	iso	por
+Punjabi language	iso	pa
+Punjabi language	iso	pan
+Quechuan languages	iso	qu
+Quechuan languages	iso	que, qwe
+Quechuan languages	iso	que
+Russian language	iso	ru
+Russian language	iso	rus
+Romansh language	iso	rm
+Romansh language	iso	roh
+Romanian language	iso	ro
+Romanian language	iso	ron
+Swedish language	iso	sv
+Swedish language	iso	swe
+Spanish language	iso	es
+Spanish language	iso	spa
+Logudorese dialect	iso	src
+Sardinian language	iso	sc
+Sardinian language	iso	srd
+Swiss German	iso	gsw
+Sanskrit	iso	sa
+Sanskrit	iso	san
+Serbo-Croatian	iso	sh
+Serbo-Croatian	iso	scr
+Serbo-Croatian	iso	hbs
+Slovak language	iso	sk
+Slovak language	iso	slk
+Slovene language	iso	sl
+Slovene language	iso	slv
+Scottish Gaelic	iso	gd
+Scottish Gaelic	iso	gla
+Swahili language	iso	sw
+Swahili language	iso	swa
+Tamil language	iso	ta
+Tamil language	iso	tam
+Turkish language	iso	tr
+Turkish language	iso	tur
+Tswana language	iso	tn
+Tswana language	iso	tsn
+Tagalog language	iso	tl
+Tagalog language	iso	tgl
+Urdu	iso	ur
+Urdu	iso	urd
+Vietnamese language	iso	vi
+Vietnamese language	iso	vie
+Volapük	iso	vo
+Volapük	iso	vol
+Welsh language	iso	cy
+Welsh language	iso	cym
+Yiddish	iso	yi
+Yiddish	iso	yid
+Indonesian language	iso	id
+Indonesian language	iso	ind
+Malayalam	iso	ml
+Malayalam	iso	mal
+Kannada	iso	kn
+Kannada	iso	kan
+Pali	iso	pi
+Pali	iso	pli
+Telugu language	iso	te
+Telugu language	iso	tel
+Kurdish languages	iso	ku
+Kurdish languages	iso	kur
+Sudovian language	iso	xsv
+Old Church Slavonic	iso	cu
+Old Church Slavonic	iso	chu
+Latvian language	iso	lv
+Latvian language	iso	lav
+Michif language	iso	crg
+Belarusian language	iso	be
+Belarusian language	iso	bel
+Ladin language	iso	lld
+Ukrainian language	iso	uk
+Ukrainian language	iso	ukr
+Egyptian language	iso	egy
+International Sign	iso	ils
+British Sign Language	iso	bfi
+Coptic language	iso	cop
+Thai language	iso	th
+Thai language	iso	tha
+Polari	iso	pld
+Duala language	iso	dua
+Duala language	iso	none
+Akkadian language	iso	akk
+Middle English	iso	enm
+Māori language	iso	mi
+Māori language	iso	mri
+Cree language	iso	cr
+Cree language	iso	cre
+Tetum language	iso	tet
+Tetum language	iso	tdt
+Igbo language	iso	ig
+Igbo language	iso	ibo
+Hakka Chinese	iso	hak
+Nyabwa language	iso	nwb
+Syriac language	iso	syc
+Balochi language	iso	bal
+Zulu language	iso	zu
+Zulu language	iso	zul
+Scots language	iso	sco
+Sumerian language	iso	sux
+Hindustani language	iso	hi, ur
+Hindustani language	iso	hin, urd
+Ge'ez language	iso	gez
+Adûnaic	iso	none
+Enochian	iso	none
+Moab	iso	obm
+Uzbek language	iso	uz
+Uzbek language	iso	uzb
+Kazakh language	iso	kk
+Kazakh language	iso	kaz
+Tok Pisin	iso	tpi
+Serbian language	iso	sr
+Serbian language	iso	srp
+Guarani language	iso	gug
+Bislama	iso	bi
+Bislama	iso	bis
+Lingala	iso	ln
+Lingala	iso	lin
+Lithuanian language	iso	lt
+Lithuanian language	iso	lit
+Cimmerians	iso	none
+Alsatian dialect	iso	gsw
+Kyrgyz language	iso	ky
+Kyrgyz language	iso	kir
+Luganda	iso	lg
+Luganda	iso	lug
+Sabines	iso	sbv
+Tigrinya language	iso	ti
+Tigrinya language	iso	tir
+Amharic	iso	am
+Amharic	iso	amh
+Wolof language	iso	wo
+Wolof language	iso	wol
+Xhosa language	iso	xh
+Xhosa language	iso	xho
+Istro-Romanian language	iso	ruo
+Umbrian language	iso	xum
+Oscan language	iso	osc
+Tuvaluan language	iso	tvl
+Pashto	iso	ps
+Pashto	iso	pus
+Classical Chinese	iso	lzh
+Kanuri language	iso	kr
+Kanuri language	iso	kau
+Malay language	iso	ms
+Malay language	iso	msa
+Lao language	iso	lo
+Lao language	iso	lao
+Gujarati language	iso	gu
+Gujarati language	iso	guj
+Southern Ndebele language	iso	nr
+Southern Ndebele language	iso	nbl
+Dalmatian language	iso	dlm
+Vandalic language	iso	xvn
+Romani language	iso	rom
+Yue Chinese	iso	yue
+Siwa language	iso	siz
+Zenaga language	iso	zen
+Tuareg languages	iso	tmh
+Ancient Greek	iso	grc
+Black Speech	iso	none
+Polabian language	iso	pox
+Knaanic language	iso	czk
+Rusyn language	iso	rue
+Romano-Serbian language	iso	rsb
+Manchu language	iso	mnc
+Cimbrian language	iso	cim
+Bavarian language	iso	bar
+Galindian language	iso	xgl
+Georgian language	iso	ka
+Georgian language	iso	kat
+Mongolian language	iso	mn
+Mongolian language	iso	mon
+Russenorsk	iso	none
+Manglish	iso	none
+Hernici	iso	xhr
+Marsi	iso	ims
+Rotokas language	iso	roo
+Luba-Kasai language	iso	lua
+Luba-Kasai language	iso	none
+Marrucini	iso	umc
+Paeligni	iso	pgn
+Burushaski	iso	bsk
+Bokmål	iso	nb
+Bokmål	iso	nob
+Dungan language	iso	dng
+Nynorsk	iso	nn
+Nynorsk	iso	nno
+Northern Low Saxon	iso	nds
+Hazaragi dialect	iso	haz
+Avestan	iso	ae
+Avestan	iso	ave
+Navajo language	iso	nv
+Navajo language	iso	nav
+Bosnian language	iso	bs
+Bosnian language	iso	bos
+Standard German	iso	none
+Okinawan language	iso	ryu
+Hutterite German	iso	geh
+Pennsylvania German language	iso	pdc
+Plautdietsch language	iso	pdt
+Mohawk language	iso	moh
+Central Kurdish	iso	ckb
+Chinook Jargon	iso	chn
+Chechen language	iso	ce
+Chechen language	iso	che
+East Frisian Low Saxon	iso	frs
+Taiwanese Sign Language	iso	tss
+Gullah language	iso	gul
+Arvanitika	iso	aat
+Modern English	iso	en
+Modern English	iso	eng
+Assamese language	iso	as
+Assamese language	iso	asm
+Lydian language	iso	xld
+Lycian language	iso	xlc
+Tatar language	iso	tt
+Tatar language	iso	tat
+Azerbaijani language	iso	az
+Azerbaijani language	iso	aze
+Colonia Tovar dialect	iso	gct
+Ket language	iso	ket
+Shelta	iso	sth
+Southern Min	iso	nan
+Ubykh language	iso	uby
+Westphalian language	iso	wep
+Chagatai language	iso	chg
+Abkhaz language	iso	ab
+Abkhaz language	iso	abk
+Northern Thai language	iso	nod
+Dyirbal language	iso	dbl
+Cheyenne language	iso	chy
+Judeo-Persian	iso	jpr
+Ugaritic	iso	uga
+Pirahã language	iso	myp
+Mura language	iso	myp
+Tanacross language	iso	tcb
+Nuxalk language	iso	blc
+Westron	iso	none
+Filipino language	iso	fil
+Votic language	iso	vot
+Middle Chinese	iso	ltc
+Sona language	iso	none
+Livonian language	iso	liv
+Curonian language	iso	xcu
+Nivkh language	iso	niv
+Ga language	iso	gaa
+Tulu language	iso	tcy
+Chukchi language	iso	ckt
+Veps language	iso	vep
+Karelian language	iso	krl
+Turkmen language	iso	tk
+Turkmen language	iso	tuk
+Provençal dialect	iso	none
+Kodava language	iso	kfa
+Mirandese language	iso	mwl
+Modern Greek	iso	el
+Modern Greek	iso	ell
+Upper Sorbian language	iso	hsb
+Lower Sorbian language	iso	dsb
+Abaza language	iso	abq
+Sundanese language	iso	su
+Sundanese language	iso	sun
+Walloon language	iso	wa
+Walloon language	iso	wln
+Orokolo language	iso	oro
+Old Frisian	iso	ofs
+Pictish language	iso	xpi
+Cumbric	iso	xcb
+Chemakum language	iso	xch
+Camunic language	iso	xcc
+Friulian language	iso	fur
+Swabian German	iso	swg
+Old French	iso	fro
+Chamorro language	iso	ch
+Chamorro language	iso	cha
+Sotho language	iso	st
+Sotho language	iso	sot
+Jamamadí language	iso	jaa
+Sindhi language	iso	sd
+Sindhi language	iso	snd
+Dutton Speedwords	iso	dws
+Kinyarwanda	iso	rw
+Kinyarwanda	iso	kin
+Burmese language	iso	my
+Burmese language	iso	mya
+Wichita language	iso	wic
+Tajik language	iso	tg
+Tajik language	iso	tgk
+Samoan language	iso	sm
+Samoan language	iso	smo
+Oromo language	iso	om
+Oromo language	iso	orm
+Uyghur language	iso	ug
+Uyghur language	iso	uig
+Aymara language	iso	ay
+Aymara language	iso	aym
+Odia language	iso	or
+Odia language	iso	ori
+Shona language	iso	sn
+Shona language	iso	sna
+Aleut language	iso	ale
+Hindko dialect	iso	hnd
+Silesian German	iso	sli
+Omagua language	iso	omg
+Potiguára language	iso	pog
+Mari language	iso	chm
+Yerkish	iso	none
+Campidanese dialect	iso	sro
+Sassarese language	iso	sec
+Hittite language	iso	hit
+Istriot language	iso	ist
+Cebuano language	iso	ceb
+Huilliche language	iso	huh
+Mapuche language	iso	arn
+Mam language	iso	mam
+Lingua Franca Nova	iso	lfn
+Silesian language	iso	szl
+Yoruba language	iso	yo
+Yoruba language	iso	yor
+Cherokee language	iso	chr
+Taa language	iso	nmn
+Papiamento	iso	pap
+Jèrriais	iso	nrf
+Baoulé language	iso	bci
+Vedic Sanskrit	iso	vsn
+Sinhalese language	iso	si
+Sinhalese language	iso	sin
+Javanese language	iso	jv
+Javanese language	iso	jav
+Iban language	iso	iba
+Gayo language	iso	gay
+Buginese language	iso	bug
+Balinese language	iso	ban
+Kawi language	iso	kaw
+Makassarese language	iso	mak
+Minangkabau language	iso	min
+Madurese language	iso	mad
+Nicaraguan Sign Language	iso	ncs
+Bashkir language	iso	ba
+Bashkir language	iso	bak
+Afar language	iso	aa
+Afar language	iso	aar
+Fijian language	iso	fj
+Fijian language	iso	fij
+Dzongkha	iso	dz
+Dzongkha	iso	dzo
+Kirundi	iso	rn
+Kirundi	iso	run
+Kashmiri language	iso	ks
+Kashmiri language	iso	kas
+Latino sine flexione	iso	none
+Ligurian language	iso	xlg
+Sango language	iso	sg
+Sango language	iso	sag
+Tongan language	iso	to
+Tongan language	iso	ton
+Swazi language	iso	ss
+Swazi language	iso	ssw
+Tsonga language	iso	ts
+Tsonga language	iso	tso
+Zhuang languages	iso	za
+Zhuang languages	iso	zha
+Nǁng language	iso	ngh
+Auslan	iso	asf
+Algonquin language	iso	alq
+French Sign Language	iso	fsl
+Dacian language	iso	xdc
+Galatian language	iso	xga
+Eyak language	iso	eya
+Wenedyk	iso	none
+Sranan Tongo	iso	srn
+Martha's Vineyard Sign Language	iso	mre
+Avar language	iso	av
+Avar language	iso	ava
+Old Persian	iso	peo
+Europanto	iso	none
+Middle Dutch	iso	dum
+Middle Low German	iso	gml
+Middle High German	iso	gmh
+Dena'ina language	iso	tfn
+Phoenician language	iso	phn
+Nauruan language	iso	na
+Nauruan language	iso	nau
+Aequian language	iso	xae
+Rohirric	iso	none
+Alemannic German	iso	gsw
+Brithenig	iso	bzt
+Zimakani language	iso	zik
+Palatine German language	iso	pfl
+Old High German	iso	goh
+Old Latin	iso	none
+Xavante language	iso	xav
+Moghol language	iso	mhj
+Marwari language	iso	mwr
+Mozarabic language	iso	mxi
+Hattic language	iso	xht
+Somali language	iso	so
+Somali language	iso	som
+Riksmål	iso	nor
+East Low German	iso	nds
+Venda language	iso	ve
+Venda language	iso	ven
+Bemba language	iso	bem
+Hopi language	iso	hop
+Adele language	iso	ade
+Kaonde language	iso	kqn
+Zizilivakan language	iso	ziz
+Lozi language	iso	loz
+Kajuk language	iso	eka
+Lunda language	iso	lun
+Tahitian language	iso	ty
+Tahitian language	iso	tah
+Palauan language	iso	pau
+Sicilian language	iso	scn
+Ivernic language	iso	none
+Maithili language	iso	mai
+Dakhini	iso	dcc
+Haitian Creole	iso	ht
+Haitian Creole	iso	hat
+Old East Slavic	iso	orv
+Bhojpuri language	iso	bho
+Cajun French	iso	frc
+Picard language	iso	pcd
+Selonian language	iso	sxl
+Old Chinese	iso	och
+Lapine language	iso	none
+Thracian language	iso	txh
+Atlantean language	iso	none
+Chewa language	iso	ny
+Chewa language	iso	nya
+Chewa language	iso	none
+Slavey language	iso	den
+Wu Chinese	iso	wuu
+Tuvan language	iso	tyv
+Church Slavonic language	iso	cu
+Church Slavonic language	iso	chu
+Southern Sami language	iso	sma
+Soqotri language	iso	sqt
+Láadan	iso	ldn
+Piedmontese language	iso	pms
+Colognian dialect	iso	ksh
+Low German	iso	nds
+Wyandot language	iso	wya
+Elamite language	iso	elx
+Isan language	iso	tts
+Bundeli language	iso	bns
+Ewe language	iso	ee
+Ewe language	iso	ewe
+Khwarezmian language	iso	xco
+Hawaiian Pidgin	iso	hwc
+Torres Strait Creole	iso	tcs
+Korandje language	iso	kcy
+Zarma language	iso	dje
+Komi-Zyrian language	iso	kpv
+Saraiki dialect	iso	skr
+Lakota language	iso	lkt
+Rumsen language	iso	none
+Taliska	iso	none
+Primitive Quendian	iso	none
+Common Eldarin	iso	none
+Inari Sami language	iso	smn
+Kildin Sami language	iso	sjd
+Komi-Permyak language	iso	koi
+Erzya language	iso	myv
+Evenki language	iso	evn
+Shoshoni language	iso	shh
+Calusa	iso	none
+Balti language	iso	bft
+Pascagoula	iso	none
+Beja language	iso	bej
+Quiripi language	iso	qyp
+Kabardian language	iso	kbd
+Blackfoot language	iso	bla
+Lombard language	iso	lmo
+Kongo language	iso	kg
+Kongo language	iso	kon
+O'odham language	iso	ood
+Phrygian language	iso	xpg
+Adyghe language	iso	ady
+Hän language	iso	haa
+Ojibwe language	iso	oj
+Ojibwe language	iso	oji
+Gen language	iso	gej
+West Frisian language	iso	fy
+West Frisian language	iso	fry
+Saterland Frisian language	iso	stq
+North Frisian language	iso	frr
+Sirenik Eskimo language	iso	ysr
+Limburgish language	iso	li
+Limburgish language	iso	lim
+Pangasinan language	iso	pag
+Modern Hebrew	iso	heb
+Ottoman Turkish language	iso	ota
+Finnish Sign Language	iso	fse
+Bulgar language	iso	xbo
+Hassaniya Arabic	iso	mey
+Sylheti language	iso	syl
+Manipuri language	iso	mni
+Kemi Sami language	iso	sjk
+Kristang language	iso	mcm
+Niuean language	iso	niu
+Mi'kmaq language	iso	mic
+Ammonite language	iso	none
+Meroitic language	iso	xmr
+Khasi language	iso	kha
+Edomite language	iso	xdm
+Santali language	iso	sat
+Carolinian language	iso	cal
+Chipewyan language	iso	chp
+Forro Creole	iso	cri
+Korlai Indo-Portuguese	iso	vkp
+Angolar Creole	iso	aoa
+Principense Creole	iso	pre
+Macanese Patois	iso	mzs
+Gwich’in language	iso	gwi
+Amorite language	iso	none
+Dogrib language	iso	dgr
+Dura language	iso	drq
+Lepontic language	iso	xlp
+Messapian language	iso	cms
+Hurrian language	iso	xhu
+Ongota language	iso	bxe
+Menominee language	iso	mez
+Urartian language	iso	xur
+Inuvialuktun	iso	iku
+Inuvialuktun	iso	ikt
+Semigallian language	iso	xzm
+Extremaduran language	iso	ext
+Lezgian language	iso	lez
+Punic language	iso	xpu
+N'Ko alphabet	iso	nqo
+Fang language	iso	fan
+Malay trade and creole languages	iso	mbf
+Malay trade and creole languages	iso	pea
+Malay trade and creole languages	iso	ccm
+Malay trade and creole languages	iso	msi
+Malay trade and creole languages	iso	mfp
+Malay trade and creole languages	iso	mhp
+Malay trade and creole languages	iso	btj
+Malay trade and creole languages	iso	goq
+Malay trade and creole languages	iso	mkn
+Malay trade and creole languages	iso	bpq
+Malay trade and creole languages	iso	pmy
+Uripiv language	iso	upv
+Laz language	iso	lzz
+Mingrelian language	iso	xmf
+Moksha language	iso	mdf
+Svan language	iso	sva
+Meänkieli dialects	iso	fit
+Arawak language	iso	arw
+Chavacano	iso	cbk
+Massachusett language	iso	wam
+Greenlandic language	iso	kl
+Greenlandic language	iso	kal
+Sicels	iso	scx
+Seychellois Creole	iso	crs
+Classic Maya language	iso	emy
+Riograndenser Hunsrückisch German	iso	hrx
+Jin Chinese	iso	cjy
+Bouyei language	iso	pcc
+Inuktitut	iso	iu
+Inuktitut	iso	iku
+Inuktitut	iso	ike
+Sedang language	iso	sed
+Kapampangan language	iso	pam
+Norman language	iso	nrf
+Middle French	iso	frm
+Judeo-Arabic languages	iso	jrb
+Karaim language	iso	kdr
+Zaza language	iso	zza
+Mycenaean Greek	iso	gmy
+Guernésiais	iso	nrf
+Ingrian language	iso	izh
+Egyptian Arabic	iso	arz
+Andalusian Arabic	iso	xaa
+Bats language	iso	bbl
+Elfdalian	iso	ovd
+Washo language	iso	was
+ǂ’Amkoe language	iso	huc
+ǁXegwi language	iso	xeg
+ǀXam language	iso	xam
+ǃGãǃne language	iso	none
+Juǀ'hoan dialect	iso	ktz
+Jiwarli dialect	iso	dze
+Sekele language	iso	vaj
+ǂKx'ao-ǁ'ae	iso	aue
+Naro language	iso	nhr
+Gǀui dialect	iso	gwj
+Atong language	iso	aot
+A-Pucikwar language	iso	apq
+Aari language	iso	aiw
+Abanyom language	iso	abm
+Abau language	iso	aau
+Hixkaryana language	iso	hix
+Shua language	iso	shg
+Tama language	iso	tma
+Kwadi language	iso	kwz
+ǂAakhoe dialect	iso	hgm
+Sandawe language	iso	sad
+Hadza language	iso	hts
+Sudanese Arabic	iso	apd
+Abé language	iso	aba
+Awjila language	iso	auj
+Sokna language	iso	swn
+Guanche language	iso	gnc
+Gilbertese language	iso	gil
+Montenegrin language	iso	none
+Shilha language	iso	shi
+Judeo-Berber language	iso	jbe
+Ahom language	iso	aho
+Huizhou Chinese	iso	czh
+Walser German	iso	wae
+Marshallese language	iso	mh
+Marshallese language	iso	mah
+Gāndhārī language	iso	pgd
+Tlingit language	iso	tli
+Mòcheno language	iso	mhn
+Ingush language	iso	inh
+Altai language	iso	alt
+Samaritan Hebrew	iso	smp
+Fur language	iso	fvr
+Fon language	iso	fon
+Chuvash language	iso	cv
+Chuvash language	iso	chv
+Jakaltek language	iso	jac
+Wymysorys language	iso	wym
+Judeo-Italian languages	iso	itk
+Chané language	iso	caj
+Äynu language	iso	aib
+Northern Kalapuya language	iso	nrt
+Central Kalapuya language	iso	kyl
+Yoncalla language	iso	sxk
+Mossi language	iso	mos
+Idiom Neutral	iso	none
+Lacandon language	iso	lac
+Neapolitan language	iso	nap
+Noric language	iso	nrc
+Sened language	iso	sds
+Shawiya language	iso	shy
+Osage language	iso	osa
+Winnebago language	iso	win
+Mandan language	iso	mhq
+Crow language	iso	cro
+Konkani language	iso	kok
+Magahi language	iso	mag
+Nuosu language	iso	ii
+Nuosu language	iso	iii
+Kabyle language	iso	kab
+Crimean Tatar language	iso	crh
+Gorani language	iso	hac
+Ripuarian language	iso	ksh
+Palaic language	iso	plq
+Rhaetian language	iso	xrr
+Aja language	iso	aja
+Bantik language	iso	bnq
+Manado Malay	iso	xmm
+Qashqai language	iso	qxq
+Nogai language	iso	nog
+Old Saxon	iso	osx
+Shenwa language	iso	cnu
+Pitkern language	iso	pih
+Bikya language	iso	byb
+Wakhi language	iso	wbl
+Central Siberian Yupik language	iso	ess
+Soddo language	iso	gru
+Iberian language	iso	xib
+Middle Persian	iso	pal
+Bashkardi language	iso	bsg
+Korean dialects	iso	kor
+Bench language	iso	bcq
+Maguindanao language	iso	mdh
+Maranao language	iso	mrw
+Tausug language	iso	tsg
+Laal language	iso	gdm
+Gulf Arabic	iso	afb
+Shabo language	iso	sbf
+Jalaa language	iso	cet
+Mpra language	iso	none
+Newar language	iso	new
+Hunnic language	iso	xhc
+Cuman language	iso	qwm
+Nuer language	iso	nus
+Beothuk language	iso	bue
+Shambala language	iso	ksb
+Bagirmi language	iso	bmi
+Faliscan language	iso	xfa
+Forth and Bargy dialect	iso	yol
+New Zealand Sign Language	iso	nzs
+Yaghnobi language	iso	yai
+Livvi-Karelian language	iso	olo
+Kujargé language	iso	vkj
+Shan language	iso	shn
+Yaeyama language	iso	rys
+Miyako language	iso	mvi
+Yonaguni language	iso	yoi
+Yucatec Maya language	iso	yua
+Oropom language	iso	none
+Ticuna language	iso	tca
+Amdang language	iso	amj
+Inupiat language	iso	ik
+Inupiat language	iso	ipk
+Komi language	iso	kv
+Komi language	iso	kom
+Yevanic language	iso	yej
+Huarijio language	iso	var
+Kajkavian	iso	kjv
+Makalero dialect	iso	mjb
+Bajan Creole	iso	bjs
+Old Japanese	iso	ojp
+Goguryeo language	iso	zkg
+Elymian language	iso	xly
+Guugu Yimithirr language	iso	kky
+Yankunytjatjara dialect	iso	kdd
+Ghotuo language	iso	aaa
+Antakarinya dialect	iso	ant
+Kalaw Lagaw Ya	iso	mwp
+Romang language	iso	rmm
+Tobian language	iso	tox
+Herero language	iso	hz
+Herero language	iso	her
+Choctaw language	iso	cho
+Kutchi language	iso	kfr
+Sogdian language	iso	sog
+Kumzari language	iso	zum
+Kikuyu language	iso	ki
+Kikuyu language	iso	kik
+Saurashtra language	iso	saz
+Quinqui jargon	iso	quq
+Ch’ol language	iso	ctu
+Penang Sign Language	iso	psg
+Malaysian Sign Language	iso	xml
+Santa language	iso	sce
+Neo-Mandaic	iso	mid
+Mbula language	iso	mna
+Suba language	iso	sxb
+Saho language	iso	ssy
+Malaysian language	iso	zsm
+Sanhaja de Srair language	iso	sjs
+Ghomara language	iso	gho
+Riffian language	iso	rif
+Zoroastrian Dari language	iso	gbz
+Udmurt language	iso	udm
+Maore dialect	iso	swb
+Old Nubian language	iso	onw
+Harauti language	iso	hoj
+Ludic language	iso	lud
+Tagoi language	iso	tag
+Taiap language	iso	gpn
+Delaware languages	iso	del
+Northern Sami	iso	se
+Northern Sami	iso	sme
+Louisiana Creole French	iso	lou
+Tokelauan language	iso	tkl
+Yaghan language	iso	yag
+Matumbi language	iso	mgw
+Yuchi language	iso	yuc
+Weyto language	iso	woy
+Bung language	iso	bqd
+Bete language	iso	byf
+Tigre language	iso	tig
+Adamorobe Sign Language	iso	ads
+Sabaean language	iso	xsa
+Tzotzil language	iso	tzo
+Tzeltal language	iso	tzh
+Irish Sign Language	iso	isg
+Nubi language	iso	kcn
+Lufu language	iso	ldq
+Lengue language	iso	bxc
+Frankish language	iso	frk
+Annobonese Creole	iso	fab
+Pothohari dialect	iso	phr
+Tsat language	iso	huq
+Samogitian dialect	iso	sgs
+Tumbuka language	iso	tum
+Mandinka language	iso	mnk
+Southern Kurdish	iso	sdh
+Nenets languages	iso	yrk
+Mlahsô language	iso	lhs
+Fer language	iso	kah
+Yeni language	iso	yei
+Muscogee language	iso	mus
+Gayle language	iso	gic
+Lanc-Patuá creole	iso	kmv
+Yaqui language	iso	yaq
+Lomavren language	iso	rmi
+Badaga language	iso	bfq
+Angami language	iso	njm
+Aimaq dialect	iso	aiq
+Askunu language	iso	ask
+Alyutor language	iso	alr
+Awadhi language	iso	awa
+Nafaanra	iso	nfr
+Masbateño language	iso	msb
+Ratagnon language	iso	btn
+Pontic Greek	iso	pnt
+Cappadocian Greek	iso	cpg
+Zuni language	iso	zun
+Carib language	iso	car
+Ligbi language	iso	lig
+Alabama language	iso	akz
+Laki dialect	iso	lki
+Koasati language	iso	cku
+Liberian Kreyol language	iso	lir
+Cuyonon language	iso	cyo
+Caluyanon language	iso	clu
+Paiwan language	iso	pwn
+Yugh language	iso	yug
+Chickasaw language	iso	cic
+Cypriot Maronite Arabic	iso	acy
+Karakalpak language	iso	kaa
+Gan Chinese	iso	gan
+Tunisian Arabic	iso	aeb
+Eteocretan language	iso	ecr
+Kumyk language	iso	kum
+Slavomolisano dialect	iso	svm
+Tewa language	iso	tew
+Burig language	iso	prx
+Halkomelem	iso	hur
+Oneida language	iso	one
+Võro language	iso	vro
+Sucite language	iso	sep
+Jutlandic dialect	iso	jut
+Yurats language	iso	rts
+Minyanka language	iso	myk
+Kaska language	iso	kkz
+Dagbani language	iso	dag
+Lishana Deni	iso	lsd
+Hiri Motu	iso	ho
+Hiri Motu	iso	hmo
+Lishán Didán	iso	trg
+Lishanid Noshan	iso	aij
+Karachay-Balkar language	iso	krc
+Saramaccan language	iso	srm
+Jamaican Patois	iso	jam
+Median language	iso	xme
+Hindi Belt	iso	none
+Hulaulá language	iso	huy
+Celtiberian language	iso	xce
+Daza language	iso	dzg
+Old Norwegian	iso	none
+Khitan language	iso	zkt
+Jurchen language	iso	juc
+Bukusu dialect	iso	bxk
+Nobiin language	iso	fia
+Mesopotamian Arabic	iso	acm
+Saek language	iso	skb
+Modern Standard Arabic	iso	arb
+Urum language	iso	uum
+Old Irish	iso	sga
+Primitive Irish	iso	pgl
+Niellim language	iso	nie
+Achumawi language	iso	acv
+Atsugewi language	iso	atw
+Ahtna language	iso	aht
+Nanerigé language	iso	sen
+Palaka language	iso	plr
+Gula Iro language	iso	glj
+Buryat language	iso	bua
+Bua language	iso	bub
+Hmar language	iso	hmr
+Western Neo-Aramaic	iso	amw
+Rapa Nui language	iso	rap
+Rapa language	iso	ray
+Sioux language	iso	dak
+Pukapukan language	iso	pkp
+Barzani Jewish Neo-Aramaic	iso	bjf
+Gusii language	iso	guz
+Koy Sanjaq Syriac language	iso	kqd
+Luo dialect	iso	luo
+Memoni language	iso	mby
+Dangme language	iso	ada
+Southern Thai language	iso	sou
+Ho language	iso	hoc
+Akan language	iso	ak
+Akan language	iso	aka
+Timbisha language	iso	par
+Gronings dialect	iso	gos
+Koryak language	iso	kpy
+Mbum language	iso	mdd
+Hawai'i Sign Language	iso	hps
+Mbabaram language	iso	vmb
+Yanyuwa language	iso	jao
+Tat language	iso	ttt
+Miami-Illinois language	iso	mia
+Tugen language	iso	tuy
+Kobon language	iso	kpw
+Pökoot language	iso	pko
+Ogiek language	iso	oki
+Classical Armenian	iso	xcl
+Lendu language	iso	led
+Koyra Chiini language	iso	khq
+Bactrian language	iso	xbc
+Vaeakau-Taumako language	iso	piv
+Wiyot language	iso	wiy
+Yurok language	iso	yur
+Trinidadian Creole	iso	trf
+Tobagonian Creole	iso	tgh
+Xiang Chinese	iso	hsn
+Tunica language	iso	tun
+Pinghua	iso	none
+Palenquero	iso	pln
+Klallam language	iso	clm
+Atikamekw language	iso	atj
+Berta language	iso	wti
+Tolomako language	iso	tlm
+Northern Kurdish	iso	kmr
+Ancient Macedonian language	iso	xmk
+Comecrudo language	iso	xcm
+Garza language	iso	xgr
+Ch’orti’ language	iso	caa
+Nigerian Pidgin	iso	pcm
+Alsea language	iso	aes
+Adai language	iso	xad
+Lusitanian language	iso	xls
+Lisu language	iso	lis
+Krio language	iso	kri
+Sekani language	iso	sek
+Judeo-Tat	iso	jdt
+Zarphatic language	iso	zrp
+Ditidaht language	iso	dtd
+Goemai language	iso	ank
+Haisla language	iso	has
+She language	iso	shx
+Bukhori dialect	iso	bhh
+Krymchak language	iso	jct
+Basay language	iso	byq
+Mochica language	iso	omc
+Ithkuil	iso	none
+Temne language	iso	tem
+Fula language	iso	ff
+Fula language	iso	ful
+Pulaar language	iso	fuc
+Bullom So language	iso	buy
+Bom language	iso	bmf
+Krim language	iso	krm
+Sherbro language	iso	bun
+Karon language	iso	krx
+Mlomp language	iso	mlo
+Mende language	iso	men
+Tasmanian languages	iso	xtz
+Teda language	iso	tuq
+Volscian language	iso	xvo
+Fala language	iso	fax
+Kiowa language	iso	kio
+Gagauz language	iso	gag
+Chulym language	iso	clw
+Sicani	iso	sxc
+Shuadit	iso	sdt
+Judæo-Catalan	iso	none
+Kumaoni language	iso	kfy
+Logba language	iso	lgq
+Coahuilteco language	iso	xcw
+Mayan Sign Language	iso	msd
+Dogri language	iso	doi
+Anfillo language	iso	myo
+Konso language	iso	kxc
+Bussa language	iso	dox
+Eblaite language	iso	xeb
+Quebec Sign Language	iso	fcs
+Khazar language	iso	zkz
+Sawai language	iso	szw
+Plains Apache language	iso	apk
+Kipsigis language	iso	sgc
+Bolgo language	iso	bvo
+Mescalero-Chiricahua language	iso	apm
+Lipan language	iso	apl
+Judaeo-Georgian	iso	jge
+Old French Sign Language	iso	none
+Rajasthani language	iso	raj
+Dahalo language	iso	dal
+Thompson language	iso	thp
+Tonkawa language	iso	tqw
+Gheg Albanian	iso	aln
+AUI	iso	none
+Luiseño language	iso	lui
+Latgalian language	iso	ltg
+Chibcha language	iso	chb
+Caddo language	iso	cad
+Classical Newari	iso	nwc
+Lillooet language	iso	lil
+Yapese language	iso	yap
+Argobba language	iso	agj
+Gafat language	iso	gft
+Cape Verdean Creole	iso	kea
+Goaria language	iso	gig
+German Sign Language	iso	gsg
+Akkala Sami language	iso	sia
+Zimbabwean Ndebele language	iso	nd
+Zimbabwean Ndebele language	iso	nde
+Shira language	iso	swj
+Oorlams Creole	iso	oor
+Rohingya language	iso	rhg
+Fataluku language	iso	ddg
+Garhwali language	iso	gbm
+Maasai language	iso	mas
+Rotuman language	iso	rtm
+Edo language	iso	bin
+Tiv language	iso	tiv
+Warlpiri language	iso	wbp
+Cook Islands Māori	iso	rar
+Kamayo language	iso	kyk
+Gela language	iso	nlg
+Jaqaru language	iso	jqr
+Damin	iso	none
+Haya language	iso	hay
+Ndau dialect	iso	ndc
+Samburu language	iso	saq
+Ngasa language	iso	nsg
+Yaaku language	iso	muu
+Hainanese	iso	none
+Arcaicam Esperantom	iso	none
+Zeelandic	iso	zea
+Luhya language	iso	luy
+Defaka language	iso	afn
+Malvi language	iso	mup
+Aquitanian language	iso	xaq
+Tangut language	iso	txg
+Tabasaran language	iso	tab
+Tosk Albanian	iso	als
+Upper Saxon German	iso	sxu
+Taba language	iso	mky
+Kurukh language	iso	kru
+Tai Lü language	iso	khb
+Stellingwarfs dialect	iso	stl
+Pawnee language	iso	paw
+Lemnian language	iso	xle
+Lule Sami language	iso	smj
+Turkana language	iso	tuv
+Albay Bikol language	iso	bhk
+Mussau-Emira language	iso	emi
+Veluws dialect	iso	vel
+Nheengatu language	iso	yrl
+Shasta language	iso	sht
+Quechan language	iso	yum
+Utopian language	iso	none
+Ulithian language	iso	uli
+Old Kentish Sign Language	iso	okl
+Ndyuka language	iso	djk
+Chinese Pidgin English	iso	cpi
+Cameroonian Pidgin English	iso	wes
+Vincentian Creole	iso	svc
+Grenadian Creole	iso	gcl
+Leeward Caribbean Creole English	iso	aig
+Virgin Islands Creole	iso	vic
+Miskito Coast Creole	iso	bzk
+San Andrés–Providencia Creole	iso	icr
+Nauruan Pidgin English	iso	cpi
+Afro-Seminole Creole	iso	afs
+Guyanese Creole	iso	gyn
+Waima language	iso	rro
+Tsakonian language	iso	tsd
+Icelandic Sign Language	iso	icl
+Fanagalo	iso	fng
+Japanese Sign Language	iso	jsl
+Khanty language	iso	kca
+Mansi language	iso	mns
+Ter Sami language	iso	sjt
+Ume Sami language	iso	sju
+Pite Sami language	iso	sje
+Bunun language	iso	bnn
+Negerhollands	iso	dcr
+Angloromani language	iso	rme
+Mongondow language	iso	mog
+Motu language	iso	meu
+Acholi dialect	iso	ach
+Adjuvilo	iso	none
+Shauraseni language	iso	psu
+Maharashtri Prakrit	iso	pmh
+Houma people	iso	none
+Lihir language	iso	lih
+Paeonian language	iso	none
+Mewari language	iso	mtr
+Ligurian	iso	lij
+Carian language	iso	xcr
+Arapaho language	iso	arp
+Skepi Creole Dutch	iso	skw
+Mundolinco	iso	none
+Selkup language	iso	sel
+Nganasan language	iso	nio
+Mamulique language	iso	emm
+Middle Welsh	iso	wlm
+Panyjima language	iso	pnw
+Yenish language	iso	yec
+Itelmen language	iso	itl
+Kapingamarangi language	iso	kpg
+Kangri dialect	iso	xnr
+Kerek language	iso	krk
+Are language	iso	mwc
+Jeju language	iso	jje
+Megleno-Romanian language	iso	ruq
+Tartessian language	iso	txr
+Kumam dialect	iso	kdi
+Eastern Min	iso	cdo
+South African Sign Language	iso	sfs
+Chilcotin language	iso	clc
+Miskito language	iso	miq
+Sumo languages	iso	sum
+Cacaopera language	iso	ccr
+Matagalpa language	iso	mtn
+Karuk language	iso	kyh
+Kusasi language	iso	kus
+Kobaïan	iso	none
+Jassic dialect	iso	ysc
+Sidamo language	iso	sid
+Deg Xinag language	iso	ing
+Nahuan languages	iso	nah
+Kelantan-Pattani Malay	iso	mfa
+Seri language	iso	sei
+Classical Nahuatl language	iso	nci
+Moriori language	iso	none
+Teonaht	iso	none
+Monguor language	iso	mjg
+Yagua language	iso	yad
+Kangjia language	iso	kxs
+Khowar language	iso	khw
+Dameli language	iso	dml
+Kalasha language	iso	kls
+Palula language	iso	phl
+Gawar-Bati language	iso	gwt
+Yidgha language	iso	ydg
+Munji language	iso	mnj
+Panare language	iso	pbh
+Dano-Norwegian	iso	none
+Braj Bhasha	iso	bri
+Mator language	iso	mtm
+Wanukaka language	iso	wnk
+Algerian Arabic	iso	arq
+Fuyu Kyrgyz language	iso	none
+Nyoro language	iso	nyo
+Babm	iso	none
+Kutenai language	iso	kut
+Kaqchikel language	iso	cak
+Atakapa language	iso	aqp
+Akokisa	iso	none
+Chitimacha language	iso	ctm
+Esselen language	iso	esq
+Karankawa language	iso	zkk
+Kawésqar language	iso	alc
+Toda language	iso	tcx
+Wari’ language	iso	pav
+Neo	iso	neu
+Oirata language	iso	oia
+Martuthunira language	iso	vma
+Gutob language	iso	gbj
+Valley Yokuts	iso	none
+Tagish language	iso	tgx
+Paicî language	iso	pri
+Shor language	iso	cjs
+Afrihili	iso	afh
+Bungi Creole	iso	none
+Dahalik language	iso	dlk
+Sarcee language	iso	srs
+Tuscarora language	iso	tus
+Tahltan language	iso	tht
+Seneca language	iso	see
+Onondaga language	iso	ono
+Chenchu language	iso	cde
+Khalaj language	iso	klj
+Middle Irish	iso	mga
+Halang language	iso	hal
+Yamasee	iso	none
+Sara Bakati' language	iso	sre
+Sika language	iso	ski
+Udi language	iso	udi
+Laraʼ language	iso	lra
+Parthian language	iso	xpr
+Swampy Cree language	iso	csw
+Lithuanian Sign Language	iso	lls
+Sukur language	iso	syk
+Haida language	iso	hai
+Lari language	iso	lrl
+South Efate language	iso	erk
+Asa language	iso	aas
+Yazghulami language	iso	yah
+Cotoname language	iso	xcn
+Chuukese language	iso	chk
+Cayuga language	iso	cay
+Pardhi language	iso	pcl
+Tai Dam language	iso	blt
+Bassa language	iso	bsq
+Basaa language	iso	bas
+Munsee language	iso	umu
+Unami language	iso	unm
+Tanapag language	iso	tpv
+Hupa language	iso	hup
+Huastec language	iso	hus
+Unserdeutsch language	iso	uln
+Plains Cree	iso	crk
+Wintu language	iso	wnw
+Jangil	iso	none
+Kharia language	iso	khr
+Dinka language	iso	din
+Massa language	iso	mcn
+Skolt Sami language	iso	sms
+Mono-Alu language	iso	mte
+Høgnorsk	iso	nor
+Kosraean language	iso	kos
+Potawatomi language	iso	pot
+Car language	iso	caq
+Al-Sayyid Bedouin Sign Language	iso	syy
+Shaozhou Tuhua	iso	none
+Kim Mun language	iso	mji
+Lingling dialect	iso	none
+Maojia dialect	iso	none
+Wutun language	iso	wuh
+Kwanyama dialect	iso	kj
+Kwanyama dialect	iso	kua
+Kamba language	iso	kam
+Awabakal language	iso	awk
+Day language	iso	dai
+Bathari language	iso	bhm
+Yidiny language	iso	yii
+Ndonga dialect	iso	ng
+Ndonga dialect	iso	ndo
+Skalvians	iso	svx
+Providence Island Sign Language	iso	prz
+Ka'apor Sign Language	iso	uks
+Mono language	iso	mnh
+Mono language	iso	mnr
+Nez Perce language	iso	nez
+Ajië language	iso	aji
+Badimaya language	iso	bia
+Comanche language	iso	com
+Innu language	iso	moe
+Mehri language	iso	gdq
+Ngan’gityemerri language	iso	nam
+Vai language	iso	vai
+Shawnee language	iso	sjw
+Bamum language	iso	bax
+Fingallian	iso	none
+Australian Kriol language	iso	rop
+Ngalakgan language	iso	nig
+Vafsi dialect	iso	vaf
+Lotha language	iso	njh
+Adhola dialect	iso	adh
+Bobot language	iso	bty
+Wajarri language	iso	wbv
+Tundra Yukaghir language	iso	ykg
+Kaurna language	iso	zku
+Flemish Sign Language	iso	vgt
+Igala language	iso	igl
+Phu Thai language	iso	pht
+Nyangumarta language	iso	nna
+Natchez language	iso	ncz
+Teso language	iso	teo
+Xamtanga language	iso	xan
+Mongsen Ao language	iso	njo
+Atayal language	iso	tay
+Turkish Sign Language	iso	tsm
+Malgana language	iso	vml
+Nhanda language	iso	nha
+Jamsai Dogon	iso	djm
+Kambera language	iso	xbr
+Palu'e language	iso	ple
+Soninke language	iso	snk
+Even language	iso	eve
+Dhatki language	iso	mki
+Tây Bồi Pidgin French	iso	tas
+Bishnupriya Manipuri language	iso	bpy
+Kamayurá language	iso	kay
+Toto language	iso	txo
+Puma language	iso	pum
+Akatek language	iso	knj
+Tonga language	iso	toi
+Hungarian Sign Language	iso	hsh
+Au language	iso	avt
+Belizean Creole	iso	bzj
+Danzhou dialect	iso	none
+Interglossa	iso	igs
+Gonja language	iso	gjn
+Tillamook language	iso	til
+Ngiyambaa language	iso	wyb
+Harari language	iso	har
+Bohtan Neo-Aramaic	iso	bhn
+Kwanga language	iso	kwj
+Vlax Romani language	iso	rmy
+Tiwi language	iso	tiw
+Kwak'wala	iso	kwk
+Caló language	iso	rmq
+Nar Phu language	iso	npa
+Mikasuki language	iso	mik
+Loxian	iso	none
+Sonsorolese language	iso	sov
+South Bolivian Quechua	iso	quh
+Mayo language	iso	mfy
+Maxakalí language	iso	mbl
+Assiniboine language	iso	asb
+Sasak language	iso	sas
+Honduran Sign Language	iso	hds
+Ida'an language	iso	dbj
+Mlabri language	iso	mra
+Tuamotuan language	iso	pmt
+Liburnian language	iso	xli
+Lak language	iso	lbe
+Kimbundu	iso	kmb
+Khakas language	iso	kjh
+Comox language	iso	coo
+Anus language	iso	auq
+Dolgan language	iso	dlg
+Eteocypriot language	iso	ecy
+Irula language	iso	iru
+Tadaksahak	iso	dsq
+Nuu-chah-nulth language	iso	nuk
+Vengo language	iso	bav
+Q'eqchi' language	iso	kek
+Groma language	iso	gro
+Gurung language	iso	gvr
+Thulung language	iso	tdh
+Yakkha language	iso	ybh
+Sherpa language	iso	xsr
+Majhi language	iso	mjz
+Danwar language	iso	dhw
+Sunwar language	iso	suz
+Lepcha language	iso	lep
+Limbu language	iso	lif
+Rombo language	iso	rof
+Naukan Yupik language	iso	ynk
+Pecheneg language	iso	xpc
+Muong language	iso	mtq
+Tongva language	iso	xgf
+Serrano language	iso	ser
+Balkan Gagauz Turkish	iso	bgx
+Anal language	iso	anm
+Libyan Arabic	iso	ayl
+Gamilaraay language	iso	kld
+Wiradjuri language	iso	wrh
+Old Welsh	iso	owl
+Hill Mari language	iso	mrj
+Kele language	iso	sbc
+Munichi language	iso	myr
+Garifuna language	iso	cab
+Tweants dialect	iso	twd
+Sikkimese language	iso	sip
+Eastern Pomo language	iso	peb
+Kashaya language	iso	kju
+Mexican Sign Language	iso	mfs
+Ninam language	iso	shb
+Shiriana language	iso	xir
+Berbice Creole Dutch	iso	brc
+Kenyan Sign Language	iso	xki
+I'saka language	iso	ksi
+Wutung language	iso	wut
+Réunion Creole	iso	rcf
+Zay language	iso	zwa
+Waorani language	iso	auc
+Tauya language	iso	tya
+Enga language	iso	enq
+Enga language	iso	none
+Godoberi language	iso	gdo
+Brazilian Sign Language	iso	bzs
+Northern Qiang language	iso	cng
+Southern Qiang language	iso	qxs
+Mararit language	iso	mgb
+Shatt language	iso	shj
+Enchanta	iso	none
+Maidu language	iso	nmu
+Wajiara language	iso	yui
+Tariana language	iso	tae
+Gilaki language	iso	glk
+Mashco Piro language	iso	cuj
+Môa Remo language	iso	rem
+Northern Pomo language	iso	pej
+Pintupi dialect	iso	piu
+Tooro language	iso	ttj
+Drehu language	iso	dhv
+Oirat language	iso	xal
+Salar language	iso	slr
+Western Yugur language	iso	ybe
+Kuman language	iso	kue
+Lule language	iso	ule
+Achang language	iso	acn
+Kurama language	iso	krh
+Sungor language	iso	sjg
+Kurrama language	iso	vku
+Oro Win language	iso	orw
+Bohemian Romani	iso	none
+Lingua sistemfrater	iso	none
+Chimariko language	iso	cid
+Polish Sign Language	iso	pso
+Mentawai language	iso	mwv
+Yinggarda language	iso	yia
+Chuj language	iso	cac
+Fante dialect	iso	fat
+Solano language	iso	xso
+Timucua language	iso	tjm
+Tamahaq language	iso	thv
+Wappo language	iso	wao
+Juba Arabic	iso	pga
+Iwaidja language	iso	ibd
+Yana language	iso	ynn
+Maku-Auari language	iso	xak
+Upper Guinea Creole	iso	pov
+Indo-Portuguese creoles	iso	idb
+Kitanemuk language	iso	none
+Cafundó language	iso	ccd
+Bidau Creole Portuguese	iso	tvy
+Portugis language	iso	tmg
+Mardijker Creole	iso	none
+Dutch Sign Language	iso	dse
+Bodo language	iso	brx
+Kven language	iso	fkv
+Bontoc language	iso	bnc
+Karkin language	iso	krb
+Plains Indian Sign Language	iso	psd
+Plains Indian Sign Language	iso	none
+Nisga'a language	iso	ncg
+Alur dialect	iso	alz
+Puquina language	iso	puq
+Classical Mongolian language	iso	cmg
+Nakanai language	iso	nak
+Me'en language	iso	mym
+Semai language	iso	sea
+Libido language	iso	liq
+Maria language	iso	mds
+Takelma language	iso	tkm
+Ottawa dialect	iso	otw
+Israeli Sign Language	iso	isr
+Air Tamajeq language	iso	thz
+Buyeo language	iso	xpy
+Voro language	iso	vor
+Philistine language	iso	none
+Záparo language	iso	zro
+New High German	iso	de
+Seediq language	iso	trv
+Coree	iso	none
+Hunde language	iso	hke
+Wirangu language	iso	wgu
+Krio Dayak language	iso	xke
+Páez language	iso	pbb
+Koti language	iso	eko
+Sonjo language	iso	soz
+Hwana language	iso	hwo
+Old Azeri language	iso	none
+Cueva language	iso	none
+Abinomn language	iso	bsa
+Sulka language	iso	sua
+Isirawa language	iso	srl
+Yalë language	iso	nce
+Busa language	iso	bhf
+Karkar language	iso	yuj
+Kol language	iso	kol
+Kuot language	iso	kto
+Porome language	iso	prm
+Burmeso language	iso	bzu
+Yuracaré language	iso	yuz
+Tubar language	iso	tbu
+Spokil	iso	none
+Nkore language	iso	nyn
+Anêm language	iso	anz
+Ata language	iso	ata
+Yele language	iso	yle
+Gitxsan language	iso	git
+Chapacura language	iso	none
+Bora language	iso	boa
+Tacana language	iso	tna
+Shuar language	iso	jiv
+Phong language	iso	pnx
+Bahrani Arabic	iso	abv
+Upper Kuskokwim language	iso	kuu
+Tsetsaut language	iso	txc
+Konkow language	iso	mjd
+Yuki language	iso	yuk
+Tause language	iso	tad
+Wambule language	iso	wme
+Tsotsitaal and Camtho	iso	fly
+Tsotsitaal and Camtho	iso	cmt
+Pentlatch language	iso	ptw
+Kulina language	iso	cul
+Deni language	iso	dny
+Kathlamet language	iso	none
+Mysian language	iso	yms
+South Picene language	iso	spx
+Naba language	iso	mne
+Cofán language	iso	con
+Modern Norwegian	iso	nor
+Aka-Bea language	iso	abj
+Akar-Bale language	iso	acl
+Oroqen language	iso	orh
+Makasae language	iso	mkz
+Babine-Witsuwit'en language	iso	bcr
+Ulch language	iso	ulc
+Talysh language	iso	tly
+Kono language	iso	kno
+Tocodede language	iso	tkd
+Tübatulabal language	iso	tub
+Etchemin language	iso	etc
+Kpelle language	iso	kpe
+Bunak language	iso	bfn
+Zapotec languages	iso	zap
+Mambai	iso	mgm
+Kemak language	iso	kem
+Chiwere language	iso	iow
+Kitsai language	iso	kii
+Paumarí language	iso	pad
+Chittagonian language	iso	ctg
+Nicola language	iso	none
+Tagol language	iso	mvv
+Galoli language	iso	gal
+Namibian Black German	iso	none
+Sidetic language	iso	xsd
+Pisidian language	iso	xps
+Asturian language	iso	ast
+Bezhta language	iso	kap
+Tolai language	iso	ksd
+Lungalunga language	iso	vmg
+Patpatar language	iso	gfk
+Kamviri dialect	iso	xvi
+Thai Sign Language	iso	tsq
+Dharug language	iso	xdk
+Bonan language	iso	peh
+Eastern Yugur language	iso	yuy
+Ogea language	iso	eri
+Warray language	iso	wrz
+Kiga language	iso	cgg
+Bagri language	iso	bgq
+Mewati language	iso	wtm
+Shekhawati language	iso	swv
+Domari language	iso	rmt
+Godwari dialect	iso	gdx
+Woiwurrung language	iso	wyi
+Media Lengua	iso	mue
+Darkinjung language	iso	xda
+Jicarilla language	iso	apj
+Karajá language	iso	kpj
+Wallisian language	iso	wls
+Futunan language	iso	fud
+West Uvean language	iso	uve
+Niuafoʻou language	iso	num
+Sallaans dialect	iso	sdz
+Mutsun language	iso	none
+Toba Qom language	iso	tob
+Nyah Kur language	iso	cbn
+Futuna-Aniwa language	iso	fut
+Zuruahá language	iso	swx
+Kadiweu language	iso	kbc
+Mocoví language	iso	moc
+Umbugarla language	iso	umr
+Ngurmbur language	iso	nrx
+Chontal Maya language	iso	chf
+Gaagudju language	iso	gbu
+Minkin language	iso	xxm
+Laragiya language	iso	lrg
+Enindhilyagwa language	iso	aoi
+Garawa language	iso	wrk
+Kott language	iso	zko
+Tataviam language	iso	none
+Sillok language	iso	soh
+Ersu languages	iso	ers
+Rengao language	iso	ren
+Fe'fe' language	iso	fmp
+Zyphe language	iso	zyp
+Zumbun language	iso	jmb
+Barupu language	iso	wra
+Koch language	iso	kdq
+Saka language	iso	kho
+Northern Khmer dialect	iso	kxm
+Powhatan language	iso	pim
+Cotabato Manobo language	iso	mta
+Kabye language	iso	kbp
+Walmajarri language	iso	wmt
+Djabugay language	iso	dyy
+Inor language	iso	ior
+Persian Sign Language	iso	psc
+North Picene language	iso	nrp
+Warlmanpa language	iso	wrl
+Nukuoro language	iso	nkr
+Yugambal language	iso	yub
+Kunwinjku language	iso	gup
+Sakao language	iso	sku
+Valencian Sign Language	iso	vsv
+Bilen language	iso	byn
+North Straits Salish language	iso	str
+Jabo language	iso	none
+Guachichil	iso	none
+Ixil language	iso	ixl
+Achi language	iso	acr
+Awakatek language	iso	agu
+Tojolab'al language	iso	toj
+Itza’ language	iso	itz
+Mopan language	iso	mop
+Uspantek language	iso	usp
+Tektitek language	iso	ttc
+Tz’utujil language	iso	tzj
+Mwotlap language	iso	mlv
+Aer language	iso	aeq
+Badeshi language	iso	bdz
+Luwati language	iso	luv
+Torwali language	iso	trw
+Ushoji language	iso	ush
+Munduruku language	iso	myu
+Muruwari language	iso	zmu
+Saisiyat language	iso	xsy
+Sop language	iso	urw
+Chicomuceltec language	iso	cob
+Susu language	iso	sus
+Kalami language	iso	gwc
+Huichol language	iso	hch
+Sempan language	iso	xse
+Allar language	iso	all
+Chocho language	iso	coz
+Nicoleño	iso	none
+Worimi language	iso	kda
+Gadang language	iso	gdk
+Susquehannock language	iso	sqn
+Classical Tibetan	iso	xct
+Pitjantjatjara dialect	iso	pjt
+Derung language	iso	duu
+Ngaanyatjarra dialect	iso	ntj
+Yalarnnga language	iso	ylr
+Pitta Pitta language	iso	pit
+Eggon language	iso	ego
+Oji-Cree language	iso	ojs
+Manam language	iso	mva
+Nalik language	iso	nal
+Garadjari language	iso	gbd
+Shubi language	iso	suj
+Santo Domingo Coatlán Zapotec	iso	zps
+Yurumanguí language	iso	none
+Salinan language	iso	sln
+Shuswap language	iso	shs
+Kata Kolok	iso	bqy
+Ban Khor Sign Language	iso	bfk
+Saa language	iso	sax
+Yimas language	iso	yee
+Yimas language	iso	none
+Lower Burdekin languages	iso	xbb
+Barrow Point language	iso	bpt
+Dhundari language	iso	dhd
+Naasioi language	iso	nas
+Oksapmin language	iso	opm
+Mizo language	iso	lus
+Garo language	iso	grt
+Gugu Thaypan language	iso	typ
+Mer language	iso	mnu
+Meriam language	iso	ulk
+Zumaya language	iso	zuy
+Dadibi language	iso	mps
+Warembori language	iso	wsa
+Babuza language	iso	bzg
+Dimasa language	iso	dis
+Lavukaleve language	iso	lvk
+Ventureño language	iso	veo
+Purari language	iso	iar
+Mailu language	iso	mgu
+Sentani language	iso	set
+Golin language	iso	gvf
+Maisin language	iso	mbq
+Ghari language	iso	gri
+Oroha language	iso	ora
+Makura language	iso	nmk
+East Ambae language	iso	omb
+Aulua language	iso	aul
+North Efate language	iso	llp
+Hadiyya language	iso	hdy
+Tunggare language	iso	trt
+Mixtec language	iso	none
+Aghu Tharrnggala language	iso	gtu
+Vietnamese sign languages	iso	hos
+Vietnamese sign languages	iso	haf
+Vietnamese sign languages	iso	hab
+Isthmus Zapotec	iso	zai
+Old Javanese	iso	kaw
+Ngkoth language	iso	none
+Bulu language	iso	bum
+Wik-Ngatharr dialect	iso	wik
+Wurrugu language	iso	wur
+Ngardi language	iso	rxd
+Goldogrin	iso	none
+Jarai language	iso	jra
+Wudhadhi dialect	iso	none
+Luthigh language	iso	xpj
+Yinwum dialect	iso	yxm
+Mpakwithi dialect	iso	awg
+Linngithigh dialect	iso	lnj
+Alngith dialect	iso	aid
+Entish	iso	none
+Northern Paiute language	iso	pao
+Kalkatungu language	iso	ktg
+Tangoa language	iso	tgp
+Standard Tibetan	iso	bo
+Standard Tibetan	iso	bod
+Kavalan language	iso	ckv
+Ngarrindjeri language	iso	nay
+Bahing language	iso	bhj
+Karitiâna language	iso	ktn
+Nyigina language	iso	nyh
+Tsez language	iso	ddo
+Khamti language	iso	kht
+Tregami language	iso	trm
+Waigali language	iso	wbk
+Kata-vari dialect	iso	bsh
+Wasi-wari	iso	prn
+Woi language	iso	wbw
+Matngele language	iso	zml
+Warluwarra language	iso	wrb
+Domaaki language	iso	dmk
+Quinipissa	iso	none
+Ndolo dialect	iso	ndl
+Shumashti language	iso	sts
+Itonama language	iso	ito
+Ikwerre language	iso	ikw
+Gogo language	iso	gog
+Pongu language	iso	png
+Gondi language	iso	gon
+Woleaian language	iso	woe
+Monastic sign languages	iso	mzg
+Communicationssprache	iso	none
+Kolami language	iso	kfb
+Mozabite language	iso	mzb
+Arbëresh language	iso	aae
+Ishkashimi language	iso	isk
+Kanoê language	iso	kxo
+Emerillon language	iso	eme
+Upper Tanana language	iso	tau
+Tera language	iso	ttr
+Wolaytta language	iso	wal
+Bakhtiari dialect	iso	bqi
+Nagamese Creole	iso	nag
+Western Pantar language	iso	lev
+Lower Tanana language	iso	taa
+Koyukon language	iso	koy
+Nedebang language	iso	nec
+Ekari language	iso	ekg
+Petjo language	iso	pey
+Trojan language	iso	none
+Tagalaka language	iso	tgz
+Sholaga language	iso	sle
+Betta Kurumba language	iso	xub
+Gwere language	iso	gwr
+Nese language	iso	none
+Huli language	iso	hui
+Kom language	iso	bkm
+Uruava language	iso	urv
+Afra language	iso	ulf
+Melpa language	iso	med
+Arop-Lokep language	iso	apr
+Serer language	iso	srr
+Tamambo language	iso	mla
+Sissano language	iso	sso
+Amaimon language	iso	ali
+'Auhelawa language	iso	kud
+Kanembu language	iso	kbl
+Elseng language	iso	mrf
+Waris language	iso	wrs
+Amanab language	iso	amn
+Haryanvi language	iso	bgc
+Kannauji language	iso	bjj
+Afshar language	iso	none
+Magadhi Prakrit	iso	pka
+Khorasani Turkic language	iso	kmz
+Cupeño language	iso	cup
+Caribbean Hindustani	iso	hns
+Baeggu language	iso	bvd
+Hrangkhol language	iso	hra
+Eurolengo	iso	none
+Äiwoo language	iso	nfl
+Hieroglyphic Luwian	iso	hlu
+Fiji Hindi	iso	hif
+Pular language	iso	fuf
+Italian Sign Language	iso	ise
+Broome Pearling Lugger Pidgin	iso	bpl
+Otomi language	iso	oto
+Nyulnyul language	iso	nyv
+Doolboong language	iso	none
+Najdi Arabic	iso	ars
+Hejazi Arabic	iso	acw
+Syldavian	iso	none
+Onhan language	iso	loc
+Welsh-Romani language	iso	rmw
+Berti language	iso	byt
+Central Min	iso	czo
+Airoran language	iso	air
+Oring language	iso	org
+Marba language	iso	mpg
+Logo language	iso	log
+Avikam language	iso	avi
+Shughni language	iso	sgh
+Vanji language	iso	none
+Tindi language	iso	tin
+African Romance	iso	none
+Coast Tsimshian dialect	iso	tsi
+Sarikoli language	iso	srh
+Amis language	iso	ami
+Tsou language	iso	tsu
+Rukai language	iso	dru
+Thao language	iso	ssf
+Puyuma language	iso	pyu
+Pazeh language	iso	uun
+Kanakanabu language	iso	xnb
+Saaroa language	iso	sxr
+Laurentian language	iso	lre
+Rejangese language	iso	rej
+Zhang-Zhung language	iso	xzh
+Vestinian language	iso	xvs
+Sebat Bet Gurage language	iso	sgw
+Guale	iso	none
+Old Dutch	iso	odt
+Nagumi language	iso	ngv
+Central Bikol language	iso	bcl
+Pogolo language	iso	poy
+Pimbwe language	iso	piw
+Pangwa language	iso	pbr
+Austrian Sign Language	iso	asq
+Mwanga language	iso	mwn
+Nyambo language	iso	now
+Ngulu language	iso	ngp
+Archi language	iso	aqc
+Kahe language	iso	hka
+Gweno language	iso	gwe
+Nai language	iso	bio
+Judaeo-Aragonese	iso	none
+Ona language	iso	ona
+Kunigami language	iso	xug
+Guniyandi language	iso	gni
+Myene language	iso	mye
+Belhare language	iso	byw
+Bura language	iso	bwr
+Nara language	iso	nrb
+Kunama language	iso	kun
+Bade language	iso	bde
+Barranquenho	iso	none
+Saraveca language	iso	sar
+Northern Sierra Miwok	iso	nsq
+Central Sierra Miwok	iso	csm
+Pumpokol language	iso	xpm
+Nyanga-li language	iso	nyc
+Western Apache language	iso	apw
+War language	iso	aml
+Kiput language	iso	kyi
+Vitu language	iso	wiv
+Bube language	iso	bvb
+Holikachuk language	iso	hoi
+Mankanya language	iso	knf
+Gajirrabeng dialect	iso	gdh
+Miriwoong language	iso	mep
+Djugun dialect	iso	dyd
+Lungga language	iso	lga
+Kija language	iso	gia
+Ili Turki language	iso	ili
+Tofa language	iso	kim
+Agutaynen language	iso	agn
+Kagayanen language	iso	cgc
+Assan language	iso	xss
+Buhid language	iso	bku
+Hanunó'o language	iso	hnn
+Iraya language	iso	iry
+Alangan language	iso	alj
+Tadyawan language	iso	tdy
+Ixcatec language	iso	ixc
+Hani language	iso	hni
+Dano language	iso	aso
+Hunzib language	iso	huz
+Murrinh-patha language	iso	mwf
+Nunggubuyu language	iso	nuy
+Subtiaba language	iso	sut
+Big Nambas language	iso	nmb
+Nanai language	iso	gld
+Guruntum language	iso	grd
+Apurinã language	iso	apu
+Yokohama Pidgin Japanese	iso	none
+Kera language	iso	ker
+Sivandi language	iso	siy
+Jambi Malay	iso	jax
+Maricopa language	iso	mrc
+Umbundu	iso	umb
+Gurindji Kriol language	iso	gjr
+Pipil language	iso	ppl
+Khehek language	iso	tlx
+Oluta Popoluca	iso	plo
+Sayula Popoluca	iso	pos
+Texistepec language	iso	poq
+Sierra Popoluca	iso	poi
+Betawi language	iso	bew
+Matsés language	iso	mcf
+Matsés language	iso	pig
+Mitchigamea	iso	cmm
+Southern Sierra Miwok language	iso	skd
+Aghul language	iso	agx
+Nauo language	iso	nwo
+Siculo-Arabic	iso	sqr
+Barí language	iso	mot
+Yamphu language	iso	ybi
+Aguano language	iso	aga
+Camsá language	iso	kbh
+Pijao language	iso	pij
+Chong language	iso	cog
+Western Punjabi	iso	lah
+Jawi dialect	iso	djw
+Korean Sign Language	iso	kvk
+Bolinao language	iso	smk
+Sillan language	iso	oko
+Old Korean	iso	oko
+Ewondo language	iso	ewo
+Mambwe-Lungu language	iso	mgr
+Pima Bajo language	iso	pia
+Mexicanero language	iso	nln
+Zande language	iso	zne
+Marka language	iso	rkm
+Ngaatjatjarra dialect	iso	none
+Omaha–Ponca language	iso	oma
+Mangue language	iso	mom
+Chiapanec language	iso	cip
+Chichimeca Jonaz language	iso	pei
+Chico language	iso	vmv
+Lango dialect	iso	laj
+Lango language	iso	lno
+Nisenan language	iso	nsz
+Huambisa language	iso	hub
+Wik Mungkan language	iso	wim
+Wik-Ngathan language	iso	wig
+Pochutec language	iso	xpo
+Canela language	iso	ram
+Animere language	iso	anf
+Tiriyó language	iso	tri
+Sangsari language	iso	sgr
+Iwal language	iso	kbm
+Yorta Yorta language	iso	xyy
+Boro language	iso	xxb
+Toba Batak language	iso	bbc
+Sora language	iso	srb
+Korku language	iso	kfq
+Mohawk Dutch	iso	none
+Palpa language	iso	plp
+Wayuu language	iso	guc
+Argentine Sign Language	iso	aed
+Ava Guarani language	iso	nhd
+Iyojwa'ja Chorote language	iso	crt
+Iyo'wujwa Chorote language	iso	crq
+Mbyá Guaraní language	iso	gun
+Kaiwá language	iso	kgk
+Pilagá language	iso	plg
+Nivaclé language	iso	cag
+Tehuelche language	iso	teh
+Puelche language	iso	pue
+Vilela language	iso	vil
+Wichí Lhamtés Nocten	iso	mtp
+Wichí Lhamtés Güisnay	iso	mzh
+Wichí Lhamtés Vejoz	iso	wlv
+Chilean Sign Language	iso	csg
+Kunza language	iso	kuz
+Haitian Vodoun Culture Language	iso	hvc
+Koromfe language	iso	kfz
+Wenzhounese	iso	none
+Ovambo language	iso	kj – Kwanyama
+Ovambo language	iso	ng – Ndonga
+Ovambo language	iso	kua, ndo
+Pingelapese language	iso	pif
+Pohnpeian language	iso	pon
+Mokilese language	iso	mkj
+Araona language	iso	aro
+Terêna language	iso	ter
+Cavineña language	iso	cav
+Avokaya language	iso	avu
+Eskayan language	iso	esy
+Leizhou Min	iso	none
+Poqomchi' language	iso	poh
+Poqomam language	iso	poc
+Sakapultek language	iso	quv
+Sipakapa language	iso	qum
+Q’anjob’al language	iso	kjb
+Mocho’ language	iso	mhc
+Tequesta	iso	none
+Middle Armenian	iso	axm
+Nyanga language	iso	nyj
+Hamer language	iso	amf
+Tidore language	iso	tvo
+Udege language	iso	ude
+Nabataean language	iso	none
+Nupe language	iso	nup
+English language	iso	en
+English language	iso	eng
+Sentinelese language	iso	std
+Talossa	iso	tzl
+Paipai language	iso	ppi
+Tsakhur language	iso	tkr
+Havasupai–Hualapai language	iso	yuf
+Nso language	iso	lns
+Xibe language	iso	sjo
+Negidal language	iso	neg
+Apma language	iso	app
+Sowa language	iso	sww
+Bangala language	iso	bxg
+Kumeyaay language	iso	dih
+Ipai language	iso	dih
+Tiipai language	iso	dih
+Sui language	iso	swi
+Uru language	iso	ure
+Digo language	iso	dig
+Numbami language	iso	sij
+Boruca language	iso	brn
+Chakma language	iso	ccp
+Portuguese Sign Language	iso	psr
+Opata language	iso	opt
+Guianese Creole	iso	gcr
+Aguaruna language	iso	agr
+Amawaka language	iso	amc
+Amarakaeri language	iso	amr
+Arabela language	iso	arl
+Asháninka language	iso	cni
+Awngi language	iso	awn
+Khwarshi language	iso	khv
+Okanagan language	iso	oka
+Judeo-Moroccan Arabic	iso	aju
+History of the Hungarian language	iso	ohu
+Cahuarano language	iso	cah
+Spanish Sign Language	iso	ssp
+Catalan Sign Language	iso	csc
+Candoshi-Shapra language	iso	cbu
+Heiltsuk-Oowekyala language	iso	hei
+Makah language	iso	myh
+Squamish language	iso	squ
+Sechelt language	iso	sec
+Nooksack language	iso	nok
+Caquinte language	iso	cot
+Xipaya language	iso	xiy
+Klamath language	iso	kla
+Estonian Sign Language	iso	eso
+Chiquitano language	iso	cax
+Araki language	iso	akr
+'Are'are language	iso	alu
+Fut language	iso	bfd
+Chipaya language	iso	cap
+Kashinawa language	iso	cbs
+Nzema language	iso	nzi
+Early Middle Japanese	iso	ojp
+Classical Gaelic	iso	ghc
+Wagiman language	iso	waq
+Marovo language	iso	mvo
+Susuami language	iso	ssu
+Cowlitz language	iso	cow
+Kwaza language	iso	xwa
+Javindo language	iso	jvd
+Cahto language	iso	ktw
+Aneityum language	iso	aty
+Southern Pomo language	iso	peq
+Judeo-Yemeni Arabic	iso	jye
+Kpati language	iso	koc
+Ambai language	iso	amk
+Ugong language	iso	ugo
+Chamicuro language	iso	ccc
+Boon language	iso	bnl
+Jurruru language	iso	tju
+Kuwaiti Arabic	iso	None
+Totoli language	iso	txe
+Aigon language	iso	aix
+Miu language	iso	mpo
+Kaulong language	iso	pss
+Sengseng language	iso	ssz
+Karore language	iso	xkx
+Karnai language	iso	bbv
+Malasanga language	iso	mqz
+Idne language	iso	mgl
+Anambé language	iso	aan
+Hadhrami Arabic	iso	ayh
+Arikapú language	iso	ark
+Coeur d'Alene language	iso	crd
+Arawá language	iso	aru
+Arutani language	iso	atx
+Sapé language	iso	spc
+Aurá language	iso	aux
+Baure language	iso	brg
+Hajong language	iso	haj
+Harsusi language	iso	hss
+Katawixi language	iso	xat
+Kamigin language	iso	mkx
+Kharia Thar language	iso	ksy
+Guatemalan Sign Language	iso	gsm
+Kreye language	iso	xre
+Leco language	iso	lec
+Mal Paharia language	iso	mkb
+Nahari language	iso	nhh
+Nkoroo language	iso	nkx
+Reyesano language	iso	rey
+Labu language	iso	lbu
+Macaguán language	iso	mbn
+Cuiba language	iso	cui
+Guayabero language	iso	guo
+Awad Bing language	iso	bcu
+Mindiri language	iso	mpn
+Wab language	iso	wab
+Marik language	iso	dad
+Bilibil language	iso	brz
+Gedaged language	iso	gdd
+Matukar language	iso	mjk
+Takia language	iso	tbc
+Amara language	iso	aie
+Lamogai language	iso	lmg
+Mouk-Aria language	iso	mwh
+Shabaki dialect	iso	sdb
+Bukawa language	iso	buk
+Yabem language	iso	jae
+Kala language	iso	kcl
+Mangareva language	iso	mrv
+Austral language	iso	aut
+Penrhyn language	iso	pnh
+Rakahanga-Manihiki language	iso	rkh
+Maay language	iso	ymm
+Gone Dau language	iso	goo
+Lauan language	iso	llx
+Lomaiviti language	iso	lmv
+Kachari language	iso	xac
+Western Fijian language	iso	wyy
+Namosi-Naitasiri-Serua language	iso	bwb
+Vangunu language	iso	mpr
+Duke language	iso	nke
+Ghanongga language	iso	ghn
+Botolan language	iso	sbl
+Ambala language	iso	abc
+Hoava language	iso	hoa
+Kusaghe language	iso	ksg
+Indi language	iso	blx
+Roviana language	iso	rug
+Simbo language	iso	sbb
+Ughele language	iso	uge
+Sambal language	iso	xsb
+Uneapa language	iso	bbn
+Qatabanian language	iso	xqt
+Hadramautic language	iso	xhd
+Abellen language	iso	abp
+Antsi language	iso	sgb
+Hausa Sign Language	iso	hsl
+Mariveleño language	iso	ayt
+Aribwatsa language	iso	laz
+Duwet language	iso	gve
+Maléku language	iso	gut
+Phuan language	iso	phu
+Jewish Babylonian Aramaic	iso	tmr
+Sign language in Singapore	iso	sls
+Gujari language	iso	gju
+Chayahuita language	iso	cbt
+Cocama language	iso	cod
+Mursi language	iso	muz
+History of the Irish language	iso	ghc
+Rama language	iso	rma
+Old Uyghur language	iso	oui
+Klao language	iso	klu
+Iteri language	iso	itr
+Mantion language	iso	mnx
+Arikara language	iso	ari
+Samoan Plantation Pidgin	iso	none
+Alutiiq language	iso	ems
+Central Alaskan Yup'ik language	iso	esu
+Bribri language	iso	bzd
+Wom language	iso	wmo
+Ansus language	iso	and
+Apalaí language	iso	apy
+Tetelcingo Nahuatl	iso	nhg
+Laiuse Romani language	iso	none
+Misantla Totonac	iso	tlc
+Rutul language	iso	rut
+Langalanga language	iso	lgl
+Pidgin Wolof	iso	none
+Ts'ün-Lao language	iso	tsl
+Sawi language	iso	saw
+Petats language	iso	pex
+Mojave language	iso	mov
+Cocopah language	iso	coc
+Yinjibarndi language	iso	yij
+Kota language	iso	kfe
+Colorado River Numic language	iso	ute
+Yerukala language	iso	yeu
+Shirvani Arabic	iso	none
+North Mesopotamian Arabic	iso	ayp
+Judeo-Iraqi Arabic	iso	yhd
+Qoqmončaq language	iso	none
+Aringa language	iso	luc
+Twana language	iso	twa
+Labrador Inuit Pidgin French	iso	none
+Qabiao language	iso	laq
+Wogamusin language	iso	wog
+Selayar language	iso	sly
+Xakriabá language	iso	xkr
+Queensland Kanaka English	iso	none
+Kangean language	iso	kkv
+Bengkulu language	iso	pse
+Middle Turkic languages	iso	xqa
+Mishing language	iso	mrg
+Jamaican Maroon spirit-possession language	iso	none
+Abom language	iso	aob
+Cisalpine Gaulish	iso	xcg
+Dori'o language	iso	dor
+Sa'a language	iso	apb
+Lola language	iso	lcd
+Temuan language	iso	tmw
+Sri Lankan Creole Malay	iso	sci
+Upper Chinook language	iso	wac
+Lamba language	iso	lam
+Isoko language	iso	iso
+Zulgo-Gemzek language	iso	gnd
+Ebughu language	iso	ebg
+E language	iso	eee
+Iaai language	iso	iai
+Huachipaeri language	iso	hug
+Maritime Sign Language	iso	nsr
+Amal language	iso	aad
+Ari language	iso	aac
+Gogodala language	iso	ggw
+Minica Huitoto	iso	hto
+Murui Huitoto language	iso	huu
+Nüpode Huitoto language	iso	hux
+Iñapari language	iso	inp
+Chantyal language	iso	chx
+Southern Oromo language	iso	gax
+Orma language	iso	orc
+Teribe language	iso	tfr
+Chadian Arabic	iso	shu
+Bamboo English	iso	none
+Ika language	iso	ikk
+Lardil language	iso	lbz
+Garlali language	iso	gll
+Ankave language	iso	aak
+Dalabon language	iso	ngk
+Mediterranean Lingua Franca	iso	pml
+Chintang language	iso	ctn
+Anglo-Norman language	iso	xno
+Athpare language	iso	aph
+Dumi language	iso	dus
+Khaling language	iso	klr
+Ch’olti’ language	iso	none
+Tsolyáni language	iso	none
+Gorontalo language	iso	gor
+Main-Franconian dialects	iso	vmf
+Guaymí language	iso	gym
+Jingpho language	iso	kac
+Luba-Katanga language	iso	lu
+Luba-Katanga language	iso	lub
+Mandar language	iso	mdr
+Orizaba Nahuatl	iso	nlv
+Bangime language	iso	dba
+Loun language	iso	lox
+Lachiguiri Zapotec	iso	zpa
+Andoa language	iso	anb
+Omurano language	iso	omu
+Yanesha' language	iso	ame
+Nyungar language	iso	nys
+Arosi language	iso	aia
+Malayan languages	iso	ms
+Malayan languages	iso	msa
+Zou language	iso	zom
+Zo'é language	iso	pto
+Nkutu language	iso	nkw
+Maiya language	iso	mvy
+Congaree people	iso	none
+Cusabo	iso	none
+Kara language	iso	leu
+Ashtiani language	iso	atn
+Bolango language	iso	bld
+Nangalami language	iso	nli
+Pu-Xian Min	iso	cpx
+Maká language	iso	mca
+Maasina Fulfulde	iso	ffm
+Butuanon language	iso	btw
+Solombala English	iso	none
+Ibaloi language	iso	ibl
+Toki Pona	iso	none
+Tigak language	iso	tgc
+Iquito language	iso	iqu
+Wuvulu-Aua language	iso	wuv
+Fagani language	iso	faf
+Kahua language	iso	agw
+Bauro language	iso	bxa
+Owa language	iso	stn
+Indonesian sign languages	iso	inl
+Ayoreo language	iso	ayo
+Eastern Punjabi	iso	pa
+Eastern Punjabi	iso	pan
+Chamacoco language	iso	ceg
+Nyole language	iso	nuj
+Kui language	iso	kxu
+Muher language	iso	none
+Manna-Dora language	iso	mju
+Waddar language	iso	wbq
+Thadou language	iso	tcz
+Koya language	iso	kff
+Malto language	iso	639
+Kullu language	iso	kfx
+Aushiri language	iso	avs
+Hinuq language	iso	gin
+Moneton	iso	tta
+Sanumá language	iso	xsu
+Ghadamès language	iso	gha
+Nafusi language	iso	jbn
+Mongo language	iso	lol
+Tayo Creole	iso	cks
+Bravanese dialect	iso	none
+Basque–Icelandic pidgin	iso	none
+Gaddang language	iso	gad
+Urhobo language	iso	urh
+Southern Yukaghir language	iso	yux
+Mandari dialect	iso	mqu
+Osing dialect	iso	osi
+Pacoh language	iso	pac
+Kusunda language	iso	kgg
+Bantawa language	iso	bap
+Colombian Sign Language	iso	csn
+Parachi language	iso	prc
+Ormuri	iso	oru
+Amurdag language	iso	amg
+Canichana language	iso	caz
+Kallawaya language	iso	caw
+Zaghawa language	iso	zag
+Tupuri language	iso	tui
+Semelai language	iso	sza
+Bororo language	iso	bor
+Rusenu language	iso	none
+Lower Arrernte language	iso	axl
+Itawis language	iso	itv
+Salvadoran Sign Language	iso	esn
+Columbia-Moses language	iso	col
+Gokana language	iso	gkn
+Önge language	iso	oon
+Boga language	iso	bvw
+Ga'anda language	iso	gqa
+Jara language	iso	jaf
+Cibak language	iso	ckl
+Pandan Bikol language	iso	cts
+Rinconada Bikol language	iso	bto
+Ngiti language	iso	niy
+Yeyi language	iso	yey
+Ronga language	iso	rng
+Tswa language	iso	tsc
+Ofo language	iso	ofo
+Lau language	iso	llu
+Nethalp language	iso	lnn
+Kamoro language	iso	kgq
+Ngen language	iso	ssv
+Loncong language	iso	lce
+Banggai language	iso	bgz
+Baropasi language	iso	brp
+Yaur language	iso	jau
+Iwam language	iso	iwm
+Rennellese language	iso	mnv
+Yao language	iso	yao
+Parkari Koli language	iso	kvx
+Gnau language	iso	gnu
+Juang language	iso	jun
+Zaiwa language	iso	atb
+Ai-Cham language	iso	aih
+Dhudhuroa language	iso	ddr
+Pichinglis	iso	fpe
+Paniya language	iso	pcg
+Bushi language	iso	buc
+Ndom language	iso	nqm
+Kedah Malay	iso	meo
+Palawa kani	iso	none
+Rikbaktsa language	iso	rkb
+Abron dialect	iso	abr
+Wanetsi	iso	wne
+Glosa	iso	none
+Loko language	iso	lok
+Abui language	iso	abz
+Majang language	iso	mpe
+Berau Malay language	iso	bve
+Beti language	iso	btb
+Kako language	iso	kkj
+Dezfuli dialect	iso	def
+Daur language	iso	dta
+Achawa language	iso	aca
+Andaqui language	iso	ana
+Brokskat language	iso	bkk
+Bartangi language	iso	none
+Mesmes language	iso	mys
+Qimant language	iso	ahg
+Greenlandic Norse	iso	none
+Nukak language	iso	mbr
+Kawaiisu language	iso	xaw
+Bonda language	iso	bfw
+Ayi language	iso	ayq
+Gta’ language	iso	gaq
+Cèmuhî language	iso	cam
+Secoya language	iso	sey
+Cha'palaa language	iso	cbi
+Mara language	iso	mrh
+Tawellemmet language	iso	ttq
+Gedeo language	iso	drs
+Burji language	iso	bji
+Dirasha language	iso	gdl
+Nambikwara language	iso	nab
+Siwu language	iso	akp
+Wolio language	iso	wlo
+Moronene language	iso	mqn
+Umatilla language	iso	uma
+Dawera-Daweloor language	iso	ddw
+Ngaju language	iso	nij
+Phukha language	iso	phh
+Philippine Sign Language	iso	psp
+Nguồn language	iso	nuo
+Laghuu language	iso	lgh
+Biak language	iso	bhw
+Taos dialect	iso	twf
+Bugan language	iso	bbh
+Arin language	iso	xrn
+Finnish Kalo language	iso	rmf
+Afade language	iso	aal
+Lagwan language	iso	kot
+Malgbe language	iso	mxf
+Maslam language	iso	msv
+Mser language	iso	kqx
+Mpade language	iso	mpi
+Cakfem-Mushere language	iso	cky
+Jorto language	iso	jrt
+Kofyar language	iso	kwl
+Miship language	iso	mjs
+Mwaghavul language	iso	sur
+Ngas language	iso	anc
+Koenoem language	iso	kcs
+Montol language	iso	mtl
+Pyapun language	iso	pcw
+Tal language	iso	tal
+Ajawa language	iso	ajw
+Ciwogai language	iso	tgd
+Diri language	iso	dwa
+Mburku language	iso	bbt
+Kariya language	iso	kil
+Miya language	iso	mkf
+Pa'a language	iso	pqa
+Siri language	iso	sir
+Warji language	iso	wji
+Picuris dialect	iso	twf
+Auyokawa language	iso	auo
+Ɗuwai language	iso	dbp
+Alaba-K’abeena language	iso	alw
+Southern Tiwa language	iso	tix
+Arbore language	iso	arv
+Baiso language	iso	bsw
+Daasanach language	iso	dsh
+Dime language	iso	dim
+Karo language	iso	kxh
+Iraqw language	iso	irk
+Kw'adza language	iso	wka
+Gorowa language	iso	gow
+Alagwa language	iso	wbj
+Burunge language	iso	bds
+El Molo language	iso	elo
+Bana language	iso	bcw
+Hya language	iso	hya
+Kamwe language	iso	hig
+Psikyɛ dialect	iso	kvj
+Cuvok language	iso	cuv
+Baldemu language	iso	bdn
+Ɗugwor language	iso	dme
+Maɗa language	iso	mxu
+Mafa language	iso	maf
+Mefele language	iso	mfj
+Mbuko language	iso	mqb
+Mofu-Gudur language	iso	mif
+Merey language	iso	meq
+Matal language	iso	mfh
+Moloko language	iso	mlw
+North Giziga language	iso	gis
+Muyang language	iso	muy
+South Giziga language	iso	giz
+North Mofu language	iso	mfk
+Wuzlam language	iso	udl
+Vame language	iso	mlr
+Old Kannada	iso	none
+Bacama language	iso	bcy
+Bata language	iso	bta
+Fali of Mubi	iso	fli
+Gudu language	iso	gdu
+Gude language	iso	gde
+Jimi language	iso	jim
+Holma language	iso	hod
+Ngwaba language	iso	ngw
+Nzanyi language	iso	nja
+Sharwa language	iso	swq
+Tsuvan language	iso	tsh
+Yedina language	iso	bdm
+Jilbe language	iso	jie
+Ngizim language	iso	ngi
+Teshenawa language	iso	twc
+Drèents dialects	iso	drt
+Chara language	iso	cra
+Buwal language	iso	bhs
+Daba language	iso	dbq
+Gawar language	iso	gou
+Mbudum language	iso	xmd
+Mazagway language	iso	dkx
+Hina language	iso	hna
+Bidiyo language	iso	bid
+Dangaléat language	iso	daa
+Jonkor language	iso	jeu
+Mabire language	iso	muj
+Ubi language	iso	ubi
+Migaama language	iso	mmy
+Mawa language	iso	mcw
+Mogum language	iso	mou
+Old Aramaic language	iso	oar
+Old Aramaic language	iso	arc
+Putai language	iso	mfl
+Miltu language	iso	mlj
+Boor language	iso	bvf
+Sarua language	iso	swy
+Birgit language	iso	btf
+Kajakse language	iso	ckq
+Masmaje language	iso	mes
+Mubi language	iso	mub
+Toram language	iso	trj
+Zirenkel language	iso	zrn
+Barein language	iso	bva
+Saba language	iso	saa
+Sokoro language	iso	sok
+Tamki language	iso	tax
+Bure language	iso	bvh
+Karekare language	iso	kai
+Ɓeele language	iso	bxq
+Bole language	iso	bol
+Deno language	iso	dbb
+Galambu language	iso	glo
+Gera language	iso	gew
+Geruma language	iso	gea
+Kholok language	iso	ktc
+Kubi language	iso	kof
+Giiwo language	iso	kks
+Maaka language	iso	mew
+Ngamo language	iso	nbh
+Nyam language	iso	nmi
+Boghom language	iso	bux
+Kir-Balar language	iso	kkr
+Mangas language	iso	zns
+Aweer language	iso	bob
+Rendille language	iso	rel
+Basketo language	iso	bst
+Shinasha language	iso	bwo
+Maale language	iso	mdy
+Saharan Arabic	iso	aao
+Sapo language	iso	krn
+Moose Cree language	iso	crm
+Dhofari Arabic	iso	adf
+Yalunka language	iso	yal
+Bedawi Arabic	iso	avl
+Dewoin language	iso	dee
+Gbii language	iso	ggb
+Tajuasohn language	iso	tja
+Glio-Ubi language	iso	oub
+Kuwaa language	iso	blh
+Omani Arabic	iso	acx
+Sa'idi Arabic	iso	aec
+Ta'izzi-Adeni Arabic	iso	acq
+Shihhi Arabic	iso	ssh
+Judeo-Tripolitanian Arabic	iso	yud
+Judeo-Tunisian Arabic	iso	ajt
+Hobyót language	iso	hoh
+Shehri language	iso	shv
+Cineni language	iso	cie
+Dghwede language	iso	dgh
+Guduf-Gava language	iso	gdf
+Glavda language	iso	glw
+Gvoko language	iso	ngs
+Duhwa language	iso	kbz
+Kulere language	iso	kul
+Mundat language	iso	mmf
+Ron language	iso	cla
+Sha language	iso	scw
+Light Warlpiri	iso	none
+Mahican language	iso	mjy
+Piscataway language	iso	psy
+Woods Cree	iso	cwd
+Naskapi language	iso	nsk
+Central Ojibwa language	iso	ojc
+Eastern Ojibwa language	iso	ojg
+Northwestern Ojibwa	iso	ojb
+Chippewa language	iso	ciw
+Western Ojibwa language	iso	ojw
+Malecite-Passamaquoddy language	iso	pqm
+Nanticoke language	iso	nnt
+Mohegan-Pequot language	iso	xpq
+Gros Ventre language	iso	ats
+Nawathinehena language	iso	nwa
+Dazawa language	iso	dzd
+Dass language	iso	dot
+Jimi language	iso	jmi
+Gawwada language	iso	gwd
+Tsamai language	iso	tsb
+Pai Tavytera language	iso	pta
+Dabarre language	iso	dbr
+Jiiddu language	iso	jii
+Garre language	iso	gex
+Tunni language	iso	tqq
+Jelkung language	iso	saa
+Birgid language	iso	brk
+Mokilko language	iso	moz
+Dorze language	iso	doz
+Melo language	iso	mfx
+Oyda language	iso	oyd
+Middle Mongol language	iso	xng
+Maipure language	iso	none
+Salchuq language	iso	slq
+Achterhooks dialect	iso	act
+Amto language	iso	amt
+Siawi language	iso	mmp
+Fyer language	iso	fie
+Tambas language	iso	tdk
+Mundari language	iso	unr
+Erromanga language	iso	erg
+Agalega creole	iso	none
+Ma'di language	iso	mhi
+Batak Karo language	iso	btx
+Sunam language	iso	ssk
+Gahri language	iso	bfu
+Pattani language	iso	lae
+Paamese language	iso	pma
+Zia language	iso	zia
+Sheko language	iso	she
+Chamling language	iso	rab
+Puinave language	iso	pui
+Aka-Kede language	iso	akx
+Aka-Kol language	iso	aky
+Oko-Juwoi language	iso	okj
+Aka-Kora language	iso	ack
+Aka-Bo language	iso	akm
+Aka-Cari language	iso	aci
+Jarawa language	iso	anq
+Jemez language	iso	tow
+Awa Pit language	iso	kwi
+Catio language	iso	cto
+Vasavi language	iso	vas
+Urali language	iso	url
+Holiya language	iso	hoy
+Kulung language	iso	kle
+Ndali language	iso	ndh
+Siuslaw language	iso	sis
+Old Spanish language	iso	osp
+Dizin language	iso	mdx
+Barasana-Eduria language	iso	bsn
+Andoque language	iso	ano
+Cabiyari language	iso	cbb
+Kakwa language	iso	cbv
+Khinalug language	iso	kjj
+Gumuz languages	iso	guk
+Ngiemboon language	iso	nnh
+Sio language	iso	xsi
+Kâte language	iso	kmg
+Pare language	iso	asa
+Kuhmareyi language	iso	fay
+Tetserret language	iso	none
+Dongolawi language	iso	dgl
+Omi language	iso	omi
+Baima language	iso	bqh
+Kamu language	iso	xmu
+Bhujel language	iso	byh
+American Indian Pidgin English	iso	none
+Chepang language	iso	cdm
+Vayu language	iso	vay
+Daylami language	iso	none
+Mangbutu language	iso	mdk
+Malawi Lomwe language	iso	lon
+Jakati language	iso	jat
+Pardhan language	iso	pch
+Khetrani language	iso	xhe
+Ocaina language	iso	oca
+Transpiranto	iso	none
+Shompen language	iso	sii
+Muinane language	iso	bmr
+Fasu language	iso	faa
+Niuatoputapu language	iso	nkp
+Alo-Teqel language	iso	none
+Rerep language	iso	pgk
+Balomar language	iso	none
+Chaná language	iso	none
+Baenan language	iso	none
+Mire language	iso	mvh
+Culle language	iso	none
+Ndam language	iso	ndm
+Cuitlatec language	iso	none
+Somrai language	iso	sor
+Broken Slavey	iso	none
+Tumak language	iso	tmc
+Singdarin	iso	none
+Wenrohronon	iso	none
+Andi language	iso	ani
+Akhvakh language	iso	akv
+Nagarchal language	iso	nbg
+Solresol	iso	none
+Nungali language	iso	nug
+Jaminjung language	iso	djd
+Irantxe language	iso	irn
+Movima language	iso	mzp
+Aikanã language	iso	tba
+Kol language	iso	biw
+Cua language	iso	cua
+Adja language	iso	ajg
+Temein language	iso	teq
+Kadodi language	iso	smv
+Bahnar language	iso	bdq
+Urarina language	iso	ura
+Guató language	iso	gta
+Sechura language	iso	none
+Laghu language	iso	lgb
+Gothic language	iso	got
+Orang Seletar language	iso	ors
+Hakha Chin language	iso	cnh
+Kassite language	iso	none
+Pasto language	iso	bpb
+Tama language	iso	ten
+Mugom dialect	iso	muk
+Wagdi language	iso	wbr
+Andh language	iso	anr
+Chaura language	iso	crv
+Universal	iso	none
+Zhaba language	iso	zhb
+Rangas language	iso	rgk
+Turung language	iso	try
+Singpho dialect	iso	sgp
+Degema language	iso	deg
+Judaeo-Spanish	iso	lad
+Cayuse language	iso	xcy
+Lojban	iso	jbo
+Albanian language	iso	sq
+Albanian language	iso	sqi
+Gciriku language	iso	diu
+Kwangali language	iso	kwn
+Mbukushu language	iso	mhw
+Puguli language	iso	pug
+Paisaci	iso	none
+Lote language	iso	uvl
+Orok language	iso	oaa
+Thavung language	iso	thm
+Akha language	iso	ahk
+Nayi language	iso	noz
+Alak language	iso	alk
+Arem language	iso	aem
+Bit language	iso	bgk
+Pinyin language	iso	pny
+Koroshi dialect	iso	ktl
+Chut language	iso	scb
+Duan language	iso	hld
+Tikopia language	iso	tkp
+Anuta language	iso	aud
+Alamblak language	iso	amp
+Jeh language	iso	jeh
+Savosavo language	iso	svs
+Touo language	iso	tqu
+Tetepare language	iso	none
+Bilua language	iso	blb
+Santa Cruz language	iso	stc
+Nanggu language	iso	ngr
+Yuri language	iso	none
+Tuwali language	iso	ifk
+Haflong Hindi	iso	none
+Parya language	iso	paq
+Larteh language	iso	lar
+Busuu language	iso	bju
+Siraya language	iso	fos
+Orang Kanaq language	iso	orn
+Lun Bawang language	iso	lnd
+Swedish Sign Language	iso	swl
+Kemezung language	iso	dmo
+Jola-Fonyi language	iso	dyo
+Kokota language	iso	kkk
+Cipu language	iso	awc
+Irish language	iso	ga
+Irish language	iso	gle
+Vedda language	iso	ved
+Baekje language	iso	xpp
+Baekje language	iso	pkc
+Butler English	iso	none
+Quileute language	iso	qui
+Finnish language	iso	fi
+Finnish language	iso	fin
+Dutch language	iso	nl
+Acehnese language	iso	ace
+Icelandic language	iso	is
+Icelandic language	iso	isl
+Sobei language	iso	sob
+Jalapa Mazatec	iso	maj
+Axininca language	iso	cpc
+Ndrumbea language	iso	duf
+Tee language	iso	tkq
+Avatime language	iso	avn
+Kairiru language	iso	kxa
+Jiamao language	iso	jio
+Harappan language	iso	xiv
+Romano-Greek language	iso	rge
+Djeoromitxí language	iso	jbt
+Kariri languages	iso	kzw
+Shiwiar language	iso	acu
+Ngambay language	iso	sba
+Ebira language	iso	igb
+Idoma language	iso	idu
+Bissa language	iso	bib
+Nimadi language	iso	noe
+Lambadi	iso	lmn
+Bijago language	iso	bjg
+Pyu language	iso	pyx
+Cori language	iso	cry
+Tarok language	iso	yer
+Longuda language	iso	lnu
+Khunsari language	iso	kfm
+Kadazan Dusun language	iso	dtp
+Bambassi language	iso	myf
+Izi language	iso	izz
+Kosli language	iso	spv
+Anuak language	iso	anu
+Hozo language	iso	hoz
+Old Georgian language	iso	oge
+Komo language	iso	xom
+Kachama-Ganjule language	iso	kcx
+Baale language	iso	koe
+Kafa language	iso	kbr
+Ngarla language	iso	nrk
+Jijel Arabic	iso	none
+Warumungu language	iso	wrm
+Ogba language	iso	ogc
+Balkan Romani	iso	rmn
+Haruai language	iso	tmd
+Pemon language	iso	aoc
+Amazonic Spanish	iso	spq
+Singlish	iso	none
+Tlahuitoltepec Mixe	iso	mxp
+Totontepec Mixe	iso	mto
+Kho'ini dialect	iso	xkc
+Igede language	iso	ige
+Medieval Greek	iso	grc
+Ossetian language	iso	os
+Ossetian language	iso	oss
+Simeulue language	iso	smr
+Sikule language	iso	skh
+Hodï language	iso	yau
+Bagvalal language	iso	kva
+Cacán language	iso	none
+Karbi language	iso	mjw
+Opuo language	iso	lgn
+Amdo Tibetan	iso	adx
+Bengali language	iso	bn
+Bengali language	iso	ben
+Shao-Jiang Min	iso	none
+Danish Sign Language	iso	dsl
+Mota language	iso	mtt
+Biloxi language	iso	bll
+Nias language	iso	nia
+Warao language	iso	wba
+Leti language	iso	lti
+Kembra language	iso	xkw
+Olu’bo language	iso	lul
+Watiwa language	iso	wtf
+Folopa language	iso	ppo
+Conambo language	iso	none
+Arhuaco language	iso	arh
+Erromintxela language	iso	emx
+Budu language	iso	buu
+Nimbari language	iso	nmr
+Nyingwom language	iso	kdx
+Suki language	iso	sui
+Medny Aleut language	iso	mud
+Kumbainggar language	iso	kgs
+Kelabit language	iso	kzi
+Gallong language	iso	adl
+Asur language	iso	asr
+Kēlen	iso	none
+Malagasy language	iso	mg
+Malagasy language	iso	mlg
+Nyangatom language	iso	nnj
+Telefol language	iso	tlf
+Uropi	iso	none
+Ukaan language	iso	kcf
+Mbre language	iso	mka
+Ega language	iso	ega
+Baissa Fali language	iso	fah
+Akpes language	iso	ibe
+Ayere language	iso	aye
+Oko language	iso	oks
+Akoko language	iso	aqg
+Western Bolivian Guarani	iso	gnw
+Sukuma language	iso	suk
+Nyamwezi language	iso	nym
+Datooga language	iso	tcc
+Lambayeque Quechua	iso	quf
+Gwandara language	iso	gwn
+Chachapoyas Quechua	iso	quk
+Lamas Quechua	iso	qvs
+Kele language	iso	khy
+Wounaan language	iso	noa
+Mattole language	iso	mvb
+Wailaki language	iso	wlk
+Kabalai language	iso	kvf
+Emilian dialect	iso	egl
+Romagnol dialect	iso	rgn
+Gorgotoqui language	iso	none
+Gutian language	iso	none
+Mbugu language	iso	mhd
+Old Occitan	iso	pro
+Urap language	iso	urm
+Tifal language	iso	tif
+Esimbi language	iso	ags
+Quinigua language	iso	none
+Khün language	iso	kkh
+Odual language	iso	odu
+Yem language	iso	jnj
+Tangale language	iso	tan
+Tima language	iso	tms
+Nimanburru language	iso	nmp
+Narangga language	iso	nnr
+Jur language	iso	lwo
+Nukunu language	iso	nnv
+Oroch language	iso	oac
+Alorese language	iso	aol
+Birhor language	iso	biy
+Wulguru language	iso	none
+Saliba language	iso	slc
+Wirö language	iso	wpc
+Enawene Nawe language	iso	unk
+Fergana Kipchak language	iso	qwm
+Hidatsa language	iso	hid
+Quenya	iso	qya
+Sindarin	iso	sjn
+Meadow Mari language	iso	mhr
+Kota language	iso	koq
+Usarufa language	iso	usa
+Bolak language	iso	none
+Pidgin Hawaiian	iso	none
+Idu Mishmi language	iso	clk
+Yameo language	iso	yme
+Tequiraca language	iso	ash
+Narragansett language	iso	xnt
+Nung language	iso	nun
+Upper Umpqua language	iso	xup
+Yakut language	iso	sah
+Aromanian language	iso	rup
+Fanji language	iso	bfj
+Zeem language	iso	zua
+Mwani language	iso	wmw
+Chilisso language	iso	clh
+Takuu language	iso	nho
+Jerba Berber	iso	none
+Abipón language	iso	axb
+Cia-Cia language	iso	cia
+Lakon language	iso	lkn
+Pnar language	iso	pbv
+Temoaya Otomi	iso	ott
+Minderico language	iso	drc
+Raga language	iso	lml
+Anuki language	iso	aui
+Doga language	iso	dgg
+Sampang language	iso	rav
+Ga'dang language	iso	gdg
+Pyu language	iso	pby
+Tinigua language	iso	tit
+Beigo language	iso	byg
+Romániço	iso	none
+Narom language	iso	nrm
+Kiai language	iso	frt
+Kurtöp language	iso	xkz
+Eyeish	iso	none
+Lou language	iso	loj
+Remontado Agta language	iso	agv
+Punjabi dialects	iso	pa
+Punjabi dialects	iso	pan
+Alekano language	iso	gah
+Shilluk language	iso	shk
+Fwe language	iso	fwe
+Kuhane language	iso	sbs
+Kalto language	iso	nlx
+Nihali language	iso	nll
+Safen language	iso	sav
+Damakawa language	iso	dam
+Folkspraak	iso	none
+Tepecano language	iso	tep
+Tol language	iso	jic
+Mongolian Sign Language	iso	msr
+Waxiang Chinese	iso	wxa
+Ngwe language	iso	nwe
+Venezuelan Sign Language	iso	vsl
+Lashi language	iso	lsi
+Bakumpai language	iso	bkr
+Ma'anyan language	iso	mhy
+Benga language	iso	bng
+Kombe language	iso	nui
+Seki language	iso	syi
+Southeastern Pomo language	iso	pom
+Northeastern Pomo language	iso	pef
+Central Pomo language	iso	poo
+Gongduk language	iso	goe
+Interslavic language	iso	none
+Eastern Oromo language	iso	hae
+Kyakhta Russian–Chinese Pidgin	iso	none
+Musi language	iso	mui
+Tangwang language	iso	none
+Botlikh language	iso	bph
+Chamalal language	iso	cji
+Karata language	iso	kpt
+Dargin languages	iso	dar
+Varhadi dialect	iso	vah
+Kryts language	iso	kry
+Budukh language	iso	bdk
+Kanikkaran language	iso	kev
+Kgalagadi language	iso	xkv
+Tuyuca language	iso	tue
+Musasa language	iso	smm
+Semnani language	iso	smy
+Gwahatike language	iso	dah
+Plains Miwok language	iso	pmw
+Lake Miwok language	iso	lmw
+Na'vi language	iso	none
+Kasena language	iso	xsm
+Cahuilla language	iso	chl
+Vao language	iso	vao
+Siamou language	iso	sif
+Epie language	iso	epi
+Mian language	iso	mpt
+Kuuk Thaayorre language	iso	thd
+Yirrk-Thangalkl dialect	iso	yrm
+Maldivian language	iso	dv
+Maldivian language	iso	div
+Kuuk Yak language	iso	uky
+Bankon language	iso	abb
+Ske language	iso	ske
+Rombi language	iso	bbi
+U language	iso	uuu
+Algerian Sign Language	iso	asp
+Sursurunga language	iso	sgz
+Karamojong language	iso	kdj
+Duruwa language	iso	pci
+Globish	iso	none
+Globish	iso	none
+Margi language	iso	mrt
+Iskonawa language	iso	isc
+Tanzanian sign languages	iso	tza
+Makolkol language	iso	zmh
+Konjo language	iso	koo
+Koyraboro Senni	iso	ses
+Wawa language	iso	www
+Mandailing language	iso	btm
+Itsekiri language	iso	its
+Croatian language	iso	hr
+Croatian language	iso	hrv
+Lombardic language	iso	lng
+Guragone language	iso	gge
+Ngwo language	iso	ngn
+Pokomo language	iso	pkb
+Sinte Romani	iso	rmo
+Saint Lucian Creole French	iso	acf
+Língua Geral of São Paulo	iso	none
+Cayuvava language	iso	cyb
+Scottish Cant	iso	trl
+Lucumí language	iso	luq
+Bidai	iso	none
+Wiru language	iso	wiu
+Greek Sign Language	iso	gss
+Galician language	iso	gl
+Galician language	iso	glg
+Zanaki language	iso	zak
+Abaknon language	iso	abx
+Zialo language	iso	zil
+Chokwe language	iso	cjk
+Pacaraos Quechua	iso	qvp
+Kwara'ae language	iso	kwf
+Tutelo language	iso	tta
+Jewish Palestinian Aramaic	iso	jpa
+Koalib language	iso	kib
+Katla language	iso	kcr
+Guro language	iso	goa
+Mamuju language	iso	mqx
+Babatana language	iso	baa
+Ha language	iso	haq
+Nyakyusa language	iso	nyy
+Hehe language	iso	heh
+Bena language	iso	bez
+Luguru language	iso	ruf
+Turu language	iso	rim
+Kansa language	iso	ksk
+Rangi language	iso	lag
+Iramba language	iso	nim
+Mbugwe language	iso	mgz
+Kaduo language	iso	ktp
+Tapachultec language	iso	none
+Kaikadi language	iso	kep
+Larantuka Malay	iso	lrt
+Gallaecian language	iso	none
+Obispeño language	iso	obi
+Songe language	iso	sop
+Nande language	iso	nnb
+Chopi language	iso	cce
+Mbati language	iso	mdn
+Aka language	iso	axk
+Aka language	iso	none
+Basa-Benue language	iso	bzw
+Basa-Gumna language	iso	bsl
+Luo language	iso	luw
+Asoa language	iso	asv
+Kresh language	iso	krs
+Tar Gula language	iso	kcm
+Ndogo language	iso	ndz
+Lopit language	iso	lpx
+Moru language	iso	mgd
+Ingessana language	iso	tbi
+Jur Modo language	iso	bex
+Bongo language	iso	bot
+Sinyar language	iso	sys
+Nyala language	iso	daj
+Sila language	iso	dau
+Daju Mongo language	iso	djc
+Ofayé language	iso	opy
+Nahuatl	iso	nah
+Nahuatl	iso	nci
+Krongo language	iso	kgo
+Kadugli language	iso	xtc
+Moro language	iso	mor
+Tiro language	iso	tic
+Laro language	iso	lro
+Lumun language	iso	lmd
+Dengebu language	iso	dec
+Tegali language	iso	ras
+Ngbaka Minagende language	iso	nga
+Mayogo language	iso	mdm
+Mba language	iso	mfc
+Cruzeño language	iso	crz
+Chrau language	iso	crw
+Dhanki language	iso	dhn
+Ezaa language	iso	eza
+Coatepec Nahuatl	iso	naz
+Central Puebla Nahuatl	iso	ncx
+Purisimeño language	iso	puy
+Amba language	iso	rwm
+Amba language	iso	none
+Small Flowery Miao	iso	sfm
+Kaki Ae language	iso	tbd
+Deori language	iso	der
+Ukwa language	iso	ukq
+Nong Zhuang language	iso	zhn
+Yang Zhuang language	iso	zyg
+Zuojiang Zhuang languages	iso	zzj
+Nyole language	iso	nyd
+Bishuo language	iso	bwh
+Noy language	iso	noy
+Western Krahn language	iso	krw
+Èrsh language	iso	none
+Kwambi dialect	iso	kwm
+Embu language	iso	ebu
+Dâw language	iso	kwa
+Kaniet language	iso	ktk
+Seimat language	iso	ssg
+Bipi language	iso	biq
+Hermit language	iso	llf
+Likum language	iso	lib
+Nyindrou language	iso	lid
+Sori-Harengan language	iso	sbh
+Twi	iso	tw
+Twi	iso	twi
+Tulu-Bohuai language	iso	rak
+Mru language	iso	mro
+Kwaami language	iso	ksq
+Fulniô language	iso	fun
+Purubora language	iso	pur
+Kei language	iso	kei
+Wiwa language	iso	mbp
+Yugoslav Sign Language	iso	ysl
+Kenati language	iso	gat
+Ngombe language	iso	ngc
+Marra language	iso	mec
+Sangu language	iso	snq
+Sangu language	iso	sbp
+Bwisi language	iso	bwz
+Luvale language	iso	lue
+Midob language	iso	mei
+Yavitero language	iso	yvt
+Yaruro language	iso	yae
+Bangka Malay	iso	mfb
+Jakun language	iso	jak
+Mandara language	iso	tbf
+Bariba language	iso	bba
+Talinga language	iso	tlj
+South Oran and Figuig Berber	iso	none
+Yolmo language	iso	scp
+Taushiro language	iso	trr
+Jarawa language	iso	jar
+Ternate language	iso	tft
+Paya language	iso	pay
+Mbama language	iso	mbm
+Mondropolon language	iso	npn
+Gbandi language	iso	bza
+Mano language	iso	mev
+Tugurt language	iso	tjo
+Bayot language	iso	bda
+Kukuya language	iso	kkw
+Koro language	iso	jkr
+Awtuw language	iso	kmn
+Lhokpu language	iso	lhp
+Koro language	iso	krf
+Lo-Toga language	iso	lht
+Numanggang language	iso	nop
+Mwerlap language	iso	mrm
+Wargli language	iso	oua
+Zuwara Berber	iso	none
+Gurara language	iso	grr
+Macedonian Sign Language	iso	none
+Tanchangya language	iso	tnv
+Kiliwa language	iso	klb
+Matmata Berber	iso	none
+Uduk language	iso	udu
+Hiw language	iso	hiw
+Chokri language	iso	nri
+Ong Be language	iso	onb
+Brunei Malay	iso	kxd
+Asu language	iso	aum
+Ilongot language	iso	ilk
+Ambelau language	iso	amv
+Kayeli language	iso	kzl
+Buru language	iso	mhs
+Lisela language	iso	lcl
+Cabécar language	iso	cjp
+Kaluli language	iso	bco
+Guerrero Amuzgo language	iso	amu
+Kensiu language	iso	kns
+Laha language	iso	lha
+Paha language	iso	yha
+En language	iso	enc
+Nam language	iso	none
+Daoukro	iso	none
+Dorig language	iso	wwo
+Toposa language	iso	toq
+Koro language	iso	kxr
+Maonan language	iso	mmd
+Chadong language	iso	cdy
+Then language	iso	tct
+Mulam language	iso	mlm
+Mak language	iso	mkg
+Lakkja language	iso	lbc
+Biao language	iso	byk
+Ut-Ma'in language	iso	gel
+Warrwa language	iso	wwr
+Mamanwa language	iso	mmn
+Fipa language	iso	fip
+Central Pashto	iso	pst
+Ganza language	iso	gza
+Kwama language	iso	kmq
+Kwegu language	iso	xwg
+Mesqan language	iso	mvz
+Murle language	iso	mur
+Suri language	iso	suq
+Seze language	iso	sze
+Shakacho language	iso	moy
+Zayse-Zergulla language	iso	zay
+Koore language	iso	kqy
+Ait Seghrouchen Berber	iso	none
+Makuv'a language	iso	lva
+Teanu language	iso	tkw
+Khuzdul	iso	none
+Enggano language	iso	eno
+Pa-Hng language	iso	pha
+Krenak language	iso	kqq
+Oti language	iso	oti
+Caucasian Albanian language	iso	xag
+Kui language	iso	kvd
+Frafra language	iso	gur
+Pakanha language	iso	pkn
+Southern Tsimshian dialect	iso	tsi
+Slovio	iso	none
+Phom language	iso	nph
+Whitesands language	iso	tnp
+Trumai language	iso	tpy
+Kposo language	iso	kpo
+Kebu language	iso	keu
+Younuo language	iso	buh
+Bu-Nao language	iso	bwx
+Kiong Nai language	iso	pnu
+Dzala language	iso	dzl
+Ba-Shu Chinese	iso	none
+Mbule language	iso	mlb
+'Ole language	iso	ole
+Aramaic of Hatra	iso	none
+Moroccan Darija	iso	ary
+Pijin language	iso	pis
+Northern Min	iso	mnp
+Chocangaca language	iso	cgk
+Lakha language	iso	lkh
+Brokkat language	iso	bro
+Brokpa language	iso	sgt
+Harzandi dialect	iso	hrz
+Bumthang language	iso	kjz
+Chali language	iso	tgf
+Nyen language	iso	neh
+Dargwa language	iso	dar
+Anaang language	iso	anw
+Ik language	iso	ikx
+Tepes language	iso	teu
+Nyangia language	iso	nyp
+Ibibio language	iso	ibb
+Sambahsa	iso	none
+Wayampi language	iso	oym
+Apinayé language	iso	apn
+Croatian Sign Language	iso	csq
+French Belgian Sign Language	iso	sfb
+Sri Lankan sign languages	iso	sqs
+Peruvian Sign Language	iso	prl
+Nepali Sign Language	iso	nsp
+Saudi Sign Language	iso	sdl
+Rennellese Sign Language	iso	rsi
+Ecuadorian Sign Language	iso	ecs
+Armenian Sign Language	iso	aen
+Lyons Sign Language	iso	lsg
+Cubeo language	iso	cub
+Swiss-German Sign Language	iso	sgg
+Bolyu language	iso	ply
+Paakantyi	iso	drl
+Plateau Sign Language	iso	none
+Inuit Sign Language	iso	iks
+Mehek language	iso	nux
+Ugandan Sign Language	iso	ugn
+Kukna language	iso	kex
+Laua language	iso	luf
+Adurgari	iso	none
+Isanzu language	iso	isn
+Old Burmese	iso	obr
+Pataxó language	iso	pth
+Aghem language	iso	agq
+Ifè language	iso	ife
+Tokano language	iso	zuh
+Zambian Sign Language	iso	zsl
+Zangwal language	iso	zah
+Zaramo language	iso	zaj
+Djeebbana language	iso	djj
+Burarra language	iso	bvr
+Nakkara language	iso	nck
+Andegerebinha dialect	iso	adg
+Alumu language	iso	aab
+Aranadan language	iso	aaf
+Ambrak language	iso	aag
+Pamona language	iso	pmf
+Papantla Totonac	iso	top
+Tehit language	iso	kps
+Galela language	iso	gbi
+Terei language	iso	buo
+Western Dani language	iso	dnw
+Amberbaken language	iso	akc
+Abun language	iso	kgr
+Hattam language	iso	had
+West Makian language	iso	mqs
+Guhu-Samane language	iso	ghs
+Pawaia language	iso	pwa
+Kamula language	iso	xla
+Sumeri language	iso	tcm
+Karas language	iso	kgv
+Kapori language	iso	khp
+Mor language	iso	moq
+Wersing language	iso	kvw
+Morori language	iso	mok
+Amung language	iso	uhn
+Dem language	iso	dem
+Lele language	iso	lle
+Lele language	iso	llc
+Wadaginam language	iso	wdg
+Faita language	iso	faj
+Utarmbung language	iso	omo
+Paynamar language	iso	pmr
+Massep language	iso	mvs
+Molof language	iso	msl
+Tofanma language	iso	tlg
+Samarokena language	iso	tmj
+Komyandaret language	iso	kzv
+Yoke language	iso	yki
+Hagahai language	iso	pnn
+Ayapa Zoque	iso	zoq
+Lomwe language	iso	ngl
+Demta language	iso	dmy
+Rasawa language	iso	rac
+Meax language	iso	mej
+Saponi language	iso	spi
+Nakwi language	iso	nax
+Nimo language	iso	niw
+Owiniga language	iso	owi
+Bo language	iso	bpw
+Ama language	iso	amm
+Fas language	iso	fqs
+Baibai language	iso	bbf
+Guriaso language	iso	grx
+Kwomtari language	iso	kwo
+Boiken language	iso	bzf
+Abelam language	iso	abt
+Iatmül language	iso	ian
+Hawu language	iso	hvn
+Dhao language	iso	nfa
+Havu language	iso	hav
+Baa language	iso	kwb
+Tegem language	iso	none
+Lafofa languages	iso	laf
+Tyefo language	iso	tiq
+Vyemo language	iso	vig
+Xocó language	iso	none
+Betoi language	iso	none
+Huamoé language	iso	uam
+Katembri language	iso	none
+Teushen language	iso	none
+Namla language	iso	naa
+Esmeralda language	iso	none
+Maratino language	iso	none
+Naolan language	iso	none
+Tuxá language	iso	tud
+Taruma language	iso	tdm
+Matanawi language	iso	none
+Chimane language	iso	cas
+Carabayo language	iso	cby
+Waikuri language	iso	none
+Dusner language	iso	dsn
+Alagüilac language	iso	none
+Favorlang language	iso	bzg
+Cholón language	iso	cht
+Hibito language	iso	hib
+Jurúna language	iso	jur
+Old Tibetan	iso	otb
+Himarimã language	iso	hir
+Mongol language	iso	mgt
+Natú language	iso	none
+Tarairiú language	iso	none
+Jingulu language	iso	jig
+Nung language	iso	nut
+Guamo language	iso	none
+Panzaleo language	iso	none
+Ledo Kaili language	iso	lew
+Ngarnji language	iso	none
+Kambiwá language	iso	xbw
+Biatah language	iso	bth
+Wakoná language	iso	waf
+Kaimbé language	iso	xai
+Kapinawá	iso	xpn
+Mato Grosso Arára language	iso	axg
+Wasu language	iso	wsu
+Truká language	iso	tka
+Tremembé language	iso	tme
+Aranama language	iso	xrt
+Mawa language	iso	wma
+Kehu language	iso	khh
+Doso language	iso	dol
+Murkim language	iso	rmh
+Lepki language	iso	lpe
+Sorothaptic language	iso	sxo
+Kaskian language	iso	zsk
+Nonuya language	iso	noj
+Buol language	iso	blf
+Paleo-Sardinian language	iso	none
+Taíno language	iso	tnq
+Warndarang language	iso	wnd
+Palta language	iso	none
+Kukurá language	iso	none
+Chono language	iso	none
+Jeikó language	iso	none
+Gamela language	iso	none
+Umotína language	iso	umo
+Miriti language	iso	mmv
+Tawasa language	iso	none
+Berik language	iso	bkl
+Panara language	iso	kre
+Peba language	iso	none
+Timote language	iso	muf
+Jebero language	iso	jeb
+Taparita language	iso	none
+Otomaco language	iso	none
+Sanapaná language	iso	spn
+Enxet language	iso	enx
+Awetï language	iso	awe
+Mawé language	iso	mav
+Ramarama language	iso	arr
+Molala language	iso	mbe
+Cochimí language	iso	coj
+Gaya language	iso	zra
+Mucuchí language	iso	none
+Lembena language	iso	leq
+Pauna language	iso	pnk
+Misima language	iso	mpx
+Dane-zaa language	iso	bea
+Ese Ejja language	iso	ese
+Tambora language	iso	xxt
+Bima language	iso	bhp
+Sumbawa language	iso	smw
+Tallán language	iso	none
+Catacao language	iso	none
+Colan language	iso	none
+Caranqui language	iso	none
+Extinct languages of the Marañón River basin	iso	none
+Ye-Maek language	iso	hmk
+Tikar language	iso	tik
+Buru language	iso	bqw
+Omotik language	iso	omt
+Sua language	iso	msw
+Intal language	iso	none
+Jawoyn language	iso	djn
+Allentiac language	iso	none
+Esan language	iso	ish
+Lele language	iso	lln
+Lele language	iso	lel
+Yawa language	iso	yva
+Saweru language	iso	swr
+Huamelula language	iso	clo
+Highland Oaxaca Chontal	iso	chd
+Tequistlatec language	iso	none
+Sere language	iso	swf
+Tura language	iso	neb
+Yaure language	iso	yre
+Mwan language	iso	moa
+Wan language	iso	wan
+Gban language	iso	ggu
+Beng language	iso	nhb
+Boko language	iso	bqc
+Shanga language	iso	sho
+Kyenga language	iso	tye
+Dendi language	iso	ddn
+Jowulu language	iso	jow
+Sembla language	iso	sos
+Samo language	iso	smq
+Doghose language	iso	dos
+Lobi language	iso	lob
+Daga language	iso	dgz
+Fuyug language	iso	fuy
+Ese language	iso	mcq
+Kwale language	iso	ksj
+Yareba language	iso	yrb
+Kanasi language	iso	soq
+Kayagar language	iso	kyt
+Foi language	iso	foi
+Fiwaga language	iso	fiw
+Ipiko language	iso	ipo
+Mubami language	iso	tsx
+Rumu language	iso	klq
+Omati language	iso	mgx
+Kokoda language	iso	xod
+Suabo language	iso	szp
+Ketengban language	iso	xte
+Nalca language	iso	nlc
+Korupun language	iso	kpq
+Kare language	iso	kmf
+Amele language	iso	aey
+Girawa language	iso	bbr
+Nobonob language	iso	gaw
+Usan language	iso	wnu
+Waskia language	iso	wsk
+Lusi language	iso	khl
+Awin language	iso	awi
+Pa language	iso	ppt
+Beami language	iso	beo
+Hewa language	iso	ham
+Duna language	iso	duc
+Pogaya language	iso	boq
+Kwaio language	iso	kwd
+Fayu language	iso	fau
+Korowai language	iso	khe
+Moni language	iso	mnz
+Iha language	iso	ihp
+Iha language	iso	ihb
+Kula language	iso	tpg
+Sawila language	iso	swt
+Bauzi language	iso	bvz
+Nend language	iso	anh
+Anamgura language	iso	imi
+Apali language	iso	ena
+Mum language	iso	kqa
+Bargam language	iso	mlp
+Dimir language	iso	dmc
+Maia language	iso	sks
+Mauwake language	iso	mhl
+Pal language	iso	abw
+Pamosu language	iso	hih
+Yaqay language	iso	jaq
+Brem language	iso	buq
+Safwa language	iso	sbk
+Lorhon language	iso	lor
+Samwe language	iso	wbf
+Bofi language	iso	bff
+Nzime language	iso	ozm
+Yendang language	iso	ynq
+Mumuye language	iso	mzm
+Vere language	iso	ver
+Chamba Leko	iso	ndi
+Oblo language	iso	obl
+Waja language	iso	wja
+Lomakka language	iso	loi
+Ana Dogon	iso	dti
+Budu Dogon	iso	dgb
+Bankan Tey Dogon	iso	dbw
+Nanga Dogon	iso	nzz
+Yanda Dogon	iso	dym
+Tebul Dogon	iso	dtu
+Dogul Dogon	iso	dbg
+Bondum Dogon	iso	dbu
+Toro-tegu Dogon	iso	dtt
+Mombo Dogon	iso	dmb
+Ampari Dogon	iso	aqd
+Duleri Dogon	iso	tde
+Lumbu language	iso	lup
+Njebi language	iso	nzb
+Punu language	iso	puu
+Tsogo language	iso	tsv
+Yasa language	iso	yko
+Mokole language	iso	mkl
+Yukpa language	iso	yup
+Guajá language	iso	gvj
+Het peoples	iso	none
+Haush language	iso	none
+Bushong language	iso	buf
+Lenje language	iso	leh
+Kwisi people	iso	none
+Shiki language	iso	gua
+Koneraw language	iso	kdw
+Kim language	iso	kia
+Konkomba language	iso	xon
+Gourmanché language	iso	gux
+Nimi language	iso	nis
+Paresi language	iso	pab
+Mbe language	iso	mfo
+Izon language	iso	ijc
+Konyak language	iso	nbe
+Carpathian Romani	iso	rmc
+Nadëb language	iso	mbj
+Grebo language	iso	grb
+Tumtum language	iso	tbr
+Tulishi language	iso	tey
+Kanga language	iso	kcp
+Gule language	iso	gly
+Keiga language	iso	kec
+Lower Nossob language	iso	none
+Tasawaq language	iso	twq
+Gadal language	iso	tda
+Humburi Senni language	iso	hmb
+Eton language	iso	eto
+Maba language	iso	mde
+Bitama language	iso	none
+Ilit language	iso	none
+Kuria language	iso	kuj
+Afitti language	iso	aft
+Nyimang language	iso	nyi
+Mudbura language	iso	dmw
+Limilngan language	iso	lmc
+Wulna language	iso	wux
+Lyélé language	iso	lee
+Wadjiginy language	iso	wdj
+Lutos language	iso	ndy
+Sanglechi language	iso	sgy
+Alviri-Vidari dialect	iso	avd
+Mangarayi language	iso	mpc
+Kungarakany language	iso	ggk
+Ilgar language	iso	ilg
+Maung language	iso	mph
+Marrgu language	iso	mhg
+Manangkari language	iso	znk
+Bunuba language	iso	bck
+Gunbarlang language	iso	wlg
+Worrorra language	iso	unp
+Yulu language	iso	yul
+Mbandja language	iso	zmz
+Turrbal language	iso	yxg
+Yabula-Yabula language	iso	yxy
+Pallanganmiddang language	iso	pmd
+Yalgawarra language	iso	fln
+Yuyu language	iso	yxu
+Kureinji language	iso	none
+Ngayawung language	iso	nwg
+Guwar language	iso	none
+Gureng Gureng language	iso	gnr
+Gulidjan language	iso	none
+Bungandidj language	iso	xbg
+Kuurn Kopan Noot language	iso	gjm
+Kasharari language	iso	ktx
+Curuça Kulina language	iso	xpk
+Biwat language	iso	bwm
+Dera language	iso	kbv
+Nimboran language	iso	nir
+Mairasi language	iso	zrs
+Qaqet	iso	byx
+Wipi language	iso	gdr
+Pagi language	iso	pgi
+Idi language	iso	idi
+Taikat language	iso	aos
+Arammba language	iso	stk
+Yei language	iso	jei
+Waia language	iso	knv
+Yelmek language	iso	jel
+Ramopa language	iso	kjx
+Rapoisi language	iso	kyx
+Askopan language	iso	eiv
+Uisai language	iso	uis
+Siwai language	iso	siw
+Nagovisi language	iso	nco
+Mali language	iso	gcc
+Taulil language	iso	tuh
+Butam language	iso	none
+Duvle language	iso	duv
+Duvle language	iso	none
+Awera language	iso	awr
+Sikaritai language	iso	tty
+Foau language	iso	flh
+Kwerba language	iso	kwe
+Mawes language	iso	mgk
+Orya language	iso	ury
+Sause language	iso	sao
+Kwesten language	iso	kwt
+Papora-Hoanya language	iso	ppu
+Ketagalan language	iso	kae
+Jumla Sign Language	iso	jus
+Jhankot Sign Language	iso	jhs
+Tebul Sign Language	iso	tsy
+Mbour Sign Language	iso	none
+Bura Sign Language	iso	none
+Momina language	iso	mmb
+Momuna language	iso	mqf
+Konda language	iso	knd
+Makayam language	iso	aup
+Jilim language	iso	jil
+Saep language	iso	spd
+Anjam language	iso	boj
+Wasembo language	iso	gsp
+Sumau language	iso	six
+Mape language	iso	mlh
+Waube language	iso	kop
+Sausi language	iso	ssj
+Siroi language	iso	ssd
+Dedua language	iso	ded
+Nabak language	iso	naf
+Komba language	iso	kpf
+Timbe language	iso	tim
+Kovai language	iso	kqb
+Rawa language	iso	rwo
+Yopno language	iso	yut
+Wantoat language	iso	wnc
+Iyo language	iso	nca
+Yau language	iso	yuw
+Abaga language	iso	abg
+Yipma language	iso	byr
+Angaataha language	iso	agm
+Yagwoia language	iso	ygw
+Menya language	iso	mcr
+Hamtai language	iso	hmt
+Vanimo language	iso	vam
+Skou language	iso	skv
+Fore language	iso	for
+Chambri language	iso	can
+Isabi language	iso	isa
+Gimi language	iso	gim
+Gende language	iso	gaf
+Benabena language	iso	bef
+Siane language	iso	snp
+Yagaria language	iso	ygr
+Kamano language	iso	kbq
+Agarabi language	iso	agd
+Gadsup language	iso	gaj
+Maring language	iso	mbw
+Kopar language	iso	xop
+Nor language	iso	mtf
+Yaul language	iso	yla
+Nanubae language	iso	afk
+Rao language	iso	rao
+Kambot language	iso	kbx
+Inapang language	iso	mzu
+Aruamu language	iso	msy
+Muya language	iso	mvm
+Tanggu language	iso	tgu
+Mbore language	iso	gai
+Yerakai language	iso	yra
+Tuwari language	iso	tww
+Kapriman language	iso	dju
+Biksi-Yetfa language	iso	yet
+Suarmin language	iso	seo
+Namia language	iso	nnm
+Urat language	iso	urt
+Olo language	iso	ong
+Wanap language	iso	wnp
+Bungain language	iso	but
+Kombio language	iso	xbi
+Monumbo language	iso	mxk
+Heyo language	iso	auk
+Urim language	iso	uri
+Bumbita language	iso	aon
+Bukiyip language	iso	ape
+Beli language	iso	bey
+Mufian language	iso	aoj
+Yahang language	iso	rhp
+Juwal language	iso	mwb
+Yil language	iso	yll
+Valman language	iso	van
+Dia language	iso	dia
+Lilau language	iso	lll
+Yangum language	iso	mzf
+Kemtuik language	iso	kmt
+Gresi language	iso	grs
+Kyenele language	iso	kql
+Mekmek language	iso	mvk
+Maharashtrian Konkani	iso	knn
+Gola language	iso	gol
+Nalu language	iso	naj
+Biafada language	iso	bif
+Bassari language	iso	bsc
+Wamey language	iso	cou
+Kobiana language	iso	kcj
+Mandjak language	iso	mfv
+Papel language	iso	pbo
+Wom language	iso	wom
+Rimba language	iso	none
+Luyana language	iso	lyn
+Komo language	iso	kmw
+Zimba language	iso	zmb
+Mbole language	iso	mdq
+Lengola language	iso	lej
+Bira language	iso	brf
+Bembe language	iso	bmb
+Baali language	iso	bcp
+Mboshi language	iso	mdw
+Ngando language	iso	nxd
+Bwa language	iso	bww
+Mpuono language	iso	zmp
+Mbere language	iso	mdt
+Oroko language	iso	bdu
+Bafia language	iso	ksf
+Kogo language	iso	bkh
+Gomba language	iso	none
+Simbari language	iso	smb
+Sanga language	iso	sng
+Efik language	iso	efi
+Kunyi language	iso	njx
+Godié language	iso	god
+Gula'alaa language	iso	gmb
+Barakai language	iso	baj
+Barikanchi Pidgin	iso	bxo
+Mpi language	iso	mpz
+Bimbashi Arabic	iso	none
+Kanggape language	iso	igm
+Andarum language	iso	aod
+Kire language	iso	geb
+Breri language	iso	brq
+Andai language	iso	afd
+Marangis language	iso	wax
+Bosmun language	iso	bqs
+Adjora language	iso	ado
+Sutean language	iso	none
+Buena Vista Yokuts	iso	none
+Palewyami language	iso	none
+Mel language	iso	none
+Landoma language	iso	ldm
+Kasa language	iso	csk
+Kwatay language	iso	cwt
+Noon language	iso	snf
+Ndut language	iso	ndv
+Mbulungish language	iso	mbv
+Badyara language	iso	pbp
+Baga Pokur language	iso	bcg
+Kasanga language	iso	ccj
+Bedik language	iso	tnr
+Bandial language	iso	bqj
+Gusilay language	iso	gsl
+Abidji language	iso	abi
+Attié language	iso	ati
+Adjukru language	iso	adj
+Alladian language	iso	ald
+Anii language	iso	blo
+Likpe language	iso	lip
+Lelemi language	iso	lef
+Santrokofi language	iso	snw
+Bowili language	iso	bov
+Ahlon language	iso	ahl
+Talodi language	iso	tlo
+Ebrié language	iso	ebr
+Nding language	iso	eli
+Werni language	iso	wrn
+Fungor language	iso	fuj
+Heiban language	iso	hbn
+Otoro language	iso	otr
+Logol language	iso	lof
+Shwai language	iso	shw
+Ngile language	iso	jle
+Tocho language	iso	taz
+Dyan language	iso	dya
+Dogoso language	iso	dgs
+Cerma language	iso	cme
+Turka language	iso	tuz
+Karanga language	iso	kth
+Surbakhal language	iso	sbj
+Marfa language	iso	mvu
+Kendeje language	iso	klf
+Mimi of Nachtigal	iso	none
+Mimi of Decorse	iso	none
+Kelo language	iso	xel
+Molo language	iso	zmo
+Tese language	iso	keg
+Keiga Jirru language	iso	keg
+Didinga language	iso	did
+Nataoran language	iso	ais
+Nzakara language	iso	nzk
+Pambia language	iso	pmb
+Barambu language	iso	brm
+Ndunga language	iso	ndt
+Dongo language	iso	doo
+Ma language	iso	msj
+Tagbo language	iso	tbm
+Belanda Viri language	iso	bvi
+Togoyo language	iso	tgy
+Bai language	iso	bdj
+Indri language	iso	idr
+Mangaya language	iso	myj
+Kaligi language	iso	fer
+Southeast Ijo	iso	ijs
+Krobu language	iso	kxb
+Abure language	iso	abu
+Efutu language	iso	afu
+Gua language	iso	gwx
+Cherepon language	iso	cpn
+Nkonya language	iso	nko
+Krache language	iso	kye
+Foodo language	iso	fod
+Chumburung language	iso	ncu
+Tula language	iso	tul
+Tso language	iso	ldp
+Dadiya language	iso	dbd
+Kamo language	iso	kcq
+Dikaka language	iso	cfa
+Bena language	iso	yun
+Lala-Roba language	iso	lla
+Kaan language	iso	ldl
+Mboi language	iso	moi
+Jen language	iso	jen
+Leelau language	iso	ldk
+Bambuka language	iso	bka
+Kuo language	iso	xuo
+Mundang language	iso	mua
+Pana language	iso	pnz
+Nzakambay language	iso	nzy
+Kare language	iso	kbn
+Nyong language	iso	muo
+Dowayo language	iso	dow
+Kutin language	iso	pfe
+Natioro language	iso	nti
+Lukpa language	iso	dop
+Tem language	iso	kdh
+Lama language	iso	las
+Deg language	iso	mzw
+Paasaal language	iso	sig
+Nateni language	iso	ntm
+Ngangam language	iso	gng
+Losso language	iso	nmz
+Wali language	iso	wlx
+Mamprusi language	iso	maw
+Yom language	iso	pil
+Chakosi language	iso	cko
+Buli language	iso	bwu
+Tammari language	iso	tbz
+Berba language	iso	beh
+Buamu language	iso	box
+Láá Láá Bwamu language	iso	bwj
+Cwi Bwamu language	iso	bwy
+Bomu language	iso	bmq
+Kuranko language	iso	knk
+Neyo language	iso	ney
+Furu language	iso	fuu
+Lunana dialect	iso	luk
+Nupbi language	iso	npb
+Laya dialect	iso	lya
+Puroik language	iso	suv
+Khowa language	iso	bgg
+Sherdukpen language	iso	sdp
+Baram language	iso	brd
+Raute language	iso	rau
+Thangmi language	iso	thf
+Raji language	iso	rji
+Dhimal language	iso	dhi
+Hruso language	iso	hru
+Miji languages	iso	sjl
+Digaro Mishmi language	iso	mhu
+Zakhring language	iso	zkr
+Sak language	iso	kdv
+Old Tamil language	iso	oty
+Milang language	iso	none
+Bokar language	iso	none
+Nishi language	iso	njz
+Apatani language	iso	apt
+Bori language	iso	none
+Adi language	iso	adi
+Tangkhul language	iso	nmf
+Khiamniungan language	iso	kix
+Khroskyabs language	iso	jiq
+Rgyalrong languages	iso	jya
+Sema language	iso	nsm
+Rengma language	iso	nre
+Ntenyi language	iso	nnl
+Pengo language	iso	peg
+Tedim language	iso	ctd
+Falam language	iso	cfm
+Paite language	iso	pck
+Mro language	iso	cmr
+Amri language	iso	ajz
+Rawang language	iso	raw
+Pa'O language	iso	blk
+Eastern Pwo language	iso	kjp
+Bwe Karen language	iso	bwe
+Kayaw language	iso	kvl
+Padaung language	iso	pdu
+Kayabi language	iso	kyz
+Ghandruk Sign Language	iso	gds
+Ben Tey Dogon	iso	dbt
+Mang language	iso	zng
+Tondi Songway Kiini	iso	tst
+Western Persian	iso	pes
+Katu language	iso	kuf
+Jahai language	iso	jhi
+Temiar language	iso	tea
+Cheq Wong language	iso	cwg
+Mah Meri language	iso	mhe
+Jah Hut language	iso	jah
+Pear language	iso	pcb
+Suoy language	iso	syo
+Somray language	iso	smu
+Su' language	iso	sqq
+Va language	iso	none
+Teressa language	iso	tef
+Southern Nicobarese language	iso	nik
+Catawba language	iso	chc
+Woccon language	iso	xwc
+Lower Chinook	iso	chh
+Okwanuchu language	iso	none
+New River Shasta language	iso	none
+Konomihu language	iso	none
+Nomlaki language	iso	nol
+Patwin language	iso	pwi
+Hanis language	iso	csz
+Nancere language	iso	nnc
+Konda language	iso	kfc
+Yiwom language	iso	gek
+Musgu language	iso	mug
+Gidar language	iso	gid
+Miluk language	iso	iml
+Tobanga language	iso	tng
+Kimré language	iso	kqp
+Southern Gabri language	iso	gab
+Khlula language	iso	ykl
+Azha language	iso	aza
+Lolopo language	iso	ycl
+Sani language	iso	ysn
+Lipo language	iso	lpo
+Azhe language	iso	yiz
+Axi language	iso	yix
+Côông language	iso	cnc
+Pholo language	iso	yip
+Phunoi language	iso	pho
+Honi language	iso	how
+Enu language	iso	enu
+Cun language	iso	cuq
+Tày language	iso	tyz
+Caolan language	iso	mlc
+Tai Dón language	iso	twh
+Tai Daeng language	iso	tyr
+Tai Ya language	iso	cuu
+Tai Hongjin language	iso	tiz
+Maram language	iso	nma
+Khoirao language	iso	nki
+Mzieme language	iso	nme
+Zotung language	iso	czt
+Khelma language	iso	sch
+Biete language	iso	biu
+Vaiphei language	iso	vap
+Ralte language	iso	ral
+Senthang language	iso	sez
+Nga La language	iso	hlt
+Mün language	iso	mwq
+Daai language	iso	dao
+Gangte language	iso	gnb
+Poke language	iso	pof
+Kom language	iso	kmm
+Djabirr-Djabirr language	iso	dyb
+Yawuru language	iso	ywr
+Kogi language	iso	kog
+Buglere	iso	sab
+Chimila language	iso	cbg
+Duit language	iso	none
+Atanque language	iso	none
+Dorasque language	iso	none
+Lombo language	iso	loo
+Gepo language	iso	ygp
+Yimchungrü language	iso	yim
+Sangtam language	iso	nsa
+Akuntsu language	iso	aqz
+Makurap language	iso	mpu
+Surui language	iso	sru
+Tuparí language	iso	tpr
+Cinta Larga language	iso	cin
+Guarayu language	iso	gyr
+Tapirapé language	iso	taf
+Ka'apor language	iso	urb
+Puruhá language	iso	none
+Jirajara language	iso	none
+Gayon language	iso	none
+Kipea language	iso	none
+Dzubukua language	iso	none
+Toba-Maskoy language	iso	tmf
+Koropó language	iso	xxr
+Purí language	iso	prr
+Northern Embera language	iso	emp
+Baudo language	iso	bdc
+Guachi language	iso	none
+Payagua language	iso	none
+Marúbo language	iso	mzr
+Wariapano language	iso	pno
+Itene language	iso	ite
+Bakairi language	iso	bkq
+Ye'kuana language	iso	mch
+Waiwai language	iso	waw
+Xerénte language	iso	xer
+Kayapo language	iso	txu
+Suyá language	iso	suy
+Xokleng language	iso	xok
+Wapishana language	iso	wap
+Island Carib language	iso	crb
+Yabaâna language	iso	ybn
+Nomatsiguenga language	iso	not
+Mehinaku language	iso	mmh
+Waurá language	iso	wau
+Ndaka language	iso	ndk
+Mbo language	iso	zmw
+Cocos Malay	iso	coa
+Mandawaca language	iso	mht
+Manao language	iso	none
+Resígaro language	iso	rgr
+Warekena language	iso	gae
+Yucuna language	iso	ycn
+Kawishana language	iso	none
+Piapoco language	iso	pio
+Aroã language	iso	none
+Barawana language	iso	bae
+Lapachu language	iso	none
+Shebaya language	iso	none
+Salumá language	iso	slj
+Megam language	iso	mef
+Nocte language	iso	njb
+Chang language	iso	nbc
+Byangsi language	iso	bee
+Rongpo language	iso	rnp
+Rawat language	iso	jnl
+Lhao Vo language	iso	mhx
+Intha dialect	iso	int
+Abane language	iso	bvv
+Gavião of Jiparaná	iso	gvo
+Xeta language	iso	xet
+Aché language	iso	guq
+Ura language	iso	uro
+Moskona language	iso	mtj
+Tabla language	iso	tnm
+Nafri language	iso	nxx
+Semimi language	iso	etz
+Kilmeri language	iso	kih
+Sowanda language	iso	sow
+Mekwei language	iso	msf
+Angor language	iso	agg
+Papasena language	iso	pas
+Odoodee language	iso	kkc
+Upper Necaxa Totonac	iso	tku
+Titan language	iso	ttv
+Xârâcùù	iso	ane
+Tilquiapan Zapotec	iso	zts
+Moi language	iso	mxn
+Kalabra language	iso	kzz
+Gamkonora language	iso	gak
+Waioli language	iso	wli
+Tabaru language	iso	tby
+Elkei language	iso	elk
+Nabi language	iso	mty
+Simeku language	iso	smz
+Koromira language	iso	kqj
+Agob language	iso	kit
+Pouye language	iso	bye
+Yessan language	iso	yss
+Seim language	iso	sim
+Kwoma language	iso	kmo
+Sanio language	iso	sny
+Sos Kundi language	iso	sdk
+Kwasengen language	iso	wos
+Keak language	iso	keh
+Manambu language	iso	mle
+Manambu language	iso	none
+Banaro language	iso	byz
+Angoram language	iso	aog
+Tabriak language	iso	tzx
+Dibo language	iso	dio
+Afenmai language	iso	ets
+Okpamheri language	iso	opa
+Iyayu language	iso	iya
+Igwe language	iso	igw
+Ivbiosakon language	iso	ema
+Eloyi language	iso	afo
+Ahwai language	iso	nfd
+Etulo language	iso	utr
+Jili language	iso	mgi
+Nungu language	iso	rin
+Gbantu language	iso	nbr
+Shall-Zwall language	iso	sha
+Cara language	iso	cfd
+Eten language	iso	etx
+Berom language	iso	bom
+Ce language	iso	ruk
+Kwanka language	iso	bij
+Mada language	iso	mda
+Ayu language	iso	ayu
+Barkul language	iso	mae
+Ninzo language	iso	nin
+Hyam language	iso	jab
+Kagoma language	iso	kdm
+Fyam language	iso	pym
+Sambe language	iso	xab
+Toro language	iso	tdv
+Hasha language	iso	ybj
+Adara language	iso	kad
+Kulu language	iso	ikl
+Rigwe language	iso	iri
+Nyankpa language	iso	yes
+Bajju people	iso	kaj
+Katab language	iso	kcg
+Idun language	iso	ldb
+Kamantan language	iso	kci
+Tigon language	iso	nza
+Mbembe language	iso	mfn
+Como Karim language	iso	cfg
+Kuteb language	iso	kub
+Jibu language	iso	jib
+Etkywan language	iso	ich
+Wapan language	iso	juk
+Jukun Takum language	iso	jbu
+Ogbia language	iso	ogb
+Abua language	iso	abn
+Ogbronuagum language	iso	ogu
+Ogbogolo language	iso	ogg
+Khana language	iso	ogo
+Eleme language	iso	elm
+Obolo language	iso	ann
+Okobo language	iso	okb
+Oro language	iso	orx
+Kele language	iso	kez
+Humono language	iso	bcs
+Gwune language	iso	yay
+Umon language	iso	umm
+Ubaghara language	iso	byc
+Dorop language	iso	krp
+Gbo language	iso	agb
+Yakö language	iso	yaz
+Ikom language	iso	iko
+Akpet language	iso	akd
+Agoi language	iso	ibm
+Atsam language	iso	cch
+Amo language	iso	amo
+Sanga language	iso	xsn
+Lemoro language	iso	ldj
+Gbiri-Niragu language	iso	grh
+Lela language	iso	dri
+Reshe language	iso	res
+Gunu language	iso	yas
+Bile language	iso	bil
+Mbula-Bwazza language	iso	mbu
+Mama language	iso	mma
+Jagham language	iso	etu
+Nyang language	iso	ken
+Bitare language	iso	brt
+Batu language	iso	btu
+Kimba language	iso	kdl
+Nen language	iso	tvu
+Hungworo language	iso	nat
+Banliku language	iso	bzy
+Ki language	iso	bag
+Boki language	iso	bky
+Bauchi language	iso	bsf
+Bekwarra language	iso	bkv
+Ndoro language	iso	ndr
+Kamuku language	iso	cdr
+Duka language	iso	dud
+Kwanja language	iso	knp
+Vute language	iso	vut
+Ngie language	iso	ngj
+Mundani language	iso	mnf
+Oku language	iso	oku
+Ghomala' language	iso	bbj
+Yemba language	iso	ybb
+Limbum language	iso	lmp
+Medumba language	iso	byv
+Yamba language	iso	yam
+Gbanu language	iso	gbv
+Mündü language	iso	muh
+Manza language	iso	mzv
+Northwest Gbaya language	iso	gya
+Bokoto language	iso	bdt
+West Banda language	iso	bbp
+Kenga language	iso	kyq
+Baka language	iso	bdh
+Kaba Deme language	iso	kwg
+Gulay language	iso	gvl
+Kabba language	iso	ksp
+Dagba language	iso	dgk
+Ngam language	iso	nmc
+Mbay language	iso	myb
+Sar language	iso	mwm
+Southern Luo language	iso	luo
+Markweta language	iso	enb
+Terik language	iso	tec
+Keiyo language	iso	eyo
+Sabiny language	iso	kpz
+Sabaot language	iso	spy
+Belanda Bor language	iso	bxb
+Burun language	iso	bdi
+Thuri language	iso	thu
+Reel language	iso	atu
+Mamvu language	iso	mdi
+Ndo language	iso	ndp
+Zemba language	iso	dhm
+Bakwé language	iso	bjw
+Kuya language	iso	kyf
+Kwadia language	iso	kwp
+Wané language	iso	hwa
+Konobo language	iso	kqo
+Wobé language	iso	wob
+Daho-Doo language	iso	das
+Glaro-Twabo language	iso	glr
+Nizaa language	iso	sgi
+Kamkam language	iso	bgu
+Atong language	iso	ato
+Ambele language	iso	ael
+Menchum language	iso	bby
+Ndemli language	iso	nml
+Nga'ka language	iso	mhk
+Waci language	iso	wci
+Alada language	iso	none
+Pherá language	iso	xwe
+Saxwe language	iso	sxw
+Tofin language	iso	tfi
+Tonjon language	iso	tjn
+Djimini language	iso	dyi
+Somyev language	iso	kgt
+Kar language	iso	xrb
+Cebaara language	iso	sef
+Tagwana language	iso	tgw
+Syer-Tenyer language	iso	kza
+Nyarafolo language	iso	sev
+Torona language	iso	tqr
+Acheron language	iso	acz
+Ahanta language	iso	aha
+Sehwi language	iso	sfw
+Jwira-Pepesa language	iso	jwi
+Ahan language	iso	ahn
+Ukwuani-Aboh-Ndoni language	iso	ukw
+Nyungwe language	iso	nyu
+Suundi language	iso	sdj
+Lala-Bisa language	iso	leb
+Tabwa language	iso	tap
+Pende language	iso	pem
+Sumbwa language	iso	suw
+Ruund language	iso	rnd
+Kaliko language	iso	kbo
+Soko language	iso	soc
+Mvuba language	iso	mxh
+Hema language	iso	nix
+Nyaneka language	iso	nyk
+Lucazi language	iso	lch
+Mbunda language	iso	mck
+Gungu language	iso	rub
+Kabwari language	iso	kcw
+Jita language	iso	jit
+Ngindo language	iso	nnq
+Mwera language	iso	mwe
+Samia language	iso	lsm
+Juray language	iso	juy
+Lodhi language	iso	lbm
+Gorum language	iso	pcj
+Turi language	iso	trd
+Birjia language	iso	bix
+Koda language	iso	cdz
+Kri language	iso	aem
+Samre language	iso	sxm
+Sa'och language	iso	scq
+Eotile language	iso	eot
+Mbato language	iso	gwa
+Mbelime language	iso	mql
+Waama language	iso	wwa
+Winye language	iso	kst
+Delo language	iso	ntr
+Zari language	iso	zaz
+Saya language	iso	say
+Pero language	iso	pip
+Buyu language	iso	byi
+Bwile language	iso	bwc
+Tsaangi language	iso	tsa
+Kwala language	iso	kwc
+Mboko language	iso	mdu
+Lalia language	iso	lal
+Hendo language	iso	soe
+Dengese language	iso	dez
+Ngelima language	iso	agh
+Mituku language	iso	zmq
+Tiene language	iso	tii
+East Teke language	iso	tek
+Bomwali language	iso	bmw
+Makaa language	iso	mcp
+Sonde language	iso	shc
+Mbala language	iso	mdp
+Pol language	iso	pmm
+Bangubangu language	iso	bnx
+Hemba language	iso	hem
+Nsongo language	iso	nsx
+Kuba language	iso	kxx
+Sakata language	iso	skt
+North Teke language	iso	teg
+Ngambwe language	iso	none
+Hakaona language	iso	none
+Kuvale language	iso	olu
+Bungu language	iso	wun
+Holoholo language	iso	hoo
+Kimbu language	iso	kiv
+Nkongho language	iso	nkc
+Bafaw-Balong language	iso	bwt
+Bonkeng language	iso	bvg
+Bwela language	iso	bwl
+Lika language	iso	lik
+Guru language	iso	bqu
+Kari language	iso	kbj
+Lwalu language	iso	lwa
+Boma language	iso	boh
+Bodo language	iso	boy
+Mbunga language	iso	mgy
+Ndamba language	iso	ndj
+Homa language	iso	hom
+Tembo	iso	tbt
+Vili language	iso	vif
+Ngbee language	iso	jgb
+Lamang language	iso	hia
+Parkwa language	iso	pbi
+Wandala language	iso	mfi
+Musey language	iso	mse
+Mesme language	iso	zim
+Peve language	iso	lme
+Huba language	iso	hbb
+Margi South language	iso	mfm
+Kushi language	iso	kuh
+Kutto language	iso	kpa
+Piya language	iso	piy
+Jina language	iso	jia
+Majera language	iso	xmj
+Hdi language	iso	xed
+Vemgo-Mabas language	iso	vem
+Kirya-Konzəl language	iso	fkk
+Mbara language	iso	mpk
+Muskum language	iso	mje
+Nggwahyi language	iso	ngx
+Geji language	iso	gji
+Ju language	iso	juu
+Tala language	iso	tak
+Kwese language	iso	kws
+Salampasu language	iso	slx
+Lambya language	iso	lai
+Tumbuka-Senga language	iso	sgq
+Vwanji language	iso	wbi
+Kisi language	iso	kiz
+Beeke language	iso	bkf
+Denya language	iso	anv
+Ndoe language	iso	nbb
+Futop language	iso	ofu
+Nkem-Nkum language	iso	isi
+Nde language	iso	ndd
+Mbamba Bay language	iso	mjh
+Kunda language	iso	kdn
+Kunda language	iso	none
+Tonga	iso	tog
+Matengo language	iso	mgv
+Yazi language	iso	none
+Soli language	iso	sby
+Ngoni language	iso	ngo
+Nkumbi language	iso	khu
+Nkoya language	iso	nka
+Hungana language	iso	hum
+Sengele language	iso	szg
+Fa’ language	iso	lfa
+Kaalong language	iso	dii
+Nnam language	iso	nbp
+Mesaka language	iso	iyo
+Busam language	iso	bxs
+Osatu language	iso	ost
+Balo language	iso	bqo
+Menka language	iso	mea
+Ilwana language	iso	mlk
+Sama language	iso	smd
+Enya language	iso	gey
+Songola language	iso	sod
+Kaiku language	iso	kkq
+Bhele language	iso	bhy
+Pagibete language	iso	pae
+Kango language	iso	kty
+Nyali language	iso	nlj
+Vanuma language	iso	vau
+Fuumu language	iso	ifm
+Mak language	iso	pbl
+Mingang Doso language	iso	mko
+Loo language	iso	ldo
+Biseni language	iso	ije
+Oruma language	iso	orr
+Okodia language	iso	okd
+Bangba language	iso	bbe
+Yangere language	iso	yaj
+Ngbundu language	iso	nuu
+Geme language	iso	geq
+Bonjo language	iso	bok
+Jijili language	iso	uji
+Banda language	iso	bnd
+Koi language	iso	kkt
+Fam language	iso	fam
+Tep language	iso	none
+Mboa language	iso	xmb
+Gaa language	iso	ttb
+Kulung language	iso	bbu
+Donga language	iso	doh
+Sur language	iso	tdl
+Pe language	iso	pai
+Ndendeule language	iso	dne
+Yankam language	iso	bsx
+Mpoto language	iso	mpa
+Manda language	iso	mgs
+Mungbam language	iso	mij
+Koshin language	iso	kid
+Fang language	iso	fak
+Mbu’ language	iso	muc
+Mundabli language	iso	boe
+Saari language	iso	asj
+Bebe language	iso	bzv
+Chung-Mboko language	iso	cug
+Vale language	iso	vae
+Birri language	iso	bvq
+Fongoro language	iso	fgr
+Beli language	iso	blm
+Kove language	iso	kvc
+Mutu language	iso	tuc
+Mavea language	iso	mkv
+Kowiai language	iso	kwh
+Yamdena language	iso	jmd
+Irarutu language	iso	irh
+West Damar language	iso	drn
+Seluwasan language	iso	sws
+Selaru language	iso	slu
+Tandia language	iso	tni
+Mor language	iso	mhz
+Waropen language	iso	wrp
+Yeresiam language	iso	ire
+Yeretuar language	iso	gop
+Nyadu’ language	iso	byd
+Sanggau language	iso	scg
+Bakati’ language	iso	bei
+Jagoi language	iso	sne
+Bukar Sadong language	iso	sdo
+Ribun language	iso	rir
+Jangkang language	iso	djo
+Taman language	iso	tmn
+Embaloh language	iso	emb
+Mekeo language	iso	mek
+Mekeo language	iso	none
+K'iche' language	iso	quc
+Tontemboan language	iso	tnt
+Tombulu language	iso	tom
+Yakan language	iso	yka
+Tunjung language	iso	tjg
+Tawala language	iso	tbo
+Muyuw language	iso	myw
+Sinasina language	iso	sst
+Tennet language	iso	tex
+Pauri Bareli language	iso	bfb
+Standard Zhuang	iso	za
+Standard Zhuang	iso	zha
+Standard Zhuang	iso	none
+Sapa language	iso	tys
+Ningming Zhuang language	iso	none
+Yongnan languages	iso	zyn
+Chimalapa Zoque	iso	zoh
+Kainuu Sami language	iso	none
+Alawa language	iso	alh
+Tutong language	iso	ttg
+Jebli Arabic	iso	none
+Naka language	iso	krs
+Limba language	iso	mzd
+Ngarluma language	iso	none
+Cazcan language	iso	none
+Auteco language	iso	none
+Middle Norwegian	iso	none
+Amira language	iso	none
+Komering language	iso	kge
+Ninde language	iso	mwi
+Unish	iso	none
+Kenaboi language	iso	xbn
+Ten'edn	iso	tnz
+Batek language	iso	btq
+Mintil language	iso	mzt
+Minriq language	iso	mnq
+Kintaq language	iso	knq
+Temoq language	iso	tmo
+Semaq Beri language	iso	szc
+Semnam language	iso	ssm
+Sabüm language	iso	sbo
+Lanoh language	iso	lnh
+Danau language	iso	dnu
+Lamet language	iso	lbn
+Nii language	iso	nii
+Gizrra language	iso	tof
+Bine language	iso	bon
+A-Hmao language	iso	hmd
+Biao Min language	iso	bje
+Dzao Min language	iso	bpn
+Gejia language	iso	hmj
+Tiang language	iso	tbj
+Ekoka !Kung	iso	knw
+Yatzachi Zapotec	iso	zav
+Teop language	iso	tio
+Mpalitjanh dialect	iso	xpj
+Ndra'ngith language	iso	dgt
+Awngthim language	iso	gwm
+Arritinngithigh language	iso	rrt
+Tai Phake language	iso	phk
+Tai Aiton language	iso	aio
+Hm Nai language	iso	bwn
+Luobohe Miao	iso	hml
+Pingtang Miao	iso	none
+Wayana language	iso	way
+Ghanaian Pidgin English	iso	gpe
+Baham language	iso	bdw
+Xixiu Miao	iso	none
+Ekpeye language	iso	ekp
+Kamakan language	iso	vkm
+Pantyikali dialect	iso	bjd
+Nyawaygi language	iso	nyt
+Yaygir language	iso	xya
+Bozal Spanish	iso	none
+Kendayan language	iso	knx
+Bamayo language	iso	xdy
+Talaud language	iso	tld
+Basap language	iso	bdb
+Molbog language	iso	pwm
+Urak Lawoi’ language	iso	urk
+Brunei Bisaya language	iso	bsb
+Nonukan Tidong language	iso	itd
+Lemerig language	iso	lrz
+Selepet language	iso	spl
+Mesem language	iso	mci
+Ono language	iso	ons
+Nankina language	iso	nnk
+Borong language	iso	ksr
+Ngaing language	iso	nnf
+Uri language	iso	uvh
+Burum language	iso	bmu
+Gants language	iso	gao
+Tai language	iso	taw
+Kalam language	iso	kmh
+Bau language	iso	bbd
+Garus language	iso	gyb
+Atohwaim language	iso	aqm
+Tamagario language	iso	tcg
+Wagi language	iso	fad
+Bamu language	iso	bcf
+Kimaghima language	iso	kig
+Boazi language	iso	kvg
+Goliath language	iso	mtg
+Eipo language	iso	eip
+Umanakaina language	iso	gdn
+Maiwa language	iso	mti
+Koita language	iso	kqi
+Morawa language	iso	mze
+Tauade language	iso	ttd
+Inoke language	iso	ino
+Kanite language	iso	kmu
+Keyagana language	iso	kyg
+Awiyaana language	iso	auy
+Keoru language	iso	xeu
+Toaripi language	iso	tqo
+Tairuma language	iso	uar
+Binandere language	iso	bhg
+Ewage language	iso	nou
+Ipili language	iso	ipi
+Kyaka language	iso	kyc
+Salt-Yui language	iso	sll
+Nomane language	iso	nof
+Chuave language	iso	cjv
+Narak language	iso	nac
+Kandawo language	iso	gam
+Dom language	iso	doa
+Pisa language	iso	psa
+Ngalum language	iso	szb
+Ninggerum language	iso	nxr
+Yonggom language	iso	yon
+Faiwol language	iso	fai
+Tangko language	iso	tkx
+Papi language	iso	ppe
+Bahinemo language	iso	bjh
+Niksek language	iso	gbe
+Sepik Iwam language	iso	iws
+Walio language	iso	wla
+Gaikundi language	iso	gbf
+Awyi language	iso	auw
+Taworta language	iso	tbp
+Kirikiri language	iso	kiy
+Modole language	iso	mqo
+Kuwani language	iso	none
+Torricelli language	iso	tei
+Rawo language	iso	rwa
+Puari language	iso	pux
+Womo language	iso	wmx
+Maklew language	iso	mgf
+Blafe language	iso	bfh
+Upper Morehead language	iso	tci
+Baramu language	iso	bmz
+Min Zhuang language	iso	zgm
+Wolani language	iso	wod
+Laalaa language	iso	cae
+Palor language	iso	fap
+Tobati language	iso	tti
+Amba language	iso	utp
+Tboli language	iso	tbl
+Haruku language	iso	hrk
+Tulehu language	iso	tlu
+Hitu language	iso	htu
+Bwaidoka language	iso	bwd
+Dawawa language	iso	dww
+Dobu language	iso	dob
+Sajau Basap language	iso	sjb
+Bah-Biau Punan language	iso	pna
+Sekapan language	iso	skp
+Mainstream Kenyah language	iso	xkl
+Ukit language	iso	umi
+Bukitan language	iso	bkn
+Modang language	iso	mxd
+Bahau language	iso	bhv
+Mapos Buang language	iso	bzh
+Lewo language	iso	lww
+Tami language	iso	tmy
+Sekar language	iso	skz
+Erokwanas language	iso	erw
+Bedoanas language	iso	bed
+Hlersu language	iso	hle
+Luhu language	iso	lcq
+Kok-Nar language	iso	gko
+Wemale language	iso	weo
+Yalahatan language	iso	jal
+Umbindhamu language	iso	umd
+Gugadj language	iso	ggd
+Lamu-Lamu language	iso	lby
+North Moluccan Malay	iso	max
+Barababaraba language	iso	rbp
+Malalí language	iso	none
+Mbara language	iso	mvl
+Ngadjuri language	iso	jui
+Ningye language	iso	nns
+Bu language	iso	jid
+Kanufi language	iso	kni
+Ninkyop-Nindem language	iso	kdp
+Horom language	iso	hoe
+Shamang language	iso	xsh
+Ake language	iso	aik
+Firan language	iso	fir
+Zhire language	iso	zhi
+Doka language	iso	dbi
+Kuturmi language	iso	khj
+Idon language	iso	idc
+Ninka language	iso	none
+Gbetsu language	iso	none
+Nko language	iso	none
+Iku language	iso	ikv
+Kpan language	iso	kpk
+Yukuben language	iso	ybl
+Shoo-Minda-Nye language	iso	bcv
+Hoti language	iso	hti
+Manusela language	iso	wha
+Masiwang language	iso	bnf
+Saleman language	iso	sau
+Geser language	iso	ges
+Manipa language	iso	mqp
+Muna language	iso	mnb
+Tolaki language	iso	lbw
+Saluan language	iso	loe
+Uma language	iso	ppk
+Sula language	iso	szn
+Mamasa language	iso	mqj
+Tae’ language	iso	rob
+Toraja-Sa’dan language	iso	sda
+Bambam language	iso	ptu
+Enrekang language	iso	ptt
+Ulumanda’ language	iso	ulm
+Lemolang language	iso	ley
+Duri language	iso	mvp
+Arta language	iso	atz
+Davaoeño language	iso	daw
+Sarangani language	iso	mbs
+Bukid language	iso	bkd
+Obo language	iso	obo
+Tombonuwo language	iso	txa
+Bookan language	iso	bnb
+Bintulu language	iso	bny
+Nengone language	iso	nen
+Yuanga language	iso	nua
+Numèè language	iso	kdk
+Kara language	iso	reg
+Kerewe language	iso	ked
+Caka language	iso	ckx
+Tonga language	iso	toh
+Evant language	iso	bzz
+Ceve language	iso	bec
+Tidikelt language	iso	tia
+Gayil language	iso	gyl
+Bungku language	iso	bkz
+Wawonii language	iso	wow
+Padoe language	iso	pdo
+Mori Atas language	iso	mzq
+Mori Bawah language	iso	xmz
+Hawrami dialects	iso	hac
+Kendem language	iso	kvm
+Bendi language	iso	btt
+Mmen language	iso	bfm
+Munka language	iso	bvm
+Nsei language	iso	ndb
+Isu language	iso	isu
+Bum language	iso	bmv
+Babanki language	iso	bbk
+Ngombale language	iso	nla
+Ngomba language	iso	jgo
+Məgaka language	iso	xmg
+Bambalang language	iso	bmo
+Makwe language	iso	ymk
+Noho language	iso	bnm
+Suwu language	iso	szv
+Pinji language	iso	pic
+Vove language	iso	buw
+Wumbvu language	iso	wum
+Ndasa language	iso	nda
+Bango language	iso	bbm
+Mbangwe language	iso	zmn
+Lopa language	iso	lop
+Piti language	iso	pcn
+Baan language	iso	bvj
+Lyase language	iso	bga
+Ulukwumi language	iso	ulb
+Eruwa language	iso	erh
+Okpe language	iso	oke
+Okpe language	iso	okx
+Uvbie language	iso	evh
+Engenni language	iso	enn
+Okpela language	iso	atg
+Ososo language	iso	oso
+Uneme language	iso	une
+Ehueun language	iso	ehu
+Uhami language	iso	uha
+Ukue language	iso	uku
+Yala language	iso	yba
+Agatu language	iso	agc
+Alago language	iso	ala
+Gade language	iso	ged
+Wangganguru dialect	iso	wgg
+Kupa language	iso	kug
+Kakanda language	iso	kka
+Ikpeshi language	iso	ikp
+Enwan language	iso	env
+Sasaru language	iso	sxs
+Gupa-Abawa language	iso	gpa
+Kami language	iso	kmi
+Kyode language	iso	acd
+Nawuri language	iso	naw
+Dwang language	iso	nnu
+Nchumbulu language	iso	nlu
+Dompo language	iso	doy
+Kplang language	iso	kph
+Sininkere language	iso	skq
+Bolon language	iso	bof
+Jahanka language	iso	jad
+Banka language	iso	bxw
+Mixifore language	iso	mfg
+Kakabe language	iso	kke
+Numidian language	iso	nxm
+Tuwat language	iso	grr
+Bosha language	iso	none
+Kaba So language	iso	kxj
+Beraku language	iso	bxv
+Disa language	iso	dsi
+Lokoya language	iso	lky
+Päri language	iso	lkr
+Narim language	iso	loh
+Logorik language	iso	liu
+Nyolge language	iso	njl
+Babalia Creole Arabic	iso	bbz
+Baangi language	iso	bqx
+Mvanip language	iso	mcj
+Ndunda language	iso	nuh
+Njerep language	iso	njr
+Twendi language	iso	twn
+Kwalhioqua-Clatskanie language	iso	qwt
+Seget language	iso	sbg
+Moraid language	iso	msg
+Kairak language	iso	ckr
+Simbali language	iso	smg
+Mlap language	iso	kja
+Nori language	iso	none
+Ounge language	iso	oue
+Daantanai’ language	iso	lni
+Bun language	iso	buv
+Changriwa language	iso	cga
+Yelogu language	iso	ylg
+Ngala language	iso	nud
+Kaningra language	iso	knr
+Langam language	iso	lnm
+Kimki language	iso	sbt
+Bipim language	iso	bgv
+Waruna language	iso	wrv
+Samberigi language	iso	ssx
+Opao language	iso	opo
+Riantana language	iso	ran
+Karami language	iso	xar
+Mombum language	iso	mso
+Yaweyuha language	iso	yby
+Anor language	iso	anj
+Aiome language	iso	aki
+Tapei language	iso	afp
+Zorop language	iso	wfg
+Emem language	iso	enr
+Tebi language	iso	dmu
+Towei language	iso	ttn
+Ambakich language	iso	aew
+Gorovu language	iso	grq
+Akukem language	iso	spm
+Tanguat language	iso	tbs
+Akrukay language	iso	afi
+Igana language	iso	igg
+Awar language	iso	aya
+Kaian language	iso	kct
+Kominimung language	iso	xoi
+Romkun language	iso	rmk
+Ikobi language	iso	meb
+Woisika language	iso	woi
+Auye language	iso	auu
+Dao language	iso	daz
+Waritai language	iso	wbe
+Kosare language	iso	kiq
+Doutai language	iso	tds
+Sileibi language	iso	sbq
+Musak language	iso	mmq
+Korak language	iso	koz
+Moresada language	iso	msx
+Anam language	iso	pda
+Atemble language	iso	ate
+Malas language	iso	mkr
+Mala language	iso	ped
+Kobol language	iso	kgu
+Kubo language	iso	jko
+Gobasi language	iso	goi
+Konai language	iso	kxw
+Fembe language	iso	agl
+Kosarek language	iso	kkl
+Nipsan language	iso	nps
+Chenapian language	iso	cjn
+Rembarunga language	iso	rmb
+Ngandi language	iso	nid
+Kosena language	iso	kze
+Awa language	iso	awb
+Binumarien language	iso	bjr
+Waffa language	iso	waj
+Oweina language	iso	wsr
+Kerewo language	iso	kxz
+Waboda language	iso	kmx
+Morigi language	iso	mdb
+Were language	iso	wei
+Bitur language	iso	mcc
+Kambaira language	iso	kyy
+Kaburi language	iso	uka
+Puragi language	iso	pru
+Kais language	iso	kzm
+Yahadian language	iso	ner
+Duriankere language	iso	dbn
+Pei language	iso	ppq
+Yawiyo language	iso	ybx
+Karawa language	iso	xrw
+Ak language	iso	akq
+Auwon language	iso	aww
+Pahi language	iso	lgt
+Pasi language	iso	psq
+Piame language	iso	pin
+Sumariup language	iso	siv
+Bisis language	iso	bnw
+Watakataui language	iso	wtk
+Mari language	iso	mbx
+Berinomo language	iso	bit
+Sengo language	iso	spk
+Burui language	iso	bry
+Koiwat language	iso	kxt
+Mulaha language	iso	mfw
+Humene language	iso	huf
+Doromu language	iso	kqc
+Mawak language	iso	mjj
+Kowaki language	iso	xow
+Wanambre language	iso	wnb
+Moere language	iso	mvq
+Bepour language	iso	bie
+Musar language	iso	mmi
+Bilakura language	iso	bql
+Ukuriguma language	iso	ukg
+Parawen language	iso	prw
+Yarawata language	iso	yrw
+Yaben language	iso	ybm
+Sonia language	iso	siq
+Onobasulu language	iso	onn
+Kasua language	iso	khs
+Edolo language	iso	etr
+Dibiyaso language	iso	dby
+Aimele language	iso	ail
+Turumsa language	iso	tqm
+Aruek language	iso	aur
+Aga Bereho language	iso	bjc
+Moikodi language	iso	mkp
+Aneme Wake language	iso	aby
+Nawaru language	iso	nwr
+Safeyoka language	iso	apz
+Akoye language	iso	miw
+Tainae language	iso	ago
+Yekora language	iso	ykr
+Suena language	iso	sue
+Kawacha language	iso	kcb
+Kamasa language	iso	klp
+Yambes language	iso	ymb
+Eitiep language	iso	eit
+Siliput language	iso	mkc
+Minidien language	iso	wii
+Laeko language	iso	lkl
+Seti language	iso	sbi
+Wiarumus language	iso	tua
+Seta language	iso	stf
+Urimo language	iso	urx
+Elepi language	iso	ele
+Buna language	iso	bvn
+Kamasau language	iso	kms
+Ningil language	iso	niz
+Yau language	iso	yyu
+Yapunda language	iso	yev
+Sinagen language	iso	siu
+Yis language	iso	yis
+Mol language	iso	alx
+Agi language	iso	aif
+Aruop language	iso	lsr
+Kofei language	iso	kpi
+Woria language	iso	wor
+Demisa language	iso	dei
+Tefaro language	iso	tfo
+Burate language	iso	bti
+Sauri language	iso	srt
+Biritai language	iso	bqq
+Eritai language	iso	ert
+Obokuitai language	iso	afz
+Kaiy language	iso	tcq
+Kwerisa language	iso	kkb
+Milyan language	iso	imy
+Auwe language	iso	smf
+Daonda language	iso	dnd
+Viid language	iso	snu
+Ainbai language	iso	aic
+Umeda language	iso	upi
+Manem language	iso	jet
+Ningera language	iso	nby
+Nen language	iso	nqn
+Rema language	iso	bow
+Guntai language	iso	gnt
+Kunja language	iso	pep
+Kauwera language	iso	xau
+Kwerba Mamberamo language	iso	xwr
+Trimuris language	iso	tip
+Bagusa language	iso	bqb
+Dabe language	iso	dbe
+Itik language	iso	itx
+Betaf language	iso	bfe
+Kwinsu language	iso	kuc
+Vitou language	iso	vto
+Mander language	iso	mqr
+Keijar language	iso	kdy
+Dineor language	iso	mrx
+Bonerif language	iso	bnv
+Jofotek-Bromnya language	iso	jbr
+Dima language	iso	jma
+Mapena language	iso	mnm
+Ginuman language	iso	gnm
+Onjob language	iso	onj
+Turaka language	iso	trh
+Grass Koiari language	iso	kbk
+Ömie language	iso	aom
+Namiae language	iso	nvm
+Barai language	iso	bbb
+Bauwaki language	iso	bwk
+Domu language	iso	dof
+Binahari language	iso	bxz
+Retta language	iso	ret
+Klon language	iso	kyo
+Teiwa language	iso	twe
+Kafoa language	iso	kpu
+Nduga language	iso	ndx
+Silimo language	iso	wul
+Walak language	iso	wlw
+Nggem language	iso	nbq
+Wano language	iso	wno
+Hupla language	iso	hap
+Kamberau language	iso	irx
+Buruwai language	iso	asi
+Gumalu language	iso	gmu
+Munit language	iso	mtc
+Kein language	iso	bmh
+Isebe language	iso	igo
+Panim language	iso	pnr
+Sihan language	iso	snr
+Otuke language	iso	otu
+Toromono language	iso	tno
+Muellama language	iso	none
+Coyotepec Popoloca language	iso	pbf
+Acroá language	iso	acs
+Ingain language	iso	none
+Gueren language	iso	none
+Menien language	iso	none
+Masakara language	iso	none
+Xukuru language	iso	xoo
+Paratio language	iso	none
+Oloma language	iso	olm
+Akuku language	iso	ayk
+Ayoman language	iso	none
+Cañari language	iso	none
+Churuya language	iso	none
+Pamigua language	iso	none
+Cajamarca Quechua	iso	qvc
+Kuan language	iso	xnh
+Kháng language	iso	kjm
+Ksingmul language	iso	puo
+Bay Miwok language	iso	mkq
+Coast Miwok language	iso	csi
+Naiki language	iso	nit
+Gashowu Yokuts	iso	none
+Tule-Kaweah Yokuts	iso	none
+Kings River Yokuts	iso	none
+North Bolivian Quechua	iso	qul
+Puno Quechua	iso	qxp
+Manda language	iso	mha
+Kuvi language	iso	kxv
+Quapaw language	iso	qua
+Hrê language	iso	hre
+Rade language	iso	rad
+Apalachee language	iso	xap
+Piro Pueblo language	iso	pie
+Lower Chehalis language	iso	cea
+Quinault language	iso	qun
+Upper Chehalis language	iso	cjh
+Stoney language	iso	sto
+Neutral Huron language	iso	none
+Erie language	iso	none
+Aruáshi language	iso	arx
+Arikem language	iso	ait
+Kuruáya language	iso	kyr
+Urumi language	iso	uru
+Maritsauá language	iso	msp
+Mondé language	iso	mnd
+Kepkiriwát language	iso	kpn
+Wayoró language	iso	wyr
+Mekéns language	iso	skf
+Pauserna language	iso	psm
+Turiwára language	iso	twt
+Takunyapé language	iso	none
+Xingu Asurini language	iso	asn
+Araweté language	iso	awt
+Avá-Canoeiro language	iso	avv
+Uru-Pa-In language	iso	urp
+Kaskihá language	iso	gva
+Arma language	iso	aoh
+Sinúfana language	iso	none
+Quimbaya language	iso	none
+Khamnigan Mongol	iso	none
+Khisa language	iso	kqm
+Kaansa language	iso	gna
+Burumakok language	iso	aip
+Tsaukambo language	iso	kvz
+Iwur language	iso	iwo
+Bimin language	iso	bhl
+Puiron language	iso	none
+Setaman language	iso	stm
+Nakai language	iso	nkj
+Suganga language	iso	sug
+Kheza language	iso	nkh
+Pochuri language	iso	npo
+Hill Miri dialect	iso	none
+Na dialect	iso	nbt
+Dobase language	iso	dox
+Yoy language	iso	yoy
+Tày Tac language	iso	tyt
+Thai Song language	iso	soa
+Torá language	iso	trz
+Wanham language	iso	none
+Cumana language	iso	none
+Quitemo language	iso	none
+Ashraf language	iso	none
+Sensi language	iso	sni
+Old Catio language	iso	none
+Nutabe language	iso	none
+Voto language	iso	none
+Corobicí language	iso	none
+Huetar language	iso	none
+Poyanawa language	iso	pyn
+Atsawaka language	iso	atc
+Waninawa language	iso	knt
+Tuxinawa language	iso	tux
+Tlaxcala–Puebla Nahuatl	iso	nhn
+Kanakuru language	iso	kna
+Waiká language	iso	wca
+Yanomamö language	iso	guu
+Michoacán Nahuatl	iso	ncl
+Ometepec Náhuatl language	iso	nht
+Janday language	iso	jan
+Lyngngam language	iso	lyg
+Temascaltepec Nahuatl	iso	nhv
+Atorada language	iso	aox
+Pawishiana language	iso	none
+Carijona language	iso	cbd
+Akurio language	iso	ako
+Waimiri-Atroarí language	iso	atr
+Pará Arára language	iso	aap
+Ikpeng language	iso	txi
+Japreria language	iso	jru
+Tamanaku language	iso	tmz
+Yauna language	iso	ynu
+Koreguaje language	iso	coe
+Macaguaje language	iso	mcl
+Orejón language	iso	ore
+Tanimuca-Retuarã language	iso	tnc
+Tatuyo language	iso	tav
+Carapana language	iso	cbc
+Desano language	iso	des
+Siriano language	iso	sri
+Waimajã language	iso	bao
+Macuna language	iso	myy
+Yupuá language	iso	none
+Cueretú language	iso	none
+Nukini language	iso	nuc
+Sabanês language	iso	sae
+Wudu language	iso	wud
+Aguna language	iso	aug
+Awak language	iso	awo
+Bangwinji language	iso	bsj
+Tha language	iso	thy
+Maghdi language	iso	gmd
+Burak language	iso	bys
+Moo language	iso	gwg
+Goundo language	iso	goy
+Besme language	iso	bes
+Kolbila language	iso	klc
+Bon Gula language	iso	glc
+Fania language	iso	fni
+Zan Gula language	iso	zna
+Koke language	iso	kou
+Tunia language	iso	tug
+Yongbei Zhuang	iso	zyb
+Konni language	iso	kma
+Safaliba language	iso	saf
+Yobe language	iso	soy
+Kamara language	iso	jmr
+Kantosi language	iso	xkt
+Hanga language	iso	hag
+Notre language	iso	bly
+Chala language	iso	cll
+Vagla language	iso	vag
+Pana language	iso	pnq
+Kalamsé language	iso	knz
+Bago-Kusuntu language	iso	bqg
+Tamprusi language	iso	tpm
+Chakali language	iso	cli
+Kaike language	iso	kzq
+Kanashi language	iso	xns
+Chaudangsi language	iso	cdn
+Tinani language	iso	lbf
+Darmiya language	iso	drd
+Paraujano language	iso	pbg
+Nanti language	iso	cox
+Caquetio language	iso	none
+Yawalapití language	iso	yaw
+Custenau language	iso	none
+Kuk language	iso	kfn
+Kung language	iso	kfl
+Zhoa language	iso	zhw
+Weh language	iso	weh
+Laimbue language	iso	lmx
+Sartang language	iso	onp
+Namuyi language	iso	nmy
+Guiqiong language	iso	gqi
+Choyo language	iso	qvy
+Shixing language	iso	sxg
+Bolo language	iso	blv
+Nyengo language	iso	nye
+Danu language	iso	dnv
+Pela language	iso	bxd
+Hpon language	iso	hpo
+Ruga language	iso	ruh
+Tiwa language	iso	lax
+Rabha language	iso	rah
+Tutsa language	iso	tvt
+Wancho language	iso	nnp
+Jirel language	iso	jul
+Voko language	iso	wok
+Duli language	iso	duz
+Mbere language	iso	none
+Sakpu language	iso	none
+Karang language	iso	kzr
+Mangbai language	iso	mcs
+Dek language	iso	dek
+Ndai language	iso	gke
+Pam language	iso	pmn
+To language	iso	toz
+Laka language	iso	lak
+Bali language	iso	bcn
+Kpasam language	iso	pbn
+Teme language	iso	tdo
+Pangseng language	iso	pgs
+Waka language	iso	wav
+Kumba language	iso	ksm
+Rang language	iso	rax
+Alas language	iso	btz
+Batak Angkola language	iso	akb
+Batak Simalungun language	iso	bts
+Batak Dairi language	iso	btd
+Ethiopian sign languages	iso	eth
+Bhatri language	iso	bgw
+Choni language	iso	cda
+Kwaya language	iso	kya
+Kenzi language	iso	xnz
+Albanian Sign Language	iso	sqk
+Tai Laing language	iso	tjl
+Saam language	iso	raq
+Jerung language	iso	jee
+Dungmali language	iso	raa
+Chulung language	iso	cur
+Central !Kung	iso	none
+Rogo language	iso	rod
+Gurmana language	iso	gvm
+Fungwa language	iso	ula
+Eastern Acipa language	iso	acp
+Shama language	iso	sqa
+Tibea language	iso	ngy
+Hijuk language	iso	hij
+Jadgali language	iso	jdg
+Mahasu Pahari language	iso	bfz
+Surjapuri language	iso	sjp
+Bhaca language	iso	none
+Manang language	iso	nmm
+Kutang language	iso	ght
+Sene language	iso	sej
+Migabac language	iso	mpp
+Sialum language	iso	slw
+Kumukio language	iso	kuo
+Nomu language	iso	noh
+Momare language	iso	msz
+Kinalakna language	iso	kco
+Alege language	iso	alf
+Bumaji language	iso	byp
+Ubang language	iso	uba
+Ukpe-Bayobiri language	iso	ukp
+Njen language	iso	njj
+Putukwam language	iso	afe
+Ngoshie language	iso	nsh
+Amasi language	iso	none
+Tataltepec Chatino	iso	cta
+Zenzontepec Chatino	iso	czn
+Zacatepec Chatino	iso	ctz
+Micha language	iso	yiq
+Kwakum language	iso	kwu
+Nyaheun language	iso	nev
+Sapuan language	iso	spu
+Western Pwo language	iso	pwo
+Northern Pwo language	iso	pww
+Phrae Pwo language	iso	kjt
+Geba Karen language	iso	kvq
+Charrúa language	iso	none
+Güenoa language	iso	none
+Mangarla language	iso	mem
+Sabujá language	iso	none
+Kamurú language	iso	none
+Kresh-Hofra language	iso	krs
+Gboko language	iso	krs
+Woro language	iso	krs
+Dongo language	iso	krs
+Dara language	iso	krs
+Haroi language	iso	hro
+Chru language	iso	cje
+Moniga language	iso	mhm
+Idaxo-Isuxa-Tiriki language	iso	ida
+Logoli language	iso	rag
+Suruí do Pará dialect	iso	mdz
+Wuliwuli language	iso	wlu
+Barunggam language	iso	none
+Bayali language	iso	bjy
+Wakawaka language	iso	wkw
+Chiquihuitlán Mazatec	iso	maq
+Kaytetye language	iso	gbb
+Kagulu language	iso	kki
+Kanyok language	iso	kny
+Lamaholot language	iso	slp
+Lewotobi language	iso	lwt
+Himyaritic language	iso	none
+Varli language	iso	vav
+Mele-Fila language	iso	mxe
+Emae language	iso	mmw
+Palya Bareli language	iso	bpx
+Rathwi Bareli language	iso	bgd
+Southern Catanduanes Bikol language	iso	bln
+Col language	iso	liw
+Kerinci language	iso	kvr
+Huehuetla Tepehua	iso	tee
+Filomeno Mata Totonac	iso	tlp
+Sirmauri language	iso	srx
+Jaunsari language	iso	jns
+Hinduri language	iso	hii
+Pahari Kinnauri language	iso	kjo
+Chodri language	iso	cdi
+Dhodia language	iso	dho
+Dubli language	iso	dub
+Bauria language	iso	bge
+Vaghri language	iso	vgr
+Eman language	iso	emn
+Ipulo language	iso	ass
+Otank	iso	uta
+Ambo language	iso	amb
+Abon language	iso	abo
+Iyive language	iso	uiv
+Gurgula language	iso	ggg
+Katkari language	iso	kfu
+Phudagi language	iso	phd
+Nathembo language	iso	nte
+Hangaza language	iso	han
+Vinza language	iso	vin
+Ruuli language	iso	ruc
+Zinza language	iso	zin
+Ikizu language	iso	ikz
+Northwestern Fars language	iso	faz
+Gazi language	iso	gzi
+Khuri language	iso	none
+Nayini language	iso	nyq
+Soi language	iso	soj
+Natanzi language	iso	ntz
+Seba language	iso	kdg
+Bondei language	iso	bou
+Slovak Sign Language	iso	svk
+Czech Sign Language	iso	cse
+Romanian Sign Language	iso	rms
+Latvian Sign Language	iso	lsl
+Tunisian Sign Language	iso	tse
+Luna language	iso	luj
+Binji language	iso	bpj
+Simaa language	iso	sie
+Mbowe language	iso	mxo
+Mashi language	iso	mho
+Ndombe language	iso	ndq
+Bamako Sign Language	iso	bog
+Nindi language	iso	nxi
+Tsege language	iso	tck
+Mfinu language	iso	zmf
+Akwa language	iso	akw
+Koyo language	iso	koh
+Wongo language	iso	won
+Swo language	iso	sox
+Mpiemo language	iso	mcx
+Byep language	iso	mkk
+Njem language	iso	njy
+Ukhwejo language	iso	ukh
+Bekwil language	iso	bkw
+Bawm language	iso	bgr
+Ginyanga language	iso	ayg
+Giyug language	iso	giy
+Bragat language	iso	aof
+Abu’ Arapesh language	iso	aah
+Agotime language	iso	adq
+Barngarla language	iso	bjb
+Bati language	iso	btc
+Malaweg language	iso	none
+Kikai language	iso	kzg
+Yoron language	iso	yox
+Kalou language	iso	ywa
+Biga language	iso	bhc
+Matbat language	iso	xmt
+Waigeo language	iso	wgo
+Maden language	iso	xmx
+Ukrainian Sign Language	iso	ukl
+Bharia language	iso	bha
+Mok language	iso	mqt
+Kiorr language	iso	xko
+Tai Loi language	iso	tlq
+O’du language	iso	tyh
+Phai language	iso	prt
+Mal language	iso	mlf
+Tampuan language	iso	tpu
+Monom language	iso	moo
+Todrah language	iso	tdr
+Katua language	iso	kta
+Kayong language	iso	kxy
+Takua language	iso	tkz
+Cheng language	iso	jeg
+Ozomatlán Totonac	iso	tqt
+Pisaflores Tepehua	iso	tpp
+Xicotepec Totonac	iso	too
+Tecpatlán Totonac	iso	tcw
+Tlachichilco Tepehua	iso	tpt
+San Felipe Otomi	iso	ots
+Tilapa Otomi	iso	otl
+Ixtenco Otomi	iso	otz
+Ritharngu language	iso	rit
+Dhangu-Djangu language	iso	dhg
+Djinang language	iso	dji
+Cao Miao language	iso	cov
+Ngamini language	iso	nmv
+Galice language	iso	gce
+Acazulco Otomi	iso	none
+Hueytlalpan Otomi	iso	none
+Wakabunga language	iso	wwb
+Dongotono language	iso	ddd
+Pidgin Delaware	iso	dep
+Habun language	iso	hbu
+Naueti language	iso	nxa
+Imonda language	iso	imn
+Omok language	iso	omk
+Chuvan language	iso	xcv
+Nemi language	iso	nem
+Jamaican Country Sign Language	iso	jcs
+Yolŋu Sign Language	iso	ygs
+Algerian Jewish Sign Language	iso	none
+Amami Oshima Sign Language	iso	none
+Angami Naga Sign Language	iso	none
+Caucasian Sign Language	iso	none
+Sangkong language	iso	sgk
+Eperara language	iso	sja
+Waata language	iso	ssn
+Calamian Tagbanwa language	iso	tbk
+Aborlan Tagbanwa language	iso	tbw
+Central Tagbanwa language	iso	tgt
+Palawan Batak language	iso	bya
+Nyokon language	iso	nvo
+Egyptian Sign Language	iso	esl
+Kilivila language	iso	kij
+Kaning'i language	iso	kzo
+Kwinti language	iso	kww
+Mayi-Kutuna language	iso	xmy
+Mbə’ language	iso	mtk
+Burkina Sign Language	iso	none
+Mamaa language	iso	mhf
+Finongan language	iso	fag
+Mungkip language	iso	mpv
+Nema language	iso	gsn
+Nakama language	iso	nib
+Nuk language	iso	noc
+Nek language	iso	nif
+Neko language	iso	nej
+Gira language	iso	grg
+Ma Manda language	iso	skc
+Ufim language	iso	ufi
+Weliki language	iso	klh
+Nukna language	iso	klt
+Kutong language	iso	skm
+Nekgini language	iso	nkg
+Awara language	iso	awx
+Tuma-Irumu language	iso	iou
+Asaro'o language	iso	mtv
+Rerau language	iso	rea
+Danaru language	iso	dnr
+Kesawai language	iso	xes
+Urigina language	iso	urg
+Lemio language	iso	lei
+Yangulam language	iso	ynl
+Uya language	iso	usu
+Uyajitaya language	iso	duk
+Kolom language	iso	klm
+Bonkiman language	iso	bop
+Mebu language	iso	mjn
+Forak language	iso	frq
+Degenan language	iso	dge
+Guya language	iso	gka
+Bulgebi language	iso	bmp
+Arawum language	iso	awm
+Biyom language	iso	bpm
+Sam language	iso	snx
+Ganglau language	iso	ggl
+Male language	iso	mdc
+Pulabu language	iso	pup
+Sinsauru language	iso	snz
+Bongu language	iso	bpu
+Asas language	iso	asd
+Yabong language	iso	ybo
+Samosa language	iso	swm
+Silopi language	iso	xsp
+Rapting language	iso	rpt
+Utu language	iso	utu
+Nake language	iso	nbk
+Wamas language	iso	wmc
+Mosimo language	iso	mqv
+Saruga language	iso	sra
+Matepi language	iso	mqe
+Murupi language	iso	mqw
+Rempi language	iso	rmp
+Gal language	iso	gap
+Baimak language	iso	bmx
+Yoidik language	iso	ydk
+Mawan language	iso	mcz
+Bagupi language	iso	bpi
+Kebwe language	iso	none
+Kete language	iso	kcv
+Rungwa language	iso	rnw
+Malila language	iso	mgq
+Wanda language	iso	wbh
+Aushi language	iso	auh
+Dema language	iso	dmx
+Bebele language	iso	beb
+Bebil language	iso	bxp
+Sochiapam Chinantec	iso	cso
+Usila Chinantec	iso	cuc
+Maiwa language	iso	wmm
+Angika language	iso	anp
+Malimpung language	iso	mli
+Mato language	iso	met
+Ronji language	iso	roe
+Repanbitip language	iso	rpn
+Dixon Reef language	iso	dix
+Letemboi language	iso	nms
+Janji language	iso	jni
+Shau language	iso	sqh
+Guta language	iso	nar
+Lere language	iso	gnh
+Tunzu language	iso	dza
+Gyem language	iso	gye
+Zora language	iso	cbo
+Gamo-Ningi language	iso	bte
+Kudu-Camo language	iso	kov
+Mazaltepec Zapotec	iso	zpy
+Yavesía Zapotec	iso	zpd
+Mixtepec Zapotec	iso	zpm
+Zaniza Zapotec	iso	zpw
+Texmelucan Zapotec	iso	zpz
+Lachixío Zapotec	iso	zpl
+Loxicha Zapotec	iso	ztp
+Western Tlacolula Valley Zapotec	iso	zab
+Mitla Zapotec	iso	zaw
+Asunción Mixtepec Zapotec	iso	zoo
+San Bartolo Yautepec Zapotec	iso	zpb
+Suku language	iso	sub
+Mbangala language	iso	mxg
+Barama language	iso	bbg
+Vumbu language	iso	vum
+Totela language	iso	ttl
+Mbesa language	iso	zms
+Kande language	iso	kbs
+Himba language	iso	sbw
+Ndumu language	iso	nmd
+Lame language	iso	bma
+Dulbu language	iso	dbo
+Labir language	iso	jku
+Wanzi language	iso	wdd
+Sighu language	iso	sxe
+Duma language	iso	dma
+Sake language	iso	sak
+Mahongwe language	iso	mhb
+Tomoip language	iso	tqp
+Shuwa language	iso	none
+Bilur language	iso	bxf
+Kusu language	iso	ksv
+Ombo language	iso	oml
+Lealao Chinantec	iso	cle
+Pahlavni language	iso	phv
+Bajelani dialect	iso	bjm
+Sarli dialect	iso	sdf
+Ikoma language	iso	ntk
+Singa language	iso	sgm
+Suba-Simbiti language	iso	ssc
+Ngoreme language	iso	ngq
+Kabwa language	iso	cwa
+Mpama language	iso	none
+Mbompo language	iso	none
+Zamba language	iso	none
+Binza language	iso	liz
+Foto language	iso	none
+Nda’nda’ language	iso	nnz
+Kwa’ language	iso	bko
+Dzodinka language	iso	add
+Loki dialect	iso	bkt
+Losengo language	iso	lse
+Bomboma language	iso	bws
+Dzando language	iso	dzn
+Bamwe language	iso	bmg
+Kula language	iso	none
+Gendza language	iso	lgz
+Londo language	iso	bzm
+Sagara language	iso	sbm
+Kami language	iso	kcu
+Kutu language	iso	kdc
+Doe language	iso	doe
+Vidunda language	iso	vid
+Kwere language	iso	cwe
+Ngondi language	iso	ndn
+Pande language	iso	bkj
+Bole language	iso	bvx
+Bongili language	iso	bui
+Bomboli language	iso	bml
+Bozaba language	iso	bzo
+Bomitaba language	iso	zmx
+Ngando language	iso	ngd
+Papia language	iso	bbw
+Bangolan language	iso	bgj
+Menyam language	iso	bce
+Bamali language	iso	bbq
+Bunwurrung language	iso	none
+Daungwurrung language	iso	dgw
+Djadjawurrung language	iso	dja
+Wathawurrung language	iso	wth
+Basa-Kontagora language	iso	bsr
+Koromba language	iso	buj
+Wemba Wemba language	iso	xww
+Madhi Madhi language	iso	dmd
+Ledji-Ledji language	iso	llj
+Wadi Wadi language	iso	xwd
+Tharawal language	iso	tbh
+Dhurga language	iso	dhu
+Dyirringany language	iso	none
+Thawa language	iso	xtv
+Nganyaywana language	iso	nyx
+Dhanggati language	iso	dyn
+Warrgamay language	iso	wgy
+Ngaygungu language	iso	none
+Yirandhali language	iso	ljw
+Ayabadhu language	iso	ayd
+Gugu Dhaw language	iso	none
+Kanowit language	iso	kxn
+Umbuygamu language	iso	umg
+Kuthant language	iso	xut
+Wamin language	iso	wmi
+Darumbal language	iso	xgm
+Ngadjunmaya language	iso	nju
+Mirning language	iso	none
+Nyamal language	iso	nly
+Adithinngithigh language	iso	dth
+Djaru language	iso	ddj
+Mbiywom language	iso	none
+Andjingith language	iso	none
+Ngumbarl language	iso	none
+Yugul language	iso	ygu
+Bina language	iso	byj
+Mala language	iso	ruy
+Vori language	iso	sde
+Vono language	iso	kch
+Kono language	iso	klk
+Kinuku language	iso	kkd
+Ruma language	iso	ruz
+Dungu language	iso	dbv
+Kaivi language	iso	kce
+Shuwa-Zamani language	iso	ksa
+Tumi language	iso	kku
+Djinba language	iso	djb
+Barranbinja language	iso	none
+Awing language	iso	azo
+Bamukumbit language	iso	bqt
+Mendankwe-Nkwen language	iso	mfd
+Mbili-Mbui language	iso	baw
+Beba language	iso	bfp
+Mankon language	iso	nge
+Tuotomb language	iso	ttf
+Yambeta language	iso	yat
+Mandi language	iso	lem
+Baca language	iso	baf
+Gowro language	iso	gwf
+Tirahi language	iso	tra
+Wotapuri-Katarqalai language	iso	wsv
+Bateri language	iso	btv
+Kalkoti language	iso	xka
+Kugbo language	iso	kes
+O’chi’chi’ language	iso	xoc
+Abureni language	iso	mgj
+Obulom language	iso	obu
+Zekwe language	iso	eze
+Wãpha language	iso	juw
+Hõne language	iso	juh
+Tita language	iso	tdq
+Jiba language	iso	juo
+Wannu language	iso	jub
+Jiru language	iso	jrr
+Kapya language	iso	klo
+Beezen language	iso	bnz
+Akum language	iso	aku
+Bisu language	iso	bzi
+Muda language	iso	ymd
+Pyen language	iso	pyy
+Phana’ language	iso	phq
+Nusu language	iso	nuf
+Ibino language	iso	ibn
+Idere language	iso	ide
+Eki language	iso	eki
+Efai language	iso	efa
+Zauzou language	iso	zal
+Gokhy language	iso	none
+Welaung language	iso	weu
+Tholo language	iso	ytl
+Kucong language	iso	lkc
+Lamu language	iso	llh
+Bulgarian Sign Language	iso	bqn
+Muzi language	iso	ymz
+Moji language	iso	ymi
+Thopho language	iso	ytp
+Zokhuo language	iso	yzk
+Ngawn language	iso	cnw
+Darlong language	iso	dln
+Pangkhu language	iso	pkh
+Tawr language	iso	tcp
+Inpui language	iso	nkf
+Yinhawangka language	iso	ywg
+Nhuwala language	iso	nhf
+Wanman language	iso	wbt
+Nyiyaparli language	iso	xny
+Mithaka language	iso	rxw
+Badjiri language	iso	jbi
+Ilue language	iso	ilv
+Usaghade language	iso	usk
+Iko language	iso	iki
+Nyima language	iso	ldg
+Nkukoli language	iso	nbo
+Lubila language	iso	kcc
+Yigha language	iso	ayi
+Bakpinka language	iso	bbs
+Uyanga language	iso	uya
+Siyin language	iso	csy
+Lamkang language	iso	lmk
+Kiong language	iso	kkm
+Simte language	iso	smt
+Chiru language	iso	cdf
+Ranglong language	iso	rnl
+Aimol language	iso	aim
+Monsang language	iso	nmh
+Chothe language	iso	nct
+Tarao language	iso	tro
+Moyon language	iso	nmo
+Avava language	iso	tmb
+Puluwatese language	iso	puw
+Pááfang language	iso	pfa
+Namonuito language	iso	nmt
+Satawalese language	iso	stw
+Mortlockese language	iso	mrl
+Tungag language	iso	lcm
+Southeast Ambrym language	iso	tvk
+Notsi language	iso	ncf
+Madak language	iso	mmx
+Lavatbura-Lamusong language	iso	lbv
+Barok language	iso	bjk
+Nukuria language	iso	nur
+Nukumanu language	iso	nuq
+Sikaiana language	iso	sky
+Ontong Java language	iso	ojv
+Watubela language	iso	wah
+Bati language	iso	bvt
+Pekal language	iso	pel
+Duano’ language	iso	dup
+Mansaka language	iso	msk
+Mandaya language	iso	mry
+Nume language	iso	tgs
+Olrat language	iso	olr
+Uruguayan Sign Language	iso	ugy
+Trinidad and Tobago Sign Language	iso	lst
+Paraguayan Sign Language	iso	pys
+Mauritian Sign Language	iso	lsy
+Somali Sign Language	iso	none
+Bughotu language	iso	bgt
+Mengen language	iso	mee
+Mamusi language	iso	kdf
+Sorkhei language	iso	sqo
+Lavi language	iso	none
+Jru' language	iso	lbo
+Juk language	iso	none
+West Ambae language	iso	nnd
+Ottoman Sign Language	iso	none
+Paleni language	iso	pnl
+Maba language	iso	mqa
+Tamasheq language	iso	taq
+Guinea-Bissau Sign Language	iso	none
+Karranga language	iso	xrq
+Uwinymil language	iso	none
+Galaagu language	iso	kba
+Nukunul language	iso	xnu
+Kalaamaya language	iso	lkm
+Walangama language	iso	nlw
+Wanyi language	iso	wny
+Balantak language	iso	blz
+Gunindiri language	iso	none
+Algonquian–Basque pidgin	iso	none
+Limi language	iso	ylm
+Nancowry language	iso	ncb
+Camorta language	iso	ncb
+Katchal language	iso	ncb
+Chalon language	iso	none
+Tamyen language	iso	none
+Ramaytush language	iso	none
+Awaswas language	iso	none
+Chochenyo language	iso	none
+Girirra language	iso	none
+Nkami language	iso	nkq
+Bellari language	iso	brw
+Zangskari dialect	iso	zau
+Tseku language	iso	tsk
+Jad language	iso	jda
+Dongwang Tibetan language	iso	none
+Khalong Tibetan language	iso	none
+Zhongu Tibetan language	iso	none
+Bumang language	iso	bvp
+Dupaningan Agta	iso	duo
+Manide language	iso	abd
+Kathu language	iso	ykt
+Maang language	iso	none
+Mondzi language	iso	none
+Samu language	iso	ysd
+Katso language	iso	kaf
+Lavu language	iso	yta
+Lope language	iso	yiu
+Blablanga language	iso	blp
+Zazao language	iso	jaj
+Zabana language	iso	kji
+Gao language	iso	gga
+Cheke Holo language	iso	mrn
+Laomian language	iso	lwm
+Piyo language	iso	byo
+Ware language	iso	wre
+Chairel language	iso	none
+Moran language	iso	none
+Yano language	iso	none
+Tosu language	iso	none
+Samei language	iso	smh
+Sanie language	iso	ysy
+Xuzhang language	iso	none
+Mangdi language	iso	none
+Yangliu language	iso	none
+Eka language	iso	none
+Anu-Hkongso language	iso	anl
+Naluo language	iso	ylo
+Aluo language	iso	yna
+Tabasco Nahuatl	iso	nhc
+Bannoni language	iso	bcm
+Lawunuia language	iso	tgi
+Murik Kayan language	iso	mxr
+Wila' language	iso	none
+Lizu language	iso	none
+Ersu language	iso	ers
+Sila language	iso	slt
+Finland-Swedish Sign Language	iso	fss
+Koluwawa language	iso	klx
+Remun language	iso	lkj
+Mbodomo language	iso	gmm
+Pai-lang language	iso	none
+Miju language	iso	mxj
+Bongwe language	iso	none
+Caijia language	iso	none
+Paza language	iso	none
+Barsoomian language	iso	none
+Pa Na language	iso	none
+Raojia language	iso	none
+Sadu language	iso	none
+Som language	iso	smc
+Dumun language	iso	dui
+Millcayac language	iso	none
+Kamaru language	iso	kgx
+Sorbung language	iso	none
+Urupa language	iso	none
+Arazaire language	iso	none
+Sheliff Basin Berber	iso	none
+Tai Pao language	iso	tpo
+Youjiang Zhuang	iso	zyj
+Yao language	iso	none
+Talni language	iso	tqi
+Siti language	iso	none
+Kali language	iso	none
+Shinji language	iso	none
+Luimbi language	iso	lum
+Shanjo language	iso	none
+Hong Kong Sign Language	iso	hks
+Papar language	iso	dpp
+Kili language	iso	none
+Mo Piu language	iso	none
+Jawe language	iso	jaz
+Fwâi language	iso	fwa
+Pije language	iso	piz
+Xârâgurè language	iso	axx
+Zire language	iso	sih
+Tîrî language	iso	cir
+Arhö language	iso	aok
+Neku language	iso	nek
+Orowe language	iso	bpk
+Arhâ language	iso	aqr
+Waamwang language	iso	wmn
+Hmwaveke language	iso	mrk
+Haeke language	iso	aek
+Pwapwâ language	iso	pop
+Pwaamei language	iso	pme
+Nyâlayu language	iso	yly
+Vamale language	iso	mkt
+Caac language	iso	msq
+Kumak language	iso	nee
+Mapia language	iso	mpy
+Magahat language	iso	mtw
+Karolanos language	iso	kyn
+Ata language	iso	atm
+Sulod language	iso	srg
+Diodio language	iso	ddi
+Solong language	iso	aaw
+Hakö language	iso	hao
+Halia language	iso	hla
+Saposa language	iso	sps
+Tinputz language	iso	tpz
+Solos language	iso	sol
+Hahon language	iso	hah
+Papapana language	iso	ppn
+Nehan language	iso	nsn
+Higaonon language	iso	mba
+Eastern Kadazan language	iso	dtb
+Manombai language	iso	woo
+Nali language	iso	nss
+Molima language	iso	mox
+Talondo’ language	iso	tln
+To’abaita language	iso	mlu
+Wabo language	iso	wbb
+Aribwaung language	iso	ylu
+Musom language	iso	msu
+Nafi language	iso	srf
+Wampar language	iso	lbq
+Kumbewaha language	iso	xks
+Ghayavi language	iso	bmk
+Gweda language	iso	grw
+Mangseng language	iso	mbh
+Bebeli language	iso	bek
+Akolet language	iso	akt
+Avau language	iso	avb
+Lesing-Gelimi language	iso	let
+Siar-Lak language	iso	sjr
+Boano language	iso	bzl
+Boano language	iso	bzn
+Tagabawa language	iso	bgs
+Fordata language	iso	frd
+Dampelas language	iso	dms
+Boselewa language	iso	bwf
+Balaesang language	iso	bls
+Yakamul language	iso	ykm
+Kakabai language	iso	kqf
+Kepo' language	iso	kuk
+Meramera language	iso	mxm
+Naka'ela language	iso	nae
+Sinaugoro language	iso	snc
+Wogeo language	iso	woc
+Tringgus language	iso	trx
+Sa'ban language	iso	snv
+Te'un language	iso	tve
+Bwanabwana language	iso	tte
+Tɔli language	iso	none
+Abadi language	iso	kbt
+Daro-Matu language	iso	dro
+Pangutaran Sama language	iso	slm
+Sindihui Mixtec	iso	xts
+Nuyoo Mixtec	iso	meh
+Tilantongo Mixtec	iso	xtd
+Maiadomu language	iso	mzz
+Ot Danum language	iso	otd
+Vurës language	iso	msn
+Vera'a language	iso	vra
+Tutoh language	iso	ttw
+Wahau Kenyah language	iso	whk
+Sebop language	iso	sib
+Dela-Oenale language	iso	row
+Kaninuwa language	iso	wat
+Sepa language	iso	spe
+Old Bangkok Sign Language	iso	none
+Chiangmai Sign Language	iso	csd
+Bola language	iso	bnp
+Bulu language	iso	bjl
+Baluan-Pam language	iso	blq
+Alipur Sign Language	iso	none
+Mardin Sign Language	iso	none
+Henniker Sign Language	iso	none
+Sandy River Valley Sign Language	iso	none
+Nimoa language	iso	nmw
+Sudest language	iso	tgo
+Bonggi language	iso	bdg
+Tiruray language	iso	tiy
+Bagobo language	iso	bgi
+Patani language	iso	ptn
+Gane language	iso	gzn
+Buli language	iso	bzq
+Nahavaq language	iso	sns
+Podena language	iso	pdn
+Yamna language	iso	ymn
+Tanema language	iso	tnx
+Lovono language	iso	vnk
+Löyöp language	iso	urr
+Tanimbili language	iso	tbe
+Asumboa language	iso	aua
+Nanabin Sign Language	iso	none
+Mili language	iso	ymh
+Burmbar language	iso	vrt
+Hote language	iso	hot
+Neve'ei language	iso	vnm
+Malfaxal language	iso	mlx
+Kayupulau language	iso	kzu
+Ormu language	iso	orz
+Old Costa Rican Sign Language	iso	none
+Bribri Sign Language	iso	none
+Brunca Sign Language	iso	none
+Maltese Sign Language	iso	mdl
+Cypriot Sign Language	iso	none
+Gbin language	iso	xgb
+Sudanese sign languages	iso	none
+Pericú language	iso	none
+Daakaka language	iso	bpa
+Ririo language	iso	rri
+Varisi language	iso	vrs
+Vaghua language	iso	tva
+Tondano language	iso	tdn
+Chinantec of Ojitlán	iso	chj
+Chinantec of Ozumacín	iso	chz
+Chinantec of Tepetotutla	iso	cnt
+Pre-Samnite language	iso	none
+Ngatikese Creole	iso	ngm
+Tommeginne language	iso	none
+Port Sorell language	iso	none
+Peerapper language	iso	none
+Toogee language	iso	none
+Pyemmairre language	iso	none
+Tyerrernotepanner language	iso	none
+Blackhouse Tasmanian language	iso	none
+Norman Tasmanian language	iso	none
+Little Swanport language	iso	none
+Paredarerme language	iso	none
+Nuenonne language	iso	none
+Bruny Island language	iso	none
+Biyanda-Buli language	iso	gso
+Toongo language	iso	none
+Bozom language	iso	gbq
+Lehali language	iso	tql
+Mai dialect	iso	none
+Gwa language	iso	gwb
+Marachi language	iso	lri
+Khayo language	iso	lko
+Shiwe language	iso	none
+Nzadi language	iso	none
+Samay language	iso	syx
+Metombola language	iso	none
+Ndambomo language	iso	nxo
+Mwele language	iso	none
+Ibhili language	iso	none
+Ngubi language	iso	none
+Viya language	iso	gev
+Sidi language	iso	none
+Budya language	iso	none
+Bwenyi language	iso	none
+Socotra Swahili language	iso	none
+Doko language	iso	none
+Yaka language	iso	none
+Kwangwa language	iso	none
+Mbali language	iso	none
+Kyowa-go	iso	none
+Naandi language	iso	niq
+Cutchi-Swahili	iso	ccl
+Cuban Sign Language	iso	csf
+Town Bemba	iso	none
+Inagta Partido language	iso	agk
+Mount Iraya Agta language	iso	atl
+Mount Iriga Agta language	iso	agz
+Ravula language	iso	yea
+Jumli language	iso	jml
+Somra language	iso	ntx
+Akyaung Ari language	iso	nqy
+Magori language	iso	zgr
+La'bi language	iso	lbi
+Laka language	iso	lap
+Settler Swahili	iso	sta
+Ata Manobo language	iso	atd
+Matigsalug language	iso	mbt
+Western Bukidnon language	iso	mbb
+Ilianen language	iso	mbi
+Tenis language	iso	tns
+Nasal language	iso	nsy
+Meoswar language	iso	mvx
+Djabwurrung language	iso	tjw
+Mgbo language	iso	gmz
+Ikwo language	iso	iqw
+Ikarranggal language	iso	ikr
+Kpee language	iso	cpo
+Lawu language	iso	lwu
+Kagani dialect	iso	hno
+Guwa language	iso	xgw
+Yanda language	iso	yda
+Bindal language	iso	xbd
+Nefamese	iso	nef
+Semandang language	iso	sdm
+Kembayan language	iso	xem
+Ratahan language	iso	rth
+Mari language	iso	hob
+Sungai language	iso	abf
+Bobongko language	iso	bgb
+Wampur language	iso	waz
+Ampanang language	iso	apg
+Andio language	iso	bzb
+Bonerate language	iso	bna
+Kohin language	iso	kkx
+Siang language	iso	sya
+Lelak language	iso	llk
+Burusu language	iso	bqr
+Tonsea language	iso	txs
+Tonsawang language	iso	tnw
+Belait language	iso	beg
+Alune language	iso	alp
+Moksela language	iso	vms
+Hulung language	iso	huk
+Lisabata-Nuniali language	iso	lcs
+Mangole language	iso	mqc
+Arguni language	iso	agf
+Uruangnirin language	iso	urn
+Onin language	iso	oni
+Onin language	iso	onx
+Lengilu language	iso	lgi
+Tring language	iso	tgq
+Eton language	iso	etn
+Lelepa language	iso	lpa
+Jandavra language	iso	jnd
+Elu language	iso	elu
+Eravallan language	iso	era
+Muthuvan language	iso	muv
+Vaagri Booli language	iso	vaa
+Cauque Mayan language	iso	ckz
+Iwaak language	iso	iwk
+Karao language	iso	kyj
+Balangao language	iso	blw
+Isinai language	iso	inn
+Northern Alta language	iso	aqn
+Southern Alta language	iso	agy
+Yogad language	iso	yog
+Ponosakan language	iso	pns
+Suwawa language	iso	swu
+Lolak language	iso	llq
+Kaidipang language	iso	kzp
+Bintauna language	iso	bne
+Gebe language	iso	gei
+As language	iso	asz
+Romanid	iso	none
+Casiguran Dumagat Agta	iso	dgc
+Kasiguranin language	iso	ksn
+Dicamay Agta language	iso	duy
+Paranan language	iso	prf
+Central Cagayan Agta language	iso	agt
+Umiray Dumaget language	iso	due
+Inagta Alabat language	iso	dul
+Tomini language	iso	txm
+Pendau language	iso	ums
+Taje language	iso	pee
+Tajio language	iso	tdj
+Lauje language	iso	law
+Dondo language	iso	dok
+Paranan Agta language	iso	apf
+Gitua language	iso	ggt
+Bariai language	iso	bch
+Malalamai language	iso	mmt
+Rampi language	iso	lje
+Sarudu language	iso	sdu
+Topoiyo language	iso	toy
+Sedoa language	iso	tvw
+Mbelala language	iso	ttp
+Wotu language	iso	wtw
+Kalao language	iso	kly
+Laiyolo language	iso	lji
+Kuri language	iso	nbn
+Kodeoha language	iso	vko
+Bahonsuai language	iso	bsu
+Tomadino language	iso	tdi
+Waru language	iso	wru
+Rahambuu language	iso	raz
+Lasalimu language	iso	llm
+Busoa language	iso	bup
+Liabuku language	iso	lix
+Kaimbulawa language	iso	zka
+Masimasi language	iso	ism
+Tarpia language	iso	tpf
+Bonggo language	iso	bpg
+Liki language	iso	lio
+Wakde language	iso	wkd
+Kaptiau language	iso	kbi
+Axamb language	iso	ahb
+Apro language	iso	ahp
+Tiagba language	iso	ahi
+Mobu language	iso	ahm
+Ramoaaina language	iso	rai
+Gumawana language	iso	gvs
+Iduna language	iso	viv
+Yamalele language	iso	yml
+Suau language	iso	swp
+Pak-Tong language	iso	pkg
+Bieria language	iso	brj
+Torau language	iso	ttu
+Sungwadia language	iso	mrb
+Peterara language	iso	mwo
+North Ambrym language	iso	mmg
+Lonwolwol language	iso	crc
+Port Vato language	iso	ptv
+Minaveha language	iso	mvn
+Baetora language	iso	btr
+Vehes language	iso	val
+Piu language	iso	pix
+Yamap language	iso	ymp
+Kapin language	iso	tbx
+Mangga Buang language	iso	mmo
+Timugon language	iso	tih
+Mualang language	iso	mtd
+Seberuang language	iso	sbx
+Keninjal language	iso	knl
+Sebuyau language	iso	snb
+Deyah language	iso	dun
+Paku language	iso	pku
+Dusun Witu language	iso	duw
+Dusun Malang language	iso	duq
+Konomala language	iso	koa
+Guramalum language	iso	grz
+Label language	iso	lbb
+Kandas language	iso	kqw
+Huaulu language	iso	hud
+Liana language	iso	ste
+Salas language	iso	sgu
+Benggoi language	iso	bgy
+Baki language	iso	bki
+Bierebo language	iso	bnk
+Lamenu language	iso	lmu
+Maii language	iso	mmm
+Gaura language	iso	none
+Kodi language	iso	kod
+Pondok language	iso	none
+Lamboya language	iso	lmy
+Baliledo language	iso	none
+Anakalangu language	iso	akg
+Mamboru language	iso	mvd
+Zimbabwean sign languages	iso	zib
+Mozambican Sign Language	iso	mzy
+Afghan Sign Language	iso	afg
+Laotian sign languages	iso	lso
+Sembakung language	iso	sbr
+Kalabakan language	iso	kve
+Serudung language	iso	srk
+Okolod language	iso	kqv
+Punan Merap language	iso	puc
+Nusa Laut language	iso	nul
+Wakasihu language	iso	alo
+Luang language	iso	lex
+Wandamen language	iso	wad
+Punan Tubu language	iso	puj
+Hovongan language	iso	hov
+Aput language	iso	pud
+Arifama-Miniafia language	iso	aai
+Ubir language	iso	ubr
+Buhutu language	iso	bxh
+Ulau-Suain language	iso	svb
+Polonombauk language	iso	plb
+Butmas language	iso	bnr
+Quiavicuzas Zapotec	iso	zpj
+Petapa Zapotec	iso	zpe
+Hus language	iso	anx
+Guevea Zapotec	iso	zpg
+Sian language	iso	spg
+Morelos Nahuatl	iso	nhm
+Tejalapan Zapotec	iso	ztt
+Elotepec Zapotec	iso	zte
+Ocotlán Zapotec	iso	zac
+Ayoquezco Zapotec	iso	zaf
+Zaachila Zapotec	iso	ztx
+Yatzeche Zapotec	iso	zpn
+Chichicápam Zapotec	iso	zpv
+Quiatoni Zapotec	iso	zpf
+Güilá Zapotec	iso	ztu
+Yalálag Zapotec	iso	zpu
+Zoogocho Zapotec	iso	zpq
+Cajonos Zapotec	iso	zad
+Quioquitani Zapotec	iso	ztq
+Choápam Zapotec	iso	zpc
+Tabaá Zapotec	iso	zat
+Yatee Zapotec	iso	zty
+Albarradas Zapotec	iso	zas
+Santa Catarina Albarradas Zapotec	iso	ztn
+Aloápam Zapotec	iso	zaq
+Lapaguía Zapotec	iso	ztl
+Amatlán Zapotec	iso	zpo
+Coatecas Altas Zapotec	iso	zca
+Miahuatlán Zapotec	iso	zam
+Ozolotepec Zapotec	iso	zao
+San Baltázar Loxicha Zapotec	iso	zpx
+San Vicente Zapotec	iso	zpt
+Xadani Zapotec	iso	zax
+San Agustín Mixtepec Zapotec	iso	ztm
+Quiegolani Zapotec	iso	zpi
+Xanaguía Zapotec	iso	ztg
+Xánica Zapotec	iso	zpr
+Tlacolulita Zapotec	iso	zpk
+Solteco Zapotec	iso	none
+El Alto Zapotec	iso	zpp
+Totomachapan Zapotec	iso	zph
+Koeruna language	iso	none
+Koihoma language	iso	none
+Andoquero language	iso	none
+Marau language	iso	mvr
+Kuijau language	iso	dkr
+Gana’ language	iso	gnq
+Kota Marudu Talantang language	iso	grm
+Paluan language	iso	plz
+Klias River Kadazan language	iso	kqt
+Lotud language	iso	dtr
+Keningau Murut language	iso	kxi
+Selungai Murut language	iso	slg
+Punan Batu language	iso	pnm
+Kajaman language	iso	kag
+Lahanan language	iso	lhn
+Punan Merah language	iso	puf
+Aoheng language	iso	pni
+Bukat language	iso	bvk
+Campalagian language	iso	cml
+Bentong language	iso	bnu
+Panasuan language	iso	psn
+Budong-Budong language	iso	bdx
+Kalumpang language	iso	kli
+Pannei language	iso	pnc
+Dakka language	iso	dkk
+Aralle-Tabulahan language	iso	atq
+Lubu language	iso	lcf
+Kubu language	iso	kvb
+Kaur language	iso	vkk
+Haji language	iso	hji
+Riung language	iso	riu
+So’a language	iso	ssq
+Wae Rana language	iso	wrx
+Rongga language	iso	ror
+Rembong language	iso	reb
+Kedang language	iso	ksx
+Rajong language	iso	rjg
+Lamalera language	iso	lmr
+Lewo Eleng language	iso	lwe
+Lamatuka language	iso	lmq
+Ile Ape language	iso	ila
+South Lembata language	iso	lmf
+Adonara language	iso	adr
+Levuka language	iso	lvu
+Mingar language	iso	lmj
+Bekais language	iso	none
+Helong language	iso	heg
+Kisar language	iso	kje
+Ura language	iso	uur
+Amarasi language	iso	aaz
+Sorung language	iso	none
+Utaha language	iso	iff
+North Tanna language	iso	tnn
+Southwest Tanna language	iso	nwi
+Kwamera language	iso	tnk
+Lenakel language	iso	tnl
+Kaiep language	iso	kbw
+Medebur language	iso	mjm
+Terebu language	iso	trb
+Fataleka language	iso	far
+Baelelea language	iso	bvc
+Longgu language	iso	lgu
+Birao language	iso	brr
+Malango language	iso	mln
+Talise language	iso	tlr
+Kis language	iso	kis
+Lengo language	iso	lgr
+Bilba language	iso	bpz
+Dengka language	iso	dnk
+Dobel language	iso	kvo
+Lole language	iso	llg
+Ringgou language	iso	rgu
+Tii language	iso	txq
+Termanu language	iso	twu
+East Damar language	iso	dmr
+Nila language	iso	nil
+Serua language	iso	srw
+Southeast Babar language	iso	vbb
+Biem language	iso	bmc
+Fanbak language	iso	fnb
+Lingarak language	iso	lgk
+Unubahe language	iso	unu
+Tumleo language	iso	tmq
+Sera language	iso	sry
+Malol language	iso	mbk
+Arop language	iso	aps
+Larevat language	iso	lrv
+Litzlitz language	iso	lzl
+Maragus language	iso	mrs
+Nasarian language	iso	nvh
+Unua language	iso	onu
+Mae language	iso	mme
+Mpotovoro language	iso	mvt
+Malua Bay language	iso	mll
+Port Sandwich language	iso	psw
+Batui language	iso	zbt
+Saliba language	iso	sbe
+Oya’oya language	iso	oyy
+Maskelynes language	iso	klv
+Gapapaiwa language	iso	pwg
+Budibud language	iso	btp
+Kurudu language	iso	kjr
+Batuley language	iso	bay
+Karey language	iso	kyd
+Lorang language	iso	lrn
+Mariri language	iso	mqi
+Ujir language	iso	udj
+Koba language	iso	kpd
+Serui-Laut language	iso	seu
+Roon language	iso	rnn
+Papuma language	iso	ppm
+Pom language	iso	pmo
+Busami language	iso	bsm
+Munggui language	iso	mth
+Bunama language	iso	bdd
+Mwatebu language	iso	mwa
+Galeya language	iso	gar
+Sewa Bay language	iso	sew
+Duau language	iso	dva
+Kuni language	iso	kse
+Maiwala language	iso	mum
+Yakaikeke language	iso	ykk
+Haigwai language	iso	hgw
+Toura language	iso	don
+Lala language	iso	nrz
+Ouma language	iso	oum
+Bina language	iso	bmn
+Yoba language	iso	yob
+Mazatlán Mazatec	iso	vmz
+Soyaltepec Mazatec	iso	vmp
+Ixcatlán Mazatec	iso	mzi
+Ayautla Mazatec	iso	vmy
+Tecóatl Mazatec	iso	maa
+Seit-Kaitetu language	iso	hik
+Asilulu language	iso	asl
+Alungul language	iso	none
+Levantine Arabic Sign Language	iso	jos
+Paulohi language	iso	plh
+Laha language	iso	lhh
+Lenkau language	iso	ler
+Nauna language	iso	ncn
+Penchal language	iso	pek
+North Babar language	iso	bcd
+Dai language	iso	dij
+Serili language	iso	sve
+Emplawas language	iso	emw
+Imroing language	iso	imr
+Tela’a language	iso	tvm
+Latu language	iso	ltu
+Saparua language	iso	spr
+Kamarian language	iso	kzx
+Kaibobo language	iso	kzb
+Amahai language	iso	amq
+Loniu language	iso	los
+Mokerang language	iso	mft
+Papitalai language	iso	pat
+Ponam language	iso	ncc
+Kurti language	iso	ktm
+Leipon language	iso	lek
+Ere language	iso	twp
+Nokuku language	iso	nkk
+Piamatsina language	iso	ptr
+Morouas language	iso	mrp
+Valpei language	iso	vlp
+Tasmate language	iso	tmt
+Vunapu language	iso	vnp
+Tutuba language	iso	tmi
+Navut language	iso	nsw
+Narango language	iso	nrg
+Tambotalo language	iso	tls
+Wusi language	iso	wsi
+Roria language	iso	rga
+Aore language	iso	aor
+Amblong language	iso	alm
+Akei language	iso	tsr
+Wailapa language	iso	wlr
+Kurmukar language	iso	kfv
+Mirgan language	iso	zrg
+Bodo Parja language	iso	bdv
+Kupia language	iso	key
+Reli language	iso	rei
+Morom language	iso	bdo
+Jaya language	iso	jyy
+Khirwar language	iso	kwx
+Mukha-Dora language	iso	mmk
+Kudiya language	iso	kfg
+Gula language	iso	glu
+Horo language	iso	hor
+San Miguel Piedras Mixtec	iso	xtp
+Apoala Mixtec	iso	mip
+Chigmecatitlán Mixtec	iso	mii
+Soyaltepec Mixtec	iso	vmq
+Nuxaá Mixtec	iso	mxy
+Cacaloxtepec Mixtec	iso	miu
+Cuyamecalco Mixtec	iso	xtu
+Coatzospan Mixtec	iso	miz
+Zacatepec Mixtec	iso	mza
+Ixtayutla Mixtec	iso	vmj
+Amoltepec Mixtec	iso	mbz
+Tututepec Mixtec	iso	mtu
+Tidaá Mixtec	iso	mtx
+Peñasco Mixtec	iso	xtm
+Ayutla Mixtec	iso	miy
+Mixtepec Mixtec	iso	mix
+Chazumba Mixtec	iso	xtb
+Southern Puebla Mixtec	iso	mit
+Yoloxóchitl Mixtec	iso	xty
+Yucunicoco Mixtec	iso	none
+Cuatzoquitengo Mixtec	iso	none
+Andaman Creole Hindi	iso	hca
+Mannan language	iso	mjv
+Kadar language	iso	kej
+Malaryan language	iso	mjq
+Malavedan language	iso	mjr
+Paliyan language	iso	pcf
+Malapandaram language	iso	mjp
+Gozarkhani language	iso	goz
+Shahrudi language	iso	shm
+Koresh-e Rostam language	iso	okh
+Kajali language	iso	xkj
+Razajerdi language	iso	rat
+Karingani language	iso	kgn
+Maraghei dialect	iso	vmh
+Lasgerdi language	iso	lsa
+Sonaga language	iso	ysg
+Zibusi language	iso	none
+Kuamasi language	iso	yku
+Laizisi language	iso	none
+Kua-nsi language	iso	ykn
+Waling language	iso	wly
+Nguluwan language	iso	nuw
+Krevinian dialect	iso	zkv
+Armazic language	iso	xrm
+Ndyuka-Tiriyó Pidgin	iso	njt
+Namibian Sign Language	iso	nbs
+Libyan Sign Language	iso	lbs
+Standard Moroccan Berber	iso	zgh
+Htangan language	iso	lzn
+Ponyo language	iso	npg
+Opón language	iso	none
+Kaang language	iso	ckn
+Lautu language	iso	clt
+Laitu language	iso	clj
+Songlai language	iso	csj
+Sumtu language	iso	csv
+Rungtu	iso	rtc
+Kundal Shahi language	iso	shd
+Tilung language	iso	tij
+Kol language	iso	ekl
+Hukumina language	iso	huw
+Gserpa language	iso	none
+Zitsadegu language	iso	none
+Drugchu language	iso	none
+Mullu Kurumba language	iso	kpb
+Yong language	iso	yno
+Tai Thanh language	iso	tmm
+Pu Ko language	iso	puk
+Pa Di language	iso	pdi
+Kuan language	iso	uan
+Yemeni Sign Language	iso	none
+Kuwaiti Sign Language	iso	none
+Iraqi Sign Language	iso	none
+Malasar language	iso	ymr
+Mala Malasar language	iso	ima
+Thachanadan language	iso	thn
+Ullatan language	iso	ull
+Kalanadi language	iso	wkl
+Kumbaran language	iso	wkb
+Kurichiya language	iso	kfh
+Attapady Kurumba language	iso	pkr
+Muduga language	iso	udg
+Pathiya language	iso	pty
+Wayanad Chetti language	iso	ctt
+Kunduvadi language	iso	wku
+Dumpas language	iso	dmv
+Gambian Sign Language	iso	none
+Kungardutyi language	iso	gdt
+Kungkari language	iso	lku
+Pirriya language	iso	xpa
+Bigambal language	iso	xbe
+Dhungaloo language	iso	dhx
+Ngaro language	iso	none
+Lama language	iso	lay
+Lahul Lohar language	iso	lhl
+Chinali language	iso	cih
+Kumhali language	iso	kra
+Kanjari language	iso	kft
+Od language	iso	odk
+Puimei language	iso	npu
+Koki Naga language	iso	nxk
+Long Phuri language	iso	lpn
+Makury language	iso	jmn
+Para language	iso	pzn
+Amarizana language	iso	none
+Anauyá language	iso	none
+Wainumá-Mariaté language	iso	none
+Yumana language	iso	none
+Purukotó language	iso	none
+Boanarí language	iso	none
+Paravilyana language	iso	none
+Sapará language	iso	none
+Yarumá language	iso	none
+Wajumará language	iso	none
+Arakajú language	iso	none
+Juma language	iso	none
+Tiverikoto language	iso	none
+Apingi language	iso	none
+Palmela language	iso	none
+Pimenteira language	iso	none
+Makyan language	iso	umn
+Esuma language	iso	esm
+Pasé language	iso	none
+Wiriná language	iso	none
+Morique language	iso	none
+Kariaí language	iso	none
+Eastern Hongshuihe Zhuang	iso	zeh
+Ná-Meo language	iso	neo
+Thaiphum language	iso	cth
+Naapa language	iso	nao
+Bazigar language	iso	bfr
+Napeca language	iso	none
+Rocorona language	iso	none
+Malankuravan language	iso	mjo
+Vishavan language	iso	vis
+Kamar language	iso	keq
+Kabixiana language	iso	none
+Ambonese Malay	iso	abs
+Moingi language	iso	mwz
+Nāti language	iso	none
+Taensa language	iso	none
+Bonin English	iso	none
+Dappil language	iso	none
+Bugurnidja language	iso	none
+Pali language	iso	none
+Poki language	iso	none
+Nootka Jargon	iso	none
+Broken Oghibbeway	iso	none
+Mabenaro language	iso	none
+Micronesian Pidgin English	iso	none
+Eskimo Trade Jargon	iso	none
+Cabre language	iso	none
+Ndrangith language	iso	none
+Wik Ompom language	iso	none
+Angkula language	iso	none
+Bendi language	iso	bct
+Sumayela Ndebele language	iso	none
+Khorezmian language	iso	zkh
+Pretoria Sotho	iso	none
+Maridi Arabic	iso	none
+Haida Jargon	iso	none
+Uru of Ch'imu	iso	none
+Murato language	iso	none
+Waitaká language	iso	none
+West Greenlandic Pidgin	iso	none
+Inuktitut-English Pidgin	iso	none
+Ewarhuyana language	iso	none
+Sanavirón language	iso	none
+Quingnam language	iso	none
+Humahuaca language	iso	none
+Maynas language	iso	none
+Zbu language	iso	none
+Situ language	iso	none
+Japhug language	iso	none
+Tshobdun language	iso	none
+Macushi language	iso	mbc
+Nal Bino	iso	none
+Saihriem language	iso	none
+Eritrean Sign Language	iso	none
+Huallaga Quechua	iso	qub
+Kasabe language	iso	none
+Laze language	iso	none
+Sistani dialect	iso	none
+Kurbet language	iso	none
+Dinapigue Agta	iso	none
+Nagtipunan Agta	iso	none
+Isaurian language	iso	none
+Enlhet language	iso	enl
+Angaité language	iso	aqt
+Yumu language	iso	none
+Mur Pano language	iso	tkv
+Zemiaki language	iso	none
+Papuan Pidgin English	iso	none
+Port Jackson Pidgin English	iso	none
+West Nyala language	iso	none
+Guazacapán language	iso	none
+Chiquimulilla language	iso	none
+Yupiltepeque language	iso	none
+Jumaytepeque language	iso	none
+Lanuvian language	iso	none
+Guanaca language	iso	none
+Mansim language	iso	none
+Korubo language	iso	xor
+Tsafiki language	iso	cof
+Tangam language	iso	none
+Dukhan language	iso	none
+Samoan Sign Language	iso	none
+Tibetan Sign Language	iso	none
+Magɨyi language	iso	gmg
+Nisvai language	iso	none
+Pisamira language	iso	none
+Navwien language	iso	none
+Sörsörian language	iso	none
+Aveteian language	iso	none
+Kandjerramalh language	iso	none
+Wik Paach language	iso	none
+Marrett River language	iso	none
+Gangou language	iso	none
+Samatu language	iso	none
+Qatari Unified Sign Language	iso	none
+Emirati Sign Language	iso	none
+Omani Sign Language	iso	none
+Kaera language	iso	jka
+Nachhiring language	iso	ncd
+Pyang Zhuang language	iso	none
+Burmese sign language	iso	none
+Ndwa'ngith language	iso	none
+Gujambal language	iso	none
+Langue nouvelle	iso	none
+Nakrehé language	iso	none
+Bapeng language	iso	none
+Tembagla language	iso	mux
+Doteli language	iso	dty
+Mure language	iso	none
+Ramanos language	iso	none
+Catuquinaru language	iso	none
+Efatese language	iso	none
+Castelmezzano dialect	iso	none
+Western Jicaque language	iso	none
+Longjia language	iso	none
+Luren language	iso	none
+Manga language	iso	none
+Maza language	iso	none
+Mango language	iso	none
+Muangphe language	iso	none
+Chiriba language	iso	none
+Chatino Sign Language	iso	none
+Taimyr Pidgin Russian	iso	none
+Georgian Sign Language	iso	none
+Demushbo language	iso	none
+Matis language	iso	mpq
+Tabatinga Mayoruna language	iso	none
+Jandiatuba Mayoruna language	iso	none
+Amazon Mayoruna language	iso	none
+Blanco River Remo language	iso	none
+Môa Nawa language	iso	none
+Jaquirana Remo language	iso	none
+Tarauacá Kashinawa language	iso	none
+Olivença Kulina language	iso	none
+Goo language	iso	none
+Gwara language	iso	none
+Haraza language	iso	none
+Razihi language	iso	rzh
+Nigilu language	iso	none
+Wagu language	iso	none
+Jan Awei language	iso	none
+Taita Cushitic languages	iso	none
+Dothraki language	iso	none
+Valyrian languages	iso	none
+Dao language	iso	none
+Lingwa de planeta	iso	none
+Baïnounk Gubëeher	iso	none
+Kómnzo language	iso	none
+Siberian Tatar language	iso	sty
+Mauritian Creole	iso	mfe
+Français Tirailleur	iso	none
+Angevin dialect	iso	none
+Tokunoshima language	iso	tkn
+Okinoerabu language	iso	okn
+Ancient Cappadocian language	iso	none
+Nasvang language	iso	none
+Salvadoran Lenca	iso	none
+Honduran Lenca	iso	none
+Sinacantán language	iso	none
+Keresan Sign Language	iso	none
+Yoruba Sign Language	iso	none
+Dogon Sign Language	iso	none
+Enga Sign Language	iso	none
+Yoti language	iso	yot
+Marau Wawa language	iso	none
+Northern Pashto	iso	pbu
+Tarjumo language	iso	txj
+Savaiq language	iso	none
+Meung Yum language	iso	none
+Muak Sa-aak language	iso	none
+Laopan language	iso	lbg
+Laopin language	iso	none
+Phunyot language	iso	none
+Khongsat language	iso	none
+Phongset language	iso	none
+Khir language	iso	none
+Suobi language	iso	none
+Nuobi language	iso	none
+Phongku language	iso	none
+Muteun language	iso	none
+Laoseng language	iso	none
+Bana language	iso	none
+Quang Lam language	iso	none
+Thmon language	iso	none
+Ra’ong language	iso	none
+Khaonh language	iso	none
+Chashan language	iso	none
+Theen language	iso	none
+Ngatikese language	iso	none
+Antequera Zapotec	iso	none
+Abejones Zapotec	iso	none
+Bhutanese Sign Language	iso	none
+Jogi language	iso	jog
+Abai language	iso	none
+Dangana language	iso	none
+Dama language	iso	none
+Cosao language	iso	none
+Bengali Portuguese creole	iso	none
+Guyanese Sign Language	iso	none
+Old Cayman Sign Language	iso	none
+Kajana Sign Language	iso	none
+Naxi Yao language	iso	none
+Persian Romani	iso	none
+Nabit language	iso	nbz
+Yilan Creole Japanese	iso	none
+Miisiirii language	iso	none
+Seb Seliyer language	iso	none
+Basum language	iso	none
+Ngala language	iso	none
+Ntrapo language	iso	none
+Penange Dogon	iso	none
+Yambe language	iso	none
+Rwandan Sign Language	iso	none
+Mpur language	iso	none
+Eastern Middle Atlas Berber	iso	none
+Eastern Morocco Zenati	iso	none
+Yiche language	iso	none
+Alingpo language	iso	none
+Lisan al-Gharbi	iso	none
+Southern Zazaki	iso	diq
+Southern Zazaki	iso	zza
+Rengmitca language	iso	none
+Bantang language	iso	none
+Tsukong language	iso	none
+Cantan language	iso	none
+Cauho language	iso	none
+Gyami	iso	none
+Kabie language	iso	none
+Nuomei language	iso	none
+Duota language	iso	none
+Duoni language	iso	none
+Amu language	iso	none
+Qidi language	iso	none
+Lami language	iso	none
+Baihong language	iso	none
+Budu language	iso	none
+Habei language	iso	none
+Angluo language	iso	none
+Asuo language	iso	none
+Bukong language	iso	none
+Woni language	iso	none
+Sinsali language	iso	pho
+Yaroamë language	iso	yro
+Sakhalin Ainu language	iso	none
+Kuril Ainu language	iso	none
+Varieties of American Sign Language	iso	bvl
+Varieties of American Sign Language	iso	csr
+Varieties of American Sign Language	iso	doq
+Varieties of American Sign Language	iso	none
+Varieties of American Sign Language	iso	gse
+Varieties of American Sign Language	iso	jls
+Varieties of American Sign Language	iso	xms
+Varieties of American Sign Language	iso	lsp
+Varieties of American Sign Language	iso	psl
+Varieties of American Sign Language	iso	sgx
+Varieties of American Sign Language	iso	kgi
+Datian Min	iso	none
+Guanahatabey language	iso	none
+Ciguayo language	iso	none
+Macorix language	iso	none
+Central Zazaki	iso	diq
+Central Zazaki	iso	zza
+Northern Zazaki	iso	kiu
+Northern Zazaki	iso	zza
+Bendi Pinghua	iso	none
+Daats'iin language	iso	dtn
+Papua New Guinean Sign Language	iso	pgz
+Ibanag language	iso	ibg
+Porohanon language	iso	prh
+Ati language	iso	atk
+Bantayanon language	iso	bfx
+Capiznon language	iso	cps
+Asi language	iso	bno
+Romblomanon language	iso	rol
+Baybay language	iso	bvy
+Yami language	iso	tao
+Kabalian language	iso	cbw
+Karay-a language	iso	krj
+Hiligaynon language	iso	hil
+Waray language	iso	war
+Ilocano language	iso	ilo
+Nepali language	iso	ne
+Nepali language	iso	nep
+Zurg language	iso	none
+Iznasen Berber	iso	none
+Daxin-Longming Zhuang	iso	none
+Longzhou-Leiping Zhuang	iso	none
+Qinzhou Zhuang	iso	none
+Yongnan-Wuming Zhuang	iso	none
+Chongzuo Zhuang	iso	none
+Shangsi Zhuang	iso	none
+Ngoya language	iso	none
+Khe	iso	kqg
+Tai Muong Vat language	iso	none
+Lao Nyo language	iso	none
+Miriwoong Sign Language	iso	rsm
+Sesayap Tidong language	iso	ntd
+Old Arabic	iso	none
+Dadanitic	iso	none
+Kasong language	iso	none
+Khorasani Arabic	iso	none
+Lebu Wolof	iso	none
+Hezhou language	iso	none
+Kafr Qasem Sign Language	iso	none
+Coroado Puri language	iso	none
+Nitita language	iso	none
+Vivti language	iso	none
+Teojomulco Chatino	iso	none
+Ulterior Mixe	iso	none
+Flecheiros	iso	none
+Bhaya language	iso	bhe
+Taymanitic	iso	none
+Motolian dialect	iso	mtl
+Agbirigba	iso	none
+Solomon Islands Sign Language	iso	szs
+Medefaidrin	iso	none
+Florenze	iso	None

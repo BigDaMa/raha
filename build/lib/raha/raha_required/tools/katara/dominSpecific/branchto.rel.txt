@@ -1,0 +1,342 @@
+Aorta	branchto	Ascending aorta:\n:Right and left coronary arteries.\nArch of aorta :\n:Brachiocephalic trunk\n:Left common carotid artery\n:Left subclavian artery\nDescending aorta, thoracic part:\n:Left bronchial arteries\n:esophageal arteries to the thoracic part of the esophagus\n:Third to eleventh Posterior intercostal arteries, and the Subcostal arteries\nDescending aorta, abdominal part:\n:Parietal branches:\n:Inferior phrenic arteries\n:Lumbar arteries\n:Median sacral artery\n:Visceral branches:\n:Celiac trunk\n:Middle suprarenal arteries\n:Superior mesenteric artery\n:Renal arteries\n:Gonadal arteries testicular in males, ovarian in females\n:Inferior mesenteric artery\nTerminal branches:\n:Common iliac arteries\n:Median sacral artery
+Pudendal nerve	branchto	Inferior rectal nerves
+Pudendal nerve	branchto	Perineal nerve
+Pudendal nerve	branchto	Dorsal nerve of the penis
+Pudendal nerve	branchto	dorsal nerve of the clitoris
+Radial nerve	branchto	Posterior interosseous nerve
+Brachial artery	branchto	Profunda brachii
+Brachial artery	branchto	Superior ulnar collateral artery
+Brachial artery	branchto	Inferior ulnar collateral artery
+Brachial artery	branchto	Radial artery
+Brachial artery	branchto	Ulnar artery
+Sciatic nerve	branchto	Tibial and common fibular nerve
+Brachiocephalic artery	branchto	right common carotid artery
+Brachiocephalic artery	branchto	right subclavian artery
+Brachiocephalic artery	branchto	Thyroid ima artery
+Deep artery of the thigh	branchto	Lateral femoral circumflex artery
+Deep artery of the thigh	branchto	Medial femoral circumflex artery
+Deep artery of the thigh	branchto	Perforating arteries
+Femoral artery	branchto	Superficial epigastric artery
+Femoral artery	branchto	,
+Femoral artery	branchto	Superficial iliac circumflex artery
+Femoral artery	branchto	Superficial external pudendal artery
+Femoral artery	branchto	Deep external pudendal artery
+Femoral artery	branchto	Deep femoral artery
+Femoral artery	branchto	continues as
+Femoral artery	branchto	Popliteal artery
+Hypoglossal nerve	branchto	Ansa cervicalis
+Vestibulocochlear nerve	branchto	Cochlear nerve
+Vestibulocochlear nerve	branchto	Vestibular nerve
+Trigeminal nerve	branchto	Ophthalmic nerve
+Trigeminal nerve	branchto	Maxillary nerve
+Trigeminal nerve	branchto	Mandibular nerve
+Glossopharyngeal nerve	branchto	Tympanic nerve
+Oculomotor nerve	branchto	Superior branch of oculomotor nerve
+Oculomotor nerve	branchto	Inferior branch of oculomotor nerve
+Subclavian artery	branchto	Vertebral artery
+Subclavian artery	branchto	Internal thoracic artery
+Subclavian artery	branchto	Thyrocervical trunk
+Subclavian artery	branchto	Costocervical trunk
+Subclavian artery	branchto	dorsal scapular artery
+External carotid artery	branchto	Superior thyroid artery
+External carotid artery	branchto	Lingual artery
+External carotid artery	branchto	Facial artery
+External carotid artery	branchto	Ascending pharyngeal artery
+External carotid artery	branchto	Occipital artery
+External carotid artery	branchto	Posterior auricular artery
+External carotid artery	branchto	Maxillary artery
+External carotid artery	branchto	Superficial temporal artery
+Internal carotid artery	branchto	Ophthalmic, anterior choroidal, anterior cerebral, middle cerebral and posterior communicating artery
+Genitofemoral nerve	branchto	Lumboinguinal nerve
+Genitofemoral nerve	branchto	Genital branch of genitofemoral nerve
+Radial artery	branchto	*In the forearm:
+Radial artery	branchto	Radial recurrent artery
+Radial artery	branchto	Palmar carpal branch of radial artery
+Radial artery	branchto	Superficial palmar branch of the radial artery.
+Radial artery	branchto	*At the wrist:
+Radial artery	branchto	Dorsal carpal branch of radial artery
+Radial artery	branchto	First dorsal metacarpal artery.
+Radial artery	branchto	*In the hand:
+Radial artery	branchto	Princeps pollicis artery
+Radial artery	branchto	Radialis indicis
+Radial artery	branchto	Deep palmar arch
+Ductus arteriosus	branchto	Descending aorta
+Umbilical artery	branchto	Superior vesical artery
+Umbilical artery	branchto	Artery of the ductus deferens
+Popliteal artery	branchto	anterior tibial, posterior tibial artery, sural, superior genicular , middle genicular, inferior genicular
+Abdominal aorta	branchto	Celiac artery, superior mesenteric artery, inferior mesenteric artery, common iliac 6 others
+Artery of Adamkiewicz	branchto	Anterior spinal artery
+Middle meningeal artery	branchto	anterior: posterior: superior tympanic artery
+Musculocutaneous nerve	branchto	Lateral cutaneous nerve of forearm
+Renal artery	branchto	Inferior suprarenal artery
+Renal artery	branchto	Segmental arteries of kidney
+Inferior alveolar nerve	branchto	mylohyoid, dental, incisive, and mental
+Basilar artery	branchto	Pontine perforating branches, anterior inferior cerebellar  and superior cerebellar arteries, and terminal posterior cerebral arteries.
+Vertebral artery	branchto	Meningeal branches of vertebral artery
+Vertebral artery	branchto	Posterior spinal artery
+Vertebral artery	branchto	Anterior spinal artery
+Vertebral artery	branchto	Posterior inferior cerebellar artery
+Vertebral artery	branchto	Basilar artery
+Celiac artery	branchto	Left gastric artery
+Celiac artery	branchto	Common hepatic artery
+Celiac artery	branchto	Splenic artery
+Descending aorta	branchto	Thoracic aorta
+Descending aorta	branchto	Abdominal aorta
+Superior mesenteric artery	branchto	Inferior pancreaticoduodenal artery
+Superior mesenteric artery	branchto	Middle colic artery
+Superior mesenteric artery	branchto	Right colic artery
+Superior mesenteric artery	branchto	intestinal branches
+Superior mesenteric artery	branchto	ileocolic
+Pterygopalatine ganglion	branchto	Greater palatine nerve, lesser palatine nerve, posterior lateral nasal branches and nasopalatine nerve
+Ophthalmic artery	branchto	Lacrimal artery
+Ophthalmic artery	branchto	Supraorbital artery
+Ophthalmic artery	branchto	Posterior ethmoidal artery
+Ophthalmic artery	branchto	Anterior ethmoidal artery
+Ophthalmic artery	branchto	Internal palpebral artery
+Ophthalmic artery	branchto	Supratrochlear artery
+Ophthalmic artery	branchto	Dorsal nasal artery
+Ophthalmic artery	branchto	Long posterior ciliary arteries
+Ophthalmic artery	branchto	Short posterior ciliary arteries
+Ophthalmic artery	branchto	Anterior ciliary artery
+Ophthalmic artery	branchto	Central retinal artery
+Ophthalmic artery	branchto	Superior muscular artery
+Ophthalmic artery	branchto	Inferior muscular artery
+Posterior tibial artery	branchto	Fibular artery
+Posterior tibial artery	branchto	Medial plantar artery
+Posterior tibial artery	branchto	Lateral plantar artery
+Anterior tibial artery	branchto	Posterior tibial recurrent artery
+Anterior tibial artery	branchto	Anterior tibial recurrent artery
+Anterior tibial artery	branchto	Muscular branches
+Anterior tibial artery	branchto	Anterior medial malleolar artery
+Anterior tibial artery	branchto	Anterior lateral malleolar artery
+Anterior tibial artery	branchto	Dorsalis pedis artery
+Ulnar artery	branchto	Anterior ulnar recurrent artery
+Ulnar artery	branchto	posterior ulnar recurrent artery
+Ulnar artery	branchto	common interosseous artery
+Ulnar artery	branchto	muscular artery
+Ulnar artery	branchto	volar carpal
+Ulnar artery	branchto	dorsal carpal
+Ulnar artery	branchto	deep volar
+Ulnar artery	branchto	superficial volar arch
+Axillary artery	branchto	Superior thoracic artery
+Axillary artery	branchto	Thoracoacromial artery
+Axillary artery	branchto	Lateral thoracic artery
+Axillary artery	branchto	Subscapular artery
+Axillary artery	branchto	Anterior circumflex humeral artery
+Axillary artery	branchto	Posterior circumflex humeral artery
+Axillary artery	branchto	continues as brachial artery
+Internal thoracic artery	branchto	Pericardiophrenic artery
+Internal thoracic artery	branchto	Anterior intercostal branches of internal thoracic artery
+Internal thoracic artery	branchto	Musculophrenic artery
+Internal thoracic artery	branchto	Superior epigastric artery
+Internal thoracic artery	branchto	Perforating branches
+Inferior mesenteric artery	branchto	Left colic artery
+Inferior mesenteric artery	branchto	Sigmoid arteries
+Inferior mesenteric artery	branchto	Superior rectal artery
+Splenic artery	branchto	Pancreatic branches of splenic artery
+Splenic artery	branchto	Arteria pancreatica magna
+Splenic artery	branchto	Left gastro-omental artery
+Splenic artery	branchto	Short gastric arteries
+Splenic artery	branchto	Trabecular arteries
+Splenic artery	branchto	Posterior Gastric
+Gastroduodenal artery	branchto	Supraduodenal artery
+Gastroduodenal artery	branchto	Right gastroepiploic artery
+Gastroduodenal artery	branchto	Superior pancreaticoduodenal artery
+Common hepatic artery	branchto	Hepatic artery proper
+Common hepatic artery	branchto	Right gastric artery
+Common hepatic artery	branchto	Gastroduodenal artery
+Dorsalis pedis artery	branchto	First dorsal metatarsal artery and Deep plantar artery
+External iliac artery	branchto	Femoral artery
+External iliac artery	branchto	Inferior epigastric artery
+Common iliac artery	branchto	External iliac artery
+Common iliac artery	branchto	Internal iliac artery
+Middle cerebral artery	branchto	Anterolateral central arteries
+Tibial nerve	branchto	Medial plantar nerve
+Tibial nerve	branchto	Lateral plantar nerve
+Facial artery	branchto	Ascending palatine artery
+Facial artery	branchto	Tonsillar branch
+Facial artery	branchto	Submental artery
+Facial artery	branchto	Glandular branches
+Facial artery	branchto	Inferior labial artery
+Facial artery	branchto	Superior labial artery
+Facial artery	branchto	Lateral nasal branch
+Facial artery	branchto	Angular artery
+Left coronary artery	branchto	Anterior interventricular branch of left coronary artery
+Left coronary artery	branchto	circumflex
+Common carotid artery	branchto	Internal carotid artery
+Common carotid artery	branchto	External carotid artery
+Ciliary ganglion	branchto	Parasympathetic root of ciliary ganglion
+Ciliary ganglion	branchto	Sympathetic root of ciliary ganglion
+Ciliary ganglion	branchto	Sensory root of ciliary ganglion
+Greater petrosal nerve	branchto	Nerve of pterygoid canal
+Lateral cord	branchto	Lateral pectoral nerve
+Lateral cord	branchto	Musculocutaneous nerve
+Lateral cord	branchto	Median nerve
+Thoracic aorta	branchto	Bronchial arteries
+Thoracic aorta	branchto	Esophageal branches of thoracic part of aorta
+Thoracic aorta	branchto	Posterior intercostal arteries
+Thoracic aorta	branchto	Abdominal aorta
+Thoracic aorta	branchto	Superior phrenic artery
+Thoracic aorta	branchto	Pericardial arteries
+Superficial temporal artery	branchto	Transverse facial artery
+Superficial temporal artery	branchto	Middle temporal artery
+Superficial temporal artery	branchto	Anterior auricular branch
+Superficial temporal artery	branchto	Frontal branch of superficial temporal artery
+Superficial temporal artery	branchto	Parietal branch of superficial temporal artery
+Common peroneal nerve	branchto	Deep fibular nerve and Superficial fibular nerve
+Medial cord	branchto	Medial pectoral nerve
+Medial cord	branchto	Medial brachial cutaneous nerve
+Medial cord	branchto	Medial antebrachial cutaneous nerve
+Medial cord	branchto	Median nerve
+Medial cord	branchto	Ulnar nerve
+Posterior cord	branchto	subscapular, up. and low.
+Posterior cord	branchto	Thoracodorsal nerve
+Posterior cord	branchto	Axillary nerve
+Posterior cord	branchto	Radial nerve
+Subscapular artery	branchto	Circumflex scapular artery
+Subscapular artery	branchto	Thoracodorsal artery
+Superficial peroneal nerve	branchto	Medial dorsal cutaneous nerve
+Superficial peroneal nerve	branchto	Intermediate dorsal cutaneous nerve
+Nasociliary nerve	branchto	long root of the ciliary ganglion, the long ciliary nerves, the infratrochlear nerve, and the ethmoidal nerves
+Ophthalmic nerve	branchto	Frontal nerve
+Ophthalmic nerve	branchto	Lacrimal nerve
+Ophthalmic nerve	branchto	Nasociliary nerve
+Maxillary nerve	branchto	Infraorbital nerve
+Maxillary nerve	branchto	Zygomatic nerve
+Maxillary nerve	branchto	Posterior superior alveolar nerve
+Maxillary nerve	branchto	Palatine nerve
+Maxillary nerve	branchto	Nasopalatine nerve
+Maxillary nerve	branchto	Sphenopalatine ganglion
+Internal iliac artery	branchto	Iliolumbar artery
+Internal iliac artery	branchto	Lateral sacral artery
+Internal iliac artery	branchto	Superior gluteal artery
+Internal iliac artery	branchto	Inferior gluteal artery
+Internal iliac artery	branchto	Middle rectal artery
+Internal iliac artery	branchto	Uterine artery
+Internal iliac artery	branchto	Obturator artery
+Internal iliac artery	branchto	Inferior vesical artery
+Internal iliac artery	branchto	Superior vesical artery
+Internal iliac artery	branchto	Obliterated umbilical artery
+Internal iliac artery	branchto	Internal pudendal artery
+Inferior epigastric artery	branchto	superior epigastric artery, cremasteric branch of inferior epigastric artery, pubic branch of inferior epigastric artery
+Aortic arch	branchto	* Brachiocephalic trunk\n* Left common carotid artery\n* Left subclavian artery\nContinues as descending aorta, thoracic part
+Anterior inferior cerebellar artery	branchto	Labyrinthine artery
+Posterior cutaneous nerve of thigh	branchto	Inferior clunial nerves
+Posterior cutaneous nerve of thigh	branchto	Perineal branches of posterior femoral cutaneous nerve
+Obturator nerve	branchto	Posterior branch of obturator nerve
+Obturator nerve	branchto	Anterior branch of obturator nerve
+Straight arterioles of kidney	branchto	Straight venules of kidney
+Straight arterioles of kidney	branchto	Arcuate vein
+Ascending aorta	branchto	Left coronary artery, right coronary artery and continues as the arch of aorta
+Lingual artery	branchto	Sublingual artery
+Lingual artery	branchto	Deep lingual artery
+Frontal nerve	branchto	supratrochlear nerve and the supraorbital nerve
+Superior thyroid artery	branchto	Hyoid artery
+Superior thyroid artery	branchto	Sternocleidomastoid artery
+Superior thyroid artery	branchto	Superior laryngeal artery
+Superior thyroid artery	branchto	Cricothyroid artery
+Inferior gluteal artery	branchto	Accompanying artery of ischiadic nerve
+Inferior gluteal artery	branchto	Ischiadic nerve
+Obturator artery	branchto	anterior branch and posterior branch
+Perineal artery	branchto	Transverse perineal artery and posterior scrotal arteries
+Thyrocervical trunk	branchto	Inferior thyroid artery
+Thyrocervical trunk	branchto	Suprascapular
+Thyrocervical trunk	branchto	Transverse cervical
+Thyrocervical trunk	branchto	Ascending cervical artery
+Common interosseous artery	branchto	Anterior interosseous artery
+Common interosseous artery	branchto	Posterior interosseous artery
+Inferior phrenic arteries	branchto	Superior suprarenal artery
+Transverse cervical artery	branchto	Superficial branch of transverse cervical artery
+Transverse cervical artery	branchto	Dorsal scapular artery
+Medial inferior genicular artery	branchto	branch to popliteus
+Medial superior genicular artery	branchto	Branch to vastus medialis, branch to surface of the femur and the knee-joint
+Ileocolic artery	branchto	Appendicular artery
+Ileocolic artery	branchto	anterior cecal artery
+Ileocolic artery	branchto	posterior cecal artery
+Inferior alveolar artery	branchto	incisor branch
+Inferior alveolar artery	branchto	mental branch
+Inferior alveolar artery	branchto	mylohyoid branch
+Anterior interosseous artery	branchto	Muscular branches, nutrient arteries of radius and ulna,
+Anterior interosseous artery	branchto	branch to palmar carpal network
+Anterior ethmoidal artery	branchto	Anterior meningeal artery and nasal branches
+Superficial palmar arch	branchto	Common palmar digital arteries
+Deep palmar arch	branchto	Palmar metacarpal arteries
+Maxillary artery	branchto	1
+Maxillary artery	branchto	2
+Maxillary artery	branchto	3
+Descending palatine artery	branchto	greater palatine artery, lesser palatine arteries
+Sphenopalatine artery	branchto	posterior lateral nasal branches
+Sphenopalatine artery	branchto	posterior septal branches
+Ovarian artery	branchto	Tubal branches of ovarian artery
+Superior ulnar collateral artery	branchto	Posterior ulnar recurrent artery
+Deep artery of arm	branchto	Radial collateral artery
+Deep artery of arm	branchto	medial collateral
+Deep artery of arm	branchto	branches to the deltoid muscle
+Abdominal aortic plexus	branchto	Superior hypogastric plexus
+Lacrimal artery	branchto	Lateral palpebral arteries
+Lacrimal artery	branchto	zygomatic branches
+Lacrimal artery	branchto	recurrent branch
+Infraorbital artery	branchto	Orbital branches
+Infraorbital artery	branchto	anterior superior alveolar arteries
+Posterior superior alveolar artery	branchto	branches to alveolar canals
+Posterior superior alveolar artery	branchto	branches to gingiva
+Tympanic nerve	branchto	Tympanic plexus
+Lesser petrosal nerve	branchto	Otic ganglion
+Circumflex branch of left coronary artery	branchto	Left atrial branch
+Circumflex branch of left coronary artery	branchto	left marginal artery
+Circumflex branch of left coronary artery	branchto	posterolateral artery
+Circumflex branch of left coronary artery	branchto	sinuatrial nodal artery
+Circumflex branch of left coronary artery	branchto	posterior interventricular artery
+Pterygopalatine nerves	branchto	Pterygopalatine ganglion
+Deep petrosal nerve	branchto	Nerve of pterygoid canal
+Nerve of pterygoid canal	branchto	Pterygopalatine ganglion
+Peritubular capillaries	branchto	Interlobular vein
+Superior thoracic artery	branchto	Anastomoses with intercostal arteries and/or internal thoracic artery
+Inferior mesenteric ganglion	branchto	Inferior mesenteric plexus
+Superior mesenteric ganglion	branchto	Superior mesenteric plexus
+Dorsal carpal arch	branchto	Dorsal metacarpal arteries
+Dorsal nasal artery	branchto	twig to the upper part of the lacrimal sac
+Dorsal nasal artery	branchto	to root of the nose
+Dorsal nasal artery	branchto	dorsum of the nose
+Costocervical trunk	branchto	Deep cervical artery and
+Costocervical trunk	branchto	Superior intercostal artery
+Anterior ulnar recurrent artery	branchto	Inferior ulnar collateral artery
+Common palmar digital arteries	branchto	Proper palmar digital arteries
+Pharyngeal branch of vagus nerve	branchto	Pharyngeal plexus of vagus nerve
+Petrous portion of the internal carotid artery	branchto	Caroticotympanic arteries
+Petrous portion of the internal carotid artery	branchto	Vidian artery
+Dorsal metacarpal arteries	branchto	Dorsal digital arteries of hand
+Palmar branch of ulnar nerve	branchto	Superficial branch of ulnar nerve
+Palmar branch of ulnar nerve	branchto	Deep branch of ulnar nerve
+Palmar carpal branch of radial artery	branchto	Palmar carpal arch
+Dorsal carpal branch of the ulnar artery	branchto	Dorsal carpal arch
+Plantar arch	branchto	Plantar metatarsal arteries
+Coccygeal plexus	branchto	Anococcygeal nerve
+Esophageal plexus	branchto	Esophagus
+Inferior cardiac nerve	branchto	Cardiac plexus
+Interlobular arteries	branchto	Afferent arterioles
+Arcuate arteries of the kidney	branchto	Vasa recta and interlobular arteries
+Interlobar arteries	branchto	Arcuate arteries
+Trabecular arteries	branchto	Sinusoids
+Pharyngeal branches of glossopharyngeal nerve	branchto	Pharyngeal plexus of vagus nerve
+Superficial palmar branch of radial artery	branchto	Superficial palmar arch
+Dorsal carpal branch of the radial artery	branchto	Dorsal carpal arch
+Palmar carpal branch of ulnar artery	branchto	Palmar carpal arch
+Posterior branches of sacral nerves	branchto	Medial cluneal nerves
+Deep palmar branch of ulnar artery	branchto	Deep palmar arch
+Medial sural cutaneous nerve	branchto	Sural nerve
+Segmental arteries of kidney	branchto	Interlobar arteries
+Posterior branches of the lumbar nerves	branchto	Superior cluneal nerves
+Sacral ganglia	branchto	Sacral splanchnic nerves
+Thoracic ganglia	branchto	Thoracic splanchnic nerves
+Thoracic ganglia	branchto	Stellate ganglion
+Segmental medullary artery	branchto	Anterior spinal artery
+Posterior gastric branches of posterior vagal trunk	branchto	Celiac branches of vagus nerve
+Anterior gastric branches of anterior vagal trunk	branchto	Celiac branches of vagus nerve
+Celiac branches of vagus nerve	branchto	Celiac plexus
+Caroticotympanic nerves	branchto	Tympanic plexus
+Common plantar digital arteries	branchto	Proper plantar digital arteries
+Common palmar digital nerves of ulnar nerve	branchto	Proper palmar digital nerves of ulnar nerve
+Parasympathetic root of ciliary ganglion	branchto	Short ciliary nerves
+Aortic bifurcation	branchto	Common iliac arteries
+Fibular artery	branchto	communicating branch  and the perforating branch

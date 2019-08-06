@@ -1,0 +1,73 @@
+Vostok	comparable	Atlas
+Vostok	comparable	Titan
+Vega	comparable	Minotaur IV
+Vega	comparable	Minotaur-C
+Vega	comparable	Rokot
+Titan IV	comparable	Atlas V
+Titan IV	comparable	Delta IV
+Angara	comparable	Naro-1 used a modified URM-1 first stage
+Thor-Able	comparable	Luna
+Sparta	comparable	Jupiter-C
+Sparta	comparable	Juno I
+Atlas V	comparable	Delta IV
+H-IIB	comparable	Ariane 5
+Long March 1D	comparable	Mu
+Long March 5	comparable	Delta IV Heavy
+Long March 5	comparable	Ariane 5
+Long March 5	comparable	Proton-M
+Long March 5	comparable	Falcon Heavy
+H-II	comparable	Ariane 4
+Saturn C-4	comparable	Saturn V
+Saturn C-3	comparable	Falcon Heavy
+Saturn C-3	comparable	Delta IV Heavy
+Antares	comparable	Delta II
+Molniya-M	comparable	Soyuz-2
+Molniya-M	comparable	Fregat
+Tsyklon-2	comparable	Delta II
+Tsyklon-3	comparable	Delta II
+Sputnik	comparable	Vanguard rocket
+Sputnik	comparable	Juno I
+Thor-Ablestar	comparable	Delta
+H-I	comparable	Delta 3000
+H-I	comparable	PSLV
+Saturn V	comparable	N1
+Tsyklon-4	comparable	Zenit
+Soyuz-2-1v	comparable	--03-02
+Soyuz-2-1v	comparable	PSLV
+Zenit-3SLB	comparable	Zenit-3SLBF
+Jupiter	comparable	National Launch System
+Long March 6	comparable	Falcon 1
+Athena I	comparable	Falcon 1
+Athena I	comparable	Minotaur IV
+Athena I	comparable	Taurus
+Athena II	comparable	Falcon 1
+Athena II	comparable	Minotaur IV
+Athena II	comparable	Taurus
+Long March 7	comparable	Delta IV
+Long March 7	comparable	Atlas V
+Long March 7	comparable	Falcon 9
+Long March 7	comparable	H-IIA
+Space Launch System	comparable	Saturn V
+Space Launch System	comparable	Energia
+Space Launch System	comparable	N1
+Falcon Heavy	comparable	Delta IV Heavy, Angara A5V, Saturn C-3
+Long March 11	comparable	Minotaur I
+Long March 11	comparable	Pegasus
+Long March 11	comparable	Start-1
+Falcon 9 v1.1	comparable	*
+Falcon 9 v1.1	comparable	Atlas V
+Falcon 9 v1.1	comparable	H-IIA
+Falcon 9 v1.1	comparable	--03-03
+Electron	comparable	Shavit
+Electron	comparable	Kaituozhe-1
+Electron	comparable	Unha
+Soyuz-5	comparable	Soyuz-2
+Falcon 9 Full Thrust	comparable	*
+Falcon 9 Full Thrust	comparable	Atlas V
+Falcon 9 Full Thrust	comparable	H-IIB
+Falcon 9 Full Thrust	comparable	Proton-M
+Falcon 9 Full Thrust	comparable	Ariane 5
+New Glenn	comparable	Space Launch System
+New Glenn	comparable	Falcon Heavy
+Sunkar	comparable	Zenit-2
+Sunkar	comparable	Falcon 9

@@ -1,0 +1,124 @@
+# -*- mode: org -*-
+#+STARTUP: showall
+
+* TODO
+
+** Research
+
+- [X] R PAPER Closer look at references
+- [X] Z Add stuff to related work section
+- [X] Z Find a good continuous multi-dimensional dataset
+- [X] Z Comparison to other datasets from the COORDS paper (Census DB, TPCH)
+- [X] Z Test outlier analysis on subset of intel dataset without obvious outliers
+
+** Code
+
+- [X] C Add csail examples to invocation.md
+- [X] R Make the plots more reproducible (integrate in the Makefile)
+- [X] R Add a clean target to the Makefile
+- [X] Optimize the statistical analyzer
+  - [X] C Look at performance
+  - [X] C Fix TPCH
+  - [X] Z Test TPCH
+- [X] C Pass the output of the analyzer to models
+- [X] R Make CORDS a model
+- [X] C Check PyPy compatibility
+- [X] R Prepare Intel dataset
+- [X] Z Adjust mixture models to include all fields
+- [X] Z Fill in =more_info= in mixture.py
+- [ ] R Timing implementation
+
+** Paper
+
+- [X] C Fix title
+- [ ] Use autoref
+- [ ] C Balance columns on last page
+- [X] Z Fix undefined references
+- [X] Check source of definition of outliers in abstract (ref needed?)
+- [X] Should we add more discussion of the rules? NO
+- [X] Rephrase the outline so that it is more compact
+- [X] Mention soft functional dependencies in the intro
+- [X] Add discussion of more advanced correlation detection strategies (CORDS) before data modeling section
+- [X] Find more convincing examples for the CSAIL dataset
+- [-] Plots
+  - [X] Fix fonts, 1 Gaussians, and colors
+  - [X] Get plots with the simple Gaussian model
+  - [X] Say "mixture model" instead of "Gaussian"
+  - [X] Rasterize the mixture models plot
+  - [X] C Reorganize plots
+  - [X] R 3D Plots
+  - [ ] R Scaling plots
+  - [X] R Find a good theta value
+- [X] Z/C Numerical benchmarks in the evaluation section
+- [X] Z/C Editing
+  - [X] Z Mixture stuff
+  - [X] C Add example to meta-modeling section
+- [X] Add missing stuff
+  - [X] Z Outlier detection description for mixture models
+  - [X] R Update Intel graphs
+  - [X] C Peaky histograms
+  - [X] C Partitioning functor
+  - [X] C Discrete analyzer
+  - [X] C Synthetic datasets
+  - [X] C Review the history to find new stuff
+    - [X] New rules: id for ints, email validation
+  - [X] C Partitioned histograms results on logins dataset
+  - [X] R Add the section on LOF
+  - [X] C Add the plots explaining the models
+  - [X] C Add plots showing peakiness measures
+- [X] Proof-reading
+  - [X] C Mixture models
+    - [X] Z Fix undefined $j$ in formula
+    - [X] C Finish proofreading
+  - [X] Proofread future work
+  - [X] R Proofread C's newly written sections
+- [X] C At the beginning of evaluation, add a high-level overview of all the datasets
+- [X] R Change the names in CSAIL
+- [X] C The word "preprocessor" designates a statistical analyzer in the code
+  and the tuple expander in the paper
+
+* LATER
+
+** Research
+
+- [ ] C/R Mixed discrete/continuous models, e.g. different distributions based on value of one field (i.e. report all (low cardinality, high cardinality) columns as correlated)
+- [ ] Think about asymmetric features (like email addresses: we don't want to detect things that do not have '@' signs)
+
+** Code
+
+- [ ] ? Properly support multiple models
+  - [ ] C Train all models in one pass (instead of one per model)
+- [ ] ? Combine outlier reports from multiple models
+- [X] C Adjust Gaussian model to use data from statistical analysis
+- [ ] Z Add unit tests
+- [X] C Look at correlations inside the expansion of a given field (trivial: change combination to product in tupleops)
+- [X] C Ensure that there is only one type per column
+- [ ] ? Change the outlier reporting strategy to make it easier to report
+  outliers
+  - [ ] C Use =namedtuple=s
+
+** Paper
+
+- [X] Plots: specify size in inches
+- [ ] ? Test using Coords instead of Pearson
+- [ ] 3D plots
+- [ ] Add light units
+
+* DONE
+
+** Research
+
+- [X] C Create synthetic data set; suggest as new benchmarks in case of non numerical data
+- [X] Z Mixture model thresholds
+- [X] A Identifying other outlier detection strategies / correlation detection strategies
+
+** Code
+
+- [X] C New features: floats to dates & times, ...
+- [X] R Add cardinality to analyzer
+- [X] C Create a list of examples
+- [X] C New features: email validation
+- [X] C Histogram-based correlations
+- [X] C Check correlation detection on the Intel dataset
+- [X] C Artificial datasets for testing
+- [X] C Git email and usernames

@@ -1,0 +1,372 @@
+Entorhinal cortex	braininfotype	hier
+Putamen	braininfotype	hier
+Broca's area	braininfotype	ancil
+Substantia nigra	braininfotype	hier
+Hippocampus	braininfotype	hier
+Hypothalamus	braininfotype	hier
+Thalamus	braininfotype	hier
+Basal ganglia	braininfotype	hier
+Amygdala	braininfotype	hier
+Limbic system	braininfotype	ancil
+Medulla oblongata	braininfotype	hier
+Pons	braininfotype	hier
+Brainstem	braininfotype	ancil
+Corpus callosum	braininfotype	hier
+Ventricular system	braininfotype	ancil
+Dentate gyrus	braininfotype	hier
+Lateral geniculate nucleus	braininfotype	hier
+Cingulate cortex	braininfotype	hier
+Anterior cingulate cortex	braininfotype	hier
+Cingulate sulcus	braininfotype	hier
+Caudate nucleus	braininfotype	hier
+Olfactory bulb	braininfotype	hier
+Parietal lobe	braininfotype	hier
+Precuneus	braininfotype	hier
+Temporal lobe	braininfotype	hier
+Third ventricle	braininfotype	hier
+Frontal lobe	braininfotype	hier
+Central sulcus	braininfotype	hier
+Occipital lobe	braininfotype	hier
+Extrapyramidal system	braininfotype	ancil
+Globus pallidus	braininfotype	hier
+Midbrain	braininfotype	hier
+Neocortex	braininfotype	ancil
+Cerebral peduncle	braininfotype	hier
+Rhinencephalon	braininfotype	ancil
+Brodmann area 8	braininfotype	ancil
+Mammillary body	braininfotype	hier
+Choroid plexus	braininfotype	ancil
+Brodmann area 40	braininfotype	ancil
+Wernicke's area	braininfotype	ancil
+Fornix	braininfotype	hier
+Internal capsule	braininfotype	hier
+Nucleus accumbens	braininfotype	hier
+Claustrum	braininfotype	hier
+Pyramidal tracts	braininfotype	ancil
+Spinothalamic tract	braininfotype	ancil
+Supraoptic nucleus	braininfotype	hier
+Paraventricular nucleus of hypothalamus	braininfotype	hier
+Suprachiasmatic nucleus	braininfotype	hier
+Cerebral aqueduct	braininfotype	hier
+Pulvinar nuclei	braininfotype	hier
+Hypoglossal nucleus	braininfotype	hier
+Optic radiation	braininfotype	ancil
+Medial lemniscus	braininfotype	ancil
+Oculomotor nucleus	braininfotype	hier
+Solitary nucleus	braininfotype	hier
+Nucleus ambiguus	braininfotype	hier
+Lateral lemniscus	braininfotype	hier
+Medial longitudinal fasciculus	braininfotype	ancil
+Ventral tegmental area	braininfotype	hier
+Midbrain tegmentum	braininfotype	hier
+Fusiform gyrus	braininfotype	hier
+Arcuate nucleus	braininfotype	hier
+Diencephalon	braininfotype	hier
+Limbic lobe	braininfotype	hier
+Locus coeruleus	braininfotype	hier
+Marginal nucleus of spinal cord	braininfotype	ancil
+Postcentral gyrus	braininfotype	hier
+Lateral sulcus	braininfotype	hier
+Fourth ventricle	braininfotype	hier
+Inferior frontal gyrus	braininfotype	hier
+Middle frontal gyrus	braininfotype	hier
+Superior frontal gyrus	braininfotype	hier
+Medial longitudinal fissure	braininfotype	hier
+Brodmann area 4	braininfotype	ancil
+Postcentral sulcus	braininfotype	hier
+Auditory cortex	braininfotype	ancil
+Transverse temporal gyrus	braininfotype	ancil
+Septum pellucidum	braininfotype	hier
+Superior temporal gyrus	braininfotype	hier
+Centromedian nucleus	braininfotype	hier
+Arcuate fasciculus	braininfotype	ancil
+Planum temporale	braininfotype	ancil
+Cuneate nucleus	braininfotype	hier
+Inferior colliculus	braininfotype	hier
+Superior colliculus	braininfotype	hier
+Median eminence	braininfotype	hier
+Subthalamic nucleus	braininfotype	hier
+Midbrain tectum	braininfotype	hier
+Corticobulbar tract	braininfotype	ancil
+Epithalamus	braininfotype	hier
+Median aperture	braininfotype	hier
+Reticular activating system	braininfotype	ancil
+Periaqueductal gray	braininfotype	hier
+Lateral ventricles	braininfotype	hier
+Pretectal area	braininfotype	hier
+Insular cortex	braininfotype	hier
+Reticular formation	braininfotype	ancil
+Inferior olivary nucleus	braininfotype	hier
+Cerebellar vermis	braininfotype	ancil
+Trapezoid body	braininfotype	hier
+Supramarginal gyrus	braininfotype	hier
+Angular gyrus	braininfotype	hier
+Interventricular foramina	braininfotype	hier
+Pontine tegmentum	braininfotype	hier
+Thalamic reticular nucleus	braininfotype	hier
+Suprapineal recess	braininfotype	hier
+Corona radiata	braininfotype	ancil
+Anterior lobe of cerebellum	braininfotype	hier
+Prefrontal cortex	braininfotype	ancil
+Ventrolateral preoptic nucleus	braininfotype	hier
+Edinger–Westphal nucleus	braininfotype	hier
+Red nucleus	braininfotype	hier
+Abducens nucleus	braininfotype	hier
+Brodmann area 22	braininfotype	ancil
+Subfornical organ	braininfotype	hier
+Pituitary stalk	braininfotype	hier
+Lentiform nucleus	braininfotype	ancil
+Pontine nuclei	braininfotype	hier
+Laterodorsal tegmental nucleus	braininfotype	ancil
+Pars reticulata	braininfotype	hier
+Myelencephalon	braininfotype	hier
+Hindbrain	braininfotype	hier
+Metencephalon	braininfotype	hier
+Pedunculopontine nucleus	braininfotype	hier
+Spinocerebellar tract	braininfotype	ancil
+Cingulum	braininfotype	ancil
+Arbor vitae	braininfotype	hier
+Subiculum	braininfotype	hier
+Thalamocortical radiations	braininfotype	ancil
+Inferior cerebellar peduncle	braininfotype	hier
+Globose nucleus	braininfotype	hier
+Dentate nucleus	braininfotype	hier
+Deep cerebellar nuclei	braininfotype	hier
+Flocculonodular lobe	braininfotype	hier
+Extreme capsule	braininfotype	hier
+External capsule	braininfotype	hier
+Falx cerebri	braininfotype	ancil
+Tentorium cerebelli	braininfotype	ancil
+Medial geniculate nucleus	braininfotype	hier
+Cisterna magna	braininfotype	hier
+Stria terminalis	braininfotype	hier
+Lobes of the brain	braininfotype	hier
+Cuneus	braininfotype	hier
+Subthalamus	braininfotype	hier
+Corpora quadrigemina	braininfotype	ancil
+Brodmann area 24	braininfotype	ancil
+Habenula	braininfotype	hier
+Arachnoid mater	braininfotype	ancil
+Accessory cuneate nucleus	braininfotype	hier
+Brodmann area 14	braininfotype	hier
+Allocortex	braininfotype	ancil
+Alveus of hippocampus	braininfotype	hier
+Ventromedial nucleus of the hypothalamus	braininfotype	hier
+Brodmann area 13	braininfotype	hier
+Brodmann area 52	braininfotype	hier
+Flocculus	braininfotype	hier
+Frontal lobe epilepsy	braininfotype	hier
+Septal nuclei	braininfotype	hier
+Posterior nucleus of hypothalamus	braininfotype	hier
+Zona incerta	braininfotype	hier
+Obex	braininfotype	hier
+Interthalamic adhesion	braininfotype	hier
+Arcuate nucleus	braininfotype	hier
+Perforant path	braininfotype	hier
+Orbitofrontal cortex	braininfotype	hier
+Inferior salivatory nucleus	braininfotype	hier
+Paramedian pontine reticular formation	braininfotype	ancil
+Basal forebrain	braininfotype	ancil
+Falx cerebelli	braininfotype	ancil
+Vascular organ of lamina terminalis	braininfotype	hier
+Middle temporal gyrus	braininfotype	hier
+Inferior temporal gyrus	braininfotype	hier
+Parieto-occipital sulcus	braininfotype	hier
+Calcarine sulcus	braininfotype	hier
+Posterior cingulate	braininfotype	hier
+Facial motor nucleus	braininfotype	hier
+Trochlear nucleus	braininfotype	hier
+Cochlear nucleus	braininfotype	hier
+Dorsal cochlear nucleus	braininfotype	hier
+Superior olivary complex	braininfotype	hier
+Vestibular nuclei	braininfotype	hier
+Trigeminal nerve nuclei	braininfotype	ancil
+Spinal trigeminal nucleus	braininfotype	ancil
+Trigeminal motor nucleus	braininfotype	hier
+Spinal accessory nucleus	braininfotype	ancil
+Premotor cortex	braininfotype	ancil
+Superior parietal lobule	braininfotype	hier
+Inferior parietal lobule	braininfotype	hier
+Anterior commissure	braininfotype	hier
+Gracile nucleus	braininfotype	hier
+Horizontal fissure of cerebellum	braininfotype	hier
+Lingual gyrus	braininfotype	hier
+Nucleus raphe pallidus	braininfotype	hier
+Dorsal raphe nucleus	braininfotype	hier
+Median raphe nucleus	braininfotype	hier
+Nucleus raphe magnus	braininfotype	hier
+Nucleus raphe obscurus	braininfotype	hier
+Lamina terminalis	braininfotype	hier
+Tuber cinereum	braininfotype	hier
+Superior salivary nucleus	braininfotype	hier
+Facial colliculus	braininfotype	hier
+Rostrum of corpus callosum	braininfotype	hier
+Uncus	braininfotype	hier
+Metathalamus	braininfotype	hier
+Lateral aperture	braininfotype	hier
+Intraparietal sulcus	braininfotype	hier
+Posterior commissure	braininfotype	hier
+Lateral vestibular nucleus	braininfotype	hier
+Superior vestibular nucleus	braininfotype	hier
+Area postrema	braininfotype	hier
+Rhomboid fossa	braininfotype	hier
+Substantia innominata	braininfotype	hier
+Medial forebrain bundle	braininfotype	hier
+Diagonal band of Broca	braininfotype	hier
+Ansa lenticularis	braininfotype	hier
+Islands of Calleja	braininfotype	hier
+Pars compacta	braininfotype	hier
+Superior cerebellar peduncle	braininfotype	ancil
+Middle cerebellar peduncle	braininfotype	hier
+Ventral supraoptic decussation	braininfotype	hier
+Stratum zonale of thalamus	braininfotype	hier
+Tela chorioidea of fourth ventricle	braininfotype	hier
+Taenia thalami	braininfotype	hier
+Posterior perforated substance	braininfotype	ancil
+Optic recess	braininfotype	hier
+Interpeduncular fossa	braininfotype	hier
+Olivocerebellar tract	braininfotype	hier
+Sublingual nucleus	braininfotype	hier
+Solitary tract	braininfotype	hier
+Hypothalamic sulcus	braininfotype	hier
+Projection fiber	braininfotype	ancil
+Commissural fiber	braininfotype	ancil
+Uncinate fasciculus	braininfotype	hier
+Occipitofrontal fasciculus	braininfotype	ancil
+Splenium	braininfotype	hier
+Superior medullary velum	braininfotype	hier
+Rhinal sulcus	braininfotype	hier
+Olfactory tract	braininfotype	hier
+Paraterminal gyrus	braininfotype	hier
+Indusium griseum	braininfotype	hier
+Subcallosal area	braininfotype	hier
+Anterior perforated substance	braininfotype	hier
+Frontopontine fibers	braininfotype	ancil
+Temporopontine fibers	braininfotype	ancil
+Sulcus limitans	braininfotype	hier
+Pontine raphe nucleus	braininfotype	hier
+Taenia of fourth ventricle	braininfotype	hier
+Stratum lucidum of hippocampus	braininfotype	ancil
+Dorsomedial hypothalamic nucleus	braininfotype	hier
+Anterior hypothalamic nucleus	braininfotype	hier
+Preoptic area	braininfotype	hier
+Lateral hypothalamus	braininfotype	hier
+Dorsal nucleus of vagus nerve	braininfotype	hier
+Anterior olfactory nucleus	braininfotype	hier
+Olfactory trigone	braininfotype	hier
+Medullary pyramids	braininfotype	hier
+Fimbria of hippocampus	braininfotype	hier
+Superior longitudinal fasciculus	braininfotype	ancil
+Sensory decussation	braininfotype	hier
+Genu of the corpus callosum	braininfotype	hier
+Calcar avis	braininfotype	hier
+Collateral eminence	braininfotype	hier
+Collateral fissure	braininfotype	hier
+Frenulum of superior medullary velum	braininfotype	ancil
+Posterolateral sulcus of medulla oblongata	braininfotype	hier
+Vagal trigone	braininfotype	hier
+Anterior median fissure of the medulla oblongata	braininfotype	hier
+Cerebellar tonsil	braininfotype	hier
+Olfactory sulcus	braininfotype	hier
+Ventral posterior nucleus	braininfotype	hier
+Tegmental pontine reticular nucleus	braininfotype	hier
+Lateral reticular nucleus	braininfotype	hier
+Ventral reticular nucleus	braininfotype	hier
+Oral pontine reticular nucleus	braininfotype	hier
+Parvocellular reticular nucleus	braininfotype	hier
+Caudal pontine reticular nucleus	braininfotype	hier
+Gigantocellular reticular nucleus	braininfotype	hier
+Paramedian reticular nucleus	braininfotype	hier
+Lateral reticular formation	braininfotype	hier
+Medial dorsal nucleus	braininfotype	hier
+Medial eminence of floor of fourth ventricle	braininfotype	ancil
+Stria medullaris of thalamus	braininfotype	hier
+Inferior frontal sulcus	braininfotype	hier
+Superior frontal sulcus	braininfotype	hier
+Ventral anterior nucleus	braininfotype	hier
+Ventral lateral nucleus	braininfotype	hier
+Intermediolateral nucleus	braininfotype	ancil
+Hippocampal sulcus	braininfotype	hier
+Inferior medullary velum	braininfotype	hier
+Pontine cistern	braininfotype	hier
+Mesencephalic nucleus of trigeminal nerve	braininfotype	hier
+Principal sensory nucleus of trigeminal nerve	braininfotype	hier
+Subcommissural organ	braininfotype	hier
+Cerebral crus	braininfotype	hier
+Posterior median sulcus of medulla oblongata	braininfotype	hier
+Anterolateral sulcus of medulla	braininfotype	hier
+Lateral occipital sulcus	braininfotype	hier
+Straight gyrus	braininfotype	hier
+Emboliform nucleus	braininfotype	hier
+Paracentral lobule	braininfotype	ancil
+Marginal sulcus	braininfotype	hier
+Hypoglossal trigone	braininfotype	hier
+Lateral recess	braininfotype	hier
+Tuberomammillary nucleus	braininfotype	ancil
+Anterior nuclei of thalamus	braininfotype	hier
+Ventral posteromedial nucleus	braininfotype	hier
+Ventral posterolateral nucleus	braininfotype	hier
+Midline nuclear group	braininfotype	hier
+Lateral nuclear group	braininfotype	hier
+Ventral nuclear group	braininfotype	hier
+Intralaminar nuclei of thalamus	braininfotype	hier
+Vestibulocerebellar tract	braininfotype	hier
+Thalamic fasciculus	braininfotype	hier
+Lenticular fasciculus	braininfotype	hier
+Centrum semiovale	braininfotype	hier
+Basilar part of pons	braininfotype	hier
+Callosal sulcus	braininfotype	hier
+Inferior longitudinal fasciculus	braininfotype	ancil
+Anterior white commissure	braininfotype	Ancil
+Reticulospinal tract	braininfotype	hier
+Medial vestibular nucleus	braininfotype	hier
+Ventral cochlear nucleus	braininfotype	hier
+Retrosplenial cortex	braininfotype	ancil
+Rostral interstitial nucleus of medial longitudinal fasciculus	braininfotype	hier
+Inferior vestibular nucleus	braininfotype	hier
+Juxtarestiform body	braininfotype	hier
+Trigeminal lemniscus	braininfotype	ancil
+Acoustic radiation	braininfotype	ancil
+Vallecula of cerebellum	braininfotype	hier
+Habenular commissure	braininfotype	hier
+Gray commissure	braininfotype	ancil
+Body of lateral ventricle	braininfotype	hier
+Cerebellar hemisphere	braininfotype	ancil
+Nodule of vermis	braininfotype	hier
+Tuber of vermis	braininfotype	hier
+Biventer lobule	braininfotype	hier
+Folium vermis	braininfotype	hier
+Central lobule	braininfotype	hier
+Gustatory nucleus	braininfotype	ancil
+Medial globus pallidus	braininfotype	hier
+Lateral globus pallidus	braininfotype	hier
+Habenular trigone	braininfotype	hier
+Posterior lobe of cerebellum	braininfotype	hier
+Uvula of cerebellum	braininfotype	hier
+Lingula of cerebellum	braininfotype	hier
+Culmen	braininfotype	hier
+Primary fissure of cerebellum	braininfotype	hier
+Pontocerebellar fibers	braininfotype	ancil
+Dorsal trigeminal tract	braininfotype	hier
+Rubro-olivary tract	braininfotype	ancil
+Dentatothalamic tract	braininfotype	hier
+Trigeminocerebellar fibers	braininfotype	ancil
+Subthalamic fasciculus	braininfotype	ancil
+Vestibulo-oculomotor fibers	braininfotype	ancil
+Central tegmental tract	braininfotype	ancil
+Vestibular cortex	braininfotype	ancil
+Corticopontine fibers	braininfotype	ancil
+Primary motor cortex	braininfotype	ancil
+Region II of hippocampus proper	braininfotype	hier
+Region III of hippocampus proper	braininfotype	hier
+Region I of hippocampus proper	braininfotype	hier
+Subparabrachial nucleus	braininfotype	hier
+Ventral pallidum	braininfotype	hier
+Nucleus basalis of Meynert	braininfotype	hier
+Line of Gennari	braininfotype	ancil
+Interpeduncular nucleus	braininfotype	hier
+Rostral ventromedial medulla	braininfotype	hier
+Pacchionian foramen	braininfotype	ancil
+Rhombic lip	braininfotype	hier
+Parabrachial area	braininfotype	hier
+Paratenial nucleus	braininfotype	hier

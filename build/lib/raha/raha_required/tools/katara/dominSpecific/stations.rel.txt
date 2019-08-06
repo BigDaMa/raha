@@ -1,0 +1,3211 @@
+Tramlink	stations	39
+Docklands Light Railway	stations	45
+London Underground	stations	270
+London Post Office Railway	stations	8
+Massachusetts Bay Transportation Authority	stations	123
+Massachusetts Bay Transportation Authority	stations	51
+Massachusetts Bay Transportation Authority	stations	74
+Massachusetts Bay Transportation Authority	stations	22
+Toronto Transit Commission	stations	69
+Toronto Transit Commission	stations	31
+Toronto Transit Commission	stations	22
+Paris Métro	stations	303
+Bay Area Rapid Transit	stations	45
+Waterloo & City line	stations	2
+Moscow Metro	stations	203
+Moscow Metro	stations	229
+Central line	stations	49
+Metropolitan line	stations	34
+Thameslink	stations	68
+Bakerloo line	stations	25
+Circle line	stations	36
+District line	stations	60
+East London Line	stations	23
+East London Line	stations	9
+Hammersmith & City line	stations	29
+Jubilee line	stations	27
+Victoria line	stations	16
+Northern line	stations	50
+Piccadilly line	stations	53
+High Speed 1	stations	4
+KLIA Ekspres	stations	3
+Orlyval	stations	3
+SkyTrain	stations	47
+SkyTrain	stations	6
+KL Monorail	stations	11
+Cairngorm Mountain Railway	stations	3
+Romney, Hythe and Dymchurch Railway	stations	8
+Line 3 Scarborough	stations	6
+Washington Metro	stations	91
+MAX Light Rail	stations	97
+United States Capitol subway system	stations	6
+West Coast Main Line	stations	51
+Warsaw Metro	stations	27
+Midland Main Line	stations	35
+Madrid Metro	stations	301
+Northern City Line	stations	6
+Euskotren Trena	stations	79
+Kobe Municipal Subway	stations	28
+Hankyū Kōbe Main Line	stations	16
+Tōkaidō Main Line	stations	166
+Osaka Loop Line	stations	19
+Taiwan High Speed Rail	stations	12
+Crossrail	stations	40
+Manchester Metrolink	stations	93
+Hankyu Kyoto Main Line	stations	26
+Settle-Carlisle Line	stations	10
+SEPTA	stations	290
+Hong Kong Tramways	stations	120
+Caltrain	stations	32
+Kowloon–Canton Railway	stations	33
+North London Line	stations	23
+Metropolitan Atlanta Rapid Transit Authority	stations	38
+Karasuma Line	stations	15
+Tren Urbano	stations	16
+Midland Metro	stations	26
+Konkan Railway	stations	123
+PATH	stations	13
+City Circle	stations	6
+Island Line	stations	17
+Tsuen Wan Line	stations	16
+NJ Transit	stations	*162 \n*60 \n*27 \n*18,000+
+Newark Light Rail	stations	5
+Newark Light Rail	stations	4
+Newark Light Rail	stations	11
+Jæren Line	stations	18
+Epping to Chatswood rail link	stations	5
+Sheffield Supertram	stations	48
+METRORail	stations	37
+METRORail	stations	2
+Staten Island Railway	stations	22
+Staten Island Railway	stations	21
+Red Line	stations	22
+42nd Street Shuttle	stations	2
+Eritrean Railway	stations	13
+Gyeongin Line	stations	21
+Gyeongbu Line	stations	90
+Bucharest Metro	stations	51
+Honam Line	stations	48
+Jeolla Line	stations	30
+GO Transit	stations	64
+GO Transit	stations	15
+Northeast Corridor	stations	108
+South London Line	stations	10
+Kwun Tong Line	stations	17
+Tōkaidō Shinkansen	stations	17
+Los Angeles County Metropolitan Transportation Authority	stations	Rail: 93
+Los Angeles County Metropolitan Transportation Authority	stations	Bus rapid transit: 29
+Tyne and Wear Metro	stations	60
+Stockholm metro	stations	100
+Dublin Area Rapid Transit	stations	31
+Saikyō Line	stations	19
+Agence métropolitaine de transport	stations	61
+Agence métropolitaine de transport	stations	19
+West Coast Express	stations	8
+Mumbai Suburban Railway	stations	Western Line
+Mumbai Suburban Railway	stations	: 36
+Mumbai Suburban Railway	stations	Central Line
+Mumbai Suburban Railway	stations	: 62
+Mumbai Suburban Railway	stations	Harbour Line
+Mumbai Suburban Railway	stations	: 32
+Mumbai Suburban Railway	stations	Trans-Harbour Line
+Mumbai Suburban Railway	stations	: 10
+Yamanote Line	stations	29
+Yamatoji Line	stations	22
+Tokyo Metropolitan Bureau of Transportation	stations	106
+Tokyo Metro	stations	179
+Keihin-Tōhoku Line	stations	35
+Tokyo Metro Ginza Line	stations	19
+Rinkai Line	stations	8
+Keiō Line	stations	33
+Chūō Main Line	stations	112
+Odakyū Odawara Line	stations	47
+Peak Tram	stations	6
+Virginia Railway Express	stations	19
+Osaka Municipal Subway	stations	123
+Osaka Municipal Subway	stations	133
+Hanwa Line	stations	36
+Nara Line	stations	19
+Osaka Line	stations	48
+Kyoto Municipal Subway	stations	31
+Kyoto Line	stations	26
+Tokyo Metro Chiyoda Line	stations	20
+Biwako Line	stations	23
+Hakata-Minami Line	stations	2
+Kyushu Shinkansen	stations	12
+Chicago %22L%22	stations	145
+Helsinki Metro	stations	17
+Helsinki Metro	stations	8
+Helsinki Metro	stations	5
+Helsinki Metro	stations	30
+Mass Rapid Transit	stations	154
+Yurikamome	stations	16
+BMT Brighton Line	stations	20
+Athens Metro	stations	65
+North East MRT Line	stations	16
+East West MRT Line	stations	31
+North South MRT Line	stations	27
+Green Line	stations	66
+PATCO Speedline	stations	13
+Greyhound Lines	stations	230
+Metro Blue Line	stations	19
+East Coast Main Line	stations	52
+Tōkyū Tōyoko Line	stations	21
+Minatomirai Line	stations	6
+Orange Line	stations	20
+Jacksonville Skyway	stations	8
+Tseung Kwan O Line	stations	8
+Metra	stations	241
+Carmelit	stations	6
+Tünel	stations	2
+Brussels Metro	stations	59
+Brussels Metro	stations	69
+Glasgow Subway	stations	15
+City Loop	stations	5
+Tōhoku Shinkansen	stations	23
+Tokyo Monorail	stations	11
+BTS Skytrain	stations	34
+Hokuriku Main Line	stations	43
+Detroit People Mover	stations	13
+Tokyo subway	stations	285
+Circle MRT Line	stations	33
+Prague Metro	stations	61
+Jōetsu Shinkansen	stations	10
+Chūō Shinkansen	stations	9
+Aoimori Railway Line	stations	26
+Chungbuk Line	stations	16
+Jungang Line	stations	82
+Gyeongbuk Line	stations	12
+Gyeongchun Line	stations	20
+Gyeongwon Line	stations	37
+Yellow Line	stations	3
+Red Line	stations	33
+Red Line	stations	25
+Blue Line	stations	21
+Green Line	stations	24
+Trinity Railway Express	stations	10
+Orange Line	stations	16
+Blue Line	stations	33
+Green Line	stations	30
+Brown Line	stations	27
+Purple Line	stations	25
+Purple Line	stations	11
+Expo Line	stations	20
+Millennium Line	stations	28
+Canada Line	stations	16
+MARC Train	stations	42
+Donghae Nambu Line	stations	37
+Janghang Line	stations	30
+Daegu Line	stations	8
+Gyeongui Line	stations	23
+Suin Line	stations	27
+Nottingham Express Transit	stations	50
+TransMilenio	stations	147
+Kagoshima Main Line	stations	90
+Berlin U-Bahn	stations	170
+Tung Chung Line	stations	8
+Berlin S-Bahn	stations	166
+Rimutaka Incline	stations	2
+Puffing Billy Railway	stations	11
+Barcelona Metro	stations	180
+Polar Bear Express	stations	6
+Copenhagen Metro	stations	22
+Norristown High Speed Line	stations	22
+Gospel Oak to Barking Line	stations	12
+Osaka Monorail	stations	18
+Second Avenue Subway	stations	16
+Blue Line	stations	27
+Orange Line	stations	26
+Red Line	stations	27
+Green Line	stations	21
+Yellow Line	stations	17
+Ankara Metro	stations	45
+Tri-Rail	stations	18
+Miami-Dade Transit	stations	Miami Central Station
+Miami-Dade Transit	stations	Government Center
+Miami-Dade Transit	stations	23
+Miami-Dade Transit	stations	22
+Miami-Dade Transit	stations	28
+Metromover	stations	21
+Great Eastern Main Line	stations	27
+Great Western Main Line	stations	25
+Line 4 Sheppard	stations	5
+Toronto subway	stations	69
+Metrolink	stations	55
+River Line	stations	21
+U5	stations	20
+U5	stations	33
+U6	stations	29
+U1	stations	13
+MRT	stations	35
+Beijing Subway	stations	334
+Line 2 Bloor–Danforth	stations	31
+Line 1 Yonge–University	stations	32
+Amsterdam Metro	stations	52
+Amsterdam Metro	stations	33
+Tokyo Metro Hibiya Line	stations	21
+North Clyde Line	stations	57
+Argyle Line	stations	47
+Iida Line	stations	94
+Kiev Metro	stations	52
+London, Tilbury and Southend Railway	stations	26
+Beovoz	stations	41
+KLIA Transit	stations	6
+Nambu Line	stations	263
+Ōme Line	stations	25
+Meiringen–Innertkirchen railway	stations	7
+Northstar Line	stations	7
+Fukuchiyama Line	stations	30
+Niagara Frontier Transportation Authority	stations	13
+São Paulo Metro	stations	65
+Hudson–Bergen Light Rail	stations	24
+Como-Harriet Streetcar Line	stations	3
+Cairo Metro	stations	61
+Luas	stations	54
+Mumbai Metro	stations	12
+Mumbai Metro	stations	58
+Mumbai Metro	stations	52
+Alamein railway line	stations	6
+Light rail in Sydney	stations	23
+MetroLink	stations	37
+Tokyo Metro Hanzōmon Line	stations	14
+Tbilisi Metro	stations	22
+Santa Clara Valley Transportation Authority	stations	62
+Shanghai Metro	stations	364
+Keiyō Line	stations	18
+West Rail Line	stations	12
+Buffalo Metro Rail	stations	14
+Ashmont–Mattapan High Speed Line	stations	8
+CTrain	stations	45
+RTA Rapid Transit	stations	18
+RTA Rapid Transit	stations	34
+OnTrack	stations	3
+OnTrack	stations	2
+Greater Cleveland Regional Transit Authority	stations	18
+Greater Cleveland Regional Transit Authority	stations	34
+Greater Cleveland Regional Transit Authority	stations	6000
+Seattle Center Monorail	stations	2
+Yokosuka Line	stations	19
+Lilydale railway line	stations	21
+Belgrave railway line	stations	10
+Trambesòs	stations	27
+Hurstbridge railway line	stations	23
+Glen Waverley railway line	stations	12
+Seoul Subway Line 5	stations	51
+Punggol LRT Line	stations	15
+Akita Shinkansen	stations	11
+Yamagata Shinkansen	stations	11
+Edinburgh Trams	stations	15
+Marzilibahn funicular	stations	2
+Seville Metro	stations	22
+Pakenham railway line	stations	29
+San Bernardino Line	stations	14
+Ventura County Line	stations	12
+Cranbourne railway line	stations	3
+South Morang railway line	stations	21
+Upfield railway line	stations	14
+Sunbury railway line	stations	15
+Tama Toshi Monorail Line	stations	19
+Ferny Grove railway line	stations	11
+Itsukaichi Line	stations	7
+Caboolture railway line	stations	13
+Ayrshire Coast Line	stations	26
+Caracas Metro	stations	46
+Altamont Corridor Express	stations	10
+Downtown Seattle Transit Tunnel	stations	5
+Tōzai Line	stations	17
+Katamachi Line	stations	24
+Osaka Higashi Line	stations	7
+Skitube Alpine Railway	stations	3
+Mexico City Metro	stations	195
+Riverside Line	stations	7
+Tokyo Metro Marunouchi Line	stations	28
+Taipei Metro	stations	117
+Kaohsiung Mass Rapid Transit	stations	45
+Broad Street Line	stations	25
+Metro Green Line	stations	23
+Gyeongjeon Line	stations	45
+Toden Arakawa Line	stations	30
+Hankyū Minoo Line	stations	4
+Hankyu Takarazuka Main Line	stations	19
+Utsunomiya Line	stations	33
+Bergen Line	stations	39
+Toei Ōedo Line	stations	38
+Nickey Line	stations	9
+Snaefell Mountain Railway	stations	3
+Waterfront Streetcar	stations	9
+Copenhagen S-train	stations	85
+Light Rail	stations	68
+Chennai Mass Rapid Transit System	stations	17
+Pascack Valley Line	stations	18
+Line 1, Beijing Subway	stations	23
+Line 5, Beijing Subway	stations	23
+Batong Line, Beijing Subway	stations	13
+Line 2, Beijing Subway	stations	18
+Tamsui Line, Taipei Metro	stations	21
+Xinbeitou Branch Line, Taipei Metro	stations	2
+Northeast Corridor Line	stations	17
+Wenshan Line, Taipei Metro	stations	12
+Xindian Line, Taipei Metro	stations	10
+Tsukuba Express	stations	20
+Xiaonanmen Line, Taipei Metro	stations	3
+AirTrain Newark	stations	8
+AirTrain JFK	stations	10
+AirTrain	stations	9
+Line 10, Beijing Subway	stations	45
+Blue and Green Lines	stations	5
+Red Line	stations	24
+Orange Line	stations	14
+Kansai Main Line	stations	52
+Santiago Metro	stations	108
+Florida High Speed Corridor	stations	Phase 1: 5
+Florida High Speed Corridor	stations	Phase 2: TBD
+East Rail Line	stations	14
+Ma On Shan Line	stations	9
+Main Line	stations	18
+Seoul Subway Line 1	stations	97
+Seoul Subway Line 1	stations	Seoul Metro: 10
+Seoul Subway Line 1	stations	Korail: 87
+Buenos Aires Underground	stations	86
+Buenos Aires Underground	stations	103
+Forch railway	stations	20
+Zürich S-Bahn	stations	171
+S7	stations	19
+S29	stations	11
+Tokyo Metro Namboku Line	stations	19
+Tōkyū Den-en-toshi Line	stations	27
+Bremgarten–Dietikon railway line	stations	20
+Ottawa Rapid Transit	stations	58
+Ottawa Rapid Transit	stations	5
+Ueno Zoo Monorail	stations	2
+BMT West End Line	stations	13
+Airport Express	stations	5
+Rauma Line	stations	5
+Tokyo Metro Tōzai Line	stations	23
+Chūō-Sōbu Line	stations	39
+Tokyo Metro Yūrakuchō Line	stations	24
+Marmaray	stations	5
+Marmaray	stations	41
+Eastern Suburbs railway line	stations	7
+Toei Asakusa Line	stations	20
+Companhia Paulista de Trens Metropolitanos	stations	92
+Somerset and Dorset Joint Railway	stations	48
+Robin Hood Line	stations	13
+TRAX	stations	50
+West London Line	stations	6
+Bukit Panjang LRT Line	stations	14
+Stony Point railway line	stations	10
+Proastiakos	stations	79
+West Highland Line	stations	33
+LGV Nord	stations	4
+Lisbon Metro	stations	50
+Sengkang LRT Line	stations	14
+Seibu Tamagawa Line	stations	6
+Vienna U-Bahn	stations	104
+Munich S-Bahn	stations	150
+Munich U-Bahn	stations	96
+Bergen County Line	stations	17
+Cotswold Line	stations	19
+BVZ Zermatt-Bahn	stations	9
+Line rail service	stations	20
+Harrogate Line	stations	14
+Airedale Line	stations	11
+Jacksonville Transportation Authority	stations	8
+Xiaobitan Branch Line, Taipei Metro	stations	2
+Heartland Flyer	stations	7
+Tucheng Line, Taipei Metro	stations	5
+Neihu Line, Taipei Metro	stations	12
+Xinzhuang Line, Taipei Metro	stations	16
+Luzhou Line, Taipei Metro	stations	5
+Xinyi Line, Taipei Metro	stations	7
+Songshan Line, Taipei Metro	stations	7
+Seoul Subway Line 2	stations	51
+Seoul Subway Line 3	stations	44
+Seoul Subway Line 3	stations	34
+Seoul Subway Line 3	stations	10
+Seoul Subway Line 4	stations	48
+Seoul Subway Line 4	stations	26
+Seoul Subway Line 4	stations	22
+Seoul Subway Line 6	stations	38
+Seoul Subway Line 8	stations	17
+Seoul Subway Line 7	stations	51
+Bundang Line	stations	36
+Line 13, Beijing Subway	stations	16
+Aberystwyth Cliff Railway	stations	2
+California High-Speed Rail	stations	24
+Hamburg S-Bahn	stations	68
+Wuppertal Suspension Railway	stations	20
+Green Line	stations	27
+Gladstone Branch	stations	24
+San Francisco cable car system	stations	62
+Line F	stations	13
+Line C	stations	9
+Line H	stations	11
+Line D	stations	16
+Line A	stations	16
+Line B	stations	17
+Line E	stations	15
+Morristown Line	stations	26
+Craigieburn railway line	stations	15
+North Jersey Coast Line	stations	28
+Princeton Branch	stations	2
+Minami Osaka Line	stations	28
+Metrorail	stations	23
+Blue Line	stations	12
+Yellow Line	stations	3
+Orange Line	stations	31
+Lakeshore West line	stations	12
+Milton line	stations	9
+Kitchener line	stations	12
+Richmond Hill line	stations	5
+Lakeshore East line	stations	10
+Shore Line East	stations	14
+Xochimilco Light Rail	stations	18
+Highland Main Line	stations	10
+Conwy Valley Line	stations	13
+Lyon Metro	stations	40
+South Shore Line	stations	19
+Line rail service	stations	13
+Bendigo railway line	stations	11
+Kitakyushu Monorail	stations	13
+Seibu Ikebukuro Line	stations	31
+Shenzhen Metro	stations	149
+Cincinnati Subway	stations	4
+Chiltern Main Line	stations	32
+North Wales Coast Line	stations	18
+West of England Main Line	stations	23
+TGM	stations	18
+M-Bahn	stations	3
+Market–Frankford Line	stations	28
+Arlanda Express	stations	3
+SEPTA Regional Rail	stations	154
+Seibu Chichibu Line	stations	6
+Rome Metro	stations	73
+Center City Commuter Connection	stations	2
+TECO Line Streetcar System	stations	11
+Okinawa Monorail	stations	15
+IRT Flushing Line	stations	22
+Nagasaki Main Line	stations	41
+IRT Broadway–Seventh Avenue Line	stations	44
+IND Eighth Avenue Line	stations	30
+Sounder commuter rail	stations	12
+Cross-City Line	stations	24
+BMT Canarsie Line	stations	27
+Las Vegas Monorail	stations	7
+Yilan Line	stations	27
+Taichung Line	stations	16
+IND Concourse Line	stations	12
+Kintetsu Namba Line	stations	3
+IRT Lexington Avenue Line	stations	27
+Chūō Line	stations	14
+Taoyuan International Airport MRT	stations	24
+Helsinki commuter rail	stations	54
+Muni Metro	stations	33
+Muni Metro	stations	87
+Marshlink Line	stations	9
+BMT Jamaica Line	stations	22
+Incheon Subway	stations	56
+Maritime Line	stations	6
+Atlantic Coast Line, Cornwall	stations	7
+Nagano Line	stations	8
+Hachikō Line	stations	23
+Oslo Metro	stations	101
+BMT Broadway Line	stations	16
+Looe Valley Line	stations	6
+St Ives Bay Line	stations	5
+Ring Rail Line	stations	5
+Tarka Line	stations	13
+Bittern Line	stations	10
+East Suffolk Line	stations	12
+North-Link Line	stations	13
+South-Link Line	stations	14
+Pingtung Line	stations	18
+Hualien–Taitung Line	stations	27
+Kyle of Lochalsh Line	stations	13
+Cambrian Line	stations	33
+Avocet Line	stations	10
+Riviera Line	stations	11
+Chase Line	stations	15
+BMT Myrtle Avenue Line	stations	7
+F Market & Wharves	stations	32
+Agatsuma Line	stations	18
+IND Sixth Avenue Line	stations	14
+IND Culver Line	stations	21
+Ryōmō Line	stations	18
+Jōetsu Line	stations	34
+Sofia Metro	stations	35
+Guangzhou Metro	stations	167
+BMT Nassau Street Line	stations	6
+IND Crosstown Line	stations	13
+Archer Avenue Lines	stations	3
+63rd Street Lines	stations	3
+Western Railway Corridor	stations	7
+Hankai Uemachi Line	stations	10
+N Judah	stations	33
+M Ocean View	stations	26
+L Taraval	stations	29
+K Ingleside	stations	21
+J Church	stations	25
+S Castro Shuttle	stations	11
+S Castro Shuttle	stations	20
+San Diego Trolley	stations	53
+Lima Metro	stations	26
+Hayes Line	stations	9
+Milan Metro	stations	113
+Third Street Light Rail Project	stations	18
+Central Subway	stations	4
+Queensland Rail City network	stations	146
+IRT Dyre Avenue Line	stations	5
+Beenleigh railway line	stations	22
+Gold Coast railway line	stations	16
+Marston Vale Line	stations	12
+East Coastway Line	stations	17
+West Coastway Line	stations	39
+Twin Peaks Tunnel	stations	3
+Market Street Subway	stations	7
+Welsh Marches Line	stations	1715
+Heart of Wales Line	stations	29
+Sassi–Superga tramway	stations	5
+Harbour line	stations	32
+Catford Loop Line	stations	8
+Kansai Airport Line	stations	3
+Metro Bilbao	stations	40
+IRT Lenox Avenue Line	stations	6
+91 Line	stations	12
+Inland Empire–Orange County Line	stations	15
+Orange County Line	stations	14
+West Island Line	stations	3
+Røros Line	stations	28
+Antelope Valley Line	stations	11
+Cumbrian Coast Line	stations	26
+Thornlie railway line	stations	18
+Fremantle railway line	stations	17
+Joondalup railway line	stations	13
+Poma 2000	stations	3
+Saint Petersburg Metro	stations	67
+Raritan Valley Line	stations	20
+Greenford Branch Line	stations	5
+Fløibanen	stations	5
+Arun Valley Line	stations	11
+Light Rail Transit	stations	43
+Walt Disney World Monorail System	stations	6
+BMT Sea Beach Line	stations	10
+SEPTA Routes 101 and 102	stations	52
+Kesennuma Line	stations	23
+Kawagoe Line	stations	11
+Ōfunato Line	stations	25
+Tobu Urban Park Line	stations	35
+New Shuttle	stations	13
+Dovre Line	stations	25
+Cross Country Route	stations	48
+Bowling Green–South Ferry shuttle	stations	2
+IRT White Plains Road Line	stations	20
+Tianjin Metro	stations	95
+Senseki Line	stations	31
+BMT Astoria Line	stations	7
+Toronto streetcar system	stations	685
+Gray Coach	stations	5
+Toronto Zoo Domain Ride	stations	3
+Medway Valley Line	stations	13
+Budapest Metro	stations	52
+Abbey Line	stations	7
+IND World's Fair Line	stations	1
+Aonami Line	stations	11
+Lea Valley Lines	stations	31
+South Coast railway line, New South Wales	stations	56
+Ivanhoe Line	stations	6
+Ishinomaki Line	stations	14
+Hamburg U-Bahn	stations	91
+Rikuu East Line	stations	27
+510 Spadina	stations	18
+510 Spadina	stations	Queens Quay
+Senzan Line	stations	21
+Fen Line	stations	7
+Severn Beach Line	stations	11
+Far North Line	stations	25
+Nordland Line	stations	43
+MAX Blue Line	stations	51
+MAX Red Line	stations	29
+Durham Coast Line	stations	10
+Hastings Line	stations	13
+Derwent Valley Line	stations	5
+Expo Express	stations	6
+Whifflet Line	stations	7
+Société de transport de Montréal	stations	68
+Line rail service	stations	16
+BHÉV	stations	81
+KTM Komuter	stations	79
+West Anglia Main Line	stations	28
+Mount Lowe Railway	stations	31
+Morgantown Personal Rapid Transit	stations	5
+Line rail service	stations	13
+Felixstowe Branch Line	stations	4
+Manila Light Rail Transit System	stations	31
+MAX Yellow Line	stations	21
+Tōkyū Tamagawa Line	stations	7
+Tōkyū Meguro Line	stations	13
+Trans-Gabon Railway	stations	23
+Porto Metro	stations	81
+Romford to Upminster Line	stations	3
+Braintree Branch Line	stations	5
+Disneyland Resort Line	stations	2
+Kowloon Southern Link	stations	3
+Trillium Line	stations	5
+Sørlandet Line	stations	27
+Monterrey Metro	stations	31
+Atlantic City Line	stations	9
+Breckland Line	stations	12
+Negishi Line	stations	12
+Los Angeles Metro Rail	stations	100
+Red Line	stations	14
+Atlantic Avenue Elevated	stations	6
+Shonan Monorail	stations	8
+Inverclyde Line	stations	22
+IND Fulton Street Line	stations	22
+509 Harbourfront	stations	18
+509 Harbourfront	stations	Queens Quay
+509 Harbourfront	stations	Exhibition Loop
+Lowell Line	stations	9
+Busan Metro Line 1	stations	34
+Busan Metro Line 2	stations	43
+Busan Metro Line 3	stations	17
+Green Line %22D%22 Branch	stations	20
+Green Line %22B%22 Branch	stations	25
+Green Line %22C%22 Branch	stations	22
+Green Line %22E%22 Branch	stations	20
+Serveis Ferroviaris de Mallorca	stations	29
+SEPTA Subway–Surface Trolley Lines	stations	8
+Hanshin Namba Line	stations	11
+Harlem Line	stations	38
+Daegu Metro Line 1	stations	30
+Jōban Line	stations	85
+Union Pearson Express	stations	4
+Sacramento Regional Transit District	stations	54
+Airport Link, Sydney	stations	6
+Shanghai Maglev Train	stations	2
+Fairmount Line	stations	8
+Fairmount Line	stations	1
+Leeds Supertram	stations	50
+Waterloo to Reading Line	stations	26
+ North Line	stations	27
+ West Line	stations	19
+BNSF Railway	stations	26
+Sonoma-Marin Area Rail Transit	stations	10
+Central Massachusetts Railroad	stations	14
+Birmingham to Peterborough Line	stations	13
+Hanshin Main Line	stations	33
+512 St. Clair	stations	18
+Worcester Line	stations	17
+Hankyu Arashiyama Line	stations	4
+Fitchburg Line	stations	19
+Hankyū Itami Line	stations	4
+Cape Cod Central Railroad	stations	4
+North Central Service	stations	18
+Heritage Corridor	stations	6
+ North Line	stations	22
+ West Line	stations	22
+SouthWest Service	stations	13
+Rock Island District	stations	26
+SouthEast Service	stations	13
+Metra Electric District	stations	49
+LINK Train	stations	3
+Atlantic Branch	stations	8
+Hokkaido Shinkansen	stations	4
+Manila Metro Rail Transit System	stations	13
+Spikkestad Line	stations	8
+New Haven Line	stations	30
+Vestfold Line	stations	13
+Incheon Subway Line 1	stations	29
+Cardiff City Line	stations	4
+Dubai Metro	stations	49
+Mandurah railway line	stations	10
+Coryton Line	stations	8
+Kolkata Metro	stations	24
+Kolkata Metro	stations	12
+Kolkata Metro	stations	15
+Circular Line, Taipei Metro	stations	32
+Zhonghe Line, Taipei Metro	stations	5
+Minsterley Branch Line	stations	2
+Blue Line	stations	22
+Enshū Railway Line	stations	18
+Orange Line	stations	18
+Sendai Subway Namboku Line	stations	17
+Gold Line	stations	27
+Expo Line	stations	19
+Wiener Linien	stations	1128
+Wiener Linien	stations	90
+Fremont–Daly City line	stations	19
+Richmond–Fremont line	stations	18
+Pleasanton–Daly City line	stations	18
+Millbrae line	stations	26
+Millbrae line	stations	23
+Gala-Yuzawa Line	stations	2
+Wuhan Metro	stations	96
+Beijing–Tianjin Intercity Railway	stations	(Phase I) 5
+Beijing–Tianjin Intercity Railway	stations	(Phase II) 4
+Beijing–Tianjin Intercity Railway	stations	(Total) 9
+Tehran Metro	stations	93
+Tehran Metro	stations	104
+Valley Metro	stations	32
+Sokolnicheskaya Line	stations	22
+Zamoskvoretskaya Line	stations	22
+BMT Fourth Avenue Line	stations	16
+Milan Metro Line 1	stations	38
+Milan Metro Line 2	stations	35
+Rennes Metro	stations	15
+Milan Metro Line 3	stations	21
+Vaudreuil–Hudson line	stations	18
+Saint-Jérôme line	stations	13
+Deux-Montagnes line	stations	12
+Candiac line	stations	8
+Mont-Saint-Hilaire line	stations	7
+Melba Line	stations	3
+Filyovskaya Line	stations	13
+Koltsevaya Line	stations	12
+Washington Street Elevated	stations	6
+Gloucester to Newport Line	stations	6
+IRT Nostrand Avenue Line	stations	7
+Varsity Line	stations	13
+Varsity Line	stations	2
+Rio de Janeiro Metro	stations	41
+Donghae Bukbu Line	stations	2
+Daejeon Metro Line 1	stations	22
+Schafberg Railway	stations	4
+Yeongdong Line	stations	37
+Gwangju Metro Line 1	stations	20
+Chessington Branch Line	stations	4
+501 Queen	stations	18
+Limavady Railway	stations	7
+Charlestown Elevated	stations	5
+Central Link	stations	16
+M2	stations	16
+M1	stations	15
+Tranz Metro	stations	49
+Beach Pneumatic Transit	stations	1
+Paisley Canal Line	stations	7
+Ōu Main Line	stations	102
+Tokyo Metro Fukutoshin Line	stations	16
+Port Island Line	stations	12
+Namma Metro	stations	30
+Namma Metro	stations	41
+Namma Metro	stations	102.0
+Fukuoka City Subway	stations	35
+508 Lake Shore	stations	18
+504 King	stations	18
+Line 1, Shanghai Metro	stations	28
+Line 2, Shanghai Metro	stations	31
+Line 5, Shanghai Metro	stations	11
+Line 4, Shanghai Metro	stations	26
+Line 3, Shanghai Metro	stations	29
+Belmont railway line	stations	8
+Motherwell to Cumbernauld Line	stations	5
+Aberdeen to Inverness Line	stations	10
+Maryhill Line	stations	7
+Cathcart Circle Lines	stations	21
+Glasgow to Edinburgh via Falkirk Line	stations	9
+North Berwick Line	stations	8
+Keisei Narita Airport Line	stations	8
+Ely to Peterborough Line	stations	3
+Green Line	stations	14
+Trams in Oslo	stations	99
+Multi-Modal Transport System	stations	36
+Guadalajara light rail system	stations	29
+Airport Line	stations	10
+Newark Line	stations	22
+Schuylkill Valley Metro	stations	20
+Hertford Loop Line	stations	11
+Daegu Metro	stations	59
+Daegu Metro	stations	89
+Bantan Line	stations	18
+SEPTA Main Line	stations	20
+Toei Mita Line	stations	27
+Toei Shinjuku Line	stations	21
+Metro Streetcar	stations	15
+Old Pueblo Trolley	stations	11
+Østfold Line	stations	24
+Hudson Line	stations	29
+New Canaan Branch	stations	5
+Danbury Branch	stations	8
+Port Jervis Line	stations	26
+Waterbury Branch	stations	7
+Eastern Østfold Line	stations	12
+Gjøvik Line	stations	31
+New Haven–Springfield Line	stations	8
+Charlotte Trolley	stations	11
+Chiba Urban Monorail	stations	18
+Suburban Transit Access Route	stations	17
+Tobu Isesaki Line	stations	26
+Grorud Line	stations	16
+Holmenkollen Line	stations	19
+Røa Line	stations	11
+Furuset Line	stations	6
+Saitama Rapid Railway Line	stations	8
+South Wales Main Line	stations	18
+Seoul Subway Line 9	stations	30
+Shinbundang Line	stations	12
+Clifton Rocks Railway	stations	2
+Bishops Waltham branch	stations	3
+Sheffield to Lincoln Line	stations	12
+Kelana Jaya Line	stations	37
+Kaluzhsko-Rizhskaya Line	stations	24
+Sognsvann Line	stations	9
+Lambertseter Line	stations	11
+Ring Line	stations	3
+Østensjø Line	stations	13
+Kolsås Line	stations	12
+Tagansko-Krasnopresnenskaya Line	stations	23
+Doncaster to Lincoln Line	stations	4
+Barton Line	stations	14
+Ebbw Valley Railway	stations	8
+Serpukhovsko-Timiryazevskaya Line	stations	25
+Crouch Valley Line	stations	7
+Mayflower Line	stations	6
+Shenfield to Southend Line	stations	9
+Lyublinsko-Dmitrovskaya Line	stations	20
+MAX Green Line	stations	29
+MAX Orange Line	stations	17
+Kakhovskaya Line	stations	3
+Sunshine Coast Line	stations	12
+Franklin Line	stations	16
+Northern Line	stations	35
+Wirral Line	stations	34
+Seibu Shinjuku Line	stations	29
+Big South Fork Scenic Railway	stations	2
+Borderlands Line	stations	15
+Canada Dock Branch	stations	0
+Grapevine Vintage Railroad	stations	2
+North Mersey Branch	stations	2
+LGV Est	stations	3
+Sentosa Express	stations	4
+Alum Rock–Santa Teresa	stations	36
+Ligne de Cerdagne	stations	22
+Nockebybanan	stations	10
+Stockholm commuter rail	stations	53
+Saltsjöbanan	stations	18
+Nara Line	stations	19
+Lidingöbanan	stations	13
+Daegu Metro Line 2	stations	29
+Beijing–Shanghai High-Speed Railway	stations	24
+Thessaloniki Metro	stations	18
+Gothenburg commuter rail	stations	25
+Sviatoshynsko-Brovarska Line	stations	18
+Metro Transit	stations	37
+Metro Transit	stations	9000
+Metro Transit	stations	14
+Metro Transit	stations	34
+Express Rail Link	stations	6
+Poacher Line	stations	17
+Peterborough to Lincoln Line	stations	6
+Brasília Metro	stations	24
+Cambridge Line	stations	7
+Nottingham to Grantham Line	stations	8
+Coventry to Nuneaton Line	stations	5
+New Mexico Rail Runner Express	stations	16
+New Mexico Rail Runner Express	stations	14
+New Mexico Rail Runner Express	stations	1
+Catania Metro	stations	6
+Salsette-Trombay Railway	stations	9
+Buxton Line	stations	15
+Orange Line	stations	29
+Butovskaya Line	stations	7
+Nottingham to Lincoln Line	stations	13
+Novosibirsk Metro	stations	13
+Flåm Line	stations	11
+Gardermoen Line	stations	5
+TransJakarta	stations	223
+Capital Red Rose Corridor	stations	6
+CDGVAL	stations	5
+CDGVAL	stations	3
+Ofoten Line	stations	7
+Kongsvinger Line	stations	20
+Trunk Line	stations	19
+Nishitetsu Tenjin Ōmuta Line	stations	49
+Bratsberg Line	stations	5
+Meråker Line	stations	6
+Monongahela Incline	stations	2
+Glossop Line	stations	13
+Green Line	stations	24
+Los Teques Metro	stations	5
+Red Line	stations	18
+RER A	stations	46
+RER B	stations	47
+RER C	stations	84
+RER D	stations	59
+RER E	stations	22
+JR Tōzai Line	stations	9
+Purple Line	stations	21
+Birmingham to Worcester via Kidderminster Line	stations	16
+Baltimore Metro Subway	stations	14
+Baltimore Light Rail	stations	33
+Red Line	stations	19
+Warburton railway line	stations	12
+Paris Métro Line 7bis	stations	8
+Paris Métro Line 8	stations	38
+Bellinzona–Mesocco railway	stations	17
+Paris Métro Line 10	stations	23
+Paris Métro Line 13	stations	32
+Drammen Line	stations	17
+Lyon Metro Line B	stations	10
+Lyon Metro Line A	stations	14
+Lyon Metro Line C	stations	5
+Lyon Metro Line D	stations	15
+Towada Kankō Electric Railway Line	stations	11
+Uetsu Main Line	stations	61
+Mountain View–Winchester	stations	38
+Cherwell Valley Line	stations	7
+Oxford to Bicester Line	stations	3
+Princes Risborough to Aylesbury Line	stations	2
+London to Aylesbury Line	stations	16
+Red Line	stations	21
+Yellow Line	stations	37
+Blue Line	stations	Main Line: 44,
+Blue Line	stations	Branch: 8
+Chennai Metro	stations	13
+Chennai Metro	stations	42
+D Line	stations	17
+Kharkiv Metro	stations	30
+Shibayama Railway	stations	2
+Samara Metro	stations	10
+E Line	stations	18
+Methven Branch	stations	10
+Sydney Monorail	stations	8
+Catlins River Branch	stations	18
+F Line	stations	18
+R Line	stations	16
+H Line	stations	14
+Kingston Branch	stations	34
+Kingston Branch	stations	2
+Tobu Ogose Line	stations	8
+Sagami Line	stations	18
+Shin-Keisei Line	stations	24
+Journal Square–33rd Street	stations	8
+Transdev Auckland	stations	42
+Kholodnohirsko–Zavodska Line	stations	13
+Saltivska Line	stations	8
+Oleksiivska Line	stations	9
+Oslo Tunnel	stations	1
+Ryūgasaki Line	stations	3
+Hoboken–World Trade Center	stations	4
+Hoboken–33rd Street	stations	6
+Newark–World Trade Center	stations	6
+Journal Square–33rd Street	stations	9
+7 Subway Extension	stations	1
+Frankfurt U-Bahn	stations	86
+Hankai Line	stations	31
+Hythe Pier	stations	2
+Glasgow South Western Line	stations	26
+Kazan Metro	stations	10
+SEPTA Route 11	stations	10
+SEPTA Route 13	stations	12
+SEPTA Route 36	stations	11
+SEPTA Route 34	stations	10
+Kragerø Line	stations	15
+Arbatsko-Pokrovskaya Line	stations	22
+SEPTA Route 10	stations	8
+Keisei Higashi-Narita Line	stations	2
+Watford DC Line	stations	19
+Chongqing Rail Transit	stations	120
+Gothenburg tram network	stations	131
+Evergreen Extension	stations	6
+Dunsmuir Tunnel	stations	2
+WES Commuter Rail	stations	5
+Hrubieszów–Sławków Południowy LHS railway	stations	6
+Southwest LRT	stations	18
+Malaysia Federal Route 74	stations	4
+Silver Line	stations	28
+Biotren	stations	24
+Rhine-Ruhr S-Bahn	stations	124
+Cercanías Madrid	stations	90
+Hankyū Imazu Line	stations	10
+Music City Star	stations	6
+Sprinter	stations	15
+Turin Metro	stations	21
+Nuremberg U-Bahn	stations	46
+University Line	stations	14
+Blue Line	stations	24
+Medellín Metro	stations	27
+Bromley North Line	stations	3
+Masivo Integrado de Occidente	stations	77
+Sendai Subway	stations	30
+Ashford to Ramsgate	stations	11
+Tramways in Île-de-France	stations	186
+Minsk Metro	stations	29
+Maskoŭskaja Line	stations	15
+Aŭtazavodskaja Line	stations	14
+Dnipropetrovsk Metro	stations	6
+Rigi Railways	stations	27
+Kryvyi Rih Metrotram	stations	15
+Yerevan Metro	stations	10
+South Gippsland railway line	stations	18
+Link light rail	stations	21
+Link light rail	stations	13
+Link light rail	stations	9
+Las Colinas APT System	stations	4
+Naples Metro	stations	26
+Kolkata Suburban Railway	stations	348
+Pink Line	stations	22
+Far Rockaway Branch	stations	7
+Grenaa Line	stations	16
+Ferrocarril Suburbano de la Zona Metropolitana del Valle de México	stations	7
+HSL 1	stations	1
+HSL 2	stations	0
+Astram Line	stations	22
+HSL 3	stations	0
+Chichibu Main Line	stations	35
+California–Nevada Interstate Maglev	stations	6
+Belfast–Newry railway line	stations	18
+Człuchów–Słosinko railway	stations	12
+FrontRunner	stations	17
+Purple Line	stations	8
+Keikyū Main Line	stations	50
+Capital MetroRail	stations	9
+Cercanías Málaga	stations	26
+Old Colony and Newport Scenic Railway	stations	2
+Baku Metro	stations	25
+506 Carlton	stations	18
+Sōbu Line	stations	10
+Sabah State Railway	stations	15
+Belfast–Bangor railway line	stations	14
+Coleraine–Portrush railway line	stations	4
+Belfast–Larne railway line	stations	18
+Port Washington Branch	stations	12
+Bremen S-Bahn	stations	46
+Everline	stations	15
+Mascouche line	stations	13
+Sha Tin to Central Link	stations	8
+Sha Tin to Central Link	stations	2
+Tacoma Link	stations	6
+Chojnice–Runowo Pomorskie railway	stations	25
+Blackpool Branch Lines	stations	13
+Oakham to Kettering Line	stations	1
+Edinburgh to Aberdeen Line	stations	29
+Linimo	stations	9
+Chynoweth–Almaden	stations	3
+Streetcars in Kenosha, Wisconsin	stations	17
+Rotterdam Metro	stations	62
+Kirnitzschtal tramway	stations	9
+Yekaterinburg Metro	stations	9
+DART Underground	stations	6
+Transandine Railway	stations	17
+Keifuku Electric Railroad	stations	13
+Keifuku Electric Railroad	stations	9
+Henley Branch Line	stations	4
+505 Dundas	stations	18
+Keisei Oshiage Line	stations	6
+Hanover Stadtbahn	stations	196
+Nanjing Metro	stations	121
+Ōigawa Railway Ikawa Line	stations	14
+Hanover S-Bahn	stations	74
+Nippori-Toneri Liner	stations	13
+Busan Metro	stations	102
+Busan Metro	stations	121
+Nippō Main Line	stations	111
+Hong Kong International Airport Automated People Mover	stations	5
+Coast Line	stations	14
+Kitakami Line	stations	17
+Manila Light Rail Transit System Line 1	stations	20
+Manila Light Rail Transit System Line 2	stations	11
+Gråkallen Line	stations	21
+Moscow Monorail	stations	6
+Bordeaux tramway	stations	90
+Port Jefferson Branch	stations	10
+Onehunga Branch	stations	3
+T Third Street	stations	30
+Yosan Line	stations	94
+Nambour and Gympie North railway line	stations	29
+North County Transit District	stations	15
+North County Transit District	stations	8
+AREX	stations	11
+Lille Metro	stations	60
+Crewe to Derby Line	stations	11
+Odderbanen	stations	18
+Valdres Line	stations	28
+Nærum Line	stations	8
+London Overground	stations	112
+Gribskov Line	stations	19
+Liverpool–Parramatta T-way	stations	35
+Bursaray	stations	38
+Edmonton Light Rail Transit	stations	18
+Le Havre tramway	stations	23
+Grenoble tramway	stations	81
+Yokohama Line	stations	20
+Rouen tramway	stations	31
+Nantes tramway	stations	83
+Keikyū Daishi Line	stations	7
+Keikyū Kurihama Line	stations	9
+Nizhny Novgorod Metro	stations	14
+Marlow Branch Line	stations	5
+Funiculaire du Havre	stations	2
+Kosei Line	stations	21
+Koumi Line	stations	31
+Slough to Windsor & Eton Line	stations	2
+Yokohama Municipal Subway	stations	42
+Greenbush Line	stations	10
+Kōtoku Line	stations	29
+Valenciennes tramway	stations	28
+Karachi Circular Railway	stations	23
+Otago Central Railway	stations	3
+Needham Line	stations	12
+Old Colony Lines	stations	6
+Old Colony Lines	stations	7
+Old Colony Lines	stations	4
+Haverhill Line	stations	14
+Rockport Line	stations	12
+Rockport Line	stations	14
+Kolkata Circular Railway	stations	23
+Rede Integrada de Transporte	stations	21
+Chintamani, Karnataka	stations	1
+St Kilda railway line	stations	5
+Metrovalencia	stations	137
+Cercanías Bilbao	stations	54
+Baltimore – Washington D.C. Maglev	stations	3
+Cologne Stadtbahn	stations	233
+Stuttgart S-Bahn	stations	83
+Sakurajima Line	stations	4
+Skagensbanen	stations	10
+Caen Guided Light Transit	stations	34
+List of MARTA rail stations	stations	38
+Stuttgart Stadtbahn	stations	203
+Keiō New Line	stations	4
+NightRide	stations	120
+Nice tramway	stations	21
+502 Downtowner	stations	18
+503 Kingston Rd	stations	18
+Vienna S-Bahn	stations	181
+Stoughton Line	stations	15
+Nesttun–Os Line	stations	14
+Oyster Bay Branch	stations	10
+Babylon Branch	stations	14
+Montauk Branch	stations	33
+Ronkonkoma Branch	stations	15
+Long Beach Branch	stations	5
+West Hempstead Branch	stations	5
+Hempstead Branch	stations	9
+Wairarapa Line	stations	27
+Rikuu West Line	stations	10
+Woodside railway line	stations	6
+Tösstal railway line	stations	17
+Kishigawa Line	stations	14
+Roxburgh Branch	stations	18
+Eyreton Branch	stations	10
+Tazawako Line	stations	19
+Beijing–Guangzhou Railway	stations	53
+Oxford Branch	stations	13
+Little River Branch	stations	7
+Nangang Line, Taipei Metro	stations	12
+Banqiao Line, Taipei Metro	stations	6
+Whitecliffs Branch	stations	7
+Te Aro Extension	stations	1
+Sandown railway line	stations	4
+Main North Line, New Zealand	stations	65
+Main North Line, New Zealand	stations	18
+Maracaibo Metro	stations	6
+Sentosa Monorail	stations	7
+Picc-Vic tunnel	stations	5
+G:link	stations	16
+Metro Area Express	stations	87
+Istanbul Metro	stations	73
+Istanbul Metro	stations	71
+Yamada Line	stations	14
+Domyoji Line	stations	3
+Shepparton railway line	stations	12
+Piangil railway line	stations	5
+West London Tram	stations	40
+Osaka Monorail Main Line	stations	14
+Nankai Airport Line	stations	3
+Deniliquin railway line	stations	3
+Trent Valley Line	stations	8
+Marseille tramway	stations	32
+Healesville railway line	stations	6
+Red Hill railway line	stations	3
+Mildura railway line	stations	9
+E Embarcadero	stations	18
+Omsk Metro	stations	4
+Red Rock Corridor	stations	5
+Metronit	stations	143
+Optibus	stations	65
+Vélo'v	stations	340
+Strzelecki railway line	stations	8
+Outtrim railway line	stations	3
+Nuremberg S-Bahn	stations	75
+Ban'etsu West Line	stations	44
+Metrorail Western Cape	stations	122
+Nikkō Line	stations	7
+Olive Mount chord	stations	0
+North Warwickshire Line	stations	20
+Geibi Line	stations	44
+Abukuma Express Line	stations	23
+Pittsburgh Light Rail	stations	53
+Aterazawa Line	stations	11
+Harcourt Street railway line	stations	10
+Blue Line	stations	32
+Sagami Railway Main Line	stations	18
+Sagami Railway Izumino Line	stations	8
+Tōkyū Ōimachi Line	stations	15
+Dorfbahn Serfaus	stations	4
+Tōkyū Ikegami Line	stations	15
+Rugby–Birmingham–Stafford Line	stations	21
+Tōkyū Setagaya Line	stations	10
+Keikyū Airport Line	stations	7
+JR Kobe Line	stations	38
+Gmunden Tramway	stations	8
+Keikyū Zushi Line	stations	4
+Genoa Metro	stations	8
+Dresden S-Bahn	stations	48
+Marseille Metro	stations	28
+Airport Rail Link	stations	8
+Toulouse Metro	stations	37
+Tōbu Utsunomiya Line	stations	11
+Port Klang Line	stations	34
+Charleroi Metro	stations	48
+Ftrmetro Swansea	stations	27
+Tōbu Nikkō Line	stations	26
+Mikuni Awara Line	stations	23
+The Loop	stations	8
+Chertsey Branch Line	stations	4
+Sakura-dōri Line	stations	21
+Thamshavn Line	stations	6
+Kōnan Railway Kōnan Line	stations	13
+Kōnan Railway Ōwani Line	stations	14
+San Diego Metropolitan Transit System	stations	53
+Kabe Line	stations	12
+Flower Nagai Line	stations	17
+Halton Curve	stations	4
+Nyon–St-Cergue–Morez Railway	stations	17
+Dudley Railway Tunnel	stations	2
+North-West T-way	stations	31
+Trams in Alexandria	stations	140
+City Tunnel	stations	3
+Memphis Suspension Railway	stations	2
+Didcot, Newbury and Southampton Railway	stations	17
+Yonesaka Line	stations	20
+Lambourn Valley Railway	stations	9
+Marble Bar Railway	stations	12
+Macau Light Rail Transit	stations	21
+Ascot to Guildford Line	stations	8
+Pyongui Line	stations	31
+Montreal Metro	stations	68
+Odakyū Tama Line	stations	8
+Santo Domingo Metro	stations	30
+Nagoya Municipal Subway	stations	87
+Tōgane Line	stations	5
+Askern Branch Line	stations	3
+Taebaek Line	stations	21
+Iwate Galaxy Railway Line	stations	16
+Brunswick Line	stations	19
+Camden Line	stations	12
+Krøderen Line	stations	5
+Dudding Hill Line	stations	0
+Picton – Mittagong loop railway line	stations	9
+Greenwich Line	stations	4
+Asker Line	stations	2
+Unanderra – Moss Vale railway line	stations	9
+Valley Metro Rail	stations	35
+Nankō Port Town Line	stations	10
+Imazatosuji Line	stations	11
+Midōsuji Line	stations	20
+South West Rail Link	stations	3
+Common Tunnel	stations	6
+Cronulla railway line	stations	7
+Richmond railway line	stations	11
+Rjukan Line	stations	5
+Tinnoset Line	stations	7
+Chelyabinsk Metro	stations	4
+Chelyabinsk Metro	stations	8
+Main Line	stations	29
+Chennai Suburban Railway	stations	73
+Kashihara Line	stations	17
+Saint-Étienne tramway	stations	37
+Bay Ridge Branch	stations	8
+Cedarhurst Cut-off	stations	3
+Keio Sagamihara Line	stations	12
+Kashima Railway Line	stations	17
+Stavne–Leangen Line	stations	1
+Suryeo Line	stations	21
+RTD Bus & Rail	stations	53
+Galveston Island Trolley	stations	22
+Changi Airport Skytrain	stations	7
+Rhine-Main S-Bahn	stations	111
+North Island Line	stations	2
+Keihanna Line	stations	8
+Itō Line	stations	6
+Henbury Loop Line	stations	5
+Trondheim Tramway	stations	21
+Indore City Bus	stations	426
+Nishitetsu Kaizuka Line	stations	10
+Oslo Port Line	stations	2
+Hisatsu Line	stations	28
+Trøndelag Commuter Rail	stations	35
+Lausanne Metro	stations	28
+Lausanne Metro	stations	15
+Lausanne Metro	stations	14
+Ila Line	stations	6
+Tashkent Metro	stations	29
+Valparaíso Metro	stations	20
+Uchibō Line	stations	30
+Sag Harbor Branch	stations	3
+Sotobō Line	stations	27
+Bergen Light Rail	stations	25
+Lisburn–Antrim railway line	stations	6
+Bonn Stadtbahn	stations	81
+Southern Hempstead Branch	stations	5
+Manhattan Beach Branch	stations	8
+Montmartre Funicular	stations	2
+Main Suburban railway line	stations	17
+Reichenbachfall funicular	stations	3
+Whitestone Branch	stations	5
+Tobu Daishi Line	stations	2
+Kure Line	stations	28
+New Athos Cave Railway	stations	3
+Tamsui Line	stations	17
+Tamsui Line	stations	11
+Funiculaire de Pau	stations	2
+Rockaway Beach Branch	stations	19
+Hokusō Line	stations	15
+Tōyō Rapid Railway Line	stations	9
+Disney Resort Line	stations	4
+Downtown MRT Line	stations	18
+Kawasaki Municipal Subway	stations	11
+Akō Line	stations	19
+Sōya Main Line	stations	54
+Hankyu Senri Line	stations	11
+Sekishō Line	stations	15
+Sekihoku Main Line	stations	40
+Chitose Line	stations	15
+Nemuro Main Line	stations	68
+U4	stations	15
+Hakubi Line	stations	28
+Nagareyama Line	stations	6
+Wadamisaki Line	stations	2
+Sanyo Electric Railway Main Line	stations	43
+South Lake Union Streetcar	stations	11
+Meitetsu Nagoya Main Line	stations	60
+Arlberg railway	stations	31
+Yamada Line	stations	28
+Iwaizumi Line	stations	9
+San'in Main Line	stations	159
+Kisei Main Line	stations	96
+Vallvidrera Funicular	stations	3
+Wakayama Line	stations	36
+Sakurai Line	stations	14
+Hyderabad Metro Rail	stations	64
+Kominato Line	stations	18
+Kururi Line	stations	14
+Ikoma Line	stations	12
+InterCity	stations	110
+Commuter	stations	95
+Transmetro	stations	37
+Kakogawa Line	stations	21
+Penang Hill Railway	stations	8
+Hangzhou Metro	stations	57
+Muroran Main Line	stations	45
+Hidaka Main Line	stations	29
+Chōshi Electric Railway Line	stations	10
+Chengdu Metro	stations	87
+Fallowfield Loop Line	stations	10
+Higashiyama Line	stations	22
+Tsurumai Line	stations	20
+Meikō Line	stations	7
+Meijō Line	stations	28
+Valencia Metro	stations	7
+Kapiti Line	stations	16
+Hutt Valley Line	stations	18
+Melling Branch	stations	2
+Kūkō Line	stations	13
+Nanakuma Line	stations	16
+Hakozaki Line	stations	7
+Ibusuki Makurazaki Line	stations	36
+San Juan-Caguas Rail	stations	5
+Toyama Light Rail Toyamakō Line	stations	12
+Daejeon Metro	stations	22
+Aerotrain	stations	2
+Bielefeld Stadtbahn	stations	62
+Silom Line	stations	13
+Sukhumvit Line	stations	22
+Penn Line	stations	13
+Ohmi Railway Yōkaichi Line	stations	7
+Sulitjelma Line	stations	11
+Monkey Park Monorail Line	stations	3
+Johnsonville Branch	stations	8
+Keiō Dōbutsuen Line	stations	2
+Bottineau LRT	stations	10
+National Motor Museum Monorail	stations	2
+Keiō Takao Line	stations	7
+Yahiko Line	stations	8
+Hakushin Line	stations	10
+Echigo Line	stations	32
+Dublin–Cork railway line	stations	18
+Murmansk–Nikel Railway	stations	11
+Limerick–Rosslare railway line	stations	7
+Dublin–Rosslare railway line	stations	29
+Karatsu Line	stations	13
+Jurong Bird Park Panorail	stations	3
+Obama Line	stations	24
+Arlanda Line	stations	3
+Line A	stations	27
+Tenerife Tram	stations	27
+Gotemba Line	stations	19
+Oresund Line	stations	4
+Ion rapid transit	stations	19
+MBTA Subway	stations	133
+Ikoma Cable Line	stations	5
+Narita Airport Terminal 2 Shuttle System	stations	2
+Picton to Battersby Line	stations	7
+Holmfirth Branch Line	stations	2
+Emsland test facility	stations	1
+Hirtshalsbanen	stations	13
+Trieste–Opicina tramway	stations	13
+London Crosslink	stations	19
+Wing Shuttle	stations	6
+Meitetsu Komaki Line	stations	14
+Seaford Branch Line	stations	5
+Meitetsu Toyokawa Line	stations	5
+Chingford Branch Line	stations	5
+Hampton Court Branch Line	stations	2
+Palma Metro	stations	16
+Yokkaichi Asunarou Railway Hachiōji Line	stations	2
+Yokkaichi Asunarou Railway Utsube Line	stations	8
+Meran Tramway	stations	8
+Bolzano Tramway	stations	8
+Überetsch Railway	stations	6
+Taufers Railway	stations	7
+Mendel Funicular	stations	2
+Putrajaya Monorail	stations	23
+Newcastle railway line, New South Wales	stations	1
+Rittnerbahn	stations	5
+Gardena Ronda Express	stations	2
+Meitetsu Hiromi Line	stations	11
+Meitetsu Inuyama Line	stations	17
+Meitetsu Tokoname Line	stations	23
+Meitetsu Toyota Line	stations	8
+Meitetsu Kakamigahara Line	stations	18
+Tumbarumba railway line	stations	16
+Trans-Dublin	stations	31
+Oberon railway line	stations	4
+Bethpage Branch	stations	2
+Rapid Rail	stations	80
+Strasbourg tramway	stations	72
+Lyon tramway	stations	80
+Lyon tramway	stations	4
+Nichinan Line	stations	28
+Rantarata	stations	28
+Tenri Line	stations	4
+Tadami Line	stations	38
+Oga Line	stations	9
+Shinonoi Line	stations	15
+Shepperton Branch Line	stations	6
+Île-de-France tramway Line 1	stations	36
+Île-de-France tramway Line 2	stations	24
+Île-de-France tramway Line 4	stations	11
+Split Suburban Railway	stations	7
+Hōhi Main Line	stations	37
+Misumi Line	stations	9
+Gotōji Line	stations	6
+Hitahikosan Line	stations	23
+Sasaguri Line	stations	11
+Chikuhō Main Line	stations	25
+Kashii Line	stations	16
+Miyazaki Kūkō Line	stations	2
+Dublin–Sligo railway line	stations	21
+Meon Valley Railway	stations	9
+Line 5 Eglinton	stations	2561
+Sheppard East LRT	stations	26
+Finch West LRT	stations	19
+Greytown Branch	stations	2
+GO-ALRT	stations	25
+Flying Dutchman Funicular	stations	2
+Meitetsu Mikawa Line	stations	23
+Northport Branch	stations	1
+Belfast–Derry railway line	stations	15
+Rail transport in Vatican City	stations	1
+Airport Transit System	stations	5
+Shenyang Metro	stations	43
+High Speed 2	stations	46
+Cuckoo Line	stations	8
+Main Railway	stations	12
+Trolleybuses in Mérida	stations	15
+Santa Clara Valley Transportation Authority light rail	stations	62
+Karlsruhe Stadtbahn	stations	190
+Keisei Kanamachi Line	stations	3
+CFL Line 50	stations	7
+Vélib'	stations	1229
+Fredericksburg Line	stations	12
+Bicing	stations	420
+Kashima Line	stations	6
+Subway	stations	8
+Skyway	stations	4
+Mito Line	stations	16
+Robertson Tunnel	stations	1
+Meitetsu Nishio Line	stations	14
+Changchun Rail Transit	stations	49
+Oulu–Kontiomäki railway	stations	6
+Tokushima Line	stations	24
+Takayama Main Line	stations	45
+Dosan Line	stations	61
+The Plane Train	stations	8
+Denver International Airport Automated Guideway Transit System	stations	4
+Line 3, Taipei Metro	stations	20
+Line 2, Taipei Metro	stations	30
+Volgograd Metrotram	stations	22
+Buenos Aires Northern Railway	stations	9
+Aichi Loop Line	stations	23
+Tōkai Transport Service Jōhoku Line	stations	6
+Khyber train safari	stations	5
+Swift Bus Rapid Transit	stations	33
+Yoshino Line	stations	16
+Line 6, Shanghai Metro	stations	28
+Line 9, Shanghai Metro	stations	26
+Line 8, Shanghai Metro	stations	30
+Isumi Line	stations	14
+ExpressTram	stations	3
+Croxley Rail Link	stations	3
+Line 5,	stations	23
+Exeter to Plymouth railway of the LSWR	stations	24
+Camp Hill Line	stations	0
+Aizu Line	stations	21
+Gracefield Branch	stations	1
+Ohmi Railway Taga Line	stations	3
+Holbrook railway line	stations	4
+Montreal and Southern Counties Railway	stations	35
+Osaka Monorail Saito Line	stations	5
+Katsuyama Eiheiji Line	stations	22
+Genting Monorail	stations	2
+Weesp–Leiden railway	stations	9
+Dun Mountain Railway	stations	2
+Dun Mountain Railway	stations	4
+Fortaleza Metro	stations	28
+Tide Light Rail	stations	11
+Algiers Metro	stations	14
+Kerang–Koondrook Tramway	stations	4
+Yamaguchi Line	stations	28
+Manassas Line	stations	10
+Gyeongbu High Speed Railway	stations	6
+Barcelona–Vallès Line	stations	34
+Shiraz Metro	stations	8
+Shiraz Metro	stations	23
+Maizuru Line	stations	6
+Miyafuku Line	stations	14
+Miyazu Line	stations	19
+Cleator and Workington Junction Railway	stations	12
+Tawaramoto Line	stations	8
+Heathrow Airtrack	stations	13
+SRT Red Lines	stations	58
+Tsugaru Railway	stations	12
+Akita Nairiku Line	stations	29
+Fukushima Kōtsū Iizaka Line	stations	12
+Chōkai Sanroku Line	stations	12
+Mooka Line	stations	17
+Jōshin Dentetsu Jōshin Line	stations	20
+Etsumi-Nan Line	stations	38
+Izu Kyūkō Line	stations	16
+Gakunan Railway Line	stations	10
+Hokuhoku Line	stations	12
+Minato Line	stations	9
+Tenryū Hamanako Line	stations	37
+Ueda Electric Railway Bessho Line	stations	15
+Fujikyuko Line	stations	18
+Chikuhō Electric Railroad Line	stations	21
+Minamiaso Railway Takamori Line	stations	9
+Shimabara Railway Line	stations	44
+Hōjō Line	stations	8
+Kishū Railway Line	stations	5
+Miki Railway Miki Line	stations	9
+Wakasa Line	stations	9
+Nanao Line	stations	208
+Nishi-Shigi Cable Line	stations	2
+Rokko Cable Line	stations	2
+Hachinohe Rinkai Railway Line	stations	2
+Keiyō Rinkai Railway Rinkai Main Line	stations	10
+Ōminato Line	stations	11
+METRORail University Line	stations	19
+METRORail Uptown Line	stations	9
+METRORail Red Line	stations	24
+Sochi Light Metro	stations	24
+Downs Light Railway	stations	1
+Ōito Line	stations	42
+İzmir Metro	stations	17
+Green Line	stations	10
+Sendai Subway Tōzai Line	stations	13
+METRORail Purple Line	stations	11
+Nelson Section	stations	25
+Mexico City Metro Line 5	stations	13
+Mexico City Metro Line 1	stations	20
+Line 1, Taipei Metro	stations	24
+Sinansan Line	stations	13
+Reading to Basingstoke Line	stations	5
+Lynx Red Line	stations	10
+Lynx West Corridor	stations	12
+Lynx Silver Line	stations	13
+CityLynx Gold Line	stations	6
+CityLynx Gold Line	stations	34
+Sunway Monorail	stations	3
+Northlander	stations	14
+Porto Alegre Metro	stations	22
+Northern Link	stations	2
+Mont Park railway line	stations	1
+Almaty Metro	stations	9
+Seibu Yūrakuchō Line	stations	3
+Belo Horizonte Metro	stations	19
+Recife Metro	stations	29
+Teresina Metro	stations	9
+Toulouse tramway	stations	27
+Mexico City Metro Line 2	stations	24
+Mexico City Metro Line 3	stations	21
+Nouméa-Païta railway	stations	8
+Tobu Kameido Line	stations	5
+Roa–Hønefoss Line	stations	7
+Brevik Line	stations	0
+Lilleaker Line	stations	9
+Solbergfoss Line	stations	5
+Skreia Line	stations	12
+Ålgård Line	stations	10
+KA Commuter Jabodetabek	stations	78
+Reims tramway	stations	23
+Robinvale railway line	stations	12
+Macclesfield, Bollington and Marple Railway	stations	6
+Gantoku Line	stations	15
+McCarran International Airport Automated People Movers	stations	4
+AeroTrain	stations	4
+Transperth Trains	stations	70
+Furano Line	stations	18
+Trams in Norrköping	stations	50
+Taita Line	stations	8
+Horten Line	stations	7
+Lier Line	stations	8
+Sperillen Line	stations	5
+Tønsberg–Eidsfoss Line	stations	18
+Thomson-East Coast MRT Line	stations	31
+Xi'an Metro	stations	66
+Yverdon–Ste-Croix railway	stations	10
+Minobu Line	stations	39
+Premetro	stations	17
+Dublin–Navan railway line	stations	10
+Métro léger de Tunis	stations	66
+Satellite Transit System	stations	6
+M1	stations	23
+Metrobus	stations	45
+Montpellier tramway	stations	84
+Blue Line	stations	18
+Orange Line	stations	19
+Green Line	stations	27
+Rome–Lido railway	stations	13
+Northern Lights Express	stations	6
+Meishō Line	stations	15
+Dalian Metro	stations	30
+Dalian Metro	stations	56
+Sagano Scenic Railway	stations	4
+Nishi-Kyūshū Line	stations	57
+Hertford East Branch Line	stations	4
+SuperVia	stations	100
+Silverton Tramway	stations	6
+Chūō Line	stations	24
+Nantes Busway	stations	15
+Sydney Metro Northwest	stations	13
+Mumbai Monorail	stations	17
+Line rail service	stations	13
+Manukau Branch	stations	1
+Line rail service	stations	8
+Incheon Subway Line 2	stations	27
+Oslo Commuter Rail	stations	128
+Bergen Commuter Rail	stations	28
+Brescia Metro	stations	17
+Shimizukō Line	stations	6
+Chennai BRTS	stations	21
+Toba Line	stations	5
+Line 7, Shanghai Metro	stations	33
+Line 10, Shanghai Metro	stations	31
+Line 11, Shanghai Metro	stations	38
+Shima Line	stations	16
+Crowes railway line	stations	23
+Whitfield railway line	stations	17
+Kochi Metro	stations	23
+Jakarta Mass Rapid Transit	stations	13
+Sangū Line	stations	11
+Bordeaux Tramway Line A	stations	41
+LAX Line	stations	8
+Suzuka Line	stations	5
+Minneapolis–St. Paul Airport Trams	stations	2
+Minneapolis–St. Paul Airport Trams	stations	4
+Yunoyama Line	stations	10
+Løren Line	stations	1
+Tram route 3	stations	27
+Busan–Gimhae Light Rail Transit	stations	21
+Red Line	stations	25
+Yodo Line	stations	20
+Esashi Line	stations	12
+Meitetsu Bisai Line	stations	22
+Sangi Railway Hokusei Line	stations	13
+Southern Line	stations	28
+Córdoba Metro	stations	26
+Suigun Line	stations	45
+Falaknuma – Secunderabad route	stations	12
+Falaknuma – Hyderabad route	stations	17
+Bolarum – Secunderabad route	stations	11
+Falaknuma – Lingampally route	stations	22
+Hyderabad – Lingampally route	stations	13
+Mansfield railway line	stations	16
+Ringerike Line	stations	4
+Cuyahoga Valley Scenic Railroad	stations	10
+Red Line	stations	28
+Green Line	stations	20
+Seibu Haijima Line	stations	8
+Green Line	stations	18
+Bochum Stadtbahn	stations	21
+Ahmedabad BRTS	stations	150
+Airport Express, Beijing Subway	stations	4
+Tōbu Kiryū Line	stations	8
+Meitetsu Seto Line	stations	20
+Line 4, Beijing Subway	stations	24
+Line 9, Beijing Subway	stations	12
+Line 7, Beijing Subway	stations	19
+Line 14, Beijing Subway	stations	7
+Line 8, Beijing Subway	stations	19
+Meitetsu Tsushima Line	stations	8
+Line 6, Beijing Subway	stations	27
+Bordeaux Tramway Line C	stations	17
+Düsseldorf Stadtbahn	stations	161
+Fangshan Line, Beijing Subway	stations	11
+Daxing Line, Beijing Subway	stations	11
+Yizhuang Line, Beijing Subway	stations	13
+TEDA Modern Guided Rail Tram	stations	14
+ATL Skytrain	stations	3
+Dammam–Riyadh Line	stations	4
+Sanyo Electric Railway Aboshi Line	stations	7
+MetroMoves	stations	72
+Stansted Airport Transit System	stations	3
+Ōigawa Railway Ōigawa Main Line	stations	19
+Taketoyo Line	stations	10
+Meitetsu Gamagōri Line	stations	10
+Western FastRail	stations	10
+Line 2	stations	11
+Line 3	stations	20
+Line 1	stations	11
+Line 4	stations	10
+Bogotá Metro	stations	27
+Ube Line	stations	18
+Kishin Line	stations	36
+Kibi Line	stations	10
+Guangzhou–Shenzhen–Hong Kong Express Rail Link Hong Kong section	stations	1
+Inbi Line	stations	19
+MRT Orange Line	stations	30
+MRT Purple Line	stations	16
+MRT Yellow Line	stations	20
+Beijing Suburban Railway	stations	6
+MRT Brown Line	stations	21
+MRT Pink Line	stations	30
+Line C	stations	21
+Pune Metro	stations	30
+Fort McMurray Transit	stations	3
+Lille tramway	stations	36
+Suzhou Rail Transit	stations	59
+Hokuriku Railroad Asanogawa Line	stations	12
+Hokuriku Railroad Ishikawa Line	stations	17
+Palm Jumeirah Monorail	stations	41
+Málaga Metro	stations	17
+Uno Line	stations	15
+Honshi-Bisan Line	stations	6
+Pasig River Ferry Service	stations	14
+Annandale	stations	8
+South Pasadena Local	stations	7
+Lamanda Park	stations	3
+North Lake	stations	21
+Monrovia–Glendora	stations	39
+Senmō Main Line	stations	27
+Uchiko Line	stations	4
+Sungai Buloh-Kajang MRT Line	stations	31
+Line S2, BCR	stations	9
+East Washington	stations	10
+Glendale-Burbank	stations	21
+Al Bidaoui	stations	11
+Sukumo Line	stations	8
+Nakamura Line	stations	15
+Nilambur–Shoranur railway line	stations	11
+Happy Line	stations	7
+Window of the World Monorail	stations	3
+Miami Seaquarium Spacerail	stations	1
+Taedok Science Town Monorail	stations	3
+Kochelsee Railway	stations	7
+Mirboo North railway line	stations	5
+Tosa Kuroshio Railway Asa Line	stations	20
+West Link	stations	3
+Tsugaru Line	stations	18
+Whitehaven, Cleator and Egremont Railway	stations	12
+Bergen's Electric Tramway	stations	15
+Voss Line	stations	39
+Richmond–Kurrajong railway line	stations	6
+Etsumi-Hoku Line	stations	22
+Keihan Nakanoshima Line	stations	5
+Gonō Line	stations	43
+Glasgow to Aberdeen Line	stations	24
+Indiana University Health People Mover	stations	3
+Fashion Island	stations	4
+Alexandra railway line	stations	2
+Chiang Mai Zoo	stations	4
+Line 1	stations	18
+Line 2	stations	12
+Line 6	stations	4
+Pasadena via Oak Knoll	stations	19
+Sierra Madre	stations	24
+San Fernando	stations	36
+Line 15, Beijing Subway	stations	18
+Pasadena Short Line	stations	14
+Seibu Toshima Line	stations	2
+Red Line	stations	28
+Blue Line	stations	24
+Daiyūzan Line	stations	12
+Seibu Sayama Line	stations	3
+Angers tramway	stations	25
+Seibu Seibu-en Line	stations	2
+Honolulu Rail Transit	stations	21
+Baghdad Metro	stations	41
+Avoca railway line	stations	4
+Chard Branch Line	stations	8
+Mogadishu–Villabruzzi Railway	stations	7
+Cudgewa railway line	stations	4
+Wahgunyah railway line	stations	3
+Mangfall Valley Railway	stations	10
+Porte de Clichy	stations	17
+Churnet Valley Line	stations	14
+Seibu Tamako Line	stations	7
+Seibu Kokubunji Line	stations	5
+SüdostBayernBahn	stations	88
+Xiamen BRT	stations	47
+Cairo Metro Line 1	stations	35
+Guangfo Metro	stations	20
+Briagolong railway line	stations	3
+Thorpdale railway line	stations	4
+Căile Ferate Române Line 300	stations	35
+Căile Ferate Române Line 200	stations	43
+Căile Ferate Române Line 700	stations	16
+Căile Ferate Române Line 600	stations	17
+Căile Ferate Române Line 500	stations	34
+Căile Ferate Române Line 800	stations	13
+Căile Ferate Române Line 900	stations	57
+Căile Ferate Române Line 400	stations	37
+Căile Ferate Române Line 1000	stations	7
+Vought Airtrans	stations	33
+Regensburg–Passau railway	stations	17
+Main-Lahn Railway	stations	21
+Kelani Valley Line	stations	25
+Meitetsu Airport Line	stations	3
+Yackandandah railway line	stations	4
+Line 12, Shanghai Metro	stations	32
+Line 6, Taipei Metro	stations	47
+Line 13, Shanghai Metro	stations	19
+Line 4, Taipei Metro	stations	27
+Line B	stations	26
+Changping Line, Beijing Subway	stations	12
+Bright railway line	stations	11
+Ansan Line	stations	14
+SunRail	stations	12
+Metro Transportes do Sul	stations	19
+Christchurch railway station, Dublin	stations	6
+Bickington Steam Railway	stations	3
+METRORail Green Line	stations	7
+METRORail Green Line	stations	2
+Yangon Circular Railway	stations	39
+Redcliffe Peninsula railway line	stations	6
+Creedmoor Branch	stations	6
+Jæren Commuter Rail	stations	19
+Toolamba–Echuca railway line	stations	8
+Fredericia-Aarhus Line	stations	11
+SRT Dark Red Line	stations	36
+SRT Light Red Line	stations	22
+Cairo Metro Line 2	stations	20
+Cairo Metro Line 3	stations	9
+Noto Line	stations	30
+Himi Line	stations	8
+Jōhana Line	stations	14
+Sakai Line	stations	16
+Kisuki Line	stations	18
+Sankō Line	stations	35
+Metrotrén	stations	18
+Fort Pitt Incline	stations	2
+Line 1, Guangzhou Metro	stations	16
+Line 2, Guangzhou Metro	stations	24
+Line 3, Guangzhou Metro	stations	28
+Line 4, Guangzhou Metro	stations	15
+Rhônexpress	stations	4
+Greenline	stations	18
+Zhengzhou Metro	stations	36
+Chandigarh Metro	stations	30
+Kolkata Monorail	stations	37
+Miller's line	stations	3
+Tunnel Railway	stations	2
+Haramain High Speed Rail Project	stations	5
+Turin–Milan railway	stations	18
+Western railway elevated corridor	stations	26
+Zavodskaya line	stations	2
+Mt. Lebanon Tunnel	stations	0
+Lleida–La Pobla Line	stations	17
+Railway electrification in Iran	stations	49
+Trams in Volchansk	stations	13
+Florence–Rome railway	stations	10
+Silver Line	stations	11
+Tovarnaya line	stations	4
+Sernftal tramway	stations	13
+Ozerki line	stations	5
+Nidd Valley Light Railway	stations	4
+Rajkot BRTS	stations	18
+Primorskaya Line	stations	5
+Lucknow Metro	stations	33
+Ammergau Railway	stations	11
+Llobregat–Anoia Line	stations	41
+Skymetro	stations	2
+Moolort railway line	stations	6
+Orbital Railway Line	stations	39
+Rushworth railway line	stations	7
+Guangzhou–Zhuhai Intercity Railway	stations	22
+Branch MRT Line	stations	4
+PHX Sky Train	stations	4
+PHX Sky Train	stations	5
+Cincinnati Bell Connector	stations	18
+Trams in Munich	stations	165
+Line 16, Shanghai Metro	stations	13
+Line 17, Shanghai Metro	stations	13
+Neckar Valley Railway	stations	21
+Tauber Valley Railway	stations	24
+Main–Spessart railway	stations	25
+Odenwald Railway	stations	22
+Odenwald Railway	stations	9
+Central Funicular	stations	4
+Main–Weser Railway	stations	52
+Santa Monica Air Line	stations	15
+Paar Valley Railway	stations	12
+Dublin–Waterford railway line	stations	7
+Palermo metropolitan railway service	stations	16
+Harbin Metro	stations	18
+Niesenbahn funicular	stations	3
+Transport Est-Ouest Rouennais	stations	53
+Kanpur Metro	stations	31
+Franconia Railway	stations	46
+First Hill Streetcar	stations	10
+Line 5, Guangzhou Metro	stations	24
+Nordfyenske Jernbane	stations	16
+Odense–Kerteminde–Martofte Jernbane	stations	19
+Regensburg–Hof railway	stations	28
+Delhi Airport Metro Express	stations	6
+Nordvestfyenske Jernbane	stations	26
+Meitetsu Hashima Line	stations	2
+Meitetsu Takehana Line	stations	10
+Meitetsu Chikkō Line	stations	2
+Meitetsu Kōwa Line	stations	19
+Meitetsu Chita New Line	stations	6
+Ammersee Railway	stations	14
+Mugi Line	stations	30
+Naruto Line	stations	7
+Taunton metro rail	stations	8
+Ban'etsu East Line	stations	16
+S15	stations	19
+S9	stations	23
+South Coast Rail	stations	25
+S40	stations	12
+S8	stations	31
+S6	stations	22
+S16	stations	12
+Trams in Częstochowa	stations	32
+Metrotranvía Mendoza	stations	16
+Tyne Valley Line	stations	16
+Linkou Line	stations	9
+Karasuyama Line	stations	8
+Red Line	stations	33
+Shoranur–Cochin Harbour section	stations	22
+Metro-Link Express for Gandhinagar and Ahmedabad	stations	32
+Gold Line	stations	27
+Blue Line	stations	28
+Upland-San Bernardino	stations	71
+Westgate	stations	18
+Alhambra – San Gabriel	stations	18
+Riverside–Rialto	stations	71
+Balboa	stations	50
+Sawtelle	stations	17
+Badner Bahn	stations	36
+Sherman	stations	8
+Owensmouth	stations	34
+S33	stations	9
+Whitehorse Waterfront Trolley	stations	7
+Vendsyssel Line	stations	10
+Kamaishi Line	stations	24
+Ampang Line	stations	35
+Dubai Tram	stations	11
+Trams in Zagreb	stations	256
+Salvador Metro	stations	8
+Trams in Rome	stations	192
+Melbourne Metro Rail Project	stations	5
+Adana–Mersin railway	stations	11
+Qingdao Metro	stations	10
+Line 1, Shenzhen Metro	stations	30
+Line 4, Shenzhen Metro	stations	15
+Line 1, Tianjin Metro	stations	22
+Ankara–Istanbul high-speed railway	stations	10
+Ankara–Istanbul high-speed railway	stations	12
+S Line	stations	7
+Bankura Damodar Railway	stations	17
+QLINE	stations	12
+A-train	stations	6
+Maybrook Line	stations	0
+Manila Metro Rail Transit System Line 7	stations	14
+Garden City–Mitchel Field Secondary	stations	11
+Trams in Łódź	stations	230
+Sosa–Wonsi Line	stations	12
+Evergreen Branch	stations	8
+Fukui Railway Fukubu Line	stations	23
+South Line, Chennai Suburban	stations	46
+South West Line, Chennai Suburban	stations	39
+Gyeonggang Line	stations	11
+Ui LRT	stations	13
+U Line	stations	15
+Hachinohe Line	stations	25
+Hanawa Line	stations	27
+Violet Line	stations	28
+Line 9, Tianjin Metro	stations	19
+Metrosassari	stations	8
+Line 1, Nanjing Metro	stations	31
+Dresden Park Railway	stations	5
+Meadowlands Rail Line	stations	3
+Green Line	stations	16
+West North Line, Chennai Suburban	stations	40
+West Line, Chennai Suburban	stations	57
+West South Line, Chennai Suburban	stations	61
+North Line, Chennai Suburban	stations	30
+Izuhakone Railway Sunzu Line	stations	13
+Duke University Medical Center Patient Rapid Transit	stations	3
+Ramona Branch	stations	2
+Kanpur Metropolitan Bus Service	stations	106
+Jinshan Railway	stations	8
+Surat BRTS	stations	148
+BikeMi	stations	280
+Albula Railway	stations	12
+Bernina railway	stations	22
+Metro Ligero	stations	37
+Bushwick Branch	stations	6
+Line 3, Tianjin Metro	stations	26
+Milan Metro Line 5	stations	19
+Line 2, Tianjin Metro	stations	19
+Delmar Loop Trolley	stations	10
+Daniel Boone Corridor	stations	6
+Jetrail	stations	3
+Keisei Chihara Line	stations	6
+Chiaia Funicular	stations	4
+Otley and Ilkley Joint Railway	stations	4
+Wuhan–Guangzhou High-Speed Railway	stations	18
+Seattle Streetcar	stations	17
+Bari–Barletta railway	stations	14
+Mergellina Funicular	stations	5
+Istanbul Tram	stations	T1: 31
+Istanbul Tram	stations	T4: 22
+Istanbul nostalgic tramways	stations	5
+Istanbul nostalgic tramways	stations	10
+St. Charles City Streetcar	stations	5
+Lancefield railway line	stations	12
+Jaipur Metro	stations	9
+Jaipur Metro	stations	22
+Beijing–Harbin High-Speed Railway	stations	37
+Inchicore railway station	stations	6
+Montesanto Funicular	stations	3
+FL lines	stations	128
+Guangzhou–Shenzhen–Hong Kong Express Rail Link	stations	5
+Madrid–Leon high-speed rail line	stations	5
+Huntsville Hospital Tram System	stations	4
+Red Line	stations	19
+Gold Line	stations	18
+Blue Line	stations	15
+S1	stations	32
+MIA Mover	stations	2
+Green Line	stations	9
+Dream Catcher Express	stations	2
+Purple Line	stations	8
+Zhujiang New Town Automated People Mover System	stations	9
+Harbour Island People Mover	stations	2
+Atlanta Streetcar	stations	12
+Namboku Line	stations	16
+Tōzai Line	stations	19
+Tōhō Line	stations	14
+Mexico City Metro Line 9	stations	12
+Michigan Line	stations	10
+Line 1	stations	28
+Skipton railway line	stations	7
+Damascus Metro	stations	17
+Tyrol S-Bahn	stations	68
+Lower Inn Valley Railway	stations	21
+Rosenheim–Kufstein railway	stations	9
+Munich–Rosenheim railway	stations	20
+Montclair-Boonton Line	stations	27
+Montclair-Boonton Line	stations	28
+Keiō Keibajō Line	stations	2
+Basel Regional S-Bahn	stations	72
+Hefei Metro	stations	25
+Kinzig Valley Railway	stations	16
+Hainan Eastern Ring High-Speed Railway	stations	15
+Orléans tramway	stations	49
+S2	stations	27
+S4	stations	22
+S3	stations	27
+S5	stations	17
+S6	stations	21
+S7	stations	10
+S8	stations	28
+S9	stations	25
+Mecca Metro	stations	9
+Mecca Metro	stations	81
+High Level Bridge Streetcar	stations	4
+Le Mans tramway	stations	30
+Bangkok BRT	stations	12
+Nancy Guided Light Transit	stations	27
+Line 2, Nanjing Metro	stations	26
+Dublinbikes	stations	102
+Line 1	stations	7
+Busan Metro Line 4	stations	14
+Nuremberg–Bamberg railway	stations	19
+Chongqing−Lichuan Railway	stations	9
+Ningbo Rail Transit	stations	51
+MRT Blue Line	stations	19
+Line 1	stations	12
+Green Line	stations	13
+Green Line	stations	32
+Purple Line	stations	17
+Purple Line	stations	35
+W Line	stations	15
+Grey Line	stations	21
+Light Blue Line	stations	9
+Rodgau Railway	stations	12
+Venice People Mover	stations	3
+La Habra-Yorba Linda	stations	34
+Redondo Beach via Gardena	stations	40
+Fullerton	stations	40
+San Pedro via Dominguez	stations	30
+Santa Ana	stations	30
+San Pedro via Gardena	stations	37
+Kotoden Nagao Line	stations	16
+Beverly Hills	stations	10
+Hawthorne-El Segundo	stations	22
+Long Beach	stations	8
+A Line	stations	8
+CBD Relief Line	stations	4
+Mass Rapid Transit Master Plan in Bangkok Metropolitan Region	stations	93
+Mass Rapid Transit Master Plan in Bangkok Metropolitan Region	stations	*if transfer stations are counted as one
+Chengdu–Dujiangyan Intercity Railway	stations	21
+Rodalies de Catalunya	stations	203
+Beijing–Guangzhou–Shenzhen–Hong Kong High-Speed Railway	stations	46
+Shanghai–Nanjing Intercity Railway	stations	21
+Adana Metro	stations	13
+Stoke Streetcar	stations	12
+Stoke Streetcar	stations	19
+Line 2	stations	25
+Line 10, Nanjing Metro	stations	14
+Santander Cycles	stations	839
+Kunming Rail Transit	stations	33
+Saltburn Cliff Lift	stations	2
+Bebra–Göttingen railway	stations	12
+Seville Metro line 1	stations	22
+Flieden–Gemünden railway	stations	9
+M1	stations	17
+Southern Railway	stations	82
+Seville Metro line 2	stations	18
+Trams in Sarajevo	stations	2013-09-28
+Bebra–Baunatal-Guntershausen railway	stations	13
+Al Mashaaer Al Mugaddassah Metro Southern Line	stations	9
+İzmir–Eğirdir railway	stations	32
+İzmir–Eğirdir railway	stations	47
+Line 16, Beijing Subway	stations	29
+Line 1	stations	59
+Line 8, Guangzhou Metro	stations	13
+Line 6, Guangzhou Metro	stations	20
+TCDD District 1	stations	120
+Cape Flats Line	stations	16
+Eastern Corridor Commuter Rail	stations	10
+Kenwood branch	stations	6
+Navi Mumbai Metro	stations	20
+Bristol Supertram	stations	16
+Nice Ride Minnesota	stations	190
+Central Line	stations	33
+Northern Line	stations	48
+Mass Rapid Transit	stations	71
+Mass Rapid Transit	stations	34
+Mass Rapid Transit	stations	37
+First Coast Commuter Rail	stations	15
+First Coast Commuter Rail	stations	12
+First Coast Commuter Rail	stations	13
+Norristown Line	stations	16
+Elwyn Line	stations	19
+Thorndale Line	stations	26
+Cynwyd Line	stations	3
+Doylestown Line	stations	27
+Warminster Line	stations	17
+West Trenton Line	stations	24
+Hervey Bay	stations	10
+Mainz–Ludwigshafen railway	stations	16
+Furka Cogwheel Steam Railway	stations	6
+Şirinyer Tunnel	stations	1
+Ankara suburban	stations	26
+Shalun Line	stations	3
+Istanbul suburban	stations	19
+DART Light Rail	stations	62
+Bexhill West Branch Line	stations	3
+Nuremberg–Augsburg railway	stations	32
+KTM ETS	stations	44
+Metropolitan main line	stations	8
+Ries Railway	stations	17
+Treuchtlingen–Würzburg railway	stations	14
+Southern Line	stations	18
+Dortmund Stadtbahn	stations	125
+Podgorica–Shkodër railway	stations	3
+Los Angeles Metro Busway	stations	29
+Durrës–Tiranë railway	stations	6
+Ballarat to Daylesford railway line	stations	10
+P	stations	34
+J	stations	82
+R	stations	33
+V	stations	50
+Navi Mumbai Monorail	stations	18
+Pune Monorail	stations	18
+S	stations	67
+5	stations	112
+Maceió Urban Rail	stations	15
+Tobu Kumagaya Line	stations	4
+Tōbu Yaita Line	stations	9
+Tōbu Nikkō Tramway	stations	20
+Tōbu Keishi Line	stations	3
+7	stations	26
+8	stations	27
+9	stations	32
+F	stations	28
+N	stations	21
+W	stations	62
+Shoranur–Mangalore section	stations	40
+3	stations	24
+Incheon Airport Maglev	stations	6
+Nishitetsu Amagi Line	stations	12
+10	stations	9
+Capital Bikeshare	stations	400
+Septemvri-Dobrinishte narrow gauge line	stations	25
+FMetro	stations	18
+El Metropolitano	stations	38
+Chesham branch	stations	2
+SAR North South Railway Line	stations	9
+Pune Suburban Railway	stations	17
+Guangzhou Bus Rapid Transit	stations	26
+Line 9, Guangzhou Metro	stations	11
+Line 7, Guangzhou Metro	stations	15
+Kuala Lumpur–Singapore High Speed Rail	stations	8
+Skytrain	stations	4
+Guruvayur–Thrissur spur line	stations	2
+Panama Metro	stations	14
+Panama Metro	stations	1
+Central Corridor Rail Line	stations	10
+Pacific Coach Lines	stations	Pacific Central Station
+Pacific Coach Lines	stations	700
+Bangalore high-speed rail link	stations	4
+Harbin–Dalian High-Speed Railway	stations	23
+Tsentralno–Zavodska Line	stations	6
+Brussels Regional Express Network	stations	120
+London Necropolis Railway	stations	3
+Würzburg–Bamberg railway	stations	15
+Casablanca Tramway	stations	48
+Mashhad Urban Railway	stations	24
+Chengdu–Chongqing Intercity Railway	stations	12
+Line 3, Shenzhen Metro	stations	30
+Line 2, Shenzhen Metro	stations	29
+Hefei–Bengbu High-Speed Railway	stations	9
+Xuzhou–Lanzhou High-Speed Railway	stations	30
+Timboon railway line	stations	6
+Kiev Light Rail	stations	19
+Line 1	stations	23
+Line 2	stations	14
+Line 3	stations	18
+Munich–Regensburg railway	stations	29
+Sutton Loop Line	stations	14
+Line 4	stations	11
+Line 5	stations	7
+Line 5	stations	10
+Line 6	stations	15
+Line 15	stations	2
+Line 15	stations	18
+Line 16	stations	10
+Line 17	stations	14
+Kotoden Kotohira Line	stations	22
+Kotoden Shido Line	stations	16
+Ahmedabad Monorail	stations	18
+Ludhiana Metro	stations	27
+Faversham miniature railway	stations	1
+Nikšić–Podgorica railway	stations	5
+Cohuna railway line	stations	10
+Bhopal Metro	stations	89
+Leeds New Line	stations	8
+Line 1, Chengdu Metro	stations	22
+Changchun–Jilin Intercity Railway	stations	3
+Line 7	stations	17
+Salzburg-Tyrol Railway	stations	55
+Line 8	stations	24
+Trams in Teschen	stations	11
+Tauern Railway	stations	21
+Cebu Bus Rapid Transit System	stations	33
+Blue Line	stations	10
+Blue Line	stations	22
+Syretsko-Pecherska Line	stations	16
+Kurenivsko-Chervonoarmiyska Line	stations	17
+Mid-Kent Line	stations	9
+Yokohama Minatomirai Railway Kodomonokuni Line	stations	3
+Sapporo Municipal Subway	stations	49
+Nagahori Tsurumi-ryokuchi Line	stations	17
+Sennichimae Line	stations	14
+Sakaisuji Line	stations	10
+Delhi Metro	stations	160
+Tanimachi Line	stations	26
+Yotsubashi Line	stations	11
+EBART	stations	3
+Sungai Buloh-Serdang-Putrajaya MRT Line	stations	37
+U1	stations	20
+U2	stations	21
+U3	stations	28
+U5	stations	16
+Line 5, Shenzhen Metro	stations	27
+U6	stations	15
+U7	stations	21
+U8	stations	19
+Naples–Aversa railway	stations	5
+Esko Prague	stations	295
+Brive-la-Gaillarde–Toulouse	stations	25
+Liujia Line	stations	2
+Almelo–Salzbergen railway	stations	9
+Moret–Lyon railway	stations	61
+Crailsheim–Heilbronn railway	stations	26
+B Line	stations	2
+B Line	stations	8
+Ausserfern Railway	stations	31
+PO Corrèze	stations	20
+Amsterdam–Schiphol railway	stations	4
+Hangzhou BRT	stations	50
+Agen–Vic-en-Bigorre railway	stations	22
+Deventer–Almelo railway	stations	6
+Ordsall Chord	stations	0
+Line 10	stations	14
+Line 11	stations	16
+Line 12	stations	13
+Line 9	stations	18
+Proston railway line	stations	10
+Windera railway line	stations	5
+Line 14	stations	30
+Line 14	stations	3
+Line 13	stations	3
+Amsterdam–Arnhem railway	stations	23
+Nuremberg–Crailsheim railway	stations	16
+Indore Metro	stations	75
+Koralm Railway	stations	12
+Algiers tramway	stations	38
+Line 21, Shanghai Metro	stations	28
+Mortlake railway line	stations	3
+Trailblazer	stations	2
+Ningbo–Taizhou–Wenzhou Railway	stations	13
+Rabat-Salé tramway	stations	31
+City Rail Link	stations	4
+Line 1, Kolkata Metro	stations	24
+Dhaka Metro	stations	under construction: 16
+Dhaka Metro	stations	planned: 52
+Wensleydale railway line	stations	4
+Kolkata Metro Line 2	stations	12
+Silver Line	stations	9
+Pink Line	stations	11
+Orange Line	stations	20
+Fukushima Transportation	stations	12
+M2	stations	16
+M4	stations	19
+Hubway	stations	158
+Jinhua–Wenzhou Railway	stations	7
+Line 1, Chongqing Rail Transit	stations	24
+Line 2, Chongqing Rail Transit	stations	25
+Line 6, Chongqing Rail Transit	stations	33
+Line 3, Chongqing Rail Transit	stations	39
+Taoyuan International Airport Skytrain	stations	2
+Xiaoshan–Ningbo Railway	stations	23
+Beijing–Qinhuangdao Railway	stations	9
+Beijing–Shanhaiguan Railway	stations	22
+Line A	stations	12
+Metrobus	stations	113
+Grodzisk Mazowiecki–Zawiercie railway	stations	29
+Dongguan Rail Transit	stations	15
+Milan suburban railway service	stations	125
+Bixi Montreal	stations	452
+Special Event Line	stations	15
+Toyohashi Railroad Atsumi Line	stations	16
+Polatlı–Konya high-speed railway	stations	1
+G Line	stations	8
+Edirne cut-off	stations	7
+Haydarpaşa suburban	stations	28
+Line 7, Shenzhen Metro	stations	28
+Line 6, Shenzhen Metro	stations	20
+Furusato Ginga Line	stations	33
+Pyongbu Line	stations	26
+Chongnyon Ichon Line	stations	18
+Pyongnam Line	stations	17
+Domodossola–Locarno railway	stations	22
+Milan Metro Line 4	stations	21
+Accra monorail	stations	16
+Mumbai–Ahmedabad high-speed rail corridor	stations	12
+Taranto–Brindisi railway	stations	12
+Divača–Koper Railway	stations	7
+Third Interchange Contour	stations	30
+Milwaukee–Dearborn subway	stations	9
+Thiruvananthapuram Light Metro	stations	19
+Johore Wooden Railway	stations	2
+Muar State Railway	stations	5
+Gurtenbahn funicular	stations	3
+Patna Metro	stations	54
+Western line	stations	36
+Central line	stations	62
+Tehran Metro Line 4	stations	19
+Tehran Metro Line 3	stations	17
+Tehran Metro Line 1	stations	29
+Tehran Metro Line 5	stations	11
+Tehran Metro Line 2	stations	22
+White Line	stations	8
+Trams in Florence	stations	14
+Gyermekvasút	stations	7
+San'yō Main Line	stations	124
+Sanyō Shinkansen	stations	19
+Crystal Palace Line	stations	7
+Howrah–Bardhaman chord	stations	27
+Sheoraphuli–Bishnupur branch line	stations	16
+Howrah–Bardhaman main line	stations	31
+Bardhaman–Asansol section	stations	16
+Asansol–Gaya section	stations	38
+Constantine tramway	stations	11
+Gaya–Mughalsarai section	stations	31
+U9	stations	12
+Kozhikode Light Metro	stations	22
+Andal–Sainthia branch line	stations	15
+S24	stations	9
+AirportLink	stations	16
+S35	stations	11
+Barharwa–Azimganj–Katwa loop	stations	39
+Changsha Metro	stations	43
+Guiyang Urban Rail Transit	stations	37
+Fuzhou Metro	stations	9
+Wuxi Metro	stations	46
+Nanchang Metro	stations	24
+Thiruvananthapuram–Mangalore high-speed passenger corridor	stations	11
+Haldibari–New Jalpaiguri line	stations	10
+Katihar–Siliguri line	stations	35
+Line 11, Shenzhen Metro	stations	18
+New Jalpaiguri–Alipurduar–Samuktala Road line	stations	24
+New Jalpaiguri–New Bongaigaon section	stations	31
+Ravenswood branch	stations	11
+Narayanganj–Bahadurabad Ghat line	stations	42
+Nagpur Metro	stations	36
+Tongi–Bhairab–Akhaura line	stations	19
+Akhaura–Kulaura–Chhatak line	stations	38
+Akhaura–Laksam–Chittagong line	stations	39
+Little Ring of the Moscow Railway	stations	12
+Melbourne Bike Share	stations	51
+Dan Ryan branch	stations	9
+Nanchang–Jiujiang Intercity Railway	stations	6
+Coley Branch Line	stations	1
+Line 1, Wuhan Metro	stations	29
+Hangzhou Public Bicycle	stations	2700
+Rostock S-Bahn	stations	26
+Jasidih–Dumka–Rampurhat railway line	stations	16
+New Bongaigaon–Guwahati section	stations	24
+Sŏhae Line	stations	16
+Kaechon Line	stations	6
+Pakchon Line	stations	2
+Paengma Line	stations	7
+Pyongbuk Line	stations	13
+Tasado Line	stations	6
+Tŏkhyŏn Line	stations	6
+Mokama–Barauni section	stations	9
+Barauni–Katihar section	stations	27
+Ullyul Line	stations	18
+Hwanghae Ch'ŏngnyŏn Line	stations	14
+Songrim Line	stations	4
+Changyon Line	stations	4
+Sohae Kammun Line	stations	4
+Paechon Line	stations	11
+Pupo Line	stations	5
+Taean Line	stations	2
+Ryonggang Line	stations	5
+Pyongdok Line	stations	37
+Northern Line	stations	55
+Chilahati–Parbatipur–Santahar–Darshana line	stations	66
+Ŭnsan Line	stations	11
+Burimari–Lalmonirhat–Parbatipur line	stations	23
+Kowŏn T'an'gwang Line	stations	4
+Sinhung Line	stations	16
+Changjin Line	stations	13
+Toksong Line	stations	12
+Hochon Line	stations	12
+Kŭmgol Line	stations	17
+Mandŏk Line	stations	3
+Kangdŏk Line	stations	4
+Manpo Line	stations	39
+Chongnyon Parwon Line	stations	11
+Unsan Line	stations	7
+Kanggye Line	stations	13
+Paektusan Ch'ŏngnyŏn Line	stations	22
+Pukpu Line	stations	31
+Paengmu Line	stations	28
+Pochon Line	stations	8
+Samjiyon Line	stations	12
+Hambuk Line	stations	51
+Musan Line	stations	13
+Hoeryŏng T'an'gwang Line	stations	3
+Hoeam Line	stations	4
+Kogŏnwŏn Line	stations	2
+Hongŭi Line	stations	2
+Cross Gates to Wetherby Line	stations	6
+Trincomalee Line	stations	7
+Batticaloa Line	stations	31
+Mannar Line	stations	11
+Harrogate to Church Fenton Line	stations	8
+Santahar–Kaunia line	stations	29
+Iswardi–Sirajganj line	stations	29
+Sealdah–Ranaghat line	stations	25
+Ingolstadt–Treuchtlingen railway	stations	11
+Como–Brunate funicular	stations	4
+Lalgola and Gede branch lines	stations	30
+Line 9, Shenzhen Metro	stations	22
+Ürümqi BRT	stations	66
+Boulevard Line	stations	4
+Line 1	stations	7
+Line 1	stations	17
+University of the Philippines Diliman Automated Guideway Transit System	stations	13
+Los Angeles Streetcar	stations	16
+Bari metropolitan railway service	stations	13
+AbukumaExpress	stations	23
+Line 2, Wuhan Metro	stations	21
+Line 1, Suzhou Rail Transit	stations	24
+T4	stations	22
+Madhupur Giridih Rail Line	stations	7
+Lake–Dan Ryan Line	stations	27
+Sun Link	stations	21
+Geumgangsan Electric Railway	stations	28
+CST–Panvel fast corridor	stations	10
+Aarhus Letbane	stations	49
+Lumding Agartala Rail Line	stations	51
+IRT New Lots Line	stations	7
+IRT Eastern Parkway Line	stations	11
+Main Street Line	stations	13
+Riverfront Loop	stations	19
+Madison Avenue Line	stations	6
+Green Line	stations	7
+Line 2, Chengdu Metro	stations	32
+Qingdao–Taiyuan high-speed railway	stations	~30
+Yokohama Dreamland Monorail	stations	2
+Citi Bike	stations	603
+Hasselt – Maastricht tramway	stations	13
+S-Bahn Mitteldeutschland	stations	129
+S-Bahn Mitteldeutschland	stations	24
+Line 2, Suzhou Rail Transit	stations	total 35 stations, first phase are 22 stations , second phase are 13 stations.
+Line 3, Suzhou Rail Transit	stations	31
+Line 4, Suzhou Rail Transit	stations	30
+Line 5, Suzhou Rail Transit	stations	32
+Line 7, Suzhou Rail Transit	stations	7
+Tallinn–Tapa railway	stations	17
+ToBike	stations	128
+Dijon tramway	stations	37
+Line R1, Beijing Subway	stations	18
+Line 19, Beijing Subway	stations	10
+Line 17, Beijing Subway	stations	20
+Brest tramway	stations	28
+Lahore Metrobus	stations	27
+Line 6, Kunming Rail Transit	stations	4
+North Side Main Line	stations	21
+Rete celere del Canton Ticino	stations	41
+Adriatic railway	stations	10
+Line 4, Wuhan Metro	stations	28
+Southwest Rail Corridor	stations	4
+Riyadh Metro	stations	85
+Rea Vaya	stations	58
+Veturilo	stations	187
+M5	stations	16
+Coimbatore Monorail	stations	24
+South Side main line	stations	8
+Sütlaç-Çivril railway	stations	2
+Bürgenstock railway	stations	2
+Line 2	stations	20
+Line 3	stations	21
+Line 4	stations	14
+Line 1	stations	24
+Vevey–Montreux–Chillon–Villeneuve tramway	stations	62
+Altdorf–Flüelen tramway	stations	7
+FL1	stations	26
+Line 13, Guangzhou Metro	stations	11
+Line 11, Guangzhou Metro	stations	32
+Line 21, Guangzhou Metro	stations	20
+Line 14, Guangzhou Metro	stations	20
+Mendrisio electric tramway	stations	49
+Menaggio–Porlezza railway	stations	7
+Biasca–Acquarossa railway	stations	15
+Rapid MetroRail Gurgaon	stations	6
+Metro	stations	41
+Line 2, Xi'an Metro	stations	21
+Line 3, Dalian Metro	stations	18
+Line 1, Shenyang Metro	stations	22
+Line 2, Shenyang Metro	stations	22
+Line 3, Changchun Rail Transit	stations	33
+Trans-Harbour line	stations	10
+Metro Donostialdea	stations	21
+Lugano–Cadro–Dino railway	stations	16
+Lugano–Tesserete railway	stations	10
+FL3	stations	26
+FL7	stations	13
+FL8	stations	12
+FL6	stations	22
+FL2	stations	12
+Line S1	stations	25
+Sassari-Tempio-Palau railway	stations	25
+Line S2	stations	21
+Line S3	stations	13
+Line S4	stations	14
+Line S5	stations	29
+Line S6	stations	24
+Line S8	stations	13
+Line S11	stations	17
+Line S13	stations	12
+Line S9	stations	15
+Montevergine funicular	stations	2
+Line 1, Hangzhou Metro	stations	34
+Aargau S-Bahn	stations	78
+Lausanne–Echallens–Bercher railway	stations	21
+State Street subway	stations	9
+Riffelalp tram	stations	2
+Turin metropolitan railway service	stations	93
+Confederation Line	stations	13
+Kumgangsan Chongnyon Line	stations	17
+Kangwon Line	stations	23
+Pyongra Line	stations	135
+Line 2, Hangzhou Metro	stations	13
+Daegok–Sosa Line	stations	5
+Lake Street Elevated	stations	14
+Sandfly Colliery Tramway	stations	2
+Milan–Asso railway	stations	27
+Cross Island MRT Line	stations	30
+Buchloe–Memmingen railway	stations	7
+Texas Central Railway	stations	2
+Guwahati Metro	stations	54
+Venice Short Line	stations	19
+Douglas branch	stations	11
+KC Streetcar	stations	10
+Cape Cod and Hyannis Railroad	stations	14
+Metro Line	stations	10
+Circular Line	stations	14
+Circular Line	stations	36
+Rosenheim–Salzburg railway	stations	13
+Sydney Trains	stations	178
+Capital Metro, Canberra	stations	13
+Manduadih-Madho Singh-Allahabad	stations	15
+Dulwich Hill Line	stations	23
+Riverline	stations	10
+Riverline	stations	7
+Riverline	stations	5
+Capital Bixi	stations	25
+Bhopal BRTS	stations	230
+Sihltal railway line	stations	13
+Suzhou BRT	stations	106
+Uetliberg railway line	stations	9
+3500 South MAX	stations	26
+Genoa urban railway service	stations	21
+SMF Automated People Mover	stations	2
+Beijing Capital International Airport Terminal 3 People mover	stations	2
+Capital Line	stations	15
+Nanjing–Gaochun Intercity Railway	stations	8
+Liepāja–Ventspils Railway	stations	19
+Santiago Metro Line 1	stations	27
+Santiago Metro Line 2	stations	22
+U1	stations	19
+U2	stations	20
+U3	stations	21
+U4	stations	20
+U6	stations	24
+Kabataş–Taksim funicular	stations	2
+Divvy	stations	476
+Line 1, Ningbo Rail Transit	stations	29
+Line 2, Ningbo Rail Transit	stations	28
+Tobu Skytree Line	stations	30
+Doha Metro	stations	61
+Doha Metro	stations	24
+Matale Line	stations	20
+Santiago Metro Line 4	stations	23
+Santiago Metro Line 5	stations	30
+Little North Line	stations	9
+Oran Tramway	stations	32
+Hornbæk Line	stations	19
+Houston B-cycle	stations	29
+Santiago Metro Line 4A	stations	6
+Lille Syd	stations	13
+Santiago Metro Line 3	stations	22
+Santiago Metro Line 6	stations	12
+Line 1, Kunming Rail Transit	stations	31
+Saarbahn	stations	43
+Sydney Metro	stations	13
+Sydney Metro	stations	17
+Sydney Metro	stations	30
+Groningen–Delfzijl railway	stations	9
+Sauwerd–Roodeschool railway	stations	9
+Indego	stations	100
+San Antonio B-Cycle	stations	56
+BRT Sunway Line	stations	7
+CBD and South East Light Rail	stations	19
+Gwangju Metro	stations	20
+Bologna metropolitan railway service	stations	87
+Tranvía de Sóller	stations	17
+Zugerbergbahn funicular	stations	2
+Cagliari light rail	stations	11
+Saugus Branch Railroad	stations	18
+Nanning Rail Transit	stations	10
+Lanzhou Metro	stations	20
+Aliağa branch	stations	3
+Line 7, Taipei Metro	stations	22
+Bergamo–Albino light rail	stations	16
+Line 1, Nanchang Metro	stations	24
+Line 2, Nanchang Metro	stations	21
+Stock Yards branch	stations	8
+Parla Tram	stations	15
+Humboldt Park branch	stations	6
+East 63rd branch	stations	2
+Ashland branch	stations	2
+Normal Park branch	stations	4
+Garfield Park branch	stations	22
+Westchester branch	stations	9
+Östgötapendeln	stations	17
+Addis Ababa Light Rail	stations	39
+Cabletren Bolivariano	stations	5
+BusCaracas	stations	11
+Quito Metro	stations	15
+Bareilly Metro	stations	>80
+Ulaanbaatar Metro	stations	14
+Minsheng-Xizhi Line, Taipei Metro	stations	15
+Minsheng-Xizhi Line, Taipei Metro	stations	4
+Bay Area Bike Share	stations	104
+Line 1, Xi'an Metro	stations	19
+Hubli-Dharwad BRTS	stations	33
+Hurum Line	stations	1
+Aarhus Commuter Rail	stations	33
+Line 1	stations	20
+Line 1, Harbin Metro	stations	18
+Line 20, Shanghai Metro	stations	10
+Wetzikon–Meilen tramway	stations	24
+S1	stations	36
+Uster–Oetwil tramway	stations	18
+Noida-Greater Noida Metro	stations	22
+Catanzaro funicular	stations	3
+Bankstown railway line	stations	12
+Olympic Park railway line	stations	1
+S45	stations	10
+522 Exhibition West	stations	18
+522 Exhibition West	stations	Dufferin Loop
+Mangu Line	stations	2
+Sydbanen	stations	9
+M3	stations	11
+M6	stations	4
+Île-de-France tramway Line 7	stations	18
+Jakarta Kota–Manggarai railway	stations	9
+S7	stations	25
+Dar es Salaam commuter rail	stations	23
+Dar es Salaam bus rapid transit	stations	29
+Essen Stadtbahn	stations	45
+Line 2, Dongguan Rail Transit	stations	23
+Seremban Line	stations	26
+Kothavalasa–Kirandul line	stations	48
+Line 1, Zhengzhou Metro	stations	20
+Sawankhalok Line	stations	3
+Tianjin–Qinhuangdao High-Speed Railway	stations	9
+Chongqing–Wanzhou Intercity Railway	stations	7
+Suining–Chongqing Railway	stations	10
+Bankura–Masagram line	stations	21
+Daegu Metro Line 3	stations	30
+Chord Line, Tamil Nadu	stations	29
+Route 202 Line, Dalian Metro	stations	8
+Chengdu–Mianyang–Leshan Intercity Railway	stations	21
+Shenzhen–Maoming High Speed Railway	stations	18
+Highclere, Kingsclere and Basingstoke Light Railway	stations	8
+Kollam–Sengottai branch line	stations	17
+Suphan Buri Line	stations	16
+Jinan Metro	stations	9
+Jinan Metro	stations	37
+Shijiazhuang Metro	stations	52
+Line 8, Shenzhen Metro	stations	6
+NS Line	stations	46
+Xiamen Metro	stations	47
+Xiamen Metro	stations	62
+Line 3, Nanjing Metro	stations	29
+Line 4, Nanjing Metro	stations	18
+Olive Mount cutting	stations	0
+Shelbourne railway line	stations	2
+Manamadurai–Virudhunagar line	stations	5
+Marmifera	stations	17
+Mukōgaoka-Yūen Monorail	stations	2
+Allahabad Monorail	stations	23
+M7	stations	19
+Tiruchirappalli Bicycle Share	stations	66
+Aalborg Commuter Rail	stations	7
+Lynx Blue Line	stations	15
+Lynx Blue Line	stations	11
+Line 3	stations	27
+Line 18	stations	13
+Echigo Tokimeki Railway	stations	10
+Echigo Tokimeki Railway	stations	11
+São Mateus–Jabaquara Metropolitan Corridor	stations	110
+Ainokaze Toyama Railway	stations	21
+IR Ishikawa Railway	stations	5
+Capital MetroRapid	stations	43
+Peralam–Karaikal line	stations	4
+Lopburi Line	stations	39
+Kaeng Khoi Line	stations	37
+Locarno–Madonna del Sasso funicular	stations	4
+Avenza–Carrara railway	stations	2
+Kriens–Sonnenberg funicular	stations	3
+Livoberezhna Line	stations	7
+Line 2, Changsha Metro	stations	23
+Line 1, Wuxi Metro	stations	24
+Line 2, Wuxi Metro	stations	24
+La Gazelle	stations	11
+Murray Taylorsville MAX	stations	8
+Provo Orem MAX	stations	17
+5600 West MAX	stations	7
+Panay Railways	stations	19
+900	stations	17
+BuBi	stations	98
+Erfurt Stadtbahn	stations	192
+Cuiabá Light Rail	stations	33
+Green Line	stations	58
+Ernakulam–Kayamkulam coastal railway line	stations	20
+Isfahan Metro	stations	10
+521 Exhibition East	stations	18
+521 Exhibition East	stations	Exhibition Loop
+PNR Metro South Commuter Line	stations	27
+Llantrisant-Aberthaw line	stations	10
+Cariri Metro	stations	9
+Trams in Bursa	stations	T1: 14
+Trams in Bursa	stations	T3: 9
+Environmentally Friendly Linkage System	stations	12
+Forrest railway line	stations	9
+Odense Letbane	stations	25
+Line 1	stations	11
+Cercanías Sevilla	stations	37
+Clermont-Ferrand tramway	stations	34
+Line 2	stations	4
+Rawalpindi-Islamabad Metrobus	stations	24
+Karachi Metrobus	stations	~30
+TfL Rail	stations	14
+North-South Corridor Line	stations	22
+East-West Corridor	stations	12
+Red Bike	stations	56
+Trans Sarbagita	stations	31
+Coliseum–Oakland International Airport line	stations	2
+Mount Loretto Spur	stations	1
+Île-de-France tramway Line 5	stations	16
+Johor Bahru–Singapore Rapid Transit System	stations	2
+İsbike	stations	10
+S5	stations	22
+Line 1, Dongguan Rail Transit	stations	26
+Line 3, Dongguan Rail Transit	stations	24
+Line 4, Dongguan Rail Transit	stations	12
+Haizhu Tram	stations	11
+Uda Pussellawa railway	stations	5
+Poços de Caldas Monorail	stations	11
+Mi Teleférico	stations	10
+Meiringen–Reichenbach–Aareschlucht tramway	stations	11
+Naples metropolitan railway service	stations	Trenitalia: 11
+Naples metropolitan railway service	stations	EAV: 156
+Randers-Aalborg Line	stations	8
+Stadskanaal–Zuidbroek railway	stations	6
+Apeldoorn–Zwolle railway	stations	13
+Orange Line	stations	36
+Pronto Cycle Share	stations	50
+Laksam-Noakhali Line	stations	8
+Trams in Zhuhai	stations	Line 1, Phase 1: 14
+Trams in Zhuhai	stations	Line 2, Phase 2: 25
+Teleférico do Alemão	stations	6
+Rio de Janeiro Light Rail	stations	42
+Indeogwon–Suwon Line	stations	6
+Sillim Line	stations	11
+Wolgot–Pangyo Line	stations	9
+Gimpo Goldline	stations	10
+Gyeongui–Jungang Line	stations	53
+Samastipur–Muzaffarpur section	stations	10
+Muzaffarpur–Hajipur section	stations	11
+Teleférico da Providência	stations	3
+SmartTrack	stations	14
+Barauni–Samastipur section	stations	11
+Line 3, Ningbo Rail Transit	stations	15
+Île-de-France tramway Line 6	stations	19
+Muzaffarpur–Sitamarhi section	stations	10
+North Shore Branch	stations	14
+South Beach Branch	stations	8
+Connecticut River Line	stations	3
+Nanchang–Shenzhen High-Speed Railway	stations	26
+Nanchang–Ganzhou High-Speed Railway	stations	13
+Nanning–Guangzhou High-Speed Railway	stations	23
+Changsha–Kunming High-Speed Railway	stations	25
+Hangzhou–Changsha High-Speed Railway	stations	21
+Visakhapatnam Metro	stations	42
+Qingdao–Rongcheng Intercity Railway	stations	14
+BaT Tunnel	stations	3
+Lanzhou–Zhongchuan Airport Intercity Railway	stations	6
+Tianjin–Baoding Intercity Railway	stations	7
+Shenyang–Dandong Intercity Railway	stations	8
+Dandong–Dalian Intercity Railway	stations	18
+Harbin–Jiamusi Intercity Railway	stations	17
+Harbin–Qiqihar Intercity Railway	stations	9
+Dongguan–Huizhou Intercity Railway	stations	18
+Guangzhou–Dongguan–Shenzhen Intercity Railway	stations	18
+Foshan–Dongguan Intercity Railway	stations	7
+Taichung BRT Blue Line	stations	21
+Bury Line	stations	10
+Lanzhou–Xinjiang High-Speed Railway	stations	31
+Guangzhou–Qingyuan Intercity Railway	stations	12
+Changsha Maglev	stations	Initially 3, planned for 5
+Muzaffarpur–Gorakhpur main line	stations	53
+Réseau électrique métropolitain	stations	24
+Guangzhou–Foshan–Zhaoqing Intercity Railway	stations	11
+Changsha–Zhuzhou–Xiangtan Intercity Railway	stations	21
+Ahmedabad suburban railway	stations	41
+Pink Line	stations	38
+Magenta Line	stations	25
+Tenali–Repalle branch line	stations	6
+Duri–Tangerang railway	stations	8
+N Line	stations	9
+Senseki-Tōhoku Line	stations	21
+Proastiakos Thessaloniki	stations	30
+Sedan railway line	stations	8
+Sobi Hamilton	stations	105
+Xuzhou Metro	stations	54
+South Hokkaido Railway Company	stations	12
+Tren de los Pueblos Libres	stations	13
+Comodoro Rivadavia Railway	stations	27
+Samsun Tram	stations	21
+Puerto Deseado Railway	stations	14
+Borders Railway	stations	9
+Península Valdés Railway	stations	2
+Taiyuan Metro	stations	0
+BRT Federal Line	stations	24
+Tampere–Pori railway	stations	7
+Forrestfield-Airport Link	stations	3
+Haymarket Line	stations	12
+Dallas Streetcar	stations	6
+Carlingford railway line	stations	7
+South Shore Line	stations	9
+Blue Line	stations	25
+Coca-Cola Zero Belfast Bikes	stations	33
+Sydney Metro City & Southwest	stations	18
+Line S14	stations	11
+Allahabad-Mau-Gorakhpur Main Line	stations	51
+Line 4, Hangzhou Metro	stations	10
+Valenbisi	stations	275
+Zecca–Righi funicular	stations	7
+SkyLine	stations	3
+Bandar Utama-Klang Line	stations	26
+Line 3, Chengdu Metro	stations	17
+Altrincham Line	stations	11
+Secunderabad-Manmad section	stations	85
+Kollam–Thiruvananthapuram trunk line	stations	18
+Green Line	stations	17
+Deer Park – West Werribee railway line	stations	2
+Line 2, Dalian Metro	stations	17
+Nanjing–Tianchang Intercity Railway	stations	26
+Langå-Struer Line	stations	10
+Aarhus-Randers Line	stations	5
+Dedham Branch	stations	7
+Midland railway line, Western Australia	stations	39
+Empresa Municipal de Transportes de Madrid	stations	10178
+Thy Line	stations	12
+Manila Light Rail Transit System Line 6	stations	7
+Millis Branch	stations	14
+Manila Light Rail Transit System Line 4	stations	6
+Trams in Tallinn	stations	33
+Velobike	stations	300
+Santhià–Biella railway	stations	1
+Santhià–Biella railway	stations	3
+Algiers Metro Line 1	stations	14
+Trams in Kaliningrad	stations	44
+Amritsar BRTS	stations	62
+Trams in Besançon	stations	31
+Île-de-France tramway Line 8	stations	17
+Beijing-Zhangjiakou Intercity Railway	stations	10
+Sydney Metro	stations	34
+Agnita railway line	stations	8
+Vurpăr branch line	stations	2
+Zhangjiakou–Hohhot High-Speed Railway	stations	7
+Donghae Line	stations	3
+Gwalior Metro	stations	100
+Khanewal–Wazirabad railway line	stations	40
+Shahdara Bagh–Chak Amru railway line	stations	14
+Boston Surface Railroad	stations	3
+Kington and Eardisley Railway	stations	8
+Transport in Phnom Penh	stations	173
+Aarhus City Bikes	stations	52
+Chollima Line	stations	6
+Hyŏksin Line	stations	9
+Mangyongdae Line	stations	3
+Shahdara Bagh–Sangla Hill railway line	stations	14
+Loop Service	stations	55
+Rainbow BRTS	stations	102
+Nairobi rail service	stations	26
+KTM Komuter Northern Sector	stations	20
+Biella–Novara railway	stations	3
+Biella–Novara railway	stations	6
+Jakarta Light Rail Transit	stations	1841
+Novara–Varallo railway	stations	3
+Novara–Varallo railway	stations	7
+SAR Riyadh-Qurayyat Line	stations	6
+Tehran-Qom-Isfahan High Speed Rail	stations	4
+KA Commuter Line Jakarta Kota-Bekasi	stations	15
+Abidjan Metro	stations	13
+Frederiksværk Line	stations	16
+Moscow-Kazan high-speed railway	stations	15
+Busan Metro Line 5	stations	6
+Gütschbahn funicular	stations	2
+Line 1, Dalian Metro	stations	13
+Taiwan Trunk Line	stations	32
+Coastal Line	stations	16
+Taiwan Trunk Line	stations	42
+Line 3, Xi'an Metro	stations	26
+U4	stations	11
+Pamban–Dhanushkodi branch line	stations	1
+U3	stations	25
+Guiyang–Kaiyang Intercity Railway	stations	6
+Zhengzhou–Jiaozuo Intercity Railway	stations	7
+Beijing–Tangshan Intercity Railway	stations	7
+Chengdu–Pujiang Intercity Railway	stations	12
+Saketi-Bayah railway	stations	9
+Ryongsŏng Line	stations	4
+Line 4, Ningbo Rail Transit	stations	25
+Agra Metro	stations	30
+SkyBridge	stations	2
+KA Commuter Line Jakarta Kota-Bogor	stations	25
+Santhià–Arona railway	stations	8
+Nanning–Kunming High-Speed Railway	stations	22
+Selby Line	stations	16
+Maoming–Zhanjiang High Speed Railway	stations	6
+Jilin–Hunchun Intercity Railway	stations	9
+Beijing Underground Cross City Railway	stations	2
+Trams in Malmö	stations	6
+Line 3, Wuhan Metro	stations	24
+Line 3, Qingdao Metro	stations	22
+Chivasso–Ivrea–Aosta railway	stations	11
+Phnom Penh City Bus	stations	173
+Ayacucho Tram	stations	9
+Ningbo–Fenghua Intercity Railway	stations	9
+Eccles Line	stations	11
+Joydevpur-Bangabandhu shetu east Line	stations	9
+Line 4, Chengdu Metro	stations	16
+East Manchester Line	stations	13
+Hajipur-Muzaffarpur-Samastipur-Barauni Section	stations	27
+Trams in Oranjestad	stations	9
+514 Cherry	stations	*
+514 Cherry	stations	18
+514 Cherry	stations	King
+514 Cherry	stations	St. Andrew
+Shipley and Windhill Line	stations	4
+South Manchester Line	stations	8
+Sabari railway line	stations	12
+Airport Line	stations	15
+Brooklyn–Queens Connector	stations	30
+Swinton to Doncaster Line	stations	4
+Tempe Streetcar	stations	14
+Oldham and Rochdale Line	stations	20
+Hovedstadens Letbane	stations	27
+Angren–Pap railway line	stations	4
+Palembang Light Rail Transit	stations	13
+Esholt Sewage Works Railway	stations	0
+Benning Road Line	stations	8
+Anaheim Rapid Connection	stations	8
+Odsherred Line	stations	19
+Northwest Line	stations	13
+M8	stations	13
+Madrid Barajas Airport People Mover	stations	2
+Yangon BRT	stations	22
+Dumbarton Rail Corridor	stations	4
+Healthy Ride	stations	50
+Ashgabat Monorail	stations	8
+KA Commuter Line Tanah Abang-Maja	stations	17
+U2	stations	25
+U1	stations	46
+MAX Bus Rapid Transit	stations	12
+KA Commuter Line Jakarta Kota-Tanjung Priok	stations	5
+KA Commuter Line Jatinegara-Bogor	stations	31
+KA Commuter Line Duri-Tangerang	stations	11
+Pinggu Line, Beijing Subway	stations	9
+Line 5, Hangzhou Metro	stations	38
+Line 6, Hangzhou Metro	stations	24
+Lanzhou BRT	stations	15
+Line 3, Kunming Rail Transit	stations	17
+Metrostar Ferry	stations	2
+Mysore–Chamarajanagar branch line	stations	12
+Tram route 5	stations	29
+Tram route 8	stations	29
+M9	stations	12
+Tram route 6	stations	24
+Xi'an Monorail	stations	11
+Line 10, Shenzhen Metro	stations	24
+Line 1, Fuzhou Metro	stations	21
+Line 1, Fuzhou Metro	stations	4
+Line 2, Fuzhou Metro	stations	22
+Line 6, Fuzhou Metro	stations	20
+Line 5, Fuzhou Metro	stations	20
+Santander Cycles MK	stations	42
+Guntakal–Vasco da Gama section	stations	73
+Lin'an Line, Hangzhou Metro	stations	12
+Line 4, Fuzhou Metro	stations	21
+Biketown	stations	100
+Line 7	stations	17
+Line 5, Chengdu Metro	stations	41
+Nerul Uran Railway Project	stations	11
+Red Line	stations	23
+Terni–Sulmona railway	stations	20
+Line 6, Chengdu Metro	stations	47
+Line 7, Chengdu Metro	stations	31
+Line 20, Shenzhen Metro	stations	4
+Line 10, Chengdu Metro	stations	14
+Line 18, Chengdu Metro	stations	14
+Tølløse Line	stations	12
+Kochi Water Metro	stations	38
+Mobi	stations	150
+Line 1, Changsha Metro	stations	20
+Thirsk and Malton Line	stations	8
+T4	stations	22
+Gilling and Pickering Line	stations	5
+T1	stations	31
+Tram route 9	stations	18
+Baotou Metro	stations	125
+Vadanamkurishi railway station	stations	11
+Vallapuzha railway station	stations	11
+Kulukkallur railway station	stations	11
+Cherukara railway station	stations	11
+Pattikkad railway station	stations	11
+Melattur railway station	stations	11
+Tuvvur railway station	stations	11
+Vaniyambalam railway station	stations	11
+Nilambur Road railway station	stations	11
+Karachi–Peshawar Railway Line	stations	184
+Quetta–Taftan Railway Line	stations	23
+Rohri–Chaman Railway Line	stations	184
+Moscow Central Circle	stations	28
+Meerut Metro	stations	29
+Green Mountain Line	stations	14
+Green Mountain Line	stations	26
+Kotri–Attock Railway Line	stations	112
+Kolkata Metro Line 3	stations	12
+Lodhran–Raiwind Branch Line	stations	22
+Lahore–Wagah Branch Line	stations	4
+Line 1, Nanning Rail Transit	stations	10
+Green Line - Karachi Metrobus	stations	22
+Bow Curve	stations	2
+Kemence Forest Museum Railway	stations	5
+Kwun Tong Line Extension	stations	2
+Mysore–Bangalore railway line	stations	24
+Mexicable	stations	7
+Khon Kaen Light Rail Transit	stations	21
+Line 5, Ningbo Rail Transit	stations	22
+Kolkata Metro Line 4	stations	9
+Kolkata Metro Line 6	stations	23
+Kolkata Metro Line 5	stations	11
+Integrated Public Transport System	stations	136
+Ceva–Ormea railway	stations	2
+Ceva–Ormea railway	stations	6
+Kolkata Metro Line 7	stations	23
+Trafford Park Line	stations	6
+Lodhran–Khanewal Branch Line	stations	9
+Hyderabad–Khokhrapar Branch Line	stations	23
+Hyderabad–Badin Branch Line	stations	9
+Samasata–Amruka Branch Line	stations	15

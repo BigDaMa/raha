@@ -1,0 +1,996 @@
+Blue	h	240
+Cyan	h	180
+Cyan	h	193
+Indigo	h	275
+Indigo	h	266
+Indigo	h	271
+Indigo	h	251
+Sienna	h	12
+Sienna	h	20
+Sienna	h	-5
+Sienna	h	14
+Sienna	h	0
+Sienna	h	19
+Yellow	h	60
+Violet	h	270
+Purple	h	300
+Purple	h	274
+Brown	h	30
+Ultramarine	h	255
+Magenta	h	300
+Magenta	h	320
+Orange	h	30
+Cairngorm Mountain Railway	h	36
+Jonquil	h	49
+Tyrian purple	h	325
+Khaki	h	54
+Khaki	h	37
+Khaki	h	56
+Pink	h	350
+Hankyū Kōbe Main Line	h	115
+Osaka Loop Line	h	100
+Crimson	h	348
+Crimson	h	345
+Crimson	h	350
+Crimson	h	344
+Crimson	h	342
+Crimson	h	341
+Crimson	h	-5
+Crimson	h	338
+Crimson	h	3
+Crimson	h	-3
+Crimson	h	0
+Crimson	h	-1
+Crimson	h	-11
+Crimson	h	351
+Crimson	h	353
+Gold	h	51
+Gold	h	46
+Gold	h	34
+Gold	h	52.5
+Gold	h	50
+Gold	h	47
+Gold	h	40
+Gold	h	44
+Gold	h	43
+Gold	h	49
+Dublin Area Rapid Transit	h	100
+Hanwa Line	h	120
+Nara Line	h	105
+Nagoya Line	h	120
+Kyoto Line	h	105
+Biwako Line	h	130
+Ochre	h	30
+Vermilion	h	5
+Vermilion	h	3
+Vermilion	h	16
+Vermilion	h	14
+Vermilion	h	11
+Coral	h	16
+Coral	h	5
+Coral	h	0
+Tōhoku Main Line	h	120
+Cadmium pigments	h	28
+Cadmium pigments	h	351
+Cadmium pigments	h	154
+Cadmium pigments	h	58
+Umber	h	21
+Umber	h	33
+Umber	h	9
+Navy blue	h	240
+Navy blue	h	210
+Navy blue	h	230
+Navy blue	h	236
+Navy blue	h	258
+Navy blue	h	226
+Powder blue	h	220
+Phthalocyanine Blue BN	h	233
+Fukuchiyama Line	h	120
+Tan	h	34
+Tan	h	30
+Tan	h	24
+Tan	h	26
+Trambesòs	h	19.37
+Mauve	h	276
+Mauve	h	286
+Mauve	h	300
+Mauve	h	285
+Mauve	h	336
+Beige	h	60
+Beige	h	40
+Beige	h	57
+Beige	h	22
+Beige	h	35
+Beige	h	49
+Beige	h	19
+Beige	h	45
+Beige	h	37
+Beige	h	26
+Beige	h	43
+Bistre	h	24
+Bistre	h	43
+Bistre	h	34
+Azure	h	210
+Azure	h	180
+Azure	h	208
+Azure	h	203
+Azure	h	199
+Azure	h	197
+Azure	h	195
+Azure	h	213
+Azure	h	205
+Azure	h	200
+Azure	h	219
+Azure	h	214
+Azure	h	207
+Azure	h	225
+Azure	h	218
+Azure	h	212
+Azure	h	196
+Azure	h	204
+Teal	h	180
+Teal	h	194
+Salmon	h	14
+Salmon	h	350
+Salmon	h	15
+Olive	h	60
+Olive	h	87
+Olive	h	80
+Olive	h	47
+Olive	h	43.4
+Olive	h	82
+Olive	h	70
+Fuchsia	h	300
+Fuchsia	h	319
+Fuchsia	h	334
+Fuchsia	h	320
+Fuchsia	h	337
+Fuchsia	h	328
+Fuchsia	h	333
+Fuchsia	h	316
+Fuchsia	h	330
+Hankyū Minoo Line	h	80
+Hankyu Takarazuka Main Line	h	100
+Peach	h	40
+Kansai Main Line	h	120
+Silver	h	0
+Silver	h	3
+Silver	h	201
+Silver	h	221
+Silver	h	60
+Cardinal	h	350
+Cardinal	h	144
+Lavender	h	240
+Lavender	h	340
+Lavender	h	270
+Lavender	h	245
+Lavender	h	249
+Lavender	h	264
+Lavender	h	281
+Lavender	h	311
+Lavender	h	332
+Lavender	h	300
+Lavender	h	286
+Lavender	h	275
+Lavender	h	260
+Lavender	h	338
+Lavender	h	297
+Venetian red	h	0
+Liver	h	9
+Liver	h	30
+Liver	h	12
+Copper	h	29
+Copper	h	18
+Copper	h	14
+Copper	h	5
+Copper	h	0
+Persian red	h	4
+Dodger blue	h	210
+Lemon	h	54
+Lemon	h	47
+Lemon	h	60
+Lemon	h	67
+Lemon	h	56
+Lemon	h	66
+Lemon	h	64
+Lemon	h	45
+Persian blue	h	249
+Persian blue	h	248
+Persian blue	h	258
+O-Bahn Busway	h	80
+Puce	h	353
+Puce	h	351
+Puce	h	11
+Puce	h	354
+Periwinkle	h	240
+Amber	h	45
+Amber	h	30
+Scarlet	h	8.5
+Scarlet	h	12
+Scarlet	h	351
+Scarlet	h	17
+Scarlet	h	0
+Cerulean	h	196
+Cerulean	h	225
+Cerulean	h	224
+Cerulean	h	212
+Cerulean	h	209
+Cerulean	h	208
+Orchid	h	302
+Orchid	h	322
+Orchid	h	331
+Orchid	h	280
+Sepia	h	30
+Viridian	h	161
+Viridian	h	168
+Viridian	h	181
+Viridian	h	163
+Cobalt blue	h	215
+Turquoise	h	174
+Turquoise	h	180
+Turquoise	h	175
+Turquoise	h	176
+Cerise	h	343
+Cerise	h	320
+Cerise	h	317
+Cerise	h	338
+Lilac	h	300
+Lilac	h	255
+Lilac	h	285
+Lilac	h	284
+Lilac	h	290
+Cream	h	57
+Maroon	h	0
+Maroon	h	346
+Maroon	h	338
+Verdigris	h	177
+Chartreuse	h	90
+Chartreuse	h	68
+Chartreuse	h	97
+Chartreuse	h	72
+Chartreuse	h	66
+Chartreuse	h	67
+Chartreuse	h	75
+Chartreuse	h	83
+Chartreuse	h	88
+Chartreuse	h	96
+Chartreuse	h	74
+Chartreuse	h	81
+Chartreuse	h	60
+Chartreuse	h	103
+Kintetsu Namba Line	h	80
+British racing green	h	153.2
+Chūō Line	h	70
+Lime	h	75
+Lime	h	67
+Lime	h	72
+Lime	h	89
+Red-violet	h	322
+Red-violet	h	329
+Red-violet	h	311
+Red-violet	h	345
+Red-violet	h	336
+Red-violet	h	328
+Red-violet	h	342
+Red-violet	h	320
+Red-violet	h	350
+Red-violet	h	353
+School bus yellow	h	51
+Safety orange	h	28
+Sassi–Superga tramway	h	14
+Harbour line	h	50
+Cosmic latte	h	40
+Mahogany	h	20
+Mahogany	h	359
+Naples yellow	h	48
+Gamboge	h	38
+Indian yellow	h	35
+Aquamarine	h	160
+Aquamarine	h	165
+Aquamarine	h	154
+Seal brown	h	0
+Carmine	h	350
+Carmine	h	348
+Carmine	h	347
+Carmine	h	342
+Carmine	h	340
+Carmine	h	338
+Carmine	h	355
+Catawba	h	348
+Benguela railway	h	90
+Baby blue	h	199
+Baby blue	h	183
+Baby blue	h	206
+Baby blue	h	209
+Baby blue	h	212
+Feldgrau	h	56
+Champagne	h	37
+Champagne	h	48
+Champagne	h	35
+Champagne	h	45
+Old gold	h	49
+Burgundy	h	346.7
+Burgundy	h	345
+Burgundy	h	6
+Eggplant	h	329
+Wheat	h	39
+Goldenrod	h	43
+Goldenrod	h	60
+Goldenrod	h	55
+Lemon chiffon	h	54
+Seashell	h	25
+Midnight blue	h	240
+Midnight blue	h	210
+Robin egg blue	h	180
+Robin egg blue	h	169
+Robin egg blue	h	174
+Spring green	h	150
+Spring green	h	160
+Spring green	h	140
+Spring green	h	165
+Spring green	h	161
+Spring green	h	158
+Spring green	h	120
+Spring green	h	166
+Spring green	h	135
+Spring green	h	146
+Spring green	h	180
+Spring green	h	175
+Spring green	h	177
+Chocolate	h	31
+Chocolate	h	25
+Cornflower blue	h	219
+Cornflower blue	h	201
+Steel blue	h	207
+Steel blue	h	214
+Chestnut	h	10
+Slate gray	h	210
+Slate gray	h	180
+Hanshin Main Line	h	106
+Hankyu Arashiyama Line	h	70
+Hankyū Itami Line	h	70
+Manila Metro Rail Transit System	h	40
+Royal blue	h	219
+Royal blue	h	225
+Royal blue	h	211
+Buff	h	49
+Flax	h	50
+Mustard	h	47
+Payne's grey	h	206
+Blue-green	h	192
+Blue-green	h	180
+Blue-green	h	174
+Blue-green	h	188
+Blue-green	h	191
+Blue-green	h	209
+Navajo white	h	36
+Columbia blue	h	200
+Taupe	h	30
+Taupe	h	26
+Taupe	h	285
+Taupe	h	330
+Taupe	h	43
+Taupe	h	356
+Taupe	h	9
+Auburn hair	h	0
+Non-photo blue	h	193
+Fire engine red	h	357
+Terra cotta	h	10
+Raspberry	h	337
+Raspberry	h	351
+Raspberry	h	338
+Raspberry	h	333
+Raspberry	h	330
+Rose	h	330
+Rose	h	6
+Rose	h	0
+Rose	h	342
+Rose	h	329
+Rose	h	320
+Rose	h	348
+Rose	h	338
+Rose	h	315
+Rose	h	326
+Rose	h	337
+Rose	h	340
+Rose	h	303
+Rose	h	359
+Rose	h	358
+Rose	h	355
+Rose	h	4
+Rose	h	353
+Aqua	h	180
+Aqua	h	206
+Ligne de Cerdagne	h	55
+Saltsjöbanan	h	70
+Paris green	h	140
+Sapphire	h	216
+Sapphire	h	203
+Sapphire	h	215
+Sapphire	h	197
+Selective yellow	h	44
+JR Tōzai Line	h	90
+Beijing–Kowloon Railway	h	160
+New Hampshire Wildcats	h	219
+Saffron	h	45
+Saffron	h	29
+Saffron	h	34
+Sinopia	h	17
+Phthalocyanine Green G	h	151
+Hankyū Imazu Line	h	80
+Rust	h	18
+Russet	h	26
+Heliotrope	h	286
+Heliotrope	h	303
+Heliotrope	h	289
+Chojnice–Runowo Pomorskie railway	h	80
+Linimo	h	100
+Keifuku Electric Railroad	h	40
+Beijing–Shanghai Railway	h	250
+Manila Light Rail Transit System Line 1	h	40
+Manila Light Rail Transit System Line 2	h	60
+Rosso corsa	h	0
+Tiffany Blue	h	174
+Coquelicot	h	13
+Oxblood	h	345
+Egyptian blue	h	226
+Ecru	h	39
+International orange	h	19
+International orange	h	18.5
+International orange	h	3
+Maize	h	54
+Eggshell	h	46
+Kishigawa Line	h	60
+Ivory	h	60
+Nankai Main Line	h	110
+Domyoji Line	h	65
+Zaffre	h	233
+Aureolin	h	56
+Amaranth	h	338
+Amaranth	h	348
+Amaranth	h	342
+Amaranth	h	328
+Apricot	h	24
+Apricot	h	30
+JR Kobe Line	h	130
+Arylide yellow	h	51
+Fallow	h	33
+Forest green	h	120
+Shades of orange	h	30
+Shades of orange	h	39
+Shades of orange	h	33
+Shades of orange	h	21
+Shades of orange	h	18
+Shades of orange	h	37
+Shades of orange	h	24
+Shades of orange	h	7
+Shades of orange	h	20
+Shades of orange	h	5
+Shades of orange	h	26
+Shades of orange	h	31
+Shades of orange	h	25
+Shades of orange	h	16
+Shades of orange	h	9
+Shades of orange	h	6
+Shades of orange	h	22
+Shades of orange	h	27
+Shades of orange	h	359
+Bole	h	9
+Nankō Port Town Line	h	55
+Imazatosuji Line	h	70
+Midōsuji Line	h	70
+Yale Blue	h	210
+Keihanna Line	h	95
+Persian green	h	135
+Maya blue	h	205
+Hankyu Senri Line	h	80
+U4	h	28.3
+Wadamisaki Line	h	85
+Arlberg railway	h	160
+Wakayama Line	h	85
+Ikoma Line	h	65
+InterCity	h	160
+Commuter	h	120
+KTM Intercity	h	110
+Millettia laurentii	h	7
+NIVO	h	120
+Spring bud	h	88
+Spring bud	h	80
+Spring bud	h	102
+Spring bud	h	112
+Jungle green	h	163
+Jungle green	h	120
+Jungle green	h	147
+Jungle green	h	178
+Jungle green	h	162
+Ikoma Cable Line	h	10.8
+Air Force blue	h	204
+Air Force blue	h	220
+Air Force blue	h	209
+Air Force blue	h	197
+Air Force blue	h	206
+Air Force blue	h	226
+Air Force blue	h	205
+Air Force blue	h	217
+Main Railway	h	160
+Electric blue	h	183
+Electric blue	h	220
+Electric blue	h	180
+Electric blue	h	206
+Electric blue	h	201
+Glaucous	h	216
+Oulu–Kontiomäki railway	h	140
+Dosan Line	h	120
+Eton blue	h	134
+Cambridge Blue	h	140
+Electric green	h	120
+Yōrō Railway Yōrō Line	h	65
+Tawaramoto Line	h	65
+Shades of green	h	120
+Shades of green	h	76
+Shades of green	h	93
+Shades of green	h	81
+Shades of green	h	158
+Shades of green	h	106
+Shades of green	h	126
+Shades of green	h	163
+Shades of green	h	95
+Shades of green	h	110
+Shades of green	h	75
+Shades of green	h	80
+Shades of green	h	176
+Shades of green	h	175
+Shades of green	h	156
+Shades of green	h	100
+Shades of green	h	180
+Shades of green	h	149
+Shades of green	h	160
+Shades of green	h	165
+Shades of green	h	69
+Shades of green	h	164
+Shades of green	h	96
+Shades of green	h	153
+Shades of green	h	162
+Shades of green	h	137
+Shades of green	h	123
+Shades of green	h	174
+Shades of green	h	138
+Shades of green	h	152
+Shades of green	h	140
+Shades of green	h	84
+Shades of green	h	105
+Shades of green	h	115
+Shades of green	h	101
+Shades of green	h	187
+Shades of green	h	111
+Shades of green	h	135
+Shades of green	h	146
+Nishi-Shigi Cable Line	h	11.7
+Lava	h	27
+Ruby	h	337
+Ruby	h	335
+Ruby	h	339
+Ruby	h	354
+Ruby	h	345
+Ruby	h	350
+Ruby	h	336
+Shades of red	h	0
+Shades of red	h	350
+Shades of red	h	16
+Shades of red	h	14
+Shades of red	h	358
+Shades of red	h	345
+Shades of red	h	355
+Shades of red	h	347
+Shades of red	h	8
+Shades of red	h	352
+Shades of red	h	337
+Shades of red	h	348
+Shades of red	h	357
+Shades of red	h	5
+Shades of red	h	6
+Shades of red	h	4
+Candy apple red	h	2
+Candy apple red	h	355
+Cordovan	h	355
+Fulvous	h	35
+Cinereous	h	12
+Wine	h	353
+Wine	h	37
+Wine	h	343
+Wine	h	345
+Wine	h	336
+Sangi Railway Hokusei Line	h	45
+Duke blue	h	222
+Mikado yellow	h	45
+Carnelian	h	0
+Shades of pink	h	350
+Shades of pink	h	351
+Shades of pink	h	330
+Shades of pink	h	328
+Shades of pink	h	25
+Shades of pink	h	319
+Shades of pink	h	343
+Shades of pink	h	3
+Shades of pink	h	0
+Shades of pink	h	1
+Shades of pink	h	340
+Shades of pink	h	322
+Shades of pink	h	324
+Shades of pink	h	332
+Shades of pink	h	334
+Shades of pink	h	344
+Shades of pink	h	342
+Shades of pink	h	338
+Shades of pink	h	333
+Shades of pink	h	335.7
+Shades of pink	h	355
+Shades of pink	h	5
+Shades of pink	h	352
+Shades of pink	h	336
+Shades of pink	h	311
+Shades of pink	h	327
+Shades of pink	h	347
+Shades of pink	h	339
+Shades of pink	h	329
+Shades of pink	h	318
+Shades of pink	h	300
+Shades of pink	h	315
+Shades of pink	h	323
+Portland railway line	h	80
+Portland Orange	h	11
+Bronze	h	30
+Bronze	h	12
+Bronze	h	53
+Shades of magenta	h	300
+Shades of magenta	h	326
+Shades of magenta	h	342
+Shades of magenta	h	329
+Shades of magenta	h	315
+Shades of magenta	h	313
+Shades of magenta	h	312
+Shades of magenta	h	302
+Shades of magenta	h	334
+Shades of magenta	h	320
+Shades of magenta	h	327
+Shades of magenta	h	338
+Shades of magenta	h	307
+Plum	h	347
+Plum	h	300
+Plum	h	0
+Main-Lahn Railway	h	120
+Tuscan red	h	0
+Tuscan red	h	35
+Tuscan red	h	26
+Tuscan red	h	9
+Tuscan red	h	25
+Florence–Rome high-speed railway	h	250
+Turin–Milan railway	h	160
+North–South Express Railway	h	350
+Orbital Railway Line	h	60
+Desert sand	h	25
+Desert sand	h	28
+Desert sand	h	34
+Desert sand	h	45
+Desert sand	h	33
+Desert sand	h	43
+Desert sand	h	42
+Camel	h	33
+Mühldorf–Simbach am Inn railway	h	140
+Danube Valley Railway	h	140
+Byzantium	h	311
+Byzantium	h	315
+Midnight green	h	187
+Regensburg–Hof railway	h	160
+Blue-gray	h	210
+Blue-gray	h	207
+Blue-gray	h	248
+Blue-gray	h	240
+Blue-gray	h	216
+Blue-gray	h	205
+Blue-gray	h	229
+Blue-gray	h	204
+Blue-gray	h	214
+Blue-gray	h	221
+Blue-gray	h	242
+Blue-gray	h	206
+Straw	h	54
+Citrine	h	54
+Platinum	h	40
+Istanbul–Ankara railway	h	140
+Milan Passante railway	h	60
+Sunset	h	35
+Sunset	h	50
+Sunset	h	4
+Isabelline	h	30
+Madrid–Leon high-speed rail line	h	350
+Shades of yellow	h	60
+Shades of yellow	h	54
+Shades of yellow	h	56
+Shades of yellow	h	50
+Shades of yellow	h	51
+Shades of yellow	h	53
+Shades of yellow	h	47
+Shades of yellow	h	48
+Shades of yellow	h	45
+Shades of yellow	h	37
+Shades of yellow	h	43
+Tawny	h	25
+Alizarin crimson	h	354.9
+Lower Inn Valley Railway	h	160
+Rosenheim–Kufstein railway	h	140
+Munich–Rosenheim railway	h	160
+Stil de grain yellow	h	48
+Kinzig Valley Railway	h	200
+Capri	h	195
+Cadet grey	h	205
+Cadet grey	h	182
+Cadet grey	h	200
+Cadet grey	h	199
+Cadet grey	h	226
+Nuremberg–Bamberg railway	h	160
+Line 1	h	80
+Green Line	h	40
+Purple Line	h	40
+Tufts Blue	h	210
+Flieden–Gemünden railway	h	160
+Bebra–Baunatal-Guntershausen railway	h	130
+Vanilla	h	48
+Vanilla	h	346
+Vanilla	h	32
+Frankfurt-Hanau Railway	h	160
+Selby Diversion	h	201
+Shades of blue	h	240
+Shades of blue	h	199
+Shades of blue	h	195
+Shades of blue	h	187
+Shades of blue	h	197
+Shades of blue	h	190
+Shades of blue	h	231
+Shades of blue	h	217
+Shades of blue	h	203
+Shades of blue	h	236
+Shades of blue	h	226
+Shades of blue	h	254.8
+Shades of blue	h	224
+Nuremberg–Augsburg railway	h	200
+KTM ETS	h	140
+Ries Railway	h	120
+True Blue	h	207
+Incheon Airport Maglev	h	110
+Würzburg–Bamberg railway	h	160
+Casablanca Tramway	h	19
+Shades of white	h	0
+Shades of white	h	240
+Shades of white	h	60
+Shades of white	h	40
+Shades of white	h	25
+Shades of white	h	48
+Shades of white	h	39
+Shades of white	h	57
+Shades of white	h	30
+Shades of white	h	34
+Shades of white	h	37
+Shades of white	h	46
+Shades of white	h	42
+Shades of white	h	50
+Shades of white	h	36
+Shades of white	h	45
+Jasmine	h	47
+Alice blue	h	208
+Nagahori Tsurumi-ryokuchi Line	h	70
+Sennichimae Line	h	70
+Tanimachi Line	h	70
+U5	h	21.7
+U6	h	26.1
+U7	h	26.2
+U8	h	29
+Koralm Railway	h	250
+Shades of gray	h	195
+Shades of gray	h	40
+Shades of gray	h	135
+Shades of gray	h	60
+Shades of gray	h	120
+Shades of gray	h	204
+Shades of gray	h	229
+Shades of gray	h	205
+Shades of gray	h	210
+Shades of gray	h	216
+Shades of gray	h	158
+Shades of gray	h	212
+Shades of gray	h	330
+Shades of gray	h	12
+Shades of gray	h	287
+Shades of gray	h	30
+M4	h	100
+Line A	h	50
+Coffee	h	25
+Coffee	h	26
+Coffee	h	30
+Lion	h	33
+Shades of violet	h	274
+Shades of violet	h	270
+Shades of violet	h	277
+Shades of violet	h	300
+Shades of violet	h	282
+Shades of violet	h	276
+Shades of violet	h	275
+Shades of violet	h	279
+Shades of violet	h	288
+Shades of violet	h	296
+Shades of violet	h	272
+Shades of violet	h	264
+Shades of violet	h	307
+Shades of violet	h	289
+Shades of cyan	h	180
+Shades of cyan	h	193
+Shades of cyan	h	151
+Shades of cyan	h	160
+Shades of cyan	h	192
+Shades of cyan	h	196
+Shades of cyan	h	183
+Shades of cyan	h	209
+Shades of cyan	h	171
+Shades of cyan	h	175
+Shades of cyan	h	187
+Shades of cyan	h	190
+Shades of cyan	h	174
+Shades of cyan	h	177
+Shades of cyan	h	161
+Shades of purple	h	300
+Shades of purple	h	325
+Shades of purple	h	267
+Shades of purple	h	322
+Shades of purple	h	276.92
+Shades of purple	h	270
+Shades of purple	h	288
+Shades of purple	h	276
+Shades of purple	h	302
+Shades of purple	h	286
+Shades of purple	h	292
+Shades of purple	h	312
+Shades of purple	h	333
+Shades of purple	h	285
+Shades of purple	h	316
+Shades of purple	h	266
+Shades of purple	h	290
+Shades of purple	h	301
+Shades of purple	h	284
+Shades of purple	h	311
+Shades of purple	h	287
+Shades of purple	h	308
+Shades of purple	h	291
+Sky blue	h	197
+Sky blue	h	180
+Sky blue	h	203
+Sky blue	h	190
+Sky blue	h	192
+Sky blue	h	195
+Sky blue	h	212
+Sky blue	h	199
+Shades of brown	h	30
+Shades of brown	h	0
+Shades of brown	h	45
+Shades of brown	h	22
+Shades of brown	h	60
+Shades of brown	h	49
+Shades of brown	h	9
+Shades of brown	h	10
+Shades of brown	h	31
+Shades of brown	h	25
+Shades of brown	h	19
+Shades of brown	h	37
+Shades of brown	h	28
+Shades of brown	h	33
+Shades of brown	h	359
+Shades of brown	h	26
+Shades of brown	h	15
+Shades of brown	h	34
+Western line	h	100
+Gyermekvasút	h	20
+San'yō Main Line	h	130
+Thiruvananthapuram–Mangalore high-speed passenger corridor	h	300
+Ancona–Orte railway	h	180
+Mannar Line	h	120
+Ingolstadt–Treuchtlingen railway	h	160
+Oxford Blue	h	212
+CST–Panvel fast corridor	h	110
+Aarhus Letbane	h	100
+Shades of black	h	240
+Shades of black	h	97
+Shades of black	h	30
+Shades of black	h	204
+Shades of black	h	191
+Shades of black	h	10
+Shades of black	h	70
+Shades of black	h	195
+Shades of black	h	151
+Shades of black	h	135
+Shades of black	h	300
+Shades of black	h	180
+Shades of black	h	6
+Tallinn–Tapa railway	h	120
+Coastal Line	h	100
+Baker-Miller Pink	h	344
+M5	h	80
+Indian red	h	0
+Indian red	h	10
+Indian red	h	357
+Indian red	h	12
+Suzhou–Jiaxing Railway	h	35
+Confederation Line	h	35
+Citron	h	64
+Buchloe–Memmingen railway	h	140
+Rosenheim–Salzburg railway	h	160
+National symbols of Nepal	h	348
+Balranald railway line	h	30
+Coyote brown	h	31.3
+Valšov–Rýmařov railway	h	50
+Štúrovo–Čata–Levice railway	h	80
+Zvolen–Čata railway	h	80
+Como–Lecco railway	h	90
+Seregno–Bergamo railway	h	120
+Line 1, Nanchang Metro	h	80
+Line 2, Nanchang Metro	h	80
+Termoli–Venafro railway	h	120
+Pavia–Alessandria railway	h	135
+Novara–Alessandria railway	h	135
+Budapest–Murakeresztúr railway	h	120
+Barcelona–Cerbère railway	h	160
+Mulberry	h	285
+Acid green	h	65
+Android green	h	74
+Kobicha	h	28
+Nocera Inferiore–Mercato San Severino railway	h	120
+Tarvisio–Ljubljana Railway	h	100
+Federal Standard 595 camouflage colours	h	212.3
+Federal Standard 595 camouflage colours	h	30
+Federal Standard 595 camouflage colours	h	56.3
+Federal Standard 595 camouflage colours	h	82.5
+Federal Standard 595 camouflage colours	h	60
+Federal Standard 595 camouflage colours	h	45
+Federal Standard 595 camouflage colours	h	36.8
+Federal Standard 595 camouflage colours	h	33.5
+Federal Standard 595 camouflage colours	h	39.1
+Federal Standard 595 camouflage colours	h	31.5
+Federal Standard 595 camouflage colours	h	33.9
+Federal Standard 595 camouflage colours	h	210
+Federal Standard 595 camouflage colours	h	76.8
+Federal Standard 595 camouflage colours	h	25.7
+Federal Standard 595 camouflage colours	h	24.8
+Federal Standard 595 camouflage colours	h	24
+Federal Standard 595 camouflage colours	h	26
+Federal Standard 595 camouflage colours	h	34.1
+Federal Standard 595 camouflage colours	h	47
+Odense Letbane	h	70
+Sarajevo-Ploče railway	h	70
+Dark purple	h	291
+Marigold	h	39
+Marigold	h	51
+Marigold	h	45
+Marigold	h	43
+Raisin black	h	300
+SkyLine	h	52
+Addis Ababa–Djibouti Railway	h	160
+Green Line	h	80
+Santhià–Biella railway	h	130
+Epsom Salts Monorail	h	56
+Biella–Novara railway	h	90
+Novara–Varallo railway	h	90
+Cyclamen	h	0
+Line 3, Xi'an Metro	h	80
+Oldenburg–Osnabrück railway	h	120
+Delmenhorst–Hesepe railway	h	80
+Poznań–Szczecin railway	h	150
+Lagos–Kano Standard Gauge Railway	h	100
+Sulechów–Luboń railway line	h	110
+Marian blue	h	193
+Poznań–Skandawa railway	h	150
+Semmering Base Tunnel	h	250
+Marengo	h	212
+Marengo	h	0
+Warsaw–Kunowice railway	h	160
+Warsaw–Grodzisk Mazowiecki railway	h	120
+Kemence Forest Museum Railway	h	15
+Reda–Hel railway	h	100
+Warsaw–Gdańsk railway	h	160

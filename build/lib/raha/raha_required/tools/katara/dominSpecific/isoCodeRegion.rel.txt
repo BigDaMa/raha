@@ -1,0 +1,2810 @@
+Aarau	isoCodeRegion	CH-AG
+Basel	isoCodeRegion	CH-BS
+Geneva	isoCodeRegion	CH-GE
+Lausanne	isoCodeRegion	CH-VD
+Gruyères	isoCodeRegion	CH-FR
+Solothurn	isoCodeRegion	CH-SO
+Bern	isoCodeRegion	CH-BE
+Montreux	isoCodeRegion	CH-VD
+Zug	isoCodeRegion	CH-ZG
+Davos	isoCodeRegion	CH-GR
+Fribourg	isoCodeRegion	CH-FR
+Chur	isoCodeRegion	CH-GR
+Schaffhausen	isoCodeRegion	CH-SH
+Cunter	isoCodeRegion	CH-GR
+Lucerne	isoCodeRegion	CH-LU
+Rolle	isoCodeRegion	CH-VD
+Liestal	isoCodeRegion	CH-BL
+Erlenbach, Switzerland	isoCodeRegion	CH-ZH
+Weiach	isoCodeRegion	CH-ZH
+Renens	isoCodeRegion	CH-VD
+Lauterbrunnen	isoCodeRegion	CH-BE
+Schwyz	isoCodeRegion	CH-SZ
+Lugano	isoCodeRegion	CH-TI
+St. Moritz	isoCodeRegion	CH-GR
+Stans	isoCodeRegion	CH-NW
+Rapperswil-Jona	isoCodeRegion	CH-SG
+Männedorf	isoCodeRegion	CH-ZH
+Locarno	isoCodeRegion	CH-TI
+Meilen	isoCodeRegion	CH-ZH
+Habsburg, Switzerland	isoCodeRegion	CH-AG
+Kerns	isoCodeRegion	CH-OW
+Sarnen	isoCodeRegion	CH-OW
+Sachseln	isoCodeRegion	CH-OW
+Alpnach	isoCodeRegion	CH-OW
+Giswil	isoCodeRegion	CH-OW
+Lungern	isoCodeRegion	CH-OW
+Engelberg	isoCodeRegion	CH-OW
+Beckenried	isoCodeRegion	CH-NW
+Buochs	isoCodeRegion	CH-NW
+Dallenwil	isoCodeRegion	CH-NW
+Ennetbürgen	isoCodeRegion	CH-NW
+Emmetten	isoCodeRegion	CH-NW
+Hergiswil	isoCodeRegion	CH-NW
+Ennetmoos	isoCodeRegion	CH-NW
+Oberdorf, Nidwalden	isoCodeRegion	CH-NW
+Stansstad	isoCodeRegion	CH-NW
+Wolfenschiessen	isoCodeRegion	CH-NW
+Egg, Switzerland	isoCodeRegion	CH-ZH
+Bad Ragaz	isoCodeRegion	CH-SG
+Urnäsch	isoCodeRegion	CH-AR
+Herisau	isoCodeRegion	CH-AR
+Schwellbrunn	isoCodeRegion	CH-AR
+Schönengrund	isoCodeRegion	CH-AR
+Hundwil	isoCodeRegion	CH-AR
+Stein, Appenzell	isoCodeRegion	CH-AR
+Waldstatt	isoCodeRegion	CH-AR
+Teufen, Appenzell Ausserrhoden	isoCodeRegion	CH-AR
+Bühler	isoCodeRegion	CH-AR
+Speicher, Switzerland	isoCodeRegion	CH-AR
+Trogen	isoCodeRegion	CH-AR
+Gais	isoCodeRegion	CH-AR
+Rehetobel	isoCodeRegion	CH-AR
+Heiden, Switzerland	isoCodeRegion	CH-AR
+Reute	isoCodeRegion	CH-AR
+Wolfhalden	isoCodeRegion	CH-AR
+Lutzenberg, Switzerland	isoCodeRegion	CH-AR
+Walzenhausen	isoCodeRegion	CH-AR
+Grub, Appenzell Ausserrhoden	isoCodeRegion	CH-AR
+Wald, Appenzell Ausserrhoden	isoCodeRegion	CH-AR
+Appenzell	isoCodeRegion	CH-AI
+Saas-Fee	isoCodeRegion	CH-VS
+Altdorf, Uri	isoCodeRegion	CH-UR
+Schmerikon	isoCodeRegion	CH-SG
+Stäfa	isoCodeRegion	CH-ZH
+Uetikon am See	isoCodeRegion	CH-ZH
+Herrliberg	isoCodeRegion	CH-ZH
+Küsnacht	isoCodeRegion	CH-ZH
+Waldenburg, Switzerland	isoCodeRegion	CH-BL
+Rorschach, Switzerland	isoCodeRegion	CH-SG
+Meiringen	isoCodeRegion	CH-BE
+Glarus	isoCodeRegion	CH-GL
+St. Gallen	isoCodeRegion	CH-SG
+Riehen	isoCodeRegion	CH-BS
+Thun	isoCodeRegion	CH-BE
+Zermatt	isoCodeRegion	CH-VS
+Kandersteg	isoCodeRegion	CH-BE
+Montmelon	isoCodeRegion	CH-JU
+Saint-Ursanne	isoCodeRegion	CH-JU
+Delémont	isoCodeRegion	CH-JU
+Vevey	isoCodeRegion	CH-VD
+Oberhof, Aargau	isoCodeRegion	CH-AG
+Schleinikon	isoCodeRegion	CH-ZH
+Wildhaus	isoCodeRegion	CH-SG
+Neuchâtel	isoCodeRegion	CH-NE
+Goldingen	isoCodeRegion	CH-SG
+Winterthur	isoCodeRegion	CH-ZH
+Bienne	isoCodeRegion	CH-BE
+Interlaken	isoCodeRegion	CH-BE
+Steinen, Switzerland	isoCodeRegion	CH-SZ
+Sion, Switzerland	isoCodeRegion	CH-VS
+Bex	isoCodeRegion	CH-VD
+Aigle	isoCodeRegion	CH-VD
+Chessel	isoCodeRegion	CH-VD
+Corbeyrier	isoCodeRegion	CH-VD
+Gryon	isoCodeRegion	CH-VD
+Rennaz	isoCodeRegion	CH-VD
+Lavey-Morcles	isoCodeRegion	CH-VD
+Noville, Switzerland	isoCodeRegion	CH-VD
+Leysin	isoCodeRegion	CH-VD
+Ormont-Dessus	isoCodeRegion	CH-VD
+Ormont-Dessous	isoCodeRegion	CH-VD
+Ollon	isoCodeRegion	CH-VD
+Roche, Vaud	isoCodeRegion	CH-VD
+Yvorne	isoCodeRegion	CH-VD
+Villeneuve, Vaud	isoCodeRegion	CH-VD
+Apples, Vaud	isoCodeRegion	CH-VD
+Aubonne	isoCodeRegion	CH-VD
+Berolle	isoCodeRegion	CH-VD
+Ballens	isoCodeRegion	CH-VD
+Bière	isoCodeRegion	CH-VD
+Longirod	isoCodeRegion	CH-VD
+Bougy-Villars	isoCodeRegion	CH-VD
+Féchy	isoCodeRegion	CH-VD
+Gimel, Switzerland	isoCodeRegion	CH-VD
+Thal, St. Gallen	isoCodeRegion	CH-SG
+Boussens, Switzerland	isoCodeRegion	CH-VD
+Daillens	isoCodeRegion	CH-VD
+Cossonay	isoCodeRegion	CH-VD
+Gossens	isoCodeRegion	CH-VD
+Pompaples	isoCodeRegion	CH-VD
+Belmont-sur-Lausanne	isoCodeRegion	CH-VD
+Cheseaux-sur-Lausanne	isoCodeRegion	CH-VD
+Jouxtens-Mézery	isoCodeRegion	CH-VD
+Le Mont-sur-Lausanne	isoCodeRegion	CH-VD
+Épalinges	isoCodeRegion	CH-VD
+Crissier	isoCodeRegion	CH-VD
+Paudex	isoCodeRegion	CH-VD
+Prilly	isoCodeRegion	CH-VD
+Romanel-sur-Lausanne	isoCodeRegion	CH-VD
+Pully	isoCodeRegion	CH-VD
+Leibstadt	isoCodeRegion	CH-AG
+Nyon	isoCodeRegion	CH-VD
+Le Chenit	isoCodeRegion	CH-VD
+L'Abbaye	isoCodeRegion	CH-VD
+Le Lieu	isoCodeRegion	CH-VD
+Krinau	isoCodeRegion	CH-SG
+Ronco sopra Ascona	isoCodeRegion	CH-TI
+Gland, Switzerland	isoCodeRegion	CH-VD
+Chexbres	isoCodeRegion	CH-VD
+Cully, Switzerland	isoCodeRegion	CH-VD
+Epesses	isoCodeRegion	CH-VD
+Grandvaux	isoCodeRegion	CH-VD
+Forel, Vaud	isoCodeRegion	CH-VD
+Puidoux	isoCodeRegion	CH-VD
+Riex	isoCodeRegion	CH-VD
+Lutry	isoCodeRegion	CH-VD
+Rivaz	isoCodeRegion	CH-VD
+Savigny, Switzerland	isoCodeRegion	CH-VD
+Saint-Saphorin	isoCodeRegion	CH-VD
+Villette, Vaud	isoCodeRegion	CH-VD
+Egerkingen	isoCodeRegion	CH-SO
+Faido	isoCodeRegion	CH-TI
+Aclens	isoCodeRegion	CH-VD
+Bremblens	isoCodeRegion	CH-VD
+Morges	isoCodeRegion	CH-VD
+Buchillon	isoCodeRegion	CH-VD
+Bussigny, Vaud	isoCodeRegion	CH-VD
+Bussy-Chardonney	isoCodeRegion	CH-VD
+Chavannes-près-Renens	isoCodeRegion	CH-VD
+Clarmont	isoCodeRegion	CH-VD
+Colombier, Vaud	isoCodeRegion	CH-VD
+Denges	isoCodeRegion	CH-VD
+Échandens	isoCodeRegion	CH-VD
+Denens	isoCodeRegion	CH-VD
+Échichens	isoCodeRegion	CH-VD
+Lavigny, Switzerland	isoCodeRegion	CH-VD
+Écublens, Vaud	isoCodeRegion	CH-VD
+Lonay	isoCodeRegion	CH-VD
+Lully, Vaud	isoCodeRegion	CH-VD
+Boudevilliers	isoCodeRegion	CH-NE
+Ausserbinn	isoCodeRegion	CH-VS
+Bellwald	isoCodeRegion	CH-VS
+Grindelwald	isoCodeRegion	CH-BE
+Lussy-sur-Morges	isoCodeRegion	CH-VD
+Monnaz	isoCodeRegion	CH-VD
+Préverenges	isoCodeRegion	CH-VD
+Reverolle	isoCodeRegion	CH-VD
+Romanel-sur-Morges	isoCodeRegion	CH-VD
+Saint-Prex	isoCodeRegion	CH-VD
+Saint-Saphorin-sur-Morges	isoCodeRegion	CH-VD
+Saint-Sulpice, Vaud	isoCodeRegion	CH-VD
+Tolochenaz	isoCodeRegion	CH-VD
+Vaux-sur-Morges	isoCodeRegion	CH-VD
+Villars-Sainte-Croix	isoCodeRegion	CH-VD
+Villars-sous-Yens	isoCodeRegion	CH-VD
+Vullierens	isoCodeRegion	CH-VD
+Vufflens-le-Château	isoCodeRegion	CH-VD
+Yens	isoCodeRegion	CH-VD
+Lachen, Switzerland	isoCodeRegion	CH-SZ
+Adelboden	isoCodeRegion	CH-BE
+Allmendingen bei Bern	isoCodeRegion	CH-BE
+Spiez	isoCodeRegion	CH-BE
+Belp	isoCodeRegion	CH-BE
+Bremgarten bei Bern	isoCodeRegion	CH-BE
+Büren an der Aare	isoCodeRegion	CH-BE
+Brienz	isoCodeRegion	CH-BE
+Courtelary	isoCodeRegion	CH-BE
+Grossaffoltern	isoCodeRegion	CH-BE
+Burgdorf, Switzerland	isoCodeRegion	CH-BE
+Martigny	isoCodeRegion	CH-VS
+Moutier	isoCodeRegion	CH-BE
+Hasliberg	isoCodeRegion	CH-BE
+Herzogenbuchsee	isoCodeRegion	CH-BE
+Iseltwald	isoCodeRegion	CH-BE
+La Neuveville	isoCodeRegion	CH-BE
+Wengen	isoCodeRegion	CH-BE
+Gimmelwald	isoCodeRegion	CH-GE
+Isenfluh	isoCodeRegion	CH-GE
+Münchenwiler	isoCodeRegion	CH-BE
+Wald, Bern	isoCodeRegion	CH-BE
+Zimmerwald	isoCodeRegion	CH-BE
+Wangen an der Aare	isoCodeRegion	CH-BE
+Wichtrach	isoCodeRegion	CH-BE
+Stein am Rhein	isoCodeRegion	CH-SH
+Langenthal	isoCodeRegion	CH-BE
+Münsingen	isoCodeRegion	CH-BE
+Thierachern	isoCodeRegion	CH-BE
+Meikirch	isoCodeRegion	CH-BE
+Lotzwil	isoCodeRegion	CH-BE
+Bellinzona	isoCodeRegion	CH-TI
+Göschenen	isoCodeRegion	CH-UR
+Binn	isoCodeRegion	CH-VS
+Trub	isoCodeRegion	CH-BE
+Orbe	isoCodeRegion	CH-VD
+Kloten	isoCodeRegion	CH-ZH
+Airolo	isoCodeRegion	CH-TI
+Agno, Ticino	isoCodeRegion	CH-TI
+Chiasso	isoCodeRegion	CH-TI
+Horgen	isoCodeRegion	CH-ZH
+Sargans	isoCodeRegion	CH-SG
+Gurin	isoCodeRegion	CH-TI
+Lausen	isoCodeRegion	CH-BL
+Bargen, Schaffhausen	isoCodeRegion	CH-SH
+Bülach	isoCodeRegion	CH-ZH
+Marin-Epagnier	isoCodeRegion	CH-NE
+St. Margrethen	isoCodeRegion	CH-SG
+Yverdon-les-Bains	isoCodeRegion	CH-VD
+Mund	isoCodeRegion	CH-VS
+Vitznau	isoCodeRegion	CH-LU
+Dintikon	isoCodeRegion	CH-AG
+Zumikon	isoCodeRegion	CH-ZH
+Thalwil	isoCodeRegion	CH-ZH
+Olten	isoCodeRegion	CH-SO
+Aarburg	isoCodeRegion	CH-AG
+Beinwil am See	isoCodeRegion	CH-AG
+Lenzburg	isoCodeRegion	CH-AG
+Saint-Oyens	isoCodeRegion	CH-VD
+Chabrey	isoCodeRegion	CH-VD
+Faoug	isoCodeRegion	CH-VD
+Cudrefin	isoCodeRegion	CH-VD
+Oleyres	isoCodeRegion	CH-VD
+Vallamand	isoCodeRegion	CH-VD
+Bellikon	isoCodeRegion	CH-AG
+Berikon	isoCodeRegion	CH-AG
+Koblenz, Switzerland	isoCodeRegion	CH-AG
+Kreuzlingen	isoCodeRegion	CH-TG
+Birmenstorf, Aargau	isoCodeRegion	CH-AG
+Magden	isoCodeRegion	CH-AG
+Boswil	isoCodeRegion	CH-AG
+Bremgarten, Aargau	isoCodeRegion	CH-AG
+Birr, Aargau	isoCodeRegion	CH-AG
+Schlossrued	isoCodeRegion	CH-AG
+Cham, Switzerland	isoCodeRegion	CH-ZG
+Brittnau	isoCodeRegion	CH-AG
+Brugg	isoCodeRegion	CH-AG
+Buchs, Aargau	isoCodeRegion	CH-AG
+Grächen	isoCodeRegion	CH-VS
+Buttwil	isoCodeRegion	CH-AG
+Ascona	isoCodeRegion	CH-TI
+Céligny	isoCodeRegion	CH-GE
+Dietwil	isoCodeRegion	CH-AG
+Dottikon	isoCodeRegion	CH-AG
+Hochfelden, Switzerland	isoCodeRegion	CH-ZH
+Langnau am Albis	isoCodeRegion	CH-ZH
+Val Müstair	isoCodeRegion	CH-GR
+Zernez	isoCodeRegion	CH-GR
+Emmen, Switzerland	isoCodeRegion	CH-LU
+Ennetbaden	isoCodeRegion	CH-AG
+Erlinsbach, Aargau	isoCodeRegion	CH-AG
+Fahrwangen	isoCodeRegion	CH-AG
+Fischbach-Göslikon	isoCodeRegion	CH-AG
+Colombier, Neuchâtel	isoCodeRegion	CH-NE
+Derendingen, Switzerland	isoCodeRegion	CH-SO
+Kilchberg, Zürich	isoCodeRegion	CH-ZH
+Visp	isoCodeRegion	CH-VS
+Fisibach	isoCodeRegion	CH-AG
+Mendrisio	isoCodeRegion	CH-TI
+Porrentruy	isoCodeRegion	CH-JU
+Courtételle	isoCodeRegion	CH-JU
+Fislisbach	isoCodeRegion	CH-AG
+Gränichen	isoCodeRegion	CH-AG
+Morcote	isoCodeRegion	CH-TI
+Beromünster	isoCodeRegion	CH-LU
+Murten	isoCodeRegion	CH-FR
+Uzwil	isoCodeRegion	CH-SG
+Freienwil	isoCodeRegion	CH-AG
+Buus	isoCodeRegion	CH-BL
+Thalheim an der Thur	isoCodeRegion	CH-ZH
+Full-Reuenthal	isoCodeRegion	CH-AG
+Eischoll	isoCodeRegion	CH-VS
+Marchissy	isoCodeRegion	CH-VD
+Saint-George	isoCodeRegion	CH-VD
+Avusy	isoCodeRegion	CH-GE
+Staffelbach	isoCodeRegion	CH-AG
+Avully	isoCodeRegion	CH-GE
+Furna	isoCodeRegion	CH-GR
+Pailly	isoCodeRegion	CH-VD
+Densbüren	isoCodeRegion	CH-AG
+Saubraz	isoCodeRegion	CH-VD
+Pizy	isoCodeRegion	CH-VD
+Saint-Livres	isoCodeRegion	CH-VD
+Mollens, Vaud	isoCodeRegion	CH-VD
+Montherod	isoCodeRegion	CH-VD
+Grandson, Switzerland	isoCodeRegion	CH-VD
+Avenches	isoCodeRegion	CH-VD
+Corsier-sur-Vevey	isoCodeRegion	CH-VD
+Safien	isoCodeRegion	CH-GR
+Giez	isoCodeRegion	CH-VD
+Rafz	isoCodeRegion	CH-ZH
+Grancy	isoCodeRegion	CH-VD
+Sullens	isoCodeRegion	CH-VD
+La Sarraz	isoCodeRegion	CH-VD
+Lussery-Villars	isoCodeRegion	CH-VD
+Senarclens	isoCodeRegion	CH-VD
+Mex, Vaud	isoCodeRegion	CH-VD
+Sévery	isoCodeRegion	CH-VD
+Éclépens	isoCodeRegion	CH-VD
+Oron, Vaud	isoCodeRegion	CH-VD
+Dizy, Switzerland	isoCodeRegion	CH-VD
+Château-d'Œx	isoCodeRegion	CH-VD
+Chevilly, Switzerland	isoCodeRegion	CH-VD
+L'Isle	isoCodeRegion	CH-VD
+Croy, Switzerland	isoCodeRegion	CH-VD
+Zofingen	isoCodeRegion	CH-AG
+La Chaux-de-Fonds	isoCodeRegion	CH-NE
+Bad Zurzach	isoCodeRegion	CH-AG
+Trélex	isoCodeRegion	CH-VD
+Rheinfelden	isoCodeRegion	CH-AG
+Fiez	isoCodeRegion	CH-VD
+Trey, Switzerland	isoCodeRegion	CH-VD
+Moudon	isoCodeRegion	CH-VD
+Payerne	isoCodeRegion	CH-VD
+Aadorf	isoCodeRegion	CH-TG
+Aarwangen	isoCodeRegion	CH-BE
+Aarberg	isoCodeRegion	CH-BE
+Étoy, Switzerland	isoCodeRegion	CH-VD
+Dietikon	isoCodeRegion	CH-ZH
+Chêne-Bougeries	isoCodeRegion	CH-GE
+Arni, Aargau	isoCodeRegion	CH-AG
+Assens, Switzerland	isoCodeRegion	CH-VD
+Ardon, Switzerland	isoCodeRegion	CH-VS
+Orny, Switzerland	isoCodeRegion	CH-VD
+Ladir	isoCodeRegion	CH-GR
+Möhlin	isoCodeRegion	CH-AG
+Stein, Aargau	isoCodeRegion	CH-AG
+Sempach	isoCodeRegion	CH-LU
+Romanshorn	isoCodeRegion	CH-TG
+Suraua	isoCodeRegion	CH-GR
+La Chaux	isoCodeRegion	CH-VD
+Vaugondry	isoCodeRegion	CH-VD
+Sainte-Croix, Switzerland	isoCodeRegion	CH-VD
+Moiry, Switzerland	isoCodeRegion	CH-VD
+Gy, Switzerland	isoCodeRegion	CH-GE
+Mur, Switzerland	isoCodeRegion	CH-VD
+Ferreyres	isoCodeRegion	CH-VD
+Saanen	isoCodeRegion	CH-BE
+Veytaux	isoCodeRegion	CH-VD
+Unteriberg	isoCodeRegion	CH-SZ
+Boudry	isoCodeRegion	CH-NE
+Chavornay, Switzerland	isoCodeRegion	CH-VD
+Einsiedeln	isoCodeRegion	CH-SZ
+Oberiberg	isoCodeRegion	CH-SZ
+Biberstein	isoCodeRegion	CH-AG
+Rain, Lucerne	isoCodeRegion	CH-LU
+Gersau	isoCodeRegion	CH-SZ
+Root, Switzerland	isoCodeRegion	CH-LU
+Arzier-Le Muids	isoCodeRegion	CH-VD
+Zuzgen	isoCodeRegion	CH-AG
+Constantine, Switzerland	isoCodeRegion	CH-VD
+Penthalaz	isoCodeRegion	CH-VD
+Penthaz	isoCodeRegion	CH-VD
+Pampigny	isoCodeRegion	CH-VD
+Treytorrens	isoCodeRegion	CH-VD
+Dübendorf	isoCodeRegion	CH-ZH
+Provence, Switzerland	isoCodeRegion	CH-VD
+Villars-Burquin	isoCodeRegion	CH-VD
+Flühli	isoCodeRegion	CH-LU
+Entlebuch	isoCodeRegion	CH-LU
+Menziken	isoCodeRegion	CH-AG
+Mauraz	isoCodeRegion	CH-VD
+Frauenfeld	isoCodeRegion	CH-TG
+Agiez	isoCodeRegion	CH-VD
+Ropraz	isoCodeRegion	CH-VD
+Gelfingen	isoCodeRegion	CH-LU
+Dagmersellen	isoCodeRegion	CH-LU
+Rougemont, Switzerland	isoCodeRegion	CH-VD
+Rossinière	isoCodeRegion	CH-VD
+Donatyre	isoCodeRegion	CH-VD
+Chavannes-le-Veyron	isoCodeRegion	CH-VD
+Prangins	isoCodeRegion	CH-VD
+Montmagny, Switzerland	isoCodeRegion	CH-VD
+Villars-le-Grand	isoCodeRegion	CH-VD
+Ilanz	isoCodeRegion	CH-GR
+Aire-la-Ville	isoCodeRegion	CH-GE
+Anières	isoCodeRegion	CH-GE
+Soral	isoCodeRegion	CH-GE
+Cremin	isoCodeRegion	CH-VD
+Vuorz	isoCodeRegion	CH-GR
+Montcherand	isoCodeRegion	CH-VD
+Romairon	isoCodeRegion	CH-VD
+Saules, Switzerland	isoCodeRegion	CH-BE
+Andermatt	isoCodeRegion	CH-UR
+Tenna, Switzerland	isoCodeRegion	CH-GR
+Parpan	isoCodeRegion	CH-GR
+Pratteln	isoCodeRegion	CH-BL
+Kienersrüti	isoCodeRegion	CH-BE
+Uetendorf	isoCodeRegion	CH-BE
+Wallisellen	isoCodeRegion	CH-ZH
+Begnins	isoCodeRegion	CH-VD
+Arogno	isoCodeRegion	CH-TI
+Carouge	isoCodeRegion	CH-GE
+Arosa	isoCodeRegion	CH-GR
+Vernier, Switzerland	isoCodeRegion	CH-GE
+Bardonnex	isoCodeRegion	CH-GE
+Bellevue, Switzerland	isoCodeRegion	CH-GE
+Cartigny, Switzerland	isoCodeRegion	CH-GE
+Chancy	isoCodeRegion	CH-GE
+Chêne-Bourg	isoCodeRegion	CH-GE
+Thônex	isoCodeRegion	CH-GE
+Choulex	isoCodeRegion	CH-GE
+Collex-Bossy	isoCodeRegion	CH-GE
+Collonge-Bellerive	isoCodeRegion	CH-GE
+Confignon	isoCodeRegion	CH-GE
+Corsier	isoCodeRegion	CH-GE
+Genthod	isoCodeRegion	CH-GE
+Dardagny	isoCodeRegion	CH-GE
+Cologny	isoCodeRegion	CH-GE
+Lucens	isoCodeRegion	CH-VD
+Coinsins	isoCodeRegion	CH-VD
+Zell, Zürich	isoCodeRegion	CH-ZH
+Gallenkirch	isoCodeRegion	CH-AG
+Schongau, Lucerne	isoCodeRegion	CH-LU
+Dällikon	isoCodeRegion	CH-ZH
+Bassersdorf	isoCodeRegion	CH-ZH
+Lens, Switzerland	isoCodeRegion	CH-VS
+Böttstein	isoCodeRegion	CH-AG
+Leuk	isoCodeRegion	CH-VS
+Brissago	isoCodeRegion	CH-TI
+Bernex, Switzerland	isoCodeRegion	CH-GE
+Le Locle	isoCodeRegion	CH-NE
+Caslano	isoCodeRegion	CH-TI
+Wil	isoCodeRegion	CH-SG
+Sierre	isoCodeRegion	CH-VS
+Greifensee, Zürich	isoCodeRegion	CH-ZH
+Wetzikon	isoCodeRegion	CH-ZH
+Cademario	isoCodeRegion	CH-TI
+Bagnes	isoCodeRegion	CH-VS
+Sembrancher	isoCodeRegion	CH-VS
+Dorf, Switzerland	isoCodeRegion	CH-ZH
+Gilly	isoCodeRegion	CH-VD
+Bironico	isoCodeRegion	CH-TI
+Schönholzerswilen	isoCodeRegion	CH-TG
+Küssnacht	isoCodeRegion	CH-SZ
+Portein	isoCodeRegion	CH-GR
+Bettingen	isoCodeRegion	CH-BS
+Welschenrohr	isoCodeRegion	CH-SO
+Oberägeri	isoCodeRegion	CH-ZG
+Oberuzwil	isoCodeRegion	CH-SG
+Belmont-sur-Yverdon	isoCodeRegion	CH-VD
+Chamblon	isoCodeRegion	CH-VD
+Champvent	isoCodeRegion	CH-VD
+Chanéaz	isoCodeRegion	CH-VD
+Bioley-Magnoux	isoCodeRegion	CH-VD
+Cronay	isoCodeRegion	CH-VD
+Cuarny	isoCodeRegion	CH-VD
+Chêne-Pâquier	isoCodeRegion	CH-VD
+Démoret	isoCodeRegion	CH-VD
+Donneloye	isoCodeRegion	CH-VD
+Essert-Pittet	isoCodeRegion	CH-VD
+Cheseaux-Noréaz	isoCodeRegion	CH-VD
+Épendes, Vaud	isoCodeRegion	CH-VD
+Essert-sous-Champvent	isoCodeRegion	CH-VD
+Gressy	isoCodeRegion	CH-VD
+Chavannes-le-Chêne	isoCodeRegion	CH-VD
+Mézery-près-Donneloye	isoCodeRegion	CH-VD
+Mathod	isoCodeRegion	CH-VD
+Molondin	isoCodeRegion	CH-VD
+Montagny-près-Yverdon	isoCodeRegion	CH-VD
+Orzens	isoCodeRegion	CH-VD
+Orges, Switzerland	isoCodeRegion	CH-VD
+Oppens	isoCodeRegion	CH-VD
+Prahins	isoCodeRegion	CH-VD
+Pomy, Switzerland	isoCodeRegion	CH-VD
+Suscévaz	isoCodeRegion	CH-VD
+Treycovagnes	isoCodeRegion	CH-VD
+Rovray	isoCodeRegion	CH-VD
+Suchy	isoCodeRegion	CH-VD
+Ursins	isoCodeRegion	CH-VD
+Villars-Epeney	isoCodeRegion	CH-VD
+Villars-sous-Champvent	isoCodeRegion	CH-VD
+Valeyres-sous-Montagny	isoCodeRegion	CH-VD
+Valeyres-sous-Ursins	isoCodeRegion	CH-VD
+Vugelles-La Mothe	isoCodeRegion	CH-VD
+Yvonand	isoCodeRegion	CH-VD
+Champagne, Switzerland	isoCodeRegion	CH-VD
+Mies	isoCodeRegion	CH-VD
+Versoix	isoCodeRegion	CH-GE
+Schleitheim	isoCodeRegion	CH-SH
+Aranno	isoCodeRegion	CH-TI
+Vals, Switzerland	isoCodeRegion	CH-GR
+Roveredo	isoCodeRegion	CH-GR
+Busswil bei Büren	isoCodeRegion	CH-BE
+Sent	isoCodeRegion	CH-GR
+Échallens	isoCodeRegion	CH-VD
+Vuarrens	isoCodeRegion	CH-VD
+Saint-Barthélemy, Switzerland	isoCodeRegion	CH-VD
+Rueyres, Switzerland	isoCodeRegion	CH-VD
+Fey, Switzerland	isoCodeRegion	CH-VD
+Bercher	isoCodeRegion	CH-VD
+Belprahon	isoCodeRegion	CH-BE
+Onsernone	isoCodeRegion	CH-TI
+Tramelan	isoCodeRegion	CH-BE
+Vauffelin	isoCodeRegion	CH-BE
+Sonceboz-Sombeval	isoCodeRegion	CH-BE
+Sonvilier	isoCodeRegion	CH-BE
+Saint-Imier	isoCodeRegion	CH-BE
+Romont, Bern	isoCodeRegion	CH-BE
+Renan, Switzerland	isoCodeRegion	CH-BE
+Plagne, Switzerland	isoCodeRegion	CH-BE
+La Ferrière, Switzerland	isoCodeRegion	CH-BE
+Péry	isoCodeRegion	CH-BE
+Orvin	isoCodeRegion	CH-BE
+La Heutte	isoCodeRegion	CH-BE
+Mont-Tramelan	isoCodeRegion	CH-BE
+Cortébert	isoCodeRegion	CH-BE
+Cormoret	isoCodeRegion	CH-BE
+Corgémont	isoCodeRegion	CH-BE
+Villeret, Switzerland	isoCodeRegion	CH-BE
+Diesse	isoCodeRegion	CH-BE
+Lamboing	isoCodeRegion	CH-BE
+Prêles	isoCodeRegion	CH-BE
+Nods, Switzerland	isoCodeRegion	CH-BE
+Bévilard	isoCodeRegion	CH-BE
+Champoz	isoCodeRegion	CH-BE
+Châtelat	isoCodeRegion	CH-BE
+Corcelles, Bern	isoCodeRegion	CH-BE
+Court, Switzerland	isoCodeRegion	CH-BE
+Seehof, Switzerland	isoCodeRegion	CH-BE
+Crémines	isoCodeRegion	CH-BE
+Loveresse	isoCodeRegion	CH-BE
+Eschert	isoCodeRegion	CH-BE
+Malleray	isoCodeRegion	CH-BE
+Pontenet	isoCodeRegion	CH-BE
+Monible	isoCodeRegion	CH-BE
+Grandval, Switzerland	isoCodeRegion	CH-BE
+Reconvilier	isoCodeRegion	CH-BE
+Roches, Switzerland	isoCodeRegion	CH-BE
+Rebévelier	isoCodeRegion	CH-BE
+Perrefitte	isoCodeRegion	CH-BE
+Souboz	isoCodeRegion	CH-BE
+Schelten	isoCodeRegion	CH-BE
+Sorvilier	isoCodeRegion	CH-BE
+Sornetan	isoCodeRegion	CH-BE
+Saicourt	isoCodeRegion	CH-BE
+Tavannes	isoCodeRegion	CH-BE
+Oberglatt	isoCodeRegion	CH-ZH
+Boltigen	isoCodeRegion	CH-BE
+Silvaplana	isoCodeRegion	CH-GR
+Coppet	isoCodeRegion	CH-VD
+Pfäfers	isoCodeRegion	CH-SG
+Le Grand-Saconnex	isoCodeRegion	CH-GE
+Hermance	isoCodeRegion	CH-GE
+Romainmôtier-Envy	isoCodeRegion	CH-VD
+Meyrin	isoCodeRegion	CH-GE
+Kappel am Albis	isoCodeRegion	CH-ZH
+Saint-Cierges	isoCodeRegion	CH-VD
+Barberêche	isoCodeRegion	CH-FR
+Disentis	isoCodeRegion	CH-GR
+Walenstadt	isoCodeRegion	CH-SG
+Klosters-Serneus	isoCodeRegion	CH-GR
+Jussy, Switzerland	isoCodeRegion	CH-GE
+Laconnex	isoCodeRegion	CH-GE
+Lancy	isoCodeRegion	CH-GE
+Meinier	isoCodeRegion	CH-GE
+Flums	isoCodeRegion	CH-SG
+Onex, Switzerland	isoCodeRegion	CH-GE
+Perly-Certoux	isoCodeRegion	CH-GE
+Pregny-Chambésy	isoCodeRegion	CH-GE
+Plan-les-Ouates	isoCodeRegion	CH-GE
+Puplinge	isoCodeRegion	CH-GE
+Russin	isoCodeRegion	CH-GE
+Presinge	isoCodeRegion	CH-GE
+Troinex	isoCodeRegion	CH-GE
+Vandœuvres	isoCodeRegion	CH-GE
+Satigny	isoCodeRegion	CH-GE
+Veyrier	isoCodeRegion	CH-GE
+Illnau-Effretikon	isoCodeRegion	CH-ZH
+Linn, Aargau	isoCodeRegion	CH-AG
+Rüthi	isoCodeRegion	CH-SG
+Gossau, St. Gallen	isoCodeRegion	CH-SG
+Uster	isoCodeRegion	CH-ZH
+Riederalp	isoCodeRegion	CH-VS
+Rüschlikon	isoCodeRegion	CH-ZH
+Cugnasco	isoCodeRegion	CH-TI
+Cornaux	isoCodeRegion	CH-NE
+Ponte Tresa	isoCodeRegion	CH-TI
+Wettingen	isoCodeRegion	CH-AG
+Monthey	isoCodeRegion	CH-VS
+Hemmental	isoCodeRegion	CH-SH
+Malix	isoCodeRegion	CH-GR
+Laax	isoCodeRegion	CH-GR
+Molinis	isoCodeRegion	CH-GR
+Safenwil	isoCodeRegion	CH-AG
+Wengi	isoCodeRegion	CH-BE
+Aeschi bei Spiez	isoCodeRegion	CH-BE
+Lüen	isoCodeRegion	CH-GR
+Arnex-sur-Orbe	isoCodeRegion	CH-VD
+Gollion	isoCodeRegion	CH-VD
+Thayngen	isoCodeRegion	CH-SH
+Le Vaud	isoCodeRegion	CH-VD
+Henniez	isoCodeRegion	CH-VD
+Cottens, Vaud	isoCodeRegion	CH-VD
+Opfikon	isoCodeRegion	CH-ZH
+Kilchberg, Basel-Landschaft	isoCodeRegion	CH-BL
+Maracon	isoCodeRegion	CH-VD
+Cugy	isoCodeRegion	CH-VD
+Vich, Switzerland	isoCodeRegion	CH-VD
+Crans-près-Céligny	isoCodeRegion	CH-VD
+La Rippe	isoCodeRegion	CH-VD
+Ringgenberg	isoCodeRegion	CH-BE
+Oron-la-Ville	isoCodeRegion	CH-VD
+Juriens	isoCodeRegion	CH-VD
+Jongny	isoCodeRegion	CH-VD
+Penthéréaz	isoCodeRegion	CH-VD
+Châtillens	isoCodeRegion	CH-VD
+Borex	isoCodeRegion	CH-VD
+Islisberg	isoCodeRegion	CH-AG
+Troistorrents	isoCodeRegion	CH-VS
+Saint-Maurice, Switzerland	isoCodeRegion	CH-VS
+Diepflingen	isoCodeRegion	CH-BL
+Naz	isoCodeRegion	CH-VD
+Seon, Aargau	isoCodeRegion	CH-AG
+Bofflens	isoCodeRegion	CH-VD
+Estavayer-le-Lac	isoCodeRegion	CH-FR
+Veysonnaz	isoCodeRegion	CH-VS
+Villars-Tiercelin	isoCodeRegion	CH-VD
+Thierrens	isoCodeRegion	CH-VD
+Neuhausen am Rheinfall	isoCodeRegion	CH-SH
+Bassins	isoCodeRegion	CH-VD
+Bogis-Bossey	isoCodeRegion	CH-VD
+Chavannes-de-Bogis	isoCodeRegion	CH-VD
+Chavannes-des-Bois	isoCodeRegion	CH-VD
+Commugny	isoCodeRegion	CH-VD
+Crassier	isoCodeRegion	CH-VD
+Grens	isoCodeRegion	CH-VD
+Givrins	isoCodeRegion	CH-VD
+Duillier	isoCodeRegion	CH-VD
+Eysins	isoCodeRegion	CH-VD
+Founex	isoCodeRegion	CH-VD
+Genolier	isoCodeRegion	CH-VD
+Gingins	isoCodeRegion	CH-VD
+Signy-Avenex	isoCodeRegion	CH-VD
+Tannay, Switzerland	isoCodeRegion	CH-VD
+Saint-Cergue	isoCodeRegion	CH-VD
+Boulens	isoCodeRegion	CH-VD
+Brenles	isoCodeRegion	CH-VD
+Bussy-sur-Moudon	isoCodeRegion	CH-VD
+Chapelle-sur-Moudon	isoCodeRegion	CH-VD
+Chesalles-sur-Moudon	isoCodeRegion	CH-VD
+Chavannes-sur-Moudon	isoCodeRegion	CH-VD
+Correvon	isoCodeRegion	CH-VD
+Curtilles	isoCodeRegion	CH-VD
+Denezy	isoCodeRegion	CH-VD
+Dompierre, Vaud	isoCodeRegion	CH-VD
+Forel-sur-Lucens	isoCodeRegion	CH-VD
+Hermenches	isoCodeRegion	CH-VD
+Lovatens	isoCodeRegion	CH-VD
+Martherenges	isoCodeRegion	CH-VD
+Ogens	isoCodeRegion	CH-VD
+Oulens-sur-Lucens	isoCodeRegion	CH-VD
+Neyruz-sur-Moudon	isoCodeRegion	CH-VD
+Peyres-Possens	isoCodeRegion	CH-VD
+Rossenges	isoCodeRegion	CH-VD
+Montaubion-Chardonney	isoCodeRegion	CH-VD
+Sarzens	isoCodeRegion	CH-VD
+Syens	isoCodeRegion	CH-VD
+Sottens	isoCodeRegion	CH-VD
+Villars-le-Comte	isoCodeRegion	CH-VD
+Villars-Mendraz	isoCodeRegion	CH-VD
+Vucherens	isoCodeRegion	CH-VD
+Prévonloup	isoCodeRegion	CH-VD
+Chéserex	isoCodeRegion	CH-VD
+Courroux	isoCodeRegion	CH-JU
+Bioley-Orjulaz	isoCodeRegion	CH-VD
+Bretigny-sur-Morrens	isoCodeRegion	CH-VD
+Bottens	isoCodeRegion	CH-VD
+Dommartin, Switzerland	isoCodeRegion	CH-VD
+Éclagnens	isoCodeRegion	CH-VD
+Étagnières	isoCodeRegion	CH-VD
+Essertines-sur-Yverdon	isoCodeRegion	CH-VD
+Froideville, Switzerland	isoCodeRegion	CH-VD
+Goumoens-le-Jux	isoCodeRegion	CH-VD
+Malapalud	isoCodeRegion	CH-VD
+Morrens	isoCodeRegion	CH-VD
+Goumoens-la-Ville	isoCodeRegion	CH-VD
+Poliez-Pittet	isoCodeRegion	CH-VD
+Oulens-sous-Échallens	isoCodeRegion	CH-VD
+Poliez-le-Grand	isoCodeRegion	CH-VD
+Sugnens	isoCodeRegion	CH-VD
+Villars-le-Terroir	isoCodeRegion	CH-VD
+Champtauroz	isoCodeRegion	CH-VD
+Cerniaz	isoCodeRegion	CH-VD
+Combremont-le-Petit	isoCodeRegion	CH-VD
+Combremont-le-Grand	isoCodeRegion	CH-VD
+Grandcour	isoCodeRegion	CH-VD
+Chevroux, Switzerland	isoCodeRegion	CH-VD
+Rossens, Vaud	isoCodeRegion	CH-VD
+Marnand	isoCodeRegion	CH-VD
+Sédeilles	isoCodeRegion	CH-VD
+Granges-près-Marnand	isoCodeRegion	CH-VD
+Missy, Switzerland	isoCodeRegion	CH-VD
+Sassel	isoCodeRegion	CH-VD
+Villars-Bramard	isoCodeRegion	CH-VD
+Villarzel	isoCodeRegion	CH-VD
+Seigneux	isoCodeRegion	CH-VD
+Corcelles-près-Payerne	isoCodeRegion	CH-VD
+Widen	isoCodeRegion	CH-AG
+Bettens	isoCodeRegion	CH-VD
+Bournens	isoCodeRegion	CH-VD
+Cuarnens	isoCodeRegion	CH-VD
+Mont-la-Ville	isoCodeRegion	CH-VD
+Montricher	isoCodeRegion	CH-VD
+Vufflens-la-Ville	isoCodeRegion	CH-VD
+Bonvillars	isoCodeRegion	CH-VD
+Concise	isoCodeRegion	CH-VD
+Fontaines-sur-Grandson	isoCodeRegion	CH-VD
+Grandevent	isoCodeRegion	CH-VD
+Mauborget	isoCodeRegion	CH-VD
+Fontanezier	isoCodeRegion	CH-VD
+Mutrux	isoCodeRegion	CH-VD
+Corcelles-près-Concise	isoCodeRegion	CH-VD
+Novalles	isoCodeRegion	CH-VD
+Onnens	isoCodeRegion	CH-VD
+Bullet, Switzerland	isoCodeRegion	CH-VD
+Écoteaux	isoCodeRegion	CH-VD
+Corcelles-le-Jorat	isoCodeRegion	CH-VD
+Chesalles-sur-Oron	isoCodeRegion	CH-VD
+Carrouge	isoCodeRegion	CH-VD
+Corseaux	isoCodeRegion	CH-VD
+Blonay	isoCodeRegion	CH-VD
+Chardonne	isoCodeRegion	CH-VD
+La Tour-de-Peilz	isoCodeRegion	CH-VD
+Bussigny-sur-Oron	isoCodeRegion	CH-VD
+Saint-Légier-La Chiésaz	isoCodeRegion	CH-VD
+Essertes	isoCodeRegion	CH-VD
+Les Tavernes	isoCodeRegion	CH-VD
+Ferlens	isoCodeRegion	CH-VD
+Les Cullayes	isoCodeRegion	CH-VD
+Les Thioleyres	isoCodeRegion	CH-VD
+Oron-le-Châtel	isoCodeRegion	CH-VD
+Peney-le-Jorat	isoCodeRegion	CH-VD
+Vuibroye	isoCodeRegion	CH-VD
+Palézieux	isoCodeRegion	CH-VD
+Servion	isoCodeRegion	CH-VD
+Montpreveyres	isoCodeRegion	CH-VD
+Ballaigues	isoCodeRegion	CH-VD
+Vulliens	isoCodeRegion	CH-VD
+Bretonnières	isoCodeRegion	CH-VD
+Bavois	isoCodeRegion	CH-VD
+Baulmes	isoCodeRegion	CH-VD
+Rances	isoCodeRegion	CH-VD
+La Praz	isoCodeRegion	CH-VD
+L'Abergement	isoCodeRegion	CH-VD
+Lignerolle	isoCodeRegion	CH-VD
+Corcelles-sur-Chavornay	isoCodeRegion	CH-VD
+Valeyres-sous-Rances	isoCodeRegion	CH-VD
+Premier, Switzerland	isoCodeRegion	CH-VD
+Les Clées	isoCodeRegion	CH-VD
+Vaulion	isoCodeRegion	CH-VD
+Vallorbe	isoCodeRegion	CH-VD
+Vuiteboeuf	isoCodeRegion	CH-VD
+Mézières, Vaud	isoCodeRegion	CH-VD
+Vinzel	isoCodeRegion	CH-VD
+Perroy	isoCodeRegion	CH-VD
+Mont-sur-Rolle	isoCodeRegion	CH-VD
+Tartegnin	isoCodeRegion	CH-VD
+Luins	isoCodeRegion	CH-VD
+Burtigny	isoCodeRegion	CH-VD
+Essertines-sur-Rolle	isoCodeRegion	CH-VD
+Dully	isoCodeRegion	CH-VD
+Bursins	isoCodeRegion	CH-VD
+Bursinel	isoCodeRegion	CH-VD
+Allaman	isoCodeRegion	CH-VD
+Arnex-sur-Nyon	isoCodeRegion	CH-VD
+Zuoz	isoCodeRegion	CH-GR
+Flims	isoCodeRegion	CH-GR
+Bargen, Bern	isoCodeRegion	CH-BE
+Pontresina	isoCodeRegion	CH-GR
+Würenlos	isoCodeRegion	CH-AG
+Dompierre, Fribourg	isoCodeRegion	CH-FR
+Rossens, Fribourg	isoCodeRegion	CH-FR
+Obersaxen	isoCodeRegion	CH-GR
+Segl	isoCodeRegion	CH-GR
+Zollikofen	isoCodeRegion	CH-BE
+Menzingen	isoCodeRegion	CH-ZG
+Unterägeri	isoCodeRegion	CH-ZG
+Arth	isoCodeRegion	CH-SZ
+Poschiavo	isoCodeRegion	CH-GR
+Kyburg, Zürich	isoCodeRegion	CH-ZH
+Zweisimmen	isoCodeRegion	CH-BE
+Lumnezia	isoCodeRegion	CH-GR
+Vernayaz	isoCodeRegion	CH-VS
+Erlenbach im Simmental	isoCodeRegion	CH-BE
+Freienstein-Teufen	isoCodeRegion	CH-ZH
+Saignelégier	isoCodeRegion	CH-JU
+Eriswil	isoCodeRegion	CH-BE
+Olsberg, Aargau	isoCodeRegion	CH-AG
+Aquila, Switzerland	isoCodeRegion	CH-TI
+Windisch	isoCodeRegion	CH-AG
+Randa, Switzerland	isoCodeRegion	CH-VS
+Tarasp	isoCodeRegion	CH-GR
+Müstair	isoCodeRegion	CH-GR
+Scuol	isoCodeRegion	CH-GR
+Vacallo	isoCodeRegion	CH-TI
+Isenthal	isoCodeRegion	CH-UR
+Sisikon	isoCodeRegion	CH-UR
+Attinghausen	isoCodeRegion	CH-UR
+Härkingen	isoCodeRegion	CH-SO
+Bissone	isoCodeRegion	CH-TI
+Fully	isoCodeRegion	CH-VS
+Huttwil	isoCodeRegion	CH-BE
+Ftan	isoCodeRegion	CH-GR
+Samnaun	isoCodeRegion	CH-GR
+Guarda, Switzerland	isoCodeRegion	CH-GR
+Ardez	isoCodeRegion	CH-GR
+Ramosch	isoCodeRegion	CH-GR
+Tschlin	isoCodeRegion	CH-GR
+Fuldera	isoCodeRegion	CH-GR
+Susch	isoCodeRegion	CH-GR
+Lavin	isoCodeRegion	CH-GR
+Lü, Switzerland	isoCodeRegion	CH-GR
+Valchava	isoCodeRegion	CH-GR
+Tschierv	isoCodeRegion	CH-GR
+Santa Maria Val Müstair	isoCodeRegion	CH-GR
+Langnau im Emmental	isoCodeRegion	CH-BE
+Weinfelden	isoCodeRegion	CH-TG
+Niederried bei Kallnach	isoCodeRegion	CH-BE
+Neuenegg	isoCodeRegion	CH-BE
+Lützelflüh	isoCodeRegion	CH-BE
+Forst, Switzerland	isoCodeRegion	CH-BE
+Boécourt	isoCodeRegion	CH-JU
+Alle, Switzerland	isoCodeRegion	CH-JU
+Bure, Switzerland	isoCodeRegion	CH-JU
+Asuel	isoCodeRegion	CH-JU
+Bassecourt	isoCodeRegion	CH-JU
+Beurnevésin	isoCodeRegion	CH-JU
+Boncourt, Switzerland	isoCodeRegion	CH-JU
+Bonfol	isoCodeRegion	CH-JU
+Charmoille, Switzerland	isoCodeRegion	CH-JU
+Bourrignon	isoCodeRegion	CH-JU
+Chevenez	isoCodeRegion	CH-JU
+Buix	isoCodeRegion	CH-JU
+Coeuve	isoCodeRegion	CH-JU
+Châtillon, Canton of Jura	isoCodeRegion	CH-JU
+Cornol	isoCodeRegion	CH-JU
+Corban, Switzerland	isoCodeRegion	CH-JU
+Courchapoix	isoCodeRegion	CH-JU
+Courchavon	isoCodeRegion	CH-JU
+Courfaivre	isoCodeRegion	CH-JU
+Courgenay	isoCodeRegion	CH-JU
+Courrendlin	isoCodeRegion	CH-JU
+Courtemaîche	isoCodeRegion	CH-JU
+Courtedoux	isoCodeRegion	CH-JU
+Damphreux	isoCodeRegion	CH-JU
+Damvant	isoCodeRegion	CH-JU
+Epiquerez	isoCodeRegion	CH-JU
+Develier	isoCodeRegion	CH-JU
+Ederswiler	isoCodeRegion	CH-JU
+Epauvillers	isoCodeRegion	CH-JU
+Bressaucourt	isoCodeRegion	CH-JU
+Fahy	isoCodeRegion	CH-JU
+Fregiécourt	isoCodeRegion	CH-JU
+Goumois	isoCodeRegion	CH-JU
+Fontenais	isoCodeRegion	CH-JU
+Le Peuchapatte	isoCodeRegion	CH-JU
+Glovelier	isoCodeRegion	CH-JU
+Lajoux	isoCodeRegion	CH-JU
+Grandfontaine, Switzerland	isoCodeRegion	CH-JU
+Les Breuleux	isoCodeRegion	CH-JU
+Le Bémont	isoCodeRegion	CH-JU
+La Chaux-des-Breuleux	isoCodeRegion	CH-JU
+Le Noirmont	isoCodeRegion	CH-JU
+Les Bois	isoCodeRegion	CH-JU
+Les Enfers	isoCodeRegion	CH-JU
+Les Genevez	isoCodeRegion	CH-JU
+Lugnez	isoCodeRegion	CH-JU
+Les Pommerats	isoCodeRegion	CH-JU
+Miécourt	isoCodeRegion	CH-JU
+Mervelier	isoCodeRegion	CH-JU
+Mettembert	isoCodeRegion	CH-JU
+Montenol	isoCodeRegion	CH-JU
+Montfaucon, Switzerland	isoCodeRegion	CH-JU
+Montignez	isoCodeRegion	CH-JU
+Montfavergier	isoCodeRegion	CH-JU
+Pleujouse	isoCodeRegion	CH-JU
+Ocourt	isoCodeRegion	CH-JU
+Movelier	isoCodeRegion	CH-JU
+Montsevelier	isoCodeRegion	CH-JU
+Muriaux	isoCodeRegion	CH-JU
+Pleigne	isoCodeRegion	CH-JU
+Rebeuvelier	isoCodeRegion	CH-JU
+Réclère	isoCodeRegion	CH-JU
+Rocourt, Jura	isoCodeRegion	CH-JU
+Roche-d'Or	isoCodeRegion	CH-JU
+Saulcy	isoCodeRegion	CH-JU
+Rossemaison	isoCodeRegion	CH-JU
+Saint-Brais	isoCodeRegion	CH-JU
+Soulce	isoCodeRegion	CH-JU
+Seleute	isoCodeRegion	CH-JU
+Soyhières	isoCodeRegion	CH-JU
+Vellerat	isoCodeRegion	CH-JU
+Vermes, Switzerland	isoCodeRegion	CH-JU
+Soubey	isoCodeRegion	CH-JU
+Vendlincourt	isoCodeRegion	CH-JU
+Undervelier	isoCodeRegion	CH-JU
+Vicques, Switzerland	isoCodeRegion	CH-JU
+Lenk im Simmental	isoCodeRegion	CH-BE
+Frutigen	isoCodeRegion	CH-BE
+Beatenberg	isoCodeRegion	CH-BE
+Osco	isoCodeRegion	CH-TI
+Grenchen	isoCodeRegion	CH-SO
+Krattigen	isoCodeRegion	CH-BE
+Reichenbach im Kandertal	isoCodeRegion	CH-BE
+Kandergrund	isoCodeRegion	CH-BE
+Oberbalm	isoCodeRegion	CH-BE
+Feuerthalen	isoCodeRegion	CH-ZH
+Laufenburg, Aargau	isoCodeRegion	CH-AG
+Bever, Switzerland	isoCodeRegion	CH-GR
+S-chanf	isoCodeRegion	CH-GR
+Madulain	isoCodeRegion	CH-GR
+Muttenz	isoCodeRegion	CH-BL
+Schlarigna	isoCodeRegion	CH-GR
+Muri	isoCodeRegion	CH-AG
+Samedan	isoCodeRegion	CH-GR
+Schlieren, Switzerland	isoCodeRegion	CH-ZH
+Amsoldingen	isoCodeRegion	CH-BE
+Rudolfstetten-Friedlisberg	isoCodeRegion	CH-AG
+Zufikon	isoCodeRegion	CH-AG
+Selma, Switzerland	isoCodeRegion	CH-GR
+Corippo	isoCodeRegion	CH-TI
+Sumiswald	isoCodeRegion	CH-BE
+Belpberg	isoCodeRegion	CH-BE
+Uezwil	isoCodeRegion	CH-AG
+Bubendorf	isoCodeRegion	CH-BL
+Brienzwiler	isoCodeRegion	CH-BE
+Bauen	isoCodeRegion	CH-UR
+Hasle bei Burgdorf	isoCodeRegion	CH-BE
+Rüegsau	isoCodeRegion	CH-BE
+Affoltern im Emmental	isoCodeRegion	CH-BE
+Konolfingen	isoCodeRegion	CH-BE
+Lyss	isoCodeRegion	CH-BE
+Kallnach	isoCodeRegion	CH-BE
+Pfäffikon, Zürich	isoCodeRegion	CH-ZH
+Kappelen	isoCodeRegion	CH-BE
+Köniz	isoCodeRegion	CH-BE
+Igis	isoCodeRegion	CH-GR
+Dürrenroth	isoCodeRegion	CH-BE
+Innertkirchen	isoCodeRegion	CH-BE
+Trachselwald	isoCodeRegion	CH-BE
+Kirchlindach	isoCodeRegion	CH-BE
+Falera	isoCodeRegion	CH-GR
+Kriechenwil	isoCodeRegion	CH-BE
+Mammern	isoCodeRegion	CH-TG
+Bottighofen	isoCodeRegion	CH-TG
+Port, Switzerland	isoCodeRegion	CH-BE
+Weggis	isoCodeRegion	CH-LU
+Walterswil, Bern	isoCodeRegion	CH-BE
+Stadel bei Niederglatt	isoCodeRegion	CH-ZH
+Oberwald	isoCodeRegion	CH-VS
+Diemtigen	isoCodeRegion	CH-BE
+Gsteig bei Gstaad	isoCodeRegion	CH-BE
+Buch, Schaffhausen	isoCodeRegion	CH-SH
+Guggisberg	isoCodeRegion	CH-BE
+Killwangen	isoCodeRegion	CH-AG
+Ittigen	isoCodeRegion	CH-BE
+Wilderswil	isoCodeRegion	CH-BE
+Saxeten	isoCodeRegion	CH-BE
+Unterseen	isoCodeRegion	CH-BE
+Gadmen	isoCodeRegion	CH-BE
+Guttannen	isoCodeRegion	CH-BE
+Teuffenthal	isoCodeRegion	CH-BE
+Evilard	isoCodeRegion	CH-BE
+Uebeschi	isoCodeRegion	CH-BE
+Toffen	isoCodeRegion	CH-BE
+Churwalden	isoCodeRegion	CH-GR
+Canobbio	isoCodeRegion	CH-TI
+Port-Valais	isoCodeRegion	CH-VS
+Adliswil	isoCodeRegion	CH-ZH
+Muralto	isoCodeRegion	CH-TI
+Baar, Switzerland	isoCodeRegion	CH-ZG
+Bürglen, Uri	isoCodeRegion	CH-UR
+Zwieselberg	isoCodeRegion	CH-BE
+Wynigen	isoCodeRegion	CH-BE
+Seftigen	isoCodeRegion	CH-BE
+Albligen	isoCodeRegion	CH-BE
+Rüschegg	isoCodeRegion	CH-BE
+Wahlern	isoCodeRegion	CH-BE
+Bauma	isoCodeRegion	CH-ZH
+Agarn	isoCodeRegion	CH-VS
+Greppen	isoCodeRegion	CH-LU
+Lauenen	isoCodeRegion	CH-BE
+Lütschental	isoCodeRegion	CH-BE
+Radelfingen	isoCodeRegion	CH-BE
+Kriens	isoCodeRegion	CH-LU
+Aegerten	isoCodeRegion	CH-BE
+Bolligen	isoCodeRegion	CH-BE
+Alvaschein	isoCodeRegion	CH-GR
+Clavaleyres	isoCodeRegion	CH-BE
+Ferenbalm	isoCodeRegion	CH-BE
+Frauenkappelen	isoCodeRegion	CH-BE
+Gals	isoCodeRegion	CH-BE
+Obervaz	isoCodeRegion	CH-GR
+Gampelen	isoCodeRegion	CH-BE
+Golaten	isoCodeRegion	CH-BE
+Gurbrü	isoCodeRegion	CH-BE
+Ligerz	isoCodeRegion	CH-BE
+Mühleberg	isoCodeRegion	CH-BE
+Müntschemier	isoCodeRegion	CH-BE
+Ins, Switzerland	isoCodeRegion	CH-BE
+Schwarzhäusern	isoCodeRegion	CH-BE
+Pieterlen	isoCodeRegion	CH-BE
+Safnern	isoCodeRegion	CH-BE
+Savognin	isoCodeRegion	CH-GR
+Täsch	isoCodeRegion	CH-VS
+Signau	isoCodeRegion	CH-BE
+Simplon, Valais	isoCodeRegion	CH-VS
+Vechigen	isoCodeRegion	CH-BE
+Wileroltigen	isoCodeRegion	CH-BE
+Bühl bei Aarberg	isoCodeRegion	CH-BE
+Erlach, Switzerland	isoCodeRegion	CH-BE
+Adligenswil	isoCodeRegion	CH-LU
+Rüti bei Lyssach	isoCodeRegion	CH-BE
+Sementina	isoCodeRegion	CH-TI
+Aeugst am Albis	isoCodeRegion	CH-ZH
+Oberrieden	isoCodeRegion	CH-ZH
+Kaltbrunn	isoCodeRegion	CH-SG
+Frasco	isoCodeRegion	CH-TI
+Arbedo-Castione	isoCodeRegion	CH-TI
+Schattenhalb	isoCodeRegion	CH-BE
+Buchrain	isoCodeRegion	CH-LU
+Dierikon	isoCodeRegion	CH-LU
+Mönchaltorf	isoCodeRegion	CH-ZH
+Vordemwald	isoCodeRegion	CH-AG
+Attelwil	isoCodeRegion	CH-AG
+Bottenwil	isoCodeRegion	CH-AG
+Kölliken	isoCodeRegion	CH-AG
+Kirchleerau	isoCodeRegion	CH-AG
+Moosleerau	isoCodeRegion	CH-AG
+Murgenthal	isoCodeRegion	CH-AG
+Oftringen	isoCodeRegion	CH-AG
+Reitnau	isoCodeRegion	CH-AG
+Rothrist	isoCodeRegion	CH-AG
+Strengelbach	isoCodeRegion	CH-AG
+Uerkheim	isoCodeRegion	CH-AG
+Wiliberg	isoCodeRegion	CH-AG
+Schwanden bei Brienz	isoCodeRegion	CH-BE
+Bönigen	isoCodeRegion	CH-BE
+Därligen	isoCodeRegion	CH-BE
+Gsteigwiler	isoCodeRegion	CH-BE
+Leissigen	isoCodeRegion	CH-BE
+Habkern	isoCodeRegion	CH-BE
+Niederried bei Interlaken	isoCodeRegion	CH-BE
+Hofstetten bei Brienz	isoCodeRegion	CH-BE
+Gündlischwand	isoCodeRegion	CH-BE
+Matten bei Interlaken	isoCodeRegion	CH-BE
+Oberried am Brienzersee	isoCodeRegion	CH-BE
+Abtwil, Aargau	isoCodeRegion	CH-AG
+Aristau	isoCodeRegion	CH-AG
+Auw, Aargau	isoCodeRegion	CH-AG
+Beinwil	isoCodeRegion	CH-AG
+Benzenschwil	isoCodeRegion	CH-AG
+Besenbüren	isoCodeRegion	CH-AG
+Bettwil	isoCodeRegion	CH-AG
+Bünzen, Aargau	isoCodeRegion	CH-AG
+Geltwil	isoCodeRegion	CH-AG
+Mühlau	isoCodeRegion	CH-AG
+Kallern	isoCodeRegion	CH-AG
+Merenschwand	isoCodeRegion	CH-AG
+Oberrüti	isoCodeRegion	CH-AG
+Sins, Aargau	isoCodeRegion	CH-AG
+Waltenschwil	isoCodeRegion	CH-AG
+Rottenschwil	isoCodeRegion	CH-AG
+Broc	isoCodeRegion	CH-FR
+Châtel-sur-Montsalvens	isoCodeRegion	CH-FR
+Botterens	isoCodeRegion	CH-FR
+Cerniat	isoCodeRegion	CH-FR
+Bulle	isoCodeRegion	CH-FR
+Jaun	isoCodeRegion	CH-FR
+Charmey	isoCodeRegion	CH-FR
+Corbières, Gruyère	isoCodeRegion	CH-FR
+Crésuz	isoCodeRegion	CH-FR
+Echarlens	isoCodeRegion	CH-FR
+Hauteville, Switzerland	isoCodeRegion	CH-FR
+Grandvillard	isoCodeRegion	CH-FR
+Morlon	isoCodeRegion	CH-FR
+Marsens	isoCodeRegion	CH-FR
+Haut-Intyamon	isoCodeRegion	CH-FR
+Le Pâquier, Fribourg	isoCodeRegion	CH-FR
+La Roche, Fribourg	isoCodeRegion	CH-FR
+Pont-la-Ville, Switzerland	isoCodeRegion	CH-FR
+Sorens	isoCodeRegion	CH-FR
+Villarvolard	isoCodeRegion	CH-FR
+Sâles, Fribourg	isoCodeRegion	CH-FR
+Vaulruz	isoCodeRegion	CH-FR
+Vuadens	isoCodeRegion	CH-FR
+Bas-Intyamon	isoCodeRegion	CH-FR
+Pont-en-Ogoz	isoCodeRegion	CH-FR
+Füllinsdorf	isoCodeRegion	CH-BL
+Littau	isoCodeRegion	CH-LU
+Morissen	isoCodeRegion	CH-GR
+Gisikon	isoCodeRegion	CH-LU
+Honau, Switzerland	isoCodeRegion	CH-LU
+Ebikon	isoCodeRegion	CH-LU
+Horw	isoCodeRegion	CH-LU
+Malters	isoCodeRegion	CH-LU
+Meggen	isoCodeRegion	CH-LU
+Meierskappel	isoCodeRegion	CH-LU
+Udligenswil	isoCodeRegion	CH-LU
+Schwarzenberg, Switzerland	isoCodeRegion	CH-LU
+St. Stephan, Switzerland	isoCodeRegion	CH-BE
+Arconciel	isoCodeRegion	CH-FR
+Auswil	isoCodeRegion	CH-BE
+Bannwil	isoCodeRegion	CH-BE
+Gutenburg, Switzerland	isoCodeRegion	CH-BE
+Busswil bei Melchnau	isoCodeRegion	CH-BE
+Bleienbach	isoCodeRegion	CH-BE
+Gondiswil	isoCodeRegion	CH-BE
+Kleindietwil	isoCodeRegion	CH-BE
+Leimiswil	isoCodeRegion	CH-BE
+Madiswil	isoCodeRegion	CH-BE
+Obersteckholz	isoCodeRegion	CH-BE
+Melchnau	isoCodeRegion	CH-BE
+Reisiswil	isoCodeRegion	CH-BE
+Oeschenbach	isoCodeRegion	CH-BE
+Roggwil, Bern	isoCodeRegion	CH-BE
+Rohrbach, Switzerland	isoCodeRegion	CH-BE
+Untersteckholz	isoCodeRegion	CH-BE
+Rohrbachgraben	isoCodeRegion	CH-BE
+Rütschelen	isoCodeRegion	CH-BE
+Wynau	isoCodeRegion	CH-BE
+Ursenbach	isoCodeRegion	CH-BE
+Thunstetten	isoCodeRegion	CH-BE
+Bergdietikon	isoCodeRegion	CH-AG
+Ehrendingen	isoCodeRegion	CH-AG
+Gebenstorf	isoCodeRegion	CH-AG
+Künten	isoCodeRegion	CH-AG
+Mellingen	isoCodeRegion	CH-AG
+Mägenwil	isoCodeRegion	CH-AG
+Neuenhof, Aargau	isoCodeRegion	CH-AG
+Niederrohrdorf	isoCodeRegion	CH-AG
+Oberrohrdorf	isoCodeRegion	CH-AG
+Obersiggenthal	isoCodeRegion	CH-AG
+Remetschwil	isoCodeRegion	CH-AG
+Turgi	isoCodeRegion	CH-AG
+Spreitenbach	isoCodeRegion	CH-AG
+Stetten, Aargau	isoCodeRegion	CH-AG
+Wohlenschwil	isoCodeRegion	CH-AG
+Untersiggenthal	isoCodeRegion	CH-AG
+Würenlingen	isoCodeRegion	CH-AG
+Dielsdorf	isoCodeRegion	CH-ZH
+Niederhasli	isoCodeRegion	CH-ZH
+Regensdorf	isoCodeRegion	CH-ZH
+Regensberg	isoCodeRegion	CH-ZH
+Unterentfelden	isoCodeRegion	CH-AG
+Suhr, Aargau	isoCodeRegion	CH-AG
+Rohr, Aargau	isoCodeRegion	CH-AG
+Muhen	isoCodeRegion	CH-AG
+Küttigen	isoCodeRegion	CH-AG
+Oberentfelden	isoCodeRegion	CH-AG
+Hirschthal	isoCodeRegion	CH-AG
+Büttikon	isoCodeRegion	CH-AG
+Eggenwil	isoCodeRegion	CH-AG
+Hägglingen	isoCodeRegion	CH-AG
+Hilfikon	isoCodeRegion	CH-AG
+Wohlen, Aargau	isoCodeRegion	CH-AG
+Villmergen	isoCodeRegion	CH-AG
+Oberwil-Lieli	isoCodeRegion	CH-AG
+Oberlunkhofen	isoCodeRegion	CH-AG
+Jonen	isoCodeRegion	CH-AG
+Unterlunkhofen	isoCodeRegion	CH-AG
+Sarmenstorf	isoCodeRegion	CH-AG
+Tägerig	isoCodeRegion	CH-AG
+Niederwil, Aargau	isoCodeRegion	CH-AG
+Hermetschwil-Staffeln	isoCodeRegion	CH-AG
+Arch, Switzerland	isoCodeRegion	CH-BE
+Büetigen	isoCodeRegion	CH-BE
+Dotzigen	isoCodeRegion	CH-BE
+Meienried	isoCodeRegion	CH-BE
+Lengnau, Bern	isoCodeRegion	CH-BE
+Oberwil bei Büren	isoCodeRegion	CH-BE
+Diessbach bei Büren	isoCodeRegion	CH-BE
+Meinisberg	isoCodeRegion	CH-BE
+Rüti bei Büren	isoCodeRegion	CH-BE
+Leuzigen	isoCodeRegion	CH-BE
+Ems	isoCodeRegion	CH-GR
+Bonaduz	isoCodeRegion	CH-GR
+Felsberg, Switzerland	isoCodeRegion	CH-GR
+Rhäzüns	isoCodeRegion	CH-GR
+Trin	isoCodeRegion	CH-GR
+Tamins	isoCodeRegion	CH-GR
+Bangerten	isoCodeRegion	CH-BE
+Ballmoos	isoCodeRegion	CH-BE
+Büren zum Hof	isoCodeRegion	CH-BE
+Diemerswil	isoCodeRegion	CH-BE
+Deisswil bei Münchenbuchsee	isoCodeRegion	CH-BE
+Bätterkinden	isoCodeRegion	CH-BE
+Etzelkofen	isoCodeRegion	CH-BE
+Grafenried, Switzerland	isoCodeRegion	CH-BE
+Fraubrunnen	isoCodeRegion	CH-BE
+Jegenstorf	isoCodeRegion	CH-BE
+Limpach, Switzerland	isoCodeRegion	CH-BE
+Iffwil	isoCodeRegion	CH-BE
+Mattstetten	isoCodeRegion	CH-BE
+Mülchi	isoCodeRegion	CH-BE
+Moosseedorf	isoCodeRegion	CH-BE
+Schalunen	isoCodeRegion	CH-BE
+Ruppoldsried	isoCodeRegion	CH-BE
+Münchringen	isoCodeRegion	CH-BE
+Scheunen	isoCodeRegion	CH-BE
+Utzenstorf	isoCodeRegion	CH-BE
+Münchenbuchsee	isoCodeRegion	CH-BE
+Urtenen-Schönbühl	isoCodeRegion	CH-BE
+Wiggiswil	isoCodeRegion	CH-BE
+Wiler bei Utzenstorf	isoCodeRegion	CH-BE
+Zauggenried	isoCodeRegion	CH-BE
+Zielebach	isoCodeRegion	CH-BE
+Zuzwil, Bern	isoCodeRegion	CH-BE
+Wohlen bei Bern	isoCodeRegion	CH-BE
+Stettlen	isoCodeRegion	CH-BE
+Muri bei Bern	isoCodeRegion	CH-BE
+Ostermundigen	isoCodeRegion	CH-BE
+Wyssachen	isoCodeRegion	CH-BE
+Rapperswil, Bern	isoCodeRegion	CH-BE
+Schüpfen	isoCodeRegion	CH-BE
+Seedorf, Bern	isoCodeRegion	CH-BE
+Aefligen	isoCodeRegion	CH-BE
+Alchenstorf	isoCodeRegion	CH-BE
+Heimiswil	isoCodeRegion	CH-BE
+Ersigen	isoCodeRegion	CH-BE
+Bäriswil, Bern	isoCodeRegion	CH-BE
+Hellsau	isoCodeRegion	CH-BE
+Höchstetten, Switzerland	isoCodeRegion	CH-BE
+Kernenried	isoCodeRegion	CH-BE
+Kirchberg, Bern	isoCodeRegion	CH-BE
+Hindelbank	isoCodeRegion	CH-BE
+Lyssach	isoCodeRegion	CH-BE
+Krauchthal	isoCodeRegion	CH-BE
+Mötschwil	isoCodeRegion	CH-BE
+Oberburg	isoCodeRegion	CH-BE
+Niederösch	isoCodeRegion	CH-BE
+Koppigen	isoCodeRegion	CH-BE
+Oberösch	isoCodeRegion	CH-BE
+Rumendingen	isoCodeRegion	CH-BE
+Rüdtligen-Alchenflüh	isoCodeRegion	CH-BE
+Willadingen	isoCodeRegion	CH-BE
+Brüttelen	isoCodeRegion	CH-BE
+Finsterhennen	isoCodeRegion	CH-BE
+Lüscherz	isoCodeRegion	CH-BE
+Siselen	isoCodeRegion	CH-BE
+Treiten	isoCodeRegion	CH-BE
+Vinelz	isoCodeRegion	CH-BE
+Tschugg	isoCodeRegion	CH-BE
+Aeschlen bei Oberdiessbach	isoCodeRegion	CH-BE
+Arni, Bern	isoCodeRegion	CH-BE
+Biglen	isoCodeRegion	CH-BE
+Bleiken bei Oberdiessbach	isoCodeRegion	CH-BE
+Oberstocken	isoCodeRegion	CH-BE
+Därstetten	isoCodeRegion	CH-BE
+Niederstocken	isoCodeRegion	CH-BE
+Laupen	isoCodeRegion	CH-BE
+Zäziwil	isoCodeRegion	CH-BE
+Schwarzenburg	isoCodeRegion	CH-BE
+Worb	isoCodeRegion	CH-BE
+Walkringen	isoCodeRegion	CH-BE
+Tägertschi	isoCodeRegion	CH-BE
+Rubigen	isoCodeRegion	CH-BE
+Trimstein	isoCodeRegion	CH-BE
+Schlosswil	isoCodeRegion	CH-BE
+Oberhünigen	isoCodeRegion	CH-BE
+Niederhünigen	isoCodeRegion	CH-BE
+Linden, Switzerland	isoCodeRegion	CH-BE
+Oppligen	isoCodeRegion	CH-BE
+Oberdiessbach	isoCodeRegion	CH-BE
+Oberthal, Switzerland	isoCodeRegion	CH-BE
+Mirchel	isoCodeRegion	CH-BE
+Kiesen	isoCodeRegion	CH-BE
+Bowil	isoCodeRegion	CH-BE
+Freimettigen	isoCodeRegion	CH-BE
+Brenzikofen	isoCodeRegion	CH-BE
+Häutligen	isoCodeRegion	CH-BE
+Landiswil	isoCodeRegion	CH-BE
+Herbligen	isoCodeRegion	CH-BE
+Grosshöchstetten	isoCodeRegion	CH-BE
+Oberwil im Simmental	isoCodeRegion	CH-BE
+Reutigen	isoCodeRegion	CH-BE
+Wimmis	isoCodeRegion	CH-BE
+Oberhofen am Thunersee	isoCodeRegion	CH-BE
+Orpund	isoCodeRegion	CH-BE
+Nidau	isoCodeRegion	CH-BE
+Mörigen	isoCodeRegion	CH-BE
+Merzligen	isoCodeRegion	CH-BE
+Ipsach	isoCodeRegion	CH-BE
+Jens, Switzerland	isoCodeRegion	CH-BE
+Hagneck	isoCodeRegion	CH-BE
+Epsach	isoCodeRegion	CH-BE
+Hermrigen	isoCodeRegion	CH-BE
+Brügg, Bern	isoCodeRegion	CH-BE
+Bellmund	isoCodeRegion	CH-BE
+Scheuren	isoCodeRegion	CH-BE
+Studen, Bern	isoCodeRegion	CH-BE
+Schwadernau	isoCodeRegion	CH-BE
+Sutz-Lattrigen	isoCodeRegion	CH-BE
+Täuffelen	isoCodeRegion	CH-BE
+Twann	isoCodeRegion	CH-BE
+Tüscherz-Alfermée	isoCodeRegion	CH-BE
+Walperswil	isoCodeRegion	CH-BE
+Worben	isoCodeRegion	CH-BE
+Höfen, Thun	isoCodeRegion	CH-BE
+Gerzensee	isoCodeRegion	CH-BE
+Gelterfingen	isoCodeRegion	CH-BE
+Burgistein	isoCodeRegion	CH-BE
+Gurzelen	isoCodeRegion	CH-BE
+Kaufdorf	isoCodeRegion	CH-BE
+Kehrsatz	isoCodeRegion	CH-BE
+Jaberg	isoCodeRegion	CH-BE
+Kirchenthurnen	isoCodeRegion	CH-BE
+Kirchdorf, Bern	isoCodeRegion	CH-BE
+Lohnstorf	isoCodeRegion	CH-BE
+Mühledorf, Bern	isoCodeRegion	CH-BE
+Mühlethurnen	isoCodeRegion	CH-BE
+Niedermuhlern	isoCodeRegion	CH-BE
+Noflen	isoCodeRegion	CH-BE
+Rümligen	isoCodeRegion	CH-BE
+Rüti bei Riggisberg	isoCodeRegion	CH-BE
+Riggisberg	isoCodeRegion	CH-BE
+Uttigen	isoCodeRegion	CH-BE
+Wattenwil	isoCodeRegion	CH-BE
+Rüeggisberg	isoCodeRegion	CH-BE
+Eggiwil	isoCodeRegion	CH-BE
+Röthenbach im Emmental	isoCodeRegion	CH-BE
+Rüderswil	isoCodeRegion	CH-BE
+Schangnau	isoCodeRegion	CH-BE
+Lauperswil	isoCodeRegion	CH-BE
+Trubschachen	isoCodeRegion	CH-BE
+Eriz	isoCodeRegion	CH-BE
+Blumenstein	isoCodeRegion	CH-BE
+Buchholterberg	isoCodeRegion	CH-BE
+Heimberg, Switzerland	isoCodeRegion	CH-BE
+Fahrni	isoCodeRegion	CH-BE
+Heiligenschwendi	isoCodeRegion	CH-BE
+Hilterfingen	isoCodeRegion	CH-BE
+Homberg, Bern	isoCodeRegion	CH-BE
+Horrenbach-Buchen	isoCodeRegion	CH-BE
+Längenbühl	isoCodeRegion	CH-BE
+Oberlangenegg	isoCodeRegion	CH-BE
+Pohlern	isoCodeRegion	CH-BE
+Schwendibach	isoCodeRegion	CH-BE
+Unterlangenegg	isoCodeRegion	CH-BE
+Wachseldorn	isoCodeRegion	CH-BE
+Steffisburg	isoCodeRegion	CH-BE
+Sigriswil	isoCodeRegion	CH-BE
+Attiswil	isoCodeRegion	CH-BE
+Berken	isoCodeRegion	CH-BE
+Bettenhausen, Switzerland	isoCodeRegion	CH-BE
+Bollodingen	isoCodeRegion	CH-BE
+Graben, Switzerland	isoCodeRegion	CH-BE
+Farnern	isoCodeRegion	CH-BE
+Hermiswil	isoCodeRegion	CH-BE
+Heimenhausen	isoCodeRegion	CH-BE
+Inkwil	isoCodeRegion	CH-BE
+Niederbipp	isoCodeRegion	CH-BE
+Niederönz	isoCodeRegion	CH-BE
+Oberbipp	isoCodeRegion	CH-BE
+Röthenbach bei Herzogenbuchsee	isoCodeRegion	CH-BE
+Oberönz	isoCodeRegion	CH-BE
+Rumisberg	isoCodeRegion	CH-BE
+Ochlenberg	isoCodeRegion	CH-BE
+Thörigen	isoCodeRegion	CH-BE
+Walliswil bei Niederbipp	isoCodeRegion	CH-BE
+Seeberg	isoCodeRegion	CH-BE
+Wangenried	isoCodeRegion	CH-BE
+Walliswil bei Wangen	isoCodeRegion	CH-BE
+Wolfisberg	isoCodeRegion	CH-BE
+Wanzwil	isoCodeRegion	CH-BE
+Wiedlisbach	isoCodeRegion	CH-BE
+Ammerswil	isoCodeRegion	CH-AG
+Diepoldsau	isoCodeRegion	CH-SG
+Egnach	isoCodeRegion	CH-TG
+Santa Maria in Calanca	isoCodeRegion	CH-GR
+Wattwil	isoCodeRegion	CH-SG
+Altdorf, Schaffhausen	isoCodeRegion	CH-SH
+Beggingen	isoCodeRegion	CH-SH
+Bibern, Schaffhausen	isoCodeRegion	CH-SH
+Beringen, Switzerland	isoCodeRegion	CH-SH
+Buchberg, Schaffhausen	isoCodeRegion	CH-SH
+Büttenhardt	isoCodeRegion	CH-SH
+Dörflingen	isoCodeRegion	CH-SH
+Gächlingen	isoCodeRegion	CH-SH
+Guntmadingen	isoCodeRegion	CH-SH
+Hofen, Switzerland	isoCodeRegion	CH-SH
+Hemishofen	isoCodeRegion	CH-SH
+Löhningen	isoCodeRegion	CH-SH
+Lohn, Schaffhausen	isoCodeRegion	CH-SH
+Hallau	isoCodeRegion	CH-SH
+Merishausen	isoCodeRegion	CH-SH
+Opfertshofen	isoCodeRegion	CH-SH
+Neunkirch	isoCodeRegion	CH-SH
+Wilchingen	isoCodeRegion	CH-SH
+Oberhallau	isoCodeRegion	CH-SH
+Ramsen	isoCodeRegion	CH-SH
+Siblingen	isoCodeRegion	CH-SH
+Stetten, Schaffhausen	isoCodeRegion	CH-SH
+Trasadingen	isoCodeRegion	CH-SH
+Rüdlingen	isoCodeRegion	CH-SH
+Illgau	isoCodeRegion	CH-SZ
+Lauerz	isoCodeRegion	CH-SZ
+Ingenbohl	isoCodeRegion	CH-SZ
+Morschach	isoCodeRegion	CH-SZ
+Alpthal	isoCodeRegion	CH-SZ
+Riemenstalden	isoCodeRegion	CH-SZ
+Rothenthurm	isoCodeRegion	CH-SZ
+Muotathal	isoCodeRegion	CH-SZ
+Steinerberg	isoCodeRegion	CH-SZ
+Feusisberg	isoCodeRegion	CH-SZ
+Sattel, Switzerland	isoCodeRegion	CH-SZ
+Wollerau	isoCodeRegion	CH-SZ
+Freienbach	isoCodeRegion	CH-SZ
+Altendorf, Schwyz	isoCodeRegion	CH-SZ
+Vorderthal	isoCodeRegion	CH-SZ
+Galgenen	isoCodeRegion	CH-SZ
+Tuggen	isoCodeRegion	CH-SZ
+Innerthal	isoCodeRegion	CH-SZ
+Reichenburg	isoCodeRegion	CH-SZ
+Schübelbach	isoCodeRegion	CH-SZ
+Wangen, Schwyz	isoCodeRegion	CH-SZ
+Auenstein, Aargau	isoCodeRegion	CH-AG
+Neuheim	isoCodeRegion	CH-ZG
+Hünenberg	isoCodeRegion	CH-ZG
+Steinhausen, Switzerland	isoCodeRegion	CH-ZG
+Walchwil	isoCodeRegion	CH-ZG
+Risch-Rotkreuz	isoCodeRegion	CH-ZG
+Oberflachs	isoCodeRegion	CH-AG
+Erstfeld	isoCodeRegion	CH-UR
+Flüelen	isoCodeRegion	CH-UR
+Gurtnellen	isoCodeRegion	CH-UR
+Hospental	isoCodeRegion	CH-UR
+Realp	isoCodeRegion	CH-UR
+Schattdorf	isoCodeRegion	CH-UR
+Seedorf, Uri	isoCodeRegion	CH-UR
+Seelisberg	isoCodeRegion	CH-UR
+Unterschächen	isoCodeRegion	CH-UR
+Wassen	isoCodeRegion	CH-UR
+Silenen	isoCodeRegion	CH-UR
+Spiringen	isoCodeRegion	CH-UR
+Baldingen, Aargau	isoCodeRegion	CH-AG
+Beinwil, Solothurn	isoCodeRegion	CH-SO
+Birrhard	isoCodeRegion	CH-AG
+Mollis	isoCodeRegion	CH-GL
+Ennenda	isoCodeRegion	CH-GL
+Filzbach	isoCodeRegion	CH-GL
+Bilten	isoCodeRegion	CH-GL
+Mühlehorn	isoCodeRegion	CH-GL
+Näfels	isoCodeRegion	CH-GL
+Netstal	isoCodeRegion	CH-GL
+Riedern	isoCodeRegion	CH-GL
+Obstalden	isoCodeRegion	CH-GL
+Niederurnen	isoCodeRegion	CH-GL
+Oberurnen	isoCodeRegion	CH-GL
+Birrwil	isoCodeRegion	CH-AG
+Böbikon	isoCodeRegion	CH-AG
+Effingen	isoCodeRegion	CH-AG
+Bözen	isoCodeRegion	CH-AG
+Hausen bei Brugg	isoCodeRegion	CH-AG
+Elfingen	isoCodeRegion	CH-AG
+Hottwil	isoCodeRegion	CH-AG
+Lupfig	isoCodeRegion	CH-AG
+Mandach	isoCodeRegion	CH-AG
+Mönthal	isoCodeRegion	CH-AG
+Oberbözberg	isoCodeRegion	CH-AG
+Mülligen	isoCodeRegion	CH-AG
+Remigen	isoCodeRegion	CH-AG
+Veltheim, Aargau	isoCodeRegion	CH-AG
+Villnachern	isoCodeRegion	CH-AG
+Villigen	isoCodeRegion	CH-AG
+Rüfenach	isoCodeRegion	CH-AG
+Riniken	isoCodeRegion	CH-AG
+Scherz	isoCodeRegion	CH-AG
+Schinznach-Bad	isoCodeRegion	CH-AG
+Umiken	isoCodeRegion	CH-AG
+Thalheim, Aargau	isoCodeRegion	CH-AG
+Schinznach-Dorf	isoCodeRegion	CH-AG
+Unterbözberg	isoCodeRegion	CH-AG
+Leutwil	isoCodeRegion	CH-AG
+Leimbach, Aargau	isoCodeRegion	CH-AG
+Holziken	isoCodeRegion	CH-AG
+Oberkulm	isoCodeRegion	CH-AG
+Burg, Aargau	isoCodeRegion	CH-AG
+Teufenthal	isoCodeRegion	CH-AG
+Dürrenäsch	isoCodeRegion	CH-AG
+Schöftland	isoCodeRegion	CH-AG
+Gontenschwil	isoCodeRegion	CH-AG
+Zetzwil	isoCodeRegion	CH-AG
+Reinach, Aargau	isoCodeRegion	CH-AG
+Unterkulm	isoCodeRegion	CH-AG
+Schmiedrued	isoCodeRegion	CH-AG
+Eiken, Aargau	isoCodeRegion	CH-AG
+Etzgen	isoCodeRegion	CH-AG
+Frick, Aargau	isoCodeRegion	CH-AG
+Gansingen	isoCodeRegion	CH-AG
+Herznach	isoCodeRegion	CH-AG
+Gipf-Oberfrick	isoCodeRegion	CH-AG
+Hornussen, Aargau	isoCodeRegion	CH-AG
+Wil, Aargau	isoCodeRegion	CH-AG
+Wittnau, Aargau	isoCodeRegion	CH-AG
+Sulz, Aargau	isoCodeRegion	CH-AG
+Münchwilen, Aargau	isoCodeRegion	CH-AG
+Mettau, Switzerland	isoCodeRegion	CH-AG
+Ittenthal	isoCodeRegion	CH-AG
+Oberhofen, Aargau	isoCodeRegion	CH-AG
+Kaisten, Aargau	isoCodeRegion	CH-AG
+Ueken	isoCodeRegion	CH-AG
+Oeschgen	isoCodeRegion	CH-AG
+Zeihen	isoCodeRegion	CH-AG
+Schwaderloch	isoCodeRegion	CH-AG
+Wölflinswil	isoCodeRegion	CH-AG
+Sisseln	isoCodeRegion	CH-AG
+Hellikon	isoCodeRegion	CH-AG
+Mumpf	isoCodeRegion	CH-AG
+Schupfart	isoCodeRegion	CH-AG
+Wallbach, Aargau	isoCodeRegion	CH-AG
+Wegenstetten	isoCodeRegion	CH-AG
+Zeiningen	isoCodeRegion	CH-AG
+Obermumpf	isoCodeRegion	CH-AG
+Kaiseraugst	isoCodeRegion	CH-AG
+Boniswil	isoCodeRegion	CH-AG
+Brunegg	isoCodeRegion	CH-AG
+Hallwil	isoCodeRegion	CH-AG
+Egliswil	isoCodeRegion	CH-AG
+Hendschiken	isoCodeRegion	CH-AG
+Holderbank, Aargau	isoCodeRegion	CH-AG
+Hunzenschwil	isoCodeRegion	CH-AG
+Niederlenz	isoCodeRegion	CH-AG
+Meisterschwanden	isoCodeRegion	CH-AG
+Möriken-Wildegg	isoCodeRegion	CH-AG
+Othmarsingen	isoCodeRegion	CH-AG
+Rupperswil	isoCodeRegion	CH-AG
+Seengen	isoCodeRegion	CH-AG
+Schafisheim	isoCodeRegion	CH-AG
+Staufen, Aargau	isoCodeRegion	CH-AG
+Rekingen	isoCodeRegion	CH-AG
+Rümikon	isoCodeRegion	CH-AG
+Rietheim, Aargau	isoCodeRegion	CH-AG
+Schneisingen	isoCodeRegion	CH-AG
+Siglistorf	isoCodeRegion	CH-AG
+Kaiserstuhl, Aargau	isoCodeRegion	CH-AG
+Wislikofen	isoCodeRegion	CH-AG
+Unterendingen	isoCodeRegion	CH-AG
+Döttingen, Aargau	isoCodeRegion	CH-AG
+Endingen, Switzerland	isoCodeRegion	CH-AG
+Klingnau	isoCodeRegion	CH-AG
+Lengnau, Aargau	isoCodeRegion	CH-AG
+Leuggern	isoCodeRegion	CH-AG
+Mellikon	isoCodeRegion	CH-AG
+Le Landeron	isoCodeRegion	CH-NE
+Cressier, Neuchâtel	isoCodeRegion	CH-NE
+Enges	isoCodeRegion	CH-NE
+Saint-Blaise, Switzerland	isoCodeRegion	CH-NE
+Hauterive, Neuchâtel	isoCodeRegion	CH-NE
+Lignières, Switzerland	isoCodeRegion	CH-NE
+Thielle-Wavre	isoCodeRegion	CH-NE
+Cortaillod	isoCodeRegion	CH-NE
+Auvernier	isoCodeRegion	CH-NE
+Montalchez	isoCodeRegion	CH-NE
+Rochefort, Switzerland	isoCodeRegion	CH-NE
+Bôle	isoCodeRegion	CH-NE
+Brot-Dessous	isoCodeRegion	CH-NE
+Gorgier	isoCodeRegion	CH-NE
+Bevaix	isoCodeRegion	CH-NE
+Corcelles-Cormondrèche	isoCodeRegion	CH-NE
+Fresens	isoCodeRegion	CH-NE
+Peseux, Switzerland	isoCodeRegion	CH-NE
+Saint-Aubin-Sauges	isoCodeRegion	CH-NE
+Vaumarcus	isoCodeRegion	CH-NE
+Les Planchettes	isoCodeRegion	CH-NE
+La Sagne	isoCodeRegion	CH-NE
+Brot-Plamboz	isoCodeRegion	CH-NE
+Les Brenets	isoCodeRegion	CH-NE
+Les Ponts-de-Martel	isoCodeRegion	CH-NE
+Le Cerneux-Péquignot	isoCodeRegion	CH-NE
+Cernier	isoCodeRegion	CH-NE
+La Chaux-du-Milieu	isoCodeRegion	CH-NE
+Coffrane	isoCodeRegion	CH-NE
+Engollon	isoCodeRegion	CH-NE
+Chézard-Saint-Martin	isoCodeRegion	CH-NE
+Fontainemelon	isoCodeRegion	CH-NE
+Dombresson	isoCodeRegion	CH-NE
+Fontaines, Switzerland	isoCodeRegion	CH-NE
+Fenin-Vilars-Saules	isoCodeRegion	CH-NE
+Le Pâquier, Neuchâtel	isoCodeRegion	CH-NE
+Montmollin	isoCodeRegion	CH-NE
+Les Geneveys-sur-Coffrane	isoCodeRegion	CH-NE
+Savagnier	isoCodeRegion	CH-NE
+Les Hauts-Geneveys	isoCodeRegion	CH-NE
+Valangin	isoCodeRegion	CH-NE
+Villiers, Switzerland	isoCodeRegion	CH-NE
+La Brévine	isoCodeRegion	CH-NE
+Saint-Sulpice, Neuchâtel	isoCodeRegion	CH-NE
+La Côte-aux-Fées	isoCodeRegion	CH-NE
+Les Verrières	isoCodeRegion	CH-NE
+Val-de-Travers	isoCodeRegion	CH-NE
+Boveresse	isoCodeRegion	CH-NE
+Travers, Switzerland	isoCodeRegion	CH-NE
+Buttes	isoCodeRegion	CH-NE
+Couvet	isoCodeRegion	CH-NE
+Les Bayards	isoCodeRegion	CH-NE
+Môtiers	isoCodeRegion	CH-NE
+Fleurier	isoCodeRegion	CH-NE
+Noiraigue	isoCodeRegion	CH-NE
+Doppleschwand	isoCodeRegion	CH-LU
+Escholzmatt	isoCodeRegion	CH-LU
+Hasle, Lucerne	isoCodeRegion	CH-LU
+Marbach, Lucerne	isoCodeRegion	CH-LU
+Schüpfheim	isoCodeRegion	CH-LU
+Romoos	isoCodeRegion	CH-LU
+Werthenstein	isoCodeRegion	CH-LU
+Büron	isoCodeRegion	CH-LU
+Buttisholz	isoCodeRegion	CH-LU
+Eich, Switzerland	isoCodeRegion	CH-LU
+Mauensee, Lucerne	isoCodeRegion	CH-LU
+Oberkirch, Switzerland	isoCodeRegion	CH-LU
+Neudorf, Lucerne	isoCodeRegion	CH-LU
+Rickenbach, Lucerne	isoCodeRegion	CH-LU
+Schlierbach, Switzerland	isoCodeRegion	CH-LU
+Winikon	isoCodeRegion	CH-LU
+Sursee	isoCodeRegion	CH-LU
+Triengen	isoCodeRegion	CH-LU
+Wolhusen	isoCodeRegion	CH-LU
+Pfeffikon	isoCodeRegion	CH-LU
+Neuenkirch	isoCodeRegion	CH-LU
+Nottwil	isoCodeRegion	CH-LU
+Knutwil	isoCodeRegion	CH-LU
+Hildisrieden	isoCodeRegion	CH-LU
+Geuensee	isoCodeRegion	CH-LU
+Gunzwil	isoCodeRegion	CH-LU
+Grosswangen	isoCodeRegion	CH-LU
+Schenkon	isoCodeRegion	CH-LU
+Ruswil	isoCodeRegion	CH-LU
+Aesch, Lucerne	isoCodeRegion	CH-LU
+Altwis	isoCodeRegion	CH-LU
+Ballwil	isoCodeRegion	CH-LU
+Ermensee	isoCodeRegion	CH-LU
+Hämikon	isoCodeRegion	CH-LU
+Eschenbach, Lucerne	isoCodeRegion	CH-LU
+Hitzkirch	isoCodeRegion	CH-LU
+Hohenrain	isoCodeRegion	CH-LU
+Inwil	isoCodeRegion	CH-LU
+Hochdorf, Lucerne	isoCodeRegion	CH-LU
+Lieli	isoCodeRegion	CH-LU
+Mosen, Lucerne	isoCodeRegion	CH-LU
+Müswangen	isoCodeRegion	CH-LU
+Retschwil	isoCodeRegion	CH-LU
+Rothenburg, Lucerne	isoCodeRegion	CH-LU
+Sulz, Lucerne	isoCodeRegion	CH-LU
+Römerswil	isoCodeRegion	CH-LU
+Alberswil	isoCodeRegion	CH-LU
+Ebersecken	isoCodeRegion	CH-LU
+Egolzwil	isoCodeRegion	CH-LU
+Altbüron	isoCodeRegion	CH-LU
+Ettiswil	isoCodeRegion	CH-LU
+Altishofen	isoCodeRegion	CH-LU
+Fischbach, Lucerne	isoCodeRegion	CH-LU
+Gettnau	isoCodeRegion	CH-LU
+Grossdietwil	isoCodeRegion	CH-LU
+Hergiswil bei Willisau	isoCodeRegion	CH-LU
+Luthern	isoCodeRegion	CH-LU
+Nebikon	isoCodeRegion	CH-LU
+Ohmstal	isoCodeRegion	CH-LU
+Roggliswil	isoCodeRegion	CH-LU
+Reiden	isoCodeRegion	CH-LU
+Schötz	isoCodeRegion	CH-LU
+Wauwil	isoCodeRegion	CH-LU
+Ufhusen	isoCodeRegion	CH-LU
+Willisau	isoCodeRegion	CH-LU
+Wikon	isoCodeRegion	CH-LU
+Zell, Lucerne	isoCodeRegion	CH-LU
+Menznau	isoCodeRegion	CH-LU
+Pfaffnau	isoCodeRegion	CH-LU
+Saas-Grund	isoCodeRegion	CH-VS
+Homburg, Switzerland	isoCodeRegion	CH-TG
+Berlingen, Switzerland	isoCodeRegion	CH-TG
+Eschenz	isoCodeRegion	CH-TG
+Herdern	isoCodeRegion	CH-TG
+Hüttwilen	isoCodeRegion	CH-TG
+Müllheim, Switzerland	isoCodeRegion	CH-TG
+Salenstein	isoCodeRegion	CH-TG
+Pfyn	isoCodeRegion	CH-TG
+Raperswilen	isoCodeRegion	CH-TG
+Steckborn	isoCodeRegion	CH-TG
+Wigoltingen	isoCodeRegion	CH-TG
+Wagenhausen	isoCodeRegion	CH-TG
+Bürglen, Thurgau	isoCodeRegion	CH-TG
+Birwinken	isoCodeRegion	CH-TG
+Amlikon-Bissegg	isoCodeRegion	CH-TG
+Berg, Thurgau	isoCodeRegion	CH-TG
+Bussnang	isoCodeRegion	CH-TG
+Märstetten	isoCodeRegion	CH-TG
+Amriswil	isoCodeRegion	CH-TG
+Bischofszell	isoCodeRegion	CH-TG
+Erlen	isoCodeRegion	CH-TG
+Hauptwil-Gottshaus	isoCodeRegion	CH-TG
+Hohentannen	isoCodeRegion	CH-TG
+Kradolf-Schönenberg	isoCodeRegion	CH-TG
+Sulgen	isoCodeRegion	CH-TG
+Zihlschlacht-Sitterdorf	isoCodeRegion	CH-TG
+Diessenhofen	isoCodeRegion	CH-TG
+Schlatt bei Diessenhofen	isoCodeRegion	CH-TG
+Basadingen-Schlattingen	isoCodeRegion	CH-TG
+Affeltrangen	isoCodeRegion	CH-TG
+Bettwiesen	isoCodeRegion	CH-TG
+Bichelsee-Balterswil	isoCodeRegion	CH-TG
+Braunau, Switzerland	isoCodeRegion	CH-TG
+Eschlikon	isoCodeRegion	CH-TG
+Fischingen	isoCodeRegion	CH-TG
+Lommis	isoCodeRegion	CH-TG
+Rickenbach, Thurgau	isoCodeRegion	CH-TG
+Münchwilen, Thurgau	isoCodeRegion	CH-TG
+Sirnach	isoCodeRegion	CH-TG
+Tobel-Tägerschen	isoCodeRegion	CH-TG
+Wängi	isoCodeRegion	CH-TG
+Wilen	isoCodeRegion	CH-TG
+Wuppenau	isoCodeRegion	CH-TG
+Roggwil, Thurgau	isoCodeRegion	CH-TG
+Uttwil	isoCodeRegion	CH-TG
+Horn, Switzerland	isoCodeRegion	CH-TG
+Dozwil	isoCodeRegion	CH-TG
+Hefenhofen	isoCodeRegion	CH-TG
+Salmsach	isoCodeRegion	CH-TG
+Kesswil	isoCodeRegion	CH-TG
+Arbon	isoCodeRegion	CH-TG
+Sommeri	isoCodeRegion	CH-TG
+Sumvitg	isoCodeRegion	CH-GR
+Altnau	isoCodeRegion	CH-TG
+Ermatingen	isoCodeRegion	CH-TG
+Langrickenbach	isoCodeRegion	CH-TG
+Gottlieben	isoCodeRegion	CH-TG
+Wäldi	isoCodeRegion	CH-TG
+Kemmental	isoCodeRegion	CH-TG
+Lengwil	isoCodeRegion	CH-TG
+Münsterlingen	isoCodeRegion	CH-TG
+Tägerwilen	isoCodeRegion	CH-TG
+Güttingen	isoCodeRegion	CH-TG
+Gachnang	isoCodeRegion	CH-TG
+Felben-Wellhausen	isoCodeRegion	CH-TG
+Matzingen	isoCodeRegion	CH-TG
+Hüttlingen, Switzerland	isoCodeRegion	CH-TG
+Neunforn	isoCodeRegion	CH-TG
+Stettfurt	isoCodeRegion	CH-TG
+Warth-Weiningen	isoCodeRegion	CH-TG
+Uesslingen-Buch	isoCodeRegion	CH-TG
+Thundorf, Switzerland	isoCodeRegion	CH-TG
+Breitenbach, Switzerland	isoCodeRegion	CH-SO
+Schmitten, Fribourg	isoCodeRegion	CH-FR
+Selzach	isoCodeRegion	CH-SO
+Riedholz	isoCodeRegion	CH-SO
+Rüttenen	isoCodeRegion	CH-SO
+Flumenthal	isoCodeRegion	CH-SO
+Oberdorf, Solothurn	isoCodeRegion	CH-SO
+Langendorf, Switzerland	isoCodeRegion	CH-SO
+Lommiswil	isoCodeRegion	CH-SO
+Hubersdorf	isoCodeRegion	CH-SO
+Günsberg	isoCodeRegion	CH-SO
+Niederwil, Solothurn	isoCodeRegion	CH-SO
+Kammersrohr	isoCodeRegion	CH-SO
+Balm bei Günsberg	isoCodeRegion	CH-SO
+Feldbrunnen-St. Niklaus	isoCodeRegion	CH-SO
+Bettlach, Switzerland	isoCodeRegion	CH-SO
+Bellach	isoCodeRegion	CH-SO
+Zullwil	isoCodeRegion	CH-SO
+Nunningen	isoCodeRegion	CH-SO
+Meltingen	isoCodeRegion	CH-SO
+Himmelried	isoCodeRegion	CH-SO
+Grindel, Switzerland	isoCodeRegion	CH-SO
+Kleinlützel	isoCodeRegion	CH-SO
+Büsserach	isoCodeRegion	CH-SO
+Bärschwil	isoCodeRegion	CH-SO
+Erschwil	isoCodeRegion	CH-SO
+Fehren	isoCodeRegion	CH-SO
+Aetingen	isoCodeRegion	CH-SO
+Aetigkofen	isoCodeRegion	CH-SO
+Balm bei Messen	isoCodeRegion	CH-SO
+Bibern, Solothurn	isoCodeRegion	CH-SO
+Biezwil	isoCodeRegion	CH-SO
+Brunnenthal, Switzerland	isoCodeRegion	CH-SO
+Gossliwil	isoCodeRegion	CH-SO
+Brügglen	isoCodeRegion	CH-SO
+Hessigkofen	isoCodeRegion	CH-SO
+Küttigkofen	isoCodeRegion	CH-SO
+Kyburg-Buchegg	isoCodeRegion	CH-SO
+Lüsslingen	isoCodeRegion	CH-SO
+Lüterkofen-Ichertswil	isoCodeRegion	CH-SO
+Lüterswil-Gächliwil	isoCodeRegion	CH-SO
+Messen	isoCodeRegion	CH-SO
+Mühledorf, Solothurn	isoCodeRegion	CH-SO
+Oberramsern	isoCodeRegion	CH-SO
+Nennigkofen	isoCodeRegion	CH-SO
+Schnottwil	isoCodeRegion	CH-SO
+Unterramsern	isoCodeRegion	CH-SO
+Tscheppach	isoCodeRegion	CH-SO
+Büren, Solothurn	isoCodeRegion	CH-SO
+Gempen	isoCodeRegion	CH-SO
+Dornach	isoCodeRegion	CH-SO
+Bättwil	isoCodeRegion	CH-SO
+Hochwald, Switzerland	isoCodeRegion	CH-SO
+Hofstetten-Flüh	isoCodeRegion	CH-SO
+Metzerlen-Mariastein	isoCodeRegion	CH-SO
+Rodersdorf	isoCodeRegion	CH-SO
+Nuglar-St. Pantaleon	isoCodeRegion	CH-SO
+Witterswil	isoCodeRegion	CH-SO
+Seewen, Solothurn	isoCodeRegion	CH-SO
+Kestenholz	isoCodeRegion	CH-SO
+Neuendorf, Switzerland	isoCodeRegion	CH-SO
+Niederbuchsiten	isoCodeRegion	CH-SO
+Oberbuchsiten	isoCodeRegion	CH-SO
+Wolfwil	isoCodeRegion	CH-SO
+Oensingen	isoCodeRegion	CH-SO
+Rohr, Solothurn	isoCodeRegion	CH-SO
+Erlinsbach, Solothurn	isoCodeRegion	CH-SO
+Hauenstein-Ifenthal	isoCodeRegion	CH-SO
+Kienberg, Switzerland	isoCodeRegion	CH-SO
+Lostorf	isoCodeRegion	CH-SO
+Niedergösgen	isoCodeRegion	CH-SO
+Obergösgen	isoCodeRegion	CH-SO
+Stüsslingen	isoCodeRegion	CH-SO
+Winznau	isoCodeRegion	CH-SO
+Wisen	isoCodeRegion	CH-SO
+Trimbach, Switzerland	isoCodeRegion	CH-SO
+Boningen	isoCodeRegion	CH-SO
+Rickenbach, Solothurn	isoCodeRegion	CH-SO
+Däniken, Solothurn	isoCodeRegion	CH-SO
+Kappel, Switzerland	isoCodeRegion	CH-SO
+Hägendorf	isoCodeRegion	CH-SO
+Gunzgen	isoCodeRegion	CH-SO
+Gretzenbach	isoCodeRegion	CH-SO
+Fulenbach	isoCodeRegion	CH-SO
+Walterswil, Solothurn	isoCodeRegion	CH-SO
+Eppenberg-Wöschnau	isoCodeRegion	CH-SO
+Dulliken	isoCodeRegion	CH-SO
+Starrkirch-Wil	isoCodeRegion	CH-SO
+Aedermannsdorf	isoCodeRegion	CH-SO
+Balsthal	isoCodeRegion	CH-SO
+Gänsbrunnen	isoCodeRegion	CH-SO
+Val-de-Ruz	isoCodeRegion	CH-NE
+Schönenwerd	isoCodeRegion	CH-SO
+Wangen bei Olten	isoCodeRegion	CH-SO
+Herbetswil	isoCodeRegion	CH-SO
+Holderbank, Solothurn	isoCodeRegion	CH-SO
+Laupersdorf	isoCodeRegion	CH-SO
+Matzendorf	isoCodeRegion	CH-SO
+Mümliswil-Ramiswil	isoCodeRegion	CH-SO
+Aeschi	isoCodeRegion	CH-SO
+Biberist	isoCodeRegion	CH-SO
+Bolken	isoCodeRegion	CH-SO
+Etziken	isoCodeRegion	CH-SO
+Deitingen	isoCodeRegion	CH-SO
+Halten	isoCodeRegion	CH-SO
+Gerlafingen	isoCodeRegion	CH-SO
+Heinrichswil-Winistorf	isoCodeRegion	CH-SO
+Hüniken	isoCodeRegion	CH-SO
+Horriwil	isoCodeRegion	CH-SO
+Hersiwil	isoCodeRegion	CH-SO
+Kriegstetten	isoCodeRegion	CH-SO
+Luterbach	isoCodeRegion	CH-SO
+Obergerlafingen	isoCodeRegion	CH-SO
+Lohn-Ammannsegg	isoCodeRegion	CH-SO
+Oekingen	isoCodeRegion	CH-SO
+Recherswil	isoCodeRegion	CH-SO
+Subingen	isoCodeRegion	CH-SO
+Steinhof	isoCodeRegion	CH-SO
+Zuchwil	isoCodeRegion	CH-SO
+Oberdorf, Basel-Landschaft	isoCodeRegion	CH-BL
+Reigoldswil	isoCodeRegion	CH-BL
+Titterten	isoCodeRegion	CH-BL
+Arboldswil	isoCodeRegion	CH-BL
+Bretzwil	isoCodeRegion	CH-BL
+Bennwil	isoCodeRegion	CH-BL
+Eptingen	isoCodeRegion	CH-BL
+Diegten	isoCodeRegion	CH-BL
+Hölstein	isoCodeRegion	CH-BL
+Lampenberg	isoCodeRegion	CH-BL
+Ramlinsburg	isoCodeRegion	CH-BL
+Lupsingen	isoCodeRegion	CH-BL
+Giebenach	isoCodeRegion	CH-BL
+Frenkendorf	isoCodeRegion	CH-BL
+Augst	isoCodeRegion	CH-BL
+Seltisberg	isoCodeRegion	CH-BL
+Lauwil	isoCodeRegion	CH-BL
+Liedertswil	isoCodeRegion	CH-BL
+Niederdorf, Basel-Landschaft	isoCodeRegion	CH-BL
+Arisdorf	isoCodeRegion	CH-BL
+Hersberg	isoCodeRegion	CH-BL
+Langenbruck	isoCodeRegion	CH-BL
+Ziefen	isoCodeRegion	CH-BL
+Binningen, Switzerland	isoCodeRegion	CH-BL
+Birsfelden	isoCodeRegion	CH-BL
+Aesch, Basel-Landschaft	isoCodeRegion	CH-BL
+Reinach, Basel-Landschaft	isoCodeRegion	CH-BL
+Ettingen	isoCodeRegion	CH-BL
+Therwil	isoCodeRegion	CH-BL
+Arlesheim	isoCodeRegion	CH-BL
+Allschwil	isoCodeRegion	CH-BL
+Biel-Benken	isoCodeRegion	CH-BL
+Bottmingen	isoCodeRegion	CH-BL
+Münchenstein	isoCodeRegion	CH-BL
+Oberwil, Basel-Landschaft	isoCodeRegion	CH-BL
+Pfeffingen	isoCodeRegion	CH-BL
+Schönenbuch	isoCodeRegion	CH-BL
+Trun, Switzerland	isoCodeRegion	CH-GR
+Rueun	isoCodeRegion	CH-GR
+Anwil	isoCodeRegion	CH-BL
+Buckten	isoCodeRegion	CH-BL
+Böckten	isoCodeRegion	CH-BL
+Hemmiken	isoCodeRegion	CH-BL
+Häfelfingen	isoCodeRegion	CH-BL
+Itingen	isoCodeRegion	CH-BL
+Gelterkinden	isoCodeRegion	CH-BL
+Tecknau	isoCodeRegion	CH-BL
+Tenniken	isoCodeRegion	CH-BL
+Zeglingen	isoCodeRegion	CH-BL
+Rickenbach, Basel-Landschaft	isoCodeRegion	CH-BL
+Känerkinden	isoCodeRegion	CH-BL
+Läufelfingen	isoCodeRegion	CH-BL
+Maisprach	isoCodeRegion	CH-BL
+Nusshof	isoCodeRegion	CH-BL
+Oltingen	isoCodeRegion	CH-BL
+Ormalingen	isoCodeRegion	CH-BL
+Rothenfluh	isoCodeRegion	CH-BL
+Rümlingen	isoCodeRegion	CH-BL
+Wenslingen	isoCodeRegion	CH-BL
+Sissach	isoCodeRegion	CH-BL
+Thürnen	isoCodeRegion	CH-BL
+Wittinsburg	isoCodeRegion	CH-BL
+Wintersingen	isoCodeRegion	CH-BL
+Zunzgen	isoCodeRegion	CH-BL
+Rünenberg	isoCodeRegion	CH-BL
+Blauen, Basel-Landschaft	isoCodeRegion	CH-BL
+Burg im Leimental	isoCodeRegion	CH-BL
+Dittingen	isoCodeRegion	CH-BL
+Duggingen	isoCodeRegion	CH-BL
+Grellingen	isoCodeRegion	CH-BL
+Laufen, Switzerland	isoCodeRegion	CH-BL
+Liesberg	isoCodeRegion	CH-BL
+Nenzlingen	isoCodeRegion	CH-BL
+Roggenburg, Basel-Country	isoCodeRegion	CH-BL
+Röschenz	isoCodeRegion	CH-BL
+Zwingen	isoCodeRegion	CH-BL
+Wahlen	isoCodeRegion	CH-BL
+Brislach	isoCodeRegion	CH-BL
+Castiel, Switzerland	isoCodeRegion	CH-GR
+Waldkirch, Switzerland	isoCodeRegion	CH-SG
+Muolen	isoCodeRegion	CH-SG
+Andwil	isoCodeRegion	CH-SG
+Gaiserwald	isoCodeRegion	CH-SG
+Eggersriet	isoCodeRegion	CH-SG
+Häggenschwil	isoCodeRegion	CH-SG
+Wittenbach	isoCodeRegion	CH-SG
+Berg, St. Gallen	isoCodeRegion	CH-SG
+Goldach	isoCodeRegion	CH-SG
+Mörschwil	isoCodeRegion	CH-SG
+Rorschacherberg	isoCodeRegion	CH-SG
+Tübach	isoCodeRegion	CH-SG
+Steinach, St. Gallen	isoCodeRegion	CH-SG
+Untereggen	isoCodeRegion	CH-SG
+Au, St. Gallen	isoCodeRegion	CH-SG
+Balgach	isoCodeRegion	CH-SG
+Berneck	isoCodeRegion	CH-SG
+Altstätten	isoCodeRegion	CH-SG
+Eichberg, Switzerland	isoCodeRegion	CH-SG
+Marbach, St. Gallen	isoCodeRegion	CH-SG
+Oberriet	isoCodeRegion	CH-SG
+Rebstein	isoCodeRegion	CH-SG
+Rheineck	isoCodeRegion	CH-SG
+Widnau	isoCodeRegion	CH-SG
+Sennwald	isoCodeRegion	CH-SG
+Buchs, St. Gallen	isoCodeRegion	CH-SG
+Gams	isoCodeRegion	CH-SG
+Grabs	isoCodeRegion	CH-SG
+Sevelen	isoCodeRegion	CH-SG
+Wartau	isoCodeRegion	CH-SG
+Tegerfelden	isoCodeRegion	CH-AG
+Avers	isoCodeRegion	CH-GR
+Niederbüren	isoCodeRegion	CH-SG
+Zuzwil, St. Gallen	isoCodeRegion	CH-SG
+Jonschwil	isoCodeRegion	CH-SG
+Flawil	isoCodeRegion	CH-SG
+Bronschhofen	isoCodeRegion	CH-SG
+Quarten	isoCodeRegion	CH-SG
+Degersheim	isoCodeRegion	CH-SG
+Mels	isoCodeRegion	CH-SG
+Vilters-Wangs	isoCodeRegion	CH-SG
+Oberbüren	isoCodeRegion	CH-SG
+Niederhelfenschwil	isoCodeRegion	CH-SG
+Amden	isoCodeRegion	CH-SG
+Benken, St. Gallen	isoCodeRegion	CH-SG
+Ernetschwil	isoCodeRegion	CH-SG
+Gommiswald	isoCodeRegion	CH-SG
+Eschenbach, St. Gallen	isoCodeRegion	CH-SG
+Rieden, Switzerland	isoCodeRegion	CH-SG
+Schänis	isoCodeRegion	CH-SG
+Uznach	isoCodeRegion	CH-SG
+St. Gallenkappel	isoCodeRegion	CH-SG
+Weesen	isoCodeRegion	CH-SG
+Hedingen	isoCodeRegion	CH-ZH
+Knonau	isoCodeRegion	CH-ZH
+Maschwanden	isoCodeRegion	CH-ZH
+Bonstetten, Switzerland	isoCodeRegion	CH-ZH
+Mettmenstetten	isoCodeRegion	CH-ZH
+Ottenbach, Switzerland	isoCodeRegion	CH-ZH
+Obfelden	isoCodeRegion	CH-ZH
+Affoltern am Albis	isoCodeRegion	CH-ZH
+Rifferswil	isoCodeRegion	CH-ZH
+Hausen am Albis	isoCodeRegion	CH-ZH
+Wettswil am Albis	isoCodeRegion	CH-ZH
+Stallikon	isoCodeRegion	CH-ZH
+Bachenbülach	isoCodeRegion	CH-ZH
+Dietlikon	isoCodeRegion	CH-ZH
+Höri	isoCodeRegion	CH-ZH
+Glattfelden	isoCodeRegion	CH-ZH
+Embrach	isoCodeRegion	CH-ZH
+Lufingen	isoCodeRegion	CH-ZH
+Hüntwangen	isoCodeRegion	CH-ZH
+Eglisau	isoCodeRegion	CH-ZH
+Rorbas	isoCodeRegion	CH-ZH
+Winkel, Switzerland	isoCodeRegion	CH-ZH
+Nürensdorf	isoCodeRegion	CH-ZH
+Boppelsen	isoCodeRegion	CH-ZH
+Wasterkingen	isoCodeRegion	CH-ZH
+Oberembrach	isoCodeRegion	CH-ZH
+Bachs	isoCodeRegion	CH-ZH
+Dänikon	isoCodeRegion	CH-ZH
+Hüttikon	isoCodeRegion	CH-ZH
+Buchs, Zürich	isoCodeRegion	CH-ZH
+Neerach	isoCodeRegion	CH-ZH
+Niederglatt	isoCodeRegion	CH-ZH
+Oberweningen	isoCodeRegion	CH-ZH
+Niederweningen	isoCodeRegion	CH-ZH
+Schöfflisdorf	isoCodeRegion	CH-ZH
+Rümlang	isoCodeRegion	CH-ZH
+Otelfingen	isoCodeRegion	CH-ZH
+Steinmaur	isoCodeRegion	CH-ZH
+Altikon	isoCodeRegion	CH-ZH
+Hagenbuch	isoCodeRegion	CH-ZH
+Dinhard	isoCodeRegion	CH-ZH
+Hettlingen	isoCodeRegion	CH-ZH
+Wiesendangen	isoCodeRegion	CH-ZH
+Schlatt bei Winterthur	isoCodeRegion	CH-ZH
+Pfungen	isoCodeRegion	CH-ZH
+Brütten	isoCodeRegion	CH-ZH
+Seuzach	isoCodeRegion	CH-ZH
+Dägerlen	isoCodeRegion	CH-ZH
+Hofstetten, Zürich	isoCodeRegion	CH-ZH
+Rickenbach, Zürich	isoCodeRegion	CH-ZH
+Turbenthal	isoCodeRegion	CH-ZH
+Elsau	isoCodeRegion	CH-ZH
+Bertschikon bei Attikon	isoCodeRegion	CH-ZH
+Dättlikon	isoCodeRegion	CH-ZH
+Ellikon an der Thur	isoCodeRegion	CH-ZH
+Neftenbach	isoCodeRegion	CH-ZH
+Elgg	isoCodeRegion	CH-ZH
+Ebnat-Kappel	isoCodeRegion	CH-SG
+Kirchberg, St. Gallen	isoCodeRegion	CH-SG
+Hemberg	isoCodeRegion	CH-SG
+Ganterschwil	isoCodeRegion	CH-SG
+Bütschwil	isoCodeRegion	CH-SG
+Alt St. Johann	isoCodeRegion	CH-SG
+Brunnadern	isoCodeRegion	CH-SG
+Stein, St. Gallen	isoCodeRegion	CH-SG
+Oberhelfenschwil	isoCodeRegion	CH-SG
+Lichtensteig	isoCodeRegion	CH-SG
+Mogelsberg	isoCodeRegion	CH-SG
+Lütisburg	isoCodeRegion	CH-SG
+Mosnang	isoCodeRegion	CH-SG
+St. Peterzell	isoCodeRegion	CH-SG
+Intragna	isoCodeRegion	CH-TI
+Adlikon bei Andelfingen	isoCodeRegion	CH-ZH
+Morbio Inferiore	isoCodeRegion	CH-TI
+Morbio Superiore	isoCodeRegion	CH-TI
+Besazio	isoCodeRegion	CH-TI
+Balerna	isoCodeRegion	CH-TI
+Muggio	isoCodeRegion	CH-TI
+Castel San Pietro	isoCodeRegion	CH-TI
+Cabbio	isoCodeRegion	CH-TI
+Bruzella	isoCodeRegion	CH-TI
+Caneggio	isoCodeRegion	CH-TI
+Coldrerio	isoCodeRegion	CH-TI
+Ligornetto	isoCodeRegion	CH-TI
+Meride	isoCodeRegion	CH-TI
+Novazzano	isoCodeRegion	CH-TI
+Riva San Vitale	isoCodeRegion	CH-TI
+Sagno	isoCodeRegion	CH-TI
+Stabio	isoCodeRegion	CH-TI
+Andelfingen, Switzerland	isoCodeRegion	CH-ZH
+Benken, Zürich	isoCodeRegion	CH-ZH
+Rheinau, Switzerland	isoCodeRegion	CH-ZH
+Berg am Irchel	isoCodeRegion	CH-ZH
+Dachsen	isoCodeRegion	CH-ZH
+Buch am Irchel	isoCodeRegion	CH-ZH
+Flaach	isoCodeRegion	CH-ZH
+Flurlingen	isoCodeRegion	CH-ZH
+Henggart	isoCodeRegion	CH-ZH
+Kleinandelfingen	isoCodeRegion	CH-ZH
+Humlikon	isoCodeRegion	CH-ZH
+Oberstammheim	isoCodeRegion	CH-ZH
+Ossingen	isoCodeRegion	CH-ZH
+Trüllikon	isoCodeRegion	CH-ZH
+Marthalen	isoCodeRegion	CH-ZH
+Laufen-Uhwiesen	isoCodeRegion	CH-ZH
+Volken	isoCodeRegion	CH-ZH
+Truttikon	isoCodeRegion	CH-ZH
+Unterstammheim	isoCodeRegion	CH-ZH
+Waltalingen	isoCodeRegion	CH-ZH
+Maggia	isoCodeRegion	CH-TI
+Aesch, Zürich	isoCodeRegion	CH-ZH
+Oberengstringen	isoCodeRegion	CH-ZH
+Geroldswil	isoCodeRegion	CH-ZH
+Unterengstringen	isoCodeRegion	CH-ZH
+Urdorf	isoCodeRegion	CH-ZH
+Birmensdorf, Zürich	isoCodeRegion	CH-ZH
+Weiningen	isoCodeRegion	CH-ZH
+Oetwil an der Limmat	isoCodeRegion	CH-ZH
+Uitikon	isoCodeRegion	CH-ZH
+Hinwil	isoCodeRegion	CH-ZH
+Wädenswil	isoCodeRegion	CH-ZH
+Richterswil	isoCodeRegion	CH-ZH
+Schönenberg, Zürich	isoCodeRegion	CH-ZH
+Hirzel	isoCodeRegion	CH-ZH
+Hütten, Switzerland	isoCodeRegion	CH-ZH
+Bubikon	isoCodeRegion	CH-ZH
+Dürnten	isoCodeRegion	CH-ZH
+Fischenthal	isoCodeRegion	CH-ZH
+Bäretswil	isoCodeRegion	CH-ZH
+Gossau, Zürich	isoCodeRegion	CH-ZH
+Grüningen	isoCodeRegion	CH-ZH
+Seegräben	isoCodeRegion	CH-ZH
+Wald, Zürich	isoCodeRegion	CH-ZH
+Rüti, Zürich	isoCodeRegion	CH-ZH
+Hombrechtikon	isoCodeRegion	CH-ZH
+Zollikon	isoCodeRegion	CH-ZH
+Oetwil am See	isoCodeRegion	CH-ZH
+Fehraltorf	isoCodeRegion	CH-ZH
+Russikon	isoCodeRegion	CH-ZH
+Hittnau	isoCodeRegion	CH-ZH
+Lindau, Switzerland	isoCodeRegion	CH-ZH
+Sternenberg	isoCodeRegion	CH-ZH
+Wildberg, Switzerland	isoCodeRegion	CH-ZH
+Weisslingen	isoCodeRegion	CH-ZH
+Wila, Switzerland	isoCodeRegion	CH-ZH
+Fällanden	isoCodeRegion	CH-ZH
+Maur, Switzerland	isoCodeRegion	CH-ZH
+Schwerzenbach	isoCodeRegion	CH-ZH
+Volketswil	isoCodeRegion	CH-ZH
+Wangen-Brüttisellen	isoCodeRegion	CH-ZH
+Wil, Zürich	isoCodeRegion	CH-ZH
+Vico Morcote	isoCodeRegion	CH-TI
+Campo Blenio	isoCodeRegion	CH-TI
+Ghirone	isoCodeRegion	CH-TI
+Torre, Switzerland	isoCodeRegion	CH-TI
+Malvaglia	isoCodeRegion	CH-TI
+Olivone	isoCodeRegion	CH-TI
+Ludiano	isoCodeRegion	CH-TI
+Semione	isoCodeRegion	CH-TI
+Acquarossa, Switzerland	isoCodeRegion	CH-TI
+Biasca	isoCodeRegion	CH-TI
+Claro, Switzerland	isoCodeRegion	CH-TI
+Cresciano	isoCodeRegion	CH-TI
+Iragna	isoCodeRegion	CH-TI
+Osogna	isoCodeRegion	CH-TI
+Lodrino, Ticino	isoCodeRegion	CH-TI
+Anzonico	isoCodeRegion	CH-TI
+Bedretto	isoCodeRegion	CH-TI
+Calpiogna	isoCodeRegion	CH-TI
+Bodio	isoCodeRegion	CH-TI
+Cavagnago	isoCodeRegion	CH-TI
+Campello, Switzerland	isoCodeRegion	CH-TI
+Dalpe	isoCodeRegion	CH-TI
+Chironico	isoCodeRegion	CH-TI
+Mairengo	isoCodeRegion	CH-TI
+Giornico	isoCodeRegion	CH-TI
+Personico	isoCodeRegion	CH-TI
+Pollegio	isoCodeRegion	CH-TI
+Prato	isoCodeRegion	CH-TI
+Sobrio	isoCodeRegion	CH-TI
+Bignasco	isoCodeRegion	CH-TI
+Avegno, Switzerland	isoCodeRegion	CH-TI
+Quinto, Ticino	isoCodeRegion	CH-TI
+Linescio	isoCodeRegion	CH-TI
+Lavizzara	isoCodeRegion	CH-TI
+Cevio	isoCodeRegion	CH-TI
+Gordevio	isoCodeRegion	CH-TI
+Cerentino	isoCodeRegion	CH-TI
+Cavergno	isoCodeRegion	CH-TI
+Campo, Vallemaggia	isoCodeRegion	CH-TI
+Camorino	isoCodeRegion	CH-TI
+Giubiasco	isoCodeRegion	CH-TI
+Gorduno	isoCodeRegion	CH-TI
+Gnosca	isoCodeRegion	CH-TI
+Gudo	isoCodeRegion	CH-TI
+Lumino	isoCodeRegion	CH-TI
+Isone	isoCodeRegion	CH-TI
+Moleno	isoCodeRegion	CH-TI
+Pianezzo	isoCodeRegion	CH-TI
+Medeglia	isoCodeRegion	CH-TI
+Monte Carasso	isoCodeRegion	CH-TI
+Sant'Antonio, Bellinzona	isoCodeRegion	CH-TI
+Sant'Antonino	isoCodeRegion	CH-TI
+Preonzo	isoCodeRegion	CH-TI
+Cadenazzo	isoCodeRegion	CH-TI
+Vogorno	isoCodeRegion	CH-TI
+Borgnone	isoCodeRegion	CH-TI
+Brione	isoCodeRegion	CH-TI
+Brione sopra Minusio	isoCodeRegion	CH-TI
+Caviano	isoCodeRegion	CH-TI
+Mosogno	isoCodeRegion	CH-TI
+Orselina	isoCodeRegion	CH-TI
+Palagnedra	isoCodeRegion	CH-TI
+Piazzogna	isoCodeRegion	CH-TI
+Gresso	isoCodeRegion	CH-TI
+Indemini	isoCodeRegion	CH-TI
+Isorno	isoCodeRegion	CH-TI
+Lavertezzo	isoCodeRegion	CH-TI
+Losone	isoCodeRegion	CH-TI
+Mergoscia	isoCodeRegion	CH-TI
+Minusio	isoCodeRegion	CH-TI
+San Nazzaro, Switzerland	isoCodeRegion	CH-TI
+Magadino	isoCodeRegion	CH-TI
+Tegna	isoCodeRegion	CH-TI
+Sant'Abbondio	isoCodeRegion	CH-TI
+Tenero-Contra	isoCodeRegion	CH-TI
+Sonogno	isoCodeRegion	CH-TI
+Verscio	isoCodeRegion	CH-TI
+Vergeletto	isoCodeRegion	CH-TI
+Gerra	isoCodeRegion	CH-TI
+Vira	isoCodeRegion	CH-TI
+Gerra	isoCodeRegion	CH-TI
+Gordola	isoCodeRegion	CH-TI
+Contone	isoCodeRegion	CH-TI
+Cavigliano	isoCodeRegion	CH-TI
+Carona, Ticino	isoCodeRegion	CH-TI
+Capriasca	isoCodeRegion	CH-TI
+Carabietta	isoCodeRegion	CH-TI
+Camignolo	isoCodeRegion	CH-TI
+Cadempino	isoCodeRegion	CH-TI
+Brusino Arsizio	isoCodeRegion	CH-TI
+Bioggio	isoCodeRegion	CH-TI
+Bogno	isoCodeRegion	CH-TI
+Bedigliora	isoCodeRegion	CH-TI
+Bidogno	isoCodeRegion	CH-TI
+Bedano	isoCodeRegion	CH-TI
+Astano	isoCodeRegion	CH-TI
+Alto Malcantone	isoCodeRegion	CH-TI
+Certara	isoCodeRegion	CH-TI
+Cimadera	isoCodeRegion	CH-TI
+Iseo, Switzerland	isoCodeRegion	CH-TI
+Rivera, Switzerland	isoCodeRegion	CH-TI
+Collina d'Oro	isoCodeRegion	CH-TI
+Muzzano, Ticino	isoCodeRegion	CH-TI
+Corticiasca	isoCodeRegion	CH-TI
+Comano, Ticino	isoCodeRegion	CH-TI
+Cureglia	isoCodeRegion	CH-TI
+Croglio	isoCodeRegion	CH-TI
+Grancia	isoCodeRegion	CH-TI
+Gravesano	isoCodeRegion	CH-TI
+Curio, Ticino	isoCodeRegion	CH-TI
+Lugaggia	isoCodeRegion	CH-TI
+Lamone	isoCodeRegion	CH-TI
+Porza	isoCodeRegion	CH-TI
+Pura, Switzerland	isoCodeRegion	CH-TI
+Neggio	isoCodeRegion	CH-TI
+Novaggio	isoCodeRegion	CH-TI
+Origlio	isoCodeRegion	CH-TI
+Paradiso, Ticino	isoCodeRegion	CH-TI
+Ponte Capriasca	isoCodeRegion	CH-TI
+Magliaso	isoCodeRegion	CH-TI
+Manno	isoCodeRegion	CH-TI
+Maroggia	isoCodeRegion	CH-TI
+Massagno	isoCodeRegion	CH-TI
+Melano	isoCodeRegion	CH-TI
+Melide, Switzerland	isoCodeRegion	CH-TI
+Mezzovico-Vira	isoCodeRegion	CH-TI
+Miglieglia	isoCodeRegion	CH-TI
+Monteggio	isoCodeRegion	CH-TI
+Rovio, Ticino	isoCodeRegion	CH-TI
+Savosa	isoCodeRegion	CH-TI
+Sigirino	isoCodeRegion	CH-TI
+Sessa, Ticino	isoCodeRegion	CH-TI
+Sorengo	isoCodeRegion	CH-TI
+Torricella-Taverne	isoCodeRegion	CH-TI
+Vernate, Ticino	isoCodeRegion	CH-TI
+Vezia	isoCodeRegion	CH-TI
+Surpierre	isoCodeRegion	CH-FR
+Champéry	isoCodeRegion	CH-VS
+Vouvry	isoCodeRegion	CH-VS
+Val-d'Illiez	isoCodeRegion	CH-VS
+Vionnaz	isoCodeRegion	CH-VS
+Saint-Gingolph, Switzerland	isoCodeRegion	CH-VS
+Collombey-Muraz	isoCodeRegion	CH-VS
+Ayent	isoCodeRegion	CH-VS
+Evolène	isoCodeRegion	CH-VS
+Hérémence	isoCodeRegion	CH-VS
+Les Agettes	isoCodeRegion	CH-VS
+Mase, Switzerland	isoCodeRegion	CH-VS
+Nax	isoCodeRegion	CH-VS
+Saint-Martin, Valais	isoCodeRegion	CH-VS
+Vernamiège	isoCodeRegion	CH-VS
+Vex, Switzerland	isoCodeRegion	CH-VS
+Liddes	isoCodeRegion	CH-VS
+Bourg-Saint-Pierre	isoCodeRegion	CH-VS
+Orsières	isoCodeRegion	CH-VS
+Vollèges	isoCodeRegion	CH-VS
+Chamoson	isoCodeRegion	CH-VS
+Conthey	isoCodeRegion	CH-VS
+Nendaz	isoCodeRegion	CH-VS
+Vétroz	isoCodeRegion	CH-VS
+Salins, Switzerland	isoCodeRegion	CH-VS
+Grimisuat	isoCodeRegion	CH-VS
+Arbaz	isoCodeRegion	CH-VS
+Savièse	isoCodeRegion	CH-VS
+Ernen	isoCodeRegion	CH-VS
+Blitzingen	isoCodeRegion	CH-VS
+Fiesch	isoCodeRegion	CH-VS
+Fieschertal	isoCodeRegion	CH-VS
+Grafschaft, Switzerland	isoCodeRegion	CH-VS
+Lax, Switzerland	isoCodeRegion	CH-VS
+Münster-Geschinen	isoCodeRegion	CH-VS
+Niederwald, Switzerland	isoCodeRegion	CH-VS
+Obergesteln	isoCodeRegion	CH-VS
+Reckingen-Gluringen	isoCodeRegion	CH-VS
+Ulrichen	isoCodeRegion	CH-VS
+Albinen	isoCodeRegion	CH-VS
+Bratsch	isoCodeRegion	CH-VS
+Ergisch	isoCodeRegion	CH-VS
+Erschmatt	isoCodeRegion	CH-VS
+Guttet-Feschel	isoCodeRegion	CH-VS
+Gampel	isoCodeRegion	CH-VS
+Inden, Switzerland	isoCodeRegion	CH-VS
+Leukerbad	isoCodeRegion	CH-VS
+Oberems	isoCodeRegion	CH-VS
+Salgesch	isoCodeRegion	CH-VS
+Turtmann	isoCodeRegion	CH-VS
+Varen, Switzerland	isoCodeRegion	CH-VS
+Unterems	isoCodeRegion	CH-VS
+Charrat	isoCodeRegion	CH-VS
+Bovernier	isoCodeRegion	CH-VS
+Isérables	isoCodeRegion	CH-VS
+Leytron	isoCodeRegion	CH-VS
+Martigny-Combe	isoCodeRegion	CH-VS
+Riddes	isoCodeRegion	CH-VS
+Trient, Switzerland	isoCodeRegion	CH-VS
+Saxon, Switzerland	isoCodeRegion	CH-VS
+Saillon	isoCodeRegion	CH-VS
+Vérossaz	isoCodeRegion	CH-VS
+Evionnaz	isoCodeRegion	CH-VS
+Dorénaz	isoCodeRegion	CH-VS
+Collonges, Switzerland	isoCodeRegion	CH-VS
+Massongex	isoCodeRegion	CH-VS
+Finhaut	isoCodeRegion	CH-VS
+Mex, Valais	isoCodeRegion	CH-VS
+Salvan, Switzerland	isoCodeRegion	CH-VS
+Birgisch	isoCodeRegion	CH-VS
+Eggerberg	isoCodeRegion	CH-VS
+Naters	isoCodeRegion	CH-VS
+Ried-Brig	isoCodeRegion	CH-VS
+Termen	isoCodeRegion	CH-VS
+Zwischbergen	isoCodeRegion	CH-VS
+Ayer, Switzerland	isoCodeRegion	CH-VS
+Chalais, Switzerland	isoCodeRegion	CH-VS
+Chandolin	isoCodeRegion	CH-VS
+Chermignon	isoCodeRegion	CH-VS
+Grimentz	isoCodeRegion	CH-VS
+Chippis	isoCodeRegion	CH-VS
+Icogne	isoCodeRegion	CH-VS
+Miège	isoCodeRegion	CH-VS
+Grône	isoCodeRegion	CH-VS
+Mollens, Valais	isoCodeRegion	CH-VS
+Saint-Jean, Switzerland	isoCodeRegion	CH-VS
+Randogne	isoCodeRegion	CH-VS
+Saint-Léonard, Switzerland	isoCodeRegion	CH-VS
+Saint-Luc, Switzerland	isoCodeRegion	CH-VS
+Veyras, Switzerland	isoCodeRegion	CH-VS
+Venthône	isoCodeRegion	CH-VS
+Embd	isoCodeRegion	CH-VS
+Eisten	isoCodeRegion	CH-VS
+Lalden	isoCodeRegion	CH-VS
+Baltschieder	isoCodeRegion	CH-VS
+Montana, Switzerland	isoCodeRegion	CH-VS
+Vissoie	isoCodeRegion	CH-VS
+St. Niklaus	isoCodeRegion	CH-VS
+Stalden	isoCodeRegion	CH-VS
+Staldenried	isoCodeRegion	CH-VS
+Törbel	isoCodeRegion	CH-VS
+Zeneggen	isoCodeRegion	CH-VS
+Visperterminen	isoCodeRegion	CH-VS
+Saas-Balen	isoCodeRegion	CH-VS
+Ausserberg	isoCodeRegion	CH-VS
+Hohtenn	isoCodeRegion	CH-VS
+Bürchen	isoCodeRegion	CH-VS
+Kippel	isoCodeRegion	CH-VS
+Niedergesteln	isoCodeRegion	CH-VS
+Ferden	isoCodeRegion	CH-VS
+Raron	isoCodeRegion	CH-VS
+Steg, Valais	isoCodeRegion	CH-VS
+Wiler	isoCodeRegion	CH-VS
+Unterbäch	isoCodeRegion	CH-VS
+Blatten	isoCodeRegion	CH-VS
+Bister, Switzerland	isoCodeRegion	CH-VS
+Betten	isoCodeRegion	CH-VS
+Bitsch, Switzerland	isoCodeRegion	CH-VS
+Filet, Switzerland	isoCodeRegion	CH-VS
+Martisberg	isoCodeRegion	CH-VS
+Grengiols	isoCodeRegion	CH-VS
+Mörel, Switzerland	isoCodeRegion	CH-VS
+Bussy, Fribourg	isoCodeRegion	CH-FR
+Cugy, Fribourg	isoCodeRegion	CH-FR
+Châtillon, Fribourg	isoCodeRegion	CH-FR
+Lully, Fribourg	isoCodeRegion	CH-FR
+Russy, Switzerland	isoCodeRegion	CH-FR
+Saint-Aubin, Fribourg	isoCodeRegion	CH-FR
+Villeneuve, Fribourg	isoCodeRegion	CH-FR
+Safiental	isoCodeRegion	CH-GR
+Châbles	isoCodeRegion	CH-FR
+Cheyres	isoCodeRegion	CH-FR
+Cheiry	isoCodeRegion	CH-FR
+Domdidier	isoCodeRegion	CH-FR
+Delley-Portalban	isoCodeRegion	CH-FR
+Fétigny, Switzerland	isoCodeRegion	CH-FR
+Font, Switzerland	isoCodeRegion	CH-FR
+Gletterens	isoCodeRegion	CH-FR
+Léchelles	isoCodeRegion	CH-FR
+Sévaz	isoCodeRegion	CH-FR
+Ménières	isoCodeRegion	CH-FR
+Les Montets	isoCodeRegion	CH-FR
+Vallon	isoCodeRegion	CH-FR
+Vuissens	isoCodeRegion	CH-FR
+Vernay, Switzerland	isoCodeRegion	CH-FR
+Nuvilly	isoCodeRegion	CH-FR
+Montagny, Fribourg	isoCodeRegion	CH-FR
+Morens	isoCodeRegion	CH-FR
+Murist	isoCodeRegion	CH-FR
+Prévondavaux	isoCodeRegion	CH-FR
+Rueyres-les-Prés	isoCodeRegion	CH-FR
+Attalens	isoCodeRegion	CH-FR
+Bossonnens	isoCodeRegion	CH-FR
+Châtel-Saint-Denis	isoCodeRegion	CH-FR
+Granges, Switzerland	isoCodeRegion	CH-FR
+La Verrerie	isoCodeRegion	CH-FR
+Remaufens	isoCodeRegion	CH-FR
+Saint-Martin, Fribourg	isoCodeRegion	CH-FR
+Semsales	isoCodeRegion	CH-FR
+Le Flon	isoCodeRegion	CH-FR
+Alterswil	isoCodeRegion	CH-FR
+Bösingen, Fribourg	isoCodeRegion	CH-FR
+Heitenried	isoCodeRegion	CH-FR
+Brünisried	isoCodeRegion	CH-FR
+Oberschrot	isoCodeRegion	CH-FR
+Düdingen	isoCodeRegion	CH-FR
+Giffers	isoCodeRegion	CH-FR
+Plaffeien	isoCodeRegion	CH-FR
+Plasselb	isoCodeRegion	CH-FR
+Rechthalten	isoCodeRegion	CH-FR
+St. Silvester	isoCodeRegion	CH-FR
+St. Antoni	isoCodeRegion	CH-FR
+St. Ursen	isoCodeRegion	CH-FR
+Tafers	isoCodeRegion	CH-FR
+Tentlingen	isoCodeRegion	CH-FR
+Ueberstorf	isoCodeRegion	CH-FR
+Wünnewil-Flamatt	isoCodeRegion	CH-FR
+Zumholz	isoCodeRegion	CH-FR
+Auboranges	isoCodeRegion	CH-FR
+Billens-Hennens	isoCodeRegion	CH-FR
+Chapelle, Glâne	isoCodeRegion	CH-FR
+Grangettes	isoCodeRegion	CH-FR
+Châtonnaye	isoCodeRegion	CH-FR
+Écublens, Fribourg	isoCodeRegion	CH-FR
+Massonnens	isoCodeRegion	CH-FR
+Mézières, Fribourg	isoCodeRegion	CH-FR
+Montet	isoCodeRegion	CH-FR
+Romont	isoCodeRegion	CH-FR
+Rue, Switzerland	isoCodeRegion	CH-FR
+Siviriez	isoCodeRegion	CH-FR
+Torny	isoCodeRegion	CH-FR
+Vuisternens-devant-Romont	isoCodeRegion	CH-FR
+Ursy	isoCodeRegion	CH-FR
+Villaz-Saint-Pierre	isoCodeRegion	CH-FR
+Villorsonnens	isoCodeRegion	CH-FR
+Vuarmarens	isoCodeRegion	CH-FR
+Le Châtelard, Fribourg	isoCodeRegion	CH-FR
+La Folliaz	isoCodeRegion	CH-FR
+Vella	isoCodeRegion	CH-GR
+Bas-Vully	isoCodeRegion	CH-FR
+Büchslen	isoCodeRegion	CH-FR
+Courgevaux	isoCodeRegion	CH-FR
+Courlevon	isoCodeRegion	CH-FR
+Courtepin	isoCodeRegion	CH-FR
+Cressier, Fribourg	isoCodeRegion	CH-FR
+Galmiz	isoCodeRegion	CH-FR
+Fräschels	isoCodeRegion	CH-FR
+Gempenach	isoCodeRegion	CH-FR
+Greng	isoCodeRegion	CH-FR
+Gurmels	isoCodeRegion	CH-FR
+Haut-Vully	isoCodeRegion	CH-FR
+Jeuss	isoCodeRegion	CH-FR
+Kerzers	isoCodeRegion	CH-FR
+Kleinbösingen	isoCodeRegion	CH-FR
+Lurtigen	isoCodeRegion	CH-FR
+Misery-Courtion	isoCodeRegion	CH-FR
+Meyriez	isoCodeRegion	CH-FR
+Ried bei Kerzers	isoCodeRegion	CH-FR
+Salvenach	isoCodeRegion	CH-FR
+Ulmiz	isoCodeRegion	CH-FR
+Villarepos	isoCodeRegion	CH-FR
+Wallenried	isoCodeRegion	CH-FR
+Muntelier	isoCodeRegion	CH-FR
+Autafond	isoCodeRegion	CH-FR
+Autigny, Switzerland	isoCodeRegion	CH-FR
+Avry	isoCodeRegion	CH-FR
+Belfaux	isoCodeRegion	CH-FR
+Chénens	isoCodeRegion	CH-FR
+Chésopelloz	isoCodeRegion	CH-FR
+Corminboeuf	isoCodeRegion	CH-FR
+Corpataux-Magnedens	isoCodeRegion	CH-FR
+Corserey	isoCodeRegion	CH-FR
+Farvagny	isoCodeRegion	CH-FR
+Ferpicloz	isoCodeRegion	CH-FR
+Épendes, Fribourg	isoCodeRegion	CH-FR
+Cottens, Fribourg	isoCodeRegion	CH-FR
+Givisiez	isoCodeRegion	CH-FR
+Granges-Paccot	isoCodeRegion	CH-FR
+Grolley	isoCodeRegion	CH-FR
+La Brillaz	isoCodeRegion	CH-FR
+Hauterive, Fribourg	isoCodeRegion	CH-FR
+La Sonnaz	isoCodeRegion	CH-FR
+Le Glèbe	isoCodeRegion	CH-FR
+Le Mouret	isoCodeRegion	CH-FR
+Marly, Fribourg	isoCodeRegion	CH-FR
+Matran	isoCodeRegion	CH-FR
+Neyruz, Switzerland	isoCodeRegion	CH-FR
+Noréaz	isoCodeRegion	CH-FR
+Pierrafortscha	isoCodeRegion	CH-FR
+Ponthaux	isoCodeRegion	CH-FR
+Treyvaux	isoCodeRegion	CH-FR
+Senèdes	isoCodeRegion	CH-FR
+Prez-vers-Noréaz	isoCodeRegion	CH-FR
+Villarsel-sur-Marly	isoCodeRegion	CH-FR
+Villars-sur-Glâne	isoCodeRegion	CH-FR
+Vuisternens-en-Ogoz	isoCodeRegion	CH-FR
+Alvaneu	isoCodeRegion	CH-GR
+Bergün	isoCodeRegion	CH-GR
+Bollion	isoCodeRegion	CH-FR
+Seiry	isoCodeRegion	CH-FR
+Brinzauls	isoCodeRegion	CH-GR
+Bivio	isoCodeRegion	CH-GR
+Schiers	isoCodeRegion	CH-GR
+Trimmis	isoCodeRegion	CH-GR
+Says	isoCodeRegion	CH-GR
+Almens	isoCodeRegion	CH-GR
+Andeer	isoCodeRegion	CH-GR
+Andiast	isoCodeRegion	CH-GR
+Ausserferrera	isoCodeRegion	CH-GR
+Brigels	isoCodeRegion	CH-GR
+Arvigo	isoCodeRegion	CH-GR
+Bondo, Switzerland	isoCodeRegion	CH-GR
+Braggio	isoCodeRegion	CH-GR
+Brusio	isoCodeRegion	CH-GR
+Castasegna	isoCodeRegion	CH-GR
+La Punt-Chamues-ch	isoCodeRegion	CH-GR
+Soglio, Switzerland	isoCodeRegion	CH-GR
+Stampa	isoCodeRegion	CH-GR
+Vicosoprano	isoCodeRegion	CH-GR
+Calfreisen	isoCodeRegion	CH-GR
+Langwies	isoCodeRegion	CH-GR
+Maladers	isoCodeRegion	CH-GR
+Pagig	isoCodeRegion	CH-GR
+Tschiertschen	isoCodeRegion	CH-GR
+Peist	isoCodeRegion	CH-GR
+Praden	isoCodeRegion	CH-GR
+St. Peter, Switzerland	isoCodeRegion	CH-GR
+Conters im Prättigau	isoCodeRegion	CH-GR
+Fanas	isoCodeRegion	CH-GR
+Grüsch	isoCodeRegion	CH-GR
+Fideris	isoCodeRegion	CH-GR
+Jenaz	isoCodeRegion	CH-GR
+Küblis	isoCodeRegion	CH-GR
+Luzein	isoCodeRegion	CH-GR
+Saas im Prättigau	isoCodeRegion	CH-GR
+Seewis im Prättigau	isoCodeRegion	CH-GR
+St. Antönien Ascharina	isoCodeRegion	CH-GR
+St. Antönien	isoCodeRegion	CH-GR
+Valzeina	isoCodeRegion	CH-GR
+Fläsch	isoCodeRegion	CH-GR
+Haldenstein	isoCodeRegion	CH-GR
+Jenins	isoCodeRegion	CH-GR
+Maienfeld	isoCodeRegion	CH-GR
+Mastrils	isoCodeRegion	CH-GR
+Untervaz	isoCodeRegion	CH-GR
+Zizers	isoCodeRegion	CH-GR
+Malans, Switzerland	isoCodeRegion	CH-GR
+Casti-Wergenstein	isoCodeRegion	CH-GR
+Cazis	isoCodeRegion	CH-GR
+Clugin	isoCodeRegion	CH-GR
+Donat, Switzerland	isoCodeRegion	CH-GR
+Veulden	isoCodeRegion	CH-GR
+Filisur	isoCodeRegion	CH-GR
+Lenz	isoCodeRegion	CH-GR
+Marmorera	isoCodeRegion	CH-GR
+Mon, Switzerland	isoCodeRegion	CH-GR
+Mulegns	isoCodeRegion	CH-GR
+Mutten	isoCodeRegion	CH-GR
+Sur, Switzerland	isoCodeRegion	CH-GR
+Schmitten, Graubünden	isoCodeRegion	CH-GR
+Flerden	isoCodeRegion	CH-GR
+Fürstenau, Switzerland	isoCodeRegion	CH-GR
+Innerferrera	isoCodeRegion	CH-GR
+Lohn, Graubünden	isoCodeRegion	CH-GR
+Hinterrhein, Switzerland	isoCodeRegion	CH-GR
+Mathon, Switzerland	isoCodeRegion	CH-GR
+Masein	isoCodeRegion	CH-GR
+Riom-Parsonz	isoCodeRegion	CH-GR
+Salouf	isoCodeRegion	CH-GR
+Nufenen	isoCodeRegion	CH-GR
+Stierva	isoCodeRegion	CH-GR
+Surava	isoCodeRegion	CH-GR
+Paspels	isoCodeRegion	CH-GR
+Tiefencastel	isoCodeRegion	CH-GR
+Tinizong-Rona	isoCodeRegion	CH-GR
+Davos Wiesen	isoCodeRegion	CH-GR
+Pignia	isoCodeRegion	CH-GR
+Pratval	isoCodeRegion	CH-GR
+Präz	isoCodeRegion	CH-GR
+Rodels	isoCodeRegion	CH-GR
+Tartar, Switzerland	isoCodeRegion	CH-GR
+Thusis	isoCodeRegion	CH-GR
+Trans, Switzerland	isoCodeRegion	CH-GR
+Tschappina	isoCodeRegion	CH-GR
+Urmein	isoCodeRegion	CH-GR
+Tomils	isoCodeRegion	CH-GR
+Zillis-Reischen	isoCodeRegion	CH-GR
+Rongellen	isoCodeRegion	CH-GR
+Rothenbrunnen	isoCodeRegion	CH-GR
+Cumbel	isoCodeRegion	CH-GR
+Castrisch	isoCodeRegion	CH-GR
+Sufers	isoCodeRegion	CH-GR
+Splügen	isoCodeRegion	CH-GR
+Sils im Domleschg	isoCodeRegion	CH-GR
+Scheid	isoCodeRegion	CH-GR
+Scharans	isoCodeRegion	CH-GR
+Sarn, Switzerland	isoCodeRegion	CH-GR
+Degen, Switzerland	isoCodeRegion	CH-GR
+Duvin	isoCodeRegion	CH-GR
+Flond	isoCodeRegion	CH-GR
+Surcuolm	isoCodeRegion	CH-GR
+Ruschein	isoCodeRegion	CH-GR
+Riein	isoCodeRegion	CH-GR
+Pigniu	isoCodeRegion	CH-GR
+Pitasch	isoCodeRegion	CH-GR
+Luven	isoCodeRegion	CH-GR
+Medel	isoCodeRegion	CH-GR
+Lumbrein	isoCodeRegion	CH-GR
+Vignogn	isoCodeRegion	CH-GR
+Valendas	isoCodeRegion	CH-GR
+Versam	isoCodeRegion	CH-GR
+Tujetsch	isoCodeRegion	CH-GR
+Vrin	isoCodeRegion	CH-GR
+Sagogn	isoCodeRegion	CH-GR
+Schlans	isoCodeRegion	CH-GR
+Schluein	isoCodeRegion	CH-GR
+Schnaus	isoCodeRegion	CH-GR
+Sevgein	isoCodeRegion	CH-GR
+Siat	isoCodeRegion	CH-GR
+St. Martin, Graubünden	isoCodeRegion	CH-GR
+San Vittore, Switzerland	isoCodeRegion	CH-GR
+Soazza	isoCodeRegion	CH-GR
+Rossa, Switzerland	isoCodeRegion	CH-GR
+Verdabbio	isoCodeRegion	CH-GR
+Buseno	isoCodeRegion	CH-GR
+Cama, Switzerland	isoCodeRegion	CH-GR
+Castaneda, Switzerland	isoCodeRegion	CH-GR
+Cauco	isoCodeRegion	CH-GR
+Grono, Switzerland	isoCodeRegion	CH-GR
+Lostallo	isoCodeRegion	CH-GR
+Mesocco	isoCodeRegion	CH-GR
+Leggia	isoCodeRegion	CH-GR
+Tomils	isoCodeRegion	CH-GR
+Bellerive, Switzerland	isoCodeRegion	CH-VD
+Forst-Längenbühl	isoCodeRegion	CH-BE
+Bregaglia	isoCodeRegion	CH-GR
+Sergey, Switzerland	isoCodeRegion	CH-VD
+Goumoëns	isoCodeRegion	CH-VD
+Blenio	isoCodeRegion	CH-TI
+Ferrera	isoCodeRegion	CH-GR
+St. Peter-Pagig	isoCodeRegion	CH-GR
+Bözberg	isoCodeRegion	CH-AG
+Brig-Glis	isoCodeRegion	CH-VS
+Nesslau	isoCodeRegion	CH-SG
+Bettmeralp	isoCodeRegion	CH-VS
+Zinal	isoCodeRegion	CH-VS
+Clos du Doubs	isoCodeRegion	CH-JU
+Riaz	isoCodeRegion	CH-FR
+Anniviers	isoCodeRegion	CH-VS
+Tschiertschen-Praden	isoCodeRegion	CH-GR
+Calanca	isoCodeRegion	CH-GR
+Haute-Ajoie	isoCodeRegion	CH-JU
+La Baroche	isoCodeRegion	CH-JU
+Obergoms	isoCodeRegion	CH-VS
+Cugnasco-Gerra	isoCodeRegion	CH-TI
+Neckertal	isoCodeRegion	CH-SG
+Au, Zurich	isoCodeRegion	CH-ZH
+Gampel-Bratsch	isoCodeRegion	CH-VS
+Jona	isoCodeRegion	CH-SG
+Rapperswil	isoCodeRegion	CH-SG
+Kempraten	isoCodeRegion	CH-SG
+Samstagern	isoCodeRegion	CH-ZH
+Biberbrugg	isoCodeRegion	CH-SZ
+Tann, Switzerland	isoCodeRegion	CH-ZH
+Auslikon	isoCodeRegion	CH-ZH
+Irgenhausen	isoCodeRegion	CH-ZH
+Kempten, Switzerland	isoCodeRegion	CH-ZH
+Avegno Gordevio	isoCodeRegion	CH-TI
+Feldmeilen	isoCodeRegion	CH-ZH
+Mundaun	isoCodeRegion	CH-GR
+Mörel-Filet	isoCodeRegion	CH-VS
+Wildhaus-Alt St. Johann	isoCodeRegion	CH-SG
+Centovalli	isoCodeRegion	CH-TI
+Breggia, Switzerland	isoCodeRegion	CH-TI
+Twann-Tüscherz	isoCodeRegion	CH-BE
+Baden, Switzerland	isoCodeRegion	CH-AG
+Mettauertal	isoCodeRegion	CH-AG
+Steg-Hohtenn	isoCodeRegion	CH-VS
+La Tène, Neuchâtel	isoCodeRegion	CH-NE
+Basse-Allaine	isoCodeRegion	CH-JU
+Hurden	isoCodeRegion	CH-SZ
+Gambarogno	isoCodeRegion	CH-TI
+Gribbio	isoCodeRegion	CH-TI
+Monteceneri	isoCodeRegion	CH-TI
+Glarus Nord	isoCodeRegion	CH-GL
+Glarus Süd	isoCodeRegion	CH-GL
+Saas-Almagell	isoCodeRegion	CH-VS
+Chigny, Switzerland	isoCodeRegion	CH-VD
+Mont-Noble	isoCodeRegion	CH-VS
+Jorat-Menthue	isoCodeRegion	CH-VD
+Valbroye	isoCodeRegion	CH-VD
+Vully-les-Lacs	isoCodeRegion	CH-VD
+Montilliez	isoCodeRegion	CH-VD
+Bourg-en-Lavaux	isoCodeRegion	CH-VD
+Tévenon	isoCodeRegion	CH-VD
+Serravalle, Switzerland	isoCodeRegion	CH-TI
+Landquart, Switzerland	isoCodeRegion	CH-GR
+Siebnen	isoCodeRegion	CH-SZ
+Milvignes	isoCodeRegion	CH-NE
+Valsot	isoCodeRegion	CH-GR
+Val Terbi	isoCodeRegion	CH-JU
+Turtmann-Unterems	isoCodeRegion	CH-VS
+Montanaire	isoCodeRegion	CH-VD
+Lüsslingen-Nennigkofen	isoCodeRegion	CH-SO
+Haute-Sorne	isoCodeRegion	CH-JU
+Escholzmatt-Marbach	isoCodeRegion	CH-LU
+Drei Höfe	isoCodeRegion	CH-SO
+Bütschwil-Ganterschwil	isoCodeRegion	CH-SG
+Terre di Pedemonte	isoCodeRegion	CH-TI
+Zürich	isoCodeRegion	CH-ZH
+Buchegg	isoCodeRegion	CH-SO
+Schinznach	isoCodeRegion	CH-AG
+Plateau de Diesse	isoCodeRegion	CH-BE
+Stocken-Höfen	isoCodeRegion	CH-BE
+Sauge	isoCodeRegion	CH-BE
+Val-de-Charmey	isoCodeRegion	CH-FR
+Glion	isoCodeRegion	CH-GR
+La Cure	isoCodeRegion	CH-VD
+Péry-La Heutte	isoCodeRegion	CH-BE
+Valbirse	isoCodeRegion	CH-BE
+Petit-Val	isoCodeRegion	CH-BE
+Alvra	isoCodeRegion	CH-GR
+Domleschg	isoCodeRegion	CH-GR
+Territet	isoCodeRegion	CH-VD
+Winterberg ZH	isoCodeRegion	CH-ZH
+Gibloux FR	isoCodeRegion	CH-FR
+Mont-Vully	isoCodeRegion	CH-FR
+Belmont-Broye	isoCodeRegion	CH-FR
+Surses	isoCodeRegion	CH-GR
+Obersaxen Mundaun	isoCodeRegion	CH-GR
+Jorat-Mézières	isoCodeRegion	CH-VD
+Euthal	isoCodeRegion	CH-SZ

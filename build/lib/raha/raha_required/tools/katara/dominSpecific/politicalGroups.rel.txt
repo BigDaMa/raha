@@ -1,0 +1,2391 @@
+Bundestag	politicalGroups	Government \n* CDU/CSU \n**  CDU \n**  CSU \n*  SPD \nOpposition Parties \n*  The Left \n*  Alliance '90/The Greens
+European Parliament	politicalGroups	Commission Majority \n* EPP \n* S&D \n* ALDE \nOpposition and Non-Aligned \n* ECR \n* GUE-NGL \n* Greens-EFA \n* EFDD \n* ENF \n* Non-Inscrits \nVacant
+House of Lords	politicalGroups	HM Government\n*  Conservative Party \nHM Most Loyal Opposition\n*  Labour Party \nOther\n*  Crossbenchers \n*  Liberal Democrats \n*  Democratic Unionist Party \n*  UK Independence Party \n*  Ulster Unionist Party \n*  Green Party \n*  Plaid Cymru \n*  Non-affiliated \nLords Spiritual\n*  Bishops
+Parliament of the United Kingdom	politicalGroups	HM Government\n*  Conservative \nHM Most Loyal Opposition\n*  Labour \nOther\n*  Crossbenchers \n*  Liberal Democrats \n*  Democratic Unionist \n*  UK Independence \n*  Ulster Unionist \n*  Green \n*  Plaid Cymru \n*  Non-affiliated \nLords Spiritual\n*  Bishops
+Parliament of the United Kingdom	politicalGroups	HM Government\n*  Conservative \nHM Most Loyal Opposition\n*  Labour \nOther Opposition\n*  Scottish National \n*  Democratic Unionist \n*  Liberal Democrats \n*  Sinn Féin \n*  Plaid Cymru \n*  Social Democratic and Labour \n*  Ulster Unionist \n*  UK Independence \n*  Green \n*  Independent \nSpeaker\n*  Speaker
+Sejm	politicalGroups	Government party \n*
+Sejm	politicalGroups	Law and Justice
+Sejm	politicalGroups	Opposition parties\n*  Civic Platform \n*
+Sejm	politicalGroups	Kukiz'15
+Sejm	politicalGroups	*  Modern \n*  Polish People's Party \n*  European Democrats \n*  Free and Solidary \n*
+Sejm	politicalGroups	Independent
+Supreme Soviet of the Soviet Union	politicalGroups	* CPSU \n* Independents
+United States Congress	politicalGroups	Republican Party
+United States Congress	politicalGroups	Democratic Party
+United States Congress	politicalGroups	Independent
+United States Congress	politicalGroups	Vacant
+Scottish Parliament	politicalGroups	Government \n*
+Scottish Parliament	politicalGroups	Scottish National Party
+Scottish Parliament	politicalGroups	Opposition  \n*
+Scottish Parliament	politicalGroups	Scottish Conservative Party
+Scottish Parliament	politicalGroups	*
+Scottish Parliament	politicalGroups	Scottish Labour Party
+Scottish Parliament	politicalGroups	Scottish Green Party
+Scottish Parliament	politicalGroups	Scottish Liberal Democrats
+Scottish Parliament	politicalGroups	Presiding Officer\n* PO
+Australian House of Representatives	politicalGroups	Government
+Australian House of Representatives	politicalGroups	Coalition
+Australian House of Representatives	politicalGroups	Liberal
+Australian House of Representatives	politicalGroups	LNP
+Australian House of Representatives	politicalGroups	National
+Australian House of Representatives	politicalGroups	Opposition
+Australian House of Representatives	politicalGroups	Labor
+Australian House of Representatives	politicalGroups	Crossbench
+Australian House of Representatives	politicalGroups	Greens
+Australian House of Representatives	politicalGroups	Katter
+Australian House of Representatives	politicalGroups	Xenophon Team
+Australian House of Representatives	politicalGroups	Independent
+House of Commons of Canada	politicalGroups	Government \n* Liberal Party \nOfficial Opposition \n* Conservative Party \nOther opposition parties \n* New Democratic Party \n* Bloc Québécois \n* Green Party \n* Independent \nVacant \n* Vacant
+Knesset	politicalGroups	Government \n*  Likud \n*  Kulanu \n*
+Knesset	politicalGroups	The Jewish Home
+Knesset	politicalGroups	*  Shas \n*
+Knesset	politicalGroups	United Torah Judaism
+Knesset	politicalGroups	*
+Knesset	politicalGroups	Yisrael Beiteinu
+Knesset	politicalGroups	Opposition \n*  Zionist Union \n*  Joint List \n*  Yesh Atid \n*  Meretz
+South Windsor, Connecticut	politicalGroups	Democratic
+South Windsor, Connecticut	politicalGroups	Republican
+Althing	politicalGroups	Government \n: Progressive Party \n: Independence Party \n\nOpposition \n:
+Althing	politicalGroups	Social Democratic Alliance
+Althing	politicalGroups	: Left-Green Movement \n: Bright Future \n: Pirate Party
+Legislative Yuan	politicalGroups	Government \n* DPP Caucus \n** DPP \n** Independent \nLargest Opposition \n*  KMT \nOther Oppositions \n* NPP \n* PFP Caucus \n** PFP \n** NPSU
+Oireachtas	politicalGroups	Government \n* Fine Gael \n* Independent \nConfidence and supply \n* Fianna Fáil \nOther Opposition \n* Sinn Féin \n* Labour Party \n*
+Oireachtas	politicalGroups	Anti-Austerity Alliance–People Before Profit
+Oireachtas	politicalGroups	* I4C \n* Green Party \n* Social Democrats \n* WUA \n* Independent \nCeann Comhairle\n*  Seán Ó Fearghaíl
+Oireachtas	politicalGroups	Government \n* Fine Gael \nOpposition \n* Fianna Fáil \n* Sinn Féin \n* Labour Party \n* Green Party \n* Independent
+House of Representatives	politicalGroups	Government \n*  VVD \n*  PvdA \nOpposition parties \n*  SP \n*  CDA \n*  PVV \n*  D66 \n*  CU \n*  GL \n*  SGP \n*  PvdD \n*  50PLUS \n*  Independents
+Riksdag	politicalGroups	Government \n*
+Riksdag	politicalGroups	Swedish Social Democratic Party
+Riksdag	politicalGroups	* Green Party \nOpposition (The Alliance) \n* Moderate Party \n* Centre Party \n*
+Riksdag	politicalGroups	Liberals
+Riksdag	politicalGroups	*
+Riksdag	politicalGroups	Christian Democrats
+Riksdag	politicalGroups	Other Opposition \n*
+Riksdag	politicalGroups	Sweden Democrats
+Riksdag	politicalGroups	* Left Party \n* Independent
+Australian Senate	politicalGroups	Government
+Australian Senate	politicalGroups	Coalition
+Australian Senate	politicalGroups	Liberal
+Australian Senate	politicalGroups	LNP
+Australian Senate	politicalGroups	National
+Australian Senate	politicalGroups	CLP
+Australian Senate	politicalGroups	Opposition
+Australian Senate	politicalGroups	Labor
+Australian Senate	politicalGroups	Crossbench
+Australian Senate	politicalGroups	Greens
+Australian Senate	politicalGroups	One Nation
+Australian Senate	politicalGroups	Xenophon Team
+Australian Senate	politicalGroups	Family First
+Australian Senate	politicalGroups	Liberal Democrat
+Australian Senate	politicalGroups	Lambie
+Australian Senate	politicalGroups	Hinch
+Storting	politicalGroups	Government \n*  Høyre \n*  FrP \nSupported by  \n*  KrF \n*  Venstre \nOfficial Opposition  \n*  Ap \nOther Opposition \n*  Sp \n*  SV \n*  MDG
+Parliament of Finland	politicalGroups	Governing coalition
+Parliament of Finland	politicalGroups	*
+Parliament of Finland	politicalGroups	Centre Party
+Parliament of Finland	politicalGroups	Finns Party
+Parliament of Finland	politicalGroups	National Coalition Party
+Parliament of Finland	politicalGroups	Opposition parties
+Parliament of Finland	politicalGroups	Social Democratic Party of Finland
+Parliament of Finland	politicalGroups	Green League
+Parliament of Finland	politicalGroups	Left Alliance
+Parliament of Finland	politicalGroups	Swedish People's Party of Finland
+Parliament of Finland	politicalGroups	and
+Parliament of Finland	politicalGroups	Åland Coalition
+Parliament of Finland	politicalGroups	MP
+Parliament of Finland	politicalGroups	Christian Democrats
+House of Councillors	politicalGroups	Party strength before 191st Diet\nGovernment \n\n\nRevisionist opposition \n\n\nOther opposition \n\n\n\n\n\nIndependents & others
+National Council	politicalGroups	Government :
+National Council	politicalGroups	SPÖ
+National Council	politicalGroups	ÖVP
+National Council	politicalGroups	Opposition :
+National Council	politicalGroups	FPÖ
+National Council	politicalGroups	Grüne
+National Council	politicalGroups	Team Stronach
+National Council	politicalGroups	NEOS
+National Council	politicalGroups	Independent
+Rajya Sabha	politicalGroups	Government coalition
+Rajya Sabha	politicalGroups	*  BJP \n*  TDP \n*  Akali Dal \n*  Shiv Sena \n*  JKPDP \n*  Bodoland Peoples Fr. \n*  Nagaland Peoples Fr. \n*  RPI (Athavale) \n*  Sikkim Dem. Front \n\nOpposition Parties
+Rajya Sabha	politicalGroups	United Progressive Alliance \n*  Congress \n*  DMK \n*  IUML \n*  KC(M) \n\nJanata Parivar Parties \n*  JD(U) \n*  RJD \n*  INLD \n*  JD(S) \n\nUnaligned Parties \n*  Samajwadi Party \n*  AIADMK \n*  AITC \n*  BJD \n*  CPI(M) \n*  BSP \n*  NCP \n*  TRS \n*  CPI \n*  JMM \n*  YSRCP \n\nOthers \n*  Nominated \n*  Independents
+National Assembly for Wales	politicalGroups	Government\n*
+National Assembly for Wales	politicalGroups	Welsh Labour Party
+National Assembly for Wales	politicalGroups	*
+National Assembly for Wales	politicalGroups	Welsh Liberal Democrats
+National Assembly for Wales	politicalGroups	Opposition\n*
+National Assembly for Wales	politicalGroups	Plaid Cymru
+National Assembly for Wales	politicalGroups	Welsh Conservative Party
+National Assembly for Wales	politicalGroups	UK Independence Party
+National Assembly for Wales	politicalGroups	darkgray
+National Assembly for Wales	politicalGroups	Independent
+Guardian Council	politicalGroups	Dominated by Principlists: \n*Society of Seminary Teachers of Qom\n*Combatant Clergy Association
+Minnesota Senate	politicalGroups	Minnesota Democratic–Farmer–Labor Party
+Minnesota Senate	politicalGroups	Republican Party of Minnesota
+Minnesota Senate	politicalGroups	Vacant
+Minnesota House of Representatives	politicalGroups	Republican Party of Minnesota
+Minnesota House of Representatives	politicalGroups	Minnesota Democratic–Farmer–Labor Party
+Legislative Council of Hong Kong	politicalGroups	'''
+Legislative Council of Hong Kong	politicalGroups	Pro-Beijing camp
+Legislative Council of Hong Kong	politicalGroups	*
+Legislative Council of Hong Kong	politicalGroups	Democratic Alliance for the Betterment and Progress of Hong Kong
+Legislative Council of Hong Kong	politicalGroups	Business and Professionals Alliance for Hong Kong
+Legislative Council of Hong Kong	politicalGroups	Hong Kong Federation of Trade Unions
+Legislative Council of Hong Kong	politicalGroups	Liberal Party
+Legislative Council of Hong Kong	politicalGroups	New People's Party
+Legislative Council of Hong Kong	politicalGroups	New Century Forum
+Legislative Council of Hong Kong	politicalGroups	Federation of Hong Kong and Kowloon Labour Unions
+Legislative Council of Hong Kong	politicalGroups	Independent
+Legislative Council of Hong Kong	politicalGroups	Pan-democracy camp
+Legislative Council of Hong Kong	politicalGroups	Democratic Party
+Legislative Council of Hong Kong	politicalGroups	Civic Party
+Legislative Council of Hong Kong	politicalGroups	The Professional Commons
+Legislative Council of Hong Kong	politicalGroups	People Power
+Legislative Council of Hong Kong	politicalGroups	League of Social Democrats
+Legislative Council of Hong Kong	politicalGroups	Labour Party
+Legislative Council of Hong Kong	politicalGroups	Neighbourhood and Worker's Service Centre
+Legislative Council of Hong Kong	politicalGroups	Hong Kong Professional Teachers' Union
+Legislative Council of Hong Kong	politicalGroups	Localist groups
+Legislative Council of Hong Kong	politicalGroups	Youngspiration
+Legislative Council of Hong Kong	politicalGroups	Civic Passion
+Legislative Council of Hong Kong	politicalGroups	Demosisto
+Legislative Council of Hong Kong	politicalGroups	Unaffiliated
+Lok Sabha	politicalGroups	Government coalition
+Lok Sabha	politicalGroups	*  BJP \n*  Shiv Sena \n*  TDP \n*  LJP \n*  Akali Dal \n*  RLSP \n*  Apna Dal \n*  JKPDP \n*  N. R. Congress \n*  NPF \n*  NPP \n*  PMK \n*  Swabhimani Paksha \n*  SDF \n*  Speaker, BJP \n*  Nominated, BJP \n\nOpposition Parties
+Lok Sabha	politicalGroups	United Progressive Alliance \n*  Congress \n*  Muslim League \n*  Kerala Congress (M) \n*  RSP \n\nJanata Parivar Parties \n*  RJD \n*  INLD \n*  JD(S) \n*  JD(U) \n\nUnaligned Parties \n*  AIADMK \n*  AITC \n*  BJD \n*  TRS \n*  CPI(M) \n*  YSRCP \n*  NCP \n*  Samajwadi Party \n*  AAP \n*  AIUDF \n*  JMM \n*  CPI \n*  AIMIM \n*  JAP \n\nOthers \n*  Independents \n*  Vacant
+House of Representatives of the Philippines	politicalGroups	* PDP-Laban \n* NPC \n* Liberal \n* Nacionalista \n* NUP \n* UNA \n* Lakas \n* LDP \n* Aksyon \n* CDP \n* Local parties \n* Independent \n* Sectoral
+Senate of the Philippines	politicalGroups	* Liberal \n* Nacionalista \n* NPC \n* PDP-Laban \n* UNA \n* Akbayan \n* LDP  \n* PMP \n* Independent
+National Assembly	politicalGroups	Socialist
+National Assembly	politicalGroups	Republican
+National Assembly	politicalGroups	UDI
+National Assembly	politicalGroups	Green
+National Assembly	politicalGroups	Social-Liberal
+National Assembly	politicalGroups	Left
+National Assembly	politicalGroups	Not registered
+Parliament of Australia	politicalGroups	Government
+Parliament of Australia	politicalGroups	Coalition
+Parliament of Australia	politicalGroups	Liberal
+Parliament of Australia	politicalGroups	LNP
+Parliament of Australia	politicalGroups	National
+Parliament of Australia	politicalGroups	Opposition
+Parliament of Australia	politicalGroups	Labor
+Parliament of Australia	politicalGroups	Crossbench
+Parliament of Australia	politicalGroups	Greens
+Parliament of Australia	politicalGroups	Katter
+Parliament of Australia	politicalGroups	Xenophon Team
+Parliament of Australia	politicalGroups	Independent
+Parliament of Australia	politicalGroups	CLP
+Parliament of Australia	politicalGroups	One Nation
+Parliament of Australia	politicalGroups	Family First
+Parliament of Australia	politicalGroups	Liberal Democrat
+Parliament of Australia	politicalGroups	Lambie
+Parliament of Australia	politicalGroups	Hinch
+House of Keys	politicalGroups	* Liberal Vannin \n* Independent
+National Council	politicalGroups	Government parties \n*  SVP/UDC 65\n*  SP/PS 43\n*  FDP/PLR 33\n*  CVP/PDC 27\nOther parliamentary parties \n*  Greens (GPS/PES) 11\n*  BDP/PBD 7\n*  GLP/PVL 7\n*  EVP/PEV 2\n*  LdT 2\n*  MCG 1\n*  PdA 1\n*  Other 1
+Council of States	politicalGroups	Government parties \n*  CVP/PDC 13\n*  FDP/PLR 13\n*  SP/PS 12\n*  SVP/UDC 5\nOther parliamentary parties \n*  Greens (GPS/PES) 1\n*  BDP/PBD 3\n*  independent 1
+Northern Ireland Assembly	politicalGroups	Executive \n* DUP  \n* Sinn Féin  \n* Independent  \nOfficial Opposition \n* UUP  \n* SDLP  \nOther Opposition \n* Alliance  \n* Green  \n* PBP  \n* TUV
+New Zealand Parliament	politicalGroups	Government \n*
+New Zealand Parliament	politicalGroups	New Zealand National Party
+New Zealand Parliament	politicalGroups	Supported by
+New Zealand Parliament	politicalGroups	*
+New Zealand Parliament	politicalGroups	ACT New Zealand
+New Zealand Parliament	politicalGroups	United Future
+New Zealand Parliament	politicalGroups	Māori Party
+New Zealand Parliament	politicalGroups	Opposition
+New Zealand Parliament	politicalGroups	New Zealand Labour Party
+New Zealand Parliament	politicalGroups	Green Party of Aotearoa New Zealand
+New Zealand Parliament	politicalGroups	New Zealand First
+Congress of Deputies	politicalGroups	* PP \nOfficial Opposition \n* PSOE \nOther Opposition \n*
+Congress of Deputies	politicalGroups	Unidos Podemos
+Congress of Deputies	politicalGroups	* C's \n* ERC \n* PDECAT \n* EAJ-PNV \n* EH Bildu \n* CC
+Senate of Spain	politicalGroups	Government \n* PP \nOpposition \n* PSOE \n* United We Can \n* ERC-CatSí \n* EAJ/PNV \n* Mixed group \n** PDECAT \n** C's \n** CC-PNC \n** Compromís \n** EH Bildu \n** ASG \n** UPN \n** FAC \n** NCa \n** Independent \n* Vacant
+New Zealand House of Representatives	politicalGroups	Government \n*
+New Zealand House of Representatives	politicalGroups	New Zealand National Party
+New Zealand House of Representatives	politicalGroups	Supported by \n*
+New Zealand House of Representatives	politicalGroups	ACT New Zealand
+New Zealand House of Representatives	politicalGroups	*
+New Zealand House of Representatives	politicalGroups	United Future
+New Zealand House of Representatives	politicalGroups	Māori Party
+New Zealand House of Representatives	politicalGroups	Opposition \n*
+New Zealand House of Representatives	politicalGroups	New Zealand Labour Party
+New Zealand House of Representatives	politicalGroups	Green Party of Aotearoa New Zealand
+New Zealand House of Representatives	politicalGroups	New Zealand First
+London Assembly	politicalGroups	*
+London Assembly	politicalGroups	Labour Party
+London Assembly	politicalGroups	Conservative Party
+London Assembly	politicalGroups	Green Party of England and Wales
+London Assembly	politicalGroups	UK Independence Party
+London Assembly	politicalGroups	Liberal Democrats
+Liverpool City Council	politicalGroups	*  Labour
+Liverpool City Council	politicalGroups	*  Liberal Democrats \n*  Green \n*  Liberal
+Islamic Consultative Assembly	politicalGroups	* PCR \n* PGC \n* Independents \n* PV \n* Minorities \n* Vacant
+Philadelphia City Council	politicalGroups	Democratic Party
+Philadelphia City Council	politicalGroups	Republican
+Croatian Parliament	politicalGroups	Government \n* Croatian Democratic Union \n* Bridge of Independent Lists \n* Independent Democratic Serb Party \n* Bandić Milan 365 - The Party of Labour and Solidarity \n* People's Party - Reformists \n* Croatian Social Liberal Party \n* Croatian Christian Democratic Party \n* Croatian Party of Pensioners \n* Democratic Union of Hungarians of Croatia \n* Union of Roma in Croatia \
+Parliament of India	politicalGroups	National Democratic Alliance
+Parliament of India	politicalGroups	UPA
+Congress of the Union	politicalGroups	* PRI \n* PAN \n* PRD \n* PVEM \n* PT \n* Independent
+Congress of the Union	politicalGroups	* PRI \n* PAN \n* PRD \n* PVEM \n* MRN \n* MC \n* PNA \n* PES \n* Independent
+Chamber of Deputies	politicalGroups	* PRI \n* PAN \n* PRD \n* PVEM \n* MRN \n* MC \n* PNA \n* PES \n* Independent
+Dublin City Council	politicalGroups	Council Control  \n* Sinn Féin  \n* Labour Party \n* Green Party \n* Independent \nCouncil Opposition \n* Fianna Fáil  \n* Fine Gael  \n* AAA-PBP  \n* Social Democrats  \n* Workers' Party
+California State Legislature	politicalGroups	*  Democratic \n*  Republican
+Maine Legislature	politicalGroups	*  Republican \n*  Democratic
+Maine Legislature	politicalGroups	*  Democratic \n*  Republican \n*  Independent \n*  Non-voting
+Michigan Legislature	politicalGroups	Majority\n*
+Michigan Legislature	politicalGroups	Michigan Republican Party
+Michigan Legislature	politicalGroups	Minority\n*
+Michigan Legislature	politicalGroups	Michigan Democratic Party
+Michigan Legislature	politicalGroups	*
+Michigan Legislature	politicalGroups	Vacant
+Virginia General Assembly	politicalGroups	Democratic Party
+Virginia General Assembly	politicalGroups	Independent
+Virginia General Assembly	politicalGroups	Republican Party
+Alaska Legislature	politicalGroups	Alaska Republican Party
+Alaska Legislature	politicalGroups	Alaska Democratic Party
+Alaska Legislature	politicalGroups	Independent
+Massachusetts General Court	politicalGroups	*  Democratic \n*  Republican
+Delaware General Assembly	politicalGroups	Democratic Party
+Delaware General Assembly	politicalGroups	Republican Party
+Maryland General Assembly	politicalGroups	Maryland Democratic Party
+Maryland General Assembly	politicalGroups	Independent
+Maryland General Assembly	politicalGroups	Maryland Republican Party
+Montana Legislature	politicalGroups	Republican Party
+Montana Legislature	politicalGroups	Democratic Party
+New Hampshire General Court	politicalGroups	*  Republican \n*  Democratic
+New Hampshire General Court	politicalGroups	*  Republican \n*  Democratic \n*  Independent \n*  Vacant
+Colorado General Assembly	politicalGroups	Democratic Party
+Colorado General Assembly	politicalGroups	Republican Party
+Rhode Island General Assembly	politicalGroups	*  Democratic \n*  Independent \n*  Republican
+Connecticut General Assembly	politicalGroups	Majority\n*
+Connecticut General Assembly	politicalGroups	Democratic Party
+Connecticut General Assembly	politicalGroups	* Working Families \nMinority\n* Republican
+Connecticut General Assembly	politicalGroups	* Democratic \n* Republican
+Vermont General Assembly	politicalGroups	Governing parties\n* Democratic \n* Progressive \nOpposition party\n* Republican
+Vermont General Assembly	politicalGroups	*  Democratic \n*  Republican \n*  Progressive  \n*  Independent
+Georgia General Assembly	politicalGroups	*
+Georgia General Assembly	politicalGroups	Republican Party
+Georgia General Assembly	politicalGroups	Democratic Party
+Georgia General Assembly	politicalGroups	Independent politician
+Ohio General Assembly	politicalGroups	Republican Party
+Ohio General Assembly	politicalGroups	Democratic Party
+New Jersey Legislature	politicalGroups	New Jersey Democratic Party
+New Jersey Legislature	politicalGroups	New Jersey Republican Party
+New York State Legislature	politicalGroups	Governing parties\n*  Republican \n*  Independent Democratic \n*  Caucusing Democrat \nOpposition parties\n*  Democratic \n*  Vacant
+New York State Legislature	politicalGroups	Governing parties\n*  Democratic \n*  Independence Party \nOpposition parties\n*  Republican \n*  Conservative \n*  Independent Democratic \n*  Vacant
+Hawaii State Legislature	politicalGroups	*  Democratic   Republican
+Hawaii State Legislature	politicalGroups	*  Democratic \n*  Republican
+New Mexico Legislature	politicalGroups	Democratic Party
+New Mexico Legislature	politicalGroups	Republican Party
+Texas Legislature	politicalGroups	Republican \n Democratic
+Texas Legislature	politicalGroups	Republican \n Democratic \n Vacant
+Florida Legislature	politicalGroups	Republican Party: 26
+Florida Legislature	politicalGroups	Democratic Party: 14
+Florida Legislature	politicalGroups	Republican Party: 81
+Florida Legislature	politicalGroups	Democratic Party: 37
+Florida Legislature	politicalGroups	No Party Affiliation: 1
+Folketing	politicalGroups	Government \n*  Venstre - Liberal Party \nSupported by \n*  Danish People's Party \n*
+Folketing	politicalGroups	Liberal Alliance
+Folketing	politicalGroups	*
+Folketing	politicalGroups	Conservative People's Party
+Folketing	politicalGroups	Official Opposition \n*  Social Democrats \nOther Opposition  \n*  Red-Green Alliance \n*  Alternative \n*  Social Liberal Party \n*  Socialist People's Party \n*
+Folketing	politicalGroups	Social Democratic Party
+Folketing	politicalGroups	1
+Folketing	politicalGroups	Inuit Ataqatigiit
+Folketing	politicalGroups	*  Forward 1\n*
+Folketing	politicalGroups	Republic
+Indiana General Assembly	politicalGroups	Republican Party
+Indiana General Assembly	politicalGroups	Democratic Party
+Landtag of Bavaria	politicalGroups	Government \n*
+Landtag of Bavaria	politicalGroups	Christian Social Union of Bavaria
+Landtag of Bavaria	politicalGroups	Opposition Parties
+Landtag of Bavaria	politicalGroups	*
+Landtag of Bavaria	politicalGroups	Social Democratic Party of Germany
+Landtag of Bavaria	politicalGroups	Free Voters
+Landtag of Bavaria	politicalGroups	The Greens
+Senate of the Republic	politicalGroups	* PRI \n* PAN \n* PRD \n* PVEM \n* PT \n* Independent
+United States House Committee on Rules	politicalGroups	Majority \n*
+United States House Committee on Rules	politicalGroups	Republican Party
+United States House Committee on Rules	politicalGroups	Minority \n*
+United States House Committee on Rules	politicalGroups	Democratic Party
+Senate of Poland	politicalGroups	Government \n*
+Senate of Poland	politicalGroups	Law and Justice
+Senate of Poland	politicalGroups	Opposition Parties\n* PO \n* PSL \n*
+Senate of Poland	politicalGroups	Independent
+United States House Committee on Ways and Means	politicalGroups	Majority \n*
+United States House Committee on Ways and Means	politicalGroups	Republican Party
+United States House Committee on Ways and Means	politicalGroups	Minority \n*
+United States House Committee on Ways and Means	politicalGroups	Democratic Party
+National Council	politicalGroups	Government \n*  Direction – Social Democracy \n*  Slovak National Party \n*  Most–Híd \nGovernment support \n*  #Network \nOpposition \n*  Freedom and Solidarity \n*  OĽaNO - New Majority \n*  People's Party – Our Slovakia \n*  We Are Family \n*  Independents
+Saeima	politicalGroups	Government \n*  Unity \n*  Union of Greens and Farmers \n*  National Alliance \nOpposition \n*  Harmony \n*  Latvian Association of Regions \n*  For Latvia from the Heart \n*  Who owns the state?
+Parliament of Malaysia	politicalGroups	Government
+Parliament of Malaysia	politicalGroups	BN \n:Ministers: 2\n:Deputy ministers: 6\n* UMNO \n* MCA \n* MIC \n* PBB \n* GERAKAN \n* LDP \n* PBS \n* myPPP \n* SUPP \n* UPKO \nSupported by
+Parliament of Malaysia	politicalGroups	KIMMA
+Parliament of Malaysia	politicalGroups	MIUP
+Parliament of Malaysia	politicalGroups	Independent
+Parliament of Malaysia	politicalGroups	Opposition
+Parliament of Malaysia	politicalGroups	Pakatan Harapan \n* DAP \n* PKR \nOther opposition
+Parliament of Malaysia	politicalGroups	* PAS \n Vacant
+Parliament of Malaysia	politicalGroups	Barisan Nasional \n:Ministers: 33\n:Deputy ministers: 28\n:Backbenchers: 68\n* UMNO \n* PBB \n* MCA \n* PRS \n* PBS \n* MIC \n* SPDP \n* UPKO \n* GERAKAN \n* PBRS \n* SUPP \nOpposition
+Parliament of Malaysia	politicalGroups	Pakatan Harapan \n* DAP \n* PKR \n* AMANAH \n'''Other opposition\n* PAS \n* PSM \n* Independent \n Vacant
+Dewan Rakyat	politicalGroups	Government
+Dewan Rakyat	politicalGroups	Barisan Nasional \n:Ministers: 34\n:Deputy ministers: 28\n:Backbenchers: 68\n* UMNO \n* PBB \n* MCA \n* PRS \n* PBS \n* MIC \n* SPDP \n* UPKO \n* GERAKAN \n* PBRS \n* SUPP \nThe Opposition
+Dewan Rakyat	politicalGroups	PH \n* DAP \n* PKR \n* PAN \n PAS
+Dewan Rakyat	politicalGroups	PSM
+Dewan Rakyat	politicalGroups	Independent
+Dewan Rakyat	politicalGroups	Vacant
+National Assembly	politicalGroups	Opposition \n* PJ \n* AD \n* UNT \n* VP \n* LCR \n* MPV  \n* ProVen \n* CC  \n* AP \n* VV \n* ABP \n* GE  \n* Indigenous seats \n* Independents \n\nGovernment \n* PSUV \n* PCV \n* VBR
+Assembly of Experts	politicalGroups	Combatant Clergy Association
+Assembly of Experts	politicalGroups	Society of Seminary Teachers of Qom
+Assembly of Experts	politicalGroups	People's Experts
+Texas House of Representatives	politicalGroups	Majority\n*  Republican \nMinority\n*  Democratic \n*  Independent
+Parliament of Wallonia	politicalGroups	Government \n* Socialist Party \n* Humanist Democratic Centre \nOpposition \n* Reform Movement \n* Ecolo \n* Workers' Party \n* People's Party
+Flemish Parliament	politicalGroups	Government \n* N-VA \n* CD&V \n* Open Vld \nOpposition \n* sp.a \n* Groen \n* Vlaams Belang \n* UF
+Parliament of Greenland	politicalGroups	Government \n: Siumut \n: Democrats \n: Atassut \n\nOpposition \n: Inuit Ataqatigiit \n: Partii Naleraq
+Senate	politicalGroups	Republican
+Victorian Legislative Assembly	politicalGroups	Government
+Victorian Legislative Assembly	politicalGroups	Labor
+Victorian Legislative Assembly	politicalGroups	Opposition
+Victorian Legislative Assembly	politicalGroups	Liberal
+Victorian Legislative Assembly	politicalGroups	National
+Victorian Legislative Assembly	politicalGroups	Crossbench
+Victorian Legislative Assembly	politicalGroups	Greens
+Victorian Legislative Assembly	politicalGroups	Independent
+Seimas	politicalGroups	Government \n*  Social Democratic \n*  Labour \n*  Order and Justice \nOpposition \n*  Homeland Union \n*  Liberal Movement \n*  Electoral Action of Poles in Lithuania \n\n\n*  Non-affiliated
+Jatiyo Sangshad	politicalGroups	BAL
+Jatiyo Sangshad	politicalGroups	JP (E)
+Jatiyo Sangshad	politicalGroups	WPB
+Jatiyo Sangshad	politicalGroups	JSD
+Jatiyo Sangshad	politicalGroups	JP (M)
+Jatiyo Sangshad	politicalGroups	BTF
+Jatiyo Sangshad	politicalGroups	BNF
+Jatiyo Sangshad	politicalGroups	Independent
+New South Wales Legislative Assembly	politicalGroups	Government
+New South Wales Legislative Assembly	politicalGroups	Liberal
+New South Wales Legislative Assembly	politicalGroups	National
+New South Wales Legislative Assembly	politicalGroups	Opposition
+New South Wales Legislative Assembly	politicalGroups	Labor
+New South Wales Legislative Assembly	politicalGroups	Crossbench
+New South Wales Legislative Assembly	politicalGroups	Greens
+New South Wales Legislative Assembly	politicalGroups	Independent
+Northern Territory Legislative Assembly	politicalGroups	Government
+Northern Territory Legislative Assembly	politicalGroups	*  Labor \nOpposition\n*  Country Liberal \nCrossbench\n*  Independent
+Western Australian Legislative Assembly	politicalGroups	Government
+Western Australian Legislative Assembly	politicalGroups	Liberal
+Western Australian Legislative Assembly	politicalGroups	National
+Western Australian Legislative Assembly	politicalGroups	Opposition
+Western Australian Legislative Assembly	politicalGroups	Labor
+New South Wales Legislative Council	politicalGroups	Total: 42 seats\nGovernment
+New South Wales Legislative Council	politicalGroups	Liberal
+New South Wales Legislative Council	politicalGroups	The Nationals
+New South Wales Legislative Council	politicalGroups	Opposition
+New South Wales Legislative Council	politicalGroups	Labor
+New South Wales Legislative Council	politicalGroups	Crossbench
+New South Wales Legislative Council	politicalGroups	Greens
+New South Wales Legislative Council	politicalGroups	Shooters, Fishers and Farmers Party
+New South Wales Legislative Council	politicalGroups	CDP
+New South Wales Legislative Council	politicalGroups	Animal Justice Party
+South Australian House of Assembly	politicalGroups	Government
+South Australian House of Assembly	politicalGroups	Labor
+South Australian House of Assembly	politicalGroups	Opposition
+South Australian House of Assembly	politicalGroups	Liberal
+South Australian House of Assembly	politicalGroups	Crossbench
+South Australian House of Assembly	politicalGroups	Independent
+South Australian Legislative Council	politicalGroups	Government
+South Australian Legislative Council	politicalGroups	Labor
+South Australian Legislative Council	politicalGroups	Opposition
+South Australian Legislative Council	politicalGroups	Liberal
+South Australian Legislative Council	politicalGroups	Crossbench
+South Australian Legislative Council	politicalGroups	Green
+South Australian Legislative Council	politicalGroups	Family First
+South Australian Legislative Council	politicalGroups	D4D
+South Australian Legislative Council	politicalGroups	Nick Xenophon Team
+Tasmanian House of Assembly	politicalGroups	Government
+Tasmanian House of Assembly	politicalGroups	Liberal
+Tasmanian House of Assembly	politicalGroups	Opposition
+Tasmanian House of Assembly	politicalGroups	Labor
+Tasmanian House of Assembly	politicalGroups	Crossbench
+Tasmanian House of Assembly	politicalGroups	Greens
+Australian Capital Territory Legislative Assembly	politicalGroups	Government
+Australian Capital Territory Legislative Assembly	politicalGroups	Labor
+Australian Capital Territory Legislative Assembly	politicalGroups	Greens
+Australian Capital Territory Legislative Assembly	politicalGroups	Opposition
+Australian Capital Territory Legislative Assembly	politicalGroups	Liberal
+Tasmanian Legislative Council	politicalGroups	Government
+Tasmanian Legislative Council	politicalGroups	Liberal
+Tasmanian Legislative Council	politicalGroups	Opposition
+Tasmanian Legislative Council	politicalGroups	Labor
+Tasmanian Legislative Council	politicalGroups	Crossbench
+Tasmanian Legislative Council	politicalGroups	Independent
+Victorian Legislative Council	politicalGroups	Government
+Victorian Legislative Council	politicalGroups	Labor
+Victorian Legislative Council	politicalGroups	Opposition
+Victorian Legislative Council	politicalGroups	Liberal
+Victorian Legislative Council	politicalGroups	National
+Victorian Legislative Council	politicalGroups	Crossbench
+Victorian Legislative Council	politicalGroups	Greens
+Victorian Legislative Council	politicalGroups	Shooters, Fishers, Farmers
+Victorian Legislative Council	politicalGroups	Sex
+Victorian Legislative Council	politicalGroups	Democratic Labour
+Victorian Legislative Council	politicalGroups	Vote 1 Local Jobs
+New York State Assembly	politicalGroups	Governing parties\n*  Democratic \n*  Independence \nOpposition parties\n*  Republican \n*  Conservative \n*  Vacant
+Landtag of Rhineland-Palatinate	politicalGroups	Government:\n* SPD \n* FDP \n* The Greens \nOpposition:\n* CDU \n* AfD
+National Assembly	politicalGroups	Government (131)
+National Assembly	politicalGroups	* Fidesz \n* KDNP \nOpposition (68)\n* MSZP \n* Jobbik \n* LMP \n* DK \n* Együtt \n* PM \n* MLP \n* Independent
+Parliament of Åland	politicalGroups	Liberals for Åland
+Parliament of Åland	politicalGroups	Åland Centre
+Parliament of Åland	politicalGroups	Moderates of Åland
+Parliament of Åland	politicalGroups	Åland Social Democrats
+Parliament of Åland	politicalGroups	Non-aligned Coalition
+Parliament of Åland	politicalGroups	Future of Åland
+Parliament of Åland	politicalGroups	Ålandic Democracy
+Senate	politicalGroups	Government \n*  VVD \n*  PvdA \nOpposition \n*  CDA \n*  D66 \n*  PVV \n*  SP \n*  GL \n*  CU \n*  PvdD  \n*  SGP \n*  50PLUS  \n*  OSF
+National Assembly	politicalGroups	Government\n* Saenuri \nOpposition\n* Minjoo \n* People's \n* Justice \n* Independents
+Congress of Colombia	politicalGroups	Government \n*  Lib. \n*  La U \n*  CR \n*  OC \nOpposition \n*  CD \n*  Polo \nIndependent \n*  Con. \n*  Verde \n* MIRA \n* 100% \n* AICO \n* FUNECO \n* ASI \n* Huila
+Congress of Colombia	politicalGroups	Government \n*  La U \n*  Lib. \n*  CR \n*  OC \nOpposition \n*  CD \n*   Polo \nIndependent \n*  Con. \n*  Verde \n*     ASI/MAIS
+Minnesota Legislature	politicalGroups	Minnesota Democratic–Farmer–Labor Party
+Minnesota Legislature	politicalGroups	Republican Party of Minnesota
+Minnesota Legislature	politicalGroups	Vacant
+National Assembly	politicalGroups	Government \n* Democratic Revolutionary Party \n* Panameñista Party \n* People's Party \nOpposition \n* Democratic Change \n* Nationalist Republican Liberal Movement \n* Indepentent
+Florida House of Representatives	politicalGroups	Republican Party of Florida
+Florida House of Representatives	politicalGroups	Florida Democratic Party
+Florida House of Representatives	politicalGroups	Independent politician
+Florida House of Representatives	politicalGroups	Vacant
+Missouri General Assembly	politicalGroups	Senate
+Missouri General Assembly	politicalGroups	Missouri Republican Party
+Missouri General Assembly	politicalGroups	Missouri Democratic Party
+Missouri General Assembly	politicalGroups	House of Representatives
+Missouri General Assembly	politicalGroups	Republican
+Missouri General Assembly	politicalGroups	Democratic
+North Dakota Legislative Assembly	politicalGroups	North Dakota Republican Party
+North Dakota Legislative Assembly	politicalGroups	North Dakota Democratic-NPL Party
+Senate of Colombia	politicalGroups	Government \n*  La U \n*  Liberal \n*  CR \n*  OC \nOpposition \n*  CD \n*   Polo \nOther Opposition \n*  Cons. \n*  Verde \n*     ASI/MAIS
+House of Representatives	politicalGroups	Government \n*  Lib. \n*  La U \n*  CR \n*  OC \nOpposition \n*  CD \n*  Polo \nIndependent \n*  Con. \n*  Verde \n* MIRA \n* 100% \n* AICO \n* FUNECO \n* ASI \n* Huila
+Parliament of Fiji	politicalGroups	Government
+Parliament of Fiji	politicalGroups	FFP
+Parliament of Fiji	politicalGroups	Opposition
+Parliament of Fiji	politicalGroups	SDLP
+Parliament of Fiji	politicalGroups	Crossbench
+Parliament of Fiji	politicalGroups	NFP
+Chamber of Deputies	politicalGroups	PLD
+Chamber of Deputies	politicalGroups	PRM
+Chamber of Deputies	politicalGroups	PRSC
+Chamber of Deputies	politicalGroups	PRD
+Chamber of Deputies	politicalGroups	PLRD
+Chamber of Deputies	politicalGroups	AP
+Chamber of Deputies	politicalGroups	MDA
+Chamber of Deputies	politicalGroups	MIUC
+Chamber of Deputies	politicalGroups	PPC
+Chamber of Deputies	politicalGroups	PQDC
+Chamber of Deputies of Paraguay	politicalGroups	ANR
+Chamber of Deputies of Paraguay	politicalGroups	PLRA
+Chamber of Deputies of Paraguay	politicalGroups	AP
+Chamber of Deputies of Paraguay	politicalGroups	PEN
+Chamber of Deputies of Paraguay	politicalGroups	UNACE
+Chamber of Deputies of Paraguay	politicalGroups	PPQ
+Chamber of Deputies of Paraguay	politicalGroups	APC
+Chamber of Deputies of Paraguay	politicalGroups	FG
+Senate of the Dominican Republic	politicalGroups	PLD and allies \n*
+Senate of the Dominican Republic	politicalGroups	Dominican Liberation Party
+Senate of the Dominican Republic	politicalGroups	*
+Senate of the Dominican Republic	politicalGroups	Dominican Revolutionary Party
+Senate of the Dominican Republic	politicalGroups	Liberal Reformist Party
+Senate of the Dominican Republic	politicalGroups	Social Democratic Institutional Bloc
+Senate of the Dominican Republic	politicalGroups	Minority \n*
+Senate of the Dominican Republic	politicalGroups	Modern Revolutionary Party
+Senate of the Dominican Republic	politicalGroups	Social Christian Reformist Party
+National Council of Provinces	politicalGroups	*  ANC \n*  DA \n*  EFF \n*  Others
+Michigan House of Representatives	politicalGroups	Majority\n*
+Michigan House of Representatives	politicalGroups	Michigan Republican Party
+Michigan House of Representatives	politicalGroups	Minority\n*
+Michigan House of Representatives	politicalGroups	Michigan Democratic Party
+Michigan House of Representatives	politicalGroups	*
+Michigan House of Representatives	politicalGroups	Vacant
+Senate of Chile	politicalGroups	New Majority\n; DC \n; PS \n; PPD \n; MAS \n; New Majority's independents \nChile Vamos\n; UDI \n; RN \n; Chile Vamos' independents \nOut of pact:\n; DRP \n; Amplitude \n; Independent
+Supreme People's Assembly	politicalGroups	* Workers' Party \n* Social Democrats \n*
+Supreme People's Assembly	politicalGroups	Chondoist Chongu Party
+Supreme People's Assembly	politicalGroups	* Independents
+National Congress of Chile	politicalGroups	New Majority\n; DC \n; PS \n; PPD \n; MAS \n; New Majority's independents \nChile Vamos\n; UDI \n; RN \n; Chile Vamos' independents \nOut of pact:\n; Patagonian Regional Democracy \n; Amplitude \n; Independent
+National Congress of Chile	politicalGroups	Government
+National Congress of Chile	politicalGroups	Christian Democratic
+National Congress of Chile	politicalGroups	Socialist
+National Congress of Chile	politicalGroups	Party for Democracy
+National Congress of Chile	politicalGroups	Communist
+National Congress of Chile	politicalGroups	Social Democrat Radical
+National Congress of Chile	politicalGroups	Citizen Left
+National Congress of Chile	politicalGroups	New Majority's Independents   Opposition
+National Congress of Chile	politicalGroups	Independent Democratic Union
+National Congress of Chile	politicalGroups	National Renewal
+National Congress of Chile	politicalGroups	Political Evolution
+National Congress of Chile	politicalGroups	Chile Vamos' independents
+National Congress of Chile	politicalGroups	Crossbench/Others
+National Congress of Chile	politicalGroups	Independent
+National Congress of Chile	politicalGroups	Amplitude
+National Congress of Chile	politicalGroups	Liberal
+Chamber of Deputies of Chile	politicalGroups	Government
+Chamber of Deputies of Chile	politicalGroups	Christian Democratic
+Chamber of Deputies of Chile	politicalGroups	Socialist
+Chamber of Deputies of Chile	politicalGroups	Party for Democracy
+Chamber of Deputies of Chile	politicalGroups	Communist
+Chamber of Deputies of Chile	politicalGroups	Social Democrat Radical
+Chamber of Deputies of Chile	politicalGroups	Citizen Left
+Chamber of Deputies of Chile	politicalGroups	New Majority's Independents   \nOpposition
+Chamber of Deputies of Chile	politicalGroups	Independent Democratic Union
+Chamber of Deputies of Chile	politicalGroups	National Renewal
+Chamber of Deputies of Chile	politicalGroups	Political Evolution
+Chamber of Deputies of Chile	politicalGroups	Chile Vamos' Independents
+Chamber of Deputies of Chile	politicalGroups	Crossbench/Others
+Chamber of Deputies of Chile	politicalGroups	Independent
+Chamber of Deputies of Chile	politicalGroups	Amplitude
+Chamber of Deputies of Chile	politicalGroups	Liberal
+Chamber of Deputies of Chile	politicalGroups	Social Agrarian Regionalist Independent Movement
+Congress of Guatemala	politicalGroups	*
+Congress of Guatemala	politicalGroups	Renewed Democratic Liberty
+Congress of Guatemala	politicalGroups	* National Unity of Hope \n* Todos \n* Patriotic Party \n* National Convergence Front \n* Encounter for Guatemala \n* National Change Union \n* CREO-Unionist Party \n* National Advancement Party \n* Winaq-URNG–MAIZ \n* Convergence \n* VIVA \n* Fuerza
+People's Representative Council	politicalGroups	Government  \n*
+People's Representative Council	politicalGroups	Indonesian Democratic Party of Struggle
+People's Representative Council	politicalGroups	*
+People's Representative Council	politicalGroups	Golkar
+People's Representative Council	politicalGroups	National Mandate Party
+People's Representative Council	politicalGroups	National Awakening Party
+People's Representative Council	politicalGroups	United Development Party
+People's Representative Council	politicalGroups	Nasdem Party
+People's Representative Council	politicalGroups	People's Conscience Party
+People's Representative Council	politicalGroups	Opposition  \n*
+People's Representative Council	politicalGroups	Great Indonesia Movement Party
+People's Representative Council	politicalGroups	Prosperous Justice Party
+People's Representative Council	politicalGroups	Unaligned \n*
+People's Representative Council	politicalGroups	Democratic Party
+Galway City Council	politicalGroups	Council Control \n* Fine Gael \n* Labour Party \n* Independent \nCouncil Opposition \n* Fianna Fáil  \n* Sinn Féin
+Argentine Chamber of Deputies	politicalGroups	Government \n* Cambiemos \nOpposition \n* FpV \n* UNA \n* PJ \n* P \n* FCS \n* PpV \n* JpA \n* CF \n* FIT \n* FCM \n* BdB \n* Others
+Argentine Senate	politicalGroups	Coalition government\n* UCR \n*
+Argentine Senate	politicalGroups	Republican Proposal
+Argentine Senate	politicalGroups	* CC-ARI \n* Independent (UCR) \n* Independent (PJ) \nOpposition groups\n*
+Argentine Senate	politicalGroups	Front for Victory
+Argentine Senate	politicalGroups	* UNA \n* ACF \n* MPN \n* PJ \n* FPV (Dissidents) \n* Independent (PJ) \n* Independent (PJ) \n* GEN \n* Independent \n* MPS
+Senate of Pakistan	politicalGroups	* PPP \n* PML-N \n* MQM \n* PTI \n* ANP \n* JUI-F \n* PML-Q \n* NP \n* PMAP \n* BNP-A \n* BNP-M \n* JI \n* PML-F \n* Independent
+National Assembly of Pakistan	politicalGroups	Government coalition \n* PML-N \n* JUI-F \n* PML-F \n* NPP \nOpposition \n* PPP \n* PTI \n* MQM \n* JI \n* PMAP \n* PML-Q \n* ANP \n* BNP \n* QWP \n* PML-Z \n* NP \n* AML \n* AJIP \n* APML \n* Independents
+Grand National Assembly of Turkey	politicalGroups	Government \n* AKP \nMain Opposition\n* CHP \nOther Opposition\n* HDP \n* MHP \n* Independents
+Riigikogu	politicalGroups	Government \n*  RE \n*  SDE \n*  IRL \nOpposition \n*  KE \n*  EV \n*  EKRE
+Hawaii Senate	politicalGroups	*  Democratic \n*  Republican \n*  Vacant
+Hawaii House of Representatives	politicalGroups	*  Democratic \n*  Republican
+Kargil district	politicalGroups	Indian National Congress
+Kargil district	politicalGroups	Jammu and Kashmir National Conference
+Belgian Federal Parliament	politicalGroups	* N-VA \n* PS \n* CD&V \n* MR \n*
+Belgian Federal Parliament	politicalGroups	Groen
+Belgian Federal Parliament	politicalGroups	/  Ecolo \n* VLD \n* sp.a \n*
+Belgian Federal Parliament	politicalGroups	Centre démocrate humaniste
+Belgian Federal Parliament	politicalGroups	* VB \n*
+Belgian Federal Parliament	politicalGroups	German-speaking senator
+Belgian Federal Parliament	politicalGroups	Government :\n* N-VA \n* MR \n* CD&V \n* VLD \nOpposition :\n* PS \n* sp.a \n* Ecolo/Groen \n*
+Belgian Federal Parliament	politicalGroups	* VB \n* PTB–GO!/PVDA+ \n* FDF \n* PP
+Gibraltar Parliament	politicalGroups	Government \n*
+Gibraltar Parliament	politicalGroups	Gibraltar Socialist Labour Party
+Gibraltar Parliament	politicalGroups	*
+Gibraltar Parliament	politicalGroups	Liberal Party of Gibraltar
+Gibraltar Parliament	politicalGroups	Opposition \n*
+Gibraltar Parliament	politicalGroups	Gibraltar Social Democrats
+Gibraltar Parliament	politicalGroups	Independent politician
+Verkhovna Rada	politicalGroups	Coalition members \n*  Petro Poroshenko Bloc \n*  People's Front \nOpposition \n*  Opposition Bloc \n*  Self Reliance \n*  Revival \n*  Radical Party \n*  Fatherland \n*  People's Will \n\n Non-affiliated
+Verkhovna Rada	politicalGroups	Vacant
+Senate of the Republic	politicalGroups	Government \n*  PD 113\n*  AP 31\n*  AUT 20\n\nGovernment support  \n*  ALA 20\n\nOpposition Parties \n*  FI 40\n*  M5S 35\n*  GAL 15\n*  LN 12\n*  CR 9\n*  Mixed Group 26
+Parliament of the German-speaking Community	politicalGroups	Government\n* ProDG \n* Socialist Party \n* Party for Freedom and Progress \nOpposition\n* Christian Social Party \n* Ecolo \n* Vivant
+Tennessee House of Representatives	politicalGroups	Governing party\n* Republican \nOpposition party\n* Democratic
+Tennessee General Assembly	politicalGroups	Republican \n Democratic
+Tennessee Senate	politicalGroups	Governing party\n* Republican \nOpposition party\n* Democratic
+South Carolina General Assembly	politicalGroups	Republican \n Democratic
+City Council of Cincinnati elections	politicalGroups	Democratic Party
+City Council of Cincinnati elections	politicalGroups	Republican
+City Council of Cincinnati elections	politicalGroups	Charterite
+Montana Senate	politicalGroups	Governing Party\n* Republican \n\nOpposition Party\n* Democratic
+Parliament of Kazakhstan	politicalGroups	Nur Otan
+Parliament of Kazakhstan	politicalGroups	Bright Path
+Parliament of Kazakhstan	politicalGroups	CPK
+Los Angeles City Council	politicalGroups	Non-partisan democracy
+Los Angeles City Council	politicalGroups	14
+Seattle City Council	politicalGroups	* Democratic \n* Socialist Alternative
+King County Council	politicalGroups	Democratic Party
+King County Council	politicalGroups	Republican Party
+French Parliament	politicalGroups	Communist Group
+French Parliament	politicalGroups	Socialist Group
+French Parliament	politicalGroups	Europe Écologie–The Greens
+French Parliament	politicalGroups	European Democratic and Social Rally
+French Parliament	politicalGroups	Union of Democrats and Independents - UC
+French Parliament	politicalGroups	Republican Group
+French Parliament	politicalGroups	Non-Registered
+French Parliament	politicalGroups	Union of Democrats and independents
+French Parliament	politicalGroups	Ecologist Group
+French Parliament	politicalGroups	Democratic and republican left
+French Parliament	politicalGroups	Radical, republican, democrat and progressist
+French Parliament	politicalGroups	Non inscrits
+French Parliament	politicalGroups	-  miscellaneous right
+French Parliament	politicalGroups	-  National Front
+French Parliament	politicalGroups	-  miscellaneous left
+French Parliament	politicalGroups	-  MoDem
+French Parliament	politicalGroups	-  Arise the Republic
+French Parliament	politicalGroups	-  Movement for France
+French Parliament	politicalGroups	-  Far right
+State Duma	politicalGroups	* United Russia  \n** United Russia \n** Independent \n*  Communist Party \n*  Liberal Democratic Party \n*  A Just Russia \n*  Rodina \n*  Civic Platform \n*  Vacant
+Senate of Puerto Rico	politicalGroups	PPD
+Senate of Puerto Rico	politicalGroups	PNP
+Senate of Puerto Rico	politicalGroups	PIP
+House of Representatives of Puerto Rico	politicalGroups	PPD
+House of Representatives of Puerto Rico	politicalGroups	PNP
+Legislative Assembly of Puerto Rico	politicalGroups	PPD
+Legislative Assembly of Puerto Rico	politicalGroups	PNP
+Legislative Assembly of Puerto Rico	politicalGroups	PIP
+Parliament of Tasmania	politicalGroups	Government
+Parliament of Tasmania	politicalGroups	Liberal
+Parliament of Tasmania	politicalGroups	Opposition
+Parliament of Tasmania	politicalGroups	Labor
+Parliament of Tasmania	politicalGroups	Crossbench
+Parliament of Tasmania	politicalGroups	Greens
+Parliament of Tasmania	politicalGroups	Independent
+Assembly of Kosovo	politicalGroups	Government Coalition \n* \n* \n* \n* \n* \nOpposition \n* \n* \n* \n*  \nUnaffiliated \n*
+Washington State Legislature	politicalGroups	Democratic Party
+Washington State Legislature	politicalGroups	Majority Coalition Caucus
+Washington State Legislature	politicalGroups	Republican Party
+Senate	politicalGroups	* N-VA \n* PS \n* CD&V \n* MR \n*
+Senate	politicalGroups	Groen
+Senate	politicalGroups	/  Ecolo \n* VLD \n* sp.a \n*
+Senate	politicalGroups	Centre démocrate humaniste
+Senate	politicalGroups	* VB \n*
+Senate	politicalGroups	German-speaking senator
+Isle of Wight Council	politicalGroups	Independents
+Isle of Wight Council	politicalGroups	Conservative Party
+Isle of Wight Council	politicalGroups	Labour Party
+Isle of Wight Council	politicalGroups	UKIP
+Isle of Wight Council	politicalGroups	Liberal Democrats
+Isle of Wight Council	politicalGroups	Other
+Assembly of the Republic	politicalGroups	Government \n* PS \nSupported by \n* BE \n*
+Assembly of the Republic	politicalGroups	Portuguese Communist Party
+Assembly of the Republic	politicalGroups	* PEV \nOpposition \n*
+Assembly of the Republic	politicalGroups	Social Democratic Party
+Assembly of the Republic	politicalGroups	*
+Assembly of the Republic	politicalGroups	CDS - People's Party
+Assembly of the Republic	politicalGroups	* PAN
+Parliament of Victoria	politicalGroups	Government
+Parliament of Victoria	politicalGroups	Labor
+Parliament of Victoria	politicalGroups	Opposition
+Parliament of Victoria	politicalGroups	Liberal
+Parliament of Victoria	politicalGroups	National
+Parliament of Victoria	politicalGroups	Crossbench
+Parliament of Victoria	politicalGroups	Greens
+Parliament of Victoria	politicalGroups	Independent
+Parliament of Victoria	politicalGroups	Green
+Parliament of Victoria	politicalGroups	Shooters
+Parliament of Victoria	politicalGroups	DLP
+Parliament of Victoria	politicalGroups	Sex Party
+Parliament of Victoria	politicalGroups	Local Jobs
+Chamber of Deputies	politicalGroups	Government \n*  PD 302\n*  AP 31\n*  SC 20\n*  Demo.S–CD 13\n*  Mixed Group 11\n\nOpposition Parties \n*  M5S 91\n*  FI 53\n*  SI 32\n*  LN 17\n*  FdI 10\n*  Mixed Group 50
+Idaho Legislature	politicalGroups	Democratic Party
+Idaho Legislature	politicalGroups	Republican Party
+New Jersey General Assembly	politicalGroups	Governing Party\n* Democratic \nOpposition Party\n* Republican
+Mississippi Legislature	politicalGroups	Republican \n Democratic
+Senate of Romania	politicalGroups	*  PSD \n*  PNL \n*  ALDE \n*  UDMR \n*  Unaffiliated
+Chamber of Deputies	politicalGroups	*  PSD 132\n*  PNL 113\n*  ALDE 23\n*  UDMR 16\n*  National minorities 17\n*  Unaffiliated 56
+Minneapolis City Council	politicalGroups	Majority\n*  DFL \nMinority\n*  Green
+Parliament of New South Wales	politicalGroups	Government \n* Coalition \n**  Liberal \n**  Nationals \nOpposition \n*  Labor \nCrossbench \n*  Greens \n*  Independent
+Parliament of New South Wales	politicalGroups	Government  \n* Coalition \n**  Liberal  \n**  Nationals  \nOpposition  \n*  Labor  \nCrossbench  \n*  Greens \n*  Shooters \n*  CDP \n*  Animal Justice Party
+Parliament of Queensland	politicalGroups	Government
+Parliament of Queensland	politicalGroups	*  Labor \n*  Independent \nOpposition\n*  Liberal National \nCrossbench\n*  Katter's Australian Party
+Parliament of South Australia	politicalGroups	Government
+Parliament of South Australia	politicalGroups	Labor
+Parliament of South Australia	politicalGroups	Opposition
+Parliament of South Australia	politicalGroups	Liberal
+Parliament of South Australia	politicalGroups	Crossbench
+Parliament of South Australia	politicalGroups	Independent
+Parliament of South Australia	politicalGroups	Green
+Parliament of South Australia	politicalGroups	Family First
+Parliament of South Australia	politicalGroups	D4D
+Parliament of South Australia	politicalGroups	Nick Xenophon Team
+Parliament of Western Australia	politicalGroups	Government
+Parliament of Western Australia	politicalGroups	Liberal
+Parliament of Western Australia	politicalGroups	Nationals
+Parliament of Western Australia	politicalGroups	Opposition
+Parliament of Western Australia	politicalGroups	Labor
+Parliament of Western Australia	politicalGroups	Crossbench
+Parliament of Western Australia	politicalGroups	Greens
+Parliament of Western Australia	politicalGroups	Shooters and Fishers
+Federation Council	politicalGroups	Independent
+Federal Assembly	politicalGroups	Non-Partisan
+Federal Assembly	politicalGroups	* United Russia  \n** United Russia \n** Independent \n*  Communist Party \n*  Liberal Democratic Party \n*  A Just Russia \n*  Rodina \n*  Civic Platform \n*  Vacant
+Council of the District of Columbia	politicalGroups	Majority\n*  Democratic \nMinority\n*  Independent
+Westminster City Council	politicalGroups	* Conservative Party  \n* Labour Party
+Wisconsin Legislature	politicalGroups	Republican \n Democratic
+Wisconsin Legislature	politicalGroups	Republican
+Wisconsin Legislature	politicalGroups	Democratic
+New York State Senate	politicalGroups	Majority\n*  Republican \n*  Independent Democratic \n*  Caucusing Democrat \nMinority\n*  Democratic
+National Assembly of South Africa	politicalGroups	* ANC \n* DA \n* EFF \n* IFP \n* NFP \n* UDM \n* FF+ \n* COPE \n* ACDP \n* AIC \n* Agang \n* PAC \n* APC \n* Others
+Belfast City Council	politicalGroups	Sinn Féin
+Belfast City Council	politicalGroups	DUP
+Belfast City Council	politicalGroups	Alliance
+Belfast City Council	politicalGroups	SDLP
+Belfast City Council	politicalGroups	UUP
+Belfast City Council	politicalGroups	PUP
+Belfast City Council	politicalGroups	Green (NI)
+Belfast City Council	politicalGroups	People Before Profit
+Belfast City Council	politicalGroups	TUV
+Belfast City Council	politicalGroups	Independent Unionist
+Council of Representatives of Iraq	politicalGroups	Government coalition \n* IDQ \n* AM \n*  AAB \n* KDP \n* Muttahidoon \n* PUK \n* AW \n* Gorran \n*  IA \nOpposition parties\n* Al-Arabiya \n*  CDA \n Independents
+Arizona State Legislature	politicalGroups	Republican \n Democratic
+Connecticut Senate	politicalGroups	Majority\n*  Democratic \n*  Working Families \nMinority\n*  Republican
+House of Representatives	politicalGroups	Government\n* People's National Movement \nOfficial Opposition\n* United NationalCongress \n* Congress of the people
+Senate	politicalGroups	Government\n* People's National Movement \nOpposition\n* United NationalCongress \n* Independent
+Parliament of Trinidad and Tobago	politicalGroups	Government\n* People's National Movement \nOpposition\n* United NationalCongress \n* Independent
+Parliament of Trinidad and Tobago	politicalGroups	Government\n* People's National Movement \nOfficial Opposition\n* United NationalCongress \n* Congress of the people
+Landtag of the Free State of Saxony	politicalGroups	Government \n* CDU \n* SPD \nOpposition Parties\n* The Left \n* AfD \n* Greens
+Western Australian Legislative Council	politicalGroups	Government
+Western Australian Legislative Council	politicalGroups	Liberal
+Western Australian Legislative Council	politicalGroups	National
+Western Australian Legislative Council	politicalGroups	Opposition
+Western Australian Legislative Council	politicalGroups	Labor
+Western Australian Legislative Council	politicalGroups	Crossbench
+Western Australian Legislative Council	politicalGroups	Greens
+Western Australian Legislative Council	politicalGroups	Shooters, Fishers and Farmers
+Congress of the Republic of Peru	politicalGroups	FP
+Congress of the Republic of Peru	politicalGroups	FA
+Congress of the Republic of Peru	politicalGroups	PPK
+Congress of the Republic of Peru	politicalGroups	APP
+Congress of the Republic of Peru	politicalGroups	AP
+Congress of the Republic of Peru	politicalGroups	APRA \n Sin Bancada
+Plurinational Legislative Assembly	politicalGroups	* MAS-IPSP \n* UD \n* PDC
+Chamber of Deputies	politicalGroups	Government Coalition \n* PP, PTB, PSC Bloc \n:: PP \n:: PTB \n:: PSC \n* PMDB, PEN Bloc \n:: PMDB \n:: PEN \n*  PSDB \n*  PR \n*  PSD \n*  DEM \n*  PRB \n* PTN, PTdoB, PSL Bloc \n:: PTN \n:: PTdoB \n:: PSL \n*  SD \n*  PPS \n*  PHS \n*  PMB \n*  PRP \n*  PRTB \n\nIndependent\n*  PSB \n*  PV \n\nOpposition \n*  PT \n*  PDT \n*  PCdoB \n*  PROS \n*  PSOL \n*  REDE
+National Congress of Honduras	politicalGroups	Government \n* National Party \n* Christian Democratic Party \n*
+National Congress of Honduras	politicalGroups	Democratic Unification Party
+National Congress of Honduras	politicalGroups	Crossbench '\n* Liberal Party \n* Independent \nOpposition '\n* LIBRE \n* Anti-Corruption Party \n* Innovation and Unity Party
+Legislative Assembly of El Salvador	politicalGroups	* Nationalist Republican Alliance \n* Farabundo Martí National Liberation \n* Grand Alliance for National Unity \n* National Coalition \n* Christian Democratic \n* Democratic Change \n* Independent
+National Assembly	politicalGroups	Sandinista National Liberation Front
+National Assembly	politicalGroups	Independent Liberal Party
+National Assembly	politicalGroups	Constitutionalist Liberal Party
+Parliament of Lebanon	politicalGroups	--03-08
+Legislative Assembly of Macau	politicalGroups	pro-Beijing
+Legislative Assembly of Macau	politicalGroups	ACUM
+Legislative Assembly of Macau	politicalGroups	UMG
+Legislative Assembly of Macau	politicalGroups	UPP
+Legislative Assembly of Macau	politicalGroups	MUDM
+Legislative Assembly of Macau	politicalGroups	UPD
+Legislative Assembly of Macau	politicalGroups	Mudar
+Legislative Assembly of Macau	politicalGroups	OMKC
+Legislative Assembly of Macau	politicalGroups	OMCY
+Legislative Assembly of Macau	politicalGroups	CCCAE
+Legislative Assembly of Macau	politicalGroups	União Excelente
+Legislative Assembly of Macau	politicalGroups	APSSE
+Legislative Assembly of Macau	politicalGroups	CE Appointments
+Legislative Assembly of Macau	politicalGroups	Pan-democracy
+Legislative Assembly of Macau	politicalGroups	AMN
+Legislative Assembly of Macau	politicalGroups	NE
+New Jersey Senate	politicalGroups	Governing Party\n* Democratic \n\nOpposition Party\n* Republican
+National Council	politicalGroups	Horizon Monaco
+National Council	politicalGroups	Union Monegasque
+National Council	politicalGroups	Renaissance
+Legislative Assembly of Queensland	politicalGroups	Government
+Legislative Assembly of Queensland	politicalGroups	Labor
+Legislative Assembly of Queensland	politicalGroups	Opposition
+Legislative Assembly of Queensland	politicalGroups	Liberal National
+Legislative Assembly of Queensland	politicalGroups	Crossbench
+Legislative Assembly of Queensland	politicalGroups	Katter's Australian
+Legislative Assembly of Queensland	politicalGroups	Independent
+Montana House of Representatives	politicalGroups	Governing Party\n* Republican \nOpposition Party\n* Democratic
+Curia regis	politicalGroups	Tenants-in-chief
+Curia regis	politicalGroups	Officers of the court
+Curia regis	politicalGroups	Archbishops, Bishops and certain Abbots
+Curia regis	politicalGroups	Magnates
+Legislative Assembly of Costa Rica	politicalGroups	*  PLN \n*  PAC \n*  FA \n*  PUSC \n*  PML \n*  Others
+Federal Assembly	politicalGroups	Government parties \n*  SVP/UDC 65\n*  SP/PS 43\n*  FDP/PLR 33\n*  CVP/PPC 27\nOpposition parties \n*  Greens (GPS/PES) 11\n*  BDP/PBD 7\n*  glp/pvl 7\n*  EvP/PEV 2\n*  LT 2\n*  PdA/PST-POP/PC 1\n*  MCG 1
+Federal Assembly	politicalGroups	Government parties \n*  CVP/PPC 13\n*  FDP/PLR 13\n*  SP/PS 12\n*  SVP/UDC 5\nOpposition parties \n*  BDP/PBD 1\n*  Greens (GPS/PES) 1\n*  Independent 1
+Stockport Metropolitan Borough Council	politicalGroups	*  Liberal Democrats \n*  Labour \n*  Conservative \n*  Heald Green Ratepayers \n*  Independent
+Florida Senate	politicalGroups	Republican Party of Florida
+Florida Senate	politicalGroups	Florida Democratic Party
+Parliament of Singapore	politicalGroups	PAP
+Parliament of Singapore	politicalGroups	WP
+Parliament of Singapore	politicalGroups	9
+Pennsylvania General Assembly	politicalGroups	Republican Party
+Pennsylvania General Assembly	politicalGroups	Democratic Party
+Corsican Assembly	politicalGroups	* Pè a Corsica \n* Prima A Corsica  \n* Le Rassemblent  \n* FN
+Taipei City Council	politicalGroups	DPP
+Taipei City Council	politicalGroups	KMT
+Taipei City Council	politicalGroups	NP
+Taipei City Council	politicalGroups	PFP
+Taipei City Council	politicalGroups	TSU
+Taipei City Council	politicalGroups	MKT
+Taipei City Council	politicalGroups	Independent
+New Mexico House of Representatives	politicalGroups	Governing Party\n*  Republican \nOpposition Party\n*  Democratic
+General Council	politicalGroups	Democrats for Andorra
+General Council	politicalGroups	Liberal Party of Andorra
+General Council	politicalGroups	Social Democratic Party
+General Council	politicalGroups	Social Democracy and Progress
+National Assembly	politicalGroups	Government  \n* GERB \n* Reformist Bloc  \nParties Supporting the Government \n* Patriotic Front \nOpposition '''\n* BSP-Left Bulgaria \n* DPS \n* Independent \n* Attack \n* ABV \n* Reformist Bloc
+Cork City Council	politicalGroups	Council Control \n* Fianna Fáil \n* Sinn Féin  \nCouncil Opposition  \n* Fine Gael  \n* AAA-PBP  \n* Workers Party  \n* Independent
+Islamic City Council of Tehran	politicalGroups	Majority \n*
+Islamic City Council of Tehran	politicalGroups	Iranian Principlists
+Islamic City Council of Tehran	politicalGroups	*
+Islamic City Council of Tehran	politicalGroups	Iranian Reformists
+Islamic City Council of Tehran	politicalGroups	Minority \n*
+Islamic City Council of Tehran	politicalGroups	Independent politician
+National Assembly	politicalGroups	UDP
+National Assembly	politicalGroups	PUP
+National Assembly	politicalGroups	Other
+West Virginia Legislature	politicalGroups	Republican \n Democratic
+State Great Khural	politicalGroups	Mongolian People's Party
+State Great Khural	politicalGroups	Democratic Party
+State Great Khural	politicalGroups	Mongolian People's Revolutionary Party
+State Great Khural	politicalGroups	Independents
+House of Representatives of Bosnia and Herzegovina	politicalGroups	FBiH seats :\n* SDA  \n* DF  \n* SBB BiH  \n* HDZ BiH  \n* SDP BiH  \n* HDZ 1990  \n* BPS-Sefer Halilović  \n* A-SDA  \nRS seats :\n* SNSD  \n* SDS  \n* DNS  \n* NDP  \n* SDA
+Dewan Negara	politicalGroups	Government
+Dewan Negara	politicalGroups	BN \n:Ministers: 2\n:Deputy ministers: 6\n* UMNO \n* MCA \n* MIC \n* PBB \n* GERAKAN \n* LDP \n* PBS \n* myPPP \n* SUPP \n* UPKO \nSupported by
+Dewan Negara	politicalGroups	KIMMA
+Dewan Negara	politicalGroups	MIUP
+Dewan Negara	politicalGroups	Independent
+Dewan Negara	politicalGroups	Opposition
+Dewan Negara	politicalGroups	Pakatan Harapan \n* DAP \n* PKR \nOther opposition
+Dewan Negara	politicalGroups	* PAS \n Vacant
+Oregon Legislative Assembly	politicalGroups	Democratic Party
+Oregon Legislative Assembly	politicalGroups	Republican Party
+St Athan	politicalGroups	*  Independent
+St Athan	politicalGroups	*  Pirate Party UK
+Hellenic Parliament	politicalGroups	Government \n*  SYRIZA \n*  ANEL \nOfficial Opposition\n*  ND \nOther Opposition\n*  XA \n*  DS \n*  KKE \n*  Potami \n*  EK \n*  Independents
+Kerala Legislature	politicalGroups	Left Democratic Front
+Kerala Legislature	politicalGroups	UDF
+Kerala Legislature	politicalGroups	NDA
+Legislative Council of Brunei	politicalGroups	Sultanate of Brunei
+Legislative Council of Brunei	politicalGroups	Non-partisan
+Parliament of Barbados	politicalGroups	Her Majesty's Government\n* Democratic Labour Party - DLP \nOther parties in opposition\n* Independents \n* Barbados Labour Party
+Parliament of Barbados	politicalGroups	Her Majesty's Government\n* Democratic Labour Party - DLP \nHM Loyal Opposition\n* Barbados Labour Party - BLP \nIndependents \n* Independents
+Senate of Barbados	politicalGroups	Democratic Labour Party
+Senate of Barbados	politicalGroups	Barbados Labour Party
+Senate of Barbados	politicalGroups	7
+National Assembly	politicalGroups	Coalition
+National Assembly	politicalGroups	RPP
+National Assembly	politicalGroups	Front for the Restoration of Unity and Democracy
+National Assembly	politicalGroups	National Democratic Party
+National Assembly	politicalGroups	Social Democratic People's Party
+National Assembly	politicalGroups	UPR\n\n\n Opposition \nARD
+National Assembly	politicalGroups	Djibouti Union for Democracy and Justice
+National Assembly	politicalGroups	MRD
+National Assembly	politicalGroups	Djibouti Party for Development
+National Assembly	politicalGroups	MoDel
+Chamber of Deputies	politicalGroups	Government \n* Democratic Party \n*
+Chamber of Deputies	politicalGroups	Luxembourg Socialist Workers' Party
+Chamber of Deputies	politicalGroups	* The Greens \nOpposition \n* Christian Social People's Party \n* Alternative Democratic Reform Party \n* The Left
+Assembly of French Polynesia	politicalGroups	Government \n*  Popular Rally \nOpposition \n*  Union for Democracy \n*  A Tia Porinetia
+Joint session of the United States Congress	politicalGroups	Republican
+Joint session of the United States Congress	politicalGroups	Democratic
+Joint session of the United States Congress	politicalGroups	Independent
+Joint session of the United States Congress	politicalGroups	Vacant
+Kentucky General Assembly	politicalGroups	Democratic Party
+Kentucky General Assembly	politicalGroups	Independent
+Kentucky General Assembly	politicalGroups	Republican Party
+People's National Assembly	politicalGroups	Government \n* FLN \n* RND \n\nOpposition \n* AV \n* FFS \n* PT \n* FNA \n* FJD \n* MPA \n\nCrossbench \n* Independents \n* Others
+Parliament of the Republic of Moldova	politicalGroups	Government \n* Democratic Party \n* Liberal Party \nOpposition \n* Party of Socialists \n*
+Parliament of the Republic of Moldova	politicalGroups	Liberal Democratic Party of Moldova
+Parliament of the Republic of Moldova	politicalGroups	* Party of Communists \nNon-aligned \n* Non-Inscrits
+Parliament of Catalonia	politicalGroups	Government :\n* JxSí \nConfidence and supply :\n* CUP \nOpposition :\n* C's \n* PSC-PSOE \n* CSQP \n* PPC
+States of Guernsey	politicalGroups	*  Independent \n*  Alderney representatives
+National Assembly of People's Power	politicalGroups	Communist Party of Cuba
+House of Representatives	politicalGroups	HM Government\n*
+House of Representatives	politicalGroups	United Democratic Party
+House of Representatives	politicalGroups	HM Most Loyal Opposition\n*  People's United Party
+Parliament of Poland	politicalGroups	Government \n* PiS \nOpposition\n* PO \n* Independents  \n* Independents  \n* PSL
+Parliament of Poland	politicalGroups	Government \n* PiS \nOpposition\n* PO \n* K'15 \n* .N \n* PSL \n*  \n* Independent
+Manchester City Council	politicalGroups	*  Labour Party
+Manchester City Council	politicalGroups	*  Liberal Democrats
+People's Majlis	politicalGroups	PPM
+People's Majlis	politicalGroups	MDP
+People's Majlis	politicalGroups	JP
+People's Majlis	politicalGroups	MDA
+People's Majlis	politicalGroups	AP
+People's Majlis	politicalGroups	Independent
+House of Representatives of Liberia	politicalGroups	Unity Party
+House of Representatives of Liberia	politicalGroups	Congress for Democratic Change
+House of Representatives of Liberia	politicalGroups	Liberty Party
+House of Representatives of Liberia	politicalGroups	National Union for Democratic Progress
+House of Representatives of Liberia	politicalGroups	National Democratic Coalition
+House of Representatives of Liberia	politicalGroups	Alliance for Peace and Democracy
+House of Representatives of Liberia	politicalGroups	National Patriotic Party
+House of Representatives of Liberia	politicalGroups	Movement for Progressive Change
+House of Representatives of Liberia	politicalGroups	Liberia Destiny Party
+House of Representatives of Liberia	politicalGroups	Liberia Transformation Party
+House of Representatives of Liberia	politicalGroups	National Reformation Party
+House of Representatives of Liberia	politicalGroups	Independents
+Senate of Liberia	politicalGroups	Unity Party
+Senate of Liberia	politicalGroups	National Patriotic Party
+Senate of Liberia	politicalGroups	Congress for Democratic Change
+Senate of Liberia	politicalGroups	National Union for Democratic Progress
+Senate of Liberia	politicalGroups	Alliance for Peace and Democracy
+Senate of Liberia	politicalGroups	Liberty Party
+Senate of Liberia	politicalGroups	National Democratic Coalition
+Senate of Liberia	politicalGroups	Liberia Destiny Party
+Senate of Liberia	politicalGroups	National Democratic Party
+Senate of Liberia	politicalGroups	Independents
+Cleveland City Council	politicalGroups	Democratic Party
+Cleveland City Council	politicalGroups	Green Party of the United States
+Parliament of Ghana	politicalGroups	*
+Parliament of Ghana	politicalGroups	National Democratic Congress
+Parliament of Ghana	politicalGroups	* New Patriotic Party \n* Convention People's Party \n* Independent \n*People's National Convention
+Cornwall Council	politicalGroups	Executive \n*  Liberal Democrats \n*  Independent \nOpposition \n*  Conservative \n*  Labour \n*  Mebyon Kernow \n*  Green \n*  UKIP \n*  Independent
+People's Consultative Assembly	politicalGroups	*  DPD
+National Assembly of the Gambia	politicalGroups	Government \n*  Alliance for Patriotic Reorientation and Construction \nOpposition \n*  National Reconciliation Party \nIndependents \n*  Independent
+Mazhilis	politicalGroups	Government \n*  Nur Otan \nOpposition \n*  Ak Zhol \n*  CPPK
+House of Assembly of Saint Vincent and the Grenadines	politicalGroups	Her Majesty's Government\n* ULP \nHM Loyal Opposition\n* NDP \nOthers\n* Pro-government Senators \n* Pro-opposition Senators \n* Speaker
+Kildare County Council	politicalGroups	Fianna Fáil
+Kildare County Council	politicalGroups	Fine Gael
+Kildare County Council	politicalGroups	Labour Party
+Kildare County Council	politicalGroups	Sinn Féin
+Kildare County Council	politicalGroups	Independent
+National Parliament	politicalGroups	CNRT
+National Parliament	politicalGroups	FRETILIN
+National Parliament	politicalGroups	PD
+National Parliament	politicalGroups	Frenti-Mudança
+Parliament of Georgia	politicalGroups	Government\n: Georgian Dream \nSupported by \n: Independent Majoritarians \n: Conservatives \n: Industry Will Save Georgia \nOpposition\n: UNM   \n: Republicans \n: Free Democrats  \n: National Forum \n: \
+National Assembly	politicalGroups	Government\n* MPD \nOpposition\n* PAICV \n* UCID
+Arkansas Senate	politicalGroups	Arkansas Republican Party
+Arkansas Senate	politicalGroups	Arkansas Democratic Party
+National Assembly	politicalGroups	Government \n*  Party for Democracy and Socialism \n*  Patriotic Movement for the Republic \n*  Nigerien Patriotic Movement \n*  Other minor parties \nOpposition \n*  Nigerien Democratic Movement for an African Federation \n*  National Movement for the Development of Society \n*  MNRD–PSDN Alliance \n*  Union for Democracy and the Republic
+National Assembly	politicalGroups	UNDP
+National Assembly	politicalGroups	URCA
+National Assembly	politicalGroups	RDC
+National Assembly	politicalGroups	MLPC
+National Assembly	politicalGroups	Kwa Na Kwa
+National Assembly	politicalGroups	Other minor parties
+National Assembly	politicalGroups	Independents
+House of Representatives	politicalGroups	UDUB
+House of Representatives	politicalGroups	KULMIYE
+House of Representatives	politicalGroups	UCID
+National Assembly	politicalGroups	Government \n*  Patriotic Front \nOpposition \n*  UPND \n*  MMD \n*  FDD \nIndependents \n*  Independents  \nOthers:
+National Assembly	politicalGroups	Speaker
+National Assembly	politicalGroups	Presidential appointees
+National Assembly	politicalGroups	LDS 19
+National Assembly	politicalGroups	PL 14
+Supreme Council	politicalGroups	Renewal
+Supreme Council	politicalGroups	PCP
+Supreme Council	politicalGroups	Proriv
+Supreme Council	politicalGroups	Independents
+House of Assembly of Barbados	politicalGroups	Her Majesty's Government\n* Democratic Labour Party - DLP \nHM Loyal Opposition\n* Barbados Labour Party - BLP \nOther parties in opposition
+Chamber of Deputies	politicalGroups	Government \n*  PDGE \nOpposition \n*  CPDS
+National Assembly	politicalGroups	Government \n*  United in Hope \nOpposition \n*  Senegalese Democratic Party \n*  Bokk Gis Gis \n*  Bes du Nakk \n*  Republican Movement for Socialism and Democracy \n*  Party for Truth and Development \n*  Other minor parties
+National Assembly	politicalGroups	UPR
+National Assembly	politicalGroups	Tewassoul
+National Assembly	politicalGroups	El Wiam
+National Assembly	politicalGroups	APP
+National Assembly	politicalGroups	El Karam
+National Assembly	politicalGroups	UDP
+National Assembly	politicalGroups	AJD/MR
+National Assembly	politicalGroups	Sursaut
+National Assembly	politicalGroups	El Vadila
+National Assembly	politicalGroups	PUD
+National Assembly	politicalGroups	Ravah Party
+National Assembly	politicalGroups	PRDR
+National Assembly	politicalGroups	El Islah
+National Assembly	politicalGroups	PAM
+National Assembly	politicalGroups	PDA
+National Assembly	politicalGroups	PJD
+National Assembly	politicalGroups	PPD
+National Assembly	politicalGroups	PUDS
+Parliament of Morocco	politicalGroups	Government coalition\n*
+Parliament of Morocco	politicalGroups	Justice and Development Party
+Parliament of Morocco	politicalGroups	* RNI \n* MP \n* PPS \nOpposition parties\n* PI \n*
+Parliament of Morocco	politicalGroups	Authenticity and Modernity Party
+Parliament of Morocco	politicalGroups	* USFP \n* UC \n* PT \n* Other parties
+Zanzibar House of Representatives	politicalGroups	* CCM \n* ADC \n* AFP \n* TADEA \n* Ex officio
+Sahrawi National Council	politicalGroups	Government
+Sahrawi National Council	politicalGroups	Polisario Front
+House of Representatives	politicalGroups	Government\n* Antigua Labour Party \nOpposition\n* United Progressive Party (Antigua and Barbuda)
+House of Assembly of Dominica	politicalGroups	Governing party\n* Dominica Labour Party \n* Government Senators  \nOpposition party\n* United Workers' Party (Dominica) \n* Opposition Senators \nOther members\n* Attorney General
+National Assembly	politicalGroups	Government\n*\n*\n*Others \nOpposition\n*\n*Others
+New Hampshire Senate	politicalGroups	Governing party\n*
+New Hampshire Senate	politicalGroups	New Hampshire Republican Party
+New Hampshire Senate	politicalGroups	Opposition party\n*
+New Hampshire Senate	politicalGroups	New Hampshire Democratic Party
+Parliament of Algeria	politicalGroups	* Appointed Members  \n* RND \n* FLN \n* Independents \n* FFS\n*PFJ \n* MPA \n*FM \n*Ahd 54 \n*Vacant
+Parliament of Algeria	politicalGroups	Government \n*  FLN \n* RND \n\nOpposition \n* AV \n* FFS \n* PT \n* FNA \n* FJD \n* MPA \n\nCrossbench \n* Independents \n* Others
+National Assembly	politicalGroups	Jubilee
+National Assembly	politicalGroups	CORD
+National Assembly	politicalGroups	Amani
+National Assembly	politicalGroups	Other Parties
+Chamber of Representatives	politicalGroups	Government \n* N-VA \n* MR \n* CD&V \n* VLD \nOpposition \n* PS \n* sp.a \n* Ecolo/Groen \n*
+Chamber of Representatives	politicalGroups	Centre démocrate humaniste
+Chamber of Representatives	politicalGroups	* VB \n* PVDA-PTB \n* DéFI \n* PP
+Alabama Legislature	politicalGroups	Alabama Republican Party
+Alabama Legislature	politicalGroups	Alabama Democratic Party
+Alabama Legislature	politicalGroups	Independent
+Deputy Speaker of the National Assembly of Pakistan	politicalGroups	PML-N
+Deputy Speaker of the National Assembly of Pakistan	politicalGroups	PPP
+Deputy Speaker of the National Assembly of Pakistan	politicalGroups	PTI
+Deputy Speaker of the National Assembly of Pakistan	politicalGroups	MQM
+Deputy Speaker of the National Assembly of Pakistan	politicalGroups	JUI-F
+Deputy Speaker of the National Assembly of Pakistan	politicalGroups	PML-F
+Chamber of Deputies of the Parliament of the Czech Republic	politicalGroups	Government \n* ČSSD \n* ANO \n* KDU-ČSL \nOpposition \n* KSČM \n* TOP 09 \n* ODS  \n* Dawn \n* Independents
+Senate of the Parliament of the Czech Republic	politicalGroups	index.php?ke dni=15.11.2014&O=9&lng=en&par 1=K
+Senate of the Parliament of the Czech Republic	politicalGroups	* ČSSD \n* ODS \n* KDU-ČSL+SZ \n* STAN+TOP 09 \n* KSČM+SPO+S.cz \n* ANO+S.cz \n* Independents
+Parliament of the Czech Republic	politicalGroups	* ČSSD \n* ODS \n* KDU-ČSL \n* STAN+TOP 09 \n* KSČM+SPO+S.cz \n* ANO+S.cz \n* Independents
+Parliament of the Czech Republic	politicalGroups	* ČSSD \n* ANO \n* KSČM \n* TOP 09+STAN \n* ODS  \n* KDU-ČSL \n* Dawn \n* Independents
+National Assembly	politicalGroups	* National Democratic Party \n* V7  \n* A-Combination \n* DOE  \n* PALU
+National Assembly	politicalGroups	* MPLA \n* UNITA  \n* PRS \n* NDUE \n* FNLA
+National Assembly	politicalGroups	Government:\n* Republican Party \n* ARF \nOpposition and others\n* Prosperous Armenia \n* ANC \n* Rule of Law \n* Heritage \n* Non-partisans
+Parliament of the Bahamas	politicalGroups	Her Majesty's Government\n* PLP \nHM Loyal Opposition\n* FNM
+Parliament of the Bahamas	politicalGroups	Her Majesty's Government\n* PLP \nHM Loyal Opposition\n* FNM \n* Independent \n* UDP
+National Assembly	politicalGroups	YAP
+National Assembly	politicalGroups	VHP
+National Assembly	politicalGroups	Motherland
+National Assembly	politicalGroups	Independents
+Council of the Nation	politicalGroups	* Appointed Members \n* RND \n* FLN \n* Independents \n* FFS \n*PFJ \n* MPA \n*FM \n*Ahd 54 \n*Vacant
+Kansas Legislature	politicalGroups	Republican: 32
+Kansas Legislature	politicalGroups	Democratic: 8
+Kansas Legislature	politicalGroups	Republican: 97
+Kansas Legislature	politicalGroups	Democratic: 28
+Oklahoma Legislature	politicalGroups	Democratic Party
+Oklahoma Legislature	politicalGroups	Republican Party
+Parliament of Jamaica	politicalGroups	*  Jamaica Labour Party \n*  People's National Party
+House of Assembly of Saint Lucia	politicalGroups	Her Majesty's Government\n* UWP \nHM Loyal Opposition\n* SLP
+Utah State Legislature	politicalGroups	Republican \n Democratic   Libertarian
+Utah State Legislature	politicalGroups	Republican \n Democratic
+National Assembly	politicalGroups	CPV \n Independent
+National Assembly	politicalGroups	FCBE–Amana
+National Assembly	politicalGroups	UN
+National Assembly	politicalGroups	PRD
+National Assembly	politicalGroups	AND
+National Assembly	politicalGroups	RB–RP
+National Assembly	politicalGroups	Sun Alliance
+National Assembly	politicalGroups	FDU
+National Assembly	politicalGroups	ABT
+National Assembly	politicalGroups	Scout Alliance
+National Assembly	politicalGroups	UB
+National Assembly	politicalGroups	Résoatao Party
+Parliament of Romania	politicalGroups	*  PSD \n*  PNL \n*  ALDE \n*  UDMR \n*  Unaffiliated
+Parliament of Romania	politicalGroups	*  PSD \n*  PNL \n*  ALDE \n*  UDMR \n*  National minorities \n*  Unaffiliated
+Senate	politicalGroups	UDP 6
+Senate	politicalGroups	PUP 3
+Senate	politicalGroups	Other 3
+Estates of Aruba	politicalGroups	* AVP \n* MEP \n* PDR
+House of Representatives	politicalGroups	General People's Congress
+House of Representatives	politicalGroups	Yemeni Congregation for Reform
+House of Representatives	politicalGroups	Yemeni Socialist Party
+House of Representatives	politicalGroups	Nasserites
+House of Representatives	politicalGroups	Ba'ath Party
+House of Representatives	politicalGroups	Independents
+Supreme Assembly	politicalGroups	Senate of Uzbekistan
+Supreme Assembly	politicalGroups	*  Liberal Democratic Party \n*  National Revival Democratic Party \n*  People's Democratic Party \n*  Justice Social Democratic Party \n*  Ecological Movement
+National Assembly	politicalGroups	* CCM \n* CHADEMA \n* CUF \n* ACT \n* NCCR–M \n* Ex officio
+Legislative Assembly of Tonga	politicalGroups	*  Democratic Party of the Friendly Islands \n*  Nobles' representatives \n*  Independents
+National Assembly	politicalGroups	Government \n*  CPDM \nOpposition \n*  Social Democratic Front \n*  National Union for Democracy and Progress \n*  Cameroon Democratic Union \n*  UPC \n*  MRC \n*  Movement for the Defence of the Republic
+National Assembly	politicalGroups	Appointed
+National Assembly	politicalGroups	PFDJ
+Senate of Cambodia	politicalGroups	CPP
+Senate of Cambodia	politicalGroups	SRP
+Senate of Cambodia	politicalGroups	Independent
+National Assembly	politicalGroups	Government \n* Patriotic Salvation Movement \n* National Rally for Democracy in Chad \n\n\nOpposition \n* National Union for Democracy and Renewal \n*   Union for Renewal and Democracy \n*     Federation, Action for the Republic \n* Other minor parties
+National Assembly of Cambodia	politicalGroups	Government  \n* CPP \nOpposition   \n* CNRP
+Parliament of Cambodia	politicalGroups	CPP
+Parliament of Cambodia	politicalGroups	CNRP
+Parliament of Cambodia	politicalGroups	SRP
+Parliament of Cambodia	politicalGroups	Independent
+House of Representatives	politicalGroups	Government
+House of Representatives	politicalGroups	DISY
+House of Representatives	politicalGroups	Opposition
+House of Representatives	politicalGroups	AKEL
+House of Representatives	politicalGroups	DIKO
+House of Representatives	politicalGroups	EDEK
+House of Representatives	politicalGroups	SYPOL
+House of Representatives	politicalGroups	KA
+House of Representatives	politicalGroups	KOP
+House of Representatives	politicalGroups	ELAM
+National Assembly	politicalGroups	Government\n* A Partnership for National Unity+Alliance for Change (Guyana) \nOfficial Opposition\n* People's Progressive Party (Guyana)
+Landtag of Liechtenstein	politicalGroups	Government:
+Landtag of Liechtenstein	politicalGroups	Progressive Citizens' Party
+Landtag of Liechtenstein	politicalGroups	Patriotic Union
+Landtag of Liechtenstein	politicalGroups	Opposition:
+Landtag of Liechtenstein	politicalGroups	The Independents
+Landtag of Liechtenstein	politicalGroups	Free List
+Parliament of Grenada	politicalGroups	* New National Party
+House of Peoples of Bosnia and Herzegovina	politicalGroups	Bosniak seats :\n* SDA  \n* DF  \n* SBB BiH  \nCroat seats :\n* HDZ  \n* HDZ 1990  \n* HSS  \nSerb seats :\n* SDS  \n* SNSD  \n* DNS
+National Assembly	politicalGroups	Government \n*  Congolese Party of Labour \n*  Other allied parties \n*  Independents \nOpposition \n*  MCDDI \n*  UPADS \n*  Other parties in opposition \nOthers\n*  Vacant
+House of Peoples' Representatives	politicalGroups	EPRDF
+House of Peoples' Representatives	politicalGroups	SPDP
+House of Peoples' Representatives	politicalGroups	BGPDUF
+House of Peoples' Representatives	politicalGroups	ANDP
+House of Peoples' Representatives	politicalGroups	GPDM
+House of Peoples' Representatives	politicalGroups	APDO
+House of Peoples' Representatives	politicalGroups	HNL
+House of Peoples' Representatives	politicalGroups	Undeclared
+National Assembly of Gabon	politicalGroups	Gabonese Democratic Party
+National Assembly of Gabon	politicalGroups	Rally for Gabon
+National Assembly of Gabon	politicalGroups	Circle of Liberal Reformers
+National Assembly of Gabon	politicalGroups	Social Democratic Party
+National Assembly of Gabon	politicalGroups	Union for the New Republic
+National Assembly	politicalGroups	Lao People's Revolutionary Party
+National Assembly	politicalGroups	Independents
+House of Assembly	politicalGroups	Government \n*  Pillars of Truth \nOpposition \n*  Tobwaan Kiribati Party \nSpeaker \n*  Speaker
+National Assembly	politicalGroups	DPP
+National Assembly	politicalGroups	MCP
+National Assembly	politicalGroups	PP
+National Assembly	politicalGroups	UDF
+National Assembly	politicalGroups	AFORD
+National Assembly	politicalGroups	CCP
+National Assembly	politicalGroups	Independent
+National Assembly	politicalGroups	Vacant
+Legislature of the Marshall Islands	politicalGroups	Independent
+National Assembly	politicalGroups	Government\n*
+National Assembly	politicalGroups	Militant Socialist Movement
+National Assembly	politicalGroups	*
+National Assembly	politicalGroups	Mauritian Social Democrat Party
+National Assembly	politicalGroups	Muvman Liberater
+National Assembly	politicalGroups	Rodrigues People's Organisation
+National Assembly	politicalGroups	Opposition parties\n*
+National Assembly	politicalGroups	Mauritian Militant Movement
+National Assembly	politicalGroups	Mauritian Labour Party
+Congress of the Federated States of Micronesia	politicalGroups	Independent politician
+National Assembly	politicalGroups	Her Majesty's Government\n* PAM \n* CCM \n* PLP \n\nHM Loyal Opposition\n* SKNLP \n* NRP \nOther Members of the National Assembly\n* Senators \n* Ex officio
+Grand and General Council	politicalGroups	Government \n: Sammarinese Christian Democratic Party \n: Party of Socialists and Democrats \n: Popular Alliance \n\nOpposition \n: Socialist Party \n: Union for the Republic \n: United Left \n: Civic 10 \n: RETE Movement
+National Assembly	politicalGroups	Free Motherland
+National Assembly	politicalGroups	Armenian Revolutionary Federation
+National Assembly	politicalGroups	Democratic Party of Artsakh
+National Assembly	politicalGroups	Movement 88
+National Assembly	politicalGroups	National Revival
+National Assembly	politicalGroups	Independents
+Assembly of the Republic	politicalGroups	Government \n* National Unity Party \n* Democratic Party \n* Independents \nOpposition  \n* Republican Turkish Party \n* Communal Democracy Party
+Assembly of the Republic of Macedonia	politicalGroups	VMRO-DPMNE
+Assembly of the Republic of Macedonia	politicalGroups	Social Democratic Union of Macedonia
+Assembly of the Republic of Macedonia	politicalGroups	Democratic Union for Integration
+Assembly of the Republic of Macedonia	politicalGroups	Democratic Party of Albanians
+Assembly of the Republic of Macedonia	politicalGroups	Democratic Union
+Assembly of the Republic of Macedonia	politicalGroups	Democratic Renewal of Macedonia
+Assembly of the Republic of Macedonia	politicalGroups	National Democratic Revival
+Assembly of the Republic of Macedonia	politicalGroups	Citizen Option for Macedonia
+Senate of Uruguay	politicalGroups	Government coalition\n*
+Senate of Uruguay	politicalGroups	Broad Front
+Senate of Uruguay	politicalGroups	Opposition parties\n* Nacional \n* Colorado
+Senate of Paraguay	politicalGroups	ANR
+Senate of Paraguay	politicalGroups	PLRA
+Senate of Paraguay	politicalGroups	FG
+Senate of Paraguay	politicalGroups	PDP
+Senate of Paraguay	politicalGroups	AP
+Senate of Paraguay	politicalGroups	UNACE
+Senate of Paraguay	politicalGroups	PEN
+General Assembly of Uruguay	politicalGroups	Government coalition\n*
+General Assembly of Uruguay	politicalGroups	Broad Front
+General Assembly of Uruguay	politicalGroups	Opposition parties\n* Nacional \n* Colorado
+General Assembly of Uruguay	politicalGroups	Opposition parties\n* Nacional \n* Colorado \n* Independent \n* Popular Assembly
+Chamber of Deputies of Uruguay	politicalGroups	Government coalition\n*
+Chamber of Deputies of Uruguay	politicalGroups	Broad Front
+Chamber of Deputies of Uruguay	politicalGroups	Opposition parties\n* Nacional \n* Colorado \n* Independent \n* AP
+Supreme Assembly	politicalGroups	People's Democratic Party of Tajikistan
+Supreme Assembly	politicalGroups	Agrarian Party
+Supreme Assembly	politicalGroups	Communist Party of Tajikistan
+Supreme Assembly	politicalGroups	Socialist Party of Tajikistan
+Supreme Assembly	politicalGroups	Democratic Party
+House of Representatives	politicalGroups	Government coalition\n*
+House of Representatives	politicalGroups	Justice and Development Party
+House of Representatives	politicalGroups	* RNI \n* MP \n* PPS \nOpposition parties\n* PI \n*
+House of Representatives	politicalGroups	Authenticity and Modernity Party
+House of Representatives	politicalGroups	* USFP \n* UC \n* PT \n* Other parties
+Council of States	politicalGroups	NCP
+Council of States	politicalGroups	SPLM
+Council of States	politicalGroups	Vacant
+People's Council of Syria	politicalGroups	NPF
+People's Council of Syria	politicalGroups	Independents
+National Assembly of Sudan	politicalGroups	National Congress
+National Assembly of Sudan	politicalGroups	Democratic Unionist Party
+National Assembly of Sudan	politicalGroups	Other minor parties
+National Assembly of Sudan	politicalGroups	Independents
+Parliament of Saint Lucia	politicalGroups	UWP
+Parliament of Saint Lucia	politicalGroups	SLP
+Parliament of Saint Lucia	politicalGroups	Independent
+Parliament of Saint Lucia	politicalGroups	Speaker
+Senate of Saint Lucia	politicalGroups	United Workers Party
+Senate of Saint Lucia	politicalGroups	Saint Lucia Labour Party
+Senate of Saint Lucia	politicalGroups	Independent
+House of Assembly	politicalGroups	Elected \n*  Progressive National Party \n*  People's Democratic Movement \nOthers \n*  Ex officio  \n*  Appointed \nSpeaker\n*  Speaker
+Territorial Council of Saint Pierre and Miquelon	politicalGroups	Archipelago Tomorrow
+Territorial Council of Saint Pierre and Miquelon	politicalGroups	Together for the Future
+Congress of New Caledonia	politicalGroups	Anti-independence bloc
+Congress of New Caledonia	politicalGroups	*  Caledonia Together \n*  The Rally \n*  UCF
+Congress of New Caledonia	politicalGroups	Pro-independence bloc
+Congress of New Caledonia	politicalGroups	*  UNI \n*  UC–FLNKS \n*
+Congress of New Caledonia	politicalGroups	Kanak Socialist Liberation
+Legislature of Guam	politicalGroups	Government\n* Democratic \nOpposition\n* Republican
+House of Assembly of the British Virgin Islands	politicalGroups	* NDP \n* VIP \n* Ex officio
+House of Assembly of Bermuda	politicalGroups	HM Government\n* One Bermuda Alliance \nHM Loyal Opposition\n* Progressive Labour
+House of Assembly	politicalGroups	Elected \n*
+House of Assembly	politicalGroups	Anguilla United Front
+House of Assembly	politicalGroups	*  Independent \nOthers \n*  Appointed \n*  Ex-officio
+Senate of Bermuda	politicalGroups	HM Government\n* One Bermuda Alliance \nHM Loyal Opposition\n* Progressive Labour \n* Appointed by Governor
+Assembly of Turkmenistan	politicalGroups	TDP
+Assembly of Turkmenistan	politicalGroups	Organisation of Trade Unions of Turkmenistan
+Assembly of Turkmenistan	politicalGroups	TZB
+Assembly of Turkmenistan	politicalGroups	TSTP
+Assembly of Turkmenistan	politicalGroups	TMÝG
+Assembly of Turkmenistan	politicalGroups	Independent
+Basque Parliament	politicalGroups	Government :\n* EAJ-PNV  \nOpposition :\n* EH Bildu  \n* Elkarrekin Podemos \n* PSE-EE \n* PP
+Legislative Chamber of Uzbekistan	politicalGroups	Liberal Democratic Party
+Legislative Chamber of Uzbekistan	politicalGroups	National Revival Democratic Party
+Legislative Chamber of Uzbekistan	politicalGroups	People's Democratic Party
+Legislative Chamber of Uzbekistan	politicalGroups	Justice Social Democratic Party
+Legislative Chamber of Uzbekistan	politicalGroups	Ecological Movement
+Northamptonshire County Council	politicalGroups	Conservative Party
+Northamptonshire County Council	politicalGroups	Labour Party
+Northamptonshire County Council	politicalGroups	Liberal Democrats
+Northamptonshire County Council	politicalGroups	UK Independence Party
+Northamptonshire County Council	politicalGroups	Independent
+Washington State Senate	politicalGroups	Governing coalition (MCC)\n*\n*\nOpposition party\n*
+Nevada Assembly	politicalGroups	Majority\n*  Republican \nMinority\n*  Democratic \n*  Vacant \n*  Libertarian
+Nevada Legislature	politicalGroups	Democratic Party
+Nevada Legislature	politicalGroups	Republican Party
+Nevada Legislature	politicalGroups	Libertarian Party
+Gaborone City Council	politicalGroups	* Botswana Democratic Party \n* Botswana Movement for Democracy  \n* Botswana Congress Party  \n* Botswana National Front
+Moscow City Duma	politicalGroups	United Russia
+Moscow City Duma	politicalGroups	Communist Party of the Russian Federation
+Moscow City Duma	politicalGroups	LDPR
+Moscow City Duma	politicalGroups	Motherland-National Patriotic Union
+Moscow City Duma	politicalGroups	Independent politician
+General Council of Bucharest	politicalGroups	USL
+General Council of Bucharest	politicalGroups	PD-L
+General Council of Bucharest	politicalGroups	PPDD
+Wyoming Legislature	politicalGroups	Republican \n Democratic
+Oregon House of Representatives	politicalGroups	Governing Party\n* Democratic \nOpposition Party\n* Republican
+Louisiana State Legislature	politicalGroups	Republican Party
+Louisiana State Legislature	politicalGroups	Democratic Party
+Louisiana State Legislature	politicalGroups	Independents
+Galway County Council	politicalGroups	Council Control \n*
+Galway County Council	politicalGroups	* Independent \nCouncil Opposition \n*
+Galway County Council	politicalGroups	*
+Galway County Council	politicalGroups	* Republican
+Wicklow County Council	politicalGroups	Fine Gael
+Wicklow County Council	politicalGroups	Fianna Fáil
+Wicklow County Council	politicalGroups	Sinn Féin
+Wicklow County Council	politicalGroups	Green Party
+Wicklow County Council	politicalGroups	Social Democrats
+Wicklow County Council	politicalGroups	Independent
+Kilkenny County Council	politicalGroups	Fianna Fáil
+Kilkenny County Council	politicalGroups	Fine Gael
+Kilkenny County Council	politicalGroups	Sinn Féin
+Kilkenny County Council	politicalGroups	Labour Party
+Kilkenny County Council	politicalGroups	Green Party
+Kilkenny County Council	politicalGroups	Renua Ireland
+Kilkenny County Council	politicalGroups	Independent
+Longford County Council	politicalGroups	Council Control \n* Fine Gael  \n* Social Democrats \n* Independent \nCouncil Opposition  \n* Fianna Fáil
+Donegal County Council	politicalGroups	Council Control \n* Fianna Fáil \nConfidence and supply \n* Independent \nCouncil Opposition \n* Sinn Féin \n* Fine Gael \n* Labour Party
+Mayo County Council	politicalGroups	Fianna Fáil
+Mayo County Council	politicalGroups	Fine Gael
+Mayo County Council	politicalGroups	Sinn Féin
+Mayo County Council	politicalGroups	Renua Ireland
+Mayo County Council	politicalGroups	Independent
+Meath County Council	politicalGroups	Council Control \n* Fine Gael \n* Independent  \nCouncil Opposition \n* Fianna Fáil \n* Sinn Féin
+Westmeath County Council	politicalGroups	Council Control  \n* Fianna Fáil   \nCouncil Opposition  \n* Fine Gael \n* Sinn Féin  \n* Labour Party  \n* Independent
+Louth County Council	politicalGroups	Sinn Féin
+Louth County Council	politicalGroups	Fine Gael
+Louth County Council	politicalGroups	Fianna Fáil
+Louth County Council	politicalGroups	Green Party
+Louth County Council	politicalGroups	Labour Party
+Louth County Council	politicalGroups	Independent
+Leitrim County Council	politicalGroups	Fianna Fáil
+Leitrim County Council	politicalGroups	Fine Gael
+Leitrim County Council	politicalGroups	Sinn Féin
+Leitrim County Council	politicalGroups	Independent
+Offaly County Council	politicalGroups	Fianna Fáil
+Offaly County Council	politicalGroups	Fine Gael
+Offaly County Council	politicalGroups	Sinn Féin
+Offaly County Council	politicalGroups	Renua Ireland
+Offaly County Council	politicalGroups	Independent
+Wexford County Council	politicalGroups	Council Control \n* Fianna Fáil \n* Sinn Féin  \nCouncil Opposition \n* Fine Gael \n* Labour Party \n* People Before Profit \n* Independent
+Monaghan County Council	politicalGroups	Sinn Féin
+Monaghan County Council	politicalGroups	Fine Gael
+Monaghan County Council	politicalGroups	Fianna Fáil
+Monaghan County Council	politicalGroups	Independent
+Kerry County Council	politicalGroups	Council Control  \n* Fine Gael \n*  Labour Party \nCouncil Opposition \n* Fianna Fáil  \n* Sinn Féin \n* Kerry Independent \n* Independent
+Roscommon County Council	politicalGroups	Fianna Fáil
+Roscommon County Council	politicalGroups	Fine Gael
+Roscommon County Council	politicalGroups	Sinn Féin
+Roscommon County Council	politicalGroups	Independents
+Clare County Council	politicalGroups	Fianna Fáil
+Clare County Council	politicalGroups	Fine Gael
+Clare County Council	politicalGroups	Sinn Féin
+Clare County Council	politicalGroups	Independents
+Sligo County Council	politicalGroups	Fianna Fáil
+Sligo County Council	politicalGroups	Fine Gael
+Sligo County Council	politicalGroups	Sinn Féin
+Sligo County Council	politicalGroups	People Before Profit
+Sligo County Council	politicalGroups	Independent
+Laois County Council	politicalGroups	Fianna Fáil
+Laois County Council	politicalGroups	Fine Gael
+Laois County Council	politicalGroups	Sinn Féin
+Laois County Council	politicalGroups	Labour Party
+Laois County Council	politicalGroups	Independent
+Carlow County Council	politicalGroups	Council Control \n* Fine Gael  \n* Labour Party  \n* Independent \nCouncil Opposition  \n* Fianna Fáil \n* Sinn Féin
+Cavan County Council	politicalGroups	Fianna Fáil
+Cavan County Council	politicalGroups	Fine Gael
+Cavan County Council	politicalGroups	Sinn Féin
+Cork County Council	politicalGroups	Council Control \n* Fine Gael  \n* Labour Party \nSupply and Confidence \n* Independent \nCouncil Opposition \n* Fianna Fáil \n* Sinn Féin  \n* Independent
+Vermont Senate	politicalGroups	Majority\n* Democratic \n* Progressive \nMinority\n* Republican
+Oregon State Senate	politicalGroups	Governing Party\n*  Democratic \nOpposition Party\n*  Republican \n* Vacant
+Dún Laoghaire–Rathdown County Council	politicalGroups	Council Control \n* Fine Gael  \n* Labour Party  \n* Green Party \nCouncil Opposition \n* Fianna Fáil \n* PBPA  \n* Sinn Féin  \n* Independent
+Punjab Legislative Assembly	politicalGroups	SAD
+Punjab Legislative Assembly	politicalGroups	BJP
+Punjab Legislative Assembly	politicalGroups	INC
+Punjab Legislative Assembly	politicalGroups	Independent
+Provincial Assembly of the Punjab	politicalGroups	Government \n* PML(N) \n* PML(Z) \n* Bahawalpur National Awami Party \nOpposition \n* PTI \n* PML(Q) \n* PPP \n* PNML \n* JI \n* Independent
+Federal Senate	politicalGroups	Government \n* Government Support Bloc \n:: PMDB \n:: PSDB \n:: PSB \n:: PP \n:: DEM \n:: PSD \n:: PR \n:: PTB \n:: PSC \n:: PRB \n:: PPS \n:: PV \n:: PTC \nMinority \n* Opposition Bloc \n:: PT \n:: PCdoB \n* Independent Bloc \n:: PDT \n:: REDE \n:: Independents
+Northumberland County Council	politicalGroups	Labour Party
+Northumberland County Council	politicalGroups	Conservative Party
+Northumberland County Council	politicalGroups	Liberal Democrats
+Northumberland County Council	politicalGroups	Independent
+Legislative Assembly of Singapore	politicalGroups	PAP
+Legislative Assembly of Singapore	politicalGroups	BS
+Thiruvananthapuram Corporation	politicalGroups	Left Democratic Front
+Thiruvananthapuram Corporation	politicalGroups	BJP
+Thiruvananthapuram Corporation	politicalGroups	United Democratic Front
+Thiruvananthapuram Corporation	politicalGroups	Independents
+West Bengal Legislative Assembly	politicalGroups	Government\n* AITC \nOpposition\n* Communist Party of India (Marxist)  \n* Revolutionary Socialist Party  \n* Communist Party of India  \n* All India Forward Bloc  \n* INC  \n* BJP \n* GJM \n* Independent
+Andhra Pradesh Legislature	politicalGroups	*  TDP  \n*  INC \n*  YSRCP \n*  BJP \n*  Nominated
+Andhra Pradesh Legislature	politicalGroups	Government coalition \n*  TDP \n*  BJP \n\nOpposition parties \n*  YSRCP \n*  Navodayam Party \n*  Independents \n\n Nominated
+Municipal Chamber of Porto Alegre	politicalGroups	Government \n*  PDT \n*  PMDB \n*  PP \n*  PTB \n*  DEM \n*  PRB \n*  PSB \n*  PSD \n\nNon-aligned and opposition \n*  PT \n*  PCdoB \n*  PSOL \n*  PROS \n*  PSDB \n*  SD
+Municipal Corporation of Delhi	politicalGroups	Bharatiya Janata Party
+Municipal Corporation of Delhi	politicalGroups	Indian National Congress
+Municipal Corporation of Delhi	politicalGroups	Bahujan Samaj Party
+Puducherry Legislative Assembly	politicalGroups	Government Coalation
+Puducherry Legislative Assembly	politicalGroups	INC
+Puducherry Legislative Assembly	politicalGroups	DMK
+Puducherry Legislative Assembly	politicalGroups	Opposition
+Puducherry Legislative Assembly	politicalGroups	AINRC
+Puducherry Legislative Assembly	politicalGroups	AIADMK
+Puducherry Legislative Assembly	politicalGroups	Independent
+Provincial Assembly of Sindh	politicalGroups	Government \n* PPP \nOpposition \n* MQM \n* PML(F) \n* PML(N) \n* PTI \n* NPP \n* Independent
+Waltham Forest London Borough Council	politicalGroups	Labour Party
+Waltham Forest London Borough Council	politicalGroups	Conservative Party
+Pembrokeshire County Council	politicalGroups	Independents
+Pembrokeshire County Council	politicalGroups	Plaid Cymru
+Pembrokeshire County Council	politicalGroups	Labour Party
+Pembrokeshire County Council	politicalGroups	Conservative Party
+Pembrokeshire County Council	politicalGroups	Liberal Democrats
+High Peak Borough Council	politicalGroups	Labour
+High Peak Borough Council	politicalGroups	Conservatives
+High Peak Borough Council	politicalGroups	Liberal Democrats
+High Peak Borough Council	politicalGroups	Independent
+Exeter City Council	politicalGroups	Labour Party
+Exeter City Council	politicalGroups	Conservative Party
+Exeter City Council	politicalGroups	Liberal Democrats
+Council of the Isles of Scilly	politicalGroups	Independent \n  Vacant
+Navi Mumbai Municipal Corporation	politicalGroups	Nationalist Congress Party
+Navi Mumbai Municipal Corporation	politicalGroups	Shiv Sena
+Navi Mumbai Municipal Corporation	politicalGroups	INC
+Navi Mumbai Municipal Corporation	politicalGroups	BJP
+Navi Mumbai Municipal Corporation	politicalGroups	Independents
+Parliament of Navarre	politicalGroups	Government \n* Geroa Bai \n* Bildu \n* I-E \nSupported by \n* Podemos \nOpposition \n* UPN \n* PSN \n* PP
+Guwahati Municipal Corporation	politicalGroups	Indian National Congress
+Guwahati Municipal Corporation	politicalGroups	Asom Gana Parishad
+Guwahati Municipal Corporation	politicalGroups	Bharatiya Janata Party
+Legislative Assembly of Saint Petersburg	politicalGroups	United Russia
+Legislative Assembly of Saint Petersburg	politicalGroups	A Just Russia
+Legislative Assembly of Saint Petersburg	politicalGroups	Communist Party
+Legislative Assembly of Saint Petersburg	politicalGroups	Yabloko
+Legislative Assembly of Saint Petersburg	politicalGroups	LDPR
+State Council of Crimea	politicalGroups	*
+State Council of Crimea	politicalGroups	70
+State Council of Crimea	politicalGroups	United Russia
+State Council of Crimea	politicalGroups	5
+State Council of Crimea	politicalGroups	Liberal Democratic Party of Russia
+Parliament of Cantabria	politicalGroups	* PP \n* PRC \n* PSOE \n* Podemos \n* C's
+Regional Council of Veneto	politicalGroups	Government \n*  LV–Zaia \n*  FI \n*  FdI \n*  NVI \n\nOpposition \n*  PD \n*  M5S \n*  LTV \n*  NCD \n*  Others
+Parliament of Kenya	politicalGroups	Jubilee
+Parliament of Kenya	politicalGroups	Amani
+Parliament of Kenya	politicalGroups	Other Parties
+Parliament of Kenya	politicalGroups	CORD
+Rutland County Council	politicalGroups	Conservative Party
+Rutland County Council	politicalGroups	Independents
+Rutland County Council	politicalGroups	Liberal Democrats
+ARMM Regional Legislative Assembly	politicalGroups	*Liberal Party\n*National Unity Party\n*PDP-Laban
+Karnataka Legislative Assembly	politicalGroups	Indian National Congress
+Karnataka Legislative Assembly	politicalGroups	Bharatiya Janata Party
+Karnataka Legislative Assembly	politicalGroups	Janata Dal
+Karnataka Legislative Assembly	politicalGroups	Badagara Shramika Raitala Congress
+Karnataka Legislative Assembly	politicalGroups	Karnataka Makkala Paksha
+Karnataka Legislative Assembly	politicalGroups	Sarvodaya Karnataka Paksha
+Karnataka Legislative Assembly	politicalGroups	Independent
+Karnataka Legislative Assembly	politicalGroups	Karnataka Janatha Paksha
+Karnataka Legislative Assembly	politicalGroups	Nominated
+Tripura Legislative Assembly	politicalGroups	CPI (M)
+Tripura Legislative Assembly	politicalGroups	AITC
+Tripura Legislative Assembly	politicalGroups	INC
+Tripura Legislative Assembly	politicalGroups	CPI
+Iraqi Kurdistan Parliament	politicalGroups	Parties Represented in Parliament
+Iraqi Kurdistan Parliament	politicalGroups	* KDP \n* Gorran \n* PUK \n* Yekgirtû \n* KIK \n* Others \n* Reserved for minorities
+Parliament of Andalusia	politicalGroups	Government \n* PSOE \nSupported by \n* C's \nOpposition \n* PP \n* Podemos \n* IULV-CA
+Piirissaare Parish	politicalGroups	VK
+Piirissaare Parish	politicalGroups	K
+Charlotte City Council	politicalGroups	Majority\n*  Democratic \nMinority\n*  Republican
+Sami Parliament of Norway	politicalGroups	Executive council \n*  Norwegian Sami Association \nParties supporting the executive council \n*  Árja \n*  Conservative Party \n*  Åarjel-Saemiej Gielh \n*  Johttisápmelaččaid Listu \nOpposition \n*  Labour Party \n*  Nordkallottfolket \n*  Progress Party \n*  Dáloniid Listu \n*  Sámit Lulde
+Trafford Metropolitan Borough Council	politicalGroups	*  Conservative \n*  Labour \n*  Liberal Democrats
+Wiltshire Council	politicalGroups	Conservative Party
+Wiltshire Council	politicalGroups	Liberal Democrats
+Wiltshire Council	politicalGroups	Independents
+Wiltshire Council	politicalGroups	Labour Party
+Wiltshire Council	politicalGroups	UKIP
+Assembly of Madrid	politicalGroups	Government \n* PP \nSupported by \n* C's \nOpposition \n* PSOE-PSM \n* Podemos
+Eastern Cape Provincial Legislature	politicalGroups	Congress of the People
+Eastern Cape Provincial Legislature	politicalGroups	African Independent Congress
+Khyber Pakhtunkhwa Assembly	politicalGroups	Government \n* PTI \n* QWP \n* JI \n* Independents \nOpposition \n* JUI(F) \n* PML-N \n* PPP \n*  ANP
+Mercosur Parliament	politicalGroups	Argentina
+Mercosur Parliament	politicalGroups	Brazil
+Mercosur Parliament	politicalGroups	Paraguay
+Mercosur Parliament	politicalGroups	Uruguay
+Mercosur Parliament	politicalGroups	Venezuela
+KwaZulu-Natal Legislature	politicalGroups	Economic Freedom Fighters
+KwaZulu-Natal Legislature	politicalGroups	Minority Front
+Fingal County Council	politicalGroups	Fianna Fáil
+Fingal County Council	politicalGroups	Sinn Féin
+Fingal County Council	politicalGroups	Fine Gael
+Fingal County Council	politicalGroups	Anti-Austerity Alliance
+Fingal County Council	politicalGroups	Labour Party
+Fingal County Council	politicalGroups	Green Party
+Fingal County Council	politicalGroups	People Before Profit
+Fingal County Council	politicalGroups	Social Democrats
+Fingal County Council	politicalGroups	Renua Ireland
+Fingal County Council	politicalGroups	Independent
+South Dublin County Council	politicalGroups	Sinn Féin
+South Dublin County Council	politicalGroups	Fine Gael
+South Dublin County Council	politicalGroups	Fianna Fáil
+South Dublin County Council	politicalGroups	Labour Party
+South Dublin County Council	politicalGroups	Anti-Austerity Alliance
+South Dublin County Council	politicalGroups	People Before Profit
+South Dublin County Council	politicalGroups	Green Party
+South Dublin County Council	politicalGroups	Renua Ireland
+South Dublin County Council	politicalGroups	Independent
+National Assembly	politicalGroups	Government:\n* PDP \nOpposition:\n* DPT
+Parliament of Bhutan	politicalGroups	PDP
+Parliament of Bhutan	politicalGroups	DPT
+Wigan Metropolitan Borough Council	politicalGroups	*  Labour \n*  Conservative \n*  Independent Network \n*  Standish Independent \n*  Independent
+Eastern Provincial Council	politicalGroups	Government \n*  UPFA \n*  SLMC \n*  NFF \nOpposition \n* TNA \n* UNP
+Parliament of the Central Tibetan Administration	politicalGroups	*  NDPT \n*  PPT \n*  Independents
+Devon County Council	politicalGroups	Executive \n*  Conservative \nOpposition \n*  Liberal Democrats \n*  Labour \n*  UKIP \n*  Independent
+Landtag of Saxony-Anhalt	politicalGroups	Government:\n*  CDU \n*  SPD \n*
+Landtag of Saxony-Anhalt	politicalGroups	The Greens
+Landtag of Saxony-Anhalt	politicalGroups	Opposition:\n*  AfD \n*  The Left
+Landtag of Thuringia	politicalGroups	Government
+Landtag of Thuringia	politicalGroups	* The Left \n* SPD \n* The Greens \nOpposition Parties\n* CDU \n* AfD \n* Family \n* Independent
+Landtag of Schleswig-Holstein	politicalGroups	Government \n* SPD \n* The Greens \n* SSW \nOpposition Parties\n* CDU \n* FDP \n* Pirates
+Landtag of the Saarland	politicalGroups	Government \n* CDU \n* SPD \nOpposition Parties\n* The Left \n* Pirates \n* The Greens
+Landtag of Baden-Württemberg	politicalGroups	Government:\n* The Greens \n* CDU \nOpposition:\n* AfD \n* SPD \n* FDP
+Bürgerschaft of Bremen	politicalGroups	Government \n* SPD \n* The Greens \nOpposition Parties\n* CDU \n* The Left \n* FDP \n* ALFA \n* AfD \n* BIW
+Landtag of Mecklenburg-Vorpommern	politicalGroups	* SPD \n* AfD \n* CDU \n* The Left
+Landtag of Hesse	politicalGroups	Government \n* CDU \n*
+Landtag of Hesse	politicalGroups	The Greens
+Landtag of Hesse	politicalGroups	Opposition Parties\n* SPD \n* The Left \n* FDP
+Landtag of Lower Saxony	politicalGroups	Government \n* SPD \n*
+Landtag of Lower Saxony	politicalGroups	The Greens
+Landtag of Lower Saxony	politicalGroups	Opposition Parties\n* CDU \n* FDP
+City of Bradford Metropolitan District Council	politicalGroups	Governing Party\n*  Labour \n\nOpposition\n*  Conservative \n* Liberal Democrats \n* Independent \n*  Green Party \n*  UKIP
+Landtag of Brandenburg	politicalGroups	Government \n* SPD \n* The Left \nOpposition Parties\n* CDU \n* AfD \n* The Greens \n* Free Voters \n* Independent
+Landtag of North Rhine-Westphalia	politicalGroups	Government \n*  SPD \n*  The Greens \nOpposition Parties\n*  CDU \n*  FDP \n*  Pirates \n*  Non-Inscrit
+Assembly of the Community of Municipalities, Autonomous Province of Kosovo and Metohija	politicalGroups	SRS
+Assembly of the Community of Municipalities, Autonomous Province of Kosovo and Metohija	politicalGroups	DSS
+Assembly of the Community of Municipalities, Autonomous Province of Kosovo and Metohija	politicalGroups	SPS
+Assembly of the Community of Municipalities, Autonomous Province of Kosovo and Metohija	politicalGroups	DS
+Assembly of the Community of Municipalities, Autonomous Province of Kosovo and Metohija	politicalGroups	G17+
+Assembly of the Community of Municipalities, Autonomous Province of Kosovo and Metohija	politicalGroups	GIG
+Assembly of the Community of Municipalities, Autonomous Province of Kosovo and Metohija	politicalGroups	Independent
+Albuquerque City Council	politicalGroups	Majority\n* Democratic \nMinority\n* Republican
+Andhra Pradesh Legislative Assembly	politicalGroups	Government coalition \n*  TDP \n*  BJP \n\nOpposition parties \n*  YSRCP \n*  Navodayam Party \n*  Independents \n\n Nominated
+Penang State Legislative Assembly	politicalGroups	Government
+Penang State Legislative Assembly	politicalGroups	Pakatan Harapan
+Penang State Legislative Assembly	politicalGroups	:EXCO Members: 11\n:Backbenchers: 18\n* DAP \n* PKR \nOpposition
+Penang State Legislative Assembly	politicalGroups	Barisan Nasional
+Penang State Legislative Assembly	politicalGroups	* UMNO \n PAS
+Penang State Legislative Assembly	politicalGroups	Independent
+Penang State Legislative Assembly	politicalGroups	Vacant
+Causeway Coast and Glens District Council	politicalGroups	DUP
+Causeway Coast and Glens District Council	politicalGroups	UUP
+Causeway Coast and Glens District Council	politicalGroups	Sinn Féin
+Causeway Coast and Glens District Council	politicalGroups	SDLP
+Causeway Coast and Glens District Council	politicalGroups	TUV
+Causeway Coast and Glens District Council	politicalGroups	Alliance
+Causeway Coast and Glens District Council	politicalGroups	PUP
+Causeway Coast and Glens District Council	politicalGroups	NI Conservatives
+Causeway Coast and Glens District Council	politicalGroups	Independents
+Hamburg Parliament	politicalGroups	Government \n* SPD \n* The Greens \nOpposition Parties\n* CDU \n* The Left \n* FDP \n* AfD \n* Independent
+United States House of Representatives	politicalGroups	Majority \n*
+United States House of Representatives	politicalGroups	Republican Party
+United States House of Representatives	politicalGroups	Minority \n*
+United States House of Representatives	politicalGroups	Democratic Party
+Antrim and Newtownabbey Borough Council	politicalGroups	DUP
+Antrim and Newtownabbey Borough Council	politicalGroups	UUP
+Antrim and Newtownabbey Borough Council	politicalGroups	Alliance
+Antrim and Newtownabbey Borough Council	politicalGroups	SDLP
+Antrim and Newtownabbey Borough Council	politicalGroups	Sinn Féin
+Antrim and Newtownabbey Borough Council	politicalGroups	TUV
+Ards and North Down Borough Council	politicalGroups	DUP
+Ards and North Down Borough Council	politicalGroups	UUP
+Ards and North Down Borough Council	politicalGroups	Alliance
+Ards and North Down Borough Council	politicalGroups	Green (NI)
+Ards and North Down Borough Council	politicalGroups	SDLP
+Ards and North Down Borough Council	politicalGroups	TUV
+Ards and North Down Borough Council	politicalGroups	Independents
+Mid and East Antrim Borough Council	politicalGroups	DUP
+Mid and East Antrim Borough Council	politicalGroups	UUP
+Mid and East Antrim Borough Council	politicalGroups	TUV
+Mid and East Antrim Borough Council	politicalGroups	Alliance
+Mid and East Antrim Borough Council	politicalGroups	Sinn Féin
+Mid and East Antrim Borough Council	politicalGroups	UKIP
+Mid and East Antrim Borough Council	politicalGroups	SDLP
+Mid and East Antrim Borough Council	politicalGroups	Independents
+Mid-Ulster District Council	politicalGroups	Sinn Féin
+Mid-Ulster District Council	politicalGroups	DUP
+Mid-Ulster District Council	politicalGroups	UUP
+Mid-Ulster District Council	politicalGroups	SDLP
+Mid-Ulster District Council	politicalGroups	Independents
+Fermanagh and Omagh District Council	politicalGroups	Sinn Féin
+Fermanagh and Omagh District Council	politicalGroups	UUP
+Fermanagh and Omagh District Council	politicalGroups	SDLP
+Fermanagh and Omagh District Council	politicalGroups	DUP
+Fermanagh and Omagh District Council	politicalGroups	Independents
+Derry and Strabane District Council	politicalGroups	Sinn Féin
+Derry and Strabane District Council	politicalGroups	SDLP
+Derry and Strabane District Council	politicalGroups	DUP
+Derry and Strabane District Council	politicalGroups	UUP
+Derry and Strabane District Council	politicalGroups	Independents
+Derry and Strabane District Council	politicalGroups	Independent Unionist
+Corts Valencianes	politicalGroups	Government :\n* PSPV-PSOE \n* Compromís \nSupported by :\n* Podem \nOpposition :\n* PP \n* Ciudadanos
+Uttar Pradesh Legislative Assembly	politicalGroups	Samajwadi Party
+Uttar Pradesh Legislative Assembly	politicalGroups	Bahujan Samaj Party
+Uttar Pradesh Legislative Assembly	politicalGroups	Bharatiya Janata Party
+Uttar Pradesh Legislative Assembly	politicalGroups	Indian National Congress
+Uttar Pradesh Legislative Assembly	politicalGroups	Rashtriya Lok Dal
+Uttar Pradesh Legislative Assembly	politicalGroups	Independent
+Uttar Pradesh Legislative Assembly	politicalGroups	PP
+Uttar Pradesh Legislative Assembly	politicalGroups	Quami Ekta Dal
+Uttar Pradesh Legislative Assembly	politicalGroups	Apna Dal
+Uttar Pradesh Legislative Assembly	politicalGroups	Ittehad-e-Millat Council
+Uttar Pradesh Legislative Assembly	politicalGroups	NCP  and
+Uttar Pradesh Legislative Assembly	politicalGroups	Nominated
+Greater Poland Regional Assembly	politicalGroups	Executive board \n*  PO \n*  PSL \nOpposition parties\n*  PiS \n*  SLD \n*  Independents
+Kuyavian-Pomeranian Regional Assembly	politicalGroups	Executive board \n*  PO \n*  PSL \nOpposition parties\n*  PiS \n*  Independents
+Lesser Poland Regional Assembly	politicalGroups	Executive board \n*  PO \n*  PSL \nOpposition parties\n*  PiS
+Łódź Regional Assembly	politicalGroups	Civic Platform
+Łódź Regional Assembly	politicalGroups	Law and Justice
+Łódź Regional Assembly	politicalGroups	Polish People's Party
+Łódź Regional Assembly	politicalGroups	Democratic Left Alliance – Labor Union
+Łódź Regional Assembly	politicalGroups	Lewica Samorządowa
+Łódź Regional Assembly	politicalGroups	Independent
+Lower Silesian Regional Assembly	politicalGroups	Executive board \n*  PO \n*  PSL \nOpposition parties\n*  PiS \n*  Independents
+Lublin Regional Assembly	politicalGroups	Executive board \n*  PSL \n*  PO \nOpposition parties\n*  PiS \n*  Independents
+Lubusz Regional Assembly	politicalGroups	Civic Platform
+Lubusz Regional Assembly	politicalGroups	Left and Democrats
+Lubusz Regional Assembly	politicalGroups	Law and Justice
+Lubusz Regional Assembly	politicalGroups	Polish People's Party
+Masovian Regional Assembly	politicalGroups	Executive board \n*  PSL \n*  PO \nOpposition parties\n*  PiS \n*  Independents
+Opole Regional Assembly	politicalGroups	Executive board \n*  PSL \n*  PO \n*  MN \nOpposition parties\n*  PiS \n*  Independents \nVacant\n*
+Podlaskie Regional Assembly	politicalGroups	*  PO \n*  PSL \n*  PiS \n*  SLD
+Pomeranian Regional Assembly	politicalGroups	Executive board \n*  PO \n*  PSL \nOpposition parties\n*  PiS \n*  Independents
+Silesian Regional Assembly	politicalGroups	Executive board \n*  PO \n*  PSL \n*  RAŚ \n*  SLD \nOpposition parties\n*  PiS \nVacant\n*
+Subcarpathian Regional Assembly	politicalGroups	Executive board \n*  PiS \nOpposition parties\n*  PSL \n*  PO \n*  Independents
+Świętokrzyskie Regional Assembly	politicalGroups	Polish People's Party
+Świętokrzyskie Regional Assembly	politicalGroups	Law and Justice
+Świętokrzyskie Regional Assembly	politicalGroups	Left and Democrats
+Świętokrzyskie Regional Assembly	politicalGroups	Civic Platform
+Świętokrzyskie Regional Assembly	politicalGroups	Self-Defense
+Świętokrzyskie Regional Assembly	politicalGroups	Independent
+Warmian-Masurian Regional Assembly	politicalGroups	Civic Platform
+Warmian-Masurian Regional Assembly	politicalGroups	Polish People's Party
+Warmian-Masurian Regional Assembly	politicalGroups	Law and Justice
+Warmian-Masurian Regional Assembly	politicalGroups	Self-Defense
+Warmian-Masurian Regional Assembly	politicalGroups	Left and Democrats
+West Pomeranian Regional Assembly	politicalGroups	Executive board \n*  PO \n*  PSL \n*  Independents \nOpposition parties\n*  PiS \n*  Independents
+Bihar Legislative Council	politicalGroups	Grand Alliance
+Bihar Legislative Council	politicalGroups	JD(U)
+Bihar Legislative Council	politicalGroups	RJD
+Bihar Legislative Council	politicalGroups	INC
+Bihar Legislative Council	politicalGroups	National Democratic Alliance
+Bihar Legislative Council	politicalGroups	BJP
+Bihar Legislative Council	politicalGroups	LJP
+Bihar Legislative Council	politicalGroups	RLSP
+Bihar Legislative Council	politicalGroups	CPI(ML) Liberation
+Bihar Legislative Council	politicalGroups	Vacant \n Independent
+Bihar Legislative Assembly	politicalGroups	Grand Alliance
+Bihar Legislative Assembly	politicalGroups	RJD
+Bihar Legislative Assembly	politicalGroups	JD(U)
+Bihar Legislative Assembly	politicalGroups	INC
+Bihar Legislative Assembly	politicalGroups	National Democratic Alliance
+Bihar Legislative Assembly	politicalGroups	BJP
+Bihar Legislative Assembly	politicalGroups	LJP
+Bihar Legislative Assembly	politicalGroups	RLSP
+Bihar Legislative Assembly	politicalGroups	HAM
+Bihar Legislative Assembly	politicalGroups	CPI(ML) Liberation
+Bihar Legislative Assembly	politicalGroups	Independent
+Bologna	politicalGroups	Majority \n*  PD 21\n*  CCA 1\nOpposition \n*  LN 4\n*  M5S 4\n*  FI 2\n*  IB 2\n*  CC 2
+Derby City Council	politicalGroups	Labour
+Derby City Council	politicalGroups	Conservatives
+Derby City Council	politicalGroups	Liberal Democrats
+Parliament of the Northern Territory	politicalGroups	Government
+Parliament of the Northern Territory	politicalGroups	*  Labor \nOpposition\n*  Country Liberal \nCrossbench\n*  Independent
+States of Zeeland	politicalGroups	Government \n* Christian Democratic Appeal \n* People's Party for Freedom and Democracy \n* Reformed Political Party \n* Labour Party \nOpposition \n* Socialist Party \n* Party for Freedom \n* Democrats 66 \n* ChristianUnion \n* Zeeland Local \n* Party for Zeeland \n* GreenLeft \n* 50PLUS
+Aquitaine Regional Council	politicalGroups	Radical Party of the Left/  Socialist Party
+Aquitaine Regional Council	politicalGroups	Left Front
+Aquitaine Regional Council	politicalGroups	Europe Ecology – The Greens
+Aquitaine Regional Council	politicalGroups	Union for a Popular Movement
+Aquitaine Regional Council	politicalGroups	Democratic Movement
+Legislative Assembly of the Azores	politicalGroups	Regional Government\n* Socialist Party \nOpposition\n*
+Legislative Assembly of the Azores	politicalGroups	Social Democratic Party
+Legislative Assembly of the Azores	politicalGroups	* CDS – People's Party \n* Left Bloc \n*
+Legislative Assembly of the Azores	politicalGroups	Portuguese Communist Party
+Legislative Assembly of the Azores	politicalGroups	* People's Monarchist Party
+Salisbury City Council	politicalGroups	Conservative Party
+Salisbury City Council	politicalGroups	Labour Party
+Salisbury City Council	politicalGroups	Liberal Democrats
+Salisbury City Council	politicalGroups	Independents
+Salisbury City Council	politicalGroups	Green Party
+Uttarakhand Legislative Assembly	politicalGroups	Government coalition (Progressive Democratic Front) \n*  INC \n*  BSP \n*  UKD \n*  Independent \n*  Nominated \n\nOpposition parties \n*  BJP \n*  10 Congress MLAs & 1 BJP MLA disqualified \n*  Speaker
+Municipal Chamber of Rio de Janeiro	politicalGroups	Government \n* For a Better Rio Bloc \n:: PMDB \n:: PRB \n:: PTB \n:: SD \n:: PDT \n:: PSDC \n*  PP \n*  PT \n*  PSD \n\nNon-aligned and opposition \n*  PSOL \n* Rio That I Want Bloc \n:: PRTB \n:: PSC \n:: PTN \n*  DEM \n*  PSDB \n*  REDE \n*  PHS \n*  PTC
+State Council of the Komi Republic	politicalGroups	United Russia
+State Council of the Komi Republic	politicalGroups	Communist Party of the Russian Federation
+State Council of the Komi Republic	politicalGroups	LDPR
+State Council of the Komi Republic	politicalGroups	A Just Russia
+Kedah State Legislative Assembly	politicalGroups	Government
+Kedah State Legislative Assembly	politicalGroups	Barisan Nasional
+Kedah State Legislative Assembly	politicalGroups	:EXCO Members: 10\n:Backbenchers: 10\n* UMNO \n* MCA \nOpposition
+Kedah State Legislative Assembly	politicalGroups	PAS
+Kedah State Legislative Assembly	politicalGroups	Pakatan Harapan
+Kedah State Legislative Assembly	politicalGroups	* PKR \n* DAP \n* Amanah \n Independent
+Kedah State Legislative Assembly	politicalGroups	Vacant
+Tamil Nadu Legislative Assembly	politicalGroups	AIADMK
+Tamil Nadu Legislative Assembly	politicalGroups	DMK
+Tamil Nadu Legislative Assembly	politicalGroups	INC
+Tamil Nadu Legislative Assembly	politicalGroups	IUML
+Tamil Nadu Legislative Assembly	politicalGroups	Vacant due to bypoll deferred \n Vacant due to death of AIADMK MLA
+Tamil Nadu Legislature	politicalGroups	All India Anna Dravida Munnetra Kazhagam
+Tamil Nadu Legislature	politicalGroups	DMK alliance
+Seanad Éireann	politicalGroups	Government\n* Fine Gael \nOpposition\n* Fianna Fáil \n* Sinn Féin \n* Labour Party \n* Green Party \n* Independent
+Aragonese Corts	politicalGroups	* PP \n* PSOE \n* Podemos \n* PAR \n* C's \n* CHA \n* IUA
+New Jersey Legislative Districts, 2001 apportionment	politicalGroups	Democratic Party
+New Jersey Legislative Districts, 2001 apportionment	politicalGroups	Republican Party
+Parliament of South Ossetia	politicalGroups	United Ossetia
+Parliament of South Ossetia	politicalGroups	Unity of the People
+Parliament of South Ossetia	politicalGroups	People's Party
+Parliament of South Ossetia	politicalGroups	Nykhaz
+Buenos Aires City Legislature	politicalGroups	*
+Buenos Aires City Legislature	politicalGroups	Republican Proposal
+Buenos Aires City Legislature	politicalGroups	ECO
+Buenos Aires City Legislature	politicalGroups	Front for Victory
+Buenos Aires City Legislature	politicalGroups	Workers' Left Front
+Buenos Aires City Legislature	politicalGroups	AyL
+Buenos Aires City Legislature	politicalGroups	Independent
+Surat Municipal Corporation	politicalGroups	Bhartiya Janata Party
+Surat Municipal Corporation	politicalGroups	Indian National Congress
+Arkansas General Assembly	politicalGroups	Republican Party
+Arkansas General Assembly	politicalGroups	Democratic Party
+United States Senate	politicalGroups	Majority \n*
+United States Senate	politicalGroups	Republican Party
+United States Senate	politicalGroups	Minority \n\n*
+United States Senate	politicalGroups	Democratic Party
+United States Senate	politicalGroups	*
+United States Senate	politicalGroups	Independent politician
+Verkhovna Rada of Crimea	politicalGroups	*  80
+Verkhovna Rada of Crimea	politicalGroups	Party of Regions
+Verkhovna Rada of Crimea	politicalGroups	*  5
+Verkhovna Rada of Crimea	politicalGroups	Communist Party of Ukraine
+Verkhovna Rada of Crimea	politicalGroups	Qurultai-Rukh
+Verkhovna Rada of Crimea	politicalGroups	Soyuz
+Verkhovna Rada of Crimea	politicalGroups	*  3
+Verkhovna Rada of Crimea	politicalGroups	Russian Unity
+Verkhovna Rada of Crimea	politicalGroups	*  2
+Verkhovna Rada of Crimea	politicalGroups	Strong Ukraine
+Municipal Chamber of São Paulo	politicalGroups	Government \n*  PT \n*  PTB \n*  PMDB \n*  PCdoB \n\nNon-aligned and opposition \n*  PSDB \n* DEM/PR Bloc \n:: DEM \n:: PR \n*  PSD \n*  PV \n*  PHS \n*  PROS \n*  PP \n*  PPS \n*  PRB \n*  PSB \n*  PSOL
+Himachal Pradesh Legislative Assembly	politicalGroups	INC
+Himachal Pradesh Legislative Assembly	politicalGroups	BJP
+Himachal Pradesh Legislative Assembly	politicalGroups	Independent
+Nagaland Legislative Assembly	politicalGroups	NPF
+Nagaland Legislative Assembly	politicalGroups	BJP
+Nagaland Legislative Assembly	politicalGroups	JD(U)
+Nagaland Legislative Assembly	politicalGroups	NCP
+Nagaland Legislative Assembly	politicalGroups	Independents
+Regional Council of Lombardy	politicalGroups	Government \n* LN \n* PdL \n*  FdI \n*  PP \nOpposition \n* PD \n* M5S \n*  Ambrosoli list
+Kurdistan Communities Union	politicalGroups	*Kurdistan Workers' Party
+Kurdistan Communities Union	politicalGroups	*Democratic Union Party \n*Kurdistan Free Life Party \n*Kurdistan Democratic Solution Party
+List of Presidents of the National Convention	politicalGroups	*  The Marsh \n*  The Mountain \n*  The Gironde
+New Jersey Legislative Council	politicalGroups	*
+New Jersey Legislative Council	politicalGroups	Federalist Party
+New Jersey Legislative Council	politicalGroups	Democratic-Republican Party
+New Jersey Legislative Council	politicalGroups	National Republican Party
+New Jersey Legislative Council	politicalGroups	Democratic Party
+New Jersey Legislative Council	politicalGroups	Whig Party
+Sabah State Legislative Assembly	politicalGroups	Government
+Sabah State Legislative Assembly	politicalGroups	Barisan Nasional
+Sabah State Legislative Assembly	politicalGroups	:Ministers: 11\n:Assistant ministers: 18\n:Backbenchers: 18\n* UMNO \n* PBS \n* UPKO \n* LDP \n* GERAKAN \n* MCA \n* PBRS \nOpposition
+Sabah State Legislative Assembly	politicalGroups	Pakatan Harapan
+Sabah State Legislative Assembly	politicalGroups	* PKR \n* DAP \n STAR
+Sabah State Legislative Assembly	politicalGroups	Independent
+Sabah State Legislative Assembly	politicalGroups	Vacant
+South Dakota Legislature	politicalGroups	Republican \n Democratic
+Greater Manchester Combined Authority	politicalGroups	*  Labour \n*  Conservative
+Medway Council	politicalGroups	Conservative
+Medway Council	politicalGroups	Labour
+Medway Council	politicalGroups	UKIP
+Medway Council	politicalGroups	Independent
+Medway Council	politicalGroups	Vacant
+Plymouth City Council	politicalGroups	Labour
+Plymouth City Council	politicalGroups	Conservative
+Plymouth City Council	politicalGroups	UKIP
+Selangor State Legislative Assembly	politicalGroups	Government
+Selangor State Legislative Assembly	politicalGroups	Pakatan Harapan
+Selangor State Legislative Assembly	politicalGroups	:EXCO Members: 8\n:Backbenchers: 22\n* DAP \n* PKR \n* Amanah \n PAS, out of PH coalition
+Selangor State Legislative Assembly	politicalGroups	:EXCO Members: 3\n:Backbenchers: 10\nOpposition
+Selangor State Legislative Assembly	politicalGroups	Barisan Nasional
+Selangor State Legislative Assembly	politicalGroups	* UMNO \n Independent
+Selangor State Legislative Assembly	politicalGroups	Vacant
+Kelantan State Legislative Assembly	politicalGroups	Government
+Kelantan State Legislative Assembly	politicalGroups	PAS
+Kelantan State Legislative Assembly	politicalGroups	:EXCO Members: 11\n:Backbenchers: 20\nOpposition
+Kelantan State Legislative Assembly	politicalGroups	Barisan Nasional
+Kelantan State Legislative Assembly	politicalGroups	* UMNO \n Pakatan Harapan
+Kelantan State Legislative Assembly	politicalGroups	* PKR \n* Amanah \n Independents
+Kelantan State Legislative Assembly	politicalGroups	Vacant
+Northern Provincial Council	politicalGroups	Government \n*  TNA \nOpposition \n*  UPFA \n*  SLMC
+Perak State Legislative Assembly	politicalGroups	Government
+Perak State Legislative Assembly	politicalGroups	Barisan Nasional
+Perak State Legislative Assembly	politicalGroups	:EXCO Members: 11\n:Backbenchers: 20\n* UMNO \n* MCA \nOpposition
+Perak State Legislative Assembly	politicalGroups	Pakatan Harapan
+Perak State Legislative Assembly	politicalGroups	* DAP \n* PKR \n* Amanah \n PAS
+Perak State Legislative Assembly	politicalGroups	Independent
+Perak State Legislative Assembly	politicalGroups	Vacant
+Assam Legislative Assembly	politicalGroups	NDA \n*  BJP \n*  AGP \n*  BPF \nOpposition \n*  INC \n*  AIUDF \n*  Independent
+Current members of the Plurinational Legislative Assembly	politicalGroups	* MAS-IPSP \n* UD \n* PDC
+Perlis State Legislative Assembly	politicalGroups	Government
+Perlis State Legislative Assembly	politicalGroups	Barisan Nasional
+Perlis State Legislative Assembly	politicalGroups	:EXCO Members: 9\n:Backbenchers: 4\n* UMNO \n* MCA \nOpposition
+Perlis State Legislative Assembly	politicalGroups	Pakatan Harapan
+Perlis State Legislative Assembly	politicalGroups	* PKR \n PAS
+Perlis State Legislative Assembly	politicalGroups	Independent
+Perlis State Legislative Assembly	politicalGroups	Vacant
+Malacca State Legislative Assembly	politicalGroups	Government
+Malacca State Legislative Assembly	politicalGroups	Barisan Nasional
+Malacca State Legislative Assembly	politicalGroups	:EXCO Members: 11\n:Backbenchers: 10\n* UMNO \n* MCA \n* MIC \nOpposition
+Malacca State Legislative Assembly	politicalGroups	Pakatan Harapan
+Malacca State Legislative Assembly	politicalGroups	* DAP \n PAS
+Malacca State Legislative Assembly	politicalGroups	Independent
+Malacca State Legislative Assembly	politicalGroups	Vacant
+Sarawak State Legislative Assembly	politicalGroups	Government
+Sarawak State Legislative Assembly	politicalGroups	Barisan Nasional
+Sarawak State Legislative Assembly	politicalGroups	:Ministers: ?\n:Assistant ministers: ?\n:Backbenchers: ?\n* PBB \n* PRS \n*Others \n* SUPP \n* SPDP \nOpposition
+Sarawak State Legislative Assembly	politicalGroups	Pakatan Harapan
+Sarawak State Legislative Assembly	politicalGroups	* DAP \n* PKR \n Vacant
+Central Executive Committee of Ukraine	politicalGroups	Communists
+Negeri Sembilan State Legislative Assembly	politicalGroups	Government
+Negeri Sembilan State Legislative Assembly	politicalGroups	Barisan Nasional
+Negeri Sembilan State Legislative Assembly	politicalGroups	:EXCO Members: 11\n:Backbenchers: 11\n* UMNO \n* MIC \nOpposition
+Negeri Sembilan State Legislative Assembly	politicalGroups	Pakatan Harapan
+Negeri Sembilan State Legislative Assembly	politicalGroups	* DAP \n* PKR \n Independent
+Negeri Sembilan State Legislative Assembly	politicalGroups	Vacant
+Jaipur Municipal Corporation	politicalGroups	Bharatiya Janata Party
+Jaipur Municipal Corporation	politicalGroups	Indian National Congress
+Aberystwyth Town Council	politicalGroups	Plaid Cymru
+Aberystwyth Town Council	politicalGroups	Liberal Democrats
+Aberystwyth Town Council	politicalGroups	Independents
+Grand Council of Basel-Stadt	politicalGroups	Government \n*  SP 33\n*  Greens (GB) 13\n*  FDP 12\n*  LDP 10\n*  CVP 8\n\nOpposition \n*  SVP 15\n*  GLP 5\n*  EVP 1\n*  VA 2\n*  AB 1
+Senate of Kenya	politicalGroups	Jubilee
+Senate of Kenya	politicalGroups	Amani
+Senate of Kenya	politicalGroups	Other Parties
+Senate of Kenya	politicalGroups	CORD
+Prince William Board of County Supervisors	politicalGroups	Democratic Party
+Prince William Board of County Supervisors	politicalGroups	Republican Party
+Meghalaya Legislative Assembly	politicalGroups	INC
+Meghalaya Legislative Assembly	politicalGroups	NESDP
+Meghalaya Legislative Assembly	politicalGroups	UDP
+Meghalaya Legislative Assembly	politicalGroups	NCP \n\n HPDP \n\n NPP \n Independent
+Jammu and Kashmir Legislative Assembly	politicalGroups	Jammu & Kashmir People's Democratic Party
+Jammu and Kashmir Legislative Assembly	politicalGroups	Bharatiya Janata Party
+Jammu and Kashmir Legislative Assembly	politicalGroups	Jammu & Kashmir National Conference
+Jammu and Kashmir Legislative Assembly	politicalGroups	Indian National Congress
+Jammu and Kashmir Legislative Assembly	politicalGroups	Jammu & Kashmir People's Conference
+Jammu and Kashmir Legislative Assembly	politicalGroups	Communist Party of India
+Jammu and Kashmir Legislative Assembly	politicalGroups	JK PDF
+Jammu and Kashmir Legislative Assembly	politicalGroups	Independent
+1st Regional Legislature	politicalGroups	Democratic and Social Centre - People's Party
+1st Regional Legislature	politicalGroups	Movement of Socialist Left
+1st Regional Legislature	politicalGroups	Portuguese Communist Party
+1st Regional Legislature	politicalGroups	 Reorganizative Movement of the Party of the Proletariat
+1st Regional Legislature	politicalGroups	Socialist Party
+1st Regional Legislature	politicalGroups	Social Democratic Party
+Estates of Sint Maarten	politicalGroups	UPP
+Estates of Sint Maarten	politicalGroups	NA
+Estates of Sint Maarten	politicalGroups	DP
+Estates of Sint Maarten	politicalGroups	USP
+Estates of Sint Maarten	politicalGroups	Independents
+Estates of Curaçao	politicalGroups	* PS \n* MFK \n* PAIS \n* PAR \n* MAN \n* PNP \n* Independents
+Sicilian Regional Assembly	politicalGroups	Government \n* PD \n* UDC \n* PDR \n* NCD \n* SD \n* PSE \nOpposition \n* M5S \n* FI \n*  PdS \n* GS \n* LM \n*  Mixed Group
+Johor State Legislative Assembly	politicalGroups	Government
+Johor State Legislative Assembly	politicalGroups	Barisan Nasional
+Johor State Legislative Assembly	politicalGroups	:EXCO Members: 11\n:Backbenchers: 27\n* UMNO \n* MIC \n* MCA \n* GERAKAN \nOpposition
+Johor State Legislative Assembly	politicalGroups	Pakatan Harapan
+Johor State Legislative Assembly	politicalGroups	* DAP \n* PKR \n* Amanah \n PAS
+Johor State Legislative Assembly	politicalGroups	Independent
+Johor State Legislative Assembly	politicalGroups	Vacant
+National Assembly	politicalGroups	*  PAIS \n*  CREO \n*  PSC \n*  PK-MPD \n*  PSP \n*  Avanza \n*  SUMA \n*  PRE \n*  Independents and Regionalists
+Pahang State Legislative Assembly	politicalGroups	Government
+Pahang State Legislative Assembly	politicalGroups	Barisan Nasional
+Pahang State Legislative Assembly	politicalGroups	:EXCO Members: 11\n:Backbenchers: 19\n* UMNO \n* MCA \nOpposition
+Pahang State Legislative Assembly	politicalGroups	Pakatan Harapan
+Pahang State Legislative Assembly	politicalGroups	* DAP \n* PKR \n* Amanah \n PAS
+Pahang State Legislative Assembly	politicalGroups	Independent
+Pahang State Legislative Assembly	politicalGroups	Vacant
+Assembly of the Union	politicalGroups	NLD
+Assembly of the Union	politicalGroups	USDP
+Assembly of the Union	politicalGroups	ANP
+Assembly of the Union	politicalGroups	SNLD
+Assembly of the Union	politicalGroups	TNP
+Assembly of the Union	politicalGroups	ZCD
+Assembly of the Union	politicalGroups	MNP
+Assembly of the Union	politicalGroups	NUP
+Assembly of the Union	politicalGroups	PNO
+Assembly of the Union	politicalGroups	Independent
+Assembly of the Union	politicalGroups	Military
+Assembly of the Union	politicalGroups	LNDP
+Assembly of the Union	politicalGroups	KSDP
+Assembly of the Union	politicalGroups	KDUP
+Assembly of the Union	politicalGroups	WDP
+Assembly of the Union	politicalGroups	Vacant
+House of Nationalities	politicalGroups	NLD
+House of Nationalities	politicalGroups	USDP
+House of Nationalities	politicalGroups	ANP
+House of Nationalities	politicalGroups	SNLD
+House of Nationalities	politicalGroups	TNP
+House of Nationalities	politicalGroups	ZCD
+House of Nationalities	politicalGroups	MNP
+House of Nationalities	politicalGroups	NUP
+House of Nationalities	politicalGroups	PNO
+House of Nationalities	politicalGroups	Independents
+House of Nationalities	politicalGroups	Military
+House of Representatives	politicalGroups	NLD
+House of Representatives	politicalGroups	USDP
+House of Representatives	politicalGroups	ANP
+House of Representatives	politicalGroups	SNLD
+House of Representatives	politicalGroups	PNO
+House of Representatives	politicalGroups	TNP
+House of Representatives	politicalGroups	LNDP
+House of Representatives	politicalGroups	ZCD
+House of Representatives	politicalGroups	KSDP
+House of Representatives	politicalGroups	KDUP
+House of Representatives	politicalGroups	WDP
+House of Representatives	politicalGroups	Independent
+House of Representatives	politicalGroups	Vacant
+House of Representatives	politicalGroups	Military
+Legislative Assembly of Novosibirsk Oblast	politicalGroups	United Russia
+Legislative Assembly of Novosibirsk Oblast	politicalGroups	Communist Party of the Russian Federation
+Legislative Assembly of Novosibirsk Oblast	politicalGroups	Fair Russia
+Legislative Assembly of Novosibirsk Oblast	politicalGroups	Liberal Democratic Party of Russia
+San Diego City Council	politicalGroups	Democratic Party
+San Diego City Council	politicalGroups	Republican
+Jharkhand Legislative Assembly	politicalGroups	Bharatiya Janata Party
+Jharkhand Legislative Assembly	politicalGroups	JMM
+Jharkhand Legislative Assembly	politicalGroups	INC
+Jharkhand Legislative Assembly	politicalGroups	AJSU
+Jharkhand Legislative Assembly	politicalGroups	JVM(P)
+Jharkhand Legislative Assembly	politicalGroups	BSP
+Jharkhand Legislative Assembly	politicalGroups	CPI(ML)(L)
+Jharkhand Legislative Assembly	politicalGroups	JKP
+Jharkhand Legislative Assembly	politicalGroups	MCC
+Jharkhand Legislative Assembly	politicalGroups	JBSP
+Jharkhand Legislative Assembly	politicalGroups	NSM
+Jharkhand Legislative Assembly	politicalGroups	Nominated
+Manipur Legislative Assembly	politicalGroups	Government \n*  INC \nOpposition \n*  AITC \n*  NPF \n*  BJP \n*  NCP \n*  LJP
+Sikkim Legislative Assembly	politicalGroups	200
+Sikkim Legislative Assembly	politicalGroups	SKM \n Ind
+Odisha Legislative Assembly	politicalGroups	Biju Janata Dal
+Odisha Legislative Assembly	politicalGroups	INC
+Odisha Legislative Assembly	politicalGroups	BJP
+Odisha Legislative Assembly	politicalGroups	SKD
+Odisha Legislative Assembly	politicalGroups	CPI(M)
+Odisha Legislative Assembly	politicalGroups	Independents
+Mizoram Legislative Assembly	politicalGroups	INC
+Mizoram Legislative Assembly	politicalGroups	MNF
+Mizoram Legislative Assembly	politicalGroups	MPC
+San Jose City Council	politicalGroups	Democratic
+San Jose City Council	politicalGroups	Republican
+San Jose City Council	politicalGroups	Independent
+Batangas Provincial Board	politicalGroups	*Liberal Party\n*Nationalist People's Coalition\n*United Nationalist Alliance
+59th Utah State Legislature	politicalGroups	Republican Party
+59th Utah State Legislature	politicalGroups	Democratic Party
+New Jersey Legislative Districts, 2011 apportionment	politicalGroups	Democratic Party
+New Jersey Legislative Districts, 2011 apportionment	politicalGroups	Republican Party
+Canarian Parliament	politicalGroups	Government \n* CC \n* PSOE \nConfidence and supply \n* ASG \nOpposition \n* PP \n* Podemos  \n* NC
+Terengganu State Legislative Assembly	politicalGroups	Government
+Terengganu State Legislative Assembly	politicalGroups	Barisan Nasional
+Terengganu State Legislative Assembly	politicalGroups	:EXCO Members: 10\n:Backbenchers: 7\n* UMNO \nOpposition
+Terengganu State Legislative Assembly	politicalGroups	PAS
+Terengganu State Legislative Assembly	politicalGroups	Pakatan Harapan
+Terengganu State Legislative Assembly	politicalGroups	* PKR \n Independent
+Terengganu State Legislative Assembly	politicalGroups	Vacant
+Landtag of South Tyrol	politicalGroups	Government \n*  SVP \n*  PD \nOpposition \n*  dF \n*  Greens \n*  STF \n*  FI/LN \n*  M5S \n*  BU/LD \n*  Cuore
+National Legislature	politicalGroups	NCP
+National Legislature	politicalGroups	SPLM
+National Legislature	politicalGroups	Vacant constituency
+National Legislature	politicalGroups	SPLM - DC
+National Legislature	politicalGroups	Independents
+Council of States	politicalGroups	NCP
+Council of States	politicalGroups	SPLM
+Council of States	politicalGroups	Vacant constituency
+National Legislative Assembly	politicalGroups	SPLM
+National Legislative Assembly	politicalGroups	SPLM - DC
+National Legislative Assembly	politicalGroups	Independents
+List of Montana State Representatives	politicalGroups	Montana Republican Party
+List of Montana State Representatives	politicalGroups	Montana Democratic Party
+List of Montana State Senators	politicalGroups	Montana Republican Party
+List of Montana State Senators	politicalGroups	Montana Democratic Party
+Reykjavík City Council	politicalGroups	Government \n:
+Reykjavík City Council	politicalGroups	Social Democratic Alliance
+Reykjavík City Council	politicalGroups	: Bright Future \n: Left-Green Movement \n: Pirate Party \n\nOpposition \n: Independence Party \n: Progressive Party
+Buenos Aires Province Chamber of Deputies	politicalGroups	* Front for Victory \n* Cambiemos \n* United for a New Alternative \n* Broad Progressive Front \n* Justicialismo Bonarense \n* Workers' Left Front \n* Unión Popular
+Loudoun County Board of Supervisors	politicalGroups	Republican Party
+Kaohsiung City Council	politicalGroups	DPP
+Kaohsiung City Council	politicalGroups	KMT
+Kaohsiung City Council	politicalGroups	Independent
+Kaohsiung City Council	politicalGroups	NPSU
+Kaohsiung City Council	politicalGroups	PFP
+Kaohsiung City Council	politicalGroups	TSU
+Tainan City Council	politicalGroups	DPP
+Tainan City Council	politicalGroups	KMT
+Tainan City Council	politicalGroups	NPSU
+Tainan City Council	politicalGroups	TSU
+Hugglescote and Donington le Heath	politicalGroups	Labour
+Hugglescote and Donington le Heath	politicalGroups	Independents
+Hugglescote and Donington le Heath	politicalGroups	Conservative
+Tipperary County Council	politicalGroups	Council Control  \n* Fianna Fáil \n* Fine Gael \n* Labour Party \nCouncil Opposition \n* Sinn Féin \n* WUAG \n* Independent
+Nebraska Legislature	politicalGroups	Non-partisan democracy
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Social Democratic Party of Bosnia and Herzegovina
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Party of Democratic Action
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Union for a Better Future of BiH
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Croatian Democratic Union of Bosnia and Herzegovina
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Party for Bosnia and Herzegovina
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	People's Party Work for Betterment
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Croatian Democratic Union 1990
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Croatian Party of Rights of Bosnia and Herzegovina
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Party of Democratic Progress
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Democratic People's Union
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Alliance of Independent Social Democrats
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Democratic People's Alliance
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Liberal Democratic Party
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Bosnian Party
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Our Party
+Parliament of the Federation of Bosnia and Herzegovina	politicalGroups	Independent
+Gilgit-Baltistan Legislative Assembly	politicalGroups	Government \n* PML(N) \nOpposition \n* ITP \n* MWM \n* BNF \n* JUI F \n* PPP \n* PTI \n* Independent
+Yerevan City Council	politicalGroups	Republican Party of Armenia
+Yerevan City Council	politicalGroups	Prosperous Armenia
+Yerevan City Council	politicalGroups	Barev Yerevan
+General National Congress	politicalGroups	National Forces Alliance
+General National Congress	politicalGroups	Justice and Construction
+General National Congress	politicalGroups	National Front
+General National Congress	politicalGroups	Union for the Homeland
+General National Congress	politicalGroups	National Centrist
+General National Congress	politicalGroups	Wadi Al-Hayah
+General National Congress	politicalGroups	Other parties/blocs
+General National Congress	politicalGroups	Independents
+Llanbadarn Fawr Community Council	politicalGroups	Independents
+Llanbadarn Fawr Community Council	politicalGroups	Plaid Cymru
+Llanbadarn Fawr Community Council	politicalGroups	Labour
+Llanbadarn Fawr Community Council	politicalGroups	Liberal Democrats
+Parliament of Malta	politicalGroups	Government\n: Labour Party \n\nOpposition\n: Nationalist Party \n: Democratic Party \n: Independent
+General Junta of the Principality of Asturias	politicalGroups	PSOE
+General Junta of the Principality of Asturias	politicalGroups	PP
+General Junta of the Principality of Asturias	politicalGroups	Podemos
+General Junta of the Principality of Asturias	politicalGroups	IU-IX
+General Junta of the Principality of Asturias	politicalGroups	FAC
+General Junta of the Principality of Asturias	politicalGroups	C's
+11th Regional Legislature	politicalGroups	Socialist Party
+11th Regional Legislature	politicalGroups	Social Democratic Party
+11th Regional Legislature	politicalGroups	Democratic and Social Centre – People's Party
+11th Regional Legislature	politicalGroups	Left Bloc
+11th Regional Legislature	politicalGroups	Portuguese Communist Party
+11th Regional Legislature	politicalGroups	People's Monarchist Party
+Indore Municipal Corporation	politicalGroups	Bharatiya Janata Party
+Indore Municipal Corporation	politicalGroups	Indian National Congress
+Provincial Assembly of Balochistan	politicalGroups	Government \n* PML-N \n* PMAP \n* NP \n* PML-Q \n* MWP \nOpposition \n* JUI-F \n* BNP \n* ANP \nNon-aligned \n* BNP-A \n* Independent
+Legislative Assembly of Emilia-Romagna	politicalGroups	Government \n*  PD \n*  SEL \nOpposition \n*  LN \n*  M5S \n*  FI \n*  FDI \n*  AER
+Vasai-Virar City Municipal Corporation	politicalGroups	Bahujan Vikas Aghadi
+Vasai-Virar City Municipal Corporation	politicalGroups	VVSVA
+Vasai-Virar City Municipal Corporation	politicalGroups	Shiv Sena
+Vasai-Virar City Municipal Corporation	politicalGroups	BJP
+Vasai-Virar City Municipal Corporation	politicalGroups	INC
+History of the National Assembly of Pakistan	politicalGroups	Pakistan Peoples Party
+History of the National Assembly of Pakistan	politicalGroups	PML-(N)
+History of the National Assembly of Pakistan	politicalGroups	PML-(Q)
+National People's Congress	politicalGroups	*  CPC \n*  United Front
+Palestinian legislative election, 2006	politicalGroups	Hamas
+Palestinian legislative election, 2006	politicalGroups	Fatah
+Palestinian legislative election, 2006	politicalGroups	PFLP
+Palestinian legislative election, 2006	politicalGroups	Palestinian People's Party
+Palestinian legislative election, 2006	politicalGroups	Democratic Front for the Liberation of Palestine
+Palestinian legislative election, 2006	politicalGroups	Independent Palestine
+Palestinian legislative election, 2006	politicalGroups	Third Way
+Palestinian legislative election, 2006	politicalGroups	Independents
+68th Colorado General Assembly	politicalGroups	Democratic Party
+68th Colorado General Assembly	politicalGroups	Republican Party
+Parliament of Equatorial Guinea	politicalGroups	Government \n*  PDGE \nOpposition \n*  CPDS
+Local government in Northampton	politicalGroups	Conservative Party
+Local government in Northampton	politicalGroups	Labour Party
+Local government in Northampton	politicalGroups	Liberal Democrats
+Cortes of Castilla-La Mancha	politicalGroups	* PP \n* PSOE \n* Podemos
+Senate	politicalGroups	Government \n*  PDGE \nOpposition \n*  CPDS
+Dasmariñas City Council	politicalGroups	* National Unity Party\n* Liberal Party\n* Lakas-CMD
+Parliament of the Chechen Republic	politicalGroups	United Russia
+Parliament of the Chechen Republic	politicalGroups	Just Russia
+Legislative Assembly of the Jewish Autonomous Oblast	politicalGroups	United Russia
+Legislative Assembly of the Jewish Autonomous Oblast	politicalGroups	Communist Party of the Russian Federation
+Legislative Assembly of the Jewish Autonomous Oblast	politicalGroups	LDPR
+Legislative Assembly of the Jewish Autonomous Oblast	politicalGroups	Just Russia
+Cortes of Castile and León	politicalGroups	* PP \n* PSOE \n* Podemos \n* C’s \n* IU-Equo \n* UPL
+Regional Assembly of Murcia	politicalGroups	* PP \n* PSOE \n* Podemos \n* C's
+Parliament of La Rioja	politicalGroups	Government:\n* PP \n* C's \nOpposition:\n* PSOE \n* Podemos
+Cabuyao City Council	politicalGroups	* Liberal \n* Nacionalista
+Dáil Éireann	politicalGroups	Government \n* Fine Gael  \n* Independent \nConfidence and supply  \n* Fianna Fáil \nOther opposition \n* Sinn Féin  \n* Labour Party  \n*
+Dáil Éireann	politicalGroups	Anti-Austerity Alliance–People Before Profit
+Dáil Éireann	politicalGroups	* I4C  \n* Green Party  \n* Social Democrats  \n* WUA  \n* Independent  \nCeann Comhairle
+Dáil Éireann	politicalGroups	* Seán Ó Fearghaíl
+Palestinian Legislative Council	politicalGroups	Government \n* Hamas \nOpposition '''\n*Palestine Liberation Organization \n** Fatah \n** Popular Front for the Liberation of Palestine \n** Democratic Front for the Liberation of Palestine \n** Palestinian People's Party  \n* Palestinian National Initiative \n* Third Way \n* Independents
+Laguna Provincial Board	politicalGroups	* UNA \n* Liberal Party \n* Nacionalista Party  \n* Independent
+Rio Rancho City Council	politicalGroups	Super Majority\n*  Republican \nMinority\n*  Democrat
+Zamboanga City Council	politicalGroups	* LDP \n* UNA \n* Liberal \n* AZAP \n* NPC \n* Independent \n*    Sectoral
+Saint Paul City Council	politicalGroups	DFL
+Armagh, Banbridge and Craigavon District Council	politicalGroups	DUP
+Armagh, Banbridge and Craigavon District Council	politicalGroups	UUP
+Armagh, Banbridge and Craigavon District Council	politicalGroups	Sinn Féin
+Armagh, Banbridge and Craigavon District Council	politicalGroups	SDLP
+Armagh, Banbridge and Craigavon District Council	politicalGroups	UKIP
+Armagh, Banbridge and Craigavon District Council	politicalGroups	Independents
+Lisburn and Castlereagh City Council	politicalGroups	DUP
+Lisburn and Castlereagh City Council	politicalGroups	UUP
+Lisburn and Castlereagh City Council	politicalGroups	Alliance
+Lisburn and Castlereagh City Council	politicalGroups	SDLP
+Lisburn and Castlereagh City Council	politicalGroups	TUV
+Newry, Mourne and Down District Council	politicalGroups	Sinn Fein
+Newry, Mourne and Down District Council	politicalGroups	SDLP
+Newry, Mourne and Down District Council	politicalGroups	DUP
+Newry, Mourne and Down District Council	politicalGroups	UUP
+Newry, Mourne and Down District Council	politicalGroups	Alliance
+Newry, Mourne and Down District Council	politicalGroups	TUV
+Newry, Mourne and Down District Council	politicalGroups	Independents
+Waterford City and County Council	politicalGroups	Fianna Fáil
+Waterford City and County Council	politicalGroups	Fine Gael
+Waterford City and County Council	politicalGroups	Sinn Féin
+Waterford City and County Council	politicalGroups	Labour Party
+Waterford City and County Council	politicalGroups	Independent
+Limerick City and County Council	politicalGroups	Council Control \n* Fine Gael  \n* Labour Party  \nSupply and Confidence  \n* Independent \nCouncil Opposition \n* Fianna Fáil \n* Sinn Féin  \n* Anti-Austerity Alliance
+Legislature Parliament of Nepal	politicalGroups	Government \n*  Communist Party of Nepal (Unified Marxist–Leninist) \n*  Communist Party of Nepal (Maoist-Centre) \n*  Rastriya Prajatantra Party Nepal \n*  Madhesi People's Right Forum, Nepal  \n*  Communist Party of Nepal (Marxist–Leninist) (2002) \n*  Rastriya Janamorcha \n\nOpposition \n*  Nepali Congress \n\nOthers \n*  Federal Socialist Forum Nepal \n*  Rastriya Prajatantra Party \n*  Tarai-Madhesh Loktantrik Party \n*  Sadbhavana Party \n*  Nepal Workers Peasants Party \n*  Communist Party of Nepal (United) \n*  National Madhesh Socialist Party \n*  Terai Madhes Sadbhavana Party \n*  Rastriya Janamukti Party \n*  Tharuhat Tarai Party Nepal \n*  Nepal Pariwar Dal \n*  Dalit Janajati Party \n*  Akhanda Nepal Party \n*  Nepali Janata Dal \n*  Khambuwan Rashtriya Morchan Nepal \n*  Nepa Rastriya Party \n*  Jana Jagaran Party Nepal \n*  Nepal Sadbhavana Party \n*  Socialist People's Party \n*  Federal Democratic National Forum  \n*  Madeshi People's Right Forum  \n*  Madesh Samata Party Nepal \n*  Independent \n*  Nominated
+Legislative Assembly of Madeira	politicalGroups	Regional Government\n*
+Legislative Assembly of Madeira	politicalGroups	Social Democratic Party
+Legislative Assembly of Madeira	politicalGroups	Opposition\n* CDS-PP \n* PS-PTP-PAN-MPT \n* JPP \n*
+Legislative Assembly of Madeira	politicalGroups	Portuguese Communist Party
+Legislative Assembly of Madeira	politicalGroups	* BE \n* PND
+Chhattisgarh Legislative Assembly	politicalGroups	BJP
+Chhattisgarh Legislative Assembly	politicalGroups	INC
+Chhattisgarh Legislative Assembly	politicalGroups	BSP \n Independent
+Goa Legislative Assembly	politicalGroups	BJP
+Goa Legislative Assembly	politicalGroups	Congress
+Goa Legislative Assembly	politicalGroups	MGP
+Goa Legislative Assembly	politicalGroups	GVP
+Goa Legislative Assembly	politicalGroups	Independents
+Arunachal Pradesh Legislative Assembly	politicalGroups	Government \n*  People's Party of Arunachal \n*  Bharatiya Janata Party \n*  Independents \n\nOpposition parties \n*  Vacant (3)\n*  Indian National Congress
+Haryana Legislative Assembly	politicalGroups	Bharatiya Janata Party
+Haryana Legislative Assembly	politicalGroups	INLD
+Haryana Legislative Assembly	politicalGroups	Indian National Congress
+Haryana Legislative Assembly	politicalGroups	Independents
+Haryana Legislative Assembly	politicalGroups	BSP
+Haryana Legislative Assembly	politicalGroups	Shiromani Akali Dal
+Madhya Pradesh Legislative Assembly	politicalGroups	BJP
+Madhya Pradesh Legislative Assembly	politicalGroups	INC
+Madhya Pradesh Legislative Assembly	politicalGroups	BSP
+Madhya Pradesh Legislative Assembly	politicalGroups	Others
+Maharashtra Legislative Assembly	politicalGroups	Bharatiya Janata Party
+Maharashtra Legislative Assembly	politicalGroups	SS
+Maharashtra Legislative Assembly	politicalGroups	INC
+Maharashtra Legislative Assembly	politicalGroups	NCP
+Maharashtra Legislative Assembly	politicalGroups	PWP
+Maharashtra Legislative Assembly	politicalGroups	BVA
+Maharashtra Legislative Assembly	politicalGroups	AIMIM
+Maharashtra Legislative Assembly	politicalGroups	MNS
+Maharashtra Legislative Assembly	politicalGroups	RSP
+Maharashtra Legislative Assembly	politicalGroups	CPI(M)
+Maharashtra Legislative Assembly	politicalGroups	BBM
+Maharashtra Legislative Assembly	politicalGroups	SP
+Maharashtra Legislative Assembly	politicalGroups	Independent
+Kanpur Municipal Corporation	politicalGroups	Indian National Congress
+Hsinchu City Council	politicalGroups	KMT
+Hsinchu City Council	politicalGroups	NP
+Hsinchu City Council	politicalGroups	DPP
+Hsinchu City Council	politicalGroups	TSU
+Chiayi City Council	politicalGroups	NPSU
+Chiayi City Council	politicalGroups	KMT
+Chiayi City Council	politicalGroups	DPP
+Chiayi City Council	politicalGroups	TSU
+Yilan County Council	politicalGroups	DPP
+Yilan County Council	politicalGroups	KMT
+Yilan County Council	politicalGroups	PFP
+Yilan County Council	politicalGroups	NPSU
+Changhua County Council	politicalGroups	KMT
+Changhua County Council	politicalGroups	DPP
+Changhua County Council	politicalGroups	NPSU
+Chiayi County Council	politicalGroups	DPP
+Chiayi County Council	politicalGroups	NPSU
+Chiayi County Council	politicalGroups	KMT
+Hsinchu County Council	politicalGroups	KMT
+Hsinchu County Council	politicalGroups	DPP
+Hsinchu County Council	politicalGroups	MKT
+Hsinchu County Council	politicalGroups	Labour
+Hsinchu County Council	politicalGroups	Green
+Hsinchu County Council	politicalGroups	Independent
+Taitung County Council	politicalGroups	KMT
+Taitung County Council	politicalGroups	NPSU
+Taitung County Council	politicalGroups	DPP
+Kinmen County Council	politicalGroups	KMT
+Kinmen County Council	politicalGroups	NPSU
+Kinmen County Council	politicalGroups	DPP
+Penghu County Council	politicalGroups	NPSU
+Penghu County Council	politicalGroups	KMT
+Penghu County Council	politicalGroups	DPP
+Lienchiang County Council	politicalGroups	KMT
+Lienchiang County Council	politicalGroups	NPSU
+Hualien County Council	politicalGroups	KMT
+Hualien County Council	politicalGroups	NPSU
+Hualien County Council	politicalGroups	DPP
+Miaoli County Council	politicalGroups	KMT
+Miaoli County Council	politicalGroups	NPSU
+Miaoli County Council	politicalGroups	DPP
+Pingtung County Council	politicalGroups	KMT
+Pingtung County Council	politicalGroups	DPP
+Pingtung County Council	politicalGroups	NPSU
+Pingtung County Council	politicalGroups	TSU
+Yunlin County Council	politicalGroups	NPSU
+Yunlin County Council	politicalGroups	DPP
+Yunlin County Council	politicalGroups	KMT
+Yunlin County Council	politicalGroups	TSU
+Taoyuan City Council	politicalGroups	KMT
+Taoyuan City Council	politicalGroups	DPP
+Taoyuan City Council	politicalGroups	NPSU
+Taoyuan City Council	politicalGroups	Green
+Taoyuan City Council	politicalGroups	TSU
+Taoyuan City Council	politicalGroups	Independent
+States of Drenthe	politicalGroups	Labour Party
+States of Drenthe	politicalGroups	People's Party for Freedom and Democracy
+States of Drenthe	politicalGroups	Christian Democratic Appeal
+States of Drenthe	politicalGroups	Party for Freedom
+States of Drenthe	politicalGroups	Socialist Party
+States of Drenthe	politicalGroups	Democrats 66
+States of Drenthe	politicalGroups	ChristianUnion
+States of Drenthe	politicalGroups	GreenLeft
+States of North Brabant	politicalGroups	People's Party for Freedom and Democracy
+States of North Brabant	politicalGroups	Christian Democratic Appeal
+States of North Brabant	politicalGroups	Socialist Party
+States of North Brabant	politicalGroups	Party for Freedom
+States of North Brabant	politicalGroups	Democrats 66
+States of North Brabant	politicalGroups	Labour Party
+States of North Brabant	politicalGroups	GreenLeft
+States of North Brabant	politicalGroups	50
+States of North Brabant	politicalGroups	Party for the Animals
+States of North Brabant	politicalGroups	ChristianUnion
+States of North Brabant	politicalGroups	Reformed Political Party
+States of North Brabant	politicalGroups	Lokaal Brabant
+Telangana Legislative Council	politicalGroups	Telangana Rashtra Samithi
+Telangana Legislative Council	politicalGroups	Indian National Congress
+Telangana Legislative Council	politicalGroups	AIMIM
+Telangana Legislative Council	politicalGroups	BJP
+Telangana Legislative Council	politicalGroups	Independent politician
+Telangana Legislative Assembly	politicalGroups	Telangana Rashtra Samithi
+Telangana Legislative Assembly	politicalGroups	Indian National Congress
+Telangana Legislative Assembly	politicalGroups	All India Majlis-e-Ittehadul Muslimeen
+Telangana Legislative Assembly	politicalGroups	Bharatiya Janata Party
+Telangana Legislative Assembly	politicalGroups	Telugu Desam Party
+Telangana Legislative Assembly	politicalGroups	Communist Party of India
+Shanghai People's Congress	politicalGroups	CPC
+Shanghai People's Congress	politicalGroups	United Front \n*  RCK \n*  CDL \n*  CDNCA \n*  CAPD \n*  CPWDP \n*  CPPI \n*  STS \n*  TDSL \n*  others \n Independents \n PLA
+Shanghai People's Congress	politicalGroups	United Front \n*  RCK \n*  CDL \n*  CDNCA \n*  CAPD \n*  CPWDP \n*  CPPI \n*  STS \n*  TDSL \n Independents \n PLA
+Dehradun Municipal Corporation	politicalGroups	Bharatiya Janata Party
+Dehradun Municipal Corporation	politicalGroups	Indian National Congress
+Dehradun Municipal Corporation	politicalGroups	Bahujan Samaj Party
+General Assembly of Gipuzkoa	politicalGroups	Government parties\n*EAJ \n*PSE-EE \nOpposition parties\n*EH Bildu \n*Podemos \n*PP
+People's Soviet of the Donetsk People's Republic	politicalGroups	Government\n* Donetsk Republic  \nOpposition\n* Free Donbass
+Greater Warangal Municipal Corporation	politicalGroups	Telangana Rashtra Samithi
+Greater Warangal Municipal Corporation	politicalGroups	Indian National Congress
+Greater Warangal Municipal Corporation	politicalGroups	Bharatiya Janata Party
+Greater Warangal Municipal Corporation	politicalGroups	Communist Party of India
+Greater Warangal Municipal Corporation	politicalGroups	Other
+First Legislative Assembly of Delhi	politicalGroups	Bhartiya Janta Party
+First Legislative Assembly of Delhi	politicalGroups	INC
+First Legislative Assembly of Delhi	politicalGroups	JD
+First Legislative Assembly of Delhi	politicalGroups	Independent politician
+Fifth Legislative Assembly of Delhi	politicalGroups	Bhartiya Janta Party
+Fifth Legislative Assembly of Delhi	politicalGroups	AAP
+Fifth Legislative Assembly of Delhi	politicalGroups	INC
+Fifth Legislative Assembly of Delhi	politicalGroups	Independent politician
+Fifth Legislative Assembly of Delhi	politicalGroups	Janata Dal
+Fifth Legislative Assembly of Delhi	politicalGroups	Shiromani Akali Dal
+Second Legislative Assembly of Delhi	politicalGroups	Indian National Congress
+Second Legislative Assembly of Delhi	politicalGroups	Bhartiya Janta Party
+Second Legislative Assembly of Delhi	politicalGroups	Janata Dal
+Third Legislative Assembly of Delhi	politicalGroups	Indian National Congress
+Third Legislative Assembly of Delhi	politicalGroups	Bhartiya Janta Party
+Third Legislative Assembly of Delhi	politicalGroups	Janata Dal
+Third Legislative Assembly of Delhi	politicalGroups	NCP
+Third Legislative Assembly of Delhi	politicalGroups	IND
+Fourth Legislative Assembly of Delhi	politicalGroups	Indian National Congress
+Fourth Legislative Assembly of Delhi	politicalGroups	Bhartiya Janta Party
+Fourth Legislative Assembly of Delhi	politicalGroups	BSP
+Fourth Legislative Assembly of Delhi	politicalGroups	LJP
+Fourth Legislative Assembly of Delhi	politicalGroups	Independent politician
+Mohali Municipal Corporation	politicalGroups	Azad Group
+Mohali Municipal Corporation	politicalGroups	Shiromani Akali Dal
+Mohali Municipal Corporation	politicalGroups	Bharatiya Janata Party
+Mohali Municipal Corporation	politicalGroups	Indian National Congress
+Assembly of Extremadura	politicalGroups	* PSOE \n* PP \n* Podemos \n* C's
+Autonomous Regional Council of the South Caribbean Coast	politicalGroups	Government\n* FSLN \n* PIM \nOpposition parties\n* PLC \n* YATAMA \n* PLI
+Leyte Provincial Board	politicalGroups	Liberal Party
+Uckfield Town Council	politicalGroups	TRUST Independent
+Uckfield Town Council	politicalGroups	Liberal Democrats
+Uckfield Town Council	politicalGroups	Independents
+Uckfield Town Council	politicalGroups	Conservative Party
+First Legislative Assembly of Uttar Pradesh	politicalGroups	Indian National Congress
+First Legislative Assembly of Uttar Pradesh	politicalGroups	SP
+First Legislative Assembly of Uttar Pradesh	politicalGroups	Independent politician
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	Samajwadi Party
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	Bahujan Samaj Party
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	Bharatiya Janata Party
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	Indian National Congress
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	Rashtriya Lok Dal
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	Independent
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	PECP
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	Quami Ekta Dal
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	TMC
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	Apna Dal
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	Ittehad-e-Millat Council
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	NCP  and
+Sixteenth Legislative Assembly of Uttar Pradesh	politicalGroups	Nominated Member of Legislative Assembly
+Southern Leyte Provincial Board	politicalGroups	National Unity Party
+Regional Junta of the Azores	politicalGroups	Socialist Party, Social Democratic Party, Independent
+Yangon Region Hluttaw	politicalGroups	National League for Democracy *
+Yangon Region Hluttaw	politicalGroups	Military
+Yangon Region Hluttaw	politicalGroups	Union Solidarity and Development Party
+Yangon Region Hluttaw	politicalGroups	Arakan National Party *
+Mandalay Region Hluttaw	politicalGroups	National League for Democracy *
+Mandalay Region Hluttaw	politicalGroups	Military
+Mandalay Region Hluttaw	politicalGroups	Union Solidarity and Development Party
+Mandalay Region Hluttaw	politicalGroups	Democratic Party
+Mon State Hluttaw	politicalGroups	National League for Democracy *
+Mon State Hluttaw	politicalGroups	Military
+Mon State Hluttaw	politicalGroups	Mon National Party
+Mon State Hluttaw	politicalGroups	All Mon Region Democracy Party
+Mon State Hluttaw	politicalGroups	Union Solidarity and Development Party
+People's Assembly	politicalGroups	Burma Socialist Programme Party
+Chin State Hluttaw	politicalGroups	National League for Democracy
+Chin State Hluttaw	politicalGroups	Military
+Chin State Hluttaw	politicalGroups	Union Solidarity and Development Party
+Chin State Hluttaw	politicalGroups	Zomi Congress for Democracy
+Kayah State Hluttaw	politicalGroups	National League for Democracy
+Kayah State Hluttaw	politicalGroups	Military
+Kayah State Hluttaw	politicalGroups	Union Solidarity and Development Party *
+Kachin State Hluttaw	politicalGroups	National League for Democracy *
+Kachin State Hluttaw	politicalGroups	Military
+Kachin State Hluttaw	politicalGroups	Union Solidarity and Development Party
+Kachin State Hluttaw	politicalGroups	Kachin State Democracy Party
+Kachin State Hluttaw	politicalGroups	Lisu National Development Party
+Kachin State Hluttaw	politicalGroups	Shan Nationalities League for Democracy
+Kachin State Hluttaw	politicalGroups	Unity and Democracy Party of Kachin State
+Kayin State Hluttaw	politicalGroups	National League for Democracy *
+Kayin State Hluttaw	politicalGroups	Military
+Kayin State Hluttaw	politicalGroups	Union Solidarity and Development Party
+Kayin State Hluttaw	politicalGroups	Kayin People's Party
+Rakhine State Hluttaw	politicalGroups	Arakan National Party
+Rakhine State Hluttaw	politicalGroups	Military
+Rakhine State Hluttaw	politicalGroups	National League for Democracy *
+Rakhine State Hluttaw	politicalGroups	Union Solidarity and Development Party
+Rakhine State Hluttaw	politicalGroups	Independent
+Ayeyarwady Region Hluttaw	politicalGroups	National League for Democracy *
+Ayeyarwady Region Hluttaw	politicalGroups	Military
+Ayeyarwady Region Hluttaw	politicalGroups	Union Solidarity and Development Party
+Taninthayi Region Hluttaw	politicalGroups	National League for Democracy *
+Taninthayi Region Hluttaw	politicalGroups	Military
+Magway Region Hluttaw	politicalGroups	National League for Democracy *
+Magway Region Hluttaw	politicalGroups	Military
+Sagaing Region Hluttaw	politicalGroups	National League for Democracy *
+Sagaing Region Hluttaw	politicalGroups	Military
+Sagaing Region Hluttaw	politicalGroups	Union Solidarity and Development Party
+Sagaing Region Hluttaw	politicalGroups	Tai-Leng Nationalities Development Party *
+Shan State Hluttaw	politicalGroups	Military
+Shan State Hluttaw	politicalGroups	Union Solidarity and Development Party *
+Shan State Hluttaw	politicalGroups	Shan Nationalities League for Democracy
+Shan State Hluttaw	politicalGroups	National League for Democracy *
+Shan State Hluttaw	politicalGroups	Ta'ang National Party
+Shan State Hluttaw	politicalGroups	Pa-O National Organization
+Shan State Hluttaw	politicalGroups	Lahu National Development Party *
+Shan State Hluttaw	politicalGroups	Wa Democratic Party
+Shan State Hluttaw	politicalGroups	Akha National Development Party *
+Shan State Hluttaw	politicalGroups	Kokang Democracy and Unity Party
+Shan State Hluttaw	politicalGroups	Lisu National Development Party *
+Shan State Hluttaw	politicalGroups	Wa National Unity Party
+Shan State Hluttaw	politicalGroups	Independent *\n Vacant
+Bago Region Hluttaw	politicalGroups	National League for Democracy *
+Bago Region Hluttaw	politicalGroups	Military
+Bago Region Hluttaw	politicalGroups	Union Solidarity and Development Party
+General Assembly of Budapest	politicalGroups	* Fidesz–KDNP \n* MSZP \n* DK \n* Együtt \n* PM \n* LMP \n* Jobbik \n* SCSZ
+Secretariat of the Naifaru Council	politicalGroups	Progressive Party of Maldives
+Secretariat of the Naifaru Council	politicalGroups	Maldivian Democratic Party
+Secretariat of the Naifaru Council	politicalGroups	Independent
+Assembly of Ceuta	politicalGroups	* PP \n* PSOE \n* Caballas \n* MDyC \n* C's
+Ujjain Municipal Corporation	politicalGroups	Bharatiya Janata Party
+Ujjain Municipal Corporation	politicalGroups	Indian National Congress
+List of heads of state of France	politicalGroups	*  The Marsh \n*  The Mountain \n*  The Gironde
+Romblon Provincial Board	politicalGroups	*Liberal Party\n*Nacionalista Party\n*Nationalist People's Coalition\n*United Nationalist Alliance\n*KAMPI\n*Lakas-CMD
+List of members of the Iraqi Kurdistan Parliament	politicalGroups	Parties Represented in Parliament
+List of members of the Iraqi Kurdistan Parliament	politicalGroups	* KDP \n* Gorran \n* PUK \n* Yekgirtû \n* KIK \n* Others \n* Reserved for minorities
+Yarra City Council	politicalGroups	Greens
+Yarra City Council	politicalGroups	Labor
+Yarra City Council	politicalGroups	Independents
+Yarra City Council	politicalGroups	Socialist
+1st Plurinational Legislative Assembly of Bolivia	politicalGroups	* MAS-IPSP \n* PPB-CN
+1st Plurinational Legislative Assembly of Bolivia	politicalGroups	* MAS-IPSP \n* PPB-CN \n* UN \n* AS
+Second Legislative Assembly of Uttar Pradesh	politicalGroups	Indian National Congress
+Second Legislative Assembly of Uttar Pradesh	politicalGroups	Praja Socialist Party
+Second Legislative Assembly of Uttar Pradesh	politicalGroups	Bhartiya Jana Sangh
+Second Legislative Assembly of Uttar Pradesh	politicalGroups	Communist Party of India
+Second Legislative Assembly of Uttar Pradesh	politicalGroups	Akhil Bharatiya Ram Rajya Parishad
+Second Legislative Assembly of Uttar Pradesh	politicalGroups	Independent politician
+South Hams District Council	politicalGroups	Conservative
+South Hams District Council	politicalGroups	Green
+South Hams District Council	politicalGroups	Liberal Democrats
+South Hams District Council	politicalGroups	Labour
+High Council of State	politicalGroups	New GNC
+High Council of State	politicalGroups	Old GNC
+Municipal Corporation Chandigarh	politicalGroups	Bharatiya Janata Party
+Municipal Corporation Chandigarh	politicalGroups	Shiromani Akali Dal
+Municipal Corporation Chandigarh	politicalGroups	Indian National Congress
+Municipal Corporation Chandigarh	politicalGroups	Bahujan Samaj Party
+Municipal Corporation Chandigarh	politicalGroups	Independent  + 9 nominated members
+Syrian Democratic Council	politicalGroups	Government parties \n*  TEV-DEM 8\n*  TWDS 4\n*  QMH 3\n*  HRC 2\n*  ENKS 2\n*  Other 6\nOther parliamentary parties \n*  HNKS 3\n*  KDCK 2\n*  SDS 1\n*  SDMP 1\n*  Other 11
+Assembly of Melilla	politicalGroups	* PP \n* CPM \n* PSOE \n* C's \n* PPL
+Parliament of the Balearic Islands	politicalGroups	Government \n* PSOE \n* MÉS \n* GxF \nSupported by \n* Podemos \nOpposition \n* PP \n* PI \n* C's
+Hadlow Down Parish Council	politicalGroups	Independent
+Buxted Parish Council	politicalGroups	Independent
+Constituent Assembly of Costa Rica	politicalGroups	*  PUN \n*  PC \n*  PSD \n*  CN
+National Legislative Assembly of Thailand	politicalGroups	Appointed from various sectors by the National Council for Peace and Order
+44th Parliament of Australia	politicalGroups	Government \n* Coalition \n**  Liberal \n**  LNP \n**  Nationals \n**  CLP \nOpposition \n*  Labor \nCrossbench \n*  Greens \n*  KAP \n*  PUP \n*  Independent
+44th Parliament of Australia	politicalGroups	Government
+44th Parliament of Australia	politicalGroups	Coalition
+44th Parliament of Australia	politicalGroups	Liberal
+44th Parliament of Australia	politicalGroups	LNP
+44th Parliament of Australia	politicalGroups	Nationals
+44th Parliament of Australia	politicalGroups	CLP
+44th Parliament of Australia	politicalGroups	Opposition
+44th Parliament of Australia	politicalGroups	Labor
+44th Parliament of Australia	politicalGroups	Crossbench
+44th Parliament of Australia	politicalGroups	Greens
+44th Parliament of Australia	politicalGroups	Family First
+44th Parliament of Australia	politicalGroups	LDP
+44th Parliament of Australia	politicalGroups	Motoring
+44th Parliament of Australia	politicalGroups	Palmer
+44th Parliament of Australia	politicalGroups	Independent
+Negros Occidental Provincial Board	politicalGroups	*Nationalist People's Coalition\n*Liberal Party\n*National Unity Party\n*United Negros Alliance
+Negros Oriental Provincial Board	politicalGroups	*Nationalist People's Coalition\n*Liberal Party\n*National Unity Party
+City Council of Milan	politicalGroups	Government \n* PD \n* NM \n* SI \nOpposition Parties\n* FI \n* LN \n* M5S \n* NCD \n* PRC
+Administration of Trivandrum district	politicalGroups	Left Democratic Front
+Administration of Trivandrum district	politicalGroups	BJP
+Administration of Trivandrum district	politicalGroups	United Democratic Front
+Administration of Trivandrum district	politicalGroups	Independents
+List of members of the Iraqi Kurdistan Parliament	politicalGroups	Parties Represented in Parliament
+List of members of the Iraqi Kurdistan Parliament	politicalGroups	* Kurdistan List \n* Gorran \n* Reform and Service List \n* IMK List \n* Social Justice and Freedom \n* Reserved for minorities
+Assembly of Representatives	politicalGroups	People's Democratic Party of Tajikistan
+Assembly of Representatives	politicalGroups	Agrarian Party
+Assembly of Representatives	politicalGroups	Party of Economic Reforms
+Assembly of Representatives	politicalGroups	Communist Party of Tajikistan
+Assembly of Representatives	politicalGroups	Socialist Party of Tajikistan
+Assembly of Representatives	politicalGroups	Democratic Party

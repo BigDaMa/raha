@@ -1,0 +1,202 @@
+Haemophilia	icdo	117
+Leukemia	icdo	9800
+Skin cancer	icdo	8010
+Non-Hodgkin lymphoma	icdo	9591
+Lymphoma	icdo	9590
+Mastocytosis	icdo	9741
+Bowen's disease	icdo	8081
+Myelodysplastic syndrome	icdo	9980
+Krukenberg tumor	icdo	8490
+Multiple endocrine neoplasia	icdo	8360
+Teratoma	icdo	9080
+Carcinoma	icdo	8010
+Mesothelioma	icdo	-9055
+Balanitis	icdo	;
+Ovarian cancer	icdo	varied
+Hemangiosarcoma	icdo	9120
+B-cell chronic lymphocytic leukemia	icdo	9670
+Philadelphia chromosome	icdo	9875
+Post-transplant lymphoproliferative disorder	icdo	M9970/1
+Erythema	icdo	l
+Rhabdomyosarcoma	icdo	-
+Gastrointestinal stromal tumor	icdo	-
+Tumors of the hematopoietic and lymphoid tissues	icdo	9590
+Glioma	icdo	-9460
+Basal-cell carcinoma	icdo	-8093
+Paget's disease of the breast	icdo	M8540/3
+Thymoma	icdo	8580
+Hypereosinophilic syndrome	icdo	9964
+Inflammatory breast cancer	icdo	8530
+Rhabdomyoma	icdo	8900
+Choriocarcinoma	icdo	-9101
+Oligodendroglioma	icdo	-9451
+Ependymoma	icdo	-9394
+Familial adenomatous polyposis	icdo	8220
+Menkes disease	icdo	?
+Leiomyoma	icdo	-8894
+Endometrioid tumor	icdo	8380
+Brenner tumour	icdo	9000
+Thecoma	icdo	8600
+Sex cord–gonadal stromal tumour	icdo	8590
+Granulosa cell tumour	icdo	8620
+Dysgerminoma	icdo	9060
+Germ cell tumor	icdo	9060
+Dermatofibrosarcoma protuberans	icdo	8833
+Chondrosarcoma	icdo	-9240
+Benign fibrous histiocytoma	icdo	M8830/0
+Myeloid sarcoma	icdo	9930
+Paraganglioma	icdo	-
+Glomus tumor	icdo	8711
+Cutaneous T cell lymphoma	icdo	,
+Myelofibrosis	icdo	9932
+Mastocytoma	icdo	M9740/1
+Chondroma	icdo	9220
+Fibroadenoma	icdo	-M9012, M9020, M9030
+Myeloproliferative neoplasm	icdo	9950
+Lymphangioleiomyomatosis	icdo	9174
+Langerhans cell histiocytosis	icdo	,
+Synovial sarcoma	icdo	-9043
+Pseudomyxoma peritonei	icdo	M8480
+Ameloblastoma	icdo	9310
+Cementoblastoma	icdo	9273
+Invasive carcinoma of no special type	icdo	-
+Myoma	icdo	M8895/3
+Enchondroma	icdo	9220
+Papilloma	icdo	8050
+Monoclonal gammopathy of undetermined significance	icdo	9765
+Desmoplastic small-round-cell tumor	icdo	8806
+Osteochondroma	icdo	9210
+Osteoma	icdo	9180
+Merkel-cell carcinoma	icdo	M8247/3
+Phyllodes tumor	icdo	M9020
+Hemangioendothelioma	icdo	9130
+Carcinoid syndrome	icdo	-8245
+Multiple endocrine neoplasia type 1	icdo	8360
+Desmoplastic fibroma	icdo	M8823/1
+Neuroma	icdo	9570
+Neurofibroma	icdo	-9550
+Embryonal carcinoma	icdo	-9072
+Nodular sclerosis	icdo	-9667
+Monocytic leukemia	icdo	9890
+Plasmacytoma	icdo	,
+Hurthle cell	icdo	8290
+Lymphangioma	icdo	9170
+Craniopharyngioma	icdo	9350
+Giant-cell tumor of bone	icdo	9250
+Warthin's tumor	icdo	8561
+Pleomorphic adenoma	icdo	8940
+Lymphangiosarcoma	icdo	9170
+Lentigo maligna	icdo	8742
+Adenomyoma	icdo	8932
+Cystadenoma	icdo	8440
+Syringoma	icdo	M8407/0
+Pinealoma	icdo	M9360/1-9362/3
+Letterer–Siwe disease	icdo	9722
+Peripheral ossifying fibroma	icdo	9262
+Cystic hygroma	icdo	M9173/0
+Angiomyolipoma	icdo	M8860/0
+Angiokeratoma	icdo	M9141/0
+Xanthochromia	icdo	R83.8
+Verrucous carcinoma	icdo	M8051/3
+Neuroendocrine tumor	icdo	M8013/3, M8041/3, M8246/3, M8247/3, M8574/3
+B-cell lymphoma	icdo	9680
+Intravascular large B-cell lymphoma	icdo	9712
+Lymphoepithelioma	icdo	M8082/3
+Malignant rhabdoid tumour	icdo	8963
+Osteochondromatosis	icdo	M9210/1
+Mixed Müllerian tumor	icdo	8950
+Germinoma	icdo	9060
+Extramammary Paget's disease	icdo	M8542/3
+Acinic cell carcinoma	icdo	M8550/3
+Traumatic neuroma	icdo	M9570/0
+Adenomatoid odontogenic tumor	icdo	M9300/0
+Odontoma	icdo	9280
+Odontogenic myxoma	icdo	9320
+Lymphomatoid granulomatosis	icdo	9766
+Chondroblastoma	icdo	9230
+Adamantinoma	icdo	9310
+Luteoma	icdo	8610
+Transitional cell carcinoma	icdo	-8130
+Osteoblastoma	icdo	9200
+Sarcoma botryoides	icdo	8910
+Dysembryoplastic neuroepithelial tumour	icdo	9413
+Large granular lymphocytic leukemia	icdo	9831
+Hepatosplenic T-cell lymphoma	icdo	9716
+Angioimmunoblastic T-cell lymphoma	icdo	9705
+Atypical teratoid rhabdoid tumor	icdo	9508
+Juvenile myelomonocytic leukemia	icdo	9946
+Pituicytoma	icdo	9432
+Cystadenocarcinoma	icdo	8440
+Adrenocortical adenoma	icdo	8370
+Apudoma	icdo	8248
+Trichilemmal cyst	icdo	8103
+Polyembryoma	icdo	M9072/3
+Gonadoblastoma	icdo	M9073/1
+Prolymphocytic leukemia	icdo	9832
+Lymphomatoid papulosis	icdo	9718
+Osteoid osteoma	icdo	9191
+Clear-cell adenocarcinoma of the vagina	icdo	8310
+Mesoblastic nephroma	icdo	8960
+Hidrocystoma	icdo	8404
+Cementoma	icdo	9272
+Adenomatoid tumor	icdo	9054
+Ossifying fibromyxoid tumour	icdo	8842
+Inverted papilloma	icdo	8053
+Acute basophilic leukemia	icdo	9870
+Choroid plexus carcinoma	icdo	9390
+Acute biphenotypic leukaemia	icdo	9805
+Plasma cell dyscrasia	icdo	9730
+Diaphragmatic rupture	icdo	S27.8
+Vascular tissue neoplasm	icdo	9120
+Capillary hemangioma	icdo	9131
+Halo nevus	icdo	8723
+Myxosarcoma	icdo	8840
+Aggressive angiomyxoma	icdo	8841
+Acute panmyelosis with myelofibrosis	icdo	9931
+Erythroplasia of Queyrat	icdo	M8080/2
+Glomangiosarcoma	icdo	8710
+Hibernoma	icdo	8880
+Lipoblastomatosis	icdo	8881
+Chondroid lipoma	icdo	8862
+Pleomorphic lipoma	icdo	8854
+Spindle cell lipoma	icdo	8857
+Myelolipoma	icdo	M8870/0
+Blastic NK cell lymphoma	icdo	9727
+Trichoepithelioma	icdo	8100
+Muscle tissue neoplasm	icdo	8890
+Adipose tissue neoplasm	icdo	8850
+Myxoid liposarcoma	icdo	8852
+Malignant acrospiroma	icdo	8402
+Spitz nevus	icdo	M8770/0
+Nevus sebaceous	icdo	M8410/0, M8410/3
+Syringocystadenoma papilliferum	icdo	8406
+Chondromyxoid fibroma	icdo	9241
+Clear-cell sarcoma	icdo	9044
+Histiocytic sarcoma	icdo	M9755/3
+Langerhans cell sarcoma	icdo	M9756/3
+Interdigitating dendritic cell sarcoma	icdo	M9757/3
+Mesenchymal chondrosarcoma	icdo	M9240/3
+Ecchondroma	icdo	M9210/0
+Neurocytoma	icdo	9506
+Pinealoblastoma	icdo	9362
+Mucinous cystadenocarcinoma	icdo	8470
+Serous cystadenocarcinoma	icdo	8441
+Pagetoid reticulosis	icdo	9700
+Intraductal papilloma	icdo	M8503/0
+Subependymoma	icdo	9383
+Hodgkin's lymphoma	icdo	9650
+Sertoli cell tumour	icdo	8631
+Leydig cell tumour	icdo	8631
+Epithelioma	icdo	8011
+Blue rubber bleb nevus syndrome	icdo	9121
+Combined small-cell lung carcinoma	icdo	8045
+Solitary fibrous tumor	icdo	M8815/0
+Large-cell lung carcinoma with rhabdoid phenotype	icdo	8014
+Placental site trophoblastic tumor	icdo	9104
+Primary mediastinal B-cell lymphoma	icdo	9679
+Ovarian serous cystadenoma	icdo	8442
+Nipple adenoma	icdo	M8506/0
+Orbital lymphoma	icdo	9710
+Astroblastoma	icdo	9430
+Central neurocytoma	icdo	ICD-O 9506/1
+Primary mediastinal	icdo	9679

@@ -1,0 +1,34 @@
+\subsection{Statistical Analysis}
+\label{sec:statistical-analysis}
+
+The first stage in our engine is analyzing the expanded tuples.
+This phase collects simple statistics on each column of the table and estimates which sets of columns are correlated.
+
+The statistical information includes the average, variance, standard deviation and extremes of each numerical column, as well as approximate cardinality measurements for all columns. These statistics have two purposes. 
+First, they are used to detect univariate outliers, for example values that are several standard deviations from the mean in numerical attributes, or that have never occurred before in low cardinality attributes.
+Second, they are used at the end of the statistical analysis phase to determine which columns in the table are correlated. 
+Third, the statistics can be used during data modeling to speed up the training phase of certain models by precompiling parameters needed by the models (e.g., mean and standard deviation for the Gaussian model).
+
+We focus on two inter-column correlation strategies:
+
+\begin{itemize}
+\item For mostly-numerical datasets, we use Pearson's product-moment
+  correlation. It relies on the Pearson correlation coefficient,
+  which measures linear dependencies between two vectors.
+
+  Given two column vectors $X$ and $Y$, Pearson's coefficient $R$ is given by the following formula:
+  \begin{align}
+    \label{eqn:pearson}
+    R = \frac{\Covar(X,Y)}{\sqrt{\Var(X)\Var(Y)}}
+  \end{align}
+
+  $R$'s value always lies between $-1$ and $1$. An $R$ value close to 0 indicates little or no correlation, while values close to $+1$ or $-1$ indicate strong positive or negative correlations, respectively. Pairs of columns with a value of \(R\) above a user-specified threshold are added to a list of correlation hints, for use by the models.
+
+\item For mostly non-numerical datasets, we use a cardinality-based measure, flagging groups of expanded columns as correlated when their joint cardinality is below a user-specified threshold. When two columns are correlated (e.g., when one is computed directly from the other), the number of distinct pairs in the columns is similar to the number of distinct items in either column. On the other hand, when two columns are independent, the number of distinct pairs is close to the product of the number of distinct values in each column.
+\end{itemize}
+
+It is debatable whether correlations should be looked for in expanded tuple fields that come from the same original value. On the one hand such dependencies may provide valuable insight about the data (think for example of a date whose ``day of week'' value would correlate with the month, for example for an event happening all Mondays of May and all Thursdays of June). On the other hand, taking these subtuple correlations into account vastly increases the size of the search space, and may add spurious hits to the results. Experimentally, we found that disregarding intra-field correlations made the entire process faster and more robust, and did not hurt accuracy on our test sets.
+
+All aforementioned statistics and correlation hints can be computed using a single pass over the data: the expanded tuples are analyzed one row at a time, and the final statistics and correlations are computed after the last tuple has been processed. This contrasts with more advanced approaches to the detection of correlations and soft functional dependencies, such as the one used in CORDS~\cite{Ilyas2004}. Our simpler approaches yields a lower specificity, but still achieves good classification results, in part because each model only uses correlation hints as a guideline for interesting groups of columns to analyze. An excessive number of hints can thus affect performance, but does not significantly diminish the quality of the results. On the other hand, missing a correlation causes models to not analyze the corresponding group of columns, and thus to fail to uncover potential outliers. As with the other parts of our system, the correlation detector used in the statistical analysis phase is modular and could be replaced by any other scheme, including CORDS.
+
+The results of the analysis pass are available to all models used at later stages in the tool.

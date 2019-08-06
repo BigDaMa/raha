@@ -1,0 +1,1780 @@
+Lockheed AC-130	unitCost	AC-130H: US$132.4 million
+Lockheed AC-130	unitCost	AC-130U: US$253 million
+Northrop Grumman B-2 Spirit	unitCost	7.37E8
+Rockwell B-1 Lancer	unitCost	US$283.1 million in 1998
+Boeing B-17 Flying Fortress	unitCost	238329.0
+Boeing C-17 Globemaster III	unitCost	2.18E8
+Concorde	unitCost	£23 million in 1977
+Lockheed C-130 Hercules	unitCost	C-130E $11.9 million
+Lockheed C-130 Hercules	unitCost	C-130H $30.1 million
+Northrop Grumman E-8 Joint STARS	unitCost	US$244.4 million in 1998
+Lockheed F-117 Nighthawk	unitCost	4.26E7
+Lockheed F-117 Nighthawk	unitCost	1.112E8
+Grumman F-14 Tomcat	unitCost	3.8E7
+Lockheed Martin F-35 Lightning II	unitCost	F-35A: $98M
+Lockheed Martin F-35 Lightning II	unitCost	F-35B: US$104M
+Lockheed Martin F-35 Lightning II	unitCost	F-35C: US$116M
+Boeing KC-135 Stratotanker	unitCost	3.96E7
+Lockheed S-3 Viking	unitCost	2.7E7
+Northrop Grumman RQ-4 Global Hawk	unitCost	US$131.4M
+Northrop Grumman RQ-4 Global Hawk	unitCost	US$222.7M
+General Atomics MQ-1 Predator	unitCost	4030000.0
+Bell AH-1 Cobra	unitCost	1.13E7
+Bell OH-58 Kiowa	unitCost	OH-58D: US$4.9 million
+Bell OH-58 Kiowa	unitCost	OH-58D KW: US$6.7 million
+Bell OH-58 Kiowa	unitCost	KW retrofit: US$1.3 million
+Boeing CH-47 Chinook	unitCost	3.855E7
+Sikorsky HH-60 Pave Hawk	unitCost	4.01E7
+Avro Vulcan	unitCost	750000.0
+A-18 Hornet	unitCost	2.9E7
+Boeing B-29 Superfortress	unitCost	639188.0
+Northrop Grumman E-2 Hawkeye	unitCost	1.76E8
+Sukhoi Su-27	unitCost	3.0E7
+Lockheed Martin F-22 Raptor	unitCost	1.5E8
+Boeing 707	unitCost	4300000.0
+Titan	unitCost	US$250-350 million
+Avro Canada CF-105 Arrow	unitCost	C$3.5–5 million
+Lockheed F-104 Starfighter	unitCost	1420000.0
+Saab 37 Viggen	unitCost	2000000.0
+Boeing 727	unitCost	$4.25 million initially, $22 million by 1982
+Eurocopter HH-65 Dolphin	unitCost	9000000.0
+Sikorsky SH-3 Sea King	unitCost	6400000.0
+Lockheed C-5 Galaxy	unitCost	C-5A: US$224.29 million
+Lockheed C-5 Galaxy	unitCost	C-5B: US$262.75 million
+Lockheed C-5 Galaxy	unitCost	C-5C: US$129.17 million
+Lockheed C-5 Galaxy	unitCost	C-5M: US$100.37 million
+Avro Lancaster	unitCost	45.0
+Airbus A340	unitCost	* A340-200: US$87 million  \n* A340-300: US$238.0 million  \n* A340-500: US$261.8 million  \n* A340-600: US$275.4 million
+Airbus A319	unitCost	8.96E7
+Eurofighter Typhoon	unitCost	9.0E7
+Eurofighter Typhoon	unitCost	7500.0
+Vickers Valiant	unitCost	£300,000–400,000
+Moller M400 Skycar	unitCost	500000.0
+Convair F-106 Delta Dart	unitCost	4700000.0
+Convair F-106 Delta Dart	unitCost	2.51E7
+Martin B-10	unitCost	52083.0
+Consolidated B-24 Liberator	unitCost	297627.0
+Boeing E-6 Mercury	unitCost	1.417E8
+Airbus Beluga	unitCost	2.85E8
+Lockheed Model 9 Orion	unitCost	25000.0
+Mikoyan MiG-29	unitCost	11000000
+Mikoyan MiG-29	unitCost	2.9E7
+McDonnell Douglas MD-90	unitCost	US$41.5–48.5 million
+Boeing B-47 Stratojet	unitCost	US$1.9 million  equivalent to $ million in current value
+Hughes H-4 Hercules	unitCost	2500000.0
+Lockheed EC-130	unitCost	EC-130H: US$165 million
+Lockheed EC-130	unitCost	EC-130J: US$110 million
+Lockheed EC-130	unitCost	EC-130SJ: US$85 million
+Sikorsky SH-60 Seahawk	unitCost	4.29E7
+Sikorsky SH-60 Seahawk	unitCost	US$28.1M
+Lockheed EP-3	unitCost	3.6E7
+Grumman C-2 Greyhound	unitCost	US$40.01 million in 2016
+North American XB-70 Valkyrie	unitCost	7.5E8
+Boeing P-26 Peashooter	unitCost	14009.0
+McDonnell F-101 Voodoo	unitCost	1276145.0
+McDonnell F-101 Voodoo	unitCost	1754066.0
+Douglas B-18 Bolo	unitCost	58500.0
+Ilyushin Il-18	unitCost	2.45E7
+Convair F-102 Delta Dagger	unitCost	1200000.0
+Panavia Tornado ADV	unitCost	1.4E7
+Curtiss JN-4	unitCost	5465.0
+Consolidated PBY Catalina	unitCost	90000.0
+Eurocopter Tiger	unitCost	1644.0
+Eurocopter Tiger	unitCost	2166.0
+Gulfstream III	unitCost	US$37M
+Beechcraft C-12 Huron	unitCost	6000000.0
+Boeing C-40 Clipper	unitCost	7.0E7
+Mitsubishi F-2	unitCost	¥12 billion yen; $127 million
+Sukhoi Su-35	unitCost	US$40 million to $65 million
+BAE Systems Hawk	unitCost	1.8E7
+Bristol Britannia	unitCost	£700,000 - £1,400,000
+Vickers VC10	unitCost	1750000.0
+McDonnell Douglas MD-80	unitCost	US$41.5–48.5 million
+Airbus A318	unitCost	US$75.1 million, €66.3 million
+Aérospatiale Gazelle	unitCost	198500.0
+Northrop T-38 Talon	unitCost	756000.0
+Northrop T-38 Talon	unitCost	5879000.0
+Spirit of St. Louis	unitCost	10580.0
+North American F-86 Sabre	unitCost	219457.0
+Cessna 208 Caravan	unitCost	2022450.0
+Airbus A400M Atlas	unitCost	9144.0
+Sequoia Falco	unitCost	70000.0
+Hongdu JL-8	unitCost	1.0E7
+Grumman A-6 Intruder	unitCost	4.3E7
+Dassault Mirage 2000	unitCost	2.3E7
+Sukhoi Su-24	unitCost	US$24–25 million in 1997
+Handley Page Victor	unitCost	£300,000 - £400,000
+Convair B-36 Peacemaker	unitCost	4100000.0
+Cessna Citation X	unitCost	2.3365E7
+ERCO Ercoupe	unitCost	US$2,665-9,295
+Republic F-84 Thunderjet	unitCost	237247.0
+Republic F-84 Thunderjet	unitCost	769330.0
+Lockheed F-94 Starfire	unitCost	196248.0
+Lockheed F-94 Starfire	unitCost	534073.0
+Beechcraft T-6 Texan II	unitCost	4272000.0
+Raytheon T-1 Jayhawk	unitCost	4100000.0
+Antonov An-124 Ruslan	unitCost	US$70–100 million
+Douglas A-4 Skyhawk	unitCost	US$2.8–3.8 million
+Boeing E-4	unitCost	2.23E8
+Boeing T-43	unitCost	5390000.0
+Boeing 377 Stratocruiser	unitCost	1225000.0
+Martin B-26 Marauder	unitCost	$102,659.33/B-26A
+McDonnell Douglas KC-10 Extender	unitCost	KC-10:  million
+Bell P-39 Airacobra	unitCost	50666
+Northrop P-61 Black Widow	unitCost	190000.0
+Bell P-63 Kingcobra	unitCost	65914.0
+Northrop F-89 Scorpion	unitCost	801602.0
+Northrop F-89 Scorpion	unitCost	988884.0
+Douglas B-66 Destroyer	unitCost	2550000.0
+North American B-45 Tornado	unitCost	1100000.0
+Ilyushin Il-96	unitCost	US$ 40–50 million
+Denel Rooivalk	unitCost	4.0E7
+Messerschmitt Me 321	unitCost	US$ $132,316.89
+Eurocopter AS365 Dauphin	unitCost	US$10M, €7.5M"^^
+Curtiss P-36 Hawk	unitCost	23000.0
+Learjet 60	unitCost	1.4674E7
+Lockheed WC-130	unitCost	Approximately US$48.5 million
+Lockheed EC-130H Compass Call	unitCost	1.65E8
+AgustaWestland AW101	unitCost	2.1E7
+AgustaWestland AW109	unitCost	6300000.0
+Tupolev Tu-204	unitCost	3.5E7
+NHIndustries NH90	unitCost	€32.5 million   TTH
+NHIndustries NH90	unitCost	2184.0
+NHIndustries NH90	unitCost	2598.0
+Gulfstream IV	unitCost	GIV: US$36 million
+Gulfstream IV	unitCost	G350: US$34.9 million
+Gulfstream IV	unitCost	G450: US$41 million
+Agusta A129 Mangusta	unitCost	2.2E7
+Lockheed HC-130	unitCost	6.6E7
+Lockheed HC-130	unitCost	7.7E7
+Short Empire	unitCost	48830.0
+Eurocopter EC120 Colibri	unitCost	795000.0
+Eurocopter EC120 Colibri	unitCost	~US$2M, €1.5M
+Lockheed YF-12	unitCost	US$15–18 million
+Skylon	unitCost	1.9E8
+Martin XB-51	unitCost	US$12.6 million for the program
+Douglas XB-42 Mixmaster	unitCost	US$13.7 million for the program, including B-43
+McDonnell Douglas A-12 Avenger II	unitCost	8.4E7
+Sikorsky CH-53E Super Stallion	unitCost	2.436E7
+Piaggio P.180 Avanti	unitCost	7395000.0
+Boeing VC-25	unitCost	3.25E8
+Bombardier Dash 8	unitCost	Q400 US$31.3 million
+Boeing C-97 Stratofreighter	unitCost	1205000.0
+Raytheon Sentinel	unitCost	57240.0
+Lockheed MC-130	unitCost	MC-130E $75 million
+Lockheed MC-130	unitCost	MC-130H $155 million
+Lockheed MC-130	unitCost	MC-130J $67.3 million
+Lockheed MC-130	unitCost	MC-130W $60 million
+Hughes OH-6 Cayuse	unitCost	19860.0
+Lockheed CP-140 Aurora	unitCost	2.4905E7
+Grumman G-21 Goose	unitCost	US$62,180.00 for JRF-6B
+British Aerospace 125	unitCost	150000.0
+British Aerospace 125	unitCost	1.2995E7
+Martin B-57 Canberra	unitCost	1260000.0
+Douglas A-26 Invader	unitCost	242595.0
+Boeing B-50 Superfortress	unitCost	US $1,144,296
+AMX International AMX	unitCost	1.65E7
+Sopwith Salamander	unitCost	1138.0
+Sopwith Salamander	unitCost	880.0
+North American F-82 Twin Mustang	unitCost	215154.0
+Boeing C-135 Stratolifter	unitCost	3.96E7
+Seversky P-35	unitCost	22500.0
+Boeing KC-767	unitCost	~US$145 million
+Yakovlev Yak-38	unitCost	US$18.5 million in 1996
+Beechcraft King Air	unitCost	King Air C90GTi $3.4 million
+Boeing P-8 Poseidon	unitCost	256500000
+Boeing P-8 Poseidon	unitCost	US$171.6 million( )
+Boeing Business Jet	unitCost	US$96.3–800.6 million as of 2015
+British Aerospace Sea Harrier	unitCost	1.39E7
+Boeing EA-18G Growler	unitCost	6.82E7
+AASI Jetcruzer	unitCost	1600000.0
+F Super Hornet	unitCost	6.09E7
+Lunar Landing Research Vehicle	unitCost	2500000.0
+Piper PA-24 Comanche	unitCost	$17,850-$36,890
+Piper J-3 Cub	unitCost	$995-$2,461 when new
+Cessna 140	unitCost	3495.0
+Cessna 150	unitCost	US$12,000-25,000
+Saab 105	unitCost	210000.0
+Embraer R-99	unitCost	~US$80 million\n$2,000/hour
+Sukhoi Superjet 100	unitCost	Base: US$ 35.4 million
+Sukhoi Superjet 100	unitCost	LR: US$ 36.2 million
+Sukhoi Superjet 100	unitCost	US$ 27-28 million
+Beechcraft Starship	unitCost	3900000.0
+Curtiss B-2 Condor	unitCost	76373.0
+Sikorsky S-76	unitCost	1.3E7
+Northrop Grumman MQ-4C Triton	unitCost	7241.339999999999
+Northrop Grumman MQ-4C Triton	unitCost	10942.679999999998
+North American XB-21	unitCost	$122,000 USD
+Antonov An-32	unitCost	1.5E7
+Antonov An-70	unitCost	€67–70 million
+Antonov An-140	unitCost	9000000.0
+Gulfstream V	unitCost	3.6E7
+Pilatus PC-12	unitCost	4888275.0
+Pilatus PC-6 Porter	unitCost	55000.0
+Pilatus PC-6 Porter	unitCost	1900000.0
+Barrows Bearhawk	unitCost	35295.0
+Piper PA-46	unitCost	Matrix : $899,000
+Piper PA-46	unitCost	M350 : $1,150,000\nM500 : $1,990,000
+Piper PA-46	unitCost	M600 : $2,853,000
+Britten-Norman Islander	unitCost	53000.0
+Dassault nEUROn	unitCost	2.5E7
+Beechcraft Bonanza	unitCost	≈US$700,000
+Aermacchi MB-339	unitCost	8300000.0
+Bristol F.2 Fighter	unitCost	1350.0
+Beechcraft Baron	unitCost	1095000.0
+Mooney M20	unitCost	USD$769,000
+Tupolev Tu-334	unitCost	1.6E7
+Tupolev Tu-334	unitCost	$43–44 million
+Eurocopter AS332 Super Puma	unitCost	US$15.5 million, €12.5 million
+Boeing-Stearman Model 75	unitCost	11000.0
+Beechcraft Model 17 Staggerwing	unitCost	US$14,000-17,000
+Beechcraft Model 17 Staggerwing	unitCost	29000.0
+Royal Aircraft Factory R.E.8	unitCost	2068.0
+AgustaWestland Apache	unitCost	3.5E7
+Aero L-159 Alca	unitCost	9500000.0
+Aero L-159 Alca	unitCost	1.3E7
+Aero L-159 Alca	unitCost	US$15–17 million
+Ace Junior Ace	unitCost	approximately $1800 to build in 1971
+Ace Baby Ace	unitCost	$1095 for a A-40 engined model in 1935, approximately $2750 to build in 1971
+Murphy Moose	unitCost	US$100,000-130,000
+Antonov An-3	unitCost	US$ 1 500,000
+Boeing Chinook	unitCost	3606.0
+Sikorsky CH-148 Cyclone	unitCost	C$64 million
+Advanced Soaring Concepts Spirit	unitCost	17980.0
+Cirrus SR20	unitCost	369900.0
+3Xtrim 3X55 Trener	unitCost	base price US$99,900
+W 95	unitCost	95.0
+Consolidated Vultee XP-81	unitCost	US$4.6 million for the program
+Lockheed XF-90	unitCost	US$5.1 million for the program
+North American YF-93	unitCost	US$11.5 million for the program
+AC Mobil 34 Chrysalin	unitCost	45750.0
+Thorp T-18	unitCost	approximately $3670 to build in 1971
+Advanced Aeromarine Sierra	unitCost	9995.0
+Advanced Aviation Explorer	unitCost	US$$15,995
+Kappa 77 KP 2U-SOVA	unitCost	Skyleader 150:
+Kappa 77 KP 2U-SOVA	unitCost	€66,100 flyaway, excluding tax
+Aerocar Aero-Plane	unitCost	9995.0
+ATG Javelin	unitCost	2995000.0
+Robinson R22	unitCost	288000.0
+IAI Heron	unitCost	$10M
+Dornier Alpha Jet	unitCost	4500000.0
+Mitchell U-2 Superwing	unitCost	$5500 US average materials cost + instruments & engine
+Taylor Coot	unitCost	$3500 in 1970
+Extra EA-200	unitCost	370000.0
+Meyers 200	unitCost	$12,500 less radios in 1960
+Piper PA-44 Seminole	unitCost	663500.0
+Piper PA-34 Seneca	unitCost	799000.0
+Piper PA-15 Vagabond	unitCost	$1995 in 1948
+Van's Aircraft RV-4	unitCost	USD$37,000-$73,000
+Dornier Do 228	unitCost	$ 7,000,000 Dornier 228NG
+IAI Lavi	unitCost	1.1E7
+Curtiss Robin	unitCost	$7,500 U.S. Dollars
+NASA M2-F1	unitCost	30000.0
+Bell 206	unitCost	approx. US$900,000 to $1.2 million
+Republic XF-12 Rainbow	unitCost	1250000.0
+Cessna 400	unitCost	733950.0
+Fairchild Dornier 728 family	unitCost	2.0E7
+Xian MA60	unitCost	US$11-12 million
+Robinson R44	unitCost	from US$425,000
+Mil Mi-34	unitCost	350000.0
+Mil Mi-34	unitCost	US $1 million
+Mil Mi-28	unitCost	US$15–16 million
+PZL SW-4	unitCost	700000.0
+Bell 407	unitCost	2540000.0
+Kamov Ka-226	unitCost	4200000.0
+Yakovlev Yak-130	unitCost	1.5E7
+Fokker 50	unitCost	1.75E7
+Piaggio PD.808	unitCost	$350,000-$400,000 in 1961
+Keystone-Loening Commuter	unitCost	16800.0
+Grumman G-73 Mallard	unitCost	115000.0
+Grumman G-73 Mallard	unitCost	$4.0 million for turbine powered G-73T
+North American A-36 Apache	unitCost	49000.0
+MBB Bo 105	unitCost	354700.0
+MBB Bo 105	unitCost	1860000.0
+Breguet Atlantic	unitCost	>$35 Million
+North American F-86D Sabre	unitCost	343839.0
+Cessna 177 Cardinal	unitCost	USD$27,250
+Douglas World Cruiser	unitCost	192684.0
+Comp Air 7	unitCost	USD$98,000 - $375,000
+Comp Air 8	unitCost	US$187,000 - 425,000
+Boeing 307 Stratoliner	unitCost	315000.0
+Canadair CL-415	unitCost	$37 million CAD
+Quikkit Glass Goose	unitCost	32500.0
+Convair XB-46	unitCost	US$4.9 million for the program
+Antonov An-148	unitCost	US$ 24-30 million for An-148\nUS$ 28-30 million for An-158
+Kawasaki OH-1	unitCost	2.43E7
+Embraer Phenom 300	unitCost	8995000.0
+Embraer Phenom 100	unitCost	4161000.0
+Bombardier Challenger 300	unitCost	2.667E7
+Cessna Citation Mustang	unitCost	$3.35 million USD
+Boeing 367-80	unitCost	1.6E7
+Grumman F2F	unitCost	12000.0
+Lockheed P-7	unitCost	est. US$56.7 million
+Grumman F3F	unitCost	20424.0
+Sikorsky MH-60 Jayhawk	unitCost	1.7E7
+Dassault Falcon 7X	unitCost	5.38E7
+Dassault Falcon 7X	unitCost	5.75E7
+IPTN CN-235	unitCost	3.4E7
+Northrop BQM-74 Chukar	unitCost	405000.0
+Bell XFL Airabonita	unitCost	125000.0
+Seawind International Seawind	unitCost	~$420,000
+Beechcraft 1900	unitCost	4995000.0
+Junkers A50	unitCost	RM 16,200 or £795
+Honda HA-420 HondaJet	unitCost	4500000.0
+Cessna 310	unitCost	147750.0
+Martin XB-48	unitCost	US$11.5 million for the program
+Kazan Ansat	unitCost	Estimated price is about US$ 2 million
+Boeing Insitu ScanEagle	unitCost	US$3.2 million for 4 drones and ground system
+CAIC Z-10	unitCost	1.7E7
+Martin Baltimore	unitCost	120000.0
+PAC P-750 XSTOL	unitCost	$US1.7-2.2 million
+Soko G-4 Super Galeb	unitCost	4200000.0
+McDonnell Douglas DC-9	unitCost	US$41.5 to $48.5 million
+Irkut MC-21	unitCost	MC-21-200: US$ 72 million
+Irkut MC-21	unitCost	MC-21-300: US$ 91 million
+Avro Canada VZ-9 Avrocar	unitCost	Project cost: $10 million
+Curtiss P-6 Hawk	unitCost	$13,000 USD
+Ryan PT-22 Recruit	unitCost	10000.0
+Eurocopter AS350 Écureuil	unitCost	~US$2.0M, €1.5M
+Eurocopter AS350 Écureuil	unitCost	~US$2.3M, €1.75M
+Soko G-2 Galeb	unitCost	150000.0
+Douglas O-38	unitCost	12000.0
+Douglas O-46	unitCost	US $28,000
+Curtiss O-52 Owl	unitCost	31000.0
+North American BT-9	unitCost	$20,000 USD
+Diamond DA20	unitCost	184980.0
+Canadair CP-107 Argus	unitCost	5513000.0
+Fouga CM.170 Magister	unitCost	75000.0
+Sikorsky S-300	unitCost	US $250,000
+Hawker 400	unitCost	$7.4 million USD
+Beriev Be-103	unitCost	1500000.0
+Shenyang J-11	unitCost	3.0E7
+Schleicher ASW 24	unitCost	US$40,000-50,000
+MGM-13 Mace	unitCost	452000.0
+Dassault Falcon 900	unitCost	4.33E7
+Piper PA-16 Clipper	unitCost	USD$2995
+Wright Model A	unitCost	$25,000 plus $5,000 bonus
+Curtiss A-18 Shrike	unitCost	105000.0
+Lancair IV	unitCost	USD$400,000-500,000
+Mooney M-18 Mite	unitCost	2965.0
+Cirrus VK-30	unitCost	$64,000 USD
+Airco DH.4	unitCost	11250.0
+Thomas-Morse MB-3	unitCost	$7,240 USD
+Taylor Cub	unitCost	$1325 in 1931
+Comac ARJ21	unitCost	US $30 million as of 2015
+Aerion SBJ	unitCost	8.0E7
+Dornier 328	unitCost	8000000.0
+Bell YFM-1 Airacuda	unitCost	$219,000 USD
+Hawker 4000	unitCost	2.291E7
+Gulfstream G100	unitCost	1.57E7
+General Dynamics–Grumman EF-111A Raven	unitCost	US$15 million, plus $25 million each for conversion
+Mikoyan MiG-29K	unitCost	3.2E7
+Piper PA-42 Cheyenne	unitCost	$429,000 base in 1975
+Piper PA-42 Cheyenne	unitCost	$  in 2012 USD
+Bristol Boxkite	unitCost	£1,000 with engine
+De Havilland Dove	unitCost	89000.0
+De Havilland Dove	unitCost	136000.0
+Piper J-5	unitCost	1995.0
+Cirrus SR22	unitCost	499900.0
+Sikorsky VS-44	unitCost	$400,000 US
+Republic RC-3 Seabee	unitCost	US$6000 in 1946
+Mignet Pou-du-Ciel	unitCost	USD$350
+Mignet Pou-du-Ciel	unitCost	US$9,000-$18,000
+Kawasaki C-1	unitCost	4.8E9
+Cessna 195	unitCost	USD$12,750
+Beechcraft Queen Air	unitCost	135000.0
+Beechcraft Queen Air	unitCost	$  in 2012 USD
+AeroVironment RQ-11 Raven	unitCost	$173,000 per system
+Flight Design CT	unitCost	87300.0
+SOCATA TBM	unitCost	$3.25 Million USD
+SOCATA TBM	unitCost	$3.46 Million USD
+SOCATA TBM	unitCost	$3.711 Million USD
+Sonex Aircraft Sonex	unitCost	USD$20,000 - 26,000
+General Atomics MQ-9 Reaper	unitCost	1.69E7
+Lockheed Martin VH-71 Kestrel	unitCost	4.0E8
+Progressive Aerodyne SeaRey	unitCost	Kit US$32,900
+Van's Aircraft RV-10	unitCost	USD$95,000-$121,000
+Hongdu L-15	unitCost	¥ 100 million, $US 14.6 million
+Embraer EMB 314 Super Tucano	unitCost	$9–14 million
+Embraer EMB 314 Super Tucano	unitCost	$430–500/hour
+FMA CBA 123 Vector	unitCost	>USD$5 million
+Van's Aircraft RV-6	unitCost	USD$41,000-$97,000
+Van's Aircraft RV-7	unitCost	USD$41,000-$97,000
+Van's Aircraft RV-9	unitCost	US$44,000-$82,000
+Van's Aircraft RV-3	unitCost	USD$35,000-$63,000
+Embraer EMB 202 Ipanema	unitCost	~US$247,000
+Embraer EMB 202 Ipanema	unitCost	~US$233,000
+Bombardier Challenger 850	unitCost	3.1981E7
+Boeing 80	unitCost	75000.0
+De Havilland DH.60 Moth	unitCost	650.0
+Bell 429 GlobalRanger	unitCost	7500000.0
+Murphy Rebel	unitCost	USD$40,000 - $60,000
+Witteman-Lewis XNBL-1	unitCost	525000.0
+Eurocopter UH-72 Lakota	unitCost	5900000.0
+Zenith STOL CH 701	unitCost	USD$19,480
+NASA AD-1	unitCost	USD $240,000
+Cessna 162 Skycatcher	unitCost	149000.0
+Beechcraft Premier I	unitCost	7100000.0
+Van's Aircraft RV-12	unitCost	67070.0
+Van's Aircraft RV-12	unitCost	123000.0
+Diamond DA42	unitCost	600000.0
+Aeronca C-2	unitCost	$1495 in 1929
+Symphony SA-160	unitCost	154900.0
+AgustaWestland AW139	unitCost	1.2E7
+AMD Alarus	unitCost	139000.0
+AMD Zodiac	unitCost	18500.0
+Liberty XL2	unitCost	179000.0
+Sukhoi Su-30MKM	unitCost	US$35–53 million
+Learjet 45	unitCost	1.3209E7
+CZAW SportCruiser	unitCost	USD$119,000 - $139,000
+EADS CASA C-295	unitCost	2.8E7
+Diamond DA40	unitCost	$420,000 DA-40XLT
+Canadian Vickers Vedette	unitCost	$15,000 less engine.
+Piper PA-47 PiperJet	unitCost	$2.199M
+Sukhoi Su-30MKK	unitCost	US$53 million for the first 38
+Tecnam P92	unitCost	130999.0
+Cirrus Vision SF50	unitCost	1960000.0
+Air & Space 18A	unitCost	~$185,000
+Diamond D-Jet	unitCost	forecast US$1.89 million
+HAL Light Combat Helicopter	unitCost	2.02E7
+De Havilland Australia DHA-3 Drover	unitCost	14000.0
+Fairey Hamble Baby	unitCost	2100.0
+HAL Il-214	unitCost	US$35–40 million
+Bell UH-1Y Venom	unitCost	2.62E7
+Eurocopter EC130	unitCost	~US$3.6M, €2.7M
+Piper PA-12	unitCost	2995.0
+Schleicher ASH 30	unitCost	348165.0
+Fairchild Dornier 428JET	unitCost	$12.5 million USD
+IAI Arava	unitCost	$450,000  in 1971
+Cessna CH-1 Skyhook	unitCost	79960.0
+Lancair ES	unitCost	100000.0
+Lancair Legacy	unitCost	Kit for fixed gear model US$57,500
+Lancair Legacy	unitCost	Kit for retractable gear model US$71,500
+Lancair Legacy	unitCost	US$220,000 to US$320,000 completed aircraft
+Elbit Hermes 450	unitCost	$2M
+Eurocopter AS355	unitCost	"^^
+Eurocopter AS355	unitCost	~US$3.6M, €3M
+Beechcraft Super King Air	unitCost	US$5.24–7.57 million
+Cessna Citation Excel	unitCost	1.275E7
+Quad City Challenger	unitCost	USD$32,500
+Basler BT-67	unitCost	US$4.5 million,  million .
+SyberJet SJ30	unitCost	8306452.0
+Mooney M10 Cadet	unitCost	11310.0
+Urban Aeronautics X-Hawk	unitCost	$3.2 million USD
+Defiant 300	unitCost	4.0E7
+Papa 51 Thunder Mustang	unitCost	$297,000 USD
+De Havilland Moth Minor	unitCost	575.0
+Kamov Ka-31	unitCost	2.3E7
+Fleet Canuck	unitCost	$3,869.25 plus $247.63 tax
+Spartan Executive	unitCost	23500.0
+Kawasaki C-2	unitCost	approx. 14 billion yen / 136 million US dollars
+Airwolf	unitCost	5000000.0
+Eurocopter EC155	unitCost	US$10 million, €7.5 million
+US Aircraft A-67 Dragon	unitCost	$4-5 million
+Taylor Monoplane	unitCost	approximately $1285 to build in 1971
+Foster Wikner Wicko	unitCost	650.0
+Aeromarine 40	unitCost	9000.0
+Aeromarine AS	unitCost	$18,450 each
+Aeronca L	unitCost	LA $2750, LB $2995, LC $3275
+Aerosport Woody Pusher	unitCost	approximately $1500 to build in 1971
+AgustaWestland AW119 Koala	unitCost	USD$1.85 million in 2000
+Wittman Tailwind	unitCost	approximately $2285 to build in 1971
+Gavilán G358	unitCost	US$400,000 as of 2007
+Consolidated Liberator I	unitCost	258074.67
+Bell AH-1Z Viper	unitCost	2.7E7
+Bell AH-1Z Viper	unitCost	3.1E7
+Eagle Helicycle	unitCost	38500.0
+Enstrom F-28	unitCost	$360,000 USD
+Embraer KC-390	unitCost	US$85 million in 2014
+KAI KT-1 Woongbi	unitCost	7000000.0
+Consolidated PT-1 Trusty	unitCost	8000.0
+Viking Dragonfly	unitCost	8500.0
+Arrow Sport	unitCost	$2985 for an Arrow Sport 85 in 1931
+General Atomics MQ-1C Gray Eagle	unitCost	*US$21.5M \n*US$31.2M
+Luton Minor	unitCost	85.0
+Beagle Airedale	unitCost	4750.0
+RotorWay Scorpion	unitCost	$4500 in 1971
+Alenia C-27J Spartan	unitCost	5.33E7
+Bombardier CRJ200	unitCost	US$24-39.7 million
+Curtiss 18	unitCost	55400.0
+Eurocopter EC725	unitCost	US$20+ million
+Cessna DC-6	unitCost	11000.0
+Cessna CG-2	unitCost	398.0
+Turana	unitCost	100000.0
+Waco CG-3	unitCost	approx $24,000
+O-1	unitCost	50000.0
+Jodel D9	unitCost	approximately $2185 to build in 1971
+Fairchild Republic A-10 Thunderbolt II	unitCost	1.88E7
+Yeoman Cropmaster	unitCost	9425.0
+Cessna 350 Corvalis	unitCost	558200.0
+Wright Model B	unitCost	5000.0
+Mustang Aeronautics Mustang II	unitCost	Approximately $45,000-$55,000 to build
+Mustang Aeronautics Midget Mustang	unitCost	between $19,000 - $23,000
+Zenith STOL CH 801	unitCost	US$$24,990
+Curtiss Model H	unitCost	33159.0
+Mudry CAP 10	unitCost	160000.0
+Bradley Aerobat	unitCost	14500.0
+Lancair Evolution	unitCost	75.0
+Ikarus C42	unitCost	approx €42,000&ndash;62,000
+DRDO Nishant	unitCost	4470000.0
+Moller M200G Volantor	unitCost	USD$100,000
+Swearingen Merlin	unitCost	442000.0
+Enstrom 480	unitCost	800000.0
+Enstrom 480	unitCost	1100000.0
+Norman Thompson N.T.4	unitCost	3250.0
+CZAW Mermaid	unitCost	87500.0
+Robinson R66	unitCost	869000.0
+Lockheed NF-104A	unitCost	5363322.0
+Ultraflight Lazair	unitCost	USD$4600
+Pterodactyl Ascender	unitCost	USD$2750
+Beechcraft Model 34	unitCost	6000000.0
+HAL FGFA	unitCost	1.0E8
+Cassutt Special	unitCost	approximately $2020 to build in 1971
+Cessna 160	unitCost	Projected retail US$8,450
+Electric Aircraft Corporation ElectraFlyer Trike	unitCost	$16,000-$21,000
+Epic Victory	unitCost	Set Price 1 Million USD
+Curtiss Kingbird	unitCost	25555.0
+LH Aviation LH-10 Ellipse	unitCost	1300000.0
+Chotia Weedhopper	unitCost	US$$8,495
+D'Apuzzo Senior Aero Sport	unitCost	$9500 in 1971
+Cessna Citation Columbus	unitCost	2.7E7
+Fantasy Air Allegro	unitCost	EUR 49900 Base price
+Davis DA-2	unitCost	$2300 in 1971
+Druine Turbulent	unitCost	945.0
+Northrop Grumman KC-45	unitCost	1.84E8
+SME Aero Tiga	unitCost	$120,000 for United States model
+EAA Biplane	unitCost	approximately $2385 to build in 1971
+Nesmith Cougar	unitCost	approximately $2750 to build in 1971
+Lockheed Martin C-130J Super Hercules	unitCost	US$100-120 million
+Falconar AMF-S14 Super Maranda	unitCost	approximately $2850 to build in 1985
+Martin NBS-1	unitCost	23485.0
+Landgraf H-2	unitCost	2500.0
+Hall PH	unitCost	170000.0
+Flaglor Scooter	unitCost	800.0
+Giles G-202	unitCost	56500.0
+Weatherly 201	unitCost	58000.0
+Guimbal Cabri G2	unitCost	400000.0
+Great Lakes Sport Trainer	unitCost	245000.0
+Standard J	unitCost	6000.0
+E-Go	unitCost	60000.0
+Stemme S10	unitCost	400000.0
+Schweizer SGM 2-37	unitCost	United States Dollar70,000
+Bede Wing	unitCost	890.0
+Aeroprakt A-22 Foxbat	unitCost	79999.0
+Aviaimpex Yanhol	unitCost	US $150.000
+Heath Parasol	unitCost	1930.0
+Bluebird K7	unitCost	25000.0
+Larkin Skylark	unitCost	$7000 in 1974
+Aquila A 210	unitCost	€127,300  ex-tax
+Welch OW-5M	unitCost	$795 in 1931
+Alexander Bullet	unitCost	C1 $8,888 C3 $6,666 in 1929
+McDonnell Douglas AV-8B Harrier II	unitCost	US$24–30 million
+Windward Performance SparrowHawk	unitCost	44500.0
+Swearingen SX-300	unitCost	$37,500 for kit minus engine and avionics in 1986
+Thomas-Morse MB-6	unitCost	48000.0
+Whitney Boomerang	unitCost	A$210,000
+Utva Lasta	unitCost	700000.0
+Luscombe 4	unitCost	3975.0
+Sport Hornet LRS	unitCost	USD$59,995
+Bell 47J Ranger	unitCost	65000.0
+Altitude Radial Rocket	unitCost	74500.0
+IAI Eitan	unitCost	$35M
+Payne Knight Twister	unitCost	approximately $2530 to build in 1971
+Schleicher ASH 31	unitCost	200475.0
+Ilyushin Il-103	unitCost	156500.0
+Comp Air 9	unitCost	US$770,000 to $1.2M
+Supermarine Spitfire Mk 26	unitCost	A$395,000
+Supermarine Spitfire Mk 26	unitCost	A$45,500
+Varga 2150 Kachina	unitCost	8245.0
+Kaman K-225	unitCost	25000.0
+Lockwood Aircam	unitCost	99985.0
+British Aircraft Company Drone	unitCost	325.0
+MAI-223	unitCost	Flyaway with Rotax 912 ULS, 2008
+MAI-223	unitCost	46120.0
+Terrafugia Transition	unitCost	279000.0
+Stearman 4	unitCost	$16,000 base for a model 4-E in 1929
+Parker Jeanie's Teenie	unitCost	approximately $1435 to build in 1971
+General Dynamics–Grumman F-111B	unitCost	8000000.0
+PSU Zephyrus	unitCost	25000.0
+Tupolev Tu-324	unitCost	$19–23 Million USD
+General Atomics Avenger	unitCost	$12 million to $15 million
+Waco 10	unitCost	$2,145 minus engine & prop
+Rans S-6 Coyote II	unitCost	US$24,800  ES model, plus engine and instruments
+Yuneec International E430	unitCost	89995.0
+Pipistrel Virus	unitCost	base price EUR 69,000, LSA certified EUR 159,000
+Pipistrel Sinus	unitCost	€ 75,000 base price
+Birdman Chinook	unitCost	C$21,170
+KAI KUH-1 Surion	unitCost	₩18.5 billion
+KAI KUH-1 Surion	unitCost	1.8E7
+AeroVironment Wasp III	unitCost	49000.0
+Lamco Eurocub	unitCost	approx €42,000&ndash;53,000
+Curtiss-Wright CW-3 Duckling	unitCost	$1,250 for a CW-3L
+Murphy JDM-8	unitCost	6995.0
+Rans S-16 Shekari	unitCost	Kit price US$25,000
+AirMax SeaMax	unitCost	150000.0
+Quest Kodiak	unitCost	1700000.0
+Supermarine Spitfire	unitCost	£12,604 ref|Unit cost for airframe complete with engine, armament and equipment.|group=nb
+Lucas L6	unitCost	500.0
+Smith Miniplane	unitCost	approximately $2560 to build in 1971
+Epps 1924 Monoplane	unitCost	1000.0
+Stits Playboy	unitCost	approximately $1750 to build in 1971
+Gazda Helicospeeder	unitCost	5000.0
+Tecnam P2006T	unitCost	443900.0
+Preceptor N3 Pup	unitCost	USD$10,000 - 25,0000
+Fairchild M-84	unitCost	$8,000-10,500 in 1945
+Mini Coupe	unitCost	USD$960
+Capella Javelin	unitCost	US$6000  without engine, propeller, instruments or covering supplies
+Capella XS	unitCost	US$13195  without engine, propeller or instruments
+Kolb Firefly	unitCost	8590.0
+Kolb Firestar	unitCost	9250.0
+Kolb Mark III	unitCost	12814.0
+Kolb Slingshot	unitCost	13340.0
+Kolb Kolbra	unitCost	16.964
+Gee Bee Model Z	unitCost	$5,000 USD
+Signal Corps Dirigible No. 1	unitCost	$5,737.50 in 1908
+Convair Model 118	unitCost	1500.0
+Smyth Sidewinder	unitCost	3500.0
+Stewart Headwind	unitCost	approximately $990 to build in 1971
+Spezio Tuholer	unitCost	approximately $3365 to build in 1971
+Stolp Acroduster	unitCost	$5,500 for a kit in 1975
+Griffon Aerospace MQM-170 Outlaw	unitCost	~ under $10K
+Rhein Flugzeugbau RW 3 Multoplan	unitCost	US$7096.52, $357 for wing extensions, in 1959 dollars.
+EADS Talarion	unitCost	2.0E8
+Tecnam P2002 Sierra	unitCost	144999.0
+W.A.R. F4U Corsair	unitCost	9500.0
+Hybrid Air Vehicles HAV 304 Airlander 10	unitCost	1500.0
+SAGEM Patroller	unitCost	€20-30 million
+Kestrel K-350	unitCost	USD$3.2 million
+Cobalt Co50 Valkyrie	unitCost	699000.0
+Cobalt Co50 Valkyrie	unitCost	595000.0
+Wheeler Express	unitCost	$19,975 for kit without engine and avionics in 1989
+Circa Reproductions Nieuport	unitCost	6550.0
+Linn Mini Mustang	unitCost	$1500 in 1972
+Loehle 5151 Mustang	unitCost	13995.0
+Loehle Sport Parasol	unitCost	8995.0
+Phantom X1	unitCost	14995.0
+Kreutzer Air Coach	unitCost	18500.0
+Stout 2-AT Pullman	unitCost	25000.0
+Lockheed Martin KC-130	unitCost	3.7E7
+Lockheed Martin KC-130	unitCost	$71.07 million USD
+Prescott Pusher	unitCost	US$20,000 - fixed gear
+Prescott Pusher	unitCost	US$36,500 - retractable gear
+Stolp Starduster Too	unitCost	$15,000 kit price in 2010
+Bonney Gull	unitCost	$83000 in 1928
+CubCrafters CC11-100 Sport Cub S2	unitCost	$127,500 base 2010
+Autogiro Company of America AC-35	unitCost	1960.0
+Coavio DF 2000	unitCost	49200.0
+Glasair Sportsman 2+2	unitCost	50502.0
+Stits-Besler Executive	unitCost	6000.0
+Pop's Props Pinocchio	unitCost	Kit: US$3995  less engine and instruments
+Pop's Props Pinocchio	unitCost	Plans: US$400
+Lee L-1P-S %22Little Mixer%22	unitCost	800.0
+Pop's Props Cloudster	unitCost	Kit: US$3,895  less engine, paint, and instruments
+Pop's Props Zing	unitCost	Kit: US$2950  less engine and instruments
+Pop's Props Zing	unitCost	Plans: US$60
+Bellanca CF	unitCost	5000.0
+Rans S-4 Coyote	unitCost	US$9,980  less engine and instruments
+Preceptor STOL King	unitCost	25000.0
+Rans S-7 Courier	unitCost	US$25,500  S model, plus engine and instruments
+Rans S-9 Chaos	unitCost	US$10,900  less engine and instruments
+Rans S-10 Sakota	unitCost	US$19,300  less engine and instruments
+Rans S-11 Pursuit	unitCost	$20,000 est in 1992
+Rans S-12 Airaile	unitCost	20800.0
+Dream Tundra	unitCost	50766.0
+Rans S-19 Venterra	unitCost	US$135,300  ready to fly with glass cockpit
+Stits SA-7 Sky-Coupe	unitCost	approximately $2700 to build in 1971
+Chengdu J-20	unitCost	US$110 million as of 2011
+RagWing RW7 Duster	unitCost	50.0
+Indonesian Aerospace N-219	unitCost	4000000.0
+RagWing RW8 PT2S	unitCost	75.0
+Gorgon Stare	unitCost	1.5E7
+RagWing RW2 Special I	unitCost	100.0
+RagWing RW9 Motor Bipe	unitCost	50.0
+RagWing RW11 Rag-A-Bond	unitCost	50.0
+RagWing RW19 Stork	unitCost	100.0
+B&F Fk14 Polaris	unitCost	70630.0
+RagWing RW22 Tiger Moth	unitCost	100.0
+Abe Midget	unitCost	$800 in 1974
+Rocky Mountain Wings Ridge Runner	unitCost	10900.0
+Wood Sky Pup	unitCost	2000.0
+Wood Sky Pup	unitCost	Plans: US$70
+Loehle Spad XIII	unitCost	17995.0
+Perry Beadle T.1	unitCost	450.0
+Carlson Criquet	unitCost	29875.0
+Carlson Skycycle	unitCost	16400.0
+Curtiss Oriole	unitCost	$7500 in 1919
+CubCrafters CC11-160 Carbon Cub SS	unitCost	From $189,990
+Sport Flight Talon	unitCost	39750.0
+TCOM Blue Devil	unitCost	2.11E8
+Golden Circle Air T-Bird	unitCost	18360.0
+Sonex Aircraft Onex	unitCost	USD$25,299
+Earthstar Thunder Gull	unitCost	13965.0
+Farman Sport	unitCost	375.0
+Titan Tornado	unitCost	US$$21,439
+Bailey-Moyes Dragonfly	unitCost	30000.0
+Precision Tech Fergy	unitCost	10900.0
+US Light Aircraft Hornet	unitCost	20400.0
+US Light Aircraft Hornet	unitCost	49995.0
+Buzzman L'il Buzzard	unitCost	C$$36,960.00
+Quicksilver GT500	unitCost	31495.0
+SlipStream Genesis	unitCost	18995.0
+Arnet Pereyra Sabre II	unitCost	18600.0
+Aeroprakt A-26 Vulcan	unitCost	25500.0
+Cessna Citation Sovereign	unitCost	1.7895E7
+Green Sky Adventures Micro Mong	unitCost	$13388 US dollar in 1996 for kit with Rotax 503
+Blue Yonder Merlin	unitCost	Base price US$24,627
+Creative Flight Aerocat	unitCost	$119,000 single engine kit, $124,000 twin engine kit
+Denney Kitfox	unitCost	US$$99,995
+Mong MS1 Sport	unitCost	approximately $1750 to build in 1971
+Raj Hamsa X-Air	unitCost	9494.0
+Rainbow Aerotrike	unitCost	16995.0
+Air Creation Racer	unitCost	9800.0
+Davis D-1	unitCost	$2,965 with a 60hp LeBlond in 1929
+Skyline SL-222	unitCost	149000.0
+Waco E series	unitCost	18000.0
+Dorna Parandeh Abi	unitCost	115000.0
+Boeing KC-46 Pegasus	unitCost	1.474E8
+Boeing KC-46 Pegasus	unitCost	US$241.1M
+Bowlus BA-100 Baby Albatross	unitCost	US$750 ready-to-fly, US$385 kit
+Grosso Aircraft Easy Eagle 1	unitCost	65.0
+Bellanca TES	unitCost	25000.0
+Rutan Solitaire	unitCost	7000.0
+Applebay Zia	unitCost	16500.0
+Brock KB-2	unitCost	$2395 for KB-2G in 1982
+AAI Sparrowhawk	unitCost	$45,400 for Sparrowhawk III kit in 2008
+Terle Sportplane	unitCost	$1200 in 1931
+Townsend Thunderbird	unitCost	$1800 in 1956
+Salvay-Stark Skyhopper	unitCost	$1100 in 1945
+Koun Aircraft Dirigible Helicopter	unitCost	$6000 in 1939
+Westfall Sport	unitCost	$500 in 1934
+Smith Termite	unitCost	approximately $1150 to build in 1971
+Flight Design MC	unitCost	99998.0
+Omega BS-12	unitCost	$7500 in 1958
+Maupin Woodstock One	unitCost	under US$3000
+Aereon WASP	unitCost	2000000.0
+Cessna CR-1	unitCost	1200.0
+Oldfield Baby Great Lakes	unitCost	$1800 in 1971
+Tsunami Racer	unitCost	$1million +
+AeroLites AeroSkiff	unitCost	30000.0
+Explorer PG-1 Aqua Glider	unitCost	800.0
+Stolp Starduster	unitCost	approximately $3600 to build in 1971
+Wezel Apis 2	unitCost	50950.0
+Moore SS-1	unitCost	Just under US$3000 in 1966
+Bird Wing Imperial	unitCost	$2495 Model 1 $5200 Imperial
+Abbott-Baynes Scud 1	unitCost	£95 ex-works, 1931
+Dudek V-1 Sportplane	unitCost	$800 in 1955
+Abbott-Baynes Scud 2	unitCost	£150 ex-works 1932
+Horn Lil' Trouble	unitCost	$1500 in 1953
+AgustaWestland AW169	unitCost	8500000.0
+Kissinger-Crookes Flying Saucer	unitCost	$60 in 1958
+TAI TFX	unitCost	US$100-110 million
+Maupin Carbon Dragon	unitCost	2000.0
+Tecnam P2008	unitCost	154999.0
+Tecnam P2010	unitCost	345000.0
+Dyn'Aéro Twin-R	unitCost	105000.0
+Gulfstream G280	unitCost	2.45E7
+Hegy R.C.H.I. El Chuparosa	unitCost	$600 in 1959
+Cloudcraft Phantom	unitCost	£300, ex-works 1931
+Air Energy AE-1 Silent	unitCost	62000.0
+Cramlington Cramcraft	unitCost	£55 in 1930
+AutoGyro Calidus	unitCost	60222.0
+Brumby 600	unitCost	AUD$48,000 - $132,000
+KAI KC-100 Naraon	unitCost	575000.0
+RLU-1 Breezy	unitCost	approximately $3065 to build in 1971
+Dallair Aeronautica FR-100 Snap!	unitCost	$150,000 completed in 2011 dollars
+Aviastroitel AC-4 Russia	unitCost	21000.0
+WACO Primary Glider	unitCost	$385 assembled, $295 un-covered in 1930
+Peel Z-1 Glider Boat	unitCost	595.0
+Evektor EV-55 Outback	unitCost	$2.1 to $2.2 million
+Radab Windex	unitCost	39300.0
+Travel Air 5000	unitCost	$23,000 for Dole Race models in 1927
+Pitts Model 12	unitCost	US$47,995 for the Kit, US$180,000 plus for factory built examples in 2004.
+Howard Wright 1910 Biplane	unitCost	1000.0
+US Aviation Super Floater	unitCost	5995.0
+US Aviation Cumulus	unitCost	7995.0
+Tecnam P2012 Traveller	unitCost	€1.5 - €1.8 million
+US Aviation CAVU	unitCost	6495.0
+ProFe D-8 Moby Dick	unitCost	8395.0
+ProFe D-8 Moby Dick	unitCost	23300.0
+ProFe D-10 Tukan	unitCost	25000.0
+ProFe Banjo	unitCost	14300.0
+Air Est Goeland	unitCost	4000.0
+Air Est JCD 03 Pelican	unitCost	12950.0
+Bagalini Bagaliante	unitCost	250.0
+TeST TST-1 Alpin	unitCost	15250.0
+TeST TST-3 Alpin T	unitCost	22880.0
+TeST TST-6 Duo	unitCost	18000.0
+St. Louis C2 Cardinal	unitCost	$4250 for a Super Cardinal in 1929
+TeST TST-7 Junior	unitCost	16250.0
+TeST TST-9 Junior	unitCost	22240.0
+BRM Aero Bristell	unitCost	125000.0
+Aeroprakt A-36 Vulcan	unitCost	156873.0
+Kieger AK3	unitCost	€59,800 +tax
+LISA Akoya	unitCost	300000.0
+Bailey-Moyes Tempest	unitCost	12500.0
+AHRLAC Holdings Ahrlac	unitCost	1.0E7
+Loughead S-1 Sport	unitCost	$30,000 for prototype in 1919 $2500 list price in 1920.
+Sands Replica 1929 Primary Glider	unitCost	Plans US$40, kit total US$7644.14
+Volmer VJ-24W SunFun	unitCost	2400.0
+Volmer VJ-23 Swingwing	unitCost	845.55
+Shearwater Aircraft	unitCost	$129,000 USD
+Albastar A1	unitCost	39900.0
+Aviastroitel AC-5M	unitCost	33000.0
+The Airplane Factory Sling 2	unitCost	26000.0
+Eclipse 550	unitCost	2995000.0
+EEL ULF 1	unitCost	2500.0
+EEL ULF 2	unitCost	8000.0
+Barel Graal	unitCost	35000.0
+Windward Performance Perlan II	unitCost	$1.4 to $2 Million U.S.
+Hatherleigh CAVOK	unitCost	40000.0
+Sonex Electric Sport Aircraft	unitCost	Less than US$32,000
+Juvenelle Rosario Skua	unitCost	15000.0
+Technoflug Piccolo	unitCost	29266.0
+Peak 100	unitCost	£1,550 target price in 1962
+Reynard R.4 Primary	unitCost	£45 in 1931
+Hummel H5	unitCost	16000.0
+International Ultralight Banchee	unitCost	5495.0
+R.F.D. 2	unitCost	£190 in 1931
+Scott Viking 1	unitCost	£265 ex-works, 1938
+Eastman E-2 Sea Rover	unitCost	$6750 in 1928
+St Croix Excelsior	unitCost	79.0
+Dassault Rafale	unitCost	Rafale B: €74M
+Dassault Rafale	unitCost	Rafale C: €68.8M
+Dassault Rafale	unitCost	Rafale M: €79M
+Stedman TS-1 City of Leeds	unitCost	Plans £8-8-0
+Howland H-3 Pegasus	unitCost	250.0
+Howland H-2 Honey Bee	unitCost	250.0
+Blue Yonder EZ Fun Flyer	unitCost	13999.0
+Pipistrel Panthera	unitCost	*
+Pipistrel Panthera	unitCost	US Dollar
+Pipistrel Panthera	unitCost	$500,000 \n*
+Pipistrel Panthera	unitCost	US dollar
+Pipistrel Panthera	unitCost	$424,800 \n*
+Pipistrel Panthera	unitCost	Euro
+Pipistrel Panthera	unitCost	400000.0
+Tomark Viper	unitCost	Ultralight from €63,000
+Tomark Viper	unitCost	LSA €65,000 plus tax.
+Liberty P-2	unitCost	$1495 in 1931
+Mathews Petit Breezy	unitCost	25.0
+Pipistrel Alpha Trainer	unitCost	103000.0
+Lincoln Standard L.S.5	unitCost	$2495 in 1927
+Murphy Elite	unitCost	US$75,000-85,000
+TL Ultralight TL-3000 Sirius	unitCost	€89,000, $159,555 U.S.
+Zenair CH 640	unitCost	28995.0
+Scott Ol' Ironsides	unitCost	$1530 in 1969
+Paramount Cabinaire	unitCost	$5750 in 1931
+Lambert Mission 106	unitCost	€43,500 nosewheel
+Lambert Mission 106	unitCost	€42,500 tailwheel
+Lambert Mission 106	unitCost	including taxes in 2010
+Lambert Mission 212	unitCost	kit, excluding engine, propeller and avionics
+Lambert Mission 212	unitCost	59900.0
+Aviatika-MAI-890	unitCost	MAI-890U with Rotax 912 ULS :
+Aviatika-MAI-890	unitCost	34250.0
+J & J Ultralights Tukan	unitCost	125.0
+Antares MA-32	unitCost	37000.0
+Apex Eco 6	unitCost	10900.0
+Buckeye Eclipse	unitCost	16300.0
+GibboGear Butterfly	unitCost	10000.0
+Cosmos Samba	unitCost	11500.0
+Cosmos Echo	unitCost	11538.0
+Cosmos Bison	unitCost	9007.0
+Fletcher Hercules	unitCost	10000.0
+Airborne Climax	unitCost	4283.0
+Airborne Fun	unitCost	2773.0
+Airborne Sting	unitCost	2896.0
+Federal Aircraft CM-3	unitCost	$7000 in 1928
+Staib Helicopter	unitCost	$500 in 1971
+Staib LB-4	unitCost	500.0
+Ultimate Jetwing	unitCost	4500.0
+LiteWing Aircraft LiteTrike	unitCost	3000.0
+LiteWing Aircraft LiteWing	unitCost	3500.0
+Stits SA-11A Playmate	unitCost	approximately $3650 to build in 1971
+Mainair Rapier	unitCost	13450.0
+Pegasus Quantum	unitCost	30000.0
+North Wing Maverick	unitCost	US$$17,500
+North Wing ATF	unitCost	US$$12,900
+North Wing Apache	unitCost	US$$18,950
+Concept Prowler	unitCost	2800.0
+Pitcairn PA-4 Fleetwing II	unitCost	$2850 in 1927
+Aviate Raptor	unitCost	3500.0
+Medway Av8R	unitCost	26444.0
+Medway EclipseR	unitCost	26444.0
+Sabre 340	unitCost	6000.0
+Sabre Wildcat	unitCost	10800.0
+J & J Ultralights Seawing	unitCost	16500.0
+Lookout Mountain SkyCycle	unitCost	7995.0
+Hu-Go Craft	unitCost	$1500 in 1965
+Personal Flight Sky-Tender	unitCost	20000.0
+O'Neill Aristocraft II	unitCost	US$35,950 for a kit minus engine in 1972
+Spartan DFD Aerotome	unitCost	16500.0
+Spartan DFS Paramotor	unitCost	8900.0
+Solo Wings Windlass	unitCost	12800.0
+Solo Wings Aquilla	unitCost	13650.0
+Antonov T-2M Maverick	unitCost	18500.0
+Pegasus Booster	unitCost	5000.0
+Flylight Doodle Bug	unitCost	4000.0
+Swedish Aerosport Mosquito	unitCost	5000.0
+A-I-R Atos	unitCost	6330.0
+Aeros Combat	unitCost	3150.0
+Aeros Discus	unitCost	2425.0
+Aeros Stalker	unitCost	5191.0
+Aeros Target	unitCost	1790.0
+Just Escapade	unitCost	Escapade, 2010, plus tax:\n* UK,  £12,600, without engine or instruments\n* USA, $ 23,800
+Avian Cheetah	unitCost	3574.0
+Avian Rio	unitCost	2127.0
+Avian Java	unitCost	2756.0
+Lobet Ganagobie	unitCost	$800 in 1985
+Bautek Astir	unitCost	4580.0
+Bautek Bico	unitCost	5650.0
+Bautek Milan Racer	unitCost	3664.0
+Bautek Spice	unitCost	4569.0
+Bautek Sunrise	unitCost	3707.0
+Ellipse Fuji	unitCost	2476.0
+Ellipse Titan	unitCost	4079.0
+Ellipse Twist	unitCost	1890.0
+Ellipse Zenith	unitCost	3506.0
+Europe Sails Excel	unitCost	3074.0
+Europe Sails Hyper	unitCost	3963.0
+Europe Sails Special Dimensione	unitCost	2778.0
+Europe Sails Independent	unitCost	5168.0
+Finsterwalder Funfex	unitCost	3780.0
+Finsterwalder Perfex	unitCost	3380.0
+Finsterwalder Speedfex	unitCost	3784.0
+Flight Design Exxtacy	unitCost	6078.0
+Flight Design Axxess	unitCost	7241.0
+Aerochia LT-1	unitCost	$29,900 without engine in 2012
+Grif Eos	unitCost	3667.0
+ACE Aircraft Falcon	unitCost	$995 in 1931
+Grif H2000	unitCost	2500.0
+Guggenmos Bullet	unitCost	4802.0
+Guggenmos ESC	unitCost	8155.0
+Icaro Stratos	unitCost	5289.0
+Icaro Laminar	unitCost	3787.0
+Icaro Mars	unitCost	1437.0
+Icaro Relax	unitCost	2125.0
+Ikarus Funflyer	unitCost	2450.0
+Ikarus Doppel	unitCost	4150.0
+Ikarus Imagine	unitCost	4280.0
+Impuls 14	unitCost	2850.0
+Impuls 17	unitCost	2850.0
+Impuls IC	unitCost	3950.0
+Lacey M-10	unitCost	$1500 in 1963
+Moyes Litespeed	unitCost	4183.0
+Turner T-40	unitCost	$1000 in 1961
+Buckeye Eagle	unitCost	9113.88
+Buckeye Dream Machine	unitCost	12789.6
+Buckeye Falcon	unitCost	14000.0
+Goodwin Buckshot	unitCost	9000.0
+Canadian Phase I	unitCost	13000.0
+Emerald Coast XL2 Sport	unitCost	9000.0
+Harmening High Flyer	unitCost	9500.0
+Heldeberg Spirit 103	unitCost	12795.0
+Heldeberg Marathon	unitCost	21995.0
+Heldeberg Convertible	unitCost	12000.0
+Paladin Sparrow	unitCost	7500.0
+Paladin Golden Eagle	unitCost	15000.0
+Paladin Hercules	unitCost	22000.0
+Para-Ski VX	unitCost	12700.0
+Para-Ski XS	unitCost	16000.0
+Powrachute Pegasus	unitCost	16000.0
+Diamond DA62	unitCost	€960,000 , /US$1.25M
+Diamond DA62	unitCost	US$1.3M
+Tennessee Propellers Scout	unitCost	10000.0
+Sea-Bow International Sea-Bow	unitCost	16000.0
+Six Chuter SR1	unitCost	11000.0
+Six Chuter SR7	unitCost	15000.0
+Sky Seeker Powerchutes Sky Seeker	unitCost	12500.0
+Summit 2	unitCost	12950.0
+Goodwin Tri-Moto	unitCost	8000.0
+St Andrews Viking	unitCost	12000.0
+Airframes Unlimited T-2	unitCost	30.0
+Airframes Unlimited T-103	unitCost	30.0
+Adventure F series	unitCost	6500.0
+Fresh Breeze Solo	unitCost	4500.0
+Fresh Breeze Monster	unitCost	3880.0
+Per Il Volo Miniplane	unitCost	3100.0
+Meyer's Little Toot	unitCost	$2000 in 1958
+Daiichi Kosho Whisper	unitCost	7495.0
+Paraborne Backplane	unitCost	5000.0
+Phoenix Industries B1Z ParaFlyer	unitCost	8000.0
+Paramotor Inc FX series	unitCost	9995.0
+Fly Products Power	unitCost	6000.0
+Fly Products Gold	unitCost	7250.0
+La Mouette Skybike	unitCost	6000.0
+Southern Skies Spymotor	unitCost	3500.0
+Southern Skies Quattro	unitCost	3000.0
+Air Command Commander	unitCost	8300.0
+Brock KB-3	unitCost	12000.0
+Sport Copter Lightning	unitCost	17392.0
+American Sportscopter Ultrasport 254	unitCost	35000.0
+Vortech G-1	unitCost	3500.0
+Vortech Kestrel Jet	unitCost	20000.0
+A2 CZ Ellipse Spirit	unitCost	75000.0
+Stits SA-5 Flut-R-Bug	unitCost	US$1250 in 1956
+Aero & Tech Nexth	unitCost	60000.0
+Aéro Services Guépard Guépe	unitCost	21700.0
+Aero Synergie Jodel D20	unitCost	57985.0
+Aero Synergie J300 Joker	unitCost	38465.0
+Aero Synergie Papango	unitCost	52260.0
+Aero-Kros MP-02 Czajka	unitCost	65500.0
+AeroAndina MXP-158 Embera	unitCost	41196.0
+Aerocomp VM-1 Esqual	unitCost	75000.0
+Aeroflying Sensation	unitCost	65000.0
+AeroJames 01 Isatis	unitCost	77000.0
+Aeropilot Legend 540	unitCost	63000.0
+DAR Solo	unitCost	24500.0
+DAR 21 Vector II	unitCost	32000.0
+Warwick W-3 Bantam	unitCost	$1200 in 1971
+Aerosette MH-46 Eclipse	unitCost	55000.0
+Aerospool WT9 Dynamic	unitCost	108509.0
+Aerostar R40S Festival	unitCost	99900.0
+Airflow Twinbee	unitCost	37500.0
+Airkraft Sunny	unitCost	21000.0
+Airo 1	unitCost	49.98
+Alisport Yuma	unitCost	60700.0
+Alpi Pioneer 200	unitCost	43342.0
+Alpi Pioneer 300	unitCost	72900.0
+Apollo Fox	unitCost	69950.0
+Arplast Micro'B	unitCost	39000.0
+AeroVironment RQ-20 Puma	unitCost	250000.0
+Air Sports AIRector 120	unitCost	40000.0
+ATEC 212 Solo	unitCost	43225.0
+ATEC 321 Faeta	unitCost	89142.0
+ATEC 122 Zephyr 2000	unitCost	53675.0
+Aurore MB 02-2 Mini Bulle	unitCost	6000.0
+Aurore MB 02 Souricette	unitCost	2660.0
+Aurore MB 04 Souris Bulle	unitCost	13300.0
+Australian Aircraft Kits Hornet STOL	unitCost	65000.0
+Australian Lightwing SP-2000 Speed	unitCost	70000.0
+AV Vagabund	unitCost	48900.0
+Aveko VL-3 Sprint	unitCost	78300.0
+Aviadesign A-16 Sport Falcon	unitCost	95000.0
+BOT SC07 Speed Cruiser	unitCost	69500.0
+BAaer BA-5 Gurí	unitCost	11900.0
+Best Off Nynja	unitCost	17500.0
+Blackshape Prime	unitCost	134000.0
+BRM Land Africa	unitCost	35540.0
+Celier XeWing	unitCost	60000.0
+Celier Kiss	unitCost	29900.0
+Celier Xenon 2	unitCost	65500.0
+Bushcaddy R-80	unitCost	92900.0
+Bushcaddy R-120	unitCost	24759.0
+Bushcaddy L-160	unitCost	28825.0
+Bushcaddy L-162 Max	unitCost	35403.0
+Bushcaddy L-164	unitCost	38582.0
+Club ULM Rotor Ptenets-2	unitCost	21000.0
+Ikarus C52	unitCost	75950.0
+Cessna Citation Longitude	unitCost	2.39E7
+Concept Composites MD03 Transat	unitCost	47950.0
+Escapade Kid	unitCost	Kit with F33 engine, £13,800.  Ready to fly adds £4,200 and Aero engine £2,000. Tax not included; 2010 prices.
+CZAW Parrot	unitCost	80000.0
+Dova DV-1 Skylark	unitCost	65000.0
+Eagle EA-100	unitCost	136595.0
+Sam Aircraft Sam LS	unitCost	US$$135,000
+Egvoyager Voyager 203	unitCost	58570.0
+Ehroflug Coach II S	unitCost	36000.0
+Ekolot JK-05L Junior	unitCost	47400.0
+Ekolot KR-030 Topaz	unitCost	52500.0
+Electric Aircraft Corporation ElectraFlyer-X	unitCost	65000.0
+Lucas L11	unitCost	400.0
+Eurodisplay SR-01 Magic	unitCost	69000.0
+Eurofly Flash Light	unitCost	26850.0
+Flaeming Air FA 04 Peregrine	unitCost	59750.0
+Fly Synthesis Catalina	unitCost	38000.0
+Sonex Aircraft SubSonex	unitCost	US$130,000 Experimental Amateur Built, US$135,000 Quick build Experimental Exhibition Category
+Fly Synthesis Storch	unitCost	44600.0
+Fly Synthesis Syncro	unitCost	75000.0
+Flying Legend Hawker Hurricane Replica	unitCost	110000.0
+Velocity V-Twin	unitCost	$110,000 for a fast-built kit in 2012, $271,000 total build cost.
+Flying Legend Tucano Replica	unitCost	130000.0
+Flying Machines FM250 Vampire	unitCost	60000.0
+Flyitalia MD3 Rider	unitCost	57100.0
+FlyNano Nano	unitCost	35000.0
+FMP Qualt 201	unitCost	48000.0
+Foxcon Terrier 200	unitCost	A$78,000
+G1 Aviation G1	unitCost	50000.0
+Gobosh 700S	unitCost	124500.0
+Gobosh 800XP	unitCost	135900.0
+Golden Avio F30	unitCost	€78,000  €95,000
+Guerpont Autoplum	unitCost	230.0
+Harper Lil Breezy	unitCost	21000.0
+Houde Bimax	unitCost	57000.0
+Houde Speedmax	unitCost	38000.0
+Humbert La Moto Du Ciel	unitCost	34500.0
+Icarus F99 Rambo	unitCost	37000.0
+Idea Hydropteron	unitCost	100000.0
+Jabiru J170	unitCost	38400.0
+Kubicek M-2 Scout	unitCost	81000.0
+Lanitz Escapade One	unitCost	16802.0
+Jabiru J230	unitCost	43900.0
+Lanitz Escapade Two	unitCost	42012.0
+Hinchman H-1 Racer	unitCost	13000.0
+Light Wing AC4	unitCost	45000.0
+LTD LO-120S	unitCost	39430.0
+Marawing 1-L Malamut	unitCost	49000.0
+Medway SLA100 Executive	unitCost	34500.0
+Micro Aviation B22 Bantam	unitCost	24000.0
+Microleve Corsario	unitCost	16500.0
+OMA SUD Redbird	unitCost	US$120,000 , 2012)
+Conroy Virtus	unitCost	1.25E7
+MySky MS One	unitCost	124500.0
+Raceair Lil Bitts	unitCost	$19,900 for a engineless kit in 2007
+Norman Aviation Nordic 8 Mini Explorer	unitCost	C$34,500
+Paradise P-1 LSA	unitCost	117000.0
+Peak Aerospace Me 109	unitCost	59900.0
+Pegasus EDA 100 Flamingo	unitCost	85000.0
+Podesva Trener	unitCost	37900.0
+Pro.Mecc Freccia Anemo	unitCost	77500.0
+Pro.Mecc Sparviero	unitCost	54500.0
+Belite Ultra Cub	unitCost	27995.0
+Rainbow Skyreach Bush Cat	unitCost	$49995-64500 USD SLSA
+AutoGyro Cavalon	unitCost	52500.0
+Norman Aviation J6 Karatoo	unitCost	22650.0
+Norman Aviation Nordic VII	unitCost	32375.0
+Norman Aviation Nordic II	unitCost	27700.0
+Anglin J6 Karatoo	unitCost	19995.0
+Protoplane Ultra	unitCost	75200.0
+CHI KC 518 Adventourer	unitCost	$335,000 for a kit in 2011
+RMT Bateleur	unitCost	78000.0
+Roland S-STOL	unitCost	52500.0
+Roland Z-602	unitCost	60600.0
+Rolandas Kalinauskas RK-6 Magic	unitCost	36000.0
+Rolandas Kalinauskas RK-7 Orange	unitCost	11000.0
+SAB C-100 Vulcan	unitCost	65900.0
+Sapphire Aircraft Australia Sapphire LSA	unitCost	A$37,900
+Pro-Composites Personal Cruiser	unitCost	$9,910 for a kit without engine
+Letov LK-2 Sluka	unitCost	€10,000-15,000 w/o engine
+Skyfly S-34 Skystar	unitCost	22500.0
+Skyleader GP One	unitCost	55000.0
+Direct Fly Alto	unitCost	57000.0
+Thruster T600 Sprint	unitCost	30000.0
+ULBI Wild Thing	unitCost	62930.0
+Ultra-Leicht Flugtechnik Speedy Mouse	unitCost	42000.0
+Vol Xerpa ULM Pulsar	unitCost	25900.0
+Warner Sportster	unitCost	99900.0
+Weller ULI NG	unitCost	20000.0
+Weller UW-9 Sprint	unitCost	55000.0
+Acrolite	unitCost	170.0
+AeroLites Bearcat	unitCost	15000.0
+APEV Pouchel Classic	unitCost	5000.0
+APEV Pouchel Light	unitCost	5000.0
+APEV Pouchelec	unitCost	15000.0
+APEV Pouchel II	unitCost	4000.0
+APEV Scoutchel	unitCost	5000.0
+Airdrome Fokker DR-1	unitCost	8495.0
+Airdrome Nieuport 24	unitCost	9696.0
+Airdrome Fokker D-VI	unitCost	5995.0
+Airdrome Fokker D-VII	unitCost	8995.0
+Airdrome Fokker D-VIII	unitCost	5495.0
+Airdrome Morane Saulnier L	unitCost	5995.0
+Airdrome Nieuport 11	unitCost	7995.0
+Airdrome Nieuport 17	unitCost	9995.0
+Airdrome Nieuport 28	unitCost	14995.0
+Airdrome Sopwith Baby	unitCost	14495.0
+Airdrome Sopwith Camel	unitCost	13495.0
+Airdrome Sopwith Pup	unitCost	12995.0
+Airdrome Taube	unitCost	12995.0
+Airdrome Dream Fantasy Twin	unitCost	4995.0
+Airdrome Bleriot Model XI	unitCost	11995.0
+Airdrome DeHavilland DH-2	unitCost	5995.0
+Jodel DR1050 Excellence	unitCost	400.0
+Biplanes of Yesteryear Mifyter	unitCost	15000.0
+Circa Reproductions Morane Saulnier N	unitCost	99.0
+DAC RangerR	unitCost	60000.0
+Lucas L8	unitCost	460.0
+Lucas L7	unitCost	500.0
+Sport Jet II	unitCost	1300000.0
+Morin M85	unitCost	290.0
+Flitzer Z-21	unitCost	160.0
+Fry Esprit VFII	unitCost	620.0
+Glasair GlaStar	unitCost	27750.0
+Stoddard-Hamilton Glasair II	unitCost	47094.0
+JPM 03 Loiret	unitCost	400.0
+Leger Pataplume 1	unitCost	150.0
+Peña Bilouis	unitCost	750.0
+Peña Capeña	unitCost	760.0
+Peña Dahu	unitCost	600.0
+Peña Joker	unitCost	600.0
+Colomban MC-100 Ban-Bi	unitCost	540.0
+Platzer Kiebitz	unitCost	650.0
+Platzer Motte	unitCost	330.0
+Whittaker MW6	unitCost	70.0
+Whittaker MW5 Sorcerer	unitCost	70.0
+Barr 6	unitCost	215000.0
+Preceptor Stinger	unitCost	11700.0
+Pro-Composites Vision	unitCost	17315.0
+Samson Switchblade	unitCost	95000.0
+Pennec Gaz'Aile 2	unitCost	300.0
+Spacek SD-1 Minisport	unitCost	210.0
+Spacek SD-1 Minisport	unitCost	US$54,000 production model
+St-Just Super-Cyclone	unitCost	50000.0
+St-Just Cyclone	unitCost	34833.0
+Stolp SA-500 Starlet	unitCost	125.0
+Taiwan Dancer TD-3	unitCost	72785.18
+Team Tango Foxtrot	unitCost	45750.0
+TechProAviation Merlin 100	unitCost	5000.0
+Verhees D-Plane 1	unitCost	400.0
+AeroCad AeroCanard	unitCost	30615.0
+Aero Concepts Discovery	unitCost	35000.0
+American Patriot Supercruiser	unitCost	24000.0
+AAC Seastar Sealoon	unitCost	35500.0
+Backcountry Super Cubs Mackey SQ2	unitCost	53500.0
+Backcountry Super Cubs Supercruiser	unitCost	47000.0
+Backcountry Super Cubs Super Cub	unitCost	53500.0
+CubCrafters Carbon Cub EX	unitCost	64980.0
+Custom Flight Lite Star	unitCost	60000.0
+Custom Flight North Star	unitCost	60000.0
+Dakota Cub Super 18	unitCost	68885.0
+Falconar AMF-14H Maranda	unitCost	12180.0
+Falconar F11 Sporty	unitCost	15276.0
+Falconar F12A Cruiser	unitCost	14986.0
+Falconar F9A	unitCost	5300.0
+Falconar SAL Mustang	unitCost	30276.0
+Falconar Minihawk	unitCost	11600.0
+Hummel Ultracruiser	unitCost	13950.0
+Raven 2XS	unitCost	24000.0
+Ravin 500	unitCost	85000.0
+Tapanee Levitation 2	unitCost	35000.0
+Wings of Freedom Phoenix 103	unitCost	9999.0
+World Aircraft Spirit	unitCost	129500.0
+World Aircraft Vision	unitCost	89500.0
+Bearhawk LSA	unitCost	275.0
+Bearhawk LSA	unitCost	30000.0
+Just Superstol	unitCost	39150.0
+Just Superstol	unitCost	75000.0
+Team Mini-Max AeroMax	unitCost	8500.0
+CVV 2 Asiago	unitCost	$550 ex-Milan in 1938
+Summit 103 Mini Breeze	unitCost	13395.0
+Summit Steel Breeze	unitCost	18500.0
+Synergy Paramotors Synergy	unitCost	6000.0
+Aerola Alatus	unitCost	18520.0
+Pipistrel Apis-Bee	unitCost	53600.0
+Mitchell Wing B-10	unitCost	300.0
+Viking SF-2A Cygnet	unitCost	150.0
+Windward Performance DuckHawk	unitCost	105000.0
+Yuneec International EViva	unitCost	91000.0
+Distar UFM-13 Lambada	unitCost	61000.0
+Ekolot JK 01A Elf	unitCost	22000.0
+Phoenix Air Phoenix	unitCost	73700.0
+Allstar SZD-54 Perkoz	unitCost	74950.0
+Rolandas Kalinauskas RK-5 Ruth	unitCost	40000.0
+Air Command Commander Elite	unitCost	22500.0
+Air Command Commander Side-By-Side	unitCost	39500.0
+Air Command Tandem	unitCost	39500.0
+Air Copter A3C	unitCost	29500.0
+Airbet Girabet	unitCost	16500.0
+AutoGyro MT-03	unitCost	45553.0
+The Butterfly Monarch	unitCost	18.995
+Chayair Sycamore	unitCost	59500.0
+ELA 07	unitCost	39710.0
+GT-Gyroplanes Kruza	unitCost	A$80,000
+Gyro-Kopp-Ters Midnight Hawk	unitCost	12500.0
+Gyro-Kopp-Ters Twin Eagle	unitCost	18000.0
+GyroTec DF02	unitCost	33500.0
+Layzell Merlin	unitCost	12761.0
+Magni M-18 Spartan	unitCost	25000.0
+Magni M-14 Scout	unitCost	45150.0
+Taggart GyroBee	unitCost	14595.0
+North American Rotorwerks Pitbull II	unitCost	22680.0
+North American Rotorwerks Pitbull Ultralight	unitCost	12500.0
+Pagotto Brakogyro	unitCost	41500.0
+Phenix Aviation Phenix	unitCost	68000.0
+Rotortec Cloud Dancer I	unitCost	38000.0
+Rotortec Cloud Dancer II	unitCost	63000.0
+Rotortec Cloud Dancer Light	unitCost	26500.0
+Schröder AS-140 Mücke	unitCost	14500.0
+Trixy G 4-2 R	unitCost	60000.0
+Aeris Naviter AN-2 Enara	unitCost	140000.0
+Aerokopter AK1-3 Sanka	unitCost	110000.0
+Delta D2	unitCost	125000.0
+Dynali H2S	unitCost	125000.0
+GEN H-4	unitCost	59500.0
+Kinney HRH	unitCost	225.0
+Phoenix Skyblazer	unitCost	24995.0
+RotorWay A600 Talon	unitCost	99700.0
+Vertical Hummingbird	unitCost	138600.0
+Ace Magic	unitCost	5949.0
+AEF Monotrace	unitCost	9259.0
+Pander D	unitCost	450.0
+Air Creation Tanarg	unitCost	40000.0
+Air Creation Trek	unitCost	20320.0
+Air Creation Skypper	unitCost	23850.0
+Airbridge Cruiser Suzuki	unitCost	16000.0
+Cessna Citation Latitude	unitCost	Under US$16,250,000
+Apollo Delta Jet	unitCost	53000.0
+Apollo Monsoon	unitCost	57800.0
+Aquilair Kid	unitCost	7912.0
+Aquilair Swing	unitCost	17353.0
+Pilatus PC-24	unitCost	US$9M
+Avio Delta Thruster	unitCost	6642.0
+Avio Design Swan	unitCost	18570.0
+BB Microlight 103	unitCost	15800.0
+BB Microlight BB-two seater	unitCost	25000.0
+Cosmik Chaser	unitCost	7826.0
+Drachen Studio Kecur Royal 912	unitCost	29500.0
+DTA Combo	unitCost	39515.0
+DTA Feeling	unitCost	24967.0
+Tecnam Astore	unitCost	US$150,000 base $195,000 with full Garmin G3X panel
+DTA Voyageur	unitCost	38671.0
+Bell 505 Jet Ranger X	unitCost	1070000.0
+DTA Alizés	unitCost	8080.0
+DTA Evolution	unitCost	15284.0
+Electravia Electro Trike	unitCost	21500.0
+Eurofly Viper	unitCost	12900.0
+Flaris LAR01	unitCost	1500000.0
+Evolution Revo	unitCost	59700.0
+Fly Air Swallow	unitCost	6840.0
+Fly Hard Trikes SkyCycle	unitCost	6295.0
+Flying Machines FM301 Stream	unitCost	23000.0
+Dassault Falcon 5X	unitCost	4.5E7
+Flylight Dragonfly	unitCost	11543.0
+Flylight Motorfloater	unitCost	9570.0
+FUL MA 30 Graffiti	unitCost	22499.0
+Gdecouv'R 582	unitCost	13899.91
+General Aviation Design Bureau T-32 Maverick	unitCost	24000.0
+General Aviation Design Bureau T-2 Maverick	unitCost	19000.0
+Hubertec Thermik	unitCost	5800.0
+Icaro Pit-Trike	unitCost	8200.0
+Junkers Profly Junkers Trike	unitCost	30000.0
+Keitek Streamer	unitCost	38000.0
+Sea and Sky Cygnet	unitCost	49600.0
+North Wing Sport X2	unitCost	33000.0
+LCA LH 212 Delta	unitCost	165000.0
+Chernov Che-24	unitCost	3183631.0
+PowerTrike Evolution	unitCost	19833.0
+PowerTrike II	unitCost	23500.0
+Gidroplan Che-22 Korvet	unitCost	€45,850 flyaway in 2012.
+PowerTrike Light	unitCost	13800.0
+Quander Airpfeil	unitCost	23000.0
+Softeks V-24 Lastochka	unitCost	Target price $420,000
+Skyline SL-122 Bdzhilka	unitCost	129000.0
+Valley Engineering Backyard Flyer	unitCost	$19,500 open fuselage kit
+SDB Karat	unitCost	4420.0
+Silent Family Silent Glider M	unitCost	12000.0
+Silent Family Silent Racer	unitCost	14000.0
+Skyrider Sonic	unitCost	16500.0
+Skyrider Stingray	unitCost	16900.0
+Solid Air Diamant LP	unitCost	13550.0
+Solid Air Diamant Twin	unitCost	22390.0
+Stellar Astra	unitCost	23495.0
+Aviator Shershen'	unitCost	Kit: RUR 120,0000 with engine
+Take Off Merlin	unitCost	19800.0
+White WW-1 Der Jäger D.IX	unitCost	$1600 in 1969
+Rayner Pusher	unitCost	$300 in 1966
+TrikeBuggy Delta	unitCost	9995.0
+Textron AirLand Scorpion	unitCost	less than US$20 million
+Schmidtler Enduro	unitCost	15865.0
+Ventura 1200	unitCost	29610.0
+Powrachute Sky Rascal	unitCost	10690.0
+Mace-Trefethen R-2	unitCost	$2600 in 1970
+Alliant Destiny XLT	unitCost	16050.0
+Alliant Destiny Fusion	unitCost	18750.0
+Flight Dynamics Flightsail	unitCost	$200 in 1961
+Vickers Aircraft Wave	unitCost	Under $180,000
+Adventure Air Adventurer	unitCost	34900.0
+Boeing RC-1	unitCost	7.2E7
+AeroLites AeroMaster AG	unitCost	21075.0
+Air Creation Twin	unitCost	12000.0
+Rihn DR-107 One Design	unitCost	370.0
+Rihn DR-109	unitCost	50000.0
+Aircraft Technologies Acro 1	unitCost	22900.0
+Giles G-200	unitCost	98650.0
+Hillman Hornet	unitCost	18500.0
+Amax Sport 1700	unitCost	12500.0
+Amax Vixen 105	unitCost	14000.0
+Associated Air Liberty 181	unitCost	24495.0
+Avid Catalina	unitCost	19283.0
+Bagalini Bagalini	unitCost	170.0
+Bagalini Baganfibio	unitCost	260.0
+Bagalini Colombo	unitCost	220.0
+Elmwood Christavia Mk IV	unitCost	275.0
+Bounsall Super Prospector	unitCost	7800.0
+Brutsche Freedom 40	unitCost	3000.0
+Butterfly Banty	unitCost	25.0
+CEI Free Spirit Mk II	unitCost	24950.0
+ARV Griffin	unitCost	15874.0
+Collins Dipper	unitCost	200.0
+Culp Special	unitCost	47500.0
+Dickey E-Racer	unitCost	250.0
+Duane's Hangar Ultrababy	unitCost	75.0
+Early Bird Spad 13	unitCost	14900.0
+Early Bird Jenny	unitCost	10245.0
+Express Series 90	unitCost	31980.0
+Explorer Ellipse	unitCost	35000.0
+Frontier MD-II	unitCost	19500.0
+Glassic SQ2000	unitCost	35450.0
+Spike S-512	unitCost	US$60 to 80 million.
+Henderson Little Bear	unitCost	US$24,5000
+Hinz BLT-ARA	unitCost	1000.0
+Swanson Coupe	unitCost	US$4,450 , $4,985
+Javelin V6 STOL	unitCost	89.0
+Kelly-D	unitCost	150.0
+Lancair Tigress	unitCost	109500.0
+Laron Wizard	unitCost	14500.0
+Las Brisas Mohawk	unitCost	229.0
+Let-Mont Piper UL	unitCost	18000.0
+Let-Mont Tulak	unitCost	31500.0
+Letov ST-4 Aztek	unitCost	12970.0
+Vidor Champion V	unitCost	400.0
+Stern ST 87 Vega	unitCost	400.0
+Lucas L6B	unitCost	400.0
+Hatz Classic	unitCost	12500.0
+Microleve ML 450	unitCost	12275.0
+Rans S-20 Raven	unitCost	US$$25,500
+Midwest Questar Open Aire	unitCost	30.0
+Midwest Questar Sport	unitCost	30.0
+Midwest Questar XLS	unitCost	30.0
+Midwest Questar Arrowstar	unitCost	30.0
+Mirage Marathon	unitCost	245.0
+NWT Spruce Coupe	unitCost	6995.0
+Olympic Desert Eagle	unitCost	14900.0
+RTAF-6	unitCost	4000000.0
+Deland Travel Air 2000	unitCost	55900.0
+Paxman Viper	unitCost	15000.0
+Peris JN-1	unitCost	68.0
+Progressive Aerodyne Stingray	unitCost	14000.0
+Redfern DH-2	unitCost	150.0
+24	unitCost	100.0
+Reflex Lightning Bug	unitCost	25000.0
+Storm 300	unitCost	23000.0
+Storm Sea Storm	unitCost	24700.0
+Storm 320E	unitCost	19420.0
+Storm RG Fury	unitCost	84000.0
+St Croix Pietenpol Aerial	unitCost	105.0
+St Croix Pietenpol Aircamper	unitCost	60.0
+St Croix Sopwith Triplane	unitCost	26000.0
+Sands Fokker Dr.1 Triplane	unitCost	32000.0
+Sauser P6E Replica	unitCost	285.0
+Rowley P-40F	unitCost	165.0
+SkyDancer SD-260	unitCost	35000.0
+Aero Designs Pulsar	unitCost	17950.0
+Sport Racer	unitCost	375.0
+Starfire Firebolt	unitCost	275.0
+Star-Lite Warp 1-A	unitCost	26995.0
+Stewart S-51D Mustang	unitCost	64000.0
+Stolp SA-900 V-Star	unitCost	195.0
+Ultimate 10-200	unitCost	22363.0
+Synairgie Jet Ranger	unitCost	9800.0
+Tech Aero TR 200	unitCost	68000.0
+Time Warp Spitfire Mk V	unitCost	24950.0
+Theiss Speedster	unitCost	4994.0
+Tri-R KIS TR-1	unitCost	16995.0
+Ultracraft Calypso	unitCost	15250.0
+VSR SR-1 Snoshoo	unitCost	200.0
+V-STOL XC 2000T	unitCost	9995.0
+V-STOL Super Solution 2000	unitCost	7495.0
+Mathews Mr Easy	unitCost	25.0
+Vintage Ultralight SR-1 Hornet	unitCost	35.0
+Curtiss Thrush	unitCost	12000.0
+Warner Revolution I	unitCost	495.0
+Warner Revolution II	unitCost	495.0
+Warner Revolution II	unitCost	18995.0
+Washington T-411 Wolverine	unitCost	50000.0
+World War I Aeroplanes Fokker D.VII	unitCost	150.0
+Air Command Commander 147A	unitCost	30000.0
+Air Command Commander Tandem	unitCost	13895.0
+Air Command Commander Sport	unitCost	10670.76
+Amax Double Eagle TT	unitCost	16900.0
+Amax Eagle	unitCost	11500.0
+Amax Eagle TT	unitCost	11900.0
+Epic E1000	unitCost	US$3M
+American Sportscopter Ultrasport 331	unitCost	35000.0
+American Sportscopter Ultrasport 496	unitCost	49000.0
+Eagle's Perch	unitCost	17995.0
+MVP Model 3	unitCost	US $169,000 Experimental - $189,000 S-LSA
+Northrop Grumman MQ-8C Fire Scout	unitCost	1.8E7
+Glasair Merlin LSA	unitCost	139000.0
+Pipistrel WATTsUP	unitCost	Target base price EUR 100,000
+Urban Aeronautics AirMule	unitCost	2500000.0
+Warwick M-1 Tiny Champ	unitCost	1200.0
+Hoffman X-1	unitCost	968.0
+FK-Lightplanes SW51 Mustang	unitCost	140000.0
+Antonov An-178	unitCost	US$ 40-70 million
+Rui Xiang RX1E	unitCost	163000.0
+The Airplane Factory Sling 4	unitCost	44297.0
+Vortech Skylark	unitCost	18995.0
+Vortech Sparrow	unitCost	3795.0
+Vortech Shadow	unitCost	16995.0
+W 95	unitCost	16995.0
+Vortech Meg-2XH Strap-On	unitCost	7995.0
+High-performance Instrumented Airborne Platform for Environmental Research	unitCost	8.0E7
+Phoenix Industries CV1 ParaFlyer	unitCost	7950.0
+Phoenix Industries Sport	unitCost	250.0
+Farrington Twinstar	unitCost	10995.0
+Hillberg Turbine Exec	unitCost	20000.0
+Hillberg EH1-01 RotorMouse	unitCost	58000.0
+Little Wing Roto-Pup	unitCost	8995.0
+Midwest Zodiac Talon-Turbine	unitCost	225.0
+Pawnee Warrior	unitCost	15500.0
+Raven Explorer I	unitCost	9995.0
+Raven Explorer II	unitCost	16995.0
+Rotorwing-Aero 3D-RV	unitCost	100.0
+Showers Skytwister Choppy	unitCost	95.0
+Windspire Aeros	unitCost	32.0
+EasyUp Parapropter	unitCost	99.0
+Paraplane PSE-2 Osprey	unitCost	9599.0
+Paraplane GE-2 Golden Eagle	unitCost	13679.0
+Paraplane WD-1 Wind Dancer	unitCost	7900.0
+Parascender Para-Ag	unitCost	11759.0
+Parascender I	unitCost	7159.0
+Parascender II	unitCost	9216.0
+Paratrek Angel 2-B	unitCost	9695.0
+Phoenix Industries TZ-1 ParaFlyer	unitCost	8450.0
+Six Chuter Skye Ryder Aerochute	unitCost	10500.0
+Bede BD-12	unitCost	33450.0
+Brutsche Freedom 210 STOL	unitCost	21850.0
+Bradley BA-200 ATAC	unitCost	23500.0
+Stemme S12	unitCost	300000.0
+Parrish Dart	unitCost	300.0
+Performance Aircraft Formula GT	unitCost	25500.0
+Brumby 610 Evolution	unitCost	AUD$110,000
+Specter Aircraft Specter II	unitCost	29495.0
+Spring WS202 Sprint	unitCost	5000.0
+Theiss Sportster	unitCost	4.994
+V-STOL Pairadigm	unitCost	24995.0
+Vancil Spitz S1	unitCost	3848.0
+Viper Aircraft Viperfan	unitCost	59500.0
+TeST TST-5 Variant	unitCost	16950.0
+Huntwing	unitCost	125.0
+Caudron Type H	unitCost	1280.0
+Adventure Wheely II	unitCost	9000.0
+Aerochute International Dual	unitCost	10950.0
+Air Sylphe 447	unitCost	8577.0
+Air Sylphe Bi 582	unitCost	12864.0
+Bilsam Sky Walker I	unitCost	5490.0
+Bilsam Sky Walker II	unitCost	9500.0
+Bilsam Sky Walker	unitCost	2700.0
+Bilsam Sky Cruiser	unitCost	29999.0
+Bilsam Ultra Cruiser	unitCost	9999.0
+Büttner Crazy Flyer	unitCost	14.543
+Southern Condor	unitCost	11895.0
+Eagles Wing Scout	unitCost	9150.0
+WLT Sparrow	unitCost	€75,000 plus tax
+HeliWhale Afalina	unitCost	120000.0
+Fresh Breeze Flyke	unitCost	1900.0
+Flitfire	unitCost	1560.0
+Gemini Twin	unitCost	15200.0
+Infinity Purple	unitCost	14000.0
+Kolb Flyer Powered Parachute	unitCost	14000.0
+Para-Ski Top Gun	unitCost	17050.0
+Roll Flight MR V	unitCost	1750.0
+Skymaster Excel	unitCost	16750.0
+Soaring Concepts Sky Trek	unitCost	13900.0
+SNAS Stryke-Air Bi	unitCost	9200.0
+Sundog Two-Seater	unitCost	C$$20,750.00
+Sundog One-Seater	unitCost	C$$17,000.00
+Swing-Europe Parashell	unitCost	4200.0
+Technic'air Fly Roller	unitCost	5000.0
+AgustaWestland AW109S Grand	unitCost	8100000.0
+Trio-Twister 103	unitCost	12900.0
+Trio-Twister 203	unitCost	8900.0
+Viking Aircraft Viking II	unitCost	11985.0
+Wrobel Vroby 2	unitCost	7600.0
+BDC Aero Puma	unitCost	86500.0
+Adventure A series	unitCost	3191.0
+Adventure R series	unitCost	2680.0
+Adventure S series	unitCost	3276.0
+Aero Nord AIR	unitCost	2900.0
+Aerosport OY Spider	unitCost	3450.0
+Airfer Bimax	unitCost	2979.0
+Airfer Titan	unitCost	2340.0
+Airfer Tornado	unitCost	2723.0
+Arey Tatush	unitCost	1750.0
+Av8er Explorer	unitCost	2974.0
+Av8er Observer Light	unitCost	3145.0
+Av8er Orbiter	unitCost	3230.0
+Back Bone Seraph	unitCost	3229.0
+Back Bone Shadow	unitCost	3176.0
+Back Bone Silver	unitCost	4799.0
+Bailey JPX D330	unitCost	4250.0
+Bailey Solo	unitCost	3250.0
+Büttner Crazy Plane	unitCost	4790.0
+Büttner Easy Plane	unitCost	4290.0
+D'Yves Yvasion 2000	unitCost	3570.0
+Dynamic Sport Climber	unitCost	2630.0
+Dynamic Sport Rocket	unitCost	1892.0
+Fly Castelluccio Flash	unitCost	3300.0
+Fly Castelluccio Mach	unitCost	2944.0
+Fly Castelluccio SMN	unitCost	2944.0
+Fresh Breeze Respect	unitCost	3624.0
+Fresh Breeze Airbass	unitCost	3499.0
+Jet Pocket Top 210	unitCost	3597.0
+Jet Pocket Top 80	unitCost	3796.0
+Jet Pocket Top Must	unitCost	3796.0
+La Mouette ZR 250	unitCost	3064.0
+La Mouette SR 210	unitCost	2383.0
+Mini-Fly Set	unitCost	3630.0
+MS Parafly Skyward	unitCost	2370.0
+NeuraJet Neura Jet	unitCost	4800.0
+Flywhale Aircraft Flywhale	unitCost	€152,000 basic in September 2015
+NST Minimum	unitCost	1702.0
+Paraavis Mirage	unitCost	3400.0
+Paraavis Sova	unitCost	2310.0
+Paraavis Pegasus	unitCost	3200.0
+Paraavis Vityaz	unitCost	3200.0
+Paramania Vortex	unitCost	3350.0
+Marbella Parapente Paramotor PAP	unitCost	3762.0
+Paramotor Performance M3	unitCost	4388.0
+Cessna Denali	unitCost	4500000.0
+Cessna Citation Hemisphere	unitCost	$30-35 million
+Paramotor Mosquito	unitCost	3000.0
+Parapower Parapower	unitCost	1800.0
+Parasport.de Fun	unitCost	3450.0
+Paratour SD	unitCost	4495.0
+Phoenix Skywalker	unitCost	3350.0
+Rad MXL	unitCost	1965.0
+Rad RXL	unitCost	1957.0
+Rad SXL Custom	unitCost	1961.0
+Reflex Bi Trike	unitCost	4000.0
+Reflex J 160	unitCost	3160.0
+Reflex J 320	unitCost	3600.0
+Reflex Solo Elec	unitCost	2970.0
+Reflex S	unitCost	3160.0
+Skyrunner Basic	unitCost	2300.0
+Skyrunner Powerful	unitCost	3300.0
+Skyrunner Booster	unitCost	3100.0
+Skyrunner Light	unitCost	2200.0
+Skyway Light	unitCost	3200.0
+Sokopf Falke	unitCost	3190.0
+Time To Fly Racket	unitCost	2500.0
+Time To Fly Backplane SL	unitCost	3300.0
+Aeromarine Merlin	unitCost	34000.0
+Moyes Litesport	unitCost	3403.0
+Moyes Sonic	unitCost	2340.0
+Offpiste Discovery	unitCost	2800.0
+Quasar Flavio	unitCost	2760.0
+Quasar Relief	unitCost	4265.0
+Quasar Tramp	unitCost	1965.0
+Northrop Grumman B-21 Raider	unitCost	5.5E8
+Seedwings Europe Merlin	unitCost	3834.0
+Seedwings Europe Kestrel	unitCost	3834.0
+Seedwings Europe Vertigo	unitCost	5113.0
+Raptor Aircraft Raptor	unitCost	130000.0
+Solar Wings Breeze	unitCost	2038.0
+Solar Wings Scandal	unitCost	3400.0
+Tecma F1 Tempo	unitCost	3184.0
+Tecma FX	unitCost	3578.0
+Tecma Mambo	unitCost	2380.0
+Tecma Medil	unitCost	2918.0
+Tecma Medium	unitCost	2918.0
+Wills Wing Eagle	unitCost	2255.0
+Wills Wing Falcon	unitCost	3875.0
+Wills Wing Talon	unitCost	3743.0
+Wills Wing U2	unitCost	5275.0
+Advance Alpha	unitCost	1698.0
+Advance Bi Beta	unitCost	2297.0
+Advance Epsilon	unitCost	1871.0
+Advance Omega	unitCost	2399.0
+Advance Sigma	unitCost	1999.0
+Aerodyne Shaman	unitCost	2750.0
+Aerodyne Jumbe	unitCost	2408.0
+Aerodyne Blaster	unitCost	3051.0
+Aerodyne Totem Bi	unitCost	3060.0
+Aerodyne Yogi	unitCost	2065.0
+Air-Sport Ajos	unitCost	975.0
+Air-Sport Chinook	unitCost	1085.0
+Air-Sport Pasat	unitCost	1003.0
+Airwave Magic	unitCost	2123.0
+Airwave Scenic	unitCost	2000.0
+Airwave Ten	unitCost	2208.0
+Airwave Sport	unitCost	1740.0
+Airwave Wave	unitCost	1660.0
+Apco Fiesta	unitCost	2400.0
+Apco Keara	unitCost	3002.0
+Apco Presta	unitCost	2868.0
+Apco Simba	unitCost	3127.0
+Apco Prima	unitCost	1756.0
+Calipt'Air Serenis	unitCost	2990.0
+Calipt'Air Vectis	unitCost	2675.0
+Calipt'Air Walabis Bi	unitCost	3168.0
+Dudek Action	unitCost	1275.0
+Dudek Lux	unitCost	1045.0
+Dudek Max	unitCost	862.0
+Dudek Rex	unitCost	850.0
+Dudek Vox	unitCost	898.0
+Dynamic Sport Enigma	unitCost	924.0
+Marc Parrot	unitCost	USD58,885 with unmodified Rotax 512 in 2014
+Dynamic Sport Gravis	unitCost	863.0
+Dynamic Sport Magnum	unitCost	924.0
+Dynamic Sport Raven	unitCost	900.0
+Dynamic Sport Viper	unitCost	998.0
+Edel Excel	unitCost	2897.0
+Régnier 12	unitCost	c.£380
+Firebird Choice Zip Bi	unitCost	2494.0
+Firebird Debute	unitCost	2323.0
+Firebird Grid	unitCost	1834.0
+Firebird Hornet	unitCost	1974.0
+Firebird Sub-One	unitCost	1498.0
+Firebird Z-One	unitCost	1591.0
+Aero Electric Sun Flyer	unitCost	200000.0
+Flight Design Twin	unitCost	2043.0
+FreeX FXT	unitCost	1690.0
+FreeX Blast	unitCost	1990.0
+FreeX Moon	unitCost	2193.0
+Gin Bolero Plus	unitCost	1616.0
+Gin Bongo	unitCost	2042.0
+Gin Boomerang	unitCost	3181.0
+Gin Gangster	unitCost	1871.0
+Gin Nomad	unitCost	2042.0
+Gin Oasis	unitCost	1701.0
+Gradient Aspen	unitCost	2567.0
+Gradient Avax	unitCost	2884.0
+Gradient BiOnyx	unitCost	2995.0
+Gradient Bliss	unitCost	2676.0
+Gradient Golden	unitCost	2270.0
+Gradient Bright	unitCost	2040.0
+Hockaday Comet	unitCost	$3,425 + propeller in December 1946
+CubCrafters CC19-180 XCub	unitCost	297500.0
+Icaro Cyber	unitCost	2216.0
+Icaro Force	unitCost	2383.0
+Independence Akron	unitCost	2670.0
+Independence Avalon	unitCost	2155.0
+Independence Dragon	unitCost	2500.0
+Independence Raptor	unitCost	1500.0
+Independence Speed Tandem	unitCost	2845.0
+ITV Diamant	unitCost	2779.0
+ITV Opale	unitCost	2091.0
+ITV Polaris	unitCost	2359.0
+ITV Proxima	unitCost	2091.0
+ITV Tomahawk	unitCost	2409.0
+ITV Turquoise	unitCost	2869.0
+Jojo Addiction	unitCost	1335.0
+Jojo Yoki	unitCost	1260.0
+Jojo Quest Bi	unitCost	1875.0
+Kimfly River	unitCost	1170.0
+Kimfly Alpin	unitCost	1085.0
+Caçador	unitCost	1.0E7
+Aviad Zigolo MG12	unitCost	€8,610  in 2014
+Mac Eden	unitCost	1727.0
+Mac Intox	unitCost	1883.0
+Mac Magus	unitCost	2256.0
+Mac Muse	unitCost	1603.0
+Mac Pasha	unitCost	2271.0
+MCC Boléa	unitCost	2257.0
+Nervures Altea	unitCost	1428.0
+Nervures Estive	unitCost	1233.0
+Nervures Stromboli	unitCost	2031.0
+Nervures Alpamayo	unitCost	2031.0
+Nervures Kenya	unitCost	1335.0
+Nervures Valluna	unitCost	1715.0
+Nova Aeron	unitCost	1829.0
+Nova Artax	unitCost	1701.0
+Nova Pheron	unitCost	1489.0
+Nova Phor	unitCost	1914.0
+Nova Phorus	unitCost	1446.0
+Nova Radon	unitCost	1914.0
+Ozone Atom	unitCost	1440.0
+Ozone Mac Daddy Bi	unitCost	2193.0
+Ozone Peak	unitCost	1470.0
+Ozone Proton	unitCost	2083.0
+Ozone Vibe	unitCost	1721.0
+Ozone Vulcan	unitCost	1960.0
+Paradelta Ben Hur	unitCost	3270.0
+Paradelta BiBreak	unitCost	2556.0
+Paradelta Break	unitCost	1914.0
+Paradelta Breathless	unitCost	2883.0
+Paraavis Dart	unitCost	1549.0
+Paratech P25	unitCost	2265.0
+Paratech P43	unitCost	2382.0
+Paratech P70	unitCost	2571.0
+Paratech P Bi4	unitCost	2507.0

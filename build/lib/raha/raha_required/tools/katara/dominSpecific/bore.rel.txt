@@ -1,0 +1,222 @@
+Volvo B4B engine	bore	75.0
+Volvo B4B engine	bore	79.4
+Ford Windsor engine	bore	4.000\
+Ford Windsor engine	bore	3.8
+Ford Windsor engine	bore	3.5
+GM Ecotec engine	bore	86.0
+GM Ecotec engine	bore	88.0
+Chrysler B engine	bore	4.0
+Chrysler B engine	bore	4.21
+Chrysler B engine	bore	4.25
+Chrysler B engine	bore	4.32
+Chrysler B engine	bore	4.342
+Chrysler 2.2 & 2.5 engine	bore	87.5
+Chrysler A engine	bore	3.75
+Chrysler A engine	bore	3.81
+Chrysler A engine	bore	3.88
+Chrysler A engine	bore	3.91
+Chrysler A engine	bore	3.95
+Ford Taunus V4 engine	bore	80.0
+Ford Taunus V4 engine	bore	84.0
+Ford Taunus V4 engine	bore	90.0
+Ford Modular engine	bore	3.552
+Ford Modular engine	bore	3.629
+Ford Modular engine	bore	3.68
+Ford Modular engine	bore	3.7
+W8 engine	bore	84.0
+VR6 engine	bore	81.0
+VR6 engine	bore	82.0
+VR6 engine	bore	89.0
+LS based GM small-block engine	bore	96.01
+LS based GM small-block engine	bore	99.0
+LS based GM small-block engine	bore	101.6
+LS based GM small-block engine	bore	103.25
+LS based GM small-block engine	bore	104.775
+LS based GM small-block engine	bore	99.6
+Chevrolet small-block engine	bore	95.0
+Chevrolet small-block engine	bore	99.0
+Chevrolet small-block engine	bore	101.6
+Iron Duke engine	bore	4.0
+General Motors 60° V6 engine	bore	89.0
+General Motors 60° V6 engine	bore	92.0
+Chevrolet straight-6 engine	bore	3.5
+Chevrolet straight-6 engine	bore	3.5625
+Chevrolet straight-6 engine	bore	3.563
+Chevrolet straight-6 engine	bore	3.875
+Jaguar AJ-V6 engine	bore	81.6
+Jaguar AJ-V6 engine	bore	89.0
+BMW M20	bore	80.0
+BMW M20	bore	84.0
+BMW M40	bore	84.0
+Toyota A engine	bore	77.5
+Toyota A engine	bore	76.0
+Toyota A engine	bore	81.0
+Toyota A engine	bore	78.7
+GM High Value engine	bore	94.0
+GM High Value engine	bore	99.0
+Ford Essex V6 engine	bore	93.67
+Ford Essex V6 engine	bore	94.67
+Ford Essex V6 engine	bore	95.25
+Ford Essex V6 engine	bore	100.0
+Ford Essex V6 engine	bore	3.81
+Ford SHO V6 engine	bore	89.0
+Ford SHO V6 engine	bore	92.0
+Ford HSC engine	bore	3.68
+Ford straight-six engine	bore	-226
+Ford straight-six engine	bore	-215
+Ford straight-six engine	bore	4\
+Powertec RPA	bore	2.7
+Powertec RPA	bore	3.2
+Lamborghini V10	bore	5
+Lamborghini V10	bore	5.2
+Lamborghini V8	bore	2
+Lamborghini V8	bore	2.5
+Lamborghini V12	bore	3.5
+Lamborghini V12	bore	6.2
+Lamborghini V12	bore	6.5
+BMW M21	bore	80.0
+BMW M41	bore	80.0
+BMW M47	bore	84.0
+BMW M51	bore	80.0
+BMW M67	bore	3.9
+BMW M67	bore	84.0
+BMW M67	bore	4.4
+BMW M67	bore	87.0
+Hyundai Beta engine	bore	82.3
+Hyundai Beta engine	bore	81.5
+Fully Integrated Robotised Engine	bore	65.0
+Fully Integrated Robotised Engine	bore	70.0
+Fully Integrated Robotised Engine	bore	70.8
+Fully Integrated Robotised Engine	bore	72.0
+Cummins B Series engine	bore	102.0
+Cummins B Series engine	bore	107.0
+Hyundai Theta engine	bore	86.0
+Hyundai Theta engine	bore	88.0
+Mercedes-Benz OM617	bore	91.0
+Mercedes-Benz OM617	bore	90.9
+GM Family 1 engine	bore	71.1
+GM Family 1 engine	bore	72.0
+GM Family 1 engine	bore	75.0
+GM Family 1 engine	bore	77.6
+GM Family 1 engine	bore	77.8
+GM Family 1 engine	bore	79.0
+GM Family 1 engine	bore	80.5
+GM Family 1 engine	bore	76.5
+Mercedes-Benz M104 engine	bore	M104.98x
+Chrysler Hemi engine	bore	3.917
+Chrysler Hemi engine	bore	4.055
+Chrysler Hemi engine	bore	4.09
+JTD engine	bore	82.0
+Nissan MR engine	bore	84.0
+FMR Tg500	bore	67.0
+Vauxhall Prince Henry	bore	1911
+Vauxhall Prince Henry	bore	1913
+BMW S85	bore	92.0
+Volkswagen G60 engine	bore	G60:
+Volkswagen G60 engine	bore	G40:
+Ford Duratec V6 engine	bore	81.66
+Ford Duratec V6 engine	bore	82.4
+Ford Duratec V6 engine	bore	89.0
+Ford Cyclone engine	bore	3.64
+Ford Cyclone engine	bore	3.76
+Chrysler SOHC V6 engine	bore	92.0
+Chrysler SOHC V6 engine	bore	96.0
+Detroit Diesel V8 engine	bore	6.2
+Morris Cowley	bore	nominal
+Morris Cowley	bore	actual
+Ford Boss engine	bore	4.015
+Subaru EA engine	bore	92.0
+GM Family II engine	bore	80.0
+GM Family II engine	bore	82.0
+GM Family II engine	bore	84.8
+GM Family II engine	bore	86.0
+GM Family II engine	bore	87.5
+GM Family II engine	bore	81.6
+Daimler V8 engines	bore	4
+Daimler V8 engines	bore	95.25
+Daimler V8 engines	bore	2
+Daimler V8 engines	bore	76.2
+Renault K-Type engine	bore	76.0
+Renault R-Type engine	bore	80.0
+Renault G-Type engine	bore	87.0
+Renault G-Type engine	bore	89.0
+MG VA	bore	69.5
+Mustang	bore	>
+Lotus-Ford Twin Cam	bore	82.55
+Triumph Dolomite	bore	75.0
+Toyota B engine	bore	95.0
+Toyota B engine	bore	98.0
+Toyota B engine	bore	102.0
+Toyota B engine	bore	108.0
+Rover 6	bore	95.0
+Rover 6	bore	97.0
+Wolseley Hornet six	bore	* \n* \n* Special
+BMW S65	bore	92.0
+Mazda FE-DOHC engine	bore	86.0
+Mercedes-Benz OM603	bore	87
+Volvo B8444S engine	bore	94.0
+Rover Meteor	bore	72.0
+Rover Meteor	bore	—20
+Rover Meteor	bore	65.0
+Rover Meteor	bore	—16
+Austin 10 hp	bore	3.0
+Toyota AD engine	bore	86.0
+Holden straight-six motor	bore	3.125
+Holden straight-six motor	bore	3.375
+Holden straight-six motor	bore	3.5
+Holden straight-six motor	bore	3.563
+BMW OHV V8 engine	bore	2.6
+BMW OHV V8 engine	bore	3.2
+Toyota C engine	bore	83.0
+Toyota C engine	bore	86.0
+Vauxhall A-Type	bore	90.0
+Rover Light Six	bore	65.0
+Rover 12	bore	59.0
+Rover 12	bore	61.0
+Mercedes-Benz OM611 engine	bore	88.0
+Mercedes-Benz OM612 engine	bore	88.0
+Hyundai Kappa engine	bore	71.0
+Hyundai Kappa engine	bore	72.0
+Mazda L engine	bore	83.0
+Mazda L engine	bore	87.5
+Mazda L engine	bore	89.0
+BMW N57	bore	84.0
+24 engine	bore	62.0
+Rolls-Royce C range engines	bore	51
+Commer TS3	bore	3
+Mercedes-Benz OM606 engine	bore	87.0
+SkyActiv	bore	71.0
+SkyActiv	bore	74.5
+SkyActiv	bore	83.5
+SkyActiv	bore	89.0
+30	bore	4.5
+Mercedes-Benz OM636	bore	73.5
+World Gasoline Engine	bore	86.0
+World Gasoline Engine	bore	88.0
+Opel Cam-in-head engine	bore	82.5
+Opel Cam-in-head engine	bore	85.0
+Opel Cam-in-head engine	bore	87.0
+Opel Cam-in-head engine	bore	88.0
+Opel Cam-in-head engine	bore	88.8
+Opel Cam-in-head engine	bore	92.0
+Opel Cam-in-head engine	bore	93.0
+Opel Cam-in-head engine	bore	95.0
+Cadillac High Technology engine	bore	88.0
+Cadillac High Technology engine	bore	92.0
+List of Volvo Trucks engines	bore	98.425
+List of Volvo Trucks engines	bore	108.0
+Morris Twelve	bore	69.5
+Hillman 16	bore	xxxxxxxxxxxx
+Viper engine	bore	4.0
+Viper engine	bore	4.03
+Viper engine	bore	4.055
+Ferrari F154 engine	bore	86.5
+Morris Oxford Empire models	bore	*
+Morris Oxford bullnose	bore	75.0
+Morris Oxford bullnose	bore	69.5
+Austin 20 hp	bore	* \n*
+Rover 20	bore	xxxxxxxxxxxx
+Rover Two-litre	bore	65.0
+Mercedes-Benz OM654 engine	bore	82.0
+MWM AKD 112 Z	bore	98.0
+12-1 SRW	bore	120.0

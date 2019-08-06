@@ -1,0 +1,2720 @@
+Los Angeles-class submarine	shipDisplacement	Surfaced: \nSubmerged:
+Ohio-class submarine	shipDisplacement	* surfaced\n* submerged
+German Type VII submarine	shipDisplacement	* surfaced\n* submerged
+German Type II submarine	shipDisplacement	*IIA\n** surfaced\n** submerged\n** total\n*IIB\n** surfaced\n** submerged\n** total\n*IIC\n** surfaced\n** submerged\n** total\n*IID\n** surfaced\n** submerged\n** total
+German Type IX submarine	shipDisplacement	* surfaced\n* submerged
+German submarine U-571	shipDisplacement	* surfaced\n* submerged\n* total
+German submarine U-110	shipDisplacement	* surfaced\n* submerged
+German submarine U-556	shipDisplacement	* surfaced\n* submerged
+German submarine U-2511	shipDisplacement	* surfaced\n* submerged
+German submarine U-552	shipDisplacement	* surfaced\n* submerged
+German submarine U-155	shipDisplacement	* surfaced\n* submerged
+German submarine U-20	shipDisplacement	* surfaced\n* submerged
+Type XXI submarine	shipDisplacement	* surfaced\n* submerged
+German Type XIV submarine	shipDisplacement	* surfaced\n* submerged
+German submarine U-553	shipDisplacement	* surfaced\n* submerged
+German submarine U-413	shipDisplacement	* surfaced\n* submerged
+German submarine U-238	shipDisplacement	* surfaced\n* submerged
+German submarine U-760	shipDisplacement	* surfaced\n* submerged
+German submarine U-2	shipDisplacement	* surfaced\n* submerged\n* total
+German submarine U-573	shipDisplacement	* surfaced\n* submerged
+German submarine U-463	shipDisplacement	* surfaced\n* submerged
+German submarine U-490	shipDisplacement	* surfaced\n* submerged
+German submarine U-461	shipDisplacement	* surfaced\n* submerged
+German submarine U-464	shipDisplacement	* surfaced\n* submerged
+German submarine U-487	shipDisplacement	* surfaced\n* submerged
+German submarine U-462	shipDisplacement	* surfaced\n* submerged
+German submarine U-488	shipDisplacement	* surfaced\n* submerged
+German submarine U-460	shipDisplacement	* surfaced\n* submerged
+German submarine U-489	shipDisplacement	* surfaced\n* submerged
+German submarine U-459	shipDisplacement	* surfaced\n* submerged
+German submarine U-27	shipDisplacement	* surfaced\n* submerged
+Japanese aircraft carrier Sōryū	shipDisplacement	* \n*
+Swiftsure-class submarine	shipDisplacement	standard;  submerged
+Trafalgar-class submarine	shipDisplacement	*Surfaced: 4,500 to \n*Submerged: 5,200 to
+German submarine U-862	shipDisplacement	* surfaced\n* submerged
+German battleship Bismarck	shipDisplacement	*  standard\n*  full load
+German submarine U-505	shipDisplacement	* surfaced\n* submerged
+Type XXIII submarine	shipDisplacement	*  surfaced \n* submerged
+SM U-19	shipDisplacement	* surfaced\n* submerged
+RFA Sir Galahad	shipDisplacement	*3,322 t standard\n*5,765 t fully loaded
+USS Thresher	shipDisplacement	light,  submerged
+Astute-class submarine	shipDisplacement	*Surfaced: 7,000 to \n*Submerged: 7,400 to
+HMS Astute	shipDisplacement	*Surfaced: 7,000 to \n*Submerged: 7,400 to
+USS Texas	shipDisplacement	full
+USS Nevada	shipDisplacement	--10-23
+Type 212 submarine	shipDisplacement	* surfaced\n* submerged
+USS North Carolina	shipDisplacement	* \n*
+Arleigh Burke-class destroyer	shipDisplacement	*Fully loaded:\n* Flight I: \n* Flight II: \n* Flight IIA: \n* Flight III:
+Tarawa-class amphibious assault ship	shipDisplacement	full load
+German Type I submarine	shipDisplacement	* surfaced\n* submerged\n*Official displacement was 712 tons standard
+USS Constellation	shipDisplacement	*  light\n*  full load\n*  dead
+Japanese battleship Yamato	shipDisplacement	*\n*
+German submarine U-429	shipDisplacement	* surfaced\n* submerged
+San Antonio-class amphibious transport dock	shipDisplacement	25300.0
+USS Nashville	shipDisplacement	*Light: \n*Full: \n*Dead:
+German submarine U-190	shipDisplacement	* surfaced\n* submerged
+German submarine U-869	shipDisplacement	* surfaced\n* submerged
+German submarine U-559	shipDisplacement	* surfaced\n* submerged
+Finnish coastal defence ship Ilmarinen	shipDisplacement	3900.0
+SMS Kaiser	shipDisplacement	*Designed: \n*Maximum:
+German submarine U-3008	shipDisplacement	* surfaced\n* submerged
+HMS Triumph	shipDisplacement	*Surfaced: 4,500 to \n*Submerged: 5,200 to
+French battleship Richelieu	shipDisplacement	*35,000 tons \n*47,548 t
+SM UB-4	shipDisplacement	* surfaced\n* submerged
+Type 45 destroyer	shipDisplacement	8000
+RFA Fort Victoria	shipDisplacement	full load
+HMS Trafalgar	shipDisplacement	*Surfaced: 4,500 to \n*Submerged: 5,200 to
+HMS Trenchant	shipDisplacement	*Surfaced: 4,500 to \n*Submerged: 5,200 to
+HMS Torbay	shipDisplacement	*Surfaced: 4,500 to \n*Submerged: 5,200 to
+HMS Turbulent	shipDisplacement	*Surfaced: 4,500 to \n*Submerged: 5,200 to
+HMS Tireless	shipDisplacement	*Surfaced: 4,500 to \n*Submerged: 5,200 to
+HMS Talent	shipDisplacement	*Surfaced: 4,500 to \n*Submerged: 5,200 to
+HMS Artful	shipDisplacement	*Surfaced: 7,000 to \n*Submerged: 7,400 to
+HMS Ambush	shipDisplacement	*Surfaced: 7,000 to \n*Submerged: 7,400 to
+German destroyer Mölders	shipDisplacement	standard
+German destroyer Lütjens	shipDisplacement	4720.0
+Finnish submarine Vesikko	shipDisplacement	* surfaced\n* submerged\n*381 tonnes total,
+USS Jonas Ingram	shipDisplacement	3807.0
+RFA Brambleleaf	shipDisplacement	full load
+RFA Lyme Bay	shipDisplacement	full load
+RFA Mounts Bay	shipDisplacement	full load
+RFA Cardigan Bay	shipDisplacement	full load
+HMAS Choules	shipDisplacement	* full load \n*
+Oberon-class submarine	shipDisplacement	*Surfaced: \n*Submerged:
+SMS Königsberg	shipDisplacement	Full load:
+Bayern-class battleship	shipDisplacement	full load
+HMCS Athabaskan	shipDisplacement	5100.0
+HMCS Onondaga	shipDisplacement	*Surfaced: \n*Submerged:
+German submarine U-853	shipDisplacement	* surfaced\n* submerged
+Protecteur-class replenishment oiler	shipDisplacement	* standard\n* full load
+SS John W. Brown	shipDisplacement	* \n*
+SS Commissaire Ramel	shipDisplacement	* As built:\n*  \n* From 1926\n*
+Kirov-class cruiser	shipDisplacement	* \n*
+German submarine U-884	shipDisplacement	* surfaced\n* submerged\n* total
+Horizon-class frigate	shipDisplacement	, full displacement
+Global Combat Ship	shipDisplacement	8000
+HMS Challenger	shipDisplacement	* standard\n* full
+River-class patrol vessel	shipDisplacement	*Batch 1: \n*Batch 2:
+USNS Kingsport	shipDisplacement	* \n*
+German submarine U-47	shipDisplacement	* surfaced\n* submerged
+German Type X submarine	shipDisplacement	* surfaced\n* submerged
+HMNZS Charles Upham	shipDisplacement	* light\n* full load
+Collins-class submarine	shipDisplacement	* \n*
+German submarine U-215	shipDisplacement	* surfaced\n* submerged
+SM U-28	shipDisplacement	* surfaced\n* submerged
+German submarine U-28	shipDisplacement	* surfaced\n* submerged
+German submarine U-32	shipDisplacement	* surfaced\n* submerged
+SM U-32	shipDisplacement	* \n*
+Zara-class cruiser	shipDisplacement	*11,870 t standard, 14,530 t full load Zara\n*11,508 t standard, 14,168 t full load Fiume\n*
+Zara-class cruiser	shipDisplacement	11900
+Zara-class cruiser	shipDisplacement	*11,730 t standard, 14,360 t full load Pola
+Trento-class cruiser	shipDisplacement	*13,110 t Normal\n*13,545 t full load
+SMS Goeben	shipDisplacement	* Design: \n* Full load:
+German submarine U-234	shipDisplacement	* surfaced\n* submerged
+Mackensen-class battlecruiser	shipDisplacement	*  \n*
+Anzac-class frigate	shipDisplacement	full load displacement
+German submarine U-166	shipDisplacement	* surfaced\n* submerged
+German submarine U-171	shipDisplacement	* surfaced\n* submerged
+USS Betelgeuse	shipDisplacement	* \n*
+HDMS Flyvefisken	shipDisplacement	* light\n* full load
+Flyvefisken-class patrol vessel	shipDisplacement	* light\n* full load
+German submarine U-537	shipDisplacement	* surfaced\n* submerged
+Odyssey	shipDisplacement	*Empty: \n*Submerged:
+HMCS Okanagan	shipDisplacement	*Surfaced: \n*Submerged:
+HMCS Ojibwa	shipDisplacement	*Surfaced: \n*Submerged:
+Kidd-class destroyer	shipDisplacement	*Light: \n*Full: \n*Dead Weight:
+German submarine Wilhelm Bauer	shipDisplacement	* surfaced\n* submerged
+SMS Schleswig-Holstein	shipDisplacement	* normal\n* full load
+Soviet submarine K-279	shipDisplacement	*9000 m³  surfaced\n*10500m³  submerged
+SMS Seydlitz	shipDisplacement	*  normal\n*  full load
+French battleship Jean Bart	shipDisplacement	*35,000 tons standard as designed\n*48,950 t at full load, in 1949
+Japanese ironclad Kōtetsu	shipDisplacement	1358.0
+SMS Szent István	shipDisplacement	*  standard\n*  full load
+ORP Orzeł	shipDisplacement	*2,460 t., surfaced\n*3,180 t., submerged
+ORP Orzeł	shipDisplacement	*1,100 t, surfaced\n*1,600, submerged
+Japanese cruiser Takao	shipDisplacement	,
+INS Sindhurakshak	shipDisplacement	* surfaced\n* submerged
+German submarine U-262	shipDisplacement	* surfaced\n* submerged
+German tanker Altmark	shipDisplacement	full load
+Japanese aircraft carrier Ryūjō	shipDisplacement	* \n*
+Coastal-class ferry	shipDisplacement	displacement
+Kolkata-class destroyer	shipDisplacement	full load
+French aircraft carrier Foch	shipDisplacement	* standard\n* full load
+USS Susquehanna	shipDisplacement	17857.0
+Italian cruiser Giovanni delle Bande Nere	shipDisplacement	* \n*
+Walrus-class submarine	shipDisplacement	*2,350 t surfaced,\n*2,650 t submerged,\n*1,900 t standard
+Georges Leygues-class frigate	shipDisplacement	full load
+Italian cruiser Zara	shipDisplacement	* standard\n* full load
+ORP Gryf	shipDisplacement	2227.0
+ORP Burza	shipDisplacement	*1400 t, std\n*1910 t, full
+French frigate Jean Bart	shipDisplacement	4500.0
+French frigate Cassard	shipDisplacement	4500.0
+French frigate Jean de Vienne	shipDisplacement	*\n* full load
+French frigate La Motte-Picquet	shipDisplacement	*\n* full load
+French frigate Georges Leygues	shipDisplacement	*\n* full load
+French frigate Dupleix	shipDisplacement	*\n* full load
+French frigate Montcalm	shipDisplacement	full load
+French frigate Primauguet	shipDisplacement	*\n* full load
+French frigate Latouche-Tréville	shipDisplacement	*\n* full load
+French Barracuda-class submarine	shipDisplacement	*4,765 t surfaced\n*5,300 t submerged
+French Barracuda-class submarine	shipDisplacement	over 4,000 t submerged
+SMS König	shipDisplacement	*  normal\n*  full load
+HNLMS Walrus	shipDisplacement	* surfaced\n* submerged
+German submarine U-1230	shipDisplacement	* surfaced\n* submerged
+SMS Blücher	shipDisplacement	*  \n*
+SMS Derfflinger	shipDisplacement	* Normal: \n* Full Load:
+LCVP	shipDisplacement	light
+USS Amber	shipDisplacement	260.0
+SMS Moltke	shipDisplacement	* Design: \n* Full load:
+SMS Von der Tann	shipDisplacement	* Design: \n* Full load:
+SMS Schlesien	shipDisplacement	* normal\n* full load
+SMS Helgoland	shipDisplacement	*  \n*
+SMS Viribus Unitis	shipDisplacement	standard
+SMS Tegetthoff	shipDisplacement	standard
+SMS Prinz Eugen	shipDisplacement	standard
+German submarine U-534	shipDisplacement	* surfaced\n* submerged
+French battleship Suffren	shipDisplacement	* \n*
+French ship Mistral	shipDisplacement	*16,500 t \n*21,300 t \n*32,300 t
+French ship Tonnerre	shipDisplacement	*16,500 t \n*21,300 t \n*32,300 t
+USS Arlington	shipDisplacement	full
+USNS Mizar	shipDisplacement	1850.0
+Talwar-class frigate	shipDisplacement	full load \n standard load
+German submarine U-195	shipDisplacement	* surfaced\n* submerged
+German submarine U-852	shipDisplacement	* surfaced\n* submerged
+Japanese destroyer Hayate	shipDisplacement	* \n*
+Japanese destroyer Kisaragi	shipDisplacement	* \n*
+HMS Bat	shipDisplacement	* light\n* full load
+German submarine U-219	shipDisplacement	* surfaced\n* submerged
+German submarine U-859	shipDisplacement	* surfaced\n* submerged
+German submarine U-181	shipDisplacement	* surfaced \n* submerged
+Italian submarine Axum	shipDisplacement	* surfaced\n* submerged
+Adua-class submarine	shipDisplacement	* surfaced\n* submerged
+Landing Craft Utility	shipDisplacement	* light\n* loaded
+German submarine U-333	shipDisplacement	* surfaced\n* submerged
+D'Estienne d'Orves-class aviso	shipDisplacement	1100
+Type 214 submarine	shipDisplacement	1690
+Rubis-class submarine	shipDisplacement	*2400 t \n*2600 t
+French submarine Rubis	shipDisplacement	2600.0
+French submarine Améthyste	shipDisplacement	2600.0
+French submarine Émeraude	shipDisplacement	2600.0
+French submarine Saphir	shipDisplacement	2600.0
+French submarine Perle	shipDisplacement	2600.0
+French submarine Casabianca	shipDisplacement	2670.0
+French battleship Paris	shipDisplacement	* \n*
+Long-Term Mine Reconnaissance System	shipDisplacement	)
+Irving Johnson	shipDisplacement	129.0
+Saipem 7000	shipDisplacement	172000.0
+Japanese cruiser Yūbari	shipDisplacement	standard ;  full load ;  full load
+Takao-class cruiser	shipDisplacement	* \n*
+Hobart-class destroyer	shipDisplacement	full load
+SM U-135	shipDisplacement	* surfaced\n* submerged
+French battleship France	shipDisplacement	* \n*
+Chungmugong Yi Sun-sin-class destroyer	shipDisplacement	* standard\n* full load
+German submarine U-736	shipDisplacement	* surfaced\n* submerged
+German submarine U-1063	shipDisplacement	* surfaced\n* submerged
+German submarine U-995	shipDisplacement	*  surfaced\n*  submerged
+German submarine U-175	shipDisplacement	* surfaced\n* submerged
+Chinese submarine 361	shipDisplacement	* surfaced\n* submerged
+HMS Resolution	shipDisplacement	14190
+NoCGV Tromsø	shipDisplacement	2100.0
+Russian submarine Chelyabinsk	shipDisplacement	13.4
+Italian cruiser Bartolomeo Colleoni	shipDisplacement	* \n*
+HMCS Huron	shipDisplacement	5100.0
+HMCS Iroquois	shipDisplacement	5100.0
+Projekt 206FM class minehunter	shipDisplacement	* standard\n* full load
+French ship Francis Garnier	shipDisplacement	770
+Shishumar-class submarine	shipDisplacement	* surfaced\n* submerged
+Sindhughosh-class submarine	shipDisplacement	* surfaced\n* submerged
+HMCS Preserver	shipDisplacement	full load
+HMCS Protecteur	shipDisplacement	* standard\n* full load
+SMS Pommern	shipDisplacement	*  normal\n*  full load
+BATRAL-class landing ship	shipDisplacement	770
+Scorpène-class submarine	shipDisplacement	* \n* \n*
+Japanese cruiser Yahagi	shipDisplacement	;
+HSwMS Drottning Victoria	shipDisplacement	*6,842 t standard;\n*7,663 t full load
+Type 206 submarine	shipDisplacement	*450 t, surfaced;\n*498 t, submerged
+HMS Graph	shipDisplacement	* surfaced\n* submerged
+HSwMS Småland	shipDisplacement	* standard\n* full load
+HMS Daring	shipDisplacement	8000
+Agano-class cruiser	shipDisplacement	;
+ARA Almirante Brown	shipDisplacement	6800
+HMS Electra	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+Zwaardvis-class submarine	shipDisplacement	*2,408 tonnes surfaced\n                              *2,640 tonnes Submerged\n                              *2,660 t and 2,376 t for Hai Lung
+USS Murzim	shipDisplacement	4023
+USS Dutton	shipDisplacement	340
+Soviet cruiser Krasnyi Kavkaz	shipDisplacement	* \n*
+Soviet cruiser Maxim Gorky	shipDisplacement	* \n*
+Italian cruiser Gorizia	shipDisplacement	* standard\n* full load
+French submarine Minerve	shipDisplacement	* surfaced\n* submerged
+Giussano-class cruiser	shipDisplacement	* standard\n*  full load
+HSwMS Sverige	shipDisplacement	*6852 t standard;\n*7688 t full load
+HSwMS Gustav V	shipDisplacement	*6,842 t standard;\n*7,663 t full load
+Japanese cruiser Noshiro	shipDisplacement	;
+Japanese cruiser Agano	shipDisplacement	;
+French ironclad Redoutable	shipDisplacement	*\n*
+ORP Gryf	shipDisplacement	*standard: 1489t\n*full: 1745t
+ORP Wicher	shipDisplacement	*1,540 t\n*full: 2,010 t
+Västergötland-class submarine	shipDisplacement	*Surfaced: \n*Submerged:
+Södermanland-class submarine	shipDisplacement	Submerged:
+Gotland-class submarine	shipDisplacement	*Surfaced: \n*Submerged:
+ARA Veinticinco de Mayo	shipDisplacement	6800
+German submarine U-864	shipDisplacement	* surfaced\n* submerged
+Type 202 submarine	shipDisplacement	*100 t, surfaced;\n*137 t, submerged
+Type 201 submarine	shipDisplacement	~450 t, submerged
+Lütjens-class destroyer	shipDisplacement	4720.0
+SS Albert M. Boe	shipDisplacement	7175
+Frankenthal-class minehunter	shipDisplacement	650.0
+German submarine U-1276	shipDisplacement	* surfaced\n* submerged
+German submarine U-550	shipDisplacement	* surfaced\n* submerged
+Canberra-class landing helicopter dock	shipDisplacement	at full load
+USS Rocky Mount	shipDisplacement	7240
+German submarine U-260	shipDisplacement	* surfaced\n* submerged
+Norwegian K-class submarine	shipDisplacement	* surfaced\n* submerged
+USS Fuller	shipDisplacement	8000
+Jaguar-class fast attack craft	shipDisplacement	* standard\n* full load
+ORP Krakowiak	shipDisplacement	*standard: 1,050 t\n*total: 1,490 t
+German submarine U-69	shipDisplacement	* surfaced\n* submerged
+Borei-class submarine	shipDisplacement	* surfaced\n* submerged
+SMS Nassau	shipDisplacement	* Designed: \n* Full load:
+Arktika-class icebreaker	shipDisplacement	23000.0
+SMS Ägir	shipDisplacement	* \n*
+SMS Kronprinz	shipDisplacement	*  design\n*  full load
+Croatian missile boat Kralj Petar Krešimir IV	shipDisplacement	*Standard: \n*Full:
+König-class battleship	shipDisplacement	*  design\n*  full load
+SM U-151	shipDisplacement	* \n* \n*
+Kaiser-class battleship	shipDisplacement	*  \n*
+French seaplane carrier Commandant Teste	shipDisplacement	* \n*
+French submarine Plongeur	shipDisplacement	381
+Italian cruiser Alberto da Giussano	shipDisplacement	* \n*
+Italian cruiser Alberico da Barbiano	shipDisplacement	* \n*
+Viking	shipDisplacement	~
+German submarine U-520	shipDisplacement	* surfaced\n* submerged
+French submarine Dupuy de Lôme	shipDisplacement	* \n*
+French ship Dupuy de Lôme	shipDisplacement	3100.0
+Kobben-class submarine	shipDisplacement	* surfaced\n* submerged
+SM U-35	shipDisplacement	* \n*
+Dunkerque-class battleship	shipDisplacement	* 26,500 t \n*   tonnes
+Courbet-class battleship	shipDisplacement	* \n*
+Richelieu-class battleship	shipDisplacement	*35000 tons standard as designed\n* full load
+CB90-class fast assault craft	shipDisplacement	13000
+Welman submarine	shipDisplacement	* without warhead\n*
+Japanese cruiser Maya	shipDisplacement	,
+German submarine U-549	shipDisplacement	* surfaced\n* submerged
+Iran Ajr	shipDisplacement	* empty\n* full load
+USNS Sirius	shipDisplacement	*16,680 t. \n*10,205 t.
+SM U-110	shipDisplacement	* surfaced\n* submerged
+HNLMS Gelderland	shipDisplacement	4100.0
+SSCV Thialf	shipDisplacement	198750
+USNS John Ericsson	shipDisplacement	*9,500 long tons  light\n*Full load variously reported as 42,382 and 40,700 long tons
+Russian submarine Vladimir Monomakh	shipDisplacement	* surfaced\n* submerged
+German submarine U-883	shipDisplacement	* surfaced\n* submerged\n* total
+German submarine U-33	shipDisplacement	* surfaced\n* submerged
+USNS Mission Buenaventura	shipDisplacement	* light;\n* full
+Costa Fortuna	shipDisplacement	50379.0
+ORP Sęp	shipDisplacement	*1,100 t., surfaced\n*1,437 t., submerged
+Arancia-class lifeboat	shipDisplacement	without engine
+XP-class lifeboat	shipDisplacement	61
+German submarine U-507	shipDisplacement	* surfaced\n* submerged
+HMAS Labuan	shipDisplacement	* light\n* beaching
+Danton-class battleship	shipDisplacement	*  \n*
+MV Liemba	shipDisplacement	1575.0
+Sovetsky Soyuz-class battleship	shipDisplacement	* \n*
+Kotlin-class destroyer	shipDisplacement	* ,\n*
+SMS Sankt Georg	shipDisplacement	*Design: \n*Full load:
+German submarine U-977	shipDisplacement	* surfaced\n* submerged
+German Type XVII submarine	shipDisplacement	*Type XVIIA\n*Wa 201 :\n** surfaced\n** submerged\n** total\n*Wk 202 :\n** surfaced\n** submerged\n** total\n*Type XVIIB\n** surfaced\n** submerged\n** total
+Normandie-class battleship	shipDisplacement	Full load:
+Kronshtadt-class battlecruiser	shipDisplacement	* \n*
+Soviet cruiser Krasnyi Krym	shipDisplacement	* \n*
+Russian cruiser Askold	shipDisplacement	full load
+Japanese cruiser Sakawa	shipDisplacement	;
+Italian cruiser Luigi Cadorna	shipDisplacement	* standard\n* full load
+SM UB-81	shipDisplacement	* surfaced\n* submerged
+German Type UB I submarine	shipDisplacement	*, surfaced\n*, submerged
+German submarine U-754	shipDisplacement	* surfaced\n* submerged
+German submarine U-4	shipDisplacement	* surfaced\n* submerged\n* total
+German submarine U-346	shipDisplacement	* surfaced\n* submerged
+German submarine U-22	shipDisplacement	* surfaced\n* submerged
+German submarine U-1	shipDisplacement	* surfaced\n* submerged\n* total
+Italian cruiser Armando Diaz	shipDisplacement	* standard\n* full load
+German submarine U-365	shipDisplacement	* surfaced\n* submerged
+German submarine U-889	shipDisplacement	* surfaced\n* submerged
+Bora-class hovercraft	shipDisplacement	Around
+German submarine U-36	shipDisplacement	* surfaced\n* submerged
+German submarine U-48	shipDisplacement	* surfaced\n* submerged
+German submarine U-803	shipDisplacement	* surfaced\n* submerged
+German submarine U-1000	shipDisplacement	* surfaced\n* submerged
+German submarine U-140	shipDisplacement	* surfaced\n* submerged
+German submarine U-821	shipDisplacement	* surfaced\n* submerged
+German submarine U-193	shipDisplacement	* surfaced\n* submerged
+German submarine U-192	shipDisplacement	* surfaced\n* submerged
+German submarine U-3519	shipDisplacement	* surfaced\n* submerged
+German submarine U-75	shipDisplacement	* surfaced\n* submerged
+German submarine U-303	shipDisplacement	* surfaced\n* submerged
+German submarine U-6	shipDisplacement	* surfaced\n* submerged\n* total
+German submarine U-512	shipDisplacement	* surfaced\n* submerged
+German submarine U-1226	shipDisplacement	* surfaced\n* submerged
+German submarine U-735	shipDisplacement	* surfaced\n* submerged
+German submarine U-718	shipDisplacement	* surfaced\n* submerged
+German submarine U-254	shipDisplacement	* surfaced\n* submerged
+SM U-55	shipDisplacement	* surfaced\n* submerged
+German submarine U-961	shipDisplacement	* surfaced\n* submerged
+Shivalik-class frigate	shipDisplacement	full load
+INS Amba	shipDisplacement	* standard\n* full load
+German submarine U-703	shipDisplacement	* surfaced\n* submerged
+German submarine U-227	shipDisplacement	* surfaced\n* submerged
+SMS Karlsruhe	shipDisplacement	*Design: \n*Full load:
+German submarine U-2324	shipDisplacement	* surfaced\n* submerged
+German submarine U-1234	shipDisplacement	* surfaced\n* submerged
+Stalingrad-class battlecruiser	shipDisplacement	* \n*
+German submarine U-470	shipDisplacement	* surfaced\n* submerged
+German submarine U-844	shipDisplacement	* surfaced\n* submerged
+German submarine U-964	shipDisplacement	* surfaced\n* submerged
+German submarine U-958	shipDisplacement	* surfaced\n* submerged
+Hai Lung-class submarine	shipDisplacement	*2376 t \n                              *2660 t
+RV Oceania	shipDisplacement	370.0
+Arihant-class submarine	shipDisplacement	surfaced
+German submarine U-156	shipDisplacement	* surfaced\n* submerged
+German submarine U-25	shipDisplacement	* surfaced\n* submerged\n*Official displacement was 712 tons standard
+German submarine U-26	shipDisplacement	* surfaced\n* submerged\n*Official displacement was 712 tons standard
+German submarine U-405	shipDisplacement	* surfaced\n* submerged
+German submarine U-10	shipDisplacement	* surfaced\n* submerged
+German submarine U-615	shipDisplacement	*\n* submerged\n* total
+SM U-1	shipDisplacement	* surfaced\n* submerged
+German submarine U-566	shipDisplacement	* surfaced\n* submerged
+German submarine U-551	shipDisplacement	* surfaced\n* submerged
+German submarine U-554	shipDisplacement	* surfaced\n* submerged
+German submarine U-555	shipDisplacement	* surfaced\n* submerged
+German submarine U-2501	shipDisplacement	* surfaced\n* submerged
+German submarine U-196	shipDisplacement	* surfaced \n* submerged
+German submarine U-768	shipDisplacement	* surfaced\n* submerged\n* total
+USS Erie	shipDisplacement	* \n*
+SMS Panther	shipDisplacement	* \n*
+Design B-65 cruiser	shipDisplacement	*Standard: \n*Full-load:
+German submarine U-521	shipDisplacement	* surfaced\n* submerged
+German submarine U-509	shipDisplacement	* surfaced\n* submerged
+German submarine U-86	shipDisplacement	* surfaced\n* submerged
+German submarine U-100	shipDisplacement	* surfaced\n* submerged
+German submarine U-518	shipDisplacement	* surfaced\n* submerged
+German submarine U-531	shipDisplacement	* surfaced\n* submerged
+German submarine U-51	shipDisplacement	* surfaced\n* submerged
+German submarine U-529	shipDisplacement	* surfaced\n* submerged
+German submarine U-78	shipDisplacement	* surfaced\n* submerged
+German submarine U-7	shipDisplacement	* surfaced\n* submerged
+German submarine U-124	shipDisplacement	* surfaced\n* submerged
+German submarine U-352	shipDisplacement	* surfaced\n* submerged
+German submarine U-16	shipDisplacement	* surfaced\n* submerged
+Japanese battlecruiser Kurama	shipDisplacement	* ;\n*
+German submarine U-973	shipDisplacement	* surfaced\n* submerged
+German submarine U-49	shipDisplacement	* surfaced\n* submerged
+German submarine U-468	shipDisplacement	* surfaced\n* submerged
+German submarine U-98	shipDisplacement	* surfaced\n* submerged
+German submarine U-502	shipDisplacement	* surfaced\n* submerged
+German submarine U-533	shipDisplacement	* surfaced\n* submerged
+German submarine U-504	shipDisplacement	* surfaced\n* submerged
+German submarine U-107	shipDisplacement	* surfaced\n* submerged
+German submarine U-63	shipDisplacement	* surfaced\n* submerged
+German submarine U-427	shipDisplacement	* surfaced\n* submerged
+German submarine U-503	shipDisplacement	* surfaced\n* submerged
+German submarine U-A	shipDisplacement	* surfaced \n* submerged
+Tripartite-class minehunter	shipDisplacement	* empty\n* full load
+P-class cruiser	shipDisplacement	design
+M-class cruiser	shipDisplacement	* '\n* '
+German submarine U-201	shipDisplacement	* surfaced\n* submerged
+German submarine U-307	shipDisplacement	* surfaced\n* submerged
+SM U-15	shipDisplacement	* surfaced\n* submerged
+German submarine U-42	shipDisplacement	* surfaced\n* submerged
+German submarine U-337	shipDisplacement	* surfaced\n* submerged
+German submarine U-765	shipDisplacement	* surfaced\n* submerged
+Uzushio-class submarine	shipDisplacement	1850
+French destroyer Ouragan	shipDisplacement	* \n*
+Harukaze-class destroyer	shipDisplacement	* standard\n* full load
+Ayanami-class destroyer	shipDisplacement	* standard\n* full load
+HMS Diamond	shipDisplacement	8000
+HMS Dauntless	shipDisplacement	8000
+HMS Defender	shipDisplacement	8000
+HMS Dragon	shipDisplacement	8000
+HMS Duncan	shipDisplacement	8000
+Novara-class cruiser	shipDisplacement	* \n*
+German submarine U-183	shipDisplacement	* surfaced\n* submerged
+German submarine U-180	shipDisplacement	* surfaced\n* submerged
+HMS Churchill	shipDisplacement	submerged
+Batillus	shipDisplacement	663000.0
+Bellamya	shipDisplacement	633.0
+German submarine U-269	shipDisplacement	* surfaced\n* submerged
+Italian cruiser Raimondo Montecuccoli	shipDisplacement	* standard\n* full load
+Italian cruiser Emanuele Filiberto Duca d'Aosta	shipDisplacement	* standard\n* full load
+Finnish coastal defence ship Väinämöinen	shipDisplacement	3900.0
+German submarine U-1105	shipDisplacement	* surfaced\n* submerged
+German submarine U-31	shipDisplacement	* surfaced\n* submerged
+German submarine U-185	shipDisplacement	* surfaced\n* submerged
+German submarine U-125	shipDisplacement	* surfaced\n* submerged
+Gnevny-class destroyer	shipDisplacement	* \n*
+Soobrazitelnyy-class destroyer	shipDisplacement	* \n*
+Joffre-class aircraft carrier	shipDisplacement	* \n*
+German submarine U-388	shipDisplacement	* surfaced\n* submerged
+German submarine U-371	shipDisplacement	* surfaced\n* submerged
+German submarine U-95	shipDisplacement	* surfaced\n* submerged
+German submarine U-23	shipDisplacement	* surfaced\n* submerged
+German submarine U-596	shipDisplacement	* surfaced\n* submerged
+German submarine U-539	shipDisplacement	* surfaced\n* submerged
+Chacal-class destroyer	shipDisplacement	* \n*
+Aigle-class destroyer	shipDisplacement	* \n*
+Guépard-class destroyer	shipDisplacement	* \n*
+Mogador-class destroyer	shipDisplacement	* \n*
+L'Adroit-class destroyer	shipDisplacement	* standard\n* full load
+Le Hardi-class destroyer	shipDisplacement	* \n*
+Triomphant-class submarine	shipDisplacement	*12,640 tonne \n*14,335 tonne
+French battleship Courbet	shipDisplacement	* \n*
+HSwMS Dristigheten	shipDisplacement	3445.0
+Endurance-class landing platform dock	shipDisplacement	*Standard: \n*Full load:
+Russian submarine Krasnoyarsk	shipDisplacement	13.4
+German submarine U-134	shipDisplacement	* surfaced\n* submerged
+German submarine U-34	shipDisplacement	* surfaced\n* submerged
+German submarine U-131	shipDisplacement	* surfaced\n* submerged
+Sōryū-class submarine	shipDisplacement	*Surfaced: \n*Submerged:
+HSY-55-class gunboat	shipDisplacement	full load
+German submarine U-37	shipDisplacement	* surfaced\n* submerged
+German submarine U-38	shipDisplacement	* surfaced\n* submerged
+German submarine U-3	shipDisplacement	* surfaced\n* submerged\n* total
+German submarine U-99	shipDisplacement	* surfaced\n* submerged
+German submarine U-221	shipDisplacement	* surfaced\n* submerged
+German submarine U-362	shipDisplacement	* surfaced\n* submerged
+USS Chicopee	shipDisplacement	*5,375 t \n*22,430 t
+French battleship Jauréguiberry	shipDisplacement	* \n*
+German submarine U-331	shipDisplacement	* surfaced\n* submerged
+German submarine U-481	shipDisplacement	* surfaced\n* submerged
+USS Capella	shipDisplacement	* \n*
+SS George Washington	shipDisplacement	33000.0
+Stalwart-class ocean surveillance ship	shipDisplacement	1565
+German submarine U-144	shipDisplacement	* surfaced\n* submerged
+SMS Rheinland	shipDisplacement	* Designed: \n* Full load:
+SMS Westfalen	shipDisplacement	* Designed: \n* Full load:
+SMS Posen	shipDisplacement	* Designed: \n* Full load:
+German submarine U-12	shipDisplacement	* surfaced\n* submerged
+MV Adonia	shipDisplacement	15100.0
+German submarine U-39	shipDisplacement	* surfaced\n* submerged
+German submarine U-40	shipDisplacement	* surfaced\n* submerged
+German submarine U-41	shipDisplacement	* surfaced\n* submerged
+Russian destroyer Novik	shipDisplacement	* \n*
+German submarine U-217	shipDisplacement	* surfaced\n* submerged
+German submarine U-83	shipDisplacement	* surfaced\n* submerged
+German submarine U-79	shipDisplacement	* surfaced\n* submerged
+German submarine U-72	shipDisplacement	* surfaced\n* submerged
+German submarine U-70	shipDisplacement	* surfaced\n* submerged
+German submarine U-176	shipDisplacement	* surfaced\n* submerged
+German submarine U-625	shipDisplacement	* surfaced\n* submerged
+German submarine U-441	shipDisplacement	* surfaced\n* submerged
+German submarine U-843	shipDisplacement	* surfaced\n* submerged
+Project 664-class torpedo boat	shipDisplacement	* standard\n* full
+German submarine U-1235	shipDisplacement	* surfaced\n* submerged
+German submarine U-1227	shipDisplacement	* surfaced\n* submerged
+German submarine U-218	shipDisplacement	* surfaced\n* submerged
+German submarine U-255	shipDisplacement	* surfaced\n* submerged
+German submarine U-501	shipDisplacement	* surfaced\n* submerged
+ORP Mazur	shipDisplacement	*340 t, standard\n*421 t, full
+German submarine U-1059	shipDisplacement	* surfaced\n* submerged
+German submarine U-1061	shipDisplacement	* surfaced\n* submerged
+German submarine U-1062	shipDisplacement	* surfaced\n* submerged
+German submarine U-1060	shipDisplacement	* surfaced\n* submerged
+German submarine U-300	shipDisplacement	* surfaced\n* submerged
+German submarine U-317	shipDisplacement	* surfaced\n* submerged
+German submarine U-280	shipDisplacement	* surfaced\n* submerged
+German submarine U-268	shipDisplacement	* surfaced\n*  submerged
+German submarine U-1302	shipDisplacement	* surfaced\n* submerged
+German submarine U-511	shipDisplacement	* surfaced\n* submerged
+German submarine U-530	shipDisplacement	* surfaced\n* submerged
+German submarine U-228	shipDisplacement	* surfaced\n* submerged
+German submarine U-353	shipDisplacement	* surfaced\n* submerged
+German submarine U-535	shipDisplacement	* surfaced\n* submerged
+German submarine U-324	shipDisplacement	* surfaced\n* submerged
+German submarine U-383	shipDisplacement	* surfaced\n* submerged
+German submarine U-340	shipDisplacement	* surfaced\n* submerged
+German submarine U-443	shipDisplacement	* surfaced\n* submerged
+German submarine U-438	shipDisplacement	* surfaced\n* submerged
+German submarine U-953	shipDisplacement	* surfaced\n* submerged
+German submarine U-759	shipDisplacement	* surfaced\n* submerged
+German submarine U-400	shipDisplacement	* surfaced\n* submerged
+German submarine U-1021	shipDisplacement	* surfaced\n* submerged
+German submarine U-325	shipDisplacement	* surfaced\n* submerged
+Halland-class destroyer	shipDisplacement	* standard\n* full load
+USNS Parkersburg	shipDisplacement	5782
+German submarine U-772	shipDisplacement	* surfaced\n* submerged
+German submarine U-43	shipDisplacement	* surfaced\n* submerged
+SM U-103	shipDisplacement	* surfaced\n* submerged
+USNS Worthy	shipDisplacement	1565
+Type 062 gunboat	shipDisplacement	*Shanghai-I class :\n* full\n*Shanghai-II class :\n* full
+Wolei-class minelayer	shipDisplacement	* standard\n* full
+Type 082 mine countermeasure vessel	shipDisplacement	full load
+ICGV Þór	shipDisplacement	3920.0
+German submarine U-309	shipDisplacement	* surfaced\n* submerged
+USS Calvert	shipDisplacement	*  8,889 tons ,\n*14,247 t.
+German submarine U-957	shipDisplacement	* surfaced\n* submerged
+German submarine U-253	shipDisplacement	* surfaced\n* submerged
+German submarine U-259	shipDisplacement	* surfaced\n* submerged
+German submarine U-656	shipDisplacement	* surfaced\n* submerged
+German submarine U-523	shipDisplacement	* surfaced\n* submerged
+German submarine U-273	shipDisplacement	* surfaced\n*  submerged
+German submarine U-24	shipDisplacement	* surfaced\n* submerged
+German submarine U-11	shipDisplacement	* surfaced\n* submerged
+German submarine U-13	shipDisplacement	* surfaced\n* submerged
+German submarine U-15	shipDisplacement	* surfaced\n* submerged
+German submarine U-17	shipDisplacement	* surfaced\n* submerged
+German submarine U-18	shipDisplacement	* surfaced\n* submerged
+French minesweeper Surprise	shipDisplacement	* standard\n* full
+German submarine U-30	shipDisplacement	* surfaced\n* submerged
+German submarine U-50	shipDisplacement	* surfaced\n* submerged
+German submarine U-85	shipDisplacement	* surfaced\n* submerged
+German submarine U-172	shipDisplacement	* surfaced\n* submerged
+SM UC-41	shipDisplacement	*, surfaced\n*, submerged
+German submarine U-14	shipDisplacement	* surfaced\n* submerged
+German submarine U-106	shipDisplacement	* surfaced\n* submerged
+HSwMS Visby	shipDisplacement	650.0
+German submarine U-298	shipDisplacement	* surfaced\n* submerged
+German submarine U-256	shipDisplacement	* surfaced\n* submerged
+German submarine U-96	shipDisplacement	* surfaced\n* submerged
+Japanese destroyer Minekaze	shipDisplacement	* \n*
+German submarine U-89	shipDisplacement	* surfaced\n* submerged
+German submarine U-88	shipDisplacement	* surfaced\n* submerged
+German submarine U-66	shipDisplacement	* surfaced\n* submerged
+German submarine U-68	shipDisplacement	* surfaced\n* submerged
+German submarine U-103	shipDisplacement	* surfaced\n* submerged
+German submarine U-102	shipDisplacement	* surfaced\n* submerged
+SM U-102	shipDisplacement	* surfaced\n* submerged
+German submarine U-978	shipDisplacement	* surfaced\n* submerged
+Type 209 submarine	shipDisplacement	submerged
+German submarine U-8	shipDisplacement	* surfaced\n* submerged
+Duncan-class ship of the line	shipDisplacement	5950.0
+Nassau-class battleship	shipDisplacement	* Designed: \n* Full load:
+Kii-class battleship	shipDisplacement	* \n*
+German submarine U-35	shipDisplacement	* surfaced\n* submerged
+SM UB-65	shipDisplacement	* surfaced\n* submerged
+SM U-2	shipDisplacement	* surfaced\n* submerged
+SM U-5	shipDisplacement	* surfaced\n* submerged
+SM UB-5	shipDisplacement	* surfaced\n* submerged
+SM UC-5	shipDisplacement	*, surfaced\n*, submerged
+German submarine U-5	shipDisplacement	* surfaced\n* submerged\n* total
+German submarine U-9	shipDisplacement	* surfaced\n* submerged
+SM U-9	shipDisplacement	* surfaced\n* submerged
+SM U-20	shipDisplacement	* surfaced\n* submerged
+German submarine U-19	shipDisplacement	* surfaced\n* submerged
+French submarine Favorite	shipDisplacement	* surfaced\n* submerged
+SM U-27	shipDisplacement	* surfaced\n* submerged
+German submarine U-777	shipDisplacement	* surfaced\n* submerged
+Japanese destroyer Mutsuki	shipDisplacement	* \n*
+German submarine U-434	shipDisplacement	* surfaced\n* submerged
+German submarine U-120	shipDisplacement	* surfaced\n* submerged
+Glauco-class submarine	shipDisplacement	* surfaced\n* submerged
+Aleksandr Suvorov	shipDisplacement	3950.0
+Helgoland-class battleship	shipDisplacement	* Designed: \n* Full load:
+Wild Beast-class destroyer	shipDisplacement	*1,050 tons \n*1,300t
+Flamant-class patrol vessel	shipDisplacement	* standard\n* full load
+BAP Islay	shipDisplacement	*1,180 t surfaced\n*1,285 t submerged
+BAP Arica	shipDisplacement	*1,180 t surfaced\n*1,285 t submerged
+BAP Angamos	shipDisplacement	*1,180 t surfaced\n*1,285 t submerged
+BAP Antofagasta	shipDisplacement	*1,180 t surfaced\n*1,285 t submerged
+BAP Pisagua	shipDisplacement	*1,180 t surfaced\n*1,285 t submerged
+BAP Chipana	shipDisplacement	*1,180 t surfaced\n*1,285 t submerged
+German submarine U-123	shipDisplacement	* surfaced\n* submerged
+German submarine Deutschland	shipDisplacement	* \n* \n*
+Indian Empress	shipDisplacement	2271.0
+Russian submarine Yury Dolgorukiy	shipDisplacement	* surfaced\n* submerged
+German Type U 31 submarine	shipDisplacement	* \n*
+Kamorta-class corvette	shipDisplacement	full load
+German Type Mittel U submarine	shipDisplacement	*\n* \n*
+German Type U 151 submarine	shipDisplacement	* \n* \n*
+German submarine U-94	shipDisplacement	* surfaced\n* submerged
+French minelaying cruiser Pluton	shipDisplacement	* \n*
+Kaiser Friedrich III-class battleship	shipDisplacement	* Standard: \n* Full load:
+Deutschland-class battleship	shipDisplacement	* normal\n* full load
+German submarine U-128	shipDisplacement	* surfaced\n* submerged
+HMS Audacious	shipDisplacement	*Surfaced: 7,000 to \n*Submerged: 7,400 to
+SM U-68	shipDisplacement	* surfaced\n* submerged
+SM U-83	shipDisplacement	* surfaced\n* submerged
+SM UC-29	shipDisplacement	*, surfaced\n*, submerged
+SM U-61	shipDisplacement	* surfaced\n* submerged
+USS DuPage	shipDisplacement	4023
+German submarine U-515	shipDisplacement	* surfaced\n* submerged
+USS Sanderling	shipDisplacement	320
+USS Pathfinder	shipDisplacement	2175.0
+SM U-156	shipDisplacement	* \n* \n*
+USS Sirius	shipDisplacement	* \n*
+USS Hawk	shipDisplacement	245
+USS Cardinal	shipDisplacement	270.0
+USS Linnet	shipDisplacement	270.0
+USS Courser	shipDisplacement	270.0
+USS Curlew	shipDisplacement	270
+USS Grackle	shipDisplacement	270
+USS Kite	shipDisplacement	270.0
+SMS Kaiser Friedrich III	shipDisplacement	* Standard:  \n* Full load:
+SMS Kaiser Wilhelm II	shipDisplacement	*Standard:  \n*Full load:
+USS Vega	shipDisplacement	* \n*
+HDMS Peder Skram	shipDisplacement	full load
+Wonsan-class minelayer	shipDisplacement	full load
+SMS Kaiser Karl der Grosse	shipDisplacement	Full load:
+Norwegian A-class submarine	shipDisplacement	* ↑\n* ↓
+SM U-40	shipDisplacement	* \n*
+SMS Zenta	shipDisplacement	* \n* deep load
+Nagara-class cruiser	shipDisplacement	normal
+HMS Vulture	shipDisplacement	1960.0
+USS Housatonic	shipDisplacement	*5,375 t \n*22,430 t
+German submarine U-627	shipDisplacement	* surfaced\n* submerged
+USS Cambria	shipDisplacement	8100
+Akademik Fyodorov	shipDisplacement	16200.0
+HMCS Kootenay	shipDisplacement	*  standard\n*  at deep load
+USS Albert T. Harris	shipDisplacement	* light\n* full
+Restigouche-class destroyer	shipDisplacement	*As built:\n* \n* \n*After IRE:\n*
+USS Joseph Hewes	shipDisplacement	14100
+USS Edward Rutledge	shipDisplacement	14330.0
+USS Sonoma	shipDisplacement	1120
+USS Tonkawa	shipDisplacement	835
+USS Etamin	shipDisplacement	4023
+USS Riverside	shipDisplacement	8100
+USS Lander	shipDisplacement	6873
+USS Chilton	shipDisplacement	8100
+USS Severn	shipDisplacement	7236
+USS Aucilla	shipDisplacement	7236
+USS George F. Elliott	shipDisplacement	7630
+USS Mizar	shipDisplacement	6982
+USS Uranus	shipDisplacement	3348
+USS Talamanca	shipDisplacement	6963
+USS Celtic	shipDisplacement	6750
+USS Glacier	shipDisplacement	8325
+USS Tarazed	shipDisplacement	6983
+USS Shikellamy	shipDisplacement	10800
+USS Ashtabula	shipDisplacement	7470
+USS Atascosa	shipDisplacement	5730
+USS Allagash	shipDisplacement	7236
+USS Caloosahatchee	shipDisplacement	7470
+USS Canisteo	shipDisplacement	*7,470 t. 25,450 t. as built\n*16,500 t.  36,500 t. Jumboized
+Derfflinger-class battlecruiser	shipDisplacement	* normal load\n* full load
+USS Chukawan	shipDisplacement	7236
+USS Kewaydin	shipDisplacement	751
+USS Houston	shipDisplacement	* \n*
+USS Kittery	shipDisplacement	=
+USS Bath	shipDisplacement	* \n*
+SMS Hannover	shipDisplacement	*  normal\n*  full load
+USS Calamares	shipDisplacement	12625
+USS Roamer	shipDisplacement	1770
+USS Merak	shipDisplacement	7068
+USS Cygnus	shipDisplacement	7171
+USS Octans	shipDisplacement	11030
+USS Regulus	shipDisplacement	* \n*
+USS Spica	shipDisplacement	* \n*
+USS Hercules	shipDisplacement	5150
+USS Mercury	shipDisplacement	7345
+USS Jupiter	shipDisplacement	7293
+USS Stratford	shipDisplacement	2300
+USS Gemini	shipDisplacement	3555
+USS Enceladus	shipDisplacement	1677
+Moltke-class battlecruiser	shipDisplacement	* Design: \n* Full load:
+USS Hydra	shipDisplacement	1677
+Media	shipDisplacement	1677
+Norma	shipDisplacement	1677
+Tucana	shipDisplacement	1677
+USNS Sagitta	shipDisplacement	1677
+USNS Vela	shipDisplacement	1677
+USS Mintaka	shipDisplacement	4023
+USS Auriga	shipDisplacement	4023
+SM UB-33	shipDisplacement	* surfaced\n* submerged
+USS Zaniah	shipDisplacement	4350
+USS Castor	shipDisplacement	7350
+USS Pollux	shipDisplacement	7350
+USS Kochab	shipDisplacement	4023
+USS Luna	shipDisplacement	4023
+USS Volans	shipDisplacement	4023
+USS Cybele	shipDisplacement	4023
+USS Gratia	shipDisplacement	4023
+USS Hecuba	shipDisplacement	4023
+USS Hesperia	shipDisplacement	4023
+USS Iolanda	shipDisplacement	4023
+USS Liguria	shipDisplacement	4023
+Belgian minehunter Aster	shipDisplacement	* empty\n* full load
+Belgian minehunter Crocus	shipDisplacement	* empty\n* full load
+Belgian minehunter Primula	shipDisplacement	* empty\n* full load
+Belgian minehunter Narcis	shipDisplacement	* empty\n* full load
+Belgian minehunter Lobelia	shipDisplacement	* empty\n* full load
+Tosa-class battleship	shipDisplacement	* \n*
+USS Weight	shipDisplacement	1232
+USS Swivel	shipDisplacement	1232
+USNS Blue Jacket	shipDisplacement	6329
+USS Guardian	shipDisplacement	10760
+USS Hyades	shipDisplacement	7700
+USS Adria	shipDisplacement	3139
+USS Arequipa	shipDisplacement	3139
+USS Corduba	shipDisplacement	3139
+USS Karin	shipDisplacement	3139
+USS Kerstin	shipDisplacement	3139
+USS Latona	shipDisplacement	3139
+USS Lioba	shipDisplacement	3139
+USS Malabar	shipDisplacement	3139
+USS Merapi	shipDisplacement	3139
+USS Palisana	shipDisplacement	3139
+USS Bondia	shipDisplacement	3139
+USS Athanasia	shipDisplacement	3139
+USS Gordonia	shipDisplacement	3139
+USS Octavia	shipDisplacement	3139
+USS Lucidor	shipDisplacement	3139
+USS Laurentia	shipDisplacement	3139
+USS Valentine	shipDisplacement	3139
+USS Alstede	shipDisplacement	15500
+SMS Roon	shipDisplacement	normal;  full load
+SMS Yorck	shipDisplacement	* normal\n* full load
+USS Arcturus	shipDisplacement	6319
+USNS Bald Eagle	shipDisplacement	6556
+USS Zelima	shipDisplacement	15500
+SMS Prinz Adalbert	shipDisplacement	* normal\n* full load
+SMS Prinz Heinrich	shipDisplacement	8857
+USNS Grommet Reefer	shipDisplacement	2382
+USS Aludra	shipDisplacement	7050
+SM U-38	shipDisplacement	* \n*
+SM U-39	shipDisplacement	* \n*
+INS Shivalik	shipDisplacement	full load
+SMS Fürst Bismarck	shipDisplacement	* 10,690 t normal\n* 11,461 t full load
+USS Seekonk	shipDisplacement	,
+Spanish battleship España	shipDisplacement	*Normal: \n*Full Load:
+SMY Hohenzollern	shipDisplacement	* standard\n* full load
+SMS Victoria Louise	shipDisplacement	Full load:
+German submarine U-557	shipDisplacement	* surfaced\n* submerged
+French battleship Vergniaud	shipDisplacement	*  \n*
+French battleship Mirabeau	shipDisplacement	*  \n*
+French battleship Diderot	shipDisplacement	*  \n*
+French battleship Voltaire	shipDisplacement	*  \n*
+French battleship Condorcet	shipDisplacement	*  \n*
+SMS Vineta	shipDisplacement	Full load:
+USS LSM-216	shipDisplacement	*520 t.\n*743 t. \n*1,095 t.
+Cöln-class cruiser	shipDisplacement	*Design: \n*Full load:
+Dresden-class cruiser	shipDisplacement	*Normal: \n*Full load:
+USS Stettin	shipDisplacement	600.0
+Ottoman minelayer Nusret	shipDisplacement	365.0
+SMS G42	shipDisplacement	deep load
+Soviet cruiser Kalinin	shipDisplacement	* \n*
+French battleship Jean Bart	shipDisplacement	* \n*
+German submarine U-301	shipDisplacement	* surfaced\n* submerged
+Bay-class minesweeper	shipDisplacement	* standard\n* deep load
+Soviet cruiser Kirov	shipDisplacement	* \n*
+SMS V48	shipDisplacement	deep load
+French battleship Iéna	shipDisplacement	* \n*
+French battleship Gaulois	shipDisplacement	* \n*
+USS LCI	shipDisplacement	236
+French submarine Triomphant	shipDisplacement	*12 640 tonnes \n*14 335 t
+French submarine Téméraire	shipDisplacement	*12 640 tonnes \n*14 335 t
+French submarine Terrible	shipDisplacement	*12 640 tonnes \n*14 335 t
+French submarine Vigilant	shipDisplacement	*12 640 tonnes \n*14 335 t
+Brummer-class cruiser	shipDisplacement	*Design: \n*Full load:
+Redoutable-class submarine	shipDisplacement	* \n*
+HMNZS Rotoiti	shipDisplacement	loaded
+HMNZS Pukaki	shipDisplacement	loaded
+HMNZS Hawea	shipDisplacement	loaded
+HMNZS Taupo	shipDisplacement	loaded
+HMS Ramillies	shipDisplacement	14190
+USS Wateree	shipDisplacement	534
+SS Fort Lee	shipDisplacement	21880.0
+HMS Derwent	shipDisplacement	* standard\n* full load
+HMS Eden	shipDisplacement	* standard\n* full load\n* o/a\n* beam\n* draught
+HMS Waveney	shipDisplacement	* standard\n* full load
+HMS Boyne	shipDisplacement	* standard\n* full load\n* o/a\n* beam\n* draught
+HMS Stag	shipDisplacement	* standard\n* full load
+HMS Kale	shipDisplacement	* standard\n* full load\n* o/a\n* beam\n* draught
+HMS Stour	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Test	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Doon	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Whiting	shipDisplacement	* standard\n* full load
+HMS Chamois	shipDisplacement	* standard\n* full load
+HMS Crane	shipDisplacement	* standard\n* full load
+HMS Flying Fish	shipDisplacement	* standard\n* full load
+HMS Sylvia	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+Italian submarine Brin	shipDisplacement	*1,016 tons \n*1,266t
+Brin-class submarine	shipDisplacement	* surfaced\n* submerged
+HMS Mermaid	shipDisplacement	* light\n* full load
+HMS Cheerful	shipDisplacement	* light\n* full load
+HMS Greyhound	shipDisplacement	* light\n* full load
+HMS Racehorse	shipDisplacement	* standard\n* full load
+USS LST-141	shipDisplacement	*1,625 t.\n*4,080 t.
+HMS Gipsy	shipDisplacement	* standard\n* full load
+French submarine Astrée	shipDisplacement	* surfaced\n* submerged
+USS LSM-149	shipDisplacement	*520 t.\n*743 t. \n*1,095 t.
+HNLMS Rotterdam	shipDisplacement	*12,750 t\n*14,000 full load
+French destroyer Maillé Brézé	shipDisplacement	* \n*
+German submarine U-74	shipDisplacement	* surfaced\n* submerged
+Ning Hai-class cruiser	shipDisplacement	standard
+YO-257	shipDisplacement	440
+Collins-class submarine replacement project	shipDisplacement	*4,500 t surfaced\n*4,000 t submerged
+Japanese aircraft carrier Shin'yō	shipDisplacement	* \n*
+SM U-12	shipDisplacement	* surfaced\n* submerged
+Italian cruiser Giuseppe Garibaldi	shipDisplacement	*Standard: \n*Full:
+SMS Deutschland	shipDisplacement	* normal\n* full load
+Small unit riverine craft	shipDisplacement	combat load
+USS Menard	shipDisplacement	6873
+USS Menifee	shipDisplacement	6873
+USS Meriwether	shipDisplacement	6873
+USS Sarasota	shipDisplacement	6873
+USS Sibley	shipDisplacement	6873
+German submarine U-214	shipDisplacement	* surfaced\n* submerged
+SM UB-46	shipDisplacement	* surfaced\n* submerged
+USS Sheridan	shipDisplacement	*  7,300 tons ,\n*13,910 t.
+USS Crescent City	shipDisplacement	*  8,409 tons ,\n*14,247 t.
+Russian submarine Alexander Nevsky	shipDisplacement	* surfaced\n* submerged
+Japanese aircraft carrier Kaiyō	shipDisplacement	* \n*
+SMS Rostock	shipDisplacement	*Design: \n*Full load:
+Karlsruhe-class cruiser	shipDisplacement	*Design: \n*Full load:
+Graudenz-class cruiser	shipDisplacement	*Design: \n*Full load:
+German submarine U-745	shipDisplacement	* surfaced\n* submerged
+German submarine U-455	shipDisplacement	* surfaced\n* submerged
+USS SC-255	shipDisplacement	75.0
+USS SC-142	shipDisplacement	75.0
+USS SC-277	shipDisplacement	85.0
+USS SC-48	shipDisplacement	85.0
+German submarine U-701	shipDisplacement	* surfaced\n* submerged
+R boat	shipDisplacement	160.0
+SM U-17	shipDisplacement	* surfaced\n* submerged
+German submarine U-54	shipDisplacement	* surfaced\n* submerged
+German submarine U-116	shipDisplacement	* surfaced\n* submerged
+German submarine U-122	shipDisplacement	* surfaced\n* submerged
+German submarine U-184	shipDisplacement	* surfaced\n* submerged
+German submarine U-246	shipDisplacement	* surfaced\n* submerged
+German submarine U-338	shipDisplacement	* surfaced\n* submerged
+German submarine U-355	shipDisplacement	* surfaced\n* submerged
+German submarine U-381	shipDisplacement	* surfaced\n* submerged
+German submarine U-376	shipDisplacement	* surfaced\n* submerged
+German submarine U-519	shipDisplacement	* surfaced\n* submerged
+German submarine U-240	shipDisplacement	* surfaced\n* submerged
+German submarine U-420	shipDisplacement	* surfaced\n* submerged
+German submarine U-398	shipDisplacement	* surfaced\n* submerged
+Hydra-class minelayer	shipDisplacement	* standard\n* full
+M-class minesweeper	shipDisplacement	*M1: \n*M2: \n*M3 & M4:
+German submarine U-101	shipDisplacement	* surfaced\n* submerged
+HMAS LST 3022	shipDisplacement	* light\n* beaching
+USS Princess Matoika	shipDisplacement	20500.0
+España-class battleship	shipDisplacement	*Normal: \n*Full Load:
+Bedok-class mine countermeasures vessel	shipDisplacement	*Standard: \n*Full load:
+Baykal-class motorship	shipDisplacement	774.0
+Rodina-class motorship	shipDisplacement	1.46
+Oktyabrskaya Revolyutsiya-class motorship	shipDisplacement	1473.0
+Dunay-class motorship	shipDisplacement	800.0
+Maksim Gorkiy-class motorship	shipDisplacement	2099.0
+Vladimir Ilyich-class motorship	shipDisplacement	3570.0
+Anton Chekhov-class motorship	shipDisplacement	2920.0
+Rossiya-class motorship	shipDisplacement	1100.0
+Valerian Kuybyshev-class motorship	shipDisplacement	3950.0
+Amur-class motorship	shipDisplacement	850.0
+Dmitriy Furmanov-class motorship	shipDisplacement	3852.0
+German submarine U-479	shipDisplacement	* surfaced\n* submerged
+SS Empire Miniver	shipDisplacement	12424.0
+Queen of the Netherlands	shipDisplacement	82600.0
+German submarine U-46	shipDisplacement	* surfaced\n* submerged
+German submarine U-81	shipDisplacement	* surfaced\n* submerged
+USS Lenape	shipDisplacement	7000.0
+SM U-86	shipDisplacement	* surfaced\n* submerged
+SM U-90	shipDisplacement	* surfaced\n* submerged
+USS Dewey	shipDisplacement	18500
+Japanese destroyer Sawakaze	shipDisplacement	* \n*
+Japanese destroyer Hakaze	shipDisplacement	* \n*
+Japanese destroyer Yakaze	shipDisplacement	* \n*
+Japanese destroyer Akikaze	shipDisplacement	* \n*
+Spanish battleship Alfonso XIII	shipDisplacement	*Normal: \n*Full Load:
+Spanish battleship Jaime I	shipDisplacement	*Normal: \n*Full Load:
+USNS GySgt. Fred W. Stockham	shipDisplacement	*54,298 t. \n*32,589 t.
+German submarine U-651	shipDisplacement	* surfaced\n* submerged
+German submarine U-404	shipDisplacement	* surfaced\n* submerged
+German submarine U-564	shipDisplacement	* surfaced\n* submerged
+Russian submarine Vilyuchinsk	shipDisplacement	13.4
+German submarine U-380	shipDisplacement	* surfaced\n* submerged\n* total
+HMCS Gatineau	shipDisplacement	2800.0
+SS Northern Pacific	shipDisplacement	9708.0
+SS Dakotan	shipDisplacement	14375.0
+Spanish destroyer Sánchez Barcáiztegui	shipDisplacement	;
+German submarine U-73	shipDisplacement	* surfaced\n* submerged
+HSwMS Helsingborg	shipDisplacement	650.0
+HSwMS Härnösand	shipDisplacement	650.0
+HMS Exmoor	shipDisplacement	*1,000 t standard\n*1,340 t full load
+Namacurra-class harbour patrol boat	shipDisplacement	4
+Heroine-class submarine	shipDisplacement	1454
+German submarine U-714	shipDisplacement	* surfaced\n* submerged
+SM U-53	shipDisplacement	* surfaced\n* submerged
+Spanish submarine C-3	shipDisplacement	*925 t surfaced\n*1,144 t submerged
+USS Mahogany	shipDisplacement	101.0
+German submarine U-402	shipDisplacement	* surfaced\n* submerged
+German submarine U-510	shipDisplacement	* surfaced\n* submerged
+USS Henry R. Mallory	shipDisplacement	10910.0
+A-class minehunter	shipDisplacement	650.0
+USNS Haiti Victory	shipDisplacement	* \n*
+USNS Dalton Victory	shipDisplacement	* \n*
+SM U-137	shipDisplacement	* surfaced\n* submerged
+German submarine U-137	shipDisplacement	* surfaced\n* submerged
+USS Santa Clara	shipDisplacement	13320.0
+USS Santa Cecilia	shipDisplacement	13500.0
+USNS Coastal Crusader	shipDisplacement	* light\n* full load
+USNS Lt. James E. Robinson	shipDisplacement	* \n*
+SS Panaman	shipDisplacement	14495.0
+SS Iowan	shipDisplacement	14375.0
+SS Kentuckian	shipDisplacement	14405.0
+German submarine U-1195	shipDisplacement	* surfaced\n* submerged
+USS West Alsek	shipDisplacement	12226.0
+USS West Apaum	shipDisplacement	12226.0
+USS West Avenal	shipDisplacement	12200.0
+Yugoslav torpedo boat T3	shipDisplacement	*\n*
+USS West Carnifax	shipDisplacement	12200.0
+USNS Sgt. Jack J. Pendleton	shipDisplacement	* \n*
+SS West Cheswald	shipDisplacement	12200.0
+USNS Greenville Victory	shipDisplacement	* \n*
+USNS Private John R. Towle	shipDisplacement	* \n*
+SS Empire Simba	shipDisplacement	12225.0
+USS West Compo	shipDisplacement	12185.0
+USS Akbar	shipDisplacement	125.0
+Näcken-class submarine	shipDisplacement	* surfaced\n* submerged
+Sjöormen-class submarine	shipDisplacement	*Surfaced: \n*Submerged:
+USS West Corum	shipDisplacement	12424.0
+French destroyer Bison	shipDisplacement	* \n*
+USS West Coast	shipDisplacement	12200.0
+USS Wakiva II	shipDisplacement	853.0
+SM U-12	shipDisplacement	*240 t surfaced\n*273 t submerged
+SM U-3	shipDisplacement	*240 t surfaced\n*300 t submerged
+SM U-4	shipDisplacement	*240 t surfaced\n*300 t submerged
+USS West Gate	shipDisplacement	12185.0
+SM U-104	shipDisplacement	* surfaced\n* submerged
+German submarine U-84	shipDisplacement	* surfaced\n* submerged
+SM U-115	shipDisplacement	* surfaced\n* submerged
+SM UB-115	shipDisplacement	* surfaced\n* submerged
+SM UC-42	shipDisplacement	*, surfaced\n*, submerged
+Jinsha II-class LCAC	shipDisplacement	70.0
+German submarine U-44	shipDisplacement	* surfaced\n* submerged
+Perla-class submarine	shipDisplacement	* surfaced\n* submerged
+USS West Lianga	shipDisplacement	12191.0
+German Type U 66 submarine	shipDisplacement	* surfaced\n* submerged
+USS West Ekonk	shipDisplacement	12225.0
+Italian R-class submarine	shipDisplacement	* surfaced\n* submerged
+Romanian submarine Delfinul	shipDisplacement	*2,460 t., surfaced\n*3,180 t., submerged
+French submarine Roland Morillot	shipDisplacement	* surfaced\n* submerged
+U-10-class submarine	shipDisplacement	* surfaced\n* submerged
+SM U-10	shipDisplacement	* surfaced\n* submerged
+SM U-11	shipDisplacement	* surfaced\n* submerged
+NMS Delfinul	shipDisplacement	*Surfaced: 650t\n*Submerged: 900t
+SM U-6	shipDisplacement	*240 t surfaced\n*273 t submerged
+SM U-5	shipDisplacement	*240 t surfaced\n*273 t submerged
+Russian submarine Nerpa	shipDisplacement	surfaced
+SM U-16	shipDisplacement	* surfaced\n* submerged
+SM U-17	shipDisplacement	* surfaced\n* submerged
+U-20-class submarine	shipDisplacement	* surfaced\n* submerged
+SM U-1	shipDisplacement	*229.7 t surfaced\n*223.0 t submerged
+SM U-1	shipDisplacement	*248.9 t surfaced\n*277.5 t submerged
+SM U-2	shipDisplacement	*229.7 t surfaced\n*223.0 t submerged
+SM U-2	shipDisplacement	*248.9 t surfaced\n*277.5 t submerged
+U-3-class submarine	shipDisplacement	*240 t surfaced\n*300 t submerged
+Finnish minelayer Riilahti	shipDisplacement	310.0
+Finnish minelayer Ruotsinsalmi	shipDisplacement	310.0
+German Type UC I submarine	shipDisplacement	* surfaced\n* submerged
+S90-class torpedo boat	shipDisplacement	* designed\n* full load
+German submarine U-778	shipDisplacement	* surfaced\n* submerged
+Finnish minelayer Keihässalmi	shipDisplacement	360.0
+French destroyer Léopard	shipDisplacement	* \n*
+SM U-20	shipDisplacement	*173 t, surfaced\n*210 t, submerged
+SM U-22	shipDisplacement	*173 t, surfaced\n*210 t, submerged
+SM U-23	shipDisplacement	*173 t, surfaced\n*210 t, submerged
+Havmanden-class submarine	shipDisplacement	* surfaced\n* submerged
+U-48-class submarine	shipDisplacement	* surfaced\n* submerged
+German submarine U-558	shipDisplacement	* surfaced\n* submerged
+U-50-class submarine	shipDisplacement	* surfaced\n* submerged
+U-52-class submarine	shipDisplacement	* surfaced\n* submerged
+USS LCI	shipDisplacement	216
+U-101-class submarine	shipDisplacement	* surfaced\n* submerged
+U-107-class submarine	shipDisplacement	* surfaced\n* submerged
+HNoMS Kobben	shipDisplacement	* ↑\n* ↓
+SM U-66	shipDisplacement	* surfaced\n* submerged
+SM U-69	shipDisplacement	* surfaced\n* submerged
+German submarine U-466	shipDisplacement	* surfaced\n* submerged
+German submarine U-3506	shipDisplacement	* surfaced\n* submerged
+SM U-67	shipDisplacement	* surfaced\n* submerged
+SM U-70	shipDisplacement	* surfaced\n* submerged
+Peacemaker	shipDisplacement	400.0
+Japanese destroyer Shimakaze	shipDisplacement	* \n*
+Japanese destroyer Nadakaze	shipDisplacement	* \n*
+SM U-64	shipDisplacement	* surfaced\n* submerged
+USS LCI	shipDisplacement	236
+German submarine U-1206	shipDisplacement	* surfaced\n* submerged
+German submarine U-157	shipDisplacement	* surfaced\n* submerged
+Amagi-class battlecruiser	shipDisplacement	*Standard:  normal\n* full load
+Japanese destroyer Mochizuki	shipDisplacement	* \n*
+Japanese destroyer Harukaze	shipDisplacement	* \n*
+Japanese destroyer Yayoi	shipDisplacement	* \n*
+Japanese destroyer Uzuki	shipDisplacement	* \n*
+Japanese destroyer Minazuki	shipDisplacement	* \n*
+Japanese destroyer Fumizuki	shipDisplacement	* \n*
+Japanese destroyer Nagatsuki	shipDisplacement	* \n*
+Japanese destroyer Kikuzuki	shipDisplacement	* \n*
+Japanese destroyer Mikazuki	shipDisplacement	* \n*
+Japanese destroyer Yūzuki	shipDisplacement	* \n*
+Japanese destroyer Asakaze	shipDisplacement	* \n*
+Japanese destroyer Matsukaze	shipDisplacement	* \n*
+Japanese destroyer Hatakaze	shipDisplacement	* \n*
+Japanese destroyer Kamikaze	shipDisplacement	* \n*
+Japanese destroyer Oite	shipDisplacement	* \n*
+Japanese destroyer Asanagi	shipDisplacement	* \n*
+Japanese destroyer Yūnagi	shipDisplacement	* \n*
+Bougainville-class aviso	shipDisplacement	* \n*
+Italian submarine Durbo	shipDisplacement	* surfaced\n* submerged
+Sōya	shipDisplacement	3800
+Foca-class submarine	shipDisplacement	* surfaced\n* submerged
+INS Sahyadri	shipDisplacement	full load
+German submarine U-486	shipDisplacement	* surfaced\n* submerged
+German submarine U-377	shipDisplacement	* surfaced\n* submerged
+SM UB-47	shipDisplacement	* surfaced\n*, submerged
+SM UB-43	shipDisplacement	* surfaced\n* submerged
+SM UB-45	shipDisplacement	* surfaced\n* submerged
+SM UB-44	shipDisplacement	* surfaced\n* submerged
+SM UB-42	shipDisplacement	* surfaced\n* submerged
+Brazilian battleship Minas Geraes	shipDisplacement	*  normal\n*  full load
+MV Retriever	shipDisplacement	*\n*
+SM UB-9	shipDisplacement	* surfaced\n* submerged
+SM UB-14	shipDisplacement	* surfaced\n* submerged
+SM UB-16	shipDisplacement	* surfaced\n* submerged
+SM UB-17	shipDisplacement	* surfaced\n* submerged
+SM UB-12	shipDisplacement	* surfaced\n* submerged
+SM UB-13	shipDisplacement	* surfaced\n* submerged
+SM UB-11	shipDisplacement	* surfaced\n* submerged
+SM UB-10	shipDisplacement	*, surfaced\n*, submerged
+SM UB-2	shipDisplacement	* surfaced\n* submerged
+SM UB-7	shipDisplacement	* surfaced\n* submerged
+SM UB-6	shipDisplacement	* surfaced\n* submerged
+SM UB-8	shipDisplacement	* surfaced\n* submerged
+SM UC-2	shipDisplacement	*, surfaced\n*, submerged
+SM UC-3	shipDisplacement	*, surfaced\n*, submerged
+SM UC-1	shipDisplacement	*, surfaced\n*, submerged
+SM UC-6	shipDisplacement	*, surfaced\n*, submerged
+SM UC-4	shipDisplacement	*, surfaced\n*, submerged
+SM UC-7	shipDisplacement	*, surfaced\n*, submerged
+SM UC-8	shipDisplacement	*, surfaced\n*, submerged
+SM UC-9	shipDisplacement	*, surfaced\n*, submerged
+SM UC-10	shipDisplacement	*, surfaced\n*, submerged
+SM UC-12	shipDisplacement	*, surfaced\n*, submerged
+SM UC-11	shipDisplacement	*, surfaced\n*, submerged
+SM UC-13	shipDisplacement	* surfaced\n* submerged
+SM UC-14	shipDisplacement	*, surfaced\n*, submerged
+SM UC-15	shipDisplacement	*, surfaced\n*, submerged
+SM UB-19	shipDisplacement	* surfaced\n* submerged
+SM UB-18	shipDisplacement	* surfaced\n* submerged
+SM UB-22	shipDisplacement	* surfaced\n* submerged
+SM UB-20	shipDisplacement	* surfaced\n* submerged
+SM UB-21	shipDisplacement	* surfaced\n* submerged
+SM UB-23	shipDisplacement	* surfaced\n* submerged
+SM UB-29	shipDisplacement	* surfaced\n* submerged
+SM UB-26	shipDisplacement	* surfaced\n* submerged
+SM UB-28	shipDisplacement	* surfaced\n* submerged
+SM UB-24	shipDisplacement	* surfaced\n* submerged
+SM UB-27	shipDisplacement	* surfaced\n* submerged
+HNLMS Medusa	shipDisplacement	* standard\n* full
+German submarine U-1018	shipDisplacement	* surfaced\n* submerged
+SM UB-30	shipDisplacement	* surfaced\n* submerged
+SM UB-34	shipDisplacement	* surfaced\n* submerged
+SM UB-31	shipDisplacement	* surfaced\n* submerged
+SM UB-35	shipDisplacement	* surfaced\n* submerged
+SM UB-36	shipDisplacement	* surfaced\n* submerged
+SM UB-37	shipDisplacement	* surfaced\n* submerged
+SM UB-38	shipDisplacement	* surfaced\n* submerged
+SM UB-41	shipDisplacement	* surfaced\n* submerged
+SM UB-39	shipDisplacement	* surfaced\n* submerged
+SM UB-40	shipDisplacement	* surfaced\n* submerged
+SM UB-32	shipDisplacement	* surfaced\n* submerged
+SM UC-19	shipDisplacement	*, surfaced\n*, submerged
+SM UC-16	shipDisplacement	*, surfaced\n*, submerged
+SM UC-18	shipDisplacement	*, surfaced\n*, submerged
+SM UC-17	shipDisplacement	*, surfaced\n*, submerged
+SM UC-20	shipDisplacement	*, surfaced\n*, submerged
+SM UC-24	shipDisplacement	*, surfaced\n*, submerged
+SM UC-22	shipDisplacement	*, surfaced\n*, submerged
+SM UC-23	shipDisplacement	*, surfaced\n*, submerged
+SM UC-21	shipDisplacement	*, surfaced\n*, submerged
+SM UC-26	shipDisplacement	*, surfaced\n*, submerged
+SM UC-25	shipDisplacement	*, surfaced\n*, submerged
+SM UC-27	shipDisplacement	*, surfaced\n*, submerged
+SM UC-28	shipDisplacement	*, surfaced\n*, submerged
+SM UC-30	shipDisplacement	*, surfaced\n*, submerged
+SM UC-32	shipDisplacement	*, surfaced\n*, submerged
+SM UC-31	shipDisplacement	*, surfaced\n*, submerged
+SM UC-33	shipDisplacement	*, surfaced\n*, submerged
+SM UC-34	shipDisplacement	*, surfaced\n*, submerged
+SM UC-36	shipDisplacement	*, surfaced\n*, submerged
+SM UC-39	shipDisplacement	*, surfaced\n*, submerged
+SM UC-37	shipDisplacement	*, surfaced\n*, submerged
+SM UC-38	shipDisplacement	*, surfaced\n*, submerged
+SM UC-35	shipDisplacement	*, surfaced\n*, submerged
+SM UC-43	shipDisplacement	*, surfaced\n*, submerged
+SM UC-45	shipDisplacement	*, surfaced\n*, submerged
+SM UC-40	shipDisplacement	*, surfaced\n*, submerged
+SM UC-44	shipDisplacement	*, surfaced\n*, submerged
+SM UC-46	shipDisplacement	*, surfaced\n*, submerged
+SM UC-50	shipDisplacement	*, surfaced\n*, submerged
+SM UC-51	shipDisplacement	*, surfaced\n*, submerged
+SM UC-49	shipDisplacement	*, surfaced\n*, submerged
+SM UC-48	shipDisplacement	*, surfaced\n*, submerged
+SM UC-47	shipDisplacement	*, surfaced\n*, submerged
+SM UC-54	shipDisplacement	*, surfaced\n*, submerged
+SM UC-52	shipDisplacement	*, surfaced\n*, submerged
+SM UC-53	shipDisplacement	*, surfaced\n*, submerged
+SM UC-60	shipDisplacement	*, surfaced\n*, submerged
+SM UC-56	shipDisplacement	*, surfaced\n*, submerged
+SM UC-55	shipDisplacement	*, surfaced\n*, submerged
+SM UC-59	shipDisplacement	*, surfaced\n*, submerged
+SM UC-57	shipDisplacement	*, surfaced\n*, submerged
+SM UC-58	shipDisplacement	*, surfaced\n*, submerged
+SM UC-61	shipDisplacement	*, surfaced\n*, submerged
+SM UC-62	shipDisplacement	*, surfaced\n*, submerged
+SM UC-64	shipDisplacement	*, surfaced\n*, submerged
+SM UC-63	shipDisplacement	*, surfaced\n*, submerged
+SM UC-68	shipDisplacement	*, surfaced\n*, submerged
+SM UC-69	shipDisplacement	*, surfaced\n*, submerged
+SM UC-70	shipDisplacement	*, surfaced\n*, submerged
+SM UC-67	shipDisplacement	*, surfaced\n*, submerged
+SM UC-65	shipDisplacement	*, surfaced\n*, submerged
+SM UC-66	shipDisplacement	*, surfaced\n*, submerged
+SM UC-73	shipDisplacement	*, surfaced\n*, submerged
+SM UC-72	shipDisplacement	*, surfaced\n*, submerged
+SM UC-71	shipDisplacement	*, surfaced\n*, submerged
+SM UC-74	shipDisplacement	*, surfaced\n*, submerged
+SM UC-75	shipDisplacement	*, surfaced\n*, submerged
+SM UC-76	shipDisplacement	*, surfaced\n*, submerged
+SM UC-79	shipDisplacement	*, surfaced\n*, submerged
+SM UC-77	shipDisplacement	*, surfaced\n*, submerged
+SM UC-78	shipDisplacement	*, surfaced\n*, submerged
+SM UC-90	shipDisplacement	*, surfaced\n*, submerged
+SM UC-92	shipDisplacement	*, surfaced\n*, submerged
+SM UC-91	shipDisplacement	*, surfaced\n*, submerged
+SM UC-93	shipDisplacement	*, surfaced\n*, submerged
+SM UC-95	shipDisplacement	*, surfaced\n*, submerged
+SM UC-94	shipDisplacement	*, surfaced\n*, submerged
+SM UC-97	shipDisplacement	*, surfaced\n*, submerged
+SM UC-96	shipDisplacement	*, surfaced\n*, submerged
+SM UC-98	shipDisplacement	*, surfaced\n*, submerged
+SM UC-99	shipDisplacement	*, surfaced\n*, submerged
+SM UC-101	shipDisplacement	*, surfaced\n*, submerged
+SM UC-102	shipDisplacement	*, surfaced\n*, submerged
+SM UC-100	shipDisplacement	*, surfaced\n*, submerged
+SM UC-103	shipDisplacement	*, surfaced\n*, submerged
+SM UC-105	shipDisplacement	*, surfaced\n*, submerged
+SM UC-104	shipDisplacement	*, surfaced\n*, submerged
+SM UC-112	shipDisplacement	*, surfaced\n*, submerged
+SM UC-110	shipDisplacement	*, surfaced\n*, submerged
+SM UC-114	shipDisplacement	*, surfaced\n*, submerged
+SM UC-113	shipDisplacement	*, surfaced\n*, submerged
+SM UC-111	shipDisplacement	*, surfaced\n*, submerged
+SM UC-109	shipDisplacement	*, surfaced\n*, submerged
+SM UC-107	shipDisplacement	*, surfaced\n*, submerged
+SM UC-106	shipDisplacement	*, surfaced\n*, submerged
+SM UC-108	shipDisplacement	*, surfaced\n*, submerged
+German submarine U-138	shipDisplacement	* surfaced\n* submerged
+Hero-class patrol vessel	shipDisplacement	257
+German submarine U-343	shipDisplacement	* surfaced\n* submerged
+SR.N5	shipDisplacement	maximum
+SM U-152	shipDisplacement	* \n* \n*
+German submarine U-21	shipDisplacement	* surfaced\n* submerged
+SM U-117	shipDisplacement	* surfaced\n* submerged
+German submarine U-178	shipDisplacement	* surfaced\n* submerged
+German submarine U-177	shipDisplacement	* surfaced\n* submerged
+German submarine U-198	shipDisplacement	* surfaced \n* submerged
+German submarine U-132	shipDisplacement	* surfaced\n* submerged
+German submarine U-197	shipDisplacement	* surfaced\n* submerged
+German submarine U-506	shipDisplacement	* surfaced\n* submerged
+German submarine U-77	shipDisplacement	* surfaced\n* submerged
+SM UB-132	shipDisplacement	* surfaced\n* submerged
+SM U-132	shipDisplacement	*, surfaced\n*, submerged
+German submarine U-881	shipDisplacement	* surfaced\n* submerged
+German submarine U-3508	shipDisplacement	* surfaced\n* submerged
+Pisces-class deep submergence vehicle	shipDisplacement	13000.0
+German Type U 139 submarine	shipDisplacement	* surfaced\n* submerged\n* total
+Giuseppe Garibaldi-class cruiser	shipDisplacement	* Garibaldi\n* Giuseppe Garibaldi
+French destroyer Aconit	shipDisplacement	* standard\n* full load
+Russian destroyer Admiral Panteleyev	shipDisplacement	* standard\n* full load
+ROKS Munmu the Great	shipDisplacement	* standard\n* full load
+SM U-34	shipDisplacement	* \n*
+German submarine U-233	shipDisplacement	* surfaced\n* submerged
+CA-class submarine	shipDisplacement	* \n*
+German submarine U-62	shipDisplacement	* surfaced\n* submerged
+SM U-47	shipDisplacement	* surfaced\n* submerged
+ROKS Chang Bogo	shipDisplacement	*1,180 t surfaced\n*1,285 t submerged
+Uragan-class guard ship	shipDisplacement	* \n*
+Heroj-class submarine	shipDisplacement	* \n*
+Sava-class submarine	shipDisplacement	*Surfaced: \n*Submerged:
+Kosmonavt Vladimir Komarov	shipDisplacement	17850.0
+Odin-class coastal defense ship	shipDisplacement	* \n*
+Archer-class submarine	shipDisplacement	*Surfaced: \n*Submerged:
+HSwMS Sjöormen	shipDisplacement	* surfaced\n* submerged
+French destroyer Volta	shipDisplacement	* \n*
+German submarine U-230	shipDisplacement	* surfaced\n* submerged
+French destroyer Mogador	shipDisplacement	* \n*
+Padre Eterno	shipDisplacement	2000.0
+INS Arihant	shipDisplacement	surface: 6,000 tonne
+BIO Hesperides	shipDisplacement	* standard\n* full
+S-80-class submarine	shipDisplacement	* surfaced\n* submerged
+SM U-3	shipDisplacement	* surfaced\n* submerged
+SM U-49	shipDisplacement	* surfaced\n* submerged
+INS Sindhukirti	shipDisplacement	* surfaced\n* dived
+Vela-class submarine	shipDisplacement	* surfaced\n* submerged
+INS Vela	shipDisplacement	* surfaced\n* submerged
+INS Kalvari	shipDisplacement	* surfaced\n* submerged
+INS Karanj	shipDisplacement	* surfaced\n* submerged
+INS Khanderi	shipDisplacement	* surfaced\n* submerged
+INS Vagir	shipDisplacement	* surfaced\n* submerged
+INS Vagli	shipDisplacement	* surfaced\n* submerged
+INS Vagsheer	shipDisplacement	* surfaced\n* submerged
+INS Kursura	shipDisplacement	* surfaced\n* submerged
+French submarine Laubie	shipDisplacement	* surfaced\n* submerged
+INS Satpura	shipDisplacement	full load
+Yastreb-class guard ship	shipDisplacement	* \n*
+Durg-class corvette	shipDisplacement	~570t standard; 670t full load
+Soviet cruiser Voroshilov	shipDisplacement	* \n*
+German submarine U-82	shipDisplacement	* surfaced\n* submerged
+French cruiser Metz	shipDisplacement	*Design: \n*Full load:
+RawFaith	shipDisplacement	300.0
+Soviet cruiser Molotov	shipDisplacement	* \n*
+SM U-82	shipDisplacement	* surfaced\n* submerged
+Soviet cruiser Kaganovich	shipDisplacement	* \n*
+ARC 7 de Agosto	shipDisplacement	1723.0
+Type 7103 DSRV	shipDisplacement	35.0
+Sea Pole-class bathyscaphe	shipDisplacement	24
+SM U-33	shipDisplacement	* \n*
+SM UB-68	shipDisplacement	* surfaced\n* submerged
+ARA Buenos Aires	shipDisplacement	* standard\n* full load
+German submarine U-158	shipDisplacement	* surfaced\n* submerged
+German submarine U-57	shipDisplacement	* surfaced\n* submerged
+HSwMS Näcken	shipDisplacement	* surfaced\n* submerged
+German submarine U-652	shipDisplacement	* surfaced\n* submerged
+Buenos Aires-class destroyer	shipDisplacement	* standard\n* full load
+German submarine U-751	shipDisplacement	* surfaced\n* submerged
+German submarine U-752	shipDisplacement	* surfaced\n* submerged
+German submarine U-702	shipDisplacement	* surfaced\n* submerged
+German submarine U-753	shipDisplacement	* surfaced\n* submerged
+German submarine U-755	shipDisplacement	* surfaced\n* submerged
+German submarine U-756	shipDisplacement	* surfaced\n* submerged
+German submarine U-757	shipDisplacement	* surfaced\n* submerged
+German submarine U-546	shipDisplacement	* surfaced\n* submerged
+Osprey-class submersible	shipDisplacement	14.18
+German submarine U-91	shipDisplacement	* surfaced\n* submerged
+Italian submarine Scirè	shipDisplacement	* surfaced\n* submerged
+German submarine U-29	shipDisplacement	* surfaced\n* submerged
+German submarine U-191	shipDisplacement	* surfaced\n* submerged
+SM UB-107	shipDisplacement	* surfaced\n* submerged
+Ibuki-class cruiser	shipDisplacement	* \n*
+Unmanned surface vehicle Piraya	shipDisplacement	400.0
+Enseigne Roux-class destroyer	shipDisplacement	* \n*
+German submarine U-45	shipDisplacement	* surfaced\n* submerged
+German submarine U-199	shipDisplacement	* surfaced \n* submerged
+Bulgarian minehunter Tsibar	shipDisplacement	* empty\n* full load
+PNS Munsif	shipDisplacement	* empty\n* full load
+Latvian minehunter Imanta	shipDisplacement	* empty\n* full load
+French submarine Rubis	shipDisplacement	* \n*
+SM U-36	shipDisplacement	* \n*
+HMS Leopard	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+SM U-92	shipDisplacement	* surfaced\n* submerged
+SM U-54	shipDisplacement	* surfaced\n* submerged
+SM U-56	shipDisplacement	* surfaced\n* submerged
+SM U-57	shipDisplacement	* surfaced\n* submerged
+SM U-58	shipDisplacement	* surfaced\n* submerged
+SM U-59	shipDisplacement	* surfaced\n* submerged
+SM U-60	shipDisplacement	* surfaced\n* submerged
+German submarine U-967	shipDisplacement	* surfaced\n* submerged
+Končar-class missile boat	shipDisplacement	Full:
+Dutch 1913 battleship proposal	shipDisplacement	* normal\n* full load
+SM U-62	shipDisplacement	* surfaced\n* submerged
+SM U-63	shipDisplacement	* surfaced\n* submerged
+German submarine U-704	shipDisplacement	* surfaced\n* submerged
+SM U-65	shipDisplacement	* surfaced\n* submerged
+SM U-71	shipDisplacement	* surfaced\n* submerged
+SM U-73	shipDisplacement	* surfaced\n* submerged
+SM U-72	shipDisplacement	* surfaced\n* submerged
+SM U-74	shipDisplacement	* surfaced\n* submerged
+SM U-75	shipDisplacement	* surfaced\n* submerged
+SM U-76	shipDisplacement	* surfaced\n* submerged
+SM U-77	shipDisplacement	* surfaced\n* submerged
+SM U-78	shipDisplacement	* surfaced\n* submerged
+SM U-80	shipDisplacement	* surfaced\n* submerged
+SM U-81	shipDisplacement	* surfaced\n* submerged
+SM U-79	shipDisplacement	* surfaced\n* submerged
+SM U-84	shipDisplacement	* surfaced\n* submerged
+SM U-85	shipDisplacement	* surfaced\n* submerged
+SM U-87	shipDisplacement	* surfaced\n* submerged
+SM U-88	shipDisplacement	* surfaced\n* submerged
+SM U-89	shipDisplacement	* surfaced\n* submerged
+SM U-91	shipDisplacement	* surfaced\n* submerged
+German submarine U-229	shipDisplacement	* surfaced\n* submerged
+SM U-94	shipDisplacement	* surfaced\n* submerged
+SM U-93	shipDisplacement	* surfaced\n* submerged
+SM U-95	shipDisplacement	* surfaced\n* submerged
+SM U-96	shipDisplacement	* surfaced\n* submerged
+SM U-99	shipDisplacement	* surfaced\n* submerged
+SM U-98	shipDisplacement	* surfaced\n* submerged
+SM U-97	shipDisplacement	* surfaced\n* submerged
+SM U-8	shipDisplacement	* surfaced\n* submerged
+SM U-11	shipDisplacement	* surfaced\n* submerged
+SM U-6	shipDisplacement	* surfaced\n* submerged
+SM U-10	shipDisplacement	* surfaced\n* submerged
+SM U-13	shipDisplacement	* surfaced\n* submerged
+SM U-101	shipDisplacement	* surfaced\n* submerged
+SM U-100	shipDisplacement	* surfaced\n* submerged
+SM U-106	shipDisplacement	* surfaced\n* submerged
+SM U-107	shipDisplacement	* surfaced\n* submerged
+SM U-105	shipDisplacement	* surfaced\n* submerged
+SM U-108	shipDisplacement	* surfaced\n* submerged
+SM U-109	shipDisplacement	* surfaced\n* submerged
+SM U-111	shipDisplacement	* surfaced\n* submerged
+SM U-14	shipDisplacement	* surfaced\n* submerged
+SM U-16	shipDisplacement	* surfaced\n* submerged
+SM U-18	shipDisplacement	* surfaced\n* submerged
+SM U-21	shipDisplacement	* surfaced\n* submerged
+SM U-30	shipDisplacement	* surfaced\n* submerged
+SM U-25	shipDisplacement	* surfaced\n* submerged
+SM U-22	shipDisplacement	* surfaced\n* submerged
+SM U-29	shipDisplacement	* surfaced\n* submerged
+SM U-24	shipDisplacement	* surfaced\n* submerged
+SM U-26	shipDisplacement	* surfaced\n* submerged
+SM U-23	shipDisplacement	* surfaced\n* submerged
+Ivan Gren-class landing ship	shipDisplacement	*5.080 t\n*6.000 t full load
+German submarine U-607	shipDisplacement	* surfaced\n* submerged
+SM U-31	shipDisplacement	* \n*
+SM U-37	shipDisplacement	* \n*
+SM U-41	shipDisplacement	* \n*
+SM U-48	shipDisplacement	* surfaced\n* submerged
+SM U-50	shipDisplacement	* surfaced\n* submerged
+SM U-51	shipDisplacement	* surfaced\n* submerged
+German submarine U-3505	shipDisplacement	* surfaced\n* submerged
+SM U-46	shipDisplacement	* surfaced\n* submerged
+SM U-45	shipDisplacement	* surfaced\n* submerged
+SM U-44	shipDisplacement	* surfaced\n* submerged
+SM U-43	shipDisplacement	* surfaced\n* submerged
+SM U-52	shipDisplacement	* surfaced\n* submerged
+Ottoman cruiser Mecidiye	shipDisplacement	*3,485 t \n*3,967 t
+SM U-139	shipDisplacement	* surfaced\n* submerged
+SM U-7	shipDisplacement	* surfaced\n* submerged
+SM U-114	shipDisplacement	* surfaced\n* submerged
+SM U-113	shipDisplacement	* surfaced\n* submerged
+Russian destroyer Vice-Admiral Kulakov	shipDisplacement	* standard\n* full load
+French destroyer Siroco	shipDisplacement	* \n*
+French destroyer Bourrasque	shipDisplacement	* \n*
+French destroyer Foudroyant	shipDisplacement	* \n*
+RV Horizon	shipDisplacement	835
+ORP Rybitwa	shipDisplacement	183
+Russian battleship Imperator Nikolai I	shipDisplacement	* \n*
+USNS Waters	shipDisplacement	12250
+SM U-140	shipDisplacement	* surfaced\n* submerged
+SM U-136	shipDisplacement	* surfaced\n* submerged
+SM U-123	shipDisplacement	* surfaced\n* submerged
+SM U-125	shipDisplacement	* surfaced\n* submerged
+SM U-126	shipDisplacement	* surfaced\n* submerged
+SM U-122	shipDisplacement	* surfaced\n* submerged
+SM U-124	shipDisplacement	* surfaced\n* submerged
+SM U-138	shipDisplacement	* surfaced\n* submerged
+SM U-118	shipDisplacement	* surfaced\n* submerged
+SM U-120	shipDisplacement	* surfaced\n* submerged
+SM U-112	shipDisplacement	* surfaced\n* submerged
+SM U-119	shipDisplacement	* surfaced\n* submerged
+SM U-4	shipDisplacement	* surfaced\n* submerged
+SM U-153	shipDisplacement	* \n* \n*
+SM U-141	shipDisplacement	* surfaced\n* submerged
+SM U-142	shipDisplacement	* surfaced\n* submerged
+SM U-154	shipDisplacement	* \n* \n*
+SM U-158	shipDisplacement	* surfaced\n* submerged
+SM U-159	shipDisplacement	* surfaced\n* submerged
+SM U-157	shipDisplacement	* \n* \n*
+SM U-160	shipDisplacement	* surfaced\n* submerged
+SM U-161	shipDisplacement	* surfaced\n* submerged
+SM U-162	shipDisplacement	* surfaced\n* submerged
+SM U-164	shipDisplacement	* surfaced\n* submerged
+SM U-166	shipDisplacement	* surfaced\n* submerged
+SM U-167	shipDisplacement	* surfaced\n* submerged
+SM U-163	shipDisplacement	* surfaced\n* submerged
+SM U-165	shipDisplacement	* surfaced\n* submerged
+German Type UE II submarine	shipDisplacement	surfaced;  submerged
+Abby Sunderland	shipDisplacement	7407.0
+SM UB-48	shipDisplacement	* surfaced\n* submerged
+PS Rising Star	shipDisplacement	410.0
+USNS PFC Dewayne T. Williams	shipDisplacement	*19,588 t.\n*40,846 t.
+German submarine U-109	shipDisplacement	* surfaced\n* submerged
+German submarine U-117	shipDisplacement	* surfaced\n* submerged
+HNLMS Pelikaan	shipDisplacement	full load
+USS LCI	shipDisplacement	216
+USS LCI	shipDisplacement	216
+Italian submarine Comandante Faà di Bruno	shipDisplacement	* surfaced\n* submerged
+German Type U 81 submarine	shipDisplacement	* surfaced\n* submerged
+Circé-class submarine	shipDisplacement	* surfaced\n* submerged
+Sirène-class submarine	shipDisplacement	* surfaced\n* submerged
+German Type U 87 submarine	shipDisplacement	* surfaced\n* submerged
+German submarine U-76	shipDisplacement	* surfaced\n* submerged
+German submarine U-241	shipDisplacement	* surfaced\n* submerged
+German submarine U-168	shipDisplacement	* surfaced\n* submerged
+German submarine U-162	shipDisplacement	* surfaced\n* submerged
+German submarine U-804	shipDisplacement	* surfaced\n* submerged
+German submarine U-52	shipDisplacement	* surfaced\n* submerged
+USNS Abiqua	shipDisplacement	10536
+USS Acontius	shipDisplacement	5236
+CCGS Griffon	shipDisplacement	fully loaded
+USNS Fisher	shipDisplacement	*35,500 t.\n*62096 t.
+USNS Gordon	shipDisplacement	32589
+USNS Mendonca	shipDisplacement	*35,500 t.\n*62096 t.
+USNS Gilliland	shipDisplacement	32589
+USNS Brittin	shipDisplacement	*35,500 t.\n*62096 t.
+USNS Benavidez	shipDisplacement	*35,500 t.\n*62096 t.
+USS Adept	shipDisplacement	12000.0
+USS Admiral	shipDisplacement	123.0
+German Type U 93 submarine	shipDisplacement	* \n* \n*
+USS Admiral	shipDisplacement	35.0
+USS Adrian	shipDisplacement	330.0
+HMS Flirt	shipDisplacement	* standard\n* full load
+German submarine U-2336	shipDisplacement	* surfaced\n* submerged
+German submarine U-1065	shipDisplacement	* surfaced\n* submerged
+German submarine U-716	shipDisplacement	* surfaced\n* submerged
+HMS Abdiel	shipDisplacement	*1375 t standard\n*1460 t full load
+German submarine U-712	shipDisplacement	* surfaced\n* submerged
+USS Aide De Camp	shipDisplacement	167.0
+USS Agwidale	shipDisplacement	10410.0
+USS Rockport	shipDisplacement	200.0
+USS Akela	shipDisplacement	72.0
+USS Ala	shipDisplacement	325.0
+USS Alamingo	shipDisplacement	410.0
+USS Alarm	shipDisplacement	800.0
+USNS Alatna	shipDisplacement	2367
+USNS Chattahoochee	shipDisplacement	2367
+German submarine U-705	shipDisplacement	* surfaced\n* submerged
+German submarine U-626	shipDisplacement	* surfaced\n* submerged
+USS Alcalda	shipDisplacement	77.0
+USS Alcor	shipDisplacement	* \n*
+USS Alecto	shipDisplacement	4100.0
+USS Alert	shipDisplacement	39.0
+USS Alexander H. Erickson	shipDisplacement	150.0
+USS Algorma	shipDisplacement	998.0
+USS Algorma	shipDisplacement	534
+Italian submarine Luigi Torelli	shipDisplacement	*1,195 tons \n*1,400t
+German submarine U-750	shipDisplacement	* surfaced\n* submerged
+German submarine U-203	shipDisplacement	* surfaced\n* submerged
+USS Iuka	shipDisplacement	534
+USS Sonoma	shipDisplacement	534
+USS Allegheny	shipDisplacement	534
+USS Nottoway	shipDisplacement	534
+USS Cahokia	shipDisplacement	534
+USS Reindeer	shipDisplacement	534
+USS Samoset	shipDisplacement	534
+German submarine U-1163	shipDisplacement	* surfaced\n* submerged
+German submarine U-771	shipDisplacement	* surfaced\n* submerged
+USS Stallion	shipDisplacement	534
+USS Bagaduce	shipDisplacement	534
+German submarine U-213	shipDisplacement	* surfaced\n* submerged
+USS Tatnuck	shipDisplacement	534
+USS Mahopac	shipDisplacement	534
+USS Sunnadin	shipDisplacement	534
+USS Undaunted	shipDisplacement	534
+USS Sciota	shipDisplacement	534
+USS Pinola	shipDisplacement	*534 t.\n*835 t. Full load
+USS Geronimo	shipDisplacement	534
+USS Sagamore	shipDisplacement	534
+USS Umpqua	shipDisplacement	*534 t. \n*835 t. Full load
+USS Navigator	shipDisplacement	534
+USS Alida	shipDisplacement	142.0
+USS Alice	shipDisplacement	20.0
+German submarine U-450	shipDisplacement	* surfaced\n* submerged
+SM UB-50	shipDisplacement	* surfaced\n* submerged
+German submarine U-514	shipDisplacement	* surfaced\n* submerged
+HMS Tynedale	shipDisplacement	*1,000 t standard\n*1,340 t full load
+German Type IXA submarine	shipDisplacement	* surfaced\n* submerged
+Russian destroyer Marshal Shaposhnikov	shipDisplacement	* standard\n* full load
+German submarine U-1022	shipDisplacement	* surfaced\n* submerged
+German submarine U-1023	shipDisplacement	* surfaced\n* submerged
+German Type IXB submarine	shipDisplacement	* surfaced\n* submerged
+German submarine U-64	shipDisplacement	* surfaced\n* submerged
+USS Grinnell	shipDisplacement	280
+German submarine U-111	shipDisplacement	* surfaced\n* submerged
+German submarine U-65	shipDisplacement	* surfaced\n* submerged
+German submarine U-104	shipDisplacement	* surfaced\n* submerged
+SMS Leopard	shipDisplacement	9800.0
+ABISMO	shipDisplacement	100
+French destroyer Enseigne Gabolde	shipDisplacement	* standard\n* normal
+ORP Czajka	shipDisplacement	183
+ORP Mewa	shipDisplacement	183
+German submarine U-216	shipDisplacement	* surfaced\n* submerged
+ORP Żuraw	shipDisplacement	183
+German submarine U-1232	shipDisplacement	* surfaced\n* submerged
+SS James Iredell	shipDisplacement	4023
+Necker Nymph	shipDisplacement	750.0
+Ottoman cruiser Heibetnuma	shipDisplacement	1463.0
+Hüdâvendigâr-class cruiser	shipDisplacement	4050.0
+Brazilian ironclad Tamandaré	shipDisplacement	* \n*
+Egyptian frigate Ibrahim	shipDisplacement	4700.0
+Brazilian cruiser Almirante Tamandaré	shipDisplacement	4735.0
+HNLMS Java	shipDisplacement	1280.0
+NRP Afonso de Albuquerque	shipDisplacement	1092.0
+Brazilian ironclad Rio de Janeiro	shipDisplacement	* \n*
+Brazilian ironclad Barroso	shipDisplacement	* \n*
+German submarine U-877	shipDisplacement	* surfaced\n* submerged
+German submarine U-293	shipDisplacement	* surfaced\n* submerged
+NRP Gonçalves Zarco	shipDisplacement	1785.0
+NRP Gonçalo Velho	shipDisplacement	1785.0
+French destroyer Lynx	shipDisplacement	* \n*
+Elan-class minesweeping sloop	shipDisplacement	* or  standard\n* to  full
+ORP Warszawa	shipDisplacement	*2,662 t standard\n*3230 t full load
+Bismarck-class battleship	shipDisplacement	*Bismarck:\n** standard\n** full load\n*Tirpitz:\n** standard\n** full load
+Italian submarine Uebi Scebeli	shipDisplacement	* surfaced\n* submerged
+HMAS Hobart	shipDisplacement	full load
+Italian cruiser Cristoforo Colombo	shipDisplacement	2713.0
+HMS Bridgewater	shipDisplacement	* \n*
+Russian submarine Knyaz Vladimir	shipDisplacement	* surfaced\n* submerged
+Buque de Acción Marítima	shipDisplacement	2860.0
+HMS Welland	shipDisplacement	* standard\n* full load
+HMS Rambler	shipDisplacement	835.0
+Russian destroyer Admiral Levchenko	shipDisplacement	* standard\n* full load
+Russian destroyer Admiral Vinogradov	shipDisplacement	* standard\n* full load
+German submarine U-758	shipDisplacement	* surfaced\n* submerged
+German submarine U-121	shipDisplacement	* surfaced\n* submerged
+German submarine U-56	shipDisplacement	* surfaced\n* submerged
+German submarine U-53	shipDisplacement	* surfaced\n* submerged
+German submarine U-55	shipDisplacement	* surfaced\n* submerged
+German submarine U-1308	shipDisplacement	* surfaced\n* submerged
+SMS Friedrich der Grosse	shipDisplacement	*Designed:\n**\n*Maximum:\n**
+German submarine U-482	shipDisplacement	* surfaced\n* submerged
+SMS Odin	shipDisplacement	*
+MO-class small guard ship	shipDisplacement	* \n*
+German submarine U-954	shipDisplacement	* surfaced\n* submerged
+Algerine-class gunvessel	shipDisplacement	835.0
+SMS Prinzregent Luitpold	shipDisplacement	*  designed\n*  maximum load
+German submarine U-1224	shipDisplacement	* surfaced\n* submerged
+SMS Ostfriesland	shipDisplacement	*  \n*
+SMS Oldenburg	shipDisplacement	*  \n*
+SMS Thüringen	shipDisplacement	*  \n*
+USS LCI	shipDisplacement	216
+Chilean corvette Abtao	shipDisplacement	1600.0
+Moctezuma	shipDisplacement	200.0
+Chilean brigantine Araucano	shipDisplacement	217.0
+HMAS Canberra	shipDisplacement	at full load
+Italian destroyer Caio Duilio	shipDisplacement	7050
+SM UB-85	shipDisplacement	* surfaced\n* submerged
+INS Deepak	shipDisplacement	* \n*
+HMS Anson	shipDisplacement	*Surfaced: 7,000 to \n*Submerged: 7,400 to
+HMS Agamemnon	shipDisplacement	*Surfaced: 7,000 to \n*Submerged: 7,400 to
+HMS Ajax	shipDisplacement	*Surfaced: 7,000 to \n*Submerged: 7,400 to
+German battleship Tirpitz	shipDisplacement	*  standard\n*  full load
+HMS Mendip	shipDisplacement	*1,000 t standard\n*1,340 t full load
+German submarine U-480	shipDisplacement	* surfaced\n* submerged
+Incheon-class frigate	shipDisplacement	*2,300 t  , 2,800 t  \n*3,251t   , 3,592t
+German submarine U-87	shipDisplacement	* surfaced\n* submerged
+USS Challenger	shipDisplacement	16000
+USS LCI	shipDisplacement	216
+German Type UE I submarine	shipDisplacement	surfaced submerged
+German submarine U-410	shipDisplacement	* surfaced\n* submerged
+German submarine U-105	shipDisplacement	* surfaced\n* submerged
+HMS Wakeful	shipDisplacement	*Full:\n*Standard:
+HMS Colne	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+French ship Dixmude	shipDisplacement	*16,500 t \n*21,300 t \n*32,300 t
+German submarine U-513	shipDisplacement	* surfaced\n* submerged
+Chaland de débarquement d'infanterie et de chars	shipDisplacement	*369 tonnes\n*751 t
+German submarine U-415	shipDisplacement	* surfaced\n* submerged
+German submarine U-612	shipDisplacement	* surfaced\n* submerged
+German submarine U-3514	shipDisplacement	* surfaced\n* submerged
+German submarine U-741	shipDisplacement	* surfaced\n* submerged
+German submarine U-147	shipDisplacement	* surfaced\n* submerged
+Soviet training ship Dunay	shipDisplacement	standard
+German submarine U-442	shipDisplacement	* surfaced\n* submerged
+German submarine U-194	shipDisplacement	* surfaced\n* submerged
+German submarine U-200	shipDisplacement	* surfaced \n* submerged
+German submarine U-210	shipDisplacement	* \n*
+German submarine U-567	shipDisplacement	* surfaced\n* submerged
+German submarine U-71	shipDisplacement	* surfaced\n* submerged
+German submarine U-58	shipDisplacement	* surfaced\n* submerged
+Echo Ranger	shipDisplacement	)
+HMAS Adelaide	shipDisplacement	at full load
+LCM-1E	shipDisplacement	* light\n* loaded
+Italian submarine Berillo	shipDisplacement	* surfaced\n* submerged
+Italian destroyer Andrea Doria	shipDisplacement	7050
+German submarine U-962	shipDisplacement	* surfaced\n* submerged
+Friends Good Will	shipDisplacement	150000.0
+German submarine U-1225	shipDisplacement	* surfaced\n* submerged
+German submarine U-2344	shipDisplacement	* surfaced\n* submerged
+CCGS Tracy	shipDisplacement	fully loaded
+Bad Bramstedt-class patrol vessel	shipDisplacement	880
+French destroyer Chacal	shipDisplacement	* \n*
+USS YMS-386	shipDisplacement	270.0
+MV Swanland	shipDisplacement	2180.0
+German submarine U-744	shipDisplacement	* surfaced\n* submerged
+Challenger-class submarine	shipDisplacement	*Surfaced: \n*Submerged:
+German submarine U-608	shipDisplacement	* surfaced\n* submerged
+German submarine U-374	shipDisplacement	* surfaced\n* submerged
+ASV Wyatt Earp	shipDisplacement	full load
+Spanish oiler Patiño	shipDisplacement	7780.0
+Brumaire-class submarine	shipDisplacement	* \n*
+Émeraude-class submarine	shipDisplacement	* \n*
+German submarine U-451	shipDisplacement	* surfaced\n* submerged
+Bergamini-class frigate	shipDisplacement	Standard: 1410 t\nFull load: 1650 t
+Usaramo	shipDisplacement	7758.0
+German submarine U-182	shipDisplacement	* surfaced\n* submerged
+German submarine U-97	shipDisplacement	* surfaced\n* submerged
+USNS Yano	shipDisplacement	54450
+USNS Samuel L. Cobb	shipDisplacement	32572
+Yelcho	shipDisplacement	467.0
+Mission Buenaventura-class transport oiler	shipDisplacement	* \n*
+Italian submarine Acciaio	shipDisplacement	* surfaced\n* submerged
+SM UB-49	shipDisplacement	* surfaced\n* submerged
+SAS Manthatisi	shipDisplacement	1454
+SAS Charlotte Maxeke	shipDisplacement	1454
+Italian submarine Flutto	shipDisplacement	* surfaced\n* submerged
+French sloop Commandant Dominé	shipDisplacement	* or  standard\n* to  full
+German submarine U-202	shipDisplacement	* surfaced\n* submerged
+German submarine U-222	shipDisplacement	* surfaced\n* submerged
+German submarine U-252	shipDisplacement	* surfaced\n* submerged
+French battlecruiser proposals	shipDisplacement	Full load:
+German submarine U-272	shipDisplacement	* surfaced\n* submerged
+German submarine U-282	shipDisplacement	* surfaced\n* submerged
+Dolgorae-class submarine	shipDisplacement	full load
+SAS Queen Modjadji	shipDisplacement	1454
+SS Berlin	shipDisplacement	23700.0
+SMS Meteor	shipDisplacement	3640.0
+German submarine U-433	shipDisplacement	* surfaced\n* submerged
+German submarine U-372	shipDisplacement	* surfaced\n* submerged
+German submarine U-205	shipDisplacement	* surfaced\n* submerged
+German submarine U-562	shipDisplacement	* surfaced\n* submerged
+German submarine U-375	shipDisplacement	* surfaced\n* submerged
+German submarine U-431	shipDisplacement	* surfaced\n* submerged
+German submarine U-133	shipDisplacement	* surfaced\n* submerged
+German submarine U-565	shipDisplacement	* surfaced\n* submerged
+German submarine U-458	shipDisplacement	* surfaced\n* submerged
+German submarine U-577	shipDisplacement	* surfaced\n* submerged
+German submarine U-605	shipDisplacement	* surfaced\n* submerged
+German submarine U-453	shipDisplacement	* surfaced\n* submerged
+German submarine U-593	shipDisplacement	* surfaced\n* submerged
+German submarine U-568	shipDisplacement	* surfaced\n* submerged
+German submarine U-561	shipDisplacement	* surfaced\n* submerged
+German submarine U-660	shipDisplacement	* surfaced\n* submerged
+German submarine U-447	shipDisplacement	* surfaced\n* submerged
+German submarine U-224	shipDisplacement	* surfaced\n* submerged
+German submarine U-602	shipDisplacement	* surfaced\n* submerged
+German submarine U-414	shipDisplacement	* surfaced\n* submerged
+German submarine U-421	shipDisplacement	* surfaced\n* submerged
+German submarine U-617	shipDisplacement	* surfaced\n* submerged
+German submarine U-407	shipDisplacement	* surfaced\n* submerged
+German submarine U-952	shipDisplacement	* surfaced\n* submerged
+German submarine U-969	shipDisplacement	* surfaced\n* submerged
+German submarine U-223	shipDisplacement	* surfaced\n* submerged
+German submarine U-595	shipDisplacement	* surfaced\n* submerged
+German submarine U-616	shipDisplacement	* surfaced\n* submerged
+German submarine U-642	shipDisplacement	* surfaced\n* submerged
+German submarine U-960	shipDisplacement	* surfaced\n* submerged
+German submarine U-409	shipDisplacement	* surfaced\n* submerged
+German submarine U-471	shipDisplacement	* surfaced\n* submerged
+German submarine U-586	shipDisplacement	* surfaced\n* submerged
+German submarine U-411	shipDisplacement	* surfaced\n* submerged
+German submarine U-211	shipDisplacement	* surfaced\n* submerged
+German submarine U-584	shipDisplacement	* surfaced\n* submerged
+German submarine U-594	shipDisplacement	* surfaced\n* submerged
+German submarine U-258	shipDisplacement	* surfaced\n* submerged
+German submarine U-379	shipDisplacement	* surfaced\n* submerged
+German submarine U-659	shipDisplacement	* surfaced\n* submerged
+German submarine U-356	shipDisplacement	* surfaced\n* submerged
+German submarine U-661	shipDisplacement	* surfaced\n* submerged
+German submarine U-618	shipDisplacement	* surfaced\n* submerged
+German submarine U-332	shipDisplacement	* surfaced\n* submerged
+German submarine U-92	shipDisplacement	* surfaced\n* submerged
+German submarine U-623	shipDisplacement	* surfaced\n* submerged
+German submarine U-604	shipDisplacement	* surfaced\n* submerged
+German submarine U-606	shipDisplacement	* surfaced\n* submerged
+German submarine U-587	shipDisplacement	* surfaced\n* submerged
+German submarine U-225	shipDisplacement	* surfaced\n* submerged
+German submarine U-628	shipDisplacement	* surfaced\n* submerged
+German submarine U-600	shipDisplacement	* surfaced\n* submerged
+German submarine U-267	shipDisplacement	* surfaced\n* submerged
+German submarine U-603	shipDisplacement	* surfaced\n* submerged
+German submarine U-572	shipDisplacement	* surfaced\n* submerged
+German submarine U-653	shipDisplacement	* surfaced\n* submerged
+German submarine U-632	shipDisplacement	* surfaced\n* submerged
+German submarine U-440	shipDisplacement	* surfaced\n* submerged
+German submarine U-304	shipDisplacement	* surfaced\n* submerged
+German submarine U-662	shipDisplacement	* surfaced\n* submerged
+German submarine U-609	shipDisplacement	* surfaced\n* submerged
+German submarine U-614	shipDisplacement	* surfaced\n* submerged
+German submarine U-456	shipDisplacement	* surfaced\n* submerged
+German submarine U-207	shipDisplacement	* surfaced\n* submerged
+German submarine U-406	shipDisplacement	* surfaced\n* submerged
+German submarine U-591	shipDisplacement	* surfaced\n* submerged
+German submarine U-435	shipDisplacement	* surfaced\n* submerged
+French submarine Vendémiaire	shipDisplacement	* \n*
+German submarine U-59	shipDisplacement	* surfaced\n* submerged
+German submarine U-60	shipDisplacement	* surfaced\n* submerged
+German submarine U-61	shipDisplacement	* surfaced\n* submerged
+German submarine U-67	shipDisplacement	* surfaced\n* submerged
+German submarine U-90	shipDisplacement	* surfaced\n* submerged
+German submarine U-93	shipDisplacement	* surfaced\n* submerged
+German submarine U-80	shipDisplacement	* surfaced\n* submerged
+German submarine U-1200	shipDisplacement	* surfaced\n* submerged
+German submarine U-108	shipDisplacement	* surfaced\n* submerged
+German submarine U-118	shipDisplacement	* surfaced\n* submerged
+German submarine U-119	shipDisplacement	* surfaced\n* submerged
+German submarine U-126	shipDisplacement	* surfaced\n* submerged
+German submarine U-127	shipDisplacement	* surfaced\n* submerged
+German submarine U-129	shipDisplacement	* surfaced\n* submerged
+German submarine U-130	shipDisplacement	* surfaced\n* submerged
+German submarine U-135	shipDisplacement	* surfaced\n* submerged
+German submarine U-136	shipDisplacement	* surfaced\n* submerged
+German submarine U-139	shipDisplacement	* surfaced\n* submerged
+German submarine U-141	shipDisplacement	* surfaced\n* submerged
+German submarine U-142	shipDisplacement	* surfaced\n* submerged
+German submarine U-143	shipDisplacement	* surfaced\n* submerged
+German submarine U-145	shipDisplacement	* surfaced\n* submerged
+German submarine U-146	shipDisplacement	* surfaced\n* submerged
+German submarine U-148	shipDisplacement	* surfaced\n* submerged
+German submarine U-149	shipDisplacement	* surfaced\n* submerged
+German submarine U-150	shipDisplacement	* surfaced\n* submerged
+German submarine U-152	shipDisplacement	* surfaced\n* submerged
+German submarine U-151	shipDisplacement	* surfaced\n* submerged
+German submarine U-153	shipDisplacement	* surfaced\n* submerged
+Mikhail Frunze	shipDisplacement	4050.0
+German submarine U-159	shipDisplacement	* surfaced\n* submerged
+German submarine U-160	shipDisplacement	* surfaced\n* submerged
+German submarine U-154	shipDisplacement	* surfaced\n* submerged
+German submarine U-161	shipDisplacement	* surfaced\n* submerged
+German submarine U-163	shipDisplacement	* surfaced\n* submerged
+German submarine U-164	shipDisplacement	* surfaced\n* submerged
+German submarine U-165	shipDisplacement	* surfaced\n* submerged
+German submarine U-167	shipDisplacement	* surfaced\n* submerged
+German submarine U-169	shipDisplacement	* surfaced\n* submerged
+German submarine U-170	shipDisplacement	* surfaced\n* submerged
+German submarine U-173	shipDisplacement	* surfaced\n* submerged
+German submarine U-179	shipDisplacement	* surfaced\n* submerged
+German submarine U-174	shipDisplacement	* surfaced\n* submerged
+German submarine U-186	shipDisplacement	* surfaced\n* submerged
+German submarine U-187	shipDisplacement	* surfaced\n* submerged
+German submarine U-189	shipDisplacement	* surfaced\n* submerged
+German submarine U-204	shipDisplacement	* surfaced\n* submerged
+German submarine U-206	shipDisplacement	* surfaced\n* submerged
+German submarine U-208	shipDisplacement	* surfaced\n* submerged
+German submarine U-209	shipDisplacement	* surfaced\n* submerged
+Special Operations Craft – Riverine	shipDisplacement	* \n*
+German submarine U-212	shipDisplacement	* surfaced\n* submerged
+German submarine U-220	shipDisplacement	* surfaced\n* submerged
+German submarine U-226	shipDisplacement	* surfaced\n* submerged
+Maksim Gorkiy	shipDisplacement	2099.0
+German submarine U-231	shipDisplacement	* surfaced\n* submerged
+German submarine U-232	shipDisplacement	* surfaced\n* submerged
+German submarine U-235	shipDisplacement	* surfaced\n* submerged
+German submarine U-236	shipDisplacement	* surfaced\n* submerged
+German submarine U-237	shipDisplacement	* surfaced\n* submerged
+German submarine U-239	shipDisplacement	* surfaced\n* submerged
+German submarine U-242	shipDisplacement	* surfaced\n* submerged
+German submarine U-243	shipDisplacement	* surfaced\n*  submerged
+German submarine U-244	shipDisplacement	* surfaced\n* submerged
+German submarine U-245	shipDisplacement	* surfaced\n* submerged
+German submarine U-247	shipDisplacement	* surfaced\n* submerged
+German submarine U-248	shipDisplacement	* surfaced\n* submerged
+German submarine U-249	shipDisplacement	* surfaced\n* submerged
+German submarine U-250	shipDisplacement	* surfaced\n* submerged
+German submarine U-251	shipDisplacement	* surfaced\n* submerged
+German submarine U-257	shipDisplacement	* surfaced\n* submerged
+German submarine U-261	shipDisplacement	* surfaced\n* submerged
+German submarine U-263	shipDisplacement	* surfaced\n* submerged
+German submarine U-264	shipDisplacement	* surfaced\n* submerged
+German submarine U-265	shipDisplacement	* surfaced\n* submerged
+German submarine U-266	shipDisplacement	* surfaced\n* submerged
+HMS Elfin	shipDisplacement	222.0
+German submarine U-274	shipDisplacement	* surfaced\n* submerged
+German submarine U-275	shipDisplacement	* surfaced\n*  submerged
+German submarine U-271	shipDisplacement	* surfaced\n* submerged
+German submarine U-276	shipDisplacement	* surfaced\n* submerged
+German submarine U-277	shipDisplacement	* surfaced\n* submerged
+German submarine U-279	shipDisplacement	* surfaced\n* submerged
+German submarine U-278	shipDisplacement	* surfaced\n* submerged
+German submarine U-281	shipDisplacement	* surfaced\n* submerged
+German submarine U-283	shipDisplacement	* surfaced\n* submerged
+German submarine U-284	shipDisplacement	* surfaced\n* submerged
+German submarine U-285	shipDisplacement	* surfaced\n* submerged
+German submarine U-286	shipDisplacement	* surfaced\n* submerged
+German submarine U-287	shipDisplacement	* surfaced\n* submerged
+German submarine U-288	shipDisplacement	* surfaced\n* submerged
+German submarine U-289	shipDisplacement	* surfaced\n* submerged
+German submarine U-290	shipDisplacement	* surfaced\n* submerged
+German submarine U-291	shipDisplacement	* surfaced\n* submerged
+Italian submarine Archimede	shipDisplacement	* surfaced\n* submerged
+German submarine U-292	shipDisplacement	* surfaced\n* submerged
+German submarine U-294	shipDisplacement	* surfaced\n* submerged
+German submarine U-295	shipDisplacement	* surfaced\n* submerged
+German submarine U-296	shipDisplacement	* surfaced\n* submerged
+German submarine U-297	shipDisplacement	* surfaced\n* submerged
+German submarine U-299	shipDisplacement	* surfaced\n* submerged
+German submarine U-302	shipDisplacement	* surfaced\n* submerged
+German submarine U-305	shipDisplacement	* surfaced\n* submerged
+German submarine U-308	shipDisplacement	* surfaced\n* submerged
+German submarine U-306	shipDisplacement	* surfaced\n* submerged
+German submarine U-310	shipDisplacement	* surfaced\n* submerged
+German submarine U-311	shipDisplacement	* surfaced\n* submerged
+German submarine U-312	shipDisplacement	* surfaced\n* submerged
+German submarine U-313	shipDisplacement	* surfaced\n* submerged
+German submarine U-314	shipDisplacement	* surfaced\n* submerged
+German submarine U-315	shipDisplacement	* surfaced\n* submerged
+ATLS-9701	shipDisplacement	857.0
+German submarine U-316	shipDisplacement	* surfaced\n* submerged
+German submarine U-318	shipDisplacement	* surfaced\n* submerged
+German submarine U-319	shipDisplacement	* surfaced\n* submerged
+German submarine U-320	shipDisplacement	* surfaced\n* submerged
+German submarine U-321	shipDisplacement	* surfaced\n* submerged
+German submarine U-322	shipDisplacement	* surfaced\n* submerged
+German submarine U-323	shipDisplacement	* surfaced\n* submerged
+German submarine U-326	shipDisplacement	* surfaced\n* submerged
+SM U-121	shipDisplacement	* surfaced\n* submerged
+German submarine U-327	shipDisplacement	* surfaced\n* submerged
+German submarine U-328	shipDisplacement	* surfaced\n* submerged
+German submarine U-334	shipDisplacement	* surfaced\n* submerged
+SM U-116	shipDisplacement	* surfaced\n* submerged
+German submarine U-335	shipDisplacement	* surfaced\n* submerged
+German submarine U-336	shipDisplacement	* surfaced\n* submerged
+German submarine U-339	shipDisplacement	* surfaced\n* submerged
+German submarine U-341	shipDisplacement	* surfaced\n* submerged
+German submarine U-342	shipDisplacement	* surfaced\n* submerged
+German submarine U-344	shipDisplacement	* surfaced\n* submerged
+German submarine U-345	shipDisplacement	* surfaced\n* submerged
+German submarine U-347	shipDisplacement	* surfaced\n* submerged
+German submarine U-348	shipDisplacement	* surfaced\n* submerged
+German submarine U-349	shipDisplacement	* surfaced\n* submerged
+German submarine U-350	shipDisplacement	* surfaced\n* submerged
+German submarine U-351	shipDisplacement	* surfaced\n* submerged
+German submarine U-354	shipDisplacement	* surfaced\n* submerged
+German submarine U-357	shipDisplacement	* surfaced\n* submerged
+German submarine U-358	shipDisplacement	* surfaced\n* submerged
+German submarine U-359	shipDisplacement	* surfaced\n* submerged
+German submarine U-360	shipDisplacement	* surfaced\n* submerged
+German submarine U-361	shipDisplacement	* surfaced\n* submerged
+Submarine U-475 Black Widow	shipDisplacement	1950.0
+German submarine U-363	shipDisplacement	* surfaced\n* submerged
+German submarine U-364	shipDisplacement	* surfaced\n* submerged
+Alesha-class minelayer	shipDisplacement	* standard\n* full load
+German submarine U-366	shipDisplacement	* surfaced\n* submerged
+German submarine U-367	shipDisplacement	* surfaced\n* submerged
+German submarine U-368	shipDisplacement	* surfaced\n* submerged
+German submarine U-369	shipDisplacement	* surfaced\n* submerged
+German submarine U-370	shipDisplacement	* surfaced\n* submerged
+German submarine U-373	shipDisplacement	* surfaced\n* submerged
+German submarine U-378	shipDisplacement	* surfaced\n* submerged
+German submarine U-382	shipDisplacement	* surfaced\n* submerged
+German submarine U-384	shipDisplacement	* surfaced\n* submerged
+German submarine U-385	shipDisplacement	* surfaced\n* submerged
+German submarine U-389	shipDisplacement	* surfaced\n* submerged
+German submarine U-386	shipDisplacement	* surfaced\n* submerged
+Sergey Yesenin-class motorship	shipDisplacement	1345.0
+German submarine U-387	shipDisplacement	* surfaced\n* submerged
+German submarine U-390	shipDisplacement	* surfaced\n* submerged
+German submarine U-391	shipDisplacement	* surfaced\n* submerged
+German submarine U-392	shipDisplacement	* surfaced\n* submerged
+German submarine U-393	shipDisplacement	* surfaced\n* submerged
+German submarine U-394	shipDisplacement	* surfaced\n* submerged
+German submarine U-396	shipDisplacement	* surfaced\n* submerged
+German submarine U-397	shipDisplacement	* surfaced\n* submerged
+German submarine U-399	shipDisplacement	* surfaced\n* submerged
+German submarine U-401	shipDisplacement	* surfaced\n* submerged
+German submarine U-403	shipDisplacement	* surfaced\n* submerged
+German submarine U-408	shipDisplacement	* surfaced\n* submerged
+German submarine U-412	shipDisplacement	* surfaced\n* submerged
+German submarine U-416	shipDisplacement	* surfaced\n* submerged
+German submarine U-417	shipDisplacement	* surfaced\n* submerged
+German submarine U-418	shipDisplacement	* surfaced\n* submerged
+German submarine U-419	shipDisplacement	* surfaced\n* submerged
+German submarine U-422	shipDisplacement	* surfaced\n* submerged
+German submarine U-424	shipDisplacement	* surfaced\n* submerged
+German submarine U-423	shipDisplacement	* surfaced\n* submerged
+German submarine U-425	shipDisplacement	* surfaced\n* submerged
+German submarine U-426	shipDisplacement	* surfaced\n* submerged
+German submarine U-428	shipDisplacement	* surfaced\n* submerged
+German submarine U-430	shipDisplacement	* surfaced\n* submerged
+German submarine U-432	shipDisplacement	* surfaced\n* submerged
+A-Rosa Aqua	shipDisplacement	2000.0
+German submarine U-436	shipDisplacement	* surfaced\n* submerged
+A-Rosa Brava	shipDisplacement	2000.0
+A-Rosa Viva	shipDisplacement	2000.0
+German submarine U-437	shipDisplacement	* surfaced\n* submerged
+German submarine U-439	shipDisplacement	* surfaced\n* submerged
+German submarine U-444	shipDisplacement	* surfaced\n* submerged
+German submarine U-445	shipDisplacement	* surfaced\n* submerged
+German submarine U-446	shipDisplacement	* surfaced\n* submerged
+German submarine U-448	shipDisplacement	* surfaced\n* submerged
+German submarine U-449	shipDisplacement	* surfaced\n* submerged
+German submarine U-452	shipDisplacement	* surfaced\n* submerged
+German submarine U-454	shipDisplacement	* surfaced\n* submerged
+German submarine U-457	shipDisplacement	* surfaced\n* submerged
+German submarine U-465	shipDisplacement	* surfaced\n* submerged
+German submarine U-467	shipDisplacement	* surfaced\n* submerged
+German submarine U-469	shipDisplacement	* surfaced\n* submerged
+German submarine U-472	shipDisplacement	* surfaced\n* submerged
+German submarine U-473	shipDisplacement	* surfaced\n* submerged
+German submarine U-475	shipDisplacement	* surfaced\n* submerged
+German submarine U-476	shipDisplacement	* surfaced\n* submerged
+German submarine U-477	shipDisplacement	* surfaced\n* submerged
+German submarine U-478	shipDisplacement	* surfaced\n* submerged
+German submarine U-483	shipDisplacement	* surfaced\n* submerged
+German submarine U-484	shipDisplacement	* surfaced\n* submerged
+German submarine U-485	shipDisplacement	* surfaced\n* submerged
+German submarine U-508	shipDisplacement	* surfaced\n* submerged
+German submarine U-516	shipDisplacement	* surfaced\n* submerged
+German submarine U-517	shipDisplacement	* surfaced\n* submerged
+German submarine U-522	shipDisplacement	* surfaced\n* submerged
+German submarine U-524	shipDisplacement	* surfaced\n* submerged
+German submarine U-525	shipDisplacement	* surfaced\n* submerged
+German submarine U-526	shipDisplacement	* surfaced\n* submerged
+German submarine U-527	shipDisplacement	* surfaced\n* submerged
+German submarine U-528	shipDisplacement	* surfaced\n* submerged
+German submarine U-532	shipDisplacement	* surfaced\n* submerged
+German submarine U-536	shipDisplacement	* surfaced\n* submerged
+German submarine U-538	shipDisplacement	* surfaced\n* submerged
+German submarine U-540	shipDisplacement	* surfaced\n* submerged
+German submarine U-542	shipDisplacement	* surfaced\n* submerged
+German submarine U-541	shipDisplacement	* surfaced\n* submerged
+German submarine U-543	shipDisplacement	* surfaced\n* submerged
+German submarine U-544	shipDisplacement	* surfaced\n* submerged
+German submarine U-545	shipDisplacement	* surfaced\n* submerged
+German submarine U-547	shipDisplacement	* surfaced\n* submerged
+German submarine U-548	shipDisplacement	* surfaced\n* submerged
+German submarine U-873	shipDisplacement	* surfaced\n* submerged
+German submarine U-560	shipDisplacement	* surfaced\n* submerged
+German submarine U-563	shipDisplacement	* surfaced\n* submerged
+German submarine U-569	shipDisplacement	* surfaced\n* submerged
+German submarine U-574	shipDisplacement	* surfaced\n* submerged
+German submarine U-575	shipDisplacement	* surfaced\n* submerged
+German submarine U-576	shipDisplacement	* surfaced\n* submerged
+German submarine U-578	shipDisplacement	* surfaced\n* submerged
+German submarine U-579	shipDisplacement	* surfaced\n* submerged
+German submarine U-580	shipDisplacement	* surfaced\n* submerged
+German submarine U-581	shipDisplacement	* surfaced\n* submerged
+German submarine U-582	shipDisplacement	* surfaced\n* submerged
+German submarine U-583	shipDisplacement	* surfaced\n* submerged
+German submarine U-585	shipDisplacement	* surfaced\n* submerged
+German submarine U-588	shipDisplacement	* surfaced\n* submerged
+German submarine U-589	shipDisplacement	* surfaced\n* submerged
+German submarine U-590	shipDisplacement	* surfaced\n* submerged
+German submarine U-592	shipDisplacement	* surfaced\n* submerged
+German submarine U-598	shipDisplacement	* surfaced\n* submerged
+German submarine U-597	shipDisplacement	* surfaced\n* submerged
+German submarine U-599	shipDisplacement	* surfaced\n* submerged
+A-Rosa Bella	shipDisplacement	1850.0
+A-Rosa Donna	shipDisplacement	1850.0
+A-Rosa Riva	shipDisplacement	1850.0
+A-Rosa Mia	shipDisplacement	1850.0
+A-Rosa Luna	shipDisplacement	1850.0
+A-Rosa Stella	shipDisplacement	1850.0
+A-Rosa Silva	shipDisplacement	1824.0
+Russian submarine Orel	shipDisplacement	13400
+German submarine U-601	shipDisplacement	* surfaced\n* submerged
+Fyodor Shalyapin	shipDisplacement	3950.0
+Chilean frigate Chile	shipDisplacement	1109.0
+German submarine U-610	shipDisplacement	* surfaced\n* submerged
+Feliks Dzerzhinskiy	shipDisplacement	3895.0
+Sergey Kuchkin	shipDisplacement	3950.0
+Semyon Budyonnyy	shipDisplacement	3950.0
+Mstislav Rostropovich	shipDisplacement	3953.0
+USS Antares	shipDisplacement	* \n*
+German submarine U-857	shipDisplacement	* surfaced\n* submerged
+German submarine U-858	shipDisplacement	* surfaced\n* submerged
+German submarine U-865	shipDisplacement	* surfaced\n* submerged
+German submarine U-867	shipDisplacement	* surfaced\n* submerged
+German submarine U-866	shipDisplacement	* surfaced\n* submerged
+German submarine U-868	shipDisplacement	* surfaced\n* submerged
+German submarine U-870	shipDisplacement	* surfaced\n* submerged
+German submarine U-827	shipDisplacement	* surfaced\n* submerged
+HNLMS Johan de Witt	shipDisplacement	16800
+Chilean corvette Baquedano	shipDisplacement	2500.0
+Chilean frigate Lota	shipDisplacement	1047.0
+Chilean cruiser Presidente Pinto	shipDisplacement	2047.0
+Teniente Serrano	shipDisplacement	311.0
+Chilean minelayer Colo Colo	shipDisplacement	545.0
+Chilean ship Casma	shipDisplacement	2627.0
+USS LCI-90	shipDisplacement	216
+German submarine U-188	shipDisplacement	* surfaced\n* submerged
+INS Jyoti	shipDisplacement	full load
+Argonaute-class submarine	shipDisplacement	* surfaced\n* submerged
+Matchanu-class submarine	shipDisplacement	* \n*
+German Type UC III submarine	shipDisplacement	*, surfaced\n*, submerged
+SM UA	shipDisplacement	* surfaced\n* submerged
+Chamois-class minesweeping sloop	shipDisplacement	* standard\n* full
+HMS Hambledon	shipDisplacement	*1,000 t standard\n*1,340 t full load
+SM UB-51	shipDisplacement	* surfaced\n* submerged
+SM UB-53	shipDisplacement	* surfaced\n* submerged
+SM UB-52	shipDisplacement	* surfaced\n* submerged
+SM UB-59	shipDisplacement	* surfaced\n* submerged
+SM UB-57	shipDisplacement	* surfaced\n* submerged
+SM UB-58	shipDisplacement	* surfaced\n* submerged
+SM UB-55	shipDisplacement	* surfaced\n* submerged
+SM UB-56	shipDisplacement	* surfaced\n* submerged
+SM UB-54	shipDisplacement	* surfaced\n* submerged
+SM UB-60	shipDisplacement	* surfaced\n* submerged
+SM UB-61	shipDisplacement	* surfaced\n* submerged
+SM UB-62	shipDisplacement	* surfaced\n* submerged
+SM UB-63	shipDisplacement	* surfaced\n* submerged
+SM UB-64	shipDisplacement	* surfaced\n* submerged
+SM UB-66	shipDisplacement	* surfaced\n* submerged
+SM UB-69	shipDisplacement	* surfaced\n* submerged
+SM UB-70	shipDisplacement	* surfaced\n* submerged
+SM UB-67	shipDisplacement	* surfaced\n* submerged
+SM UB-71	shipDisplacement	* surfaced\n* submerged
+SM UB-72	shipDisplacement	* surfaced\n* submerged
+SM UB-73	shipDisplacement	* surfaced\n* submerged
+SM UB-76	shipDisplacement	* surfaced\n* submerged
+SM UB-75	shipDisplacement	* surfaced\n* submerged
+SM UB-77	shipDisplacement	* surfaced\n* submerged
+SM UB-74	shipDisplacement	* surfaced\n* submerged
+SM UB-79	shipDisplacement	* surfaced\n* submerged
+SM UB-78	shipDisplacement	* surfaced\n* submerged
+SM UB-80	shipDisplacement	* surfaced\n* submerged
+SM UB-89	shipDisplacement	* surfaced\n* submerged
+SM UB-88	shipDisplacement	* surfaced\n* submerged
+SM UB-87	shipDisplacement	* surfaced\n* submerged
+SM UB-86	shipDisplacement	* surfaced\n* submerged
+SM UB-84	shipDisplacement	* surfaced\n* submerged
+SM UB-83	shipDisplacement	* surfaced\n* submerged
+SM UB-82	shipDisplacement	* surfaced\n* submerged
+SM UB-90	shipDisplacement	* surfaced\n* submerged
+SM UB-91	shipDisplacement	* surfaced\n* submerged
+SM UB-92	shipDisplacement	* surfaced\n* submerged
+SM UB-93	shipDisplacement	* surfaced\n* submerged
+SM UB-95	shipDisplacement	* surfaced\n* submerged
+SM UB-94	shipDisplacement	* surfaced\n* submerged
+SM UB-96	shipDisplacement	* surfaced\n* submerged
+SM UB-98	shipDisplacement	* surfaced\n* submerged
+SM UB-97	shipDisplacement	* surfaced\n* submerged
+SM UB-101	shipDisplacement	* surfaced\n* submerged
+SM UB-100	shipDisplacement	* surfaced\n* submerged
+SM UB-99	shipDisplacement	* surfaced\n* submerged
+SM UB-102	shipDisplacement	* surfaced\n* submerged
+SM UB-103	shipDisplacement	* surfaced\n* submerged
+SM UB-105	shipDisplacement	* surfaced\n* submerged
+SM UB-109	shipDisplacement	* surfaced\n* submerged
+SM UB-106	shipDisplacement	* surfaced\n* submerged
+SM UB-104	shipDisplacement	* surfaced\n* submerged
+SM UB-110	shipDisplacement	* surfaced\n* submerged
+SM UB-108	shipDisplacement	* surfaced\n* submerged
+SM UB-111	shipDisplacement	* surfaced\n* submerged
+SM UB-113	shipDisplacement	* surfaced\n* submerged
+SM UB-112	shipDisplacement	* surfaced\n* submerged
+SM UB-114	shipDisplacement	* surfaced\n* submerged
+SM UB-116	shipDisplacement	* surfaced\n* submerged
+SM UB-117	shipDisplacement	* surfaced\n* submerged
+SM UB-119	shipDisplacement	* surfaced\n* submerged
+SM UB-118	shipDisplacement	* surfaced\n* submerged
+SM UB-120	shipDisplacement	* surfaced\n* submerged
+SM UB-121	shipDisplacement	* surfaced\n* submerged
+SM UB-123	shipDisplacement	* surfaced\n* submerged
+SM UB-122	shipDisplacement	* surfaced\n* submerged
+SM UB-124	shipDisplacement	* surfaced\n* submerged
+SM UB-126	shipDisplacement	* surfaced\n* submerged
+SM UB-127	shipDisplacement	* surfaced\n* submerged
+SM UB-125	shipDisplacement	* surfaced\n* submerged
+SM UB-128	shipDisplacement	* surfaced\n* submerged
+SM UB-129	shipDisplacement	* surfaced\n* submerged
+SM UB-130	shipDisplacement	* surfaced\n* submerged
+SM UB-131	shipDisplacement	* surfaced\n* submerged
+SM UB-133	shipDisplacement	* surfaced\n* submerged
+SM UB-136	shipDisplacement	* surfaced\n* submerged
+SM UB-142	shipDisplacement	* surfaced\n* submerged
+SM UB-143	shipDisplacement	* surfaced\n* submerged
+SM UB-145	shipDisplacement	* surfaced\n* submerged
+SM UB-144	shipDisplacement	* surfaced\n* submerged
+SM UB-148	shipDisplacement	* surfaced\n* submerged
+SM UB-149	shipDisplacement	* surfaced\n* submerged
+SM UB-150	shipDisplacement	* surfaced\n* submerged
+SM UB-155	shipDisplacement	* surfaced\n* submerged
+SM UB-154	shipDisplacement	* surfaced\n* submerged
+Haijian 66	shipDisplacement	1290.0
+Haijian 51	shipDisplacement	1937.0
+Haijian 52	shipDisplacement	2421
+Haijian 84	shipDisplacement	1740.0
+Haijian 110	shipDisplacement	3000.0
+Haijian 75	shipDisplacement	1290.0
+USS St. Francis River	shipDisplacement	*758 t.\n*993 t. \n*1,175 t.
+BNS Tista	shipDisplacement	* standard\n* full load
+Haijian 23	shipDisplacement	1290.0
+HMS Arun	shipDisplacement	* standard\n* full load
+HMS Blackwater	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Foyle	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Itchen	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Liffey	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+Albatros-class corvette	shipDisplacement	Standard: 800 t\nFull load: 950 t
+HMS Moy	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Teviot	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Gala	shipDisplacement	* standard\n* full load\n* o/a\n* beam\n* draught
+HMS Ribble	shipDisplacement	* standard\n* full load
+HMS Ness	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Nith	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Usk	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Garry	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Ettrick	shipDisplacement	* standard\n* full load
+HMS Erne	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Cherwell	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Rother	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Swale	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Wear	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Chelmer	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Jed	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Kennet	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Exe	shipDisplacement	* standard\n* full load
+HMS Dee	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Ure	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Desperate	shipDisplacement	* standard\n* full load
+HMS Foam	shipDisplacement	* standard\n* full load
+HMS Fame	shipDisplacement	* standard\n* full load
+HMS Mallard	shipDisplacement	* standard\n* full load
+HMS Angler	shipDisplacement	* standard\n* full load
+HMS Ariel	shipDisplacement	* standard\n* full load
+HMS Coquette	shipDisplacement	* standard\n* full load
+HMS Cygnet	shipDisplacement	* standard\n* full load
+HMS Cynthia	shipDisplacement	* standard\n* full load
+HMS Fawn	shipDisplacement	* standard\n* full load
+HMS Lee	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Vixen	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Brazen	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Kestrel	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Vulture	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Thorn	shipDisplacement	* standard\n* full load\n* o/a\n* Beam\n* Draught
+HMS Falcon	shipDisplacement	* light\n* full load
+Yugoslav auxiliary Ugor	shipDisplacement	standard,  full load
+Cricket-class coastal destroyer	shipDisplacement	*225-255 t normal\n*~400 t deep load
+French destroyer L'Adroit	shipDisplacement	* \n*
+French destroyer Le Hardi	shipDisplacement	* \n*
+Yugoslav torpedo boat T1	shipDisplacement	*\n*
+Yugoslav destroyer Beograd	shipDisplacement	* \n*
+Yugoslav destroyer Ljubljana	shipDisplacement	* \n*
+Yugoslav destroyer Zagreb	shipDisplacement	* \n*
+Janequeo	shipDisplacement	1240
+German submarine U-706	shipDisplacement	* surfaced\n* submerged
+German submarine U-708	shipDisplacement	* surfaced\n* submerged
+German submarine U-707	shipDisplacement	* surfaced\n* submerged
+German submarine U-710	shipDisplacement	* surfaced\n* submerged
+German submarine U-711	shipDisplacement	* surfaced\n* submerged
+German submarine U-709	shipDisplacement	* surfaced\n* submerged
+German submarine U-737	shipDisplacement	* surfaced\n* submerged
+Mirna-class patrol boat	shipDisplacement	*Standard: \n*Full load:
+Una-class submarine	shipDisplacement	* \n*
+Valerian Kuybyshev	shipDisplacement	3950.0
+Croatian submarine Velebit	shipDisplacement	*Surfaced: \n*Submerged:
+Croatian missile boat Šibenik	shipDisplacement	*Standard: \n*Full:
+HMCS Moresby	shipDisplacement	* \n* deep load
+Japanese destroyer Uranami	shipDisplacement	* standard\n* full load
+Pegaso-class torpedo boat	shipDisplacement	* \n*
+Pluviôse-class submarine	shipDisplacement	* \n*
+French submarine Pluviôse	shipDisplacement	* \n*
+French submarine Brumaire	shipDisplacement	* \n*
+Croatian patrol boat Šolta	shipDisplacement	*Standard: \n*Full:
+French submarine Fresnel	shipDisplacement	* \n*
+French submarine Monge	shipDisplacement	* \n*
+French submarine Cugnot	shipDisplacement	* \n*
+Georgiy Zhukov	shipDisplacement	4050.0
+French submarine Foucault	shipDisplacement	* \n*
+French submarine Joule	shipDisplacement	* \n*
+French submarine Bernouilli	shipDisplacement	* \n*
+Russian corvette Smerch	shipDisplacement	* standard\n* full load
+German Type Large MS submarine	shipDisplacement	surfaced submerged  surfaced submerged
+German submarine U-828	shipDisplacement	* surfaced\n* submerged
+Chinese barracks ship Xu Xiake	shipDisplacement	* standard\n* full load
+German submarine U-848	shipDisplacement	* surfaced\n* submerged
+Huszár-class destroyer	shipDisplacement	* standard\n* deep load
+Squalo-class submarine	shipDisplacement	* surfaced\n* submerged
+German submarine U-621	shipDisplacement	* surfaced\n* submerged
+German submarine U-861	shipDisplacement	* surfaced\n* submerged
+German submarine U-847	shipDisplacement	* surfaced\n* submerged
+German submarine U-849	shipDisplacement	* surfaced\n* submerged
+German submarine U-624	shipDisplacement	* surfaced\n* submerged
+Offshore Raiding Craft	shipDisplacement	Light Load 4760 kg inc fuel & 2 crew & armour, Full load 6000 kg
+R-2 Mala-class swimmer delivery vehicle	shipDisplacement	Empty:
+German submarine U-654	shipDisplacement	* surfaced\n* submerged
+German submarine U-1055	shipDisplacement	* surfaced\n* submerged
+German submarine U-664	shipDisplacement	* surfaced\n* submerged
+German submarine U-630	shipDisplacement	* surfaced\n* submerged
+German submarine U-667	shipDisplacement	* surfaced\n* submerged
+German submarine U-968	shipDisplacement	* surfaced\n* submerged
+German submarine U-645	shipDisplacement	* surfaced\n* submerged
+Tir II	shipDisplacement	26
+Jerung-class gunboat	shipDisplacement	210
+German submarine U-631	shipDisplacement	* surfaced\n* submerged
+German submarine U-663	shipDisplacement	* surfaced\n* submerged
+German submarine U-613	shipDisplacement	* surfaced\n* submerged
+German submarine U-619	shipDisplacement	* surfaced\n* submerged
+Maya-class gunboat	shipDisplacement	*\n*
+Piratini-class patrol boat	shipDisplacement	standard,  full load
+Aratu-class minesweeper	shipDisplacement	standard,  full load
+German submarine U-665	shipDisplacement	* surfaced\n* submerged
+German submarine U-1202	shipDisplacement	* surfaced\n* submerged
+German submarine U-636	shipDisplacement	* surfaced\n* submerged
+German submarine U-634	shipDisplacement	* surfaced\n* submerged
+German submarine U-657	shipDisplacement	* surfaced\n* submerged
+German submarine U-620	shipDisplacement	* surfaced\n* submerged
+German submarine U-638	shipDisplacement	* surfaced\n* submerged
+German submarine U-1208	shipDisplacement	* surfaced\n* submerged
+German submarine U-633	shipDisplacement	* surfaced\n* submerged
+German submarine U-775	shipDisplacement	* surfaced\n* submerged
+German submarine U-985	shipDisplacement	* surfaced\n* submerged
+German submarine U-989	shipDisplacement	* surfaced\n* submerged
+German submarine U-764	shipDisplacement	* surfaced\n* submerged
+German submarine U-611	shipDisplacement	* surfaced\n* submerged
+German submarine U-658	shipDisplacement	* surfaced\n* submerged
+German submarine U-666	shipDisplacement	* surfaced\n* submerged
+German submarine U-984	shipDisplacement	* surfaced\n* submerged
+German submarine U-722	shipDisplacement	* surfaced\n* submerged
+German submarine U-763	shipDisplacement	* surfaced\n* submerged
+German submarine U-1107	shipDisplacement	* surfaced\n* submerged
+German submarine U-1051	shipDisplacement	* surfaced\n* submerged
+German submarine U-33	shipDisplacement	* surfaced\n* submerged
+German submarine U-801	shipDisplacement	* surfaced\n* submerged
+German submarine U-802	shipDisplacement	* surfaced\n* submerged
+German submarine U-805	shipDisplacement	* surfaced\n* submerged
+Gil Eannes	shipDisplacement	4854.0
+German submarine U-806	shipDisplacement	* surfaced\n* submerged
+German submarine U-841	shipDisplacement	* surfaced\n* submerged
+German submarine U-842	shipDisplacement	* surfaced\n* submerged
+German submarine U-845	shipDisplacement	* surfaced\n* submerged
+German submarine U-846	shipDisplacement	* surfaced\n* submerged
+German submarine U-854	shipDisplacement	* surfaced\n* submerged
+German submarine U-856	shipDisplacement	* surfaced\n* submerged
+German submarine U-855	shipDisplacement	* surfaced\n* submerged
+German submarine U-878	shipDisplacement	* surfaced\n* submerged
+German submarine U-879	shipDisplacement	* surfaced\n* submerged
+German submarine U-880	shipDisplacement	* surfaced\n* submerged
+German submarine U-1221	shipDisplacement	* surfaced\n* submerged
+Yugoslav submarine Mališan	shipDisplacement	* \n*
+A-Rosa Flora	shipDisplacement	1824.0
+German submarine U-1222	shipDisplacement	* surfaced\n* submerged
+German submarine U-1223	shipDisplacement	* surfaced\n* submerged
+German submarine U-1228	shipDisplacement	* surfaced\n* submerged
+German submarine U-734	shipDisplacement	* surfaced\n* submerged
+German submarine U-622	shipDisplacement	* surfaced\n* submerged
+German submarine U-635	shipDisplacement	* surfaced\n* submerged
+German submarine U-629	shipDisplacement	* surfaced\n* submerged
+German submarine U-637	shipDisplacement	* surfaced\n* submerged
+German submarine U-739	shipDisplacement	* surfaced\n* submerged
+German submarine U-678	shipDisplacement	* surfaced\n* submerged
+German submarine U-1233	shipDisplacement	* surfaced\n* submerged
+German submarine U-1231	shipDisplacement	* surfaced\n* submerged
+German submarine U-1229	shipDisplacement	* surfaced\n* submerged
+Russian submarine Knyaz Oleg	shipDisplacement	* surfaced\n* submerged
+German submarine U-639	shipDisplacement	* surfaced\n* submerged
+German submarine U-850	shipDisplacement	* surfaced\n* submerged
+French submarine Saphir	shipDisplacement	* \n*
+USS PC-552	shipDisplacement	280
+MS Harmony of the Seas	shipDisplacement	Approximately
+German submarine U-997	shipDisplacement	* surfaced\n* submerged
+German submarine U-1004	shipDisplacement	* surfaced\n* submerged
+German submarine U-1017	shipDisplacement	* surfaced\n* submerged
+German submarine U-1024	shipDisplacement	* surfaced\n* submerged
+German submarine U-1064	shipDisplacement	* surfaced\n* submerged
+German submarine U-1165	shipDisplacement	* surfaced\n* submerged
+German submarine U-1172	shipDisplacement	* surfaced\n* submerged
+German submarine U-1199	shipDisplacement	* surfaced\n* submerged
+German submarine U-1274	shipDisplacement	* surfaced\n* submerged
+German submarine U-1203	shipDisplacement	* surfaced\n* submerged
+German submarine U-992	shipDisplacement	* surfaced\n* submerged
+German submarine U-767	shipDisplacement	* surfaced\n* submerged
+German submarine U-988	shipDisplacement	* surfaced\n* submerged
+German submarine U-679	shipDisplacement	* surfaced\n* submerged
+German submarine U-825	shipDisplacement	* surfaced\n* submerged
+HMS Berkeley	shipDisplacement	*1,000 t standard\n*1,340 t full load
+Kalvari-class submarine	shipDisplacement	* surfaced\n* submerged
+German submarine U-956	shipDisplacement	* surfaced\n* submerged
+German submarine U-979	shipDisplacement	* surfaced\n* submerged
+German submarine U-990	shipDisplacement	* surfaced\n* submerged
+HMS Cattistock	shipDisplacement	*1,000 t standard\n*1,340 t full load
+INS Visakhapatnam	shipDisplacement	full load
+German submarine U-640	shipDisplacement	* surfaced\n* submerged
+German submarine U-2502	shipDisplacement	* surfaced\n* submerged
+German submarine U-3524	shipDisplacement	* surfaced\n* submerged
+German submarine U-2506	shipDisplacement	* surfaced\n* submerged
+German submarine U-2519	shipDisplacement	* surfaced\n* submerged
+German submarine U-3509	shipDisplacement	* surfaced\n* submerged
+German submarine U-3037	shipDisplacement	* surfaced\n* submerged
+German submarine U-3014	shipDisplacement	* surfaced\n* submerged
+German submarine U-2545	shipDisplacement	* surfaced\n* submerged
+German submarine U-2551	shipDisplacement	* surfaced\n* submerged
+German submarine U-641	shipDisplacement	* surfaced\n* submerged
+Type 079 landing ship medium	shipDisplacement	714
+Type 271 landing craft	shipDisplacement	400
+Type 271 landing craft	shipDisplacement	507.0
+Type 271 landing craft	shipDisplacement	>600t
+Type 271 landing craft	shipDisplacement	613.7
+Type 072A landing ship	shipDisplacement	3430
+USS Hassayampa	shipDisplacement	11600
+German submarine U-650	shipDisplacement	* surfaced\n* submerged
+German submarine U-731	shipDisplacement	* surfaced\n* submerged
+German submarine U-655	shipDisplacement	* surfaced\n* submerged
+German submarine U-643	shipDisplacement	* surfaced\n* submerged
+German submarine U-646	shipDisplacement	* surfaced\n* submerged
+German submarine U-649	shipDisplacement	* surfaced\n* submerged
+German submarine U-644	shipDisplacement	* surfaced\n* submerged
+German submarine U-648	shipDisplacement	* surfaced\n* submerged
+German submarine U-647	shipDisplacement	* surfaced\n* submerged
+German submarine U-668	shipDisplacement	* surfaced\n* submerged
+German submarine U-671	shipDisplacement	* surfaced\n* submerged
+German submarine U-682	shipDisplacement	* surfaced\n* submerged
+German submarine U-683	shipDisplacement	* surfaced\n* submerged
+German submarine U-681	shipDisplacement	* surfaced\n* submerged
+German submarine U-680	shipDisplacement	* surfaced\n* submerged
+German submarine U-676	shipDisplacement	* surfaced\n* submerged
+German submarine U-674	shipDisplacement	* surfaced\n* submerged
+German submarine U-672	shipDisplacement	* surfaced\n* submerged
+German submarine U-669	shipDisplacement	* surfaced\n* submerged
+German submarine U-673	shipDisplacement	* surfaced\n* submerged
+German submarine U-677	shipDisplacement	* surfaced\n* submerged
+German submarine U-670	shipDisplacement	* surfaced\n* submerged
+German submarine U-675	shipDisplacement	* surfaced\n* submerged
+USS John Blish	shipDisplacement	245
+USNS Marine Fiddler	shipDisplacement	22094
+USS YP-26	shipDisplacement	37.0
+Soviet destroyer Gremyashchiy	shipDisplacement	*1939:\n* \n* \n*1943:\n* \n*
+German submarine U-713	shipDisplacement	* surfaced\n* submerged
+German submarine U-715	shipDisplacement	* surfaced\n* submerged
+German submarine U-717	shipDisplacement	* surfaced\n* submerged
+German submarine U-719	shipDisplacement	* surfaced\n* submerged
+USS Hooper Island	shipDisplacement	5159
+German submarine U-720	shipDisplacement	* surfaced\n* submerged
+German submarine U-721	shipDisplacement	* surfaced\n* submerged
+German submarine U-732	shipDisplacement	* surfaced\n* submerged
+German submarine U-733	shipDisplacement	* surfaced\n* submerged
+Beiqi 346-class crane ship	shipDisplacement	* standard\n* full load
+USS Natchaug	shipDisplacement	1846
+BAP Unión	shipDisplacement	3200.0
+USS Pecatonica	shipDisplacement	1846
+French destroyer Jaguar	shipDisplacement	* \n*
+French destroyer Panthère	shipDisplacement	* \n*
+French destroyer Tigre	shipDisplacement	* \n*
+French destroyer Basque	shipDisplacement	* \n*
+French destroyer Boulonnais	shipDisplacement	* \n*
+French destroyer Bordelais	shipDisplacement	* \n*
+French destroyer Frondeur	shipDisplacement	* \n*
+French destroyer Brestois	shipDisplacement	* \n*
+French destroyer Forbin	shipDisplacement	* \n*
+French destroyer La Palme	shipDisplacement	* \n*
+French destroyer L'Alcyon	shipDisplacement	* \n*
+French destroyer Fougueux	shipDisplacement	* \n*
+French destroyer Le Fortuné	shipDisplacement	* \n*
+French destroyer Le Mars	shipDisplacement	* \n*
+French destroyer La Railleuse	shipDisplacement	* \n*
+French destroyer Guépard	shipDisplacement	* \n*
+French destroyer Valmy	shipDisplacement	* \n*
+French destroyer Verdun	shipDisplacement	* \n*
+French destroyer Lion	shipDisplacement	* \n*
+French destroyer Vauban	shipDisplacement	* \n*
+French destroyer Vauquelin	shipDisplacement	* \n*
+French destroyer Kersaint	shipDisplacement	* \n*
+French destroyer Cassard	shipDisplacement	* \n*
+French destroyer Tartu	shipDisplacement	* \n*
+French destroyer Le Chevalier Paul	shipDisplacement	* \n*
+French destroyer Vautour	shipDisplacement	* \n*
+French destroyer Gerfaut	shipDisplacement	* \n*
+French destroyer Aigle	shipDisplacement	* \n*
+French destroyer Albatros	shipDisplacement	* \n*
+B 97-class destroyer	shipDisplacement	* normal\n* deep load
+French destroyer Simoun	shipDisplacement	* \n*
+French destroyer Mistral	shipDisplacement	* \n*
+French destroyer Cyclone	shipDisplacement	* \n*
+French destroyer Tempête	shipDisplacement	* \n*
+French destroyer Tornade	shipDisplacement	* \n*
+French destroyer Typhon	shipDisplacement	* \n*
+French destroyer Orage	shipDisplacement	* \n*
+French destroyer Trombe	shipDisplacement	* \n*
+French destroyer Tramontane	shipDisplacement	* \n*
+French destroyer Épée	shipDisplacement	* \n*
+French destroyer Fleuret	shipDisplacement	* \n*
+French destroyer Mameluk	shipDisplacement	* \n*
+French destroyer Casque	shipDisplacement	* \n*
+French destroyer Lansquenet	shipDisplacement	* \n*
+French destroyer Siroco	shipDisplacement	* \n*
+French destroyer Le Flibustier	shipDisplacement	* \n*
+French destroyer Enseigne Roux	shipDisplacement	* \n*
+French destroyer Mécanicien Principal Lestin	shipDisplacement	* \n*
+French submarine Narval	shipDisplacement	* \n*
+French submarine Topaze	shipDisplacement	* \n*
+French submarine Turquoise	shipDisplacement	* \n*
+French submarine Opale	shipDisplacement	* \n*
+French submarine Émeraude	shipDisplacement	* \n*
+Circé-class submarine	shipDisplacement	* \n*
+French submarine Calypso	shipDisplacement	* \n*
+French submarine Circé	shipDisplacement	* \n*
+French submarine Priarial	shipDisplacement	* \n*
+French submarine Germinal	shipDisplacement	* \n*
+French submarine Ventôse	shipDisplacement	* \n*
+French submarine Floréal	shipDisplacement	* \n*
+French submarine Messidor	shipDisplacement	* \n*
+French submarine Fructidor	shipDisplacement	* \n*
+French submarine Papin	shipDisplacement	* \n*
+French submarine Watt	shipDisplacement	* \n*
+French submarine Thermidor	shipDisplacement	* \n*
+French submarine Gay-Lussac	shipDisplacement	* \n*
+French submarine Giffard	shipDisplacement	* \n*
+French submarine Berthelot	shipDisplacement	* \n*
+French submarine Ampère	shipDisplacement	* \n*
+French submarine Newton	shipDisplacement	* \n*
+French submarine Nivôse	shipDisplacement	* \n*
+French submarine Volta	shipDisplacement	* \n*
+French submarine Frimaire	shipDisplacement	* \n*
+French submarine Montgolfier	shipDisplacement	* \n*
+French submarine Franklin	shipDisplacement	* \n*
+French submarine Coulomb	shipDisplacement	* \n*
+French submarine Faraday	shipDisplacement	* \n*
+French submarine Arago	shipDisplacement	* \n*
+French submarine Euler	shipDisplacement	* \n*
+French submarine Le Verrier	shipDisplacement	* \n*
+French submarine Archimède	shipDisplacement	* \n*
+French submarine Amiral Bourgois	shipDisplacement	* \n*
+Clorinde-class submarine	shipDisplacement	* \n*
+French submarine Charles Brun	shipDisplacement	* \n*
+German minesweeper M-1	shipDisplacement	* standard\n* full load
+President Masaryk	shipDisplacement	214.0
+German minesweeper M 107	shipDisplacement	* max\n* designed
+German submarine U-742	shipDisplacement	* surfaced\n* submerged
+German submarine U-743	shipDisplacement	* surfaced\n* submerged
+German submarine U-740	shipDisplacement	* surfaced\n* submerged
+German submarine U-738	shipDisplacement	* surfaced\n* submerged
+German submarine U-747	shipDisplacement	* surfaced\n* submerged
+German submarine U-748	shipDisplacement	* surfaced\n* submerged
+German submarine U-749	shipDisplacement	* surfaced\n* submerged
+German submarine U-746	shipDisplacement	* surfaced\n* submerged
+USS PCS-1450	shipDisplacement	320
+German submarine U-971	shipDisplacement	* surfaced\n* submerged
+Yugoslav submarine Sava	shipDisplacement	*Surfaced: \n*Submerged:
+Hua Chuan No. 1-class repair dry dock	shipDisplacement	13000.0
+German submarine U-761	shipDisplacement	* surfaced\n* submerged
+German submarine U-762	shipDisplacement	* surfaced\n* submerged
+German submarine U-773	shipDisplacement	* surfaced\n* submerged
+German submarine U-774	shipDisplacement	* surfaced\n* submerged
+German submarine U-776	shipDisplacement	* surfaced\n* submerged
+German submarine U-779	shipDisplacement	* surfaced\n* submerged
+German submarine U-822	shipDisplacement	* surfaced\n* submerged
+German submarine U-826	shipDisplacement	* surfaced\n* submerged
+German submarine U-901	shipDisplacement	* surfaced\n* submerged
+German submarine U-903	shipDisplacement	* surfaced\n* submerged
+German submarine U-905	shipDisplacement	* surfaced\n* submerged
+German submarine U-907	shipDisplacement	* surfaced\n* submerged
+German submarine U-904	shipDisplacement	* surfaced\n* submerged
+German submarine U-921	shipDisplacement	* surfaced\n* submerged
+German submarine U-922	shipDisplacement	* surfaced\n* submerged
+German submarine U-923	shipDisplacement	* surfaced\n* submerged
+German submarine U-924	shipDisplacement	* surfaced\n* submerged
+German submarine U-925	shipDisplacement	* surfaced\n* submerged
+German submarine U-926	shipDisplacement	* surfaced\n* submerged
+German submarine U-927	shipDisplacement	* surfaced\n* submerged
+German submarine U-928	shipDisplacement	* surfaced\n* submerged
+German submarine U-951	shipDisplacement	* surfaced\n* submerged
+German submarine U-955	shipDisplacement	* surfaced\n* submerged
+German submarine U-959	shipDisplacement	* surfaced\n* submerged
+German submarine U-963	shipDisplacement	* surfaced\n* submerged
+German submarine U-965	shipDisplacement	* surfaced\n* submerged
+German submarine U-970	shipDisplacement	* surfaced\n* submerged
+German submarine U-966	shipDisplacement	* surfaced\n* submerged
+German submarine U-991	shipDisplacement	submerged
+German submarine U-972	shipDisplacement	submerged
+German submarine U-993	shipDisplacement	submerged
+German submarine U-1053	shipDisplacement	submerged
+German submarine U-1054	shipDisplacement	submerged
+German submarine U-974	shipDisplacement	* surfaced\n* submerged
+German submarine U-975	shipDisplacement	* surfaced\n* submerged
+German submarine U-976	shipDisplacement	* surfaced\n* submerged
+German submarine U-980	shipDisplacement	* surfaced\n* submerged
+German submarine U-1191	shipDisplacement	submerged
+German submarine U-1102	shipDisplacement	submerged
+German submarine U-792	shipDisplacement	* surfaced\n* submerged\n* total
+German submarine U-981	shipDisplacement	* surfaced\n* submerged
+German submarine U-986	shipDisplacement	* surfaced\n* submerged
+German submarine U-983	shipDisplacement	* surfaced\n* submerged
+German submarine U-982	shipDisplacement	* surfaced\n* submerged
+German submarine U-987	shipDisplacement	* surfaced\n* submerged
+German submarine U-994	shipDisplacement	* surfaced\n* submerged
+German submarine U-1057	shipDisplacement	* surfaced\n* submerged
+German submarine U-1052	shipDisplacement	* surfaced\n* submerged
+German submarine U-1056	shipDisplacement	* surfaced\n* submerged
+German submarine U-1058	shipDisplacement	* surfaced\n* submerged
+German submarine U-1101	shipDisplacement	* surfaced\n* submerged
+German submarine U-1131	shipDisplacement	* surfaced\n* submerged
+German submarine U-1132	shipDisplacement	* surfaced\n* submerged
+German submarine U-1161	shipDisplacement	* surfaced\n* submerged
+German submarine U-1192	shipDisplacement	* surfaced\n* submerged
+German submarine U-1162	shipDisplacement	* surfaced\n* submerged
+German submarine U-1194	shipDisplacement	* surfaced\n* submerged
+German submarine U-1193	shipDisplacement	* surfaced\n* submerged
+German submarine U-1196	shipDisplacement	* surfaced\n* submerged
+German submarine U-1197	shipDisplacement	* surfaced\n* submerged
+German submarine U-1198	shipDisplacement	* surfaced\n* submerged
+German submarine U-1201	shipDisplacement	* surfaced\n* submerged
+German submarine U-1205	shipDisplacement	* surfaced\n* submerged
+German submarine U-1204	shipDisplacement	* surfaced\n* submerged
+German submarine U-1207	shipDisplacement	* surfaced\n* submerged
+German submarine U-1209	shipDisplacement	* surfaced\n* submerged
+German submarine U-1210	shipDisplacement	* surfaced\n* submerged
+German submarine U-851	shipDisplacement	* surfaced\n* submerged
+German submarine U-860	shipDisplacement	* surfaced\n* submerged
+German submarine U-863	shipDisplacement	* surfaced\n* submerged
+German submarine U-871	shipDisplacement	* surfaced\n* submerged
+German submarine U-872	shipDisplacement	* surfaced\n* submerged
+German submarine U-876	shipDisplacement	* surfaced\n* submerged
+German submarine U-875	shipDisplacement	* surfaced\n* submerged
+German submarine U-874	shipDisplacement	* surfaced\n* submerged
+German submarine U-1405	shipDisplacement	* \n* \n*
+German submarine U-2522	shipDisplacement	* surfaced\n* submerged
+German submarine U-2520	shipDisplacement	* surfaced\n* submerged
+German submarine U-2517	shipDisplacement	* surfaced\n* submerged
+German submarine U-2515	shipDisplacement	* surfaced\n* submerged
+German submarine U-2514	shipDisplacement	* surfaced\n* submerged
+German submarine U-2510	shipDisplacement	* surfaced\n* submerged
+German submarine U-2512	shipDisplacement	* surfaced\n* submerged
+German submarine U-2509	shipDisplacement	* surfaced\n* submerged
+German submarine U-2508	shipDisplacement	* surfaced\n* submerged
+German submarine U-2507	shipDisplacement	* surfaced\n* submerged
+German submarine U-2505	shipDisplacement	* surfaced\n* submerged
+German submarine U-2504	shipDisplacement	* surfaced\n* submerged
+German submarine U-2525	shipDisplacement	* surfaced\n* submerged
+German submarine U-2541	shipDisplacement	* surfaced\n* submerged
+German submarine U-3015	shipDisplacement	* surfaced\n* submerged
+German submarine U-3022	shipDisplacement	* surfaced\n* submerged
+German submarine U-3044	shipDisplacement	* surfaced\n* submerged
+German submarine U-3510	shipDisplacement	* surfaced\n* submerged
+German submarine U-2526	shipDisplacement	* surfaced\n* submerged
+German submarine U-3529	shipDisplacement	* surfaced\n* submerged
+German submarine U-2527	shipDisplacement	* surfaced\n* submerged
+German submarine U-2531	shipDisplacement	* surfaced\n* submerged
+German submarine U-2528	shipDisplacement	* surfaced\n* submerged
+German submarine U-3002	shipDisplacement	* surfaced\n* submerged
+German submarine U-3016	shipDisplacement	* surfaced\n* submerged
+German submarine U-3018	shipDisplacement	* surfaced\n* submerged
+German submarine U-3021	shipDisplacement	* surfaced\n* submerged
+German submarine U-3019	shipDisplacement	* surfaced\n* submerged
+German submarine U-3020	shipDisplacement	* surfaced\n* submerged
+German submarine U-3522	shipDisplacement	* surfaced\n* submerged
+German submarine U-3521	shipDisplacement	* surfaced\n* submerged
+German submarine U-3516	shipDisplacement	* surfaced\n* submerged
+German submarine U-3517	shipDisplacement	* surfaced\n* submerged
+German submarine U-2535	shipDisplacement	* surfaced\n* submerged
+German submarine U-2536	shipDisplacement	* surfaced\n* submerged
+German submarine U-3012	shipDisplacement	* surfaced\n* submerged
+German submarine U-3011	shipDisplacement	* surfaced\n* submerged
+German submarine U-3013	shipDisplacement	* surfaced\n* submerged
+German submarine U-3023	shipDisplacement	* surfaced\n* submerged
+German submarine U-3025	shipDisplacement	* surfaced\n* submerged
+German submarine U-3027	shipDisplacement	* surfaced\n* submerged
+German submarine U-3507	shipDisplacement	* surfaced\n* submerged
+German submarine U-3026	shipDisplacement	* surfaced\n* submerged
+German submarine U-3511	shipDisplacement	* surfaced\n* submerged
+German submarine U-3518	shipDisplacement	* surfaced\n* submerged
+German submarine U-3525	shipDisplacement	* surfaced\n* submerged
+German submarine U-3530	shipDisplacement	* surfaced\n* submerged
+German submarine U-3039	shipDisplacement	* surfaced\n* submerged
+German submarine U-3031	shipDisplacement	* surfaced\n* submerged
+German submarine U-3038	shipDisplacement	* surfaced\n* submerged
+German submarine U-3028	shipDisplacement	* surfaced\n* submerged
+German submarine U-3029	shipDisplacement	* surfaced\n* submerged
+German submarine U-2552	shipDisplacement	* surfaced\n* submerged
+German submarine U-3005	shipDisplacement	* surfaced\n* submerged
+German submarine U-2548	shipDisplacement	* surfaced\n* submerged
+German submarine U-3526	shipDisplacement	* surfaced\n* submerged
+German submarine U-3513	shipDisplacement	* surfaced\n* submerged
+German submarine U-2546	shipDisplacement	* surfaced\n* submerged
+German submarine U-2503	shipDisplacement	* surfaced\n* submerged
+German submarine U-2524	shipDisplacement	* surfaced\n* submerged
+German submarine U-2534	shipDisplacement	* surfaced\n* submerged
+German submarine U-2539	shipDisplacement	* surfaced\n* submerged
+German submarine U-2543	shipDisplacement	* surfaced\n* submerged
+German submarine U-2544	shipDisplacement	* surfaced\n* submerged
+German submarine U-2538	shipDisplacement	* surfaced\n* submerged
+German submarine U-3001	shipDisplacement	* surfaced\n* submerged
+German submarine U-3024	shipDisplacement	* surfaced\n* submerged
+German submarine U-3030	shipDisplacement	* surfaced\n* submerged
+German submarine U-3033	shipDisplacement	* surfaced\n* submerged
+German submarine U-3034	shipDisplacement	* surfaced\n* submerged
+German submarine U-3503	shipDisplacement	* surfaced\n* submerged
+German submarine U-3504	shipDisplacement	* surfaced\n* submerged
+German submarine U-3528	shipDisplacement	* surfaced\n* submerged
+German submarine U-3527	shipDisplacement	* surfaced\n* submerged
+German submarine U-2521	shipDisplacement	* surfaced\n* submerged
+German submarine U-2523	shipDisplacement	* surfaced\n* submerged
+German submarine U-2529	shipDisplacement	* surfaced\n* submerged
+German submarine U-2533	shipDisplacement	* surfaced\n* submerged
+German submarine U-2530	shipDisplacement	* surfaced\n* submerged
+German submarine U-2542	shipDisplacement	* surfaced\n* submerged
+German submarine U-3003	shipDisplacement	* surfaced\n* submerged
+German submarine U-3004	shipDisplacement	* surfaced\n* submerged
+German submarine U-3006	shipDisplacement	* surfaced\n* submerged
+German submarine U-3007	shipDisplacement	* surfaced\n* submerged
+German submarine U-3009	shipDisplacement	* surfaced\n* submerged
+General Purpose Frigate	shipDisplacement	* normal \n*  deep load
+German submarine U-3017	shipDisplacement	* surfaced\n* submerged
+German submarine U-3032	shipDisplacement	* surfaced\n* submerged
+German submarine U-3040	shipDisplacement	* surfaced\n* submerged
+German submarine U-3035	shipDisplacement	* surfaced\n* submerged
+German submarine U-3502	shipDisplacement	* surfaced\n* submerged
+German submarine U-3501	shipDisplacement	* surfaced\n* submerged
+German submarine U-3041	shipDisplacement	* surfaced\n* submerged
+German submarine U-3512	shipDisplacement	* surfaced\n* submerged
+German submarine U-3515	shipDisplacement	* surfaced\n* submerged
+German submarine U-3520	shipDisplacement	* surfaced\n* submerged
+German submarine U-3523	shipDisplacement	* surfaced\n* submerged
+German submarine U-2325	shipDisplacement	* \n*
+German submarine U-2328	shipDisplacement	* \n*
+German submarine U-2327	shipDisplacement	* \n*
+German submarine U-2326	shipDisplacement	* \n*
+German submarine U-2355	shipDisplacement	* \n*
+German submarine U-2363	shipDisplacement	* \n*
+German submarine U-2350	shipDisplacement	* \n*
+German submarine U-2337	shipDisplacement	* \n*
+German submarine U-2335	shipDisplacement	* \n*
+German submarine U-2334	shipDisplacement	* \n*
+German submarine U-2329	shipDisplacement	* \n*
+German submarine U-2330	shipDisplacement	* \n*
+German submarine U-2333	shipDisplacement	* \n*
+German submarine U-2332	shipDisplacement	* \n*
+German submarine U-2338	shipDisplacement	* \n*
+German submarine U-2339	shipDisplacement	* \n*
+German submarine U-2340	shipDisplacement	* \n*
+German submarine U-2341	shipDisplacement	* \n*
+German submarine U-2343	shipDisplacement	* \n*
+German submarine U-2346	shipDisplacement	* \n*
+German submarine U-2347	shipDisplacement	* \n*
+German submarine U-2349	shipDisplacement	* \n*
+German submarine U-2357	shipDisplacement	* \n*
+German submarine U-2360	shipDisplacement	* \n*
+German submarine U-2364	shipDisplacement	* \n*
+German submarine U-2358	shipDisplacement	* \n*
+German submarine U-2362	shipDisplacement	* \n*
+German submarine U-2366	shipDisplacement	* \n*
+German submarine U-2368	shipDisplacement	* \n*
+German submarine U-2369	shipDisplacement	* \n*
+German submarine U-2345	shipDisplacement	* \n*
+German submarine U-2351	shipDisplacement	* \n*
+German submarine U-2354	shipDisplacement	* \n*
+German submarine U-2356	shipDisplacement	* \n*
+German submarine U-2361	shipDisplacement	* \n*
+German submarine U-2352	shipDisplacement	* \n*
+German submarine U-2348	shipDisplacement	* \n*
+German submarine U-2353	shipDisplacement	* \n*
+German submarine U-2359	shipDisplacement	* \n*
+German submarine U-2365	shipDisplacement	* \n*
+German submarine U-2371	shipDisplacement	* \n*
+German submarine U-2367	shipDisplacement	* \n*
+German submarine U-4711	shipDisplacement	* \n*
+German submarine U-4709	shipDisplacement	* \n*
+German submarine U-4705	shipDisplacement	* \n*
+German submarine U-4707	shipDisplacement	* \n*
+German submarine U-4704	shipDisplacement	* \n*
+German submarine U-4701	shipDisplacement	* \n*
+German submarine U-4710	shipDisplacement	* \n*
+German submarine U-4702	shipDisplacement	* \n*
+German submarine U-4703	shipDisplacement	* \n*
+German submarine U-4712	shipDisplacement	* \n*
+German submarine U-4706	shipDisplacement	* \n*
+Croatian training ship Andrija Mohorovičić	shipDisplacement	Full:
+French submarine Gustave Zédé	shipDisplacement	* \n*
+French submarine Néréide	shipDisplacement	* \n*
+French submarine Clorinde	shipDisplacement	* \n*
+French submarine Cornélie	shipDisplacement	* \n*
+Amphitrite-class submarine	shipDisplacement	* \n*
+French submarine Amphitrite	shipDisplacement	* \n*
+French submarine Astrée	shipDisplacement	* \n*
+French submarine Aréthuse	shipDisplacement	* \n*
+French submarine Amarante	shipDisplacement	* \n*
+French submarine Artémis	shipDisplacement	* \n*
+French submarine Andromaque	shipDisplacement	* \n*
+French submarine Ariane	shipDisplacement	* \n*
+French submarine Atalante	shipDisplacement	* \n*
+Bellone-class submarine	shipDisplacement	* \n*
+French submarine Gorgone	shipDisplacement	* \n*
+French submarine Bellone	shipDisplacement	* \n*
+French submarine Hermione	shipDisplacement	* \n*
+Diane-class submarine	shipDisplacement	* \n*
+French submarine Daphné	shipDisplacement	* \n*
+French submarine Diane	shipDisplacement	* \n*
+Dupuy de Lôme-class submarine	shipDisplacement	* \n*
+French submarine Sané	shipDisplacement	* \n*
+French ship Laplace	shipDisplacement	*\n* full load
+Galeb-class minelayer	shipDisplacement	* \n*
+Italian aviso Diana	shipDisplacement	* standard\n* full load
+INS Mormugao	shipDisplacement	full load

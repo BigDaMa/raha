@@ -1,0 +1,15 @@
+Bay Area Rapid Transit	topSpeed	;  during normal operations
+SkyTrain	topSpeed	( )
+Edinburgh Trams	topSpeed	off-street
+California High-Speed Rail	topSpeed	from San Jose to LA
+California High-Speed Rail	topSpeed	from San Jose to San Francisco
+California High-Speed Rail	topSpeed	from Los Angeles to Anaheim
+Gothenburg tram network	topSpeed	allowed
+Bursaray	topSpeed	70.0
+Palm Jumeirah Monorail	topSpeed	70.0
+Vought Airtrans	topSpeed	17.0
+Mass Rapid Transit Master Plan in Bangkok Metropolitan Region	topSpeed	MRT:
+Mass Rapid Transit Master Plan in Bangkok Metropolitan Region	topSpeed	Commuter:
+Dortmund Stadtbahn	topSpeed	80.0
+Trams in Besançon	topSpeed	70.0
+Ashgabat Monorail	topSpeed	80.0

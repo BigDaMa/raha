@@ -1,0 +1,56 @@
+Earth	meanTemp	288.0
+Earth	meanTemp	15.0
+Moon	meanTemp	220.0
+Moon	meanTemp	150.0
+Mercury	meanTemp	340.0
+Mercury	meanTemp	200.0
+Umbriel	meanTemp	≈&thinsp;75 K
+Venus	meanTemp	737.0
+Venus	meanTemp	462.0
+Jupiter	meanTemp	165.0
+Jupiter	meanTemp	112.0
+Europa	meanTemp	102.0
+Uranus	meanTemp	53.0
+Saturn	meanTemp	134.0
+Saturn	meanTemp	84.0
+Pluto	meanTemp	44.0
+Amalthea	meanTemp	120.0
+Enceladus	meanTemp	75.0
+Enceladus	meanTemp	-198.0
+Ariel	meanTemp	≈&thinsp;60 K
+1862 Apollo	meanTemp	214.0
+1862 Apollo	meanTemp	-59.0
+90 Antiope	meanTemp	~158 K
+90 Antiope	meanTemp	−115 C
+168 Sibylla	meanTemp	153.0
+2062 Aten	meanTemp	263.0
+2062 Aten	meanTemp	-10.0
+Io	meanTemp	110.0
+307 Nike	meanTemp	161.0
+307 Nike	meanTemp	-112.0
+501 Urhixidur	meanTemp	153.0
+501 Urhixidur	meanTemp	-120.0
+465 Alekto	meanTemp	157.0
+465 Alekto	meanTemp	-116.0
+1001 Gaussia	meanTemp	154.0
+1001 Gaussia	meanTemp	-119.0
+Ceres	meanTemp	≈&thinsp;168 K
+Eris	meanTemp	42.5
+3103 Eger	meanTemp	182.0
+	meanTemp	~227 K
+Mars	meanTemp	210.0
+Mars	meanTemp	-63.0
+6239 Minos	meanTemp	210.0
+6239 Minos	meanTemp	-63.0
+12923 Zephyr	meanTemp	189.0
+Neptune	meanTemp	72.0
+Neptune	meanTemp	55.0
+	meanTemp	~250 K
+Read	meanTemp	159.0
+	meanTemp	258.0
+	meanTemp	265.0
+	meanTemp	-8.0
+Geodynamics of Venus	meanTemp	737.0
+Geodynamics of Venus	meanTemp	462.0
+	meanTemp	203.5
+	meanTemp	-69.5

@@ -1,0 +1,673 @@
+Channel Tunnel	notrack	2
+Channel Tunnel	notrack	1
+Thameslink	notrack	2
+Midland Main Line	notrack	2
+Crossrail	notrack	2
+North London Line	notrack	2
+42nd Street Shuttle	notrack	3
+Gyeongbu Line	notrack	6
+Gyeongbu Line	notrack	4
+Gyeongbu Line	notrack	2
+Northeast Corridor	notrack	2
+Yamanote Line	notrack	2
+BMT Brighton Line	notrack	2
+Expo Line	notrack	2
+Canada Line	notrack	2
+Suin Line	notrack	2
+Blue Line	notrack	2
+Orange Line	notrack	2
+Red Line	notrack	2
+Green Line	notrack	2
+Yellow Line	notrack	2
+Gotthard Base Tunnel	notrack	2
+Seoul Subway Line 5	notrack	2
+Bothnia Line	notrack	1
+Tamsui Line, Taipei Metro	notrack	2
+Xinbeitou Branch Line, Taipei Metro	notrack	2
+Xindian Line, Taipei Metro	notrack	2
+Xiaonanmen Line, Taipei Metro	notrack	2
+Blue and Green Lines	notrack	2
+Red Line	notrack	2
+Orange Line	notrack	2
+BMT West End Line	notrack	3
+Robin Hood Line	notrack	1
+Seibu Tamagawa Line	notrack	1
+Cotswold Line	notrack	1
+Calder Valley Line	notrack	2
+Airedale Line	notrack	2
+Keio Inokashira Line	notrack	2
+Xiaobitan Branch Line, Taipei Metro	notrack	2
+Tucheng Line, Taipei Metro	notrack	2
+Neihu Line, Taipei Metro	notrack	2
+Xinzhuang Line, Taipei Metro	notrack	2
+Luzhou Line, Taipei Metro	notrack	2
+Xinyi Line, Taipei Metro	notrack	2
+Songshan Line, Taipei Metro	notrack	2
+Seoul Subway Line 2	notrack	2
+Seoul Subway Line 3	notrack	2
+Seoul Subway Line 4	notrack	2
+Seoul Subway Line 6	notrack	2
+Seoul Subway Line 8	notrack	2
+Seoul Subway Line 7	notrack	2
+Bundang Line	notrack	2
+Minami Osaka Line	notrack	2
+Conwy Valley Line	notrack	2
+Conwy Valley Line	notrack	1
+Chiltern Main Line	notrack	2
+Center City Commuter Connection	notrack	4
+Steinway Tunnel	notrack	2
+IRT Flushing Line	notrack	2
+IND Eighth Avenue Line	notrack	2
+BMT Canarsie Line	notrack	2
+Yilan Line	notrack	2
+Taichung Line	notrack	2
+IND Concourse Line	notrack	2
+Transbay Tube	notrack	2
+BMT Jamaica Line	notrack	2
+Maritime Line	notrack	1
+Atlantic Coast Line, Cornwall	notrack	1
+Looe Valley Line	notrack	1
+Bittern Line	notrack	1
+East Suffolk Line	notrack	1
+Gainsborough Line	notrack	1
+Wherry Lines	notrack	1
+North-Link Line	notrack	2
+South-Link Line	notrack	1
+Pingtung Line	notrack	2
+Hualien–Taitung Line	notrack	2
+Avocet Line	notrack	1
+BMT Myrtle Avenue Line	notrack	2
+IND Culver Line	notrack	2
+BMT Nassau Street Line	notrack	2
+IND Crosstown Line	notrack	2
+Archer Avenue Lines	notrack	2
+63rd Street Lines	notrack	2
+Sunset Tunnel	notrack	2
+Brighton Main Line	notrack	2
+Cross-Harbour Tunnel	notrack	2
+Marston Vale Line	notrack	1
+Twin Peaks Tunnel	notrack	2
+Bexleyheath Line	notrack	2
+North Kent Line	notrack	2
+Dartford Loop Line	notrack	2
+Sassi–Superga tramway	notrack	1
+Catford Loop Line	notrack	2
+IRT Lenox Avenue Line	notrack	2
+Greenford Branch Line	notrack	1
+Fløibanen	notrack	1
+Arun Valley Line	notrack	2
+BMT Sea Beach Line	notrack	2
+Bowling Green–South Ferry shuttle	notrack	1
+Grand Chord	notrack	2
+IRT White Plains Road Line	notrack	2
+Senseki Line	notrack	21
+BMT Astoria Line	notrack	2
+Lea Valley Lines	notrack	2
+Ivanhoe Line	notrack	2
+West Anglia Main Line	notrack	2
+Felixstowe Branch Line	notrack	1
+Braintree Branch Line	notrack	1
+Atlantic City Line	notrack	1
+Breckland Line	notrack	2
+Atlantic Avenue Elevated	notrack	2
+Busan Metro Line 1	notrack	2
+Busan Metro Line 2	notrack	2
+Busan Metro Line 3	notrack	2
+Green Line %22C%22 Branch	notrack	2
+Green Line %22E%22 Branch	notrack	2
+Hanshin Namba Line	notrack	2
+Daegu Metro Line 1	notrack	2
+Birmingham to Peterborough Line	notrack	2
+LINK Train	notrack	2
+Incheon Subway Line 1	notrack	2
+Circular Line, Taipei Metro	notrack	2
+Zhonghe Line, Taipei Metro	notrack	2
+Minsterley Branch Line	notrack	1
+Sendai Subway Namboku Line	notrack	2
+BMT Fourth Avenue Line	notrack	2
+Washington Street Elevated	notrack	2
+IRT Nostrand Avenue Line	notrack	2
+Swan View Tunnel	notrack	1
+Varsity Line	notrack	1
+Gwangju Metro Line 1	notrack	2
+Chessington Branch Line	notrack	2
+Charlestown Elevated	notrack	2
+Central Link	notrack	2
+Michigan Central Railway Tunnel	notrack	2
+Line 1, Shanghai Metro	notrack	2
+Line 2, Shanghai Metro	notrack	2
+Line 5, Shanghai Metro	notrack	2
+Line 4, Shanghai Metro	notrack	2
+Line 3, Shanghai Metro	notrack	2
+Townline Tunnel	notrack	2
+Hertford Loop Line	notrack	2
+Saitama Rapid Railway Line	notrack	2
+South Eastern Main Line	notrack	5
+South Eastern Main Line	notrack	4
+South Eastern Main Line	notrack	2
+South Eastern Main Line	notrack	12
+Seoul Subway Line 9	notrack	2
+Shinbundang Line	notrack	2
+Crouch Valley Line	notrack	1
+Lehigh Line	notrack	2
+Saltsjöbanan	notrack	1
+Daegu Metro Line 2	notrack	2
+Lackawanna Cut-Off	notrack	2
+Lackawanna Cut-Off	notrack	1
+Lackawanna Cut-Off	notrack	0
+Lackawanna Cut-Off	notrack	Sidings: 6 ; 3 ; 0
+Coventry to Nuneaton Line	notrack	2
+Buxton Line	notrack	2
+Baltimore Metro Subway	notrack	2
+London to Aylesbury Line	notrack	2
+7 Subway Extension	notrack	2
+Watford DC Line	notrack	2
+Köln–Frankfurt high-speed rail line	notrack	2
+Evergreen Extension	notrack	2
+Malaysia Federal Route 74	notrack	1
+Silver Line	notrack	2
+University Line	notrack	2
+Blue Line	notrack	2
+Ashford to Ramsgate	notrack	2
+Far Rockaway Branch	notrack	2
+HSL 2	notrack	2
+Astram Line	notrack	2
+HSL 3	notrack	2
+Joralemon Street Tunnel	notrack	2
+Montague Street Tunnel	notrack	2
+60th Street Tunnel	notrack	2
+63rd Street Tunnel	notrack	2
+North River Tunnels	notrack	1
+Kashmir Railway	notrack	1
+Everline	notrack	2
+Tacoma Link	notrack	2
+DART Underground	notrack	2
+Great Northern Route	notrack	2
+Nippori-Toneri Liner	notrack	2
+AREX	notrack	2
+Keikyū Daishi Line	notrack	2
+Crossrail 2	notrack	2
+Otago Central Railway	notrack	1
+Birkenhead Dock Branch	notrack	2
+Nangang Line, Taipei Metro	notrack	2
+Banqiao Line, Taipei Metro	notrack	2
+Great Northern Tunnel	notrack	2
+Crystal Palace and South London Junction Railway	notrack	2
+Keikyū Airport Line	notrack	2
+Keikyū Zushi Line	notrack	2
+Greenwich Park Branch Line	notrack	2
+Kōnan Railway Kōnan Line	notrack	1
+Dudley Railway Tunnel	notrack	2
+Ascot to Guildford Line	notrack	1
+Trenton Subdivision	notrack	1
+Philadelphia Subdivision	notrack	1
+Harrisburg Line	notrack	1
+Rockaway Valley Railroad	notrack	1
+Lurgan Branch	notrack	1
+Greenwich Line	notrack	2
+Bay Ridge Branch	notrack	1
+Keihanna Line	notrack	2
+Wabash Tunnel	notrack	2
+DFW Skylink	notrack	2
+Tōyō Rapid Railway Line	notrack	2
+Corridor	notrack	2
+Hakubi Line	notrack	2
+Hakubi Line	notrack	1
+Sanyo Electric Railway Main Line	notrack	2
+Vallvidrera Funicular	notrack	1
+InterCity	notrack	2
+Commuter	notrack	2
+Johnsonville Branch	notrack	1
+Keiō Dōbutsuen Line	notrack	1
+Chingford Branch Line	notrack	2
+Trans-Dublin	notrack	2
+Oberon railway line	notrack	1
+Schenley Tunnel	notrack	1
+Chikuhō Main Line	notrack	2
+Mannheim–Stuttgart high-speed railway	notrack	2
+East Rhine Railway	notrack	2
+Exe Valley Railway	notrack	1
+Ulm–Augsburg railway	notrack	2
+Penmanshiel Tunnel	notrack	2
+Coventry to Leamington Line	notrack	1
+Nuremberg–Erfurt high-speed railway	notrack	2
+Skyway	notrack	2
+Robertson Tunnel	notrack	2
+Line 3, Taipei Metro	notrack	2
+Yoshino Line	notrack	1
+Line 6, Shanghai Metro	notrack	2
+Line 9, Shanghai Metro	notrack	2
+Line 8, Shanghai Metro	notrack	2
+Line 5,	notrack	2
+Exeter to Plymouth railway of the LSWR	notrack	2
+Camp Hill Line	notrack	2
+Gracefield Branch	notrack	1
+Gyeongbu High Speed Railway	notrack	2
+Honam High Speed Railway	notrack	2
+Barcelona–Vallès Line	notrack	2
+Shinano Railway Line	notrack	2
+Kishū Railway Line	notrack	1
+Wakasa Line	notrack	1
+Akita Rinkai Railway Line	notrack	1
+Sendai Subway Tōzai Line	notrack	2
+Sinansan Line	notrack	2
+Reading to Basingstoke Line	notrack	2
+Seibu Yūrakuchō Line	notrack	2
+Gantoku Line	notrack	1
+Blue Line	notrack	2
+Orange Line	notrack	2
+First Street Tunnel	notrack	2
+Henryton Tunnel	notrack	1
+Incheon Subway Line 2	notrack	2
+Line 7, Shanghai Metro	notrack	2
+Line 10, Shanghai Metro	notrack	2
+Line 11, Shanghai Metro	notrack	2
+Busan–Gimhae Light Rail Transit	notrack	2
+Red Line	notrack	2
+Southern Line	notrack	2
+Southern Line	notrack	1
+Falaknuma – Secunderabad route	notrack	2
+Falaknuma – Hyderabad route	notrack	2
+Bolarum – Secunderabad route	notrack	2
+Falaknuma – Lingampally route	notrack	2
+Hyderabad – Lingampally route	notrack	2
+Cuyahoga Valley Scenic Railroad	notrack	1
+Seibu Haijima Line	notrack	2
+Green Line	notrack	2
+Flats Industrial Railroad	notrack	1
+TEDA Modern Guided Rail Tram	notrack	2
+Berkeley Hills Tunnel	notrack	2
+MRT Purple Line	notrack	2
+MRT Yellow Line	notrack	2
+MRT Brown Line	notrack	2
+MRT Pink Line	notrack	2
+Glenbrook Tunnel	notrack	1
+Mount Washington Transit Tunnel	notrack	2
+Seibu Toshima Line	notrack	1
+Seibu Seibu-en Line	notrack	1
+Leipzig–Dresden railway	notrack	2
+Chard Branch Line	notrack	1
+Seibu Tamako Line	notrack	1
+Seibu Kokubunji Line	notrack	1
+Guangfo Metro	notrack	2
+Line 12, Shanghai Metro	notrack	2
+Line 6, Taipei Metro	notrack	2
+Line 13, Shanghai Metro	notrack	2
+Christchurch railway station, Dublin	notrack	2
+Creedmoor Branch	notrack	2
+Himi Line	notrack	1
+Jōhana Line	notrack	1
+Line 1, Guangzhou Metro	notrack	2
+Line 2, Guangzhou Metro	notrack	2
+Line 3, Guangzhou Metro	notrack	2
+Line 4, Guangzhou Metro	notrack	2
+Tunnel Railway	notrack	1
+Western railway elevated corridor	notrack	2
+Mt. Lebanon Tunnel	notrack	2
+Railway electrification in Iran	notrack	2
+Llobregat–Anoia Line	notrack	* 2 \n* 1
+Access to the Region's Core	notrack	2
+Line 16, Shanghai Metro	notrack	2
+Neu-Ulm–Kempten railway	notrack	1
+Line 5, Guangzhou Metro	notrack	2
+Pittsburgh & Steubenville Extension Railroad Tunnel	notrack	2
+Pittsburgh & Steubenville Extension Railroad Tunnel	notrack	1
+Linkou Line	notrack	1
+Karasuyama Line	notrack	1
+Line 1, Shenzhen Metro	notrack	2
+Line 1, Tianjin Metro	notrack	2
+S Line	notrack	1
+Garden City–Mitchel Field Secondary	notrack	2
+Sosa–Wonsi Line	notrack	2
+Evergreen Branch	notrack	2
+Gyeonggang Line	notrack	2
+Ui LRT	notrack	2
+U Line	notrack	2
+Line 9, Tianjin Metro	notrack	2
+Line 1, Nanjing Metro	notrack	2
+Meadowlands Rail Line	notrack	2
+Jinshan Railway	notrack	2
+Line 3, Tianjin Metro	notrack	2
+Line 2, Tianjin Metro	notrack	2
+Inchicore railway station	notrack	2
+Zhujiang New Town Automated People Mover System	notrack	2
+New Lower Inn Valley railway	notrack	2
+Koralm Tunnel	notrack	2
+Bebra–Fulda railway	notrack	2
+Line 2, Nanjing Metro	notrack	2
+Busan Metro Line 4	notrack	2
+Nuremberg–Würzburg railway	notrack	2
+Frankfurt–Hanau	notrack	2
+Frankfurt–Hanau	notrack	*mainline: \n*S-Bahn line:\n**Frankfurt-Schlachthof–Frankfurt Süd,\n**Frankfurt-Schlachthof–Offenbach Ost,\n**Mühlheim–Mühlheim-Dietesheim
+Line 1	notrack	2
+Düsseldorf–Elberfeld railway	notrack	2
+Düsseldorf–Elberfeld railway	notrack	Düsseldorf-Gerresheim–Düsseldorf
+Hildesheim loop	notrack	1
+Berlin–Lehrte railway	notrack	*1–3 \n*2, combined with HSL
+Berlin–Szczecin railway	notrack	* 2:(Nordbahnhof–Buch )\n*2: (Gesundbrunnen–Blankenburg)\n*2: (Berlin-Karow–Passow)\n*2: (Sz. Gumieńce-Szczecin Gł )
+Northbrae Tunnel	notrack	2
+Line 10, Nanjing Metro	notrack	2
+Leipzig Hbf–Leipzig-Connewitz railway	notrack	2
+İzmir–Eğirdir railway	notrack	2
+İzmir–Eğirdir railway	notrack	1
+Line 8, Guangzhou Metro	notrack	2
+Cape Flats Line	notrack	2
+Kronberg Railway	notrack	2
+Şirinyer Tunnel	notrack	2
+Ankara suburban	notrack	3
+Ankara suburban	notrack	4
+Ankara suburban	notrack	2
+Węgliniec–Roßlau railway	notrack	* 2: (Węgliniec–Bielawa Dolna)\n* 2: (Knappenrode–Roßlau  Aw junction)\n* 2: (Roßlau Ra–Roßlau )
+Munich–Garmisch-Partenkirchen railway	notrack	2
+Purple Line Extension	notrack	2
+Ludwigslust–Wismar railway	notrack	2
+Tobu Kumagaya Line	notrack	1
+Riesa–Chemnitz railway	notrack	2
+Incheon Airport Maglev	notrack	2
+Dortmund–Soest railway	notrack	2
+Chesham branch	notrack	1
+Ruhr Valley Railway	notrack	*2: Düsseldorf Hbf – Essen-Werden\n*2: Essen-Kupferdreh – Essen-Überruhr\n*2: Bochum-Dahlhausen – Hattingen\n*2: Wengern Ost – Hagen Hbf
+Suseo High Speed Railway	notrack	2
+Münster–Rheine railway	notrack	2
+Löbau–Zittau railway	notrack	2
+Line 3, Shenzhen Metro	notrack	2
+Line 2, Shenzhen Metro	notrack	2
+Lahn Valley Railway	notrack	*2: Koblenz–Niederlahnstein\n*2: Hohenrhein–Dausenau\n*2: Nassau –Wetzlar
+Koblenz–Trier railway	notrack	2
+Nahe Valley Railway	notrack	2
+Sutton Loop Line	notrack	2
+Sutton Loop Line	notrack	1
+Brownqueen Tunnel	notrack	2
+Line 1, Chengdu Metro	notrack	2
+Marseille–Ventimiglia railway	notrack	Double track
+Marseille–Ventimiglia railway	notrack	4
+Marseille–Ventimiglia railway	notrack	3
+Mid-Kent Line	notrack	2
+Exeter to Plymouth Line	notrack	2
+Reading to Taunton Line	notrack	2
+EBART	notrack	2
+Line 5, Shenzhen Metro	notrack	2
+Neudietendorf–Ritschenhausen railway	notrack	2
+Neudietendorf–Ritschenhausen railway	notrack	Gehlberg–Oberhof
+Plochingen–Tübingen railway	notrack	2
+Bruhrain Railway	notrack	2
+Bruchsal Rollenberg junction	notrack	2
+Amsterdam–Arnhem railway	notrack	4
+Amsterdam–Arnhem railway	notrack	Double track(  )
+Waiblingen–Schwäbisch Hall railway	notrack	2
+Borsdorf–Coswig railway	notrack	2
+Angermünde–Stralsund railway	notrack	2
+CSX Plymouth Subdivision	notrack	1
+Hanover–Altenbeken railway	notrack	2
+Eifel Railway	notrack	*2: Hürth-Kalscheuren – Kall\n*2: Nettersheim – Blankenheim \n*2: Schmidtheim – Lissendorf\n*2: Bewingen – Gerolstein\n*2: Birresborn – Densborn\n*2: Kordel – Trier
+Haydarpaşa suburban	notrack	2
+Line 7, Shenzhen Metro	notrack	2
+Line 6, Shenzhen Metro	notrack	2
+Cologne–Lindlar railway	notrack	2
+Johore Wooden Railway	notrack	1
+Muar State Railway	notrack	1
+Crystal Palace Line	notrack	1
+Howrah–Delhi main line	notrack	2
+Sahibganj Loop	notrack	1
+Howrah–Bardhaman main line	notrack	4
+Bardhaman–Asansol section	notrack	4
+Asansol–Gaya section	notrack	2
+Gaya–Mughalsarai section	notrack	2
+Barharwa–Azimganj–Katwa loop	notrack	1
+Thiruvananthapuram–Mangalore high-speed passenger corridor	notrack	2
+Ancona–Orte railway	notrack	2
+Ancona–Orte railway	notrack	otherwise 1
+Line 11, Shenzhen Metro	notrack	2
+Narayanganj–Bahadurabad Ghat line	notrack	2
+Tongi–Bhairab–Akhaura line	notrack	2
+Akhaura–Kulaura–Chhatak line	notrack	2
+Akhaura–Laksam–Chittagong line	notrack	2
+Wilhelmshaven–Oldenburg railway	notrack	2
+Coley Branch Line	notrack	1
+Line 1, Wuhan Metro	notrack	2
+Jasidih–Dumka–Rampurhat railway line	notrack	1
+Mittenwald Railway	notrack	1
+Sealdah–Ranaghat line	notrack	2
+Großenhain–Cottbus railway	notrack	2
+Line 1	notrack	2
+Guwahati–Lumding section	notrack	1
+Line 2, Wuhan Metro	notrack	2
+Line 1, Suzhou Rail Transit	notrack	2
+Madhupur Giridih Rail Line	notrack	1
+Colwall Tunnels	notrack	1
+Freiburg freight bypass railway	notrack	2
+Offenbach-Bieber–Dietzenbach railway	notrack	2
+Lumding Agartala Rail Line	notrack	1
+IRT New Lots Line	notrack	2
+IRT Eastern Parkway Line	notrack	4
+Line 2, Chengdu Metro	notrack	2
+Line 2, Suzhou Rail Transit	notrack	2
+Hagen–Dieringhausen railway	notrack	2
+Line 6, Kunming Rail Transit	notrack	2
+Astoria Riverfront Trolley	notrack	1
+Line 4, Wuhan Metro	notrack	2
+Mendrisio–Stabio railway	notrack	1
+Valmorea railway	notrack	1
+Luino–Oleggio railway	notrack	1
+Lavistown Loop Line	notrack	1
+Lhasa–Xigazê Railway	notrack	2
+Hall Farm Curve	notrack	2
+Line 2, Xi'an Metro	notrack	2
+Line 3, Dalian Metro	notrack	2
+Line 1, Shenyang Metro	notrack	2
+Line 2, Shenyang Metro	notrack	2
+Line 3, Changchun Rail Transit	notrack	2
+Line 4, Changchun Rail Transit	notrack	2
+Oxford and Rugby Railway	notrack	2
+Birmingham and Oxford Junction Railway	notrack	1
+Howrah–Allahabad–Mumbai line	notrack	2
+Howrah–Chennai main line	notrack	2
+Howrah–Nagpur–Mumbai line	notrack	2
+Line 1, Hangzhou Metro	notrack	2
+Trenton Cutoff	notrack	1
+Kharagpur–Puri line	notrack	2
+Brookville Tunnel	notrack	1
+Line 2, Hangzhou Metro	notrack	2
+Khurda Road–Visakhapatnam section	notrack	2
+Duvvada–Vijayawada section	notrack	2
+Vorarlberg Railway	notrack	*2: (Lindau–Lochau-Hörbranz)\n*2: (Bregenz–Bludenz)
+Metro Line	notrack	2
+Circular Line	notrack	2
+Vijayawada–Gudur section	notrack	2
+Rosenheim–Salzburg railway	notrack	Double track
+Rosenheim–Salzburg railway	notrack	3
+Munich–Mühldorf railway	notrack	2
+Manduadih-Madho Singh-Allahabad	notrack	1
+Isar Valley Railway	notrack	2
+Capital Line	notrack	2
+Nanjing–Gaochun Intercity Railway	notrack	2
+Nuremberg–Roth railway	notrack	*2: Nürnberg-Eibach –Nürnberg-Reichelsdorf \n*2: Schwabach-Limbach –Rednitzhembach \n*2:  Büchenbach –Roth
+Line 1, Ningbo Rail Transit	notrack	2
+Line 2, Ningbo Rail Transit	notrack	2
+Santiago Metro Line 4	notrack	2
+Santiago Metro Line 5	notrack	2
+Santiago Metro Line 4A	notrack	2
+Lumding–Dibrugarh section	notrack	1
+Santiago Metro Line 6	notrack	2
+Line 1, Kunming Rail Transit	notrack	2
+Ahr Valley Railway	notrack	2
+Aliağa branch	notrack	2
+Pagidipalli–Nallapadu section	notrack	1
+Guntur–Tenali section	notrack	1
+Nadikudi–Macherla branch line	notrack	1
+Gandhidham–Bhuj section	notrack	1
+Gandhidham–Kandla Port section	notrack	2
+Gandhidham–Samakhiali section	notrack	2
+Gandhidham–Palanpur section	notrack	1
+Samakhiali–Maliya Miyana section	notrack	1
+Viramgam–Maliya Miyana section	notrack	1
+Ahmedabad–Viramgam section	notrack	2
+Gandhidham–Ahmedabad main line	notrack	1
+Maliya Miyana–Wankaner section	notrack	1
+Rajkot–Wankaner section	notrack	1
+Viramgam–Surendra Nagar section	notrack	2
+Dharangadhra–Surendra Nagar section	notrack	1
+Wankaner–Surendra Nagar section	notrack	1
+Rajkot–Somnath line	notrack	1
+Viramgam–Okha line	notrack	1
+Jamnagar-Porbandar line	notrack	1
+Porbandar–Jetalsar section	notrack	1
+Surendranagar–Bhavnagar line	notrack	1
+Line 1, Xi'an Metro	notrack	2
+Cancello–Benevento railway	notrack	2
+Line 1, Harbin Metro	notrack	2
+S1	notrack	2
+Florence–Faenza railway	notrack	1
+S45	notrack	2
+Casarsa–Portogruaro railway	notrack	1
+Jabalpur–Bhusaval section	notrack	2
+Jakarta Kota–Manggarai railway	notrack	2
+S7	notrack	2
+S7	notrack	1
+Agra–Bhopal section	notrack	2
+Bhopal–Nagpur section	notrack	2
+Kazipet–Vijayawada section	notrack	2
+Tunnel Punta Olimpica	notrack	1
+Line 2, Dongguan Rail Transit	notrack	2
+Lanjigarh-Junagarh section	notrack	1
+Kothavalasa–Kirandul line	notrack	1
+Line 1, Zhengzhou Metro	notrack	2
+Daegu Metro Line 3	notrack	2
+Route 202 Line, Dalian Metro	notrack	2
+Varanasi–Rae Bareli–Lucknow line	notrack	1
+Lucknow–Moradabad line	notrack	2
+Line 8, Shenzhen Metro	notrack	2
+Line 3, Nanjing Metro	notrack	2
+Line 4, Nanjing Metro	notrack	2
+Cork Run Tunnel	notrack	1
+Cork Run Tunnel	notrack	2
+Osnabrück–Brackwede railway	notrack	2
+Ambala–Attari line	notrack	2
+Jalandhar–Jammu line	notrack	2
+Amritsar–Pathankot line	notrack	1
+Ludhiana–Fazilka line	notrack	1
+Chandigarh–Sahnewal line	notrack	1
+Ludhiana–Jakhal line	notrack	1
+Jalandhar–Firozpur line	notrack	1
+Hassan-Shravanabelagola section	notrack	1
+New Delhi–Chennai main line	notrack	2
+Narkhed–Amravati Railway	notrack	1
+Rewari–Rohtak line	notrack	1
+Mumbai–Chennai line	notrack	2
+Howrah–Gaya–Delhi line	notrack	2
+Gaya–Kiul line	notrack	1
+Asansol–Patna section	notrack	2
+Patna–Mughalsarai section	notrack	2
+Lehigh Line	notrack	1
+Line 1, Wuxi Metro	notrack	2
+Line 2, Wuxi Metro	notrack	2
+Line 3, Harbin Metro	notrack	2
+900	notrack	2
+Reading Line	notrack	1
+Naupada-Gunupur section	notrack	1
+Pinnaroo railway line, South Australia	notrack	1
+Loxton railway line	notrack	1
+Silchar–Sabroom section	notrack	1
+Rangia-Murkongselek section	notrack	1
+Maroggia Tunnel	notrack	2
+Lopper I Rail Tunnel	notrack	1
+Lopper II Rail Tunnel	notrack	1
+Monte Ceneri Rail Tunnel	notrack	1
+Weinberg Tunnel	notrack	2
+Hirschengraben Tunnel	notrack	2
+Kamikōchi Line	notrack	1
+Khurdha Bolangir Railway Line	notrack	1
+Krishna Canal–Guntur section	notrack	2
+Line 1, Dongguan Rail Transit	notrack	2
+Line 3, Dongguan Rail Transit	notrack	2
+Line 4, Dongguan Rail Transit	notrack	2
+Apeldoorn–Zwolle railway	notrack	1
+Cottbus–Guben railway	notrack	2
+Sichuan–Tibet Railway	notrack	2
+Gyeongui–Jungang Line	notrack	2
+Gyeongui–Jungang Line	notrack	4
+Samastipur–Muzaffarpur section	notrack	2
+Muzaffarpur–Hajipur section	notrack	1
+Barauni–Samastipur section	notrack	2
+Line 3, Ningbo Rail Transit	notrack	2
+Muzaffarpur–Sitamarhi section	notrack	1
+Chalisgaon - Dhule Railway Line	notrack	1
+Harvard Subdivision	notrack	1
+J&L Tunnel	notrack	1
+Muzaffarpur–Gorakhpur main line	notrack	1
+Ahmedabad–Mumbai Main Line	notrack	2
+Ahmedabad–Udaipur Line	notrack	1
+Tenali–Repalle branch line	notrack	1
+Duri–Tangerang railway	notrack	2
+Lumding-Badarpur section	notrack	1
+Zürichberg Tunnel	notrack	2
+Letten Tunnel	notrack	1
+Wipkingen Tunnel	notrack	2
+Käferberg Tunnel	notrack	2
+Line 4, Hangzhou Metro	notrack	2
+Line 3, Chengdu Metro	notrack	2
+Line 2, Dalian Metro	notrack	2
+Nanjing–Tianchang Intercity Railway	notrack	2
+Santhià–Biella railway	notrack	1
+Very Fast Train Joint Venture	notrack	2
+Fort Mason Tunnel	notrack	1
+Agnita railway line	notrack	1
+Vurpăr branch line	notrack	1
+Rangkasbitung-Labuan railway	notrack	1
+Patna-Sonepur-Hajipur Section	notrack	2
+Biella–Novara railway	notrack	1
+Bobingen–Landsberg am Lech railway	notrack	1
+Palakkad–Pollachi line	notrack	1
+Bözberg Rail Tunnel	notrack	2
+Line 1, Dalian Metro	notrack	2
+Taiwan Trunk Line	notrack	2
+Coastal Line	notrack	2
+Taiwan Trunk Line	notrack	2
+Saketi-Bayah railway	notrack	1
+Line 4, Ningbo Rail Transit	notrack	2
+Santhià–Arona railway	notrack	1
+Line 3, Wuhan Metro	notrack	2
+Line 3, Qingdao Metro	notrack	2
+Chivasso–Ivrea–Aosta railway	notrack	1
+Ayacucho Tram	notrack	2
+Ningbo–Fenghua Intercity Railway	notrack	2
+Line 4, Chengdu Metro	notrack	2
+Hajipur-Muzaffarpur-Samastipur-Barauni Section	notrack	1
+Freeport Subdivision	notrack	1
+Gudur–Renigunta section	notrack	2
+Chhota Udaipur - Dhar railway line	notrack	1
+Madrid Barajas Airport People Mover	notrack	2
+Gudur–Chennai section	notrack	2
+Katzenberg Tunnel	notrack	2
+Motamarri–Vishnupuram section	notrack	1
+Rastatt Tunnel	notrack	2
+Harnaut-Mokama section	notrack	1
+Line 3, Kunming Rail Transit	notrack	2
+Mysore–Chamarajanagar branch line	notrack	1
+Tickhole Tunnel	notrack	2
+Line 10, Shenzhen Metro	notrack	2
+Line 6, Fuzhou Metro	notrack	2
+Pune–Miraj–Londa line	notrack	2
+Line 5, Fuzhou Metro	notrack	2
+Lin'an Line, Hangzhou Metro	notrack	2
+Boßler Tunnel	notrack	2
+Line 4, Fuzhou Metro	notrack	2
+Line 5, Chengdu Metro	notrack	2
+Red Line	notrack	2
+Line 6, Chengdu Metro	notrack	2
+Line 7, Chengdu Metro	notrack	2
+Line 20, Shenzhen Metro	notrack	2
+Line 10, Chengdu Metro	notrack	2
+Line 18, Chengdu Metro	notrack	2
+Line 1, Changsha Metro	notrack	2
+Pudunagaram railway station	notrack	1
+Vadakannikaapuram railway station	notrack	1
+Muthalamada railway station	notrack	1
+S.G. Pudur railway station	notrack	1
+Green Mountain Line	notrack	2
+Line 1, Nanning Rail Transit	notrack	2
+Bow Curve	notrack	1
+Greenside Tunnel	notrack	2
+Mysore–Bangalore railway line	notrack	1
+New Delhi–Mumbai main line	notrack	2
+Line 5, Ningbo Rail Transit	notrack	2

@@ -1,0 +1,268 @@
+Dartmouth Dam	plantType	Francis-type
+Detroit Dam	plantType	Conventional
+Hume Dam	plantType	C
+Dinorwig Power Station	plantType	P
+Manapouri Power Station	plantType	C
+Warragamba Dam	plantType	C
+Edersee Dam	plantType	C
+Glenbawn Dam	plantType	C
+Keepit Dam	plantType	C
+Chief Joseph Dam	plantType	Yes
+John Day Dam	plantType	R
+Gottleuba Dam	plantType	C
+Wyangala Dam	plantType	C
+Mactaquac Dam	plantType	R
+Burrendong Dam	plantType	C
+Alqueva Dam	plantType	Conventional/Pumped-storage
+San Luis Dam	plantType	P
+Lower Granite Dam	plantType	R
+Copeton Dam	plantType	C
+Windamere Dam	plantType	C
+Conowingo Dam	plantType	C
+Wivenhoe Dam	plantType	Pumped-storage hydroelectricity
+Tinaroo Dam	plantType	C
+Stewart Mountain Dam	plantType	C
+Rance Tidal Power Station	plantType	T
+Greers Ferry Dam	plantType	C
+Tumut Hydroelectric Power Station	plantType	C
+Cochrane Dam	plantType	C
+Robert Moses Niagara Power Plant	plantType	C
+Robert Moses Niagara Power Plant	plantType	P
+Reece Power Station	plantType	C
+Coolidge Dam	plantType	C
+Latyan Dam	plantType	Conventional
+Ghazi-Barotha Hydropower Project	plantType	R
+Catagunya Power Station	plantType	R
+Meadowbank Power Station	plantType	R
+Cluny Power Station	plantType	C
+Repulse Power Station	plantType	C
+Poatina Power Station	plantType	C
+Trevallyn Power Station	plantType	R
+Gordon Power Station	plantType	C
+Hàm Thuận – Đa Mi hydroelectric power stations	plantType	C
+Sır Dam	plantType	Conventional
+Hungry Horse Dam	plantType	C
+Los Reyunos Dam	plantType	Pumped-storage
+Alta Hydroelectric Power Station	plantType	C
+Tokuyama Dam	plantType	C
+Rappbode Dam	plantType	C
+Vaigai Dam	plantType	Gravity dam
+Croton Dam	plantType	Run-of-the-river
+Pindari Dam	plantType	C
+Talbingo Dam	plantType	Pumped-storage hydroelectricity
+Chichester Dam	plantType	C
+Sayano–Shushenskaya Dam	plantType	C
+Tumut Pond Dam	plantType	C
+Koombooloomba Dam	plantType	C
+Splityard Creek Dam	plantType	Pumped-storage hydroelectricity
+El Cajón Dam	plantType	Conventional
+Gordon Dam	plantType	C
+Sorpe Dam	plantType	C
+Kouga Dam	plantType	Conventional
+Almendra Dam	plantType	Conventional, diversion
+Dniester Hydroelectric Station	plantType	C
+Kaligandaki A Hydroelectric Power Station	plantType	R
+Jean-Lesage generating station	plantType	R
+Aratiatia Power Station	plantType	R
+Shintoyone Dam	plantType	P
+Kilburn Dam	plantType	Pumped Storage
+Mingachevir Dam	plantType	Conventional
+Turkwel Hydroelectric Power Station	plantType	Conventional
+Kiambere Hydroelectric Power Station	plantType	C
+Gitaru Hydroelectric Power Station	plantType	R
+Hardy Dam	plantType	Conventional
+Karapiro Power Station	plantType	C
+Sihwa Lake Tidal Power Station	plantType	T
+Nyagak Hydroelectric Power Station	plantType	R
+Toonumbar Dam	plantType	C
+Sangtuda 1 Hydroelectric Power Plant	plantType	Run-of-river
+Gilgel Gibe I Dam	plantType	Conventional, diversion
+Sangtuda 2 Hydroelectric Power Plant	plantType	Run-of-river
+Kpong Dam	plantType	Run-of-the-river
+Samarra Barrage	plantType	Run-of-the-river
+Gilgel Gibe III Dam	plantType	Conventional
+Wippra Dam	plantType	C
+Ecker Dam	plantType	C
+Deriner Dam	plantType	Conventional
+Çınarcık Dam	plantType	Conventional, diversion
+Kürtün Dam	plantType	Conventional
+Torul Dam	plantType	Conventional, diversion
+Woodstock Dam	plantType	P
+Richard B. Russell Dam	plantType	P
+Oder Dam	plantType	P
+Kisiizi Hydroelectric Power Station	plantType	R
+Shuibuya Dam	plantType	Conventional
+Hòa Bình Dam	plantType	C
+Mpanga Hydroelectric Power Station	plantType	R
+Karuma Hydroelectric Power Station	plantType	R
+Marun Dam	plantType	Conventional
+Rangit Dam	plantType	R
+Ukai Dam	plantType	c
+Upper Kotmale Dam	plantType	R
+Outardes-3	plantType	R
+Outardes-4	plantType	C
+Ranganadi Dam	plantType	R
+Zangmu Dam	plantType	R
+Ilha Solteira Dam	plantType	C
+José Richa Hydroelectric Plant	plantType	C
+Ney Braga Hydroelectric Plant	plantType	C
+Salto Santiago Hydroelectric Power Plant	plantType	C
+Salto Osório Hydroelectric Power Plant	plantType	C
+Itá Hydroelectric Power Plant	plantType	C
+Machadinho Hydroelectric Power Plant	plantType	C
+Eng Sérgio Motta Dam	plantType	C
+Marimbondo Dam	plantType	C
+Água Vermelha Dam	plantType	C
+Engineer Souza Dias Dam	plantType	C
+Luiz Barreto Dam	plantType	C
+São Simão Dam	plantType	C
+Emborcação Dam	plantType	C
+Três Marias Dam	plantType	C
+Marmelos Zero Power Plant	plantType	C
+Pit 3 Dam	plantType	R
+Sơn La Dam	plantType	C
+Shuangjiangkou Dam	plantType	Conventional
+Liyuan Dam	plantType	Conventional
+Pengshui Dam	plantType	Conventional
+Silin Dam	plantType	Conventional
+Wujiangdu Dam	plantType	Conventional
+Shatuo Dam	plantType	Conventional
+Bugoye Hydroelectric Power Station	plantType	R
+Grand Ethiopian Renaissance Dam	plantType	Conventional
+Muzizi Hydroelectric Power Station	plantType	R
+Aguamilpa Dam	plantType	Conventional
+La Yesca Dam	plantType	Conventional
+Bratsberg Hydroelectric Power Station	plantType	C
+Dongjiang Dam	plantType	Conventional
+Dongfeng Dam	plantType	Conventional
+Suofengying Dam	plantType	Conventional
+Mubuku I Hydroelectric Power Station	plantType	R
+Mubuku III Hydroelectric Power Station	plantType	R
+Neelum–Jhelum Hydropower Plant	plantType	Conventional, diversion
+Nyagak III Hydroelectric Power Station	plantType	R
+Kremasta Dam	plantType	Conventional
+Boyabat Dam	plantType	Conventional
+Temperance Flat Dam	plantType	Conventional
+Rusumo Hydroelectric Power Station	plantType	R
+Roselend Dam	plantType	Conventional, diversion
+Nyabarongo Power Station	plantType	R
+Sogamoso Dam	plantType	Conventional
+Jounama Dam	plantType	Small hydro
+Dhauliganga Dam	plantType	P
+Hingol Dam	plantType	Central Core Zone
+Winder Dam	plantType	Earth Core Rockfill Dam
+Bara Dam	plantType	Earth Core Rockfill Dam
+Misicuni Dam	plantType	Conventional, diversion
+Nyagak II Hydroelectric Power Station	plantType	R
+Harsprånget hydroelectric power station	plantType	C
+La Jourdanie	plantType	Run-of-the-river
+Pinet	plantType	Run-of-the-river
+Le Truel	plantType	Run-of-the-river
+Kirazlık Dam	plantType	Run-of-the-river
+Alaköprü Dam	plantType	Conventional
+Dharoi dam	plantType	c
+Sykia Dam	plantType	Conventional
+Mesochora Dam	plantType	Conventional
+Kastraki Dam	plantType	Conventional
+Tumut Two Dam	plantType	C
+Güllübağ Dam	plantType	Conventional, diversion
+Geehi Dam	plantType	C
+Guthega Dam	plantType	C
+Brogo Dam	plantType	Small hydro
+Kavşak Bendi Dam	plantType	Conventional, diversion
+Volta Grande Dam	plantType	Conventional
+Saint Marys Falls Hydropower Plant	plantType	R
+Nshungyezi Hydroelectric Power Station	plantType	R
+Nyamwamba Hydroelectric Power Station	plantType	R
+Rwimi Hydroelectric Power Station	plantType	R
+Nengo Bridge Hydroelectric Power Station	plantType	R
+Mutwanga Hydroelectric Power Station	plantType	R
+Beaumont generating station	plantType	Francis
+Kukule Ganga Dam	plantType	R
+Rutshuru Hydroelectric Power Station	plantType	R
+Shweli I Dam	plantType	Conventional, diversion
+Ratle Hydroelectric Plant	plantType	4
+Gove Dam	plantType	Conventional
+Kishau Dam	plantType	Conventional
+Pakal Dul Dam	plantType	Conventional, diversion
+Grančarevo Dam	plantType	Conventional
+Chilime Hydropower Plant	plantType	Run-of-the-river
+Shitouhe Dam	plantType	Conventional
+Jinpen Dam	plantType	Conventional
+Zhexi Dam	plantType	Conventional
+Gudongkou Dam	plantType	Conventional
+Maerdang Dam	plantType	Conventional
+Yangqu Dam	plantType	Conventional
+Huangdeng Dam	plantType	Conventional
+Miaowei Dam	plantType	Conventional
+Kajiwa Dam	plantType	Conventional, diversion
+Quxue Dam	plantType	Conventional
+Lizhou Dam	plantType	Conventional, diversion
+Qiaoqi Dam	plantType	Conventional, diversion
+Dahuaqiao Dam	plantType	Conventional
+Gongguoqiao Dam	plantType	Conventional
+Wunonglong Dam	plantType	Conventional
+Kohala Hydropower Project	plantType	R
+Jiemian Dam	plantType	Conventional
+Yinpan Dam	plantType	Conventional
+Maoergai Dam	plantType	Conventional
+Pankou Dam	plantType	Conventional
+Yingzidu Dam	plantType	Conventional
+Sinanjiang Dam	plantType	Conventional, diversion
+Longjiang Dam	plantType	Conventional
+Madushan Dam	plantType	Conventional
+Tianhuaban Dam	plantType	Conventional, diversion
+Pharping Hydropower Station	plantType	Pumped-storage hydroelectricity
+Lianhua Dam	plantType	Conventional
+Meander Dam	plantType	C
+Upper Karnali Hydropower Project	plantType	R
+Mai Hydropower Station	plantType	R
+Três Irmãos Dam	plantType	Conventional
+Nova Avanhandava Dam	plantType	Conventional
+Eklutna Dam	plantType	Conventional, diversion
+Reventazón Dam	plantType	Conventional, diversion
+Colíder Dam	plantType	Run-of-the-river
+Rogers Dam	plantType	Run-of-the-river
+Kayrakkum Dam	plantType	Conventional
+Baipaza Dam	plantType	Conventional
+Rama Dam	plantType	Conventional, diversion
+Jablanica Dam	plantType	Conventional, diversion
+Zhikong Hydro Power Station	plantType	Conventional
+Aguieira Dam	plantType	Pumped-storage hydroelectricity
+Alto Lindoso Dam	plantType	Pumped-storage hydroelectricity
+Alto Rabagão Dam	plantType	Pumped-storage hydroelectricity
+El Salto Dam	plantType	R
+Seyrantepe Dam	plantType	Conventional
+Pepperell Hydro Power Plant	plantType	Dam
+Denawaka Ganga Mini Hydro Power Project	plantType	run of the river
+Koma Kulshan Project	plantType	R
+Upper Tamakoshi Hydroelectric Project	plantType	8520.0
+Ulu Jelai Power Station	plantType	Underground
+Nilambe Dam	plantType	C
+Pupu Hydro Power Scheme	plantType	R
+Mai Cascade Hydropower Plant	plantType	R
+Sunkoshi Small Hydropower Plant	plantType	R
+Adekokwok Hydroelectric Power Station	plantType	R
+Beyhan I Dam	plantType	Conventional
+Upper Kaleköy Dam	plantType	Conventional
+Bağıştaş 1 Dam	plantType	Conventional
+Bağıştaş 2 Dam	plantType	Run-of-the-river
+Yedisu Dam	plantType	Run-of-the-river
+Pembelik Dam	plantType	C
+Tatar Dam	plantType	C
+Burç Bendi Dam	plantType	R
+Suki Kinari Hydropower Project	plantType	R
+Sondu Miriu Hydroelectric Power Station	plantType	R
+Sang'oro Hydroelectric Power Station	plantType	R
+Tana Hydroelectric Power Station	plantType	R
+Wanjii Hydroelectric Power Station	plantType	Reservoir
+Ndula Hydroelectric Power Station	plantType	R
+Deralok Dam	plantType	R
+Bawanur Dam	plantType	R
+Bastora Dam	plantType	C
+Gran Olo hydroelectric power plant	plantType	Mini hydro
+Puketi hydroelectric power plant	plantType	Micro hydro
+Rukarara Hydroelectric Power Station	plantType	R
+Moore Dam	plantType	Conventional
+Beyhan II Dam	plantType	Conventional
+Lower Kaleköy Dam	plantType	Conventional

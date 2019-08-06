@@ -1,0 +1,268 @@
+Rover K-series engine	fuelsystem	Carburetor or Rover MEMS
+Ford Essex V4 engine	fuelsystem	Carburetor
+Ford Essex V4 engine	fuelsystem	Ford 1250 Single barrel Carburetor
+Ford Essex V4 engine	fuelsystem	Weber 32/36 DGAV Two barrel Carburetor
+Ford Boss 302 engine	fuelsystem	Naturally-aspirated engine
+Ford Windsor engine	fuelsystem	Carburetor
+Ford Windsor engine	fuelsystem	Fuel injection
+GM Ecotec engine	fuelsystem	Fuel injection
+GM Ecotec engine	fuelsystem	Gasoline direct injection
+Chrysler B engine	fuelsystem	Carburetor
+Chrysler B engine	fuelsystem	Fuel injection
+Chrysler 2.2 & 2.5 engine	fuelsystem	Carburetor
+Chrysler 2.2 & 2.5 engine	fuelsystem	Fuel injection
+Chrysler 1.8, 2.0 & 2.4 engine	fuelsystem	Fuel injection
+Chrysler A engine	fuelsystem	Carburetor
+Chrysler LA engine	fuelsystem	Carburetor
+Chrysler LA engine	fuelsystem	Fuel injection
+Chrysler Slant-6 engine	fuelsystem	Carburetor
+Chrysler flathead engine	fuelsystem	Carburetor
+Ford Taunus V4 engine	fuelsystem	Carburetor
+Austin 16	fuelsystem	single down-draught carburettor supplied by Autovac which draws from a reservoir beneath the driver's seat, ignition by magneto driven by chain placed behind the timing, dynamo driven by same chain
+Chrysler LH engine	fuelsystem	Fuel injection
+Chrysler PowerTech engine	fuelsystem	Fuel injection
+Chrysler 3.3 & 3.8 engine	fuelsystem	Fuel injection
+VR6 engine	fuelsystem	multipoint indirect injection/FSI commonrail direct injection
+LS based GM small-block engine	fuelsystem	Fuel injection
+LS based GM small-block engine	fuelsystem	Gasoline direct injection
+Chevrolet small-block engine	fuelsystem	Fuel injection
+General Motors 60° V6 engine	fuelsystem	Carburetor
+General Motors 60° V6 engine	fuelsystem	Fuel injection
+Jaguar AJ-V6 engine	fuelsystem	Sequential multi-port fuel injection
+GM High Feature engine	fuelsystem	Fuel injection
+GM High Feature engine	fuelsystem	Gasoline direct injection
+GM High Value engine	fuelsystem	Fuel injection
+Ford Vulcan engine	fuelsystem	Fuel injection
+Mazda Wankel engine	fuelsystem	Carbureted or fuel injected
+Ford Essex V6 engine	fuelsystem	2
+Ford Essex V6 engine	fuelsystem	Fuel injection
+Nissan KA engine	fuelsystem	Fuel injection
+Oldsmobile Diesel engine	fuelsystem	Indirect injection
+Quad 4 engine	fuelsystem	Fuel injection
+General Motors Atlas engine	fuelsystem	Fuel injection
+Ford Model T engine	fuelsystem	gravity feed, carburetted
+General Motors 54° V6 engine	fuelsystem	Fuel injection
+General Motors 122 engine	fuelsystem	Carburetor
+General Motors 122 engine	fuelsystem	Fuel injection
+Ford straight-six engine	fuelsystem	Naturally aspirated or turbocharged, carburated
+Ford straight-six engine	fuelsystem	Naturally aspirated engine
+Ford straight-six engine	fuelsystem	1
+Ferrari Colombo engine	fuelsystem	Carburettor
+Lamborghini V10	fuelsystem	5
+Lamborghini V10	fuelsystem	5.2
+Lamborghini V12	fuelsystem	3.5
+Lamborghini V12	fuelsystem	5.7
+BMW M21	fuelsystem	Indirect injection
+BMW M51	fuelsystem	Indirect injection
+BMW M57	fuelsystem	Common rail
+BMC A-Series engine	fuelsystem	Carburetor or Rover MEMS
+Ford Zeta engine	fuelsystem	Multi-port fuel injection
+Ford Sigma engine	fuelsystem	EFI
+Fully Integrated Robotised Engine	fuelsystem	Carburetor
+Fully Integrated Robotised Engine	fuelsystem	Fuel injection
+Lancia V4 engine	fuelsystem	Carburetor
+Cummins B Series engine	fuelsystem	Fuel injection
+Hyundai Theta engine	fuelsystem	Multi Point Injection
+Hyundai Theta engine	fuelsystem	Gasoline direct injection
+Alfa Romeo Boxer engine	fuelsystem	1
+Alfa Romeo Boxer engine	fuelsystem	Jetronic
+Mercedes-Benz OM617	fuelsystem	Indirect injection
+GM Family 1 engine	fuelsystem	Carburetor
+GM Family 1 engine	fuelsystem	Fuel injection
+GM Family 1 engine	fuelsystem	Multi-port fuel injection
+Mercedes-Benz M104 engine	fuelsystem	Bosch KE-Jetronic electronically controlled, mechanical fuel injection
+Willys Go Devil engine	fuelsystem	1
+Chrysler Hemi engine	fuelsystem	Carburetor
+Chrysler Hemi engine	fuelsystem	Fuel injection
+Honda K engine	fuelsystem	Fuel injection
+Honda K engine	fuelsystem	Gasoline direct injection
+JTD engine	fuelsystem	Common rail
+JTD engine	fuelsystem	Fuel injection
+JTD engine	fuelsystem	Common Rail
+Volvo SI6 engine	fuelsystem	Fuel injection
+Nissan J engine	fuelsystem	Carburetor
+Nissan MR engine	fuelsystem	Common rail
+Nissan MR engine	fuelsystem	Fuel injection
+CamPro engine	fuelsystem	Fuel Injection
+Nissan S20 engine	fuelsystem	Three Weber 40DCOE carbs
+Nissan S20 engine	fuelsystem	Lucas mechanical fuel injection
+Vauxhall Prince Henry	fuelsystem	ignition by high-tension magneto
+Vauxhall Prince Henry	fuelsystem	single Zenith carburettor
+List of VM Motori engines	fuelsystem	Fuel injection
+Rover T-Series engine	fuelsystem	Rover MEMS
+BMW S85	fuelsystem	Fuel injection
+Volkswagen G60 engine	fuelsystem	common rail electronic multi-point fuel injection
+Ford Duratec V6 engine	fuelsystem	Sequential multi-port fuel injection
+Armstrong Siddeley Sapphire	fuelsystem	SU carburetter
+Armstrong Siddeley Sapphire	fuelsystem	Single downdraught Stromberg carburetter
+Bentley 8 Litre	fuelsystem	Autovac
+Bentley 8 Litre	fuelsystem	Twin
+Bentley 8 Litre	fuelsystem	SU carburettor
+Bentley 8 Litre	fuelsystem	s
+Bentley 8 Litre	fuelsystem	Twin-spark
+Bentley 8 Litre	fuelsystem	Ignition magneto
+Bentley 8 Litre	fuelsystem	& coil
+Chrysler SOHC V6 engine	fuelsystem	Fuel injection
+Morris Cowley	fuelsystem	carburettor: Zenith gravity fed horizontal
+Morris Cowley	fuelsystem	magneto:\n* American Bosch type NU 4\n* Dixie type 40 A\n* Thomson-Bennett type AD4C
+Morris Cowley	fuelsystem	carburettor:\n* 1919-1921 Zenith\n* 1922 S.U.\n* 1923-1926 Smith \nexhaust: 3-port\n* 4-port from February 1922\nmagneto: helical bevel drive
+Morris Cowley	fuelsystem	* 1919 Thomson-Bennett G4*\n* 1920 B T-H\n* 1921-23 Lucas E4 \n* 1924-26 Lucas GA4
+Morris Cowley	fuelsystem	carburettor: Smith
+Morris Cowley	fuelsystem	exhaust: 4-port
+Morris Cowley	fuelsystem	magneto: helical bevel drive
+Morris Cowley	fuelsystem	* 1923 Lucas E4 \n* 1924-26 Lucas GA4
+Ford Barra engine	fuelsystem	MPFI
+Morris Minor	fuelsystem	SU carburettor
+Rover KV6 engine	fuelsystem	Simens EMS200
+Nissan MA engine	fuelsystem	Fuel injection
+Nissan MA engine	fuelsystem	Carburetor
+Volvo Modular engine	fuelsystem	Fuel injection
+Wasserboxer	fuelsystem	Carburettor
+Wasserboxer	fuelsystem	Electronic Fuel Injection
+GM Family II engine	fuelsystem	Fuel injection
+GM Family II engine	fuelsystem	Multi-port fuel injection
+Daimler V8 engines	fuelsystem	4
+Daimler V8 engines	fuelsystem	SU carburetter
+Daimler V8 engines	fuelsystem	HD8; fuel pump—SU electric
+Daimler V8 engines	fuelsystem	Aua 61
+Daimler V8 engines	fuelsystem	2
+Daimler V8 engines	fuelsystem	HD6
+Daimler Majestic Major	fuelsystem	twin SU semi-downdraught HD8 carburettors
+Alfa Romeo V6 engine	fuelsystem	6
+Renault K-Type engine	fuelsystem	Common rail
+Renault K-Type engine	fuelsystem	Fuel injection
+Renault R-Type engine	fuelsystem	Common rail
+Renault R-Type engine	fuelsystem	Fuel injection
+Renault G-Type engine	fuelsystem	Indirect injection
+Renault G-Type engine	fuelsystem	Common rail direct injection
+Chrysler Pentastar engine	fuelsystem	Fuel injection
+Volkswagen air-cooled engine	fuelsystem	Carburetor
+Autovia	fuelsystem	twin Zenith downdraught carburettors with a balance pipe and hot-spot fed from a 16 gallon tank at the back, ignition by magneto with automatic advance mounted vertically towards the rear of the V
+AMC straight-4 engine	fuelsystem	Carburetor
+AMC straight-4 engine	fuelsystem	Renix Throttle-body fuel injection
+AMC straight-4 engine	fuelsystem	Mopar Sequential multi-point fuel injection
+MG VA	fuelsystem	twin SU carburettors and automatic electric fuel pump
+Mustang	fuelsystem	carburetor,  in. Amal or 22 mm Dell'Orto
+Tatra 813	fuelsystem	Fuel injection
+Tatra 148	fuelsystem	Fuel injection
+Daimler DR450	fuelsystem	Carburettors—twin S.U. HD8; fuel pump—SU electric
+Daimler DR450	fuelsystem	Aua 61
+Wolseley Hornet six	fuelsystem	S.U. carburettor  fed by:\n* gravity from tank on dash\n* Autovac from tank at rear \n* electric pump from rear
+BMW S65	fuelsystem	Fuel injection
+Mazda FE-DOHC engine	fuelsystem	Fuel injection
+Suzuki M engine	fuelsystem	Naturally-aspirated engine
+Austin 10 hp	fuelsystem	Claudel carburettor
+Volkswagen D24TIC engine	fuelsystem	Bosch mechanical distributor injection pump, indirect fuel injection
+Volkswagen D24T engine	fuelsystem	Bosch mechanical distributor injection pump, indirect fuel injection
+Volkswagen D24 engine	fuelsystem	Bosch mechanical distributor injection pump, indirect fuel injection
+Mercedes-Benz OM601 engine	fuelsystem	Fuel injection
+Tatra 111	fuelsystem	Direct injection 2x inline injection pumps 6 elements each
+Tatra 138	fuelsystem	Fuel injection
+Singer Roadster	fuelsystem	downdraught S.U. carburettor, electric fuel pump on dashboard
+Volvo FE	fuelsystem	Common Rail Diesel
+Mercedes-Benz OM642	fuelsystem	Common rail injection
+Mitsubishi 4N1 engine	fuelsystem	common rail injection
+Chrysler A57 multibank	fuelsystem	Naturally aspirated , Carter TD-1 carburetors
+Ford GAA engine	fuelsystem	Naturally aspirated , Stromberg NA-Y5-G carburetors
+General Motors 90° V6 engine	fuelsystem	Gasoline direct injection
+Rover 12	fuelsystem	SU Carburettor
+Toyota AR engine	fuelsystem	Electronic fuel injection
+Mercedes-Benz OM611 engine	fuelsystem	Common rail direct injection
+Mercedes-Benz OM612 engine	fuelsystem	Common rail direct injection
+Vauxhall 30-98	fuelsystem	single Zenith carburettor, petrol feed by air pressure, later by Autovac, ignition by magneto
+Vauxhall 30-98	fuelsystem	three-branch inlet manifold,
+Vauxhall 30-98	fuelsystem	four-branch exhaust manifold
+Vauxhall 30-98	fuelsystem	OE — two-branch inlet manifold with water-jacket in centre
+Mercedes-Benz OM647 engine	fuelsystem	Common rail direct injection
+International Harvester IDI	fuelsystem	Indirect injection
+Daimler Consort	fuelsystem	Horizontal S.U. carburettor
+Daimler Consort	fuelsystem	AC mechanical fuel pump
+Daimler Consort	fuelsystem	dual carburettors on Special Sports
+Mazda L engine	fuelsystem	Sequential multi-port fuel injection
+Mazda L engine	fuelsystem	Gasoline direct injection
+BMW N57	fuelsystem	Common rail
+BMW N57	fuelsystem	Fuel injection
+Polyspheric	fuelsystem	Carburetor
+Vauxhall D-Type	fuelsystem	* not supplied\n* W & P\n* Zenith
+Austin Twenty	fuelsystem	dual carburettor, fed by gravity from vacuum tank on dash. manifold provides heating for the mixture Fuel feed by Autovac
+IKCO EF Engines	fuelsystem	Fuel injection
+IKCO EF Engines	fuelsystem	Diesel engine
+IKCO EF Engines	fuelsystem	CNG Direct Injection
+V9X engine	fuelsystem	Bosch common rail fuel injection
+Mercedes-Benz OM606 engine	fuelsystem	Indirect injection
+Mercedes-Benz OM605 engine	fuelsystem	Indirect injection
+Mercedes-Benz OM604 engine	fuelsystem	Indirect injection
+Hyundai Gamma engine	fuelsystem	GDI or MPI
+Hyundai Nu engine	fuelsystem	Multi Point Injection
+Hyundai Nu engine	fuelsystem	Gasoline direct injection
+SkyActiv	fuelsystem	Gasoline direct injection
+GM small gasoline engine	fuelsystem	Fuel injection
+GM small gasoline engine	fuelsystem	Gasoline direct injection
+GM Medium Gasoline Engine	fuelsystem	Gasoline direct injection
+Lanchester Ten	fuelsystem	S.U. carburettor
+BSA Ten	fuelsystem	Solex carburettor, mechanical pump from tank at rear
+Lanchester Light Six	fuelsystem	S.U. carburettor
+BSA Light Six	fuelsystem	S.U. carburettor
+BSA Scout	fuelsystem	Solex carburettor, mechanical pump from 10 gallon tank at rear
+BSA Scout	fuelsystem	Solex carburettor, , mechanical pump from 10 gallon tank at rear
+GM Family Z engine	fuelsystem	Fuel injection
+Rover 14	fuelsystem	Solex downdraught carburettor
+Mercedes-Benz OM668	fuelsystem	Common Rail
+Mercedes-Benz OM636	fuelsystem	Bosch fuel injection
+Mercedes-Benz OM629	fuelsystem	Common Rail
+Mercedes-Benz OM640	fuelsystem	Common Rail
+Mercedes-Benz OM660	fuelsystem	Common Rail
+Vauxhall 23-60	fuelsystem	Autovac, Triple diffuser Zenith carburettor, water-jacketted induction pipe
+Mercedes-Benz OM457 engine	fuelsystem	Unit injector
+Ducati Bipantah engine	fuelsystem	4
+World Gasoline Engine	fuelsystem	Fuel injection
+Cadillac High Technology engine	fuelsystem	Fuel injection
+GM Medium Diesel engine	fuelsystem	Common rail
+List of Volvo Trucks engines	fuelsystem	Distributor injection pump
+List of Volvo Trucks engines	fuelsystem	Electronic Diesel Control
+List of Volvo Trucks engines	fuelsystem	Common Rail
+Morris Twelve	fuelsystem	single SU carburettor with air cleaner and silencer and automatic electric fuel pump
+Morris Twelve	fuelsystem	single SU carburettor and automatic electric fuel pump
+Vauxhall 20-60	fuelsystem	Autovac, Triple diffuser Zenith carburettor, water-jacketted induction pipe
+Fiat TwinAir engine	fuelsystem	Fuel injection
+Isuzu V engine	fuelsystem	Multi-port fuel injection
+Isuzu V engine	fuelsystem	Gasoline direct injection
+Viper engine	fuelsystem	Multi-port fuel injection
+Daimler DE	fuelsystem	Armoured car: Two  Solex non-spillable carburettors
+Daimler DE	fuelsystem	DE 27: Two
+Daimler DE	fuelsystem	SU carburettor
+Daimler DE	fuelsystem	s
+Daimler DE	fuelsystem	DC 27: One  Solex carburettor
+Daimler DE	fuelsystem	DH 27:
+Ferrari F154 engine	fuelsystem	Gasoline direct injection
+Model N Engine	fuelsystem	Carburetor
+Morris Oxford Empire models	fuelsystem	Smith carburettor, scuttle tank filled from rear by Autovac
+Morris Oxford bullnose	fuelsystem	carburettor W&P No. 25
+Morris Oxford bullnose	fuelsystem	magneto: Bosch type ZF4
+Morris Oxford bullnose	fuelsystem	later cars Mea
+Morris Oxford bullnose	fuelsystem	plugs: Bosch
+Morris Oxford bullnose	fuelsystem	carburettor
+Morris Oxford bullnose	fuelsystem	1919
+Morris Oxford bullnose	fuelsystem	1922
+Morris Oxford bullnose	fuelsystem	Skinners Union
+Morris Oxford bullnose	fuelsystem	1923
+Morris Oxford bullnose	fuelsystem	exhaust
+Morris Oxford bullnose	fuelsystem	3
+Morris Oxford bullnose	fuelsystem	4
+Morris Oxford bullnose	fuelsystem	magneto: helical bevel drive
+Morris Oxford bullnose	fuelsystem	1920
+Morris Oxford bullnose	fuelsystem	British Thomson-Houston
+Morris Oxford bullnose	fuelsystem	1921
+Morris Oxford bullnose	fuelsystem	Lucas Industries
+Morris Oxford bullnose	fuelsystem	E4
+Morris Oxford bullnose	fuelsystem	1924
+F133 engine	fuelsystem	Fuel injection
+Mercedes-Benz M136 engine	fuelsystem	Solex carburetor
+Austin 30 hp	fuelsystem	Claudel carburettor
+Austin 20 hp	fuelsystem	* carburettor not reported\n* Claudel carburettor
+Rover 20	fuelsystem	Rover  carburettor gravity fed from fuel tank in scuttle
+FCA F160 engine	fuelsystem	Gasoline direct injection
+Volvo Engine Architecture	fuelsystem	Sequential direct fuel injection
+MWM AKD 112 Z	fuelsystem	Fuel injection
+12-1 SRW	fuelsystem	Gasoline direct injection
+Alvis Silver Crest	fuelsystem	triple S.U. carburettors air cleaners and silencers, synchronised,  twin electric petrol pumps from tank at rear. Single pump on smaller engine
