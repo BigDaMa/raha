@@ -196,8 +196,8 @@ class Raha:
     The main class.
     """
 
-    def __init__(self, dataset_dictionary):
-        self.RESULTS_FOLDER = os.path.join(os.path.dirname(dataset_dictionary["path"]), "results")
+    def __init__(self):
+
         self.DATASETS_FOLDER = "datasets"
         self.DATASETS = {
             # "hospital": {
@@ -273,9 +273,7 @@ class Raha:
         self.features = []
         self.writeStrategies = True  # Change this to not write strategy profiles to disk
 
-        rahaGlobals.d = dataset.Dataset(dataset_dictionary)
 
-        rahaGlobals.katara_data = rahaGlobals.d.dataframe.to_numpy().tolist()
 
 
     def strategy_profiler(self):
@@ -1090,7 +1088,10 @@ class Raha:
             results_string += "}; \\addlegendentry{ActiveClean}"
             print(results_string)
 
-    def run(self):
+    def run(self, dataset_dictionary):
+        rahaGlobals.d = dataset.Dataset(dataset_dictionary)
+        rahaGlobals.katara_data = rahaGlobals.d.dataframe.to_numpy().tolist()
+        self.RESULTS_FOLDER = os.path.join(os.path.dirname(dataset_dictionary["path"]), "results")
         self.strategy_profiler()
         self.feature_generator()
         self.error_detector()
@@ -1107,7 +1108,7 @@ if __name__ == "__main__":
         "clean_path": os.path.join("datasets", DATASET_NAME, "clean.csv")
     }
 
-    application = Raha(dataset_dictionary)
+    application = Raha()
     # --------------------
     print("===================== Dataset: {} =====================".format(rahaGlobals.d.name))
     # --------------------
