@@ -49,6 +49,10 @@ except:
 
 
 ########################################
+########################################
+
+
+########################################
 def write_strategies(args):
     queue = args[0]
     sp_folder_path = args[1]
@@ -1088,10 +1092,13 @@ class Raha:
             results_string += "}; \\addlegendentry{ActiveClean}"
             print(results_string)
 
-    def run(self, dataset_dictionary):
-        rahaGlobals.d = dataset.Dataset(dataset_dictionary)
+    def run(self, dd):
+        """
+        This method runs Raha on an input dataset.
+        """
+        rahaGlobals.d = dataset.Dataset(dd)
         rahaGlobals.katara_data = rahaGlobals.d.dataframe.to_numpy().tolist()
-        self.RESULTS_FOLDER = os.path.join(os.path.dirname(dataset_dictionary["path"]), "results")
+        self.RESULTS_FOLDER = os.path.join(os.path.dirname(dd["path"]), "results")
         self.strategy_profiler()
         self.feature_generator()
         self.error_detector()
@@ -1100,25 +1107,11 @@ class Raha:
 
 ########################################
 if __name__ == "__main__":
-    # --------------------
-    DATASET_NAME = "flights"
     dataset_dictionary = {
-        "name": DATASET_NAME,
-        "path": os.path.join("datasets", DATASET_NAME, "dirty.csv"),
-        "clean_path": os.path.join("datasets", DATASET_NAME, "clean.csv")
+        "name": "flights",
+        "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", "flights", "dirty.csv")),
+        "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", "flights", "clean.csv"))
     }
-
-    application = Raha()
-    # --------------------
-    print("===================== Dataset: {} =====================".format(rahaGlobals.d.name))
-    # --------------------
-    application.strategy_profiler()
-    # application.dataset_profiler()
-    # application.evaluation_profiler()
-    # --------------------
-    application.feature_generator()
-    application.error_detector()
-    # --------------------
-    # application.baselines()
-    # --------------------
+    app = Raha()
+    app.run(dataset_dictionary)
 ########################################
