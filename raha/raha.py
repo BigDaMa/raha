@@ -83,10 +83,16 @@ def run_strategy(args):
     queue = args[2]
     start_time = time.time()
     strategy_name = json.dumps([tool_name, configuration])
+
+
+
+
+
+
     td = {"name": tool_name, "configuration": configuration}
     t = data_cleaning_tool.DataCleaningTool(td)
     try:
-        detected_cells_list = t.run(d).keys()
+        detected_cells_list = list(t.run(d).keys())
     except:
         sys.stderr.write("I cannot run the error detection tool!\n")
         detected_cells_list = []
@@ -148,14 +154,10 @@ def build_cluster(args):
     o_fv, p_fv, r_fv, k_fv = args[1]
     print("Building clustering model for column {}...".format(j))
     for i in range(d.dataframe.shape[0]):
-        if "dboost" in d.error_detection_tools:
-            d.fv[j][(i, j)] += o_fv[(i, j)]
-        if "regex" in d.error_detection_tools:
-            d.fv[j][(i, j)] += p_fv[(i, j)]
-        if "fd_checker" in d.error_detection_tools:
-            d.fv[j][(i, j)] += r_fv[(i, j)]
-        if "katara" in d.error_detection_tools:
-            d.fv[j][(i, j)] += k_fv[(i, j)]
+        d.fv[j][(i, j)] += o_fv[(i, j)]
+        d.fv[j][(i, j)] += p_fv[(i, j)]
+        d.fv[j][(i, j)] += r_fv[(i, j)]
+        d.fv[j][(i, j)] += k_fv[(i, j)]
     try:
         clustering_model = scipy.cluster.hierarchy.linkage(numpy.array(d.fv[j].values()), method="average", metric="cosine")
     except:
@@ -166,7 +168,7 @@ def build_cluster(args):
             if c not in d.clusters_j_k_c_ce[j][k]:
                 d.clusters_j_k_c_ce[j][k][c] = {}
             cell = d.fv[j].keys()[index]
-            d.clusters_j_k_c_ce[j][k][c][cell] = list(d.fv[j][cell])
+            d.clusters_j_k_c_ce[j][k][c][cell] = d.fv[j][cell]
             d.cells_clusters_j_k_ce[j][k][cell] = c
     return [d.fv[j], d.clusters_j_k_c_ce[j], d.cells_clusters_j_k_ce[j]]
 ########################################
@@ -187,8 +189,6 @@ class Raha:
         self.ERROR_DETECTION_TOOLS = ["dboost", "regex", "fd_checker", "katara"]
         self.CLASSIFICATION_MODEL = "GBC"  # ["ABC", "DTC", "GBC", "GNB", "SGDC", "SVC"]
         self.SAVE_STRATEGY_OUTPUT = True
-        self.STRATEGY_FILTERING = False   # Deprecated. Keep it false.
-        self.BASELINES = []   # Deprecated. Keep it empty.
 
     def strategy_profiler(self):
         """
@@ -204,14 +204,14 @@ class Raha:
             if len(os.listdir(sp_folder_path)) == 0:
                 os.rmdir(sp_folder_path)
             else:
-                sys.stderr.write("The error detection strategies have already run on this dataset!\n")
+                sys.stderr.write("The error detection strategies have already been run on this dataset!\n")
                 d.strategy_profiles = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
                                        for strategy_file in os.listdir(sp_folder_path)]
                 return
         else:
+            os.mkdir(sp_folder_path)
             manager = mp.Manager()
             queue = manager.Queue()
-            os.mkdir(sp_folder_path)
             tool_and_configurations = []
             for tool_name in self.ERROR_DETECTION_TOOLS:
                 configuration_list = []
@@ -281,7 +281,7 @@ class Raha:
         d.fv = {j: {(i, j): [] for i in range(d.dataframe.shape[0])} for j in range(d.dataframe.shape[1])}
         d.clusters_j_k_c_ce = {j: {k: {} for k in clustering_range} for j in range(d.dataframe.shape[1])}
         d.cells_clusters_j_k_ce = {j: {k: {} for k in clustering_range} for j in range(d.dataframe.shape[1])}
-        process_args = [[j, feature]for j, feature in enumerate(d.features)]
+        process_args = [[j, feature] for j, feature in enumerate(d.features)]
         del d.features
         gc.collect()
         pool = mp.Pool()
@@ -311,9 +311,7 @@ class Raha:
                             continue
                         cell = (i, j)
                         c = cells_clusters_k_j_ce[k][j][cell]
-                        cell_score = 1.0
-                        cell_score *= math.exp(-len(labels_per_cluster[(j, c)]))
-                        score += cell_score
+                        score += math.exp(-len(labels_per_cluster[(j, c)]))
                     tuple_score[i] = math.exp(score)
                 sum_tuple_score = sum(tuple_score.values())
                 p_tuple_score = [float(v) / sum_tuple_score for v in tuple_score.values()]
@@ -381,8 +379,7 @@ class Raha:
                     s = len(labeled_tuples)
                     er = d.evaluate_data_cleaning(correction_dictionary)[:3]
                     aggregate_results[s].append(er)
-                else:
-                    pickle.dump(correction_dictionary, open(os.path.join(ed_folder_path, "results.dictionary"), "wb"))
+                pickle.dump(correction_dictionary, open(os.path.join(ed_folder_path, "results.dictionary"), "wb"))
                 # IPython.display.display(d.dataframe.style.apply(
                 #    lambda x: ["background-color: red" if (i, d.dataframe.columns.get_loc(x.name)) in correction_dictionary else ""
                 #              for i, cv in enumerate(x)]))
@@ -402,12 +399,13 @@ class Raha:
                 print("F1 = {:.2f} +- {:.2f}".format(mean[2], std[2]))
                 print("--------------------")
                 results_string += "({},{:.2f})+-(0,{:.2f})".format(s, mean[2], std[2])
-            results_string += "}; \\addlegendentry{Ours}"
+            results_string += "}; \\addlegendentry{Raha}"
             print(results_string)
 
     @staticmethod
     def dataset_profiler():
         """
+        Deprecated!
         This method profiles the columns of dataset.
         """
         global d
@@ -438,6 +436,7 @@ class Raha:
     @staticmethod
     def evaluation_profiler():
         """
+        Deprecated!
         This method computes the performance of the error detection strategies on historical data.
         """
         global d
@@ -473,6 +472,7 @@ class Raha:
 
     def strategy_filterer(self):
         """
+        Deprecated!
         This method uses historical data to rank error detection strategies for the dataset and select the top-ranked.
         """
         global d
@@ -596,6 +596,7 @@ class Raha:
 
     def baselines(self):
         """
+        Deprecated!
         This methods implements the baselines.
         """
         global d
@@ -937,7 +938,6 @@ class Raha:
         global d
         d = dataset.Dataset(dd)
         d.results_folder = os.path.join(os.path.dirname(dd["path"]), "results")
-        d.error_detection_tools = self.ERROR_DETECTION_TOOLS
         d.all_strategies = {}
         d.cells_strategies = {}
         d.fv = {}
