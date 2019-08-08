@@ -74,6 +74,7 @@ def domain_spec_colpair(data, i, j, rel2sub2obj, col_2_errors_repair, pair_cover
 
 
 def run_katara(data, domin_specific_file_path, type_coverage=0.2, pair_coverage=0.15, ignore_null=True):
+    data = data.dataframe.to_numpy().tolist()
     domain_specific_types = set()
     rel2sub2obj = {}
     col_2_errors_repair = {}
