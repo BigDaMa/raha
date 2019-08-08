@@ -43,13 +43,13 @@ import sklearn.feature_extraction
 import multiprocessing as mp
 import gc
 try:
-    from .raha_required import dataset
-    from .raha_required.tools.katara import katara
-    from .raha_required.tools.dBoost.dboost import imported_dboost
+    from . import dataset
+    from .tools.katara import katara
+    from .tools.dBoost.dboost import imported_dboost
 except:
-    from raha_required import dataset
-    from raha_required.tools.katara import katara
-    from raha_required.tools.dBoost.dboost import imported_dboost
+    import dataset
+    from tools.katara import katara
+    from tools.dBoost.dboost import imported_dboost
 ########################################
 
 
@@ -114,8 +114,8 @@ def run_strategy(args):
                 outputted_cells[(i, j)] = ""
     elif tool_name == "fd_checker":
         l_attribute = configuration[0]
-        r_attribute = configuration[1]
         jl = d.dataframe.columns.get_loc(l_attribute)
+        r_attribute = configuration[1]
         jr = d.dataframe.columns.get_loc(r_attribute)
         value_dictionary = {}
         for i, row in d.dataframe.iterrows():
@@ -135,7 +135,7 @@ def run_strategy(args):
         "output": detected_cells_list,
         "runtime": time.time() - start_time
     }
-    print("Running {} is done. Output size = {}".format(strategy_name, len(detected_cells_list)))
+    print("Running {} is done. Output size = {}.".format(strategy_name, len(detected_cells_list)))
     queue.put([tool_name, strategy_profile])
     return strategy_profile
 
@@ -267,8 +267,8 @@ class Raha:
                     configuration_list = [[a, b] for (a, b) in itertools.product(al, al) if a != b]
                 elif tool_name == "katara":
                     configuration_list = [
-                        os.path.join(os.path.dirname(__file__), "raha_required", "tools", "katara", "dominSpecific", p)
-                        for p in os.listdir(os.path.join(os.path.dirname(__file__), "raha_required", "tools", "katara", "dominSpecific"))]
+                        os.path.join(os.path.dirname(__file__), "tools", "katara", "knowledge-base", p)
+                        for p in os.listdir(os.path.join(os.path.dirname(__file__), "tools", "katara", "knowledge-base"))]
                 tool_and_configurations.extend([[tool_name, i, queue] for i in configuration_list])
             temp_list = [[] for _ in range(mp.cpu_count() * 4)]
             for index, tool_and_config in enumerate(tool_and_configurations):
