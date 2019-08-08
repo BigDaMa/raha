@@ -34,5 +34,5 @@ def run_dboost(params):
                 debug("   All clean!")
             else:
                 print_rows(outlier_cells, model, analyzer.hints,
-                           features.descriptions(rules), args.verbosity,dataset_name=args.input.name)
+                           features.descriptions(rules), args.verbosity, dataset_name=args.input.name)
                 debug("   {} outliers found".format(len(outlier_cells)))

@@ -1,5 +1,0 @@
-FN varchar(255),LN varchar(255), St varchar(255), city varchar(255), CC varchar(255), country varchar(255), tel varchar(255), gd varchar(255)
-Koen,Voorman,Konningen Straat,Amsterdam,31,NL,66700543,Male
-Paul,Aman,15 Ratcliffe Terrace,London,44,UK,44944631,Female
-Ciman,Wang,Zuid WTC,Amsterdam,31,NL,66700543,Female
-Ashaf,Mohammad,15 Wonderful land,Lisben,45,BE,44944631,Man

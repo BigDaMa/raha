@@ -10,6 +10,7 @@
 
 
 ########################################
+import os
 import sys
 import itertools
 import pandas
@@ -27,6 +28,7 @@ class Dataset:
         The constructor creates a dataset.
         """
         self.name = dataset_dictionary["name"]
+        self.path = os.path.abspath(dataset_dictionary["path"])
         self.dataframe = self.read_csv_dataset(dataset_dictionary["path"])
         if "clean_path" in dataset_dictionary:
             self.clean_dataframe = self.read_csv_dataset(dataset_dictionary["clean_path"])

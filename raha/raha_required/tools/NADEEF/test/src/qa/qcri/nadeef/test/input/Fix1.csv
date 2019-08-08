@@ -1,7 +1,0 @@
-tid;column;value;tid;column;value
-1;t.a;a1;2;t.a;a2;
-2;t.a;a2;3;t.a;a3;
-4;t.a;a3;1;t.a;a1;
-5;t.a;a1;2;t.a;a2;
-5;t.b;b1;6;t.b;b2;
-6;t.b;b2;2;t.b;b1;

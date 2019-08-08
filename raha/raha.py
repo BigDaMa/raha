@@ -22,6 +22,7 @@ import operator
 import gzip
 import pickle
 import shutil
+import tempfile
 import itertools
 import numpy
 import pandas
@@ -42,9 +43,13 @@ import sklearn.feature_extraction
 import multiprocessing as mp
 import gc
 try:
-    from .raha_required import dataset, data_cleaning_tool
+    from .raha_required import dataset
+    from .raha_required.tools.katara import katara
+    from .raha_required.tools.dBoost.dboost import imported_dboost
 except:
-    from raha_required import dataset, data_cleaning_tool
+    from raha_required import dataset
+    from raha_required.tools.katara import katara
+    from raha_required.tools.dBoost.dboost import imported_dboost
 ########################################
 
 
@@ -83,19 +88,48 @@ def run_strategy(args):
     queue = args[2]
     start_time = time.time()
     strategy_name = json.dumps([tool_name, configuration])
-
-
-
-
-
-
-    td = {"name": tool_name, "configuration": configuration}
-    t = data_cleaning_tool.DataCleaningTool(td)
-    try:
-        detected_cells_list = list(t.run(d).keys())
-    except:
-        sys.stderr.write("I cannot run the error detection tool!\n")
-        detected_cells_list = []
+    outputted_cells = {}
+    if tool_name == "dboost":
+        random_string = "".join(random.choice(string.ascii_lowercase + string.digits) for _ in range(10))
+        dataset_path = os.path.join(tempfile.gettempdir(), d.name + "-" + random_string + ".csv")
+        d.write_csv_dataset(dataset_path, d.dataframe)
+        configuration[0] = "--" + configuration[0]
+        params = ["-F", ",", "--statistical", "0.5"] + configuration + [dataset_path]
+        imported_dboost.run_dboost(params)
+        tool_results_path = dataset_path + "-dboost_output.csv"
+        if os.path.exists(tool_results_path):
+            ocdf = pandas.read_csv(tool_results_path, sep=",", header=None, encoding="utf-8", dtype=str,
+                                   keep_default_na=False, low_memory=False).apply(lambda x: x.str.strip())
+            for i, j in ocdf.values.tolist():
+                if int(i) > 0:
+                    outputted_cells[(int(i) - 1, int(j))] = ""
+            os.remove(tool_results_path)
+        os.remove(dataset_path)
+    elif tool_name == "regex":
+        attribute = configuration[0]
+        ch = configuration[1]
+        j = d.dataframe.columns.get_loc(attribute)
+        for i, value in d.dataframe[attribute].iteritems():
+            if len(re.findall("[" + ch + "]", value, re.UNICODE)) > 0:
+                outputted_cells[(i, j)] = ""
+    elif tool_name == "fd_checker":
+        l_attribute = configuration[0]
+        r_attribute = configuration[1]
+        jl = d.dataframe.columns.get_loc(l_attribute)
+        jr = d.dataframe.columns.get_loc(r_attribute)
+        value_dictionary = {}
+        for i, row in d.dataframe.iterrows():
+            if row[l_attribute] and row[l_attribute] not in value_dictionary:
+                value_dictionary[row[l_attribute]] = {}
+            if row[l_attribute] and row[r_attribute]:
+                value_dictionary[row[l_attribute]][row[r_attribute]] = 1
+        for i, row in d.dataframe.iterrows():
+            if row[l_attribute] in value_dictionary and len(value_dictionary[row[l_attribute]]) > 1:
+                outputted_cells[(i, jl)] = ""
+                outputted_cells[(i, jr)] = ""
+    elif tool_name == "katara":
+        outputted_cells = katara.run_katara(d, configuration)
+    detected_cells_list = list(outputted_cells.keys())
     strategy_profile = {
         "name": strategy_name,
         "output": detected_cells_list,
@@ -220,23 +254,23 @@ class Raha:
                         list(a) for a in
                         list(itertools.product(["histogram"], ["0.7", "0.8", "0.9"], ["0.1", "0.2", "0.3"])) +
                         list(itertools.product(["gaussian"], ["1.0", "1.3", "1.5", "1.7", "2.0", "2.3", "2.5", "2.7", "3.0"])) +
-                        list(itertools.product(["mixture"], ["3", "5", "8"], ["0.01", "0.10", "0.20", "0.30"])) +
+                        # list(itertools.product(["mixture"], ["3", "5", "8"], ["0.01", "0.10", "0.20", "0.30"])) +
                         list(itertools.product(["partitionedhistogram"], ["3", "5", "8"], ["0.7", "0.8", "0.9"], ["0.1", "0.2", "0.3"]))]
                 elif tool_name == "regex":
                     for attribute in d.dataframe.columns:
                         column_data = "".join(d.dataframe[attribute].tolist())
                         characters_dictionary = {ch: 1 for ch in column_data}
                         for ch in characters_dictionary:
-                            configuration_list.append([[attribute, "[" + ch + "]", "OM"]])
+                            configuration_list.append([attribute, ch])
                 elif tool_name == "fd_checker":
                     al = d.dataframe.columns.tolist()
-                    configuration_list = [[[a, b]] for (a, b) in itertools.product(al, al) if a != b]
+                    configuration_list = [[a, b] for (a, b) in itertools.product(al, al) if a != b]
                 elif tool_name == "katara":
                     configuration_list = [
-                        [os.path.join(os.path.dirname(__file__), "raha_required", "tools", "katara", "dominSpecific", p)]
+                        os.path.join(os.path.dirname(__file__), "raha_required", "tools", "katara", "dominSpecific", p)
                         for p in os.listdir(os.path.join(os.path.dirname(__file__), "raha_required", "tools", "katara", "dominSpecific"))]
                 tool_and_configurations.extend([[tool_name, i, queue] for i in configuration_list])
-            temp_list = [[] for _ in range(mp.cpu_count()*4)]
+            temp_list = [[] for _ in range(mp.cpu_count() * 4)]
             for index, tool_and_config in enumerate(tool_and_configurations):
                 temp_list[index % len(temp_list)].append(tool_and_config)
             tool_and_configurations = []
