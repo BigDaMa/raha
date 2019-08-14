@@ -46,10 +46,12 @@ try:
     from . import dataset
     from .tools.katara import katara
     from .tools.dBoost.dboost import imported_dboost
+    from .tools import errordetector
 except:
     import dataset
     from tools.katara import katara
     from tools.dBoost.dboost import imported_dboost
+    from tools import errordetector
 ########################################
 
 
@@ -325,116 +327,13 @@ class Raha:
             if len(result) == 3:
                 d.clusters_j_k_c_ce[j] = result[1]
                 d.cells_clusters_j_k_ce[j] = result[2]
-        clusters_k_j_c_ce = {k: {j: d.clusters_j_k_c_ce[j][k] for j in range(d.dataframe.shape[1])} for k in clustering_range}
-        cells_clusters_k_j_ce = {k: {j: d.cells_clusters_j_k_ce[j][k] for j in range(d.dataframe.shape[1])} for k in clustering_range}
-        aggregate_results = {s: [] for s in sampling_range}
-        for r in range(self.RUN_COUNT):
-            print("Run {}...".format(r))
-            labeled_tuples = {}
-            labeled_cells = {}
-            for k in clusters_k_j_c_ce:
-                labels_per_cluster = {}
-                for j in range(d.dataframe.shape[1]):
-                    for c in clusters_k_j_c_ce[k][j]:
-                        labels_per_cluster[(j, c)] = {cell: labeled_cells[cell] for cell in clusters_k_j_c_ce[k][j][c] if cell[0] in labeled_tuples}
-                tuple_score = {i: 0.0 for i in range(d.dataframe.shape[0]) if i not in labeled_tuples}
-                for i in tuple_score:
-                    score = 0.0
-                    for j in range(d.dataframe.shape[1]):
-                        if not clusters_k_j_c_ce[k][j]:
-                            continue
-                        cell = (i, j)
-                        c = cells_clusters_k_j_ce[k][j][cell]
-                        score += math.exp(-len(labels_per_cluster[(j, c)]))
-                    tuple_score[i] = math.exp(score)
-                sum_tuple_score = sum(tuple_score.values())
-                p_tuple_score = [float(v) / sum_tuple_score for v in tuple_score.values()]
-                si = numpy.random.choice(list(tuple_score.keys()), 1, p=p_tuple_score)[0]
-                # si, score = max(tuple_score.iteritems(), key=operator.itemgetter(1))
-                labeled_tuples[si] = tuple_score[si]
-                if hasattr(d, "actual_errors_dictionary"):
-                    for j in range(d.dataframe.shape[1]):
-                        cell = (si, j)
-                        labeled_cells[cell] = int(cell in d.actual_errors_dictionary)
-                        if cell in cells_clusters_k_j_ce[k][j]:
-                            c = cells_clusters_k_j_ce[k][j][cell]
-                            labels_per_cluster[(j, c)][cell] = labeled_cells[cell]
-                else:
-                    print("Label the dirty cells in the following sampled tuple.")
-                    sampled_tuple = pandas.DataFrame(data=[d.dataframe.iloc[si, :]], columns=d.dataframe.columns)
-                    # IPython.display.display(sampled_tuple)
-                    for j in range(d.dataframe.shape[1]):
-                        cell = (si, j)
-                        value = d.dataframe.iloc[cell]
-                        labeled_cells[cell] = int(input("Is the value '{}' dirty?\nType 1 for yes.\nType 0 for no.\n".format(value)))
-                        if cell in cells_clusters_k_j_ce[k][j]:
-                            c = cells_clusters_k_j_ce[k][j][cell]
-                            labels_per_cluster[(j, c)][cell] = labeled_cells[cell]
-                extended_labeled_cells = dict(labeled_cells)
-                for j in clusters_k_j_c_ce[k]:
-                    for c in clusters_k_j_c_ce[k][j]:
-                        if len(labels_per_cluster[(j, c)]) > 0 and \
-                                sum(labels_per_cluster[(j, c)].values()) in [0, len(labels_per_cluster[(j, c)])]:
-                            for cell in clusters_k_j_c_ce[k][j][c]:
-                                extended_labeled_cells[cell] = labels_per_cluster[(j, c)].values()[0]
-                correction_dictionary = {}
-                for j in range(d.dataframe.shape[1]):
-                    x_train = [d.fv[j][(i, j)] for i in range(d.dataframe.shape[0]) if (i, j) in extended_labeled_cells]
-                    y_train = [extended_labeled_cells[(i, j)] for i in range(d.dataframe.shape[0]) if (i, j) in extended_labeled_cells]
-                    x_test = [d.fv[j][(i, j)] for i in range(d.dataframe.shape[0])]
-                    test_cells = [(i, j) for i in range(d.dataframe.shape[0])]
-                    if sum(y_train) == len(y_train):
-                        predicted_labels = len(test_cells) * [1]
-                    elif sum(y_train) == 0 or len(x_train[0]) == 0:
-                        predicted_labels = len(test_cells) * [0]
-                    else:
-                        if self.CLASSIFICATION_MODEL == "ABC":
-                            classification_model = sklearn.ensemble.AdaBoostClassifier(n_estimators=100)
-                        if self.CLASSIFICATION_MODEL == "DTC":
-                            classification_model = sklearn.tree.DecisionTreeClassifier(criterion="gini")
-                        if self.CLASSIFICATION_MODEL == "GBC":
-                            classification_model = sklearn.ensemble.GradientBoostingClassifier(n_estimators=100)
-                        if self.CLASSIFICATION_MODEL == "GNB":
-                            classification_model = sklearn.naive_bayes.GaussianNB()
-                        if self.CLASSIFICATION_MODEL == "KNC":
-                            classification_model = sklearn.neighbors.KNeighborsClassifier(n_neighbors=1)
-                        if self.CLASSIFICATION_MODEL == "SGDC":
-                            classification_model = sklearn.linear_model.SGDClassifier(loss="hinge", penalty="l2")
-                        if self.CLASSIFICATION_MODEL == "SVC":
-                            classification_model = sklearn.svm.SVC(kernel="sigmoid")
-                        classification_model.fit(x_train, y_train)
-                        predicted_labels = classification_model.predict(x_test)
-                    for index, pl in enumerate(predicted_labels):
-                        cell = test_cells[index]
-                        if (cell[0] in labeled_tuples and extended_labeled_cells[cell]) or \
-                                (cell[0] not in labeled_tuples and pl):
-                            correction_dictionary[cell] = "JUST A DUMMY VALUE"
-                if hasattr(d, "actual_errors_dictionary"):
-                    s = len(labeled_tuples)
-                    er = d.evaluate_data_cleaning(correction_dictionary)[:3]
-                    aggregate_results[s].append(er)
-                pickle.dump(correction_dictionary, open(os.path.join(ed_folder_path, "results.dictionary"), "wb"))
-                # IPython.display.display(d.dataframe.style.apply(
-                #    lambda x: ["background-color: red" if (i, d.dataframe.columns.get_loc(x.name)) in correction_dictionary else ""
-                #              for i, cv in enumerate(x)]))
-                if not hasattr(d, "actual_errors_dictionary"):
-                    continue_flag = int(input("Would you like to label one more tuple?\nType 1 for yes.\nType 0 for no.\n"))
-                    if not continue_flag:
-                        break
+
+        ed = errordetector.ErrorDetector(self.LABELING_BUDGET, d, self.RUN_COUNT, ed_folder_path, d.fv, self.CLASSIFICATION_MODEL)
         if hasattr(d, "actual_errors_dictionary"):
-            results_string = "\\addplot[error bars/.cd,y dir=both,y explicit] coordinates{(0,0.0)"
-            for s in sampling_range:
-                mean = numpy.mean(numpy.array(aggregate_results[s]), axis=0)
-                std = numpy.std(numpy.array(aggregate_results[s]), axis=0)
-                print("Raha on {}".format(d.name))
-                print("Labeled Tuples Count = {}".format(s))
-                print("Precision = {:.2f} +- {:.2f}".format(mean[0], std[0]))
-                print("Recall = {:.2f} +- {:.2f}".format(mean[1], std[1]))
-                print("F1 = {:.2f} +- {:.2f}".format(mean[2], std[2]))
-                print("--------------------")
-                results_string += "({},{:.2f})+-(0,{:.2f})".format(s, mean[2], std[2])
-            results_string += "}; \\addlegendentry{Raha}"
-            print(results_string)
+            ed.error_detection()
+        else:
+            ed.interactive_error_detection()
+
 
     @staticmethod
     def dataset_profiler():
@@ -727,20 +626,21 @@ class Raha:
             print("F1 = {:.2f}".format(er[2]))
             print("--------------------")
         if "NADEEF" in self.BASELINES:
-            td = {"name": "nadeef", "configuration": dataset_constraints[d.name]["functions"]}
-            t = data_cleaning_tool.DataCleaningTool(td)
-            detected_cells_dictionary = t.run(d)
-            td = {"name": "regex", "configuration": dataset_constraints[d.name]["patterns"]}
-            t = data_cleaning_tool.DataCleaningTool(td)
-            detected_cells_dictionary.update(t.run(d))
-            nadeef_correction = {cell: "JUST A DUMMY VALUE" for cell in detected_cells_dictionary}
-            er = d.evaluate_data_cleaning(nadeef_correction)[:3]
-            pickle.dump(nadeef_correction.keys(), open(os.path.join(b_folder_path, "nadeef_output.list"), "wb"))
-            print("NADEEF on {}".format(d.name))
-            print("Precision = {:.2f}".format(er[0]))
-            print("Recall = {:.2f}".format(er[1]))
-            print("F1 = {:.2f}".format(er[2]))
-            print("--------------------")
+            pass
+            # td = {"name": "nadeef", "configuration": dataset_constraints[d.name]["functions"]}
+            # t = data_cleaning_tool.DataCleaningTool(td)
+            # detected_cells_dictionary = t.run(d)
+            # td = {"name": "regex", "configuration": dataset_constraints[d.name]["patterns"]}
+            # t = data_cleaning_tool.DataCleaningTool(td)
+            # detected_cells_dictionary.update(t.run(d))
+            # nadeef_correction = {cell: "JUST A DUMMY VALUE" for cell in detected_cells_dictionary}
+            # er = d.evaluate_data_cleaning(nadeef_correction)[:3]
+            # pickle.dump(nadeef_correction.keys(), open(os.path.join(b_folder_path, "nadeef_output.list"), "wb"))
+            # print("NADEEF on {}".format(d.name))
+            # print("Precision = {:.2f}".format(er[0]))
+            # print("Recall = {:.2f}".format(er[1]))
+            # print("F1 = {:.2f}".format(er[2]))
+            # print("--------------------")
         if "KATARA" in self.BASELINES:
             katara_correction = {}
             for strategy_name in strategies_output:
