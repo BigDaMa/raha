@@ -102,11 +102,11 @@ class ErrorDetector:
             if self.show_graphs:
                 with self.out:
                     print("Building TSNE Models...")
-                for j in range(len(self.fv)):
-                    print("  Column {}...".format(j))
-                    fv_list = [self.fv[j][(i, j)] for i in range(len(self.fv[j]))]
-                    model = sklearn.manifold.TSNE(n_components=2, n_iter=400).fit_transform(fv_list)
-                    self.models.append(model)
+                    for j in range(len(self.fv)):
+                        print("  Column {}...".format(j))
+                        fv_list = [self.fv[j][(i, j)] for i in range(len(self.fv[j]))]
+                        model = sklearn.manifold.TSNE(n_components=2, n_iter=400).fit_transform(fv_list)
+                        self.models.append(model)
             self.out.clear_output()
             with self.out:
                 self.label_tuple()
@@ -141,6 +141,7 @@ class ErrorDetector:
         with label_out:
             print("Label the dirty cells in the following sampled tuple.")
             sampled_tuple = pandas.DataFrame(data=[self.d.dataframe.iloc[si, :]], columns=self.d.dataframe.columns)
+            sampled_tuple.style.hide_index()
             checks = [widgets.Checkbox(description=column) for column in sampled_tuple]
             submit = widgets.Button(description='Submit')
 
@@ -182,7 +183,8 @@ class ErrorDetector:
         submit.on_click(submit_click)
 
         with label_out:
-            IPython.display.display(sampled_tuple)
+            IPython.display.display(sampled_tuple.style.apply(
+                lambda x: ["background-color: #f2f2f2" if sampled_tuple.columns.get_loc(x.name) % 2 == 0 else "background-color: #d9d9d9"]))
             layout = widgets.VBox(checks)
             IPython.display.display(layout, submit)
 
@@ -224,6 +226,8 @@ class ErrorDetector:
 
     def display_graph(self):
         graph_out = widgets.Output(layout={'border': '1px solid black'})
+        with graph_out:
+            print("Please click a point to view more information.")
 
         if self.show_graphs:
             column_dropdown = widgets.Dropdown(
@@ -244,7 +248,22 @@ class ErrorDetector:
                     cell = self.d.dataframe.iat[i, j]
                     row = self.d.dataframe.iloc[i, :]
                     print("Selected cell:\n{}\n\nFound in Tuple:\n".format(cell))
+                    row = pandas.DataFrame(row)
+                    row.style.hide_index()
                     IPython.display.display(row)
+
+                    error_strats = {"dboost": 0,
+                                    "katara": 0,
+                                    "fdchecker": 0,
+                                    "regex": 0}
+                    for strategy in self.d.cells_strategies[(i,j)]:
+                        for error_strat in error_strats:
+                            if error_strat in strategy:
+                                error_strats[error_strat] += 1
+
+                    print("\nThese tools have detected this cell as an error:")
+                    temp_data = {"Tool": list(error_strats.keys()), "Number of tool configurations": list(error_strats.values())}
+                    IPython.display.display(pandas.DataFrame(temp_data))
 
             def displayCol(column):
                 plt.close()
@@ -252,10 +271,14 @@ class ErrorDetector:
                 j = self.d.dataframe.columns.get_loc(column)
                 clean_xy = [data for i, data in enumerate(self.models[j]) if (i, j) not in self.correction_dictionary]
                 dirty_xy = [data for i, data in enumerate(self.models[j]) if (i, j) in self.correction_dictionary]
-                plt.scatter([c[0] for c in clean_xy], [c[1] for c in clean_xy], c='g', picker=5)
-                plt.scatter([c[0] for c in dirty_xy], [c[1] for c in dirty_xy], c='r', picker=5)
+                g = plt.scatter([c[0] for c in clean_xy], [c[1] for c in clean_xy], c='g', picker=5)
+                r = plt.scatter([c[0] for c in dirty_xy], [c[1] for c in dirty_xy], c='r', picker=5)
                 plt.title("{} Clusters ".format(self.k -1) + self.d.dataframe.columns[j])
                 fig.canvas.mpl_connect('pick_event', onpick)
+                plt.legend(
+                    (g ,r),
+                    ("Not errors", "Errors")
+                )
                 plt.show()
                 IPython.display.display(graph_out)
             w = widgets.interactive(displayCol, column=column_dropdown)
