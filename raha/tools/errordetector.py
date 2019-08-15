@@ -97,7 +97,6 @@ class ErrorDetector:
         vbox = widgets.VBox([widgets.Label('Start the interactive process'), start])
         def start_process(event):
             self.show_graphs = graph_check.value
-            #start.layout.visibility = 'hidden'
             self.out.clear_output()
             if self.show_graphs:
                 with self.out:
@@ -141,7 +140,6 @@ class ErrorDetector:
         with label_out:
             print("Label the dirty cells in the following sampled tuple.")
             sampled_tuple = pandas.DataFrame(data=[self.d.dataframe.iloc[si, :]], columns=self.d.dataframe.columns)
-            sampled_tuple.style.hide_index()
             checks = [widgets.Checkbox(description=column) for column in sampled_tuple]
             submit = widgets.Button(description='Submit')
 
@@ -183,7 +181,7 @@ class ErrorDetector:
         submit.on_click(submit_click)
 
         with label_out:
-            IPython.display.display(sampled_tuple.style.apply(
+            IPython.display.display(sampled_tuple.style.hide_index().apply(
                 lambda x: ["background-color: #f2f2f2" if sampled_tuple.columns.get_loc(x.name) % 2 == 0 else "background-color: #d9d9d9"]))
             layout = widgets.VBox(checks)
             IPython.display.display(layout, submit)
@@ -246,11 +244,11 @@ class ErrorDetector:
                     xdata, ydata = data[ind, :]
                     i = self.models[j].tolist().index([xdata, ydata])
                     cell = self.d.dataframe.iat[i, j]
-                    row = self.d.dataframe.iloc[i, :]
+                    row = pandas.DataFrame(data=[self.d.dataframe.iloc[i, :]], columns=self.d.dataframe.columns)
                     print("Selected cell:\n{}\n\nFound in Tuple:\n".format(cell))
-                    row = pandas.DataFrame(row)
-                    row.style.hide_index()
-                    IPython.display.display(row)
+                    IPython.display.display(row.style.hide_index().apply(
+                        lambda x: ["background-color: #f2f2f2" if row.columns.get_loc(x.name) % 2 == 0 else "background-color: #d9d9d"]
+                    ))
 
                     error_strats = {"dboost": 0,
                                     "katara": 0,
@@ -263,7 +261,7 @@ class ErrorDetector:
 
                     print("\nThese tools have detected this cell as an error:")
                     temp_data = {"Tool": list(error_strats.keys()), "Number of tool configurations": list(error_strats.values())}
-                    IPython.display.display(pandas.DataFrame(temp_data))
+                    IPython.display.display(pandas.DataFrame(temp_data).style.hide_index())
 
             def displayCol(column):
                 plt.close()
