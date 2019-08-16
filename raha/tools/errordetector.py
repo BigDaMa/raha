@@ -215,6 +215,7 @@ class ErrorDetector:
                     classification_model = sklearn.svm.SVC(kernel="sigmoid")
                 classification_model.fit(x_train, y_train)
                 predicted_labels = classification_model.predict(x_test)
+
             for index, pl in enumerate(predicted_labels):
                 cell = test_cells[index]
                 if (cell[0] in self.labeled_tuples and extended_labeled_cells[cell]) or \
@@ -224,6 +225,8 @@ class ErrorDetector:
 
     def display_graph(self):
         graph_out = widgets.Output(layout={'border': '1px solid black'})
+        graph_out_container = widgets.Accordion(children=[graph_out])
+        graph_out_container.set_title(0, "Display clicked cell information")
         with graph_out:
             print("Please click a point to view more information.")
 
@@ -245,23 +248,39 @@ class ErrorDetector:
                     i = self.models[j].tolist().index([xdata, ydata])
                     cell = self.d.dataframe.iat[i, j]
                     row = pandas.DataFrame(data=[self.d.dataframe.iloc[i, :]], columns=self.d.dataframe.columns)
-                    print("Selected cell:\n{}\n\nFound in Tuple:\n".format(cell))
+                    print("Selected cell:\n{}\n\nFound in Tuple:".format(cell))
                     IPython.display.display(row.style.hide_index().apply(
                         lambda x: ["background-color: #f2f2f2" if row.columns.get_loc(x.name) % 2 == 0 else "background-color: #d9d9d"]
                     ))
 
-                    error_strats = {"dboost": 0,
-                                    "katara": 0,
-                                    "fdchecker": 0,
-                                    "regex": 0}
+                    error_strats = {"dboost": [],
+                                    "katara": [],
+                                    "fdchecker": [],
+                                    "regex": []}
                     for strategy in self.d.cells_strategies[(i,j)]:
                         for error_strat in error_strats:
                             if error_strat in strategy:
-                                error_strats[error_strat] += 1
+                                error_strats[error_strat].append(self.format_configuration_name(strategy))
 
-                    print("\nThese tools have detected this cell as an error:")
-                    temp_data = {"Tool": list(error_strats.keys()), "Number of tool configurations": list(error_strats.values())}
-                    IPython.display.display(pandas.DataFrame(temp_data).style.hide_index())
+                    print("\n\n\nThese tools have detected this cell as an error:")
+                    number_of_configs = [len(configs) for configs in error_strats.values()]
+                    temp_data = {"Tool": list(error_strats.keys()), "Number of tool configurations": number_of_configs}
+                    tool_info_out = widgets.Output()
+                    with tool_info_out:
+                        IPython.display.display(pandas.DataFrame(temp_data).style.hide_index())
+
+                    configuration_list_boxes = []
+                    for tool in error_strats:
+                        configuration_list = [widgets.Label(x) for x in error_strats[tool]]
+                        configuration_list_boxes.append(widgets.VBox(configuration_list))
+
+                    accord = widgets.Accordion(children=configuration_list_boxes)
+                    accord.selected_index = None
+                    for i, tool in enumerate(error_strats):
+                        accord.set_title(i, tool)
+                    tool_info_container = widgets.VBox([tool_info_out, accord])
+
+                    IPython.display.display(tool_info_container)
 
             def displayCol(column):
                 plt.close()
@@ -278,13 +297,12 @@ class ErrorDetector:
                     ("Not errors", "Errors")
                 )
                 plt.show()
-                IPython.display.display(graph_out)
             w = widgets.interactive(displayCol, column=column_dropdown)
-            IPython.display.display(w)
+
         else:
             pc = len(self.correction_dictionary)/len(self.d.dataframe)
-            pc_label = widgets.Label("{0:.2f}% of the dataset has been classified as errors".format(pc))
-            IPython.display.display(pc_label)
+            w = widgets.Label("{0:.2f}% of the dataset has been classified as errors".format(pc))
+
 
         another_tuple = widgets.Button(description='Label another tuple')
 
@@ -300,8 +318,28 @@ class ErrorDetector:
                     w.close()
                 with self.out:
                     self.label_tuple()
-
         another_tuple.on_click(onclick)
+
+
+        print("\n")
         IPython.display.display(another_tuple)
+        print("\n")
+        IPython.display.display(w)
+        if self.show_graphs:
+            IPython.display.display(graph_out_container)
+
+
+    @staticmethod
+    def format_configuration_name(strategy):
+        raw_strategy = strategy.split(',', 1)[1]
+        formatted_strategy = "".join(c for c in raw_strategy if c not in "[]")
+        if 'katara' in strategy:
+            formatted_strategy = formatted_strategy.split('/')[-1]
+            if '"' == formatted_strategy[-1]:
+                formatted_strategy = formatted_strategy[:-1]
+        return formatted_strategy
+
+
+
 
 
