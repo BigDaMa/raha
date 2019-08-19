@@ -21,7 +21,6 @@ import random
 import operator
 import gzip
 import pickle
-import shutil
 import tempfile
 import itertools
 import numpy
@@ -46,12 +45,12 @@ try:
     from . import dataset
     from .tools.katara import katara
     from .tools.dBoost.dboost import imported_dboost
-    from .tools import errordetector
+    from .tools.error_detector import errordetector
 except:
     import dataset
     from tools.katara import katara
     from tools.dBoost.dboost import imported_dboost
-    from tools import errordetector
+    from tools.error_detector import errordetector
 ########################################
 
 
