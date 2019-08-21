@@ -4,6 +4,9 @@ import pandas
 import IPython
 
 def create_tsne_graph(error_detector, graph_out):
+    """
+    This function creates the matplotlib graph as well as any related widgets and returns it.
+    """
     column_dropdown = widgets.Dropdown(
         options=error_detector.model.d.dataframe.columns,
         value=error_detector.model.d.dataframe.columns[0],
@@ -12,6 +15,9 @@ def create_tsne_graph(error_detector, graph_out):
 
     @graph_out.capture(clear_output=True)
     def onpick(event):
+        """
+        This function defines what happens when a point on the graph is clicked.
+        """
         with graph_out:
             point = event.artist
             column = point.axes.get_title().split()[2]
@@ -64,6 +70,9 @@ def create_tsne_graph(error_detector, graph_out):
             IPython.display.display(tool_info_container)
 
     def displayCol(column):
+        """
+        Refreshes the matplotlib graph with the new column stated.
+        """
         plt.close()
         fig, ax = plt.subplots()
         j = error_detector.model.d.dataframe.columns.get_loc(column)
@@ -83,6 +92,9 @@ def create_tsne_graph(error_detector, graph_out):
 
 
 def format_configuration_name(strategy):
+    """
+    Helper function to format configuration names for display.
+    """
     raw_strategy = strategy.split(',', 1)[1]
     formatted_strategy = "".join(c for c in raw_strategy if c not in "[]")
     if 'katara' in strategy:

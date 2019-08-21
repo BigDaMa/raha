@@ -2,6 +2,9 @@ import ipywidgets as widgets
 
 
 class SubmitButton(widgets.Button):
+    """
+    Button to submit a labeled tuple and continue the error detection process.
+    """
 
     def __init__(self, error_detector, checks):
         super().__init__(description='Submit')

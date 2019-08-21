@@ -1,7 +1,10 @@
 import ipywidgets as widgets
-import sklearn
+
 
 class StartButton(widgets.Button):
+    """
+    Button to start the interactive error detection system.
+    """
 
     def __init__(self, error_detector, graph_check):
         super().__init__(description='Start')

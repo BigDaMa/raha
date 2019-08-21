@@ -2,6 +2,9 @@ import ipywidgets as widgets
 
 
 class AnotherTupleButton(widgets.Button):
+    """
+    Button to label another tuple in the interactive process.
+    """
 
     def __init__(self, error_detector, graph_out, w):
         super().__init__(description='Label another tuple')
