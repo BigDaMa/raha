@@ -10,9 +10,7 @@
 
 
 ########################################
-import os
 import sys
-import itertools
 import pandas
 ########################################
 
@@ -31,36 +29,38 @@ class Dataset:
         self.dataframe = self.read_csv_dataset(dataset_dictionary["path"])
         if "clean_path" in dataset_dictionary:
             self.clean_dataframe = self.read_csv_dataset(dataset_dictionary["clean_path"])
-            if self.dataframe.shape != self.clean_dataframe.shape:
-                sys.stderr.write("Ground truth is not in the equal size to the dataset!\n")
-            self.actual_errors_dictionary = self.get_actual_errors_dictionary()
         if "repaired_path" in dataset_dictionary:
             self.repaired_dataframe = self.read_csv_dataset(dataset_dictionary["repaired_path"])
-            if self.dataframe.shape != self.repaired_dataframe.shape:
-                sys.stderr.write("Repaired dataset is not in the equal size to the dataset!\n")
-            self.repairs_dictionary = self.get_repairs_dictionary()
 
-    def read_csv_dataset(self, dataset_path):
+    @staticmethod
+    def read_csv_dataset(dataset_path):
         """
         This method reads a dataset from a csv file path.
         """
-        dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header="infer", encoding="utf-8", dtype=str,
-                                            keep_default_na=False, low_memory=False).apply(lambda x: x.str.strip())
-        return dataset_dataframe
+        dataframe = pandas.read_csv(dataset_path, sep=",", header="infer", encoding="utf-8", dtype=str,
+                                    keep_default_na=False, low_memory=False).apply(lambda x: x.str.strip())
+        return dataframe
 
-    def write_csv_dataset(self, dataset_path, dataframe):
+    @staticmethod
+    def write_csv_dataset(dataset_path, dataframe):
         """
         This method writes a dataset to a csv file path.
         """
         dataframe.to_csv(dataset_path, sep=",", header=True, index=False, encoding="utf-8")
 
-    def get_actual_errors_dictionary(self):
+    @staticmethod
+    def get_dataframes_difference(dataframe_1, dataframe_2):
         """
-        This method compares the clean and dirty versions of a dataset.
+        This method compares two dataframes and returns the different cells.
         """
-        return {(i, j): self.clean_dataframe.iloc[i, j]
-                for (i, j) in itertools.product(range(self.dataframe.shape[0]), range(self.dataframe.shape[1]))
-                if self.dataframe.iloc[i, j] != self.clean_dataframe.iloc[i, j]}
+        if dataframe_1.shape != dataframe_2.shape:
+            sys.stderr.write("Two compared datasets do not have equal sizes!\n")
+        difference_dictionary = {}
+        difference_dataframe = dataframe_1.where(dataframe_1.values != dataframe_2.values).notna()
+        for j in range(dataframe_1.shape[1]):
+            for i in difference_dataframe.index[difference_dataframe.iloc[:, j]].tolist():
+                difference_dictionary[(i, j)] = dataframe_2.iloc[i, j]
+        return difference_dictionary
 
     def create_repaired_dataset(self, correction_dictionary):
         """
@@ -70,28 +70,31 @@ class Dataset:
         for cell in correction_dictionary:
             self.repaired_dataframe.iloc[cell] = correction_dictionary[cell]
 
-    def get_repairs_dictionary(self):
+    def get_actual_errors_dictionary(self):
+        """
+        This method compares the clean and dirty versions of a dataset.
+        """
+        return self.get_dataframes_difference(self.dataframe, self.clean_dataframe)
+
+    def get_correction_dictionary(self):
         """
         This method compares the repaired and dirty versions of a dataset.
         """
-        return {(i, j): self.repaired_dataframe.iloc[i, j]
-                for (i, j) in itertools.product(range(self.dataframe.shape[0]), range(self.dataframe.shape[1]))
-                if self.dataframe.iloc[i, j] != self.repaired_dataframe.iloc[i, j]}
+        return self.get_dataframes_difference(self.dataframe, self.repaired_dataframe)
 
     def get_data_quality(self):
         """
         This method calculates data quality of a dataset.
         """
-        return 1.0 - float(len(self.actual_errors_dictionary)) / (self.dataframe.shape[0] * self.dataframe.shape[1])
+        return 1.0 - float(len(self.get_actual_errors_dictionary())) / (self.dataframe.shape[0] * self.dataframe.shape[1])
 
-    def evaluate_data_cleaning(self, correction_dictionary, sampled_rows_dictionary=False):
+    def get_data_cleaning_evaluation(self, correction_dictionary, sampled_rows_dictionary=False):
         """
         This method evaluates data cleaning process.
         """
-        actual_errors = dict(self.actual_errors_dictionary)
+        actual_errors = self.get_actual_errors_dictionary()
         if sampled_rows_dictionary:
-            actual_errors = {(i, j): self.actual_errors_dictionary[(i, j)]
-                             for (i, j) in self.actual_errors_dictionary if i in sampled_rows_dictionary}
+            actual_errors = {(i, j): actual_errors[(i, j)] for (i, j) in actual_errors if i in sampled_rows_dictionary}
         ed_tp = 0.0
         ec_tp = 0.0
         output_size = 0.0
@@ -114,12 +117,11 @@ class Dataset:
 
 ########################################
 if __name__ == "__main__":
-
-    dataset_dictionary = {
+    dataset_dict = {
         "name": "toy",
         "path": "datasets/dirty.csv",
         "clean_path": "datasets/clean.csv"
     }
-    d = Dataset(dataset_dictionary)
+    d = Dataset(dataset_dict)
     print(d.get_data_quality())
 ########################################
