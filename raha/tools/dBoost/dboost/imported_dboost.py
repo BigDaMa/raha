@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-def run_dboost(params):
+def run(params):
     import sys
 
     if __name__ == '__main__' and __package__ is None:

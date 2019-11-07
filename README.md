@@ -17,7 +17,7 @@ sudo pip3 uninstall raha
 
 ## Usage
 Running `Raha` is simple!
-   - Benchmarking Raha: If you have a dirty dataset and its corresponding clean dataset and you just want to benchmark Raha, please check the sample code in `raha/__main__.py`.
+   - Benchmarking Raha: If you have a dirty dataset and its corresponding clean dataset and you just want to benchmark Raha, please check the sample code in `raha/benchmark.py`.
    - Interactive error detection with Raha: If you have a dirty dataset and you want to detect data errors in an interactive mode via Raha, please check the sample code in `raha/raha.ipynb`.
 
 ## Reference
