@@ -1,5 +1,5 @@
-numpy
-pandas
-scipy
-sklearn
-prettytable
+numpy==1.16.1
+pandas==0.24.1
+scipy==1.2.1
+sklearn==0.0
+prettytable==0.7.2
