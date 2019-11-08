@@ -140,11 +140,11 @@ class Detection:
                     if cell[1] == j:
                         feature_vectors[cell[0], strategy_index] = 1.0
         if "TFIDF" in self.ERROR_DETECTION_ALGORITHMS:
-            vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, max_df=0, stop_words="english")
+            vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, stop_words="english")
             corpus = d.dataframe.iloc[:, j]
             try:
                 tfidf_features = vectorizer.fit_transform(corpus)
-                feature_vectors = numpy.column_stack((feature_vectors, tfidf_features.todense()))
+                feature_vectors = numpy.column_stack((feature_vectors, numpy.array(tfidf_features.todense())))
             except:
                 pass
         non_identical_columns = numpy.any(feature_vectors != feature_vectors[0, :], axis=0)
@@ -161,7 +161,7 @@ class Detection:
         clustering_range = range(2, self.LABELING_BUDGET + 2)
         clusters_k_c_ce = {k: {} for k in clustering_range}
         cells_clusters_k_ce = {k: {} for k in clustering_range}
-        if feature_vectors.any():
+        try:
             clustering_model = scipy.cluster.hierarchy.linkage(feature_vectors, method="average", metric="cosine")
             for k in clusters_k_c_ce:
                 model_labels = [l - 1 for l in scipy.cluster.hierarchy.fcluster(clustering_model, k, criterion="maxclust")]
@@ -171,6 +171,8 @@ class Detection:
                     cell = (index, j)
                     clusters_k_c_ce[k][c][cell] = 1
                     cells_clusters_k_ce[k][cell] = c
+        except:
+            pass
         if self.VERBOSE:
             print("A hierarchical clustering model is built for column {}.".format(j))
         return [clusters_k_c_ce, cells_clusters_k_ce]
@@ -228,8 +230,7 @@ class Detection:
               "------------------------------------------------------------------------")
         sp_folder_path = os.path.join(d.results_folder, "strategy-profiling")
         if os.path.exists(sp_folder_path):
-            sys.stderr.write("Since the error detection strategies have already been run on the dataset, "
-                             "I just load their results!\n")
+            sys.stderr.write("I just load strategies' results as they have already been run on the dataset!\n")
             strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
                                       for strategy_file in os.listdir(sp_folder_path)]
         else:
