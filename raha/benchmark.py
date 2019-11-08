@@ -59,6 +59,11 @@ class Benchmark:
                     "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
                 }
                 d = raha.dataset.Dataset(dataset_dictionary)
+                detection_dictionary = detector.run(dataset_dictionary)
+                er = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
+                results["Raha"][dataset_name]["Cell-Wise"].append(er)
+                er = raha.utilities.get_tuple_wise_evaluation(d, detection_dictionary)
+                results["Raha"][dataset_name]["Tuple-Wise"].append(er)
                 detection_dictionary = competitor.run_dboost(dataset_dictionary)
                 er = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
                 results["dBoost"][dataset_name].append(er)
@@ -73,11 +78,6 @@ class Benchmark:
                 results["ActiveClean"][dataset_name]["Cell-Wise"].append(er)
                 er = raha.utilities.get_tuple_wise_evaluation(d, detection_dictionary)
                 results["ActiveClean"][dataset_name]["Tuple-Wise"].append(er)
-                detection_dictionary = detector.run(dataset_dictionary)
-                er = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
-                results["Raha"][dataset_name]["Cell-Wise"].append(er)
-                er = raha.utilities.get_tuple_wise_evaluation(d, detection_dictionary)
-                results["Raha"][dataset_name]["Tuple-Wise"].append(er)
         table_1 = prettytable.PrettyTable(["Approach"] + self.DATASETS)
         row = ["dBoost"]
         for dataset_name in self.DATASETS:
