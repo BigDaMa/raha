@@ -15,10 +15,10 @@ import os
 import numpy
 import prettytable
 
-import dataset
-import detection
-import baselines
-import utilities
+import raha.dataset
+import raha.detection
+import raha.baselines
+import raha.utilities
 ########################################
 
 
@@ -47,21 +47,21 @@ class Benchmark:
                    "NADEEF": {dn: [] for dn in self.DATASETS},
                    "KATARA": {dn: [] for dn in self.DATASETS},
                    "ActiveClean": {dn: {"Cell-Wise": [], "Tuple-Wise": []} for dn in self.DATASETS}}
-        detector = detection.Detection()
+        detector = raha.detection.Detection()
         detector.VERBOSE = False
-        competitor = baselines.Baselines()
+        competitor = raha.baselines.Baselines()
         for dataset_name in self.DATASETS:
             dataset_dictionary = {
                 "name": dataset_name,
                 "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                 "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
             }
-            d = dataset.Dataset(dataset_dictionary)
+            d = raha.dataset.Dataset(dataset_dictionary)
             for r in range(self.RUN_COUNT):
                 detection_dictionary = detector.run(dataset_dictionary)
                 er = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
                 results["Raha"][dataset_name]["Cell-Wise"].append(er)
-                er = utilities.get_tuple_wise_evaluation(d, detection_dictionary)
+                er = raha.utilities.get_tuple_wise_evaluation(d, detection_dictionary)
                 results["Raha"][dataset_name]["Tuple-Wise"].append(er)
                 detection_dictionary = competitor.run_dboost(dataset_dictionary)
                 er = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
@@ -75,7 +75,7 @@ class Benchmark:
                 detection_dictionary = competitor.run_activeclean(dataset_dictionary)
                 er = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
                 results["ActiveClean"][dataset_name]["Cell-Wise"].append(er)
-                er = utilities.get_tuple_wise_evaluation(d, detection_dictionary)
+                er = raha.utilities.get_tuple_wise_evaluation(d, detection_dictionary)
                 results["ActiveClean"][dataset_name]["Tuple-Wise"].append(er)
         t = prettytable.PrettyTable(["Approach"] + self.DATASETS)
         row = ["dBoost"]
@@ -129,7 +129,7 @@ class Benchmark:
                 "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                 "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
             }
-            d = dataset.Dataset(dataset_dictionary)
+            d = raha.dataset.Dataset(dataset_dictionary)
             for r in range(self.RUN_COUNT):
                 for s in sampling_range:
                     detector.LABELING_BUDGET = s

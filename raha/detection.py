@@ -40,9 +40,9 @@ import sklearn.feature_extraction
 # import IPython.display
 # import ipywidgets
 
-import dataset
-import tools.KATARA.katara
-import tools.dBoost.dboost.imported_dboost
+import raha.dataset
+import raha.tools.KATARA.katara
+import raha.tools.dBoost.dboost.imported_dboost
 ########################################
 
 
@@ -78,7 +78,7 @@ class Detection:
             dataset_path = os.path.join(tempfile.gettempdir(), d.name + "-" + strategy_name_hash + ".csv")
             d.write_csv_dataset(dataset_path, d.dataframe)
             params = ["-F", ",", "--statistical", "0.5"] + ["--" + configuration[0]] + configuration[1:] + [dataset_path]
-            tools.dBoost.dboost.imported_dboost.run(params)
+            raha.tools.dBoost.dboost.imported_dboost.run(params)
             algorithm_results_path = dataset_path + "-dboost_output.csv"
             if os.path.exists(algorithm_results_path):
                 ocdf = pandas.read_csv(algorithm_results_path, sep=",", header=None, encoding="utf-8", dtype=str,
@@ -113,7 +113,7 @@ class Detection:
                     outputted_cells[(i, l_j)] = ""
                     outputted_cells[(i, r_j)] = ""
         elif algorithm == "KBVD":
-            outputted_cells = tools.KATARA.katara.run(d, configuration)
+            outputted_cells = raha.tools.KATARA.katara.run(d, configuration)
         detected_cells_list = list(outputted_cells.keys())
         strategy_profile = {
             "name": strategy_name,
@@ -219,7 +219,7 @@ class Detection:
         print("------------------------------------------------------------------------\n"
               "--------------------Instantiating the Dataset Object--------------------\n"
               "------------------------------------------------------------------------")
-        d = dataset.Dataset(dd)
+        d = raha.dataset.Dataset(dd)
         d.results_folder = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + d.name)
         if self.SAVE_RESULTS and not os.path.exists(d.results_folder):
             os.mkdir(d.results_folder)
