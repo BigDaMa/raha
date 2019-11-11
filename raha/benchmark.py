@@ -12,6 +12,8 @@
 ########################################
 import os
 import sys
+import time
+import shutil
 
 import numpy
 import prettytable
@@ -266,7 +268,19 @@ class Benchmark:
         print("------------------------------------------------------------------------\n"
               "------------Experiment 4: Strategy Filtering Impact Analysis------------\n"
               "------------------------------------------------------------------------")
-        # TODO
+        results = {"Without Strategy Filtering": {dn: [] for dn in self.DATASETS},
+                   "With Strategy Filtering": {dn: [] for dn in self.DATASETS}}
+        for dataset_name in self.DATASETS:
+            dataset_dictionary = {
+                "name": dataset_name,
+                "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
+                "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
+            }
+            d = raha.dataset.Dataset(dataset_dictionary)
+            d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + d.name)
+            raha.utilities.dataset_profiler(d)
+            raha.utilities.evaluation_profiler(d)
+        # for r in range(self.RUN_COUNT):
 
     def experiment_5(self):
         """
@@ -315,7 +329,43 @@ class Benchmark:
         print("------------------------------------------------------------------------\n"
               "--------------------Experiment 6: System Scalability--------------------\n"
               "------------------------------------------------------------------------")
-        # TODO
+        rows_counts_list = [50000, 100000, 150000, 200000]
+        results = {rc: [] for rc in rows_counts_list}
+        detector = raha.detection.Detection()
+        detector.VERBOSE = False
+        dataset_dictionary = {
+            "name": "tax",
+            "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", "tax", "dirty.csv")),
+            "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", "tax", "clean.csv"))
+        }
+        d_tax = raha.dataset.Dataset(dataset_dictionary)
+        for r in range(self.RUN_COUNT):
+            for rows_count in rows_counts_list:
+                dataset_name = "tax_{}".format(rows_count)
+                nd_folder_path = os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name)
+                if os.path.exists(nd_folder_path):
+                    shutil.rmtree(nd_folder_path)
+                os.mkdir(nd_folder_path)
+                d_tax.write_csv_dataset(os.path.join(nd_folder_path, "dirty.csv"), d_tax.dataframe.iloc[:rows_count, :])
+                d_tax.write_csv_dataset(os.path.join(nd_folder_path, "clean.csv"), d_tax.clean_dataframe.iloc[:rows_count, :])
+                dataset_dictionary = {
+                    "name": dataset_name,
+                    "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
+                    "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
+                }
+                d = raha.dataset.Dataset(dataset_dictionary)
+                start_time = time.time()
+                detection_dictionary = detector.run(dataset_dictionary)
+                er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [time.time() - start_time]
+                results[rows_count].append(er)
+                shutil.rmtree(nd_folder_path)
+        table_1 = prettytable.PrettyTable(["Rows Count", "F1 Score", "Runtime"])
+        for rows_count in rows_counts_list:
+            aggregated_list = numpy.mean(numpy.array(results[rows_count]), axis=0)
+            row = [rows_count, "{:.2f}".format(aggregated_list[2]), "{:.0f}".format(aggregated_list[3])]
+            table_1.add_row(row)
+        print("System scalability with respect to the number of rows in tax dataset.")
+        print(table_1)
 
     def experiment_7(self):
         """
@@ -371,13 +421,13 @@ class Benchmark:
 ########################################
 if __name__ == "__main__":
     app = Benchmark()
-    app.experiment_1()
-    app.experiment_2()
-    app.experiment_3()
-    # # app.experiment_4()
-    app.experiment_5()
-    # # app.experiment_6()
-    app.experiment_7()
+    # app.experiment_1()
+    # app.experiment_2()
+    # app.experiment_3()
+    # app.experiment_4()
+    # app.experiment_5()
+    # app.experiment_6()
+    # app.experiment_7()
 ########################################
 
 

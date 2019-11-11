@@ -10,7 +10,9 @@
 
 
 ########################################
+import os
 import shutil
+import pickle
 import operator
 import gzip
 ########################################
@@ -37,80 +39,11 @@ def get_tuple_wise_evaluation(d, correction_dictionary):
     return p, r, f
 
 
-
-
-
-
-
-
-
-
-def benchmark(self, dd):
+def dataset_profiler(d):
     """
-    This method benchmarks Raha.
-    """
-    d = dataset.Dataset(dd)
-    sampling_range = [self.LABELING_BUDGET]
-    aggregate_results = {s: [] for s in sampling_range}
-    for r in range(self.RUN_COUNT):
-        print("Run {}...".format(r))
-        for s in sampling_range:
-            self.LABELING_BUDGET = s
-            correction_dictionary = self.run(dd)
-            er = d.get_data_cleaning_evaluation(correction_dictionary)[:3]
-            aggregate_results[s].append(er)
-    results_string = "\\addplot[error bars/.cd,y dir=both,y explicit] coordinates{(0,0.0)"
-    for s in sampling_range:
-        mean = numpy.mean(numpy.array(aggregate_results[s]), axis=0)
-        std = numpy.std(numpy.array(aggregate_results[s]), axis=0)
-        print("Raha on {}".format(d.name))
-        print("Labeled Tuples Count = {}".format(s))
-        print("Precision = {:.2f} +- {:.2f}".format(mean[0], std[0]))
-        print("Recall = {:.2f} +- {:.2f}".format(mean[1], std[1]))
-        print("F1 = {:.2f} +- {:.2f}".format(mean[2], std[2]))
-        print("--------------------")
-        results_string += "({},{:.2f})+-(0,{:.2f})".format(s, mean[2], std[2])
-    results_string += "}; \\addlegendentry{Raha}"
-    print(results_string)
-
-
-
-
-
-
-
-#
-# ########################################
-# import os
-# import raha
-# ########################################
-#
-#
-# ########################################
-# dataset_dictionary = {
-#     "name": "flights",
-#     "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", "flights", "dirty.csv")),
-#     "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", "flights", "clean.csv"))
-# }
-# app = raha.Raha()
-# app.RUN_COUNT = 10   # Raha will be run RUN_COUNT times and, in the end, you will see the mean and std of the results.
-# app.LABELING_BUDGET = 20   # Raha will use up to LABELING_BUDGET labeled tuples from the clean dataset.
-# app.run(dataset_dictionary)
-# ########################################
-
-
-
-
-@staticmethod
-def dataset_profiler():
-    """
-    Deprecated!
     This method profiles the columns of dataset.
     """
-    global d
-    if not os.path.exists(os.path.join(d.results_folder, d.name, "strategy-filtering")):
-        os.mkdir(os.path.join(d.results_folder, d.name, "strategy-filtering"))
-    dp_folder_path = os.path.join(d.results_folder, d.name, "strategy-filtering", "dataset-profiling")
+    dp_folder_path = os.path.join(d.results_folder, "dataset-profiling")
     if not os.path.exists(dp_folder_path):
         os.mkdir(dp_folder_path)
     for attribute in d.dataframe.columns.tolist():
@@ -121,7 +54,6 @@ def dataset_profiler():
                 if character not in characters_dictionary:
                     characters_dictionary[character] = 0.0
                 characters_dictionary[character] += 1.0
-            # for term in list(set(nltk.word_tokenize(value) + [value])):
             if value not in values_dictionary:
                 values_dictionary[value] = 0.0
             values_dictionary[value] += 1.0
@@ -130,20 +62,16 @@ def dataset_profiler():
             "values": {v: values_dictionary[v] / d.dataframe.shape[0] for v in values_dictionary},
         }
         pickle.dump(column_profile, open(os.path.join(dp_folder_path, attribute + ".dictionary"), "wb"))
-    print("The {} dataset is profiled.").format(d.name)
 
 
-@staticmethod
-def evaluation_profiler():
+def evaluation_profiler(d):
     """
-    Deprecated!
     This method computes the performance of the error detection strategies on historical data.
     """
-    global d
-    ep_folder_path = os.path.join(d.results_folder, d.name, "strategy-filtering", "evaluation-profiling")
+    ep_folder_path = os.path.join(d.results_folder, "evaluation-profiling")
     if not os.path.exists(ep_folder_path):
         os.mkdir(ep_folder_path)
-    sp_folder_path = os.path.join(d.results_folder, d.name, "strategy-profiling")
+    sp_folder_path = os.path.join(d.results_folder, "strategy-profiling")
     columns_performance = {j: {} for j in range(d.dataframe.shape[1])}
     strategies_file_list = os.listdir(sp_folder_path)
     for strategy_file in strategies_file_list:
@@ -151,24 +79,10 @@ def evaluation_profiler():
         strategy_name = strategy_profile["name"]
         strategy_output = strategy_profile["output"]
         for column_index, attribute in enumerate(d.dataframe.columns.tolist()):
-            actual_column_errors = {(i, j): 1 for (i, j) in d.actual_errors_dictionary if j == column_index}
-            detected_column_cells = [(i, j) for (i, j) in strategy_output if j == column_index]
-            tp = 0.0
-            for cell in detected_column_cells:
-                if cell in actual_column_errors:
-                    tp += 1
-            if tp == 0.0:
-                precision = recall = f1 = 0.0
-            else:
-                precision = tp / len(detected_column_cells)
-                recall = tp / len(actual_column_errors)
-                f1 = (2 * precision * recall) / (precision + recall)
-            columns_performance[column_index][strategy_name] = [precision, recall, f1]
-            # if f1 > 0.5:
-            #     print ("Performance of {} on {} = {:.2f}, {:.2f}, {:.2f}".format(strategy_name, attribute, precision, recall, f1))
+            column_detection_dictionary = {(i, j): "JUST A DUMMY VALUE" for (i, j) in strategy_output if j == column_index}
+            columns_performance[column_index][strategy_name] = d.get_data_cleaning_evaluation(column_detection_dictionary)[:3]
     for j, attribute in enumerate(d.dataframe.columns.tolist()):
         pickle.dump(columns_performance[j], open(os.path.join(ep_folder_path, attribute + ".dictionary"), "wb"))
-    print("{} error detection strategies are evaluated.".format(len(strategies_file_list)))
 
 
 def strategy_filterer(self):
