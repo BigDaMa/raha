@@ -270,6 +270,7 @@ class Baselines:
               "--------------------------Running Maximum Entropy-----------------------\n"
               "------------------------------------------------------------------------")
         d = raha.dataset.Dataset(dd)
+        actual_errors_dictionary = d.get_actual_errors_dictionary()
         sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + d.name, "strategy-profiling")
         strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
                                   for strategy_file in os.listdir(sp_folder_path)]
@@ -280,10 +281,13 @@ class Baselines:
             best_precision = -1.0
             best_strategy_index = 0
             for strategy_index, strategy_profile in enumerate(list(strategy_profiles_list)):
-                temp_output = {cell: "JUST A DUMMY VALUE" for cell in strategy_profile["output"]}
-                er = d.get_data_cleaning_evaluation(temp_output, sampled_rows_dictionary=labeled_tuples)[:3]
-                if er[0] > best_precision:
-                    best_precision = er[0]
+                tp = 0.0
+                for cell in strategy_profile["output"]:
+                    if cell in actual_errors_dictionary:
+                        tp += 1
+                precision = 0.0 if len(strategy_profile["output"]) == 0 else tp / len(strategy_profile["output"])
+                if precision > best_precision:
+                    best_precision = precision
                     best_strategy_index = strategy_index
             for cell in strategy_profiles_list[best_strategy_index]["output"]:
                 detection_dictionary[cell] = "JUST A DUMMY VALUE"

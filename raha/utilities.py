@@ -11,10 +11,17 @@
 
 ########################################
 import os
-import shutil
+import sys
+import math
+import json
 import pickle
+import shutil
 import operator
-import gzip
+import itertools
+
+import scipy.spatial
+
+import raha.dataset
 ########################################
 
 
@@ -68,6 +75,7 @@ def evaluation_profiler(d):
     """
     This method computes the performance of the error detection strategies on historical data.
     """
+    actual_errors_dictionary = d.get_actual_errors_dictionary()
     ep_folder_path = os.path.join(d.results_folder, "evaluation-profiling")
     if not os.path.exists(ep_folder_path):
         os.mkdir(ep_folder_path)
@@ -79,31 +87,44 @@ def evaluation_profiler(d):
         strategy_name = strategy_profile["name"]
         strategy_output = strategy_profile["output"]
         for column_index, attribute in enumerate(d.dataframe.columns.tolist()):
-            column_detection_dictionary = {(i, j): "JUST A DUMMY VALUE" for (i, j) in strategy_output if j == column_index}
-            columns_performance[column_index][strategy_name] = d.get_data_cleaning_evaluation(column_detection_dictionary)[:3]
+            actual_column_errors = {(i, j): 1 for (i, j) in actual_errors_dictionary if j == column_index}
+            detected_column_cells = [(i, j) for (i, j) in strategy_output if j == column_index]
+            tp = 0.0
+            for cell in detected_column_cells:
+                if cell in actual_column_errors:
+                    tp += 1
+            if tp == 0.0:
+                precision = recall = f1 = 0.0
+            else:
+                precision = tp / len(detected_column_cells)
+                recall = tp / len(actual_column_errors)
+                f1 = (2 * precision * recall) / (precision + recall)
+            columns_performance[column_index][strategy_name] = [precision, recall, f1]
     for j, attribute in enumerate(d.dataframe.columns.tolist()):
         pickle.dump(columns_performance[j], open(os.path.join(ep_folder_path, attribute + ".dictionary"), "wb"))
 
 
-def strategy_filterer(self):
+def get_selected_strategies(self, d, historical_datasets):
     """
-    Deprecated!
     This method uses historical data to rank error detection strategies for the dataset and select the top-ranked.
     """
-    global d
-    nsp_folder_path = os.path.join(d.results_folder, d.name, "strategy-filtering", "strategy-profiling")
+    nsp_folder_path = os.path.join(d.results_folder, d.name, "strategy-profiling")
     if not os.path.exists(nsp_folder_path):
         os.mkdir(nsp_folder_path)
     columns_similarity = {}
     for nci, na in enumerate(d.dataframe.columns.tolist()):
-        ndp_folder_path = os.path.join(d.results_folder, d.name, "strategy-filtering", "dataset-profiling")
+        ndp_folder_path = os.path.join(d.results_folder, d.name, "dataset-profiling")
         ncp = pickle.load(open(os.path.join(ndp_folder_path, na + ".dictionary"), "rb"))
-        for hdn in self.DATASETS:
+        for hdn in historical_datasets:
             if hdn != d.name:
-                hd = dataset.Dataset(self.DATASETS[hdn])
+                dataset_dictionary = {
+                    "name": hdn,
+                    "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", hdn, "dirty.csv")),
+                    "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", hdn, "clean.csv"))
+                }
+                hd = raha.dataset.Dataset(dataset_dictionary)
                 for hci, ha in enumerate(hd.dataframe.columns.tolist()):
-                    hdp_folder_path = os.path.join(d.results_folder, hd.name, "strategy-filtering",
-                                                   "dataset-profiling")
+                    hdp_folder_path = os.path.join(d.results_folder, hd.name, "dataset-profiling")
                     hcp = pickle.load(open(os.path.join(hdp_folder_path, ha + ".dictionary"), "rb"))
                     nfv = []
                     hfv = []
@@ -115,25 +136,32 @@ def strategy_filterer(self):
                         hfv.append(hcp["values"][k]) if k in hcp["values"] else hfv.append(0.0)
                     similarity = 1.0 - scipy.spatial.distance.cosine(nfv, hfv)
                     columns_similarity[(d.name, na, hd.name, ha)] = similarity
-    print("Column profile similarities are calculated.")
     f1_measure = {}
-    for hdn in self.DATASETS:
+    for hdn in historical_datasets:
         if hdn != d.name:
-            hd = dataset.Dataset(self.DATASETS[hdn])
+            dataset_dictionary = {
+                "name": hdn,
+                "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", hdn, "dirty.csv")),
+                "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", hdn, "clean.csv"))
+            }
+            hd = raha.dataset.Dataset(dataset_dictionary)
             for hci, ha in enumerate(hd.dataframe.columns.tolist()):
-                ep_folder_path = os.path.join(d.results_folder, hd.name, "strategy-filtering",
-                                              "evaluation-profiling")
+                ep_folder_path = os.path.join(d.results_folder, hd.name, "evaluation-profiling")
                 strategies_performance = pickle.load(open(os.path.join(ep_folder_path, ha + ".dictionary"), "rb"))
                 if (hd.name, ha) not in f1_measure:
                     f1_measure[(hd.name, ha)] = {}
                 for strategy_name in strategies_performance:
                     f1_measure[(hd.name, ha)][strategy_name] = strategies_performance[strategy_name][2]
-    print("Previous strategy performances are loaded.")
     strategies_score = {a: {} for a in d.dataframe.columns.tolist()}
     for nci, na in enumerate(d.dataframe.columns.tolist()):
-        for hdn in self.DATASETS:
+        for hdn in historical_datasets:
             if hdn != d.name:
-                hd = dataset.Dataset(self.DATASETS[hdn])
+                dataset_dictionary = {
+                    "name": hdn,
+                    "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", hdn, "dirty.csv")),
+                    "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", hdn, "clean.csv"))
+                }
+                hd = raha.dataset.Dataset(dataset_dictionary)
                 for hci, ha in enumerate(hd.dataframe.columns.tolist()):
                     similarity = columns_similarity[(d.name, na, hd.name, ha)]
                     if similarity == 0:
@@ -144,13 +172,11 @@ def strategy_filterer(self):
                             continue
                         sn = json.loads(strategy_name)
                         if sn[0] == "dboost" or sn[0] == "katara":
-                            if strategy_name not in strategies_score[na] or score >= strategies_score[na][
-                                strategy_name]:
+                            if strategy_name not in strategies_score[na] or score >= strategies_score[na][strategy_name]:
                                 strategies_score[na][strategy_name] = score
                         elif sn[0] == "regex":
                             sn[1][0][0] = na
-                            if json.dumps(sn) not in strategies_score[na] or score >= strategies_score[na][
-                                json.dumps(sn)]:
+                            if json.dumps(sn) not in strategies_score[na] or score >= strategies_score[na][json.dumps(sn)]:
                                 strategies_score[na][json.dumps(sn)] = score
                         elif sn[0] == "fd_checker":
                             this_a_i = sn[1][0].index(ha)
@@ -163,20 +189,17 @@ def strategy_filterer(self):
                                     most_similar_a = aa
                             sn[1][0][this_a_i] = na
                             sn[1][0][1 - this_a_i] = most_similar_a
-                            if json.dumps(sn) not in strategies_score[na] or score >= strategies_score[na][
-                                json.dumps(sn)]:
+                            if json.dumps(sn) not in strategies_score[na] or score >= strategies_score[na][json.dumps(sn)]:
                                 strategies_score[na][json.dumps(sn)] = score
                         else:
                             sys.stderr.write("I do not know this error detection tool!\n")
-    print("Strategy scores are calculated.")
-    sp_folder_path = os.path.join(d.results_folder, d.name, "strategy-profiling")
+    sp_folder_path = os.path.join(d.results_folder, "strategy-profiling")
     strategies_output = {}
     strategies_runtime = {}
     for strategy_file in os.listdir(sp_folder_path):
         strategy_profile = pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
         strategies_output[strategy_profile["name"]] = strategy_profile["output"]
         strategies_runtime[strategy_profile["name"]] = strategy_profile["runtime"]
-    print("Outputs of the strategies are loaded.")
     for a in d.dataframe.columns.tolist():
         sorted_strategies = sorted(strategies_score[a].items(), key=operator.itemgetter(1), reverse=True)
         good_strategies = {}
@@ -212,57 +235,3 @@ def strategy_filterer(self):
                 os.path.join(nsp_folder_path, snd[0] + "-" + str(len(os.listdir(nsp_folder_path))) + ".dictionary"),
                 "wb"))
     print("Promising error detection strategies are stored.")
-
-
-
-
-
-
-
-
-
-
-
-    #
-    #
-    # def run_dboost(dd):
-    #     """
-    #     This method runs dBoost.
-    #     """
-    #     d = dataset.Dataset(dd)
-    #     self.d.results_folder = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + self.d.name)
-    #     configuration_list = [
-    #         list(a) for a in
-    #         list(itertools.product(["histogram"], ["0.7", "0.8", "0.9"], ["0.1", "0.2", "0.3"])) +
-    #         list(itertools.product(["gaussian"], ["2.5", "2.7", "3.0"]))]
-    #     dataset_path = os.path.join(tempfile.gettempdir(), d.name + "-for-dboost.csv")
-    #     d.write_csv_dataset(dataset_path, d.dataframe)
-    #     outputted_cells_per_configuration = {}
-    #     for configuration in configuration_list:
-    #         configuration_string = json.dumps(configuration)
-    #         print("Running {}...".format(configuration_string))
-    #         outputted_cells_per_configuration[configuration_string] = {}
-    #         params = ["-F", ",", "--statistical", "0.5"] + ["--" + configuration[0]] + configuration[1:] + [dataset_path]
-    #         tools.dBoost.dboost.imported_dboost.run(params)
-    #         algorithm_results_path = dataset_path + "-dboost_output.csv"
-    #         if os.path.exists(algorithm_results_path):
-    #             ocdf = pandas.read_csv(algorithm_results_path, sep=",", header=None, encoding="utf-8", dtype=str,
-    #                                    keep_default_na=False, low_memory=False).apply(lambda x: x.str.strip())
-    #             for i, j in ocdf.values.tolist():
-    #                 if int(i) > 0:
-    #                     outputted_cells_per_configuration[configuration_string][(int(i) - 1, int(j))] = "JUST A DUMMY VALUE"
-    #             os.remove(algorithm_results_path)
-    #     os.remove(dataset_path)
-    #     random_tuples_list = [i for i in random.sample(range(d.dataframe.shape[0]), d.dataframe.shape[0])]
-    #     labeled_tuples = {i: 1 for i in random_tuples_list[:int(d.dataframe.shape[0] / 100.0)]}
-    #     best_configuration = ""
-    #     best_performance = -1.0
-    #     for configuration_string in outputted_cells_per_configuration:
-    #         er = d.get_data_cleaning_evaluation(outputted_cells_per_configuration[configuration_string],
-    #                                             sampled_rows_dictionary=labeled_tuples)[:3]
-    #         if er[2] > best_performance:
-    #             best_performance = er[2]
-    #             best_configuration = configuration_string
-    #     return outputted_cells_per_configuration[best_configuration]
-
-

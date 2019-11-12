@@ -36,7 +36,7 @@ class Benchmark:
         The constructor.
         """
         self.RUN_COUNT = 10
-        self.DATASETS = ["hospital", "flights", "beers", "movies_1", "tax"]
+        self.DATASETS = ["hospital", "flights", "beers", "rayyan", "movies_1", "tax"]
 
     def experiment_1(self):
         """
@@ -198,15 +198,15 @@ class Benchmark:
                 for feature_specification in results:
                     if feature_specification == "TF-IDF":
                         detector.ERROR_DETECTION_ALGORITHMS = ["TFIDF"]
-                    elif feature_specification == "All - OD":
+                    if feature_specification == "All - OD":
                         detector.ERROR_DETECTION_ALGORITHMS = ["PVD", "RVD", "KBVD"]
-                    elif feature_specification == "All - PVD":
+                    if feature_specification == "All - PVD":
                         detector.ERROR_DETECTION_ALGORITHMS = ["OD", "RVD", "KBVD"]
-                    elif feature_specification == "All - RVD":
+                    if feature_specification == "All - RVD":
                         detector.ERROR_DETECTION_ALGORITHMS = ["OD", "PVD", "KBVD"]
-                    elif feature_specification == "All - KBVD":
+                    if feature_specification == "All - KBVD":
                         detector.ERROR_DETECTION_ALGORITHMS = ["OD", "PVD", "RVD"]
-                    elif feature_specification == "All":
+                    if feature_specification == "All":
                         detector.ERROR_DETECTION_ALGORITHMS = ["OD", "PVD", "RVD", "KBVD"]
                     detection_dictionary = detector.run(dataset_dictionary)
                     er = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
@@ -281,6 +281,15 @@ class Benchmark:
             raha.utilities.dataset_profiler(d)
             raha.utilities.evaluation_profiler(d)
         # for r in range(self.RUN_COUNT):
+        #     for dataset_name in self.DATASETS:
+        #         dataset_dictionary = {
+        #             "name": dataset_name,
+        #             "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
+        #             "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
+        #         }
+        #         d = raha.dataset.Dataset(dataset_dictionary)
+        #         selected_strategies = raha.utilities.get_selected_strategies(d, self.DATASETS)
+
 
     def experiment_5(self):
         """
@@ -393,15 +402,15 @@ class Benchmark:
                 for classification_model in results:
                     if classification_model == "AdaBoost":
                         detector.CLASSIFICATION_MODEL = "ABC"
-                    elif classification_model == "Decision Tree":
+                    if classification_model == "Decision Tree":
                         detector.CLASSIFICATION_MODEL = "DTC"
-                    elif classification_model == "Gradient Boosting":
+                    if classification_model == "Gradient Boosting":
                         detector.CLASSIFICATION_MODEL = "GBC"
-                    elif classification_model == "Gaussian Naive Bayes":
+                    if classification_model == "Gaussian Naive Bayes":
                         detector.CLASSIFICATION_MODEL = "GNB"
-                    elif classification_model == "Stochastic Gradient Descent":
+                    if classification_model == "Stochastic Gradient Descent":
                         detector.CLASSIFICATION_MODEL = "SGDC"
-                    elif classification_model == "Support Vectors Machines":
+                    if classification_model == "Support Vectors Machines":
                         detector.CLASSIFICATION_MODEL = "SVC"
                     detection_dictionary = detector.run(dataset_dictionary)
                     er = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
@@ -421,13 +430,23 @@ class Benchmark:
 ########################################
 if __name__ == "__main__":
     app = Benchmark()
-    # app.experiment_1()
-    # app.experiment_2()
-    # app.experiment_3()
-    # app.experiment_4()
-    # app.experiment_5()
-    # app.experiment_6()
-    # app.experiment_7()
+    if "fast" in sys.argv:
+        app.RUN_COUNT = 1
+        app.DATASETS = ["hospital", "flights"]
+    if "1" in sys.argv:
+        app.experiment_1()
+    if "2" in sys.argv:
+        app.experiment_2()
+    if "3" in sys.argv:
+        app.experiment_3()
+    if "4" in sys.argv:
+        app.experiment_4()
+    if "5" in sys.argv:
+        app.experiment_5()
+    if "6" in sys.argv:
+        app.experiment_6()
+    if "7" in sys.argv:
+        app.experiment_7()
 ########################################
 
 
