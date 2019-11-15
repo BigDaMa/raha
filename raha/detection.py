@@ -264,24 +264,22 @@ class Detection:
             random.shuffle(algorithm_and_configurations)
             pool = multiprocessing.Pool()
             strategy_profiles_list = pool.map(self.strategy_runner_process, algorithm_and_configurations)
-            pool.close()
-            pool.join()
+            # pool.close()
+            # pool.join()
         print("------------------------------------------------------------------------\n"
               "-----------------------Generating Feature Vectors-----------------------\n"
               "------------------------------------------------------------------------")
-        fe_args = [[d, j, strategy_profiles_list] for j in range(d.dataframe.shape[1])]
-        pool = multiprocessing.Pool()
-        columns_features_list = pool.map(self.feature_extractor_process, fe_args)
-        pool.close()
-        pool.join()
+        columns_features_list = []
+        for j in range(d.dataframe.shape[1]):
+            fe_args = [d, j, strategy_profiles_list]
+            columns_features_list.append(self.feature_extractor_process(fe_args))
         print("------------------------------------------------------------------------\n"
               "---------------Building the Hierarchical Clustering Model---------------\n"
               "------------------------------------------------------------------------")
-        bc_args = [[d, j, feature_vectors] for j, feature_vectors in enumerate(columns_features_list)]
-        pool = multiprocessing.Pool()
-        clustering_results = pool.map(self.cluster_builder_process, bc_args)
-        pool.close()
-        pool.join()
+        clustering_results = []
+        for j in range(d.dataframe.shape[1]):
+            bc_args = [d, j, columns_features_list[j]]
+            clustering_results.append(self.cluster_builder_process(bc_args))
         clustering_range = range(2, self.LABELING_BUDGET + 2)
         clusters_k_j_c_ce = {k: {j: clustering_results[j][0][k] for j in range(d.dataframe.shape[1])} for k in clustering_range}
         cells_clusters_k_j_ce = {k: {j: clustering_results[j][1][k] for j in range(d.dataframe.shape[1])} for k in clustering_range}
@@ -359,13 +357,9 @@ class Detection:
               "---------------Training and Testing Classification Models---------------\n"
               "------------------------------------------------------------------------")
         detection_dictionary = {}
-        c_args = [[d, j, columns_features_list[j], labeled_tuples, extended_labeled_cells] for j in range(d.dataframe.shape[1])]
-        pool = multiprocessing.Pool()
-        columns_detection_dictionaries_list = pool.map(self.classification_process, c_args)
-        pool.close()
-        pool.join()
-        for column_detection_dictionary in columns_detection_dictionaries_list:
-            detection_dictionary.update(column_detection_dictionary)
+        for j in range(d.dataframe.shape[1]):
+            c_args = [d, j, columns_features_list[j], labeled_tuples, extended_labeled_cells]
+            detection_dictionary.update(self.classification_process(c_args))
         # IPython.display.display(d.dataframe.style.apply(
         #    lambda x: ["background-color: red" if (i, d.dataframe.columns.get_loc(x.name)) in detection_dictionary else ""
         #              for i, cv in enumerate(x)]))
