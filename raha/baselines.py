@@ -57,7 +57,7 @@ class Baselines:
                 "functions": [["brewery_id", "brewery_name"], ["brewery_id", "city"], ["brewery_id", "state"]],
                 "patterns": [["state", "^[A-Z]{2}$", "ONM"], ["brewery_id", "^[\d]+$", "ONM"]]
             },
-            "citation": {
+            "rayyan": {
                 "functions": [["jounral_abbreviation", "journal_title"], ["jounral_abbreviation", "journal_issn"],
                               ["journal_issn", "journal_title"]],
                 "patterns": [
