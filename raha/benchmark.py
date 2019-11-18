@@ -50,10 +50,10 @@ class Benchmark:
                    "KATARA": {dn: [] for dn in self.DATASETS},
                    "ActiveClean": {dn: {"Cell-Wise": [], "Tuple-Wise": []} for dn in self.DATASETS},
                    "Raha": {dn: {"Cell-Wise": [], "Tuple-Wise": []} for dn in self.DATASETS}}
-        detector = raha.detection.Detection()
-        detector.VERBOSE = False
-        competitor = raha.baselines.Baselines()
         for r in range(self.RUN_COUNT):
+            detector = raha.detection.Detection()
+            detector.VERBOSE = False
+            competitor = raha.baselines.Baselines()
             for dataset_name in self.DATASETS:
                 dataset_dictionary = {
                     "name": dataset_name,
@@ -123,6 +123,9 @@ class Benchmark:
                    "Metadata Driven": {dn: {s: [] for s in sampling_range} for dn in self.DATASETS},
                    "Raha": {dn: {s: [] for s in sampling_range} for dn in self.DATASETS}}
         for r in range(self.RUN_COUNT):
+            detector = raha.detection.Detection()
+            detector.VERBOSE = False
+            competitor = raha.baselines.Baselines()
             for dataset_name in self.DATASETS:
                 dataset_dictionary = {
                     "name": dataset_name,
@@ -185,9 +188,9 @@ class Benchmark:
                    "All - RVD": {dn: [] for dn in self.DATASETS},
                    "All - KBVD": {dn: [] for dn in self.DATASETS},
                    "All": {dn: [] for dn in self.DATASETS}}
-        detector = raha.detection.Detection()
-        detector.VERBOSE = False
         for r in range(self.RUN_COUNT):
+            detector = raha.detection.Detection()
+            detector.VERBOSE = False
             for dataset_name in self.DATASETS:
                 dataset_dictionary = {
                     "name": dataset_name,
@@ -231,9 +234,9 @@ class Benchmark:
         sampling_range = [5, 10, 15, 20, 25, 30]
         results = {"Uniform": {dn: {s: [] for s in sampling_range} for dn in self.DATASETS},
                    "Clustering-Based": {dn: {s: [] for s in sampling_range} for dn in self.DATASETS}}
-        detector = raha.detection.Detection()
-        detector.VERBOSE = False
         for r in range(self.RUN_COUNT):
+            detector = raha.detection.Detection()
+            detector.VERBOSE = False
             for dataset_name in self.DATASETS:
                 dataset_dictionary = {
                     "name": dataset_name,
@@ -268,28 +271,60 @@ class Benchmark:
         print("------------------------------------------------------------------------\n"
               "------------Experiment 4: Strategy Filtering Impact Analysis------------\n"
               "------------------------------------------------------------------------")
-        results = {"Without Strategy Filtering": {dn: [] for dn in self.DATASETS},
-                   "With Strategy Filtering": {dn: [] for dn in self.DATASETS}}
-        for dataset_name in self.DATASETS:
+        historical_datasets = ["hospital", "flights", "beers", "rayyan", "movies_1", "tax"]
+        strategy_filtering_approaches = ["Strategy Filtering via Least Effective Selection",
+                                         "Strategy Filtering via Historical Data",
+                                         "Strategy Filtering via Most Effective Selection",
+                                         "Without Strategy Filtering"]
+        results = {sfa: {dn: [] for dn in self.DATASETS} for sfa in strategy_filtering_approaches}
+        historical_dataset_dictionaries = []
+        for dataset_name in historical_datasets:
             dataset_dictionary = {
                 "name": dataset_name,
                 "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                 "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
             }
-            d = raha.dataset.Dataset(dataset_dictionary)
-            d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + d.name)
-            raha.utilities.dataset_profiler(d)
-            raha.utilities.evaluation_profiler(d)
-        # for r in range(self.RUN_COUNT):
-        #     for dataset_name in self.DATASETS:
-        #         dataset_dictionary = {
-        #             "name": dataset_name,
-        #             "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
-        #             "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
-        #         }
-        #         d = raha.dataset.Dataset(dataset_dictionary)
-        #         selected_strategies = raha.utilities.get_selected_strategies(d, self.DATASETS)
-
+            # TODO
+            # raha.utilities.dataset_profiler(dataset_dictionary)
+            # raha.utilities.evaluation_profiler(dataset_dictionary)
+            historical_dataset_dictionaries.append(dataset_dictionary)
+        for r in range(self.RUN_COUNT):
+            detector = raha.detection.Detection()
+            detector.VERBOSE = False
+            for dataset_name in self.DATASETS:
+                dataset_dictionary = {
+                    "name": dataset_name,
+                    "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
+                    "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
+                }
+                d = raha.dataset.Dataset(dataset_dictionary)
+                detection_dictionary = detector.run(dataset_dictionary)
+                strategies_count, runtime = raha.utilities.get_strategies_count_and_runtime(dataset_dictionary)
+                er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [strategies_count, runtime]
+                results["Without Strategy Filtering"][dataset_name].append(er)
+                selected_strategies = raha.utilities.get_selected_strategies_via_historical_data(dataset_dictionary, historical_dataset_dictionaries)
+                detection_dictionary = raha.utilities.error_detection_with_selected_strategies(dataset_dictionary, selected_strategies)
+                strategies_count, runtime = [len(selected_strategies), sum([sp["runtime"] for sp in selected_strategies])]
+                er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [strategies_count, runtime]
+                results["Strategy Filtering via Historical Data"][dataset_name].append(er)
+                worst_strategies, best_strategies = raha.utilities.get_selected_strategies_via_ground_truth(dataset_dictionary, strategies_count)
+                detection_dictionary = raha.utilities.error_detection_with_selected_strategies(dataset_dictionary, worst_strategies)
+                strategies_count, runtime = [len(worst_strategies), sum([sp["runtime"] for sp in worst_strategies])]
+                er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [strategies_count, runtime]
+                results["Strategy Filtering via Least Effective Selection"][dataset_name].append(er)
+                detection_dictionary = raha.utilities.error_detection_with_selected_strategies(dataset_dictionary, best_strategies)
+                strategies_count, runtime = [len(best_strategies), sum([sp["runtime"] for sp in best_strategies])]
+                er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [strategies_count, runtime]
+                results["Strategy Filtering via Most Effective Selection"][dataset_name].append(er)
+        table_1 = prettytable.PrettyTable(["Approach"] + self.DATASETS)
+        for strategy_filtering_approach in strategy_filtering_approaches:
+            row = [strategy_filtering_approach]
+            for dataset_name in self.DATASETS:
+                p, r, f, sc, rt = numpy.mean(numpy.array(results[strategy_filtering_approach][dataset_name]), axis=0)
+                row.append("{:.2f}, {:.2f}, {:.2f}, {:.0f}, {:.0f}".format(p, r, f, sc, rt))
+            table_1.add_row(row)
+        print("System performance with different strategy filtering approaches. (Precision, recall, f1 score, selected strategies count, and runtime (seconds))")
+        print(table_1)
 
     def experiment_5(self):
         """
@@ -301,9 +336,9 @@ class Benchmark:
         user_labeling_error_range = [0.0, 0.02, 0.04, 0.06, 0.08, 0.1]
         results = {"Homogeneity Resolution": {dn: {e: [] for e in user_labeling_error_range} for dn in self.DATASETS},
                    "Majority Resolution": {dn: {e: [] for e in user_labeling_error_range} for dn in self.DATASETS}}
-        detector = raha.detection.Detection()
-        detector.VERBOSE = False
         for r in range(self.RUN_COUNT):
+            detector = raha.detection.Detection()
+            detector.VERBOSE = False
             for dataset_name in self.DATASETS:
                 dataset_dictionary = {
                     "name": dataset_name,
@@ -340,8 +375,6 @@ class Benchmark:
               "------------------------------------------------------------------------")
         rows_counts_list = [50000, 100000, 150000, 200000]
         results = {rc: [] for rc in rows_counts_list}
-        detector = raha.detection.Detection()
-        detector.VERBOSE = False
         dataset_dictionary = {
             "name": "tax",
             "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", "tax", "dirty.csv")),
@@ -349,6 +382,8 @@ class Benchmark:
         }
         d_tax = raha.dataset.Dataset(dataset_dictionary)
         for r in range(self.RUN_COUNT):
+            detector = raha.detection.Detection()
+            detector.VERBOSE = False
             for rows_count in rows_counts_list:
                 dataset_name = "tax_{}".format(rows_count)
                 nd_folder_path = os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name)
@@ -389,9 +424,9 @@ class Benchmark:
                    "Gaussian Naive Bayes": {dn: [] for dn in self.DATASETS},
                    "Stochastic Gradient Descent": {dn: [] for dn in self.DATASETS},
                    "Support Vectors Machines": {dn: [] for dn in self.DATASETS}}
-        detector = raha.detection.Detection()
-        detector.VERBOSE = False
         for r in range(self.RUN_COUNT):
+            detector = raha.detection.Detection()
+            detector.VERBOSE = False
             for dataset_name in self.DATASETS:
                 dataset_dictionary = {
                     "name": dataset_name,
