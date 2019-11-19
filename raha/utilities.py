@@ -15,7 +15,6 @@ import sys
 import math
 import json
 import pickle
-import shutil
 import random
 import operator
 import itertools
@@ -237,6 +236,77 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
     return selected_strategy_profiles
 
 
+def get_selected_strategies_via_ground_truth(dataset_dictionary, strategies_count):
+    """
+    This method uses the ground truth to rank error detection strategies for the dataset.
+    """
+    print("------------------------------------------------------------------------\n"
+          "---Selecting Worst, Random, and Best Strategies Based on Ground Truth---\n"
+          "------------------------------------------------------------------------")
+    d = raha.dataset.Dataset(dataset_dictionary)
+    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + d.name)
+    f1_measure = {}
+    ep_folder_path = os.path.join(d.results_folder, "evaluation-profiling")
+    for nci, na in enumerate(d.dataframe.columns.tolist()):
+        strategies_performance = pickle.load(open(os.path.join(ep_folder_path, na + ".dictionary"), "rb"))
+        for strategy_name in strategies_performance:
+            f1_measure[(na, strategy_name)] = strategies_performance[strategy_name][2]
+    sorted_f1_measure = sorted(f1_measure.items(), key=operator.itemgetter(1))
+    worst_strategies = {s: f1 for s, f1 in sorted_f1_measure[:strategies_count]}
+    random_strategies = {s: f1 for s, f1 in [sorted_f1_measure[i] for i in
+                                             random.sample(range(len(sorted_f1_measure)), strategies_count)]}
+    best_strategies = {s: f1 for s, f1 in sorted_f1_measure[-strategies_count:]}
+    sp_folder_path = os.path.join(d.results_folder, "strategy-profiling")
+    worst_strategy_profiles = []
+    random_strategy_profiles = []
+    best_strategy_profiles = []
+    for strategy_file in os.listdir(sp_folder_path):
+        strategy_profile = pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
+        for a in d.dataframe.columns.tolist():
+            snd = json.loads(strategy_profile["name"])
+            runtime = 0.0
+            if snd[0] == "OD" or snd[0] == "KBVD":
+                runtime = strategy_profile["runtime"] / d.dataframe.shape[1]
+            elif snd[0] == "PVD":
+                runtime = strategy_profile["runtime"]
+            elif snd[0] == "RVD":
+                runtime = strategy_profile["runtime"] / 2
+            else:
+                sys.stderr.write("I do not know this error detection tool!\n")
+            sp = {
+                "name": strategy_profile["name"],
+                "output": [cell for cell in strategy_profile["output"] if d.dataframe.columns.tolist()[cell[1]] == a],
+                "runtime": runtime
+            }
+            if (a, strategy_profile["name"]) in worst_strategies:
+                worst_strategy_profiles.append(sp)
+            if (a, strategy_profile["name"]) in random_strategies:
+                random_strategy_profiles.append(sp)
+            if (a, strategy_profile["name"]) in best_strategies:
+                best_strategy_profiles.append(sp)
+    return worst_strategy_profiles, random_strategy_profiles, best_strategy_profiles
+
+
+def get_strategies_count_and_runtime(dataset_dictionary):
+    """
+    This method calculates the number of all strategies and their total runtime.
+    """
+    d = raha.dataset.Dataset(dataset_dictionary)
+    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + d.name)
+    sp_folder_path = os.path.join(d.results_folder, "strategy-profiling")
+    strategies_count = 0
+    strategies_runtime = 0
+    for strategy_file in os.listdir(sp_folder_path):
+        strategy_profile = pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
+        strategies_runtime += strategy_profile["runtime"]
+        sn = json.loads(strategy_profile["name"])
+        if sn[0] in ["OD", "KBVD"]:
+            strategies_count += d.dataframe.shape[1]
+        if sn[0] in ["PVD", "RVD"]:
+            strategies_count += 1
+    return strategies_count, strategies_runtime
+
+
 def error_detection_with_selected_strategies(dataset_dictionary, strategy_profiles_list):
     """
     This method runs Raha on an input dataset to detection data errors with only the given strategy profiles.
@@ -321,7 +391,6 @@ def error_detection_with_selected_strategies(dataset_dictionary, strategy_profil
             if (i in labeled_tuples and extended_labeled_cells[(i, j)]) or (i not in labeled_tuples and pl):
                 detection_dictionary[(i, j)] = "JUST A DUMMY VALUE"
         return detection_dictionary
-
 
     LABELING_BUDGET = 20
     USER_LABELING_ACCURACY = 1.0
@@ -418,48 +487,4 @@ def error_detection_with_selected_strategies(dataset_dictionary, strategy_profil
         c_args = [d, j, columns_features_list[j], labeled_tuples, extended_labeled_cells]
         detection_dictionary.update(classification_process(c_args))
     return detection_dictionary
-
-
-def get_strategies_count_and_runtime(dataset_dictionary):
-    """
-    This method calculates the number of all strategies and their total runtime.
-    """
-    d = raha.dataset.Dataset(dataset_dictionary)
-    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + d.name)
-    sp_folder_path = os.path.join(d.results_folder, "strategy-profiling")
-    strategies_count = 0
-    strategies_runtime = 0
-    for strategy_file in os.listdir(sp_folder_path):
-        strategy_profile = pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
-        strategies_runtime += strategy_profile["runtime"]
-        sn = json.loads(strategy_profile["name"])
-        if sn[0] in ["OD", "KBVD"]:
-            strategies_count += d.dataframe.shape[1]
-        if sn[0] in ["PVD", "RVD"]:
-            strategies_count += 1
-    return strategies_count, strategies_runtime
-
-
-def get_selected_strategies_via_ground_truth(dataset_dictionary, strategies_count):
-    """
-    This method uses the ground truth to rank error detection strategies for the dataset.
-    """
-    print("------------------------------------------------------------------------\n"
-          "--------Selecting Best and Worst Strategies Based on Ground Truth-------\n"
-          "------------------------------------------------------------------------")
-    d = raha.dataset.Dataset(dataset_dictionary)
-    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + d.name)
-    f1_measure = {}
-    ep_folder_path = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + dataset_dictionary["name"], "evaluation-profiling")
-    for nci, na in enumerate(d.dataframe.columns.tolist()):
-        strategies_performance = pickle.load(open(os.path.join(ep_folder_path, na + ".dictionary"), "rb"))
-        if (d.name, na) not in f1_measure:
-            f1_measure[(d.name, na)] = {}
-        for strategy_name in strategies_performance:
-            f1_measure[(d.name, na)][strategy_name] = strategies_performance[strategy_name][2]
-    sorted_f1_measure = sorted(f1_measure.items(), key=operator.itemgetter(1))
-    worst_strategies = sorted_f1_measure[:strategies_count]
-    best_strategies = sorted_f1_measure[-strategies_count:]
-
-
 

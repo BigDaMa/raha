@@ -36,7 +36,7 @@ class Benchmark:
         The constructor.
         """
         self.RUN_COUNT = 10
-        self.DATASETS = ["hospital", "flights", "beers", "rayyan", "movies_1", "tax"]
+        self.DATASETS = ["hospital", "flights", "beers", "rayyan", "movies_1"]
 
     def experiment_1(self):
         """
@@ -271,8 +271,9 @@ class Benchmark:
         print("------------------------------------------------------------------------\n"
               "------------Experiment 4: Strategy Filtering Impact Analysis------------\n"
               "------------------------------------------------------------------------")
-        historical_datasets = ["hospital", "flights", "beers", "rayyan", "movies_1", "tax"]
+        historical_datasets = ["hospital", "flights", "beers", "rayyan", "movies_1"]
         strategy_filtering_approaches = ["Strategy Filtering via Least Effective Selection",
+                                         "Strategy Filtering via Uniform Selection",
                                          "Strategy Filtering via Historical Data",
                                          "Strategy Filtering via Most Effective Selection",
                                          "Without Strategy Filtering"]
@@ -284,9 +285,8 @@ class Benchmark:
                 "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                 "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
             }
-            # TODO
-            # raha.utilities.dataset_profiler(dataset_dictionary)
-            # raha.utilities.evaluation_profiler(dataset_dictionary)
+            raha.utilities.dataset_profiler(dataset_dictionary)
+            raha.utilities.evaluation_profiler(dataset_dictionary)
             historical_dataset_dictionaries.append(dataset_dictionary)
         for r in range(self.RUN_COUNT):
             detector = raha.detection.Detection()
@@ -307,11 +307,15 @@ class Benchmark:
                 strategies_count, runtime = [len(selected_strategies), sum([sp["runtime"] for sp in selected_strategies])]
                 er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [strategies_count, runtime]
                 results["Strategy Filtering via Historical Data"][dataset_name].append(er)
-                worst_strategies, best_strategies = raha.utilities.get_selected_strategies_via_ground_truth(dataset_dictionary, strategies_count)
+                worst_strategies, random_strategies, best_strategies = raha.utilities.get_selected_strategies_via_ground_truth(dataset_dictionary, strategies_count)
                 detection_dictionary = raha.utilities.error_detection_with_selected_strategies(dataset_dictionary, worst_strategies)
                 strategies_count, runtime = [len(worst_strategies), sum([sp["runtime"] for sp in worst_strategies])]
                 er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [strategies_count, runtime]
                 results["Strategy Filtering via Least Effective Selection"][dataset_name].append(er)
+                detection_dictionary = raha.utilities.error_detection_with_selected_strategies(dataset_dictionary, random_strategies)
+                strategies_count, runtime = [len(random_strategies), sum([sp["runtime"] for sp in random_strategies])]
+                er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [strategies_count, runtime]
+                results["Strategy Filtering via Uniform Selection"][dataset_name].append(er)
                 detection_dictionary = raha.utilities.error_detection_with_selected_strategies(dataset_dictionary, best_strategies)
                 strategies_count, runtime = [len(best_strategies), sum([sp["runtime"] for sp in best_strategies])]
                 er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [strategies_count, runtime]
