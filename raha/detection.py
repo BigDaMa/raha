@@ -390,5 +390,8 @@ if __name__ == "__main__":
         "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
     }
     app = Detection()
-    app.run(dataset_dictionary)
+    detection_dictionary = app.run(dataset_dictionary)
+    d = raha.dataset.Dataset(dataset_dictionary)
+    p, r, f = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
+    print("Raha's performance on {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(d.name, p, r, f))
 ########################################

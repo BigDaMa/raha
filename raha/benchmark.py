@@ -17,6 +17,7 @@ import shutil
 
 import numpy
 import prettytable
+import matplotlib.pyplot
 
 import raha.dataset
 import raha.detection
@@ -133,18 +134,32 @@ class Benchmark:
                         er = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
                         results[aggregator_system][dataset_name][s].append(er)
         table_3 = prettytable.PrettyTable(["Approach"] + self.DATASETS)
+        f_scores = {}
         for aggregator_system in aggregator_systems:
             row = [aggregator_system]
             for dataset_name in self.DATASETS:
                 f_list = [numpy.mean(numpy.array(results[aggregator_system][dataset_name][s]), axis=0)[2] for s in sampling_range]
                 row.append(((len(sampling_range) - 1) * "{:.2f}, " + "{:.2f}").format(*f_list))
+                f_scores[(aggregator_system, dataset_name)] = f_list
             table_3.add_row(row)
+        fig, axs = matplotlib.pyplot.subplots(nrows=1, ncols=len(self.DATASETS))
+        for i, ax in enumerate(axs):
+            ax.set_title(self.DATASETS[i])
+            ax.set(xlabel="Labeled Tuples Count", ylabel="F1 Score")
+            ax.set_ylim([0.0, 1.0])
+            ax.grid(True)
+            for aggregator_system in aggregator_systems:
+                f_list = f_scores[(aggregator_system, self.DATASETS[i])]
+                ax.plot([0] + sampling_range, [0 if aggregator_system != "Min-k" else f_list[0]] + f_list)
+            ax.legend(aggregator_systems, bbox_to_anchor=(0.8, -0.07))
         print("Comparison with the stand-alone error detection tools. (Precision, recall, f1 score)")
         print(table_1)
         print("Comparison in terms of detecting erroneous tuples. (Tuple-wise precision, recall, f1 score)")
         print(table_2)
         print("Comparison with the error detection aggregators. (F1 score with the respective numbers of labeled tuples: {})".format(sampling_range))
         print(table_3)
+        fig.suptitle("Comparison with the error detection aggregators.", fontsize=20)
+        matplotlib.pyplot.show()
 
     def experiment_2(self):
         """
@@ -222,14 +237,28 @@ class Benchmark:
                         er = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
                         results[sampling_approach][dataset_name][s].append(er)
         table_1 = prettytable.PrettyTable(["Approach"] + self.DATASETS)
+        f_scores = {}
         for sampling_approach in sampling_approaches:
             row = [sampling_approach]
             for dataset_name in self.DATASETS:
                 f_list = [numpy.mean(numpy.array(results[sampling_approach][dataset_name][s]), axis=0)[2] for s in sampling_range]
                 row.append(((len(sampling_range) - 1) * "{:.2f}, " + "{:.2f}").format(*f_list))
+                f_scores[(sampling_approach, dataset_name)] = f_list
             table_1.add_row(row)
+        fig, axs = matplotlib.pyplot.subplots(nrows=1, ncols=len(self.DATASETS))
+        for i, ax in enumerate(axs):
+            ax.set_title(self.DATASETS[i])
+            ax.set(xlabel="Labeled Tuples Count", ylabel="F1 Score")
+            ax.set_ylim([0.0, 1.0])
+            ax.grid(True)
+            for sampling_approach in sampling_approaches:
+                f_list = f_scores[(sampling_approach, self.DATASETS[i])]
+                ax.plot([0] + sampling_range, [0] + f_list)
+            ax.legend(sampling_approaches, bbox_to_anchor=(0.8, -0.07))
         print("System effectiveness with different sampling approaches. (F1 score with the respective numbers of labeled tuples: {})".format(sampling_range))
         print(table_1)
+        fig.suptitle("System effectiveness with different sampling approaches.", fontsize=20)
+        matplotlib.pyplot.show()
 
     def experiment_4(self):
         """
@@ -292,14 +321,43 @@ class Benchmark:
                     er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [strategies_count, runtime]
                     results[strategy_filtering_approach][dataset_name].append(er)
         table_1 = prettytable.PrettyTable(["Approach"] + self.DATASETS)
+        f_scores_and_runtime = {}
         for strategy_filtering_approach in strategy_filtering_approaches:
             row = [strategy_filtering_approach]
             for dataset_name in self.DATASETS:
                 p, r, f, sc, rt = numpy.mean(numpy.array(results[strategy_filtering_approach][dataset_name]), axis=0)
                 row.append("{:.2f}, {:.2f}, {:.2f}, {:.0f}, {:.0f}".format(p, r, f, sc, rt))
+                f_scores_and_runtime[(strategy_filtering_approach, dataset_name)] = f, rt
             table_1.add_row(row)
+        fig, axs = matplotlib.pyplot.subplots(nrows=1, ncols=2)
+        width = 0.35
+        x = numpy.arange(len(self.DATASETS))
+        for i, ax in enumerate(axs):
+            if i == 0:
+                r_1 = [f_scores_and_runtime[("No Strategy Filtering", dn)][1] for dn in self.DATASETS]
+                r_2 = [f_scores_and_runtime[("Strategy Filtering via Historical Data", dn)][1] for dn in self.DATASETS]
+                ax.bar(x - width / 2, r_1, width)
+                ax.bar(x + width / 2, r_2, width)
+                ax.set(xlabel="Dataset", ylabel="Runtime (seconds)")
+                ax.set_xticks(x)
+                ax.set_xticklabels(self.DATASETS)
+                ax.set_yscale("log")
+                ax.grid(True)
+                ax.legend(["No Strategy Filtering", "Strategy Filtering via Historical Data"], bbox_to_anchor=(0.6, -0.07))
+            if i == 1:
+                for si, strategy_filtering_approach in enumerate(strategy_filtering_approaches):
+                    f = [f_scores_and_runtime[(strategy_filtering_approach, dn)][0] for dn in self.DATASETS]
+                    ax.bar(x + (si - 3) * width / 5, f, width / 10)
+                ax.set(xlabel="Dataset", ylabel="F1 Score")
+                ax.set_xticks(x)
+                ax.set_xticklabels(self.DATASETS)
+                ax.set_ylim([0.0, 1.0])
+                ax.grid(True)
+                ax.legend(strategy_filtering_approaches, bbox_to_anchor=(0.6, -0.07))
         print("System performance with different strategy filtering approaches. (Precision, recall, f1 score, selected strategies count, and runtime (seconds))")
         print(table_1)
+        fig.suptitle("System performance with different strategy filtering approaches.", fontsize=20)
+        matplotlib.pyplot.show()
 
     def experiment_5(self):
         """
@@ -332,14 +390,28 @@ class Benchmark:
                         er = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
                         results[label_propagation_approach][dataset_name][e].append(er)
         table_1 = prettytable.PrettyTable(["Approach"] + self.DATASETS)
+        f_scores = {}
         for label_propagation_approach in label_propagation_approaches:
             row = [label_propagation_approach]
             for dataset_name in self.DATASETS:
                 f_list = [numpy.mean(numpy.array(results[label_propagation_approach][dataset_name][e]), axis=0)[2] for e in user_labeling_error_range]
                 row.append(((len(user_labeling_error_range) - 1) * "{:.2f}, " + "{:.2f}").format(*f_list))
+                f_scores[(label_propagation_approach, dataset_name)] = f_list
             table_1.add_row(row)
+        fig, axs = matplotlib.pyplot.subplots(nrows=1, ncols=len(label_propagation_approaches))
+        for i, ax in enumerate(axs):
+            ax.set_title(label_propagation_approaches[i])
+            ax.set(xlabel="User Labeling Error Rate (%)", ylabel="F1 Score")
+            ax.set_ylim([0.0, 1.0])
+            ax.grid(True)
+            for dataset_name in self.DATASETS:
+                f_list = f_scores[(label_propagation_approaches[i], dataset_name)]
+                ax.plot([e * 100 for e in user_labeling_error_range], f_list)
+            ax.legend(self.DATASETS, bbox_to_anchor=(0.8, -0.07))
         print("System effectiveness in the presence of user. (F1 score with the respective user labeling error portions: {})".format(user_labeling_error_range))
         print(table_1)
+        fig.suptitle("System effectiveness in the presence of user.", fontsize=20)
+        matplotlib.pyplot.show()
 
     def experiment_6(self):
         """

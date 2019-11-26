@@ -81,7 +81,8 @@ class Baselines:
                 "functions": [],
                 "patterns": [["id", "^tt[\d]+$", "ONM"], ["year", "^[\d]{4}$", "ONM"],
                              ["rating_value", "^[\d.]*$", "ONM"],
-                             ["rating_count", "^[\d]*$", "ONM"], ["duration", "^([\d]+[ ]min)*$", "ONM"]]
+                             # ["rating_count", "^[\d]*$", "ONM"],
+                             ["duration", "^([\d]+[ ]min)*$", "ONM"]]
             },
             "merck": {
                 "functions": [],
