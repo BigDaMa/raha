@@ -19,6 +19,10 @@ sudo pip3 uninstall raha
 Running `Raha` is simple!
    - Benchmarking Raha: If you have a dirty dataset and its corresponding clean dataset and you just want to benchmark Raha, please check the sample code in `raha/benchmark.py`.
    - Interactive error detection with Raha: A user interface is `coming soon`.
+   ![Data Annotation](pictures/ui.png =100x20)   
+   ![Promising Strategies](pictures/ui_strategies.png =100x20)   
+   ![Drill Down](pictures/ui_clusters.png =100x20)   
+   ![Dashboard](pictures/ui_dashboard.png =100x20) 
 
 ## Reference
 You can find more information about this project and the authors [here](https://www.bigdama.tu-berlin.de/menue/team/mohammad_mahdavi/).
@@ -33,3 +37,6 @@ You can also use the following bib entry to cite this project/paper.
   organization={ACM}
 }
 ```
+
+## Related Projects
+Check out [Baran](https://github.com/bigdama/baran).
