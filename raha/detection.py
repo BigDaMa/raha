@@ -37,12 +37,8 @@ import sklearn.naive_bayes
 import sklearn.kernel_ridge
 import sklearn.neural_network
 import sklearn.feature_extraction
-# import IPython.display
-# import ipywidgets
 
-import raha.dataset
-import raha.tools.KATARA.katara
-import raha.tools.dBoost.dboost.imported_dboost
+import raha
 ########################################
 
 
@@ -61,11 +57,13 @@ class Detection:
         self.VERBOSE = True
         self.SAVE_RESULTS = True
         self.CLUSTERING_BASED_SAMPLING = True
+        self.STRATEGY_FILTERING = False
         self.CLASSIFICATION_MODEL = "GBC"  # ["ABC", "DTC", "GBC", "GNB", "SGDC", "SVC"]
         self.LABEL_PROPAGATION_METHOD = "homogeneity"   # ["homogeneity", "majority"]
         self.ERROR_DETECTION_ALGORITHMS = ["OD", "PVD", "RVD", "KBVD"]   # ["OD", "PVD", "RVD", "KBVD", "TFIDF"]
+        self.HISTORICAL_DATASETS = ["hospital", "beers"]   # ["hospital", "beers",...]
 
-    def strategy_runner_process(self, args):
+    def _strategy_runner_process(self, args):
         """
         This method runs an error detection strategy in a parallel process.
         """
@@ -127,92 +125,269 @@ class Detection:
             print("{} cells are detected by {}.".format(len(detected_cells_list), strategy_name))
         return strategy_profile
 
-    def feature_extractor_process(self, args):
+    def init_dataset(self, dd):
         """
-        This method extracts features for a given data column in a parallel process.
+        This method instantiates the dataset.
         """
-        d, j, strategy_profiles = args
-        feature_vectors = numpy.zeros((d.dataframe.shape[0], len(strategy_profiles)))
-        for strategy_index, strategy_profile in enumerate(strategy_profiles):
-            strategy_name = json.loads(strategy_profile["name"])[0]
-            if strategy_name in self.ERROR_DETECTION_ALGORITHMS:
-                for cell in strategy_profile["output"]:
-                    if cell[1] == j:
-                        feature_vectors[cell[0], strategy_index] = 1.0
-        if "TFIDF" in self.ERROR_DETECTION_ALGORITHMS:
-            vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, stop_words="english")
-            corpus = d.dataframe.iloc[:, j]
+        d = raha.dataset.Dataset(dd)
+        d.results_folder = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + d.name)
+        if self.SAVE_RESULTS and not os.path.exists(d.results_folder):
+            os.mkdir(d.results_folder)
+        d.has_ground_truth = False
+        if hasattr(d, "clean_dataframe"):
+            d.has_ground_truth = True
+        d.clustering_range = range(2, self.LABELING_BUDGET + 2)
+        d.labeled_tuples = {}
+        d.labeled_cells = {}
+        d.labels_per_cluster = {}
+        d.detected_cells = {}
+        return d
+
+    def run_strategies(self, d):
+        """
+        This method runs (all or the promising) strategies.
+        """
+        sp_folder_path = os.path.join(d.results_folder, "strategy-profiling")
+        if not self.STRATEGY_FILTERING:
+            if os.path.exists(sp_folder_path):
+                sys.stderr.write("I just load strategies' results as they have already been run on the dataset!\n")
+                strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
+                                          for strategy_file in os.listdir(sp_folder_path)]
+            else:
+                if self.SAVE_RESULTS:
+                    os.mkdir(sp_folder_path)
+                algorithm_and_configurations = []
+                for algorithm_name in self.ERROR_DETECTION_ALGORITHMS:
+                    if algorithm_name == "OD":
+                        configuration_list = [
+                            list(a) for a in
+                            list(itertools.product(["histogram"], ["0.1", "0.3", "0.5", "0.7", "0.9"],
+                                                   ["0.1", "0.3", "0.5", "0.7", "0.9"])) +
+                            list(itertools.product(["gaussian"],
+                                                   ["1.0", "1.3", "1.5", "1.7", "2.0", "2.3", "2.5", "2.7", "3.0"]))]
+                        algorithm_and_configurations.extend(
+                            [[d, algorithm_name, configuration] for configuration in configuration_list])
+                    elif algorithm_name == "PVD":
+                        configuration_list = []
+                        for attribute in d.dataframe.columns:
+                            column_data = "".join(d.dataframe[attribute].tolist())
+                            characters_dictionary = {ch: 1 for ch in column_data}
+                            for ch in characters_dictionary:
+                                configuration_list.append([attribute, ch])
+                        algorithm_and_configurations.extend(
+                            [[d, algorithm_name, configuration] for configuration in configuration_list])
+                    elif algorithm_name == "RVD":
+                        al = d.dataframe.columns.tolist()
+                        configuration_list = [[a, b] for (a, b) in itertools.product(al, al) if a != b]
+                        algorithm_and_configurations.extend(
+                            [[d, algorithm_name, configuration] for configuration in configuration_list])
+                    elif algorithm_name == "KBVD":
+                        configuration_list = [
+                            os.path.join(os.path.dirname(__file__), "tools", "KATARA", "knowledge-base", p)
+                            for p in
+                            os.listdir(os.path.join(os.path.dirname(__file__), "tools", "KATARA", "knowledge-base"))]
+                        algorithm_and_configurations.extend(
+                            [[d, algorithm_name, configuration] for configuration in configuration_list])
+                random.shuffle(algorithm_and_configurations)
+                pool = multiprocessing.Pool()
+                strategy_profiles_list = pool.map(self._strategy_runner_process, algorithm_and_configurations)
+                # pool.close()
+                # pool.join()
+        else:
+            new_dataset_dictionary = {}
+            historical_dataset_dictionaries = []
+            for dn in self.HISTORICAL_DATASETS + [d.name]:
+                a_dataset_dictionary = {
+                    "name": dn,
+                    "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dn, "dirty.csv")),
+                    "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dn, "clean.csv"))
+                }
+                raha.utilities.dataset_profiler(a_dataset_dictionary)
+                raha.utilities.evaluation_profiler(a_dataset_dictionary)
+                if dn == d.name:
+                    new_dataset_dictionary = a_dataset_dictionary
+                else:
+                    historical_dataset_dictionaries.append(a_dataset_dictionary)
+            strategy_profiles_list = raha.utilities.get_selected_strategies_via_historical_data(new_dataset_dictionary,
+                                                                                                historical_dataset_dictionaries)
+        d.strategy_profiles = strategy_profiles_list
+
+    def generate_features(self, d):
+        """
+        This method generates features.
+        """
+        columns_features_list = []
+        for j in range(d.dataframe.shape[1]):
+            feature_vectors = numpy.zeros((d.dataframe.shape[0], len(d.strategy_profiles)))
+            for strategy_index, strategy_profile in enumerate(d.strategy_profiles):
+                strategy_name = json.loads(strategy_profile["name"])[0]
+                if strategy_name in self.ERROR_DETECTION_ALGORITHMS:
+                    for cell in strategy_profile["output"]:
+                        if cell[1] == j:
+                            feature_vectors[cell[0], strategy_index] = 1.0
+            if "TFIDF" in self.ERROR_DETECTION_ALGORITHMS:
+                vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, stop_words="english")
+                corpus = d.dataframe.iloc[:, j]
+                try:
+                    tfidf_features = vectorizer.fit_transform(corpus)
+                    feature_vectors = numpy.column_stack((feature_vectors, numpy.array(tfidf_features.todense())))
+                except:
+                    pass
+            non_identical_columns = numpy.any(feature_vectors != feature_vectors[0, :], axis=0)
+            feature_vectors = feature_vectors[:, non_identical_columns]
+            if self.VERBOSE:
+                print("{} Features are extracted for column {}.".format(feature_vectors.shape[1], j))
+            columns_features_list.append(feature_vectors)
+        d.columns_features = columns_features_list
+
+    def build_clusters(self, d):
+        """
+        This method builds clusters.
+        """
+        clustering_results = []
+        for j in range(d.dataframe.shape[1]):
+            feature_vectors = d.columns_features[j]
+            clusters_k_c_ce = {k: {} for k in d.clustering_range}
+            cells_clusters_k_ce = {k: {} for k in d.clustering_range}
             try:
-                tfidf_features = vectorizer.fit_transform(corpus)
-                feature_vectors = numpy.column_stack((feature_vectors, numpy.array(tfidf_features.todense())))
+                clustering_model = scipy.cluster.hierarchy.linkage(feature_vectors, method="average", metric="cosine")
+                for k in clusters_k_c_ce:
+                    model_labels = [l - 1 for l in
+                                    scipy.cluster.hierarchy.fcluster(clustering_model, k, criterion="maxclust")]
+                    for index, c in enumerate(model_labels):
+                        if c not in clusters_k_c_ce[k]:
+                            clusters_k_c_ce[k][c] = {}
+                        cell = (index, j)
+                        clusters_k_c_ce[k][c][cell] = 1
+                        cells_clusters_k_ce[k][cell] = c
             except:
                 pass
-        non_identical_columns = numpy.any(feature_vectors != feature_vectors[0, :], axis=0)
-        feature_vectors = feature_vectors[:, non_identical_columns]
-        if self.VERBOSE:
-            print("{} Features are extracted for column {}.".format(feature_vectors.shape[1], j))
-        return feature_vectors
+            if self.VERBOSE:
+                print("A hierarchical clustering model is built for column {}.".format(j))
+            clustering_results.append([clusters_k_c_ce, cells_clusters_k_ce])
+        d.clusters_k_j_c_ce = {k: {j: clustering_results[j][0][k] for j in range(d.dataframe.shape[1])} for k in
+                               d.clustering_range}
+        d.cells_clusters_k_j_ce = {k: {j: clustering_results[j][1][k] for j in range(d.dataframe.shape[1])} for k in
+                                   d.clustering_range}
 
-    def cluster_builder_process(self, args):
+    def sample_tuple(self, d, k):
         """
-        This method builds a hierarchical clustering model for a given data column in a parallel process.
+        This method samples a tuple.
         """
-        d, j, feature_vectors = args
-        clustering_range = range(2, self.LABELING_BUDGET + 2)
-        clusters_k_c_ce = {k: {} for k in clustering_range}
-        cells_clusters_k_ce = {k: {} for k in clustering_range}
-        try:
-            clustering_model = scipy.cluster.hierarchy.linkage(feature_vectors, method="average", metric="cosine")
-            for k in clusters_k_c_ce:
-                model_labels = [l - 1 for l in scipy.cluster.hierarchy.fcluster(clustering_model, k, criterion="maxclust")]
-                for index, c in enumerate(model_labels):
-                    if c not in clusters_k_c_ce[k]:
-                        clusters_k_c_ce[k][c] = {}
-                    cell = (index, j)
-                    clusters_k_c_ce[k][c][cell] = 1
-                    cells_clusters_k_ce[k][cell] = c
-        except:
-            pass
-        if self.VERBOSE:
-            print("A hierarchical clustering model is built for column {}.".format(j))
-        return [clusters_k_c_ce, cells_clusters_k_ce]
-
-    def classification_process(self, args):
-        """
-        This method trains and tests a classification model for a given data column in a parallel process.
-        """
-        d, j, feature_vectors, labeled_tuples, extended_labeled_cells = args
-        x_train = [feature_vectors[i, :] for i in range(d.dataframe.shape[0]) if (i, j) in extended_labeled_cells]
-        y_train = [extended_labeled_cells[(i, j)] for i in range(d.dataframe.shape[0]) if (i, j) in extended_labeled_cells]
-        x_test = feature_vectors
-        if sum(y_train) == len(y_train):
-            predicted_labels = numpy.ones(d.dataframe.shape[0])
-        elif sum(y_train) == 0 or len(x_train[0]) == 0:
-            predicted_labels = numpy.zeros(d.dataframe.shape[0])
+        # --------------------Calculating Number of Labels per Clusters--------------------
+        for j in range(d.dataframe.shape[1]):
+            for c in d.clusters_k_j_c_ce[k][j]:
+                d.labels_per_cluster[(j, c)] = {cell: d.labeled_cells[cell] for cell in d.clusters_k_j_c_ce[k][j][c] if
+                                                cell[0] in d.labeled_tuples}
+        # --------------------Sampling a Tuple--------------------
+        if self.CLUSTERING_BASED_SAMPLING:
+            tuple_score = numpy.zeros(d.dataframe.shape[0])
+            for i in range(d.dataframe.shape[0]):
+                if i not in d.labeled_tuples:
+                    score = 0.0
+                    for j in range(d.dataframe.shape[1]):
+                        if d.clusters_k_j_c_ce[k][j]:
+                            cell = (i, j)
+                            c = d.cells_clusters_k_j_ce[k][j][cell]
+                            score += math.exp(-len(d.labels_per_cluster[(j, c)]))
+                    tuple_score[i] = math.exp(score)
         else:
-            if self.CLASSIFICATION_MODEL == "ABC":
-                classification_model = sklearn.ensemble.AdaBoostClassifier(n_estimators=100)
-            if self.CLASSIFICATION_MODEL == "DTC":
-                classification_model = sklearn.tree.DecisionTreeClassifier(criterion="gini")
-            if self.CLASSIFICATION_MODEL == "GBC":
-                classification_model = sklearn.ensemble.GradientBoostingClassifier(n_estimators=100)
-            if self.CLASSIFICATION_MODEL == "GNB":
-                classification_model = sklearn.naive_bayes.GaussianNB()
-            if self.CLASSIFICATION_MODEL == "KNC":
-                classification_model = sklearn.neighbors.KNeighborsClassifier(n_neighbors=1)
-            if self.CLASSIFICATION_MODEL == "SGDC":
-                classification_model = sklearn.linear_model.SGDClassifier(loss="hinge", penalty="l2")
-            if self.CLASSIFICATION_MODEL == "SVC":
-                classification_model = sklearn.svm.SVC(kernel="sigmoid")
-            classification_model.fit(x_train, y_train)
-            predicted_labels = classification_model.predict(x_test)
-        detection_dictionary = {}
-        for i, pl in enumerate(predicted_labels):
-            if (i in labeled_tuples and extended_labeled_cells[(i, j)]) or (i not in labeled_tuples and pl):
-                detection_dictionary[(i, j)] = "JUST A DUMMY VALUE"
+            tuple_score = numpy.ones(d.dataframe.shape[0])
+        sum_tuple_score = sum(tuple_score)
+        p_tuple_score = tuple_score / sum_tuple_score
+        si = numpy.random.choice(numpy.arange(d.dataframe.shape[0]), 1, p=p_tuple_score)[0]
+        return si
+
+    def label_with_ground_truth(self, d, k, si):
+        """
+        This method labels a tuple with ground truth.
+        """
+        d.labeled_tuples[si] = 1
+        actual_errors_dictionary = d.get_actual_errors_dictionary()
+        for j in range(d.dataframe.shape[1]):
+            cell = (si, j)
+            user_label = int(cell in actual_errors_dictionary)
+            if random.random() > self.USER_LABELING_ACCURACY:
+                user_label = 1 - user_label
+            d.labeled_cells[cell] = user_label
+            if cell in d.cells_clusters_k_j_ce[k][j]:
+                c = d.cells_clusters_k_j_ce[k][j][cell]
+                d.labels_per_cluster[(j, c)][cell] = d.labeled_cells[cell]
         if self.VERBOSE:
-            print("A classification model is trained and tested for column {}.".format(j))
-        return detection_dictionary
+            print("Tuple {} is labeled.".format(si))
+
+    def propagate_labels(self, d, k=None):
+        """
+        This method propagates labels.
+        """
+        d.extended_labeled_cells = dict(d.labeled_cells)
+        if not k:
+            k = d.clustering_range[-1]
+        if self.CLUSTERING_BASED_SAMPLING:
+            for j in d.clusters_k_j_c_ce[k]:
+                for c in d.clusters_k_j_c_ce[k][j]:
+                    if len(d.labels_per_cluster[(j, c)]) > 0:
+                        if self.LABEL_PROPAGATION_METHOD == "homogeneity":
+                            cluster_label = list(d.labels_per_cluster[(j, c)].values())[0]
+                            if sum(d.labels_per_cluster[(j, c)].values()) in [0, len(d.labels_per_cluster[(j, c)])]:
+                                for cell in d.clusters_k_j_c_ce[k][j][c]:
+                                    d.extended_labeled_cells[cell] = cluster_label
+                        elif self.LABEL_PROPAGATION_METHOD == "majority":
+                            cluster_label = round(
+                                sum(d.labels_per_cluster[(j, c)].values()) / len(d.labels_per_cluster[(j, c)]))
+                            for cell in d.clusters_k_j_c_ce[k][j][c]:
+                                d.extended_labeled_cells[cell] = cluster_label
+
+    def classify_cells(self, d):
+        """
+        This method classifies data cells.
+        """
+        detected_cells_dictionary = {}
+        for j in range(d.dataframe.shape[1]):
+            feature_vectors = d.columns_features[j]
+            x_train = [feature_vectors[i, :] for i in range(d.dataframe.shape[0]) if (i, j) in d.extended_labeled_cells]
+            y_train = [d.extended_labeled_cells[(i, j)] for i in range(d.dataframe.shape[0]) if
+                       (i, j) in d.extended_labeled_cells]
+            x_test = feature_vectors
+            if sum(y_train) == len(y_train):
+                predicted_labels = numpy.ones(d.dataframe.shape[0])
+            elif sum(y_train) == 0 or len(x_train[0]) == 0:
+                predicted_labels = numpy.zeros(d.dataframe.shape[0])
+            else:
+                if self.CLASSIFICATION_MODEL == "ABC":
+                    classification_model = sklearn.ensemble.AdaBoostClassifier(n_estimators=100)
+                if self.CLASSIFICATION_MODEL == "DTC":
+                    classification_model = sklearn.tree.DecisionTreeClassifier(criterion="gini")
+                if self.CLASSIFICATION_MODEL == "GBC":
+                    classification_model = sklearn.ensemble.GradientBoostingClassifier(n_estimators=100)
+                if self.CLASSIFICATION_MODEL == "GNB":
+                    classification_model = sklearn.naive_bayes.GaussianNB()
+                if self.CLASSIFICATION_MODEL == "KNC":
+                    classification_model = sklearn.neighbors.KNeighborsClassifier(n_neighbors=1)
+                if self.CLASSIFICATION_MODEL == "SGDC":
+                    classification_model = sklearn.linear_model.SGDClassifier(loss="hinge", penalty="l2")
+                if self.CLASSIFICATION_MODEL == "SVC":
+                    classification_model = sklearn.svm.SVC(kernel="sigmoid")
+                classification_model.fit(x_train, y_train)
+                predicted_labels = classification_model.predict(x_test)
+            for i, pl in enumerate(predicted_labels):
+                if (i in d.labeled_tuples and d.extended_labeled_cells[(i, j)]) or (i not in d.labeled_tuples and pl):
+                    detected_cells_dictionary[(i, j)] = "JUST A DUMMY VALUE"
+            if self.VERBOSE:
+                print("A classification model is trained and tested for column {}.".format(j))
+        d.detected_cells.update(detected_cells_dictionary)
+
+    def store_results(self, d):
+        """
+        This method stores the results.
+        """
+        ed_folder_path = os.path.join(d.results_folder, "error-detection")
+        if not os.path.exists(ed_folder_path):
+            os.mkdir(ed_folder_path)
+        pickle.dump(d.detected_cells, open(os.path.join(ed_folder_path, "detection.dictionary"), "wb"))
+        if self.VERBOSE:
+            print("The error detection results are stored in {}.".format(
+                os.path.join(ed_folder_path, "detection.dictionary")))
 
     def run(self, dd):
         """
@@ -221,163 +396,39 @@ class Detection:
         print("------------------------------------------------------------------------\n"
               "--------------------Instantiating the Dataset Object--------------------\n"
               "------------------------------------------------------------------------")
-        d = raha.dataset.Dataset(dd)
-        d.results_folder = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + d.name)
-        if self.SAVE_RESULTS and not os.path.exists(d.results_folder):
-            os.mkdir(d.results_folder)
+        d = self.init_dataset(dd)
         print("------------------------------------------------------------------------\n"
               "-------------------Running Error Detection Strategies-------------------\n"
               "------------------------------------------------------------------------")
-        sp_folder_path = os.path.join(d.results_folder, "strategy-profiling")
-        if os.path.exists(sp_folder_path):
-            sys.stderr.write("I just load strategies' results as they have already been run on the dataset!\n")
-            strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
-                                      for strategy_file in os.listdir(sp_folder_path)]
-        else:
-            if self.SAVE_RESULTS:
-                os.mkdir(sp_folder_path)
-            algorithm_and_configurations = []
-            for algorithm_name in self.ERROR_DETECTION_ALGORITHMS:
-                if algorithm_name == "OD":
-                    configuration_list = [
-                        list(a) for a in
-                        list(itertools.product(["histogram"], ["0.1", "0.3", "0.5", "0.7", "0.9"],
-                                               ["0.1", "0.3", "0.5", "0.7", "0.9"])) +
-                        list(itertools.product(["gaussian"], ["1.0", "1.3", "1.5", "1.7", "2.0", "2.3", "2.5", "2.7", "3.0"]))]
-                    algorithm_and_configurations.extend([[d, algorithm_name, configuration] for configuration in configuration_list])
-                elif algorithm_name == "PVD":
-                    configuration_list = []
-                    for attribute in d.dataframe.columns:
-                        column_data = "".join(d.dataframe[attribute].tolist())
-                        characters_dictionary = {ch: 1 for ch in column_data}
-                        for ch in characters_dictionary:
-                            configuration_list.append([attribute, ch])
-                    algorithm_and_configurations.extend([[d, algorithm_name, configuration] for configuration in configuration_list])
-                elif algorithm_name == "RVD":
-                    al = d.dataframe.columns.tolist()
-                    configuration_list = [[a, b] for (a, b) in itertools.product(al, al) if a != b]
-                    algorithm_and_configurations.extend([[d, algorithm_name, configuration] for configuration in configuration_list])
-                elif algorithm_name == "KBVD":
-                    configuration_list = [os.path.join(os.path.dirname(__file__), "tools", "KATARA", "knowledge-base", p)
-                                          for p in os.listdir(os.path.join(os.path.dirname(__file__), "tools", "KATARA", "knowledge-base"))]
-                    algorithm_and_configurations.extend([[d, algorithm_name, configuration] for configuration in configuration_list])
-            random.shuffle(algorithm_and_configurations)
-            pool = multiprocessing.Pool()
-            strategy_profiles_list = pool.map(self.strategy_runner_process, algorithm_and_configurations)
-            # pool.close()
-            # pool.join()
+        self.run_strategies(d)
         print("------------------------------------------------------------------------\n"
               "-----------------------Generating Feature Vectors-----------------------\n"
               "------------------------------------------------------------------------")
-        columns_features_list = []
-        for j in range(d.dataframe.shape[1]):
-            fe_args = [d, j, strategy_profiles_list]
-            columns_features_list.append(self.feature_extractor_process(fe_args))
+        self.generate_features(d)
         print("------------------------------------------------------------------------\n"
               "---------------Building the Hierarchical Clustering Model---------------\n"
               "------------------------------------------------------------------------")
-        clustering_results = []
-        for j in range(d.dataframe.shape[1]):
-            bc_args = [d, j, columns_features_list[j]]
-            clustering_results.append(self.cluster_builder_process(bc_args))
-        clustering_range = range(2, self.LABELING_BUDGET + 2)
-        clusters_k_j_c_ce = {k: {j: clustering_results[j][0][k] for j in range(d.dataframe.shape[1])} for k in clustering_range}
-        cells_clusters_k_j_ce = {k: {j: clustering_results[j][1][k] for j in range(d.dataframe.shape[1])} for k in clustering_range}
+        self.build_clusters(d)
         print("------------------------------------------------------------------------\n"
               "-------------------Iterative Clustering-Based Labeling------------------\n"
               "------------------------------------------------------------------------")
-        labeled_tuples = {}
-        labeled_cells = {}
-        labels_per_cluster = {}
-        for k in clusters_k_j_c_ce:
-            # --------------------Calculating Number of Labels per Clusters--------------------
-            for j in range(d.dataframe.shape[1]):
-                for c in clusters_k_j_c_ce[k][j]:
-                    labels_per_cluster[(j, c)] = {cell: labeled_cells[cell] for cell in clusters_k_j_c_ce[k][j][c] if cell[0] in labeled_tuples}
-            # --------------------Sampling a Tuple--------------------
-            if self.CLUSTERING_BASED_SAMPLING:
-                tuple_score = numpy.zeros(d.dataframe.shape[0])
-                for i in range(d.dataframe.shape[0]):
-                    if i not in labeled_tuples:
-                        score = 0.0
-                        for j in range(d.dataframe.shape[1]):
-                            if clusters_k_j_c_ce[k][j]:
-                                cell = (i, j)
-                                c = cells_clusters_k_j_ce[k][j][cell]
-                                score += math.exp(-len(labels_per_cluster[(j, c)]))
-                        tuple_score[i] = math.exp(score)
-            else:
-                tuple_score = numpy.ones(d.dataframe.shape[0])
-            sum_tuple_score = sum(tuple_score)
-            p_tuple_score = tuple_score / sum_tuple_score
-            si = numpy.random.choice(numpy.arange(d.dataframe.shape[0]), 1, p=p_tuple_score)[0]
-            # --------------------Labeling the Tuple--------------------
-            labeled_tuples[si] = 1
-            if hasattr(d, "clean_dataframe"):
-                actual_errors_dictionary = d.get_actual_errors_dictionary()
-                for j in range(d.dataframe.shape[1]):
-                    cell = (si, j)
-                    user_label = int(cell in actual_errors_dictionary)
-                    if random.random() > self.USER_LABELING_ACCURACY:
-                        user_label = 1 - user_label
-                    labeled_cells[cell] = user_label
-                    if cell in cells_clusters_k_j_ce[k][j]:
-                        c = cells_clusters_k_j_ce[k][j][cell]
-                        labels_per_cluster[(j, c)][cell] = labeled_cells[cell]
+        for k in d.clustering_range:
+            si = self.sample_tuple(d, k)
+            if d.has_ground_truth:
+                self.label_with_ground_truth(d, k, si)
             # else:
-            #     print("Label the dirty cells in the following sampled tuple.")
-            #     sampled_tuple = pandas.DataFrame(data=[d.dataframe.iloc[si, :]], columns=d.dataframe.columns)
-            #     # IPython.display.display(sampled_tuple)
-            #     for j in range(d.dataframe.shape[1]):
-            #         cell = (si, j)
-            #         value = d.dataframe.iloc[cell]
-            #         labeled_cells[cell] = int(input("Is the value '{}' dirty?\nType 1 for yes.\nType 0 for no.\n".format(value)))
-            #         if cell in cells_clusters_k_j_ce[k][j]:
-            #             c = cells_clusters_k_j_ce[k][j][cell]
-            #             labels_per_cluster[(j, c)][cell] = labeled_cells[cell]
+            #   In this case, user should label the tuple interactively as shown in the raha.ipynb notebook.
         print("------------------------------------------------------------------------\n"
               "--------------Propagating User Labels Through the Clusters--------------\n"
               "------------------------------------------------------------------------")
-        extended_labeled_cells = dict(labeled_cells)
-        if self.CLUSTERING_BASED_SAMPLING:
-            k = clustering_range[-1]
-            for j in clusters_k_j_c_ce[k]:
-                for c in clusters_k_j_c_ce[k][j]:
-                    if len(labels_per_cluster[(j, c)]) > 0:
-                        if self.LABEL_PROPAGATION_METHOD == "homogeneity":
-                            cluster_label = list(labels_per_cluster[(j, c)].values())[0]
-                            if sum(labels_per_cluster[(j, c)].values()) in [0, len(labels_per_cluster[(j, c)])]:
-                                for cell in clusters_k_j_c_ce[k][j][c]:
-                                    extended_labeled_cells[cell] = cluster_label
-                        elif self.LABEL_PROPAGATION_METHOD == "majority":
-                            cluster_label = round(sum(labels_per_cluster[(j, c)].values()) / len(labels_per_cluster[(j, c)]))
-                            for cell in clusters_k_j_c_ce[k][j][c]:
-                                extended_labeled_cells[cell] = cluster_label
+        self.propagate_labels(d)
         print("------------------------------------------------------------------------\n"
               "---------------Training and Testing Classification Models---------------\n"
               "------------------------------------------------------------------------")
-        detection_dictionary = {}
-        for j in range(d.dataframe.shape[1]):
-            c_args = [d, j, columns_features_list[j], labeled_tuples, extended_labeled_cells]
-            detection_dictionary.update(self.classification_process(c_args))
-        # IPython.display.display(d.dataframe.style.apply(
-        #    lambda x: ["background-color: red" if (i, d.dataframe.columns.get_loc(x.name)) in detection_dictionary else ""
-        #              for i, cv in enumerate(x)]))
-        # if not hasattr(d, "clean_dataframe"):
-        #     continue_flag = int(input("Would you like to label one more tuple?\nType 1 for yes.\nType 0 for no.\n"))
-        #     if not continue_flag:
-        #         break
+        self.classify_cells(d)
         if self.SAVE_RESULTS:
-            print("------------------------------------------------------------------------\n"
-                  "---------------------------Storing the Results--------------------------\n"
-                  "------------------------------------------------------------------------")
-            ed_folder_path = os.path.join(d.results_folder, "error-detection")
-            if not os.path.exists(ed_folder_path):
-                os.mkdir(ed_folder_path)
-            pickle.dump(detection_dictionary, open(os.path.join(ed_folder_path, "detection.dictionary"), "wb"))
-            if self.VERBOSE:
-                print("The error detection results are stored in {}.".format(os.path.join(ed_folder_path, "detection.dictionary")))
-        return detection_dictionary
+            self.store_results(d)
+        return d.detected_cells
 ########################################
 
 
@@ -391,7 +442,7 @@ if __name__ == "__main__":
     }
     app = Detection()
     detection_dictionary = app.run(dataset_dictionary)
-    d = raha.dataset.Dataset(dataset_dictionary)
-    p, r, f = d.get_data_cleaning_evaluation(detection_dictionary)[:3]
-    print("Raha's performance on {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(d.name, p, r, f))
+    data = raha.dataset.Dataset(dataset_dictionary)
+    p, r, f = data.get_data_cleaning_evaluation(detection_dictionary)[:3]
+    print("Raha's performance on {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(data.name, p, r, f))
 ########################################
