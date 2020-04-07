@@ -25,7 +25,7 @@ Running `Raha` is simple!
    ![Dashboard](pictures/ui_dashboard.png) 
 
 ## Reference
-You can find out the paper [here](https://dl.acm.org/doi/abs/10.1145/3299869.3324956).
+You can find the paper [here](https://dl.acm.org/doi/abs/10.1145/3299869.3324956).
 You can also use the following bib entry to cite this project/paper.
 ```
 @inproceedings{mahdavi2019raha,
