@@ -19,10 +19,7 @@ import numpy
 import prettytable
 import matplotlib.pyplot
 
-import raha.dataset
-import raha.detection
-import raha.baselines
-import raha.utilities
+import raha
 ########################################
 
 
@@ -296,6 +293,7 @@ class Benchmark:
                 d = raha.dataset.Dataset(dataset_dictionary)
                 for strategy_filtering_approach in strategy_filtering_approaches:
                     if strategy_filtering_approach == "No Strategy Filtering":
+                        detector.STRATEGY_FILTERING = False
                         detection_dictionary = detector.run(dataset_dictionary)
                         strategies_count, runtime = raha.utilities.get_strategies_count_and_runtime(dataset_dictionary)
                     elif strategy_filtering_approach == "Strategy Filtering via Historical Data":

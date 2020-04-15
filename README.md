@@ -6,26 +6,26 @@ Raha is a new configuration-free error detection system. The basic idea is that 
 
 
 ## Installation
-To install `Raha`, you can run:
+To install Raha, you can run:
 ```console
 sudo python3 setup.py install
 ```
-To uninstall `Raha`, you can run:
+To uninstall Raha, you can run:
 ```console
 sudo pip3 uninstall raha
 ```
 
 ## Usage
-Running `Raha` is simple!
-   - Benchmarking Raha: If you have a dirty dataset and its corresponding clean dataset and you just want to benchmark Raha, please check the sample code in `raha/benchmark.py`.
-   - Interactive error detection with Raha: If you have a dirty dataset and you want to interatively detect data errors, please check the `raha/raha.ipynb` notebook. A user interface is also `coming soon`.
+Running Raha is simple!
+   - **Benchmarking Raha**: If you have a dirty dataset and its corresponding clean dataset and you want to benchmark Raha, please check the sample codes in `raha/benchmark.py` or `raha/detection.py`.
+   - **Interactive error detection with Raha**: If you have a dirty dataset and you want to interatively detect data errors, please check the `raha/raha.ipynb` notebook. A user interface is also `coming soon`.
    ![Data Annotation](pictures/ui.png)   
    ![Promising Strategies](pictures/ui_strategies.png)   
    ![Drill Down](pictures/ui_clusters.png)   
    ![Dashboard](pictures/ui_dashboard.png) 
 
 ## Reference
-You can find more information about this project and the authors [here](https://www.bigdama.tu-berlin.de/menue/team/mohammad_mahdavi/).
+You can find more information about this project and the authors [here](https://dl.acm.org/doi/abs/10.1145/3299869.3324956).
 You can also use the following bib entry to cite this project/paper.
 ```
 @inproceedings{mahdavi2019raha,

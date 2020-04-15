@@ -23,7 +23,7 @@ import sklearn.ensemble
 import sklearn.linear_model
 import sklearn.feature_extraction
 
-import raha.dataset
+import raha
 ########################################
 
 
@@ -191,7 +191,7 @@ class Baselines:
         d = raha.dataset.Dataset(dd)
         actual_errors_dictionary = d.get_actual_errors_dictionary()
         vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, stop_words="english")
-        text = [" ".join(row) for row in d.dataframe.get_values().tolist()]
+        text = [" ".join(row) for row in d.dataframe.values.tolist()]
         acfv = vectorizer.fit_transform(text).toarray()
         labeled_tuples = {}
         adaptive_detector_output = []

@@ -61,7 +61,18 @@ class Detection:
         self.CLASSIFICATION_MODEL = "GBC"  # ["ABC", "DTC", "GBC", "GNB", "SGDC", "SVC"]
         self.LABEL_PROPAGATION_METHOD = "homogeneity"   # ["homogeneity", "majority"]
         self.ERROR_DETECTION_ALGORITHMS = ["OD", "PVD", "RVD", "KBVD"]   # ["OD", "PVD", "RVD", "KBVD", "TFIDF"]
-        self.HISTORICAL_DATASETS = ["hospital", "beers"]   # ["hospital", "beers",...]
+        self.HISTORICAL_DATASETS = [
+            {
+                "name": "hospital",
+                "path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/hospital/dirty.csv",
+                "clean_path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/hospital/clean.csv"
+            },
+            {
+                "name": "beers",
+                "path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/beers/dirty.csv",
+                "clean_path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/beers/clean.csv"
+            }
+        ]
 
     def _strategy_runner_process(self, args):
         """
@@ -125,11 +136,12 @@ class Detection:
             print("{} cells are detected by {}.".format(len(detected_cells_list), strategy_name))
         return strategy_profile
 
-    def init_dataset(self, dd):
+    def initialize_dataset(self, dd):
         """
         This method instantiates the dataset.
         """
         d = raha.dataset.Dataset(dd)
+        d.dictionary = dd
         d.results_folder = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + d.name)
         if self.SAVE_RESULTS and not os.path.exists(d.results_folder):
             os.mkdir(d.results_folder)
@@ -183,9 +195,8 @@ class Detection:
                             [[d, algorithm_name, configuration] for configuration in configuration_list])
                     elif algorithm_name == "KBVD":
                         configuration_list = [
-                            os.path.join(os.path.dirname(__file__), "tools", "KATARA", "knowledge-base", p)
-                            for p in
-                            os.listdir(os.path.join(os.path.dirname(__file__), "tools", "KATARA", "knowledge-base"))]
+                            os.path.join(os.path.dirname(__file__), "tools", "KATARA", "knowledge-base", pat)
+                            for pat in os.listdir(os.path.join(os.path.dirname(__file__), "tools", "KATARA", "knowledge-base"))]
                         algorithm_and_configurations.extend(
                             [[d, algorithm_name, configuration] for configuration in configuration_list])
                 random.shuffle(algorithm_and_configurations)
@@ -194,23 +205,13 @@ class Detection:
                 # pool.close()
                 # pool.join()
         else:
-            new_dataset_dictionary = {}
-            historical_dataset_dictionaries = []
-            for dn in self.HISTORICAL_DATASETS + [d.name]:
-                a_dataset_dictionary = {
-                    "name": dn,
-                    "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dn, "dirty.csv")),
-                    "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dn, "clean.csv"))
-                }
-                raha.utilities.dataset_profiler(a_dataset_dictionary)
-                raha.utilities.evaluation_profiler(a_dataset_dictionary)
-                if dn == d.name:
-                    new_dataset_dictionary = a_dataset_dictionary
-                else:
-                    historical_dataset_dictionaries.append(a_dataset_dictionary)
-            strategy_profiles_list = raha.utilities.get_selected_strategies_via_historical_data(new_dataset_dictionary,
-                                                                                                historical_dataset_dictionaries)
+            for dd in self.HISTORICAL_DATASETS + [d.dictionary]:
+                raha.utilities.dataset_profiler(dd)
+                raha.utilities.evaluation_profiler(dd)
+            strategy_profiles_list = raha.utilities.get_selected_strategies_via_historical_data(d.dictionary, self.HISTORICAL_DATASETS)
         d.strategy_profiles = strategy_profiles_list
+        if self.VERBOSE:
+            print("{} strategy profiles are collected.".format(len(d.strategy_profiles)))
 
     def generate_features(self, d):
         """
@@ -236,9 +237,9 @@ class Detection:
             non_identical_columns = numpy.any(feature_vectors != feature_vectors[0, :], axis=0)
             feature_vectors = feature_vectors[:, non_identical_columns]
             if self.VERBOSE:
-                print("{} Features are extracted for column {}.".format(feature_vectors.shape[1], j))
+                print("{} Features are generated for column {}.".format(feature_vectors.shape[1], j))
             columns_features_list.append(feature_vectors)
-        d.columns_features = columns_features_list
+        d.column_features = columns_features_list
 
     def build_clusters(self, d):
         """
@@ -246,7 +247,7 @@ class Detection:
         """
         clustering_results = []
         for j in range(d.dataframe.shape[1]):
-            feature_vectors = d.columns_features[j]
+            feature_vectors = d.column_features[j]
             clusters_k_c_ce = {k: {} for k in d.clustering_range}
             cells_clusters_k_ce = {k: {} for k in d.clustering_range}
             try:
@@ -296,6 +297,8 @@ class Detection:
         sum_tuple_score = sum(tuple_score)
         p_tuple_score = tuple_score / sum_tuple_score
         si = numpy.random.choice(numpy.arange(d.dataframe.shape[0]), 1, p=p_tuple_score)[0]
+        if self.VERBOSE:
+            print("Tuple {} is sampled.".format(si))
         return si
 
     def label_with_ground_truth(self, d, k, si):
@@ -337,6 +340,8 @@ class Detection:
                                 sum(d.labels_per_cluster[(j, c)].values()) / len(d.labels_per_cluster[(j, c)]))
                             for cell in d.clusters_k_j_c_ce[k][j][c]:
                                 d.extended_labeled_cells[cell] = cluster_label
+        if self.VERBOSE:
+            print("The number of labeled data cells increased from {} to {}.".format(len(d.labeled_cells), len(d.extended_labeled_cells)))
 
     def classify_cells(self, d):
         """
@@ -344,7 +349,7 @@ class Detection:
         """
         detected_cells_dictionary = {}
         for j in range(d.dataframe.shape[1]):
-            feature_vectors = d.columns_features[j]
+            feature_vectors = d.column_features[j]
             x_train = [feature_vectors[i, :] for i in range(d.dataframe.shape[0]) if (i, j) in d.extended_labeled_cells]
             y_train = [d.extended_labeled_cells[(i, j)] for i in range(d.dataframe.shape[0]) if
                        (i, j) in d.extended_labeled_cells]
@@ -374,7 +379,7 @@ class Detection:
                 if (i in d.labeled_tuples and d.extended_labeled_cells[(i, j)]) or (i not in d.labeled_tuples and pl):
                     detected_cells_dictionary[(i, j)] = "JUST A DUMMY VALUE"
             if self.VERBOSE:
-                print("A classification model is trained and tested for column {}.".format(j))
+                print("A classifier is trained and applied on column {}.".format(j))
         d.detected_cells.update(detected_cells_dictionary)
 
     def store_results(self, d):
@@ -386,8 +391,7 @@ class Detection:
             os.mkdir(ed_folder_path)
         pickle.dump(d.detected_cells, open(os.path.join(ed_folder_path, "detection.dictionary"), "wb"))
         if self.VERBOSE:
-            print("The error detection results are stored in {}.".format(
-                os.path.join(ed_folder_path, "detection.dictionary")))
+            print("The results are stored in {}.".format(os.path.join(ed_folder_path, "detection.dictionary")))
 
     def run(self, dd):
         """
@@ -396,7 +400,7 @@ class Detection:
         print("------------------------------------------------------------------------\n"
               "--------------------Instantiating the Dataset Object--------------------\n"
               "------------------------------------------------------------------------")
-        d = self.init_dataset(dd)
+        d = self.initialize_dataset(dd)
         print("------------------------------------------------------------------------\n"
               "-------------------Running Error Detection Strategies-------------------\n"
               "------------------------------------------------------------------------")
@@ -410,7 +414,7 @@ class Detection:
               "------------------------------------------------------------------------")
         self.build_clusters(d)
         print("------------------------------------------------------------------------\n"
-              "-------------------Iterative Clustering-Based Labeling------------------\n"
+              "-------------Iterative Clustering-Based Sampling and Labeling-----------\n"
               "------------------------------------------------------------------------")
         for k in d.clustering_range:
             si = self.sample_tuple(d, k)
