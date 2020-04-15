@@ -25,8 +25,7 @@ Running Raha is simple!
    ![Dashboard](pictures/ui_dashboard.png) 
 
 ## Reference
-You can find more information about this project and the authors [here](https://dl.acm.org/doi/abs/10.1145/3299869.3324956).
-You can also use the following bib entry to cite this project/paper.
+You can find more information about this project and the authors [here](https://dl.acm.org/doi/abs/10.1145/3299869.3324956). You can also use the following bib entry to cite this project/paper.
 ```
 @inproceedings{mahdavi2019raha,
   title={Raha: A configuration-free error detection system},
