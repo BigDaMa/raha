@@ -148,7 +148,6 @@ class Detection:
         d.has_ground_truth = False
         if hasattr(d, "clean_dataframe"):
             d.has_ground_truth = True
-        d.clustering_range = range(2, self.LABELING_BUDGET + 2)
         d.labeled_tuples = {}
         d.labeled_cells = {}
         d.labels_per_cluster = {}
@@ -248,8 +247,8 @@ class Detection:
         clustering_results = []
         for j in range(d.dataframe.shape[1]):
             feature_vectors = d.column_features[j]
-            clusters_k_c_ce = {k: {} for k in d.clustering_range}
-            cells_clusters_k_ce = {k: {} for k in d.clustering_range}
+            clusters_k_c_ce = {k: {} for k in range(2, self.LABELING_BUDGET + 2)}
+            cells_clusters_k_ce = {k: {} for k in range(2, self.LABELING_BUDGET + 2)}
             try:
                 clustering_model = scipy.cluster.hierarchy.linkage(feature_vectors, method="average", metric="cosine")
                 for k in clusters_k_c_ce:
@@ -267,15 +266,16 @@ class Detection:
                 print("A hierarchical clustering model is built for column {}.".format(j))
             clustering_results.append([clusters_k_c_ce, cells_clusters_k_ce])
         d.clusters_k_j_c_ce = {k: {j: clustering_results[j][0][k] for j in range(d.dataframe.shape[1])} for k in
-                               d.clustering_range}
+                               range(2, self.LABELING_BUDGET + 2)}
         d.cells_clusters_k_j_ce = {k: {j: clustering_results[j][1][k] for j in range(d.dataframe.shape[1])} for k in
-                                   d.clustering_range}
+                                   range(2, self.LABELING_BUDGET + 2)}
 
-    def sample_tuple(self, d, k):
+    def sample_tuple(self, d):
         """
         This method samples a tuple.
         """
         # --------------------Calculating Number of Labels per Clusters--------------------
+        k = len(d.labeled_tuples) + 2
         for j in range(d.dataframe.shape[1]):
             for c in d.clusters_k_j_c_ce[k][j]:
                 d.labels_per_cluster[(j, c)] = {cell: d.labeled_cells[cell] for cell in d.clusters_k_j_c_ce[k][j][c] if
@@ -301,10 +301,11 @@ class Detection:
             print("Tuple {} is sampled.".format(si))
         return si
 
-    def label_with_ground_truth(self, d, k, si):
+    def label_with_ground_truth(self, d, si):
         """
         This method labels a tuple with ground truth.
         """
+        k = len(d.labeled_tuples) + 2
         d.labeled_tuples[si] = 1
         actual_errors_dictionary = d.get_actual_errors_dictionary()
         for j in range(d.dataframe.shape[1]):
@@ -319,13 +320,12 @@ class Detection:
         if self.VERBOSE:
             print("Tuple {} is labeled.".format(si))
 
-    def propagate_labels(self, d, k=None):
+    def propagate_labels(self, d):
         """
         This method propagates labels.
         """
         d.extended_labeled_cells = dict(d.labeled_cells)
-        if not k:
-            k = d.clustering_range[-1]
+        k = len(d.labeled_tuples) + 2 - 1
         if self.CLUSTERING_BASED_SAMPLING:
             for j in d.clusters_k_j_c_ce[k]:
                 for c in d.clusters_k_j_c_ce[k][j]:
@@ -416,10 +416,10 @@ class Detection:
         print("------------------------------------------------------------------------\n"
               "-------------Iterative Clustering-Based Sampling and Labeling-----------\n"
               "------------------------------------------------------------------------")
-        for k in d.clustering_range:
-            si = self.sample_tuple(d, k)
+        while len(d.labeled_tuples) < self.LABELING_BUDGET:
+            si = self.sample_tuple(d)
             if d.has_ground_truth:
-                self.label_with_ground_truth(d, k, si)
+                self.label_with_ground_truth(d, si)
             # else:
             #   In this case, user should label the tuple interactively as shown in the raha.ipynb notebook.
         print("------------------------------------------------------------------------\n"
