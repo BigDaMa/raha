@@ -145,9 +145,6 @@ class Detection:
         d.results_folder = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + d.name)
         if self.SAVE_RESULTS and not os.path.exists(d.results_folder):
             os.mkdir(d.results_folder)
-        d.has_ground_truth = False
-        if hasattr(d, "clean_dataframe"):
-            d.has_ground_truth = True
         d.labeled_tuples = {}
         d.labeled_cells = {}
         d.labels_per_cluster = {}
@@ -296,29 +293,25 @@ class Detection:
             tuple_score = numpy.ones(d.dataframe.shape[0])
         sum_tuple_score = sum(tuple_score)
         p_tuple_score = tuple_score / sum_tuple_score
-        si = numpy.random.choice(numpy.arange(d.dataframe.shape[0]), 1, p=p_tuple_score)[0]
+        d.sampled_tuple = numpy.random.choice(numpy.arange(d.dataframe.shape[0]), 1, p=p_tuple_score)[0]
         if self.VERBOSE:
-            print("Tuple {} is sampled.".format(si))
-        return si
+            print("Tuple {} is sampled.".format(d.sampled_tuple))
 
-    def label_with_ground_truth(self, d, si):
+    def label_with_ground_truth(self, d):
         """
         This method labels a tuple with ground truth.
         """
         k = len(d.labeled_tuples) + 2
-        d.labeled_tuples[si] = 1
+        d.labeled_tuples[d.sampled_tuple] = 1
         actual_errors_dictionary = d.get_actual_errors_dictionary()
         for j in range(d.dataframe.shape[1]):
-            cell = (si, j)
+            cell = (d.sampled_tuple, j)
             user_label = int(cell in actual_errors_dictionary)
             if random.random() > self.USER_LABELING_ACCURACY:
                 user_label = 1 - user_label
             d.labeled_cells[cell] = user_label
-            if cell in d.cells_clusters_k_j_ce[k][j]:
-                c = d.cells_clusters_k_j_ce[k][j][cell]
-                d.labels_per_cluster[(j, c)][cell] = d.labeled_cells[cell]
         if self.VERBOSE:
-            print("Tuple {} is labeled.".format(si))
+            print("Tuple {} is labeled.".format(d.sampled_tuple))
 
     def propagate_labels(self, d):
         """
@@ -326,6 +319,11 @@ class Detection:
         """
         d.extended_labeled_cells = dict(d.labeled_cells)
         k = len(d.labeled_tuples) + 2 - 1
+        for j in range(d.dataframe.shape[1]):
+            cell = (d.sampled_tuple, j)
+            if cell in d.cells_clusters_k_j_ce[k][j]:
+                c = d.cells_clusters_k_j_ce[k][j][cell]
+                d.labels_per_cluster[(j, c)][cell] = d.labeled_cells[cell]
         if self.CLUSTERING_BASED_SAMPLING:
             for j in d.clusters_k_j_c_ce[k]:
                 for c in d.clusters_k_j_c_ce[k][j]:
@@ -398,7 +396,7 @@ class Detection:
         This method runs Raha on an input dataset to detection data errors.
         """
         print("------------------------------------------------------------------------\n"
-              "--------------------Instantiating the Dataset Object--------------------\n"
+              "---------------------Initializing the Dataset Object--------------------\n"
               "------------------------------------------------------------------------")
         d = self.initialize_dataset(dd)
         print("------------------------------------------------------------------------\n"
@@ -417,11 +415,12 @@ class Detection:
               "-------------Iterative Clustering-Based Sampling and Labeling-----------\n"
               "------------------------------------------------------------------------")
         while len(d.labeled_tuples) < self.LABELING_BUDGET:
-            si = self.sample_tuple(d)
+            self.sample_tuple(d)
             if d.has_ground_truth:
-                self.label_with_ground_truth(d, si)
+                self.label_with_ground_truth(d)
             # else:
             #   In this case, user should label the tuple interactively as shown in the raha.ipynb notebook.
+            print("------------------------------------------------------------------------")
         print("------------------------------------------------------------------------\n"
               "--------------Propagating User Labels Through the Clusters--------------\n"
               "------------------------------------------------------------------------")
@@ -438,7 +437,7 @@ class Detection:
 
 ########################################
 if __name__ == "__main__":
-    dataset_name = "flights"
+    dataset_name = "hospital"
     dataset_dictionary = {
         "name": dataset_name,
         "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),

@@ -27,10 +27,15 @@ class Dataset:
         The constructor creates a dataset.
         """
         self.name = dataset_dictionary["name"]
+        self.path = dataset_dictionary["path"]
         self.dataframe = self.read_csv_dataset(dataset_dictionary["path"])
         if "clean_path" in dataset_dictionary:
+            self.has_ground_truth = True
+            self.clean_path = dataset_dictionary["clean_path"]
             self.clean_dataframe = self.read_csv_dataset(dataset_dictionary["clean_path"])
         if "repaired_path" in dataset_dictionary:
+            self.has_been_repaired = True
+            self.repaired_path = dataset_dictionary["repaired_path"]
             self.repaired_dataframe = self.read_csv_dataset(dataset_dictionary["repaired_path"])
 
     @staticmethod
