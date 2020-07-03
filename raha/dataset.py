@@ -10,7 +10,9 @@
 
 
 ########################################
+import re
 import sys
+import html
 
 import pandas
 ########################################
@@ -39,12 +41,21 @@ class Dataset:
             self.repaired_dataframe = self.read_csv_dataset(dataset_dictionary["repaired_path"])
 
     @staticmethod
-    def read_csv_dataset(dataset_path):
+    def value_normalizer(value):
+        """
+        This method takes a value and minimally normalizes it.
+        """
+        value = html.unescape(value)
+        value = re.sub("[\t\n ]+", " ", value, re.UNICODE)
+        value = value.strip("\t\n ")
+        return value
+
+    def read_csv_dataset(self, dataset_path):
         """
         This method reads a dataset from a csv file path.
         """
         dataframe = pandas.read_csv(dataset_path, sep=",", header="infer", encoding="utf-8", dtype=str,
-                                    keep_default_na=False, low_memory=False).apply(lambda x: x.str.strip())
+                                    keep_default_na=False, low_memory=False).applymap(self.value_normalizer)
         return dataframe
 
     @staticmethod
@@ -74,7 +85,7 @@ class Dataset:
         """
         self.repaired_dataframe = self.dataframe.copy()
         for cell in correction_dictionary:
-            self.repaired_dataframe.iloc[cell] = correction_dictionary[cell]
+            self.repaired_dataframe.iloc[cell] = self.value_normalizer(correction_dictionary[cell])
 
     def get_actual_errors_dictionary(self):
         """

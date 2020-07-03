@@ -1,5 +1,5 @@
 ########################################
-# Detection
+# Raha: The Error Detection Engine
 # Mohammad Mahdavi
 # moh.mahdavi.l@gmail.com
 # April 2018
@@ -341,9 +341,9 @@ class Detection:
         if self.VERBOSE:
             print("The number of labeled data cells increased from {} to {}.".format(len(d.labeled_cells), len(d.extended_labeled_cells)))
 
-    def classify_cells(self, d):
+    def predict_labels(self, d):
         """
-        This method classifies data cells.
+        This method predicts the label of data cells.
         """
         detected_cells_dictionary = {}
         for j in range(d.dataframe.shape[1]):
@@ -428,7 +428,7 @@ class Detection:
         print("------------------------------------------------------------------------\n"
               "---------------Training and Testing Classification Models---------------\n"
               "------------------------------------------------------------------------")
-        self.classify_cells(d)
+        self.predict_labels(d)
         if self.SAVE_RESULTS:
             self.store_results(d)
         return d.detected_cells
@@ -437,7 +437,7 @@ class Detection:
 
 ########################################
 if __name__ == "__main__":
-    dataset_name = "hospital"
+    dataset_name = "flights"
     dataset_dictionary = {
         "name": dataset_name,
         "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
