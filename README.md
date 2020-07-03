@@ -23,7 +23,7 @@ Running Raha and Baran is simple!
    ![Drill Down](pictures/ui_clusters.png)   
    ![Dashboard](pictures/ui_dashboard.png) 
 
-## Reference
+## References
 You can find more information about this project and the authors [here](https://dl.acm.org/doi/abs/10.1145/3299869.3324956). You can also use the following bib entries to cite this project and the corresponding research papers.
 
 ### Citing Raha
@@ -54,4 +54,4 @@ You can find more information about this project and the authors [here](https://
 
 
 ## A Note on the Naming
-`Raha` and `Baran` are Persian feminine names that are conceptually related to their corresponding error detection/correction systems. `Raha` (which means "free" in Persian) is assigned to our "configuration-free" error detection system. `Baran` (which means "rain" in Persian and rain washes/cleans everything) is assigned to our error correction system that "cleans" data.
+Raha and Baran are Persian feminine names that are conceptually related to their corresponding error detection/correction systems. Raha (which means "free" in Persian) is assigned to our "configuration-free" error detection system. Baran (which means "rain" in Persian and rain washes/cleans everything) is assigned to our error correction system that "cleans" data.
