@@ -8,6 +8,11 @@ raha/correction.py
 raha/dataset.py
 raha/detection.py
 raha/utilities.py
+raha/tools/KATARA/__init__.py
+raha/tools/KATARA/katara.py
+raha/tools/KATARA/__pycache__/__init__.cpython-36.pyc
+raha/tools/KATARA/__pycache__/katara.cpython-36.pyc
+raha/tools/KATARA/knowledge-base/zipHasCity.rel.txt
 raha/tools/dBoost/LICENSE
 raha/tools/dBoost/README.md
 raha/tools/dBoost/TODO

@@ -1,2 +1,3 @@
 recursive-include raha/tools/dBoost *
+recursive-include raha/tools/KATARA *
 include raha/tools/KATARA/knowledge-base/*
