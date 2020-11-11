@@ -40,8 +40,8 @@ def get_tuple_wise_evaluation(d, correction_dictionary):
             outputted_tuples[i] = 1
             if i in actual_dirty_tuples:
                 tp += 1.0
-    p = tp / len(outputted_tuples)
-    r = tp / len(actual_dirty_tuples)
+    p = 0.0 if len(outputted_tuples) == 0 else tp / len(outputted_tuples)
+    r = 0.0 if len(actual_dirty_tuples) == 0 else tp / len(actual_dirty_tuples)
     f = 0.0 if (p + r) == 0.0 else (2 * p * r) / (p + r)
     return p, r, f
 
@@ -54,7 +54,7 @@ def dataset_profiler(dataset_dictionary):
     #       "--------------------------Profiling the Dataset-------------------------\n"
     #       "------------------------------------------------------------------------")
     d = raha.dataset.Dataset(dataset_dictionary)
-    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + d.name)
+    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-baran-results-" + d.name)
     dp_folder_path = os.path.join(d.results_folder, "dataset-profiling")
     if not os.path.exists(dp_folder_path):
         os.mkdir(dp_folder_path)
@@ -84,7 +84,7 @@ def evaluation_profiler(dataset_dictionary):
     #       "---------Profiling the Performance of Strategies on the Dataset---------\n"
     #       "------------------------------------------------------------------------")
     d = raha.dataset.Dataset(dataset_dictionary)
-    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + d.name)
+    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-baran-results-" + d.name)
     actual_errors_dictionary = d.get_actual_errors_dictionary()
     ep_folder_path = os.path.join(d.results_folder, "evaluation-profiling")
     if not os.path.exists(ep_folder_path):
@@ -122,7 +122,7 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
     #       "-------Selecting Promising Strategies Based on Historical Datasets------\n"
     #       "------------------------------------------------------------------------")
     d = raha.dataset.Dataset(dataset_dictionary)
-    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + d.name)
+    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-baran-results-" + d.name)
     columns_similarity = {}
     for nci, na in enumerate(d.dataframe.columns.tolist()):
         ndp_folder_path = os.path.join(d.results_folder, "dataset-profiling")
@@ -131,7 +131,7 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
             if hdd["name"] != d.name:
                 hd = raha.dataset.Dataset(hdd)
                 for hci, ha in enumerate(hd.dataframe.columns.tolist()):
-                    hdp_folder_path = os.path.join(os.path.dirname(hdd["path"]), "raha-results-" + hdd["name"])
+                    hdp_folder_path = os.path.join(os.path.dirname(hdd["path"]), "raha-baran-results-" + hdd["name"])
                     hcp = pickle.load(open(os.path.join(hdp_folder_path, "dataset-profiling", ha + ".dictionary"), "rb"))
                     nfv = []
                     hfv = []
@@ -148,7 +148,7 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
         if hdd["name"] != d.name:
             hd = raha.dataset.Dataset(hdd)
             for hci, ha in enumerate(hd.dataframe.columns.tolist()):
-                ep_folder_path = os.path.join(os.path.dirname(hdd["path"]), "raha-results-" + hdd["name"], "evaluation-profiling")
+                ep_folder_path = os.path.join(os.path.dirname(hdd["path"]), "raha-baran-results-" + hdd["name"], "evaluation-profiling")
                 strategies_performance = pickle.load(open(os.path.join(ep_folder_path, ha + ".dictionary"), "rb"))
                 if (hd.name, ha) not in f1_measure:
                     f1_measure[(hd.name, ha)] = {}
@@ -242,7 +242,7 @@ def get_selected_strategies_via_ground_truth(dataset_dictionary, strategies_coun
     #       "---Selecting Worst, Random, and Best Strategies Based on Ground Truth---\n"
     #       "------------------------------------------------------------------------")
     d = raha.dataset.Dataset(dataset_dictionary)
-    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + d.name)
+    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-baran-results-" + d.name)
     f1_measure = {}
     ep_folder_path = os.path.join(d.results_folder, "evaluation-profiling")
     for nci, na in enumerate(d.dataframe.columns.tolist()):
@@ -291,7 +291,7 @@ def get_strategies_count_and_runtime(dataset_dictionary):
     This method calculates the number of all strategies and their total runtime.
     """
     d = raha.dataset.Dataset(dataset_dictionary)
-    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-results-" + d.name)
+    d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-baran-results-" + d.name)
     sp_folder_path = os.path.join(d.results_folder, "strategy-profiling")
     strategies_count = 0
     strategies_runtime = 0
@@ -311,39 +311,40 @@ def error_detection_with_selected_strategies(dataset_dictionary, strategy_profil
     This method runs Raha on an input dataset to detection data errors with only the given strategy profiles.
     """
     app = raha.Detection()
-    print("------------------------------------------------------------------------\n"
-          "--------------------Instantiating the Dataset Object--------------------\n"
-          "------------------------------------------------------------------------")
+    # print("------------------------------------------------------------------------\n"
+    #       "--------------------Instantiating the Dataset Object--------------------\n"
+    #       "------------------------------------------------------------------------")
     d = app.initialize_dataset(dataset_dictionary)
-    print("------------------------------------------------------------------------\n"
-          "-------------------Running Error Detection Strategies-------------------\n"
-          "------------------------------------------------------------------------")
+    # print("------------------------------------------------------------------------\n"
+    #       "-------------------Running Error Detection Strategies-------------------\n"
+    #       "------------------------------------------------------------------------")
     d.strategy_profiles = strategy_profiles_list
-    print("------------------------------------------------------------------------\n"
-          "-----------------------Generating Feature Vectors-----------------------\n"
-          "------------------------------------------------------------------------")
+    # print("------------------------------------------------------------------------\n"
+    #       "-----------------------Generating Feature Vectors-----------------------\n"
+    #       "------------------------------------------------------------------------")
     app.generate_features(d)
-    print("------------------------------------------------------------------------\n"
-          "---------------Building the Hierarchical Clustering Model---------------\n"
-          "------------------------------------------------------------------------")
+    # print("------------------------------------------------------------------------\n"
+    #       "---------------Building the Hierarchical Clustering Model---------------\n"
+    #       "------------------------------------------------------------------------")
     app.build_clusters(d)
-    print("------------------------------------------------------------------------\n"
-          "-------------Iterative Clustering-Based Sampling and Labeling-----------\n"
-          "------------------------------------------------------------------------")
-    for k in d.clustering_range:
-        si = app.sample_tuple(d, k)
+    # print("------------------------------------------------------------------------\n"
+    #       "-------------Iterative Clustering-Based Sampling and Labeling-----------\n"
+    #       "------------------------------------------------------------------------")
+    while len(d.labeled_tuples) < app.LABELING_BUDGET:
+        app.sample_tuple(d)
         if d.has_ground_truth:
-            app.label_with_ground_truth(d, k, si)
-        # else:
-        #   In this case, user should label the tuple interactively as shown in the raha.ipynb notebook.
-    print("------------------------------------------------------------------------\n"
-          "--------------Propagating User Labels Through the Clusters--------------\n"
-          "------------------------------------------------------------------------")
+            app.label_with_ground_truth(d)
+    # print("------------------------------------------------------------------------\n"
+    #       "--------------Propagating User Labels Through the Clusters--------------\n"
+    #       "------------------------------------------------------------------------")
     app.propagate_labels(d)
-    print("------------------------------------------------------------------------\n"
-          "---------------Training and Testing Classification Models---------------\n"
-          "------------------------------------------------------------------------")
-    app.classify_cells(d)
-    if app.SAVE_RESULTS:
-        app.store_results(d)
+    # print("------------------------------------------------------------------------\n"
+    #       "---------------Training and Testing Classification Models---------------\n"
+    #       "------------------------------------------------------------------------")
+    app.predict_labels(d)
+    # if app.SAVE_RESULTS:
+    #     print("------------------------------------------------------------------------\n"
+    #           "---------------------------Storing the Results--------------------------\n"
+    #           "------------------------------------------------------------------------")
+    #     app.store_results(d)
     return d.detected_cells

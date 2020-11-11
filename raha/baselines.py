@@ -37,6 +37,7 @@ class Baselines:
         """
         The constructor.
         """
+        self.VERBOSE = False
         self.DATASET_CONSTRAINTS = {
             "hospital": {
                 "functions": [["city", "zip"], ["city", "county"], ["zip", "city"], ["zip", "state"], ["zip", "county"],
@@ -98,16 +99,16 @@ class Baselines:
             }
         }
 
-    @staticmethod
-    def run_dboost(dd):
+    def run_dboost(self, dd):
         """
         This method runs dBoost.
         """
-        print("------------------------------------------------------------------------\n"
-              "------------------------------Running dBoost----------------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "------------------------------Running dBoost----------------------------\n"
+                  "------------------------------------------------------------------------")
         d = raha.dataset.Dataset(dd)
-        sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + d.name, "strategy-profiling")
+        sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name, "strategy-profiling")
         strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
                                   for strategy_file in os.listdir(sp_folder_path)]
         random_tuples_list = [i for i in random.sample(range(d.dataframe.shape[0]), d.dataframe.shape[0])]
@@ -130,9 +131,10 @@ class Baselines:
         """
         This method runs NADEEF.
         """
-        print("------------------------------------------------------------------------\n"
-              "------------------------------Running NADEEF----------------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "------------------------------Running NADEEF----------------------------\n"
+                  "------------------------------------------------------------------------")
         d = raha.dataset.Dataset(dd)
         detection_dictionary = {}
         for fd in self.DATASET_CONSTRAINTS[d.name]["functions"]:
@@ -161,16 +163,16 @@ class Baselines:
                         detection_dictionary[(i, j)] = "JUST A DUUMY VALUE"
         return detection_dictionary
 
-    @staticmethod
-    def run_katara(dd):
+    def run_katara(self, dd):
         """
         This method runs KATARA.
         """
-        print("------------------------------------------------------------------------\n"
-              "------------------------------Running KATARA----------------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "------------------------------Running KATARA----------------------------\n"
+                  "------------------------------------------------------------------------")
         d = raha.dataset.Dataset(dd)
-        sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + d.name, "strategy-profiling")
+        sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name, "strategy-profiling")
         strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
                                   for strategy_file in os.listdir(sp_folder_path)]
         detection_dictionary = {}
@@ -180,14 +182,14 @@ class Baselines:
                 detection_dictionary.update({cell: "JUST A DUUMY VALUE" for cell in strategy_profile["output"]})
         return detection_dictionary
 
-    @staticmethod
-    def run_activeclean(dd, sampling_budget=20):
+    def run_activeclean(self, dd, sampling_budget=20):
         """
         This method runs ActiveClean.
         """
-        print("------------------------------------------------------------------------\n"
-              "----------------------------Running ActiveClean-------------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "----------------------------Running ActiveClean-------------------------\n"
+                  "------------------------------------------------------------------------")
         d = raha.dataset.Dataset(dd)
         actual_errors_dictionary = d.get_actual_errors_dictionary()
         vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, stop_words="english")
@@ -228,16 +230,16 @@ class Baselines:
                     detection_dictionary[(i, j)] = "JUST A DUMMY VALUE"
         return detection_dictionary
 
-    @staticmethod
-    def run_min_k(dd):
+    def run_min_k(self, dd):
         """
         This method runs min-k
         """
-        print("------------------------------------------------------------------------\n"
-              "------------------------------Running Min-k-----------------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "------------------------------Running Min-k-----------------------------\n"
+                  "------------------------------------------------------------------------")
         d = raha.dataset.Dataset(dd)
-        sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + d.name, "strategy-profiling")
+        sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name, "strategy-profiling")
         strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
                                   for strategy_file in os.listdir(sp_folder_path)]
         cells_counter = {}
@@ -262,17 +264,17 @@ class Baselines:
                 detection_dictionary = dict(temp_output)
         return detection_dictionary
 
-    @staticmethod
-    def run_maximum_entropy(dd, sampling_budget=20):
+    def run_maximum_entropy(self, dd, sampling_budget=20):
         """
         This method runs maximum entropy.
         """
-        print("------------------------------------------------------------------------\n"
-              "--------------------------Running Maximum Entropy-----------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "--------------------------Running Maximum Entropy-----------------------\n"
+                  "------------------------------------------------------------------------")
         d = raha.dataset.Dataset(dd)
         actual_errors_dictionary = d.get_actual_errors_dictionary()
-        sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + d.name, "strategy-profiling")
+        sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name, "strategy-profiling")
         strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
                                   for strategy_file in os.listdir(sp_folder_path)]
         random_tuples_list = [i for i in random.sample(range(d.dataframe.shape[0]), d.dataframe.shape[0])]
@@ -300,9 +302,10 @@ class Baselines:
         """
         This method runs metadata driven.
         """
-        print("------------------------------------------------------------------------\n"
-              "--------------------------Running Metadata Driven-----------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "--------------------------Running Metadata Driven-----------------------\n"
+                  "------------------------------------------------------------------------")
         d = raha.dataset.Dataset(dd)
         actual_errors_dictionary = d.get_actual_errors_dictionary()
         dboost_output = self.run_dboost(dd)

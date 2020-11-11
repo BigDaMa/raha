@@ -1,5 +1,5 @@
 ########################################
-# Baran: The Error Correction Engine
+# Baran: The Error Correction System
 # Mohammad Mahdavi
 # moh.mahdavi.l@gmail.com
 # April 2019
@@ -48,7 +48,7 @@ class Correction:
         self.VALUE_ENCODINGS = ["identity", "unicode"]
         self.CLASSIFICATION_MODEL = "ABC"   # ["ABC", "DTC", "GBC", "GNB", "KNC" ,"SGDC", "SVC"]
         self.IGNORE_SIGN = "<<<IGNORE_THIS_VALUE>>>"
-        self.VERBOSE = True
+        self.VERBOSE = False
         self.SAVE_RESULTS = True
         self.ONLINE_PHASE = False
         self.LABELING_BUDGET = 20
@@ -355,7 +355,7 @@ class Correction:
         This method initializes the dataset.
         """
         self.ONLINE_PHASE = True
-        d.results_folder = os.path.join(os.path.dirname(d.path), "baran-results-" + d.name)
+        d.results_folder = os.path.join(os.path.dirname(d.path), "raha-baran-results-" + d.name)
         if self.SAVE_RESULTS and not os.path.exists(d.results_folder):
             os.mkdir(d.results_folder)
         d.column_errors = {}
@@ -563,28 +563,36 @@ class Correction:
         """
         This method runs Baran on an input dataset to correct data errors.
         """
-        print("------------------------------------------------------------------------\n"
-              "---------------------Initialize the Dataset Object----------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "---------------------Initialize the Dataset Object----------------------\n"
+                  "------------------------------------------------------------------------")
         d = self.initialize_dataset(d)
-        print("------------------------------------------------------------------------\n"
-              "--------------------Initialize Error Corrector Models-------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "--------------------Initialize Error Corrector Models-------------------\n"
+                  "------------------------------------------------------------------------")
         self.initialize_models(d)
-        print("------------------------------------------------------------------------\n"
-              "--------------Iterative Tuple Sampling, Labeling, and Learning----------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "--------------Iterative Tuple Sampling, Labeling, and Learning----------\n"
+                  "------------------------------------------------------------------------")
         while len(d.labeled_tuples) < self.LABELING_BUDGET:
             self.sample_tuple(d)
             if d.has_ground_truth:
                 self.label_with_ground_truth(d)
             # else:
-            #   In this case, user should label the tuple interactively as shown in the baran.ipynb notebook.
+            #   In this case, user should label the tuple interactively as shown in the Jupyter notebook.
             self.update_models(d)
             self.generate_features(d)
             self.predict_corrections(d)
-            print("------------------------------------------------------------------------")
+            if self.VERBOSE:
+                print("------------------------------------------------------------------------")
         if self.SAVE_RESULTS:
+            if self.VERBOSE:
+                print("------------------------------------------------------------------------\n"
+                      "---------------------------Storing the Results--------------------------\n"
+                      "------------------------------------------------------------------------")
             self.store_results(d)
         return d.corrected_cells
 ########################################
@@ -605,6 +613,6 @@ if __name__ == "__main__":
     p, r, f = data.get_data_cleaning_evaluation(correction_dictionary)[-3:]
     print("Baran's performance on {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(data.name, p, r, f))
     # --------------------
-    # app.extract_revisions(wikipedia_dumps_folder="../wikipedia-data-sample")
-    # app.pretrain_value_based_models(revision_data_folder="../wikipedia-data-sample/revision-data")
+    # app.extract_revisions(wikipedia_dumps_folder="../wikipedia-data")
+    # app.pretrain_value_based_models(revision_data_folder="../wikipedia-data/revision-data")
 ########################################

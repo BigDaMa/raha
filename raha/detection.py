@@ -1,5 +1,5 @@
 ########################################
-# Raha: The Error Detection Engine
+# Raha: The Error Detection System
 # Mohammad Mahdavi
 # moh.mahdavi.l@gmail.com
 # April 2018
@@ -54,25 +54,14 @@ class Detection:
         """
         self.LABELING_BUDGET = 20
         self.USER_LABELING_ACCURACY = 1.0
-        self.VERBOSE = True
+        self.VERBOSE = False
         self.SAVE_RESULTS = True
         self.CLUSTERING_BASED_SAMPLING = True
         self.STRATEGY_FILTERING = False
         self.CLASSIFICATION_MODEL = "GBC"  # ["ABC", "DTC", "GBC", "GNB", "SGDC", "SVC"]
         self.LABEL_PROPAGATION_METHOD = "homogeneity"   # ["homogeneity", "majority"]
         self.ERROR_DETECTION_ALGORITHMS = ["OD", "PVD", "RVD", "KBVD"]   # ["OD", "PVD", "RVD", "KBVD", "TFIDF"]
-        self.HISTORICAL_DATASETS = [
-            {
-                "name": "hospital",
-                "path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/hospital/dirty.csv",
-                "clean_path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/hospital/clean.csv"
-            },
-            {
-                "name": "beers",
-                "path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/beers/dirty.csv",
-                "clean_path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/beers/clean.csv"
-            }
-        ]
+        self.HISTORICAL_DATASETS = []
 
     def _strategy_runner_process(self, args):
         """
@@ -142,7 +131,7 @@ class Detection:
         """
         d = raha.dataset.Dataset(dd)
         d.dictionary = dd
-        d.results_folder = os.path.join(os.path.dirname(dd["path"]), "raha-results-" + d.name)
+        d.results_folder = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name)
         if self.SAVE_RESULTS and not os.path.exists(d.results_folder):
             os.mkdir(d.results_folder)
         d.labeled_tuples = {}
@@ -395,41 +384,53 @@ class Detection:
         """
         This method runs Raha on an input dataset to detection data errors.
         """
-        print("------------------------------------------------------------------------\n"
-              "---------------------Initializing the Dataset Object--------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "---------------------Initializing the Dataset Object--------------------\n"
+                  "------------------------------------------------------------------------")
         d = self.initialize_dataset(dd)
-        print("------------------------------------------------------------------------\n"
-              "-------------------Running Error Detection Strategies-------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "-------------------Running Error Detection Strategies-------------------\n"
+                  "------------------------------------------------------------------------")
         self.run_strategies(d)
-        print("------------------------------------------------------------------------\n"
-              "-----------------------Generating Feature Vectors-----------------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "-----------------------Generating Feature Vectors-----------------------\n"
+                  "------------------------------------------------------------------------")
         self.generate_features(d)
-        print("------------------------------------------------------------------------\n"
-              "---------------Building the Hierarchical Clustering Model---------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "---------------Building the Hierarchical Clustering Model---------------\n"
+                  "------------------------------------------------------------------------")
         self.build_clusters(d)
-        print("------------------------------------------------------------------------\n"
-              "-------------Iterative Clustering-Based Sampling and Labeling-----------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "-------------Iterative Clustering-Based Sampling and Labeling-----------\n"
+                  "------------------------------------------------------------------------")
         while len(d.labeled_tuples) < self.LABELING_BUDGET:
             self.sample_tuple(d)
             if d.has_ground_truth:
                 self.label_with_ground_truth(d)
             # else:
-            #   In this case, user should label the tuple interactively as shown in the raha.ipynb notebook.
-            print("------------------------------------------------------------------------")
-        print("------------------------------------------------------------------------\n"
-              "--------------Propagating User Labels Through the Clusters--------------\n"
-              "------------------------------------------------------------------------")
+            #   In this case, user should label the tuple interactively as shown in the Jupyter notebook.
+            if self.VERBOSE:
+                print("------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "--------------Propagating User Labels Through the Clusters--------------\n"
+                  "------------------------------------------------------------------------")
         self.propagate_labels(d)
-        print("------------------------------------------------------------------------\n"
-              "---------------Training and Testing Classification Models---------------\n"
-              "------------------------------------------------------------------------")
+        if self.VERBOSE:
+            print("------------------------------------------------------------------------\n"
+                  "---------------Training and Testing Classification Models---------------\n"
+                  "------------------------------------------------------------------------")
         self.predict_labels(d)
         if self.SAVE_RESULTS:
+            if self.VERBOSE:
+                print("------------------------------------------------------------------------\n"
+                      "---------------------------Storing the Results--------------------------\n"
+                      "------------------------------------------------------------------------")
             self.store_results(d)
         return d.detected_cells
 ########################################
@@ -448,4 +449,22 @@ if __name__ == "__main__":
     data = raha.dataset.Dataset(dataset_dictionary)
     p, r, f = data.get_data_cleaning_evaluation(detection_dictionary)[:3]
     print("Raha's performance on {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(data.name, p, r, f))
-########################################
+    # --------------------
+    # app.STRATEGY_FILTERING = True
+    # app.HISTORICAL_DATASETS = [
+    #     {
+    #     "name": "hospital",
+    #     "path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/hospital/dirty.csv",
+    #     "clean_path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/hospital/clean.csv"
+    #     },
+    #     {
+    #     "name": "beers",
+    #     "path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/beers/dirty.csv",
+    #     "clean_path": "/media/mohammad/C20E45C80E45B5E7/Projects/raha/datasets/beers/clean.csv"
+    #     }
+    # ]
+    # detection_dictionary = app.run(dataset_dictionary)
+    # data = raha.dataset.Dataset(dataset_dictionary)
+    # p, r, f = data.get_data_cleaning_evaluation(detection_dictionary)[:3]
+    # print("Raha's performance on {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(data.name, p, r, f))
+#######################################

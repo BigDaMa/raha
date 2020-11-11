@@ -24,7 +24,7 @@ Running Raha and Baran is simple!
    ![Dashboard](pictures/ui_dashboard.png) 
 
 ## References
-You can find more information about this project and the authors [here](https://dl.acm.org/doi/abs/10.1145/3299869.3324956). You can also use the following bib entries to cite this project and the corresponding research papers.
+You can find more information about this project and the authors [here](https://dl.acm.org/doi/abs/10.1145/3299869.3324956) and [here](https://dl.acm.org/doi/abs/10.14778/3407790.3407801). You can also use the following bib entries to cite this project and the corresponding research papers.
 
 ### Citing Raha
 ```
