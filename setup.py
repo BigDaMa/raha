@@ -15,5 +15,5 @@ setup(
     keywords=["Data Cleaning", "Machine Learning", "Error Detection", "Error Correction", "Data Repairing"],
     install_requires=required,
     include_package_data=True,
-    download_url=""
+    download_url="https://github.com/BigDaMa/raha/archive/v1.2.tar.gz"
 )
