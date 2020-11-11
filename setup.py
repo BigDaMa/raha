@@ -1,9 +1,9 @@
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(
     name="raha",
-    version="1.23",
-    packages=["raha"],
+    version="1.24",
+    packages=find_packages(),
     url="https://github.com/bigdama/raha",
     license="Apache 2.0",
     author="Mohammad Mahdavi",
@@ -13,5 +13,5 @@ setup(
     install_requires=["numpy", "pandas", "scipy", "sklearn", "matplotlib", 
     "prettytable", "mwparserfromhell", "beautifulsoup4", "py7zr"],
     include_package_data=True,
-    download_url="https://github.com/BigDaMa/raha/archive/v1.23.tar.gz"
+    download_url="https://github.com/BigDaMa/raha/archive/v1.24.tar.gz"
 )
