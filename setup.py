@@ -1,7 +1,4 @@
-from setuptools import setup, find_packages
-
-with open("requirements.txt") as f:
-    required = f.read().splitlines()
+from distutils.core import setup
 
 setup(
     name="raha",
@@ -13,7 +10,8 @@ setup(
     author_email="moh.mahdavi.l@gmail.com",
     description="Raha and Baran: An End-to-End Data Cleaning System",
     keywords=["Data Cleaning", "Machine Learning", "Error Detection", "Error Correction", "Data Repairing"],
-    install_requires=required,
+    install_requires=["numpy", "pandas", "scipy", "sklearn", "matplotlib", 
+    "prettytable", "mwparserfromhell", "beautifulsoup4", "py7zr"],
     include_package_data=True,
     download_url="https://github.com/BigDaMa/raha/archive/v1.2.tar.gz"
 )
