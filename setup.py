@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name="raha",
     version="1.2",
-    packages=find_packages(),
+    packages=["raha"],
     url="https://github.com/bigdama/raha",
     license="Apache 2.0",
     author="Mohammad Mahdavi",
