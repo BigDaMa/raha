@@ -155,12 +155,14 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
                 for strategy_name in strategies_performance:
                     f1_measure[(hd.name, ha)][strategy_name] = strategies_performance[strategy_name][2]
     strategies_score = {a: {} for a in d.dataframe.columns.tolist()}
+    strategies_anchor = {a: {} for a in d.dataframe.columns.tolist()}
     for nci, na in enumerate(d.dataframe.columns.tolist()):
         for hdd in historical_dataset_dictionaries:
             if hdd["name"] != d.name:
                 hd = raha.dataset.Dataset(hdd)
                 for hci, ha in enumerate(hd.dataframe.columns.tolist()):
                     similarity = columns_similarity[(d.name, na, hd.name, ha)]
+                    anchor = [d.name, na, hd.name, ha]
                     if similarity == 0:
                         continue
                     for strategy_name in f1_measure[(hd.name, ha)]:
@@ -171,10 +173,12 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
                         if sn[0] == "OD" or sn[0] == "KBVD":
                             if strategy_name not in strategies_score[na] or score >= strategies_score[na][strategy_name]:
                                 strategies_score[na][strategy_name] = score
+                                strategies_anchor[na][strategy_name] = anchor
                         elif sn[0] == "PVD":
                             sn[1][0] = na
                             if json.dumps(sn) not in strategies_score[na] or score >= strategies_score[na][json.dumps(sn)]:
                                 strategies_score[na][json.dumps(sn)] = score
+                                strategies_anchor[na][json.dumps(sn)] = anchor
                         elif sn[0] == "RVD":
                             this_a_i = sn[1].index(ha)
                             that_a = sn[1][1 - this_a_i]
@@ -188,6 +192,7 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
                             sn[1][1 - this_a_i] = most_similar_a
                             if json.dumps(sn) not in strategies_score[na] or score >= strategies_score[na][json.dumps(sn)]:
                                 strategies_score[na][json.dumps(sn)] = score
+                                strategies_anchor[na][json.dumps(sn)] = anchor
                         else:
                             sys.stderr.write("I do not know this error detection tool!\n")
     sp_folder_path = os.path.join(d.results_folder, "strategy-profiling")
@@ -228,7 +233,9 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
                 "name": sn,
                 "output": [cell for cell in strategies_output[sn] if d.dataframe.columns.tolist()[cell[1]] == a],
                 "runtime": runtime,
-                "score": good_strategies[sn]
+                "score": good_strategies[sn],
+                "new_column": strategies_anchor[a][sn][0] + "." + strategies_anchor[a][sn][1],
+                "historical_column": strategies_anchor[a][sn][2] + "." + strategies_anchor[a][sn][3]
             }
             selected_strategy_profiles.append(strategy_profile)
     return selected_strategy_profiles

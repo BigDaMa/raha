@@ -134,10 +134,10 @@ class Detection:
         d.results_folder = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name)
         if self.SAVE_RESULTS and not os.path.exists(d.results_folder):
             os.mkdir(d.results_folder)
-        d.labeled_tuples = {}
-        d.labeled_cells = {}
-        d.labels_per_cluster = {}
-        d.detected_cells = {}
+        d.labeled_tuples = {} if not hasattr(d, "labeled_tuples") else d.labeled_tuples
+        d.labeled_cells = {} if not hasattr(d, "labeled_cells") else d.labeled_cells
+        d.labels_per_cluster = {} if not hasattr(d, "labels_per_cluster") else d.labels_per_cluster
+        d.detected_cells = {} if not hasattr(d, "detected_cells") else d.detected_cells
         return d
 
     def run_strategies(self, d):
@@ -264,7 +264,7 @@ class Detection:
         k = len(d.labeled_tuples) + 2
         for j in range(d.dataframe.shape[1]):
             for c in d.clusters_k_j_c_ce[k][j]:
-                d.labels_per_cluster[(j, c)] = {cell: d.labeled_cells[cell] for cell in d.clusters_k_j_c_ce[k][j][c] if
+                d.labels_per_cluster[(j, c)] = {cell: d.labeled_cells[cell][0] for cell in d.clusters_k_j_c_ce[k][j][c] if
                                                 cell[0] in d.labeled_tuples}
         # --------------------Sampling a Tuple--------------------
         if self.CLUSTERING_BASED_SAMPLING:
@@ -298,7 +298,7 @@ class Detection:
             user_label = int(cell in actual_errors_dictionary)
             if random.random() > self.USER_LABELING_ACCURACY:
                 user_label = 1 - user_label
-            d.labeled_cells[cell] = user_label
+            d.labeled_cells[cell] = [user_label, d.clean_dataframe.iloc[cell]]
         if self.VERBOSE:
             print("Tuple {} is labeled.".format(d.sampled_tuple))
 
@@ -306,13 +306,13 @@ class Detection:
         """
         This method propagates labels.
         """
-        d.extended_labeled_cells = dict(d.labeled_cells)
+        d.extended_labeled_cells = {cell: d.labeled_cells[cell][0] for cell in d.labeled_cells}
         k = len(d.labeled_tuples) + 2 - 1
         for j in range(d.dataframe.shape[1]):
             cell = (d.sampled_tuple, j)
             if cell in d.cells_clusters_k_j_ce[k][j]:
                 c = d.cells_clusters_k_j_ce[k][j][cell]
-                d.labels_per_cluster[(j, c)][cell] = d.labeled_cells[cell]
+                d.labels_per_cluster[(j, c)][cell] = d.labeled_cells[cell][0]
         if self.CLUSTERING_BASED_SAMPLING:
             for j in d.clusters_k_j_c_ce[k]:
                 for c in d.clusters_k_j_c_ce[k][j]:
@@ -376,9 +376,9 @@ class Detection:
         ed_folder_path = os.path.join(d.results_folder, "error-detection")
         if not os.path.exists(ed_folder_path):
             os.mkdir(ed_folder_path)
-        pickle.dump(d.detected_cells, open(os.path.join(ed_folder_path, "detection.dictionary"), "wb"))
+        pickle.dump(d, open(os.path.join(ed_folder_path, "detection.dataset"), "wb"))
         if self.VERBOSE:
-            print("The results are stored in {}.".format(os.path.join(ed_folder_path, "detection.dictionary")))
+            print("The results are stored in {}.".format(os.path.join(ed_folder_path, "detection.dataset")))
 
     def run(self, dd):
         """

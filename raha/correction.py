@@ -361,9 +361,9 @@ class Correction:
         d.column_errors = {}
         for cell in d.detected_cells:
             self._to_model_adder(d.column_errors, cell[1], cell)
-        d.labeled_tuples = {}
-        d.labeled_cells = {}
-        d.corrected_cells = {}
+        d.labeled_tuples = {} if not hasattr(d, "labeled_tuples") else d.labeled_tuples
+        d.labeled_cells = {} if not hasattr(d, "labeled_cells") else d.labeled_cells
+        d.corrected_cells = {} if not hasattr(d, "corrected_cells") else d.corrected_cells
         return d
 
     def initialize_models(self, d):
@@ -424,8 +424,10 @@ class Correction:
         d.labeled_tuples[d.sampled_tuple] = 1
         for j in range(d.dataframe.shape[1]):
             cell = (d.sampled_tuple, j)
+            error_label = 0
             if d.dataframe.iloc[cell] != d.clean_dataframe.iloc[cell]:
-                d.labeled_cells[cell] = d.clean_dataframe.iloc[cell]
+                error_label = 1
+            d.labeled_cells[cell] = [error_label, d.clean_dataframe.iloc[cell]]
         if self.VERBOSE:
             print("Tuple {} is labeled.".format(d.sampled_tuple))
 
@@ -433,8 +435,7 @@ class Correction:
         """
         This method updates the error corrector models with a new labeled tuple.
         """
-        cleaned_sampled_tuple = [d.labeled_cells[(d.sampled_tuple, j)] if (d.sampled_tuple, j) in d.labeled_cells else v
-                                 for j, v in enumerate(d.dataframe.iloc[d.sampled_tuple, :])]
+        cleaned_sampled_tuple = [d.labeled_cells[(d.sampled_tuple, j)][1] for j in range(d.dataframe.shape[1])]
         for j in range(d.dataframe.shape[1]):
             cell = (d.sampled_tuple, j)
             update_dictionary = {
@@ -442,7 +443,7 @@ class Correction:
                 "old_value": d.dataframe.iloc[cell],
                 "new_value": cleaned_sampled_tuple[j],
             }
-            if cell in d.labeled_cells:
+            if d.labeled_cells[cell][0] == 1:
                 if cell not in d.detected_cells:
                     d.detected_cells[cell] = self.IGNORE_SIGN
                     self._to_model_adder(d.column_errors, cell[1], cell)
@@ -451,7 +452,7 @@ class Correction:
                 update_dictionary["vicinity"] = [cv if j != cj else self.IGNORE_SIGN
                                                  for cj, cv in enumerate(cleaned_sampled_tuple)]
             else:
-                update_dictionary["vicinity"] = [cv if j != cj and (d.sampled_tuple, cj) in d.labeled_cells
+                update_dictionary["vicinity"] = [cv if j != cj and d.labeled_cells[(d.sampled_tuple, cj)][0] == 1
                                                  else self.IGNORE_SIGN for cj, cv in enumerate(cleaned_sampled_tuple)]
             self._vicinity_based_models_updater(d.vicinity_models, update_dictionary)
         if self.VERBOSE:
@@ -506,10 +507,10 @@ class Correction:
             for k, cell in enumerate(d.column_errors[j]):
                 if cell in d.pair_features:
                     for correction in d.pair_features[cell]:
-                        if cell in d.labeled_cells:
+                        if cell in d.labeled_cells and d.labeled_cells[cell][0] == 1:
                             x_train.append(d.pair_features[cell][correction])
-                            y_train.append(int(correction == d.labeled_cells[cell]))
-                            d.corrected_cells[cell] = d.labeled_cells[cell]
+                            y_train.append(int(correction == d.labeled_cells[cell][1]))
+                            d.corrected_cells[cell] = d.labeled_cells[cell][1]
                         else:
                             x_test.append(d.pair_features[cell][correction])
                             test_cell_correction_list.append([cell, correction])
@@ -555,9 +556,9 @@ class Correction:
         ec_folder_path = os.path.join(d.results_folder, "error-correction")
         if not os.path.exists(ec_folder_path):
             os.mkdir(ec_folder_path)
-        pickle.dump(d.corrected_cells, open(os.path.join(ec_folder_path, "correction.dictionary"), "wb"))
+        pickle.dump(d, open(os.path.join(ec_folder_path, "correction.dataset"), "wb"))
         if self.VERBOSE:
-            print("The results are stored in {}.".format(os.path.join(ec_folder_path, "correction.dictionary")))
+            print("The results are stored in {}.".format(os.path.join(ec_folder_path, "correction.dataset")))
 
     def run(self, d):
         """
