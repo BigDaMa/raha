@@ -7,17 +7,17 @@ Raha and Baran are new configuration-free error detection and correction systems
 ## Installation
 To install Raha and Baran, you can run:
 ```console
-sudo python3 setup.py install
+pip3 install raha
 ```
 To uninstall them, you can run:
 ```console
-sudo pip3 uninstall raha
+pip3 uninstall raha
 ```
 
 ## Usage
 Running Raha and Baran is simple!
    - **Benchmarking**: If you have a dirty dataset and its corresponding clean dataset and you want to benchmark Raha and Baran, please check the sample codes in `raha/benchmark.py`, `raha/detection.py`, and `raha/correction.py`.
-   - **Interactive data cleaning with Raha and Baran**: If you have a dirty dataset and you want to interatively detect and correct data errors, please check the `raha/end_to_end_data_cleaning_pipeline.ipynb` notebook. A user interface is also `coming soon`.
+   - **Interactive data cleaning with Raha and Baran**: If you have a dirty dataset and you want to interatively detect and correct data errors, please check our interactive Jupyter notebooks in the `raha` folder. The Jupyter notebooks provide graphical user interfaces.
    ![Data Annotation](pictures/ui.png)   
    ![Promising Strategies](pictures/ui_strategies.png)   
    ![Drill Down](pictures/ui_clusters.png)   
@@ -31,7 +31,7 @@ You can find more information about this project and the authors [here](https://
 @inproceedings{mahdavi2019raha,
   title={Raha: A configuration-free error detection system},
   author={Mahdavi, Mohammad and Abedjan, Ziawasch and Castro Fernandez, Raul and Madden, Samuel and Ouzzani, Mourad and Stonebraker, Michael and Tang, Nan},
-  booktitle={Proceedings of the 2019 International Conference on Management of Data (SIGMOD)},
+  booktitle={Proceedings of the International Conference on Management of Data (SIGMOD)},
   pages={865--882},
   year={2019},
   organization={ACM}
