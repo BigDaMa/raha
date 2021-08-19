@@ -1,9 +1,0 @@
-numpy==1.16.1
-pandas==0.24.1
-scipy==1.2.1
-sklearn==0.0
-matplotlib==3.1.1
-prettytable==0.7.2
-mwparserfromhell==0.5.4
-beautifulsoup4==4.6.0
-py7zr==0.7.0
