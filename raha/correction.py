@@ -18,7 +18,10 @@ import json
 import pickle
 import difflib
 import unicodedata
-import multiprocessing
+import datetime
+import itertools
+import copy
+from sqlitedict import SqliteDict
 
 import bs4
 import bz2
@@ -56,6 +59,10 @@ class Correction:
         self.MIN_CORRECTION_OCCURRENCE = 2
         self.MAX_VALUE_LENGTH = 50
         self.REVISION_WINDOW_SIZE = 5
+        self.USE_DISK_FOR_TEMPORARY_RESULTS = True
+        self.TEMPORARY_RESULTS_FILE_NAME = "temporary_pair_features"
+        self.FEATURE_GENERATION_NUM_CORES = 1
+        self.FEATURE_GENERATION_CHUNK_SIZE = 1000
 
     @staticmethod
     def _wikitext_segmenter(wikitext):
@@ -462,36 +469,70 @@ class Correction:
         """
         This method generates features for each data column in a parallel process.
         """
-        d, cell = args
-        error_dictionary = {"column": cell[1], "old_value": d.dataframe.iloc[cell], "vicinity": list(d.dataframe.iloc[cell[0], :])}
-        value_corrections = self._value_based_corrector(d.value_models, error_dictionary)
-        vicinity_corrections = self._vicinity_based_corrector(d.vicinity_models, error_dictionary)
-        domain_corrections = self._domain_based_corrector(d.domain_models, error_dictionary)
-        models_corrections = value_corrections + vicinity_corrections + domain_corrections
-        corrections_features = {}
-        for mi, model in enumerate(models_corrections):
-            for correction in model:
-                if correction not in corrections_features:
-                    corrections_features[correction] = numpy.zeros(len(models_corrections))
-                corrections_features[correction][mi] = model[correction]
-        return corrections_features
+        d, cell_list = args
+        pairs_counter = 0
+        pair_features = {}
+
+        for cell in filter(lambda cell: cell is not None, cell_list):
+            error_dictionary = {"column": cell[1], "old_value": d.dataframe.iloc[cell], "vicinity": list(d.dataframe.iloc[cell[0], :])}
+            value_corrections = self._value_based_corrector(d.value_models, error_dictionary)
+            vicinity_corrections = self._vicinity_based_corrector(d.vicinity_models, error_dictionary)
+            domain_corrections = self._domain_based_corrector(d.domain_models, error_dictionary)
+            models_corrections = value_corrections + vicinity_corrections + domain_corrections
+            corrections_features = {}
+            for mi, model in enumerate(models_corrections):
+                for correction in model:
+                    if correction not in corrections_features:
+                        corrections_features[correction] = numpy.zeros(len(models_corrections))
+                    corrections_features[correction][mi] = model[correction]
+
+            cell = str(cell)
+            pair_features[cell] = {}
+            for correction in corrections_features:
+                pair_features[cell][correction] = corrections_features[correction]
+                pairs_counter += 1
+
+        return pairs_counter, pair_features
 
     def generate_features(self, d):
         """
         This method generates a feature vector for each pair of a data error and a potential correction.
         """
-        d.pair_features = {}
+        d_copy = copy.deepcopy(d)
+
+        if self.USE_DISK_FOR_TEMPORARY_RESULTS:
+            d.pair_features = SqliteDict(os.path.join(d.results_folder, self.TEMPORARY_RESULTS_FILE_NAME + ".sqlite"), flag="n", journal_mode="OFF", outer_stack=False)
+        else:
+            d.pair_features = {}
+
         pairs_counter = 0
-        process_args_list = [[d, cell] for cell in d.detected_cells]
-        pool = multiprocessing.Pool()
-        feature_generation_results = pool.map(self._feature_generator_process, process_args_list)
-        pool.close()
-        for ci, corrections_features in enumerate(feature_generation_results):
-            cell = process_args_list[ci][1]
-            d.pair_features[cell] = {}
-            for correction in corrections_features:
-                d.pair_features[cell][correction] = corrections_features[correction]
-                pairs_counter += 1
+        process_args_generator = zip(itertools.repeat(d_copy), itertools.zip_longest(*[iter(d.detected_cells)] * self.FEATURE_GENERATION_CHUNK_SIZE))
+
+        if self.FEATURE_GENERATION_NUM_CORES > 1:
+            from multiprocessing import Pool
+            pool = Pool(self.FEATURE_GENERATION_NUM_CORES-1)
+            feature_generation_iterator = pool.imap_unordered(self._feature_generator_process, process_args_generator)
+        else:
+            feature_generation_iterator = map(self._feature_generator_process, process_args_generator)
+
+        i = 1
+        num_det_cell = len(d.detected_cells)
+        for pairs_counter_out, pair_features in feature_generation_iterator:
+            pairs_counter += pairs_counter_out
+            d.pair_features.update(pair_features)
+            if self.USE_DISK_FOR_TEMPORARY_RESULTS:
+                d.pair_features.commit()
+            print(f"{i*self.FEATURE_GENERATION_CHUNK_SIZE}/{num_det_cell}", end="\r")
+            i += 1
+
+        if self.FEATURE_GENERATION_NUM_CORES > 1:
+            pool.close()
+
+        if self.USE_DISK_FOR_TEMPORARY_RESULTS:
+            d.pair_features.commit()
+            d.pair_features.close()
+            del d.pair_features
+
         if self.VERBOSE:
             print("{} pairs of (a data error, a potential correction) are featurized.".format(pairs_counter))
 
@@ -499,21 +540,34 @@ class Correction:
         """
         This method predicts
         """
-        for j in d.column_errors:
+        if self.USE_DISK_FOR_TEMPORARY_RESULTS:
+            d.pair_features = SqliteDict(os.path.join(d.results_folder, self.TEMPORARY_RESULTS_FILE_NAME + ".sqlite"), flag="r", journal_mode="OFF", outer_stack=False)
+
+        len_column_errors = len(d.column_errors)
+        for column_idx, j in enumerate(d.column_errors):
+            pair_feature_keys = list(d.pair_features.keys())
+            used_cells_train = []
+            used_cells_test = []
+            for k, cell in enumerate(d.column_errors[j]):
+                if str(cell) in pair_feature_keys:
+                    if cell in d.labeled_cells and d.labeled_cells[cell][0] == 1:
+                        used_cells_train.append(cell)
+                    else:
+                        used_cells_test.append(cell)
+
             x_train = []
             y_train = []
-            x_test = []
             test_cell_correction_list = []
-            for k, cell in enumerate(d.column_errors[j]):
-                if cell in d.pair_features:
-                    for correction in d.pair_features[cell]:
-                        if cell in d.labeled_cells and d.labeled_cells[cell][0] == 1:
-                            x_train.append(d.pair_features[cell][correction])
-                            y_train.append(int(correction == d.labeled_cells[cell][1]))
-                            d.corrected_cells[cell] = d.labeled_cells[cell][1]
-                        else:
-                            x_test.append(d.pair_features[cell][correction])
-                            test_cell_correction_list.append([cell, correction])
+
+            leennns = len(used_cells_test)
+            for k, cell in enumerate(used_cells_train):
+                print(f"{column_idx+1}/{len_column_errors} columns, {k+1}/{leennns} cells in current column train set",end="\r")
+                for correction, value in d.pair_features[str(cell)].items():
+                    x_train.append(value)
+                    y_train.append(int(correction == d.labeled_cells[cell][1]))
+                    d.corrected_cells[cell] = d.labeled_cells[cell][1]
+        
+            
             if self.CLASSIFICATION_MODEL == "ABC":
                 classification_model = sklearn.ensemble.AdaBoostClassifier(n_estimators=100)
             if self.CLASSIFICATION_MODEL == "DTC":
@@ -528,14 +582,36 @@ class Correction:
                 classification_model = sklearn.linear_model.SGDClassifier(loss="hinge", penalty="l2")
             if self.CLASSIFICATION_MODEL == "SVC":
                 classification_model = sklearn.svm.SVC(kernel="sigmoid")
-            if x_train and x_test:
+            
+            if x_train:
+                all_zeros = False
+                all_ones = False
                 if sum(y_train) == 0:
-                    predicted_labels = numpy.zeros(len(x_test))
+                    all_zeros = True
                 elif sum(y_train) == len(y_train):
-                    predicted_labels = numpy.ones(len(x_test))
+                    all_ones = True
                 else:
                     classification_model.fit(x_train, y_train)
-                    predicted_labels = classification_model.predict(x_test)
+
+                predicted_labels = []
+                leennns = len(used_cells_test)
+                for k, cell in enumerate(used_cells_test):
+                    print(f"{column_idx+1}/{len_column_errors} columns, {k+1}/{leennns} cells, predict correction",end="\r")
+                    value_list = []
+                    for correction, value in d.pair_features[str(cell)].items():
+                        value_list.append(value)
+                        test_cell_correction_list.append([cell, correction])
+
+                    if all_ones:
+                        for _ in range(len(value_list)):
+                            predicted_labels.append(1)
+                    elif all_zeros:
+                        for _ in range(len(value_list)):
+                            predicted_labels.append(0)
+                    else:
+                        for res in classification_model.predict(value_list):
+                            predicted_labels.append(res)
+
                 # predicted_probabilities = classification_model.predict_proba(x_test)
                 # correction_confidence = {}
                 for index, predicted_label in enumerate(predicted_labels):
@@ -545,6 +621,9 @@ class Correction:
                         # if cell not in correction_confidence or confidence > correction_confidence[cell]:
                         #     correction_confidence[cell] = confidence
                         d.corrected_cells[cell] = predicted_correction
+        if self.USE_DISK_FOR_TEMPORARY_RESULTS:
+            os.remove(os.path.join(d.results_folder, self.TEMPORARY_RESULTS_FILE_NAME + ".sqlite"))
+            del d.pair_features
         if self.VERBOSE:
             print("{:.0f}% ({} / {}) of data errors are corrected.".format(100 * len(d.corrected_cells) / len(d.detected_cells),
                                                                            len(d.corrected_cells), len(d.detected_cells)))
@@ -579,6 +658,7 @@ class Correction:
                   "--------------Iterative Tuple Sampling, Labeling, and Learning----------\n"
                   "------------------------------------------------------------------------")
         while len(d.labeled_tuples) < self.LABELING_BUDGET:
+            print(f"Label round {len(d.labeled_tuples)+1}/{self.LABELING_BUDGET} start: {datetime.datetime.now()}")
             self.sample_tuple(d)
             if d.has_ground_truth:
                 self.label_with_ground_truth(d)
@@ -601,7 +681,7 @@ class Correction:
 
 ########################################
 if __name__ == "__main__":
-    dataset_name = "flights"
+    dataset_name = "tax"
     dataset_dictionary = {
         "name": dataset_name,
         "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
@@ -610,7 +690,10 @@ if __name__ == "__main__":
     data = raha.dataset.Dataset(dataset_dictionary)
     data.detected_cells = dict(data.get_actual_errors_dictionary())
     app = Correction()
+    app.VERBOSE = True
+    print(f"Start: {datetime.datetime.now()}")
     correction_dictionary = app.run(data)
+    print(f"End: {datetime.datetime.now()}")
     p, r, f = data.get_data_cleaning_evaluation(correction_dictionary)[-3:]
     print("Baran's performance on {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(data.name, p, r, f))
     # --------------------

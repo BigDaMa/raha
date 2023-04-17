@@ -7,3 +7,4 @@ prettytable==0.7.2
 mwparserfromhell==0.5.4
 beautifulsoup4==4.6.0
 py7zr==0.7.0
+sqlitedict
