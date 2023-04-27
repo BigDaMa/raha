@@ -20,8 +20,8 @@ import difflib
 import unicodedata
 import datetime
 import itertools
-import copy
-from sqlitedict import SqliteDict
+import functools
+from multiprocessing import Pool
 
 import bs4
 import bz2
@@ -59,10 +59,8 @@ class Correction:
         self.MIN_CORRECTION_OCCURRENCE = 2
         self.MAX_VALUE_LENGTH = 50
         self.REVISION_WINDOW_SIZE = 5
-        self.USE_DISK_FOR_TEMPORARY_RESULTS = True
-        self.TEMPORARY_RESULTS_FILE_NAME = "temporary_pair_features"
-        self.FEATURE_GENERATION_NUM_CORES = 1
-        self.FEATURE_GENERATION_CHUNK_SIZE = 1000
+        self.FEATURE_GENERATION_NUM_CORES = os.cpu_count()
+        self.FEATURE_GENERATION_CHUNK_SIZE = 100
 
     @staticmethod
     def _wikitext_segmenter(wikitext):
@@ -465,13 +463,17 @@ class Correction:
         if self.VERBOSE:
             print("The error corrector models are updated with new labeled tuple {}.".format(d.sampled_tuple))
 
-    def _feature_generator_process(self, args):
+    def _feature_generator_process(self, cell_list, dataset=None):
         """
         This method generates features for each data column in a parallel process.
         """
-        d, cell_list = args
         pairs_counter = 0
         pair_features = {}
+        ret_cells = []
+        if dataset == None:
+            global d
+        else:
+            d = dataset
 
         for cell in filter(lambda cell: cell is not None, cell_list):
             error_dictionary = {"column": cell[1], "old_value": d.dataframe.iloc[cell], "vicinity": list(d.dataframe.iloc[cell[0], :])}
@@ -486,70 +488,107 @@ class Correction:
                         corrections_features[correction] = numpy.zeros(len(models_corrections))
                     corrections_features[correction][mi] = model[correction]
 
-            cell = str(cell)
             pair_features[cell] = {}
+            ret_cells.append(cell)
             for correction in corrections_features:
                 pair_features[cell][correction] = corrections_features[correction]
                 pairs_counter += 1
 
-        return pairs_counter, pair_features
+        return pairs_counter, pair_features, ret_cells
 
-    def generate_features(self, d):
+    def generate_features(self, d, cells):
         """
         This method generates a feature vector for each pair of a data error and a potential correction.
         """
-        d_copy = copy.deepcopy(d)
-
-        if self.USE_DISK_FOR_TEMPORARY_RESULTS:
-            d.pair_features = SqliteDict(os.path.join(d.results_folder, self.TEMPORARY_RESULTS_FILE_NAME + ".sqlite"), flag="n", journal_mode="OFF", outer_stack=False)
+        if len(cells) == 0:
+            yield {}, []
         else:
-            d.pair_features = {}
+            def worker_init(dataset):
+                global d
+                d = dataset 
 
-        pairs_counter = 0
-        process_args_generator = zip(itertools.repeat(d_copy), itertools.zip_longest(*[iter(d.detected_cells)] * self.FEATURE_GENERATION_CHUNK_SIZE))
+            pool = Pool(max(self.FEATURE_GENERATION_NUM_CORES-1, 1), initargs=(d,), initializer=worker_init)
+            pairs_counter = 0
+            process_args_generator = itertools.zip_longest(*[iter(cells)] * self.FEATURE_GENERATION_CHUNK_SIZE)
 
-        if self.FEATURE_GENERATION_NUM_CORES > 1:
-            from multiprocessing import Pool
-            pool = Pool(self.FEATURE_GENERATION_NUM_CORES-1)
             feature_generation_iterator = pool.imap_unordered(self._feature_generator_process, process_args_generator)
-        else:
-            feature_generation_iterator = map(self._feature_generator_process, process_args_generator)
 
-        i = 1
-        num_det_cell = len(d.detected_cells)
-        for pairs_counter_out, pair_features in feature_generation_iterator:
-            pairs_counter += pairs_counter_out
-            d.pair_features.update(pair_features)
-            if self.USE_DISK_FOR_TEMPORARY_RESULTS:
-                d.pair_features.commit()
-            print(f"{i*self.FEATURE_GENERATION_CHUNK_SIZE}/{num_det_cell}", end="\r")
-            i += 1
+            for pairs_counter_out, pair_features_out, cell_list in feature_generation_iterator:
+                pairs_counter += pairs_counter_out
+                yield pair_features_out, cell_list
 
-        if self.FEATURE_GENERATION_NUM_CORES > 1:
             pool.close()
+            if self.VERBOSE:
+                print("{} pairs of (a data error, a potential correction) are featurized.".format(pairs_counter))
 
-        if self.USE_DISK_FOR_TEMPORARY_RESULTS:
-            d.pair_features.commit()
-            d.pair_features.close()
-            del d.pair_features
 
-        if self.VERBOSE:
-            print("{} pairs of (a data error, a potential correction) are featurized.".format(pairs_counter))
+    def _prediction_process(self, cell_list, all_ones, all_zeros, dataset=None, cls_model=None):
+        if dataset == None:
+            global d
+        else:
+            d = dataset
 
+        if cls_model == None:
+            global classification_model
+        else:
+            classification_model = cls_model
+        
+        correction_dict = {}
+
+        for cell in filter(lambda cell: cell is not None, cell_list):
+            _, pair_features, _ = self._feature_generator_process([cell], dataset=d)
+            # Some kind of batch processing may improve performance but increases memory usage
+            for correction, value in pair_features[cell].items():
+                if all_ones:
+                    prediction = 1
+                elif all_zeros:
+                    prediction = 0
+                else:
+                    prediction = classification_model.predict([value])[0]
+                
+                if prediction:
+                    correction_dict[cell] = correction
+
+        return correction_dict
+                
+
+    def predict_correction_multicore(self, classification_model, used_cells_test, d, all_zeros, all_ones):
+        def worker_init(dataset, cls_model):
+            global d
+            d = dataset 
+            global classification_model
+            classification_model = cls_model
+
+        pool = Pool(self.FEATURE_GENERATION_NUM_CORES,initargs=(d,classification_model), initializer=worker_init)
+
+        prediction_args_generator = itertools.zip_longest(*[iter(used_cells_test)] * self.FEATURE_GENERATION_CHUNK_SIZE)
+
+        correction_iterator = pool.imap(functools.partial(self._prediction_process, all_zeros=all_zeros, all_ones=all_ones), prediction_args_generator)
+
+        for i, correction_dict in enumerate(correction_iterator):
+            d.corrected_cells.update(correction_dict)
+            if self.VERBOSE:
+                print(f"{i*self.FEATURE_GENERATION_CHUNK_SIZE}/{len(used_cells_test)} predicted correction", end="\r")
+
+        pool.close()
+        
     def predict_corrections(self, d):
         """
         This method predicts
         """
-        if self.USE_DISK_FOR_TEMPORARY_RESULTS:
-            d.pair_features = SqliteDict(os.path.join(d.results_folder, self.TEMPORARY_RESULTS_FILE_NAME + ".sqlite"), flag="r", journal_mode="OFF", outer_stack=False)
+        if self.VERBOSE:
+            print("Predicting module...")
 
         len_column_errors = len(d.column_errors)
         for column_idx, j in enumerate(d.column_errors):
-            pair_feature_keys = list(d.pair_features.keys())
+            if self.VERBOSE:
+                print("------------------------------------------------------------------------")
+                print(f"{column_idx+1}/{len_column_errors} columns({d.dataframe.columns[j]})")
+            
             used_cells_train = []
             used_cells_test = []
             for k, cell in enumerate(d.column_errors[j]):
-                if str(cell) in pair_feature_keys:
+                if cell in d.detected_cells:
                     if cell in d.labeled_cells and d.labeled_cells[cell][0] == 1:
                         used_cells_train.append(cell)
                     else:
@@ -557,33 +596,38 @@ class Correction:
 
             x_train = []
             y_train = []
-            test_cell_correction_list = []
+            
+            if self.VERBOSE:
+                print(f"Generating train features({len(used_cells_train)}) ...")
 
-            leennns = len(used_cells_test)
-            for k, cell in enumerate(used_cells_train):
-                print(f"{column_idx+1}/{len_column_errors} columns, {k+1}/{leennns} cells in current column train set",end="\r")
-                for correction, value in d.pair_features[str(cell)].items():
-                    x_train.append(value)
-                    y_train.append(int(correction == d.labeled_cells[cell][1]))
-                    d.corrected_cells[cell] = d.labeled_cells[cell][1]
+            len_used_cells_train = len(used_cells_train)
+            for k, (pair_features, cells) in enumerate(self.generate_features(d, used_cells_train)):
+                if self.VERBOSE:
+                    print(f"{(k)*self.FEATURE_GENERATION_CHUNK_SIZE}/{len_used_cells_train} creating train features",end="\r")
+                for cell in cells:
+                    for correction, value in pair_features[cell].items():
+                        x_train.append(value)
+                        y_train.append(int(correction == d.labeled_cells[cell][1]))
+                        d.corrected_cells[cell] = d.labeled_cells[cell][1]
         
-            
-            if self.CLASSIFICATION_MODEL == "ABC":
-                classification_model = sklearn.ensemble.AdaBoostClassifier(n_estimators=100)
-            if self.CLASSIFICATION_MODEL == "DTC":
-                classification_model = sklearn.tree.DecisionTreeClassifier(criterion="gini")
-            if self.CLASSIFICATION_MODEL == "GBC":
-                classification_model = sklearn.ensemble.GradientBoostingClassifier(n_estimators=100)
-            if self.CLASSIFICATION_MODEL == "GNB":
-                classification_model = sklearn.naive_bayes.GaussianNB()
-            if self.CLASSIFICATION_MODEL == "KNC":
-                classification_model = sklearn.neighbors.KNeighborsClassifier(n_neighbors=1)
-            if self.CLASSIFICATION_MODEL == "SGDC":
-                classification_model = sklearn.linear_model.SGDClassifier(loss="hinge", penalty="l2")
-            if self.CLASSIFICATION_MODEL == "SVC":
-                classification_model = sklearn.svm.SVC(kernel="sigmoid")
-            
             if x_train:
+                if self.VERBOSE:
+                    print("Training classifier ...") 
+                if self.CLASSIFICATION_MODEL == "ABC":
+                    classification_model = sklearn.ensemble.AdaBoostClassifier(n_estimators=100)
+                if self.CLASSIFICATION_MODEL == "DTC":
+                    classification_model = sklearn.tree.DecisionTreeClassifier(criterion="gini")
+                if self.CLASSIFICATION_MODEL == "GBC":
+                    classification_model = sklearn.ensemble.GradientBoostingClassifier(n_estimators=100)
+                if self.CLASSIFICATION_MODEL == "GNB":
+                    classification_model = sklearn.naive_bayes.GaussianNB()
+                if self.CLASSIFICATION_MODEL == "KNC":
+                    classification_model = sklearn.neighbors.KNeighborsClassifier(n_neighbors=1)
+                if self.CLASSIFICATION_MODEL == "SGDC":
+                    classification_model = sklearn.linear_model.SGDClassifier(loss="hinge", penalty="l2")
+                if self.CLASSIFICATION_MODEL == "SVC":
+                    classification_model = sklearn.svm.SVC(kernel="sigmoid")
+
                 all_zeros = False
                 all_ones = False
                 if sum(y_train) == 0:
@@ -593,37 +637,11 @@ class Correction:
                 else:
                     classification_model.fit(x_train, y_train)
 
-                predicted_labels = []
-                leennns = len(used_cells_test)
-                for k, cell in enumerate(used_cells_test):
-                    print(f"{column_idx+1}/{len_column_errors} columns, {k+1}/{leennns} cells, predict correction",end="\r")
-                    value_list = []
-                    for correction, value in d.pair_features[str(cell)].items():
-                        value_list.append(value)
-                        test_cell_correction_list.append([cell, correction])
+                if self.VERBOSE:
+                    print("Predicting corrections...")
 
-                    if all_ones:
-                        for _ in range(len(value_list)):
-                            predicted_labels.append(1)
-                    elif all_zeros:
-                        for _ in range(len(value_list)):
-                            predicted_labels.append(0)
-                    else:
-                        for res in classification_model.predict(value_list):
-                            predicted_labels.append(res)
+                self.predict_correction_multicore(classification_model, used_cells_test, d, all_zeros, all_ones)
 
-                # predicted_probabilities = classification_model.predict_proba(x_test)
-                # correction_confidence = {}
-                for index, predicted_label in enumerate(predicted_labels):
-                    cell, predicted_correction = test_cell_correction_list[index]
-                    # confidence = predicted_probabilities[index][1]
-                    if predicted_label:
-                        # if cell not in correction_confidence or confidence > correction_confidence[cell]:
-                        #     correction_confidence[cell] = confidence
-                        d.corrected_cells[cell] = predicted_correction
-        if self.USE_DISK_FOR_TEMPORARY_RESULTS:
-            os.remove(os.path.join(d.results_folder, self.TEMPORARY_RESULTS_FILE_NAME + ".sqlite"))
-            del d.pair_features
         if self.VERBOSE:
             print("{:.0f}% ({} / {}) of data errors are corrected.".format(100 * len(d.corrected_cells) / len(d.detected_cells),
                                                                            len(d.corrected_cells), len(d.detected_cells)))
@@ -658,14 +676,14 @@ class Correction:
                   "--------------Iterative Tuple Sampling, Labeling, and Learning----------\n"
                   "------------------------------------------------------------------------")
         while len(d.labeled_tuples) < self.LABELING_BUDGET:
-            print(f"Label round {len(d.labeled_tuples)+1}/{self.LABELING_BUDGET} start: {datetime.datetime.now()}")
+            if self.VERBOSE:
+                print(f"Label round {len(d.labeled_tuples)+1}/{self.LABELING_BUDGET} start: {datetime.datetime.now()}")
             self.sample_tuple(d)
             if d.has_ground_truth:
                 self.label_with_ground_truth(d)
             # else:
             #   In this case, user should label the tuple interactively as shown in the Jupyter notebook.
             self.update_models(d)
-            self.generate_features(d)
             self.predict_corrections(d)
             if self.VERBOSE:
                 print("------------------------------------------------------------------------")
@@ -681,7 +699,7 @@ class Correction:
 
 ########################################
 if __name__ == "__main__":
-    dataset_name = "tax"
+    dataset_name = "beers"
     dataset_dictionary = {
         "name": dataset_name,
         "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
@@ -691,9 +709,12 @@ if __name__ == "__main__":
     data.detected_cells = dict(data.get_actual_errors_dictionary())
     app = Correction()
     app.VERBOSE = True
-    print(f"Start: {datetime.datetime.now()}")
+    start = datetime.datetime.now()
+    print(f"Start: {start}")
     correction_dictionary = app.run(data)
-    print(f"End: {datetime.datetime.now()}")
+    end = datetime.datetime.now()
+    print(f"End: {end}")
+    print(f"Duration: {end-start}")
     p, r, f = data.get_data_cleaning_evaluation(correction_dictionary)[-3:]
     print("Baran's performance on {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(data.name, p, r, f))
     # --------------------
