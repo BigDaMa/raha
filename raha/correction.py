@@ -34,6 +34,10 @@ import sklearn.naive_bayes
 import sklearn.linear_model
 
 import raha
+
+import numpy as np
+import random
+import os
 ########################################
 
 
@@ -511,7 +515,7 @@ class Correction:
             pairs_counter = 0
             process_args_generator = itertools.zip_longest(*[iter(cells)] * self.FEATURE_GENERATION_CHUNK_SIZE)
 
-            feature_generation_iterator = pool.imap_unordered(self._feature_generator_process, process_args_generator)
+            feature_generation_iterator = pool.imap(self._feature_generator_process, process_args_generator)
 
             for pairs_counter_out, pair_features_out, cell_list in feature_generation_iterator:
                 pairs_counter += pairs_counter_out
@@ -537,17 +541,18 @@ class Correction:
 
         for cell in filter(lambda cell: cell is not None, cell_list):
             _, pair_features, _ = self._feature_generator_process([cell], dataset=d)
-            # Some kind of batch processing may improve performance but increases memory usage
-            for correction, value in pair_features[cell].items():
-                if all_ones:
-                    prediction = 1
-                elif all_zeros:
-                    prediction = 0
-                else:
-                    prediction = classification_model.predict([value])[0]
-                
-                if prediction:
-                    correction_dict[cell] = correction
+            
+            if all_ones:
+                predictions = np.ones(len(pair_features[cell]))
+            elif all_zeros:
+                continue
+            else:
+                predictions = classification_model.predict(list(pair_features[cell].values()))
+
+            dict_keys = list(pair_features[cell].keys())
+            for index, predicted_label in enumerate(predictions):
+                if predicted_label:
+                    correction_dict[cell] = dict_keys[index]
 
         return correction_dict
                 
