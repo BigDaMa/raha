@@ -524,6 +524,9 @@ class Correction:
 
 
     def _prediction_process(self, cell_list, all_ones, all_zeros, dataset=None, cls_model=None):
+        """
+        This method generates the features for each data error cell and predicts a correction for each of them.
+        """
         if dataset == None:
             global d
         else:
@@ -555,6 +558,9 @@ class Correction:
                 
 
     def predict_correction_multicore(self, classification_model, used_cells_test, d, all_zeros, all_ones):
+        """
+        This method predicts the correction for each data error in a parallel process.
+        """
         def worker_init(dataset, cls_model):
             global d
             d = dataset 
@@ -576,7 +582,7 @@ class Correction:
         
     def predict_corrections(self, d):
         """
-        This method predicts
+        This method predicts corrections for each data error.
         """
         if self.VERBOSE:
             print("Predicting module...")
