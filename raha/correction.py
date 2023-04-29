@@ -18,7 +18,6 @@ import json
 import pickle
 import difflib
 import unicodedata
-import datetime
 import itertools
 import functools
 from multiprocessing import Pool
@@ -36,8 +35,6 @@ import sklearn.linear_model
 import raha
 
 import numpy as np
-import random
-import os
 ########################################
 
 
@@ -63,8 +60,8 @@ class Correction:
         self.MIN_CORRECTION_OCCURRENCE = 2
         self.MAX_VALUE_LENGTH = 50
         self.REVISION_WINDOW_SIZE = 5
-        self.FEATURE_GENERATION_NUM_CORES = os.cpu_count()
-        self.FEATURE_GENERATION_CHUNK_SIZE = 100
+        self.NUM_WORKERS = os.cpu_count()
+        self.CHUNK_SIZE = 100
 
     @staticmethod
     def _wikitext_segmenter(wikitext):
@@ -511,9 +508,9 @@ class Correction:
                 global d
                 d = dataset 
 
-            pool = Pool(max(self.FEATURE_GENERATION_NUM_CORES-1, 1), initargs=(d,), initializer=worker_init)
+            pool = Pool(max(self.NUM_WORKERS-1, 1), initargs=(d,), initializer=worker_init)
             pairs_counter = 0
-            process_args_generator = itertools.zip_longest(*[iter(cells)] * self.FEATURE_GENERATION_CHUNK_SIZE)
+            process_args_generator = itertools.zip_longest(*[iter(cells)] * self.CHUNK_SIZE)
 
             feature_generation_iterator = pool.imap(self._feature_generator_process, process_args_generator)
 
@@ -564,16 +561,16 @@ class Correction:
             global classification_model
             classification_model = cls_model
 
-        pool = Pool(self.FEATURE_GENERATION_NUM_CORES,initargs=(d,classification_model), initializer=worker_init)
+        pool = Pool(self.NUM_WORKERS,initargs=(d,classification_model), initializer=worker_init)
 
-        prediction_args_generator = itertools.zip_longest(*[iter(used_cells_test)] * self.FEATURE_GENERATION_CHUNK_SIZE)
+        prediction_args_generator = itertools.zip_longest(*[iter(used_cells_test)] * self.CHUNK_SIZE)
 
         correction_iterator = pool.imap(functools.partial(self._prediction_process, all_zeros=all_zeros, all_ones=all_ones), prediction_args_generator)
 
         for i, correction_dict in enumerate(correction_iterator):
             d.corrected_cells.update(correction_dict)
             if self.VERBOSE:
-                print(f"{i*self.FEATURE_GENERATION_CHUNK_SIZE}/{len(used_cells_test)} predicted correction", end="\r")
+                print(f"{i*self.CHUNK_SIZE}/{len(used_cells_test)} predicted correction", end="\r")
 
         pool.close()
         
@@ -608,7 +605,7 @@ class Correction:
             len_used_cells_train = len(used_cells_train)
             for k, (pair_features, cells) in enumerate(self.generate_features(d, used_cells_train)):
                 if self.VERBOSE:
-                    print(f"{(k)*self.FEATURE_GENERATION_CHUNK_SIZE}/{len_used_cells_train} creating train features",end="\r")
+                    print(f"{(k)*self.CHUNK_SIZE}/{len_used_cells_train} creating train features",end="\r")
                 for cell in cells:
                     for correction, value in pair_features[cell].items():
                         x_train.append(value)
@@ -682,7 +679,7 @@ class Correction:
                   "------------------------------------------------------------------------")
         while len(d.labeled_tuples) < self.LABELING_BUDGET:
             if self.VERBOSE:
-                print(f"Label round {len(d.labeled_tuples)+1}/{self.LABELING_BUDGET} start: {datetime.datetime.now()}")
+                print(f"Label round {len(d.labeled_tuples)+1}/{self.LABELING_BUDGET}")
             self.sample_tuple(d)
             if d.has_ground_truth:
                 self.label_with_ground_truth(d)
