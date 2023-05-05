@@ -37,6 +37,15 @@ import raha
 import numpy as np
 ########################################
 
+def worker_init_prediction(dataset, cls_model):
+    global d
+    d = dataset 
+    global classification_model
+    classification_model = cls_model
+
+def worker_init_feat_generation(dataset):
+    global d
+    d = dataset 
 
 ########################################
 class Correction:
@@ -504,11 +513,7 @@ class Correction:
         if len(cells) == 0:
             yield {}, []
         else:
-            def worker_init(dataset):
-                global d
-                d = dataset 
-
-            pool = Pool(max(self.NUM_WORKERS-1, 1), initargs=(d,), initializer=worker_init)
+            pool = Pool(max(self.NUM_WORKERS-1, 1), initargs=(d,), initializer=worker_init_feat_generation)
             pairs_counter = 0
             process_args_generator = itertools.zip_longest(*[iter(cells)] * self.CHUNK_SIZE)
 
@@ -561,13 +566,7 @@ class Correction:
         """
         This method predicts the correction for each data error in a parallel process.
         """
-        def worker_init(dataset, cls_model):
-            global d
-            d = dataset 
-            global classification_model
-            classification_model = cls_model
-
-        pool = Pool(self.NUM_WORKERS,initargs=(d,classification_model), initializer=worker_init)
+        pool = Pool(self.NUM_WORKERS,initargs=(d,classification_model), initializer=worker_init_prediction)
 
         prediction_args_generator = itertools.zip_longest(*[iter(used_cells_test)] * self.CHUNK_SIZE)
 
