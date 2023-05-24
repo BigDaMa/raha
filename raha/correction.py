@@ -33,8 +33,6 @@ import sklearn.naive_bayes
 import sklearn.linear_model
 
 import raha
-
-import numpy as np
 ########################################
 
 def worker_init_prediction(dataset, cls_model):
@@ -548,7 +546,7 @@ class Correction:
             _, pair_features, _ = self._feature_generator_process([cell], dataset=d)
             
             if all_ones:
-                predictions = np.ones(len(pair_features[cell]))
+                predictions = numpy.ones(len(pair_features[cell]))
             elif all_zeros:
                 continue
             else:
