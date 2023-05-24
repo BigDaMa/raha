@@ -9,6 +9,11 @@ To install Raha and Baran, you can run:
 ```console
 pip3 install raha
 ```
+To install Raha and Baran for development, you can run:
+```console
+pip3 install -e .
+```
+
 To uninstall them, you can run:
 ```console
 pip3 uninstall raha
