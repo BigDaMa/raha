@@ -1,9 +1,16 @@
 numpy==1.22.0
+<<<<<<< HEAD
 pandas==0.24.1
 scipy==1.2.1
 sklearn==0.0
 matplotlib==3.1.1
+=======
+pandas==2.0.1
+scipy==1.7.2
+scikit-learn==1.2.2
+matplotlib==3.7.1
+>>>>>>> 4bb2054c8bd09d2ebe35ecd3c98a6b967ea3086d
 prettytable==0.7.2
 mwparserfromhell==0.5.4
 beautifulsoup4==4.6.0
-py7zr==0.7.0
+py7zr==0.20.2
