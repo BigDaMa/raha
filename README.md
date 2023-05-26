@@ -29,6 +29,9 @@ Running Raha and Baran is simple!
    ![Promising Strategies](pictures/ui_strategies.png)   
    ![Drill Down](pictures/ui_clusters.png)   
    ![Dashboard](pictures/ui_dashboard.png) 
+   
+Hint:
+The pre-trained model inside the repo is only a sample for using the notebooks. Refrain from relying on that for your experiments. If you need to use the pre-trained models for Baran, please download the Wikipedia revision histories and use Baran to train a model.
 
 ## References
 You can find more information about this project and the authors [here](https://dl.acm.org/doi/abs/10.1145/3299869.3324956) and [here](https://dl.acm.org/doi/abs/10.14778/3407790.3407801). You can also use the following bib entries to cite this project and the corresponding research papers.
