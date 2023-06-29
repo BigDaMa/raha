@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="raha",
-    version="1.25",
+    version="1.26",
     packages=find_packages(),
     url="https://github.com/bigdama/raha",
     license="Apache 2.0",
@@ -13,5 +13,5 @@ setup(
     install_requires=["numpy", "pandas", "scipy", "scikit-learn", "matplotlib", 
     "prettytable", "mwparserfromhell", "beautifulsoup4", "py7zr"],
     include_package_data=True,
-    download_url="https://github.com/BigDaMa/raha/archive/v1.25.tar.gz"
+    download_url="https://github.com/BigDaMa/raha/archive/v1.26.tar.gz"
 )
