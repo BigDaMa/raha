@@ -128,7 +128,7 @@ class DetectionParallel(Detection):
         parameters = ["-F", ",", "--statistical", "0.5"] + ["--" + configuration[0]] + configuration[1:] + [
             dataset_path]
         # print("Worker: " + str(get_worker().id) + " started dboost.run")
-        raha.tools.dBoost.dboost.imported_dboost.run(parameters)
+        raha.parallel.tools.dBoost.dboost.imported_dboost.run(parameters)
 
         dboost_result_path = dataset_path + "-dboost_output.csv"
         if os.path.exists(dboost_result_path) and os.path.getsize(dboost_result_path) > 0:
@@ -778,8 +778,8 @@ if __name__ == '__main__':
     print("Running Raha...\n")
 
     # Run Raha Benchmark
-    raha = DetectionParallel()
-    detected_cells = raha.run(dataset_dictionary)
+    raha_para = DetectionParallel()
+    detected_cells = raha_para.run(dataset_dictionary)
     print("Detected {} cells!".format(len(detected_cells)))
     print("________________")
 
