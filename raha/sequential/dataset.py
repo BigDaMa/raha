@@ -45,14 +45,14 @@ class Dataset:
         self.results_folder = None
         self.strategy_profiles = None
         self.column_features = None
-        self.labeled_tuples = None
+        self.labeled_tuples = {}
         self.clusters_k_j_c_ce = None
         self.cells_clusters_k_j_ce = None
-        self.labels_per_cluster = None
-        self.labeled_cells = None
+        self.labels_per_cluster = {}
+        self.labeled_cells = {}
         self.sampled_tuple = None
         self.extended_labeled_cells = None
-        self.detected_cells = None
+        self.detected_cells = {}
 
     @staticmethod
     def value_normalizer(value):

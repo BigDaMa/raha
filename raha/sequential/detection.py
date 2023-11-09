@@ -22,6 +22,7 @@ import hashlib
 import tempfile
 import itertools
 import multiprocessing
+from pathlib import Path
 
 import numpy
 import pandas
@@ -446,8 +447,8 @@ if __name__ == "__main__":
     dataset_name = "flights"
     dataset_dictionary = {
         "name": dataset_name,
-        "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
-        "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
+        "path": str(Path("./datasets/flights/dirty.csv").resolve()),
+        "clean_path": str(Path("./datasets/flights/clean.csv").resolve())
     }
     app = SequentialDetection()
     detection_dictionary = app.run(dataset_dictionary)
