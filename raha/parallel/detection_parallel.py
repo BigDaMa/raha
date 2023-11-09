@@ -755,7 +755,7 @@ class DetectionParallel(Detection):
         self.propagate_labels(dataset_par)
 
         # ___________Predicting Labels___________#
-        self.predict_labels(dataset_par, clusters)
+        self.predict_labels(dataset_par)
 
         print("Raha Detection took {:.3f} seconds in total.".format(self.TIME_TOTAL))
         self.cleanup_raha(dataset_par)
