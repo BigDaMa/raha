@@ -32,11 +32,11 @@ from dask.distributed import get_worker, get_client
 from distributed import Client, LocalCluster
 from distributed.worker import Worker
 
-import constants
+import raha.constants as constants
 import container
 import dataset_parallel as dp
 import raha
-from constants import *
+from raha.constants import *
 from raha import Detection
 
 

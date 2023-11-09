@@ -20,7 +20,7 @@ import numpy
 import pandas
 import dask
 import dask.dataframe as dd
-import constants
+import raha.constants as constants
 
 import pickle
 from multiprocessing import shared_memory as sm
