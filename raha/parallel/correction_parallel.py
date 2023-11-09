@@ -684,7 +684,7 @@ class CorrectionParallel(Correction):
 
 
             #--------------Start Generating and Predicting--------------#
-            dataset.column_prediction_refs = self.generate_and_predict(column_workers, dataset.column_errors, step)
+            dataset.column_prediction_futures = self.generate_and_predict(column_workers, dataset.column_errors, step)
             self.predict_corrections(dataset)
 
             step += 1
