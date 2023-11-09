@@ -35,7 +35,7 @@ def run_raha(dataset_dictionary):
 
     #Run Raha and Benchmark
     raha = detection_parallel.DetectionParallel()
-    detected_cells = raha.run_detection(dataset_dictionary)
+    detected_cells = raha.run(dataset_dictionary)
     print("Detected {} cells!".format(len(detected_cells)))
     print("________________")
     return detected_cells

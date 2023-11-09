@@ -12,6 +12,7 @@ import tempfile
 import itertools
 import multiprocessing
 from multiprocessing import shared_memory as sm
+from pathlib import Path
 
 import numpy
 import pandas
@@ -765,4 +766,29 @@ class DetectionParallel(Detection):
         client.shutdown()
         return dataset_par.detected_cells
 
+
 ########################################
+
+########################################
+if __name__ == '__main__':
+    dataset_dictionary = {
+        "name": "flights",
+        "path": str(Path("./datasets/flights/dirty.csv").resolve()),
+        "clean_path": str(Path("./datasets/flights/clean.csv").resolve()),
+    }
+    dataset = dp.DatasetParallel(dataset_dictionary)
+    print("________________")
+    print("Running Raha...\n")
+
+    # Run Raha Benchmark
+    raha = DetectionParallel()
+    detected_cells = raha.run(dataset_dictionary)
+    print("Detected {} cells!".format(len(detected_cells)))
+    print("________________")
+
+    # corrected_cells = run_baran(dataset_dictionary, detected_cells)
+
+    p, r, f = dataset.get_data_cleaning_evaluation(detected_cells)[-3:]
+    print(
+        "Total Performance on Data-Cleaning {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(dataset.name,
+                                                                                                          p, r, f))

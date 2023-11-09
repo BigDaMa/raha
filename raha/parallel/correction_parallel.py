@@ -5,6 +5,8 @@ import math
 import json
 import pickle
 import difflib
+from pathlib import Path
+
 import unicodedata
 import itertools
 import functools
@@ -40,6 +42,7 @@ import dataset_parallel as dp
 import raha
 import container
 from raha import Correction
+from raha.parallel.detection_parallel import DetectionParallel
 
 
 class CorrectionParallel(Correction):
@@ -710,3 +713,35 @@ class CorrectionParallel(Correction):
         #print(list(dataset.labeled_tuples.keys()))
         print("Total time PARALLEL: {}".format(time_sum))
         return dataset.corrected_cells
+
+
+########################################
+
+########################################
+if __name__ == '__main__':
+    dataset_dictionary = {
+        "name": "flights",
+        "path": str(Path("./datasets/flights/dirty.csv").resolve()),
+        "clean_path": str(Path("./datasets/flights/clean.csv").resolve()),
+    }
+    dataset = dp.DatasetParallel(dataset_dictionary)
+    print("________________")
+    print("Running Raha...\n")
+
+    # Run Raha Benchmark
+    raha = DetectionParallel()
+    detected_cells = raha.run(dataset_dictionary)
+    print("Detected {} cells!".format(len(detected_cells)))
+    print("________________")
+
+    print("________________")
+    print("Running Baran...\n")
+    baran = CorrectionParallel()
+    corrected_cells = baran.run(dataset_dictionary, detected_cells)
+    print("Corrected {} cells!".format(len(corrected_cells)))
+    print("________________")
+
+    p, r, f = dataset.get_data_cleaning_evaluation(corrected_cells)[-3:]
+    print(
+        "Total Performance on Data-Cleaning {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(dataset.name,
+                                                                                                          p, r, f))
