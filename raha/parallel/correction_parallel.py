@@ -39,8 +39,11 @@ import dataset_parallel as dp
 
 import raha
 import container
+from raha import Correction
 
-class CorrectionParallel:
+
+class CorrectionParallel(Correction):
+
     def __init__(self):
         """
         The constructor.
@@ -647,6 +650,17 @@ class CorrectionParallel:
             corrected_cells.update(corrected_cells_col)
         return corrected_cells
 
+    def predict_corrections(self, d):
+        """
+        Collects all corrections for all columns, which were calculated in the current iteration step.
+        """
+        client = get_client()
+        corrected_cells_cols = client.gather(futures=d.column_prediction_futures, direct=True)
+
+        for corrected_cells_col in corrected_cells_cols:
+            d.corrected_cells.update(corrected_cells_col)
+        return d.corrected_cells
+
     def run(self, dataset_dictionary, detected_cells):
         shared_df, clean_df = self.initialize_dataframes(dataset_dictionary)
         client = self.start_dask_cluster(num_workers=os.cpu_count(), logging_level=logging.ERROR)
@@ -682,8 +696,8 @@ class CorrectionParallel:
 
 
             #--------------Start Generating and Predicting--------------#
-            column_prediction_refs = self.generate_and_predict(column_workers, dataset.column_errors, step)
-            self.collect_corrections(column_prediction_refs, dataset.corrected_cells)
+            dataset.column_prediction_refs = self.generate_and_predict(column_workers, dataset.column_errors, step)
+            self.predict_corrections(dataset)
 
             step += 1
             end_time = time.time()

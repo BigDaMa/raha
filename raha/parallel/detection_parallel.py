@@ -39,9 +39,11 @@ import dataset_parallel as dp
 
 import raha
 import container
+from raha import Detection
+
 
 ########################################
-class DetectionParallel:
+class DetectionParallel(Detection):
     def __init__(self):
         self.LABELING_BUDGET = 20
         self.USER_LABELING_ACCURACY = 1.0
@@ -209,7 +211,7 @@ class DetectionParallel:
         Returns dict, which contains coordinate of potentially defect cells.
         """
         dataset = dp.DatasetParallel.load_shared_dataset(dataset_ref)
-        outputted_cells_katara = raha.tools.KATARA.katara.run(dataset, configuration)
+        outputted_cells_katara = raha.parallel.tools.KATARA.katara.run(dataset, configuration)
 
         outputted_cells = {j: {} for j in range(dataset.dataframe_num_cols)}
         for cell in outputted_cells_katara:
@@ -694,7 +696,7 @@ class DetectionParallel:
         self.TIME_TOTAL += end_time-start_time
         print("Predict (parallel): " +str(end_time-start_time))
 
-    def run_detection(self, dataset_dictionary):
+    def run(self, dataset_dictionary):
         #___Initialize DataFrame, Dask Cluster__#
         shared_df = self.initialize_dataframe(dataset_dictionary["path"])
 
