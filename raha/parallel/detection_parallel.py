@@ -33,7 +33,7 @@ from distributed import Client, LocalCluster
 from distributed.worker import Worker
 
 import raha.constants as constants
-import container
+import raha.parallel.container as container
 import dataset_parallel as dp
 import raha
 from raha.constants import *
