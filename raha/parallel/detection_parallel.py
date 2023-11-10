@@ -760,7 +760,14 @@ class DetectionParallel(Detection):
         print("Raha Detection took {:.3f} seconds in total.".format(self.TIME_TOTAL))
         self.cleanup_raha(dataset_par)
         print(len(dataset_par.detected_cells))
-        client.shutdown()
+
+        # This is necessary to catch errors that sometime occur while shutting down the client.
+        # Those errors can be safely ignored
+        try:
+            client.shutdown()
+        except Exception as e:
+            pass
+
         return dataset_par.detected_cells
 
 

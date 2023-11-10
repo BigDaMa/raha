@@ -38,7 +38,7 @@ class CorrectionParallel(Correction):
         """
         self.PRETRAINED_VALUE_BASED_MODELS_PATH = ""
         self.VALUE_ENCODINGS = ["identity", "unicode"]
-        self.CLASSIFICATION_MODEL = "ABC"   # ["ABC", "DTC", "GBC", "GNB", "KNC" ,"SGDC", "SVC"]
+        self.CLASSIFICATION_MODEL = "ABC"  # ["ABC", "DTC", "GBC", "GNB", "KNC" ,"SGDC", "SVC"]
         self.IGNORE_SIGN = "<<<IGNORE_THIS_VALUE>>>"
         self.VERBOSE = False
         self.SAVE_RESULTS = True
@@ -53,13 +53,13 @@ class CorrectionParallel(Correction):
 
     def cleanup_baran(self):
         """Deletes all Shared Memory Objects which were allocated while baran was executed."""
-        #Clean-Up whole dirty Dataframe.
+        # Clean-Up whole dirty Dataframe.
         container.shared_dataframe.unlink()
 
-        #Clean-Up whole clean Dataframe.
+        # Clean-Up whole clean Dataframe.
         container.shared_clean_dataframe.unlink()
 
-        #Clean-Up Dataset which was shared while executing baran
+        # Clean-Up Dataset which was shared while executing baran
         dp.DatasetParallel.cleanup_object("the_holy_worker_dataset")
         return
 
@@ -73,10 +73,11 @@ class CorrectionParallel(Correction):
                     worker.dataset = dp.DatasetParallel.load_shared_dataset(dataset_ref)
                     worker.dataframe = container.shared_dataframe.read()
                     worker.clean_dataframe = container.shared_clean_dataframe.read()
-                    
+
                 worker.dataset.sampled_tuple = sampled_tuple
-                worker.correct_instance.label_with_ground_truth(worker.dataset, worker.dataframe, worker.clean_dataframe)
-                worker.correct_instance.update_models(worker.dataset, worker.dataframe, step)    
+                worker.correct_instance.label_with_ground_truth(worker.dataset, worker.dataframe,
+                                                                worker.clean_dataframe)
+                worker.correct_instance.update_models(worker.dataset, worker.dataframe, step)
         return
 
     def initialize_dataframes(self, dictionary):
@@ -91,7 +92,7 @@ class CorrectionParallel(Correction):
         """Starts Dask Cluster."""
         dask.config.set({'distributed.worker.multiprocessing-method': 'fork'})
         cluster = LocalCluster(n_workers=num_workers, threads_per_worker=1, processes=True, memory_limit='100GB',
-                                silence_logs=logging_level, dashboard_address=None)
+                               silence_logs=logging_level, dashboard_address=None)
         client = Client(cluster)
         return client
 
@@ -101,24 +102,25 @@ class CorrectionParallel(Correction):
         if bool(Worker._instances):
             for worker in Worker._instances:
                 return worker.name
+
     @staticmethod
     def initialize_dask(column_errors):
         """Initializes priority system for tasks"""
         column_workers = {}
         client = get_client()
-        #print(client)
+        # print(client)
         names = client.run(CorrectionParallel.init_worker_names)
 
-        #Weight columns to distribute them later on more evenly
+        # Weight columns to distribute them later on more evenly
         weighted_columns = []
         for column_index in column_errors:
             weighted_columns.append((column_index, len(column_errors[column_index])))
-        weighted_columns.sort(key = lambda x: x[1], reverse=True)
-        #print(weighted_columns)
-        #Distribute in a cycle-direction changing round-robin method
+        weighted_columns.sort(key=lambda x: x[1], reverse=True)
+        # print(weighted_columns)
+        # Distribute in a cycle-direction changing round-robin method
 
         forward = True
-        while(len(weighted_columns) > 0):
+        while (len(weighted_columns) > 0):
             for worker_name in names.values():
                 if forward:
                     if len(weighted_columns) != 0:
@@ -127,7 +129,7 @@ class CorrectionParallel(Correction):
                     if len(weighted_columns) != 0:
                         column_workers[weighted_columns.pop(-1)[0]] = worker_name
             forward = not forward
-        #print(column_workers)
+        # print(column_workers)
         return column_workers
 
     def initialize_dataset(self, dataset_dictionary, detected_cells):
@@ -140,20 +142,20 @@ class CorrectionParallel(Correction):
         dataset.corrected_cells = {}
         dataset.dataframe_num_rows = container.shared_dataframe.read().shape[0]
         dataset.dataframe_num_cols = container.shared_dataframe.read().shape[1]
-        
+
         if self.SAVE_RESULTS and not os.path.exists(dataset.results_folder):
             os.mkdir(dataset.results_folder)
 
         column_errors = {}
         for cell in detected_cells:
             self._to_model_adder(column_errors, cell[1], cell)
-        
-        #Create Shared Memory Object - The dictionary of column errors.
+
+        # Create Shared Memory Object - The dictionary of column errors.
         dataset.column_errors = column_errors
         dataset.detected_cells = detected_cells
-    
+
         return dataset
-    
+
     def initialize_models(self, dataset, dataframe, detected_cells):
         """
         Initializes the error corrector models based on the detected cells.
@@ -168,15 +170,15 @@ class CorrectionParallel(Correction):
         dataset.domain_models = {}
         num_cols = dataset.dataframe_num_cols
 
-        #Initialize vicinity models. Represents functional dependencies, where j_1 -> j_2
+        # Initialize vicinity models. Represents functional dependencies, where j_1 -> j_2
         dataset.vicinity_models = {j_1: {j_2: {} for j_2 in range(num_cols)} for j_1 in range(num_cols)}
 
         for row in dataframe.itertuples():
             i = row[0]
             row = row[1:]
             vicinity_list = [clean_cell_value if (i, j) not in detected_cells
-                                              else self.IGNORE_SIGN 
-                                              for j, clean_cell_value in enumerate(row)]
+                             else self.IGNORE_SIGN
+                             for j, clean_cell_value in enumerate(row)]
             for j, value in enumerate(row):
                 if (i, j) not in detected_cells:
                     temp_vicinity_list = list(vicinity_list)
@@ -190,7 +192,6 @@ class CorrectionParallel(Correction):
                     self._domain_based_models_updater(dataset.domain_models, update_dictionary)
         if self.VERBOSE:
             print("The error corrector models are initialized.")
-    
 
     @staticmethod
     def random_string(size):
@@ -218,12 +219,12 @@ class CorrectionParallel(Correction):
         if value not in model[key]:
             model[key][value] = 0.0
         model[key][value] += 1.0
-    
+
     def _domain_based_models_updater(self, model, update_dictionary):
         """
         Updates the domain-based error corrector model with a given update dictionary.
         """
-        #Note how often a corrected_value appears in a given column. The more often a clean value appears,
+        # Note how often a corrected_value appears in a given column. The more often a clean value appears,
         # the more relevant it is, thus being a potential correction candidate for erronous values in the same column.
         self._to_model_adder(model, update_dictionary["column"], update_dictionary["new_value"])
 
@@ -232,7 +233,7 @@ class CorrectionParallel(Correction):
         Updates the vicinity-based error corrector models with a given update dictionary.
         """
         for j_1, cell_value in enumerate(update_dictionary["vicinity"]):
-            #If the value is a clean value, we store how often the clean value of column j_1 in the *same* row points to the other clean value of column j_2 
+            # If the value is a clean value, we store how often the clean value of column j_1 in the *same* row points to the other clean value of column j_2
             # in the *same* row. Meaning we noted a value pair for a functional dependency j_1->j_2 and also a "correct dependency"
             if cell_value != self.IGNORE_SIGN:
                 j_2 = update_dictionary["column"]
@@ -243,11 +244,12 @@ class CorrectionParallel(Correction):
         Updates the value-based error corrector models with a given update dictionary.
         """
         # TODO: adding jabeja konannde bakhshahye substring
-        if self.ONLINE_PHASE or (update_dictionary["new_value"] and len(update_dictionary["new_value"]) <= self.MAX_VALUE_LENGTH and
-                                 update_dictionary["old_value"] and len(update_dictionary["old_value"]) <= self.MAX_VALUE_LENGTH and
-                                 update_dictionary["old_value"] != update_dictionary["new_value"] and 
-                                 update_dictionary["old_value"].lower() != "n/a" and
-                                 not update_dictionary["old_value"][0].isdigit()):
+        if self.ONLINE_PHASE or (
+                update_dictionary["new_value"] and len(update_dictionary["new_value"]) <= self.MAX_VALUE_LENGTH and
+                update_dictionary["old_value"] and len(update_dictionary["old_value"]) <= self.MAX_VALUE_LENGTH and
+                update_dictionary["old_value"] != update_dictionary["new_value"] and
+                update_dictionary["old_value"].lower() != "n/a" and
+                not update_dictionary["old_value"][0].isdigit()):
             remover_transformation = {}
             adder_transformation = {}
             replacer_transformation = {}
@@ -270,7 +272,6 @@ class CorrectionParallel(Correction):
                     self._to_model_adder(models[2], encoded_old_value, json.dumps(replacer_transformation))
                 self._to_model_adder(models[3], encoded_old_value, update_dictionary["new_value"])
 
-    
     def _value_based_corrector(self, models, ed):
         """
         This method takes the value-based models and an error dictionary to generate potential value-based corrections.
@@ -295,7 +296,8 @@ class CorrectionParallel(Correction):
                                 if model_name in ["adder", "replacer"]:
                                     ov = "" if change_range[0] not in index_character_dictionary else \
                                         index_character_dictionary[change_range[0]]
-                                    index_character_dictionary[change_range[0]] = transformation[change_range_string] + ov
+                                    index_character_dictionary[change_range[0]] = transformation[
+                                                                                      change_range_string] + ov
                             new_value = ""
                             for i in range(len(index_character_dictionary)):
                                 new_value += index_character_dictionary[i]
@@ -346,22 +348,23 @@ class CorrectionParallel(Correction):
         remaining_column_erroneous_values = {}
         column_errors = dataset.column_errors
 
-        #Create two dicts, the first one contains all erroneous cells of a given column. The second one contains all erroneus values of a column
+        # Create two dicts, the first one contains all erroneous cells of a given column. The second one contains all erroneus values of a column
         for j in column_errors:
             for cell in column_errors[j]:
                 if cell not in dataset.corrected_cells:
                     self._to_model_adder(remaining_column_erroneous_cells, j, cell)
                     self._to_model_adder(remaining_column_erroneous_values, j, dataframe.iloc[cell])
-        
+
         tuple_score = numpy.ones(dataset.dataframe_num_rows)
-       
+
         tuple_score[list(dataset.labeled_tuples.keys())] = 0.0
 
         for j in remaining_column_erroneous_cells:
             for cell in remaining_column_erroneous_cells[j]:
                 value = dataframe.iloc[cell]
                 column_score = math.exp(len(remaining_column_erroneous_cells[j]) / len(column_errors[j]))
-                cell_score = math.exp(remaining_column_erroneous_values[j][value] / len(remaining_column_erroneous_cells[j]))
+                cell_score = math.exp(
+                    remaining_column_erroneous_values[j][value] / len(remaining_column_erroneous_cells[j]))
                 tuple_score[cell[0]] *= column_score * cell_score
         dataset.sampled_tuple = numpy.random.choice(numpy.argwhere(tuple_score == numpy.amax(tuple_score)).flatten())
 
@@ -375,10 +378,10 @@ class CorrectionParallel(Correction):
 
         dataset.labeled_tuples[dataset.sampled_tuple] = 1
         for j in numpy.arange(dataset.dataframe_num_cols):
-            #A dataset.sampled_tuple is just a the index of the sampled row.
+            # A dataset.sampled_tuple is just a the index of the sampled row.
             cell = (dataset.sampled_tuple, j)
             error_label = 0
-            #If the value from ground truth differs from the actual value, then we note the label as 1
+            # If the value from ground truth differs from the actual value, then we note the label as 1
             if dataframe.iloc[cell] != clean_dataframe.iloc[cell]:
                 error_label = 1
             dataset.labeled_cells[cell] = [error_label, clean_dataframe.iloc[cell]]
@@ -392,33 +395,35 @@ class CorrectionParallel(Correction):
         detected_cells = dataset.detected_cells
         column_errors = dataset.column_errors
 
-        #Store all cell values of currently labeled, sampled tuple
-        cleaned_sampled_tuple = [dataset.labeled_cells[(dataset.sampled_tuple, j)][1] for j in numpy.arange(dataset.dataframe_num_cols)]
+        # Store all cell values of currently labeled, sampled tuple
+        cleaned_sampled_tuple = [dataset.labeled_cells[(dataset.sampled_tuple, j)][1] for j in
+                                 numpy.arange(dataset.dataframe_num_cols)]
 
         for j in numpy.arange(dataset.dataframe_num_cols):
             cell = (dataset.sampled_tuple, j)
             update_dictionary = {
                 "column": cell[1],
                 "old_value": dataframe.iloc[cell],
-                "new_value":cleaned_sampled_tuple[j]
+                "new_value": cleaned_sampled_tuple[j]
             }
 
             cell_label = dataset.labeled_cells[cell][0]
             if cell_label == 1:
-                #Cell was erroneous
+                # Cell was erroneous
                 if cell not in detected_cells:
                     detected_cells[cell] = self.IGNORE_SIGN
                     self._to_model_adder(column_errors, cell[1], cell)
                 self._value_based_models_updater(dataset.value_models, update_dictionary)
                 self._domain_based_models_updater(dataset.domain_models, update_dictionary)
-                #Take new vicinities with cleaned values
+                # Take new vicinities with cleaned values
                 update_dictionary["vicinity"] = [cv if j != cj else self.IGNORE_SIGN
                                                  for cj, cv in enumerate(cleaned_sampled_tuple)]
             else:
-                #Cell was not erroneus
-                #Take new vicinities with cleaned values, only from those which were labeled dirty to begin with.
-                update_dictionary["vicinity"] = [cv if j != cj and dataset.labeled_cells[(dataset.sampled_tuple, cj)][0] == 1
-                                                 else self.IGNORE_SIGN for cj, cv in enumerate(cleaned_sampled_tuple)]
+                # Cell was not erroneus
+                # Take new vicinities with cleaned values, only from those which were labeled dirty to begin with.
+                update_dictionary["vicinity"] = [
+                    cv if j != cj and dataset.labeled_cells[(dataset.sampled_tuple, cj)][0] == 1
+                    else self.IGNORE_SIGN for cj, cv in enumerate(cleaned_sampled_tuple)]
             self._vicinity_based_models_updater(dataset.vicinity_models, update_dictionary)
         if self.VERBOSE:
             print("The error corrector models are updated with new labeled tuple {}.".format(dataset.sampled_tuple))
@@ -455,7 +460,7 @@ class CorrectionParallel(Correction):
                 cell_y = cell[1]
                 cells_results.append(self.generate_features_cell(dataset, cell, dataframe.iloc[cell_x, :]))
 
-        #Create Randomized, unique string, which references the chunk in a completely new shared mem area
+        # Create Randomized, unique string, which references the chunk in a completely new shared mem area
         ref = dataset.own_mem_ref + str(step) + self.random_string(10) + str(cell_x) + str(cell_y)
         dp.DatasetParallel.create_shared_object(cells_results, ref)
 
@@ -488,7 +493,6 @@ class CorrectionParallel(Correction):
 
         return pair_features
 
-
     def summarize_features_one_col(self, chunk_results):
         """Collects all features for one column"""
         pairs_counter = 0
@@ -518,20 +522,21 @@ class CorrectionParallel(Correction):
             if j not in cols_chunks:
                 cols_chunks[j] = []
             for cell in column_errors[j]:
-                cols_chunks[j].append(cell) # Input dataframe.iloc[cell[0], :] instead of 1 for !!!!!
-    
+                cols_chunks[j].append(cell)  # Input dataframe.iloc[cell[0], :] instead of 1 for !!!!!
+
         predict_futures = []
         for column_index in column_workers:
-            predict_futures.append(client.submit(self.predict_corrections_column, cols_chunks[column_index], column_index, step))
+            predict_futures.append(
+                client.submit(self.predict_corrections_column, cols_chunks[column_index], column_index, step))
         return predict_futures
-    
+
     @staticmethod
     def chunk_prediction_process(chunk, mode, classification_model, step):
         """Predicts Corrections for one chunk of cells."""
         worker = get_worker()
         correct_instance = worker.correct_instance
         pair_features = correct_instance.generate_pair_features_chunk(chunk, step)
-        
+
         corrections = {}
 
         for cell in pair_features:
@@ -543,8 +548,7 @@ class CorrectionParallel(Correction):
                 case "zeroes":
                     return corrections
                 case _:
-                    raise ValueError("Mode " + str(mode) + " is not supported!")            
-           
+                    raise ValueError("Mode " + str(mode) + " is not supported!")
 
             cell_correct_candidates = list(pair_features[cell].keys())
             for index, predicted_label in enumerate(predictions):
@@ -581,9 +585,9 @@ class CorrectionParallel(Correction):
         for cell in cells_list:
             if cell in pair_features_train:
                 for correction in pair_features_train[cell]:
-                        x_train.append(pair_features_train[cell][correction])
-                        y_train.append(int(correction == dataset.labeled_cells[cell][1]))
-                        corrected_cells[cell] = dataset.labeled_cells[cell][1]
+                    x_train.append(pair_features_train[cell][correction])
+                    y_train.append(int(correction == dataset.labeled_cells[cell][1]))
+                    corrected_cells[cell] = dataset.labeled_cells[cell][1]
         if x_train:
             match self.CLASSIFICATION_MODEL:
                 case "ABC":
@@ -599,7 +603,7 @@ class CorrectionParallel(Correction):
                 case "SGDC":
                     classification_model = sklearn.linear_model.SGDClassifier(loss="hinge", penalty="l2")
                 case "SVC":
-                    classification_model = sklearn.svm.SVC(kernel="sigmoid")   
+                    classification_model = sklearn.svm.SVC(kernel="sigmoid")
                 case _:
                     raise ValueError("Classification Model " + str(self.CLASSIFICATION_MODEL) + " is not supported!")
 
@@ -612,8 +616,10 @@ class CorrectionParallel(Correction):
                 classification_model.fit(x_train, y_train)
 
             chunks = list(itertools.zip_longest(*[iter(cells_test)] * self.CHUNK_SIZE))
-            #Todo write that chunk function, collect results, clean them and return
-            pair_feature_chunk_refs = client.map(CorrectionParallel.chunk_prediction_process, chunks,[mode]*len(chunks), [classification_model]*len(chunks), [step]*len(chunks))
+            # Todo write that chunk function, collect results, clean them and return
+            pair_feature_chunk_refs = client.map(CorrectionParallel.chunk_prediction_process, chunks,
+                                                 [mode] * len(chunks), [classification_model] * len(chunks),
+                                                 [step] * len(chunks))
 
             secede()
             corrected_cells_chunks = client.gather(futures=pair_feature_chunk_refs, direct=True)
@@ -653,15 +659,15 @@ class CorrectionParallel(Correction):
         shared_df, clean_df = self.initialize_dataframes(dataset_dictionary)
         client = self.start_dask_cluster(num_workers=os.cpu_count(), logging_level=logging.ERROR)
 
-        #____________________Initialize Dataset____________________#
+        # ____________________Initialize Dataset____________________#
         dataframe = shared_df.read()
         clean_dataframe = clean_df.read()
         dataset = self.initialize_dataset(dataset_dictionary, detected_cells)
         column_workers = self.initialize_dask(dataset.column_errors)
-        #____________________Initialize Models_____________________#
+        # ____________________Initialize Models_____________________#
         self.initialize_models(dataset, dataframe, dataset.detected_cells)
 
-        #__________________Sample, Label and Learn_________________#
+        # __________________Sample, Label and Learn_________________#
         step = 0
         time_sum = 0
         corrected_cells = dataset.corrected_cells
@@ -670,32 +676,37 @@ class CorrectionParallel(Correction):
         while len(dataset.labeled_tuples) < self.LABELING_BUDGET:
             start_time = time.time()
 
-
-            #--------------Sample, Label and Update Models--------------#
+            # --------------Sample, Label and Update Models--------------#
             self.sample_tuple(dataset, dataframe, step)
             if dataset.has_ground_truth:
                 self.label_with_ground_truth(dataset, dataframe, clean_dataframe)
-            #else label interactively with the jupyter notebook.
-            
+            # else label interactively with the jupyter notebook.
+
             self.update_models(dataset, dataframe, step)
             end_time = time.time()
             client.run(self.initialize_workers, correct_instance=self, dataset_ref="the_holy_worker_dataset",
                        sampled_tuple=dataset.sampled_tuple, step=step)
 
-
-            #--------------Start Generating and Predicting--------------#
+            # --------------Start Generating and Predicting--------------#
             dataset.column_prediction_futures = self.generate_and_predict(column_workers, dataset.column_errors, step)
             self.predict_corrections(dataset)
 
             step += 1
             end_time = time.time()
-            time_sum += end_time-start_time
-            print("PARALLEL step {}: {}".format(step, end_time-start_time))
-            
-            #------------------------------------------------------------#
+            time_sum += end_time - start_time
+            print("PARALLEL step {}: {}".format(step, end_time - start_time))
+
+            # ------------------------------------------------------------#
         self.cleanup_baran()
-        client.shutdown()
-        #print(list(dataset.labeled_tuples.keys()))
+
+        # This is necessary to catch errors that sometime occur while shutting down the client.
+        # Those errors can be safely ignored
+        try:
+            client.shutdown()
+        except Exception as e:
+            pass
+
+        # print(list(dataset.labeled_tuples.keys()))
         print("Total time PARALLEL: {}".format(time_sum))
         return dataset.corrected_cells
 
@@ -710,12 +721,7 @@ if __name__ == '__main__':
         "clean_path": str(Path("./datasets/flights/clean.csv").resolve()),
     }
     dataset = dp.DatasetParallel(dataset_dictionary)
-    print("________________")
-    print("Running Raha...\n")
-
-    # Run Raha Benchmark
-    raha = DetectionParallel()
-    detected_cells = raha.run(dataset_dictionary)
+    detected_cells = dict(dataset.get_actual_errors_dictionary())
     print("Detected {} cells!".format(len(detected_cells)))
     print("________________")
 
