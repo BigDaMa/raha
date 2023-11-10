@@ -785,7 +785,7 @@ if __name__ == '__main__':
 
     # corrected_cells = run_baran(dataset_dictionary, detected_cells)
 
-    p, r, f = dataset.get_data_cleaning_evaluation(detected_cells)[-3:]
+    p, r, f = dataset.get_data_cleaning_evaluation(detected_cells)[:3]
     print(
         "Total Performance on Data-Cleaning {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(dataset.name,
                                                                                                           p, r, f))
