@@ -747,6 +747,8 @@ class DetectionParallel(Detection):
             self.sample_tuple(dataset_par)
             if dataset_par.has_ground_truth:
                 self.label_with_ground_truth(dataset_par, differences_dict, clean_dataframe)
+            # else
+            # implement a user input here -> check out the jupyter notebooks
         end_time = time.time()
         self.TIME_TOTAL += end_time - start_time
         print("Sampling tuples and labeling with ground truth(parallel): {}".format(end_time - start_time))
