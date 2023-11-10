@@ -53,7 +53,7 @@ def dataset_profiler(dataset_dictionary):
     # print("------------------------------------------------------------------------\n"
     #       "--------------------------Profiling the Dataset-------------------------\n"
     #       "------------------------------------------------------------------------")
-    d = raha.dataset.Dataset(dataset_dictionary)
+    d = raha.sequential.dataset.Dataset(dataset_dictionary)
     d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-baran-results-" + d.name)
     dp_folder_path = os.path.join(d.results_folder, "dataset-profiling")
     if not os.path.exists(dp_folder_path):
@@ -83,7 +83,7 @@ def evaluation_profiler(dataset_dictionary):
     # print("------------------------------------------------------------------------\n"
     #       "---------Profiling the Performance of Strategies on the Dataset---------\n"
     #       "------------------------------------------------------------------------")
-    d = raha.dataset.Dataset(dataset_dictionary)
+    d = raha.sequential.dataset.Dataset(dataset_dictionary)
     d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-baran-results-" + d.name)
     actual_errors_dictionary = d.get_actual_errors_dictionary()
     ep_folder_path = os.path.join(d.results_folder, "evaluation-profiling")
@@ -121,7 +121,7 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
     # print("------------------------------------------------------------------------\n"
     #       "-------Selecting Promising Strategies Based on Historical Datasets------\n"
     #       "------------------------------------------------------------------------")
-    d = raha.dataset.Dataset(dataset_dictionary)
+    d = raha.sequential.dataset.Dataset(dataset_dictionary)
     d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-baran-results-" + d.name)
     columns_similarity = {}
     for nci, na in enumerate(d.dataframe.columns.tolist()):
@@ -129,7 +129,7 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
         ncp = pickle.load(open(os.path.join(ndp_folder_path, na + ".dictionary"), "rb"))
         for hdd in historical_dataset_dictionaries:
             if hdd["name"] != d.name:
-                hd = raha.dataset.Dataset(hdd)
+                hd = raha.sequential.dataset.Dataset(hdd)
                 for hci, ha in enumerate(hd.dataframe.columns.tolist()):
                     hdp_folder_path = os.path.join(os.path.dirname(hdd["path"]), "raha-baran-results-" + hdd["name"])
                     hcp = pickle.load(open(os.path.join(hdp_folder_path, "dataset-profiling", ha + ".dictionary"), "rb"))
@@ -146,7 +146,7 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
     f1_measure = {}
     for hdd in historical_dataset_dictionaries:
         if hdd["name"] != d.name:
-            hd = raha.dataset.Dataset(hdd)
+            hd = raha.sequential.dataset.Dataset(hdd)
             for hci, ha in enumerate(hd.dataframe.columns.tolist()):
                 ep_folder_path = os.path.join(os.path.dirname(hdd["path"]), "raha-baran-results-" + hdd["name"], "evaluation-profiling")
                 strategies_performance = pickle.load(open(os.path.join(ep_folder_path, ha + ".dictionary"), "rb"))
@@ -159,7 +159,7 @@ def get_selected_strategies_via_historical_data(dataset_dictionary, historical_d
     for nci, na in enumerate(d.dataframe.columns.tolist()):
         for hdd in historical_dataset_dictionaries:
             if hdd["name"] != d.name:
-                hd = raha.dataset.Dataset(hdd)
+                hd = raha.sequential.dataset.Dataset(hdd)
                 for hci, ha in enumerate(hd.dataframe.columns.tolist()):
                     similarity = columns_similarity[(d.name, na, hd.name, ha)]
                     anchor = [d.name, na, hd.name, ha]
@@ -248,7 +248,7 @@ def get_selected_strategies_via_ground_truth(dataset_dictionary, strategies_coun
     # print("------------------------------------------------------------------------\n"
     #       "---Selecting Worst, Random, and Best Strategies Based on Ground Truth---\n"
     #       "------------------------------------------------------------------------")
-    d = raha.dataset.Dataset(dataset_dictionary)
+    d = raha.sequential.dataset.Dataset(dataset_dictionary)
     d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-baran-results-" + d.name)
     f1_measure = {}
     ep_folder_path = os.path.join(d.results_folder, "evaluation-profiling")
@@ -297,7 +297,7 @@ def get_strategies_count_and_runtime(dataset_dictionary):
     """
     This method calculates the number of all strategies and their total runtime.
     """
-    d = raha.dataset.Dataset(dataset_dictionary)
+    d = raha.sequential.dataset.Dataset(dataset_dictionary)
     d.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-baran-results-" + d.name)
     sp_folder_path = os.path.join(d.results_folder, "strategy-profiling")
     strategies_count = 0
@@ -317,7 +317,7 @@ def error_detection_with_selected_strategies(dataset_dictionary, strategy_profil
     """
     This method runs Raha on an input dataset to detection data errors with only the given strategy profiles.
     """
-    app = raha.Detection()
+    app = raha.sequential.detection.SequentialDetection()
     # print("------------------------------------------------------------------------\n"
     #       "--------------------Instantiating the Dataset Object--------------------\n"
     #       "------------------------------------------------------------------------")
