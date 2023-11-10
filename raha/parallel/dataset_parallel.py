@@ -27,6 +27,7 @@ from multiprocessing import shared_memory as sm
 from dask.distributed import get_client
 import hashlib
 
+
 ########################################
 
 
@@ -51,7 +52,8 @@ class DatasetParallel:
         self.dataframe_num_cols = 0
         self.labeled_tuples = {}
         self.labeled_cells = {}
-        self.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]), "raha-baran-results-" + dataset_dictionary["name"])
+        self.results_folder = os.path.join(os.path.dirname(dataset_dictionary["path"]),
+                                           "raha-baran-results-" + dataset_dictionary["name"])
 
         if not os.path.exists(self.results_folder):
             os.mkdir(self.results_folder)
@@ -63,7 +65,8 @@ class DatasetParallel:
             self.has_been_repaired = True
             self.repaired_path = dataset_dictionary["repaired_path"]
 
-    def initialize_dataset(self, create_frame=True, create_split=True, create_clean=True, create_dataset=True, create_diffs=True):
+    def initialize_dataset(self, create_frame=True, create_split=True, create_clean=True, create_dataset=True,
+                           create_diffs=True):
         """
         Creates Shared-Memory areas and loads the corresponding dataframe into it.
         For each column one area is created, also one for the whole dataframe with all columns
@@ -77,8 +80,9 @@ class DatasetParallel:
             self.create_shared_split_dataframe(self.dirty_mem_ref)
         if create_dataset:
             self.create_shared_dataset(self)
-        if create_frame and create_clean and create_diffs:   
-            differences_dict = self.get_dataframes_difference(self.load_shared_dataframe(self.dirty_mem_ref), self.load_shared_dataframe(self.clean_mem_ref))
+        if create_frame and create_clean and create_diffs:
+            differences_dict = self.get_dataframes_difference(self.load_shared_dataframe(self.dirty_mem_ref),
+                                                              self.load_shared_dataframe(self.clean_mem_ref))
             self.create_shared_object(differences_dict, self.differences_dict_mem_ref)
 
     @staticmethod
@@ -87,7 +91,8 @@ class DatasetParallel:
             obj_area = sm.SharedMemory(name=name, create=False)
             obj_area.close()
             obj_area.unlink()
-        except Exception as e: print(e)
+        except Exception as e:
+            print(e)
 
     @staticmethod
     def cleanup_object(name):
@@ -96,11 +101,12 @@ class DatasetParallel:
             memory_area.close()
             memory_area.unlink()
             del memory_area
-        except Exception as e: print(e)
+        except Exception as e:
+            print(e)
 
     @staticmethod
     def create_shared_object(obj, name):
-        pickled_obj= pickle.dumps(obj, protocol=pickle.HIGHEST_PROTOCOL)
+        pickled_obj = pickle.dumps(obj, protocol=pickle.HIGHEST_PROTOCOL)
         pickled_obj_size = len(pickled_obj)
         shared_mem_area = sm.SharedMemory(name=name, create=True, size=pickled_obj_size)
         shared_mem_area.buf[:pickled_obj_size] = pickled_obj
@@ -124,7 +130,6 @@ class DatasetParallel:
         del shared_mem_area
         return
 
-
     @staticmethod
     def create_shared_dataframe(dataframe_filepath, mem_area_name, dataset=None):
         """
@@ -134,15 +139,17 @@ class DatasetParallel:
         MB_1 = 1e6
         num_partitions = 10
         client = get_client()
-        filesize = os.path.getsize(dataframe_filepath)     
-        
-        #Aim for 10 partitions
-        blocksize = filesize / num_partitions if filesize >= num_partitions else MB_1 
-        #print("Blocksize of " + dataframe_filepath + " is:" + str(blocksize)) 
+        filesize = os.path.getsize(dataframe_filepath)
 
-        #Read DataFrame in parallel
-        kwargs = {'sep': ',', 'header':'infer', 'encoding':'utf-8', 'dtype': str, 'keep_default_na': False, 'low_memory': False}
-        dataframe = dask.dataframe.read_csv(urlpath=dataframe_filepath, blocksize=int(blocksize), **kwargs).applymap(DatasetParallel.value_normalizer)
+        # Aim for 10 partitions
+        blocksize = filesize / num_partitions if filesize >= num_partitions else MB_1
+        # print("Blocksize of " + dataframe_filepath + " is:" + str(blocksize))
+
+        # Read DataFrame in parallel
+        kwargs = {'sep': ',', 'header': 'infer', 'encoding': 'utf-8', 'dtype': str, 'keep_default_na': False,
+                  'low_memory': False}
+        dataframe = dask.dataframe.read_csv(urlpath=dataframe_filepath, blocksize=int(blocksize), **kwargs).applymap(
+            DatasetParallel.value_normalizer)
         dataframe = client.compute(dataframe).result()
         dataframe.reset_index(inplace=True, drop=True)
 
@@ -150,10 +157,9 @@ class DatasetParallel:
             dataset.dataframe_num_rows = dataframe.shape[0]
             dataset.dataframe_num_cols = dataframe.shape[1]
 
-
         pickled_dataframe = pickle.dumps(dataframe, protocol=pickle.HIGHEST_PROTOCOL)
         pickled_dataframe_size = len(pickled_dataframe)
-        #print("Size of pickled dataframe " + str(pickled_dataframe_size))
+        # print("Size of pickled dataframe " + str(pickled_dataframe_size))
 
         shared_mem_area = sm.SharedMemory(name=mem_area_name, create=True, size=pickled_dataframe_size)
         shared_mem_area.buf[:pickled_dataframe_size] = pickled_dataframe
@@ -161,7 +167,6 @@ class DatasetParallel:
         shared_mem_area.close()
         del shared_mem_area
         return mem_area_name
-
 
     @staticmethod
     def create_shared_split_dataframe(dataframe_ref):
@@ -185,7 +190,7 @@ class DatasetParallel:
                 shared_mem_area.close()
             except Exception as shm_err:
                 print('Failed to create or attach to a split dataframe: {}'.format(shm_err))
-                raise 
+                raise
 
             del shared_mem_area
         return
@@ -257,7 +262,7 @@ class DatasetParallel:
         """
         This method reads a dataset from a csv file path.
         """
-        #Params to get passed to pandas read_csv function
+        # Params to get passed to pandas read_csv function
         dataframe = pandas.read_csv(dataframe_path, sep=",", header="infer", encoding="utf-8", dtype=str,
                                     keep_default_na=False, low_memory=False).applymap(DatasetParallel.value_normalizer)
         return dataframe
@@ -268,12 +273,13 @@ class DatasetParallel:
         Writes Dataframe as csv file to given path.
         """
         if dataframe_ref is not None:
-            DatasetParallel.load_shared_dataframe(dataframe_ref).to_csv(destination_path, sep=",", header=True, index=False, encoding="utf-8")
+            DatasetParallel.load_shared_dataframe(dataframe_ref).to_csv(destination_path, sep=",", header=True,
+                                                                        index=False, encoding="utf-8")
         elif dataframe is not None:
-            dataframe.to_csv(destination_path, sep=",", header=True, index=False, encoding="utf-8")    
+            dataframe.to_csv(destination_path, sep=",", header=True, index=False, encoding="utf-8")
         else:
             if copy and source_path is not None:
-                #print("Copying file from: " + source_path + " to: " + destination_path)
+                # print("Copying file from: " + source_path + " to: " + destination_path)
                 try:
                     source_path = source_path
                     destination_path = destination_path
@@ -363,25 +369,27 @@ class DatasetParallel:
         salted_word_hash = hashlib.sha1(word_encoded + salt).hexdigest()
         return salted_word_hash
 
+
 class SharedNumpyArray:
     """
     Holds a Numpy Array in Shared Memory.
     """
+
     def __init__(self, array):
         """
         Stores an initial numpy in Shared-Memory
         """
         # Create Shared Memory Area with the same size as the input array.
         self._shared_buffer = sm.SharedMemory(create=True, size=array.nbytes)
-        
+
         self._dtype, self._shape = array.dtype, array.shape
-        
+
         # Create Numpy array which uses the Shared Memory buffer, to copy in the input array.
         res = numpy.ndarray(
             self._shape, dtype=self._dtype, buffer=self._shared_buffer.buf
         )
-        
-        #Copy the input array into Shared Memory
+
+        # Copy the input array into Shared Memory
         res[:] = array[:]
 
     def read(self):
@@ -395,7 +403,7 @@ class SharedNumpyArray:
         Returns a copy of the numpy array.
         '''
         return numpy.copy(self.read())
-        
+
     def unlink(self):
         '''
         Releases the underlying Shared Memory Segment, which holds the array.
@@ -403,10 +411,12 @@ class SharedNumpyArray:
         self._shared_buffer.close()
         self._shared_buffer.unlink()
 
+
 class SharedDataFrame:
     '''
     Holds a Shared Dataframe.
     '''
+
     def __init__(self, dataframe):
         '''
         Create a Shared Memory Version of the Dataframe.
@@ -424,7 +434,7 @@ class SharedDataFrame:
             index=self._index,
             columns=self._columns
         )
-    
+
     def copy(self):
         '''
         Returns a copy of the Shared Dataframe
@@ -434,12 +444,11 @@ class SharedDataFrame:
             index=self._index,
             columns=self._columns
         )
-        
+
     def unlink(self):
         '''
         Releases the underlying buffers, which were used to create the Shared Dataframe
         '''
         self._values.unlink()
-
 
 ########################################
