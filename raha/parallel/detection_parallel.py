@@ -34,7 +34,7 @@ from distributed.worker import Worker
 
 import raha.constants as constants
 import raha.parallel.container as container
-import dataset_parallel as dp
+import raha.parallel.dataset_parallel as dp
 import raha
 from raha.constants import *
 from raha import Detection
