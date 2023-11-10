@@ -738,3 +738,5 @@ if __name__ == '__main__':
     print(
         "Total Performance on Data-Cleaning {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(dataset.name,
                                                                                                           p, r, f))
+    # Sometimes the futures throw an exception. Can be safely ignored
+    # https://github.com/dask/distributed/issues/4305
