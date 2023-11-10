@@ -76,7 +76,7 @@ class CorrectionParallel(Correction):
                 worker.dataset.sampled_tuple = sampled_tuple
                 worker.correct_instance.label_with_ground_truth(worker.dataset, worker.dataframe,
                                                                 worker.clean_dataframe)
-                worker.correct_instance.update_models(worker.dataset, worker.dataframe, step)
+                worker.correct_instance.update_models(worker.dataset)
         return
 
     def initialize_dataframes(self, dictionary):
