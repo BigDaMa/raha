@@ -107,7 +107,7 @@ class Baselines:
             print("------------------------------------------------------------------------\n"
                   "------------------------------Running dBoost----------------------------\n"
                   "------------------------------------------------------------------------")
-        d = raha.dataset.Dataset(dd)
+        d = raha.sequential.dataset.Dataset(dd)
         sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name, "strategy-profiling")
         strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
                                   for strategy_file in os.listdir(sp_folder_path)]
