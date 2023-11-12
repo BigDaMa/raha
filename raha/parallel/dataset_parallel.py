@@ -26,13 +26,14 @@ import pickle
 from multiprocessing import shared_memory as sm
 from dask.distributed import get_client
 import hashlib
+from raha.dataset import Dataset as Data
 
 
 ########################################
 
 
 ########################################
-class DatasetParallel:
+class DatasetParallel(Data):
     """
     The dataset class.
     """
@@ -312,21 +313,23 @@ class DatasetParallel:
         """
         This method takes the dictionary of corrected values and creates the repaired dataset.
         """
-        self.repaired_dataframe = self.dataframe.copy()
+        self.repaired_dataframe = self.read_csv_dataframe(self.dirty_path)
         for cell in correction_dictionary:
             self.repaired_dataframe.iloc[cell] = self.value_normalizer(correction_dictionary[cell])
 
-    def get_correction_dictionary(self, dirty_dataframe, repaired_dataframe):
+    def get_correction_dictionary(self):
         """
         This method compares the repaired and dirty versions of a dataset.
         """
-        return self.get_dataframes_difference(dirty_dataframe, repaired_dataframe)
+        return self.get_dataframes_difference(self.read_csv_dataframe(self.dirty_path),
+                                              self.read_csv_dataframe(self.clean_path))
 
-    def get_data_quality(self, actual_errors_dict, dataframe):
+    def get_data_quality(self):
         """
         This method calculates data quality of a dataset.
         """
-        return 1.0 - float(len(actual_errors_dict)) / (dataframe.shape[0] * dataframe.shape[1])
+        return (1.0 - float(len(self.get_actual_errors_dictionary())) /
+                (self.read_csv_dataframe(self.dirty_path).shape[0] * self.read_csv_dataframe(self.dirty_path).shape[1]))
 
     def get_data_cleaning_evaluation(self, correction_dictionary, sampled_rows_dictionary=False):
         """

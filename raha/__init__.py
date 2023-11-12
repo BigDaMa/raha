@@ -2,6 +2,7 @@ from .detection import *
 from .correction import *
 from .baselines import *
 from .constants import *
+from .dataset import *
 
 from .sequential.utilities import *
 from .sequential.benchmark import *

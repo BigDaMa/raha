@@ -15,11 +15,12 @@ import sys
 import html
 
 import pandas
+from raha.dataset import Dataset as Data
 ########################################
 
 
 ########################################
-class Dataset:
+class Dataset(Data):
     """
     The dataset class.
     """
@@ -64,12 +65,13 @@ class Dataset:
         value = value.strip("\t\n ")
         return value
 
-    def read_csv_dataset(self, dataset_path):
+    @staticmethod
+    def read_csv_dataset(dataset_path):
         """
         This method reads a dataset from a csv file path.
         """
         dataframe = pandas.read_csv(dataset_path, sep=",", header="infer", encoding="utf-8", dtype=str,
-                                    keep_default_na=False, low_memory=False).applymap(self.value_normalizer)
+                                    keep_default_na=False, low_memory=False).applymap(Dataset.value_normalizer)
         return dataframe
 
     @staticmethod
