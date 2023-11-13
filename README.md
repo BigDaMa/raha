@@ -23,8 +23,8 @@ pip3 uninstall raha
 
 ## Usage
 Running Raha and Baran is simple!
-   - **Benchmarking**: If you have a dirty dataset and its corresponding clean dataset and you want to benchmark Raha and Baran, please check the sample codes in `raha/benchmark.py`, `raha/detection.py`, and `raha/correction.py`.
-   - **Interactive data cleaning with Raha and Baran**: If you have a dirty dataset and you want to interatively detect and correct data errors, please check our interactive Jupyter notebooks in the `raha` folder. The Jupyter notebooks provide graphical user interfaces.
+   - **Benchmarking**: If you have a dirty dataset and its corresponding clean dataset and you want to benchmark Raha and Baran, please check the sample codes in `raha/sequential/benchmark.py`, `raha/sequential/detection.py`, and `raha/sequential/correction.py`.
+   - **Interactive data cleaning with Raha and Baran**: If you have a dirty dataset and you want to interatively detect and correct data errors, please check our interactive Jupyter notebooks in the `raha/sequential` folder. The Jupyter notebooks provide graphical user interfaces.
    ![Data Annotation](pictures/ui.png)   
    ![Promising Strategies](pictures/ui_strategies.png)   
    ![Drill Down](pictures/ui_clusters.png)   
