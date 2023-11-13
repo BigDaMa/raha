@@ -430,7 +430,8 @@ class CorrectionParallel(Correction):
         if self.VERBOSE:
             print("The error corrector models are updated with new labeled tuple {}.".format(dataset.sampled_tuple))
 
-    def generate_features_cell(self, dataset, cell, vicinity):
+    def generate_features(self, dataset, cell):
+        vicinity = container.shared_dataframe.iloc[cell[0], :]
         """Generates all features for one specific cell."""
         error_dictionary = {"column": cell[1], "old_value": vicinity[cell[1]], "vicinity": vicinity}
         value_corrections = self._value_based_corrector(dataset.value_models, error_dictionary)
@@ -460,7 +461,7 @@ class CorrectionParallel(Correction):
             if cell is not None:
                 cell_x = cell[0]
                 cell_y = cell[1]
-                cells_results.append(self.generate_features_cell(dataset, cell, dataframe.iloc[cell_x, :]))
+                cells_results.append(self.generate_features(dataset, cell, dataframe.iloc[cell_x, :]))
 
         # Create Randomized, unique string, which references the chunk in a completely new shared mem area
         ref = dataset.own_mem_ref + str(step) + self.random_string(10) + str(cell_x) + str(cell_y)
@@ -485,7 +486,7 @@ class CorrectionParallel(Correction):
             if cell is not None:
                 cell_x = cell[0]
                 cell_y = cell[1]
-                cells_results.append(self.generate_features_cell(dataset, cell, dataframe.iloc[cell_x, :]))
+                cells_results.append(self.generate_features(dataset, cell, dataframe.iloc[cell_x, :]))
 
         for cell, corrections_features in cells_results:
             pair_features[cell] = {}
