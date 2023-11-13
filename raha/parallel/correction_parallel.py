@@ -431,7 +431,7 @@ class CorrectionParallel(Correction):
             print("The error corrector models are updated with new labeled tuple {}.".format(dataset.sampled_tuple))
 
     def generate_features(self, dataset, cell):
-        vicinity = container.shared_dataframe.iloc[cell[0], :]
+        vicinity = container.shared_dataframe.read().iloc[cell[0], :]
         """Generates all features for one specific cell."""
         error_dictionary = {"column": cell[1], "old_value": vicinity[cell[1]], "vicinity": vicinity}
         value_corrections = self._value_based_corrector(dataset.value_models, error_dictionary)
