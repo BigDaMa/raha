@@ -3,9 +3,10 @@ from .correction import *
 from .baselines import *
 from .constants import *
 from .dataset import *
+from .benchmark import *
 
 from .original.utilities import *
-from .original.benchmark import *
+
 from .original.tools.KATARA import *
 from .original.tools.KATARA.katara import *
 from .original.tools.dBoost import *
