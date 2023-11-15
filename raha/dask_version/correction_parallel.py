@@ -24,8 +24,8 @@ from dask.distributed import secede, rejoin
 from distributed import Client, LocalCluster
 from distributed.worker import Worker
 
-import raha.dask.container as container
-import raha.dask.dataset_parallel as dp
+import raha.dask_version.container as container
+import raha.dask_version.dataset_parallel as dp
 from raha import Correction
 
 

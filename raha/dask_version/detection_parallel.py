@@ -33,8 +33,8 @@ from distributed import Client, LocalCluster
 from distributed.worker import Worker
 
 import raha.constants as constants
-import raha.dask.container as container
-import raha.dask.dataset_parallel as dp
+import raha.dask_version.container as container
+import raha.dask_version.dataset_parallel as dp
 import raha
 from raha.constants import *
 from raha import Detection

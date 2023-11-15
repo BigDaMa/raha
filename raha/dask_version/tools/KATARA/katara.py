@@ -1,4 +1,4 @@
-import raha.dask.container as container
+import raha.dask_version.container as container
 
 def load_file(domin_specific_file, domain_specific_types, rel2sub2obj):
     for line in domin_specific_file:

@@ -13,9 +13,9 @@ from .original.detection import *
 from .original.correction import *
 from .original import *
 
-from .dask.dataset_parallel import *
-from .dask.tools.KATARA.katara import *
-from .dask.tools.dBoost.dboost.imported_dboost import *
-from .dask.container import *
-from .dask.detection_parallel import *
-from .dask.correction_parallel import *
+from .dask_version.dataset_parallel import *
+from .dask_version.tools.KATARA.katara import *
+from .dask_version.tools.dBoost.dboost.imported_dboost import *
+from .dask_version.container import *
+from .dask_version.detection_parallel import *
+from .dask_version.correction_parallel import *
