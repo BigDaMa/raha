@@ -128,7 +128,7 @@ class DetectionParallel(Detection):
         parameters = ["-F", ",", "--statistical", "0.5"] + ["--" + configuration[0]] + configuration[1:] + [
             dataset_path]
         # print("Worker: " + str(get_worker().id) + " started dboost.run")
-        raha.dask.tools.dBoost.dboost.imported_dboost.run(parameters)
+        raha.dask_version.tools.dBoost.dboost.imported_dboost.run(parameters)
 
         dboost_result_path = dataset_path + "-dboost_output.csv"
         if os.path.exists(dboost_result_path) and os.path.getsize(dboost_result_path) > 0:
@@ -211,7 +211,7 @@ class DetectionParallel(Detection):
         Returns dict, which contains coordinate of potentially defect cells.
         """
         dataset = dp.DatasetParallel.load_shared_dataset(dataset_ref)
-        outputted_cells_katara = raha.dask.tools.KATARA.katara.run(dataset, configuration)
+        outputted_cells_katara = raha.dask_version.tools.KATARA.katara.run(dataset, configuration)
 
         outputted_cells = {j: {} for j in range(dataset.dataframe_num_cols)}
         for cell in outputted_cells_katara:
