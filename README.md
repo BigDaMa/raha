@@ -23,8 +23,8 @@ pip3 uninstall raha
 
 ## Usage
 Running Raha and Baran is simple!
-   - **Benchmarking**: If you have a dirty dataset and its corresponding clean dataset and you want to benchmark Raha and Baran, please check the sample codes in `raha/sequential/benchmark.py`, `raha/sequential/detection.py`, and `raha/sequential/correction.py`.
-   - **Interactive data cleaning with Raha and Baran**: If you have a dirty dataset and you want to interatively detect and correct data errors, please check our interactive Jupyter notebooks in the `raha/sequential` folder. The Jupyter notebooks provide graphical user interfaces.
+   - **Benchmarking**: If you have a dirty dataset and its corresponding clean dataset and you want to benchmark Raha and Baran, please check the sample codes in `raha/original/benchmark.py`, `raha/original/detection.py`, and `raha/original/correction.py`.
+   - **Interactive data cleaning with Raha and Baran**: If you have a dirty dataset and you want to interatively detect and correct data errors, please check our interactive Jupyter notebooks in the `raha/original` folder. The Jupyter notebooks provide graphical user interfaces.
    ![Data Annotation](pictures/ui.png)   
    ![Promising Strategies](pictures/ui_strategies.png)   
    ![Drill Down](pictures/ui_clusters.png)   
@@ -61,7 +61,8 @@ You can find more information about this project and the authors [here](https://
   publisher={VLDB Endowment}
 }
 ```
-
+### Dask Version
+The implementation for Raha and Baran with Dask was created by Yusuf Mandirali. The original code can be found [here](https://github.com/yimlyim/DaskRaha).
 
 ## A Note on the Naming
 Raha and Baran are Persian feminine names that are conceptually related to their corresponding error detection/correction systems. Raha (which means "free" in Persian) is assigned to our "configuration-free" error detection system. Baran (which means "rain" in Persian and rain washes/cleans everything) is assigned to our error correction system that "cleans" data.
