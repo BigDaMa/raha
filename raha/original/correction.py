@@ -729,7 +729,7 @@ if __name__ == "__main__":
         "path": str(Path("./datasets/flights/dirty.csv").resolve()),
         "clean_path": str(Path("./datasets/flights/clean.csv").resolve())
     }
-    data = raha.sequential.dataset.Dataset(dataset_dictionary)
+    data = raha.original.dataset.Dataset(dataset_dictionary)
     data.detected_cells = dict(data.get_actual_errors_dictionary())
     app = SequentialCorrection()
     correction_dictionary = app.run(data)

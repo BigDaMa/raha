@@ -452,7 +452,7 @@ if __name__ == "__main__":
     }
     app = SequentialDetection()
     detection_dictionary = app.run(dataset_dictionary)
-    data = raha.sequential.dataset.Dataset(dataset_dictionary)
+    data = raha.original.dataset.Dataset(dataset_dictionary)
     p, r, f = data.get_data_cleaning_evaluation(detection_dictionary)[:3]
     print("Raha's performance on {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(data.name, p, r, f))
     # --------------------

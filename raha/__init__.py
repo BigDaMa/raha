@@ -4,18 +4,18 @@ from .baselines import *
 from .constants import *
 from .dataset import *
 
-from .sequential.utilities import *
-from .sequential.benchmark import *
-from .sequential.tools.KATARA.katara import *
-from .sequential.tools.dBoost.dboost.imported_dboost import *
-from .sequential.dataset import *
-from .sequential.detection import *
-from .sequential.correction import *
-from .sequential import *
+from .original.utilities import *
+from .original.benchmark import *
+from .original.tools.KATARA.katara import *
+from .original.tools.dBoost.dboost.imported_dboost import *
+from .original.dataset import *
+from .original.detection import *
+from .original.correction import *
+from .original import *
 
-from .parallel.dataset_parallel import *
-from .parallel.tools.KATARA.katara import *
-from .parallel.tools.dBoost.dboost.imported_dboost import *
-from .parallel.container import *
-from .parallel.detection_parallel import *
-from .parallel.correction_parallel import *
+from .dask.dataset_parallel import *
+from .dask.tools.KATARA.katara import *
+from .dask.tools.dBoost.dboost.imported_dboost import *
+from .dask.container import *
+from .dask.detection_parallel import *
+from .dask.correction_parallel import *

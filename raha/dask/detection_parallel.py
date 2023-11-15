@@ -33,8 +33,8 @@ from distributed import Client, LocalCluster
 from distributed.worker import Worker
 
 import raha.constants as constants
-import raha.parallel.container as container
-import raha.parallel.dataset_parallel as dp
+import raha.dask.container as container
+import raha.dask.dataset_parallel as dp
 import raha
 from raha.constants import *
 from raha import Detection
@@ -68,8 +68,8 @@ class DetectionParallel(Detection):
         container.shared_dataframe = dp.SharedDataFrame(dataframe)
         return container.shared_dataframe
 
-    def initialize_dataset(self, dataset):
-        dataset_par = dataset
+    def initialize_dataset(self, dd):
+        dataset_par = dp.DatasetParallel(dd)
         dataset_par.labels_per_cluster = {}
         dataset_par.detected_cells = {}
         dataset_par.dataframe_num_rows = container.shared_dataframe.read().shape[0]
@@ -718,7 +718,7 @@ class DetectionParallel(Detection):
         self.TIME_TOTAL += end_time - start_time
         print("Predict (parallel): " + str(end_time - start_time))
 
-    def run(self, dataset):
+    def run(self, dd):
         # ___Initialize DataFrame, Dask Cluster__#
         shared_df = self.initialize_dataframe(dataset.dirty_path)
 
@@ -729,7 +729,7 @@ class DetectionParallel(Detection):
         print("Begin Raha Computation")
 
         # __________Initialize Dataset___________#
-        dataset_par, differences_dict = self.initialize_dataset(dataset)
+        dataset_par, differences_dict = self.initialize_dataset(dd)
 
         # ___________Running Strategies__________#
         strategies = self.run_strategies(dataset_par)
@@ -788,7 +788,7 @@ if __name__ == '__main__':
 
     # Run Raha Benchmark
     raha_para = DetectionParallel()
-    detected_cells = raha_para.run(dataset)
+    detected_cells = raha_para.run(dataset_dictionary)
     print("Detected {} cells!".format(len(detected_cells)))
     print("________________")
 
