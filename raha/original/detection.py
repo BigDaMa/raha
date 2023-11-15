@@ -40,14 +40,14 @@ import sklearn.neural_network
 import sklearn.feature_extraction
 
 import raha
-from raha import Detection
+from raha import Detection as Det
 
 
 ########################################
 
 
 ########################################
-class SequentialDetection(Detection):
+class Detection(Det):
     """
     The main class.
     """
@@ -80,7 +80,7 @@ class SequentialDetection(Detection):
             dataset_path = os.path.join(tempfile.gettempdir(), d.name + "-" + strategy_name_hash + ".csv")
             d.write_csv_dataset(dataset_path, d.dataframe)
             params = ["-F", ",", "--statistical", "0.5"] + ["--" + configuration[0]] + configuration[1:] + [dataset_path]
-            raha.sequential.tools.dBoost.dboost.imported_dboost.run(params)
+            raha.original.tools.dBoost.dboost.imported_dboost.run(params)
             algorithm_results_path = dataset_path + "-dboost_output.csv"
             if os.path.exists(algorithm_results_path):
                 ocdf = pandas.read_csv(algorithm_results_path, sep=",", header=None, encoding="utf-8", dtype=str,
@@ -115,7 +115,7 @@ class SequentialDetection(Detection):
                     outputted_cells[(i, l_j)] = ""
                     outputted_cells[(i, r_j)] = ""
         elif algorithm == "KBVD":
-            outputted_cells = raha.sequential.tools.KATARA.katara.run(d, configuration)
+            outputted_cells = raha.original.tools.KATARA.katara.run(d, configuration)
         detected_cells_list = list(outputted_cells.keys())
         strategy_profile = {
             "name": strategy_name,
@@ -133,7 +133,7 @@ class SequentialDetection(Detection):
         """
         This method instantiates the dataset.
         """
-        d = raha.sequential.dataset.Dataset(dd)
+        d = raha.original.dataset.Dataset(dd)
         d.dictionary = dd
         d.results_folder = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name)
         if self.SAVE_RESULTS and not os.path.exists(d.results_folder):
@@ -195,9 +195,9 @@ class SequentialDetection(Detection):
                 # pool.join()
         else:
             for dd in self.HISTORICAL_DATASETS + [d.dictionary]:
-                raha.sequential.utilities.dataset_profiler(dd)
-                raha.sequential.utilities.evaluation_profiler(dd)
-            strategy_profiles_list = raha.sequential.utilities.get_selected_strategies_via_historical_data(d.dictionary, self.HISTORICAL_DATASETS)
+                raha.original.utilities.dataset_profiler(dd)
+                raha.original.utilities.evaluation_profiler(dd)
+            strategy_profiles_list = raha.original.utilities.get_selected_strategies_via_historical_data(d.dictionary, self.HISTORICAL_DATASETS)
         d.strategy_profiles = strategy_profiles_list
         if self.VERBOSE:
             print("{} strategy profiles are collected.".format(len(d.strategy_profiles)))
@@ -450,7 +450,7 @@ if __name__ == "__main__":
         "path": str(Path("./datasets/flights/dirty.csv").resolve()),
         "clean_path": str(Path("./datasets/flights/clean.csv").resolve())
     }
-    app = SequentialDetection()
+    app = Detection()
     detection_dictionary = app.run(dataset_dictionary)
     data = raha.original.dataset.Dataset(dataset_dictionary)
     p, r, f = data.get_data_cleaning_evaluation(detection_dictionary)[:3]

@@ -317,7 +317,7 @@ def error_detection_with_selected_strategies(dataset_dictionary, strategy_profil
     """
     This method runs Raha on an input dataset to detection data errors with only the given strategy profiles.
     """
-    app = raha.sequential.detection.SequentialDetection()
+    app = raha.sequential.detection.Detection()
     # print("------------------------------------------------------------------------\n"
     #       "--------------------Instantiating the Dataset Object--------------------\n"
     #       "------------------------------------------------------------------------")

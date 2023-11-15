@@ -35,7 +35,7 @@ import sklearn.naive_bayes
 import sklearn.linear_model
 
 import raha
-from raha import Correction
+from raha import Correction as Cor
 
 
 ########################################
@@ -53,7 +53,7 @@ def worker_init_feat_generation(dataset):
 
 
 ########################################
-class SequentialCorrection(Correction):
+class Correction(Cor):
     """
     The main class.
     """
@@ -281,8 +281,8 @@ class SequentialCorrection(Correction):
                             continue
                         for rd in revision_list:
                             update_dictionary = {
-                                "old_value": raha.sequential.dataset.Dataset.value_normalizer("".join(rd["old_value"])),
-                                "new_value": raha.sequential.dataset.Dataset.value_normalizer("".join(rd["new_value"]))
+                                "old_value": raha.original.dataset.Dataset.value_normalizer("".join(rd["old_value"])),
+                                "new_value": raha.original.dataset.Dataset.value_normalizer("".join(rd["new_value"]))
                             }
                             self._value_based_models_updater(models, update_dictionary)
         _models_pruner()
@@ -731,7 +731,7 @@ if __name__ == "__main__":
     }
     data = raha.original.dataset.Dataset(dataset_dictionary)
     data.detected_cells = dict(data.get_actual_errors_dictionary())
-    app = SequentialCorrection()
+    app = Correction()
     correction_dictionary = app.run(data)
     p, r, f = data.get_data_cleaning_evaluation(correction_dictionary)[-3:]
     print("Baran's performance on {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(data.name, p, r, f))
