@@ -697,7 +697,8 @@ class CorrectionParallel(Correction):
             step += 1
             end_time = time.time()
             time_sum += end_time - start_time
-            print("PARALLEL step {}: {}".format(step, end_time - start_time))
+            if self.VERBOSE:
+                print("PARALLEL step {}: {}".format(step, end_time - start_time))
 
             # ------------------------------------------------------------#
         self.cleanup_baran()
@@ -710,7 +711,8 @@ class CorrectionParallel(Correction):
             pass
 
         # print(list(dataset.labeled_tuples.keys()))
-        print("Total time PARALLEL: {}".format(time_sum))
+        if self.VERBOSE:
+            print("Total time PARALLEL: {}".format(time_sum))
         return dataset.corrected_cells
 
 
