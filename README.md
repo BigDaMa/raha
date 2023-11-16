@@ -9,11 +9,21 @@ To install Raha and Baran, you can run:
 ```console
 pip3 install raha
 ```
+To install Raha and Baran with Dask, you can run:
+```console
+pip3 install raha[dask]
+```
 
 To install Raha and Baran using the github repository:
 ```console
 git clone git@github.com:BigDaMa/raha.git
 pip3 install -e raha
+```
+
+To install Raha and Baran with Dask using the github repository:
+```console
+git clone git@github.com:BigDaMa/raha.git
+pip3 install -e raha[dask]
 ```
 
 To uninstall them, you can run:
