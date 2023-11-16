@@ -727,7 +727,7 @@ class DetectionParallel(Detection):
 
     def run(self, dd):
         # ___Initialize DataFrame, Dask Cluster__#
-        shared_df = self.initialize_dataframe(dataset.dirty_path)
+        shared_df = self.initialize_dataframe(dd["path"])
         if self.VERBOSE:
             print("Starting Cluster...")
         client = self.start_dask_cluster(num_workers=os.cpu_count(), logging_level=logging.ERROR)
