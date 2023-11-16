@@ -247,7 +247,7 @@ class DetectionParallel(Detection):
 
         end_time = time.time()
 
-        dataset = dataset = dp.DatasetParallel.load_shared_dataset(dataset_ref)
+        dataset = dp.DatasetParallel.load_shared_dataset(dataset_ref)
         strategy_results = {}
         strategy_results["name"] = strategy_name
         for j in range(dataset.dataframe_num_cols):
