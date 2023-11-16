@@ -17,6 +17,7 @@ from .original.detection import *
 from .original.correction import *
 from .original import *
 
+from .dask_version import *
 from .dask_version.dataset_parallel import *
 from .dask_version.tools.KATARA import *
 from .dask_version.tools.KATARA.katara import *

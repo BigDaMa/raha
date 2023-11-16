@@ -376,7 +376,8 @@ class DetectionParallel(Detection):
                                  for strategy_file in os.listdir(strategy_profile_path)]
             end_time = time.time()
             self.TIME_TOTAL += end_time - start_time
-            print("Preloading strategies (parallel): " + str(end_time - start_time))
+            if self.VERBOSE:
+                print("Preloading strategies (parallel): " + str(end_time - start_time))
             return strategy_profiles
         if self.SAVE_RESULTS:
             os.mkdir(strategy_profile_path)
@@ -400,7 +401,8 @@ class DetectionParallel(Detection):
         results = list(itertools.chain.from_iterable(client.gather(futures=futures, direct=True)))
         end_time = time.time()
         self.TIME_TOTAL += end_time - start_time
-        print("Raha strategy metadata generation(parallel): " + str(end_time - start_time))
+        if self.VERBOSE:
+            print("Raha strategy metadata generation(parallel): " + str(end_time - start_time))
 
         # Start Detecting Errors in parallel
         futures = client.map(self.parallel_strat_runner_process, results)
@@ -418,7 +420,8 @@ class DetectionParallel(Detection):
 
         end_time = time.time()
         self.TIME_TOTAL += end_time - start_time
-        print("Raha running all strategies total time(parallel): " + str(end_time - start_time))
+        if self.VERBOSE:
+            print("Raha running all strategies total time(parallel): " + str(end_time - start_time))
         dataset.strategy_profiles = strategy_profiles
         return strategy_profiles
 
@@ -476,7 +479,8 @@ class DetectionParallel(Detection):
         results = client.gather(futures=futures, direct=True)
         end_time = time.time()
         self.TIME_TOTAL += end_time - start_time
-        print("Generate Features(parallel): " + str(end_time - start_time))
+        if self.VERBOSE:
+            print("Generate Features(parallel): " + str(end_time - start_time))
 
         return results
 
@@ -539,7 +543,8 @@ class DetectionParallel(Detection):
 
         end_time = time.time()
         self.TIME_TOTAL += end_time - start_time
-        print("Build clusters (parallel): " + str(end_time - start_time))
+        if self.VERBOSE:
+            print("Build clusters (parallel): " + str(end_time - start_time))
         dataset.clustering_results = results
         return results
 
@@ -635,7 +640,8 @@ class DetectionParallel(Detection):
 
         end_time = time.time()
         self.TIME_TOTAL += end_time - start_time
-        print("Propagating labels (parallel): " + str(end_time - start_time))
+        if self.VERBOSE:
+            print("Propagating labels (parallel): " + str(end_time - start_time))
         return
 
     @staticmethod
@@ -716,17 +722,19 @@ class DetectionParallel(Detection):
 
         end_time = time.time()
         self.TIME_TOTAL += end_time - start_time
-        print("Predict (parallel): " + str(end_time - start_time))
+        if self.VERBOSE:
+            print("Predict (parallel): " + str(end_time - start_time))
 
     def run(self, dd):
         # ___Initialize DataFrame, Dask Cluster__#
         shared_df = self.initialize_dataframe(dataset.dirty_path)
-
-        print("Starting Cluster...")
+        if self.VERBOSE:
+            print("Starting Cluster...")
         client = self.start_dask_cluster(num_workers=os.cpu_count(), logging_level=logging.ERROR)
         client.run(self.init_workers)
-        print("Successfully started Cluster.")
-        print("Begin Raha Computation")
+        if self.VERBOSE:
+            print("Successfully started Cluster.")
+            print("Begin Raha Computation")
 
         # __________Initialize Dataset___________#
         dataset_par, differences_dict = self.initialize_dataset(dd)
@@ -751,7 +759,8 @@ class DetectionParallel(Detection):
             # implement a user input here -> check out the jupyter notebooks
         end_time = time.time()
         self.TIME_TOTAL += end_time - start_time
-        print("Sampling tuples and labeling with ground truth(parallel): {}".format(end_time - start_time))
+        if self.VERBOSE:
+            print("Sampling tuples and labeling with ground truth(parallel): {}".format(end_time - start_time))
 
         # ___________Propagating Labels__________#
         self.propagate_labels(dataset_par)
@@ -759,9 +768,9 @@ class DetectionParallel(Detection):
         # ___________Predicting Labels___________#
         self.predict_labels(dataset_par)
 
-        print("Raha Detection took {:.3f} seconds in total.".format(self.TIME_TOTAL))
+        if self.VERBOSE:
+            print("Raha Detection took {:.3f} seconds in total.".format(self.TIME_TOTAL))
         self.cleanup_raha(dataset_par)
-        print(len(dataset_par.detected_cells))
 
         # This is necessary to catch errors that sometime occur while shutting down the client.
         # Those errors can be safely ignored
