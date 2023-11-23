@@ -89,7 +89,10 @@ class Detection(Det):
                     if int(i) > 0:
                         outputted_cells[(int(i) - 1, int(j))] = ""
                 os.remove(algorithm_results_path)
-            os.remove(dataset_path)
+            try:
+                os.remove(dataset_path)
+            except:
+                pass
         elif algorithm == "PVD":
             attribute, ch = configuration
             j = d.dataframe.columns.get_loc(attribute)
