@@ -687,7 +687,7 @@ class CorrectionParallel(Correction):
 
             self.update_models(dataset)
             end_time = time.time()
-            client.run(self.initialize_workers, correct_instance=self, dataset_ref="the_holy_worker_dataset",
+            client.run(self.initialize_workers, correct_instance=self, dataset_ref="holy_dataset",
                        sampled_tuple=dataset.sampled_tuple, step=step)
 
             # --------------Start Generating and Predicting--------------#

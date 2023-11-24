@@ -43,10 +43,11 @@ class DatasetParallel(Data):
         The constructor creates a dataset.
         """
         self.name = dataset_dictionary["name"]
-        self.own_mem_ref = self.hash_with_salt(constants.DATASET_MEMORY_REF)
-        self.dirty_mem_ref = self.hash_with_salt(dataset_dictionary["name"])
-        self.clean_mem_ref = self.hash_with_salt(dataset_dictionary["name"] + '-clean')
-        self.differences_dict_mem_ref = self.dirty_mem_ref + "-differences-dict"
+        self.own_mem_ref = self.hash_with_salt(constants.DATASET_MEMORY_REF)[:5]
+
+        self.dirty_mem_ref = self.hash_with_salt(dataset_dictionary["name"])[:5]
+        self.clean_mem_ref = self.hash_with_salt(dataset_dictionary["name"] + '-clean')[:5]
+        self.differences_dict_mem_ref = self.dirty_mem_ref + "-dif-d"
         self.dirty_path = dataset_dictionary["path"]
         self.dictionary = dataset_dictionary
         self.dataframe_num_rows = 0

@@ -96,14 +96,14 @@ class DetectionParallel(Detection):
 
         # Clean-Up feature vectors
         for j in range(dataset.dataframe_num_cols):
-            dataset.cleanup_object(dataset.dirty_mem_ref + "-feature-result-" + str(j))
+            dataset.cleanup_object(dataset.dirty_mem_ref + "-f-r-c" + str(j))
 
         # Clean-Up strategy profiles
         for j in range(dataset.dataframe_num_cols):
-            dataset.cleanup_object(dataset.dirty_mem_ref + "-strategy_profiles-col" + str(j))
+            dataset.cleanup_object(dataset.dirty_mem_ref + "-s_p-c" + str(j))
 
         # Clean-Up values that were shared for prediction phase(raha)
-        dataset.cleanup_object(dataset.own_mem_ref + "-predictvariables")
+        dataset.cleanup_object(dataset.own_mem_ref + "-predv")
 
         # Clean-Up Dataset which was shared while executing raha
         dataset.cleanup_object(dataset.own_mem_ref)
@@ -416,7 +416,7 @@ class DetectionParallel(Detection):
                     {"name": strategy_profile["name"],
                      "output": strategy_profile["output_col_" + str(j)]})
             dp.DatasetParallel.create_shared_object(strategy_profiles_col,
-                                                    dataset.dirty_mem_ref + "-strategy_profiles-col" + str(j))
+                                                    dataset.dirty_mem_ref + "-s_p-c" + str(j))
 
         end_time = time.time()
         self.TIME_TOTAL += end_time - start_time
@@ -434,7 +434,7 @@ class DetectionParallel(Detection):
         """
         dataset = dp.DatasetParallel.load_shared_dataset(dataset_ref)
         strategy_profiles = dp.DatasetParallel.load_shared_object(
-            dataset.dirty_mem_ref + "-strategy_profiles-col" + str(column_index))
+            dataset.dirty_mem_ref + "-s_p-c" + str(column_index))
         feature_vectors = numpy.zeros((dataset.dataframe_num_rows, len(strategy_profiles)))
 
         for strategy_index, strategy_profile in enumerate(strategy_profiles):
@@ -459,9 +459,9 @@ class DetectionParallel(Detection):
 
         # Store feature vectors in a shared memory area
         dp.DatasetParallel.create_shared_object(feature_vectors,
-                                                dataset.dirty_mem_ref + "-feature-result-" + str(column_index))
+                                                dataset.dirty_mem_ref + "-f-r-c" + str(column_index))
 
-        return dataset.dirty_mem_ref + "-feature-result-" + str(column_index)
+        return dataset.dirty_mem_ref + "-f-r-c" + str(column_index)
 
     def generate_features(self, dataset):
         """
@@ -490,7 +490,7 @@ class DetectionParallel(Detection):
         """
         dataset = dp.DatasetParallel.load_shared_dataset(dataset_ref)
         column_features = dp.DatasetParallel.load_shared_object(
-            dataset.dirty_mem_ref + "-feature-result-" + str(column_index))
+            dataset.dirty_mem_ref + "-f-r-c" + str(column_index))
 
         clusters_k_c_ce = {k: {} for k in range(2, self.LABELING_BUDGET + 2)}
         cells_clusters_k_ce = {k: {} for k in range(2, self.LABELING_BUDGET + 2)}
@@ -653,7 +653,7 @@ class DetectionParallel(Detection):
         detected_cells_dictionary = {}
         dataset = dp.DatasetParallel.load_shared_dataset(dataset_ref)
         feature_vectors = dp.DatasetParallel.load_shared_object(
-            dataset.dirty_mem_ref + "-feature-result-" + str(column_index))
+            dataset.dirty_mem_ref + "-f-r-c" + str(column_index))
         values = dp.DatasetParallel.load_shared_object(dataset.own_mem_ref + "-predictvariables")
         labeled_tuples = values[1]
         extended_labeled_cells = values[0]
