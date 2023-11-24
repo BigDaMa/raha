@@ -654,7 +654,7 @@ class DetectionParallel(Detection):
         dataset = dp.DatasetParallel.load_shared_dataset(dataset_ref)
         feature_vectors = dp.DatasetParallel.load_shared_object(
             dataset.dirty_mem_ref + "-f-r-c" + str(column_index))
-        values = dp.DatasetParallel.load_shared_object(dataset.own_mem_ref + "-predictvariables")
+        values = dp.DatasetParallel.load_shared_object(dataset.own_mem_ref + "-predv")
         labeled_tuples = values[1]
         extended_labeled_cells = values[0]
 
@@ -710,7 +710,7 @@ class DetectionParallel(Detection):
         futures = []
         column_count = dataset.dataframe_num_cols
         dp.DatasetParallel.create_shared_object([dataset.extended_labeled_cells, dataset.labeled_tuples],
-                                                dataset.own_mem_ref + "-predictvariables")
+                                                dataset.own_mem_ref + "-predv")
 
         futures.append(client.map(
             DetectionParallel.predict_labels_single_col,
