@@ -59,7 +59,7 @@ class CorrectionParallel(Correction):
         container.shared_clean_dataframe.unlink()
 
         # Clean-Up Dataset which was shared while executing baran
-        dp.DatasetParallel.cleanup_object("the_holy_worker_dataset")
+        dp.DatasetParallel.cleanup_object("holy_dataset")
         return
 
     @staticmethod
@@ -674,7 +674,7 @@ class CorrectionParallel(Correction):
         step = 0
         time_sum = 0
         corrected_cells = dataset.corrected_cells
-        dp.DatasetParallel.create_shared_object(dataset, "the_holy_worker_dataset")
+        dp.DatasetParallel.create_shared_object(dataset, "holy_dataset")
 
         while len(dataset.labeled_tuples) < self.LABELING_BUDGET:
             start_time = time.time()
