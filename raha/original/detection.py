@@ -41,6 +41,7 @@ import sklearn.feature_extraction
 
 import raha
 from raha import Detection as Det
+from raha.constants import OUTLIER_DETECTION, PATTERN_VIOLATION_DETECTION, RULE_VIOLATION_DETECTION, KNOWLEDGE_BASE_VIOLATION_DETECTION, HOMOGENEITY, MAJORITY
 
 
 ########################################
@@ -63,8 +64,9 @@ class Detection(Det):
         self.CLUSTERING_BASED_SAMPLING = True
         self.STRATEGY_FILTERING = False
         self.CLASSIFICATION_MODEL = "GBC"  # ["ABC", "DTC", "GBC", "GNB", "SGDC", "SVC"]
-        self.LABEL_PROPAGATION_METHOD = "homogeneity"   # ["homogeneity", "majority"]
-        self.ERROR_DETECTION_ALGORITHMS = ["OD", "PVD", "RVD", "KBVD"]   # ["OD", "PVD", "RVD", "KBVD", "TFIDF"]
+        self.LABEL_PROPAGATION_METHOD = HOMOGENEITY   # ["homogeneity", "majority"]
+        self.ERROR_DETECTION_ALGORITHMS = [OUTLIER_DETECTION, PATTERN_VIOLATION_DETECTION, RULE_VIOLATION_DETECTION,
+                                           KNOWLEDGE_BASE_VIOLATION_DETECTION]   # ["OD", "PVD", "RVD", "KBVD", "TFIDF"]
         self.HISTORICAL_DATASETS = []
 
     def _strategy_runner_process(self, args):
@@ -76,7 +78,7 @@ class Detection(Det):
         strategy_name = json.dumps([algorithm, configuration])
         strategy_name_hash = str(int(hashlib.sha1(strategy_name.encode("utf-8")).hexdigest(), 16))
         outputted_cells = {}
-        if algorithm == "OD":
+        if algorithm == OUTLIER_DETECTION:
             dataset_path = os.path.join(tempfile.gettempdir(), d.name + "-" + strategy_name_hash + ".csv")
             d.write_csv_dataset(dataset_path, d.dataframe)
             params = ["-F", ",", "--statistical", "0.5"] + ["--" + configuration[0]] + configuration[1:] + [dataset_path]
@@ -93,7 +95,7 @@ class Detection(Det):
                 os.remove(dataset_path)
             except:
                 pass
-        elif algorithm == "PVD":
+        elif algorithm == PATTERN_VIOLATION_DETECTION:
             attribute, ch = configuration
             j = d.dataframe.columns.get_loc(attribute)
             for i, value in d.dataframe[attribute].items():
@@ -102,7 +104,7 @@ class Detection(Det):
                         outputted_cells[(i, j)] = ""
                 except:
                     continue
-        elif algorithm == "RVD":
+        elif algorithm == RULE_VIOLATION_DETECTION:
             l_attribute, r_attribute = configuration
             l_j = d.dataframe.columns.get_loc(l_attribute)
             r_j = d.dataframe.columns.get_loc(r_attribute)
@@ -117,7 +119,7 @@ class Detection(Det):
                 if row[l_attribute] in value_dictionary and len(value_dictionary[row[l_attribute]]) > 1:
                     outputted_cells[(i, l_j)] = ""
                     outputted_cells[(i, r_j)] = ""
-        elif algorithm == "KBVD":
+        elif algorithm == KNOWLEDGE_BASE_VIOLATION_DETECTION:
             outputted_cells = raha.original.tools.KATARA.katara.run(d, configuration)
         detected_cells_list = list(outputted_cells.keys())
         strategy_profile = {
@@ -162,7 +164,7 @@ class Detection(Det):
                     os.mkdir(sp_folder_path)
                 algorithm_and_configurations = []
                 for algorithm_name in self.ERROR_DETECTION_ALGORITHMS:
-                    if algorithm_name == "OD":
+                    if algorithm_name == OUTLIER_DETECTION:
                         configuration_list = [
                             list(a) for a in
                             list(itertools.product(["histogram"], ["0.1", "0.3", "0.5", "0.7", "0.9"],
@@ -171,7 +173,7 @@ class Detection(Det):
                                                    ["1.0", "1.3", "1.5", "1.7", "2.0", "2.3", "2.5", "2.7", "3.0"]))]
                         algorithm_and_configurations.extend(
                             [[d, algorithm_name, configuration] for configuration in configuration_list])
-                    elif algorithm_name == "PVD":
+                    elif algorithm_name == PATTERN_VIOLATION_DETECTION:
                         configuration_list = []
                         for attribute in d.dataframe.columns:
                             column_data = "".join(d.dataframe[attribute].tolist())
@@ -180,12 +182,12 @@ class Detection(Det):
                                 configuration_list.append([attribute, ch])
                         algorithm_and_configurations.extend(
                             [[d, algorithm_name, configuration] for configuration in configuration_list])
-                    elif algorithm_name == "RVD":
+                    elif algorithm_name == RULE_VIOLATION_DETECTION:
                         al = d.dataframe.columns.tolist()
                         configuration_list = [[a, b] for (a, b) in itertools.product(al, al) if a != b]
                         algorithm_and_configurations.extend(
                             [[d, algorithm_name, configuration] for configuration in configuration_list])
-                    elif algorithm_name == "KBVD":
+                    elif algorithm_name == KNOWLEDGE_BASE_VIOLATION_DETECTION:
                         configuration_list = [
                             os.path.join(os.path.dirname(__file__), "tools", "KATARA", "knowledge-base", pat)
                             for pat in os.listdir(os.path.join(os.path.dirname(__file__), "tools", "KATARA", "knowledge-base"))]
@@ -324,12 +326,12 @@ class Detection(Det):
             for j in d.clusters_k_j_c_ce[k]:
                 for c in d.clusters_k_j_c_ce[k][j]:
                     if len(d.labels_per_cluster[(j, c)]) > 0:
-                        if self.LABEL_PROPAGATION_METHOD == "homogeneity":
+                        if self.LABEL_PROPAGATION_METHOD == HOMOGENEITY:
                             cluster_label = list(d.labels_per_cluster[(j, c)].values())[0]
                             if sum(d.labels_per_cluster[(j, c)].values()) in [0, len(d.labels_per_cluster[(j, c)])]:
                                 for cell in d.clusters_k_j_c_ce[k][j][c]:
                                     d.extended_labeled_cells[cell] = cluster_label
-                        elif self.LABEL_PROPAGATION_METHOD == "majority":
+                        elif self.LABEL_PROPAGATION_METHOD == MAJORITY:
                             cluster_label = round(
                                 sum(d.labels_per_cluster[(j, c)].values()) / len(d.labels_per_cluster[(j, c)]))
                             for cell in d.clusters_k_j_c_ce[k][j][c]:
