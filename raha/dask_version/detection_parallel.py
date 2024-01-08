@@ -735,6 +735,17 @@ class DetectionParallel(Detection):
         if self.VERBOSE:
             print("Predict (parallel): " + str(end_time - start_time))
 
+    def store_results(self, d):
+        """
+        This method stores the results.
+        """
+        ed_folder_path = os.path.join(d.results_folder, "error-detection")
+        if not os.path.exists(ed_folder_path):
+            os.mkdir(ed_folder_path)
+        pickle.dump(d, open(os.path.join(ed_folder_path, "detection.dataset"), "wb"))
+        if self.VERBOSE:
+            print("The results are stored in {}.".format(os.path.join(ed_folder_path, "detection.dataset")))
+
     def run(self, dd):
         # ___Initialize DataFrame, Dask Cluster__#
         shared_df = self.initialize_dataframe(dd["path"])
@@ -782,6 +793,9 @@ class DetectionParallel(Detection):
             print("Raha Detection took {:.3f} seconds in total.".format(self.TIME_TOTAL))
         self.cleanup_raha(dataset_par)
 
+        if self.SAVE_RESULTS:
+            self.store_results(dataset_par)
+
         # This is necessary to catch errors that sometime occur while shutting down the client.
         # Those errors can be safely ignored
         try:
@@ -796,10 +810,11 @@ class DetectionParallel(Detection):
 
 ########################################
 if __name__ == '__main__':
+    dataset_name = "flights"
     dataset_dictionary = {
-        "name": "flights",
-        "path": str(Path("./datasets/flights/dirty.csv").resolve()),
-        "clean_path": str(Path("./datasets/flights/clean.csv").resolve()),
+        "name": dataset_name,
+        "path": str(Path(f"./datasets/{dataset_name}/dirty.csv").resolve()),
+        "clean_path": str(Path(f"./datasets/{dataset_name}/clean.csv").resolve()),
     }
     dataset = dp.DatasetParallel(dataset_dictionary)
     print("________________")
@@ -807,6 +822,9 @@ if __name__ == '__main__':
 
     # Run Raha Benchmark
     raha_para = DetectionParallel()
+    raha_para.VERBOSE = True
+    raha_para.SAVE_RESULTS = True
+    raha_para.PRELOADING = True
     detected_cells = raha_para.run(dataset_dictionary)
     print("Detected {} cells!".format(len(detected_cells)))
     print("________________")

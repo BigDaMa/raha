@@ -449,13 +449,15 @@ class Detection(Det):
 
 ########################################
 if __name__ == "__main__":
-    dataset_name = "flights"
+    dataset_name = "beers"
     dataset_dictionary = {
         "name": dataset_name,
-        "path": str(Path("./datasets/flights/dirty.csv").resolve()),
-        "clean_path": str(Path("./datasets/flights/clean.csv").resolve())
+        "path": str(Path(f"./datasets/{dataset_name}/dirty.csv").resolve()),
+        "clean_path": str(Path(f"./datasets/{dataset_name}/clean.csv").resolve())
     }
     app = Detection()
+    app.VERBOSE = True
+
     detection_dictionary = app.run(dataset_dictionary)
     data = raha.original.dataset.Dataset(dataset_dictionary)
     p, r, f = data.get_data_cleaning_evaluation(detection_dictionary)[:3]
