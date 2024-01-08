@@ -374,6 +374,16 @@ class DetectionParallel(Detection):
             sys.stderr.write("Preloading strategies' results, as they have already been run on the dataset\n")
             strategy_profiles = [pickle.load(open(os.path.join(strategy_profile_path, strategy_file), "rb"))
                                  for strategy_file in os.listdir(strategy_profile_path)]
+
+            for j in range(dataset.dataframe_num_cols):
+                strategy_profiles_col = []
+                for strategy_profile in strategy_profiles:
+                    strategy_profiles_col.append(
+                        {"name": strategy_profile["name"],
+                         "output": strategy_profile["output_col_" + str(j)]})
+                dp.DatasetParallel.create_shared_object(strategy_profiles_col,
+                                                        dataset.dirty_mem_ref + "-s_p-c" + str(j))
+
             end_time = time.time()
             self.TIME_TOTAL += end_time - start_time
             if self.VERBOSE:
