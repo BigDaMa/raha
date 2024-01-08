@@ -250,8 +250,10 @@ class DetectionParallel(Detection):
         dataset = dp.DatasetParallel.load_shared_dataset(dataset_ref)
         strategy_results = {}
         strategy_results["name"] = strategy_name
+        strategy_results["output"] = []
         for j in range(dataset.dataframe_num_cols):
             strategy_results["output_col_" + str(j)] = list(outputted_cells[j].keys())
+            strategy_results["output"] += list(outputted_cells[j].keys())
         strategy_results["runtime"] = end_time - start_time
 
         if self.SAVE_RESULTS:
@@ -367,57 +369,73 @@ class DetectionParallel(Detection):
             for data_dictionary in self.HISTORICAL_DATASETS + [dataset.dictionary]:
                 raha.original.utilities.dataset_profiler(data_dictionary)
                 raha.original.utilities.evaluation_profiler(data_dictionary)
-            return raha.original.utilities.get_selected_strategies_via_historical_data(dataset.dictionary,
-                                                                              self.HISTORICAL_DATASETS)
-
-        if os.path.exists(strategy_profile_path) and self.PRELOADING:
-            sys.stderr.write("Preloading strategies' results, as they have already been run on the dataset\n")
-            strategy_profiles = [pickle.load(open(os.path.join(strategy_profile_path, strategy_file), "rb"))
-                                 for strategy_file in os.listdir(strategy_profile_path)]
+            strategy_profiles = raha.original.utilities.get_selected_strategies_via_historical_data(dataset.dictionary, self.HISTORICAL_DATASETS)
 
             for j in range(dataset.dataframe_num_cols):
                 strategy_profiles_col = []
                 for strategy_profile in strategy_profiles:
                     strategy_profiles_col.append(
                         {"name": strategy_profile["name"],
-                         "output": strategy_profile["output_col_" + str(j)]})
+                         "output": strategy_profile["output"]})
                 dp.DatasetParallel.create_shared_object(strategy_profiles_col,
                                                         dataset.dirty_mem_ref + "-s_p-c" + str(j))
 
             end_time = time.time()
             self.TIME_TOTAL += end_time - start_time
             if self.VERBOSE:
-                print("Preloading strategies (parallel): " + str(end_time - start_time))
+                print("Raha filtering all strategies total time: " + str(end_time - start_time))
+            dataset.strategy_profiles = strategy_profiles
             return strategy_profiles
-        if self.SAVE_RESULTS:
-            os.mkdir(strategy_profile_path)
 
-        for algorithm_name in self.ERROR_DETECTION_ALGORITHMS:
-            match algorithm_name:
-                case constants.OUTLIER_DETECTION:
-                    futures.append(client.submit(DetectionParallel.setup_outlier_metadata, dataset.own_mem_ref))
-                case constants.PATTERN_VIOLATION_DETECTION:
-                    futures.append(
-                        client.submit(DetectionParallel.setup_pattern_violation_metadata, dataset.own_mem_ref))
-                case constants.RULE_VIOLATION_DETECTION:
-                    futures.append(client.submit(DetectionParallel.setup_rule_violation_metadata, dataset.own_mem_ref))
-                case constants.KNOWLEDGE_BASE_VIOLATION_DETECTION:
-                    futures.append(
-                        client.submit(DetectionParallel.setup_knowledge_violation_metadata, dataset.own_mem_ref))
-                case _:
-                    raise ValueError("Algorithm " + str(algorithm_name) + " is not supported!")
+        else:
 
-        # Gather Results of all workers, metadata configuration
-        results = list(itertools.chain.from_iterable(client.gather(futures=futures, direct=True)))
-        end_time = time.time()
-        self.TIME_TOTAL += end_time - start_time
-        if self.VERBOSE:
-            print("Raha strategy metadata generation(parallel): " + str(end_time - start_time))
+            if os.path.exists(strategy_profile_path) and self.PRELOADING:
+                sys.stderr.write("Preloading strategies' results, as they have already been run on the dataset\n")
+                strategy_profiles = [pickle.load(open(os.path.join(strategy_profile_path, strategy_file), "rb"))
+                                     for strategy_file in os.listdir(strategy_profile_path)]
 
-        # Start Detecting Errors in parallel
-        futures = client.map(self.parallel_strat_runner_process, results)
-        # Gather Results of all workers, detected cells as dicts
-        strategy_profiles = client.gather(futures=futures, direct=True)
+                end_time = time.time()
+                self.TIME_TOTAL += end_time - start_time
+                if self.VERBOSE:
+                    print("Preloading strategies (parallel): " + str(end_time - start_time))
+                # return strategy_profiles
+            else:
+                if self.SAVE_RESULTS:
+                    os.mkdir(strategy_profile_path)
+
+                for algorithm_name in self.ERROR_DETECTION_ALGORITHMS:
+                    match algorithm_name:
+                        case constants.OUTLIER_DETECTION:
+                            futures.append(client.submit(DetectionParallel.setup_outlier_metadata, dataset.own_mem_ref))
+                        case constants.PATTERN_VIOLATION_DETECTION:
+                            futures.append(
+                                client.submit(DetectionParallel.setup_pattern_violation_metadata, dataset.own_mem_ref))
+                        case constants.RULE_VIOLATION_DETECTION:
+                            futures.append(client.submit(DetectionParallel.setup_rule_violation_metadata, dataset.own_mem_ref))
+                        case constants.KNOWLEDGE_BASE_VIOLATION_DETECTION:
+                            futures.append(
+                                client.submit(DetectionParallel.setup_knowledge_violation_metadata, dataset.own_mem_ref))
+                        case _:
+                            raise ValueError("Algorithm " + str(algorithm_name) + " is not supported!")
+
+                # Gather Results of all workers, metadata configuration
+                results = list(itertools.chain.from_iterable(client.gather(futures=futures, direct=True)))
+                end_time = time.time()
+                self.TIME_TOTAL += end_time - start_time
+                if self.VERBOSE:
+                    print("Raha strategy metadata generation(parallel): " + str(end_time - start_time))
+
+                print("Stuff1")
+                # Start Detecting Errors in parallel
+                futures = client.map(self.parallel_strat_runner_process, results)
+                # Gather Results of all workers, detected cells as dicts
+                strategy_profiles = client.gather(futures=futures, direct=True)
+                print("Stuff2")
+
+                end_time = time.time()
+                self.TIME_TOTAL += end_time - start_time
+                if self.VERBOSE:
+                    print("Raha running all strategies total time(parallel): " + str(end_time - start_time))
 
         for j in range(dataset.dataframe_num_cols):
             strategy_profiles_col = []
@@ -427,11 +445,6 @@ class DetectionParallel(Detection):
                      "output": strategy_profile["output_col_" + str(j)]})
             dp.DatasetParallel.create_shared_object(strategy_profiles_col,
                                                     dataset.dirty_mem_ref + "-s_p-c" + str(j))
-
-        end_time = time.time()
-        self.TIME_TOTAL += end_time - start_time
-        if self.VERBOSE:
-            print("Raha running all strategies total time(parallel): " + str(end_time - start_time))
         dataset.strategy_profiles = strategy_profiles
         return strategy_profiles
 
@@ -545,10 +558,11 @@ class DetectionParallel(Detection):
         clustering_results = []
         client = get_client()
         futures = []
-
+        print("NOONE1")
         futures.append(client.map(self.build_clusters_single_column, [dataset.own_mem_ref] * dataset.dataframe_num_cols,
                                   numpy.arange(dataset.dataframe_num_cols)))
         results = client.gather(futures=futures, direct=True)[0]
+        print("NOONE2")
         results.sort(key=lambda x: x[0], reverse=False)
 
         end_time = time.time()
