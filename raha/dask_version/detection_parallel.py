@@ -425,12 +425,10 @@ class DetectionParallel(Detection):
                 if self.VERBOSE:
                     print("Raha strategy metadata generation(parallel): " + str(end_time - start_time))
 
-                print("Stuff1")
                 # Start Detecting Errors in parallel
                 futures = client.map(self.parallel_strat_runner_process, results)
                 # Gather Results of all workers, detected cells as dicts
                 strategy_profiles = client.gather(futures=futures, direct=True)
-                print("Stuff2")
 
                 end_time = time.time()
                 self.TIME_TOTAL += end_time - start_time
@@ -558,11 +556,9 @@ class DetectionParallel(Detection):
         clustering_results = []
         client = get_client()
         futures = []
-        print("NOONE1")
         futures.append(client.map(self.build_clusters_single_column, [dataset.own_mem_ref] * dataset.dataframe_num_cols,
                                   numpy.arange(dataset.dataframe_num_cols)))
         results = client.gather(futures=futures, direct=True)[0]
-        print("NOONE2")
         results.sort(key=lambda x: x[0], reverse=False)
 
         end_time = time.time()
