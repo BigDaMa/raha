@@ -659,7 +659,7 @@ class CorrectionParallel(Correction):
         return d.corrected_cells
 
     def run(self, d):
-        shared_df, clean_df = self.initialize_dataframes(dataset_dictionary)
+        shared_df, clean_df = self.initialize_dataframes(d.dictionary)
         client = self.start_dask_cluster(num_workers=os.cpu_count(), logging_level=logging.ERROR)
 
         # ____________________Initialize Dataset____________________#
@@ -733,6 +733,7 @@ if __name__ == '__main__':
     print("________________")
     print("Running Baran...\n")
     baran = CorrectionParallel()
+    # baran.VERBOSE = True
     corrected_cells = baran.run(dataset)
     print("Corrected {} cells!".format(len(corrected_cells)))
     print("________________")
