@@ -29,7 +29,7 @@ import sklearn.neural_network
 import sklearn.svm
 import sklearn.tree
 from dask.distributed import get_worker, get_client
-from distributed import Client, LocalCluster
+from distributed import Client, LocalCluster, wait
 from distributed.worker import Worker
 
 import raha.constants as constants
@@ -101,6 +101,10 @@ class DetectionParallel(Detection):
         # Clean-Up strategy profiles
         for j in range(dataset.dataframe_num_cols):
             dataset.cleanup_object(dataset.dirty_mem_ref + "-s_p-c" + str(j))
+
+        # Clean-Up clustering results
+        for j in range(dataset.dataframe_num_cols):
+            dataset.cleanup_object(dataset.dirty_mem_ref + "_c_" + str(j))
 
         # Clean-Up values that were shared for prediction phase(raha)
         dataset.cleanup_object(dataset.own_mem_ref + "-predv")
@@ -248,9 +252,8 @@ class DetectionParallel(Detection):
         end_time = time.time()
 
         dataset = dp.DatasetParallel.load_shared_dataset(dataset_ref)
-        strategy_results = {}
-        strategy_results["name"] = strategy_name
-        strategy_results["output"] = []
+        strategy_results = {"name": strategy_name,
+                            "output": []}
         for j in range(dataset.dataframe_num_cols):
             strategy_results["output_col_" + str(j)] = list(outputted_cells[j].keys())
             strategy_results["output"] += list(outputted_cells[j].keys())
@@ -263,7 +266,10 @@ class DetectionParallel(Detection):
         if self.VERBOSE:
             print("{} cells are detected by {}".format(len(outputted_cells), strategy_name))
 
-        return strategy_results
+        mem_ref = dataset.dirty_mem_ref + "_" + strategy_name_hashed
+        dp.DatasetParallel.create_shared_object(strategy_results, mem_ref)
+
+        return mem_ref
 
     @staticmethod
     def setup_outlier_metadata(dataset_ref):
@@ -428,7 +434,12 @@ class DetectionParallel(Detection):
                 # Start Detecting Errors in parallel
                 futures = client.map(self.parallel_strat_runner_process, results)
                 # Gather Results of all workers, detected cells as dicts
-                strategy_profiles = client.gather(futures=futures, direct=True)
+                strategy_profiles_refs = client.gather(futures=futures, direct=True)
+                strategy_profiles = [dp.DatasetParallel.load_shared_object(mem_ref) for mem_ref in strategy_profiles_refs]
+
+                # cleanup mem refs here for easier time
+                for mem_ref in strategy_profiles_refs:
+                    dp.DatasetParallel.cleanup_object(mem_ref)
 
                 end_time = time.time()
                 self.TIME_TOTAL += end_time - start_time
@@ -546,7 +557,9 @@ class DetectionParallel(Detection):
         # print(clusters_k_c_ce if column_index == 0 else "")
         # TODO Think about if you want to return these lists or rather save them in shared mem again.
         # print("\nI'm worker: {}, my task is column {}\nMy result is: {}".format(get_worker().id, column_index, [column_index, clusters_k_c_ce,"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" , cells_clusters_k_ce]))
-        return [column_index, clusters_k_j_c_ce, cells_clusters_k_j_ce]
+        mem_ref = dataset.dirty_mem_ref + "_c_" + str(column_index)
+        dp.DatasetParallel.create_shared_object([column_index, clusters_k_j_c_ce, cells_clusters_k_j_ce], mem_ref)
+        return mem_ref
 
     def build_clusters(self, dataset):
         """
@@ -556,9 +569,12 @@ class DetectionParallel(Detection):
         clustering_results = []
         client = get_client()
         futures = []
+
         futures.append(client.map(self.build_clusters_single_column, [dataset.own_mem_ref] * dataset.dataframe_num_cols,
                                   numpy.arange(dataset.dataframe_num_cols)))
-        results = client.gather(futures=futures, direct=True)[0]
+
+        results = client.gather(futures=futures, direct=False)[0]
+        results = [dp.DatasetParallel.load_shared_object(mem_ref) for mem_ref in results]
         results.sort(key=lambda x: x[0], reverse=False)
 
         end_time = time.time()
