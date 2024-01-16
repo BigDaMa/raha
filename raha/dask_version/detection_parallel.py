@@ -406,7 +406,7 @@ class DetectionParallel(Detection):
                     print("Preloading strategies (parallel): " + str(end_time - start_time))
                 # return strategy_profiles
             else:
-                if self.SAVE_RESULTS:
+                if self.SAVE_RESULTS and not os.path.exists(strategy_profile_path):
                     os.mkdir(strategy_profile_path)
 
                 for algorithm_name in self.ERROR_DETECTION_ALGORITHMS:
@@ -555,7 +555,6 @@ class DetectionParallel(Detection):
 
         # cells_clusters_j_j_ce[k][j] = clustering_results[j][2][k]
         # print(clusters_k_c_ce if column_index == 0 else "")
-        # TODO Think about if you want to return these lists or rather save them in shared mem again.
         # print("\nI'm worker: {}, my task is column {}\nMy result is: {}".format(get_worker().id, column_index, [column_index, clusters_k_c_ce,"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" , cells_clusters_k_ce]))
         mem_ref = dataset.dirty_mem_ref + "_c_" + str(column_index)
         dp.DatasetParallel.create_shared_object([column_index, clusters_k_j_c_ce, cells_clusters_k_j_ce], mem_ref)
@@ -836,7 +835,7 @@ class DetectionParallel(Detection):
 
 ########################################
 if __name__ == '__main__':
-    dataset_name = "flights"
+    dataset_name = "beers"
     dataset_dictionary = {
         "name": dataset_name,
         "path": str(Path(f"./datasets/{dataset_name}/dirty.csv").resolve()),
@@ -850,7 +849,7 @@ if __name__ == '__main__':
     raha_para = DetectionParallel()
     raha_para.VERBOSE = True
     raha_para.SAVE_RESULTS = True
-    raha_para.PRELOADING = True
+    raha_para.PRELOADING = False
     detected_cells = raha_para.run(dataset_dictionary)
     print("Detected {} cells!".format(len(detected_cells)))
     print("________________")
