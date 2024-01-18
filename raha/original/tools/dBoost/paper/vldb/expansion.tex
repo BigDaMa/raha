@@ -1,0 +1,84 @@
+\section{Tuple Expansion}
+\label{sec:expansion}
+
+\vspace{0.1in}
+
+\noindent
+\begin{minipage}{\linewidth}
+  \begin{minipage}{0.8\linewidth}
+    \itshape
+    What if you need to store a date and time value with subsecond resolution? MySQL
+    currently does not have an appropriate data type for this, but you can use your own
+    storage format: you can use the BIGINT data type and store the value as a timestamp in
+    microseconds, or you can use a DOUBLE and store the fractional part of the second after
+    the decimal point.
+  \end{minipage}
+  \begin{flushright}
+    \textit{High-Performance MySQL}, 3\textsuperscript{rd} edition (2012), p.~127
+  \end{flushright}
+\end{minipage}\vspace{\figurepadding}
+
+Data stored in databases often has rich semantics, encompassing dates and times, highly stuctured datatypes such as phone numbers, addresses, or GIS data. The semantics of plain SQL, however, are not expressive enough to properly store these rich data types. Programmers are thus forced to revert to simpler types, relying on application logic to parse the data.
+
+Unfortunately, structural information on the data is what tasks such as outlier detection would most benefit from. For example, the day of the week in a date may be relevant information in a banking application in which transactions are only completed on weekdays, but unless the programmer explicitly duplicates this information in a separate column, it remains inaccessible to an automated outlier detector.
+
+To reconstruct this lost information we expand tuples, breaking down each field into a sub-tuple of extracted type-depent features based on the data type provided by the schema. 
+The rules by which tuples are expanded are taken from a library provided with our tool.
+Figure~\ref{fig:tuple-expansion} lists some of the rules that we apply to values of three common data types. These rules serve as a starting point for tuple expansion, but we expect users of our toolbox to expand this set of rules to add insight specific to their application domain. Expressing rules as simple functions mapping a value of a given type to a tuple of features makes it possible to express soft constraints about the data easily: instead of specifying hard constraints, users state that a certain way of looking at attributes should be consistent across the rows of the table.
+
+\newenvironment{stackedlines}{\renewcommand{\arraystretch}{1.2}\begin{array}[b]{@{}l@{\quad}l@{}}}{\end{array}}
+\newcommand{\sigrule}[1]{\mbox{\texttt{\spaceskip=0.1em{#1}}}}
+
+\begin{figure}[h]
+  \newcommand{\largest}{strip numbers:}
+  $\begin{stackedlines}
+    \texttt{string:}\\
+    \texttt{\parbox{\widthof{1418222134.325}}{"32-G414"}}
+  \end{stackedlines} \longrightarrow
+  \begin{cases}
+    % \text{id:} & \texttt{32-G414}\\
+    \text{length:} & \texttt{7}\\
+    \text{signature:} & \sigrule{Nd Nd Pd Lu Nd Nd Nd}\\
+    \text{uppercase:} & \texttt{True (1)}\\
+    \text{lowercase:} & \texttt{False (0)}\\
+    \text{email ok:} & \texttt{False (0)}\\
+    \text{strip numbers:} & \texttt{<num>-G<num>}\\
+    \text{\parbox{\widthof{\largest}}{title case:}} & \texttt{True (1)}
+  \end{cases}\hfill$
+% \end{figure}
+% \begin{figure}[H]
+  $\begin{stackedlines}
+    \texttt{int:}\\
+    \texttt{\parbox{\widthof{1418222134.325}}{1418222134}}
+  \end{stackedlines} \longrightarrow
+  \begin{cases}
+    % \text{id:} & \texttt{1418222134}\\
+    \text{date:} & \texttt{(2014,12,10)}\\
+    \text{time:} & \texttt{(14,35)}\\
+    \text{weekday:} & \texttt{Wed (2)}\\
+    % \text{day of year:} & \texttt{344}\\
+    \text{weekend:} & \texttt{False (0)}\\
+    \text{binary:} & \texttt{0b10101\ldots010}\\
+    \text{\parbox{\widthof{\largest}}{mod-10:}} & \texttt{4}
+  \end{cases}\hfill$
+% \end{figure}
+% \begin{figure}[H]
+   $\begin{stackedlines}
+    \texttt{float:}\\
+    \texttt{1418222134.325}
+  \end{stackedlines} \longrightarrow
+  \begin{cases}
+    % \text{id:} & \texttt{1418222134.325}\\
+    \text{intpart:} & \texttt{1418222134}\\
+    \text{fracpart:} & \texttt{0.325}\\
+    \text{millis:} & \texttt{325}\\
+    \text{\parbox{\widthof{\largest}}{date, \ldots:}} & \texttt{\ldots}
+  \end{cases}\hfill$
+
+  \caption{Selected tuple expansion rules.}
+  \label{fig:tuple-expansion}
+\end{figure}
+
+The rules presented in Figure~\ref{fig:tuple-expansion} are fairly general rules, likely to apply to be suitable to most datasets For example, the \texttt{strip numbers} rule takes a string, and replaces any sequence of digits by the string \texttt{<num>}. Such a rule is useful to check that a column is formatted consistently, allowing for variations only in the numbers: a database of legislative citations, for example, could contain entries such as \texttt{S.933}, \texttt{H.R.21}, \texttt{P.L.107-155}, or \texttt{P.L.88-352}; applying the \texttt{strip numbers} rule to this data yields \texttt{S.<num>}, \texttt{H.R.<num>}, \texttt{P.L.<num>-<num>}, or \texttt{P.L.<num>-<num>}; this reduces the whole dataset to a small number of patterns that can be easily analyzed using data models.
+
+The \texttt{signature} rule is equally interesting: to extract the signature of a string, our tools replace each character by the name of its Unicode class: uppercase Latin letters are \texttt{Lu}, lowercase Latin letters are \texttt{Ll}, digits are \texttt{Nd}, and punctuation signs are among others \texttt{Po}, \texttt{Pe}, \texttt{Ps}, and \texttt{Pd}. Such a rule is useful to check the consistency of various fixed-width formats such as ISO~8061 timestamps, birth dates, or phone numbers. As a more detailed example, a column in a database could be used to record references to particular sections, subsections, and paragraphs in a text: entries would be in the form \texttt{\S901.04(a)}, \texttt{\S853.02(d)}, or \texttt{\S910.45}. Extracting the signature of these entries would yield \sigrule{Po Nd Nd Nd Po Nd Nd Ps Ll Pe} for the first two entries, and \sigrule{Po Nd Nd Nd Po Nd Nd} for the last one. Just like before, this reduces the dataset to a small set of patterns, making it easy to detect discrepancies. %TODO Cite unicode standard

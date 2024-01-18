@@ -1,0 +1,19 @@
+\subsection{Logins: a more realistic partitioned dataset}
+
+Our web activity synthetic datasets are comprised of two columns: a Unix timestamp stored as an \texttt{INT}, and a country. Each dataset is supposed to track the connections of a registered user on a website; such a dataset could be obtained by selecting the relevant rows out of a large table listing all connections of all users. Each user exhibits a different connection pattern:
+
+\begin{itemize}
+\item One user always connects from the same country; values that do not match this country are outliers.
+\item The second connects from one country during the week, and from another during the week-end; outliers in this case are connections from a country that doesn't match the country for that day of the week.
+\item The third user connects from a set of three countries, with no discernible pattern. This should not return any outliers.
+\end{itemize}
+
+The datasets are randomly generated sets of 2000 connections, listed in no particular order. The target outlier rate is \SI{5}{\percent} in each generated dataset.
+
+\newcommand{\prop}[2]{#1\,\#\,#2}
+
+As in the \emph{Fizz-Buzz} example, numerical models are useless here, whereas histogram-based models produce good results. In the first case, a histogram-based model with no correlation analysis is sufficient to flag the outliers (\timing{.08}{.14}{.38})\footnote{All runtime results were obtained using a 4 core i7-4810MQ CPU @ 2.80GHz and 32GB of RAM.}. In the second case, the discrete statistical analysis phase singles out interesting pairs of correlated columns, including \texttt{(\prop{date}{day of week}, country)} and \texttt{(\prop{date}{is weekend}, country)}. A histogram-based model is sufficient to successfully flag outliers, without resorting to partitioning.
+
+\fxnote{Exclude self-correlations from the discrete analyzer to speed it up and get better results}
+
+Mixing data from two or more users, however, shows the limits of the non-partitioned histogram approach. If we only look at two-columns correlations the individual behavior patterns become less apparent, and if we look at three-column correlations the histograms become too large and spurious hits start to appear due to the many discrete correlations hints returned by the analyzer. The partitioned histograms model, on the other hand, can handle the three-users without particular difficulties, by highlighting (among others) the triplet \texttt{(user, \prop{date}{is weekend}, country)} (\timing {.14}{.19}{.56}).

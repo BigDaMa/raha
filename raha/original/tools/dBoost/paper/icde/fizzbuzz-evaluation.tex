@@ -1,0 +1,43 @@
+\subsection{Soft constraint specifications: Fizz-Buzz}
+We start with an extremely simple example, highlighting how easy our system makes it to encode and check data integrity constraints. The Fizz-Buzz programming exercise is based on a children's game and frequently found in programming interviews. The synthetic dataset we generated obeys the following rules: for each record \(x, y\), $x$ is a number between 0 and 1000, and $y$ is ``Fizz'' if \(x \mod 3 = 0\), ``Buzz'' if \(x \mod 5 = 0\), ``FizzBuzz'' if \(x \mod 15 = 0\), and \(x\) otherwise. In our synthetic dataset we introduced three outliers: \texttt{(25, "Fizz")}, \texttt{(28, "Woof!")}, \texttt{(30, "Buzz")}. Each demonstrates a different error, namely swapping ``Fizz'' and ``Buzz'', producing entirely incorrect output, and failing to recognize that a number is divisible by both $3$ and $5$.
+
+A traditional way of checking that all tuples verify the production rule outlined above is to encode this rule itself as a database integrity constraint. This requires encoding the full complexity of the exercise in the rule, and would require manual adjustments if the rules were to change. Instead, a user might want to specify the bare minimum for the system to infer the rules; in this case, it is sufficient to add one extraction rule, mapping integers to two booleans denoting whether they are divisible by $3$ or $5$. In \dBoost/, this is expressed as:
+
+\begin{minted}{python3}
+@rule
+def divisibleBy3or5(x: int) -> ("div 3", "div 5"):
+  return (x % 3 == 0, x % 5 == 0)
+\end{minted}
+
+Running the discrete statistical analyzer on the synthetic datasets suggests that the two columns are correlated, and using the histogram model flags the aforementioned outliers. The output of the program for the \texttt{(30, "Buzz")} line, for example, is similar to:
+
+\begin{lstnobreak}[gobble=2]
+   $30$ $Buzz$
+   > Values ($30$, '$Buzz$') do not
+     match features ('$div 3$', '$strip numbers$')
+   • histogram for ('div 3', 'strip numbers'):
+     [532] ████████████████████ (False, '<num>')
+     [133] █████ (False, 'Buzz')
+     [  1] ▌ (False, 'Fizz')
+     [  1] ▌ (False, 'Woof!')
+     [  1] /▌/ $(True, 'Buzz')$
+     [267] ██████████ (True, 'Fizz')
+     [ 66] ██ (True, 'FizzBuzz')
+\end{lstnobreak}
+
+Using the partitioned histogram model produces similar output:
+
+\begin{lstnobreak}[gobble=2]
+   $30$ $Buzz$
+   > Values ($30$, '$Buzz$') do not
+     match features ('$div 3$', '$strip numbers$')
+   • histogram for ('strip numbers',) if 'div 3' = True:
+     [  1] /▌/ $('Buzz',)$
+     [267] ████████████████████ ('Fizz',)
+     [ 66] ████ ('FizzBuzz',)
+   ... if 'div 3' = False:
+     [532] ████████████████████ ('<num>',)
+     [133] █████ ('Buzz',)
+     [  1] ▌ ('Fizz',)
+     [  1] ▌ ('Woof!',)
+\end{lstnobreak}

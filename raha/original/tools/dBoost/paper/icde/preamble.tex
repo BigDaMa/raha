@@ -1,0 +1,109 @@
+\usepackage{graphicx}
+\usepackage{balance}  % for  \balance command ON LAST PAGE  (only there!)
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{microtype}
+\usepackage{calc}
+\usepackage[final]{listings}
+\usepackage[table]{xcolor}
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{upquote}
+\usepackage{fixme}
+\usepackage{xfrac}
+\usepackage{minted}
+\usepackage{amsmath,amssymb}
+\usepackage{siunitx}
+\usepackage{subfig}
+\usepackage{pmboxdraw} % Dark boxes for text histograms
+\usepackage{array,multirow}
+\usepackage{tikz}
+\usepackage{xspace}
+% \usepackage{flushend}
+\usetikzlibrary{patterns}
+\makeatletter
+\global\let\tikz@ensure@dollar@catcode=\relax
+\makeatother
+
+\fxsetup{nomargin,inline}
+
+% Images in draft mode
+\setkeys{Gin}{draft=false}
+
+\newlength{\barlength}
+
+\newcommand{\singlebar}[1]{
+  \setlength{\barlength}{\dimexpr #1em / 2 \relax}
+  \begin{tikzpicture}
+    \draw[pattern=north east lines,pattern color=.] (0,0) rectangle (\barlength,0.5em);
+  \end{tikzpicture}
+}
+
+\lstset{ %
+  basicstyle=\ttfamily\small\color{black},  %
+  breaklines=true, %
+  keywordstyle=\textbf, %
+  literate={█}{{\singlebar{1}}}{1}
+           {██}{{\singlebar{2}}}{2}
+           {███}{{\singlebar{3}}}{3}
+           {████}{{\singlebar{4}}}{4}
+           {█████}{{\singlebar{5}}}{5}
+           {██████}{{\singlebar{6}}}{6}
+           {███████}{{\singlebar{7}}}{7}
+           {████████}{{\singlebar{8}}}{8}
+           {█████████}{{\singlebar{9}}}{9}
+           {██████████}{{\singlebar{10}}}{10}
+           {███████████}{{\singlebar{11}}}{11}
+           {████████████}{{\singlebar{12}}}{12}
+           {█████████████}{{\singlebar{13}}}{13}
+           {██████████████}{{\singlebar{14}}}{14}
+           {███████████████}{{\singlebar{15}}}{15}
+           {████████████████}{{\singlebar{16}}}{16}
+           {█████████████████}{{\singlebar{17}}}{17}
+           {██████████████████}{{\singlebar{18}}}{18}
+           {███████████████████}{{\singlebar{19}}}{19}
+           {████████████████████}{{\singlebar{20}}}{20}
+           {█████████████████████}{{\singlebar{21}}}{21}
+           {██████████████████████}{{\singlebar{22}}}{22}
+           {███████████████████████}{{\singlebar{23}}}{23}
+           {████████████████████████}{{\singlebar{24}}}{24}
+           {█████████████████████████}{{\singlebar{25}}}{25}
+           {▌}{{\singlebar{0.5}\hspace{\dimexpr0.5em-0.5em/2\relax}}}{1}
+           {•}{{$\bullet$}}{1},
+  moredelim=[is][\color{red}\underbar]{\$}{\$}, %
+  moredelim=[is][\color{red}]{/}{/}, %
+  upquote=true, %
+  keepspaces=true, %
+  basewidth=0.5em %
+}
+
+\lstnewenvironment{lstnobreak}[1][]
+{\noindent\minipage{\linewidth}\medskip\lstset{#1}}
+{\endminipage}
+
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+
+\DeclareMathOperator{\Var}{Var}
+\DeclareMathOperator{\Covar}{Covar}
+
+\newlength{\figurepadding}
+\setlength{\figurepadding}{0.5em}
+\newcommand{\paddedgraphics}[2][]{\includegraphics[#1]{#2}\vspace{\figurepadding}}
+\newcommand{\timing}[4][\second]{analysis time: \SI{#2}{#1}, training time: \SI{#3}{\second}, total runtime: \SI{#4}{#1}}
+
+\def\dBoost/{\emph{dBoost}\xspace}
+
+\newcommand{\srm}[1]{\textcolor{red}{Sam: {#1}}}
+\newcommand{\cpc}[1]{\textcolor{blue}{Clément: {#1}}}
+
+% Local Variables:
+% mode: latex
+% End:

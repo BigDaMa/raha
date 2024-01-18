@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+grep '^    ' datasets/invocation.md |
+    sed "s/^    //g" |
+    while read command; do
+        echo "Running $command";
+        bash -c "$command" 2>&1 1>/dev/null |
+            while read line; do
+                echo "    $line";
+            done;
+    done

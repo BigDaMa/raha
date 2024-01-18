@@ -1,0 +1,10 @@
+\section{Outlier Detection Engine}
+\label{sec:implementation}
+Each tuple is extended with all of the possible expansions of all of its fields.
+These expanded tuples are fed into the statistical analyzer, which looks at the distribution of values in each expanded column and identifies tuples with expanded attribute values, or pairs of attribute values, that are outliers.
+\input{overview}
+\input{expansion}
+%\input{preprocessing}
+\input{statistical-analysis}
+\input{model-creation}
+\input{outlier-detection}

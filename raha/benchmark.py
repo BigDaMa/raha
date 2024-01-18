@@ -46,7 +46,7 @@ class Benchmark:
         stand_alone_systems = ["dBoost", "NADEEF", "KATARA", "ActiveClean", "Raha"]
         results = {sas: {dn: [] for dn in self.DATASETS} for sas in stand_alone_systems}
         for r in range(self.RUN_COUNT):
-            detector = raha.detection.Detection()
+            detector = raha.original.detection.Detection()
             detector.VERBOSE = False
             competitor = raha.baselines.Baselines()
             for dataset_name in self.DATASETS:
@@ -55,7 +55,7 @@ class Benchmark:
                     "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                     "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
                 }
-                d = raha.dataset.Dataset(dataset_dictionary)
+                d = raha.original.dataset.Dataset(dataset_dictionary)
                 for stand_alone_system in stand_alone_systems[::-1]:
                     if stand_alone_system == "dBoost":
                         detection_dictionary = competitor.run_dboost(dataset_dictionary)
@@ -79,7 +79,7 @@ class Benchmark:
         tuple_wise_systems = ["ActiveClean", "Raha"]
         results = {tws: {dn: [] for dn in self.DATASETS} for tws in tuple_wise_systems}
         for r in range(self.RUN_COUNT):
-            detector = raha.detection.Detection()
+            detector = raha.original.detection.Detection()
             detector.VERBOSE = False
             competitor = raha.baselines.Baselines()
             for dataset_name in self.DATASETS:
@@ -88,13 +88,13 @@ class Benchmark:
                     "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                     "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
                 }
-                d = raha.dataset.Dataset(dataset_dictionary)
+                d = raha.original.dataset.Dataset(dataset_dictionary)
                 for tuple_wise_system in tuple_wise_systems:
                     if tuple_wise_system == "ActiveClean":
                         detection_dictionary = competitor.run_activeclean(dataset_dictionary)
                     if tuple_wise_system == "Raha":
                         detection_dictionary = detector.run(dataset_dictionary)
-                    er = raha.utilities.get_tuple_wise_evaluation(d, detection_dictionary)
+                    er = raha.original.utilities.get_tuple_wise_evaluation(d, detection_dictionary)
                     results[tuple_wise_system][dataset_name].append(er)
         table_2 = prettytable.PrettyTable(["Approach"] + self.DATASETS)
         for tuple_wise_system in tuple_wise_systems:
@@ -107,7 +107,7 @@ class Benchmark:
         aggregator_systems = ["Min-k", "Maximum Entropy", "Metadata Driven", "Raha"]
         results = {ags: {dn: {s: [] for s in sampling_range} for dn in self.DATASETS} for ags in aggregator_systems}
         for r in range(self.RUN_COUNT):
-            detector = raha.detection.Detection()
+            detector = raha.original.detection.Detection()
             detector.VERBOSE = False
             competitor = raha.baselines.Baselines()
             for dataset_name in self.DATASETS:
@@ -116,7 +116,7 @@ class Benchmark:
                     "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                     "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
                 }
-                d = raha.dataset.Dataset(dataset_dictionary)
+                d = raha.original.dataset.Dataset(dataset_dictionary)
                 for s in sampling_range:
                     for aggregator_system in aggregator_systems:
                         if aggregator_system == "Min-k":
@@ -168,7 +168,7 @@ class Benchmark:
         feature_specifications = ["TF-IDF", "All - OD", "All - PVD", "All - RVD", "All - KBVD", "All"]
         results = {fs: {dn: [] for dn in self.DATASETS} for fs in feature_specifications}
         for r in range(self.RUN_COUNT):
-            detector = raha.detection.Detection()
+            detector = raha.original.detection.Detection()
             detector.VERBOSE = False
             for dataset_name in self.DATASETS:
                 dataset_dictionary = {
@@ -176,7 +176,7 @@ class Benchmark:
                     "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                     "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
                 }
-                d = raha.dataset.Dataset(dataset_dictionary)
+                d = raha.original.dataset.Dataset(dataset_dictionary)
                 for feature_specification in feature_specifications:
                     if feature_specification == "TF-IDF":
                         detector.ERROR_DETECTION_ALGORITHMS = ["TFIDF"]
@@ -214,7 +214,7 @@ class Benchmark:
         sampling_approaches = ["Uniform", "Clustering-Based"]
         results = {sa: {dn: {s: [] for s in sampling_range} for dn in self.DATASETS} for sa in sampling_approaches}
         for r in range(self.RUN_COUNT):
-            detector = raha.detection.Detection()
+            detector = raha.original.detection.Detection()
             detector.VERBOSE = False
             for dataset_name in self.DATASETS:
                 dataset_dictionary = {
@@ -222,7 +222,7 @@ class Benchmark:
                     "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                     "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
                 }
-                d = raha.dataset.Dataset(dataset_dictionary)
+                d = raha.original.dataset.Dataset(dataset_dictionary)
                 for s in sampling_range:
                     detector.LABELING_BUDGET = s
                     for sampling_approach in sampling_approaches:
@@ -278,11 +278,11 @@ class Benchmark:
                 "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                 "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
             }
-            raha.utilities.dataset_profiler(dataset_dictionary)
-            raha.utilities.evaluation_profiler(dataset_dictionary)
+            raha.original.utilities.dataset_profiler(dataset_dictionary)
+            raha.original.utilities.evaluation_profiler(dataset_dictionary)
             historical_dataset_dictionaries.append(dataset_dictionary)
         for r in range(self.RUN_COUNT):
-            detector = raha.detection.Detection()
+            detector = raha.original.detection.Detection()
             detector.VERBOSE = False
             for dataset_name in self.DATASETS:
                 dataset_dictionary = {
@@ -290,30 +290,30 @@ class Benchmark:
                     "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                     "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
                 }
-                d = raha.dataset.Dataset(dataset_dictionary)
+                d = raha.original.dataset.Dataset(dataset_dictionary)
                 for strategy_filtering_approach in strategy_filtering_approaches:
                     if strategy_filtering_approach == "No Strategy Filtering":
                         detector.STRATEGY_FILTERING = False
                         detection_dictionary = detector.run(dataset_dictionary)
-                        strategies_count, runtime = raha.utilities.get_strategies_count_and_runtime(dataset_dictionary)
+                        strategies_count, runtime = raha.original.utilities.get_strategies_count_and_runtime(dataset_dictionary)
                     elif strategy_filtering_approach == "Strategy Filtering via Historical Data":
-                        selected_strategies = raha.utilities.get_selected_strategies_via_historical_data(dataset_dictionary, historical_dataset_dictionaries)
-                        detection_dictionary = raha.utilities.error_detection_with_selected_strategies(dataset_dictionary, selected_strategies)
+                        selected_strategies = raha.original.utilities.get_selected_strategies_via_historical_data(dataset_dictionary, historical_dataset_dictionaries)
+                        detection_dictionary = raha.original.utilities.error_detection_with_selected_strategies(dataset_dictionary, selected_strategies)
                         strategies_count = len(selected_strategies)
                         filtered_strategies_count = strategies_count
                         runtime = sum([sp["runtime"] for sp in selected_strategies])
                     else:
-                        worst_strategies, random_strategies, best_strategies = raha.utilities.get_selected_strategies_via_ground_truth(dataset_dictionary, filtered_strategies_count)
+                        worst_strategies, random_strategies, best_strategies = raha.original.utilities.get_selected_strategies_via_ground_truth(dataset_dictionary, filtered_strategies_count)
                         if strategy_filtering_approach == "Strategy Filtering via Least Effective Selection":
-                            detection_dictionary = raha.utilities.error_detection_with_selected_strategies(dataset_dictionary, worst_strategies)
+                            detection_dictionary = raha.original.utilities.error_detection_with_selected_strategies(dataset_dictionary, worst_strategies)
                             strategies_count = len(worst_strategies)
                             runtime = sum([sp["runtime"] for sp in worst_strategies])
                         if strategy_filtering_approach == "Strategy Filtering via Uniform Selection":
-                            detection_dictionary = raha.utilities.error_detection_with_selected_strategies(dataset_dictionary, random_strategies)
+                            detection_dictionary = raha.original.utilities.error_detection_with_selected_strategies(dataset_dictionary, random_strategies)
                             strategies_count = len(random_strategies)
                             runtime = sum([sp["runtime"] for sp in random_strategies])
                         if strategy_filtering_approach == "Strategy Filtering via Most Effective Selection":
-                            detection_dictionary = raha.utilities.error_detection_with_selected_strategies(dataset_dictionary, best_strategies)
+                            detection_dictionary = raha.original.utilities.error_detection_with_selected_strategies(dataset_dictionary, best_strategies)
                             strategies_count = len(best_strategies)
                             runtime = sum([sp["runtime"] for sp in best_strategies])
                     er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [strategies_count, runtime]
@@ -368,7 +368,7 @@ class Benchmark:
         label_propagation_approaches = ["Homogeneity Resolution", "Majority Resolution"]
         results = {lpa: {dn: {e: [] for e in user_labeling_error_range} for dn in self.DATASETS} for lpa in label_propagation_approaches}
         for r in range(self.RUN_COUNT):
-            detector = raha.detection.Detection()
+            detector = raha.original.detection.Detection()
             detector.VERBOSE = False
             for dataset_name in self.DATASETS:
                 dataset_dictionary = {
@@ -376,7 +376,7 @@ class Benchmark:
                     "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                     "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
                 }
-                d = raha.dataset.Dataset(dataset_dictionary)
+                d = raha.original.dataset.Dataset(dataset_dictionary)
                 for e in user_labeling_error_range:
                     detector.USER_LABELING_ACCURACY = 1.0 - e
                     for label_propagation_approach in label_propagation_approaches:
@@ -425,9 +425,9 @@ class Benchmark:
             "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", "tax", "dirty.csv")),
             "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", "tax", "clean.csv"))
         }
-        d_tax = raha.dataset.Dataset(dataset_dictionary)
+        d_tax = raha.original.dataset.Dataset(dataset_dictionary)
         for r in range(self.RUN_COUNT):
-            detector = raha.detection.Detection()
+            detector = raha.original.detection.Detection()
             detector.VERBOSE = False
             for rows_count in rows_counts:
                 dataset_name = "tax_{}".format(rows_count)
@@ -442,7 +442,7 @@ class Benchmark:
                     "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                     "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
                 }
-                d = raha.dataset.Dataset(dataset_dictionary)
+                d = raha.original.dataset.Dataset(dataset_dictionary)
                 start_time = time.time()
                 detection_dictionary = detector.run(dataset_dictionary)
                 er = d.get_data_cleaning_evaluation(detection_dictionary)[:3] + [time.time() - start_time]
@@ -467,7 +467,7 @@ class Benchmark:
                                  "Stochastic Gradient Descent", "Support Vectors Machines"]
         results = {cm: {dn: [] for dn in self.DATASETS} for cm in classification_models}
         for r in range(self.RUN_COUNT):
-            detector = raha.detection.Detection()
+            detector = raha.original.detection.Detection()
             detector.VERBOSE = False
             for dataset_name in self.DATASETS:
                 dataset_dictionary = {
@@ -475,7 +475,7 @@ class Benchmark:
                     "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
                     "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
                 }
-                d = raha.dataset.Dataset(dataset_dictionary)
+                d = raha.original.dataset.Dataset(dataset_dictionary)
                 for classification_model in classification_models:
                     if classification_model == "AdaBoost":
                         detector.CLASSIFICATION_MODEL = "ABC"

@@ -1,0 +1,52 @@
+\section{Evaluation}
+\label{sec:evaluation}
+
+%\srm{Can we compare to some kind of ``baseline'' -- i.e., how well would these statistical methods do without access to expanded data?}
+
+We implemented \dBoost/ as a library that runs on top of a standard relational database or set of structured data files. Our code is publicly available on GitHub under version 3 of the GNU Public License\footnote{\url{https://github.com/cpitclaudel/dBoost}}. The program is made of two parts: a library, and a number of data acquisition front-ends (CSV and SQL are currently supported). The library provides functions for each of the phases previously described, and includes a collection of expansion rules from Section~\ref{sec:expansion}.
+
+%Table~\ref{table:flags} shows the usage options to run the models supported by \dBoost/. \fxnote{Should we keep this table? ** Add an appendix if we have room}
+
+%\begin{table*}
+%  \renewcommand{\arraystretch}{1.2}
+%  \setlength\tabcolsep{3\tabcolsep}
+%
+%  \label{table:flags}
+%  \caption{\dBoost/ command line usage.}
+%  \centering
+%  \begin{tabular} { l | l | p{10cm} }
+%    \multicolumn{3}{l}{} \\
+%    \hline
+%    Flag & Options & Explanation \\
+%    \hline
+%    --gaussian & n\_stdev & Report outliers that fall more than n\_stdev standard deviations away from the mean of the data \\
+%    --mixture & n\_subpops & Use a model of \texttt{n\_subpops} Gaussians \\
+%         & threshold & Report outliers above threshold percentile \\
+%    --histogram & peak\_s & Consider only fields with a peaked distribution with peakiness peak\_s \\
+%         & outlier\_s & Report values that fall in classes with less than outlier\_s percent \\
+%    --statistical & epsilon & Give hints to the model for correlations with Pearson $R$ coefficient greater than epsilon \\
+%  \end{tabular}
+%\end{table*}
+
+This section presents the results of running our tool on the following real and synthetic datasets.
+
+\begin{itemize}
+\item \emph{Synthetic datasets}\\
+  \textbf{Fizz-Buzz} A mixed textual-numerical dataset in which each record contains two entries: a number, and either ``Fizz'' if the number is divisible by 3, ``Buzz'' if the number is divisible by 5, ``FizzBuzz'' if it is divisible by both, and the number itself (as a string) otherwise. Outliers appear when the second column does not respect these rules; this can be a misplaced ``Fizz'', a missing ``Buzz'', or even a totally different string (e.g. ``Woof!'').\\
+  \textbf{Web logins} A series of three non-numeric datasets in which entries contain the login time and connection location for different users. Each user has different connection habits, leading to different types of outliers.
+\item \emph{Real-world datasets}\\
+  \textbf{CSAIL Directory} A publicly-accessible directory of researchers\fxnote{Should we anonymize this?}, in which each record may include a first and a last name, a phone number, an office number, an email, and a job title. Outliers are hard to define mathematically in this case, and we instead demonstrate how the ideas exposed in previous sections of the paper come together to allow for efficient detection of unusual values.\\
+  \textbf{Intel lab data} A publicly-available numerical dataset of temperature, light, humidity and voltage measurements. Outliers are due mostly to sensor glitches.
+\end{itemize}
+
+These datasets showcase the power of our methods, both in terms of classification power and expressiveness and succinctness when adding new rules to the system\footnote{Indeed, the set of rules used for tuple expansion is user-configurable, and new rules can be easily added; thus, specific knowledge about the data can be taught to the system by users, expressing some soft form of data integrity constraints.}. Where relevant we include performance measurements. These numbers intend to demonstrate that our approach is computationally reasonable and that our models scale linearly given a fixed training size. We show in Section~\ref{sec:performance-evaluation} how our prototype requires on the order of a few minutes to process a million elements using a high-level single-threaded scripting language. A production-ready implementation would run one or two orders of magnitude faster by taking advantage of the inherent parallelizability of the models, using an efficient on-disk representation of the data, and relying on a lower-level language with an efficient optimizing compiler.
+
+The following subsections describe each of the test sets and associated results in greater detail.
+
+\input{fizzbuzz-evaluation}
+\input{logins-evaluation}
+\input{csail-directory-evaluation}
+\input{intel-lab-data-evaluation}
+\input{performance-evaluation}
+%\input{presidential-campaign-evaluation}
+%\input{mimic2-evaluation}

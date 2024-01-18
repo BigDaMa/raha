@@ -1,3 +1,6 @@
-recursive-include raha/tools/dBoost *
-recursive-include raha/tools/KATARA *
-include raha/tools/KATARA/knowledge-base/*
+recursive-include raha/original/tools/dBoost *
+recursive-include raha/original/tools/KATARA *
+include raha/original/tools/KATARA/knowledge-base/*
+recursive-include raha/dask_version/tools/dBoost *
+recursive-include raha/dask_version/tools/KATARA *
+include raha/dask_version/tools/KATARA/knowledge-base/*

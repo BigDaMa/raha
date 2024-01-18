@@ -1,0 +1,29 @@
+\section{Related Work}
+\label{sec:related-work}
+
+% Outlier Detection
+There has been substantial research in how to build models to detect outliers \cite{Aggarwal2013}, including how to detect outliers in high-dimensional data by searching the subspaces of the data \cite{Zhang2004}\cite{Kriegel2009}.
+However many of these algorithms are complex and can require substantial computation to determine whether a new data point lies outside the data.
+
+Several algorithms exist in the data mining community to determine outliers when doing data analysis.
+Local outlier factor measures the degree to which a data point is an outlier~\cite{Breunig2000}.
+Other techniques include k-nearest neighbor~\cite{Ramaswamy2000} and cluster analysis.
+
+% Outlier Detection Visualization
+Research has been done to attempt to explain why outliers exist given properties of the original data~\cite{Wu}. Unlike our tool, Scorpion starts with user-defined outliers and works backwards to find potential explanations as to why the data points are outliers.
+
+% Statistical methods
+Statistical methods have been used to detect dependencies between columns of relational databases for the purpose of informing the query optimizer of potential data dependencies \cite{Ilyas2004}. These methods require only a small sample of the data to detect functional dependencies with high probability of correctness. The relatively low computation required by these algorithms makes them more amenable to detecting data anomalies in real time. However, these methods are better suited for numerical data~\cite{Hodge2004}
+
+% Gaussian models
+Gaussian Mixture Models have been used for outlier detection in multiple contexts~\cite{Lu2005,Roberts1994,Roberts1999}.
+
+% Histograms
+Histograms are used in conjunction with local outlier factors to detect outliers~\cite{Gebski2007,Sheng2007}, in cases of numerical or categorical data.
+
+% String data
+To the extent of our knowledge, the literature regarding outlier detection on non-numerical data is much less extensive. Some common approaches include identifying outliers using a similarity measure~\cite{Budalakoti2006}, Probabilistic Suffix Trees~\cite{Sun2006} and sequence alignment~\cite{Bouarfa2012}.
+
+Some specialized work has focused on inferring domain-specific rules on highly specific data such as a sequence of UNIX commands~\cite{Lane1997a,Lane1997b}. By contrast, we take on a general-purpose approach that is capable of dealing with data as diverse as a set of names and office numbers to real-valued sensor data. Additionally, we analyze data without any additional information on its structure.
+
+Overall, we differ from previous approaches in that we are capable of analyzing a very wide range of data and do not use predefined rules for outlier detection -- although adding user-defined rules is possible in our framework.

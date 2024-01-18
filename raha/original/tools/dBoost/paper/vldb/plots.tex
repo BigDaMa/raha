@@ -1,0 +1,39 @@
+% \clearpage
+% \newcommand{\plot}[4]{
+%   \begin{figure}[H]
+%     \centering
+%     \includegraphics[page=#1]{../graphics/#2}
+%     \caption{#3}
+%     \label{fig:#4}
+%   \end{figure}
+% }
+
+% \plot{1}{sensor-gaus-plots.pdf}{Simple Gaussian model}{sensors_gaus_1-5}
+% \plot{2}{sensor-gaus-plots.pdf}{Simple Gaussian model}{sensors_gaus_1-5b}
+% \plot{1}{sensor-plots.pdf}{Mixture model with 1 Gaussian}{sensors_1}
+% \plot{2}{sensor-plots.pdf}{Mixture model with 1 Gaussian}{sensors_2}
+% \plot{3}{sensor-plots.pdf}{Mixture model using no correlations}{sensors_nocorr}
+% \plot{1}{sensor-mix-plots.pdf}{Mixture model with 2 Gaussians}{sensors_3}
+% \plot{2}{sensor-mix-plots.pdf}{Mixture model with 2 Gaussians}{sensors_4}
+% \plot{1}{lof-plots.pdf}{Local Outlier Factor for the $k=2$ nearest neighbors}{lof_2}
+% \plot{2}{lof-plots.pdf}{Local Outlier Factor for the $k=10$ nearest neighbors}{lof_10}
+
+\clearpage
+
+\newcommand{\cramped}[3]{\subfloat[#2]{\includegraphics[page=#1]{../graphics/3d-plots.pdf}\label{fig:#3}}}
+
+\begin{figure*}
+  \centering
+  \hspace{\fill}
+  \cramped{1}{Simple Gaussian, $\theta=1.5$}{gauss15}
+  \hspace{\fill}
+  \cramped{2}{GMM, $n = 1$, $\theta=0.1$}{gmm1t1}
+  \hspace{\fill}
+  \newline
+  \hspace*{\fill}
+  \cramped{3}{GMM, $n = 2$, $\theta=0.05$}{gmm2t05}
+  \hspace*{\fill}
+  \cramped{4}{Local Outlier Factor, $k = 2$}{lofk2}
+  \hspace*{\fill}
+  \caption{A comparison of various modeling approach on the Intel dataset. Red crosses indicate detected outliers. Figure~\ref{fig:gauss15} shows the results of simple uni-dimensional Gaussian modeling (Subsection~\ref{sec:gaus_model}). Figure~\ref{fig:gmm1t1} shows what happens when correlations are taken into account, using a multidimensional GMM with a single Gaussian (Subsection~\ref{sec:mixture_model}). Figure~\ref{fig:gmm2t05} shows the results of using two Gaussians instead of one to model the data. Note how the secondary data blobs, detected as outliers in the first two cases, are in the third case identified as valid data. Figure~\ref{fig:lofk2} shows the results of the Local Outlier Factor Algorithm on the same dataset.}
+\end{figure*}

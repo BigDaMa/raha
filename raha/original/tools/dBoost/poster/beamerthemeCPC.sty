@@ -1,0 +1,92 @@
+\ProvidesPackage{beamerthemeCPC}
+
+\RequirePackage{tango-colors}
+\selectcolormodel{cmyk}
+
+\mode<presentation>
+
+\setlength{\parindent}{0pt}
+
+\setbeamercolor{headline}{fg=tango_light_aluminium,bg=black}
+
+\setbeamercolor{footline}{bg=black}
+\setbeamercolor{foot text}{bg=black,fg=white}
+
+\setbeamercolor{title}{fg=white}
+\setbeamercolor{author}{fg=tango_light_aluminium}
+\setbeamercolor{institute}{fg=tango_light_aluminium}
+
+\setbeamercolor*{normal text}{bg=white,fg=black}
+\setbeamercolor*{block body}{bg=tango_light_aluminium,fg=black}
+\setbeamercolor*{block title}{bg=tango_medium_gray,fg=white}
+\setbeamercolor{line}{fg=tango_light_gray}
+
+\setbeamerfont{footline}{series=\tt}
+\setbeamerfont{block title}{size=\large,series=\bf}
+
+\setbeamertemplate{navigation symbols}{} 
+
+\newlength\mylength
+
+\setbeamertemplate{block begin}{
+	\begin{beamercolorbox}[ht=3.75ex,dp=1.75ex,left,leftskip={0.75ex},colsep=0pt]{block title}\usebeamerfont{block title}
+		\insertblocktitle\phantom{Pp} % Phantom fixes vertical alignment of title
+	\end{beamercolorbox}
+
+	\begin{beamercolorbox}[left,sep=1.75ex]{block body}
+		\setlength\mylength\columnwidth
+		\addtolength\mylength{-3.5ex}
+		\hspace{1.75ex} % Padding inside block; 1.75 ex before the minipage, 1.75 due to its width
+		\begin{minipage}{\mylength}
+			\usebeamerfont{block body}
+}
+  
+\setbeamertemplate{block end}{
+		\end{minipage}
+  	\end{beamercolorbox}
+}
+
+\setbeamertemplate{headline}{  
+  \leavevmode
+
+  \begin{beamercolorbox}[wd=\paperwidth]{headline}
+  	\begin{center}
+  		\vspace{6ex}
+  		\Large
+    	\usebeamercolor{title}{\color{fg}\textbf{\Large{\inserttitle}}} \\[1ex]
+    	\small
+    	\usebeamercolor{author}{\color{fg}\insertauthor} \textbar{} \usebeamercolor{institute}{\color{fg}\insertinstitute}
+    	\vspace{1ex}
+  	\end{center}
+  \end{beamercolorbox}
+
+  \begin{beamercolorbox}[wd=\paperwidth]{line}
+    \rule{0pt}{5pt}
+  \end{beamercolorbox}
+}
+
+\setbeamertemplate{footline}{
+  \begin{beamercolorbox}[wd=\paperwidth]{line}
+    \rule{0pt}{5pt}
+  \end{beamercolorbox}
+  
+  \leavevmode%
+  \begin{beamercolorbox}[ht=2.75ex,dp=1.5ex,leftskip=1em,rightskip=1em]{foot text}%
+    \texttt{}
+    \hfill
+    \texttt{\{cpitcla,rhardin,zmariet\}@mit.edu}
+  \end{beamercolorbox}
+}
+
+\setbeamertemplate{itemize item}{--}
+\setbeamertemplate{itemize subitem}{--}
+
+\RequirePackage{enumitem}
+\setitemize{label=\usebeamerfont*{itemize item}\usebeamercolor[fg]{itemize item}\usebeamertemplate{itemize item}}
+\setlist{leftmargin=*,labelindent=0cm,labelsep=0.5em}
+
+\mode<all>
+
+\newcommand{\subttl}[1]{\par\noindent\textbf{#1}}
+\newcommand{\thighlight}[1]{{\color{tango_light_orange}#1}}
+\newcommand{\highlight}[1]{{\color{tango_dark_orange}#1}}

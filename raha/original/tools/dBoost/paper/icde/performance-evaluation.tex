@@ -1,0 +1,19 @@
+\subsection{Scalability}
+\label{sec:performance-evaluation}
+
+%We show in Figure~\ref{fig:scaling} how \dBoost/ scales as the amount of data used to build the models and to test on the models increases.
+We measure the total runtime of our system, including the data modeling and outlier detection phases for the Simple Gaussian, Mixtures with 2 Gaussians, and Histograms. 
+We used the Intel sensor data set from Section~\ref{sec:intel-lab-data-evaluation} to evaulate the Gaussian and Mixture models, and the CSAIL directory from Section~\ref{sec:csail-directory-evaluation} to evaluate the Histograms. 
+We use random sampling to provide training sets of 1 thousand and 10 thousand elements from the Intel dataset to build the data models.
+We test them on all 2+ million elements in the dataset.
+To provide a more comprehensive study of the scalability of the Histogram model, we replicated the rows of the CSAIL directory to increase the training and test set sizes. 
+
+In Figure~\ref{fig:scaling}, we show the runtime of our prototype. Each line shows a model trained with a different training set size. As shown in the figure, runtime scales linearly as the test set size increases.
+Applying additional optimizations such as using a lower-level language or enabling parallism would improve runtime performance to production-ready levels. 
+
+\begin{figure}
+\centering
+\paddedgraphics{../../graphics/scalability.pdf}
+\caption{The scalability of the Gaussian and Mixture Models produced with different training sample sizes (listed next to the model in the legend) as the test set size increases.}
+\label{fig:scaling}
+\end{figure}

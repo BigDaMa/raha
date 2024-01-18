@@ -107,7 +107,7 @@ class Baselines:
             print("------------------------------------------------------------------------\n"
                   "------------------------------Running dBoost----------------------------\n"
                   "------------------------------------------------------------------------")
-        d = raha.dataset.Dataset(dd)
+        d = raha.original.dataset.Dataset(dd)
         sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name, "strategy-profiling")
         strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
                                   for strategy_file in os.listdir(sp_folder_path)]
@@ -135,7 +135,7 @@ class Baselines:
             print("------------------------------------------------------------------------\n"
                   "------------------------------Running NADEEF----------------------------\n"
                   "------------------------------------------------------------------------")
-        d = raha.dataset.Dataset(dd)
+        d = raha.original.dataset.Dataset(dd)
         detection_dictionary = {}
         for fd in self.DATASET_CONSTRAINTS[d.name]["functions"]:
             l_attribute, r_attribute = fd
@@ -171,7 +171,7 @@ class Baselines:
             print("------------------------------------------------------------------------\n"
                   "------------------------------Running KATARA----------------------------\n"
                   "------------------------------------------------------------------------")
-        d = raha.dataset.Dataset(dd)
+        d = raha.original.dataset.Dataset(dd)
         sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name, "strategy-profiling")
         strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
                                   for strategy_file in os.listdir(sp_folder_path)]
@@ -190,7 +190,7 @@ class Baselines:
             print("------------------------------------------------------------------------\n"
                   "----------------------------Running ActiveClean-------------------------\n"
                   "------------------------------------------------------------------------")
-        d = raha.dataset.Dataset(dd)
+        d = raha.original.dataset.Dataset(dd)
         actual_errors_dictionary = d.get_actual_errors_dictionary()
         vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(min_df=1, stop_words="english")
         text = [" ".join(row) for row in d.dataframe.values.tolist()]
@@ -238,7 +238,7 @@ class Baselines:
             print("------------------------------------------------------------------------\n"
                   "------------------------------Running Min-k-----------------------------\n"
                   "------------------------------------------------------------------------")
-        d = raha.dataset.Dataset(dd)
+        d = raha.original.dataset.Dataset(dd)
         sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name, "strategy-profiling")
         strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
                                   for strategy_file in os.listdir(sp_folder_path)]
@@ -272,7 +272,7 @@ class Baselines:
             print("------------------------------------------------------------------------\n"
                   "--------------------------Running Maximum Entropy-----------------------\n"
                   "------------------------------------------------------------------------")
-        d = raha.dataset.Dataset(dd)
+        d = raha.original.dataset.Dataset(dd)
         actual_errors_dictionary = d.get_actual_errors_dictionary()
         sp_folder_path = os.path.join(os.path.dirname(dd["path"]), "raha-baran-results-" + d.name, "strategy-profiling")
         strategy_profiles_list = [pickle.load(open(os.path.join(sp_folder_path, strategy_file), "rb"))
@@ -306,7 +306,7 @@ class Baselines:
             print("------------------------------------------------------------------------\n"
                   "--------------------------Running Metadata Driven-----------------------\n"
                   "------------------------------------------------------------------------")
-        d = raha.dataset.Dataset(dd)
+        d = raha.original.dataset.Dataset(dd)
         actual_errors_dictionary = d.get_actual_errors_dictionary()
         dboost_output = self.run_dboost(dd)
         nadeef_output = self.run_nadeef(dd)

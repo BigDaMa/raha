@@ -1,0 +1,63 @@
+\subsection{Outlier Detection}
+\label{sec:outlier-detection}
+
+Models, once properly trained, are used for classification and detection of outliers -- either in incoming \texttt{INSERT} operations on a running system, or in existing rows (possibly but not necessarily the ones used during the model training phase). % LATER: Citation about databases sizes?
+
+Given that databases can contain tables with tens or hundreds of columns, simply flagging a row as an outlier is insufficient: users cannot be expected to painstakingly analyze each outlying row. Instead, \dBoost/ automatically indicates which values in the row caused it to be flagged as an outlier.
+
+The inter-column correlations are also taken into account during modeling: if the statistical analysis phase detected a correlation between two columns $a$ and $b$, each tuple $t$ will be augmented by an additional field that contains the corresponding pair $(t_a, t_b)$. This field is treated as a single, multidimensional value, and is analyzed similarly to the other values by the models.
+
+\subsubsection{Simple Gaussian Modeling}
+The simple Gaussian model measures how much each value differs from the mean computed in the preceding pass. Given a tolerance parameter $\theta$, a row is deemed an outlier if at least one of its attributes $a$ has a value $v_a$ such that
+\begin{align}
+  |v_a - \mu_a| \ge \theta \cdot \sigma_a
+  \label{eqn:gaussian-outlier}
+\end{align}
+where $\mu_a$ and $\sigma_a$ are the model's parameters for column $a$, as described in Section~\ref{sec:gaus_model}.
+
+In this model, detecting which values are responsible for the outlier flag is simply a matter of keeping track of which attributes satisfy Equation~\eqref{eqn:gaussian-outlier}. The simple Gaussian model does not take correlation hints into account, and thus reports only single-attribute outliers.
+
+\subsubsection{Mixture Modeling}
+In the Mixture model, the likelihood of each (possibly multidimensional) field is evaluated using the corresponding GMM. This model operates under the assumption that data is accurately modeled by the chosen number of components in the GMM, and in particular that each non-outlying data point is well modeled by one of the Gaussians of the GMM. 
+
+This makes it possible to assign a Gaussian component to each tuple, and then flag as outliers the tuples that are not sufficiently well explained by their corresponding Gaussian (see~\cite{Roberts1999}). Given a tuple $t$ and its corresponding Gaussian $c$, this means rejecting $t$ if
+
+\begin{align}
+  \pi_c \cdot \Pr(\textbf{dist}(t, \mu_c) > d_0)  \leq \theta
+  \label{eqn:mixture-outlier}
+\end{align}
+where $\theta$ is a user-defined parameter between 0 and 1, and $d_0$ is the Mahalanobis distance of $t$ to the Gaussian.
+ 
+As in the Gaussian Model, providing the user with a list of attributes that caused the row to be flagged as an outlier is simply a matter of tracking correlations that satisfied equation~\eqref{eqn:mixture-outlier}.
+
+\subsubsection{Histogram Modeling}
+The histogram-based modeling strategy proceeds in two phases to detect outliers.
+
+First, after running through the learning phase, it decides for each histogram whether that histogram is ``peaked'' (i.e. showing a few strong modes) enough to be used to detect outliers. The aim of this phase is to discard histograms where most bins have a similar number of values, and are thus not useful for outlier detection. In practice, we use a simple statistical test to determine whether a histogram is sufficiently modal: if the number of elements that fall into the most populated (``top'') bins is less than some user-specified proportion, the histogram is discarded. Finding how many bins to include in the set of top bins is the most challenging part, and for this paper we explored two thresholding strategies (Figure~\ref{fig:peakiness}):
+
+\fxnote{Should we move this figure?}
+\begin{figure*}
+  \centering
+  \paddedgraphics{../graphics/peakiness.pdf}
+  \caption{Sample histograms, and corresponding decisions with distribution-dependent (\(D\)-independent) and distribution-independent (\(D\)-independent) thresholds. Each figure shows a sorted histogram, with the top bins hatched (in dotted green in the distribution-independent case, and in solid orange in the distribution-dependent case). The vertical arrows show the small value \(r=3\) in the distribution-dependent case. The weaknesses of the distribution-independent-model show in the third and fourth plots: in the third one the distribution-dependent strategy correctly rejects because of the small \(r\); in the fourth the distribution-independent strategy yields an incorrect threshold.}
+  \label{fig:peakiness}
+\end{figure*}
+
+\begin{itemize}
+\item \emph{Distribution-independent} -- Given a histogram with $N$ bins, we count only the values in the top bin if $1 \leq N \leq 3$, in the top $2$ bins if $4 \leq N \leq 5$, and in the top $3$ bins for $3 \leq N \leq 16$ (histograms with $N > 16$ bins were previously discarded). This method is stable when the set of bins is static (week days, booleans, \ldots), but it is sensitive to the addition of removal of bins.
+\item \emph{Distribution-dependent} -- We sort the bins in increasing order of bin size $b_i$, and find the index $i_{\max}$ such that the ratio $r = \sfrac{b_{i+1}}{b_{i}}$ is maximal (this calculation is safe, because the bin sizes are non-zero integers). If that ratio is under a user-defined threshold, we reject the histogram; otherwise, we consider bins $i_{\max} .. \texttt{end}$ to be ``top'' bins.
+\end{itemize}
+
+Figure~\ref{fig:peakiness} shows various types of histograms, and lists the conclusions that each of these two approaches yield.
+
+After identifying a relevant set of histograms (this operation only needs to run once, at the very beginning of the last pass), we proceed to the actual detection phase. We classify an expanded tuple $X$ as an outlier if any of its values (or set of values, as grouped according to the correlation hints previously obtained) $x_a$ verifies:
+\begin{align}
+h_a(x_a) \le \epsilon \sum_k h_a(k)
+\label{eqn:hist-outlier}
+\end{align}
+where $h_a(x)$ designates the number of tuples with value $x$ for field $a$, and $\epsilon$ is a user-chosen sensitivity parameter.
+
+In this model, identifying and reporting the outlying attributes is simply a matter of remembering which values $x_a$ failed test \eqref{eqn:hist-outlier}.
+
+\subsubsection{Partition-based modeling}
+In the partition-based case, outliers are detected by the underlying models. To classify a given expanded tuple, each group of correlated attributes is divided between a one-attribute key and a group sub-population attributes. This group of attributes is then passed to the underlying model corresponding to the given value of the key, and the whole original tuple is reported as an outlier if any of its groups of sub-population attributes is marked as such by the underlying models.

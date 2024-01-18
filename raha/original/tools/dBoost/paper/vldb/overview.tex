@@ -1,0 +1,73 @@
+\subsection{dBoost overview}
+\label{sec:overview}
+
+\begin{figure*}
+  \centering %TODO: Should this be full width?
+  \paddedgraphics[width=.8\textwidth]{../graphics/pipeline.pdf}
+  \caption{The \dBoost/ pipeline}
+  \label{fig:pipeline}
+\end{figure*}
+
+The overall design of the dBoost system can be seen in Figure~\ref{fig:pipeline}.
+The first step is to perform \emph{tuple expansion}, where additional semantically rich candidate features are added on to each tuple.
+Examples of features include the length of a string, the parity of an integer, or the range of dates an integer column can represent when it is interpreted as a Unix time stamp.
+This process is described in Section~\ref{sec:expansion}.
+
+
+These expanded tuples are then analyzed in order to obtain simple statistical information, and to detect soft functional dependencies between different fields. The expanded tuples are then used to train one of three data models (Gaussian, Mixtures, or Histograms), with the help of the statistics and correlation hints gathered at the previous stage.
+
+Finally, the trained model is used to classify tuples into regular records and outliers; these tuples can be the ones the model was trained with, or future inputs to the database system.
+
+From a high level view, our pipeline is implemented as a three-pass streaming algorithm, requiring no memory beyond that required to train the individual models.
+
+The different components of our system are summarized as follows and described in detail in the following sections:
+
+\begin{enumerate}
+\item Tuple expansion -- Tuples are expanded using knowledge about the database schema and field types (Section~\ref{sec:expansion}).
+\item Statistical analysis -- The expanded data is analysed to gather basic statistics, along with correlation information. These statistics are used for modeling and outlier detection (Section~\ref{sec:statistical-analysis}).
+\item Data modeling -- We apply various machine-learning algorithms to build models of the data (Section~\ref{sec:model-creation}).
+\item Outlier detection -- Using the models built in the previous stage and user-provided sensitivity thresholds, we report outliers identified by the models trained during the previous stage (Section~\ref{sec:outlier-detection}).
+\end{enumerate}
+
+Table~\ref{tab:example} illustrates these ideas on a very small dataset that includes a transaction ID, a registration date (Reg. date), and a social security number (SSN). We read the data row-by-row, and expand the registration date and SSN values into additional columns. The particular expansion rules are based on the type of each values: Reg. date is an \texttt{INT}, so it gets expanded, among others, into a year and a weekday. SSN is a \texttt{STRING}, and gets expanded into among others a length and a copy of the string with numbers stripped out and replaced by \texttt{<num>}.
+
+Tuple expansions are not materialized in the database, but rather fed into the model one-by-one as the engine processes each row.
+After being processed, the expanded tuples are discarded.
+Thus, tuples must be expanded before each stage of the engine's pipeline.
+
+
+\newcommand*{\boldtt}[1]{\fontfamily{pcr}\selectfont #1}
+
+\begin{table*}[t]
+\begin{center}
+\begin{tabular}{|c|c|c||c|c|c||c|c|c|}
+\multicolumn{3}{c}{Original Data} & \multicolumn{3}{c}{Expansions of Reg. Date} & \multicolumn{3}{c}{Expansions of SSN} \\
+\multicolumn{3}{c}{} & \multicolumn{3}{c}{(not materialized)} & \multicolumn{3}{c}{(not materialized)} \\
+\hline
+XID & Reg. Date & SSN & Year & Weekday & \ldots & Length & Strip Numbers & \ldots \\ \hline
+\hline
+1 & 1416497422 & 783-345-2351 & 2014 & Thursday &\ldots& 12 & \texttt{<num>-<num>-<num>}&\ldots  \\ \hline
+%\rowcolor{red} 
+\textcolor{red}{2} &\textcolor{red}{1418201134}&\textcolor{red}{773-746\phantom{-0000}}&\textcolor{red}{2014}&\textcolor{red}{ Wednesday }&\textcolor{red}{\ldots}&\textbf{\textcolor{red}{8}}&\parbox{\widthof{\texttt{<num>-<num>-<num>}}}{\textbf{\boldtt{\textcolor{red}{<num>-<num>}}}}&\textcolor{red}{\ldots}  \\ \hline
+3 & 1420359855 & 773-289-5552 & 2015 & Sunday &\ldots& 12 & \texttt{<num>-<num>-<num>}&\ldots  \\ \hline
+4 & 1421575392 & 849-843-2729 & 2015 & Sunday &\ldots& 12 & \texttt{<num>-<num>-<num>}&  \ldots\\ \hline
+%\rowcolor{red} 
+\textcolor{red}{5}&\textcolor{red}{01302015}&\textcolor{red}{773-387-9201}&\textbf{\textcolor{red}{1970}}&\textcolor{red}{Friday}&\textcolor{red}{\ldots}&\textcolor{red}{12}&\textcolor{red}{\texttt{<num>-<num>-<num>}}&\textcolor{red}{\ldots}\\ \hline
+6 & 1424866716 & 821-322-1857 & 2015 & Wednesday &\ldots& 12 & \texttt{<num>-<num>-<num>}&  \ldots\\ \hline
+7 & 1425059692 & 822-971-1892 & 2015 & Friday &\ldots& 12 & \texttt{<num>-<num>-<num>}&  \ldots\\ \hline
+\multicolumn{3}{c}{} & \multicolumn{1}{c}{\multirow{1}{*}[-.1cm]{\includegraphics[page=1]{../graphics/table-histograms}}} &\multicolumn{1}{c}{ \multirow{1}{*}[-.1cm]{\includegraphics[page=2]{../graphics/table-histograms}}} &\multicolumn{1}{c}{}&\multicolumn{1}{c}{\multirow{1}{*}[-.1cm]{\includegraphics[page=3]{../graphics/table-histograms}}}& \multicolumn{1}{c}{\multirow{1}{*}[-.1cm]{\includegraphics[page=4]{../graphics/table-histograms}}} & \multicolumn{1}{c}{}
+%1 & 1416497422 & 11/20/2014 & 15:30:32 & Thursday & 2 \\ \hline 
+%2 & 1418201134 & 12/10/2014 & 8:45:34 & Wednesday & 4 \\ \hline 
+%3 & 1420359855 & 1/4/2015 & 8:24:15 & Sunday & 5 \\ \hline 
+%4 & 1421575392 & 1/18/2015 & 10:03:12 & Sunday & 2 \\ \hline 
+%\rowcolor{red} 5 & 01302015 & 1/16/1970 & 1:40:15 & Friday & 5 \\ \hline 
+%6 & 1424866716 & 2/25/2015 & 12:18:36 & Wednesday & 6 \\ \hline 
+%7 & 1425059692 & 2/27/2015 & 17:54:52 & Friday & 2 \\ \hline 
+\end{tabular}
+\end{center}
+\vspace{1cm}
+\caption{An example dataset showing outliers based on a histogram model. The rows detected as outliers are highlighted in red. The row with \texttt{XID=2} is flagged due to its ``Length'' and ``Strip Numbers'' expansions: as seen in the corresponding histograms, the values \texttt{8} and \texttt{<num>-<num>} are seen few enough times in the data that they are flagged as suspicious. The row with \texttt{XID=5} is also flagged as an outlier due to its incorrect registration date: indeed, the histogram analyzing the years shows that 1970 does not occur in the database frequently.}
+\label{tab:example}
+\end{table*}
+
+
