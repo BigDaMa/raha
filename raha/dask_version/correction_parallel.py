@@ -720,10 +720,11 @@ class CorrectionParallel(Correction):
 
 ########################################
 if __name__ == '__main__':
+    ds_name = "flights"
     dataset_dictionary = {
-        "name": "flights",
-        "path": str(Path("./datasets/flights/dirty.csv").resolve()),
-        "clean_path": str(Path("./datasets/flights/clean.csv").resolve()),
+        "name": ds_name,
+        "path": str(Path(f"./datasets/{ds_name}/dirty.csv").resolve()),
+        "clean_path": str(Path(f"./datasets/{ds_name}/clean.csv").resolve()),
     }
     dataset = dp.DatasetParallel(dataset_dictionary)
     dataset.detected_cells = dict(dataset.get_actual_errors_dictionary())
