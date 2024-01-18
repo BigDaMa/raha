@@ -428,7 +428,7 @@ class CorrectionParallel(Correction):
                     else self.IGNORE_SIGN for cj, cv in enumerate(cleaned_sampled_tuple)]
             self._vicinity_based_models_updater(dataset.vicinity_models, update_dictionary)
         if self.VERBOSE:
-            print("The error corrector models are updated with new labeled tuple {}.".format(dataset.sampled_tuple))
+            print("\nThe error corrector models are updated with new labeled tuple {}.".format(dataset.sampled_tuple))
 
     def generate_features(self, dataset, cell):
         vicinity = container.shared_dataframe.read().iloc[cell[0], :]
@@ -632,7 +632,7 @@ class CorrectionParallel(Correction):
                 corrected_cells.update(corrected_chunk)
 
         if self.VERBOSE:
-            print("Column {}, corrected {} cells".format(column_index, len(worker.corrected_cells[column_index])))
+            print("Corrected {} cells".format(len(corrected_cells)))
 
         return corrected_cells
 
@@ -733,7 +733,7 @@ if __name__ == '__main__':
     print("________________")
     print("Running Baran...\n")
     baran = CorrectionParallel()
-    # baran.VERBOSE = True
+    baran.VERBOSE = True
     corrected_cells = baran.run(dataset)
     print("Corrected {} cells!".format(len(corrected_cells)))
     print("________________")
