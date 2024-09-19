@@ -3,6 +3,8 @@ Detecting and correcting erroneous values are key steps in data cleaning. Error 
 
 Raha and Baran are new configuration-free error detection and correction systems, respectively. On an abstract level, both Raha and Baran follow the same novel two-step formulation of the error detection/correction task that achieves both high precision and recall. First, each base error detector/corrector generates an initial set of potential data errors/corrections. This step particularly increases the achievable recall bound of the error detection/correction task. Then, Raha/Baran ensembles the output of these base error detectors/correctors into one final set of data errors/corrections in a semi-supervised manner. In fact, Raha/Baran iteratively asks the user to annotate a tuple, i.e., marking/fixing a few data errors. Raha/Baran learns to generalize the user-provided error detection/correction examples to the rest of dataset, accordingly. This step particularly preserves high precision of the error detection/correction task. Furthermore, both systems can leverage historical data to optimize the data cleaning task on the dataset at hand, according to transfer learning. 
 
+## Update:
+Don't forget to check out [DaskRaha and DaskBaran](https://github.com/D2IP-TUB/DaskRahaBaran) if you're looking for a faster version. Our work "Accelerating the Data Cleaning Systems Raha and Baran through Task and Data Parallelism", has been accepted for publication at the 13th International Workshop on Quality in Databases (QDB) at the 50th VLDB conference.
 
 ## Installation
 To install Raha and Baran, you can run:
