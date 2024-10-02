@@ -1,0 +1,61 @@
+\documentclass[final]{beamer}
+
+\mode<presentation>
+{
+  \usetheme{CPC}
+  \usefonttheme[onlymath]{serif}
+}
+
+% additional settings
+\setbeamerfont{itemize}{size=\normalsize}
+\setbeamerfont{itemize/enumerate body}{size=\normalsize}
+\setbeamerfont{itemize/enumerate subbody}{size=\normalsize}
+
+\input{header}
+
+\title{User guided outlier detection in heterogeneous datasets}
+\author{Clément Pit-\kern0pt-Claudel, Zelda Mariet, Rachael Harding}
+\institute[MIT]{Massachusetts Institute of Technology}
+\date{Dec. 10, 2014}
+
+\newlength{\colwidth}
+\newlength{\colswidth}
+\newlength{\doublecolwidth}
+\newlength{\blocksep}
+
+\begin{document}
+\begin{frame}[fragile]{}
+  \setlength{\blocksep}{1.5ex}
+  \setlength{\colwidth}{(\textwidth - 2\blocksep)/3}
+  \setlength{\doublecolwidth}{2\colwidth + \blocksep}
+
+  \begin{columns}[T,totalwidth=\textwidth]
+    \begin{column}{\colwidth}
+      \input{motivation} \vspace{\blocksep}
+      \input{csail-example} \vspace{\blocksep}
+      \input{our-approach}
+    \end{column}
+    
+    \begin{column}{\doublecolwidth}
+      \begin{block}{\thighlight{Our pipeline}}
+        \begin{figure}
+          \centering
+          \includegraphics[width=\linewidth]{../graphics/pipeline.pdf}
+        \end{figure}
+      \end{block} \vspace{\blocksep}
+
+      \vspace{-\baselineskip}
+      \begin{columns}[t,totalwidth=\textwidth]
+        \begin{column}{\colwidth}
+          \input{analysis-and-modeling} \vspace{\blocksep}
+        \end{column}
+
+        \begin{column}{\colwidth}
+          \input{evaluation} \vspace{\blocksep}
+          \input{future-work} \vspace{\blocksep}
+        \end{column}      
+      \end{columns}
+    \end{column}      
+  \end{columns}
+\end{frame}
+\end{document}

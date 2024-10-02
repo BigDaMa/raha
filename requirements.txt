@@ -7,3 +7,7 @@ prettytable==0.7.2
 mwparserfromhell==0.5.4
 beautifulsoup4==4.6.0
 py7zr==0.20.2
+
+# only required for dask_version
+dask==2023.10.1
+distributed==2023.10.1

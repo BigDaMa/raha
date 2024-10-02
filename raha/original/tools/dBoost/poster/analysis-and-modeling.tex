@@ -1,0 +1,56 @@
+\newcommand{\picturecolumn}[2][1]{
+    \begin{column}{.32\textwidth}
+      \begin{figure}
+        \centering
+        \includegraphics[height=.75\linewidth,page=#1]{#2}
+      \end{figure}
+    \end{column}
+}
+\newcommand{\hsepline}{
+  \par\vspace{-.75\baselineskip}
+  \rule{0.9\linewidth}{1pt}
+}
+
+\begin{block}{\thighlight{Outliers characterization and detection}}
+  \subttl{Statistical analysis}
+  \begin{center}
+    \begin{minipage}{.5\textwidth}
+      \centering
+      Pearson's correlation
+      \hsepline{}
+      Soft dependencies between numerical series
+    \end{minipage}
+  \end{center}
+  
+  \vspace{0.5\baselineskip}\subttl{Data modeling}
+  \begin{columns}[T]
+    \begin{column}{.32\textwidth}
+      \centering
+      Gaussian Model
+      \hsepline{}
+      Simple numerical data
+    \end{column}
+    
+    \begin{column}{.32\textwidth}
+      \centering
+      Mixture Model
+      \hsepline{}
+      Multivariate numerical data
+    \end{column}
+
+    \begin{column}{.32\textwidth}
+      \centering
+      Histogram
+      \hsepline{}
+      Multivariate heterogeneous data
+    \end{column}
+  \end{columns}
+  ~
+  
+  \subttl{Outlier Analysis}	
+  \begin{columns}[T]
+    \picturecolumn[1]{../graphics/models-plots-crop.pdf}
+    \picturecolumn[2]{../graphics/models-plots-crop.pdf}
+    \picturecolumn[3]{../graphics/models-plots-crop.pdf}
+  \end{columns}
+\end{block}

@@ -10,8 +10,11 @@ setup(
     author_email="moh.mahdavi.l@gmail.com",
     description="Raha and Baran: An End-to-End Data Cleaning System",
     keywords=["Data Cleaning", "Machine Learning", "Error Detection", "Error Correction", "Data Repairing"],
-    install_requires=["numpy", "pandas", "scipy", "scikit-learn", "matplotlib", 
+    install_requires=["numpy", "pandas==2.0.1", "scipy", "scikit-learn", "matplotlib",
     "prettytable", "mwparserfromhell", "beautifulsoup4", "py7zr"],
+    extras_require={
+      "dask": ["dask", "distributed"]
+    },
     include_package_data=True,
     download_url="https://github.com/BigDaMa/raha/archive/v1.26.tar.gz"
 )
