@@ -65,7 +65,7 @@ def email_checks(s: str) -> ("simple email check",): # "RFC822 email check"):
 @rule
 def email_domain(s: str) -> ("email domain",):
     match = HTML5_EMAIL_VALIDATOR.match(s)
-    return (match.group("ext").lower() if match else "NONE",)
+    return (match.group("ext").lower() if match and match.group("ext") else "NONE”,)
 
 @rule
 def id(s: str) -> ("id",):
