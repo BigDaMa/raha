@@ -55,7 +55,7 @@ class Dataset:
         This method reads a dataset from a csv file path.
         """
         dataframe = pandas.read_csv(dataset_path, sep=",", header="infer", encoding="utf-8", dtype=str,
-                                    keep_default_na=False, low_memory=False).applymap(self.value_normalizer)
+                                    keep_default_na=False, low_memory=False).map(self.value_normalizer)
         return dataframe
 
     @staticmethod
