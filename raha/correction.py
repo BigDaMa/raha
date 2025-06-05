@@ -9,30 +9,31 @@
 ########################################
 
 
+import bz2
+import difflib
+import functools
+import io
+import itertools
+import json
+import math
 ########################################
 import os
-import io
-import sys
-import math
-import json
 import pickle
-import difflib
+import sys
 import unicodedata
-import itertools
-import functools
 from multiprocessing import Pool
 
 import bs4
-import bz2
+import mwparserfromhell
 import numpy
 import py7zr
-import mwparserfromhell
-import sklearn.svm
 import sklearn.ensemble
-import sklearn.naive_bayes
 import sklearn.linear_model
+import sklearn.naive_bayes
+import sklearn.svm
 
 import raha
+
 ########################################
 
 def worker_init_prediction(dataset, cls_model):
@@ -58,6 +59,7 @@ class Correction:
         self.PRETRAINED_VALUE_BASED_MODELS_PATH = ""
         self.VALUE_ENCODINGS = ["identity", "unicode"]
         self.CLASSIFICATION_MODEL = "ABC"   # ["ABC", "DTC", "GBC", "GNB", "KNC" ,"SGDC", "SVC"]
+        self.USE_PREDICTION_CONFIDENCE = True
         self.IGNORE_SIGN = "<<<IGNORE_THIS_VALUE>>>"
         self.VERBOSE = False
         self.SAVE_RESULTS = True
@@ -546,16 +548,26 @@ class Correction:
             _, pair_features, _ = self._feature_generator_process([cell], dataset=d)
             
             if all_ones:
-                predictions = numpy.ones(len(pair_features[cell]))
+                dict_keys = list(pair_features[cell].keys())
+                if dict_keys:
+                    correction_dict[cell] = dict_keys[0]
             elif all_zeros:
                 continue
             else:
-                predictions = classification_model.predict(list(pair_features[cell].values()))
-
-            dict_keys = list(pair_features[cell].keys())
-            for index, predicted_label in enumerate(predictions):
-                if predicted_label:
-                    correction_dict[cell] = dict_keys[index]
+                dict_keys = list(pair_features[cell].keys())
+                if hasattr(classification_model, "decision_function") and self.USE_PREDICTION_CONFIDENCE:
+                    decision_scores = classification_model.decision_function(list(pair_features[cell].values()))
+                    positive_indices = numpy.where(decision_scores > 0)[0]
+                    if len(positive_indices) > 0:
+                        best_index = positive_indices[numpy.argmax(decision_scores[positive_indices])]
+                        correction_dict[cell] = dict_keys[best_index]
+                else:
+                    # Fallback for classifiers without decision_function
+                    predictions = classification_model.predict(list(pair_features[cell].values()))
+                    for index, predicted_label in enumerate(predictions):
+                        if predicted_label:
+                            correction_dict[cell] = dict_keys[index]
+                            break
 
         return correction_dict
                 
